@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>18F - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link href='https://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic,300italic,300|Source+Sans+Pro:200,300,300italic,400,400italic,600,600italic,900' rel='stylesheet' type='text/css'>
+
+  <script src="https://use.typekit.net/izz0lvj.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <script src="{{site.baseurl}}/javascripts/jquery-2.1.4.min.js"></script>
+  <script src="{{site.baseurl}}/javascripts/application.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/reset.css">
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/screen.css">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/search.css">
+  <meta http-equiv="refresh" content="0;URL='{{ page.url }}">
+
+</head>
+
+  <body class="no-js layout-article">
+    {% include site-header.html %}
+    {% if page.breadcrumbs %}{% guides_style_18f_include breadcrumbs.html %}{% endif %}
+    <main class="article">
+      <div class="page">
+        <div class="wrapper">
+          <h1>One moment, please&hellip;</h1>
+        </div>
+      </div>
+    </main>
+    {% include site-footer.html %}
+  </body>
+</html>

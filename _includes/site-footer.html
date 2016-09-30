@@ -1,0 +1,19 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <nav>
+      <a href="{{ site.baseurl}}/nav-tips/" class="button button-nav-tips">Navigation tips</a>
+      {% if page.slack-channel %}
+        <a href="https://{{ site.slack.organization }}.slack.com/messages/{{ page.slack-channel }}/" class="button">
+          Discuss this page in <span class="slack">Slack</span>
+        </a>
+      {% endif %}
+      {% unless page.hide_edit_link %}
+      <a class="button button-edit" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/edit/{{ site.github.default_branch }}/{{ page.path }}">Edit this page</a>{% endunless %}
+      <a class="button button-issue" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/issues/">File an issue</a>
+    </nav>
+  </div>
+</footer>
+
+{% guides_style_18f_include analytics.html %}
+
+{% jekyll_pages_api_search_load %}

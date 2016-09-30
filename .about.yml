@@ -1,0 +1,39 @@
+full_name: "18F Handbook"
+name: handbook
+owner_type: project
+github:
+- 18F/handbook
+
+description: >
+  The 18F Handbook documents the mission, values, structures, policies, tools, and guides that shape our organization.
+
+stage: live
+
+links:
+- url: https://handbook.18f.gov
+  text: 18F Handbook (live website)
+  
+# Email addresses of points-of-contact
+contact:
+- url: nicole.fenton@gsa.gov
+  text: Nicole Fenton
+
+team:
+- id: nicole.fenton
+  github: nicoleslaw
+  role: lead
+- id: michael.torres
+  github: mtorres253
+  role: contributor
+- id: andrew.maier
+  github: andrewmaier
+  role: designer
+- id: carlo.costino
+  github: ccostino
+  role: contributing engineer
+- id: melody.kramer
+  github: melodykramer
+  role: former lead
+
+stack:
+- Jekyll

@@ -1,0 +1,5 @@
+language: ruby
+rvm:
+- 2.1.5
+cache: bundler
+script: ./go ci_build
