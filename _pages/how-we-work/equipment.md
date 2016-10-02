@@ -52,7 +52,7 @@ GSA IT will ask for your Apple ID, password, and GKey.
 
 **After GSA IT provisions your phone, set up two-factor SMS verifications.** Email <mailto:accesscard@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for SMS two-factor authentication in our [Slack](/slack), [GitHub](/github), and [Gmail](/gmail) guides. You can also use [Authy](https://www.authy.com/) or [Google Authenticator](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google%20authenticator%20app) with these applications.
 
-### Tips
+### 
 
 - **You can use your phone to access your email.** You should be prompted to sign in with your ENT username and password. Note that the GSA IT ServiceDesk does not support this connection, so please do not ask them about it as they will reject your request.
 - **[You can tether to your laptop to iPhone](https://support.apple.com/en-us/HT204023)** for internet access when you're on the go.
@@ -117,9 +117,9 @@ If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employ
 
 18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS.
 
-## Tips for better passwords
+## Requirements for  passwords
 
-As you set up your 18F accounts and devices, here are three tips for making passwords that reduce security risks: use a password manager, use unique passwords, and use stronger passwords.
+As you set up your 18F accounts and devices, here are three requirements for making passwords that reduce security risks: use a password manager, use unique passwords, and use stronger passwords.
 
 ### 1. Use a password manager
 
