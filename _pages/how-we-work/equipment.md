@@ -35,7 +35,7 @@ All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this i
 
 **Check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790).** GSA IT sets up your laptop with FileVault encryption. You won't need to (and shouldn't) change this, but you can check it in your System Preferences just to see that it's there and properly set up.
 
-**Encrypt all portable media that will connect to any 18F system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. Please choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
+**Encrypt all portable media that will connect to any 18F system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
 ## Phone
 
@@ -43,16 +43,13 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 
 ### Rules
 
-GSA IT will ask for your Apple ID, password, and GKey.
+- GSA IT will ask for your Apple ID and password. **Do not send your personal Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA email address, or set one up for yourself and use [Fugacious](https://fugacious.18f.gov/) to send them your password securely. (Never share passwords over email.)
 
-- **Do not send your personal Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA email address, or set one up for yourself and use [Fugacious](https://fugacious.18f.gov/) to send your password along securely. (In general, you should never share your password over email. In this case, however, the provisioning process requires it, so you can make an exception.)
-- To retrieve your GKey, visit <http://gkey.gsa.gov/> and click the "Reset gKey" button.
+- **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
 
-**Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
+- **After GSA IT provisions your phone, set up two-factor verifications.** Email <mailto:accesscard@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for two-factor authentication in our [Slack](/slack), [GitHub](/github), and [Gmail](/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
-**After GSA IT provisions your phone, set up two-factor SMS verifications.** Email <mailto:accesscard@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for SMS two-factor authentication in our [Slack](/slack), [GitHub](/github), and [Gmail](/gmail) guides. You can also use [Authy](https://www.authy.com/) or [Google Authenticator](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google%20authenticator%20app) with these applications.
-
-### 
+### Tips
 
 - **You can use your phone to access your email.** You should be prompted to sign in with your ENT username and password. Note that the GSA IT ServiceDesk does not support this connection, so please do not ask them about it as they will reject your request.
 - **[You can tether to your laptop to iPhone](https://support.apple.com/en-us/HT204023)** for internet access when you're on the go.
@@ -62,7 +59,7 @@ GSA IT will ask for your Apple ID, password, and GKey.
 
 ## Business cards
 
-Different 18F team members have different solutions for business cards. At this time, you must purchase your own business cards. You can purchase them from [GovBusinessCards](http://www.govbusinesscards.com/) or [Moo](http://www.moo.com/).
+Different 18F team members have different solutions for business cards. At this time, you must purchase your own business cards if you want 18F branding.
 
 You can request [GSA business cards](https://cap.18f.gov/gsa18f/procurements/new), which are free and don't reflect 18F's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
 
@@ -84,7 +81,7 @@ To make a request:
 
 If you're requesting software that no one else at 18F uses yet, be sure you have written approval from [#infrastructure](https://18f.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://18f.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
 
-If you'd like to check out Apple peripherals (for example, a Magic mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
+If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
 
 ## Equipment to accommodate disability
@@ -98,7 +95,7 @@ To purchase this type of equipment, go to <https://cap.18f.gov/> and attach a do
 
 ## Repairs
 
-If 18F issued equipment fails due to manufacturer defects or accidental damage:
+If 18F-issued equipment fails due to manufacturer defects or accidental damage:
 
 - 18F will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all 18F-issued hardware and peripherals.
 - Employees are responsible for informing Team Ops in [#equipment](https://18f.slack.com/messages/equipment) of the damage or need for repair by the close of business one business day following the damage.
@@ -117,21 +114,21 @@ If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employ
 
 18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS.
 
-## Requirements for  passwords
+## Requirements for passwords
 
-As you set up your 18F accounts and devices, here are three requirements for making passwords that reduce security risks: use a password manager, use unique passwords, and use stronger passwords.
+As you set up your 18F accounts and devices, we have three requirements for making passwords that reduce security risks: use a password manager, use unique passwords, and use stronger passwords.
 
 ### 1. Use a password manager
 
 There's a secret to dealing with passwords: use a password manager to store your passwords. This way, you only need to memorize a few strong passwords: your master password for the password manager, your laptop password and phone passcode, and maybe a few others (such as your iCloud password if that's [your recovery method for forgetting your laptop password](/equipment/#laptop)).
 
-[**1Password**](https://1password.com/) and [**KeePassX**](https://www.keepassx.org/) are password managers approved for work. You can get a license for 1Password by asking [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov). KeePassX is free.
+[**1Password**](https://1password.com/) and [**KeePassX**](https://www.keepassx.org/) are password managers approved for work at 18F. You can get a license for 1Password by asking [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov). KeePassX is free.
 
 You can use iCloud or Dropbox or manual syncing to keep your 1Password or KeePassX synced across multiple work devices (work laptop to work phone, for example), as you're just transferring encrypted information around. Do not store the password in iCloud. iCloud Keychain isn't approved for work-related passwords or other sensitive government information.
 
 You can use your password manager to generate a random unique password for each service you use. In [**1Password**, use these instructions](https://support.1password.com/guides/mac/generate-a-strong-password.html). OS X also has a local password generator: in the **Keychain Access** app, view the suggestions under **File > New Password Item > key icon**.
 
-You can use your password manager to store answers to security questions. Instead of setting up real answers (which could be guessable by somebody with information about you), consider setting up nonsense answers and storing those answers in your password manager.
+You can use your password manager to store answers to security questions. Instead of setting up real answers (which could be guessable by somebody with information about you), consider setting up random nonsense answers and storing those answers in your password manager.
 
 ### 2. Use unique passwords
 
