@@ -36,7 +36,7 @@ Links to websites we use regularly.
 * [Gmail](https://email.gsa.gov/)
 * [Google Calendar](https://calendar.gsa.gov/)
 * [Google Drive team folder](https://drive.google.com/drive/u/0/folders/0B84F26FpUP0lR1B2VVNGSi1MMVk)
-* [Slack](https://18f.slack.com)
+* [Slack](https://gsa-tts.slack.com)
 * [Tock](https://tock.18f.gov/): track your time
 * [Twitter](https://twitter.com/18F/lists/team): follow your colleagues
 

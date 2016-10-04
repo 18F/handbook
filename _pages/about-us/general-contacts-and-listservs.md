@@ -18,7 +18,7 @@ Information you might need for filling out GSA forms:
 - [18F team contact info sheet](https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3) and [OCSIT/18F telephone directory](https://docs.google.com/spreadsheets/d/1d3Eom-marGFCQHEn5JcZfONO8lSBdhxde16hpqCNchs/edit#gid=1429531777) (our phone numbers, email addresses, and more)
 - [Presidential Innovation Fellows (PIFs) contact info](https://docs.google.com/spreadsheets/d/1ejzCQLvRVaMjw1V-WOH_iabRd9dAT_mccaxrbJCNOQQ/edit#gid=1628534837)
 - [18F website team members list](https://18f.gsa.gov/team/) (this isn't always complete)
-- [18F #alumni channel](https://18f.slack.com/messages/alumni/)
+- [18F #alumni channel](https://gsa-tts.slack.com/messages/alumni/)
 - [18F info for press](https://18f.gsa.gov/press/)
 
 ## Offices

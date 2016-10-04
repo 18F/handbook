@@ -5,7 +5,7 @@ navtitle: History and values
 
 18F stands on the shoulders of giants! These teams paved the way for our existence: the Consumer Financial Protection Bureau, the Office of Personnel Management Lab (focused on user experience, user research, and human-centered design in government), the Sunlight Foundation, Code for America, the Office of Citizen Services and Innovative Technologies (our sister org, which has been around for a decade and runs things like USA.gov), the U.S. CTO’s office, and the Presidential Innovation Fellowship.
 
-The hypothesis was simple: the U.S. government could attract talented technologists to the civil service by enticing them with meaty problems and an opportunity for huge impact. The MVP was the Presidential Innovation Fellowship (go say hello to the <a href="https://18f.slack.com/messages/pifs/">#pifs</a>), which proved you could get people to give up (or take a break from) their jobs in the private sector to serve a tour of duty in the federal government. The next step was to convince people to serve longer than a six-to-12-month fellowship and join a product delivery team.
+The hypothesis was simple: the U.S. government could attract talented technologists to the civil service by enticing them with meaty problems and an opportunity for huge impact. The MVP was the Presidential Innovation Fellowship (go say hello to the <a href="https://gsa-tts.slack.com/messages/pifs/">#pifs</a>), which proved you could get people to give up (or take a break from) their jobs in the private sector to serve a tour of duty in the federal government. The next step was to convince people to serve longer than a six-to-12-month fellowship and join a product delivery team.
 
 ## The Presidential Innovation Fellows
 
@@ -25,7 +25,7 @@ On December 17th eight of us came to work as PIFs and the next day we came to wo
 We quickly hired a few folks from those organizations mentioned above (specifically CFPB and Sunlight), and we got to work hacking the bureaucracy around the two things we knew we be the ultimate blockers to a team like ours: ​*hiring*​ and ​*deployment*​ — we're still working on them! But the team's [early work](https://18f.gsa.gov/2014/05/14/hacking-bureaucracy-improving-hiring-and-software/) set the stage for our independence in these areas.
 
 
-GSA officially launched 18F on March 19, 2014. The name is an abbreviation for the intersection of 18th and F Streets in Washington, D.C., where GSA headquarters is located. In March 2014, the 18F team had 15 full-time staff. We've grown 10x in the last 18 months! :bow: to team <a href="https://18f.slack.com/messages/talent/">#talent</a> and <a href="https://18f.slack.com/messages/teamops/">#teamops</a>!
+GSA officially launched 18F on March 19, 2014. The name is an abbreviation for the intersection of 18th and F Streets in Washington, D.C., where GSA headquarters is located. In March 2014, the 18F team had 15 full-time staff. We've grown 10x in the last 18 months! :bow: to team <a href="https://gsa-tts.slack.com/messages/talent/">#talent</a> and <a href="https://gsa-tts.slack.com/messages/teamops/">#teamops</a>!
 
 ## How we fund our work
 

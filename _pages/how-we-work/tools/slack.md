@@ -6,14 +6,14 @@ Slack is a chat client that provides us with a centralized way to communicate wi
 
 ## Setup
 
-Because Slack is a web application, there’s no installation necessary. You can [login online](https://18f.slack.com/) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.
+Because Slack is a web application, there’s no installation necessary. You can [login online](https://gsa-tts.slack.com/) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.
 
 
 ## Rules
 
-- **Complete [your profile](https://18f.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
+- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options.
-- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/@noah/) and [Hillary Hartley](https://18f.slack.com/messages/@hillary/).
+- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/@noah/) and [Hillary Hartley](https://gsa-tts.slack.com/messages/@hillary/).
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** If you need to share sensitive data (environmental variables, passwords, and so forth), please use [Fugacious](https://fugacious.18f.gov/) to create a short message that is auto-deleted. If the information you need to share is very complex, please share it using a GSA Google Drive folder, and then promptly delete it once you’re done sharing.
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack.
 
@@ -33,23 +33,23 @@ You may be invited to other Slack teams operated by government entities, or enti
 
 ### Project stakeholders
 
-You can invite government partners to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as `single-channel guests` at no cost to the project or agency. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://18f.slack.com/pricing) to your IAA.
+You can invite government partners to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as `single-channel guests` at no cost to the project or agency. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://gsa-tts.slack.com/pricing) to your IAA.
 
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
-1. Post the email/username of the partner(s) and what channel(s) they should be in in [#admins-slack](https://18f.slack.com/messages/admins-slack/).
+1. Post the email/username of the partner(s) and what channel(s) they should be in in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/).
 1. If you want partners to have access to _more_ than one channel:
     1. The admin will make them a multi-channel user, and update [the multi-channel user list](https://docs.google.com/spreadsheets/d/1weEbuD1RUqtwTiHCT_roD6tvKkBiQL5nkLe8btxyKHA/edit).
-    1. Give [#finance](https://18f.slack.com/messages/finance/) a heads up.
+    1. Give [#finance](https://gsa-tts.slack.com/messages/finance/) a heads up.
 
 ### Friends
 
-Friends from other government teams can be invited into a project's channel or a general purpose channel like [#friends](https://18f.slack.com/messages/friends/). If the individual is a federal employee, and the main purpose of inviting them is to work on government projects, the invite should be sent to their `.gov`/`.mil` email address.
+Friends from other government teams can be invited into a project's channel or a general purpose channel like [#friends](https://gsa-tts.slack.com/messages/friends/). If the individual is a federal employee, and the main purpose of inviting them is to work on government projects, the invite should be sent to their `.gov`/`.mil` email address.
 
 ## Records policy
 
 Per the mandatory [General Records Schedule 3.1](http://www.archives.gov/records-mgmt/memos/ac33-2014.html) issued by the National Archives and Records Administration (NARA), everything in Slack channels and groups is considered at minimum a temporary record.
 
-To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in [#admins-slack](https://18f.slack.com/messages/admins-slack/).
+To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/).
 
 This policy applies to all types of Slack communications: public channels, private groups, even direct messages. **Nothing is private.** We use the [compliance export](https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-policy-update#complianceexport) capability in Slack to view all messages. The Primary Team Owner is responsible for ensuring monthly exports and backing these exports up in GSA's Google Drive.
 
@@ -92,12 +92,12 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 - **You can use Slack as an archival system.** It has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for that in Slack before asking.
 - You can also search by tagged emoji, which is why you’ll frequently see people leaving emoji on messages. We use the :evergreen_tree: emoji to catalog things we need to document for future new hires. To see all messages tagged with a particular emoji, search Slack for `has:{{emoji_name}}` (for example `has::evergreen_tree:`). We have a blog post about this [here](https://18f.gsa.gov/2015/12/08/using-emoji-for-knowledge-sharing/).
 - **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.
-- **Praise your coworkers.** If you'd like to praise someone for doing good work, start a message with `love @username` or `:heart: @username` in [#general-talk](https://18f.slack.com/archives/general-talk), or any channel in which [Charlie](https://18f.slack.com/team/charlie) is present. You can also see recent praise in [#love](https://18f.slack.com/archives/love).
+- **Praise your coworkers.** If you'd like to praise someone for doing good work, start a message with `love @username` or `:heart: @username` in [#general-talk](https://gsa-tts.slack.com/archives/general-talk), or any channel in which [Charlie](https://gsa-tts.slack.com/team/charlie) is present. You can also see recent praise in [#love](https://gsa-tts.slack.com/archives/love).
 - **Use text encoding when pasting a large chunk of text.** Use the + sign to the left of the text box to create a snippet. There will be an option to select how you would like to encode the text; select plain text to avoid smart quotes, if you're pasting code.
 - **Emojis come in different colors.** Tired of tabbing through multiple skin color emoji to find the one you want or identify with? Click on the Emoji Deluxe picker (the smily face in the text box) - then click on the emoji in the bottom right corner. You can then select a default color going forward.
 - **Change your color scheme.** You can change your color scheme by going to Preferences --> Theme --> Custom Theme. Paste the following for the US Design Standards theme: `#112E51,#205493,#0071BC,#FFFFFF,#323A45,#FFFFFF,#4AA564,#981B1E`
 - **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
-- **Update Slackbot.** We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://18f.slack.com/customize/slackbot). (You can also [add emoji](https://18f.slack.com/customize/emoji)).
+- **Update Slackbot.** We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-tts.slack.com/customize/emoji)).
 
 ### Frequently used emoji
 
@@ -113,7 +113,7 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
 :point_up: = I would also say this (can mean "this is correct" if you are the decider)
 
-:raccoon: ===> Slack channel = taking this conversation to another channel (useful for longer threads that start in [#general-talk](https://18f.slack.com/archives/general-talk))
+:raccoon: ===> Slack channel = taking this conversation to another channel (useful for longer threads that start in [#general-talk](https://gsa-tts.slack.com/archives/general-talk))
 
 :raised_hand: = I volunteer
 
@@ -127,13 +127,13 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
 ### Bots
 
-- [Angry Tock](https://18f.slack.com/team/angrytock): our fierce timesheet reminder.
-- [Charlie](https://18f.slack.com/team/charlie), a.k.a. _El Hubot Real_: our [Hubot instance](https://github.com/18F/18f-bot). Knows all kinds of tricks. To get a list of them, send Charlie a direct message with the word `help`.
-- [coffeemate](https://18f.slack.com/team/coffeemate): direct message @coffeemate with `coffee me` to set up a virtual coffee/tea with a random coworker.
-- [Dolores Landingham](https://18f.slack.com/team/mrs_landingham): our onboarding bot. Ask for access in [#wg-onboarding](https://18f.slack.com/archives/wg-onboarding).
-- [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): Slack's own bot is relatively simple, but easy to [customize with automatic responses](https://18f.slack.com/customize/slackbot).
+- [Angry Tock](https://gsa-tts.slack.com/team/angrytock): our fierce timesheet reminder.
+- [Charlie](https://gsa-tts.slack.com/team/charlie), a.k.a. _El Hubot Real_: our [Hubot instance](https://github.com/18F/18f-bot). Knows all kinds of tricks. To get a list of them, send Charlie a direct message with the word `help`.
+- [coffeemate](https://gsa-tts.slack.com/team/coffeemate): direct message @coffeemate with `coffee me` to set up a virtual coffee/tea with a random coworker.
+- [Dolores Landingham](https://gsa-tts.slack.com/team/mrs_landingham): our onboarding bot. Ask for access in [#wg-onboarding](https://gsa-tts.slack.com/archives/wg-onboarding).
+- [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): Slack's own bot is relatively simple, but easy to [customize with automatic responses](https://gsa-tts.slack.com/customize/slackbot).
 
-If you're interested in learning more about the bots, or perhaps contributing to them, pop into [#bots](https://18f.slack.com/archives/bots/).
+If you're interested in learning more about the bots, or perhaps contributing to them, pop into [#bots](https://gsa-tts.slack.com/archives/bots/).
 
 --------------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ If you're interested in learning more about the bots, or perhaps contributing to
 
 ### Channel naming conventions
 
-- Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://18f.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
+- Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
 - Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. See [the Grouplet Playbook](https://pages.18f.gov/grouplet-playbook/) for information about working groups and guilds.
 - Channels that end with `-partner` include partners from other agencies.
 - Channels that end with `-public` may include members of the public.
@@ -156,8 +156,8 @@ If you're interested in learning more about the bots, or perhaps contributing to
 - Type `/hero` to start Screen Hero automatically.
 - Type `[message XPOST #channel-name]` to cross-post a message to a different channel while posting it.
 - Type `/remind` to remind yourself to do something in the future.
-- Type `love @username for [message]` to publicly praise and thank someone. If [Charlie](#bots) is in the channel, it will copy your message to [#love](https://18f.slack.com/archive/love).
-- Type `charlie hug bomb` for a dose of team love! To add your picture, email it to [Aidan Feldman](mailto:aidan.feldman@gsa.gov?subject=Please%20add%20me%20to%20the%20hug%20bomb) or [Diego Lapiduz](mailto:diego.lapiduz@gsa.gov?subject=Please%20add%20me%20to%20the%20hug%20bomb) or post in [#admins-slack](https://18f.slack.com/messages/admins-slack/).
+- Type `love @username for [message]` to publicly praise and thank someone. If [Charlie](#bots) is in the channel, it will copy your message to [#love](https://gsa-tts.slack.com/archive/love).
+- Type `charlie hug bomb` for a dose of team love! To add your picture, email it to [Aidan Feldman](mailto:aidan.feldman@gsa.gov?subject=Please%20add%20me%20to%20the%20hug%20bomb) or [Diego Lapiduz](mailto:diego.lapiduz@gsa.gov?subject=Please%20add%20me%20to%20the%20hug%20bomb) or post in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/).
 - Press `Option + Up` or `Option + Down` to switch between channels and direct messages.
 - Press `Esc` to mark all messages in the current channel as read.
 - Press `Shift + Esc` to mark all messages across all channels as read. Only do this if you’ve caught up in channels for your projects first.
@@ -169,4 +169,4 @@ If you're interested in learning more about the bots, or perhaps contributing to
 
 #### Still have questions?
 
-Ask in Slack: [#admins-slack](https://18f.slack.com/messages/admins-slack), [#it-issues](https://18f.slack.com/messages/it-issues), [#questions](https://18f.slack.com/messages/questions), [#teamops](https://18f.slack.com/messages/teamops)
+Ask in Slack: [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack), [#it-issues](https://gsa-tts.slack.com/messages/it-issues), [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops)

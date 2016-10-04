@@ -7,9 +7,9 @@ title: Distributed
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-          <a href="https://18f.slack.com/messages/@leahgitter">Leah Gitter</a><br />
-          <a href="https://18f.slack.com/messages/@vv">Victor Valdivizeo</a><br />
-          <a href="https://18f.slack.com/messages/@shawnique">Shawnique Muller</a><br />
+          <a href="https://gsa-tts.slack.com/messages/@leahgitter">Leah Gitter</a><br />
+          <a href="https://gsa-tts.slack.com/messages/@vv">Victor Valdivizeo</a><br />
+          <a href="https://gsa-tts.slack.com/messages/@shawnique">Shawnique Muller</a><br />
           (Leah, Victor, and Shawnique's phone numbers are in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>.)<br />
           <a href="mailto:accesscard@gsa.gov">GSA Access Card Support</a>
         </td>
@@ -19,14 +19,14 @@ title: Distributed
           <strong>Slack&nbsp;channels</strong>
         </td>
         <td class="col-value">
-          <a href="https://18f.slack.com/messages/distributed/">#distributed</a>,
-          <a href="https://18f.slack.com/messages/boston/">#boston</a>,
-          <a href="https://18f.slack.com/messages/heartland/">#heartland</a>,
-          <a href="https://18f.slack.com/messages/southwest/">#southwest</a>,
-          <a href="https://18f.slack.com/messages/rdu/">#rdu</a>,
-          <a href="https://18f.slack.com/messages/atlanta/">#atlanta</a>,
-          <a href="https://18f.slack.com/messages/philadelphia/">#philadelphia</a>,
-          <a href="https://18f.slack.com/messages/rockies">#rockies</a>
+          <a href="https://gsa-tts.slack.com/messages/distributed/">#distributed</a>,
+          <a href="https://gsa-tts.slack.com/messages/boston/">#boston</a>,
+          <a href="https://gsa-tts.slack.com/messages/heartland/">#heartland</a>,
+          <a href="https://gsa-tts.slack.com/messages/southwest/">#southwest</a>,
+          <a href="https://gsa-tts.slack.com/messages/rdu/">#rdu</a>,
+          <a href="https://gsa-tts.slack.com/messages/atlanta/">#atlanta</a>,
+          <a href="https://gsa-tts.slack.com/messages/philadelphia/">#philadelphia</a>,
+          <a href="https://gsa-tts.slack.com/messages/rockies">#rockies</a>
         </td>
       </tr>
       <tr>
@@ -59,7 +59,7 @@ We use a videocall for our all-hands meetings. Instructions are in the calendar 
 
 ### <a id="visit-another-gsa-building">Visit another GSA building?</a>
 
-Your badge should work in other GSA buildings. <a href="https://18f.slack.com/messages/@kathryn/">Kathryn Connolly</a> can submit paperwork to get permission for you to enter the NYC, Chicago, or D.C. buildings, which will take a few days. After you receive an email confirmation, visit the security office in that new building to activate your card.
+Your badge should work in other GSA buildings. <a href="https://gsa-tts.slack.com/messages/@kathryn/">Kathryn Connolly</a> can submit paperwork to get permission for you to enter the NYC, Chicago, or D.C. buildings, which will take a few days. After you receive an email confirmation, visit the security office in that new building to activate your card.
 
 
 ### <a id="connect-to-gsa">Connect to the GSA network remotely?</a>
@@ -68,7 +68,7 @@ See [Networks](/networks) for details.
 
 ### <a id="get-my-laptop-repaired">Get my laptop repaired?</a>
 
-First, go to [#teamops](https://18f.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we&rsquo;ll ship you a new laptop).
+First, go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we&rsquo;ll ship you a new laptop).
 
 ### <a id="tether">Tether to my GSA phone?</a>
 
@@ -84,15 +84,15 @@ GSA provides remote workers with a laptop and phone but does not provide monitor
 From Peter Karman and Becky Sweger:
 
 - **Invest in a decent set of headphones with a microphone.** It&rsquo;s often painful to have meetings with folks who rely on their laptop mics for audio: There are echoes, it&rsquo;s hard to hear, etc. Please try not to do that! Instead, get the kind that can plug into a laptop and your phone. These are an invaluable tool for long conference calls. Sennheiser's HD 219 headphones have worked for some of us.
-- **GSA can also provide a wireless keyboard and a mouse.** If you&rsquo;re in need of extra equipment, just ask. Hop into [#equipment](https://18f.slack.com/messages/equipment/) on Slack.
-- **A standing desk is critical for your health.** Folks in the [#distributed](https://18f.slack.com/messages/distributed/) channel are always happy to discuss their various standing desk hacks or purchases.
+- **GSA can also provide a wireless keyboard and a mouse.** If you&rsquo;re in need of extra equipment, just ask. Hop into [#equipment](https://gsa-tts.slack.com/messages/equipment/) on Slack.
+- **A standing desk is critical for your health.** Folks in the [#distributed](https://gsa-tts.slack.com/messages/distributed/) channel are always happy to discuss their various standing desk hacks or purchases.
 - **Make sure you can connect to the GSA network remotely.**
 - **GSA&rsquo;s Meeting Space isn&rsquo;t blocked by [most] firewalls.** I&rsquo;ve (Becky) had trouble with other tools in the past, and GSA Meeting Space (powered by Adobe Connect) has universally worked for calls and screen sharing with clients.
 
 ## Keeping in touch
 
 - **Log into the weekly all-hands meeting a few minutes early.** It&rsquo;s a good chance to see faces and chat before the meeting starts.
-- **Co-work Across America!** Gray Brooks and others are working on organizing groups that travel to 18F offices and share the cost of accommodations and travel. Let him know if you want to help, or hop into [#cowork-across-america](https://18f.slack.com/messages/cowork-across-america/) on Slack.
+- **Co-work Across America!** Gray Brooks and others are working on organizing groups that travel to 18F offices and share the cost of accommodations and travel. Let him know if you want to help, or hop into [#cowork-across-america](https://gsa-tts.slack.com/messages/cowork-across-america/) on Slack.
 - **Over communicate.** Working remote means you can&rsquo;t rely on your physical presence to communicate to everyone else whether or not you&rsquo;re &ldquo;at work.&rdquo; Use the [18F Out of Office (OOO) calendar](https://www.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/New_York) if you&rsquo;re assigned to an office and working remotely or if you&rsquo;re working in a different place than usual. On phone calls, don&rsquo;t be afraid to jump in and tell people if you can&rsquo;t hear.
 - **Go to the biweekly coffee meetings with Aaron.**  These meetings are a great way to stay connected to org-wide chatter. Make time for these as often as you can.
 - **Deliberately foster chats that aren&rsquo;t related to work.** People who work out of GSA offices will do this from time to time, and you should, too. Ask people out to virtual tea!

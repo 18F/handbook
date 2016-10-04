@@ -91,4 +91,4 @@ If you are traveling to orientation and are worried that you will miss it becaus
 
 While Shawnique and the travel team won't be available until Monday if your cancellation occurs over the weekend, please feel comfortable rebooking your travel either though the airline or via Ad-Trav, and rest assured that you will be in good hands when you arrive at 18F.
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

@@ -15,7 +15,7 @@ Our key pieces of documentation include [Joining 18F](https://pages.18f.gov/join
 
 ## Communication
 
-If you have any questions, you can find us on Slack in [#talent](https://18f.slack.com/messages/talent/), [#18f-join-page](https://18f.slack.com/messages/18f-join-page/), [#benefits](https://18f.slack.com/messages/benefits/), [#talent-design-process](https://18f.slack.com/messages/design-talent-process/), and [#18fc-talent-process](https://18f.slack.com/messages/18fc-talent-process/). There are a few private channels for the Talent Team that we will add folks to if applicable.
+If you have any questions, you can find us on Slack in [#talent](https://gsa-tts.slack.com/messages/talent/), [#18f-join-page](https://gsa-tts.slack.com/messages/18f-join-page/), [#benefits](https://gsa-tts.slack.com/messages/benefits/), [#talent-design-process](https://gsa-tts.slack.com/messages/design-talent-process/), and [#18fc-talent-process](https://gsa-tts.slack.com/messages/18fc-talent-process/). There are a few private channels for the Talent Team that we will add folks to if applicable.
 
 --------------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ As you'd guess, everyone's weeks looks a little different. That said, there are 
 
 ### <a id="communication-channels">Communication channels</a>
 
-- **Slack channels:** [#talent](https://18f.slack.com/messages/talent/), [#18f-join-page](https://18f.slack.com/messages/18f-join-page/), [#benefits](https://18f.slack.com/messages/benefits/), [#talent-design-process](https://18f.slack.com/messages/design-talent-process/), [#18fc-talent-process](https://18f.slack.com/messages/18fc-talent-process/).
+- **Slack channels:** [#talent](https://gsa-tts.slack.com/messages/talent/), [#18f-join-page](https://gsa-tts.slack.com/messages/18f-join-page/), [#benefits](https://gsa-tts.slack.com/messages/benefits/), [#talent-design-process](https://gsa-tts.slack.com/messages/design-talent-process/), [#18fc-talent-process](https://gsa-tts.slack.com/messages/18fc-talent-process/).
 - **Mailing lists**
 
   - 18F-TalentTeam@gsa.gov for emailing the entire Talent Team only.
@@ -103,7 +103,7 @@ As you'd guess, everyone's weeks looks a little different. That said, there are 
 
 Here are some common tools we use, how we use them, and how you can get access to them. If you can't find the information you need in the chart below, get in touch with your buddy on the Talent Team; they'll be able to point you in the right direction.
 
-And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://docs.google.com/spreadsheets/d/1nrdfmL8DNjRJb45N3QZjvX8TeIcHth3Cy0rO5jVIvKo/edit#gid=1) of approved tools. If what you want to use isn't there, you'll need to [ask in #infrastructure](https://18f.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
+And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://docs.google.com/spreadsheets/d/1nrdfmL8DNjRJb45N3QZjvX8TeIcHth3Cy0rO5jVIvKo/edit#gid=1) of approved tools. If what you want to use isn't there, you'll need to [ask in #infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
 
 - **Hangouts:** Use it for all things video-conferencing.
 - **Mural.ly:**  Use it for research analysis and workshops. Get more info [here](/murally/). Access is immediate, but you'll need to get permission from an admin to create rooms.

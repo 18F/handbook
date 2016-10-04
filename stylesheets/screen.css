@@ -42,12 +42,12 @@ a:visited{  color: #8d0058; }
   background: #ffe4c5; /* Gecko Browsers */
 }
 
-a.button[href^="https://18f.slack.com"]::before{
+a.button[href^="https://gsa-tts.slack.com"]::before{
 	display: none;
 }
 
 
-a[href^="https://18f.slack.com"]::before,
+a[href^="https://gsa-tts.slack.com"]::before,
 a.button span.slack::before{
 	content: "";
 	width: 20px;

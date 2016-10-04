@@ -15,8 +15,8 @@ title: Washington, D.C.
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-          <a href="https://18f.slack.com/messages/leahgitter/">Leah Gitter</a><br />
-          <a href="https://18f.slack.com/messages/shawnique/">Shawnique Muller</a><br />
+          <a href="https://gsa-tts.slack.com/messages/leahgitter/">Leah Gitter</a><br />
+          <a href="https://gsa-tts.slack.com/messages/shawnique/">Shawnique Muller</a><br />
           Phone numbers are in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a><br />
           <a href="mailto:1800ftenantsupport@gsa.gov">GSA Tenant Support</a>
         </td>
@@ -26,7 +26,7 @@ title: Washington, D.C.
           <strong>Slack&nbsp;channels</strong>
         </td>
         <td class="col-value">
-          <a href="https://18f.slack.com/messages/dc/">#dc</a>, <a href="https://18f.slack.com/messages/dc-lunchbell/">#dc-lunchbell</a>, <a href="https://18f.slack.com/messages/dc-lunch-club/">#dc-lunch-club</a>, <a href="https://18f.slack.com/messages/dc-snack-inventory/">#dc-snack-inventory</a>
+          <a href="https://gsa-tts.slack.com/messages/dc/">#dc</a>, <a href="https://gsa-tts.slack.com/messages/dc-lunchbell/">#dc-lunchbell</a>, <a href="https://gsa-tts.slack.com/messages/dc-lunch-club/">#dc-lunch-club</a>, <a href="https://gsa-tts.slack.com/messages/dc-snack-inventory/">#dc-snack-inventory</a>
         </td>
       </tr>
       <tr>
@@ -97,7 +97,7 @@ Enter through the main building entrance on F Street, tell the security guard yo
 
 ### Enter the building if I&rsquo;m based in another office?
 
-Your badge should get you in. If you&rsquo;re having trouble, call one of the points of contact listed above, or ask in [#dc](https://18f.slack.com/messages/dc/).
+Your badge should get you in. If you&rsquo;re having trouble, call one of the points of contact listed above, or ask in [#dc](https://gsa-tts.slack.com/messages/dc/).
 
 
 ### Get my fingerprints and badge?
@@ -165,7 +165,7 @@ The lockers are in two spots. One set is by the couches the other by that large 
 
 ### Snacks
 
-GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Additionally, there are a series of three drawers for snack foods located within 18F infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://18f.slack.com/messages/dc/) if you want to contribute and join.
+GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Additionally, there are a series of three drawers for snack foods located within 18F infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://gsa-tts.slack.com/messages/dc/) if you want to contribute and join.
 
 The DC fridge is cleaned out monthly on Fridays (dates are posted on the fridge), and all food (including containers) is thrown out.
 
@@ -177,7 +177,7 @@ There are several of these located in one of the Gold Key drawers. Batteries can
 
 ### Tissues
 
-There is another fund for purchasing boxes of tissues in the winter months. Ask in [#dc](https://18f.slack.com/messages/dc/) if you want to contribute.
+There is another fund for purchasing boxes of tissues in the winter months. Ask in [#dc](https://gsa-tts.slack.com/messages/dc/) if you want to contribute.
 
 
 ### Water

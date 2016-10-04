@@ -31,16 +31,16 @@ The Design team at 18F includes content, user experience, front-end, and visual 
 
 Find us in Slack:
 
-* [#design](https://18f.slack.com/messages/design)
-* [#g-content](https://18f.slack.com/messages/g-content)
-* [#g-frontend](https://18f.slack.com/messages/g-frontend)
-* [#research](https://18f.slack.com/messages/research)
-* [#writing-lab](https://18f.slack.com/messages/writing-lab)
-* [#18f-branding](https://18f.slack.com/messages/18f-branding)
-* [#g-accessibility](https://18f.slack.com/messages/g-accessibility)
-* [#service-design](https://18f.slack.com/messages/service-design)
-* [#gov-design-guild](https://18f.slack.com/messages/gov-design-guild)
-* [#sketch-tips](https://18f.slack.com/messages/sketch-tips)
+* [#design](https://gsa-tts.slack.com/messages/design)
+* [#g-content](https://gsa-tts.slack.com/messages/g-content)
+* [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend)
+* [#research](https://gsa-tts.slack.com/messages/research)
+* [#writing-lab](https://gsa-tts.slack.com/messages/writing-lab)
+* [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding)
+* [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility)
+* [#service-design](https://gsa-tts.slack.com/messages/service-design)
+* [#gov-design-guild](https://gsa-tts.slack.com/messages/gov-design-guild)
+* [#sketch-tips](https://gsa-tts.slack.com/messages/sketch-tips)
 
 ---
 
@@ -115,7 +115,7 @@ Most of the design team works on a mix of partner-agency projects and internal i
 ### <a id="communication-channels">Communication channels</a>
 
 - **Slack channels:**
-    - [#18f-branding](https://18f.slack.com/messages/18f-branding), [#design](https://18f.slack.com/messages/design), [#frontend](https://18f.slack.com/messages/frontend), [#g-accessibility](https://18f.slack.com/messages/g-accessibility), [#g-content](https://18f.slack.com/messages/g-content), [#gov-design-guild](https://18f.slack.com/messages/gov-design-guild), [#research](https://18f.slack.com/messages/research), [#sketch-tips](https://18f.slack.com/messages/sketch-tips).
+    - [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding), [#design](https://gsa-tts.slack.com/messages/design), [#frontend](https://gsa-tts.slack.com/messages/frontend), [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility), [#g-content](https://gsa-tts.slack.com/messages/g-content), [#gov-design-guild](https://gsa-tts.slack.com/messages/gov-design-guild), [#research](https://gsa-tts.slack.com/messages/research), [#sketch-tips](https://gsa-tts.slack.com/messages/sketch-tips).
     - Some of us participate in our personal capacities in [a non-18F-sponsored Slack channel to discuss user research for government around the world](https://gds.blog.gov.uk/2015/08/04/user-research-for-government-around-the-world/). It’s managed by [Leisa Reichelt](http://www.disambiguity.com/about-me/), and you can request access by emailing her from your GSA email. When you get access, however, please make sure the email address on that Slack account is a personal address, so that it’s clear you are not joining in an official capacity.
 - **Mailing lists**
   - 18F-design@gsa.gov contains information relevant to visual and UX designers, content designers and strategists, researchers and other designy folk. You’ll most likely get added automatically — no need to worry about registering.
@@ -125,7 +125,7 @@ Most of the design team works on a mix of partner-agency projects and internal i
 
 Here are some common tools we use, how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
-And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://docs.google.com/spreadsheets/d/1nrdfmL8DNjRJb45N3QZjvX8TeIcHth3Cy0rO5jVIvKo/edit#gid=1) of approved tools. If what you want to use isn’t there, you’ll need to ask in [#infrastructure](https://18f.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
+And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://docs.google.com/spreadsheets/d/1nrdfmL8DNjRJb45N3QZjvX8TeIcHth3Cy0rO5jVIvKo/edit#gid=1) of approved tools. If what you want to use isn’t there, you’ll need to ask in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
 
 #### Drawing lines on a screen
 
@@ -133,7 +133,7 @@ And one more thing: before you start using any new tool that asks for access to 
 - **InVision:** For prototyping. For a license, email <mailto:18fsoftware@gsa.gov>.
 - **OmniGraffle:** For a license, email <mailto:18fsoftware@gsa.gov>. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
 - **Sketch:** For a license, email <mailto:18fsoftware@gsa.gov>. You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
-- **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://18f.slack.com/screenhero).
+- **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero).
 
 #### Project management
 
@@ -141,9 +141,9 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Research
 
-- **Ethnio:** Online research recruiting. Contact [Jeremy Canfield](https://18f.slack.com/messages/@jeremy) or [Liz Goodman](https://18f.slack.com/messages/@egoodman) for immediate access, and be sure to read our [Getting Started with Ethnio](https://docs.google.com/a/gsa.gov/document/d/14YwXV9BoY4EUEGc7kMITFQ-9tFjBipTaj7dsGFIJnNc/edit?usp=sharing) guide.
+- **Ethnio:** Online research recruiting. Contact [Jeremy Canfield](https://gsa-tts.slack.com/messages/@jeremy) or [Liz Goodman](https://gsa-tts.slack.com/messages/@egoodman) for immediate access, and be sure to read our [Getting Started with Ethnio](https://docs.google.com/a/gsa.gov/document/d/14YwXV9BoY4EUEGc7kMITFQ-9tFjBipTaj7dsGFIJnNc/edit?usp=sharing) guide.
 - **Google Analytics:** More info [here](/google-analytics).
-- **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://18f.slack.com/messages/research) for recommendations.
+- **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://gsa-tts.slack.com/messages/research) for recommendations.
 
 #### Workshops
 
@@ -160,7 +160,7 @@ We default to free and open-source assets, unless there is a very, very good rea
 - **Frameworks:** the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. We don’t mandate using this, but it’s a good place to start.
 - **Type:** We don’t mandate using typefaces from the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/), but it’s a good place to start. [Google’s collection of open-source typefaces](https://pages-staging.18f.gov/govt-wide-patternlibrary/elements/) is also helpful.
 - **Icons:**
-  - Each [18F presentation theme](https://pages.18f.gov/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#18f-branding](https://18f.slack.com/messages/18f-branding) if you need to use more/different ones...and be prepared to explain why!
+  - Each [18F presentation theme](https://pages.18f.gov/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding) if you need to use more/different ones...and be prepared to explain why!
   - For a larger (and open-source!) set of icons, [Font Awesome](http://fortawesome.github.io/Font-Awesome/get-started/) is a starter kit. [The Noun Project](https://thenounproject.com/) has a number of open-source icons as well. If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
 - **Images:** Most images published by government agencies are in the public domain and thus free to use.
   - USA.gov has [an image search](https://search.usa.gov/search/images?affiliate=usagov) for such photos.

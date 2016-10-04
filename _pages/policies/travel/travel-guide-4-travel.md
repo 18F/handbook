@@ -56,4 +56,4 @@ Why the rush? Filling out a voucher correctly allows you to:
 
 [Back from your trip? Head on over to Get reimbursed!](/travel-guide-5-reimbursement)
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

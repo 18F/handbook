@@ -7,14 +7,14 @@ The Diversity Guild strives to make 18F a great place to work for people of all 
 
 #### <a id="leadership">Leadership</a>
 
-The Diversity Guild is led by [Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley) and [Annalee Horne](https://18f.slack.com/messages/@annalee).
+The Diversity Guild is led by [Elaine Kamlley](https://gsa-tts.slack.com/messages/@elainekamlley) and [Annalee Horne](https://gsa-tts.slack.com/messages/@annalee).
 
 #### <a id="communication">Communication</a>
 
 Find us in Slack:
 
-- [#g-diversity](https://18f.slack.com/messages/g-diversity/)
-- [#wg-code-of-conduct](https://18f.slack.com/messages/wg-code-of-conduct/)
+- [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/)
+- [#wg-code-of-conduct](https://gsa-tts.slack.com/messages/wg-code-of-conduct/)
 
 _It&rsquo;s important that the responsibility of answering questions around diversity and inclusion doesn&rsquo;t fall on one or two people. Our Slack channel is open space in which our colleagues (who genuinely want to do the right thing) can ask hard questions of one another. It allows us to collectively place the responsibility of diversity and inclusion on multiple people rather than any one person._
 
@@ -57,5 +57,5 @@ Not only does the Diversity Guild a space for learning, it also promotes the bel
 
 If you&rsquo;re interested in getting involved:
 
-- **Join our channel.** Head on over to [#g-diversity](https://18f.slack.com/messages/g-diversity/).
-- **Join our meetings.** We meet monthly, the fourth Friday of the month. We also have open coworking sessions every Friday. The meetings currently show up on the 18F Working Groups and Guilds calendar. If you would like to be added to the invites directly, please [message Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley).
+- **Join our channel.** Head on over to [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/).
+- **Join our meetings.** We meet monthly, the fourth Friday of the month. We also have open coworking sessions every Friday. The meetings currently show up on the 18F Working Groups and Guilds calendar. If you would like to be added to the invites directly, please [message Elaine Kamlley](https://gsa-tts.slack.com/messages/@elainekamlley).

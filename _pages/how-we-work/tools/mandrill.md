@@ -44,4 +44,4 @@ This needs to be done for every sub-domain.
 
 #### Still have questions?
 
-Ask in Slack: [#admins-mailchimp](https://18f.slack.com/messages/admins-mailchimp).
+Ask in Slack: [#admins-mailchimp](https://gsa-tts.slack.com/messages/admins-mailchimp).

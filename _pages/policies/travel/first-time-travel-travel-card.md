@@ -60,4 +60,4 @@ This may take 1-2 business days.
 #### Having Trouble
 The instructions for the application can be found [here](https://drive.google.com/open?id=0B0Kck5dqF_EbUmVoNTFPZl9tNWc)
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

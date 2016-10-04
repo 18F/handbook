@@ -12,7 +12,7 @@ Our [Engineering Best Practices guide](https://github.com/18F/development-guide#
 
 ### Communication
 
-If you have any questions, find us on Slack in [#dev](https://18f.slack.com/messages/dev), [#g-frontend](https://18f.slack.com/messages/g-frontend), [#g-devops](https://18f.slack.com/messages/g-devops), [#infrastructure](https://18f.slack.com/messages/infrastructure), [#wg-cybersec](https://18f.slack.com/messages/wg-cybersec), or [#wg-opensource](https://18f.slack.com/messages/wg-opensource).
+If you have any questions, find us on Slack in [#dev](https://gsa-tts.slack.com/messages/dev), [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend), [#g-devops](https://gsa-tts.slack.com/messages/g-devops), [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure), [#wg-cybersec](https://gsa-tts.slack.com/messages/wg-cybersec), or [#wg-opensource](https://gsa-tts.slack.com/messages/wg-opensource).
 
 ---
 
@@ -95,7 +95,7 @@ Your facilitator is responsible for making sure you have the right amount and ki
 
 Thanks for wanting to participate in hiring! In order to review resumes, GSA requires that you be a Subject Matter Expert (SME), which involves a small amount of training. You don't need to be a SME to be an interviewer.
 
-To do either or both, please get in touch with [Esther Chang](https://18f.slack.com/team/esther).
+To do either or both, please get in touch with [Esther Chang](https://gsa-tts.slack.com/team/esther).
 
 ### How can I participate in a technical evaluation for projects in intake?
 
@@ -106,7 +106,7 @@ Tech eval requests are posted in the [staffing-and-resources repository](https:/
 You’re  encouraged to identify areas where government can be made better and participate in identifying agency partners.
 
 - There is a monthly Great Pitch that OCSIT/18F hold that awards seed funding to projects. Watch out for emails about these, and see the [pitch application template](https://docs.google.com/document/d/1ZEoc8h9uaVXtwYgLj0YiQleXbr6dmj0OA3NDO0cAtWM/edit).
-- [#seeds](https://18f.slack.com/archives/seeds) can help you find out what funding options are available if Great Pitch isn't a good match.
+- [#seeds](https://gsa-tts.slack.com/archives/seeds) can help you find out what funding options are available if Great Pitch isn't a good match.
 
 ### How can I move from another part of 18F into engineering?
 
@@ -129,28 +129,28 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### General
 
-[#dev](https://18f.slack.com/messages/dev), [#infrastructure](https://18f.slack.com/messages/infrastructure).
+[#dev](https://gsa-tts.slack.com/messages/dev), [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure).
 
 ### Tools
 
-[#django](https://18f.slack.com/messages/django), [#docker](https://18f.slack.com/messages/docker), [#elasticsearch](https://18f.slack.com/messages/elasticsearch), [#git](https://18f.slack.com/messages/git), [#go](https://18f.slack.com/messages/go), [#hardware](https://18f.slack.com/messages/hardware), [#javascript](https://18f.slack.com/messages/javascript), [#mac](https://18f.slack.com/messages/mac), [#meteorjs](https://18f.slack.com/messages/meteorjs), [#nodejs](https://18f.slack.com/messages/nodejs), [#python](https://18f.slack.com/messages/python) (and [#learnpython](https://18f.slack.com/messages/learnpython)), [#ruby](https://18f.slack.com/messages/ruby).
+[#django](https://gsa-tts.slack.com/messages/django), [#docker](https://gsa-tts.slack.com/messages/docker), [#elasticsearch](https://gsa-tts.slack.com/messages/elasticsearch), [#git](https://gsa-tts.slack.com/messages/git), [#go](https://gsa-tts.slack.com/messages/go), [#hardware](https://gsa-tts.slack.com/messages/hardware), [#javascript](https://gsa-tts.slack.com/messages/javascript), [#mac](https://gsa-tts.slack.com/messages/mac), [#meteorjs](https://gsa-tts.slack.com/messages/meteorjs), [#nodejs](https://gsa-tts.slack.com/messages/nodejs), [#python](https://gsa-tts.slack.com/messages/python) (and [#learnpython](https://gsa-tts.slack.com/messages/learnpython)), [#ruby](https://gsa-tts.slack.com/messages/ruby).
 
 ### Guilds and working groups
 
-[#g-accessibility](https://18f.slack.com/messages/g-accessibility), [#g-frontend](https://18f.slack.com/messages/g-frontend), [#wg-api](https://18f.slack.com/messages/wg-api), [#wg-code-reviews](https://18f.slack.com/messages/wg-code-reviews), [#wg-cybersec](https://18f.slack.com/messages/wg-cybersec), [#wg-opensource](https://18f.slack.com/messages/wg-opensource), [#wg-testing](https://18f.slack.com/messages/wg-testing).
+[#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility), [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend), [#wg-api](https://gsa-tts.slack.com/messages/wg-api), [#wg-code-reviews](https://gsa-tts.slack.com/messages/wg-code-reviews), [#wg-cybersec](https://gsa-tts.slack.com/messages/wg-cybersec), [#wg-opensource](https://gsa-tts.slack.com/messages/wg-opensource), [#wg-testing](https://gsa-tts.slack.com/messages/wg-testing).
 
 ### Facilitator groups
 
-[#eng-cronus1](https://18f.slack.com/messages/eng-cronus1), [#eng-chumanjalaal](https://18f.slack.com/messages/eng-chumanjalaal), [#eng-voyager1](https://18f.slack.com/messages/eng-voyager1), [#spaceball1](https://18f.slack.com/messages/spaceball1), [#eng-apollo](https://18f.slack.com/messages/eng-apollo), [#eng-bellatrix](https://18f.slack.com/messages/eng-bellatrix), [#eng-eagle5](https://18f.slack.com/messages/eng-eagle5),
-[#eng-leadership](https://18f.slack.com/messages/eng-leadership).
+[#eng-cronus1](https://gsa-tts.slack.com/messages/eng-cronus1), [#eng-chumanjalaal](https://gsa-tts.slack.com/messages/eng-chumanjalaal), [#eng-voyager1](https://gsa-tts.slack.com/messages/eng-voyager1), [#spaceball1](https://gsa-tts.slack.com/messages/spaceball1), [#eng-apollo](https://gsa-tts.slack.com/messages/eng-apollo), [#eng-bellatrix](https://gsa-tts.slack.com/messages/eng-bellatrix), [#eng-eagle5](https://gsa-tts.slack.com/messages/eng-eagle5),
+[#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership).
 
 ### Everything else
 
-[#bdd](https://18f.slack.com/messages/bdd), [#eng-projects](https://18f.slack.com/messages/eng-projects).
+[#bdd](https://gsa-tts.slack.com/messages/bdd), [#eng-projects](https://gsa-tts.slack.com/messages/eng-projects).
 
 ## Mailing lists
 
-  - [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://18f.slack.com/messages/eng-leadership). Someone there will get you set up.
+  - [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership). Someone there will get you set up.
   - [18f-eng-leadership@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18f-eng-leadership). This is a good way to write to the entier engineering leadership team at once.
   - Optional listservs that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#interagency-open-data-working-group), [Security Today](/general-contacts-and-listservs/#security-today).
 
@@ -158,4 +158,4 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 Here are some [common tools we use](/#tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
-And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://docs.google.com/spreadsheets/d/1nrdfmL8DNjRJb45N3QZjvX8TeIcHth3Cy0rO5jVIvKo/edit#gid=1) of approved tools. If what you want to use isn’t there, you’ll need to ask [#infrastructure](https://18f.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
+And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://docs.google.com/spreadsheets/d/1nrdfmL8DNjRJb45N3QZjvX8TeIcHth3Cy0rO5jVIvKo/edit#gid=1) of approved tools. If what you want to use isn’t there, you’ll need to ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.

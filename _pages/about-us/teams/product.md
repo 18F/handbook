@@ -35,7 +35,7 @@ We’re here to understand your problem and deliver the right product: be that a
 
 **Finding a Way:** We find a way to move from your needs to solutions, and from your goals to a reality. We build the bridge from a vision to delivered results.
 
-If you have any questions, you can find us on Slack in [#product](https://18f.slack.com/messages/product), or ping `@product-team` from any channel.
+If you have any questions, you can find us on Slack in [#product](https://gsa-tts.slack.com/messages/product), or ping `@product-team` from any channel.
 
 ---
 

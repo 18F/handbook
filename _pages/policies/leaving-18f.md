@@ -14,7 +14,7 @@ Include your termination date, which should be at least two weeks out. Your last
 
 ### 2. Complete the clearance checklist
 
-Complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with [#teamops](https://18f.slack.com/archives/teamops).
+Complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with [#teamops](https://gsa-tts.slack.com/archives/teamops).
 
 ### 3. Review benefits paperwork
 

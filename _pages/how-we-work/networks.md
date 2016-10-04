@@ -76,4 +76,4 @@ If you see an Official Use Only warning screen from GSA, delete your GSA and Sal
 
 #### Still have questions?
 
-Ask in Slack: [#it-issues](https://18f.slack.com/messages/questions/) or [#distributed](https://18f.slack.com/messages/distributed/)
+Ask in Slack: [#it-issues](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)

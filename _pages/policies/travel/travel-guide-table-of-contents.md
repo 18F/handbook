@@ -24,4 +24,4 @@ title: Travel Guide Table of Contents
    * [Submit for Approval](/travel-guide-5-reimbursement/#iii-submit-voucher-for-approval)
 * [Travel Guide FAQ](/travel-guide-faq)
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

@@ -10,7 +10,7 @@ Right now, I&rsquo;d like to talk about the Product Team and open source, but I&
 
 ## <a id="product-team">Product team</a>
 
-I&rsquo;m on the Product Team. Our job is to help facilitate each project. Generally, each billable project has a product manager whose job it is to take care of billing, logistics, and other details so the rest of the team can do its job. Some of us can code, but many (like myself) are instead more generalists. We also coordinate a team coming to a decision on how it wants to run itself (2 week sprints, 3 week sprints?) and ensures that scrum meetings/stand ups/whatever the team chooses happens. The Product Team hangs out in [#product](https://18f.slack.com/messages/product/).
+I&rsquo;m on the Product Team. Our job is to help facilitate each project. Generally, each billable project has a product manager whose job it is to take care of billing, logistics, and other details so the rest of the team can do its job. Some of us can code, but many (like myself) are instead more generalists. We also coordinate a team coming to a decision on how it wants to run itself (2 week sprints, 3 week sprints?) and ensures that scrum meetings/stand ups/whatever the team chooses happens. The Product Team hangs out in [#product](https://gsa-tts.slack.com/messages/product/).
 
 Specifically, I&rsquo;m the Product Lead for [pulse.cio.gov](https://pulse.cio.gov) and [analytics.usa.gov](https://analytics.usa.gov). In both cases, my job is to handle loose details and keep the project moving forward, but beyond that to generally stay out of the way of the developers and designers doing the work.
 
@@ -65,4 +65,4 @@ For example, whitehouse.gov is powered by an open source system named Drupal. Dr
 ---
 
 #### Still have questions?
-Ask in Slack [#product](https://18f.slack.com/messages/product/), [#wg-opensource](https://18f.slack.com/messages/wg-opensource/).
+Ask in Slack [#product](https://gsa-tts.slack.com/messages/product/), [#wg-opensource](https://gsa-tts.slack.com/messages/wg-opensource/).
