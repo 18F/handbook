@@ -204,4 +204,4 @@ Congrats!!! Your voucher has been submitted. You don’t even have to click the 
 ## YOU'RE DONE!!!
 
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

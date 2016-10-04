@@ -6,7 +6,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 
 ### Leadership
 
-[Cristina Brydges](https://18f.slack.com/team/cristina) is the Deputy Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
+[Cristina Brydges](https://gsa-tts.slack.com/team/cristina) is the Deputy Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
 
 Generally speaking, neither Cristina nor 18F can &ldquo;advise&rdquo; you on benefits &mdash; everything 18F offers is actually owned and run by GSA&rsquo;s HR and Benefits groups. She can, however, help you escalate questions and problems and point you in the right direction.
 
@@ -18,8 +18,8 @@ Please direct your questions and send all of your [benefits forms](https://githu
 
 Find us in Slack:
 
-- [#benefits](https://18f.slack.com/messages/benefits)
-- [#talent](https://18f.slack.com/messages/talent)
+- [#benefits](https://gsa-tts.slack.com/messages/benefits)
+- [#talent](https://gsa-tts.slack.com/messages/talent)
 
 ## Credit union
 
@@ -72,7 +72,7 @@ New employees, employees who move outside of the area covered by their plan, and
 
 To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollment, cancel your enrollment, or suspend your enrollment, fill out [Standard Form (SF) 2809](https://www.opm.gov/forms/pdf_fill/sf2809.pdf) and submit it to [Marty Sanchez-Lowery](mailto:martha.sanchez-lowery@gsa.gov). You can also reach out to her if you have any questions.
 
-The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Ask in [#benefits](https://18f.slack.com/messages/benefits).
+The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Ask in [#benefits](https://gsa-tts.slack.com/messages/benefits).
 
 
 ### Dental

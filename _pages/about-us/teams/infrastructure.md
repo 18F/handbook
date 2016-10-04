@@ -14,7 +14,7 @@ The Director of Infrastructure, Noah Kunin, goes into more depth in [his class](
 
 18F Infrastructure’s work is closely related to your Ethics and Legal training. The difference is that the Infrastructure team is mainly concerned about the behavior of systems we use or build, while that ethics/legal training (and the broader GSA legal team) focuses on what you as a person can and cannot do.
 
-If you have any questions, you can find us on Slack in [#infrastructure](https://18f.slack.com/messages/infrastructure/), [#pra](https://18f.slack.com/messages/pra/), and [#research](https://18f.slack.com/messages/research/).
+If you have any questions, you can find us on Slack in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/), [#pra](https://gsa-tts.slack.com/messages/pra/), and [#research](https://gsa-tts.slack.com/messages/research/).
 
 ---
 
@@ -54,9 +54,9 @@ The Infrastructure team provides guidance and support for the entire lifecycle o
 
 * **Slack channels:**
 
-	* [#infrastructure](https://18f.slack.com/messages/infrastructure) - Escalate general operational issues to our attention.
-	* [#g-devops](https://18f.slack.com/messages/g-devops) - Discuss DevOps as a capability and skillset.
-	* [#devops-public](https://18f.slack.com/messages/devops-public) - A public channel to discuss DevOps topics with a broad community of public and private sector technologists.
+	* [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) - Escalate general operational issues to our attention.
+	* [#g-devops](https://gsa-tts.slack.com/messages/g-devops) - Discuss DevOps as a capability and skillset.
+	* [#devops-public](https://gsa-tts.slack.com/messages/devops-public) - A public channel to discuss DevOps topics with a broad community of public and private sector technologists.
 
 * **Mailing lists:**
 

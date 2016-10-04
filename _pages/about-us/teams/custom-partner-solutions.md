@@ -87,13 +87,13 @@ If you&rsquo;re on the **agency partnerships team** expect to:
 
 If you&rsquo;re just curious about all things CPS
 
-- Come to the[#partner-solutions](https://18f.slack.com/messages/partner-solutions/files/F1VNDBY7N/) channel
+- Come to the[#partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions/files/F1VNDBY7N/) channel
 - Attend a quarterly staff-wide [CPS AMA](https://docs.google.com/document/d/1eyPHTAzk7xWRIQAIfJl4F58NVpWpBIHiEcam7w9Ueo0/edit)
 
 ## Where you can reach us
 
 - Team email - [18F-PartnerSolutions@gsa.gov](mailto:18F-PartnerSolutions@gsa.gov)
-- Slack - [#partner-solutions](https://18f.slack.com/messages/partner-solutions/files/F1VNDBY7N/) or ping @cps in any channel
+- Slack - [#partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions/files/F1VNDBY7N/) or ping @cps in any channel
 
 ## Documentation
 

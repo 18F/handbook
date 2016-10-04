@@ -17,8 +17,8 @@ The team’s collective experience is vast. Lab members hail from backgrounds in
 
 Find us in Slack:
 
-- [#writing-lab](https://18f.slack.com/messages/writing-lab)
-- [#g-content](https://18f.slack.com/messages/g-content)
+- [#writing-lab](https://gsa-tts.slack.com/messages/writing-lab)
+- [#g-content](https://gsa-tts.slack.com/messages/g-content)
 
 ## Frequently asked questions
 
@@ -41,7 +41,7 @@ TL;DR If you have words and would like help, let us know.
 
 ### <a id="asking-for-help">How do I ask for help?</a>
 
-Standard practice is to file an issue in our [GitHub repo](https://github.com/18F/writing-lab). If you don’t feel comfortable filing an issue, reach out to us on our Slack channel, [#writing-lab](https://18f.slack.com/archives/writing-lab). Provide us with the basic details of your project, and we’ll create an issue for you (and tag you in it).
+Standard practice is to file an issue in our [GitHub repo](https://github.com/18F/writing-lab). If you don’t feel comfortable filing an issue, reach out to us on our Slack channel, [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab). Provide us with the basic details of your project, and we’ll create an issue for you (and tag you in it).
 
 This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https://docs.google.com/document/d/1pyP501N6L-mJStTUIhsZ9UQoxy7quzoKND9iibS51ls/edit) for you to keep. It has all the information we think you might need in the future.
 

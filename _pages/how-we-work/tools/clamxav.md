@@ -13,7 +13,7 @@ ClamXav is an anti-virus and malware scanner for Mac OS X with the ability to de
 4. Click **Launch Application** in the External Protocol Request window.
 5. In the pop up that reads "Before using ClamXav, you must first install the scanning engine," click **Install**.
 6. Click **Continue** in the next two windows and then click **Install** to run the installer.
-7. Enter your administrator name and password to continue. If you're not an administrator on your Mac, ping [Kimber Dowsett](https://18f.slack.com/team/kimber) for assistance.
+7. Enter your administrator name and password to continue. If you're not an administrator on your Mac, ping [Kimber Dowsett](https://gsa-tts.slack.com/team/kimber) for assistance.
 8. Click **Install Software.**
 9. In the **Check for updates automatically?** window, deselect the **Include anonymous system profile** checkbox.
 10. Click **Check Automatically**. You may need to update ClamXav again, which requires your administrator username and password.

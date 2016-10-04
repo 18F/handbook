@@ -71,7 +71,7 @@ Tock likely doesn't have your start date listed correctly. To fix this:
 
 ### How do I change a reporting period I already filled out?
 
-Ping us in [#tock](https://18f.slack.com/messages/tock). We'll help you out.
+Ping us in [#tock](https://gsa-tts.slack.com/messages/tock). We'll help you out.
 
 ### What if I'm so busy that I cannot fit everything I need to do within 40 hours per week?
 
@@ -130,4 +130,4 @@ Yes! We don't promise our partners specific people. That enables anyone to scrub
 
 #### Still have questions?
 
-Ask in Slack: [#tock](https://18f.slack.com/messages/tock)
+Ask in Slack: [#tock](https://gsa-tts.slack.com/messages/tock)

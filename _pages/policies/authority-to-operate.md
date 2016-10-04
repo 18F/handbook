@@ -56,4 +56,4 @@ This policy is put into effect by this policy being digitally signed by the Acti
 
 #### Still have questions?
 
-Ask in Slack: [#infrastructure](https://18f.slack.com/messages/infrastructure/)
+Ask in Slack: [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)

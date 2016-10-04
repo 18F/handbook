@@ -28,7 +28,7 @@ curl https://munki.18f.gov/munki.sh | sudo sh
 
 ## Usage
 
-- After the initial setup, Managed Software Center will check your system daily for updates, and occasionally offer optional software approved by [#infrastructure](https://18f.slack.com/messages/infrastructure). If there's a required security update or serious vulnerabilty with any of our software, Managed Software Center will either patch or remove the software automatically.
+- After the initial setup, Managed Software Center will check your system daily for updates, and occasionally offer optional software approved by [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure). If there's a required security update or serious vulnerabilty with any of our software, Managed Software Center will either patch or remove the software automatically.
 - You can launch Managed Software Center any time to check for updates or available downloads.
-- You can request to add software titles to the 18F Managed Software Center. Message [Kimber Dowsett](https://18f.slack.com/team/kimber) with requests.
+- You can request to add software titles to the 18F Managed Software Center. Message [Kimber Dowsett](https://gsa-tts.slack.com/team/kimber) with requests.
 - You can browse software by title or category. There's not a lot on the server right now, but with your input and feedback, expect to see it look more like the App Store over the next few months.

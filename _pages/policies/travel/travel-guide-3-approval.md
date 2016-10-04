@@ -134,4 +134,4 @@ You might want to take a look at what to expect while traveling!
 [Read about what to expect when you travel](/travel-guide-4-travel/)
 
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

@@ -79,4 +79,4 @@ Call AdTrav at 877-472-6716 to make flight arrangements.
 
 Whether going through AdTrav or arranging your own accommodations, continue on to [Alternate Step 3](). Do not book a hotel through Concur.
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

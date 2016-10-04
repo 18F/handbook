@@ -6,7 +6,7 @@ _This post provides information on how to work with GSA&rsquo;s web tools and yo
 
 ## Communication
 
-If you have any questions, please ping [#teamops](https://18f.slack.com/archives/teamops) or [#it-issues](https://18f.slack.com/archives/it-issues).
+If you have any questions, please ping [#teamops](https://gsa-tts.slack.com/archives/teamops) or [#it-issues](https://gsa-tts.slack.com/archives/it-issues).
 
 ## <a id="gsa-tools">GSA tools</a>
 
@@ -82,7 +82,7 @@ We also ask that you update your Slack profile so that your name reads _FirstNam
 
 Please do not use ALOHA to document jury duty. If you&rsquo;ve been summoned for jury duty, [email (don't Slack) Leah Gitter](mailto:leah.gitter@gsa.gov) and add an event to the &ldquo;18F Out of Office&rdquo; calendar.
 
-Some remote employees have had difficulty accessing ALOHA. If you&rsquo;re one of them, please [ping Leah Gitter on Slack](https://18f.slack.com/messages/leahgitter/) with the dates you took (or need to take) leave and the type of leave you took. Leah will make sure to get your request logged.
+Some remote employees have had difficulty accessing ALOHA. If you&rsquo;re one of them, please [ping Leah Gitter on Slack](https://gsa-tts.slack.com/messages/leahgitter/) with the dates you took (or need to take) leave and the type of leave you took. Leah will make sure to get your request logged.
 
 You can see your remaining leave balances by clicking Create My Leave Request. You do not have to submit a request in order to view your available leave time. You can also see your leave balance on your paystub in [Employee Express](#employee-express).
 
@@ -122,7 +122,7 @@ Your account may not be set up by the time you start working at 18F. Account set
 
 ## <a id="concur">Concur</a>
 
-Concur is what you will use to book travel. Learn more in [Travel 101](/travel-101). If you have questions in the meantime, head over to [#travel](https://18f.slack.com/messages/travel/).
+Concur is what you will use to book travel. Learn more in [Travel 101](/travel-101). If you have questions in the meantime, head over to [#travel](https://gsa-tts.slack.com/messages/travel/).
 
 
 ## <a id="employee-express">Employee Express</a>
@@ -190,9 +190,9 @@ You can log time spent in OLU as `Training / Professional Development` in [Tock]
 
 ## Office supplies
 
-18F also has an inventory of computer supplies on hand. Contact [Matt Spencer](https://18f.slack.com/messages/@mattspencer/) to see if we have anything on hand before putting in a purchase request. If you are remote, we’ll mail your mouse or computer to you.
+18F also has an inventory of computer supplies on hand. Contact [Matt Spencer](https://gsa-tts.slack.com/messages/@mattspencer/) to see if we have anything on hand before putting in a purchase request. If you are remote, we’ll mail your mouse or computer to you.
 
-Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building). If you need office supplies that aren't available in the printer rooms or the supply center, you'll need to complete a [purchase request form](https://docs.google.com/a/gsa.gov/forms/d/1zSuFinxBVr0oi2aGFaHArRJ8McyfQhjC05SOGuCzo/viewform). [Kathryn Connolly](https://18f.slack.com/messages/@kathryn/) can tell you more about the form.
+Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building). If you need office supplies that aren't available in the printer rooms or the supply center, you'll need to complete a [purchase request form](https://docs.google.com/a/gsa.gov/forms/d/1zSuFinxBVr0oi2aGFaHArRJ8McyfQhjC05SOGuCzo/viewform). [Kathryn Connolly](https://gsa-tts.slack.com/messages/@kathryn/) can tell you more about the form.
 
 For software requests, see our [equipment guide](/equipment/#requests).
 

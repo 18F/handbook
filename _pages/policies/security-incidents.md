@@ -11,9 +11,9 @@ To report a security incident, follow all of the steps below:
  <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to send to them all at the same time</a>,
  and within 1 hour of identifying an incident. Don't worry if you don't have all of the details gathered when you email GSA's Incident Response (IR) team. The critical piece here is notification within one hour. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team.
 
-1. Report the incident in the [#incident-response](https://18f.slack.com/messages/incident-response) Slack channel.
+1. Report the incident in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 
-1. For anything that _isn't_ a phishing attempt, [send a Slack DM to Kimber Dowsett (@kimber)](https://18f.slack.com/messages/@kimber/), the 18F Infrastructure Security Architect, with a _very short description_ of the incident.
+1. For anything that _isn't_ a phishing attempt, [send a Slack DM to Kimber Dowsett (@kimber)](https://gsa-tts.slack.com/messages/@kimber/), the 18F Infrastructure Security Architect, with a _very short description_ of the incident.
 
 1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible**.
   * Keep this issue up to date with appropriately summarized actions or information from interactions with GSA.
@@ -23,7 +23,7 @@ To report a security incident, follow all of the steps below:
 
 1. If the incident involves [cloud.gov](https://cloud.gov/), start [following the additional checklist here](https://docs.cloud.gov/ops/security-ir-checklist/).
 
-1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov), but try to drive as much of the conversation back to [#incident-response](https://18f.slack.com/messages/incident-response) in Slack as possible.
+1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov), but try to drive as much of the conversation back to [#incident-response](https://gsa-tts.slack.com/messages/incident-response) in Slack as possible.
  
 Please note that incidents need to be reported *within one hour* of being identified. This isn't "within an hour of happening", but "within one hour of you becoming aware of the incident". The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 

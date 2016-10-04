@@ -130,4 +130,4 @@ If this is not the case, please go back up to the [Book in Concur Section](#book
 [Proceed to prepare your trip for approval and book trip](/travel-guide-3-approval)
 
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
     defaultMessage: "This link is private to 18F.",
     // see also: https://github.com/18F/guides-style/blob/master/assets/js/18f-guide.js
     ignoreUrls: [
-      '18f.slack.com',
+      'gsa-tts.slack.com',
       'anywhere.gsa.gov',
       'bookit.gsa.gov',
       'calendar.gsa.gov',

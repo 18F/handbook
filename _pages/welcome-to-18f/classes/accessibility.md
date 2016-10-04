@@ -6,13 +6,13 @@ The federal government is accountable for making all of its products 508 complia
 
 ## <a id="leadership">Leadership</a>
 
-Developer [Nick Bristow](https://18f.slack.com/messages/@bristow) leads the [accessibility guild](https://github.com/18F/accessibility). 
+Developer [Nick Bristow](https://gsa-tts.slack.com/messages/@bristow) leads the [accessibility guild](https://github.com/18F/accessibility). 
 
 ## <a id="communication">Communication</a>
 
 ### Slack room
 
-[#g-accessibility](https://18f.slack.com/messages/g-accessibility/) — Ask about any accessibility-related topic.
+[#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility/) — Ask about any accessibility-related topic.
 
 ### GitHub repo
 

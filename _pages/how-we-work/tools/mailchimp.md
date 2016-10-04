@@ -6,7 +6,7 @@ We use MailChimp and its [Mandrill](../mandrill/) add-on to send transactional e
 
 ## Communication
 
-* Slack: [#admins-mailchimp](https://18f.slack.com/messages/admins-mailchimp/)
+* Slack: [#admins-mailchimp](https://gsa-tts.slack.com/messages/admins-mailchimp/)
 
 ## <a id="setup">Setup</a>
 
@@ -27,4 +27,4 @@ details on SMTP configuration, please see the
 
 #### Still have questions?
 
-Ask in Slack: [#admins-mailchimp](https://18f.slack.com/messages/admins-mailchimp).
+Ask in Slack: [#admins-mailchimp](https://gsa-tts.slack.com/messages/admins-mailchimp).

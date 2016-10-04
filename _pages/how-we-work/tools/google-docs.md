@@ -10,7 +10,7 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 ## <a id="rules">Rules</a>
 
-- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
 
 - Everything in our Google Drive, including Google Docs, can be FOIA&rsquo;ed.
 
@@ -20,7 +20,7 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 - You can&rsquo;t publish docs to the web. You can&rsquo;t share docs with the public, only GSA or specific users. Even just to view.
 
-- We cannot share Google Docs with other agencies. GSA employees can view and access Docs, but you&rsquo;ll need to ask in [#teamops](https://18f.slack.com/messages/team-ops) or [#it-issues](https://18f.slack.com/messages/it-issues) (for suggested programs) if you&rsquo;re working with another agency.
+- We cannot share Google Docs with other agencies. GSA employees can view and access Docs, but you&rsquo;ll need to ask in [#teamops](https://gsa-tts.slack.com/messages/team-ops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) (for suggested programs) if you&rsquo;re working with another agency.
 
 - Don't share docs with all at GSA. Instead, share with 18f-team and GSA will never auto-unshare them. (GSA will change your permissions if they are too open.) Docs that contain sensitive information will also be blocked via Cloudlock.
 
@@ -46,4 +46,4 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 #### Still have questions?
 
-Ask in Slack: [#questions](https://18f.slack.com/messages/questions), [#teamops](https://18f.slack.com/messages/teamops), [#it-issues](https://18f.slack.com/messages/it-issues)
+Ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops), [#it-issues](https://gsa-tts.slack.com/messages/it-issues)

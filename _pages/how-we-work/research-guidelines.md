@@ -68,9 +68,9 @@ Be especially mindful as you post meeting notes or sidebar conversations during 
 
 Carefully restricting access to personally identifiable information is a matter not just of people's right to respect but of their right to [privacy](https://methods.18f.gov/privacy/). 
 
-**Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII, you can ask on Slack in [#research](https://18f.slack.com/archives/research) to get other researchers' perspectives, and in [#legalstuff](https://18f.slack.com/archives/legalstuff) to track down relevant policy guidance. If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://18f.slack.com/archives/infrastructure).
+**Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII, you can ask on Slack in [#research](https://gsa-tts.slack.com/archives/research) to get other researchers' perspectives, and in [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) to track down relevant policy guidance. If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://gsa-tts.slack.com/archives/infrastructure).
 
 ## Join the research guild!
 
-The Guild talks in [#research](https://18f.slack.com/archives/research) and meets once a week to discuss the theory and practice of asking questions. The current guild leader is [Jeremy Canfield](https://18f.slack.com/team/jeremy).
+The Guild talks in [#research](https://gsa-tts.slack.com/archives/research) and meets once a week to discuss the theory and practice of asking questions. The current guild leader is [Jeremy Canfield](https://gsa-tts.slack.com/team/jeremy).
 

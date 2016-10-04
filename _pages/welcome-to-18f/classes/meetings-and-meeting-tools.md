@@ -13,15 +13,15 @@ Our agency maintains a formal meeting, conference, and event policy which may be
 
 Remember that you can book time on your own calendar. We recommend blocking off your own "free" time in two-to-four hour chunks to complete tasks.
 
-Also, meetings can and should be designed. If you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda. The [#wg-workshops](https://18f.slack.com/messages/workshops) Slack channel is a good place to ask for help about meeting design. You can also use the "Discover" and "Decide" methods from 18F's [Design Methods](https://methods.18f.gov/) as a starting point.
+Also, meetings can and should be designed. If you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda. The [#wg-workshops](https://gsa-tts.slack.com/messages/workshops) Slack channel is a good place to ask for help about meeting design. You can also use the "Discover" and "Decide" methods from 18F's [Design Methods](https://methods.18f.gov/) as a starting point.
 
 ## <a id="townhalls">OCSIT/18F Townhalls</a>
 
-18F is housed inside of a larger organization called OCSIT (the Offices of Citizen Services and Innovative Technology). Because we occasionally work on projects all on our own, OCSIT periodically brings everyone together for quarterly Townhalls. These also serve as demo days. You'll hear well in advance about any upcoming townhalls, which should give you ample time to plan (and rearrange your schedule, if necessary). Conversations during demos takes place in the Slack channel [#townhall](https://18f.slack.com/messages/townhall).
+18F is housed inside of a larger organization called OCSIT (the Offices of Citizen Services and Innovative Technology). Because we occasionally work on projects all on our own, OCSIT periodically brings everyone together for quarterly Townhalls. These also serve as demo days. You'll hear well in advance about any upcoming townhalls, which should give you ample time to plan (and rearrange your schedule, if necessary). Conversations during demos takes place in the Slack channel [#townhall](https://gsa-tts.slack.com/messages/townhall).
 
 ## <a id="location-specific">Location-specific meetings</a>
 
-Individual offices also have rituals that you might want to take part in. If you're in San Francisco, for example, there's a weekly Potluck on Thursdays, and guests are always welcome to join. The potluck serves as an informal huddle with the entire SF team, and it's a great opportunity for guests to meet the team and learn more about 18F. Along similar lines, the D.C. office has the [#dc-lunch-club](https://18f.slack.com/messages/dc-lunch-club/), which is a nice group/meeting for people who are so busy they often forget to eat (!). See the [office guides](/offices) for more information.
+Individual offices also have rituals that you might want to take part in. If you're in San Francisco, for example, there's a weekly Potluck on Thursdays, and guests are always welcome to join. The potluck serves as an informal huddle with the entire SF team, and it's a great opportunity for guests to meet the team and learn more about 18F. Along similar lines, the D.C. office has the [#dc-lunch-club](https://gsa-tts.slack.com/messages/dc-lunch-club/), which is a nice group/meeting for people who are so busy they often forget to eat (!). See the [office guides](/offices) for more information.
 
 ## <a id="working-group">Working-group meetings</a>
 
@@ -33,7 +33,7 @@ Management holds weekly open meetings to share informal updates and hear your co
 
 ## <a id="all-hands">All hands</a>
 
-Our weekly all-hands meeting includes everyone across 18F, and it's how the team disseminates news, updates, and congratulations. It takes place on Tuesdays at 12:30 EST. You aren't required to attend the all hands, but you are strongly encouraged to -- it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in #news, and you can add to it by contacting [Leah Gitter](https://18f.slack.com/messages/@leahgitter/). Leah also takes and posts notes from the all-hands meeting.
+Our weekly all-hands meeting includes everyone across 18F, and it's how the team disseminates news, updates, and congratulations. It takes place on Tuesdays at 12:30 EST. You aren't required to attend the all hands, but you are strongly encouraged to -- it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in #news, and you can add to it by contacting [Leah Gitter](https://gsa-tts.slack.com/messages/@leahgitter/). Leah also takes and posts notes from the all-hands meeting.
 
 ## <a id="standups">Standups</a>
 
@@ -69,7 +69,7 @@ The last project-specific meeting is sprint planning. Sprint planning takes many
 
 18F Design and Development run the following meetings in addition their own team-specific all-hands meetings (which fall outside of the scope of this document):
 
-**Critique groups.** The design team runs critique groups that meet once a week and, as you might expect, serve as an opportunity for storytelling and rapport building. There are a number of critique groups currently meeting, and each of them has a different focus. To learn more about any of them, contact [Jennifer Thibault](https://18f.slack.com/messages/@jenthibault/).
+**Critique groups.** The design team runs critique groups that meet once a week and, as you might expect, serve as an opportunity for storytelling and rapport building. There are a number of critique groups currently meeting, and each of them has a different focus. To learn more about any of them, contact [Jennifer Thibault](https://gsa-tts.slack.com/messages/@jenthibault/).
 
 **Demo days.** Another thing the design team is cooking up are demo days, which are exactly what they sound like. Demo days aren't regularly scheduled -- please check the 18F Events calendar to see what's on the schedule.
 
@@ -124,7 +124,7 @@ Federal employees use a range of different video software to communicate. Check 
 - [Google Hangouts](/google-hangouts)
 - Adobe Connect
 - Talky.io
-- Join.me (if you need an account, talk to [kathryn](https://18f.slack.com/messages/@kathryn/))
+- Join.me (if you need an account, talk to [kathryn](https://gsa-tts.slack.com/messages/@kathryn/))
 
 ## Set up a conference line
 

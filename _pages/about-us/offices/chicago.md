@@ -15,7 +15,7 @@ title: Chicago
       <tr>
         <td class="col-key"><strong>Point&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-        <a href="https://18f.slack.com/messages/@eth/">Ethan Heppner</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)
+        <a href="https://gsa-tts.slack.com/messages/@eth/">Ethan Heppner</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)
         </td>
       </tr>
       <tr>
@@ -23,7 +23,7 @@ title: Chicago
           <strong>Slack&nbsp;channel</strong>
         </td>
         <td class="col-value">
-          <a href="https://18f.slack.com/messages/chitown/">#chitown</a>
+          <a href="https://gsa-tts.slack.com/messages/chitown/">#chitown</a>
         </td>
       </tr>
       <tr>

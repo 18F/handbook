@@ -9,7 +9,7 @@ GSA issues every 18F employee a badge, laptop, and phone. Your MacBook should be
 
 Your GSA badge, also known as a PIV card, allows you to get in and out of GSA buildings and avoid security lines.
 
-Although some of our employees are based out of a specific office, your badge can be permissioned for multiple GSA buildings. [Kathryn Connolly](https://18f.slack.com/messages/@kathryn/) can submit paperwork to start this process, which usually takes a few days. After you receive an email confirmation, you'll need to visit the security office in each new building to activate your card.
+Although some of our employees are based out of a specific office, your badge can be permissioned for multiple GSA buildings. [Kathryn Connolly](https://gsa-tts.slack.com/messages/@kathryn/) can submit paperwork to start this process, which usually takes a few days. After you receive an email confirmation, you'll need to visit the security office in each new building to activate your card.
 
 GSA processes new badges every Wednesday. When your badge is ready, you’ll receive an email (in both your personal and GSA emails) from `HSPD12Admin@usaccess.gsa.gov` containing four steps. Please skip to step four, which details how to schedule an appointment and pick up your badge, and bring the password in step three. To check on the status of your GSA badge, you can email [accesscard@gsa.gov](mailto:accesscard@gsa.gov).
 
@@ -79,7 +79,7 @@ To make a request:
 1. After submitting your request, it will be reviewed by the Director of Operations. The Director of Operations must approve all requests before they are purchased.
 1. After your request is approved, it will typically be purchased by a purchase card holder on the operations team. Do not purchase yourself unless you are instructed to do so by a member of the operations team.
 
-If you're requesting software that no one else at 18F uses yet, be sure you have written approval from [#infrastructure](https://18f.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://18f.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
+If you're requesting software that no one else at 18F uses yet, be sure you have written approval from [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://gsa-tts.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
 
 If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
@@ -91,21 +91,21 @@ GSA provides equipment to accommodate an injury or disability under these condit
 - You have supporting medical documentation for the need for a certain piece of equipment.
 - You only need the equipment to do your work.
 
-To purchase this type of equipment, go to <https://cap.18f.gov/> and attach a doctor's note. If you have questions, ask in [#equipment](https://18f.slack.com/messages/equipment).
+To purchase this type of equipment, go to <https://cap.18f.gov/> and attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment).
 
 ## Repairs
 
 If 18F-issued equipment fails due to manufacturer defects or accidental damage:
 
 - 18F will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all 18F-issued hardware and peripherals.
-- Employees are responsible for informing Team Ops in [#equipment](https://18f.slack.com/messages/equipment) of the damage or need for repair by the close of business one business day following the damage.
-- If either your laptop or your phone is in need of repair, please go to [#teamops](https://18f.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we'll ship you a new laptop).
+- Employees are responsible for informing Team Ops in [#equipment](https://gsa-tts.slack.com/messages/equipment) of the damage or need for repair by the close of business one business day following the damage.
+- If either your laptop or your phone is in need of repair, please go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we'll ship you a new laptop).
 
 ## <a id="stolen-or-lost">Lost or stolen equipment</a>
 
-If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert 18F in [#equipment](https://18f.slack.com/messages/equipment):
+If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert 18F in [#equipment](https://gsa-tts.slack.com/messages/equipment):
 
-1. Inform [#equipment](https://18f.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
+1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
 2. Call 911 or a local police station when you suspect theft has occurred.
 3. Get and keep a copy of the police report in case you have to provide it to the Federal Protective Service (FPS) or your regional Information Systems Security Officer (ISSO). Provide as much information as possible.
 4. Call the IT Service Desk at 1-866-450-5250. An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop. Alternatively, you can report a lost or stolen item via [GSA Service Desk](https://gsa.service-now.com/).
@@ -162,4 +162,4 @@ Or try thinking of a sentence or line from a book, song, speech, poem, or other 
 
 #### Still have questions?
 
-Ask in Slack: [#equipment](https://18f.slack.com/messages/equipment) or [#teamops](https://18f.slack.com/messages/teamops)
+Ask in Slack: [#equipment](https://gsa-tts.slack.com/messages/equipment) or [#teamops](https://gsa-tts.slack.com/messages/teamops)

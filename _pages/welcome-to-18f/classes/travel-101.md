@@ -10,7 +10,7 @@ Ethan Heppner and Victor Valdivizeo lead the 18F travel team. Based in Chicago a
 
 ### Communication
 
-Questions? Ask in [#travel](https://18f.slack.com/messages/travel/).
+Questions? Ask in [#travel](https://gsa-tts.slack.com/messages/travel/).
 
 Ethan is typically available to answer questions from 9:00 a.m. to 2:30 p.m. ET, and Victor is online between 11:30 a.m. and 5:00 p.m. PT.
 
