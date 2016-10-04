@@ -18,6 +18,23 @@ You must manually submit your timecard each week, and your hours each week must 
 
 Timecards are due by the end of day (close of business) on Friday. If you fail to submit your timecard on time, your manager will bug you until you get it done! Timecards for the current week should be available no later than Monday at 9AM PST.
 
+## Creating Tock Projects
+
+There are two kinds of Tock projects, billable and non-billable. Tock projects can only be created by 18F Operations staff. 
+Request the creation of a project in [#tock](https://gsa-tts.slack.com/messages/tock).
+
+Non-billable activities/projects can be requested by any person in 18F. When requested, the requester should provide:
+* A suggested title
+* A 2-3 sentence description of the project/activity.
+* Validation this project will not become billable.
+* An expiration date for the project/activity, not to exceed the end of the fiscal year.
+* The 18F Director of Operations must approve the creation of all non-billable activities/projects.
+
+Billable projects can only be created after an agreement has been signed. 18F Operations staff will create the project using the following information provided from the Business Unit responsible for the project:
+* A title, with the business unit name and client name as the leading part of the title.
+* A 2-3 sentence description of the project.
+* The name of the project manager for the project.
+
 ## Tracking time
 
 Carefully track and record your work at 18F. Some 18F colleagues use software
