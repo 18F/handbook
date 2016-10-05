@@ -314,8 +314,8 @@ navigation:
     url: aloha-etams-reconciliation-feature/
     internal: true
   - text: Billing policy
-    url: billing-policies/
-    internal: true
+    url: https://docs.google.com/document/d/1Y5MP1jmCuc43pW35zXF-lvQrwDFA9YgQfviWtFcf4ao/edit
+    internal: false
   - text: Code of conduct
     url: code-of-conduct/
     internal: false
