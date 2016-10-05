@@ -313,6 +313,9 @@ navigation:
   - text: ALOHA/ETAMS reconciliation feature
     url: aloha-etams-reconciliation-feature/
     internal: true
+  - text: Billing policy
+    url: billing-policies/
+    internal: true
   - text: Code of conduct
     url: code-of-conduct/
     internal: false
