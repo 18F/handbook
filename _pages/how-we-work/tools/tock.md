@@ -108,7 +108,7 @@ As granular as you want! Tock accepts decimal points on hours.
 
 ### How should I bill travel?
 
-The time you spend figuring out travel plans is billable to the project you are traveling for. Travel should be billed to `General` unless you're working while en route (for example, while on an airplane), in which case you should bill to whatever project you're working on.
+The time you spend figuring out travel plans is billable to the project you are traveling for. Travel time for projects that is approved by the partner agency should be billed to the client.
 
 ### How should I bill email?
 
