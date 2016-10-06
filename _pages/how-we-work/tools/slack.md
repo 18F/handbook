@@ -162,9 +162,6 @@ If you're interested in learning more about the bots, or perhaps contributing to
     * etc.
 * Guilds: #g-*
 * Working groups: #wg-*
-* Interests
-    * [bicycles](https://gsa-tts.slack.com/messages/bicycles/)
-    * discuss-*
 * Locations
     * [chitown](https://gsa-tts.slack.com/messages/chitown/)
     * [cowork-across-america](https://gsa-tts.slack.com/messages/cowork-across-america/)
@@ -182,11 +179,6 @@ If you're interested in learning more about the bots, or perhaps contributing to
     * [python](https://gsa-tts.slack.com/messages/python/)
     * [ruby](https://gsa-tts.slack.com/messages/ruby/)
     * etc.
-* Fun/silly
-    * [gifs](https://gsa-tts.slack.com/messages/gifs/)
-    * [hi](https://gsa-tts.slack.com/messages/hi/)
-    * [nightowls](https://gsa-tts.slack.com/messages/nightowls/)
-    * [random](https://gsa-tts.slack.com/messages/random/)
 
 ### Channel naming conventions
 
