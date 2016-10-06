@@ -139,10 +139,59 @@ If you're interested in learning more about the bots, or perhaps contributing to
 
 ## Appendix: Channel names and handy shortcuts
 
+### Clusters of channels
+
+* Teams
+    * 18F
+        * Business Units
+            * [partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions/)
+            * [products-platforms](https://gsa-tts.slack.com/messages/products-platforms/)
+        * 18F Chapters
+            * [design](https://gsa-tts.slack.com/messages/design/)
+            * [dev](https://gsa-tts.slack.com/messages/dev/) (Engineering)
+            * [product](https://gsa-tts.slack.com/messages/product/)
+            * [strategy](https://gsa-tts.slack.com/messages/strategy/)
+    * [infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)
+    * [opp](https://gsa-tts.slack.com/messages/opp/)
+        * OPP Portfolios?
+* Projects
+    * [cap](https://gsa-tts.slack.com/messages/cap/) (C2/Communicart)
+    * [cloud-gov](https://gsa-tts.slack.com/messages/cloud-gov/)
+    * [code-gov](https://gsa-tts.slack.com/messages/code-gov/)
+    * [ffd-general](https://gsa-tts.slack.com/messages/ffd-general/) (Federal Front Door)
+    * etc.
+* Guilds: #g-*
+* Working groups: #wg-*
+* Interests
+    * [bicycles](https://gsa-tts.slack.com/messages/bicycles/)
+    * discuss-*
+* Locations
+    * [chitown](https://gsa-tts.slack.com/messages/chitown/)
+    * [cowork-across-america](https://gsa-tts.slack.com/messages/cowork-across-america/)
+    * [dc](https://gsa-tts.slack.com/messages/dc/)
+    * [michigan](https://gsa-tts.slack.com/messages/michigan/)
+    * [nyc](https://gsa-tts.slack.com/messages/nyc/)
+    * [sf](https://gsa-tts.slack.com/messages/sf/)
+    * etc.
+* SaaS administration/support: #admins-*
+* Technologies
+    * [django](https://gsa-tts.slack.com/messages/django/)
+    * [docker](https://gsa-tts.slack.com/messages/docker/)
+    * [git](https://gsa-tts.slack.com/messages/git/)
+    * [javascript](https://gsa-tts.slack.com/messages/javascript/)
+    * [python](https://gsa-tts.slack.com/messages/python/)
+    * [ruby](https://gsa-tts.slack.com/messages/ruby/)
+    * etc.
+* Fun/silly
+    * [gifs](https://gsa-tts.slack.com/messages/gifs/)
+    * [hi](https://gsa-tts.slack.com/messages/hi/)
+    * [nightowls](https://gsa-tts.slack.com/messages/nightowls/)
+    * [random](https://gsa-tts.slack.com/messages/random/)
+
 ### Channel naming conventions
 
 - Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
-- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. See [the Grouplet Playbook](https://pages.18f.gov/grouplet-playbook/) for information about working groups and guilds.
+- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. See [the Grouplet Playbook](https://pages.18f.gov/grouplet-playbook/) for information about working groups and guilds. Feel free to join a working group or guild channel even if you are not actively part of the group.
 - Channels that end with `-partner` include partners from other agencies.
 - Channels that end with `-public` may include members of the public.
 
