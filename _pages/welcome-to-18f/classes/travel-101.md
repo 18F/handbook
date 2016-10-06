@@ -2,7 +2,7 @@
 title: Travel 101
 ---
 
-This post contains everything you need to know about how to book travel.
+This post contains an overview of what you need to know about how to book travel, excerpted from [our comprehensive Travel Guide](/travel-guide-start-here/).
 
 ### Leadership
 
