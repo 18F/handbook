@@ -10,7 +10,7 @@ Products and Platforms is one of the 5 business units within 18F. We strive to i
 - [login.gov](https://pages.18f.gov/identity-intro/).
 - [Federalist](https://federalist.18f.gov), which allows partners to build customizable and easy-to-maintain static sites. 
 - With partners in TTS, [api.data.gov](https://api.data.gov), which helps with API management.
-- 18F's work on the eRegs platform](https://eregs.github.io/) with various partners.
+- 18F's work on the [eRegs platform](https://eregs.github.io/) with various partners.
 - With partners in TTS, the [Draft US Web Design Standards](https://standards.usa.gov/): open-source UI components and visual styles to create beautiful, consistent experiences across federal government websites.
 - With partners in TTS, [Fugacious](https://fugacious.18f.gov/), which helps to securely transmit information.
 
