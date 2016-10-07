@@ -116,7 +116,7 @@ Here are a few hints for creating a top-notch IDP:
 
 Once you’ve completed your IDP, submit to your supervisor for review.
 
-If you need to edit your IDP, check out [our guide to updating IDPs](https://docs.google.com/presentation/d/1o-JMtcXWqnWwRNPB_m8TOc4aYYKRyjR8vdcrS6Wkpt4/edit?pli=1#slide=id.p7). You'll need to clone it, revise it, and place it in “resubmit status.”
+If you need to edit your IDP, you'll want to make sure to clone it, revise it, and place it in “resubmit status.”
 
 ### 3. Meet with your supervisor
 
