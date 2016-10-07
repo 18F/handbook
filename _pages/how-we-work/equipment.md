@@ -100,6 +100,8 @@ If 18F-issued equipment fails due to manufacturer defects or accidental damage:
 - 18F will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all 18F-issued hardware and peripherals.
 - Employees are responsible for informing Team Ops in [#equipment](https://gsa-tts.slack.com/messages/equipment) of the damage or need for repair by the close of business one business day following the damage.
 - If either your laptop or your phone is in need of repair, please go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we'll ship you a new laptop).
+- If you need to take your laptop to the Apple Store, you can check to see if it's under warranty with the hardware serial number [here](https://checkcoverage.apple.com/). If it is not under warranty, Team Ops will walk you through how to take care of the cost for repair. 
+- If you need to leave your laptop for repairs at the Apple Store, double check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790). As a reminder, GSA IT sets up your laptop with FileVault encryption. You can check it in your System Preferences to see that it's there and properly set up.
 
 ## <a id="stolen-or-lost">Lost or stolen equipment</a>
 
