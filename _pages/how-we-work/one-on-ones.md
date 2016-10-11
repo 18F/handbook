@@ -72,7 +72,7 @@ effective:
     with tactical work and leave little time for longer-term,
     goal-oriented work.
 
-2.  **People think about the their work in weekly chunks**. Quick: what
+2.  **People think about their work in weekly chunks**. Quick: what
     did you work on two weeks ago? You probably have to check your
     notes or calendar, right? That meeting you held two Tuesdays ago
     is already a faded memory, isn’t it? We tend to think of our work
