@@ -111,7 +111,7 @@ Have you
 
 [Proceed to prepare your trip for approval and book trip](/travel-guide-3-approval)
 
-#### Book Hotel Alternate
+#### Book Hotel in Fedrooms
 You've ended up here because you are either:
 
 * New to 18F and/or don’t have a travel card yet
