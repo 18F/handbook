@@ -18,6 +18,10 @@ Before taking leave, be sure to:
 - Submit correct Tock entries assigned to Annual Leave
 - Share via Slack, email or over media with folk how need to know, and make sure work is covered
 
+### Advanced Leave
+
+You can take up to 80 hours of advanced leave (that is, leave you've not accrued yet). You must be able to make it up before the end of your term or by the end of the "leave year" (approximately the end of the calendar year: January 7, 2017, for example), whichever is sooner.
+
 ## Religious Observance
 
 Adjusting work schedules for religious observances is handled differently than leave. If you need to miss regular work hours for religious observance, you should notify your supervisor in writing in advance of the time you'll need to miss, along with the schedule of the time you will work outside of normal hours to compensate. For details, please see the relevant [OPM policy](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/).
