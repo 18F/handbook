@@ -20,7 +20,7 @@ Before taking leave, be sure to:
 
 ### Advanced Leave
 
-You can take up to 80 hours of advanced leave (that is, leave you've not accrued yet). You must be able to make it up before the end of your term or by the end of the "leave year" (approximately the end of the calendar year: January 7, 2017, for example), whichever is sooner.
+You can take up to 80 hours of advanced leave (that is, leave you've not accrued yet). You must be able to make it up before the end of the leave year. See the [Benefits class](https://handbook.18f.gov/benefits/#advanced-annual-leave) for more information.
 
 ## Religious Observance
 
