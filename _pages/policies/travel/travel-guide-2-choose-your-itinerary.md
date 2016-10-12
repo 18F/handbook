@@ -76,7 +76,7 @@ Have you
 
 [Yes - I'm Booking in Concur](#book-hotel-in-Concur)
 
-[No  - I'm going through something else](#book-hotel-alternate)
+[No  - I'm going through something else](#book-hotel-in-fedrooms)
 
 #### Book Hotel in Concur
 1. When you click on the **Next** button, a popup will appear asking if you'd like to book a hotel now. Select **I will book a hotel now** and click **OK**.
@@ -111,7 +111,7 @@ Have you
 
 [Proceed to prepare your trip for approval and book trip](/travel-guide-3-approval)
 
-#### Book Hotel Alternate
+#### Book Hotel in Fedrooms
 You've ended up here because you are either:
 
 * New to 18F and/or don’t have a travel card yet
