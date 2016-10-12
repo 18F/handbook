@@ -12,12 +12,12 @@ Custom Partner Solutions is one of the 5 business units within 18F. Using the cr
 ## Projects
 There have been a lot of success stories for CPS, like what we did with:
 
-- The [Department of Labor&rsquo;s Wage and Hour Division](), where we scoped a solution and collaborated on an idea in a way that empowered our partners to meet the needs of their users 
-- [NASA and the National Oceanic and Atmospheric Administration&rsquo;s Climate Discovery project](), where we did user research and discovery sprints to promote a new digital model that houses information 
-- The [U.S. Citizenship and Immigration Service]() and their immigration and visa processes, where we improved upon a slow and challenging process for users by reimagining and modernizing a seemingly daunting task 
-- The Department of Education&rsquo;s [College Scorecard](), where we built a new site and API to showcase and synthesize data from multiple sources 
-- The [Federal Election Commission]() where we helped make data more accessible with user-friendly site and developer tools
-- [Communicart]() and [CALC](), where we built web-based tools to streamline internal agency processes  
+- The [Department of Labor&rsquo;s Wage and Hour Division](https://18f.gsa.gov/2015/09/09/how-a-two-day-sprint-moved-an-agency-twenty-years-forward/), where we scoped a solution and collaborated on an idea in a way that empowered our partners to meet the needs of their users 
+- [NASA and the National Oceanic and Atmospheric Administration&rsquo;s Climate Discovery project](https://climate-data-user-study.18f.gov/), where we did user research and discovery sprints to promote a new digital model that houses information 
+- The [U.S. Citizenship and Immigration Service](https://my.uscis.gov/) and their immigration and visa processes, where we improved upon a slow and challenging process for users by reimagining and modernizing a seemingly daunting task 
+- The Department of Education&rsquo;s [College Scorecard](https://collegescorecard.ed.gov/), where we built a new site and API to showcase and synthesize data from multiple sources 
+- The [Federal Election Commission](https://beta.fec.gov/) where we helped make data more accessible with user-friendly site and developer tools
+- [Communicart](https://cap.18f.gov/) and [CALC](https://calc.gsa.gov/), where we built web-based tools to streamline internal agency processes  
 
 ## Team Structure 
 
