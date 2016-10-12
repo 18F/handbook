@@ -11,7 +11,7 @@ title: Travel Guide Table of Contents
 * [2. Choose Your Itinerary](/travel-guide-2-choose-your-itinerary)
     * [Book your flight](/travel-guide-2-choose-your-itinerary/#book-flight-or-rail)
     * [Book lodging through concur](/travel-guide-2-choose-your-itinerary/#book-hotel-in-concur)
-    * [Book lodging outside of concur](/travel-guide-2-choose-your-itinerary/#book-hotel-alternate)
+    * [Book lodging outside of concur](/travel-guide-2-choose-your-itinerary/#book-hotel-in-fedrooms)
 * [3. Get trip approval](/travel-guide-3-approval)
     * [Complete Trip Information](/travel-guide-3-approval/#i-complete-trip-information)
     * [Enter Accounting Codes](/travel-guide-3-approval/#iii-enter-accounting-codes)
