@@ -2,14 +2,14 @@
 title: Design
 ---
 
-The Design team at 18F includes content, user experience, front-end, and visual designers as well as researchers, editors, prototypers, illustrators, and wordsmiths.
+The Design team at 18F includes content, user experience, front end, and visual designers as well as researchers, editors, prototypers, illustrators, and wordsmiths.
 
-18F Design provide design as a service to the rest of the organization, including:
+18F Design provides design as a service to the rest of the organization, including:
 
 - **Research.** We help people to identify, target, and solicit feedback from real users, stakeholders, subject-matter experts, etc.
 - **Content strategy.** We help people clarify their tone and voice, and explore the breadth and depth of their content.
 - **Information architecture.** We help people state their intent and disclose information in an intuitive way.
-- **Interaction design and frontend development.** We work with people to wireframe and prototype simple, beautiful, usable, interactions.
+- **Interaction design and front end development.** We work with people to wireframe and prototype simple, beautiful, usable, interactions.
 - **Visual design.** We help people more clearly communicate through visualizations and illustrations as well as solid graphic design knowhow.
 
 ## <a id="documentation">Documentation</a>
