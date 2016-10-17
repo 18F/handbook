@@ -15,9 +15,9 @@ To report a security incident, follow all of the steps below:
 
 1. For anything that _isn't_ a phishing attempt, [send a Slack DM to Kimber Dowsett (@kimber)](https://gsa-tts.slack.com/messages/@kimber/), the 18F Infrastructure Security Architect, with a _very short description_ of the incident.
 
-1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible**.
+1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible, excluding sensitive data**.
   * Keep this issue up to date with appropriately summarized actions or information from interactions with GSA.
-  * If needed, create a GSA Google Doc to track sensitive information that can't be shared in Slack/GitHub. Put a hyperlink to the GSA Google Doc in the top summary of the GitHub Issue.
+  * **If you suspect sensitive data is part of security incident you're reporting, you must create a GSA Google Doc and share with devops@gsa.gov**. Please include link to GitHub issue at top of doc, along with a brief description of the suspected security incident. Use this Google Doc for snippets of data and notate any information you deem important for forensic investigation. Potentially sensitive data must never be shared in Slack/GitHub or transmitted via email. Include the hyperlink to the GSA Google Doc in the top summary of the GitHub Issue. If the GSA Incident Response team requests access to sensitive data files for review, your Google Doc will be shared. At this time, this is the only approved method of secure data transmission during an active incident.
 
 1. Do not delete any potential evidence. For example, in the event of a suspected Amazon Web Services (AWS) or cloud.gov incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance or app to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
 
