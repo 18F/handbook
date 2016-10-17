@@ -8,6 +8,8 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 - Greg Boone gives [a brief class on GitHub and the 18F website](/github-and-18f-site).
 
+- The 18F [Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) and accompanying [practice guide](https://github.com/18F/open-source-policy/blob/master/practice.md) explain why and how we write code and documentation in the open.
+
 - Melody Kramer and Greg Boone co-wrote [a guide to using GitHub and the Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
 
 - Will Slack [explains the basics](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit) of version control and GitHub. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18); course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
@@ -65,7 +67,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Ask Infrastructure before creating private repositories.** We pay GitHub for the ability to create private repositories and need to bill clients for repositories created on their behalf. Before you do anything, drop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github) and explain what you&rsquo;d like to do and why.
 
-- **Ask Infrastructure before deleting repositories.** Deleting repositories isn&rsquo;t as simple as deleting them from GitHub. Before you do anything, drop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why. Note that we do use [BackHub](https://backhub.co/) for backups of repositories, just in case.
+- **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it. Feel free to clearly mark repositories “DEPRECATED” at any time.
 
 ### Working with outside collaborators
 
