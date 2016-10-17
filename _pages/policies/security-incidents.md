@@ -8,7 +8,7 @@ Something went "bump" in the night (or the day)? This document explains what to 
 To report a security incident, follow all of the steps below:
 
 1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov. You can use this
- <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email everyone at the same time</a>,
+ <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email to everyone at the same time</a>,
  and within 1 hour of identifying an incident. Don't worry if you don't have all of the details gathered when you email GSA's Incident Response (IR) team. The critical piece here is notification within one hour. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team.
 
 1. Report the incident in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
@@ -17,7 +17,7 @@ To report a security incident, follow all of the steps below:
 
 1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible, excluding sensitive data**.
   * Keep this issue up to date with appropriately summarized actions or information from interactions with GSA.
-  * **If you suspect sensitive data is part of security incident you're reporting, you must create a GSA Google Drive folder and only share it with devops@gsa.gov and gsa-ir@gsa.gov**. To do this, ensure you're creating the folder as part of "My Drive" and not within a pre-existing folder. Use this GSA Google Drive folder any data or files. Add static files, Google Docs, or Google Sheets as appropriate, and add a comment to any information you think is critical to the investigation.
+  * **If you suspect sensitive data is part of security incident you're reporting, you must create a GSA Google Drive folder and share it with devops@gsa.gov and gsa-ir@gsa.gov ONLY**. To do this, ensure you're creating the folder as part of "My Drive" and not within a pre-existing folder. Use this GSA Google Drive folder for any potentially sensitive data and/or files. Add static files, Google Docs, or Google Sheets as appropriate, and add a comment to any information you think is critical to the investigation.
   * Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. Include the hyperlink to the GSA Google Drive folder in the top summary of the GitHub Issue. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident.
 
 1. Do not delete any potential evidence. For example, in the event of a suspected Amazon Web Services (AWS) or cloud.gov incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance or app to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
