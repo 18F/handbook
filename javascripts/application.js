@@ -131,6 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
       'github.com/18F/Infrastructure',
       'github.com/18F/staffing-and-resources',
       'github.com/18F/team-api.18f.gov',
+      'github.com/18F/security-incidents',
       'github.com/18F/writing-lab',
       'gkey.gsa.gov',
       'gsa.my.salesforce.com',
