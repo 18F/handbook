@@ -104,7 +104,13 @@ Groups are a great way to alert people who might not be in a channel about somet
 - **Change your color scheme.** You can change your color scheme by going to Preferences --> Theme --> Custom Theme. Paste the following for the US Design Standards theme: `#112E51,#205493,#0071BC,#FFFFFF,#323A45,#FFFFFF,#4AA564,#981B1E`
 - **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
 - **Update Slackbot.** We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-tts.slack.com/customize/emoji)).
-- **Use #news for vital team announcements.** [#news]((https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. Please keep #news posts limited to information that the entire team needs to know. This includes things like required trainings, necessary security and compliance actions, policy changes or reminders, and all-team events. If you have a post you’d like to go up in #news, ping @commsquad to get a review of the language, then ask in #admins-slack for someone to post it to #news. 
+- **Use #news for vital team announcements.** [#news]((https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you’d like to go up in #news, ping @commsquad to get a review of the language, then ask in #admins-slack for someone to post it to #news. Please keep #news posts limited to information that the entire team needs to know. This includes things like:
+    - Required trainings
+    - Necessary security and compliance actions 
+    - Policy changes or reminders
+    - All-team events 
+    - Senior management team meeting notes
+    - Changes or actions that impact the entire team
 
 ### Frequently used emoji
 
