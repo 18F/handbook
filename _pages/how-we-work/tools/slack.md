@@ -16,6 +16,7 @@ Because Slack is a web application, there’s no installation necessary. You can
 - **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/@noah/) and [Hillary Hartley](https://gsa-tts.slack.com/messages/@hillary/).
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** If you need to share sensitive data (environmental variables, passwords, and so forth), please use [Fugacious](https://fugacious.18f.gov/) to create a short message that is auto-deleted. If the information you need to share is very complex, please share it using a GSA Google Drive folder, and then promptly delete it once you’re done sharing.
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack.
+- **Do NOT use the "import a file from Google Drive" feature**. If you click the `+` button to the left of the message box, Slack has an option to import a file from Google Drive. DO NOT DO THIS. Importing files to Slack means they are stored on a non-government system. This is worth repeating: until the CIO team has cleared this feature for use, it must NOT be used.
 
 ## Usage of 18F's Slack
 
