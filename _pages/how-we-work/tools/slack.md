@@ -17,13 +17,13 @@ Because Slack is a web application, there’s no installation necessary. You can
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [18F's list of alternatives](../sensitive-information/#tools).
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack.
 
-## Usage of 18F's Slack
+## Usage of TTS's Slack
 
-Slack is required for all 18F staff (including PIFs). We can also invite people outside 18F to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from Infrastructure. These users may include:
+Slack is required for all TTS staff. We can also invite people outside TTS to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from Infrastructure. These users may include:
 
-- Vendors _under contract_ (not just a Terms of Service) with 18F
-- Vendors with GSA who are working on a project with 18F, for which we have an Memorandum of Understanding (MOU)
-- Partners at federal agencies whose projects are under an Interagency Agreement with 18F
+- Vendors _under contract_ (not just a Terms of Service) with TTS
+- Vendors with GSA who are working on a project with TTS, for which we have an Memorandum of Understanding (MOU)
+- Partners at federal agencies whose projects are under an Interagency Agreement with TTS
 - Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
 - Members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov)
 
@@ -97,7 +97,7 @@ New integrations/bots need approval from the following:
 
 ## The public
 
-18F has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
+TTS has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
 
 ### Invite a member of the public to Slack
 
