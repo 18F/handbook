@@ -56,10 +56,10 @@ If you’re speaking at an event, ping us in [#outreach](https://gsa-tts.slack.c
 
 If you’re looking for help with a slide deck for a presentation, you can find resources on the [18F Branding site](https://pages.18f.gov/brand/presentation-themes/). We also have a couple previous decks that have ready-to-use slides about 18F’s history, the digital service ecosystem, and the basics of 18F’s model. 
 
-*[Adobe Digital Government Assembly](https://docs.google.com/presentation/d/1vE9yp92vx2ZCgEmb0xPEyZr6wUorzLjs5-APQjwN5vI/edit#slide=id.p)
-*[Tech Summit San Diego](https://docs.google.com/presentation/d/1gkqQsDdNAzoXm1kXgsOrUoNY8ObWHJWpHh1o30eo204/edit#slide=id.g11f3f786cd_0_0)
-*[18F General Slides](https://docs.google.com/presentation/d/1-RSrdIJzrOE8YBG6V_DHHRkBNo5fxecl8EtIxksqeUk/edit#slide=id.g11b16e26a9_0_5)
-*You can find a number of other decks in this [Google Drive folder](https://drive.google.com/drive/folders/0B-y3CqI2T1nneHViZUx5b3FHLVE) and templates for one page print outs [here](https://drive.google.com/drive/folders/0B8kn3cuJUwEkT3lZRmN1QV9mdVk)
+* [Adobe Digital Government Assembly](https://docs.google.com/presentation/d/1vE9yp92vx2ZCgEmb0xPEyZr6wUorzLjs5-APQjwN5vI/edit#slide=id.p)
+* [Tech Summit San Diego](https://docs.google.com/presentation/d/1gkqQsDdNAzoXm1kXgsOrUoNY8ObWHJWpHh1o30eo204/edit#slide=id.g11f3f786cd_0_0)
+* [18F General Slides](https://docs.google.com/presentation/d/1-RSrdIJzrOE8YBG6V_DHHRkBNo5fxecl8EtIxksqeUk/edit#slide=id.g11b16e26a9_0_5)
+* You can find a number of other decks in the ["Presentations" Google Drive folder](https://drive.google.com/drive/folders/0B-y3CqI2T1nneHViZUx5b3FHLVE) and templates for one page print outs in the ["Branded Materials for Outreach" Google Drive folder](https://drive.google.com/drive/folders/0B8kn3cuJUwEkT3lZRmN1QV9mdVk)
 
 ## 18f.gsa.gov
 
