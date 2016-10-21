@@ -65,6 +65,36 @@ However, there are currently _no_ assurances that Slack employees can't read any
 
 This is the case with most software as a service offerings. Slack has multiple mechanisms in place to audit this access, and ensure it is only done with the appropriate authorizations. Regardless, we currently do not, and may never, authorize Slack to handle sensitive information.
 
+## Integrations
+
+_...or "Apps" or "bots"._
+
+**[Integration request form](https://goo.gl/forms/pgxtz7xwIWubF0go1)**
+
+Note this is only necessary for new bots or *types* of integrations—approval is not needed for new “configurations” of a previously-approved App. The form should filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
+
+Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-tts.slack.com/help/requests/new) for help.
+
+New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the TTS Slack, fill out the form.
+
+Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreadsheets/d/1karb4OJPFga493-3bnuWFvhFuk18iFlvz-xWC8ZedSQ/edit#gid=161327310). The form can be edited [here](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit).
+
+### Approval
+
+New integrations/bots need approval from the following:
+
+* TTS Slack admins
+* Security Engineering (ISE) (Bo Berlas)
+* OCTO
+* GSA IT (Amar Singh, Chris McFerren, or Derrick Rogers)
+
+### Considerations
+
+* Read access from Slack (e.g. RSS) will almost definitely be approved.
+* One-way integrations into Slack (e.g. via webhooks) are almost always fine.
+* Integrations from higher-risk systems (Moderate or High) into Slack will generally not be approved.
+* TTS Infrastructure will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
+
 ## The public
 
 18F has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
