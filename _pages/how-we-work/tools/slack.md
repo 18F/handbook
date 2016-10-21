@@ -31,16 +31,34 @@ Slack is required for all TTS staff. We can also invite people outside TTS to ha
 
 You may be invited to other Slack teams operated by government entities, or entities under contract to the government. You're allowed to join those teams as necessary for your work. You should join those teams with your **government email address** and ensure your avatar and profile information are consistent across Slack teams. If you're invited to Slack teams unrelated to your job, you must join those teams with a personal email address.
 
-## Project stakeholders
+## Adding people
+
+### TTS staff
+
+Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
+
+### Project stakeholders
 
 You can invite government partners to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as `single-channel guests` at no cost to the project or agency. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://gsa-tts.slack.com/pricing) to your IAA.
 
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
 1. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
-## Friends
+### Friends
 
 Friends from other government teams can be invited into a project's channel or a general purpose channel like [#friends](https://gsa-tts.slack.com/messages/friends/). If the individual is a federal employee, and the main purpose of inviting them is to work on government projects, the invite should be sent to their `.gov`/`.mil` email address. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
+
+### The public
+
+TTS has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
+
+#### Inviting
+
+To invite people to a public Slack channel, send them to [chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
+
+#### Add a new public channel
+
+See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
 ## Records policy
 
@@ -91,18 +109,6 @@ New integrations/bots need approval from the following:
 * One-way integrations into Slack (e.g. via webhooks) are almost always fine.
 * Integrations from higher-risk systems (Moderate or High) into Slack will generally not be approved.
 * TTS Infrastructure will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
-
-## The public
-
-TTS has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
-
-### Invite a member of the public to Slack
-
-To invite people to a public Slack channel, send them to [chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
-
-### Add a new public channel
-
-See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
 ## Groups
 
