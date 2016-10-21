@@ -14,16 +14,16 @@ Because Slack is a web application, there’s no installation necessary. You can
 - **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options.
 - **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/@noah/) and [Hillary Hartley](https://gsa-tts.slack.com/messages/@hillary/).
-- **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** If you need to share sensitive data (environmental variables, passwords, and so forth), please use [Fugacious](https://fugacious.18f.gov/) to create a short message that is auto-deleted. If the information you need to share is very complex, please share it using a GSA Google Drive folder, and then promptly delete it once you’re done sharing.
+- **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [18F's list of alternatives](../sensitive-information/#tools).
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack.
 
-## Usage of 18F's Slack
+## Usage of TTS's Slack
 
-Slack is required for all 18F staff (including PIFs). We can also invite people outside 18F to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from Infrastructure. These users may include:
+Slack is required for all TTS staff. We can also invite people outside TTS to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from Infrastructure. These users may include:
 
-- Vendors _under contract_ (not just a Terms of Service) with 18F
-- Vendors with GSA who are working on a project with 18F, for which we have an Memorandum of Understanding (MOU)
-- Partners at federal agencies whose projects are under an Interagency Agreement with 18F
+- Vendors _under contract_ (not just a Terms of Service) with TTS
+- Vendors with GSA who are working on a project with TTS, for which we have an Memorandum of Understanding (MOU)
+- Partners at federal agencies whose projects are under an Interagency Agreement with TTS
 - Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
 - Members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov)
 
@@ -31,19 +31,34 @@ Slack is required for all 18F staff (including PIFs). We can also invite people 
 
 You may be invited to other Slack teams operated by government entities, or entities under contract to the government. You're allowed to join those teams as necessary for your work. You should join those teams with your **government email address** and ensure your avatar and profile information are consistent across Slack teams. If you're invited to Slack teams unrelated to your job, you must join those teams with a personal email address.
 
+## Adding people
+
+### TTS staff
+
+Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
+
 ### Project stakeholders
 
 You can invite government partners to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as `single-channel guests` at no cost to the project or agency. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://gsa-tts.slack.com/pricing) to your IAA.
 
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
-1. Post the email/username of the partner(s) and what channel(s) they should be in in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/).
-1. If you want partners to have access to _more_ than one channel:
-    1. The admin will make them a multi-channel user, and update [the multi-channel user list](https://docs.google.com/spreadsheets/d/1weEbuD1RUqtwTiHCT_roD6tvKkBiQL5nkLe8btxyKHA/edit).
-    1. Give [#finance](https://gsa-tts.slack.com/messages/finance/) a heads up.
+1. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
 ### Friends
 
-Friends from other government teams can be invited into a project's channel or a general purpose channel like [#friends](https://gsa-tts.slack.com/messages/friends/). If the individual is a federal employee, and the main purpose of inviting them is to work on government projects, the invite should be sent to their `.gov`/`.mil` email address.
+Friends from other government teams can be invited into a project's channel or a general purpose channel like [#friends](https://gsa-tts.slack.com/messages/friends/). If the individual is a federal employee, and the main purpose of inviting them is to work on government projects, the invite should be sent to their `.gov`/`.mil` email address. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
+
+### The public
+
+TTS has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
+
+#### Inviting
+
+To invite people to a public Slack channel, send them to [chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
+
+#### Add a new public channel
+
+See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
 ## Records policy
 
@@ -63,19 +78,37 @@ However, there are currently _no_ assurances that Slack employees can't read any
 
 > All of our employees are bound to our policies regarding customer data and we treat these issues as matters of the highest importance within our company. If, in order to diagnose a problem you are having with the service, we would need to do something which would expose your data to one of our employees in a readable form, we will always ask you prior to taking action and will not proceed without your permission. Our platform will automatically generate an audit entry of any such access.
 
-This is the case with most software as a service offerings. Slack has multiple mechanisms in place to audit this access, and ensure it is only done with the appropriate authorizations. Regardless, we currently do not, and may never, authorize Slack to handle sensitive information.
+This is the case with most software as a service offerings. Slack has multiple mechanisms in place to audit this access, and ensure it is only done with the appropriate authorizations. Regardless, we currently do not, and may never, authorize Slack to handle [sensitive information](../sensitive-information/)).
 
-## The public
+## Integrations
 
-18F has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
+_...or "Apps" or "bots"._
 
-### Invite a member of the public to Slack
+**[Integration request form](https://goo.gl/forms/pgxtz7xwIWubF0go1)**
 
-To invite people to a public Slack channel, send them to [chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
+Note this is only necessary for new bots or *types* of integrations—approval is not needed for new “configurations” of a previously-approved App. The form should filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
 
-### Add a new public channel
+Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-tts.slack.com/help/requests/new) for help.
 
-See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
+New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the TTS Slack, fill out the form.
+
+Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreadsheets/d/1karb4OJPFga493-3bnuWFvhFuk18iFlvz-xWC8ZedSQ/edit#gid=161327310). The form can be edited [here](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit).
+
+### Approval
+
+New integrations/bots need approval from the following:
+
+* TTS Slack admins
+* Security Engineering (ISE) (Bo Berlas)
+* OCTO
+* GSA IT (Amar Singh, Chris McFerren, or Derrick Rogers)
+
+### Considerations
+
+* Read access from Slack (e.g. RSS) will almost definitely be approved.
+* One-way integrations into Slack (e.g. via webhooks) are almost always fine.
+* Integrations from higher-risk systems (Moderate or High) into Slack will generally not be approved.
+* TTS Infrastructure will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
 
 ## Groups
 
