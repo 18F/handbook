@@ -84,7 +84,7 @@ This is the case with most software as a service offerings. Slack has multiple m
 
 _...or "Apps" or "bots"._
 
-You can add [integrations](https://gsa-tts.slack.com/apps/manage) to Slack to allow activities like automatically posting activity in Github into a Slack channel. Note that there is a limited set of approved integrations; do not request a non-approved integration without following the below process.
+You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. For any new integration types, please follow the process below.
 
 ### Approval of New Integrations
 
