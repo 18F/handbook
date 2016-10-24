@@ -37,16 +37,16 @@ You may be invited to other Slack teams operated by government entities, or enti
 
 Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
-### Project stakeholders
+### External collaborators
 
-You can invite government partners to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as `single-channel guests` at no cost to the project or agency. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://gsa-tts.slack.com/pricing) to your IAA.
+You can invite government partners, contractors, etc. to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as [single-channel guests](https://get.slack.help/hc/en-us/articles/202518103-Multi-Channel-and-Single-Channel-Guests) at no cost to the project or agency. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://slack.com/pricing) to your IAA.
 
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
 1. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
 ### Friends
 
-Friends from other government teams can be invited into a project's channel or a general purpose channel like [#friends](https://gsa-tts.slack.com/messages/friends/). If the individual is a federal employee, and the main purpose of inviting them is to work on government projects, the invite should be sent to their `.gov`/`.mil` email address. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
+Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a project](#external-collaborators) can be invited into [#friends](https://gsa-tts.slack.com/messages/friends/), or any of the [public channels](#the-public). Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
 ### The public
 
