@@ -84,6 +84,10 @@ This is the case with most software as a service offerings. Slack has multiple m
 
 _...or "Apps" or "bots"._
 
+You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. For any new integration types, please follow the process below.
+
+### Approval of New Integrations
+
 **[Integration request form](https://goo.gl/forms/pgxtz7xwIWubF0go1)**
 
 Note this is only necessary for new bots or *types* of integrations—approval is not needed for new “configurations” of a previously-approved App. The form should filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
