@@ -134,7 +134,7 @@ Once your IDP is approved, you can [create an event request in C2](https://cap.1
 
 **What happens next?**
 
-[Pia Scott]((mailto: pia.scott@gsa.gov)) will review your request for red flags during her 18F office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 9 AM - 11 AM Eastern on Friday. You can review the 18F Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`
+[Pia Scott]((mailto:pia.scott@gsa.gov)) will review your request for red flags during her 18F office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 9 AM - 11 AM Eastern on Friday. You can review the 18F Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`
 
 ### 5. Resolve any red flags and finalize all approvals
 
@@ -157,7 +157,7 @@ Once you have remedied all red flags and Pia has recommended approval, the 18F D
 
 **Purchase, travel approval, and logistics**
 
-Once Josh and Jackie have approved, your request will move on to [18F Purchasers](18f-purchasers@gsa.gov). Then, one (or two) of three things will happen:
+Once Josh and Jackie have approved, your request will move on to [18F Purchasers](mailto:18f-purchasers@gsa.gov). Then, one (or two) of three things will happen:
 
 * If your request didn't require anything to be purchased and there were no travel expenses, it will be marked as "purchased" and resolved with no further action required on your part.
 * If your request requires that something be purchased, [read on here](#does-the-training-or-conference-require-payment?) for more.
@@ -200,7 +200,7 @@ There are a few special rules for trainings of conferences that cost over $3,000
 
 #### Are you attending a conference or training at a conference?
 
-Conferences, training at conferences, and training involving travel require Salesforce approval. [Pia](mailto: pia.scott@gsa.gov) will create this Salesforce Event Approval request, so no action is required on your part. You will receive two notifications via comment in C2: submission and approval. Further instructions will be provided, based upon the training request type.
+Conferences, training at conferences, and training involving travel require Salesforce approval. [Pia](mailto:pia.scott@gsa.gov) will create this Salesforce Event Approval request, so no action is required on your part. You will receive two notifications via comment in C2: submission and approval. Further instructions will be provided, based upon the training request type.
 
 #### Does the training or conference require travel?
 
@@ -215,9 +215,9 @@ You will also need to [apply for a travel card](https://handbook.18f.gov/first-t
 
 International travel requires additional approvals. As mentioned above, make sure that you’ve submitted your request 6-8 weeks in advance.
 
-Similar to requesting any sort of training involving travel, [Pia](mailto: pia.scott@gsa.gov) will review and identify any red flags and steps for remediation, and then submit a request on your behalf in Salesforce.
+Similar to requesting any sort of training involving travel, [Pia](mailto:pia.scott@gsa.gov) will review and identify any red flags and steps for remediation, and then submit a request on your behalf in Salesforce.
 
-International Salesforce Event Approval Requests require extensive review prior to approval, and must be reviewed and approved by your first and second-level supervisors, the HSSO, OGC, OGE, OAS and the GSA Administrator. [Pia](mailto: pia.scott@gsa.gov) will assist you in coordinating this approval process. You must include justification for international travel in your training request. For example, can this training be obtained in the United States? If so, why do you need to travel outside of the country? This question will be asked at every level of review. Be sure to provide a comprehensive justification (such as professional development, collaboration, information gathering, recruitment, etc.).
+International Salesforce Event Approval Requests require extensive review prior to approval, and must be reviewed and approved by your first and second-level supervisors, the HSSO, OGC, OGE, OAS and the GSA Administrator. [Pia](mailto:pia.scott@gsa.gov) will assist you in coordinating this approval process. You must include justification for international travel in your training request. For example, can this training be obtained in the United States? If so, why do you need to travel outside of the country? This question will be asked at every level of review. Be sure to provide a comprehensive justification (such as professional development, collaboration, information gathering, recruitment, etc.).
 
 Once the international travel has been recommended for approval by Pia and approved by Josh and Jackie, the procedure is the same as [above](#does-the-training-or-conference-require-travel?)
 
