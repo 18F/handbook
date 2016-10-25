@@ -59,7 +59,7 @@ Alternatively, you can try one of these:
 
 Each time you sign in, you’ll need a one-time password (sometimes called a token or answer) and your ENT username and password.
 
-* To get your one-time password, visit [otp.gsa.gov](https://otp.gsa.gov) or set up the [SecureAuth Authenticate](https://itunes.apple.com/us/app/secureauth-otp/id615536686?mt=8) app on your iPhone.
+* To get your one-time password, visit [otp.gsa.gov](https://otp.gsa.gov) or [set up the SecureAuth Authenticate app on your iPhone](https://handbook.18f.gov/pdfs/setting_up_otp_for_remote_access.pdf).
 * Your ENT username is your first name + middle initial + lastname (with no spaces, such as: firstmlast).
 * To reset your ENT password, visit [secureauth.gsa.gov](https://secureauth.gsa.gov) and click **GSA AD Password Reset**.
 
