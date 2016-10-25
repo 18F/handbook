@@ -119,6 +119,8 @@ Here are some tips for employees that frequent an office:
 
 Your account may not be set up by the time you start working at 18F. Account setup and activation are usually complete within a month of your start date; you'll receive an email from CHRIS once your account is set up and activated. If you don't receive this email within a month of starting, open a ticket with the [GSA IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/).
 
+You must [be on the VPN](/networks/#remote-access) to connect to CHRIS, if you work remotely.
+
 
 ## <a id="concur">Concur</a>
 
