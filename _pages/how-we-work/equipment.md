@@ -55,6 +55,7 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 - **[You can tether to your laptop to iPhone](https://support.apple.com/en-us/HT204023)** for internet access when you're on the go.
 - If you can't send email with your new work iPhone, create a new email and check the From field. If it's a jumble of letters and numbers `@secure.mass360.com`, tap on it to change it to your `@gsa.gov` email address. Then go **Settings > Mail > Default Account > GSA Account** to switch the default address.
 - If you stop getting email on your phone and can't log into your account, you may need to regenerate your [GKey](https://gkeygsa.appspot.com/request). The Apple Mail app uses your GKey as your password.
+- To reduce waste, GSA IT will [disable mobile service for inactive accounts](https://insite.gsa.gov/portal/content/663074). The consumed minutes is the metric used to determine activity, so if you only use the phone for data, you'll still need to make an occasional call on your mobile phone to prevent the account from going inactive.
 - If you need help with your phone, call the GSA IT Help Desk at 1-866-450-5250.
 
 ## Business cards
