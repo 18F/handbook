@@ -114,7 +114,7 @@ If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employ
 5. Call your FPS using contact information provided in the link.
 6. Contact your regional ISSO using contact information provided in the link.
 
-18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](TODOLINK) and email it to [accesscard@gsa.gov](mailto:accesscard@gsa.gov)
+18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [accesscard@gsa.gov](mailto:accesscard@gsa.gov)
 
 ## Requirements for passwords
 
