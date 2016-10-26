@@ -142,12 +142,12 @@ Before your request can be approved, it needs to be free of red flags. During he
 
 Some of the most common red flags include:
 
-* [Any training or conference requiring payment](#does-the-training-or-conference-require-payment?)
-* [Training or conference purchase is over $3,000](#Does-the-training-or-conference-cost-over-$3,000?)
-* [Conferences or trainings at conferences](#Are-you-attending-a-conference-or-training-at-a-conference?)
-* [Training or conferences involving travel](#does-the-training-or-conference-require-travel?)
-* [Any international travel](#Does-your-request-require-international-travel?)
-* [Vendor-sponsored event participation (vendor offers to cover any expense)](#Does-the-event-cover-registration,-lodging,-or-food-free-of-charge?)
+* [Any training or conference requiring payment](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-payment?)
+* [Training or conference purchase is over $3,000](https://handbook.18f.gov/professional-development-and-training/#Does-the-training-or-conference-cost-over-$3,000?)
+* [Conferences or trainings at conferences](https://handbook.18f.gov/professional-development-and-training/#Are-you-attending-a-conference-or-training-at-a-conference?)
+* [Training or conferences involving travel](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-travel?)
+* [Any international travel](https://handbook.18f.gov/professional-development-and-training/#Does-your-request-require-international-travel?)
+* [Vendor-sponsored event participation (vendor offers to cover any expense)](https://handbook.18f.gov/professional-development-and-training/#Does-the-event-cover-registration,-lodging,-or-food-free-of-charge?)
 
 It’s fairly common for a request to have multiple red flags. Pia will recommend your request for approval and purchase during her next office hours once she verifies that all red flags have been addressed.
 
@@ -160,8 +160,8 @@ Once you have remedied all red flags and Pia has recommended approval, the 18F D
 Once Josh and Jackie have approved, your request will move on to [18F Purchasers](mailto:18f-purchasers@gsa.gov). Then, one (or two) of three things will happen:
 
 * If your request didn't require anything to be purchased and there were no travel expenses, it will be marked as "purchased" and resolved with no further action required on your part.
-* If your request requires that something be purchased, [read on here](#does-the-training-or-conference-require-payment?) for more.
-* If your request requires travel, [read on here](#does-the-training-or-conference-require-travel?) for more.
+* If your request requires that something be purchased, [read on here](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-payment?) for more.
+* If your request requires travel, [read on here](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-travel?) for more.
 
 #### Does the training or conference require payment?
 
