@@ -49,7 +49,7 @@ The following delegations and designations are made in the TTS:
 
 ## Policy activation
 
-This policy is put into effect by this policy being digitally signed by the Acting TTS Infrastructure Director and committed into this Handbook. All digital signatures must submitted by signing the entire content of this policy with PGP or exporting the content to a PDF and signing with your GSA PIV card.
+This policy is put into effect by this policy being digitally signed by the Acting TTS Infrastructure Director and committed into this Handbook. All digital signatures must be submitted by signing the entire content of this policy with PGP or exporting the content to a PDF and signing with your GSA PIV card.
 
 
 ---
