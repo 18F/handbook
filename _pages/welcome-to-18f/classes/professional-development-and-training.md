@@ -126,17 +126,21 @@ Once you’ve submitted your IDP,  you’ll meet with your supervisor to discuss
 
 That said, 18F will consider all requests for training, but it’s the responsibility of heads of chapters and business units to plan spending accordingly. If a particular business unit or chapter exhausts its budget before the end of the fiscal year, the director of operations may have to deny certain training requests.
 
-### 4. Submit your request in C2
+### 4. Submit an event request in C2
 
 Once your IDP is approved, you can [create an event request in C2](https://cap.18f.gov/gsa18f/events/new). Make sure you fill out all required fields and attach your IDP before submitting-- you can do this by going in to **Review** your IDP and then clicking **Print** at the bottom of the page, which will open your IDP in Print Preview and allow you to export a PDF version of it.
 
+You must provide all of the required information in your C2 request, otherwise there will be process delays.
+
 **For a training/conference that involves more than 3 people**, it is **required** that one C2 request be made for everyone attending. If you are not sure if more than 3 people will be attending your event, please check in with your supervisor. If a group request is not made, there may be process delays, and it is possible that attendance will have to be limited to the first 3 requestors.
 
-The initial requestor can name who all will be attending in the "Instructions to Purchase" field and, after submitting, add the additional people as *observers* to the request. Each person will be able to upload any required documents (IDP, SF-182, etc.) accordingly.
+The initial requestor can name who all will be attending in the "Instructions to Purchase" field and, after submitting, add the additional people as *observers* to the request. Each additional person attending is responsible for uploading their own required documents (IDP, SF-182, etc.) accordingly.
+
+To facilitate review, when uploading documents, please also include your name and the type of document in the filename (i.e. `Your Name` SF-182).
 
 **What happens next?**
 
-[Pia Scott](mailto:pia.scott@gsa.gov) will review your request for red flags during her 18F office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 9 AM - 11 AM Eastern on Friday. You can review the 18F Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`
+[Pia Scott](mailto:pia.scott@gsa.gov) will review your request for red flags during her 18F office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 10:30 AM - 11:30 AM Eastern on Friday. You can review the 18F Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`. The office hours are subject to change each week, but these changes will be reflected on the calendar.
 
 ### 5. Resolve any red flags and finalize all approvals
 
@@ -196,9 +200,9 @@ Save your SF-182 request when finished. You will be notified automatically when 
 
 There are a few special rules for trainings of conferences that cost over $3,000:
 
-**If an individual training or conference costs over $3,000**, the 18F executive director (Dave Zvenyach) must be listed as a second line approver on the SF-182.
+**If registration for an individual training or conference costs over $3,000**, the 18F executive director (Dave Zvenyach) must be listed as a second line approver on the SF-182.
 
-**If an individual *or* group training or conference costs over $3,000**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that 18F can pay via credit card. Pia will also add [Ethan Heppner](mailto:ethan.heppner@gsa.gov) as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS, which is also required when the federal government makes a purchase over $3,000 from any vendor.
+**If total registration fees for an individual *or* group training or conference cost over $3,000**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that 18F can pay via credit card. Pia will also add [Ethan Heppner](mailto:ethan.heppner@gsa.gov) as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS number, which is also required when the federal government makes a purchase over $3,000 from any vendor.
 
 #### Are you attending a conference or training at a conference?
 
@@ -208,7 +212,7 @@ Conferences, training at conferences, and training involving travel require Sale
 
 For requests involving travel, you must complete and attach a PDF copy of your budget to your C2 request using the template provided [here](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0).
 
-Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](https://travel.gsa.gov). Please attach a PDF version of your approved C2 request (which can be done by opening it as a print preview and exporting to PDF) as you would attach a receipt in Concur, and feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](https://handbook.18f.gov/travel-guide-3-approval/#iv-submit-authorization-for-approval) your authorization so it gets reviewed and approved by the 18F travel team!
+Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](https://travel.gsa.gov). The operations team will add [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) as an observer to your C2 request once it is fully approved, so you **do not need** to get an email of approval from your supervisor *unless* you anticipate that you will exceed your attached budget by more than 20%, or you need to travel to or from a city that is different from your home of record. Feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](https://handbook.18f.gov/travel-guide-3-approval/#iv-submit-authorization-for-approval) your authorization so it gets reviewed and approved by the 18F travel team!
 
 If this is your first time on government travel, you have some preliminary work to do. To complete the necessary steps before travel, follow the steps to [get set up in Concur](https://handbook.18f.gov/first-time-travel-get-in-concur-post-olu/).
 You will also need to [apply for a travel card](https://handbook.18f.gov/first-time-travel-travel-card/). It is the required payment method for your government travel expenses, such as lodging, transportation, meals, etc.
