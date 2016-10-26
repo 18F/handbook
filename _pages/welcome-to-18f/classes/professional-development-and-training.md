@@ -130,7 +130,9 @@ That said, 18F will consider all requests for training, but it’s the responsib
 
 Once your IDP is approved, you can [create an event request in C2](https://cap.18f.gov/gsa18f/events/new). Make sure you fill out all required fields and attach your IDP before submitting-- you can do this by going in to **Review** your IDP and then clicking **Print** at the bottom of the page, which will open your IDP in Print Preview and allow you to export a PDF version of it.
 
-**For a group training/conference**, it is recommended that one C2 request be made for everyone attending. The initial requestor can name who all will be attending in the "Instructions to Purchase" field and, after submitting, add the additional people as *observers* to the request. Each person will be able to upload any required documents (IDP, SF-182, etc.) accordingly.
+**For a training/conference that involves more than 3 people**, it is **required** that one C2 request be made for everyone attending. If you are not sure if more than 3 people will be attending your event, please check in with your supervisor. If a group request is not made, there may be process delays, and it is possible that attendance will have to be limited to the first 3 requestors.
+
+The initial requestor can name who all will be attending in the "Instructions to Purchase" field and, after submitting, add the additional people as *observers* to the request. Each person will be able to upload any required documents (IDP, SF-182, etc.) accordingly.
 
 **What happens next?**
 
