@@ -218,10 +218,13 @@ International Salesforce Event Approval Requests require extensive review prior 
 
 And now, the fun part: It’s time for you to attend your conference or training! Once you get back, share what you’ve learned with your teammates. Consider leading a Learn Teach Learn session or a brown bag. You might also draft a blog post to share your learnings with a broader audience.
 
-
 ## Speaking at conferences
 
 If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please add that event to our [event spreadsheet](https://docs.google.com/spreadsheets/d/1Y0336rKQ4FiTFhoQynRjoVuJFzXEgaV0QcHqaNd-Eis/edit#gid=2065658991). You&rsquo;ll also need to follow [this guide](https://docs.google.com/document/d/1OjxymrHIU1VREv93HrG1sESzyrtx8B2kl_Ey4IL_4xc/edit#heading=h.t8mki1xtcuxz).
+
+## Mentorship
+
+We have been slowly working in support for mentorship at 18F, including running a pilot program for some initial pairs of folks who have been interested in helping get things started. If you would like to learn more and/or participate, please see the [Mentorship](/mentorship.md) page for more details!
 
 ## Self-directed study for engineers
 
