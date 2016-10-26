@@ -9,17 +9,17 @@ slack-channel: mentorship
 
 If you'd like to participate in mentorship, it's as simple as reaching out to folks in [#mentorship](https://gsa-tts.slack.com/messages/mentorship)!  Someone will be in touch to review the general information found below and identify what you'd like to focus on and whether you would like to mentor someone, be mentored, or both.
 
-Please note that regardless of how you'd like to participate in mentorship, it is subject to the availability of other folks also interested in participating and focusing on your area/skill of interest.
+Please note that regardless of how you'd like to participate in mentorship, it is subject to the availability of other folks also interested in participating and focused on your area/skill of interest.
 
-Lastly, the [#mentorship](https://gsa-tts.slack.com/messages/mentorship) is also a great place to go to chat with other folks who are currently participating in mentorship or have mentorship experience.  You can learn more about what's currently happening, ask questions, etc.
+Lastly, the [#mentorship](https://gsa-tts.slack.com/messages/mentorship) channel is also a great place to go to chat with other folks who are currently participating in mentorship or have mentorship experience.  You can learn more about what's currently happening, ask questions, etc.
 
 ## Administrative information
 
-We ask that folks commit to a minimum of **6 weeks** to start with once we're able to find a match for people.  The reason behind this it that allows for enough time to give the mentorship pair a chance to gel and develop a cadence and relationship with one another.  It's usually a little slow going in the beginning especially if you haven't collaborated with one another before; this is okay!  We want to make sure folks give things a chance and make a concerted effort, and have enough time to achieve their goals.
+We ask that folks commit to a minimum of **6 weeks** to start with once we're able to find a match.  The reason is that it allows for enough time to give the mentorship pair a chance to gel and develop a cadence and relationship with one another.  It's usually a little slow going in the beginning especially if you haven't collaborated with one another before; this is okay!  We want to make sure folks give things a chance and make a concerted effort, and have enough time to achieve their goals.
 
 However, we also don't want folks feeling like they're being forced to do something that isn't working for them or that they are stuck with someone that isn't a great fit.  Whether or not you choose to continue as a pair after the 6 week time period is over is entirely up to both you and your partner.
 
-Just prior to starting, we also recommend that folks considering pairing together or being matched up have an intro meeting with each other to review the following things:
+Prior to starting, we also recommend that folks considering pairing together or being matched up have an intro meeting with each other to review the following things:
 
 * Details pertaining to the interests that you share
 * Scheduling and meeting length preferences
