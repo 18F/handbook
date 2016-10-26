@@ -206,7 +206,7 @@ Conferences, training at conferences, and training involving travel require Sale
 
 For requests involving travel, you must complete and attach a PDF copy of your budget to your C2 request using the template provided [here](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0).
 
-Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](travel.gsa.gov). Please attach a PDF version of your approved C2 request (which can be done by opening it as a print preview and exporting to PDF) as you would attach a receipt in Concur, and feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](https://handbook.18f.gov/travel-guide-3-approval/#iv-submit-authorization-for-approval) your authorization so it gets reviewed and approved by the 18F travel team!
+Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](https://travel.gsa.gov). Please attach a PDF version of your approved C2 request (which can be done by opening it as a print preview and exporting to PDF) as you would attach a receipt in Concur, and feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](https://handbook.18f.gov/travel-guide-3-approval/#iv-submit-authorization-for-approval) your authorization so it gets reviewed and approved by the 18F travel team!
 
 If this is your first time on government travel, you have some preliminary work to do. To complete the necessary steps before travel, follow the steps to [get set up in Concur](https://handbook.18f.gov/first-time-travel-get-in-concur-post-olu/).
 You will also need to [apply for a travel card](https://handbook.18f.gov/first-time-travel-travel-card/). It is the required payment method for your government travel expenses, such as lodging, transportation, meals, etc.
@@ -219,7 +219,7 @@ Similar to requesting any sort of training involving travel, [Pia](mailto:pia.sc
 
 International Salesforce Event Approval Requests require extensive review prior to approval, and must be reviewed and approved by your first and second-level supervisors, the HSSO, OGC, OGE, OAS and the GSA Administrator. [Pia](mailto:pia.scott@gsa.gov) will assist you in coordinating this approval process. You must include justification for international travel in your training request. For example, can this training be obtained in the United States? If so, why do you need to travel outside of the country? This question will be asked at every level of review. Be sure to provide a comprehensive justification (such as professional development, collaboration, information gathering, recruitment, etc.).
 
-Once the international travel has been recommended for approval by Pia and approved by Josh and Jackie, the procedure is the same as [above](#does-the-training-or-conference-require-travel?)
+Once the international travel has been recommended for approval by Pia and approved by Josh and Jackie, the procedure is the same as [above](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-travel?)
 
 #### Does the event cover registration, lodging, or food free of charge?
 
