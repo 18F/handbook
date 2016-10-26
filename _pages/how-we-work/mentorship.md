@@ -46,11 +46,21 @@ If there is not support in the budget but you are still cleared to spend time wi
 
 If you are new to mentorship you may find some if this information useful in helping you and your partner get started.
 
-### Guidelines for mentees
+### Goal setting
+
+Here are some things to consider when setting overall goals for your mentoring experience:
+
+* Creating space for a strong relationship to form and hopefully extend beyond the pilot and possibly even 18F
+* Alignment with project work for any actual task-oriented activities
+* Opportunities to connect with someone outside of your area of discipline/expertise
+* Not over-committing or under-committing
+* Perhaps stating/sharing goals publicly to help commit to them
+
+### Tips for mentees
 
 * Help your mentor help you! If there is something specific that you'd like to explore or an area you're struggling with, let them know so they know to tailor the time around these things.
 
-### Guidelines for mentors
+### Tips for mentors
 
 * Try and let the mentee set the pace and direction, but pick up on cues where they might be getting stuck or struggling with something.
 * If it feels like you've reached a good point with one thread of mentoring, feel free to offer suggestions of new areas to explore together.
