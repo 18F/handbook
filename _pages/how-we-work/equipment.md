@@ -111,11 +111,11 @@ If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employ
 1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
 2. Call 911 or a local police station when you suspect theft has occurred.
 3. Get and keep a copy of the police report in case you have to provide it to the Federal Protective Service (FPS) or your regional Information Systems Security Officer (ISSO). Provide as much information as possible.
-4. Call the IT Service Desk at 1-866-450-5250. An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop. Alternatively, you can report a lost or stolen item via [GSA Service Desk](https://gsa.service-now.com/).
+4. Call the IT Service Desk at 1-866-450-5250. An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop. Alternatively, you can report a lost or stolen item via [GSA Service Desk](https://gsa.service-now.com/). 
 5. Call your FPS using contact information provided in the link.
 6. Contact your regional ISSO using contact information provided in the link.
 
-18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS.
+18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [accesscard@gsa.gov](mailto:accesscard@gsa.gov)
 
 ## Requirements for passwords
 
