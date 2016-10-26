@@ -15,9 +15,18 @@ Lastly, the [#mentorship](https://gsa-tts.slack.com/messages/mentorship) is also
 
 ## Administrative information
 
-We ask that folks commit to a minimum of **6 weeks** to start with once we're able to find a match for people.  The reason behind this it that allows for enough time to give the mentorship pair a chance to gel and develop a cadence and relationship with one another.  It's usually a little slow going in the beginning especially if you haven't collaborated with one another before; this is okay!  We want to make sure folks give things a chance and make a concerted effort.
+We ask that folks commit to a minimum of **6 weeks** to start with once we're able to find a match for people.  The reason behind this it that allows for enough time to give the mentorship pair a chance to gel and develop a cadence and relationship with one another.  It's usually a little slow going in the beginning especially if you haven't collaborated with one another before; this is okay!  We want to make sure folks give things a chance and make a concerted effort, and have enough time to achieve their goals.
 
 However, we also don't want folks feeling like they're being forced to do something that isn't working for them or that they are stuck with someone that isn't a great fit.  Whether or not you choose to continue as a pair after the 6 week time period is over is entirely up to both you and your partner.
+
+Just prior to starting, we also recommend that folks considering pairing together or being matched up have an intro meeting with each other to review the following things:
+
+* Details pertaining to the interests that you share
+* Scheduling and meeting length preferences
+* What drew you to the person, either to mentor them or to be a mentee of them
+* Establishing a closer bond with someone you normally wouldn’t have the opportunity to do so with
+
+If both folks feel comfortable moving forward, great!  If not, absolutely no hard feelings and hopefully we can find another match.
 
 ### Areas of focus
 
@@ -37,6 +46,15 @@ If there is not support in the budget but you are still cleared to spend time wi
 
 If you are new to mentorship you may find some if this information useful in helping you and your partner get started.
 
-## Guidelines for mentees
+### Guidelines for mentees
 
-## Guidelines for mentors
+* Help your mentor help you! If there is something specific that you'd like to explore or an area you're struggling with, let them know so they know to tailor the time around these things.
+
+### Guidelines for mentors
+
+* Try and let the mentee set the pace and direction, but pick up on cues where they might be getting stuck or struggling with something.
+* If it feels like you've reached a good point with one thread of mentoring, feel free to offer suggestions of new areas to explore together.
+
+### Additional resources
+
+[OPM (the Office of Personnel Management)](https://www.opm.gov/) has some wonderful resources on professional development, including [mentorship](https://www.opm.gov/policy-data-oversight/training-and-development/career-development/#url=Mentoring).  They have a more complete [mentorship guide](https://www.opm.gov/policy-data-oversight/training-and-development/career-development/bestpractices-mentoring.pdf) available, as well.
