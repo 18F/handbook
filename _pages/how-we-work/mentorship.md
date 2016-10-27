@@ -43,7 +43,7 @@ If there is not support in the budget but you are still cleared to spend time wi
 
 ## Helpful tips
 
-If you are new to mentorship you may find some if this information useful in helping you and your partner get started.
+If you are new to mentorship you may find some of this information useful in helping you and your partner get started.
 
 ### Goal setting
 
