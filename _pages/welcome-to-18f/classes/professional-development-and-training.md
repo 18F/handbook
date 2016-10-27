@@ -224,7 +224,7 @@ If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re 
 
 ## Mentorship
 
-We have been slowly working on support for mentorship at 18F, including running a pilot program for some initial pairs of folks who have been interested in helping get things started. If you would like to learn more and/or participate, please see the [Mentorship](/how-we-work/mentorship.md) page for more details!
+We have been slowly working on support for mentorship at 18F, including running a pilot program for some initial pairs of folks who have been interested in helping get things started. If you would like to learn more and/or participate, please see the [Mentorship](/how-we-work/mentorship) page for more details!
 
 ## Self-directed study for engineers
 

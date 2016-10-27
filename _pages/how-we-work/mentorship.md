@@ -9,7 +9,7 @@ slack-channel: mentorship
 
 If you'd like to participate in mentorship, it's as simple as reaching out to folks in [#mentorship](https://gsa-tts.slack.com/messages/mentorship)!  Someone will be in touch to review the general information found below and identify what you'd like to focus on and whether you would like to mentor someone, be mentored, or both.
 
-Please note that regardless of how you'd like to participate in mentorship, it is subject to the availability of other folks also interested in participating and focused on your area/skill of interest.
+Please note that regardless of how you'd like to participate in mentorship, it is subject to the availability of other folks also interested in participating and focused on your area/skill of interest.  As a part of this process, we would love to help you establish a closer bond with someone you normally wouldn't have an opportunity to do so with otherwise, but we'll also certainly take into consideration any strong preferences you may have for or against other individuals.  Above all, we want to make sure we have a good match between folks and that you both feel energized, supported, and respected by one another.
 
 Lastly, the [#mentorship](https://gsa-tts.slack.com/messages/mentorship) channel is also a great place to go to chat with other folks who are currently participating in mentorship or have mentorship experience.  You can learn more about what's currently happening, ask questions, etc.
 
@@ -24,7 +24,6 @@ Prior to starting, we also recommend that folks considering pairing together or 
 * Details pertaining to the interests that you share
 * Scheduling and meeting length preferences
 * What drew you to the person, either to mentor them or to be a mentee of them
-* Establishing a closer bond with someone you normally wouldn’t have the opportunity to do so with
 
 If both folks feel comfortable moving forward, great!  If not, absolutely no hard feelings and hopefully we can find another match.
 
