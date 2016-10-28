@@ -148,12 +148,12 @@ Before your request can be approved, it needs to be free of red flags. During he
 
 Some of the most common red flags include:
 
-* [Any training or conference requiring payment](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-payment?)
-* [Training or conference purchase is over $3,000](https://handbook.18f.gov/professional-development-and-training/#Does-the-training-or-conference-cost-over-$3,000?)
-* [Conferences or trainings at conferences](https://handbook.18f.gov/professional-development-and-training/#Are-you-attending-a-conference-or-training-at-a-conference?)
-* [Training or conferences involving travel](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-travel?)
-* [Any international travel](https://handbook.18f.gov/professional-development-and-training/#Does-your-request-require-international-travel?)
-* [Vendor-sponsored event participation (vendor offers to cover any expense)](https://handbook.18f.gov/professional-development-and-training/#Does-the-event-cover-registration,-lodging,-or-food-free-of-charge?)
+* [Any training or conference requiring payment](/professional-development-and-training/#does-the-training-or-conference-require-payment)
+* [Training or conference purchase is over $3,000](/professional-development-and-training/#Does-the-training-or-conference-cost-over-$3,000)
+* [Conferences or trainings at conferences](/professional-development-and-training/#Are-you-attending-a-conference-or-training-at-a-conference)
+* [Training or conferences involving travel](/professional-development-and-training/#does-the-training-or-conference-require-travel)
+* [Any international travel](/professional-development-and-training/#Does-your-request-require-international-travel)
+* [Vendor-sponsored event participation (vendor offers to cover any expense)](/professional-development-and-training/#Does-the-event-cover-registration,-lodging,-or-food-free-of-charge)
 
 It’s fairly common for a request to have multiple red flags. Pia will recommend your request for approval and purchase during her next office hours once she verifies that all red flags have been addressed.
 
@@ -166,8 +166,8 @@ Once you have remedied all red flags and Pia has recommended approval, the 18F D
 Once Josh and Jackie have approved, your request will move on to [18F Purchasers](mailto:18f-purchasers@gsa.gov). Then, one (or two) of three things will happen:
 
 * If your request didn't require anything to be purchased and there were no travel expenses, it will be marked as "purchased" and resolved with no further action required on your part.
-* If your request requires that something be purchased, [read on here](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-payment?) for more.
-* If your request requires travel, [read on here](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-travel?) for more.
+* If your request requires that something be purchased, [read on here](/professional-development-and-training/#does-the-training-or-conference-require-payment) for more.
+* If your request requires travel, [read on here](/professional-development-and-training/#does-the-training-or-conference-require-travel) for more.
 
 #### Does the training or conference require payment?
 
@@ -206,16 +206,16 @@ There are a few special rules for trainings of conferences that cost over $3,000
 
 #### Are you attending a conference or training at a conference?
 
-Conferences, training at conferences, and training involving travel require Salesforce approval. [Pia](mailto:pia.scott@gsa.gov) will create this Salesforce Event Approval request, so no action is required on your part. You will receive two notifications via comment in C2: submission and approval. Further instructions will be provided, based upon the training request type.
+Conferences and training at conferences require Salesforce approval. [Pia](mailto:pia.scott@gsa.gov) will create this Salesforce Event Approval request, so no action is required on your part. You will receive two notifications via comment in C2: submission and approval. Further instructions will be provided, based upon the training request type.
 
 #### Does the training or conference require travel?
 
 For requests involving travel, you must complete and attach a PDF copy of your budget to your C2 request using the template provided [here](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0).
 
-Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](https://travel.gsa.gov). The operations team will add [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) as an observer to your C2 request once it is fully approved, so you **do not need** to get an email of approval from your supervisor *unless* you anticipate that you will exceed your attached budget by more than 20%, or you need to travel to or from a city that is different from your home of record. Feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](https://handbook.18f.gov/travel-guide-3-approval/#iv-submit-authorization-for-approval) your authorization so it gets reviewed and approved by the 18F travel team!
+Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](https://travel.gsa.gov). The operations team will add [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) as an observer to your C2 request once it is fully approved, so you **do not need** to get an email of approval from your supervisor *unless* you anticipate that you will exceed your attached budget by more than 20%, or you need to travel to or from a city that is different from your home of record. Feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](/travel-guide-3-approval/#iv-submit-authorization-for-approval) your authorization so it gets reviewed and approved by the 18F travel team!
 
-If this is your first time on government travel, you have some preliminary work to do. To complete the necessary steps before travel, follow the steps to [get set up in Concur](https://handbook.18f.gov/first-time-travel-get-in-concur-post-olu/).
-You will also need to [apply for a travel card](https://handbook.18f.gov/first-time-travel-travel-card/). It is the required payment method for your government travel expenses, such as lodging, transportation, meals, etc.
+If this is your first time on government travel, you have some preliminary work to do. To complete the necessary steps before travel, follow the steps to [get set up in Concur](/first-time-travel-get-in-concur-post-olu/).
+You will also need to [apply for a travel card](/first-time-travel-travel-card/). It is the required payment method for your government travel expenses, such as lodging, transportation, etc.
 
 #### Does your request require international travel?
 
@@ -225,7 +225,7 @@ Similar to requesting any sort of training involving travel, [Pia](mailto:pia.sc
 
 International Salesforce Event Approval Requests require extensive review prior to approval, and must be reviewed and approved by your first and second-level supervisors, the HSSO, OGC, OGE, OAS and the GSA Administrator. [Pia](mailto:pia.scott@gsa.gov) will assist you in coordinating this approval process. You must include justification for international travel in your training request. For example, can this training be obtained in the United States? If so, why do you need to travel outside of the country? This question will be asked at every level of review. Be sure to provide a comprehensive justification (such as professional development, collaboration, information gathering, recruitment, etc.).
 
-Once the international travel has been recommended for approval by Pia and approved by Josh and Jackie, the procedure is the same as [above](https://handbook.18f.gov/professional-development-and-training/#does-the-training-or-conference-require-travel?)
+Once the international travel has been recommended for approval by Pia and approved by Josh and Jackie, the procedure is the same as [above](/professional-development-and-training/#does-the-training-or-conference-require-travel)
 
 #### Does the event cover registration, lodging, or food free of charge?
 
