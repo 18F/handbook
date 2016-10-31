@@ -134,7 +134,7 @@ If you are set up right in C2, your event request form should look something lik
 
 You must provide all of the required information in your C2 request, otherwise there will be process delays.
 
-**For a training/conference that involves more than 3 people**, it is **required** that one C2 request be made for everyone attending. If you are not sure if more than 3 people will be attending your event, please check in with your supervisor. If a group request is not made, there may be process delays, and it is possible that attendance will have to be limited to the first 3 requestors.
+**For a training/conference that involves 3 or more people**, it is **required** that one C2 request be made for everyone attending. If you are not sure if 3 or more people will be attending your event, please check in with your supervisor. If a group request is not made, there may be process delays, and it is possible that attendance will have to be limited to the first 2 requestors.
 
 The initial requestor can name who all will be attending in the "Instructions to Purchase" field and, after submitting, add the additional people as *observers* to the request. Each additional person attending is responsible for uploading their own required documents (IDP, SF-182, etc.) accordingly.
 
