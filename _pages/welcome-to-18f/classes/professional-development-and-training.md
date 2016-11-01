@@ -151,11 +151,11 @@ Before your request can be approved, it needs to be free of red flags. During he
 Some of the most common red flags include:
 
 * [Any training or conference requiring payment](/professional-development-and-training/#does-the-training-or-conference-require-payment)
-* [Training or conference purchase is over $3,000](/professional-development-and-training/#Does-the-training-or-conference-cost-over-$3,000)
+* [Training or conference purchase is over $3,000](/professional-development-and-training/#Does-the-training-or-conference-cost-over-3000)
 * [Conferences or trainings at conferences](/professional-development-and-training/#Are-you-attending-a-conference-or-training-at-a-conference)
 * [Training or conferences involving travel](/professional-development-and-training/#does-the-training-or-conference-require-travel)
 * [Any international travel](/professional-development-and-training/#Does-your-request-require-international-travel)
-* [Vendor-sponsored event participation (vendor offers to cover any expense)](/professional-development-and-training/#Does-the-event-cover-registration,-lodging,-or-food-free-of-charge)
+* [Vendor-sponsored event participation (vendor offers to cover any expense)](/professional-development-and-training/#Does-the-event-cover-registration-lodging-or-food-free-of-charge)
 
 It’s fairly common for a request to have multiple red flags. Pia will recommend your request for approval and purchase during her next office hours once she verifies that all red flags have been addressed.
 
