@@ -142,7 +142,9 @@ To facilitate review, when uploading documents, please also include your name an
 
 **What happens next?**
 
-[Pia Scott](mailto:pia.scott@gsa.gov) will review your request for red flags during her 18F office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 10:30 AM - 11:30 AM Eastern on Friday. You can review the 18F Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`. The office hours are subject to change each week, but these changes will be reflected on the calendar.
+[Pia Scott](mailto:pia.scott@gsa.gov) will review your request for red flags during her 18F office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 10:30 AM - 11:30 AM Eastern on Friday. You can review the 18F Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`
+
+The office hours are subject to change each week, but these changes will be reflected on the calendar.
 
 ### 5. Resolve any red flags and finalize all approvals
 
