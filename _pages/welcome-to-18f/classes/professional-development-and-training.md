@@ -96,9 +96,12 @@ If you’re interested in taking a training related to your role at 18F, you’l
 
 The review and approval processes can take a bit of time, so it’s best if you make your training request as early as possible. Here are some basic guidelines about how far in advance to request training:
 
-* **Two weeks in advance:** If you’re interested in a training that costs less than $3,000, is not at a conference, doesn’t require travel, doesn't involve more than one individual from 18F, and doesn’t involve an outside source of funding. *Requests like these [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) less than one week in advance will not be approved.*
-* **Three to four weeks in advance:** For trainings that are less than $3,000 altogether and are either at a conference, require travel, or involve more than one person from 18F attending. *Requests like these [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) less the two weeks in advanced will not be approved.*
-* **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,000 altogether, anything involving an outside source of funding, or international travel. *Requests like these [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) less than three weeks in advance will not be approved.*
+* **Two weeks in advance:** If you’re interested in a training that costs less than $3,000, is not at a conference, doesn’t require travel, doesn't involve more than one individual from 18F, and doesn’t involve an outside source of funding.
+*Requests like these [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) less than one week in advance will not be approved.*
+* **Three to four weeks in advance:** For trainings that are less than $3,000 altogether and are either at a conference, require travel, or involve more than one person from 18F attending.
+*Requests like these [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) less than two weeks in advanced will not be approved.*
+* **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,000 altogether, anything involving an outside source of funding, or international travel.
+*Requests like these [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) less than three weeks in advance will not be approved.*
 
 
 ### 2. Create your Individual Development Plan (IDP)
