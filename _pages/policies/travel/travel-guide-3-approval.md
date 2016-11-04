@@ -124,7 +124,7 @@ You're getting really close! You can almost feel the TSA X-ray scan! One last st
 
 Your authorization has been submitted. You don’t even have to click the button again (but you can if you want).
 
-If there was a problem, Ethan Heppner or Victor Valdiviezo will reach out and make sure you can get everything right before you leave. Otherwise, assume your request will be processed, and if everything was right, you will be approved within one business day.
+If there was a problem, the 18F travel team will reach out and make sure you can get everything right before you leave. Otherwise, assume your request will be processed, and if everything was right, you will be approved between 2:30 and 4:00 PM Eastern time. **Please ensure that you have submitted your authorization correctly by 2:30 PM Eastern, else your travel will not be approved until the next business day.**
 
 Once you have been approved **look for an e-mail from Concur confirming the purchase of your tickets and/or hotel.**
 
