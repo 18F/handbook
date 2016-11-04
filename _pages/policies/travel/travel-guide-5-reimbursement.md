@@ -203,5 +203,6 @@ Congrats!!! Your voucher has been submitted. You don’t even have to click the 
 
 ## YOU'RE DONE!!!
 
+Your voucher will be reviewed by a member of the 18F travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
