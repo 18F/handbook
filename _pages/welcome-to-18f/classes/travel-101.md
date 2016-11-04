@@ -8,10 +8,10 @@ This post contains an overview of what you need to know about how to book travel
 
 The 18F Travel Team has four members:
 
-Jordan Metoyer (Engineering)
-Emmanuel (Manny) Pressley (Design)
-Ethan Heppner (Operations)
-Victor Valdiviezo (Operations)
+* Jordan Metoyer (Engineering)
+* Emmanuel (Manny) Pressley (Design)
+* Ethan Heppner (Operations)
+* Victor Valdiviezo (Operations)
 
 Jordan and Manny manage travel approval for their respective chapters and are 18F's primary points of contact for travel-related questions during 18F Travel Office Hours.
 
