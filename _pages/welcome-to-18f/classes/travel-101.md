@@ -9,7 +9,7 @@ This post contains an overview of what you need to know about how to book travel
 The 18F Travel Team has four members:
 
 * Jordan Metoyer (Engineering)
-* Emmanuel (Manny) Pressley (Design)
+* Emmanuel "Manny" Pressley (Design)
 * Ethan Heppner (Operations)
 * Victor Valdiviezo (Operations)
 
