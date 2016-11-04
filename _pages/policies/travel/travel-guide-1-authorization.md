@@ -72,6 +72,8 @@ Once you have all necessary approvals, and only then, please forward your approv
 
 [No - I need to book an upcoming trip that will start later than 3 days. Go to normal booking.](/travel-guide-2-choose-your-itinerary)
 
+If you are traveling on the next business day, please ensure that your email of approval is in order and you have successfully submitted your travel for approval in Concur by 2:30 PM Eastern. **Authorizations received after this time, or over a weekend/holiday will not be approved.**
+
 #### AdTrav
 Call AdTrav at 877-472-6716 to make flight arrangements.
 
