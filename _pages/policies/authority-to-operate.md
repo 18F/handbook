@@ -32,7 +32,7 @@ With the restructuring of OCSIT/18F into the TTS, in order to ensure the timelin
 The following delegations and designations are made in the TTS:
 
 
-* All subsequent delegations or designations are valid for the duration of the employment of the individuals who digitally co-sing this policy and commit said signature into the Handbook. 
+* All subsequent delegations or designations are valid for the duration of the employment of the individuals who digitally co-sign this policy and commit said signature into the Handbook. 
 
 * Delegations and designations may be revoked by either the TTS Commissioner or the Administrator of the General Services via digital signature.
 
