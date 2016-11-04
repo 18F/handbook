@@ -187,7 +187,7 @@ Then, you can go ahead and [Add new training request to existing SF-182](https:/
 * Per diem (Indirect Cost)
 * Supervisor
 * Approver 1 (your supervisor's name again)
-* Approver 2 is Aaron Snow, but only for trainings costing over $3,000.
+* Approver 2 is Dave Zvenyach, but only for trainings costing over $3,000.
 * Purchase card holder is Ethan Heppner
 
 Save your SF-182 request when finished. You will be notified automatically when it is approved.
