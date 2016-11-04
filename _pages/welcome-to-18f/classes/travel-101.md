@@ -19,7 +19,7 @@ Ethan Heppner and Victor Valdiviezo lead the 18F travel team. They serve as appr
 
 ### Communication
 
-If you have travel questions, you can ask them during 18F travel team [office hours](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_iqsha8bbdcjtqq3jufp15vl554%40group.calendar.google.com) Monday through Friday from 10:30 to 11:30 AM Eastern and again from 3:30 to 4:30 PM Pacific. Someone will be monitoring the channel and they will address your question as fast as they can.
+If you have travel questions, you can ask them during 18F travel team [office hours](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_iqsha8bbdcjtqq3jufp15vl554%40group.calendar.google.com) Monday through Friday from **10:30 to 11:30 AM Eastern** and again from **3:30 to 4:30 PM Pacific**. Someone will be monitoring the channel and they will address your question as fast as they can.
 
 For more involved questions, you can also [sign up for a 1-on-1 appointment with a member of the 18F travel team](https://calendar.google.com/calendar/selfsched?sstoken=UUZmSUplekFxYzFofGRlZmF1bHR8ZGE3Zjg4NTljODU3NTEyNzgwYmU5YmRlYTdlNTFjNTY). The 1-on-1s will be offered every day between 11:30 AM and 12:30 PM Eastern. If you're new and have read through the [Handbook Travel Guide](/travel-guide-start-here/) and aren't sure where to start, feel free to book some 1-on-1 time and get yourself oriented. If there are no 1-on-1s scheduled, morning office hours will continue through this time.
 
