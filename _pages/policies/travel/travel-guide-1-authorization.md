@@ -29,7 +29,7 @@ In the case of billable travel, you will need an email of approval from the clie
 
 In the case of non-billable travel, you will need an email of approval from your supervisor (or from the supervisor of whichever division of 18F will be paying for your travel).
 
-18F supervisors themselves no longer have blanket approval and must get it from Aaron Snow or Joshua Bailes.
+18F supervisors themselves no longer have blanket approval and must get it from Dave Zvenyach or Joshua Bailes.
 
 1. Send an email to your client with the following information:
 
