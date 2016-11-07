@@ -21,7 +21,7 @@ Starting this process assumes that you are both in the Concur system and have a 
 
 * [Add your travel card and travel preferences to Concur](/first-time-travel-complete-concur-profile)
 
-## Confirm your travel dates and an email of approval
+## Confirm your travel dates and get an email of approval
 
 Before making *any* reservations, you'll want to make sure that your trip has been pre-approved by someone who has the ability to obligate funds on behalf of the government. This person could be someone inside 18F (either the director of a chapter or business unit) if the travel is considered non-billable, or they could be someone outside 18F (who is designated on an inter-agency agreement or memorandum of understanding with 18F) if the travel is considered billable. There is a slightly different process for requesting approval depending on whether the travel is [billable](/travel-guide-1-authorization/#billable-travel-approval) or [nonbillable](/travel-guide-1-authorization/#non-billable-travel-approval).
 
