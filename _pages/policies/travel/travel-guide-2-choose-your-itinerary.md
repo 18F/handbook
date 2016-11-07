@@ -1,5 +1,5 @@
 ---
-title: Travel Guide Choose your Itinerary
+title: Step 2 - Choose your Itinerary
 ---
 
 [TOC](/travel-guide-table-of-contents)
