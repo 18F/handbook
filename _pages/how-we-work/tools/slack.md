@@ -164,7 +164,7 @@ Groups are a great way to alert people who might not be in a channel about somet
 
 :point_up: = I would also say this (can mean "this is correct" if you are the decider)
 
-:raccoon: ===> Slack channel = Please consider moving this conversation to a different channel. (It's a raccoon because of [this image](http://i.imgur.com/cOnFedN.png) referenced in [this article](http://www.slate.com/articles/technology/users/2015/04/slack_and_the_office_chat_several_people_are_typing_who_s_working.html).
+:raccoon: ===> Slack channel = Please consider moving this conversation to a different channel. (It's a raccoon because of [this image](http://i.imgur.com/cOnFedN.png) referenced in [this article](http://www.slate.com/articles/technology/users/2015/04/slack_and_the_office_chat_several_people_are_typing_who_s_working.html).)
 
 :raised_hand: = I volunteer
 
