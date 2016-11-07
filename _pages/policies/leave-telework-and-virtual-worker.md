@@ -6,7 +6,7 @@ In this policy, your _supervisor_ is your administrative or official supervisor 
 
 ## Leave
 
-Employees must report to work or have leave approved every scheduled work day. Leave requests should be submitted to your supervisor in [ALOHA](https://aloha.gsa.gov/) at least three business days in advance.
+Employees must report to work or have leave approved every scheduled work day. Leave requests should be submitted to your supervisor in [ALOHA](https://aloha.gsa.gov/) at least three business days in advance. Requests should be submitted for any duration of leave, as little as one hour.
 
 Should an unforeseen emergency or illness arise requiring the use of leave not previously approved, contact your supervisor no later than two hours after the start of your typical work day to request permission for the absence. Unless other arrangements were made, requests for annual or sick leave must be made on each day of absence. Failure to properly request leave in accordance with this procedure may result in the denial of leave and a charge of absence without leave (AWOL), and may be the basis for disciplinary action. Absence without leave is an absence from duty that is not authorized or approved.
 
