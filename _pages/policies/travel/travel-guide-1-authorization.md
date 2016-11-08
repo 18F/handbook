@@ -89,7 +89,17 @@ Both non-billable and billable travel emails of approval have the same requireme
 This email confirming approval must be sent to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) before 2:30 PM Eastern to receive review that business day. It is recommended that this email be sent at least 2-3 business days in advance of any travel in case there are any questions, concerns, or technical difficulties that cause delays.
 
 #### Amending approval for billable travel
-Any changes to the itinerary approved by the client that require a change in dates for either business or personal reasons, additional days of per diem or lodging, exceeding the government maximum hotel rate, or otherwise exceeding the original approved estimate by more than 20% must be re-approved by the client. Individual travelers with such a change to their itinerary may reach out directly to the client on the same thread as the email sent to 18ftravelauths@gsa.gov to to request approval, or their project manager may make the request, whatever works better for the team. Client approval of the changes is due at 2:30 PM Eastern to allow the travel team to approve changes in Concur that same business day.
+Any changes to the itinerary approved by the client that require:
+
+* A change in dates for either business or personal reasons
+* Additional days of per diem or lodging that the client will have to pay for
+* Exceeding the government maximum hotel rate
+* A flight that exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter).
+* Otherwise exceeding the original approved estimate by more than 20% 
+
+MUST be re-approved by the client. 
+
+Individual travelers with such a change to their itinerary may reach out directly to the client on the same thread as the email sent to 18ftravelauths@gsa.gov to to request approval, or their project manager may make the request, whatever works better for the team. Client approval of the changes is due at 2:30 PM Eastern to allow the travel team to approve changes in Concur that same business day.
 
 #### Template emails of approval
 
