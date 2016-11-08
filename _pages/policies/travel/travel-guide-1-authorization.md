@@ -68,7 +68,7 @@ Any other amendment with a minimal impact on the budget (i.e. change of dates, a
 
 ### Who is responsible, and how to I make my request?
 
-Your client is responsible for providing approval for your billable travel. Your project manager or is responsible for communicating the travel request to the client and securing their approval. Once this is done, your project manager must also communicate the approval to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) and cc the members of the team who are traveling.
+Your client is responsible for providing approval for your billable travel. Your project manager (or someone they delegate) is responsible for communicating the travel request to the client and securing their approval. Once this is done, the individual who secured the client's email of approval must forward it to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) and cc the members of the team who are traveling.
 
 ### Which client?
 
@@ -76,7 +76,7 @@ The client approving travel should be one of the client signatories of the IAA o
 
 ### Communicating billable travel approval to the 18F travel team
 
-Project managers are responsible for requesting written approval of travel plans to the client and once approval is secured, sending it via email to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov). Their email needs to include the following:
+Project managers (or their delegates) are responsible for requesting written approval of travel plans to the client and once approval is secured, sending it via email to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov). Their email needs to include the following:
 
 * **In the subject line:** [BILLABLE] - [Tock Project Name] - #[Tock Project ID] -- [Official Travel Start Date] - [Official Travel End Date]
 * **In the cc line:** All individuals approved for travel should be cc'd when the email is forwarded to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov).
@@ -99,7 +99,7 @@ Any changes to the itinerary approved by the client that require:
 
 MUST be re-approved by the client. 
 
-Individual travelers with such a change to their itinerary may reach out directly to the client on the same thread as the email sent to 18ftravelauths@gsa.gov to to request approval, or their project manager may make the request, whatever works better for the team. Client approval of the changes is due at 2:30 PM Eastern to allow the travel team to approve changes in Concur that same business day.
+Individual travelers or project managers with such a change to their itinerary may reach out directly to the client on the same thread as the email sent to 18ftravelauths@gsa.gov to to request approval. Client approval of the changes is due at 2:30 PM Eastern to allow the travel team to approve changes in Concur that same business day.
 
 #### Template emails of approval
 
