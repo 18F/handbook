@@ -60,7 +60,7 @@ The Out of Office options in Tock reflect categories of leave used in ALOHA. Thi
 
 `Compensatory Time Used` Tock your time here when you are using your Comp Time you’ve been officially granted through the comp time process. Make sure you’ve completed an ALOHA Request.
 
-`Court Leave` Tock your time here when you are using your Court Leave for things like Jury Duty. Make sure to notify your timekeeper.
+`Court Leave (Jury Duty)` Tock your time here when you are using your Court Leave for things like Jury Duty. Make sure to notify your timekeeper.
 
 `Award Leave` Tock your time here when you are using your Award Leave granted to you as an award by GSA. Make sure you’ve completed an ALOHA Request.
 
