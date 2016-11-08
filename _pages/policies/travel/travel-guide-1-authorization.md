@@ -93,8 +93,8 @@ Any changes to the itinerary approved by the client that require:
 
 * A change in dates for either business or personal reasons
 * Additional days of per diem or lodging that the client will have to pay for
-* Exceeding the government maximum hotel rate
-* A flight that exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter).
+* Exceeding the [government maximum hotel rate](http://www.gsa.gov/portal/category/100120)
+* A flight that exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter)
 * Otherwise exceeding the original approved estimate by more than 20% 
 
 MUST be re-approved by the client. 
