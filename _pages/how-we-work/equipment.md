@@ -62,7 +62,7 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 
 Different 18F team members have different solutions for business cards. At this time, you must purchase your own business cards if you want 18F branding.
 
-You can request [GSA business cards](https://cap.18f.gov/gsa18f/procurements/new), which are free and don't reflect 18F's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
+You can request [GSA business cards](https://cap.18f.gov/gsa18f/procurements/new), which are free and don't reflect 18F's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card. If you're using C2 for the first time, you have to request permission to post a request in #c24ops even though you can log in with cloud.gov (you will not see a create request link until approved).
 
 ## Requests
 
