@@ -47,7 +47,7 @@ You will now see final reservation. Review all of the details and hit **“Confi
 1. For **Type Code**, select "SINGLE TRIP".
 1. Click **Save**.
 
-[Proceed to Submit Authorization for Approval](#iv-submit-authorization-for-approval)
+[Proceed to Submit Authorization for Approval](/travel-guide-3-approval/#submit-authorization-for-approval)
 
 #### Having Trouble
 **What is an authorization?** Steps 1-3 cover the process of getting an authorization, which is simply the formal approval from your supervisor for travel, including a review and booking of major expenses such as flights and hotels.

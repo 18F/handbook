@@ -10,7 +10,7 @@ You will want to complete your Concur profile to pay for hotels listed in Concur
 
 **Please take time to review this step if you haven’t traveled in a while.**
 
-It will make [booking hotels in Concur](/travel-guide-2-choose-your-itinerary#book-hotel-in-concur) easier, and allow you to personally redeem miles and/or points earned while on government travel.
+It will make [booking hotels in Concur](/how-to-book-a-hotel-in-concur) easier, and allow you to personally redeem miles and/or points earned while on government travel.
 
 1. Log into concur [travel.gsa.gov](http://travel.gsa.gov/).
 2. In the *I want to...* menu select **Edit my profile**

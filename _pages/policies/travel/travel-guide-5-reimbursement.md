@@ -178,13 +178,13 @@ It's coming!
 It's  coming!
 
 ### III. Submit Voucher for Approval
-Routing a voucher is now exactly the same as submitting an authorization as seen in when we [submitted our authorization for approval](/travel-guide-3-approval/#iv-submit-authorization-for-approval).
+Routing a voucher is now exactly the same as submitting an authorization as seen in when we [submitted our authorization for approval](/travel-guide-3-approval/#submit-authorization-for-approval).
 
 1. Navigate to the **Perform Pre-Audits** Tab for your voucher.
 
     * You will now see a list of all the items that might cause a fail or hardfail for the voucher to be approved.
 
-    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please go back up to the [Enter Accounting Codes section of this guide](/travel-guide-3-approval/#iii-enter-accounting-codes).
+    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please reach out to the 18F travel team.
 
     *  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2](/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
 
