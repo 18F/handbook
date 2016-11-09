@@ -75,7 +75,7 @@ You may book outside of Fedrooms if you can find alternative accommodations that
 
 If using a service such as AirBnB, where part or all of the booking may be nonrefundable, please ensure that your reservation has a "Flexible" cancellation policy. You will need to notify your travel approver via email if there are any cancellation fees and forward their approval to 18ftravelauths@gsa.gov (preferably in the same thread as your original email of approval). Any cancellation fees (except ones that are assessed for canceling with less than 24 hours notice for work reasons) that are not pre-approved are made at your own risk and will not be reimbursed in the event of a cancellation.
 
-If booking in Fedrooms or using another service, when Concur prompts you to select a hotel, you may choose **"I will book a hotel later"**.
+If booking in Fedrooms or using another service, when Concur prompts you to select a hotel, you may choose **"I will book a hotel later"**, and later choose **Hotel booked directly or via other means** when confirming booking.
 
 Choosing **"I will book a hotel now"** is another option available to you, which is sometimes, but not always similar to Fedrooms. Choosing this option will allow you to book a hotel in Concur is to book directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile). Then, you can go ahead and follow some more detailed instructions [here](/how-to-book-a-hotel-in-concur).
 
