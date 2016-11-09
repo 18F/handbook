@@ -46,17 +46,10 @@ Again, in the case of billable travel, the email should be made out to the clien
 
 ### I found a flight that I like, but it’s not a government contract carrier. Can I still take it?
 
-You may still take a non-contract flight under certain circumstances:
+You may still take a non-contract flight if it follows [these rules set in the Federal Travel Regulation](http://www.gsa.gov/portal/ext/public/site/FTR/file/Chapter301p010.html/category/21868/#wp1203865), and also follows the 18F-specific policy here:
 
-Space on a scheduled contract flight is not available in time to accomplish the purpose of your travel, or use of contract service would require you to incur unnecessary overnight lodging costs which would increase the total cost of the trip;
-The contractor’s flight schedule is inconsistent with explicit policies of your Federal department or agency with regard to scheduling travel during normal working hours;
-A non-contract carrier offers a lower fare to the general public that, if used, will result in a lower total trip cost to the Government (the combined costs of transportation, lodging, meals, and related expenses considered);
-Note to paragraph (c): This exception does not apply if the contract carrier offers the same or lower fare and has seats available at that fare, or if the fare offered by the non-contract carrier is restricted to Government and military travelers performing official business and may be purchased only with a contractor-issued charge card, centrally billed account (e.g., YDG, MDG, QDG, VDG, and similar fares) or GTR where the two previous options are not available;
-Cost effective rail service is available and is consistent with mission requirements; or
-Smoking is permitted on the contract air carrier and the nonsmoking section of the contract aircraft is not acceptable to you.
-Note 1 to §301-10.107: Any group of 10 or more passengers traveling together on the same day, on the same flight, for the same mission, requiring group integrity and identified as a group by the travel management service upon booking is not a mandatory user of the Government’s contract city-pair fares. For group travel, agencies are expected to obtain air passenger transportation service that is practical and cost effective to the Government.
-Note 2 to §301-10.107: Contractors are not authorized to use contract city-pair fares to perform travel under their contracts.
-Note 3 to §301-10.107: If the Government contract city-pair carrier offers a lower cost capacity-controlled coach class contract fare (MCA, QCA, VCA, etc.) in addition to the unrestricted coach class contract fares (YCA), the traveler should use the lower cost capacity-controlled fare when it is available and meet mission needs.
+* If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email of approval from your client (billable) or director (non-billable) sent to 18ftravelauths@gsa.gov.
+
 
 <a name="adtrav"></a>
 

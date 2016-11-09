@@ -95,9 +95,9 @@ Any changes to the itinerary approved by the client that require:
 * Additional days of per diem or lodging that the client will have to pay for
 * Exceeding the [government maximum hotel rate](http://www.gsa.gov/portal/category/100120)
 * A flight that exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter)
-* Otherwise exceeding the original approved estimate by more than 20% 
+* Otherwise exceeding the original approved estimate by more than 20%
 
-MUST be re-approved by the client. 
+MUST be re-approved by the client.
 
 Individual travelers or project managers with such a change to their itinerary may reach out directly to the client on the same thread as the email sent to 18ftravelauths@gsa.gov to to request approval. Client approval of the changes is due at 2:30 PM Eastern to allow the travel team to approve changes in Concur that same business day.
 
@@ -146,6 +146,6 @@ Call AdTrav at 877-472-6716 to make flight arrangements.
 
 **You can also make hotel arrangements through AdTrav.**
 
-Once you've gotten off the phone with AdTrav, do something else for 1-2 hours while their system syncs up with Concur. Then, head over to [travel.gsa.gov](https://travel.gsa.gov) and follow the instructions for [Submitting for Concur approval:](/travel-guide-3-approval).
+Once you've gotten off the phone with AdTrav, do something else for 1-2 hours while their system syncs up with Concur. Then, head over to [travel.gsa.gov](https://travel.gsa.gov) and follow the instructions for [Submitting for Concur approval:](/travel-guide-3-approval). If you want to make hotel reservations outside of AdTrav, read on more [here](/travel-guide-2-choose-your-itinerary/#book-lodging).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
