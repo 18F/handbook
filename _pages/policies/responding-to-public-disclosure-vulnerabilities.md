@@ -19,7 +19,7 @@ Each metric above receives a single score on potential impact from the following
 
 Low through high is subjective. In the case of an **incident**, the responder has determined for any reason that the vulnerability has _already_ impacted system confidentiality, integrity, or availability. The responder immediately follows the [security incident process](https://handbook.18f.gov/security-incidents/).
 
-If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the Infrastructure Lead of the affected product or service.
+If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the Infrastructure Lead **LINK** of the affected product or service.
 
 ## Filing an issue
 
