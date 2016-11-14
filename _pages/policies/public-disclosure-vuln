@@ -1,0 +1,15 @@
+Once vulnerability is reported by member of the public (either responsible disclosure and/or bug bounty), there needs to be a clearly defined workflow.
+
+Proposed workflow:
+
+Rotate person (possibly weekly?) who will be first responder for incoming bug/vuln reports
+
+Once report of vuln/bug is received, first responder reviews and makes a determination on whether reported issue is a bug/low-risk vuln, a med/high-risk vuln, and/or an issue that should be treated as a security incident
+
+*NOTE: If first responder is unable to make determination of risk severity, responder should immediately post in #incident-response channel and seek counsel from responders, as well as tag the Infrastructure Lead of the affected product
+
+If issue is categorized as bug/low-risk, an issue must be created in GH and assigned to the appropriate Infrastructure Lead to prioritize with their team as they see fit.
+
+If issue is categorized as med/high-risk, an issue must be created in GH and marked High Priority. Since high-risk vulns potentially put our data or products at risk if exposed to public, issue should be created in our private security-incidents repo and assigned to the appropriate Infrastructure Lead. First responder will make a determination on Issue vs. Incident and advise Infrastructure Lead on next steps, including whether issue should be reported via steps in #incident-response channel.
+
+The first responder is responsible for closing out the GH issue once they are satisfied that the issue has been resolved (whether remediated or marked won't fix). The first responder will communicate directly with the Infrastructure Lead, and the Lead is responsible for communication with their team throughout the remediation lifecycle.
