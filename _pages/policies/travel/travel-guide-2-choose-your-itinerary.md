@@ -73,7 +73,9 @@ When booking hotels for official travel, always use your travel card, whether yo
 
 You may book outside of Fedrooms if you can find alternative accommodations that are "fire-safe" and have a similar refund policy as Fedrooms, if the overall cost is lower or the location is closer to the work site.
 
-If using a service such as AirBnB, where part or all of the booking may be nonrefundable, please ensure that your reservation has a "Flexible" cancellation policy. You will need to notify your travel approver via email if there are any cancellation fees and forward their approval to 18ftravelauths@gsa.gov (preferably in the same thread as your original email of approval). Any cancellation fees (except ones that are assessed for canceling with less than 24 hours notice for work reasons) that are not pre-approved are made at your own risk and will not be reimbursed in the event of a cancellation.
+While some services (such as Airbnb, hotels.com, etc.) offer lower prices, they do came with a risk to the government-- if your trip is cancelled, some or all of that total may not be refunded. Since our clients may not agree to pick up that tab, nonrefundable fees sometimes eat into 18F’s operating budget.
+
+If you need to book a hotel outside of fedrooms.com, please check if booking comes with any nonrefundable fees. If it does, please get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to 18ftravelauths@gsa.gov. Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.
 
 If booking in Fedrooms or using another service, when Concur prompts you to select a hotel, you may choose **"I will book a hotel later"**, and later choose **Hotel booked directly or via other means** when confirming booking.
 
