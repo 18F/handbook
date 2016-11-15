@@ -11,7 +11,7 @@ When someone in the public alerts us to a potential vulnerability, we need to re
 
 ## Triage the vulnerability
 
-In PagerDuty, someone is on call to be the **first responder**. This roles rotates weekly.
+In PagerDuty, someone is on call to be the **first responder**. This role rotates weekly.
 
 The **first responder** checks for reports upon notification via (TBD: Gmail push, Slack, PagerDuty text, etc). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**.
 
@@ -65,4 +65,4 @@ The acknowledgement text could be something like:
 
 Remember to **CC on this email** any relevant program staff or infrastructure leads. They assume responsibility for further communication and resolving the issue.
 
-The last thing you should do is set an email alert (for now, I guess Google Calendar is the way to do this?) at the 77-day (11 weeks) mark from the date the reporter sent the email, so that, if no response or resolution has yet been made, the team has about 2 weeks to bring the issue to resolution and close out the issue with the reporter.
+The last thing you should do is set an email alert via Google Calendar at the 77-day (11 weeks) mark from the date the reporter sent the email, so that, if no response or resolution has yet been made, the team has about 2 weeks to bring the issue to resolution and close out the issue with the reporter.
