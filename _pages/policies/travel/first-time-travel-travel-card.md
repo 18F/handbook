@@ -61,3 +61,7 @@ This may take 1-2 business days.
 The instructions for the application can be found [here](https://drive.google.com/open?id=0B0Kck5dqF_EbUmVoNTFPZl9tNWc)
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+
+
+#### Check Card Balance
+If you need to check your card balance, you can do so [online](https://home.cards.citidirect.com/CommercialCard/Cards.html) or by the phone number on the back of your card. 
