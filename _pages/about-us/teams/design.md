@@ -143,6 +143,7 @@ And one more thing: before you start using any new tool that asks for access to 
 
 - **Ethnio:** Online research recruiting. Contact [Jen Ehlers](https://gsa-tts.slack.com/messages/@jehlers) or [Colin MacArthur](https://gsa-tts.slack.com/messages/@colinpmacarthur) for immediate access, and be sure to read our [Getting Started with Ethnio](https://docs.google.com/a/gsa.gov/document/d/14YwXV9BoY4EUEGc7kMITFQ-9tFjBipTaj7dsGFIJnNc/edit?usp=sharing) guide.
 - **Google Analytics:** More info [here](/google-analytics).
+- For cardsorting and navigation tree testing, we have access to **[Optimal Workshop](https://www.optimalworkshop.com/)** via [OPP](http://www.gsa.gov/portal/content/124174). You can [get started immediately](https://docs.google.com/a/gsa.gov/document/d/1fTXNs1-x9SBLDmOyV79Kxu4V3mvhc89_2GAGixa2tyA/edit?usp=sharing). 
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://gsa-tts.slack.com/messages/research) for recommendations.
 
 #### Workshops
