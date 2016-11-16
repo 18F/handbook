@@ -169,7 +169,7 @@ Please see the description for [how to add a local transportation expense](#loca
 It's coming!
 
 ##### Personal Vehicle Use
-It's coming!
+It's coming! Note that you must provide a map of your route (e.g., a Google Maps screenshot) that includes the total mileage.
 
 ##### Parking
 It's coming!
