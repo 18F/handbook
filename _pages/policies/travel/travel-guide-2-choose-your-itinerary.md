@@ -41,9 +41,9 @@ The government has a number of contracts with airlines to receive special rates.
 
 If you cannot use one of these flights, you must justify why you are choosing a non-contact carrier and fare.
 
-You can filter flights by contract type and airline, but consider that a non-contract fare may be cheaper.
+If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email of approval from your client (billable) or director (non-billable) sent to 18ftravelauths@gsa.gov.
 
-[What justifies using a non-contract fare?](/travel-guide-faq/#non-contract)
+[What justifies using a non-contract fare?](http://www.gsa.gov/portal/ext/public/site/FTR/file/Chapter301p010.html/category/21868/#wp1203865)
 
 * Select **View Fares** to view additional itinerary details
 <img src="/images/travel/6-view-fares.png" class="travel-guide-hide" alt="viewing fares">
@@ -63,71 +63,24 @@ You can filter flights by contract type and airline, but consider that a non-con
 * Scroll to the bottom of this page and click **Next**. This message will pop up, prompting you to book a hotel.
 <img src="/images/travel/10-trip-details-bottom.png" class="travel-guide-hide" alt="pending reservation warning">
 
-### Choose a Hotel or Place to Stay
+### Book lodging
 
-#### Which way to book?
-Have you
+[Fedrooms](https://www.fedrooms.com) is the preferred way to book accommodations while traveling on official business. All rooms are "fire-safe", under the government maximum rate, and fully refundable up to 24 hours before check-in, which minimizes both overall cost and risk to the government.
 
-* Received your travel card
+When booking hotels for official travel, always use your travel card, whether you are using Fedrooms, Concur, or any other service.
 
-* Entered your travel card into Concur,
+#### Can I book outside of Fedrooms?
 
-* And want to make hotel reservations in Concur?
+You may book outside of Fedrooms if you can find alternative accommodations that are "fire-safe" and have a similar refund policy as Fedrooms, if the overall cost is lower or the location is closer to the work site.
 
-[Yes - I'm Booking in Concur](#book-hotel-in-Concur)
+While some services (such as Airbnb, hotels.com, etc.) offer lower prices, they do came with a risk to the government-- if your trip is cancelled, some or all of that total may not be refunded. Since our clients may not agree to pick up that tab, nonrefundable fees sometimes eat into 18F’s operating budget.
 
-[No  - I'm going through something else](#book-hotel-in-fedrooms)
+If you need to book a hotel outside of fedrooms.com, please check if booking comes with any nonrefundable fees. If it does, please get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to 18ftravelauths@gsa.gov. Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.
 
-#### Book Hotel in Concur
-1. When you click on the **Next** button, a popup will appear asking if you'd like to book a hotel now. Select **I will book a hotel now** and click **OK**.
-<img src="/images/travel/11-book-hotel-now.png" class="travel-guide-hide" alt="selecting hotel booking option">
+If booking in Fedrooms or using another service, when Concur prompts you to select a hotel, you may choose **"I will book a hotel later"**, and later choose **Hotel booked directly or via other means** when confirming booking.
 
-2. **Note:** if you are coming back to this step after going back to the main menu of Concur, make sure your saved authorization is selected, go to **Travel Home**, and then in the same box where you made flight reservations, switch to the Hotel tab from the “Air/Rail” one.
+Choosing **"I will book a hotel now"** is another option available to you, which is sometimes, but not always similar to Fedrooms. Choosing this option will allow you to book a hotel in Concur is to book directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile). Then, you can go ahead and follow some more detailed instructions [here](/how-to-book-a-hotel-in-concur).
 
-3. Enter your
-    * Check-in and Check-out date,
-
-    * location,
-
-    * and any preferred hotels
-
-    * and then click next.
-
-4. Choose a hotel from the list of search results. Make sure that you pick a hotel with a nightly rate **equal to or less than the government maximum for the area listed here.** In the side bar you can filter your search results to only those under the Per diem rate by checking **Hide hotels over Per Diem limit ($XXX.00)**.
-
-5. Click on  **“Choose Room”**, to view a detailed list of rooms within the hotel. Again, choose a room whose nightly rate is equal to or less than the government maximum.
-
-6. Choose a room to reserve and click on **Select** at the bottom of the additional hotel details box.
-
-7. **Review and Reserve Hotel** On the review screen:
-    * Select your hotel room preferences
-    * Choose a credit card (likely adding your GSA credit card that you added when you completed your GSA travel card)
-    * Agree to the hotel's rate policies.
-    * Click on **Reserve Hotel and Continue**
-
-8. You will now be taken back to your trip itinerary. Note that the hotel has been added to the flight.
-
-9. Scroll down and click **Next** to proceed to getting your trip ready for approval.
-
-[Proceed to prepare your trip for approval and book trip](/travel-guide-3-approval)
-
-#### Book Hotel in Fedrooms
-You've ended up here because you are either:
-
-* New to 18F and/or don’t have a travel card yet
-
-* someone who wants to book a hotel outside of Concur (e.g. through [Fedrooms](http://Fedrooms.com))
-
-* Have booked your travel through [AdTrav](/travel-guide-faq/#adtrav).
-
-If this is not the case, please go back up to the [Book in Concur Section](#book-hotel-in-Concur).
-
-
-1. When you clicked on the **Next** button, a popup appeared asking if you'd like to book a hotel now. Select **I will book a hotel later** and click **OK**.
-
-2. Choose **I will book a hotel later**
-
-[Proceed to prepare your trip for approval and book trip](/travel-guide-3-approval)
-
+When you are finished booking your hotel,[proceed on to submitting for Concur approval](/travel-guide-3-approval)
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
