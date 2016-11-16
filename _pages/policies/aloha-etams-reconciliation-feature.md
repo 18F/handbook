@@ -2,7 +2,7 @@
 title: ALOHA/ETAMS Reconciliation Feature
 ---
 
-## Tl;DR: ALOHA has a new leave reconciliation feature that allows employees to correct their own leave variances.
+## TL;DR: ALOHA has a new leave reconciliation feature that allows employees to correct their own leave variances.
 
 In order to ensure that our leave and attendance are accurately recorded, 18F will need to use the new leave reconciliation tool to correct any leave and/or attendance discrepancies. Maintaining accurate leave data across our system is important, as we use it for: attendance records, determining whether you have enough leave to make a leave request, and pay-outs when you leave the GSA.
 
