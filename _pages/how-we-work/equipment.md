@@ -62,21 +62,13 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. The procedure for requesting, however, varies by office.
 
-#### DC
+#### DC or remote
 
 Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the 18F Operations Team will reach out to you.
 
-#### Chicago
+#### Chicago or San Francisco
 
-Reach out to Ethan Heppner via email or Slack, he will assist you as soon as he is available.
-
-#### San Francisco
-
-Reach out to Victor Valdiviezo via email or Slack, he will assist you as soon as he is available.
-
-#### Remote
-
-Due to the time and expense of shipping equipment, mice, keyboards, and trackpads are not available for employees outside of the commuting area of an 18F office.
+Reach out to Ethan Heppner (Chicago) or Victor Valdiviezo (San Francisco) via email or Slack, they will assist you as soon as they are available.
 
 ## Equipment to accommodate disability
 
