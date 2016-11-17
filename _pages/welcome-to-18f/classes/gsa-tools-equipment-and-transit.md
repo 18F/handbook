@@ -194,7 +194,7 @@ You can log time spent in OLU as `Training / Professional Development` in [Tock]
 
 18F has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. Read on [here](/equipment/#mice-keyboards-and-trackpads) for more details.
 
-Access to general office supplies varies based on your location — see our [office tour guides](/offices)". The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
+Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
 
 For software requests, see [the 18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) for a list of what's available. Most software can be requested by emailing 18fsoftware@gsa.gov, but please use the method indicated in the **Request Method** column. If you have any questions, feel free to ask in [#Infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 
