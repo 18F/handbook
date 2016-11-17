@@ -12,7 +12,11 @@ As an 18F team member, you have access to a comprehensive breakdown of our proje
 
 There are two different types of Float users at 18F:
 
-* **Administrators:** This group includes chapter heads, their designees,  engagement managers, project managers, product leads, and members of Team Ops. Although all administrators have full editing capabilities in Float, only members of the Ops team should add new projects and new user accounts, based on the existing agreements pipeline and onboarding processes. 
+* **Float Coordinator:** This person coordinates all the data entry into Float, ensures data is up to date, and ensures that the data conforms with the standards outlined in this section. Currently, this is @leahgitter
+
+* **Operations Administrators:** This group includes members of Team Ops. Administrators members of the Ops team should add new projects and new user accounts, based on the existing agreements pipeline and onboarding processes. 
+
+* **Scheduling Administrators:** This group includes business unit staff. This group is responsible for entry of schedules for individuals on projects into Float in accordance with the standards outlined below.
 
 * **Observers:** This group includes most 18F team members. Observers can see their weekly schedules in the My Schedule tab. They can also view everyone else's projects and availability.
 
@@ -111,8 +115,25 @@ To add someone to Float, click on the plus sign in the upper-right-hand corner a
 - Email: Use the person's GSA email address (required)
 - Access type: Default should be “Observer” (required)
 - Title
-- Department
-- Full time
+- Department (required)
+    * Float Department: Unit Exception
+      * Roster Designation: Exception
+
+    * Float Department: Unit Detail
+      * Roster Designation: Detail Out
+      * Roster Designation: Acquisitions
+
+    * Float Department: Unit
+      * Roster Designation: Primary
+      * Roster Designation: Partial
+
+    * Float Department: Neutral
+      * Roster Designation: Neutral
+
+
+- Full time or Part Time depending on roster designation. 
+    * Full time capacity is 6.5 hours/day
+    * Part time capacity defaults to 2.5 hours/day, unless increased by a Chapter Director
 - Tags:  Add a tag for the person’s  location using one of the following location codes (Required. Make this tag **GREEN**). If needed, for some remote workers, use **Remote** as their location code. 
 
   - ATL
@@ -149,19 +170,22 @@ Once you add a person, you can add them to projects.
 
 ### Add a project (Ops team only)
 
-Currently, Ops adds projects to Float **only** after the IAA/MOU process is started, or when a staffing decision is made in the [staffing and resource planning process](https://github.com/18F/staffing-and-resources). If you’d like to request that a project be added to Float, please do so in [#admins-float](https://gsa-tts.slack.com/messages/admins-float/). If a member of  Ops isn’t able to add your project, they’ll let you know. 
+Currently, Ops adds projects to Float **only** after the IAA/MOU is signed, or when a staffing decision is made in the [staffing and resource planning process](https://github.com/18F/staffing-and-resources). If you’d like to request that a project be added to Float, please do so in #admins-Float. The Scheduling Administrator from the appropriate business unit should request the creation of the project in #admins-float(https://gsa-tts.slack.com/messages/admins-float/) with and @ to the Float Coordinator.
 
 The Float project name and other information should be consistent with Tock. Although technically possible, other non-Team Ops Float Admins should not create new projects in Float. 
 
 To add a project to Float, click the plus sign in the upper-right-hand corner of the page and choose "Add Project." A dialog box will pop up and ask for the following:
 
-- Project: Please double-check that the name you enter here is consistent with the [Tock project name](https://tock.18f.gov/projects/). 
+- Project: Please double-check that the name you enter here is consistent with the [Tock project name](https://tock.18f.gov/projects/) as obtained from the Agreements Team. 
 - Client (Agency): While most clients are already in Float, you also have the option to enter a new client. If you have questions about whether your client is already entered in Float, please check in with the folks in  [#admins-float](https://gsa-tts.slack.com/messages/admins-float/).
-- Color: The default color should be blue.
+- Color: The color should be assigned based on the Office.
+  * 18F Projects - Blue
+  * Acquisitions - Red
+  * Cloud.gov - Purple
+  * Login.gov - Yellow
 - Notes: Support notes that help define the project. These notes needn’t be lengthy — a sentence or two is just fine.
 - Tags: The first tag is reserved for the project’s [Tock ID](https://tock.18f.gov/projects/). If you’re entering a project before its Tock ID is assigned, enter **Tock ID TBD** for the first tag and revise it later when the Tock ID is available. You can also add other tags to help team members find the project more easily, but you’re not required to add more tags. 
 - Billable/Non-billable: Use this field to indicate whether your project is billable or non-billable. Make sure what you enter here is consistent with the settings in Tock.
-- Tentative: If your project’s IAA/MOU is still in progress, mark your project as Tentative. 
 - Team: If your resourcing request has been approved, you can use this tab to add team members to a project. 
 - Milestones (optional): Use milestones to note key points in the project roadmap.
 - Tasks: You can assign tasks to any member of the project team.
@@ -170,7 +194,7 @@ To add a project to Float, click the plus sign in the upper-right-hand corner of
   <img src="{{ site.baseurl }}/images/float/adding-project.gif" alt="Float - Add a Project">  
 </figure>
 
-### Edit schedule (all administrators)
+### Edit schedule (scheduling administrators)
 
 During the staffing and [staffing and resource planning process](https://github.com/18F/staffing-and-resources), Chapters assign people to work on each project. Each engagement or project lead is responsible for keeping their project's Float information up to date, including adding the intial scheduling information once an assignment has been made by a Chapter. If an engagement or project lead sees any unfamiliar scheduling discrepancies, they should work with the employee in question and their Chapter leadership to get it resolved as soon as possible. 
 
@@ -183,9 +207,9 @@ To add a project to someone’s timeline, select the team member you want to add
 - Project (required)
 - Notes: If you are creating or editing a project schedule based on the decisions made in the [staffing and resource planning process](https://github.com/18F/staffing-and-resources), please include a link to the GitHub repo in Float notes to explain when and why things changed. 
 - Daily hours: The number of hours each day this person should spend working on this project. 
-    The smallest time block in Float is 30 minutes, though we ask that scheduling be done in increments of 4-7 hours. Please use the guidance below when editing schedules. Employees should not be scheduled for more than 32 hours of billable work per week.
-    * Full time: 7 hours a day in Float
-    * Half time: 4 hours a day in Float
+    The smallest time block in Float is 30 minutes. Please use the guidance below when editing schedules. Employees should not be scheduled for more than 32.5 hours of billable work per week.
+    * Full time: 6.5 hours a day in Float
+    * Part time: default to 2.5 hours a day in Float, though chapter directors may increase this time.
 - From/to dates: The dates on which the person should start and stop working on this project. These dates help admins determine who’s available for additional project work and who already has enough work on their plate. 
 
 To edit existing schedule, double click the current schedule - a similar dialog box will pop up and present a form you can edit. 
