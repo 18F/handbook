@@ -11,7 +11,7 @@ In order to use C2, you'll need to get your account set up. In order to do this,
 
 Then, write a brief message in [#c24ops](https://gsa-tts.slack.com/messages/c24ops/): i.e. "Hi, I'd like to be set up in C2". Within 1 business day, you'll get a response in the channel confirming the creation of your account.
 
-You'll then be able to proceed to make either an event request (for trainings and conferences) or a purchase request (for anything else). All requests must be approved by the Director of Operations before they are purchased by an 18F purchase card holder. Training and conference requests must also be recommended for approval by the 18F Director of Training and Development. DO NOT PURCHASE THE REQUEST ON YOUR OWN unless you are instructed to do so by a member of the 18F operations team. Read on more below for guidance for different types of requests:
+You'll then be able to proceed to make either an event request (for trainings and conferences) or a purchase request (for anything else). All requests must be approved by the Director of Operations before they are purchased by an 18F purchase card holder. Training and conference requests must also be recommended for approval by the 18F Director of Training and Development. **Do not purchase the request on your own** unless you are instructed to do so by a member of the 18F operations team. Read on more below for guidance for different types of requests:
 
 * [Trainings and conferences](purchase-requests/#trainings-and-conferences)
 * [Business cards]((purchase-requests/#business-cards))
@@ -46,9 +46,11 @@ Anyone working in an 18F office may request a purchase of office supplies by cre
 
 ### Software
 
-Before making a request in C2, please check the [18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) to see if the software that you are looking for is already available somewhere. Most software at 18F can be requested by sending an email to [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov), but please check the **Request Method** column of the 18F software library first.
+Before making a request in C2, please check the [18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) to see if the software that you are looking for is already available somewhere. Most software at 18F can be requested by sending an email to [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov), but there are exceptions. Check the **Request Method** column of the 18F software library first to confirm what you need to do before you send the email.
 
 If the software you're looking for isn't listed, or the request method indicated is C2, please make a [new purchase request](https://cap.18f.gov/gsa18f/procurements/new). Once your request is submitted, please add [Erik Burgess](mailto:erik.burgess@gsa.gov) as an **Observer** to your request-- he will confirm if your requested software has an [Authority to Operate (ATO)](authority-to-operate).
+
+Any questions about purchases of software should be directed to [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 
 ## Purchases over $3,500
 
