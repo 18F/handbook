@@ -58,32 +58,17 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 - To reduce waste, GSA IT will [disable mobile service for inactive accounts](https://insite.gsa.gov/portal/content/663074). The consumed minutes is the metric used to determine activity, so if you only use the phone for data, you'll still need to make an occasional call on your mobile phone to prevent the account from going inactive.
 - If you need help with your phone, call the GSA IT Help Desk at 1-866-450-5250.
 
-## Business cards
+## Mice, keyboards, and trackpads
 
-Different 18F team members have different solutions for business cards. At this time, you must purchase your own business cards if you want 18F branding.
+If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. The procedure for requesting, however, varies by office.
 
-You can request [GSA business cards](https://cap.18f.gov/gsa18f/procurements/new), which are free and don't reflect 18F's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
+#### DC or remote
 
-## Requests
+Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the 18F Operations Team will reach out to you.
 
-Ops is testing [C2](https://cap.18f.gov) for requesting office supplies, computer hardware, approved software, trainings, and other items under $3,500.
+#### Chicago or San Francisco
 
-To make a request:
-
-1. Check [the list of 18F's purchased software](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) to see if we have accounts/licenses already.
-    1. If yes, reach out to the person/team listed for that item to get access. You/they may need to come back here to request more seats.
-    1. If no, keep going!
-1. Open [cap.18f.gov](https://cap.18f.gov/).
-1. Click **Sign in with MyUSA** to connect with Google.
-1. Scroll down and click **Allow**.
-1. Once you’re logged in, click **New 18F request** to create and submit your request. If you don't see this link, it's possible that you haven't been set up as a member of 18F yet. Post a request in #c24ops for access or if you have any questions about how to use C2.
-1. After submitting your request, it will be reviewed by the Director of Operations. The Director of Operations must approve all requests before they are purchased.
-1. After your request is approved, it will typically be purchased by a purchase card holder on the operations team. Do not purchase yourself unless you are instructed to do so by a member of the operations team.
-
-If you're requesting software that no one else at 18F uses yet, be sure you have written approval from [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://gsa-tts.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
-
-If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
-
+Reach out to Ethan Heppner (Chicago) or Victor Valdiviezo (San Francisco) via email or Slack, they will assist you as soon as they are available.
 
 ## Equipment to accommodate disability
 
@@ -101,7 +86,7 @@ If 18F-issued equipment fails due to manufacturer defects or accidental damage:
 - 18F will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all 18F-issued hardware and peripherals.
 - Employees are responsible for informing Team Ops in [#equipment](https://gsa-tts.slack.com/messages/equipment) of the damage or need for repair by the close of business one business day following the damage.
 - If either your laptop or your phone is in need of repair, please go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we'll ship you a new laptop).
-- If you need to take your laptop to the Apple Store, you can check to see if it's under warranty with the hardware serial number [here](https://checkcoverage.apple.com/). If it is not under warranty, Team Ops will walk you through how to take care of the cost for repair. 
+- If you need to take your laptop to the Apple Store, you can check to see if it's under warranty with the hardware serial number [here](https://checkcoverage.apple.com/). If it is not under warranty, Team Ops will walk you through how to take care of the cost for repair.
 - If you need to leave your laptop for repairs at the Apple Store, double check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790). As a reminder, GSA IT sets up your laptop with FileVault encryption. You can check it in your System Preferences to see that it's there and properly set up.
 
 ## <a id="stolen-or-lost">Lost or stolen equipment</a>
@@ -111,7 +96,7 @@ If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employ
 1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
 2. Call 911 or a local police station when you suspect theft has occurred.
 3. Get and keep a copy of the police report in case you have to provide it to the Federal Protective Service (FPS) or your regional Information Systems Security Officer (ISSO). Provide as much information as possible.
-4. Call the IT Service Desk at 1-866-450-5250. An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop. Alternatively, you can report a lost or stolen item via [GSA Service Desk](https://gsa.service-now.com/). 
+4. Call the IT Service Desk at 1-866-450-5250. An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop. Alternatively, you can report a lost or stolen item via [GSA Service Desk](https://gsa.service-now.com/).
 5. Call your FPS using contact information provided in the link.
 6. Contact your regional ISSO using contact information provided in the link.
 
