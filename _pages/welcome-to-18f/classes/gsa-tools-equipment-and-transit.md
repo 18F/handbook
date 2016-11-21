@@ -198,7 +198,7 @@ Access to general office supplies varies based on your location — see our [off
 
 For software requests, see [the 18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) for a list of what's available. Most software can be requested by emailing 18fsoftware@gsa.gov, but please use the method indicated in the **Request Method** column. If you have any questions, feel free to ask in [#Infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 
-If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://cap.18f.gov). Read on [here](/purchase-requests) for what to do next.
+If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://cap.18f.gov).
 
 
 ## Get a copy of Microsoft Office
