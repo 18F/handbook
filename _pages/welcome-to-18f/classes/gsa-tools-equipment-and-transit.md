@@ -192,13 +192,13 @@ You can log time spent in OLU as `Training / Professional Development` in [Tock]
 
 ## Office supplies
 
-18F has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. Read on [here](/equipment/#mice-keyboards-and-trackpads) for more details.
+18F has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. If you’d like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
 Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
 
 For software requests, see [the 18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) for a list of what's available. Most software can be requested by emailing 18fsoftware@gsa.gov, but please use the method indicated in the **Request Method** column. If you have any questions, feel free to ask in [#Infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 
-If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://cap.18f.gov). Read on [here](/purchase-requests) for what to do next.
+If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://cap.18f.gov).
 
 
 ## Get a copy of Microsoft Office

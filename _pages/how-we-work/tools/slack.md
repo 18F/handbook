@@ -117,7 +117,7 @@ New integrations/bots need approval from the following:
 
 ## Groups
 
-Slack Groups allow you to direct messages to a specific list of people in a more precise way than an **@-channel** or **@-here**. Any full member can create and edit Slack groups at will. You can see existing groups by going to https://gsa-tts.slack.com/messages/general-talk/team/ (or click the "three dots" in top right and click "team directory") then going to the "Groups" tab.
+Slack Groups allow you to direct messages to a specific list of people in a more precise way than an **@-channel** or **@-here**. Any full member can create and edit Slack groups at will. You can see existing groups by clicking the "three dots" in the top right of your Slack window, clicking "team directory", and then going to the "Groups" tab.
 
 Groups are a great way to alert people who might not be in a channel about something that needs their attention or make sure urgent incidents are directed to the right people and not an entire channel. For example, you can ping **@github-admins** in #admins-github if you have an urgent issue instead of using an **@channel** or use **@federalist-team** to alert that group of a conversation in another channel that we should see immediately.
 
