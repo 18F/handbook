@@ -201,7 +201,7 @@ For software requests, see [the 18F software library](https://docs.google.com/sp
 <<<<<<< HEAD
 If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://requests.18f.gov). Read on [here](/purchase-requests) for what to do next.
 =======
-If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://cap.18f.gov).
+If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://requests.18f.gov).
 >>>>>>> master
 
 
