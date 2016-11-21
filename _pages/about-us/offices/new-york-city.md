@@ -138,7 +138,7 @@ You can get coffee, espresso, cappuccinos, tea, and water in the kitchen free of
 
 ### <a id="spare-keyboards-mice"></a>Spare keyboards and mice
 
-If you need office supplies, ask in [#teamops](https://gsa-tts.slack.com/messages/teamops/). They will likely send you to [https://cap.18f.gov](https://cap.18f.gov/) to order the supplies.
+If you need office supplies, ask in [#teamops](https://gsa-tts.slack.com/messages/teamops/). They will likely send you to [https://requests.18f.gov](https://requests.18f.gov/) to order the supplies.
 
 If you need a cord to connect to one of the monitors in the space (or to a conference room set up) ask at the front desk. They also have chargers!
 

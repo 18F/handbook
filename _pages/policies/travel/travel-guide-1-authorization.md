@@ -54,7 +54,7 @@ If two or more 18F staff are traveling to the same activity, the approval must b
 
 #### Travel to trainings and conferences requested in C2
 
-No email to 18ftravelauths@gsa.gov is required for travel to trainings and conferences requested in [C2](https://cap.18f.gov). Any amendments to travel dates may be requested via comment in the C2 system.
+No email to 18ftravelauths@gsa.gov is required for travel to trainings and conferences requested in [C2](https://requests.18f.gov). Any amendments to travel dates may be requested via comment in the C2 system.
 
 #### Deadline for approving non-billable travel
 Unit directors must send their emails of approval to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) before 12:30 PM Eastern on Wednesday in order for the request to be approved by in Concur by Friday. Approvals that arrive late will not be considered until the following Wednesday.

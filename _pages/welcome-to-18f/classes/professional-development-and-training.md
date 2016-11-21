@@ -133,7 +133,7 @@ That said, 18F will consider all requests for training, but it’s the responsib
 
 ### 4. Submit an event request in C2
 
-Once your IDP is approved, you can [create an event request in C2](https://cap.18f.gov/gsa18f/events/new). If you've never used C2 before, or the link looks like it's not working, ping in [#c24ops](https://gsa-tts.slack.com/messages/c24ops/) and someone will add you.
+Once your IDP is approved, you can [create an event request in C2](https://requests.18f.gov/gsa18f/events/new). If you've never used C2 before, or the link looks like it's not working, ping in [#c24ops](https://gsa-tts.slack.com/messages/c24ops/) and someone will add you.
 
 If you are set up right in C2, your event request form should look something like [this](https://gsa-tts.slack.com/files/eth/F2VNM3F17/c2-teamops-10-17-2016.jpg). Go ahead and start filling it out. Make sure you complete all required fields and attach your IDP before submitting-- you can do this by going in to **Review** your IDP and then clicking **Print** at the bottom of the page, which will open your IDP in Print Preview and allow you to export a PDF version of it.
 
