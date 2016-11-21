@@ -46,7 +46,8 @@ Here are a few expenses that you should put on the travel card (and **keep recei
 * Mileage reimbursement when using a personal vehicle (if determined advantageous to the Government)
 
 ### Don't forget about vouchers!
-Have a good trip, [get reimbursement](/travel-guide-5-reimbursement)-- filling out a voucher-- within a week of getting back.
+
+Have a good trip, [get reimbursement](/travel-guide-5-reimbursement)-- filling out a voucher-- within a 5 business days of getting back.
 
 Why the rush? Filling out a voucher correctly allows you to:
 
@@ -54,6 +55,8 @@ Why the rush? Filling out a voucher correctly allows you to:
 
 2. Have the government automatically pay off the balance on your Travel Card. If you do your voucher correctly and on time, you will never have to worry about paying one of those bills yourself.
 
-[Back from your trip? Head on over to Get reimbursed!](/travel-guide-5-reimbursement)
+On the other side, when travel expenses are submitted late, it’s a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, **no travel will be approved for anyone with travel expenses that are more than 5 business days outstanding.**
+
+[Back from your trip? Head on over to get reimbursed!](/travel-guide-5-reimbursement)
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
