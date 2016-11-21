@@ -119,7 +119,7 @@ Here are some tips for employees that frequent an office:
 
 Your account may not be set up by the time you start working at 18F. Account setup and activation are usually complete within a month of your start date; you'll receive an email from CHRIS once your account is set up and activated. If you don't receive this email within a month of starting, open a ticket with the [GSA IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/).
 
-You must [be on the VPN](/networks/#remote-access) to connect to CHRIS, if you work remotely.
+You must [be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.bbs2uvvcjvcg) to connect to CHRIS, if you work remotely.
 
 
 ## <a id="concur">Concur</a>
@@ -198,7 +198,11 @@ Access to general office supplies varies based on your location — see our [off
 
 For software requests, see [the 18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) for a list of what's available. Most software can be requested by emailing 18fsoftware@gsa.gov, but please use the method indicated in the **Request Method** column. If you have any questions, feel free to ask in [#Infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 
-If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://cap.18f.gov).
+<<<<<<< HEAD
+If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://requests.18f.gov). Read on [here](/purchase-requests) for what to do next.
+=======
+If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://requests.18f.gov).
+>>>>>>> master
 
 
 ## Get a copy of Microsoft Office

@@ -62,11 +62,35 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. The procedure for requesting, however, varies by office.
 
+<<<<<<< HEAD
+You can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect 18F's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
+=======
 #### DC or remote
+>>>>>>> master
 
 Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the 18F Operations Team will reach out to you.
 
+<<<<<<< HEAD
+Ops is testing [C2](https://requests.18f.gov) for requesting office supplies, computer hardware, approved software, trainings, and other items under $3,500.
+
+To make a request:
+
+1. Check [the list of 18F's purchased software](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) to see if we have accounts/licenses already.
+    1. If yes, reach out to the person/team listed for that item to get access. You/they may need to come back here to request more seats.
+    1. If no, keep going!
+1. Open [requests.18f.gov](https://requests.18f.gov/).
+1. Click **Sign in with MyUSA** to connect with Google.
+1. Scroll down and click **Allow**.
+1. Once you’re logged in, click **New 18F request** to create and submit your request. If you don't see this link, it's possible that you haven't been set up as a member of 18F yet. Post a request in #c24ops for access or if you have any questions about how to use C2.
+1. After submitting your request, it will be reviewed by the Director of Operations. The Director of Operations must approve all requests before they are purchased.
+1. After your request is approved, it will typically be purchased by a purchase card holder on the operations team. Do not purchase yourself unless you are instructed to do so by a member of the operations team.
+
+If you're requesting software that no one else at 18F uses yet, be sure you have written approval from [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://gsa-tts.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
+
+If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
+=======
 #### Chicago or San Francisco
+>>>>>>> master
 
 Reach out to Ethan Heppner (Chicago) or Victor Valdiviezo (San Francisco) via email or Slack, they will assist you as soon as they are available.
 
@@ -77,7 +101,7 @@ GSA provides equipment to accommodate an injury or disability under these condit
 - You have supporting medical documentation for the need for a certain piece of equipment.
 - You only need the equipment to do your work.
 
-To purchase this type of equipment, go to <https://cap.18f.gov/> and attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment).
+To purchase this type of equipment, go to <https://requests.18f.gov/> and attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment).
 
 ## Repairs
 

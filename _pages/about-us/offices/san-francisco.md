@@ -200,7 +200,7 @@ There is an all-gender bathroom in the Nimitz Suite on the third floor (room 319
 
 An all-gender bathroom is also available for limited hours on Tuesday through Thursday in the Health Unit, which is in the basement. See the <a href="#health-center">health center</a> section for further details.
 
-If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, please submit a request via [C2](https://cap.18f.gov/). You should search for the item in [GSAAdvantage](https://www.gsaadvantage.gov/advantage/main/start_page.do). If the item cannot be found there, or is too costly, see if it is available from Amazon or some other online provider. Make sure you provide a solid business justification for the purchase.
+If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, please submit a request via [C2](https://requests.18f.gov/). You should search for the item in [GSAAdvantage](https://www.gsaadvantage.gov/advantage/main/start_page.do). If the item cannot be found there, or is too costly, see if it is available from Amazon or some other online provider. Make sure you provide a solid business justification for the purchase.
 
 ### Batteries
 
