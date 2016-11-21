@@ -9,7 +9,7 @@ If you're looking to have 18F purchase anything that costs less than $3,500-- wh
 
 In order to use C2, you'll need to get your account set up. In order to do this, please visit [requests.18f.gov](https://requests.18f.gov) first and sign in with cloud.gov. **Agree and continue**, then go through the 2-Factor authentication process. This will log your information in the system.
 
-Then, write a brief message in [#c24ops](https://gsa-tts.slack.com/messages/c24ops/): i.e. "Hi, I'd like to be set up in C2". Within 1 business day, you'll get a response in the channel confirming the creation of your account.
+Then, write a brief message in [#c24ops](https://gsa-tts.slack.com/messages/c24ops/): i.e. "Hi, I'd like to be set up in C2". Within 1 business day, you'll get a response in the channel confirming the approval of your account.
 
 You'll then be able to proceed to make either an event request (for trainings and conferences) or a purchase request (for anything else). All requests must be approved by the Director of Operations before they are purchased by an 18F purchase card holder. Training and conference requests must also be recommended for approval by the 18F Director of Training and Development. **Do not purchase the request on your own** unless you are instructed to do so by a member of the 18F operations team. Read on more below for guidance for different types of requests:
 
