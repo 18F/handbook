@@ -49,8 +49,14 @@ _Before you do anything, read our [best practices for making distributed teams w
 
 On your first day at work you should configure things so that your two-factor authentication (2FA) codes &mdash; which you&rsquo;ll occasionally need to connect to GSA&rsquo;s virtual private network (VPN) &mdash; are delivered to your cell phone. If you don&rsquo;t receive your work cell phone on day one, you&rsquo;ll need to use your personal phone. **If you do not configure 2FA you will not be able to access your email from outside of federal buildings.**
 
-To receive GSA 2FA codes on your cell phone, you can [email GSA&rsquo;s access card team](mailto:accesscard@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. Alternatively, you can setup [SecureAuth Authenticate](https://itunes.apple.com/us/app/secureauth-otp/id615536686?mt=8) by following [these instructions](/pdfs/setting_up_otp_for_remote_access.pdf). This information was also emailed to you the week before your first day of work. Complete instructions are there.
+To receive GSA 2FA codes on your cell phone, you can [email GSA&rsquo;s access card team](mailto:accesscard@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
 
+### <a id="otp">Get a one-time password?</a>
+
+To get a one time password (OTP, required for logging in to some systems), you can either:
+
+* Setup a [SecureAuth client application](https://www.secureauth.com/support/downloads/client-applications) by following [these instructions](/pdfs/setting_up_otp_for_remote_access.pdf).
+* Visit [otp.gsa.gov](https://otp.gsa.gov).
 
 ### <a id="listen-to-all-hands">Listen to and participate in the weekly Tuesday all-hands meeting?</a>
 
