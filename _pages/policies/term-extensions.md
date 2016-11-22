@@ -10,7 +10,8 @@ Most employees at 18F are hired on term appointments under the Schedule A direct
 
 ## Renew your term
 
-1)  Connect with your supervisor(s) six months before your initial two-year term expires to discuss your options. 
+1)  Connect with your supervisor(s) six months before your initial two-year term expires to discuss your options.
+
 - If you don’t know when your term ends, you can look in [CHRIS] (http://www.gsa.gov/portal/content/105088) for your “Assignment NTE Date.” 
 - Considerations for renewal include organizational priorities, position needs, and your individual performance to date.
 
