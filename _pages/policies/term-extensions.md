@@ -28,6 +28,7 @@ Most employees at 18F are hired on term appointments under the Schedule A direct
 If the **decision is to renew**, the Talent Team will process a Request for Personnel Action (RPA) to extend your term. Your employment status and benefits will remain the same and no additional action is needed from you or your supervisor.
 
 At this point, the renewal process is completed by the Talent Team and GSA HR.
+
 - Approved extensions are placed on a tracking list.
 - Talent Team sends the extension RPAs (RPAs are submitted and processed through CHRIS) in batches at the beginning of each month for all extensions happening the following month.
 - HR reviews and confirms the RPA checking that all information is accurate (employee has another term left, correct extension dates).
