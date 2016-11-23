@@ -62,15 +62,12 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. The procedure for requesting, however, varies by office.
 
-<<<<<<< HEAD
 You can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect 18F's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
-=======
+
 #### DC or remote
->>>>>>> master
 
 Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the 18F Operations Team will reach out to you.
 
-<<<<<<< HEAD
 Ops is testing [C2](https://requests.18f.gov) for requesting office supplies, computer hardware, approved software, trainings, and other items under $3,500.
 
 To make a request:
@@ -88,9 +85,8 @@ To make a request:
 If you're requesting software that no one else at 18F uses yet, be sure you have written approval from [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://gsa-tts.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
 
 If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
-=======
+
 #### Chicago or San Francisco
->>>>>>> master
 
 Reach out to Ethan Heppner (Chicago) or Victor Valdiviezo (San Francisco) via email or Slack, they will assist you as soon as they are available.
 
