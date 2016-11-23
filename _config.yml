@@ -116,9 +116,6 @@ navigation:
     - text: Product and open source
       url: intro-to-product-and-open-source/
       internal: true
-    - text: Purchase requests
-      url: purchase-requests/
-      internal: true
     - text: Social media
       url: social-media/
       internal: true
@@ -233,6 +230,9 @@ navigation:
   - text: One-on-ones
     url: one-on-ones/
     internal: true
+  - text: Purchase requests
+    url: purchase-requests/
+    internal: true    
   - text: Sensitive information
     url: sensitive-information/
     internal: true
