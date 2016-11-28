@@ -22,13 +22,13 @@ It will open the app following installation, where you can set your defaults.
 ## How to create a Zoom account
 
 Go into the [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf) channel and ask @erik. 
-He will log into 18F Zoom console and send you an invite via email. Click on the link to accept the
-invitaion, set your password, and log in. 
+He will log into 18F Zoom console and send you an invitation via email. Click on the link to accept
+the invitation, set your password, and log in. 
 
 Alternatively, you can create your own account [here](https://zoom.us/signup). However, if you 
 think that you will ever need to host a meeting longer than 40 minutes, you should just request 
-an invite so that you belong tothe 18F organiztion. If you already have an account, you can still
-be added to the 18F organization at a future point in time. 
+an invitation so that you belong to the 18F organization. If you already have an account, you
+can still be added to the 18F organization in the future. 
 
 ## How to host a meeting
 
@@ -65,12 +65,12 @@ after you, you will likely remain in Pro status until the following morning.
 
 To schedule a meeting, please post your request in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
 The request should include the date, time, and applicable time zone. If your meeting is recurring, 
-please include the end date. At this time, no recurring meetings are being schedule beyond December 2017. 
-At this time, please revalidate the meeting request in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
+please include the end date. At this time, no recurring meetings are being scheduled beyond December 2017. 
+Please revalidate the meeting request in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
 
 ### Frequently Asked Questions
 
-Q: If I am hosting a Free meeting and it looks like it will go long, can you promote me to free? 
+Q: If I am hosting a Free meeting and it looks like it will go long, can you promote me to Pro? 
 A: No. Once your meeting has started, it will not convert to a Pro meeting without restaring the meeting. 
 That being said, Pro meetings will convert to Free if the license is needed elsewhere. 
 
