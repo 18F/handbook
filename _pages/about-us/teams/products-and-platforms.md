@@ -13,13 +13,13 @@ Here are the projects we've worked on:
 
 * [Federalist](https://federalist.18f.gov), which allows partners to build customizable and easy-to-maintain static sites.
 
-* With partners in TTS, [api.data.gov](https://api.data.gov), which helps with API management.
+* With partners in [TTS](http://www.gsa.gov/portal/category/25729), [api.data.gov](https://api.data.gov), which helps with API management.
 
 * 18F's work on the [eRegs platform](https://eregs.github.io/) with various partners.
 
-* With partners in TTS, the [Draft U.S. Web Design Standards](https://standards.usa.gov/): open-source UI components and visual styles to create beautiful, consistent experiences across federal government websites.
+* With partners in [TTS](http://www.gsa.gov/portal/category/25729), the [Draft U.S. Web Design Standards](https://standards.usa.gov/): open-source UI components and visual styles to create beautiful, consistent experiences across federal government websites.
 
-* With partners in TTS, [Fugacious](https://fugacious.18f.gov/), which helps securely transmit information.
+* With partners in [TTS](http://www.gsa.gov/portal/category/25729), [Fugacious](https://fugacious.18f.gov/), which helps securely transmit information.
 
 ## Team structure
 
