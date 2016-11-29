@@ -11,8 +11,8 @@ Zoom lives on the web at https://zoom.us/
 ## Setup
 
 If you've been invited to a Zoom meeting, you've likely been given a `zoom.us` URL. Clicking
-that URL will take you a page that lets you join the meeting using your web browser, or
-downloading the Zoom client app for your computer. We generally recommend installing the native 
+that URL will take you to a page that lets you join the meeting using your web browser or to
+download the Zoom client app for your computer. We generally recommend installing the native 
 client if you have time, as it's often smoother and faster to use than the web client.
 
 To install the client natively on your Mac, download it [here](https://zoom.us/client/latest/zoomusInstaller.pkg)
@@ -58,10 +58,7 @@ this means to you is that longer meetings need to be scheduled and are generally
 first served" scenario. Zoom meetings are tracked on a Google Calendar called "Zoom Scheduling." 
 
 On the morning of your meeting, Infrastructure will promote your account to Pro Status. If there are multiple 
-meetings scheduled that day, your account will be promoted as soon as the Pro account is available. For 
-scheduling purposes, we try schedule 30 minutes on each side of the requested time. This will allow you
-ample setup time as well as padding in the event that your meeting runs long. If no one is scheduled 
-after you, you will likely remain in Pro status until the following morning. 
+meetings scheduled that day, your account will be promoted as soon as the Pro account is available. We try to schedule 30 minutes on each side of the requested time to allow you ample setup time as well as padding in the event that your meeting runs long. If no one is scheduled after you, you will likely remain in Pro status until the following morning. 
 
 To schedule a meeting, please post your request in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
 The request should include the date, time, and applicable time zone. If your meeting is recurring, 
