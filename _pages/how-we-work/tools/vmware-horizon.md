@@ -19,11 +19,10 @@ New employees should have a GSA VMware myView/Horizon account, but if not:
 ## Usage
 
 1. Once you have access, you can use myView through the web client or install the software from [https://horizon.gsa.gov/](https://horizon.gsa.gov/).
-2. When using the installed software (VMWare Horizon Client), you will be prompted for "the name of the Connection Server"—enter **horizon.gsa.gov**.
-3. Log into [otp.gsa.gov](https://otp.gsa.gov) with 2-factor authentication so you can get a code to enter at horizon.gsa.gov along with your GSA password.
+1. When using the installed software (VMWare Horizon Client), you will be prompted for "the name of the Connection Server"—enter **horizon.gsa.gov**.
+1. Enter a [one time password](/distributed#otp).
 
 Note: myView/Horizon allows for a virtual desktop in browser with no downloads.
-
 
 #### Still have questions?
 
