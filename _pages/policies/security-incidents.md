@@ -4,7 +4,19 @@ title: Security incidents
 
 Something went "bump" in the night (or the day)? This document explains what to do when responding to a security incident. See [What is an incident?](#what-is-an-incident) if you need help determining whether something counts as an incident.
 
-## Reporting process
+## Reporting Phishing Emails
+If you receive a phishing email, follow these steps to report to GSA IT.
+
+1. Do not click any links in the email. Do not delete it yet. You may mark it as spam.
+2. If you can, click the `Show Original` option in the "triangle" menu associate with the email. This will open a new window with the Original Message above and the raw text of the email below.
+3. Click on the `Download Original` link halfway down the page and it will save text of the email to your disk.
+4. Forward the email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov and attach the original text you downloaded.
+5. Report the phishing email in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
+6. Following notification to GSA, IT will create a ticket and may contact you for more information. If you were unable to retrieve the raw headers above, IT may need to access your computer to view the email.
+
+You might be tempted to simply mark phishing emails as spam and otherwise ignore them, but you should report them following the steps above. Phishing counts as a security incident and such attempts should be reported within an hour of you reading them. Your vigilance also helps GSA IT to prepare against similar phishing attacks that might be sent to other users.
+
+## Reporting Other Incidents
 To report a security incident, follow all of the steps below:
 
 1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov. You can use this
@@ -13,7 +25,7 @@ To report a security incident, follow all of the steps below:
 
 1. Report the incident in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 
-1. For anything that _isn't_ a phishing attempt, [send a Slack DM to Kimber Dowsett (@kimber)](https://gsa-tts.slack.com/messages/@kimber/), the 18F Infrastructure Security Architect, with a _very short description_ of the incident.
+1. [Send a Slack DM to Kimber Dowsett (@kimber)](https://gsa-tts.slack.com/messages/@kimber/), the 18F Infrastructure Security Architect, with a _very short description_ of the incident.
 
 1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible, excluding sensitive data**.
   * Keep this issue up to date with appropriately summarized actions or information from interactions with GSA.
@@ -25,7 +37,7 @@ To report a security incident, follow all of the steps below:
 1. If the incident involves [cloud.gov](https://cloud.gov/), start [following the additional checklist here](https://docs.cloud.gov/ops/security-ir-checklist/).
 
 1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov), but try to drive as much of the conversation back to [#incident-response](https://gsa-tts.slack.com/messages/incident-response) in Slack as possible.
- 
+
 Please note that incidents need to be reported *within one hour* of being identified. This isn't "within an hour of happening", but "within one hour of you becoming aware of the incident". The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 
 ## What is an incident?
