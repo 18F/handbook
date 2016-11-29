@@ -33,7 +33,7 @@ Management holds weekly open meetings to share informal updates and hear your co
 
 ## <a id="all-hands">All hands</a>
 
-Our weekly all-hands meeting includes everyone across 18F, and it's how the team disseminates news, updates, and congratulations. It takes place on Tuesdays at 12:30 EST. You aren't required to attend the all hands, but you are strongly encouraged to -- it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in #news, and you can add to it by contacting [Leah Gitter](https://gsa-tts.slack.com/messages/@leahgitter/). Leah also takes and posts notes from the all-hands meeting.
+Our weekly all-hands meeting includes everyone across 18F, and it's how the team disseminates news, updates, and congratulations. It takes place on Tuesdays at 12:30 EST. You aren't required to attend the all hands, but you are strongly encouraged to -- it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in #news, and you can add to it by contacting [Qituwra Anderson](https://gsa-tts.slack.com/messages/@qituwra/). Qituwra also takes and posts notes from the all-hands meeting.
 
 ## <a id="standups">Standups</a>
 
