@@ -42,7 +42,7 @@ Please note that incidents need to be reported *within one hour* of being identi
 
 ## What is an incident?
 
-First, it's important to note: it's always OK to err on the side of reporting! TTS's and GSA's IR teams are good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, *you'll never get in trouble for pinging IR at all*. The most effective security "early warning system" is attentive staff, so "report early, report often"!
+First, it's important to note: it's always OK to err on the side of reporting! [TTS](http://www.gsa.gov/portal/category/25729)'s and GSA's IR teams are good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, *you'll never get in trouble for pinging IR at all*. The most effective security "early warning system" is attentive staff, so "report early, report often"!
 
 On to the answer to "what is an incident?": in a nutshell, an incident is anything that compromises (or could compromise) our "CIA": **Confidentiality, Integrity, or Availability.**
 
