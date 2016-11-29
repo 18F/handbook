@@ -21,7 +21,7 @@ Most employees at 18F are hired on term appointments under the Schedule A direct
 - A paragraph on the projects and programs your supervisor expects you to work on and in what capacity for your second term
 - How long you are renewing for since you do not have to renew for the full two years; you could renew for less time (such as 1 year, 6 months, or 1 month)
 
-3)  The Talent Team will forward the requests to the appropriate Assistant Commissioner and TTS Commissioner for approval.
+3)  The Talent Team will forward the requests to the appropriate Assistant Commissioner and [TTS](http://www.gsa.gov/portal/category/25729) Commissioner for approval.
 
 4)  Talent will notify your supervisor of the decision within 2 weeks from submission to the Commissioners.
 
