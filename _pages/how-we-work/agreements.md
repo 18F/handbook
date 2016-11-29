@@ -82,7 +82,7 @@ The information below provides more detail than we typically give clients. Team 
 
 ### Internal Signature
 
-1. Team Ops obtains the TTS Commissioner's signature.
+1. Team Ops obtains the [TTS](http://www.gsa.gov/portal/category/25729) Commissioner's signature.
 1. Team Ops obtains the GSA CFO signature.
 
 ### Loading
