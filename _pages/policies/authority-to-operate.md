@@ -5,7 +5,7 @@ title: Authority to operate policy
 _This policy outlines how we authorize systems to go live in production._
 
 ## Purpose
-This policy modifies the responsibilities of Authorizing Officials in the Technology Transformation Service (TTS), the organization previously known as OCSIT/18F.
+This policy modifies the responsibilities of Authorizing Officials in the Technology Transformation Service ([TTS](http://www.gsa.gov/portal/category/25729)), the organization previously known as OCSIT/18F.
 
 ## Authority
 
