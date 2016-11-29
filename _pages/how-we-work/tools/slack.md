@@ -20,7 +20,7 @@ Because Slack is a web application, there’s no installation necessary. You can
 
 ## Usage of TTS's Slack
 
-Slack is required for all TTS staff. We can also invite people outside TTS to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from Infrastructure. These users may include:
+Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff. We can also invite people outside TTS to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from Infrastructure. These users may include:
 
 - Vendors _under contract_ (not just a Terms of Service) with TTS
 - Vendors with GSA who are working on a project with TTS, for which we have an Memorandum of Understanding (MOU)
@@ -51,7 +51,7 @@ Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a projec
 
 ### The public
 
-TTS has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
+[TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
 
 #### Inviting
 
@@ -95,7 +95,7 @@ Note this is only necessary for new bots or *types* of integrations—approval i
 
 Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-tts.slack.com/help/requests/new) for help.
 
-New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the TTS Slack, fill out the form.
+New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the [TTS](http://www.gsa.gov/portal/category/25729) Slack, fill out the form.
 
 Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreadsheets/d/1karb4OJPFga493-3bnuWFvhFuk18iFlvz-xWC8ZedSQ/edit#gid=161327310). The form can be edited [here](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit).
 
