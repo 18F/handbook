@@ -163,7 +163,7 @@ If you need to reset your ENT password, you can let your password expire and the
 6. On the Enter &ldquo;Meeting Information page,&rdquo; scroll down to Audio Conference Settings and click Manage Audio Profiles. You should see a table on the left-hand side of the screen that lists an audio profile (with a name along the lines of GSA Meeting Space Audio Profile).
 7. If the table is empty, your profile hasn't been created yet. Otherwise, click the audio profile name to see your conference line number and passcodes.
 
-While this process can take up to eight days, the upshot is that your conference number is permanent! Yours to keep, forever.
+While this process can take up to eight days, the upshot is that your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you *do not* need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code.
 
 ## <a id="online-university">Online University</a>
 
