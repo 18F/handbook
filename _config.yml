@@ -311,7 +311,7 @@ navigation:
   generated: true
   children:
   - text: Business/Tech
-    url: tools/
+    url: business/
     internal: true
     generated: true
   - text: Account management policy
@@ -330,7 +330,7 @@ navigation:
     url: security-incidents/
     internal: true   
   - text: Talent/Ops
-    url: tools/
+    url: talent/
     internal: true
     generated: true
   - text: ALOHA/ETAMS reconciliation feature
