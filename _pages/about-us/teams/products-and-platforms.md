@@ -1,9 +1,11 @@
 ---
 title: Products and Platforms
 ---
-Products and Platforms is one of the 5 business units within 18F. We strive to incubate tools for digital government.
+Products and Platforms is one of the five business units within 18F. We strive to incubate tools for digital government.
 
 ## Projects
+
+Here are the projects we've worked on: 
 
 * [cloud.gov](https://cloud.gov).
 
@@ -11,17 +13,17 @@ Products and Platforms is one of the 5 business units within 18F. We strive to i
 
 * [Federalist](https://federalist.18f.gov), which allows partners to build customizable and easy-to-maintain static sites.
 
-* With partners in TTS, [api.data.gov](https://api.data.gov), which helps with API management.
+* With partners in [TTS](http://www.gsa.gov/portal/category/25729), [api.data.gov](https://api.data.gov), which helps with API management.
 
 * 18F's work on the [eRegs platform](https://eregs.github.io/) with various partners.
 
-* With partners in TTS, the [Draft US Web Design Standards](https://standards.usa.gov/): open-source UI components and visual styles to create beautiful, consistent experiences across federal government websites.
+* With partners in [TTS](http://www.gsa.gov/portal/category/25729), the [Draft U.S. Web Design Standards](https://standards.usa.gov/): open-source UI components and visual styles to create beautiful, consistent experiences across federal government websites.
 
-* With partners in TTS, [Fugacious](https://fugacious.18f.gov/), which helps to securely transmit information.
+* With partners in [TTS](http://www.gsa.gov/portal/category/25729), [Fugacious](https://fugacious.18f.gov/), which helps securely transmit information.
 
-## Team Structure
+## Team structure
 
-* Acting Director: Will Slack
+* Acting director: Will Slack
 
 * Team members:
 
@@ -39,9 +41,9 @@ We promise to support teams on P&P projects with meaningful and impactful work. 
 
 * Empower and support project owners to deliver strong products.
 
-* Maintain clear expectations with projects
+* Maintain clear expectations about projects.
 
-* Be available for questions large and small
+* Make ourselves available to answer questions large and small.
 
 ## Communication
 
@@ -51,7 +53,7 @@ If you're a P&P project lead, expect to:
 
 * Report weekly on your project's status, blockers, and financial status via the weekly meeting agenda.
 
-* Be involved in the staffing process
+* Be involved in the staffing process outlined [here](https://github.com/18F/staffing-and-resources/wiki).
 
 ## Where you can reach us
 
