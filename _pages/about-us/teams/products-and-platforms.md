@@ -53,7 +53,7 @@ If you're a P&P project lead, expect to:
 
 * Report weekly on your project's status, blockers, and financial status via the weekly meeting agenda.
 
-* Be involved in the staffing process.
+* Be involved in the staffing process outlined [here](https://github.com/18F/staffing-and-resources/wiki).
 
 ## Where you can reach us
 
