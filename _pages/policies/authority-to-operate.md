@@ -1,5 +1,5 @@
 ---
-title: Authority to operate policy
+title: Authority To Operate (ATO) Policy
 ---
 
 _This policy outlines how we authorize systems to go live in production._
