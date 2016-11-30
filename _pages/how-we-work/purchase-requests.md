@@ -15,7 +15,7 @@ You'll then be able to proceed to make either an event request (for trainings an
 
 * [Trainings and conferences](/purchase-requests/#trainings-and-conferences)
 * [Business cards](/purchase-requests/#business-cards)
-* [Office supplies]((/purchase-requests/#office-supplies)
+* [Office supplies](/purchase-requests/#office-supplies)
 * [Mice, keyboards, and trackpads](/equipment/#mice-keyboards-and-trackpads)
 * [Software](/purchase-requests/#software) [(not currently in the 18F library)](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0)
 * [Equipment repair (laptop or phone)](/equipment/#repairs)
