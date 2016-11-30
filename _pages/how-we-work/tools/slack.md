@@ -61,6 +61,16 @@ To invite people to a public Slack channel, send them to [chat.18f.gov](https://
 
 See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
+## Slack Admins
+
+Here are the resources used by Slack Admins to track and manage Slack accounts:
+
+* Subscribe to responses for the following forms ([screen capture](https://cl.ly/03100Y0u2v2i))
+  * [New user requests (internal)](https://docs.google.com/a/gsa.gov/forms/d/1dWZKipn8YJdfZvYk1ZhbSXF5xXSVMXRlIOvarJoIZok/edit#responses)
+  * [New public user requests (external)](https://docs.google.com/a/gsa.gov/forms/d/1vcsvQ64qt5mYNyVajcwtYDRMqEOyPzsXZBGM5c4_BD8/edit#responses)
+  * [Integration requests](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit#responses)
+* [Delegation of functionality](https://docs.google.com/a/gsa.gov/document/d/1gDuScce7R6q6NqQPPS3cFe3dZFYO_ZEp60dmuzVDYwg/edit?usp=sharing)
+
 ## Records policy
 
 Per the mandatory [General Records Schedule 3.1](http://www.archives.gov/records-mgmt/memos/ac33-2014.html) issued by the National Archives and Records Administration (NARA), everything in Slack channels and groups is considered at minimum a temporary record.
