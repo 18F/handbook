@@ -47,7 +47,31 @@ If you are new to mentorship you may find some of this information useful in hel
 
 ### Goal setting
 
-Here are some things to consider when setting overall goals for your mentoring experience:
+*"SMART" goals* are a valuable framework for setting and successfully achieving effective goals. The idea is that goals should be:
+* Specific,
+* Measurable,
+* Actionable,
+* Realistic, and
+* Time-bound
+
+By using this framework, you can transform goals from vague, unrealistic or difficult to achieve to precise and effective.
+
+When setting a goal, check whether it's:
+*Specific:* The goal should be clear and well-defined.
+*Measurable:* It should be possible to know when you've achieved your goal.
+*Actionable:* It should be something you can take action on now.
+*Realistic:* It should be possible within the bounds of your available time and resources.
+*Time-bound:* There should be a deadline. (See 'realistic' again. :) )
+
+So instead of:
+`My goal is to get better at Python.`
+
+You might try:
+`My goal is to read one Python-related book every month.`, or
+`My goal is to give a technical talk on an unfamiliar subject at a local Python meetup by the end of next quarter.`, or
+`My goal is to submit or review one pull request per week on an open-source Python project.`
+
+Additional factors to consider when setting overall goals for your mentoring experience include:
 
 * Creating space for a strong relationship to form and hopefully extend beyond the pilot and possibly even 18F
 * Alignment with project work for any actual task-oriented activities
