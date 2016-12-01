@@ -80,7 +80,7 @@ The default template for CivicActions engineers is to be committed to a single p
 
 Your project commitments should be captured in [Float](/float/). On a typical week the number of hours you work on your project will match what is marked in Float. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
 
-All CivicActions staff track their time in [Tock](https://tock.CivicActions.com/). Learn more in the [Tock guide](/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
+All CivicActions staff track their time in [Tock](https://tock.civicactions.com/). Learn more in the [Tock guide](/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
 
 ### I’m interested in working on a different or additional project. How can I do that?
 

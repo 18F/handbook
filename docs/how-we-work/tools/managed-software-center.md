@@ -19,7 +19,7 @@ This software requires a restart after installation, so be sure to save all of y
 1. Open the Terminal.
 2. Copy the text below, paste it into the Terminal window, and press **Return**:
 ``` 
-curl https://munki.CivicActions.com/munki.sh | sudo sh
+curl https://munki.civicactions.com/munki.sh | sudo sh
 ```
 3. Enter your password to install some system preferences.
 4. Press **Command-Q** to quit Terminal and click **Close** to confirm.

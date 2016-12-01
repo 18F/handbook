@@ -43,7 +43,7 @@ All CivicActions employees are issued an Apple iPhone. The Ops Team will already
 
 ### Rules
 
-- GSA IT will ask for your Apple ID and password. **Do not send your personal Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA email address, or set one up for yourself and use [Fugacious](https://fugacious.CivicActions.com/) to send them your password securely. (Never share passwords over email.)
+- GSA IT will ask for your Apple ID and password. **Do not send your personal Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA email address, or set one up for yourself and use [Fugacious](https://fugacious.civicactions.com/) to send them your password securely. (Never share passwords over email.)
 
 - **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
 
@@ -61,18 +61,18 @@ All CivicActions employees are issued an Apple iPhone. The Ops Team will already
 
 Different CivicActions team members have different solutions for business cards. At this time, you must purchase your own business cards if you want CivicActions branding.
 
-You can request [GSA business cards](https://cap.CivicActions.com/gsacivicactions/procurements/new), which are free and don't reflect CivicActions's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
+You can request [GSA business cards](https://cap.civicactions.com/gsacivicactions/procurements/new), which are free and don't reflect CivicActions's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
 
 ## Requests
 
-Ops is testing [C2](https://cap.CivicActions.com) for requesting office supplies, computer hardware, approved software, trainings, and other items under $3,500.
+Ops is testing [C2](https://cap.civicactions.com) for requesting office supplies, computer hardware, approved software, trainings, and other items under $3,500.
 
 To make a request:
 
 1. Check [the list of CivicActions's purchased software](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) to see if we have accounts/licenses already.
     1. If yes, reach out to the person/team listed for that item to get access. You/they may need to come back here to request more seats.
     1. If no, keep going!
-1. Open [cap.CivicActions.com](https://cap.CivicActions.com/).
+1. Open [cap.civicactions.com](https://cap.civicactions.com/).
 1. Click **Sign in with MyUSA** to connect with Google.
 1. Scroll down and click **Allow**.
 1. Once you’re logged in, click **New CivicActions request** to create and submit your request. If you don't see this link, it's possible that you haven't been set up as a member of CivicActions yet. Post a request in #c24ops for access or if you have any questions about how to use C2.
@@ -91,7 +91,7 @@ GSA provides equipment to accommodate an injury or disability under these condit
 - You have supporting medical documentation for the need for a certain piece of equipment.
 - You only need the equipment to do your work.
 
-To purchase this type of equipment, go to <https://cap.CivicActions.com/> and attach a doctor's note. If you have questions, ask in [#equipment](https://civicactions.slack.com/messages/equipment).
+To purchase this type of equipment, go to <https://cap.civicactions.com/> and attach a doctor's note. If you have questions, ask in [#equipment](https://civicactions.slack.com/messages/equipment).
 
 ## Repairs
 

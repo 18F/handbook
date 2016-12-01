@@ -22,13 +22,13 @@ An IAA is made up of:
 
 - [7600A General Terms and Conditions](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/forms/IAA-general-terms-condition-ver6-09-23-11.pdf): This form records an estimated amount and agreement period. Neither the amount nor the agreement period may be exceeded by the cumulative 7600Bs issued under the 7600A. However, this amount and period are merely estimates.
 
-- [CivicActions standard terms](https://pages.CivicActions.com/iaa-forms/attachment-a.html): This document is attached to all 7600As. It contains multiple provisions, with the two most important being our commitment to open source work and our communication clause informing clients that we may blog about them.
+- [CivicActions standard terms](https://pages.civicactions.com/iaa-forms/attachment-a.html): This document is attached to all 7600As. It contains multiple provisions, with the two most important being our commitment to open source work and our communication clause informing clients that we may blog about them.
 
 - [7600B Order Requirements and Funding Information](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/forms/IAA-Order-7600B-10-10-12-update.pdf): This form records the actual amount obligated<sup>1</sup> in the agreement by the client agency and a period of performance for the specific project. The funding information for each agency is recorded, including the expiration of the funding appropriation. This information is vital to ensuring the agreement meets applicable appropriations laws. There can be multiple 7600Bs under a 7600A, but the total cost of the 7600Bs cannot exceed the estimated amount on the 7600A, nor can the period of performance exceed the end date in the 7600A.
 
 - [Statement of Work](https://docs.google.com/document/d/1pbJMDmFBFYKs1sU05jrxWFySpeKjbRNdfk32RY3ub70/edit) (SOW): This document is an attachment to the 7600B and describes the need of the client for CivicActions's services and the actual deliverables that will be provided by CivicActions. These deliverables are specific while adhering to agile principles. Team Ops has multiple templates drafted for use by product leads.
 
-- [Financial information](https://pages.CivicActions.com/iaa-forms/attachment-b.html): This is an attachment to the 7600B and describes items CivicActions can bill to the client in every agreement. It is boilerplate language.
+- [Financial information](https://pages.civicactions.com/iaa-forms/attachment-b.html): This is an attachment to the 7600B and describes items CivicActions can bill to the client in every agreement. It is boilerplate language.
 
 ## Agreements Kanban Board
 
@@ -38,7 +38,7 @@ The agreements team maintains an Kanban board for agreements in the DC office. E
 
 Follow the steps below. The process usually takes 30 days, and largely depends on how quickly the client provides the required information; you complete a statement of work; and the Office of General Counsel (OGC) reviews the agreement. Some agreements can take as few as 10 days, while others take up to 90 days.
 
-The information below provides more detail than we typically give clients. Team Ops maintains a [client-facing agreements site](https://pages.CivicActions.com/iaa-forms/) that presents a simpler process.
+The information below provides more detail than we typically give clients. Team Ops maintains a [client-facing agreements site](https://pages.civicactions.com/iaa-forms/) that presents a simpler process.
 
 ### Qualification
 

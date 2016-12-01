@@ -49,4 +49,4 @@ Please note that you might not have much assigned work during your first week he
 
 ### Product lead guide
 
-The [product lead guide](https://pages.CivicActions.com/product-guide/) serves as a handbook for new product team members. It has details about the roles a product lead might play, along with lots of helpful information about the delivery lifecycle.
+The [product lead guide](https://pages.civicactions.com/product-guide/) serves as a handbook for new product team members. It has details about the roles a product lead might play, along with lots of helpful information about the delivery lifecycle.

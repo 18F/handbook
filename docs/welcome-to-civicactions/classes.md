@@ -21,7 +21,7 @@ CivicActions is a distributed team, and we’ve developed strategies for working
 **When:** Third Monday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#distributed](https://civicactions.slack.com/messages/distributed)
 
-### <a id="intake" href="https://pages.CivicActions.com/intake/">Project intake</a>
+### <a id="intake" href="https://pages.civicactions.com/intake/">Project intake</a>
 
 Intake is run by the Business Strategy Team with help from many of you! Learn how the process works and how CivicActions decides what to take on.
 

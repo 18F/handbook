@@ -130,14 +130,14 @@ document.addEventListener('DOMContentLoaded', function() {
       'github.com/CivicActions/DevOps',
       'github.com/CivicActions/Infrastructure',
       'github.com/CivicActions/staffing-and-resources',
-      'github.com/CivicActions/team-api.CivicActions.com',
+      'github.com/CivicActions/team-api.civicactions.com',
       'github.com/CivicActions/writing-lab',
       'gkey.gsa.gov',
       'gsa.my.salesforce.com',
       'insite.gsa.gov',
       'mail.gsa.gov',
-      'pages-internal.CivicActions.com',
-      'tock.CivicActions.com'
+      'pages-internal.civicactions.com',
+      'tock.civicactions.com'
     ]
   });
 }, false );

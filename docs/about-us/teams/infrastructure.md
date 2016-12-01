@@ -78,7 +78,7 @@ Here are some common tools we use, how we use them, and how you can get access t
 * Pingdom
 * StatusPage
 * InVision
-* Amazon Web Services: See the [“Before you ship” guide to AWS](https://pages.CivicActions.com/before-you-ship/infrastructure/aws/).
+* Amazon Web Services: See the [“Before you ship” guide to AWS](https://pages.civicactions.com/before-you-ship/infrastructure/aws/).
 * [Cloud.gov](https://cloud.gov/)
 
 ## <a id="documentation">Documentation</a>
@@ -86,4 +86,4 @@ Here are some common tools we use, how we use them, and how you can get access t
 ### <a id="stuff-we-maintain">Stuff we maintain</a>
 
 * [Cloud.gov](https://cloud.gov/) – see [the team overview](https://github.com/CivicActions/cg-product/blob/master/Onboarding.md)
-* [Before you ship](https://pages.CivicActions.com/before-you-ship/)
+* [Before you ship](https://pages.civicactions.com/before-you-ship/)

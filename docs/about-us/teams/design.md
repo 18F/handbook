@@ -16,16 +16,16 @@ CivicActions Design provide design as a service to the rest of the organization,
 
 - [Experience Design capabilities](https://docs.google.com/presentation/d/1aOeq5SsLSMhskchlJRtSLQ28OcIzAQgkanyDZy7bPiU/edit)
 - [Experience Design org chart](https://docs.google.com/presentation/d/1A5hAu_qKmaOUB_TRhyoC7FNe30zB2Xwlio6nm1hipZk/edit)
-- [CivicActions Brand Toolkit](https://pages.CivicActions.com/brand/)
-- [CivicActions Content Guide](https://pages.CivicActions.com/content-guide/)
-- [CivicActions Frontend Style Guide](https://pages.CivicActions.com/frontend/)
-- [Design method cards](https://methods.CivicActions.com/)
+- [CivicActions Brand Toolkit](https://pages.civicactions.com/brand/)
+- [CivicActions Content Guide](https://pages.civicactions.com/content-guide/)
+- [CivicActions Frontend Style Guide](https://pages.civicactions.com/frontend/)
+- [Design method cards](https://methods.civicactions.com/)
 
 ### <a id="suggested-reading">Suggested reading</a>
 
-- [CivicActions Partnership Playbook](https://pages.CivicActions.com/partnership-playbook/)
-- [Lean product design guide](https://pages.CivicActions.com/lean-product-design/)
-- [Accessibility guide](https://pages.CivicActions.com/accessibility/)
+- [CivicActions Partnership Playbook](https://pages.civicactions.com/partnership-playbook/)
+- [Lean product design guide](https://pages.civicactions.com/lean-product-design/)
+- [Accessibility guide](https://pages.civicactions.com/accessibility/)
 
 ## Communication
 
@@ -158,9 +158,9 @@ And one more thing: before you start using any new tool that asks for access to 
 We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
 
 - **Frameworks:** the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. We don’t mandate using this, but it’s a good place to start.
-- **Type:** We don’t mandate using typefaces from the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/), but it’s a good place to start. [Google’s collection of open-source typefaces](https://pages-staging.CivicActions.com/govt-wide-patternlibrary/elements/) is also helpful.
+- **Type:** We don’t mandate using typefaces from the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/), but it’s a good place to start. [Google’s collection of open-source typefaces](https://pages-staging.civicactions.com/govt-wide-patternlibrary/elements/) is also helpful.
 - **Icons:**
-  - Each [CivicActions presentation theme](https://pages.CivicActions.com/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#civicactions-branding](https://civicactions.slack.com/messages/civicactions-branding) if you need to use more/different ones...and be prepared to explain why!
+  - Each [CivicActions presentation theme](https://pages.civicactions.com/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#civicactions-branding](https://civicactions.slack.com/messages/civicactions-branding) if you need to use more/different ones...and be prepared to explain why!
   - For a larger (and open-source!) set of icons, [Font Awesome](http://fortawesome.github.io/Font-Awesome/get-started/) is a starter kit. [The Noun Project](https://thenounproject.com/) has a number of open-source icons as well. If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
 - **Images:** Most images published by government agencies are in the public domain and thus free to use.
   - USA.gov has [an image search](https://search.usa.gov/search/images?affiliate=usagov) for such photos.
@@ -178,7 +178,7 @@ We default to free and open-source assets, unless there is a very, very good rea
 
 ## Designing in the open
 
-[CivicActions values transparency](https://pages.CivicActions.com/core-values/transparency/). We try to design in the open, which means trying to make as much documentation and decision-making as possible accessible to the public. Designing in the open means that expectations from private sector about confidentiality, disclosure, and intellectual property don’t hold true here.
+[CivicActions values transparency](https://pages.civicactions.com/core-values/transparency/). We try to design in the open, which means trying to make as much documentation and decision-making as possible accessible to the public. Designing in the open means that expectations from private sector about confidentiality, disclosure, and intellectual property don’t hold true here.
 
 Here are some of our rules of thumb:
 

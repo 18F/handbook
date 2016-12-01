@@ -47,5 +47,5 @@ This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https:/
 
 ### <a id="previous-projects">What has the Writing Lab worked on in the past?</a>
 
-Feel free to peruse the [issues associated with the Writing Lab repository](https://github.com/CivicActions/writing-lab/issues). Also, if you haven’t had a chance to check out the [CivicActions Content Guide](https://pages.CivicActions.com/content-guide/) yet, that’s a great place to go to familiarize yourself with our style.
+Feel free to peruse the [issues associated with the Writing Lab repository](https://github.com/CivicActions/writing-lab/issues). Also, if you haven’t had a chance to check out the [CivicActions Content Guide](https://pages.civicactions.com/content-guide/) yet, that’s a great place to go to familiarize yourself with our style.
 

@@ -7,29 +7,29 @@ Links to websites we use regularly.
 ## CivicActions
 
 * [CivicActions Handbook](/)
-* [CivicActions Brand Toolkit](https://pages.CivicActions.com/brand/)
+* [CivicActions Brand Toolkit](https://pages.civicactions.com/brand/)
 * [CivicActions Press Resources](https://civicactions.gsa.gov/press/)
 * [CivicActions Site](https://civicactions.gsa.gov/)
 * [Help wanted](https://github.com/search?q=user%3Acivicactions+label%3A%22help+wanted%22+is%3Aopen): open GitHub issues from your colleagues
 
 ### Guides and standards
 
-* [CivicActions Guides](https://pages.CivicActions.com/guides/)
-* [Accessibility](https://pages.CivicActions.com/accessibility/)
+* [CivicActions Guides](https://pages.civicactions.com/guides/)
+* [Accessibility](https://pages.civicactions.com/accessibility/)
 * [Analytics](https://github.com/CivicActions/analytics-standards)
-* [Amazon Web Services](https://pages.CivicActions.com/before-you-ship/infrastructure/aws/)
+* [Amazon Web Services](https://pages.civicactions.com/before-you-ship/infrastructure/aws/)
 * [API standards](https://github.com/CivicActions/api-standards)
-* [Automated testing playbook](https://pages.CivicActions.com/automated-testing-playbook/)
-* [Before you ship guide](https://pages.CivicActions.com/before-you-ship/)
-* [Blogging guide](https://pages.CivicActions.com/blogging-guide/)
-* [Content guide](https://pages.CivicActions.com/content-guide/)
-* [Development environment guide](https://pages.CivicActions.com/dev-environment/)
-* [Frontend guide](https://pages.CivicActions.com/frontend/)
-* [Grouplet playbook](https://pages.CivicActions.com/grouplet-playbook/)
-* [Lean product design](https://pages.CivicActions.com/lean-product-design/)
-* [Open source style guide](https://pages.CivicActions.com/open-source-guide/)
-* [Partnership playbook](https://pages.CivicActions.com/partnership-playbook/)
-* [Testing cookbook](https://pages.CivicActions.com/testing-cookbook/)
+* [Automated testing playbook](https://pages.civicactions.com/automated-testing-playbook/)
+* [Before you ship guide](https://pages.civicactions.com/before-you-ship/)
+* [Blogging guide](https://pages.civicactions.com/blogging-guide/)
+* [Content guide](https://pages.civicactions.com/content-guide/)
+* [Development environment guide](https://pages.civicactions.com/dev-environment/)
+* [Frontend guide](https://pages.civicactions.com/frontend/)
+* [Grouplet playbook](https://pages.civicactions.com/grouplet-playbook/)
+* [Lean product design](https://pages.civicactions.com/lean-product-design/)
+* [Open source style guide](https://pages.civicactions.com/open-source-guide/)
+* [Partnership playbook](https://pages.civicactions.com/partnership-playbook/)
+* [Testing cookbook](https://pages.civicactions.com/testing-cookbook/)
 
 ## Tools
 
@@ -37,7 +37,7 @@ Links to websites we use regularly.
 * [Google Calendar](https://calendar.gsa.gov/)
 * [Google Drive team folder](https://drive.google.com/drive/u/0/folders/0B84F26FpUP0lR1B2VVNGSi1MMVk)
 * [Slack](https://civicactions.slack.com)
-* [Tock](https://tock.CivicActions.com/): track your time
+* [Tock](https://tock.civicactions.com/): track your time
 * [Twitter](https://twitter.com/CivicActions/lists/team): follow your colleagues
 
 ### GSA tools

@@ -21,7 +21,7 @@ If you're not sure if you should merge something, ask for a second opinion in #c
 
 ## Styles
 
-This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should exemplify [best practices with regard to content](https://pages.CivicActions.com/content-guide/). Handbook content should be welcoming, personable, and free from jargon.
+This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should exemplify [best practices with regard to content](https://pages.civicactions.com/content-guide/). Handbook content should be welcoming, personable, and free from jargon.
 
 ## Public domain
 

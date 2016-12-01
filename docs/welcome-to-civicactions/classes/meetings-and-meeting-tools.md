@@ -13,7 +13,7 @@ Our agency maintains a formal meeting, conference, and event policy which may be
 
 Remember that you can book time on your own calendar. We recommend blocking off your own "free" time in two-to-four hour chunks to complete tasks.
 
-Also, meetings can and should be designed. If you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda. The [#wg-workshops](https://civicactions.slack.com/messages/workshops) Slack channel is a good place to ask for help about meeting design. You can also use the "Discover" and "Decide" methods from CivicActions's [Design Methods](https://methods.CivicActions.com/) as a starting point.
+Also, meetings can and should be designed. If you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda. The [#wg-workshops](https://civicactions.slack.com/messages/workshops) Slack channel is a good place to ask for help about meeting design. You can also use the "Discover" and "Decide" methods from CivicActions's [Design Methods](https://methods.civicactions.com/) as a starting point.
 
 ## <a id="townhalls">OCSIT/CivicActions Townhalls</a>
 

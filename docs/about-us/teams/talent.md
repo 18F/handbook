@@ -11,7 +11,7 @@ CivicActions Talent attracts the most passionate, talented individuals from acro
 - **Training & Development:** We help you further your professional development.
 - **Product & Process:** We work on our own processes to solve real problems and ensure that we are doing so in an agile and sustainable way.
 
-Our key pieces of documentation include [Joining CivicActions](https://pages.CivicActions.com/joining-civicactions/).
+Our key pieces of documentation include [Joining CivicActions](https://pages.civicactions.com/joining-civicactions/).
 
 ## Communication
 

@@ -159,9 +159,9 @@ Conferences, training at conferences, and training involving travel require Sale
 
 #### Does the training or conference require payment?
 
-For training requests that require payment, either a registration fee or tuition, you must submit a purchase request at <https://cap.CivicActions.com/>. [Pia](mailto: pia.scott@gsa.gov) will send you an email notification to clear you to make a purchase request via [C2](https://cap.CivicActions.com/), and cc <mailto:civicactions-purchasers@gsa.gov> to inform the Ops Team of the approval. Put in your request, including all of the relevant information to ensure Ops can make the purchase. For requests under $1,000, please attach a PDF version of your approved IDP (over $1,000 requires the SF-182 instead). Your request will receive a final review and approval by the director of operations or their designee. Upon their approval, Ops will arrange for payment and ensure you have the information you need for a successful training.
+For training requests that require payment, either a registration fee or tuition, you must submit a purchase request at <https://cap.civicactions.com/>. [Pia](mailto: pia.scott@gsa.gov) will send you an email notification to clear you to make a purchase request via [C2](https://cap.civicactions.com/), and cc <mailto:civicactions-purchasers@gsa.gov> to inform the Ops Team of the approval. Put in your request, including all of the relevant information to ensure Ops can make the purchase. For requests under $1,000, please attach a PDF version of your approved IDP (over $1,000 requires the SF-182 instead). Your request will receive a final review and approval by the director of operations or their designee. Upon their approval, Ops will arrange for payment and ensure you have the information you need for a successful training.
 
-If you’ve never used [C2](https://cap.CivicActions.com/) before, request to be set up as an CivicActions user by [creating a ticket](https://cap.CivicActions.com/feedback). Your account should be set up within one business day.
+If you’ve never used [C2](https://cap.civicactions.com/) before, request to be set up as an CivicActions user by [creating a ticket](https://cap.civicactions.com/feedback). Your account should be set up within one business day.
 
 In general, if training or conference purchase request is less than $1,000, it can be processed through an CivicActions purchase card. Confirmation of purchase will be used as receipt and no additional document from vendor is needed.
 
@@ -192,7 +192,7 @@ Then, you can go ahead and [Add new training request to existing SF-182](https:/
 
 Save your SF-182 request when finished. You will be notified automatically when it is approved.
 
-In the meantime, you can request an invoice from the training vendor, which should include all of the information necessary to process an electronic funds transfer (EFT), and complete a purchase request at <https://cap.CivicActions.com>. Please upload your invoice as well as your approved SF-182 to the purchase request so that the Operations team may review and approve.
+In the meantime, you can request an invoice from the training vendor, which should include all of the information necessary to process an electronic funds transfer (EFT), and complete a purchase request at <https://cap.civicactions.com>. Please upload your invoice as well as your approved SF-182 to the purchase request so that the Operations team may review and approve.
 
 #### Does the event cover registration, lodging, or food free of charge?
 

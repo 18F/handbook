@@ -12,7 +12,7 @@ Working groups and guilds are self-organized groups that improve practices, host
 
 **Guilds** are more permanent than working groups. They're either created by senior leadership, or working groups may ask senior leadership for guild status. Every guild has an executive sponsor. 
 
-CivicActions has a [playbook](https://pages.CivicActions.com/grouplet-playbook) with instructions on how to organize a working group or guild, how to maintain team cohesion, and how to produce artifacts. All groups have a Slack channel. Working-group related channels have a `wg-` in front of their name; guilds have a `g-` before the name. Feel free to jump into and out of any of the working group or guild channels to participate or ask questions. The [CivicActions Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) houses all formal meeting times for working groups and guilds.
+CivicActions has a [playbook](https://pages.civicactions.com/grouplet-playbook) with instructions on how to organize a working group or guild, how to maintain team cohesion, and how to produce artifacts. All groups have a Slack channel. Working-group related channels have a `wg-` in front of their name; guilds have a `g-` before the name. Feel free to jump into and out of any of the working group or guild channels to participate or ask questions. The [CivicActions Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) houses all formal meeting times for working groups and guilds.
 
 The Slack team for working group and guild leaders is `@wg-g-leads`
 
@@ -24,21 +24,21 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         <td class="col-grouplet"><strong><a id="accessibility">Accessibility</a></strong></td>
         <td class="col-description">
           We help CivicActions develop good, accessible products from the start of production in order to provide an excellent user experience for everyone. <br />
-          <a href="https://pages.CivicActions.com/accessbility/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-accessibility/">#g-accessibility</a>
+          <a href="https://pages.civicactions.com/accessbility/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-accessibility/">#g-accessibility</a>
         </td>
       </tr>
       <tr>
         <td class="col-grouplet"><strong><a id="agile">Agile</a></strong></td>
         <td class="col-description">
           We improve the quality and speed of service delivery through process improvement by encouraging the use of iterative methods in the research, planning, and development of solutions we implement. <br />
-          <a href="https://pages.CivicActions.com/agile/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-agile/">#g-agile</a>
+          <a href="https://pages.civicactions.com/agile/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-agile/">#g-agile</a>
         </td>
       </tr>
       <tr>
         <td class="col-grouplet"><strong><a id="analytics">Analytics</a></strong></td>
         <td class="col-description">
           Our mission is to integrate website analytics into all CivicActions projects. <br />
-          <a href="https://pages.CivicActions.com/analytics-standards/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-analytics/">#g-analytics</a>
+          <a href="https://pages.civicactions.com/analytics-standards/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-analytics/">#g-analytics</a>
         </td>
       </tr>
       <tr>
@@ -59,14 +59,14 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         <td class="col-grouplet"><strong><a id="content">Content</a></strong></td>
         <td class="col-description">
           We promote concise, elegant, user-centered writing. We plan for the creation, publication, and governance of useful, usable content. <br />
-          <a href="https://pages.CivicActions.com/content-guide/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-content">#g-content</a>
+          <a href="https://pages.civicactions.com/content-guide/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-content">#g-content</a>
         </td>
       </tr>
       <tr>
         <td class="col-grouplet"><strong><a id="core-values">Core Values</a></strong></td>
         <td class="col-description">
           We create a shared understanding of values that drive our work and continuously iterate on how our practices reflect those values. <br />
-          <a href="https://pages.CivicActions.com/core-values/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/wg-core-values">#wg-core-values</a>
+          <a href="https://pages.civicactions.com/core-values/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/wg-core-values">#wg-core-values</a>
         </td>
       </tr>
       <tr>
@@ -80,14 +80,14 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         <td class="col-grouplet"><strong><a id="documentation">Documentation</a></strong></td>
         <td class="col-description">
           We work to improve the comprehensiveness, quality, and tooling of documentation at CivicActions. <br />
-          <a href="https://pages.CivicActions.com/wg-documentation/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/wg-documentation">#wg-documentation</a>
+          <a href="https://pages.civicactions.com/wg-documentation/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/wg-documentation">#wg-documentation</a>
         </td>
       </tr>
       <tr>
         <td class="col-grouplet"><strong><a id="frontend">Front End</a></strong></td>
         <td class="col-description">
           We improve CivicActions front end code quality through camaraderie and guidelines. <br />
-          <a href="https://pages.CivicActions.com/frontend/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-frontend">#g-frontend</a> &bull; <a href="https://waffle.io/CivicActions/frontend"> Waffle Board</a>
+          <a href="https://pages.civicactions.com/frontend/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/g-frontend">#g-frontend</a> &bull; <a href="https://waffle.io/CivicActions/frontend"> Waffle Board</a>
         </td>
       </tr>
       <tr>
@@ -108,7 +108,7 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         <td class="col-grouplet"><strong><a id="testing">Testing</a></strong></td>
         <td class="col-description">
           We aim to ensure the long-term success of CivicActions development projects by cultivating the best automated testing tools, practices, and training materials. <br />
-          <a href="https://pages.CivicActions.com/wg-testing/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/wg-testing">#wg-testing</a>
+          <a href="https://pages.civicactions.com/wg-testing/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/wg-testing">#wg-testing</a>
         </td>
       </tr>
       <tr>
@@ -122,7 +122,7 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         <td class="col-grouplet"><strong><a id="working-groups">Working Groups</a></strong></td>
         <td class="col-description">
           We&rsquo;re dedicated to creating an environment in which working groups and guilds can thrive and have a meaningful impact on CivicActions deliverables and operations. <br />
-          <a href="https://pages.CivicActions.com/wg-working-groups/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/wg-working-groups">#wg-working-groups</a>
+          <a href="https://pages.civicactions.com/wg-working-groups/">Homepage</a> &bull; <a href="https://civicactions.slack.com/messages/wg-working-groups">#wg-working-groups</a>
         </td>
       </tr>
     </tbody>

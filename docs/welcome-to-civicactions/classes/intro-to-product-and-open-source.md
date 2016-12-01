@@ -24,7 +24,7 @@ Specifically, I&rsquo;m the Product Lead for [pulse.cio.gov](https://pulse.cio.g
 
 You can see who is on the Product Team [on the org chart](/org-chart).
 
-We also have a [Product Guide](https://pages.CivicActions.com/product-guide/).
+We also have a [Product Guide](https://pages.civicactions.com/product-guide/).
 
 ## <a id="open-source">Open source</a>
 
@@ -42,7 +42,7 @@ The last 5-6 years have seen a slow but steady growth in the government in the o
 - Using other open source projects
 - Contributing and being involved in open source communities
 
-The White House committed to publishing a government-wide open source policy this year, and the CTO Megan Smith&rsquo;s team is working on making that happen. We&rsquo;ve been doing our part by bringing together in one place [all of the resources that agencies find useful](http://pages.CivicActions.com/open-source-program/). Our team has also adopted a very strong [open source policy](/open-source).
+The White House committed to publishing a government-wide open source policy this year, and the CTO Megan Smith&rsquo;s team is working on making that happen. We&rsquo;ve been doing our part by bringing together in one place [all of the resources that agencies find useful](http://pages.civicactions.com/open-source-program/). Our team has also adopted a very strong [open source policy](/open-source).
 
 Everything we as a team do should be public and available for collaboration. An open source project isn’t just code - think of it as many forms of contribution working together, including documentation, support, design, and code.
 

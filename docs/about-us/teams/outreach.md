@@ -26,7 +26,7 @@ If you're a project manager or storyteller working on an CivicActions project, p
 Outreach is responsible for running the [CivicActions blog](https://civicactions.gsa.gov/blog). We use our blog to write about how we work, the culture of CivicActions, progress on our projects, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for CivicActions.
 The primary contacts for the blog are Andre Francisco and Greg Boone. We use a combination of a [private GitHub repo](https://github.com/civicactions/blog-drafts), a kanban board, and an [editorial calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_pkkbf53u1m6is9gi76v1l8i5j8%40group.calendar.google.com&ctz=America/New_York) to manage the blog editing and approval process. Blog posts are drafted in Google Docs, editing is managed in GitHub, the process is tracked with the kanban board, and posts are scheduled on the calendar. See how Outreach manages the kanban board (and CivicActions team members can find a link to the board) in this [policies and processes document](https://docs.google.com/a/gsa.gov/document/d/13M5b7DetlMGmhDAMwSV51M5ygA_Ci4loWD9wBcrt9NQ/edit?usp=sharing). We discuss all of this in the #blog Slack channel.
 
-Everyone at CivicActions is encouraged to write for the blog; you don’t have to be at CivicActions for a certain amount of time to have interesting ideas to share. Check out the [CivicActions Blogging Guide](https://pages.CivicActions.com/blogging-guide/), which lays out the process more formally, and can tell you more about our mission and process. We're happy to meet you wherever you are in the writing process.
+Everyone at CivicActions is encouraged to write for the blog; you don’t have to be at CivicActions for a certain amount of time to have interesting ideas to share. Check out the [CivicActions Blogging Guide](https://pages.civicactions.com/blogging-guide/), which lays out the process more formally, and can tell you more about our mission and process. We're happy to meet you wherever you are in the writing process.
 
 After you decide what you want to write about, your post can go in a few directions: a short update, a formal product launch, an educational series, a video, a Q&A session, etc. Blog posts don’t have to be long; 300 words is plenty. Finally, if you have something you’d like on the blog but writing isn’t your strong suit (or you don’t have the time), reach out in [#blog](https://civicactions.slack.com/archives/blog), and we can arrange for someone to interview you and write the post for you!
 
@@ -54,7 +54,7 @@ CivicActions also has an internal newsletter to keep you informed about what eve
 
 If you’re speaking at an event, ping us in [#outreach](https://civicactions.slack.com/archives/outreach) so we can provide you with team talking points, take a look at your presentation, and help you promote the event. If you've been asked to speak at an event or you want to submit a proposal, see the [Getting Event/Conference Approval](https://docs.google.com/document/d/1OjxymrHIU1VREv93HrG1sESzyrtx8B2kl_Ey4IL_4xc/edit) guide.
 
-If you’re looking for help with a slide deck for a presentation, you can find resources on the [CivicActions Branding site](https://pages.CivicActions.com/brand/presentation-themes/). We also have a couple previous decks that have ready-to-use slides about CivicActions’s history, the digital service ecosystem, and the basics of CivicActions’s model.
+If you’re looking for help with a slide deck for a presentation, you can find resources on the [CivicActions Branding site](https://pages.civicactions.com/brand/presentation-themes/). We also have a couple previous decks that have ready-to-use slides about CivicActions’s history, the digital service ecosystem, and the basics of CivicActions’s model.
 
 *[Adobe Digital Government Assembly](https://docs.google.com/presentation/d/1vE9yp92vx2ZCgEmb0xPEyZr6wUorzLjs5-APQjwN5vI/edit#slide=id.p)
 *[Tech Summit San Diego](https://docs.google.com/presentation/d/1gkqQsDdNAzoXm1kXgsOrUoNY8ObWHJWpHh1o30eo204/edit#slide=id.g11f3f786cd_0_0)
@@ -63,7 +63,7 @@ If you’re looking for help with a slide deck for a presentation, you can find 
 
 ## civicactions.gsa.gov
 
-Learn more about the technical details of civicactions.gsa.gov on the [GitHub and CivicActions website handbook page](https://handbook.CivicActions.com/github-and-civicactions-site/)
+Learn more about the technical details of civicactions.gsa.gov on the [GitHub and CivicActions website handbook page](https://handbook.civicactions.com/github-and-civicactions-site/)
 
 ---
 

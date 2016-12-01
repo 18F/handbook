@@ -6,11 +6,11 @@ We use Tock to track our time.
 
 ## Tock
 
-To facilitate our fee-for-service business model, CivicActions has developed its own timekeeping application called [Tock](https://tock.CivicActions.com/). You can access Tock by visiting [tock.CivicActions.com](https://tock.CivicActions.com), and I personally recommend bookmarking it for easy reference.
+To facilitate our fee-for-service business model, CivicActions has developed its own timekeeping application called [Tock](https://tock.civicactions.com/). You can access Tock by visiting [tock.civicactions.com](https://tock.civicactions.com), and I personally recommend bookmarking it for easy reference.
 
 CivicActions's business model is based on billing for time logged to a project. Every expense -- salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on -- is paid for by our billing, which is recorded by each person in Tock.
 
-We track each and every [project](https://tock.CivicActions.com/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
+We track each and every [project](https://tock.civicactions.com/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
 
 Tock looks like this: ![Screenshot of Tock]({{ site.baseurl}}/images/tock/tock.png)
 

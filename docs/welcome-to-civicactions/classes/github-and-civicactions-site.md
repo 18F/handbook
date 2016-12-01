@@ -20,7 +20,7 @@ Find us in Slack:
 
 - [GitHub](/github/) - A detailed guide on how we use GitHub at CivicActions.
 
-- [GitHub for Beginners](http://www.digitalgov.gov/event/github-for-beginners/) - Intended for beginners, this video class is led by Will Slack. Slides are available [here](https://pages.CivicActions.com/slides/github-basics/#/18) and course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
+- [GitHub for Beginners](http://www.digitalgov.gov/event/github-for-beginners/) - Intended for beginners, this video class is led by Will Slack. Slides are available [here](https://pages.civicactions.com/slides/github-basics/#/18) and course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
 
 - [How to use GitHub, the terminal, and the CivicActions site](https://civicactions.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) - This tutorial from Melody Kramer and Greg Boone walks you through using GitHub to contribute to our blog. It's intended for beginners, but includes tips for intermediate GitHub users, too.
 
@@ -42,7 +42,7 @@ If you&rsquo;re not a developer or came from a place that didn&rsquo;t use Git, 
 
 - **Repo** is short for repository, or a project on GitHub. Anybody at CivicActions can create repos in the CivicActions organization and you should _always_ create new projects as CivicActions, not as yourself. You can create new repos in GitHub by clicking the + next to your profile picture. Then, choose New Repository and change the owner to CivicActions.
 
-- The **license** on every repo must be Creative Commons 0, or CC0. That&rsquo;s shorthand for Public Domain. CivicActions is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don&rsquo;t trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://civicactions.slack.com/archives/admins-github) and [#wg-opensource](https://civicactions.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/CivicActions/open-source-policy), [our blog posts about open source](https://civicactions.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.CivicActions.com/open-source-guide/). You&rsquo;ll hear more about open source during [Gray&rsquo;s seminar on Product and Open Source](/intro-to-product-and-open-source).
+- The **license** on every repo must be Creative Commons 0, or CC0. That&rsquo;s shorthand for Public Domain. CivicActions is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don&rsquo;t trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://civicactions.slack.com/archives/admins-github) and [#wg-opensource](https://civicactions.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/CivicActions/open-source-policy), [our blog posts about open source](https://civicactions.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.civicactions.com/open-source-guide/). You&rsquo;ll hear more about open source during [Gray&rsquo;s seminar on Product and Open Source](/intro-to-product-and-open-source).
 
 Once you&rsquo;re a member of the CivicActions organization, you&rsquo;ll have access to many of our repos.  You&rsquo;ll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
 
@@ -73,7 +73,7 @@ Final pro tip: If your project wants issues formatted in a specific way, you can
 
 ## CivicActions site
 
-[civicactions.gsa.gov](http://civicactions.gsa.gov/) is a **static site** based on the Jekyll platform. (We use Jekyll pretty extensively at CivicActions. The [pages.CivicActions.com](https://pages.CivicActions.com) platform is built around Jekyll, and that&rsquo;s basically our version of GitHub pages). We publish the site with [Federalist](https://federalist.CivicActions.com).
+[civicactions.gsa.gov](http://civicactions.gsa.gov/) is a **static site** based on the Jekyll platform. (We use Jekyll pretty extensively at CivicActions. The [pages.civicactions.com](https://pages.civicactions.com) platform is built around Jekyll, and that&rsquo;s basically our version of GitHub pages). We publish the site with [Federalist](https://federalist.civicactions.com).
 
 The name of our master branch is `staging`. We publish by making branches off of and submitting pull requests to `staging`. Once pushed, a branch will publish through Federalist as a preview URL. Once merged, Federalist will publish the site at civicactions.gsa.gov.
 

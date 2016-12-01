@@ -10,9 +10,9 @@ GitHub is a closed-source platform for [open-source](https://github.com/CivicAct
 
 - Melody Kramer and Greg Boone co-wrote [a guide to using GitHub and the Terminal](https://civicactions.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
 
-- Will Slack [explains the basics](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit) of version control and GitHub. Slides are available [here](https://pages.CivicActions.com/slides/github-basics/#/18); course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
+- Will Slack [explains the basics](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit) of version control and GitHub. Slides are available [here](https://pages.civicactions.com/slides/github-basics/#/18); course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
 
-- The [CivicActions Open Source Style Guide](https://pages.CivicActions.com/open-source-guide/) covers conventions and best practices.
+- The [CivicActions Open Source Style Guide](https://pages.civicactions.com/open-source-guide/) covers conventions and best practices.
 
 
 ## <a id="setup">Setup</a>
@@ -73,7 +73,7 @@ Giving contractors and federal partners read or write access to your repository 
 
 Here&rsquo;s our current process to address both operational and security concerns:
 
-1. If the user is a member of the federal government, confirm we have an active [inter-agency agreement (IAA)](https://pages.CivicActions.com/iaa-forms/primer.html) or other legal document authorizing the work.
+1. If the user is a member of the federal government, confirm we have an active [inter-agency agreement (IAA)](https://pages.civicactions.com/iaa-forms/primer.html) or other legal document authorizing the work.
 1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
 1. Ask the collaborator(s) to go through [the setup steps](#setup).
     * They will need to confirm they've done this before you continue.
@@ -95,7 +95,7 @@ In other words, you&rsquo;ll probably use GitHub a lot at CivicActions. We recom
 
 ## Process
 
-- **Document your workflow.** There are many different ways to use GitHub, and each different team of people at CivicActions (likely) uses it differently. That said, teams should document their desired git workflow for each project, such as in your repository&rsquo;s ```contributing.md``` file. The CivicActions-Site team offers a good example with  [their GitHub wiki](https://github.com/CivicActions/civicactions.gsa.gov/wiki/How-we-Git). In CivicActions's [development guide](https://pages.CivicActions.com/development-guide/), there are [code review questions](https://pages.CivicActions.com/development-guide/code-review/) that your team may want to go over as you think about documentation.
+- **Document your workflow.** There are many different ways to use GitHub, and each different team of people at CivicActions (likely) uses it differently. That said, teams should document their desired git workflow for each project, such as in your repository&rsquo;s ```contributing.md``` file. The CivicActions-Site team offers a good example with  [their GitHub wiki](https://github.com/CivicActions/civicactions.gsa.gov/wiki/How-we-Git). In CivicActions's [development guide](https://pages.civicactions.com/development-guide/), there are [code review questions](https://pages.civicactions.com/development-guide/code-review/) that your team may want to go over as you think about documentation.
 
 - **Do you fork or you do branch?** Git allows you to both &ldquo;fork&rdquo; and &ldquo;branch&rdquo; repositories to make a place to work on changes before you submit them for integration into the main code. **[Making a fork](https://help.github.com/articles/fork-a-repo/)** creates a copy of the repository in your own GitHub account. **Making a branch** of the main repository means you&rsquo;re working in your own little space, but it&rsquo;s still part of the main repository &mdash; which helps keep the project organized, since everyone can easily see what teammates are working on.
 

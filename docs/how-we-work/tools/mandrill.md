@@ -26,7 +26,7 @@ This needs to be done for every sub-domain.
 1. [Add a new Inbound Domain](https://mandrillapp.com/inbound)
     1. Click "View Setup Instructions" to get MX record info
     1. Add DNS records in [Route 53](https://console.aws.amazon.com/route53/home?region=us-east-1#hosted-zones:) (domain needs to be delegated to us...if it isn’t, whomever controls the domain will need to do this)
-        1. If domain is pointing to cloud.gov, add an A record as an alias to the same ELB that `*.CivicActions.com` is pointing to
+        1. If domain is pointing to cloud.gov, add an A record as an alias to the same ELB that `*.civicactions.com` is pointing to
         1. add the MX record
 1. [Add new sending domain](https://mandrillapp.com/settings/sending-domains)
 1. Set up SPF and DKIM records

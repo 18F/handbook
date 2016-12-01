@@ -138,7 +138,7 @@ You can get coffee, espresso, cappuccinos, tea, and water in the kitchen free of
 
 ### <a id="spare-keyboards-mice"></a>Spare keyboards and mice
 
-If you need office supplies, ask in [#teamops](https://civicactions.slack.com/messages/teamops/). They will likely send you to [https://cap.CivicActions.com](https://cap.CivicActions.com/) to order the supplies.
+If you need office supplies, ask in [#teamops](https://civicactions.slack.com/messages/teamops/). They will likely send you to [https://cap.civicactions.com](https://cap.civicactions.com/) to order the supplies.
 
 If you need a cord to connect to one of the monitors in the space (or to a conference room set up) ask at the front desk. They also have chargers!
 
@@ -169,4 +169,4 @@ We have a team breakfast every Tuesday morning in the Civic Hall cafe (BYOB - br
 
 ## <a id="who-works-here"></a>Who works here?
 
-You can find everyone who works in the NYC office [here](https://pages.CivicActions.com/team-browser/?locations=NYC).
+You can find everyone who works in the NYC office [here](https://pages.civicactions.com/team-browser/?locations=NYC).

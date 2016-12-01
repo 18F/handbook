@@ -199,7 +199,7 @@ Dollop and Intelligentsia are the current fan favorites for coffee. If you like 
 
 ## <a id="who-works-here"></a>Who works here?
 
-We keep a list of [people who work in the Chicago office](https://pages.CivicActions.com/team-browser/?locations=CHI).
+We keep a list of [people who work in the Chicago office](https://pages.civicactions.com/team-browser/?locations=CHI).
 
 ## <a id="potlucks"></a>Potlucks
 

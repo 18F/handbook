@@ -14,7 +14,7 @@ Because Slack is a web application, there’s no installation necessary. You can
 - **Complete [your profile](https://civicactions.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options.
 - **Abide by [the CivicActions Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://civicactions.slack.com/messages/@noah/) and [Hillary Hartley](https://civicactions.slack.com/messages/@hillary/).
-- **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** If you need to share sensitive data (environmental variables, passwords, and so forth), please use [Fugacious](https://fugacious.CivicActions.com/) to create a short message that is auto-deleted. If the information you need to share is very complex, please share it using a GSA Google Drive folder, and then promptly delete it once you’re done sharing.
+- **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** If you need to share sensitive data (environmental variables, passwords, and so forth), please use [Fugacious](https://fugacious.civicactions.com/) to create a short message that is auto-deleted. If the information you need to share is very complex, please share it using a GSA Google Drive folder, and then promptly delete it once you’re done sharing.
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack.
 
 ## Usage of CivicActions's Slack
@@ -25,7 +25,7 @@ Slack is required for all CivicActions staff (including PIFs). We can also invit
 - Vendors with GSA who are working on a project with CivicActions, for which we have an Memorandum of Understanding (MOU)
 - Partners at federal agencies whose projects are under an Interagency Agreement with CivicActions
 - Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
-- Members of the public collaborating on an open source project in a public channel via [chat.CivicActions.com](https://chat.CivicActions.com)
+- Members of the public collaborating on an open source project in a public channel via [chat.civicactions.com](https://chat.civicactions.com)
 
 ## Usage of other Slack teams
 
@@ -71,7 +71,7 @@ CivicActions has specific channels in Slack that are open to the public. These c
 
 ### Invite a member of the public to Slack
 
-To invite people to a public Slack channel, send them to [chat.CivicActions.com](https://chat.CivicActions.com/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
+To invite people to a public Slack channel, send them to [chat.civicactions.com](https://chat.civicactions.com/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
 
 ### Add a new public channel
 
@@ -88,7 +88,7 @@ See [the instructions](https://github.com/CivicActions/chat#adding-new-public-ch
 - **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
 - **If you’re interested in tracking specific keywords across Slack,** set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
 - **To add an RSS feed to any channel**, type `/feed subscribe <RSS URL>`.
-- **Never use Slack to share secure information.** If you need to share short bits of text securely, use [Fugacious](https://fugacious.CivicActions.com/). If you want to say something private, it’s easy to ask someone to hop on a call. (See the [shortcuts](/slack/#shortcuts) below.)
+- **Never use Slack to share secure information.** If you need to share short bits of text securely, use [Fugacious](https://fugacious.civicactions.com/). If you want to say something private, it’s easy to ask someone to hop on a call. (See the [shortcuts](/slack/#shortcuts) below.)
 - **You can use Slack as an archival system.** It has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for that in Slack before asking.
 - You can also search by tagged emoji, which is why you’ll frequently see people leaving emoji on messages. We use the :evergreen_tree: emoji to catalog things we need to document for future new hires. To see all messages tagged with a particular emoji, search Slack for `has:{{emoji_name}}` (for example `has::evergreen_tree:`). We have a blog post about this [here](https://civicactions.gsa.gov/2015/12/08/using-emoji-for-knowledge-sharing/).
 - **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.
@@ -142,7 +142,7 @@ If you're interested in learning more about the bots, or perhaps contributing to
 ### Channel naming conventions
 
 - Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://civicactions.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
-- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. See [the Grouplet Playbook](https://pages.CivicActions.com/grouplet-playbook/) for information about working groups and guilds.
+- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. See [the Grouplet Playbook](https://pages.civicactions.com/grouplet-playbook/) for information about working groups and guilds.
 - Channels that end with `-partner` include partners from other agencies.
 - Channels that end with `-public` may include members of the public.
 

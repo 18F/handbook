@@ -37,7 +37,7 @@ If you're traveling for CivicActions during your first two weeks (normally for o
 
 6. **Get tickets**: E-tickets will be sent to the email address that you provided. Once a reservation is made, you will get a “pending” itinerary, which will be finalized, depending on the airline, no later than 72 hours before departure.
 
-7. **Book hotels** Until you can get a GSA travel card (read more about this [here](https://handbook.CivicActions.com/first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses upfront. But with a valid receipt, you will get reimbursed! Just make sure to stay at a place with rates under the government maximum (also known as per diem). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
+7. **Book hotels** Until you can get a GSA travel card (read more about this [here](https://handbook.civicactions.com/first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses upfront. But with a valid receipt, you will get reimbursed! Just make sure to stay at a place with rates under the government maximum (also known as per diem). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
 
    The recommended resource for booking hotels as a Federal government employee is [Fedrooms.com](http://fedrooms.com).
 
@@ -77,7 +77,7 @@ If you're traveling for CivicActions during your first two weeks (normally for o
 
    You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in OLU, you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [civicactions-travel@gsa.gov](mailto:civicactions-travel@gsa.gov).
 
-   Once you get access, you can follow [these instructions for how to complete a voucher](https://handbook.CivicActions.com/travel-guide-5-reimbursement/). Feel free to reach out in #travel and request to set up a 30 minute crash course in how to use Concur if anything seems confusing.
+   Once you get access, you can follow [these instructions for how to complete a voucher](https://handbook.civicactions.com/travel-guide-5-reimbursement/). Feel free to reach out in #travel and request to set up a 30 minute crash course in how to use Concur if anything seems confusing.
 
 
 ### Having trouble sending the EFT form?

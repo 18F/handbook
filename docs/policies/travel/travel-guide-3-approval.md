@@ -22,7 +22,7 @@ Enter the following trip information on this page:
 
 1. **Trip name:** Follow the naming convention below:
 
-    * BILLABLE/NON-BILLABLE: [Exact name of Tock Project] you are billing against, # of [tock project ID](http://tock.CivicActions.com/projects).
+    * BILLABLE/NON-BILLABLE: [Exact name of Tock Project] you are billing against, # of [tock project ID](http://tock.civicactions.com/projects).
 
     * Example: NON-BILLABLE: Ops/ Admin #3
 

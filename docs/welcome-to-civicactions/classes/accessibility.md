@@ -20,7 +20,7 @@ Developer [Nick Bristow](https://civicactions.slack.com/messages/@bristow) leads
 
 ### Documentation
 
-- [Accessibility Guide](https://pages.CivicActions.com/accessibility/)
+- [Accessibility Guide](https://pages.civicactions.com/accessibility/)
 - [Working Groups and Guilds](/working-groups-and-guilds-101)
 
 ## <a id="training">Training</a>
@@ -39,4 +39,4 @@ As you think about accessibility, here are some good rules to follow:
 
 If you remember these three things, you'll avoid 90% of accessibility issues right off the bat.
 
-Everything else in 508 is about improving the user experience. To learn more, sign up for our monthly training session, review the [Accessibility Guide](https://pages.CivicActions.com/accessibility/), and come to one of our meetings.
+Everything else in 508 is about improving the user experience. To learn more, sign up for our monthly training session, review the [Accessibility Guide](https://pages.civicactions.com/accessibility/), and come to one of our meetings.

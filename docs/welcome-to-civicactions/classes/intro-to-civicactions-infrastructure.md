@@ -45,7 +45,7 @@ At the risk of sounding like a broken record: please ask before you begin any re
 
 You&rsquo;ve probably heard about the recent [Office of Personnel Management (OPM) data breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach), and you probably know about the NSA (by way of Ed Snowden, perhaps). Everyone at CivicActions is responsible for our organization&rsquo;s security and ensuring that the private data of the public is safe.
 
-The most important part of your job is security. CivicActions has begun to document its own [security standards](https://pages.CivicActions.com/before-you-ship/security/), and we&rsquo;re hard at work on improving them (you&rsquo;ll hear more about this in the coming months). In the meantime, be sure to [secure your Macbook](/equipment/#laptop) and [turn on FileVault](https://support.apple.com/en-us/HT204837).
+The most important part of your job is security. CivicActions has begun to document its own [security standards](https://pages.civicactions.com/before-you-ship/security/), and we&rsquo;re hard at work on improving them (you&rsquo;ll hear more about this in the coming months). In the meantime, be sure to [secure your Macbook](/equipment/#laptop) and [turn on FileVault](https://support.apple.com/en-us/HT204837).
 
 Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please consult us in #infrastructure.
 
@@ -81,7 +81,7 @@ Here are some things that you might have been used to doing outside of governmen
 2. You are limited in the political activities you can do (see the Hatch Act).
 3. Ethics rules are in place for accepting gifts and payment. When in doubt, ask [#legalstuff](https://civicactions.slack.com/messages/legalstuff/).
 
-If you&rsquo;re an engineer of any kind, the most important part of your job in the government at the moment is **security.** If you&rsquo;re building anything, a good place to start is [CivicActions&rsquo;s security standards](https://pages.CivicActions.com/before-you-ship/security/).
+If you&rsquo;re an engineer of any kind, the most important part of your job in the government at the moment is **security.** If you&rsquo;re building anything, a good place to start is [CivicActions&rsquo;s security standards](https://pages.civicactions.com/before-you-ship/security/).
 
 The three rules of Infrastructure are:
 

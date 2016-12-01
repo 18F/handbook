@@ -37,13 +37,13 @@ The Economy Act allows CivicActions to be reimbursed for services provided to ot
 
 CivicActions is an [open source team](https://civicactions.gsa.gov/2014/07/29/civicactions-an-open-source-team/). We use open source development to transparently promote the security, quality, and modularity of our code, and to invite review, participation, and free and simple reuse of our efforts by government agencies, the business community, and developers.
 
-You can read more about funding and IAA details on CivicActions’s [Intake Information page](https://pages.CivicActions.com/intake/funding-and-iaa/).
+You can read more about funding and IAA details on CivicActions’s [Intake Information page](https://pages.civicactions.com/intake/funding-and-iaa/).
 
 ## Delivery is the strategy
 
 We launched not only a new team, but also the promise of a new way of working with and for the federal government. The first 15 of us committed to making government services simpler and easier to use — a mission that continues to guide us. We set out to do this by drawing on principles of user-centered design, developing in the open, and incorporating agile and lean development practices.
 
-With our mission and approach established, we rolled up our sleeves and got to work. With each new project that we take on, we know the long tail of our impact will be the education and empowerment we share with our partner agencies. Following in the footsteps of the UK’s Government Digital Service, we’ve been capturing, [documenting](https://pages.CivicActions.com/), and [blogging](https://civicactions.gsa.gov/news) about our process as much as possible — not simply for the purpose of recording our history, but so we can share our process and progress with the public.
+With our mission and approach established, we rolled up our sleeves and got to work. With each new project that we take on, we know the long tail of our impact will be the education and empowerment we share with our partner agencies. Following in the footsteps of the UK’s Government Digital Service, we’ve been capturing, [documenting](https://pages.civicactions.com/), and [blogging](https://civicactions.gsa.gov/news) about our process as much as possible — not simply for the purpose of recording our history, but so we can share our process and progress with the public.
 
 “Just Start” was our mantra in the early days of CivicActions, and we did. Sometimes we stumbled, but each time we practiced what we preach — build, measure, learn, and do it again.
 
@@ -57,7 +57,7 @@ Like Lean Startup, we favor experimentation, customer feedback, analytics, and i
 - **Leverage Agile methodologies.** Agile and lean methodologies drive our work. We believe in delivering early and often. We build something small; learn by validating with real people; and “rinse and repeat.” Quick feedback loops with stakeholders mean big failures never happen.
 - **Open by default.** We are open by default: both what we make and how we work. We’re [coding and designing in the open](https://github.com/civicactions); we use and build open source code by default; and we’re evangelizing our methods and practices across the federal government.
 
-These principles guide us in everything from how we work to what projects we choose. For more information, see [our full list of core values](https://pages.CivicActions.com/core-values/).
+These principles guide us in everything from how we work to what projects we choose. For more information, see [our full list of core values](https://pages.civicactions.com/core-values/).
 
 ## Hacking bureaucracy
 

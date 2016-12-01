@@ -1,7 +1,7 @@
 CivicActions Handbook [![Build Status](https://travis-ci.org/CivicActions/handbook.svg?branch=master)](https://travis-ci.org/CivicActions/handbook)
 ========================
 
-The [CivicActions Handbook](https://handbook.CivicActions.com) documents the mission, values, structures, policies, tools, and guides that shape our team. This is a _living_ document and is updated regularly. If you have questions, comments, or suggestions, please
+The [CivicActions Handbook](https://handbook.civicactions.com) documents the mission, values, structures, policies, tools, and guides that shape our team. This is a _living_ document and is updated regularly. If you have questions, comments, or suggestions, please
 [open an issue](https://github.com/CivicActions/handbook/issues). If you want to add content to the Handbook, please submit a pull request or ask in [#civicactions-handbook](https://civicactions.slack.com/messages/civicactions-handbook).
 
 Note: If you're changing any kind of process, please let [#wg-onboarding](https://civicactions.slack.com/messages/wg-onboarding) know so we can keep the handbook, new hire messages, and checklists up to date.
@@ -17,9 +17,9 @@ We avoid including information that can easily go out of date and is already pub
 
 * People's phone numbers, even if public information (such as their GSA work number). Link to the public [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) or the access-controlled CivicActions contact spreadsheet instead of including phone numbers in the handbook.
 * Information that is already well-covered on GSA InSite. Link there instead of reproducing it.
-* Specific CivicActions org chart info (such as lists of names of supervisors and facilitators). Link to the [internal CivicActions org chart](https://handbook.CivicActions.com/org-chart/) instead.
+* Specific CivicActions org chart info (such as lists of names of supervisors and facilitators). Link to the [internal CivicActions org chart](https://handbook.civicactions.com/org-chart/) instead.
 
-We're careful about publishing [information collected during research](https://handbook.CivicActions.com/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#research](https://civicactions.slack.com/archives/research) for guidance first.
+We're careful about publishing [information collected during research](https://handbook.civicactions.com/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#research](https://civicactions.slack.com/archives/research) for guidance first.
 
 ## Development
 
@@ -30,7 +30,7 @@ bundle install
 ./go serve
 ```
 
-See the CivicActions Pages documentation to learn how to [make a new page](https://pages.CivicActions.com/guides-template/add-a-new-page/) and [add it to the homepage navigation links](https://pages.CivicActions.com/guides-template/update-the-config-file/).
+See the CivicActions Pages documentation to learn how to [make a new page](https://pages.civicactions.com/guides-template/add-a-new-page/) and [add it to the homepage navigation links](https://pages.civicactions.com/guides-template/update-the-config-file/).
 
 ### Travel guide development
 

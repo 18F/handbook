@@ -110,7 +110,7 @@ If you&rsquo;re just curious about all things CPS
 - [PPR Guide](https://docs.google.com/document/d/1c5QKhcY8gZHxO4-Kc_l2JN94hD-AB_TTrvFABwHhVQ8/edit#heading=h.8zsg1nccsdr5)
 - [Monthly Engagement Management AMA](https://docs.google.com/document/d/1oHS-IEomRJzT840MemBwzDo-bJU-ymIkzgVX63Q3HSs/edit)
 - [CPS Project Report ](https://docs.google.com/spreadsheets/d/1kp5Xec7VjscITYaTqcyQfa5Rrr29hcGIzP-tkRrR_IA/edit)
-- [The CivicActions Product Guide](https://pages.CivicActions.com/product-guide/) - A great resource for all Product Managers on CPS projects
+- [The CivicActions Product Guide](https://pages.civicactions.com/product-guide/) - A great resource for all Product Managers on CPS projects
 - [FY17 Projects Announcement](https://drive.google.com/open?id=0B_SvrGV09nQ-WTlrTFY5eVN2NE0) - Our initial announcement of all CPS projects in FY17
 
 
