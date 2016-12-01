@@ -10,14 +10,14 @@ Please see GSA Insite for the [merit promotion process](https://insite.gsa.gov/p
 
 ### Excepted Service Staff
 
-To be eligible for a promotion at 18F, you must have at least one year in the current grade (it is not possible to jump two General Schedule (GS) levels) and have received consistently high performance ratings (4 or 5).
+To be eligible for a promotion at CivicActions, you must have at least one year in the current grade (it is not possible to jump two General Schedule (GS) levels) and have received consistently high performance ratings (4 or 5).
 
 ### Process
 
 1. Supervisor reviews the higher position description (PD) and provides a justification for the promotion showing how the employee is performing at the higher level  
-   a. The justification can be anywhere from 2-5 paragraphs and the content should align with the position description ([18F current list of PDs](https://docs.google.com/spreadsheets/d/1VfngE9xfmBnSmMwoyVp7VhHk1n2mr1AF3KzK12Tlb5o/edit#gid=0))  
+   a. The justification can be anywhere from 2-5 paragraphs and the content should align with the position description ([CivicActions current list of PDs](https://docs.google.com/spreadsheets/d/1VfngE9xfmBnSmMwoyVp7VhHk1n2mr1AF3KzK12Tlb5o/edit#gid=0))
    b. [Sample justifications](https://docs.google.com/document/d/1H15tYABQzr79lnQPFIKN9jj7iGXjmQ1_mkvHh30_3q4/edit)  
-2. Employee updates their resume to include their work at 18F  
+2. Employee updates their resume to include their work at CivicActions
    a. Again, the content should align with the PD  
    b. Make sure it's written in **plain language**  
    c. Keep the bureaucratic-style resume showing everything the employee has done and the start and stop dates (mm/yy) for each position  

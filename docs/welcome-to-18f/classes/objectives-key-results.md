@@ -6,7 +6,7 @@ _OKRs are a framework to help you organize your professional development goals. 
 
 ## Leadership
 
-No one person oversees the creation of OKRs, and each 18F team member is responsible for tracking their own progress toward achieving their OKRs.
+No one person oversees the creation of OKRs, and each CivicActions team member is responsible for tracking their own progress toward achieving their OKRs.
 
 If you have questions about how to translate your  goals into concrete, measurable steps, or what types of professional-development resources we have access to, contact your team lead.
 
@@ -22,15 +22,15 @@ One of the benefits of the OKR framework — that is, defining objectives, actio
 
 ## Why we have OKRs
 
-Now that you know what OKRs are, you might be wondering why we have them. In the early days of our organizational history, 18F had lots of working groups, projects, and tiger teams that were doing great work, but that had no consistent way to communicate their progress. They also didn’t have a reliable way to articulate their future goals — the outcomes they ultimately wanted to achieve.
+Now that you know what OKRs are, you might be wondering why we have them. In the early days of our organizational history, CivicActions had lots of working groups, projects, and tiger teams that were doing great work, but that had no consistent way to communicate their progress. They also didn’t have a reliable way to articulate their future goals — the outcomes they ultimately wanted to achieve.
 
-In response to the desire for a standardized way of communicating progress, 18F adopted Google’s OKR process, which Mike Bland introduced when he joined the team.
+In response to the desire for a standardized way of communicating progress, CivicActions adopted Google’s OKR process, which Mike Bland introduced when he joined the team.
 
 Our OKRs draw on Google’s template and incorporate other elements of lean UX. 
 
 ## When to create and use OKRs
 
-At 18F/OCSIT, folks are expected to create personal OKRs on a quarterly basis. This doesn’t mean you need to create entirely new OKRs each quarter — it’s OK to modify or reuse existing OKRs if you’re still working toward achieving a particular goal.
+At CivicActions/OCSIT, folks are expected to create personal OKRs on a quarterly basis. This doesn’t mean you need to create entirely new OKRs each quarter — it’s OK to modify or reuse existing OKRs if you’re still working toward achieving a particular goal.
 
 At the beginning of each fiscal quarter, you’ll get an email reminder to write (or revise) your OKRs. Though writing OKRs isn’t currently mandatory — we’re all following the honor system — it’s very strongly encouraged. In the future, team leads may enforce the writing and revision of OKRs, but for the time being, no one needs to review and approve your OKRs. As long as you’re comfortable with them, you’re all set.
 
@@ -45,7 +45,7 @@ A good way to approach the writing process is to break each goal into smaller, m
 Please bear in mind that Key Results should be measurable. Not all Key Results must be able to be described quantitatively, but they should enable you to chart your progress and identify areas that could use improvement.
 
 ## Track your progress
-Everyone uses OKRs differently, which is great — they are, after all, an individualized tool. That said, 18F team members recommend these strategies for tracking your progress toward achieving your OKRs:
+Everyone uses OKRs differently, which is great — they are, after all, an individualized tool. That said, CivicActions team members recommend these strategies for tracking your progress toward achieving your OKRs:
 
 ### Use sticky notes to prioritize
 Determine which OKR you most want to achieve, and leave notes around your workspace reminding yourself to work toward it. Or, focus on a different OKR each week and leave yourself notes accordingly.

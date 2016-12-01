@@ -2,7 +2,7 @@
 title: Mandrill
 ---
 
-Mandrill is the transactional email service that we use at 18F. Note that the service is part of [MailChimp](../mailchimp/), which we also use.
+Mandrill is the transactional email service that we use at CivicActions. Note that the service is part of [MailChimp](../mailchimp/), which we also use.
 
 ## User setup
 
@@ -10,12 +10,12 @@ Mandrill is the transactional email service that we use at 18F. Note that the se
 
 ## Accessing Mandrill
 
-*Moved from [C2 documentation](https://github.com/18F/C2/blob/master/doc/production.md#mandrill).*
+*Moved from [C2 documentation](https://github.com/CivicActions/C2/blob/master/doc/production.md#mandrill).*
 
 1. Visit [https://mandrillapp.com](https://mandrillapp.com).
 1. Click "Log In Through MailChimp".
 1. Log in to MailChimp.
-    1. If you have multiple options, select the "General Services Administration \| 18F" account.
+    1. If you have multiple options, select the "General Services Administration \| CivicActions" account.
 
 You should now be signed in to Mandrill with the shared account.
 
@@ -26,7 +26,7 @@ This needs to be done for every sub-domain.
 1. [Add a new Inbound Domain](https://mandrillapp.com/inbound)
     1. Click "View Setup Instructions" to get MX record info
     1. Add DNS records in [Route 53](https://console.aws.amazon.com/route53/home?region=us-east-1#hosted-zones:) (domain needs to be delegated to us...if it isn’t, whomever controls the domain will need to do this)
-        1. If domain is pointing to cloud.gov, add an A record as an alias to the same ELB that `*.18f.gov` is pointing to
+        1. If domain is pointing to cloud.gov, add an A record as an alias to the same ELB that `*.CivicActions.com` is pointing to
         1. add the MX record
 1. [Add new sending domain](https://mandrillapp.com/settings/sending-domains)
 1. Set up SPF and DKIM records
@@ -44,4 +44,4 @@ This needs to be done for every sub-domain.
 
 #### Still have questions?
 
-Ask in Slack: [#admins-mailchimp](https://18f.slack.com/messages/admins-mailchimp).
+Ask in Slack: [#admins-mailchimp](https://civicactions.slack.com/messages/admins-mailchimp).

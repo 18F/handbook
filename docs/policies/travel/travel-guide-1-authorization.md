@@ -23,13 +23,13 @@ No - Complete the Email Authorization Below
 
 ## Step 1 Confirm your travel dates and get travel approval
 
-**Before you go anywhere for 18F,** you will need to provide an authorization email for each instance of travel.
+**Before you go anywhere for CivicActions,** you will need to provide an authorization email for each instance of travel.
 
 In the case of billable travel, you will need an email of approval from the client.
 
-In the case of non-billable travel, you will need an email of approval from your supervisor (or from the supervisor of whichever division of 18F will be paying for your travel).
+In the case of non-billable travel, you will need an email of approval from your supervisor (or from the supervisor of whichever division of CivicActions will be paying for your travel).
 
-18F supervisors themselves no longer have blanket approval and must get it from Aaron Snow or Joshua Bailes.
+CivicActions supervisors themselves no longer have blanket approval and must get it from Aaron Snow or Joshua Bailes.
 
 1. Send an email to your client with the following information:
 
@@ -50,7 +50,7 @@ In the case of non-billable travel, you will need an email of approval from your
 2. **BEFORE YOU HIT SEND:**
     * Double-check to make sure you have satisfied all of the above criteria before hitting “send”!
 
-    * Missing anything is grounds for delay as the 18F travel team will ask you to clarify and correct before approving your trip in Concur.
+    * Missing anything is grounds for delay as the CivicActions travel team will ask you to clarify and correct before approving your trip in Concur.
 
     * Rules are different when certain exceptions apply. If any of the cases below apply to you, please adjust your email accordingly:
 
@@ -64,7 +64,7 @@ In the case of non-billable travel, you will need an email of approval from your
 
 
 ## 6. Forward your approval email.
-Once you have all necessary approvals, and only then, please forward your approval email to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov).
+Once you have all necessary approvals, and only then, please forward your approval email to [civicactionstravelauths@gsa.gov](mailto:civicactionstravelauths@gsa.gov).
 
 **Are you traveling in the next 3 days?**
 
@@ -79,4 +79,4 @@ Call AdTrav at 877-472-6716 to make flight arrangements.
 
 Whether going through AdTrav or arranging your own accommodations, continue on to [Alternate Step 3](). Do not book a hotel through Concur.
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://civicactions.slack.com/messages/travel)* or [civicactions-travel@gsa.gov](mailto:civicactions-travel@gsa.gov)

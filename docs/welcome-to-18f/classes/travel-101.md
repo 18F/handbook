@@ -6,11 +6,11 @@ This post contains everything you need to know about how to book travel.
 
 ### Leadership
 
-Ethan Heppner and Victor Valdivizeo lead the 18F travel team. Based in Chicago and San Francisco, they work on the Operations Team as the point people for all things travel related. (They also on manage the needs of our satellite offices.)
+Ethan Heppner and Victor Valdivizeo lead the CivicActions travel team. Based in Chicago and San Francisco, they work on the Operations Team as the point people for all things travel related. (They also on manage the needs of our satellite offices.)
 
 ### Communication
 
-Questions? Ask in [#travel](https://18f.slack.com/messages/travel/).
+Questions? Ask in [#travel](https://civicactions.slack.com/messages/travel/).
 
 Ethan is typically available to answer questions from 9:00 a.m. to 2:30 p.m. ET, and Victor is online between 11:30 a.m. and 5:00 p.m. PT.
 
@@ -20,7 +20,7 @@ Travel time is billed as general, unless you're working on a project. (Then you 
 
 ## Travel guide
 
-Before you have any travel planned, it's a good idea to review the 18F [Travel Guide](https://docs.google.com/drawings/d/14sMYGW2_Js8bnMAWApfD1srAX7H9J5Ydz1ff85A_8LU/edit?pli=1) and familiarize yourself with our processes and policies. It's helpful to note that government travel is broken up into a series of nine steps. Additionally, before you travel for the first time, you'll need to complete three pre-steps. While this might sound like a lot, things are a lot simpler once you understand the key concepts that drive government travel.
+Before you have any travel planned, it's a good idea to review the CivicActions [Travel Guide](https://docs.google.com/drawings/d/14sMYGW2_Js8bnMAWApfD1srAX7H9J5Ydz1ff85A_8LU/edit?pli=1) and familiarize yourself with our processes and policies. It's helpful to note that government travel is broken up into a series of nine steps. Additionally, before you travel for the first time, you'll need to complete three pre-steps. While this might sound like a lot, things are a lot simpler once you understand the key concepts that drive government travel.
 
 ## Travel card
 
@@ -32,11 +32,11 @@ A per diem is an allowance that you get [each day you travel on official governm
 
 ## Concur
 
-Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system 18F employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](https://docs.google.com/drawings/d/1C3epcdesOu9VExSnt4A2vGLzb7VQq9uzecqLXn6TyCE/edit). You will [complete your profile](https://docs.google.com/drawings/d/1eP5E7Tq1K4Iva7aNSHjLukJcZzD2Cdkf6LCoEDRzsFM/edit) after your receive your travel card.
+Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system CivicActions employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](https://docs.google.com/drawings/d/1C3epcdesOu9VExSnt4A2vGLzb7VQq9uzecqLXn6TyCE/edit). You will [complete your profile](https://docs.google.com/drawings/d/1eP5E7Tq1K4Iva7aNSHjLukJcZzD2Cdkf6LCoEDRzsFM/edit) after your receive your travel card.
 
 ## Authorization
 
-The process of requesting travel, including [formally clearing dates with your supervisor](https://docs.google.com/drawings/d/12pOZyfuGX6J1c-kqHUXe9MZCjU4P2E96VApbyoo4O5I/edit) or client, making your [flight](https://docs.google.com/drawings/d/1iE0PcYeB0IKMX2bpEQDC4lgtjp3vkUQydbZxWx2dGW0/edit) and [hotel](https://docs.google.com/drawings/d/1_s7EHcQby0lwftF2Dmcf68BVaSm5IdXkx6qnRhf8YVQ/edit) reservations, [ensuring that you are billing your trip to the right place](https://docs.google.com/drawings/d/18-tr2YEexZEnSv3-bkpnEZ99-ri3zflkVSgPe7Exubk/edit), and [forwarding onto the 18F travel team for approval](https://docs.google.com/drawings/d/1fdJn-eTvaWSnWnbx0mqj1Uj4XZnKwJDFFnN8lARIRnk/edit).
+The process of requesting travel, including [formally clearing dates with your supervisor](https://docs.google.com/drawings/d/12pOZyfuGX6J1c-kqHUXe9MZCjU4P2E96VApbyoo4O5I/edit) or client, making your [flight](https://docs.google.com/drawings/d/1iE0PcYeB0IKMX2bpEQDC4lgtjp3vkUQydbZxWx2dGW0/edit) and [hotel](https://docs.google.com/drawings/d/1_s7EHcQby0lwftF2Dmcf68BVaSm5IdXkx6qnRhf8YVQ/edit) reservations, [ensuring that you are billing your trip to the right place](https://docs.google.com/drawings/d/18-tr2YEexZEnSv3-bkpnEZ99-ri3zflkVSgPe7Exubk/edit), and [forwarding onto the CivicActions travel team for approval](https://docs.google.com/drawings/d/1fdJn-eTvaWSnWnbx0mqj1Uj4XZnKwJDFFnN8lARIRnk/edit).
 
 ## Vouchers
 

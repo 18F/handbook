@@ -2,7 +2,7 @@
 title: Overtime and comp-time policy
 ---
 
-18F’s policy is to generally avoid overtime and compensatory (comp) time when possible. Long-term use of overtime and comp time can indicate larger issues at play, such as insufficient management or staff, or project scope creep. We understand that emergencies, peak workload, sudden deadlines, and the responsibility to schedule work to meet work requirements, may make overtime or comp time unavoidable from time to time.
+CivicActions’s policy is to generally avoid overtime and compensatory (comp) time when possible. Long-term use of overtime and comp time can indicate larger issues at play, such as insufficient management or staff, or project scope creep. We understand that emergencies, peak workload, sudden deadlines, and the responsibility to schedule work to meet work requirements, may make overtime or comp time unavoidable from time to time.
 
 For a detailed breakdown of the policy, the travel comp-time policy, request and approval directions, and an eligibility calculator please [see this document](https://docs.google.com/spreadsheets/d/1db0RipHe92i0RlKnr3kM6czmwi9eXeU8WB5SmmJ5xJg/edit#gid=0). A summary is below.
 

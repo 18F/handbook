@@ -6,11 +6,11 @@ We use Tock to track our time.
 
 ## Tock
 
-To facilitate our fee-for-service business model, 18F has developed its own timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and I personally recommend bookmarking it for easy reference.
+To facilitate our fee-for-service business model, CivicActions has developed its own timekeeping application called [Tock](https://tock.CivicActions.com/). You can access Tock by visiting [tock.CivicActions.com](https://tock.CivicActions.com), and I personally recommend bookmarking it for easy reference.
 
-18F's business model is based on billing for time logged to a project. Every expense -- salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on -- is paid for by our billing, which is recorded by each person in Tock.
+CivicActions's business model is based on billing for time logged to a project. Every expense -- salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on -- is paid for by our billing, which is recorded by each person in Tock.
 
-We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
+We track each and every [project](https://tock.CivicActions.com/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
 
 Tock looks like this: ![Screenshot of Tock]({{ site.baseurl}}/images/tock/tock.png)
 
@@ -20,20 +20,20 @@ Timecards are due by the end of day (close of business) on Friday. If you fail t
 
 ## Tracking time
 
-Carefully track and record your work at 18F. Some 18F colleagues use software
+Carefully track and record your work at CivicActions. Some CivicActions colleagues use software
 such as [Toggl](https://toggl.com/) or [Hours](https://hourstimetracking.com/) to do this. Others have created [templates](https://docs.google.com/spreadsheets/d/1S2WWVy3Y5pQ4Bweg0DsGyKOaqzoou_YIE3Jf9uRDwlI/edit) in Google Sheets to record their weekly time. Feel free to make a copy of this template and use it for yourself.
 
 You should track time spent on each billable project separately. In addition, you should split out certain entries for non-billable work. Here's a quick cheat-sheet on common non-billable time entries:
 
 - `General`: Recurring team meetings, such as the weekly all-hands, team huddles and team training sessions. Also, travel time to and from D.C. for billable meetings. If you _work_ on something during transit (say, on the airplane), bill that to the appropriate project, but if you're just in transit, that goes in General.
-- `Outreach`: Writing blog posts, responding to requests for 18F engagement, and more.
+- `Outreach`: Writing blog posts, responding to requests for CivicActions engagement, and more.
 - Every non-billable hour you log is paid for by an increase in the overhead rates attached to all billable projects, so be careful on how much you spend on non-billable projects. If you think the work you're doing should be billable, jump into #seeds to talk about how to find funding.
 
 ## Leave
 
-Whenever you take “leave” — be that vacation time, holiday time, sick time, or another type of leave — you should log it as one of the "Out of Office" categories in Tock (listed below). If your leave begins prior to the release of a timecard (before Wednesday), please send your manager an email with your time entries and they will ensure they are entered. For longer leave requests, make sure you have your time entered on the “18F Out of Office” Google calendar — Ops tracks those entries and will enter your time. If you don’t enter extended leave in the “18F Out of Office” calendar Ops won’t know you are out, won’t enter your time, and you will be delinquent.
+Whenever you take “leave” — be that vacation time, holiday time, sick time, or another type of leave — you should log it as one of the "Out of Office" categories in Tock (listed below). If your leave begins prior to the release of a timecard (before Wednesday), please send your manager an email with your time entries and they will ensure they are entered. For longer leave requests, make sure you have your time entered on the “CivicActions Out of Office” Google calendar — Ops tracks those entries and will enter your time. If you don’t enter extended leave in the “CivicActions Out of Office” calendar Ops won’t know you are out, won’t enter your time, and you will be delinquent.
 
-[ALOHA](/gsa-tools-equipment-and-transit#aloha) is GSA’s out of office request system and is separate from [Tock](/tock), which is 18F’s own timekeeping system. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
+[ALOHA](/gsa-tools-equipment-and-transit#aloha) is GSA’s out of office request system and is separate from [Tock](/tock), which is CivicActions’s own timekeeping system. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
 
 The Out of Office options in Tock reflect categories of leave used in ALOHA. This will make reconciliation of Tock and ALOHA much easier, and more accurately track our time.
 
@@ -65,13 +65,13 @@ Tock likely doesn't have your start date listed correctly. To fix this:
 
 1. Click on the Users link.
 2. Find and click on your name in the list of Tock users. (Your email address should be a clickable link.)
-3. Enter your Employment Start Date as the day you started at 18F.
+3. Enter your Employment Start Date as the day you started at CivicActions.
 4. Click Update.
 5. Now that long list of reports to fill out should be gone.
 
 ### How do I change a reporting period I already filled out?
 
-Ping us in [#tock](https://18f.slack.com/messages/tock). We'll help you out.
+Ping us in [#tock](https://civicactions.slack.com/messages/tock). We'll help you out.
 
 ### What if I'm so busy that I cannot fit everything I need to do within 40 hours per week?
 
@@ -95,7 +95,7 @@ The time you spend figuring out travel plans is billable to the project you are 
 
 ### How should I bill email?
 
-Some 18F colleagues suggest chunking your email time so it's easier to keep track of when you're dealing with email from each project. Others use their "sent" messages as a means to determine how much time they spent emailing (per project).
+Some CivicActions colleagues suggest chunking your email time so it's easier to keep track of when you're dealing with email from each project. Others use their "sent" messages as a means to determine how much time they spent emailing (per project).
 
 ### What are some examples of activities that I should typically charge time to a client project?
 
@@ -110,7 +110,7 @@ Use the GSA System ALOHA and select your supervisor from the drop-down menu. You
 
 ### What are some examples of activities that are not client-billable?
 
-- 18F-specific meetings (e.g., the weekly all-hands meeting)
+- CivicActions-specific meetings (e.g., the weekly all-hands meeting)
 - Events that aren't related to a particular project
 - GSA HR activities (e.g., mandatory training)
 
@@ -120,9 +120,9 @@ Yes! We don't promise our partners specific people. That enables anyone to scrub
 
 ### Tell me more about why we have to bill our time
 
-- 18F's current funding source is based exclusively on the amount of revenue we can generate from our clients in other parts of the federal government.
-- Labor is usually the largest portion of the cost of the services 18F provides. Based on our flexible delivery model, you may be working on multiple projects concurrently, and _accurate time accounting_ is critical to generating auditable client invoices.
-- Understanding how people work across multiple projects provides 18F as a whole with insight into areas where we might be over or under capacity.
+- CivicActions's current funding source is based exclusively on the amount of revenue we can generate from our clients in other parts of the federal government.
+- Labor is usually the largest portion of the cost of the services CivicActions provides. Based on our flexible delivery model, you may be working on multiple projects concurrently, and _accurate time accounting_ is critical to generating auditable client invoices.
+- Understanding how people work across multiple projects provides CivicActions as a whole with insight into areas where we might be over or under capacity.
 - Understanding the actual labor costs required to deliver projects will help us prepare more accurate _cost estimates_ for similar projects in the future.
 - Tracking time spent on a project, and thus labor costs, will allow us to gauge how quickly funds are being spent relative to the allocated amount under the [IAA](/agreements). If a project seems to burning funds quicker than expected, for example, there may be underlying causes (e.g., lost efficiencies) that require attention.
 
@@ -130,4 +130,4 @@ Yes! We don't promise our partners specific people. That enables anyone to scrub
 
 #### Still have questions?
 
-Ask in Slack: [#tock](https://18f.slack.com/messages/tock)
+Ask in Slack: [#tock](https://civicactions.slack.com/messages/tock)

@@ -2,7 +2,7 @@
 title: Trello
 ---
 
-[Trello](https://trello.com/18f3/) is a collaborative task and project-management tool.
+[Trello](https://trello.com/civicactions3/) is a collaborative task and project-management tool.
 
 ## Setup
 
@@ -10,17 +10,17 @@ Because Trello is a web application, there&rsquo;s no installation necessary. Yo
 
 Trello accounts support multiple email addresses, so you can use an existing account (if you have one) by adding your GSA email address. Otherwise, you can sign in with your GSA Google account. Make sure to [set up two-factor authentication](https://trello.com/2fa).
 
-To get access to the 18F Trello board, ask for an invite in [#admins-trello](https://18f.slack.com/messages/admins-trello).
+To get access to the CivicActions Trello board, ask for an invite in [#admins-trello](https://civicactions.slack.com/messages/admins-trello).
 
-There is no 18F-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
+There is no CivicActions-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
 
 ## Rules
 
-**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+**Abide by [the CivicActions Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://civicactions.slack.com/messages/noah/) or [Hillary Hartley](https://civicactions.slack.com/messages/hillary/).
 
 ## Usage
 
-People use Trello to track ideas from conception through execution. It's common to see a working group using Trello to collaborate in creating documentation. Sometimes we track business development leads on a Trello board. Some individuals use Trello to help track and prioritize their own queue of work. Most commonly, Trello is used by 18F teams applying agile processes like Scrum and Kanban to deliver software.
+People use Trello to track ideas from conception through execution. It's common to see a working group using Trello to collaborate in creating documentation. Sometimes we track business development leads on a Trello board. Some individuals use Trello to help track and prioritize their own queue of work. Most commonly, Trello is used by CivicActions teams applying agile processes like Scrum and Kanban to deliver software.
 
 ## Tips
 
@@ -62,4 +62,4 @@ Chrome extensions can dramatically increase the usability and functionality of T
 
 #### Still have questions?
 
-Ask in Slack: [#admins-trello](https://18f.slack.com/messages/admins-trello/)
+Ask in Slack: [#admins-trello](https://civicactions.slack.com/messages/admins-trello/)

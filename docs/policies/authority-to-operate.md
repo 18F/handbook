@@ -5,7 +5,7 @@ title: Authority to operate policy
 _This policy outlines how we authorize systems to go live in production._
 
 ## Purpose
-This policy modifies the responsibilities of Authorizing Officials in the Technology Transformation Service (TTS), the organization previously known as OCSIT/18F.
+This policy modifies the responsibilities of Authorizing Officials in the Technology Transformation Service (TTS), the organization previously known as OCSIT/CivicActions.
 
 ## Authority
 
@@ -19,13 +19,13 @@ This scope is defined by the [Federal Information Security Management Act](https
 
 ## Background
 
-Previously, all information systems built, operated, maintained, and owned by OCSIT/18F were authorized by the Deputy Associate Administrator for 18F or other properly delegated OCSIT Authorizing Officials, in keeping with the standard set in NIST FIPS 200 Minimum Security Requirements for Federal Information and Information Systems and elaborated in [NIST SP 800-37 Guide for Applying the Risk Management Framework to Federal Information Systems](http://csrc.nist.gov/publications/nistpubs/800-37-rev1/sp800-37-rev1-final.pdf):
+Previously, all information systems built, operated, maintained, and owned by OCSIT/CivicActions were authorized by the Deputy Associate Administrator for CivicActions or other properly delegated OCSIT Authorizing Officials, in keeping with the standard set in NIST FIPS 200 Minimum Security Requirements for Federal Information and Information Systems and elaborated in [NIST SP 800-37 Guide for Applying the Risk Management Framework to Federal Information Systems](http://csrc.nist.gov/publications/nistpubs/800-37-rev1/sp800-37-rev1-final.pdf):
 
 > "Accordingly, authorizing officials are in management positions with a level of authority commensurate with understanding and accepting such information system-related security risks." (Page D-4)
 
-In November 2015, delegations of Authorizing Official responsibility were made to deal with the continued growth of OCSIT/18F.
+In November 2015, delegations of Authorizing Official responsibility were made to deal with the continued growth of OCSIT/CivicActions.
 
-With the restructuring of OCSIT/18F into the TTS, in order to ensure the timeliness, accountability, and quality of forthcoming authorizations, and to ensure that Authorizing Officials have both authority and context sufficient to make risk based decisions, further changes are required. 
+With the restructuring of OCSIT/CivicActions into the TTS, in order to ensure the timeliness, accountability, and quality of forthcoming authorizations, and to ensure that Authorizing Officials have both authority and context sufficient to make risk based decisions, further changes are required.
 
 ## Changes in authority
 
@@ -38,7 +38,7 @@ The following delegations and designations are made in the TTS:
 
 * All Authorizing Officials formally accept the security responsibility for the operation of a system and their authorizations must declare that their systems are adequately protected.
 
-* The TTS Commissioner hereby delegates the 18F Infrastructure Director, in their role as **Acting TTS Infrastructure Director, as the Authorizing Official responsible for authorizing via digital signature any and all systems**, except for systems categorized at the FIPS High impact level, for either confidentiality, integrity, or availability. 
+* The TTS Commissioner hereby delegates the CivicActions Infrastructure Director, in their role as **Acting TTS Infrastructure Director, as the Authorizing Official responsible for authorizing via digital signature any and all systems**, except for systems categorized at the FIPS High impact level, for either confidentiality, integrity, or availability.
 
 * The Acting TTS Infrastructure Director hereby designates the Infrastructure Leads of the TTS Business Units as **Authorizing Official Designated Representatives** for all systems, and therefore the responsibility for all security planning and "approving the security plan, plans of actions and milestones, the security assessment, and the determination of risk". The Infrastructure Leads must **prepare and approve** via digital signature the final authorization package in a structure data format determined by the Acting TTS Infrastructure Director.
 
@@ -56,4 +56,4 @@ This policy is put into effect by this policy being digitally signed by the Acti
 
 #### Still have questions?
 
-Ask in Slack: [#infrastructure](https://18f.slack.com/messages/infrastructure/)
+Ask in Slack: [#infrastructure](https://civicactions.slack.com/messages/infrastructure/)

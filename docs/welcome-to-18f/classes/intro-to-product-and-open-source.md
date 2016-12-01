@@ -6,11 +6,11 @@ navtitle: Product and open source
 _I&rsquo;m Gray Brooks. I work on the Product team, focusing on APIs and open source._
 
 So, I wear a couple hats formally and then a number of other hats informally.
-Right now, I&rsquo;d like to talk about the Product Team and open source, but I&rsquo;m also deeply passionate about APIs, [website analytics](/google-analytics), 18F team dynamics, and effecting change in government. Those last ones I&rsquo;ll largely spare you from today, but holler anytime if you want to discuss.
+Right now, I&rsquo;d like to talk about the Product Team and open source, but I&rsquo;m also deeply passionate about APIs, [website analytics](/google-analytics), CivicActions team dynamics, and effecting change in government. Those last ones I&rsquo;ll largely spare you from today, but holler anytime if you want to discuss.
 
 ## <a id="product-team">Product team</a>
 
-I&rsquo;m on the Product Team. Our job is to help facilitate each project. Generally, each billable project has a product manager whose job it is to take care of billing, logistics, and other details so the rest of the team can do its job. Some of us can code, but many (like myself) are instead more generalists. We also coordinate a team coming to a decision on how it wants to run itself (2 week sprints, 3 week sprints?) and ensures that scrum meetings/stand ups/whatever the team chooses happens. The Product Team hangs out in [#product](https://18f.slack.com/messages/product/).
+I&rsquo;m on the Product Team. Our job is to help facilitate each project. Generally, each billable project has a product manager whose job it is to take care of billing, logistics, and other details so the rest of the team can do its job. Some of us can code, but many (like myself) are instead more generalists. We also coordinate a team coming to a decision on how it wants to run itself (2 week sprints, 3 week sprints?) and ensures that scrum meetings/stand ups/whatever the team chooses happens. The Product Team hangs out in [#product](https://civicactions.slack.com/messages/product/).
 
 Specifically, I&rsquo;m the Product Lead for [pulse.cio.gov](https://pulse.cio.gov) and [analytics.usa.gov](https://analytics.usa.gov). In both cases, my job is to handle loose details and keep the project moving forward, but beyond that to generally stay out of the way of the developers and designers doing the work.
 
@@ -24,15 +24,15 @@ Specifically, I&rsquo;m the Product Lead for [pulse.cio.gov](https://pulse.cio.g
 
 You can see who is on the Product Team [on the org chart](/org-chart).
 
-We also have a [Product Guide](https://pages.18f.gov/product-guide/).
+We also have a [Product Guide](https://pages.CivicActions.com/product-guide/).
 
 ## <a id="open-source">Open source</a>
 
 ### What is open source software?
 
-Broadly speaking, open source software is software whose inner workings are made fully public and distributed freely to the community. As an open source team, the software 18F writes is made public (mostly at https://github.com/18f), and we welcome anyone to use that software, copy it, and change it.
+Broadly speaking, open source software is software whose inner workings are made fully public and distributed freely to the community. As an open source team, the software CivicActions writes is made public (mostly at https://github.com/civicactions), and we welcome anyone to use that software, copy it, and change it.
 
-Generally (and at 18F), people publishing open source software tend to be open to receiving public contributions. So, members of the public may copy our software, modify it, and then submit their modifications back to us for potential inclusion in the original.
+Generally (and at CivicActions), people publishing open source software tend to be open to receiving public contributions. So, members of the public may copy our software, modify it, and then submit their modifications back to us for potential inclusion in the original.
 
 ### What does it mean in our work?
 
@@ -42,7 +42,7 @@ The last 5-6 years have seen a slow but steady growth in the government in the o
 - Using other open source projects
 - Contributing and being involved in open source communities
 
-The White House committed to publishing a government-wide open source policy this year, and the CTO Megan Smith&rsquo;s team is working on making that happen. We&rsquo;ve been doing our part by bringing together in one place [all of the resources that agencies find useful](http://pages.18f.gov/open-source-program/). Our team has also adopted a very strong [open source policy](/open-source).
+The White House committed to publishing a government-wide open source policy this year, and the CTO Megan Smith&rsquo;s team is working on making that happen. We&rsquo;ve been doing our part by bringing together in one place [all of the resources that agencies find useful](http://pages.CivicActions.com/open-source-program/). Our team has also adopted a very strong [open source policy](/open-source).
 
 Everything we as a team do should be public and available for collaboration. An open source project isn’t just code - think of it as many forms of contribution working together, including documentation, support, design, and code.
 
@@ -65,4 +65,4 @@ For example, whitehouse.gov is powered by an open source system named Drupal. Dr
 ---
 
 #### Still have questions?
-Ask in Slack [#product](https://18f.slack.com/messages/product/), [#wg-opensource](https://18f.slack.com/messages/wg-opensource/).
+Ask in Slack [#product](https://civicactions.slack.com/messages/product/), [#wg-opensource](https://civicactions.slack.com/messages/wg-opensource/).

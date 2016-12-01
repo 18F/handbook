@@ -188,7 +188,7 @@ Routing a voucher is now exactly the same as submitting an authorization as seen
 
     *  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2](/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
 
-3. Correct or justify failures. To justify a _FAIL_, you may add an explanation after clicking Justify Pre-Audit Results.  If you need further assistance, please drop a message in #travel or reach out to the team via email 18f-travel@gsa.gov.
+3. Correct or justify failures. To justify a _FAIL_, you may add an explanation after clicking Justify Pre-Audit Results.  If you need further assistance, please drop a message in #travel or reach out to the team via email civicactions-travel@gsa.gov.
 
 4. Click **Submit** (in the upper right hand corner of your voucher)
 
@@ -204,4 +204,4 @@ Congrats!!! Your voucher has been submitted. You don’t even have to click the 
 ## YOU'RE DONE!!!
 
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://civicactions.slack.com/messages/travel)* or [civicactions-travel@gsa.gov](mailto:civicactions-travel@gsa.gov)

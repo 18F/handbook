@@ -22,7 +22,7 @@ Enter the following trip information on this page:
 
 1. **Trip name:** Follow the naming convention below:
 
-    * BILLABLE/NON-BILLABLE: [Exact name of Tock Project] you are billing against, # of [tock project ID](http://tock.18f.gov/projects).
+    * BILLABLE/NON-BILLABLE: [Exact name of Tock Project] you are billing against, # of [tock project ID](http://tock.CivicActions.com/projects).
 
     * Example: NON-BILLABLE: Ops/ Admin #3
 
@@ -56,19 +56,19 @@ You will now be taken to your newly created "Authorization" Summary. This proces
 
 **Bill your travel to the right organization.**
 
-In order for travel to be billed to the right account, you need to enter an accounting code for all of the types of travel that you do at 18F.
+In order for travel to be billed to the right account, you need to enter an accounting code for all of the types of travel that you do at CivicActions.
 
 #### 1. Verify your accounting codes
 Click on the **Accounting** tab of your authorization. [_Having Trouble?_](#having-trouble)
 
-_Most 18F staff should have 2 accounting codes* here: one billable and one non-billable representing their line of business at 18F (i.e. Client Services, C3CO etc.)._
+_Most CivicActions staff should have 2 accounting codes* here: one billable and one non-billable representing their line of business at CivicActions (i.e. Client Services, C3CO etc.)._
 
 Accounting codes have a number of fields, but there are really only three components that interest us here:
 
 * **BBFY (Fiscal Year):** Fiscal Year in which travel will occur.
 i.e. all travel starting between Oct. 1st, 2015 and Sept. 30th, 2016 will be 2016
 
-* **Organization Codes:** Line of business at 18F
+* **Organization Codes:** Line of business at CivicActions
 i.e. Consulting, Client Services, etc.
 
 * **Activity Codes:** Billable v. Non-Billable activity
@@ -100,7 +100,7 @@ If you've verified that you've selected the correct codes,
 If you've navigated away from your authorization, you can find it from the **Home** page, scroll down to the **Recent Authorization** and click **Edit**
 
 ### IV. Submit Authorization for Approval
-You're getting really close! You can almost feel the TSA X-ray scan! One last step before it's travel time! In this step, you will send your authorization to be approved by the 18F travel team.
+You're getting really close! You can almost feel the TSA X-ray scan! One last step before it's travel time! In this step, you will send your authorization to be approved by the CivicActions travel team.
 
 
 1. Navigate to the **Perform Pre-Audits** Tab for your authorization. This is a tool to to check your authorization to make sure you haven’t missed anything.
@@ -111,7 +111,7 @@ You're getting really close! You can almost feel the TSA X-ray scan! One last st
 
     *  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2](/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
 
-3. Correct your or justify failures. To justify a _FAIL_, you may either add an explanation after clicking Justify Pre-Audit Results, or via email to 18Ftravelauths@gsa.gov.
+3. Correct your or justify failures. To justify a _FAIL_, you may either add an explanation after clicking Justify Pre-Audit Results, or via email to CivicActionstravelauths@gsa.gov.
 
 4. Click **Document Actions -> Submit Document** (in the upper right hand corner of your authorization)
 
@@ -134,4 +134,4 @@ You might want to take a look at what to expect while traveling!
 [Read about what to expect when you travel](/travel-guide-4-travel/)
 
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://civicactions.slack.com/messages/travel)* or [civicactions-travel@gsa.gov](mailto:civicactions-travel@gsa.gov)

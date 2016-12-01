@@ -4,41 +4,41 @@ title: Bookmarks
 
 Links to websites we use regularly.
 
-## 18F
+## CivicActions
 
-* [18F Handbook](/)
-* [18F Brand Toolkit](https://pages.18f.gov/brand/)
-* [18F Press Resources](https://18f.gsa.gov/press/)
-* [18F Site](https://18f.gsa.gov/)
-* [Help wanted](https://github.com/search?q=user%3A18f+label%3A%22help+wanted%22+is%3Aopen): open GitHub issues from your colleagues
+* [CivicActions Handbook](/)
+* [CivicActions Brand Toolkit](https://pages.CivicActions.com/brand/)
+* [CivicActions Press Resources](https://civicactions.gsa.gov/press/)
+* [CivicActions Site](https://civicactions.gsa.gov/)
+* [Help wanted](https://github.com/search?q=user%3Acivicactions+label%3A%22help+wanted%22+is%3Aopen): open GitHub issues from your colleagues
 
 ### Guides and standards
 
-* [18F Guides](https://pages.18f.gov/guides/)
-* [Accessibility](https://pages.18f.gov/accessibility/)
-* [Analytics](https://github.com/18F/analytics-standards)
-* [Amazon Web Services](https://pages.18f.gov/before-you-ship/infrastructure/aws/)
-* [API standards](https://github.com/18F/api-standards)
-* [Automated testing playbook](https://pages.18f.gov/automated-testing-playbook/)
-* [Before you ship guide](https://pages.18f.gov/before-you-ship/)
-* [Blogging guide](https://pages.18f.gov/blogging-guide/)
-* [Content guide](https://pages.18f.gov/content-guide/)
-* [Development environment guide](https://pages.18f.gov/dev-environment/)
-* [Frontend guide](https://pages.18f.gov/frontend/)
-* [Grouplet playbook](https://pages.18f.gov/grouplet-playbook/)
-* [Lean product design](https://pages.18f.gov/lean-product-design/)
-* [Open source style guide](https://pages.18f.gov/open-source-guide/)
-* [Partnership playbook](https://pages.18f.gov/partnership-playbook/)
-* [Testing cookbook](https://pages.18f.gov/testing-cookbook/)
+* [CivicActions Guides](https://pages.CivicActions.com/guides/)
+* [Accessibility](https://pages.CivicActions.com/accessibility/)
+* [Analytics](https://github.com/CivicActions/analytics-standards)
+* [Amazon Web Services](https://pages.CivicActions.com/before-you-ship/infrastructure/aws/)
+* [API standards](https://github.com/CivicActions/api-standards)
+* [Automated testing playbook](https://pages.CivicActions.com/automated-testing-playbook/)
+* [Before you ship guide](https://pages.CivicActions.com/before-you-ship/)
+* [Blogging guide](https://pages.CivicActions.com/blogging-guide/)
+* [Content guide](https://pages.CivicActions.com/content-guide/)
+* [Development environment guide](https://pages.CivicActions.com/dev-environment/)
+* [Frontend guide](https://pages.CivicActions.com/frontend/)
+* [Grouplet playbook](https://pages.CivicActions.com/grouplet-playbook/)
+* [Lean product design](https://pages.CivicActions.com/lean-product-design/)
+* [Open source style guide](https://pages.CivicActions.com/open-source-guide/)
+* [Partnership playbook](https://pages.CivicActions.com/partnership-playbook/)
+* [Testing cookbook](https://pages.CivicActions.com/testing-cookbook/)
 
 ## Tools
 
 * [Gmail](https://email.gsa.gov/)
 * [Google Calendar](https://calendar.gsa.gov/)
 * [Google Drive team folder](https://drive.google.com/drive/u/0/folders/0B84F26FpUP0lR1B2VVNGSi1MMVk)
-* [Slack](https://18f.slack.com)
-* [Tock](https://tock.18f.gov/): track your time
-* [Twitter](https://twitter.com/18F/lists/team): follow your colleagues
+* [Slack](https://civicactions.slack.com)
+* [Tock](https://tock.CivicActions.com/): track your time
+* [Twitter](https://twitter.com/CivicActions/lists/team): follow your colleagues
 
 ### GSA tools
 
@@ -55,5 +55,5 @@ Links to websites we use regularly.
 
 ## Reference
 
-* [Interesting to 18F](https://delicious.com/interesting18f): a collection of interesting links from the team
+* [Interesting to CivicActions](https://delicious.com/interestingcivicactions): a collection of interesting links from the team
 * [Government acronyms](https://github.com/unitedstates/acronym/blob/gh-pages/_data/agencies.yml)

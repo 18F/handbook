@@ -3,11 +3,11 @@ title: Intro to the Writing Lab
 navtitle: Writing Lab
 ---
 
-The Writing Lab team knows that writing is hard: It can be time-consuming, stress-inducing, and can sometimes seems like a blocker to a project that’s humming along. And that's why the Writing Lab came into being. The Lab is a virtual writing center where you can get personalized help from members of the 18F editorial team. (And, if you’re a writerly type yourself, you can join the Lab team and volunteer to help other folks with their writing and editorial projects!)
+The Writing Lab team knows that writing is hard: It can be time-consuming, stress-inducing, and can sometimes seems like a blocker to a project that’s humming along. And that's why the Writing Lab came into being. The Lab is a virtual writing center where you can get personalized help from members of the CivicActions editorial team. (And, if you’re a writerly type yourself, you can join the Lab team and volunteer to help other folks with their writing and editorial projects!)
 
 ## <a id="leadership">Leadership</a>
 
-The 18F Writing Lab is run by members of 18F’s editorial team. That includes members of our XD content team (folks who work primarily on partner projects), as well as our outreach/comms team (folks who focus on internal and external 18F communication and evangelism).
+The CivicActions Writing Lab is run by members of CivicActions’s editorial team. That includes members of our XD content team (folks who work primarily on partner projects), as well as our outreach/comms team (folks who focus on internal and external CivicActions communication and evangelism).
 
 All Lab members volunteer their services and base their contributions on their bandwidth at a given time. When you file an issue or ask for help in Slack, one of the Writing Lab members will offer to help and assign themselves the issue you create.
 
@@ -17,8 +17,8 @@ The team’s collective experience is vast. Lab members hail from backgrounds in
 
 Find us in Slack:
 
-- [#writing-lab](https://18f.slack.com/messages/writing-lab)
-- [#g-content](https://18f.slack.com/messages/g-content)
+- [#writing-lab](https://civicactions.slack.com/messages/writing-lab)
+- [#g-content](https://civicactions.slack.com/messages/g-content)
 
 ## Frequently asked questions
 
@@ -41,11 +41,11 @@ TL;DR If you have words and would like help, let us know.
 
 ### <a id="asking-for-help">How do I ask for help?</a>
 
-Standard practice is to file an issue in our [GitHub repo](https://github.com/18F/writing-lab). If you don’t feel comfortable filing an issue, reach out to us on our Slack channel, [#writing-lab](https://18f.slack.com/archives/writing-lab). Provide us with the basic details of your project, and we’ll create an issue for you (and tag you in it).
+Standard practice is to file an issue in our [GitHub repo](https://github.com/CivicActions/writing-lab). If you don’t feel comfortable filing an issue, reach out to us on our Slack channel, [#writing-lab](https://civicactions.slack.com/archives/writing-lab). Provide us with the basic details of your project, and we’ll create an issue for you (and tag you in it).
 
 This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https://docs.google.com/document/d/1pyP501N6L-mJStTUIhsZ9UQoxy7quzoKND9iibS51ls/edit) for you to keep. It has all the information we think you might need in the future.
 
 ### <a id="previous-projects">What has the Writing Lab worked on in the past?</a>
 
-Feel free to peruse the [issues associated with the Writing Lab repository](https://github.com/18F/writing-lab/issues). Also, if you haven’t had a chance to check out the [18F Content Guide](https://pages.18f.gov/content-guide/) yet, that’s a great place to go to familiarize yourself with our style.
+Feel free to peruse the [issues associated with the Writing Lab repository](https://github.com/CivicActions/writing-lab/issues). Also, if you haven’t had a chance to check out the [CivicActions Content Guide](https://pages.CivicActions.com/content-guide/) yet, that’s a great place to go to familiarize yourself with our style.
 

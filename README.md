@@ -16,9 +16,9 @@ Effective March 1, 2015
 
 
 ### [INTRODUCTION](#introduction)
-#### [Welcome to Our Company!](#welcome)
-#### [Background / History](#history)
-#### [Handbook Purpose](#purpose)
+#### [Welcome to Our Company!](#welcome) *
+#### [Background / History](#history) *
+#### [Handbook Purpose](#purpose) *
 ### [EMPLOYMENT](#employ)
 #### [Equal Employment Opportunities](#equal-opportunities)
 #### [Background Checks](#background-check)

@@ -32,7 +32,7 @@ This page is for those looking to create or modify accounting codes, or enter mu
 
     * If non-billable: AF200
 
-5. Choose your **Org Code** (18F lines of Business)
+5. Choose your **Org Code** (CivicActions lines of Business)
     * **Business Ops:** Q00XF100
 
     * **Client Services (Engineering and Product Managers):** Q00XF200
@@ -58,7 +58,7 @@ This page is for those looking to create or modify accounting codes, or enter mu
 
 ### Multiple Accounting Codes
 **MAY NEED UPDATING**
-Sometimes, you may have to combine travel that is being billed to a client with travel taken for other 18F business.
+Sometimes, you may have to combine travel that is being billed to a client with travel taken for other CivicActions business.
 
 For example, you might plan a billable client trip to coincide with the non-billable Offsite All-Hands meeting. Here is how you would go about doing this.
 
@@ -76,4 +76,4 @@ For example, you might plan a billable client trip to coincide with the non-bill
 
 
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://civicactions.slack.com/messages/travel)* or [civicactions-travel@gsa.gov](mailto:civicactions-travel@gsa.gov)

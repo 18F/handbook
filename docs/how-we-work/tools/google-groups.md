@@ -2,7 +2,7 @@
 title: Google Groups
 ---
 
-We use Google Groups to manage team and interest-based email distribution lists and listservs (a list of listservs and groups 18F uses is [here](/general-contacts-and-listservs/)).
+We use Google Groups to manage team and interest-based email distribution lists and listservs (a list of listservs and groups CivicActions uses is [here](/general-contacts-and-listservs/)).
 
 ## Create a Google Group
 
@@ -30,4 +30,4 @@ You can subscribe to Google Groups with the following RSS feed URL: `https://gro
 
 #### Still have questions?
 
-Ask in Slack: [#questions](https://18f.slack.com/messages/questions), [#teamops](https://18f.slack.com/messages/teamops), or [#it-issues](https://18f.slack.com/messages/it-issues)
+Ask in Slack: [#questions](https://civicactions.slack.com/messages/questions), [#teamops](https://civicactions.slack.com/messages/teamops), or [#it-issues](https://civicactions.slack.com/messages/it-issues)

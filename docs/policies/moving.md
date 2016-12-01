@@ -28,4 +28,4 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 ## Change your Slack location
 
-We've started putting our location in parentheses after our names in Slack to make it easier for coworkers to tell where we are. To update it, [open your profile](https://18f.slack.com/account/profile), click **Edit**, and update the letters after your last name.
+We've started putting our location in parentheses after our names in Slack to make it easier for coworkers to tell where we are. To update it, [open your profile](https://civicactions.slack.com/account/profile), click **Edit**, and update the letters after your last name.

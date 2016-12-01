@@ -13,7 +13,7 @@ Should an unforeseen emergency or illness arise requiring the use of leave not p
 Before taking leave, be sure to:
 
 - Submit leave through [ALOHA](https://aloha.gsa.gov)
-- Update the 18F Out of Office Calendar
+- Update the CivicActions Out of Office Calendar
 - Notify your Engagement Manager, if you're on an outside project, so they can update Float
 - Submit correct Tock entries assigned to Annual Leave
 - Share via Slack, email or over media with folk how need to know, and make sure work is covered
@@ -24,17 +24,17 @@ Adjusting work schedules for religious observances is handled differently than l
 
 ## Telework
 
-Telework provides the flexibility to work from home with the approval of your  supervisor. Telework improves morale and productivity by allowing for greater collaboration among peers. 18F recognizes these benefits and encourages the use of telework as described below. This policy adheres to and is in conjunction with [GSA’s Telework Policy](http://www.gsa.gov/portal/content/105192).
+Telework provides the flexibility to work from home with the approval of your  supervisor. Telework improves morale and productivity by allowing for greater collaboration among peers. CivicActions recognizes these benefits and encourages the use of telework as described below. This policy adheres to and is in conjunction with [GSA’s Telework Policy](http://www.gsa.gov/portal/content/105192).
 
 ### Maximum number of days
 
-18F employees are allowed up to six telework days per pay period, or three days per week. This permits the maximum degree of telework while retaining an in-office physical presence to justify assigned office space and ensure productivity.
+CivicActions employees are allowed up to six telework days per pay period, or three days per week. This permits the maximum degree of telework while retaining an in-office physical presence to justify assigned office space and ensure productivity.
 
 A regular teleworker may also be permitted to telework episodically for additional days on a case-by-case basis with supervisor approval. Please have a conversation with your supervisor to determine your ability to telework, as your eligibility may depend on your team or projects.
 
 ### Culture
 
-While your supervisor is the deciding official for implementing the telework policy, the culture of 18F is to keep project teams, supervisors, and coworkers apprised of your schedule through designated channels (18F Out of Office Calendar and Slack).
+While your supervisor is the deciding official for implementing the telework policy, the culture of CivicActions is to keep project teams, supervisors, and coworkers apprised of your schedule through designated channels (CivicActions Out of Office Calendar and Slack).
 
 ### Alternative worksite location
 
@@ -97,7 +97,7 @@ You may also digitally scan GSA files to create an electronic document, which ca
 
 ## Virtual worker agreements
 
-Virtual worker agreements are currently being used when an employee can not be coded to an official office location within their duty station. The 18F Office made use of virtual worker agreements when Washington, D.C. was the only official duty station, yet 18F had employees in other locations (San Francisco, Chicago, Dayton). Once a location has enough people to warrant an official office, a location will be established and people previously considered virtual workers will become teleworkers.
+Virtual worker agreements are currently being used when an employee can not be coded to an official office location within their duty station. The CivicActions Office made use of virtual worker agreements when Washington, D.C. was the only official duty station, yet CivicActions had employees in other locations (San Francisco, Chicago, Dayton). Once a location has enough people to warrant an official office, a location will be established and people previously considered virtual workers will become teleworkers.
 
 
 ## Working in a foreign country

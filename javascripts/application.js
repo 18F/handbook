@@ -114,30 +114,30 @@ $(document).ready(function() {
 
 document.addEventListener('DOMContentLoaded', function() {
   PrivateEye({
-    defaultMessage: "This link is private to 18F.",
-    // see also: https://github.com/18F/guides-style/blob/master/assets/js/18f-guide.js
+    defaultMessage: "This link is private to CivicActions.",
+    // see also: https://github.com/CivicActions/guides-style/blob/master/assets/js/civicactions-guide.js
     ignoreUrls: [
-      '18f.slack.com',
+      'civicactions.slack.com',
       'anywhere.gsa.gov',
       'bookit.gsa.gov',
       'calendar.gsa.gov',
       'docs.google.com',
       'drive.google.com',
       'email.gsa.gov',
-      'github.com/18F/Accessibility_Reviews',
-      'github.com/18F/blog-drafts',
-      'github.com/18F/codereviews',
-      'github.com/18F/DevOps',
-      'github.com/18F/Infrastructure',
-      'github.com/18F/staffing-and-resources',
-      'github.com/18F/team-api.18f.gov',
-      'github.com/18F/writing-lab',
+      'github.com/CivicActions/Accessibility_Reviews',
+      'github.com/CivicActions/blog-drafts',
+      'github.com/CivicActions/codereviews',
+      'github.com/CivicActions/DevOps',
+      'github.com/CivicActions/Infrastructure',
+      'github.com/CivicActions/staffing-and-resources',
+      'github.com/CivicActions/team-api.CivicActions.com',
+      'github.com/CivicActions/writing-lab',
       'gkey.gsa.gov',
       'gsa.my.salesforce.com',
       'insite.gsa.gov',
       'mail.gsa.gov',
-      'pages-internal.18f.gov',
-      'tock.18f.gov'
+      'pages-internal.CivicActions.com',
+      'tock.CivicActions.com'
     ]
   });
 }, false );

@@ -9,7 +9,7 @@ We strive to deliver the right thing, the right way. The Product chapter serves 
 
 _Great products are born of great teams._
 
-We empower, organize, communicate, and collaborate with **people** to build great teams. We remove blockers, give cover, and find a way to enable each member of our team to deliver. We build relationships and establish trust so our partners embrace 18F’s culture and values.
+We empower, organize, communicate, and collaborate with **people** to build great teams. We remove blockers, give cover, and find a way to enable each member of our team to deliver. We build relationships and establish trust so our partners embrace CivicActions’s culture and values.
 
 We lead and manage our teams’ **process**. We ensure that the mission is well defined and achievable. We use agile methodologies to ensure we have effective teams that are responsive to change and continuously delivering. 
 
@@ -31,22 +31,22 @@ We’re here to understand your problem and deliver the right product: be that a
 - **Evolving the product:** Once a project is launched and live, we lead teams that deliver continuous feature development and quality product experiences. We work with partners to collect citizen feedback and metrics, and use this data to best serve the public.
 - **Creating enduring value:** We help with the technological and cultural transition to empower our partners to grow and sustain the product beyond our team's efforts. We execute transitions to partners or acquisitions, build our work into shared platforms, and train partners in skills needed to ensure ongoing success.
 
-**Engagement Management:** We provide a clear point of accountability and ownership for project delivery and client relationships. We ensure projects are delivered within budget and according to the terms of the agreement, build trust-filled relationships with our partners, and spread 18F’s culture.
+**Engagement Management:** We provide a clear point of accountability and ownership for project delivery and client relationships. We ensure projects are delivered within budget and according to the terms of the agreement, build trust-filled relationships with our partners, and spread CivicActions’s culture.
 
 **Finding a Way:** We find a way to move from your needs to solutions, and from your goals to a reality. We build the bridge from a vision to delivered results.
 
-If you have any questions, you can find us on Slack in [#product](https://18f.slack.com/messages/product), or ping `@product-team` from any channel.
+If you have any questions, you can find us on Slack in [#product](https://civicactions.slack.com/messages/product), or ping `@product-team` from any channel.
 
 ---
 
 ## Joining the Product team
 
 ### Checklist
-[Here’s the list](https://github.com/18F/onboarding-documents/blob/master/Checklists/team-based-checklists/product-new-hire-checklist.md) of things to do during your first week on the Product team. 
+[Here’s the list](https://github.com/CivicActions/onboarding-documents/blob/master/Checklists/team-based-checklists/product-new-hire-checklist.md) of things to do during your first week on the Product team.
 
 Please note that you might not have much assigned work during your first week here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project still hasn’t landed, you have two options - shadow a Product Lead on a current project or work on an internal project that isn't funded but that will help us all work better together. Talk to the Director of Product and your onboarding buddy to get more information about how you can get involved with pairing or an internal project.
 
 
 ### Product lead guide
 
-The [product lead guide](https://pages.18f.gov/product-guide/) serves as a handbook for new product team members. It has details about the roles a product lead might play, along with lots of helpful information about the delivery lifecycle.
+The [product lead guide](https://pages.CivicActions.com/product-guide/) serves as a handbook for new product team members. It has details about the roles a product lead might play, along with lots of helpful information about the delivery lifecycle.

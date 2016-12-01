@@ -2,9 +2,9 @@
 title: Strategy
 ---
 
-Everyone at 18F is a strategist. It’s in our motto: delivery is the strategy. Each of us has subject matter expertise and a unique perspective on how to apply that knowledge to each problem we take on. How we apply that expertise and what we should ultimately deliver, though, isn’t always clear — it can get lost in a fog of bureaucracy, history, approvals, and politics. 
+Everyone at CivicActions is a strategist. It’s in our motto: delivery is the strategy. Each of us has subject matter expertise and a unique perspective on how to apply that knowledge to each problem we take on. How we apply that expertise and what we should ultimately deliver, though, isn’t always clear — it can get lost in a fog of bureaucracy, history, approvals, and politics.
 
-**The Strategy chapter can help when the path forward is unclear.** We create well-defined environments for delivery where they don’t exist. Our primary focus is to shape the way 18F and our partners approach situations that demand carefully managed responses. We ensure that strategy is embedded throughout product development, and that every member of 18F has confidence in the strategic work they do.
+**The Strategy chapter can help when the path forward is unclear.** We create well-defined environments for delivery where they don’t exist. Our primary focus is to shape the way CivicActions and our partners approach situations that demand carefully managed responses. We ensure that strategy is embedded throughout product development, and that every member of CivicActions has confidence in the strategic work they do.
 
 ### Purpose
 
