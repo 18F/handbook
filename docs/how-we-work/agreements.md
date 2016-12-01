@@ -2,16 +2,16 @@
 title: Agreements
 ---
 
-18F is a fee-for-service organization. Federal law requires that any agreement between agencies be recorded in some manner.
+CivicActions is a fee-for-service organization. Federal law requires that any agreement between agencies be recorded in some manner.
 
 ## Background
 
-18F uses two mechanisms to record its agreements with other agencies: Interagency Agreements (IAAs) and Memorandums of Understanding (MOUs).
+CivicActions uses two mechanisms to record its agreements with other agencies: Interagency Agreements (IAAs) and Memorandums of Understanding (MOUs).
 
 - _IAA_ is our shorthand for using the Treasury Department&rsquo;s standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
-- An MOU is a single document to record work done by 18F for OCSIT. Since 18F is part of OCSIT, this agreement is between 18F/OCSIT and the GSA-CFO to allow the transfer of funds from the OCSIT appropriation to 18F for work to be done. Team Ops provides a [template](https://drive.google.com/open?id=1WiUb-FiM93UNFSvL_TgtcGog7m5BGlutI1SWMFyQOJg) for your use.
+- An MOU is a single document to record work done by CivicActions for OCSIT. Since CivicActions is part of OCSIT, this agreement is between CivicActions/OCSIT and the GSA-CFO to allow the transfer of funds from the OCSIT appropriation to CivicActions for work to be done. Team Ops provides a [template](https://drive.google.com/open?id=1WiUb-FiM93UNFSvL_TgtcGog7m5BGlutI1SWMFyQOJg) for your use.
 
-Under no circumstances does 18F do work without a signed, executed agreement in place. If you have a question about the existence of an agreement or whether work can begin, ask in [#iaa](https://18f.slack.com/archives/iaa).
+Under no circumstances does CivicActions do work without a signed, executed agreement in place. If you have a question about the existence of an agreement or whether work can begin, ask in [#iaa](https://civicactions.slack.com/archives/iaa).
 
 For more information about how we do business, see our [account management policy](/client-accounts/).
 
@@ -22,23 +22,23 @@ An IAA is made up of:
 
 - [7600A General Terms and Conditions](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/forms/IAA-general-terms-condition-ver6-09-23-11.pdf): This form records an estimated amount and agreement period. Neither the amount nor the agreement period may be exceeded by the cumulative 7600Bs issued under the 7600A. However, this amount and period are merely estimates.
 
-- [18F standard terms](https://pages.18f.gov/iaa-forms/attachment-a.html): This document is attached to all 7600As. It contains multiple provisions, with the two most important being our commitment to open source work and our communication clause informing clients that we may blog about them.
+- [CivicActions standard terms](https://pages.civicactions.com/iaa-forms/attachment-a.html): This document is attached to all 7600As. It contains multiple provisions, with the two most important being our commitment to open source work and our communication clause informing clients that we may blog about them.
 
 - [7600B Order Requirements and Funding Information](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/forms/IAA-Order-7600B-10-10-12-update.pdf): This form records the actual amount obligated<sup>1</sup> in the agreement by the client agency and a period of performance for the specific project. The funding information for each agency is recorded, including the expiration of the funding appropriation. This information is vital to ensuring the agreement meets applicable appropriations laws. There can be multiple 7600Bs under a 7600A, but the total cost of the 7600Bs cannot exceed the estimated amount on the 7600A, nor can the period of performance exceed the end date in the 7600A.
 
-- [Statement of Work](https://docs.google.com/document/d/1pbJMDmFBFYKs1sU05jrxWFySpeKjbRNdfk32RY3ub70/edit) (SOW): This document is an attachment to the 7600B and describes the need of the client for 18F's services and the actual deliverables that will be provided by 18F. These deliverables are specific while adhering to agile principles. Team Ops has multiple templates drafted for use by product leads.
+- [Statement of Work](https://docs.google.com/document/d/1pbJMDmFBFYKs1sU05jrxWFySpeKjbRNdfk32RY3ub70/edit) (SOW): This document is an attachment to the 7600B and describes the need of the client for CivicActions's services and the actual deliverables that will be provided by CivicActions. These deliverables are specific while adhering to agile principles. Team Ops has multiple templates drafted for use by product leads.
 
-- [Financial information](https://pages.18f.gov/iaa-forms/attachment-b.html): This is an attachment to the 7600B and describes items 18F can bill to the client in every agreement. It is boilerplate language.
+- [Financial information](https://pages.civicactions.com/iaa-forms/attachment-b.html): This is an attachment to the 7600B and describes items CivicActions can bill to the client in every agreement. It is boilerplate language.
 
 ## Agreements Kanban Board
 
-The agreements team maintains an Kanban board for agreements in the DC office. Every weekday, a member of the agreements team posts a image of the board in [#iaa](https://18f.slack.com/archives/iaa), as well as providing a visual representation of the status of each category on the board. 
+The agreements team maintains an Kanban board for agreements in the DC office. Every weekday, a member of the agreements team posts a image of the board in [#iaa](https://civicactions.slack.com/archives/iaa), as well as providing a visual representation of the status of each category on the board.
 
 ## How do I get an IAA or MOU completed?
 
 Follow the steps below. The process usually takes 30 days, and largely depends on how quickly the client provides the required information; you complete a statement of work; and the Office of General Counsel (OGC) reviews the agreement. Some agreements can take as few as 10 days, while others take up to 90 days.
 
-The information below provides more detail than we typically give clients. Team Ops maintains a [client-facing agreements site](https://pages.18f.gov/iaa-forms/) that presents a simpler process.
+The information below provides more detail than we typically give clients. Team Ops maintains a [client-facing agreements site](https://pages.civicactions.com/iaa-forms/) that presents a simpler process.
 
 ### Qualification
 
@@ -61,7 +61,7 @@ The information below provides more detail than we typically give clients. Team 
 1. The project lead contacts the Director of Infrastructure if any infrastructure is being used.
 1. The final agreement package is assembled (IAA: 7600A, standard terms, 7600B, statement of work, financial information) and shared with client for approval. Team Ops will move to the next phase even without approval from client to keep pace moving.
 
-### 18F Approvals
+### CivicActions Approvals
 
 1. The Director of Infrastructure and Agreements Lead approve the agreement.
 
@@ -71,9 +71,9 @@ The information below provides more detail than we typically give clients. Team 
 1. OCG makes edits. The project lead apprised of edits and accepts or rejects edits.
 1. OGC approves the edited documents.
 
-### 18F Executive Director Approval
+### CivicActions Executive Director Approval
 
-1. 18F Executive Director approves the agreement.
+1. CivicActions Executive Director approves the agreement.
 
 ### External Signature
 
@@ -88,12 +88,12 @@ The information below provides more detail than we typically give clients. Team 
 ### Loading
 
 1. Team Ops distributes the signed agreement to the client and project lead. The project is moved to the appropriate column on the staffing kanban board.
-1. Team Ops loads the agreement into the 18F and GSA systems for billing purposes.
+1. Team Ops loads the agreement into the CivicActions and GSA systems for billing purposes.
 1. Team Ops contacts the project lead to create a Tock project to record hours for the agreement.
 
 ## Reporting
 
-For information about in-process or signed agreements, see the [18F Master Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=2047916505) and our [account management policy](/client-accounts/).
+For information about in-process or signed agreements, see the [CivicActions Master Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=2047916505) and our [account management policy](/client-accounts/).
 
 ---
 

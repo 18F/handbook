@@ -14,4 +14,4 @@ Have completed your  IT Security Awareness Training and Privacy Act Training in 
 
 [No - I didn't/don't have access to OLU.](/first-time-travel-get-in-concur-pre-olu)
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://civicactions.slack.com/messages/travel)* or [civicactions-travel@gsa.gov](mailto:civicactions-travel@gsa.gov)

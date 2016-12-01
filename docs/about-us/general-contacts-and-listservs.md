@@ -4,7 +4,7 @@ title: General contacts and listservs
 
 Contacts, email groups, and government-related newsletters.
 
-## 18F information
+## CivicActions information
 
 Information you might need for filling out GSA forms:
 
@@ -15,11 +15,11 @@ Information you might need for filling out GSA forms:
 
 ## Team contact information
 
-- [18F team contact info sheet](https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3) and [OCSIT/18F telephone directory](https://docs.google.com/spreadsheets/d/1d3Eom-marGFCQHEn5JcZfONO8lSBdhxde16hpqCNchs/edit#gid=1429531777) (our phone numbers, email addresses, and more)
+- [CivicActions team contact info sheet](https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3) and [OCSIT/CivicActions telephone directory](https://docs.google.com/spreadsheets/d/1d3Eom-marGFCQHEn5JcZfONO8lSBdhxde16hpqCNchs/edit#gid=1429531777) (our phone numbers, email addresses, and more)
 - [Presidential Innovation Fellows (PIFs) contact info](https://docs.google.com/spreadsheets/d/1ejzCQLvRVaMjw1V-WOH_iabRd9dAT_mccaxrbJCNOQQ/edit#gid=1628534837)
-- [18F website team members list](https://18f.gsa.gov/team/) (this isn't always complete)
-- [18F #alumni channel](https://18f.slack.com/messages/alumni/)
-- [18F info for press](https://18f.gsa.gov/press/)
+- [CivicActions website team members list](https://civicactions.gsa.gov/team/) (this isn't always complete)
+- [CivicActions #alumni channel](https://civicactions.slack.com/messages/alumni/)
+- [CivicActions info for press](https://civicactions.gsa.gov/press/)
 
 ## Offices
 
@@ -32,37 +32,37 @@ Information you might need for filling out GSA forms:
 
 ### General
 
-- General inbox: [18f@gsa.gov](mailto:18f@gsa.gov)
-- 18F team: [18f-team@gsa.gov](mailto:18f-team@gsa.gov)
-- Join 18F: [join18f@gsa.gov](mailto:join18f@gsa.gov)
-- 18F supervisors: [18f-supervisors@gsa.gov](mailto:18f-supervisors@gsa.gov)
+- General inbox: [civicactions@gsa.gov](mailto:civicactions@gsa.gov)
+- CivicActions team: [civicactions-team@gsa.gov](mailto:civicactions-team@gsa.gov)
+- Join CivicActions: [joincivicactions@gsa.gov](mailto:joincivicactions@gsa.gov)
+- CivicActions supervisors: [civicactions-supervisors@gsa.gov](mailto:civicactions-supervisors@gsa.gov)
 - Technology Transformation Service: [tts@gsa.gov](mailto:tts@gsa.gov)
 
 ### Business Inquiries
-- Agencies inquiring about working with 18F: [inquiries18f@gsa.gov](mailto:inquiries18f@gsa.gov)
+- Agencies inquiring about working with CivicActions: [inquiriescivicactions@gsa.gov](mailto:inquiriescivicactions@gsa.gov)
 - For Agile BPA vendors: [agilebpa@gsa.gov](mailto:agilebpa@gsa.gov)
 - cloud.gov-specific inquiries: [cloud-gov-inquiries@gsa.gov](mailto:cloud-gov-inquiries@gsa.gov)
 
 ### Business Units
- - Custom Partner Solutions: [18f-partnersolutions@gsa.gov](mailto:18f-partnersolutions@gsa.gov)
- - Products and Platforms: [18f-productsplatforms@gsa.gov](mailto:18f-productsplatforms@gsa.gov)
+ - Custom Partner Solutions: [civicactions-partnersolutions@gsa.gov](mailto:civicactions-partnersolutions@gsa.gov)
+ - Products and Platforms: [civicactions-productsplatforms@gsa.gov](mailto:civicactions-productsplatforms@gsa.gov)
 
 ### Chapters and PIF
 
-- Development team: [18fdev@gsa.gov](mailto:18fdev@gsa.gov)
-- Experience Design team: [18f-design@gsa.gov](mailto:18f-design@gsa.gov)
+- Development team: [civicactionsdev@gsa.gov](mailto:civicactionsdev@gsa.gov)
+- Experience Design team: [civicactions-design@gsa.gov](mailto:civicactions-design@gsa.gov)
 - Presidential Innovation Fellows: [pif-team@pif.gov](mailto:pif-team@pif.gov)
-- Product team: [18f-product@gsa.gov](mailto:18f-product@gsa.gov)
+- Product team: [civicactions-product@gsa.gov](mailto:civicactions-product@gsa.gov)
 
 ### Offices
 
-- New York City: [18f-nyc@gsa.gov](mailto:18f-nyc@gsa.gov)
-- San Francisco: [18f-sf@gsa.gov](mailto:18f-sf@gsa.gov)
-- Washington D.C.: [18f-dc@gsa.gov](mailto:18f-dc@gsa.gov)
+- New York City: [civicactions-nyc@gsa.gov](mailto:civicactions-nyc@gsa.gov)
+- San Francisco: [civicactions-sf@gsa.gov](mailto:civicactions-sf@gsa.gov)
+- Washington D.C.: [civicactions-dc@gsa.gov](mailto:civicactions-dc@gsa.gov)
 
 ### Projects
 
-- CALC: [calc-18f@gsa.gov](mailto:calc-18f@gsa.gov)
+- CALC: [calc-civicactions@gsa.gov](mailto:calc-civicactions@gsa.gov)
 - cloud.gov support: [cloud-gov-support@gsa.gov](mailto:cloud-gov-support@gsa.gov)
 - DATA.gov APIs: [api.data.gov@gsa.gov](mailto:api.data.gov@gsa.gov)
 - Digital Analytics Program: [dap@gsa.gov](mailto:dap@gsa.gov)
@@ -71,7 +71,7 @@ Information you might need for filling out GSA forms:
 - MyUSA project: [myusa@gsa.gov](mailto:myusa@gsa.gov)
 - Draft U.S. Web Design Standards: [govtwidepatternlibrary@gsa.gov](mailto:govtwidepatternlibrary@gsa.gov)
 
-### Contacting OCSIT outside of 18F
+### Contacting OCSIT outside of CivicActions
 
 - OSCIT feds: [ocsit-team@gsa.gov](mailto:ocsit-team@gsa.gov)
 - OCSIT contractors: [ocsit-contractors@gsa.gov](mailto:ocsit-contractors@gsa.gov)
@@ -131,7 +131,7 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 
 #### Digital Service
 
-**About:** This listserv is used for cross-team announcements and conversation between USDS HQ, agency digital service teams, 18F etc.
+**About:** This listserv is used for cross-team announcements and conversation between USDS HQ, agency digital service teams, CivicActions etc.
 
 **To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe digitalservice` in the body.
 
@@ -143,13 +143,13 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 
 #### Security Today
 
-**About:** This list is for discussing modern developments and best practices in security and privacy, with a (not exclusive) focus on technology and the internet. Run by Eric Mill of 18F, with participants from federal, state, and local governments.
+**About:** This list is for discussing modern developments and best practices in security and privacy, with a (not exclusive) focus on technology and the internet. Run by Eric Mill of CivicActions, with participants from federal, state, and local governments.
 
 **To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe security-today` in the body.
 
 #### Bug Bounty
 
-**About**: This list is for coordinating and discussing government bug bounty programs. Lurkers welcome, but the focus is on discussing actual program operations, rather than the nature of bug bounty programs generally. Anyone with a .gov or .mil email can join. Run by Eric Mill of 18F.
+**About**: This list is for coordinating and discussing government bug bounty programs. Lurkers welcome, but the focus is on discussing actual program operations, rather than the nature of bug bounty programs generally. Anyone with a .gov or .mil email can join. Run by Eric Mill of CivicActions.
 
 **To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe bug-bounty` in the body.
 

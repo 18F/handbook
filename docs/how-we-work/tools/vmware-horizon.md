@@ -26,4 +26,4 @@ Note: myView/Horizon allows for a virtual desktop in browser with no downloads.
 
 #### Still have questions?
 
-Ask in Slack: [#it-issues](https://18f.slack.com/messages/questions/) or [#distributed](https://18f.slack.com/messages/distributed/)
+Ask in Slack: [#it-issues](https://civicactions.slack.com/messages/questions/) or [#distributed](https://civicactions.slack.com/messages/distributed/)

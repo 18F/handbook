@@ -6,26 +6,26 @@ The federal government is accountable for making all of its products 508 complia
 
 ## <a id="leadership">Leadership</a>
 
-Developer [Nick Bristow](https://18f.slack.com/messages/@bristow) leads the [accessibility guild](https://github.com/18F/accessibility). 
+Developer [Nick Bristow](https://civicactions.slack.com/messages/@bristow) leads the [accessibility guild](https://github.com/CivicActions/accessibility).
 
 ## <a id="communication">Communication</a>
 
 ### Slack room
 
-[#g-accessibility](https://18f.slack.com/messages/g-accessibility/) — Ask about any accessibility-related topic.
+[#g-accessibility](https://civicactions.slack.com/messages/g-accessibility/) — Ask about any accessibility-related topic.
 
 ### GitHub repo
 
-[Accessibility](https://github.com/18F/accessibility)
+[Accessibility](https://github.com/CivicActions/accessibility)
 
 ### Documentation
 
-- [Accessibility Guide](https://pages.18f.gov/accessibility/)
+- [Accessibility Guide](https://pages.civicactions.com/accessibility/)
 - [Working Groups and Guilds](/working-groups-and-guilds-101)
 
 ## <a id="training">Training</a>
 
-18F hosts monthly training sessions to help you learn how to build accessible products. The class is required for all developers, who must attend the class at least once (but can attend as many times as they like). Folks from other teams are encouraged to attend as well. Find the class schedule on the [Working Groups and Guilds calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com&ctz=America/New_York).
+CivicActions hosts monthly training sessions to help you learn how to build accessible products. The class is required for all developers, who must attend the class at least once (but can attend as many times as they like). Folks from other teams are encouraged to attend as well. Find the class schedule on the [Working Groups and Guilds calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com&ctz=America/New_York).
 
 ## <a id="making-a-project-accessibile">Making a project accessible</a>
 
@@ -39,4 +39,4 @@ As you think about accessibility, here are some good rules to follow:
 
 If you remember these three things, you'll avoid 90% of accessibility issues right off the bat.
 
-Everything else in 508 is about improving the user experience. To learn more, sign up for our monthly training session, review the [Accessibility Guide](https://pages.18f.gov/accessibility/), and come to one of our meetings.
+Everything else in 508 is about improving the user experience. To learn more, sign up for our monthly training session, review the [Accessibility Guide](https://pages.civicactions.com/accessibility/), and come to one of our meetings.

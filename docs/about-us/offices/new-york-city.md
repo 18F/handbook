@@ -22,8 +22,8 @@ title: New York City
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-        <a href="https://18f.slack.com/messages/@vv">Victor Valdivizeo</a><br />
-        <a href="https://18f.slack.com/messages/@jeremiak">Jeremia Kimelman</a>
+        <a href="https://civicactions.slack.com/messages/@vv">Victor Valdivizeo</a><br />
+        <a href="https://civicactions.slack.com/messages/@jeremiak">Jeremia Kimelman</a>
         </td>
       </tr>
       <tr>
@@ -31,7 +31,7 @@ title: New York City
           <strong>Slack&nbsp;channel</strong>
         </td>
         <td class="col-value">
-          <a href="https://18f.slack.com/messages/nyc/">#nyc</a>
+          <a href="https://civicactions.slack.com/messages/nyc/">#nyc</a>
         </td>
       </tr>
       <tr>
@@ -51,8 +51,8 @@ title: New York City
           <strong>Listserv</strong>
         </td>
         <td class="col-value">
-        <a href="mailto:18f-nyc@gsa.gov">18f-nyc@gsa.gov</a><br />
-        (Admins can add people to the group <a href="https://groups.google.com/a/gsa.gov/forum/#!managemembers/18f-nyc/add">here</a>)
+        <a href="mailto:civicactions-nyc@gsa.gov">civicactions-nyc@gsa.gov</a><br />
+        (Admins can add people to the group <a href="https://groups.google.com/a/gsa.gov/forum/#!managemembers/civicactions-nyc/add">here</a>)
         </td>
        </tr>
     </tbody>
@@ -95,7 +95,7 @@ There are public garages available in the area, but on-the-street parking is hig
 
 ### <a id="enter-the-building"></a>Enter the building for the first time?
 
-Head up to the second floor. Sign in at the front desk, listing your organization as 18F. That's it. We've taken to sitting at the desks with the big monitors: if you go through the front door, make two lefts.
+Head up to the second floor. Sign in at the front desk, listing your organization as CivicActions. That's it. We've taken to sitting at the desks with the big monitors: if you go through the front door, make two lefts.
 
 ### <a id="get-my-fingerprints"></a>Get my fingerprints and badge?
 
@@ -138,7 +138,7 @@ You can get coffee, espresso, cappuccinos, tea, and water in the kitchen free of
 
 ### <a id="spare-keyboards-mice"></a>Spare keyboards and mice
 
-If you need office supplies, ask in [#teamops](https://18f.slack.com/messages/teamops/). They will likely send you to [https://cap.18f.gov](https://cap.18f.gov/) to order the supplies.
+If you need office supplies, ask in [#teamops](https://civicactions.slack.com/messages/teamops/). They will likely send you to [https://cap.civicactions.com](https://cap.civicactions.com/) to order the supplies.
 
 If you need a cord to connect to one of the monitors in the space (or to a conference room set up) ask at the front desk. They also have chargers!
 
@@ -150,7 +150,7 @@ All GSA employees are eligible for transit subsidies which cover the cost of you
 
 In region 2 (that&rsquo;s us!) the transit benefit comes on a prepaid debit card that you can use to add money to a your MetroCard. Fill out and sign both pages of the application; the second page shows how you calculated what you are asking for. After you&rsquo;re done, send it to your supervisor to sign and return to you.
 
-The bank that processes region 2 subsidies (Chase) requires one more piece of information that is not on the form: your Service Computation Date. If you are a new federal employee, this is the Sunday before the first day you showed up at 18F. If you are continuing from a previous federal job, it is the day you started that job. You can find that date on [Employee Express](https://www.employeeexpress.gov/).
+The bank that processes region 2 subsidies (Chase) requires one more piece of information that is not on the form: your Service Computation Date. If you are a new federal employee, this is the Sunday before the first day you showed up at CivicActions. If you are continuing from a previous federal job, it is the day you started that job. You can find that date on [Employee Express](https://www.employeeexpress.gov/).
 
 Email the completed form to Benjamin Zabava at [ben.zabava@gsa.gov](mailto:ben.zabava@gsa.gov), and cc Victor Valdiviezo ([victor.valdiviezo@gsa.gov](mailto:victor.valdiviezo@gsa.gov)). Include your service computation date in the email. He will tell you when a transit card has arrived for you and is available to pick up at his desk in room 1655. It can take about a week.
 
@@ -169,4 +169,4 @@ We have a team breakfast every Tuesday morning in the Civic Hall cafe (BYOB - br
 
 ## <a id="who-works-here"></a>Who works here?
 
-You can find everyone who works in the NYC office [here](https://pages.18f.gov/team-browser/?locations=NYC).
+You can find everyone who works in the NYC office [here](https://pages.civicactions.com/team-browser/?locations=NYC).

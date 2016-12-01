@@ -15,9 +15,9 @@ title: Washington, D.C.
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-          <a href="https://18f.slack.com/messages/leahgitter/">Leah Gitter</a><br />
-          <a href="https://18f.slack.com/messages/shawnique/">Shawnique Muller</a><br />
-          Phone numbers are in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a><br />
+          <a href="https://civicactions.slack.com/messages/leahgitter/">Leah Gitter</a><br />
+          <a href="https://civicactions.slack.com/messages/shawnique/">Shawnique Muller</a><br />
+          Phone numbers are in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">CivicActions team contact info sheet</a><br />
           <a href="mailto:1800ftenantsupport@gsa.gov">GSA Tenant Support</a>
         </td>
       </tr>
@@ -26,7 +26,7 @@ title: Washington, D.C.
           <strong>Slack&nbsp;channels</strong>
         </td>
         <td class="col-value">
-          <a href="https://18f.slack.com/messages/dc/">#dc</a>, <a href="https://18f.slack.com/messages/dc-lunchbell/">#dc-lunchbell</a>, <a href="https://18f.slack.com/messages/dc-lunch-club/">#dc-lunch-club</a>, <a href="https://18f.slack.com/messages/dc-snack-inventory/">#dc-snack-inventory</a>
+          <a href="https://civicactions.slack.com/messages/dc/">#dc</a>, <a href="https://civicactions.slack.com/messages/dc-lunchbell/">#dc-lunchbell</a>, <a href="https://civicactions.slack.com/messages/dc-lunch-club/">#dc-lunch-club</a>, <a href="https://civicactions.slack.com/messages/dc-snack-inventory/">#dc-snack-inventory</a>
         </td>
       </tr>
       <tr>
@@ -34,7 +34,7 @@ title: Washington, D.C.
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           18F sits on the fourth floor, in the 400&rsquo;s hallway, which is <br />
+           CivicActions sits on the fourth floor, in the 400&rsquo;s hallway, which is <br />
            located on the E Street side in what&rsquo;s known as the infill.
         </td>
       </tr>
@@ -62,12 +62,12 @@ If you&rsquo;re coming from **Thurgood Marshall Baltimore-Washington Airport (BW
 
 ### Walking
 
-18F&rsquo;s Washington office is located two blocks from the White House, six blocks from the Farragut North station, and three blocks from the Farragut West Metro Station. If you&rsquo;d like to take an afternoon walk, the Smithsonian is three blocks away via 18th Street.
+CivicActions&rsquo;s Washington office is located two blocks from the White House, six blocks from the Farragut North station, and three blocks from the Farragut West Metro Station. If you&rsquo;d like to take an afternoon walk, the Smithsonian is three blocks away via 18th Street.
 
 
 ### Biking
 
-Bike parking is free. The entrance to the bike room is via a ramp on E Street by Greenberry&rsquo;s Coffee. (There are two ramps into the 18F office. The one closer to 19th Street is the one you&rsquo;re looking for.) You must show your GSA ID to the guide and then take your bike down to the bike room in the big building at the center of the courtyard.
+Bike parking is free. The entrance to the bike room is via a ramp on E Street by Greenberry&rsquo;s Coffee. (There are two ramps into the CivicActions office. The one closer to 19th Street is the one you&rsquo;re looking for.) You must show your GSA ID to the guide and then take your bike down to the bike room in the big building at the center of the courtyard.
 
 There are also numerous Capital Bikeshare stations in the vicinity.
 
@@ -97,14 +97,14 @@ Enter through the main building entrance on F Street, tell the security guard yo
 
 ### Enter the building if I&rsquo;m based in another office?
 
-Your badge should get you in. If you&rsquo;re having trouble, call one of the points of contact listed above, or ask in [#dc](https://18f.slack.com/messages/dc/).
+Your badge should get you in. If you&rsquo;re having trouble, call one of the points of contact listed above, or ask in [#dc](https://civicactions.slack.com/messages/dc/).
 
 
 ### Get my fingerprints and badge?
 
 Fingerprinting and the photo for your badge take place immediately after security in room 1033. Badge pickup is on the first floor, in the library. After pickup, you'll need to get it activated in the basement.
 
-### Attend GSA and 18F orientation
+### Attend GSA and CivicActions orientation
 
 The location of onboarding differs based on how many people are coming into GSA. You will find out the exact location once you arrive at orientation.
 
@@ -119,11 +119,11 @@ Go to the F Street entrance, where 24/7 access is available.
 
 ### Book rooms for meetings?
 
-Depending on your needs, you might need different room accommodations. A cheat sheet for 18F conference rooms lives here. Avoid booking rooms 1470 and up on the first floor, as well as x3xx rooms &mdash; they&rsquo;re really far away from 18F and aren&rsquo;t easily accessible.
+Depending on your needs, you might need different room accommodations. A cheat sheet for CivicActions conference rooms lives here. Avoid booking rooms 1470 and up on the first floor, as well as x3xx rooms &mdash; they&rsquo;re really far away from CivicActions and aren&rsquo;t easily accessible.
 
 ### Receive visitors?
 
-If you're expecting a small group of US citizens (fewer than 15 or so), no advance action is required on your part. Let your guest(s) know to bring ID; they'll give your name and the 18F room number (4400) at the security desk. You'll have to go down and escort them up.
+If you're expecting a small group of US citizens (fewer than 15 or so), no advance action is required on your part. Let your guest(s) know to bring ID; they'll give your name and the CivicActions room number (4400) at the security desk. You'll have to go down and escort them up.
 
 If you're expecting a large group, or if the group includes non-US citizens, you should give security advance notice.
 
@@ -165,7 +165,7 @@ The lockers are in two spots. One set is by the couches the other by that large 
 
 ### Snacks
 
-GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Additionally, there are a series of three drawers for snack foods located within 18F infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://18f.slack.com/messages/dc/) if you want to contribute and join.
+GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Additionally, there are a series of three drawers for snack foods located within CivicActions infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://civicactions.slack.com/messages/dc/) if you want to contribute and join.
 
 The DC fridge is cleaned out monthly on Fridays (dates are posted on the fridge), and all food (including containers) is thrown out.
 
@@ -177,7 +177,7 @@ There are several of these located in one of the Gold Key drawers. Batteries can
 
 ### Tissues
 
-There is another fund for purchasing boxes of tissues in the winter months. Ask in [#dc](https://18f.slack.com/messages/dc/) if you want to contribute.
+There is another fund for purchasing boxes of tissues in the winter months. Ask in [#dc](https://civicactions.slack.com/messages/dc/) if you want to contribute.
 
 
 ### Water

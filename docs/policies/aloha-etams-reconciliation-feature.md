@@ -4,7 +4,7 @@ title: ALOHA/ETAMS Reconciliation Feature
 
 ## Tl;DR: ALOHA has a new leave reconciliation feature that allows employees to correct their own leave variances.
 
-In order to ensure that our leave and attendance are accurately recorded, 18F will need to use the new leave reconciliation tool to correct any leave and/or attendance discrepancies. Maintaining accurate leave data across our system is important, as we use it for: attendance records, determining whether you have enough leave to make a leave request, and pay-outs when you leave the GSA.
+In order to ensure that our leave and attendance are accurately recorded, CivicActions will need to use the new leave reconciliation tool to correct any leave and/or attendance discrepancies. Maintaining accurate leave data across our system is important, as we use it for: attendance records, determining whether you have enough leave to make a leave request, and pay-outs when you leave the GSA.
 
 ## Why do I need to reconcile my leave?
 
@@ -18,7 +18,7 @@ This [video](https://vimeo.com/gsavisualcommunications/review/165452479/3f077f86
 
 When you log into ALOHA, you will see this notification.
 
-![aloha-etams-reconciliation-feature-warning](https://raw.githubusercontent.com/18F/handbook/master/images/aloha-etams-warning.png)
+![aloha-etams-reconciliation-feature-warning](https://raw.githubusercontent.com/CivicActions/handbook/master/images/aloha-etams-warning.png)
 
 Also, your timekeeper will be pulling leave reports on a monthly basis and notifying employees of their variances.
 

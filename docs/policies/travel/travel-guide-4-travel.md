@@ -8,7 +8,7 @@ title: Travel Guide Step 7
 
 Travel _and keep receipts!_
 
-Now for the fun part! Here are a few things to keep in mind when traveling for 18F.
+Now for the fun part! Here are a few things to keep in mind when traveling for CivicActions.
 
 ### Meals and Incidental Expenses (M&IE)
 
@@ -56,4 +56,4 @@ Why the rush? Filling out a voucher correctly allows you to:
 
 [Back from your trip? Head on over to Get reimbursed!](/travel-guide-5-reimbursement)
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://civicactions.slack.com/messages/travel)* or [civicactions-travel@gsa.gov](mailto:civicactions-travel@gsa.gov)

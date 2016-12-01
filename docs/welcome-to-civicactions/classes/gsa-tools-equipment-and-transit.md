@@ -6,7 +6,7 @@ _This post provides information on how to work with GSA&rsquo;s web tools and yo
 
 ## Communication
 
-If you have any questions, please ping [#teamops](https://18f.slack.com/archives/teamops) or [#it-issues](https://18f.slack.com/archives/it-issues).
+If you have any questions, please ping [#teamops](https://civicactions.slack.com/archives/teamops) or [#it-issues](https://civicactions.slack.com/archives/it-issues).
 
 ## <a id="gsa-tools">GSA tools</a>
 
@@ -76,13 +76,13 @@ Let&rsquo;s cover each of these tools in a bit more detail.
 
 In general, you should request leave ahead of time (although it is possible to request leave retroactively) and document any absences as soon as possible. If you&rsquo;re planning to take leave, please ask your project team(s) as well as your director or direct supervisor if it&rsquo;s okay. Once you get your supervisor's approval, sign in to ALOHA and submit your leave request (select your direct supervisor from the drop-down menu).
 
-After you've created your leave request, add your planned absence to the shared Google calendar &ldquo;18F Out of Office&rdquo; &mdash; that way, everyone will know when you&rsquo;re going to be out of the office.
+After you've created your leave request, add your planned absence to the shared Google calendar &ldquo;CivicActions Out of Office&rdquo; &mdash; that way, everyone will know when you&rsquo;re going to be out of the office.
 
-We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  Finally, please note that ALOHA is GSA&rsquo;s system and separate from Tock, which is 18F&rsquo;s own timekeeping system. If you&rsquo;re taking time off, you&rsquo;ll need to make sure you&rsquo;re accounted for in both.
+We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  Finally, please note that ALOHA is GSA&rsquo;s system and separate from Tock, which is CivicActions&rsquo;s own timekeeping system. If you&rsquo;re taking time off, you&rsquo;ll need to make sure you&rsquo;re accounted for in both.
 
-Please do not use ALOHA to document jury duty. If you&rsquo;ve been summoned for jury duty, [email (don't Slack) Leah Gitter](mailto:leah.gitter@gsa.gov) and add an event to the &ldquo;18F Out of Office&rdquo; calendar.
+Please do not use ALOHA to document jury duty. If you&rsquo;ve been summoned for jury duty, [email (don't Slack) Leah Gitter](mailto:leah.gitter@gsa.gov) and add an event to the &ldquo;CivicActions Out of Office&rdquo; calendar.
 
-Some remote employees have had difficulty accessing ALOHA. If you&rsquo;re one of them, please [ping Leah Gitter on Slack](https://18f.slack.com/messages/leahgitter/) with the dates you took (or need to take) leave and the type of leave you took. Leah will make sure to get your request logged.
+Some remote employees have had difficulty accessing ALOHA. If you&rsquo;re one of them, please [ping Leah Gitter on Slack](https://civicactions.slack.com/messages/leahgitter/) with the dates you took (or need to take) leave and the type of leave you took. Leah will make sure to get your request logged.
 
 You can see your remaining leave balances by clicking Create My Leave Request. You do not have to submit a request in order to view your available leave time. You can also see your leave balance on your paystub in [Employee Express](#employee-express).
 
@@ -99,7 +99,7 @@ Here are some tips for employees that frequent an office:
     <ol>
       <li>Go to `Profile → View Your Profile → Edit Profile`. </li>
       <li> Go to <code>Profile --> View your Profile --> Edit Profile </code> </li>
-      <li>Pick the workstation you'd like to reserve each day. 18F is on floor 4, wing 4.</li>
+      <li>Pick the workstation you'd like to reserve each day. CivicActions is on floor 4, wing 4.</li>
       <li>Type: Workstation, Room Name: 4461A-Z</li>
       <li>Choose the day of the week (today)</li>
       <li>Choose start and end times (typically, 9am and 6pm)</li>
@@ -110,19 +110,19 @@ Here are some tips for employees that frequent an office:
   <li>BookIT! can remember your office location so you won't have to scroll through drop-down menus every time you need to reserve a meeting room. To save your office location settings, go to <code>Profile → View Your Profile → Edit Profile.</code></li>
   <li>BookIT! can remember your office location so you won't have to scroll through drop-down menus every time you need to reserve a meeting room. To save your office location settings, go to <code>Profile → View Your Profile → Edit Profile</code>.</li>
   <li>BookIT! also allows you to add &ldquo;delegates,&rdquo; or people who can book rooms and/or check in on your behalf. To do that, go to <code>Profile → View Your Profile → Delegates → Edit Profile</code>.</li>
-  <li>Some employees have expressed difficulty in logging into BookIT! If you&rsquo;re having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the 18F org they should be able to add you to the list in a day.</li>
+  <li>Some employees have expressed difficulty in logging into BookIT! If you&rsquo;re having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the CivicActions org they should be able to add you to the list in a day.</li>
  </ul>
 
 ## <a id="chris">CHRIS</a>
 
 [CHRIS](http://www.gsa.gov/chris) is what you'll use to access your personnel file online, which includes your salary, your GS level, your supervisor, your past performance rating(s), and information about health insurance plan, for starters. Some people feel CHRIS is easier to use than Employee Express.
 
-Your account may not be set up by the time you start working at 18F. Account setup and activation are usually complete within a month of your start date; you'll receive an email from CHRIS once your account is set up and activated. If you don't receive this email within a month of starting, open a ticket with the [GSA IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/).
+Your account may not be set up by the time you start working at CivicActions. Account setup and activation are usually complete within a month of your start date; you'll receive an email from CHRIS once your account is set up and activated. If you don't receive this email within a month of starting, open a ticket with the [GSA IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/).
 
 
 ## <a id="concur">Concur</a>
 
-Concur is what you will use to book travel. Learn more in [Travel 101](/travel-101). If you have questions in the meantime, head over to [#travel](https://18f.slack.com/messages/travel/).
+Concur is what you will use to book travel. Learn more in [Travel 101](/travel-101). If you have questions in the meantime, head over to [#travel](https://civicactions.slack.com/messages/travel/).
 
 
 ## <a id="employee-express">Employee Express</a>
@@ -136,7 +136,7 @@ If you&rsquo;re new to GSA, it&rsquo;ll take a few weeks for IT to set up your a
 3. After you activate your account, you can set up your login ID and password.
 4. Then, go back to the welcome email and click the second link to log in.
 
-Once your account is setup, be sure to log in right away as that initial access expires within a few days. If you have trouble logging in, call the Employee Express help desk at 1-888-353-9450 or email [eexhelp@opm.gov](mailto:eexhelp@opm.gov). They&rsquo;ll ask you for your name, date of birth, agency (OCSIT/18F), work email address, and request type (for example, `my SSN is not recognized` or `I need my login and password reset`).
+Once your account is setup, be sure to log in right away as that initial access expires within a few days. If you have trouble logging in, call the Employee Express help desk at 1-888-353-9450 or email [eexhelp@opm.gov](mailto:eexhelp@opm.gov). They&rsquo;ll ask you for your name, date of birth, agency (OCSIT/CivicActions), work email address, and request type (for example, `my SSN is not recognized` or `I need my login and password reset`).
 
 If they ask for your health insurance code, you can see that in CHRIS under `GSA Personnel → Self Service → Employee Views → Benefits → Health Plan`. Your code is the number next to your health plan.
 
@@ -181,7 +181,7 @@ instructions by email.
 
 ![OLU registration form](/images/olu/olu3.png)
 
-18F employees are required to take the [following courses](/professional-development-and-training/#mandatory-training).
+CivicActions employees are required to take the [following courses](/professional-development-and-training/#mandatory-training).
 
 Note that there is a lag time of about four days between completing courses in OLU and having those courses reflected in your CHRIS profile.
 
@@ -190,16 +190,16 @@ You can log time spent in OLU as `Training / Professional Development` in [Tock]
 
 ## Office supplies
 
-18F also has an inventory of computer supplies on hand. Contact [Matt Spencer](https://18f.slack.com/messages/@mattspencer/) to see if we have anything on hand before putting in a purchase request. If you are remote, we’ll mail your mouse or computer to you.
+CivicActions also has an inventory of computer supplies on hand. Contact [Matt Spencer](https://civicactions.slack.com/messages/@mattspencer/) to see if we have anything on hand before putting in a purchase request. If you are remote, we’ll mail your mouse or computer to you.
 
-Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building). If you need office supplies that aren't available in the printer rooms or the supply center, you'll need to complete a [purchase request form](https://docs.google.com/a/gsa.gov/forms/d/1zSuFinxBVr0oi2aGFaHArRJ8McyfQhjC05SOGuCzo/viewform). [Kathryn Connolly](https://18f.slack.com/messages/@kathryn/) can tell you more about the form.
+Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building). If you need office supplies that aren't available in the printer rooms or the supply center, you'll need to complete a [purchase request form](https://docs.google.com/a/gsa.gov/forms/d/1zSuFinxBVr0oi2aGFaHArRJ8McyfQhjC05SOGuCzo/viewform). [Kathryn Connolly](https://civicactions.slack.com/messages/@kathryn/) can tell you more about the form.
 
 For software requests, see our [equipment guide](/equipment/#requests).
 
 
 ## Get a copy of Microsoft Office
 
-1. Email <mailto:18fsoftware@gsa.gov> to request a license.
+1. Email <mailto:civicactionssoftware@gsa.gov> to request a license.
 1. You’ll receive an email from Microsoft Volume Licensing Service Center. Don't click on the link in the email. *Instead*, [create a Microsoft Account](https://login.live.com/) with your .gov email.
 1. Check your email to confirm the account.
 1. Once the account is set up, click the link from the Microsoft Volume Licensing Service Center.

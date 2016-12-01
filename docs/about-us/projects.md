@@ -1,5 +1,5 @@
 ---
 title: Projects
-url: https://18f.gsa.gov/dashboard/
+url: https://civicactions.gsa.gov/dashboard/
 layout: redirect
 ---

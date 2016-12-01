@@ -36,7 +36,7 @@ Sample Authorization Email:
 
 > I am requesting Authorization to travel as follows:
 >
-> I would like to fly from SFO to DCA on Sunday September 27th.  I have verbally been approved to attend the 18F All Hands meeting on Monday September 28th and Tuesday September 29th.  I would also work the following two days Wednesday September 30th and Thursday October 1st collaborating with the DC Operations Team.  I request permission to remain the weekend on the East Coast, and to fly out from the New York City area on Sunday.  I understand I would be responsible for all my accommodations after my Thursday departure from the office and that my reimbursable airfare cost would be based on similar flights from DC area airport to my home airport, and not the actual cost of my return flight.
+> I would like to fly from SFO to DCA on Sunday September 27th.  I have verbally been approved to attend the CivicActions All Hands meeting on Monday September 28th and Tuesday September 29th.  I would also work the following two days Wednesday September 30th and Thursday October 1st collaborating with the DC Operations Team.  I request permission to remain the weekend on the East Coast, and to fly out from the New York City area on Sunday.  I understand I would be responsible for all my accommodations after my Thursday departure from the office and that my reimbursable airfare cost would be based on similar flights from DC area airport to my home airport, and not the actual cost of my return flight.
 >
 > Thank you.
 
@@ -68,10 +68,10 @@ AdTrav can expedite the booking of your flight (if you are less than 3 days away
 
 * Extending your stay in your travel location for the weekend before or following a trip (or for additional workdays in which your travel is not essential).
 
-* 18F will pay for the cost of your flight on an alternative date but not your meals or lodging for those additional days.
+* CivicActions will pay for the cost of your flight on an alternative date but not your meals or lodging for those additional days.
 
 * Flying to your travel location from another place that is not your home city and/or flying from your travel location to another place that is not your home city.
 
-* 18F will pay for a flight that is equal to or less than in price to the least expensive compliant flight between your home city and travel location. For flights that are more expensive, you are responsible for the difference in price.
+* CivicActions will pay for a flight that is equal to or less than in price to the least expensive compliant flight between your home city and travel location. For flights that are more expensive, you are responsible for the difference in price.
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://civicactions.slack.com/messages/travel)* or [civicactions-travel@gsa.gov](mailto:civicactions-travel@gsa.gov)

@@ -12,15 +12,15 @@ Because Google Calendar is a web application, there's no installation necessary.
 
 The following calendars are used for internal communication:
 
-* [18F Events](https://calendar.google.com/calendar/embed?src=gsa.gov_3rapmucstu32ma18da84el20ug%40group.calendar.google.com): Team-wide events, start dates, standups, and so on.
-* [18F Classes](https://calendar.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com): New hire and skill-bases training sessions.
-* 18F Interviews: New hire interviews.
-* [18F Out of office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com): Out-of-office and vacation notices.
-* [18F Working Groups](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com): Meetings and other events pertaining to working groups and guilds.
+* [CivicActions Events](https://calendar.google.com/calendar/embed?src=gsa.gov_3rapmucstu32ma18da84el20ug%40group.calendar.google.com): Team-wide events, start dates, standups, and so on.
+* [CivicActions Classes](https://calendar.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com): New hire and skill-bases training sessions.
+* CivicActions Interviews: New hire interviews.
+* [CivicActions Out of office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com): Out-of-office and vacation notices.
+* [CivicActions Working Groups](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com): Meetings and other events pertaining to working groups and guilds.
 
 You can add the above calendars to your Google calendar by clicking on the link to launch the HTML view and then clicking on `+Google Calendar` on the bottom right of the screen.
 
-In addition to <em>officially</em> requesting time off in <a href="/gsa-tools-equipment-and-transit#aloha">ALOHA</a>, please also add an event on the Google calendar "18F Out of Office" and invite yourself, so we all know when you’re gone.
+In addition to <em>officially</em> requesting time off in <a href="/gsa-tools-equipment-and-transit#aloha">ALOHA</a>, please also add an event on the Google calendar "CivicActions Out of Office" and invite yourself, so we all know when you’re gone.
 
 ## Tips
 

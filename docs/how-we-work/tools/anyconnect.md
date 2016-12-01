@@ -24,7 +24,7 @@ AnyConnect is a VPN client that we use to connect to GSA's intranet.
 
 If your VPN client hangs while trying to authorize your credentials, delete the `/opt/cisco/anyconnect/profile/gsa_cp-gfe.xml` file on your system.
 
-If you're still having trouble, try these recommendations from [@moncef](https://18f.slack.com/team/moncef):
+If you're still having trouble, try these recommendations from [@moncef](https://civicactions.slack.com/team/moncef):
 
 1. Open the Terminal.
 2. Type `cd /opt` and press **Return**.
@@ -37,4 +37,4 @@ If you're still having trouble, try these recommendations from [@moncef](https:/
 
 #### Still have questions?
 
-Ask in Slack: [#questions](https://18f.slack.com/messages/questions/) or [#distributed](https://18f.slack.com/messages/distributed/)
+Ask in Slack: [#questions](https://civicactions.slack.com/messages/questions/) or [#distributed](https://civicactions.slack.com/messages/distributed/)

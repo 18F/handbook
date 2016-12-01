@@ -6,13 +6,13 @@ We use MailChimp and its [Mandrill](../mandrill/) add-on to send transactional e
 
 ## Communication
 
-* Slack: [#admins-mailchimp](https://18f.slack.com/messages/admins-mailchimp/)
+* Slack: [#admins-mailchimp](https://civicactions.slack.com/messages/admins-mailchimp/)
 
 ## <a id="setup">Setup</a>
 
 1. Create a [MailChimp](https://login.mailchimp.com/signup) account associated
    with your GSA email address.
-2. File a new issue in the [18F/Infrastructure](https://github.com/18F/Infrastructure/issues/new)
+2. File a new issue in the [CivicActions/Infrastructure](https://github.com/CivicActions/Infrastructure/issues/new)
    repository. Title it **Please add me to the MailChimp account**, include
    the GSA email address you used to sign up for MailChimp, and assign the
    issue to [@afeld](https://github.com/afeld).
@@ -27,4 +27,4 @@ details on SMTP configuration, please see the
 
 #### Still have questions?
 
-Ask in Slack: [#admins-mailchimp](https://18f.slack.com/messages/admins-mailchimp).
+Ask in Slack: [#admins-mailchimp](https://civicactions.slack.com/messages/admins-mailchimp).

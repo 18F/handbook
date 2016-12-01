@@ -1,5 +1,5 @@
 ---
-title: Leaving 18F
+title: Leaving CivicActions
 ---
 
 This guide covers the offboarding policy and process.
@@ -8,13 +8,13 @@ This guide covers the offboarding policy and process.
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave 18F, send an official email to your supervisor and [leaving18f@gsa.gov](mailto:leaving18f@gsa.gov).
+If you decide you want to leave CivicActions, send an official email to your supervisor and [leavingcivicactions@gsa.gov](mailto:leavingcivicactions@gsa.gov).
 
-Include your termination date, which should be at least two weeks out. Your last day at 18F cannot be a federal holiday.
+Include your termination date, which should be at least two weeks out. Your last day at CivicActions cannot be a federal holiday.
 
 ### 2. Complete the clearance checklist
 
-Complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with [#teamops](https://18f.slack.com/archives/teamops).
+Complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with [#teamops](https://civicactions.slack.com/archives/teamops).
 
 ### 3. Review benefits paperwork
 
@@ -26,7 +26,7 @@ If you have any questions, please contact [Marty Sanchez-Lowery](mailto:martha.s
 
 ### 4. Return your equipment
 
-When you leave 18F, you are responsible for returning all 18F issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
+When you leave CivicActions, you are responsible for returning all CivicActions issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
 
 ## Offboarding process
 

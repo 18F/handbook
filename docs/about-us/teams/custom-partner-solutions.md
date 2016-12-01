@@ -2,11 +2,11 @@
 title: Custom Partner Solutions
 ---
 
-Custom Partner Solutions is one of the 5 business units within 18F. Using the cross-functional skills of 18F staff, CPS provides federal agencies with custom, user-centric solutions that address a client&rsquo;s unique challenges. We use agile methodology to partner closely with our clients to create lasting impact. 
+Custom Partner Solutions is one of the 5 business units within CivicActions. Using the cross-functional skills of CivicActions staff, CPS provides federal agencies with custom, user-centric solutions that address a client&rsquo;s unique challenges. We use agile methodology to partner closely with our clients to create lasting impact.
 
 ## What we do 
 
-- We deliver partnerships and solutions that help agencies solve problems. The first step in that process is a thorough exploration of the challenges facing an agency and their users. From there, the solution can be found down any number of different paths. The constant is that 18F will gather the right experts for the job, partner hand-in-hand with an agency team, use agile techniques, and talk with real users throughout the process to make sure we&rsquo;re building the right thing, not just any thing. 
+- We deliver partnerships and solutions that help agencies solve problems. The first step in that process is a thorough exploration of the challenges facing an agency and their users. From there, the solution can be found down any number of different paths. The constant is that CivicActions will gather the right experts for the job, partner hand-in-hand with an agency team, use agile techniques, and talk with real users throughout the process to make sure we&rsquo;re building the right thing, not just any thing.
 - We also support internal teams working on CPS projects. More specifically, we offer [guidance on engagement management](https://docs.google.com/document/d/1BMiE3oln2-pyq4Ht-Q3Z-P_ecQmi980djZgaN6xCNKM/edit#heading=h.ckh5s3gbtn4m) for project teams and have developed tools to help engagement managers ensure success on their projects.
 
 ## Projects
@@ -34,12 +34,12 @@ We&rsquo;re your partners. We promise to set you up to succeed in every way we c
 - Set clear expectations with partners
 - Help create clear transition plans
 - Be available to you for engagement matters large and small 
-- Bring you projects that align with the mission of 18F as well as your skill sets and interests
+- Bring you projects that align with the mission of CivicActions as well as your skill sets and interests
 - Give you the autonomy you want and the support you need to create the best products possible
 - Give you the opportunity to grow as a partner, as a technologist, and as an innovator
 
 ## Communication
-Three of CPS&rsquo; major tasks are picking projects, providing information to other 18F teams about upcoming or current projects, and supporting existing project teams. All three of these rely on gathering information from across 18F, so often when you&rsquo;ll be hearing from CPS, we&rsquo;ll be asking you for some specific info. This information gathering is critical to smooth CPS operations — it helps us help you! Check the list below to see what kind of information we might be asking from you and who your point person is for questions.  
+Three of CPS&rsquo; major tasks are picking projects, providing information to other CivicActions teams about upcoming or current projects, and supporting existing project teams. All three of these rely on gathering information from across CivicActions, so often when you&rsquo;ll be hearing from CPS, we&rsquo;ll be asking you for some specific info. This information gathering is critical to smooth CPS operations — it helps us help you! Check the list below to see what kind of information we might be asking from you and who your point person is for questions.
 
 If you&rsquo;re a project manager or engagement manager expect to:
 
@@ -87,13 +87,13 @@ If you&rsquo;re on the **agency partnerships team** expect to:
 
 If you&rsquo;re just curious about all things CPS
 
-- Come to the[#partner-solutions](https://18f.slack.com/messages/partner-solutions/files/F1VNDBY7N/) channel
+- Come to the[#partner-solutions](https://civicactions.slack.com/messages/partner-solutions/files/F1VNDBY7N/) channel
 - Attend a quarterly staff-wide [CPS AMA](https://docs.google.com/document/d/1eyPHTAzk7xWRIQAIfJl4F58NVpWpBIHiEcam7w9Ueo0/edit)
 
 ## Where you can reach us
 
-- Team email - [18F-PartnerSolutions@gsa.gov](mailto:18F-PartnerSolutions@gsa.gov)
-- Slack - [#partner-solutions](https://18f.slack.com/messages/partner-solutions/files/F1VNDBY7N/) or ping @cps in any channel
+- Team email - [CivicActions-PartnerSolutions@gsa.gov](mailto:CivicActions-PartnerSolutions@gsa.gov)
+- Slack - [#partner-solutions](https://civicactions.slack.com/messages/partner-solutions/files/F1VNDBY7N/) or ping @cps in any channel
 
 ## Documentation
 
@@ -110,7 +110,7 @@ If you&rsquo;re just curious about all things CPS
 - [PPR Guide](https://docs.google.com/document/d/1c5QKhcY8gZHxO4-Kc_l2JN94hD-AB_TTrvFABwHhVQ8/edit#heading=h.8zsg1nccsdr5)
 - [Monthly Engagement Management AMA](https://docs.google.com/document/d/1oHS-IEomRJzT840MemBwzDo-bJU-ymIkzgVX63Q3HSs/edit)
 - [CPS Project Report ](https://docs.google.com/spreadsheets/d/1kp5Xec7VjscITYaTqcyQfa5Rrr29hcGIzP-tkRrR_IA/edit)
-- [The 18F Product Guide](https://pages.18f.gov/product-guide/) - A great resource for all Product Managers on CPS projects
+- [The CivicActions Product Guide](https://pages.civicactions.com/product-guide/) - A great resource for all Product Managers on CPS projects
 - [FY17 Projects Announcement](https://drive.google.com/open?id=0B_SvrGV09nQ-WTlrTFY5eVN2NE0) - Our initial announcement of all CPS projects in FY17
 
 

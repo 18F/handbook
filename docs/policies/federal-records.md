@@ -2,7 +2,7 @@
 title: (Draft) Federal records policy
 ---
 
-_As the team at 18F begins to provide digital service teams with systems that generate federal records, we must have a policy in place on how to properly treat those records. The vast majority of these systems are new to government use and in some cases, are new to the private sector as well. The paucity of standard operating processes and best practices require 18F to formulate its own._
+_As the team at CivicActions begins to provide digital service teams with systems that generate federal records, we must have a policy in place on how to properly treat those records. The vast majority of these systems are new to government use and in some cases, are new to the private sector as well. The paucity of standard operating processes and best practices require CivicActions to formulate its own._
 
 ## Analysis
 The **principle** behind Federal Records policy is that the the information we create as public servants immediately becomes *public property*. Legally, it does not belong to an individual civil servant, in the same way that a tree in a national park does not belong to the park ranger who plants it.
@@ -17,7 +17,7 @@ While the principle and goals behind the records policy are sound, guidance on r
 
 Policies that were made to simplify the management and increase the efficiency of record keeping now result in outcomes *opposite* their original intent. These policies contain design decisions targeted primarily at  paper records or legacy digital formats that were expensive to create, maintain, analyze, and store. As the marginal cost of all of these actions approaches zero, the assumptions under the original policies collapse, and new guidance must be formulated.
 
-Per CFR Title 36 Chapter XII Subchapter B §1220.10, "the GSA is responsible for overseeing economy and efficiency in records management." **To that end, we at 18F are developing new guidance to meet the needs of records management in the 21st century.**
+Per CFR Title 36 Chapter XII Subchapter B §1220.10, "the GSA is responsible for overseeing economy and efficiency in records management." **To that end, we at CivicActions are developing new guidance to meet the needs of records management in the 21st century.**
 
 Instead of voluminous record keeping schedules that put the burden on federal staff to properly categorize the information they create and complex documentation on how to properly store the information for retention, our policy can be encapsulated as:
 
@@ -36,7 +36,7 @@ This policy will provide an even more comprehensive history of government, while
 
 ## Policy
 
-In order to meet and exceed all relevant federal records laws, regulations and policies, every fiscal quarter, 18F will take the following actions on every system that it owns:
+In order to meet and exceed all relevant federal records laws, regulations and policies, every fiscal quarter, CivicActions will take the following actions on every system that it owns:
 
 * export all data out of first and third party systems
 * store the data in a discovery system that can be searched against
@@ -54,7 +54,7 @@ Even systems that have been moved to the cloud, like Google Apps for Government,
 
 ### Who is responsible for these records?
 
-18F and the General Services Administration.
+CivicActions and the General Services Administration.
 
 The only way to make sense of overlapping legal requirements on federal information and records is to first identify the *system owner*. The concept of the system owner is the only common denominator between the various laws (FISMA, Privacy Act, Federal Records Act, etc) and regulations.
 
@@ -62,7 +62,7 @@ Regardless of whether the system is shared or distributed, there is always the c
 
 The department or agency to which this person belongs is by definition also the system owner, and must be held ultimately responsible for all compliance necessary given the system's functions.
 
-Therefore, on any system where 18F is the root user, **18F is responsible for the records.**
+Therefore, on any system where CivicActions is the root user, **CivicActions is responsible for the records.**
 
 ### Are any of these records "permanent records"?
 
@@ -89,5 +89,5 @@ Further, research indicates most of agencies have *not* yet implemented Capstone
 
 #### Still have questions?
 
-Ask in Slack: [#legalstuff](https://18f.slack.com/messages/legalstuff/) or [#infrastructure](https://18f.slack.com/messages/infrastructure/)
+Ask in Slack: [#legalstuff](https://civicactions.slack.com/messages/legalstuff/) or [#infrastructure](https://civicactions.slack.com/messages/infrastructure/)
 

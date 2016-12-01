@@ -114,7 +114,7 @@ Have you
 #### Book Hotel Alternate
 You've ended up here because you are either:
 
-* New to 18F and/or don’t have a travel card yet
+* New to CivicActions and/or don’t have a travel card yet
 
 * someone who wants to book a hotel outside of Concur (e.g. through [Fedrooms](http://Fedrooms.com))
 
@@ -130,4 +130,4 @@ If this is not the case, please go back up to the [Book in Concur Section](#book
 [Proceed to prepare your trip for approval and book trip](/travel-guide-3-approval)
 
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://civicactions.slack.com/messages/travel)* or [civicactions-travel@gsa.gov](mailto:civicactions-travel@gsa.gov)

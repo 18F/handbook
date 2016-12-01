@@ -10,25 +10,25 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 ## <a id="rules">Rules</a>
 
-- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+- **Abide by [the CivicActions Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://civicactions.slack.com/messages/noah/) or [Hillary Hartley](https://civicactions.slack.com/messages/hillary/).
 
 - Everything in our Google Drive, including Google Docs, can be FOIA&rsquo;ed.
 
-- When you’re at work, make sure you're on the 18F Google Drive and not your private account, especially when working with outside partners. Official 18F documents must live on the GSA/18F shared drive for compliance reasons.
+- When you’re at work, make sure you're on the CivicActions Google Drive and not your private account, especially when working with outside partners. Official CivicActions documents must live on the GSA/CivicActions shared drive for compliance reasons.
 
 ## <a id="usage">Usage</a>
 
 - You can&rsquo;t publish docs to the web. You can&rsquo;t share docs with the public, only GSA or specific users. Even just to view.
 
-- We cannot share Google Docs with other agencies. GSA employees can view and access Docs, but you&rsquo;ll need to ask in [#teamops](https://18f.slack.com/messages/team-ops) or [#it-issues](https://18f.slack.com/messages/it-issues) (for suggested programs) if you&rsquo;re working with another agency.
+- We cannot share Google Docs with other agencies. GSA employees can view and access Docs, but you&rsquo;ll need to ask in [#teamops](https://civicactions.slack.com/messages/team-ops) or [#it-issues](https://civicactions.slack.com/messages/it-issues) (for suggested programs) if you&rsquo;re working with another agency.
 
-- Don't share docs with all at GSA. Instead, share with 18f-team and GSA will never auto-unshare them. (GSA will change your permissions if they are too open.) Docs that contain sensitive information will also be blocked via Cloudlock.
+- Don't share docs with all at GSA. Instead, share with civicactions-team and GSA will never auto-unshare them. (GSA will change your permissions if they are too open.) Docs that contain sensitive information will also be blocked via Cloudlock.
 
-- Make sure you change the permission on new documents so that the proper people can view and edit them. If you put your documents or files in any of the folders within the [18F folder](https://drive.google.com/drive/u/0/folders/0B84F26FpUP0lR1B2VVNGSi1MMVk), the sharing settings should automatically be correct.
+- Make sure you change the permission on new documents so that the proper people can view and edit them. If you put your documents or files in any of the folders within the [CivicActions folder](https://drive.google.com/drive/u/0/folders/0B84F26FpUP0lR1B2VVNGSi1MMVk), the sharing settings should automatically be correct.
 
-- Grant editing or commenting access to the entire team on a files by adding <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
+- Grant editing or commenting access to the entire team on a files by adding <mailto:civicactions-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
 
-- It is much better to add a Google Group of people to a document than individual email addresses because you can control access to the group from one location, particularly when someone leaves 18F.
+- It is much better to add a Google Group of people to a document than individual email addresses because you can control access to the group from one location, particularly when someone leaves CivicActions.
 
 - The Shift-Z command allows you to add folders to "My Drive" (shortcut) and to other folders at the same time - which is great for organizing documents in different ways. Documents in folders inherit the permissions of the folders that contain them.
 
@@ -46,4 +46,4 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 #### Still have questions?
 
-Ask in Slack: [#questions](https://18f.slack.com/messages/questions), [#teamops](https://18f.slack.com/messages/teamops), [#it-issues](https://18f.slack.com/messages/it-issues)
+Ask in Slack: [#questions](https://civicactions.slack.com/messages/questions), [#teamops](https://civicactions.slack.com/messages/teamops), [#it-issues](https://civicactions.slack.com/messages/it-issues)

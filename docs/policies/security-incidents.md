@@ -11,11 +11,11 @@ To report a security incident, follow all of the steps below:
  <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to send to them all at the same time</a>,
  and within 1 hour of identifying an incident. Don't worry if you don't have all of the details gathered when you email GSA's Incident Response (IR) team. The critical piece here is notification within one hour. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team.
 
-1. Report the incident in the [#incident-response](https://18f.slack.com/messages/incident-response) Slack channel.
+1. Report the incident in the [#incident-response](https://civicactions.slack.com/messages/incident-response) Slack channel.
 
-1. For anything that _isn't_ a phishing attempt, [send a Slack DM to Kimber Dowsett (@kimber)](https://18f.slack.com/messages/@kimber/), the 18F Infrastructure Security Architect, with a _very short description_ of the incident.
+1. For anything that _isn't_ a phishing attempt, [send a Slack DM to Kimber Dowsett (@kimber)](https://civicactions.slack.com/messages/@kimber/), the CivicActions Infrastructure Security Architect, with a _very short description_ of the incident.
 
-1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible**.
+1. Open a [GitHub issue in the security-incidents repository](https://github.com/CivicActions/security-incidents/issues/new) describing the incident in **as much detail as possible**.
   * Keep this issue up to date with appropriately summarized actions or information from interactions with GSA.
   * If needed, create a GSA Google Doc to track sensitive information that can't be shared in Slack/GitHub. Put a hyperlink to the GSA Google Doc in the top summary of the GitHub Issue.
 
@@ -23,7 +23,7 @@ To report a security incident, follow all of the steps below:
 
 1. If the incident involves [cloud.gov](https://cloud.gov/), start [following the additional checklist here](https://docs.cloud.gov/ops/security-ir-checklist/).
 
-1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov), but try to drive as much of the conversation back to [#incident-response](https://18f.slack.com/messages/incident-response) in Slack as possible.
+1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov), but try to drive as much of the conversation back to [#incident-response](https://civicactions.slack.com/messages/incident-response) in Slack as possible.
  
 Please note that incidents need to be reported *within one hour* of being identified. This isn't "within an hour of happening", but "within one hour of you becoming aware of the incident". The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 
@@ -33,7 +33,7 @@ First, it's important to note: it's always OK to err on the side of reporting! T
 
 On to the answer to "what is an incident?": in a nutshell, an incident is anything that compromises (or could compromise) our "CIA": **Confidentiality, Integrity, or Availability.**
 
-- **Confidentiality** means: "secrets". So personal information (PII) — names, phone numbers, social security numbers, etc — is one very important secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that any confidential information may have been leaked outside 18F, you should open an incident.
+- **Confidentiality** means: "secrets". So personal information (PII) — names, phone numbers, social security numbers, etc — is one very important secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that any confidential information may have been leaked outside CivicActions, you should open an incident.
 
 - **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or if a app stopped logging for a while, or if some documents got deleted — those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these, as well.
 

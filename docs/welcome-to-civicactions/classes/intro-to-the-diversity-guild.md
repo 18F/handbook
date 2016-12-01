@@ -3,24 +3,24 @@ title: Intro to the Diversity Guild
 navtitle: Diversity Guild
 ---
 
-The Diversity Guild strives to make 18F a great place to work for people of all backgrounds; to foster diversity of all kinds; and to create a culture where people feel safe, work joyfully, and communicate openly. It aims to do this all while providing great services for the American people.
+The Diversity Guild strives to make CivicActions a great place to work for people of all backgrounds; to foster diversity of all kinds; and to create a culture where people feel safe, work joyfully, and communicate openly. It aims to do this all while providing great services for the American people.
 
 #### <a id="leadership">Leadership</a>
 
-The Diversity Guild is led by [Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley) and [Annalee Horne](https://18f.slack.com/messages/@annalee).
+The Diversity Guild is led by [Elaine Kamlley](https://civicactions.slack.com/messages/@elainekamlley) and [Annalee Horne](https://civicactions.slack.com/messages/@annalee).
 
 #### <a id="communication">Communication</a>
 
 Find us in Slack:
 
-- [#g-diversity](https://18f.slack.com/messages/g-diversity/)
-- [#wg-code-of-conduct](https://18f.slack.com/messages/wg-code-of-conduct/)
+- [#g-diversity](https://civicactions.slack.com/messages/g-diversity/)
+- [#wg-code-of-conduct](https://civicactions.slack.com/messages/wg-code-of-conduct/)
 
 _It&rsquo;s important that the responsibility of answering questions around diversity and inclusion doesn&rsquo;t fall on one or two people. Our Slack channel is open space in which our colleagues (who genuinely want to do the right thing) can ask hard questions of one another. It allows us to collectively place the responsibility of diversity and inclusion on multiple people rather than any one person._
 
 ## <a id="documentation">Documentation</a>
 
-The foundation for the Diversity Guild's work is the [18F Code of Conduct](/code-of-conduct/).
+The foundation for the Diversity Guild's work is the [CivicActions Code of Conduct](/code-of-conduct/).
 
 ## <a id="philosophy">Philosophy</a>
 
@@ -42,20 +42,20 @@ The Diversity Guild tracks its progress on Trello. If you&rsquo;re interested in
 
 ## <a id="hiring-and-recruiting">Hiring and recruiting</a>
 
-The Diversity Guild is interested in helping ensure that 18F hires and recruits a workforce as diverse as the country it serves. To that end, the group works with Team Talent to write more inclusive job descriptions. We&rsquo;re also carrying out a listening tour of 18F to see how our organization can be more inclusive of communities that are otherwise underrepresented.
+The Diversity Guild is interested in helping ensure that CivicActions hires and recruits a workforce as diverse as the country it serves. To that end, the group works with Team Talent to write more inclusive job descriptions. We&rsquo;re also carrying out a listening tour of CivicActions to see how our organization can be more inclusive of communities that are otherwise underrepresented.
 
 ## <a id="unconscious-bias-training">Unconscious bias training</a>
 
-The guild also supports Team Talent in putting on an unconscious bias training. For those who are unfamiliar, **implicit or &ldquo;unconscious&rdquo; bias** refers to the subtle attitudes or stereotypes that affect our understanding, actions, and decisions. 18F is committed in building a healthy work environment for all; to do this, 18F will hold two unconscious bias trainings in FY 2016.
+The guild also supports Team Talent in putting on an unconscious bias training. For those who are unfamiliar, **implicit or &ldquo;unconscious&rdquo; bias** refers to the subtle attitudes or stereotypes that affect our understanding, actions, and decisions. CivicActions is committed in building a healthy work environment for all; to do this, CivicActions will hold two unconscious bias trainings in FY 2016.
 
 To get an idea of what this entails, we highly encourage folks to [take a test by Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html). They are a non-profit organization that fosters international collaboration among researchers who are interested in &ldquo;implicit social cognition,&rdquo; or thoughts and feelings outside of conscious awareness and control (such as bias). The goal of the organization is to educate the public about hidden biases and to provide a &ldquo;virtual laboratory&rdquo; for collecting data on the Internet.
 
 
 ## <a id="how-to-get-involved">How to get involved</a>
 
-Not only does the Diversity Guild a space for learning, it also promotes the belief in sharing what you've learned. The group is developing a Diversity Guide that has the goal of providing insight on how 18F integrates diversity principles at every point: from recruitment, interviewing, and onboarding to retention, such as professional development and benefits.
+Not only does the Diversity Guild a space for learning, it also promotes the belief in sharing what you've learned. The group is developing a Diversity Guide that has the goal of providing insight on how CivicActions integrates diversity principles at every point: from recruitment, interviewing, and onboarding to retention, such as professional development and benefits.
 
 If you&rsquo;re interested in getting involved:
 
-- **Join our channel.** Head on over to [#g-diversity](https://18f.slack.com/messages/g-diversity/).
-- **Join our meetings.** We meet monthly, the fourth Friday of the month. We also have open coworking sessions every Friday. The meetings currently show up on the 18F Working Groups and Guilds calendar. If you would like to be added to the invites directly, please [message Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley).
+- **Join our channel.** Head on over to [#g-diversity](https://civicactions.slack.com/messages/g-diversity/).
+- **Join our meetings.** We meet monthly, the fourth Friday of the month. We also have open coworking sessions every Friday. The meetings currently show up on the CivicActions Working Groups and Guilds calendar. If you would like to be added to the invites directly, please [message Elaine Kamlley](https://civicactions.slack.com/messages/@elainekamlley).

@@ -15,7 +15,7 @@ title: San Francisco
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-          <a href="https://18f.slack.com/messages/@vv">Victor Valdivizeo</a>, <a href="mailto:victor.valdiviezo@gsa.gov">victor.valdiviezo@gsa.gov</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)<br />
+          <a href="https://civicactions.slack.com/messages/@vv">Victor Valdivizeo</a>, <a href="mailto:victor.valdiviezo@gsa.gov">victor.valdiviezo@gsa.gov</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">CivicActions team contact info sheet</a>)<br />
           <a href="http://www.gsa.gov/portal/category/107015">Building Services contact info</a>
         </td>
       </tr>
@@ -24,8 +24,8 @@ title: San Francisco
           <strong>Slack&nbsp;channels</strong>
         </td>
         <td class="col-value">
-          <a href="https://18f.slack.com/archives/sf">#sf</a>,
-          <a href="https://18f.slack.com/archives/sf-public">#sf-public</a>
+          <a href="https://civicactions.slack.com/archives/sf">#sf</a>,
+          <a href="https://civicactions.slack.com/archives/sf-public">#sf-public</a>
         </td>
       </tr>
       <tr>
@@ -33,7 +33,7 @@ title: San Francisco
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           18F sits in room #5685 on the fifth floor. When you get off the elevator, go to the left.
+           CivicActions sits in room #5685 on the fifth floor. When you get off the elevator, go to the left.
         </td>
       </tr>
       <tr>
@@ -57,7 +57,7 @@ title: San Francisco
 
 [50 UN Plaza](http://www.gsa.gov/portal/category/107031) is on historic Market Street between 6th and 7th streets, in the Civic Center neighborhood. The Bay Area Rapid Transit authority (BART) and MUNI both have underground stops at this location, and the historic F Market streetcar line has two local stops at 6th and 7th Streets.
 
-18F SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
+CivicActions SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
 
 There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance &mdash; San Francisco City Hall and the Asian Art Museum are but two of them!
 
@@ -65,7 +65,7 @@ There is a lively farmers market literally out our door every Wednesday. There a
 
 ### From San Francisco International Airport (SFO)
 
-Public transit from SFO to the 18F San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station. Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes. The office sits right above the Civic Center stop for BART.
+Public transit from SFO to the CivicActions San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station. Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes. The office sits right above the Civic Center stop for BART.
 
 ### From Oakland International Airport (OAK)
 
@@ -85,7 +85,7 @@ There is a developing [bikeshare program](http://www.bayareabikeshare.com) in th
 
 Bike parking is next to the loading dock, entered from the far corner at McAllister and Leavenworth. Before you can park your bike, though, you need to print and fill out [this form](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view), and then activate your credential. This means you need to return to the credentialing location where you first initiated the process for your card. (This is probably the federal building at 450 Golden Gate). There are drop-in hours all day on Monday from 9 a.m. to 4 p.m. You can also make an appointment. The card also requires you to come up with a six-digit PIN, so have that ready to go.
 
-If you have any questions about this, contact [Victor Valdivizeo](https://18f.slack.com/team/vv).
+If you have any questions about this, contact [Victor Valdivizeo](https://civicactions.slack.com/team/vv).
 
 
 ### Public transit
@@ -116,19 +116,19 @@ You can get them at 450 Golden Gate. [Schedule an appointment](https://timetrade
 
 Once you’re there, turn right after entering past security, then the MSO office is directly across from IRS. This is also where you can get your card _activated_.
 
-### Attend GSA and 18F orientation?
+### Attend GSA and CivicActions orientation?
 
-GSA onboarding is typically conducted on Mondays at 50 UN Plaza. 18F SF onboarding takes place after GSA orientation at our office suite. You should receive an email confirming the times that you will meet with your team.
+GSA onboarding is typically conducted on Mondays at 50 UN Plaza. CivicActions SF onboarding takes place after GSA orientation at our office suite. You should receive an email confirming the times that you will meet with your team.
 
 ### Find out everything I need to know about working in SF?
 
-Whether you're new at 18F and are joining the SF office or you're a long-time 18F member relocating to SF, here's an office onboarding checklist for you:
+Whether you're new at CivicActions and are joining the SF office or you're a long-time CivicActions member relocating to SF, here's an office onboarding checklist for you:
 
 * Add yourself to our [desk schedule spreadsheet](https://docs.google.com/spreadsheets/d/1QNGF8pvrVUXEa8tjsQEEw5itflDEAyjVxQgfCT6Kj5c/edit#gid=0).
 * Add yourself to our [cleaning crew schedule](https://docs.google.com/document/d/1CCKYxIRrCUDJpykKgrjDBISLG-2toMv9yu1hLfR2IOs/edit).
 * If you would like a locker, please email <mailto:victor.valdiviezo@gsa.gov>.
 * Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
-* Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
+* Ask in the #sf channel to get added to the CivicActions SF mailing list and CivicActions SF calendar.
 * If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel for the link.
 * If you use public transit to/from work, [set up your TRANServe card](#transit-subsidy).
 * If you want to get notified about coffee/tea/lunch outings, [set up a `sfeats` Slack highlight](#food-and-coffee).
@@ -139,15 +139,15 @@ Meet your guests at the front security desk to escort them in.
 
 Be aware that IDs from [a few states](https://www.dhs.gov/current-status-states-territories) are not acceptable; see that page for the current list of "noncompliant states". For these states, another issued picture ID is required (or they can just show a passport).
 
-If you’re inviting guests to a potluck, point them to our handy [Eventbrite invite](https://www.eventbrite.com/e/18f-potluck-lunch-tickets-9543876993) with all of the security details.
+If you’re inviting guests to a potluck, point them to our handy [Eventbrite invite](https://www.eventbrite.com/e/civicactions-potluck-lunch-tickets-9543876993) with all of the security details.
 
 ### Host long-term guests?
 
-You may host folks from other government agencies. As the host you are responsible for access issues and for any requests. You will need to complete [50 UNP Auth Form.pdf](https://github.com/18F/handbook/files/433703/50.UNP.Auth.Form.pdf) using your own information and email it to <mailto:50UNPBuildingServices@gsa.gov>. Please make sure you do this with advance notice, since the building will need time to update the guards’ list of approved guests. Once the form has been accepted, guests will be able to access the building without an escort.
+You may host folks from other government agencies. As the host you are responsible for access issues and for any requests. You will need to complete [50 UNP Auth Form.pdf](https://github.com/CivicActions/handbook/files/433703/50.UNP.Auth.Form.pdf) using your own information and email it to <mailto:50UNPBuildingServices@gsa.gov>. Please make sure you do this with advance notice, since the building will need time to update the guards’ list of approved guests. Once the form has been accepted, guests will be able to access the building without an escort.
 
 ### Access the building after hours?
 
-If you're a visitor arriving outside business hours, arrange for an 18F staff member inside the office to escort you.
+If you're a visitor arriving outside business hours, arrange for an CivicActions staff member inside the office to escort you.
 
 If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Hillary Hartley or Patrick Bateman), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
 
@@ -194,13 +194,13 @@ If you're the last to leave your side of the office (north or south side), take 
 
 ### Bathrooms
 
-Men's and women’s bathrooms are just down the hall from the 18F office — walking away from the elevator bays of the building, the men’s room is on the left, and for the women’s keep going down the hall to just past the stairwell on the left.
+Men's and women’s bathrooms are just down the hall from the CivicActions office — walking away from the elevator bays of the building, the men’s room is on the left, and for the women’s keep going down the hall to just past the stairwell on the left.
 
 There is an all-gender bathroom in the Nimitz Suite on the third floor (room 3198), [at the southwest corner of the third floor map here](https://insite.gsa.gov/portal/category/532018). The Nimitz Suite is [a set of conference rooms named after an admiral](http://gsablogs.gsa.gov/gsablog/2014/05/16/a-closer-look-the-nimitz-suite/).
 
 An all-gender bathroom is also available for limited hours on Tuesday through Thursday in the Health Unit, which is in the basement. See the <a href="#health-center">health center</a> section for further details.
 
-If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, please submit a request via [C2](https://cap.18f.gov/). You should search for the item in [GSAAdvantage](https://www.gsaadvantage.gov/advantage/main/start_page.do). If the item cannot be found there, or is too costly, see if it is available from Amazon or some other online provider. Make sure you provide a solid business justification for the purchase.
+If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, please submit a request via [C2](https://cap.civicactions.com/). You should search for the item in [GSAAdvantage](https://www.gsaadvantage.gov/advantage/main/start_page.do). If the item cannot be found there, or is too costly, see if it is available from Amazon or some other online provider. Make sure you provide a solid business justification for the purchase.
 
 ### Batteries
 
@@ -271,18 +271,18 @@ The Health Unit also includes an all-gender bathroom.
 * [50 UN Plaza Building Directory](http://www.gsa.gov/portal/category/107011), including additional helpful phone numbers.
 * [Lyvette Jones](mailto:lyvette.jones@gsa.gov), handles transit benefits in SF.
 * [Public Health Clinic](http://www.sfcdcp.org/aitc.html) - 101 Grove St.
-* [18F SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-sf)
+* [CivicActions SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/civicactions-sf)
 * [50 UN Plaza Mailing list](https://groups.google.com/a/gsa.gov/forum/#!forum/50unp)
 
 ## Who works here?
 
-We keep a list of [people who work in the San Francisco office](https://pages.18f.gov/team-browser/?locations=SFO).
+We keep a list of [people who work in the San Francisco office](https://pages.civicactions.com/team-browser/?locations=SFO).
 
 ## Food and coffee
 
 [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=zMY1nJmKeGBU.kU147P2SgCmA) with lots of food and drink options near 50 UN Plaza.
 
-If you’re looking for people to eat with or suggesting an outing, use the keyword `sfeats` in [#sf](https://18f.slack.com/archives/sf). (This is an alternative to `@here`, which is intrusive for people who want to screen out those notifications). You can also add that to your [Slack highlight words](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications) to be notified when other people are talking about food.
+If you’re looking for people to eat with or suggesting an outing, use the keyword `sfeats` in [#sf](https://civicactions.slack.com/archives/sf). (This is an alternative to `@here`, which is intrusive for people who want to screen out those notifications). You can also add that to your [Slack highlight words](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications) to be notified when other people are talking about food.
 
 ## Evacuation procedures
 
