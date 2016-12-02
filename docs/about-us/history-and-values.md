@@ -3,6 +3,15 @@ title: History and values of CivicActions
 navtitle: History and values
 ---
 
+<!-- TODO: Begin CA:Handbook -->
+## <a name="history"></a>Background / History
+CivicActions, Inc. is a global professional services firm delivering innovative technology strategy, creative design, and mobile and web development services for the world’s leading progressive non-profits, foundations, socially responsible businesses and, most recently, various Federal and local government agencies.
+
+
+CivicActions started in 2004 and is now established as one of the leaders in both the Agile and Drupal communities. We have served over 175 clients including the Center for Reproductive Rights, American Public Media, Amnesty International and the San Francisco Human Services Agency. The work we do allows us to contribute to important causes - promoting sustainability, social justice, human rights and environmental protection. We believe in delivering excellent work, having fun doing it, surrounding ourselves with super people and creating opportunities to learn and grow. We also believe in nurturing a lifestyle that allows each of our team members to create a balanced, impactful life.
+
+<!-- TODO: End CA:Handbook -->
+
 CivicActions stands on the shoulders of giants! These teams paved the way for our existence: the Consumer Financial Protection Bureau, the Office of Personnel Management Lab (focused on user experience, user research, and human-centered design in government), the Sunlight Foundation, Code for America, the Office of Citizen Services and Innovative Technologies (our sister org, which has been around for a decade and runs things like USA.gov), the U.S. CTO’s office, and the Presidential Innovation Fellowship.
 
 The hypothesis was simple: the U.S. government could attract talented technologists to the civil service by enticing them with meaty problems and an opportunity for huge impact. The MVP was the Presidential Innovation Fellowship (go say hello to the <a href="https://civicactions.slack.com/messages/pifs/">#pifs</a>), which proved you could get people to give up (or take a break from) their jobs in the private sector to serve a tour of duty in the federal government. The next step was to convince people to serve longer than a six-to-12-month fellowship and join a product delivery team.

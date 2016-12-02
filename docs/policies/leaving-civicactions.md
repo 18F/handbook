@@ -1,8 +1,37 @@
 ---
 title: Leaving CivicActions
 ---
+<!-- TODO: Begin CA:Handbook -->
+
+# <a name="employseparation"></a>EMPLOYMENT SEPARATION
+
+
+## <a name="at-will"></a>At-Will Employment
+All employment with CivicActions, or any other company doing business in the U.S., is “at will”. The relationship can be terminated by the employee or by CivicActions at any time, for any or no reason, and without notice. But being who we are, we typically work together for a smooth transition.
+
+
+## <a name="resig"></a>Resignation
+Employees are asked to provide a minimum of 2 weeks written notice of their intent to resign. The notice should be submitted to the employee’s manager or to one of the management team.  An exit interview may be requested.
+
+
+## <a name="termin"></a>Termination
+If CivicActions sees a problem with an employee’s performance, or there is otherwise clearly a bad fit between the employee and CivicActions, every effort will be made to remedy the issue(s). (See “Corrective Action” below). If termination turns out to be the only solution, it will never be without notice and the employee will be fully aware of, and probably in agreement with, the reasons.
+
+
+## <a name="company-property"></a>Return of Company Property
+Any company property issued to employees, such as documents, computer equipment or company credit cards, must be returned to CivicActions at the time of separation.
+
+
+## <a name="continuation-benefit"></a>Continuation of Benefits
+Cal-COBRA is California law that has similar provisions to federal COBRA. With Cal-COBRA, you will have the benefit of coverage for a full 36 months.
+
+
+Many other states have “mini-COBRAs” which serve the same purpose as Cal-COBRA. If you live in one of those states, you have the option of using the benefits provided by that state instead of (not in addition to) Cal-COBRA. Cal-COBRA is by far the most generous; however, it is also the most expensive.
+
 
 This guide covers the offboarding policy and process.
+
+<!-- TODO: End CA:Handbook -->
 
 ## How to resign
 

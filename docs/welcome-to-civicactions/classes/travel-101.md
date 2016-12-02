@@ -2,6 +2,18 @@
 title: Travel 101
 ---
 
+<!-- TODO: Begin CA:Handbook -->
+
+## <a name="mileage"></a>Mileage Reimbursement
+CivicActions will reimburse employees at the IRS “business standard mileage rate” for miles traveled by the employee in the employee's car while on CivicActions’ business.
+
+## <a name="private-automobile"></a>Use of Private Automobile
+If your job requires you to operate your personal vehicle for CivicActions’ business, CivicActions needs proof of a current and valid state driver’s license and proof of insurance.
+
+If you are involved in an automobile accident while on CivicActions’ business, report the accident to your manager immediately. Request a police report and obtain anything available to you at the scene of the accident.
+
+<!-- TODO: End CA:Handbook -->
+
 This post contains everything you need to know about how to book travel.
 
 ### Leadership

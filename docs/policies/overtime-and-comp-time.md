@@ -2,6 +2,19 @@
 title: Overtime and comp-time policy
 ---
 
+<!-- TODO: Begin CA:Handbook -->
+
+## <a name="overtimepay"></a>Overtime
+Any overtime needs to be pre-approved by a manager or member of the management team.
+
+
+CivicActions complies with all applicable laws regarding payment of overtime work. Overtime is based on the laws of the state in which the employee lives and, as of this writing, our only non-exempt employees are New Yorkers. Information about other states will be added as needed.
+
+
+New York: overtime is paid at the rate of 1-1/2 times the regular rate of pay for hours worked over 40 in a payroll week
+
+<!-- TODO: End CA:Handbook -->
+
 CivicActions’s policy is to generally avoid overtime and compensatory (comp) time when possible. Long-term use of overtime and comp time can indicate larger issues at play, such as insufficient management or staff, or project scope creep. We understand that emergencies, peak workload, sudden deadlines, and the responsibility to schedule work to meet work requirements, may make overtime or comp time unavoidable from time to time.
 
 For a detailed breakdown of the policy, the travel comp-time policy, request and approval directions, and an eligibility calculator please [see this document](https://docs.google.com/spreadsheets/d/1db0RipHe92i0RlKnr3kM6czmwi9eXeU8WB5SmmJ5xJg/edit#gid=0). A summary is below.

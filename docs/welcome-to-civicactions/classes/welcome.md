@@ -2,6 +2,21 @@
 title: Welcome
 ---
 
+<!-- TODO: Begin CA:Handbook -->
+## <a name="welcome"></a>Welcome to Our Company!
+
+We’re very happy to welcome you to our company. You have joined an organization that has established an outstanding reputation for quality products and services. Credit for this goes to every one of us. We believe you are a very good fit and will benefit from - and thoroughly enjoy - being part of an amazing team.
+
+## <a name="purpose"></a>Handbook Purpose
+This Handbook has been prepared to tell you about CivicActions’ philosophy, employment practices, policies, benefits, and the conduct we expect from ourselves.
+
+
+CivicActions operates transparently on a fundamental level. We have very few “rules and regulations.” We expect everyone, individually and collectively, to be forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. Left to our own devices, this Handbook would be very short - be open, do your best, ask for help and clarification when you need it, and have fun.
+
+
+That being said, there are topics in this document that are required by law or at least by HR professionals. You will find them further down under “Required Stuff.” This Handbook is not designed to answer specific questions or address specific scenarios. It is more likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships. Issues are addressed on a case-by-case basis anyway. We do want you to feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you.   You will find CivicActions a great place to work.
+<!-- TODO: End CA:Handbook -->
+
 _Hi! I&rsquo;m Aaron Snow. I&rsquo;m the Executive Director of CivicActions. Being the Executive Director basically means I help our [Talent Team](/talent) hire great people like you, and then try to get everyone else &mdash; including myself &mdash; the heck out of your way._
 
 I was one of the co-founders of CivicActions, which got its start almost two years ago. At the time, I was a Presidential Innovation Fellow (PIF) working on &ldquo;Innovative Contracting Tools.&rdquo; Because the Fellowship is only six to 12 months long, our first thinking about CivicActions was simply to create a more permanent landing pad for PIF projects that needed more time (and support) to grow their roots or spread their wings. It was also a place for PIFs who wanted to stay in government and finish projects they couldn&rsquo;t finish during their fellowships.

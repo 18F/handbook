@@ -14,66 +14,67 @@ Effective March 1, 2015
 
 # <a name="toc"></a>TABLE OF CONTENTS
 
+(items with a '*' have been placed in a natural category within the larger handbook and items with a '@' have been placed into a new 'Nuts and Bolts' page under policies.)
 
-### [INTRODUCTION](#introduction)
-#### [Welcome to Our Company!](#welcome)
-#### [Background / History](#history)
-#### [Handbook Purpose](#purpose)
-### [EMPLOYMENT](#employ)
-#### [Equal Employment Opportunities](#equal-opportunities)
-#### [Background Checks](#background-check)
-#### [Immigration Law Compliance](#immigration-law)
-#### [Employment Classifications](#employment-classification)
-#### [Personnel (and Personal) Records](#personrecords)
-#### [Employee References](#employee-reference)
-### [CONDUCT AND BEHAVIOR](#conduct-behavior)
-#### [General Guidelines](#general-guideline)
-#### [Confidentiality](#confident)
-#### [Outside Activities](#outside-activity)
-#### [Code of Conduct](#code-conduct)
-### [COMPENSATION](#compensate)
-#### [Pay Periods](#pay-period)
-#### [Overtime](#overtimepay)
-#### [Pay Adjustments](#pay-adjustment)
-#### [Mileage Reimbursement](#mileage)
-#### [Business-Related Expenses](#business-expense)
-### [PROFESSIONAL DEVELOPMENT and COMMUNITY PARTICIPATION](#prodev-compar)
-#### [Background - The Why](#background-why)
-#### [Logistics & Policy Information](#logistics-policy)
-### [BENEFITS](#benefit)
-#### [Holidays](#holiday)
-#### [Paid Time Off](#pto)
-#### [Personal Leave of Absence](#leave-absense)
-#### [Maternity and Paternity Leave](#maternity)
-#### [Medical Insurance](#medical)
-#### [Tuition Reimbursement](#tuition)
-### [HEALTH, SAFETY, AND SECURITY](#health-safety-security)
-#### [Workers’ Compensation](#workers-comp)
-#### [Safety](#safe)
-#### [Use of Private Automobile](#private-automobile)
-#### [Drugs and Alcohol](#drugs-alcohol)
-### [WORKPLACE GUIDELINES](#workplace-guideline)
-#### [Hours of Work](#hours-work)
-#### [Attendance / Tardiness](#attendance)
-#### [Personal Appearance](#personappearance)
-#### [Access to Business-Related Online Accounts](#access-account)
-### [EMPLOYMENT SEPARATION](#employseparation)
-#### [At-Will](#at-will)
-#### [Resignation](#resig)
-#### [Termination](#termin)
-#### [Return of Company Property](#company-property)
-#### [Continuation of Benefits](#continuation-benefit)
-### [REQUIRED STUFF](#required)
-#### [At-Will Notice](#atwillnotice)
-#### [Equal Employment - Expanded Definition](#equal-employment)
-#### [Reasonable Accommodations](#reasonable-accomodation)
-#### [Exempt v. Non-exempt](#exempt-non)
-#### [Complaint Resolution Policy](#complaint-resolution)
-#### [Corrective Action](#corrective)
-#### [Reporting Irregularities](#irregularity)
-#### [Conflict of Interest](#conflict-interest)
-### [ACKNOWLEDGEMENT](#awknowledgement)
-### [CHANGE LOG](#changelog)
+### [INTRODUCTION](#introduction) *
+#### [Welcome to Our Company!](#welcome) *
+#### [Background / History](#history) *
+#### [Handbook Purpose](#purpose) *
+### [EMPLOYMENT](#employ) *
+#### [Equal Employment Opportunities](#equal-opportunities) *
+#### [Background Checks](#background-check) @
+#### [Immigration Law Compliance](#immigration-law) @
+#### [Employment Classifications](#employment-classification) @
+#### [Personnel (and Personal) Records](#personrecords) *
+#### [Employee References](#employee-reference) @
+### [CONDUCT AND BEHAVIOR](#conduct-behavior) *
+#### [General Guidelines](#general-guideline) *
+#### [Confidentiality](#confident) *
+#### [Outside Activities](#outside-activity) *
+#### [Code of Conduct](#code-conduct) *
+### [COMPENSATION](#compensate) @
+#### [Pay Periods](#pay-period) @
+#### [Overtime](#overtimepay) *
+#### [Pay Adjustments](#pay-adjustment) @
+#### [Mileage Reimbursement](#mileage) *
+#### [Business-Related Expenses](#business-expense) @
+### [PROFESSIONAL DEVELOPMENT and COMMUNITY PARTICIPATION](#prodev-compar) *
+#### [Background - The Why](#background-why) *
+#### [Logistics & Policy Information](#logistics-policy) *
+### [BENEFITS](#benefit) *
+#### [Holidays](#holiday) *
+#### [Paid Time Off](#pto) *
+#### [Personal Leave of Absence](#leave-absense) *
+#### [Maternity and Paternity Leave](#maternity) *
+#### [Medical Insurance](#medical) *
+#### [Tuition Reimbursement](#tuition) *
+### [HEALTH, SAFETY, AND SECURITY](#health-safety-security) @
+#### [Workers’ Compensation](#workers-comp) @
+#### [Safety](#safe) @
+#### [Use of Private Automobile](#private-automobile) *
+#### [Drugs and Alcohol](#drugs-alcohol) @
+### [WORKPLACE GUIDELINES](#workplace-guideline) @
+#### [Hours of Work](#hours-work) @
+#### [Attendance / Tardiness](#attendance) @
+#### [Personal Appearance](#personappearance) *
+#### [Access to Business-Related Online Accounts](#access-account) *
+### [EMPLOYMENT SEPARATION](#employseparation) *
+#### [At-Will](#at-will) *
+#### [Resignation](#resig) *
+#### [Termination](#termin) *
+#### [Return of Company Property](#company-property) *
+#### [Continuation of Benefits](#continuation-benefit) *
+### [REQUIRED STUFF](#required) @
+#### [At-Will Notice](#atwillnotice) @
+#### [Equal Employment - Expanded Definition](#equal-employment) *
+#### [Reasonable Accommodations](#reasonable-accomodation) @
+#### [Exempt v. Non-exempt](#exempt-non) @
+#### [Complaint Resolution Policy](#complaint-resolution) *
+#### [Corrective Action](#corrective) *
+#### [Reporting Irregularities](#irregularity) *
+#### [Conflict of Interest](#conflict-interest) *
+### [ACKNOWLEDGEMENT](#awknowledgement) *
+### [CHANGE LOG](#changelog) *
 
 
 
