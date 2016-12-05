@@ -28,7 +28,7 @@ If you're interested in following 18F, we recommend the following setup:
   <img src="/images/slack-and-social-media/2.png" alt="TweetDeck setup with three columns: 18F's team list, replies to @18F, and @18F feed">
 </div>
 
-The first column is people who work at 18F, the second column features people who mention 18F, and the third is from the actual 18F Twitter account. If you’re on Twitter and not on the [@18F Team list](https://twitter.com/18F/lists/team), [contact Andre](https://gsa-tts.slack.com/messages/@andre) and he’ll add you. Here is a [Twitter search](https://twitter.com/search?q=18f.gsa.gov%20OR%20%4018f%20OR%20github.com%2F18f%20-newgovrepos&src=savs) to see who is talking about 18F on Twitter.
+The first column is people who work at 18F, the second column features people who mention 18F, and the third is from the actual 18F Twitter account. Here is a [Twitter search](https://twitter.com/search?q=18f.gsa.gov%20OR%20%4018f%20OR%20github.com%2F18f%20-newgovrepos&src=savs) to see who is talking about 18F on Twitter.
 
 ### Tips and guidelines
 
