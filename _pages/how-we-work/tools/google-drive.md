@@ -37,6 +37,10 @@ We have more explanation of why this is our policy in [this blog post about how 
 
 To be sure you haven't enabled this access accidentally in the past, you can check [Google's list of "Apps connected to your account"](https://security.google.com/settings/security/permissions), expand each item, and look for the Google Drive icon.
 
+## Google Apps Scripts
+
+To use a [Google Apps Script](https://developers.google.com/apps-script/), please fill out [this form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdOCtxCaSKJC87CedZW1FKGspMvnRzyOauMvKIOfrSV7PBdag/viewform).
+
 ## Tips
 
 - **Finding recent documents** To find recently documents, use [this link](https://drive.google.com/drive/recent), which you can find by clicking on the "AZ" button and selecting "Last opened by me."
