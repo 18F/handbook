@@ -65,7 +65,7 @@ If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](ht
 
 ### Book lodging
 
-[Fedrooms](https://www.fedrooms.com) is the preferred way to book accommodations while traveling on official business. All rooms are "fire-safe", under the government maximum rate, and fully refundable up to 24 hours before check-in, which minimizes both overall cost and risk to the government.
+[Fedrooms](https://www.fedrooms.com) is the preferred way to book accommodations while traveling on official business. All rooms are ["fire-safe"](http://www.gsa.gov/portal/content/102177), under the government maximum rate, and fully refundable up to 24 hours before check-in, which minimizes both overall cost and risk to the government.
 
 When booking hotels for official travel, always use your travel card, whether you are using Fedrooms, Concur, or any other service.
 

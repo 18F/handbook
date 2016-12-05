@@ -41,7 +41,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
    The recommended resource for booking hotels as a Federal government employee is [Fedrooms.com](http://fedrooms.com).
 
-   You may, however, choose to book a hotel directly or through an alternative service if those alternatives are “advantageous to the government” -- meaning either less expensive or closer to your work site(s) than the options available on Fedrooms. Whatever option you choose, however, must be "fire safe" and fully refundable up to 24 hours before departure.
+   You may, however, choose to book a hotel directly or through an alternative service if those alternatives are “advantageous to the government” -- meaning either less expensive or closer to your work site(s) than the options available on Fedrooms. Whatever option you choose, however, must be ["fire safe"](http://www.gsa.gov/portal/content/102177) and fully refundable up to 24 hours before departure.
 
 8. **Travel!** And keep receipts
 
