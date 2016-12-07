@@ -313,57 +313,96 @@ navigation:
   internal: true
   generated: true
   children:
+  - text: Code of Conduct
+    url: conduct-policies/
+    internal: true
+    generated: true
+    children:
+  - text: 18F Code of conduct
+    url: code-of-conduct/
+    internal: false
+    
+  - text: Business and Ops
+    url: business-and-ops-policies/
+    internal: true
+    generated: true
+    children:  
   - text: Account management policy
     url: client-accounts/
-    internal: true
-  - text: ALOHA/ETAMS reconciliation feature
-    url: aloha-etams-reconciliation-feature/
     internal: true
   - text: Billing policy
     url: https://docs.google.com/document/d/1Y5MP1jmCuc43pW35zXF-lvQrwDFA9YgQfviWtFcf4ao/edit
     internal: false
-  - text: Code of conduct
-    url: code-of-conduct/
-    internal: false
-  - text: Detailing to and from 18F
-    url: detail/
+  - text: Performance management requirements and timeline
+    url: performance-management/
+    internal: true   
+    
+  - text: Tech
+    url: tech-policies/
     internal: true
+    generated: true
+    children:     
   - text: "(Draft) Federal records policy"
     url: federal-records/
     internal: true
+  - text: Open source policy
+    url: open-source/
+    internal: true   
+  - text: Requirements for Passwords
+    url: password-requirements/
+    internal: true   
+  - text: Security incidents
+    url: security-incidents/
+    internal: true   
+    
+  - text: Travel and Leave
+    url: travel-and-leave-policies/
+    internal: true
+    generated: true
+    children:       
+  - text: ALOHA/ETAMS reconciliation feature
+    url: aloha-etams-reconciliation-feature/
+    internal: true
+  - text: Leave, telework, and virtual worker policy
+    url: leave-telework-and-virtual-worker/
+    internal: true    
+  - text: Moving
+    url: moving/
+    internal: true    
+  - text: Travel guide
+    url: travel-guide-start-here/
+    internal: true   
+
+ - text: Employee Resources
+    url: employee-resources-policies/
+    internal: true
+    generated: true
+    children: 
   - text: Employee assistance program
     url: employee-assistance-program/
     internal: true
   - text: Emergency procedures
     url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
-    internal: false
-  - text: Leave, telework, and virtual worker policy
-    url: leave-telework-and-virtual-worker/
-    internal: true
-  - text: Leaving 18F
-    url: leaving-18f/
-    internal: true
-  - text: Moving
-    url: moving/
-    internal: true
-  - text: Open source policy
-    url: open-source/
-    internal: true
+    internal: false    
   - text: Overtime and comp-time policy
     url: overtime-and-comp-time/
-    internal: true
-  - text: Performance management requirements and timeline
-    url: performance-management/
     internal: true
   - text: Promotions
     url: promotions/
     internal: true
-  - text: Security incidents
-    url: security-incidents/
+    
+ - text: Detailing and Offboarding
+    url: detailing-and-offboarding-policies/
+    internal: true
+    generated: true
+    children:   
+  - text: Detailing to and from 18F
+    url: detail/
+    internal: true
+  - text: Leaving 18F
+    url: leaving-18f/
     internal: true
   - text: Term extensions
     url: term-extensions/
     internal: true
-  - text: Travel guide
-    url: travel-guide-start-here/
-    internal: true
+
