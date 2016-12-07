@@ -26,21 +26,22 @@ For **non-reimbursable details**, the lending agency must provide a memo of just
 
 In both cases, staff detailing in will need to devote 100 percent of their time to the project they’re assigned over the length of the detail.
 
-
-
 ## Time increments
 
 Details agreements come in increments of 120 days or less (per GSA order HRM P 9334.1), and can be extended up to two times for a total period of no more than one year. All details must be approved by the receiving unit head, for example, an 18F business unit or chapter director, and GSA Office of General Council.
-
-Once approved, the receiving unit head will complete the [18F detail request form](https://docs.google.com/a/gsa.gov/forms/d/18F2xfXUwiaLkBRJYov53OnjJ4_lMX0QBlTJ_tV9cojw/viewform) and ping [Cristina Brydges](https://gsa-tts.slack.com/team/cristina).
 
 ## Security Verification
 
 All Federal employees working at GSA must have a security clearance. For those employees detailing into 18F from outside of GSA, their security status must be verified with the GSA Security Office. It is the responsibility of the 18F employee supervising the detailee to ensure this is complete. 18F Talent provides step-by-step instructions on how to complete the security process. This process should be completed at the same time as the detail agreement process.  For more information, visit the [18F security verification steps form](https://docs.google.com/document/d/1xX4ro1bm4TtcJpqoz0TbXlpDhiaxLf4coBFg61GPQ9g/edit#heading=h.1jfe24syhsou).
 
-## Hiring Process for Assignees/Detailees
+## Process for Detailing to Another Agency
 
   - [Detailing to another agency](****INSERT LINK****)
+  
+## Process for Requesting Details and Assignees
+
+Once approved, the receiving unit head will complete the [18F detail request form](https://docs.google.com/a/gsa.gov/forms/d/18F2xfXUwiaLkBRJYov53OnjJ4_lMX0QBlTJ_tV9cojw/viewform) and follow the appropriate process below. 
+ 
   - [Bringing an Assignee into 18F](****INSERT LINK***)
   - [Bringing a Detailee (reimbursable) into 18F](****INSERT LINK****)
   - [Bringing a Detailee (non-reimbursable) into 18F](****INSERT LINK****)
