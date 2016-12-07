@@ -310,23 +310,37 @@ navigation:
   internal: true
   generated: true
   children:
+  - text: Business/Tech
+    url: business/
+    internal: true
+    generated: true
   - text: Account management policy
     url: client-accounts/
-    internal: true
-  - text: ALOHA/ETAMS reconciliation feature
-    url: aloha-etams-reconciliation-feature/
     internal: true
   - text: Billing policy
     url: https://docs.google.com/document/d/1Y5MP1jmCuc43pW35zXF-lvQrwDFA9YgQfviWtFcf4ao/edit
     internal: false
+  - text: "(Draft) Federal records policy"
+    url: federal-records/
+    internal: true   
+  - text: Open source policy
+    url: open-source/
+    internal: true  
+  - text: Security incidents
+    url: security-incidents/
+    internal: true   
+  - text: Talent/Ops
+    url: talent/
+    internal: true
+    generated: true
+  - text: ALOHA/ETAMS reconciliation feature
+    url: aloha-etams-reconciliation-feature/
+    internal: true
   - text: Code of conduct
     url: code-of-conduct/
     internal: false
   - text: Detailing to and from 18F
     url: detail/
-    internal: true
-  - text: "(Draft) Federal records policy"
-    url: federal-records/
     internal: true
   - text: Employee assistance program
     url: employee-assistance-program/
@@ -343,9 +357,6 @@ navigation:
   - text: Moving
     url: moving/
     internal: true
-  - text: Open source policy
-    url: open-source/
-    internal: true
   - text: Overtime and comp-time policy
     url: overtime-and-comp-time/
     internal: true
@@ -354,9 +365,6 @@ navigation:
     internal: true
   - text: Promotions
     url: promotions/
-    internal: true
-  - text: Security incidents
-    url: security-incidents/
     internal: true
   - text: Term extensions
     url: term-extensions/
