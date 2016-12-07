@@ -304,6 +304,9 @@ navigation:
     - text: Waffle
       url: waffle/
       internal: true
+    - text: Zoom
+      url: zoom/
+      internal:  true
 - text: Policies
   blurb: Everybody’s gotta have rules.
   url: policies/
