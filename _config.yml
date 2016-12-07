@@ -319,6 +319,9 @@ navigation:
   - text: ALOHA/ETAMS reconciliation feature
     url: aloha-etams-reconciliation-feature/
     internal: true
+  - text: Authority To Operate (ATO)
+    url: authority-to-operate/
+    internal: true
   - text: Billing policy
     url: https://docs.google.com/document/d/1Y5MP1jmCuc43pW35zXF-lvQrwDFA9YgQfviWtFcf4ao/edit
     internal: false
