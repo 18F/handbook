@@ -16,21 +16,17 @@ A prerequisite for any work with an agency is that there must be an active IAA w
 
 If seeking an exception to the general rule of not doing details, contact your chapter or business unit director.  If approved by your chapter or business unit director, the director will contact Josh Bailes to coordinate approvals. 
 
-## Details in from external agencies
+## Details/Assignments in from external agencies
 
-### Can staff from other federal agencies detail into 18F?
+### Can staff from other federal agencies detail into or be assigned into 18F?
 
-Yes. Staff from other agencies can join our team for a specific period of time to work on projects that will ultimately benefit the external agency. This kind of arrangement can be done on a **reimbursable basis**, where 18F pays for the detailee’s salary and benefits, or on a **non-reimbursable basis** where 18F does not pay the other agency back.
-
-In either scenario, **project leads must inform chapter directors of the request at the earliest stages**.
+Yes. Staff from other agencies can join our team for a specific period of time to work on projects that will ultimately benefit the external agency.  **Project leads must inform chapter directors of the request at the earliest stages**.  This kind of arrangement can be done on a **reimbursable basis**, where 18F pays for the detailee’s salary and benefits, or on a **non-reimbursable basis** where 18F does not pay the other agency back.  **Assignees** are Details that do not require a Memorandum of Agreement (MOA).  For example, team members temporarily joing 18F from from [USDS](https://www.whitehouse.gov/participate/united-states-digital-service) are generally brought over as Assignees.
 
 For **non-reimbursable details**, the lending agency must provide a memo of justification demonstrating that the work performed by the detailee (while with 18F) will ultimately benefit the lending agency.
 
 In both cases, staff detailing in will need to devote 100 percent of their time to the project they’re assigned over the length of the detail.
 
-When detailing staff in, it’s important to connect them to our organization in a meaningful way. That means they’ll be onboarded in the same way we bring in new hires, and welcomed into the chapter model either formally or informally. The idea is to connect them to peers for support and discussion.
 
-Using the product chapter as an example, a detailee could be informally associated with this unit. Detailees are encouraged to attend product team meetings, chat with the team in the #product Slack channel, and even sometimes help with interviewing. There are a small number of activities limited to people who are formally aligned to the product team (for example, advice on how to deal with sensitive work situations). In those cases, there is a private Slack channel for those limited conversations that details likely won’t participate in.
 
 ## Time increments
 
@@ -41,6 +37,21 @@ Once approved, the receiving unit head will complete the [18F detail request for
 ## Security Verification
 
 All Federal employees working at GSA must have a security clearance. For those employees detailing into 18F from outside of GSA, their security status must be verified with the GSA Security Office. It is the responsibility of the 18F employee supervising the detailee to ensure this is complete. 18F Talent provides step-by-step instructions on how to complete the security process. This process should be completed at the same time as the detail agreement process.  For more information, visit the [18F security verification steps form](https://docs.google.com/document/d/1xX4ro1bm4TtcJpqoz0TbXlpDhiaxLf4coBFg61GPQ9g/edit#heading=h.1jfe24syhsou).
+
+## Hiring Process for Assignees/Detailees
+
+  - [Detailing to another agency](****INSERT LINK****)
+  - [Bringing an Assignee into 18F](****INSERT LINK***)
+  - [Bringing a Detailee (reimbursable) into 18F](****INSERT LINK****)
+  - [Bringing a Detailee (non-reimbursable) into 18F](****INSERT LINK****)
+
+## Onboarding Assignees/Detailees
+
+[Assignee/Detailee Checklist](****INSERT LINK****)
+
+When assigning or detailing staff in, it’s important to connect them to our organization in a meaningful way. That means they’ll be onboarded in the same way we bring in new hires, and welcomed into the chapter model either formally or informally. The idea is to connect them to peers for support and discussion.
+
+Using the product chapter as an example, a detailee could be informally associated with this unit. Assignees/Detailees are encouraged to attend product team meetings, chat with the team in the #product Slack channel, and even sometimes help with interviewing. There are a small number of activities limited to people who are formally aligned to the product team (for example, advice on how to deal with sensitive work situations). In those cases, there is a private Slack channel for those limited conversations that details likely won’t participate in.
 
 ## Offboarding
 
