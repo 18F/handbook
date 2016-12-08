@@ -344,7 +344,10 @@ navigation:
     url: tech-policies/
     internal: true
     generated: true
-    children:     
+    children: 
+    text: Authority To Operate (ATO)
+    url: authority-to-operate/
+    internal: true
   - text: "(Draft) Federal records policy"
     url: federal-records/
     internal: true
