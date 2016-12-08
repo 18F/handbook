@@ -253,6 +253,9 @@ navigation:
     - text: GitHub
       url: github/
       internal: true
+    - test: Google Suite
+      url: google-suite/
+      internal: true
     - text: Gmail
       url: gmail/
       internal: true
