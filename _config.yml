@@ -144,6 +144,9 @@ navigation:
   - text: History and values
     url: history-and-values/
     internal: true
+  - text: Mentorship
+    url: mentorship/
+    internal: true
   - text: Mission
     url: mission/
     internal: true
@@ -324,7 +327,6 @@ navigation:
   - text: 18F Code of conduct
     url: code-of-conduct/
     internal: false
-    
   - text: Business and Ops
     url: business-and-ops-policies/
     internal: true
@@ -339,7 +341,6 @@ navigation:
   - text: Performance management requirements and timeline
     url: performance-management/
     internal: true   
-    
   - text: Tech
     url: tech-policies/
     internal: true
@@ -359,8 +360,7 @@ navigation:
     internal: true   
   - text: Security incidents
     url: security-incidents/
-    internal: true   
-    
+    internal: true  
   - text: Travel and Leave
     url: travel-and-leave-policies/
     internal: true
@@ -378,8 +378,7 @@ navigation:
   - text: Travel guide
     url: travel-guide-start-here/
     internal: true   
-
- - text: Employee Resources
+ -  text: Employee Resources
     url: employee-resources-policies/
     internal: true
     generated: true
@@ -396,7 +395,6 @@ navigation:
   - text: Promotions
     url: promotions/
     internal: true
-    
  - text: Detailing and Offboarding
     url: detailing-and-offboarding-policies/
     internal: true
