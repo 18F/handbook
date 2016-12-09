@@ -379,7 +379,7 @@ navigation:
     - text: Travel guide
       url: travel-guide-start-here/
       internal: true   
- -  text: Employee Resources
+  - text: Employee Resources
     url: employee-resources-policies/
     internal: true
     generated: true
@@ -396,7 +396,7 @@ navigation:
     - text: Promotions
       url: promotions/
       internal: true
- -  text: Detailing and Offboarding
+  - text: Detailing and Offboarding
     url: detailing-and-offboarding-policies/
     internal: true
     generated: true
