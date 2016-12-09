@@ -256,9 +256,6 @@ navigation:
     - text: GitHub
       url: github/
       internal: true
-    - test: Google Suite
-      url: google-suite/
-      internal: true
     - text: Gmail
       url: gmail/
       internal: true
@@ -325,8 +322,8 @@ navigation:
     internal: true
     generated: true
     children:
-    - text: 18F Code of conduct
-      url: code-of-conduct/
+    - text: 18F Code of Conduct
+      url: https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md
       internal: false
   - text: Business and Ops
     url: business-and-ops-policies/
@@ -379,7 +376,7 @@ navigation:
     - text: Travel guide
       url: travel-guide-start-here/
       internal: true   
- -  text: Employee Resources
+  - text: Employee Resources
     url: employee-resources-policies/
     internal: true
     generated: true
@@ -396,7 +393,7 @@ navigation:
     - text: Promotions
       url: promotions/
       internal: true
- -  text: Detailing and Offboarding
+  - text: Detailing and Offboarding
     url: detailing-and-offboarding-policies/
     internal: true
     generated: true
