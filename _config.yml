@@ -325,8 +325,8 @@ navigation:
     internal: true
     generated: true
     children:
-    - text: 18F Code of conduct
-      url: code-of-conduct/
+    - text: 18F Code of Conduct
+      url: https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md
       internal: false
   - text: Business and Ops
     url: business-and-ops-policies/
