@@ -311,11 +311,13 @@ navigation:
       url: zoom/
       internal:  true
 - text: Policies
-  description: Everyone has got to have rules.
-
+  blurb: |
+    Everyone's gotta have rules.
   url: policies/
   internal: true
   generated: true
+  
+  
   children:
   - text: Code of Conduct
     url: conduct-policies/
@@ -325,6 +327,7 @@ navigation:
     - text: 18F Code of Conduct
       url: https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md
       internal: false
+
 
   - text: Business and Ops
     url: business-and-ops-policies/
@@ -340,6 +343,7 @@ navigation:
     - text: Performance management requirements and timeline
       url: performance-management/
       internal: true  
+ 
  
   - text: Tech
     url: tech-policies/
@@ -362,6 +366,7 @@ navigation:
       url: security-incidents/
       internal: true  
 
+
   - text: Travel and Leave
     url: travel-and-leave-policies/
     internal: true
@@ -380,6 +385,7 @@ navigation:
       url: travel-guide-start-here/
       internal: true   
 
+
   - text: Employee Resources
     url: employee-resources-policies/
     internal: true
@@ -397,6 +403,7 @@ navigation:
     - text: Promotions
       url: promotions/
       internal: true
+
 
   - text: Detailing and Offboarding
     url: detailing-and-offboarding-policies/
