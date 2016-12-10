@@ -318,7 +318,6 @@ navigation:
   generated: true
   
   
-  children:
   - text: Code of Conduct
     url: conduct-policies/
     internal: true
