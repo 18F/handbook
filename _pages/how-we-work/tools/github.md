@@ -79,10 +79,10 @@ Here&rsquo;s our current process to address both operational and security concer
 1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
 1. Ask the collaborator(s) to go through [the setup steps](#setup).
     * They will need to confirm they've done this before you continue.
-2. (Ask #admins-github to) [create a team](https://help.github.com/articles/adding-people-to-teams-in-an-organization/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`.
+2. (Ask #admins-github to) [create a team](https://help.github.com/articles/setting-up-teams/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`.
 3. In the &ldquo;Description&rdquo; of the team, put something reasonable plus a point-of-contact email address for the collaborators.
     * Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops.
-5. (Ask #admins-github to) add the members.
+5. (Ask #admins-github to) [add the members](https://help.github.com/articles/maintaining-teams/).
     * The 18F GitHub Organization requires 2FA for its members. Users without 2FA cannot be added to the GitHub Organization.
 6. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
 
