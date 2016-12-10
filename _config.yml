@@ -311,8 +311,7 @@ navigation:
       url: zoom/
       internal:  true
 - text: Policies
-  blurb: |
-    Everyone's gotta have rules.
+  description: Everyone has got to have rules.
 
   url: policies/
   internal: true
