@@ -34,9 +34,9 @@ At this point, the renewal process is completed by the Talent Team and GSA HR.
 - HR reviews and confirms the RPA checking that all information is accurate (employee has another term left, correct extension dates).
   - *Note: New Term beginning dates are the following day from the previous term end date excluding weekends. If it’s a weekend it will be the following Monday. New Term end dates will be the Friday if it falls on a weekend.*
 - HR sends the approved RPA to CPC (Consolidated Processing Center in Kansas City, MO) to have it processed.
-- CPC processes the RPA. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in CHRIS. They process RPAs based on action date, which is why you will not see the updates in CHRIS until the extension date.
+- CPC processes the RPA. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in CHRIS. They process RPAs based on action date, which is why you will not see the updates in CHRIS or our internal systems until the extension date.
 
-*Please note that GSA and the systems do not process extensions ahead of time.*
+*Please note that GSA and internal systems do not process extensions ahead of time.*
 
 5) Your updated NTE (Not To Exceed date) will show up in your CHRIS account under the “Assignment Tab” on the day of the renewal along with your updated SF50 under the “Personnel Actions (SF-50s)” tab, so on 8/25/16 you would see the new date of 8/25/18. A notification from the CHRIS system usually gets emailed to employees up to two weeks after the action.
 
