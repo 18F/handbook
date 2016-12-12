@@ -11,7 +11,7 @@ title: Agreements
 - _IAA_ is our shorthand for using the Treasury Department&rsquo;s standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
 - An MOU is a single document to record work done by 18F for OCSIT. Since 18F is part of OCSIT, this agreement is between 18F/OCSIT and the GSA-CFO to allow the transfer of funds from the OCSIT appropriation to 18F for work to be done. Team Ops provides a [template](https://drive.google.com/open?id=1WiUb-FiM93UNFSvL_TgtcGog7m5BGlutI1SWMFyQOJg) for your use.
 
-Under no circumstances does 18F do work without a signed, executed agreement in place. If you have a question about the existence of an agreement or whether work can begin, ask in [#iaa](https://gsa-tts.slack.com/archives/iaa).
+18F does not work without a signed, executed agreement in place. On rare exceptions (the beginning of a new fiscal year, for instance), the TTS Commissioner may issue a memorandum allowing 18F to work at risk in limited circumstances. This is not the general policy and the exception should never be relied upon until issued. Therefore, all 18F staff should not do any work without a signed agreement unless there is a memorandum in place from the TTS Commissioner and the 18F Assistant Commissioner has directed them to do so.  If you have a question about the existence of an agreement or whether work can begin, ask in [#iaa](https://gsa-tts.slack.com/archives/iaa).
 
 For more information about how we do business, see our [account management policy](/client-accounts/).
 
