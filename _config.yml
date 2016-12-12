@@ -224,6 +224,9 @@ navigation:
   - text: Doing research at 18F
     url: research-guidelines/
     internal: true
+  - text: How to say no
+    url: how-to-say-no/
+    internal: true
   - text: Equipment
     url: equipment/
     internal: true
@@ -235,7 +238,7 @@ navigation:
     internal: true
   - text: Purchase requests
     url: purchase-requests/
-    internal: true    
+    internal: true
   - text: Sensitive information
     url: sensitive-information/
     internal: true
@@ -331,7 +334,7 @@ navigation:
     url: business-and-ops-policies/
     internal: true
     generated: true
-    children:  
+    children:
     - text: Account management policy
       url: client-accounts/
       internal: true
@@ -340,13 +343,13 @@ navigation:
       internal: false
     - text: Performance management requirements and timeline
       url: performance-management/
-      internal: true  
- 
+      internal: true
+
   - text: Tech
     url: tech-policies/
     internal: true
     generated: true
-    children: 
+    children:
     - text: Authority To Operate (ATO)
       url: authority-to-operate/
       internal: true
@@ -355,43 +358,43 @@ navigation:
       internal: true
     - text: Open source policy
       url: open-source/
-      internal: true   
+      internal: true
     - text: Requirements for Passwords
       url: password-requirements/
-      internal: true   
+      internal: true
     - text: Security incidents
       url: security-incidents/
-      internal: true  
+      internal: true
 
   - text: Travel and Leave
     url: travel-and-leave-policies/
     internal: true
     generated: true
-    children:       
+    children:
     - text: ALOHA/ETAMS reconciliation feature
       url: aloha-etams-reconciliation-feature/
       internal: true
     - text: Leave, telework, and virtual worker policy
       url: leave-telework-and-virtual-worker/
-      internal: true    
+      internal: true
     - text: Moving
       url: moving/
-      internal: true    
+      internal: true
     - text: Travel guide
       url: travel-guide-start-here/
-      internal: true   
+      internal: true
 
   - text: Employee Resources
     url: employee-resources-policies/
     internal: true
     generated: true
-    children: 
+    children:
     - text: Employee assistance program
       url: employee-assistance-program/
       internal: true
     - text: Emergency procedures
       url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
-      internal: false    
+      internal: false
     - text: Overtime and comp-time policy
       url: overtime-and-comp-time/
       internal: true
@@ -403,7 +406,7 @@ navigation:
     url: detailing-and-offboarding-policies/
     internal: true
     generated: true
-    children:   
+    children:
     - text: Detailing to and from 18F
       url: detail/
       internal: true
@@ -413,4 +416,3 @@ navigation:
     - text: Term extensions
       url: term-extensions/
       internal: true
-
