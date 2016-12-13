@@ -202,6 +202,9 @@ navigation:
     - text: Product
       url: product/
       internal: true
+    - text: Products and Platforms
+      url: products-and-platforms/
+      internal: true
     - text: Strategy
       url: strategy/
       internal: true
