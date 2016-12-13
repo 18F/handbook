@@ -31,8 +31,6 @@ Products and Platforms is one of the 5 business units within 18F. We strive to i
 
   * Bernd Verst, Technical Account Manager for cloud.gov
 
-  * Ric Miller
-
 ## How we support internal teams
 
 We promise to support teams on P&P projects with meaningful and impactful work. We will:
