@@ -278,7 +278,7 @@ navigation:
       url: google-hangouts/
       internal: true
     - text: GSA Internal Tools
-      url: gsa-tools-equipment-and-transit/#gsa-tools/
+      url: /#gsa-tools/
       internal: true
     - text: Managed Software Center
       url: managed-software-center/
