@@ -224,6 +224,9 @@ navigation:
   - text: Doing research at 18F
     url: research-guidelines/
     internal: true
+  - text: How to say no
+    url: how-to-say-no/
+    internal: true
   - text: Equipment
     url: equipment/
     internal: true
