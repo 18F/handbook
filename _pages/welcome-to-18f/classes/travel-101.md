@@ -8,22 +8,22 @@ This post contains an overview of what you need to know about how to book travel
 
 The 18F Travel Team has four members:
 
-* Jordan Metoyer (Engineering)
-* Emmanuel "Manny" Pressley (Design)
-* Ethan Heppner (Operations)
-* Victor Valdiviezo (Operations)
+* Jordan Metoyer (18F Engineering)
+* Emmanuel "Manny" Pressley (18F Design)
+* Ethan Heppner (TTS Operations)
+* Leah Gitter (TTS Operations)
 
-Jordan and Manny manage travel approval for their respective chapters and are 18F's primary points of contact for travel-related questions during 18F Travel Office Hours.
+Jordan and Manny manage travel approval for their respective chapters and along with Leah Gitter, are 18F's primary points of contact for travel-related questions during 18F Travel Office Hours. Leah Gitter approves travel for all other chapters and business units.
 
-Ethan Heppner and Victor Valdiviezo lead the 18F travel team. They serve as approvers for all other 18F chapters and business units, and they are also the second line of approval for the Design and Engineering chapters while Jordan and Manny are in training. They, in coordination with Josh Bailes, Director of Operations, manage and determine 18F travel policy and procedure.
+Ethan Heppner leads the 18F travel team. He serves as the second line of approval for all of 18F while Jordan, Manny, and Leah are in training. He, in coordination with Amy Lawson, TTS Director of Operations, manages and determines 18F travel policy and procedure. Victor Valdiviezo fills in for Ethan when he is out of the office.
 
 ### Communication
 
-If you have travel questions, you can ask them during 18F travel team [office hours](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_iqsha8bbdcjtqq3jufp15vl554%40group.calendar.google.com) Monday through Friday from **10:30 to 11:30 AM Eastern** and again from **3:30 to 4:30 PM Pacific**. Someone will be monitoring the channel and they will address your question as fast as they can.
+If you have travel questions, you can ask them during 18F travel team [office hours](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_iqsha8bbdcjtqq3jufp15vl554%40group.calendar.google.com) Monday through Friday from **10:30 to 11:30 AM** and again from **5:30 to 6:30 PM** (All times Eastern). Someone will be monitoring the channel and they will address your question as fast as they can.
 
 For more involved questions, you can also [sign up for a 1-on-1 appointment with a member of the 18F travel team](https://calendar.google.com/calendar/selfsched?sstoken=UUZmSUplekFxYzFofGRlZmF1bHR8ZGE3Zjg4NTljODU3NTEyNzgwYmU5YmRlYTdlNTFjNTY). The 1-on-1s will be offered every day between 11:30 AM and 12:30 PM Eastern. If you're new and have read through the [Handbook Travel Guide](/travel-guide-start-here/) and aren't sure where to start, feel free to book some 1-on-1 time and get yourself oriented. If there are no 1-on-1s scheduled, morning office hours will continue through this time.
 
-The travel team also approves [authorizations](/travel-101/#authorizations) at 2:30 PM Eastern every day. No more waiting and wondering if your travel will be reviewed! If your travel wasn’t approved and you think it should have been, feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) at 3 PM Eastern to check if it was received.
+The travel team also approves [authorizations](/travel-101/#authorizations) at 2:30 PM Eastern every day, and Ethan does final approvals by 6 PM ET. If your travel wasn’t approved and you think it should have been, feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) at 3 PM Eastern to check if it was received.
 
 *Note:* Authorizations will be addressed within a day of being submitted, but vouchers may take up to 5 business days since they are handled them as the remaining travel approval time on the office hours calendar permits.
 
