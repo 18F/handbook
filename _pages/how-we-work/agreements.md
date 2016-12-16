@@ -49,7 +49,7 @@ The information below provides more detail than we typically give clients. Team 
 
 ### Kickoff
 
-1. The project lead submits the [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/13--i0fRhgSgP9sRVkn7RvPN0Lrbwvg4cpMOctN3Ygrc/viewform), which includes a link to the [cost estimate](https://drive.google.com/open?id=0BwzPQaT19ZdofjhPRGRhLW1BWGNQc1kzTHhZbDA2YW15UzhMd05jWDYxdEtob18yTEJkbTQ), period of performance, statement of work (if drafted), and basic client data.
+1. The project lead submits the [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdRQerRDxl4hPX_zTQJcY9fR9i0z3LI3dLQiKE0uyJ5fF666g/viewform), which includes a link to the [cost estimate](https://drive.google.com/open?id=0BwzPQaT19ZdofjhPRGRhLW1BWGNQc1kzTHhZbDA2YW15UzhMd05jWDYxdEtob18yTEJkbTQ), period of performance, statement of work (if drafted), and basic client data.
 1. Team Ops receives the form and:
  - Creates a file folder with all appropriate templates
  - Emails the folder to the project lead
