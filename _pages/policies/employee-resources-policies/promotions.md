@@ -21,7 +21,7 @@ To be eligible for a promotion at 18F, you must have at least one year in the cu
    a. Again, the content should align with the PD  
    b. Make sure it's written in **plain language**  
    c. Keep the bureaucratic-style resume showing everything the employee has done and the start and stop dates (mm/yy) for each position  
-3. Send the supervisor justification and updated resume via email to Cristina Brydges and Jen Tress  
+3. Send the supervisor justification and updated resume via email to [TTS Talent](mailto:tts-talentteam@gsa.gov)  
 4. Justification will be reviewed and then Talent will forward to HR for qualification and approval within one week of receipt  
 5. If HR approves (typically within one week), Talent will initiate a request for personnel action (RPA) in the HR system for pay and grade level changes, etc. Once submitted it can take up to two pay periods to take effect.
 
