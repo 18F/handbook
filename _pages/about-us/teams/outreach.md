@@ -46,7 +46,7 @@ Like our blog, the newsletter is always in need of submissions &mdash; especiall
 
 - If you’re contacted by a congressperson or senator, or are contacted by one of their offices, please contact [Gia](mailto:gianelle.rivera@gsa.gov) in the Office of Congressional and Intergovernmental Affairs, and copy [Hillary](mailto:hillary.hartley@gsa.gov). Feel free to give us a heads up in #outreach, too.
 
-- If you’re contacted by a reporter, please route all interactions through the Office of Strategic Communications (OSC) via [media@gsa.gov](mailto:media@gsa.gov), and copy [Hillary](mailto:hillary.hartley@gsa.gov). Feel free to give us a heads up in #outreach, too.
+- If you’re contacted by a reporter, please route all interactions through the Office of Strategic Communications (OSC) via [press@gsa.gov](mailto:press@gsa.gov), and copy [Hillary](mailto:hillary.hartley@gsa.gov). Feel free to give us a heads up in #outreach, too.
 
 - 18F press mentions are collected in [#press](https://gsa-tts.slack.com/archives/press).
 
