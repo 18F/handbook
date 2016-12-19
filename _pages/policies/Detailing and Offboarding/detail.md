@@ -36,19 +36,19 @@ All Federal employees working at GSA must have a security clearance. For those e
 
 ## Process for Detailing to Another Agency
 
-  - [Detailing to another agency](****INSERT LINK****)
+  - [Detailing to another agency](https://docs.google.com/document/d/1vESb786vUDwmtjwB5V-RZFBcY93zbxQSiKU6eK-Ft4U/edit#heading=h.s5ttmeu39f0k)
   
 ## Process for Requesting Details and Assignees
 
-Once approved, the receiving unit head will complete the [18F detail request form](https://docs.google.com/a/gsa.gov/forms/d/18F2xfXUwiaLkBRJYov53OnjJ4_lMX0QBlTJ_tV9cojw/viewform) and follow the appropriate process below. 
+Once approved, the receiving unit head will complete the [TTS detail request form](https://docs.google.com/a/gsa.gov/forms/d/1q7UkEDTTG1f2F57qbtebY43PtY2ITIEv2qJi-2TPwLU/edit) and follow the appropriate process below. 
  
-  - [Bringing an Assignee into 18F](****INSERT LINK***)
-  - [Bringing a Detailee (reimbursable) into 18F](****INSERT LINK****)
-  - [Bringing a Detailee (non-reimbursable) into 18F](****INSERT LINK****)
+  - [Bringing an Assignee into TTS](https://docs.google.com/document/d/1vESb786vUDwmtjwB5V-RZFBcY93zbxQSiKU6eK-Ft4U/edit#heading=h.s5ttmeu39f0k)
+  - [Bringing a Detailee into TTS](https://docs.google.com/document/d/1vESb786vUDwmtjwB5V-RZFBcY93zbxQSiKU6eK-Ft4U/edit#heading=h.dfdmklpionsd)
 
 ## Onboarding Assignees/Detailees
 
-[Assignee/Detailee Checklist](****INSERT LINK****)
+  - [Assignee/Detailee Checklistomania](https://checklistomania.apps.cloud.gov/)
+  - [Assignee/Detailee Onboarding Process](https://docs.google.com/spreadsheets/d/1Tjx-rW07whJnP8tuN6g0Znegk1CusWg-ZLP0A8USlbU/edit#gid=0)
 
 When assigning or detailing staff in, it’s important to connect them to our organization in a meaningful way. That means they’ll be onboarded in the same way we bring in new hires, and welcomed into the chapter model either formally or informally. The idea is to connect them to peers for support and discussion.
 
@@ -62,4 +62,4 @@ Once the assignment is complete, the detailee will work with their project lead 
 
 ### Still have questions?
 
-Please ping: [Cristina Brydges](https://gsa-tts.slack.com/team/cristina)
+Please ping: [Talent](https://gsa-tts.slack.com/messages/talent)
