@@ -36,7 +36,7 @@ All Federal employees working at GSA must have a security clearance. For those e
 
 ## Process for Detailing to Another Agency
 
-  - [Detailing to another agency](https://docs.google.com/document/d/1vESb786vUDwmtjwB5V-RZFBcY93zbxQSiKU6eK-Ft4U/edit#heading=h.s5ttmeu39f0k)
+  - [Detailing to another agency](https://docs.google.com/document/d/1vESb786vUDwmtjwB5V-RZFBcY93zbxQSiKU6eK-Ft4U/edit#heading=h.2wccg7q2htbp)
 
 ## Process for Requesting Details and Assignees
 
