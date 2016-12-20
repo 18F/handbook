@@ -411,7 +411,7 @@ navigation:
     generated: true
     children:
     - text: Assignments and Details
-      url: assignments-details/
+      url: assignee-detail/
       internal: true
     - text: Leaving 18F
       url: leaving-18f/
