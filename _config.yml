@@ -410,8 +410,8 @@ navigation:
     internal: true
     generated: true
     children:
-    - text: Assignments and Details
-      url: assignee-detail/
+    - text: Detailing to and from 18F
+      url: detail/
       internal: true
     - text: Leaving 18F
       url: leaving-18f/
