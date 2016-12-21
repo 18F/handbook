@@ -38,7 +38,7 @@ You should [sign up for the newsletter](https://18f.gsa.gov/#newsletter).
 
 Like our blog, the newsletter is always in need of submissions &mdash; especially of cool things other people are doing. Please send any interesting projects or initiatives you see over to [#newsletter](https://gsa-tts.slack.com/archives/newsletter). Did some city adopt our design standards? Did an agency release a new data set? Is there a civic hackathon happening somewhere? We want to hear about it.
 
-Here's a the guide on [how to draft and publish the external newsletter](https://docs.google.com/document/d/1EHWZX86An4XFVpM0rTbQkBUvDAHVuKenzWU2oIJnsCY/edit#).
+Here's the guide on [how to draft and publish the external newsletter](https://docs.google.com/document/d/1EHWZX86An4XFVpM0rTbQkBUvDAHVuKenzWU2oIJnsCY/edit#).
 
 ### Internal newsletter
 
