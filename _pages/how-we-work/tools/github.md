@@ -31,6 +31,7 @@ Include the following:
 - Company: Your government agency. (If you also use GitHub for personal projects, consider specifying &ldquo;<code>agency</code> (work) + personal projects&rdquo; to make it clear that some of your GitHub projects may be personal in nature.)
 - Location: Your primary work location (city, state).
 - Photo: A headshot photo, or an image that is unique to you.
+- Email: Your @gsa.gov email address
 
 ### 2. Set up two-factor authentication
 
