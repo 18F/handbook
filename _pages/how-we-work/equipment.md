@@ -150,21 +150,7 @@ To limit this risk, use new passwords for work services instead of reusing any p
 
 ### 3. Use strong passwords
 
-Even if you use a password manager, you'll still need to memorize a few unique passwords, such as the master password for your password manager.
-
-This opens up a few risks: A person could try to guess your password based on information about you, or a computer program could try to find your password by "brute forcing" it (making a zillion guesses based on common types and patterns of passwords). To limit these risks:
-
-- Use passwords that are hard to guess even for people who know you -- not your birthday, university, pet's name, favorite TV show, or similar.
-- Use passwords that probably nobody else uses. For some interesting examples of common passwords, check out [this list](https://web.archive.org/web/20151005001104/http://stricture-group.com/files/adobe-top100.txt) based on a real Adobe account dump; you can see dictionary words, names of favorite people/pets/characters/teams, words related to the service, and simple patterns of numbers and letters.
-- Use longer passwords rather than shorter passwords, since that makes "brute forcing" harder.
-
-[This XKCD comic](https://xkcd.com/936/) explains a common password pattern and one strategy for making stronger passwords:
-
-<img src="http://imgs.xkcd.com/comics/password_strength.png" alt="password strength comic from XKCD" />
-
-In other words, you could use a series of random words, plus a few numbers, capital letters, or symbols, if you like.
-
-Or try thinking of a sentence or line from a book, song, speech, poem, or other memorable source, then build a many-character password using the first letter of each word, with some capitalization, numbers, and symbols thrown in. Or just use the whole line or sentence as your password! (You'd need to pick a phrase that nobody would guess based on knowing you.)
+Read the guide on [setting and managing passwords](https://handbook.18f.gov/password-requirements/).
 
 ---
 
