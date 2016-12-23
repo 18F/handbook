@@ -7,9 +7,9 @@ Research isn’t only usability testing. Testing our assumptions by actively eng
 
 These guidelines should be familiar to anyone who's done research in the private sector or in academia. However, as public servants, we need to make sure that we're following a few basic principles. 
 
-- **Respect for Persons**: We honor people's opinions and choices, only blocking actions that are obviously going to harm others. We make sure that anyone participating in our research is doing so of their own free will, and that they have enough information to make that decision responsibly.  
+- **Respect for persons**: We honor people's opinions and choices, only blocking actions that are obviously going to harm others. We make sure that anyone participating in our research is doing so of their own free will, and that they have enough information to make that decision responsibly.  
 - **Beneficence**: We do our best to further people's best interests, and we avoid actions that might hurt them. This goal extends to society at large: before doing research, we need to consider whether what we're doing is in the best interests not just of individual participants but of the organizations and the country that we serve.  
-- **Justice** We do our best to ensure that we compensate research participants in some way for the time and energy that they contribute. We don't have to pay money, but we do have to give something back to participants. Sometimes that means just saying "thank you" and letting them know how much their input has helped improve government services. Other times, it can mean making a card or handing out cookies or fruit. Participation incentives, which are common in the private sector, are more tricky here in government. So please ask one of the Research Guild leaders if you think they're necessary for a specific study.
+- **Justice**: We do our best to ensure that we compensate research participants in some way for the time and energy that they contribute. We don't have to pay money, but we do have to give something back to participants. Sometimes that means just saying "thank you" and letting them know how much their input has helped improve government services. Other times, it can mean making a card or handing out cookies or fruit. Participation incentives, which are common in the private sector, are more tricky here in government. So please ask one of the Research Guild leaders if you think they're necessary for a specific study.
 
 While only scholarly researchers are strictly obligated to follow these principles, they are widely accepted in the United States as [a set of overaching values](http://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xethical) guiding all investigations involving humans. 
 
@@ -24,15 +24,15 @@ These guidelines focus on two main tasks that support that goal: gaining partici
 
 ### Consent forms
 
-* [Printable form](https://methods.18f.gov/assets/downloads/18FResearchParticipantConsentForm.docx). If you are going to use the printable form, offer your participant one copy and keep another for yourself. Then store the signed consent form somewhere secure, like a locked office cabinet.
+* [Printable form](https://methods.18f.gov/assets/downloads/18FResearchParticipantConsentForm.docx). If you're going to use the printable form, offer your participant one copy and keep another for yourself. Then store the signed consent form somewhere secure, like a locked office cabinet.
 * [Google Forms version](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/viewform). Copy this file and put it into your own project folder. At the moment, for some reason, the "move to folder" option appears to disabled in Google Forms, so you need to do this manually:
 
 1. Copy file
 2. Go to recent files in Drive and look for your copy  
 3. Drag and drop to your project folder. 
-4. Once you've got the form in your project folder, edit all the bits in <CAPITAL LETTERS> to apply to your project. It will automatically create it's own responses spreadsheet. Make sure to restrict access to the responses spreadsheet to ​*only the people who really need access on your team*​ which is probably only YOU. And then give out the link as needed. *Caveat: many federal employees will not be able to access Google Forms on their work computers.*
+4. Once you've got the form in your project folder, edit all the bits in CAPITAL LETTERS to apply to your project. It will automatically create it's own responses spreadsheet. Make sure to restrict access to the responses spreadsheet to **only the people who really need access on your team** which is probably only YOU. And then give out the link as needed. *Caveat: many federal employees will not be able to access Google Forms on their work computers.*
 
-Feel free to adapt our form as needed to make sure that we are following the three principles above, but don't change any of the legal language without asking #legalstuff first. If your participants are likely not fully literate in English, consider having the form translated to the correct language or working out a process for verbal consent using a translator.
+Feel free to adapt our form as needed to make sure that we're following the three principles above, but don't change any of the legal language without asking [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) first. If your participants are likely not fully literate in English, consider having the form translated to the correct language or working out a process for verbal consent using a translator.
 
 Consent forms often have Personally Identifiable Information (PII). Read more below for how to manage PII. 
 
@@ -56,7 +56,7 @@ Much of our research involves federal employees. When we are talking to federal 
 
 > practically no right to privacy in connection with your work. Anything you say or do — in an email, a phone call, a private GitHub repo, a Slack direct message, etc — can be monitored, recorded, and turned into a Federal record. 
 
-As researchers, however, we need to follow the principle of beneficence. So just following the legal guidelines on PII isn't enough if you are collecting information that you know might harm or embarrass your participants if it became generally known, _whether or not those participants are federal employees_. Different agencies and organizations may have different levels of sensitivity and exposure concerns about types of personal information (identifying or not) you collect and how you use it. Attributing quotations with agency affiliation, for example, may be more sensitive than first name and photo. In those cases, the principle of beneficence demands that we think carefully about protecting participants before sharing working notes or finished reports, even if we have satisfied the law.   
+As researchers, however, we need to follow the principle of beneficence. So just following the legal guidelines on PII isn't enough if you're collecting information that you know might harm or embarrass your participants if it became generally known, _whether or not those participants are federal employees_. Different agencies and organizations may have different levels of sensitivity and exposure concerns about types of personal information (identifying or not) you collect and how you use it. Attributing quotations with agency affiliation, for example, may be more sensitive than first name and photo. In those cases, the principle of beneficence demands that we think carefully about protecting participants before sharing working notes or finished reports, even if we have satisfied the law.   
 
 ### Storing PII and sharing research data
 
