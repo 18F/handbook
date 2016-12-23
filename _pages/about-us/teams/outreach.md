@@ -44,7 +44,7 @@ Here's the guide on [how to draft and publish the external newsletter](https://d
 
 18F also has an internal newsletter to keep you informed about what everyone is doing (18F org business, and more inside-baseball type of info). If your team has reminders or information you’d like to share with all of 18F you can drop it in [#newsletter](https://gsa-tts.slack.com/archives/newsletter) and we’ll include it in the next newsletter. If you’re announcing something in #news, at an all hands, or with a team-wide email, it would probably also benefit from being included in the internal newsletter.
 
-Here's the guide on [how to draft and publish the internal newsletter](https://docs.google.com/a/gsa.gov/document/d/1eQi9oVY-Dl2h4Mrn6EdSRnUfEGy_Y5vD8aTh7XK3usc/edit?usp=sharing)
+Here's the guide on [how to draft and publish the internal newsletter](https://docs.google.com/a/gsa.gov/document/d/1eQi9oVY-Dl2h4Mrn6EdSRnUfEGy_Y5vD8aTh7XK3usc/edit?usp=sharing).
 
 ## <a name="press"></a>Press and other inquiries
 
