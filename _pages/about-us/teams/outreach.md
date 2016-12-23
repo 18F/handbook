@@ -38,11 +38,13 @@ You should [sign up for the newsletter](https://18f.gsa.gov/#newsletter).
 
 Like our blog, the newsletter is always in need of submissions &mdash; especially of cool things other people are doing. Please send any interesting projects or initiatives you see over to [#newsletter](https://gsa-tts.slack.com/archives/newsletter). Did some city adopt our design standards? Did an agency release a new data set? Is there a civic hackathon happening somewhere? We want to hear about it.
 
-Here's the guide on [how to draft and publish the external newsletter](https://docs.google.com/document/d/1EHWZX86An4XFVpM0rTbQkBUvDAHVuKenzWU2oIJnsCY/edit#).
+Here's the guide on [how to draft and publish the external newsletter](https://docs.google.com/a/gsa.gov/document/d/1EHWZX86An4XFVpM0rTbQkBUvDAHVuKenzWU2oIJnsCY/edit?usp=sharing).
 
 ### Internal newsletter
 
-18F also has an internal newsletter to keep you informed about what everyone is doing (18F org business, and more inside-baseball type of info). If your team has reminders or information you’d like to share with all of 18F you can drop it in [#newsletter](https://gsa-tts.slack.com/archives/newsletter) and we’ll include it in the next newsletter. If you’re announcing something in #news, at an all hands, or with a team-wide email, it would probably also benefit from being included in the internal newsletter
+18F also has an internal newsletter to keep you informed about what everyone is doing (18F org business, and more inside-baseball type of info). If your team has reminders or information you’d like to share with all of 18F you can drop it in [#newsletter](https://gsa-tts.slack.com/archives/newsletter) and we’ll include it in the next newsletter. If you’re announcing something in #news, at an all hands, or with a team-wide email, it would probably also benefit from being included in the internal newsletter.
+
+Here's the guide on [how to draft and publish the internal newsletter](https://docs.google.com/a/gsa.gov/document/d/1eQi9oVY-Dl2h4Mrn6EdSRnUfEGy_Y5vD8aTh7XK3usc/edit?usp=sharing)
 
 ## <a name="press"></a>Press and other inquiries
 
