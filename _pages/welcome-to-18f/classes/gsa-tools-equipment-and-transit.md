@@ -187,7 +187,7 @@ instructions by email.
 
 Note that there is a lag time of about four days between completing courses in OLU and having those courses reflected in your CHRIS profile.
 
-You can log time spent in OLU as `Training / Professional Development` in [Tock](/tock).
+You can log time spent in OLU as `71 - Training / Professional Development` in [Tock](/tock).
 
 
 ## Office supplies
