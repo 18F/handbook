@@ -75,7 +75,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
 9. After you return, **create a voucher for reimbursement**:
 
-   You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in OLU, you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
+   You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in [GSA's Online University (OLU)](https://gsaolu.gsa.gov/), you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
 
    Once you get access, you can follow [these instructions for how to complete a voucher](https://handbook.18f.gov/travel-guide-5-reimbursement/). Feel free to reach out in #travel and request to set up a 30 minute crash course in how to use Concur if anything seems confusing.
 
