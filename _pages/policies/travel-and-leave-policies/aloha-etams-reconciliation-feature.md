@@ -24,9 +24,4 @@ Also, your timekeeper will be pulling leave reports on a monthly basis and notif
 
 ### Find your timekeeper
 
-* Shawnique Muller: Last names A-G  
-* Matt Spencer: Last names H-R  
-* Leah Gitter: Last names S-Z  
-* Andres Lazo: Design Team A-G
-* Jamie Albrecht: Design Team H-P
-* Manny Pressley: Design Team Q-Z
+* [Timekeeper and certifier directory](https://docs.google.com/a/gsa.gov/spreadsheets/d/1HQYkVPvKOdzG0lvtcIwR3iEfryPaBktaDYGERqGymoc/edit?usp=sharing)
