@@ -2,7 +2,7 @@
 title: Professional development and training
 ---
 
-This post provides information about mandatory and professional development training opportunities.
+This post provides information about mandatory (OLU) and professional development training opportunities.
 
 
 ## Leadership
@@ -20,9 +20,9 @@ Find us in Slack:
 
 There are many training and professional development opportunities available to you: You can take a course, attend a workshop, and leverage on-the-job training. Here&rsquo;s an overview.
 
-## Mandatory training
+## Mandatory training (OLU)
 
-All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov). Please note: You may not have access to this for your first four to six weeks at 18F, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include:
+All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. **Time spent taking these trainings should be coded as '71 - Training / Prof Dev - Non Billable' in [Tock](https://tock.18f.gov/).**  To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov). Please note: You may not have access to this for your first four to six weeks at 18F, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include:
 
 <table>
   <thead>
