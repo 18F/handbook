@@ -266,12 +266,12 @@ Experience Design Chapter members: You can use some or all of your yearly traini
 If you've Tock'd 32 hours to your assigned project, you can use the remaining 8 hours for whatever else needs to get done at 18F, including training, without using your yearly assigned training hours. To use some of this 8 hours for training, you should:
 
 - Work with your lead to define an independent study in your Individual Development Plan (IDP) that includes your desired measurable outcomes for your studies.
-- Tock your time to `71 - Training / Prof Dev - Non Billable` with a note in the description field. Example note: "After completing my project work, I used 2 hours of my remaining time this week towards my independent study in JavaScript."
+- Tock your time to `71 - Training / Prof Dev - Non Billable` with a note in the description field. Example note: "After completing my project work, I used 2 hours of my remaining time this week toward my independent study in JavaScript."
 - Consider putting co-work time on the calendar at a few hours a week with a colleague or group of colleagues, even if you're not working on exactly the same skill.
 
-Remember, this all only holds true if you've Tock'd at least 32 hours to your assigned project. If you'd like to use some of that '32 hours' time for training (for example, to go to an all-day conference, or go heads-down for a few days working on your independent study), you have up to 4 days of time per fiscal year towards this.
+Remember, this all only holds true if you've Tock'd at least 32 hours to your assigned project. If you'd like to use some of that '32 hours' time for training (for example, to go to an all-day conference, or go heads-down for a few days working on your independent study), you have up to 4 days of time per fiscal year toward this.
 
-And finally, there are a a few weekly tasks that should come before training: design huddle, your discipline's huddle, critique group, and required GSA trainings. After those, you have flexibility in how you spend your time. Options include: guild work, independent study as per this guidance, and other internal projects.
+And finally, there are a a few weekly tasks that should come before training: design huddle, your discipline's huddle, critique group, and required [GSA trainings (OLU)](https://gsaolu.gsa.gov/). After those, you have flexibility in how you spend your time. Options include: guild work, independent study as per this guidance, and other internal projects.
 
 ## Other training resources
 
