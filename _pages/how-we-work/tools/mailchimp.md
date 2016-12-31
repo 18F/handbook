@@ -15,7 +15,7 @@ We use MailChimp and its [Mandrill](../mandrill/) add-on to send transactional e
 2. File a new issue in the [18F/Infrastructure](https://github.com/18F/Infrastructure/issues/new)
    repository. Title it **Please add me to the MailChimp account**, include
    the GSA email address you used to sign up for MailChimp, and assign the
-   issue to [@afeld](https://github.com/afeld).
+   issue to @erik-burgess.
 
 Once you've been added to the shared account, you can log in to
 [Mandrill](https://mandrillapp.com/)--an add-on for MailChimp that allows you
