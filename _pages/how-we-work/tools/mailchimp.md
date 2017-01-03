@@ -21,9 +21,7 @@ Once you've been added to the shared account, you can log in to
 [Mandrill](https://mandrillapp.com/)--an add-on for MailChimp that allows you
 to send transactional emails.
 
-For more information on using MailChimp and/or Mandrill, such as
-details on SMTP configuration, please see the
-[Google Doc](https://docs.google.com/document/d/1XdedSaLHpV-b9rbFfnckRRYmatGJm-8jG5qzwfnWVfc/edit).
+See also: [the Handbook page on Mandrill](../mandrill/).
 
 #### Still have questions?
 
