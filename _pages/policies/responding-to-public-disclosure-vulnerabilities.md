@@ -13,7 +13,7 @@ When someone in the public alerts us to a potential vulnerability, we need to re
 
 In PagerDuty, someone is on call to be the **first responder**. This role rotates weekly.
 
-The **first responder** checks for reports upon notification via (TBD: Gmail push, Slack, PagerDuty text, etc). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**.
+The **first responder** checks for reports upon notification via (TBD: Gmail push, Slack, PagerDuty text, etc). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. At this point, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
 
 Each metric above receives a single score on potential impact from the following list:
 
