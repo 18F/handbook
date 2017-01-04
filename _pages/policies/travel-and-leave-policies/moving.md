@@ -10,7 +10,7 @@ Email your direct supervisor and ask for approval. After receiving approval, ple
 
 Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](http://www.gsa.gov/portal/content/102507).
 
-Shawnique will complete a report of personnel action (RPA) and a virtual worker agreement (VWA) which is used if you're not going to work out of a federal office along with a VWA Appendix 2. The paperwork is submitted to OHRM and then they process everything. You will only need to sign the Appendix 2.
+A member of the Talent Team will complete a report of personnel action (RPA) and a virtual worker agreement (VWA) which is used if you're not going to work out of a federal office along with a VWA Appendix 2. The paperwork is submitted to OHRM and then they process everything. You will only need to sign the Appendix 2.
 
 ## Changes in pay
 
