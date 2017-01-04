@@ -18,6 +18,10 @@ We use MailChimp and its [Mandrill](../mandrill/) add-on to send transactional e
 
 See also: [the Handbook page on Mandrill](../mandrill/).
 
+## Limitations
+
+GSA will block any messages that are sent with a From address of `@gsa.gov`, if the SMTP server is not managed (or whitelisted) by GSA. In other words, you can't send an email with a From address of `@gsa.gov` from MailChimp/Mandrill. Use a `.gsa.gov` subdomain or another second-level domain instead.
+
 #### Still have questions?
 
 Ask in Slack: [#admins-mailchimp](https://gsa-tts.slack.com/messages/admins-mailchimp).
