@@ -36,7 +36,7 @@ Using the product chapter as an example, a detailee could be informally associat
 
 Details agreements come in increments of 120 days or less (per GSA order HRM P 9334.1), and can be extended up to two times for a total period of no more than one year. All details must be approved by the receiving unit head, for example, an 18F business unit or chapter director, and GSA Office of General Council.
 
-Once approved, the receiving unit head will complete the [18F detail request form](https://docs.google.com/a/gsa.gov/forms/d/18F2xfXUwiaLkBRJYov53OnjJ4_lMX0QBlTJ_tV9cojw/viewform) and ping [Cristina Brydges](https://gsa-tts.slack.com/team/cristina).
+Once approved, the receiving unit head will complete the [18F detail request form](https://docs.google.com/a/gsa.gov/forms/d/18F2xfXUwiaLkBRJYov53OnjJ4_lMX0QBlTJ_tV9cojw/viewform) and email [Talent](mailto:tts-talentteam@gsa.gov).
 
 ## Security Verification
 
@@ -50,4 +50,4 @@ Once the assignment is complete, the detailee will work with their project lead 
 
 ### Still have questions?
 
-Please ping: [Cristina Brydges](https://gsa-tts.slack.com/team/cristina)
+Please ping: [Talent](https://gsa-tts.slack.com/messages/talent/)
