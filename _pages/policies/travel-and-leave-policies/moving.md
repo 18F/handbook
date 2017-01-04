@@ -6,11 +6,11 @@ If you're moving to a different GSA region, here's what you need to know.
 
 ## Notification and paperwork
 
-Email your direct supervisor and ask for approval. After receiving approval, please email your new address and effective move date to Shawnique Muller, copying your Supervisor and Cristina Brydges 30 days in advance of your move.
+Email your direct supervisor and ask for approval. After receiving approval, please email your new address and effective move date to [Talent](mailto:tts-talentteam@gsa.gov), copying your Supervisor, at least 30 days in advance of your move.
 
 Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](http://www.gsa.gov/portal/content/102507).
 
-Shawnique will complete a report of personnel action (RPA) and a virtual worker agreement (VWA) which is used if you're not going to work out of a federal office along with a VWA Appendix 2. The paperwork is submitted to OHRM and then they process everything. You will only need to sign the Appendix 2.
+A member of the Talent Team will complete a report of personnel action (RPA) and a virtual worker agreement (VWA) which is used if you're not going to work out of a federal office along with a VWA Appendix 2. The paperwork is submitted to OHRM and then they process everything. You will only need to sign the Appendix 2.
 
 ## Changes in pay
 
