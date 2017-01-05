@@ -62,4 +62,4 @@ Cell: 202-805-4922
 
 ### Still have questions?
 
-Ask [#benefits](https://gsa-tts.slack.com/messages/benefits) [#talent](https://gsa-tts.slack.com/messages/talent)
+Ask [#benefits](https://gsa-tts.slack.com/messages/benefits) or [#talent](https://gsa-tts.slack.com/messages/talent)
