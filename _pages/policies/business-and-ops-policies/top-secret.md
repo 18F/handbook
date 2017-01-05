@@ -19,7 +19,7 @@ For certain projects, clients need TTS employees to have this type of clearance 
    * [GSA Credit Report](https://goo.gl/GiFhBy)
    * [Declaration of Federal Employment](https://goo.gl/uzKcVn)
 
-### 2. Email items a,b,c, & d to the [Talent Team](mailto:TTS-Talent-team@gsa.gov).  They will contact GSA HR to take one of the following steps:
+### 2. Email items from Step 1 (updated resume, supervisor justification, GSA PRDS, credit report and Declaration of Federal Employment) to the [Talent Team](mailto:TTS-Talent-team@gsa.gov).  They will contact GSA HR to take one of the following steps:
 * If you are on an **individual PD** (i.e. supervisory innovation specialist):
    * HR will only need to update that PD
 * If you are on a **standard PD** (i.e. innovation specialist):
@@ -34,7 +34,7 @@ For certain projects, clients need TTS employees to have this type of clearance 
 
 ### 5. Once the eQIP is complete, security will review and send to OPM 
 * Security will complete this within 1-3 days
-* It will take approximately 8-15 months to complete the TS portion 
+* It will take approximately 8-15 months to complete the top secret (TS) portion 
   * This delay is due to the backlogs at OPM. The SCI portion is controlled by the Central Intelligence Agency (CIA) and can only be requested after the TS is complete.  You should plan an additional 4-6 weeks for that process.
 
 --------------------------------------------------------------------------------
