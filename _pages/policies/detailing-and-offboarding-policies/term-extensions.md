@@ -15,7 +15,7 @@ Most employees at 18F are hired on term appointments under the Schedule A direct
 - If you don’t know when your term ends, you can look in [CHRIS](http://www.gsa.gov/portal/content/105088) for your “Assignment NTE Date.” 
 - Considerations for renewal include organizational priorities, position needs, and your individual performance to date.
 
-2)  If the decision is to renew, your supervisor should send an email to the Talent Team at TTS-talentteam@gsa.gov by the first of the month - 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should send the email by February 1st) and include the information listed below: 
+2)  If the decision is to renew, your supervisor should send an email to the [Talent Team](mailto:tts-talentteam@gsa.gov) by the first of the month - 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should send the email by February 1st) and include the information listed below: 
 
 - A paragraph on contributions you made in your first term
 - A paragraph on the projects and programs your supervisor expects you to work on and in what capacity for your second term
