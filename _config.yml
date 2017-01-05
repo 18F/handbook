@@ -347,6 +347,9 @@ navigation:
     - text: Performance management requirements and timeline
       url: performance-management/
       internal: true
+    - text: Top Secret/Sensitive Compartmented Information (TS/SCI)
+      url: top-secret/
+      internal: true
 
   - text: Tech
     url: tech-policies/
