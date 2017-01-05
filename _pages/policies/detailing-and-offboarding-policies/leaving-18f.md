@@ -30,7 +30,7 @@ When you leave 18F, you are responsible for returning all 18F issued equipment. 
 
 ## Offboarding process
 
-A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1IlFY5AAvTyuS7yDHk5_odJGHYZDU_MN9HNGKJ2zXwi0/edit#gid=0) to make a new checklist. If one has not been created, please email [leaving18f@gsa.gov](mailto:leaving18f@gsa.gov) or ping #talent.  More detail for certain tasks is below. Note that, per GSA policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at GSA.
+A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1IlFY5AAvTyuS7yDHk5_odJGHYZDU_MN9HNGKJ2zXwi0/edit#gid=0) to make a new checklist once leaving18f@gsa.gov is notified that a team member is leaving.  If the checklist hasn't been created, please email [leaving18f@gsa.gov](mailto:leaving18f@gsa.gov) or ping #talent for help.  More detail for certain tasks is below. Note that, per GSA policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at GSA.
 
 ### Supervisor
 
