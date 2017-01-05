@@ -6,7 +6,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 
 ### Leadership
 
-[Cristina Brydges](https://gsa-tts.slack.com/team/cristina) is the Deputy Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
+[Cristina Brydges](https://gsa-tts.slack.com/team/cristina) is the Acting Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
 
 Generally speaking, neither Cristina nor 18F can &ldquo;advise&rdquo; you on benefits &mdash; everything 18F offers is actually owned and run by GSA&rsquo;s HR and Benefits groups. She can, however, help you escalate questions and problems and point you in the right direction.
 
