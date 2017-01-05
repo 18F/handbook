@@ -40,7 +40,7 @@ Once approved, the receiving unit head will complete the [18F detail request for
 
 ## Security Verification
 
-All Federal employees working at GSA must have a security clearance. For those employees detailing into 18F from outside of GSA, their security status must be verified with the GSA Security Office. It is the responsibility of the 18F employee supervising the detailee to ensure this is complete. 18F Talent provides step-by-step instructions on how to complete the security process. This process should be completed at the same time as the detail agreement process.  For more information, visit the [18F security verification steps form](https://docs.google.com/document/d/1xX4ro1bm4TtcJpqoz0TbXlpDhiaxLf4coBFg61GPQ9g/edit#heading=h.1jfe24syhsou).
+All Federal employees working at GSA must have a security clearance. For those employees detailing into 18F from outside of GSA, their security status must be verified with the GSA Security Office. It is the responsibility of the 18F employee supervising the detailee to ensure this is complete. The Talent Teams provides step-by-step instructions on how to complete the security process. This process should be completed at the same time as the detail agreement process.  For more information, visit the [18F security verification steps form](https://docs.google.com/document/d/1xX4ro1bm4TtcJpqoz0TbXlpDhiaxLf4coBFg61GPQ9g/edit#heading=h.1jfe24syhsou).
 
 ## Offboarding
 
