@@ -1,12 +1,10 @@
 ---
-title: Top Secret / Sensitive Compartmented Information (TS/SCI)
+title: Top Secret / Sensitive Compartmented Information (TS/SCI) Clearance
 ---
-
-Top Secret / Sensitive Compartmented Information (TS/SCI) Clearance
 
 For certain projects, clients need employees to have this type of clearance so that they are able to view certain documents.  This is the process for TTS employees to request this clearance.
 
-### Request process
+## Request process
 
 1. Work with your supervisor to complete the following documents:
   * [GSA Position Risk Determination Survey](https://goo.gl/nC9D5S)
@@ -34,4 +32,8 @@ For certain projects, clients need employees to have this type of clearance so t
 5. Once the eQIP is complete, security will review and send to OPM.  Security will complete this within 1-3 days
   * It will take approximately 8-15 months to complete the TS portion. This delay is due to the backlogs at OPM. The SCI portion is controlled by the Central Intelligence Agency (CIA) and can only be requested after the TS is complete.  You should plan an additional 4-6 weeks for that process.
 
-*Got questions? Ask [#talent](https://gsa-tts.slack.com/messages/talent)* or [TTS-Talent-team@gsa.gov](mailto:TTS-Talent-team@gsa.gov)
+--------------------------------------------------------------------------------
+
+### Still have questions?
+
+Ask [#talent](https://gsa-tts.slack.com/messages/talent)* or [TTS-Talent-team@gsa.gov](mailto:TTS-Talent-team@gsa.gov)
