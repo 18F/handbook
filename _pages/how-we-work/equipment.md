@@ -39,7 +39,7 @@ All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this i
 
 ## Phone
 
-All 18F employees are issued an Apple iPhone. The Ops Team will already have submitted a request to GSA IT for your work phone before you join 18F. Within a few weeks of starting at 18F, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact [Shawnique Muller](mailto:shawnique.muller@gsa.gov) when you receive this email and she'll have your phone mailed to you.
+All 18F employees are issued an Apple iPhone. The Ops Team will already have submitted a request to GSA IT for your work phone before you join 18F. Within a few weeks of starting at 18F, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
 
 ### Rules
 
