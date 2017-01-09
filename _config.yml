@@ -219,7 +219,7 @@ navigation:
   generated: true
   children:
   - text: Acquisitions
-    url: acquisitions/
+    url: acquisition/
     internal: true
   - text: Agreements
     url: agreements/
