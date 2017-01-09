@@ -49,6 +49,8 @@ The most important part of your job is security. 18F has begun to document its o
 
 Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please consult us in #infrastructure.
 
+When working with sensitive information including environment variables or private configuration data, **[make sure to install Git Seekrets](/github/#install-git-seekrets-and-pre-commit-hooks)**.
+
 ## <a id="the-public-interest">The public interest</a>
 
 As a federal employee, you yourself have practically no right to privacy in connection with your work. Anything you say or do &mdash; in an email, a phone call, a private GitHub repo, a Slack direct message, etc &mdash; can be monitored, recorded, and turned into a Federal record. If you don&rsquo;t want the government to know something, use a personal device or service. If you&rsquo;re using 18F, GSA, or Gov-wide provided anything (software, tools, devices, etc), you are actively consenting to being monitored.
