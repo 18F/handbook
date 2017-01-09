@@ -45,11 +45,9 @@ At the risk of sounding like a broken record: please ask before you begin any re
 
 You&rsquo;ve probably heard about the recent [Office of Personnel Management (OPM) data breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach), and you probably know about the NSA (by way of Ed Snowden, perhaps). Everyone at 18F is responsible for our organization&rsquo;s security and ensuring that the private data of the public is safe.
 
-The most important part of your job is security. 18F has begun to document its own [security standards](https://pages.18f.gov/before-you-ship/security/), and we&rsquo;re hard at work on improving them (you&rsquo;ll hear more about this in the coming months). In the meantime, be sure to [secure your Macbook](/equipment/#laptop) and [turn on FileVault](https://support.apple.com/en-us/HT204837). 
+The most important part of your job is security. 18F has begun to document its own [security standards](https://pages.18f.gov/before-you-ship/security/), and we&rsquo;re hard at work on improving them (you&rsquo;ll hear more about this in the coming months). In the meantime, be sure to [secure your Macbook](/equipment/#laptop) and [turn on FileVault](https://support.apple.com/en-us/HT204837).
 
 Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please consult us in #infrastructure.
-
-When working with sensitive information including environment variables or private configuration data, **[make sure to install Git Seekrets](/github/#install-git-seekrets-and-pre-commit-hooks)**.
 
 ## <a id="the-public-interest">The public interest</a>
 
@@ -96,6 +94,7 @@ The three rules of Infrastructure are:
 ### I&rsquo;ve had to list my personal phone number in many of the forms I've been submitting. Just to be clear, does that constitute me using my personal device as an engine for my work?
 
 No, that&rsquo;s for emergencies and ID verification and what not. Similarly, if you access a cloud based system via a personal device, that doesn't count either. So feel free to check email, Slack, on any computer as long as you&rsquo;re coming in via 2-factor authentication. And that you remember to sign out if you're not on a device you control.
+
 
 
 ### I create a Chrome profile on my work laptop that is my personal account, and so far have only used it to: (1) use my Google Play Music account (2) check email one time to get my GitHub 18F invitation (3) access my LastPass account for my GitHub password. How much of my personal information has been made available to you (or anyone else who can see my account stuff) by doing this?

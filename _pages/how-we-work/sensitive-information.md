@@ -12,6 +12,25 @@ To learn what information we consider sensitive, see [our Open Source Policy pra
 
 There are several options for sharing sensitive information at 18F. As taught in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
 
+### Git Seekret
+
+To prevent committing sensitive data to your git repository install
+`git-seekrets` and pre-commit hooks. Please install the `git-seekrets` binary
+which prevents the committing of certain sensitive information to your Git
+repository. Examples include environment variables, private configuration data.
+
+Refer to [the official installation guide for Git
+Seekrets](https://github.com/18F/laptop#want-to-install-just-git-seekret). The
+installed binary can be used with either on the command-line or with the Github
+Desktop interface.
+
+Git Seekret does verification of the current files that will be committed to
+your repository using the git `precommit-hook`. This runs for every commit and
+will not allow you to commit your changes if any secrets are found.
+
+To contribute regular-expressions to match new rules, [see the
+documentation](https://github.com/18F/laptop#git-seekret).
+
 ### Fugacious
 
 <!-- Note this information needs to remain *somewhere* for cloud.gov FedRAMP compliance, since the cloud.gov team uses Fugacious. It's linked from https://cloud.gov/docs/ops/secrets/#sharing-secret-keys - if you make (or want to make) major changes here, please ping #cloud-gov-highbar. -->

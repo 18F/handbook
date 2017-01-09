@@ -55,18 +55,6 @@ After you&rsquo;ve enabled 2FA and added your government email address to your p
 
 Go to the [18F people page](https://github.com/orgs/18F/people). Click where it says **private** next to your name. Change that to **public**.
 
-### 6. Install `git-seekrets` and pre-commit hooks
-
-Please install the `git-seekrets` binary which prevents the committing of
-certain sensitive information to your Git repository. Examples include
-environment variables, private configuration data.
-
-Refer to [the official installation guide for Git
-Seekrets](https://github.com/18F/laptop#want-to-install-just-git-seekret). The
-installed binary can be used with either on the command-line or with the Github
-Desktop interface.
-
-
 ## Rules
 
 - **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
@@ -74,6 +62,9 @@ Desktop interface.
 - **Do not grant Admin rights to anyone but 18F staff.**
 
 - **Do not store sensitive information in GitHub**, including environment variables, private configuration data, or sensitive information about the public (including but not limited to PII). In the event that such variables or configuration data is pushed to a GitHub repository accidentally, even momentarily, consider it compromised and revoke or change the credentials immediately. Do not delete the commit itself. Then immediately follow the directions on the [incident response handbook page](/security-incidents). If you&rsquo;re unsure how to protect this information, consult with Infrastructure on GitHub or in the [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) channel in Slack. Some projects use [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to the [18F Handbook page on sensitive information](/sensitive-information) and [guidance on sensitive information in our open source policy.](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
+
+    - To help you not commit sensitive information to Github, [please read about Git
+      Seekrets](/sensitive-information#git-seekret).
 
 - **Ask Infrastructure before integrating a service with GitHub or creating private repositories.** Many websites offer the option to &ldquo;Sign in with GitHub&rdquo; and may further request permission to access your &ldquo;personal user data.&rdquo; Providing this level of access can not only share your public or private email address, but it can also grant the ability to access 18F&rsquo;s private repositories. For this reason, we ask that all organization members refrain from authorizing integrations and request any desired integrations through a [Infrastructure issue](https://github.com/18F/infrastructure).
 
@@ -115,7 +106,7 @@ In other words, you&rsquo;ll probably use GitHub a lot at 18F. We recommend you 
 
 ### Pull requests
 
-18F defaults to using branches, though teams are welcome to decide they prefer using forks instead. Regardless of whether you branch or fork, changes happen via [pull requests](https://help.github.com/articles/using-pull-requests/).  
+18F defaults to using branches, though teams are welcome to decide they prefer using forks instead. Regardless of whether you branch or fork, changes happen via [pull requests](https://help.github.com/articles/using-pull-requests/).
 
 In the process of receiving feedback in a pull request, some individuals on some teams may choose to amend, reorder, or squash commits. This type of &ldquo;re-writing history&rdquo; is compliant with the Freedom of Information Act (FOIA) when it occurs on a pull request because git branches are considered a work in progress. These actions are not allowed on the master branch because that is considered the canonical source of information.
 
