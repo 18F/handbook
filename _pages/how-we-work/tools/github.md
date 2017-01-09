@@ -55,6 +55,17 @@ After you&rsquo;ve enabled 2FA and added your government email address to your p
 
 Go to the [18F people page](https://github.com/orgs/18F/people). Click where it says **private** next to your name. Change that to **public**.
 
+### 6. Install `git-seekrets` and pre-commit hooks
+
+Please install the `git-seekrets` binary which prevents the committing of
+certain sensitive information to your Git repository. Examples include
+environment variables, private configuration data.
+
+Refer to [the official installation guide for Git
+Seekrets](https://github.com/18F/laptop#want-to-install-just-git-seekret). The
+installed binary can be used with either on the command-line or with the Github
+Desktop interface.
+
 
 ## Rules
 
