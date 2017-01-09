@@ -8,4 +8,4 @@ They buy off the Agile BPA for TTS customers, they manage acquisitions for other
 
 Each of these has it's own process. It is many steps, and it is very important that everything is done correctly. 
 
-To learn how something goes from a biz dev opportunity all the way to award, please review the [Acquisition Journey Map](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18F/acqstack-journeymap/).
+To learn how something goes from a biz dev opportunity all the way to award, please review the [Acquisition Journey Map](https://pages.18f.gov/acqstack-journeymap).
