@@ -32,7 +32,7 @@ You&rsquo;ve probably already noticed there&rsquo;s a lot happening on GitHub at
 
 ### 1. Set up your account
 
-Follow the instructions [here](/github/).
+Follow the instructions [here](/github/). **[Make sure to install Git Seekrets](/github/#install-git-seekrets-and-pre-commit-hooks)**
 
 ### 2. Basics
 
