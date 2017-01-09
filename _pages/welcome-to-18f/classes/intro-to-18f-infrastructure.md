@@ -96,7 +96,6 @@ The three rules of Infrastructure are:
 No, that&rsquo;s for emergencies and ID verification and what not. Similarly, if you access a cloud based system via a personal device, that doesn't count either. So feel free to check email, Slack, on any computer as long as you&rsquo;re coming in via 2-factor authentication. And that you remember to sign out if you're not on a device you control.
 
 
-
 ### I create a Chrome profile on my work laptop that is my personal account, and so far have only used it to: (1) use my Google Play Music account (2) check email one time to get my GitHub 18F invitation (3) access my LastPass account for my GitHub password. How much of my personal information has been made available to you (or anyone else who can see my account stuff) by doing this?
 
 In general, most HTTPS connections ensure that no one in the Gov, including the network owners, has access to those packets. At GSA, that&rsquo;s true, at least for 18F-issued laptops. That is often not true for employees on other Gov networks, including, at the moment, the White House. Those agencies give their employees work computers specially configured to allow intercepting and MITM of all internet activity, whether it's HTTP or HTTPS.
