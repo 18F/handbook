@@ -1,5 +1,5 @@
 ---
-title: Agreements
+title: Acquisitions
 ---
 
 TTS Office of Acquisitions handles three different types of acquisitions for two different types of clients:
