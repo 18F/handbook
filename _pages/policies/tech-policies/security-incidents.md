@@ -53,3 +53,9 @@ On to the answer to "what is an incident?": in a nutshell, an incident is anythi
 - Finally, **availability** means the availability of the services we provide. So if an app goes down, if something we expect to be running stops running — those are availability issues. Note that this only refers to production systems (it's fine if your demo app crashes), and also only to unexpected downtime. If you decide to shut something down temporarily for maintenance — go for it, not an incident.
 
 Remember: it's totally OK — and encouraged — to fail towards the side of reporting something. Organizations with really healthy IR systems see a lot of false alarms, and a lot of very low severity reports. This is good, because it indicates that people feel comfortable reporting day-to-day issues. The more we do it, the better we'll get at it. And this is ultimately the goal, because then when something really serious happens, we'll be well-practiced at handling it smoothly and efficiently.
+
+### Preventing future incidents with Git Seekrets
+
+If an incident involved exposing environment variables or private configuration
+data, consider [adding a Rule](https://github.com/18F/laptop#git-seekret) to the
+Git Seekrets installation to prevent further incidents across 18F.
