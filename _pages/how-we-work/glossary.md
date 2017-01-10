@@ -7,7 +7,7 @@ tags:
 - Words
 ---
 
-* **2FA** - [Two-factor authentication](../../private/qa/two-factor/): entering a second, temporary code in addition to a username and password. 2FA provides added security when logging in to programs, like GitHub, remotely.
+* **2FA** - Two-factor authentication: entering a second, temporary code in addition to a username and password. 2FA provides added security when logging in to programs, like GitHub, remotely.
 
 * **508** - The federal regulation that requires government IT projects be accessible to people with disabilities.
 
@@ -41,7 +41,7 @@ tags:
 
 * **Full stack developer** - Someone who does both front end and back end development.
 
-* **GCIMS** – [GSA Credential and Identity Management System](http://gcims.gsa.gov), a GSA internal web database that provides authoritative information on GSA personnel, work locations and credentials. GCIMS also stores your contact information, so you may need to update that from time to time. [Instructions for adding a phone number are here](../../private/qa/two-factor/).
+* **GCIMS** – [GSA Credential and Identity Management System](http://gcims.gsa.gov), a GSA internal web database that provides authoritative information on GSA personnel, work locations and credentials. GCIMS also stores your contact information, so you may need to update that from time to time.
 
 * **GDS** - the [UK's Government Digital Services](https://gds.blog.gov.uk/) are government pioneers and fellow technologists across the pond.
 
@@ -73,7 +73,7 @@ tags:
 
 * **UX** - User experience. Basically, this means building things with a focus on who the user is and what they want to do, rather than just what it should look like.
 
-* **VPN** - Virtual Private Network is a way to pretend that you're on the GSA network when you're not in a GSA building, which also makes your Internet connection more secure. It's required for access to some GSA sites. See [Accessing GSA remotely](../../private/qa/access-gsa-remote/).
+* **VPN** - Virtual Private Network is a way to pretend that you're on the GSA network when you're not in a GSA building, which also makes your Internet connection more secure. It's required for access to some GSA sites. See [VMware Horizon](https://handbook.18f.gov/vmware-horizon/) or [AnyConnect](https://handbook.18f.gov/anyconnect/).
 
 ## More
 
