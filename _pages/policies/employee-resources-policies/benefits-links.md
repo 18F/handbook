@@ -9,36 +9,35 @@ Quicklinks to access the various benefits sites as well as information on who to
 <table>
   <tr>
     <td>Leave and Earnings Statement</td>
-    <td>https://www.employeeexpress.gov</td>
+    <td>[https://www.employeeexpress.gov](https://www.employeeexpress.gov)</td>
   </tr>
   <tr>
     <td>GSA Insite</td>
-    <td>https://insite.gsa.gov</td>
+    <td>[https://insite.gsa.gov](https://insite.gsa.gov)</td>
   </tr>
   <tr>
     <td>Health and Life Insurance</td>
-    <td>https://www.opm.gov/insure</td>
+    <td>[https://www.opm.gov/insure](https://www.opm.gov/insure)</td>
   </tr>
   <tr>
     <td>Retirement Planning</td>
-    <td>https://www.opm.gov/retirement-services/</td>
+    <td>[https://www.opm.gov/retirement-services](https://www.opm.gov/retirement-services)/</td>
   </tr>
   <tr>
     <td>Thrift Savings Plan (TSP)</td>
-    <td>http://www.tsp.gov/</td>
+    <td>[http://www.tsp.gov/](http://www.tsp.gov/)</td>
   </tr>
   <tr>
     <td>Flexible Spending Account</td>
-    <td>http://www.fsafeds.gov</td>
+    <td>[http://www.fsafeds.gov](http://www.fsafeds.gov)</td>
   </tr>
   <tr>
     <td>Dental and Vision Insurance</td>
-    <td>http://www.benefeds.com
-    </td>
+    <td>[http://www.benefeds.com](http://www.benefeds.com)</td>
   </tr>
   <tr>
     <td>Long Term Care Insurance</td>
-    <td>http://www.ltcfeds.com</td>
+    <td>[http://www.ltcfeds.com](http://www.ltcfeds.com)</td>
   </tr>
 </table>
 
