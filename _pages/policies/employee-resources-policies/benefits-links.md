@@ -8,14 +8,14 @@ Quicklinks to access the various benefits sites as well as information on who to
 
 Benefit | Link
 -------|-----
-Leave and Earnings Statement | https://www.employeeexpress.gov
-GSA Insite | https://insite.gsa.gov
-Health and Life Insurance | https://www.opm.gov/insure
-Retirement Planning | https://www.opm.gov/retirement-services
-Thrift Savings Plan (TSP) | http://www.tsp.gov/
-Flexible Spending Account | http://www.fsafeds.gov
-Dental and Vision Insurance | http://www.benefeds.com
-Long Term Care Insurance | http://www.ltcfeds.com
+Leave and Earnings Statement | <https://www.employeeexpress.gov>
+GSA Insite | <https://insite.gsa.gov>
+Health and Life Insurance | <https://www.opm.gov/insure>
+Retirement Planning | <https://www.opm.gov/retirement-services>
+Thrift Savings Plan (TSP) | <http://www.tsp.gov>
+Flexible Spending Account | <http://www.fsafeds.gov>
+Dental and Vision Insurance | <http://www.benefeds.com>
+Long Term Care Insurance | <http://www.ltcfeds.com>
 
 ## Human resources (HR)
 
