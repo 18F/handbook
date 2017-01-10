@@ -230,6 +230,9 @@ navigation:
   - text: Equipment
     url: equipment/
     internal: true
+  - text: Glossary
+    url: glossary/
+    internal: true
   - text: How to say no
     url: how-to-say-no/
     internal: true
