@@ -6,41 +6,16 @@ Quicklinks to access the various benefits sites as well as information on who to
 
 ## Benefits links
 
-<table>
-  <tr>
-    <td>Leave and Earnings Statement</td>
-    <td>https://www.employeeexpress.gov</td>
-  </tr>
-  <tr>
-    <td>GSA Insite</td>
-    <td>https://insite.gsa.gov</td>
-  </tr>
-  <tr>
-    <td>Health and Life Insurance</td>
-    <td>https://www.opm.gov/insure</td>
-  </tr>
-  <tr>
-    <td>Retirement Planning</td>
-    <td>https://www.opm.gov/retirement-services/</td>
-  </tr>
-  <tr>
-    <td>Thrift Savings Plan (TSP)</td>
-    <td>http://www.tsp.gov/</td>
-  </tr>
-  <tr>
-    <td>Flexible Spending Account</td>
-    <td>http://www.fsafeds.gov</td>
-  </tr>
-  <tr>
-    <td>Dental and Vision Insurance</td>
-    <td>http://www.benefeds.com
-    </td>
-  </tr>
-  <tr>
-    <td>Long Term Care Insurance</td>
-    <td>http://www.ltcfeds.com</td>
-  </tr>
-</table>
+Benefit | Link
+-------|-----
+Leave and Earnings Statement | https://www.employeeexpress.gov
+GSA Insite | https://insite.gsa.gov
+Health and Life Insurance | https://www.opm.gov/insure
+Retirement Planning | https://www.opm.gov/retirement-services
+Thrift Savings Plan (TSP) | http://www.tsp.gov/
+Flexible Spending Account | http://www.fsafeds.gov
+Dental and Vision Insurance | http://www.benefeds.com
+Long Term Care Insurance | http://www.ltcfeds.com
 
 ## Human resources (HR)
 
