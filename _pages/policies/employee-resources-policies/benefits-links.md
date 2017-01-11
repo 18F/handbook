@@ -1,5 +1,9 @@
 ---
 title: Benefits links and resources
+tags:
+- aloha
+- vacation
+- leave
 ---
 
 Quicklinks to access the various benefits sites as well as information on who to reach out to if you have questions.  
@@ -9,6 +13,7 @@ Quicklinks to access the various benefits sites as well as information on who to
 Benefit | Link
 -------|-----
 Leave and Earnings Statement | <https://www.employeeexpress.gov>
+Vacation Request | <https://aloha.gsa.gov/>
 GSA Insite | <https://insite.gsa.gov>
 Health and Life Insurance | <https://www.opm.gov/insure>
 Retirement Planning | <https://www.opm.gov/retirement-services>
