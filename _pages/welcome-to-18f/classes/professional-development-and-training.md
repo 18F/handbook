@@ -1,5 +1,8 @@
 ---
 title: Professional development and training
+tags: 
+- OLU
+- online learning university
 ---
 
 This post provides information about mandatory (OLU) and professional development training opportunities.
