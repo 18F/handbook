@@ -401,7 +401,7 @@ navigation:
     internal: true
     generated: true
     children:
-    - text: Benefits links and Resources
+    - text: Benefits links and resources
       url: benefits-links/
       internal: true
     - text: Employee assistance program
