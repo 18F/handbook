@@ -56,6 +56,8 @@ Please note that FSA does not automatically renew each year; you must re-enroll 
 
 ## Insurance
 
+### Health
+
 The [Federal Employees Health Benefits (FEHB)](https://www.opm.gov/healthcare-insurance/healthcare/) program offers a wide selection of health plans for eligible employees and their eligible family members.
 
 Eligible employees may choose from:
@@ -84,6 +86,19 @@ To qualify for [dental insurance](https://www.opm.gov/healthcare-insurance/denta
 To qualify for [vision insurance](https://www.opm.gov/healthcare-insurance/dental-vision/), you must sign up within 60 days of joining 18F, after a qualifying life event, or during Open Season. Some health insurance plans come with vision coverage, so you may not need vision insurance. Read your plan booklet to see what's covered. You can sign up for vision coverage on [Benefeds](https://www.benefeds.com/).
 
 If you have an eye appointment but have yet to receive your card(s), you can look up your Vision Care subscriber ID online. To do so, log on to [CHRIS](http://www.gsa.gov/portal/content/105088) (your username is first name middle initial last name with no spaces), select Employee Views from the GSA Personal Self Service menu, and select the Benefits tab. (Note: it may take 4-6 weeks for your CHRIS login to work.)
+
+### Filing an insurance complaint
+
+If you're having difficulty resolving an issue or getting clarification from your insurer, follow these steps:
+
+1. Email [FEHB@opm.gov](mailto:FEHB@opm.gov) and make sure to include: 
+  * Name of the insurer
+  * Issue that you need resolved
+  * What outcome you would like 
+  * A huge thanks to the team that wrangles these complaints
+2. They forward the issue to the company and use the complaint to see if there's a pattern of abuse by the company
+  * The company fix the issue at this point
+3. If you do not hear back within a reasonable timeframe, follow up with FEHB@opm.gov
 
 
 ## Leave

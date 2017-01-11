@@ -45,7 +45,7 @@ At the risk of sounding like a broken record: please ask before you begin any re
 
 You&rsquo;ve probably heard about the recent [Office of Personnel Management (OPM) data breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach), and you probably know about the NSA (by way of Ed Snowden, perhaps). Everyone at 18F is responsible for our organization&rsquo;s security and ensuring that the private data of the public is safe.
 
-The most important part of your job is security. 18F has begun to document its own [security standards](https://pages.18f.gov/before-you-ship/security/), and we&rsquo;re hard at work on improving them (you&rsquo;ll hear more about this in the coming months). In the meantime, be sure to [secure your Macbook](/equipment/#laptop) and [turn on FileVault](https://support.apple.com/en-us/HT204837). 
+The most important part of your job is security. 18F has begun to document its own [security standards](https://pages.18f.gov/before-you-ship/security/), and we&rsquo;re hard at work on improving them (you&rsquo;ll hear more about this in the coming months). In the meantime, be sure to [secure your Macbook](/equipment/#laptop) and [turn on FileVault](https://support.apple.com/en-us/HT204837).
 
 Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please consult us in #infrastructure.
 
