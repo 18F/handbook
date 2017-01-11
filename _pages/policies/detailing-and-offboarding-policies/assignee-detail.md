@@ -1,5 +1,9 @@
 ---
 title: Assignments and Detailing to and from TTS
+tags:
+- assignees
+- detailees
+- details
 ---
 
 A detail is when a person in one agency goes to work at another agency on a temporary, time-specific, and limited basis.
