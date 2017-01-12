@@ -12,6 +12,8 @@ Please see GSA Insite for the [merit promotion process](https://insite.gsa.gov/p
 
 To be eligible for a promotion at 18F, you must have at least one year in the current grade (it is not possible to jump two General Schedule (GS) levels) and have received consistently high performance ratings (4 or 5).
 
+Please note that your step level may reset to level 1 after the promotion. See the [two-step promotion rule](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title5/pdf/USCODE-2011-title5-partIII-subpartD-chap53-subchapIII-sec5334.pdf) or [this thread](https://gsa-tts.slack.com/archives/talent/p1484238400000196) for details.
+
 ### Process
 
 1. Supervisor reviews the higher position description (PD) and provides a justification for the promotion showing how the employee is performing at the higher level  
