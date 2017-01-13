@@ -1,5 +1,8 @@
 ---
 title: Google Hangouts
+tags:
+- audio
+- sound
 ---
 
 Google Hangouts is an online video conferencing platform that allows us to add participation options to our calendar invites.
@@ -37,7 +40,7 @@ You can change your avatar across Google Apps even though Google+ profile editin
 
 - To integrate teleconferencing into Gmail and Google Hangouts, [create a new number](https://www.google.com/voice/b/0?pli=1) with Google Voice that maps to your GSA-issued phone number.
 
-### Fixing Audio Issues
+### Fix Audio Issues
 
 If the audio for Hangouts has stopped working, you can either reset your computer or follow these steps:
 
