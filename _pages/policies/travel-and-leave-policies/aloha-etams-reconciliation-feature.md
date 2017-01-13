@@ -8,7 +8,7 @@ In order to ensure that our leave and attendance are accurately recorded, 18F wi
 
 ## Why do I need to reconcile my leave?
 
-For leave to be fully processed and deducted from your ALOHA leave balance, leave requests need to be entered into two systems, the Authorized Leave &amp; Overtime Help Application  (ALOHA), which is entered by individual employees and approved by supervisors, and the Electronic Time Attendance Management System (ETAMS). ALOHA leave requests that are approved before the end of they pay period in which the leave is to occur are automatically inputted into ETAMS. If the leave request is approved late, then the systems will not sync and you must make a manual correction. This tool allows you to make these manual corrections and ensure your attendance record and leave balance are accurate and up to date.
+For leave to be fully processed and deducted from your [ALOHA](https://aloha.gsa.gov/) leave balance, leave requests need to be entered into two systems, the Authorized Leave &amp; Overtime Help Application  ([ALOHA](https://aloha.gsa.gov/)), which is entered by individual employees and approved by supervisors, and the Electronic Time Attendance Management System (ETAMS). [ALOHA](https://aloha.gsa.gov/) leave requests that are approved before the end of they pay period in which the leave is to occur are automatically inputted into ETAMS. If the leave request is approved late, then the systems will not sync and you must make a manual correction. This tool allows you to make these manual corrections and ensure your attendance record and leave balance are accurate and up to date.
 
 ## How do I use this tool?
 
@@ -16,7 +16,7 @@ This [video](https://vimeo.com/gsavisualcommunications/review/165452479/3f077f86
 
 ## How do I know if my leave needs to be reconciled?
 
-When you log into ALOHA, you will see this notification.
+When you log into [ALOHA](https://aloha.gsa.gov/), you will see this notification.
 
 ![aloha-etams-reconciliation-feature-warning](https://raw.githubusercontent.com/18F/handbook/master/images/aloha-etams-warning.png)
 
