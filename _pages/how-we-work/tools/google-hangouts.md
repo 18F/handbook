@@ -37,6 +37,15 @@ You can change your avatar across Google Apps even though Google+ profile editin
 
 - To integrate teleconferencing into Gmail and Google Hangouts, [create a new number](https://www.google.com/voice/b/0?pli=1) with Google Voice that maps to your GSA-issued phone number.
 
+### Fixing Audio Issues
+
+If the audio for Hangouts has stopped working, you can either reset your computer or follow these steps:
+
+1. Click on the Mac search tool (magnifying glass icon) in the far right side of the menu at the top of your screen
+2. At the top of the search window that pops up, type `terminal` and then hit enter
+3. In the Terminal window that opens, paste `sudo killall coreaudiod` and then hit enter
+4. If it asks for your password, type your computer log-in password and then hit enter
+5. Audio should now work, but if it doesn't, try re-starting your computer
 
 ### Hang out with people outside of GSA
 
