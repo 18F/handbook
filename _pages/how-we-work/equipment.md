@@ -37,6 +37,10 @@ All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this i
 
 **Encrypt all portable media that will connect to any 18F system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
+### Tips
+
+- Run the [shell script](https://github.com/18F/laptop) which will turn your Mac into an awesome web development machine.
+
 ## Phone
 
 All 18F employees are issued an Apple iPhone. The Ops Team will already have submitted a request to GSA IT for your work phone before you join 18F. Within a few weeks of starting at 18F, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
