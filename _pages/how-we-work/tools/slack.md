@@ -16,7 +16,6 @@ Because Slack is a web application, there’s no installation necessary. You can
 - **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/@noah/) and [Hillary Hartley](https://gsa-tts.slack.com/messages/@hillary/).
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [18F's list of alternatives](../sensitive-information/#tools).
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack and any audio or video transmitted using a Slack Call.
-- **Do NOT use the "import a file from Google Drive" feature**. If you click the `+` button to the left of the message box, Slack has an option to import a file from Google Drive. DO NOT DO THIS. Importing files to Slack means they are stored on a system that isn’t qualified to handle potentially-sensitive info. (And even if your Google Drive file doesn't have sensitive info in it right now, you still cannot import it to Slack; consider that a person could add sensitive information to that file without realizing that Slack will index it.) This is worth repeating: until the CIO team has cleared this feature for use, it must NOT be used.
 
 ## Usage of TTS's Slack
 
