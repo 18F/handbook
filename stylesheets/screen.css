@@ -872,10 +872,6 @@ a[id]{
 
 .page ol li{ list-style-type: decimal; }
 .page ol li li { list-style-type: lower-latin; }
-.page ol li a {
-	text-decoration: none;
-}
-
 
 .page ol > li li{
 	margin-bottom: 0.2em;
