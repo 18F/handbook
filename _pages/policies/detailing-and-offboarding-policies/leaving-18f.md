@@ -1,5 +1,9 @@
 ---
 title: Leaving 18F
+tags:
+- quit
+- quitting
+- resign
 ---
 
 This guide covers the offboarding policy and process.
@@ -8,7 +12,7 @@ This guide covers the offboarding policy and process.
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave 18F, send an official email to your supervisor and [leaving18f@gsa.gov](mailto:leaving18f@gsa.gov).
+If you decide you want to leave 18F, send an official email to your supervisor and [leaving18f@gsa.gov](mailto:leaving18f@gsa.gov). 
 
 Include your termination date, which should be at least two weeks out. Your last day at 18F cannot be a federal holiday.
 
