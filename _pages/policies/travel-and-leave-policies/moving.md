@@ -6,7 +6,7 @@ If you're moving to a different GSA region, here's what you need to know.
 
 ## Notification and paperwork
 
-Email your direct supervisor and ask for approval. After receiving approval, please email your new address and effective move date to [Talent](mailto:tts-talentteam@gsa.gov), copying your Supervisor, at least 30 days in advance of your move.
+Email your direct supervisor and ask for approval. After receiving approval, please email your new address and effective move date to [Talent](mailto:tts-talentteam@gsa.gov), copying your supervisor, at least 30 days in advance of your move.
 
 Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](http://www.gsa.gov/portal/content/102507).
 
