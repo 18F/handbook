@@ -9,9 +9,8 @@ title: New York City
         <td class="col-key"><strong>Location</strong></td>
         <td class="col-value">
         Civic Hall<br />
-        156 5th Ave<br />
-        2nd Floor<br />
-        New York, NY 10010 
+        <a href="https://goo.gl/maps/gRuTUp2diAp">118 West 22nd Street, 12th Floor</a><br />
+        New York, NY 10011
         <br />
             <br />
         One World Trade Center<br />
@@ -39,7 +38,7 @@ title: New York City
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-    We work out of a coworking space called Civic Hall. All seats are open but we tend to congregate in the back, next to the kitchen. The New York office is moving to the new One World Trade building in 2016. More information on location and procedures at this location will be forthcoming.
+    We currently work out of a coworking space called Civic Hall. All seats are open but we tend to congregate in the back, near to the kitchen.
         </td>
       </tr>
       <tr>
@@ -65,13 +64,13 @@ title: New York City
 <a href="http://civichall.org/">Civic Hall</a> is a coworking space dedicated to civic tech. There are only two rules as far as we can tell:
 
 1. Be an adult
-2. Don't go into the event space unless you're attending an event
+2. Say hello to other people
 
 ## <a id="getting-here"></a>Getting here
 
 ### <a id="from-the-airport"></a>From the airport
 
-From JFK, there are various public transit options depending on when you land. [Check this map](https://www.google.com/maps/dir/John+F.+Kennedy+International+Airport,+New+York,+NY+11430/Civic+Hall,+5th+Avenue,+New+York,+NY/@40.7044409,-73.9560713,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89c26650d5404947:0xec4fb213489f11f0!2m2!1d-73.7781391!2d40.6413111!1m5!1m1!1s0x89c259a3a3340f3d:0xba4060a01c13cc2a!2m2!1d-73.9910784!2d40.7399033!3e3) to determine which is the fastest method.
+From JFK, there are various public transit options depending on when you land. [Check this map](https://www.google.com/maps/dir/John+F.+Kennedy+International+Airport+(JFK),+Queens,+NY+11430/Civic+Hall,+New+York,+NY/@40.69652,-74.0272289,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89c26650d5404947:0xec4fb213489f11f0!2m2!1d-73.7781391!2d40.6413111!1m5!1m1!1s0x89c259a3a3340f3d:0xba4060a01c13cc2a!2m2!1d-73.994037!2d40.74228) to determine which is the fastest method.
 
 From LaGuardia, it&rsquo;s probably best to take a cab or car service. If you&rsquo;re traveling light and feel adventurous, there are a couple buses that connect to the subway, such as the Q70 and Q48. Eventually there will be a rail connection, we&rsquo;re told.
 
@@ -169,4 +168,4 @@ We have a team breakfast every Tuesday morning in the Civic Hall cafe (BYOB - br
 
 ## <a id="who-works-here"></a>Who works here?
 
-You can find everyone who works in the NYC office [here](https://pages.18f.gov/team-browser/?locations=NYC).
+You can find everyone who works in the <a href="https://gsa-tts.slack.com/messages/nyc/">#nyc</a> channel in Slack.
