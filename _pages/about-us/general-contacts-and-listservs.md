@@ -129,6 +129,12 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 
 ### Other groups within the U.S. government
 
+#### DevOps Today
+
+**About:** The list aims to promote DevOps practices within government IT organizations, including overcoming the organizational and cultural challenges to effecting change. Run by Peter Burkholder of 18F, with participants from federal, state, and local governments.
+
+**To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe devops-today` in the body.
+
 #### Digital Service
 
 **About:** This listserv is used for cross-team announcements and conversation between USDS HQ, agency digital service teams, 18F etc.
