@@ -15,15 +15,15 @@ Most employees at 18F are hired on term appointments under the Schedule A direct
 - If you don’t know when your term ends, you can look in [CHRIS](http://www.gsa.gov/portal/content/105088) for your “Assignment NTE Date.” 
 - Considerations for renewal include organizational priorities, position needs, and your individual performance to date.
 
-2)  If the decision is to renew, your supervisor should send an email to the [Talent Team](mailto:tts-talentteam@gsa.gov) by the first of the month - 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should send the email by February 1st) and include the information listed below: 
+2)  If the decision is to renew, your supervisor will need to fill out the [Term Renewal Request Survey](https://goo.gl/forms/zvZqourbaTJqwsUu1) by the first of the month - 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should fill out the survey by February 1st).  Information requested on the survey includes the following: 
 
 - A paragraph on contributions you made in your first term
 - A paragraph on the projects and programs your supervisor expects you to work on and in what capacity for your second term
 - How long you are renewing for since you do not have to renew for the full two years; you could renew for less time (such as 1 year, 6 months, or 1 month)
 
-3)  The Talent Team will forward the requests to the appropriate Assistant Commissioner and [TTS](http://www.gsa.gov/portal/category/25729) Commissioner for approval.
+3)  On a quarterly basis, the TTS Talent Team will forward the requests to the appropriate Assistant Commissioner and [TTS](http://www.gsa.gov/portal/category/25729) Commissioner for approval.
 
-4)  Talent will notify your supervisor of the decision within 2 weeks from submission to the Commissioners.
+4)  TTS Talent will notify your supervisor of the decision within 2 weeks from submission to the Commissioners.
 
 If the **decision is to renew**, the Talent Team will process a Request for Personnel Action (RPA) to extend your term. Your employment status and benefits will remain the same and no additional action is needed from you or your supervisor.
 
