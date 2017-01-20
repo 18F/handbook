@@ -169,7 +169,7 @@ You get two 15-minute breaks per day. These breaks do not extend the work day, s
 
 We are paid biweekly. You’ll receive your first paycheck about three weeks after your start date. This is because every 18F employee starts work at the beginning of a pay period. It takes a week after the end of a pay period for a direct deposit to be made. See the [GSA Payroll Calendar](http://www.gsa.gov/portal/content/102507) to determine future pay cycles.
 
-Please direct questions to the [payroll help desk](http://www.gsa.gov/portal/staffDirectory/generic/105468): 1-800-676-3690+33900 &mdash; or [email them](mailto:kc-payroll.finance@gsa.gov).
+Please direct questions to the [payroll help desk](http://www.gsa.gov/portal/staffDirectory/generic/105468): **1-844-303-6515** &mdash; or [email them](mailto:kc-payroll.finance@gsa.gov).
 
 To see your recent pay stubs:
 
@@ -189,7 +189,7 @@ Employees at 18F are eligible to participate in the [Thrift Savings Plan](https:
 
 If you ever move, you can update your address for TSP by emailing it to both the [Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the [GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the TSP office of your new address.
 
-To transfer your previous retirement account into your TSP, you&rsquo;ll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing 1-877-968-3778. Be sure to have your TSP account number and your SSN and mailing address handy.
+To transfer your previous retirement account into your TSP, you&rsquo;ll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
 
 Note: If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans can not be higher than the annual limit of $18,000. The limit is not $18,000 per plan, but [$18,000 in aggregate](https://www.tsp.gov/PDF/formspubs/oc91-13.pdf).
 
