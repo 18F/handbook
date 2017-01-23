@@ -120,6 +120,19 @@ Teams can give groups of people administrative, write, or read permissions to 18
 
 Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
 
+## Organizations
+
+18F/TTS manages (or is heavily involved with) the following GitHub organizations:
+
+* [@18F](https://github.com/18F)
+* [@cloudfoundry-community](https://github.com/cloudfoundry-community)
+* [@fellows-in-innovation](https://github.com/fellows-in-innovation)
+* [@fisma-ready](https://github.com/fisma-ready)
+* [@GSA](https://github.com/GSA)
+* [@opencontrol](https://github.com/opencontrol)
+* [@openopps](https://github.com/openopps)
+* [@presidential-innovation-fellows](https://github.com/presidential-innovation-fellows)
+
 ## Resources
 
 - [Githug](https://github.com/Gazler/githug) is designed to give you a practical way of learning git. It has a series of levels, each requiring you to use git commands to arrive at a correct answer.
