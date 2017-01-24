@@ -243,7 +243,9 @@ For FedEx and UPS, please use the address as usual:
 
 ### Gym
 
-There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)), with lockers and a locker room. To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
+There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)). To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
+
+There are men's and women's locker rooms with lockers and showers. You do not need a gym membership to access these; they are for everyone in the building. Ask a coworker for the code to the locker room of your choice.
 
 ### Interior courtyard
 
