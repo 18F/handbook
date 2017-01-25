@@ -12,7 +12,7 @@ The 18F Travel Team has three members:
 * Leah Gitter (TTS Operations)
 * Ethan Heppner (TTS Operations)
 
-Victor Valdiviezo and Leah Gitter, are 18F's primary points of contact for travel-related questions during 18F Travel Office Hours. Ethan Heppener fills in for Victor and Leah when they are out of the office.
+Victor Valdiviezo and Leah Gitter are 18F's primary points of contact for travel-related questions during 18F Travel Office Hours. Ethan Heppener fills in for Victor and Leah when they are out of the office.
 
 ### Communication
 
