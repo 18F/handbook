@@ -179,6 +179,10 @@ Groups are a great way to alert people who might not be in a channel about somet
     - Senior management team meeting notes
     - Changes or actions that impact the entire team
 
+### When to use @channel and @here
+- Type `@channel [message]` to send your message to everyone in the channel. Use sparingly and only if everyone in the channel needs to see your message.
+- Type `@here [message]` to send your message to everyone in the channel with Slack open **at a desktop computer.** Don't use this as a softer version of an `@channel` because there will be no notification for anyone who wasn't at their computer.
+
 ### Frequently used emoji
 
 :check: = I did this or verified it was done
