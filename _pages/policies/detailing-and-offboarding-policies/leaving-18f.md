@@ -18,7 +18,7 @@ Include your termination date, which should be at least two weeks out. Your last
 
 ### 2. Complete the clearance checklist
 
-Complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with [#teamops](https://gsa-tts.slack.com/archives/teamops).
+Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/archives/teamops)) will set time with you to complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing).
 
 ### 3. Review benefits paperwork
 
@@ -46,7 +46,4 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
 - Conduct an exit interview using [these questions](https://docs.google.com/a/gsa.gov/document/d/1PpbxoZhPlW2oQx9grMyPSUDepDTQCNiwYO-D1X2IkJk/edit).
   - Documentation will be kept anonymous.
   - After three samples are gathered, look for trends.
-
-### Ops Team
-
 - Complete the [clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with the employee.
