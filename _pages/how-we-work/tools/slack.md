@@ -115,7 +115,7 @@ This is the case with most software as a service offerings. Slack has multiple m
 
 _...or "Apps" or "bots"._
 
-You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. For any new integration types, please follow the process below.
+You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. You can also freely add new configurations for "Incoming WebHooks," which is on a [different page](https://gsa-tts.slack.com/apps/manage/custom-integrations). For any new integration types, please follow the process below.
 
 ### Approval of New Integrations
 
