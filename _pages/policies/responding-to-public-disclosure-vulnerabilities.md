@@ -11,9 +11,9 @@ When someone in the public alerts us to a potential vulnerability, we need to re
 
 ## Triage the vulnerability
 
-In PagerDuty, someone is on call to be the **first responder**. This role rotates weekly.
+In order to respond quickly to reports submitted by the public, the Infrastructure team has designated a small group of folks who will monitor incoming reports and initiate response accordingly. This role has been designated **first responder** and will be assigned in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) with an @ (mention). Barring schedule conflicts, the role will rotate weekly.
 
-The **first responder** checks for reports upon notification via (TBD: Gmail push, Slack, PagerDuty text, etc). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. At this point, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
+The **first responder** monitors reports received from the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov) or [through this reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. At this point, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
 
 Each metric above receives a single score on potential impact from the following list:
 
@@ -28,6 +28,8 @@ A score of `n/a` means that the report falls outside of scope, or is negligible,
 Scores of `low`, `moderate`, and `high` are subjective. 
 
 In the case of an **incident**, the responder has determined for any reason that the vulnerability has _already_ impacted system confidentiality, integrity, or availability. The responder immediately follows the [security incident process](https://handbook.18f.gov/security-incidents/).
+
+Important Note: If the reported issue involves **[cloud.gov] (https://www.cloud.gov)** and is scored **moderate or higher**, the first responder **must** email **[`cloud-gov-emergency@gsa.gov`] (mailto:cloud-gov-emergency@gsa.gov)** so the [cloud.gov] (https://www.cloud.gov) team can make a determination of impact on their systems and begin **[cloud.gov incident reponse](https://cloud.gov/docs/ops/security-ir-checklist/)** as they see fit.
 
 If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the Infrastructure Lead **LINK** of the affected product or service.
 
