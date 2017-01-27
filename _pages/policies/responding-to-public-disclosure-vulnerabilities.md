@@ -29,7 +29,7 @@ Scores of `low`, `moderate`, and `high` are subjective.
 
 In the case of an **incident**, the responder has determined for any reason that the vulnerability has _already_ impacted system confidentiality, integrity, or availability. The responder immediately follows the [security incident process](https://handbook.18f.gov/security-incidents/).
 
-Important Note: If the reported issue involves **[cloud.gov] (https://www.cloud.gov)** and is scored **moderate or higher**, the first responder **must** email **[`cloud-gov-emergency@gsa.gov`] (mailto:cloud-gov-emergency@gsa.gov)** so the [cloud.gov] (https://www.cloud.gov) team can make a determination of impact on their systems and begin **[cloud.gov incident reponse](https://cloud.gov/docs/ops/security-ir-checklist/)** as they see fit.
+Important Note: If the reported issue involves **[cloud.gov] (https://cloud.gov)** and is scored **moderate or higher**, the first responder **must** email **[`cloud-gov-emergency@gsa.gov`] (mailto:cloud-gov-emergency@gsa.gov)** so the [cloud.gov] (https://www.cloud.gov) team can make a determination of impact on their systems and begin **[cloud.gov incident reponse](https://cloud.gov/docs/ops/security-ir-checklist/)** as they see fit.
 
 If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the Infrastructure Lead **LINK** of the affected product or service.
 
