@@ -17,7 +17,7 @@ Please note that your step level may reset to level 1 after the promotion. See t
 ### Process
 
 1. Supervisor reviews the higher position description (PD) and provides a justification for the promotion showing how the employee is performing at the higher level  
-   a. The justification can be anywhere from 2-5 paragraphs and the content should align with the position description ([18F current list of PDs](https://docs.google.com/spreadsheets/d/1VfngE9xfmBnSmMwoyVp7VhHk1n2mr1AF3KzK12Tlb5o/edit#gid=0))  
+   a. The justification can be anywhere from 2-5 paragraphs and the content should align with the position description ([PD Reference](https://docs.google.com/spreadsheets/d/1VfngE9xfmBnSmMwoyVp7VhHk1n2mr1AF3KzK12Tlb5o/edit#gid=0))  
    b. [Sample justifications](https://docs.google.com/document/d/1H15tYABQzr79lnQPFIKN9jj7iGXjmQ1_mkvHh30_3q4/edit)  
 2. Employee updates their resume to include their work at 18F  
    a. Again, the content should align with the PD  
