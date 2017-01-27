@@ -92,7 +92,7 @@ navigation:
     - text: Benefits
       url: benefits/
       internal: true
-    - text: Diversity Guild
+    - text: Diversity guild
       url: intro-to-the-diversity-guild/
       internal: true
     - text: GitHub and the 18F website
