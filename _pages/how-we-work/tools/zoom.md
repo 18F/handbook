@@ -21,7 +21,7 @@ It will open the app following installation, where you can set your defaults.
 
 ## How to create a Zoom account
 
-Go into the [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf) channel and ask @erik. 
+Go into the [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom) channel and ask @erik. 
 He will log into 18F Zoom console and send you an invitation via email. Click on the link to accept
 the invitation, set your password, and log in. 
 
@@ -52,7 +52,7 @@ These meetings do not need to be scheduled in advance and you may hold as many a
 
 ### For meetings longer than 40 minutes (Pro tier)
 
-Let @erik know as far in advance as possible in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
+Let @erik know as far in advance as possible in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom).
 Currently 18F only has two Pro licenses that allow for meetings longer than 40 minutes. What 
 this means to you is that longer meetings need to be scheduled and are generally a "first come, 
 first served" scenario. Zoom meetings are tracked on a Google Calendar called "Zoom Scheduling." 
@@ -60,10 +60,10 @@ first served" scenario. Zoom meetings are tracked on a Google Calendar called "Z
 On the morning of your meeting, Infrastructure will promote your account to Pro Status. If there are multiple 
 meetings scheduled that day, your account will be promoted as soon as the Pro account is available. We try to schedule 30 minutes on each side of the requested time to allow you ample setup time as well as padding in the event that your meeting runs long. If no one is scheduled after you, you will likely remain in Pro status until the following morning. 
 
-To schedule a meeting, please post your request in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
+To schedule a meeting, please post your request in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom).
 The request should include the date, time, and applicable time zone. If your meeting is recurring, 
 please include the end date. At this time, no recurring meetings are being scheduled beyond December 2017. 
-Please revalidate the meeting request in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
+Please revalidate the meeting request in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom).
 
 ### Frequently Asked Questions
 
