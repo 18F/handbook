@@ -66,7 +66,7 @@ The Director was selected through nominations and interviews. While there is no 
 
 ### Functional Leads
 
-Engineering also has five functional leads: backend, frontend, devops, security, and diversity. Collectively and separately they work to make our engineering practice better by improving documentation, project oversight, training, hiring, onboarding, and making us a diverse and inclusive organization.
+Engineering also has six functional leads: backend, frontend, devops, data, security, and diversity. Collectively and separately they work to make our engineering practice better by improving documentation, project oversight, training, hiring, onboarding, and making us a diverse and inclusive organization.
 
 ### Leadership and facilitators
 
