@@ -150,8 +150,11 @@ navigation:
   - text: Mission
     url: mission/
     internal: true
-  - text: Org chart
+  - text: 18F org chart
     url: org-chart/
+    internal: true
+  - text: TTS org chart
+    url: tts-org-chart/
     internal: true
   - text: Projects
     url: projects/
