@@ -6,7 +6,7 @@ title: Get access to Concur
 [Back to Last Page](/first-time-travel-get-in-concur-start)
 [Next to Travel Card](/first-time-travel-travel-card)
 
-1. First thing that you’ll need to get is a **“travel vendor ID”**. You can do this by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing). _Yes, you probably already did it at orientation, so this seems repetitive. However, there is a good reason for it. [Click here to find out why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh)._
+1. To access [Concur](http://travel.gsa.gov/), you’ll first need to get a **“travel vendor ID”**. You can do this by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing). _Yes, you probably already did it at orientation, so this seems repetitive. However, there is a good reason for it. [Click here to find out why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh)._
 
 2.  **Attach your completed EFT form** to [this pre-poulated email](https://mail.google.com/mail/?view=cm&ui=2&tf=0&fs=1&to=kc-vendor.number.requests%40gsa.gov&su=Request%20to%20Obtain%20Employee%20ID&body=To%20KC%20Vendor%2C%0A%0ACould%20I%20please%20have%20my%20employee%20ID%3F%0A%0AThank%20you%2C%0A) and send.
 [_Having trouble?_](#having-trouble)
