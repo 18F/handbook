@@ -32,7 +32,7 @@ There are a few more rules on requesting trainings and conferences at 18F, pleas
 
 Different 18F team members have different solutions for business cards.
 
-If you want **GSA branding**, you can create a [new purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new). Once your request has been approved by the Director of Operations, an 18F purchase card holder will reach out to you and put 15 minutes on your calendar. During this meeting, you will work together to place your business card order using https://envisionprintservices.com/. Business cards orders will generally arrive 5-7 business days after placement.
+If you want **GSA branding**, you can create a [new purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new) A standard pack of 250 business cards costs $27.62 after taxes. Once your request has been approved by the Director of Operations, an 18F purchase card holder will reach out to you and put 15 minutes on your calendar. During this meeting, you will work together to place your business card order using https://envisionprintservices.com/. Business cards orders will generally arrive 5-7 business days after placement.
 
 If you want **18F branding**, you must purchase your own business cards.
 
