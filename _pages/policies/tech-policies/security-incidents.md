@@ -38,6 +38,8 @@ To report a security incident, follow all of the steps below:
 
 1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov), but try to drive as much of the conversation back to [#incident-response](https://gsa-tts.slack.com/messages/incident-response) in Slack as possible.
 
+1. If you cannot access email or Slack, please call the GSA IT Service Desk at 1-866-450-5250 and ask them to forward the relevant information to the addresses above. 
+
 Please note that incidents need to be reported *within one hour* of being identified. This isn't "within an hour of happening", but "within one hour of you becoming aware of the incident". The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 
 ## What is an incident?
