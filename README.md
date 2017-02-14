@@ -371,7 +371,7 @@ CivicActions has a zero tolerance policy regarding the use of drugs and alcohol 
 [Return to Table of Contents](#toc)
 
 ## <a name="hours-work"></a>Hours of Work
-The normal workweek for a full-time employee is forty (40) hours. There are no set days or times of day, but you are expected to be available for and participate in necessary project- related work sessions and discussions. 
+The normal workweek for a full-time employee is forty (40) hours. There are no set days or times of day, but you are expected to be available for and participate in necessary project-related work sessions and discussions. 
 
 [Return to Table of Contents](#toc)
 
