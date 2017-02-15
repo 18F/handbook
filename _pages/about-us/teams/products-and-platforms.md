@@ -27,9 +27,9 @@ Products and Platforms is one of the 4 business units within 18F. We strive to i
 
   * Joel Minton, Director of login.gov
 
-  * Diego Lapiduz, Director of cloud.gov
+  * Steve Harms, Acting Director of cloud.gov
 
-  * Bernd Verst, Technical Account Manager for cloud.gov
+  * Britta Gustafson, Acting Deputy Director for cloud.gov
 
 ## How we support internal teams
 
