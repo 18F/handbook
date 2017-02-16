@@ -21,12 +21,11 @@ There have been a lot of success stories for CPS, like what we did with:
 
 ## Team Structure 
 
-- Director: Josh Ruihley
+- Acting Director: Stephanie Rivera
 - Team members: 
   - Alex Bisker 
   - Anna Heller Sebok
   - Olesya Minina
-  - Stephanie Rivera
 
 ## How we support internal teams
 We&rsquo;re your partners. We promise to set you up to succeed in every way we can. We promise to:
