@@ -5,34 +5,34 @@ title: Security incidents
 Something went "bump" in the night (or the day)? This document explains what to do when responding to a security incident. See [What is an incident?](#what-is-an-incident) if you need help determining whether something counts as an incident.
 
 ## Reporting Phishing Emails
-If you receive a phishing email, follow these steps to report to GSA IT.
+If you receive a phishing email, follow these steps to report to GSA IT:
 
 1. Do not click any links in the email. Do not delete it yet. You may mark it as spam.
-2. If you can, click the `Show Original` option in the "triangle" menu associate with the email. This will open a new window with the Original Message above and the raw text of the email below.
-3. Click on the `Download Original` link halfway down the page and it will save text of the email to your disk.
-4. Forward the email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov and attach the original text you downloaded.
-5. Report the phishing email in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
-6. Following notification to GSA, IT will create a ticket and may contact you for more information. If you were unable to retrieve the raw headers above, IT may need to access your computer to view the email.
+2. If you can, click the `Show Original` option in the "triangle" menu associated with the email. This will open a new window with the Original Message above and the raw text of the email below.
+3. Click on the `Download Original` link halfway down the page and it will save text of the email to your hard drive.
+4. Forward the email to itservicedesk@gsa.gov. As long as you haven't clicked on link or downloaded the file, you may stop here.
+5. If you suspect that the email has compromised your system with a download or link, you must also forward the email to gsa-ir@gsa.gov and devops@gsa.gov and attach the original text you downloaded.
+6. Report the phishing email in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
+7. After receiving your notification to GSA, IT will create a ticket and may contact you for more information. If you were unable to retrieve the raw headers above, IT may need to access your computer to view the email.
 
-You might be tempted to simply mark phishing emails as spam and otherwise ignore them, but you should report them following the steps above. Phishing counts as a security incident and such attempts should be reported within an hour of you reading them. Your vigilance also helps GSA IT to prepare against similar phishing attacks that might be sent to other users.
+You might be tempted to simply mark phishing emails as spam and otherwise ignore them, but if you accidentally (or intentionally) click a link or receive a download from a suspect email, you must report it as an incident following the steps above. Successful phishing attacks are security incidents and should be reported immediately. Phishing emails that are automatically routed to your spam folder do not need to be reported. Your vigilance also helps GSA IT to prepare against similar phishing attacks that might be sent to other users.
 
 ## Reporting Other Incidents
-To report a security incident, follow all of the steps below:
+To report a security incident, follow *all* of the steps below:
 
-1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov. You can use this
- <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email to everyone at the same time</a>,
- and within 1 hour of identifying an incident. Don't worry if you don't have all of the details gathered when you email GSA's Incident Response (IR) team. The critical piece here is notification within one hour. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team.
+1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov within 1 hour of identifying an incident. You can use this
+ <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email to everyone at the same time</a>. Don't worry if you don't have all of the details gathered when you email GSA's Incident Response (IR) team. The critical piece here is notification within one hour. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team.
 
 1. Report the incident in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 
 1. [Send a Slack DM to Kimber Dowsett (@kimber)](https://gsa-tts.slack.com/messages/@kimber/), the 18F Infrastructure Security Architect, with a _very short description_ of the incident.
 
 1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible, excluding sensitive data**.
-  * Keep this issue up to date with appropriately summarized actions or information from interactions with GSA.
-  * **If you suspect sensitive data is part of security incident you're reporting, you must create a GSA Google Drive folder and share it with devops@gsa.gov and gsa-ir@gsa.gov ONLY**. To do this, ensure you're creating the folder as part of "My Drive" and not within a pre-existing folder. Use this GSA Google Drive folder for any potentially sensitive data and/or files. Add static files, Google Docs, or Google Sheets as appropriate, and add a comment to any information you think is critical to the investigation.
+  * Keep this issue up to date by adding comments with appropriately summarized actions or information from interactions with GSA.
+  * **If you suspect sensitive data is part of the security incident that you're reporting, you must create a GSA Google Drive folder and share it with devops@gsa.gov and gsa-ir@gsa.gov ONLY**. To do this, ensure you're creating the folder as part of "My Drive" and not within a pre-existing folder. Use this GSA Google Drive folder for any potentially sensitive data and/or files. Add static files, Google Docs, or Google Sheets as appropriate, and add a comment to any information you think is critical to the investigation.
   * Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. Include the hyperlink to the GSA Google Drive folder in the top summary of the GitHub Issue. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident.
 
-1. Do not delete any potential evidence. For example, in the event of a suspected Amazon Web Services (AWS) or cloud.gov incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance or app to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
+1. Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected GitHub incident, do no delete files or modify the access permissions on the GitHub repository. In the event of a suspected Amazon Web Services (AWS) or cloud.gov incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance or app to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
 
 1. If the incident involves [cloud.gov](https://cloud.gov/), start [following the additional checklist here](https://docs.cloud.gov/ops/security-ir-checklist/).
 
