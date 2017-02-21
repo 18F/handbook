@@ -282,14 +282,13 @@ http://civicactions.net/content/professional-development-and-community-participa
 ## <a name="holiday"></a>Holidays
 The following holidays are observed by CivicActions and the office is considered closed:
 
-
-New Year's Day . . . . . . . . . . . . . . .. . . . January 1st
-Martin Luther King’s Birthday  . . . .  . .Third Monday in January
-Memorial Day . . . . . . . . . . . . . . . . . . . .Last Monday in May
-Independence Day . . .  . . . . . . . . . . . . July 4th
-Labor Day . . . . . . . . . . .. . . .  . .  . . . . . . First Monday in September
-Thanksgiving  . . . . . . . . . . . . .  . . . . . . .Fourth Thursday in November and the following Friday
-Christmas  . . . . . . . . . .  . . . . .  . . . . . . .December 25th
+* New Year's Day . . . . . . . . . . . . . . . . . January 1st
+* Martin Luther King's Birthday  . . . . . . Third Monday in January
+* Memorial Day . . . . . . . . . . . . . . . . . . . Last Monday in May
+* Independence Day . . .  . . . . . . . . . . . . July 4th
+* Labor Day . . . . . . . . . . . . . . . . . . . . . . First Monday in September
+* Thanksgiving . . . . . . . . . . . . . . . . . . . Fourth Thursday in November and the following Friday
+* Christmas . . . . . . . . . . . . . . . . . . . . . . December 25th
 
 
 Employees are not encouraged to work on holidays; however, if you feel it’s necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation.
@@ -371,7 +370,7 @@ CivicActions has a zero tolerance policy regarding the use of drugs and alcohol 
 [Return to Table of Contents](#toc)
 
 ## <a name="hours-work"></a>Hours of Work
-The normal workweek for a full-time employee is forty (40) hours. There are no set days or times of day, but you are expected to be available for and participate in necessary project- related work sessions and discussions. 
+The normal workweek for a full-time employee is forty (40) hours. There are no set days or times of day, but you are expected to be available for and participate in necessary project-related work sessions and discussions. 
 
 [Return to Table of Contents](#toc)
 
@@ -386,7 +385,7 @@ Be appropriate for the client you are meeting either face-to-face or via video c
 [Return to Table of Contents](#toc)
 
 ## <a name="access-account"></a>Access to Business-Related Online Accounts
-Please tell the admin group about any online accounts you open for the benefit of CivicActions or a CivicActions’ client. Admin keeps all login information for these accounts so they can be easily accessed should changes need to be made.
+Please tell the admin group about any online accounts you open for the benefit of CivicActions or a CivicActions client. Admin keeps all login information for these accounts so they can be easily accessed should changes need to be made.
 
 [Return to Table of Contents](#toc)
 
