@@ -307,6 +307,9 @@ navigation:
     - text: Mural.ly
       url: murally/
       internal: true
+    - text: Network time sync in OS X with NTP
+      url: ntp
+      internal: true
     - text: Slack
       url: slack/
       internal: true
