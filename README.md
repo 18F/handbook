@@ -18,7 +18,6 @@ Effective March 1, 2015
 * [Elevator Pitch](about-us/elevator-pitch.md)
 * [History and Values](about-us/history-and-values.md)
 
-
 ### Policies
 * [Employment](policies/employment.md)
 * [Conduct and Behavior](policies/conduct-behavior.md)
@@ -39,6 +38,31 @@ Effective March 1, 2015
 * [Basic Communication Tools](how-we-work/tools/basic-communication-tools.md)
 * [Resource Guru](how-we-work/tools/resource-guru.md)
 * [Using Harvest](how-we-work/tools/using-harvest.md)
+
+### Engineering
+* [Accessibility](engineering/accessibility.md)
+* [Back End Development](engineering/back-end-development.md)
+* [DevOps](engineering/dev-ops.md)
+* [Discovery](engineering/discovery.md)
+* [Drupal Site Building](engineering/drupal-site-building.md)
+* [Engineer's Role in Agile Development](engineering/engineer-role-in-agile.md)
+* [Engineer's Role in Client Relationships](engineering/engineer-role-in-client-relationships.md)
+* [Engineering Practices](engineering/engineering-practices.md)
+* [Engineering Roles](engineering/engineering-roles.md)
+* [Front End Development](engineering/front-end-development.md)
+* [Git/GitLab/Github/Bitbucket](engineering/git-gitlab-github-bitbucket.md)
+* [QA](engineering/qa.md)
+* [Security/Compliance](engineering/security-compliance.md)
+
+### Project Management
+* [Invoicing](project-management/invoicing.md)
+* [Onboarding a New Project Team Member](project-management/onboarding-new-project-team-member.md)
+* [Offboarding a Contractor from Project](project-management/offboarding-contractor-from-project.md)
+* [Planning Project Onsite](project-management/planning-project-onsite.md)
+* [The Project Manager Role](project-management/pm-role.md)
+* [Project Manager Training](project-management/pm-training-doc.md)
+* [PTO Request and Approval Process](project-management/pto-request-approval-process.md)
+* [Guidelines for Starting a New Project](project-management/starting-new-project.md)
 
 
 
