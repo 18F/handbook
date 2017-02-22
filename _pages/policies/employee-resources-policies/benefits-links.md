@@ -4,6 +4,7 @@ tags:
 - aloha
 - vacation
 - leave
+- loan
 ---
 
 Quicklinks to access the various benefits sites as well as information on who to reach out to if you have questions.  
@@ -21,6 +22,7 @@ Thrift Savings Plan (TSP) | <http://www.tsp.gov>
 Flexible Spending Account | <http://www.fsafeds.gov>
 Dental and Vision Insurance | <http://www.benefeds.com>
 Long Term Care Insurance | <http://www.ltcfeds.com>
+Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service> 
 
 ## Human resources (HR)
 
