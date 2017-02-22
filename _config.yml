@@ -295,6 +295,9 @@ navigation:
     - text: GSA Internal Tools
       url: gsa-tools-equipment-and-transit/#gsa-tools
       internal: true
+    - text: How to get a copy of Office for OS X
+      url: office/
+      internal: true
     - text: Managed Software Center
       url: managed-software-center/
       internal: true
