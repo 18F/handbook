@@ -7,7 +7,7 @@ To request a Microsoft Office license for your Mac, send an email to <18fsoftwar
 
 You should receive a reply from the Infrastructure team linking to this document when your access to an Office license has been granted, as well as an email from Microsoft. When you receive the latter, follow these instructions, as the ones in the email lack a certain specificity:
 
-1. Go to the [https://www.microsoft.com/Licensing/servicecenter/](Microsoft Volume Licensing Service Center).
+1. Go to the [Microsoft Volume Licensing Service Center](https://www.microsoft.com/Licensing/servicecenter/).
 
 2. Click the Sign In button.
 
