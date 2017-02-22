@@ -4,6 +4,7 @@ tags:
 - aloha
 - vacation
 - leave
+- loan
 ---
 
 Quicklinks to access the various benefits sites as well as information on who to reach out to if you have questions.  
