@@ -1,7 +1,7 @@
 # Travel 101
 
 ## Communication
-Questions? [Ask Judy](<judy.raiten@civicactions.com>).
+Questions? [Ask Judy](mailto:<judy.raiten@civicactions.com>).
 
 ## Billing
 
