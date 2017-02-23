@@ -12,7 +12,9 @@ Also, if you're planning a meeting, be sure to state your goal -- what the meeti
 
 ## <a id="all-hands">All hands</a>
 
-Our weekly all-hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST. You aren't required to attend the all hands, but you are strongly encouraged to -- it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
+Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST. You aren't required to attend the all hands, but you are strongly encouraged to -- it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
+
+We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the #announcements channel.
 
 ## <a id="daily-scrum">Daily Scrum Calls</a>
 
@@ -44,7 +46,7 @@ Here's an overview of how CivicActions uses specific tools to facilitate meeting
 
 ## <a id="google-calendar">Google Calendar</a>
 
-**CivicActions uses shared calendars** in [Google Calendar](/google-calendar) for CivicActions standing meetings, birthdays, and "out of office" time.
+**CivicActions uses shared calendars** in [Google Calendar](../../how-we-work/tools/basic-communication-tools.md#google-calendar) for CivicActions standing meetings, birthdays, and "out of office" time.
 
 **You can specify which hours you work.** From the guide: "About a third of the way down the 'General' settings' page there's a section called 'Working hours' and a checkbox that's unchecked by default. If you check it, you can specify your preferred working hours. Once you save your changes, other people will get a warning if they try to schedule you outside those times."
 
@@ -52,7 +54,7 @@ Here's an overview of how CivicActions uses specific tools to facilitate meeting
 
 **You can set up blocks of time that people can reserve.** Just select "Appointment slots" after you choose a window of time.
 
-For more information on how we use Google Calendar, see [Basic Communication Tools](../../how-we-work/tools/basic-communication-tools.md#google-calendar).
+For Google Calendar best practices, see [Basic Communication Tools](../../how-we-work/tools/basic-communication-tools.md#google-calendar).
 
 
 ## <a id="doodle">Doodle</a>
@@ -62,30 +64,14 @@ People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-tim
 ## <a id="google-hangouts">Google Hangouts</a>
 
 [Google Hangouts](/google-hangouts) are video chats in the browser. Here are some tips for using Hangouts:
-<figure>
-  <img  src="{{ site.baseurl }}/images/meetings-and-meeting-tools/4.png"
-        alt="Add video call link in Google Calendar" />
-</figure>
 
 - **You can add a Google Hangout to a meeting invite** by clicking "Add video call" on the event management page.
 - **You can also start or share a hangout from Slack** by typing `/hangout`.
-- **GSA IT has disabled chat for CivicActions while using Google Hangouts.** We use Slack with Google Hangouts to send links and images.
 - **You can dial people into a Hangout.** A Hangout's "invite" dialog can generate a phone number that people can call.
 - Use screensharing for demos and for pairing.
 
-## <a id="remote-tools">Screensharing tools</a>
+For Google Hangouts best practices and available commands, see [Basic Communication Tools](../../how-we-work/tools/basic-communication-tools.md#hangouts).
 
-Federal employees use a range of different video software to communicate. Check with your agency partner for preferences. Some common programs:
+## <a id="bluejeans">BlueJeans</a>
 
-- [Google Hangouts](/google-hangouts)
-- Adobe Connect
-- Talky.io
-- Join.me (if you need an account, talk to [kathryn](https://civicactions.slack.com/messages/@kathryn/))
-
-## Set up a conference line
-
-Use [Meeting Space](/gsa-tools-equipment-and-transit/#meeting-space).
-
-## <a id="ios-recording">Recording iOS 8+ devices</a>
-
- We can record iOS 8+ devices by connecting via lightning connector and then starting a QuickTime new movie recording. To record, you have to change the audio and video input devices.
+[BlueJeans](https://www.bluejeans.com/) is another type of video conferencing software. We use BlueJeans for weekly and monthly all hands calls and some other meetings. You can use BLueJeans in browser, but you may want to consider downloading the BlueJeans App.
