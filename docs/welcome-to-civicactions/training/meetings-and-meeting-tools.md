@@ -2,21 +2,21 @@
 
 Here, you'll find a list of tools folks at CivicActions use to schedule meetings, along with information about some specific meetings at CivicActions.
 
-# <a id="general-meetings">General meetings</a>
+## General meetings
 
-## <a id="your-own">Your own</a>
+### Your own
 
 Remember that you can book time on your own calendar. We recommend blocking off your own "free" time in two-to-four hour chunks to complete tasks.
 
 Also, if you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda.
 
-## <a id="all-hands">All hands</a>
+### All Hands Calls
 
 Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST. You aren't required to attend the all hands, but you are strongly encouraged to -- it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
 
 We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the #announcements channel.
 
-## <a id="daily-scrum">Daily Scrum Calls</a>
+### Daily Scrum Calls
 
 Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling. Standups _usually_ take this form:
 
@@ -27,7 +27,7 @@ Daily scrum calls are project-specific meetings. These short meetings are a scru
 
 For more specific information, see [Daily Scrum Calls](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/daily-scrum-calls.md).
 
-## <a id="retrospectives">Retrospectives</a>
+### Retrospectives
 
 Another project-specific meeting is the retrospective (called a retro, for short). This usually happens at the end of a sprint and takes between 30 minutes to an hour.
 
@@ -35,17 +35,17 @@ The idea behind the retro is pretty simple: This meeting provide an opportunity 
 
 For more specific information on Retrospectives, see [Sprint Retrospectives](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/sprint-retrospectives.md).
 
-## <a id="sprint-planning">Sprint planning</a>
+### Sprint planning
 
 The last project-specific meeting is sprint planning. Sprint planning takes many forms at CivicActions, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint.
 
 For more specific information, see [Sprint Planning Meetings](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/sprint-planning-meetings.md).
 
-# <a id="meetings-tools">Tools</a>
+## Tools
 
 Here's an overview of how CivicActions uses specific tools to facilitate meetings.
 
-## <a id="google-calendar">Google Calendar</a>
+### Google Calendar
 
 **CivicActions uses shared calendars** in [Google Calendar](../../how-we-work/tools/basic-communication-tools.md#google-calendar) for CivicActions standing meetings, birthdays, and "out of office" time.
 
@@ -58,11 +58,11 @@ Here's an overview of how CivicActions uses specific tools to facilitate meeting
 For Google Calendar best practices, see [Basic Communication Tools](../../how-we-work/tools/basic-communication-tools.md#google-calendar).
 
 
-## <a id="doodle">Doodle</a>
+### Doodle
 
 People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-time surveys. If you're flexible on when you want your meeting to start, it's a great idea to send out a Doodle and poll attendees on what times work for them.
 
-## <a id="google-hangouts">Google Hangouts</a>
+### Google Hangouts
 
 [Google Hangouts](../../how-we-work/tools/basic-communication-tools.md#hangouts) are video chats in the browser. Here are some tips for using Hangouts:
 
@@ -73,6 +73,6 @@ People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-tim
 
 For Google Hangouts best practices and available commands, see [Basic Communication Tools](../../how-we-work/tools/basic-communication-tools.md#hangouts).
 
-## <a id="bluejeans">BlueJeans</a>
+### BlueJeans
 
 [BlueJeans](https://www.bluejeans.com/) is another type of video conferencing software. We use BlueJeans for weekly and monthly all hands calls and some other meetings. You can use BLueJeans in browser, but you may want to consider downloading the BlueJeans App.
