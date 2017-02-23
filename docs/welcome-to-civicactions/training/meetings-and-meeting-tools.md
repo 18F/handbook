@@ -20,9 +20,10 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 
 Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling. Standups _usually_ take this form:
 
-- **Y**(esterday): I did this thing.
-- **T**(oday): I plan to do this other thing.
-- **B**(lockers): This is currently or potentially inhibiting me from doing what I'd like to do.
+- Balance score: (1-10)
+- Yesterday: I did this thing.
+- Today: I plan to do this other thing.
+- Blockers: This is currently or potentially inhibiting me from doing what I'd like to do.
 
 For more specific information, see [Daily Scrum Calls](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/daily-scrum-calls.md).
 
@@ -63,7 +64,7 @@ People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-tim
 
 ## <a id="google-hangouts">Google Hangouts</a>
 
-[Google Hangouts](/google-hangouts) are video chats in the browser. Here are some tips for using Hangouts:
+[Google Hangouts](../../how-we-work/tools/basic-communication-tools.md#hangouts) are video chats in the browser. Here are some tips for using Hangouts:
 
 - **You can add a Google Hangout to a meeting invite** by clicking "Add video call" on the event management page.
 - **You can also start or share a hangout from Slack** by typing `/hangout`.

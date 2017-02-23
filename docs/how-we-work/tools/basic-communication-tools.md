@@ -89,7 +89,7 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * You can create a Hangout link from the event (actually, Hangout links, aka "video calls" are automatically generated when you create a new event)
 * Add the ["CivicActions: Out of Office"](../images/ooo-cal1.png "Out of Office Calendar") calendar
 
-### <a name="google-hangouts"></a>Google Hangouts
+### <a name="hangouts"></a>Google Hangouts
 
 #### Best Practices
 * Be on time - please! Every 10 seconds actually matters
