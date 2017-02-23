@@ -14,8 +14,6 @@
 
 [civicactions.com](http://civicactions.com) is our public-facing company website...
 
-We use [Google Analytics](/google-analytics/) and to track site usage.
-
 ## Add your photo
 
 // NEEDS UPDATING
