@@ -1,0 +1,31 @@
+# CivicActions Website
+
+## Communication
+
+//
+
+## Documentation
+
+//
+
+## CivicActions site
+
+// NEEDS UPDATING
+
+[civicactions.com](http://civicactions.com) is our public-facing company website...
+
+We use [Google Analytics](/google-analytics/) and to track site usage.
+
+## Add your photo
+
+// NEEDS UPDATING
+
+Everyone at CivicActions should submit a photo that we'll use whenever we represent you on the website. This isn't mandatory, of course, but we&rsquo;d really like it if everyone had a photo. (We use the CivicActions logo in place of a photo if you don't have one.)
+
+Photos should follow these three guidelines. You should submit a photo:
+
+* Of you and only you from the shoulders up
+* Where your whole face is visible
+* Taken in a public place like a park, library, or a local federal building
+
+To get going, find or take an appropriate photo and upload it to //[this Google Drive folder].
