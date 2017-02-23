@@ -1,8 +1,8 @@
 # EMPLOYEE HANDBOOK
 
 ### CivicActions, Inc.
-2625 Alcatraz Avenue, Suite 320 
-Berkeley, CA 94705 
+2625 Alcatraz Avenue, Suite 320
+Berkeley, CA 94705
 
 
 510.408.7510 | main
@@ -14,55 +14,55 @@ Effective March 1, 2015
 
 ## <a name="toc"></a>TABLE OF CONTENTS
 ### About Us
-* [Introduction](about-us/introduction.md)
-* [Elevator Pitch](about-us/elevator-pitch.md)
-* [History and Values](about-us/history-and-values.md)
+* [Introduction](docs/about-us/introduction.md)
+* [Elevator Pitch](docs/about-us/elevator-pitch.md)
+* [History and Values](docs/about-us/history-and-values.md)
 
 ### Policies
-* [Employment](policies/employment.md)
-* [Conduct and Behavior](policies/conduct-behavior.md)
-* [Compensation](policies/compensation.md)
-* [Professional Development and Community Participation](policies/prodev-community-participation.md)
-* [Benefits](policies/benefits.md)
-* [Health, Safety, and Security](policies/health-safety-security.md)
-* [Workplace Guidelines](policies/workplace-guidelines.md)
-* [Employment Separation](policies/leaving-civicactions.md)
-* [Required Notices](policies/required-notices.md)
+* [Employment](docs/policies/employment.md)
+* [Conduct and Behavior](docs/policies/conduct-behavior.md)
+* [Compensation](docs/policies/compensation.md)
+* [Professional Development and Community Participation](docs/policies/prodev-community-participation.md)
+* [Benefits](docs/policies/benefits.md)
+* [Health, Safety, and Security](docs/policies/health-safety-security.md)
+* [Workplace Guidelines](docs/policies/workplace-guidelines.md)
+* [Employment Separation](docs/policies/leaving-civicactions.md)
+* [Required Notices](docs/policies/required-notices.md)
 
 ### How We Work
-* [Virtual Workplace Basics](how-we-work/virtual-workplace-basics.md)
-* [Common Vocabulary](how-we-work/common-vocab.md)
-* [Gold Star Program](how-we-work/gold-star-program.md)
+* [Virtual Workplace Basics](docs/how-we-work/virtual-workplace-basics.md)
+* [Common Vocabulary](docs/how-we-work/common-vocab.md)
+* [Gold Star Program](docs/how-we-work/gold-star-program.md)
 
 #### Tools
-* [Basic Communication Tools](how-we-work/tools/basic-communication-tools.md)
-* [Resource Guru](how-we-work/tools/resource-guru.md)
-* [Using Harvest](how-we-work/tools/using-harvest.md)
+* [Basic Communication Tools](docs/how-we-work/tools/basic-communication-tools.md)
+* [Resource Guru](docs/how-we-work/tools/resource-guru.md)
+* [Harvest](docs/how-we-work/tools/using-harvest.md)
 
 ### Engineering
-* [Accessibility](engineering/accessibility.md)
-* [Back End Development](engineering/back-end-development.md)
-* [DevOps](engineering/dev-ops.md)
-* [Discovery](engineering/discovery.md)
-* [Drupal Site Building](engineering/drupal-site-building.md)
-* [Engineer's Role in Agile Development](engineering/engineer-role-in-agile.md)
-* [Engineer's Role in Client Relationships](engineering/engineer-role-in-client-relationships.md)
-* [Engineering Practices](engineering/engineering-practices.md)
-* [Engineering Roles](engineering/engineering-roles.md)
-* [Front End Development](engineering/front-end-development.md)
-* [Git/GitLab/Github/Bitbucket](engineering/git-gitlab-github-bitbucket.md)
-* [QA](engineering/qa.md)
-* [Security/Compliance](engineering/security-compliance.md)
+* [Accessibility](docs/engineering/accessibility.md)
+* [Back End Development](docs/engineering/back-end-development.md)
+* [DevOps](docs/engineering/dev-ops.md)
+* [Discovery](docs/engineering/discovery.md)
+* [Drupal Site Building](docs/engineering/drupal-site-building.md)
+* [Engineer's Role in Agile Development](docs/engineering/engineer-role-in-agile.md)
+* [Engineer's Role in Client Relationships](docs/engineering/engineer-role-in-client-relationships.md)
+* [Engineering Practices](docs/engineering/engineering-practices.md)
+* [Engineering Roles](docs/engineering/engineering-roles.md)
+* [Front End Development](docs/engineering/front-end-development.md)
+* [Git/GitLab/Github/Bitbucket](docs/engineering/git-gitlab-github-bitbucket.md)
+* [QA](docs/engineering/qa.md)
+* [Security/Compliance](docs/engineering/security-compliance.md)
 
 ### Project Management
-* [Invoicing](project-management/invoicing.md)
-* [Onboarding a New Project Team Member](project-management/onboarding-new-project-team-member.md)
-* [Offboarding a Contractor from Project](project-management/offboarding-contractor-from-project.md)
-* [Planning Project Onsite](project-management/planning-project-onsite.md)
-* [The Project Manager Role](project-management/pm-role.md)
-* [Project Manager Training](project-management/pm-training-doc.md)
-* [PTO Request and Approval Process](project-management/pto-request-approval-process.md)
-* [Guidelines for Starting a New Project](project-management/starting-new-project.md)
+* [Invoicing](docs/project-management/invoicing.md)
+* [Onboarding a New Project Team Member](docs/project-management/onboarding-new-project-team-member.md)
+* [Offboarding a Contractor from Project](docs/project-management/offboarding-contractor-from-project.md)
+* [Planning Project Onsite](docs/project-management/planning-project-onsite.md)
+* [The Project Manager Role](docs/project-management/pm-role.md)
+* [Project Manager Training](docs/project-management/pm-training-doc.md)
+* [PTO Request and Approval Process](docs/project-management/pto-request-approval-process.md)
+* [Guidelines for Starting a New Project](docs/project-management/starting-new-project.md)
 
 
 
@@ -81,7 +81,3 @@ Dated						   Signature
 
 ____________________________________
 Print Name
-
-
-
-
