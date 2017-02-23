@@ -169,8 +169,10 @@ While this process can take up to eight days, the upshot is that your conference
 
 [Online University (OLU)](https://gsaolu.gsa.gov/) is where you'll take mandatory trainings for federal employees.
 
-To register for OLU, navigate to https://gsaolu.gsa.gov. You'll need to be on a GSA network to reach it. Then
+To register for OLU, navigate to https://gsaolu.gsa.gov. Then
 follow the link, "Need help logging in to OLU..."
+
+_If you have trouble with that link, try https://secureauth.gsa.gov/SecureAuth138. This allows you to login using your ENT userid and password, with 2FA._
 
 ![OLU front page](/images/olu/olu1.png)
 
