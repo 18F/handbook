@@ -1,12 +1,22 @@
 # New Hire Orientation
 
-## Introduction
+## <a name="welcome"></a>Welcome to CivicActions!
 
-As part of the new employee onboarding process, we created this document and Trello checklist boards to assist you through the days, weeks, and months as a new employee at CivicActions.
+We’re very happy to welcome you. You have joined an organization that has established an outstanding reputation for quality products and services. Credit for this goes to every one of us. We believe you are a very good fit and will benefit from - and thoroughly enjoy - being part of an amazing team.
 
-## Onboarding Schedule
+Please feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you. We think you will find CivicActions a great place to work.
 
-## Checklists
+### Learn more about CivicActions
+
+* [About Us](../../about-us/)
+
+## Onboarding Process
+
+As part of the new employee onboarding process, we created an Onboarding Schedule and some checklists to assist you through the days, weeks, and months ahead as a new employee at CivicActions.
+
+### [Onboarding Schedule](onboarding-schedule.md)
+
+### Checklists
 
 The Trello boards below serve as lists of tasks for you to complete with corresponding links and timelines.
 
@@ -43,7 +53,6 @@ The Trello boards below serve as lists of tasks for you to complete with corresp
 
 //Language about our relationship with Trinet
 
-//Contact info for Judy?
 
 ### Before your first day
 
