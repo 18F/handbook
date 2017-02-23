@@ -12,7 +12,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 - Melody Kramer and Greg Boone co-wrote [a guide to using GitHub and the Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
 
-- Will Slack [explains the basics](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit) of version control and GitHub. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18); course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
+- Will Slack [explains the basics](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit) of version control and GitHub. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18); course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit). It's also available [in video form](https://www.youtube.com/watch?v=uNa9GOtM6NE).
 
 - The [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/) covers conventions and best practices.
 
