@@ -27,11 +27,13 @@ Each metric above receives a single score on potential impact from the following
 
 A score of `n/a` means that the report falls outside of scope, or is negligible, or doesn't contain enough information. If the report is `n/a`, [jump to the response step](#respond-to-reporter).
 
-Scores of `low`, `moderate`, and `high` are subjective. 
+Scores of `low`, `moderate`, and `high` are subjective.
 
 In the case of an **incident**, the responder has determined for any reason that the vulnerability has _already_ impacted system confidentiality, integrity, or availability. The responder immediately follows the [security incident process](../security-incidents/).
 
-* *cloud.gov note:* If the reported issue involves **[cloud.gov](https://cloud.gov)** and is scored **moderate or higher**, the first responder **must** mention `@cg-team` in Slack and email **[`cloud-gov-emergency@gsa.gov`](mailto:cloud-gov-emergency@gsa.gov)**, so the cloud.gov team can help determine impact and respond to incidents.
+* *cloud.gov note:* If the reported issue involves **[cloud.gov](https://cloud.gov)** and is scored **moderate or higher**, the first responder **must** mention `@cg-team` in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and email **[`cloud-gov-emergency@gsa.gov`](mailto:cloud-gov-emergency@gsa.gov)**, so the cloud.gov team can help determine impact and respond to incidents.
+
+* *login.gov note:* If the reported issue involves **[login.gov](https://login.gov)** and is scored **moderate or higher**, the first responder **must** mention `@login-gov-team` in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and email **[`security@login.gov`](mailto:security@login.gov)**, so the login.gov team can help determine impact and respond to incidents.
 
 If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the [Infrastructure Lead](https://github.com/18F/Infrastructure/blob/master/ISSUE_TEMPLATE.md) of the affected product or service.
 
@@ -64,7 +66,7 @@ Otherwise, after filing the issue as described above:
 The acknowledgement text could be something like:
 
 > Thanks for sending us this report. We're taking action internally to evaluate and reproduce this report. I'm connecting you with the relevant technical staff so that you can communicate directly as needed.
-> 
+>
 > As a reminder, our policy, which can be read at https://18f.gsa.gov/vulnerability-disclosure-policy/, asks for 90 days from the date you sent your report before you disclose this report publicly.
 
 Remember to **CC this email** to any relevant program staff or infrastructure leads. They assume responsibility for further communication and resolving the issue.
