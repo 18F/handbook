@@ -24,6 +24,7 @@ That being said, there are topics in this document that are required by law or a
 * [Introduction](docs/about-us/introduction.md)
 * [Elevator Pitch](docs/about-us/elevator-pitch.md)
 * [History and Values](docs/about-us/history-and-values.md)
+* [General Contacts and Listservs](docs/about-us/general-contacts-and-listservs.md)
 
 ### Policies
 * [Employment](docs/policies/employment.md)
