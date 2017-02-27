@@ -33,7 +33,7 @@ In the case of an **incident**, the responder has determined for any reason that
 
 * *cloud.gov note:* If the reported issue involves **[cloud.gov](https://cloud.gov)** and is scored **moderate or higher**, the first responder **must** mention `@cg-team` in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and email **[`cloud-gov-emergency@gsa.gov`](mailto:cloud-gov-emergency@gsa.gov)**, so the cloud.gov team can help determine impact and respond to incidents.
 
-* *login.gov note:* If the reported issue involves **[login.gov](https://login.gov)** and is scored **moderate or higher**, the first responder **must** mention `@login-gov-team` in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and email **[`security@login.gov`](mailto:security@login.gov)**, so the login.gov team can help determine impact and respond to incidents.
+* *login.gov note:* If the reported issue involves **[login.gov](https://login.gov)** and is scored **moderate or higher**, the first responder **must** mention `#identity-events` in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and email **[`security@login.gov`](mailto:security@login.gov)**, so the login.gov team can help determine impact and respond to incidents.
 
 If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the [Infrastructure Lead](https://github.com/18F/Infrastructure/blob/master/ISSUE_TEMPLATE.md) of the affected product or service.
 
