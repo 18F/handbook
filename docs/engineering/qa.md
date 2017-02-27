@@ -3,16 +3,18 @@
 
 ## About the QA Practice Area##
 
-* We check and clean up extraneous notices, warnings, and errors
- * So that we can easily identify and debug new issues
+//NEEDS SOME CLEANUP
+
+* We check and clean up extraneous notices, warnings, and errors:
+ * So that we can easily identify and debug new issues.
 * We make small, logical commits:
- * so that changes are clearly differentiated
+ * so that changes are clearly differentiated.
  * One module per commit so that code can be contributed without losing git history or needing a sub-tree push.
  * Don't make commits are so small they are broken (per below, we only commit working code), but also we shouldn't have a single huge commit for a whole ticket.
-* We commit working code
- * So that we don't break other's sandboxes
-* We have the ability to view and share code changes
- * so that we can reference code and commits by URI
+* We commit working code:
+ * So that we don't break other's sandboxes.
+* We have the ability to view and share code changes:
+ * so that we can reference code and commits by URI.
  * Ideally, this would be shareable, browser-based, linked to ticket tracker, e.g. Trac (w/ git plugin) or Redmine or...
  * Per Zeke Weeks: (For further discussion: git web UI commonly used by team for reviewing & linking to changes and parts of codebase?)
  * Per David Numan: The language of this one sounds more like a "how", but i think there is a what and why behind it.
