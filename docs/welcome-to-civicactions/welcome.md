@@ -8,7 +8,7 @@ Please feel free to discuss anything with team members and/or management, whethe
 
 ### Learn more about CivicActions
 
-* [About Us](../../about-us/)
+* [About Us](../about-us/)
 
 ## Onboarding Process
 

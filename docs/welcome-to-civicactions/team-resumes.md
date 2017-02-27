@@ -1,4 +1,4 @@
-# Team Resumes
+# Update Team Resume
 
 We sometimes get requests for team resumes. We use a template for formatting team resumes so they are consistent.
 
