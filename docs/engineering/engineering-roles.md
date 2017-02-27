@@ -65,15 +65,15 @@ Project responsibilities through the project process:
 
 ### <a name="tech-lead-process"></a>Tech Leads in the Process
 
-* Tech Lead may be assigned to assist with "pre-sales" activities. Helps the project manager and other team members determine the scope, approach, schedule and budget for a project. This will often involve direct client contact - with or without the participation of the project manager and/or other team members. In this role the Tech Lead is responsible for the following deliverables -
+* Tech Lead may be assigned to assist with "pre-sales" activities. Helps the project manager and other team members determine the scope, approach, schedule and budget for a project. This will often involve direct client contact - with or without the participation of the project manager and/or other team members. In this role the Tech Lead is responsible for the following deliverables:
 	- A clear description of the technical deliverables.
 	- An estimate of the time for completion of the technical deliverables. In this role the Tech Lead will call upon other tech team members to complete their deliverables on an as-needed basis. The Tech Lead DOES NOT need to be an expert in all technical areas of the project, but does need to be responsible for the overall accuracy of the proposal.
 * The Tech lead will work with the Project Manager to:
 	- Develop a detailed "high level" project plan for the technical deliverables. This will include:
-		- Engineering specifications for each deliverable
-		- A "Site Map" to outline the functional deliverables in the case of web sites
-	- Determine what other technical resources need to be assigned to the project
-* During the course of the engagement the Tech Lead will
+		- Engineering specifications for each deliverable.
+		- A "Site Map" to outline the functional deliverables in the case of web sites.
+	- Determine what other technical resources need to be assigned to the project.
+* During the course of the engagement the Tech Lead will:
 	- Work with the client to answer any questions regarding the technical deliverables or project plan.
 	- Meet regularly with the client and project manager in project status meetings.
 	- Be a resource to the Tech Team and make sure that the right resources are allocated to the appropriate technical challenges.
@@ -84,20 +84,20 @@ Project responsibilities through the project process:
 ## <a name="lead-themer"></a>Lead Themer
 
 * Responsible for all theme code, ensuring that:
-	- The theming code is organized, well maintained and documented
-	- People working on it know how it is organized, and where to add/edit things
-	- Responsible for 'low level' support for people working on theming tickets
-	- Responsible for 'low level' organization and assignment of theming tickets (especially on bigger projects)
-* Generally does a significant amount of the theme code themselves (or all of it, on smaller projects)
+	- The theming code is organized, well maintained and documented.
+	- People working on it know how it is organized, and where to add/edit things.
+	- Responsible for 'low level' support for people working on theming tickets.
+	- Responsible for 'low level' organization and assignment of theming tickets (especially on bigger projects).
+* Generally does a significant amount of the theme code themselves (or all of it, on smaller projects).
 
 ## <a name="lead-engineer"></a>Lead Engineer
 
 * Responsible for all custom code, patches and modules, ensuring that:
-	- The custom code is organized, well maintained and documented
-	- People working on it know how it is organized, and where to add/edit things
-	- Patches for modules are being created and contributed as per our best practices
-	- Modules are organized as per our best practices and clean, patched and custom modules are correctly deliniated
-* Responsible for 'low level' support for people working on module coding tickets
-* Responsible for 'low level' organization and assignment of module coding tickets (especially on bigger projects)
-* Basic module install and upgrades
-* Generally does a significant amount of the custom code and module work themselves (or all of it, on smaller projects)
+	- The custom code is organized, well maintained and documented.
+	- People working on it know how it is organized, and where to add/edit things.
+	- Patches for modules are being created and contributed as per our best practices.
+	- Modules are organized as per our best practices and clean, patched and custom modules are correctly delineated.
+* Responsible for 'low level' support for people working on module coding tickets.
+* Responsible for 'low level' organization and assignment of module coding tickets (especially on bigger projects).
+* Basic module install and upgrades.
+* Generally does a significant amount of the custom code and module work themselves (or all of it, on smaller projects).
