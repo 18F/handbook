@@ -26,6 +26,7 @@ That being said, there are topics in this document that are required by law or a
 * [History and Values](docs/about-us/history-and-values.md)
 * [General Contacts and Listservs](docs/about-us/general-contacts-and-listservs.md)
 * [Mission, Value Proposition, and Operating Principles](docs/about-us/mission-values-operating-principles.md)
+* [Organizational Chart](docs/about-us/org-chart.md)
 
 ### Policies
 * [Employment](docs/policies/employment.md)

@@ -1,5 +1,3 @@
----
-title: Org chart
-url: https://docs.google.com/presentation/d/1kM5YWcvlHBZpQNTpGefmtbfxTV866u935qrdpj7HrJE/edit
-layout: redirect
----
+# Organizational Chart
+
+See the [CivicActions organization chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing). 
