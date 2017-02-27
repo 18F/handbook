@@ -8,13 +8,11 @@ Please feel free to discuss anything with team members and/or management, whethe
 
 ### Learn more about CivicActions
 
-* [About Us](../../about-us/)
+* [About Us](../about-us/)
 
 ## Onboarding Process
 
-As part of the new employee onboarding process, we created an Onboarding Schedule and some checklists to assist you through the days, weeks, and months ahead as a new employee at CivicActions.
-
-### [Onboarding Schedule](onboarding-schedule.md)
+As part of the new employee onboarding process, we created an [Onboarding Schedule](onboarding-schedule.md) and some checklists to assist you through the days, weeks, and months ahead as a new employee at CivicActions.
 
 ### Checklists
 
