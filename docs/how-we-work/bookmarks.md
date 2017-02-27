@@ -28,10 +28,3 @@ Links to websites we use regularly.
 * [Trello](https://trello.com/)
 * [Resource Guru](https://civicactions.resourceguruapp.com/login): for tracking project scheduling
 * [StoriesOnBoard](https://app.storiesonboard.com/login): for story mapping
-
-
-
-## Reference
-
-* [Interesting to CivicActions](https://delicious.com/interestingcivicactions): a collection of interesting links from the team
-* [Government acronyms](https://github.com/unitedstates/acronym/blob/gh-pages/_data/agencies.yml)
