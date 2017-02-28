@@ -40,6 +40,8 @@ That being said, there are topics in this document that are required by law or a
 * [Required Notices](docs/policies/required-notices.md)
 
 ### How We Work
+* [Bookmarks](docs/how-we-work/bookmarks.md)
+* [Equipment](docs/how-we-work/equipment.md)
 * [Virtual Workplace Basics](docs/how-we-work/virtual-workplace-basics.md)
 * [Common Vocabulary](docs/how-we-work/common-vocab.md)
 * [Gold Star Program](docs/how-we-work/gold-star-program.md)
