@@ -138,9 +138,6 @@ navigation:
   internal: true
   generated: true
   children:
-  - text: 18F archived emails
-    url: https://goo.gl/PxRVa8
-    internal: false
   - text: General contacts and listservs
     url: general-contacts-and-listservs/
     internal: true
@@ -153,15 +150,18 @@ navigation:
   - text: Mission
     url: mission/
     internal: true
-  - text: 18F org chart
-    url: org-chart/
+  - text: Projects
+    url: projects/
     internal: true
   - text: TTS org chart
     url: tts-org-chart/
     internal: true
-  - text: Projects
-    url: projects/
+  - text: 18F org chart
+    url: org-chart/
     internal: true
+  - text: 18F archived emails
+    url: https://goo.gl/PxRVa8
+    internal: false
   - text: Offices
     url: offices/
     internal: true
