@@ -11,7 +11,7 @@ If you receive a phishing email, follow these steps to report to GSA IT:
 2. If you can, click the `Show Original` option in the "triangle" menu associated with the email. This will open a new window with the Original Message above and the raw text of the email below.
 3. Click on the `Download Original` link halfway down the page and it will save text of the email to your hard drive.
 4. Forward the email to itservicedesk@gsa.gov. As long as you haven't clicked on link or downloaded the file, you may stop here.
-5. If you suspect that the email has compromised your system with a download or link, you must also forward the email to gsa-ir@gsa.gov and devops@gsa.gov and attach the original text you downloaded.
+5. If you suspect that the email has compromised your system with a download or link, you must also forward the email to gsa-ir@gsa.gov and devops@gsa.gov and attach the original text you downloaded. Please include *Security Incident* in the subject line, along with a brief description of the issue (Ex. Clicked on link in phishing email).
 6. Report the phishing email in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 7. After receiving your notification to GSA, IT will create a ticket and may contact you for more information. If you were unable to retrieve the raw headers above, IT may need to access your computer to view the email.
 
@@ -21,7 +21,7 @@ You might be tempted to simply mark phishing emails as spam and otherwise ignore
 To report a security incident, follow *all* of the steps below:
 
 1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov within 1 hour of identifying an incident. You can use this
- <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email to everyone at the same time</a>. Don't worry if you don't have all of the details gathered when you email GSA's Incident Response (IR) team. The critical piece here is notification within one hour. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team.
+ <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email to everyone at the same time</a>. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. security token committed to GitHub repo). Don't worry if you don't have all of the details gathered when you email GSA's Incident Response (IR) team. The critical piece here is notification within one hour. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team.
 
 1. Report the incident in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 
