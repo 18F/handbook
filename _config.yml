@@ -138,6 +138,9 @@ navigation:
   internal: true
   generated: true
   children:
+  - text: 18F archived emails
+    url: https://goo.gl/PxRVa8
+    internal: false
   - text: General contacts and listservs
     url: general-contacts-and-listservs/
     internal: true
