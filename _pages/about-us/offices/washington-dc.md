@@ -145,7 +145,7 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Bathrooms are located at the end of both the 4100 and 4200 wings. Additional bathrooms are just outside the 4400 space in the 4100 wing.
+Gendered bathrooms are located at the end of both the 4100 and 4200 wings. Additional bathrooms are just outside the 4400 space in the 4100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
 
 ### Mother’s rooms
 
