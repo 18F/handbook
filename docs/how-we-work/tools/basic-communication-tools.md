@@ -135,6 +135,8 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 
 ## <a name="blue-jeans">BlueJeans</a>
 
+* We use [BlueJeans](https://www.bluejeans.com/) video conferencing software for larger meetings, such as our weekly and montly All Hands Calls. To participate, you may download the BlueJeans app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
+
 ## <a name="telephone-use"></a>Telephone Use
 * There are times when a phone call in may also be necessary, such as when wifi is not available or to call in to BlueJeans
 * Don't rely on speaker feature, but have a headset handy
