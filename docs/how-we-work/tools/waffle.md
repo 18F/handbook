@@ -1,8 +1,7 @@
----
-title: Waffle
----
 
-Some teams use Waffle to plan, track, and organize work on GitHub.
+# Waffle
+
+Some teams use Waffle to conduct user story mapping with backlog items.
 
 ## Setup
 
