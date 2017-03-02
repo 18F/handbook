@@ -1,7 +1,7 @@
 
 ## How to update the handbook
 
-Everyone (both inside and outside CivicActions) can submit contributions to https://github.com/CivicActions/handbook as a pull request or [open an issue](https://github.com/CivicActions/handbook/issues/new) with a suggestion. If you're part of CivicActions, you can also chat about ideas in [#docs](https://civicactions.slack.com/messages/docs/).
+Everyone (both inside and outside CivicActions) can submit contributions to https://github.com/CivicActions/handbook as a pull request or [open a Trello card ](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a suggestion. If you're part of CivicActions, you can also chat about ideas in [#docs](https://civicactions.slack.com/messages/docs/).
 
 There is no dedicated staffing for the handbook right now; maintenance is done in spare time by any CivicActions staff member who is interested in helping.
 
