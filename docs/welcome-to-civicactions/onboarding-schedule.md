@@ -10,29 +10,29 @@ The first week will be dedicated to general orientation, but you’ll also learn
 
 
 ### Day 1
-#### Orientation meeting (2 hours with 15 min break?)
+#### Orientation Meeting (2 hours with 15 min break?)
 * [Benefits](../policies/benefits.md)
 * [Working hours expectations](../policies/workplace-guidelines.md)
  * Flexibility
  * Have a general set schedule / core hours
  * Put appointments in your personal calendar
- * Ping slack if you're just going offline for a few
- * Basically let your team know when you're not free
- * Over communicate if you're going off line (vacation, lunch, appointment, etc)
- * Be at the pre-scheduled meetings & tell manager if you can't
- * Be able to get your work done w/in timebox
+ * Ping Slack if you're just going offline for a short while
+ * Basically, let your team know if/when you're not available
+ * Over-communicate if you're going offline (vacation, lunch, appointment, etc.)
+ * Attend pre-scheduled meetings and notify your manager/PM if you can't be
+ * Be able to get your work done within estimated timebox
  * We aim for the following billable utilization:
     * Split projects: 80% (32 hours / week)
     * Full time on one project: 85% (34 hours / week)
-    * Also remember our 5% ProDev & CommPart commitments
-* [Harvest: logging time](../how-we-work/tools/harvest.md)
-* Balance Scores
-* Introduction to how we use the calendar
-* All hands call/Bluejeans
+    * [5% ProDev & CommPart](../policies/prodev-community-participation.md)
+* Introduction to [Harvest: logging time](../how-we-work/tools/harvest.md)
+* Introduction to Balance Scores
+* Introduction to how we use the [calendar](../how-we-work/tools/basic-communication-tools.md#google-calendar)
+* Introduction to [All Hands Call](/training/meetings-and-meeting-tools.md)/Bluejeans
 * Relevant Project Introductions
 
 #### Download, setup, and review [basic communication tools](../how-we-work/tools/basic-communication-tools.md) (1 hour)
-* [Slack](../how-we-work/tools/slack.md)
+* Slack
 * Google Apps
   * Email
   * Calendar
@@ -40,19 +40,19 @@ The first week will be dedicated to general orientation, but you’ll also learn
   * Drive/Docs
 * Telephone Use
 
-#### EAT LUNCH
+#### Pro tip: EAT LUNCH!
 
 #### Get to know your Colleagues
-* Review Org Chart
-* Review Team Bios
+* Review [Org Chart](../about-us/org-chart.md)
+* Review [Team Bios](https://civicactions.com/team/)
 
 #### Afternoon check-in call
 
 ### Day 2
 
 #### Morning Meeting with Onboarding Colleague
-  * Manager to introduce Scrum Call structure
-  * Intro to Jira and [Trello](../how-we-work/tools/trello.md)
+  * Introduction to [Scrum call](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/daily-scrum-calls.md) structure
+  * Introduction to how we use [Jira](../how-we-work/tools/trello.md) and [Trello](../how-we-work/tools/trello.md)
 
 #### Agile and Scrum at CivicActions: combination of videos, reading, and training (part 1)
   * Introduction to Scrum
