@@ -23,7 +23,7 @@ This paragraph is simply intended to alert employees to the need for discretion 
 [Return to Table of Contents](#toc)
 
 ## <a name="outside-activity"></a>Outside Activities
-You may engage in outside employment or personal educational activities during non-working hours, provided that such activities do not interfere with your job performance or constitute a conflict of interest. 
+You may engage in outside employment or personal educational activities during non-working hours, provided that such activities do not interfere with your full-time employment or constitute a conflict of interest. 
 
 
 [Return to Table of Contents](#toc)
@@ -35,7 +35,10 @@ Within a virtual working environment communication is vital to keeping a collabo
 CivicActions is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form and employees who violate this code of conduct may be subject to disciplinary actions.
 
 
-Be mindful. Having a diverse team means that we will have different opinions, viewpoints and experiences. This also means that we may not agree on what is humorous, insulting or rude. We all stand to learn from each other and that includes gaining awareness to how others perceive certain communications. Participants asked to stop any harassing behavior are expected to comply immediately.
+Be mindful. Having a diverse team means that we will have different opinions, viewpoints and experiences. This also means that we may not agree on what is humorous, insulting or rude. We all stand to learn from each other and that includes gaining awareness to how others perceive certain communications. We each need to take personal responsibility for the way our communications lands on each other. Participants asked to stop any harassing behavior are expected to comply immediately.
+
+
+We follow the platinum rule at CivicActions. The golden rule is to do to others as you would have them do to you. The platinum rule is to do to others as they would like to have done to them. This requires mindful attention of each person and respect for their culture, background, and vulnerabilities.
 
 
 Be friendly and welcoming. As our team grows, we are more likely to have peers that we don’t directly work with. We all have an opportunity to be friendly in other arenas to get to know each other, including retreats, pod calls, and social slack channels. Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the company.
