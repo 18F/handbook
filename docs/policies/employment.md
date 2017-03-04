@@ -1,12 +1,18 @@
 # <a name="employ"></a>EMPLOYMENT
 
 ## <a name="toc"></a>Table of Contents
+* [TriNet](#trinet) 
 * [Equal Employment Opportunities](#equal-opportunities) 
 * [Background Checks](#background-check) 
 * [Immigration Law Compliance](#immigration-law) 
 * [Employment Classifications](#employment-classification) 
 * [Personnel (and Personal) Records](#personrecords) 
 * [Employee References](#employee-reference) 
+
+## <a name="trinet"></a>TriNet
+CivicActions has a partnership with TriNet, which is a well established Professional Employer Organization. The relationship with TriNet provides us with a selection of benefits that are typically only available to very large organizations. TriNet offers the simplicity of a single solution for outsourcing benefits, payroll, and human resources support. The company’s online and in-person services allow customers throughout the United States and Canada to streamline their business, gain enterprise-level resources for managers and employees, and focus on strategy rather than administration. Founded in 1988, TriNet specializes in offering secure, paperless HR transactions to Internet-enabled workforces.
+
+CivicActions has our 401k through SocialK, which provides us with Environment, Social and Governance screened investment options for our retirement plans.
 
 ## <a name="equal-opportunities"></a>Equal Employment Opportunities
 CivicActions provides equal employment opportunities to “all qualified people”. What that means can be found under “Required Stuff” below.
