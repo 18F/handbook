@@ -43,6 +43,7 @@ CivicActions will reimburse employees at the IRS “business standard mileage ra
 [Return to Table of Contents](#toc)
 
 ## <a name="business-expense"></a>Business-Related Expenses
+DON'T WE USE HARVEST FOR THIS NOW?
 CivicActions will timely reimburse business-related out-of-pocket expenses as long as you submit a receipt.  For multiple expenses, e.g., a business trip, we also will need an expense report which can be found at:
  https://docs.google.com/a/civicactions.net/spreadsheet/ccc?key=0Agj8-vwh7VxfdEF6Nl9WYWlFUnJ2WExycmRzWHBhOXc&usp=drive_web#gid=0
 
