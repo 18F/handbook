@@ -57,8 +57,8 @@ Welcoming a new baby is an amazing time for a family and we want to support empl
 
 [Return to Table of Contents](#toc)
 
-## <a name="medical"></a>Medical Insurance
-All full-time regular employees and part-time hourly employees who work at least 30 hours a week are entitled to benefits under CivicActions' medical, dental, vision and and life insurance plans. CivicActions pays 100% of the premiums, unless you opt for a medical benefits program that includes name-brand prescription coverage.  Then you pay the difference.
+## <a name="medical"></a>Medical, Disability, and Life Insurance
+All full-time regular employees and part-time hourly employees who work at least 30 hours a week are entitled to benefits under CivicActions' medical, dental, vision, short and long term disability, and life insurance plans. We do not yet provide fully paid pet insurance. CivicActions pays 100% of the premiums, unless you opt for a medical benefits program that includes name-brand prescription coverage.  Then you pay the difference.
 
 
 New full-time employees joining CivicActions will be eligible for coverage on the first of the month following thirty (30) days from the date of employment. If, as a new employee, you do not want the coverage, you will need to tell admin in case it puts us out of compliance with the plan providers.

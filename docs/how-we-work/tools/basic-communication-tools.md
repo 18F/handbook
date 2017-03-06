@@ -7,6 +7,7 @@
 	* [Google Calendar](#google-calendar)
 	* [Google Hangouts](#hangouts)
 	* [Google Docs](#google-docs)
+- [BlueJeans](#blue-jeans)
 - [Telephone Use](#telephone-use)
 
 ## <a name="slack"></a>Slack
@@ -131,6 +132,10 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 ![alt text](../images/sharing3.png "Select link")
 
 [Return to TOC](#toc)
+
+## <a name="blue-jeans">BlueJeans</a>
+
+* We use [BlueJeans](https://www.bluejeans.com/) video conferencing software for larger meetings, such as our weekly and montly All Hands Calls. To participate, you may download the BlueJeans app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
 
 ## <a name="telephone-use"></a>Telephone Use
 * There are times when a phone call in may also be necessary, such as when wifi is not available or to call in to BlueJeans
