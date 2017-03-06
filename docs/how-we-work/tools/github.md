@@ -13,6 +13,8 @@ Many CivicActions employees will already have a GitHub account. If you don't hav
 3. Find out the details of the repositories you'll be working with.
 
 ## Setting up Git and a local repository
-In order to start working, you'll want to set up Git on your computer and clone a local copy of the repository you're working with. You can find instructions at [https://help.github.com/articles/set-up-git/](https://help.github.com/articles/set-up-git/)
+In order to start working, you'll want to set up Git on your computer and clone a local copy of the repository you're working with. You can find instructions at [https://help.github.com/articles/set-up-git/](https://help.github.com/articles/set-up-git/) and [https://git-scm.com/book/en/v2/Getting-Started-Git-Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics).
+
+If you'd prefer not to use command-line tools, you may want to use Git Desktop: [https://desktop.github.com/](https://desktop.github.com/).
 
 Many projects will have special requirements for local repositories, especially for engineers. Ask your coworkers for help!
