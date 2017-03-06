@@ -11,6 +11,7 @@ Many CivicActions employees will already have a GitHub account. If you don't hav
   b. Use a personal email account, not your CivicActions one, so that your GitHub account will be portable.
 2. Ask a coworker to add you to the CivicActions organization.
 3. Find out the details of the repositories you'll be working with.
+4. Good work! Now set up two-factor authentication: [https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/)
 
 ## Setting up Git and a local repository
 In order to start working, you'll want to set up Git on your computer and clone a local copy of the repository you're working with. You can find instructions at [https://help.github.com/articles/set-up-git/](https://help.github.com/articles/set-up-git/) and [https://git-scm.com/book/en/v2/Getting-Started-Git-Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics).
