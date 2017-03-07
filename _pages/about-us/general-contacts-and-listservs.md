@@ -71,10 +71,10 @@ Information you might need for filling out GSA forms:
 - MyUSA project: [myusa@gsa.gov](mailto:myusa@gsa.gov)
 - Draft U.S. Web Design Standards: [govtwidepatternlibrary@gsa.gov](mailto:govtwidepatternlibrary@gsa.gov)
 
-### Contacting OCSIT outside of 18F
+### Contacting OPP outside of TTS
 
-- OSCIT feds: [ocsit-team@gsa.gov](mailto:ocsit-team@gsa.gov)
-- OCSIT contractors: [ocsit-contractors@gsa.gov](mailto:ocsit-contractors@gsa.gov)
+- OPP feds: [opp-team@gsa.gov](mailto:opp-team@gsa.gov)
+- OPP contractors: [opp-contractors@gsa.gov](mailto:opp-contractors@gsa.gov)
 
 
 ## Listservs
