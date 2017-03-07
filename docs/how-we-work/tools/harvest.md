@@ -32,9 +32,9 @@ Then:
   - Put description of work in each entry and ensure that you’ve selected correct project and role
   - Track your time in increments of 15 minutes, rounded up per CivicActions protocol
 
-![Harvest screenshot 2](../images/harvest02.png)
+![Harvest screenshot 2](../../../images/harvest02.png)
 
-![Harvest screenshot 1](../images/harvest01.png)
+![Harvest screenshot 1](../../../images/harvest01.png)
 
 ## Harvest Timer Options
   - Mac: https://www.getharvest.com/mac
@@ -55,15 +55,15 @@ You must add time to BOTH Harvest plugin & update the Time Tracking section in J
 
 The Trello integration will require that you install the Chrome extension found here: https://www.getharvest.com/trello You can then log time directly from Chrome, as well as Trello cards. You may need to refresh or log out/into Trello to see the “Track Time” action.
 
-![Harvest screenshot 3](../images/harvest03.png)
+![Harvest screenshot 3](../../../images/harvest03.png)
 
-![Harvest screenshot 4](../images/harvest04.png)
+![Harvest screenshot 4](../../../images/harvest04.png)
 
-![Harvest screenshot 5](../images/harvest05.png)
+![Harvest screenshot 5](../../../images/harvest05.png)
 
-![Harvest screenshot 6](../images/harvest06.png)
+![Harvest screenshot 6](../../../images/harvest06.png)
 
-![Harvest screenshot 7](../images/harvest07.png)
+![Harvest screenshot 7](../../../images/harvest07.png)
 
 ## Other Add-ons
   - Harvest has some other plugins & add-ons found here: https://www.getharvest.com/add-ons
@@ -87,11 +87,11 @@ Here is a quick overview of the expenses feature in Harvest:
   - Submit your expenses at the end of travel
   - EMAIL Judy that you have expenses in Harvest for her review
 
-![Harvest screenshot 8](../images/harvest08.png)
+![Harvest screenshot 8](../../../images/harvest08.png)
 
-![Harvest screenshot 9](../images/harvest09.png)
+![Harvest screenshot 9](../../../images/harvest09.png)
 
-![Harvest screenshot 10](../images/harvest10.png)
+![Harvest screenshot 10](../../../images/harvest10.png)
 
 ## <a name="tracking-paid-time-off"></a>Tracking Paid Time Off (PTO)
 
@@ -111,7 +111,7 @@ You do NOT need to log entries when the office is closed for Holiday
 - 4 hours if it's a half day
 - anything under 4 hours should not be recorded
 
-![Harvest screenshot 11](../images/harvest11.png)
+![Harvest screenshot 11](../../../images/harvest11.png)
 
 ## Harvest Phone App
 
