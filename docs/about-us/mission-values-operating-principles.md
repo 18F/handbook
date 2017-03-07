@@ -2,11 +2,11 @@
 
 ## Mission
 
-CivicActions wants to be the primary vendor for agile open software services within the federal government.
+Transform the way professional services are delivered in government.
 
 ## Value Proposition
 
-For US government agency executives, directors, and managers, IT staff and department leaders and other agents of change who need modern digital offerings that are as innovative, intuitive, and rewarding as popular consumer experiences, CivicActions offers experienced software engineering, design, and project management teams with proven skills that enable agencies to deliver simplified experiences on all relevant digital platforms and serve their users more smoothly, efficiently and effectively. Unlike rigid, unwieldy, traditional government contractors, CivicActions specializes in agile technology development practices, open source software tools, collaboration and training for client capacity building, and lean teams to accomplish agency objectives on time and on budget.
+For US government agency executives, directors, and managers, IT staff and department leaders and other agents of change who need modern digital offerings that are as innovative, intuitive, and rewarding as popular consumer experiences, CivicActions offers experienced software engineering, design, and project management teams with proven skills that enable agencies to deliver simplified experiences on all relevant digital platforms and serve their users more smoothly, efficiently and effectively. Unlike rigid, unwieldy, traditional government contractors, CivicActions specializes in agile technology development practices, open source software tools, devops, collaboration and training for client capacity building, and lean teams to accomplish agency objectives on time and on budget.
 
 
 ## Operating Principles
