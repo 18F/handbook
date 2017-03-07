@@ -1,10 +1,4 @@
----
-title: Leaving CivicActions
----
-<!-- TODO: Begin CA:Handbook -->
-
-# <a name="employseparation"></a>EMPLOYMENT SEPARATION
-
+# Leaving CivicActions
 
 ## <a name="at-will"></a>At-Will Employment
 All employment with CivicActions is “at will”. The relationship can be terminated by the employee or by CivicActions at any time, for any or no reason, and without notice. But being who we are, we typically work together for a smooth transition.
@@ -19,12 +13,14 @@ If CivicActions sees a problem with an employee’s performance, or there is oth
 
 
 ## <a name="company-property"></a>Return of Company Property
-Any company property issued to employees, such as documents, computer equipment or company credit cards, must be returned to CivicActions at the time of separation. 
+Any company property issued to employees, such as documents, computer equipment or company credit cards, must be returned to CivicActions at the time of separation.
 
-NEED A SECTION FOR REMOVAL OF CONFIDENTIAL MATERIALS - Fen Labalme should reveiew this
+// NEED A SECTION FOR REMOVAL OF CONFIDENTIAL MATERIALS - Fen Labalme should reveiew this
 
 
 ## <a name="continuation-benefit"></a>Continuation of Benefits
+//IS THIS CA INFO?
+
 Cal-COBRA is California law that has similar provisions to federal COBRA. With Cal-COBRA, you will have the benefit of coverage for a full 36 months.
 
 
@@ -39,23 +35,24 @@ This guide covers the offboarding policy and process.
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave CivicActions, send an official email to your supervisor and [leavingcivicactions@gsa.gov](mailto:leavingcivicactions@gsa.gov).
+If you decide you want to leave CivicActions, send an official email to your supervisor and //WHAT IS THE RIGHT LINK? [leavingcivicactions@gsa.gov](mailto:leavingcivicactions@gsa.gov).
 
 Include your termination date, which should be at least two weeks out. Your last day at CivicActions cannot be a federal holiday.
 
 ### 2. Complete the clearance checklist
 
-Complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with [#teamops](https://civicactions.slack.com/archives/teamops).
+//DO WE HAVE THIS?
+Complete the [employee clearance checklist]() with [#teamops](https://civicactions.slack.com/archives/teamops).
 
 ### 3. Review benefits paperwork
 
-NEEDS TRINET UPDATING>>>>
+//NEEDS TRINET UPDATING>>>>
 
 Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
 
 You should also review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
 
-If you have any questions, please contact [Marty Sanchez-Lowery](mailto:martha.sanchez-lowery@gsa.gov).
+If you have any questions, please contact //WHO?.
 
 ### 4. Return your equipment
 
@@ -65,19 +62,19 @@ When you leave CivicActions, you are responsible for returning all CivicActions 
 
 ## Offboarding process
 
-`Duplicate` the `Template` in the [Off-Boarding Tasks](https://docs.google.com/spreadsheets/d/1IlFY5AAvTyuS7yDHk5_odJGHYZDU_MN9HNGKJ2zXwi0/edit#gid=0) to make a checklist. More detail for certain tasks is below. Note that, per GSA policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at GSA.
+`Duplicate` the `Template` in the [Off-Boarding Tasks](  ) //NEED LINK to make a checklist. More detail for certain tasks is below. Note that, per CivicActions policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at CivicActions.
 
 ### Supervisor
 
 - Work with the employee to transition the employee's workload to other team members.
-- Ensure they complete their last timesheet in Tock.
+- Ensure they complete their last timesheet in Harvest.
 
 ### Talent Team
 
-- Conduct an exit interview using [these questions](https://docs.google.com/a/gsa.gov/document/d/1PpbxoZhPlW2oQx9grMyPSUDepDTQCNiwYO-D1X2IkJk/edit).
+- Conduct an exit interview using [these questions]() //NEED LINK.
   - Documentation will be kept anonymous.
   - After three samples are gathered, look for trends.
 
 ### Ops Team
 
-- Complete the [clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with the employee.
+- Complete the [clearance checklist]() //NEED LINK with the employee.
