@@ -5,7 +5,9 @@ Are you prepared for the "so, what does _your_ company do" questions? Having an 
 Think about when you're just at a gathering and you're excited about your new job and someone asks you to tell them more... what will you say? Don't sweat, be prepared!
 
 Here's a sample:
->CivicActions is a full-service software and Drupal development and design firm focused on transforming federal, state and local government. We also lead the effort behind Agile Government Leadership (AGL), which brings together public sector IT leaders to help understand and implement Agile project management practices within government.
+>them: What do you do? me: We are disrupting government.
+>them: Huh? me: You know how heathcare.gov was a disaster?
+>them: Yeah... me: We build government websites the way Google, Facebook, and Twitter do. For example, I am:...working on a project for the City of San Francisco to support families in need to have better access to healthier food. The project uses the latest in iterative design and mobile technology and costs taxpayers a fraction of developing software in a traditional way.
 
 Some points to keep in mind:
 - We work to transform government with free and open technologies and agile processes.
