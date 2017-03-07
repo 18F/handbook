@@ -35,7 +35,7 @@ This guide covers the offboarding policy and process.
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave CivicActions, send an official email to your supervisor and //WHAT IS THE RIGHT LINK? [leavingcivicactions@gsa.gov](mailto:leavingcivicactions@gsa.gov).
+If you decide you want to leave CivicActions, send an official email to your supervisor and //WHAT IS THE RIGHT LINK? [leavingcivicactions@civicactions.com](mailto:leavingcivicactions@civicactions.com).
 
 Include your termination date, which should be at least two weeks out. Your last day at CivicActions cannot be a federal holiday.
 
@@ -50,7 +50,7 @@ Complete the [employee clearance checklist]() with [#teamops](https://civicactio
 
 Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
 
-You should also review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
+You should also review the //ANYHING HERE? before your last day.
 
 If you have any questions, please contact //WHO?.
 
