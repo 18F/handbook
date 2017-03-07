@@ -22,19 +22,18 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 * Scrum notes (taking & sending)
 * Timebox monitoring (15 minute call)
-* Sticking to the scrum process
+* Sticking to the scrum process (avoid discussions mid-checkin)
 * Keeping the team on task
 
 
 ### Other tasks
-
-* Get everyone on the call, ping them if not present and ensure people are prompt
-* For team members that are consistently late or disruptive, the PM should remind them privately of the processes and expectations.
-* Keep the team focused and on topic (this may mean the PM may have to interrupt them if they start going down the path of discussion instead of a check-in)
-* Be ready to jump in in case people forget who hasn't gone (although letting them sweat for a second is good too, so they realize they should pay more attention)
-* Help folks remember the structure of the call (if the PM senses they haven't grasped it quite yet). This should be done quickly - 20 seconds max.
-* At the end of the call, the PM gives their checkin if they hadn't already and rolls right into announcing the blockers, actions, or additional meetings that need to happen as a result of the scrum call
-
+* Getting everyone on the call, pinging them and making sure people are prompt
+* For team members that are consistently late or disruptive - The PM should remind them privately of the processes and expectations
+* Keeping the team focused and on topic (this may mean the PM may have to interrupt them if they start going down the path of discussion instead of a check-in)
+* Being ready to jump in in case people forget who hasn't gone (although letting them sweat for a second is good too in them realizing they should pay attention better)
+* Helping folks remember the structure of the call (if the PM senses they haven't grasped it quite yet). This should be done quickly - 20 seconds max. "As a reminder please state your balance score, what you worked on yesterday, what you're doing today and if you have any blockers or after meetings to request."
+* Then at the end of the call, the PM gives their checkin if they hadn't already and rolls right into announcing the blockers, actions, or additional meetings that need to happen as a result of the scrum call
+* PM sends out the scrum notes to the client mailing list (it should use the scrum note template)
 
 ## <a name="pm-role-demos"></a>PM role in sprint demos
 
@@ -77,15 +76,15 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * Facilitating the retrospective
 * Keeping to the timeboxes
 * Ensuring all voices are heard & participate
-* Adding the outcomes of the retrospective to the #retrospecting Slack channel
+* Documenting the outcomes and adding the outcomes of the retrospective to the #retrospecting Slack channel
+* Helping the team keep & meet their commitments
 
 ### Overview
 * The retrospective meeting happens at the end of every sprint. We will discuss what went well, what could be improved, what we learned, what perplexed us, acknowledge who we're appreciative for, etc.
 * How we structure the retrospectives may vary from sprint to sprint.
-* We should come to a consensus on actions items that we will commit to trying in the next sprint, in order to help us improve.
-* The PO will not be included in the retrospective, but some of our major take-aways may be shared with them if appropriate.
+* We should come to a consensus on actions items that we will commit to trying in the next sprint - in order to help us improve.
+* The PO may or may not be included in the retrospective, but some of our major take-aways should be shared with them if they do not attend.
 * When a project launches/closes, holding a final overall retrospective should be considered.
-
 
 ### Best Practices
 * Have a retrospective EVERY sprint. Even if you keep it short, have the call.
@@ -117,15 +116,42 @@ This meeting helps the team prepare tasks for the next Sprint Planning Meeting. 
 Here is a helpful video example: https://youtu.be/b_WeHcZcx1w
 
 ## <a name="pm-role-meetings"></a>PM role in any process or planning meeting
-[needs PM input]
+Occasionally the development team needs to meet to plan or process things together. Some examples of these types of meetings may be:
+* Setting working agreements
+* Changing workflows for code review, merge requests, QA, etc
+* Direction to take with decisions from a retrospective
+* Adjusting how the team works together
+* Discussing a failing test that team needs to figure out
+* Deciding on automated testing processes
+* Assessing user testing feedback
+* Demos and their outcomes
+
+During these types of meetings the PM should do the following:
+* Schedule the meeting & send out the invite
+* Timebox the meeting appropriately and ensure the team sticks to the timebox
+* Make sure the appropriate team members are in the meeting (and marking others as optional if not critical)
+* Summarize the purpose and goal of the meeting (both on the invite and state it at the start of the meeting)
+* Ensure the team stays on topic to meet the goal and get the outcome needed
+* Document the meeting notes and share with the appropriate mailing list
+* Clearly outline next steps and action items for the team
+* Ensure there is ownership for each action item & the team knows the due dates if applicable
+* Create any tickets or documents necessary (even if it is just a stub ticket or document template)
+* Follow up on the action items the team agreed to & help them stay accountable to their commitments
 
 ## <a name="pm-responsibilities"></a>Summary of PM responsibilities
-* note taking for every meeting
-* sending notes and deliverables to PO
-* scheduling meetings
-* keeping the team on task/topic
-* paying attention to timeboxes
-* being on time to meetings
-* starting/introducing meetings
-* approving the initial time off requests from their team members
-* documenting outcomes from demos on tickets
+* Note taking for every meeting
+* Sending notes and deliverables to PO
+* Scheduling meetings
+* Keeping the team on task/topic
+* Paying attention to timeboxes
+* Being on time (and first to arrive) to meetings
+* Starting/introducing meetings
+* Approving the initial time off requests from their team members
+* Updating resource guru
+* Documenting outcomes from demos on tickets
+* Status reporting (schedule, budget)
+* Updating the delivery projections for the month
+* Onboarding new team members to the dev team
+* Coordinating contractors on the project
+* Often participating in QA
+* Ensuring the team sticks to the scrum format for standups
