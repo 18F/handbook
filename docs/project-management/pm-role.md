@@ -20,7 +20,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 ### Primary Responsibilities
 
-* Scrum notes (taking & sending)
+* Scrum notes   (taking & sending)
 * Timebox monitoring (15 minute call)
 * Sticking to the scrum process (avoid discussions mid-checkin)
 * Keeping the team on task
