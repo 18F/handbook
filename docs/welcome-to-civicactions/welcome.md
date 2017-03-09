@@ -25,7 +25,7 @@ This is a typical onboarding schedule, but the timing may shift based on when yo
 #### <a name="week-1"></a>Week 1
 The first week will be dedicated to general orientation. You’ll also learn about our working practices, our primary tools and how we use them, and your specific job role.
 
-##### Day 1
+#### Day 1
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
   </tr>
 </table>
 
-##### Day 2
+#### Day 2
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
   </tr>
 </table>
 
-##### Day 3
+#### Day 3
 
 <table>
   <tr>
@@ -92,7 +92,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
   </tr>
 </table>
 
-##### Day 4
+#### Day 4
 
 <table>
   <tr>
@@ -113,7 +113,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
   </tr>
 </table>
 
-##### Day 5
+#### Day 5
 
 <table>
   <tr>
@@ -123,6 +123,10 @@ The first week will be dedicated to general orientation. You’ll also learn abo
   <tr>
     <td>Role-based Training</td>
     <td>link TBD</td>
+  </tr>
+  <tr>
+    <td>Training: CivicActions Culture (1 hour)</td>
+    <td>With ??</td>
   </tr>
   <tr>
     <td>"First week" tasks</td>
