@@ -1,15 +1,5 @@
 
-# <a name="introduction"></a>INTRODUCTION
-
-## <a name="toc"></a>Table of Contents
-* [Welcome to Our Company!](#welcome)
-* [Background / History](#history)
-
-## <a name="welcome"></a>Welcome to Our Company!
-
-We’re honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present which has lead to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
-
-## <a name="history"></a>Background / History
+# Background / History
 
 CivicActions, Inc. is a professional services firm delivering agile system development lifecycle services with a focus on free & open source software (FOSS). One of the things that makes us unique is our radical openness. Our largest federal clients in 2016 were the Defense Security Cooperation Agency, Department of Education, Federal Communications Commission, and through our partner Acquia, Department of Justice and Department of Treasury. Our largest Non-Profit client was Cal Poly where we re-built the Digital Democracy Platform and their DevOps pipeline.
 
@@ -20,5 +10,3 @@ From the first year of operations, CivicActions was committed to openness - not 
 In 2014, we saw a need to create a central, proactive movement to support public service and industry professionals championing and implementing Agile within the public sector. With leaders in federal, state and local governments, we founded AGL (Agile Government Leadership) and published the Agile Government Handbook. All of the work of AGL is published under public license, where it can be used by government workers, as well as other agile software vendors. This commitment to sharing increased our competencies and our reputation as leaders in agile government delivery.
 
 In early 2016, CivicActions co-founder Aaron Pava was recruited to join the prestigious United States Digital Service team in Washington DC to assist the federal government in transforming procurement practices to enable federal agencies to more easily procure services from small businesses like CivicActions. In late 2016, CivicActions was one of a few vendors pre-qualified to bid on numerous procurements for the state of California.
-
-[Return to Table of Contents](#toc)
