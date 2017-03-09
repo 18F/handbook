@@ -18,11 +18,11 @@ There's a secret to dealing with passwords: use a password manager to store your
 
 You can use iCloud ([1Password instructions](https://support.1password.com/sync-with-icloud/)) or manual syncing to keep your 1Password or KeePassX synced across multiple work devices (work laptop to work phone, for example), as you're just transferring encrypted information around. Do not store the password in iCloud directly. iCloud Keychain isn't approved for work-related passwords or other sensitive government information.
 
+### 2. Use unique passwords
+
 You can use your password manager to generate a random unique password for each service you use. In [**1Password**, use these instructions](https://support.1password.com/guides/mac/generate-a-strong-password.html). OS X also has a local password generator: in the **Keychain Access** app, view the suggestions under **File > New Password Item > key icon**.
 
 You can use your password manager to store answers to security questions. Instead of setting up real answers (which could be guessable by somebody with information about you), consider setting up random nonsense answers and storing those answers in your password manager.
-
-### 2. Use unique passwords
 
 Here's an interesting comparison of non-expert and expert security practices, from [a study done by Google](http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html):
 
