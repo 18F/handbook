@@ -16,13 +16,13 @@ There's a secret to dealing with passwords: use a password manager to store your
 
 [**1Password**](https://1password.com/) and [**KeePassX**](https://www.keepassx.org/) are password managers approved for work at 18F. You can get a license for 1Password by asking [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov). KeePassX is free.
 
-You can use iCloud or Dropbox or manual syncing to keep your 1Password or KeePassX synced across multiple work devices (work laptop to work phone, for example), as you're just transferring encrypted information around. Do not store the password in iCloud. iCloud Keychain isn't approved for work-related passwords or other sensitive government information.
+You can use iCloud ([1Password instructions](https://support.1password.com/sync-with-icloud/)) or manual syncing to keep your 1Password or KeePassX synced across multiple work devices (work laptop to work phone, for example), as you're just transferring encrypted information around. Do not store the password in iCloud directly. iCloud Keychain isn't approved for work-related passwords or other sensitive government information.
+
+### 2. Use unique passwords
 
 You can use your password manager to generate a random unique password for each service you use. In [**1Password**, use these instructions](https://support.1password.com/guides/mac/generate-a-strong-password.html). OS X also has a local password generator: in the **Keychain Access** app, view the suggestions under **File > New Password Item > key icon**.
 
 You can use your password manager to store answers to security questions. Instead of setting up real answers (which could be guessable by somebody with information about you), consider setting up random nonsense answers and storing those answers in your password manager.
-
-### 2. Use unique passwords
 
 Here's an interesting comparison of non-expert and expert security practices, from [a study done by Google](http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html):
 
@@ -49,5 +49,3 @@ This opens up a few risks: A person could try to guess your password based on in
 In other words, you could use a series of random words, plus a few numbers, capital letters, or symbols, if you like.
 
 Or try thinking of a sentence or line from a book, song, speech, poem, or other memorable source, then build a many-character password using the first letter of each word, with some capitalization, numbers, and symbols thrown in. Or just use the whole line or sentence as your password! (You'd need to pick a phrase that nobody would guess based on knowing you.)
-
----
