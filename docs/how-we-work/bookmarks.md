@@ -5,7 +5,7 @@ Links to websites we use regularly.
 ## CivicActions
 
 * [CivicActions Handbook](/)
-* [CivicActions Site](https://civicactions.com/)
+* [CivicActions Website](https://civicactions.com/)
 
 ## Social Media
 * [Twitter](https://twitter.com/CivicActions)
