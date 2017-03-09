@@ -2,9 +2,7 @@
 
 ## <a name="welcome"></a>Welcome to CivicActions!
 
-We’re very happy to welcome you. You have joined an organization that has established an outstanding reputation for quality products and services. Credit for this goes to every one of us. We believe you are a very good fit and will benefit from - and thoroughly enjoy - being part of an amazing team.
-
-Please feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you. We think you will find CivicActions a great place to work.
+We’re honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present which has lead to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
 
 ### Learn more about CivicActions
 

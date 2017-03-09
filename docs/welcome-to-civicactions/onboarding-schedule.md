@@ -10,7 +10,7 @@ The first week will be dedicated to general orientation, but you’ll also learn
 
 
 ### Day 1
-#### Orientation Meeting (2 hours with 15 min break?)
+#### Orientation Meeting (2 hours)
 * [Benefits](../policies/benefits.md)
 * [Working hours expectations](../policies/workplace-guidelines.md)
  * Flexibility
