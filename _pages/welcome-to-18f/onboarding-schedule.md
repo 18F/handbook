@@ -39,7 +39,7 @@ Note: The titles below are linked to our handbook pages for each subject. Descri
 In your second week, you’ll participate in unconscious bias training, learn how travel and recruitment work, and get an overview of how 18F came to exist. You’ll also meet with Aaron, 18F’s Executive Director.
 
 ### Wednesday
-* [Diversity and unconscious bias training](/intro-to-the-diversity-guild) ([Description](/classes/#diversity))
+* [Diversity and unconscious bias training](/diversity) ([Description](/classes/#diversity))
 
 ### Thursday
 * [Travel 101](/travel-101) ([Description](/classes/#travel))

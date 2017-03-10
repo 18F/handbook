@@ -92,9 +92,6 @@ navigation:
     - text: Benefits
       url: benefits/
       internal: true
-    - text: Diversity Guild
-      url: intro-to-the-diversity-guild/
-      internal: true
     - text: GitHub and the 18F website
       url: github-and-18f-site/
       internal: true
@@ -162,6 +159,9 @@ navigation:
   - text: 18F archived emails
     url: https://goo.gl/PxRVa8
     internal: false
+  - text: Diversity At 18F
+    url: diversity/
+    internal: true
   - text: Offices
     url: offices/
     internal: true

@@ -118,7 +118,7 @@ Wondering where 18F is on social media, and ways you can talk about your job pub
 **When:** Third Wednesday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#tweet-this](https://gsa-tts.slack.com/messages/tweet-this), [#outreach](https://gsa-tts.slack.com/messages/outreach)
 
-### <a id="diversity" href="/intro-to-the-diversity-guild">Diversity and unconscious bias training</a>
+### <a id="diversity" href="/diversity">Diversity and unconscious bias training</a>
 
 Meet the members of the Diversity Guild and learn how 18F is addressing unconscious biases in the workplace.
 
