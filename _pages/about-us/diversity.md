@@ -52,17 +52,6 @@ The Diversity Guild tracks its progress on Trello. If you&rsquo;re interested in
 - **Done.** Things that are fully completed — we will celebrate them during our next meeting!
 
 
-### <a id="hiring-and-recruiting">Hiring and recruiting</a>
-
-The Diversity Guild is interested in helping ensure that 18F hires and recruits a workforce as diverse as the country it serves. To that end, the group works with Team Talent to write more inclusive job descriptions. We&rsquo;re also carrying out a listening tour of 18F to see how our organization can be more inclusive of communities that are otherwise underrepresented.
-
-### <a id="unconscious-bias-training">Unconscious bias training</a>
-
-The guild also supports Team Talent in putting on an unconscious bias training. For those who are unfamiliar, **implicit or &ldquo;unconscious&rdquo; bias** refers to the subtle attitudes or stereotypes that affect our understanding, actions, and decisions. 18F is committed in building a healthy work environment for all; to do this, 18F will hold two unconscious bias trainings in FY 2016.
-
-To get an idea of what this entails, we highly encourage folks to [take a test by Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html). They are a non-profit organization that fosters international collaboration among researchers who are interested in &ldquo;implicit social cognition,&rdquo; or thoughts and feelings outside of conscious awareness and control (such as bias). The goal of the organization is to educate the public about hidden biases and to provide a &ldquo;virtual laboratory&rdquo; for collecting data on the Internet.
-
-
 ### <a id="how-to-get-involved">How to get involved</a>
 
 Not only does the Diversity Guild a space for learning, it also promotes the belief in sharing what you've learned. The group is developing a Diversity Guide that has the goal of providing insight on how 18F integrates diversity principles at every point: from recruitment, interviewing, and onboarding to retention, such as professional development and benefits.
