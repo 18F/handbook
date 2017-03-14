@@ -135,6 +135,9 @@ navigation:
   internal: true
   generated: true
   children:
+  - text: Diversity at 18F
+    url: diversity/
+    internal: true
   - text: General contacts and listservs
     url: general-contacts-and-listservs/
     internal: true
@@ -159,9 +162,6 @@ navigation:
   - text: 18F archived emails
     url: https://goo.gl/PxRVa8
     internal: false
-  - text: Diversity at 18F
-    url: diversity/
-    internal: true
   - text: Offices
     url: offices/
     internal: true
