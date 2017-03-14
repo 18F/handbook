@@ -33,6 +33,13 @@ If you're still having trouble, try these recommendations from [@moncef](https:/
 5. Restart your computer.
 6. Reinstall AnyConnect without any add-ons.
 
+
+If you get the "a newer version of Cisco AnyConnect was already installed" error when tring to reinstall, tell macOS to forget the package:
+
+```
+sudo pkgutil --forget com.cisco.pkg.anyconnect.vpn
+```
+
 ---
 
 #### Still have questions?
