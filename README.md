@@ -31,6 +31,7 @@ That being said, there are topics in this document that are required by law or a
 ### Policies
 * [Employment](docs/policies/employment.md)
 * [Conduct and Behavior](docs/policies/conduct-behavior.md)
+* [Conflict of Interest](docs/policies/conflict-of-interest.md)
 * [Compensation](docs/policies/compensation.md)
 * [Professional Development and Community Participation](docs/policies/prodev-community-participation.md)
 * [Benefits](docs/policies/benefits.md)
