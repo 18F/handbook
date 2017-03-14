@@ -33,6 +33,14 @@ The maximum annual leave you can carry over from calendar year to calendar year 
 
 Sick leave accrues at four hours per pay period for all federal employees, regardless of how long they've worked for the federal government. There is no maximum amount of sick leave you can accrue, and all unused hours carry over to the next calendar year. If you transfer from another federal agency, your sick leave transfers with you.
 
+### Funeral leave
+
+Employees can take funeral leave to plan or attend services of an immediate relative who has suffered a combat-related death. Additionally, veterans can take funeral leave to participate in a funeral ceremony for a member of the Armed Forces.
+
+Employees can take up to 104 hours per year of sick leave for bereavement and funeral planning and attendance for family members.
+
+Further information can be found in OPM's Fact Sheets for [Leave for Funerals and Bereavement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-for-funerals-and-bereavement/) and [Definitions Related to Family Member...](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/).
+
 ### Unpaid leave
 
 Employees can request unpaid leave of less than four weeks at any time.
