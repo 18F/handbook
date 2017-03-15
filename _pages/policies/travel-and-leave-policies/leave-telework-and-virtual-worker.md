@@ -5,6 +5,8 @@ tags:
 - aloha
 - aloha
 - vacation
+- funeral
+- bereavement
 ---
 
 In this policy, your _supervisor_ is your administrative or official supervisor (or their designee).
@@ -35,11 +37,15 @@ Sick leave accrues at four hours per pay period for all federal employees, regar
 
 ### Funeral leave
 
-Employees can take funeral leave to plan or attend services of an immediate relative who has suffered a combat-related death. Additionally, veterans can take funeral leave to participate in a funeral ceremony for a member of the Armed Forces.
+Employees can take 3 days of funeral leave to plan or attend services of an immediate relative who has suffered a combat-related death. Additionally, veterans can take funeral leave to participate in a funeral ceremony for a member of the Armed Forces.
 
-Employees can take up to 104 hours per year of sick leave for bereavement and funeral planning and attendance for family members.
+Employees can take up to 104 hours (13 days) per year of sick leave for bereavement and funeral planning and attendance for family members.
 
-Further information can be found in OPM's Fact Sheets for [Leave for Funerals and Bereavement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-for-funerals-and-bereavement/) and [Definitions Related to Family Member...](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/).
+Further funeral leave information can be found in OPM's Fact Sheets: 
+
+* [Leave for funerals and bereavement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-for-funerals-and-bereavement/)
+* [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
+* [Definitions related to family member and immediate relative for purposes of sick leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
 
 ### Unpaid leave
 
