@@ -139,8 +139,6 @@ Meet your guests at the front security desk to escort them in.
 
 Be aware that IDs from [a few states](https://www.dhs.gov/current-status-states-territories) are not acceptable; see that page for the current list of "noncompliant states". For these states, another issued picture ID is required (or they can just show a passport).
 
-If you’re inviting guests to a potluck, point them to our handy [Eventbrite invite](https://www.eventbrite.com/e/18f-potluck-lunch-tickets-9543876993) with all of the security details.
-
 ### Host long-term guests?
 
 You may host folks from other government agencies. As the host you are responsible for access issues and for any requests. You will need to complete [50 UNP Auth Form.pdf](https://github.com/18F/handbook/files/433703/50.UNP.Auth.Form.pdf) using your own information and email it to <mailto:50UNPBuildingServices@gsa.gov>. Please make sure you do this with advance notice, since the building will need time to update the guards’ list of approved guests. Once the form has been accepted, guests will be able to access the building without an escort.
@@ -238,6 +236,12 @@ For FedEx and UPS, please use the address as usual:
 > 50 United Nations Plaza<br/>
 > Suite 5685<br/>
 > San Francisco, CA 94102
+
+## Potluck
+
+We host a potluck lunch every Thursday, and it's open to guests. We welcome anyone who's interested in finding out more about 18F and what we do. We're also very keen to meet folks who work in government or civic tech, or who are interested in learning more about that world.
+
+If you're a guest, **you must contact us at least a day in advance** so that we know to meet you at the door. [Email Yoz Grahame](mailto:yoz.grahame@gsa.gov) and he'll sort it out for you. Please make sure to [bring acceptable ID](#bring-in-one-time-guests). Any dishes are welcome; vegetarian food is likely to be enjoyed by the most people. (And we all love desserts.)
 
 ## Amenities
 
