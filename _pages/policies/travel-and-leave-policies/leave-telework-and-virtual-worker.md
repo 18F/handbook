@@ -6,6 +6,8 @@ tags:
 - aloha
 - vacation
 - funeral
+- funeral
+- death
 - bereavement
 ---
 
