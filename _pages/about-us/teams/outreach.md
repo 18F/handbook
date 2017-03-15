@@ -48,7 +48,7 @@ Here's the guide on [how to draft and publish the internal newsletter](https://d
 
 ## <a name="press"></a>Press and other inquiries
 
-- If you’re contacted by a congressperson or senator, or are contacted by one of their offices, please contact [Gia](mailto:gianelle.rivera@gsa.gov) in the Office of Congressional and Intergovernmental Affairs, and copy [Hillary](mailto:hillary.hartley@gsa.gov). Feel free to give us a heads up in #outreach, too.
+- If you’re contacted by a congressperson or senator, or are contacted by one of their offices, please contact the [Office of Congressional and Intergovernmental Affairs](https://www.dol.gov/general/contact), and copy [Hillary](mailto:hillary.hartley@gsa.gov). Feel free to give us a heads up in #outreach, too.
 
 - If you’re contacted by a reporter, please route all interactions through the Office of Strategic Communications (OSC) via [press@gsa.gov](mailto:press@gsa.gov), and copy [Hillary](mailto:hillary.hartley@gsa.gov). Feel free to give us a heads up in #outreach, too.
 
