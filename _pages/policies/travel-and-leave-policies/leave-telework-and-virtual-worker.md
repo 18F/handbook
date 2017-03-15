@@ -37,9 +37,9 @@ Sick leave accrues at four hours per pay period for all federal employees, regar
 
 ### Funeral leave
 
-Employees can take 3 days of funeral leave to plan or attend services of an immediate relative who has suffered a combat-related death. Additionally, veterans can take funeral leave to participate in a funeral ceremony for a member of the Armed Forces.
+Employees can take 3 days (24 hours) of funeral leave to plan or attend services of an immediate relative who has suffered a combat-related death. Additionally, veterans can take funeral leave to participate in a funeral ceremony for a member of the Armed Forces.
 
-Employees can take up to 104 hours (13 days) per year of sick leave for bereavement and funeral planning and attendance for family members.
+Employees can take up to 13 days (104 hours) per year of sick leave for bereavement, funeral planning, and/or attending the funeral of a family member.
 
 Further funeral leave information can be found in OPM's Fact Sheets: 
 
