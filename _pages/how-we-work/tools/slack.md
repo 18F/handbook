@@ -173,7 +173,7 @@ Groups are a great way to alert people who might not be in a channel about somet
 - **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
 - **Use #news for vital team announcements.** [#news](https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you’d like to go up in #news:
   - **18F and Acquisitions employees** ping @commsquad or post in [#outreach](https://gsa-tts.slack.com/archives/news) to get a review of the language. Once it's ready, Sarah Millstein or Greg Boone can post it.
-  - **OPP employees** review your post with Jeremy Zillar or John Yuda; one of them can post it when it's ready.
+  - **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
   - **PIF employees** review your post with Nathan Olson, and he can post it when it's ready.
   
   Please keep #news posts limited to information that the entire team needs to know. This includes things like:
