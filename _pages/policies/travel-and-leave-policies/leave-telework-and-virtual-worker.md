@@ -5,6 +5,10 @@ tags:
 - aloha
 - aloha
 - vacation
+- funeral
+- funeral
+- death
+- bereavement
 ---
 
 In this policy, your _supervisor_ is your administrative or official supervisor (or their designee).
@@ -32,6 +36,18 @@ The maximum annual leave you can carry over from calendar year to calendar year 
 ### Sick leave
 
 Sick leave accrues at four hours per pay period for all federal employees, regardless of how long they've worked for the federal government. There is no maximum amount of sick leave you can accrue, and all unused hours carry over to the next calendar year. If you transfer from another federal agency, your sick leave transfers with you.
+
+### Funeral leave
+
+Employees can take 3 days (24 hours) of funeral leave to plan or attend services of an immediate relative who has suffered a combat-related death. Additionally, veterans can take funeral leave to participate in a funeral ceremony for a member of the Armed Forces.
+
+Employees can take up to 13 days (104 hours) per year of sick leave for bereavement, funeral planning, and/or attending the funeral of a family member.
+
+Further funeral leave information can be found in OPM's Fact Sheets: 
+
+* [Leave for funerals and bereavement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-for-funerals-and-bereavement/)
+* [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
+* [Definitions related to family member and immediate relative for purposes of sick leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
 
 ### Unpaid leave
 
