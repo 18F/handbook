@@ -20,7 +20,12 @@ Any company property issued to employees, such as documents, computer equipment 
 
 ## <a name="continuation-benefit"></a>Continuation of Benefits
 
-> @todo UPDATE
+COBRA
+
+If you or your covered dependents lose eligibility for regular, TriNet group medical, dental, vision benefits and/or healthcare FSA, you may be eligible to continue your coverage under COBRA. COBRA allows you to continue receiving these benefits on a temporary basis in certain situations where coverage under the TriNet Benefits Plan would otherwise end. COBRA coverage is explained in greater detail in the Benefits Guidebook. 
+
+// Need a link to the appropriate sections of the Benefits Guidebook
+
 
 
 This guide covers the offboarding policy and process.
