@@ -5,7 +5,7 @@
 - [The difference between PM and ScrumMaster roles](#pm-scrummaster)
 - [PM role in scrum calls](#pm-role-scrum)
 - [PM role in sprint demos](#pm-role-demos)
-- [PM role in retrospectives](#pm-role-demos)
+- [PM role in retrospectives](#pm-role-retros)
 - [PM role in backlog grooming](#pm-role-backlog)
 - [PM role in any process or planning meeting](#pm-role-meetings)
 - [Other miscellaneous PM responsibilities](#pm-responsibilities)
@@ -69,7 +69,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * Questions should be asked after each person demos their work so topics are fresh.
 * Consider recording the meeting/demo.
 
-## <a name="pm-role-demos"></a>PM role in retrospectives
+## <a name="pm-role-retros"></a>PM role in retrospectives
 
 ### Primary Responsibilities
 * Scheduling the retrospective
