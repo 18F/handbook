@@ -33,7 +33,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * Being ready to jump in in case people forget who hasn't gone (although letting them sweat for a second is good too in them realizing they should pay attention better)
 * Helping folks remember the structure of the call (if the PM senses they haven't grasped it quite yet). This should be done quickly - 20 seconds max. "As a reminder please state your balance score, what you worked on yesterday, what you're doing today and if you have any blockers or after meetings to request."
 * Then at the end of the call, the PM gives their checkin if they hadn't already and rolls right into announcing the blockers, actions, or additional meetings that need to happen as a result of the scrum call
-* PM sends out the scrum notes to the client mailing list (it should use the scrum note template)
+* PM sends out the scrum notes to the client mailing list (using the [scrum note template](https://docs.google.com/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit).)
 
 ## <a name="pm-role-demos"></a>PM role in sprint demos
 
@@ -51,11 +51,11 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * During a sprint demo, the PM's major role is as facilitator.
 * Always give your team preparation time for the demo - they need to remember the tickets they worked on and refresh themselves on what to present.
 * The PM should always start the meeting; explaining the agenda, its purpose, the timebox, and any processes the team should follow.
-* The PM should be taking notes as the team demos their work. Notes include things like the questions and answers of a task demo'd, work that is pointed out as incomplete or not functioning, anything that needs to get done on the task still.
-* The PM should document these notes and add them to a place where the team can reference them. Suggestion: add the notes for each task to the ticket itself & call attention to the team member whose ticket it was.
-* The PM could also consider adding a comment to a ticket that was demo'd but had no questions or changes. Suggestion: indicate the date the ticket was demo'd and that it was approved with no revisions necessary.
+* The PM should be taking notes as team members demos their work. Notes should include include things like questions and answers on a task demoed, work that is incomplete or not functioning, and any outstanding work needed to complete a task.
+* The PM should document these notes somewhere the team can reference them. Suggestion: add the notes for each task to the ticket itself and call attention to the responsible team member.
+* The PM could also consider adding a comment to a ticket that was demoed but had no questions or changes. Suggestion: indicate the date the ticket was demoed and that it was approved with no revisions necessary.
 * The PM should help the team members understand the changes that need to happen based on the feedback from the demo.
-* The PO should not be called on to demo anything, but they should be called on to approve or for any comments for each task demo'd.
+* The PO should not be called on to demo anything, but they should be called on to approve or for any comments for each task demoed.
 * The PM should keep track of the timeboxes.
 * The PM should close the demo/review meeting by letting the team know where they can find the notes for their tasks demo'd and what the next steps are for the team and in the sprint.
 
@@ -92,9 +92,9 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 ### Resources
 
-Join this channel: https://civicactions.slack.com/messages/retrospecting/
-Check out this retrospective template: [TEMPLATE: Sprint Retrospective](Basic)(https://trello.com/b/YEXXigXH/template-sprint-retrospective)
-Review this retrospective template: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
+* Join the [#retrospecting](https://civicactions.slack.com/messages/retrospecting/) Slack channel: 
+* Check out this retrospective template: [TEMPLATE: Sprint Retrospective (Basic)](https://trello.com/b/YEXXigXH/template-sprint-retrospective)
+* Review this retrospective template: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
 
 ## <a name="pm-role-backlog"></a>PM role in backlog grooming
 This meeting helps the team prepare tasks for the next Sprint Planning Meeting. Ideally the whole team partakes, but the Technical Lead, Product Owner, and Project Manager must attend for the meeting to be well balanced and effective.
