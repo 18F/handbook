@@ -92,9 +92,6 @@ navigation:
     - text: Benefits
       url: benefits/
       internal: true
-    - text: Diversity Guild
-      url: intro-to-the-diversity-guild/
-      internal: true
     - text: GitHub and the 18F website
       url: github-and-18f-site/
       internal: true
@@ -138,6 +135,9 @@ navigation:
   internal: true
   generated: true
   children:
+  - text: Diversity at 18F
+    url: diversity/
+    internal: true
   - text: General contacts and listservs
     url: general-contacts-and-listservs/
     internal: true
