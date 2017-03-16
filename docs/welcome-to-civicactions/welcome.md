@@ -25,24 +25,27 @@ This is a typical onboarding schedule, but the timing may shift based on when yo
 #### <a name="week-1"></a>Week 1
 The first week will be dedicated to general orientation. You’ll also learn about our working practices, our primary tools and how we use them, and your specific job role.
 
+> @todo [Update Day 4 and Day 5 Role-based Training rows with appropriate links](https://trello.com/c/L1FxQ1pp/101-add-appropriate-links-for-role-based-training-to-day-4-and-day-5-sections-of-welcome-md)
+
+
 #### Day 1
 
 <table>
   <tr>
-    <td>Orientation Meeting (2 hours)</td>
-    <td>*With your onboarding colleague* [link](/training/orientation-meeting.md)</td>
+    <td>Orientation Meeting (1-2 hours)</td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day1">link</a></td>
   </tr>
   <tr>
     <td>"Your first day" tasks</td>
-    <td>*On your "New Hire Checklist"*</td>
+    <td>On your "New Hire Checklist"</td>
   </tr>
   <tr>
     <td>Pro Tip: Remember to EAT LUNCH!</td>
-    <td>*In your kitchen, in your own time*</td>
+    <td>In your kitchen, in your own time</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
 
@@ -51,19 +54,19 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (1 hour)</td>
-    <td>*With your onboarding colleague*</td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day2">link</a></td>
   </tr>
   <tr>
     <td>Training: Intro to CivicActions Process (part 1: 2 hours)</td>
-    <td>[link](/training/intro-to-civicactions-process.md)</td>
+    <td><a href="../welcome-to-civicactions/training/intro-to-civicactions-process.md">link</td>
   </tr>
   <tr>
     <td>"Second day" tasks</td>
-    <td>*On your "New Hire Checklist"*</td>
+    <td>On your "New Hire Checklist"</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
 
@@ -72,23 +75,23 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (1 hour)</td>
-    <td>*With your onboarding colleague*</td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day3">link</a></td>
   </tr>
   <tr>
     <td>Training: Intro to CivicActions Process (part 2: 1 hour)</td>
-    <td>[link](/training/intro-to-civicactions-process.md)</td>
+    <td><a href="../welcome-to-civicactions/training/intro-to-civicactions-process.md">link</a></td>
   </tr>
   <tr>
-    <td>Training: Security for Everyone (2 hours)</td>
-    <td>*With Fen*</td>
+    <td>Training: Security for Everyone (1-2 hours)</td>
+    <td>With Fen - <a href="../welcome-to-civicactions/training/security-training.md">link</a></td>
   </tr>
   <tr>
     <td>"First week" tasks</td>
-    <td>*On your "New Hire Checklist", at your own pace*</td>
+    <td>On your "New Hire Checklist", at your own pace</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
 
@@ -97,7 +100,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (30 minutes)</td>
-    <td>*With your onboarding colleague*</td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day4">link</a></td>
   </tr>
   <tr>
     <td>Role-based Training</td>
@@ -105,11 +108,11 @@ The first week will be dedicated to general orientation. You’ll also learn abo
   </tr>
   <tr>
     <td>"First week" tasks</td>
-    <td>*On your "New Hire Checklist", at your own pace*</td>
+    <td>On your "New Hire Checklist", at your own pace</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
 
@@ -118,7 +121,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (30 minutes)</td>
-    <td>*With your onboarding colleague*</td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day5">link</a></td>
   </tr>
   <tr>
     <td>Role-based Training</td>
@@ -126,15 +129,15 @@ The first week will be dedicated to general orientation. You’ll also learn abo
   </tr>
   <tr>
     <td>Training: CivicActions Culture (1 hour)</td>
-    <td>*With ??*</td>
+    <td>With Aaron</td>
   </tr>
   <tr>
     <td>"First week" tasks</td>
-    <td>*On your "New Hire Checklist", at your own pace*</td>
+    <td>On your "New Hire Checklist", at your own pace</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
 
@@ -157,8 +160,11 @@ The rest of your first month will be dedicated to completing the "First month" t
   </tr>
 </table>
 
-### Benefits
+### Human resources (HR)
 
+CivicActions uses TriNet for outsourcing benefits, payroll, and human resources support. TriNet offers self-directed online new hire orientations. Each session take approximately 30 minutes. To access the on-demand orientation at any time, simply log into HR Passport. Visit the "New Hire Orientation" link under "Resources" from HR Passport's home page. The course can be completed all at once, or on an intermittent schedule with course completion tracked through TriNet University.
+
+#### Benefits
 <table>
   <tr>
     <td>Health, Dental and Vision Insurance</td>
@@ -170,22 +176,14 @@ The rest of your first month will be dedicated to completing the "First month" t
   </tr>
 </table>
 
+#### Before your first day
+
+> @todo [Add information about forms, paperwork, etc. that new hires need to complete before beginning work ](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
+
+
+
 // TO REVIEW:
-##### Morning Meeting with Onboarding Colleague (Day 1)
-  * Introduction to [Scrum call](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/daily-scrum-calls.md) structure
-  * Introduction to how we use [Jira](../how-we-work/tools/trello.md) and [Trello](../how-we-work/tools/trello.md)
 
-##### Morning Meeting with Onboarding Colleague (Day 2)
-* How to create a ticket/card
-* Story point estimating
-* Intro to pods/Pod-specific practices
-
-##### Security for Everyone (2 hours) (with Fen?)
-* Review and Acknowledge Security Policy
-  * Set up Lastpass
-  * Set up TFA
-  * Complete Security Checklist
-* Take PII online course
 
 ### Day 4
 #### Role-based training/orientation (PM track or Engineering or UX/Content Strategy/Design track)
@@ -234,14 +232,3 @@ The Trello boards below serve as lists of tasks for you to complete with corresp
 - [Manager Checklist](https://trello.com/b/FOILJ0i6/onboarding-manager-checklist-draft) (for onboarding managers)
 - [Mentor Checklist](https://trello.com/b/LLHq2eTI/onboarding-mentor-checklist-draft) (for onboarding mentors)
 - [Admin/HR Checklist](https://trello.com/b/RbC0clMU/onboarding-admin-hr-checklist-draft) (for Judy)
-
-
-### Human resources (HR)
-
-CivicActions uses TriNet for outsourcing benefits, payroll, and human resources support. TriNet offers self-directed online new hire orientations. Each session take approximately 30 minutes. To access the on-demand orientation at any time, simply log into HR Passport. Visit the "New Hire Orientation" link under "Resources" from HR Passport's home page. The course can be completed all at once, or on an intermittent schedule with course completion tracked through TriNet University.
-
-
-
-### Before your first day
-
-//Information about forms, paperwork that new hires need to complete before beginning work 
