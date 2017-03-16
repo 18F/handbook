@@ -9,7 +9,7 @@
 * [Access to Business-Related Online Accounts](#access-account) 
 
 ## <a name="hours-work"></a>Hours of Work
-The normal workweek for a full-time employee is forty (40) hours. There are no set days or times of day, but you are expected to be available for and participate in necessary project-related work sessions and discussions. 
+The normal workweek for a full-time employee is either forty (40) or fourty-five (45) hours depending upon your employment agreement. With some employees, there are set days and times, and with others there are no set days or times of day. You are expected to be available for and participate in necessary project-related work sessions, discussions, and office hours (for those who are on site with clients). 
 
 [Return to Table of Contents](#toc)
 
