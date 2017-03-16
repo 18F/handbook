@@ -7,7 +7,7 @@
 
 ## <a name="welcome"></a>Welcome to CivicActions!
 
-We’re honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present which has lead to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
+We’re honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present, which has led to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
 
 ### <a name="learn"></a>Learn more about CivicActions
 
@@ -16,11 +16,11 @@ We’re honored to welcome you to our company. You have joined an organization t
 
 ## <a name="onboarding-process"></a>Onboarding Process
 
-As part of the new employee onboarding process, we created the following Onboarding Schedule to assist you through the days, weeks, and months ahead as a new employee at CivicActions.
+As part of the new employee onboarding process, we created the following Onboarding Schedule to assist you through the days, weeks, and months ahead as a new team member at CivicActions.
 
 ### Schedule
 
-This is a typical onboarding schedule, but the timing may shift based on when you’re hired and federal holidays, etc.
+This is a typical onboarding schedule, but the timing may shift based on when you’re hired and company holidays, etc.
 
 #### <a name="week-1"></a>Week 1
 The first week will be dedicated to general orientation. You’ll also learn about our working practices, our primary tools and how we use them, and your specific job role.
@@ -30,7 +30,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (2 hours)</td>
-    <td>*With your manager or mentor* [link](/training/orientation-meeting.md)</td>
+    <td>*With your onboarding colleague* [link](/training/orientation-meeting.md)</td>
   </tr>
   <tr>
     <td>"Your first day" tasks</td>
@@ -50,8 +50,8 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 
 <table>
   <tr>
-    <td>Morning Meeting (1 hour)</td>
-    <td>*With your manager or mentor*</td>
+    <td>Orientation Meeting (1 hour)</td>
+    <td>*With your onboarding colleague*</td>
   </tr>
   <tr>
     <td>Training: Intro to CivicActions Process (part 1: 2 hours)</td>
@@ -71,8 +71,8 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 
 <table>
   <tr>
-    <td>Morning Meeting (1 hour)</td>
-    <td>*With your manager or mentor*</td>
+    <td>Orientation Meeting (1 hour)</td>
+    <td>*With your onboarding colleague*</td>
   </tr>
   <tr>
     <td>Training: Intro to CivicActions Process (part 2: 1 hour)</td>
@@ -96,8 +96,8 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 
 <table>
   <tr>
-    <td>Morning Meeting (30 minutes)</td>
-    <td>*With your manager or mentor*</td>
+    <td>Orientation Meeting (30 minutes)</td>
+    <td>*With your onboarding colleague*</td>
   </tr>
   <tr>
     <td>Role-based Training</td>
@@ -117,8 +117,8 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 
 <table>
   <tr>
-    <td>Morning Meeting (30 minutes)</td>
-    <td>*With your manager or mentor*</td>
+    <td>Orientation Meeting (30 minutes)</td>
+    <td>*With your onboarding colleague*</td>
   </tr>
   <tr>
     <td>Role-based Training</td>
@@ -238,9 +238,10 @@ The Trello boards below serve as lists of tasks for you to complete with corresp
 
 ### Human resources (HR)
 
-//Language about our relationship with Trinet
+CivicActions uses TriNet for outsourcing benefits, payroll, and human resources support. TriNet offers self-directed online new hire orientations. Each session take approximately 30 minutes. To access the on-demand orientation at any time, simply log into HR Passport. Visit the "New Hire Orientation" link under "Resources" from HR Passport's home page. The course can be completed all at once, or on an intermittent schedule with course completion tracked through TriNet University.
+
 
 
 ### Before your first day
 
-//Information about forms, paperwork that new hires need to complete before beginning work
+//Information about forms, paperwork that new hires need to complete before beginning work 
