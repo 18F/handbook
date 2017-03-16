@@ -29,20 +29,20 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 
 <table>
   <tr>
-    <td>Orientation Meeting (2 hours)</td>
-    <td>*With your onboarding colleague* [link](/training/orientation-meeting.md)</td>
+    <td>Orientation Meeting (1-2 hours)</td>
+    <td>With your onboarding colleague - <a href="/training/orientation-meeting.md"> link</a></td>
   </tr>
   <tr>
     <td>"Your first day" tasks</td>
-    <td>*On your "New Hire Checklist"*</td>
+    <td>On your "New Hire Checklist"</td>
   </tr>
   <tr>
     <td>Pro Tip: Remember to EAT LUNCH!</td>
-    <td>*In your kitchen, in your own time*</td>
+    <td>In your kitchen, in your own time</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
 
@@ -51,19 +51,19 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (1 hour)</td>
-    <td>*With your onboarding colleague*</td>
+    <td>With your onboarding colleague</td>
   </tr>
   <tr>
     <td>Training: Intro to CivicActions Process (part 1: 2 hours)</td>
-    <td>[link](/training/intro-to-civicactions-process.md)</td>
+    <td><a href="/training/intro-to-civicactions-process.md">link</td>
   </tr>
   <tr>
     <td>"Second day" tasks</td>
-    <td>*On your "New Hire Checklist"*</td>
+    <td>On your "New Hire Checklist"</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
 
@@ -72,23 +72,23 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (1 hour)</td>
-    <td>*With your onboarding colleague*</td>
+    <td>With your onboarding colleague</td>
   </tr>
   <tr>
     <td>Training: Intro to CivicActions Process (part 2: 1 hour)</td>
-    <td>[link](/training/intro-to-civicactions-process.md)</td>
+    <td><a href="/training/intro-to-civicactions-process.md">link</a></td>
   </tr>
   <tr>
-    <td>Training: Security for Everyone (2 hours)</td>
-    <td>*With Fen*</td>
+    <td>Training: Security for Everyone (1-2 hours)</td>
+    <td>With Fen</td>
   </tr>
   <tr>
     <td>"First week" tasks</td>
-    <td>*On your "New Hire Checklist", at your own pace*</td>
+    <td>On your "New Hire Checklist", at your own pace</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
 
@@ -97,7 +97,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (30 minutes)</td>
-    <td>*With your onboarding colleague*</td>
+    <td>With your onboarding colleague</td>
   </tr>
   <tr>
     <td>Role-based Training</td>
@@ -105,11 +105,11 @@ The first week will be dedicated to general orientation. You’ll also learn abo
   </tr>
   <tr>
     <td>"First week" tasks</td>
-    <td>*On your "New Hire Checklist", at your own pace*</td>
+    <td>On your "New Hire Checklist", at your own pace</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
 
@@ -118,7 +118,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (30 minutes)</td>
-    <td>*With your onboarding colleague*</td>
+    <td>With your onboarding colleague</td>
   </tr>
   <tr>
     <td>Role-based Training</td>
@@ -126,17 +126,19 @@ The first week will be dedicated to general orientation. You’ll also learn abo
   </tr>
   <tr>
     <td>Training: CivicActions Culture (1 hour)</td>
-    <td>*With ??*</td>
+    <td>With Aaron</td>
   </tr>
   <tr>
     <td>"First week" tasks</td>
-    <td>*On your "New Hire Checklist", at your own pace*</td>
+    <td>On your "New Hire Checklist", at your own pace</td>
   </tr>
   <tr>
     <td>Afternoon Check-in Call (15-30 minutes)</td>
-    <td>*With your mentor*</td>
+    <td>With your mentor</td>
   </tr>
 </table>
+
+> @todo [Update Day 4 and Day 5 Role-based Training rows with appropriate links](https://trello.com/c/L1FxQ1pp/101-add-appropriate-links-for-role-based-training-to-day-4-and-day-5-sections-of-welcome-md)
 
 #### <a name="later-weeks"></a>Weeks 2-4
 
@@ -244,4 +246,4 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 
 ### Before your first day
 
-//Information about forms, paperwork that new hires need to complete before beginning work 
+//Information about forms, paperwork that new hires need to complete before beginning work
