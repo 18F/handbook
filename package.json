@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "markdownlint": "^0.4.0"
+  }
+}
