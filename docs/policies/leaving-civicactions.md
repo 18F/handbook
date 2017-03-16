@@ -5,11 +5,11 @@ All employment with CivicActions is “at will”. The relationship can be termi
 
 
 ## <a name="resig"></a>Resignation
-Employees are asked to provide a minimum of 2 weeks written notice of their intent to resign. The notice should be submitted to the employee’s manager or to one of the management team.  An exit interview may be requested.
+Employees are asked to provide a minimum of 2 weeks written notice of their intent to resign (if possible). The notice should be submitted to the employee’s manager or to someone on the management team.  An exit interview may be requested.
 
 
 ## <a name="termin"></a>Termination
-If CivicActions sees a problem with an employee’s performance, or there is otherwise clearly a bad fit between the employee and CivicActions, every effort will be made to remedy the issue(s). (See “Corrective Action” below). If termination turns out to be the only solution the employee will be fully aware of, and probably in agreement with, the reasons.
+If CivicActions sees a problem with an employee’s performance, or there is otherwise clearly a bad fit between the employee and CivicActions, every effort will be made to remedy the issue(s). If termination turns out to be the only solution the employee will be fully aware of, and probably in agreement with, the reasons.
 
 
 ## <a name="company-property"></a>Return of Company Property
@@ -19,12 +19,8 @@ Any company property issued to employees, such as documents, computer equipment 
 
 
 ## <a name="continuation-benefit"></a>Continuation of Benefits
-//IS THIS CA INFO?
 
-Cal-COBRA is California law that has similar provisions to federal COBRA. With Cal-COBRA, you will have the benefit of coverage for a full 36 months.
-
-
-Many other states have “mini-COBRAs” which serve the same purpose as Cal-COBRA. If you live in one of those states, you have the option of using the benefits provided by that state instead of (not in addition to) Cal-COBRA. Cal-COBRA is by far the most generous; however, it is also the most expensive.
+> @todo UPDATE
 
 
 This guide covers the offboarding policy and process.
@@ -35,14 +31,11 @@ This guide covers the offboarding policy and process.
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave CivicActions, send an official email to your supervisor and //WHAT IS THE RIGHT LINK? [leavingcivicactions@civicactions.com](mailto:leavingcivicactions@civicactions.com).
-
-Include your termination date, which should be at least two weeks out. Your last day at CivicActions cannot be a federal holiday.
+If you decide you want to leave CivicActions, send an email that includes your termination date to your manager or Elizabeth.
 
 ### 2. Complete the clearance checklist
 
-//DO WE HAVE THIS?
-Complete the [employee clearance checklist]() with [#teamops](https://civicactions.slack.com/archives/teamops).
+> @todo [Update this section](https://trello.com/c/ypEd64x3/107-update-clearance-checklist-on-leaving-civicactions-md)
 
 ### 3. Review benefits paperwork
 
