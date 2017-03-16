@@ -47,7 +47,7 @@ If you're not sure if you should merge something, ask for a second opinion in [#
 
 ## Styles
 
-This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should exemplify best practices with regard to content. Handbook content should be welcoming, personable, and free from jargon.
+This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should exemplify best practices with regard to content. Handbook content should be welcoming, personable, and free from jargon. Markdown formatting should be compliant with https://github.com/mivok/markdownlint/blob/master/docs/RULES.md.
 
 ## Public domain
 
