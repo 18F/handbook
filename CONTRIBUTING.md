@@ -11,7 +11,7 @@ Better than doing nothing at all: [Open a Trello card](https://trello.com/b/ZKx6
 
 Go to a page, click edit, and make your changes, using markdown.  Before you save, click the "Preview changes" tab to make sure you've got it right. 
 
-When you save it ("make a commit"), it will create a pull request that will go through a quick review process. There are three fields to fill out, _all of which are optional_.
+When you save it ("make a commit"), there are three fields to fill out, _all of which are optional_.
 
 * **The commit title**: By default it is something like "Update [filename]".  You can usually leave this as is, or you can be more precise, but keep it short (under 50 characters is recommended).
 * **Extended description**: Explain your changes. Useful if you need more than 50 characters. If there's a Trello card for this change, you can a link to it here. 
