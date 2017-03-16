@@ -4,8 +4,9 @@ Links to websites we use regularly.
 
 ## CivicActions
 
-* [CivicActions Handbook](/)
-* [CivicActions Website](https://civicactions.com/)
+* [Handbook](/)
+* [Website](https://civicactions.com/)
+* [Team Roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit)
 
 ## Social Media
 * [Twitter](https://twitter.com/CivicActions)
@@ -22,7 +23,6 @@ Links to websites we use regularly.
 * [Google Hangouts](https://hangouts.google.com/)
 * [Slack](https://civicactions.slack.com)
 * [Harvest](https://civicactions.harvestapp.com/time#)
-* [Hootsuite](https://hootsuite.com/) : for managing company's social media
 * [Trello](https://trello.com/)
 * [Resource Guru](https://civicactions.resourceguruapp.com/login): for tracking project scheduling
 * [StoriesOnBoard](https://app.storiesonboard.com/login): for story mapping
