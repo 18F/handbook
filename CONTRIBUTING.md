@@ -15,15 +15,23 @@ When you save it ("make a commit"), it will create a pull request that will go t
 
 * **The commit title**: By default it is something like "Update [filename]".  You can usually leave this as is, or you can be more precise, but keep it short (under 50 characters is recommended).
 * **Extended description**: Explain your changes. Useful if you need more than 50 characters. If there's a Trello card for this change, you can a link to it here. 
-* **The branch title:** By default this will be something like [username]-patch-1.  If you want to change it to something more semantic (eg easy-github-contributing),  that's helpful to the reviewers.  
+* **The branch name:** By default this will be a new branch, with a name like [username]-patch-1.  If you want to change it to something more semantic (eg [username]-easy-github-contributing),  that's helpful to the reviewers.  And If you've already made another commit and you want to include this change in the same pull request, you can specify that branch name for the other commit here.  
 
-This process works well if you are making changes just one page at a time.  If you want to package up a number of changes into one review, to be merged all at once, you'll want to... 
+After you commit, you will be asked if you want to create a new pull request with the branch you created.  You'll again be presented with three fields: 
+
+* **The PR title:** By default it is the title of your last commit, but you can override.  
+* **Extended description:** This also draws from your last commit, but you can override.  
+* **The right sidebar:** You can assign reviewers (eg subject matter experts, or domain owners). 
+
+Most of the time you don't need to fill anything out, just click "Create pull request".  
+
+If you want to make other changes on the same branch, don't create the PR quite yet. Navigate to that branch (eg https://github.com/CivicActions/handbook/tree/[your-branch-name], edit another file (or the same file you just edited).  Github will know that you want to commit to the same branch as you created above.   
+
+Then you can create a PR from your branch to the master branch, which includes both commits.  
 
 ### The more advanced way: fork the handbook
 
-If you're familiar with the git fork and PR workflow, we definitely recommend forking this repo and making pull requests from your fork. 
-
-This is the recommended way to contribute, and it's necessary if you want to submit a change that includes more than one file at once.
+If you're familiar with the git fork and PR workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 
 The easiest way to get started with this method is by installing [Github Desktop](https://desktop.github.com/) and then learning how to keep your local version up to date with the latest, create commits, and submit PRs. 
 
