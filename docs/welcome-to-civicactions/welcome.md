@@ -33,7 +33,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (1-2 hours)</td>
-    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meeting.md#day1">link</a></td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day1">link</a></td>
   </tr>
   <tr>
     <td>"Your first day" tasks</td>
@@ -54,11 +54,11 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (1 hour)</td>
-    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meeting.md#day2">link</a></td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day2">link</a></td>
   </tr>
   <tr>
     <td>Training: Intro to CivicActions Process (part 1: 2 hours)</td>
-    <td><a href="../training/intro-to-civicactions-process.md">link</td>
+    <td><a href="../welcome-to-civicactions/training/intro-to-civicactions-process.md">link</td>
   </tr>
   <tr>
     <td>"Second day" tasks</td>
@@ -75,15 +75,15 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (1 hour)</td>
-    <td>With your onboarding colleague - <a href="../training/orientation-meeting.md#day3">link</a></td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day3">link</a></td>
   </tr>
   <tr>
     <td>Training: Intro to CivicActions Process (part 2: 1 hour)</td>
-    <td><a href="../training/intro-to-civicactions-process.md">link</a></td>
+    <td><a href="../welcome-to-civicactions/training/intro-to-civicactions-process.md">link</a></td>
   </tr>
   <tr>
     <td>Training: Security for Everyone (1-2 hours)</td>
-    <td>With Fen - <a href="../training/security-training.md">link</a></td>
+    <td>With Fen - <a href="../welcome-to-civicactions/training/security-training.md">link</a></td>
   </tr>
   <tr>
     <td>"First week" tasks</td>
@@ -100,7 +100,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (30 minutes)</td>
-    <td>With your onboarding colleague - <a href="../training/orientation-meeting.md#day4">link</a></td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day4">link</a></td>
   </tr>
   <tr>
     <td>Role-based Training</td>
@@ -121,7 +121,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 <table>
   <tr>
     <td>Orientation Meeting (30 minutes)</td>
-    <td>With your onboarding colleague - <a href="../training/orientation-meeting.md#day5">link</a></td>
+    <td>With your onboarding colleague - <a href="../welcome-to-civicactions/training/orientation-meetings.md#day5">link</a></td>
   </tr>
   <tr>
     <td>Role-based Training</td>
