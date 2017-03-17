@@ -239,9 +239,9 @@ For FedEx and UPS, please use the address as usual:
 
 ## Potluck
 
-We host a potluck lunch every Thursday, and it's open to guests. We welcome anyone who's interested in finding out more about 18F and what we do. We're also very keen to meet folks who work in government or civic tech, or who are interested in learning more about that world.
+We host a potluck lunch every Thursday, to which we invite guests who are interested in finding out more about 18F and what we do. We're also very keen to meet folks who work in government or civic tech, or who are interested in learning more about that world.
 
-If you're a guest, **you must contact us at least a day in advance** so that we know to meet you at the door. [Email Yoz Grahame](mailto:yoz.grahame@gsa.gov) and he'll sort it out for you. Please make sure to [bring acceptable ID](#bring-in-one-time-guests). Any dishes are welcome; vegetarian food is likely to be enjoyed by the most people. (And we all love desserts.)
+If you're a guest, **you must arrange your visit with your contact at least a day in advance** so that they know to meet you at the door. (If you don't have a contact, [email Yoz Grahame](mailto:yoz.grahame@gsa.gov) and he _may_ be able to sort it out for you.) Please make sure to [bring acceptable ID](#bring-in-one-time-guests). Any dishes are welcome; vegetarian food is likely to be enjoyed by the most people. (And we all love desserts.)
 
 ## Amenities
 
