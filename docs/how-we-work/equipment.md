@@ -1,6 +1,6 @@
 # Common Equipment
 
-//NEEDS WORK
+> @todo [Flesh this page out](https://trello.com/c/3jBt07lC/110-flesh-out-equipment-md)
 
 ## Tools
 
