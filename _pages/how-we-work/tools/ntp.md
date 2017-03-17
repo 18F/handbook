@@ -20,7 +20,7 @@ The GSA network does have its own time server, *time.gsa.gov*, but it is inacces
 <img src="/images/ntp/prefspane.png" class="ntp" alt="preferences pane">
 
 3. In the now-editable field, enter the following exactly as shown:
-    time.gsa.gov time-a.nist.gov time-b.nist.gov time-c.nist.gov
+    `time.gsa.gov time-a.nist.gov time-b.nist.gov time-c.nist.gov`
 
 4. **Important**: Hit Return/Enter while your cursor is still in the text field. The text you entered will become highlighted, which signifies that you successfully input your changes.
 <img src="/images/ntp/field.png" class="ntp" alt="highlighted field">
