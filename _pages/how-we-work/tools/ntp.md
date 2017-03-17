@@ -3,6 +3,8 @@ title: Network time sync in OS X with NTP
 navtitle: NTP
 ---
 
+How to use both internal and external sources for all network conditions
+
 By default, OS X automatically corrects the system clock using Apple's own time server, *time.apple.com*, which works just fine on the Internet at large. 
 
 However, when your computer is inside the GSA network (when sitting in a GSA office or on the VPN), connections to time servers outside the network are blocked. This can allow your computer's clock to drift pretty far out of sync, which can not only cause you to miss meetings but also create problems with time-sensitive applications.
@@ -26,5 +28,6 @@ The GSA network does have its own time server, *time.gsa.gov*, but it is inacces
 5. Click the lock to re-lock the text field.
 
 Extra credit:
+
 * This preferences panel modifies a file on your file system, `/etc/ntp.conf`.
 * If you want to see the time service in action, open a terminal window and type `ntpq -p`. Here's a very detailed [explanation of the output](http://nlug.ml1.co.uk/2012/01/ntpq-p-output/831). Note that depending where your computer is, you will see your workstation failing to connect to either the internal or external time servers, and that's as it must be.
