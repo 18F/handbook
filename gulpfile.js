@@ -1,6 +1,20 @@
 var gulp = require("gulp");
 var through2 = require("through2");
 var markdownlint = require("markdownlint");
+var tidymarkdown = require("tidy-markdown");
+var map = require('map-stream');
+
+var gulpTidyMarkdown = function(file, cb) {
+  var content = tidymarkdown(String(file.contents));
+  file.contents = new Buffer(content);
+  cb(null, file);
+};
+
+gulp.task("tidy-markdown", function task() {
+  return gulp.src(["**/*.md", "!node_modules/**"])
+    .pipe(map(gulpTidyMarkdown))
+    .pipe(gulp.dest('.'));
+});
 
 gulp.task("markdownlint", function task() {
   var errors = 0

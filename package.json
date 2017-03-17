@@ -2,6 +2,8 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-cli": "^1.2.2",
-    "markdownlint": "^0.4.0"
+    "map-stream": "^0.0.6",
+    "markdownlint": "^0.4.0",
+    "tidy-markdown": "2.0.4"
   }
 }

@@ -165,6 +165,10 @@ escape-string-regexp@^1.0.2:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
+esprima@^3.1.1:
+  version "3.1.3"
+  resolved "https://registry.yarnpkg.com/esprima/-/esprima-3.1.3.tgz#fdca51cee6133895e3c88d535ce49dbff62a4633"
+
 expand-brackets@^0.1.4:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/expand-brackets/-/expand-brackets-0.1.5.tgz#df07284e342a807cd733ac5af72411e581d1177b"
@@ -262,6 +266,12 @@ for-own@^0.1.4:
   resolved "https://registry.yarnpkg.com/for-own/-/for-own-0.1.5.tgz#5265c681a4f294dabbf17c9509b6763aa84510ce"
   dependencies:
     for-in "^1.0.1"
+
+front-matter@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/front-matter/-/front-matter-1.0.0.tgz#f1b15b60de1aac757e5bec04f0e0751c069ef53d"
+  dependencies:
+    yaml-js "^0.1.0"
 
 fs-exists-sync@^0.1.0:
   version "0.1.0"
@@ -468,6 +478,14 @@ homedir-polyfill@^1.0.0:
   dependencies:
     parse-passwd "^1.0.0"
 
+html-entities@^1.0.10:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-1.2.0.tgz#41948caf85ce82fed36e4e6a0ed371a6664379e2"
+
+indent@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/indent/-/indent-0.0.2.tgz#8c79f080190559b687034b84c7aefa97d5a911d9"
+
 inflight@^1.0.4:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/inflight/-/inflight-1.0.6.tgz#49bd6331d7d02d0c09bc910a1075ba8165b56df9"
@@ -587,6 +605,13 @@ isobject@^2.0.0:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-2.1.0.tgz#f065561096a3f1da2ef46272f815c840d87e0c89"
   dependencies:
     isarray "1.0.0"
+
+js-yaml@^3.2.7:
+  version "3.8.2"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.8.2.tgz#02d3e2c0f6beab20248d412c352203827d786721"
+  dependencies:
+    argparse "^1.0.7"
+    esprima "^3.1.1"
 
 kind-of@^3.0.2:
   version "3.1.0"
@@ -735,6 +760,10 @@ lodash.templatesettings@^3.0.0:
     lodash._reinterpolate "^3.0.0"
     lodash.escape "^3.0.0"
 
+lodash@^4.5.0:
+  version "4.17.4"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+
 lodash@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-1.0.2.tgz#8f57560c83b59fc270bd3d561b690043430e2551"
@@ -746,6 +775,10 @@ lru-cache@2:
 map-cache@^0.2.0:
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/map-cache/-/map-cache-0.2.2.tgz#c32abd0bd6525d9b051645bb4f26ac5dc98a0dbf"
+
+map-stream@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/map-stream/-/map-stream-0.0.6.tgz#d2ef4eb811a28644c7a8989985c69c2fdd496827"
 
 markdown-it@^8.3.0:
   version "8.3.1"
@@ -762,6 +795,10 @@ markdownlint@^0.4.0:
   resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.4.0.tgz#5be8a342c4ab4d5c6cfe8702db30c63bbed01589"
   dependencies:
     markdown-it "^8.3.0"
+
+marked@0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.2.tgz#015db158864438f24a64bdd61a0428b418706d09"
 
 matchdep@^1.0.0:
   version "1.0.1"
@@ -882,6 +919,10 @@ os-locale@^1.4.0:
   dependencies:
     lcid "^1.0.0"
 
+pad@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/pad/-/pad-0.0.5.tgz#2219ab4db2ac74549a676164bc475d68cb87de05"
+
 parse-filepath@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/parse-filepath/-/parse-filepath-1.0.1.tgz#159d6155d43904d16c10ef698911da1e91969b73"
@@ -902,6 +943,10 @@ parse-glob@^3.0.4:
 parse-passwd@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/parse-passwd/-/parse-passwd-1.0.0.tgz#6d5b934a456993b23d37f40a382d6f1666a8e5c6"
+
+parse5@^2.1.5:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/parse5/-/parse5-2.2.3.tgz#0c4fc41c1000c5e6b93d48b03f8083837834e9f6"
 
 path-is-absolute@^1.0.0:
   version "1.0.1"
@@ -1084,6 +1129,20 @@ through2@^2.0.0:
     readable-stream "^2.1.5"
     xtend "~4.0.1"
 
+tidy-markdown@2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/tidy-markdown/-/tidy-markdown-2.0.4.tgz#e1835ee0de629acb9c2d5139c60f3f7c27b279d9"
+  dependencies:
+    argparse "^1.0.7"
+    front-matter "^1.0.0"
+    html-entities "^1.0.10"
+    indent "0.0.2"
+    js-yaml "^3.2.7"
+    lodash "^4.5.0"
+    marked "0.3.2"
+    pad "0.0.5"
+    parse5 "^2.1.5"
+
 tildify@^1.0.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/tildify/-/tildify-1.2.0.tgz#dcec03f55dca9b7aa3e5b04f21817eb56e63588a"
@@ -1183,6 +1242,10 @@ wreck@^6.3.0:
 y18n@^3.2.0:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+
+yaml-js@^0.1.0:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/yaml-js/-/yaml-js-0.1.4.tgz#ac965488a94daad5b65a92cab28c262407730fc0"
 
 yargs@^3.28.0:
   version "3.32.0"
