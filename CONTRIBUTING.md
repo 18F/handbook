@@ -1,4 +1,3 @@
-
 ## How to update the handbook
 
 ### The lazy way (get someone else to do it!)
@@ -9,31 +8,35 @@ Better than doing nothing at all: [Open a Trello card](https://trello.com/b/ZKx6
 
 ### The easy way, via the github UI on the master branch
 
-Go to a page, click edit, and make your changes, using markdown.  Before you save, click the "Preview changes" tab to make sure you've got it right. 
+We only recommend this approach for those who are not already familiar with the git workflow, and who do not have tools for keeping their github forks up to date.
 
-When you save it ("make a commit"), there are three fields to fill out, _all of which are optional_.
+You'll need a Github account, and to be added to the CivicActions Team ([instructions are here](docs/how-we-work/tools/github.md)).
 
-* **The commit title**: By default it is something like "Update [filename]".  You can usually leave this as is, or you can be more precise, but keep it short (under 50 characters is recommended).
-* **Extended description**: Explain your changes. Useful if you need more than 50 characters. If there's a Trello card for this change, you can a link to it here. 
-* **The branch name:** By default this will be a new branch, with a name like [username]-patch-1.  If you want to change it to something more semantic (eg [username]-easy-github-contributing),  that's helpful to the reviewers.  And If you've already made another commit and you want to include this change in the same pull request, you can specify that branch name for the other commit here.  
+Go to a page, click edit, and make your changes, using [markdown](https://guides.github.com/features/mastering-markdown/).  Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
-After you commit, you will be asked if you want to create a new pull request with the branch you created.  You'll again be presented with three fields: 
+When you save it ("make a commit"), there are three fields to fill out. _All of these are optional_, with default values, and in most cases it's fine to leave the defaults.
 
-* **The PR title:** By default it is the title of your last commit, but you can override.  
-* **Extended description:** This also draws from your last commit, but you can override.  
-* **The right sidebar:** You can assign reviewers (eg subject matter experts, or domain owners). 
+* **The commit title**: By default it is something like "Update [filename]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
+* **Extended description**: Explain your changes, if you wish. Useful if you need more than the 50 characters available in the title.
+* **The branch name:** By default this will be a new branch, with a name like [username]-patch-1.  If you want to change it to something more semantic (eg [username]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.  
+
+After you commit, you will be asked if you want to create a new pull request with the branch you created.  You'll again be presented with a few fields, which you can generally leave as is.
+
+* **The PR title:** By default it is the title of your last commit.
+* **Extended description:** This also draws from your last commit.
+* **The right sidebar:** You can assign your pull request to someone on the team (someone you think may want to review your edits).
 
 Most of the time you don't need to fill anything out, just click "Create pull request".  
 
-If you want to make other changes on the same branch, don't create the PR quite yet. Navigate to that branch (eg https://github.com/CivicActions/handbook/tree/[your-branch-name], edit another file (or the same file you just edited).  Github will know that you want to commit to the same branch as you created above.   
+Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg https://github.com/CivicActions/handbook/tree/[your-branch-name].  You can also find this branch from the handbook homepage by clicking on [branches](https://github.com/CivicActions/handbook/branches).   Then, edit another file (or the same file you just edited) and commit it.  This time, Github will know that you want to commit to the same branch as you created during your first commit.  
 
-Then you can create a PR from your branch to the master branch, which includes both commits.  
+Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.  
 
-### The more advanced way: fork the handbook
+### The recommended, but more advanced way: fork the handbook
 
 If you're familiar with the git fork and PR workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 
-The easiest way to get started with this method is by installing [Github Desktop](https://desktop.github.com/) and then learning how to keep your local version up to date with the latest, create commits, and submit PRs. 
+The easiest way to get started, if you're not familiar with the command line or an existing git repo management tool, is by installing [Github Desktop](https://desktop.github.com/), and then learning how to keep your fork up to date with the latest, create commits, and submit PRs.
 
 You can use any other number of tools, including text editors and the command line, or other GUI tools.  
 
@@ -45,9 +48,9 @@ If you make a pull request related to a subject that is the responsibility of a 
 
 ## How to review and merge pull requests
 
-Each pull request must be reviewed by at least one other CivicActions staff member before it can be merged. There is no dedicated staffing for the handbook right now; maintenance is done in spare time by any CivicActions staff member who is interested in helping.
+Each pull request must be reviewed by at least one other CivicActions employee before it can be merged. There is no dedicated staffing for the handbook right now; maintenance is done in spare time by any CivicActions staff member who is interested in helping.
 
-Any CivicActions staff member can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
+Any CivicActions employee with Github account, who has been added to the CivicActions Team ([instructions are here](docs/how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
 
 For example: if something looks like it's related to how Marketing works, ask a Marketing person to review it; if it looks like it needs Project Management team review, ask a PM.
 
