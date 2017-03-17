@@ -2,5 +2,7 @@ language: node_js
 node_js:
   - "6"
 cache: yarn
-script: "gulp"
+script:
+  - gulp 2>&1 | tee output.log
+  - ! egrep -q "(: MD|warning\W)" output.log
 sudo: false
