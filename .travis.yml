@@ -3,6 +3,6 @@ node_js:
   - "6"
 cache: yarn
 script:
-  - gulp 2>&1 | tee output.log
-  - ! egrep -q "(: MD|warning\W)" output.log
+  - gulp | tee output.log
+  - ! egrep -q "(warning\W)" output.log
 sudo: false
