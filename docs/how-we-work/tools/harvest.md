@@ -15,17 +15,17 @@
 
 ## Introduction
 
-Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include Jira and Trello integrations and a mobile app.
+Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you’re responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include Jira and Trello integrations and a mobile app.
 
 ## Update Your Profile
 
-Your Harvest login will be your email address: first.last@civicactions.com. Check your email for an invitation!
+Your Harvest login will be your email address: <mailto:first.last@civicactions.com>. Check your email for an invitation!
 Then:
 
 * confirm that you can sign in to Harvest (<https://civicactions.harvestapp.com/>)
 * upload a photo of yourself
 * check to make sure that your time zone is correct
-* if you know which project(s) you'll be working on, make sure that they're correct
+* if you know which project(s) you’ll be working on, make sure that they’re correct
 
 ## Submitting Your Timesheet
 
@@ -77,11 +77,11 @@ The Trello integration will require that you install the Chrome extension found 
 
 Track expenses in the Harvest Expense tracking section.
 
-Except for professional development expenses of less than $50, all expenses should be approved by the relevant budget owner PRIOR to being incurred.  E.G. Owen approves Delivery budget expenses, Bill approves Sales/Bizdev budget expenses and Aaron approves marketing expenses.
+Except for professional development expenses of less than $50, all expenses should be approved by the relevant budget owner PRIOR to being incurred. E.G. Owen approves Delivery budget expenses, Bill approves Sales/Bizdev budget expenses and Aaron approves marketing expenses.
 
 For any project or team onsites, your expenses are almost always reimbursable. Your project manager and Judy will provide information about what is or isn’t reimbursable. For example, if you prefer first class for a flight, then that wouldn’t be reimbursable but the amount for an economy class would.
 
-There are mobile apps that make this part of Harvest easy to use, if you'd like to try them:
+There are mobile apps that make this part of Harvest easy to use, if you’d like to try them:
 
 * <https://www.getharvest.com/iphone>
 * <https://www.getharvest.com/android>
@@ -117,8 +117,8 @@ You do NOT need to log entries when the office is closed for Holiday
 
 **Time:**
 
-* 8 hours if it's a full day
-* 4 hours if it's a half day
+* 8 hours if it’s a full day
+* 4 hours if it’s a half day
 * anything under 4 hours should not be recorded
 
 ![Harvest screenshot 11](../../../images/harvest11.png)

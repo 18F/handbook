@@ -14,7 +14,7 @@ Within RG, we encourage you to upload a photo, update your skills, and look at y
 
 2. Go to Resources: <https://civicactions.resourceguruapp.com/resources>
 
-3. Click on your name, then click "Edit" to upload a photo, set your time zone, set your availability, Job Title, Pod, Skills, etc.
+3. Click on your name, then click “Edit” to upload a photo, set your time zone, set your availability, Job Title, Pod, Skills, etc.
 
 ## Expectations around scheduling PTO in RG
 

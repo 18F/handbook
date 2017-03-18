@@ -2,7 +2,7 @@
 
 ## Communication
 
-Questions? [Ask Judy](mailto:<judy.raiten@civicactions.com>).
+Questions? [Ask Judy](mailto:%3Cjudy.raiten@civicactions.com%3E).
 
 ## Billing
 
@@ -14,7 +14,7 @@ A per diem is an allowance that you get each day you travel for business. See [T
 
 ## <a name="mileage"></a>Mileage Reimbursement
 
-CivicActions will reimburse employees at the IRS “business standard mileage rate” for miles traveled by the employee in the employee's car while on CivicActions’ business.
+CivicActions will reimburse employees at the IRS “business standard mileage rate” for miles traveled by the employee in the employee’s car while on CivicActions’ business.
 
 ## <a name="private-automobile"></a>Use of Private Automobile
 

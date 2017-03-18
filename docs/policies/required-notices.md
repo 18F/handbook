@@ -39,13 +39,13 @@ Link to FSLA coverage: <http://www.flsa.com/coverage.html>
 
 ## <a name="complaint-resolution"></a>Complaint Resolution Policy
 
-CivicActions subscribes to an open door policy. If an issue arises that cannot be worked out directly, you are encouraged to bring a particular complaint to your manager for resolution. When matters cannot be handled on an informal basis, CivicActions has established a formal procedure for a fair review of any work related controversy, dispute or misunderstanding, including intimidation, harassment or bullying.  We have a zero tolerance policy concerning those behaviors and, actually, can’t imagine them ever happening here.
+CivicActions subscribes to an open door policy. If an issue arises that cannot be worked out directly, you are encouraged to bring a particular complaint to your manager for resolution. When matters cannot be handled on an informal basis, CivicActions has established a formal procedure for a fair review of any work related controversy, dispute or misunderstanding, including intimidation, harassment or bullying. We have a zero tolerance policy concerning those behaviors and, actually, can’t imagine them ever happening here.
 
 A complaint may be brought by one or more employees concerning any work-related problem where the complaint has not been satisfactorily resolved in an informal manner.
 
-Step 1 - The complaint must be submitted in writing to management or within 3 working days of an incident. A written request for a meeting must be submitted simultaneously. Generally, a meeting will be held within 3 working days of the employee's request. Witnesses will be allowed as necessary. If the problem is not resolved during this meeting management will give the employee a written resolution within 3 working days. If the employee is not satisfied, the employee may proceed to Step 2.
+Step 1 - The complaint must be submitted in writing to management or within 3 working days of an incident. A written request for a meeting must be submitted simultaneously. Generally, a meeting will be held within 3 working days of the employee’s request. Witnesses will be allowed as necessary. If the problem is not resolved during this meeting management will give the employee a written resolution within 3 working days. If the employee is not satisfied, the employee may proceed to Step 2.
 
-Step 2 - If the employee is not satisfied after Step 1, the employee may submit a written request for review of the complaint and Step 2 solution to the CEO or appointed representative. Such a request must be made within 3 working days following the receipt of the Step 1 resolution. The CEO or appointed representative will review the complaint and proposed solution and may call a further meeting to explore the problem. This meeting is to be attended by the employee concerned, the employee's immediate manager, and any other employee of CivicActions whom the aggrieved employee chooses. The CEO or appointed representative will render the final decision within 10 working days after receiving the Step 2 request. The decision will be given to the employee in writing and will become part of the employee's personnel file.
+Step 2 - If the employee is not satisfied after Step 1, the employee may submit a written request for review of the complaint and Step 2 solution to the CEO or appointed representative. Such a request must be made within 3 working days following the receipt of the Step 1 resolution. The CEO or appointed representative will review the complaint and proposed solution and may call a further meeting to explore the problem. This meeting is to be attended by the employee concerned, the employee’s immediate manager, and any other employee of CivicActions whom the aggrieved employee chooses. The CEO or appointed representative will render the final decision within 10 working days after receiving the Step 2 request. The decision will be given to the employee in writing and will become part of the employee’s personnel file.
 
 ## <a name="corrective"></a>Corrective Action
 
@@ -53,7 +53,7 @@ A high level of job performance and ethical behavior is expected of you.
 
 In the event that your job performance does not meet the standards established for your position, you should seek assistance from your manager to attain an acceptable level of performance. If you fail to respond to or fail to make positive efforts toward improvement, corrective action may ensue.
 
-If you violate established Company procedures, guidelines, or exhibit behavior that violates  CivicActions' standards of honesty and integrity or creates an appearance of impropriety, CivicActions may elect to administer disciplinary action.
+If you violate established Company procedures, guidelines, or exhibit behavior that violates CivicActions’ standards of honesty and integrity or creates an appearance of impropriety, CivicActions may elect to administer disciplinary action.
 
 ## <a name="irregularity"></a>Reporting Irregularities
 

@@ -5,7 +5,7 @@
 ## Tools
 
 * Headphones with microphone (for calls)
-* For inspiration from a coworker's setup, see [Our Workspaces](https://trello.com/b/TJsUalpG/our-workspaces)Trello.
+* For inspiration from a coworker’s setup, see [Our Workspaces](https://trello.com/b/TJsUalpG/our-workspaces)Trello.
 
 ## Software
 

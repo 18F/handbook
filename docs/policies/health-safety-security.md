@@ -2,14 +2,14 @@
 
 ## <a name="toc"></a>Table of Contents
 
-* [Workers’ Compensation](#workers-comp) 
-* [Safety](#safety) 
-* [Use of Private Automobile](#private-automobile) 
-* [Drugs and Alcohol](#drugs-alcohol) 
+* [Workers’ Compensation](#workers-comp)
+* [Safety](#safety)
+* [Use of Private Automobile](#private-automobile)
+* [Drugs and Alcohol](#drugs-alcohol)
 
 ## <a name="workers-comp"></a>Workers’ Compensation
 
-CivicActions provides insurance for all work-related injuries or illness. The name of  CivicActions' workers’ compensation insurance carrier and other pertinent information is available. The carrier governs all insurance benefits provided by CivicActions. 
+CivicActions provides insurance for all work-related injuries or illness. The name of CivicActions’ workers’ compensation insurance carrier and other pertinent information is available. The carrier governs all insurance benefits provided by CivicActions.
 
 ## <a name="safety"></a>Safety
 
@@ -23,4 +23,4 @@ If you are involved in an automobile accident while on CivicActions’ business,
 
 ## <a name="drugs-alcohol"></a>Drugs and Alcohol
 
-CivicActions has a zero tolerance policy regarding the use of drugs and alcohol while on the job. That being said, the moderate use of alcohol at Company-approved meetings, with business meals, travel, entertainment, or in an appropriate social setting, is not prohibited by this policy. 
+CivicActions has a zero tolerance policy regarding the use of drugs and alcohol while on the job. That being said, the moderate use of alcohol at Company-approved meetings, with business meals, travel, entertainment, or in an appropriate social setting, is not prohibited by this policy.

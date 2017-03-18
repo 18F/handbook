@@ -13,16 +13,16 @@ Typically the Project Manager will take primary responsibility for creating and/
 Jira has Plan, Work and Report modes, which do more or less what they sound like:
 
 * [Plan mode](https://confluence.atlassian.com/agile063/jira-agile-user-s-guide/using-a-board/using-plan-mode) is for prioritizing tickets and organizing sprints ahead of time.
-* [Work mode](https://confluence.atlassian.com/agile065/jira-agile-user-s-guide/using-a-board/using-work-mode) is for progress during a sprint, for instance moving a ticket from "To Do" to "In Progress" to "Code Review", etc.
+* [Work mode](https://confluence.atlassian.com/agile065/jira-agile-user-s-guide/using-a-board/using-work-mode) is for progress during a sprint, for instance moving a ticket from “To Do” to “In Progress” to “Code Review”, etc.
 * [Report mode](https://confluence.atlassian.com/agile065/jira-agile-user-s-guide/using-a-board/using-report-mode) is for tracking progress and results with a variety of reporting options.
 
-## The Project Manager's role in Jira
+## The Project Manager’s role in Jira
 
 Project Managers start and end sprints, help keep track of overall workloads and ticket priorities, and usually keep close track of which tickets are blocked or unattended.
 
 Project managers at CivicActions typically become very proficient in Jira.
 
-## The engineer's role in Jira
+## The engineer’s role in Jira
 
 Engineers and other staff who work on Jira must keep track of the tickets assigned to them, and make sure to update them appropriately as work takes place.
 
