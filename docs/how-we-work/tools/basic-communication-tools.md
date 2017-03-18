@@ -4,10 +4,10 @@
 
 * [Slack](#slack)
 * [Google Apps](#google-apps)
-  		* [Gmail](#gmail)
-  		* [Google Calendar](#google-calendar)
-  		* [Google Hangouts](#hangouts)
-  		* [Google Docs](#google-docs)
+  * [Gmail](#gmail)
+  * [Google Calendar](#google-calendar)
+  * [Google Hangouts](#hangouts)
+  * [Google Docs](#google-docs)
 * [BlueJeans](#blue-jeans)
 * [Telephone Use](#telephone-use)
 

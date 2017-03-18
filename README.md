@@ -96,7 +96,7 @@ The undersigned acknowledges receipt of CivicActions’ Employee Handbook. The o
 
 * * *
 
-Dated						   Signature
+Dated         Signature
 
 * * *
 

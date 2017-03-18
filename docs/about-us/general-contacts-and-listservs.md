@@ -35,5 +35,5 @@
 ### Projects
 
 * Every project has its own listserv, for example:
-  		\- teach@lists.civicactions.net (includes clients)
-  		\- teach-int@lists.civicactions.net (includes only CivicActions staff)
+    \- teach@lists.civicactions.net (includes clients)
+    \- teach-int@lists.civicactions.net (includes only CivicActions staff)
