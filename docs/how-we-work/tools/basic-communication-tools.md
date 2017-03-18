@@ -50,8 +50,6 @@
 * [Formatting your messages](https://slack.zendesk.com/hc/en-us/articles/202288908-Formatting-your-message)
 * [Creating a snippet](https://slack.zendesk.com/hc/en-us/articles/204145658-Creating-a-Snippet)
 
-[Return to TOC](#toc)
-
 ## <a name="google-apps"></a>Google Apps
 
 ### <a name="gmail"></a>Email
@@ -140,8 +138,6 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 ![Advanced settings](../../../images/sharing2.png "Advanced settings")
 ![Select Link](../../../images/sharing3.png "Select link")
 
-[Return to TOC](#toc)
-
 ## <a name="blue-jeans">BlueJeans</a>
 
 * We use [BlueJeans](https://www.bluejeans.com/) video conferencing software for larger meetings, such as our weekly and montly All Hands Calls. To participate, you may download the BlueJeans app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
@@ -152,5 +148,3 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * Don't rely on speaker feature, but have a headset handy
 * You may need to be called into a Google Hangout if you can't attend the video meeting
 * Sharing your phone number with the client/PO is optional
-
-[Return to TOC](#toc)

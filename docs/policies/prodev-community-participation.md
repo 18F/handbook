@@ -28,8 +28,6 @@ We value Professional Development and Community Participation for a number of re
 
 Below is a first flush implementation which we believe will enable us to address our goals.  We anticipate future revisions, based on retrospective feedback and learnings.
 
-[Return to Table of Contents](#toc)
-
 ## <a name="logistics-policy"></a>Logistics and Policy Information
 
 // NEEDS UPDATING
@@ -52,8 +50,6 @@ No more than 20% of the team can be out on planned vacation & professional devel
 Two (2) months’ notice  is needed on spends above $300. From time to time we may also cap the total monthly professional development spend across the company, dependent on the budget and cash flow outlook for the month.
 
 Purchases under $50 can be made without approval, as long as they support professional development goals.  Receipts and expense sheets should be submitted in the usual way, noting as professional development costs.
-
-[Return to Table of Contents](#toc)
 
 ## <a name="communication"></a>Communication
 

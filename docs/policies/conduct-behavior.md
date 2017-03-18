@@ -13,19 +13,13 @@ Successful operation of CivicActions requires that all of us be respectful of, a
 
 That’s not to say we don’t annoy or otherwise drive each other a little nuts occasionally. It happens. If an issue is not easily resolved, there is a “Complaint Resolution Policy” in “Required Stuff” below.
 
-[Return to Table of Contents](#toc)
-
 ## <a name="confident"></a>Confidentiality
 
 This paragraph is simply intended to alert employees to the need for discretion and is not intended to inhibit normal business communications.  For further information, refer to the “Confidential Information and Inventions Agreement” you signed when you were hired.
 
-[Return to Table of Contents](#toc)
-
 ## <a name="outside-activity"></a>Outside Activities
 
 You may engage in outside employment or personal educational activities during non-working hours, provided that such activities do not interfere with your full-time employment or constitute a conflict of interest.
-
-[Return to Table of Contents](#toc)
 
 ## <a name="code-conduct"></a>Code of Conduct
 
@@ -46,5 +40,3 @@ If you believe someone is violating the code of conduct, please speak to your ma
 
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
 Portions of text derived from the Citizen Code of Conduct and the Geek Feminism Anti-Harassment Policy.
-
-[Return to Table of Contents](#toc)
