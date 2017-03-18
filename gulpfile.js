@@ -4,9 +4,7 @@ var markdownlint = require("markdownlint");
 var tidymarkdown = require("tidy-markdown");
 var map = require('map-stream');
 var remark = require('gulp-remark');
-var html = require('remark-html');
 var lint = require('remark-lint');
-var validatelinks = require('remark-validate-links');
 
 var gulpTidyMarkdown = function(file, cb) {
   var content = tidymarkdown(String(file.contents));
@@ -14,12 +12,14 @@ var gulpTidyMarkdown = function(file, cb) {
   cb(null, file);
 };
 
+// Tidy task - imperfect, but can help if we bring in messy Markdown.
 gulp.task("tidy-markdown", function task() {
   return gulp.src(["**/*.md", "!node_modules/**"])
     .pipe(map(gulpTidyMarkdown))
     .pipe(gulp.dest('.'));
 });
 
+// Markdownlint - not used since remark seems better, but leaving the task in place for now.
 gulp.task("markdownlint", function task() {
   return gulp.src(["**/*.md", "!node_modules/**"], { "read": false })
     .pipe(through2.obj(function obj(file, enc, next) {
@@ -43,14 +43,16 @@ gulp.task("markdownlint", function task() {
     }))
 });
 
+// Remark is our primary checker and fixer.
 gulp.task('remark', function () {
   return gulp.src(["**/*.md", "!node_modules/**"])
     .pipe(remark(
       { 
+        "quiet": true,
+        "streamError": process.stdout,
         "color": true
-      }
-    ).use(lint).use(validatelinks))
+      }))
    .pipe(gulp.dest('.'));
 });
 
-gulp.task('default', ['markdownlint', 'remark']);
+gulp.task('default', ['remark']);
