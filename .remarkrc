@@ -7,6 +7,7 @@
   },
   "plugins": [
       "remark-validate-links",
+      "remark-normalize-headings",
       "remark-lint-final-newline",
       "remark-lint-hard-break-spaces",
       "remark-lint-heading-increment",

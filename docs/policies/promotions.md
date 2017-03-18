@@ -1,6 +1,6 @@
 * * *
 
-## title: Promotions
+# title: Promotions
 
 ## General Schedule grade level increase process
 

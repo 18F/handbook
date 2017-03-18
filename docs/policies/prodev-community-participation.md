@@ -1,12 +1,12 @@
 # Professional Development and Community Participation
 
-# <a name="toc"></a>Table of Contents
+## <a name="toc"></a>Table of Contents
 
 * [Background - The Why](#background-why)
 * [Logistics & Policy Information](#logistics-policy)
 * [Communication](#communication)
 
-## <a name="background-why"></a>Background - the Why
+### <a name="background-why"></a>Background - the Why
 
 CivicActions set a goal of developing individual Professional Development plans for all team members in early 2014. We also set a goal of strengthening Community Participation in 2014 and leveraging the intersection of participation and Marketing ([See 5% Presentation](https://docs.google.com/presentation/d/1GuEXsq8m80Sl9Jk2GE_b2oKsk38F11Vc5m7B8M8rGaA/edit#slide=id.g235778c_0_2)).
 We value Professional Development and Community Participation for a number of reasons:
@@ -28,7 +28,7 @@ We value Professional Development and Community Participation for a number of re
 
 Below is a first flush implementation which we believe will enable us to address our goals. We anticipate future revisions, based on retrospective feedback and learnings.
 
-## <a name="logistics-policy"></a>Logistics and Policy Information
+### <a name="logistics-policy"></a>Logistics and Policy Information
 
 // NEEDS UPDATING
 
@@ -51,6 +51,6 @@ Two (2) months’ notice is needed on spends above $300. From time to time we ma
 
 Purchases under $50 can be made without approval, as long as they support professional development goals. Receipts and expense sheets should be submitted in the usual way, noting as professional development costs.
 
-## <a name="communication"></a>Communication
+### <a name="communication"></a>Communication
 
 * We have a [#prodev](https://civicactions.slack.com/messages/prodev) Slack channel for prodev-related communication.

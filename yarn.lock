@@ -1340,6 +1340,12 @@ mdast-comment-marker@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/mdast-comment-marker/-/mdast-comment-marker-1.0.1.tgz#f0f26c33fc5d81e41d9ec36ff4f066bb50d217fb"
 
+mdast-normalize-headings@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/mdast-normalize-headings/-/mdast-normalize-headings-0.3.0.tgz#d84583bfb1add4f0b35924558a515afee6f66f75"
+  dependencies:
+    unist-util-visit "^1.0.0"
+
 mdast-util-compact@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/mdast-util-compact/-/mdast-util-compact-1.0.0.tgz#4c94dedfe35932d5457f29b650b330fdc73e994a"
@@ -2123,6 +2129,12 @@ remark-message-control@^4.0.0:
     trim "0.0.1"
     unist-util-visit "^1.0.0"
     vfile-location "^2.0.0"
+
+remark-normalize-headings@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/remark-normalize-headings/-/remark-normalize-headings-0.3.0.tgz#a386d5de4a295356f193d4120c05f197c5a16616"
+  dependencies:
+    mdast-normalize-headings "^0.3.0"
 
 remark-parse@^3.0.0:
   version "3.0.0"

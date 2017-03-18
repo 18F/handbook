@@ -50,6 +50,7 @@
     "remark-lint-table-pipe-alignment": "^1.0.0",
     "remark-lint-table-pipes": "^1.0.0",
     "remark-lint-unordered-list-marker-style": "^1.0.0",
+    "remark-normalize-headings": "^0.3.0",
     "remark-validate-links": "^6.0.0",
     "tidy-markdown": "2.0.4"
   }
