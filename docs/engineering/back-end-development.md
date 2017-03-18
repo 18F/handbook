@@ -132,13 +132,13 @@
 Don't do this:
 
 ````foreach ($types as $type) {
-                        if ($type == 'blog_post') {
-                          continue;
-                        }
-                        print $type;
-                      } ```
+                            if ($type == 'blog_post') {
+                              continue;
+                            }
+                            print $type;
+                          } ```
 
-                    Instead do this:
+                        Instead do this:
 ````
 
 foreach ($types as $type) {

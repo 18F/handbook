@@ -28,13 +28,13 @@
     \- Example:
 
 ````css:
-                     base: css/base/normalize.css css/base/elements.css
-                     layout: css/layout/layout.css css/layout/layout--medium.css css/layout/layout--wide.css
-                     component: css/components/button.css css/components/dropdown.css css/components/pagination.css css/components/tabs.css …
-                     theme: css/theme/theme--light.css css/theme/theme--dark.css ```
+                         base: css/base/normalize.css css/base/elements.css
+                         layout: css/layout/layout.css css/layout/layout--medium.css css/layout/layout--wide.css
+                         component: css/components/button.css css/components/dropdown.css css/components/pagination.css css/components/tabs.css …
+                         theme: css/theme/theme--light.css css/theme/theme--dark.css ```
 
-                    * We write modular CSS that supports design components.
-                    * Classes should be named to reflect the intent and purpose of the design element they represent. Eg. instead of using `button--red`, we can ask "Why is the button red?" and name it `notification__button` .
+                        * We write modular CSS that supports design components.
+                        * Classes should be named to reflect the intent and purpose of the design element they represent. Eg. instead of using `button--red`, we can ask "Why is the button red?" and name it `notification__button` .
 ````
 
 /* Component Rules */
