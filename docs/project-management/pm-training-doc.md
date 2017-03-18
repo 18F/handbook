@@ -2,42 +2,44 @@
 
 ## Table of Contents
 
-- [New PM Instructions](#new-pm)
-- [Current PM Instructions](#current-pm)
-- [Shadowing Calls](#shadowing-calls)
-- [Logging Internal Meetings](#internal-meetings)
-- [Resourcing](#resourcing)
-- [Scheduling Meetings](#scheduling-meetings)
-- [Timeboxing](#timeboxing)
-- [Helping Teams Estimate](#estimating)
-- [Project Documentation](#project-documentation)
-- [Typical PM Project Deliverables](#project-deliverables)
-- [PM Tools](#pm-tools)
+* [New PM Instructions](#new-pm)
+* [Current PM Instructions](#current-pm)
+* [Shadowing Calls](#shadowing-calls)
+* [Logging Internal Meetings](#internal-meetings)
+* [Resourcing](#resourcing)
+* [Scheduling Meetings](#scheduling-meetings)
+* [Timeboxing](#timeboxing)
+* [Helping Teams Estimate](#estimating)
+* [Project Documentation](#project-documentation)
+* [Typical PM Project Deliverables](#project-deliverables)
+* [PM Tools](#pm-tools)
 
 ## <a name="new-pm"></a>New PM Instructions
+
 * New PMs should shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.  
-* New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like _"No project checkin. Here observing. Balance 8. I'll pass to Steve"_
+* New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like *"No project checkin. Here observing. Balance 8. I'll pass to Steve"*
 * New PM can practice taking meeting notes so they can compare their own notes from a meeting to the notes the PM actually shares with the team & client. 
 
 ## <a name="current-pm"></a>Current PM Instructions
+
 * All current PMs to look at their schedules and send invites to new PMs
 * Current PMs to explain expectations of new PM roles on shadowing calls
 * Current PMs to explain to team the role of the new PM on the calls (generally just observing and shouldn't be called upon unless they are actually part of that project)
-* Current PMs to supply note templates should they exist (_ie scrum note template_)
+* Current PMs to supply note templates should they exist (*ie scrum note template*)
 
 ## <a name="shadowing-calls"></a>Shadowing Calls
+
 * PMs to shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.  
 * All current PMs to look at their schedules and send invites to new PMs
 * Current PMs to explain expectations of new PM roles on shadowing calls
 * Current PMs to explain to team the role of the new PM on the calls (generally just observing and shouldn't be called upon unless they are actually part of that project)
-* New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like _"No project checkin. Here observing. Balance 8. I'll pass to Steve"_
-* Current PMs to supply note templates should they exist (_ie scrum note template_)
+* New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like *"No project checkin. Here observing. Balance 8. I'll pass to Steve"*
+* Current PMs to supply note templates should they exist (*ie scrum note template*)
 * New PM can practice taking meeting notes so they can compare their own notes from a meeting to the notes the PM actually shares with the team & client. 
 
 ## <a name="internal-meetings"></a>Logging Internal Meetings
 
 For non-billable internal meetings, PMs should bill as CA > Delivery > Project Management.
-
 
 ![alt text](../images/pm-ahc.png "PM billing Delivery")
 
@@ -84,8 +86,8 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 
 ### Additional Resources
 
-- http://scrumtrainingseries.com/SprintPlanningMeeting/SprintPlanningMeeting.htm
-- https://www.planningpoker.com/
+* <http://scrumtrainingseries.com/SprintPlanningMeeting/SprintPlanningMeeting.htm>
+* <https://www.planningpoker.com/>
 
 ## <a name="project-documentation"></a>Project Documentation
 
@@ -116,5 +118,4 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 * Slack (client-facing and internal channels)
 * [Creating Team Accounts](https://trello.com/c/L6kVty1C/132-creating-team-accounts) REPLACE WITH GITHUB LINK
 
-
-See https://trello.com/c/scRXdfQ5/1-project-manager-training-1-5 for some additional links REPLACE WITH GITHUB LINK
+See <https://trello.com/c/scRXdfQ5/1-project-manager-training-1-5> for some additional links REPLACE WITH GITHUB LINK

@@ -9,11 +9,13 @@ Links to websites we use regularly.
 * [Team Roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit)
 
 ## Social Media
+
 * [Twitter](https://twitter.com/CivicActions)
 * [Facebook](https://www.facebook.com/CivicActions/)
 * [LinkedIn](https://www.linkedin.com/company-beta/54684/)
 
 ## Tools
+
 * [Balsamiq](https://www.mybalsamiq.com/login): for wireframing
 * [Cross Browser Testing](https://crossbrowsertesting.com): for cross browser testing
 * [GitLab](https://git.civicactions.net)

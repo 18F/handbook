@@ -1,13 +1,12 @@
 # CivicActions' Common Vocabulary
 
-
 * **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements.
 * **Agile Coach** - Individual who teaches or mentors the teams who implement Agile. The goal of an Agile coach is to help teams to produce the best results by practicing Agile.
 * **[Agile Manifesto](http://agilemanifesto.org/)** - Individuals and interactions over processes and tools. {link}
-Working software over comprehensive documentation
-Customer collaboration over contract negotiation
-Responding to change over following a plan
-That is, while there is value in the items on the right, we value the items on the left more.
+  Working software over comprehensive documentation
+  Customer collaboration over contract negotiation
+  Responding to change over following a plan
+  That is, while there is value in the items on the right, we value the items on the left more.
 * **Agile Process** - Since Agile is “people and interactions over processes and tools”  we prefer to talk about our Agile Practices. To us, Process feels more static, and loses the important “inspect and adapt” aspect of how we work.  However, we acknowledge that the term Agile Process is used within the Agile community in a way that it is interchangeable with Agile Practice.
 * **Agile Methodology** - See “Agile Process”. Like Process, Methodology feels static, and loses the important “inspect and adapt” aspect of how we work. The term is used within the Agile community, though, in a way that is interchangeable with Agile Process and Agile Practices.
 * **Agile Practices** - Represents our commitment to “people and interactions over processes and tools” by using the Agile tenets and placing a high value on the “inspect and adapt” aspect of how we work.
@@ -61,11 +60,13 @@ That is, while there is value in the items on the right, we value the items on t
 * **Work in Progress (WIP)** -  a partially finished task or ticket.  Limiting WIP items increases the velocity that an item passes through a system.
 
 Resources
+
 * **[Agile Alliance](http://www.agilealliance.org/)** - The Agile Alliance is a nonprofit organization with global membership, committed to advancing [Agile development principles and practices](http://www.agilealliance.org/the-alliance/the-agile-manifesto/).  Agile Alliance supports those who explore and apply Agile principles and practices in order to make the software industry more productive, humane and sustainable.
 * **[International Consortium of Agile (ICAgile)](http://www.icagile.com/)** - An organization founded to drive high-quality, credible Agile education that teaches professionals to approach Agile in any context, rather than training to follow a specific methodology (Scrum, XP, etc).
 * **[Scrum Alliance](https://www.scrumalliance.org/)** - a non-profit organization offering resources, certifications, training, and support for individuals and organizations in Scrum.
 
 Words needing definitions
+
 * **Validated Learning** -
 * **Hypothesis** -
 * **Success Metric** - (or some other way of talking about metrics… such as the Lean distinction between vanity and actionable metrics)
