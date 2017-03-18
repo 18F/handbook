@@ -4,7 +4,7 @@
 
 //Something about Drupal here...
 
-Broadly speaking, open source software is software whose inner workings are made fully public and distributed freely to the community. As an open source team, the software CivicActions writes is made public (mostly at https://github.com/civicactions), and we welcome anyone to use that software, copy it, and change it.
+Broadly speaking, open source software is software whose inner workings are made fully public and distributed freely to the community. As an open source team, the software CivicActions writes is made public (mostly at <https://github.com/civicactions>), and we welcome anyone to use that software, copy it, and change it.
 
 Generally (and at CivicActions), people publishing open source software tend to be open to receiving public contributions. So, members of the public may copy our software, modify it, and then submit their modifications back to us for potential inclusion in the original.
 
@@ -13,7 +13,6 @@ Generally (and at CivicActions), people publishing open source software tend to 
 //
 
 Everything we as a team do should be public and available for collaboration. An open source project isn’t just code - think of it as many forms of contribution working together, including documentation, support, design, and code.
-
 
 ### Would any personally identifiable information (PII) live in open source software?
 

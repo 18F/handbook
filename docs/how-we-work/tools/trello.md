@@ -10,7 +10,7 @@ If you like to live on the edge, skip this reading, but promise to come back in 
 
 Trello is a collaborative task and project management tool that we use extensively at CivicActions. CivicActions has a free [team Trello account](https://trello.com/civicactions) that we utilize for both internal and client projects.
 
-Trello is very easy to use, and a robust featureset whose intuitve UI means the features don't get in the way of getting work done.  It is well documented at https://trello.com/guide, but you probably won't need to read much documentation. 
+Trello is very easy to use, and a robust featureset whose intuitve UI means the features don't get in the way of getting work done.  It is well documented at <https://trello.com/guide>, but you probably won't need to read much documentation. 
 
 ## The Basics (Naming Conventions and the general idea).
 
@@ -40,7 +40,7 @@ Trello's business model is based on people paying for powerups, which are additi
 * Voting Powerup: this is a great tool for taking straw polls on priorities.  We often use the voting powerup on retrospectives to determine consensus on priorities.  
 * Calendar Powerup: if you assign due dates to cards, the calendar powerup adds a link to the header of your Trello board that displays all due dates in calendar format. It's mainly useful for very tight timelines, but not typically for Sprint-based work where most cards share the same deadline. 
 
-A full list of powerups is available at https://trello.com/power-ups
+A full list of powerups is available at <https://trello.com/power-ups>
 
 #### Extensions
 
@@ -50,7 +50,7 @@ A full list of powerups is available at https://trello.com/power-ups
 * [Card Color Titles for Trello](https://chrome.google.com/webstore/detail/card-color-titles-for-tre/hpmobkglehhleflhaefmfajhbdnjmgim?hl=en) reminds you what the coloured labels actually mean.  This is particularly import if someone has gone all crazy with labels.  Generally, it's good to keep the the number of labels under 8.  But the card color titles are still useful--especially because the label colours may mean something different on each board.  
 * [Boards for Trello](http://paulferrett.com/boards-for-trello/) adds a browser button to access any boards quickly.  Personally, i prefer using my browser autocomplete feature (Ctrl-L to access your address bar, then T then Tab will turn your address autocomplete into a Trello search tool, with the most accessed Trello links first per your browser history. 
 
-## Slack add-ons. 
+## Slack add-ons.
 
 The Trello integration for Slack is a great add-on for providing clickable summaries of Trello cards within Slack conversations.  Use it!  It needs to be added/configured for each Slack channel, by typing `/trello link [URL of trello board]`. To use it, just copy/paste the URL of a card into a Slack channel. Type `/trello help` in Slack to get some other ideas, or check out [Trello's help page for Slack](http://help.trello.com/article/1049-slack-app)
 
@@ -62,7 +62,7 @@ The Trello integration for Slack is a great add-on for providing clickable summa
 * You can subscribe to a card (or even a whole board) without assigning yourself to that card.  This will generate a lot of notifications, so use this wisely. 
 * Take screenshots of Trello Boards before and after Sprints (you'll probably have to zoom WAY out in your browser to see the whole thing). 
 * The Activity listin the right sidebar is great for getting the latest updates.
-* We have a set of Templates for how to set up Trello boards (search for Template at https://trello.com/civicactions).
+* We have a set of Templates for how to set up Trello boards (search for Template at <https://trello.com/civicactions>).
 
 ## Tips and tricks
 

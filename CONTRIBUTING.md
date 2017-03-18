@@ -14,7 +14,7 @@ You'll need a Github account, and to be added to the CivicActions Team ([instruc
 
 Go to a page, click edit, and make your changes, using [markdown](https://guides.github.com/features/mastering-markdown/).  Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
-When you save it ("make a commit"), there are three fields to fill out. _All of these are optional_, with default values, and in most cases it's fine to leave the defaults.
+When you save it ("make a commit"), there are three fields to fill out. *All of these are optional*, with default values, and in most cases it's fine to leave the defaults.
 
 * **The commit title**: By default it is something like "Update [filename]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
 * **Extended description**: Explain your changes, if you wish. Useful if you need more than the 50 characters available in the title.
@@ -28,7 +28,7 @@ After you commit, you will be asked if you want to create a new pull request wit
 
 Most of the time you don't need to fill anything out, just click "Create pull request".  
 
-Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg https://github.com/CivicActions/handbook/tree/[your-branch-name].  You can also find this branch from the handbook homepage by clicking on [branches](https://github.com/CivicActions/handbook/branches).   Then, edit another file (or the same file you just edited) and commit it.  This time, Github will know that you want to commit to the same branch as you created during your first commit.  
+Or, if you want to make other changes on the same branch and have it reviewed at the same time as the commit you just made, don't create the PR quite yet. Navigate to the branch you created in your first commit (eg <https://github.com/CivicActions/handbook/tree/[your-branch-name]>.  You can also find this branch from the handbook homepage by clicking on [branches](https://github.com/CivicActions/handbook/branches).   Then, edit another file (or the same file you just edited) and commit it.  This time, Github will know that you want to commit to the same branch as you created during your first commit.  
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.  
 
@@ -58,7 +58,7 @@ If you're not sure if you should merge something, ask for a second opinion in [#
 
 ## Styles
 
-This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should exemplify best practices with regard to content. Handbook content should be welcoming, personable, and free from jargon. Markdown formatting should be compliant with https://github.com/mivok/markdownlint/blob/master/docs/RULES.md.
+This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should exemplify best practices with regard to content. Handbook content should be welcoming, personable, and free from jargon. Markdown formatting should be compliant with <https://github.com/mivok/markdownlint/blob/master/docs/RULES.md>.
 
 ## Public domain
 
