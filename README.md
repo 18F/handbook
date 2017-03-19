@@ -1,5 +1,7 @@
 # EMPLOYEE HANDBOOK
 
+[![Build Status](https://travis-ci.org/CivicActions/handbook.svg?branch=master)](https://travis-ci.org/CivicActions/handbook)
+
 #### CivicActions, Inc.
 
 2625 Alcatraz Avenue, Suite 320
