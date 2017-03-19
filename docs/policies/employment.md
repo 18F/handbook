@@ -12,13 +12,13 @@
 
 ## <a name="trinet"></a>TriNet
 
-CivicActions has a partnership with TriNet, which is a well established Professional Employer Organization. The relationship with TriNet provides us with a selection of benefits that are typically only available to very large organizations. TriNet offers the simplicity of a single solution for outsourcing benefits, payroll, and human resources support. The company’s online and in-person services allow customers throughout the United States and Canada to streamline their business, gain enterprise-level resources for managers and employees, and focus on strategy rather than administration. Founded in 1988, TriNet specializes in offering secure, paperless HR transactions to Internet-enabled workforces.
+CivicActions has a partnership with TriNet, which is a well established Professional Employer Organization. The relationship with TriNet provides us with a selection of benefits that are typically only available to very large organizations. TriNet offers the simplicity of a single solution for outsourcing benefits, payroll, and human resources support. The company's online and in-person services allow customers throughout the United States and Canada to streamline their business, gain enterprise-level resources for managers and employees, and focus on strategy rather than administration. Founded in 1988, TriNet specializes in offering secure, paperless HR transactions to Internet-enabled workforces.
 
 CivicActions has our 401k through SocialK, which provides us with Environment, Social and Governance screened investment options for our retirement plans.
 
 ## <a name="equal-opportunities"></a>Equal Employment Opportunities
 
-CivicActions provides equal employment opportunities to “all qualified people”. What that means can be found under “Required Stuff” below.
+CivicActions provides equal employment opportunities to "all qualified people". What that means can be found under "Required Stuff" below.
 
 ## <a name="background-check"></a>Background Checks
 
@@ -26,7 +26,7 @@ As casual as we are in many areas, CivicActions is a responsible, successful, fo
 
 ## <a name="immigration-law"></a>Immigration Law Compliance
 
-All CivicActions’ employees hired to work in the U.S. need to complete a Form I-9 and produce proof of identity and eligibility to work. These documents will be kept in your confidential electronic personnel file and we will need them as soon as your Employment Agreement is signed.
+All CivicActions' employees hired to work in the U.S. need to complete a Form I-9 and produce proof of identity and eligibility to work. These documents will be kept in your confidential electronic personnel file and we will need them as soon as your Employment Agreement is signed.
 
 ## <a name="employment-classification"></a>Employment Classifications
 
@@ -36,7 +36,7 @@ Regular Full-Time Employee: An employee who is scheduled to work no less than 40
 
 Regular Part-Time Employee: An employee who is scheduled to work less than 40 hours in a workweek. Regular part-time employees working at least 30 hours a week are eligible for all employment benefits offered by CivicActions.
 
-Whether an employee is exempt or non-exempt depends on specific, statutory tests. See “Required Stuff” below. For our purposes, exempt employees don’t get overtime and non-exempt do.
+Whether an employee is exempt or non-exempt depends on specific, statutory tests. See "Required Stuff" below. For our purposes, exempt employees don't get overtime and non-exempt do.
 
 ## <a name="personrecord"></a>Personnel (and Personal) Records
 

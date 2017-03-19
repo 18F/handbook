@@ -2,7 +2,7 @@
 
 ## <a id="leadership">Leadership</a>
 
-The Marketing team maintains CivicActions’s Twitter page and presence on social media.
+The Marketing team maintains CivicActions's Twitter page and presence on social media.
 
 ## <a id="communication">Communication</a>
 

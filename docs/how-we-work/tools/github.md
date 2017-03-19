@@ -6,7 +6,7 @@ GitHub is a publicly available, free service which hosts the source code for ten
 
 ## Setting Up Your Account
 
-Many CivicActions employees will already have a GitHub account. If you don’t have one yet, now’s a great time to create one! Follow these steps:
+Many CivicActions employees will already have a GitHub account. If you don't have one yet, now's a great time to create one! Follow these steps:
 
 1. Sign up with a free profile on <https://github.com/join>.
 
@@ -15,13 +15,13 @@ a. As always, please use a unique, secure password.
 b. Use a personal email account, not your CivicActions one, so that your GitHub account will be portable.
 
 1. Ask a coworker to add you to the [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team).
-2. Find out the details of the repositories you’ll be working with.
+2. Find out the details of the repositories you'll be working with.
 3. Good work! Now set up two-factor authentication: <https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/>
 
 ## Setting up Git and a local repository
 
-Unless you are only ever going to be editing a few handbook pages the “easy” way (per [CONTRIBUTING.md](../../../CONTRIBUTING.md)), you’ll want to set up a git workflow locally and clone a local copy of the repository you’re working with. You can find instructions at <https://help.github.com/articles/set-up-git/> and <https://git-scm.com/book/en/v2/Getting-Started-Git-Basics>.
+Unless you are only ever going to be editing a few handbook pages the "easy" way (per [CONTRIBUTING.md](../../../CONTRIBUTING.md)), you'll want to set up a git workflow locally and clone a local copy of the repository you're working with. You can find instructions at <https://help.github.com/articles/set-up-git/> and <https://git-scm.com/book/en/v2/Getting-Started-Git-Basics>.
 
-If you’d prefer not to use command-line tools, you may want to use Git Desktop: <https://desktop.github.com/>.
+If you'd prefer not to use command-line tools, you may want to use Git Desktop: <https://desktop.github.com/>.
 
 Many projects will have special requirements for local repositories, especially for engineers. Ask your coworkers for help!

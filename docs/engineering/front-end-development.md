@@ -24,14 +24,14 @@
   * **Layout** — macro arrangement of a web page, including any grid systems.
   * **Component** — discrete, reusable UI elements.
   * **State** — styles that deal with client-side changes to components.
-  * **Theme** — purely visual styling (“look-and-feel”) for a component.
+  * **Theme** — purely visual styling ("look-and-feel") for a component.
   * Example:
 
 
 ```
 base: css/base/normalize.css css/base/elements.css
 layout: css/layout/layout.css css/layout/layout--medium.css css/layout/layout--wide.css
-component: css/components/button.css css/components/dropdown.css css/components/pagination.css css/components/tabs.css …
+component: css/components/button.css css/components/dropdown.css css/components/pagination.css css/components/tabs.css ...
 theme: css/theme/theme--light.css css/theme/theme--dark.css
 ```
 
@@ -45,7 +45,7 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
 .component-name**sub-object–variant /* this configuration should be uncommon \*/
 
 /\* Layout Rules */
-.layout-layout-method /* e.g. ‘.layout-container’ \*/
+.layout-layout-method /* e.g. '.layout-container' \*/
 .grid-\*
 
 /\*\*
@@ -53,15 +53,15 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
 * State Classes
 * * These are always applied via JavaScript, and describe a non-default state.
     */
-    .is-state /* e.g. ‘.is-active’ \*/
+    .is-state /* e.g. '.is-active' \*/
 
 /\*\*
 
 * Functional JavaScript Hooks
 * * When querying or manipulating the DOM from JavaScript, prefer dedicated
 * classes not used for styling (or the id attribute).
-* If using classes, prefix them with ‘js-’ to mark them for JS use.
-* These ‘js-’ classes should not appear in stylesheets.
+* If using classes, prefix them with 'js-' to mark them for JS use.
+* These 'js-' classes should not appear in stylesheets.
   */
   .js-behaviour-hook /* e.g. .js-slider, .js-dropdown \*/\`\`\`
 
@@ -70,9 +70,9 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
 * We avoid reliance on HTML structure. CSS should define the appearance of an element anywhere & everywhere it appears (regardless of its position in the DOM). (eg. we avoid `.sidebar > .component` or `ul > li > a`. This is easy to break and hard to reuse.
 * We prefer the child selector `component__list > some__class` over the descendant selector `component__list some__class`, to avoid unintentionally affecting nested elements. (We can also avoid this by naming elements in a component with the BEM syntax).
 * Class names should use full words rather than abbreviations. Eg. .buttons instead of .btn
-* We avoid generic class names eg. `.widget .title`. “Class names should communicate useful information to developers.” – Nicolas Gallagher
+* We avoid generic class names eg. `.widget .title`. "Class names should communicate useful information to developers." – Nicolas Gallagher
 * We avoid using the !important selector except as a last resort.
-* We avoid using ids to style elements, as id’s should be reserved for Javascript (except in the case of JS-related classes , or anchor tags).
+* We avoid using ids to style elements, as id's should be reserved for Javascript (except in the case of JS-related classes , or anchor tags).
 * We prefix classes used for Javascript with `.js-class`
 
 ## <a name="javascript"></a>Javascript
@@ -110,14 +110,14 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
 * We use <http://crossbrowsertesting.com/> (credentials on civicactions.net) to test.
 * We do both specific, interactive cross-browser testing, as well as automated broad tests of all major sections and page types.
 * If a client complains about UI problems, we get details on their system setup, including screen resolution and installed character sets.
-* We aim to have a HTML and CSS layout that works cross-browser “naturally” as much as possible, keeping browser specific tweaks as exceptions.
+* We aim to have a HTML and CSS layout that works cross-browser "naturally" as much as possible, keeping browser specific tweaks as exceptions.
 * We test to see that CSS aggregation is enabled: IE has limit on the number of stylesheets that can load.
 * We avoid position: absolute
-* IE typically requires more explicit “position” statements.
+* IE typically requires more explicit "position" statements.
 * Negative margins frequently cause trouble.
 * Use IE background position values for best compatibility.
 * Take care to include browser specific prefixes where needed <http://caniuse.com/>
-* We pretend IE &lt; 8 doesn’t exist.
+* We pretend IE &lt; 8 doesn't exist.
 * We use respond.js when necessary to make older browers respect CSS3. <https://github.com/scottjehl/Respond>
 * We use autoprefixes.
 

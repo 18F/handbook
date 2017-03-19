@@ -47,7 +47,7 @@ New team members will have a 3-month (90 day) wait period before becoming eligib
 
 No more than 20% of the team can be out on planned vacation & professional development events at a time. We are assessing if the % should be per department or company-wide.
 
-Two (2) months’ notice is needed on spends above $300. From time to time we may also cap the total monthly professional development spend across the company, dependent on the budget and cash flow outlook for the month.
+Two (2) months' notice is needed on spends above $300. From time to time we may also cap the total monthly professional development spend across the company, dependent on the budget and cash flow outlook for the month.
 
 Purchases under $50 can be made without approval, as long as they support professional development goals. Receipts and expense sheets should be submitted in the usual way, noting as professional development costs.
 

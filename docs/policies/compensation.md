@@ -10,7 +10,7 @@
 
 ## <a name="pay-period"></a>Pay Periods
 
-The standard workweek for CivicActions is 12:01 a.m. Sunday through midnight the following Saturday. This is only important if you’re a non-exempt employee who is eligible for overtime.
+The standard workweek for CivicActions is 12:01 a.m. Sunday through midnight the following Saturday. This is only important if you're a non-exempt employee who is eligible for overtime.
 
 We have semi-monthly pay days. The first pay period is from the first through the fifteenth of the month and the second from the sixteenth through the end of the month.
 
@@ -30,10 +30,10 @@ There are no schedules or guaranteed cost of living or salary adjustments.
 
 ## <a name="mileage"></a>Mileage Reimbursement
 
-CivicActions will reimburse employees at the IRS “business standard mileage rate” for miles traveled by the employee in the employee’s car while on CivicActions’ business.
+CivicActions will reimburse employees at the IRS "business standard mileage rate" for miles traveled by the employee in the employee's car while on CivicActions' business.
 
 ## <a name="business-expense"></a>Business-Related Expenses
 
-DON’T WE USE HARVEST FOR THIS NOW?
+DON'T WE USE HARVEST FOR THIS NOW?
 CivicActions will timely reimburse business-related out-of-pocket expenses as long as you submit a receipt. For multiple expenses, e.g., a business trip, we also will need an expense report which can be found at:
 <https://docs.google.com/a/civicactions.net/spreadsheet/ccc?key=0Agj8-vwh7VxfdEF6Nl9WYWlFUnJ2WExycmRzWHBhOXc&usp=drive_web#gid=0>

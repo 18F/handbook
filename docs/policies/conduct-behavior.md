@@ -9,13 +9,13 @@
 
 ## <a name="general-guideline"></a>General Guidelines
 
-Successful operation of CivicActions requires that all of us be respectful of, and open with, one another. This is a community of trust and it needs straight-forward, non-critical dialogue to accomplish its goals. There’s little that can’t be resolved with honest appraisal and an attitude of cooperation. We don’t compete here, and we try really hard to avoid back-biting and complaining.
+Successful operation of CivicActions requires that all of us be respectful of, and open with, one another. This is a community of trust and it needs straight-forward, non-critical dialogue to accomplish its goals. There's little that can't be resolved with honest appraisal and an attitude of cooperation. We don't compete here, and we try really hard to avoid back-biting and complaining.
 
-That’s not to say we don’t annoy or otherwise drive each other a little nuts occasionally. It happens. If an issue is not easily resolved, there is a “Complaint Resolution Policy” in “Required Stuff” below.
+That's not to say we don't annoy or otherwise drive each other a little nuts occasionally. It happens. If an issue is not easily resolved, there is a "Complaint Resolution Policy" in "Required Stuff" below.
 
 ## <a name="confident"></a>Confidentiality
 
-This paragraph is simply intended to alert employees to the need for discretion and is not intended to inhibit normal business communications. For further information, refer to the “Confidential Information and Inventions Agreement” you signed when you were hired.
+This paragraph is simply intended to alert employees to the need for discretion and is not intended to inhibit normal business communications. For further information, refer to the "Confidential Information and Inventions Agreement" you signed when you were hired.
 
 ## <a name="outside-activity"></a>Outside Activities
 
@@ -31,7 +31,7 @@ Be mindful. Having a diverse team means that we will have different opinions, vi
 
 We follow the platinum rule at CivicActions. The golden rule is to do to others as you would have them do to you. The platinum rule is to do to others as they would like to have done to them. This requires mindful attention of each person and respect for their culture, background, and vulnerabilities.
 
-Be friendly and welcoming. As our team grows, we are more likely to have peers that we don’t directly work with. We all have an opportunity to be friendly in other arenas to get to know each other, including retreats, pod calls, and social slack channels. Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the company.
+Be friendly and welcoming. As our team grows, we are more likely to have peers that we don't directly work with. We all have an opportunity to be friendly in other arenas to get to know each other, including retreats, pod calls, and social slack channels. Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the company.
 
 Be considerate and respectful. We all have a voice and some of us happen to be louder than others.
 When in a discussion or sharing a thought, think before you speak, and give others a chance to be heard. When disagreeing about something, focus on resolving issues constructively and ask for help when needed.

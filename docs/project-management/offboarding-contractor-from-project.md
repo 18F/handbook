@@ -2,7 +2,7 @@
 
 When offboarding a contractor from a project:
 
-* The Project Manager should use an “Offboard Card” after the contractor’s work is completed to ensure the contractor is properly removed from CivicActions tools, files, and the project. An offboard card template is [here](https://trello.com/c/sXpzezNI/60-offboard-template) (prepare this card at the time of contractor hire so you can track all tools to which they are added).
+* The Project Manager should use an "Offboard Card" after the contractor's work is completed to ensure the contractor is properly removed from CivicActions tools, files, and the project. An offboard card template is [here](https://trello.com/c/sXpzezNI/60-offboard-template) (prepare this card at the time of contractor hire so you can track all tools to which they are added).
 * At a minimum, you will need to remove the contractor from:
 * All Google Docs tow which they have access
 * All Trello boards

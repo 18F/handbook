@@ -17,14 +17,14 @@
 ## <a name="new-pm"></a>New PM Instructions
 
 * New PMs should shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.
-* New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like *“No project checkin. Here observing. Balance 8. I’ll pass to Steve”*
+* New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like *"No project checkin. Here observing. Balance 8. I'll pass to Steve"*
 * New PM can practice taking meeting notes so they can compare their own notes from a meeting to the notes the PM actually shares with the team & client.
 
 ## <a name="current-pm"></a>Current PM Instructions
 
 * All current PMs to look at their schedules and send invites to new PMs
 * Current PMs to explain expectations of new PM roles on shadowing calls
-* Current PMs to explain to team the role of the new PM on the calls (generally just observing and shouldn’t be called upon unless they are actually part of that project)
+* Current PMs to explain to team the role of the new PM on the calls (generally just observing and shouldn't be called upon unless they are actually part of that project)
 * Current PMs to supply note templates should they exist (*ie scrum note template*)
 
 ## <a name="shadowing-calls"></a>Shadowing Calls
@@ -32,8 +32,8 @@
 * PMs to shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.
 * All current PMs to look at their schedules and send invites to new PMs
 * Current PMs to explain expectations of new PM roles on shadowing calls
-* Current PMs to explain to team the role of the new PM on the calls (generally just observing and shouldn’t be called upon unless they are actually part of that project)
-* New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like *“No project checkin. Here observing. Balance 8. I’ll pass to Steve”*
+* Current PMs to explain to team the role of the new PM on the calls (generally just observing and shouldn't be called upon unless they are actually part of that project)
+* New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like *"No project checkin. Here observing. Balance 8. I'll pass to Steve"*
 * Current PMs to supply note templates should they exist (*ie scrum note template*)
 * New PM can practice taking meeting notes so they can compare their own notes from a meeting to the notes the PM actually shares with the team & client.
 
@@ -63,13 +63,13 @@ For a team member whose time is splint between projects, RG can be a helpful gui
 * Avoid scheduling meetings with BLANK descriptions. Fill in a description/purpose for the meeting, link relevant documents, indicate the desired outcome, include an agenda, list discussion points, etc
 * Make a relevant and detailed meeting title. Make it descriptive and concise.
 * Only require the necessary people, make other invitees optional.
-* Check the FIND TIME function in Google Calendar to make sure you’re not double-booking someone - it is crucial that you look at other people’s calendars.
+* Check the FIND TIME function in Google Calendar to make sure you're not double-booking someone - it is crucial that you look at other people's calendars.
 
 <img src="../images/CivicActions_Calendar_FindTime.png" alt="Finding Available Meeting Time" width="1000px">
 
 ## <a name="timeboxing"></a>Timeboxing
 
-* Consider turning on your clock’s seconds so you can keep close eye on your timeboxes - You’ll know if you have one minute or 5 seconds left. It helps!
+* Consider turning on your clock's seconds so you can keep close eye on your timeboxes - You'll know if you have one minute or 5 seconds left. It helps!
 * A role of the PM/ScrumMaster is to keep track of timeboxes by keeping communication on topic and moving efficiently.
 * At the start of a meeting, announce the timebox for a meeting (any besides the 15 scrum) so the Scrum team knows how much meeting time to expect
 * Divvy time up if you have multiple presenters and let each person know how much time they each have.

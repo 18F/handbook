@@ -19,7 +19,7 @@
 * [We use entity view modes to configure reusable displays for entities](#entities)
 * [We improve the registration/login experience](#login-ux)
 * [We are ALWAYS clear on which site is the config/content master](#master)
-* [We don’t install modules we don’t need, and we remove ones we no longer need](#modules)
+* [We don't install modules we don't need, and we remove ones we no longer need](#modules)
 * [We build sites that make it easy to upload and display images and video](#media-display)
 * [We upgrade Drupal major versions with careful consideration](#careful-upgrades)
 * [We update to new minor versions of Drupal core](#minor-updates)
@@ -27,12 +27,12 @@
 * [We use Entityform instead of Webform whenever possible](#entityform)
 * [We use/create panels layouts, rather than adding page specific layout adjustments](#panels-layouts)
 * [We configure streamlined and semantic markup by default](#markup)
-* [We set a “module budget” for a project](#module-budget)
+* [We set a "module budget" for a project](#module-budget)
 * [We consider various featurization strategies prior to starting a project](#featurization-strategies)
 * [We avoid namespace conflicts](#avoid-conflicts)
 * [We use drush to update node access](#drush)
-* [We don’t like media_gallery module](#media_gallery)
-* [We don’t like Drupal Commons](#drupal-commons)
+* [We don't like media_gallery module](#media_gallery)
+* [We don't like Drupal Commons](#drupal-commons)
 
 ## Practices
 
@@ -42,26 +42,26 @@ We need to scope out high risk tickets to inform basic site architecture decisio
 
 #### How we do this
 
-* Scan the product backlog and identify tickets whose functional requirements don’t seem to align with known, low-risk mechanisms for achieving them.
-* Label the tickets as “high-risk” tickets, and attempt to outline what it will take to build the function.
+* Scan the product backlog and identify tickets whose functional requirements don't seem to align with known, low-risk mechanisms for achieving them.
+* Label the tickets as "high-risk" tickets, and attempt to outline what it will take to build the function.
 * Identify dependencies that may impact the ability to accomplish the ticket. Clearly indicate those dependencies in the ticket.
 * If necessary, produce a simple flowchart to analyze the problem and call attention to unknown factors in the workflow.
-* Prototype the workflow using “stub” data and actions to clarify when/how handoffs need to occur.
+* Prototype the workflow using "stub" data and actions to clarify when/how handoffs need to occur.
 
 #### When to do this
 
-* When starting a project “from scratch” or from a concept.
+* When starting a project "from scratch" or from a concept.
 * When a team has identified tasks that look like they are high-risk activities.
 * When the project is time or budget constrained.
 
 #### When to avoid
 
-* When you don’t have enough of a backlog to get a good sense of task priorities. It’s easy to go down rabbit holes if you don’t have a sense of how to limit action.
-* When there are too many outstanding dependencies, or its clear that dependencies can’t be resolved within the context of developing the function within a sprint or two.
+* When you don't have enough of a backlog to get a good sense of task priorities. It's easy to go down rabbit holes if you don't have a sense of how to limit action.
+* When there are too many outstanding dependencies, or its clear that dependencies can't be resolved within the context of developing the function within a sprint or two.
 
 #### Caveat
 
-* Make sure you consider likely extensions to functionality after you “set” the architecture based on high risk tickets.
+* Make sure you consider likely extensions to functionality after you "set" the architecture based on high risk tickets.
 
 #### Examples
 
@@ -70,7 +70,7 @@ We need to scope out high risk tickets to inform basic site architecture decisio
 
 ### <a name="drupal-contrib"></a>We use established Drupal contrib projects whenever possible, rather than writing custom code.
 
-It’s generally cheaper to maintain and the barrier to maintainability is lower (less programmer skills). There are often established best practices around projects that allow us to standardize. We can take advantage of other developers insights and skills.
+It's generally cheaper to maintain and the barrier to maintainability is lower (less programmer skills). There are often established best practices around projects that allow us to standardize. We can take advantage of other developers insights and skills.
 
 #### How do we do this?
 
@@ -109,10 +109,10 @@ It’s generally cheaper to maintain and the barrier to maintainability is lower
 
 #### Practices for larger projects
 
-* Make ALL configuration changes locally (except for last-minute changes to live – see below). Then either do a drush fu-all OR use the features UI to regenerate the specific feature you’ve rebuilt.
+* Make ALL configuration changes locally (except for last-minute changes to live – see below). Then either do a drush fu-all OR use the features UI to regenerate the specific feature you've rebuilt.
 * Pull last minute Feature content from live using the UI: it will take the config settings and save them locally.
 * Then use git status or svn stat to ensure that the correct files were indeed updated. Features is generally okay, but at times it seems to not register an update or a rebuild. Always best to double check.
-* After you’ve made sure that your configuration changes have indeed been captured in code, commit and push your code.
+* After you've made sure that your configuration changes have indeed been captured in code, commit and push your code.
 * When pulling code from the repository whether on a staging, dev or qa site – always do a drush fr-all -y immediately after pulling the codebase. This will ensure that all of your config is up-to-date.
 * Create Feature sets on two levels: generic and specific function.
 * Consider restricting the amount of time you spend featurinzing during the prototype stage.
@@ -129,7 +129,7 @@ Blocks vs Context vs Panels vs Panelizer.
 
 #### Blocks
 
-* Only for very simple sites. Sometimes used for the header/footer regions in combination with Panels, unless you’re using “panels everywhere.”
+* Only for very simple sites. Sometimes used for the header/footer regions in combination with Panels, unless you're using "panels everywhere."
 
 #### Context
 
@@ -148,11 +148,11 @@ Blocks vs Context vs Panels vs Panelizer.
 
 * Panelizer allows default panel that can be overridden by content creators.
 * Can lock down default layouts while enabling modification by content creators.
-* Con: Content creator customizations can’t be version controlled as they reside in the db. Can cause major issues down the road.
+* Con: Content creator customizations can't be version controlled as they reside in the db. Can cause major issues down the road.
 
 ### <a name="configure"></a>We configure content structure as much as we can before we configure content display.
 
-There’s an iterative link between content structure and content display. It’s important to configure content structure as far as you can before working on display because It expedites content entry by content creators and you can’t display what doesn’t exist.
+There's an iterative link between content structure and content display. It's important to configure content structure as far as you can before working on display because It expedites content entry by content creators and you can't display what doesn't exist.
 
 #### How we do this
 
@@ -164,7 +164,7 @@ There’s an iterative link between content structure and content display. It’
 #### When to use
 
 * When you have a pretty clear understanding about what you want to display.
-* When you’ve gone through a formal design phase.
+* When you've gone through a formal design phase.
 
 #### When to avoid
 
@@ -237,7 +237,7 @@ Drupal has a notoriously poor content workflow and editing experience OOTB. Ther
 
 #### Tips
 
-* It’s not always worth bothering with an AddThis/ShareThis/AddtoAny Drupal module; adding code to tpl.php files can sometimes be easier.
+* It's not always worth bothering with an AddThis/ShareThis/AddtoAny Drupal module; adding code to tpl.php files can sometimes be easier.
 
 ### <a name="settings"></a>We capture configuration settings in code.
 
@@ -247,17 +247,17 @@ Drupal configuration settings reside in various places in the source database. W
 
 ##### Reasons to store in code
 
-* The project is sufficiently large and has configuration options too numerous to keep track of using the “config master” approach.
+* The project is sufficiently large and has configuration options too numerous to keep track of using the "config master" approach.
 * Common configuration options can be exported and set up quickly on similar projects.
 * With configuration exported to code, we have the advantages of version control – including a history of configuration changes.
 * Makes deploying new functionality less risky.
 
 ##### Reasons not to store in code
 
-* In Drupal 7, Features module can be a PITA. It’s buggy and often doesn’t reflect the current state (overridden, default, needs review) of features.
+* In Drupal 7, Features module can be a PITA. It's buggy and often doesn't reflect the current state (overridden, default, needs review) of features.
 * Features can create overhead later in a project: new functionality sometimes may require refactoring existing features.
 * During prototype stages of a project, confg changes vary rapidly and you can spend more time storing / retrieving the changes than is worth it.
-* You don’t yet know the granularity level of site functions.
+* You don't yet know the granularity level of site functions.
 
 ### <a name="administer"></a>We build sites that are pleasant to administer.
 
@@ -295,16 +295,16 @@ Drupal configuration settings reside in various places in the source database. W
 
 ### <a name="entities"></a>We use entity view modes (e.g. teaser) to configure reusable displays for entities, rather than duplicated views field configurations.
 
-We do this so we can avoid fragile duplicated configuration and emphasize consistency of display and modular CSS. There are still occasions where field based views make sense, but these are generally singletons. Part of this needs to happen in the design phase, when we’re thinking about doing these displays in a modular fashion.
+We do this so we can avoid fragile duplicated configuration and emphasize consistency of display and modular CSS. There are still occasions where field based views make sense, but these are generally singletons. Part of this needs to happen in the design phase, when we're thinking about doing these displays in a modular fashion.
 
 #### When to use
 
-* When you’ve got a fiddly, reused data object.
-* When you know you’re going to reuse a group of data object (e.g. a “teaser” with thumbnail, header, and “like’ widget that always appear together, at the same size).
+* When you've got a fiddly, reused data object.
+* When you know you're going to reuse a group of data object (e.g. a "teaser" with thumbnail, header, and "like' widget that always appear together, at the same size).
 
 #### When to avoid
 
-* If you’re only displaying a group of related data objects one time, in one place on the site.
+* If you're only displaying a group of related data objects one time, in one place on the site.
 
 #### Example
 
@@ -327,32 +327,32 @@ This is a very common, important user story in Drupal that often gets ignored.
 
 ### <a name="master"></a>We are ALWAYS clear on which site is the config/content master.
 
-Never lose time working on the wrong site! \[Hint: in nearly all cases the config/content master should be “live” from day 1.]
+Never lose time working on the wrong site! \[Hint: in nearly all cases the config/content master should be "live" from day 1.]
 
 #### How we do this
 
 * Add a ticket to the project Trello board designing dev, qa and live servers
 * Look into using Environment Indicator to differentiate sites (<https://www.drupal.org/project/environment_indicator>)
 
-### <a name="modules"></a>We don’t install modules we don’t need, and we remove ones we no longer need.
+### <a name="modules"></a>We don't install modules we don't need, and we remove ones we no longer need.
 
 This means our sites are as simple, focused and performant as possible.
 
 #### How we do this
 
 * We prefer to use config.make as an inventory of contributed modules and patches.
-* We use dev commit id’s to identify our dev versions in contrib.make instead of the generic “7.x-dev”.
-* We routinely review enabled modules in the module list, and remove modules that aren’t currently enabled ASAP, but no later than pushes to production servers.
+* We use dev commit id's to identify our dev versions in contrib.make instead of the generic "7.x-dev".
+* We routinely review enabled modules in the module list, and remove modules that aren't currently enabled ASAP, but no later than pushes to production servers.
 * Remove = disable AND uninstall AND delete.
 
 ### <a name="media-display"></a>We build sites that make it easy to upload and display images and video.
 
 #### How we do this
 
-* Insert module for inline images … ASPCA, Rethink, etc.
-* Media module and WYSYWIG/CKEditor integration… Mukutu, EatFresh, GlobalNET
-* Embed fields … C4CM
-* Video filter … RPA
+* Insert module for inline images ... ASPCA, Rethink, etc.
+* Media module and WYSYWIG/CKEditor integration... Mukutu, EatFresh, GlobalNET
+* Embed fields ... C4CM
+* Video filter ... RPA
 
 ### <a name="careful-upgrades"></a>We upgrade Drupal major versions with careful consideration.
 
@@ -360,12 +360,12 @@ Why? So that we can mitigate risk and ensure a good value proposition for the cl
 
 #### How we do this
 
-* We don’t (normally) upgrade, we reconstruct and port existing data.
+* We don't (normally) upgrade, we reconstruct and port existing data.
 * Either make no design changes and port exact existing functionality, OR consider the project to be a ground-up redesign.
 
 #### When to do it
 
-* When there’s sufficient budget and time to accomplish it.
+* When there's sufficient budget and time to accomplish it.
 * When there are equivalent contrib modules.
 
 ### When to avoid
@@ -384,7 +384,7 @@ We do this so we can resolve bugs when necessary, or address security vulnerabil
 
 * We backup our db using pushdb –backup (or drush sql-dump).
 * We use the drush up on our sandbox, then commit/tag/push.
-* There’s a trello board to monitor security updates for sites we host <https://trello.com/b/QdozgLL0/security-updates-for-client-sites>
+* There's a trello board to monitor security updates for sites we host <https://trello.com/b/QdozgLL0/security-updates-for-client-sites>
 
 ### <a name="secure-text-filters"></a>We configure secure text filters.
 
@@ -396,7 +396,7 @@ We do this so we can resolve bugs when necessary, or address security vulnerabil
 
 ### <a name="entityform"></a>We use Entityform instead of Webform whenever possible.
 
-Unlike Webform module, Entityform module uses Form API instead of reinventing the wheel. This makes it far more easy to integrate with other modules, particularly Rules and modules that alter entity forms. Also, it’s exportable in Features.
+Unlike Webform module, Entityform module uses Form API instead of reinventing the wheel. This makes it far more easy to integrate with other modules, particularly Rules and modules that alter entity forms. Also, it's exportable in Features.
 
 Projects where this has proven useful: RTM, Teach.
 
@@ -426,7 +426,7 @@ We do this so that our pages are smaller, faster and simpler to theme as well as
 * Panels/blocks - use <https://www.drupal.org/project/clean_markup> to create semantic tags and remove wrappers.
 * Fields - use <https://www.drupal.org/project/fences> to remove field wrappers by default, and also set field tags to be semantic.
 
-### <a name="module-budget"></a>We set a “module budget” for a project.
+### <a name="module-budget"></a>We set a "module budget" for a project.
 
 We do this to prioritize functionality and keep things maintainable and performant.
 
@@ -446,14 +446,14 @@ We do this to prioritize functionality and keep things maintainable and performa
 
 * Good for: Medium sites, smaller, more stable teams.
 * Pros: Relatively easy to parse out where things go. Simpler, structure.
-* Cons: Need to commit to multiple features for single function; relatively easy to step on someone else’s work and not notice it. Dependency issues/conflict management. Possibility of not putting things in the right place: more feature housekeeping. Requires good semantics / categorization.
+* Cons: Need to commit to multiple features for single function; relatively easy to step on someone else's work and not notice it. Dependency issues/conflict management. Possibility of not putting things in the right place: more feature housekeeping. Requires good semantics / categorization.
 
 ##### Granular/atomic content type/function
 
 (One feature per content type or function)
 
 * Good for: Larger sites, fluid teams
-* Pros: Easier for developer to focus on specific instances, see when they’ve stepped on things;
+* Pros: Easier for developer to focus on specific instances, see when they've stepped on things;
 * Cons: Complexity; dependency management, conflict management. Possibility for multiple developers to work on the same functional issue but in different features at different times. More difficult to figure out where a particular function lives when it crosses over content types.
 
 #### Tools / Resources to consider
@@ -467,7 +467,7 @@ We do this to prioritize functionality and keep things maintainable and performa
 
 ### <a name="avoid-conflicts"></a>We avoid namespace conflicts.
 
-We carefully consider our semantics, naming features/views/custom modules in ways that don’t conflict with Drupal terms and client terms.
+We carefully consider our semantics, naming features/views/custom modules in ways that don't conflict with Drupal terms and client terms.
 
 ### <a name="drush"></a>We use drush to update node access.
 
@@ -482,20 +482,20 @@ to rebuild the node access table. If you leave off TRUE, it will attempt to upda
 * <http://befused.com/drupal/rebuild-node-permissions-large-sites>
 * <https://docs.acquia.com/articles/rebuilding-node-access-permissions>
 
-### <a name="media_gallery"></a>We don’t like media_gallery module.
+### <a name="media_gallery"></a>We don't like media_gallery module.
 
 What it does: Allows users to upload/maintain folders of resources using Media module integration.
 
-Useful ONLY if you don’t have to change anything about it.
+Useful ONLY if you don't have to change anything about it.
 
 #### Why not
 
 * Hard coded behavior and UI.
-* Odd structure and doesn’t recognize a lot of standard Drupal functions.
+* Odd structure and doesn't recognize a lot of standard Drupal functions.
 * Difficult to troubleshoot.
-* UI almost always needs fixing/updating but it’s difficult to do.
+* UI almost always needs fixing/updating but it's difficult to do.
 
-### <a name="drupal-commons"></a>We don’t like Drupal Commons
+### <a name="drupal-commons"></a>We don't like Drupal Commons
 
 #### Why not
 
@@ -506,4 +506,4 @@ Useful ONLY if you don’t have to change anything about it.
 
 #### When to use it
 
-* If you aren’t going to change anything.
+* If you aren't going to change anything.

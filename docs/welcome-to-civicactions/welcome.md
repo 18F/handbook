@@ -8,7 +8,7 @@
 
 ## <a name="welcome"></a>Welcome to CivicActions!
 
-We’re honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present, which has led to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
+We're honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present, which has led to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
 
 ### <a name="learn"></a>Learn more about CivicActions
 
@@ -21,11 +21,11 @@ As part of the new employee onboarding process, we created the following Onboard
 
 ### Schedule
 
-This is a typical onboarding schedule, but the timing may shift based on when you’re hired and company holidays, etc.
+This is a typical onboarding schedule, but the timing may shift based on when you're hired and company holidays, etc.
 
 #### <a name="week-1"></a>Week 1
 
-The first week will be dedicated to general orientation. You’ll also learn about our working practices, our primary tools and how we use them, and your specific job role.
+The first week will be dedicated to general orientation. You'll also learn about our working practices, our primary tools and how we use them, and your specific job role.
 
 > @todo [Update Day 4 and Day 5 Role-based Training rows with appropriate links](https://trello.com/c/L1FxQ1pp/101-add-appropriate-links-for-role-based-training-to-day-4-and-day-5-sections-of-welcome-md)
 
@@ -139,7 +139,7 @@ The first week will be dedicated to general orientation. You’ll also learn abo
 </table>
 #### <a name="later-weeks"></a>Weeks 2-4
 
-The rest of your first month will be dedicated to completing the “First month” tasks in your New Hire Checklist, and further acclimating to your role and project(s). Welcome aboard!
+The rest of your first month will be dedicated to completing the "First month" tasks in your New Hire Checklist, and further acclimating to your role and project(s). Welcome aboard!
 
 ## <a name="links"></a>Links and Resources
 
@@ -157,7 +157,7 @@ The rest of your first month will be dedicated to completing the “First month�
 </table>
 ### Human resources (HR)
 
-CivicActions uses TriNet for outsourcing benefits, payroll, and human resources support. TriNet offers self-directed online new hire orientations. Each session take approximately 30 minutes. To access the on-demand orientation at any time, simply log into HR Passport. Visit the “New Hire Orientation” link under “Resources” from HR Passport’s home page. The course can be completed all at once, or on an intermittent schedule with course completion tracked through TriNet University.
+CivicActions uses TriNet for outsourcing benefits, payroll, and human resources support. TriNet offers self-directed online new hire orientations. Each session take approximately 30 minutes. To access the on-demand orientation at any time, simply log into HR Passport. Visit the "New Hire Orientation" link under "Resources" from HR Passport's home page. The course can be completed all at once, or on an intermittent schedule with course completion tracked through TriNet University.
 
 #### Benefits
 

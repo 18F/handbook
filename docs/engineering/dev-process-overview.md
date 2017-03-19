@@ -8,7 +8,7 @@ The development process differs slightly from project to project, but what follo
 
 Our URLs reflect the environment. For example, on FCC, the URLs are as follows:
 
-* fcc.civicactions.net (“live”) (or fcc.gov, once it’s launched)
+* fcc.civicactions.net ("live") (or fcc.gov, once it's launched)
 * fcc-qa.civicactions.net (qa)
 * fcc-dev.civicactions.net (dev)
 * fcc-\*.civicactions.net (eg, for a specific branch/version, if necessary)
@@ -17,7 +17,7 @@ Our URLs reflect the environment. For example, on FCC, the URLs are as follows:
 
 Content gets added/migrated here.
 
-Git tags that have been QA’d are deployed here.
+Git tags that have been QA'd are deployed here.
 
 ## QA (aka Staging)
 

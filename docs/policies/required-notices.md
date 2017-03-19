@@ -15,7 +15,7 @@
 
 Your employment is At-Will. You are not hired for any definite or specified period of time even though your wages are paid regularly. You are an at-will employee of CivicActions and your employment can be terminated at any time, with or without cause and with or without prior notice. Company policy requires all employees to be hired at-will and this policy cannot be changed by any oral modifications. There have been no implied or verbal agreements or promises to you that you will be discharged only under certain circumstances or after certain procedures are followed. There is no implied employment contract created by this Handbook or any other Company document or written or verbal statement or policy
 
-Only authorized management may alter or modify any of the policies in this Employee Handbook with the exception of the “At-Will Employment” provision, which cannot be altered by anybody. Nothing in this handbook is intended to infringe upon employee rights under Section Seven (7) of the National Labor Relations Act (NLRA). See <http://www.nlrb.gov/national-labor-relations-act> if you’re curious about it.
+Only authorized management may alter or modify any of the policies in this Employee Handbook with the exception of the "At-Will Employment" provision, which cannot be altered by anybody. Nothing in this handbook is intended to infringe upon employee rights under Section Seven (7) of the National Labor Relations Act (NLRA). See <http://www.nlrb.gov/national-labor-relations-act> if you're curious about it.
 
 ## <a name="equal-employment"></a>Equal Employment - Expanded Definition
 
@@ -25,7 +25,7 @@ Equal employment opportunity includes, but is not limited to, employment, traini
 
 ## <a name="reasonable-accommodation"></a>Reasonable Accommodations
 
-It is the policy of CivicActions to comply with all the relevant and applicable provisions of the federal Americans with Disabilities Act (ADA), as well as state and local laws concerning the employment of persons with disabilities. CivicActions will not discriminate against any qualified employee or job applicant because of a person’s physical or mental disability with respect to any terms, privileges, or conditions of employment, including but not limited to hiring, advancement, discharge, compensation, and training.
+It is the policy of CivicActions to comply with all the relevant and applicable provisions of the federal Americans with Disabilities Act (ADA), as well as state and local laws concerning the employment of persons with disabilities. CivicActions will not discriminate against any qualified employee or job applicant because of a person's physical or mental disability with respect to any terms, privileges, or conditions of employment, including but not limited to hiring, advancement, discharge, compensation, and training.
 
 Employees who become disabled should notify administration if the conditions of the disability impair their ability to perform the essential functions of their position. Where necessary and feasible, reasonable accommodations will be made for qualified disabled employees to perform the essential functions of the job in question, as long as the accommodation does not cause CivicActions undue hardship.
 
@@ -39,13 +39,13 @@ Link to FSLA coverage: <http://www.flsa.com/coverage.html>
 
 ## <a name="complaint-resolution"></a>Complaint Resolution Policy
 
-CivicActions subscribes to an open door policy. If an issue arises that cannot be worked out directly, you are encouraged to bring a particular complaint to your manager for resolution. When matters cannot be handled on an informal basis, CivicActions has established a formal procedure for a fair review of any work related controversy, dispute or misunderstanding, including intimidation, harassment or bullying. We have a zero tolerance policy concerning those behaviors and, actually, can’t imagine them ever happening here.
+CivicActions subscribes to an open door policy. If an issue arises that cannot be worked out directly, you are encouraged to bring a particular complaint to your manager for resolution. When matters cannot be handled on an informal basis, CivicActions has established a formal procedure for a fair review of any work related controversy, dispute or misunderstanding, including intimidation, harassment or bullying. We have a zero tolerance policy concerning those behaviors and, actually, can't imagine them ever happening here.
 
 A complaint may be brought by one or more employees concerning any work-related problem where the complaint has not been satisfactorily resolved in an informal manner.
 
-Step 1 - The complaint must be submitted in writing to management or within 3 working days of an incident. A written request for a meeting must be submitted simultaneously. Generally, a meeting will be held within 3 working days of the employee’s request. Witnesses will be allowed as necessary. If the problem is not resolved during this meeting management will give the employee a written resolution within 3 working days. If the employee is not satisfied, the employee may proceed to Step 2.
+Step 1 - The complaint must be submitted in writing to management or within 3 working days of an incident. A written request for a meeting must be submitted simultaneously. Generally, a meeting will be held within 3 working days of the employee's request. Witnesses will be allowed as necessary. If the problem is not resolved during this meeting management will give the employee a written resolution within 3 working days. If the employee is not satisfied, the employee may proceed to Step 2.
 
-Step 2 - If the employee is not satisfied after Step 1, the employee may submit a written request for review of the complaint and Step 2 solution to the CEO or appointed representative. Such a request must be made within 3 working days following the receipt of the Step 1 resolution. The CEO or appointed representative will review the complaint and proposed solution and may call a further meeting to explore the problem. This meeting is to be attended by the employee concerned, the employee’s immediate manager, and any other employee of CivicActions whom the aggrieved employee chooses. The CEO or appointed representative will render the final decision within 10 working days after receiving the Step 2 request. The decision will be given to the employee in writing and will become part of the employee’s personnel file.
+Step 2 - If the employee is not satisfied after Step 1, the employee may submit a written request for review of the complaint and Step 2 solution to the CEO or appointed representative. Such a request must be made within 3 working days following the receipt of the Step 1 resolution. The CEO or appointed representative will review the complaint and proposed solution and may call a further meeting to explore the problem. This meeting is to be attended by the employee concerned, the employee's immediate manager, and any other employee of CivicActions whom the aggrieved employee chooses. The CEO or appointed representative will render the final decision within 10 working days after receiving the Step 2 request. The decision will be given to the employee in writing and will become part of the employee's personnel file.
 
 ## <a name="corrective"></a>Corrective Action
 
@@ -53,7 +53,7 @@ A high level of job performance and ethical behavior is expected of you.
 
 In the event that your job performance does not meet the standards established for your position, you should seek assistance from your manager to attain an acceptable level of performance. If you fail to respond to or fail to make positive efforts toward improvement, corrective action may ensue.
 
-If you violate established Company procedures, guidelines, or exhibit behavior that violates CivicActions’ standards of honesty and integrity or creates an appearance of impropriety, CivicActions may elect to administer disciplinary action.
+If you violate established Company procedures, guidelines, or exhibit behavior that violates CivicActions' standards of honesty and integrity or creates an appearance of impropriety, CivicActions may elect to administer disciplinary action.
 
 ## <a name="irregularity"></a>Reporting Irregularities
 
