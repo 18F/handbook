@@ -2635,9 +2635,9 @@ remark-stringify@^3.0.0:
     unherit "^1.0.4"
     xtend "^4.0.1"
 
-remark-validate-links@^6.0.0:
+"remark-validate-links@https://github.com/grugnog/remark-validate-links.git#anchors":
   version "6.0.0"
-  resolved "https://registry.yarnpkg.com/remark-validate-links/-/remark-validate-links-6.0.0.tgz#687a77b39f77a8e981ad7212b959b56eafa072c6"
+  resolved "https://github.com/grugnog/remark-validate-links.git#7f307d101b6f82b41d45418dc137989e9377f93f"
   dependencies:
     github-url-to-object "^3.0.0"
     mdast-util-definitions "^1.0.0"
