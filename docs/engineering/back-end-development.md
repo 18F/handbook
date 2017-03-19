@@ -104,29 +104,31 @@
 
 ## <a name="code-examples"></a>Code Examples
 
-    /**
-     * @file mpeg.c
-     * MPEG codec.
-     * @author ...
-     */
+```
+/**
+ * @file mpeg.c
+ * MPEG codec.
+ * @author ...
+ */
 
-    /**
-     * Summary sentence.
-     * more text ...
-     * ...
-     * @param my_parameter description of my_parameter
-     * @return return value description
-     * @TODO these are some things that we need to do
-     */
-    function myfunc($my_parameter) {    // no space before '('; 1 space before '{'
-      if ($my_parameter) {   // there is a space after 'if', 'while' and other conditionals
-        do_something();
-      }                      // close brackets under the opening code line, alone (unless commented)
-      else {                 // the else looks prety lonely, but it helps indenting rules like this
-        do_something_else();
-      }
-      print 'done';          // when possible, align comments (makes them easier to separate from code)
-    }
+/**
+ * Summary sentence.
+ * more text ...
+ * ...
+ * @param my_parameter description of my_parameter
+ * @return return value description
+ * @TODO these are some things that we need to do
+ */
+function myfunc($my_parameter) {    // no space before '('; 1 space before '{'
+  if ($my_parameter) {   // there is a space after 'if', 'while' and other conditionals
+    do_something();
+  }                      // close brackets under the opening code line, alone (unless commented)
+  else {                 // the else looks prety lonely, but it helps indenting rules like this
+    do_something_else();
+  }
+  print 'done';          // when possible, align comments (makes them easier to separate from code)
+}
+```
 
 ### <a name="continue"></a>Don’t use continue in short loops
 
@@ -134,7 +136,9 @@ Don’t do this:
 
 \``foreach ($types as $type) {                             if ($type == 'blog_post') {                               continue;                             }                             print $type;                           }`
 
-                        Instead do this:
+```
+                    Instead do this:
+```
 
 \`\`\`\`
 
@@ -144,19 +148,25 @@ print $type;
 }
 }
 
-    ### <a name="boolean"></a>Simplify Boolean Logic
+### <a name="boolean"></a>Simplify Boolean Logic
 
-    When the conditional has two values, here's a quick hint on boolean logic.
-    These are equivalences:
-    ```!(a && b) == (!a || !b)
-    !(a || b) == (!a && !b)
-    So if your conditional was
-    if ($type != 'blog_post' && $user->uid != $node->uid) {
-        continue;
-      }
-      // do something ...```
+When the conditional has two values, here's a quick hint on boolean logic.
+These are equivalences:
 
-    Then you can simplify this as:
-    ```if ($type == 'blog_post' || $user->uid == $node->uid) {
-        // do something ...
-      }```
+```
+!(a && b) == (!a || !b)
+!(a || b) == (!a && !b)
+So if your conditional was
+if ($type != 'blog_post' && $user->uid != $node->uid) {
+continue;
+}
+// do something ...
+```
+
+Then you can simplify this as:
+
+```
+if ($type == 'blog_post' || $user->uid == $node->uid) {
+// do something ...
+}
+```
