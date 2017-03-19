@@ -3,10 +3,12 @@
     "listItemIndent": 1,
     "bullet": "*",
     "strong": "*",
-    "emphasis": "*"
+    "emphasis": "*",
+    "fences": true
   },
   "plugins": [
       "remark-validate-links",
+      "remark-comment-config",
       "remark-normalize-headings",
       "remark-lint-final-newline",
       "remark-lint-hard-break-spaces",
@@ -36,7 +38,7 @@
       "remark-lint-no-unused-definitions",
       "remark-lint-table-pipe-alignment",
       "remark-lint-table-pipes",
-      ["remark-lint-blockquote-indentation", "consistent"],
+      ["remark-lint-blockquote-indentation", "2"],
       ["remark-lint-checkbox-character-style", "consistent"],
       ["remark-lint-code-block-style", "consistent"],
       ["remark-lint-emphasis-marker", "consistent"],

@@ -1,58 +1,42 @@
 var gulp = require("gulp");
-var through2 = require("through2");
-var markdownlint = require("markdownlint");
-var tidymarkdown = require("tidy-markdown");
-var map = require('map-stream');
 var remark = require('gulp-remark');
-var lint = require('remark-lint');
+var options = require('gulp-options');
 
-var gulpTidyMarkdown = function(file, cb) {
-  var content = tidymarkdown(String(file.contents));
-  file.contents = new Buffer(content);
-  cb(null, file);
+// Stream writer that changes warnings to errors
+var stream = require('stream');
+var errorStream = new stream.Writable();
+errorStream._write = function (chunk, encoding, done) {
+  console.log(chunk.toString().replace(/warnings/g, "\x1b[31merrors\x1b[0m").replace(/warning/g, "\x1b[31merror\x1b[0m"));
+  done();
 };
-
-// Tidy task - imperfect, but can help if we bring in messy Markdown.
-gulp.task("tidy-markdown", function task() {
-  return gulp.src(["**/*.md", "!node_modules/**"])
-    .pipe(map(gulpTidyMarkdown))
-    .pipe(gulp.dest('.'));
-});
-
-// Markdownlint - not used since remark seems better, but leaving the task in place for now.
-gulp.task("markdownlint", function task() {
-  return gulp.src(["**/*.md", "!node_modules/**"], { "read": false })
-    .pipe(through2.obj(function obj(file, enc, next) {
-      markdownlint(
-        { "files": [ file.relative ],
-          "config": {
-            // Enter config for markdownlint below:
-            // See https://github.com/DavidAnson/markdownlint#optionsconfig
-            // and https://github.com/DavidAnson/markdownlint/tree/master/style
-            "default": true,
-            "line_length": false
-          }
-        },
-        function callback(err, result) {
-          var resultString = (result || "").toString();
-          if (resultString) {
-            console.log(resultString);
-          }
-          next(err, file);
-        });
-    }))
-});
 
 // Remark is our primary checker and fixer.
 gulp.task('remark', function () {
-  return gulp.src(["**/*.md", "!node_modules/**"])
+  // Default to all md files in root and in docs directory.
+  var path = ["**/*.md", "!node_modules/**"];
+  // Support an optional --path argument.
+  if (options.has('path')) {
+    path = options.get('path');
+  }
+  return gulp.src(path)
+    // Main run against the "error" configuration.
+    .pipe(remark(
+      { 
+        "quiet": true,
+        "streamError": errorStream,
+        "color": true,
+        "rcPath": ".remarkrc.error"
+      }))
+    // Save any changes.
+    .pipe(gulp.dest('.'))
+    // Finally, run against "warning" configuration.
     .pipe(remark(
       { 
         "quiet": true,
         "streamError": process.stdout,
-        "color": true
-      }))
-   .pipe(gulp.dest('.'));
+        "color": true,
+        "rcPath": ".remarkrc.warning"
+      }));
 });
 
 gulp.task('default', ['remark']);

@@ -4,5 +4,5 @@ node_js:
 cache: yarn
 script:
   - gulp | tee output.log
-  - ! egrep -q "(warning\W)" output.log
+  - bash -c '! egrep -q "(error\W)" output.log'
 sudo: false
