@@ -1,5 +1,5 @@
 ---
-title: 18F Corrective Action Plan to the October 2016 GSA Inspetor General Evaluation of 18F
+title: 18F Corrective Action Plan for the October 2016 GSA Inspetor General Evaluation of 18F
 ---
 
 ## Background
@@ -15,3 +15,5 @@ In October of 2016, the GSA Inspector General (IG) released an [Evaluation of 18
 - [TTS Technical Control for TTS Timekeeping](https://docs.google.com/document/d/1wgdEpLWhb3fnpaSO6X8uBLF5X0jmB5zJbGYqQESnDwI)
 - [TTS Policy for Beginning Billable Work](https://docs.google.com/document/d/1q010J_VAQb9w1djbgnDsZ8p43ZB_qZUH3_hlOkeoL8Q)
 - [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1sO8cE3eyTclOkwnxNTMG5dg2qhP3AmJesGobM1m_LQw)
+- [TTS ASF Funded Cost Recovery Plan Executive Summary](https://docs.google.com/document/d/1rafK8lVwXFQJjA6dxypsdVTsW0pVa0A5TSwUhFz1FbI/edit#heading=h.30j0zll)
+- [TTS ASF Funded Cost Recovery Plan](https://docs.google.com/spreadsheets/d/1Gcw5yTjDlIVee_DDMtTNErYSDmXG8IWYjuaYvv_n9ak/edit)
