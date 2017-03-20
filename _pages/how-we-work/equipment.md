@@ -92,7 +92,7 @@ If you'd like to check out Apple peripherals (for example, a Magic Mouse or wire
 
 #### Chicago or San Francisco
 
-Reach out to Ethan Heppner (Chicago) or Victor Valdiviezo (San Francisco) via email or Slack, they will assist you as soon as they are available.
+Reach out to Ethan Heppner (Chicago) via email or Slack, they will assist you as soon as they are available.
 
 ## Equipment to accommodate disability
 
