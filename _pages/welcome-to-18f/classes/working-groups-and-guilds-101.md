@@ -6,6 +6,8 @@ slack-channel: wg-working-groups
 
 Working groups and guilds are self-organized groups that improve practices, host discussions, and explore ideas at 18F. These volunteer groups decide how and where to focus their efforts and conversations. Anyone may participate in any working group or guild.
 
+18F follows the [TTS Policy and Procedure for Internal Project Review](https://docs.google.com/document/d/1HHDXdiNvLdCFiEPjLwZaV-lhnwWeeq90MZMYAxbkHAM) which exempts working groups and guilds from review.
+
 ## <a id="key-concepts">Key concepts</a>
 
 **Working groups** are self-organized. They spin up or down depending on our organizational needs.
