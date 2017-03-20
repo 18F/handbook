@@ -54,10 +54,10 @@ If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](ht
 * **Review and Reserve Flight:** Review your flight itinerary, passenger information, frequent flyer information.
 <img src="/images/travel/8-passenger-info.png" class="travel-guide-hide" alt="reviewing the flight">
 
-* Click **Reserve Flight and Continue.** _Note that your itinerary will not be reserved until the trip is approved by Ethan Heppner or Victor Valdiviezo._
+* Click **Reserve Flight and Continue.** _Note that your itinerary will not be reserved until the trip is approved by Ethan Heppner._
 <img src="/images/travel/8a-reserve-flight.png" class="travel-guide-hide" alt="reserving the flight">
 
-* You will then be taken to the **Trip Overview**. This page also lists your current reservations. Note the deadline on the confirmation page. Ensure that you have approval from Ethan Heppner or Victor Valdiviezo before this date. Your tickets are booked, but are not purchased until one of them approves.
+* You will then be taken to the **Trip Overview**. This page also lists your current reservations. Note the deadline on the confirmation page. Ensure that you have approval from Ethan Heppner before this date. Your tickets are booked, but are not purchased until one of them approves.
 <img src="/images/travel/9-trip-details.png" class="travel-guide-hide" alt="viewing the Trip Overview">
 
 * Scroll to the bottom of this page and click **Next**. This message will pop up, prompting you to book a hotel.
