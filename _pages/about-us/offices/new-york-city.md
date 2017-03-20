@@ -21,8 +21,8 @@ title: New York City
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-        <a href="https://gsa-tts.slack.com/messages/@vv">Victor Valdivizeo</a><br />
-        <a href="https://gsa-tts.slack.com/messages/@jeremiak">Jeremia Kimelman</a>
+        <a href="https://gsa-tts.slack.com/messages/@eth">Ethan Heppner</a><br />
+        <a href="https://gsa-tts.slack.com/messages/@jz">Jeremy Zilar</a>
         </td>
       </tr>
       <tr>
