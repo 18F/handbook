@@ -151,7 +151,7 @@ In region 2 (that&rsquo;s us!) the transit benefit comes on a prepaid debit card
 
 The bank that processes region 2 subsidies (Chase) requires one more piece of information that is not on the form: your Service Computation Date. If you are a new federal employee, this is the Sunday before the first day you showed up at 18F. If you are continuing from a previous federal job, it is the day you started that job. You can find that date on [Employee Express](https://www.employeeexpress.gov/).
 
-Email the completed form to Benjamin Zabava at [ben.zabava@gsa.gov](mailto:ben.zabava@gsa.gov), and cc Victor Valdiviezo ([victor.valdiviezo@gsa.gov](mailto:victor.valdiviezo@gsa.gov)). Include your service computation date in the email. He will tell you when a transit card has arrived for you and is available to pick up at his desk in room 1655. It can take about a week.
+Email the completed form to Benjamin Zabava at [ben.zabava@gsa.gov](mailto:ben.zabava@gsa.gov). Include your service computation date in the email. He will tell you when a transit card has arrived for you and is available to pick up at his desk in room 1655. It can take about a week.
 
 ### Register your card
 
