@@ -257,9 +257,7 @@ The interior courtyard has Wi-Fi access so you can work outside!
 
 ### Transit subsidy
 
-All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel. To receive a transit subsidy, fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174). See more details [on InSite](https://insite.gsa.gov/portal/category/511801). Once your supervisor has signed the form, send it to [Lyvette Jones](mailto:lyvette.jones@gsa.gov).
-
-You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
+All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel. To receive a transit subsidy, follow these instructions [on InSite](https://insite.gsa.gov/portal/content/543265). You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
 
 ### Health center
 
