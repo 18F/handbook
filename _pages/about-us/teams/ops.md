@@ -4,7 +4,7 @@ title: Ops
 
 _Team Ops (Operations) handles all activities related to travel, non-travel purchases, legal matters, and equipment requests._
 
-Because 18F is a distributed team, it’s likely there’s some **travel** in your future. We’re here to help, and the best place to start is in [#travel](https://gsa-tts.slack.com/messages/travel), where [Victor Valdiviezo](https://gsa-tts.slack.com/messages/@vv) and [Ethan Heppner](https://gsa-tts.slack.com/messages/@eth) can help you vanquish the government travel monster (including getting a GSA-issued travel credit card to get reimbursed for expenses).
+Because 18F is a distributed team, it’s likely there’s some **travel** in your future. We’re here to help, and the best place to start is in [#travel](https://gsa-tts.slack.com/messages/travel), where [Ethan Heppner](https://gsa-tts.slack.com/messages/@eth) can help you vanquish the government travel monster (including getting a GSA-issued travel credit card to get reimbursed for expenses).
 
 Ops is also your go-to place for all **non-travel purchases:** from a $0.99 app to a complex multi-million dollar services contract (though we tend to prefer the $0.99 app variety). For info on the purchasing process, head over to [#acquisition](https://gsa-tts.slack.com/messages/acquisition), or to submit a new request, please [fill out this form](https://requests.18f.gov). Our resident expert on the subject is [Josh Bailes](https://gsa-tts.slack.com/messages/@bailes), with support from [Matt Spencer](https://gsa-tts.slack.com/messages/@mattspencer) and [Kathryn Connolly](https://gsa-tts.slack.com/messages/@kathryn).
 
