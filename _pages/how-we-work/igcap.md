@@ -10,19 +10,8 @@ In October of 2016, the GSA Inspector General (IG) released an [Evaluation of 18
 
 ## Corrective Action Plan Deliverables
 
--[TTS Policy and Procedure for Internal Project Review](https://docs.google.com/document/d/1HHDXdiNvLdCFiEPjLwZaV-lhnwWeeq90MZMYAxbkHAM)
--[TTS Procedural Control for TTS Timekeeping](https://docs.google.com/document/d/1cDKwe1Ms8qsoznprls9hQfOq76EfP_YD4dqHhNx8zME)
--[TTS Technical Control for TTS Timekeeping](https://docs.google.com/document/d/1wgdEpLWhb3fnpaSO6X8uBLF5X0jmB5zJbGYqQESnDwI)
--[TTS Policy for Beginning Billable Work](https://docs.google.com/document/d/1q010J_VAQb9w1djbgnDsZ8p43ZB_qZUH3_hlOkeoL8Q)
--[TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1sO8cE3eyTclOkwnxNTMG5dg2qhP3AmJesGobM1m_LQw)
-
----
-
-<footer>
-  <h4 id="footnote-label">Footnotes</h4>
-  <ol>
-    <li id="footnote-obligation">
-      An obligation is &ldquo;a definite commitment that creates a legal liability of the government for the payment of goods and services ordered or received, or a legal duty on the part of the United States that could mature into a legal liability by virtue of actions on the part of the other party beyond the control of the United States.&rdquo; (<a href="http://www.gao.gov/new.items/d05734sp.pdf">Citation</a>)
-    </li>
-  </ol>
-</footer>
+- [TTS Policy and Procedure for Internal Project Review](https://docs.google.com/document/d/1HHDXdiNvLdCFiEPjLwZaV-lhnwWeeq90MZMYAxbkHAM)
+- [TTS Procedural Control for TTS Timekeeping](https://docs.google.com/document/d/1cDKwe1Ms8qsoznprls9hQfOq76EfP_YD4dqHhNx8zME)
+- [TTS Technical Control for TTS Timekeeping](https://docs.google.com/document/d/1wgdEpLWhb3fnpaSO6X8uBLF5X0jmB5zJbGYqQESnDwI)
+- [TTS Policy for Beginning Billable Work](https://docs.google.com/document/d/1q010J_VAQb9w1djbgnDsZ8p43ZB_qZUH3_hlOkeoL8Q)
+- [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1sO8cE3eyTclOkwnxNTMG5dg2qhP3AmJesGobM1m_LQw)
