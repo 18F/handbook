@@ -66,15 +66,19 @@ The information below provides more detail than we typically give clients. Team 
 1. The project lead contacts the Director of Infrastructure if any infrastructure is being used.
 1. The final agreement package is assembled (IAA: 7600A, standard terms, 7600B, statement of work, financial information) and shared with client for approval. Team Ops will move to the next phase even without approval from client to keep pace moving.
 
-### 18F Approvals
+### Internal contracts or agreements
 
-1. The Director of Infrastructure and Agreements Lead approve the agreement.
+1. TTS will submit for review to the GSA IT Chief of Staff and to the GSA TTS Liaison (currently the GSA Chief Technology Officer) all contracts or agreements entered into by TTS to acquire IT or IT services for internal purposes.  
+2. The GSA IT Chief of Staff and GSA TTS Liaison will review the contract or agreement. 
+3. Upon resolution, TTS will route the document for review and approval by the GSA CIO.  By way of example, this includes all contracts or agreements where TTS is providing IT products or services to TTS or another part of GSA.
 
-### GSA OGC Approval
+###  External contracts or agreements
 
-1. Team Ops submits the completed agreement package to OGC.
-1. OCG makes edits. The project lead apprised of edits and accepts or rejects edits.
-1. OGC approves the edited documents.
+1. When TTS is providing IT products or services to another agency, TTS will submit for review to the GSA IT Chief of Staff and to the GSA TTS Liaison (currently the GSA Chief Technology Officer) all contracts or agreements entered into by TTS to acquire IT or IT services if GSA owns the Authority to Operate (ATO) or a GSA-owned platform /infrastructure is being used.
+2. The GSA IT Chief of Staff and GSA TTS Liaison will review the contract or agreement, and provide comments to TTS on whether the proposed solution fits within the GSA IT standards and security model. 
+3. Upon resolution, TTS will route the document for review and approval by the GSA CIO.
+
+Note: If the external contract or agreement does not involve a GSA-owned platform and/or GSA does not own the ATO, no approval from GSA IT is required.
 
 ### 18F Executive Director Approval
 
