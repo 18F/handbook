@@ -1,4 +1,4 @@
-## How to update the handbook
+# How to update the handbook
 
 ### The lazy way (get someone else to do it!)
 

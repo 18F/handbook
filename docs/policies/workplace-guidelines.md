@@ -22,5 +22,3 @@ Be appropriate for the client you are meeting either face-to-face or via video c
 ## <a name="access-account"></a>Access to Business-Related Online Accounts
 
 Please tell the admin group about any online accounts you open for the benefit of CivicActions or a CivicActions client. Admin keeps all login information for these accounts so they can be easily accessed should changes need to be made.
-
-[Return to Table of Contents](#toc)

@@ -8,7 +8,7 @@
 
 ## <a name="welcome"></a>Welcome to CivicActions!
 
-We’re honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present, which has led to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
+We're honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present, which has led to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
 
 ### <a name="learn"></a>Learn more about CivicActions
 
@@ -21,11 +21,11 @@ As part of the new employee onboarding process, we created the following Onboard
 
 ### Schedule
 
-This is a typical onboarding schedule, but the timing may shift based on when you’re hired and company holidays, etc.
+This is a typical onboarding schedule, but the timing may shift based on when you're hired and company holidays, etc.
 
 #### <a name="week-1"></a>Week 1
 
-The first week will be dedicated to general orientation. You’ll also learn about our working practices, our primary tools and how we use them, and your specific job role.
+The first week will be dedicated to general orientation. You'll also learn about our working practices, our primary tools and how we use them, and your specific job role.
 
 > @todo [Update Day 4 and Day 5 Role-based Training rows with appropriate links](https://trello.com/c/L1FxQ1pp/101-add-appropriate-links-for-role-based-training-to-day-4-and-day-5-sections-of-welcome-md)
 
@@ -49,7 +49,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### Day 2
 
 <table>
@@ -70,7 +69,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### Day 3
 
 <table>
@@ -95,7 +93,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### Day 4
 
 <table>
@@ -116,7 +113,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### Day 5
 
 <table>
@@ -141,7 +137,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### <a name="later-weeks"></a>Weeks 2-4
 
 The rest of your first month will be dedicated to completing the "First month" tasks in your New Hire Checklist, and further acclimating to your role and project(s). Welcome aboard!
@@ -160,7 +155,6 @@ The rest of your first month will be dedicated to completing the "First month" t
     <td>https://github.com/CivicActions/agile-baseline</td>
   </tr>
 </table>
-
 ### Human resources (HR)
 
 CivicActions uses TriNet for outsourcing benefits, payroll, and human resources support. TriNet offers self-directed online new hire orientations. Each session take approximately 30 minutes. To access the on-demand orientation at any time, simply log into HR Passport. Visit the "New Hire Orientation" link under "Resources" from HR Passport's home page. The course can be completed all at once, or on an intermittent schedule with course completion tracked through TriNet University.
@@ -177,10 +171,9 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
     <td>https://www.retirementaccountlogin.net/turningpoint/</td>  
   </tr>
 </table>
-
 #### Before your first day
 
-> @todo [Add information about forms, paperwork, etc. that new hires need to complete before beginning work ](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
+> @todo [Add information about forms, paperwork, etc. that new hires need to complete before beginning work](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
 
 // TO REVIEW:
 
@@ -193,9 +186,9 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 * Shadowing on calls
 * Resourcing
 * PM Tools
-  * Resource Guru
-  * Harvest
-  * Jira
+* Resource Guru
+* Harvest
+* Jira
 
 ##### Engineering Training
 

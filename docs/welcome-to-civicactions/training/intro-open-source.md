@@ -12,7 +12,7 @@ Generally (and at CivicActions), people publishing open source software tend to 
 
 //
 
-Everything we as a team do should be public and available for collaboration. An open source project isn’t just code - think of it as many forms of contribution working together, including documentation, support, design, and code.
+Everything we as a team do should be public and available for collaboration. An open source project isn't just code - think of it as many forms of contribution working together, including documentation, support, design, and code.
 
 ### Would any personally identifiable information (PII) live in open source software?
 

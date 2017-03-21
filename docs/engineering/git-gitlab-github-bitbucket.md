@@ -23,7 +23,7 @@ GitLab, GitHub, and Bitbucket are services that provides remote access to Git re
 
 Yes! All you have to do is point or rebase your local copy to the new remote source. Please note, only your source code will move. Any additional features you use (wiki, bug tracking, etc) will need to be manually copied.
 
-## When do we use GitLab vs. GitHub?
+## When do we use GitLab vs. GitHub?
 
 CivicActions uses GitHub for all open source projects (except those which are better hosted on an open source community infrastructure), as well as internal, client or pro-bono projects that should be developed in public.
 

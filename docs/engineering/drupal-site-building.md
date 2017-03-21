@@ -68,8 +68,6 @@ We need to scope out high risk tickets to inform basic site architecture decisio
 * Complex permissions
 * Search
 
-[back to TOC](#toc)
-
 ### <a name="drupal-contrib"></a>We use established Drupal contrib projects whenever possible, rather than writing custom code.
 
 It's generally cheaper to maintain and the barrier to maintainability is lower (less programmer skills). There are often established best practices around projects that allow us to standardize. We can take advantage of other developers insights and skills.
@@ -87,16 +85,14 @@ It's generally cheaper to maintain and the barrier to maintainability is lower (
 #### When to avoid
 
 * When a lighter-weight approach might produce the same functionality.
-* When an alternative approach using other Drupal tools (e.g. Views for customized data retrieval) might offer less lock-in and more configurability.
+* When an alternative approach using other Drupal tools (e.g. Views for customized data retrieval) might offer less lock-in and more configurability.
 * When the price of setup and configuration and likelihood of unintentional breakage indicates that a custom module is a better fit.
-* When a more direct approach (i.e. modifying data at the db level rather than through Drupal) might be faster/better/more economical.
+* When a more direct approach (i.e. modifying data at the db level rather than through Drupal) might be faster/better/more economical.
 
 #### Resources
 
 * <http://civicactions.com/blog/most_important_decision_developing_site_Contributed_vs_custom_development>
 * <http://www.civicactions.com/blog/Drupal_Developer_Tips_Getting_Most_out_Open_Source>
-
-[back to TOC](#toc)
 
 ### <a name="features"></a>We use Features best practices.
 
@@ -113,11 +109,11 @@ It's generally cheaper to maintain and the barrier to maintainability is lower (
 
 #### Practices for larger projects
 
-* Make ALL configuration changes locally (except for last-minute changes to live -- see below).  Then either do a drush fu-all OR use the features UI to regenerate the specific feature you've rebuilt.
+* Make ALL configuration changes locally (except for last-minute changes to live – see below). Then either do a drush fu-all OR use the features UI to regenerate the specific feature you've rebuilt.
 * Pull last minute Feature content from live using the UI: it will take the config settings and save them locally.
-* Then use git status or svn stat to ensure that the correct files were indeed updated.   Features is generally okay, but at times it seems to not register an update or a rebuild.  Always best to double check.
+* Then use git status or svn stat to ensure that the correct files were indeed updated. Features is generally okay, but at times it seems to not register an update or a rebuild. Always best to double check.
 * After you've made sure that your configuration changes have indeed been captured in code, commit and push your code.
-* When pulling code from the repository whether on a staging, dev or qa site -- always do a drush fr-all -y immediately after pulling the codebase. This will ensure that all of your config is up-to-date.
+* When pulling code from the repository whether on a staging, dev or qa site – always do a drush fr-all -y immediately after pulling the codebase. This will ensure that all of your config is up-to-date.
 * Create Feature sets on two levels: generic and specific function.
 * Consider restricting the amount of time you spend featurinzing during the prototype stage.
 
@@ -126,8 +122,6 @@ It's generally cheaper to maintain and the barrier to maintainability is lower (
 * <https://drupal.org/project/ftools>
 * <https://drupal.org/project/configuration>
 * Good read (though 2 years old): <http://www.lullabot.com/blog/article/features-module>
-
-[back to TOC](#toc)
 
 ### <a name="layouts"></a>We create websites with customizable display layouts.
 
@@ -156,8 +150,6 @@ Blocks vs Context vs Panels vs Panelizer.
 * Can lock down default layouts while enabling modification by content creators.
 * Con: Content creator customizations can't be version controlled as they reside in the db. Can cause major issues down the road.
 
-[back to TOC](#toc)
-
 ### <a name="configure"></a>We configure content structure as much as we can before we configure content display.
 
 There's an iterative link between content structure and content display. It's important to configure content structure as far as you can before working on display because It expedites content entry by content creators and you can't display what doesn't exist.
@@ -182,8 +174,6 @@ There's an iterative link between content structure and content display. It's im
 
 * [eatfresh.org](eatfresh.org) recipe development: food integrates with instructions, with sources, with specific geo-location specific variables tied to county of residence.
 
-[back to TOC](#toc)
-
 ### <a name="change"></a>We build sites such that we can accommodate changing needs and requirements.
 
 We are agile, and we expect our clients to require agility in their website.
@@ -194,21 +184,17 @@ We are agile, and we expect our clients to require agility in their website.
 * We use OTS solutions where practical.
 * We choose the most reliable and robust solution to a functional problem and try not to lock ourselves into a specific approach.
 
-[back to TOC](#toc)
-
 ### <a name="seriously"></a>We treat the user stories of content editors and creators seriously.
 
-Drupal has a notoriously poor content workflow and editing experience OOTB.  There are simple ways to improve this.
+Drupal has a notoriously poor content workflow and editing experience OOTB. There are simple ways to improve this.
 
 #### How we do this
 
 * WYZIWYG: ckeditor (D8, works great in d6/d7).
-* Create taxonomy vocabularies,  related VBO views matched with rule sets to assist in managing editorial workflows.
+* Create taxonomy vocabularies, related VBO views matched with rule sets to assist in managing editorial workflows.
 * Use multistep form to make dealing with metadata less onerous.
 * Create custom versions of the admin/content/node page (and other entity types) that shows fields that are useful for managing and bulk editing content.
 * Install views_bulk_operations and rules to assist in managing workflow tasks.
-
-[back to TOC](#toc)
 
 ### <a name="seo"></a>We configure sites that are optimized for SEO
 
@@ -227,13 +213,9 @@ Drupal has a notoriously poor content workflow and editing experience OOTB.  The
 * Training clients in creating search optimized content.
 * Researching/identifying keywords (Discovery).
 
-[back to TOC](#toc)
-
 ### <a name="data"></a>We import and export data: Feeds and Migrate
 
 //needs content
-
-[back to TOC](#toc)
 
 ### <a name="social-media"></a>We include social media functions
 
@@ -257,8 +239,6 @@ Drupal has a notoriously poor content workflow and editing experience OOTB.  The
 
 * It's not always worth bothering with an AddThis/ShareThis/AddtoAny Drupal module; adding code to tpl.php files can sometimes be easier.
 
-[back to TOC](#toc)
-
 ### <a name="settings"></a>We capture configuration settings in code.
 
 Drupal configuration settings reside in various places in the source database. We capture configuration settings in code so that those settings can be versioned and reverted, and can be transferred to other installations without being manually entered.
@@ -269,17 +249,15 @@ Drupal configuration settings reside in various places in the source database. W
 
 * The project is sufficiently large and has configuration options too numerous to keep track of using the "config master" approach.
 * Common configuration options can be exported and set up quickly on similar projects.
-* With configuration exported to code, we have the advantages of version control -- including a history of configuration changes.
+* With configuration exported to code, we have the advantages of version control – including a history of configuration changes.
 * Makes deploying new functionality less risky.
 
 ##### Reasons not to store in code
 
-* In Drupal 7, Features module can be a PITA.  It's buggy and often doesn't reflect the current state (overridden, default, needs review) of features.
+* In Drupal 7, Features module can be a PITA. It's buggy and often doesn't reflect the current state (overridden, default, needs review) of features.
 * Features can create overhead later in a project: new functionality sometimes may require refactoring existing features.
 * During prototype stages of a project, confg changes vary rapidly and you can spend more time storing / retrieving the changes than is worth it.
 * You don't yet know the granularity level of site functions.
-
-[back to TOC](#toc)
 
 ### <a name="administer"></a>We build sites that are pleasant to administer.
 
@@ -295,8 +273,6 @@ Drupal configuration settings reside in various places in the source database. W
 
 * Media tools
 
-[back to TOC](#toc)
-
 ### <a name="search"></a>We consider Search configuration implications early in the development process.
 
 #### Checklist
@@ -305,8 +281,6 @@ Drupal configuration settings reside in various places in the source database. W
 * Faceted search?
 * Substitute views search for Drupal or Solr search
 * Do we need to index file attachments? (Has server php library implications)
-
-[back to TOC](#toc)
 
 ### <a name="perms"></a>We configure permissions to be as simple as possible for the user stories.
 
@@ -319,16 +293,14 @@ Drupal configuration settings reside in various places in the source database. W
 * role permissions
 * individual user permissions (content_access)
 
-[back to TOC](#toc)
-
-### <a name="entities"></a>We use entity view modes (e.g. teaser) to configure reusable displays for entities, rather than duplicated views field configurations.
+### <a name="entities"></a>We use entity view modes (e.g. teaser) to configure reusable displays for entities, rather than duplicated views field configurations.
 
 We do this so we can avoid fragile duplicated configuration and emphasize consistency of display and modular CSS. There are still occasions where field based views make sense, but these are generally singletons. Part of this needs to happen in the design phase, when we're thinking about doing these displays in a modular fashion.
 
 #### When to use
 
 * When you've got a fiddly, reused data object.
-* When you know you're going to reuse a group of data object (e.g. a "teaser" with thumbnail, header, and "like' widget that always appear together, at the same size).
+* When you know you're going to reuse a group of data object (e.g. a "teaser" with thumbnail, header, and "like' widget that always appear together, at the same size).
 
 #### When to avoid
 
@@ -337,8 +309,6 @@ We do this so we can avoid fragile duplicated configuration and emphasize consis
 #### Example
 
 * <http://eatfresh.org>: Search results, related recipes
-
-[back to TOC](#toc)
 
 ### <a name="login-ux"></a>We improve the registration/login experience beyond default Drupal behavior.
 
@@ -355,18 +325,14 @@ This is a very common, important user story in Drupal that often gets ignored.
 * colorbox popups (although be aware of mobile)
 * <http://drupalwatchdog.com/2/1/dedrupalize-login-form>
 
-[back to TOC](#toc)
-
 ### <a name="master"></a>We are ALWAYS clear on which site is the config/content master.
 
-Never lose time working on the wrong site! [Hint: in nearly all cases the config/content master should be "live" from day 1.]
+Never lose time working on the wrong site! \[Hint: in nearly all cases the config/content master should be "live" from day 1.]
 
 #### How we do this
 
 * Add a ticket to the project Trello board designing dev, qa and live servers
 * Look into using Environment Indicator to differentiate sites (<https://www.drupal.org/project/environment_indicator>)
-
-[back to TOC](#toc)
 
 ### <a name="modules"></a>We don't install modules we don't need, and we remove ones we no longer need.
 
@@ -379,8 +345,6 @@ This means our sites are as simple, focused and performant as possible.
 * We routinely review enabled modules in the module list, and remove modules that aren't currently enabled ASAP, but no later than pushes to production servers.
 * Remove = disable AND uninstall AND delete.
 
-[back to TOC](#toc)
-
 ### <a name="media-display"></a>We build sites that make it easy to upload and display images and video.
 
 #### How we do this
@@ -389,8 +353,6 @@ This means our sites are as simple, focused and performant as possible.
 * Media module and WYSYWIG/CKEditor integration... Mukutu, EatFresh, GlobalNET
 * Embed fields ... C4CM
 * Video filter ... RPA
-
-[back to TOC](#toc)
 
 ### <a name="careful-upgrades"></a>We upgrade Drupal major versions with careful consideration.
 
@@ -414,19 +376,15 @@ Why? So that we can mitigate risk and ensure a good value proposition for the cl
 
 * etr: <https://www.nationalserviceresources.gov/>
 
-[back to TOC](#toc)
-
 ### <a name="minor-updates"></a>We update to new minor versions of Drupal core.
 
 We do this so we can resolve bugs when necessary, or address security vulnerabilities.
 
 #### How we do this
 
-* We backup our db using pushdb --backup (or drush sql-dump).
+* We backup our db using pushdb –backup (or drush sql-dump).
 * We use the drush up on our sandbox, then commit/tag/push.
 * There's a trello board to monitor security updates for sites we host <https://trello.com/b/QdozgLL0/security-updates-for-client-sites>
-
-[back to TOC](#toc)
 
 ### <a name="secure-text-filters"></a>We configure secure text filters.
 
@@ -436,11 +394,9 @@ We do this so we can resolve bugs when necessary, or address security vulnerabil
 * Tables
 * php module
 
-[back to TOC](#toc)
-
 ### <a name="entityform"></a>We use Entityform instead of Webform whenever possible.
 
-Unlike Webform module, Entityform module uses Form API instead of reinventing the wheel. This makes it far more easy to integrate with other modules, particularly Rules and modules that alter entity forms. Also, it's exportable in Features.  
+Unlike Webform module, Entityform module uses Form API instead of reinventing the wheel. This makes it far more easy to integrate with other modules, particularly Rules and modules that alter entity forms. Also, it's exportable in Features.
 
 Projects where this has proven useful: RTM, Teach.
 
@@ -454,15 +410,11 @@ Projects where this has proven useful: RTM, Teach.
 
 * When you have a lot of forms (dozens or hundreds) - management can get challenging unless you also build tools to help manage the forms.
 
-[back to TOC](#toc)
-
 ### <a name="panels-layouts"></a>We use/create panels layouts, rather than adding page specific layout adjustments.
 
 We do this so that layouts are cleanly separated from other visual styles, and so that they are reusable.
 
 A great way to do this is to make a standalone Zen Grids layout - see <https://git.civicactions.net/civicactions/home/tree/master/docroot/sites/all/themes/sanantonio/panels-layouts/three-across> for an example.
-
-[back to TOC](#toc)
 
 ### <a name="markup"></a>We configure streamlined and semantic markup by default.
 
@@ -470,17 +422,13 @@ We do this so that our pages are smaller, faster and simpler to theme as well as
 
 #### Examples
 
-* Views (e.g. fields) - remove wrapper markup and specify semantic tags.
+* Views (e.g. fields) - remove wrapper markup and specify semantic tags.
 * Panels/blocks - use <https://www.drupal.org/project/clean_markup> to create semantic tags and remove wrappers.
 * Fields - use <https://www.drupal.org/project/fences> to remove field wrappers by default, and also set field tags to be semantic.
-
-[back to TOC](#toc)
 
 ### <a name="module-budget"></a>We set a "module budget" for a project.
 
 We do this to prioritize functionality and keep things maintainable and performant.
-
-[back to TOC](#toc)
 
 ### <a name="featurization-strategies"></a>We consider various featurization strategies prior to starting a project.
 
@@ -494,18 +442,18 @@ We do this to prioritize functionality and keep things maintainable and performa
 
 ##### Functional separation
 
-(e.g. content types & views, roles/permissions; strongarm settings, theming and defaults, etc)
+(e.g. content types & views, roles/permissions; strongarm settings, theming and defaults, etc)
 
-* Good for:  Medium sites, smaller, more stable teams.
+* Good for: Medium sites, smaller, more stable teams.
 * Pros: Relatively easy to parse out where things go. Simpler, structure.
-* Cons: Need to commit to multiple features for single function;  relatively easy to step on someone else’s work and not notice it. Dependency issues/conflict management. Possibility of not putting things in the right place: more feature housekeeping. Requires good semantics / categorization.
+* Cons: Need to commit to multiple features for single function; relatively easy to step on someone else's work and not notice it. Dependency issues/conflict management. Possibility of not putting things in the right place: more feature housekeeping. Requires good semantics / categorization.
 
 ##### Granular/atomic content type/function
 
 (One feature per content type or function)
 
 * Good for: Larger sites, fluid teams
-* Pros: Easier for developer to focus on specific instances, see when they’ve stepped on things;
+* Pros: Easier for developer to focus on specific instances, see when they've stepped on things;
 * Cons: Complexity; dependency management, conflict management. Possibility for multiple developers to work on the same functional issue but in different features at different times. More difficult to figure out where a particular function lives when it crosses over content types.
 
 #### Tools / Resources to consider
@@ -517,13 +465,9 @@ We do this to prioritize functionality and keep things maintainable and performa
 * Organizing Features for Configuration Management:
   <https://docs.google.com/a/civicactions.net/document/d/178hsoHrK28xj6M9FlBDXNSufo7oD4i9zu-ernqDARvI/edit?usp=sharing>
 
-[back to TOC](#toc)
-
 ### <a name="avoid-conflicts"></a>We avoid namespace conflicts.
 
 We carefully consider our semantics, naming features/views/custom modules in ways that don't conflict with Drupal terms and client terms.
-
-[back to TOC](#toc)
 
 ### <a name="drush"></a>We use drush to update node access.
 
@@ -538,8 +482,6 @@ to rebuild the node access table. If you leave off TRUE, it will attempt to upda
 * <http://befused.com/drupal/rebuild-node-permissions-large-sites>
 * <https://docs.acquia.com/articles/rebuilding-node-access-permissions>
 
-[back to TOC](#toc)
-
 ### <a name="media_gallery"></a>We don't like media_gallery module.
 
 What it does: Allows users to upload/maintain folders of resources using Media module integration.
@@ -553,8 +495,6 @@ Useful ONLY if you don't have to change anything about it.
 * Difficult to troubleshoot.
 * UI almost always needs fixing/updating but it's difficult to do.
 
-[back to TOC](#toc)
-
 ### <a name="drupal-commons"></a>We don't like Drupal Commons
 
 #### Why not
@@ -567,5 +507,3 @@ Useful ONLY if you don't have to change anything about it.
 #### When to use it
 
 * If you aren't going to change anything.
-
-[back to TOC](#toc)

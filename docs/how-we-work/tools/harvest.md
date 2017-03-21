@@ -19,7 +19,7 @@ Harvest is an easy-to-use web app that allows us to track and allocate time and 
 
 ## Update Your Profile
 
-Your Harvest login will be your email address: first.last@civicactions.com. Check your email for an invitation!
+Your Harvest login will be your email address: <mailto:first.last@civicactions.com>. Check your email for an invitation!
 Then:
 
 * confirm that you can sign in to Harvest (<https://civicactions.harvestapp.com/>)
@@ -31,8 +31,8 @@ Then:
 
 * Go to <https://civicactions.harvestapp.com/time>
 * Submit your timesheet at the end of day on Monday
-* For the remaining days in the week “re-submit” the timesheet EACH DAY
-* Put description of work in each entry and ensure that you’ve selected correct project and role
+* For the remaining days in the week "re-submit" the timesheet EACH DAY
+* Put description of work in each entry and ensure that you've selected correct project and role
 * Track your time in increments of 15 minutes, rounded up per CivicActions protocol
 
 ![Harvest screenshot 2](../../../images/harvest02.png)
@@ -51,13 +51,13 @@ Then:
 
 ## Jira Integration
 
-The Harvest plugin in Jira is located along the right column of a ticket. Currently it does NOT update your time in the “Jira Time Tracking” section, but only logs time in Harvest from Jira.
+The Harvest plugin in Jira is located along the right column of a ticket. Currently it does NOT update your time in the "Jira Time Tracking" section, but only logs time in Harvest from Jira.
 
 You must add time to BOTH Harvest plugin & update the Time Tracking section in Jira.
 
 ## Trello Integration
 
-The Trello integration will require that you install the Chrome extension found here: <https://www.getharvest.com/trello> You can then log time directly from Chrome, as well as Trello cards. You may need to refresh or log out/into Trello to see the “Track Time” action.
+The Trello integration will require that you install the Chrome extension found here: <https://www.getharvest.com/trello> You can then log time directly from Chrome, as well as Trello cards. You may need to refresh or log out/into Trello to see the "Track Time" action.
 
 ![Harvest screenshot 3](../../../images/harvest03.png)
 
@@ -77,9 +77,9 @@ The Trello integration will require that you install the Chrome extension found 
 
 Track expenses in the Harvest Expense tracking section.
 
-Except for professional development expenses of less than $50, all expenses should be approved by the relevant budget owner PRIOR to being incurred.  E.G. Owen approves Delivery budget expenses, Bill approves Sales/Bizdev budget expenses and Aaron approves marketing expenses.
+Except for professional development expenses of less than $50, all expenses should be approved by the relevant budget owner PRIOR to being incurred. E.G. Owen approves Delivery budget expenses, Bill approves Sales/Bizdev budget expenses and Aaron approves marketing expenses.
 
-For any project or team onsites, your expenses are almost always reimbursable. Your project manager and Judy will provide information about what is or isn’t reimbursable. For example, if you prefer first class for a flight, then that wouldn’t be reimbursable but the amount for an economy class would.
+For any project or team onsites, your expenses are almost always reimbursable. Your project manager and Judy will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight, then that wouldn't be reimbursable but the amount for an economy class would.
 
 There are mobile apps that make this part of Harvest easy to use, if you'd like to try them:
 
@@ -125,9 +125,9 @@ You do NOT need to log entries when the office is closed for Holiday
 
 ## Harvest Phone App
 
-If you are often “on-the-go” consider downloading the Harvest App.
+If you are often "on-the-go" consider downloading the Harvest App.
 
-This is also great for (and almost required) for any onsite trips you take. It makes entering time easy, but also it’s makes entering your expenses a snap. You can take a photo of your receipt right from the Harvest App - no more worries about losing that receipt or having to enter them all after your trip.
+This is also great for (and almost required) for any onsite trips you take. It makes entering time easy, but also it's makes entering your expenses a snap. You can take a photo of your receipt right from the Harvest App - no more worries about losing that receipt or having to enter them all after your trip.
 
 * <https://www.getharvest.com/android>
 * <https://www.getharvest.com/iphone>

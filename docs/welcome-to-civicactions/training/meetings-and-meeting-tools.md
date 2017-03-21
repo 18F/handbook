@@ -8,11 +8,11 @@ Here, you'll find a list of tools folks at CivicActions use to schedule meetings
 
 Remember that you can book time on your own calendar. We recommend blocking off your own "free" time in two-to-four hour chunks to complete tasks.
 
-Also, if you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda.
+Also, if you're planning a meeting, be sure to state your goal – what the meeting is and what it isn't – in an agenda.
 
 ### All Hands Calls
 
-Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST. You aren't required to attend the all hands, but you are strongly encouraged to -- it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
+Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST. You aren't required to attend the all hands, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
 
 We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the #announcements channel.
 

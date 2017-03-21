@@ -1,6 +1,8 @@
 # EMPLOYEE HANDBOOK
 
-### CivicActions, Inc.
+[![Build Status](https://travis-ci.org/CivicActions/handbook.svg?branch=master)](https://travis-ci.org/CivicActions/handbook)
+
+#### CivicActions, Inc.
 
 2625 Alcatraz Avenue, Suite 320
 Berkeley, CA 94705
@@ -11,17 +13,17 @@ civicactions.com
 
 Effective March 1, 2015
 
-## <a name="purpose"></a>Handbook Purpose
+### <a name="purpose"></a>Handbook Purpose
 
-This Handbook has been prepared to describe CivicActions’ philosophy, employment practices, policies, benefits, and the conduct we expect from members of our team.
+This Handbook has been prepared to describe CivicActions' philosophy, employment practices, policies, benefits, and the conduct we expect from members of our team.
 
-CivicActions operates transparently on a fundamental level. We have very few “rules and regulations.” We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. Left to our own devices, this Handbook would be very short - be open, do your best, ask for help and clarification when you need it, offer help to others, and have fun. 
+CivicActions operates transparently on a fundamental level. We have very few "rules and regulations." We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. Left to our own devices, this Handbook would be very short - be open, do your best, ask for help and clarification when you need it, offer help to others, and have fun. 
 
-That being said, there are topics in this document that are required by law or at least by HR professionals. You will find them under [Required Notices](../../policies/required-notices.md). This Handbook is not designed to answer specific questions or address specific scenarios. It is more likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships. Issues are addressed on a case-by-case basis anyway. We do want you to feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you.   You will find CivicActions a great place to work.
+That being said, there are topics in this document that are required by law or at least by HR professionals. You will find them under [Required Notices](../../policies/required-notices.md). This Handbook is not designed to answer specific questions or address specific scenarios. It is more likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships. Issues are addressed on a case-by-case basis anyway. We do want you to feel free to discuss anything with team members and/or management, whether it's something that disturbs you, something that confuses you or something that excites you.   You will find CivicActions a great place to work.
 
-## <a name="toc"></a>TABLE OF CONTENTS
+### <a name="toc"></a>TABLE OF CONTENTS
 
-### About Us
+#### About Us
 
 * [Introduction](docs/about-us/introduction.md)
 * [Elevator Pitch](docs/about-us/elevator-pitch.md)
@@ -30,7 +32,7 @@ That being said, there are topics in this document that are required by law or a
 * [Mission, Value Proposition, and Operating Principles](docs/about-us/mission-values-operating-principles.md)
 * [Organizational Chart](docs/about-us/org-chart.md)
 
-### Policies
+#### Policies
 
 * [Employment](docs/policies/employment.md)
 * [Conduct and Behavior](docs/policies/conduct-behavior.md)
@@ -44,7 +46,7 @@ That being said, there are topics in this document that are required by law or a
 * [Employment Separation](docs/policies/leaving-civicactions.md)
 * [Required Notices](docs/policies/required-notices.md)
 
-### How We Work
+#### How We Work
 
 * [Bookmarks](docs/how-we-work/bookmarks.md)
 * [Equipment](docs/how-we-work/equipment.md)
@@ -52,13 +54,13 @@ That being said, there are topics in this document that are required by law or a
 * [Common Vocabulary](docs/how-we-work/common-vocab.md)
 * [Gold Star Program](docs/how-we-work/gold-star-program.md)
 
-#### Tools
+##### Tools
 
 * [Basic Communication Tools](docs/how-we-work/tools/basic-communication-tools.md)
 * [Resource Guru](docs/how-we-work/tools/resource-guru.md)
 * [Harvest](docs/how-we-work/tools/using-harvest.md)
 
-### Engineering
+#### Engineering
 
 * [Accessibility](docs/engineering/accessibility.md)
 * [Back End Development](docs/engineering/back-end-development.md)
@@ -75,7 +77,7 @@ That being said, there are topics in this document that are required by law or a
 * [Security/Compliance](docs/engineering/security-compliance.md)
 * [Systems and Sandboxes](docs/engineering/systems-sandboxes.md)
 
-### Project Management
+#### Project Management
 
 * [Invoicing](docs/project-management/invoicing.md)
 * [Onboarding a New Project Team Member](docs/project-management/onboarding-new-project-team-member.md)
@@ -86,17 +88,17 @@ That being said, there are topics in this document that are required by law or a
 * [PTO Request and Approval Process](docs/project-management/pto-request-approval-process.md)
 * [Guidelines for Starting a New Project](docs/project-management/starting-new-project.md)
 
-### [ACKNOWLEDGEMENT](#acknowledgement) \*
+#### [ACKNOWLEDGEMENT](#acknowledgement) \*
 
-### [CHANGE LOG](changelog.md) \*
+#### [CHANGE LOG](changelog.md) \*
 
-# <a name="acknowledgement"></a>ACKNOWLEDGEMENT
+## <a name="acknowledgement"></a>ACKNOWLEDGEMENT
 
-The undersigned acknowledges receipt of CivicActions’ Employee Handbook. The only provision that cannot be amended is the “at-will employment” provision, which is statutory.
+The undersigned acknowledges receipt of CivicActions' Employee Handbook. The only provision that cannot be amended is the "at-will employment" provision, which is statutory.
 
 * * *
 
-Dated						   Signature
+Dated         Signature
 
 * * *
 

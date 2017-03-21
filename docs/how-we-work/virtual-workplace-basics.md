@@ -2,7 +2,7 @@
 
 ### Introduction
 
-CivicActions employees live all over the US and beyond. We work out of home offices in Oakland, New York and Toledo, Spain -- with clients from around the globe.
+CivicActions employees live all over the US and beyond. We work out of home offices in Oakland, New York and Toledo, Spain – with clients from around the globe.
 
 This means our project teams are made up entirely of distributed employees. Below are some tips and strategies we've developed to stay connected and productive when working remotely.
 

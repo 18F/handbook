@@ -20,7 +20,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 ### Primary Responsibilities
 
-* Scrum notes   (taking & sending)
+* Scrum notes (taking & sending)
 * Timebox monitoring (15 minute call)
 * Sticking to the scrum process (avoid discussions mid-checkin)
 * Keeping the team on task
@@ -61,7 +61,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 ### Processes suggestions
 
-* Timebox the demo to 1.5-2 hours, and divide that time by the number of team members. This is generally the amount of time each person can take to present their work.  Remember to leave time for Q&A and the PM intro.
+* Timebox the demo to 1.5-2 hours, and divide that time by the number of team members. This is generally the amount of time each person can take to present their work. Remember to leave time for Q&A and the PM intro.
 * The PM should state to the team how much time they each have to present (this can be stated the day before as well as at the beginning of the demo).
 * The PM should ask for a volunteer to start and then ask that first volunteer to verbally pick the next person to demo.
 * The PM can suggest the order of engineers go first, then UX, then design.
@@ -94,7 +94,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 ### Resources
 
-* Join the [#retrospecting](https://civicactions.slack.com/messages/retrospecting/) Slack channel: 
+* Join the [#retrospecting](https://civicactions.slack.com/messages/retrospecting/) Slack channel:
 * Check out this retrospective template: [TEMPLATE: Sprint Retrospective (Basic)](https://trello.com/b/YEXXigXH/template-sprint-retrospective)
 * Review this retrospective template: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
 
@@ -108,14 +108,14 @@ This meeting helps the team prepare tasks for the next Sprint Planning Meeting. 
 * At the beginning of the meeting, state the goal and timebox (1-2 hours)
 * Share your screen, while looking at the backlog together
 * Guide the team in doing the following during a backlog grooming session:
-  * Write user stories using the template "As a [user type] I want to [achieve some goal] so that [some reason]."
-  * Break down user stories that are too big (epics)
-  * Improve user stories that are poorly written
-  * Estimate backlog items with story points
-  * Prioritize new tasks into the best spot in the backlog
-  * Add acceptance criteria
-  * Look deeper into the backlog to do longer-range technical planning
-  * Ensure the PO and team have identified the top 10-20 highest priority tasks and they are listed in the backlog
+* Write user stories using the template "As a \[user type] I want to \[achieve some goal] so that \[some reason]."
+* Break down user stories that are too big (epics)
+* Improve user stories that are poorly written
+* Estimate backlog items with story points
+* Prioritize new tasks into the best spot in the backlog
+* Add acceptance criteria
+* Look deeper into the backlog to do longer-range technical planning
+* Ensure the PO and team have identified the top 10-20 highest priority tasks and they are listed in the backlog
 
 Here is a helpful video example: <https://youtu.be/b_WeHcZcx1w>
 

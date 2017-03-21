@@ -6,7 +6,7 @@
 * Rate your current and desired level for each skill area. We encourage multi-disciplinary skillsets, so try and cover all areas you can, even if they are not often applicable to your day-to-day work.
 * If you have skills (rabbit juggling?) you don't see listed, please add them to the "Suggested additions" sheet.
 * Look at your deltas, and consider incorporating goals related to these into your professional development Trello board.
-* Come back periodically (e.g. every 6 months) and update your numbers - this will allow you to track your progress over time.
+* Come back periodically (e.g. every 6 months) and update your numbers - this will allow you to track your progress over time.
 
 \##Resources
 

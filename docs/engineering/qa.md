@@ -14,23 +14,23 @@
 * So that we don't break other's sandboxes.
 * We have the ability to view and share code changes:
 * so that we can reference code and commits by URI.
-* Ideally, this would be shareable, browser-based, linked to ticket tracker, e.g. Trac (w/ git plugin) or Redmine or...
+* Ideally, this would be shareable, browser-based, linked to ticket tracker, e.g. Trac (w/ git plugin) or Redmine or...
 * Per Zeke Weeks: (For further discussion: git web UI commonly used by team for reviewing & linking to changes and parts of codebase?)
 * Per David Numan: The language of this one sounds more like a "how", but i think there is a what and why behind it.
-* Per David Numan: btw if you have lighttpd installed (sudo apt-get install lighttpd) you can run your own with this:  
+* Per David Numan: btw if you have lighttpd installed (sudo apt-get install lighttpd) you can run your own with this:
   `git instaweb`
-    `http://git-scm.com/book/ch4-6.html` and this was helpful for setting up gitolite+gitweb locally:  `http://blog.countableset.ch/2012/04/29/ubuntu-12-dot-04-installing-gitolite-and-gitweb/`
+  `http://git-scm.com/book/ch4-6.html` and this was helpful for setting up gitolite+gitweb locally: `http://blog.countableset.ch/2012/04/29/ubuntu-12-dot-04-installing-gitolite-and-gitweb/`
 * Per Steve Wirt: and we use these tools to do paired code review. The developer who wrote the code looks at it with another developer and walks through the approach and the code as part of review and testing.
 * We share QA breadth with our clients in an easily digestible format.
-  * Per Eric Napier: What is the best format??? Behat HTTP Formatter??? Jenkins??? Is there any benefit to further connection of Jira and Behat? Is there a way to do it?
+* Per Eric Napier: What is the best format??? Behat HTTP Formatter??? Jenkins??? Is there any benefit to further connection of Jira and Behat? Is there a way to do it?
 * We have best practices for creating BDD tests.
 * Per Eric Napier: Behat or Codeception? Is there a use case for both? Are there best practices that pertain to both approaches?
 * On our team projects, we practice awareness not just of our own tickets and code commits, but also those of our team members.
 * We use Coder and code review (security, style, etc.) to verify our code is clean and meets industry standards
 * Clean, well-organized code and comments that is executed according to industry-standard and /or Drupal standard (as is the case) helps ensure that our code is structured in a universally understandable, navigable and organized fashion that saves time and reduces error.
-  * Drupal code is code reviewed by tools that have been enhanced especially to analyze Drupal code
-  * JavaScript, SASS and CSS files should also be code reviewed by your tools
-  * Code review should be automated within your IDE or by using git hooks so that this step is not overlooked
+* Drupal code is code reviewed by tools that have been enhanced especially to analyze Drupal code
+* JavaScript, SASS and CSS files should also be code reviewed by your tools
+* Code review should be automated within your IDE or by using git hooks so that this step is not overlooked
 * Per Kevin Walsh: we might want to add bits of <http://web-dev.wirt.us/info/drupal-drupal-7-drush-linux/installing-drush>, <http://web-dev.wirt.us/info/git-drupal-drush/drupal-code-style-review> and <http://web-dev.wirt.us/info/git-drupal-7-drush/drupal-code-style-review-git-commit-hooks> here.
 * We write tests for code/pages that are complex, important or hard to test
 * so that we can concretely test these areas (unit or functional, PHP or JavaScript) and ensure our site works
@@ -62,6 +62,6 @@
 * When reviewing security updates, we document reasons for not updating modules.
 * Use a README or <https://drupal.org/project/update_advanced>
 * We educate clients and testers how to qualify and report repeatable issues.
-* Before a "bug" or other issue is reported it should be "qualified" by the reporting user.  
+* Before a "bug" or other issue is reported it should be "qualified" by the reporting user.
 * (See Issue Qualification or Issue Qualification and Defect Reporting) (<https://civicactions.net/content/issue-qualification> and <https://trac.civicactions.net/internal/template/wiki/IssueQualification>) (NEED TO MOVE THIS CONTENT OVER?)
 * Our sites include site history and QI documentation: <https://trello.com/b/MH1OIHzV/site-history-evaluation-project> (NEED TO MOVE THIS CONTENT?)

@@ -5,7 +5,7 @@
 * [CSS/Sass](#css-sass)
 * [Javascript](#javascript)
 * [Drupal](#drupal)
-  		\- [Javascript in Drupal](#javascript-drupal)
+  * [Javascript in Drupal](#javascript-drupal)
 * [Accessibility](#accessibility)
 * [Images](#images)
 * [Relationship with UX/Design](#ux-design)
@@ -13,58 +13,57 @@
 ## <a name="css-sass"></a>CSS/Sass
 
 * Our CSS should be:
-  		\- **Predictable**
-  		\- **Reusable**
-  		\- **Maintainable**
-  		\- **Scalable**
+  * **Predictable**
+  * **Reusable**
+  * **Maintainable**
+  * **Scalable**
 * We practice responsive design starting mobile first, so our attention and practice is placed on the constrained environment and progressively enhanced.
 * We use Sass to preprocess our CSS.
 * We organize our Sass partials in a logical file structure convention that follows [Drupal 8 file organization practices](https://www.drupal.org/node/1887922):
-  		\- **Base** — CSS reset/normalize plus HTML element styling.
-  		\- **Layout** — macro arrangement of a web page, including any grid systems.
-  		\- **Component** — discrete, reusable UI elements.
-  		\- **State** — styles that deal with client-side changes to components.
-  		\- **Theme** — purely visual styling (“look-and-feel”) for a component.
-  		\- Example:
+  * **Base** — CSS reset/normalize plus HTML element styling.
+  * **Layout** — macro arrangement of a web page, including any grid systems.
+  * **Component** — discrete, reusable UI elements.
+  * **State** — styles that deal with client-side changes to components.
+  * **Theme** — purely visual styling ("look-and-feel") for a component.
+  * Example:
 
-````css:
-             base: css/base/normalize.css css/base/elements.css
-             layout: css/layout/layout.css css/layout/layout--medium.css css/layout/layout--wide.css
-             component: css/components/button.css css/components/dropdown.css css/components/pagination.css css/components/tabs.css …
-             theme: css/theme/theme--light.css css/theme/theme--dark.css ```
 
-            * We write modular CSS that supports design components.
-            * Classes should be named to reflect the intent and purpose of the design element they represent. Eg. instead of using `button--red`, we can ask "Why is the button red?" and name it `notification__button` .
-````
+```
+base: css/base/normalize.css css/base/elements.css
+layout: css/layout/layout.css css/layout/layout--medium.css css/layout/layout--wide.css
+component: css/components/button.css css/components/dropdown.css css/components/pagination.css css/components/tabs.css ...
+theme: css/theme/theme--light.css css/theme/theme--dark.css
+```
 
-/* Component Rules */
+* We write modular CSS that supports design components.
+* Classes should be named to reflect the intent and purpose of the design element they represent. Eg. instead of using `button--red`, we can ask "Why is the button red?" and name it `notification__button`.
+
+/\* Component Rules */
 .component-name
-.component-name--variant
+.component-name–variant
 .component-name**sub-object
-.component-name**sub-object--variant  /* this configuration should be uncommon */
+.component-name**sub-object–variant /* this configuration should be uncommon \*/
 
-/* Layout Rules */
-.layout-layout-method  /* e.g. '.layout-container' */
+/\* Layout Rules */
+.layout-layout-method /* e.g. '.layout-container' \*/
 .grid-\*
 
 /\*\*
 
 * State Classes
-* 
-* These are always applied via JavaScript, and describe a non-default state.
-   */
-  .is-state  /* e.g. '.is-active' \*/
+* * These are always applied via JavaScript, and describe a non-default state.
+    */
+    .is-state /* e.g. '.is-active' \*/
 
 /\*\*
 
 * Functional JavaScript Hooks
-* 
-* When querying or manipulating the DOM from JavaScript, prefer dedicated
+* * When querying or manipulating the DOM from JavaScript, prefer dedicated
 * classes not used for styling (or the id attribute).
 * If using classes, prefix them with 'js-' to mark them for JS use.
 * These 'js-' classes should not appear in stylesheets.
-   */
-  .js-behaviour-hook  /* e.g. .js-slider, .js-dropdown \*/\```
+  */
+  .js-behaviour-hook /* e.g. .js-slider, .js-dropdown \*/\`\`\`
 
 *from [CSS Architecture for Drupal 8](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-8)*:
 
@@ -83,8 +82,8 @@
 ## <a name="drupal"></a>Drupal
 
 * We use a standard starter theme.
-  		\- Drupal 7: Zen
-  		\- Drupal 8: Classy
+  * Drupal 7: Zen
+  * Drupal 8: Classy
 * For Drupal 7, we prefer preprocess and alter functions over templates to alter HTML structure, so that we avoid brittle templates that break as configuration changes. Templates are good for when you need a very specific HTML output, but unnecessary for typical changes that need to affect a small specific change to the default output.
 
 ### <a name="javascript-drupal"></a>Javascript in Drupal
@@ -100,10 +99,10 @@
 ## <a name="images"></a>Images
 
 * We use graphic file formats that are optimized for their intended use:
-  		\- jpg: Continuous tone images.
-  		\- gif: Non-continuous tone images, supports transparency.
-  		\- png: high quality images that support transparency. PNGs are the best suited for the web, except where svgs can be used.
-  		\- svg: Vector graphics format, which means its scalable without any degradation. Use when possible so that we can version control graphics.
+  * jpg: Continuous tone images.
+  * gif: Non-continuous tone images, supports transparency.
+  * png: high quality images that support transparency. PNGs are the best suited for the web, except where svgs can be used.
+  * svg: Vector graphics format, which means its scalable without any degradation. Use when possible so that we can version control graphics.
 
 ## <a name="cross-browser-compatibility"></a>Cross-Browser Compatibility
 
@@ -127,4 +126,4 @@
 * We communicate early and often with UX and design team members.
 * We maintain a repository of graphic assets, UX wireframes and design comps and refer to specific assets in our tickets.
 * We use flowcharting to illustrate complex workflows.
-  		\- Sometimes you need a flowchart to run by all the designers/developers involved in a project to ensure that everyone is on the same page with regards to how data should flow through the system.
+  * Sometimes you need a flowchart to run by all the designers/developers involved in a project to ensure that everyone is on the same page with regards to how data should flow through the system.

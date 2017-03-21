@@ -4,10 +4,10 @@
 
 * [Slack](#slack)
 * [Google Apps](#google-apps)
-  		* [Gmail](#gmail)
-  		* [Google Calendar](#google-calendar)
-  		* [Google Hangouts](#hangouts)
-  		* [Google Docs](#google-docs)
+* [Gmail](#gmail)
+* [Google Calendar](#google-calendar)
+* [Google Hangouts](#hangouts)
+* [Google Docs](#google-docs)
 * [BlueJeans](#blue-jeans)
 * [Telephone Use](#telephone-use)
 
@@ -15,7 +15,7 @@
 
 ### Basics
 
-* We use Slack for chatting with the team -- whether as a whole, in smaller groups, or one on one.
+* We use Slack for chatting with the team – whether as a whole, in smaller groups, or one on one.
 * Ensure your status is set to "available" in Slack when online and free to chat, and "away" when not.
 * Consider getting the Slack desktop app - either the native OS X / Windows one, or the Chrome app, which you can set up to run as a standalone app on system start up.
 
@@ -50,8 +50,6 @@
 * [Formatting your messages](https://slack.zendesk.com/hc/en-us/articles/202288908-Formatting-your-message)
 * [Creating a snippet](https://slack.zendesk.com/hc/en-us/articles/204145658-Creating-a-Snippet)
 
-[Return to TOC](#toc)
-
 ## <a name="google-apps"></a>Google Apps
 
 ### <a name="gmail"></a>Email
@@ -60,15 +58,15 @@
 
 ##### Internal
 
-* We use ca-team@lists.civicactions.net for all team wide communication, and important announcements (slack #announcements used often too)
-* We us ca-employees@lists.civicactions.net for HR notices, etc. (it is generally low traffic)
-* Other email lists: ca-[functionalgroup] -hydra, -orion -sales, -dev, -team, etc.
+* We use <mailto:ca-team@lists.civicactions.net> for all team wide communication, and important announcements (slack #announcements used often too)
+* We us <mailto:ca-employees@lists.civicactions.net> for HR notices, etc. (it is generally low traffic)
+* Other email lists: ca-\[functionalgroup] -hydra, -orion -sales, -dev, -team, etc.
 * Every project has its own list - a way to overhear each other
 
 ##### Client and staff lists
 
-* teach@lists.civicactions.net (includes clients)
-* teach-int@lists.civicactions.net (just for CivicActions staff)
+* <mailto:teach@lists.civicactions.net> (includes clients)
+* <mailto:teach-int@lists.civicactions.net> (just for CivicActions staff)
 
 #### Protocol
 
@@ -87,14 +85,14 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 #### Best Practices
 
 * Set your location, time zone and working hours (& keep them current) using calendar settings: ![Calendar Settings](../../../images/CivicActions_Calendar_Settings.png "Calendar settings")
-* Always send invitations to first.last@civicactions.com
-* Make sure your main first.last@civicactions.com calendar is at sharing at least free/busy with everyone in CivicActions
+* Always send invitations to <mailto:first.last@civicactions.com>
+* Make sure your main <mailto:first.last@civicactions.com> calendar is at sharing at least free/busy with everyone in CivicActions
 * Consider enabling "speedy meetings" (in Settings)
 * Reply to meeting invitations (yes, no, maybe)
 * Use the "optional" feature for attendees who are not required to attend
 * Use the Find a Time feature: !["Find a Time"](../../../images/CivicActions_Calendar_FindTime.png "Find a time") feature to identify a meeting time where all required participants are free.
 * Complete the Event Details section when creating an event
-* If your event is related to a ticket, then include the ticket reference in the event title (i.e. a Jira RD-19 ticket event could be "Prototype Meeting RD-19")
+* If your event is related to a ticket, then include the ticket reference in the event title (i.e. a Jira RD-19 ticket event could be "Prototype Meeting RD-19")
 * You can create a Hangout link from the event (actually, Hangout links, aka "video calls" are automatically generated when you create a new event)
 * Add the Out of Office Calendar !["CivicActions: Out of Office"](../../../images/ooo-cal1.png "Out of Office Calendar") calendar
 
@@ -115,10 +113,10 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 
 #### Available Commands
 
-* /to, /msg [user][message] - Sends an inline private message to the specified user.
+* /to, /msg \[user]\[message] - Sends an inline private message to the specified user.
 * /shortcuts - Open keyboard shortcut help screen
 * /help, /? - Displays a list of command descriptions and usages.
-* /goto [user] - Opens the profile of the specified user in a new tab.
+* /goto \[user] - Opens the profile of the specified user in a new tab.
 * /mute - Mutes the audio of the caller.
 * /unmute - Unmutes the audio of the caller.
 * /vmute - Mutes the video of the caller.
@@ -140,8 +138,6 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 ![Advanced settings](../../../images/sharing2.png "Advanced settings")
 ![Select Link](../../../images/sharing3.png "Select link")
 
-[Return to TOC](#toc)
-
 ## <a name="blue-jeans">BlueJeans</a>
 
 * We use [BlueJeans](https://www.bluejeans.com/) video conferencing software for larger meetings, such as our weekly and montly All Hands Calls. To participate, you may download the BlueJeans app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
@@ -152,5 +148,3 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * Don't rely on speaker feature, but have a headset handy
 * You may need to be called into a Google Hangout if you can't attend the video meeting
 * Sharing your phone number with the client/PO is optional
-
-[Return to TOC](#toc)

@@ -7,7 +7,7 @@
 * [Accessibility Guidelines](#guidelines)
 * [Resources](#resources)
 
-We implement 508 and WCAG compliant websites so that people with all types of disabilities, whether it be physical, mental, or visual impairment, have access to our  sites.
+We implement 508 and WCAG compliant websites so that people with all types of disabilities, whether it be physical, mental, or visual impairment, have access to our sites.
 
 ## <a name="how"></a>How we do this
 
@@ -16,7 +16,7 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 * We implement responsive design strategies that that can present complex data in hierarchical structures, capable of being navigated by audio cues.
 * We implement modules which enable readers to change color schemes and text size displays to accommodate their visual impairments.
 * We test sites using visual screen readers and accessibility testing tools.
-* We use good practices in using semantic markup in page templates and report design to define content hierarchy (e.g. primary head is h1, secondary head is h2, etc).
+* We use good practices in using semantic markup in page templates and report design to define content hierarchy (e.g. primary head is h1, secondary head is h2, etc).
 
 ## <a name="why"></a>When we do this
 
@@ -28,7 +28,7 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 
 * Form elements should have labels.
 * Images should have alt text.
-* Decorative images or images with no content use should either have a null alt tag (alt = “”) or rendered as background images.
+* Decorative images or images with no content use should either have a null alt tag (alt = "") or rendered as background images.
 * Form buttons should have descriptive values.
 * Color should not be used as the sole method of conveying content or distinguishing visual elements.
 * Color alone is not used to distinguish links from surrounding text unless the luminance contrast between the link and the surrounding text is at least 3:1 and an additional differentiation (e.g., it becomes underlined) is provided when the link is hovered over or receives focus.
