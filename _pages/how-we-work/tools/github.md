@@ -57,7 +57,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 ## Rules
 
-- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
+- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please follow the instructions in the Code of Conduct section "How to Address Code of Conduct Concerns."
 
 - **Do not grant Admin rights to anyone but 18F staff.**
 
