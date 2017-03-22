@@ -36,7 +36,6 @@ That being said, there are topics in this document that are required by law or a
 
 * [Employment](docs/policies/employment.md)
 * [Conduct and Behavior](docs/policies/conduct-behavior.md)
-* [Conflict of Interest](docs/policies/conflict-of-interest.md)
 * [Security](https://github.com/CivicActions/security-policy/blob/master/README.md)
 * [Compensation](docs/policies/compensation.md)
 * [Professional Development and Community Participation](docs/policies/prodev-community-participation.md)
