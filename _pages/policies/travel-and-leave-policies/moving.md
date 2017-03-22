@@ -2,7 +2,7 @@
 title: Moving
 ---
 
-If you're moving to a different GSA region, here's what you need to know.
+If you're moving to a different GSA region, please follow all steps below.  If you're moving within the same GSA region, please follow the steps in the "Change your address" section below.
 
 ## Notification and paperwork
 
