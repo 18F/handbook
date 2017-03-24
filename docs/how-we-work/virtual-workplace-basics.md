@@ -26,9 +26,10 @@ For additional tips, check out this blog post by Alaine Karoleff: [Working in a 
 
 * **Err on the side of over-communication.** Proactive over-communication is better than under-communication, especially when you are working with a distributed team. It's good practice to share short updates on the progress of your work throughout the day. Ask questions and reach out, especially during training.
 
-* **Assume team members are working asynchronously.** We use the chat program Slack for most communications. This ensures that all of our communication is documented, organized by channel, and easily searchable at a later time. See [Basic Communication tools](../tools/basic-communication-tools.md) for related best practices.
 
-* **Use email for more formal communication.** In some cases, email may be a more appropriate communication channel than Slack; see [Basic Communication tools](../tools/basic-communication-tools.md) for more information about email best practices.
+* **Assume team members are working asynchronously.** We use the chat program Slack for most communications. This ensures that all of our communication is documented, organized by channel, and easily searchable at a later time. See [Basic Communication tools](tools/basic-communication-tools.md) for related best practices.
+
+* **Use email for more formal communication.** In some cases, email may be a more appropriate communication channel than Slack; see [Basic Communication tools](tools/basic-communication-tools.md) for more information about email best practices.
 
 * **Follow the 30-minute rule.** We encourage engineers to follow a 30-minute rule when working on a technical challenge: don't spend more than 30 minutes banging your head against the wall on an issue - if you're blocked, reach out to members of your team, or ping [#engineering](https://civicactions.slack.com/messages/engineering/).
 
