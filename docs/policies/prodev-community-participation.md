@@ -21,7 +21,6 @@ We value Professional Development and Community Participation for a number of re
   * Having the courage to be vulnerable - which leads to authentic communications and connection
   * Open minded thinking - which leads to increased tolerance of others ideas and personality styles
 
-
 - **Community Participation provides numerous benefits, including:**
 
   - Strengthened relationships with experts that can help when we are stuck
@@ -29,13 +28,12 @@ We value Professional Development and Community Participation for a number of re
   - Opportunities to increase the impact of the work being done by our entire industry - which helps with our mission to transform the way professional services are delivered in government
   - Opportunities for CivicActions to popularize the idea of radical openness, which strengthens our brand
 
-Below is a first flush implementation which we believe will enable us to address our goals. We anticipate future revisions, based on retrospective feedback and learnings.
 
 ### <a name="logistics-policy"></a>Logistics and Policy Information
 
-Each team member shall meet with their manager or mentor for a Professional Development and Community Participation meeting, at least once a year. 
+Each team member will meet with their manager or mentor for a Professional Development and Community Participation meeting, at least once a year. 
 
-The output of the first meeting will be a Professional Development and Community Participation plan, customized to address individual needs and captured on a Trello board. Please see Rollout section at the link below for additional information and guidance.
+The output of the first meeting will be a Professional Development and Community Participation plan, customized to address individual needs and captured on a Trello board. 
 
 - Each full-time team member is eligible for a yearly stipend of $1,200.
   - The stipend will be prorated for team members contracted to work less than full-time (40 hours/week).
