@@ -58,7 +58,7 @@ When you leave CivicActions, you are responsible for returning all CivicActions 
 
 ## Offboarding process
 
-`Duplicate` the `Template` in the [Off-Boarding Tasks](<>) //NEED LINK to make a checklist. More detail for certain tasks is below. Note that, per CivicActions policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at CivicActions.
+`Duplicate` the `Template` in the *Off-Boarding Tasks* @todo: NEED LINK to make a checklist. More detail for certain tasks is below. Note that, per CivicActions policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at CivicActions.
 
 ### Supervisor
 
@@ -67,10 +67,10 @@ When you leave CivicActions, you are responsible for returning all CivicActions 
 
 ### Talent Team
 
-* Conduct an exit interview using [these questions](<>) //NEED LINK.
+* Conduct an exit interview using *these questions* @todo: NEED LINK.
 * Documentation will be kept anonymous.
 * After three samples are gathered, look for trends.
 
 ### Ops Team
 
-* Complete the [clearance checklist](<>) //NEED LINK with the employee.
+* Complete the *clearance checklist* @todo: NEED LINK with the employee.

@@ -12,6 +12,6 @@ We use text editors to write documentation in [Markdown](https://github.com/adam
 * [Sublime Text](http://www.sublimetext.com/)
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
 
-#### Still have questions?
+## Still have questions?
 
 Ask in Slack: [#engineering](https://civicactions.slack.com/messages/engineering/)

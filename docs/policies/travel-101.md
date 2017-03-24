@@ -10,7 +10,7 @@ Travel time is usually billed to a specific project.
 
 ## Per diem
 
-A per diem is an allowance that you get each day you travel for business. See [Tracking Expenses in Harvest](../../how-we-work/tools/harvest.md) for details on the reimbursement process.
+A per diem is an allowance that you get each day you travel for business. See [Tracking Expenses in Harvest](../how-we-work/tools/harvest.md) for details on the reimbursement process.
 
 ## <a name="mileage"></a>Mileage Reimbursement
 
