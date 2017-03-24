@@ -81,6 +81,6 @@ If booking in Fedrooms or using another service, when Concur prompts you to sele
 
 Choosing **"I will book a hotel now"** is another option available to you, which is sometimes, but not always similar to Fedrooms. Choosing this option will allow you to book a hotel in Concur is to book directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile). Then, you can go ahead and follow some more detailed instructions [here](/how-to-book-a-hotel-in-concur).
 
-When you are finished booking your hotel,[proceed on to submitting for Concur approval](/travel-guide-3-approval)
+When you are finished booking your hotel, [proceed on to submitting for Concur approval](/travel-guide-3-approval).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
