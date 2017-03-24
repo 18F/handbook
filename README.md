@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/CivicActions/handbook.svg?branch=master)](https://travis-ci.org/CivicActions/handbook)
 
-#### CivicActions, Inc.
+## CivicActions, Inc.
 
 2625 Alcatraz Avenue, Suite 320
 Berkeley, CA 94705
@@ -57,7 +57,7 @@ That being said, there are topics in this document that are required by law or a
 
 * [Basic Communication Tools](docs/how-we-work/tools/basic-communication-tools.md)
 * [Resource Guru](docs/how-we-work/tools/resource-guru.md)
-* [Harvest](docs/how-we-work/tools/using-harvest.md)
+* [Harvest](docs/how-we-work/tools/harvest.md)
 
 #### Engineering
 
@@ -89,7 +89,7 @@ That being said, there are topics in this document that are required by law or a
 
 #### [ACKNOWLEDGEMENT](#acknowledgement) \*
 
-#### [CHANGE LOG](changelog.md) \*
+#### [CHANGE LOG](CHANGELOG.md) \*
 
 ## <a name="acknowledgement"></a>ACKNOWLEDGEMENT
 
