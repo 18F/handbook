@@ -7,7 +7,7 @@
 * [Background Checks](#background-check)
 * [Immigration Law Compliance](#immigration-law)
 * [Employment Classifications](#employment-classification)
-* [Personnel (and Personal) Records](#personrecords)
+* [Personnel (and Personal) Records](#personrecord)
 * [Employee References](#employee-reference)
 
 ## <a name="trinet"></a>TriNet

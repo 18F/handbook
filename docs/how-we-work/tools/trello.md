@@ -34,7 +34,7 @@ Our Trello boards containing active work are usually organized either as *Kanban
 
 Trello's business model is based on people paying for powerups, which are additional features. On most projects we rarely need more than one or two. Free accounts are limited to one power up oer board, so use it wisely. Luckily, browser extensions often provide the same functionality as powerups.
 
-#### Powerups
+### Powerups
 
 * Github Powerup: connect your board to a Github repo, and link out to Pull Requests. Small icons appear on the front of the card to show whether or not that card's icon has been merged.
 * Voting Powerup: this is a great tool for taking straw polls on priorities. We often use the voting powerup on retrospectives to determine consensus on priorities.
@@ -42,7 +42,7 @@ Trello's business model is based on people paying for powerups, which are additi
 
 A full list of powerups is available at <https://trello.com/power-ups>
 
-#### Extensions
+### Extensions
 
 * [Harvest for Trello](https://www.getharvest.com/trello-time-tracking) allows you to track hours directly from Trello, leaving links to the cards in the notes field in your [Harvest](harvest.md) time entries. You don't need the Powerup–you can install the [Chrome](https://chrome.google.com/webstore/detail/fbpiglieekigmkeebmeohkelfpjjlaia) extension and it will add the Track Time button to the back of the card (no FF extension as far as i know).
 * [Scrum for Trello](http://scrumfortrello.com/) Allows Fibonacci-style user story point (or hours) estimating, which helps you to tally all estimated story points on a list, or a boad. To use, simply open a Trello card click the title of the card to edit it. There are buttons with Fibonacci numbers (1, 2, 3, 5, 8, ...etc.) to let you quickly add an estimate. You can also type in the estimate or the time-spent. To type an estimate, just surround it in parentheses like this: (4) to type the amount of time-spent, put that in square brackets like this: \[2]. Those numbers can appear anywhere in the title, but a common convention is to put the estimate at the beginning of the card and the time-spent at the end, like this: "(8) Create Firefox Extension \[4.5]". Decimal numbers are accepted for both values. Some projects require this extension for all team members.

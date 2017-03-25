@@ -1,6 +1,6 @@
 # Virtual Workplace Basics
 
-### Introduction
+## Introduction
 
 CivicActions employees live all over the US and beyond. We work out of home offices in Oakland, New York and Toledo, Spain – with clients from around the globe.
 
@@ -8,7 +8,7 @@ This means our project teams are made up entirely of distributed employees. Belo
 
 For additional tips, check out this blog post by Alaine Karoleff: [Working in a Distributed Team Environment](https://civicactions.com/blog/working-in-a-distributed-team-environment/).
 
-### Starting and Ending a Day with a Remote Team
+## Starting and Ending a Day with a Remote Team
 
 **When beginning your work day:**
 
@@ -22,7 +22,7 @@ For additional tips, check out this blog post by Alaine Karoleff: [Working in a 
 * Close Slack so that you don't appear to be online when you're not.
 * Log and submit your hours for the day in Harvest.
 
-### Communication Best Practices
+## Communication Best Practices
 
 * **Err on the side of over-communication.** Proactive over-communication is better than under-communication, especially when you are working with a distributed team. It's good practice to share short updates on the progress of your work throughout the day. Ask questions and reach out, especially during training.
 
@@ -33,7 +33,7 @@ For additional tips, check out this blog post by Alaine Karoleff: [Working in a 
 
 * **Follow the 30-minute rule.** We encourage engineers to follow a 30-minute rule when working on a technical challenge: don't spend more than 30 minutes banging your head against the wall on an issue - if you're blocked, reach out to members of your team, or ping [#engineering](https://civicactions.slack.com/messages/engineering/).
 
-### Talking Timezones
+## Talking Timezones
 
 As a company, we usually reference time using Pacific Standard Time (PST, or PT for short). If you're chatting with your whole team or even just a few members, it's best practice to reference time in PT.
 
@@ -46,7 +46,7 @@ When in doubt use both PT & ET and make sure you're clarifying the timezone when
 * CT: Central Time
 * ET: Eastern Time
 
-### Virtual Workspaces
+## Virtual Workspaces
 
 Team members share images and tips about our virtual workplaces
 in [Our Workspaces](https://trello.com/b/TJsUalpG/our-workspaces). Join the board, have a look around, and consider adding your own cards and photos.
