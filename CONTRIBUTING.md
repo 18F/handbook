@@ -1,12 +1,12 @@
 # How to update the handbook
 
-### The lazy way (get someone else to do it!)
+## The lazy way (get someone else to do it!)
 
 Better than doing nothing at all: [Open a Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a suggestion, or chat about it in [#docs](https://civicactions.slack.com/messages/docs/).  
 
 > @todo [Update this to refer to github issues once we switch](https://trello.com/c/Kxf3ER8i/98-move-issue-tracking-for-this-repo-to-issues)
 
-### The easy way, via the github UI on the master branch
+## The easy way, via the github UI on the master branch
 
 We only recommend this approach for those who are not already familiar with the git workflow, and who do not have tools for keeping their github forks up to date.
 
@@ -16,9 +16,9 @@ Go to a page, click edit, and make your changes, using [markdown](https://guides
 
 When you save it ("make a commit"), there are three fields to fill out. *All of these are optional*, with default values, and in most cases it's fine to leave the defaults.
 
-* **The commit title**: By default it is something like "Update [filename]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
+* **The commit title**: By default it is something like "Update _filename_". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
 * **Extended description**: Explain your changes, if you wish. Useful if you need more than the 50 characters available in the title.
-* **The branch name:** By default this will be a new branch, with a name like [username]-patch-1.  If you want to change it to something more semantic (eg [username]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.  
+* **The branch name:** By default this will be a new branch, with a name like _username_-patch-1.  If you want to change it to something more semantic (eg _username_-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.  
 
 After you commit, you will be asked if you want to create a new pull request with the branch you created.  You'll again be presented with a few fields, which you can generally leave as is.
 
@@ -32,7 +32,7 @@ Or, if you want to make other changes on the same branch and have it reviewed at
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.  
 
-### The recommended, but more advanced way: fork the handbook
+## The recommended, but more advanced way: fork the handbook
 
 If you're familiar with the git fork and PR workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 
