@@ -9,6 +9,7 @@
 * [Accessibility](#accessibility)
 * [Images](#images)
 * [Relationship with UX/Design](#ux-design)
+* [Development Tools](#dev-tools)
 
 ## <a name="css-sass"></a>CSS/Sass
 
@@ -83,7 +84,7 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
 
 * We use a standard starter theme.
   * Drupal 7: Zen
-  * Drupal 8: Classy
+  * Drupal 8: Classy/Stable
 * For Drupal 7, we prefer preprocess and alter functions over templates to alter HTML structure, so that we avoid brittle templates that break as configuration changes. Templates are good for when you need a very specific HTML output, but unnecessary for typical changes that need to affect a small specific change to the default output.
 
 ### <a name="javascript-drupal"></a>Javascript in Drupal
@@ -127,3 +128,11 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
 * We maintain a repository of graphic assets, UX wireframes and design comps and refer to specific assets in our tickets.
 * We use flowcharting to illustrate complex workflows.
   * Sometimes you need a flowchart to run by all the designers/developers involved in a project to ensure that everyone is on the same page with regards to how data should flow through the system.
+  
+## <a name="dev-tools"></a>Development Tools
+* We setup a frontend development workflow that includes:
+  * SASS compiling with: https://www.npmjs.com/package/gulp-sass
+  * SASS/CSS linting with a combination of https://github.com/kristerkari/stylelint-scss & https://github.com/CSSLint/csslint (there is ongoing work to add CSSlint rules into stylelint-scss.)
+  * ESLint for JS: https://www.npmjs.com/package/eslint
+  * Autoprefixer: https://www.npmjs.com/package/autoprefixer
+* We prefer the Yarn Package manager (https://github.com/yarnpkg/yarn) over NPM. 
