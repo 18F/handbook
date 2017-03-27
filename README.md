@@ -17,7 +17,7 @@ Effective March 1, 2015
 
 This Handbook has been prepared to describe CivicActions' philosophy, employment practices, policies, benefits, and the conduct we expect from members of our team.
 
-CivicActions operates transparently on a fundamental level. We have very few "rules and regulations." We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. Left to our own devices, this Handbook would be very short - be open, do your best, ask for help and clarification when you need it, offer help to others, and have fun. 
+CivicActions operates transparently on a fundamental level. We have very few "rules and regulations." We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. Left to our own devices, this Handbook would be very short - be open, do your best, ask for help and clarification when you need it, offer help to others, and have fun.
 
 That being said, there are topics in this document that are required by law or at least by HR professionals. You will find them under [Required Notices](docs/policies/required-notices.md). This Handbook is not designed to answer specific questions or address specific scenarios. It is more likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships. Issues are addressed on a case-by-case basis anyway. We do want you to feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you.   You will find CivicActions a great place to work.
 
@@ -25,11 +25,10 @@ That being said, there are topics in this document that are required by law or a
 
 #### About Us
 
-* [Introduction](docs/about-us/introduction.md)
-* [Elevator Pitch](docs/about-us/elevator-pitch.md)
-* [History and Values](docs/about-us/history-and-values.md)
-* [General Contacts and Listservs](docs/about-us/general-contacts-and-listservs.md)
 * [Mission, Value Proposition, and Operating Principles](docs/about-us/mission-values-operating-principles.md)
+* [Background and History](docs/about-us/background-and-history.md)
+* [Elevator Pitch](docs/about-us/elevator-pitch.md)
+* [General Contacts and Listservs](docs/about-us/general-contacts-and-listservs.md)
 * [Organizational Chart](docs/about-us/org-chart.md)
 
 #### Policies
