@@ -69,7 +69,7 @@ That being said, there are topics in this document that are required by law or a
 
 * [Accessibility](docs/engineering/accessibility.md)
 * [Back End Development](docs/engineering/back-end-development.md)
-* [DevOps](docs/engineering/dev-ops.md)
+* [Development and Hosting Environments](docs/engineering/dev-environments.md)
 * [Drupal Site Building](docs/engineering/drupal-site-building.md)
 * [Engineering Roles](docs/engineering/engineering-roles.md)
 * [Engineer's Role in Client/Team Relationships](docs/engineering/engineer-role-in-client-relationships.md)
