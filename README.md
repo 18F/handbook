@@ -89,5 +89,3 @@ That being said, there are topics in this document that are required by law or a
 * [Invoicing](docs/project-management/invoicing.md)
 * [Planning a "Project Onsite"](docs/project-management/planning-project-onsite.md)
 * [PTO Request and Approval Process](docs/project-management/pto-request-approval-process.md)
-
-#### [CHANGE LOG](CHANGELOG.md)
