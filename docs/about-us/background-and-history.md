@@ -1,4 +1,3 @@
-
 # Background / History
 
 CivicActions, Inc. is a professional services firm delivering agile system development lifecycle services with a focus on free & open source software (FOSS). One of the things that makes us unique is our radical openness. Our largest federal clients in 2016 were the Defense Security Cooperation Agency, Department of Education, Federal Communications Commission, and through our partner Acquia, Department of Justice and Department of Treasury. Our largest Non-Profit client was Cal Poly where we re-built the Digital Democracy Platform and their DevOps pipeline.

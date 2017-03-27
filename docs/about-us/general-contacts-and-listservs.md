@@ -15,22 +15,25 @@
 
 ### General
 
-* Team-wide communication: <ca-team@lists.civicactions.net>
-* Request PTO: <ca-timeoff@lists.civicactions.net>
-* HR Notices: <ca-employees@lists.civicactions.net>
+* Team-wide communication: <mailto:ca-team@lists.civicactions.net>
+* Request PTO: <mailto:ca-timeoff@lists.civicactions.net>
+* HR Notices: <mailto:ca-employees@lists.civicactions.net>
 
 ### Pods
-* Hydra: <ca-hydra@lists.civicactions.net>
-* Orion: <ca-orion@lists.civicactions.net>
-* Pyxis: <ca-pyxis@lists.civicactions.net>
+
+* Hydra: <mailto:ca-hydra@lists.civicactions.net>
+* Orion: <mailto:ca-orion@lists.civicactions.net>
+* Pyxis: <mailto:ca-pyxis@lists.civicactions.net>
 
 ### Functional Groups
-* Engineering: <ca-dev@lists.civicactions.net>
-* Project Management: <ca-pm@lists.civicactions.net>
-* Sales: <ca-sales@lists.civicactions.net>
-* Marketing: <ca-marketing@lists.civicactions.net>
+
+* Engineering: <mailto:ca-dev@lists.civicactions.net>
+* Project Management: <mailto:ca-pm@lists.civicactions.net>
+* Sales: <mailto:ca-sales@lists.civicactions.net>
+* Marketing: <mailto:ca-marketing@lists.civicactions.net>
 
 ### Projects
+
 * Every project has its own listserv, for example:
-	- teach@lists.civicactions.net (includes clients)
-	- teach-int@lists.civicactions.net (includes only CivicActions staff)
+  * <mailto:teach@lists.civicactions.net> (includes clients)
+  * <mailto:teach-int@lists.civicactions.net> (includes only CivicActions staff)

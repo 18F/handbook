@@ -8,22 +8,22 @@ Here, you'll find a list of tools folks at CivicActions use to schedule meetings
 
 Remember that you can book time on your own calendar. We recommend blocking off your own "free" time in two-to-four hour chunks to complete tasks.
 
-Also, if you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda.
+Also, if you're planning a meeting, be sure to state your goal – what the meeting is and what it isn't – in an agenda.
 
 ### All Hands Calls
 
-Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST. You aren't required to attend the all hands, but you are strongly encouraged to -- it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
+Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST. You aren't required to attend the all hands, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
 
 We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the #announcements channel.
 
 ### Daily Scrum Calls
 
-Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling. Standups _usually_ take this form:
+Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling. Standups *usually* take this form:
 
-- Balance score: (1-10)
-- Yesterday: I did this thing.
-- Today: I plan to do this other thing.
-- Blockers: This is currently or potentially inhibiting me from doing what I'd like to do.
+* Balance score: (1-10)
+* Yesterday: I did this thing.
+* Today: I plan to do this other thing.
+* Blockers: This is currently or potentially inhibiting me from doing what I'd like to do.
 
 For more specific information, see [Daily Scrum Calls](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/daily-scrum-calls.md).
 
@@ -57,7 +57,6 @@ Here's an overview of how CivicActions uses specific tools to facilitate meeting
 
 For Google Calendar best practices, see [Basic Communication Tools](../../how-we-work/tools/basic-communication-tools.md#google-calendar).
 
-
 ### Doodle
 
 People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-time surveys. If you're flexible on when you want your meeting to start, it's a great idea to send out a Doodle and poll attendees on what times work for them.
@@ -66,10 +65,10 @@ People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-tim
 
 [Google Hangouts](../../how-we-work/tools/basic-communication-tools.md#hangouts) are video chats in the browser. Here are some tips for using Hangouts:
 
-- **You can add a Google Hangout to a meeting invite** by clicking "Add video call" on the event management page.
-- **You can also start or share a hangout from Slack** by typing `/hangout`.
-- **You can dial people into a Hangout.** A Hangout's "invite" dialog can generate a phone number that people can call.
-- Use screensharing for demos and for pairing.
+* **You can add a Google Hangout to a meeting invite** by clicking "Add video call" on the event management page.
+* **You can also start or share a hangout from Slack** by typing `/hangout`.
+* **You can dial people into a Hangout.** A Hangout's "invite" dialog can generate a phone number that people can call.
+* Use screensharing for demos and for pairing.
 
 For Google Hangouts best practices and available commands, see [Basic Communication Tools](../../how-we-work/tools/basic-communication-tools.md#hangouts).
 

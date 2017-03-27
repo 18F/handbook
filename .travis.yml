@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- '6'
+cache: yarn
+notifications:
+  slack:
+    secure: P+e4WfHH0I8S11YCqCtbB+PnIVofCBcwFQp/1b1mhZnznwM8yV7lI4BDdD21VB/akFTVPpue+lAWJ5x2Gu3ap4e0TFsprvcFxmxaGhu3ApNPLBqatNfg/BeDI62e8S6GjA+KX1DTRyKI4fk06GckGXQJ5JzeHvGlYkde1WygoIcGtZW13LzSIsAcbnsonIfRvHxloG/MCTdaiTPmNJ2d7LfhFEco3Ia92NADuNyYf7Izzw7sJiwJRBl0It9svLTuLY4TTJqJnBIqSWrF6fregJWXgpewjaAD70JZTSNLMcc+R2zmvpxuSF5976Vc+YD6rCA8HPe2sO1Gl4xjSk8ZOrRUaFwlt+EqjUExEG9pAS6RXOC6sP1cEraNxs+qfHyAquUeNQX1hQ/mZRfcAzEQZIfsr4wstxIVoV0R++7pfM/2DkcR9lMgsmmFO1/I5gvEbL7v1cqxpsFLW7++380C05u0TxIo80Ah+3YfYPdVJtl4B/2I5dZEGp4mVoq1Jy2e6Gy0fyC3ImIMRTGJPPhOzCwJLztyTvnXV2H8ZRj2itlwQCzr/XvC48JycCxhgFw4TXMY3bZP0umntZVkIbAjG/N0Au3LBzPhxJsZsvK6ri5Hw47gIigqXGeaZ33WYVxyW5IONxQuG2937RR8W/5m0/E04h8rYww/s9Kb0EMnUcE=
+script:
+- gulp | tee output.log
+- bash -c '! egrep -q "(error\W)" output.log'
+sudo: false

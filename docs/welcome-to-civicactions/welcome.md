@@ -1,13 +1,14 @@
 # New Hire Orientation
 
 ## Table of Contents
+
 * [Welcome to CivicActions](#welcome)
 * [Onboarding Process](#onboarding-process)
 * [Links and Resources](#links)
 
 ## <a name="welcome"></a>Welcome to CivicActions!
 
-We’re honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present, which has led to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
+We're honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present, which has led to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
 
 ### <a name="learn"></a>Learn more about CivicActions
 
@@ -20,13 +21,13 @@ As part of the new employee onboarding process, we created the following Onboard
 
 ### Schedule
 
-This is a typical onboarding schedule, but the timing may shift based on when you’re hired and company holidays, etc.
+This is a typical onboarding schedule, but the timing may shift based on when you're hired and company holidays, etc.
 
 #### <a name="week-1"></a>Week 1
-The first week will be dedicated to general orientation. You’ll also learn about our working practices, our primary tools and how we use them, and your specific job role.
+
+The first week will be dedicated to general orientation. You'll also learn about our working practices, our primary tools and how we use them, and your specific job role.
 
 > @todo [Update Day 4 and Day 5 Role-based Training rows with appropriate links](https://trello.com/c/L1FxQ1pp/101-add-appropriate-links-for-role-based-training-to-day-4-and-day-5-sections-of-welcome-md)
-
 
 #### Day 1
 
@@ -48,7 +49,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### Day 2
 
 <table>
@@ -69,7 +69,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### Day 3
 
 <table>
@@ -94,7 +93,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### Day 4
 
 <table>
@@ -115,7 +113,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### Day 5
 
 <table>
@@ -140,7 +137,6 @@ The first week will be dedicated to general orientation. You’ll also learn abo
     <td>With your mentor</td>
   </tr>
 </table>
-
 #### <a name="later-weeks"></a>Weeks 2-4
 
 The rest of your first month will be dedicated to completing the "First month" tasks in your New Hire Checklist, and further acclimating to your role and project(s). Welcome aboard!
@@ -159,12 +155,12 @@ The rest of your first month will be dedicated to completing the "First month" t
     <td>https://github.com/CivicActions/agile-baseline</td>
   </tr>
 </table>
-
 ### Human resources (HR)
 
 CivicActions uses TriNet for outsourcing benefits, payroll, and human resources support. TriNet offers self-directed online new hire orientations. Each session take approximately 30 minutes. To access the on-demand orientation at any time, simply log into HR Passport. Visit the "New Hire Orientation" link under "Resources" from HR Passport's home page. The course can be completed all at once, or on an intermittent schedule with course completion tracked through TriNet University.
 
 #### Benefits
+
 <table>
   <tr>
     <td>Health, Dental and Vision Insurance</td>
@@ -175,28 +171,27 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
     <td>https://www.retirementaccountlogin.net/turningpoint/</td>  
   </tr>
 </table>
-
 #### Before your first day
 
-> @todo [Add information about forms, paperwork, etc. that new hires need to complete before beginning work ](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
-
-
+> @todo [Add information about forms, paperwork, etc. that new hires need to complete before beginning work](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
 
 // TO REVIEW:
 
-
 ### Day 4
+
 #### Role-based training/orientation (PM track or Engineering or UX/Content Strategy/Design track)
 
 ##### Project Manager Training
+
 * Shadowing on calls
 * Resourcing
 * PM Tools
-  * Resource Guru
-  * Harvest
-  * Jira
+* Resource Guru
+* Harvest
+* Jira
 
 ##### Engineering Training
+
 * Engineering Roles and Agile
 * Engineering Practices
 * Git Overview
@@ -204,13 +199,16 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 * Security Overview
 
 #### UX for Everyone (2 hours) (with Jen)
+
 * Story mapping/stories on board
 * UX-Agile
 
 ### Day 5
+
 #### Role-based training/orientation (PM track or Engineering or UX/Content Strategy/Design track)
 
 ##### Project Manager Training: Read about Project Manager Role
+
 * The difference between PM and ScrumMaster roles
 * PM role in scrum calls
 * PM role in sprint demos
@@ -220,15 +218,16 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 * Other miscellaneous PM responsibilities
 
 ##### Engineering Training
+
 * Getting set up: tools and sandboxes
 
 ### Checklists
 
 The Trello boards below serve as lists of tasks for you to complete with corresponding links and timelines.
 
-- [New Hire Checklist](https://trello.com/b/sMn9YJcO/onboarding-new-hire-checklist-draft) (for all new hires)
-- [Dev/Engineer Checklist](https://trello.com/b/bQeKK90e/onboarding-dev-engineering-new-employee-checklist-draft) (for new engineers only)
-- [Project Manager Checklist](https://trello.com/b/KnmBekdC/onboarding-project-manager-new-employee-checklist-draft) (for new PMs only)
-- [Manager Checklist](https://trello.com/b/FOILJ0i6/onboarding-manager-checklist-draft) (for onboarding managers)
-- [Mentor Checklist](https://trello.com/b/LLHq2eTI/onboarding-mentor-checklist-draft) (for onboarding mentors)
-- [Admin/HR Checklist](https://trello.com/b/RbC0clMU/onboarding-admin-hr-checklist-draft) (for Judy)
+* [New Hire Checklist](https://trello.com/b/sMn9YJcO/onboarding-new-hire-checklist-draft) (for all new hires)
+* [Dev/Engineer Checklist](https://trello.com/b/bQeKK90e/onboarding-dev-engineering-new-employee-checklist-draft) (for new engineers only)
+* [Project Manager Checklist](https://trello.com/b/KnmBekdC/onboarding-project-manager-new-employee-checklist-draft) (for new PMs only)
+* [Manager Checklist](https://trello.com/b/FOILJ0i6/onboarding-manager-checklist-draft) (for onboarding managers)
+* [Mentor Checklist](https://trello.com/b/LLHq2eTI/onboarding-mentor-checklist-draft) (for onboarding mentors)
+* [Admin/HR Checklist](https://trello.com/b/RbC0clMU/onboarding-admin-hr-checklist-draft) (for Judy)
