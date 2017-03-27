@@ -1,4 +1,4 @@
-# QA
+# Quality Assurance
 
 ## About the QA Practice Area
 

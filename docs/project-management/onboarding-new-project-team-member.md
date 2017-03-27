@@ -1,4 +1,4 @@
-# Project Team Member Onboarding Process
+# Onboarding a New Project Team Member
 
 * Project Manager and Tech Lead shall meet with the new team member before they begin to discuss the project and set expectations. If the new team member is a contractor, the PM and TL interview the contractor for fit in terms of team and work capabilities.
 * PM writes a follow up email outlining what was discussed, linking to necessary documents, sharing helpful screenshots, outlining next steps, expectations, etc.

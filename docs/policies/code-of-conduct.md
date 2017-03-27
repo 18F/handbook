@@ -1,4 +1,4 @@
-# <a name="conduct-behavior"></a>CONDUCT AND BEHAVIOR
+# Code of Conduct
 
 ## <a name="general-guideline"></a>General Guidelines
 
