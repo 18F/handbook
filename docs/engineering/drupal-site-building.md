@@ -28,7 +28,7 @@
 * [We use/create panels layouts, rather than adding page specific layout adjustments](#panels-layouts)
 * [We configure streamlined and semantic markup by default](#markup)
 * [We set a "module budget" for a project](#module-budget)
-* [We consider various featurization strategies prior to starting a project](#featurization-strategies)
+* [We consider various featurization strategies prior to starting a project](#featurization)
 * [We avoid namespace conflicts](#avoid-conflicts)
 * [We use drush to update node access](#drush)
 * [We don't like media_gallery module](#media_gallery)
@@ -68,9 +68,11 @@ We need to scope out high risk tickets to inform basic site architecture decisio
 * Complex permissions
 * Search
 
-### <a name="drupal-contrib"></a>We use established Drupal contrib projects rather than writing custom code.
 
-It's generally cheaper to maintain and the barrier to maintainability is lower (less programmer skills). There are often established best practices around projects that allow us to standardize. We can take advantage of other developers insights and skills.
+
+### <a name="drupal-contrib"></a> We use Drupal contrib projects rather than custom code.
+
+We use established Drupal contrib projects rather than writing custom code. It's generally cheaper to maintain and the barrier to maintainability is lower (less programmer skills). There are often established best practices around projects that allow us to standardize. We can take advantage of other developers insights and skills.
 
 #### How do we do this?
 
@@ -215,6 +217,7 @@ Drupal has a notoriously poor content workflow and editing experience OOTB. Ther
 
 ### <a name="data"></a>We import and export data: Feeds and Migrate
 
+@todo:  
 //needs content
 
 ### <a name="social-media"></a>We include social media functions
@@ -431,7 +434,8 @@ We do this so that our pages are smaller, faster and simpler to theme as well as
 
 We do this to prioritize functionality and keep things maintainable and performant.
 
-### <a name="featurization-strategies"></a>We consider featurization strategies before starting a project.
+
+### <a name="featurization"></a> We consider featurization strategies before starting a project.
 
 #### Strategies
 
