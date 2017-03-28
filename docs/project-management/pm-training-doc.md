@@ -97,14 +97,14 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 
 ## <a name="project-deliverables"></a>Typical PM Project Deliverables
 
-* burn down and/or burn up reports
-* hours reports
-* monthly status
-* sprint plans
-* monthly deliverables
-* quarterly deliverables
-* integrated project plan (IPP)
-* release notes
+* Burn down and/or burn up reports
+* Hours reports
+* Monthly status
+* Sprint plans
+* Monthly deliverables
+* Quarterly deliverables
+* Integrated project plan (IPP)
+* Release notes
 
 ## <a name="pm-tools"></a>PM Tools
 
