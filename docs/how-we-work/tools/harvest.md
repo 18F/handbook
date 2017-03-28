@@ -1,4 +1,4 @@
-# Using Harvest
+# Harvest
 
 ## Table of Contents
 

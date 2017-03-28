@@ -1,4 +1,4 @@
-# <a name="conduct-behavior"></a>CONDUCT AND BEHAVIOR
+# Code of Conduct
 
 ## <a name="general-guideline"></a>General Guidelines
 
@@ -21,6 +21,8 @@ Within a virtual working environment communication is vital to keeping a collabo
 CivicActions is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form and employees who violate this code of conduct may be subject to disciplinary actions.
 
 Be mindful. Having a diverse team means that we will have different opinions, viewpoints and experiences. This also means that we may not agree on what is humorous, insulting or rude. We all stand to learn from each other and that includes gaining awareness to how others perceive certain communications. Participants asked to stop any harassing behavior are expected to comply immediately.
+
+We follow the platinum rule at CivicActions. The golden rule is to do to others as you would have them do to you. The platinum rule is to do to others as they would like to have done to them. This requires mindful attention of each person and respect for their culture, background, and vulnerabilities.
 
 Be friendly and welcoming. As our team grows, we are more likely to have peers that we don't directly work with. We all have an opportunity to be friendly in other arenas to get to know each other, including retreats, pod calls, and social slack channels. Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the company.
 
@@ -105,25 +107,3 @@ Here are a few examples of unacceptable behavior:
 * Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender identity; for instance by using incorrect pronouns or forms of address (misgendering).
 
 * Retaliating against anyone who files a formal complaint that someone has violated these codes or laws.
-
-### Credits
-
-18F is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
-
-* [Bridge Foundry Code of Conduct](http://bridgefoundry.org/code-of-conduct/) used for RailsBridge, and other related workshops and open source projects
-* [Open Hatch Project Codes of Conduct](https://openhatch.org/wiki/Project_codes_of_conduct)
-* [Yes and Yes Yes Code of Conduct](http://yesandyesyes.com/code-of-conduct)
-* [Ada Initiative: HOWTO design a code of conduct for your community](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
-* [PyLadies Code of Conduct](http://www.pyladies.com/CodeOfConduct/)
-* [Hacker School User's Manual: The Environment](https://www.hackerschool.com/manual#sec-environment)
-* [Geek Feminism Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)
-* [Geek Feminism Wiki: Codes of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
-* [Python Code of Conduct](https://www.python.org/psf/codeofconduct/)
-* [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
-
-Relevant legal considerations:
-
-* [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516)
-* [Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm)
-* [Types of Discrimination prohibited by law](http://www.eeoc.gov/laws/types/)
-* [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm)
