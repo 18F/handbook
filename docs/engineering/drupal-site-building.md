@@ -28,7 +28,7 @@
 * [We use/create panels layouts, rather than adding page specific layout adjustments](#panels-layouts)
 * [We configure streamlined and semantic markup by default](#markup)
 * [We set a "module budget" for a project](#module-budget)
-* [We consider various featurization strategies prior to starting a project](#featurization-strategies)
+* [We consider various featurization strategies prior to starting a project](#featurization)
 * [We avoid namespace conflicts](#avoid-conflicts)
 * [We use drush to update node access](#drush)
 * [We don't like media_gallery module](#media_gallery)
@@ -68,9 +68,11 @@ We need to scope out high risk tickets to inform basic site architecture decisio
 * Complex permissions
 * Search
 
-### <a name="drupal-contrib"></a>We use established Drupal contrib projects whenever possible, rather than writing custom code.
 
-It's generally cheaper to maintain and the barrier to maintainability is lower (less programmer skills). There are often established best practices around projects that allow us to standardize. We can take advantage of other developers insights and skills.
+
+### <a name="drupal-contrib"></a> We use Drupal contrib projects rather than custom code.
+
+We use established Drupal contrib projects rather than writing custom code. It's generally cheaper to maintain and the barrier to maintainability is lower (less programmer skills). There are often established best practices around projects that allow us to standardize. We can take advantage of other developers insights and skills.
 
 #### How do we do this?
 
@@ -150,7 +152,7 @@ Blocks vs Context vs Panels vs Panelizer.
 * Can lock down default layouts while enabling modification by content creators.
 * Con: Content creator customizations can't be version controlled as they reside in the db. Can cause major issues down the road.
 
-### <a name="configure"></a>We configure content structure as much as we can before we configure content display.
+### <a name="configure"></a>We configure content structure before content display.
 
 There's an iterative link between content structure and content display. It's important to configure content structure as far as you can before working on display because It expedites content entry by content creators and you can't display what doesn't exist.
 
@@ -172,7 +174,7 @@ There's an iterative link between content structure and content display. It's im
 
 #### Examples
 
-* [eatfresh.org](eatfresh.org) recipe development: food integrates with instructions, with sources, with specific geo-location specific variables tied to county of residence.
+* [eatfresh.org](http://eatfresh.org/) recipe development: food integrates with instructions, with sources, with specific geo-location specific variables tied to county of residence.
 
 ### <a name="change"></a>We build sites such that we can accommodate changing needs and requirements.
 
@@ -215,6 +217,7 @@ Drupal has a notoriously poor content workflow and editing experience OOTB. Ther
 
 ### <a name="data"></a>We import and export data: Feeds and Migrate
 
+@todo:  
 //needs content
 
 ### <a name="social-media"></a>We include social media functions
@@ -293,8 +296,9 @@ Drupal configuration settings reside in various places in the source database. W
 * role permissions
 * individual user permissions (content_access)
 
-### <a name="entities"></a>We use entity view modes (e.g. teaser) to configure reusable displays for entities, rather than duplicated views field configurations.
+### <a name="entities"></a>We use entity view modes rather than duplicated views field configurations.
 
+We use entity view modes (e.g. teaser) to configure reusable displays for entities, rather than duplicated views field configurations.
 We do this so we can avoid fragile duplicated configuration and emphasize consistency of display and modular CSS. There are still occasions where field based views make sense, but these are generally singletons. Part of this needs to happen in the design phase, when we're thinking about doing these displays in a modular fashion.
 
 #### When to use
@@ -410,7 +414,7 @@ Projects where this has proven useful: RTM, Teach.
 
 * When you have a lot of forms (dozens or hundreds) - management can get challenging unless you also build tools to help manage the forms.
 
-### <a name="panels-layouts"></a>We use/create panels layouts, rather than adding page specific layout adjustments.
+### <a name="panels-layouts"></a>We use panels layouts, rather than page specific layout adjustments.
 
 We do this so that layouts are cleanly separated from other visual styles, and so that they are reusable.
 
@@ -430,7 +434,8 @@ We do this so that our pages are smaller, faster and simpler to theme as well as
 
 We do this to prioritize functionality and keep things maintainable and performant.
 
-### <a name="featurization-strategies"></a>We consider various featurization strategies prior to starting a project.
+
+### <a name="featurization"></a> We consider featurization strategies before starting a project.
 
 #### Strategies
 
