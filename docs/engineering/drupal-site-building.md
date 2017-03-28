@@ -10,8 +10,8 @@
 * [We build sites such that we can accommodate changing needs and requirements](#change)
 * [We treat the user stories of content editors and creators seriously](#seriously)
 * [We configure sites that are optimized for SEO](#seo)
-* [We include social media functions](#social-media)
 * [We import and export data: Feeds and Migrate](#data)
+* [We include social media functions](#social-media)
 * [We capture configuration settings in code](#settings)
 * [We build sites that are pleasant to administer](#administer)
 * [We consider Search configuration implications early in the development process](#search)
@@ -217,7 +217,7 @@ Drupal has a notoriously poor content workflow and editing experience OOTB. Ther
 
 ### <a name="data"></a>We import and export data: Feeds and Migrate
 
-> @todo:  needs content
+> @todo: needs content
 
 ### <a name="social-media"></a>We include social media functions
 
