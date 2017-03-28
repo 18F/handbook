@@ -2,7 +2,7 @@
 
 "Gold Stars" are small acts of recognition and acknowledgment for fellow team members. When someone does something outstanding, "over and above," or otherwise deserves recognition, give them a "Gold Star" by Slacking a note to the team explaining what the commendation is for.
 
-#### How to give a Gold Star:
+## How to give a Gold Star:
 
 Post a Slack message in [#gold-star](https://civicactions.slack.com/messages/gold-star/details/) with the recipient's name and a story about why you are giving them a gold star. What did this person do? Why are you inspired to give them props?
 

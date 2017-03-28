@@ -31,7 +31,7 @@ when the PTO is approved, your manager will simply "reply-all" to your original 
 
 If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email your manager, project manager and ca-admingroup@lists.civicactions.net.  It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out.  Better to have your manager's phone number handy.
 
-March 12, 2015 
+March 12, 2015
 
 Paid Time Off update from "Unless it will cause an extreme hardship on the company and your team, no request for PTO will be turned down." to "Unless it will cause an extreme hardship on the company and your team, no request for PTO under two weeks will be turned down."
 

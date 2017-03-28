@@ -1,12 +1,12 @@
 # How to update the handbook
 
-### The lazy way (get someone else to do it!)
+## The lazy way (get someone else to do it!)
 
 Better than doing nothing at all: [Open a Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a suggestion, or chat about it in [#docs](https://civicactions.slack.com/messages/docs/).  
 
 > @todo [Update this to refer to github issues once we switch](https://trello.com/c/Kxf3ER8i/98-move-issue-tracking-for-this-repo-to-issues)
 
-### The easy way, via the github UI on the master branch
+## The easy way, via the github UI on the master branch
 
 We only recommend this approach for those who are not already familiar with the git workflow, and who do not have tools for keeping their github forks up to date.
 
@@ -32,7 +32,7 @@ Or, if you want to make other changes on the same branch and have it reviewed at
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.  
 
-### The recommended, but more advanced way: fork the handbook
+## The recommended, but more advanced way: fork the handbook
 
 If you're familiar with the git fork and PR workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 

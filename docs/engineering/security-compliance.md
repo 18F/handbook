@@ -1,6 +1,6 @@
 # Security and Compliance
 
-### Table of Contents
+## Table of Contents
 
 * [Security Policy](#security-policy)
 * [Awareness and Tools](#awareness-and-tools)
