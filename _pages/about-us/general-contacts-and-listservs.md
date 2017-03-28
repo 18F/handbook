@@ -182,3 +182,9 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 **About:** Provides a safe and welcoming arena for government-focused collaboration and news-sharing around Open Government efforts of the United States government.  Specific topics may include: The Open Government Initiative, The Open Government Plan, Freedom of Information Act efforts, open data projects, and citizen engagement
 
 **To join:** [Apply via Google Groups](https://groups.google.com/forum/?nomobile=true#!forum/us-open-government).
+
+#### GSA Press Clips
+
+**About:** This is an internal GSA google group we set up to bring together the various press clips that are sent out by the Communications office.  
+
+**To join:** [Apply via Google Groups](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-clips).
