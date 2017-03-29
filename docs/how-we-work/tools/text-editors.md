@@ -1,17 +1,17 @@
 # Text editors
 
-We use text editors to write documentation in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and to develop code.
-
 ## Popular Editors at CivicActions
 
-* [Vim](http://www.vim.org/download.php): Installed on OS X and Linux by
-  default. Also available on OS X via [Homebrew](http://brew.sh/).
-* [Emacs](https://www.gnu.org/software/emacs/): Installed on OS X and Linux
-  by default. Also available on OS X via [Homebrew](http://brew.sh/)
+We use text editors to write documentation in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and to develop code.
+
 * [Atom](https://atom.io/)
+* [Emacs](https://www.gnu.org/software/emacs/): Installed on OS X and Linux by default. Also available on OS X via [Homebrew](http://brew.sh/)
+* [Nano](https://www.nano-editor.org/): Installed on OS X and Linux by default. Also available on OS X via [Homebrew](http://brew.sh/)
 * [Sublime Text](http://www.sublimetext.com/)
-* [PHPStorm](https://www.jetbrains.com/phpstorm/)
+* [Vim](http://www.vim.org/download.php): Installed on OS X and Linux by default. Also available on OS X via [Homebrew](http://brew.sh/)
+
 
 ## Still have questions?
 
-Ask in Slack: [#engineering](https://civicactions.slack.com/messages/engineering/)
+* See [Backend Development](../../engineering/back-end-development.md)
+* Ask in Slack: [#engineering](https://civicactions.slack.com/messages/engineering/)
