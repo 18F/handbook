@@ -33,7 +33,6 @@ Usability testing is a technique for evaluating a product by testing it on users
 
 ## Recommended Reading:**
 
-* *Don’t Make Me Think: A Common Sense Approach to Web Usability*, by Steve Krug (2005)
-Especially Chapters 9 & 10
+* *Don’t Make Me Think: A Common Sense Approach to Web Usability*, by Steve Krug (2005), especially Chapters 9 & 10
   * Chapter 9: Usability Testing on 10 cents a day (Keeping testing simple - so you do enough of it)
   * Chapter 10: Usability Testing: The movie (How to do your own testing)
