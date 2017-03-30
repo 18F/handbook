@@ -16,7 +16,7 @@ If CivicActions sees a problem with an employee's performance, or there is other
 
 Any company property issued to employees, such as documents, computer equipment or company credit cards, must be returned to CivicActions at the time of separation.
 
-// NEED A SECTION FOR REMOVAL OF CONFIDENTIAL MATERIALS - Fen Labalme should reveiew this
+> @todo [NEED A SECTION FOR REMOVAL OF CONFIDENTIAL MATERIALS - Fen Labalme should review this](https://trello.com/c/202JIGqx/83-leaving-civicactions-add-section-for-removal-of-confidential-materials)
 
 ## <a name="continuation-benefit"></a>Continuation of Benefits
 
@@ -24,7 +24,7 @@ COBRA
 
 If you or your covered dependents lose eligibility for regular, TriNet group medical, dental, vision benefits and/or healthcare FSA, you may be eligible to continue your coverage under COBRA. COBRA allows you to continue receiving these benefits on a temporary basis in certain situations where coverage under the TriNet Benefits Plan would otherwise end. COBRA coverage is explained in greater detail in the Benefits Guidebook.
 
-// Need a link to the appropriate sections of the Benefits Guidebook
+> @todo [Add link to the appropriate sections of the Benefits Guidebook](https://trello.com/c/I6z73gia/139-add-link-s-to-appropriate-sections-of-benefits-guidebook-to-leaving-civicactions)
 
 This guide covers the offboarding policy and process.
 
@@ -42,11 +42,11 @@ If you decide you want to leave CivicActions, send an email that includes your t
 
 ### 3. Review benefits paperwork
 
-//NEEDS TRINET UPDATING>>>>
+> @todo [Update this section with TRINET info](https://trello.com/c/s9D5SZfS/84-leaving-civications-update-review-benefits-paperwork-with-trinet-language)
 
 Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
 
-You should also review the //ANYHING HERE? before your last day.
+You should also review the //ANYTHING HERE? before your last day.
 
 If you have any questions, please contact //WHO?.
 
@@ -54,23 +54,14 @@ If you have any questions, please contact //WHO?.
 
 When you leave CivicActions, you are responsible for returning all CivicActions issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
 
-^^^ THIS SHOULD BE REVIEWED BY MARC
+> @todo [^^^ THIS SHOULD BE REVIEWED BY MARC](https://trello.com/c/287hCpDJ/85-leaving-civicactions-review-and-update-return-your-equipment)
 
 ## Offboarding process
 
-`Duplicate` the `Template` in the *Off-Boarding Tasks* @todo: NEED LINK to make a checklist. More detail for certain tasks is below. Note that, per CivicActions policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at CivicActions.
+`Duplicate` the `Template` in the *Off-Boarding Tasks*
+> @todo: [NEED LINK to make a checklist. More detail for certain tasks is below. Note that, per CivicActions policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at CivicActions.](https://trello.com/c/B5SGrESO/140-add-link-checklist-to-offboarding-process-in-leaving-civicactions)
 
-### Supervisor
+### Manager
 
 * Work with the employee to transition the employee's workload to other team members.
 * Ensure they complete their last timesheet in Harvest.
-
-### Talent Team
-
-* Conduct an exit interview using *these questions* @todo: NEED LINK.
-* Documentation will be kept anonymous.
-* After three samples are gathered, look for trends.
-
-### Ops Team
-
-* Complete the *clearance checklist* @todo: NEED LINK with the employee.
