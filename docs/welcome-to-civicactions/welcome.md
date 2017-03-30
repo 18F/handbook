@@ -186,7 +186,7 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 
 ### Checklists
 
-The Trello boards below serve as lists of tasks for you to complete with corresponding links and timelines.
+The Trello boards below serve as TEMPLATES for lists of tasks for new hires to complete, with corresponding links and timelines. Your manager will copy the appropriate board(s) for you.
 
 * [New Hire Checklist](https://trello.com/b/sMn9YJcO/onboarding-new-hire-checklist-draft) (for all new hires)
 * [Dev/Engineer Checklist](https://trello.com/b/bQeKK90e/onboarding-dev-engineering-new-employee-checklist-draft) (for new engineers only)
