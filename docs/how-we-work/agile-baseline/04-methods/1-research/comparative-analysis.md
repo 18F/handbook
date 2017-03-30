@@ -1,15 +1,11 @@
-##Comparative Analysis
+# Comparative Analysis
 
-**What it is:**
+## What it is:
 
+## How to do it:
 
-**How to do it:**
+## Why to do it:
 
+## Recommended Reading:
 
-**Why to do it:**
-
-
-**Recommended Reading:**
-
-
-**Examples:**
+## Examples:

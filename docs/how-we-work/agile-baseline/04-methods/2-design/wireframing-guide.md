@@ -1,22 +1,13 @@
-##Wireframing Guide
+# Wireframing Guide
 
-[WIP]
+CivicActions often uses mybalsamiq for collaborating on wireframes: <http://civicactions.mybalsamiq.com>
 
-CivicActions often uses mybalsamiq for collaborating on wireframes.
+## What it is:
 
-http://civicactions.mybalsamiq.com
+## How to do it:
 
+## Why to do it:
 
-**What it is:**
+## Recommended Reading:
 
-
-**How to do it:**
-
-
-**Why to do it:**
-
-
-**Recommended Reading:**
-
-
-**Examples:**
+## Examples:

@@ -1,5 +1,5 @@
-##Implementation Methods
+# Implementation Methods
 
-- Automated Tests
-- Code Review
-- Quality Assurance (QA)
+* Automated Tests
+* Code Review
+* Quality Assurance (QA)

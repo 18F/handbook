@@ -1,16 +1,16 @@
-##Sprint Demo
+# Sprint Demo
 
-**What it is:**
+## What it is:
 
 The Sprint Demo (or Sprint Review) is an informal meeting where the project team shows the work accomplished during the sprint to project stakeholders and where the Product Owner declares items done.
 
-**Who should participate:**
+## Who should participate:
 
 The participants in the Sprint Demo should include the Product Owner, Scrum Master, Project Team. Additionally, the meeting could include managing stakeholders, product users and developers from other projects.
 
-**How to do it:**
+## How to do it:
 
-The Sprint Demo should begin with a reminder of the meeting’s time box (which will vary depending on the length of the sprint) and a brief explanation of what the meeting is intended to accomplish for attendees not familiar with the process. Here is a helpful quote from the official scrum guide: 
+The Sprint Demo should begin with a reminder of the meeting’s time box (which will vary depending on the length of the sprint) and a brief explanation of what the meeting is intended to accomplish for attendees not familiar with the process. Here is a helpful quote from the official scrum guide:
 
 “[The Sprint Demo] is the opportunity to inspect and adapt the product as it emerges, and iteratively refine everyone’s understanding of the requirements.”
 
@@ -20,12 +20,10 @@ Project team members should take turns demonstrating their completed work to the
 
 Once the project team member has demonstrated all of his/her completed work, the next team member should demonstrate, and so on. Sprint backlog items that were not completed should not be demonstrated during the meeting. Once all completed work has been demonstrated, the team should update the product backlog with any remaining details that may have emerged during conversation.
 
-**Why to do it:**
+## Why to do it:
 
 The purpose of the Sprint Demo is to help everyone visualize the new product, then elicit feedback from stakeholders and foster a collaborative environment. The feedback and collaboration from this is then used to create new backlog items or refine existing items. This is the adaptation phase of the sprint cycle. This is also when the Product Owner publicly pronounces sprint backlog items done.
 
-**Additional Resources:**
+## Additional Resources:
 
-[Scrum Training Series Video](http://scrumtrainingseries.com/SprintReviewMeeting/SprintReviewMeeting.htm)
-
-
+* [Scrum Training Series Video](http://scrumtrainingseries.com/SprintReviewMeeting/SprintReviewMeeting.htm)

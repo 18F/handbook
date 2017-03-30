@@ -1,4 +1,4 @@
-# Prototyping Guide
+# Method Template
 
 ## What it is:
 

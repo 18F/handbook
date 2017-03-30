@@ -15,14 +15,14 @@ For examples of fully realized "guides," check out [Sprint Planning Meetings](/0
 [Policies](02-policies/policies.md)
 
 Process
-- [Sprint 0 Discovery](03-process/sprint-0-discovery.md)
-- [Sprint Cycle](03-process/sprint-cycle.md)
+* [Sprint 0 Discovery](03-process/sprint-0-discovery.md)
+* [Sprint Cycle](03-process/sprint-cycle.md)
 
 Methods
-- [Research](04-methods/1-research.md)
-- [Design](04-methods/2-design.md)
-- [Implementation](04-methods/3-implementation.md)
-- [Validation](04-methods/4-validation.md)
+* [Research](04-methods/1-research.md)
+* [Design](04-methods/2-design.md)
+* [Implementation](04-methods/3-implementation.md)
+* [Validation](04-methods/4-validation.md)
 
 [Tools](05-tools/tools.md)
 
