@@ -71,7 +71,7 @@ You're getting really close! You can almost feel the TSA X-ray scan! One last st
 
 If there was a problem, the 18F travel team will reach out and make sure you can get everything right before you leave. Otherwise, assume your request will be processed, and if everything was right, you will be approved between 2:30 and 6:00 PM Eastern time. **Please ensure that you have submitted your authorization correctly by 2:30 PM Eastern, else your travel will not be approved until the next business day.**
 
-Once you have been approved **look for an e-mail from Concur confirming the purchase of your tickets and/or hotel.**
+Once you have been approved, you should recieve a notification from Concur. Please note that in most cases, **government contract airfare does not ticket until 72 hours before departure**, so you may not recieve official confirmation of your itinerary until then. Don't worry about this, the 18F travel team is not aware of any situations where approved travelers have not been issued tickets :)
 
 #### Whooo you are ready to go!
 
