@@ -8,7 +8,7 @@
 * Look at your deltas, and consider incorporating goals related to these into your professional development Trello board.
 * Come back periodically (e.g. every 6 months) and update your numbers - this will allow you to track your progress over time.
 
-\##Resources
+## Resources
 
 * [Template](https://docs.google.com/a/civicactions.com/spreadsheets/d/1Y_Dd0OfxjL61sgWlsJxYcGq0TY5Nc8sewWjzYNSx7G4/edit#gid=0)
 * [Locating the Skillset Spreadsheet](../../images/locate-spreadsheet.png)

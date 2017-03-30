@@ -18,7 +18,7 @@ CivicActions has our 401k through SocialK, which provides us with Environment, S
 
 ## <a name="equal-opportunities"></a>Equal Employment Opportunities
 
-CivicActions provides equal employment opportunities to "all qualified people". What that means can be found under "Required Stuff" below.
+CivicActions provides equal employment opportunities to "all qualified people". What that means can be found under [Required Notices](required-notices.md).
 
 ## <a name="background-check"></a>Background Checks
 
@@ -36,7 +36,7 @@ Regular Full-Time Employee: An employee who is scheduled to work no less than 40
 
 Regular Part-Time Employee: An employee who is scheduled to work less than 40 hours in a workweek. Regular part-time employees working at least 30 hours a week are eligible for all employment benefits offered by CivicActions.
 
-Whether an employee is exempt or non-exempt depends on specific, statutory tests. See "Required Stuff" below. For our purposes, exempt employees don't get overtime and non-exempt do.
+Whether an employee is exempt or non-exempt depends on specific, statutory tests. See [Required Notices](required-notices.md). For our purposes, exempt employees don't get overtime and non-exempt do.
 
 ## <a name="personrecord"></a>Personnel (and Personal) Records
 

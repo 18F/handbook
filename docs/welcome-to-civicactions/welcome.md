@@ -180,53 +180,9 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 
 #### Before your first day
 
-> @todo [Add information about forms, paperwork, etc. that new hires need to complete before beginning work](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
+> @todo [Add information about forms, paperwork, etc](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
+> @todo Review training details and add to this page as needed
 
-// TO REVIEW:
-
-### Day 4
-
-#### Role-based training/orientation (PM track or Engineering or UX/Content Strategy/Design track)
-
-##### Project Manager Training
-
-* Shadowing on calls
-* Resourcing
-* PM Tools
-* Resource Guru
-* Harvest
-* Jira
-
-##### Engineering Training
-
-* Engineering Roles and Agile
-* Engineering Practices
-* Git Overview
-* Drupal Overview
-* Security Overview
-
-#### UX for Everyone (2 hours) (with Jen)
-
-* Story mapping/stories on board
-* UX-Agile
-
-### Day 5
-
-#### Role-based training/orientation (PM track or Engineering or UX/Content Strategy/Design track)
-
-##### Project Manager Training: Read about Project Manager Role
-
-* The difference between PM and ScrumMaster roles
-* PM role in scrum calls
-* PM role in sprint demos
-* PM role in retrospectives
-* PM role in backlog grooming
-* PM role in any process or planning meeting
-* Other miscellaneous PM responsibilities
-
-##### Engineering Training
-
-* Getting set up: tools and sandboxes
 
 ### Checklists
 

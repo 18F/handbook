@@ -1,16 +1,14 @@
 # Open source
 
-## What is open source software?
+@todo: [Flesh out content for this page](https://trello.com/c/9uLsy7Un/138-add-content-to-intro-to-open-source)
 
-@todo: //Something about Drupal here...
+## What is open source software?
 
 Broadly speaking, open source software is software whose inner workings are made fully public and distributed freely to the community. As an open source team, the software CivicActions writes is made public (mostly at <https://github.com/civicactions>), and we welcome anyone to use that software, copy it, and change it.
 
 Generally (and at CivicActions), people publishing open source software tend to be open to receiving public contributions. So, members of the public may copy our software, modify it, and then submit their modifications back to us for potential inclusion in the original.
 
 ## What does it mean in our work?
-
-@todo: //
 
 Everything we as a team do should be public and available for collaboration. An open source project isn't just code - think of it as many forms of contribution working together, including documentation, support, design, and code.
 
