@@ -180,9 +180,9 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 
 #### Before your first day
 
-> @todo [Add information about forms, paperwork, etc. that new hires need to complete before beginning work](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
+> @todo [Add information about forms, paperwork, etc](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
 
-> @todo [Review training details and add to this page as needed]
+> @todo Review training details and add to this page as needed
 
 
 ### Checklists
