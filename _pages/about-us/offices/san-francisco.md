@@ -15,7 +15,7 @@ title: San Francisco
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-          <a href="https://gsa-tts.slack.com/messages/@vv">Victor Valdivizeo</a>, <a href="mailto:victor.valdiviezo@gsa.gov">victor.valdiviezo@gsa.gov</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)<br />
+          Your best bet is the <a href="https://gsa-tts.slack.com/archives/sf">#sf</a> Slack channel<br />
           <a href="http://www.gsa.gov/portal/category/107015">Building Services contact info</a>
         </td>
       </tr>
@@ -85,7 +85,7 @@ There is a developing [bikeshare program](http://www.bayareabikeshare.com) in th
 
 Bike parking is next to the loading dock, entered from the far corner at McAllister and Leavenworth. Before you can park your bike, though, you need to print and fill out [this form](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view), and then activate your credential. This means you need to return to the credentialing location where you first initiated the process for your card. (This is probably the federal building at 450 Golden Gate). There are drop-in hours all day on Monday from 9 a.m. to 4 p.m. You can also make an appointment. The card also requires you to come up with a six-digit PIN, so have that ready to go.
 
-If you have any questions about this, contact [Victor Valdivizeo](https://gsa-tts.slack.com/team/vv).
+If you have any questions about this, contact the [#SF Slack Channel](https://gsa-tts.slack.com/archives/sf).
 
 
 ### Public transit
@@ -126,7 +126,7 @@ Whether you're new at 18F and are joining the SF office or you're a long-time 18
 
 * Add yourself to our [desk schedule spreadsheet](https://docs.google.com/spreadsheets/d/1QNGF8pvrVUXEa8tjsQEEw5itflDEAyjVxQgfCT6Kj5c/edit#gid=0).
 * Add yourself to our [cleaning crew schedule](https://docs.google.com/document/d/1CCKYxIRrCUDJpykKgrjDBISLG-2toMv9yu1hLfR2IOs/edit).
-* If you would like a locker, please email <mailto:victor.valdiviezo@gsa.gov>.
+* If you would like a locker, please email <mailto:sasha.magee@gsa.gov>.
 * Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
 * Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
 * If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel for the link.
@@ -147,7 +147,7 @@ You may host folks from other government agencies. As the host you are responsib
 
 If you're a visitor arriving outside business hours, arrange for an 18F staff member inside the office to escort you.
 
-If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Hillary Hartley or Patrick Bateman), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
+If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Holly Allen or Josh Bailes), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
 
 
 ### Book rooms for meetings?
