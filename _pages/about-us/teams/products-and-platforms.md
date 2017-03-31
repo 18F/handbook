@@ -27,11 +27,11 @@ Products and Platforms is one of the 4 business units within 18F. We strive to i
 
   * Joel Minton, Director of login.gov
 
-  * Steve Harms, Acting Director of cloud.gov
+  * Shashank K, Acting Director of cloud.gov
 
-  * Britta Gustafson, Acting Deputy Director for cloud.gov
+  * Britta G, Acting Deputy Director for cloud.gov
   
-  * David Warren, Admin Support
+  * David W, Admin Support
 
 ## How we support internal teams
 
