@@ -56,7 +56,7 @@ That being said, there are topics in this document that are required by law or a
 * [Training Resources](docs/how-we-work/training-resources.md)
 * [Equipment](docs/how-we-work/equipment.md)
 
-##### Tools
+#### Tools
 
 * [Basic Communication Tools](docs/how-we-work/tools/basic-communication-tools.md)
 * [Harvest](docs/how-we-work/tools/harvest.md)
