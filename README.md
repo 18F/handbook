@@ -31,7 +31,7 @@ That being said, there are topics in this document that are required by law or a
 * [Background and History](docs/02-about-us/background-and-history.md)
 * [Elevator Pitch](docs/02-about-us/elevator-pitch.md)
 * [General Contacts and Listservs](docs/02-about-us/general-contacts-and-listservs.md)
-* [Organizational Chart](docs/02-02-about-us/org-chart.md)
+* [Organizational Chart](docs/02-about-us/org-chart.md)
 
 #### 3. Policies
 
