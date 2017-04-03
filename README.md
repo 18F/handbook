@@ -23,6 +23,8 @@ That being said, there are topics in this document that are required by law or a
 
 ### <a name="toc"></a>TABLE OF CONTENTS
 
+#### [Welcome to CivicActions](docs/welcome-to-civicactions)
+
 #### About Us
 
 * [Mission, Value Proposition, and Operating Principles](docs/about-us/mission-values-operating-principles.md)
