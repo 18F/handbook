@@ -25,7 +25,7 @@ Daily scrum calls are project-specific meetings. These short meetings are a scru
 * Today: I plan to do this other thing.
 * Blockers: This is currently or potentially inhibiting me from doing what I'd like to do.
 
-For more specific information, see [Daily Scrum Calls](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/daily-scrum-calls.md).
+For more specific information, see [Daily Scrum Calls](../../04-how-we-work/agile-baseline/blob/master/03-process/practices/daily-scrum-calls.md).
 
 ### Retrospectives
 
@@ -47,7 +47,7 @@ Here's an overview of how CivicActions uses specific tools to facilitate meeting
 
 ### Google Calendar
 
-**CivicActions uses shared calendars** in [Google Calendar](../../how-we-work/tools/basic-communication-tools.md#google-calendar) for CivicActions standing meetings, birthdays, and "out of office" time.
+**CivicActions uses shared calendars** in [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar) for CivicActions standing meetings, birthdays, and "out of office" time.
 
 **You can specify which hours you work.** From the guide: "About a third of the way down the 'General' settings' page there's a section called 'Working hours' and a checkbox that's unchecked by default. If you check it, you can specify your preferred working hours. Once you save your changes, other people will get a warning if they try to schedule you outside those times."
 
@@ -55,7 +55,7 @@ Here's an overview of how CivicActions uses specific tools to facilitate meeting
 
 **You can set up blocks of time that people can reserve.** Just select "Appointment slots" after you choose a window of time.
 
-For Google Calendar best practices, see [Basic Communication Tools](../../how-we-work/tools/basic-communication-tools.md#google-calendar).
+For Google Calendar best practices, see [Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar).
 
 ### Doodle
 
@@ -63,14 +63,14 @@ People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-tim
 
 ### Google Hangouts
 
-[Google Hangouts](../../how-we-work/tools/basic-communication-tools.md#hangouts) are video chats in the browser. Here are some tips for using Hangouts:
+[Google Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts) are video chats in the browser. Here are some tips for using Hangouts:
 
 * **You can add a Google Hangout to a meeting invite** by clicking "Add video call" on the event management page.
 * **You can also start or share a hangout from Slack** by typing `/hangout`.
 * **You can dial people into a Hangout.** A Hangout's "invite" dialog can generate a phone number that people can call.
 * Use screensharing for demos and for pairing.
 
-For Google Hangouts best practices and available commands, see [Basic Communication Tools](../../how-we-work/tools/basic-communication-tools.md#hangouts).
+For Google Hangouts best practices and available commands, see [Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md#hangouts).
 
 ### BlueJeans
 

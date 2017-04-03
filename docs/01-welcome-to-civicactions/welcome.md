@@ -12,8 +12,8 @@ We're honored to welcome you to our company. You have joined an organization tha
 
 ### <a name="learn"></a>Learn more about CivicActions
 
-* [Mission, Values, and Operating Principles](../about-us/mission-values-operating-principles.md)
-* [Background and History](../about-us/background-and-history.md)
+* [Mission, Values, and Operating Principles](../02-about-us/mission-values-operating-principles.md)
+* [Background and History](../02-about-us/background-and-history.md)
 
 ## <a name="onboarding-process"></a>Onboarding Process
 
