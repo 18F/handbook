@@ -48,6 +48,7 @@ That being said, there are topics in this document that are required by law or a
 
 #### How We Work
 
+* [Agile Baseline](docs/how-we-work/agile-baseline)
 * [Bookmarks](docs/how-we-work/bookmarks.md)
 * [Virtual Workplace Basics](docs/how-we-work/virtual-workplace-basics.md)
 * [Common Vocabulary](docs/how-we-work/common-vocab.md)
