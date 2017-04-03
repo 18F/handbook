@@ -23,9 +23,9 @@ That being said, there are topics in this document that are required by law or a
 
 ### <a name="toc"></a>TABLE OF CONTENTS
 
-#### [Welcome to CivicActions](docs/welcome-to-civicactions)
+#### 1. [Welcome to CivicActions](docs/welcome-to-civicactions)
 
-#### About Us
+#### 2. About Us
 
 * [Mission, Value Proposition, and Operating Principles](docs/about-us/mission-values-operating-principles.md)
 * [Background and History](docs/about-us/background-and-history.md)
@@ -33,7 +33,7 @@ That being said, there are topics in this document that are required by law or a
 * [General Contacts and Listservs](docs/about-us/general-contacts-and-listservs.md)
 * [Organizational Chart](docs/about-us/org-chart.md)
 
-#### Policies
+#### 3. Policies
 
 * [Employment](docs/policies/employment.md)
 * [Code of Conduct](docs/policies/code-of-conduct.md)
@@ -48,7 +48,7 @@ That being said, there are topics in this document that are required by law or a
 * [Leaving CivicActions](docs/policies/leaving-civicactions.md)
 * [Required Notices](docs/policies/required-notices.md)
 
-#### How We Work
+#### 4. How We Work
 
 * [Agile Baseline](docs/how-we-work/agile-baseline)
 * [Bookmarks](docs/how-we-work/bookmarks.md)
@@ -57,18 +57,16 @@ That being said, there are topics in this document that are required by law or a
 * [Gold Star Program](docs/how-we-work/gold-star-program.md)
 * [Training Resources](docs/how-we-work/training-resources.md)
 * [Equipment](docs/how-we-work/equipment.md)
+* [Tools](docs/how-we-work/tools)
+  * [Basic Communication Tools](docs/how-we-work/tools/basic-communication-tools.md)
+  * [Harvest](docs/how-we-work/tools/harvest.md)
+  * [Trello](docs/how-we-work/tools/trello.md)
+  * [Jira](docs/how-we-work/tools/jira.md)
+  * [Github](docs/how-we-work/tools/github.md)
+  * [Text Editors](docs/how-we-work/tools/text-editors.md)
+  * [Resource Guru](docs/how-we-work/tools/resource-guru.md)
 
-#### Tools
-
-* [Basic Communication Tools](docs/how-we-work/tools/basic-communication-tools.md)
-* [Harvest](docs/how-we-work/tools/harvest.md)
-* [Trello](docs/how-we-work/tools/trello.md)
-* [Jira](docs/how-we-work/tools/jira.md)
-* [Github](docs/how-we-work/tools/github.md)
-* [Text Editors](docs/how-we-work/tools/text-editors.md)
-* [Resource Guru](docs/how-we-work/tools/resource-guru.md)
-
-#### Engineering
+#### 5. Engineering
 
 * [Accessibility](docs/engineering/accessibility.md)
 * [Back End Development](docs/engineering/back-end-development.md)
@@ -82,7 +80,7 @@ That being said, there are topics in this document that are required by law or a
 * [Security/Compliance](docs/engineering/security-compliance.md)
 * [Systems and Sandboxes](docs/engineering/systems-sandboxes.md)
 
-#### Project Management
+#### 6. Project Management
 
 * [Project Manager Training](docs/project-management/pm-training-doc.md)
 * [The Project Manager Role](docs/project-management/pm-role.md)
