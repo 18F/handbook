@@ -4,7 +4,7 @@ title: Security incidents
 
 Something went "bump" in the night (or the day)? This document explains what to do when responding to a security incident. See [What is an incident?](#what-is-an-incident) if you need help determining whether something counts as an incident.
 
-## Reporting Phishing Emails
+## Reporting phishing emails
 If you receive a phishing email, follow these steps to report to GSA IT:
 
 1. Do not click any links in the email. Do not delete it yet. You may mark it as spam.
@@ -17,7 +17,7 @@ If you receive a phishing email, follow these steps to report to GSA IT:
 
 You might be tempted to simply mark phishing emails as spam and otherwise ignore them, but if you accidentally (or intentionally) click a link or receive a download from a suspect email, you must report it as an incident following the steps above. Successful phishing attacks are security incidents and should be reported immediately. Phishing emails that are automatically routed to your spam folder do not need to be reported. Your vigilance also helps GSA IT to prepare against similar phishing attacks that might be sent to other users.
 
-## Reporting Other Incidents
+## Reporting other incidents
 To report a security incident, follow *all* of the steps below:
 
 1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov within 1 hour of identifying an incident. You can use this
