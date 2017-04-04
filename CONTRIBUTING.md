@@ -10,15 +10,15 @@ Better than doing nothing at all: [Open a Trello card](https://trello.com/b/ZKx6
 
 We only recommend this approach for those who are not already familiar with the git workflow, and who do not have tools for keeping their github forks up to date.
 
-You'll need a Github account, and to be added to the CivicActions Team ([instructions are here](docs/how-we-work/tools/github.md)).
+You'll need a Github account, and to be added to the CivicActions Team ([instructions are here](docs/04-how-we-work/tools/github.md)).
 
 Go to a page, click edit, and make your changes, using [markdown](https://guides.github.com/features/mastering-markdown/).  Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
 When you save it ("make a commit"), there are three fields to fill out. *All of these are optional*, with default values, and in most cases it's fine to leave the defaults.
 
-* **The commit title**: By default it is something like "Update _filename_". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
+* **The commit title**: By default it is something like "Update \[filename\]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
 * **Extended description**: Explain your changes, if you wish. Useful if you need more than the 50 characters available in the title.
-* **The branch name:** By default this will be a new branch, with a name like _username_-patch-1.  If you want to change it to something more semantic (eg _username_-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.  
+* **The branch name:** By default this will be a new branch, with a name like \[username\]-patch-1.  If you want to change it to something more semantic (eg \[username\]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.  
 
 After you commit, you will be asked if you want to create a new pull request with the branch you created.  You'll again be presented with a few fields, which you can generally leave as is.
 
@@ -50,7 +50,7 @@ If you make a pull request related to a subject that is the responsibility of a 
 
 Each pull request must be reviewed by at least one other CivicActions employee before it can be merged. There is no dedicated staffing for the handbook right now; maintenance is done in spare time by any CivicActions staff member who is interested in helping.
 
-Any CivicActions employee with Github account, who has been added to the CivicActions Team ([instructions are here](docs/how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
+Any CivicActions employee with Github account, who has been added to the CivicActions Team ([instructions are here](docs/04-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
 
 For example: if something looks like it's related to how Marketing works, ask a Marketing person to review it; if it looks like it needs Project Management team review, ask a PM.
 
