@@ -2,7 +2,7 @@
 
 ## About the QA Practice Area
 
-//NEEDS SOME CLEANUP
+@todo: //NEEDS SOME CLEANUP
 
 * We check and clean up extraneous notices, warnings, and errors:
 * So that we can easily identify and debug new issues.
