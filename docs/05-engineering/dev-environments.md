@@ -1,4 +1,4 @@
-# Dev Environments
+# Development and Hosting Environments
 
 ## Intro
 
