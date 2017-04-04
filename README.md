@@ -93,7 +93,7 @@ That being said, there are topics in this document that are required by law or a
 
 #### 7. Sales and Marketing
 
-* [CivicActions Website](docs/07-sales-and-marketings/civicactions-website.md)
-* [Social Media](docs/07-sales-and-marketings/social-media.md)
+* [CivicActions Website](docs/07-sales-and-marketing/civicactions-website.md)
+* [Social Media](docs/07-sales-and-marketing/social-media.md)
 
 #### [CHANGE LOG](CHANGELOG.md)
