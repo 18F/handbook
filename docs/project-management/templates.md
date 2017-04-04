@@ -28,7 +28,7 @@ meeting to ensure there is clear expectations of all participating parties. Item
 
 
 ## <a name="meeting-notes"></a>Meeting Notes
-This template is used as a guide for project managers when facilitating their daily scrum calls.
+This template is used as a guide for project managers when facilitating their daily scrum calls. Additionally,
 
 [Meeting Notes template](https://docs.google.com/a/civicactions.net/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit?usp=sharing)
 
