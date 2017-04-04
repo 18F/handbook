@@ -91,4 +91,9 @@ That being said, there are topics in this document that are required by law or a
 * [Planning a "Project Onsite"](docs/06-project-management/planning-project-onsite.md)
 * [PTO Request and Approval Process](docs/06-project-management/pto-request-approval-process.md)
 
+#### 7. Sales and Marketing
+
+* [CivicActions Website](docs/07-sales-and-marketing/civicactions-website.md)
+* [Social Media](docs/07-sales-and-marketing/social-media.md)
+
 #### [CHANGE LOG](CHANGELOG.md)
