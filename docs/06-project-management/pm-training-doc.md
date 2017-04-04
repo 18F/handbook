@@ -18,7 +18,7 @@
 
 * New PMs should shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.
 * New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like *"No project checkin. Here observing. Balance 8. I'll pass to Steve"*
-* New PM can practice taking meeting notes so they can compare their own notes from a meeting to the notes the PM actually shares with the team & client.
+* New PM can practice taking meeting notes so they can compare their own notes from a meeting to the notes the PM actually shares with the team & client. New PMs can also take notes while current PM is still running meetings.
 
 ## <a name="current-pm"></a>Current PM Instructions
 
@@ -55,12 +55,12 @@ For non-billable internal meetings, PMs should bill as CA > Delivery > Project M
 
 We use [Resource Guru (RG)](https://civicactions.resourceguruapp.com/resources) for documenting which projects team members are on, as well as their availability.
 
-For a team member whose time is splint between projects, RG can be a helpful guide to know how much time should be allocated to each project.
+For a team member whose time is split between projects, RG can helps plan how much time should be allocated to each project.
 
 ## <a name="scheduling-meetings"></a>Scheduling Meetings
 
 * The PM is generally the person to schedule all scrum ceremonies, client meetings, process meetings, and general team meetings. The team is also always welcomed to schedule one-off meetings for the internal team if they desire.
-* Avoid scheduling meetings with BLANK descriptions. Fill in a description/purpose for the meeting, link relevant documents, indicate the desired outcome, include an agenda, list discussion points, etc
+* Avoid scheduling meetings with blank descriptions in Google Calendar. Fill in a description/purpose for the meeting, link relevant documents, indicate the desired outcome, include an agenda, list discussion points, etc
 * Make a relevant and detailed meeting title. Make it descriptive and concise.
 * Only require the necessary people, make other invitees optional.
 * Check the FIND TIME function in Google Calendar to make sure you're not double-booking someone - it is crucial that you look at other people's calendars.
@@ -109,13 +109,10 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 ## <a name="pm-tools"></a>PM Tools
 
 * Resource Guru
-* [Harvest - PM role](https://trello.com/c/4kBzyR2U/112-pm-role-w-harvest)- REPLACE WITH GITHUB LINK
+* Harvest
 * Jira
 * Trello
 * GitHub/Waffle
 * Burndown charts
 * Google Docs/Folders
 * Slack (client-facing and internal channels)
-* [Creating Team Accounts](https://trello.com/c/L6kVty1C/132-creating-team-accounts) REPLACE WITH GITHUB LINK
-
-See <https://trello.com/c/scRXdfQ5/1-project-manager-training-1-5> for some additional links REPLACE WITH GITHUB LINK
