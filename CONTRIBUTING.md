@@ -10,7 +10,7 @@ Better than doing nothing at all: [Open a Trello card](https://trello.com/b/ZKx6
 
 We only recommend this approach for those who are not already familiar with the git workflow, and who do not have tools for keeping their github forks up to date.
 
-You'll need a Github account, and to be added to the CivicActions Team ([instructions are here](docs/how-we-work/tools/github.md)).
+You'll need a Github account, and to be added to the CivicActions Team ([instructions are here](docs/04-how-we-work/tools/github.md)).
 
 Go to a page, click edit, and make your changes, using [markdown](https://guides.github.com/features/mastering-markdown/).  Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
@@ -50,7 +50,7 @@ If you make a pull request related to a subject that is the responsibility of a 
 
 Each pull request must be reviewed by at least one other CivicActions employee before it can be merged. There is no dedicated staffing for the handbook right now; maintenance is done in spare time by any CivicActions staff member who is interested in helping.
 
-Any CivicActions employee with Github account, who has been added to the CivicActions Team ([instructions are here](docs/how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
+Any CivicActions employee with Github account, who has been added to the CivicActions Team ([instructions are here](docs/04-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
 
 For example: if something looks like it's related to how Marketing works, ask a Marketing person to review it; if it looks like it needs Project Management team review, ask a PM.
 

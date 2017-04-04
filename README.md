@@ -19,75 +19,76 @@ This Handbook has been prepared to describe CivicActions' philosophy, employment
 
 CivicActions operates transparently on a fundamental level. We have very few "rules and regulations." We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. Left to our own devices, this Handbook would be very short - be open, do your best, ask for help and clarification when you need it, offer help to others, and have fun.
 
-That being said, there are topics in this document that are required by law or at least by HR professionals. You will find them under [Required Notices](docs/policies/required-notices.md). This Handbook is not designed to answer specific questions or address specific scenarios. It is more likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships. Issues are addressed on a case-by-case basis anyway. We do want you to feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you.   You will find CivicActions a great place to work.
+That being said, there are topics in this document that are required by law or at least by HR professionals. You will find them under [Required Notices](docs/03-policies/required-notices.md). This Handbook is not designed to answer specific questions or address specific scenarios. It is more likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships. Issues are addressed on a case-by-case basis anyway. We do want you to feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you.   You will find CivicActions a great place to work.
 
 ### <a name="toc"></a>TABLE OF CONTENTS
 
-#### About Us
+#### 1. [Welcome to CivicActions](docs/01-welcome-to-civicactions)
 
-* [Mission, Value Proposition, and Operating Principles](docs/about-us/mission-values-operating-principles.md)
-* [Background and History](docs/about-us/background-and-history.md)
-* [Elevator Pitch](docs/about-us/elevator-pitch.md)
-* [General Contacts and Listservs](docs/about-us/general-contacts-and-listservs.md)
-* [Organizational Chart](docs/about-us/org-chart.md)
+#### 2. About Us
 
-#### Policies
+* [Mission, Value Proposition, and Operating Principles](docs/02-about-us/mission-values-operating-principles.md)
+* [Background and History](docs/02-about-us/background-and-history.md)
+* [Elevator Pitch](docs/02-about-us/elevator-pitch.md)
+* [General Contacts and Listservs](docs/02-about-us/general-contacts-and-listservs.md)
+* [Organizational Chart](docs/02-about-us/org-chart.md)
 
-* [Employment](docs/policies/employment.md)
-* [Code of Conduct](docs/policies/code-of-conduct.md)
+#### 3. Policies
+
+* [Employment](docs/03-policies/employment.md)
+* [Code of Conduct](docs/03-policies/code-of-conduct.md)
 * [Security](https://github.com/CivicActions/security-policy/blob/master/README.md)
-* [Compensation](docs/policies/compensation.md)
-* [Professional Development and Community Participation](docs/policies/prodev-community-participation.md)
-* [Annual Review Process](docs/policies/annual-review-process.md)
-* [Benefits](docs/policies/benefits.md)
-* [Health, Safety, and Security](docs/policies/health-safety-security.md)
-* [Workplace Guidelines](docs/policies/workplace-guidelines.md)
-* [Travel 101](docs/policies/travel-101.md)
-* [Leaving CivicActions](docs/policies/leaving-civicactions.md)
-* [Required Notices](docs/policies/required-notices.md)
+* [Compensation](docs/03-policies/compensation.md)
+* [Professional Development and Community Participation](docs/03-policies/prodev-community-participation.md)
+* [Annual Review Process](docs/03-policies/annual-review-process.md)
+* [Benefits](docs/03-policies/benefits.md)
+* [Health, Safety, and Security](docs/03-policies/health-safety-security.md)
+* [Workplace Guidelines](docs/03-policies/workplace-guidelines.md)
+* [Travel 101](docs/03-policies/travel-101.md)
+* [Leaving CivicActions](docs/03-policies/leaving-civicactions.md)
+* [Required Notices](docs/03-policies/required-notices.md)
 
-#### How We Work
+#### 4. How We Work
 
-* [Bookmarks](docs/how-we-work/bookmarks.md)
-* [Virtual Workplace Basics](docs/how-we-work/virtual-workplace-basics.md)
-* [Common Vocabulary](docs/how-we-work/common-vocab.md)
-* [Gold Star Program](docs/how-we-work/gold-star-program.md)
-* [Training Resources](docs/how-we-work/training-resources.md)
-* [Equipment](docs/how-we-work/equipment.md)
+* [Agile Baseline](docs/04-how-we-work/agile-baseline)
+* [Bookmarks](docs/04-how-we-work/bookmarks.md)
+* [Virtual Workplace Basics](docs/04-how-we-work/virtual-workplace-basics.md)
+* [Common Vocabulary](docs/04-how-we-work/common-vocab.md)
+* [Gold Star Program](docs/04-how-we-work/gold-star-program.md)
+* [Training Resources](docs/04-how-we-work/training-resources.md)
+* [Equipment](docs/04-how-we-work/equipment.md)
+* [Tools](docs/04-how-we-work/tools)
+  * [Basic Communication Tools](docs/04-how-we-work/tools/basic-communication-tools.md)
+  * [Harvest](docs/04-how-we-work/tools/harvest.md)
+  * [Trello](docs/04-how-we-work/tools/trello.md)
+  * [Jira](docs/04-how-we-work/tools/jira.md)
+  * [Github](docs/04-how-we-work/tools/github.md)
+  * [Text Editors](docs/04-how-we-work/tools/text-editors.md)
+  * [Resource Guru](docs/04-how-we-work/tools/resource-guru.md)
 
-##### Tools
+#### 5. Engineering
 
-* [Basic Communication Tools](docs/how-we-work/tools/basic-communication-tools.md)
-* [Harvest](docs/how-we-work/tools/harvest.md)
-* [Trello](docs/how-we-work/tools/trello.md)
-* [Jira](docs/how-we-work/tools/jira.md)
-* [Github](docs/how-we-work/tools/github.md)
-* [Text Editors](docs/how-we-work/tools/text-editors.md)
-* [Resource Guru](docs/how-we-work/tools/resource-guru.md)
+* [Accessibility](docs/05-engineering/accessibility.md)
+* [Back End Development](docs/05-engineering/back-end-development.md)
+* [Development and Hosting Environments](docs/05-engineering/dev-environments.md)
+* [Drupal Site Building](docs/05-engineering/drupal-site-building.md)
+* [Engineering Roles](docs/05-engineering/engineering-roles.md)
+* [Engineer's Role in Client/Team Relationships](docs/05-engineering/engineer-role-in-client-relationships.md)
+* [Front End Development](docs/05-engineering/front-end-development.md)
+* [Git/GitLab/Github/Bitbucket](docs/05-engineering/git-gitlab-github-bitbucket.md)
+* [Quality Assurance](docs/05-engineering/qa.md)
+* [Security/Compliance](docs/05-engineering/security-compliance.md)
+* [Systems and Sandboxes](docs/05-engineering/systems-sandboxes.md)
 
-#### Engineering
+#### 6. Project Management
 
-* [Accessibility](docs/engineering/accessibility.md)
-* [Back End Development](docs/engineering/back-end-development.md)
-* [Development and Hosting Environments](docs/engineering/dev-environments.md)
-* [Drupal Site Building](docs/engineering/drupal-site-building.md)
-* [Engineering Roles](docs/engineering/engineering-roles.md)
-* [Engineer's Role in Client/Team Relationships](docs/engineering/engineer-role-in-client-relationships.md)
-* [Front End Development](docs/engineering/front-end-development.md)
-* [Git/GitLab/Github/Bitbucket](docs/engineering/git-gitlab-github-bitbucket.md)
-* [Quality Assurance](docs/engineering/qa.md)
-* [Security/Compliance](docs/engineering/security-compliance.md)
-* [Systems and Sandboxes](docs/engineering/systems-sandboxes.md)
-
-#### Project Management
-
-* [Project Manager Training](docs/project-management/pm-training-doc.md)
-* [The Project Manager Role](docs/project-management/pm-role.md)
-* [Guidelines for Starting a New Project](docs/project-management/starting-new-project.md)
-* [Onboarding a New Project Team Member](docs/project-management/onboarding-new-project-team-member.md)
-* [Offboarding a Contractor from Project](docs/project-management/offboarding-contractor-from-project.md)
-* [Invoicing](docs/project-management/invoicing.md)
-* [Planning a "Project Onsite"](docs/project-management/planning-project-onsite.md)
-* [PTO Request and Approval Process](docs/project-management/pto-request-approval-process.md)
+* [Project Manager Training](docs/06-project-management/pm-training-doc.md)
+* [The Project Manager Role](docs/06-project-management/pm-role.md)
+* [Guidelines for Starting a New Project](docs/06-project-management/starting-new-project.md)
+* [Onboarding a New Project Team Member](docs/06-project-management/onboarding-new-project-team-member.md)
+* [Offboarding a Contractor from Project](docs/06-project-management/offboarding-contractor-from-project.md)
+* [Invoicing](docs/06-project-management/invoicing.md)
+* [Planning a "Project Onsite"](docs/06-project-management/planning-project-onsite.md)
+* [PTO Request and Approval Process](docs/06-project-management/pto-request-approval-process.md)
 
 #### [CHANGE LOG](CHANGELOG.md)
