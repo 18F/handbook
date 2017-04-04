@@ -10,9 +10,9 @@ Many CivicActions employees will already have a GitHub account. If you don't hav
 
 1. Sign up with a free profile on <https://github.com/join>.
 
-a. As always, please use a unique, secure password.
+ a. As always, please use a unique, secure password.
 
-b. Use a personal email account, not your CivicActions one, so that your GitHub account will be portable.
+ b. Use a personal email account, not your CivicActions one, so that your GitHub account will be portable.
 
 1. Ask a coworker to add you to the [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team).
 2. Find out the details of the repositories you'll be working with.
