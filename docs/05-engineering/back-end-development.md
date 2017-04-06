@@ -125,7 +125,7 @@ To configure your editor/development environment for Drupal:
  * ...
  * @param my_parameter description of my_parameter
  * @return return value description
- * @TODO these are some things that we need to do
+ *  these are some things that we need to do
  */
 function myfunc($my_parameter) {    // no space before '('; 1 space before '{'
   if ($my_parameter) {   // there is a space after 'if', 'while' and other conditionals

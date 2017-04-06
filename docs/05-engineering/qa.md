@@ -2,7 +2,7 @@
 
 ## About the QA Practice Area
 
-@todo: //NEEDS SOME CLEANUP
+> @todo [NEEDS SOME CLEANUP](https://trello.com/c/c9FW3be8)
 
 * We check and clean up extraneous notices, warnings, and errors:
 * So that we can easily identify and debug new issues.
