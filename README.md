@@ -96,4 +96,9 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 * [CivicActions Website](docs/07-sales-and-marketing/civicactions-website.md)
 * [Social Media](docs/07-sales-and-marketing/social-media.md)
 
+#### 8. Human Resources
+
+* [New Hire Mentor Handbook](docs/08-hr-admin/mentor-handbook.md)
+* [New Hire Onboarding Checklists](docs/08-hr-admin/onboarding-checklists.md)
+
 #### [CHANGE LOG](CHANGELOG.md)
