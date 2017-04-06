@@ -10,6 +10,10 @@
 
 We're honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present, which has led to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
 
+CivicActions operates transparently on a fundamental level. We have very few "rules and regulations." We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. Left to our own devices, this Handbook would be very short - be open, do your best, ask for help and clarification when you need it, offer help to others, and have fun.
+
+That being said, there are topics in this document that are required by law or at least by HR professionals. You will find them under [Required Notices](../03-policies/required-notices.md). This Handbook is likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships and processes. Issues are addressed on a case-by-case basis. We want you to feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you. You will find CivicActions a great place to work.
+
 ### <a name="learn"></a>Learn more about CivicActions
 
 * [Mission, Values, and Operating Principles](../02-about-us/mission-values-operating-principles.md)
@@ -182,15 +186,3 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 
 > @todo [Add information about forms, paperwork, etc](https://trello.com/c/OE8MZMM7/103-add-before-your-first-day-content-to-welcome-md)
 > @todo Review training details and add to this page as needed
-
-
-### Checklists
-
-The Trello boards below serve as TEMPLATES for lists of tasks for new hires to complete, with corresponding links and timelines. Your manager will copy the appropriate board(s) for you.
-
-* [New Hire Checklist](https://trello.com/b/sMn9YJcO/onboarding-new-hire-checklist-draft) (for all new hires)
-* [Dev/Engineer Checklist](https://trello.com/b/bQeKK90e/onboarding-dev-engineering-new-employee-checklist-draft) (for new engineers only)
-* [Project Manager Checklist](https://trello.com/b/KnmBekdC/onboarding-project-manager-new-employee-checklist-draft) (for new PMs only)
-* [Manager Checklist](https://trello.com/b/FOILJ0i6/onboarding-manager-checklist-draft) (for onboarding managers)
-* [Mentor Checklist](https://trello.com/b/LLHq2eTI/onboarding-mentor-checklist-draft) (for onboarding mentors)
-* [Admin/HR Checklist](https://trello.com/b/RbC0clMU/onboarding-admin-hr-checklist-draft) (for Judy)
