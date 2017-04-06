@@ -11,25 +11,25 @@ Capturing best practices (handbook, trello board, …)
 * Cloud
 * DevOps
 
-[Sales Process Flow Diagram](https://www.lucidchart.com/documents/edit/06f806cb-a2ab-4c24-a85d-4d7b95777dfa#)
+[Sales Process Flow Diagram - Lucid Chart](https://www.lucidchart.com/documents/edit/06f806cb-a2ab-4c24-a85d-4d7b95777dfa#)
 
 ## Guilds, Roles, and Accountabilities
 ### Strategy
 Organizational Roles
 
-## Project Roles
+### Project Roles
 * Visual Designer
 * User Experience Engineer
 * Content Strategist
 
 ## Delivery/PM
 * Facilitator: Elizabeth
-* Rolling Agenda: https://trello.com/b/2BXO1nTe/pm-snuggle-struggles
+* Rolling Agenda: <https://trello.com/b/2BXO1nTe/pm-snuggle-struggles>
 
 ## Organizational Roles
 * Director of PS
 
-## Project Roles
+### Project Roles
 * Account Manager
 * Project Manager
 
@@ -38,7 +38,7 @@ Organizational Roles
 * Director of Engineering
 * Associate Director
 
-## Project Roles
+### Project Roles
 * Tech Lead
 * Engineer
 * Engineer > Backend
@@ -50,7 +50,7 @@ Organizational Roles
 ## Sales
 * Managing prospects, writing proposals, analysing business prospects.
 * Facilitator: Bill
-* Rolling Agenda: https://trello.com/b/wMonus0P/sales-guild-tensions
+* Rolling Agenda: <https://trello.com/b/wMonus0P/sales-guild-tensions>
 * Governance Meeting: As needed, ping Bill to review tension(s) added to the rolling agenda
 
 ## Organizational Roles
