@@ -1,4 +1,6 @@
-# Services
+# Sales Guild
+
+## Services
 Capturing best practices (handbook, trello board, …)
 * Front End
 * Backend
