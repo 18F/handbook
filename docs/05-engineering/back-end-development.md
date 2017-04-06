@@ -44,7 +44,7 @@
   * [JS](https://www.drupal.org/docs/develop/standards/javascript) coding standards.
   * [Writing Secure Code in Drupal 7](https://www.drupal.org/docs/7/security/writing-secure-code)
   * [Writing Secure Code in Drupal 8](https://www.drupal.org/docs/8/security/writing-secure-code-for-drupal-8)
-* We ensure [Code Quality with DCQ](https://www.drupal.org/project/dcq) which includes the [Coder module](https://www.drupal.org/project/coder)to ensure code meets Drupal standards.
+* We ensure [Code Quality with DCQ](https://www.drupal.org/project/dcq) which includes the [Coder module](https://www.drupal.org/project/coder) to ensure code meets Drupal standards.
 * We use namespaces so that we avoid namespace collisions.
   * All module functions (even little helper functions) should have the module prefix.
   * Database tables should have the module prefix.
@@ -125,7 +125,7 @@ To configure your editor/development environment for Drupal:
  * ...
  * @param my_parameter description of my_parameter
  * @return return value description
- * @TODO these are some things that we need to do
+ *  these are some things that we need to do
  */
 function myfunc($my_parameter) {    // no space before '('; 1 space before '{'
   if ($my_parameter) {   // there is a space after 'if', 'while' and other conditionals
@@ -144,7 +144,7 @@ Don't do this:
 ```
 foreach ($types as $type) {
   if ($type == 'blog_post') {
-    continue; 
+    continue;
   }
   print $type;
 }
