@@ -440,8 +440,8 @@ navigation:
     - text: Assignments and Details
       url: assignee-detail/
       internal: true
-    - text: Leaving 18F
-      url: leaving-18f/
+    - text: Leaving TTS
+      url: leaving-tts/
       internal: true
     - text: Term extensions
       url: term-extensions/

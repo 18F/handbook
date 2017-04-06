@@ -12,7 +12,7 @@ This guide covers the offboarding policy and process.
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave TTS, send an official email to your supervisor and [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov). 
+If you decide you want to leave TTS, send an official email to your supervisor and [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov).
 
 Include your termination date, which should be at least two weeks out. Your last day at TTS cannot be a federal holiday.
 
