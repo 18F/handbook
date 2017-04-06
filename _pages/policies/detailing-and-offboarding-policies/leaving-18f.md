@@ -1,5 +1,5 @@
 ---
-title: Leaving 18F
+title: Leaving TTS
 tags:
 - quit
 - quitting
@@ -12,9 +12,9 @@ This guide covers the offboarding policy and process.
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave 18F, send an official email to your supervisor and [leaving18f@gsa.gov](mailto:leaving18f@gsa.gov). 
+If you decide you want to leave TTS, send an official email to your supervisor and [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov). 
 
-Include your termination date, which should be at least two weeks out. Your last day at 18F cannot be a federal holiday.
+Include your termination date, which should be at least two weeks out. Your last day at TTS cannot be a federal holiday.
 
 ### 2. Complete the clearance checklist
 
@@ -30,11 +30,11 @@ If you have any questions, please contact [Marty Sanchez-Lowery](mailto:martha.s
 
 ### 4. Return your equipment
 
-When you leave 18F, you are responsible for returning all 18F issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
+When you leave TTS, you are responsible for returning all TTS issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
 
 ## Offboarding process
 
-A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1IlFY5AAvTyuS7yDHk5_odJGHYZDU_MN9HNGKJ2zXwi0/edit#gid=0) to make a new checklist once leaving18f@gsa.gov has been notified that a team member is leaving.  If the checklist hasn't been created, please email [leaving18f@gsa.gov](mailto:leaving18f@gsa.gov) or ping #talent for help.  More detail for certain tasks is below. Note that, per GSA policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at GSA.
+A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1IlFY5AAvTyuS7yDHk5_odJGHYZDU_MN9HNGKJ2zXwi0/edit#gid=0) to make a new checklist once leavingTTS@gsa.gov has been notified that a team member is leaving.  If the checklist hasn't been created, please email [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov) or ping #talent for help.  More detail for certain tasks is below. Note that, per GSA policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at GSA.
 
 ### Supervisor
 
@@ -43,7 +43,8 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
 
 ### Talent Team
 
-- Conduct an exit interview using [these questions](https://docs.google.com/a/gsa.gov/document/d/1PpbxoZhPlW2oQx9grMyPSUDepDTQCNiwYO-D1X2IkJk/edit).
+- Provide [TTS Exit Interview Questionnaire] to offboarding employee.
+- Conduct an exit interview based on the responses to the questionnaire.
   - Documentation will be kept anonymous.
   - After three samples are gathered, look for trends.
 - Complete the [clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with the employee.
