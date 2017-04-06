@@ -25,7 +25,7 @@
 * **Definition of Done** - A clear list of required tasks or requirements that must be completed before an item can be called done. It is created by the team and should not change during a sprint.
 * **Deliverable** - a tangible output, document or piece of work.
 * **DevOps** -
-> @todo [Add this content](https://trello.com/c/GSXkqSih)
+  > @todo [Add this content](https://trello.com/c/GSXkqSih)
 
 * **Dot Voting** - a technique where team members list topics or items in some manner (on sticky notes, in a spreadsheet, on a Trello board). After gathering all items, each group member has a certain number of votes that they can cast. Items are prioritized according to the number of votes.
 * **Escalation** - A determination that a project's success is potentially at risk, and a call for assistance to help address the blockers to the project. Frequently, but not always, related to a project's Primary Constraint (budget, scope, or timeline).
