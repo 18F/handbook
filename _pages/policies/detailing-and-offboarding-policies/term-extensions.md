@@ -42,8 +42,7 @@ At this point, the renewal process is completed by the Talent Team and GSA HR.
 
 *The Talent Team checks to make sure that the extension has been processed, but you should also check your CHRIS account on the renewal date to confirm that your NTE date is accurate.* ***If the date was not updated, contact the Talent Team immediately.***
 
-If the **decision is not to renew**, the Talent Team will process an RPA to end your term at the end of the initial two years. See [Leaving TTS](/leaving-tts) for more details.
-
+If the **decision is not to renew**, the Talent Team will process an RPA to end your term at the end of the initial two years. See [Leaving TTS](/leaving-tts/) for more details.
 ---
 
 ### Still have questions?
