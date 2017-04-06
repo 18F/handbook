@@ -1,16 +1,18 @@
 # CivicActions Website
 
+> @todo [NEEDS CONTENT](https://trello.com/c/TlpYpzcg)
+
 ## Communication
 
-//
+// NEEDS CONTENT
 
 ## Documentation
 
-//
+// NEEDS CONTENT
 
 ## CivicActions site
 
-// NEEDS UPDATING
+// NEEDS CONTENT
 
 [civicactions.com](http://civicactions.com) is our public-facing company website...
 
