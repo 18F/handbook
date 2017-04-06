@@ -15,11 +15,11 @@ Effective March 1, 2015
 
 ### <a name="purpose"></a>Handbook Purpose
 
-This Handbook has been prepared to describe CivicActions' philosophy, employment practices, policies, benefits, and the conduct we expect from members of our team.
+This Handbook has been prepared to describe CivicActions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
 
-CivicActions operates transparently on a fundamental level. We have very few "rules and regulations." We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. Left to our own devices, this Handbook would be very short - be open, do your best, ask for help and clarification when you need it, offer help to others, and have fun.
+### <a name="contributing"></a>How to Contribute
 
-That being said, there are topics in this document that are required by law or at least by HR professionals. You will find them under [Required Notices](docs/03-policies/required-notices.md). This Handbook is not designed to answer specific questions or address specific scenarios. It is more likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships. Issues are addressed on a case-by-case basis anyway. We do want you to feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you.   You will find CivicActions a great place to work.
+There are three ways to contribute to the Handbook: the lazy way, the easy way and the recommended (but advanced) way. See [CONTRIBUTING](CONTRIBUTING.md) for detailed intstructions for each.
 
 ### <a name="toc"></a>TABLE OF CONTENTS
 
@@ -90,5 +90,15 @@ That being said, there are topics in this document that are required by law or a
 * [Invoicing](docs/06-project-management/invoicing.md)
 * [Planning a "Project Onsite"](docs/06-project-management/planning-project-onsite.md)
 * [PTO Request and Approval Process](docs/06-project-management/pto-request-approval-process.md)
+
+#### 7. Sales and Marketing
+
+* [CivicActions Website](docs/07-sales-and-marketing/civicactions-website.md)
+* [Social Media](docs/07-sales-and-marketing/social-media.md)
+
+#### 8. Human Resources
+
+* [New Hire Mentor Handbook](docs/08-hr-admin/mentor-handbook.md)
+* [New Hire Onboarding Checklists](docs/08-hr-admin/onboarding-checklists.md)
 
 #### [CHANGE LOG](CHANGELOG.md)

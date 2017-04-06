@@ -20,4 +20,4 @@ Within RG, we encourage you to upload a photo, update your skills, and look at y
 
 We discourage any employee from entering PTO in RG without first confirming it with their delivery manager and PM. After time off is approved, employees are welcome to update their own RG schedules.
 
-Questions about PTO may be answered [here](https://github.com/CivicActions/handbook#pto).
+Questions about PTO may be answered [here](../../03-policies/benefits.md#pto).

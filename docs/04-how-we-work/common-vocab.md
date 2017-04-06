@@ -1,12 +1,14 @@
 # CivicActions' Common Vocabulary
 
+## Definitions
 * **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements.
 * **Agile Coach** - Individual who teaches or mentors the teams who implement Agile. The goal of an Agile coach is to help teams to produce the best results by practicing Agile.
-* **[Agile Manifesto](http://agilemanifesto.org/)** - Individuals and interactions over processes and tools. {link}
-  Working software over comprehensive documentation
-  Customer collaboration over contract negotiation
-  Responding to change over following a plan
-  That is, while there is value in the items on the right, we value the items on the left more.
+* **[Agile Manifesto](http://agilemanifesto.org/)**
+* Individuals and interactions over processes and tools.
+* Working software over comprehensive documentation
+* Customer collaboration over contract negotiation
+* Responding to change over following a plan
+* That is, while there is value in the items on the right, we value the items on the left more.
 * **Agile Process** - Since Agile is "people and interactions over processes and tools" we prefer to talk about our Agile Practices. To us, Process feels more static, and loses the important "inspect and adapt" aspect of how we work. However, we acknowledge that the term Agile Process is used within the Agile community in a way that it is interchangeable with Agile Practice.
 * **Agile Methodology** - See "Agile Process". Like Process, Methodology feels static, and loses the important "inspect and adapt" aspect of how we work. The term is used within the Agile community, though, in a way that is interchangeable with Agile Process and Agile Practices.
 * **Agile Practices** - Represents our commitment to "people and interactions over processes and tools" by using the Agile tenets and placing a high value on the "inspect and adapt" aspect of how we work.
@@ -23,6 +25,8 @@
 * **Definition of Done** - A clear list of required tasks or requirements that must be completed before an item can be called done. It is created by the team and should not change during a sprint.
 * **Deliverable** - a tangible output, document or piece of work.
 * **DevOps** -
+  > @todo [Add this content](https://trello.com/c/GSXkqSih)
+
 * **Dot Voting** - a technique where team members list topics or items in some manner (on sticky notes, in a spreadsheet, on a Trello board). After gathering all items, each group member has a certain number of votes that they can cast. Items are prioritized according to the number of votes.
 * **Escalation** - A determination that a project's success is potentially at risk, and a call for assistance to help address the blockers to the project. Frequently, but not always, related to a project's Primary Constraint (budget, scope, or timeline).
 * **Iteration** - A cycle of time in which some portion of a project's sum deliverables are completed, often measured in accordance with the Sprint timeline. Iterative release is a technique used to maximize efficiency and keep work focused on the project's objectives.
@@ -37,7 +41,10 @@
 * **Primary Constraint** - The parameter that the Product Owner has determined is most important and least mutable: Budget, Scope, or Timeline. Once it is defined, the project will be managed to this primary constraint, which could impact the other two parameters.
 * **Product Backlog** - The known list of the user stories, outcomes, requirements, tasks, bug fixes that remains to be complete for the project. The Product Owner prioritizes the backlog so that the team always works on the most valuable features first. It is ever-changing and growing as business needs change and as new technology becomes available.
 * **Product Owner (PO)** - The Product Owner represents the voice of the stakeholder and holds the vision of the outcomes on their behalf. This person ensures that the Scrum Team works on the features and functions that bring the most value to the organization. The Product Owner owns the Product Backlog and is the subject-matter expert, with comprehensive knowledge about the business value that each part of the product will create for the organization.
-* **Prototype** - A model for the testing of a concept and clarification of objectives, released for review early in the development process. There are several variants of prototyping, which are not necessarily mutually exclusive with most Drupal projects, as some components could be featurized and re-used (evolutionary) and others might be throwaway. Rapid/Throwaway Prototype: creating a working model of various parts of the system at a very early stage, after a relatively short investigation. The method used in building it is usually quite informal, the most important factor being the speed with which the model is provided. The model then becomes the starting point from which users can re-examine their expectations and clarify their requirements. When this has been achieved, the prototype model is 'thrown away', and the system is formally developed based on the identified requirements. Evolutionary Prototype: The main goal when building an Evolutionary Prototype is to build a very robust prototype in a structured manner and constantly refine it. The reason for this is that the Evolutionary prototype, when built, forms the heart of the new system, and the improvements and further requirements will be built. Parallel Prototyping: A product is built as separate prototypes. At the end the separate prototypes are merged in an overall design.
+* **Prototype** - A model for the testing of a concept and clarification of objectives, released for review early in the development process. There are several variants of prototyping, which are not necessarily mutually exclusive with most Drupal projects, as some components could be featurized and re-used (evolutionary) and others might be throwaway.
+* Rapid/Throwaway Prototype: creating a working model of various parts of the system at a very early stage, after a relatively short investigation. The method used in building it is usually quite informal, the most important factor being the speed with which the model is provided. The model then becomes the starting point from which users can re-examine their expectations and clarify their requirements. When this has been achieved, the prototype model is 'thrown away', and the system is formally developed based on the identified requirements.
+* Evolutionary Prototype: The main goal when building an Evolutionary Prototype is to build a very robust prototype in a structured manner and constantly refine it. The reason for this is that the Evolutionary prototype, when built, forms the heart of the new system, and the improvements and further requirements will be built.
+* Parallel Prototyping: A product is built as separate prototypes. At the end the separate prototypes are merged in an overall design.
 * **Quality** - Uber-term to describe our commitment to quality in all aspects of our work, from the high standard of the services we provide, the code we write, and the Quality Assurance process, through the communications we have with each other as a team, our interactions with clients and outside vendors and the depth of the relationships we build.
 * **Quality Assurance** - The testing of the work completed against the task requirements to ensure that the goals and expectations of the work delivered meets what was agreed upon, and also to ensure that the system as a whole continues to be working as expected. Testing could include manual and automated testing, utilizing QA engineers, QA software tools and end users.
 * **Red, Blue, Black** - Colors that represent functional areas of the business. Red means administrative. Black means strategic. Blue means revenues (sales, marketing & delivery).
@@ -65,7 +72,7 @@ Resources
 * **[International Consortium of Agile (ICAgile)](http://www.icagile.com/)** - An organization founded to drive high-quality, credible Agile education that teaches professionals to approach Agile in any context, rather than training to follow a specific methodology (Scrum, XP, etc).
 * **[Scrum Alliance](https://www.scrumalliance.org/)** - a non-profit organization offering resources, certifications, training, and support for individuals and organizations in Scrum.
 
-Words needing definitions
+### Words needing definitions
 
 * **Validated Learning** -
 * **Hypothesis** -

@@ -1,4 +1,4 @@
-# DevOps
+# Development and Hosting Environments
 
 ## Intro
 
