@@ -60,7 +60,7 @@ Using the product chapter as an example, a detailee could be informally associat
 
 ## Offboarding
 
-Once the assignment is complete, the detailee will work with their project lead to transition out and return any 18F equipment or software procured during their time with us. See [leaving 18F](/leaving-18f/) for more information about offboarding.
+Once the assignment is complete, the detailee will work with their project lead to transition out and return any TTS equipment or software procured during their time with us. See [leaving TTS](/leaving-tts/) for more information about offboarding.
 
 --------------------------------------------------------------------------------
 
