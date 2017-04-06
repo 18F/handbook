@@ -37,7 +37,7 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
     <tr>
       <td><a href="#concur">Concur</a></td>
       <td>To book travel</td>
-      <td>GSA email address and Concur password</td>
+      <td>ENT username and password</td>
     </tr>
     <tr>
       <td><a href="#employee-express">Employee&nbsp;Express</a></td>
@@ -57,7 +57,7 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
     <tr>
       <td><a href="#online-university">Online University</a></td>
       <td>To take mandatory trainings for federal employees</td>
-      <td>GSA email address and Online University password</td>
+      <td>ENT username and password</td>
     </tr>
   </tbody>
 </table>
