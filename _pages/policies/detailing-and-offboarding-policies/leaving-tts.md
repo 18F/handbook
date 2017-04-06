@@ -43,7 +43,7 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
 
 ### Talent Team
 
-- Provide [TTS Exit Interview Questionnaire] to offboarding employee.
+- Provide [TTS Exit Interview Questionnaire](https://goo.gl/forms/jBmNLwg8Y4ZY4n4s1) to offboarding employee.
 - Conduct an exit interview based on the responses to the questionnaire.
   - Documentation will be kept anonymous.
   - After three samples are gathered, look for trends.
