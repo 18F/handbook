@@ -1,4 +1,6 @@
-# Onboarding Checklists
+# Onboarding Process
+
+> @todo [Flesh out new onboarding process](https://trello.com/c/hqFmbCcD/157-document-new-onboarding-process)
 
 The Trello boards below serve as TEMPLATES for lists of tasks for new hires, managers, and HR admins to complete, with corresponding links and timelines.
 

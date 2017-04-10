@@ -99,7 +99,6 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 
 #### 8. Human Resources
 
-* [New Hire Mentor Handbook](docs/08-hr-admin/mentor-handbook.md)
-* [New Hire Onboarding Checklists](docs/08-hr-admin/onboarding-checklists.md)
+* [Onboarding Process](docs/08-hr-admin/onboarding-process/)
 
 #### [CHANGE LOG](CHANGELOG.md)
