@@ -11,7 +11,7 @@ Berkeley, CA 94705
 888.714.7388 | fax
 civicactions.com
 
-Effective March 1, 2015
+Effective Date TBD (Work in Progress)
 
 ### <a name="purpose"></a>Handbook Purpose
 
