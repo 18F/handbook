@@ -11,7 +11,7 @@ Berkeley, CA 94705
 888.714.7388 | fax
 civicactions.com
 
-Effective March 1, 2015
+Effective Date TBD (Work in Progress)
 
 ### <a name="purpose"></a>Handbook Purpose
 
@@ -76,6 +76,7 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 * [Engineer's Role in Client/Team Relationships](docs/05-engineering/engineer-role-in-client-relationships.md)
 * [Front End Development](docs/05-engineering/front-end-development.md)
 * [Git/GitLab/Github/Bitbucket](docs/05-engineering/git-gitlab-github-bitbucket.md)
+* [How to log internal meetings](docs/05-engineering/internalmeetings.md)
 * [Quality Assurance](docs/05-engineering/qa.md)
 * [Security/Compliance](docs/05-engineering/security-compliance.md)
 * [Systems and Sandboxes](docs/05-engineering/systems-sandboxes.md)
