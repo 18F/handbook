@@ -380,8 +380,8 @@ navigation:
     - text: Authority To Operate (ATO)
       url: authority-to-operate/
       internal: true
-    - text: "(Draft) Federal records policy"
-      url: federal-records/
+    - text: "Federal records policy"
+      url: federal-records-policy-holder/
       internal: true
     - text: Open source policy
       url: open-source/
