@@ -10,7 +10,7 @@ are empowered to succeed.
 ## <a id="documentation">Documentation</a>
 
 The foundation for the Diversity Guild's work is the
-[18F Code of Conduct](/code-of-conduct/).
+[TTS Code of Conduct](/code-of-conduct/).
 
 We understand that diversity and inclusion may be hard to talk about. In order
 to solve that we created the
