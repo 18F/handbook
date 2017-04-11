@@ -350,7 +350,7 @@ navigation:
     internal: true
     generated: true
     children:
-    - text: 18F Code of Conduct
+    - text: TTS Code of Conduct
       url: https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md
       internal: false
 
