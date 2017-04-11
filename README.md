@@ -19,7 +19,7 @@ This Handbook has been prepared to describe CivicActions' philosophy, working me
 
 ### <a name="contributing"></a>How to Contribute
 
-There are three ways to contribute to the Handbook: the lazy way, the easy way and the recommended (but advanced) way. See [CONTRIBUTING](CONTRIBUTING.md) for detailed intstructions for each.
+There are three ways to contribute to the Handbook: the lazy way, the easy way and the recommended (but advanced) way. See [CONTRIBUTING](CONTRIBUTING.md) for detailed instructions for each.
 
 ### <a name="toc"></a>TABLE OF CONTENTS
 
