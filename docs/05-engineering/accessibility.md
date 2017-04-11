@@ -5,6 +5,7 @@
 * [How we do this](#how)
 * [When we do this](#why)
 * [Accessibility Guidelines](#guidelines)
+* [Accessibility Tools](#tools)
 * [Resources](#resources)
 
 We implement 508 and WCAG compliant websites so that people with all types of disabilities, whether it be physical, mental, or visual impairment, have access to our sites.
@@ -34,6 +35,14 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 * Color alone is not used to distinguish links from surrounding text unless the luminance contrast between the link and the surrounding text is at least 3:1 and an additional differentiation (e.g., it becomes underlined) is provided when the link is hovered over or receives focus.
 * The page should be readable and functional when the text size is doubled. We need to use rem font-sizing to make the text scales as expected when the web-page is zoomed-in. Also provides reliable text-resizing in smaller browser widths.
 * Need to have adequate line spacing (at least 1/2 the height of the text) and paragraph spacing (1.5 times line spacing).
+
+## <a name="tools"></a>Accessibility Tools
+
+Extensions for testing accessibility:
+
+* [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+* [Color Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll)
+* [Luminosity ratio analyzer](https://chrome.google.com/webstore/detail/wcag-luminosity-contrast/lllpnmpooomecmbmijbmbikaacgfdagi)
 
 ## <a name="resources"></a>Resources
 
