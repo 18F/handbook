@@ -1,5 +1,5 @@
 ---
-title: (Draft) Federal records policy
+title: Federal records policy
 ---
 
 _Federal Records Policy is currently being updated._
