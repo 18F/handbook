@@ -34,15 +34,19 @@ Once you are done making commits to your branch, you can then create a PR from y
 
 ## The recommended, but more advanced way: fork the handbook
 
-If you're familiar with the git fork and PR workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
+If you're familiar with the git fork and pull request (PR) workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 
 The easiest way to get started, if you're not familiar with the command line or an existing git repo management tool, is by installing [Github Desktop](https://desktop.github.com/), and then learning how to keep your fork up to date with the latest, create commits, and submit PRs.
 
-You can use any other number of tools, including text editors and the command line, or other GUI tools.  
+You can use any other number of tools, including text editors (such as [Atom](https://atom.io/)) and the command line, or other GUI tools.
 
-> @todo [Add additional "advanced" git workflow tips](https://trello.com/c/Bhxio8eo/99-add-some-more-advanced-git-workflow-documentation-or-point-to-external-documentation-in-contributing-md)
+Resources:
+* [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
+* [Working with Forks](https://help.github.com/articles/working-with-forks/)
+* [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
+* [Contributing to Projects with GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
 
-## Assign your pull request
+## Assigning pull requests
 
 If you make a pull request related to a subject that is the responsibility of a specific team or person, please consider tagging or assigning it to that team or person (or pinging them in Slack to ask them to review it).
 
@@ -58,7 +62,13 @@ If you're not sure if you should merge something, ask for a second opinion in [#
 
 ## Styles
 
-This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should exemplify best practices with regard to content. Handbook content should be welcoming, personable, and free from jargon. Markdown formatting should be compliant with <https://github.com/mivok/markdownlint/blob/master/docs/RULES.md>.
+This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should be welcoming, personable, and free from jargon.
+
+Markdown formatting should be compliant with [markdownlint rules](https://github.com/mivok/markdownlint/blob/master/docs/RULES.md) (technically we are using <http://remark.js.org/> for linting/checking rather than markdownlint - but most of [the rules we are using](https://github.com/CivicActions/handbook/blob/master/.remarkrc.error) are comparable).
+
+We are also using [retext](https://github.com/wooorm/retext/), which will give warnings (but not fail the build) for language that looks possibly incorrect, overly complex or insensitive.
+
+You can see some example output (for our master branch) at <https://travis-ci.org/CivicActions/handbook> - this is where errors will show up if the build for your pull request fails. The left hand column shows the line and the position in that line where the error/warning occurs.
 
 ## Public domain
 
