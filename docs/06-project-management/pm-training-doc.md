@@ -111,8 +111,8 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 * [Resource Guru](../04-how-we-work/tools/resource-guru.md)
 * [Harvest](../04-how-we-work/tools/harvest.md)
 * [Jira](../04-how-we-work/tools/jira.md)
-* [Trello](../04-how-we-work/tools/trello.md))
+* [Trello](../04-how-we-work/tools/trello.md)
 * [GitHub](../04-how-we-work/tools/github.md)/Waffle
 * Burndown charts
-* [Google Docs/Folders](../04-how-we-work/tools/basic-communication-tools#google-docs.md)
-* [Slack](../04-how-we-work/tools/basic-communication-tools#slack.md) (client-facing and internal channels)
+* [Google Docs/Folders](../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+* [Slack](../04-how-we-work/tools/basic-communication-tools.md#slack) (client-facing and internal channels)
