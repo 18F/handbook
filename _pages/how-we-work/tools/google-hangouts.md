@@ -9,7 +9,7 @@ Google Hangouts is an online video conferencing platform that allows us to add p
 
 ## Rules
 
-**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
+**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Holly Allen](https://gsa-tts.slack.com/messages/holly/).
 
 ## Setup
 
