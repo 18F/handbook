@@ -44,6 +44,13 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         </td>
       </tr>
       <tr>
+        <td class="col-grouplet"><strong><a id="capacity-planning">Analytics</a></strong></td>
+        <td class="col-description">
+          We work to iterate and improve our operations to better apply our resources. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-capacity-planning/">#wg-capacity-planning</a>
+        </td>
+      </tr>
+      <tr>
         <td class="col-grouplet"><strong><a id="code-of-conduct">Code&nbsp;of&nbsp;Conduct</a></strong></td>
         <td class="col-description">
           We maintain the 18F Code of Conduct and are committed to enforcing it and helping resolve issues. <br />
@@ -55,6 +62,13 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         <td class="col-description">
           We create shared expectations around code reviews to consistently improve code quality and to hone our skills as developers. <br />
           <a href="https://gsa-tts.slack.com/messages/wg-code-reviews">#wg-code-reviews</a>
+        </td>
+      </tr>
+      <tr>
+        <td class="col-grouplet"><strong><a id="compliance">Compliance</a></strong></td>
+        <td class="col-description">
+          We create tooling, resources, and emotional support for people to get through compliance processes. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-compliance">#wg-compliance</a>
         </td>
       </tr>
       <tr>
@@ -72,6 +86,27 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         </td>
       </tr>
       <tr>
+        <td class="col-grouplet"><strong><a id="cybersec">Cybersec</a></strong></td>
+        <td class="col-description">
+          We discuss security news and team policies. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-cybersec">#wg-cybersec</a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong><a id="dataservices">Data Services</a></strong></td>
+        <td class="col-description">
+          We talk about and help each other with our data projects. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-dataservices">#wg-dataservices</a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong><a id="devops">Devops</a></strong></td>
+        <td class="col-description">
+          Our mission is to ensure great devops for our projects. <br />
+          <a href="https://gsa-tts.slack.com/messages/g-devops">#g-devops</a>
+        </td>
+      </tr>
+      <tr>
         <td><strong><a id="diversity">Diversity</a></strong></td>
         <td class="col-description">
           We help make 18F a great place to work for people of all backgrounds. <br />
@@ -86,10 +121,24 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         </td>
       </tr>
       <tr>
+        <td class="col-grouplet"><strong><a id="ethics">Ethics</a></strong></td>
+        <td class="col-description">
+          Exploring how our work might impact or impose risks on our users, our clients, and the public more generally. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-ethics">#wg-ethics</a>
+        </td>
+      </tr>
+      <tr>
         <td class="col-grouplet"><strong><a id="frontend">Front End</a></strong></td>
         <td class="col-description">
           We improve 18F front end code quality through camaraderie and guidelines. <br />
           <a href="https://pages.18f.gov/frontend/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-frontend">#g-frontend</a> &bull; <a href="https://waffle.io/18F/frontend"> Waffle Board</a>
+        </td>
+      </tr>
+      <tr>
+        <td class="col-grouplet"><strong><a id="govcareer">GovCareer</a></strong></td>
+        <td class="col-description">
+          We support teammates who are interested in a further career in public service in the federal government, whether at GSA or another agency.  <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-govcareer">#wg-govcareer</a>
         </td>
       </tr>
       <tr>
@@ -104,6 +153,20 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         <td class="col-description">
           We help 18F improve how 18F implements its open source policy and team practices, especially the policy of maximizing community involvement and reuse of 18F projects.<br />
           <a href="https://gsa-tts.slack.com/messages/wg-opensource">#wg-opensource</a>
+        </td>
+      </tr>
+      <tr>
+        <td class="col-grouplet"><strong><a id="privacy">Privacy</a></strong></td>
+        <td class="col-description">
+          We discuss privacy both in broad terms as well as how it applies to our specific projects. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-privacy">#wg-privacy</a>
+        </td>
+      </tr>
+      <tr>
+        <td class="col-grouplet"><strong><a id="project-review">Project Review</a></strong></td>
+        <td class="col-description">
+          We interview 18F project teams so that our processes can improve. . <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-project-review">#wg-project-review</a>
         </td>
       </tr>
       <tr>
@@ -125,6 +188,13 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
         <td class="col-description">
           We&rsquo;re dedicated to creating an environment in which working groups and guilds can thrive and have a meaningful impact on 18F deliverables and operations. <br />
           <a href="https://pages.18f.gov/wg-working-groups/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/wg-working-groups">#wg-working-groups</a>
+        </td>
+      </tr>
+      <tr>
+        <td class="col-grouplet"><strong><a id="workingshops">Workshops</a></strong></td>
+        <td class="col-description">
+          We work on having great workshops, whether internally or with other agencies. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-workshops">#wg-workshops</a>
         </td>
       </tr>
     </tbody>
