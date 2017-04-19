@@ -65,7 +65,7 @@ tags:
 
 * **PRA** - the Paperwork Reduction Act, enacted in 1980 aims to reduce the burden of federally imposed paperwork for U.S. businessess and the public.
 
-* **SLT** - Senior Leadership Team. This is Hillary and Aaron.
+* **SLT** - Senior Leadership Team. 
 
 * **The Hub** - You've found it! Basically our (partially publically visible) site, used to share documentation and guides among the team.
 
