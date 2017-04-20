@@ -151,6 +151,10 @@ Slack Groups allow you to direct messages to a specific list of people in a more
 
 Groups are a great way to alert people who might not be in a channel about something that needs their attention or make sure urgent incidents are directed to the right people and not an entire channel. For example, you can ping **@github-admins** in #admins-github if you have an urgent issue instead of using an **@channel** or use **@federalist-team** to alert that group of a conversation in another channel that we should see immediately.
 
+## Integrations
+
+You can add [integrations](https://gsa-tts.slack.com/apps/manage) to Slack to allow activities like automatically posting activity in Github into a Slack channel. Slack's approval status with GSA allows you to authorize it to access data in the approved apps. If you have any questions about [adding an integration](https://gsa-tts.slack.com/apps/manage), please ask in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack).
+
 ## Tips
 
 - **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don’t say something on Slack that you wouldn’t feel comfortable appearing on the news.
