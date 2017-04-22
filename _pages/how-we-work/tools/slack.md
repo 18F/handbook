@@ -151,6 +151,8 @@ Slack Groups allow you to direct messages to a specific list of people in a more
 
 Groups are a great way to alert people who might not be in a channel about something that needs their attention or make sure urgent incidents are directed to the right people and not an entire channel. For example, you can ping **@github-admins** in #admins-github if you have an urgent issue instead of using an **@channel** or use **@federalist-team** to alert that group of a conversation in another channel that we should see immediately.
 
+Slack's help article about groups is [here](https://get.slack.help/hc/en-us/articles/212906697-User-Groups).
+
 ## Tips
 
 - **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don’t say something on Slack that you wouldn’t feel comfortable appearing on the news.
