@@ -1,4 +1,4 @@
-# Services [WIP]
+# Services (WIP)
 
 ## Application Migration
 * Drupal Application Migration
