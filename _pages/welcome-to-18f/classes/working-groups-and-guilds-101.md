@@ -151,7 +151,7 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
       <tr>
         <td class="col-grouplet"><strong><a id="opensource">Open Source</a></strong></td>
         <td class="col-description">
-          We help 18F improve how 18F implements its open source policy and team practices, especially the policy of maximizing community involvement and reuse of 18F projects.<br />
+          We help 18F improve how 18F implements its open source policy and team practices, especially the policy of maximizing community involvement and reuse of 18F projects. <br />
           <a href="https://gsa-tts.slack.com/messages/wg-opensource">#wg-opensource</a>
         </td>
       </tr>
@@ -165,7 +165,7 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
       <tr>
         <td class="col-grouplet"><strong><a id="project-review">Project Review</a></strong></td>
         <td class="col-description">
-          We interview 18F project teams so that our processes can improve. . <br />
+          We interview 18F project teams so that our processes can improve. <br />
           <a href="https://gsa-tts.slack.com/messages/wg-project-review">#wg-project-review</a>
         </td>
       </tr>
