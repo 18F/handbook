@@ -70,7 +70,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Ask Infrastructure before creating private repositories.** We pay GitHub for the ability to create private repositories and need to bill clients for repositories created on their behalf. Before you do anything, drop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github) and explain what you&rsquo;d like to do and why. Be sure to include a link in your repo README to a document that explains why it is private.  (See the **Exceptions** section of the [18F Open Source policy](https://18f.gsa.gov/open-source-policy/).)
 
-- **Public repositories do not need approval from Infrastructure.**
+- **You do not need approval to create public repositories.**
 
 - **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it. Feel free to clearly mark repositories “DEPRECATED” at any time.
 
