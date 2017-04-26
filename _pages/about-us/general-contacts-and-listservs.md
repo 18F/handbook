@@ -33,10 +33,8 @@ Information you might need for filling out GSA forms:
 ### General
 
 - General inbox: [18f@gsa.gov](mailto:18f@gsa.gov)
-- 18F team: [18f-team@gsa.gov](mailto:18f-team@gsa.gov)
 - Join 18F: [join18f@gsa.gov](mailto:join18f@gsa.gov)
 - 18F supervisors: [18f-supervisors@gsa.gov](mailto:18f-supervisors@gsa.gov)
-- Technology Transformation Service: [tts@gsa.gov](mailto:tts@gsa.gov)
 
 ### Business Inquiries
 - Agencies inquiring about working with 18F: [inquiries18f@gsa.gov](mailto:inquiries18f@gsa.gov)
