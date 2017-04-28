@@ -54,6 +54,9 @@ You will now see final reservation. Review all of the details and hit **“Confi
 
 If you've navigated away from your authorization, you can find it from the **Home** page, scroll down to the **Recent Authorization** and click **Edit**
 
+## Make Your Authorization or Voucher is Ready to Submit
+[This Checklist](https://goo.gl/AWbT7Q) will help you check your authorization/voucher for potential issues that can result in your request getting rejected or returned for correction. 
+
 ## Submit Authorization for Approval
 You're getting really close! You can almost feel the TSA X-ray scan! One last step before it's travel time! In this step, you will send your authorization to be approved by the 18F travel team.
 
