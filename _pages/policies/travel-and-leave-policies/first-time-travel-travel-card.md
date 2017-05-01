@@ -15,7 +15,7 @@ While new employees may travel without one, it is required that everyone at 18F 
 
 _Est. time: 45 minutes_
 
-1. Head over to GSA's [OLU](https://www.gsaolu.gsa.gov).
+1. Head over to GSA's [OLU](https://gsaolu.gsa.gov).
 2. Click on the Home button, and then choose "Learning" from the dropdown.
 3. Below, look for a "Find Learning" search box.
 4. Search for "travel card".
