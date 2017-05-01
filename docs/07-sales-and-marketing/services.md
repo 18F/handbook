@@ -3,8 +3,9 @@
 ## Cloud-Based Infrastructure
 * Systems Orchestration
 * Hosting Services
+* Cloud-Based Systems Migrations
 
-## Cloud-Based System Migrations
+## Application Migrations
 * Drupal Application Migration
 
 ## Design
