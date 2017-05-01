@@ -1,32 +1,38 @@
 # Services (WIP)
 
-## Application Migration
-* Drupal Application Migration
-
 ## Cloud-Based Infrastructure
-* Systems Administration (SA)
+* Systems Orchestration
 * Hosting Services
+
+## Cloud-Based System Migrations
+* Drupal Application Migration
 
 ## Design
 * User Research
 * Content Strategy
 * Information Architecture
-* Interaction Design and Front End Development
+* Interaction Design
 * Visual Design
 
 ## Development
-* Drupal Development (site building; custom module development)
-* DevOps/Continuous Integration
+* Backend Development (site building; custom module development)
+* Front End Development (theming; JS-based frameworks)
 * API Development
 
 ## DevOps
 * Backup System Development/Maintenance
+* Quality Assurance Automation
+* Automated Release Management
+* Environment Provisioning Systems
+* System Auditing
 
 ## Discovery
 * Story Mapping
 * Onsite Discovery Workshop
 
 ## Help Desk (Technical Assistance)
+* User Assistance
+* Technical Escalation
 
 ## Operations and Maintenance (O&M)
 * Incident Management
@@ -39,7 +45,10 @@
 * Screencasts/Recorded Demos
 * Live Training Sessions
 
-## Quality Assurance
+## Quality Assurance (QA)
+* Visual Regression Testing
+* Coding Standards / Reviews
+* Smoke Testing
 
 ## Security and Compliance
 * Security and Personally Identifiable Information (PII) Training
@@ -51,7 +60,9 @@
 * NIST Standards Compliance
 * Section 508 Accessibility Compliance
 * Cross-browser Testing
+* Continuous Monitoring
 
 ## Training and Empowerment
 * Product Owner Training
 * Agile Training
+* Product Training / Demos
