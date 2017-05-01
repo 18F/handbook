@@ -6,7 +6,7 @@ Zoom is a video-conferencing tool used by 18F for large meetings, such as the we
 We recommend it for a video calls with over twenty participants. Use of the native Zoom app is
 usually much lighter on machine resources (especially the CPU) than Google Hangouts.
 
-Zoom lives on the web at https://zoom.us/
+Zoom lives on the web at [https://zoom.us](https://zoom.us/)
 
 ## Setup
 
@@ -35,9 +35,11 @@ can still be added to the 18F organization in the future.
 Due to how we currently have our Zoom licenses set up, the instructions are different depending on
 whether your meeting is intended to be shorter or longer than 40 minutes.
 
-If you log into Zoom, under the tab "My Profile," you will see a Personal Meeting ID. This ID contains 
+If you log into Zoom, under the tab ["My Profile,"](https://zoom.us/profile) you will see a Personal Meeting ID. This ID contains 
 a URL, which you are free to give to anyone who wants to join your meeting. This URL is static and does
 not change. If you need a unique URL, you can create one in the "My Meetings" tab. 
+
+To dial into your meeting, the phone number is: 408 638 0968 or 646 558 8656 plus the Meeting ID number listed next to `Personal Meeting ID` in your Zoom Profile.
 
 ### For meetings shorter than 40 minutes (Free tier)
 
