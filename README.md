@@ -95,6 +95,8 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 #### 7. Sales and Marketing
 
 * [CivicActions Website](docs/07-sales-and-marketing/civicactions-website.md)
+* [Sales Guild](docs/07-sales-and-marketing/sales-guild.md)
+* [Services](docs/07-sales-and-marketing/services.md)
 * [Social Media](docs/07-sales-and-marketing/social-media.md)
 
 #### 8. Human Resources
