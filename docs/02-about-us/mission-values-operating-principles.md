@@ -25,7 +25,7 @@ For US government agency executives, directors, and managers, IT staff and depar
 ### BE EXPERTLY AGILE
 
 * We build flexible, cross-functional teams with the right blend of creativity and capability.
-* We regularly re ect on our processes to make them stronger and more relevant.
+* We regularly retrospect on our processes to make them stronger and more relevant.
 
 ### PURSUE EXCELLENCE
 
