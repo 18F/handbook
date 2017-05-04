@@ -18,5 +18,5 @@ Check out this [GovCon slidedeck](https://docs.google.com/presentation/d/1Cw3ZPb
 
 ## Methods
 
-* [Research Methods](../04-methods/1-research.md)
-* [Design Methods](../04-methods/2-design.md)
+* [Research Methods](../03-methods/1-research.md)
+* [Design Methods](../03-methods/2-design.md)

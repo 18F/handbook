@@ -19,7 +19,7 @@
 * Introduction to how we use the [calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
 * Introduction to [All Hands Call](meetings-and-meeting-tools.md)/Bluejeans
 * Relevant Project Introductions
-* Introduction to [Scrum call](../../04-how-we-work/agile-baseline/03-process/practices/daily-scrum-calls.md) structure
+* Introduction to [Scrum call](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md) structure
 * Introduction to how we use [Jira](../../04-how-we-work/tools/trello.md) and [Trello](../../04-how-we-work/tools/trello.md)
 
 ## <a name="day2"></a>Day 2
