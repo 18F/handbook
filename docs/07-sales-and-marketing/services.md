@@ -35,6 +35,11 @@
 * User Assistance
 * Technical Escalation
 
+## Management
+* Scrum Master services / Agile project management
+* Product Owner services
+* Project retrospective(s) facilitation
+
 ## Operations and Maintenance (O&M)
 * Incident Management
 * Documentation Updates
