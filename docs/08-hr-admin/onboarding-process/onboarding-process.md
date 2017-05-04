@@ -1,12 +1,21 @@
 # Onboarding Process
 
-> @todo [Flesh out new onboarding process](https://trello.com/c/hqFmbCcD/157-document-new-onboarding-process)
+There are generally three people involved in the process of onboarding a new employee: the Onboarding Manager, an Admin/HR contact, and an Onboarding Mentor.
 
-The Trello boards below serve as TEMPLATES for lists of tasks for new hires, managers, and HR admins to complete, with corresponding links and timelines.
+## Schedule
 
-* [New Hire Checklist](https://trello.com/b/sMn9YJcO/onboarding-new-hire-checklist-draft) (for all new hires)
-* [Dev/Engineer Checklist](https://trello.com/b/bQeKK90e/onboarding-dev-engineering-new-employee-checklist-draft) (for new engineers only)
-* [Project Manager Checklist](https://trello.com/b/KnmBekdC/onboarding-project-manager-new-employee-checklist-draft) (for new PMs only)
-* [Manager Checklist](https://trello.com/b/FOILJ0i6/onboarding-manager-checklist-draft) (for onboarding managers)
-* [Mentor Checklist](https://trello.com/b/LLHq2eTI/onboarding-mentor-checklist-draft) (for onboarding mentors)
-* [Admin/HR Checklist](https://trello.com/b/RbC0clMU/onboarding-admin-hr-checklist-draft) (for Judy)
+One of the first tasks assigned to new employees is to review the [Onboarding Schedule](https://github.com/CivicActions/handbook/blob/master/docs/01-welcome-to-civicactions/welcome.md#onboarding-process) for their first week, which typically includes several training sessions, a daily Orientation Meeting with the Onboarding Manager and a daily check-in call with the Onboarding Mentor.
+
+## Tasks
+
+We use Trello boards to manage onboarding-related _tasks_, but nearly all onboarding _content_ is contained in this Handbook. Tasks are captured in several Trello board templates (see below), each of which includes suggested timelines/deadlines and links to relevant Handbook content for each task.
+
+Tools and resources for managing the process:
+* [Manager Checklist (Trello board)]((https://trello.com/b/FOILJ0i6/template-onboarding-manager-checklist) (for onboarding managers)
+* [Admin/HR Checklist (Trello board)](https://trello.com/b/RbC0clMU/template-onboarding-admin-hr-checklist-draft) (for Judy)
+* [Mentor Handbook](https://github.com/CivicActions/handbook/blob/master/docs/08-hr-admin/onboarding-process/mentor-handbook.md) (guidelines for onboarding mentors)
+
+Trello board templates for new hires:
+* [New Hire Checklist (Trello board)](https://trello.com/b/sMn9YJcO/template-onboarding-new-hire-checklist) (for all new hires)
+* [New Engineer checklist (Trello board)](https://trello.com/b/bQeKK90e/template-onboarding-dev-engineering-new-employee-checklist) (for new devs only)
+* [New Project Manager Checklist (Trello board)](https://trello.com/b/KnmBekdC/template-onboarding-project-manager-new-employee-checklist-draft) (for new PMs only)
