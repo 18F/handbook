@@ -11,7 +11,7 @@ One of the first tasks assigned to new employees is to review the [Onboarding Sc
 We use Trello boards to manage onboarding-related _tasks_, but nearly all onboarding _content_ is contained in this Handbook. Tasks are captured in several Trello board templates (see below), each of which includes suggested timelines/deadlines and links to relevant Handbook content for each task.
 
 Tools and resources for managing the process:
-* [Manager Checklist (Trello board)]((https://trello.com/b/FOILJ0i6/template-onboarding-manager-checklist) (for onboarding managers)
+* [Manager Checklist (Trello board)](https://trello.com/b/FOILJ0i6/template-onboarding-manager-checklist) (for onboarding managers)
 * [Admin/HR Checklist (Trello board)](https://trello.com/b/RbC0clMU/template-onboarding-admin-hr-checklist-draft) (for Judy)
 * [Mentor Handbook](https://github.com/CivicActions/handbook/blob/master/docs/08-hr-admin/onboarding-process/mentor-handbook.md) (guidelines for onboarding mentors)
 
