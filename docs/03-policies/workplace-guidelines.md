@@ -1,12 +1,5 @@
 # Workplace Guidelines
 
-## <a name="toc"></a>Table of Contents
-
-* [Hours of Work](#hours-work)
-* [Attendance / Tardiness](#attendance)
-* [Personal Appearance](#personal-appearance)
-* [Access to Business-Related Online Accounts](#access-account)
-
 ## <a name="hours-work"></a>Hours of Work
 
 The normal workweek for a full-time employee is forty (40) hours. With some employees, there are set days and times, and with others there are no set days or times of day. You are expected to be available for and participate in necessary project-related work sessions, hangouts, discussions, etc.

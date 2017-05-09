@@ -1,18 +1,5 @@
 # Backend Development
 
-## Table of Contents
-
-* [General Coding Principles](#general-coding-principles)
-* [Coding Standards](#coding-standards)
-  * [Drupal specific coding](#drupal-specific-coding-standards)
-* [Debugging](#debugging)
-* [Git Commits](#git-commits)
-* [Editor Configuration for Coding](#editor-configuration-for-coding)
-* [Code Examples](#code-examples)
-  * [Don't use continue in short loops](#continue)
-  * [Simplify Boolean Logic](#simplify-boolean-logic)
-* [Still have questions?](#still-have-questions)
-
 ## General Coding Principles
 
 * We use the correct layer of abstraction.

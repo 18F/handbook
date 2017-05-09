@@ -1,12 +1,5 @@
 # Engineering Project Roles
 
-## Table of Contents
-
-* [Tech Lead](#tech-lead)
-  * [Tech Leads in the Process](#tech-lead-process)
-* [Lead Themer](#lead-themer)
-* [Lead Engineer](#lead-engineer)
-
 These are the engineering roles and responsibilities on a project team. This is how we role.
 
 Very important note: these are roles, not individuals. This means that:
