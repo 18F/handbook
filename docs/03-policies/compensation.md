@@ -17,10 +17,4 @@ Paychecks are direct deposited on the 25th day of the month for the first pay pe
 
 Any overtime needs to be pre-approved by a manager or member of the management team.
 
-CivicActions complies with all applicable laws regarding payment of overtime work. Overtime is based on the laws of the state in which the employee lives and, as of this writing, our only non-exempt employees are New Yorkers. Information about other states will be added as needed.
-
-New York: overtime is paid at the rate of 1-1/2 times the regular rate of pay for hours worked over 40 in a payroll week
-
-## <a name="pay-adjustment"></a>Pay Adjustments
-
-There are no schedules or guaranteed cost of living or salary adjustments.
+CivicActions complies with all applicable laws regarding payment of overtime work. Overtime is based on the laws of the state in which the employee lives.
