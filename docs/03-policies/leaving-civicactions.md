@@ -1,3 +1,8 @@
+---
+status: Work in progress
+updated: May 9, 2017
+---
+
 # Leaving CivicActions
 
 ## <a name="at-will"></a>At-Will Employment
@@ -22,13 +27,7 @@ Any company property issued to employees, such as documents, computer equipment 
 
 COBRA
 
-If you or your covered dependents lose eligibility for regular, TriNet group medical, dental, vision benefits and/or healthcare FSA, you may be eligible to continue your coverage under COBRA. COBRA allows you to continue receiving these benefits on a temporary basis in certain situations where coverage under the TriNet Benefits Plan would otherwise end. COBRA coverage is explained in greater detail in the Benefits Guidebook.
-
-> @todo [Add link to the appropriate sections of the Benefits Guidebook](https://trello.com/c/I6z73gia/139-add-link-s-to-appropriate-sections-of-benefits-guidebook-to-leaving-civicactions)
-
-This guide covers the offboarding policy and process.
-
-<!-- TODO: End CA:Handbook -->
+If you or your covered dependents lose eligibility for regular, TriNet group medical, dental, vision benefits and/or healthcare FSA, you may be eligible to continue your coverage under COBRA. COBRA allows you to continue receiving these benefits on a temporary basis in certain situations where coverage under the TriNet Benefits Plan would otherwise end. COBRA coverage is explained in greater detail in the [TriNet Benefits Guidebook](https://www.hrpassport.com/extranet/benefits/benefit_guide/TriNet-Benefit-Guidebook_2017_Q1.pdf).
 
 ## How to resign
 
@@ -36,21 +35,15 @@ This guide covers the offboarding policy and process.
 
 If you decide you want to leave CivicActions, send an email that includes your termination date to your manager or Elizabeth.
 
-### 2. Complete the clearance checklist
-
-> @todo [Update this section](https://trello.com/c/ypEd64x3/107-update-clearance-checklist-on-leaving-civicactions-md)
-
-### 3. Review benefits paperwork
+### 2. Review benefits paperwork
 
 > @todo [Update this section with TRINET info](https://trello.com/c/s9D5SZfS/84-leaving-civications-update-review-benefits-paperwork-with-trinet-language)
 
 Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
 
-You should also review the //ANYTHING HERE? before your last day.
-
 If you have any questions, please contact //WHO?.
 
-### 4. Return your equipment
+### 3. Return your equipment
 
 When you leave CivicActions, you are responsible for returning all CivicActions issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
 

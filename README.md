@@ -46,7 +46,7 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 * [Workplace Guidelines](docs/03-policies/workplace-guidelines.md)
 * [Travel 101](docs/03-policies/travel-101.md)
 * [Leaving CivicActions](docs/03-policies/leaving-civicactions.md)
-* [Required Notices](docs/03-policies/required-notices.md)
+* [Required Stuff](docs/03-policies/required-stuff.md)
 
 #### 4. How We Work
 

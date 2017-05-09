@@ -1,15 +1,9 @@
-# Required Notices
+---
+status: Up-to-date
+updated: May 9, 2017
+---
 
-## <a name="toc"></a>Table of Contents
-
-* [At-Will Notice](#atwillnotice)
-* [Equal Employment - Expanded Definition](#equal-employment)
-* [Reasonable Accommodations](#reasonable-accommodation)
-* [Exempt v. Non-exempt](#exempt-non)
-* [Complaint Resolution Policy](#complaint-resolution)
-* [Corrective Action](#corrective)
-* [Reporting Irregularities](#irregularity)
-* [Conflict of Interest](#conflict-interest)
+# Required Stuff
 
 ## <a name="atwillnotice"></a>At-Will Notice
 
@@ -17,7 +11,7 @@ Your employment is At-Will. You are not hired for any definite or specified peri
 
 Only authorized management may alter or modify any of the policies in this Employee Handbook with the exception of the "At-Will Employment" provision, which cannot be altered by anybody. Nothing in this handbook is intended to infringe upon employee rights under Section Seven (7) of the National Labor Relations Act (NLRA). See <http://www.nlrb.gov/national-labor-relations-act> if you're curious about it.
 
-## <a name="equal-employment"></a>Equal Employment - Expanded Definition
+## <a name="equal-employment"></a>Equal Employment
 
 CivicActions provides equal employment opportunities and administers all aspects and conditions of employment without regard to race, religion, color, gender, sexual orientation, pregnancy, age, national origin, ancestry, physical or mental disability, severe/morbid obesity, medical condition, military or veteran status, genetic information, marital status, ethnicity, alienage or any other protected classification, in accordance with applicable federal, state, and local laws. CivicActions takes allegations of discrimination, intimidation, harassment and retaliation very seriously and will promptly conduct an investigation when warranted.
 
@@ -36,6 +30,14 @@ Exempt: Employees whose positions meet specific tests established by the Fair La
 Non-exempt: Employees whose positions do not meet FLSA and state exemption tests and who are paid a multiple of their regular rate of pay for overtime hours worked.
 
 Link to FSLA coverage: <http://www.flsa.com/coverage.html>
+
+## <a name="confident"></a>Confidentiality
+
+This paragraph is simply intended to alert employees to the need for discretion and is not intended to inhibit normal business communications. For further information, refer to the "Confidential Information and Inventions Agreement" you signed when you were hired.
+
+## <a name="outside-activity"></a>Outside Activities
+
+You may engage in outside employment or personal educational activities during non-working hours, provided that such activities do not interfere with your job performance or constitute a conflict of interest.
 
 ## <a name="complaint-resolution"></a>Complaint Resolution Policy
 
@@ -61,4 +63,4 @@ It is the responsibility of each employee of CivicActions to report to a member 
 
 ## <a name="conflict-interest"></a>Conflict of Interest
 
-You know and share the values of our culture here, with an emphasis on integrity and transparency, and conflict of interest will not often be an issue, if ever. But, if you question the propriety of a transaction or activity that involves CivicActions or employees/contractors of CivicActions, or a client, or if an outside activity you may be considering raises questions in your mind, talk to your manager or one of the management team.
+You know and share the values of our culture here, with an emphasis on integrity and transparency, and conflict of interest will not often be an issue, if ever. But, if you question the propriety of a transaction or activity that involves CivicActions or employees/contractors of CivicActions, or a client, or if an outside activity you may be considering raises questions in your mind, talk to your manager or one of the management team. See the full [Conflict of Interest Plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit) for more information.
