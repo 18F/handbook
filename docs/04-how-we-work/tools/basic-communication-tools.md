@@ -1,16 +1,5 @@
 # Basic Communication Tools
 
-## <a name="toc"></a>Table of Contents
-
-* [Slack](#slack)
-* [Google Apps](#google-apps)
-* [Gmail](#gmail)
-* [Google Calendar](#google-calendar)
-* [Google Hangouts](#hangouts)
-* [Google Docs](#google-docs)
-* [BlueJeans](#bluejeans)
-* [Telephone Use](#telephone-use)
-
 ## <a name="slack"></a>Slack
 
 ### Basics

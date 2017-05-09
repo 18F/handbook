@@ -1,15 +1,5 @@
 # Project Manager Templates (WIP)
 
-## Table of Contents
-
-* [The purpose of templates](#template-purpose)
-* [Kickoff Agenda](#kickoff-agenda)
-* [Meeting Notes](#meeting-notes)
-* [Weekly Status Report](#weekly-status-report)
-* [Risk Ledger](#risk-ledger)
-* [Client Change Request](#change-request)
-* [Client Integrated Project Plan](#client-IPP)
-
 ## <a name="template-purpose"></a>The purpose of templates
 Templates are a great way to become efficient and consistent at communicating project status. The templates below are templates that are commonly used by project managers throughout the life of a project.
 

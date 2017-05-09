@@ -1,11 +1,5 @@
 # Professional Development and Community Participation
 
-## <a name="toc"></a>Table of Contents
-
-* [Background - The Why](#background-why)
-* [Logistics & Policy Information](#logistics-policy)
-* [Communication](#communication)
-
 ### <a name="background-why"></a>Background - the Why
 
 CivicActions set a goal of developing individual Professional Development plans for all team members in early 2014. We also set a goal of strengthening Community Participation in 2014 and leveraging the intersection of participation and Marketing ([See 5% Presentation](https://docs.google.com/presentation/d/1GuEXsq8m80Sl9Jk2GE_b2oKsk38F11Vc5m7B8M8rGaA/edit#slide=id.g235778c_0_2)).
