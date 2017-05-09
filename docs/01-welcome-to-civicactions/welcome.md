@@ -33,7 +33,7 @@ The first week will be dedicated to general orientation. You'll also learn about
 #### Day 2
 
 * [Orientation Meeting](/training/orientation-meetings.md#day2) (1 hour) with your onboarding manager
-* [Training: Intro to CivicActions Process, Part 1](/training/intro-to-civicactions-process.md") (1-2 hours)
+* [Training: Intro to CivicActions Process, Part 1](/training/intro-to-civicactions-process.md) (1-2 hours)
 * "Second day" tasks on your "New Hire Checklist" Trello board
 * Afternoon Check-in Call (15-30 minutes) with your onboarding mentor
 
