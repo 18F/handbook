@@ -45,14 +45,14 @@ The first week will be dedicated to general orientation. You'll also learn about
 * "First week" tasks on your "New Hire Checklist" Trello board, at your own pace
 * Afternoon Check-in Call (15-30 minutes) with your onboarding mentor
 
-### Day 4
+#### Day 4
 
 * [Orientation Meeting](/training/orientation-meetings.md#day4) (1 hour) with your onboarding manager
 * Role-based Training (TBD)
 * "First week" tasks on your "New Hire Checklist" Trello board, at your own pace
 * Afternoon Check-in Call (15-30 minutes) with your onboarding mentor
 
-### Day 5
+#### Day 5
 
 * [Orientation Meeting](/training/orientation-meetings.md#day4) (1 hour) with your onboarding manager
 * Role-based Training (TBD)
