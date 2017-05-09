@@ -1,19 +1,5 @@
 # Project Manager Training
 
-## Table of Contents
-
-* [New PM Instructions](#new-pm)
-* [Current PM Instructions](#current-pm)
-* [Shadowing Calls](#shadowing-calls)
-* [Logging Internal Meetings](#internal-meetings)
-* [Resourcing](#resourcing)
-* [Scheduling Meetings](#scheduling-meetings)
-* [Timeboxing](#timeboxing)
-* [Helping Teams Estimate](#estimating)
-* [Project Documentation](#project-documentation)
-* [Typical PM Project Deliverables](#project-deliverables)
-* [PM Tools](#pm-tools)
-
 ## <a name="new-pm"></a>New PM Instructions
 
 * New PMs should shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.

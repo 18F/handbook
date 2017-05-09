@@ -1,14 +1,5 @@
 # Accessibility
 
-## Table of Contents
-
-* [How we do this](#how)
-* [When we do this](#why)
-* [General Accessibility Guidelines](#guidelines)
-* [Making Accessible Links](#links)
-* [Accessibility Tools](#tools)
-* [Resources](#resources)
-
 We implement 508 and WCAG compliant websites so that people with all types of disabilities, whether it be physical, mental, or visual impairment, have access to our sites.
 
 ## <a name="how"></a>How we do this

@@ -1,16 +1,5 @@
 # Security and Compliance
 
-## Table of Contents
-
-* [Security Policy](#security-policy)
-* [Awareness and Tools](#awareness-and-tools)
-* [Training](#training)
-* [As Developers](#as-developers)
-* [As Drupal Developers](#as-drupal-developers)
-* [Privileged Access](#privileged-access)
-* [Continuous Monitoring](#continuous-monitoring)
-* [Incident Response](#incident-response)
-
 ## Security Policy
 
 We understand and abide by the [CivicActions Employee/Contractor Security Policy](https://github.com/CivicActions/security-policy). In particular:

@@ -1,39 +1,5 @@
 # Drupal Site Building
 
-## <a name="toc"></a>Table of Contents
-
-* [We prototype high risk items first](#prototype)
-* [We use established Drupal contrib projects whenever possible](#drupal-contrib)
-* [We use Features best practices](#features)
-* [We create websites with customizable display layouts](#layouts)
-* [We configure content structure as much as we can before we configure content display](#configure)
-* [We build sites such that we can accommodate changing needs and requirements](#change)
-* [We treat the user stories of content editors and creators seriously](#seriously)
-* [We configure sites that are optimized for SEO](#seo)
-* [We import and export data: Feeds and Migrate](#data)
-* [We include social media functions](#social-media)
-* [We capture configuration settings in code](#settings)
-* [We build sites that are pleasant to administer](#administer)
-* [We consider Search configuration implications early in the development process](#search)
-* [We configure permissions to be as simple as possible](#perms)
-* [We use entity view modes to configure reusable displays for entities](#entities)
-* [We improve the registration/login experience](#login-ux)
-* [We are ALWAYS clear on which site is the config/content master](#master)
-* [We don't install modules we don't need, and we remove ones we no longer need](#modules)
-* [We build sites that make it easy to upload and display images and video](#media-display)
-* [We upgrade Drupal major versions with careful consideration](#careful-upgrades)
-* [We update to new minor versions of Drupal core](#minor-updates)
-* [We configure secure text filters](#secure-text-filters)
-* [We use Entityform instead of Webform whenever possible](#entityform)
-* [We use/create panels layouts, rather than adding page specific layout adjustments](#panels-layouts)
-* [We configure streamlined and semantic markup by default](#markup)
-* [We set a "module budget" for a project](#module-budget)
-* [We consider various featurization strategies prior to starting a project](#featurization)
-* [We avoid namespace conflicts](#avoid-conflicts)
-* [We use drush to update node access](#drush)
-* [We don't like media_gallery module](#media_gallery)
-* [We don't like Drupal Commons](#drupal-commons)
-
 ## Practices
 
 ### <a name="prototype"></a>We prototype high risk items first.
@@ -67,8 +33,6 @@ We need to scope out high risk tickets to inform basic site architecture decisio
 
 * Complex permissions
 * Search
-
-
 
 ### <a name="drupal-contrib"></a> We use Drupal contrib projects rather than custom code.
 

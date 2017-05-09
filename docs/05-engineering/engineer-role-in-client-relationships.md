@@ -1,14 +1,5 @@
 # An Engineer's Role in Client/Team Relationships
 
-## Table of Contents
-
-* [Support our team members](#support-team)
-* [Provide expert consultation](#expert-consultation)
-* [Participate in Project Discovery](#project-discovery)
-* [Identify, communicate project risks and escalate when appropriate](#identify-risks)
-* [Train clients](#train-clients)
-* [Help measure project success](#measure-success)
-
 ## <a name="support-team"></a>Support our team members
 
 * We support and mentor others on the team, so they can succeed in quality work, and learn our best practices.

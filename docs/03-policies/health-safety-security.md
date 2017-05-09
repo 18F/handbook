@@ -1,12 +1,5 @@
 # Health, Safety and Security
 
-## <a name="toc"></a>Table of Contents
-
-* [Workers' Compensation](#workers-comp)
-* [Safety](#safety)
-* [Use of Private Automobile](#private-automobile)
-* [Drugs and Alcohol](#drugs-alcohol)
-
 ## <a name="workers-comp"></a>Workers' Compensation
 
 CivicActions provides insurance for all work-related injuries or illness. The name of CivicActions' workers' compensation insurance carrier and other pertinent information is available. The carrier governs all insurance benefits provided by CivicActions.
