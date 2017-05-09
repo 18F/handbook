@@ -1,13 +1,5 @@
 # Mentor Handbook
 
-## Table of Contents
-
-* [The Role of the Mentor](#role)
-* [A Mentor's Responsibilities](#responsibilities)
-* [Tips for the Mentor](#tips)
-* [Template: Initial email to new hire from Onboarding Manager](#template)
-* [Other misc info for future consideration](#misc)
-
 ## <a name="role"></a>The Role of the Mentor
 
 The purpose of a mentor is to provide a friendly, peer-based connection between a new hire and an experienced CivicActioner. The idea is to have someone in the new hire's field to ask questions, learn of historical processes, learn how to escalate issues, and ensure the new hire's questions are answered (even things like writing subject lines for emails). Within a new hire's onboarding board many of these topics are addressed, but it's inevitable that additional questions will bubble up that a mentor is best suited to answer.

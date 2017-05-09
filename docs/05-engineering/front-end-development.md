@@ -1,16 +1,5 @@
 # Front End Development
 
-## Table of Contents
-
-* [CSS/Sass](#css-sass)
-* [Javascript](#javascript)
-* [Drupal](#drupal)
-  * [Javascript in Drupal](#javascript-drupal)
-* [Accessibility](#accessibility)
-* [Images](#images)
-* [Relationship with UX/Design](#ux-design)
-* [Development Tools](#dev-tools)
-
 ## <a name="css-sass"></a>CSS/Sass
 
 * Our CSS should be:

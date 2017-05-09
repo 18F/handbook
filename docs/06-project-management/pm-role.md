@@ -1,15 +1,5 @@
 # The Project Manager Role
 
-## Table of Contents
-
-* [The difference between PM and ScrumMaster roles](#pm-scrummaster)
-* [PM role in scrum calls](#pm-role-scrum)
-* [PM role in sprint demos](#pm-role-demos)
-* [PM role in retrospectives](#pm-role-retros)
-* [PM role in backlog grooming](#pm-role-backlog)
-* [PM role in any process or planning meeting](#pm-role-meetings)
-* [Other miscellaneous PM responsibilities](#pm-responsibilities)
-
 ## <a name="pm-scrummaster"></a>The difference between PM and ScrumMaster roles
 
 At CivicActions the PM and the ScrumMaster are the same (although it is conceivable that we would ask a non-PM to be a ScrumMaster).
