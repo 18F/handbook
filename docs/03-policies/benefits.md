@@ -19,7 +19,7 @@ The following holidays are observed by CivicActions and the office is considered
 
 Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation.
 
-## Paid Time Off
+## <a name="pto"></a>Paid Time Off
 
 PTO applies to exempt employees. We do not accrue sick days, vacation days or any other form of PTO. Instead, employees are encouraged to take time off as needed to feel balanced, productive and healthy.
 
