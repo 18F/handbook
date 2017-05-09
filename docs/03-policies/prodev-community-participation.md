@@ -1,6 +1,6 @@
 # Professional Development and Community Participation
 
-### <a name="background-why"></a>Background - the Why
+## <a name="background-why"></a>Background - the Why
 
 CivicActions set a goal of developing individual Professional Development plans for all team members in early 2014. We also set a goal of strengthening Community Participation in 2014 and leveraging the intersection of participation and Marketing ([See 5% Presentation](https://docs.google.com/presentation/d/1GuEXsq8m80Sl9Jk2GE_b2oKsk38F11Vc5m7B8M8rGaA/edit#slide=id.g235778c_0_2)).
 
@@ -23,7 +23,7 @@ We value Professional Development and Community Participation for a number of re
   * Opportunities for CivicActions to popularize the idea of radical openness, which strengthens our brand
 
 
-### <a name="logistics-policy"></a>Logistics and Policy Information
+## <a name="logistics-policy"></a>Logistics and Policy Information
 
 Each team member will meet with their manager or mentor for a Professional Development and Community Participation meeting, at least once a year.
 
@@ -39,6 +39,6 @@ The output of the first meeting will be a Professional Development and Community
 * Two (2) months' notice is needed on spends above $300. From time to time we may also cap the total monthly professional development spend across the company, dependent on the budget and cash flow outlook for the month.
 
 
-### <a name="communication"></a>Communication
+## <a name="communication"></a>Communication
 
 * We have a [#prodev](https://civicactions.slack.com/messages/prodev) Slack channel for prodev-related communication.
