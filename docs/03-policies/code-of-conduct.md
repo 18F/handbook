@@ -1,3 +1,8 @@
+---
+status: Work in progress
+updated: May 9, 2017
+---
+
 # Code of Conduct
 
 ## <a name="general-guideline"></a>General Guidelines

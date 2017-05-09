@@ -1,3 +1,8 @@
+---
+status: Work in progress
+updated: May 9, 2017
+---
+
 # Workplace Guidelines
 
 ## <a name="hours-work"></a>Hours of Work

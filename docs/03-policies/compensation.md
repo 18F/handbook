@@ -1,3 +1,8 @@
+---
+status: Work in progress
+updated: May 9, 2017
+---
+
 # Compensation
 
 ## <a name="pay-period"></a>Pay Periods

@@ -1,4 +1,9 @@
-# Leaving CivicActions (WIP)
+---
+status: Work in progress
+updated: May 9, 2017
+---
+
+# Leaving CivicActions
 
 ## <a name="at-will"></a>At-Will Employment
 

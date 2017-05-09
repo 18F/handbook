@@ -1,3 +1,8 @@
+---
+status: Up-to-date
+updated: May 9, 2017
+---
+
 # Required Stuff
 
 ## <a name="atwillnotice"></a>At-Will Notice
