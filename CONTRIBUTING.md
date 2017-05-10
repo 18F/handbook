@@ -50,15 +50,35 @@ Resources:
 
 If you make a pull request related to a subject that is the responsibility of a specific team or person, please consider tagging or assigning it to that team or person (or pinging them in Slack to ask them to review it).
 
-## How to review and merge pull requests
+## <a name="PR-workflow"></a>How to review and merge pull requests
 
-Each pull request must be reviewed by at least one other CivicActions employee before it can be merged. There is no dedicated staffing for the handbook right now; maintenance is done in spare time by any CivicActions staff member who is interested in helping.
+Each pull request must be reviewed by at least one other CivicActions employee before it can be merged.
 
 Any CivicActions employee with Github account, who has been added to the CivicActions Team ([instructions are here](docs/04-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
 
 For example: if something looks like it's related to how Marketing works, ask a Marketing person to review it; if it looks like it needs Project Management team review, ask a PM.
 
 If you're not sure if you should merge something, ask for a second opinion in [#docs](https://civicactions.slack.com/messages/docs/) first.
+
+### Step-by-step instructions for reviewing, approving, and merging PRs:
+
+1. Navigate to the open pull request. You can get there by clicking on the PR link if you have it, or by clicking on the Pull Requests tab at the top of the Handbook repo page.
+> @todo Add screenshot 1
+
+2. Check to make sure "All checks have passed." If not, ask the person who added the PR to fix any errors.
+> @todo Add screenshot 2
+
+3. Click "Add your review."
+> @todo Add screenshot 3
+
+4. Review the commits. If the changes look good, make sure you select "Approve." Otherwise, add your comments or request changes (merging on the PR will be blocked until you or another reviewer approves it).
+> @todo Add screenshot 4
+
+5. Submit your review.
+> @todo Add screenshot 5
+
+6. Merge Pull Request, and you're done!
+> @todo Add screenshot 6
 
 ## Styles
 
