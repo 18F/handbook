@@ -42,6 +42,8 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 - If a folder looks empty, try refreshing your browser a few times. :shrug:
 
+- Visit [the 18F brand guide](https://brand.18f.gov/templates/) for default 18F document styles/templates.
+
 ---
 
 #### Still have questions?
