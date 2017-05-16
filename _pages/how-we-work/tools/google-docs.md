@@ -20,8 +20,6 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 - You can&rsquo;t publish docs to the web. You can&rsquo;t share docs with the public, only GSA or specific users. Even just to view.
 
-- Visit [the 18F brand guide](https://brand.18f.gov/templates/) for default 18F document styles/templates.
-
 - We cannot share Google Docs with other agencies. GSA employees can view and access Docs, but you&rsquo;ll need to ask in [#teamops](https://gsa-tts.slack.com/messages/team-ops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) (for suggested programs) if you&rsquo;re working with another agency.
 
 - Don't share docs with all at GSA. Instead, share with 18f-team and GSA will never auto-unshare them. (GSA will change your permissions if they are too open.) Docs that contain sensitive information will also be blocked via Cloudlock.
@@ -43,6 +41,8 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 - Star or bookmark folders and documents you use regularly, or use search. (Searching in Drive goes through all of the files that have been shared with you.)
 
 - If a folder looks empty, try refreshing your browser a few times. :shrug:
+
+- Visit [the 18F brand guide](https://brand.18f.gov/templates/) for default 18F document styles/templates.
 
 ---
 
