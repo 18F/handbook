@@ -6,7 +6,12 @@ The Sales Guild manages/analyzes business prospects and writes proposals.
 * Facilitator: Bill
 * Rolling Agenda: <https://trello.com/b/wMonus0P/sales-guild-tensions>
 * Governance Meeting: As needed, ping Bill to review tension(s) added to the rolling agenda
-* [Sales Process Flow Diagram - Lucid Chart](https://www.lucidchart.com/documents/edit/06f806cb-a2ab-4c24-a85d-4d7b95777dfa#)
+
+### The Sales Proposal Process
+
+![Sales Proposal Process](/images/Sales_Process__3_22_17___Lucidchart.jpg)
+
+_[edit / update this file on LucidChart](https://www.lucidchart.com/documents/edit/06f806cb-a2ab-4c24-a85d-4d7b95777dfa#)_
 
 ## Roles and Accountabilities
 
