@@ -37,7 +37,7 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 
 * [Employment](docs/03-policies/employment.md)
 * [Code of Conduct](docs/03-policies/code-of-conduct.md)
-* [Security](https://github.com/CivicActions/security-policy/blob/master/README.md)
+* [Security](docs/03-policies/security.md)
 * [Compensation](docs/03-policies/compensation.md)
 * [Professional Development and Community Participation](docs/03-policies/prodev-community-participation.md)
 * [Annual Review Process](docs/03-policies/annual-review-process.md)
@@ -102,5 +102,11 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 #### 8. Human Resources
 
 * [Onboarding Process](docs/08-hr-admin/onboarding-process/)
+
+#### 9. Security
+
+* [Security Awareness and Tools](docs/09-security/awareness.md)
+* [Privacy and Encryption](docs/09-security/encryption.md)
+* [Yubikey](docs/09-security/yubikey)
 
 #### [CHANGE LOG](CHANGELOG.md)
