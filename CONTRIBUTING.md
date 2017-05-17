@@ -18,9 +18,9 @@ Go to a page, click edit, and make your changes, using [markdown](https://guides
 
 When you save it ("make a commit"), there are three fields to fill out. *All of these are optional*, with default values, and in most cases it's fine to leave the defaults.
 
-* **The commit title**: By default it is something like "Update \[filename\]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
+* **The commit title**: By default it is something like "Update \[filename]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
 * **Extended description**: Explain your changes, if you wish. Useful if you need more than the 50 characters available in the title.
-* **The branch name:** By default this will be a new branch, with a name like \[username\]-patch-1.  If you want to change it to something more semantic (eg \[username\]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.  
+* **The branch name:** By default this will be a new branch, with a name like \[username]-patch-1.  If you want to change it to something more semantic (eg \[username]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.  
 
 After you commit, you will be asked if you want to create a new pull request with the branch you created.  You'll again be presented with a few fields, which you can generally leave as is.
 
@@ -43,6 +43,7 @@ The easiest way to get started, if you're not familiar with the command line or 
 You can use any other number of tools, including text editors (such as [Atom](https://atom.io/)) and the command line, or other GUI tools.
 
 Resources:
+
 * [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 * [Working with Forks](https://help.github.com/articles/working-with-forks/)
 * [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
@@ -97,6 +98,14 @@ Markdown formatting should be compliant with [markdownlint rules](https://github
 We are also using [retext](https://github.com/wooorm/retext/), which will give warnings (but not fail the build) for language that looks possibly incorrect, overly complex or insensitive.
 
 You can see some example output (for our master branch) at <https://travis-ci.org/CivicActions/handbook> - this is where errors will show up if the build for your pull request fails. The left hand column shows the line and the position in that line where the error/warning occurs.
+
+You can check that your markdown complies with the retext and remark locally:
+
+* Install node.js if you don't have it already: <https://nodejs.org/en/download/> (or use a package manager)
+* Install yarn: <https://yarnpkg.com/lang/en/docs/install/> (various options to install, could also use a package manager)
+* Open a terminal and `cd` to your git root
+* Run `yarn install` to install the dependencies
+* Run `./node_modules/.bin/gulp` (you can also pass in `--path=` to a specific file to limit tests to just that)
 
 ## Public domain
 
