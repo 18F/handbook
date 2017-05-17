@@ -21,7 +21,7 @@
 * We don't hard code
 * We stand behind the YAGNI (You ain't gonna need it) philosophy and avoid "gold plating."
   * When writing code, our code should solve ONLY and EXACTLY the use case that we are trying to support. In many instances we have a desired to make things MORE FLEXIBLE for the FUTURE but that is code we will have to support without knowing whether any of those use cases will ever come up.
-  Another big reason for wanting to be FLEXIBLE is that refactoring is hard, and it feels easier to have flexibility at front, but that is why we write automated tests, so refactoring will not be as painful.
+    Another big reason for wanting to be FLEXIBLE is that refactoring is hard, and it feels easier to have flexibility at front, but that is why we write automated tests, so refactoring will not be as painful.
 
 ### Drupal-specific Coding Standards
 
@@ -78,6 +78,7 @@
 ## Editor Configuration for Coding
 
 These are some example editor configuration values - each editor has it's own set:
+
 ```
 // The default for most editors and printers. This is the displayed width
 // of tabs, but is irrelevant as there shouldn't be any actual tabs!
@@ -86,10 +87,10 @@ TAB_KEY_INSERTS_INDENT_WIDTH_SPACES = true
 // The default for Drupal (and many other languages) code. With this setting,
 // pressing the TAB key inserts two actual spaces, instead of a tab.
 INDENT_WIDTH = 2
-
 ```
 
 To configure your editor/development environment for Drupal:
+
 * [Eclipse](https://www.drupal.org/docs/develop/development-tools/eclipse)
 * [Emacs](https://www.drupal.org/docs/develop/development-tools/emacs)
 * [NetBeans](https://www.drupal.org/docs/develop/development-tools/configuring-netbeans)
@@ -128,6 +129,7 @@ function myfunc($my_parameter) {    // no space before '('; 1 space before '{'
 ### <a name="continue"></a>Don't use continue in short loops
 
 Don't do this:
+
 ```
 foreach ($types as $type) {
   if ($type == 'blog_post') {
@@ -135,10 +137,10 @@ foreach ($types as $type) {
   }
   print $type;
 }
-
 ```
 
 Instead do this:
+
 ```
 foreach ($types as $type) {
   if ($type != 'blog_post') {
@@ -169,6 +171,7 @@ if ($type == 'blog_post' || $user->uid == $node->uid) {
 // do something ...
 }
 ```
+
 ## Still have questions?
 
 Ask in Slack: [#engineering](https://civicactions.slack.com/messages/engineering/)

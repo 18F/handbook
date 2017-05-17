@@ -3,7 +3,7 @@ version: 1.1.1
 ---
 
 # CivicActions Security Policy
- 
+
 CivicActions has established the following policy to safeguard the security, confidentiality, availability and integrity of CivicActions data, as well as that of our personnel, clients and client website users. All CivicActions employees and contractors are expected to accept and abide by this policy. This policy will be reviewed and updated from time to time. If you have questions or comments about this policy please contact your supervisor. We invite your feedback.
 
 ## Our primary goals
@@ -132,6 +132,7 @@ All passwords at CivicActions must follow this policy, including passwords used 
 * A passphrase that you use for encryption (such as on a GnuPG/PGP or SSH private key, or with an encrypted file system) must not be reused for authentication to a system. In general, an encryption passphrase should typically be stronger than those used for authentication.
 
 ### Password Managers and Two Factor Authentication
+
 A password manager (such as LastPass) can easily create and maintain hundreds of different 16 character (or more!) passwords. It is not required to use a password manager at CivicActions but we highly recommend it. (Exception: IT staff must have a LastPass account for password sharing.) Be sure to choose a strong password for your password manager.
 
 Modern password managers - and many other services such as Google Apps, GitHub, Slack and more) now accept Two Factor Authentication that can greatly increase the security of the protected assets. CivicActions requires TFA for access to the CivicActions Google Apps such as GMail and Docs as well as OATH-authenticated apps such as GitLab.
@@ -231,6 +232,7 @@ IT team system administrators working on CivicActions servers must also:
 * Ensure the Hurricane Electric and RimuHosting access list (that controls remote hands and physical server access) is maintained.
 
 ## Security Awareness and Tools
+
 We maintain a [Security Awareness and Tools](../09-security/awareness.md) document that dives deeper into some additional topics, including:
 
 * Password Management Tools

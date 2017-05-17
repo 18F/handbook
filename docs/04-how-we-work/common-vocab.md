@@ -1,6 +1,7 @@
 # CivicActions' Common Vocabulary
 
 ## Definitions
+
 * **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements.
 * **Agile Coach** - Individual who teaches or mentors the teams who implement Agile. The goal of an Agile coach is to help teams to produce the best results by practicing Agile.
 * **[Agile Manifesto](http://agilemanifesto.org/)**
@@ -25,6 +26,7 @@
 * **Definition of Done** - A clear list of required tasks or requirements that must be completed before an item can be called done. It is created by the team and should not change during a sprint.
 * **Deliverable** - a tangible output, document or piece of work.
 * **DevOps** -
+
   > @todo [Add this content](https://trello.com/c/GSXkqSih)
 
 * **Dot Voting** - a technique where team members list topics or items in some manner (on sticky notes, in a spreadsheet, on a Trello board). After gathering all items, each group member has a certain number of votes that they can cast. Items are prioritized according to the number of votes.

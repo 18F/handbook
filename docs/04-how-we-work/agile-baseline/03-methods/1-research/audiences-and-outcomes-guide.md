@@ -23,6 +23,7 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
 ## Sample Questions:
 
 * AUDIENCES
+
   * Who do you feel are your site’s audiences?
   * What are the demographics of these audiences?
   * How comfortable with technology is this audience?

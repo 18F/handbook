@@ -3,29 +3,31 @@
 Something went "bump" in the night (or the day)? This document explains what to do when you notice and wish to report what you believe may be a security incident. See [What is an incident?](#what-is-an-incident) if you need help determining whether something counts as an incident.
 
 ## Reporting phishing emails
+
 If you receive a phishing email, follow these steps to report to CivicActions IT:
 
 1. Do not click any links in the email. Do not delete it yet. You may mark it as spam.
-1. If you can, click the `Show Original` option in the (GMail) "triangle" menu associated with the email. This will open a new window with the Original Message above and the raw text of the email below.
-1. Click on the `Download Original` link halfway down the page and it will save text of the email to your hard drive.
-1. Mark the email as a phishing email by selecting the `Report phishing` option in the same "triangle" menu associated with the email.
-1. Forward the email to [support@civicactions.com](mailto:support@civicactions.com). As long as you haven't clicked on link or downloaded the file, you may stop here.
+2. If you can, click the `Show Original` option in the (GMail) "triangle" menu associated with the email. This will open a new window with the Original Message above and the raw text of the email below.
+3. Click on the `Download Original` link halfway down the page and it will save text of the email to your hard drive.
+4. Mark the email as a phishing email by selecting the `Report phishing` option in the same "triangle" menu associated with the email.
+5. Forward the email to <mailto:support@civicactions.com>. As long as you haven't clicked on link or downloaded the file, you may stop here.
    * If you suspect that the email has compromised your system with a download or link, attach the original text you downloaded. Please include *Security Incident* in the subject line, along with a brief description of the issue (Ex. Clicked on link in phishing email).
-1. Report the phishing email in the [#general](https://civicactions.slack.com/messages/general/) (attention: `@support`) Slack channel.
-1. After receiving your notification to support, IT may create a ticket and contact you for more information.
+6. Report the phishing email in the [#general](https://civicactions.slack.com/messages/general/) (attention: `@support`) Slack channel.
+7. After receiving your notification to support, IT may create a ticket and contact you for more information.
 
 You might be tempted to simply mark phishing emails as spam and otherwise ignore them, but if you accidentally (or intentionally) click a link or receive a download from a suspect email, you must report it as an incident following the steps above. Successful phishing attacks are security incidents and should be reported immediately. Phishing emails that are automatically routed to your spam folder do not need to be reported. Your vigilance also helps CivicActions IT to prepare against similar phishing attacks that might be sent to other team members.
 
 ## Reporting other incidents
+
 To report a security incident, follow *all* of the steps below:
 
-1. Send an email to [support@civicactions.com](mailto:support@civicactions.com) within 1 hour of identifying an incident. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. security token committed to Gitlab repo). Don't worry if you don't have all of the details gathered when you email CivicAction's Incident Response team. The critical piece here is notification within one hour.
+1. Send an email to <mailto:support@civicactions.com> within 1 hour of identifying an incident. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. security token committed to Gitlab repo). Don't worry if you don't have all of the details gathered when you email CivicAction's Incident Response team. The critical piece here is notification within one hour.
 
-1. If the incident is project specific:
+2. If the incident is project specific:
    * If there is a project specific tech email address, you can email the information to that instead. If unsure, email [*support*](mailto:support@civicactions.com).
    * Report the incident in the project Slack channel (attention: `@support`). This will alert the project's Incident Response Team as well as the Project Manager (PM).
-1. Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected Gitlab incident, do no delete files or modify the access permissions on the Gitlab repository. In the event of a suspected Amazon Web Services (AWS) or Kubernetes incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
-1. Following notification to *support*, the Incident Response team may contact you requesting more information.
+3. Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected Gitlab incident, do no delete files or modify the access permissions on the Gitlab repository. In the event of a suspected Amazon Web Services (AWS) or Kubernetes incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
+4. Following notification to *support*, the Incident Response team may contact you requesting more information.
    * The *Incident Coordinator* will create a JIRA ticket (or Trello card) labeled "Incident" with as much detail as possible.
 
 Please note that incidents need to be reported *within one hour* of being identified. This isn't "within an hour of happening", but "within one hour of you becoming aware of the incident". The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.

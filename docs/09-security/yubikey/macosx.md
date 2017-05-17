@@ -7,6 +7,7 @@ This is the Mac OS X specific documentation for [YubiKey](README.md).
 ## Install apps
 
 See:
+
 * <https://www.yubico.com/start/mac-os/>
 * <https://www.yubico.com/why-yubico/for-businesses/computer-login/mac-os-login/>
 * <https://www.yubico.com/2016/09/yubikey-smart-card-support-for-macos-sierra-2/>

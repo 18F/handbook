@@ -98,11 +98,13 @@ sudo apt-get install libpam-yubico
 PAM is the Pluggable Authentication Module used by GNU/Linux and Mac OS X to manage login authentication.
 
 See [Yubico GitHub](https://github.com/Yubico/yubico-pam/blob/b0e243835e61418bfa760e57c3d313b2e9452e87/doc/Authentication_Using_Challenge-Response.adoc) page for complete documentation.
+
 ```
 $ ykpamcfg -2 -v
 ```
 
 Ubuntu autoconfiguration during installation of `libpam-yubico` may already have placed a line like the following in either `/etc/pam.d/common-auth` or `/etc/pam.d/system-auth`. If not using Ubuntu (or the line is not there), edit `/etc/pam.d/system-auth` (will need to `sudo`) and add the following line at the top of the file:
+
 ```
 auth      required  pam_yubico.so   mode=challenge-response
 ```
@@ -114,6 +116,7 @@ For additional security, you may want to immediately lock the screen when the Yu
 This locks the laptop immediately when any Yubikey is removed. If you are not using xautolock as your "away detector", replace xautolock with a command to trigger your screen lock with the "away detector" that you do use. This is inspired by <https://vtluug.org/wiki/Yubikey>
 
 As your login user, create executable file `~/bin/ykgone`:
+
 ```
 #!/bin/bash
 USER=$(stat -c '%U' "$0")
@@ -128,6 +131,7 @@ fi
 ```
 
 Next, create (with sudo) a device notification file `/etc/udev/rules.d/90-yubikey.rules`:
+
 ```
 ACTION=="remove", ATTRS{idVendor}=="1050", RUN+="/home/$USER/bin/ykgone"
 ```
