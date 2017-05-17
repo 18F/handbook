@@ -127,6 +127,7 @@ Contractors or external government collaborators should only be added to teams w
 * [@18F](https://github.com/18F)
 * [@cloudfoundry-community](https://github.com/cloudfoundry-community)
 * [@digital-analytics-program](https://github.com/digital-analytics-program)
+* [@federalist-users](https://github.com/federalist-users)
 * [@fellows-in-innovation](https://github.com/fellows-in-innovation)
 * [@fisma-ready](https://github.com/fisma-ready)
 * [@GSA](https://github.com/GSA)
