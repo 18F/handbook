@@ -24,6 +24,7 @@ Simply put, a story mapping practice is a series of conversations:
 2. Next, we need to **understand users**: who are they? What are their goals? (see [Audiences and Outcomes](audiences-and-outcomes-guide.md) for one specific method for answering these questions)
 3. Finally, we **map use** of the product or feature from specific users' perspectives. Pretend the software has been delivered and shipped. Talk about a day in the life of the people using your product. Start from the beginning and write each step on a card. Sort the steps using the horizontal dimension of the map. Eventually, the map will describe the user's experience with the product or feature from end to end.
 4. Use the vertical dimension of the map to **explore the details** of each step the users will take as they use the product or website. Capture the following, with words and pictures:
+
 * smaller steps
 * alternative steps
 * UI details
@@ -31,7 +32,7 @@ Simply put, a story mapping practice is a series of conversations:
 
 ## Recommended Reading:
 
-* Book: [_User Story Mapping_](http://shop.oreilly.com/product/0636920033851.do), by Jeff Patton
+* Book: [*User Story Mapping*](http://shop.oreilly.com/product/0636920033851.do), by Jeff Patton
 
 * Video: [User Story Mapping with Jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM) (1 hour 56 minutes; a formal talk Jeff gave in Germany, covering the same content as his book)
 
@@ -41,4 +42,4 @@ We currently use [Storiesonboard](https://civicactions.storiesonboard.com/) for 
 
 ## Examples:
 
-![Story Map example](../../assets/Story Mapping.jpg "Story Map Example")
+![Story Map example](<../../assets/Story Mapping.jpg> "Story Map Example")

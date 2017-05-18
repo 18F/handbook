@@ -15,17 +15,20 @@ Stakeholder interviews are semi-structured conversations conducted with key proj
 ## How to do it:
 
 1. Plan
+
 * Identify the problem you're trying to solve or the experience you're trying to improve
 * Group stakeholders and users based on their role in relation to the problem you’re trying to solve
 * Identify a few people who can demonstrate the workflows and speak to the concerns of each stakeholder group
 * Schedule interviews with these people (30 minutes to an hour for each person)
 
 2. Prepare
+
 * Familiarize yourself with the stakeholders' contexts (before the interviews, ask stakeholders for any materials they believe are essential to doing their job)
-* Draft your interview questions (the best questions are both open-ended and grounded in reality - _how_ and _why_ type questions)
+* Draft your interview questions (the best questions are both open-ended and grounded in reality - *how* and *why* type questions)
 * Share your questions with your team and discuss / get feedback
 
 3. Conduct the interviews
+
 * Record the interview if possible (share an informed consent and recording release document)
 * Always thank people for their time
 * Explain the purpose of the interview
@@ -36,6 +39,7 @@ Stakeholder interviews are semi-structured conversations conducted with key proj
 * Thank the participant and let them know if/when you might follow up with them
 
 4. Synthesize
+
 * Document the interviews (some designer-researchers transcribe the interviews) and share with the team
 * Use the learnings from interviews to inform next steps (journey mapping, story mapping, prototyping, design studio, etc.)
 
@@ -55,7 +59,7 @@ Stakeholder interviews are semi-structured conversations conducted with key proj
 
 ## Recommended Reading:
 
-* [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/), from _Boxes and Arrows_
+* [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/), from *Boxes and Arrows*
 * [Build empathy with stakeholder interviews, part 1: Preparation](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/), by Andrew Maier from 18F
 * [Build empathy with stakeholder interviews, part 2: Conversation](https://18f.gsa.gov/2016/07/22/building-emphathy-with-stakeholder-interviews-part-2-conversation/), by Andrew Maier from 18F
 

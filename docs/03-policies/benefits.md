@@ -25,8 +25,7 @@ PTO applies to exempt employees. We do not accrue sick days, vacation days or an
 
 You do not need to justify paid time off but, except for unexpected events or emergencies, it does need to be arranged in advance so the work will be covered. There is a procedure for this:
 
-* if you are working on an active project, discuss the impact of your absence with your project manager (this is especially important if there is flexibility in your dates);
-email <mailto:ca-timeoff@lists.civicactions.net> requesting the time; when the PTO is approved, your manager will simply "reply-all" to your original email and admin will put it on the Master Calendar.
+* if you are working on an active project, discuss the impact of your absence with your project manager (this is especially important if there is flexibility in your dates); email <mailto:ca-timeoff@lists.civicactions.net> requesting the time; when the PTO is approved, your manager will simply "reply-all" to your original email and admin will put it on the Master Calendar.
 
 * If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-timeoff@lists.civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. Better to have your manager's phone number handy.
 

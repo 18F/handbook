@@ -52,6 +52,7 @@ When you leave CivicActions, you are responsible for returning all CivicActions 
 ## Offboarding process
 
 `Duplicate` the `Template` in the *Off-Boarding Tasks*
+
 > @todo: [NEED LINK to make a checklist. More detail for certain tasks is below. Note that, per CivicActions policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at CivicActions.](https://trello.com/c/B5SGrESO/140-add-link-checklist-to-offboarding-process-in-leaving-civicactions)
 
 ### Manager
