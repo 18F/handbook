@@ -26,7 +26,7 @@ Enter the following trip information on this page:
 
     * Example: NON-BILLABLE: Ops/ Admin #3
 
-2. **Trip description:** Brief summary of the purpose of the trip.
+2. **Document detail:** Brief summary of the purpose of the trip.
 
 3. **Will this travel be a detail to another location?** No.
 
