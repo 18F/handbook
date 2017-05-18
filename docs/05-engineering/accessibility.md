@@ -1,12 +1,5 @@
 # Accessibility
 
-## Table of Contents
-
-* [How we do this](#how)
-* [When we do this](#why)
-* [Accessibility Guidelines](#guidelines)
-* [Resources](#resources)
-
 We implement 508 and WCAG compliant websites so that people with all types of disabilities, whether it be physical, mental, or visual impairment, have access to our sites.
 
 ## <a name="how"></a>How we do this
@@ -24,7 +17,7 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 * We aim to do accessibility work continuously, as a component of each design and development task. Accessibility scans should be performed on a per-ticket basis and signed off on before work is considered complete.
 * Accessibility should NOT BE left until the end of a project.
 
-## <a name="guidelines"></a>Accessibility Guidelines
+## <a name="guidelines"></a>General Accessibility Guidelines
 
 * Form elements should have labels.
 * Images should have alt text.
@@ -34,6 +27,27 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 * Color alone is not used to distinguish links from surrounding text unless the luminance contrast between the link and the surrounding text is at least 3:1 and an additional differentiation (e.g., it becomes underlined) is provided when the link is hovered over or receives focus.
 * The page should be readable and functional when the text size is doubled. We need to use rem font-sizing to make the text scales as expected when the web-page is zoomed-in. Also provides reliable text-resizing in smaller browser widths.
 * Need to have adequate line spacing (at least 1/2 the height of the text) and paragraph spacing (1.5 times line spacing).
+
+## <a name="links"></a>Making Accessible Links
+
+* Don’t use the word “link” in your links.
+* Don’t capitalize links: Some screenreaders read capitalized text letter by letter.
+* Avoid ASCII characters. Text alternatives are recommended for ASCII smiley faces. If a link involves dashes (17 - 18 years), it is better to replace the hyphen with '"to". Screen-readers do not read ASCII characters.
+* Avoid using URLs as link text. Screenreaders read URL's letter by letter. Use descriptive link text.
+* Keep link text concise.
+* Generally, restrict the number of text links on a page. An exception to this rule is pagination/alphabetized links and these should include further contextual information/link text.
+* Be aware of pagination and alphabetized links: To make pagination links accessible, add text like "Go to page  1 | 2 | 3 .." before the pagination links. For alphabetized links (eg. glossary links), add a descriptive title before the links. See attached screenshot.
+* Always alert the user when opening new windows. It is important to alert visually-challenged users that a new window has been opened. The best way to indicate that a link opens in a new window is to add text to the link, such as “(opens in new window)”.
+* Be mindful when using anchor links. Adding descriptive text like Jump to.. or On this page will help indicate that the link is within the same page.
+* Further reading: <https://www.sitepoint.com/15-rules-making-accessible-links/>
+
+## <a name="tools"></a>Accessibility Tools
+
+Extensions for testing accessibility:
+
+* [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+* [Color Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll)
+* [Luminosity ratio analyzer](https://chrome.google.com/webstore/detail/wcag-luminosity-contrast/lllpnmpooomecmbmijbmbikaacgfdagi)
 
 ## <a name="resources"></a>Resources
 

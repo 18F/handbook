@@ -1,11 +1,9 @@
+---
+status: Work in progress
+updated: May 9, 2017
+---
+
 # Workplace Guidelines
-
-## <a name="toc"></a>Table of Contents
-
-* [Hours of Work](#hours-work)
-* [Attendance / Tardiness](#attendance)
-* [Personal Appearance](#personal-appearance)
-* [Access to Business-Related Online Accounts](#access-account)
 
 ## <a name="hours-work"></a>Hours of Work
 

@@ -1,19 +1,5 @@
 # Project Manager Training
 
-## Table of Contents
-
-* [New PM Instructions](#new-pm)
-* [Current PM Instructions](#current-pm)
-* [Shadowing Calls](#shadowing-calls)
-* [Logging Internal Meetings](#internal-meetings)
-* [Resourcing](#resourcing)
-* [Scheduling Meetings](#scheduling-meetings)
-* [Timeboxing](#timeboxing)
-* [Helping Teams Estimate](#estimating)
-* [Project Documentation](#project-documentation)
-* [Typical PM Project Deliverables](#project-deliverables)
-* [PM Tools](#pm-tools)
-
 ## <a name="new-pm"></a>New PM Instructions
 
 * New PMs should shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.
@@ -41,7 +27,7 @@
 
 For non-billable internal meetings, PMs should bill as CA > Delivery > Project Management.
 
-![alt text](../images/pm-ahc.png "PM billing Delivery")
+![alt text](../../images/pm-ahc.png "PM billing Delivery")
 
 ### Common Internal Meetings
 
@@ -65,7 +51,7 @@ For a team member whose time is split between projects, RG helps plan how much t
 * Only require the necessary people, make other invitees optional.
 * Check the FIND TIME function in Google Calendar to make sure you're not double-booking someone - it is crucial that you look at other people's calendars.
 
-<img src="../images/CivicActions_Calendar_FindTime.png" alt="Finding Available Meeting Time" width="1000px">
+<img src="../../images/CivicActions_Calendar_FindTime.png" alt="Finding Available Meeting Time" width="1000px">
 
 ## <a name="timeboxing"></a>Timeboxing
 
@@ -78,7 +64,7 @@ For a team member whose time is split between projects, RG helps plan how much t
 * Have a timer handy - either an app or a physical one on your desk
 * Acknowledge when the timebox has expired and make sure folks can stay longer if needed.
 
-![alt text](../images/show-seconds.png "Showing seconds")
+![alt text](../../images/show-seconds.png "Showing seconds")
 
 ## <a name="estimating"></a>Helping the teams estimate
 
@@ -108,11 +94,11 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 
 ## <a name="pm-tools"></a>PM Tools
 
-* Resource Guru
-* Harvest
-* Jira
-* Trello
-* GitHub/Waffle
+* [Resource Guru](../04-how-we-work/tools/resource-guru.md)
+* [Harvest](../04-how-we-work/tools/harvest.md)
+* [Jira](../04-how-we-work/tools/jira.md)
+* [Trello](../04-how-we-work/tools/trello.md)
+* [GitHub](../04-how-we-work/tools/github.md)/Waffle
 * Burndown charts
-* Google Docs/Folders
-* Slack (client-facing and internal channels)
+* [Google Docs/Folders](../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+* [Slack](../04-how-we-work/tools/basic-communication-tools.md#slack) (client-facing and internal channels)

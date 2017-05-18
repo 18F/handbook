@@ -11,7 +11,7 @@ Berkeley, CA 94705
 888.714.7388 | fax
 civicactions.com
 
-Effective March 1, 2015
+Effective Date TBD (Work in Progress)
 
 ### <a name="purpose"></a>Handbook Purpose
 
@@ -19,7 +19,7 @@ This Handbook has been prepared to describe CivicActions' philosophy, working me
 
 ### <a name="contributing"></a>How to Contribute
 
-There are three ways to contribute to the Handbook: the lazy way, the easy way and the recommended (but advanced) way. See [CONTRIBUTING](CONTRIBUTING.md) for detailed intstructions for each.
+There are three ways to contribute to the Handbook: the lazy way, the easy way and the recommended (but advanced) way. See [CONTRIBUTING](CONTRIBUTING.md) for detailed instructions for each.
 
 ### <a name="toc"></a>TABLE OF CONTENTS
 
@@ -37,7 +37,7 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 
 * [Employment](docs/03-policies/employment.md)
 * [Code of Conduct](docs/03-policies/code-of-conduct.md)
-* [Security](https://github.com/CivicActions/security-policy/blob/master/README.md)
+* [Security](docs/03-policies/security.md)
 * [Compensation](docs/03-policies/compensation.md)
 * [Professional Development and Community Participation](docs/03-policies/prodev-community-participation.md)
 * [Annual Review Process](docs/03-policies/annual-review-process.md)
@@ -46,7 +46,7 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 * [Workplace Guidelines](docs/03-policies/workplace-guidelines.md)
 * [Travel 101](docs/03-policies/travel-101.md)
 * [Leaving CivicActions](docs/03-policies/leaving-civicactions.md)
-* [Required Notices](docs/03-policies/required-notices.md)
+* [Required Stuff](docs/03-policies/required-stuff.md)
 
 #### 4. How We Work
 
@@ -76,6 +76,7 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 * [Engineer's Role in Client/Team Relationships](docs/05-engineering/engineer-role-in-client-relationships.md)
 * [Front End Development](docs/05-engineering/front-end-development.md)
 * [Git/GitLab/Github/Bitbucket](docs/05-engineering/git-gitlab-github-bitbucket.md)
+* [How to log internal meetings](docs/05-engineering/internalmeetings.md)
 * [Quality Assurance](docs/05-engineering/qa.md)
 * [Security/Compliance](docs/05-engineering/security-compliance.md)
 * [Systems and Sandboxes](docs/05-engineering/systems-sandboxes.md)
@@ -94,11 +95,18 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 #### 7. Sales and Marketing
 
 * [CivicActions Website](docs/07-sales-and-marketing/civicactions-website.md)
+* [Sales Guild](docs/07-sales-and-marketing/sales-guild.md)
+* [Services](docs/07-sales-and-marketing/services.md)
 * [Social Media](docs/07-sales-and-marketing/social-media.md)
 
 #### 8. Human Resources
 
-* [New Hire Mentor Handbook](docs/08-hr-admin/mentor-handbook.md)
-* [New Hire Onboarding Checklists](docs/08-hr-admin/onboarding-checklists.md)
+* [Onboarding Process](docs/08-hr-admin/onboarding-process/)
+
+#### 9. Security
+
+* [Security Awareness and Tools](docs/09-security/awareness.md)
+* [Privacy and Encryption](docs/09-security/encryption.md)
+* [Yubikey](docs/09-security/yubikey)
 
 #### [CHANGE LOG](CHANGELOG.md)

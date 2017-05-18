@@ -10,7 +10,6 @@ We use text editors to write documentation in [Markdown](https://github.com/adam
 * [Sublime Text](http://www.sublimetext.com/)
 * [Vim](http://www.vim.org/download.php): Installed on OS X and Linux by default. Also available on OS X via [Homebrew](http://brew.sh/)
 
-
 ## Still have questions?
 
 * See [Backend Development](../../05-engineering/back-end-development.md)
