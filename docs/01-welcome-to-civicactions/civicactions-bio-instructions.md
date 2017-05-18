@@ -1,6 +1,6 @@
 # CivicActions Bio Instructions
 
-Now that you're part of the team, we want to add your photo and bio to our team page! 
+Now that you're part of the team, we want to add your photo and bio to our team page!
 
 Tasks
 1. Manager will introduce you to Copy Writer/Editor
