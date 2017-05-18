@@ -6,4 +6,4 @@ Project Managers review the line items in the invoice to ensure that the billing
 
 To avoid surprises at the end of the month Project Managers should be reviewing time entries in Harvest weekly to ensure that time has been logged to the correct project, no entries are missing, and descriptions are included.
 
-Review the monthly invoicing document at the end of each month (don't worry - a reminder will go out over Slack), take a look at the entries and compare hours in Harvest to ensure they're accurate.
+Review the monthly invoicing document at the end of each month (don't worry - a reminder will go out over Slack), take a look at the entries and compare hours in Harvest to ensure they're accurate. 
