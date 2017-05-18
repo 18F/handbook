@@ -13,10 +13,12 @@ For examples of fully realized "guides," check out [Sprint Planning Meetings](/0
 [Principles](01-principles/principles.md)
 
 Process
+
 * [Sprint 0 Discovery](02-process/sprint-0-discovery.md)
 * [Sprint Cycle](02-process/sprint-cycle.md)
 
 Methods
+
 * [Research](03-methods/1-research.md)
 * [Design](03-methods/2-design.md)
 * [Implementation](03-methods/3-implementation.md)

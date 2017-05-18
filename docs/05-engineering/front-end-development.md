@@ -119,6 +119,7 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
   * Sometimes you need a flowchart to run by all the designers/developers involved in a project to ensure that everyone is on the same page with regards to how data should flow through the system.
 
 ## <a name="dev-tools"></a>Development Tools
+
 * We setup a frontend development workflow that includes:
   * SASS compiling with: <https://www.npmjs.com/package/gulp-sass>
   * SASS/CSS linting with a combination of <https://github.com/kristerkari/stylelint-scss> & <https://github.com/CSSLint/csslint> (there is ongoing work to add CSSlint rules into stylelint-scss.)

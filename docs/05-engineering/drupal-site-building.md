@@ -397,7 +397,6 @@ We do this so that our pages are smaller, faster and simpler to theme as well as
 
 We do this to prioritize functionality and keep things maintainable and performant.
 
-
 ### <a name="featurization"></a> We consider featurization strategies before starting a project.
 
 #### Strategies

@@ -2,7 +2,7 @@
 
 ## What it is:
 
-There are two kinds of audits: _quantitative inventories_ and _qualitative assessments_. The inventory answers the question "What content is there?" and the assessment answers the question "Is it any good?"
+There are two kinds of audits: *quantitative inventories* and *qualitative assessments*. The inventory answers the question "What content is there?" and the assessment answers the question "Is it any good?"
 
 ## How to do it:
 

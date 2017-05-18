@@ -1,7 +1,7 @@
 # Supporting RMF Controls with Drupal Tools & Practices
 
 | *RMF*   | *Control Title*                       | *Drupal Tool / Practices*                                                                | *Notes*                     |
-|---------|---------------------------------------|------------------------------------------------------------------------------------------|-----------------------------|
+| ------- | ------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------- |
 | AC-2    | Account Management                    | User module                                                                              | core                        |
 | AC-2(5) | Inactivity Logout                     | autologout                                                                               | contrib                     |
 | AC-6    | Least Privilege                       | Roles and perms                                                                          | core                        |

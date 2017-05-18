@@ -28,7 +28,7 @@ The first week will be dedicated to general orientation. You'll also learn about
 * [Orientation Meeting](/training/orientation-meetings.md#day1) (1-2 hours) with your onboarding manager
 * Complete "Your first day" tasks on your "New Hire Checklist" Trello board
 * Afternoon Check-in Call (15-30 minutes) with your onboarding mentor
-* _Pro Tip: Remember to EAT LUNCH!_
+* *Pro Tip: Remember to EAT LUNCH!*
 
 #### Day 2
 

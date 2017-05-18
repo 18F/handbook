@@ -83,6 +83,7 @@ $ neoman
 ### Lastpass
 
 This requires a Yubikey token (cover the button for approximately one second) on laptop/desktop to unlock LastPass.
+
 * My Vault -> Account Settings -> Multifactor Options
   * Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)) - this is a useful backup
   * YubiKey (an easier option) is available when using [LastPass Premium](https://lastpass.com/yubico/) ($12/year)
@@ -102,6 +103,7 @@ This requires a Yubikey token (cover the button for approximately one second) on
 ### Google
 
 For each Google account you have:
+
 * Visit <https://accounts.google.com/b/0/SmsAuthSettings#devices>
 * Enable TFA, and complete the phone verification process (phone will act as backup TFA).
 * Click on "Security Keys" and follow instructions to add Yubikey.
@@ -118,6 +120,7 @@ For each Google account you have:
 ### AWS Root Account
 
 For each AWS account you have:
+
 * Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#security_credential>
 * Under MFA, add a Virtual MFA device.
 * Use Yubikey Authenticator app to scan the QR code, and enter the reponse code, then close and reopen the app and enter the second response code.
@@ -134,5 +137,6 @@ For each AWS account you have:
 ## Securing your Laptop
 
 Your laptop should lock (require a password to resume) on screen close and after 15 minutes idle time.
+
 * [GNU/Linux specific instructions](linux.md)
 * [Mac OS X specific instructions](macosx.md)
