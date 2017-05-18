@@ -1,6 +1,6 @@
 # Documentation Governance
 
-The docs working group expect changes and additions to this handbook to come out of solutions to “struggles” or “tensions” discussed within practice area working groups (such as the PM Group, the Sales Guild, etc).
+The Documentation Working Group expects changes and additions to this handbook to come out of solutions to “struggles” or “tensions” discussed within practice area working groups (such as the PM Group, the Sales Guild, etc).
 
 ## Process
 
