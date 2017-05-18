@@ -14,9 +14,9 @@ The Documentation Working Group expects changes and additions to this handbook t
 We have identified the following practice areas. Not all of these areas currently have associated working groups or folders within the handbook, though creating such groups and folders would probably be beneficial for documentation and cross-organization knowledge-sharing efforts.
 
 - Engineering
- - Front end
- - DevOps
- - Backend
+  - Front end
+  - DevOps
+  - Backend
 - Sales/Marketing (could be split into two areas)
 - Design
 - Security
