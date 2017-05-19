@@ -18,7 +18,6 @@ We have identified the following practice areas. Not all of these areas currentl
   - DevOps
   - Backend
 - Sales/Marketing (could be split into two areas)
-- Design
 - Security
 - UX/Design
 - Project Management/Agile
