@@ -153,15 +153,15 @@ navigation:
   - text: Projects
     url: projects/
     internal: true
+-   text: TTS archived emails
+    url: https://goo.gl/PxRVa8
+    internal: false
   - text: TTS org chart
     url: tts-org-chart/
     internal: true
   - text: 18F org chart
     url: org-chart/
     internal: true
-  - text: TTS archived emails
-    url: https://goo.gl/PxRVa8
-    internal: false
   - text: Offices
     url: offices/
     internal: true
