@@ -159,7 +159,7 @@ navigation:
   - text: 18F org chart
     url: org-chart/
     internal: true
-  - text: 18F archived emails
+  - text: TTS archived emails
     url: https://goo.gl/PxRVa8
     internal: false
   - text: Offices
