@@ -1,4 +1,4 @@
-# Services (WIP)
+# Services
 
 ## Cloud-Based Infrastructure
 
