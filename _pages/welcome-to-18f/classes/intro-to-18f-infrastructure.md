@@ -19,23 +19,23 @@ navtitle: Infrastructure
 
 ## <a id="obeying-the-law">Obeying the law</a>
 
-Rule #1 is if you don't see us doing something already, and you can't find express authorization to do it, please ask first. We promise to get you an answer quickly. If there is software or hardware you need that you don't have or don't know how to get, for example, hop into [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) and ask. 
+Rule #1 is if you don't see us doing something already, and you can't find express authorization to do it, please ask first. We promise to get you an answer quickly. For example, if there is software or hardware you need that you don't have or don't know how to get, hop into [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) and ask. 
 
 ## <a id="security">Security</a>
 
-You've probably heard about the [Office of Personnel Management (OPM) data breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach), and you probably know about the NSA. Everyone at 18F is responsible for our organization's security and ensuring that the private data of the public is safe.
+You've probably heard about the [Office of Personnel Management (OPM) data breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach), and you probably know about the NSA. Everyone at TTS is responsible for our organization's security and ensuring that the private data of the public is safe.
 
 The most important part of your job is security. 18F has its own [security standards](https://pages.18f.gov/before-you-ship/security/) around the software we develop. Be sure to [secure your Macbook](/equipment/#laptop) and [turn on FileVault](https://support.apple.com/en-us/HT204837).
 
-Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please consult us in #infrastructure.
+Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please consult us in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 
 ## <a id="the-public-interest">The public interest</a>
 
-As a federal employee, you yourself have practically no right to privacy in connection with your work. Anything you say or do - in an email, a phone call, a private GitHub repo, a Slack direct message, etc - can be monitored, recorded, and turned into a Federal record. If you don't want the government to know something, use a personal device or service. If you're using 18F, GSA, or Gov-wide provided anything (software, tools, devices, etc), you are actively consenting to being monitored.
+As a federal employee, you yourself have practically no right to privacy in connection with your work. Anything you say or do - in an email, a phone call, a private GitHub repo, a Slack direct message, etc - can be monitored, recorded, and turned into a Federal record. If you don't want the government to know something, use a personal device or service. If you're using TTS, GSA, or Gov-wide provided anything (software, tools, devices, etc), you are actively consenting to being monitored.
 
 This is an easy place to make mistakes, but it's also another great place to introduce another rule of thumb. Rule #2 is: Either everyone in the public can participate, or no one can. You alone cannot decide why Person A has access to something but not Person B. You alone, for example, can't decide if a friend of yours, especially a friend outside of government, can help on a project (this includes things like contributing code and reviewing a Google Doc) if that project itself is not already contributable by the public at large. There are multiple laws and regs that interact with each other around this space, but the bottom line is that a democratic government cannot make capricious decisions around who gets in.
 
-That isn't to say that 18F can't solicit public input. We absolutely can. We can also limit access through a process, but we need a process that is both (1) initially open to everyone and (2) is clearly documented. This also applies to acquisitions or procurement, and the very complex laws around government finance.
+That isn't to say that TTS can't solicit public input. We absolutely can. We can also limit access through a process, but we need a process that is both (1) initially open to everyone and (2) is clearly documented. This also applies to acquisitions or procurement, and the very complex laws around government finance.
 
 This brings us to Rule #3: You cannot spend a single penny, or create the expectation for a single penny to be spent, without prior authorization. Anything involving money must trace back to approvals. You can find out all about purchase approvals on the [Purchase Requests](/purchase-requests/) page.
 
