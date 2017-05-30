@@ -4,7 +4,7 @@ title: Outreach
 
 The Outreach team is responsible for promoting the work of digital innovators at 18F and across government. Our work spans a number of outlets, including [the content of 18F’s public-facing website](https://18f.gsa.gov/), [our blog](https://18f.gsa.gov/blog/), our external and internal newsletters, our Twitter feed ([@18F](https://twitter.com/18F)), responses to press, and responses to emails to [18f@gsa.gov](mailto:18f@gsa.gov), speaking engagements, internal communications, and 18F events.
 
-The Outreach team is situated in the Learn Business Unit, and its members wear many hats. The Outreach team facilitates communication both internal to 18F (for example, editing policies and memos) and externallly (for example, our blog, press engagements, or social media). We want to help you tell 18F’s stories and the stories of our partner agencies! Don’t hesitate to call on the Outreach team to help with your comms needs.
+The Outreach team is situated in the 18F Front Office within [TTS](https://www.gsa.gov/portal/category/25729).  The Outreach team facilitates communication both internal to 18F (for example, editing policies and memos) and externallly (for example, our blog, press engagements, or social media). We want to help you tell 18F’s stories and the stories of our partner agencies! Don’t hesitate to call on the Outreach team to help with your comms needs.
 
 ## Slack channels
 
@@ -20,15 +20,16 @@ The Outreach team is situated in the Learn Business Unit, and its members wear m
 
 ## Project announcements
 
-If you're a project manager or storyteller working on an 18F project, ping us in #outreach for help creating a lightweight communications plan that will help you connect with your most important stakeholders. [Comms plans for other 18F projects are in Google Drive](https://goo.gl/2VMKe9)
+If you're a project manager or storyteller working on an 18F project, ping us in [#outreach](https://gsa-tts.slack.com/archives/outreach) for help creating a lightweight communications plan that will help you connect with your most important stakeholders. [Comms plans for other 18F projects are in Google Drive](https://goo.gl/2VMKe9)
 
 ## Blog
-Outreach is responsible for running the [18F blog](https://18f.gsa.gov/blog). We use our blog to write about how we work, the culture of 18F, progress on our projects, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. 
-The primary contacts for the blog are Andre Francisco and Greg Boone. We use a combination of a [private GitHub repo](https://github.com/18f/blog-drafts), a kanban board, and an [editorial calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_pkkbf53u1m6is9gi76v1l8i5j8%40group.calendar.google.com&ctz=America/New_York) to manage the blog editing and approval process. Blog posts are drafted in Google Docs, editing is managed in GitHub, the process is tracked with the kanban board, and posts are scheduled on the calendar. See how Outreach manages the kanban board (and 18F team members can find a link to the board) in this [policies and processes document](https://docs.google.com/a/gsa.gov/document/d/13M5b7DetlMGmhDAMwSV51M5ygA_Ci4loWD9wBcrt9NQ/edit?usp=sharing). We discuss all of this in the #blog Slack channel. 
+Outreach publishes the [18F blog](https://18f.gsa.gov/blog/). We write about progress on our projects, how we work, the culture of 18F, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. The primary contacts for the blog are [Andre Francisco](https://gsa-tts.slack.com/messages/andre/) and [Greg Boone](https://gsa-tts.slack.com/messages/gregboone/). 
 
-Everyone at 18F is encouraged to write for the blog; you don’t have to be at 18F for a certain amount of time to have interesting ideas to share. Check out the [18F Blogging Guide](https://pages.18f.gov/blogging-guide/), which lays out the process more formally, and can tell you more about our mission and process. We're happy to meet you wherever you are in the writing process.
+Everyone at 18F is encouraged to write for the blog; you don’t have to be at 18F for a certain amount of time to have interesting ideas to share. The first step is to meet with us and [turn your idea into an outline](https://docs.google.com/document/d/1vv5OwsUmaxAGubpY_9za7JJmvL-8SE27HKaEQBumPiA/edit) shaped for a distinct audience. From there, check out the [18F Blogging Guide](https://blogging-guide.18f.gov/), which details the process more formally (including necessary approvals), and can tell you more about our mission and process. We’re happy to meet you wherever you are in the writing process.
 
-After you decide what you want to write about, your post can go in a few directions: a short update, a formal product launch, an educational series, a video, a Q&A session, etc. Blog posts don’t have to be long; 300 words is plenty. Finally, if you have something you’d like on the blog but writing isn’t your strong suit (or you don’t have the time), reach out in [#blog](https://gsa-tts.slack.com/archives/blog), and we can arrange for someone to interview you and write the post for you!
+Blog posts can take many forms including short updates, formal product launches, an educational series, a video, or a Q&A session. Blog posts don’t have to be long; 300 words might be enough for your topic. Getting them from idea to published post can take as few as six weeks, with most of that time spent writing the post. The sooner you can involve us, the better we can support you getting it published.
+
+On a process level, blog posts are drafted and edited in Google Docs. We manage the approval status in GitHub and track them on a kanban board. We schedule posts on the 18F Editorial Calendar. See how we approach the kanban board in this [policies and processes document](https://docs.google.com/document/d/13M5b7DetlMGmhDAMwSV51M5ygA_Ci4loWD9wBcrt9NQ/edit). We discuss all of this in the #blog Slack channel where you can find a link to the board.
 
 ## Newsletter
 
@@ -36,7 +37,7 @@ The 18F newsletter goes out every two weeks to more than 8,500 people. Our subsc
 
 You should [sign up for the newsletter](https://18f.gsa.gov/#newsletter).
 
-Like our blog, the newsletter is always in need of submissions &mdash; especially of cool things other people are doing. Please send any interesting projects or initiatives you see over to [#newsletter](https://gsa-tts.slack.com/archives/newsletter). Did some city adopt our design standards? Did an agency release a new data set? Is there a civic hackathon happening somewhere? We want to hear about it.
+Like our blog, the newsletter is always in need of submissions - especially of cool things other people are doing. Please send any interesting projects or initiatives you see over to [#newsletter](https://gsa-tts.slack.com/archives/newsletter). Did some city adopt our design standards? Did an agency release a new data set? Is there a civic hackathon happening somewhere? We want to hear about it.
 
 Here's the guide on [how to draft and publish the external newsletter](https://docs.google.com/a/gsa.gov/document/d/1EHWZX86An4XFVpM0rTbQkBUvDAHVuKenzWU2oIJnsCY/edit?usp=sharing).
 
