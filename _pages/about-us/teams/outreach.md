@@ -4,7 +4,7 @@ title: Outreach
 
 The Outreach team is responsible for promoting the work of digital innovators at 18F and across government. Our work spans a number of outlets, including [the content of 18F’s public-facing website](https://18f.gsa.gov/), [our blog](https://18f.gsa.gov/blog/), our external and internal newsletters, our Twitter feed ([@18F](https://twitter.com/18F)), responses to press, and responses to emails to [18f@gsa.gov](mailto:18f@gsa.gov), speaking engagements, internal communications, and 18F events.
 
-The Outreach team is situated in the Learn Business Unit, and its members wear many hats. The Outreach team facilitates communication both internal to 18F (for example, editing policies and memos) and externallly (for example, our blog, press engagements, or social media). We want to help you tell 18F’s stories and the stories of our partner agencies! Don’t hesitate to call on the Outreach team to help with your comms needs.
+The Outreach team is situated in the 18F Front Office within [TTS](https://www.gsa.gov/portal/category/25729).  The Outreach team facilitates communication both internal to 18F (for example, editing policies and memos) and externallly (for example, our blog, press engagements, or social media). We want to help you tell 18F’s stories and the stories of our partner agencies! Don’t hesitate to call on the Outreach team to help with your comms needs.
 
 ## Slack channels
 
@@ -20,10 +20,10 @@ The Outreach team is situated in the Learn Business Unit, and its members wear m
 
 ## Project announcements
 
-If you're a project manager or storyteller working on an 18F project, ping us in #outreach for help creating a lightweight communications plan that will help you connect with your most important stakeholders. [Comms plans for other 18F projects are in Google Drive](https://goo.gl/2VMKe9)
+If you're a project manager or storyteller working on an 18F project, ping us in [#outreach](https://gsa-tts.slack.com/archives/outreach) for help creating a lightweight communications plan that will help you connect with your most important stakeholders. [Comms plans for other 18F projects are in Google Drive](https://goo.gl/2VMKe9)
 
 ## Blog
-Outreach publishes the 18F blog. We write about progress on our projects, how we work, the culture of 18F, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. The primary contacts for the blog are Andre Francisco and Greg Boone. 
+Outreach publishes the [18F blog](https://18f.gsa.gov/blog/). We write about progress on our projects, how we work, the culture of 18F, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. The primary contacts for the blog are [Andre Francisco](https://gsa-tts.slack.com/messages/andre/) and [Greg Boone](https://gsa-tts.slack.com/messages/gregboone/). 
 
 Everyone at 18F is encouraged to write for the blog; you don’t have to be at 18F for a certain amount of time to have interesting ideas to share. The first step is to meet with us and [turn your idea into an outline](https://docs.google.com/document/d/1vv5OwsUmaxAGubpY_9za7JJmvL-8SE27HKaEQBumPiA/edit) shaped for a distinct audience. From there, check out the [18F Blogging Guide](https://blogging-guide.18f.gov/), which details the process more formally (including necessary approvals), and can tell you more about our mission and process. We’re happy to meet you wherever you are in the writing process.
 
@@ -37,7 +37,7 @@ The 18F newsletter goes out every two weeks to more than 8,500 people. Our subsc
 
 You should [sign up for the newsletter](https://18f.gsa.gov/#newsletter).
 
-Like our blog, the newsletter is always in need of submissions &mdash; especially of cool things other people are doing. Please send any interesting projects or initiatives you see over to [#newsletter](https://gsa-tts.slack.com/archives/newsletter). Did some city adopt our design standards? Did an agency release a new data set? Is there a civic hackathon happening somewhere? We want to hear about it.
+Like our blog, the newsletter is always in need of submissions - especially of cool things other people are doing. Please send any interesting projects or initiatives you see over to [#newsletter](https://gsa-tts.slack.com/archives/newsletter). Did some city adopt our design standards? Did an agency release a new data set? Is there a civic hackathon happening somewhere? We want to hear about it.
 
 Here's the guide on [how to draft and publish the external newsletter](https://docs.google.com/a/gsa.gov/document/d/1EHWZX86An4XFVpM0rTbQkBUvDAHVuKenzWU2oIJnsCY/edit?usp=sharing).
 
