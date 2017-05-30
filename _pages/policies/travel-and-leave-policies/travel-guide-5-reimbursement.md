@@ -19,7 +19,7 @@ Getting reimbursed has 3 sub-steps:
 ### I. Create A Voucher
 
 1. Log back into [Concur](http://travel.gsa.gov)
-2. On the main navigation menu, click on  **Vouchers** and then select **New Vouchers**
+2. On the main navigation menu, click on  **Vouchers**, and then select **New Vouchers**
 3. How long was your trip?
 
     * **Over 12 Hours**: Select the **Voucher from Authorization** option to reimburse a recent trip. **MOST LIKELY OPTION** Continue to the next step
