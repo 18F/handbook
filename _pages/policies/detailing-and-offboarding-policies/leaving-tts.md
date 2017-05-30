@@ -48,3 +48,13 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
   - Documentation will be kept anonymous.
   - After three samples are gathered, look for trends.
 - Complete the [clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with the employee.
+
+## Exiting Gracefully
+
+### Goodbye Email
+
+You are under no obligation to send out a farewell email, but if you do, please use bcc: for any distribution lists you're sending it to.  This allows people to respond to you directly without creating additional email noise for coworkers. 
+
+### Slack
+
+As you leave, you are encouraged to join the #alumni channel on the TTS Slack team.
