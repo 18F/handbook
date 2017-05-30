@@ -1,5 +1,5 @@
 ---
-title: 18F Corrective Action Plan for the October 2016 GSA Inspetor General Evaluation of 18F
+title: 18F Corrective Action Plan for the October 2016 GSA Inspector General Evaluation of 18F
 ---
 
 ## Background
