@@ -53,7 +53,7 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
 
 ### Goodbye Email
 
-You are under no obligation whatsoever to send out a farewell email. If you do, however, please use bcc: to include any lists you send it to, so that people can respond to you directly without barraging their coworkers with additional email noise. 
+You are under no obligation to send out a farewell email, but if you do, please use bcc: for any distribution lists you're sending it to.  This allows people to respond to you directly without creating additional email noise for coworkers. 
 
 ### Slack
 
