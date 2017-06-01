@@ -1,24 +1,10 @@
 # Project Manager Training
 
-## Table of Contents
-
-* [New PM Instructions](#new-pm)
-* [Current PM Instructions](#current-pm)
-* [Shadowing Calls](#shadowing-calls)
-* [Logging Internal Meetings](#internal-meetings)
-* [Resourcing](#resourcing)
-* [Scheduling Meetings](#scheduling-meetings)
-* [Timeboxing](#timeboxing)
-* [Helping Teams Estimate](#estimating)
-* [Project Documentation](#project-documentation)
-* [Typical PM Project Deliverables](#project-deliverables)
-* [PM Tools](#pm-tools)
-
 ## <a name="new-pm"></a>New PM Instructions
 
 * New PMs should shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.
 * New PMs to know how to react if someone calls on them unexpectedly, and how to quickly move along the meeting and get it back on track. The new PM should have a quick checkin like *"No project checkin. Here observing. Balance 8. I'll pass to Steve"*
-* New PM can practice taking meeting notes so they can compare their own notes from a meeting to the notes the PM actually shares with the team & client.
+* New PM can practice taking meeting notes so they can compare their own notes from a meeting to the notes the PM actually shares with the team & client. New PMs can also take notes while current PM is still running meetings.
 
 ## <a name="current-pm"></a>Current PM Instructions
 
@@ -41,7 +27,7 @@
 
 For non-billable internal meetings, PMs should bill as CA > Delivery > Project Management.
 
-![alt text](../images/pm-ahc.png "PM billing Delivery")
+![alt text](../../images/pm-ahc.png "PM billing Delivery")
 
 ### Common Internal Meetings
 
@@ -55,17 +41,17 @@ For non-billable internal meetings, PMs should bill as CA > Delivery > Project M
 
 We use [Resource Guru (RG)](https://civicactions.resourceguruapp.com/resources) for documenting which projects team members are on, as well as their availability.
 
-For a team member whose time is splint between projects, RG can be a helpful guide to know how much time should be allocated to each project.
+For a team member whose time is split between projects, RG helps plan how much time should be allocated to each project.
 
 ## <a name="scheduling-meetings"></a>Scheduling Meetings
 
 * The PM is generally the person to schedule all scrum ceremonies, client meetings, process meetings, and general team meetings. The team is also always welcomed to schedule one-off meetings for the internal team if they desire.
-* Avoid scheduling meetings with BLANK descriptions. Fill in a description/purpose for the meeting, link relevant documents, indicate the desired outcome, include an agenda, list discussion points, etc
+* Avoid scheduling meetings with blank descriptions in Google Calendar. Fill in a description/purpose for the meeting, link relevant documents, indicate the desired outcome, include an agenda, list discussion points, etc
 * Make a relevant and detailed meeting title. Make it descriptive and concise.
 * Only require the necessary people, make other invitees optional.
 * Check the FIND TIME function in Google Calendar to make sure you're not double-booking someone - it is crucial that you look at other people's calendars.
 
-<img src="../images/CivicActions_Calendar_FindTime.png" alt="Finding Available Meeting Time" width="1000px">
+<img src="../../images/CivicActions_Calendar_FindTime.png" alt="Finding Available Meeting Time" width="1000px">
 
 ## <a name="timeboxing"></a>Timeboxing
 
@@ -78,7 +64,7 @@ For a team member whose time is splint between projects, RG can be a helpful gui
 * Have a timer handy - either an app or a physical one on your desk
 * Acknowledge when the timebox has expired and make sure folks can stay longer if needed.
 
-![alt text](../images/show-seconds.png "Showing seconds")
+![alt text](../../images/show-seconds.png "Showing seconds")
 
 ## <a name="estimating"></a>Helping the teams estimate
 
@@ -108,14 +94,11 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 
 ## <a name="pm-tools"></a>PM Tools
 
-* Resource Guru
-* [Harvest - PM role](https://trello.com/c/4kBzyR2U/112-pm-role-w-harvest)- REPLACE WITH GITHUB LINK
-* Jira
-* Trello
-* GitHub/Waffle
+* [Resource Guru](../04-how-we-work/tools/resource-guru.md)
+* [Harvest](../04-how-we-work/tools/harvest.md)
+* [Jira](../04-how-we-work/tools/jira.md)
+* [Trello](../04-how-we-work/tools/trello.md)
+* [GitHub](../04-how-we-work/tools/github.md)/Waffle
 * Burndown charts
-* Google Docs/Folders
-* Slack (client-facing and internal channels)
-* [Creating Team Accounts](https://trello.com/c/L6kVty1C/132-creating-team-accounts) REPLACE WITH GITHUB LINK
-
-See <https://trello.com/c/scRXdfQ5/1-project-manager-training-1-5> for some additional links REPLACE WITH GITHUB LINK
+* [Google Docs/Folders](../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+* [Slack](../04-how-we-work/tools/basic-communication-tools.md#slack) (client-facing and internal channels)

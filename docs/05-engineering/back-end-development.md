@@ -1,18 +1,5 @@
 # Backend Development
 
-## Table of Contents
-
-* [General Coding Principles](#general-coding-principles)
-* [Coding Standards](#coding-standards)
-  * [Drupal specific coding](#drupal-specific-coding-standards)
-* [Debugging](#debugging)
-* [Git Commits](#git-commits)
-* [Editor Configuration for Coding](#editor-configuration-for-coding)
-* [Code Examples](#code-examples)
-  * [Don't use continue in short loops](#continue)
-  * [Simplify Boolean Logic](#simplify-boolean-logic)
-* [Still have questions?](#still-have-questions)
-
 ## General Coding Principles
 
 * We use the correct layer of abstraction.
@@ -34,7 +21,7 @@
 * We don't hard code
 * We stand behind the YAGNI (You ain't gonna need it) philosophy and avoid "gold plating."
   * When writing code, our code should solve ONLY and EXACTLY the use case that we are trying to support. In many instances we have a desired to make things MORE FLEXIBLE for the FUTURE but that is code we will have to support without knowing whether any of those use cases will ever come up.
-  Another big reason for wanting to be FLEXIBLE is that refactoring is hard, and it feels easier to have flexibility at front, but that is why we write automated tests, so refactoring will not be as painful.
+    Another big reason for wanting to be FLEXIBLE is that refactoring is hard, and it feels easier to have flexibility at front, but that is why we write automated tests, so refactoring will not be as painful.
 
 ### Drupal-specific Coding Standards
 
@@ -44,7 +31,7 @@
   * [JS](https://www.drupal.org/docs/develop/standards/javascript) coding standards.
   * [Writing Secure Code in Drupal 7](https://www.drupal.org/docs/7/security/writing-secure-code)
   * [Writing Secure Code in Drupal 8](https://www.drupal.org/docs/8/security/writing-secure-code-for-drupal-8)
-* We ensure [Code Quality with DCQ](https://www.drupal.org/project/dcq) which includes the [Coder module](https://www.drupal.org/project/coder)to ensure code meets Drupal standards.
+* We ensure [Code Quality with DCQ](https://www.drupal.org/project/dcq) which includes the [Coder module](https://www.drupal.org/project/coder) to ensure code meets Drupal standards.
 * We use namespaces so that we avoid namespace collisions.
   * All module functions (even little helper functions) should have the module prefix.
   * Database tables should have the module prefix.
@@ -91,6 +78,7 @@
 ## Editor Configuration for Coding
 
 These are some example editor configuration values - each editor has it's own set:
+
 ```
 // The default for most editors and printers. This is the displayed width
 // of tabs, but is irrelevant as there shouldn't be any actual tabs!
@@ -99,10 +87,10 @@ TAB_KEY_INSERTS_INDENT_WIDTH_SPACES = true
 // The default for Drupal (and many other languages) code. With this setting,
 // pressing the TAB key inserts two actual spaces, instead of a tab.
 INDENT_WIDTH = 2
-
 ```
 
 To configure your editor/development environment for Drupal:
+
 * [Eclipse](https://www.drupal.org/docs/develop/development-tools/eclipse)
 * [Emacs](https://www.drupal.org/docs/develop/development-tools/emacs)
 * [NetBeans](https://www.drupal.org/docs/develop/development-tools/configuring-netbeans)
@@ -125,7 +113,7 @@ To configure your editor/development environment for Drupal:
  * ...
  * @param my_parameter description of my_parameter
  * @return return value description
- * @TODO these are some things that we need to do
+ *  these are some things that we need to do
  */
 function myfunc($my_parameter) {    // no space before '('; 1 space before '{'
   if ($my_parameter) {   // there is a space after 'if', 'while' and other conditionals
@@ -141,17 +129,18 @@ function myfunc($my_parameter) {    // no space before '('; 1 space before '{'
 ### <a name="continue"></a>Don't use continue in short loops
 
 Don't do this:
+
 ```
 foreach ($types as $type) {
   if ($type == 'blog_post') {
-    continue; 
+    continue;
   }
   print $type;
 }
-
 ```
 
 Instead do this:
+
 ```
 foreach ($types as $type) {
   if ($type != 'blog_post') {
@@ -182,6 +171,7 @@ if ($type == 'blog_post' || $user->uid == $node->uid) {
 // do something ...
 }
 ```
+
 ## Still have questions?
 
 Ask in Slack: [#engineering](https://civicactions.slack.com/messages/engineering/)

@@ -25,7 +25,7 @@ Daily scrum calls are project-specific meetings. These short meetings are a scru
 * Today: I plan to do this other thing.
 * Blockers: This is currently or potentially inhibiting me from doing what I'd like to do.
 
-For more specific information, see [Daily Scrum Calls](../../04-how-we-work/agile-baseline/03-process/practices/daily-scrum-calls.md).
+For more specific information, see [Daily Scrum Calls](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md).
 
 ### Retrospectives
 

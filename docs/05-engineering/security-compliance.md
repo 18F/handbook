@@ -1,39 +1,28 @@
 # Security and Compliance
 
-## Table of Contents
-
-* [Security Policy](#security-policy)
-* [Awareness and Tools](#awareness-and-tools)
-* [Training](#training)
-* [As Developers](#as-developers)
-* [As Drupal Developers](#as-drupal-developers)
-* [Privileged Access](#privileged-access)
-* [Continuous Monitoring](#continuous-monitoring)
-* [Incident Response](#incident-response)
-
 ## Security Policy
 
-We understand and abide by the [CivicActions Employee/Contractor Security Policy](https://github.com/CivicActions/security-policy). In particular:
+We understand and abide by the [CivicActions Employee/Contractor Security Policy](../03-policies/security.md). In particular:
 
-* We practice [Server & Site Security](https://github.com/CivicActions/security-policy#server--site-security)
+* We practice [Server & Site Security](../03-policies/security.md#server--site-security)
 * using only sanitized databases
 * taking care to not install restricted access files on development or personal instances outsite the project defined security boundary
 * and scrubbing unneeded data from our development systems
 
 ## Awareness and Tools
 
-We enhance our [Security Awareness with Tools](https://github.com/CivicActions/security-policy/blob/master/tools/README.md#tfa-backup-codes) by:
+We enhance our [Security Awareness with Tools](../09-security/awareness.md) by:
 
-* [Securing our Laptops](https://github.com/CivicActions/security-policy/blob/master/tools/README.md#securing-your-laptop)
-* [Using Password Management Tools](https://github.com/CivicActions/security-policy/blob/master/tools/README.md#password-management-tools)
-* [Using Multi-Factor Authentication](https://github.com/CivicActions/security-policy/blob/master/tools/README.md#use-two-factor-or-2-step-authentication-tfa-2fa)
-* [Increasing our awareness of Phishing and Social Engineering](https://github.com/CivicActions/security-policy/blob/master/tools/README.md#phishing-and-social-engineering)
-* [Keeping our Personal Systems up-to-date](https://github.com/CivicActions/security-policy/blob/master/tools/README.md#keep-your-systems-up-to-date)
-* [Employing Disk Encryption and Secure Storage Management](https://github.com/CivicActions/security-policy/blob/master/tools/README.md#disk-encryption-and-storage-management)
+* [Securing our Laptops](../09-security/awareness.md#securing-your-laptop)
+* [Using Password Management Tools](../09-security/awareness.md#password-management-tools)
+* [Using Multi-Factor Authentication](../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
+* [Increasing our awareness of Phishing and Social Engineering](../09-security/awareness.md#phishing-and-social-engineering)
+* [Keeping our Personal Systems up-to-date](../09-security/awareness.md#keep-your-systems-up-to-date)
+* [Employing Disk Encryption and Secure Storage Management](../09-security/awareness.md#disk-encryption-and-storage-management)
 
 ## Training
 
-* We perform a yearly review of the [CivicActions Employee/Contractor SecurityPolicy](https://github.com/CivicActions/security-policy)
+* We perform a yearly review of the [CivicActions Employee/Contractor SecurityPolicy](../03-policies/security.md)
 * We train all our employees and contractors in PII Awareness
 
 ## As Developers
@@ -66,7 +55,7 @@ We enhance our [Security Awareness with Tools](https://github.com/CivicActions/s
 
 * We use Nagios, Cloudwatch, StatusCake and OpsGenie
 * We implement log analysis procedures that enable better/more timely capture of system anomalies.
-* [elk-in-docker](https://git.civicactions.net/devops/elk-in-docker) *(internal link - fix...)*
+* @todo:  [elk-in-docker](https://git.civicactions.net/devops/elk-in-docker) *(internal link - fix...)*
 
 * We implement automated security scanning of the OS. See:
 * <http://www.open-scap.org/>
@@ -79,4 +68,4 @@ We enhance our [Security Awareness with Tools](https://github.com/CivicActions/s
 * We train new employees and perform yearly quizzes of exiting employees on the IRP procedures.
 
 * Each project can extend or replace the default IRP.
-* [GlobalNET Incident Response Plan](https://docs.google.com/a/civicactions.net/document/d/1hk2rODDPrbc7P-J-1l1UyCyx8cjEVQALd1MC53BijsA) *(internal link - fix...)*
+* @todo: [GlobalNET Incident Response Plan](https://docs.google.com/a/civicactions.net/document/d/1hk2rODDPrbc7P-J-1l1UyCyx8cjEVQALd1MC53BijsA) *(internal link - fix...)*

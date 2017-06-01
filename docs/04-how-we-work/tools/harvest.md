@@ -1,18 +1,5 @@
 # Harvest
 
-## Table of Contents
-
-* [Introduction](#introduction)
-* [Update Your Profile](#update-your-profile)
-* [Submitting Your Timesheet](#submitting-your-timesheet)
-* [Harvest Timer Options](#harvest-timer-options)
-* [Jira Integration](#jira-integration)
-* [Trello Integration](#trello-integration)
-* [Other Add-ons](#other-add-ons)
-* [Tracking Expenses](#tracking-expenses)
-* [Tracking Paid Time Off](#tracking-paid-time-off)
-* [Harvest Phone App](#harvest-phone-app)
-
 ## Introduction
 
 Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include Jira and Trello integrations and a mobile app.

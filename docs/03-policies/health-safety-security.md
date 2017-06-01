@@ -1,11 +1,9 @@
+---
+status: Work in progress
+updated: May 9, 2017
+---
+
 # Health, Safety and Security
-
-## <a name="toc"></a>Table of Contents
-
-* [Workers' Compensation](#workers-comp)
-* [Safety](#safety)
-* [Use of Private Automobile](#private-automobile)
-* [Drugs and Alcohol](#drugs-alcohol)
 
 ## <a name="workers-comp"></a>Workers' Compensation
 

@@ -11,15 +11,15 @@ Berkeley, CA 94705
 888.714.7388 | fax
 civicactions.com
 
-Effective March 1, 2015
+Effective Date TBD (Work in Progress)
 
 ### <a name="purpose"></a>Handbook Purpose
 
-This Handbook has been prepared to describe CivicActions' philosophy, employment practices, policies, benefits, and the conduct we expect from members of our team.
+This Handbook has been prepared to describe CivicActions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
 
-CivicActions operates transparently on a fundamental level. We have very few "rules and regulations." We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. Left to our own devices, this Handbook would be very short - be open, do your best, ask for help and clarification when you need it, offer help to others, and have fun.
+### <a name="contributing"></a>How to Contribute
 
-That being said, there are topics in this document that are required by law or at least by HR professionals. You will find them under [Required Notices](docs/03-policies/required-notices.md). This Handbook is not designed to answer specific questions or address specific scenarios. It is more likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships. Issues are addressed on a case-by-case basis anyway. We do want you to feel free to discuss anything with team members and/or management, whether it’s something that disturbs you, something that confuses you or something that excites you.   You will find CivicActions a great place to work.
+There are three ways to contribute to the Handbook: the lazy way, the easy way and the recommended (but advanced) way. See [CONTRIBUTING](CONTRIBUTING.md) for detailed instructions for each.
 
 ### <a name="toc"></a>TABLE OF CONTENTS
 
@@ -37,7 +37,7 @@ That being said, there are topics in this document that are required by law or a
 
 * [Employment](docs/03-policies/employment.md)
 * [Code of Conduct](docs/03-policies/code-of-conduct.md)
-* [Security](https://github.com/CivicActions/security-policy/blob/master/README.md)
+* [Security](docs/03-policies/security.md)
 * [Compensation](docs/03-policies/compensation.md)
 * [Professional Development and Community Participation](docs/03-policies/prodev-community-participation.md)
 * [Annual Review Process](docs/03-policies/annual-review-process.md)
@@ -46,7 +46,7 @@ That being said, there are topics in this document that are required by law or a
 * [Workplace Guidelines](docs/03-policies/workplace-guidelines.md)
 * [Travel 101](docs/03-policies/travel-101.md)
 * [Leaving CivicActions](docs/03-policies/leaving-civicactions.md)
-* [Required Notices](docs/03-policies/required-notices.md)
+* [Required Stuff](docs/03-policies/required-stuff.md)
 
 #### 4. How We Work
 
@@ -76,6 +76,7 @@ That being said, there are topics in this document that are required by law or a
 * [Engineer's Role in Client/Team Relationships](docs/05-engineering/engineer-role-in-client-relationships.md)
 * [Front End Development](docs/05-engineering/front-end-development.md)
 * [Git/GitLab/Github/Bitbucket](docs/05-engineering/git-gitlab-github-bitbucket.md)
+* [How to log internal meetings](docs/05-engineering/internalmeetings.md)
 * [Quality Assurance](docs/05-engineering/qa.md)
 * [Security/Compliance](docs/05-engineering/security-compliance.md)
 * [Systems and Sandboxes](docs/05-engineering/systems-sandboxes.md)
@@ -93,7 +94,20 @@ That being said, there are topics in this document that are required by law or a
 
 #### 7. Sales and Marketing
 
+* [Service Catalog](docs/07-sales-and-marketing/service-catalog)
+* [Sales Guild](docs/07-sales-and-marketing/sales-guild.md)
+* [Sales Proposal Process](docs/07-sales-and-marketing/sales-proposal-process.md)
 * [CivicActions Website](docs/07-sales-and-marketing/civicactions-website.md)
 * [Social Media](docs/07-sales-and-marketing/social-media.md)
+
+#### 8. Human Resources
+
+* [Onboarding Process](docs/08-hr-admin/onboarding-process/)
+
+#### 9. Security
+
+* [Security Awareness and Tools](docs/09-security/awareness.md)
+* [Privacy and Encryption](docs/09-security/encryption.md)
+* [Yubikey](docs/09-security/yubikey)
 
 #### [CHANGE LOG](CHANGELOG.md)
