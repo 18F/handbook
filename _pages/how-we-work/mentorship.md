@@ -48,6 +48,7 @@ If you are new to mentorship you may find some of this information useful in hel
 ### Goal setting
 
 *"SMART" goals* are a valuable framework for setting and successfully achieving effective goals. The idea is that goals should be:
+
 * Specific,
 * Measurable,
 * Actionable,
@@ -57,11 +58,12 @@ If you are new to mentorship you may find some of this information useful in hel
 By using this framework, you can transform goals from vague, unrealistic or difficult to achieve to precise and effective.
 
 When setting a goal, check whether it's:
-*Specific:* The goal should be clear and well-defined.
-*Measurable:* It should be possible to know when you've achieved your goal.
-*Actionable:* It should be something you can take action on now.
-*Realistic:* It should be possible within the bounds of your available time and resources.
-*Time-bound:* There should be a deadline. (See 'realistic' again. :) )
+
+* *Specific:* The goal should be clear and well-defined.
+* *Measurable:* It should be possible to know when you've achieved your goal.
+* *Actionable:* It should be something you can take action on now.
+* *Realistic:* It should be possible within the bounds of your available time and resources.
+* *Time-bound:* There should be a deadline. (See 'realistic' again. :) )
 
 So instead of:
 `My goal is to get better at Python.`
