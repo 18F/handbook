@@ -24,8 +24,8 @@ Before taking leave, be sure to:
 - Submit leave through [ALOHA](https://aloha.gsa.gov)
 - Update the 18F Out of Office Calendar
 - Notify your Engagement Manager, if you're on an outside project, so they can update Float
-- Submit correct Tock entries assigned to Annual Leave
-- Share via Slack, email or over media with folk how need to know, and make sure work is covered
+- Submit correct Tock entries assigned to Annual Leave (or Award Leave, as appropriate)
+- Share via Slack, email or over media with folk who need to know, and make sure work is covered
 
 ### Annual leave
 
