@@ -26,14 +26,14 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
      * Ex. [CWDS TPS3 Interview Tips Guide](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
     * State Dept XYZ Interview Prep To-Do List (ensure it’s accurate)
      * Ex. [CWDS TPS3 Interview Prep To-Do List](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
- * Create an ""@lists.civicactions.net" mailing distribution list (dept-xyz-int)
- * Email the team using the mailing distribution list (Template 0): [Introductory Email](https://docs.google.com/a/civicactions.net/document/d/1cw08aEbvPm5lBfACCxTYBDHJO2lt6lP0tRT0oYCurfw/edit?usp=sharing)
-   * Customize the template for the following fields:
-    * Timing & Dates
-    * Reading Materials
-    * Interview Questions
-    * Interview Format
-  * Provide access by adding all team members to the newly created Interview Prep Google Drive folder
+* Create an ""@lists.civicactions.net" mailing distribution list (dept-xyz-int)
+* Email the team using the mailing distribution list (Template 0): [Introductory Email](https://docs.google.com/a/civicactions.net/document/d/1cw08aEbvPm5lBfACCxTYBDHJO2lt6lP0tRT0oYCurfw/edit?usp=sharing)
+ * Customize the template for the following fields:
+   * Timing & Dates
+   * Reading Materials
+   * Interview Questions
+   * Interview Format
+* Provide access by adding all team members to the newly created Interview Prep Google Drive folder
 
 
  <b>Important Relationship Building Tips:</b>
