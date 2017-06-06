@@ -24,7 +24,7 @@ These guidelines focus on two main tasks that support that goal: gaining partici
 
 ### Consent forms
 
-* [Printable form](https://methods.18f.gov/assets/downloads/18FResearchParticipantConsentForm.docx). If you're going to use the printable form, offer your participant one copy and keep another for yourself. Then store the signed consent form somewhere secure, like a locked office cabinet.
+* [Printable form](https://methods.18f.gov/assets/downloads/ConsentForm.docx). If you're going to use the printable form, offer your participant one copy and keep another for yourself. Then store the signed consent form somewhere secure, like a locked office cabinet.
 * [Google Forms version](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/viewform). Copy this file and put it into your own project folder. At the moment, for some reason, the "move to folder" option appears to disabled in Google Forms, so you need to do this manually:
 
 1. Copy file
