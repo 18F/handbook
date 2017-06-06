@@ -9,23 +9,15 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
  ----
  ## Step 1 - The proposal was just submitted
 * The proposal was submitted on MM/DD/YYY (obtain the actual date)
-* Create an interview prep folder (ACDPQVP > XYZ > XYZ Interview Prep)
-  * Ex. [ACDPQVP > CWDS > TPS3 Interview Prep](https://drive.google.com/drive/u/0/folders/0ByMs0asyk4PpSi1FRHlwUkc0cjg)
+* Create an interview prep folder (ACDPQVP > XYZ > XYZ Interview Prep), Ex. [ACDPQVP > CWDS > TPS3 Interview Prep](https://drive.google.com/drive/u/0/folders/0ByMs0asyk4PpSi1FRHlwUkc0cjg)
 * Prepare the documents for the interview prep folder:
-  * State Dept XYZ Team Contact Info (spreadsheet),
-    * Ex. [CWDS TPS3 Team Contact List](https://docs.google.com/a/civicactions.net/spreadsheets/d/1osERhXHsibcPrhdgQYFBBj--bVF5IaT7mldaCIJ5fyM/edit?usp=sharing)
-    * U&A copy,
-     * Ex. [Understanding and Approach](https://drive.google.com/a/civicactions.net/file/d/0B0bUEywUIyjER2liMGNPbGdpdkU/view?usp=sharing)
-    * Technology stack copy,
-     * Ex. [Technology Stack](https://drive.google.com/a/civicactions.net/file/d/0B0bUEywUIyjEVVNGSzJ5dmF5SDg/view?usp=sharing)
-    * Staff Resume tables copy,
-     * Ex. [Staff Resume Table](https://drive.google.com/a/civicactions.net/file/d/0B0bUEywUIyjEX0RFVHR0dXZPNTQ/view?usp=sharing)
-    * SAMPLE Interview Questions (update to include all questions we’ve ever been given),
-     * Ex. [Sample Interview Questions](https://docs.google.com/a/civicactions.net/document/d/1x8Q3G9sY6WlK8CMYOZvxiglKhr5VZ6Wk7og3wHb9kH4/edit?usp=sharing)
-    * State Dept XYZ Interview Tips Guide
-     * Ex. [CWDS TPS3 Interview Tips Guide](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
-    * State Dept XYZ Interview Prep To-Do List (ensure it’s accurate)
-     * Ex. [CWDS TPS3 Interview Prep To-Do List](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
+  * State Dept XYZ Team Contact Info (spreadsheet), Ex. [CWDS TPS3 Team Contact List](https://docs.google.com/a/civicactions.net/spreadsheets/d/1osERhXHsibcPrhdgQYFBBj--bVF5IaT7mldaCIJ5fyM/edit?usp=sharing)
+    * U&A copy, Ex. [Understanding and Approach](https://drive.google.com/a/civicactions.net/file/d/0B0bUEywUIyjER2liMGNPbGdpdkU/view?usp=sharing)
+    * Technology stack copy, Ex. [Technology Stack](https://drive.google.com/a/civicactions.net/file/d/0B0bUEywUIyjEVVNGSzJ5dmF5SDg/view?usp=sharing)
+    * Staff Resume tables copy, Ex. [Staff Resume Table](https://drive.google.com/a/civicactions.net/file/d/0B0bUEywUIyjEX0RFVHR0dXZPNTQ/view?usp=sharing)
+    * SAMPLE Interview Questions (update to include all questions we’ve ever been given), Ex. [Sample Interview Questions](https://docs.google.com/a/civicactions.net/document/d/1x8Q3G9sY6WlK8CMYOZvxiglKhr5VZ6Wk7og3wHb9kH4/edit?usp=sharing)
+    * State Dept XYZ Interview Tips Guide, Ex. [CWDS TPS3 Interview Tips Guide](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
+    * State Dept XYZ Interview Prep To-Do List (ensure it’s accurate), Ex. [CWDS TPS3 Interview Prep To-Do List](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
 * Create an ""@lists.civicactions.net" mailing distribution list (dept-xyz-int)
 * Email the team using the mailing distribution list (Template 0): [Introductory Email](https://docs.google.com/a/civicactions.net/document/d/1cw08aEbvPm5lBfACCxTYBDHJO2lt6lP0tRT0oYCurfw/edit?usp=sharing)
  * Customize the template for the following fields:
