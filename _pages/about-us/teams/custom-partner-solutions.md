@@ -25,6 +25,7 @@ There have been a lot of success stories for CPS, like what we did with:
 - Team members: 
   - Alex Bisker 
   - Anna Heller Sebok
+  - Kathryn Connolly
   - Olesya Minina
 
 ## How we support internal teams
@@ -42,42 +43,28 @@ Three of CPS&rsquo; major tasks are picking projects, providing information to o
 
 If you&rsquo;re a project manager or engagement manager expect to:
 
-- Fill out the [CPS Project Report](https://docs.google.com/spreadsheets/d/1kp5Xec7VjscITYaTqcyQfa5Rrr29hcGIzP-tkRrR_IA/edit) every month
 - Be familiar with the [CPS Engagement Management Handbook](https://docs.google.com/document/d/1BMiE3oln2-pyq4Ht-Q3Z-P_ecQmi980djZgaN6xCNKM/edit) 
-- Attend the Monthly [Engagement Management Ask Me Anythings (AMAs)](https://docs.google.com/document/d/1oHS-IEomRJzT840MemBwzDo-bJU-ymIkzgVX63Q3HSs/edit#heading=h.47mc72669308)
 - Be involved in the staffing process
-- Be asked to volunteer as the lead on a Potential Project Review (PPR)  
-- PPR Guide [here](https://docs.google.com/document/d/1c5QKhcY8gZHxO4-Kc_l2JN94hD-AB_TTrvFABwHhVQ8/edit) 
-- Be invited to [CPS Staffing AMAs](https://drive.google.com/drive/folders/0B_SvrGV09nQ-MktfT1FlSndfWmc) to represent your project
 - Point person for staffing: Anna Sebok 
 - Point person for engagement management: Alex Bisker 
 
 If you&rsquo;re a **chapter head** expect to:
 
-- Be asked to staff PPRs 
+- Be asked to participate in project qualification 
 - Be involved in the staffing process
-- Point person for PPRs: Olesya Minina + Stephanie Rivera 
-- Point person for staffing: Anna Sebok 
-
-If you&rsquo;re a **chapter member** expect to:
-
-- Volunteer for a Potential Project Review (PPR)
-- PPR Guide [here](https://docs.google.com/document/d/1c5QKhcY8gZHxO4-Kc_l2JN94hD-AB_TTrvFABwHhVQ8/edit) 
-- Point person for PPRs: Olesya Minina + Stephanie Rivera
-- Be invited to the [CPS Staffing AMAs](https://drive.google.com/drive/folders/0B_SvrGV09nQ-MktfT1FlSndfWmc)
+- Point person for project qualificiation: Olesya Minina 
 - Point person for staffing: Anna Sebok 
 
 If you&rsquo;re on the **finance team** expect to:
 
 - Provide CPS monthly project invoices 
-- These are linked in each project on our [Partnership Tracker](https://trello.com/b/kZ7PUggv/custom-partnerships-tracker)
 - Address billing questions CPS might have 
-- Point person for finance: Anna Sebok + Alex Bisker
+- Point person for finance: Alex Bisker + Kathryn Connolly
 
 If you&rsquo;re on the **agreements team** expect to:
 
 - Work with us on the SOW/IAA/MOU process
-- Point person for Agreements: Alex Bisker 
+- Point person for Agreements: Anna Sebok 
 
 If you&rsquo;re on the **agency partnerships team** expect to:
 
@@ -87,7 +74,6 @@ If you&rsquo;re on the **agency partnerships team** expect to:
 If you&rsquo;re just curious about all things CPS
 
 - Come to the[#partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions/files/F1VNDBY7N/) channel
-- Attend a quarterly staff-wide [CPS AMA](https://docs.google.com/document/d/1eyPHTAzk7xWRIQAIfJl4F58NVpWpBIHiEcam7w9Ueo0/edit)
 
 ## Where you can reach us
 
@@ -103,12 +89,6 @@ If you&rsquo;re just curious about all things CPS
 
 ## Communications, guides, and templates: 
 
-- [Quarterly CPS AMA](https://docs.google.com/document/d/1eyPHTAzk7xWRIQAIfJl4F58NVpWpBIHiEcam7w9Ueo0/edit)
-- [Staffing AMA Folder](https://drive.google.com/drive/u/0/folders/0B_SvrGV09nQ-MktfT1FlSndfWmc)
-  - We hold Staffing AMAs on an as-needed basis for projects we have decided to take on and that have entered the staffing process 
-- [PPR Guide](https://docs.google.com/document/d/1c5QKhcY8gZHxO4-Kc_l2JN94hD-AB_TTrvFABwHhVQ8/edit#heading=h.8zsg1nccsdr5)
-- [Monthly Engagement Management AMA](https://docs.google.com/document/d/1oHS-IEomRJzT840MemBwzDo-bJU-ymIkzgVX63Q3HSs/edit)
-- [CPS Project Report ](https://docs.google.com/spreadsheets/d/1kp5Xec7VjscITYaTqcyQfa5Rrr29hcGIzP-tkRrR_IA/edit)
 - [The 18F Product Guide](https://pages.18f.gov/product-guide/) - A great resource for all Product Managers on CPS projects
 - [FY17 Projects Announcement](https://drive.google.com/open?id=0B_SvrGV09nQ-WTlrTFY5eVN2NE0) - Our initial announcement of all CPS projects in FY17
 
