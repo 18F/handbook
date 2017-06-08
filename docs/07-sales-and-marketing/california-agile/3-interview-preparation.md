@@ -33,30 +33,30 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
 * Invite the team to <u><b>at least</u> one pod call
 
 ## Step 2 - The interview was scheduled
- * If the client hasn’t notified the team by our projected date, send an email to the team with the status and state that we’re still waiting to hear back
-  * Update the proposed timeline dates
- * The client notifies of the intent to interview with time slot options
+* If the client hasn’t notified the team by our projected date, send an email to the team with the status and state that we’re still waiting to hear back
+   * Update the proposed timeline dates
+* The client notifies of the intent to interview with time slot options
    * The preferred time slot to interview is in the morning
-    * We get questions 24 hours before the interview and clinics will need to be scheduled with the team
-    * Clinics are more accommodating for team members in the afternoons/evenings
- * Create a Slack channel (dept-xyz-int)
- * Create WebEx meetings for the week (request from Owen)
- * Prepare new documents for the interview prep folder:
-   * State Dept XYZ Interview Clinic Signup (Template) [Interview Clinic Signup](https://docs.google.com/a/civicactions.net/spreadsheets/d/1mVvnDjBDHftyzlyc-veLjFXuJH4iEsI3hJ0BIhYeH9k/edit?usp=sharing)
+     * We get questions 24 hours before the interview and clinics will need to be scheduled with the team
+     * Clinics are more accommodating for team members in the afternoons/evenings
+* Create a Slack channel (dept-xyz-int)
+* Create WebEx meetings for the week (request from Owen)
+* Prepare new documents for the interview prep folder:
+  * State Dept XYZ Interview Clinic Signup (Template) [Interview Clinic Signup](https://docs.google.com/a/civicactions.net/spreadsheets/d/1mVvnDjBDHftyzlyc-veLjFXuJH4iEsI3hJ0BIhYeH9k/edit?usp=sharing)
     * A sign up sheet for team members to schedule sessions answering practice questions in an interview-style.
-   * State Dept XYZ Interview (Template) [Interview Preparation](https://docs.google.com/a/civicactions.net/spreadsheets/d/1_WUMl0US6wC9r43j55dxQRC396W-awfamC1x0iveFzA/edit?usp=sharing)
-     * Instructions on how to prepare for and during the interview
-     * Includes questions
-     * Allows team members to rate their confidence in answering each question, overall talking points, and notes
-   * State Dept XYZ Clinic Interview Question Responses (Template) [Clinic Interview Question Responses](https://docs.google.com/a/civicactions.net/document/d/1YrYg5OvscL0E80eYxCi-HVovVvVesSXAZZfuiG2FSDE/edit?usp=sharing)
+  * State Dept XYZ Interview (Template) [Interview Preparation](https://docs.google.com/a/civicactions.net/spreadsheets/d/1_WUMl0US6wC9r43j55dxQRC396W-awfamC1x0iveFzA/edit?usp=sharing)
+    * Instructions on how to prepare for and during the interview
+    * Includes questions
+    * Allows team members to rate their confidence in answering each question, overall talking points, and notes
+  * State Dept XYZ Clinic Interview Question Responses (Template) [Clinic Interview Question Responses](https://docs.google.com/a/civicactions.net/document/d/1YrYg5OvscL0E80eYxCi-HVovVvVesSXAZZfuiG2FSDE/edit?usp=sharing)
     * Lists all actual questions and allows team members to note their answers and ratings in answering each question
-   * Any additional reading materials they need to read (as needed)
+    * Any additional reading materials they need to read (as needed)
  * Email team (template 1): [Selected for an interview](https://docs.google.com/a/civicactions.net/document/d/1Oy2Puys-sbMlU2nUBV-yJP1zcJqy8Sm6dAr4xulmLfA/edit?usp=sharing)
-  * Customize the template for the following fields:
-    * The Interview date & time
-    * All Hands Q&A and Overview Meeting Date and Time
-    * Interview Clinic Start Time
-    * WebEx Link and Tips
+   * Customize the template for the following fields:
+     * The Interview date & time
+     * All Hands Q&A and Overview Meeting Date and Time
+     * Interview Clinic Start Time
+     * WebEx Link and Tips
  * Separately email Technical Lead & ScrumMaster (template 2): [Valuable Role](https://docs.google.com/a/civicactions.net/document/d/1Ox2_m0l7ag1LR7x6e8iG0vSJyvUtIoLKLZaXAblBbZY/edit?usp=sharing)
    * Explain why their role is valuable for interview & preparation
    * Provide additional documents for them to read
