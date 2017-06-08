@@ -29,8 +29,8 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
 
 
 * <b>Important Relationship Building Tips:</b>
-  * Communicate with the team <u><b>at least</u> once a week
-  * Invite the team to <u><b>at least</u> one pod call
+  * Communicate with the team <u><b>at least</b></u> once a week
+  * Invite the team to <u><b>at least</b></u> one pod call
 
 ## Step 2 - The interview was scheduled
 * If the client hasn’t notified the team by our projected date, send an email to the team with the status and state that we’re still waiting to hear back
