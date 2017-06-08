@@ -20,25 +20,25 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
     * State Dept XYZ Interview Prep To-Do List (ensure it’s accurate), Ex. [CWDS TPS3 Interview Prep To-Do List](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
 * Create an ""@lists.civicactions.net" mailing distribution list (dept-xyz-int)
 * Email the team using the mailing distribution list (Template 0): [Introductory Email](https://docs.google.com/a/civicactions.net/document/d/1cw08aEbvPm5lBfACCxTYBDHJO2lt6lP0tRT0oYCurfw/edit?usp=sharing)
- * Customize the template for the following fields:
-   * Timing & Dates
-   * Reading Materials
-   * Interview Questions
-   * Interview Format
+  * Customize the template for the following fields:
+    * Timing & Dates
+    * Reading Materials
+    * Interview Questions
+    * Interview Format
 * Provide access by adding all team members to the newly created Interview Prep Google Drive folder
 
 
- <b>Important Relationship Building Tips:</b>
-* Communicate with the team <u><b>at least</u> once a week
-* Invite the team to <u><b>at least</u> one pod call
+* <b>Important Relationship Building Tips:</b>
+  * Communicate with the team <u><b>at least</u> once a week
+  * Invite the team to <u><b>at least</u> one pod call
 
 ## Step 2 - The interview was scheduled
 * If the client hasn’t notified the team by our projected date, send an email to the team with the status and state that we’re still waiting to hear back
-   * Update the proposed timeline dates
+  * Update the proposed timeline dates
 * The client notifies of the intent to interview with time slot options
-   * The preferred time slot to interview is in the morning
-     * We get questions 24 hours before the interview and clinics will need to be scheduled with the team
-     * Clinics are more accommodating for team members in the afternoons/evenings
+  * The preferred time slot to interview is in the morning
+    * We get questions 24 hours before the interview and clinics will need to be scheduled with the team
+    * Clinics are more accommodating for team members in the afternoons/evenings
 * Create a Slack channel (dept-xyz-int)
 * Create WebEx meetings for the week (request from Owen)
 * Prepare new documents for the interview prep folder:
@@ -51,18 +51,18 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
   * State Dept XYZ Clinic Interview Question Responses (Template) [Clinic Interview Question Responses](https://docs.google.com/a/civicactions.net/document/d/1YrYg5OvscL0E80eYxCi-HVovVvVesSXAZZfuiG2FSDE/edit?usp=sharing)
     * Lists all actual questions and allows team members to note their answers and ratings in answering each question
     * Any additional reading materials they need to read (as needed)
- * Email team (template 1): [Selected for an interview](https://docs.google.com/a/civicactions.net/document/d/1Oy2Puys-sbMlU2nUBV-yJP1zcJqy8Sm6dAr4xulmLfA/edit?usp=sharing)
-   * Customize the template for the following fields:
-     * The Interview date & time
-     * All Hands Q&A and Overview Meeting Date and Time
-     * Interview Clinic Start Time
-     * WebEx Link and Tips
- * Separately email Technical Lead & ScrumMaster (template 2): [Valuable Role](https://docs.google.com/a/civicactions.net/document/d/1Ox2_m0l7ag1LR7x6e8iG0vSJyvUtIoLKLZaXAblBbZY/edit?usp=sharing)
-   * Explain why their role is valuable for interview & preparation
-   * Provide additional documents for them to read
- * Email team (template 3): [Reminder](https://docs.google.com/a/civicactions.net/document/d/1fXARLPBcbs2OyTsnYqqQeWciNq3ziKk26W8u_z7zlIY/edit?usp=sharing)
-   * First All Hands Q&A / Overview meeting
-   * Information about upcoming clinics
+  * Email team (template 1): [Selected for an interview](https://docs.google.com/a/civicactions.net/document/d/1Oy2Puys-sbMlU2nUBV-yJP1zcJqy8Sm6dAr4xulmLfA/edit?usp=sharing)
+    * Customize the template for the following fields:
+      * The Interview date & time
+      * All Hands Q&A and Overview Meeting Date and Time
+      * Interview Clinic Start Time
+      * WebEx Link and Tips
+  * Separately email Technical Lead & ScrumMaster (template 2): [Valuable Role](https://docs.google.com/a/civicactions.net/document/d/1Ox2_m0l7ag1LR7x6e8iG0vSJyvUtIoLKLZaXAblBbZY/edit?usp=sharing)
+    * Explain why their role is valuable for interview & preparation
+    * Provide additional documents for them to read
+  * Email team (template 3): [Reminder](https://docs.google.com/a/civicactions.net/document/d/1fXARLPBcbs2OyTsnYqqQeWciNq3ziKk26W8u_z7zlIY/edit?usp=sharing)
+    * First All Hands Q&A / Overview meeting
+    * Information about upcoming clinics
 
 ## Step 3 - Interview Kickoff
  * Facilitate the kickoff overview meeting with the team & one-on-ones (one full day)
