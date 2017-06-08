@@ -21,7 +21,12 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
 * Create an ""@lists.civicactions.net" mailing distribution list (dept-xyz-int)
 * Email the team using the mailing distribution list (Template 0): [Introductory Email](https://docs.google.com/a/civicactions.net/document/d/1cw08aEbvPm5lBfACCxTYBDHJO2lt6lP0tRT0oYCurfw/edit?usp=sharing)
   * Customize the template for the following fields:
-    * Timing & Dates
+    * Timing & Dates:
+      * Expectation to hear from State within 2 weeks
+      * Meet with the team for 2-3 days (same week we hear back or following week depending on if a M or F)
+      * Interview with the Client (same week we hear back or following week depending on if a M or F)
+      * Interview results (2 weeks after interview)
+      * List the projected project start date from RFO
     * Reading Materials
     * Interview Questions
     * Interview Format
@@ -29,8 +34,8 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
 
 
 * <b>Important Relationship Building Tips:</b>
-  * Communicate with the team <u><b>at least</u> once a week
-  * Invite the team to <u><b>at least</u> one pod call
+  * Communicate with the team <u><b>at least</b></u> once a week
+  * Invite the team to <u><b>at least</b></u> one pod call
 
 ## Step 2 - The interview was scheduled
 * If the client hasn’t notified the team by our projected date, send an email to the team with the status and state that we’re still waiting to hear back
