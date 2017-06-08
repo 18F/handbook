@@ -95,7 +95,7 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 #### 7. Sales and Marketing
 
 * [Service Catalog](docs/07-sales-and-marketing/service-catalog)
-* [California Agile](docs/07-sales-and-marketing/california-agile.md)
+* [California Agile](docs/07-sales-and-marketing/california-agile)
 * [Sales Guild](docs/07-sales-and-marketing/sales-guild.md)
 * [Sales Proposal Process](docs/07-sales-and-marketing/sales-proposal-process.md)
 * [CivicActions Website](docs/07-sales-and-marketing/civicactions-website.md)
