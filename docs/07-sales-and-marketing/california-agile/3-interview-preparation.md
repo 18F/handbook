@@ -65,54 +65,54 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
     * Information about upcoming clinics
 
 ## Step 3 - Interview Kickoff
- * Facilitate the kickoff overview meeting with the team & one-on-ones (one full day)
-   * Ensure we record the introduction meeting and get a shareable link
-   * Team members sign up via the clinic sign up sheet
- * Email team (template 4): [Next Steps](https://docs.google.com/a/civicactions.net/document/d/15UHOmrn5yYzM-RIlttULdSwfu2789TTt_zOtxTrHdh4/edit?usp=sharing)
-    *  Congratulating the team on a job well done
-    *  Provide a link to the recording of the Q&A overview
-    *  Includes the next steps/expectations
+* Facilitate the kickoff overview meeting with the team & one-on-ones (one full day)
+  * Ensure we record the introduction meeting and get a shareable link
+  * Team members sign up via the clinic sign up sheet
+* Email team (template 4): [Next Steps](https://docs.google.com/a/civicactions.net/document/d/15UHOmrn5yYzM-RIlttULdSwfu2789TTt_zOtxTrHdh4/edit?usp=sharing)
+  * Congratulating the team on a job well done
+  * Provide a link to the recording of the Q&A overview
+  * Includes the next steps/expectations
 
 ## Step 4 - Interview Questions Received
- * The client has provided the actual interview questions
- * Ensure all team members have signed up for clinics
- * Email team (template 5) [Official Interview Preparation](https://docs.google.com/a/civicactions.net/document/d/1bcgFX9t1RHiwx59VbyYKZfTl4a-rKNDbP7T6eRrrea0/edit?usp=sharing)
-    *  Explain that we have received the official interview questions
-    *  Include A/V connections notes
-    *  Reminder of helpful links
- * Clinic one-on-ones are held (one full day)
-    * The PM takes notes at all clinics for team members
-    * Use State Dept XYZ Clinic Interview Question Responses [Clinic Interview Question Responses](https://docs.google.com/a/civicactions.net/document/d/1YrYg5OvscL0E80eYxCi-HVovVvVesSXAZZfuiG2FSDE/edit?usp=sharing)
+* The client has provided the actual interview questions
+  * Ensure all team members have signed up for clinics
+  * Email team (template 5) [Official Interview Preparation](https://docs.google.com/a/civicactions.net/document/d/1bcgFX9t1RHiwx59VbyYKZfTl4a-rKNDbP7T6eRrrea0/edit?usp=sharing)
+    * Explain that we have received the official interview questions
+    * Include A/V connections notes
+    * Reminder of helpful links
+* Clinic one-on-ones are held (one full day)
+  * The PM takes notes at all clinics for team members
+  * Use State Dept XYZ Clinic Interview Question Responses [Clinic Interview Question Responses](https://docs.google.com/a/civicactions.net/document/d/1YrYg5OvscL0E80eYxCi-HVovVvVesSXAZZfuiG2FSDE/edit?usp=sharing)
     * Share the document link with each team member after their clinic
- * Email team (template 6) [Final Preparation Email](https://docs.google.com/a/civicactions.net/document/d/1SGbqj0xo55DnbpTvSerisLLb7o0dC0CtyX46ERa4pxI/edit?usp=sharing)
-    * Includes final preparation steps for the interview
-    * Reminder of the warm up time prior to the interview
-    * A list of all questions with team member's speaking order
-    * Any question(s) that need additional support
-    * Support Availability
+* Email team (template 6) [Final Preparation Email](https://docs.google.com/a/civicactions.net/document/d/1SGbqj0xo55DnbpTvSerisLLb7o0dC0CtyX46ERa4pxI/edit?usp=sharing)
+  * Includes final preparation steps for the interview
+  * Reminder of the warm up time prior to the interview
+  * A list of all questions with team member's speaking order
+  * Any question(s) that need additional support
+  * Support Availability
 
 
 ## Step 5 - Interview Warm Up
- * Morning warm up is 25 minutes before the interview with the whole team
- * The client interview is 75 minutes with the whole team
+* Morning warm up is 25 minutes before the interview with the whole team
+* The client interview is 75 minutes with the whole team
 
 ## Step 6 - Update and Communicate with the Team
- * Email the team (template 7) [Status Update](https://docs.google.com/a/civicactions.net/document/d/1BnCLVYYsU2rkN5ot5KgOf_xplIWRKxOyqoak1vn51Oo/edit?usp=sharing)
-    *  <u><b>At least</u> once a week about the status
- * The client notifies us of the contract win
- * Email team (template 8) [Interview Outcome](https://docs.google.com/a/civicactions.net/document/d/1oclVAKoMTMKA8bxygGihcRgKe0TNAvszNa-5reKBiWU/edit?usp=sharing)
-    *  We won, but keep the information internal
-    *  Award anticipation date
-    *  Proposed start date & hire date timing
- * Email team follow up (template 9) [Onsite Project Preparation](https://docs.google.com/a/civicactions.net/document/d/1P87vqYh6i5f64WjdUkfRG3srnq8LbMMTpOVXmESYtnY/edit?usp=sharing)
-    *  Proposed start date
-    *  Proposed retreat dates
- * Client notifies of official award & official start date
- * Email team (template TBD)
-    *  We have the award
-    *  Confirmation of start date
- * Team hire date & working agreements
+* Email the team (template 7) [Status Update](https://docs.google.com/a/civicactions.net/document/d/1BnCLVYYsU2rkN5ot5KgOf_xplIWRKxOyqoak1vn51Oo/edit?usp=sharing)
+  * <u><b>At least</u> once a week about the status
+* The client notifies us of the contract win
+* Email team (template 8) [Interview Outcome](https://docs.google.com/a/civicactions.net/document/d/1oclVAKoMTMKA8bxygGihcRgKe0TNAvszNa-5reKBiWU/edit?usp=sharing)
+  * We won, but keep the information internal
+  * Award anticipation date
+  * Proposed start date & hire date timing
+* Email team follow up (template 9) [Onsite Project Preparation](https://docs.google.com/a/civicactions.net/document/d/1P87vqYh6i5f64WjdUkfRG3srnq8LbMMTpOVXmESYtnY/edit?usp=sharing)
+  * Proposed start date
+  * Proposed retreat dates
+* Client notifies of official award & official start date
+* Email team (template TBD)
+  * We have the award
+  * Confirmation of start date
+* Team hire date & working agreements
 
 ## Step 7 - Retreat and Onsite Project Details
- * Team 3 day retreat & preparation
- * Project start date with the client
+* Team 3 day retreat & preparation
+* Project start date with the client
