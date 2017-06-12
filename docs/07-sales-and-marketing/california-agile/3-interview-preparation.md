@@ -103,7 +103,7 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
 
 ## Step 6 - Update and Communicate with the Team
 * Email the team (template 7) [Status Update](https://docs.google.com/a/civicactions.net/document/d/1BnCLVYYsU2rkN5ot5KgOf_xplIWRKxOyqoak1vn51Oo/edit?usp=sharing)
-  * <u><b>At least</u> once a week about the status
+  * <u><b>At least</b></u> once a week about the status
 * The client notifies us of the contract win
 * Email team (template 8) [Interview Outcome](https://docs.google.com/a/civicactions.net/document/d/1oclVAKoMTMKA8bxygGihcRgKe0TNAvszNa-5reKBiWU/edit?usp=sharing)
   * We won, but keep the information internal
