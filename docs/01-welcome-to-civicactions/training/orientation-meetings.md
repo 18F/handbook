@@ -13,7 +13,7 @@
   * Anti-Harassment Training
 * Review and acknowledge Conflict of Interest (COI) plan here [COI](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit)
 
-### First Orientation 
+### First Orientation
 * Get started with Trello (30 minutes)
   * Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
   * Getting started [guide](https://trello.com/guide)
@@ -102,7 +102,7 @@ Review [Virtual Workplace Basics](04-how-we-work/virtual-workplace-basics.md):
 - Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account (30 minutes)
 - Introduction to copywriter / editor
 - [Update resume into CivicActions template](../team-resume-instructions.md) (2 hours)
-- Write your CivicActions bio w photo (4 hours)
+- [Write your CivicActions bio w photo](../civicactions-bio-instructions.md) (4 hours)
 
 Afternoon check-in with your onboarding manager
 
