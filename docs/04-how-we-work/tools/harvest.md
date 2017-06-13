@@ -88,6 +88,8 @@ Here is a quick overview of the expenses feature in Harvest:
 
 ![Harvest screenshot 10](../../../images/harvest10.png)
 
+![Harvest screenshot 11](../../../images/harvest11.png)
+
 ## <a name="tracking-paid-time-off"></a>Tracking Paid Time Off (PTO)
 
 We track vacation, leave and sick time and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. PTO will not negatively impact your billable hour percentage.
@@ -108,7 +110,7 @@ You do NOT need to log entries when the office is closed for Holiday
 * 4 hours if it's a half day
 * anything under 4 hours should not be recorded
 
-![Harvest screenshot 11](../../../images/harvest11.png)
+![Harvest screenshot 12](../../../images/harvest11.png)
 
 ## Harvest Phone App
 
