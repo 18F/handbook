@@ -110,7 +110,7 @@ Afternoon check-in with your onboarding manager
 ## <a name="day3"></a>Day 3
 
 ### Project Overview Info (part 2)
-* [How to create a ticket/card]((../../04-how-we-work/tickets-cards.md)
+* [How to create a ticket or card](../../04-how-we-work/tickets-cards.md)
 * Story point estimating
 * Install Chrome browser extensions (30 minutes)
 * CivicActions Agile (which includes intro to Agile Baseline) (1 hour)
