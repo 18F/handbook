@@ -79,8 +79,8 @@
 * Intro to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 * Read about the [Gold Star Program](../../04-how-we-work/gold-star-program.md) (15 minutes)
 * Watch Scrum training videos: Introduction to Scrum (1 hour)
-  * http://scrumtrainingseries.com/
-  * (Same videos w additional text support): http://scrummethodology.com/
+  * [Scrum Training Series videos](http://scrumtrainingseries.com/)
+  * [Scrum Methodology \(Same videos w additional text support\)](http://scrummethodology.com/)
 
 ### Virtual Workplace Basics
 Review [Virtual Workplace Basics](04-how-we-work/virtual-workplace-basics.md):
