@@ -20,7 +20,7 @@
   * "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
   * Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
 * Introduction to the [mentoring program](mentoring-program.md)
-* Where to [Direct Questions](general-contacts-and-listservs.md)
+* Where to [Direct Questions](../../02-about-us\general-contacts-and-listservs.md)
 * Working hours expectations:
   * Flexibility
   * Have a general set schedule / core hours
@@ -37,10 +37,10 @@
 
 ### Time Tracking
 * Read the [Harvest documentation](how-we-work/harvest.md) on logging time (30 minutes)
-* Review account in [harvest](how-we-work/harvest.md#updateyourprofile) (15 minutes)
-* Read the submitting [expenses process](how-we-work/harvest.md#trackingexpenses) (15 minutes)
+* Review account in [harvest](how-we-work/harvest.md) (15 minutes)
+* Read the submitting [expenses process](how-we-work/harvest.md) (15 minutes)
 * How to log [onboarding time](how-we-work/harvest.md#loggingtime)
-* Logging Meetings as an [Engineer](how-we-work/harvest.md#submittingyourtimesheet) / [PM](how-we-work/harvest.md#loggingtime)
+* Logging Meetings as an [Engineer](how-we-work/harvest.md) / [PM](how-we-work/harvest.md)
 * Explanation submission of hours worked
 
 ### Communication tools
