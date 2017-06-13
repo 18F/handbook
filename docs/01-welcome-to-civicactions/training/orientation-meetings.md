@@ -38,21 +38,21 @@
 ### Time Tracking
 * Read the [Harvest documentation](../../04-how-we-work\tools\harvest.md) on logging time (30 minutes)
 * Review account in [harvest](../../04-how-we-work\tools\harvest.md) (15 minutes)
-* Read the submitting [expenses process](docs\04-how-we-work\tools\harvest.md) (15 minutes)
+* Read the submitting [expenses process](../../04-how-we-work\tools\harvest.md) (15 minutes)
 * How to log [onboarding time](../../04-how-we-work\tools\harvest.md)
 * Logging Meetings as an [Engineer](../../04-how-we-work\tools\harvest.md) / [PM](../../04-how-we-work\tools\harvest.md)
 * Explanation submission of [hours worked](../../04-how-we-work\tools\harvest.md)
 
 ### Communication tools
-Slack
-Google Apps
-Email
-Calendar
-Introduction to how we use the calendar
-Hangouts
-Drive/Docs
-Telephone Use
-Download, setup, and review basic communication tools (1 hour)
+* Slack
+* Google Apps
+  * Email
+  * Calendar
+  * Introduction to how we use the calendar
+  * Hangouts
+  * Drive/Docs
+* Telephone Use
+* Download, setup, and review basic communication tools (1 hour)
 
 ### Get to know your Colleagues
 Balance Scores
