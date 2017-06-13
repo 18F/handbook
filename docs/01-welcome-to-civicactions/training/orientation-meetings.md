@@ -65,7 +65,6 @@
 * Review vacation time / requests [policies](../../03-policies/benefits.md#pto) (1 hour)
 * Do you have any pre-approved time off requests? (15 minutes)
   * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure Judy is aware and then you mention them to your onboarding manager. There is still a formal request off procedure that you'll need to do so we make sure the right dates get documented & marked in the calendar. Your onboarding manager can walk you through that process.
-
 * Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays) (15 minutes)
 * Review & update [Resource Guru profile](../../04-how-we-work/tools/resource-guru.md#updatingprofile) (30 minutes)
 * Review [Professional development & community participation](../../03-policies/prodev-community-participation.md) (30 minutes)
@@ -92,10 +91,7 @@ Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.
 
 ### Aligning Yourself with CivicActions
 * Create email signature (15 minutes)
-  * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. See the image below.
-
-    ![Harvest screenshot 11](../../../images/emailsig1.png)
-
+  * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
 * Update LinkedIn & social media accounts with CivicActions as company (30 minutes)
   * Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
   * Update your skills on LinkedIn
