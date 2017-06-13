@@ -20,9 +20,9 @@ A mentor typically has been with CivicActions for at least six months to one yea
 * Share some “pro-tips” with your new hire. These are typically work shortcuts and tools that make life easier. Example: Ctrl+D in Hangouts is a mute/unmute button.
 
 ## Mentor To-Do Checklist
-* [ ] Set up and attend regular check in meetings with your new hire
-* [ ] Answer questions
-* [ ] Stimulate conversation
+* Set up and attend regular check in meetings with your new hire
+* Answer questions
+* Stimulate conversation
 
 ## Template: Initial email to new hire from Onboarding Manager
 _(For reference only. Onboarding manager will send this._

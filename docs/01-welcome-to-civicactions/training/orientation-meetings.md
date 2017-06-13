@@ -19,8 +19,8 @@
   * Getting started [guide](https://trello.com/guide)
   * "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
   * Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
-* Introduction to the mentoring program
-* Where to Direct Questions
+* Introduction to the [mentoring program](mentoring-program.md)
+* Where to [Direct Questions](../../02-about-us\general-contacts-and-listservs.md)
 * Working hours expectations:
   * Flexibility
   * Have a general set schedule / core hours
@@ -35,29 +35,33 @@
     * Full time on one project: 85% (34 hours / week)
     * Also remember our 5% ProDev & CommPart commitments
 
+### Time Tracking
+* Read the [Harvest documentation](../../04-how-we-work\tools\harvest.md) on logging time (30 minutes)
+* Review account in [harvest](../../04-how-we-work\tools\harvest.md) (15 minutes)
+* Read the submitting [expenses process](../../04-how-we-work\tools\harvest.md) (15 minutes)
+* How to log [onboarding time](../../04-how-we-work\tools\harvest.md)
+* Logging Meetings as an [Engineer](../../04-how-we-work\tools\harvest.md) / [PM](../../04-how-we-work\tools\harvest.md)
+* Explanation submission of [hours worked](../../04-how-we-work\tools\harvest.md)
 
+### Communication tools
+* Slack
+* Google Apps
+  * Email
+  * Calendar
+  * Introduction to how we use the calendar
+  * Hangouts
+  * Drive/Docs
+* Telephone Use
+* Download, setup, and review basic communication tools (1 hour)
 
+### Get to know your Colleagues
+Balance Scores
+All hands call/Bluejeans
+Review Org Chart (15 minutes)
+Review Team Bios (1 hour)
+Intro to pods/Pod-specific practices
 
-
-* Introduction to [Benefits](../../03-policies/benefits.md)
-* Discussion of [working hours expectations](../../03-policies/workplace-guidelines.md) and flexibility
-* Have a general set schedule / core hours
-* Put appointments in your personal calendar
-* Ping Slack if you're just going offline for a short while
-* Basically, let your team know if/when you're not available
-* Over-communicate if you're going offline (vacation, lunch, appointment, etc.)
-* Attend pre-scheduled meetings and notify your manager/PM if you can't be
-* Introduction to billable utilization goals:
-* Split projects: 80% (32 hours / week)
-* Full time on one project: 85% (34 hours / week)
-* [5% ProDev & CommPart](../../03-policies/prodev-community-participation.md)
-* Introduction to [Harvest: logging time](../../04-how-we-work/tools/harvest.md)
-* Introduction to Balance Scores
-* Introduction to how we use the [calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
-* Introduction to [All Hands Call](meetings-and-meeting-tools.md)/Bluejeans
-* Relevant Project Introductions
-* Introduction to [Scrum call](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md) structure
-* Introduction to how we use [Jira](../../04-how-we-work/tools/trello.md) and [Trello](../../04-how-we-work/tools/trello.md)
+Afternoon check-in with your onboarding manager
 
 ## <a name="day2"></a>Day 2
 
