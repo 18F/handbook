@@ -21,14 +21,14 @@ Then:
   insert image
 * If you're a Project Manager: CA > Delivery > Project Management
 insert image
-  * Types of meetings: All hands call, Weekly Agile PM Meeting, Pod Calls, Monthly All Hands Call, Check-ins with team members on performance & balance, etc
+* Types of meetings: All hands call, Weekly Agile PM Meeting, Pod Calls, Monthly All Hands Call, Check-ins with team members on performance & balance, etc
 insert image
 * Onboarding
 Enter a description like the below examples in the task description that includes the word "onboarding"
-  * Onboarding Meeting
-  * Onboarding handbook and/or trello board cards review
-  * Onboarding watching scrum videos
-  * Onboarding resume and bio work
+* Onboarding Meeting
+* Onboarding handbook and/or trello board cards review
+* Onboarding watching scrum videos
+* Onboarding resume and bio work
 
 ## Submitting Your Timesheet
 
