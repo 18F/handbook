@@ -62,47 +62,47 @@
 ## <a name="day2"></a>Day 2
 
 ### Time Off and Scheduling
-- Review vacation time / requests [policies](../../03-policies/benefits.md#pto) (1 hour)
-- Do you have any pre-approved time off requests? (15 minutes)
-  - Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure Judy is aware and then you mention them to your onboarding manager. There is still a formal request off procedure that you'll need to do so we make sure the right dates get documented & marked in the calendar. Your onboarding manager can walk you through that process.
+* Review vacation time / requests [policies](../../03-policies/benefits.md#pto) (1 hour)
+* Do you have any pre-approved time off requests? (15 minutes)
+  * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure Judy is aware and then you mention them to your onboarding manager. There is still a formal request off procedure that you'll need to do so we make sure the right dates get documented & marked in the calendar. Your onboarding manager can walk you through that process.
 
-- Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays) (15 minutes)
-- Review & update [Resource Guru profile](../../04-how-we-work/tools/resource-guru.md#updatingprofile) (30 minutes)
-- Review [Professional development & community participation](../../03-policies/prodev-community-participation.md) (30 minutes)
+* Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays) (15 minutes)
+* Review & update [Resource Guru profile](../../04-how-we-work/tools/resource-guru.md#updatingprofile) (30 minutes)
+* Review [Professional development & community participation](../../03-policies/prodev-community-participation.md) (30 minutes)
 
 ### Project Overview Info (part 1)
-- Relevant Project Introductions
-  - Connect new hire with appropriate person to walk through each project if it's not the onboarding manager
-  - Discuss the project that the new team member will be introduced to.
-  - Discuss: goals of the project, Product Owner, stakeholders, team members, technologies used, ticket review, project status
-- Manager to introduce [Scrum Call structure](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md)
-- Intro to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
-- Read about the [Gold Star Program](../../04-how-we-work/gold-star-program.md) (15 minutes)
-- Watch Scrum training videos: Introduction to Scrum (1 hour)
-  - http://scrumtrainingseries.com/
-  - (Same videos w additional text support): http://scrummethodology.com/
+* Relevant Project Introductions
+  * Connect new hire with appropriate person to walk through each project if it's not the onboarding manager
+  * Discuss the project that the new team member will be introduced to.
+  * Discuss: goals of the project, Product Owner, stakeholders, team members, technologies used, ticket review, project status
+* Manager to introduce [Scrum Call structure](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md)
+* Intro to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
+* Read about the [Gold Star Program](../../04-how-we-work/gold-star-program.md) (15 minutes)
+* Watch Scrum training videos: Introduction to Scrum (1 hour)
+  * http://scrumtrainingseries.com/
+  * (Same videos w additional text support): http://scrummethodology.com/
 
 ### Virtual Workplace Basics
 Review [Virtual Workplace Basics](04-how-we-work/virtual-workplace-basics.md):
-- Starting and Ending a Day with a Remote Team
-- Heading offline for short periods of time
-- Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) (15 minutes)
-- Talking Timezones
-- Communication Best Practices
+* Starting and Ending a Day with a Remote Team
+* Heading offline for short periods of time
+* Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) (15 minutes)
+* Talking Timezones
+* Communication Best Practices
 
 ### Aligning Yourself with CivicActions
-- Create email signature (15 minutes)
-  - Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. See the image below.
+* Create email signature (15 minutes)
+  * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. See the image below.
 
     ![Harvest screenshot 11](../../../images/emailsig1.png)
 
-- Update LinkedIn & social media accounts with CivicActions as company (30 minutes)
-  - Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
-  - Update your skills on LinkedIn
-- Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account (30 minutes)
-- Introduction to copywriter / editor
-- [Update resume into CivicActions template](../team-resume-instructions.md) (2 hours)
-- [Write your CivicActions bio w photo](../civicactions-bio-instructions.md) (4 hours)
+* Update LinkedIn & social media accounts with CivicActions as company (30 minutes)
+  * Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
+  * Update your skills on LinkedIn
+* Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account (30 minutes)
+* Introduction to copywriter / editor
+* [Update resume into CivicActions template](../team-resume-instructions.md) (2 hours)
+* [Write your CivicActions bio w photo](../civicactions-bio-instructions.md) (4 hours)
 
 Afternoon check-in with your onboarding manager
 
