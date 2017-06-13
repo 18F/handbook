@@ -109,31 +109,60 @@ Afternoon check-in with your onboarding manager
 
 ## <a name="day3"></a>Day 3
 
-> @todo [Add Day 3 Agenda](https://trello.com/c/zYHXzIpr/102-add-missing-orientation-meeting-agendas-to-orientation-meetings-md)
+### Project Overview Info (part 2)
+* [How to create a ticket/card]((../../04-how-we-work/tickets-cards.md)
+* Story point estimating
+* Install Chrome browser extensions (30 minutes)
+* CivicActions Agile (which includes intro to Agile Baseline) (1 hour)
 
-Morning Meeting with Onboarding Colleague
-How to create a ticket/card
-Story point estimating
-Intro to pods/Pod-specific practices
+### Versioning Systems and Development Process
+* Read about the difference between Git, GitLab, GitHub (30 minutes)
+* Read about Git and SSH (30 minutes)
+* Read about Dev workflows: Dev, QA, Live, and Sandbox sites overview (30 minutes)
 
+### Security for Everyone
+* Review and Acknowledge Security Policy (1 hour)
+* Overview of password management
+* Set up Lastpass (15 minutes)
+* Set up TFA (30 minutes)
+* Complete Security Checklist (1 hour)
+* Take this online PII course (1 hour)
 
-Agile and Scrum at CivicActions: combination of videos, reading, and training (part 2)
-CivicActions Agile (which includes intro to Agile Baseline)
-
-Security for Everyone (2 hours) (with Fen?)
-Review and Acknowledge Security Policy
-Set up Lastpass
-Set up TFA
-Complete Security Checklist
-Take PII online course
-
-Afternoon check-in call
+Afternoon check-in with your onboarding manager
 
 
 ## <a name="day4"></a>Day 4
 
-> @todo [Add Day 4 Agenda](https://trello.com/c/zYHXzIpr/102-add-missing-orientation-meeting-agendas-to-orientation-meetings-md)
+### UX for Everyone
+* Story mapping/Stories On Board
+* UX-Agile
+* MyBalsamiq
+
+### Tasks to complete in the next two weeks
+* Skillset Survey (1 hour)
+* Read about Markdown (30 minutes)
+* Bookmark Introduction to Presentation Slides Template (15 minutes)
+* Review CivicActions Elevator Pitch (30 minutes)
+
+### Role-based training/orientation
+* PM track
+  * Review [Project Management Training](../../06-project-management/pm-training-doc.md).
+* Engineering track
+* UX/Content Strategy/Design track
+  * (review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products))
+
+Afternoon check-in with your onboarding manager
+
 
 ## <a name="day5"></a>Day 5
 
-> @todo [Add Day 5 Agenda](https://trello.com/c/zYHXzIpr/102-add-missing-orientation-meeting-agendas-to-orientation-meetings-md)
+As needed additional role-based training/orientation (PM track or Engineering or UX/Content Strategy/Design track)
+
+Continue to work on these tasks today:
+* Resume & bio should to be completed by end of Day 5
+* Any additional tasks from above days that have not yet been completed
+* Skillset Survey
+* Begin to Learn Markdown
+* CivicActions Elevator Pitch
+
+Afternoon check-in with your onboarding manager
