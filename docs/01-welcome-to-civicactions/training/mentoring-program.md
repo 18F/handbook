@@ -27,9 +27,9 @@ A mentor typically has been with CivicActions for at least six months to one yea
 ## Template: Initial email to new hire from Onboarding Manager
 _(For reference only. Onboarding manager will send this._
 
-[Mentor], I thought you would be a good mentor to team up with [new hire] as s/he's still getting his feet wet with CivicActions. [new hire] is a [role] working on the [project]. S/He started on [date] with us.
-[New hire] has made great progress with settling into her/his project & role here, but there are inevitably still questions, best practices, workflows, etc that you two can work through.
-[New hire] feel free to reach out to [mentor] with any [role] related questions. I am still always available for a touch point as well!
+\[Mentor\], I thought you would be a good mentor to team up with \[new hire\] as s/he's still getting his feet wet with CivicActions. new hire is a \[role\] working on the project. S/He started on \[date\] with us.
+\[New hire\] has made great progress with settling into her/his project & role here, but there are inevitably still questions, best practices, workflows, etc that you two can work through.
+\[New hire\] feel free to reach out to \[mentor\] with any \[role\] related questions. I am still always available for a touch point as well!
 
 
 I would love to see the two of you schedule a 15-30+ minute touch point twice a week for the next month. This can start anytime this week for the first one. Find a time slot that works for both of you and make a standing meeting hangout for the next 4 weeks.
