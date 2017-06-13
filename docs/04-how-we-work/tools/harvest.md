@@ -110,7 +110,7 @@ You do NOT need to log entries when the office is closed for Holiday
 * 4 hours if it's a half day
 * anything under 4 hours should not be recorded
 
-![Harvest screenshot 12](../../../images/harvest11.png)
+![Harvest screenshot 12](../../../images/harvest12.png)
 
 ## Harvest Phone App
 
