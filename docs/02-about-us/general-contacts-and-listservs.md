@@ -2,10 +2,19 @@
 
 ## General Contacts
 
+We have a fairly flat structure, so feel free to contact anyone who you think can answer your question. If that team member cannot, they will direct you to the person who can.
+
 * Pay-stubs, hiring paperwork, expense reimbursements: <a href="mailto:judy.raiten@civicactions.com">Judy Raiten</a>
 * Technical questions, specific project questions: <a href="mailto:owen.barton@civicactions.com">Owen Barton</a>
 * Non-technical questions, scrum & process questions: <a href="mailto:elizabeth.raley@civicactions.com">Elizabeth Raley </a>
-* Pod PMs: <a href="mailto:steve.curtis@civicactions.com">Steve Curtis</a> (Hydra), <a href="mailto:alaine.karoleff@civicactions.com">Alaine Karoleff</a> (Orion), <a href="mailto:jason.heaster@civicactions.com">Jason Heaster</a> (Pyxis)
+* Pod PMs: <a href="mailto:steve.curtis@civicactions.com">Steve Curtis</a> (Hydra), <a href="mailto:susie.bird@civicactions.com">Susie Bird</a> (Orion), <a href="mailto:jason.heaster@civicactions.com">Jason Heaster</a> (Pyxis)
+* Referring New Hires: <a href="mailto:aaron.pava@civicactions.com">Aaron Pava</a>, and/or <a href="mailto:elizabeth.raley@civicactions.com">Elizabeth Raley</a>
+* Company Goals: <a href="mailto:aaron.pava@civicactions.com">Aaron Pava</a>, and/or <a href="mailto:elizabeth.raley@civicactions.com">Elizabeth Raley</a>
+* Marketing related questions or ideas: <a href="mailto:aaron.pava@civicactions.com">Aaron Pava</a>
+* Sales related questions or ideas: <a href="mailto:bill.ogilvie@civicactions.com">Bill Ogilvie</a>, and/or <a href="mailto:steve.curtis@civicactions.com">Steve Curtis</a>
+* Conferences & professional development, prof dev stipend: <a href="mailto:owen.barton@civicactions.com">Owen Barton</a>, and/or <a href="mailto:elizabeth.raley@civicactions.com">Elizabeth Raley</a>
+* Time-off, vacation, leave, sick time: <a href="mailto:steve.curtis@civicactions.com">Steve Curtis</a>, <a href="mailto:alaine.karoleff@civicactions.com">Alaine Karoleff</a>, your PM
+* When I'm concerned about something else: <a href="mailto:owen.barton@civicactions.com">Owen Barton</a>, <a href="mailto:elizabeth.raley@civicactions.com">Elizabeth Raley</a>, or <a href="mailto:alaine.karoleff@civicactions.com">Alaine Karoleff</a>
 
 ## Team Contact Information
 

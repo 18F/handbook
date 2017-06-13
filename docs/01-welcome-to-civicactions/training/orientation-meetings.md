@@ -13,14 +13,14 @@
   * Anti-Harassment Training
 * Review and acknowledge Conflict of Interest (COI) plan here [COI](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit)
 
-### First Orientation 
+### First Orientation
 * Get started with Trello (30 minutes)
   * Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
   * Getting started [guide](https://trello.com/guide)
   * "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
   * Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
-* Introduction to the mentoring program
-* Where to Direct Questions
+* Introduction to the [mentoring program](mentoring-program.md)
+* Where to [Direct Questions](general-contacts-and-listservs.md)
 * Working hours expectations:
   * Flexibility
   * Have a general set schedule / core hours
@@ -35,6 +35,33 @@
     * Full time on one project: 85% (34 hours / week)
     * Also remember our 5% ProDev & CommPart commitments
 
+### Time Tracking
+* Read the [Harvest documentation](how-we-work/harvest.md) on logging time (30 minutes)
+* Review account in [harvest](how-we-work/harvest.md#updateyourprofile) (15 minutes)
+* Read the submitting [expenses process](how-we-work/harvest.md#trackingexpenses) (15 minutes)
+* How to log [onboarding time](how-we-work/harvest.md#loggingtime)
+* Logging Meetings as an [Engineer](how-we-work/harvest.md#submittingyourtimesheet) / [PM](how-we-work/harvest.md#loggingtime)
+* Explanation submission of hours worked
+
+### Communication tools
+Slack
+Google Apps
+Email
+Calendar
+Introduction to how we use the calendar
+Hangouts
+Drive/Docs
+Telephone Use
+Download, setup, and review basic communication tools (1 hour)
+
+### Get to know your Colleagues
+Balance Scores
+All hands call/Bluejeans
+Review Org Chart (15 minutes)
+Review Team Bios (1 hour)
+Intro to pods/Pod-specific practices
+
+Afternoon check-in with your onboarding manager
 
 
 
