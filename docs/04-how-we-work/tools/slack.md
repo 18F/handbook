@@ -1,5 +1,4 @@
 #Slack
-
 ## Basics
 * We use slack for chatting tool
 * Helps us stay transparent
