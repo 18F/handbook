@@ -119,4 +119,4 @@ There are three ways to contribute to the Handbook: the lazy way, the easy way a
 * [Privacy and Encryption](09-security/encryption.md)
 * [Yubikey](09-security/yubikey)
 
-#### [CHANGE LOG](CHANGELOG.md)
+#### [CHANGE LOG](../CHANGELOG.md)
