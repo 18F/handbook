@@ -58,7 +58,7 @@
 ### Get to know your Colleagues
 * [Balance Scores](../../04-how-we-work/balance-scores.md)
 * [All hands calls](meetings-and-meeting-tools.md#ahc) and [Bluejeans/Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom)
-* Review [Org Chart]((https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing)) (15 minutes)
+* Review [Org Chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing) (15 minutes)
 * Review [Team Bios](https://civicactions.com/team/) (1 hour)
 * Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)/Pod-specific practices
 
@@ -117,7 +117,7 @@ Afternoon check-in with your onboarding manager
 * [CivicActions Agile (which includes intro to Agile Baseline)](../../04-how-we-work/agileoverview.md) (1 hour)
 
 ### Versioning Systems and Development Process
-* Read about the difference between Git, GitLab, GitHub (30 minutes)
+* Read about the difference between [Git, GitLab, GitHub, Bitbucket](../../05-engineering/git-gitlab-github-bitbucket.md) (30 minutes)
 * Read about Git and SSH (30 minutes)
 * Read about Dev workflows: Dev, QA, Live, and Sandbox sites overview (30 minutes)
 
