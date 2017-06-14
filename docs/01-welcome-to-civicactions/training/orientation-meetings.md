@@ -31,9 +31,9 @@
   * Be at the pre-scheduled meetings & tell manager if you can't attend
   * Be able to get your work done within your timebox
   * We aim for the following billable utilization:
-      * Split projects: 80% (32 hours / week)
-      * Full time on one project: 85% (34 hours / week)
-      * Also remember our 5% ProDev & CommPart commitments
+    * Split projects: 80% (32 hours / week)
+    * Full time on one project: 85% (34 hours / week)
+    * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 * Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md) on logging time (30 minutes)
@@ -44,14 +44,15 @@
 * Explanation submission of [hours worked](../../04-how-we-work/tools/harvest.md)
 
 ### Communication tools
-* [Slack](../../04-how-we-work/tools/slack.md)
-* [Google Apps](../../04-how-we-work\tools/googleapps.md)
-  * [Email](../../04-how-we-work/tools/googleapps.md#email)
-  * [Calendar](../../04-how-we-work/tools/googleapps.md#calendar)
-  * [Hangouts](../../04-how-we-work/tools/googleapps.md#hangouts)
-  * [Drive and Docs](../../04-how-we-work/tools/googleapps.md#drive)
-* Telephone Use
-* Download, setup, and review basic communication tools (1 hour)
+[Review Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md)
+* [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
+* [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
+  * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
+  * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
+  * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
+  * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+* [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
+* Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md) (1 hour)
 
 ### Get to know your Colleagues
 Balance Scores
