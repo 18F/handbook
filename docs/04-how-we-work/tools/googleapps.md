@@ -7,7 +7,7 @@
 #### Internal
 * ca-team for all team wide communication, and important announcements (slack #announcements used often too)
 * ca-employees is generally low traffic and used for HR notices, etc
-* projectname-[functionalgroup] -teamname, etc
+* projectname-\[functionalgroup\] -teamname, etc
 * Every project has it's own list - a way to overhear each other
 
 #### Client lists
@@ -67,10 +67,10 @@ Consider using filers to help manage you mail in preparation for quick archive
 
 ### Available Commands
 
-* /to, /msg [user] [message] - Sends an inline private message to the specified user.
+* /to, /msg \[user\] [message] - Sends an inline private message to the specified user.
 * /shortcuts - Open keyboard shortcut help screen
 * /help, /? - Displays a list of command descriptions and usages.
-* /goto [user] - Opens the profile of the specified user in a new tab.
+* /goto \[user\] - Opens the profile of the specified user in a new tab.
 * /mute - Mutes the audio of the caller.
 * /unmute - Unmutes the audio of the caller.
 * /vmute - Mutes the video of the caller.
