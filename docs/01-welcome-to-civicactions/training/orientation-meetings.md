@@ -49,17 +49,18 @@
 * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
   * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
   * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
+    * [How We Use the Calendar](meetings-and-meeting-tools.md#calendar)
   * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
   * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
 * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
 * Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md) (1 hour)
 
 ### Get to know your Colleagues
-Balance Scores
-All hands call/Bluejeans
-Review Org Chart (15 minutes)
-Review Team Bios (1 hour)
-Intro to pods/Pod-specific practices
+* [Balance Scores](../../04-how-we-work/balance-scores.md)
+* [All hands calls](meetings-and-meeting-tools.md#ahc) and [Bluejeans/Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom)
+* Review [Org Chart]((https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing)) (15 minutes)
+* Review [Team Bios](https://civicactions.com/team/) (1 hour)
+* Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)/Pod-specific practices
 
 Afternoon check-in with your onboarding manager
 
