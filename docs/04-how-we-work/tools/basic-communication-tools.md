@@ -14,9 +14,8 @@
 * We default to open, so when in doubt, message the group in a public channel instead of a direct message, or one-on-one.
 * There are a wide variety of different channels you can join, from work-related to topic-related.
 * Mandatory channels include: General, Announcements, Engineering or PM, your Pod, your project channels
-* Recommended channels: Random, SOTD, QOTD, Onboarding
+* Recommended channels: how-we-work, random, sotd, qotd, gold-star, prodev
 * The [Announcements channel](https://civicactions.slack.com/messages/announcements/details/) is for **announcements only**. All replies or conversation regarding announcements can transpire in the [General channel](https://civicactions.slack.com/messages/general/). Keeping announcements chatter to a minimum ensures that anyone who hasn't been paying attention to the General or other channels will be able to quickly locate important or not-to-be-missed information.
-* An [Onboarding channel](https://civicactions.slack.com/messages/onboarding/) exists which you can use for any general onboarding questions if needed.
 
 ### Notifications
 
@@ -26,13 +25,13 @@
 
 ### Tips
 
-* Consider using the word "ping" to check on the availability of someone
-* You can adjust notification preferences:
-  ![Slack Notifications](../../../images/slack-notifications.png).
-* Wrap your text in single *asterisks* for bold, *underscores* for italics, `grave accents` for code, and start the line with a > sign to make it a block quote. ![Formatting in Slack](../../../images/slack-formatting.png "Slack Formatting") is similar to Markdown.
-* To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (`Your code here. Some more code.`). ![Wrapping code](../../images/backticks.png "Wrapping code").
+* Consider using the word "ping" to check on the availability of someone 
 * Create a Google Hangout from Slack: type **/hangout** (will need to authorize the slack app in hangout too)
 * To quickly bring back the last message you sent back to the text box, just press the Up arrow key.
+* You can adjust notification preferences:
+  ![Slack Notifications](../../../images/slack-notifications.png).
+* Wrap your text in single asterisks for **bold**, underscores for *italics*, `grave accents` for code, and start the line with a > sign to make it a block quote. ![Formatting in Slack](../../../images/slack-formatting.png "Slack Formatting") is similar to Markdown.
+* To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (`Your code here. Some more code.`). ![Wrapping code](../../images/backticks.png "Wrapping code").
 
 ### Further Reading
 
@@ -43,14 +42,12 @@
 
 ### <a name="gmail"></a>Email
 
-#### Lists
-
-##### Internal
+##### Internal lists
 
 * We use ca-team@lists.civicactions.net for all team wide communication, and important announcements (slack #announcements used often too)
-* We us ca-employees@lists.civicactions.net for HR notices, etc. (it is generally low traffic)
-* Other email lists: ca-\[functionalgroup] -hydra, -orion -sales, -dev, -team, etc.
-* Every project has its own list - a way to overhear each other
+* We use ca-employees@lists.civicactions.net for HR notices, etc. (it is generally low traffic)
+* Other email lists: ca-\[functionalgroup] -sales, -dev, -team, etc.
+* Every project has its own list as a way to overhear each other
 
 ##### Client and staff lists
 
@@ -90,15 +87,14 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 #### Best Practices
 
 * Be on time - please! Every 10 seconds actually matters
-* Add a photo to your account so it shows up in Hangout
+* Add a photo to your account so it shows up in Hangout if your camera is off
 * We use the chat and screensharing features often
 * Turn off your camera or reduce bandwidth if connection is poor
-* Use the mute button so mute is transparent to all (vs headphone muting)
 * Use some kind of headset or headphones instead of relying solely on computer mic (computer mics can sometimes create echoes)
-* You can also use the Hangout to call people in via phone: ![call people in via phone](../../images/hangouts-phone.png "Call from hangouts")
-* We can invite people outside of CivicActions, too
 * Use proper etiquette for Hangout professionalism (consider the appropriateness of background visuals/noise, attire/dress, use of effects, eating, muting, etc.)
 * It's okay to mute other each other
+* We can invite people outside of CivicActions, too
+* You can also use the Hangout to call people in via phone: ![call people in via phone](../../images/hangouts-phone.png "Call from hangouts")
 
 #### Available Commands
 
@@ -129,7 +125,7 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 
 ## <a name="bluejeans-zoom"></a>Zoom
 
-* We use [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and montly All Hands Calls. To participate, you may download the Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
+* We use [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and monthly All Hands Calls. To participate, you may download the Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
 
 ## <a name="telephone-use"></a>Telephone Use
 
