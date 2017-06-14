@@ -35,10 +35,10 @@ Then:
 
 Enter a description like the below examples in the task description that includes the word "onboarding"
 
-  * Onboarding Meeting
-  * Onboarding handbook and/or trello board cards review
-  * Onboarding watching scrum videos
-  * Onboarding resume and bio work
+* Onboarding Meeting
+* Onboarding handbook and/or trello board cards review
+* Onboarding watching scrum videos
+* Onboarding resume and bio work
 
 ## Submitting Your Timesheet
 
