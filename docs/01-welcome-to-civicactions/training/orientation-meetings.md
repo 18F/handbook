@@ -56,11 +56,11 @@ Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs
 [Review Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md)
 * [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
 * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
-    * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
-    * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
-        * [How We Use the Calendar](meetings-and-meeting-tools.md#calendar)
-    * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
-    * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+  * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
+  * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
+    * [How We Use the Calendar](meetings-and-meeting-tools.md#calendar)
+  * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
+  * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
 * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
 * Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md) (1 hour)
 
@@ -132,10 +132,10 @@ Afternoon check-in with your onboarding manager
 
 ### Security for Everyone
 * Review and Acknowledge Security Policy (1 hour)
-    * Overview of password management
-    * Set up Lastpass (15 minutes)
-    * Set up TFA (30 minutes)
-    * Complete Security Checklist (1 hour)
+  * Overview of password management
+  * Set up Lastpass (15 minutes)
+  * Set up TFA (30 minutes)
+  * Complete Security Checklist (1 hour)
 * Take this online PII course (1 hour)
 
 Afternoon check-in with your onboarding manager
