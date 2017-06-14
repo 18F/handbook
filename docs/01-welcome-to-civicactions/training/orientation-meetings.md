@@ -22,18 +22,18 @@
 * Introduction to the [mentoring program](mentoring-program.md)
 * Where to [Direct Questions](../../02-about-us\general-contacts-and-listservs.md)
 * Working hours expectations:
-   * Flexibility
-   * Have a general set schedule / core hours
-   * Put appointments in your personal calendar
-   * Ping slack if you're just going offline for a few
-   * Basically let your team know when you're not free
-   * Over communicate if you're going offline  (vacation, lunch, appointment, etc)
-   * Be at the pre-scheduled meetings & tell manager if you can't attend
-   * Be able to get your work done within your timebox
-   * We aim for the following billable utilization:
-     * Split projects: 80% (32 hours / week)
-     * Full time on one project: 85% (34 hours / week)
-     * Also remember our 5% ProDev & CommPart commitments
+ * Flexibility
+ * Have a general set schedule / core hours
+ * Put appointments in your personal calendar
+ * Ping slack if you're just going offline for a few
+ * Basically let your team know when you're not free
+ * Over communicate if you're going offline  (vacation, lunch, appointment, etc)
+ * Be at the pre-scheduled meetings & tell manager if you can't attend
+ * Be able to get your work done within your timebox
+ * We aim for the following billable utilization:
+   * Split projects: 80% (32 hours / week)
+   * Full time on one project: 85% (34 hours / week)
+   * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 * Read the [Harvest documentation](../../04-how-we-work\tools\harvest.md) on logging time (30 minutes)
@@ -46,11 +46,11 @@
 ### Communication tools
 * Slack
 * Google Apps
-   * Email
-   * Calendar
-   * Introduction to how we use the calendar
-   * Hangouts
-   * Drive/Docs
+ * Email
+ * Calendar
+ * Introduction to how we use the calendar
+ * Hangouts
+ * Drive/Docs
 * Telephone Use
 * Download, setup, and review basic communication tools (1 hour)
 
@@ -68,7 +68,7 @@ Afternoon check-in with your onboarding manager
 ### Time Off and Scheduling
 * Review vacation time / requests [policies](../../03-policies/benefits.md#pto) (1 hour)
 * Do you have any pre-approved time off requests? (15 minutes)
-   * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure Judy is aware and then you mention them to your onboarding manager. There is still a formal request off procedure that you'll need to do so we make sure the right dates get documented & marked in the calendar. Your onboarding manager can walk you through that process.
+  * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure Judy is aware and then you mention them to your onboarding manager. There is still a formal request off procedure that you'll need to do so we make sure the right dates get documented & marked in the calendar. Your onboarding manager can walk you through that process.
 * Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays) (15 minutes)
 * Review & update [Resource Guru profile](../../04-how-we-work/tools/resource-guru.md#updatingprofile) (30 minutes)
 * Review [Professional development & community participation](../../03-policies/prodev-community-participation.md) (30 minutes)
