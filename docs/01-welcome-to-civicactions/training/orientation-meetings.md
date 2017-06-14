@@ -146,6 +146,7 @@ Afternoon check-in with your onboarding manager
 ### Security for Everyone
 
 * Review and Acknowledge Security Policy (1 hour)
+
   * Overview of password management
   * Set up Lastpass (15 minutes)
   * Set up TFA (30 minutes)
@@ -186,6 +187,7 @@ Afternoon check-in with your onboarding manager
 As needed additional role-based training/orientation (PM track or Engineering or UX/Content Strategy/Design track)
 
 Continue to work on these tasks today:
+
 * Resume & bio should to be completed by end of Day 5
 * Any additional tasks from above days that have not yet been completed
 * Skillset Survey
