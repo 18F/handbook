@@ -4,9 +4,9 @@
 
 Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include Jira and Trello integrations and a mobile app.
 
-## Update Your Profile
+## <a name="account"></a>Update Your Account and Profile
 
-Your Harvest login will be your email address: <mailto:first.last@civicactions.com>. Check your email for an invitation!
+Your Harvest login will be your email address: `first.last@civicactions.com`. Check your email for an invitation!
 Then:
 
 * confirm that you can sign in to Harvest (<https://civicactions.harvestapp.com/>)
@@ -14,21 +14,29 @@ Then:
 * check to make sure that your time zone is correct
 * if you know which project(s) you'll be working on, make sure that they're correct
 
-## Logging Time
+## <a name="time"></a>Logging Time
+
+### How to:
+* You are expected to submit your timesheets **daily** in Harvest
+* Time billed to the client is in 15 min increments. It will automatically round in the reports, but you'll see actuals in your timesheet.
+* Use your judgement if something took 2 minutes but another task took 10, then consider lumping them together (if they're the same project) to 15 minutes together
+* A full time employee is slotted for a 40 hour work week
+* Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for civicactions related meetings or comms, she should bill it all to the fixed price project.  She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
+
+### More details:
+[Harvest Documentation](https://docs.google.com/document/d/19QoYLImoL7hkyW3686g5wKIuc9Ghz059o_OzqH472Sc/edit?usp=sharing)
 
 * If you're an engineer: CA > Delivery > Engineering
   * Types of meetings: All hands call, Bi-Weekly Engineering Meeting, Pod Calls, Monthly All Hands Call
-  insert image
 * If you're a Project Manager: CA > Delivery > Project Management
-insert image
 * Types of meetings: All hands call, Weekly Agile PM Meeting, Pod Calls, Monthly All Hands Call, Check-ins with team members on performance & balance, etc
-insert image
-* Onboarding
+
+#### Onboarding
 Enter a description like the below examples in the task description that includes the word "onboarding"
-* Onboarding Meeting
-* Onboarding handbook and/or trello board cards review
-* Onboarding watching scrum videos
-* Onboarding resume and bio work
+  * Onboarding Meeting
+  * Onboarding handbook and/or trello board cards review
+  * Onboarding watching scrum videos
+  * Onboarding resume and bio work
 
 ## Submitting Your Timesheet
 
@@ -81,7 +89,7 @@ The Trello integration will require that you install the Chrome extension found 
 
 * Harvest has some other plugins & add-ons found here: <https://www.getharvest.com/add-ons>
 
-## Tracking Expenses
+## <a name="expenses"></a>Tracking Expenses
 
 Track expenses in the Harvest Expense tracking section.
 

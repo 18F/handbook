@@ -3,15 +3,17 @@
 ## <a name="day1"></a>Day 1
 
 ### Onboarding Paperwork
-* Overview of [TriNet](https://sso.trinet.com/auth/cdcservlet?realm=sw_hrp&goto=https%3A%2F%2Fwww.hrpassport.com%3A443%2FLink2HR.eng%3F%2FSaf%2FEntry%2FPortal.htm&RequestID=22350&MajorVersion=1&MinorVersion=0&ProviderID=https%3A%2F%2Fwww.hrpassport.com%3A443%2Famagent%3FRealm%3D%2Fsw_hrp&IssueInstant=2017-06-13T15%3A05%3A16Z) tasks:
-  * Employment Agreement
-  * Confidential Information Document
-  * I-9 - Employment Eligibility Verification
-  * W-4 - Federal Income Tax Withholding
-  * Direct deposit form
-  * Benefits selection
-  * Anti-Harassment Training
-* Review and acknowledge Conflict of Interest (COI) plan here [COI](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit)
+
+Overview of [TriNet](https://sso.trinet.com/auth/cdcservlet?realm=sw_hrp&goto=https%3A%2F%2Fwww.hrpassport.com%3A443%2FLink2HR.eng%3F%2FSaf%2FEntry%2FPortal.htm&RequestID=22350&MajorVersion=1&MinorVersion=0&ProviderID=https%3A%2F%2Fwww.hrpassport.com%3A443%2Famagent%3FRealm%3D%2Fsw_hrp&IssueInstant=2017-06-13T15%3A05%3A16Z) tasks:
+* Employment Agreement
+* Confidential Information Document
+* I-9 - Employment Eligibility Verification
+* W-4 - Federal Income Tax Withholding
+* Direct deposit form
+* Benefits selection
+* Anti-Harassment Training
+
+Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit)
 
 ### First Orientation
 * Get started with Trello (30 minutes)
@@ -31,17 +33,24 @@
   * Be at the pre-scheduled meetings & tell manager if you can't attend
   * Be able to get your work done within your timebox
   * We aim for the following billable utilization:
-      * Split projects: 80% (32 hours / week)
-      * Full time on one project: 85% (34 hours / week)
-      * Also remember our 5% ProDev & CommPart commitments
+     * Split projects: 80% (32 hours / week)
+     * Full time on one project: 85% (34 hours / week)
+     * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
-* Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md) on logging time (30 minutes)
-* Review account in [harvest](../../04-how-we-work/tools/harvest.md) (15 minutes)
-* Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md) (15 minutes)
-* How to log [onboarding time](../../04-how-we-work/tools/harvest.md)
-* Logging Meetings as an [Engineer](../../04-how-we-work/tools/harvest.md) / [PM](../../04-how-we-work/tools/harvest.md)
-* Explanation submission of [hours worked](../../04-how-we-work/tools/harvest.md)
+* Review account in [harvest](../../04-how-we-work/tools/harvest.md#account) (15 minutes)
+* Read the [Harvest documentation](../../04-how-we-work/tools/harvest#time.md) on logging time (30 minutes)
+* Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#expenses) (15 minutes)
+* How to log onboarding time:
+  * Please use a description like
+  Onboarding meeting, Onboarding documentation review, Onboarding watching scrum videos, Onboarding resume & bio work
+  * If you're an Engineer: CA > Delivery > Engineering
+  * If you're a PM: CA > Delivery > Project Management
+  * Enter a description like the above examples in the task description that includes the word "onboarding"
+* Logging Meetings as an Engineer / PM
+  * If you're an Engineer: CA > Delivery > Engineering
+  * If you're a PM : CA > Delivery > Project Management
+
 
 ### Communication tools
 [Review Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md)
