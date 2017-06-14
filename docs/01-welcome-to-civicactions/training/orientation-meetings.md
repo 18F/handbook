@@ -33,13 +33,13 @@ Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs
   * Be at the pre-scheduled meetings & tell manager if you can't attend
   * Be able to get your work done within your timebox
   * We aim for the following billable utilization:
-     * Split projects: 80% (32 hours / week)
-     * Full time on one project: 85% (34 hours / week)
-     * Also remember our 5% ProDev & CommPart commitments
+    * Split projects: 80% (32 hours / week)
+    * Full time on one project: 85% (34 hours / week)
+    * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 * Review account in [harvest](../../04-how-we-work/tools/harvest.md#account) (15 minutes)
-* Read the [Harvest documentation](../../04-how-we-work/tools/harvest#time.md) on logging time (30 minutes)
+* Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md#time) on logging time (30 minutes)
 * Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#expenses) (15 minutes)
 * How to log onboarding time:
   * Please use a description like
