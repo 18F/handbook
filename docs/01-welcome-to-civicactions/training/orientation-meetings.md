@@ -106,6 +106,7 @@ Afternoon check-in with your onboarding manager
 ### Virtual Workplace Basics
 
 Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.md):
+
 * Starting and Ending a Day with a Remote Team
 * Heading offline for short periods of time
 * Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) (15 minutes)
