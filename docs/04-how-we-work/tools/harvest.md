@@ -32,7 +32,9 @@ Then:
 * Types of meetings: All hands call, Weekly Agile PM Meeting, Pod Calls, Monthly All Hands Call, Check-ins with team members on performance & balance, etc
 
 #### Onboarding
+
 Enter a description like the below examples in the task description that includes the word "onboarding"
+
   * Onboarding Meeting
   * Onboarding handbook and/or trello board cards review
   * Onboarding watching scrum videos
