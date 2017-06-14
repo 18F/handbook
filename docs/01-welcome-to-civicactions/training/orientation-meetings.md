@@ -107,9 +107,9 @@ Afternoon check-in with your onboarding manager
 
 ### Project Overview Info (part 2)
 * [How to create a ticket or card](../../04-how-we-work/tools/tickets-cards.md)
-* Story point estimating
-* Install Chrome browser extensions (30 minutes)
-* CivicActions Agile (which includes intro to Agile Baseline) (1 hour)
+* [Story point estimating](../../04-how-we-work/tools/storypoints.md)
+* [Install Chrome browser extensions (30 minutes)](../../04-how-we-work/tools/browserextensions.md)
+* [CivicActions Agile (which includes intro to Agile Baseline)](../../04-how-we-work/agileoverview.md) (1 hour)
 
 ### Versioning Systems and Development Process
 * Read about the difference between Git, GitLab, GitHub (30 minutes)
