@@ -127,9 +127,9 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 ![Advanced settings](../../../images/sharing2.png "Advanced settings")
 ![Select Link](../../../images/sharing3.png "Select link")
 
-## <a name="bluejeans"></a>BlueJeans
+## <a name="bluejeans-zoom"></a>BlueJeans and Zoom
 
-* We use [BlueJeans](https://www.bluejeans.com/) video conferencing software for larger meetings, such as our weekly and montly All Hands Calls. To participate, you may download the BlueJeans app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
+* We use [BlueJeans](https://www.bluejeans.com/) and [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and montly All Hands Calls. To participate, you may download the BlueJeans or Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
 
 ## <a name="telephone-use"></a>Telephone Use
 

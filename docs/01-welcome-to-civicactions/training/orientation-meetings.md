@@ -20,7 +20,7 @@
   * "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
   * Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
 * Introduction to the [mentoring program](mentoring-program.md)
-* Where to [Direct Questions](../../02-about-us\general-contacts-and-listservs.md)
+* Where to [Direct Questions](../../02-about-us/general-contacts-and-listservs.md)
 * Working hours expectations:
   * Flexibility
   * Have a general set schedule / core hours
@@ -36,30 +36,31 @@
     * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
-* Read the [Harvest documentation](../../04-how-we-work\tools\harvest.md) on logging time (30 minutes)
-* Review account in [harvest](../../04-how-we-work\tools\harvest.md) (15 minutes)
-* Read the submitting [expenses process](../../04-how-we-work\tools\harvest.md) (15 minutes)
-* How to log [onboarding time](../../04-how-we-work\tools\harvest.md)
-* Logging Meetings as an [Engineer](../../04-how-we-work\tools\harvest.md) / [PM](../../04-how-we-work\tools\harvest.md)
-* Explanation submission of [hours worked](../../04-how-we-work\tools\harvest.md)
+* Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md) on logging time (30 minutes)
+* Review account in [harvest](../../04-how-we-work/tools/harvest.md) (15 minutes)
+* Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md) (15 minutes)
+* How to log [onboarding time](../../04-how-we-work/tools/harvest.md)
+* Logging Meetings as an [Engineer](../../04-how-we-work/tools/harvest.md) / [PM](../../04-how-we-work/tools/harvest.md)
+* Explanation submission of [hours worked](../../04-how-we-work/tools/harvest.md)
 
 ### Communication tools
-* Slack
-* Google Apps
-  * Email
-  * Calendar
-  * Introduction to how we use the calendar
-  * Hangouts
-  * Drive/Docs
-* Telephone Use
-* Download, setup, and review basic communication tools (1 hour)
+[Review Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md)
+* [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
+* [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
+  * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
+  * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
+    * [How We Use the Calendar](meetings-and-meeting-tools.md#calendar)
+  * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
+  * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+* [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
+* Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md) (1 hour)
 
 ### Get to know your Colleagues
-Balance Scores
-All hands call/Bluejeans
-Review Org Chart (15 minutes)
-Review Team Bios (1 hour)
-Intro to pods/Pod-specific practices
+* [Balance Scores](../../04-how-we-work/balance-scores.md)
+* [All hands calls](meetings-and-meeting-tools.md#ahc) and [Bluejeans/Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom)
+* Review [Org Chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing) (15 minutes)
+* Review [Team Bios](https://civicactions.com/team/) (1 hour)
+* Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)/Pod-specific practices
 
 Afternoon check-in with your onboarding manager
 
@@ -116,7 +117,7 @@ Afternoon check-in with your onboarding manager
 * [CivicActions Agile (which includes intro to Agile Baseline)](../../04-how-we-work/agileoverview.md) (1 hour)
 
 ### Versioning Systems and Development Process
-* Read about the difference between Git, GitLab, GitHub (30 minutes)
+* Read about the difference between [Git, GitLab, GitHub, Bitbucket](../../05-engineering/git-gitlab-github-bitbucket.md) (30 minutes)
 * Read about Git and SSH (30 minutes)
 * Read about Dev workflows: Dev, QA, Live, and Sandbox sites overview (30 minutes)
 

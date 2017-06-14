@@ -10,11 +10,41 @@ Remember that you can book time on your own calendar. We recommend blocking off 
 
 Also, if you're planning a meeting, be sure to state your goal – what the meeting is and what it isn't – in an agenda.
 
-### All Hands Calls
+### <a name="ahc"></a>All Hands Calls
 
-Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST. You aren't required to attend the all hands, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
+Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST and monthly on Fridays at 1pm PST. You aren't required to attend the all hands, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
+We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the [#announcements](https://civicactions.slack.com/messages/announcements) channel.
 
-We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the #announcements channel.
+#### All Hands Calls Overview
+* We use "Blue Jeans" or Zoom for this (see [more about these tools](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom))
+* Everyone on team is encouraged to join
+* Invites with links are sent out the day of
+* Meetings occur frequently as listed below
+
+##### Every Monday
+* Length of call: 30 minutes
+* Describe what is discussed
+* How it's different from monthly call
+* What kind of topics are discussed
+* How to sign up to lead an AHC (weekly)
+* Want to sign up to present? Use the AHC [Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning)
+
+##### Once a Month
+* Length of call: 1 hour
+* Describe what is discussed (company standing, etc)
+* How it's different from weekly call
+* Purpose/What kind of topics are discussed
+* Led primarily by Henry
+
+### <a name="pod-calls"></a>Pod Calls
+
+Weekly pod calls help us stay in touch and in tune with each other. These are loosely arranged by time zone, and are generally casual and chatty in tone.
+* Weekly Pod Calls
+* Still a process in progress as we grow
+* A focus to connect with team members outside your project
+* Feel connected with the team as a whole
+* Discuss a topic of common interest
+
 
 ### Daily Scrum Calls
 
@@ -41,11 +71,12 @@ The last project-specific meeting is sprint planning. Sprint planning takes many
 
 For more specific information, see [Sprint Planning Meetings](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/sprint-planning-meetings.md).
 
+
 ## Tools
 
 Here's an overview of how CivicActions uses specific tools to facilitate meetings.
 
-### Google Calendar
+### <a name="calendar"></a>Google Calendar
 
 **CivicActions uses shared calendars** in [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar) for CivicActions standing meetings, birthdays, and "out of office" time.
 
@@ -72,6 +103,6 @@ People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-tim
 
 For Google Hangouts best practices and available commands, see [Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md#hangouts).
 
-### BlueJeans
+### BlueJeans and Zoom
 
-[BlueJeans](https://www.bluejeans.com/) is another type of video conferencing software. We use BlueJeans for weekly and monthly all hands calls and some other meetings. You can use BLueJeans in browser, but you may want to consider downloading the BlueJeans App.
+We use [BlueJeans](https://www.bluejeans.com/) and [Zoom](https://zoom.us/) video conferencing software for weekly and monthly all hands calls and some other meetings. You can use BlueJeans or Zoom in browser, but you may want to consider downloading the BlueJeans or Zoom App.
