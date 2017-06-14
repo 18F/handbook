@@ -16,6 +16,7 @@ Overview of [TriNet](https://sso.trinet.com/auth/cdcservlet?realm=sw_hrp&goto=ht
 Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit)
 
 ### First Orientation
+
 * Get started with Trello (30 minutes)
   * Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
   * Getting started [guide](https://trello.com/guide)
@@ -25,6 +26,7 @@ Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs
 * Where to [Direct Questions](../../02-about-us/general-contacts-and-listservs.md)
 
 Working hours expectations:
+
 * Flexibility
 * Have a general set schedule / core hours
 * Put appointments in your personal calendar
@@ -39,6 +41,7 @@ Working hours expectations:
   * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
+
 * Review account in [harvest](../../04-how-we-work/tools/harvest.md#account) (15 minutes)
 * Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md#time) on logging time (30 minutes)
 * Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#expenses) (15 minutes)
@@ -54,6 +57,7 @@ Working hours expectations:
 
 
 ### Communication tools
+
 [Review Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md)
 * [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
 * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
@@ -66,6 +70,7 @@ Working hours expectations:
 * Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md) (1 hour)
 
 ### Get to know your Colleagues
+
 * [Balance Scores](../../04-how-we-work/balance-scores.md)
 * [All hands calls](meetings-and-meeting-tools.md#ahc) and [Bluejeans/Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom)
 * Review [Org Chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing) (15 minutes)
@@ -77,6 +82,7 @@ Afternoon check-in with your onboarding manager
 ## <a name="day2"></a>Day 2
 
 ### Time Off and Scheduling
+
 * Review vacation time / requests [policies](../../03-policies/benefits.md#pto) (1 hour)
 * Do you have any pre-approved time off requests? (15 minutes)
   * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure Judy is aware and then you mention them to your onboarding manager. There is still a formal request off procedure that you'll need to do so we make sure the right dates get documented & marked in the calendar. Your onboarding manager can walk you through that process.
@@ -85,6 +91,7 @@ Afternoon check-in with your onboarding manager
 * Review [Professional development & community participation](../../03-policies/prodev-community-participation.md) (30 minutes)
 
 ### Project Overview Info (part 1)
+
 * Relevant Project Introductions
   * Connect new hire with appropriate person to walk through each project if it's not the onboarding manager
   * Discuss the project that the new team member will be introduced to.
@@ -97,6 +104,7 @@ Afternoon check-in with your onboarding manager
   * [Scrum Methodology \(Same videos w additional text support\)](http://scrummethodology.com/)
 
 ### Virtual Workplace Basics
+
 Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.md):
 * Starting and Ending a Day with a Remote Team
 * Heading offline for short periods of time
@@ -105,6 +113,7 @@ Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.
 * Communication Best Practices
 
 ### Aligning Yourself with CivicActions
+
 * Create email signature (15 minutes)
   * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
 * Update LinkedIn & social media accounts with CivicActions as company (30 minutes)
@@ -121,17 +130,20 @@ Afternoon check-in with your onboarding manager
 ## <a name="day3"></a>Day 3
 
 ### Project Overview Info (part 2)
+
 * [How to create a ticket or card](../../04-how-we-work/tools/tickets-cards.md)
 * [Story point estimating](../../04-how-we-work/tools/storypoints.md)
 * [Install Chrome browser extensions (30 minutes)](../../04-how-we-work/tools/browserextensions.md)
 * [CivicActions Agile (which includes intro to Agile Baseline)](../../04-how-we-work/agileoverview.md) (1 hour)
 
 ### Versioning Systems and Development Process
+
 * Read about the difference between [Git, GitLab, GitHub, Bitbucket](../../05-engineering/git-gitlab-github-bitbucket.md) (30 minutes)
 * Read about Git and SSH (30 minutes)
 * Read about Dev workflows: Dev, QA, Live, and Sandbox sites overview (30 minutes)
 
 ### Security for Everyone
+
 * Review and Acknowledge Security Policy (1 hour)
   * Overview of password management
   * Set up Lastpass (15 minutes)
@@ -145,17 +157,20 @@ Afternoon check-in with your onboarding manager
 ## <a name="day4"></a>Day 4
 
 ### UX for Everyone
+
 * Story mapping/Stories On Board
 * UX-Agile
 * MyBalsamiq
 
 ### Tasks to complete in the next two weeks
+
 * Skillset Survey (1 hour)
 * Read about Markdown (30 minutes)
 * Bookmark Introduction to Presentation Slides Template (15 minutes)
 * Review CivicActions Elevator Pitch (30 minutes)
 
 ### Role-based training/orientation
+
 * PM track
   * Review [Project Management Training](../../06-project-management/pm-training-doc.md).
 * Engineering track
