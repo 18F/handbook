@@ -11,6 +11,6 @@
 ## Resources
 
 * [Template](https://docs.google.com/a/civicactions.com/spreadsheets/d/1Y_Dd0OfxjL61sgWlsJxYcGq0TY5Nc8sewWjzYNSx7G4/edit#gid=0)
-* [Locating the Skillset Spreadsheet](../../images/locate-spreadsheet.png)
-* [Copying the Template](../../images/copy-template.png)
-* [Renaming the Worksheet](../../images/rename-worksheet.png)
+* [Locating the Skillset Spreadsheet](../images/locate-spreadsheet.png)
+* [Copying the Template](../images/copy-template.png)
+* [Renaming the Worksheet](../images/rename-worksheet.png)

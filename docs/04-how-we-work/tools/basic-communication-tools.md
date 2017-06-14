@@ -30,7 +30,7 @@
 * You can adjust notification preferences:
   ![Slack Notifications](../../../images/slack-notifications.png).
 * Wrap your text in single *asterisks* for bold, *underscores* for italics, `grave accents` for code, and start the line with a > sign to make it a block quote. ![Formatting in Slack](../../../images/slack-formatting.png "Slack Formatting") is similar to Markdown.
-* To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (`Your code here. Some more code.`). ![Wrapping code](../../../images/backticks.png "Wrapping code").
+* To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (`Your code here. Some more code.`). ![Wrapping code](../../images/backticks.png "Wrapping code").
 * Create a Google Hangout from Slack: type **/hangout** (will need to authorize the slack app in hangout too)
 * To quickly bring back the last message you sent back to the text box, just press the Up arrow key.
 
@@ -73,17 +73,17 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 
 #### Best Practices
 
-* Set your location, time zone and working hours (& keep them current) using calendar settings: ![Calendar Settings](../../../images/CivicActions_Calendar_Settings.png "Calendar settings")
+* Set your location, time zone and working hours (& keep them current) using calendar settings: ![Calendar Settings](../../images/CivicActions_Calendar_Settings.png "Calendar settings")
 * Always send invitations to <mailto:first.last@civicactions.com>
 * Make sure your main <mailto:first.last@civicactions.com> calendar is at sharing at least free/busy with everyone in CivicActions
 * Consider enabling "speedy meetings" (in Settings)
 * Reply to meeting invitations (yes, no, maybe)
 * Use the "optional" feature for attendees who are not required to attend
-* Use the Find a Time feature: !["Find a Time"](../../../images/CivicActions_Calendar_FindTime.png "Find a time") feature to identify a meeting time where all required participants are free.
+* Use the Find a Time feature: !["Find a Time"](../../images/CivicActions_Calendar_FindTime.png "Find a time") feature to identify a meeting time where all required participants are free.
 * Complete the Event Details section when creating an event
 * If your event is related to a ticket, then include the ticket reference in the event title (i.e. a Jira RD-19 ticket event could be "Prototype Meeting RD-19")
 * You can create a Hangout link from the event (actually, Hangout links, aka "video calls" are automatically generated when you create a new event)
-* Add the Out of Office Calendar !["CivicActions: Out of Office"](../../../images/ooo-cal1.png "Out of Office Calendar") calendar
+* Add the Out of Office Calendar !["CivicActions: Out of Office"](../../images/ooo-cal1.png "Out of Office Calendar") calendar
 
 ### <a name="hangouts"></a>Google Hangouts
 
@@ -95,7 +95,7 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * Turn off your camera or reduce bandwidth if connection is poor
 * Use the mute button so mute is transparent to all (vs headphone muting)
 * Use some kind of headset or headphones instead of relying solely on computer mic (computer mics can sometimes create echoes)
-* You can also use the Hangout to call people in via phone: ![call people in via phone](../../../images/hangouts-phone.png "Call from hangouts")
+* You can also use the Hangout to call people in via phone: ![call people in via phone](../../images/hangouts-phone.png "Call from hangouts")
 * We can invite people outside of CivicActions, too
 * Use proper etiquette for Hangout professionalism (consider the appropriateness of background visuals/noise, attire/dress, use of effects, eating, muting, etc.)
 * It's okay to mute other each other
@@ -112,7 +112,7 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * /unvmute - Unmutes the video of the caller.
 * /users - Displays a list of participants in the video call.
 
-![Hangouts shortcuts](../../../images/hangout-shortcuts.png "Hangouts shortcuts")
+![Hangouts shortcuts](../../images/hangout-shortcuts.png "Hangouts shortcuts")
 
 ### <a name="google-docs"></a>Google Docs
 
@@ -123,9 +123,9 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * Update default paragraph styles to match CivicActions standard styles when creating new docs to use/share
 * If you create a document, make sure the whole team can find it and has access to it so you don't need to grant individual permissions
 
-![Open settings](../../../images/sharing1.png "Open settings")
-![Advanced settings](../../../images/sharing2.png "Advanced settings")
-![Select Link](../../../images/sharing3.png "Select link")
+![Open settings](../../images/sharing1.png "Open settings")
+![Advanced settings](../../images/sharing2.png "Advanced settings")
+![Select Link](../../images/sharing3.png "Select link")
 
 ## <a name="bluejeans-zoom"></a>BlueJeans and Zoom
 

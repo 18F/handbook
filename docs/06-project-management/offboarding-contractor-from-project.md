@@ -11,4 +11,4 @@ When offboarding a contractor from a project:
 * The Project Manager should coordinate the Offboarding ticket with an engineer on the [IT/IS board](https://trello.com/b/zgRgVkvs/it-is-infrastructure-support-services) to ensure that the remainder of the tasks are completed.
 * Hold an exit interview with the contractor and send a follow up email to the contractor with notes from the interview.
 
-![Trello Screenshot](../../images/it-is-board.png)
+![Trello Screenshot](../images/it-is-board.png)
