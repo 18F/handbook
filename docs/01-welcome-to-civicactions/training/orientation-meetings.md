@@ -22,18 +22,18 @@
 * Introduction to the [mentoring program](mentoring-program.md)
 * Where to [Direct Questions](../../02-about-us\general-contacts-and-listservs.md)
 * Working hours expectations:
- * Flexibility
- * Have a general set schedule / core hours
- * Put appointments in your personal calendar
- * Ping slack if you're just going offline for a few
- * Basically let your team know when you're not free
- * Over communicate if you're going offline  (vacation, lunch, appointment, etc)
- * Be at the pre-scheduled meetings & tell manager if you can't attend
- * Be able to get your work done within your timebox
- * We aim for the following billable utilization:
-   * Split projects: 80% (32 hours / week)
-   * Full time on one project: 85% (34 hours / week)
-   * Also remember our 5% ProDev & CommPart commitments
+  * Flexibility
+  * Have a general set schedule / core hours
+  * Put appointments in your personal calendar
+  * Ping slack if you're just going offline for a few
+  * Basically let your team know when you're not free
+  * Over communicate if you're going offline  (vacation, lunch, appointment, etc)
+  * Be at the pre-scheduled meetings & tell manager if you can't attend
+  * Be able to get your work done within your timebox
+  * We aim for the following billable utilization:
+    * Split projects: 80% (32 hours / week)
+    * Full time on one project: 85% (34 hours / week)
+    * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 * Read the [Harvest documentation](../../04-how-we-work\tools\harvest.md) on logging time (30 minutes)
@@ -46,11 +46,11 @@
 ### Communication tools
 * Slack
 * Google Apps
- * Email
- * Calendar
- * Introduction to how we use the calendar
- * Hangouts
- * Drive/Docs
+  * Email
+  * Calendar
+  * Introduction to how we use the calendar
+  * Hangouts
+  * Drive/Docs
 * Telephone Use
 * Download, setup, and review basic communication tools (1 hour)
 
