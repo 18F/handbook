@@ -43,9 +43,9 @@ Enter a description like the below examples in the task description that include
   * A full time employee is slotted for a 40 hour work week
   * Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for civicactions related meetings or comms, she should bill it all to the fixed price project.  She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
 
-![Harvest screenshot 2](../../../images/harvest02.png)
+![Harvest screenshot 2](../../images/harvest02.png)
 
-![Harvest screenshot 1](../../../images/harvest01.png)
+![Harvest screenshot 1](../../images/harvest01.png)
 
 ## Harvest Timer Options
 
@@ -67,15 +67,15 @@ You must add time to BOTH Harvest plugin & update the Time Tracking section in J
 
 The Trello integration will require that you install the Chrome extension found here: <https://www.getharvest.com/trello> You can then log time directly from Chrome, as well as Trello cards. You may need to refresh or log out/into Trello to see the "Track Time" action.
 
-![Harvest screenshot 3](../../../images/harvest03.png)
+![Harvest screenshot 3](../../images/harvest03.png)
 
-![Harvest screenshot 4](../../../images/harvest04.png)
+![Harvest screenshot 4](../../images/harvest04.png)
 
-![Harvest screenshot 5](../../../images/harvest05.png)
+![Harvest screenshot 5](../../images/harvest05.png)
 
-![Harvest screenshot 6](../../../images/harvest06.png)
+![Harvest screenshot 6](../../images/harvest06.png)
 
-![Harvest screenshot 7](../../../images/harvest07.png)
+![Harvest screenshot 7](../../images/harvest07.png)
 
 ## Other Add-ons
 
@@ -103,13 +103,13 @@ Here is a quick overview of the expenses feature in Harvest:
 * Submit your expenses at the end of travel
 * EMAIL Judy that you have expenses in Harvest for her review
 
-![Harvest screenshot 8](../../../images/harvest08.png)
+![Harvest screenshot 8](../../images/harvest08.png)
 
-![Harvest screenshot 9](../../../images/harvest09.png)
+![Harvest screenshot 9](../../images/harvest09.png)
 
-![Harvest screenshot 10](../../../images/harvest10.png)
+![Harvest screenshot 10](../../images/harvest10.png)
 
-![Harvest screenshot 11](../../../images/harvest11.png)
+![Harvest screenshot 11](../../images/harvest11.png)
 
 ## <a name="tracking-paid-time-off"></a>Tracking Paid Time Off (PTO)
 
@@ -131,7 +131,7 @@ You do NOT need to log entries when the office is closed for Holiday
 * 4 hours if it's a half day
 * anything under 4 hours should not be recorded
 
-![Harvest screenshot 12](../../../images/harvest12.png)
+![Harvest screenshot 12](../../images/harvest12.png)
 
 ## Harvest Phone App
 
