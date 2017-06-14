@@ -47,15 +47,15 @@
 
 ##### Internal
 
-* We use <mailto:ca-team@lists.civicactions.net> for all team wide communication, and important announcements (slack #announcements used often too)
-* We us <mailto:ca-employees@lists.civicactions.net> for HR notices, etc. (it is generally low traffic)
+* We use ca-team@lists.civicactions.net for all team wide communication, and important announcements (slack #announcements used often too)
+* We us ca-employees@lists.civicactions.net for HR notices, etc. (it is generally low traffic)
 * Other email lists: ca-\[functionalgroup] -hydra, -orion -sales, -dev, -team, etc.
 * Every project has its own list - a way to overhear each other
 
 ##### Client and staff lists
 
-* <mailto:teach@lists.civicactions.net> (includes clients)
-* <mailto:teach-int@lists.civicactions.net> (just for CivicActions staff)
+* projectname@lists.civicactions.net (includes clients)
+* projectname-int@lists.civicactions.net (just for CivicActions staff)
 
 #### Protocol
 
@@ -127,13 +127,13 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 ![Advanced settings](../../../images/sharing2.png "Advanced settings")
 ![Select Link](../../../images/sharing3.png "Select link")
 
-## <a name="bluejeans-zoom"></a>BlueJeans and Zoom
+## <a name="bluejeans-zoom"></a>Zoom
 
-* We use [BlueJeans](https://www.bluejeans.com/) and [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and montly All Hands Calls. To participate, you may download the BlueJeans or Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
+* We use [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and montly All Hands Calls. To participate, you may download the Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
 
 ## <a name="telephone-use"></a>Telephone Use
 
-* There are times when a phone call in may also be necessary, such as when wifi is not available or to call in to BlueJeans
+* There are times when a phone call in may also be necessary, such as when wifi is not available or to call in to Zoom
 * Don't rely on speaker feature, but have a headset handy
 * You may need to be called into a Google Hangout if you can't attend the video meeting
 * Sharing your phone number with the client/PO is optional
