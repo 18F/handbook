@@ -5,6 +5,7 @@
 ### Onboarding Paperwork
 
 Overview of [TriNet](https://sso.trinet.com/auth/cdcservlet?realm=sw_hrp&goto=https%3A%2F%2Fwww.hrpassport.com%3A443%2FLink2HR.eng%3F%2FSaf%2FEntry%2FPortal.htm&RequestID=22350&MajorVersion=1&MinorVersion=0&ProviderID=https%3A%2F%2Fwww.hrpassport.com%3A443%2Famagent%3FRealm%3D%2Fsw_hrp&IssueInstant=2017-06-13T15%3A05%3A16Z) tasks:
+
 * Employment Agreement
 * Confidential Information Document
 * I-9 - Employment Eligibility Verification
@@ -17,13 +18,16 @@ Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs
 
 ### First Orientation
 
-* Get started with Trello (30 minutes)
-  * Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
-  * Getting started [guide](https://trello.com/guide)
-  * "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
-  * Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
-* Introduction to the [mentoring program](mentoring-program.md)
-* Where to [Direct Questions](../../02-about-us/general-contacts-and-listservs.md)
+Get started with Trello (30 minutes)
+
+* Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
+* Getting started [guide](https://trello.com/guide)
+* "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
+* Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
+
+Introduction to the [mentoring program](mentoring-program.md)
+
+Where to [Direct Questions](../../02-about-us/general-contacts-and-listservs.md)
 
 Working hours expectations:
 
@@ -42,7 +46,7 @@ Working hours expectations:
 
 ### Time Tracking
 
-* Review account in [harvest](../../04-how-we-work/tools/harvest.md#account) (15 minutes)
+* Review account in [Harvest](../../04-how-we-work/tools/harvest.md#account) (15 minutes)
 * Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md#time) on logging time (30 minutes)
 * Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#expenses) (15 minutes)
 * How to log onboarding time:
@@ -59,6 +63,7 @@ Working hours expectations:
 ### Communication tools
 
 [Review Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md)
+
 * [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
 * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
   * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
