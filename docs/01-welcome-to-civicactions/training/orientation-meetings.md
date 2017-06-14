@@ -23,21 +23,20 @@ Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs
   * Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
 * Introduction to the [mentoring program](mentoring-program.md)
 * Where to [Direct Questions](../../02-about-us/general-contacts-and-listservs.md)
-* Working hours expectations:
 
-  * Flexibility
-  * Have a general set schedule / core hours
-  * Put appointments in your personal calendar
-  * Ping slack if you're just going offline for a few
-  * Basically let your team know when you're not free
-  * Over communicate if you're going offline  (vacation, lunch, appointment, etc)
-  * Be at the pre-scheduled meetings & tell manager if you can't attend
-  * Be able to get your work done within your timebox
-  * We aim for the following billable utilization:
-
-    * Split projects: 80% (32 hours / week)
-    * Full time on one project: 85% (34 hours / week)
-    * Also remember our 5% ProDev & CommPart commitments
+Working hours expectations:
+* Flexibility
+* Have a general set schedule / core hours
+* Put appointments in your personal calendar
+* Ping slack if you're just going offline for a few
+* Basically let your team know when you're not free
+* Over communicate if you're going offline  (vacation, lunch, appointment, etc)
+* Be at the pre-scheduled meetings & tell manager if you can't attend
+* Be able to get your work done within your timebox
+* We aim for the following billable utilization:
+  * Split projects: 80% (32 hours / week)
+  * Full time on one project: 85% (34 hours / week)
+  * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 * Review account in [harvest](../../04-how-we-work/tools/harvest.md#account) (15 minutes)
