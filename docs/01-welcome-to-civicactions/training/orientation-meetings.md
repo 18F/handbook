@@ -24,6 +24,7 @@ Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs
 * Introduction to the [mentoring program](mentoring-program.md)
 * Where to [Direct Questions](../../02-about-us/general-contacts-and-listservs.md)
 * Working hours expectations:
+
   * Flexibility
   * Have a general set schedule / core hours
   * Put appointments in your personal calendar
@@ -33,9 +34,10 @@ Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs
   * Be at the pre-scheduled meetings & tell manager if you can't attend
   * Be able to get your work done within your timebox
   * We aim for the following billable utilization:
-  * Split projects: 80% (32 hours / week)
-  * Full time on one project: 85% (34 hours / week)
-  * Also remember our 5% ProDev & CommPart commitments
+
+    * Split projects: 80% (32 hours / week)
+    * Full time on one project: 85% (34 hours / week)
+    * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 * Review account in [harvest](../../04-how-we-work/tools/harvest.md#account) (15 minutes)
