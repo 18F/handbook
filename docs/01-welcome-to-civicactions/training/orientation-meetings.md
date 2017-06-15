@@ -14,7 +14,7 @@ Overview of [TriNet](https://sso.trinet.com/auth/cdcservlet?realm=sw_hrp&goto=ht
 * Benefits selection
 * Anti-Harassment Training
 
-Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit)
+Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
 
 ### First Orientation
 
@@ -59,8 +59,7 @@ Working hours expectations:
   * If you're an Engineer: CA > Delivery > Engineering
   * If you're a PM : CA > Delivery > Project Management
 
-
-### Communication tools
+### Communication Tools
 
 [Review Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md)
 
@@ -74,10 +73,10 @@ Working hours expectations:
 * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
 * Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md) (1 hour)
 
-### Get to know your Colleagues
+### Get to Know Your Colleagues
 
 * [Balance Scores](../../04-how-we-work/balance-scores.md)
-* [All hands calls](meetings-and-meeting-tools.md#ahc) and [Bluejeans/Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom)
+* [All hands calls](meetings-and-meeting-tools.md#ahc) and [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom)
 * Review [Org Chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing) (15 minutes)
 * Review [Team Bios](https://civicactions.com/team/) (1 hour)
 * Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)/Pod-specific practices
