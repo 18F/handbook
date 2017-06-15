@@ -146,17 +146,17 @@ Afternoon check-in with your onboarding manager
 
 * Read about the difference between [Git, GitLab, GitHub, Bitbucket](../../05-engineering/git-gitlab-github-bitbucket.md) (30 minutes)
 * Read about Git and SSH (30 minutes)
-* Read about Dev workflows: Dev, QA, Live, and Sandbox sites overview (30 minutes)
+* Read about [Dev workflows](../../05-engineering/dev-environments.md): Dev, QA, Live, and Sandbox sites overview (30 minutes)
 
 ### Security for Everyone
 
-* Review and Acknowledge Security Policy (1 hour)
+* Review and Acknowledge [Security Policy](../../03-policies/security.md) (1 hour)
 
-  * Overview of password management
-  * Set up Lastpass (15 minutes)
-  * Set up TFA (30 minutes)
-  * Complete Security Checklist (1 hour)
-* Take this online PII course (1 hour)
+  * Overview of [password management](../../03-policies/security.md#password)
+  * Set up [Lastpass](../../09-security/awareness.md#lastpass) (15 minutes)
+  * Set up [TFA](../../09-security/awareness.md#tfa) (30 minutes)
+  * Complete [Security Checklist](https://docs.google.com/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit#gid=1448317600) (1 hour)
+* Take this online [PII course](http://cdsetrain.dtic.mil/piiv2/index.htm) (1 hour)
 
 Afternoon check-in with your onboarding manager
 
@@ -165,22 +165,23 @@ Afternoon check-in with your onboarding manager
 
 ### UX for Everyone
 
-* Story mapping/Stories On Board
+* [Story mapping/Stories On Board](../../04-how-we-work/agile-baseline/03-methods/1-research/story-mapping-guide.md)
 * UX-Agile
-* MyBalsamiq
+* [Wireframing and MyBalsamiq](../../04-how-we-work/agile-baseline/03-methods/2-design/wireframing-guide.md) ([Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE))
 
 ### Tasks to complete in the next two weeks
 
-* Skillset Survey (1 hour)
-* Read about Markdown (30 minutes)
-* Bookmark Introduction to Presentation Slides Template (15 minutes)
-* Review CivicActions Elevator Pitch (30 minutes)
+* [Skillset Survey](../skillset-survey.md) (1 hour)
+* Read about [Markdown](../../04-how-we-work/tools/markdown.md) (30 minutes)
+* Introduction to [Presentation Slides Template](../../04-how-we-work/tools/presentation-slides.md) (15 minutes)
+* Review CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md) (30 minutes)
 
 ### Role-based training/orientation
 
 * PM track
   * Review [Project Management Training](../../06-project-management/pm-training-doc.md).
 * Engineering track
+  * Review [Engineering Roles](../../05-engineering/engineering-roles.md)
 * UX/Content Strategy/Design track
   * (review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products))
 
@@ -195,8 +196,8 @@ Continue to work on these tasks today:
 
 * Resume & bio should to be completed by end of Day 5
 * Any additional tasks from above days that have not yet been completed
-* Skillset Survey
-* Begin to Learn Markdown
-* CivicActions Elevator Pitch
+* [Skillset Survey](../skillset-survey.md)
+* Begin to Learn [Markdown](../../04-how-we-work/tools/markdown.md)
+* CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md)
 
 Afternoon check-in with your onboarding manager
