@@ -34,8 +34,8 @@ Under “Position,” look for something like the following: `Innovation Special
 
 ## Frequency of step increases
 
-Steps 1-4:  Annually  
-Steps 5-7:  Every 2 years  
+Steps 1-3:  Annually  
+Steps 4-7:  Every 2 years  
 Steps 8-10: Every 3 years
 
 Step increases happen automatically. Your supervisor will get an email notification from Leila Knight about 60 days prior to the date you’re set to receive the within grade increase. An example email notification is below. It typically takes one or two pay periods for the step increase to appear. If you have any questions, please contact Leila Knight directly.
