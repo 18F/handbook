@@ -181,7 +181,11 @@ Afternoon check-in with your onboarding manager
 * PM track
   * Review [Project Management Training](../../06-project-management/pm-training-doc.md).
 * Engineering track
-  * Review [Engineering Roles](../../05-engineering/engineering-roles.md)
+  * [Engineering Roles and Agile](../../05-engineering/engineering-roles.md)
+  * Engineering Practices
+  * Git Overview
+  * Drupal Overview
+  * Security Overview
 * UX/Content Strategy/Design track
   * (review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products))
 
