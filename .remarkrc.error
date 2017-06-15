@@ -13,7 +13,6 @@
       "remark-lint-final-newline",
       "remark-lint-hard-break-spaces",
       "remark-lint-heading-increment",
-      "remark-lint-list-item-bullet-indent",
       "remark-lint-list-item-content-indent",
       "remark-lint-no-auto-link-without-protocol",
       "remark-lint-no-blockquote-without-caret",
