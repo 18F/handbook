@@ -1,6 +1,7 @@
 # Slack
 
 ## Basics
+
 * We use slack for chatting tool
 * Helps us stay transparent
 * Consider getting the Slack desktop app - either the native OS X / Windows one, or the Chrome app, which you can set up to run as a standalone app on system start up.
@@ -11,6 +12,7 @@
 * In preferences, add your name as a keyword that pings you when mentioned (in case people forget to @ you when trying to get your attention)
 
 ## Channels
+
 * There are a number of different channels you can join
 * You SHOULD join: General, Announcements, Engineering or PM, your Pod, your project channels
 * Consider also joining: Random, SOTD, QOTD, Onboarding
@@ -18,6 +20,7 @@
 * There's a Slack [Onboarding channel](https://civicactions.slack.com/messages/onboarding/) that you can use for any general onboarding questions if you think it's helpful.
 
 ## Tips
+
 * Consider using the word "ping" to check on the availability of someone
 * You can adjust notifications / pings
 * [Formatting your messages](https://slack.zendesk.com/hc/en-us/articles/202288908-Formatting-your-message)
