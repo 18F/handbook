@@ -14,9 +14,9 @@ Usability testing is a technique for evaluating a product by testing it on users
 * Respect the participants: be nice to them (show empathy). If they get stuck, don’t let them get too frustrated. Be reassuring. Thank them when you’re done. Let them know their participation has been very helpful, just what you need.
 * Try to observe the participant’s thought process. When you’re not sure what they’re thinking about or looking at, ask them. When they are ready to click, ask them what they expect. After they click, ask them if the result was what they expected.
 * Keep the instructions simple and don’t be afraid to repeat yourself (for example):
-      * “Look at this page and tell me what you think everything is and what you would be likely to click on.”
-      * “What would you click on next and what would you expect to see?”
-      * “Try to think out loud as much as possible.”
+    * “Look at this page and tell me what you think everything is and what you would be likely to click on.”
+    * “What would you click on next and what would you expect to see?”
+    * “Try to think out loud as much as possible.”
 
 * Without distracting or influencing users, you need to find out what they are really thinking
     * When a participant says “I like this page” ask a question like “what do you like best about it?”
