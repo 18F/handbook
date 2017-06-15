@@ -1,4 +1,4 @@
-#Git and SSH
+# Git and SSH
 
 ## Git
 
@@ -30,4 +30,4 @@ Port 940
 
 ## Sandbox
 
-[Coding Standards](http://civicactions.net/content/coding-standards) 
+[Coding Standards](http://civicactions.net/content/coding-standards)

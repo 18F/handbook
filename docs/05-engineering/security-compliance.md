@@ -15,7 +15,7 @@ We enhance our [Security Awareness with Tools](../09-security/awareness.md) by:
 
 * [Securing our Laptops](../09-security/awareness.md#securing-your-laptop)
 * [Using Password Management Tools](../09-security/awareness.md#password-management-tools)
-* [Using Multi-Factor Authentication](../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
+* [Using Multi-Factor Authentication](../09-security/awareness.md#tfa)
 * [Increasing our awareness of Phishing and Social Engineering](../09-security/awareness.md#phishing-and-social-engineering)
 * [Keeping our Personal Systems up-to-date](../09-security/awareness.md#keep-your-systems-up-to-date)
 * [Employing Disk Encryption and Secure Storage Management](../09-security/awareness.md#disk-encryption-and-storage-management)
