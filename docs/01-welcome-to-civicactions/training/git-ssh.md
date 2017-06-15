@@ -18,6 +18,7 @@ ssh'ing to `*.civicactions.net` requires port 940. You can add `-p 940` with eve
 ```
 Host *.civicactions.net
 Port 940
+
 ```
 
 ## Git and SSH
