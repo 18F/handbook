@@ -4,9 +4,9 @@ In our annual review process, you'll ask people you work with closely to give yo
 
 The template to send your colleagues looks like this, and you can personalize it if you'd like:
 
-Hi _Colleague_,
+Hi *Colleague*,
 
-It’s time for my annual review and I’d like to request feedback from you since we have worked closely together. The info you share with me won’t be shared directly with anyone but me, so please be as honest and direct as you can be. Below are the areas that I’m looking for feedback on and I need this returned to me by _Day before your scheduled review with your manager_:
+It’s time for my annual review and I’d like to request feedback from you since we have worked closely together. The info you share with me won’t be shared directly with anyone but me, so please be as honest and direct as you can be. Below are the areas that I’m looking for feedback on and I need this returned to me by *Day before your scheduled review with your manager*:
 
 Communication (client, team)
 Balance management

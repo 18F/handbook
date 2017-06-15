@@ -5,7 +5,7 @@
 Many projects use git. Here are some references to review if you are unfamiliar with it.
 
 * [Getting Git Right](https://www.atlassian.com/git/)
-* [Version Control with Git book]( http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387)
+* [Version Control with Git book](http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387)
 * Learn "how git works" at a lower level, and some useful stuff like rebasing (workflow and interactive), reflog etc [Video](https://www.youtube.com/watch?v=MYP56QJpDr4)
 * If you want a non-video companion to the first half, [this](http://git-scm.com/book/en/v2/Git-Internals-Git-Objects) is a great place to start.
 
@@ -15,10 +15,11 @@ ssh'ing to `*.civicactions.net` requires port 940. You can add `-p 940` with eve
 
 1. Create a `~/.ssh/config` file if you don't already have one.
 2. Then add these lines.
+
+
 ```
 Host *.civicactions.net
 Port 940
-
 ```
 
 ## Git and SSH

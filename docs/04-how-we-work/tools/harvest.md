@@ -17,6 +17,7 @@ Then:
 ## <a name="time"></a>Logging Time
 
 ### How to:
+
 * You are expected to submit your timesheets **daily** in Harvest
 * Time billed to the client is in 15 min increments. It will automatically round in the reports, but you'll see actuals in your timesheet.
 * Use your judgement if something took 2 minutes but another task took 10, then consider lumping them together (if they're the same project) to 15 minutes together
@@ -24,6 +25,7 @@ Then:
 * Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for civicactions related meetings or comms, she should bill it all to the fixed price project.  She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
 
 ### More details:
+
 [Harvest Documentation](https://docs.google.com/document/d/19QoYLImoL7hkyW3686g5wKIuc9Ghz059o_OzqH472Sc/edit?usp=sharing)
 
 * If you're an engineer: CA > Delivery > Engineering

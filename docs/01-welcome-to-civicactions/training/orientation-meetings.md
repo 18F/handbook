@@ -51,7 +51,7 @@ Working hours expectations:
 * Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#expenses) (15 minutes)
 * How to log onboarding time:
   * Please use a description like
-  Onboarding meeting, Onboarding documentation review, Onboarding watching scrum videos, Onboarding resume & bio work
+    Onboarding meeting, Onboarding documentation review, Onboarding watching scrum videos, Onboarding resume & bio work
   * If you're an Engineer: CA > Delivery > Engineering
   * If you're a PM: CA > Delivery > Project Management
   * Enter a description like the above examples in the task description that includes the word "onboarding"
@@ -105,7 +105,7 @@ Afternoon check-in with your onboarding manager
 * Read about the [Gold Star Program](../../04-how-we-work/gold-star-program.md) (15 minutes)
 * Watch Scrum training videos: Introduction to Scrum (1 hour)
   * [Scrum Training Series videos](http://scrumtrainingseries.com/)
-  * [Scrum Methodology \(Same videos w additional text support\)](http://scrummethodology.com/)
+  * [Scrum Methodology (Same videos w additional text support)](http://scrummethodology.com/)
 
 ### Virtual Workplace Basics
 
@@ -131,7 +131,6 @@ Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.
 
 Afternoon check-in with your onboarding manager
 
-
 ## <a name="day3"></a>Day 3
 
 ### Project Overview Info (part 2)
@@ -155,10 +154,10 @@ Afternoon check-in with your onboarding manager
   * Set up [Lastpass](../../09-security/awareness.md#lastpass) (15 minutes)
   * Set up [TFA](../../09-security/awareness.md#tfa) (30 minutes)
   * Complete [Security Checklist](https://docs.google.com/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit#gid=1448317600) (1 hour)
+
 * Take this online [PII course](http://cdsetrain.dtic.mil/piiv2/index.htm) (1 hour)
 
 Afternoon check-in with your onboarding manager
-
 
 ## <a name="day4"></a>Day 4
 
@@ -189,7 +188,6 @@ Afternoon check-in with your onboarding manager
   * (review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products))
 
 Afternoon check-in with your onboarding manager
-
 
 ## <a name="day5"></a>Day 5
 

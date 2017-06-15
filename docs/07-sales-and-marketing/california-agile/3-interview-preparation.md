@@ -6,8 +6,10 @@ Templates of documents and emails are in the documentation folder and can be fou
 
 An example of an actual interview preparation for CWDS-TPS3 documents, templates, and folder structure can be found here: [TPS3 Interview Prep](https://drive.google.com/drive/u/0/folders/0ByMs0asyk4PpSi1FRHlwUkc0cjg)
 
- ----
- ## Step 1 - The proposal was just submitted
+* * *
+
+## Step 1 - The proposal was just submitted
+
 * The proposal was submitted on MM/DD/YYY (obtain the actual date)
 * Create an interview prep folder (ACDPQVP > XYZ > XYZ Interview Prep), Ex. [ACDPQVP > CWDS > TPS3 Interview Prep](https://drive.google.com/drive/u/0/folders/0ByMs0asyk4PpSi1FRHlwUkc0cjg)
 * Prepare the documents for the interview prep folder:
@@ -38,6 +40,7 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
   * Invite the team to <u><b>at least</b></u> one pod call
 
 ## Step 2 - The interview was scheduled
+
 * If the client hasn’t notified the team by our projected date, send an email to the team with the status and state that we’re still waiting to hear back
   * Update the proposed timeline dates
 * The client notifies of the intent to interview with time slot options
@@ -70,6 +73,7 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
     * Information about upcoming clinics
 
 ## Step 3 - Interview Kickoff
+
 * Facilitate the kickoff overview meeting with the team & one-on-ones (one full day)
   * Ensure we record the introduction meeting and get a shareable link
   * Team members sign up via the clinic sign up sheet
@@ -79,6 +83,7 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
   * Includes the next steps/expectations
 
 ## Step 4 - Interview Questions Received
+
 * The client has provided the actual interview questions
   * Ensure all team members have signed up for clinics
   * Email team (template 5) [Official Interview Preparation](https://docs.google.com/a/civicactions.net/document/d/1bcgFX9t1RHiwx59VbyYKZfTl4a-rKNDbP7T6eRrrea0/edit?usp=sharing)
@@ -96,12 +101,13 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
   * Any question(s) that need additional support
   * Support Availability
 
-
 ## Step 5 - Interview Warm Up
+
 * Morning warm up is 25 minutes before the interview with the whole team
 * The client interview is 75 minutes with the whole team
 
 ## Step 6 - Update and Communicate with the Team
+
 * Email the team (template 7) [Status Update](https://docs.google.com/a/civicactions.net/document/d/1BnCLVYYsU2rkN5ot5KgOf_xplIWRKxOyqoak1vn51Oo/edit?usp=sharing)
   * <u><b>At least</b></u> once a week about the status
 * The client notifies us of the contract win
@@ -119,5 +125,6 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
 * Team hire date & working agreements
 
 ## Step 7 - Retreat and Onsite Project Details
+
 * Team 3 day retreat & preparation
 * Project start date with the client

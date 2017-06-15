@@ -16,12 +16,14 @@ Our weekly all hands call includes everyone across CivicActions, and it's how th
 We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the [#announcements](https://civicactions.slack.com/messages/announcements) channel.
 
 #### All Hands Calls Overview
+
 * We use "Blue Jeans" or Zoom for this (see [more about these tools](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom))
 * Everyone on team is encouraged to join
 * Invites with links are sent out the day of
 * Meetings occur frequently as listed below
 
 ##### Every Monday
+
 * Length of call: 30 minutes
 * Describe what is discussed
 * How it's different from monthly call
@@ -30,6 +32,7 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 * Want to sign up to present? Use the AHC [Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning)
 
 ##### Once a Month
+
 * Length of call: 1 hour
 * Describe what is discussed (company standing, etc)
 * How it's different from weekly call
@@ -39,12 +42,12 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 ### <a name="pod-calls"></a>Pod Calls
 
 Weekly pod calls help us stay in touch and in tune with each other. These are loosely arranged by time zone, and are generally casual and chatty in tone.
+
 * Weekly Pod Calls
 * Still a process in progress as we grow
 * A focus to connect with team members outside your project
 * Feel connected with the team as a whole
 * Discuss a topic of common interest
-
 
 ### Daily Scrum Calls
 
@@ -70,7 +73,6 @@ For more specific information on Retrospectives, see [Sprint Retrospectives](htt
 The last project-specific meeting is sprint planning. Sprint planning takes many forms at CivicActions, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint.
 
 For more specific information, see [Sprint Planning Meetings](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/sprint-planning-meetings.md).
-
 
 ## Tools
 
