@@ -20,12 +20,12 @@ The [GNU Privacy Guard](https://www.gnupg.org/) (GnuPG) is a complete and free i
 The current recommended version is GnuPG 2.x
 
 * Mac OS X installers:
-  * [GnuPG for OSX](https://sourceforge.net/p/gpgosx/docu/Download/) *(more recent)*
-  * [GPG Suite](https://gpgtools.org/) *(integrates into Apple Mail)*
+    * [GnuPG for OSX](https://sourceforge.net/p/gpgosx/docu/Download/) *(more recent)*
+    * [GPG Suite](https://gpgtools.org/) *(integrates into Apple Mail)*
 * GNU/Linux installers:
-  * Ubuntu: `sudo apt-get install gnupg2`
-  * Arch: `pacaur -S gnupg2`
-  * Fedora/CentOS: `sudo yum|dnf install gnupg2`
+    * Ubuntu: `sudo apt-get install gnupg2`
+    * Arch: `pacaur -S gnupg2`
+    * Fedora/CentOS: `sudo yum|dnf install gnupg2`
 
 ### Creating your public/private key pair
 

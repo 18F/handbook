@@ -24,17 +24,17 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
 
 * AUDIENCES
 
-  * Who do you feel are your site’s audiences?
-  * What are the demographics of these audiences?
-  * How comfortable with technology is this audience?
-  * Who is currently visiting the site? What makes their visit a success in their eyes? In yours?
-  * Who else is competing for their attention?
+    * Who do you feel are your site’s audiences?
+    * What are the demographics of these audiences?
+    * How comfortable with technology is this audience?
+    * Who is currently visiting the site? What makes their visit a success in their eyes? In yours?
+    * Who else is competing for their attention?
 
 * OUTCOMES
-  * What do you want to persuade your audience to do?
-  * What assumptions do you make concerning your audiences? Example: do you assume your audience is of a certain socioeconomic group, or that they are familiar with certain aspects of your organization?
-  * What drives your business, and how does your audience help achieve positive results?
-  * What metrics do you want to keep track of?
+    * What do you want to persuade your audience to do?
+    * What assumptions do you make concerning your audiences? Example: do you assume your audience is of a certain socioeconomic group, or that they are familiar with certain aspects of your organization?
+    * What drives your business, and how does your audience help achieve positive results?
+    * What metrics do you want to keep track of?
 
 ## Recommended Reading:
 

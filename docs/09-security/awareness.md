@@ -20,8 +20,8 @@ A password manager will enable you to have unique, strong passwords for every se
 ### <a name="lastpass"></a>LastPass
 
 * The [LastPass](https://lastpass.com/) password generator can easily create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
-  * We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
-  * Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
+    * We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
+    * Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
 * LastPass is required for members of the CivicActions System Admins and Infrastructure Support Team.
 * We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [YubiKey](./yubikey/README.md) token).
 * Set up Two Factor Authentication on your LastPass Account (see below). LastPass will be storing all your passwords, so make it secure.
@@ -89,23 +89,23 @@ There are some instructions at <https://support.google.com/accounts/answer/18583
 Social engineering is the most common attack vector used to compromise computer systems. Social engineering relies heavily on human interaction and often involves tricking people into breaking normal security procedures. The following is a brief reminder of some of the methods used, but is in no way complete.
 
 * Phishing
-  * Don't click on links, hover and check the URLs
-  * Don't open attachments (unless you really trust the sender)
-  * If in doubt, ask an IT member (e.g. via Slack)
-  * [More on Phishing avoidance (from EFF)](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
+    * Don't click on links, hover and check the URLs
+    * Don't open attachments (unless you really trust the sender)
+    * If in doubt, ask an IT member (e.g. via Slack)
+    * [More on Phishing avoidance (from EFF)](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
 * Windows Technical Support
-  * "Windows Technical Support has noticed that you have viruses or other malware on your computer..."
+    * "Windows Technical Support has noticed that you have viruses or other malware on your computer..."
 * Baiting
-  * Seemingly innocent (or interesting) abandoned USB, CD, DVD media with autorun
+    * Seemingly innocent (or interesting) abandoned USB, CD, DVD media with autorun
 * Public WiFi (e.g., coffee shop, airport, library, ...)
-  * Turn off sharing
-  * Don't automatically connect to unknown WiFi hotspots
-  * Confirm the network name - know the name of your hotspot!
-  * Turn on your local firewall
-  * As usual, never enter your name or password information:
-    * when on an insecure (non-HTTPS or SSL encrypted) connection, or
-    * to a site that you have not verified is correct (by examining at the URL)
-  * [More on public WiFi network safety (from LifeHacker)](http://lifehacker.com/5576927/how-to-stay-safe-on-public-wi-fi-networks)
+    * Turn off sharing
+    * Don't automatically connect to unknown WiFi hotspots
+    * Confirm the network name - know the name of your hotspot!
+    * Turn on your local firewall
+    * As usual, never enter your name or password information:
+        * when on an insecure (non-HTTPS or SSL encrypted) connection, or
+        * to a site that you have not verified is correct (by examining at the URL)
+    * [More on public WiFi network safety (from LifeHacker)](http://lifehacker.com/5576927/how-to-stay-safe-on-public-wi-fi-networks)
 
 ## Keep Your Systems Up-to-date
 

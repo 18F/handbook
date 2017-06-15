@@ -38,5 +38,5 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 ### Projects
 
 * Every project has its own listserv, for example:
-  * projectname@lists.civicactions.net (includes clients)
-  * projectname-int@lists.civicactions.net (includes only CivicActions staff)
+    * projectname@lists.civicactions.net (includes clients)
+    * projectname-int@lists.civicactions.net (includes only CivicActions staff)

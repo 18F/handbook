@@ -3,12 +3,12 @@
 ## <a name="support-team"></a>Support our team members
 
 * We support and mentor others on the team, so they can succeed in quality work, and learn our best practices.
-  * We listen for others needs and step up
-  * We provide an appropriate level of support - helping out, but also allowing space for them to figure things out and learn
-  * If you are asked to mentor someone, make time to check in regularly
+    * We listen for others needs and step up
+    * We provide an appropriate level of support - helping out, but also allowing space for them to figure things out and learn
+    * If you are asked to mentor someone, make time to check in regularly
 * We collectively own the project, and avoid over-compartmentalizing roles or sections so that we can continue work in anyone's absence, and maximize cross-disciplinary learning.
-  * "It's not my job" is not in our vocabulary
-  * We learn as much as we can about all phases of the development cycle
+    * "It's not my job" is not in our vocabulary
+    * We learn as much as we can about all phases of the development cycle
 * We document a project for possible handoff to another team.
 * We honor our commitments and communicate as soon as we think we can't meet them.
 
@@ -36,7 +36,7 @@
 * We educate and involve clients in expecting and managing risk.
 * It's difficult to share risk with clients and we need to work on the soft skills needed.
 * We recognize risk is present at the requirements, knowledge, and execution level, and also "External" risks, such as working with 3rd parties, or on servers that we're not familiar with.
-  * Clearly identifying dependencies (data needed, code needed, graphics needed, access needed) can help bound risk.
+    * Clearly identifying dependencies (data needed, code needed, graphics needed, access needed) can help bound risk.
 * We differentiate "pre-execution" risks (requirements, design, assets, dependencies etc) which are typically addressed by communication and management from "technical" risks, which can be hard to mitigate in advance.
 * We escalate problems quickly to the tech lead, PM and/or account manager if we encounter issues that could block progress, momentum, or success.
 

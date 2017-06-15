@@ -13,7 +13,7 @@ If you receive a phishing email, follow these steps to report to CivicActions IT
 3. Click on the `Download Original` link halfway down the page and it will save text of the email to your hard drive.
 4. Mark the email as a phishing email by selecting the `Report phishing` option in the same "triangle" menu associated with the email.
 5. Forward the email to `security@civicactions.com`. As long as you haven't clicked on link or downloaded the file, you may stop here.
-   * If you suspect that the email has compromised your system with a download or link, attach the original text you downloaded. Please include *Security Incident* in the subject line, along with a brief description of the issue (Ex. Clicked on link in phishing email).
+    * If you suspect that the email has compromised your system with a download or link, attach the original text you downloaded. Please include *Security Incident* in the subject line, along with a brief description of the issue (Ex. Clicked on link in phishing email).
 6. Report the phishing email in the [#general](https://civicactions.slack.com/messages/general/) (attention: `@security`) Slack channel. (The `general` channel is used as everyone has access to it.)
 7. After receiving your notification to security, IT may create a ticket and contact you for more information.
 
@@ -33,7 +33,7 @@ To report a security incident, follow *all* of the steps below:
 3. Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected Gitlab incident, do no delete files or modify the access permissions on the Gitlab repository. In the event of a suspected Amazon Web Services (AWS) or Kubernetes incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
 
 4. Following notification to *security*, the Incident Response team may contact you requesting more information.
-   * The *Incident Coordinator* will create a JIRA ticket (or Trello card) labeled "Incident" with as much detail as possible.
+    * The *Incident Coordinator* will create a JIRA ticket (or Trello card) labeled "Incident" with as much detail as possible.
 
 Please note that incidents need to be reported *within one hour* of being identified. This isn't "within an hour of happening", but "within one hour of you becoming aware of the incident". The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 
