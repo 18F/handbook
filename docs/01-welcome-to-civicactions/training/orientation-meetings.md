@@ -59,7 +59,6 @@ Working hours expectations:
 * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
     * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
     * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
-      * [How We Use the Calendar](meetings-and-meeting-tools.md#calendar)
     * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
     * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
 * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
