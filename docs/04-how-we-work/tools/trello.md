@@ -12,6 +12,13 @@ Trello is a collaborative task and project management tool that we use extensive
 
 Trello is very easy to use, and a robust featureset whose intuitve UI means the features don't get in the way of getting work done. It is well documented at <https://trello.com/guide>, but you probably won't need to read much documentation.
 
+## <a name="getstarted"></a>Get Started with Trello
+
+* Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
+* Getting started [guide](https://trello.com/guide)
+* "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
+* Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
+
 ## The Basics (Naming Conventions and the general idea).
 
 Trello has "boards" where work is tracked, using the metaphor of a whiteboard with columns taped with masking tape, and index card or sticky notes.

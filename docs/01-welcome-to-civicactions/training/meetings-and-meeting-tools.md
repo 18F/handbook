@@ -17,7 +17,7 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 
 #### All Hands Calls Overview
 
-* We use "Blue Jeans" or Zoom for this (see [more about these tools](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom))
+* We use Zoom for this (see [more about zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom))
 * Everyone on team is encouraged to join
 * Invites with links are sent out the day of
 * Meetings occur frequently as listed below
@@ -43,7 +43,7 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 
 Weekly pod calls help us stay in touch and in tune with each other. These are loosely arranged by time zone, and are generally casual and chatty in tone.
 
-* Weekly Pod Calls
+* Weekly pod Calls
 * Still a process in progress as we grow
 * A focus to connect with team members outside your project
 * Feel connected with the team as a whole
@@ -74,37 +74,16 @@ The last project-specific meeting is sprint planning. Sprint planning takes many
 
 For more specific information, see [Sprint Planning Meetings](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/sprint-planning-meetings.md).
 
+### Backlog grooming
+
+Backlog Grooming meetings are a chance to update and prioritize stories in the product backlog so that we know what's available for upcoming sprints.
+
+For more detail, read our  [Backlog grooming](../../04-how-we-work/agile-baseline/02-process/practices/backlog-grooming.md) page.
+
 ## Tools
 
-Here's an overview of how CivicActions uses specific tools to facilitate meetings.
+Here are links to more information about how CivicActions uses specific tools to facilitate meetings.
 
-### <a name="calendar"></a>Google Calendar
-
-**CivicActions uses shared calendars** in [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar) for CivicActions standing meetings, birthdays, and "out of office" time.
-
-**You can specify which hours you work.** From the guide: "About a third of the way down the 'General' settings' page there's a section called 'Working hours' and a checkbox that's unchecked by default. If you check it, you can specify your preferred working hours. Once you save your changes, other people will get a warning if they try to schedule you outside those times."
-
-**You can see other people's public calendars to help schedule meetings.** To view someone else's calendar, type their name in the lefthand column under "other calendars." Finally, there's a link titled "Find a time" (left of what's shown in the gif, below) which shows everyone's schedules next to each other so you can easily see when there are no conflicts.
-
-**You can set up blocks of time that people can reserve.** Just select "Appointment slots" after you choose a window of time.
-
-For Google Calendar best practices, see [Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar).
-
-### Doodle
-
-People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-time surveys. If you're flexible on when you want your meeting to start, it's a great idea to send out a Doodle and poll attendees on what times work for them.
-
-### Google Hangouts
-
-[Google Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts) are video chats in the browser. Here are some tips for using Hangouts:
-
-* **You can add a Google Hangout to a meeting invite** by clicking "Add video call" on the event management page.
-* **You can also start or share a hangout from Slack** by typing `/hangout`.
-* **You can dial people into a Hangout.** A Hangout's "invite" dialog can generate a phone number that people can call.
-* Use screensharing for demos and for pairing.
-
-For Google Hangouts best practices and available commands, see [Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md#hangouts).
-
-### BlueJeans and Zoom
-
-We use [BlueJeans](https://www.bluejeans.com/) and [Zoom](https://zoom.us/) video conferencing software for weekly and monthly all hands calls and some other meetings. You can use BlueJeans or Zoom in browser, but you may want to consider downloading the BlueJeans or Zoom App.
+* [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
+* [Google Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
+* [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom)

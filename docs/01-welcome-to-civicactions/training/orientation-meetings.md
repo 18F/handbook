@@ -13,17 +13,13 @@ Overview of [TriNet](https://sso.trinet.com/auth/cdcservlet?realm=sw_hrp&goto=ht
 * Direct deposit form
 * Benefits selection
 * Anti-Harassment Training
+    * (Visit "My Company", then select "Training").
 
 Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
 
 ### First Orientation
 
-Get started with Trello (30 minutes)
-
-* Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
-* Getting started [guide](https://trello.com/guide)
-* "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
-* Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
+Get started with [Trello](../../04-how-we-work/tools/trello.md#getstarted) (30 minutes)
 
 Introduction to the [mentoring program](mentoring-program.md)
 
@@ -55,9 +51,6 @@ Working hours expectations:
     * If you're an Engineer: CA > Delivery > Engineering
     * If you're a PM: CA > Delivery > Project Management
     * Enter a description like the above examples in the task description that includes the word "onboarding"
-* Logging Meetings as an Engineer / PM
-    * If you're an Engineer: CA > Delivery > Engineering
-    * If you're a PM : CA > Delivery > Project Management
 
 ### Communication Tools
 
@@ -67,7 +60,6 @@ Working hours expectations:
 * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
     * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
     * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
-      * [How We Use the Calendar](meetings-and-meeting-tools.md#calendar)
     * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
     * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
 * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
