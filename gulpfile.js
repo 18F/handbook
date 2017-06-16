@@ -28,7 +28,7 @@ gulp.task('remark', function () {
         "rcPath": ".remarkrc.error"
       }))
     // Save any changes.
-    .pipe(gulp.dest('.'))
+    // .pipe(gulp.dest('.'))
     // Finally, run against "warning" configuration.
 
     // Temporarily disabled because retext is not very helpful yet. 

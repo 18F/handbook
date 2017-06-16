@@ -40,11 +40,11 @@ Current content strategy offerings:
 * **Content modeling.** A content model is a diagram or chart that documents the elements of and relationships between all the different types of content for a given project. Content models can be used to validate concepts with stakeholders, and they also encourage communication and collaboration between designers, developers, and content creators.
 
 * **Wireframes and page tables.** Wireframes and page tables are used to convey content requirements defined and driven by messaging, business objectives and user goals, ensuring that content receives the attention it deserves at the right time during the project. Most information architecture documentation, page- and/or component-level documentation is captured in wireframes. Page tables identify and explain key content recommendations, taking wireframes to the next level. They include:
-  * content objective(s)
-  * key messages
-  * specific content recommendations
-  * source content quality
-  * guidelines for how to create and maintain the content
+    * content objective(s)
+    * key messages
+    * specific content recommendations
+    * source content quality
+    * guidelines for how to create and maintain the content
 
 ## Information Architecture (IA)
 

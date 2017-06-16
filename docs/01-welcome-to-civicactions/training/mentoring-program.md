@@ -17,10 +17,10 @@ A mentor typically has been with CivicActions for at least six months to one yea
 * Invite your new hire to any of your project meetings that you think might be helpful to have him/her observe
 * Put yourself in your new hire’s shoes. What important info do you wish you had known at that time?  Share it!
 * Conversation starters:
-  * What have you been learning during your onboarding sessions with your manager?
-  * In what areas do you feel strong/confident?
-  * In what areas do you feel unsure?
-  * How is your project going? Are you able to apply your onboarding learnings there?
+    * What have you been learning during your onboarding sessions with your manager?
+    * In what areas do you feel strong/confident?
+    * In what areas do you feel unsure?
+    * How is your project going? Are you able to apply your onboarding learnings there?
 * Share some “pro-tips” with your new hire. These are typically work shortcuts and tools that make life easier. Example: Ctrl+D in Hangouts is a mute/unmute button.
 
 ## Mentor To-Do Checklist

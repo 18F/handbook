@@ -29,7 +29,7 @@ Then:
 [Harvest Documentation](https://docs.google.com/document/d/19QoYLImoL7hkyW3686g5wKIuc9Ghz059o_OzqH472Sc/edit?usp=sharing)
 
 * If you're an engineer: CA > Delivery > Engineering
-  * Types of meetings: All hands call, Bi-Weekly Engineering Meeting, Pod Calls, Monthly All Hands Call
+    * Types of meetings: All hands call, Bi-Weekly Engineering Meeting, Pod Calls, Monthly All Hands Call
 * If you're a Project Manager: CA > Delivery > Project Management
 * Types of meetings: All hands call, Weekly Agile PM Meeting, Pod Calls, Monthly All Hands Call, Check-ins with team members on performance & balance, etc
 
@@ -49,11 +49,11 @@ Enter a description like the below examples in the task description that include
 * For the remaining days in the week "re-submit" the timesheet EACH DAY
 * Put description of work in each entry and ensure that you've selected correct project and role
 * Track your time in increments of 15 minutes, rounded up per CivicActions protocol
-  * If you use a time tracker, you do not need to round your hours up to 15 min intervals bc the report that gets run rounds it up for you. Although no harm if you do it manually still.
-  * Time billed to the client is in 15 min increments. It will automatically round in the reports, but you'll see actuals in your timesheet.
-  * Use your judgement if something took 2 minutes but another task took 10, then consider lumping them together (if they're the same project) to 15 minutes together
-  * A full time employee is slotted for a 40 hour work week
-  * Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for civicactions related meetings or comms, she should bill it all to the fixed price project.  She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
+    * If you use a time tracker, you do not need to round your hours up to 15 min intervals bc the report that gets run rounds it up for you. Although no harm if you do it manually still.
+    * Time billed to the client is in 15 min increments. It will automatically round in the reports, but you'll see actuals in your timesheet.
+    * Use your judgement if something took 2 minutes but another task took 10, then consider lumping them together (if they're the same project) to 15 minutes together
+    * A full time employee is slotted for a 40 hour work week
+    * Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for civicactions related meetings or comms, she should bill it all to the fixed price project.  She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
 
 ![Harvest screenshot 2](../../images/harvest02.png)
 
