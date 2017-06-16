@@ -17,7 +17,7 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 
 #### All Hands Calls Overview
 
-* We use "Blue Jeans" or Zoom for this (see [more about these tools](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom))
+* We use Zoom for this (see [more about zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom))
 * Everyone on team is encouraged to join
 * Invites with links are sent out the day of
 * Meetings occur frequently as listed below
@@ -43,7 +43,7 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 
 Weekly pod calls help us stay in touch and in tune with each other. These are loosely arranged by time zone, and are generally casual and chatty in tone.
 
-* Weekly Pod Calls
+* Weekly pod Calls
 * Still a process in progress as we grow
 * A focus to connect with team members outside your project
 * Feel connected with the team as a whole
@@ -74,6 +74,12 @@ The last project-specific meeting is sprint planning. Sprint planning takes many
 
 For more specific information, see [Sprint Planning Meetings](https://github.com/CivicActions/agile-baseline/blob/master/03-process/practices/sprint-planning-meetings.md).
 
+### Backlog grooming
+
+Backlog Grooming meetings are a chance to update and prioritize stories in the product backlog so that we know what's available for upcoming sprints.
+
+For more detail, read our  [Backlog grooming](../../04-how-we-work/agile-baseline/02-process/practices/backlog-grooming.md) page.
+
 ## Tools
 
 Here's an overview of how CivicActions uses specific tools to facilitate meetings.
@@ -90,9 +96,6 @@ Here's an overview of how CivicActions uses specific tools to facilitate meeting
 
 For Google Calendar best practices, see [Basic Communication Tools](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar).
 
-### Doodle
-
-People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-time surveys. If you're flexible on when you want your meeting to start, it's a great idea to send out a Doodle and poll attendees on what times work for them.
 
 ### Google Hangouts
 

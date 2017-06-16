@@ -18,12 +18,7 @@ Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs
 
 ### First Orientation
 
-Get started with Trello (30 minutes)
-
-* Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
-* Getting started [guide](https://trello.com/guide)
-* "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
-* Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
+Get started with [Trello](../..04-how-we-work/tools/trello.md#getstarted) (30 minutes)
 
 Introduction to the [mentoring program](mentoring-program.md)
 
@@ -55,9 +50,6 @@ Working hours expectations:
     * If you're an Engineer: CA > Delivery > Engineering
     * If you're a PM: CA > Delivery > Project Management
     * Enter a description like the above examples in the task description that includes the word "onboarding"
-* Logging Meetings as an Engineer / PM
-    * If you're an Engineer: CA > Delivery > Engineering
-    * If you're a PM : CA > Delivery > Project Management
 
 ### Communication Tools
 

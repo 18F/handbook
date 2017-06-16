@@ -20,5 +20,5 @@ Sprint planning should prevent any work week from becoming too huge. But even wi
 
 ## More Reading
 
-* Read [blog post](http://www.civicactions.com/blog/2014/may/20/how-to-use-balance-scores-to-improve-velocity-in-scrum)
+* Read this [blog post](http://www.civicactions.com/blog/2014/may/20/how-to-use-balance-scores-to-improve-velocity-in-scrum)
 * Watch this [All Hands Call](https://docs.google.com/a/civicactions.com/file/d/0Byx0FzObxDt3dWRHU0Q1TFdaNFE/)

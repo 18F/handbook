@@ -31,7 +31,7 @@ A mentor typically has been with CivicActions for at least six months to one yea
 
 ## Template: Initial email to new hire from Onboarding Manager
 
-*(For reference only. Onboarding manager will send this.*
+*(For reference only. Onboarding manager will send this).*
 
 \[Mentor], I thought you would be a good mentor to team up with \[new hire] as s/he's still getting his feet wet with CivicActions. new hire is a \[role] working on the project. S/He started on \[date] with us.
 \[New hire] has made great progress with settling into her/his project & role here, but there are inevitably still questions, best practices, workflows, etc that you two can work through.

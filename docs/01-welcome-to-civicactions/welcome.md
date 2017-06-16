@@ -23,44 +23,13 @@ This is a typical onboarding schedule, but the timing may shift based on when yo
 
 The first week will be dedicated to general orientation. You'll also learn about our working practices, our primary tools and how we use them, and your specific job role.
 
-#### Day 1
+* Day 1 [Orientation](training/orientation-meetings.md#day1)
+* Day 2 [Orientation](training/orientation-meetings.md#day2)
+* Day 3 [Orientation](training/orientation-meetings.md#day3)
+* Day 4 [Orientation](training/orientation-meetings.md#day4)
+* Day 5 [Orientation](training/orientation-meetings.md#day5
 
-* [Orientation Meeting](training/orientation-meetings.md#day1) (1-2 hours) with your onboarding manager
-* Complete "Your first day" tasks on your "New Hire Checklist" Trello board
-* Afternoon Check-in Call (15-30 minutes) with your onboarding mentor
-* *Pro Tip: Remember to EAT LUNCH!*
-
-#### Day 2
-
-* [Orientation Meeting](training/orientation-meetings.md#day2) (1 hour) with your onboarding manager
-* [Training: Intro to CivicActions Process, Part 1](training/intro-to-civicactions-process.md) (1-2 hours)
-* "Second day" tasks on your "New Hire Checklist" Trello board
-* Afternoon Check-in Call (15-30 minutes) with your onboarding mentor
-
-#### Day 3
-
-* [Orientation Meeting](training/orientation-meetings.md#day3) (1 hour) with your onboarding manager
-* [Training: Intro to CivicActions Process, Part 2](training/intro-to-civicactions-process.md) (1 hour)
-* [Training: Security for Everyone](training/security-training.md) (1-2 hours) with Fen
-* "First week" tasks on your "New Hire Checklist" Trello board, at your own pace
-* Afternoon Check-in Call (15-30 minutes) with your onboarding mentor
-
-#### Day 4
-
-* [Orientation Meeting](training/orientation-meetings.md#day4) (1 hour) with your onboarding manager
-* Role-based Training (TBD)
-* "First week" tasks on your "New Hire Checklist" Trello board, at your own pace
-* Afternoon Check-in Call (15-30 minutes) with your onboarding mentor
-
-#### Day 5
-
-* [Orientation Meeting](training/orientation-meetings.md#day5) (1 hour) with your onboarding manager
-* Role-based Training (TBD)
-* Introduction to CivicActions Culture (1 hour) with Aaron
-* "First week" tasks on your "New Hire Checklist" Trello board, at your own pace
-* Afternoon Check-in Call (15-30 minutes) with your onboarding mentor
-
-The rest of your first month will be dedicated to completing the "First month" tasks in your New Hire Checklist, and further acclimating to your role and project(s). Welcome aboard!
+The rest of your first month will be dedicated to completing the trainings and task in the orientation lists, and further acclimating to your role and project(s). Welcome aboard!
 
 ## <a name="links"></a>Links and Resources
 

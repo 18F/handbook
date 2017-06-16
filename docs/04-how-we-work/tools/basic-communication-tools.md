@@ -25,13 +25,13 @@
 
 ### Tips
 
-* Consider using the word "ping" to check on the availability of someone 
+* Consider using the word "ping" to check on the availability of someone
 * Create a Google Hangout from Slack: type **/hangout** (will need to authorize the slack app in hangout too)
 * To quickly bring back the last message you sent back to the text box, just press the Up arrow key.
 * You can adjust notification preferences:
-  ![Slack Notifications](../../../images/slack-notifications.png).
-* Wrap your text in single asterisks for **bold**, underscores for *italics*, `grave accents` for code, and start the line with a > sign to make it a block quote. ![Formatting in Slack](../../../images/slack-formatting.png "Slack Formatting") is similar to Markdown.
-* To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (`Your code here. Some more code.`). ![Wrapping code](../../images/backticks.png "Wrapping code").
+  ![Slack Notifications](../../images/slack-notifications.png)
+* Wrap your text in single asterisks for **bold**, underscores for *italics*, `grave accents` for code, and start the line with a > sign to make it a block quote. Formatting in Slack is similar to Markdown.![Formatting in Slack](../../images/slack-formatting.png "Slack Formatting")
+* To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (`Your code here. Some more code.`). ![Wrapping code](../../images/backticks.png "Wrapping code")
 
 ### Further Reading
 
@@ -95,6 +95,7 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * It's okay to mute other each other
 * We can invite people outside of CivicActions, too
 * You can also use the Hangout to call people in via phone: ![call people in via phone](../../images/hangouts-phone.png "Call from hangouts")
+* If you want to focus on just one participant (or their screen, if they're screensharing), you can stop the screen from switching by clicking on their picture/screenshare. To go back to automated switching, just click it again. ![stop screen switching](../../images/stop_screen_switching_in_hangouts.png "Stop screen switching in hangouts")
 
 #### Available Commands
 
