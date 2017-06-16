@@ -13,7 +13,7 @@ Overview of [TriNet](https://sso.trinet.com/auth/cdcservlet?realm=sw_hrp&goto=ht
 * Direct deposit form
 * Benefits selection
 * Anti-Harassment Training
-  * (Visit "My Company", then select "Training").
+    * (Visit "My Company", then select "Training").
 
 Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
 
