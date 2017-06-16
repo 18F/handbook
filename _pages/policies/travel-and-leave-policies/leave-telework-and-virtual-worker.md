@@ -29,7 +29,7 @@ Before taking leave, be sure to:
 
 ### Annual leave
 
-Annual leave accrues at a different rate depending on how long you've worked for the federal government. If you've worked for the federal government fewer than three years, you accrue four hours of annual leave per pay period (which equates to 13 days per year). If you've worked for the federal government between three and 15 years, you accrue six hours per pay period. After 15 years, you accrue eight hours per pay period.
+Annual leave accrues at a different rate depending on how long you've worked for the federal government. If you've worked for the federal government fewer than three years, you accrue four hours of annual leave per pay period (which equates to 13 days per year). If you've worked for the federal government between three and 15 years, you accrue six hours per pay period. After 15 years, you accrue eight hours per pay period. To check your accrual rate, log in to [CHRIS](https://hrprod.hr.gsa.gov:4443/OA_HTML/AppsLocalLogin.jsp?langCode=US), open the "leave" tab, and your leave accrual rate is the number on the "Leave Category" line.
 
 The maximum annual leave you can carry over from calendar year to calendar year is 240 hours. If you transfer from another federal agency, your annual leave transfers with you.
 
