@@ -18,7 +18,7 @@ Review and acknowledge Conflict of Interest (COI) plan here:  [COI](https://docs
 
 ### First Orientation
 
-Get started with [Trello](../..04-how-we-work/tools/trello.md#getstarted) (30 minutes)
+Get started with [Trello](../../04-how-we-work/tools/trello.md#getstarted) (30 minutes)
 
 Introduction to the [mentoring program](mentoring-program.md)
 
