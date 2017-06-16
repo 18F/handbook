@@ -68,6 +68,16 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 
 ### <a name="google-calendar"></a>Google Calendar
 
+#### Overview
+
+**CivicActions uses shared calendars** in [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar) for CivicActions standing meetings, birthdays, and "out of office" time.
+
+**You can specify which hours you work.** From the guide: "About a third of the way down the 'General' settings' page there's a section called 'Working hours' and a checkbox that's unchecked by default. If you check it, you can specify your preferred working hours. Once you save your changes, other people will get a warning if they try to schedule you outside those times."
+
+**You can see other people's public calendars to help schedule meetings.** To view someone else's calendar, type their name in the lefthand column under "other calendars." Finally, there's a link titled "Find a time" (left of what's shown in the gif, below) which shows everyone's schedules next to each other so you can easily see when there are no conflicts.
+
+**You can set up blocks of time that people can reserve.** Just select "Appointment slots" after you choose a window of time.
+
 #### Best Practices
 
 * Set your location, time zone and working hours (& keep them current) using calendar settings: ![Calendar Settings](../../images/CivicActions_Calendar_Settings.png "Calendar settings")
@@ -83,6 +93,14 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * Add the Out of Office Calendar !["CivicActions: Out of Office"](../../images/ooo-cal1.png "Out of Office Calendar") calendar
 
 ### <a name="hangouts"></a>Google Hangouts
+
+#### Overview
+Google Hangouts are video chats in the browser. Here are some tips for using Hangouts:
+
+* **You can add a Google Hangout to a meeting invite** by clicking "Add video call" on the event management page.
+* **You can also start or share a hangout from Slack** by typing `/hangout`.
+* **You can dial people into a Hangout.** A Hangout's "invite" dialog can generate a phone number that people can call.
+* Use screensharing for demos and for pairing.
 
 #### Best Practices
 
@@ -127,6 +145,7 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 ## <a name="bluejeans-zoom"></a>Zoom
 
 * We use [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and monthly All Hands Calls. To participate, you may download the Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
+* In the past we've also used [BlueJeans](https://www.bluejeans.com/). 
 
 ## <a name="telephone-use"></a>Telephone Use
 
