@@ -41,7 +41,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
    The recommended resource for booking hotels as a Federal government employee is [Fedrooms.com](http://fedrooms.com).
 
-   You may, however, choose to book a hotel directly or through an alternative service if those alternatives are “advantageous to the government” -- meaning either less expensive or closer to your work site(s) than the options available on Fedrooms. Whatever option you choose, however, must be "fire safe" and fully refundable up to 24 hours before departure.
+   You may, however, choose to book a hotel directly or through an alternative service if those alternatives are “advantageous to the government” -- meaning either less expensive or closer to your work site(s) than the options available on Fedrooms. Whatever option you choose, however, must be ["fire safe"](http://www.gsa.gov/portal/content/102177) and fully refundable up to 24 hours before departure.
 
 8. **Travel!** And keep receipts
 
@@ -75,7 +75,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
 9. After you return, **create a voucher for reimbursement**:
 
-   You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in OLU, you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
+   You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in [GSA's Online University (OLU)](https://gsaolu.gsa.gov/), you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
 
    Once you get access, you can follow [these instructions for how to complete a voucher](https://handbook.18f.gov/travel-guide-5-reimbursement/). Feel free to reach out in #travel and request to set up a 30 minute crash course in how to use Concur if anything seems confusing.
 
@@ -87,8 +87,8 @@ If this link does not automatically open up a gmail window for the the Employer 
 
 The easiest option is to have your airline reschedule you. If that's not possible or timely, you may also call Ad-Trav at *(877) 472-6716* to be rebooked on any airline.
 
-If you are traveling to orientation and are worried that you will miss it because of delays or cancellations, please let [shawnique.muller@gsa.gov](mailto:shawnique.muller@gsa.gov) know and she will make arrangements for you to swear in when you expect to arrive. You may have to attend GSA orientation in your home city 2 weeks later, but please continue to travel to the office where your orientation was scheduled to be for 18F onboarding.
+If you are traveling to orientation and are worried that you will miss it because of delays or cancellations, please email the [Talent Team](mailto:tts-talentteam@gsa.gov) and copy anyone who helped you set up travel.  We will make arrangements for you to swear in when you expect to arrive. You may have to attend GSA orientation in your home city 2 weeks later, but please continue to travel to the office where your orientation was scheduled to be for 18F onboarding.
 
-While Shawnique and the travel team won't be available until Monday if your cancellation occurs over the weekend, please feel comfortable rebooking your travel either though the airline or via Ad-Trav, and rest assured that you will be in good hands when you arrive at 18F.
+While the Talent and Travel Teams won't be available until Monday if your cancellation occurs over the weekend, please feel comfortable rebooking your travel either though the airline or via Ad-Trav, and rest assured that you will be in good hands when you arrive at 18F.
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

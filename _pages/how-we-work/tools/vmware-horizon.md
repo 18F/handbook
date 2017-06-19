@@ -12,7 +12,7 @@ New employees should have a GSA VMware myView/Horizon account, but if not:
   2. Sign in with your ENT username and password.
   3. Click **Submit Catalog Request**.
   4. Click **Accounts & Access Requests**.
-  5. Click **myView (Virtual Desktop) Access Request**.
+  5. Click **Horizon (formerly myView) Access Request**.
   6. Complete the required fields.
   7. Click **Order Now**.
 
@@ -22,7 +22,7 @@ New employees should have a GSA VMware myView/Horizon account, but if not:
 1. When using the installed software (VMWare Horizon Client), you will be prompted for "the name of the Connection Server"—enter **horizon.gsa.gov**.
 1. Enter a [one time password](/distributed#otp).
 
-Note: myView/Horizon allows for a virtual desktop in browser with no downloads.
+Note: Horizon/myView allows for a virtual desktop in browser with no downloads.
 
 #### Still have questions?
 

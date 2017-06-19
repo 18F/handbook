@@ -11,10 +11,15 @@ title: Agreements
 - _IAA_ is our shorthand for using the Treasury Department&rsquo;s standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
 - An MOU is a single document to record work done by 18F for OCSIT. Since 18F is part of OCSIT, this agreement is between 18F/OCSIT and the GSA-CFO to allow the transfer of funds from the OCSIT appropriation to 18F for work to be done. Team Ops provides a [template](https://drive.google.com/open?id=1WiUb-FiM93UNFSvL_TgtcGog7m5BGlutI1SWMFyQOJg) for your use.
 
-Under no circumstances does 18F do work without a signed, executed agreement in place. If you have a question about the existence of an agreement or whether work can begin, ask in [#iaa](https://gsa-tts.slack.com/archives/iaa).
+## Policies
+
+### TTS Policy for Beginning Billable Work
+18F does not work without a signed, executed agreement in place. Please review the [TTS Policy for Beginning Billable Work](https://docs.google.com/document/d/1q010J_VAQb9w1djbgnDsZ8p43ZB_qZUH3_hlOkeoL8Q) to see the full policy.
+
+### TTS Policy and Process for GSA Chief Information Officer FITARA Review
+18F complies with FITARA and follow the [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1sO8cE3eyTclOkwnxNTMG5dg2qhP3AmJesGobM1m_LQw/edit).
 
 For more information about how we do business, see our [account management policy](/client-accounts/).
-
 
 ## What are the contents of an IAA?
 
@@ -49,7 +54,7 @@ The information below provides more detail than we typically give clients. Team 
 
 ### Kickoff
 
-1. The project lead submits the [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/13--i0fRhgSgP9sRVkn7RvPN0Lrbwvg4cpMOctN3Ygrc/viewform), which includes a link to the [cost estimate](https://drive.google.com/open?id=0BwzPQaT19ZdofjhPRGRhLW1BWGNQc1kzTHhZbDA2YW15UzhMd05jWDYxdEtob18yTEJkbTQ), period of performance, statement of work (if drafted), and basic client data.
+1. The project lead submits the [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdRQerRDxl4hPX_zTQJcY9fR9i0z3LI3dLQiKE0uyJ5fF666g/viewform), which includes a link to the [cost estimate](https://drive.google.com/open?id=0BwzPQaT19ZdofjhPRGRhLW1BWGNQc1kzTHhZbDA2YW15UzhMd05jWDYxdEtob18yTEJkbTQ), period of performance, statement of work (if drafted), and basic client data.
 1. Team Ops receives the form and:
  - Creates a file folder with all appropriate templates
  - Emails the folder to the project lead

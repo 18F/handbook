@@ -6,7 +6,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 
 ### Leadership
 
-[Cristina Brydges](https://gsa-tts.slack.com/team/cristina) is the Deputy Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
+[Cristina Brydges](https://gsa-tts.slack.com/team/cristina) is the Acting Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
 
 Generally speaking, neither Cristina nor 18F can &ldquo;advise&rdquo; you on benefits &mdash; everything 18F offers is actually owned and run by GSA&rsquo;s HR and Benefits groups. She can, however, help you escalate questions and problems and point you in the right direction.
 
@@ -56,6 +56,8 @@ Please note that FSA does not automatically renew each year; you must re-enroll 
 
 ## Insurance
 
+### Health
+
 The [Federal Employees Health Benefits (FEHB)](https://www.opm.gov/healthcare-insurance/healthcare/) program offers a wide selection of health plans for eligible employees and their eligible family members.
 
 Eligible employees may choose from:
@@ -84,6 +86,19 @@ To qualify for [dental insurance](https://www.opm.gov/healthcare-insurance/denta
 To qualify for [vision insurance](https://www.opm.gov/healthcare-insurance/dental-vision/), you must sign up within 60 days of joining 18F, after a qualifying life event, or during Open Season. Some health insurance plans come with vision coverage, so you may not need vision insurance. Read your plan booklet to see what's covered. You can sign up for vision coverage on [Benefeds](https://www.benefeds.com/).
 
 If you have an eye appointment but have yet to receive your card(s), you can look up your Vision Care subscriber ID online. To do so, log on to [CHRIS](http://www.gsa.gov/portal/content/105088) (your username is first name middle initial last name with no spaces), select Employee Views from the GSA Personal Self Service menu, and select the Benefits tab. (Note: it may take 4-6 weeks for your CHRIS login to work.)
+
+### Filing an insurance complaint
+
+If you're having difficulty resolving an issue or getting clarification from your insurer, follow these steps:
+
+1. Email [FEHB@opm.gov](mailto:FEHB@opm.gov) and make sure to include: 
+  * Name of the insurer
+  * Issue that you need resolved
+  * What outcome you would like 
+  * A huge thanks to the team that wrangles these complaints
+2. They forward the issue to the company and use the complaint to see if there's a pattern of abuse by the company
+  * The company fix the issue at this point
+3. If you do not hear back within a reasonable timeframe, follow up with FEHB@opm.gov
 
 
 ## Leave
@@ -154,7 +169,7 @@ You get two 15-minute breaks per day. These breaks do not extend the work day, s
 
 We are paid biweekly. You’ll receive your first paycheck about three weeks after your start date. This is because every 18F employee starts work at the beginning of a pay period. It takes a week after the end of a pay period for a direct deposit to be made. See the [GSA Payroll Calendar](http://www.gsa.gov/portal/content/102507) to determine future pay cycles.
 
-Please direct questions to the [payroll help desk](http://www.gsa.gov/portal/staffDirectory/generic/105468): 1-800-676-3690+33900 &mdash; or [email them](mailto:kc-payroll.finance@gsa.gov).
+Please direct questions to the [payroll help desk](http://www.gsa.gov/portal/staffDirectory/generic/105468): **1-844-303-6515** &mdash; or [email them](mailto:kc-payroll.finance@gsa.gov).
 
 To see your recent pay stubs:
 
@@ -174,7 +189,7 @@ Employees at 18F are eligible to participate in the [Thrift Savings Plan](https:
 
 If you ever move, you can update your address for TSP by emailing it to both the [Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the [GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the TSP office of your new address.
 
-To transfer your previous retirement account into your TSP, you&rsquo;ll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing 1-877-968-3778. Be sure to have your TSP account number and your SSN and mailing address handy.
+To transfer your previous retirement account into your TSP, you&rsquo;ll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
 
 Note: If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans can not be higher than the annual limit of $18,000. The limit is not $18,000 per plan, but [$18,000 in aggregate](https://www.tsp.gov/PDF/formspubs/oc91-13.pdf).
 

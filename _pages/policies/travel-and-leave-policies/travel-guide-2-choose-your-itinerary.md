@@ -54,10 +54,10 @@ If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](ht
 * **Review and Reserve Flight:** Review your flight itinerary, passenger information, frequent flyer information.
 <img src="/images/travel/8-passenger-info.png" class="travel-guide-hide" alt="reviewing the flight">
 
-* Click **Reserve Flight and Continue.** _Note that your itinerary will not be reserved until the trip is approved by Ethan Heppner or Victor Valdiviezo._
+* Click **Reserve Flight and Continue.** _Note that your itinerary will not be reserved until the trip is approved by Ethan Heppner._
 <img src="/images/travel/8a-reserve-flight.png" class="travel-guide-hide" alt="reserving the flight">
 
-* You will then be taken to the **Trip Overview**. This page also lists your current reservations. Note the deadline on the confirmation page. Ensure that you have approval from Ethan Heppner or Victor Valdiviezo before this date. Your tickets are booked, but are not purchased until one of them approves.
+* You will then be taken to the **Trip Overview**. This page also lists your current reservations. Note the deadline on the confirmation page. Ensure that you have approval from Ethan Heppner before this date. Your tickets are booked, but are not purchased until one of them approves.
 <img src="/images/travel/9-trip-details.png" class="travel-guide-hide" alt="viewing the Trip Overview">
 
 * Scroll to the bottom of this page and click **Next**. This message will pop up, prompting you to book a hotel.
@@ -65,7 +65,7 @@ If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](ht
 
 ### Book lodging
 
-[Fedrooms](https://www.fedrooms.com) is the preferred way to book accommodations while traveling on official business. All rooms are "fire-safe", under the government maximum rate, and fully refundable up to 24 hours before check-in, which minimizes both overall cost and risk to the government.
+[Fedrooms](https://www.fedrooms.com) is the preferred way to book accommodations while traveling on official business. All rooms are ["fire-safe"](http://www.gsa.gov/portal/content/102177), under the government maximum rate, and fully refundable up to 24 hours before check-in, which minimizes both overall cost and risk to the government.
 
 When booking hotels for official travel, always use your travel card, whether you are using Fedrooms, Concur, or any other service.
 
@@ -81,6 +81,6 @@ If booking in Fedrooms or using another service, when Concur prompts you to sele
 
 Choosing **"I will book a hotel now"** is another option available to you, which is sometimes, but not always similar to Fedrooms. Choosing this option will allow you to book a hotel in Concur is to book directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile). Then, you can go ahead and follow some more detailed instructions [here](/how-to-book-a-hotel-in-concur).
 
-When you are finished booking your hotel,[proceed on to submitting for Concur approval](/travel-guide-3-approval)
+When you are finished booking your hotel, [proceed on to submitting for Concur approval](/travel-guide-3-approval).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

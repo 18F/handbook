@@ -872,10 +872,6 @@ a[id]{
 
 .page ol li{ list-style-type: decimal; }
 .page ol li li { list-style-type: lower-latin; }
-.page ol li a {
-	text-decoration: none;
-}
-
 
 .page ol > li li{
 	margin-bottom: 0.2em;
@@ -1084,28 +1080,14 @@ a[id]{
 	margin: 0 auto;
 }
 
-.layout-table-of-contents .wrapper ol li.classes,
-.layout-table-of-contents .wrapper ol li.offices,
-.layout-table-of-contents .wrapper ol li.teams,
-.layout-table-of-contents .wrapper ol li.tools{
+.layout-table-of-contents .wrapper ol li.toc-nav-child-with-children{
 	font-weight: 600;
+  padding-top: 1em;
 }
 
-.layout-table-of-contents .wrapper ol li.classes,
-.layout-table-of-contents .wrapper ol li.offices,
-.layout-table-of-contents .wrapper ol li.teams,
-.layout-table-of-contents .wrapper ol li.tools{
-	padding-top: 1em;
-}
-
-.layout-table-of-contents .wrapper ol li.classes > ol,
-.layout-table-of-contents .wrapper ol li.offices > ol,
-.layout-table-of-contents .wrapper ol li.teams > ol,
-.layout-table-of-contents .wrapper ol li.tools > ol{
+.layout-table-of-contents .wrapper ol li.toc-nav-child-with-children > ol{
 	padding-top: 0.6em;
-
 }
-
 
 .layout-table-of-contents .wrapper ol li.policies{
 	padding-bottom: 1em;

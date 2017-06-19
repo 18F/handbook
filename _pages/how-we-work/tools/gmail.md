@@ -10,7 +10,7 @@ You can access your email from <https://mail.google.com> or <https://mail.gsa.go
 
 ## Rules
 
-**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
+**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Holly Allen](https://gsa-tts.slack.com/messages/holly/).
 
 ## Tips
 
@@ -25,7 +25,7 @@ You can access your email from <https://mail.google.com> or <https://mail.gsa.go
 
   - You can read more about Chrome's protocol handlers at [The Complete Guide to Google Chrome Handlers](http://www.ashout.com/complete-guide-to-google-chrome-handlers/)
 
-- **If you go by a different name, create an alias.** You can create an alias to have a different email address, like if you go by something other than your legal name.
+- **If you go by a different name, create an alias.** You can create an alias to have a different email address if you go by something other than your legal name. [Go to the GSA Service Now self-service page](https://gsa.service-now.com/GSA_Self-Service/) and submit a "GSA Generic Request" (Home > Make a request > Other requests > GSA Generic Request) asking for the email alias that you want.
 
 - **Create filters.** You can create filters to manage the influx of automatic emails you’ll be receiving (like Region X Communications). You can select "add a label" and automatically “archive" or put messages into different folders.
 

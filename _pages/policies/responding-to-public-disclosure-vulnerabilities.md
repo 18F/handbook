@@ -11,9 +11,11 @@ When someone in the public alerts us to a potential vulnerability, we need to re
 
 ## Triage the vulnerability
 
-In PagerDuty, someone is on call to be the **first responder**. This role rotates weekly.
+In order to respond quickly to reports submitted by the public, the Infrastructure team has designated a small group of folks who will monitor incoming reports and initiate response accordingly. This role has been designated **first responder** and will be assigned in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) with an @ (mention). Barring schedule conflicts, the role will rotate weekly. The [First Responder schedule](https://docs.google.com/document/d/1rjIUT2ElIWC8wsVGR3sYRqqybcapCnJY7ysGl0IhiH4/edit) is posted in the [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) channel topic.
 
-The **first responder** checks for reports upon notification via (TBD: Gmail push, Slack, PagerDuty text, etc). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**.
+* *cloud.gov note:* Response team members need to be on the cloud.gov whitelist for outside-of-business-hours email alerts. Each new response team member should tell the cloud.gov Product Lead, Director, or Deputy Director to add their email address to the whitelist.
+
+The **first responder** monitors reports received from the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov) or [through this reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. At this point, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
 
 Each metric above receives a single score on potential impact from the following list:
 
@@ -29,7 +31,9 @@ Scores of `low`, `moderate`, and `high` are subjective.
 
 In the case of an **incident**, the responder has determined for any reason that the vulnerability has _already_ impacted system confidentiality, integrity, or availability. The responder immediately follows the [security incident process](https://handbook.18f.gov/security-incidents/).
 
-If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the Infrastructure Lead **LINK** of the affected product or service.
+* *cloud.gov note:* If the reported issue involves **[cloud.gov](https://cloud.gov)** and is scored **moderate or higher**, the first responder **must** mention `@cg-team` in Slack and email **[`cloud-gov-emergency@gsa.gov`](mailto:cloud-gov-emergency@gsa.gov)**, so the cloud.gov team can help determine impact and respond to incidents.
+
+If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the [Infrastructure Lead](https://github.com/18F/Infrastructure/blob/master/ISSUE_TEMPLATE.md) of the affected product or service.
 
 ## File an issue
 

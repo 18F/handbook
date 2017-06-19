@@ -1,8 +1,11 @@
 ---
 title: Professional development and training
+tags: 
+- OLU
+- online learning university
 ---
 
-This post provides information about mandatory and professional development training opportunities.
+This post provides information about mandatory (OLU) and professional development training opportunities.
 
 
 ## Leadership
@@ -22,7 +25,7 @@ There are many training and professional development opportunities available to 
 
 ## Mandatory training
 
-All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov). Please note: You may not have access to this for your first four to six weeks at 18F, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include:
+All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. Time spent taking these trainings should be coded as `71 - Training / Prof Dev - Non Billable` in [Tock](https://tock.18f.gov/).  To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov). Please note: You may not have access to this for your first four to six weeks at 18F, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include:
 
 <table>
   <thead>
@@ -244,14 +247,34 @@ If the event host is paying any expenses (transportation, lodging, meals, etc.),
 
 And now, the fun part: It’s time for you to attend your conference or training! Once you get back, share what you’ve learned with your teammates. Consider leading a Learn Teach Learn session or a brown bag. You might also draft a blog post to share your learnings with a broader audience.
 
-
 ## Speaking at conferences
 
-If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please add that event to our [event spreadsheet](https://docs.google.com/spreadsheets/d/1Y0336rKQ4FiTFhoQynRjoVuJFzXEgaV0QcHqaNd-Eis/edit#gid=2065658991). You&rsquo;ll also need to follow [this guide](https://docs.google.com/document/d/1OjxymrHIU1VREv93HrG1sESzyrtx8B2kl_Ey4IL_4xc/edit#heading=h.t8mki1xtcuxz).
+If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please follow [this guide](https://docs.google.com/document/d/1OjxymrHIU1VREv93HrG1sESzyrtx8B2kl_Ey4IL_4xc/edit#heading=h.t8mki1xtcuxz).
+
+## Mentorship
+
+We have been slowly working on support for mentorship at 18F, including running a pilot program for some initial pairs of folks who have been interested in helping get things started. If you would like to learn more and/or participate, please see the [Mentorship](/mentorship) page for more details!
 
 ## Self-directed study for engineers
 
 Engineering Chapter members: Would you like to pursue a self-directed training option? Would you like to teach yourself a new programming language, read the latest book on software development ideology, or take an online course? You totally can! Please include the request as part of your Individual Development Plan (IDP). If there is any type of cost associated with your training, you will need to also submit a supervisor-approved (i.e., signed) Standard Form 182. Once you’ve submitted your IDP your Supervisor will usually approve the request within 72 hours, and you will be good to go! Please coordinate with your project to carve out the time, and with your Supervisor to determine the duration, goals, and success markers of self-directed study. Please talk with your Facilitator or Supervisor with any questions, comments, or concerns.
+
+## Self-directed study for designers
+
+Experience Design Chapter members: You can use some or all of your yearly training time for independent study. To do this, you should:
+
+- Work with your lead to define an independent study in your Individual Development Plan (IDP) that includes your desired measurable outcomes for your studies.
+- Tock your time to `71 - Training / Prof Dev - Non Billable` with a note in the description field. Example note: "I used 4 hours of my yearly training time towards my independent study in JavaScript."
+
+If you've Tock'd 32 hours to your assigned project, you can use the remaining 8 hours for whatever else needs to get done at 18F, including training, without using your yearly assigned training hours. To use some of this 8 hours for training, you should:
+
+- Work with your lead to define an independent study in your Individual Development Plan (IDP) that includes your desired measurable outcomes for your studies.
+- Tock your time to `71 - Training / Prof Dev - Non Billable` with a note in the description field. Example note: "After completing my project work, I used 2 hours of my remaining time this week toward my independent study in JavaScript."
+- Consider putting co-work time on the calendar at a few hours a week with a colleague or group of colleagues, even if you're not working on exactly the same skill.
+
+Remember, this all only holds true if you've Tock'd at least 32 hours to your assigned project. If you'd like to use some of that '32 hours' time for training (for example, to go to an all-day conference, or go heads-down for a few days working on your independent study), you have up to 4 days of time per fiscal year toward this.
+
+And finally, there are a a few weekly tasks that should come before training: design huddle, your discipline's huddle, critique group, and required [GSA trainings (OLU)](https://gsaolu.gsa.gov/). After those, you have flexibility in how you spend your time. Options include: guild work, independent study as per this guidance, and other internal projects.
 
 ## Other training resources
 

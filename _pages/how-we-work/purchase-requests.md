@@ -15,28 +15,28 @@ You'll then be able to proceed to make either an event request (for trainings an
 
 * [Trainings and conferences](/purchase-requests/#trainings-and-conferences)
 * [Business cards](/purchase-requests/#business-cards)
-* [Office supplies]((/purchase-requests/#office-supplies)
+* [Office supplies](/purchase-requests/#office-supplies)
 * [Mice, keyboards, and trackpads](/equipment/#mice-keyboards-and-trackpads)
 * [Software](/purchase-requests/#software) [(not currently in the 18F library)](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0)
 * [Equipment repair (laptop or phone)](/equipment/#repairs)
 * [Equipment to accommodate disability](/equipment/#equipment-to-accommodate-disability)
 * [Purchases over $3,500](/purchase-requests/#purchases-over-3500)
 
-### Trainings and conferences
+## Trainings and conferences
 
 Creating [a new event request in C2](https://requests.18f.gov/gsa18f/events/new) allows you to request a training or conference. Please ensure that you have downloaded a PDF copy of your [approved IDP from Salesforce](/professional-development-and-training/#create-your-individual-development-plan-idp), as you will need to attach it before submitting the form. If your request involves travel, please also attach [a budget](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) of your estimated travel expenses.
 
 There are a few more rules on requesting trainings and conferences at 18F, please read the full Handbook page on them [here](/professional-development-and-training/#professional-development-training).
 
-### Business cards
+## Business cards
 
 Different 18F team members have different solutions for business cards.
 
-If you want **GSA branding**, you can create a [new purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new). Once your request has been approved by the Director of Operations, an 18F purchase card holder will reach out to you and put 15 minutes on your calendar. During this meeting, you will work together to place your business card order using https://envisionprintservices.com/. Business cards orders will generally arrive 5-7 business days after placement.
+If you want **GSA branding**, you can create a [new purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new) A standard pack of 250 business cards costs $27.62 after taxes. Once your request has been approved by the Director of Operations, an 18F purchase card holder will reach out to you and put 15 minutes on your calendar. During this meeting, you will work together to place your business card order using https://envisionprintservices.com/. Business cards orders will generally arrive 5-7 business days after placement.
 
 If you want **18F branding**, you must purchase your own business cards.
 
-### Office supplies
+## Office supplies
 
 Anyone working in an 18F office may request a purchase of office supplies by creating a [new purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new). Once the request is placed, please add your office's Operations team point of contact as an **Observer** of the request. They will make the determination as to whether or not to recommend your request for approval by the Director of Operations. Operations team point of contact are:
 
@@ -44,7 +44,7 @@ Anyone working in an 18F office may request a purchase of office supplies by cre
 * Chicago - [Ethan Heppner](mailto:ethan.heppner@gsa.gov)
 * San Francisco - [Victor Valdiviezo](mailto:victor.valdiviezo@gsa.gov)
 
-### Software
+## Software
 
 Before making a request in C2, please check the [18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) to see if the software that you are looking for is already available somewhere. Most software at 18F can be requested by sending an email to [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov), but there are exceptions. Check the **Request Method** column of the 18F software library first to confirm what you need to do before you send the email.
 

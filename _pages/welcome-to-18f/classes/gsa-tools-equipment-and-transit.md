@@ -37,7 +37,7 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
     <tr>
       <td><a href="#concur">Concur</a></td>
       <td>To book travel</td>
-      <td>GSA email address and Concur password</td>
+      <td>ENT username and password</td>
     </tr>
     <tr>
       <td><a href="#employee-express">Employee&nbsp;Express</a></td>
@@ -57,7 +57,7 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
     <tr>
       <td><a href="#online-university">Online University</a></td>
       <td>To take mandatory trainings for federal employees</td>
-      <td>GSA email address and Online University password</td>
+      <td>ENT username and password</td>
     </tr>
   </tbody>
 </table>
@@ -165,12 +165,14 @@ If you need to reset your ENT password, you can let your password expire and the
 
 While this process can take up to eight days, the upshot is that your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you *do not* need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code.
 
-## <a id="online-university">Online University</a>
+## <a id="online-university">Online University (OLU)</a>
 
 [Online University (OLU)](https://gsaolu.gsa.gov/) is where you'll take mandatory trainings for federal employees.
 
-To register for OLU, navigate to https://gsaolu.gsa.gov. You'll need to be on a GSA network to reach it. Then
+To register for OLU, navigate to https://gsaolu.gsa.gov. Then
 follow the link, "Need help logging in to OLU..."
+
+_If you have trouble with that link, try https://secureauth.gsa.gov/SecureAuth138. This allows you to login using your ENT userid and password, with 2FA._
 
 ![OLU front page](/images/olu/olu1.png)
 
@@ -187,7 +189,7 @@ instructions by email.
 
 Note that there is a lag time of about four days between completing courses in OLU and having those courses reflected in your CHRIS profile.
 
-You can log time spent in OLU as `Training / Professional Development` in [Tock](/tock).
+You can log time spent in OLU as `71 - Training / Professional Development` in [Tock](/tock).
 
 
 ## Office supplies

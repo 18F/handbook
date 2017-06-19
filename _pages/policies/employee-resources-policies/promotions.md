@@ -12,16 +12,18 @@ Please see GSA Insite for the [merit promotion process](https://insite.gsa.gov/p
 
 To be eligible for a promotion at 18F, you must have at least one year in the current grade (it is not possible to jump two General Schedule (GS) levels) and have received consistently high performance ratings (4 or 5).
 
+Please note that your step level may reset to level 1 after the promotion. See the [two-step promotion rule](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title5/pdf/USCODE-2011-title5-partIII-subpartD-chap53-subchapIII-sec5334.pdf) or [this thread](https://gsa-tts.slack.com/archives/talent/p1484238400000196) for details.
+
 ### Process
 
 1. Supervisor reviews the higher position description (PD) and provides a justification for the promotion showing how the employee is performing at the higher level  
-   a. The justification can be anywhere from 2-5 paragraphs and the content should align with the position description ([18F current list of PDs](https://docs.google.com/spreadsheets/d/1VfngE9xfmBnSmMwoyVp7VhHk1n2mr1AF3KzK12Tlb5o/edit#gid=0))  
+   a. The justification can be anywhere from 2-5 paragraphs and the content should align with the position description ([PD Reference](https://docs.google.com/spreadsheets/d/1VfngE9xfmBnSmMwoyVp7VhHk1n2mr1AF3KzK12Tlb5o/edit#gid=0))  
    b. [Sample justifications](https://docs.google.com/document/d/1H15tYABQzr79lnQPFIKN9jj7iGXjmQ1_mkvHh30_3q4/edit)  
 2. Employee updates their resume to include their work at 18F  
    a. Again, the content should align with the PD  
    b. Make sure it's written in **plain language**  
    c. Keep the bureaucratic-style resume showing everything the employee has done and the start and stop dates (mm/yy) for each position  
-3. Send the supervisor justification and updated resume via email to Cristina Brydges and Jen Tress  
+3. Send the supervisor justification and updated resume via email to [TTS Talent](mailto:tts-talentteam@gsa.gov)  
 4. Justification will be reviewed and then Talent will forward to HR for qualification and approval within one week of receipt  
 5. If HR approves (typically within one week), Talent will initiate a request for personnel action (RPA) in the HR system for pay and grade level changes, etc. Once submitted it can take up to two pay periods to take effect.
 

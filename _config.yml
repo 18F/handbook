@@ -92,9 +92,6 @@ navigation:
     - text: Benefits
       url: benefits/
       internal: true
-    - text: Diversity Guild
-      url: intro-to-the-diversity-guild/
-      internal: true
     - text: GitHub and the 18F website
       url: github-and-18f-site/
       internal: true
@@ -138,21 +135,33 @@ navigation:
   internal: true
   generated: true
   children:
+  - text: Diversity at 18F
+    url: diversity/
+    internal: true
   - text: General contacts and listservs
     url: general-contacts-and-listservs/
     internal: true
   - text: History and values
     url: history-and-values/
     internal: true
+  - text: Mentorship
+    url: mentorship/
+    internal: true
   - text: Mission
     url: mission/
-    internal: true
-  - text: Org chart
-    url: org-chart/
     internal: true
   - text: Projects
     url: projects/
     internal: true
+  - text: TTS org chart
+    url: tts-org-chart/
+    internal: true
+  - text: 18F org chart
+    url: org-chart/
+    internal: true
+  - text: TTS archived emails
+    url: https://goo.gl/PxRVa8
+    internal: false
   - text: Offices
     url: offices/
     internal: true
@@ -199,6 +208,9 @@ navigation:
     - text: Product
       url: product/
       internal: true
+    - text: Products and Platforms
+      url: products-and-platforms/
+      internal: true
     - text: Strategy
       url: strategy/
       internal: true
@@ -212,6 +224,9 @@ navigation:
   internal: true
   generated: true
   children:
+  - text: Acquisitions
+    url: acquisition/
+    internal: true
   - text: Agreements
     url: agreements/
     internal: true
@@ -224,6 +239,12 @@ navigation:
   - text: Equipment
     url: equipment/
     internal: true
+  - text: Glossary
+    url: glossary/
+    internal: true
+  - text: How to say no
+    url: how-to-say-no/
+    internal: true
   - text: Networks
     url: networks/
     internal: true
@@ -232,7 +253,7 @@ navigation:
     internal: true
   - text: Purchase requests
     url: purchase-requests/
-    internal: true    
+    internal: true
   - text: Sensitive information
     url: sensitive-information/
     internal: true
@@ -274,6 +295,12 @@ navigation:
     - text: Google Hangouts
       url: google-hangouts/
       internal: true
+    - text: GSA Internal Tools
+      url: gsa-tools-equipment-and-transit/#gsa-tools
+      internal: true
+    - text: How to get a copy of Office for OS X
+      url: office/
+      internal: true
     - text: Managed Software Center
       url: managed-software-center/
       internal: true
@@ -285,6 +312,9 @@ navigation:
       internal: true
     - text: Mural.ly
       url: murally/
+      internal: true
+    - text: Network time sync in OS X with NTP
+      url: ntp/
       internal: true
     - text: Slack
       url: slack/
@@ -304,63 +334,115 @@ navigation:
     - text: Waffle
       url: waffle/
       internal: true
+    - text: Zoom
+      url: zoom/
+      internal:  true
 - text: Policies
-  blurb: Everybody’s gotta have rules.
+  blurb: |
+    Everyone's gotta have rules.
+
   url: policies/
   internal: true
   generated: true
   children:
-  - text: Account management policy
-    url: client-accounts/
+  - text: Code of Conduct
+    url: conduct-policies/
     internal: true
-  - text: ALOHA/ETAMS reconciliation feature
-    url: aloha-etams-reconciliation-feature/
+    generated: true
+    children:
+    - text: 18F Code of Conduct
+      url: code-of-conduct-under-construction/
+      internal: true
+
+  - text: Business and Ops
+    url: business-and-ops-policies/
     internal: true
-  - text: Billing policy
-    url: https://docs.google.com/document/d/1Y5MP1jmCuc43pW35zXF-lvQrwDFA9YgQfviWtFcf4ao/edit
-    internal: false
-  - text: Code of conduct
-    url: code-of-conduct/
-    internal: false
-  - text: Detailing to and from 18F
-    url: detail/
+    generated: true
+    children:
+    - text: Account management policy
+      url: client-accounts/
+      internal: true
+    - text: Billing policy
+      url: https://docs.google.com/document/d/1Y5MP1jmCuc43pW35zXF-lvQrwDFA9YgQfviWtFcf4ao/edit
+      internal: false
+    - text: Performance management requirements and timeline
+      url: performance-management/
+      internal: true
+    - text: Top Secret/Sensitive Compartmented Information (TS/SCI)
+      url: top-secret/
+      internal: true
+
+  - text: Tech
+    url: tech-policies/
     internal: true
-  - text: "(Draft) Federal records policy"
-    url: federal-records/
+    generated: true
+    children:
+    - text: Authority To Operate (ATO)
+      url: authority-to-operate/
+      internal: true
+    - text: "Federal records policy"
+      url: federal-records-policy-holder/
+      internal: true
+    - text: Open source policy
+      url: open-source/
+      internal: true
+    - text: Requirements for Passwords
+      url: password-requirements/
+      internal: true
+    - text: Security incidents
+      url: security-incidents/
+      internal: true
+
+  - text: Travel and Leave
+    url: travel-and-leave-policies/
     internal: true
-  - text: Employee assistance program
-    url: employee-assistance-program/
+    generated: true
+    children:
+    - text: ALOHA/ETAMS reconciliation feature
+      url: aloha-etams-reconciliation-feature/
+      internal: true
+    - text: Leave, telework, and virtual worker policy
+      url: leave-telework-and-virtual-worker/
+      internal: true
+    - text: Moving
+      url: moving/
+      internal: true
+    - text: Travel guide
+      url: travel-guide-start-here/
+      internal: true
+
+  - text: Employee Resources
+    url: employee-resources-policies/
     internal: true
-  - text: Emergency procedures
-    url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
-    internal: false
-  - text: Leave, telework, and virtual worker policy
-    url: leave-telework-and-virtual-worker/
+    generated: true
+    children:
+    - text: Benefits links and resources
+      url: benefits-links/
+      internal: true
+    - text: Employee assistance program
+      url: employee-assistance-program/
+      internal: true
+    - text: Emergency procedures
+      url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
+      internal: false
+    - text: Overtime and comp-time policy
+      url: overtime-and-comp-time/
+      internal: true
+    - text: Promotions
+      url: promotions/
+      internal: true
+
+  - text: Detailing and Offboarding
+    url: detailing-and-offboarding-policies/
     internal: true
-  - text: Leaving 18F
-    url: leaving-18f/
-    internal: true
-  - text: Moving
-    url: moving/
-    internal: true
-  - text: Open source policy
-    url: open-source/
-    internal: true
-  - text: Overtime and comp-time policy
-    url: overtime-and-comp-time/
-    internal: true
-  - text: Performance management requirements and timeline
-    url: performance-management/
-    internal: true
-  - text: Promotions
-    url: promotions/
-    internal: true
-  - text: Security incidents
-    url: security-incidents/
-    internal: true
-  - text: Term extensions
-    url: term-extensions/
-    internal: true
-  - text: Travel guide
-    url: travel-guide-start-here/
-    internal: true
+    generated: true
+    children:
+    - text: Assignments and Details
+      url: assignee-detail/
+      internal: true
+    - text: Leaving TTS
+      url: leaving-tts/
+      internal: true
+    - text: Term extensions
+      url: term-extensions/
+      internal: true

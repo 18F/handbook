@@ -8,22 +8,19 @@ We use MailChimp and its [Mandrill](../mandrill/) add-on to send transactional e
 
 * Slack: [#admins-mailchimp](https://gsa-tts.slack.com/messages/admins-mailchimp/)
 
-## <a id="setup">Setup</a>
+## Setup
 
 1. Create a [MailChimp](https://login.mailchimp.com/signup) account associated
    with your GSA email address.
-2. File a new issue in the [18F/Infrastructure](https://github.com/18F/Infrastructure/issues/new)
-   repository. Title it **Please add me to the MailChimp account**, include
-   the GSA email address you used to sign up for MailChimp, and assign the
-   issue to [@afeld](https://github.com/afeld).
+1. [File a new issue in the 18F/Infrastructure repository](https://github.com/18F/Infrastructure/issues/new?title=Please%20add%20me%20to%20the%20MailChimp%20account&assignee=erik-burgess), stating:
+    * What you need the account for
+    * The approximate volume of emails you expect to be sending/receiving
 
-Once you've been added to the shared account, you can log in to
-[Mandrill](https://mandrillapp.com/)--an add-on for MailChimp that allows you
-to send transactional emails.
+See also: [the Handbook page on Mandrill](../mandrill/).
 
-For more information on using MailChimp and/or Mandrill, such as
-details on SMTP configuration, please see the
-[Google Doc](https://docs.google.com/document/d/1XdedSaLHpV-b9rbFfnckRRYmatGJm-8jG5qzwfnWVfc/edit).
+## Limitations
+
+GSA will block any messages that are sent with a From address of `@gsa.gov`, if the SMTP server is not managed (or whitelisted) by GSA. In other words, you can't send an email with a From address of `@gsa.gov` from MailChimp/Mandrill. Use a `.gsa.gov` subdomain or another second-level domain instead.
 
 #### Still have questions?
 

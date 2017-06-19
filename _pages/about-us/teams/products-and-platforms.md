@@ -1,23 +1,23 @@
 ---
 title: Products and Platforms
 ---
-Products and Platforms is one of the 5 business units within 18F. We strive to incubate tools for digital government.
+Products and Platforms is one of the 4 business units within 18F. We strive to incubate tools for digital government.
 
 ## Projects
 
-* [cloud.gov](https://cloud.gov).
+* [cloud.gov](https://cloud.gov), platform as a service for government teams
 
-* [login.gov](https://pages.18f.gov/identity-intro/).
+* [login.gov](https://pages.18f.gov/identity-intro/), a shared authentication platform for government services
 
-* [Federalist](https://federalist.18f.gov), which allows partners to build customizable and easy-to-maintain static sites.
+* [Federalist](https://federalist.18f.gov), allows partners to build customizable and easy-to-maintain static sites
 
-* With partners in TTS, [api.data.gov](https://api.data.gov), which helps with API management.
+* [api.data.gov](https://api.data.gov), a free API management service for federal agencies
 
-* 18F's work on the [eRegs platform](https://eregs.github.io/) with various partners.
+* [eRegs platform](https://eregs.github.io/), a web-based application that makes regulations easier to find, read and understand
 
-* With partners in TTS, the [Draft US Web Design Standards](https://standards.usa.gov/): open-source UI components and visual styles to create beautiful, consistent experiences across federal government websites.
+* [US Web Design Standards](https://standards.usa.gov/), open-source UI components and visual styles used to create beautiful, consistent experiences across federal government websites.
 
-* With partners in TTS, [Fugacious](https://fugacious.18f.gov/), which helps to securely transmit information.
+* [Fugacious](https://fugacious.18f.gov/), helps to securely transmit information 
 
 ## Team Structure
 
@@ -27,11 +27,11 @@ Products and Platforms is one of the 5 business units within 18F. We strive to i
 
   * Joel Minton, Director of login.gov
 
-  * Diego Lapiduz, Director of cloud.gov
+  * Shashank K, Acting Director of cloud.gov
 
-  * Bernd Verst, Technical Account Manager for cloud.gov
-
-  * Ric Miller
+  * Britta G, Acting Deputy Director for cloud.gov
+  
+  * David W, Admin Support
 
 ## How we support internal teams
 

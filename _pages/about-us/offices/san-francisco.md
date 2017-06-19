@@ -15,7 +15,7 @@ title: San Francisco
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-          <a href="https://gsa-tts.slack.com/messages/@vv">Victor Valdivizeo</a>, <a href="mailto:victor.valdiviezo@gsa.gov">victor.valdiviezo@gsa.gov</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)<br />
+          Your best bet is the <a href="https://gsa-tts.slack.com/archives/sf">#sf</a> Slack channel<br />
           <a href="http://www.gsa.gov/portal/category/107015">Building Services contact info</a>
         </td>
       </tr>
@@ -85,7 +85,7 @@ There is a developing [bikeshare program](http://www.bayareabikeshare.com) in th
 
 Bike parking is next to the loading dock, entered from the far corner at McAllister and Leavenworth. Before you can park your bike, though, you need to print and fill out [this form](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view), and then activate your credential. This means you need to return to the credentialing location where you first initiated the process for your card. (This is probably the federal building at 450 Golden Gate). There are drop-in hours all day on Monday from 9 a.m. to 4 p.m. You can also make an appointment. The card also requires you to come up with a six-digit PIN, so have that ready to go.
 
-If you have any questions about this, contact [Victor Valdivizeo](https://gsa-tts.slack.com/team/vv).
+If you have any questions about this, contact the [#SF Slack Channel](https://gsa-tts.slack.com/archives/sf).
 
 
 ### Public transit
@@ -126,7 +126,7 @@ Whether you're new at 18F and are joining the SF office or you're a long-time 18
 
 * Add yourself to our [desk schedule spreadsheet](https://docs.google.com/spreadsheets/d/1QNGF8pvrVUXEa8tjsQEEw5itflDEAyjVxQgfCT6Kj5c/edit#gid=0).
 * Add yourself to our [cleaning crew schedule](https://docs.google.com/document/d/1CCKYxIRrCUDJpykKgrjDBISLG-2toMv9yu1hLfR2IOs/edit).
-* If you would like a locker, please email <mailto:victor.valdiviezo@gsa.gov>.
+* If you would like a locker, please email <mailto:sasha.magee@gsa.gov>.
 * Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
 * Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
 * If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel for the link.
@@ -139,8 +139,6 @@ Meet your guests at the front security desk to escort them in.
 
 Be aware that IDs from [a few states](https://www.dhs.gov/current-status-states-territories) are not acceptable; see that page for the current list of "noncompliant states". For these states, another issued picture ID is required (or they can just show a passport).
 
-If you’re inviting guests to a potluck, point them to our handy [Eventbrite invite](https://www.eventbrite.com/e/18f-potluck-lunch-tickets-9543876993) with all of the security details.
-
 ### Host long-term guests?
 
 You may host folks from other government agencies. As the host you are responsible for access issues and for any requests. You will need to complete [50 UNP Auth Form.pdf](https://github.com/18F/handbook/files/433703/50.UNP.Auth.Form.pdf) using your own information and email it to <mailto:50UNPBuildingServices@gsa.gov>. Please make sure you do this with advance notice, since the building will need time to update the guards’ list of approved guests. Once the form has been accepted, guests will be able to access the building without an escort.
@@ -149,7 +147,7 @@ You may host folks from other government agencies. As the host you are responsib
 
 If you're a visitor arriving outside business hours, arrange for an 18F staff member inside the office to escort you.
 
-If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Hillary Hartley or Patrick Bateman), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
+If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Holly Allen or Josh Bailes), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
 
 
 ### Book rooms for meetings?
@@ -200,6 +198,8 @@ There is an all-gender bathroom in the Nimitz Suite on the third floor (room 319
 
 An all-gender bathroom is also available for limited hours on Tuesday through Thursday in the Health Unit, which is in the basement. See the <a href="#health-center">health center</a> section for further details.
 
+### Supplies
+
 If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, please submit a request via [C2](https://requests.18f.gov/). You should search for the item in [GSAAdvantage](https://www.gsaadvantage.gov/advantage/main/start_page.do). If the item cannot be found there, or is too costly, see if it is available from Amazon or some other online provider. Make sure you provide a solid business justification for the purchase.
 
 ### Batteries
@@ -237,11 +237,19 @@ For FedEx and UPS, please use the address as usual:
 > Suite 5685<br/>
 > San Francisco, CA 94102
 
+## Potluck
+
+We host a potluck lunch every Thursday, to which we invite guests who are interested in finding out more about 18F and what we do. We're also very keen to meet folks who work in government or civic tech, or who are interested in learning more about that world.
+
+If you're a guest, **you must arrange your visit with your contact at least a day in advance** so that they know to meet you at the door. (If you don't have a contact, [email Yoz Grahame](mailto:yoz.grahame@gsa.gov) and he _may_ be able to sort it out for you.) Please make sure to [bring acceptable ID](#bring-in-one-time-guests). Any dishes are welcome; vegetarian food is likely to be enjoyed by the most people. (And we all love desserts.)
+
 ## Amenities
 
 ### Gym
 
-There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)), with lockers and a locker room. To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
+There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)). To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
+
+There are men's and women's locker rooms with lockers and showers. You do not need a gym membership to access these; they are for everyone in the building. Ask a coworker for the code to the locker room of your choice.
 
 ### Interior courtyard
 
@@ -249,9 +257,7 @@ The interior courtyard has Wi-Fi access so you can work outside!
 
 ### Transit subsidy
 
-All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel. To receive a transit subsidy, fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174). See more details [on InSite](https://insite.gsa.gov/portal/category/511801). Once your supervisor has signed the form, send it to [Lyvette Jones](mailto:lyvette.jones@gsa.gov).
-
-You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
+All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel. To receive a transit subsidy, follow these instructions [on InSite](https://insite.gsa.gov/portal/content/543265). You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
 
 ### Health center
 

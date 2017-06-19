@@ -118,13 +118,6 @@ Wondering where 18F is on social media, and ways you can talk about your job pub
 **When:** Third Wednesday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#tweet-this](https://gsa-tts.slack.com/messages/tweet-this), [#outreach](https://gsa-tts.slack.com/messages/outreach)
 
-### <a id="diversity" href="/intro-to-the-diversity-guild">Diversity and unconscious bias training</a>
-
-Meet the members of the Diversity Guild and learn how 18F is addressing unconscious biases in the workplace.
-
-**When:** Fourth Wednesday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
-**Tags:** [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity)
-
 ### <a id="media-training">Media training</a>
 
 Are you giving an interview on radio or TV? About to do a print interview with a reporter? Swing by media training for tips from those who have done this before. Also feel free to pop in with presentation questions.

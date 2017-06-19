@@ -31,7 +31,7 @@ We’re here to understand your problem and deliver the right product: be that a
 - **Evolving the product:** Once a project is launched and live, we lead teams that deliver continuous feature development and quality product experiences. We work with partners to collect citizen feedback and metrics, and use this data to best serve the public.
 - **Creating enduring value:** We help with the technological and cultural transition to empower our partners to grow and sustain the product beyond our team's efforts. We execute transitions to partners or acquisitions, build our work into shared platforms, and train partners in skills needed to ensure ongoing success.
 
-**Engagement Management:** We provide a clear point of accountability and ownership for project delivery and client relationships. We ensure projects are delivered within budget and according to the terms of the agreement, build trust-filled relationships with our partners, and spread 18F’s culture.
+**Relationship Management:** We provide a clear point of accountability and ownership for project delivery and client relationships. We ensure projects are delivered within budget and according to the terms of the agreement, build trust-filled relationships with our partners, and spread 18F’s culture.
 
 **Finding a Way:** We find a way to move from your needs to solutions, and from your goals to a reality. We build the bridge from a vision to delivered results.
 

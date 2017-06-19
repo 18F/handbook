@@ -36,10 +36,7 @@ Note: The titles below are linked to our handbook pages for each subject. Descri
 
 **Note: Weeks 2-5 occur on a rotating schedule. Please check your 18F-Classes Google Calendar to find out which week to follow first.**
 
-In your second week, you’ll participate in unconscious bias training, learn how travel and recruitment work, and get an overview of how 18F came to exist. You’ll also meet with Aaron, 18F’s Executive Director.
-
-### Wednesday
-* [Diversity and unconscious bias training](/intro-to-the-diversity-guild) ([Description](/classes/#diversity))
+In your second week, you’ll learn how travel and recruitment work, and get an overview of how 18F came to exist. You’ll also meet with Aaron, 18F’s Executive Director.
 
 ### Thursday
 * [Travel 101](/travel-101) ([Description](/classes/#travel))

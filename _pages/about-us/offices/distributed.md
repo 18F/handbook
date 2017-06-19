@@ -5,12 +5,10 @@ title: Distributed
   <table class="table-office-metadata">
     <tbody>
       <tr>
-        <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
+        <td class="col-key"><strong>Point&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/@leahgitter">Leah Gitter</a><br />
-          <a href="https://gsa-tts.slack.com/messages/@vv">Victor Valdivizeo</a><br />
-          <a href="https://gsa-tts.slack.com/messages/@shawnique">Shawnique Muller</a><br />
-          (Leah, Victor, and Shawnique's phone numbers are in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>.)<br />
+          (Leah's phone numbers is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>.)<br />
           <a href="mailto:accesscard@gsa.gov">GSA Access Card Support</a>
         </td>
       </tr>

@@ -37,9 +37,13 @@ All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this i
 
 **Encrypt all portable media that will connect to any 18F system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
+### Tips
+
+- Run the [shell script](https://github.com/18F/laptop) which will turn your Mac into an awesome web development machine.
+
 ## Phone
 
-All 18F employees are issued an Apple iPhone. The Ops Team will already have submitted a request to GSA IT for your work phone before you join 18F. Within a few weeks of starting at 18F, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact [Shawnique Muller](mailto:shawnique.muller@gsa.gov) when you receive this email and she'll have your phone mailed to you.
+All 18F employees are issued an Apple iPhone. The Ops Team will already have submitted a request to GSA IT for your work phone before you join 18F. Within a few weeks of starting at 18F, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
 
 ### Rules
 
@@ -88,7 +92,7 @@ If you'd like to check out Apple peripherals (for example, a Magic Mouse or wire
 
 #### Chicago or San Francisco
 
-Reach out to Ethan Heppner (Chicago) or Victor Valdiviezo (San Francisco) via email or Slack, they will assist you as soon as they are available.
+Reach out to Ethan Heppner (Chicago) via email or Slack, they will assist you as soon as they are available.
 
 ## Equipment to accommodate disability
 
@@ -124,47 +128,7 @@ If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employ
 
 ## Requirements for passwords
 
-As you set up your 18F accounts and devices, we have three requirements for making passwords that reduce security risks: use a password manager, use unique passwords, and use stronger passwords.
-
-### 1. Use a password manager
-
-There's a secret to dealing with passwords: use a password manager to store your passwords. This way, you only need to memorize a few strong passwords: your master password for the password manager, your laptop password and phone passcode, and maybe a few others (such as your iCloud password if that's [your recovery method for forgetting your laptop password](/equipment/#laptop)).
-
-[**1Password**](https://1password.com/) and [**KeePassX**](https://www.keepassx.org/) are password managers approved for work at 18F. You can get a license for 1Password by asking [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov). KeePassX is free.
-
-You can use iCloud or Dropbox or manual syncing to keep your 1Password or KeePassX synced across multiple work devices (work laptop to work phone, for example), as you're just transferring encrypted information around. Do not store the password in iCloud. iCloud Keychain isn't approved for work-related passwords or other sensitive government information.
-
-You can use your password manager to generate a random unique password for each service you use. In [**1Password**, use these instructions](https://support.1password.com/guides/mac/generate-a-strong-password.html). OS X also has a local password generator: in the **Keychain Access** app, view the suggestions under **File > New Password Item > key icon**.
-
-You can use your password manager to store answers to security questions. Instead of setting up real answers (which could be guessable by somebody with information about you), consider setting up random nonsense answers and storing those answers in your password manager.
-
-### 2. Use unique passwords
-
-Here's an interesting comparison of non-expert and expert security practices, from [a study done by Google](http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html):
-
-<img src="{{ site.baseurl }}/images/equipment/1.png" alt="secure password tips" />
-
-Note the second point: the experts considered unique passwords even more important than strong/complex passwords. If hackers dump the password database from one service, you don't want them to be able to use that password to access your accounts on other services.
-
-To limit this risk, use new passwords for work services instead of reusing any passwords from your personal life (don't use your Amazon password as your ENT password). Also use a unique password for each service you use (don't use the same password for Slack and ENT).
-
-### 3. Use strong passwords
-
-Even if you use a password manager, you'll still need to memorize a few unique passwords, such as the master password for your password manager.
-
-This opens up a few risks: A person could try to guess your password based on information about you, or a computer program could try to find your password by "brute forcing" it (making a zillion guesses based on common types and patterns of passwords). To limit these risks:
-
-- Use passwords that are hard to guess even for people who know you -- not your birthday, university, pet's name, favorite TV show, or similar.
-- Use passwords that probably nobody else uses. For some interesting examples of common passwords, check out [this list](https://web.archive.org/web/20151005001104/http://stricture-group.com/files/adobe-top100.txt) based on a real Adobe account dump; you can see dictionary words, names of favorite people/pets/characters/teams, words related to the service, and simple patterns of numbers and letters.
-- Use longer passwords rather than shorter passwords, since that makes "brute forcing" harder.
-
-[This XKCD comic](https://xkcd.com/936/) explains a common password pattern and one strategy for making stronger passwords:
-
-<img src="http://imgs.xkcd.com/comics/password_strength.png" alt="password strength comic from XKCD" />
-
-In other words, you could use a series of random words, plus a few numbers, capital letters, or symbols, if you like.
-
-Or try thinking of a sentence or line from a book, song, speech, poem, or other memorable source, then build a many-character password using the first letter of each word, with some capitalization, numbers, and symbols thrown in. Or just use the whole line or sentence as your password! (You'd need to pick a phrase that nobody would guess based on knowing you.)
+Read the guide on [setting and managing passwords](https://handbook.18f.gov/password-requirements/).
 
 ---
 

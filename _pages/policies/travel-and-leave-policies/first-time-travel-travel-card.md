@@ -15,10 +15,15 @@ While new employees may travel without one, it is required that everyone at 18F 
 
 _Est. time: 45 minutes_
 
-1. Head [here](https://training.smartpay.gsa.gov/user/register?destination=node%2F1) to register for an account.
-2. Use your GSA email as the username and create any password.
-3. Take the training (~20 pages of info followed by a quiz).
-4. Save your certificate of completion as “Your Name TCTC” (your certificate will be under "My Account," then "My Certificates").
+1. Head over to GSA's [OLU](https://gsaolu.gsa.gov).
+2. Click on the Home button, and then choose "Learning" from the dropdown.
+3. Below, look for a "Find Learning" search box.
+4. Search for "travel card".
+5. Select "FY2016 GSA Travel Card Training", and then Start course.
+6. Proceed through the intorudction and the subsequent 5 lessons, answering all of the knowledge check questions along the way.
+7. Take the quiz at the end of the training. You must score at least 80% to pass.
+8. Download your certificate of completion by returning to the "Learning" page and clicking on the "View All" button under "Learning History". You should see your completed travel card training on the list, and there will be an icon to generate a print preview, which you can save, at the right.
+9. For ease of processing later on, save your Certificate as “Your Name TCTC”.
 
 ### 2. Fill out the Supervisory Travel Card Approval
 

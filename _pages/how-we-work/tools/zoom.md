@@ -6,7 +6,7 @@ Zoom is a video-conferencing tool used by 18F for large meetings, such as the we
 We recommend it for a video calls with over twenty participants. Use of the native Zoom app is
 usually much lighter on machine resources (especially the CPU) than Google Hangouts.
 
-Zoom lives on the web at https://zoom.us/
+Zoom lives on the web at [https://zoom.us](https://zoom.us/)
 
 ## Setup
 
@@ -21,7 +21,7 @@ It will open the app following installation, where you can set your defaults.
 
 ## How to create a Zoom account
 
-Go into the [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf) channel and ask @erik. 
+Go into the [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom) channel and ask @erik. 
 He will log into 18F Zoom console and send you an invitation via email. Click on the link to accept
 the invitation, set your password, and log in. 
 
@@ -35,9 +35,11 @@ can still be added to the 18F organization in the future.
 Due to how we currently have our Zoom licenses set up, the instructions are different depending on
 whether your meeting is intended to be shorter or longer than 40 minutes.
 
-If you log into Zoom, under the tab "My Profile," you will see a Personal Meeting ID. This ID contains 
+If you log into Zoom, under the tab ["My Profile,"](https://zoom.us/profile) you will see a Personal Meeting ID. This ID contains 
 a URL, which you are free to give to anyone who wants to join your meeting. This URL is static and does
 not change. If you need a unique URL, you can create one in the "My Meetings" tab. 
+
+To dial into your meeting, the phone number is: 408 638 0968 or 646 558 8656 plus the Meeting ID number listed next to `Personal Meeting ID` in your Zoom Profile.
 
 ### For meetings shorter than 40 minutes (Free tier)
 
@@ -52,7 +54,7 @@ These meetings do not need to be scheduled in advance and you may hold as many a
 
 ### For meetings longer than 40 minutes (Pro tier)
 
-Let @erik know as far in advance as possible in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
+Let @erik know as far in advance as possible in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom).
 Currently 18F only has two Pro licenses that allow for meetings longer than 40 minutes. What 
 this means to you is that longer meetings need to be scheduled and are generally a "first come, 
 first served" scenario. Zoom meetings are tracked on a Google Calendar called "Zoom Scheduling." 
@@ -60,10 +62,10 @@ first served" scenario. Zoom meetings are tracked on a Google Calendar called "Z
 On the morning of your meeting, Infrastructure will promote your account to Pro Status. If there are multiple 
 meetings scheduled that day, your account will be promoted as soon as the Pro account is available. We try to schedule 30 minutes on each side of the requested time to allow you ample setup time as well as padding in the event that your meeting runs long. If no one is scheduled after you, you will likely remain in Pro status until the following morning. 
 
-To schedule a meeting, please post your request in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
+To schedule a meeting, please post your request in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom).
 The request should include the date, time, and applicable time zone. If your meeting is recurring, 
 please include the end date. At this time, no recurring meetings are being scheduled beyond December 2017. 
-Please revalidate the meeting request in [#wg-videoconf](https://gsa-tts.slack.com/messages/wg-videoconf).
+Please revalidate the meeting request in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom).
 
 ### Frequently Asked Questions
 

@@ -72,7 +72,7 @@ The Out of Office options in Tock reflect categories of leave used in ALOHA. Thi
 
 `Other` Tock your time here if you are away from the office and not performing duties but it does not fit in any of the previous 8 categories, please record that time here as well as making a note of what you were doing during that time.
 
-For more information on leave, see [Cristina’s Benefits class](/benefits#leave) and [Leah’s GSA Tools and Equipment class](/gsa-tools-equipment-and-transit).
+For more information on leave, see the [Benefits class](/benefits#leave) and the [GSA Tools and Equipment class](/gsa-tools-equipment-and-transit).
 
 ## Questions
 

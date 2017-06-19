@@ -8,15 +8,13 @@ Slack is a chat client that provides us with a centralized way to communicate wi
 
 Because Slack is a web application, there’s no installation necessary. You can [login online](https://gsa-tts.slack.com/) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.
 
-
 ## Rules
 
 - **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
-- **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options.
-- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/@noah/) and [Hillary Hartley](https://gsa-tts.slack.com/messages/@hillary/).
+- **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
+- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Holly Allen](https://gsa-tts.slack.com/messages/holly).
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [18F's list of alternatives](../sensitive-information/#tools).
-- **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack.
-- **Do NOT use the "import a file from Google Drive" feature**. If you click the `+` button to the left of the message box, Slack has an option to import a file from Google Drive. DO NOT DO THIS. Importing files to Slack means they are stored on a system that isn’t qualified to handle potentially-sensitive info. (And even if your Google Drive file doesn't have sensitive info in it right now, you still cannot import it to Slack; consider that a person could add sensitive information to that file without realizing that Slack will index it.) This is worth repeating: until the CIO team has cleared this feature for use, it must NOT be used.
+- **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack and any audio or video transmitted using a Slack Call.
 
 ## Usage of TTS's Slack
 
@@ -61,6 +59,28 @@ To invite people to a public Slack channel, send them to [chat.18f.gov](https://
 
 See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
+## Offboarding
+
+Slack users need to be offboarded in the following situations:
+
+* Someone leaving TTS
+    * Someone from [#talent](https://gsa-tts.slack.com/messages/talent/) should post in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) when this happens.
+* A partner who's employment/engagement is ending
+    * It is the responsibility of the engagement manager to inform [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) when this is happening.
+
+An admin will then do one of the following:
+
+* **[Convert them to a Single-Channel Guest.](https://get.slack.help/hc/en-us/articles/218124397-Change-a-team-member-s-role)**
+    * Put them in one of the following channels (as appropriate):
+        * [#alumni](https://gsa-tts.slack.com/messages/alumni/) (former Full Members only)
+        * One of the `-public` channels (their pick)
+    * [Disable their 2FA](https://get.slack.help/hc/en-us/articles/212221668-Require-two-factor-authentication-for-your-team).
+        * ...unless you know they were using their personal device for 2FA — we don't want them to be locked out.
+    * [Change their email](https://get.slack.help/hc/en-us/articles/225531168-Change-a-team-member-s-email-address) to their personal address
+* **[Deactivate their account.](https://get.slack.help/hc/en-us/articles/204475027-Deactivate-a-team-member-s-account)**
+
+If they were a partner, the admin will also set their `Downgraded/disabled on` date in [the user request spreadsheet](https://docs.google.com/spreadsheets/d/1weEbuD1RUqtwTiHCT_roD6tvKkBiQL5nkLe8btxyKHA/edit#gid=1249016991).
+
 ## Slack Admins
 
 Here are the resources used by Slack Admins to track and manage Slack accounts:
@@ -95,7 +115,7 @@ This is the case with most software as a service offerings. Slack has multiple m
 
 _...or "Apps" or "bots"._
 
-You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. For any new integration types, please follow the process below.
+You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. You can also freely add new configurations for "Incoming WebHooks," which is on a [different page](https://gsa-tts.slack.com/apps/manage/custom-integrations). For any new integration types, please follow the process below.
 
 ### Approval of New Integrations
 
@@ -127,7 +147,7 @@ New integrations/bots need approval from the following:
 
 ## Groups
 
-Slack Groups allow you to direct messages to a specific list of people in a more precise way than an **@-channel** or **@-here**. Any full member can create and edit Slack groups at will. You can see existing groups by clicking the "three dots" in the top right of your Slack window, clicking "team directory", and then going to the "Groups" tab.
+Slack Groups allow you to direct messages to a specific list of people in a more precise way than an **@-channel** or **@-here**. Any full member can [view, create, and edit Slack groups](https://get.slack.help/hc/en-us/articles/212906697-User-Groups) at will.
 
 Groups are a great way to alert people who might not be in a channel about something that needs their attention or make sure urgent incidents are directed to the right people and not an entire channel. For example, you can ping **@github-admins** in #admins-github if you have an urgent issue instead of using an **@channel** or use **@federalist-team** to alert that group of a conversation in another channel that we should see immediately.
 
@@ -151,13 +171,23 @@ Groups are a great way to alert people who might not be in a channel about somet
 - **Emojis come in different colors.** Tired of tabbing through multiple skin color emoji to find the one you want or identify with? Click on the Emoji Deluxe picker (the smily face in the text box) - then click on the emoji in the bottom right corner. You can then select a default color going forward.
 - **Change your color scheme.** You can change your color scheme by going to Preferences --> Theme --> Custom Theme. Paste the following for the US Design Standards theme: `#112E51,#205493,#0071BC,#FFFFFF,#323A45,#FFFFFF,#4AA564,#981B1E`
 - **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
-- **Use #news for vital team announcements.** [#news]((https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you’d like to go up in #news, ping @commsquad to get a review of the language, then ask in #admins-slack for someone to post it to #news. Please keep #news posts limited to information that the entire team needs to know. This includes things like:
+- **Use #news for vital team announcements.** [#news](https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you’d like to go up in #news:
+  - **18F employees** ping @commsquad or post in [#outreach](https://gsa-tts.slack.com/archives/news) to get a review of the language. Once it's ready, Sarah Millstein or Greg Boone can post it.
+  - **Acquisitions employees** review your post with Stephen Reilly, and he can post it when it's ready.
+  - **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
+  - **PIF employees** review your post with Nathan Olson, and he can post it when it's ready.
+  
+  Please keep #news posts limited to information that the entire team needs to know. This includes things like:
     - Required trainings
-    - Necessary security and compliance actions 
+    - Necessary security and compliance actions
     - Policy changes or reminders
-    - All-team events 
+    - All-team events
     - Senior management team meeting notes
     - Changes or actions that impact the entire team
+
+### When to use @channel and @here
+- Type `@channel [message]` to send your message to everyone in the channel. Use sparingly and only if everyone in the channel needs to see your message.
+- Type `@here [message]` to send your message to everyone in the channel with Slack open **at a desktop computer.** Don't use this as a softer version of an `@channel` because there will be no notification for anyone who wasn't at their computer.
 
 ### Frequently used emoji
 
@@ -192,7 +222,7 @@ Groups are a great way to alert people who might not be in a channel about somet
 - [coffeemate](https://gsa-tts.slack.com/team/coffeemate): direct message @coffeemate with `coffee me` to set up a virtual coffee/tea with a random coworker.
 - [Dolores Landingham](https://gsa-tts.slack.com/team/mrs_landingham): our onboarding bot. Ask for access in [#wg-onboarding](https://gsa-tts.slack.com/archives/wg-onboarding).
 - [:evergreen_tree: bot](https://github.com/18F/hubot-slack-github-issues#hubot-slack-github-issues): This bot allows you to “tag” Slack messages as information that should be in the 18F Handbook. If you add an 🌲 (`evergreen_tree`) reaction to a Slack message, a bot will open [a GitHub issue in the 18F Handbook repository](https://github.com/18F/handbook/issues) with a link to that message. The issue serves as a reminder to integrate the linked information into the handbook.
-- [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-tts.slack.com/customize/emoji)). **Do not include private or sensitive information in Slackbot automatic responses.** 
+- [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-tts.slack.com/customize/emoji)). **Do not include private or sensitive information in Slackbot automatic responses.**
 
 If you're interested in learning more about the bots, or perhaps contributing to them, pop into [#bots](https://gsa-tts.slack.com/archives/bots/).
 
@@ -259,7 +289,7 @@ If you're interested in learning more about the bots, or perhaps contributing to
 - Type `[message XPOST #channel-name]` to cross-post a message to a different channel while posting it.
 - Type `/remind` to remind yourself to do something in the future.
 - Type `love @username for [message]` to publicly praise and thank someone. If [Charlie](#bots) is in the channel, it will copy your message to [#love](https://gsa-tts.slack.com/archive/love).
-- Type `charlie hug bomb` for a dose of team love! To add your picture, email it to [Aidan Feldman](mailto:aidan.feldman@gsa.gov?subject=Please%20add%20me%20to%20the%20hug%20bomb) or [Diego Lapiduz](mailto:diego.lapiduz@gsa.gov?subject=Please%20add%20me%20to%20the%20hug%20bomb) or post in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/).
+- Type `charlie hug bomb` for a dose of team love! To add your picture, email it to [Aidan Feldman](mailto:aidan.feldman@gsa.gov?subject=Please%20add%20me%20to%20the%20hug%20bomb) or post in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/).
 - Press `Option + Up` or `Option + Down` to switch between channels and direct messages.
 - Press `Esc` to mark all messages in the current channel as read.
 - Press `Shift + Esc` to mark all messages across all channels as read. Only do this if you’ve caught up in channels for your projects first.

@@ -135,7 +135,7 @@ Refer to [our printer information document](https://docs.google.com/document/d/1
 
 The guest wireless network in the building is GSA Guest. The password changes monthly. To obtain the current password, type &ldquo;GSA Wireless&rdquo; into any room on Slack and the current password will pop up.
 
-Non-guest wireless access is available using gsa-wireless and authenticating using your ENT username and password.
+Non-guest wireless access is available using gsa-wireless and authenticating using your ENT username (`ENT\username`) and password.
 
 
 ## Where are the&hellip;
@@ -145,7 +145,7 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Bathrooms are located at the end of both the 4100 and 4200 wings. Additional bathrooms are just outside the 4400 space in the 4100 wing.
+Gendered bathrooms are located at the end of both the 4100 and 4200 wings. Additional bathrooms are just outside the 4400 space in the 4100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
 
 ### Mother’s rooms
 
