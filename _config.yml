@@ -119,9 +119,6 @@ navigation:
     - text: Travel 101
       url: travel-101/
       internal: true
-    - text: Welcome from Aaron
-      url: welcome-from-aaron/
-      internal: true
     - text: Working groups and guilds
       url: working-groups-and-guilds-101/
       internal: true
@@ -401,11 +398,14 @@ navigation:
     - text: ALOHA/ETAMS reconciliation feature
       url: aloha-etams-reconciliation-feature/
       internal: true
-    - text: Leave, telework, and virtual worker policy
-      url: leave-telework-and-virtual-worker/
+    - text: Leave
+      url: leave/
       internal: true
     - text: Moving
       url: moving/
+      internal: true
+    - text: Telework and virtual worker policy
+      url: telework-and-virtual-worker/
       internal: true
     - text: Travel guide
       url: travel-guide-start-here/
@@ -425,9 +425,6 @@ navigation:
     - text: Emergency procedures
       url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
       internal: false
-    - text: Overtime and comp-time policy
-      url: overtime-and-comp-time/
-      internal: true
     - text: Promotions
       url: promotions/
       internal: true
