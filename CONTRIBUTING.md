@@ -34,7 +34,7 @@ Or, if you want to make other changes on the same branch and have it reviewed at
 
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.  
 
-## The recommended, but more advanced way: fork the handbook
+## The more advanced way: fork the handbook
 
 If you're familiar with the git fork and pull request (PR) workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 
