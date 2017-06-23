@@ -24,7 +24,7 @@ These guidelines focus on two main tasks that support that goal: gaining partici
 
 ### Consent forms
 
-* [Printable form](https://methods.18f.gov/assets/downloads/18FResearchParticipantConsentForm.docx). If you're going to use the printable form, offer your participant one copy and keep another for yourself. Then store the signed consent form somewhere secure, like a locked office cabinet.
+* [Printable form](https://methods.18f.gov/assets/downloads/ConsentForm.docx). If you're going to use the printable form, offer your participant one copy and keep another for yourself. Then store the signed consent form somewhere secure, like a locked office cabinet.
 * [Google Forms version](https://docs.google.com/forms/d/13ra4T0BVWbjSPBfOuNj8zVclU5J4TquX_tFbHUQWUpc/viewform). Copy this file and put it into your own project folder. At the moment, for some reason, the "move to folder" option appears to disabled in Google Forms, so you need to do this manually:
 
 1. Copy file
@@ -42,7 +42,7 @@ We work in the open, but we need to be mindful of discussing agency partners, co
 
 ### What is PII? 
 
-PII is any piece of data, singly or in combination, that can identify unique individuals. PII is defined contextually. So a full name given without context, such as "Elizabeth Goodman," may not necessarily be PII. It's a common name, after all. "Elizabeth from GSA" is not necessarily PII, either. There are a lot of people named Elizabeth who work for the GSA. But "Elizabeth at 18F" is _definitely_ PII. There's only one. For that reason, Social Security Numbers, Alien Registration Numbers, and driver's license numbers are always PII. Email addresses, phone numbers, and mailing addresses are sometimes PII, and presented in combination with a first name often become PII. Photos of people's faces are almost always PII, and that's why we always ask before taking photos, and we get explicit statements about we can share them. [Sensitive PII](https://pages.18f.gov/before-you-ship/security/pii/) is information which, if shared, could seriously harm or embarrass someone. Unique identifying numbers and biometric data is always sensitive: In general, combining:
+PII is any piece of data, singly or in combination, that can identify unique individuals. PII is defined contextually. So a full name given without context, such as "Elizabeth Goodman," may not necessarily be PII. It's a common name, after all. "Elizabeth from GSA" is not necessarily PII, either. There are a lot of people named Elizabeth who work for the GSA. But "Elizabeth at 18F" is _definitely_ PII. There's only one. For that reason, Social Security Numbers, Alien Registration Numbers, and driver's license numbers are always PII. Email addresses, phone numbers, and mailing addresses are sometimes PII, and presented in combination with a first name often become PII. Photos of people's faces are almost always PII, and that's why we always ask before taking photos, and we get explicit statements about we can share them. [Sensitive PII](https://pages.18f.gov/before-you-ship/privacy/pii/) is information which, if shared, could seriously harm or embarrass someone. Unique identifying numbers and biometric data is always sensitive: In general, combining:
 
 - Citizenship or immigration status
 - Ethnic or religious affiliation
