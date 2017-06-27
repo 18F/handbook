@@ -51,7 +51,7 @@ title: New York City
 
 ### Visit as a guest?
 
-You will need to register with the front desk, and have someone with a building badge to escort you.
+See the [TTS at WTC](https://docs.google.com/document/d/1bqTlkaxRfbPdf0HlYI3TZkwIT9vd2HcN-nh6rTrkJzE/edit#heading=h.gno5incmiuxa) guide.
 
 ### Get building access?
 
@@ -89,7 +89,7 @@ To be determined.
 
 ### Snacks and drinks
 
-There is a coffee shop on the 64th floor, and a cafeteria on the 35th floor. You need to go back down to the 1st floor to go back up to them.
+There is [a coffee shop on the 64th floor](http://forfivecoffee.com/), and a [cafeteria and another coffee shop on the 35th floor](https://racafes.compass-usa.com/CondeWTC/Pages/Home.aspx?lid=b2). You need to go back down to the 1st floor to go back up to them. There are also many options in [the Oculus mall](https://www.westfield.com/westfieldworldtradecenter/entertainment/dining), or across the street at [Brookfield Place](https://brookfieldplaceny.com/directory/food/all).
 
 ### Spare keyboards and mice
 
@@ -111,4 +111,4 @@ There is also a shared calendar. If it doesn't show up in Google Calendar alread
 
 ## Who works here?
 
-You can find everyone who works in the <a href="https://gsa-tts.slack.com/messages/nyc/">#nyc</a> channel in Slack.
+You can find everyone who works in the [#nyc](https://gsa-tts.slack.com/messages/nyc/) channel in Slack.
