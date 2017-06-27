@@ -72,5 +72,5 @@ Carefully restricting access to personally identifiable information is a matter 
 
 ## Join the research guild!
 
-The Guild talks in [#research](https://gsa-tts.slack.com/archives/research) and meets once a week to discuss the theory and practice of asking questions. The current guild leader is [Jeremy Canfield](https://gsa-tts.slack.com/team/jeremy).
+The Guild talks in [#research](https://gsa-tts.slack.com/archives/research) and meets once a week to discuss the theory and practice of asking questions. The current guild leaders are [Colin MacArthur](https://gsa-tts.slack.com/team/colinpmacarthur) and [Joanne McGovern](https://gsa-tts.slack.com/team/joannemcgovern).
 
