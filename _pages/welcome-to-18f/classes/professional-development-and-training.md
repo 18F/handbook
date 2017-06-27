@@ -1,6 +1,6 @@
 ---
 title: Professional development and training
-tags: 
+tags:
 - OLU
 - online learning university
 ---
@@ -67,7 +67,7 @@ All General Services Administration (GSA) employees are required to take mandato
       <td>45 minutes</td>
     </tr>
     <tr>
-      <td>Telework Works (must be completed before you <a href="/leave-telework-and-virtual-worker#how-do-i-get-an-approved-telework-agreement">submit your telework agreement</a>)</td>
+      <td>Telework Works (must be completed before you <a href="/telework-and-virtual-worker#how-do-i-get-an-approved-telework-agreement">submit your telework agreement</a>)</td>
       <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>120 minutes</td>
     </tr>
