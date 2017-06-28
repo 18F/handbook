@@ -52,7 +52,7 @@ GEM
     jekyll_pages_api_search (0.4.3)
       jekyll_pages_api (~> 0.1.4)
       sass (~> 3.4)
-    json (1.8.3)
+    json (1.8.6)
     kramdown (1.9.0)
     liquid (3.0.6)
     listen (3.0.5)
@@ -92,4 +92,4 @@ DEPENDENCIES
   rouge
 
 BUNDLED WITH
-   1.12.5
+   1.14.6
