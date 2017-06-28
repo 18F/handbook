@@ -2,22 +2,20 @@
 title: Travel 101
 ---
 
-This post contains an overview of what you need to know about how to book travel, excerpted from [the comprehensive 18F Travel Guide](/travel-guide-start-here/).
+This post contains an overview of what you need to know about how to book travel, excerpted from [the comprehensive TTS Travel Guide](/travel-guide-start-here/).
 
 ### Leadership
 
-The 18F Travel Team has two members:
+The TTS Travel Team has two members:
 
 * Leah Gitter (TTS Operations)
 * Ethan Heppner (TTS Operations)
 
-Leah Gitter is 18F's primary points of contact for travel-related questions during 18F Travel Office Hours. Ethan Heppener fills in for Leah when they are out of the office.
-
 ### Communication
 
-If you have travel questions, you can ask them during 18F travel team [office hours](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_iqsha8bbdcjtqq3jufp15vl554%40group.calendar.google.com) Monday through Friday from **10:30 to 11:30 AM** and again from **3:30 to 4:30 PM** (All times Eastern). Someone will be monitoring the channel and they will address your question as fast as they can.
+If you have travel questions, you can ask them during TTS travel team [office hours](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_iqsha8bbdcjtqq3jufp15vl554%40group.calendar.google.com) Monday through Friday from **10:30 to 11:30 AM** and again from **3:30 to 4:30 PM** (All times Eastern). Someone will be monitoring the channel and they will address your question as fast as they can.
 
-For more involved questions, you can also [sign up for a 1-on-1 appointment with a member of the 18F travel team](https://calendar.google.com/calendar/selfsched?sstoken=UUZmSUplekFxYzFofGRlZmF1bHR8ZGE3Zjg4NTljODU3NTEyNzgwYmU5YmRlYTdlNTFjNTY). The 1-on-1s will be offered every day between 11:30 AM and 12:30 PM Eastern. If you're new and have read through the [Handbook Travel Guide](/travel-guide-start-here/) and aren't sure where to start, feel free to book some 1-on-1 time and get yourself oriented. If there are no 1-on-1s scheduled, morning office hours will continue through this time.
+For more involved questions, you can also [sign up for a 1-on-1 appointment with a member of the TTS travel team](https://calendar.google.com/calendar/selfsched?sstoken=UUZmSUplekFxYzFofGRlZmF1bHR8ZGE3Zjg4NTljODU3NTEyNzgwYmU5YmRlYTdlNTFjNTY). The 1-on-1s will be offered every day between 11:30 AM and 12:30 PM Eastern. If you're new and have read through the [Handbook Travel Guide](/travel-guide-start-here/) and aren't sure where to start, feel free to book some 1-on-1 time and get yourself oriented. If there are no 1-on-1s scheduled, morning office hours will continue through this time.
 
 The travel team also approves [authorizations](/travel-101/#authorizations) at 2:30 PM Eastern every day, and Ethan does final approvals by 6 PM ET. If your travel wasn’t approved and you think it should have been, feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) at 3 PM Eastern to check if it was received.
 
