@@ -184,7 +184,7 @@ Routing a voucher is now exactly the same as submitting an authorization as seen
 
     * You will now see a list of all the items that might cause a fail or hardfail for the voucher to be approved.
 
-    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please reach out to the 18F travel team.
+    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please reach out to the TTS travel team.
 
     *  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2](/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
 
@@ -203,6 +203,6 @@ Congrats!!! Your voucher has been submitted. You don’t even have to click the 
 
 ## YOU'RE DONE!!!
 
-Your voucher will be reviewed by a member of the 18F travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
+Your voucher will be reviewed by a member of the TTS travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
