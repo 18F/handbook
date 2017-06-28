@@ -73,7 +73,7 @@ When booking hotels for official travel, always use your travel card, whether yo
 
 You may book outside of Fedrooms if you can find alternative accommodations that are "fire-safe" and have a similar refund policy as Fedrooms, if the overall cost is lower or the location is closer to the work site.
 
-While some services (such as Airbnb, hotels.com, etc.) offer lower prices, they do came with a risk to the government-- if your trip is cancelled, some or all of that total may not be refunded. Since our clients may not agree to pick up that tab, nonrefundable fees sometimes eat into 18F’s operating budget.
+While some services (such as Airbnb, hotels.com, etc.) offer lower prices, they do came with a risk to the government-- if your trip is cancelled, some or all of that total may not be refunded. Since our clients may not agree to pick up that tab, nonrefundable fees sometimes eat into TTS’s operating budget.
 
 If you need to book a hotel outside of fedrooms.com, please check if booking comes with any nonrefundable fees. If it does, please get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to 18ftravelauths@gsa.gov. Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.
 
