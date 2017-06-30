@@ -43,7 +43,7 @@ _Before you do anything, read our [best practices for making distributed teams w
 
 ### <a id="set-up-my-computer">Set up my computer?</a>
 
-18F employees receive a MacBook and an iPhone from GSA, though you may not receive your work phone on your first day.
+TTS employees receive a MacBook and an iPhone from GSA, though you may not receive your work phone on your first day.
 
 On your first day at work you should configure things so that your two-factor authentication (2FA) codes &mdash; which you&rsquo;ll occasionally need to connect to GSA&rsquo;s virtual private network (VPN) &mdash; are delivered to your cell phone. If you don&rsquo;t receive your work cell phone on day one, you&rsquo;ll need to use your personal phone. **If you do not configure 2FA you will not be able to access your email from outside of federal buildings.**
 
@@ -72,7 +72,7 @@ See [Networks](/networks) for details.
 
 ### <a id="get-my-laptop-repaired">Get my laptop repaired?</a>
 
-First, go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we&rsquo;ll ship you a new laptop).
+First, go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (TTS will pay for the repairs), or ship it back to TTS (we&rsquo;ll ship you a new laptop).
 
 ### <a id="tether">Tether to my GSA phone?</a>
 
@@ -96,7 +96,7 @@ From Peter Karman and Becky Sweger:
 ## Keeping in touch
 
 - **Log into the weekly all-hands meeting a few minutes early.** It&rsquo;s a good chance to see faces and chat before the meeting starts.
-- **Co-work Across America!** Gray Brooks and others are working on organizing groups that travel to 18F offices and share the cost of accommodations and travel. Let him know if you want to help, or hop into [#cowork-across-america](https://gsa-tts.slack.com/messages/cowork-across-america/) on Slack.
+- **Co-work Across America!** Gray Brooks and others are working on organizing groups that travel to TTS offices and share the cost of accommodations and travel. Let him know if you want to help, or hop into [#cowork-across-america](https://gsa-tts.slack.com/messages/cowork-across-america/) on Slack.
 - **Over communicate.** Working remote means you can&rsquo;t rely on your physical presence to communicate to everyone else whether or not you&rsquo;re &ldquo;at work.&rdquo; Use the [18F Out of Office (OOO) calendar](https://www.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/New_York) if you&rsquo;re assigned to an office and working remotely or if you&rsquo;re working in a different place than usual. On phone calls, don&rsquo;t be afraid to jump in and tell people if you can&rsquo;t hear.
 - **Go to the biweekly coffee meetings with Aaron.**  These meetings are a great way to stay connected to org-wide chatter. Make time for these as often as you can.
 - **Deliberately foster chats that aren&rsquo;t related to work.** People who work out of GSA offices will do this from time to time, and you should, too. Ask people out to virtual tea!
@@ -109,7 +109,7 @@ From Peter Karman and Becky Sweger:
 
 From **Julia Elman**:
 
-> **MEET EVERYONE!** The 18F team is filled with amazingly kind and talented people. Don't be shy, and get to know everyone! Learn about what projects are going on, see what interests you, and go for it."
+> **MEET EVERYONE!** The TTS team is filled with amazingly kind and talented people. Don't be shy, and get to know everyone! Learn about what projects are going on, see what interests you, and go for it."
 >
 >**Schedule virtual teas with your colleagues** via Google Hangout, just to say hello. "You can also Hangout with colleagues and work on projects — sometimes it&rsquo;s just nice to see or hear someone," she says.
 
