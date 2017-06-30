@@ -2,7 +2,7 @@
 title: Public disclosures of vulnerabilities
 ---
 
-When someone in the public alerts us to a potential vulnerability, either via HackerOne or our [`our public disclosure email address`](mailto:tts-vulnerability-reports@gsa.gov), we need to respond and triage quickly. There are three steps in the process:
+When someone in the public alerts us to a potential vulnerability, either via HackerOne, email, or webform, we need to respond and triage quickly. There are three steps in the process:
 
 1. [Triage the vulnerability](#triage-the-vulnerability)
 2. [File an issue](#file-an-issue)
