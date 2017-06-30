@@ -17,7 +17,6 @@ title: Washington, D.C.
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/leahgitter/">Leah Gitter</a><br />
           <a href="https://gsa-tts.slack.com/messages/shawnique/">Shawnique Muller</a><br />
-          Phone numbers are in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a><br />
           <a href="mailto:1800ftenantsupport@gsa.gov">GSA Tenant Support</a>
         </td>
       </tr>
@@ -34,13 +33,13 @@ title: Washington, D.C.
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           TTS sits on the fourth floor, in the 400&rsquo;s hallway, which is <br />
+           TTS sits on the fourth floor in the first wing and in the 400&rsquo;s hallway, which is <br />
            located on the E Street side in what&rsquo;s known as the infill.
         </td>
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value">National Capital Region (<a href="http://www.gsa.gov/portal/content/104717">region 11</a>)</td>
+        <td class="col-value">Central Office</td>
       </tr>
     </tbody>
   </table>  
