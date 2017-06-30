@@ -1,5 +1,5 @@
 # Site settings
-title: 18F Handbook
+title: TTS Handbook
 description: A collection of guides and policies to help you with your work.
 email:
 permalink: pretty
@@ -69,7 +69,7 @@ flat_namespace: true
 navigation:
 - text: Table of Contents
   internal: true
-- text: Welcome to 18F
+- text: Welcome to TTS
   blurb: |
     Here's what you need to know in your first few weeks.
   url: welcome-to-18f/
