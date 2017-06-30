@@ -47,13 +47,13 @@ Step increases happen automatically. Your supervisor will get an email notificat
 
 > **Org**----**Full Name**----**WGI Date**----**PP-Ser-Gr**----**Step**   
 > xxx------xxxxx------xx/xx/16------GS-0301-xx------x
-  
+
 > Please contact me immediately if you are planning to deny an employee’s increase. Employees are required to receive written notification of the denial at least 60 days prior to the within grade due date.
-  
+
 > If we do not hear from you at least 60 days prior to the within grade due date, we will presume that you are agreeable to the increase.
 
 #### Still have questions?
-  
+
 Contact: [Leila Knight](mailto:leila.knight@gsa.gov)
 
 * Office: (202) 969-7079  
