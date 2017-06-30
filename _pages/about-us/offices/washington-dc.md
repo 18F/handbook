@@ -33,8 +33,7 @@ title: Washington, D.C.
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           TTS sits on the fourth floor in the first wing and in the 400&rsquo;s hallway, which is <br />
-           located on the E Street side in what&rsquo;s known as the infill.
+           TTS sits on the fourth floor in the first wing and in the 400&rsquo;s hallway, which is located on the E Street side in what&rsquo;s known as the infill.
         </td>
       </tr>
       <tr>
