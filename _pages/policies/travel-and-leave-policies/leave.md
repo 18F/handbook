@@ -22,10 +22,10 @@ Should an unforeseen emergency or illness arise requiring the use of leave not p
 Before taking leave, be sure to:
 
 - Submit leave through [ALOHA](https://aloha.gsa.gov)
-- Update the 18F Out of Office Calendar
 - Notify your Engagement Manager, if you're on an outside project, so they can update Float
 - Submit correct Tock entries assigned to Annual Leave
 - Share via Slack, email or over media with folk how need to know, and make sure work is covered
+- For 18F team members, update the [18F Out of Office Calendar](<iframe src="https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>)
 
 ### Annual leave
 
