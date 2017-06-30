@@ -18,7 +18,7 @@ Include your termination date, which should be at least two weeks out. Your last
 
 ### 2. Complete the clearance checklist
 
-Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/archives/teamops)) will set time with you to complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing).
+Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messages/talent/)) will set time with you to complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing).
 
 ### 3. Review benefits paperwork
 
