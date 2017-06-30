@@ -32,7 +32,7 @@ title: Chicago
         </td>
         <td class="col-value">
            230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock building. The Acting Regional Administrator is John Cooke.<br /><br />
-       18F&rsquo;s office is in suite 3780 in the southeast corner of the 37th floor.
+       TTS's office is in suite 3780 in the southeast corner of the 37th floor.
         </td>
       </tr>
       <tr>
@@ -47,11 +47,11 @@ title: Chicago
 
 ### <a id="from-ohare"></a>From O&rsquo;Hare International Airport
 
-Public transit is from O'Hare to the 18F Chicago office is cheap, fairly quick, and convenient. Blue Line trains run from the airport to downtown 24/7 and take about 50 minutes. The closest stop to the office is **Jackson**.
+Public transit is from O'Hare to the TTS Chicago office is cheap, fairly quick, and convenient. Blue Line trains run from the airport to downtown 24/7 and take about 50 minutes. The closest stop to the office is **Jackson**.
 
 ### <a id="from-midway"></a>From Midway Airport
 
-The smaller of the two Chicago airports, this one is a little closer to downtown-- it's only a 25 minute ride down the CTA Orange Line. The **Library/State & Van Buren** stops are the closest to the 18F office on your way in, though we recommend getting on at **Adams/Wabash** on your way out (unless you want to get a tour of the entire Chicago loop). While the Orange Line doesn't run 24/7 like the Blue, it does have regular service between 4:30 a.m. and 1 a.m., covering pretty much any reasonable flight departure/arrival times.
+The smaller of the two Chicago airports, this one is a little closer to downtown-- it's only a 25 minute ride down the CTA Orange Line. The **Library/State & Van Buren** stops are the closest to the TTS office on your way in, though we recommend getting on at **Adams/Wabash** on your way out (unless you want to get a tour of the entire Chicago loop). While the Orange Line doesn't run 24/7 like the Blue, it does have regular service between 4:30 a.m. and 1 a.m., covering pretty much any reasonable flight departure/arrival times.
 
 ### <a id="walking"></a>Walking
 
@@ -77,7 +77,7 @@ Garage parking downtown is very expensive. "Early bird" rates start at $18, and 
 
 ### <a id="enter-the-building"></a>Enter the building for the first time (or if I don&rsquo;t have a GSA badge)?
 
-During business hours (9 a.m. to 4:30 p.m.), pass through security as a normal visitor. If arriving outside business hours, arrange for an 18F team member inside the office to escort you.
+During business hours (9 a.m. to 4:30 p.m.), pass through security as a normal visitor. If arriving outside business hours, arrange for a TTS team member inside the office to escort you.
 
 ### <a id="get-badge"></a>Get my fingerprints taken and badge made?
 
@@ -89,7 +89,7 @@ Your GSA ID grants you access to the building at any time between 7 a.m. and 6 a
 
 ### <a id="onboarding"></a>Attend onboarding?
 
-GSA onboarding is typically done on alternating Mondays at 1:00 p.m. in Room 3722, in the NW corner of the 37th floor. 18F onboarding varies by division-- you should receive an email confirming the times that you will meet with your team. To allow yourself enough time to get set up on the GSA network, please arrive at 8 a.m. on the second day of your first week, and Ethan Heppner (18F Chicago's office operations coordinator) will help walk you through.
+GSA onboarding is typically done on alternating Mondays at 1:00 p.m. in Room 3722, in the NW corner of the 37th floor. TTS onboarding varies by division-- you should receive an email confirming the times that you will meet with your team. To allow yourself enough time to get set up on the GSA network, please arrive at 8 a.m. on the second day of your first week, and Ethan Heppner (TTS Chicago's office operations coordinator) will help walk you through.
 
 ### <a id="access-building-after-hours"></a>Access the building after hours?
 
@@ -103,7 +103,7 @@ In Chicago, you can book rooms using Google Calendars:
 2. Above the box where you would normally add guests, click **Rooms, etc**. ![List of rooms on Google calendar]({{ site.baseurl }}/images/chicago-calendar-2.png)
 3. Click **R05** to see rooms available in region 5. You'll see a list of available rooms below.
 4. Select **Show only available** so you don't try to reserve a room that is already booked!
-5. Look for rooms that have "JCK" in them, as those are the ones that are in the same building as the 18F office. _Make sure that you're not booking a room that is literally in Ohio._
+5. Look for rooms that have "JCK" in them, as those are the ones that are in the same building as the TTS office. _Make sure that you're not booking a room that is literally in Ohio._
 
 Alternative: Use the search bar. For example, Room 3380 (the one that we normally use for the all-hands) comes up when you type in 3380.
 
@@ -121,7 +121,7 @@ See [Networks](/networks/) for details.
 
 ### <a id="bathrooms"></a>Bathrooms
 
-Bathrooms are just down the hall from the 18F office.
+Bathrooms are just down the hall from the TTS office.
 
 ### <a id="mail"></a>Mail
 
@@ -129,7 +129,7 @@ Incoming mail is delivered to and outgoing mail is collected from the office twi
 
 ### <a id="conference-rooms"></a>Conference rooms
 
-Conference rooms: the 18F office has four quiet rooms (soon to be two quiet rooms and one conference room).
+Conference rooms: the TTS office has four quiet rooms (soon to be two quiet rooms and one conference room).
 
 ### <a id="lockers"></a>Lockers
 
@@ -203,4 +203,4 @@ We keep a list of [people who work in the Chicago office](https://pages.18f.gov/
 
 ## <a id="potlucks"></a>Potlucks
 
-Have guests you want to bring to mingle with 18F?  Invite them to our monthly [potluck](https://www.eventbrite.com/e/18f-chicago-potluck-lunch-tickets-25357936270).  Potlucks are the first Tuesdays of each month (unless there is a holiday that Monday i.e. July 4 or Labor Day).
+Have guests you want to bring to mingle with TTS?  Invite them to our monthly [potluck](https://www.eventbrite.com/e/18f-chicago-potluck-lunch-tickets-25357936270).  Potlucks are the first Tuesdays of each month (unless there is a holiday that Monday i.e. July 4 or Labor Day).
