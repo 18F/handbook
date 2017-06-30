@@ -1,20 +1,18 @@
-# How to update the handbook
+# Git
 
-## The lazy way (get someone else to do it!)
+Git is a powerful version control tool.  At its core is the idea of cloning code, making changes, and merging those changes back in. In our case, those changes get merged back in after a "pull request" containing those changes gets made, reviewed, and accepted.
 
-Better than doing nothing at all: [Open a Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a suggestion, or chat about it in [#docs](https://civicactions.slack.com/messages/docs/).
+Git is confusing at first, but our handbook is a great place to learn git because we use a relatively simple git workflow, compared to many engineering projects.
 
-If you choose this approach, you may also wish to let someone in the documentation working group know about your suggestion!
+In this project, The "master" branch is the active branch, with the latest, approved changes, published at [Read The Docs](read-the-docs.md).  If you use Workflow 1, you'll be editing the branch directly, but
 
-> @todo [Update this to refer to github issues once we switch](https://trello.com/c/Kxf3ER8i/98-move-issue-tracking-for-this-repo-to-issues)
+## Workflow 1: The easy way, via the github UI on the master branch
 
-## The easy way, via the github UI on the master branch
+We recommend this approach for those who are not already familiar with the git workflow, and who do not have tools for keeping their github forks up to date.
 
-We only recommend this approach for those who are not already familiar with the git workflow, and who do not have tools for keeping their github forks up to date.
+You'll need a Github account, and to be added to the CivicActions Team ([instructions are here](../04-how-we-work/tools/github.md)).
 
-You'll need a Github account, and to be added to the CivicActions Team ([instructions are here](docs/04-how-we-work/tools/github.md)).
-
-Go to a page, click edit, and make your changes, using [markdown](https://guides.github.com/features/mastering-markdown/).  Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
+Go to a page, click edit, and make your changes, using [markdown](markdown.md).  Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
 When you save it ("make a commit"), there are three fields to fill out. *All of these are optional*, with default values, and in most cases it's fine to leave the defaults.
 
@@ -51,13 +49,13 @@ Resources:
 
 ## Assigning pull requests
 
-If you make a pull request related to a subject that is the responsibility of a specific team or person, please consider tagging or assigning it to that team or person (or pinging them in Slack to ask them to review it).
+If you make a pull request related to a subject that is the responsibility of a specific team or person, please consider tagging or assigning it to that team or person (or pinging them in Slack to ask them to review it).  See also [docs-governance.md](docs-governance.md).
 
 ## <a name="PR-workflow"></a>How to review and merge pull requests
 
 Each pull request must be reviewed by at least one other CivicActions employee before it can be merged.
 
-Any CivicActions employee with Github account, who has been added to the CivicActions Team ([instructions are here](docs/04-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
+Any CivicActions employee with Github account, who has been added to the CivicActions Team ([instructions are here](../04-how-we-work/tools/github.md)), can review a pull request and decide whether they feel confident about merging it. If it's not your area of expertise, ask somebody at CivicActions who has expertise in that area.
 
 For example: if something looks like it's related to how Marketing works, ask a Marketing person to review it; if it looks like it needs Project Management team review, ask a PM.
 
@@ -67,48 +65,24 @@ If you're not sure if you should merge something, ask for a second opinion in [#
 
 1. Navigate to the open pull request. You can get there by clicking on the PR link if you have it, or by clicking on the Pull Requests tab at the top of the Handbook repo page.
 
-![PR workflow screenshot 1](docs/images/01-PR-pull-requests-tab.png)
+![PR workflow screenshot 1](../images/01-PR-pull-requests-tab.png)
 
 2. Check to make sure "All checks have passed." If not, ask the person who added the PR to fix any errors.
 
-![PR workflow screenshot 2](docs/images/02-PR-checks-passed.png)
+![PR workflow screenshot 2](../images/02-PR-checks-passed.png)
 
 3. Click "Add your review."
 
-![PR workflow screenshot 3](docs/images/03-PR-add-review.png)
+![PR workflow screenshot 3](../images/03-PR-add-review.png)
 
 4. Review the commits. If the changes look good, make sure you select "Approve." Otherwise, add your comments or request changes (merging on the PR will be blocked until you or another reviewer approves it).
 
-![PR workflow screenshot 4](docs/images/04-PR-approve.png)
+![PR workflow screenshot 4](../images/04-PR-approve.png)
 
 5. Submit your review.
 
-![PR workflow screenshot 5](docs/images/05-PR-submit-review.png)
+![PR workflow screenshot 5](../images/05-PR-submit-review.png)
 
 6. Merge Pull Request, and you're done!
 
-![PR workflow screenshot 6](docs/images/06-PR-merge.png)
-
-## Styles
-
-This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should be welcoming, personable, and free from jargon.
-
-Markdown formatting should be compliant with [markdownlint rules](https://github.com/mivok/markdownlint/blob/master/docs/RULES.md) (technically we are using <http://remark.js.org/> for linting/checking rather than markdownlint - but most of [the rules we are using](https://github.com/CivicActions/handbook/blob/master/.remarkrc.error) are comparable).
-
-We are also using [retext](https://github.com/wooorm/retext/), which will give warnings (but not fail the build) for language that looks possibly incorrect, overly complex or insensitive.
-
-You can see some example output (for our master branch) at <https://travis-ci.org/CivicActions/handbook> - this is where errors will show up if the build for your pull request fails. The left hand column shows the line and the position in that line where the error/warning occurs.
-
-You can check that your markdown complies with the retext and remark locally:
-
-* Install node.js if you don't have it already: <https://nodejs.org/en/download/> (or use a package manager)
-* Install yarn: <https://yarnpkg.com/lang/en/docs/install/> (various options to install, could also use a package manager)
-* Open a terminal and `cd` to your git root
-* Run `yarn install` to install the dependencies
-* Run `./node_modules/.bin/gulp` (you can also pass in `--path=` to a specific file to limit tests to just that)
-
-## Public domain
-
-This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
-
-All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
+![PR workflow screenshot 6](../images/06-PR-merge.png)
