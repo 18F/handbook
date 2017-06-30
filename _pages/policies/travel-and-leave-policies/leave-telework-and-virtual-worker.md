@@ -1,14 +1,5 @@
 ---
 title: Leave, telework, and virtual worker policy
-tags:
-- aloha
-- aloha
-- aloha
-- vacation
-- funeral
-- funeral
-- death
-- bereavement
 ---
 
 In this policy, your _supervisor_ is your administrative or official supervisor (or their designee).
