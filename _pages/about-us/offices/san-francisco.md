@@ -33,7 +33,7 @@ title: San Francisco
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           18F sits in room #5685 on the fifth floor. When you get off the elevator, go to the left.
+           TTS sits in room #5685 on the fifth floor. When you get off the elevator, go to the left.
         </td>
       </tr>
       <tr>
@@ -57,7 +57,7 @@ title: San Francisco
 
 [50 UN Plaza](http://www.gsa.gov/portal/category/107031) is on historic Market Street between 6th and 7th streets, in the Civic Center neighborhood. The Bay Area Rapid Transit authority (BART) and MUNI both have underground stops at this location, and the historic F Market streetcar line has two local stops at 6th and 7th Streets.
 
-18F SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
+TTS SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
 
 There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance &mdash; San Francisco City Hall and the Asian Art Museum are but two of them!
 
@@ -65,7 +65,7 @@ There is a lively farmers market literally out our door every Wednesday. There a
 
 ### From San Francisco International Airport (SFO)
 
-Public transit from SFO to the 18F San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station. Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes. The office sits right above the Civic Center stop for BART.
+Public transit from SFO to the TTS San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station. Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes. The office sits right above the Civic Center stop for BART.
 
 ### From Oakland International Airport (OAK)
 
@@ -116,13 +116,13 @@ You can get them at 450 Golden Gate. [Schedule an appointment](https://timetrade
 
 Once you’re there, turn right after entering past security, then the MSO office is directly across from IRS. This is also where you can get your card _activated_.
 
-### Attend GSA and 18F orientation?
+### Attend GSA and TTS orientation?
 
-GSA onboarding is typically conducted on Mondays at 50 UN Plaza. 18F SF onboarding takes place after GSA orientation at our office suite. You should receive an email confirming the times that you will meet with your team.
+GSA onboarding is typically conducted on Mondays at 50 UN Plaza. TTS SF onboarding takes place after GSA orientation at our office suite. You should receive an email confirming the times that you will meet with your team.
 
 ### Find out everything I need to know about working in SF?
 
-Whether you're new at 18F and are joining the SF office or you're a long-time 18F member relocating to SF, here's an office onboarding checklist for you:
+Whether you're new at TTS and are joining the SF office or you're a long-time TTS member relocating to SF, here's an office onboarding checklist for you:
 
 * Add yourself to our [desk schedule spreadsheet](https://docs.google.com/spreadsheets/d/1QNGF8pvrVUXEa8tjsQEEw5itflDEAyjVxQgfCT6Kj5c/edit#gid=0).
 * Add yourself to our [cleaning crew schedule](https://docs.google.com/document/d/1CCKYxIRrCUDJpykKgrjDBISLG-2toMv9yu1hLfR2IOs/edit).
@@ -145,7 +145,7 @@ You may host folks from other government agencies. As the host you are responsib
 
 ### Access the building after hours?
 
-If you're a visitor arriving outside business hours, arrange for an 18F staff member inside the office to escort you.
+If you're a visitor arriving outside business hours, arrange for an TTS staff member inside the office to escort you.
 
 If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Holly Allen or Josh Bailes), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
 
@@ -192,7 +192,7 @@ If you're the last to leave your side of the office (north or south side), take 
 
 ### Bathrooms
 
-Men's and women’s bathrooms are just down the hall from the 18F office — walking away from the elevator bays of the building, the men’s room is on the left, and for the women’s keep going down the hall to just past the stairwell on the left.
+Men's and women’s bathrooms are just down the hall from the TTS office — walking away from the elevator bays of the building, the men’s room is on the left, and for the women’s keep going down the hall to just past the stairwell on the left.
 
 There is an all-gender bathroom in the Nimitz Suite on the third floor (room 3198), [at the southwest corner of the third floor map here](https://insite.gsa.gov/portal/category/532018). The Nimitz Suite is [a set of conference rooms named after an admiral](http://gsablogs.gsa.gov/gsablog/2014/05/16/a-closer-look-the-nimitz-suite/).
 
@@ -239,7 +239,7 @@ For FedEx and UPS, please use the address as usual:
 
 ## Potluck
 
-We host a potluck lunch every Thursday, to which we invite guests who are interested in finding out more about 18F and what we do. We're also very keen to meet folks who work in government or civic tech, or who are interested in learning more about that world.
+We host a potluck lunch every Thursday, to which we invite guests who are interested in finding out more about TTS and what we do. We're also very keen to meet folks who work in government or civic tech, or who are interested in learning more about that world.
 
 If you're a guest, **you must arrange your visit with your contact at least a day in advance** so that they know to meet you at the door. (If you don't have a contact, [email Yoz Grahame](mailto:yoz.grahame@gsa.gov) and he _may_ be able to sort it out for you.) Please make sure to [bring acceptable ID](#bring-in-one-time-guests). Any dishes are welcome; vegetarian food is likely to be enjoyed by the most people. (And we all love desserts.)
 
