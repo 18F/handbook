@@ -424,6 +424,9 @@ navigation:
     - text: Emergency procedures
       url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
       internal: false
+    - text: Overtime and comp time
+      url: overtime-and-comp-time/
+      internal: true
     - text: Promotions
       url: promotions/
       internal: true
