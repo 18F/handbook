@@ -197,6 +197,4 @@ Recycling, including battery recycling, is available on the 2nd floor of our bui
 
 Dollop and Intelligentsia are the current fan favorites for coffee. If you like darker roasts, Lavazza may be up your alley.
 
-## <a id="potlucks"></a>Potlucks
 
-Have guests you want to bring to mingle with TTS?  Invite them to our monthly [potluck](https://www.eventbrite.com/e/18f-chicago-potluck-lunch-tickets-25357936270).  Potlucks are the first Tuesdays of each month (unless there is a holiday that Monday i.e. July 4 or Labor Day).
