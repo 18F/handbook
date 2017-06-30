@@ -280,10 +280,6 @@ The Health Unit also includes an all-gender bathroom.
 * [18F SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-sf)
 * [50 UN Plaza Mailing list](https://groups.google.com/a/gsa.gov/forum/#!forum/50unp)
 
-## Who works here?
-
-We keep a list of [people who work in the San Francisco office](https://pages.18f.gov/team-browser/?locations=SFO).
-
 ## Food and coffee
 
 [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=zMY1nJmKeGBU.kU147P2SgCmA) with lots of food and drink options near 50 UN Plaza.
