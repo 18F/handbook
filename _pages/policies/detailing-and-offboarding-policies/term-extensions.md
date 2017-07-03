@@ -31,16 +31,19 @@ At this point, the renewal process is completed by the Talent Team and GSA HR.
 
 - Approved extensions are placed on a tracking list.
 - Talent Team sends the extension RPAs (RPAs are submitted and processed through CHRIS) in batches at the beginning of each month for all extensions happening the following month.
-- HR reviews and confirms the RPA checking that all information is accurate (employee has another term left, correct extension dates).
+- HR reviews and confirms the RPA checking that all information is accurate (employee has another term left, correct extension dates, etc.).  
+  - HR is not "approving" the extension request at this step of the process.  Your extension has already been approved; this is just a matter of processing.
   - *Note: New Term beginning dates are the following day from the previous term end date excluding weekends. If it’s a weekend it will be the following Monday. New Term end dates will be the Friday if it falls on a weekend.*
 - HR sends the approved RPA to CPC (Consolidated Processing Center in Kansas City, MO) to have it processed.
 - CPC processes the RPA. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in CHRIS. They process RPAs based on action date, which is why you will not see the updates in CHRIS or our internal systems until the extension date.
 
 *Please note that GSA and internal systems do not process extensions ahead of time.*
 
-5) Your updated NTE (Not To Exceed date) will show up in your CHRIS account under the “Assignment Tab” on the day of the renewal along with your updated SF50 under the “Personnel Actions (SF-50s)” tab, so on 8/25/16 you would see the new date of 8/25/18. A notification from the CHRIS system usually gets emailed to employees up to two weeks after the action.
+5) Your updated NTE (Not To Exceed date) will show up in your CHRIS account under the “Assignment Tab” on the day **after** your current NTE date (expiration date) along with your updated SF50 under the “Personnel Actions (SF-50s)” tab.  So if your current NTE date is 6/15/17, you would see the new NTE date of 6/15/19 on the following day 6/16/17.  
 
 *The Talent Team checks to make sure that the extension has been processed, but you should also check your CHRIS account on the renewal date to confirm that your NTE date is accurate.* ***If the date was not updated, contact the Talent Team immediately.***
+
+- A notification from the CHRIS system usually gets emailed to employees up to two weeks after the action.  *Please note the exception for NTE dates that fall on weekends in section 4 above.*
 
 If the **decision is not to renew**, the Talent Team will process an RPA to end your term at the end of the initial two years. See [Leaving TTS](/leaving-tts/) for more details.
 ---

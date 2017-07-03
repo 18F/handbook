@@ -20,6 +20,7 @@ The Design team at 18F includes content, user experience, front end, and visual 
 - [18F Content Guide](https://pages.18f.gov/content-guide/)
 - [18F Frontend Style Guide](https://pages.18f.gov/frontend/)
 - [Design method cards](https://methods.18f.gov/)
+- [Design wiki](https://github.com/18F/Design-Wiki)
 
 ### <a id="suggested-reading">Suggested reading</a>
 
@@ -141,7 +142,7 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Research
 
-- **Ethnio:** Online research recruiting. Contact [@ethnio-admin](https://gsa-tts.slack.com/messages/@ethnio-admin) in the #ethnio channel in Slack for access. [Jen Ehlers](https://gsa-tts.slack.com/messages/@jehlers) or [Colin MacArthur](https://gsa-tts.slack.com/messages/@colinpmacarthur) will help you out. Be sure to read our [Getting Started with Ethnio](https://docs.google.com/a/gsa.gov/document/d/14YwXV9BoY4EUEGc7kMITFQ-9tFjBipTaj7dsGFIJnNc/edit?usp=sharing) guide.
+- Please read [Doing Research at 18F](/research-guidelines) for more information on the tools and techniques. 
 - **Google Analytics:** More info [here](/google-analytics).
 - For cardsorting and navigation tree testing, we have access to **[Optimal Workshop](https://www.optimalworkshop.com/)** via [OPP](http://www.gsa.gov/portal/content/124174). You can [get started immediately](https://docs.google.com/a/gsa.gov/document/d/1fTXNs1-x9SBLDmOyV79Kxu4V3mvhc89_2GAGixa2tyA/edit?usp=sharing). 
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://gsa-tts.slack.com/messages/research) for recommendations.

@@ -8,7 +8,7 @@ _This section covers the basics of how 18F&rsquo;s website works and includes a 
 
 ### Leadership
 
-[Outreach](/outreach) is responsible for maintaining the 18F website. [Greg Boone](https://gsa-tts.slack.com/messages/@gregboone) and [Elaine Kamlley](https://gsa-tts.slack.com/messages/@elainekamlley) are the product leads.
+[Outreach](/outreach) is responsible for maintaining the 18F website. [Elaine Kamlley](https://gsa-tts.slack.com/messages/@elainekamlley) is the product leads.
 
 ### Communication
 

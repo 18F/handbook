@@ -17,8 +17,9 @@ AnyConnect is a VPN client that we use to connect to GSA's intranet.
 2. Launch the Cisco AnyConnect Secure Mobility Client.
 3. Enter `vpn.gsa.gov/gfeotp` in the Site Name field.
 4. Click **Connect**.
-5. Sign in with your ENT username and password. Your username is your full name, including your middle initial.
-6. You'll be prompted for an answer or token. Enter the [OTP code](/distributed#otp).
+5. In the `Group` dropdown, select `GSA 18F OTP Users`.
+6. Sign in with your ENT username and password. Your username is your full name, including your middle initial.
+7. You'll be prompted for an answer or token. Enter the [OTP code](/distributed#otp).
 
 ## Troubleshooting
 

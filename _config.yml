@@ -1,5 +1,5 @@
 # Site settings
-title: 18F Handbook
+title: TTS Handbook
 description: A collection of guides and policies to help you with your work.
 email:
 permalink: pretty
@@ -69,7 +69,7 @@ flat_namespace: true
 navigation:
 - text: Table of Contents
   internal: true
-- text: Welcome to 18F
+- text: Welcome to TTS
   blurb: |
     Here's what you need to know in your first few weeks.
   url: welcome-to-18f/
@@ -118,9 +118,6 @@ navigation:
       internal: true
     - text: Travel 101
       url: travel-101/
-      internal: true
-    - text: Welcome from Aaron
-      url: welcome-from-aaron/
       internal: true
     - text: Working groups and guilds
       url: working-groups-and-guilds-101/
@@ -401,12 +398,14 @@ navigation:
     - text: ALOHA/ETAMS reconciliation feature
       url: aloha-etams-reconciliation-feature/
       internal: true
-    - text: Leave, telework, and virtual worker policy
-      url: leave-telework-and-virtual-worker/
+    - text: Leave
+      url: leave/
       internal: true
     - text: Moving
       url: moving/
       internal: true
+    - text: Telework and virtual workers
+      url: telework-and-virtual-worker
     - text: Travel guide
       url: travel-guide-start-here/
       internal: true
@@ -425,7 +424,7 @@ navigation:
     - text: Emergency procedures
       url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
       internal: false
-    - text: Overtime and comp-time policy
+    - text: Overtime and comp time
       url: overtime-and-comp-time/
       internal: true
     - text: Promotions
