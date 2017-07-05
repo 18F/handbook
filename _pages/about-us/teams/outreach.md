@@ -31,7 +31,7 @@ The name of our master branch is `staging`. We publish by making branches off of
 
 We use [Google Analytics](/google-analytics/) and participate in the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) to track site usage.
 
-The site team works in [#beta-18f-site](https://gsa-tts.slack.com/messages/beta-18f-site/).
+The site team works in [#18f-site](https://gsa-tts.slack.com/messages/18f-site/).
 
 ## Blog
 Outreach publishes the [18F blog](https://18f.gsa.gov/blog/). We write about progress on our projects, how we work, the culture of 18F, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. The primary contacts for the blog are [Andre Francisco](https://gsa-tts.slack.com/messages/andre/) and [Greg Boone](https://gsa-tts.slack.com/messages/gregboone/).
