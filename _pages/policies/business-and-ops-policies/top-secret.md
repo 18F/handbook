@@ -11,13 +11,13 @@ For certain projects, clients need TTS employees to have this type of clearance 
    * For Question #7 refer to pages A108-112 of the [Cybersecurity Guide](https://goo.gl/SPTm3m) and choose only one code
 
 * Supervisor must write up a Justification explaining why this clearance is necessary
-   * [Sample Justification](https://goo.gl/1baZSd)
+   * [Sample Justification](https://goo.gl/FVRmeZ)
 
 * Update your government style resume
 
 * If you have been employed at GSA for over one year complete the following documents:
    * [GSA Credit Report](https://goo.gl/GiFhBy)
-   * [Declaration of Federal Employment](https://goo.gl/uzKcVn)
+   * [Declaration of Federal Employment (OF 306)](https://goo.gl/QDkDZC)
 
 ### 2. Email items from Step 1 (updated resume, supervisor justification, GSA PRDS, credit report and Declaration of Federal Employment) to the [Talent Team](mailto:TTS-Talent-team@gsa.gov).  They will contact GSA HR to take one of the following steps:
 * If you are on an **individual PD** (i.e. supervisory innovation specialist):
