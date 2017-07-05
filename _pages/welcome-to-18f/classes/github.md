@@ -1,20 +1,10 @@
 ---
-title: Intro to GitHub and the 18F website
-navtitle: GitHub and the 18F website
+title: Intro to GitHub
+navtitle: GitHub
 ---
 
-_This section covers the basics of how 18F&rsquo;s website works and includes a brief overview of Git._
+_This section provides a brief overview of GitHub._
 
-
-### Leadership
-
-[Outreach](/outreach) is responsible for maintaining the 18F website. [Elaine Kamlley](https://gsa-tts.slack.com/messages/@elainekamlley) is the product leads.
-
-### Communication
-
-Find us in Slack:
-
-- Use [#18f-site](https://gsa-tts.slack.com/messages/18f-site) to report issues.
 
 ### Documentation
 
@@ -69,28 +59,3 @@ Another pro tip: Search the existing issues before you add one. It may make more
 To submit an issue, Log in, find the appropriate repo on GitHub, and click the Issues tab in the right column. Then, click the New Issue button. Your issue should have a title and explainer text. You&rsquo;ll probably know what to put there, but teams sometimes have guidance on how to format issues or things to include. The [#blog](https://gsa-tts.slack.com/archives/blog), for example, has [a specific set of things we require](https://github.com/18F/blog-drafts#readme) submissions to have before we&rsquo;ll consider them.
 
 Final pro tip: If your project wants issues formatted in a specific way, you can add an issue template file. [This is the one we have for filing new blog post ideas](https://github.com/18F/blog-drafts/blob/master/ISSUE_TEMPLATE.md). Every new post auto-fills with that information.
-
-
-## 18F site
-
-[18f.gsa.gov](http://18f.gsa.gov/) is a **static site** based on the Jekyll platform. (We use Jekyll pretty extensively at 18F. The [pages.18f.gov](https://pages.18f.gov) platform is built around Jekyll, and that&rsquo;s basically our version of GitHub pages). We publish the site with [Federalist](https://federalist.18f.gov).
-
-The name of our master branch is `staging`. We publish by making branches off of and submitting pull requests to `staging`. Once pushed, a branch will publish through Federalist as a preview URL. Once merged, Federalist will publish the site at 18f.gsa.gov.
-
-18F&rsquo;s website also uses **continuous integration** to [run tests on the site](https://github.com/18F/18f.gsa.gov/blob/staging/go#L77-L82) on each pull request. For CI, we currently use Travis and plan to switch to Circle soon.
-
-We use [Google Analytics](/google-analytics/) and participate in the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) to track site usage.
-
-### Add your photo
-
-Everyone at 18F should submit a photo that we'll use whenever we represent you on the website. This isn't mandatory, of course, but we&rsquo;d really like it if everyone had a photo. (We use the 18F logo in place of a photo if you don't have one.)
-
-Photos should follow these three guidelines. You should submit a photo:
-
-* Of you and only you from the shoulders up
-* Where your whole face is visible
-* Taken in a public place like a park, library, or a local federal building
-
-To get going, find or take an appropriate photo and upload it to [this Google Drive folder](https://drive.google.com/a/gsa.gov/folderview?id=0B8kn3cuJUwEkLUMwWXE2VVczbUU&usp=sharing). We have some guidelines about good photos, [here](https://docs.google.com/a/gsa.gov/document/d/1xEFRPtJBrsJH-0ZhL9Wq1T8iILGydM-7R11iPTVWJVg/edit?usp=drive_web).
-
-The site team works in [#beta-18f-site](https://gsa-tts.slack.com/messages/beta-18f-site/).

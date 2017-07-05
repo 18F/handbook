@@ -14,16 +14,28 @@ The Outreach team is situated in the 18F Front Office within [TTS](https://www.g
 * [#tweet-this](https://gsa-tts.slack.com/archives/tweet-this) is where we coordinate activity for 18F&rsquo;s Twitter account. Hop in here if you want us to respond to something, retweet someone, or tweet something interesting. You can also contact us if you&rsquo;d like to be added to [18F&rsquo;s team Twitter list](https://twitter.com/18F/lists/team).
 * [#press](https://gsa-tts.slack.com/archives/press) is for collecting press mentions of 18F (non tweets).
 * [#18f-site](https://gsa-tts.slack.com/archives/18f-site) is for managing issues and updates to the current 18f.gsa.gov.
-* [#beta-18f-site](https://gsa-tts.slack.com/archives/beta-18f-site) is for coordinating work on the new redesign of 18f.gsa.gov. 
-* [#inbox](https://gsa-tts.slack.com/archives/inbox) is for coordinating responses to emails that come into 18f@gsa.gov. 
+* [#beta-18f-site](https://gsa-tts.slack.com/archives/beta-18f-site) is for coordinating work on the new redesign of 18f.gsa.gov.
+* [#inbox](https://gsa-tts.slack.com/archives/inbox) is for coordinating responses to emails that come into 18f@gsa.gov.
 
 
 ## Project announcements
 
 If you're a project manager or storyteller working on an 18F project, ping us in [#outreach](https://gsa-tts.slack.com/archives/outreach) for help creating a lightweight communications plan that will help you connect with your most important stakeholders. [Comms plans for other 18F projects are in Google Drive](https://goo.gl/2VMKe9)
 
+## 18F site
+
+[18f.gsa.gov](http://18f.gsa.gov/) is a **static site** based on the Jekyll platform. (We use Jekyll pretty extensively at 18F. The [pages.18f.gov](https://pages.18f.gov) platform is built around Jekyll, and that&rsquo;s basically our version of GitHub pages). We publish the site with [Federalist](https://federalist.18f.gov).
+
+The name of our master branch is `staging`. We publish by making branches off of and submitting pull requests to `staging`. Once pushed, a branch will publish through Federalist as a preview URL. Once merged, Federalist will publish the site at 18f.gsa.gov.
+
+18F&rsquo;s website also uses **continuous integration** to [run tests on the site](https://github.com/18F/18f.gsa.gov/blob/staging/go#L77-L82) on each pull request. For CI, we currently use Travis and plan to switch to Circle soon.
+
+We use [Google Analytics](/google-analytics/) and participate in the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) to track site usage.
+
+The site team works in [#beta-18f-site](https://gsa-tts.slack.com/messages/beta-18f-site/).
+
 ## Blog
-Outreach publishes the [18F blog](https://18f.gsa.gov/blog/). We write about progress on our projects, how we work, the culture of 18F, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. The primary contacts for the blog are [Andre Francisco](https://gsa-tts.slack.com/messages/andre/) and [Greg Boone](https://gsa-tts.slack.com/messages/gregboone/). 
+Outreach publishes the [18F blog](https://18f.gsa.gov/blog/). We write about progress on our projects, how we work, the culture of 18F, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. The primary contacts for the blog are [Andre Francisco](https://gsa-tts.slack.com/messages/andre/) and [Greg Boone](https://gsa-tts.slack.com/messages/gregboone/).
 
 Everyone at 18F is encouraged to write for the blog; you don’t have to be at 18F for a certain amount of time to have interesting ideas to share. The first step is to meet with us and [turn your idea into an outline](https://docs.google.com/document/d/1vv5OwsUmaxAGubpY_9za7JJmvL-8SE27HKaEQBumPiA/edit) shaped for a distinct audience. From there, check out the [18F Blogging Guide](https://blogging-guide.18f.gov/), which details the process more formally (including necessary approvals), and can tell you more about our mission and process. We’re happy to meet you wherever you are in the writing process.
 
@@ -59,7 +71,7 @@ Here's the guide on [how to draft and publish the internal newsletter](https://d
 
 If you’re speaking at an event, ping us in [#outreach](https://gsa-tts.slack.com/archives/outreach) so we can provide you with team talking points, take a look at your presentation, and help you promote the event. If you've been asked to speak at an event or you want to submit a proposal, see the [Getting Event/Conference Approval](https://docs.google.com/document/d/1OjxymrHIU1VREv93HrG1sESzyrtx8B2kl_Ey4IL_4xc/edit) guide.
 
-If you’re looking for help with a slide deck for a presentation, you can find resources on the [18F Branding site](https://pages.18f.gov/brand/presentation-themes/). We also have a couple previous decks that have ready-to-use slides about 18F’s history, the digital service ecosystem, and the basics of 18F’s model. 
+If you’re looking for help with a slide deck for a presentation, you can find resources on the [18F Branding site](https://pages.18f.gov/brand/presentation-themes/). We also have a couple previous decks that have ready-to-use slides about 18F’s history, the digital service ecosystem, and the basics of 18F’s model.
 
 * [Adobe Digital Government Assembly](https://docs.google.com/presentation/d/1vE9yp92vx2ZCgEmb0xPEyZr6wUorzLjs5-APQjwN5vI/edit#slide=id.p)
 * [Tech Summit San Diego](https://docs.google.com/presentation/d/1gkqQsDdNAzoXm1kXgsOrUoNY8ObWHJWpHh1o30eo204/edit#slide=id.g11f3f786cd_0_0)
