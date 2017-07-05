@@ -14,7 +14,6 @@ The Outreach team is situated in the 18F Front Office within [TTS](https://www.g
 * [#tweet-this](https://gsa-tts.slack.com/archives/tweet-this) is where we coordinate activity for 18F&rsquo;s Twitter account. Hop in here if you want us to respond to something, retweet someone, or tweet something interesting. You can also contact us if you&rsquo;d like to be added to [18F&rsquo;s team Twitter list](https://twitter.com/18F/lists/team).
 * [#press](https://gsa-tts.slack.com/archives/press) is for collecting press mentions of 18F (non tweets).
 * [#18f-site](https://gsa-tts.slack.com/archives/18f-site) is for managing issues and updates to the current 18f.gsa.gov.
-* [#beta-18f-site](https://gsa-tts.slack.com/archives/beta-18f-site) is for coordinating work on the new redesign of 18f.gsa.gov.
 * [#inbox](https://gsa-tts.slack.com/archives/inbox) is for coordinating responses to emails that come into 18f@gsa.gov.
 
 
