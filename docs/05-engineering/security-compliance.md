@@ -68,4 +68,4 @@ We enhance our [Security Awareness with Tools](../09-security/awareness.md) by:
 * We train new employees and perform yearly quizzes of exiting employees on the IRP procedures.
 
 * Each project can extend or replace the default IRP.
-* @todo: [GlobalNET Incident Response Plan](https://docs.google.com/a/civicactions.net/document/d/1hk2rODDPrbc7P-J-1l1UyCyx8cjEVQALd1MC53BijsA) *(internal link - fix...)*
+
