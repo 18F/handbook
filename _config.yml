@@ -92,8 +92,8 @@ navigation:
     - text: Benefits
       url: benefits/
       internal: true
-    - text: GitHub
-      url: github/
+    - text: GitHub 101
+      url: intro-to-github/
       internal: true
     - text: GSA tools and transit
       url: gsa-tools-equipment-and-transit/

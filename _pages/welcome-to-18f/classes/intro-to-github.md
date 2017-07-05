@@ -1,6 +1,6 @@
 ---
 title: Intro to GitHub
-navtitle: GitHub
+navtitle: Intro to GitHub
 ---
 
 _This section provides a brief overview of GitHub._
