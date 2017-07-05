@@ -142,7 +142,7 @@ Even if you don’t plan to travel much in the federal government, it’s import
 **When:** Last Thursday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#travel](https://gsa-tts.slack.com/messages/travel)
 
-### <a id="github-18F-site" href="/github-and-18f-site">Introduction to GitHub and 18F site</a>
+### <a id="github-18F-site" href="/intro-to-github">Introduction to GitHub and 18F site</a>
 
 We use GitHub to share code, communicate, and collaborate on projects. Learn how 18F uses GitHub and add your bio and picture to the 18F site.
 

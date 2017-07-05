@@ -78,10 +78,6 @@ If you’re looking for help with a slide deck for a presentation, you can find 
 * [18F General Slides](https://docs.google.com/presentation/d/1-RSrdIJzrOE8YBG6V_DHHRkBNo5fxecl8EtIxksqeUk/edit#slide=id.g11b16e26a9_0_5)
 * You can find a number of other decks in the ["Presentations" Google Drive folder](https://drive.google.com/drive/folders/0B-y3CqI2T1nneHViZUx5b3FHLVE) and templates for one page print outs in the ["Branded Materials for Outreach" Google Drive folder](https://drive.google.com/drive/folders/0B8kn3cuJUwEkT3lZRmN1QV9mdVk)
 
-## 18f.gsa.gov
-
-Learn more about the technical details of 18f.gsa.gov on the [GitHub and 18F website handbook page](https://handbook.18f.gov/github-and-18f-site/)
-
 ---
 
 #### Still have questions?
