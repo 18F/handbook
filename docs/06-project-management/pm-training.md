@@ -1,5 +1,7 @@
 # Project Manager Training
 
+Review [The Project Manager Role](pm-role.md) for an overview of PM responsibilities at CivicActions.
+
 ## <a name="new-pm"></a>New PM Instructions
 
 * New PMs should shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.
