@@ -23,8 +23,8 @@ This is a typical onboarding schedule, but the timing may shift based on when yo
 
 The first week will be dedicated to general orientation. You'll also learn about our working practices, our primary tools and how we use them, and your specific job role.
 
-* Day 1 [Orientation](training/orientation-meetings.md#day1)
-* Day 2 [Orientation](training/orientation-meetings.md#day2)
+* Day 1 [Orientation](training/orientation-meetings.md#day1) (2 hours)
+* Day 2 [Orientation](training/orientation-meetings.md#day2) (1.5 hours)
 * Day 3 [Orientation](training/orientation-meetings.md#day3)
 * Day 4 [Orientation](training/orientation-meetings.md#day4)
 * Day 5 [Orientation](training/orientation-meetings.md#day5)
