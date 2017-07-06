@@ -5,13 +5,13 @@
 ### Onboarding Paperwork
 
 * Overview of [TriNet](https://sso.trinet.com/auth/cdcservlet?realm=sw_hrp&goto=https%3A%2F%2Fwww.hrpassport.com%3A443%2FLink2HR.eng%3F%2FSaf%2FEntry%2FPortal.htm&RequestID=22350&MajorVersion=1&MinorVersion=0&ProviderID=https%3A%2F%2Fwww.hrpassport.com%3A443%2Famagent%3FRealm%3D%2Fsw_hrp&IssueInstant=2017-06-13T15%3A05%3A16Z) tasks:
-  * Employment Agreement
-  * Confidential Information Document
-  * I-9 - Employment Eligibility Verification
-  * W-4 - Federal Income Tax Withholding
-  * Direct deposit form
-  * Benefits selection
-  * Anti-Harassment Training (visit "My Company", then select "Training")
+    * Employment Agreement
+    * Confidential Information Document
+    * I-9 - Employment Eligibility Verification
+    * W-4 - Federal Income Tax Withholding
+    * Direct deposit form
+    * Benefits selection
+    * Anti-Harassment Training (visit "My Company", then select "Training")
 
 
 * Review and acknowledge Conflict of Interest (COI) plan [here](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
@@ -25,18 +25,18 @@
 * Where to [direct questions](../../02-about-us/general-contacts-and-listservs.md)
 
 * Working hours expectations:
-  * Flexibility
-  * Have a general set schedule / core hours
-  * Put appointments in your personal calendar
-  * Ping slack if you're just going offline for a few
-  * Basically let your team know when you're not free
-  * Over communicate if you're going offline  (vacation, lunch, appointment, etc)
-  * Be at the pre-scheduled meetings & tell manager if you can't attend
-  * Be able to get your work done within your timebox
-  * We aim for the following billable utilization:
-    * Split projects: 80% (32 hours / week)
-    * Full time on one project: 85% (34 hours / week)
-    * Also remember our 5% ProDev & CommPart commitments
+    * Flexibility
+    * Have a general set schedule / core hours
+    * Put appointments in your personal calendar
+    * Ping slack if you're just going offline for a few
+    * Basically let your team know when you're not free
+    * Over communicate if you're going offline  (vacation, lunch, appointment, etc)
+    * Be at the pre-scheduled meetings & tell manager if you can't attend
+    * Be able to get your work done within your timebox
+    * We aim for the following billable utilization:
+      * Split projects: 80% (32 hours / week)
+      * Full time on one project: 85% (34 hours / week)
+      * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 
@@ -56,13 +56,13 @@
 
 * Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md) (1 hour)
 
-  * [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
-  * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
-    * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
-    * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
-    * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
-    * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
-  * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
+    * [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
+    * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
+        * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
+        * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
+        * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
+        * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+    * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
 
 ### Get to Know Your Colleagues
 
@@ -102,11 +102,11 @@
 ### Virtual Workplace Basics
 
 * Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.md):
-  * Starting and Ending a Day with a Remote Team
-  * Heading offline for short periods of time
-  * Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) (15 minutes)
-  * Talking Timezones
-  * Communication Best Practices
+    * Starting and Ending a Day with a Remote Team
+    * Heading offline for short periods of time
+    * Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) (15 minutes)
+    * Talking Timezones
+    * Communication Best Practices
 
 ### Aligning Yourself with CivicActions
 
