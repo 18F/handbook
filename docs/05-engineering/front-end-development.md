@@ -3,19 +3,19 @@
 ## <a name="css-sass"></a>CSS/Sass
 
 * Our CSS should be:
-  * **Predictable**
-  * **Reusable**
-  * **Maintainable**
-  * **Scalable**
+    * **Predictable**
+    * **Reusable**
+    * **Maintainable**
+    * **Scalable**
 * We practice responsive design starting mobile first, so our attention and practice is placed on the constrained environment and progressively enhanced.
 * We use Sass to preprocess our CSS.
 * We organize our Sass partials in a logical file structure convention that follows [Drupal 8 file organization practices](https://www.drupal.org/node/1887922):
-  * **Base** — CSS reset/normalize plus HTML element styling.
-  * **Layout** — macro arrangement of a web page, including any grid systems.
-  * **Component** — discrete, reusable UI elements.
-  * **State** — styles that deal with client-side changes to components.
-  * **Theme** — purely visual styling ("look-and-feel") for a component.
-  * Example:
+    * **Base** — CSS reset/normalize plus HTML element styling.
+    * **Layout** — macro arrangement of a web page, including any grid systems.
+    * **Component** — discrete, reusable UI elements.
+    * **State** — styles that deal with client-side changes to components.
+    * **Theme** — purely visual styling ("look-and-feel") for a component.
+    * Example:
 
 
 ```
@@ -72,8 +72,8 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
 ## <a name="drupal"></a>Drupal
 
 * We use a standard starter theme.
-  * Drupal 7: Zen
-  * Drupal 8: Classy/Stable
+    * Drupal 7: Zen
+    * Drupal 8: Classy/Stable
 * For Drupal 7, we prefer preprocess and alter functions over templates to alter HTML structure, so that we avoid brittle templates that break as configuration changes. Templates are good for when you need a very specific HTML output, but unnecessary for typical changes that need to affect a small specific change to the default output.
 
 ### <a name="javascript-drupal"></a>Javascript in Drupal
@@ -89,10 +89,10 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
 ## <a name="images"></a>Images
 
 * We use graphic file formats that are optimized for their intended use:
-  * jpg: Continuous tone images.
-  * gif: Non-continuous tone images, supports transparency.
-  * png: high quality images that support transparency. PNGs are the best suited for the web, except where svgs can be used.
-  * svg: Vector graphics format, which means its scalable without any degradation. Use when possible so that we can version control graphics.
+    * jpg: Continuous tone images.
+    * gif: Non-continuous tone images, supports transparency.
+    * png: high quality images that support transparency. PNGs are the best suited for the web, except where svgs can be used.
+    * svg: Vector graphics format, which means its scalable without any degradation. Use when possible so that we can version control graphics.
 
 ## <a name="cross-browser-compatibility"></a>Cross-Browser Compatibility
 
@@ -116,13 +116,13 @@ theme: css/theme/theme--light.css css/theme/theme--dark.css
 * We communicate early and often with UX and design team members.
 * We maintain a repository of graphic assets, UX wireframes and design comps and refer to specific assets in our tickets.
 * We use flowcharting to illustrate complex workflows.
-  * Sometimes you need a flowchart to run by all the designers/developers involved in a project to ensure that everyone is on the same page with regards to how data should flow through the system.
+    * Sometimes you need a flowchart to run by all the designers/developers involved in a project to ensure that everyone is on the same page with regards to how data should flow through the system.
 
 ## <a name="dev-tools"></a>Development Tools
 
 * We setup a frontend development workflow that includes:
-  * SASS compiling with: <https://www.npmjs.com/package/gulp-sass>
-  * SASS/CSS linting with a combination of <https://github.com/kristerkari/stylelint-scss> & <https://github.com/CSSLint/csslint> (there is ongoing work to add CSSlint rules into stylelint-scss.)
-  * ESLint for JS: <https://www.npmjs.com/package/eslint>
-  * Autoprefixer: <https://www.npmjs.com/package/autoprefixer>
+    * SASS compiling with: <https://www.npmjs.com/package/gulp-sass>
+    * SASS/CSS linting with a combination of <https://github.com/kristerkari/stylelint-scss> & <https://github.com/CSSLint/csslint> (there is ongoing work to add CSSlint rules into stylelint-scss.)
+    * ESLint for JS: <https://www.npmjs.com/package/eslint>
+    * Autoprefixer: <https://www.npmjs.com/package/autoprefixer>
 * We prefer the Yarn Package manager (<https://github.com/yarnpkg/yarn>) over NPM.

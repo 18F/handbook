@@ -6,7 +6,7 @@ We use Resource Guru (RG) for keeping track of team member availability and proj
 
 Watch the [Resource Guru overview video](https://www.youtube.com/watch?v=O2m9Yv3LDj8).
 
-## Updating your Profile
+## <a name="updatingprofile"></a>Updating your Profile
 
 Within RG, we encourage you to upload a photo, update your skills, and look at your project schedules as they evolve.
 

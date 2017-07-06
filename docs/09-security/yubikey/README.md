@@ -71,10 +71,10 @@ $ neoman
 
 * Enable `OTP`, `U2F` & `CCID`
 * Personalize **Configuration Slot 2** with options:
-  * `chal-resp` (Set challenge-response mode)
-  * `chal-hmac` (Generate HMAC-SHA1 challenge responses)
-  * `hmac-lt64` (Calculate HMAC on less than 64 bytes input)
-  * `serial-api-visible` (Allow serial number to be read using an API call)
+    * `chal-resp` (Set challenge-response mode)
+    * `chal-hmac` (Generate HMAC-SHA1 challenge responses)
+    * `hmac-lt64` (Calculate HMAC on less than 64 bytes input)
+    * `serial-api-visible` (Allow serial number to be read using an API call)
 
 ## Enable YubiKey TFA for applications
 
@@ -85,19 +85,19 @@ $ neoman
 This requires a Yubikey token (cover the button for approximately one second) on laptop/desktop to unlock LastPass.
 
 * My Vault -> Account Settings -> Multifactor Options
-  * Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)) - this is a useful backup
-  * YubiKey (an easier option) is available when using [LastPass Premium](https://lastpass.com/yubico/) ($12/year)
-    * Select the YubiKey option.
-    * Insert the YubiKey device into a USB port on your computer.
-    * Focus your cursor on the "YubiKey #1" field.
-    * Press the button on the YubiKey device.
-    * A long string of dots should appear in the YubiKey #1 field.
-    * Change the "YubiKey Authentication" status to "Enabled"
-    * Set "Enabled" ==> "Yes"
-    * Set "Permit Offline Access" ==> "Disallow"
-    * Press the Update button
-    * Enter your LastPass master password and press Confirm.
-    * YubiKey is now enabled for your LastPass account.
+    * Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)) - this is a useful backup
+    * YubiKey (an easier option) is available when using [LastPass Premium](https://lastpass.com/yubico/) ($12/year)
+        * Select the YubiKey option.
+        * Insert the YubiKey device into a USB port on your computer.
+        * Focus your cursor on the "YubiKey #1" field.
+        * Press the button on the YubiKey device.
+        * A long string of dots should appear in the YubiKey #1 field.
+        * Change the "YubiKey Authentication" status to "Enabled"
+        * Set "Enabled" ==> "Yes"
+        * Set "Permit Offline Access" ==> "Disallow"
+        * Press the Update button
+        * Enter your LastPass master password and press Confirm.
+        * YubiKey is now enabled for your LastPass account.
 * If you have a *YubiKey Neo* (CivicActions uses the *YubiKey 4* model) and your phone supports NFC, you can touch the Neo against your phone to unlock on mobile.
 
 ### Google

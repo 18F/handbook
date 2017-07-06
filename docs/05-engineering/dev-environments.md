@@ -8,10 +8,10 @@ The development process differs slightly from project to project, but what follo
 
 Our URLs reflect the environment. For example, on FCC, the URLs are as follows:
 
-* fcc.civicactions.net ("live") (or fcc.gov, once it's launched)
-* fcc-qa.civicactions.net (qa)
-* fcc-dev.civicactions.net (dev)
-* fcc-\*.civicactions.net (eg, for a specific branch/version, if necessary)
+* project.civicactions.net ("live") (or project.gov, once it's launched)
+* project-qa.civicactions.net (qa)
+* project-dev.civicactions.net (dev)
+* project-\*.civicactions.net (eg, for a specific branch/version, if necessary)
 
 ## Live (aka Production aka Prod)
 

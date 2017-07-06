@@ -28,15 +28,17 @@ gulp.task('remark', function () {
         "rcPath": ".remarkrc.error"
       }))
     // Save any changes.
-    .pipe(gulp.dest('.'))
+    // .pipe(gulp.dest('.'))
     // Finally, run against "warning" configuration.
-    .pipe(remark(
-      { 
-        "quiet": true,
-        "streamError": process.stdout,
-        "color": true,
-        "rcPath": ".remarkrc.warning"
-      }));
+
+    // Temporarily disabled because retext is not very helpful yet. 
+    // .pipe(remark(
+    //     {
+    //         "quiet": true,
+    //         "streamError": process.stdout,
+    //         "color": true,
+    //         "rcPath": ".remarkrc.warning"
+    //     }));
 });
 
 gulp.task('default', ['remark']);

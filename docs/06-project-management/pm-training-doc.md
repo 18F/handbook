@@ -27,7 +27,7 @@
 
 For non-billable internal meetings, PMs should bill as CA > Delivery > Project Management.
 
-![alt text](../../images/pm-ahc.png "PM billing Delivery")
+![alt text](../images/pm-ahc.png "PM billing Delivery")
 
 ### Common Internal Meetings
 
@@ -51,7 +51,7 @@ For a team member whose time is split between projects, RG helps plan how much t
 * Only require the necessary people, make other invitees optional.
 * Check the FIND TIME function in Google Calendar to make sure you're not double-booking someone - it is crucial that you look at other people's calendars.
 
-<img src="../../images/CivicActions_Calendar_FindTime.png" alt="Finding Available Meeting Time" width="1000px">
+<img src="../images/CivicActions_Calendar_FindTime.png" alt="Finding Available Meeting Time" width="1000px">
 
 ## <a name="timeboxing"></a>Timeboxing
 
@@ -64,7 +64,7 @@ For a team member whose time is split between projects, RG helps plan how much t
 * Have a timer handy - either an app or a physical one on your desk
 * Acknowledge when the timebox has expired and make sure folks can stay longer if needed.
 
-![alt text](../../images/show-seconds.png "Showing seconds")
+![alt text](../images/show-seconds.png "Showing seconds")
 
 ## <a name="estimating"></a>Helping the teams estimate
 

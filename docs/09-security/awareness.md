@@ -17,15 +17,15 @@ Additionally, your laptop should lock (require a password to resume) on screen c
 
 A password manager will enable you to have unique, strong passwords for every service that you log into. Good password managers will generate new passwords for you, auto-fill web forms, allow extra protection for high-security accounts (like banking), and more. Choose a password manager that encrypts locally (in your browser, so you don't have to trust the provider to keep their data safe) and that has iPhone and Android apps that will auto-sync with the manager. At CivicActions, we currently recommend LastPass as it is the most full-featured, but we are keeping a close eye on the FOSS KeePass and Password Safe solutions.
 
-### LastPass
+### <a name="lastpass"></a>LastPass
 
 * The [LastPass](https://lastpass.com/) password generator can easily create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
-  * We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
-  * Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
+    * We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
+    * Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
 * LastPass is required for members of the CivicActions System Admins and Infrastructure Support Team.
 * We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [YubiKey](./yubikey/README.md) token).
 * Set up Two Factor Authentication on your LastPass Account (see below). LastPass will be storing all your passwords, so make it secure.
-* It is fine (and perhaps preferable, because your browser can only use one LastPass account at a time) to use a personal email address to create your LastPass account. 
+* It is fine (and perhaps preferable, because your browser can only use one LastPass account at a time) to use a personal email address to create your LastPass account.
 
 ### Disable Browser Password Autofill
 
@@ -35,7 +35,7 @@ LastPass provides secure password management especially when unlocked via Two Fa
 * In Firefox, go to about:preferences#security and uncheck "Remember logins for sites"
 * In Safari, go to Preferences >> Passwords and uncheck "AutoFill user names and passwords"
 
-## Use Two Factor (or 2-Step) Authentication (TFA, 2FA)
+## <a name="tfa"></a> Use Two Factor (or 2-Step) Authentication (TFA, 2FA)
 
 Two factor authentication includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a YubiKey) and can greatly increase the security of your systems. CivicActions recommends you use Two Factor Authentication for services that support it.
 
@@ -89,23 +89,23 @@ There are some instructions at <https://support.google.com/accounts/answer/18583
 Social engineering is the most common attack vector used to compromise computer systems. Social engineering relies heavily on human interaction and often involves tricking people into breaking normal security procedures. The following is a brief reminder of some of the methods used, but is in no way complete.
 
 * Phishing
-  * Don't click on links, hover and check the URLs
-  * Don't open attachments (unless you really trust the sender)
-  * If in doubt, ask an IT member (e.g. via Slack)
-  * [More on Phishing avoidance (from EFF)](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
+    * Don't click on links, hover and check the URLs
+    * Don't open attachments (unless you really trust the sender)
+    * If in doubt, ask an IT member (e.g. via Slack)
+    * [More on Phishing avoidance (from EFF)](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
 * Windows Technical Support
-  * "Windows Technical Support has noticed that you have viruses or other malware on your computer..."
+    * "Windows Technical Support has noticed that you have viruses or other malware on your computer..."
 * Baiting
-  * Seemingly innocent (or interesting) abandoned USB, CD, DVD media with autorun
+    * Seemingly innocent (or interesting) abandoned USB, CD, DVD media with autorun
 * Public WiFi (e.g., coffee shop, airport, library, ...)
-  * Turn off sharing
-  * Don't automatically connect to unknown WiFi hotspots
-  * Confirm the network name - know the name of your hotspot!
-  * Turn on your local firewall
-  * As usual, never enter your name or password information:
-    * when on an insecure (non-HTTPS or SSL encrypted) connection, or
-    * to a site that you have not verified is correct (by examining at the URL)
-  * [More on public WiFi network safety (from LifeHacker)](http://lifehacker.com/5576927/how-to-stay-safe-on-public-wi-fi-networks)
+    * Turn off sharing
+    * Don't automatically connect to unknown WiFi hotspots
+    * Confirm the network name - know the name of your hotspot!
+    * Turn on your local firewall
+    * As usual, never enter your name or password information:
+        * when on an insecure (non-HTTPS or SSL encrypted) connection, or
+        * to a site that you have not verified is correct (by examining at the URL)
+    * [More on public WiFi network safety (from LifeHacker)](http://lifehacker.com/5576927/how-to-stay-safe-on-public-wi-fi-networks)
 
 ## Keep Your Systems Up-to-date
 

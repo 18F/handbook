@@ -5,7 +5,7 @@ updated: May 9, 2017
 
 # Benefits
 
-## Holidays
+## <a name="holidays"></a>Holidays
 
 The following holidays are observed by CivicActions and the office is considered closed:
 

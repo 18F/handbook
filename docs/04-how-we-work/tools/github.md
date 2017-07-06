@@ -20,7 +20,7 @@ b. Use a personal email account, not your CivicActions one, so that your GitHub 
 
 ## Setting up Git and a local repository
 
-Unless you are only ever going to be editing a few handbook pages the "easy" way (per [CONTRIBUTING.md](../../../CONTRIBUTING.md)), you'll want to set up a git workflow locally and clone a local copy of the repository you're working with. You can find instructions at <https://help.github.com/articles/set-up-git/> and <https://git-scm.com/book/en/v2/Getting-Started-Git-Basics>.
+Unless you are only ever going to be editing a few handbook pages the "easy" way (per [CONTRIBUTING.md](../../00-contributing/README.md)), you'll want to set up a git workflow locally and clone a local copy of the repository you're working with. You can find instructions at <https://help.github.com/articles/set-up-git/> and <https://git-scm.com/book/en/v2/Getting-Started-Git-Basics>.
 
 If you'd prefer not to use command-line tools, you may want to use Git Desktop: <https://desktop.github.com/>.
 
