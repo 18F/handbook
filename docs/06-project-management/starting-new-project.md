@@ -10,8 +10,8 @@ Pre-kickoff tasks for Project Managers. It may be helpful to copy this list into
 * Fill out [New Client/Project Startup form](https://docs.google.com/a/civicactions.com/forms/d/1UoLOeP0NgsNNDHfRbo50zE2onRuWQ4K-hHB2Q-RFcF8/viewform) (this goes to Judy)
 * Hand-off call with Admin regarding contract/invoicing details
 * Work with the Delivery Manager (DM) to assign project team
-* Set up Harvest client and project and allocated team
-* Update Harvest Forecast with allocated team
+* Set up [Harvest client and project and allocated team](https://civicactions.harvestapp.com/projects?filter=active)
+* Update [Harvest Forecast](https://forecastapp.com/615047/schedule/projects) with allocated team
 * Set up [project email lists](listserv-setup.md) (decide if you need both internal and client facing)
 * Set up project Slack channels (internal and client facing)
 * With Tech Lead (TL), set up any/all Trello boards or JIRA instances
@@ -20,10 +20,14 @@ Pre-kickoff tasks for Project Managers. It may be helpful to copy this list into
 * Confirm any deviation from standard green-lighting (contract signed, etc.) with DM and CEO
 * Set up hosting (if needed)
 * Update [Delivery Projections spreadsheet](https://docs.google.com/spreadsheets/d/1kTZ2isvcaRNfFeipxU6fSx3xqM7a1p3JCzqczIFcklk/edit#gid=0)
-* Set up tracking for contractual requirements
-* Set up tracking for contract expiration/renewal
+* Set up tracking for [contractual requirements](contractual-requirements.md)
+* Set up tracking for [contract expiration/renewal](contract-expiration-tracking.md)
 * Review project hours thus far: determine if billable to client, or accountable to Sales (ask DM if you're not sure)
 
 ## Kickoff Meeting
 
 See [Kickoff Meeting Agenda template](https://docs.google.com/document/d/1pmOruj_1PeSfmJtxzvjDy7KxTTJi0VS8D62WUrWjeSM/edit).
+
+## Onboard Team Members
+
+See [Onboarding a New Project Team Member](onbaording-new-project-team-member.md).
