@@ -30,4 +30,4 @@ See [Kickoff Meeting Agenda template](https://docs.google.com/document/d/1pmOruj
 
 ## Onboard Team Members
 
-See [Onboarding a New Project Team Member](onbaording-new-project-team-member.md).
+See [Onboarding a New Project Team Member](onboarding-new-project-team-member.md).
