@@ -6,7 +6,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 ## Documentation
 
-- Greg Boone gives [a brief class on GitHub and the 18F website](/github-and-18f-site).
+- Greg Boone gives [a brief class on GitHub](/intro-to-github).
 
 - The 18F [Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) and accompanying [practice guide](https://github.com/18F/open-source-policy/blob/master/practice.md) explain why and how we write code and documentation in the open.
 

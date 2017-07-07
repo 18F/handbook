@@ -26,7 +26,7 @@ Note: The titles below are linked to our handbook pages for each subject. Descri
 * [Equipment and useful government websites](/gsa-tools-equipment-and-transit) ([Description](/classes/#equipment))
 
 ### Thursday
-* [Introduction to GitHub and the 18F website](/github-and-18f-site) ([Description](/classes/#github-18F-site))
+* [Introduction to GitHub and the 18F website](/intro-to-github) ([Description](/classes/#github-18F-site))
 
 ### Friday
 * [Time tracking and Tock](/tock) ([Description](/classes/#tock))
