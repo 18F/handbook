@@ -144,13 +144,15 @@ Virtual worker agreements are currently being used when an employee can not be c
 
 ## Working in a foreign country
 
-If you need to work while traveling internationally and in a foreign country:
+If you need to work while traveling internationally and while in a foreign country:
 
 1. Get approval from your supervisor providing justification for the need to work in a foreign country.
-1. Complete and submit the [GSA Foreign Defensive Travel - Pre Briefing](https://docs.google.com/document/d/1Twvl4JT86yGEKmMQk3GVen4I_CQkqe8s-ztgDOD2sL4/edit) form to the Office of Mission Assurance for approval.
-1. Once you return from your travel, submit the [GSA Foreign Travel - Debriefing](https://docs.google.com/document/d/1CvXTF-ti8wi3q29UZj9WXm4BwuwHFlT33MB_vZM7VrU/edit) form and submit it to the Office of Mission Assurance.
+2. Complete and submit the [GSA Foreign Defensive Travel - Pre Briefing](https://docs.google.com/document/d/1Twvl4JT86yGEKmMQk3GVen4I_CQkqe8s-ztgDOD2sL4/edit) form to the Office of Mission Assurance for approval.
+3. Open a ticket with the IT Help Desk requesting permission to bring your laptop and/or work phone.
+- If you're working from Europe, ask GSA IT to switch your work phone over to a European network while you're gone.  *Note that you'll be able to get calls and data, but your phone **won't** tether.*
+4. Once you return from your travel, submit the [GSA Foreign Travel - Debriefing](https://docs.google.com/document/d/1CvXTF-ti8wi3q29UZj9WXm4BwuwHFlT33MB_vZM7VrU/edit) form and submit it to the Office of Mission Assurance.
 
-For more information, review the [GSA Laptop, Smartphone, and PDA User Policy](https://docs.google.com/document/d/1EeLgsEsr2W20ZLK-iyVRzEcaq14_NwrwviRaWWTgKMU/edit). If you have questions about using GSA equipment in a foreign country, please open a work order with the IT Help Desk. Information about using your mobile device is [here](https://insite.gsa.gov/portal/category/536498). If you're working from Europe, ask GSA IT to switch your work phone over to a European network while you're gone. Note that you'll be able to get calls and data, but your phone *won't* tether.
+For more information, review the [GSA Laptop, Smartphone, and PDA User Policy](https://docs.google.com/document/d/1EeLgsEsr2W20ZLK-iyVRzEcaq14_NwrwviRaWWTgKMU/edit). Information about using your government mobile device in a foreign country is [here](https://insite.gsa.gov/portal/category/536498). 
 
 You can learn about [travel alerts and warnings](http://travel.state.gov/content/passports/english/alertswarnings.html) from the Department of State.
 
