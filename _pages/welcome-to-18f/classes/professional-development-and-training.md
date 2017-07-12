@@ -249,7 +249,7 @@ And now, the fun part: It’s time for you to attend your conference or training
 
 ## Speaking at conferences
 
-If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please follow [this guide](https://docs.google.com/document/d/1OjxymrHIU1VREv93HrG1sESzyrtx8B2kl_Ey4IL_4xc/edit#heading=h.t8mki1xtcuxz).
+If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please follow [this guide](https://docs.google.com/a/gsa.gov/drawings/d/1J_kPqlmRHKSnhHRU3WphO-skuQ5tQxIHrIHmsF0TDNg/edit?usp=sharing).
 
 ## Mentorship
 
