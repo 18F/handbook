@@ -1,11 +1,32 @@
 # Documentation Governance
 
-Every team member is empowered to make pull requests with changes to any part of the documentation, and every team member is empowered to review and approve those pull requests.  
+Every team member is empowered to make [pull requests](git-workflow.md) changes to any part of the documentation, and every team member is encourage to review any pull request they want.
 
-However, we want to encourage ownership of sections of the documentation by those who know the topics best. In some cases that may be an individual, but in most cases, that ownership is related to a practice area or working group within the company.  
+Ideally, pull requests should be assigned to team members who are subject matter experts. For example, changes to the LICENSE.md file were assigned to a lawyer (who happens to be a copyleft and FLOSS expert).  If you're not sure who to assign the PR too, you might want to ask in the #docs channel.
 
-Ideally, pull requests should be assigned to team members involved in whatever practice area the documentation relates to. For example, changes to the LICENSE.md file were assigned to our lawyer (who happens to be a copyleft and FLOSS expert).  If you're not sure who to assign the PR too, you might want to ask in the #docs channel.
+## Governance driven by practice area and working groups.
 
-You can learn more about pull requests in [git-workflow.md](git-workflow.md).
+We encourage each team at CivicActions (aka Working Group, Practice Area, Guild, etc) to take direct ownership over each documentation area. To that end, changes to files in certain directories require at least one review and approval from a member of the respective team. For example, changes to the [05-engineering](../05-engineering/README) directory requires at least one review and approval from a member of the [Engineering Team](https://github.com/orgs/CivicActions/teams/engineering/members).
 
-This governance doc will likely be expanded as we formalize some of the practice areas within the company.
+These teams are listed on github as [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) of the main [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team). If you want to join one of those teams, you can go to the team page and "Request to join". A maintainer of that team will receive a notification and can approve you. You can see the maintainers from the team page, feel free to bug them for an approval.
+
+| **Directory in `docs/`** | **Subteam (Working group / Practice Area)**   |
+|---|---|
+| [`00-contributing`](README/) | [Docs](https://github.com/orgs/CivicActions/teams/docs/members) |
+| [`01-welcome-to-civicactions`](../01-welcome-to-civicactions/README/)  | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
+| [`02-about-us`](../02-about-us/README/) | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members)  |
+| [`03-policies`](../03-policies/README/)  | [Management](https://github.com/orgs/CivicActions/teams/management/members) |
+| [`04-how-we-work`](../04-how-we-work/README/)   | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members) |
+| [`05-engineering`](../05-engineering/README/) | [Engineering](https://github.com/orgs/CivicActions/teams/engineering/members)  |
+| [`06-project-management`](../06-project-management/README/)  |  [Project Managers](https://github.com/orgs/CivicActions/teams/pm/members) |
+| [`07-sales-and-marketing`](../07-sales-and-marketing/README/) | [Anyone](https://github.com/orgs/CivicActions/teams/civicactions-team/members)  |
+| [`08-hr-admin`](../08-hr-admin/README/) |  [Management](https://github.com/orgs/CivicActions/teams/management/members)  |
+| [`09-security`](../09-security/README/) | [Security](https://github.com/orgs/CivicActions/teams/security/members)  |
+
+Ideally, each of the above working groups have their own backlog of documentation tasks, and make documentation a regular part of their workflow.
+
+> @todo or will we use github issues, with issue tags for each team?
+
+Github team management is an ongoing responsibility of the Docs working group, but is generally [taken care of during onboarding]( https://trello.com/c/I5L6gPiQ/174-add-to-github).
+
+The [CODEOWNERS](https://github.com/civicactions/handbook/blob/master/CODEOWNERS) file in the top level of this repo maps the governance of `docs/` directories to their respective github teams and CivicActions practice areas, and automatically assigns pull requests to that team for review, when a PR is submitted that.
