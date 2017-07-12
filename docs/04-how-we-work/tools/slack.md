@@ -9,6 +9,7 @@
 * Calling attention to all subscribed to channel write @channel or @group
 * Calling attention in a channel/group to just the people who are online write @here
 * Make sure you're available in slack when online
+* Make sure to add a photo of yourself for your Slack avatar
 * In preferences, add your name as a keyword that pings you when mentioned (in case people forget to @ you when trying to get your attention)
 
 ## Channels
