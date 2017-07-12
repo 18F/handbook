@@ -7,6 +7,7 @@
 * We use Slack for chatting with the team – whether as a whole, in smaller groups, or one on one.
 * Ensure your status is set to "available" in Slack when online and free to chat, and "away" when not.
 * Consider getting the Slack desktop app - either the native OS X / Windows one, or the Chrome app, which you can set up to run as a standalone app on system start up.
+* Make sure to add a photo of yourself for your Slack avatar
 
 ### Channels
 
