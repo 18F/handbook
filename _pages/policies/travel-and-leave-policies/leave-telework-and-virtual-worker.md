@@ -149,7 +149,7 @@ If you need to work while traveling internationally and while in a foreign count
 1. Get approval from your supervisor providing justification for the need to work in a foreign country.
 2. Complete and submit the [GSA Foreign Defensive Travel - Pre Briefing](https://docs.google.com/document/d/1Twvl4JT86yGEKmMQk3GVen4I_CQkqe8s-ztgDOD2sL4/edit) form to the Office of Mission Assurance for approval.
 3. Open a ticket with the IT Help Desk requesting permission to bring your laptop and/or work phone.
-* If you're working from Europe, ask GSA IT to switch your work phone over to a European network while you're gone. *Note that you'll be able to get calls and data, but your phone **won't** tether.*
+- If you're working from Europe, ask GSA IT to switch your work phone over to a European network while you're gone.  *Note that you'll be able to get calls and data, but your phone **won't** tether.*
 4. Once you return from your travel, submit the [GSA Foreign Travel - Debriefing](https://docs.google.com/document/d/1CvXTF-ti8wi3q29UZj9WXm4BwuwHFlT33MB_vZM7VrU/edit) form and submit it to the Office of Mission Assurance.
 
 For more information, review the [GSA Laptop, Smartphone, and PDA User Policy](https://docs.google.com/document/d/1EeLgsEsr2W20ZLK-iyVRzEcaq14_NwrwviRaWWTgKMU/edit). Information about using your government mobile device in a foreign country is [here](https://insite.gsa.gov/portal/category/536498). 
