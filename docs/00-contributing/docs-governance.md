@@ -1,6 +1,6 @@
 # Documentation Governance
 
-Every team member is empowered to make [pull requests](git-workflow.md) to change any part of the documentation, and every team member is encourage to review any pull request.
+Every team member with a github account is empowered to make [pull requests](git-workflow.md) to change any part of the documentation, and every team member is encourage to review any pull request.
 
 Ideally, pull requests should be assigned to team members who are subject matter experts. For example, changes to the LICENSE.md file were assigned to a lawyer (who happens to be a copyleft and FLOSS expert). If you're not sure who to assign the PR too, you might want to ask in the #docs channel.
 

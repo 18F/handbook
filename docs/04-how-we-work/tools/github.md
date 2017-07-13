@@ -22,3 +22,12 @@ Unless you are only ever going to be editing a few handbook pages the "easy" way
 If you'd prefer not to use command-line tools, you may want to use Git Desktop: <https://desktop.github.com/>.
 
 Many projects will have special requirements for local repositories, especially for engineers. Ask your coworkers for help!
+
+## Managing teams and access
+
+We use Github Teams functionality for two purposes:
+
+1. Managing access to the Handbook to all [CivicActions Team](https://github.com/orgs/CivicActions/teams/civicactions-team) members, and [managing control over subdirectories](../../00-contributing/docs-governance.md) in the Handbook by [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams).
+2. Managing groups of collaborators that share the same access to more than one repo.  
+
+You don't need to create a Github team unless that team has special access to more than one repo.
