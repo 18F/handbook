@@ -16,7 +16,7 @@
 
 * Review and acknowledge [Conflict of Interest (COI) plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
 
-### First Orientation Meeting
+### First Orientation
 
 * Where to [direct questions](../../02-about-us/general-contacts-and-listservs.md)
 
@@ -90,6 +90,7 @@
     * Discuss the project that the new team member will be introduced to.
     * Discuss: goals of the project, Product Owner, stakeholders, team members, technologies used, ticket review, project status
 * Introduction to the [Scrum Call structure](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md)
+* Overview of Scrum ceremonies: [Retrospectives, Sprint Planning, Backlog Grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retro)
 * Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 * Read about the [Gold Star Program](../../04-how-we-work/gold-star-program.md) 
 * Watch these training videos for an introduction to Scrum 
@@ -101,9 +102,9 @@
 * Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.md):
     * Starting and Ending a Day with a Remote Team
     * Heading offline for short periods of time
-    * Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) 
-    * Talking Timezones (Pacific Standard Time)
-    * Communication Best Practices (Always over communication, be transparent, take ownership, ask questions)
+    * [Communication Best Practices](../../04-how-we-work/virtual-workplace-basics.md#best-comms) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
+    * Talking in Timezones
+    * Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) Trello board
 
 ### Aligning Yourself with CivicActions
 
