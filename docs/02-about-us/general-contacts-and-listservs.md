@@ -8,13 +8,13 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 * Technical questions, specific project questions: Owen Barton
 * Non-technical questions, scrum & process questions: Elizabeth Raley
 * Pod PMs: Steve Curtis (Hydra), Susie Bird (Orion), Jason Heaster (Pyxis)
-* Referring New Hires: Aaron Pava, and/or Elizabeth Raley
-* Company Goals: Aaron Pava, and/or Elizabeth Raley
+* Referring New Hires: Aaron Pava, Elizabeth Raley
+* Company Goals: Aaron Pava, Elizabeth Raley
 * Marketing related questions or ideas: Aaron Pava
-* Sales related questions or ideas: Bill Ogilvie, and/or Steve Curtis
-* Conferences & professional development, prof dev stipend: Owen Barton, and/or Elizabeth Raley
-* Time-off, vacation, leave, sick time: Steve Curtis, Alaine Karoleff, your PM
-* When I'm concerned about something else: Owen Barton, Elizabeth Raley, or Alaine Karoleff
+* Sales related questions or ideas: Bill Ogilvie, Steve Curtis
+* Conferences & professional development, prof dev stipend: Owen Barton, Elizabeth Raley
+* Time-off, vacation, leave, sick time: Your PM, Alaine Karoleff, Elizabeth Raley
+* When I'm concerned about something else: Owen Barton, Elizabeth Raley, Alaine Karoleff
 
 ## Team Contact Information
 
