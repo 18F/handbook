@@ -18,8 +18,6 @@
 
 ### First Orientation Meeting
 
-* Get started with [Trello](../../04-how-we-work/tools/trello.md#getstarted) (30 minutes)
-
 * Introduction to the [mentoring program](mentoring-program.md)
 
 * Where to [direct questions](../../02-about-us/general-contacts-and-listservs.md)
@@ -83,7 +81,6 @@
 * Do you have any pre-approved time off requests? (15 minutes)
     * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure Judy is aware and then you mention them to your onboarding manager. There is still a formal request off procedure that you'll need to do so we make sure the right dates get documented & marked in the calendar. Your onboarding manager can walk you through that process.
 * Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays) (15 minutes)
-* Review & update [Resource Guru profile](../../04-how-we-work/tools/resource-guru.md#updatingprofile) (30 minutes)
 * Review [Professional development & community participation](../../03-policies/prodev-community-participation.md) (30 minutes)
 
 ### Project Overview Info (part 1)
@@ -134,7 +131,7 @@
 ### Versioning Systems and Development Process
 
 * Read about the difference between [Git, GitLab, GitHub, Bitbucket](../../05-engineering/git-gitlab-github-bitbucket.md) (30 minutes)
-* Read about Git and SSH (30 minutes)
+* Read about [Git and SSH](../../01-welcome-to-civicactions/training/git-ssh.md) (30 minutes)
 * Read about [Dev workflows](../../05-engineering/dev-environments.md): Dev, QA, Live, and Sandbox sites overview (30 minutes)
 
 ### Security for Everyone
@@ -153,15 +150,16 @@
 ### UX for Everyone
 
 * [Story mapping/Stories On Board](../../04-how-we-work/agile-baseline/03-methods/1-research/story-mapping-guide.md)
-* UX-Agile
 * [Wireframing and MyBalsamiq](../../04-how-we-work/agile-baseline/03-methods/2-design/wireframing-guide.md) ([Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE))
 
 ### Tasks to complete in the next two weeks
 
+* Resume & bio should to be completed by end of Day 5 & shared with copywriter
 * [Skillset Survey](../skillset-survey.md) (1 hour)
-* Read about [Markdown](../../04-how-we-work/tools/markdown.md) (30 minutes)
+* Read about & learn [Markdown](../../04-how-we-work/tools/markdown.md) (30 minutes)
 * Introduction to [Presentation Slides Template](../../04-how-we-work/tools/presentation-slides.md) (15 minutes)
 * Review CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md) (30 minutes)
+* Any additional tasks from above days that have not yet been completed
 
 ### Role-based training/orientation
 
@@ -174,22 +172,7 @@
     * Drupal Overview
     * Security Overview
 * UX/Content Strategy/Design track
+    * UX-Agile
     * (review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products))
-
-### Afternoon check-in with your onboarding manager
-
-## <a name="day5"></a>Day 5
-
-### Role-based training/orientation
-
-* As needed additional role-based training/orientation (PM track or Engineering or UX/Content Strategy/Design track)
-
-### Continue to work on these tasks today:
-
-* Resume & bio should to be completed by end of Day 5
-* Any additional tasks from above days that have not yet been completed
-* [Skillset Survey](../skillset-survey.md)
-* Begin to Learn [Markdown](../../04-how-we-work/tools/markdown.md)
-* Review CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md)
 
 ### Afternoon check-in with your onboarding manager
