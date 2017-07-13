@@ -22,7 +22,7 @@ For additional tips, check out this blog post by Alaine Karoleff: [Working in a 
 * Close Slack so that you don't appear to be online when you're not.
 * Log your hours for the day in Harvest every day
 
-## Communication Best Practices
+## <a name="best-comms"></a>Communication Best Practices
 
 * **Err on the side of over-communication.** Proactive over-communication is better than under-communication, especially when you are working with a distributed team. It's good practice to share short updates on the progress of your work throughout the day. Ask questions and reach out, especially during training.
 
