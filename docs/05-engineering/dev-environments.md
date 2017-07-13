@@ -31,7 +31,7 @@ Code deployed to dev should ideally contain deploy hooks (reverting Drupal featu
 
 We occasionally demo prototypes or functionality on Dev sites.
 
-## Sandbox
+## Sandbox (aka Local)
 
 On our local machines.
 
