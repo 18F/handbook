@@ -32,8 +32,8 @@
     * Be at the pre-scheduled meetings & tell manager if you can't attend
     * Be able to get your work done within your timebox
     * We aim for the following billable utilization:
-      * Split projects: 80% (32 hours / week)
-      * Full time on one project: 85% (34 hours / week)
+      * Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
+      * Time and Materials: 85-95% (34-38 hours / week)
       * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
