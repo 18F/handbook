@@ -31,10 +31,10 @@
     * Over communicate if you're going offline  (vacation, lunch, appointment, etc)
     * Be at the pre-scheduled meetings & tell manager if you can't attend
     * Be able to get your work done within your timebox
-    * We aim for the following billable utilization:
-      * Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
-      * Time and Materials: 85-95% (34-38 hours / week)
-      * Also remember our 5% ProDev & CommPart commitments
+* We aim for the following billable utilization:
+    * Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
+    * Time and Materials: 85-95% (34-38 hours / week)
+    * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 
@@ -60,15 +60,17 @@
         * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
         * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
         * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+    * [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
     * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
+
 
 ### Get to Know Your Colleagues
 
 * Read about [Balance Scores](../../04-how-we-work/balance-scores.md) 
-* Read about [All hands calls](meetings-and-meeting-tools.md#ahc) and [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom) then install Zoom
+* Read about [All hands calls](meetings-and-meeting-tools.md#ahc)
 * Review [Org Chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing) 
 * Review [Team Bios](https://civicactions.com/team/)
-* Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)/Pod-specific practices
+* Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)
 
 ### Afternoon check-in with your onboarding manager
 * Your onboarding manager will reach out via Slack or schedule this 
