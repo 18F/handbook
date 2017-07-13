@@ -26,7 +26,7 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 
 * Length of call: 30 minutes
 * Topics can range from a summary of a book, to staying balanced, to project overviews, to deep dive into a tool or module, etc
-* This call is lead by our peers and anyone can lead it!
+* This call is led by our peers and anyone can lead it!
 * Want to sign up to present? Use the [AHC Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning)
 
 ##### Once a Month
