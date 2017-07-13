@@ -27,6 +27,10 @@ Ideally, each of the above working groups have their own backlog of documentatio
 
 > @todo or will we use github issues, with issue tags for each team?
 
-Github team management is an ongoing responsibility of the Docs working group, but is generally [taken care of during onboarding]( https://trello.com/c/I5L6gPiQ/174-add-to-github).
-
 The [CODEOWNERS](https://github.com/civicactions/handbook/blob/master/CODEOWNERS) file in the top level of this repo maps the governance of `docs/` directories to their respective github teams and CivicActions practice areas, and automatically assigns pull requests to that team for review, when a PR is submitted that.
+
+## Github team management
+
+Github team management is an ongoing responsibility of the Docs working group, but is generally [taken care of during onboarding](https://trello.com/c/I5L6gPiQ/174-add-to-github).
+
+To add someone to a team, to go the [subteam page](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) and click *Add a member*.
