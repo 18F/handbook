@@ -131,7 +131,7 @@
 ### Versioning Systems and Development Process
 
 * Read about the difference between [Git, GitLab, GitHub, Bitbucket](../../05-engineering/git-gitlab-github-bitbucket.md) (30 minutes)
-* Read about [Git and SSH](../../01-welcome-to-civicactions/training/git-ssh/) (30 minutes)
+* Read about [Git and SSH](../../01-welcome-to-civicactions/training/git-ssh.md) (30 minutes)
 * Read about [Dev workflows](../../05-engineering/dev-environments.md): Dev, QA, Live, and Sandbox sites overview (30 minutes)
 
 ### Security for Everyone
