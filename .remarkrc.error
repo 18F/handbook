@@ -34,7 +34,6 @@
       "remark-lint-no-tabs",
       "remark-lint-no-undefined-references",
       "remark-lint-no-unused-definitions",
-      "remark-lint-table-pipe-alignment",
       "remark-lint-table-pipes",
       ["remark-lint-blockquote-indentation", "2"],
       ["remark-lint-checkbox-character-style", "consistent"],
