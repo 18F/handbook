@@ -8,7 +8,7 @@ Here, you'll find a list of tools folks at CivicActions use to schedule meetings
 
 Remember that you can book time on your own calendar. We recommend blocking off your own "free" time in two-to-four hour chunks to complete tasks.
 
-Also, if you're planning a meeting, be sure to state your goal – what the meeting is and what it isn't – in an agenda.
+Also, if you're planning a meeting, be sure to state your goal (what the meeting is and what it isn't) in an agenda and invite description.
 
 ### <a name="ahc"></a>All Hands Calls
 
@@ -19,37 +19,32 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 
 * We use Zoom for this (see [more about zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom))
 * Everyone on team is encouraged to join
-* Invites with links are sent out the day of
+* Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
 * Meetings occur frequently as listed below
 
 ##### Every Monday
 
 * Length of call: 30 minutes
-* Describe what is discussed
-* How it's different from monthly call
-* What kind of topics are discussed
-* How to sign up to lead an AHC (weekly)
-* Want to sign up to present? Use the AHC [Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning)
+* Topics can range from a summary of a book, to staying balanced, to project overviews, to deep dive into a tool or module, etc
+* This call is led by our peers and anyone can lead it!
+* Want to sign up to present? Use the [AHC Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning)
 
 ##### Once a Month
 
 * Length of call: 1 hour
-* Describe what is discussed (company standing, etc)
-* How it's different from weekly call
-* Purpose/What kind of topics are discussed
-* Led primarily by Henry
+* Topics are usually company standing, sales pipeline, new hires, new projects, big announcements
+* Led primarily by the management team
 
 ### <a name="pod-calls"></a>Pod Calls
 
 Weekly pod calls help us stay in touch and in tune with each other. These are loosely arranged by time zone, and are generally casual and chatty in tone.
 
-* Weekly pod Calls
-* Still a process in progress as we grow
-* A focus to connect with team members outside your project
-* Feel connected with the team as a whole
-* Discuss a topic of common interest
+* Weekly pod calls are Orion, Pyxis, Hydra
+* There is a focus to connect with team members outside your project
+* Pod calls help us feel connected with the team as a whole
+* We discuss a topic of common interest or give project updates
 
-### Daily Scrum Calls
+### <a name="scrum-call"></a>Daily Scrum Calls
 
 Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling. Standups *usually* take this form:
 
@@ -60,7 +55,7 @@ Daily scrum calls are project-specific meetings. These short meetings are a scru
 
 For more specific information, see [Daily Scrum Calls](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md).
 
-### Retrospectives
+### <a name="retro"></a>Retrospectives
 
 Another project-specific meeting is the retrospective (called a retro, for short). This usually happens at the end of a sprint and takes between 30 minutes to an hour.
 
