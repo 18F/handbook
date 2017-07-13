@@ -43,4 +43,4 @@ Description: An epic often starts as the big picture and then the user stories f
 * Co-working encouraged!
 * Track your time daily
 * Estimates should consider time for QA (on average +20%)
-* Most projects use story points now
+* Projects use [story points](../../04-how-we-work/tools/storypoints.md) for estimating
