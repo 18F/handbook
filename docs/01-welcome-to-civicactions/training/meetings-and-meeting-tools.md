@@ -81,4 +81,4 @@ Here are links to more information about how CivicActions uses specific tools to
 
 * [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
 * [Google Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
-* [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom)
+* [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom) 
