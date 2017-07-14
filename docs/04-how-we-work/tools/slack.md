@@ -11,6 +11,7 @@
 * Make sure you're available in slack when online
 * Make sure to add a photo of yourself for your Slack avatar
 * In preferences, add your name as a keyword that pings you when mentioned (in case people forget to @ you when trying to get your attention)
+* Add your Lastpass user ID to your [Slack profile](https://civicactions.slack.com/account/profile)
 
 ## Channels
 
