@@ -167,13 +167,6 @@ Erasing an entire disk:
 
 * <https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase>
 
-## Drupal Best Practices and Writing Secure Code
-
-CivicActions Drupal Developers are expected to know, understand and integrate into their work:
-
-* [Drupal coding standards and best practices](https://www.drupal.org/developing/best-practices)
-* [How to write secure code in Drupal](https://www.drupal.org/writing-secure-code)
-
 ## Protecting Your Privacy
 
 CivicActions believes that your privacy is a right, and that private communications can be beneficial to business. Here's some tips on how FOSS can help:
