@@ -16,7 +16,7 @@
 
 * Review and acknowledge [Conflict of Interest (COI) plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
 
-### First Orientation Meeting
+### First Orientation
 
 * Where to [direct questions](../../02-about-us/general-contacts-and-listservs.md)
 
@@ -31,10 +31,10 @@
     * Over communicate if you're going offline  (vacation, lunch, appointment, etc)
     * Be at the pre-scheduled meetings & tell manager if you can't attend
     * Be able to get your work done within your timebox
-    * We aim for the following billable utilization:
-      * Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
-      * Time and Materials: 85-95% (34-38 hours / week)
-      * Also remember our 5% ProDev & CommPart commitments
+* We aim for the following billable utilization:
+    * Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
+    * Time and Materials: 85-95% (34-38 hours / week)
+    * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 
@@ -60,15 +60,17 @@
         * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
         * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
         * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+    * [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
     * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
+
 
 ### Get to Know Your Colleagues
 
 * Read about [Balance Scores](../../04-how-we-work/balance-scores.md) 
-* Read about [All hands calls](meetings-and-meeting-tools.md#ahc) and [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom) then install Zoom
+* Read about [All hands calls](meetings-and-meeting-tools.md#ahc)
 * Review [Org Chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing) 
 * Review [Team Bios](https://civicactions.com/team/)
-* Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)/Pod-specific practices
+* Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)
 
 ### Afternoon check-in with your onboarding manager
 * Your onboarding manager will reach out via Slack or schedule this 
@@ -90,6 +92,7 @@
     * Discuss the project that the new team member will be introduced to.
     * Discuss: goals of the project, Product Owner, stakeholders, team members, technologies used, ticket review, project status
 * Introduction to the [Scrum Call structure](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md)
+* Overview of Scrum ceremonies: [Retrospectives, Sprint Planning, Backlog Grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retro)
 * Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 * Read about the [Gold Star Program](../../04-how-we-work/gold-star-program.md) 
 * Watch these training videos for an introduction to Scrum 
@@ -101,9 +104,9 @@
 * Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.md):
     * Starting and Ending a Day with a Remote Team
     * Heading offline for short periods of time
-    * Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) 
-    * Talking Timezones (Pacific Standard Time)
-    * Communication Best Practices (Always over communication, be transparent, take ownership, ask questions)
+    * [Communication Best Practices](../../04-how-we-work/virtual-workplace-basics.md#best-comms) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
+    * Talking in Timezones
+    * Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) Trello board
 
 ### Aligning Yourself with CivicActions
 
