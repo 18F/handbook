@@ -10,7 +10,7 @@ As a requirement for employment, every employeed must review and acknowledge the
 * [Password Policy](../../03-policies/security.md#password-policy)
 * [Server &amp; Site Security](../../03-policies/security.md#server--site-security)
 
-<!-- include link to Judy and/or digital document signing -->
+<!-- TODO: include link to Judy and/or digital document signing -->
 
 ## Security Awareness
 
@@ -23,7 +23,13 @@ Every employee and contractor at CivicActions practices safe and secure computin
 * [Keeping our Personal Systems up-to-date](../../09-security/awareness.md#keep-your-systems-up-to-date)
 * [Employing Disk Encryption and Secure Storage Management](../../09-security/awareness.md#disk-encryption-and-storage-management)
 
-When moving through these steps, pleasse update your entries in the [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
+When moving through these steps, please update your entries in the [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
+
+<!-- TODO: switch to internal Drupal security certificate management HR app -->
+
+### Security and Compliance
+
+Engineers and Project Managers and anyone directly involved in client site operations and management must additionally understand and abide by CivicActions standard [Security and Compliance](../../05-engineering/security-compliance.md) procedures.
 
 ## Privacy and Security Trainings
 
@@ -36,4 +42,4 @@ CivicActions Employees and Contractors yearly trainings to support their underst
 
 All employees and contractors have reviewed the standard Incident Response procedures and understand what actions to take should they discover something that could be an incident. See [What is an Incident?](../../09-security/incidents.md) for additional help.
 
-*(The project specific Incident Response Teams take additional trainings not covered here.)*
+*(The project specific Incident Response Teams require additional trainings not covered here.)*

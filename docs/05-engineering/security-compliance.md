@@ -7,19 +7,19 @@ All engineers understand and abide by the [CivicActions Employee/Contractor Secu
 In particular:
 
 * We practice [Server & Site Security](../03-policies/security.md#server--site-security)
-  * using only sanitized databases
-  * taking care to not install restricted access files on development or personal instances outsite the project defined security boundary
-  * and scrubbing unneeded data from our development systems
+	* using only sanitized databases
+	* taking care to not install restricted access files on development or personal instances outsite the project defined security boundary
+	* and scrubbing unneeded data from our development systems
 
 ## As Developers
 
 * We minimize custom code, always preferring to use community maintained modules and contribute patches when needed
 * When necessary for new functionality, we strive to create generic modules and contribute them to the parent project
 * Custom code must:
-  * have an associated Jira (or other ticketing system) ticket
-  * include testing mechanisms, ideally hooked into the continuous integration pipeline
-  * conform to coding standards (use static code analysis where possible (such as [DCQ](https://www.drupal.org/project/dcq))
-  * undergo security peer review
+	* have an associated Jira (or other ticketing system) ticket
+	* include testing mechanisms, ideally hooked into the continuous integration pipeline
+	* conform to coding standards (use static code analysis where possible (such as [DCQ](https://www.drupal.org/project/dcq))
+	* undergo security peer review
 
 ### As Drupal Developers
 
@@ -35,21 +35,16 @@ In particular:
 * We ensure that access to documents/sites/dashboards is limited to those that should have access.
 * This includes our Google Docs!
 * We ensure that users with enhanced privileges (to sites and/or servers)
-  * must use TFA for authentication/authorization
-  * are appropriately adjusted upon separation from CivicActions.
+    * must use TFA for authentication/authorization
+    * are appropriately adjusted upon separation from CivicActions.
 
 ## Continuous Monitoring
 
-* We use Nagios, Cloudwatch, StatusCake and OpsGenie
-* We implement log analysis procedures that enable better/more timely capture of system anomalies.
-  * fail2ban
-  * aide
-  * logwatch
-  * graylog
+We use tools to support continuous monitoring for performance and efficiency, and to ensure proper operation and security. These tools include (not an exhaustive list):
 
-* We implement automated security scanning of the OS. See:
-  * <http://www.open-scap.org/>
-  * <https://github.com/GovReady>
+* Event and error log capture: auditd (SELinux), fail2ban and AIDE.
+* Continuous monitoring dashboards: LogWatch, LogStash/GrayLog, Nagios, Cloudwatch, Pingdom, StatusCake, OpsGenie and New Relic.
+* Automated security scanning: [OpenSCAP](http://www.open-scap.org/), [ansible-role-800-53](https://github.com/RedHatGov/ansible-role-800-53), and [GovReady](https://github.com/GovReady).
 
 ## Incident Response
 
