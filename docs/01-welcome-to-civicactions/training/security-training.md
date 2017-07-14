@@ -7,7 +7,7 @@ As a requirement for employment, every employeed must review and acknowledge the
 * [Information Classification Policy](../../03-policies/security.md#information-classification-policy)
 * [Acceptable Use Policy](../../03-policies/security.md#acceptable-use-policy)
 * [Access Policy](../../03-policies/security.md#access-policy)
-* [Password Policy](../../03-policies/security.md#password-policy)
+* [Password Policy](../../03-policies/security.md#password)
 * [Server &amp; Site Security](../../03-policies/security.md#server--site-security)
 
 <!-- TODO: include link to Judy and/or digital document signing -->
@@ -36,7 +36,7 @@ Engineers and Project Managers and anyone directly involved in client site opera
 CivicActions Employees and Contractors yearly trainings to support their understanding of privacy and security.
 
 * Course: [PII online course](http://cdsetrain.dtic.mil/piiv2/index.htm)
-* Review: [CivicActions Employee/Contractor SecurityPolicy](../03-policies/security.md)
+* Review: [CivicActions Employee/Contractor SecurityPolicy](../../03-policies/security.md)
 
 ## Incident Response
 
