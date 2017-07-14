@@ -6,7 +6,7 @@ CivicActions employees live all over the US and beyond. We work out of home offi
 
 This means our project teams are made up entirely of distributed employees. Below are some tips and strategies we've developed to stay connected and productive when working remotely.
 
-For additional tips, check out this blog post by Alaine Karoleff: [Working in a Distributed Team Environment](https://civicactions.com/blog/working-in-a-distributed-team-environment/).
+For additional tips, check out this blog post by Alaine Karoleff: [Working in a Distributed Team Environment](https://civicactions.com/blog/working-in-a-distributed-team-environment/). 
 
 ## Starting and Ending a Day with a Remote Team
 
