@@ -33,10 +33,11 @@ Engineers and Project Managers and anyone directly involved in client site opera
 
 ## Privacy and Security Trainings
 
-CivicActions Employees and Contractors yearly trainings to support their understanding of privacy and security.
+CivicActions Employees and Contractors regularly refresh their understanding of privacy regulations and security controls with the latest available information, including:
 
-* Course: [PII online course](http://cdsetrain.dtic.mil/piiv2/index.htm)
+* Course: [Identifying and Safeguarding Personally Identifiable Information (PII)](http://cdsetrain.dtic.mil/piiv2/index.htm)
 * Review: [CivicActions Employee/Contractor SecurityPolicy](../../03-policies/security.md)
+* Internal: Yearly trainings/quizzes scheduled by the CivicActions Security Team
 
 ## Incident Response
 
