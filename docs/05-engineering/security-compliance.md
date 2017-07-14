@@ -2,7 +2,7 @@
 
 ## Security Policy
 
-All engineers understand and abide by the [CivicActions Employee/Contractor Security Policy](../03-policies/security.md). Further, we have taken care in following all the steps laid out in the [Security Training](../01-welcome-to-civicactions/security-training.md).
+All engineers understand and abide by the [CivicActions Employee/Contractor Security Policy](../03-policies/security.md). Further, we have taken care in following all the steps laid out in the [Security Training](../01-welcome-to-civicactions/training/security-training.md).
 
 In particular:
 
@@ -21,7 +21,7 @@ In particular:
   * conform to coding standards (use static code analysis where possible (such as [DCQ](https://www.drupal.org/project/dcq))
   * undergo security peer review
 
-#### As Drupal Developers
+### As Drupal Developers
 
 * We follow [Drupal coding standards and best practices](https://www.drupal.org/developing/best-practices)
 * We write [Secure Code in Drupal 7](https://www.drupal.org/docs/7/security/writing-secure-code)
