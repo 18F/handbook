@@ -3,7 +3,7 @@
 # Order is important. The last matching pattern has the most precedence.
 
 # These owners will be the default owners for everything in the repo.
-* @CivicActions/civicactions-team
+# * @CivicActions/civicactions-team
 
 # These will automatically assign PRs that touch files in these directories to their respective teams for review.
 docs/00-contributing/* @CivicActions/docs
