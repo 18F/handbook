@@ -17,22 +17,20 @@ The YubiKey is a hardware device manufactured by Yubico that provides a hardware
 * In low trust environments (coffee shops, hotel rooms, etc.) keep your YubiKey with you at all times (in a pocket or purse). If your computer is compromised, it won't be accessible without the YubiKey that you have on you.
 * Do not use SMS text messages for two-factor authentication.
 
-## Basic YubiKey Setup
+## Basic YubiKey Setup - Install Packages
 
 Before your YubiKey can act as a second (hardware) authentication token for applications, you need to install and configure some software that "personalizes" your YubiKey. *Note: newer Yubikeys may not require this step.*
 
-### Install packages
-
-#### Arch
+### Arch
 
 *See also: <https://wiki.archlinux.org/index.php/yubikey>*
 
 ```
-$ pacaur -S perl-net-ldap-server    # this is a prerequisite
-$ pacaur -S yubikey-neo-manager-git
+pacaur -S perl-net-ldap-server    # this is a prerequisite
+pacaur -S yubikey-neo-manager-git
 ```
 
-#### Fedora
+### Fedora
 
 *See also: <https://fedoraproject.org/wiki/Using_Yubikeys_with_Fedora>*
 
@@ -42,21 +40,25 @@ dnf copr enable spartacus06/yubikey-utils
 dnf install yubikey-neo-manager yubioath-desktop yubikey-personalization-gui
 ```
 
-#### Ubuntu, Xubuntu
+### Ubuntu, Xubuntu
 
-*See e.g.: <https://developers.yubico.com/yubico-pam/Authentication_Using_Challenge-Response.html>*
+*See also: <https://askubuntu.com/questions/720314/how-to-install-yubikey-personalization-tool-on-ubuntu>*
 
-tbd...
+```
+sudo add-apt-repository ppa:yubico/stable
+sudo apt-get update
+sudo apt-get install yubikey-neo-manager yubikey-personalization yubikey-personalization-gui
+```
 
-#### Mac OS X
+### Mac OS X
 
 Download and install the [YubiKey Personalization Tool](https://itunes.apple.com/us/app/yubikey-personalization-tool/id638161122?mt=12) from the Mac App Store at [https://itunes.apple.com/us/app/yubikey-personalization-tool](https://itunes.apple.com/us/app/yubikey-personalization-tool/id638161122?mt=12)
 
-### Personalize your YubiKey
+## Personalize your YubiKey
 
 This allows you to use your Yubikey with Google TFA (new fangled U2F), as well as LastPass (which uses the OTP application).
 
-#### GNU/Linux command line
+### GNU/Linux command line
 
 ```
 $ neoman
@@ -65,7 +67,7 @@ $ neoman
 ​$ ykpersonalize -2 -ochal-resp -ochal-hmac -ohmac-lt64 -oserial-api-visible
 ```
 
-#### Mac OSX YubiKey tool
+### Mac OSX YubiKey tool
 
 *This should be straightforward, but waiting for a pull request that clearly explains how to:*
 
