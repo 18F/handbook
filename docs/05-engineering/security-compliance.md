@@ -8,7 +8,7 @@ In particular:
 
 * We practice [Server & Site Security](../03-policies/security.md#server--site-security)
     * using only sanitized databases
-    * taking care to not install restricted access files on development or personal instances outsite the project defined security boundary
+    * taking care to not install restricted access files on development or personal instances outside the project defined security accreditation boundary
     * and scrubbing unneeded data from our development systems
 
 ## As Developers
