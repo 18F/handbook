@@ -23,7 +23,7 @@ Every employee and contractor at CivicActions practices safe and secure computin
 * [Keeping our Personal Systems up-to-date](../../09-security/awareness.md#keep-your-systems-up-to-date)
 * [Employing Disk Encryption and Secure Storage Management](../../09-security/awareness.md#disk-encryption-and-storage-management)
 
-When moving through these steps, please update your entries in the [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
+When moving through these steps, please update your entries in the [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing) -- if you need help, the Security Team has daily "Security Hours" scheduled in the calendar, or just ask in [`#general`](https://civicactions.slack.com/messages/general).
 
 <!-- TODO: switch to internal Drupal security certificate management HR app -->
 
