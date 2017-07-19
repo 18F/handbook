@@ -7,11 +7,11 @@ navtitle: Travel Guide Authorization
 [Back to Landing Page](/travel-guide-start-here)
 [Jump to Choose your Itinerary](/travel-guide-2-choose-your-itinerary)
 
-In order to travel for 18F, you need to go through three steps to ensure that your plans get fully approved and ticketed. Here's the TL;DR for each one:
+In order to travel for TTS, you need to go through three steps to ensure that your plans get fully approved and ticketed. Here's the TL;DR for each one:
 
-1. [Confirm email of approval:](/travel-guide-1-authorization/#confirm-your-travel-dates-and-get-an-email-of-approval) ensuring that your travel plans are pre-approved via email by someone who has the ability to obligate funds on behalf of the government, and that this approval is communicated to the 18F travel team by sending it to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov).
+1. [Confirm email of approval:](/travel-guide-1-authorization/#confirm-your-travel-dates-and-get-an-email-of-approval) ensuring that your travel plans are pre-approved via email by someone who has the ability to obligate funds on behalf of the government, and that this approval is communicated to the TTS travel team by sending it to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov).
 2. [Choose your itinerary:](/travel-guide-2-choose-your-itinerary) the process of making reservations in Concur, the E-Gov travel system. Reservations in Concur are called **Authorizations**.
-3. [Submit for Concur approval:](/travel-guide-3-approval) ensuring that the 18F travel team receives your authorization and has the necessary details to formally approve your travel. The travel team reviews and approves authorization each day at 2:30 PM Eastern time, so please ensure that it is in by that time to allow for same-day review.
+3. [Submit for Concur approval:](/travel-guide-3-approval) ensuring that the TTS travel team receives your authorization and has the necessary details to formally approve your travel. The travel team reviews and approves authorization each day at 2:30 PM Eastern time, so please ensure that it is in by that time to allow for same-day review.
 
 Starting this process assumes that you are both in the Concur system and have a GSA travel card. If you're not sure if you've completed these necessary pre-steps, please check out the [First-Time Travel Guide](/first-time-travel-concur-check) or read on more below:
 
@@ -23,7 +23,7 @@ Starting this process assumes that you are both in the Concur system and have a 
 
 ## Confirm your travel dates and get an email of approval
 
-Before making *any* reservations, you'll want to make sure that your trip has been pre-approved by someone who has the ability to obligate funds on behalf of the government. This person could be someone inside 18F (either the director of a chapter or business unit) if the travel is considered non-billable, or they could be someone outside 18F (who is designated on an inter-agency agreement or memorandum of understanding with 18F) if the travel is considered billable. There is a slightly different process for requesting approval depending on whether the travel is [billable](/travel-guide-1-authorization/#billable-travel-approval) or [nonbillable](/travel-guide-1-authorization/#non-billable-travel-approval).
+Before making *any* reservations, you'll want to make sure that your trip has been pre-approved by someone who has the ability to obligate funds on behalf of the government. This person could be someone inside TTS (either the director of a division, chapter or business unit) if the travel is considered non-billable, or they could be someone outside TTS (who is designated on an inter-agency agreement or memorandum of understanding with TTS) if the travel is considered billable. There is a slightly different process for requesting approval depending on whether the travel is [billable](/travel-guide-1-authorization/#billable-travel-approval) or [nonbillable](/travel-guide-1-authorization/#non-billable-travel-approval).
 
 Know that you've already been approved to travel? Skip ahead to [I'm approved! What's next?](/travel-guide-1-authorization/#Im-approved-Whats-next)
 
@@ -31,13 +31,13 @@ Know that you've already been approved to travel? Skip ahead to [I'm approved! W
 
 ### Who is responsible, and how do I make my request?
 
-18F unit directors are responsible for approving non-billable travel, as they have a budget for training and travel that is set at the beginning of each fiscal year. Should you need to travel for internal 18F business, you should first clearly communicate your travel plans and what you will be working on to the director who will be approving your travel. You should make sure you communicate your plans with the approving director at least two weeks in advance, as non-billable travel expenses require additional review. **Requests for non-billable travel initiated less than seven business days in advance will not be approved.**
+Dision and unit directors are responsible for approving non-billable travel, as they have a budget for training and travel that is set at the beginning of each fiscal year. Should you need to travel for internal TTS business, you should first clearly communicate your travel plans and what you will be working on to the director who will be approving your travel. You should make sure you communicate your plans with the approving director at least two weeks in advance, as non-billable travel expenses require additional review. **Requests for non-billable travel initiated less than seven business days in advance will not be approved.**
 
 ### Which director?
 
-The director who should approve your travel is usually the director of your chapter or business unit, but that is not always the case. If, for example, you are in a chapter, but looking to travel to do business development, you will want to seek approval from the head of the line of business that most closely relates to the type of business that you are looking to develop.
+The director who should approve your travel is usually the director of your division, chapter or business unit, but that is not always the case. If, for example, you are in a chapter, but looking to travel to do business development, you will want to seek approval from the head of the line of business that most closely relates to the type of business that you are looking to develop.
 
-### Communicating non-billable travel approval to the 18F travel team
+### Communicating non-billable travel approval to the TTS travel team
 
 While individual employees are responsible for providing the details required by their directors in advance of getting their travel approved, directors alone are responsible for sending the initial email of approval to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov). Their email needs to include the following:
 
@@ -74,7 +74,7 @@ Your client is responsible for providing approval for your billable travel. Your
 
 The client approving travel should be one of the client signatories of the IAA or MOU, or a person formally delegated by one of those individuals. If you aren't sure who this is, please ask your client partner about who is responsible for approving travel and they should point you in the right direction.
 
-### Communicating billable travel approval to the 18F travel team
+### Communicating billable travel approval to the TTS travel team
 
 Project managers (or their delegates) are responsible for requesting written approval of travel plans to the client and once approval is secured, sending it via email to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov). Their email needs to include the following:
 
