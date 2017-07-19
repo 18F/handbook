@@ -8,7 +8,7 @@ title: Step 4 - Travel
 
 Travel _and keep receipts!_
 
-Now for the fun part! Here are a few things to keep in mind when traveling for 18F.
+Now for the fun part! Here are a few things to keep in mind when traveling for TTS.
 
 ### Meals and Incidental Expenses (M&IE)
 
