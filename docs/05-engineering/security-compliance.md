@@ -7,19 +7,19 @@ All engineers understand and abide by the [CivicActions Employee/Contractor Secu
 In particular:
 
 * We practice [Server & Site Security](../03-policies/security.md#server--site-security)
-   * using only sanitized databases
-   * taking care to not install restricted access files on development or personal instances outside the project defined security boundary
-   * and scrubbing unneeded data from our development systems
+    * using only sanitized databases
+    * taking care to not install restricted access files on development or personal instances outside the project defined security accreditation boundary
+    * and scrubbing unneeded data from our development systems
 
 ## As Developers
 
 * We minimize custom code, always preferring to use community maintained modules and contribute patches when needed
 * When necessary for new functionality, we strive to create generic modules and contribute them to the parent project
 * Custom code must:
-   * have an associated Jira (or other ticketing system) ticket
-   * include testing mechanisms, ideally hooked into the continuous integration pipeline
-   * conform to coding standards (use static code analysis where possible (such as [DCQ](https://www.drupal.org/project/dcq))
-   * undergo security peer review
+    * have an associated Jira (or other ticketing system) ticket
+    * include testing mechanisms, ideally hooked into the continuous integration pipeline
+    * conform to coding standards (use static code analysis where possible (such as [DCQ](https://www.drupal.org/project/dcq))
+    * undergo security peer review
 
 ### As Drupal Developers
 

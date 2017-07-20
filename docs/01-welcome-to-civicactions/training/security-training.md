@@ -23,7 +23,7 @@ Every employee and contractor at CivicActions practices safe and secure computin
 * [Keeping our Personal Systems up-to-date](../../09-security/awareness.md#keep-your-systems-up-to-date)
 * [Employing Disk Encryption and Secure Storage Management](../../09-security/awareness.md#disk-encryption-and-storage-management)
 
-When moving through these steps, please update your entries in the [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
+When moving through these steps, please update your entries in the [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing) -- if you need help, the Security Team has daily "Security Hours" scheduled in the calendar, or just ask in [`#general`](https://civicactions.slack.com/messages/general).
 
 <!-- TODO: switch to internal Drupal security certificate management HR app -->
 
@@ -33,10 +33,11 @@ Engineers and Project Managers and anyone directly involved in client site opera
 
 ## Privacy and Security Trainings
 
-CivicActions Employees and Contractors yearly trainings to support their understanding of privacy and security.
+CivicActions Employees and Contractors regularly refresh their understanding of privacy regulations and security controls with the latest available information, including:
 
-* Course: [PII online course](http://cdsetrain.dtic.mil/piiv2/index.htm)
+* Course: [Identifying and Safeguarding Personally Identifiable Information (PII)](http://cdsetrain.dtic.mil/piiv2/index.htm)
 * Review: [CivicActions Employee/Contractor SecurityPolicy](../../03-policies/security.md)
+* Internal: Yearly trainings/quizzes scheduled by the CivicActions Security Team
 
 ## Incident Response
 
