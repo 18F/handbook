@@ -12,10 +12,6 @@ Wireframes and page tables are mockups used to convey content requirements defin
 * Source content quality
 * Guidelines for how to create and maintain the content
 
-## How to do it:
-
-## Why to do it:
-
 ## Recommended Reading:
 
 [Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE)

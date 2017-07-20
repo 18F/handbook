@@ -19,17 +19,20 @@ The following holidays are observed by CivicActions and the office is considered
 
 Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation.
 
-## <a name="pto"></a>Paid Time Off
+## <a name="pto"></a>Timeoff
 
-PTO applies to exempt employees. We do not accrue sick days, vacation days or any other form of PTO. Instead, employees are encouraged to take time off as needed to feel balanced, productive and healthy.
+Timeoff applies to exempt employees. We do not accrue sick days, vacation days or any other form of Timeoff. Instead, employees are encouraged to take time off as needed to feel balanced, productive and healthy.
 
-You do not need to justify paid time off but, except for unexpected events or emergencies, it does need to be arranged in advance so the work will be covered. There is a procedure for this:
+You do not need to justify timeoff, but (except for unexpected events or emergencies), it does need to be arranged in advance so the work will be covered. There is a procedure for this:
 
-* if you are working on an active project, discuss the impact of your absence with your project manager (this is especially important if there is flexibility in your dates); email <mailto:ca-timeoff@lists.civicactions.net> requesting the time; when the PTO is approved, your manager will simply "reply-all" to your original email and admin will put it on the Master Calendar.
+1. If you are working on an active project, discuss the impact of your absence with your project manager (this is especially important if there is flexibility in your dates) to get coverage and understand project impact.
+2. Email <mailto:ca-timeoff@lists.civicactions.net> requesting the time and explain your plan for coverage as discussed with your PM & team.
+3. When the Timeoff is approved, your manager will simply "reply-all" to your original email and add it to the forecasting tool.
+4. Then the admin will put it on the Master Calendar.
 
-* If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-timeoff@lists.civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. Better to have your manager's phone number handy.
+If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-timeoff@lists.civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. Better to have your manager's phone number handy.
 
-PTO will be recorded simply to easily see any patterns that might otherwise be overlooked, including non-use. Unless it will cause an extreme hardship on the company and your team, no request for PTO under two weeks will be turned down.
+Timeoff will be recorded simply to easily see any patterns that might otherwise be overlooked, including non-use. Unless it will cause an extreme hardship on the company and your team, no request for Timeoff under two weeks will be turned down.
 
 ## Personal Leave of Absence
 

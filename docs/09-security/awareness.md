@@ -47,6 +47,8 @@ CivicActions requires that its employees and contractors that are given access t
 
 There are many hardware and software tools for creating secure "one time passwords" (OTP). Two that we frequently use internally are described below.
 
+Do not use SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Two Factor Authentication on your Google account initially requires SMS verification. This is OK.
+
 #### Google Authenticator
 
 * For installation instructions, see <https://support.google.com/accounts/answer/1066447>
@@ -166,13 +168,6 @@ Mac OS X:
 Erasing an entire disk:
 
 * <https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase>
-
-## Drupal Best Practices and Writing Secure Code
-
-CivicActions Drupal Developers are expected to know, understand and integrate into their work:
-
-* [Drupal coding standards and best practices](https://www.drupal.org/developing/best-practices)
-* [How to write secure code in Drupal](https://www.drupal.org/writing-secure-code)
 
 ## Protecting Your Privacy
 

@@ -25,9 +25,8 @@ The first week will be dedicated to general orientation. You'll also learn about
 
 * Day 1 [Orientation](training/orientation-meetings.md#day1) (2 hours)
 * Day 2 [Orientation](training/orientation-meetings.md#day2) (1.5 hours)
-* Day 3 [Orientation](training/orientation-meetings.md#day3)
+* Day 3 [Orientation](training/orientation-meetings.md#day3) (1 hour)
 * Day 4 [Orientation](training/orientation-meetings.md#day4)
-* Day 5 [Orientation](training/orientation-meetings.md#day5)
 
 The rest of your first month will be dedicated to completing the trainings and task in the orientation lists, and further acclimating to your role and project(s). Welcome aboard!
 

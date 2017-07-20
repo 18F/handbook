@@ -6,7 +6,7 @@ CivicActions employees live all over the US and beyond. We work out of home offi
 
 This means our project teams are made up entirely of distributed employees. Below are some tips and strategies we've developed to stay connected and productive when working remotely.
 
-For additional tips, check out this blog post by Alaine Karoleff: [Working in a Distributed Team Environment](https://civicactions.com/blog/working-in-a-distributed-team-environment/).
+For additional tips, check out this blog post by Alaine Karoleff: [Working in a Distributed Team Environment](https://civicactions.com/blog/working-in-a-distributed-team-environment/). 
 
 ## Starting and Ending a Day with a Remote Team
 
@@ -20,9 +20,9 @@ For additional tips, check out this blog post by Alaine Karoleff: [Working in a 
 
 * Let your (project) team know that you're heading offline and ensure that no one needs your input before you go.
 * Close Slack so that you don't appear to be online when you're not.
-* Log and submit your hours for the day in Harvest.
+* Log your hours for the day in Harvest every day
 
-## Communication Best Practices
+## <a name="best-comms"></a>Communication Best Practices
 
 * **Err on the side of over-communication.** Proactive over-communication is better than under-communication, especially when you are working with a distributed team. It's good practice to share short updates on the progress of your work throughout the day. Ask questions and reach out, especially during training.
 
@@ -37,7 +37,7 @@ For additional tips, check out this blog post by Alaine Karoleff: [Working in a 
 
 As a company, we usually reference time using Pacific Standard Time (PST, or PT for short). If you're chatting with your whole team or even just a few members, it's best practice to reference time in PT.
 
-There are some cases in which we reference other time zones, usually because of a client's location. In these cases we may refer to meeting times in ET *and* PT. We may say something like, "The scrum call is at 12:00ET/9:00PT."
+There are some cases in which we reference other time zones, usually because of a client's location. In these cases we may refer to meeting times in ET *and* PT. We may say something like, "The scrum call is at 9:00PT/12:00ET."
 
 When in doubt use both PT & ET and make sure you're clarifying the timezone when you mention time!
 
