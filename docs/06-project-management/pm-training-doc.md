@@ -94,7 +94,7 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 
 ## <a name="pm-tools"></a>PM Tools
 
-* [Resource Guru](../04-how-we-work/tools/resource-guru.md)
+* [Harvest Forecast](../04-how-we-work/tools/harvest-forecast.md)
 * [Harvest](../04-how-we-work/tools/harvest.md)
 * [Jira](../04-how-we-work/tools/jira.md)
 * [Trello](../04-how-we-work/tools/trello.md)
