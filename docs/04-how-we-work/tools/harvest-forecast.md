@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We use Harvest Forecast for keeping track of team member availability and projects. Your PM will keep this updated, but you are always welcome to login to review/look ahead: <https://forecastapp.com/615047/schedule/projects>.
+We use [Harvest Forecast](https://forecastapp.com/615047/schedule/projects) for keeping track of team member availability and projects. Your PM will keep this updated, but you are always welcome to login to review/look ahead.
 
 ## Expectations around scheduling time off in Forecast
 
