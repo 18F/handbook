@@ -169,7 +169,7 @@
 ### Role-based training/orientation
 
 * PM track
-    * Review [Project Management Training](../../06-project-management/pm-training-doc.md).
+    * Review [Project Management Training](../../06-project-management/pm-training.md).
 * Engineering track
     * [Engineering Roles and Agile](../../05-engineering/engineering-roles.md)
     * Engineering Practices
