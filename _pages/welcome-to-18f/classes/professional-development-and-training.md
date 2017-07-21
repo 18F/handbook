@@ -112,12 +112,15 @@ Requests that don't make it to [C2 (Step 4)](/professional-development-and-train
 
 ### 2. Create your Individual Development Plan (IDP)
 
+[Employee's Guide to Individual Development Plan](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVN3IydkZHQ0R3VXM/view?usp=sharing)
+
 After you’ve made your request, you’ll need to create an [IDP](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) related to the training or conference that you want to attend. The IDP helps you articulate how a given training contributes to your longer-term professional goals. Create it in Salesforce. See the [GSA Guide to IDPs](https://insite.gsa.gov/portal/mediaId/615682/fileName/EmployeesGuide2IndivDevePlan_1113.action) for policy information.
 
 To get some IDP inspiration, you can browse some examples from your TTS colleagues, including the approved IDPs of [Leah Bannon](https://drive.google.com/a/gsa.gov/file/d/1Sid8vVFgR69gYOin5FUxbVbuC6XGEu-zIii9dO7xBN4VrWumKvl02Zs0NFKxg_bUGikkSiakn0HBFdlP/view) and [Emileigh Barnes](https://docs.google.com/document/d/1IDVXKHnj9lVWiloBShZ9tuU3Wwe7ErTUL0hVDncKau4/edit) for General Assembly classes. Gray's [TL;DR on IDPs](https://gsa-tts.slack.com/archives/distributed/p1447194666000190) is well worth a look.
 
 Here are a few hints for creating a top-notch IDP:
 
+* [How to Successfully Create an IDP Presentation](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVV2U0OWNlcUxrTUE/view?usp=sharing)
 * In the **Series** field, select **0301 - Miscellaneous Administration and Program Services**.
 * Leave the **Procurement specialization** field blank unless you are on the operations or acquisitions team and have taken or are pursuing a training in a procurement specialization.
 * As you’re writing about your long- and short-term goals, include a few sentences about what the training is about and how it connects to your work at GSA/TTS as well as a few sentences about how it will contribute to your overall professional development.
@@ -128,6 +131,8 @@ Once you’ve completed your IDP, submit to your supervisor for review.
 If you need to edit your IDP, you'll want to make sure to clone it, revise it, and place it in “resubmit status.”
 
 ### 3. Meet with your supervisor
+
+[Supervisor's Guide to Individual Development Planning](https://drive.google.com/file/d/0B7tsisHW8-MVbWhUamNnMHBkN3c/view)
 
 Once you’ve submitted your IDP,  you’ll meet with your supervisor to discuss it.  Your supervisor will want to make sure your IDP aligns with TTS’s organizational goals and your professional development training needs. Once you’ve responded to any feedback your supervisor has provided, ask them to approve your IDP in Salesforce.
 
