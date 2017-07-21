@@ -45,6 +45,10 @@ If there is not support in the budget but you are still cleared to spend time wi
 
 If you are new to mentorship you may find some of this information useful in helping you and your partner get started.
 
+### Mentor Guide
+
+Check out this [guide](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVTzdXTG8wOS01Q2c/view?usp=sharing) for in-depth mentoring tips.
+
 ### Goal setting
 
 *"SMART" goals* are a valuable framework for setting and successfully achieving effective goals. The idea is that goals should be:
