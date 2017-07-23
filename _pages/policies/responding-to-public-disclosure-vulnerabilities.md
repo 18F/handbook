@@ -2,7 +2,7 @@
 title: Public disclosures of vulnerabilities
 ---
 
-When someone in the public alerts us to a potential vulnerability, we need to respond and triage quickly. There are three steps in the process:
+When someone in the public alerts us to a potential vulnerability, either via HackerOne, email, or webform, we need to respond and triage quickly. There are three steps in the process:
 
 1. [Triage the vulnerability](#triage-the-vulnerability)
 2. [File an issue](#file-an-issue)
@@ -15,7 +15,7 @@ In order to respond quickly to reports submitted by the public, the Infrastructu
 
 * *cloud.gov note:* Response team members need to be on the cloud.gov whitelist for outside-of-business-hours email alerts. Each new response team member should tell the cloud.gov Product Lead, Director, or Deputy Director to add their email address to the whitelist.
 
-The **first responder** monitors reports received from the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov) or [through this reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. At this point, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
+The **first responder** monitors reports received from HackerOne, as well as the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov) and [through this reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. **Reports received via HackerOne have been triaged and ranked by HackerOne, however, the first responder is responsible for validating severity ranking and notifying team owners of any affected services.** Regardless of method of vulnerability submission, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
 
 Each metric above receives a single score on potential impact from the following list:
 
@@ -49,6 +49,8 @@ The first responder will communicate directly with the Infrastructure Lead, who 
 
 ## Respond to reporter
 
+HackerOne will provide responses to reports received via the H1 platform. For reports received via email or webform, refer to the following guidance:
+
 If the report is `n/a`, send the appropriate message:
 
 * **Not in scope:** "Thanks for contacting us. However, this report falls outside of our scope as described at https://18f.gsa.gov/vulnerability-disclosure/. [_Add additional details as helpful._]"
@@ -70,3 +72,4 @@ The acknowledgement text could be something like:
 Remember to **CC on this email** any relevant program staff or infrastructure leads. They assume responsibility for further communication and resolving the issue.
 
 The last thing you should do is set an email alert via Google Calendar at the 77-day (11 weeks) mark from the date the reporter sent the email, so that, if no response or resolution has yet been made, the team has about 2 weeks to bring the issue to resolution and close out the issue with the reporter.
+
