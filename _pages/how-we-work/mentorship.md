@@ -47,7 +47,7 @@ If you are new to mentorship you may find some of this information useful in hel
 
 ### Mentor Guide
 
-Check out this [guide](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVTzdXTG8wOS01Q2c/view?usp=sharing) for in-depth mentoring tips.
+Check out this [guide](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVTzdXTG8wOS01Q2c/view?usp=sharing) created by the [Department of Homeland Security](https://www.dhs.gov/) for in-depth mentoring tips.
 
 ### Goal setting
 
