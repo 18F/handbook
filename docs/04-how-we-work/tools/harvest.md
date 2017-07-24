@@ -9,31 +9,40 @@ Harvest is an easy-to-use web app that allows us to track and allocate time and 
 Your Harvest login will be your email address: `first.last@civicactions.com`. Check your email for an invitation!
 Then:
 
-* confirm that you can sign in to Harvest (<https://civicactions.harvestapp.com/>)
-* upload a photo of yourself
-* check to make sure that your time zone is correct
-* if you know which project(s) you'll be working on, make sure that they're correct
+* Confirm that you can sign in to Harvest (<https://civicactions.harvestapp.com/>)
+* Upload a photo of yourself
+* Check to make sure that your time zone is correct
+* If you know which project(s) you'll be working on, make sure that they're correct (or request updates from your onboarding manager)
 
 ## <a name="time"></a>Logging Time
 
-### How to:
+### How to Enter Time
 
-* You are expected to submit your timesheets **daily** in Harvest
+* You are expected to enter your times **daily** in Harvest
+* Go to <https://civicactions.harvestapp.com/time>
+* Put description of work in each entry and ensure that you've selected correct project and role
 * Time billed to the client is in 15 min increments. It will automatically round in the reports, but you'll see actuals in your timesheet.
 * Use your judgement if something took 2 minutes but another task took 10, then consider lumping them together (if they're the same project) to 15 minutes together
+* If you use a time tracker, you do not need to round your hours up to 15 min intervals bc the report that gets run rounds it up for you. Although no harm if you do it manually still.
+* You must enter your time _each day_ before you sign off for the day. Ideally time is tracked in real time, but must be entered by end of day.
+
+![Harvest screenshot 2](../../images/harvest02.png)
+
+### Logging Your Working Expectations
+
 * A full time employee is slotted for a 40 hour work week
 * Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for civicactions related meetings or comms, she should bill it all to the fixed price project.  She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
+* Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
+* Time and Materials: 85-95% (34-38 hours / week)
 
-### More details:
-
-[Harvest Documentation](https://docs.google.com/document/d/19QoYLImoL7hkyW3686g5wKIuc9Ghz059o_OzqH472Sc/edit?usp=sharing)
+### Delivery Time Entries
 
 * If you're an engineer: CA > Delivery > Engineering
-    * Types of meetings: All hands call, Bi-Weekly Engineering Meeting, Pod Calls, Monthly All Hands Call
+    * Types of meetings: Weekly & monthly all hands call, engineering meeting, devops meeting, pod calls, professional development, community participation
 * If you're a Project Manager: CA > Delivery > Project Management
-* Types of meetings: All hands call, Weekly Agile PM Meeting, Pod Calls, Monthly All Hands Call, Check-ins with team members on performance & balance, etc
+    * Types of meetings: Weekly & monthly all hands call, project manager meeting, pod calls, checkins with team members on performance & balance, professional development, community participation
 
-#### Onboarding
+#### Onboarding Time Entries
 
 Enter a description like the below examples in the task description that includes the word "onboarding"
 
@@ -41,20 +50,6 @@ Enter a description like the below examples in the task description that include
 * Onboarding handbook and/or trello board cards review
 * Onboarding watching scrum videos
 * Onboarding resume and bio work
-
-## Submitting Your Timesheet
-
-* Go to <https://civicactions.harvestapp.com/time>
-* Put description of work in each entry and ensure that you've selected correct project and role
-* Track your time in increments of 15 minutes, rounded up per CivicActions protocol
-    * If you use a time tracker, you do not need to round your hours up to 15 min intervals bc the report that gets run rounds it up for you. Although no harm if you do it manually still.
-    * Time billed to the client is in 15 min increments. It will automatically round in the reports, but you'll see actuals in your timesheet.
-    * Use your judgement if something took 2 minutes but another task took 10, then consider lumping them together (if they're the same project) to 15 minutes together
-    * A full time employee is slotted for a 40 hour work week
-* You must enter your time _each day_ before you sign off for the day. Ideally time is tracked in real time, but must be entered by end of day.
-
-![Harvest screenshot 2](../../images/harvest02.png)
-
 
 ## Harvest Timer Options
 
@@ -122,17 +117,17 @@ Directions for submitting expenses:
 
 ![Harvest screenshot 11](../../images/harvest11.png)
 
-## <a name="tracking-paid-time-off"></a>Tracking Paid Time Off (PTO)
+## <a name="tracking-paid-time-off"></a>Tracking Timeoff
 
-We track vacation, leave and sick time and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. PTO will not negatively impact your billable hour percentage.
+We track vacation, leave and sick time and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. Timeoff will not negatively impact your billable hour percentage.
 
-You do NOT need to log entries when the office is closed for Holiday
+You do NOT need to log entries when the office is closed for a Holiday
 
-**Project:** CivicActions: PTO
+**Project:** CivicActions > Timeoff
 
 **Task:**
 
-* Leave (Maternity or Paternity leave)
+* Leave (maternity, paternity, medical leaves)
 * Sick Time (unplanned time off)
 * Vacation (a planned day off)
 
@@ -140,7 +135,6 @@ You do NOT need to log entries when the office is closed for Holiday
 
 * 8 hours if it's a full day
 * 4 hours if it's a half day
-* anything under 4 hours should not be recorded
 
 ![Harvest screenshot 12](../../images/harvest12.png)
 
@@ -148,7 +142,7 @@ You do NOT need to log entries when the office is closed for Holiday
 
 If you are often "on-the-go" consider downloading the Harvest App.
 
-This is also great for (and almost required) for any onsite trips you take. It makes entering time easy, but also it's makes entering your expenses a snap. You can take a photo of your receipt right from the Harvest App - no more worries about losing that receipt or having to enter them all after your trip.
+This is also great for (and almost required) for any onsite trips & conferences. It makes entering time easy, but also makes entering your expenses a snap. You can take a photo of your receipt right from the Harvest App - no more worries about losing that receipt or having to enter them all after your trip. It will also provide visibility on the total expense costs while traveling. 
 
 * <https://www.getharvest.com/android>
 * <https://www.getharvest.com/iphone>
