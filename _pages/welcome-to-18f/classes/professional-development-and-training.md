@@ -104,7 +104,7 @@ The review and approval processes can take a bit of time, so it’s best if you 
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least one week in advance.*
 * **Three to four weeks in advance:** For trainings that are less than $3,000 altogether, don't require an outside source of funding, and are either at a conference, require travel, or involve more than one person from TTS attending.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least two weeks in advance.*
-* **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,000 altogether, anything involving an outside source of funding, or international travel.
+* **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,000 altogether, anything involving an outside source of funding, or international travel. If a training costs more than $3,500 altogether try to submit the request two or more months in advance as it *cannot be purchased on a purchase card and must go through a full procurement.*
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least four weeks in advance.*
 
 Requests that don't make it to [C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) in time will not be approved.
