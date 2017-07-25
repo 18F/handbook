@@ -41,9 +41,9 @@ For non-billable internal meetings, PMs should bill as CA > Delivery > Project M
 
 ## <a name="resourcing"></a>Resourcing
 
-We use [Resource Guru (RG)](https://civicactions.resourceguruapp.com/resources) for documenting which projects team members are on, as well as their availability.
+We use [Harvest Forecast](https://forecastapp.com/615047/schedule/projects) for documenting which projects team members are on, as well as their availability.
 
-For a team member whose time is split between projects, RG helps plan how much time should be allocated to each project.
+For a team member whose time is split between projects, Forecast helps plan how much time should be allocated to each project.
 
 ## <a name="scheduling-meetings"></a>Scheduling Meetings
 
@@ -96,7 +96,7 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 
 ## <a name="pm-tools"></a>PM Tools
 
-* [Resource Guru](../04-how-we-work/tools/harvest-forecast.md)
+* [Harvest Forecast](../04-how-we-work/tools/harvest-forecast.md)
 * [Harvest](../04-how-we-work/tools/harvest.md)
 * [Jira](../04-how-we-work/tools/jira.md)
 * [Trello](../04-how-we-work/tools/trello.md)
