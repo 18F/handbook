@@ -51,7 +51,7 @@ Resources:
 
 If you make a pull request related to a subject that is the responsibility of a specific team or person, please consider tagging or assigning it to that team or person (or pinging them in Slack to ask them to review it).  See also [docs-governance.md](docs-governance.md).
 
-## <a name="PR-workflow"></a>How to review and merge pull requests
+## How to review and merge pull requests
 
 Each pull request must be reviewed by at least one other CivicActions employee before it can be merged.
 

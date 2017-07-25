@@ -6,3 +6,5 @@
 _site/
 node_modules
 output.log
+
+docs/00-contributing/git-workflow.md
