@@ -19,16 +19,7 @@ As part of the new employee onboarding process, we created the following Onboard
 
 ### Schedule
 
-This is a typical onboarding schedule, but the timing may shift based on when you're hired and company holidays, etc.
-
-The first week will be dedicated to general orientation. You'll also learn about our working practices, our primary tools and how we use them, and your specific job role.
-
-* Day 1 [Orientation](training/orientation-meetings.md#day1) (2 hours)
-* Day 2 [Orientation](training/orientation-meetings.md#day2) (1.5 hours)
-* Day 3 [Orientation](training/orientation-meetings.md#day3) (1 hour)
-* Day 4 [Orientation](training/orientation-meetings.md#day4)
-
-The rest of your first month will be dedicated to completing the trainings and task in the orientation lists, and further acclimating to your role and project(s). Welcome aboard!
+See [Orientation Meetings](training/orientation-meetings.md) for a typical onboarding schedule, but the timing may shift based on when you're hired and company holidays, etc. The first week will be dedicated to general orientation. You'll also learn about our working practices, our primary tools and how we use them, and your specific job role. The rest of your first month will be dedicated to completing the trainings and task in the orientation lists, and further acclimating to your role and project(s). Welcome aboard!
 
 ## Links and Resources
 

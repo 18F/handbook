@@ -17,7 +17,7 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 
 #### All Hands Calls Overview
 
-* We use Zoom for this (see [more about zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom))
+* We use Zoom for this (see [more about Zoom](../../04-how-we-work/tools/basic-communication-tools.md))
 * Everyone on team is encouraged to join
 * Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
 * Meetings occur frequently as listed below
@@ -79,6 +79,6 @@ For more detail, read our  [Backlog grooming](../../04-how-we-work/agile-baselin
 
 Here are links to more information about how CivicActions uses specific tools to facilitate meetings.
 
-* [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
-* [Google Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
-* [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom)
+* [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md)
+* [Google Hangouts](../../04-how-we-work/tools/basic-communication-tools.md)
+* [Zoom](../../04-how-we-work/tools/basic-communication-tools.md)
