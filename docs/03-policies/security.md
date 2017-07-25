@@ -109,7 +109,7 @@ Before connecting and authenticating to any CivicActions IT system or storing co
 
 If a system is believed to be compromised, either through theft, loss, remote access, virus/malware infection, CivicActions IT should be informed immediately.
 
-## <a name="password"></a>Password Policy
+## Password Policy
 
 Passwords are used to protect many of our systems and services.
 

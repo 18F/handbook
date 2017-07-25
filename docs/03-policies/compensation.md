@@ -5,7 +5,7 @@ updated: May 9, 2017
 
 # Compensation
 
-## <a name="pay-period"></a>Pay Periods
+## Pay Periods
 
 The standard workweek for CivicActions is 12:01 a.m. Sunday through midnight the following Saturday. This is only important if you're a non-exempt employee who is eligible for overtime.
 
@@ -13,7 +13,7 @@ We have semi-monthly pay days. The first pay period is from the first through th
 
 Paychecks are direct deposited on the 25th day of the month for the first pay period, and on the 10th day of the following month for the second. If the 10th or 25th fall on a Saturday, Sunday or holiday, you will be paid on the preceding business day.
 
-## <a name="overtimepay"></a>Overtime
+## Overtime
 
 Any overtime needs to be pre-approved by a manager or member of the management team.
 

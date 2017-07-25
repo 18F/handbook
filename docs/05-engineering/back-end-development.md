@@ -126,7 +126,7 @@ function myfunc($my_parameter) {    // no space before '('; 1 space before '{'
 }
 ```
 
-### <a name="continue"></a>Don't use continue in short loops
+### Don't use continue in short loops
 
 Don't do this:
 

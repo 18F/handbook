@@ -1,6 +1,6 @@
 # Basic Communication Tools
 
-## <a name="slack"></a>Slack
+## Slack
 
 ### Basics
 
@@ -39,9 +39,9 @@
 * [Formatting your messages](https://slack.zendesk.com/hc/en-us/articles/202288908-Formatting-your-message)
 * [Creating a snippet](https://slack.zendesk.com/hc/en-us/articles/204145658-Creating-a-Snippet)
 
-## <a name="google-apps"></a>Google Apps
+## Google Apps
 
-### <a name="gmail"></a>Email
+### Email
 
 #### Internal lists
 
@@ -67,7 +67,7 @@ To get someone's attention, put their name in all caps in subject. Or use "ALL" 
 
 Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to help manage you mail in preparation for quick archive.
 
-### <a name="google-calendar"></a>Google Calendar
+### Google Calendar
 
 #### Overview
 
@@ -93,7 +93,7 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * You can create a Hangout link from the event (actually, Hangout links, aka "video calls" are automatically generated when you create a new event)
 * Add the Out of Office Calendar !["CivicActions: Out of Office"](../../images/ooo-cal1.png "Out of Office Calendar") calendar
 
-### <a name="hangouts"></a>Google Hangouts
+### Google Hangouts
 
 #### Overview
 Google Hangouts are video chats in the browser. Here are some tips for using Hangouts:
@@ -130,7 +130,7 @@ Google Hangouts are video chats in the browser. Here are some tips for using Han
 
 ![Hangouts shortcuts](../../images/hangout-shortcuts.png "Hangouts shortcuts")
 
-### <a name="google-docs"></a>Google Docs
+### Google Docs
 
 * Google Docs allows you to create and share a variety of documents such as text documents, spreadsheets, presentations, and forms.
 * Google Docs should be shared with your CivicActions email account
@@ -143,12 +143,12 @@ Google Hangouts are video chats in the browser. Here are some tips for using Han
 ![Advanced settings](../../images/sharing2.png "Advanced settings")
 ![Select Link](../../images/sharing3.png "Select link")
 
-## <a name="bluejeans-zoom"></a>Zoom
+## Zoom
 
 * We use [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and monthly All Hands Calls. To participate, you may download the Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
-* In the past we've also used [BlueJeans](https://www.bluejeans.com/). 
+* In the past we've also used [BlueJeans](https://www.bluejeans.com/).
 
-## <a name="telephone-use"></a>Telephone Use
+## Telephone Use
 
 * There are times when a phone call in may also be necessary, such as when wifi is not available or to call in to Zoom
 * Don't rely on speaker feature, but have a headset handy

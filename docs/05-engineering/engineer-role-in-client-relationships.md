@@ -1,6 +1,6 @@
 # An Engineer's Role in Client/Team Relationships
 
-## <a name="support-team"></a>Support our team members
+## Support our team members
 
 * We support and mentor others on the team, so they can succeed in quality work, and learn our best practices.
     * We listen for others needs and step up
@@ -12,13 +12,13 @@
 * We document a project for possible handoff to another team.
 * We honor our commitments and communicate as soon as we think we can't meet them.
 
-## <a name="expert-consultation"></a>Provide expert consultation
+## Provide expert consultation
 
 * We show up as experts for our clients, so that we mesh their knowledge of their needs with our knowledge of technology, web and trends to deliver the most value.
 * We explain trade-offs to clients and help them evaluate the options so that they can ensure the decision is the right one for the project.
 * We are true to our clients underlying needs and best interests, and do not simply do what they ask so that they get the site that solves the right problems for the right people, is maintainable and delivered within the right budget and timeline.
 
-## <a name="project-discovery"></a>Participate in Project Discovery
+## Participate in Project Discovery
 
 * We double-check assumptions made in the sales cycle during the first meetings with clients.
 * We ensure we have sufficient time to discover the scope of our problem set.
@@ -29,7 +29,7 @@
 * We remain aware that we can limit our involvment if, during discovery, we find problems that we don't think we can overcome within the scope of our contract. We have to be open and honest about the constraints we face.
 * It's better to back out of the project rather than burn budget and not be successful.
 
-## <a name="identify-risks"></a>Identify, communicate project risks and escalate when appropriate
+## Identify, communicate project risks and escalate when appropriate
 
 * We label tickets (at least): Low, Medium, High risk.
 * We understand the distinction between risk level and confidence level.
@@ -40,14 +40,14 @@
 * We differentiate "pre-execution" risks (requirements, design, assets, dependencies etc) which are typically addressed by communication and management from "technical" risks, which can be hard to mitigate in advance.
 * We escalate problems quickly to the tech lead, PM and/or account manager if we encounter issues that could block progress, momentum, or success.
 
-## <a name="train-clients"></a>Train clients
+## Train clients
 
 * We give frequent demos and get clients using the site early on, so that clients can give us effective feedback and prioritization.
 * We train the trainers.
 * We try to identify paths towards self-sufficiency for our clients where possible.
 * We add good help text for content creators.
 
-## <a name="measure-success"></a>Help measure project success
+## Help measure project success
 
 * To evaluate the success of a project, stakeholders require a means of measuring it.
 * We ensure that metrics are available to help evaluate the success of functionality/the project.

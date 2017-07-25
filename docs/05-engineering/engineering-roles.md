@@ -8,7 +8,7 @@ Very important note: these are roles, not individuals. This means that:
 * Multiple roles on a project could be shared by the same person (e.g. the TL could also be the LE or LT) - this is actually the norm for many small and medium projects.
 * These roles are mostly for our internal communication purposes, so that we know who is responsible for what (even if that means that the same person is responsible of everything on a small project!). On bigger projects the importance of these roles becomes even more important, and is something that would be more client facing.
 
-## <a name="tech-lead"></a>Tech Lead
+## Tech Lead
 
 CivicActions technical team leaders are known as "Tech Leads". The Tech Lead is responsible for the ultimate technical success of the project. Tech Leads are involved in the entire project life cycle from estimating new business proposals, architecting solutions based on the Drupal framework and then leading development teams to ensure successful project completion. Our Tech Leads work in tandem with a Project Manager, who manages the project's overall progress and budget.
 
@@ -56,7 +56,7 @@ Project responsibilities through the project process:
     * Benchmarking
     * Organizing the launch party :)
 
-### <a name="tech-lead-process"></a>Tech Leads in the Process
+### Tech Leads in the Process
 
 * Tech Lead may be assigned to assist with "pre-sales" activities. Helps the project manager and other team members determine the scope, approach, schedule and budget for a project. This will often involve direct client contact - with or without the participation of the project manager and/or other team members. In this role the Tech Lead is responsible for the following deliverables:
     * A clear description of the technical deliverables.
@@ -74,7 +74,7 @@ Project responsibilities through the project process:
     * Notify the Project Manager regarding any issue that might threaten the teams ability to deliver the project on time and within budget.
     * Shall be the Technical eyes and ears of the Project Manager. The Technical Lead must ensure that the project manager is made aware of and understands all technical issues and risks.
 
-## <a name="lead-themer"></a>Lead Themer
+## Lead Themer
 
 * Responsible for all theme code, ensuring that:
     * The theming code is organized, well maintained and documented.
@@ -83,7 +83,7 @@ Project responsibilities through the project process:
     * Responsible for 'low level' organization and assignment of theming tickets (especially on bigger projects).
 * Generally does a significant amount of the theme code themselves (or all of it, on smaller projects).
 
-## <a name="lead-engineer"></a>Lead Engineer
+## Lead Engineer
 
 * Responsible for all custom code, patches and modules, ensuring that:
     * The custom code is organized, well maintained and documented.
