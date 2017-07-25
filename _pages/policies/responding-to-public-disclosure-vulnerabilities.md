@@ -59,7 +59,7 @@ Otherwise, after filing the issue as described above:
 
 1. Quickly send an acknowledgement.
 2. Loop in any relevant program staff on the acknowledgement response, so they have a direct line of communication.
-3. Ensure an alert is set so that we get pinged well before the 90 day mark, at which point our request for confidentiality will expire.
+3. Ensure an alert is set so that we get pinged well before the 90-day mark, at which point our request for confidentiality will expire.
 
 The acknowledgement text could be something like:
 
