@@ -15,7 +15,7 @@ In order to respond quickly to reports submitted by the public, the Infrastructu
 
 * *cloud.gov note:* Response team members need to be on the cloud.gov whitelist for outside-of-business-hours email alerts. Each new response team member should tell the cloud.gov Product Lead, Director, or Deputy Director to add their email address to the whitelist.
 
-The **first responder** monitors reports received from the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov) or [through this reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform). The report is reviewed and the responder categorizes risk according to the potential impact on system **_confidentiality_**, **_integrity_**, or **_availability_**. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. At this point, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
+The **first responder** monitors reports received from the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov) or [through this reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform). The report is reviewed and the responder categorizes risk according to the potential impact on system **confidentiality**, **integrity**, or **availability**. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. At this point, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
 
 Each metric above receives a single score on potential impact from the following list:
 
@@ -59,7 +59,7 @@ Otherwise, after filing the issue as described above:
 
 1. Quickly send an acknowledgement.
 2. Loop in any relevant program staff on the acknowledgement response, so they have a direct line of communication.
-3. Ensure an alert is set so that we get pinged well before the 90 day mark, at which point our request for confidentiality will expire.
+3. Ensure an alert is set so that we get pinged well before the 90-day mark, at which point our request for confidentiality will expire.
 
 The acknowledgement text could be something like:
 
@@ -67,6 +67,6 @@ The acknowledgement text could be something like:
 > 
 > As a reminder, our policy, which can be read at https://18f.gsa.gov/vulnerability-disclosure-policy/, asks for 90 days from the date you sent your report before you disclose this report publicly.
 
-Remember to **CC on this email** any relevant program staff or infrastructure leads. They assume responsibility for further communication and resolving the issue.
+Remember to **CC this email** to any relevant program staff or infrastructure leads. They assume responsibility for further communication and resolving the issue.
 
 The last thing you should do is set an email alert via Google Calendar at the 77-day (11 weeks) mark from the date the reporter sent the email, so that, if no response or resolution has yet been made, the team has about 2 weeks to bring the issue to resolution and close out the issue with the reporter.
