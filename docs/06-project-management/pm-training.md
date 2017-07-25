@@ -1,5 +1,7 @@
 # Project Manager Training
 
+Review [The Project Manager Role](pm-role.md) for an overview of PM responsibilities at CivicActions.
+
 ## <a name="new-pm"></a>New PM Instructions
 
 * New PMs should shadow other PMs calls, meetings, scrums, retrospectives, sprint demos, kick-offs, etc.
@@ -39,9 +41,9 @@ For non-billable internal meetings, PMs should bill as CA > Delivery > Project M
 
 ## <a name="resourcing"></a>Resourcing
 
-We use [Resource Guru (RG)](https://civicactions.resourceguruapp.com/resources) for documenting which projects team members are on, as well as their availability.
+We use [Harvest Forecast](https://forecastapp.com/615047/schedule/projects) for documenting which projects team members are on, as well as their availability.
 
-For a team member whose time is split between projects, RG helps plan how much time should be allocated to each project.
+For a team member whose time is split between projects, Forecast helps plan how much time should be allocated to each project.
 
 ## <a name="scheduling-meetings"></a>Scheduling Meetings
 
