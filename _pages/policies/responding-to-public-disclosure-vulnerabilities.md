@@ -67,6 +67,6 @@ The acknowledgement text could be something like:
 > 
 > As a reminder, our policy, which can be read at https://18f.gsa.gov/vulnerability-disclosure-policy/, asks for 90 days from the date you sent your report before you disclose this report publicly.
 
-Remember to **CC on this email** any relevant program staff or infrastructure leads. They assume responsibility for further communication and resolving the issue.
+Remember to **CC this email** to any relevant program staff or infrastructure leads. They assume responsibility for further communication and resolving the issue.
 
 The last thing you should do is set an email alert via Google Calendar at the 77-day (11 weeks) mark from the date the reporter sent the email, so that, if no response or resolution has yet been made, the team has about 2 weeks to bring the issue to resolution and close out the issue with the reporter.
