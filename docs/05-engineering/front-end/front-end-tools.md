@@ -1,4 +1,4 @@
-# <a name="dev-tools"></a>Development Tools
+# Development Tools
 
 * We setup a frontend development workflow that includes:
     * SASS compiling with: <https://www.npmjs.com/package/gulp-sass>

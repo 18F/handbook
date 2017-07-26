@@ -17,7 +17,7 @@ Additionally, your laptop should lock (require a password to resume) on screen c
 
 A password manager will enable you to have unique, strong passwords for every service that you log into. Good password managers will generate new passwords for you, auto-fill web forms, allow extra protection for high-security accounts (like banking), and more. Choose a password manager that encrypts locally (in your browser, so you don't have to trust the provider to keep their data safe) and that has iPhone and Android apps that will auto-sync with the manager. At CivicActions, we currently recommend LastPass as it is the most full-featured, but we are keeping a close eye on the FOSS KeePass and Password Safe solutions.
 
-### <a name="lastpass"></a>LastPass
+### LastPass
 
 * The [LastPass](https://lastpass.com/) password generator can easily create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
     * We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
@@ -35,7 +35,7 @@ LastPass provides secure password management especially when unlocked via Two Fa
 * In Firefox, go to about:preferences#security and uncheck "Remember logins for sites"
 * In Safari, go to Preferences >> Passwords and uncheck "AutoFill user names and passwords"
 
-## <a name="tfa"></a> Use Two Factor (or 2-Step) Authentication (TFA, 2FA)
+## Use Two Factor (or 2-Step) Authentication (TFA, 2FA)
 
 Two factor authentication includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a YubiKey) and can greatly increase the security of your systems. CivicActions recommends you use Two Factor Authentication for services that support it.
 

@@ -1,6 +1,6 @@
 # New Hire Orientation Meetings
 
-## <a name="day1"></a>Day 1
+## Day 1
 
 ### Onboarding Paperwork
 
@@ -38,11 +38,11 @@
 
 ### Time Tracking
 
-* Review account in [Harvest](../../04-how-we-work/tools/harvest.md#account) and start logging your time daily
+* Review account in [Harvest](../../04-how-we-work/tools/harvest.md) and start logging your time daily
 
-* Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md#time) on logging time 
+* Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md) on logging time
 
-* Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#expenses)
+* Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md)
 
 * How to log onboarding time:
     * Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
@@ -52,38 +52,38 @@
 
 ### Communication Tools
 
-* Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md) 
+* Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md)
 
-    * [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
-    * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
-        * [Email](../../04-how-we-work/tools/basic-communication-tools.md#gmail)
-        * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
-        * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
-        * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
-    * [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
-    * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
+    * [Slack](../../04-how-we-work/tools/basic-communication-tools.md)
+    * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md)
+        * [Email](../../04-how-we-work/tools/basic-communication-tools.md)
+        * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md)
+        * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md)
+        * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md)
+    * [Zoom](../../04-how-we-work/tools/basic-communication-tools.md)
+    * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md)
 
 
 ### Get to Know Your Colleagues
 
-* Read about [Balance Scores](../../04-how-we-work/balance-scores.md) 
-* Read about [All hands calls](meetings-and-meeting-tools.md#ahc)
-* Review [Org Chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing) 
+* Read about [Balance Scores](../../04-how-we-work/balance-scores.md)
+* Read about [All hands calls](meetings-and-meeting-tools.md)
+* Review [Org Chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing)
 * Review [Team Bios](https://civicactions.com/team/)
-* Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)
+* Intro to [pod calls](meetings-and-meeting-tools.md)
 
 ### Afternoon check-in with your onboarding manager
-* Your onboarding manager will reach out via Slack or schedule this 
+* Your onboarding manager will reach out via Slack or schedule this
 
-## <a name="day2"></a>Day 2
+## Day 2
 
 ### Time Off and Scheduling
 
-* Review vacation time / requests [policies](../../03-policies/benefits.md#pto)
-* Do you have any pre-approved time off requests? 
-    * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits.md#pto) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
-* Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays) 
-* Review [Professional development & community participation](../../03-policies/prodev-community-participation.md) 
+* Review vacation time / requests [policies](../../03-policies/benefits.md)
+* Do you have any pre-approved time off requests?
+    * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits.md) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
+* Review [CivicActions holiday schedule](../../03-policies/benefits.md)
+* Review [Professional development & community participation](../../03-policies/prodev-community-participation.md)
 
 ### Project Overview Info (part 1)
 
@@ -92,10 +92,10 @@
     * Discuss the project that the new team member will be introduced to.
     * Discuss: goals of the project, Product Owner, stakeholders, team members, technologies used, ticket review, project status
 * Introduction to the [Scrum Call structure](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md)
-* Overview of Scrum ceremonies: [Retrospectives, Sprint Planning, Backlog Grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retro)
+* Overview of Scrum ceremonies: [Retrospectives, Sprint Planning, Backlog Grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md)
 * Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
-* Read about the [Gold Star Program](../../04-how-we-work/gold-star-program.md) 
-* Watch these training videos for an introduction to Scrum 
+* Read about the [Gold Star Program](../../04-how-we-work/gold-star-program.md)
+* Watch these training videos for an introduction to Scrum
     * [Scrum Training Series videos](http://scrumtrainingseries.com/)
     * [Scrum Methodology (Same videos w additional text support)](http://scrummethodology.com/)
 
@@ -104,45 +104,45 @@
 * Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.md):
     * Starting and Ending a Day with a Remote Team
     * Heading offline for short periods of time
-    * [Communication Best Practices](../../04-how-we-work/virtual-workplace-basics.md#best-comms) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
+    * [Communication Best Practices](../../04-how-we-work/virtual-workplace-basics.md) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
     * Talking in Timezones
     * Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) Trello board
 
 ### Aligning Yourself with CivicActions
 
-* Create email signature 
+* Create email signature
     * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
 * Update LinkedIn & social media accounts with CivicActions as company (30 minutes)
     * Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
     * Update your skills on LinkedIn
 * Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account
-* [Update resume into CivicActions template](../team-resume-instructions.md) 
-* [Write your CivicActions bio w photo](../civicactions-bio-instructions.md) 
+* [Update resume into CivicActions template](../team-resume-instructions.md)
+* [Write your CivicActions bio w photo](../civicactions-bio-instructions.md)
 * Manager to provide an introduction to our copywriter / editor for support on bio & resume
 
 ### Afternoon check-in with your onboarding manager
 
-## <a name="day3"></a>Day 3
+## Day 3
 
 ### Project Overview Info (part 2)
 
 * [How to create a ticket or card](../../04-how-we-work/tools/tickets-cards.md)
 * [Story point estimating](../../04-how-we-work/tools/storypoints.md)
 * [Install Chrome browser extensions](../../04-how-we-work/tools/browserextensions.md)
-* [CivicActions Agile (which includes intro to Agile Baseline)](../../04-how-we-work/agileoverview.md) 
+* [CivicActions Agile (which includes intro to Agile Baseline)](../../04-how-we-work/agileoverview.md)
 
 ### Versioning Systems and Development Process
 
-* Read about the difference between [Git, GitLab, GitHub, Bitbucket](../../05-engineering/git-gitlab-github-bitbucket.md) 
-* Read about [Git and SSH](../../01-welcome-to-civicactions/training/git-ssh.md) 
-* Read about [Dev workflows](../../05-engineering/dev-environments.md): Dev, QA, Live, and Sandbox sites overview 
+* Read about the difference between [Git, GitLab, GitHub, Bitbucket](../../05-engineering/git-gitlab-github-bitbucket.md)
+* Read about [Git and SSH](../../01-welcome-to-civicactions/training/git-ssh.md)
+* Read about [Dev workflows](../../05-engineering/dev-environments.md): Dev, QA, Live, and Sandbox sites overview
 
 ### Security for Everyone
 
 * Review and Acknowledge [Security Policy](../../03-policies/security.md) Read this policy, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
-    * Overview of [password management](../../03-policies/security.md#password)
-    * Set up [Lastpass](../../09-security/awareness.md#lastpass) 
-    * Set up [TFA](../../09-security/awareness.md#tfa) 
+    * Overview of [password management](../../03-policies/security.md)
+    * Set up [Lastpass](../../09-security/awareness.md)
+    * Set up [TFA](../../09-security/awareness.md)
     * Review [Security Awareness and Tools](../../09-security/awareness.md)
     * Complete [Security Checklist](https://docs.google.com/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit#gid=0)
 * Complete this online [PII course](http://cdsetrain.dtic.mil/piiv2/index.htm)
@@ -154,16 +154,16 @@
 
 ### Afternoon check-in with your onboarding manager
 
-## <a name="day4"></a>Day 4
+## Day 4
 
 ### Tasks to complete in the next two weeks
 
 * Resume & bio should to be completed by end of Day 5 & shared with copywriter
 * Work on completing the [Security Checklist](https://docs.google.com/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit#gid=0)
 * [Skillset Survey](../skillset-survey.md)
-* Read about & learn [Markdown](../../04-how-we-work/tools/markdown.md) 
-* Introduction to [Presentation Slides Template](../../04-how-we-work/tools/presentation-slides.md) 
-* Review CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md) 
+* Read about & learn [Markdown](../../04-how-we-work/tools/markdown.md)
+* Introduction to [Presentation Slides Template](../../04-how-we-work/tools/presentation-slides.md)
+* Review CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md)
 * Any additional tasks from above days that have not yet been completed
 
 ### Role-based training/orientation
