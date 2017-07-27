@@ -20,13 +20,13 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 - You can&rsquo;t publish docs to the web. You can&rsquo;t share docs with the public, only GSA or specific users. Even just to view.
 
-- We cannot share Google Docs with other agencies. GSA employees can view and access Docs, but you&rsquo;ll need to ask in [#teamops](https://gsa-tts.slack.com/messages/team-ops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) (for suggested programs) if you&rsquo;re working with another agency.
+- If another agency employs Google Docs, documents can be shared directly with them.  If the agency does not use Google Docs, [here are approved instructions for sharing documents with them](https://insite.gsa.gov/portal/content/517805).   Note that the agency staff could also create a Google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en).  Ask in [#teamops](https://gsa-tts.slack.com/messages/teamops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) if you need help.  
 
 - Don't share docs with all at GSA. Instead, share with 18f-team and GSA will never auto-unshare them. (GSA will change your permissions if they are too open.) Docs that contain sensitive information will also be blocked via Cloudlock.
 
 - Make sure you change the permission on new documents so that the proper people can view and edit them. If you put your documents or files in any of the folders within the [18F folder](https://drive.google.com/drive/u/0/folders/0B84F26FpUP0lR1B2VVNGSi1MMVk), the sharing settings should automatically be correct.
 
-- Grant editing or commenting access to the entire team on a files by adding <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
+- Grant editing or commenting access to the entire team on a files by adding <mailto:tts@gsa.gov>, <mailto:opp-team@gsa.gov>, or <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
 
 - It is much better to add a Google Group of people to a document than individual email addresses because you can control access to the group from one location, particularly when someone leaves 18F.
 

@@ -18,7 +18,7 @@ We use Google Drive to keep track of documentation for different projects:
 
 * Blog drafts are written in Google Drive in the Blog folder. [Instructions are here](https://github.com/18F/blog-drafts/blob/master/README.md).
 
-* Every GSA employee can view and access docs. We cannot share Google Docs with other agencies. If you’re working with another agency, ask in #teamops or #it-issues for ways to share documents with folks at other agencies.
+* Every GSA employee can view and access docs. If another agency employs Google Docs, documents can be shared directly with them.  If the agency does not use Google Docs, [here are approved instructions for sharing documents with them](https://insite.gsa.gov/portal/content/517805).   Note that the agency staff could also create a google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en).  Ask in [#teamops](https://gsa-tts.slack.com/messages/teamops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) if you need help.  
 
 * Offline syncing for Google Drive/Docs has been disabled for GSA.
 
