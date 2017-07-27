@@ -48,3 +48,7 @@ This template is used as a guide for project managers when
 This template is used as a guide for project managers when
 
 [Client Integrated Project Plan Template](https://docs.google.com/a/civicactions.net/document/d/1cqh2-QpfvZYQDt9IHbA-vEqY9hrjoiJ1Nb-xdbQ6loU/edit?usp=sharing)
+
+## Burndown Spreadsheet
+
+[Burndown Template](https://docs.google.com/spreadsheets/d/16fvmQ6Rfg0YeTuSFWU_j81a73PMQtPd8kBONyjVZCDw/edit#gid=0)
