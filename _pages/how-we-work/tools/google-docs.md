@@ -20,7 +20,7 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 - You can&rsquo;t publish docs to the web. You can&rsquo;t share docs with the public, only GSA or specific users. Even just to view.
 
-- If another agency employs Google Docs, documents can be shared directly with them.  If the agency does not use Google Docs, [here are approved instructions for sharing documents with them](https://insite.gsa.gov/portal/content/517805).   Note that the agency staff could also create a google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en).  Ask in [#teamops](https://gsa-tts.slack.com/messages/teamops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) if you need help.  
+- If another agency employs Google Docs, documents can be shared directly with them.  If the agency does not use Google Docs, [here are approved instructions for sharing documents with them](https://insite.gsa.gov/portal/content/517805).   Note that the agency staff could also create a Google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en).  Ask in [#teamops](https://gsa-tts.slack.com/messages/teamops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) if you need help.  
 
 - Don't share docs with all at GSA. Instead, share with 18f-team and GSA will never auto-unshare them. (GSA will change your permissions if they are too open.) Docs that contain sensitive information will also be blocked via Cloudlock.
 
