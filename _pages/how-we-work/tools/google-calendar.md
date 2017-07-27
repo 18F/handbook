@@ -26,7 +26,6 @@ In addition to <em>officially</em> requesting time off in <a href="/gsa-tools-eq
 
 - To add a video call to your calendar invite: create an event, click **Edit event**, and under **Video call** click **Add video call**. Google gives the call a default name, but you can click **Change name** to customize it. Then click **Save**. ([Demonstration.]({{ site.baseurl }}/images/google-calendar/2.gif))
 - To automatically find a time when everyone is available: create an event, add everyone who needs to attend as a guest, and click **Suggested times**. ([Demonstration.]({{ site.baseurl }}/images/google-calendar/3.gif))
-- People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-time surveys. If you're flexible on when you want your meeting to start, it's a great idea to send out a Doodle and poll attendees on what times work for them.
 - Remember to copy out of office (OOO) calendar items to your own calendar so that meeting planning tools pick them up.
 - You can't share calendars with anyone outside GSA. You can share individual invites, just not whole calendars.
 
