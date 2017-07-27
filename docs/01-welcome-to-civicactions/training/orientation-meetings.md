@@ -72,9 +72,6 @@
 * Review [Team Bios](https://civicactions.com/team/)
 * Intro to [pod calls](meetings-and-meeting-tools.md)
 
-### Afternoon check-in with your onboarding manager
-* Your onboarding manager will reach out via Slack or schedule this
-
 ## Day 2
 
 ### Time Off and Scheduling
@@ -112,15 +109,13 @@
 
 * Create email signature
     * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
-* Update LinkedIn & social media accounts with CivicActions as company (30 minutes)
+* Update LinkedIn & social media accounts with CivicActions as company
     * Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
     * Update your skills on LinkedIn
 * Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account
 * [Update resume into CivicActions template](../team-resume-instructions.md)
 * [Write your CivicActions bio w photo](../civicactions-bio-instructions.md)
 * Manager to provide an introduction to our copywriter / editor for support on bio & resume
-
-### Afternoon check-in with your onboarding manager
 
 ## Day 3
 
@@ -139,7 +134,7 @@
 
 ### Security for Everyone
 
-* Review and Acknowledge [Security Policy](../../03-policies/security.md) Read this policy, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
+* Review the [Security Policy](../../03-policies/security.md). Read this policy, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
     * Overview of [password management](../../03-policies/security.md)
     * Set up [Lastpass](../../09-security/awareness.md)
     * Set up [TFA](../../09-security/awareness.md)
@@ -151,8 +146,6 @@
 
 * [Story mapping/Stories On Board](../../04-how-we-work/agile-baseline/03-methods/1-research/story-mapping-guide.md)
 * [Wireframing and MyBalsamiq](../../04-how-we-work/agile-baseline/03-methods/2-design/wireframing-guide.md) ([Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE))
-
-### Afternoon check-in with your onboarding manager
 
 ## Day 4
 
@@ -179,5 +172,3 @@
 * UX/Content Strategy/Design track
     * UX-Agile
     * Review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products)
-
-### Afternoon check-in with your onboarding manager
