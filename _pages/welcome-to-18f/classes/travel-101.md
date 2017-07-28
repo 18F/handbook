@@ -31,7 +31,7 @@ You can add the TTS Travel Team schedule to your Google calendar by copying the 
 
 ## Billing
 
-Travel time is billed as general, unless you're working on a project. (Then you can bill your travel time to the project.)
+If you’re traveling for a particular project, bill your time to the project. Otherwise, bill to `General`.
 
 ## Travel card
 
