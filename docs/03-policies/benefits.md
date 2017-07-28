@@ -29,6 +29,7 @@ You do not need to justify timeoff, but (except for unexpected events or emergen
 2. Email <mailto:ca-timeoff@lists.civicactions.net> requesting the time and explain your plan for coverage as discussed with your PM & team.
 3. When the Timeoff is approved, your manager will simply "reply-all" to your original email and add it to the forecasting tool.
 4. Then the admin will put it on the Master Calendar.
+5. Lastly follow the [procedure for logging timeoff](../04-how-we-work/tools/harvest.md).
 
 If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-timeoff@lists.civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. Better to have your manager's phone number handy.
 
