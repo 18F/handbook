@@ -377,11 +377,14 @@ navigation:
     - text: Authority To Operate (ATO)
       url: authority-to-operate/
       internal: true
-    - text: "Federal records policy"
-      url: federal-records-policy-holder/
+    - text: FITARA
+      url: fitara/
       internal: true
-    - text: Open source policy
+    - text: Open source
       url: open-source/
+      internal: true
+    - text: Records management
+      url: records-management/
       internal: true
     - text: Requirements for Passwords
       url: password-requirements/

@@ -10,9 +10,9 @@ A detail is when a person in one agency goes to work at another agency on a temp
 
 ## Details out to external agencies
 
-### Can staff from 18F detail to other federal agencies?
+### Can staff from TTS detail to other federal agencies?
 
-18F can detail individuals to other agencies, however, because of 18F’s financial model (in which we’re required to recover our costs under the authority of the Acquisition Services Fund), a detail is an exception to our general policy of not detailing individuals to other agencies. In general, we enter into agreements with agencies to complete projects, even if the project requires only one staff member to complete. The terms of that arrangement are spelled out under an Interagency Agreement that 18F and the agency agree to, and the agency reimburses 18F for the full-time cost of the individual, which includes salary, benefits, and 18F indirect costs. In some cases, the Executive Director of 18F may approve arrangements that are not reimbursed by the other agency, or involve other special circumstances determined on a case by case basis.
+TTS can detail individuals to other agencies, however, because of TTS's financial model (in which we’re required to recover our costs under the authority of the Acquisition Services Fund), a detail is an exception to our general policy of not detailing individuals to other agencies. In general, we enter into agreements with agencies to complete projects, even if the project requires only one staff member to complete. The terms of that arrangement are spelled out under an Interagency Agreement that TTS and the agency agree to, and the agency reimburses TTS for the full-time cost of the individual, which includes salary, benefits, and TTS indirect costs. In some cases, arrangements that are not reimbursed by the other agency, or involve other special circumstances determined on a case by case basis may be approved.
 
 ### What if an external agency approaches me or 18F about a detail opportunity?
 
@@ -22,11 +22,11 @@ If seeking an exception to the general rule of not doing details, contact your c
 
 ## Details/Assignments in from external agencies
 
-### Can staff from other federal agencies detail into or be assigned into 18F?
+### Can staff from other federal agencies detail into or be assigned into TTS?
 
-Yes. Staff from other agencies can join our team for a specific period of time to work on projects that will ultimately benefit the external agency.  **Project leads must inform chapter directors of the request at the earliest stages**.  This kind of arrangement can be done on a **reimbursable basis**, where 18F pays for the detailee’s salary and benefits, or on a **non-reimbursable basis** where 18F does not pay the other agency back.  **Assignees** are Details that do not require a Memorandum of Agreement (MOA).  For example, team members temporarily joing 18F from from [USDS](https://www.whitehouse.gov/participate/united-states-digital-service) are generally brought over as Assignees.
+Yes. Staff from other agencies can join our team for a specific period of time to work on projects that will ultimately benefit the external agency.  **Project leads must inform chapter directors of the request at the earliest stages**.  This kind of arrangement can be done on a **reimbursable basis**, where TTS pays for the detailee’s salary and benefits, or on a **non-reimbursable basis** where 18F does not pay the other agency back.  **Assignees** are Details that do not require a Memorandum of Agreement (MOA).  For example, team members temporarily joining 18F from from [USDS](https://www.whitehouse.gov/participate/united-states-digital-service) are generally brought over as Assignees.
 
-For **non-reimbursable details**, the lending agency must provide a memo of justification demonstrating that the work performed by the detailee (while with 18F) will ultimately benefit the lending agency.
+For **non-reimbursable details**, the lending agency must provide a memo of justification demonstrating that the work performed by the detailee (while with TTS) will ultimately benefit the lending agency.
 
 In both cases, staff detailing in will need to devote 100 percent of their time to the project they’re assigned over the length of the detail.
 
