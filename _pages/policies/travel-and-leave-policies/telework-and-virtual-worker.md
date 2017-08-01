@@ -129,7 +129,7 @@ This is totally subjective and is not defined either in law or GSA policy, thoug
 
 2. Access your [telework agreement](https://insite.gsa.gov/portal/telework/getTeleworkForm). Your telework coordinator is Citizens Services and Innovative Technologies (X) Telework.
 
-3. Verify that the information is complete and up to date (including your supervisor, phone number, and office location). If your supervisor information is missing, enter it in the Supervisor field. If your phone number is missing, email [accesscard@gsa.gov](mailto:accesscard@gsa.gov) and ask them to add it to your GCIMS profile.
+3. Verify that the information is complete and up to date (including your supervisor, phone number, and office location). If your supervisor information is missing, enter it in the Supervisor field. If your phone number is missing, email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them to add it to your GCIMS profile.
 
 4. Submit your form to your supervisor for approval.
 
