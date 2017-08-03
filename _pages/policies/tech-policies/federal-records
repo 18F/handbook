@@ -58,7 +58,7 @@ Even systems that have been moved to the cloud, like Google Apps for Government,
 
 The only way to make sense of overlapping legal requirements on federal information and records is to first identify the *system owner*. The concept of the system owner is the only common denominator between the various laws (FISMA, Privacy Act, Federal Records Act, etc) and regulations.
 
-Regardless of whether the system is shared or distributed, there is always the concept of *root* or *admin*  user, someone who has final authority over the system, can provision access and rights to other users, and can undertake any action the system's programming can allow. 
+Regardless of whether the system is shared or distributed, there is always the concept of *root* or *admin*  user, someone who has final authority over the system, can provision access and rights to other users, and can undertake any action the system's programming can allow.
 
 The department or agency to which this person belongs is by definition also the system owner, and must be held ultimately responsible for all compliance necessary given the system's functions.
 
@@ -70,7 +70,7 @@ Probably. But it would require significant time and expense to properly categori
 
 ### Doesn't the new Capstone initiative by NARA fix all of this?
 
-No. Capstone is primarily a solution for records management of email, where email records are preserved by schedules determined by the seniority of individuals receiving or sending those emails. 
+No. Capstone is primarily a solution for records management of email, where email records are preserved by schedules determined by the seniority of individuals receiving or sending those emails.
 
 For example, under Capstone, all email sent or received by the head of a department or agency would be kept permanently, while the email of a senior executive may be kept for many years but not permanently.
 
@@ -90,4 +90,3 @@ Further, research indicates most of agencies have *not* yet implemented Capstone
 #### Still have questions?
 
 Ask in Slack: [#legalstuff](https://gsa-tts.slack.com/messages/legalstuff/) or [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)
-
