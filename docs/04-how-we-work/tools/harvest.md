@@ -101,11 +101,12 @@ There are mobile apps that make this part of Harvest easy to use, if you'd like 
 Here is a [quick overview of the expenses feature in Harvest](https://www.getharvest.com/features/expenses).
 
 Directions for submitting expenses:
+
 1. Select your project and category
 2. Enter a description
 3. Enter the amount in USD
 4. Attach a picture of your receipt to each entry
-5. Submit all expenses together if there are multiples (i.e. from work travel)
+5. Only mark "billable" if the expense will be invoiced to a client
 6. EMAIL Judy that you have expenses in Harvest for her review
 
 
