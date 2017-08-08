@@ -1,10 +1,12 @@
 # Trello
 
-## TL;DR
+## Overview
 
-Trello is easy and intuitive. Install the extensions listed below, and you'll figure out everything else you need to know as you go along.
+Trello is easy and intuitive. Install the extensions listed in that section below, and you'll figure out everything else you need to know as you go along.
 
 If you like to live on the edge, skip this reading, but promise to come back in a week or two, maybe when you're a few days into a project that uses Trello, and read it.
+
+* Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
 
 ## About Trello
 
@@ -12,10 +14,7 @@ Trello is a collaborative task and project management tool that we use extensive
 
 Trello is very easy to use, and a robust featureset whose intuitve UI means the features don't get in the way of getting work done. It is well documented at <https://trello.com/guide>, but you probably won't need to read much documentation.
 
-## Get Started with Trello
-
-* Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
-* Getting started [guide](https://trello.com/guide)
+* Review the getting started [guide](https://trello.com/guide)
 * "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
 * Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
 
