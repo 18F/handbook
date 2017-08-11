@@ -421,12 +421,15 @@ navigation:
     - text: Benefits links and resources
       url: benefits-links/
       internal: true
-    - text: Employee assistance program
-      url: employee-assistance-program/
-      internal: true
     - text: Emergency procedures
       url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
       internal: false
+    - text: Employee assistance program
+      url: employee-assistance-program/
+      internal: true
+    - text: Employment verification
+      url: employment-verification/
+      internal: true
     - text: Overtime and comp time
       url: overtime-and-comp-time/
       internal: true
