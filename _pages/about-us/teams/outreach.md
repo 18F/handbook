@@ -68,7 +68,7 @@ Here's the guide on [how to draft and publish the internal newsletter](https://d
 
 ## Speaking and events
 
-If you’re speaking at an event, ping us in [#outreach](https://gsa-tts.slack.com/archives/outreach) so we can provide you with team talking points, take a look at your presentation, and help you promote the event. If you've been asked to speak at an event or you want to submit a proposal, ping the [#conferences team](https://gsa-tts.slack.com/archives/conferences) and check the[Getting Event/Conference Approval](https://docs.google.com/a/gsa.gov/drawings/d/1J_kPqlmRHKSnhHRU3WphO-skuQ5tQxIHrIHmsF0TDNg/edit?usp=sharing) guide.
+If you’re speaking at an event, ping us in [#outreach](https://gsa-tts.slack.com/archives/outreach) so we can provide you with team talking points, take a look at your presentation, and help you promote the event. If you've been asked to speak at an event or you want to submit a proposal, ping the [#conferences team](https://gsa-tts.slack.com/archives/conferences) and check the [Getting Event/Conference Approval](https://docs.google.com/a/gsa.gov/drawings/d/1J_kPqlmRHKSnhHRU3WphO-skuQ5tQxIHrIHmsF0TDNg/edit?usp=sharing) guide.
 
 If you’re looking for help with a slide deck for a presentation, you can find resources on the [18F Branding site](https://pages.18f.gov/brand/presentation-themes/). We also have a couple previous decks that have ready-to-use slides about 18F’s history, the digital service ecosystem, and the basics of 18F’s model.
 
