@@ -7,7 +7,7 @@ As a requirement for employment, every employeed must review and acknowledge the
 * [Information Classification Policy](../../03-policies/security.md#information-classification-policy)
 * [Acceptable Use Policy](../../03-policies/security.md#acceptable-use-policy)
 * [Access Policy](../../03-policies/security.md#access-policy)
-* [Password Policy](../../03-policies/security.md#password)
+* [Password Policy](../../03-policies/security.md#password-policy)
 * [Server &amp; Site Security](../../03-policies/security.md#server--site-security)
 
 <!-- TODO: include link to Judy and/or digital document signing -->
@@ -18,7 +18,7 @@ Every employee and contractor at CivicActions practices safe and secure computin
 
 * [Securing our Laptops](../../09-security/awareness.md#securing-your-laptop)
 * [Using Password Management Tools](../../09-security/awareness.md#password-management-tools)
-* [Using Multi-Factor Authentication](../../09-security/awareness.md#tfa)
+* [Using Multi-Factor Authentication](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
 * [Increasing our awareness of Phishing and Social Engineering](../../09-security/awareness.md#phishing-and-social-engineering)
 * [Keeping our Personal Systems up-to-date](../../09-security/awareness.md#keep-your-systems-up-to-date)
 * [Employing Disk Encryption and Secure Storage Management](../../09-security/awareness.md#disk-encryption-and-storage-management)
