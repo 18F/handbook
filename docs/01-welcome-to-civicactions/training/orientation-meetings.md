@@ -40,9 +40,9 @@
 
 * Review account in [Harvest](../../04-how-we-work/tools/harvest.md) and start logging your time daily
 
-* Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md) on logging time
+* Read the [Harvest documentation](../../04-how-we-work/tools/harvest.md#logging-time) on logging time
 
-* Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md)
+* Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#tracking-expenses)
 
 * How to log onboarding time:
     * Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
@@ -54,32 +54,32 @@
 
 * Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md)
 
-    * [Slack](../../04-how-we-work/tools/basic-communication-tools.md)
-    * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md)
-        * [Email](../../04-how-we-work/tools/basic-communication-tools.md)
-        * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md)
-        * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md)
-        * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md)
-    * [Zoom](../../04-how-we-work/tools/basic-communication-tools.md)
-    * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md)
+    * [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
+    * [Google Apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
+        * [Email](../../04-how-we-work/tools/basic-communication-tools.md#email)
+        * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
+        * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#google-hangouts)
+        * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
+    * [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#zoom)
+    * [Telephone Use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
 
 
 ### Get to Know Your Colleagues
 
 * Read about [Balance Scores](../../04-how-we-work/balance-scores.md)
-* Read about [All hands calls](meetings-and-meeting-tools.md)
+* Read about [All hands calls](meetings-and-meeting-tools.md#all-hands-calls)
 * Review [Org Chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing)
 * Review [Team Bios](https://civicactions.com/team/)
-* Intro to [pod calls](meetings-and-meeting-tools.md)
+* Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)
 
 ## Day 2
 
 ### Time Off and Scheduling
 
-* Review vacation time / requests [policies](../../03-policies/benefits.md)
+* Review vacation time / requests [policies](../../03-policies/benefits.md#timeoff)
 * Do you have any pre-approved time off requests?
-    * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits.md) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
-* Review [CivicActions holiday schedule](../../03-policies/benefits.md)
+    * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits.md#timeoff) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
+* Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays)
 * Review [Professional development & community participation](../../03-policies/prodev-community-participation.md)
 
 ### Project Overview Info (part 1)
@@ -89,7 +89,7 @@
     * Discuss the project that the new team member will be introduced to.
     * Discuss: goals of the project, Product Owner, stakeholders, team members, technologies used, ticket review, project status
 * Introduction to the [Scrum Call structure](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md)
-* Overview of Scrum ceremonies: [Retrospectives, Sprint Planning, Backlog Grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md)
+* Overview of Scrum ceremonies: [Retrospectives, Sprint Planning, Backlog Grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retrospectives)
 * Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 * Read about the [Gold Star Program](../../04-how-we-work/gold-star-program.md)
 * Watch these training videos for an introduction to Scrum
@@ -101,7 +101,7 @@
 * Review [Virtual Workplace Basics](../../04-how-we-work/virtual-workplace-basics.md):
     * Starting and Ending a Day with a Remote Team
     * Heading offline for short periods of time
-    * [Communication Best Practices](../../04-how-we-work/virtual-workplace-basics.md) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
+    * [Communication Best Practices](../../04-how-we-work/virtual-workplace-basics.md#communication-best-practices) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
     * Talking in Timezones
     * Tour our [Virtual Workspaces](https://trello.com/b/TJsUalpG/our-workspaces) Trello board
 
@@ -135,9 +135,9 @@
 ### Security for Everyone
 
 * Review the [Security Policy](../../03-policies/security.md). Read this policy, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
-    * Overview of [password management](../../03-policies/security.md)
-    * Set up [Lastpass](../../09-security/awareness.md)
-    * Set up [TFA](../../09-security/awareness.md)
+    * Overview of [password policy](../../03-policies/security.md#password-policy)
+    * Set up [Lastpass](../../09-security/awareness.md#lastpass)
+    * Set up [TFA](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
     * Review [Security Awareness and Tools](../../09-security/awareness.md)
     * Complete [Security Checklist](https://docs.google.com/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit#gid=0)
 * Complete this online [PII course](http://cdsetrain.dtic.mil/piiv2/index.htm)
