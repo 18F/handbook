@@ -29,19 +29,6 @@ A mentor typically has been with CivicActions for at least six months to one yea
 * Answer questions
 * Stimulate conversation
 
-## Template: Initial email to new hire from Onboarding Manager
+## Cross Functional Mentorship
 
-*(For reference only. Onboarding manager will send this).*
-
-\[Mentor], I thought you would be a good mentor to team up with \[new hire] as s/he's still getting his feet wet with CivicActions. new hire is a \[role] working on the project. S/He started on \[date] with us.
-\[New hire] has made great progress with settling into her/his project & role here, but there are inevitably still questions, best practices, workflows, etc that you two can work through.
-\[New hire] feel free to reach out to \[mentor] with any \[role] related questions. I am still always available for a touch point as well!
-
-I would love to see the two of you schedule a 15-30+ minute touch point twice a week for the next month. This can start anytime this week for the first one. Find a time slot that works for both of you and make a standing meeting hangout for the next 4 weeks.
-Then for the following month please continue a once a week meeting for 15-30 minutes as well. Find a time slot that works for both of you and make a standing meeting hangout for those following 4 weeks as well.
-Beyond these eight weeks, you are both welcome to continue to meet if you find value and/or fun in doing so!
-
-## Other misc info for future consideration:
-
-* Cross functional mentorship
-* Your cross functional mentor is someone who is in a role opposite of your own. You may choose which cross functional role you’d like mentorship in and this can become part of your [professional development](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation).
+* Your cross functional mentor is someone who is in a role opposite of your own. You may choose which cross functional role you’d like mentorship in and this can become part of your [professional development](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation). 

@@ -10,14 +10,14 @@ Remember that you can book time on your own calendar. We recommend blocking off 
 
 Also, if you're planning a meeting, be sure to state your goal (what the meeting is and what it isn't) in an agenda and invite description.
 
-### <a name="ahc"></a>All Hands Calls
+### All Hands Calls
 
 Our weekly all hands call includes everyone across CivicActions, and it's how the team disseminates news, updates, and congratulations. It takes place on Mondays at 10am PST and monthly on Fridays at 1pm PST. You aren't required to attend the all hands, but you are strongly encouraged to – it's where big announcements are made, and attending is a great way to put names to faces. The agenda is posted beforehand in [#announcements](https://civicactions.slack.com/messages/announcements) and chatter during and following the call happens in [#ahc](https://civicactions.slack.com/messages/ahc). You can submit ideas for future all-hands calls on the [All Hands Call (AHC) Planning Trello board](https://trello.com/b/Yj3XOSWD/all-hands-call-ahc-planning).
 We also have an hour-long monthly all hands call. Upcoming monthly AHCs are announced in the [#announcements](https://civicactions.slack.com/messages/announcements) channel.
 
 #### All Hands Calls Overview
 
-* We use Zoom for this (see [more about zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom))
+* We use Zoom for this (see [more about Zoom](../../04-how-we-work/tools/basic-communication-tools.md))
 * Everyone on team is encouraged to join
 * Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
 * Meetings occur frequently as listed below
@@ -35,7 +35,7 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 * Topics are usually company standing, sales pipeline, new hires, new projects, big announcements
 * Led primarily by the management team
 
-### <a name="pod-calls"></a>Pod Calls
+### Pod Calls
 
 Weekly pod calls help us stay in touch and in tune with each other. These are loosely arranged by time zone, and are generally casual and chatty in tone.
 
@@ -44,7 +44,7 @@ Weekly pod calls help us stay in touch and in tune with each other. These are lo
 * Pod calls help us feel connected with the team as a whole
 * We discuss a topic of common interest or give project updates
 
-### <a name="scrum-call"></a>Daily Scrum Calls
+### Daily Scrum Calls
 
 Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling. Standups *usually* take this form:
 
@@ -55,7 +55,7 @@ Daily scrum calls are project-specific meetings. These short meetings are a scru
 
 For more specific information, see [Daily Scrum Calls](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md).
 
-### <a name="retro"></a>Retrospectives
+### Retrospectives
 
 Another project-specific meeting is the retrospective (called a retro, for short). This usually happens at the end of a sprint and takes between 30 minutes to an hour.
 
@@ -79,6 +79,6 @@ For more detail, read our  [Backlog grooming](../../04-how-we-work/agile-baselin
 
 Here are links to more information about how CivicActions uses specific tools to facilitate meetings.
 
-* [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
-* [Google Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#hangouts)
-* [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#bluejeans-zoom) 
+* [Google Calendar](../../04-how-we-work/tools/basic-communication-tools.md)
+* [Google Hangouts](../../04-how-we-work/tools/basic-communication-tools.md)
+* [Zoom](../../04-how-we-work/tools/basic-communication-tools.md)

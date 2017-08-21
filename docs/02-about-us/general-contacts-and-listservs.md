@@ -20,10 +20,10 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 
 * [CivicActions team roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit#gid=0)
 
-### Listservs
+## Listservs
 
 * Team-wide communication: ca-team@lists.civicactions.net
-* Request PTO: ca-timeoff@lists.civicactions.net
+* Request Timeoff: ca-timeoff@lists.civicactions.net
 * HR Notices: ca-employees@lists.civicactions.net
 * Engineering: ca-dev@lists.civicactions.net
 * Project Management: ca-pm@lists.civicactions.net

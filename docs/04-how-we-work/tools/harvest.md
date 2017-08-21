@@ -4,7 +4,7 @@
 
 Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include Jira and Trello integrations and a mobile app.
 
-## <a name="account"></a>Update Your Account and Profile
+## Update Your Account and Profile
 
 Your Harvest login will be your email address: `first.last@civicactions.com`. Check your email for an invitation!
 Then:
@@ -14,7 +14,7 @@ Then:
 * Check to make sure that your time zone is correct
 * If you know which project(s) you'll be working on, make sure that they're correct (or request updates from your onboarding manager)
 
-## <a name="time"></a>Logging Time
+## Logging Time
 
 ### How to Enter Time
 
@@ -85,7 +85,7 @@ The Trello integration will require that you install the Chrome extension found 
 
 * Harvest has some other plugins & add-ons found here: <https://www.getharvest.com/add-ons>
 
-## <a name="expenses"></a>Tracking Expenses
+## Tracking Expenses
 
 Track expenses in the Harvest Expense tracking section.
 
@@ -101,11 +101,12 @@ There are mobile apps that make this part of Harvest easy to use, if you'd like 
 Here is a [quick overview of the expenses feature in Harvest](https://www.getharvest.com/features/expenses).
 
 Directions for submitting expenses:
+
 1. Select your project and category
 2. Enter a description
 3. Enter the amount in USD
 4. Attach a picture of your receipt to each entry
-5. Submit all expenses together if there are multiples (i.e. from work travel)
+5. Only mark "billable" if the expense will be invoiced to a client
 6. EMAIL Judy that you have expenses in Harvest for her review
 
 
@@ -117,7 +118,7 @@ Directions for submitting expenses:
 
 ![Harvest screenshot 11](../../images/harvest11.png)
 
-## <a name="tracking-paid-time-off"></a>Tracking Timeoff
+## Tracking Timeoff
 
 We track vacation, leave and sick time and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. Timeoff will not negatively impact your billable hour percentage.
 
@@ -142,7 +143,7 @@ You do NOT need to log entries when the office is closed for a Holiday
 
 If you are often "on-the-go" consider downloading the Harvest App.
 
-This is also great for (and almost required) for any onsite trips & conferences. It makes entering time easy, but also makes entering your expenses a snap. You can take a photo of your receipt right from the Harvest App - no more worries about losing that receipt or having to enter them all after your trip. It will also provide visibility on the total expense costs while traveling. 
+This is also great for (and almost required) for any onsite trips & conferences. It makes entering time easy, but also makes entering your expenses a snap. You can take a photo of your receipt right from the Harvest App - no more worries about losing that receipt or having to enter them all after your trip. It will also provide visibility on the total expense costs while traveling.
 
 * <https://www.getharvest.com/android>
 * <https://www.getharvest.com/iphone>

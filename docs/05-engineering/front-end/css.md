@@ -58,7 +58,7 @@
         .js-behaviour-hook // e.g. .js-slider, .js-dropdown
       ```
 
-## <a name="cross-browser-compatibility"></a>Cross-Browser Compatibility
+## Cross-Browser Compatibility
 
 * We incorporate cross-browser testing and fixes into each chunk of theming work - this prevents build up, and keeps things agile and releasable.
 * We use <http://crossbrowsertesting.com/> (credentials on civicactions.net) to test.

@@ -5,7 +5,7 @@ updated: May 9, 2017
 
 # Benefits
 
-## <a name="holidays"></a>Holidays
+## Holidays
 
 The following holidays are observed by CivicActions and the office is considered closed:
 
@@ -19,7 +19,7 @@ The following holidays are observed by CivicActions and the office is considered
 
 Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation.
 
-## <a name="pto"></a>Timeoff
+## Timeoff
 
 Timeoff applies to exempt employees. We do not accrue sick days, vacation days or any other form of Timeoff. Instead, employees are encouraged to take time off as needed to feel balanced, productive and healthy.
 
@@ -27,10 +27,11 @@ You do not need to justify timeoff, but (except for unexpected events or emergen
 
 1. If you are working on an active project, discuss the impact of your absence with your project manager (this is especially important if there is flexibility in your dates) to get coverage and understand project impact.
 2. Email <mailto:ca-timeoff@lists.civicactions.net> requesting the time and explain your plan for coverage as discussed with your PM & team.
-3. When the Timeoff is approved, your manager will simply "reply-all" to your original email and add it to the forecasting tool.
+3. When the Timeoff is approved, your manager will simply "reply-all" to your original email and add it to the Harvest Forecast tool.
 4. Then the admin will put it on the Master Calendar.
+5. Lastly, follow the [procedure for logging timeoff](../04-how-we-work/tools/harvest.md).
 
-If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-timeoff@lists.civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. Better to have your manager's phone number handy.
+If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-timeoff@lists.civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. You should consider having your manager's phone number handy. Lastly, follow the procedure for [logging sick time off](../04-how-we-work/tools/harvest.md) in Harvest with CivicActions. 
 
 Timeoff will be recorded simply to easily see any patterns that might otherwise be overlooked, including non-use. Unless it will cause an extreme hardship on the company and your team, no request for Timeoff under two weeks will be turned down.
 

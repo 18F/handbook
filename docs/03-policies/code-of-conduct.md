@@ -5,13 +5,13 @@ updated: May 9, 2017
 
 # Code of Conduct
 
-## <a name="general-guideline"></a>General Guidelines
+## General Guidelines
 
 Successful operation of CivicActions requires that all of us be respectful of, and open with, one another. This is a community of trust and it needs straight-forward, non-critical dialogue to accomplish its goals. There's little that can't be resolved with honest appraisal and an attitude of cooperation. We don't compete here, and we try really hard to avoid back-biting and complaining.
 
 That's not to say we don't annoy or otherwise drive each other a little nuts occasionally. It happens. If an issue is not easily resolved, there is a "Complaint Resolution Policy" in [Required Stuff](required-stuff.md).
 
-## <a name="code-conduct"></a>Code of Conduct
+## Code of Conduct
 
 Within a virtual working environment communication is vital to keeping a collaborative, healthy and fun atmosphere. We want to foster an open, inclusive, and diverse culture with the freedom to be ourselves. With that in mind we also want to ensure that everyone here is treated fairly and also feels safe and welcome. We have a variety of communication tools and forums, including Slack, Hangouts, and in-person events, and the code of conduct is intended for all of them.
 
@@ -31,6 +31,6 @@ If you believe someone is violating the code of conduct, please speak to your ma
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
 Portions of text derived from the Citizen Code of Conduct and the Geek Feminism Anti-Harassment Policy.
 
-## <a name="personappearance"></a>Personal Appearance
+## Personal Appearance
 
 Be appropriate for the client you are meeting either face-to-face or via video conferencing. If you have any questions, you should contact your manager for suggestions.
