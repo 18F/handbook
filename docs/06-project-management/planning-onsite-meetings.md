@@ -1,8 +1,8 @@
-# Planning Onsite Meetings
+# Planning Travel and Onsite Meetings
 
-We sometimes meet with clients "onsite," in their offices or elsewhere, to conduct discovery research and/or product demos and evaluation during the development process. The following checklists and templates are guidelines, not requirements. Do as much planning as is appropriate for your specific project.
+We sometimes meet with clients "onsite," in their offices or elsewhere, to conduct sales meetings, discovery research and/or product demos and evaluation during the development process. Anytime travel is involved, use the [CivicActions Travel Details form](https://docs.google.com/a/civicactions.com/forms/d/e/1FAIpQLSft4CpmAI0lbwnhm0AuMyPD2XTJdmrACxo6OvebNQp5ele7SA/viewform) as a starting point for your planning (this helps Judy with coordination). Do as much planning as is appropriate for your specific project.
 
-## Onsite Planning Checklist
+## Onsite Planning Guidelines
 
 * Create a Trello board for keeping track of all the details: lodging, meals, transportation, prep tasks, etc. See [TEMPLATE: Onsite Meeting Planning](https://trello.com/b/bAaDzP0s/template-onsite-meeting-planning).
 * Create a budget for the onsite meeting period.
