@@ -59,3 +59,7 @@ You are under no obligation to send out a farewell email, but if you do, please 
 ### Slack
 
 As you leave, you’re encouraged to join the [#alumni](https://gsa-tts.slack.com/messages/C0DH5B68Y) channel on Slack.
+
+### Writing a post on your personal blog
+
+If you want to write a post on your personal blog about your experiences in government or why you’re leaving, it is recommended that you wait until you are no longer on staff before you hit “Publish.” This helps to avoid any issues with Hatch Act compliance and with inadvertently writing or speaking on behalf of GSA without permission.
