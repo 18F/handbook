@@ -2,7 +2,7 @@
 title: Sensitive information
 ---
 
-Here's what you need to know about sensitive information at 18F.
+Here's what you need to know about sensitive information at TTS.
 
 ## What is considered sensitive?
 
@@ -10,7 +10,7 @@ To learn what information we consider sensitive, see [our Open Source Policy pra
 
 ## Tools
 
-18F offers a few different tools for sharing sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
+TTS offers a few different tools for sharing sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
 
 ### Git Seekret
 
