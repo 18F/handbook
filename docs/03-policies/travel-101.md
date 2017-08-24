@@ -15,7 +15,7 @@ Travel time is usually billed to a specific project.
 
 ## Expense Reimbursement
 
-CivicActions will timely reimburse business-related out-of-pocket expenses as long as you submit a receipt. See [Tracking Expenses in Harvest](../04-how-we-work/tools/harvest.md) for details on the reimbursement process.
+CivicActions will timely reimburse business-related out-of-pocket expenses as long as you submit a receipt. See [Tracking Expenses in Harvest](../04-how-we-work/tools/harvest.md#tracking-expenses) for details on the reimbursement process.
 
 ## Mileage Reimbursement
 
