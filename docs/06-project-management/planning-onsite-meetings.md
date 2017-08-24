@@ -1,6 +1,6 @@
 # Planning Travel and Onsite Meetings
 
-We sometimes meet with clients "onsite," in their offices or elsewhere, to conduct sales meetings, discovery research and/or product demos and evaluation during the development process. Anytime travel is involved, use the [CivicActions Travel Details form](https://docs.google.com/a/civicactions.com/forms/d/e/1FAIpQLSft4CpmAI0lbwnhm0AuMyPD2XTJdmrACxo6OvebNQp5ele7SA/viewform) as a starting point for your planning (this helps Judy with coordination). Do as much planning as is appropriate for your specific project.
+We sometimes meet with clients "onsite," in their offices or elsewhere, to conduct discovery research and/or product demos and evaluation during the development process. Anytime travel is involved, use the [CivicActions Travel Details form template](https://docs.google.com/forms/d/19rqLkEh1xzjpri-vfN68xxmXvfcb5ThmmzJu1I6YYnM/edit) as a starting point for your planning. **Please make a copy of the template before filling it out.** Do as much or as little planning as is appropriate for your specific project.
 
 ## Onsite Planning Guidelines
 
