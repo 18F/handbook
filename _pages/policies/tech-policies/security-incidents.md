@@ -4,6 +4,14 @@ title: Security incidents
 
 Something went "bump" in the night (or the day)? This document explains what to do when responding to a security incident. See [What is an incident?](#what-is-an-incident) if you need help determining whether something counts as an incident.
 
+## Security incidents: You must report IT security incidents or suspicious activity
+
+An “incident” or “information security incident” can be thought of as a violation or imminent threat of violation of information security or privacy policies, acceptable use policies, or standard security practices. 
+
+See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https://insite.gsa.gov/portal/content/539161) if you need help determining whether something counts as an incident. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to: [ITServiceDesk@gsa.gov](mailto: ITServiceDesk@gsa.gov) or 1-866-450-5250.  
+
+If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. For questions about GSA’s Incident Response Program, contact the GSA Incident Response (IR) Team at [gsa-ir@gsa.gov](mailto:gsa-ir@gsa.gov).
+
 ## Reporting phishing emails
 If you receive a phishing email, follow these steps to report to GSA IT:
 
@@ -49,7 +57,7 @@ First, it's important to note: it's always OK to err on the side of reporting! [
 
 On to the answer to "what is an incident?": in a nutshell, an incident is anything that compromises (or could compromise) our "CIA": **Confidentiality, Integrity, or Availability.**
 
-- **Confidentiality** means: "secrets". So personal information (PII) — names, phone numbers, social security numbers, etc — is one very important secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that any confidential information may have been leaked outside 18F, you should open an incident.
+- **Confidentiality** means: "secrets". So personal information (PII) — names, phone numbers, social security numbers, etc — is one very important secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that any confidential information may have been leaked outside TTS, you should open an incident.
 
 - **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or if a app stopped logging for a while, or if some documents got deleted — those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these, as well.
 
