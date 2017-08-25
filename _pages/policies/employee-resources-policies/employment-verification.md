@@ -14,7 +14,7 @@ tags:
 - income
 ---
 
-_How to get a letter verifying your employment_
+_How to provide verificaion of employment at GSA and salary_
 
 ## Employment Verification
 
