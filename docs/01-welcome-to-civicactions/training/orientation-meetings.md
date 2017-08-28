@@ -13,8 +13,16 @@
     * Benefits selection
     * Anti-Harassment Training (visit "My Company", then select "Training")
 
-
 * Review and acknowledge [Conflict of Interest (COI) plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
+
+* Review the following CivicActions' policies:
+    * [Annual Review Process](../../03-policies/annual-review-process.md)
+    * [Code of Conduct](../../03-policies/code-of-conduct.md)
+    * [Compensation](../../03-policies/compensation.md)
+    * [Employment](../../03-policies/employment.md) & [At-Will Employment](../../03-policies/leaving-civicactions.md)
+    * [Health, Safety and Security](../../03-policies/health-safety-security.md)
+    * [Travel 101](../../03-policies/travel-101.md)
+    * [Workplace Guidelines](../../03-policies/workplace-guidelines.md)
 
 ### First Orientation
 
@@ -140,7 +148,8 @@
     * Set up [TFA](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
     * Review [Security Awareness and Tools](../../09-security/awareness.md)
     * Complete [Security Checklist](https://docs.google.com/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit#gid=0)
-* Complete this online [PII course](http://cdsetrain.dtic.mil/piiv2/index.htm)
+* Read about [FOSS/Open Source](../../01-welcome-to-civicactions/training/intro-open-source.md)
+* If asked, complete this online [PII course](http://cdsetrain.dtic.mil/piiv2/index.htm)
 
 ### UX for Everyone
 
@@ -155,6 +164,7 @@
 * Work on completing the [Security Checklist](https://docs.google.com/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit#gid=0)
 * [Skillset Survey](../skillset-survey.md)
 * Read about & learn [Markdown](../../04-how-we-work/tools/markdown.md)
+* Read the [common vocab](../../04-how-we-work/common-vocab.md) page
 * Introduction to [Presentation Slides Template](../../04-how-we-work/tools/presentation-slides.md)
 * Review CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md)
 * Any additional tasks from above days that have not yet been completed
