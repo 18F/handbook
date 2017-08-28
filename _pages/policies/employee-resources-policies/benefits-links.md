@@ -32,13 +32,13 @@ TTS has a dedicated benefits specialist within GSA who can assist you with quest
 
 Contact for medical insurance, life insurance, and retirement account questions and enrollment.
 
-Marty's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or reaching out to [#talent](https://gsa-tts.slack.com/messages/talent). 
+Marty's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent). 
 
 ### Leila Knight
 
 Contact for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
-Leila's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+Leila's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 --------------------------------------------------------------------------------
 
