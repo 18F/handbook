@@ -4,13 +4,13 @@ title: General contacts and listservs
 
 Contacts, email groups, and government-related newsletters.
 
-## 18F information
+## TTS information
 
 Information you might need for filling out GSA forms:
 
 * **Agency:** General Services Administration
 * **Organization:** Citizen Services and Innovative Technologies
-* **Correspondence symbol:** TE (followed by several other letters, depending on your chapter/business unit) [More about correspondence symbols](https://insite.gsa.gov/portal/content/500188). Find yours by searching the [GSA directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action).
+* **Correspondence symbol:** T (followed by several other letters, depending on your org/chapter/business unit) [More about correspondence symbols](https://insite.gsa.gov/portal/content/500188). Find yours by searching the [GSA directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action).
 * **Telework Agreement Location:** 00
 
 ## Team contact information
