@@ -1,10 +1,10 @@
 ---
-title: Diversity At 18F
-navtitle: Diversity At 18F
+title: Diversity At TTS
+navtitle: Diversity At TTS
 ---
 
-18F believes that diversity matters and is vital to a successful organization.
-18F is committed to promoting an inclusive environment where all individuals
+TTS believes that diversity matters and is vital to a successful organization.
+TTS is committed to promoting an inclusive environment where all individuals
 are empowered to succeed.
 
 ## <a id="documentation">Documentation</a>
@@ -19,7 +19,7 @@ to solve that we created the
 
 ## <a id="diversity-guild">Diversity Guild</a>
 
-The Diversity [Guild](/working-groups-and-guilds-101/) strives to make 18F a great place to work for people of all backgrounds; to foster diversity of all kinds; and to create a culture where people feel safe, work joyfully, and communicate openly. It aims to do this all while providing great services for the American people.
+The Diversity [Guild](/working-groups-and-guilds-101/) strives to make TTS a great place to work for people of all backgrounds; to foster diversity of all kinds; and to create a culture where people feel safe, work joyfully, and communicate openly. It aims to do this all while providing great services for the American people.
 
 ### <a id="leadership">Leadership</a>
 
@@ -54,7 +54,7 @@ The Diversity Guild tracks its progress on Trello. If you&rsquo;re interested in
 
 ### <a id="how-to-get-involved">How to get involved</a>
 
-Not only does the Diversity Guild a space for learning, it also promotes the belief in sharing what you've learned. The group is developing a Diversity Guide that has the goal of providing insight on how 18F integrates diversity principles at every point: from recruitment, interviewing, and onboarding to retention, such as professional development and benefits.
+Not only does the Diversity Guild a space for learning, it also promotes the belief in sharing what you've learned. The group is developing a Diversity Guide that has the goal of providing insight on how TTS integrates diversity principles at every point: from recruitment, interviewing, and onboarding to retention, such as professional development and benefits.
 
 If you&rsquo;re interested in getting involved:
 
