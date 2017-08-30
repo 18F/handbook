@@ -1,7 +1,7 @@
 ---
 title: Products and Platforms
 ---
-Products and Platforms is one of the 4 business units within 18F. We strive to incubate tools for digital government.
+Products and Platforms is one of 18F's business units. We strive to incubate tools for digital government.
 
 ## Projects
 
