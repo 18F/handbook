@@ -14,12 +14,11 @@ As you set up your 18F accounts and devices, we have three requirements for maki
 
 There's a secret to dealing with passwords: use a password manager to store your passwords. This way, you only need to memorize a few strong passwords: your master password for the password manager, your laptop password and phone passcode, and maybe a few others (such as your iCloud password if that's [your recovery method for forgetting your laptop password](/equipment/#laptop)).
 
-[**KeePassX**](https://www.keepassx.org/) and [**Zetetic Codebook**](https://www.keepassx.org/) are password managers approved for work at 18F. KeePassX is a free download. You can get a license for Codebook by submitting a [Service Catalog Request](
-https://gsa.service-now.com/nav_to.do?uri=%2Fcatalog_home.do%3Fsysparm_view%3Dcatalog_default). 
-
-You can use Google Drive to sync Zetetic Codebook across devices. Local storage only may be used with KeePassX. 
-
-Additionally, Google Sheets is approved as a syncing password management solution.
+Password managers approved for work at GSA:
+* [**KeePassX**](https://www.keepassx.org/). KeePassX is a free download and open source. The password database is stored locally on your computer.
+* [**Zetetic Codebook**](https://www.zetetic.net/codebook/) You can get a license for Codebook by submitting a [Service Catalog Request](
+https://gsa.service-now.com/nav_to.do?uri=%2Fcatalog_home.do%3Fsysparm_view%3Dcatalog_default). You can use Google Drive to sync Zetetic Codebook across devices. 
+* Google Sheets is approved as a password management solution.
 
 **1Password**: Please note that 1Password is no longer an approved password manager.
 
