@@ -42,4 +42,4 @@ For certain projects, clients need TTS employees to have this type of clearance 
 
 ### Still have questions?
 
-Ask [#talent](https://gsa-tts.slack.com/messages/talent) or [TTS-Talent-team@gsa.gov](mailto:TTS-Talent-team@gsa.gov)
+Ask [#talent](https://gsa-tts.slack.com/messages/talent) or [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov)
