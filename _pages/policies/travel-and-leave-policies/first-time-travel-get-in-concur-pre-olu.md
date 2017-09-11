@@ -37,7 +37,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
 6. **Get tickets**: E-tickets will be sent to the email address that you provided. Once a reservation is made, you will get a “pending” itinerary, which will be finalized, depending on the airline, no later than 72 hours before departure.
 
-7. **Book hotels** Until you can get a GSA travel card (read more about this [here](https://handbook.18f.gov/first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses upfront. But with a valid receipt, you will get reimbursed! Just make sure to stay at a place with rates under the government maximum (also known as per diem). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
+7. **Book hotels** Until you can get a GSA travel card (read more about this [here](https://handbook.18f.gov/first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses upfront. But with a valid receipt, you will get reimbursed (generally takes 2+ months after submitting expenses).  Just make sure to stay at a place with rates under the government maximum (also known as per diem). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
 
    The recommended resource for booking hotels as a Federal government employee is [Fedrooms.com](http://fedrooms.com).
 
