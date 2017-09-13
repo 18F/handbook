@@ -46,8 +46,7 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
 - Provide [TTS Exit Interview Questionnaire](https://goo.gl/forms/jBmNLwg8Y4ZY4n4s1) to offboarding employee.
   - For offboarding interns, use [this survey](https://goo.gl/forms/XOy7QO4zcnz6LyLh1).
 - Conduct an exit interview based on the responses to the questionnaire.
-  - Documentation will be kept anonymous.
-  - After three samples are gathered, look for trends.
+  - Documentation will be kept anonymous, but content may be used in aggregate to highlight trends.
 - Complete the [clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with the employee.
 
 ## Exiting gracefully
