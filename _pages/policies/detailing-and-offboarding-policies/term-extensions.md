@@ -8,7 +8,7 @@ This guide covers how to extend your time at TTS after two years.
 
 Most employees at TTS (specifically 18F, PIF & ACQ) are hired on term appointments under the Schedule A direct hiring authority, which sets a limit of two years for the initial period of employment with the option to renew for up to two additional years for a maximum term of four years.
 
-## Renew your term
+## Extend your term
 
 1)  Connect with your supervisor(s) six months before your initial two-year term expires to discuss your options.
 
