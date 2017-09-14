@@ -209,18 +209,18 @@ Then, you can go ahead and [Add new training request to existing SF-182](https:/
 * Per diem (Indirect Cost)
 * Supervisor
 * Approver 1 (your supervisor's name again)
-* Approver 2 is Dave Zvenyach, but only for trainings costing over $3,000.
+* Approver 2 is Dave Zvenyach, but only for trainings costing over $3,500.
 * Purchase card holder is Ethan Heppner
 
 Save your SF-182 request when finished. You will be notified automatically when it is approved.
 
-#### Does the training or conference cost over $3,000?
+#### Does the training or conference cost over $3,500?
 
-There are a few special rules for trainings of conferences that cost over $3,000:
+There are a few special rules for trainings of conferences that cost over $3,500:
 
-**If registration for an individual training or conference costs over $3,000**, the 18F executive director (Dave Zvenyach) must be listed as a second line approver on the SF-182.
+**If registration for an individual training or conference costs over $3,500**, the 18F executive director (Dave Zvenyach) must be listed as a second line approver on the SF-182.
 
-**If total registration fees for an individual *or* group training or conference cost over $3,000**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that TTS can pay via credit card. Pia will also add [Ethan Heppner](mailto:ethan.heppner@gsa.gov) as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS number, which is also required when the federal government makes a purchase over $3,000 from any vendor.
+**If total registration fees for an individual *or* group training or conference cost over $3,500**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that TTS can pay via credit card. Pia will also add [Ethan Heppner](mailto:ethan.heppner@gsa.gov) as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS number, which is also required when the federal government makes a purchase over $3,500 from any vendor.
 
 #### Are you attending a conference or training at a conference?
 
@@ -259,7 +259,7 @@ If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re 
 
 ## Mentorship
 
-We have been slowly working on support for mentorship at TTS, including running a pilot program for some initial pairs of folks who have been interested in helping get things started. If you would like to learn more and/or participate, please see the [Mentorship](/mentorship) page for more details!
+Mentorship at TTS is available, currently we are running a pilot program for folks, who got it started. If you would like to learn more and/or participate, please see the [Mentorship](/mentorship) page for more details!
 
 ## Self-directed study for engineers
 
