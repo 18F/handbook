@@ -8,7 +8,7 @@ _This section provides a brief overview of GitHub._
 
 ### Documentation
 
-- [GitHub](/github/) - A detailed guide on how we use GitHub at 18F.
+- [GitHub](/github/) - A detailed guide on how we use GitHub at TTS.
 
 - [GitHub for Beginners](http://www.digitalgov.gov/event/github-for-beginners/) - Intended for beginners, this video class is led by Will Slack. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18) and course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
 
@@ -18,7 +18,7 @@ _This section provides a brief overview of GitHub._
 
 [GitHub](https://github.com) is a publicly accessible place to share and collaborate on (primarily) open source software projects. GitHub interacts with a program on your computer called Git that tracks every change ever made in a software project.
 
-You&rsquo;ve probably already noticed there&rsquo;s a lot happening on GitHub at 18F. That&rsquo;s because it&rsquo;s so useful! In fact, it&rsquo;s very likely you&rsquo;ll interact with GitHub in _some_ way, even if you&rsquo;re not writing code. The remainder of this post will help you get you squared away with creating your GitHub account and setting up some basic stuff, and will show you some of the ways you might use GitHub, even if it&rsquo;s not committing code.
+You've probably already noticed there's a lot happening on GitHub at TTS. That's because it's so useful! In fact, it's very likely you'll interact with GitHub in _some_ way, even if you're not writing code. The remainder of this post will help you get squared away with creating your GitHub account, setting up some basic stuff, and will show you some of the ways you might use GitHub, even if it's not committing code.
 
 ### 1. Set up your account
 
@@ -26,13 +26,13 @@ Follow the instructions [here](/github/).
 
 ### 2. Basics
 
-If you&rsquo;re a developer, you might have very strong feelings about The Right Way to Use Git, but 18F doesn&rsquo;t (yet) have One Way of Using Git, so ask your teammates how they work with GitHub.
+If you're a developer, you might have very strong feelings about The Right Way to Use Git, but TTS doesn't (yet) have One Way of Using Git, so ask your teammates how they work with GitHub.
 
-If you&rsquo;re not a developer or came from a place that didn&rsquo;t use Git, here are some GitHub-related terms you should be familiar with:
+If you're not a developer or came from a place that didn't use Git, here are some GitHub-related terms you should be familiar with:
 
-- **Repo** is short for repository, or a project on GitHub. Anybody at 18F can create repos in the 18F organization and you should _always_ create new projects as 18F, not as yourself. You can create new repos in GitHub by clicking the + next to your profile picture. Then, choose New Repository and change the owner to 18F.
+- **Repo** is short for repository, or a project on GitHub. Anybody at TTS can create repos in the 18F organization and you should _always_ create new projects as 18F, not as yourself. You can create new repos in GitHub by clicking the + next to your profile picture. Then, choose New Repository and change the owner to 18F.
 
-- The **license** on every repo must be Creative Commons 0, or CC0. That&rsquo;s shorthand for Public Domain. 18F is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don&rsquo;t trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://gsa-tts.slack.com/archives/admins-github) and [#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/). You&rsquo;ll hear more about open source during [Gray&rsquo;s seminar on Product and Open Source](/intro-to-product-and-open-source).
+- The **license** on every repo must be Creative Commons 0, or CC0. That&rsquo;s shorthand for Public Domain. TTS is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don&rsquo;t trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://gsa-tts.slack.com/archives/admins-github) and [#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/). You&rsquo;ll hear more about open source during [Gray&rsquo;s seminar on Product and Open Source](/intro-to-product-and-open-source).
 
 Once you&rsquo;re a member of the 18F organization, you&rsquo;ll have access to many of our repos.  You&rsquo;ll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
 
@@ -50,7 +50,7 @@ If you&rsquo;re working with an agency, you'll need to find ways to collaborate 
 
 You can use GitHub for almost anything, but consider the resources available to agency partners or other stakeholders before deciding to use it. Are your agency partners used to using GitHub? Will they need to create accounts and jump through hoops? Can they even access it from their agency computers? These are the kinds of things we consider when deciding if GitHub is the right thing to use.
 
-18F sometimes adds contractors and agency partners to the 18F organization on Github. We sometimes use forks to collaborate with contractors. Sometimes we do both. Again, check with your team on how to do this.
+TTS sometimes adds contractors and agency partners to the 18F organization on Github. We sometimes use forks to collaborate with contractors. Sometimes we do both. Again, check with your team on how to do this.
 
 Most projects/repositories have a `CONTRIBUTING.md` file in their root directory that explains how the team invites people to contribute to the project. They might prefer chats over pull requests, for example.
 
