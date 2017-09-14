@@ -44,17 +44,21 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
 ### Talent Team
 
 - Provide [TTS Exit Interview Questionnaire](https://goo.gl/forms/jBmNLwg8Y4ZY4n4s1) to offboarding employee.
+  - For offboarding interns, use [this survey](https://goo.gl/forms/XOy7QO4zcnz6LyLh1).
 - Conduct an exit interview based on the responses to the questionnaire.
-  - Documentation will be kept anonymous.
-  - After three samples are gathered, look for trends.
+  - Documentation will be kept anonymous, but content may be used in aggregate to highlight trends.
 - Complete the [clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with the employee.
 
-## Exiting Gracefully
+## Exiting gracefully
 
-### Goodbye Email
+### Goodbye email
 
 You are under no obligation to send out a farewell email, but if you do, please use bcc: for any distribution lists you're sending it to.  This allows people to respond to you directly without creating additional email noise for coworkers. 
 
 ### Slack
 
-As you leave, you are encouraged to join the #alumni channel on the TTS Slack team.
+As you leave, you’re encouraged to join the [#alumni](https://gsa-tts.slack.com/messages/C0DH5B68Y) channel on Slack.
+
+### Writing a post on your personal blog
+
+If you want to write a post on your personal blog about your experiences in government or why you’re leaving, we recommend that you wait until you are no longer on staff before you hit “Publish.” This helps to avoid any issues with Hatch Act compliance and with inadvertently writing or speaking on behalf of GSA without permission.

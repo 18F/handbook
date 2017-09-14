@@ -7,13 +7,13 @@ We use Google Groups to manage team and interest-based email distribution lists 
 ## Create a Google Group
 
 1. Open the [GSA Service Desk Self-Service Portal](https://gsa.service-now.com/GSA_Self-Service/).
-1. Under the **Make a Request** menu, click **Accounts and Access**.
-1. Click **Google Groups/Sites Creation or Access**.
+1. Click on the **Service Catalog** item on the lefthand snav.
+1. Under the **Google Groups/Sites** block, click **Google Groups/Sites Creation or Access Request**.
 1. The service catalog auto-populates your name in the request. Note: If making a request on behalf of someone else, search for their name with the magnifying glass icon.
 1. Complete the required fields. Note that the business justification can be brief.
-1. If you're prompted for a supervisor, enter Ric (richard.l.miller). He can respond quickly.
 1. Enter any other pertinent information in the comments.
-1. Click **Order Now**.
+1. Click **Order Now**, then **Submit Order** on the next page.
+1. Your ticket has been created. You may want to note the ticket ID (starts with `RITM`) for future reference.
 
 ## Manage a Google Group
 To find the groups that you are in and manage any groups where you are an admin, visit [My Groups](https://groups.google.com/a/gsa.gov/forum/#!myforums).

@@ -14,13 +14,18 @@ As you set up your 18F accounts and devices, we have three requirements for maki
 
 There's a secret to dealing with passwords: use a password manager to store your passwords. This way, you only need to memorize a few strong passwords: your master password for the password manager, your laptop password and phone passcode, and maybe a few others (such as your iCloud password if that's [your recovery method for forgetting your laptop password](/equipment/#laptop)).
 
-[**1Password**](https://1password.com/) and [**KeePassX**](https://www.keepassx.org/) are password managers approved for work at 18F. You can get a license for 1Password by asking [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov). KeePassX is free.
+Password managers approved for work at GSA:
 
-You can use iCloud ([1Password instructions](https://support.1password.com/sync-with-icloud/)) or manual syncing to keep your 1Password or KeePassX synced across multiple work devices (work laptop to work phone, for example), as you're just transferring encrypted information around. Do not store the password in iCloud directly. iCloud Keychain isn't approved for work-related passwords or other sensitive government information.
+* [**KeePass**](http://keepass.info/) (Windows) - KeePass is a free download and open source. The password database is stored locally on your computer.
+* [**Zetetic Codebook**](https://www.zetetic.net/codebook/) (Windows/Mac) - You can get a license for Codebook by submitting a [Service Catalog Request](
+https://gsa.service-now.com/nav_to.do?uri=%2Fcatalog_home.do%3Fsysparm_view%3Dcatalog_default). You can use Google Drive to sync Zetetic Codebook across devices. 
+* Google Sheets is approved as a password management solution.
+
+**1Password**: Please note that 1Password is no longer an approved password manager.
 
 ### 2. Use unique passwords
 
-You can use your password manager to generate a random unique password for each service you use. In [**1Password**, use these instructions](https://support.1password.com/guides/mac/generate-a-strong-password.html). OS X also has a local password generator: in the **Keychain Access** app, view the suggestions under **File > New Password Item > key icon**.
+You can use your password manager to generate a random unique password for each service you use. OS X also has a local password generator: in the **Keychain Access** app, view the suggestions under **File > New Password Item > key icon**.
 
 You can use your password manager to store answers to security questions. Instead of setting up real answers (which could be guessable by somebody with information about you), consider setting up random nonsense answers and storing those answers in your password manager.
 

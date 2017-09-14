@@ -12,11 +12,11 @@ Working groups and guilds are self-organized groups that improve practices, host
 
 **Working groups** are self-organized. They spin up or down depending on our organizational needs.
 
-**Guilds** are more permanent than working groups. They're either created by senior leadership, or working groups may ask senior leadership for guild status. Every guild has an executive sponsor. 
+**Guilds** are more permanent than working groups. They're either created by senior leadership, or working groups may ask senior leadership for guild status. Every guild has an executive sponsor.
 
 18F has a [playbook](https://pages.18f.gov/grouplet-playbook) with instructions on how to organize a working group or guild, how to maintain team cohesion, and how to produce artifacts. All groups have a Slack channel. Working-group related channels have a `wg-` in front of their name; guilds have a `g-` before the name. Feel free to jump into and out of any of the working group or guild channels to participate or ask questions. The [18F Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) houses all formal meeting times for working groups and guilds.
 
-The Slack team for working group and guild leaders is `@wg-g-leads`
+The Slack user group for working group and guild leaders is `@wg-g-leads`
 
 <h2><a id="existing-grouplets">Existing groups</a></h2>
 <div class="table-wrapper">
@@ -200,8 +200,3 @@ The Slack team for working group and guild leaders is `@wg-g-leads`
     </tbody>
   </table>
 </div>
-
-
-
-
-

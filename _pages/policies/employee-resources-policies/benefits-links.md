@@ -26,23 +26,19 @@ Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/
 
 ## Human resources (HR)
 
-18F has a dedicated benefits specialist within GSA who can assist you with questions regarding benefits-related questions.
+TTS has a dedicated benefits specialist within GSA who can assist you with questions regarding benefits-related questions.
 
 ### Marty Sanchez-Lowery
 
 Contact for medical insurance, life insurance, and retirement account questions and enrollment.
 
-Email: martha.sanchez-lowery@gsa.gov  
-Work: 202-969-7237  
-Cell: 703-965-9274
+Marty's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent). 
 
 ### Leila Knight
 
 Contact for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
-Email: leila.knight@gsa.gov  
-Work: 202-969-7079  
-Cell: 202-805-4922
+Leila's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 --------------------------------------------------------------------------------
 

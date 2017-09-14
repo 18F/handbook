@@ -23,15 +23,15 @@ The travel team also approves [authorizations](/travel-101/#authorizations) at 2
 
 Finally, please don’t DM or @ individual travel team members outside of office hours. Instead, email [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov), or ask in [#travel](https://gsa-tts.slack.com/messages/travel/) at any time, and you’ll receive a response during the next office hours.
 
-DMs/@s made outside of these times may not receive a response-- everyone on the travel team juggles multiple duties, including billable projects. Reducing time cost associated with context switching will help get 18F closer to :4300:. Thanks for your understanding!
+DMs/@s made outside of these times may not receive a response-- everyone on the travel team juggles multiple duties, including billable projects. Reducing time cost associated with context switching will help get TTS closer to :4300:. Thanks for your understanding!
 
-You can add the 18F Travel Team schedule to your Google calendar by copying the link below into the “Add a coworker’s calendar” box:
+You can add the TTS Travel Team schedule to your Google calendar by copying the link below into the “Add a coworker’s calendar” box:
 
 `gsa.gov_iqsha8bbdcjtqq3jufp15vl554@group.calendar.google.com`
 
 ## Billing
 
-Travel time is billed as general, unless you're working on a project. (Then you can bill your travel time to the project.)
+If you’re traveling for a particular project, bill your time to the project. Otherwise, bill to `General`.
 
 ## Travel card
 
@@ -43,7 +43,7 @@ A per diem is an allowance that you get [each day you travel on official governm
 
 ## Concur
 
-Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system 18F employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](https://handbook.18f.gov/first-time-travel-concur-check/). You will [complete your profile](https://handbook.18f.gov/first-time-travel-complete-concur-profile/) after your receive your travel card.
+Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system TTS employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](https://handbook.18f.gov/first-time-travel-concur-check/). You will [complete your profile](https://handbook.18f.gov/first-time-travel-complete-concur-profile/) after your receive your travel card.
 
 ## Authorizations
 
@@ -68,4 +68,4 @@ GSA maintains a fleet of cars for official use:
 
 ## Further Reading
 
-This Travel 101 is just a quick orientation. As mentioned at the start of this page, the Handbook has a whole guide for you: [18F Travel Guide](/travel-guide-start-here/)!
+This Travel 101 is just a quick orientation. As mentioned at the start of this page, the Handbook has a whole guide for you: [TTS Travel Guide](/travel-guide-start-here/)!

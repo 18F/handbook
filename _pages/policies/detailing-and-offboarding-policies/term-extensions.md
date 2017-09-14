@@ -2,32 +2,32 @@
 title: Term extensions
 ---
 
-This guide covers how to extend your time at 18F after two years.
+This guide covers how to extend your time at TTS after two years.
 
 ## Background
 
-Most employees at 18F are hired on term appointments under the Schedule A direct hiring authority, which sets a limit of two years for the initial period of employment with the option to renew for up to two additional years for a maximum term of four years (time as a PIF counts towards your four years).
+Most employees at TTS (specifically 18F, PIF & ACQ) are hired on term appointments under the Schedule A direct hiring authority, which sets a limit of two years for the initial period of employment with the option to renew for up to two additional years for a maximum term of four years.
 
-## Renew your term
+## Extend your term
 
 1)  Connect with your supervisor(s) six months before your initial two-year term expires to discuss your options.
 
 - If you don’t know when your term ends, you can look in [CHRIS](http://www.gsa.gov/portal/content/105088) for your “Assignment NTE Date.” 
 - Considerations for renewal include organizational priorities, position needs, and your individual performance to date.
 
-2)  If the decision is to renew, your supervisor will need to fill out the [Term Renewal Request Survey](https://goo.gl/forms/zvZqourbaTJqwsUu1) by the first of the month - 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should fill out the survey by February 1st).  Information requested on the survey includes the following: 
+2)  If the decision is to extend, your supervisor will need to fill out the [Term Extension Request Form](https://goo.gl/forms/zvZqourbaTJqwsUu1) by the first of the month - 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should fill out the survey by February 1st).  Information requested on the survey includes the following: 
 
 - A paragraph on contributions you made in your first term
 - A paragraph on the projects and programs your supervisor expects you to work on and in what capacity for your second term
-- How long you are renewing for since you do not have to renew for the full two years; you could renew for less time (such as 1 year, 6 months, or 1 month)
+- How long you are renewing for since you do not have to extend for the full two years; you could extend for less time (such as 1 year, 6 months, or 1 month)
 
-3)  On a quarterly basis, the TTS Talent Team will forward the requests to the appropriate Assistant Commissioner and [TTS](http://www.gsa.gov/portal/category/25729) Commissioner for approval.
+3)  On a quarterly basis, the TTS Talent Team will forward the requests to the appropriate Assistant Commissioner and the Deputy Commissioner of FAS/Director of TTS for approval.
 
 4)  TTS Talent will notify your supervisor of the decision within 2 weeks from submission to the Commissioners.
 
-If the **decision is to renew**, the Talent Team will process a Request for Personnel Action (RPA) to extend your term. Your employment status and benefits will remain the same and no additional action is needed from you or your supervisor.
+If the **decision is to extend**, the Talent Team will process a Request for Personnel Action (RPA) to extend your term. Your employment status and benefits will remain the same and no additional action is needed from you or your supervisor.
 
-At this point, the renewal process is completed by the Talent Team and GSA HR.
+At this point, the extension process is completed by the Talent Team and GSA HR.
 
 - Approved extensions are placed on a tracking list.
 - Talent Team sends the extension RPAs (RPAs are submitted and processed through CHRIS) in batches at the beginning of each month for all extensions happening the following month.
@@ -45,7 +45,7 @@ At this point, the renewal process is completed by the Talent Team and GSA HR.
 
 - A notification from the CHRIS system usually gets emailed to employees up to two weeks after the action.  *Please note the exception for NTE dates that fall on weekends in section 4 above.*
 
-If the **decision is not to renew**, the Talent Team will process an RPA to end your term at the end of the initial two years. See [Leaving TTS](/leaving-tts/) for more details.
+If the **decision is not to extend**, the Talent Team will process an RPA to end your term at the end of the initial two years. See [Leaving TTS](/leaving-tts/) for more details.
 ---
 
 ### Still have questions?

@@ -92,8 +92,8 @@ navigation:
     - text: Benefits
       url: benefits/
       internal: true
-    - text: GitHub and the 18F website
-      url: github-and-18f-site/
+    - text: GitHub 101
+      url: intro-to-github/
       internal: true
     - text: GSA tools and transit
       url: gsa-tools-equipment-and-transit/
@@ -377,11 +377,14 @@ navigation:
     - text: Authority To Operate (ATO)
       url: authority-to-operate/
       internal: true
-    - text: "Federal records policy"
-      url: federal-records-policy-holder/
+    - text: FITARA
+      url: fitara/
       internal: true
-    - text: Open source policy
+    - text: Open source
       url: open-source/
+      internal: true
+    - text: Records management
+      url: records-management/
       internal: true
     - text: Requirements for Passwords
       url: password-requirements/
@@ -418,12 +421,15 @@ navigation:
     - text: Benefits links and resources
       url: benefits-links/
       internal: true
-    - text: Employee assistance program
-      url: employee-assistance-program/
-      internal: true
     - text: Emergency procedures
       url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
       internal: false
+    - text: Employee assistance program
+      url: employee-assistance-program/
+      internal: true
+    - text: Employment verification
+      url: employment-verification/
+      internal: true
     - text: Overtime and comp time
       url: overtime-and-comp-time/
       internal: true

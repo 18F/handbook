@@ -3,6 +3,7 @@ title: Professional development and training
 tags:
 - OLU
 - online learning university
+- IDP
 ---
 
 This post provides information about mandatory (OLU) and professional development training opportunities.
@@ -10,7 +11,7 @@ This post provides information about mandatory (OLU) and professional developmen
 
 ## Leadership
 
-[Pia Scott](mailto:pia.scott@gsa.gov) is 18F&rsquo;s Director of Training and Development. She is based in Washington, D.C.
+[Pia Scott](mailto:pia.scott@gsa.gov) is TTS's Director of Training and Development. She is based in Washington, D.C.
 
 
 ## Communication
@@ -25,7 +26,7 @@ There are many training and professional development opportunities available to 
 
 ## Mandatory training
 
-All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. Time spent taking these trainings should be coded as `71 - Training / Prof Dev - Non Billable` in [Tock](https://tock.18f.gov/).  To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov). Please note: You may not have access to this for your first four to six weeks at 18F, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include:
+All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. Time spent taking these trainings should be coded as `71 - Training / Prof Dev - Non Billable` in [Tock](https://tock.18f.gov/).  To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov). Please note: You may not have access to this for your first four to six weeks at TTS, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include:
 
 <table>
   <thead>
@@ -93,15 +94,15 @@ For the *No Fear Act* training, we recommend using Firefox or Safari with IE8 Us
 
 Our work at 18F takes us in new directions every day. In many cases, taking additional training can help everyone on our team better realize our organizational mission. Because external trainings benefit both individuals and our organization, 18F has a training budget.
 
-If you’re interested in taking a training related to your role at 18F, you’ll need to complete the process outlined in this section to get your request approved. When you find a training opportunity that interests you:
+If you’re interested in taking a training related to your role at TTS, you’ll need to complete the process outlined in this section to get your request approved. When you find a training opportunity that interests you:
 
 ### 1. Make your request
 
 The review and approval processes can take a bit of time, so it’s best if you make your training request as early as possible. Here are some basic guidelines about how far in advance to request training:
 
-* **Two weeks in advance:** If you’re interested in a training that costs less than $3,000, is not at a conference, doesn’t require travel, doesn't involve more than one individual from 18F, and doesn’t involve an outside source of funding.
+* **Two weeks in advance:** If you’re interested in a training that costs less than $3,000, is not at a conference, doesn’t require travel, doesn't involve more than one individual from TTS, and doesn’t involve an outside source of funding.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least one week in advance.*
-* **Three to four weeks in advance:** For trainings that are less than $3,000 altogether, don't require an outside source of funding, and are either at a conference, require travel, or involve more than one person from 18F attending.
+* **Three to four weeks in advance:** For trainings that are less than $3,000 altogether, don't require an outside source of funding, and are either at a conference, require travel, or involve more than one person from TTS attending.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least two weeks in advance.*
 * **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,000 altogether, anything involving an outside source of funding, or international travel.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least four weeks in advance.*
@@ -111,15 +112,18 @@ Requests that don't make it to [C2 (Step 4)](/professional-development-and-train
 
 ### 2. Create your Individual Development Plan (IDP)
 
+[Employee's Guide to Individual Development Plan](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVN3IydkZHQ0R3VXM/view?usp=sharing)
+
 After you’ve made your request, you’ll need to create an [IDP](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) related to the training or conference that you want to attend. The IDP helps you articulate how a given training contributes to your longer-term professional goals. Create it in Salesforce. See the [GSA Guide to IDPs](https://insite.gsa.gov/portal/mediaId/615682/fileName/EmployeesGuide2IndivDevePlan_1113.action) for policy information.
 
-To get some IDP inspiration, you can browse some examples from your 18F colleagues, including the approved IDPs of [Leah Bannon](https://drive.google.com/a/gsa.gov/file/d/1Sid8vVFgR69gYOin5FUxbVbuC6XGEu-zIii9dO7xBN4VrWumKvl02Zs0NFKxg_bUGikkSiakn0HBFdlP/view) and [Emileigh Barnes](https://docs.google.com/document/d/1IDVXKHnj9lVWiloBShZ9tuU3Wwe7ErTUL0hVDncKau4/edit) for General Assembly classes. Gray's [TL;DR on IDPs](https://gsa-tts.slack.com/archives/distributed/p1447194666000190) is well worth a look.
+To get some IDP inspiration, you can browse some examples from your TTS colleagues, including the approved IDPs of [Leah Bannon](https://drive.google.com/a/gsa.gov/file/d/1Sid8vVFgR69gYOin5FUxbVbuC6XGEu-zIii9dO7xBN4VrWumKvl02Zs0NFKxg_bUGikkSiakn0HBFdlP/view) and [Emileigh Barnes](https://docs.google.com/document/d/1IDVXKHnj9lVWiloBShZ9tuU3Wwe7ErTUL0hVDncKau4/edit) for General Assembly classes. Gray's [TL;DR on IDPs](https://gsa-tts.slack.com/archives/distributed/p1447194666000190) is well worth a look.
 
 Here are a few hints for creating a top-notch IDP:
 
+* [How to Successfully Create an IDP Presentation](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVV2U0OWNlcUxrTUE/view?usp=sharing)
 * In the **Series** field, select **0301 - Miscellaneous Administration and Program Services**.
 * Leave the **Procurement specialization** field blank unless you are on the operations or acquisitions team and have taken or are pursuing a training in a procurement specialization.
-* As you’re writing about your long- and short-term goals, include a few sentences about what the training is about and how it connects to your work at GSA/18F as well as a few sentences about how it will contribute to your overall professional development.
+* As you’re writing about your long- and short-term goals, include a few sentences about what the training is about and how it connects to your work at GSA/TTS as well as a few sentences about how it will contribute to your overall professional development.
 * Add a related objective, an activity (this is where you list the name of the conference/training you want to attend), and a competency.
 
 Once you’ve completed your IDP, submit to your supervisor for review.
@@ -128,11 +132,13 @@ If you need to edit your IDP, you'll want to make sure to clone it, revise it, a
 
 ### 3. Meet with your supervisor
 
-Once you’ve submitted your IDP,  you’ll meet with your supervisor to discuss it.  Your supervisor will want to make sure your IDP aligns with 18F’s organizational goals and your professional development training needs. Once you’ve responded to any feedback your supervisor has provided, ask them to approve your IDP in Salesforce.
+[Supervisor's Guide to Individual Development Planning](https://drive.google.com/file/d/0B7tsisHW8-MVbWhUamNnMHBkN3c/view)
 
-18F’s training and travel budget is allocated for each fiscal year based on a projection of our total team size. Allowed annual expenditures for each business unit and chapter are determined by each business unit or chapter’s size relative to 18F as a whole; in other words, larger business units will have larger budgets.
+Once you’ve submitted your IDP,  you’ll meet with your supervisor to discuss it.  Your supervisor will want to make sure your IDP aligns with TTS’s organizational goals and your professional development training needs. Once you’ve responded to any feedback your supervisor has provided, ask them to approve your IDP in Salesforce.
 
-That said, 18F will consider all requests for training, but it’s the responsibility of heads of chapters and business units to plan spending accordingly. If a particular business unit or chapter exhausts its budget before the end of the fiscal year, the director of operations may have to deny certain training requests.
+TTS’s training and travel budget is allocated for each fiscal year based on a projection of our total team size. Allowed annual expenditures for each business unit and chapter are determined by each business unit or chapter’s size relative to TTS as a whole; in other words, larger business units will have larger budgets.
+
+That said, TTS will consider all requests for training, but it’s the responsibility of heads of chapters and business units to plan spending accordingly. If a particular business unit or chapter exhausts its budget before the end of the fiscal year, the director of operations may have to deny certain training requests.
 
 ### 4. Submit an event request in C2
 
@@ -142,7 +148,7 @@ If you are set up right in C2, your event request form should look something lik
 
 You must provide all of the required information in your C2 request, otherwise there will be process delays.
 
-**For a training/conference that involves more than one person at 18F**, it is **required** that one C2 request be made for everyone attending. If you are not sure if anyone else from 18F will be attending your event, please check in with your supervisor. If a group request is not made, there may be process delays, and it is possible that attendance will have to be limited to the first requestor.
+**For a training/conference that involves more than one person at TTS**, it is **required** that one C2 request be made for everyone attending. If you are not sure if anyone else from TTS will be attending your event, please check in with your supervisor. If a group request is not made, there may be process delays, and it is possible that attendance will have to be limited to the first requestor.
 
 The initial requestor can name who all will be attending in the "Instructions to Purchase" field and, after submitting, add the additional people as *observers* to the request. Each additional person attending is responsible for uploading their own required documents (IDP, SF-182, etc.) accordingly.
 
@@ -150,7 +156,7 @@ To facilitate review, when uploading documents, please also include your name an
 
 **What happens next?**
 
-[Pia Scott](mailto:pia.scott@gsa.gov) will review your request for red flags during her 18F office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 10:30 AM - 11:30 AM Eastern on Friday. You can review the 18F Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`
+[Pia Scott](mailto:pia.scott@gsa.gov) will review your request for red flags during her TTS office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 10:30 AM - 11:30 AM Eastern on Friday. You can review the TTS Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`
 
 The office hours are subject to change each week, but these changes will be reflected on the calendar.
 
@@ -183,7 +189,7 @@ Once Josh and Jackie have approved, your request will move on to [18F Purchasers
 
 #### Does the training or conference require payment?
 
-You'll need to complete an SF-182. The SF-182, in addition to being the document that authorizes 18F to pay for the training, is also a contract between you and the government. If you leave before terms of this “continuing service agreement” are met, then you are required to pay the government for the cost of the training.
+You'll need to complete an SF-182. The SF-182, in addition to being the document that authorizes TTS to pay for the training, is also a contract between you and the government. If you leave before terms of this “continuing service agreement” are met, then you are required to pay the government for the cost of the training.
 
 To get this started, you'll need to create [an SF-182 request](https://gsa--c.na21.visual.force.com/apex/IDP_SF182Edit) in Salesforce. Link it to your IDP and also provide your position level.
 
@@ -214,7 +220,7 @@ There are a few special rules for trainings of conferences that cost over $3,000
 
 **If registration for an individual training or conference costs over $3,000**, the 18F executive director (Dave Zvenyach) must be listed as a second line approver on the SF-182.
 
-**If total registration fees for an individual *or* group training or conference cost over $3,000**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that 18F can pay via credit card. Pia will also add [Ethan Heppner](mailto:ethan.heppner@gsa.gov) as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS number, which is also required when the federal government makes a purchase over $3,000 from any vendor.
+**If total registration fees for an individual *or* group training or conference cost over $3,000**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that TTS can pay via credit card. Pia will also add [Ethan Heppner](mailto:ethan.heppner@gsa.gov) as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS number, which is also required when the federal government makes a purchase over $3,000 from any vendor.
 
 #### Are you attending a conference or training at a conference?
 
@@ -224,7 +230,7 @@ Conferences and training at conferences require Salesforce approval. [Pia](mailt
 
 For requests involving travel, you must complete and attach a PDF copy of your budget to your C2 request using the template provided [here](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0).
 
-Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](https://travel.gsa.gov). The operations team will add [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) as an observer to your C2 request once it is fully approved, so you **do not need** to get an email of approval from your supervisor *unless* you anticipate that you will exceed your attached budget by more than 20%, or you need to travel to or from a city that is different from your home of record. Feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](/travel-guide-3-approval/#submit-authorization-for-approval) your authorization so it gets reviewed and approved by the 18F travel team!
+Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](https://travel.gsa.gov). The operations team will add [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) as an observer to your C2 request once it is fully approved, so you **do not need** to get an email of approval from your supervisor *unless* you anticipate that you will exceed your attached budget by more than 20%, or you need to travel to or from a city that is different from your home of record. Feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](/travel-guide-3-approval/#submit-authorization-for-approval) your authorization so it gets reviewed and approved by the TTS travel team!
 
 If this is your first time on government travel, you have some preliminary work to do. To complete the necessary steps before travel, follow the steps to [get set up in Concur](/first-time-travel-get-in-concur-post-olu/).
 You will also need to [apply for a travel card](/first-time-travel-travel-card/). It is the required payment method for your government travel expenses, such as lodging, transportation, etc.
@@ -249,11 +255,11 @@ And now, the fun part: It’s time for you to attend your conference or training
 
 ## Speaking at conferences
 
-If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please follow [this guide](https://docs.google.com/document/d/1OjxymrHIU1VREv93HrG1sESzyrtx8B2kl_Ey4IL_4xc/edit#heading=h.t8mki1xtcuxz).
+If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please follow [this guide](https://docs.google.com/a/gsa.gov/drawings/d/1J_kPqlmRHKSnhHRU3WphO-skuQ5tQxIHrIHmsF0TDNg/edit?usp=sharing).
 
 ## Mentorship
 
-We have been slowly working on support for mentorship at 18F, including running a pilot program for some initial pairs of folks who have been interested in helping get things started. If you would like to learn more and/or participate, please see the [Mentorship](/mentorship) page for more details!
+We have been slowly working on support for mentorship at TTS, including running a pilot program for some initial pairs of folks who have been interested in helping get things started. If you would like to learn more and/or participate, please see the [Mentorship](/mentorship) page for more details!
 
 ## Self-directed study for engineers
 
@@ -266,7 +272,7 @@ Experience Design Chapter members: You can use some or all of your yearly traini
 - Work with your lead to define an independent study in your Individual Development Plan (IDP) that includes your desired measurable outcomes for your studies.
 - Tock your time to `71 - Training / Prof Dev - Non Billable` with a note in the description field. Example note: "I used 4 hours of my yearly training time towards my independent study in JavaScript."
 
-If you've Tock'd 32 hours to your assigned project, you can use the remaining 8 hours for whatever else needs to get done at 18F, including training, without using your yearly assigned training hours. To use some of this 8 hours for training, you should:
+If you've Tock'd 32 hours to your assigned project, you can use the remaining 8 hours for whatever else needs to get done at TTS, including training, without using your yearly assigned training hours. To use some of this 8 hours for training, you should:
 
 - Work with your lead to define an independent study in your Individual Development Plan (IDP) that includes your desired measurable outcomes for your studies.
 - Tock your time to `71 - Training / Prof Dev - Non Billable` with a note in the description field. Example note: "After completing my project work, I used 2 hours of my remaining time this week toward my independent study in JavaScript."
@@ -278,7 +284,7 @@ And finally, there are a a few weekly tasks that should come before training: de
 
 ## Other training resources
 
-As an 18F team member, you have access to additional online training resources.
+As a TTS team member, you have access to additional online training resources.
 
 - **[GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov/)** offers training, and many of its courses are mandatory for new employees.
 

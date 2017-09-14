@@ -6,7 +6,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 ## Documentation
 
-- Greg Boone gives [a brief class on GitHub and the 18F website](/github-and-18f-site).
+- Greg Boone gives [a brief class on GitHub](/intro-to-github).
 
 - The 18F [Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) and accompanying [practice guide](https://github.com/18F/open-source-policy/blob/master/practice.md) explain why and how we write code and documentation in the open.
 
@@ -21,7 +21,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 Because GitHub is a web application, there&rsquo;s no installation necessary, but you may find the [desktop app](https://desktop.github.com/) useful.
 
-If you don&rsquo;t have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/federal-records) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email, and ensure it is visible on your public GitHub profile.
+If you don&rsquo;t have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/records-management) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email, and ensure it is visible on your public GitHub profile.
 
 ### 1. Complete your profile
 
@@ -66,7 +66,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
     - To help you not commit sensitive information to Github, [please read about Git
       Seekrets](/sensitive-information#git-seekret).
 
-- **Ask Infrastructure before integrating a service with GitHub or creating private repositories.** Many websites offer the option to &ldquo;Sign in with GitHub&rdquo; and may further request permission to access your &ldquo;personal user data.&rdquo; Providing this level of access can not only share your public or private email address, but it can also grant the ability to access 18F&rsquo;s private repositories. For this reason, we ask that all organization members refrain from authorizing integrations and request any desired integrations through a [Infrastructure issue](https://github.com/18F/infrastructure).
+- **Ask Infrastructure before integrating a service with GitHub.** Many websites offer the option to &ldquo;Sign in with GitHub&rdquo; and may further request permission to access your &ldquo;personal user data.&rdquo; Providing this level of access can not only share your public or private email address, but it can also grant the ability to access 18F&rsquo;s private repositories. For this reason, we ask that all organization members refrain from authorizing integrations and request any desired integrations through an [Infrastructure issue](https://github.com/18F/infrastructure).
 
 - **Ask Infrastructure before creating private repositories.** We pay GitHub for the ability to create private repositories and need to bill clients for repositories created on their behalf. Before you do anything, drop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github) and explain what you&rsquo;d like to do and why. Be sure to include a link in your repo README to a document that explains why it is private.  (See the **Exceptions** section of the [18F Open Source policy](https://18f.gsa.gov/open-source-policy/).)
 

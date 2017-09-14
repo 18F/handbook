@@ -4,6 +4,14 @@ title: Security incidents
 
 Something went "bump" in the night (or the day)? This document explains what to do when responding to a security incident. See [What is an incident?](#what-is-an-incident) if you need help determining whether something counts as an incident.
 
+## Security incidents: You must report IT security incidents or suspicious activity
+
+An “incident” or “information security incident” can be thought of as a violation or imminent threat of violation of information security or privacy policies, acceptable use policies, or standard security practices. 
+
+See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https://insite.gsa.gov/portal/content/539161) if you need help determining whether something counts as an incident. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to: [ITServiceDesk@gsa.gov](mailto: ITServiceDesk@gsa.gov) or 1-866-450-5250.  
+
+If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. For questions about GSA’s Incident Response Program, contact the GSA Incident Response (IR) Team at [gsa-ir@gsa.gov](mailto:gsa-ir@gsa.gov).
+
 ## Reporting phishing emails
 If you receive a phishing email, follow these steps to report to GSA IT:
 
@@ -22,14 +30,14 @@ You might be tempted to simply mark phishing emails as spam and otherwise ignore
 To report a security incident, follow *all* of the steps below:
 
 1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov within 1 hour of identifying an incident. You can use this
- <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email to everyone at the same time</a>. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. security token committed to GitHub repo). Don't worry if you don't have all of the details gathered when you email GSA's Incident Response (IR) team. The critical piece here is notification within one hour. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team.
+ <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email to everyone at the same time</a>. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. security token committed to GitHub repo). When emailing GSA's Incident Response (IR) team, please include as many details as possible, including relevant URLs, repos, and a link to related GitHub issue (if applicable). It is critical that you notify GSA IR within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team.
 
 1. Report the incident in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 
-1. [Send a Slack DM to Kimber Dowsett (@kimber)](https://gsa-tts.slack.com/messages/@kimber/), the 18F Infrastructure Security Architect, with a _very short description_ of the incident.
+1. [Send a Slack DM to Kimber Dowsett (@kimber)](https://gsa-tts.slack.com/messages/@kimber/), the 18F Head of Infrastructure Engineering, with a _very short description_ of the incident.
 
 1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible, excluding sensitive data**.
-  * Keep this issue up to date by adding comments with appropriately summarized actions or information from interactions with GSA.
+  * Keep this issue up to date by adding comments with appropriately summarized actions or information from interactions with the GSA IR team. GSA IR must be emailed updates as incidents unfold. Please do not rely on GitHub to communicate with the GSA IR team. GitHub should be used to document communications with GSA IR, not used in place of email communications.
   * **If you suspect sensitive data is part of the security incident that you're reporting, you must create a GSA Google Drive folder and share it with devops@gsa.gov and gsa-ir@gsa.gov ONLY**. To do this, ensure you're creating the folder as part of "My Drive" and not within a pre-existing folder. Use this GSA Google Drive folder for any potentially sensitive data and/or files. Add static files, Google Docs, or Google Sheets as appropriate, and add a comment to any information you think is critical to the investigation.
   * Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. Include the hyperlink to the GSA Google Drive folder in the top summary of the GitHub Issue. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident.
 
@@ -49,7 +57,7 @@ First, it's important to note: it's always OK to err on the side of reporting! [
 
 On to the answer to "what is an incident?": in a nutshell, an incident is anything that compromises (or could compromise) our "CIA": **Confidentiality, Integrity, or Availability.**
 
-- **Confidentiality** means: "secrets". So personal information (PII) — names, phone numbers, social security numbers, etc — is one very important secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that any confidential information may have been leaked outside 18F, you should open an incident.
+- **Confidentiality** means: "secrets". So personal information (PII) — names, phone numbers, social security numbers, etc — is one very important secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that any confidential information may have been leaked outside TTS, you should open an incident.
 
 - **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or if a app stopped logging for a while, or if some documents got deleted — those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these, as well.
 

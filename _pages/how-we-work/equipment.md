@@ -11,11 +11,11 @@ Your GSA badge, also known as a PIV card, allows you to get in and out of GSA bu
 
 Although some of our employees are based out of a specific office, your badge can be permissioned for multiple GSA buildings. [Kathryn Connolly](https://gsa-tts.slack.com/messages/@kathryn/) can submit paperwork to start this process, which usually takes a few days. After you receive an email confirmation, you'll need to visit the security office in each new building to activate your card.
 
-GSA processes new badges every Wednesday. When your badge is ready, you’ll receive an email (in both your personal and GSA emails) from `HSPD12Admin@usaccess.gsa.gov` containing four steps. Please skip to step four, which details how to schedule an appointment and pick up your badge, and bring the password in step three. To check on the status of your GSA badge, you can email [accesscard@gsa.gov](mailto:accesscard@gsa.gov).
+GSA processes new badges every Wednesday. When your badge is ready, you’ll receive an email (in both your personal and GSA emails) from `HSPD12Admin@usaccess.gsa.gov` containing four steps. Please skip to step four, which details how to schedule an appointment and pick up your badge, and bring the password in step three. To check on the status of your GSA badge, you can email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov).
 
 ### Distributed employees
 
-Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [accesscard@gsa.gov](mailto:accesscard@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
+Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
 
 ## Laptop
 
@@ -51,7 +51,7 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 
 - **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
 
-- **After GSA IT provisions your phone, set up two-factor verifications.** Email <mailto:accesscard@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for two-factor authentication in our [Slack](/slack), [GitHub](/github), and [Gmail](/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
+- **After GSA IT provisions your phone, set up two-factor verifications.** Email <mailto:hspd12.security@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for two-factor authentication in our [Slack](/slack), [GitHub](/github), and [Gmail](/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
 ### Tips
 
@@ -124,7 +124,7 @@ If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employ
 5. Call your FPS using contact information provided in the link.
 6. Contact your regional ISSO using contact information provided in the link.
 
-18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [accesscard@gsa.gov](mailto:accesscard@gsa.gov)
+18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov)
 
 ## Requirements for passwords
 
