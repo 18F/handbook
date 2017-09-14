@@ -26,9 +26,9 @@ Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff.
 - Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
 - Members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov)
 
-## Usage of other Slack teams
+## Usage of other Slack workspaces
 
-You may be invited to other Slack teams operated by government entities, or entities under contract to the government. You're allowed to join those teams as necessary for your work. You should join those teams with your **government email address** and ensure your avatar and profile information are consistent across Slack teams. If you're invited to Slack teams unrelated to your job, you must join those teams with a personal email address.
+You may be invited to other Slack workspaces operated by government entities, or entities under contract to the government. You're allowed to join those workspaces as necessary for your work. You should join those workspaces with your **government email address** and ensure your avatar and profile information are consistent across Slack workspaces. If you're invited to Slack workspaces unrelated to your job, you must join those workspaces with a personal email address.
 
 ## Adding people
 
