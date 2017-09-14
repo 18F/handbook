@@ -8,60 +8,53 @@ So you’ve traveled and want to get reimbursed for all of your expenses! It’s
 
 This guide explains how to do just that-- sit back, relax, and just imagine that you are almost done with Concur (which you are at this point)!
 
-Getting reimbursed has 3 sub-steps:
+Getting reimbursed has 4 sub-steps:
 
-1. [Creating a Voucher](#i-create-a-voucher)
+1. [Creating a Voucher](#i-creating-a-voucher)
 
-2. [Entering your Expenses](#ii-entering-expenses)
+2. [Naming your Voucher](#ii-naming-your-voucher)
 
-3. [Submitting your Voucher for approval](#iii-submit-voucher-for-approval)
+3. [Entering your Expenses](#iii-entering-expenses)
+
+4. [Submitting your Voucher for approval](#iv-submitting-voucher-for-approval)
 
 BEFORE YOU BEGIN: did your dates of travel change such that they are in any way outside of the original dates of your trip? If yes, STOP, and do an amended authorization for the new dates. We don't yet have a guide for amending authorizations, so please [schedule yourself for a 1-on-1 with the travel team](https://calendar.google.com/calendar/selfsched?sstoken=UUZmSUplekFxYzFofGRlZmF1bHR8ZGE3Zjg4NTljODU3NTEyNzgwYmU5YmRlYTdlNTFjNTY) if that's the case.
 
 IF THIS IS YOUR FIRST TIME CREATING A VOUCHER: please read through this guide, but then feel free to [set up some 1-on-1 time with the travel team](https://calendar.google.com/calendar/selfsched?sstoken=UUZmSUplekFxYzFofGRlZmF1bHR8ZGE3Zjg4NTljODU3NTEyNzgwYmU5YmRlYTdlNTFjNTY) for a quick orientation if you need.
 
-### I. Create A Voucher
+### I. Creating A Voucher
 
 1. Log back into [Concur](http://travel.gsa.gov)
 2. On the main navigation menu, click on  **Vouchers**, and then select **New Vouchers**
 3. How long was your trip?
 
-    * **Over 12 Hours**: Select the **Voucher from Authorization** option to reimburse a recent trip. **MOST LIKELY OPTION** Continue to the next step
+    * **Over 12 Hours**: Select the **Voucher from Authorization** option to reimburse a recent trip. **MOST LIKELY OPTION** Select **Create Document** and continue to the next step.
 
-    * **Under 12 Hours**: Select the **Local Voucher** option to reimburse expenses on a trip under 12 hours that does not include per diem, hotels, or travel by air or Amtrak. Then, follow [our instructions on local vouchers](#local-vouchers).
+    * **Under 12 Hours**: Select the **Local Voucher** option to reimburse expenses on a trip under 12 hours that does not include per diem, hotels, or travel by air or Amtrak. You won't need a prior authorization document in Concur to create this (though you will need approval sent to 18ftravelauths@gsa.gov to certify that the expenses that you are claiming are authorized). Select **Create Document** and skip ahead to [Naming your Voucher](#ii-naming-your-voucher).
 
-    * **I need to get reimbursed for something other than travel expenses** Concur processes this as well! Similar to trips under 12 hours, you'll need to [create a local voucher](#local-vouchers). Before starting this process, please make sure that the expense you are hoping to get reimbursed for was [approved in C2](/purchase-requests) if nonbillable, or approved by your client in an email sent to 18ftravelauths@gsa.gov before you made the purchase. Exceptions to this rule (retroactive approvals) are rarely granted by the Director of Operations.
+    * **I need to get reimbursed for something other than travel expenses** Concur processes this as well! Similar to trips under 12 hours, you'll need to [create a local voucher](#miscellaneous-vouchers). Before starting this process, please make sure that the expense you are hoping to get reimbursed for was [approved in C2](/purchase-requests) if nonbillable, or approved by your client in an email sent to 18ftravelauths@gsa.gov before you made the purchase. Exceptions to this rule (retroactive approvals) are rarely granted by the TTS Director of Business Operations.
 
-4. You will then be lead through creating an authorization voucher.
+4. You will then be lead through creating a voucher from your authorization that you got approved prior to traveling.
 
     * Under Document Search, you’ll see a list of your “open” authorizations (i.e. your authorizations that don’t have vouchers yet).
 
-    * Hit the pencil button to select the authorization you’d like to be reimbursed for.
+    * Hit the pencil button to select the authorization you’d like to be reimbursed for. You will be moved onto the next step, [Naming your Voucher](#ii-naming-your-voucher) on the **Document Information** screen.
 
     * **TIP**: If you can't figure out which authorization is your recent trip by name, look at the departure date column.
 
-5. Your **Document Information** will appear and be autopopulated.
-    * If the **Trip Name** does not autopopulate, enter it in this format `BILLABLE or NON-BILLABLE: [Exact Name of Tock Project]` that you would bill the trip to. For example, a non-billable trip for ops would be `NON-BILLABLE: Ops/ Acquisitions`. Team Travel will return vouchers that don’t follow this format, so again, please make sure you name your trip using the above convention.
+### II. Naming your Voucher
+
+    If you are creating a voucher from authorization, your **Document Information** should appear and be autopopulated.
+
+    * If your are creating a local voucher, and the **Trip Name** does not autopopulate, enter it in this format `BILLABLE or NON-BILLABLE: [Exact Name of Tock Project]` that you would bill the trip to. For example, a non-billable trip for ops would be `NON-BILLABLE: Ops/ Acquisitions`. The Travel Team will return vouchers that don’t follow this format, so again, please make sure you name your trip using the above convention.
 
     * **Is your trip both Billable and non-billable?** Enter the trip name as `MIXED: [Your (non-billable) line of business]/[Exact Name of Tock Category]` to invoice billable part of trip to.
 
     * Click on **Create Document**
 
-6. Now it's time to [enter your expenses](#entering-expenses)!
+6. Now it's time to [enter your expenses](#iii-entering-expenses)!
 
-#### Local vouchers
-
-Local vouchers are documents in Concur that allow for simple reimbursements, which could include local transportation such as taxis or personal vehicle mileage, or reimbursement for any other expense that has either been approved in C2 (nonbillable) or by the client (billable). These don't require a prior authorization in Concur, but the approval should be shared with the 18ftravelauths@gsa.gov inbox so that the 18F travel team can confirm where the budget for reimbursement is coming from. In C2, this can be done by adding 18travelauths@gsa.gov as an "observer" to the request.
-
-Once you've chosen the **Local voucher** option, you'll be taken to the **Document Information** screen. Please fill this out as follows:
-
-*
-*
-*
-
-Once all of this is entered, go ahead and **Create Document** and move on to the next step.
-
-### II. Entering Expenses
+### III. Entering Expenses
 Now you need to make sure each of your expenses is accounted for. This step is arguably the most important part of the “vouchering” process.
 
 1. Navigate to the **Expenses & Receipts.** tab of your voucher.
@@ -209,7 +202,19 @@ It's coming!
 #### Air Outside of Concur
 Airfare or Amtrak tickets *should not be purchased outside of Concur* without prior approval from either the client or the Director of Operations. This approval should only be granted when there is exceptional justification, as the Federal Travel Regulation requires federal employees to use the e-Gov travel system, which is Concur for the GSA.
 
-### III. Submit Voucher for Approval
+#### Miscellaneous vouchers
+
+Local vouchers are documents in Concur that allow for simple reimbursements, which could include local transportation such as taxis or personal vehicle mileage, or reimbursement for any other expense that has either been approved in C2 (nonbillable) or by the client (billable). These don't require a prior authorization in Concur, but the approval should be shared with the 18ftravelauths@gsa.gov inbox so that the 18F travel team can confirm where the budget for reimbursement is coming from. In C2, this can be done by adding 18travelauths@gsa.gov as an "observer" to the request.
+
+Once you've chosen the **Local voucher** option, you'll be taken to the **Document Information** screen. Please fill this out as follows:
+
+*
+*
+*
+
+Once all of this is entered, go ahead and **Create Document** and move on to the next step.
+
+### IV. Submitting Voucher for Approval
 Routing a voucher is now exactly the same as submitting an authorization as seen in when we [submitted our authorization for approval](/travel-guide-3-approval/#submit-authorization-for-approval).
 
 1. Navigate to the **Perform Pre-Audits** Tab for your voucher.

@@ -1,13 +1,36 @@
 ---
-title: Step 1 - Email of approval
-navtitle: Travel Guide Authorization
+title: Appendix A - Amended authorizations
+navtitle: Amended Authorizations
 ---
 
 [TOC](/travel-guide-table-of-contents)
 [Back to Landing Page](/travel-guide-start-here)
 [Jump to Choose your Itinerary](/travel-guide-2-choose-your-itinerary)
 
-In order to travel for 18F, you need to go through three steps to ensure that your plans get fully approved and ticketed. Here's the TL;DR for each one:
+Sometimes, travel plans change. Fortunately, Concur, AdTrav, and the TTS travel team are ready for that! How changes can be accommodated depends on when and how the changes occurred:
+
+###My authorization was already approved. I need to change the dates/times of my flight (either outbound or return).
+
+If you booked a fully refundable, government contract flight, it's easiest to change your travel plans by calling the airline and asking to speak with their government travel team.
+
+If the options the airline offers won't work with your schedule, you may also called AdTrav at (877) 472-6716. Keep in mind that in addition to the $35 fee for using AdTrav, flights available on other airlines may be more expensive and could strain your project or unit's budget.
+
+If your flight is NOT fully refundable and/or government contract, AdTrav will also be your best option.
+
+Additional approvals via email are required in some instances. Read on more below.
+
+###What kind of approvals do I need in order to change my itinerary?
+
+
+
+**
+
+
+
+
+There are two major types of changes that are possible, changes that require an **Amended authorization in Concur** and changes that do not.
+
+
 
 1. [Confirm email of approval:](/travel-guide-1-authorization/#confirm-your-travel-dates-and-get-an-email-of-approval) ensuring that your travel plans are pre-approved via email by someone who has the ability to obligate funds on behalf of the government, and that this approval is communicated to the 18F travel team by sending it to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov).
 2. [Choose your itinerary:](/travel-guide-2-choose-your-itinerary) the process of making reservations in Concur, the E-Gov travel system. Reservations in Concur are called **Authorizations**. Authorizations in Concur are required for all trips that involve travel by air or Amtrak, or any trip longer than 12 hours (even if travel was not via air or Amtrak).
@@ -74,7 +97,7 @@ Project managers (or their delegates) are responsible for requesting written app
 * **Body:** Names, origins, and destinations, as well as dates/locations of any additional travel made in conjunction with official travel at the individual's personal expense. The template [below](/travel-guide-1-authorization/#template-email-of-approval)) may be used.
 * **As an attachment** An estimate of total travel expenses using either this [individual](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) or [group](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=1000729692) template. Other formats are allowed provided they include the same general information. Flight estimates must be based on [round-trip City Pair fares](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (use 2x the value of Govt YCA fare), hotel/M&IE estimates must be based on the [GSA per diem rates](http://www.gsa.gov/portal/category/100120), and mileage cost estimates must be based on [GSA Reimbursement rates](http://www.gsa.gov/portal/content/100715).
 
- Once you have been cc'd on your client's email of approval, you are good to move on to [the next step](/travel-guide-1-authorization/#Im-approved-Whats-next). 
+ Once you have been cc'd on your client's email of approval, you are good to move on to [the next step](/travel-guide-1-authorization/#Im-approved-Whats-next).
 
 #### Amending approval for billable travel
 Any changes to the itinerary approved by the client that require:
