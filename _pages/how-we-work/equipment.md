@@ -70,9 +70,9 @@ You can request [GSA business cards](https://requests.18f.gov/gsa18f/procurement
 
 #### DC or remote
 
-Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the 18F Operations Team will reach out to you.
+Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the TTS Business Operations Team will reach out to you.
 
-Ops is testing [C2](https://requests.18f.gov) for requesting office supplies, computer hardware, approved software, trainings, and other items under $3,500.
+USE [C2](https://requests.18f.gov) for requesting office supplies, computer hardware, approved software, trainings, and other items under $3,500.
 
 To make a request:
 
@@ -90,9 +90,13 @@ If you're requesting software that no one else at 18F uses yet, be sure you have
 
 If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
-#### Chicago or San Francisco
+#### Chicago
 
-Reach out to Ethan Heppner (Chicago) via email or Slack, they will assist you as soon as they are available.
+Reach out to Ethan Heppner or Ryan Thurlwell via email or Slack, they will assist you within one business day.
+
+#### San Francisco
+
+TBD
 
 ## Equipment to accommodate disability
 
@@ -101,21 +105,21 @@ GSA provides equipment to accommodate an injury or disability under these condit
 - You have supporting medical documentation for the need for a certain piece of equipment.
 - You only need the equipment to do your work.
 
-To purchase this type of equipment, go to <https://requests.18f.gov/> and attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment).
+To purchase this type of equipment, go to <https://requests.18f.gov/> and attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov).
 
 ## Repairs
 
-If 18F-issued equipment fails due to manufacturer defects or accidental damage:
+If TTS-issued equipment fails due to manufacturer defects or accidental damage:
 
-- 18F will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all 18F-issued hardware and peripherals.
-- Employees are responsible for informing Team Ops in [#equipment](https://gsa-tts.slack.com/messages/equipment) of the damage or need for repair by the close of business one business day following the damage.
-- If either your laptop or your phone is in need of repair, please go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we'll ship you a new laptop).
+- TTS will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all TTS-issued hardware and peripherals.
+- Employees are responsible for informing Team Ops in [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov) of the damage or need for repair by the close of business one business day following the damage.
+- If either your laptop or your phone is in need of repair, please go to [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov) for advice. They will likely either ask you to take it to an Apple Store (TTS will pay for the repairs), or ship it back to the DC or Chicago offices-- the TTS Business Operations team will ship you a new laptop.
 - If you need to take your laptop to the Apple Store, you can check to see if it's under warranty with the hardware serial number [here](https://checkcoverage.apple.com/). If it is not under warranty, Team Ops will walk you through how to take care of the cost for repair.
 - If you need to leave your laptop for repairs at the Apple Store, double check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790). As a reminder, GSA IT sets up your laptop with FileVault encryption. You can check it in your System Preferences to see that it's there and properly set up.
 
 ## <a id="stolen-or-lost">Lost or stolen equipment</a>
 
-If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert 18F in [#equipment](https://gsa-tts.slack.com/messages/equipment):
+If TTS-issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert 18F in [#equipment](https://gsa-tts.slack.com/messages/equipment):
 
 1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
 2. Call 911 or a local police station when you suspect theft has occurred.
@@ -124,7 +128,7 @@ If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employ
 5. Call your FPS using contact information provided in the link.
 6. Contact your regional ISSO using contact information provided in the link.
 
-18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov)
+TTS will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov)
 
 ## Requirements for passwords
 
@@ -134,4 +138,4 @@ Read the guide on [setting and managing passwords](https://handbook.18f.gov/pass
 
 #### Still have questions?
 
-Ask in Slack: [#equipment](https://gsa-tts.slack.com/messages/equipment) or [#teamops](https://gsa-tts.slack.com/messages/teamops)
+Ask in Slack: [#equipment](https://gsa-tts.slack.com/messages/equipment), [#teamops](https://gsa-tts.slack.com/messages/teamops), or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov)

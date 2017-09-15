@@ -13,12 +13,20 @@ This post provides information about mandatory (OLU) and professional developmen
 
 [Pia Scott](mailto:pia.scott@gsa.gov) is TTS's Director of Training and Development. She is based in Washington, D.C.
 
+[Marshall Brown](mailto:marshall.brown@gsa.gov) assists with the review of training and conference requests when Pia is out of the office.
+
 
 ## Communication
 
 Find us in Slack:
 
-- [#conferences](https://gsa-tts.slack.com/messages/conferences)
+- [#training-conferences](https://gsa-tts.slack.com/messages/C02APU5RT/)
+
+Or via email at:
+
+- [tts-training@gsa.gov](mailto:tts-training@gsa.gov)
+
+Book time to chat with the training and development team during the office hours listed [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
 
 ---
 
@@ -142,7 +150,7 @@ That said, TTS will consider all requests for training, but it’s the responsib
 
 ### 4. Submit an event request in C2
 
-Once your IDP is approved, you can [create an event request in C2](https://requests.18f.gov/gsa18f/events/new). If you've never used C2 before, or the link looks like it's not working, ping in [#c24ops](https://gsa-tts.slack.com/messages/c24ops/) and someone will add you.
+Once your IDP is approved, you can [create an event request in C2](https://requests.18f.gov/gsa18f/events/new). If you've never used C2 before, or the link looks like it's not working, ping in [#c2-purchase-questions](https://gsa-tts.slack.com/messages/C0E1APHGU/) and someone will add you.
 
 If you are set up right in C2, your event request form should look something like [this](https://gsa-tts.slack.com/files/eth/F2VNM3F17/c2-teamops-10-17-2016.jpg). Go ahead and start filling it out. Make sure you complete all required fields and attach your IDP before submitting-- you can do this by going in to **Review** your IDP and then clicking **Print** at the bottom of the page, which will open your IDP in Print Preview and allow you to export a PDF version of it.
 
@@ -156,9 +164,9 @@ To facilitate review, when uploading documents, please also include your name an
 
 **What happens next?**
 
-[Pia Scott](mailto:pia.scott@gsa.gov) will review your request for red flags during her TTS office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 10:30 AM - 11:30 AM Eastern on Friday. You can review the TTS Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`
+[Pia Scott](mailto:pia.scott@gsa.gov) will review your request for red flags during her office hours between 3:30 PM - 5:00 PM Eastern on Wednesday or 2:30 PM to 4:30 PM Eastern on Friday, and you can book time during those hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/) if you have more specific questions.
 
-The office hours are subject to change each week, but these changes will be reflected on the calendar.
+The office hours are subject to change each week, but these changes will be reflected on the calendar. Marshall Brown backs Pia up when she is out of the office.
 
 ### 5. Resolve any red flags and finalize all approvals
 
@@ -177,11 +185,11 @@ It’s fairly common for a request to have multiple red flags. Pia will recommen
 
 **What happens next?**
 
-Once you have remedied all red flags and Pia has recommended approval, the 18F Director of Operations [Josh Bailes](mailto:joshua.bailes@gsa.gov) will review and approve your request during his office hours along with [Jackie Xu](mailto:huixian.xu@gsa.gov). They will verify that your request is within budget and recommended for approval by Pia before approving as well.
+Once you have remedied all red flags and Pia has recommended approval, the TTS Director of Business Operations [Amy Lawson](mailto:amy.lawson@gsa.gov) will verify that your request is within budget and recommended for approval by Pia before approving as well.
 
 **Purchase, travel approval, and logistics**
 
-Once Josh and Jackie have approved, your request will move on to [18F Purchasers](mailto:18f-purchasers@gsa.gov). Then, one (or two) of three things will happen:
+Once Pia and Amy have approved, your request will move on to [TTS Purchasers](mailto:tts-purchasers@gsa.gov). Then, one (or two) of three things will happen:
 
 * If your request didn't require anything to be purchased and there were no travel expenses, it will be marked as "purchased" and resolved with no further action required on your part.
 * If your request requires that something be purchased, [read on here](/professional-development-and-training/#does-the-training-or-conference-require-payment) for more.
