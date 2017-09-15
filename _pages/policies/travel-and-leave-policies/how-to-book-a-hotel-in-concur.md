@@ -38,4 +38,4 @@ title: How to book a hotel in Concur
 
 9. Scroll down and click **Next** and [proceed on to submitting for Concur approval](/travel-guide-3-approval)
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

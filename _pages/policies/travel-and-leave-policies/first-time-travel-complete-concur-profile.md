@@ -27,4 +27,4 @@ It will make [booking hotels in Concur](/how-to-book-a-hotel-in-concur) easier, 
 #### Having Trouble
 Check out the screen shots [here](https://docs.google.com/drawings/d/1eP5E7Tq1K4Iva7aNSHjLukJcZzD2Cdkf6LCoEDRzsFM/edit)
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

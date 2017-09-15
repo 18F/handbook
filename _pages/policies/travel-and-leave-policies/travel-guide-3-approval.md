@@ -22,9 +22,9 @@ Enter the following trip information on this page:
 
 1. **Trip name:** Follow the naming convention below:
 
-    * BILLABLE/NON-BILLABLE: [Exact name of Tock Project] you are billing against, # of [tock project ID](http://tock.18f.gov/projects).
+    * BILLABLE/NON-BILLABLE: [if nonbillable, [correspondence code](https://docs.google.com/spreadsheets/d/1WLVv2x7GauLo0-waK3FqeVxN7UCZmXw_t2E745Gfmug/edit#gid=600166428) of the director approving the travel] [Exact name of Tock Project] you are billing against, # of [tock project ID](http://tock.18f.gov/projects).
 
-    * Example: NON-BILLABLE: Ops/ Admin #3
+    * Example: NON-BILLABLE: QOA Ops/ Admin #3
 
 2. **Document detail:** Brief summary of the purpose of the trip.
 
@@ -55,7 +55,7 @@ You will now see final reservation. Review all of the details and hit **“Confi
 If you've navigated away from your authorization, you can find it from the **Home** page, scroll down to the **Recent Authorization** and click **Edit**
 
 ## Make Your Authorization or Voucher is Ready to Submit
-[This Checklist](https://goo.gl/AWbT7Q) will help you check your authorization/voucher for potential issues that can result in your request getting rejected or returned for correction. 
+[This Checklist](https://goo.gl/AWbT7Q) will help you check your authorization/voucher for potential issues that can result in your request getting rejected or returned for correction.
 
 ## Submit Authorization for Approval
 You're getting really close! You can almost feel the TSA X-ray scan! One last step before it's travel time! In this step, you will send your authorization to be approved by the TTS travel team.
@@ -66,7 +66,7 @@ You're getting really close! You can almost feel the TSA X-ray scan! One last st
 
 3. The next page will show you your **pre-audit results**. These will let you know if anything might be awry, which is represented by either a _FAIL_ or a _HARDFAIL_. As long as you've followed the process up to here correctly, you shouldn't worry too much about either _FAILS_ or _HARDFAILS_. Here's what to do if you get them:
 
-    * Any _HARDFAIL_ must be corrected before the submission of the authorization. Likely causes for _HARDFAILS_ are the lack of accounting codes, which only the TTS travel team has to worry about (you don't). Please first ensure that [the information in the General tab](/travel-guide-3-approval/#fill-in-general-information) is correct, then close out of your authorization (click **Close Document** to the left of the *Document Actions* button), and finally notify the travel team in #travel or at 18f-travel@gsa.gov and they will assist you during their next [office hours](/travel-101/#communication).
+    * Any _HARDFAIL_ must be corrected before the submission of the authorization. Likely causes for _HARDFAILS_ are the lack of accounting codes, which only the TTS travel team has to worry about (you don't). Please first ensure that [the information in the General tab](/travel-guide-3-approval/#fill-in-general-information) is correct, then close out of your authorization (click **Close Document** to the left of the *Document Actions* button), and finally notify the travel team in #travel or at tts-travel@gsa.gov and they will assist you during their next [office hours](/travel-101/#communication).
 
     *  _FAILS_ can happen for a variety of reasons. TTS's travel process is designed so you don't have to worry about Concur _FAILS_-- as long as you've followed all of the rules up to here, the travel team will look into and justify anything that needs clarification. Proceed to **Continue Stamping the Document**
 
@@ -82,4 +82,4 @@ You might want to take a look at what to expect while traveling!
 [Read about what to expect when you travel](/travel-guide-4-travel/)
 
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

@@ -17,11 +17,11 @@ If you have travel questions, you can ask them during TTS travel team [office ho
 
 For more involved questions, you can also [sign up for a 1-on-1 appointment with a member of the TTS travel team](https://calendar.google.com/calendar/selfsched?sstoken=UUZmSUplekFxYzFofGRlZmF1bHR8ZGE3Zjg4NTljODU3NTEyNzgwYmU5YmRlYTdlNTFjNTY). The 1-on-1s will be offered every day between 11:30 AM and 12:30 PM Eastern. If you're new and have read through the [Handbook Travel Guide](/travel-guide-start-here/) and aren't sure where to start, feel free to book some 1-on-1 time and get yourself oriented. If there are no 1-on-1s scheduled, morning office hours will continue through this time.
 
-The travel team also approves [authorizations](/travel-101/#authorizations) at 2:30 PM Eastern every day, and Ethan does final approvals by 6 PM ET. If your travel wasn’t approved and you think it should have been, feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) at 3 PM Eastern to check if it was received.
+The travel team also approves [authorizations](/travel-101/#authorizations) at 2:30 PM Eastern every day, and Ethan does final approvals by 6 PM ET. If your travel wasn’t approved and you think it should have been, feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) at 3 PM Eastern to check if it was received.
 
 *Note:* Authorizations will be addressed within a day of being submitted, but vouchers may take up to 5 business days since they are handled them as the remaining travel approval time on the office hours calendar permits.
 
-Finally, please don’t DM or @ individual travel team members outside of office hours. Instead, email [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov), or ask in [#travel](https://gsa-tts.slack.com/messages/travel/) at any time, and you’ll receive a response during the next office hours.
+Finally, please don’t DM or @ individual travel team members outside of office hours. Instead, email [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or ask in [#travel](https://gsa-tts.slack.com/messages/travel/) at any time, and you’ll receive a response during the next office hours.
 
 DMs/@s made outside of these times may not receive a response-- everyone on the travel team juggles multiple duties, including billable projects. Reducing time cost associated with context switching will help get TTS closer to :4300:. Thanks for your understanding!
 
