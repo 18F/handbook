@@ -37,9 +37,9 @@ If your travel requires a change in dates, but no flight or rail reservations wi
 
 Once you go through the process of making the changes to your itinerary, there are two possible outcomes:
 
-1. If the changes you are making to your trip *do not* require additional approval as per [the guidance above](/#What-kind-of-approvals-do-I-need-in-order-to-change-my-itinerary), once you confirm your reservation, assuming your trip had previously been approved in Concur, no further action is required-- safe travels!
+1. If the changes you are making to your trip *do not* require additional approval as per the guidance above, once you confirm your reservation, assuming your trip had previously been approved in Concur, no further action is required-- safe travels!
 
-2. If the changes you are making to your trip *do* require additional approvals, your new reservations will be considered to be an **Amendment** to the authorization, and will need to be [re-submitted for approval again](/travel-guide-3-approval). The travel team will approve when the email of approval is received in the [tts-travelauths@gsa.gov](tts-travelauths@gsa.gov) box.
+2. If the changes you are making to your trip *do* require additional approvals, your new reservations will be considered to be an **Amendment** to the authorization, and will need to be [re-submitted for approval again](/travel-guide-3-approval). The travel team will approve when the email of approval is received in the [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov) box.
 
 In the case of travel that is already in progress, no amendment may be immediately required to take a flight in some cases. However, before doing your voucher, you will have to submit an amended authorization, which will be automatically generated for you in you booked via AdTrav. If you called the airline to change your reservations, you will likely need to manually amend your dates of travel in Concur.
 

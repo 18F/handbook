@@ -78,7 +78,7 @@ Now you need to make sure each of your expenses is accounted for. This step is a
 
     * [Uncommon Expenses](#uncommon-expenses)
 
-3. [Proceed to submitting your voucher](#iii-submit-voucher-for-approval)
+3. [Proceed to submitting your voucher](#iv-submitting-voucher-for-approval)
 
 
 #### Airfare or Rail

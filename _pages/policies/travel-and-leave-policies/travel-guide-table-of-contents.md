@@ -21,9 +21,9 @@ title: Travel Guide Table of Contents
     * [Submitting for Approval](/travel-guide-3-approval/#submit-authorization-for-approval)
 * [4. Travel](/travel-guide-4-travel)
 * [5. Get Reimbursed](/travel-guide-5-reimbursement)
-   * [Create Voucher](/travel-guide-5-reimbursement/#i-create-a-voucher)
-   * [Enter Expenses](/travel-guide-5-reimbursement/#ii-entering-expenses)
-   * [Submit for Approval](/travel-guide-5-reimbursement/#iii-submit-voucher-for-approval)
+   * [Create Voucher](/travel-guide-5-reimbursement/#i-creating-a-voucher)
+   * [Enter Expenses](/travel-guide-5-reimbursement/#iii-entering-expenses)
+   * [Submit for Approval](/travel-guide-5-reimbursement/#iv-submitting-voucher-for-approval)
 * [Travel Guide FAQ](/travel-guide-faq)
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

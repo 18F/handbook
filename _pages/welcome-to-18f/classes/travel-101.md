@@ -43,7 +43,7 @@ In order to ensure same-day approval of your travel, please ensure that your aut
 
 ## Vouchers
 
-Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](https://handbook.18f.gov/travel-guide-5-reimbursement/#i-create-a-voucher), [adjust it accordingly and upload corresponding receipts](https://handbook.18f.gov/travel-guide-5-reimbursement/#ii-entering-expenses), and again [submit to the travel team for approval](https://handbook.18f.gov/travel-guide-5-reimbursement/#iii-submit-voucher-for-approval). Once completed, everything charged to your travel card will be reconciled.
+Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](https://handbook.18f.gov/travel-guide-5-reimbursement/#i-create-a-voucher), [adjust it accordingly and upload corresponding receipts](https://handbook.18f.gov/travel-guide-5-reimbursement/#ii-entering-expenses), and again [submit to the travel team for approval](https://handbook.18f.gov/travel-guide-5-reimbursement/#iv-submitting-voucher-for-approval). Once completed, everything charged to your travel card will be reconciled.
 
 It is important to complete your vouchers on time-- within 5 business days of returning from travel. Submitting vouchers late is a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, no travel will be approved for anyone with travel expenses that are more than 5 business days outstanding.
 

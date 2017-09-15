@@ -34,7 +34,7 @@ Know that you've already been approved to travel? Skip ahead to [I'm approved! W
 First, determine how many other 18F employees will be traveling to the event that you are going to. Then, use the method outlined below to secure approval for yourself and your team where applicable.
 
   * **C2** If the travel involves going to a training or conference, your approval will be be processed via C2. Follow the [Professional Development and Training Guide](/professional-development-and-training/#professional-development-training), and include everyone who is attending the training or conference on the request by adding others as "observers" to the request once it has been submitted. Once your C2 request is approved, you may skip ahead to [booking your travel](/travel-guide-1-authorization/#im-approved-whats-next).
-  * **Email** If the travel is for other non-billable business, you will make a request via email (cc-ing the group if applicable). Requirements for the email are [below](/travel-guide-1-authorization/#nonbillable travel email approvals):
+  * **Email** If the travel is for other non-billable business, you will make a request via email (cc-ing the group if applicable). Requirements for the email are [below](/travel-guide-1-authorization/#nonbillable-travel-email-approvals):
 
 ### Nonbillable travel email approvals
 
