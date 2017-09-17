@@ -3,7 +3,7 @@ title: Equipment
 slack-channel: equipment
 ---
 
-GSA issues every 18F employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Ops Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
+GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Ops Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
 
 ## Badge
 
@@ -19,7 +19,7 @@ Badges are shipped to your local GSA office. You will receive an email once your
 
 ## Laptop
 
-All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA.
+TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA.
 
 ### <a id="laptop">Rules</a>
 
@@ -35,7 +35,7 @@ All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this i
 
 **Check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790).** GSA IT sets up your laptop with FileVault encryption. You won't need to (and shouldn't) change this, but you can check it in your System Preferences just to see that it's there and properly set up.
 
-**Encrypt all portable media that will connect to any 18F system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
+**Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
 ### Tips
 
@@ -43,7 +43,7 @@ All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this i
 
 ## Phone
 
-All 18F employees are issued an Apple iPhone. The Ops Team will already have submitted a request to GSA IT for your work phone before you join 18F. Within a few weeks of starting at 18F, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
+TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have submitted a request to GSA IT for your work phone before you join TTS. Within a few weeks of starting at TTS, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
 
 ### Rules
 
@@ -66,11 +66,11 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. The procedure for requesting, however, varies by office.
 
-You can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect 18F's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
+You can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect TTF or 18F branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
 
 #### DC or remote
 
-Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the 18F Operations Team will reach out to you.
+Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the TTS Operations Team will reach out to you.
 
 Ops is testing [C2](https://requests.18f.gov) for requesting office supplies, computer hardware, approved software, trainings, and other items under $3,500.
 
@@ -86,7 +86,7 @@ To make a request:
 1. After submitting your request, it will be reviewed by the Director of Operations. The Director of Operations must approve all requests before they are purchased.
 1. After your request is approved, it will typically be purchased by a purchase card holder on the operations team. Do not purchase yourself unless you are instructed to do so by a member of the operations team.
 
-If you're requesting software that no one else at 18F uses yet, be sure you have written approval from [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://gsa-tts.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
+If you're requesting software that no one else at TTS uses yet, be sure you have written approval from [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://gsa-tts.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
 
 If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
@@ -105,17 +105,17 @@ To purchase this type of equipment, go to <https://requests.18f.gov/> and attach
 
 ## Repairs
 
-If 18F-issued equipment fails due to manufacturer defects or accidental damage:
+If TTS-issued equipment fails due to manufacturer defects or accidental damage:
 
-- 18F will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all 18F-issued hardware and peripherals.
+- TTS will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all TTS-issued hardware and peripherals.
 - Employees are responsible for informing Team Ops in [#equipment](https://gsa-tts.slack.com/messages/equipment) of the damage or need for repair by the close of business one business day following the damage.
-- If either your laptop or your phone is in need of repair, please go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we'll ship you a new laptop).
+- If either your laptop or your phone is in need of repair, please go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (TTS will pay for the repairs), or ship it back to TTS (we'll ship you a new laptop).
 - If you need to take your laptop to the Apple Store, you can check to see if it's under warranty with the hardware serial number [here](https://checkcoverage.apple.com/). If it is not under warranty, Team Ops will walk you through how to take care of the cost for repair.
 - If you need to leave your laptop for repairs at the Apple Store, double check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790). As a reminder, GSA IT sets up your laptop with FileVault encryption. You can check it in your System Preferences to see that it's there and properly set up.
 
 ## <a id="stolen-or-lost">Lost or stolen equipment</a>
 
-If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert 18F in [#equipment](https://gsa-tts.slack.com/messages/equipment):
+If TTS issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert TTS in [#equipment](https://gsa-tts.slack.com/messages/equipment):
 
 1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
 2. Call 911 or a local police station when you suspect theft has occurred.
@@ -124,7 +124,7 @@ If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employ
 5. Call your FPS using contact information provided in the link.
 6. Contact your regional ISSO using contact information provided in the link.
 
-18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov)
+TTS will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov)
 
 ## Requirements for passwords
 
@@ -134,4 +134,4 @@ Read the guide on [setting and managing passwords](https://handbook.18f.gov/pass
 
 #### Still have questions?
 
-Ask in Slack: [#equipment](https://gsa-tts.slack.com/messages/equipment) or [#teamops](https://gsa-tts.slack.com/messages/teamops)
+Ask in Slack: [#equipment](https://gsa-tts.slack.com/messages/equipment), [#teamops](https://gsa-tts.slack.com/messages/teamops), or [#talent](https://gsa-tts.slack.com/messages/talent)
