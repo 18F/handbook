@@ -100,11 +100,11 @@ If you’re interested in taking a training related to your role at TTS, you’l
 
 The review and approval processes can take a bit of time, so it’s best if you make your training request as early as possible. Here are some basic guidelines about how far in advance to request training:
 
-* **Two weeks in advance:** If you’re interested in a training that costs less than $3,000, is not at a conference, doesn’t require travel, doesn't involve more than one individual from TTS, and doesn’t involve an outside source of funding.
+* **Two weeks in advance:** If you’re interested in a training that costs less than $3,500, is not at a conference, doesn’t require travel, doesn't involve more than one individual from TTS, and doesn’t involve an outside source of funding.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least one week in advance.*
-* **Three to four weeks in advance:** For trainings that are less than $3,000 altogether, don't require an outside source of funding, and are either at a conference, require travel, or involve more than one person from TTS attending.
+* **Three to four weeks in advance:** For trainings that are less than $3,500 altogether, don't require an outside source of funding, and are either at a conference, require travel, or involve more than one person from TTS attending.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least two weeks in advance.*
-* **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,000 altogether, anything involving an outside source of funding, or international travel.
+* **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,500 altogether, anything involving an outside source of funding, or international travel.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least four weeks in advance.*
 
 Requests that don't make it to [C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) in time will not be approved.
@@ -167,7 +167,7 @@ Before your request can be approved, it needs to be free of red flags. During he
 Some of the most common red flags include:
 
 * [Any training or conference requiring payment](/professional-development-and-training/#does-the-training-or-conference-require-payment)
-* [Training or conference purchase is over $3,000](/professional-development-and-training/#Does-the-training-or-conference-cost-over-3000)
+* [Training or conference purchase is over $3,500](/professional-development-and-training/#Does-the-training-or-conference-cost-over-3500)
 * [Conferences or trainings at conferences](/professional-development-and-training/#Are-you-attending-a-conference-or-training-at-a-conference)
 * [Training or conferences involving travel](/professional-development-and-training/#does-the-training-or-conference-require-travel)
 * [Any international travel](/professional-development-and-training/#Does-your-request-require-international-travel)
