@@ -20,7 +20,7 @@ Timecards are due by the end of day (close of business) on Friday. If you fail t
 
 ## Creating Tock Projects
 
-There are two kinds of Tock projects, billable and non-billable. Tock projects can only be created by TTS Operations staff. 
+There are two kinds of Tock projects, billable and non-billable. Tock projects can only be created by TTS Operations staff.
 Request the creation of a project in [#tock](https://gsa-tts.slack.com/messages/tock).
 
 Non-billable activities/projects can be requested by any person in TTS. When requested, the requester should provide:
@@ -50,7 +50,7 @@ You should track time spent on each billable project separately. In addition, yo
 
 Whenever you take “leave” — be that vacation time, holiday time, sick time, or another type of leave — you should log it as one of the "Out of Office" categories in Tock (listed below). If your leave begins prior to the release of a timecard (before Wednesday), please send your manager an email with your time entries and they will ensure they are entered. For longer leave requests, make sure you have your time entered on the “18F Out of Office” Google calendar — Ops tracks those entries and will enter your time. If you don’t enter extended leave in the “18F Out of Office” calendar Ops won’t know you are out, won’t enter your time, and you will be delinquent.
 
-[ALOHA](/gsa-tools-equipment-and-transit#aloha) is GSA’s out of office request system and is separate from [Tock](/tock), which is TTS’s own timekeeping system. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
+[ALOHA](/gsa-internal-tools#aloha) is GSA’s out of office request system and is separate from [Tock](/tock), which is TTS’s own timekeeping system. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
 
 The Out of Office options in Tock reflect categories of leave used in ALOHA. This will make reconciliation of Tock and ALOHA much easier, and more accurately track our time.
 
@@ -72,7 +72,7 @@ The Out of Office options in Tock reflect categories of leave used in ALOHA. Thi
 
 `Other` Tock your time here if you are away from the office and not performing duties but it does not fit in any of the previous 8 categories, please record that time here as well as making a note of what you were doing during that time.
 
-For more information on leave, see the [Benefits class](/benefits#leave) and the [GSA Tools and Equipment class](/gsa-tools-equipment-and-transit).
+For more information on leave, see the [Benefits class](/benefits#leave) and the [GSA Tools and Equipment class](/gsa-internal-tools).
 
 ## Questions
 
