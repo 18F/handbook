@@ -1,6 +1,14 @@
 ---
-title: How to get a copy of Office for OS X
-navtitle: Office for OS X
+title: How to get Microsoft Office for OS X
+navtitle: Microsoft Office for OS X
+Tags:
+- Microsoft
+- office
+- suite
+- word
+- excel
+- xcel
+- powerpoint
 ---
 
 To request a Microsoft Office license for your Mac, send an email to <18fsoftware@gsa.gov>.
