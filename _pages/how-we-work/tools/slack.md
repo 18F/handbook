@@ -26,9 +26,9 @@ Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff.
 - Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
 - Members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov)
 
-## Usage of other Slack teams
+## Usage of other Slack workspaces
 
-You may be invited to other Slack teams operated by government entities, or entities under contract to the government. You're allowed to join those teams as necessary for your work. You should join those teams with your **government email address** and ensure your avatar and profile information are consistent across Slack teams. If you're invited to Slack teams unrelated to your job, you must join those teams with a personal email address.
+You may be invited to other Slack workspaces operated by government entities, or entities under contract to the government. You're allowed to join those workspaces as necessary for your work. You should join those workspaces with your **government email address** and ensure your avatar and profile information are consistent across Slack workspaces. If you're invited to Slack workspaces unrelated to your job, you must join those workspaces with a personal email address.
 
 ## Adding people
 
@@ -64,9 +64,9 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 Slack users need to be offboarded in the following situations:
 
 * Someone leaving TTS
-    * Someone from [#talent](https://gsa-tts.slack.com/messages/talent/) should post in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) when this happens.
+    * Someone from [#talent](https://gsa-tts.slack.com/messages/talent/) should fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform) when this happens.
 * A partner who's employment/engagement is ending
-    * It is the responsibility of the engagement manager to inform [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) when this is happening.
+    * It is the responsibility of the engagement manager to inform @slackadmin in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) when this is happening.
 
 An admin will then do one of the following:
 
@@ -95,7 +95,7 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
 
 Per the mandatory [General Records Schedule 3.1](http://www.archives.gov/records-mgmt/memos/ac33-2014.html) issued by the National Archives and Records Administration (NARA), everything in Slack channels and groups is considered at minimum a temporary record.
 
-To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/).
+To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) using @slackadmin.
 
 This policy applies to all types of Slack communications: public channels, private groups, even direct messages. **Nothing is private.** We use the [compliance export](https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-policy-update#complianceexport) capability in Slack to view all messages. The Primary Team Owner is responsible for ensuring monthly exports and backing these exports up in GSA's Google Drive.
 
@@ -176,7 +176,7 @@ Groups are a great way to alert people who might not be in a channel about somet
   - **Acquisitions employees** review your post with Stephen Reilly, and he can post it when it's ready.
   - **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
   - **PIF employees** review your post with Nathan Olson, and he can post it when it's ready.
-  
+
   Please keep #news posts limited to information that the entire team needs to know. This includes things like:
     - Required trainings
     - Necessary security and compliance actions

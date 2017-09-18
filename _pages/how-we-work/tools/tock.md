@@ -6,9 +6,9 @@ We use Tock to track our time.
 
 ## Tock
 
-To facilitate our fee-for-service business model, 18F has developed its own timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and I personally recommend bookmarking it for easy reference.
+To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
 
-18F's business model is based on billing for time logged to a project. Every expense -- salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on -- is paid for by our billing, which is recorded by each person in Tock.
+TTS's business model is based on billing for time logged to a project. Every expense -- salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on -- is paid for by our billing, which is recorded by each person in Tock.
 
 We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
 
@@ -20,24 +20,24 @@ Timecards are due by the end of day (close of business) on Friday. If you fail t
 
 ## Creating Tock Projects
 
-There are two kinds of Tock projects, billable and non-billable. Tock projects can only be created by 18F Operations staff. 
+There are two kinds of Tock projects, billable and non-billable. Tock projects can only be created by TTS Operations staff. 
 Request the creation of a project in [#tock](https://gsa-tts.slack.com/messages/tock).
 
-Non-billable activities/projects can be requested by any person in 18F. When requested, the requester should provide:
+Non-billable activities/projects can be requested by any person in TTS. When requested, the requester should provide:
 * A suggested title
 * A 2-3 sentence description of the project/activity.
 * Validation this project will not become billable.
 * An expiration date for the project/activity, not to exceed the end of the fiscal year.
-* The 18F Director of Operations must approve the creation of all non-billable activities/projects.
+* The TTS Director of Operations must approve the creation of all non-billable activities/projects.
 
-Billable projects can only be created after an agreement has been signed. 18F Operations staff will create the project using the following information provided from the Business Unit responsible for the project:
+Billable projects can only be created after an agreement has been signed. TTS Operations staff will create the project using the following information provided from the Business Unit responsible for the project:
 * A title, with the business unit name and client name as the leading part of the title.
 * A 2-3 sentence description of the project.
 * The name of the project manager for the project.
 
 ## Tracking time
 
-Carefully track and record your work at 18F. Some 18F colleagues use software
+Carefully track and record your work at TTS. Some TTS colleagues use software
 such as [Toggl](https://toggl.com/) or [Hours](https://hourstimetracking.com/) to do this. Others have created [templates](https://docs.google.com/spreadsheets/d/1S2WWVy3Y5pQ4Bweg0DsGyKOaqzoou_YIE3Jf9uRDwlI/edit) in Google Sheets to record their weekly time. Feel free to make a copy of this template and use it for yourself.
 
 You should track time spent on each billable project separately. In addition, you should split out certain entries for non-billable work. Here's a quick cheat-sheet on common non-billable time entries:
@@ -50,7 +50,7 @@ You should track time spent on each billable project separately. In addition, yo
 
 Whenever you take “leave” — be that vacation time, holiday time, sick time, or another type of leave — you should log it as one of the "Out of Office" categories in Tock (listed below). If your leave begins prior to the release of a timecard (before Wednesday), please send your manager an email with your time entries and they will ensure they are entered. For longer leave requests, make sure you have your time entered on the “18F Out of Office” Google calendar — Ops tracks those entries and will enter your time. If you don’t enter extended leave in the “18F Out of Office” calendar Ops won’t know you are out, won’t enter your time, and you will be delinquent.
 
-[ALOHA](/gsa-tools-equipment-and-transit#aloha) is GSA’s out of office request system and is separate from [Tock](/tock), which is 18F’s own timekeeping system. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
+[ALOHA](/gsa-tools-equipment-and-transit#aloha) is GSA’s out of office request system and is separate from [Tock](/tock), which is TTS’s own timekeeping system. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
 
 The Out of Office options in Tock reflect categories of leave used in ALOHA. This will make reconciliation of Tock and ALOHA much easier, and more accurately track our time.
 
@@ -82,7 +82,7 @@ Tock likely doesn't have your start date listed correctly. To fix this:
 
 1. Click on the Users link.
 2. Find and click on your name in the list of Tock users. (Your email address should be a clickable link.)
-3. Enter your Employment Start Date as the day you started at 18F.
+3. Enter your Employment Start Date as the day you started at TTS.
 4. Click Update.
 5. Now that long list of reports to fill out should be gone.
 
@@ -112,7 +112,7 @@ The time you spend figuring out travel plans is billable to the project you are 
 
 ### How should I bill email?
 
-Some 18F colleagues suggest chunking your email time so it's easier to keep track of when you're dealing with email from each project. Others use their "sent" messages as a means to determine how much time they spent emailing (per project).
+Some TTS colleagues suggest chunking your email time so it's easier to keep track of when you're dealing with email from each project. Others use their "sent" messages as a means to determine how much time they spent emailing (per project).
 
 ### What are some examples of activities that I should typically charge time to a client project?
 
@@ -127,7 +127,7 @@ Use the GSA System ALOHA and select your supervisor from the drop-down menu. You
 
 ### What are some examples of activities that are not client-billable?
 
-- 18F-specific meetings (e.g., the weekly all-hands meeting)
+- TTS-specific meetings (e.g., the 18F weekly all-hands meeting)
 - Events that aren't related to a particular project
 - GSA HR activities (e.g., mandatory training)
 
@@ -137,9 +137,9 @@ Yes! We don't promise our partners specific people. That enables anyone to scrub
 
 ### Tell me more about why we have to bill our time
 
-- 18F's current funding source is based exclusively on the amount of revenue we can generate from our clients in other parts of the federal government.
-- Labor is usually the largest portion of the cost of the services 18F provides. Based on our flexible delivery model, you may be working on multiple projects concurrently, and _accurate time accounting_ is critical to generating auditable client invoices.
-- Understanding how people work across multiple projects provides 18F as a whole with insight into areas where we might be over or under capacity.
+- TTS's current funding source is based exclusively on the amount of revenue we can generate from our clients in other parts of the federal government.
+- Labor is usually the largest portion of the cost of the services TTS provides. Based on our flexible delivery model, you may be working on multiple projects concurrently, and _accurate time accounting_ is critical to generating auditable client invoices.
+- Understanding how people work across multiple projects provides TTS as a whole with insight into areas where we might be over or under capacity.
 - Understanding the actual labor costs required to deliver projects will help us prepare more accurate _cost estimates_ for similar projects in the future.
 - Tracking time spent on a project, and thus labor costs, will allow us to gauge how quickly funds are being spent relative to the allocated amount under the [IAA](/agreements). If a project seems to burning funds quicker than expected, for example, there may be underlying causes (e.g., lost efficiencies) that require attention.
 

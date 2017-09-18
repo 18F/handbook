@@ -26,7 +26,7 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 - Make sure you change the permission on new documents so that the proper people can view and edit them. If you put your documents or files in any of the folders within the [18F folder](https://drive.google.com/drive/u/0/folders/0B84F26FpUP0lR1B2VVNGSi1MMVk), the sharing settings should automatically be correct.
 
-- Grant editing or commenting access to the entire team on a files by adding <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
+- Grant editing or commenting access to the entire team on a files by adding <mailto:tts@gsa.gov>, <mailto:opp-team@gsa.gov>, or <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
 
 - It is much better to add a Google Group of people to a document than individual email addresses because you can control access to the group from one location, particularly when someone leaves 18F.
 

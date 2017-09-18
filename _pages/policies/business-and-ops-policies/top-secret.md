@@ -8,7 +8,8 @@ For certain projects, clients need TTS employees to have this type of clearance 
 
 ### 1. Work with your supervisor to complete the following documents:
 * [GSA Position Risk Determination Survey](https://goo.gl/nC9D5S)
-   * For Question #7 refer to pages A108-112 of the [Cybersecurity Guide](https://goo.gl/SPTm3m) and choose only one code
+   * For Question #7 refer to pages 4-10 of the [Federal Cybersecurity Coding Structure](https://goo.gl/633NXj)  
+     * Choose up to 3 codes which describe the type of cybersecurity work assigned to the position, and list them in descending order by majority of work time.
 
 * Supervisor must write up a Justification explaining why this clearance is necessary
    * [Sample Justification](https://goo.gl/FVRmeZ)
@@ -41,4 +42,4 @@ For certain projects, clients need TTS employees to have this type of clearance 
 
 ### Still have questions?
 
-Ask [#talent](https://gsa-tts.slack.com/messages/talent) or [TTS-Talent-team@gsa.gov](mailto:TTS-Talent-team@gsa.gov)
+Ask [#talent](https://gsa-tts.slack.com/messages/talent) or [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov)

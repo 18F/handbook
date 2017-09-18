@@ -11,7 +11,7 @@ This post provides information about mandatory (OLU) and professional developmen
 
 ## Leadership
 
-[Pia Scott](mailto:pia.scott@gsa.gov) is TT's Director of Training and Development. She is based in Washington, D.C.
+[Pia Scott](mailto:pia.scott@gsa.gov) is TTS's Director of Training and Development. She is based in Washington, D.C.
 
 
 ## Communication

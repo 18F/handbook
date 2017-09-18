@@ -1,5 +1,5 @@
 ---
-title: telework and virtual worker policy
+title: Telework and virtual worker policy
 tags:
 - remote
 ---
@@ -18,7 +18,7 @@ A regular teleworker may also be permitted to telework episodically for addition
 
 ### Culture
 
-While your supervisor is the deciding official for implementing the telework policy, the culture of 18F is to keep project teams, supervisors, and coworkers apprised of your schedule through designated channels (18F Out of Office Calendar and Slack).
+While your supervisor is the deciding official for implementing the telework policy, the culture of TTS is to keep project teams, supervisors, and coworkers apprised of your schedule through designated channels (Ex: 18F Out of Office Calendar and Slack).
 
 ### Alternative worksite location
 
@@ -101,10 +101,10 @@ You can learn about [travel alerts and warnings](http://travel.state.gov/content
 
 ### Office of Mission Assurance
 
-* [Timothy Gross](mailto:timothy.goss@gsa.gov)
-* [Adrienne Simmons](mailto:adrienne.simmons@gsa.gov)
+* Timothy Gross
+* Adrienne Simmons
 
-Find their phone numbers by searching the [GSA Staff Directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action).
+Their contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent). 
 
 ## Questions
 

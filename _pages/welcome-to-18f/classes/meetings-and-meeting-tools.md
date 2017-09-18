@@ -99,10 +99,6 @@ You can also look for suggested times based on the people attending by clicking 
 
 **You can set up blocks of time that people can reserve.** Just select "Appointment slots" after you choose a window of time (this is especially useful for researchers).
 
-## <a id="doodle">Doodle</a>
-
-People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-time surveys. If you're flexible on when you want your meeting to start, it's a great idea to send out a Doodle and poll attendees on what times work for them.
-
 ## <a id="google-hangouts">Google Hangouts</a>
 
 [Google Hangouts](/google-hangouts) are video chats in the browser. Here are some tips for using Hangouts:
