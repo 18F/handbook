@@ -132,7 +132,7 @@ navigation:
   internal: true
   generated: true
   children:
-  - text: Diversity at 18F
+  - text: Diversity at TTS
     url: diversity/
     internal: true
   - text: General contacts and listservs

@@ -69,4 +69,4 @@ Remember: it's totally OK — and encouraged — to fail towards the side of rep
 
 If an incident involved exposing environment variables or private configuration
 data, consider [adding a Rule](https://github.com/18F/laptop#git-seekret) to the
-Git Seekrets installation to prevent further incidents across 18F.
+Git Seekrets installation to prevent further incidents across TTS.

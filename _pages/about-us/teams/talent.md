@@ -4,7 +4,7 @@ title: Talent
 
 The Talent Team is a group of problem solvers dedicated to making government the most sought-after workplace. We're proactively building a world-class federal workforce and providing an enjoyable, impactful employment experience for each of our team members. In short, we are building the team that delivers the beautiful, useful services that make up our 21<sup>st</sup> century digital government.
 
-18F Talent attracts the most passionate, talented individuals from across the public and private sectors, offering them unique professional development opportunities, top-notch customer service, and fulfilling, impactful work that transforms how the public interacts with the government. We work on:
+TTS Talent attracts the most passionate, talented individuals from across the public and private sectors, offering them unique professional development opportunities, top-notch customer service, and fulfilling, impactful work that transforms how the public interacts with the government. We work on:
 
 - **Recruitment:** We help identify, target, and attract talented, diverse candidates to apply to join 18F.
 - **Administration:** We help our applicants move through the official GSA hiring process by liaising with HR.
@@ -21,7 +21,7 @@ If you have any questions, you can find us on Slack in [#talent](https://gsa-tts
 
 # Joining the Talent Team
 
-Welcome to the 18F Talent team -- we're happy you're here! We've compiled a set of helpful tips to get you started. We'll update this guide as we receive feedback, so don't be shy to share your thoughts.
+Welcome to the TTS Talent team -- we're happy you're here! We've compiled a set of helpful tips to get you started. We'll update this guide as we receive feedback, so don't be shy to share your thoughts.
 
 ## <a id="checklist">Checklist</a>
 
@@ -31,11 +31,11 @@ Please note that you might not have much assigned work during your first week he
 
 ## <a id="who-we-are">Who we are</a>
 
-The Talent team at 18F includes HR consultants, talent acquisition specialists, operations specialists, and executive assistants. We are passionate and dedicated problem solvers obsessed with process improvement. We come from a variety of backgrounds, including government, non-profits, and consultancies.
+The Talent team at TTS includes HR consultants, talent acquisition specialists, operations specialists, and executive assistants. We are passionate and dedicated problem solvers obsessed with process improvement. We come from a variety of backgrounds, including government, non-profits, and consultancies.
 
 ### <a id="structure">Structure</a>
 
-As per [the org chart](/org-chart), 18F Talent is broken down into small "teams" focused on recruitment, administration, training and development, and product and process. Most of these "teams" are one or two individuals.  Also, a number of previously identified roles have yet to be filled, which means a few people are playing a few key roles during this time.
+As per [the org chart](/org-chart), TTS Talent is broken down into small "teams" focused on recruitment, administration, training and development, and product and process. Most of these "teams" are one or two individuals.  Also, a number of previously identified roles have yet to be filled, which means a few people are playing a few key roles during this time.
 
 - Executive assistant: Helps our directors with their administrative and logistical needs.
 - Data lead: Helps the Talent team report both internally and externally in a way that enables us to make smart business decisions.
