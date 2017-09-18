@@ -95,8 +95,8 @@ navigation:
     - text: GitHub 101
       url: intro-to-github/
       internal: true
-    - text: GSA tools and transit
-      url: gsa-tools-equipment-and-transit/
+    - text: GSA internal tools
+      url: gsa-internal-tools/
       internal: true
     - text: Infrastructure
       url: intro-to-18f-infrastructure/
@@ -293,7 +293,7 @@ navigation:
       url: google-hangouts/
       internal: true
     - text: GSA Internal Tools
-      url: gsa-tools-equipment-and-transit/#gsa-tools
+      url: gsa-internal-tools/
       internal: true
     - text: How to get Microsoft Office for OS X
       url: office/

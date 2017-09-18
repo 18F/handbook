@@ -23,7 +23,7 @@ Note: The titles below are linked to our handbook pages for each subject. Descri
 * [Introduction to the Infrastructure Team](/intro-to-18f-infrastructure) ([Description](/classes/#infrastructure-team))
 * Slack DM: [Introduction to the Ops Team](/ops/) ([Description](/classes/#ops-team))
 * Email: [Introduction to the Talent Team](/talent) ([Description](/classes/#talent-team))
-* [Equipment and useful government websites](/gsa-tools-equipment-and-transit) ([Description](/classes/#equipment))
+* [Equipment and useful government websites](/gsa-internal-tools) ([Description](/classes/#equipment))
 
 ### Thursday
 * [Introduction to GitHub and the 18F website](/intro-to-github) ([Description](/classes/#github-18F-site))

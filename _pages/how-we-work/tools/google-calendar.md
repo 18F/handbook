@@ -20,7 +20,7 @@ The following calendars are used for internal communication:
 
 You can add the above calendars to your Google calendar by clicking on the link to launch the HTML view and then clicking on `+Google Calendar` on the bottom right of the screen.
 
-In addition to <em>officially</em> requesting time off in <a href="/gsa-tools-equipment-and-transit#aloha">ALOHA</a>, please also add an event on the Google calendar "18F Out of Office" and invite yourself, so we all know when you’re gone.
+In addition to <em>officially</em> requesting time off in <a href="/gsa-internal-tools/#aloha">ALOHA</a>, please also add an event on the Google calendar "18F Out of Office" and invite yourself, so we all know when you’re gone.
 
 ## Tips
 
