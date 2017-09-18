@@ -293,7 +293,7 @@ navigation:
       url: google-hangouts/
       internal: true
     - text: GSA Internal Tools
-      url: gsa-internal-tools/#gsa-tools
+      url: gsa-internal-tools/
       internal: true
     - text: How to get a copy of Office for OS X
       url: office/
