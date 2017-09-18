@@ -377,6 +377,9 @@ navigation:
     - text: Authority To Operate (ATO)
       url: authority-to-operate/
       internal: true
+    - text: Before you ship
+      url: https://before-you-ship.18f.gov/infrastructure/aws/
+      internal: false
     - text: FITARA
       url: fitara/
       internal: true
