@@ -8,7 +8,7 @@ Follow the steps below to create and maintain secure passwords.
 
 ## Requirements for passwords
 
-As you set up your 18F accounts and devices, we have three requirements for making passwords that reduce security risks: use a password manager, use unique passwords, and use stronger passwords.
+As you set up your TTS accounts and devices, we have three requirements for making passwords that reduce security risks: use a password manager, use unique passwords, and use stronger passwords.
 
 ### 1. Use a password manager
 
