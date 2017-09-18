@@ -66,7 +66,7 @@ The #legalstuff team will go over what you can and cannot do as a federal employ
 **When:** Every other Tuesday ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#legalstuff](https://gsa-tts.slack.com/messages/legalstuff), [#foia](https://gsa-tts.slack.com/messages/foia), [#wg-code-of-conduct](https://gsa-tts.slack.com/messages/wg-code-of-conduct)
 
-### <a id="equipment" href="/gsa-tools-equipment-and-transit">Equipment and useful government websites</a>
+### <a id="equipment" href="/gsa-internal-tools">Equipment and useful government websites</a>
 
 The folks from #teamops will provide an overview of how to receive equipment and receive transit benefits. You’ll also learn which government websites to use to request sick or vacation time, book a desk, and request IT help.
 
