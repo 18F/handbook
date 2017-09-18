@@ -1,5 +1,5 @@
 ---
-title: Transit Benefit
+title: Transit benefit
 tags:
 - promotion
 - raise
