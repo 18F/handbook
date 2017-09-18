@@ -132,7 +132,7 @@ navigation:
   internal: true
   generated: true
   children:
-  - text: Diversity at 18F
+  - text: Diversity at TTS
     url: diversity/
     internal: true
   - text: General contacts and listservs
@@ -374,8 +374,14 @@ navigation:
     internal: true
     generated: true
     children:
+    - text: Before you ship
+      url: https://before-you-ship.18f.gov/infrastructure/aws/
+      internal: false
     - text: FITARA
       url: fitara/
+      internal: true
+    - text: IT standards
+      url: it-standards/
       internal: true
     - text: Open source
       url: open-source/

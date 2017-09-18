@@ -2,7 +2,7 @@
 title: Google Analytics
 ---
 
-We use Google Analytics to track traffic and search queries on 18F projects.
+We use Google Analytics to track traffic and search queries on TTS projects.
 
 ## Leadership
 

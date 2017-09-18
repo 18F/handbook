@@ -10,7 +10,7 @@ tweaks, to other situations.
 
 The fundamental purpose of 1:1s is **to build a relationship**. Strong
 relationships are the cornerstone of leadership: everything else we do
-becomes easier when we have strong relationships. At 18F, 1:1s help
+becomes easier when we have strong relationships. At TTS, 1:1s help
 managers fulfill our mission *servant leadership*: we can better help
 the people on our team when we have a strong enough relationship that
 they feel comfortable asking for help.
@@ -248,10 +248,10 @@ want to think about discussing:
     is a great time to check in on goals, discuss progress, provide
     pointers on direction, etc.
 
--   **Conversations about Diversity and Inclusion**: 18F highly values
+-   **Conversations about Diversity and Inclusion**: TTS highly values
     diversity and inclusion, but talking about these topics can be
     difficult -- especially for those to whom these are new topics.
-    For example, some people new to 18F are confused by the “guysbot”
+    For example, some people new to TTS are confused by the “guysbot”
     in Slack, but may not feel comfortable asking about it publically.
     Once you’ve spent some time building the relationship, your 1:1
     can become an excellent place to talk with people about diversity
@@ -367,7 +367,7 @@ anything that you decide during the meetings.
 ## Further Reading
 
 There is a **ton** of material out there on 1:1s! Here are just some of
-them that other people at 18F have found useful in learning more:
+them that other people at TTS have found useful in learning more:
 
 -   [*Experience Design's 1:1
     guide*](https://docs.google.com/document/d/1rghReSVYoWSnYvfo8ZP_Fr9xJRznEuGXw3rsc-Z58v0/edit)
@@ -449,7 +449,7 @@ alternatives that might be worth trying:
 [^1]: Throughout this document I use the term “partner” to mean “the
     person with whom you’re holding the 1:1”. This replaces the stuffy
     and more Management-ese term “direct” that many 1:1 guides use, and
-    emphasizes that at 18F the person you’re holding 1:1s with may not
+    emphasizes that at TTS, the person you’re holding 1:1s with may not
     formally report to you. And even if they do, you’re more likely to
     be in a servent-leadership role than in a command-and-control
     settings.

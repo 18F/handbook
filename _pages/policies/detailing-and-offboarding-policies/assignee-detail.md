@@ -14,7 +14,7 @@ A detail is when a person in one agency goes to work at another agency on a temp
 
 TTS can detail individuals to other agencies, however, because of TTS's financial model (in which we’re required to recover our costs under the authority of the Acquisition Services Fund), a detail is an exception to our general policy of not detailing individuals to other agencies. In general, we enter into agreements with agencies to complete projects, even if the project requires only one staff member to complete. The terms of that arrangement are spelled out under an Interagency Agreement that TTS and the agency agree to, and the agency reimburses TTS for the full-time cost of the individual, which includes salary, benefits, and TTS indirect costs. In some cases, arrangements that are not reimbursed by the other agency, or involve other special circumstances determined on a case by case basis may be approved.
 
-### What if an external agency approaches me or 18F about a detail opportunity?
+### What if an external agency approaches me or TTS about a detail opportunity?
 
 A prerequisite for any work with an agency is that there must be an active IAA with the requesting agency for a specific project. If there is not an existing IAA, the first step is to establish one. To get that process started, contact Jay Finch, Director of Agency Partnerships.
 
@@ -24,7 +24,7 @@ If seeking an exception to the general rule of not doing details, contact your c
 
 ### Can staff from other federal agencies detail into or be assigned into TTS?
 
-Yes. Staff from other agencies can join our team for a specific period of time to work on projects that will ultimately benefit the external agency.  **Project leads must inform chapter directors of the request at the earliest stages**.  This kind of arrangement can be done on a **reimbursable basis**, where TTS pays for the detailee’s salary and benefits, or on a **non-reimbursable basis** where 18F does not pay the other agency back.  **Assignees** are Details that do not require a Memorandum of Agreement (MOA).  For example, team members temporarily joining 18F from from [USDS](https://www.whitehouse.gov/participate/united-states-digital-service) are generally brought over as Assignees.
+Yes. Staff from other agencies can join our team for a specific period of time to work on projects that will ultimately benefit the external agency.  **Project leads must inform chapter directors of the request at the earliest stages**.  This kind of arrangement can be done on a **reimbursable basis**, where TTS pays for the detailee’s salary and benefits, or on a **non-reimbursable basis** where TTS does not pay the other agency back.  **Assignees** are Details that do not require a Memorandum of Agreement (MOA).  For example, team members temporarily joining TTS from from [USDS](https://www.whitehouse.gov/participate/united-states-digital-service) are generally brought over as Assignees.
 
 For **non-reimbursable details**, the lending agency must provide a memo of justification demonstrating that the work performed by the detailee (while with TTS) will ultimately benefit the lending agency.
 
@@ -36,7 +36,7 @@ Details agreements come in increments of 120 days or less (per GSA order HRM P 9
 
 ## Security Verification
 
-All Federal employees working at GSA must have a security clearance. For those employees detailing into 18F from outside of GSA, their security status must be verified with the GSA Security Office. It is the responsibility of the 18F employee supervising the detailee to ensure this is complete. 18F Talent provides step-by-step instructions on how to complete the security process. This process should be completed at the same time as the detail agreement process.  For more information, visit the [18F security verification steps form](https://docs.google.com/document/d/1xX4ro1bm4TtcJpqoz0TbXlpDhiaxLf4coBFg61GPQ9g/edit#heading=h.1jfe24syhsou).
+All Federal employees working at GSA must have a security clearance. For those employees detailing into TTS from outside of GSA, their security status must be verified with the GSA Security Office. It is the responsibility of the TTS employee supervising the detailee to ensure this is complete. TTS Talent provides step-by-step instructions on how to complete the security process. This process should be completed at the same time as the detail agreement process.  For more information, visit the [TTS security verification steps form](https://docs.google.com/document/d/1xX4ro1bm4TtcJpqoz0TbXlpDhiaxLf4coBFg61GPQ9g/edit#heading=h.1jfe24syhsou).
 
 ## Process for Detailing to Another Agency
 
