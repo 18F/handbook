@@ -103,7 +103,7 @@ If you're having difficulty resolving an issue or getting clarification from you
 
 ## Leave
 
-Please use [ALOHA](/gsa-tools-equipment-and-transit/#aloha) to request sick leave and annual leave. For any leave-related questions, please contact GSA HR&rsquo;s Leave Specialist, [Leila Knight](mailto:leila.knight@gsa.gov). You can find Leila's other contact information such as her phone numbers in the [GSA Staff Directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action).
+Please use [ALOHA](/gsa-internal-tools/#aloha) to request sick leave and annual leave. For any leave-related questions, please contact GSA HR&rsquo;s Leave Specialist, [Leila Knight](mailto:leila.knight@gsa.gov). You can find Leila's other contact information such as her phone numbers in the [GSA Staff Directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action).
 
 ### Annual leave
 
