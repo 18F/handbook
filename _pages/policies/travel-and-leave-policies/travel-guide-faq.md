@@ -48,7 +48,7 @@ Again, in the case of billable travel, the email should be made out to the clien
 
 You may still take a non-contract flight if it follows [these rules set in the Federal Travel Regulation](http://www.gsa.gov/portal/ext/public/site/FTR/file/Chapter301p010.html/category/21868/#wp1203865), and also follows the 18F-specific policy here:
 
-* If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email of approval from your client (billable) or director (non-billable) sent to 18ftravelauths@gsa.gov.
+* If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email of approval from your client (billable) or director (non-billable) sent to tts-travelauths@gsa.gov.
 
 
 <a name="adtrav"></a>
@@ -67,4 +67,4 @@ AdTrav can expedite the booking of your flight (if you are less than 3 days away
 
 * 18F will pay for a flight that is equal to or less than in price to the least expensive compliant flight between your home city and travel location. For flights that are more expensive, you are responsible for the difference in price.
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

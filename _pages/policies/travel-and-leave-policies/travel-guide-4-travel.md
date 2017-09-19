@@ -10,7 +10,24 @@ Travel _and keep receipts!_
 
 Now for the fun part! Here are a few things to keep in mind when traveling for TTS.
 
-### Meals and Incidental Expenses (M&IE)
+### What to put on your travel card and keep receipts for
+Here are a few expenses that you should put on the travel card (and **keep receipts** for):
+
+* Hotels: a receipt including a full breakout of nightly rate and lodging tax where applicable is required.
+
+* Taxis: receipts for taxis, regardless of amount, is required.
+
+* Public transportation: receipts for all public transit expenses are preferred, however receipts for expenses over $25 are required.
+
+* Parking: receipts for all parking are preferred, however receipts for all parking over $25 are required.
+
+* Checked baggage: receipts for all baggage charges are required.
+
+* Tolls: receipts for all tolls over $25 are required. For tolls under that amount, attaching a map of your itinerary indicating that payment of tolls was required is sufficient.
+
+* Rental cars and associated fuel expenses: Receipts are required for all rental cars and associated fuel charges. Note that fuel is only directly reimbursable for rental cars-- personal vehicle use is instead subject to mileage reimbursement rates, and fuel for GSA fleet vehicles is paid for via a GSA fleet card.
+
+#### Meals and Incidental Expenses (M&IE)
 
 In addition to receiving round trip tickets to your destination and lodging for the nights that you need to stay there, you also get a flat-rate per diem for **Meals and Incidental Expenses (M&IE)**. A few things to remember:
 
@@ -18,32 +35,19 @@ In addition to receiving round trip tickets to your destination and lodging for 
 
 * This allowance is at your discretion to spend and **you don’t need to provide receipts** for it.
 
-* M&IE is given as a reimbursement after submitting a voucher, which is done after you return from a trip.
-
-* Because you don’t need to provide receipts for it, it’s recommended that you **not use the travel card for meals or incidental expenses.** It’s just easier to use personal money for this.
-
-    * If you do pay for M&IE on the Travel Card, you will have to pay off the remaining balance on the card at the end of the month youself-- ostensibly using the flat M&IE reimbursement that the government will credit to your personal account after you submit your voucher.
-
 * The amount that is given is based on your location, not your actual expenses.
 
-    * For example, M&IE is $71 per day in Washington DC but only $56 per day in Atlanta.
+    * For example, M&IE is $69 per day in Washington DC but only $56 per day in Atlanta.
 
     * If you only spent $50 on M&IE per day while you were in DC, you would keep the rest. Conversely, if you spent $90 per day, you would pay the difference.
 
 * M&IE is given at a reduced rate on “travel days”-- i.e. days where part of the normal work day was spent traveling.
 
-### What to put on your travel card
-Here are a few expenses that you should put on the travel card (and **keep receipts** for):
+* M&IE is given as a reimbursement after submitting a voucher, which is done after you return from a trip.
 
-* Hotels
+* You may use either the travel card or your personal card for your meals and incidental expenses.
 
-* Taxis
-
-* Public transportation
-
-* Parking
-
-* Mileage reimbursement when using a personal vehicle (if determined advantageous to the Government)
+    * If you do pay for M&IE on the Travel Card, you will have to pay off the remaining balance on the card at the end of the month youself-- ostensibly using the flat M&IE reimbursement that the government will credit to your personal account after you submit your voucher.
 
 ### Don't forget about vouchers!
 
@@ -59,4 +63,4 @@ On the other side, when travel expenses are submitted late, it’s a major drain
 
 [Back from your trip? Head on over to get reimbursed!](/travel-guide-5-reimbursement)
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

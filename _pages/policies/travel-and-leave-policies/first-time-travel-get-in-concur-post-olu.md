@@ -17,7 +17,7 @@ You’ll get a number like **E000xxxxx** in the reply, which is important for th
 4. Fill out [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) (minus the EFT enrollment form that you already did on page 3).
 Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well! _Not sure about a particular field? Get help by reading the_ [_FAQ below_](#frequently-asked-questions)
 
-5. Email completed CGE form to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov). _Do not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only email it to 18f-travel@gsa.gov.
+5. Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). _Do not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only email it to tts-travel@gsa.gov.
 
 
 [Next Step: First-Time Travel - Get a Travel Card](/first-time-travel-travel-card)
@@ -45,4 +45,4 @@ That of your functional supervisor.
 
 ### Got other questions?
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

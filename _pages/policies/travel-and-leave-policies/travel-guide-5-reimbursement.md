@@ -6,46 +6,55 @@ title: Step 5 - Get Reimbursed
 
 So you’ve traveled and want to get reimbursed for all of your expenses! It’s time to return to Concur to create and then submit a voucher.
 
-This guide explains how to do this whether you paid for your expenses on your travel card, personal debit card, or just cold hard cash. Sit back, relax, and just imagine that you are almost done with Concur (which you are at this point)!
+This guide explains how to do just that-- sit back, relax, and just imagine that you are almost done with Concur (which you are at this point)!
 
-Getting reimbursed has 3 sub-steps:
+Getting reimbursed has 4 sub-steps:
 
-1. [Creating a Voucher](#i-create-a-voucher)
+1. [Creating a Voucher](#i-creating-a-voucher)
 
-2. [Entering your Expenses](#ii-entering-expenses)
+2. [Naming your Voucher](#ii-naming-your-voucher)
 
-3. [Submitting your Voucher for approval](#iii-submit-voucher-for-approval)
+3. [Entering your Expenses](#iii-entering-expenses)
 
-### I. Create A Voucher
+4. [Submitting your Voucher for approval](#iv-submitting-voucher-for-approval)
+
+BEFORE YOU BEGIN: did your dates of travel change such that they are in any way outside of the original dates of your trip? If yes, STOP, and do an amended authorization for the new dates. We don't yet have a guide for amending authorizations, so please [schedule yourself for a 1-on-1 with the travel team](https://calendar.google.com/calendar/selfsched?sstoken=UUZmSUplekFxYzFofGRlZmF1bHR8ZGE3Zjg4NTljODU3NTEyNzgwYmU5YmRlYTdlNTFjNTY) if that's the case.
+
+IF THIS IS YOUR FIRST TIME CREATING A VOUCHER: please read through this guide, but then feel free to [set up some 1-on-1 time with the travel team](https://calendar.google.com/calendar/selfsched?sstoken=UUZmSUplekFxYzFofGRlZmF1bHR8ZGE3Zjg4NTljODU3NTEyNzgwYmU5YmRlYTdlNTFjNTY) for a quick orientation if you need.
+
+### I. Creating A Voucher
 
 1. Log back into [Concur](http://travel.gsa.gov)
 2. On the main navigation menu, click on  **Vouchers**, and then select **New Vouchers**
 3. How long was your trip?
 
-    * **Over 12 Hours**: Select the **Voucher from Authorization** option to reimburse a recent trip. **MOST LIKELY OPTION** Continue to the next step
+    * **Over 12 Hours**: Select the **Voucher from Authorization** option to reimburse a recent trip. **MOST LIKELY OPTION** Select **Create Document** and continue to the next step.
 
-    * **Under 12 Hours**: Select the **Local Voucher** option to reimburse expenses on a trip under 12 hours that does not include per diem. (Instructions Pending)
+    * **Under 12 Hours**: Select the **Local Voucher** option to reimburse expenses on a trip under 12 hours that does not include per diem, hotels, or travel by air or Amtrak. You won't need a prior authorization document in Concur to create this (though you will need approval sent to tts-travelauths@gsa.gov to certify that the expenses that you are claiming are authorized). Select **Create Document** and skip ahead to [Naming your Voucher](#ii-naming-your-voucher).
 
-    * **I actually haven't travelled yet!**: Select the **PreTrip Voucher from Authorization** can be used to reimburse travel expenses in advance (but not typically used).
+    * **I need to get reimbursed for something other than travel expenses** Concur processes this as well! Similar to trips under 12 hours, you'll need to [create a local voucher](#miscellaneous-vouchers). Before starting this process, please make sure that the expense you are hoping to get reimbursed for was [approved in C2](/purchase-requests) if nonbillable, or approved by your client in an email sent to tts-travelauths@gsa.gov before you made the purchase. Exceptions to this rule (retroactive approvals) are rarely granted by the TTS Director of Business Operations.
 
-4. You will then be lead through creating an authorization voucher.
+4. You will then be lead through creating a voucher from your authorization that you got approved prior to traveling.
 
     * Under Document Search, you’ll see a list of your “open” authorizations (i.e. your authorizations that don’t have vouchers yet).
 
-    * Hit the pencil button to select the authorization you’d like to be reimbursed for.
+    * Hit the pencil button to select the authorization you’d like to be reimbursed for. You will be moved onto the next step, [Naming your Voucher](#ii-naming-your-voucher) on the **Document Information** screen.
 
     * **TIP**: If you can't figure out which authorization is your recent trip by name, look at the departure date column.
 
-5. Your **Document Information** will appear and be autopopulated.
-    * If the **Trip Name** does not autopopulate, enter it in this format `BILLABLE or NON-BILLABLE: [Exact Name of Tock Project]` that you would bill the trip to. For example, a non-billable trip for ops would be `NON-BILLABLE: Ops/ Acquisitions`. Team Travel will return vouchers that don’t follow this format, so again, please make sure you name your trip using the above convention.
+### II. Naming your Voucher
+
+    If you are creating a voucher from authorization, your **Document Information** should appear and be autopopulated.
+
+    * If your are creating a local voucher, and the **Trip Name** does not autopopulate, enter it in this format `BILLABLE or NON-BILLABLE: [Exact Name of Tock Project]` that you would bill the trip to. For example, a non-billable trip for ops would be `NON-BILLABLE: Ops/ Acquisitions`. The Travel Team will return vouchers that don’t follow this format, so again, please make sure you name your trip using the above convention.
 
     * **Is your trip both Billable and non-billable?** Enter the trip name as `MIXED: [Your (non-billable) line of business]/[Exact Name of Tock Category]` to invoice billable part of trip to.
 
     * Click on **Create Document**
 
-6. Now it's time to enter your expenses!
+6. Now it's time to [enter your expenses](#iii-entering-expenses)!
 
-### II. Entering Expenses
+### III. Entering Expenses
 Now you need to make sure each of your expenses is accounted for. This step is arguably the most important part of the “vouchering” process.
 
 1. Navigate to the **Expenses & Receipts.** tab of your voucher.
@@ -59,6 +68,8 @@ Now you need to make sure each of your expenses is accounted for. This step is a
 
     * [Meals and Incidental Expenses](#meals-and-incidental-expenses)
 
+    * [Extra days at personal expense](#extra-days-at-personal-expense)
+
     * [Local transportation (Metro, taxis, etc.)](#local-transportation)
 
     * [Hotels](#hotels)
@@ -67,7 +78,7 @@ Now you need to make sure each of your expenses is accounted for. This step is a
 
     * [Uncommon Expenses](#uncommon-expenses)
 
-3. [Proceed to submitting your voucher](#iii-submit-voucher-for-approval)
+3. [Proceed to submitting your voucher](#iv-submitting-voucher-for-approval)
 
 
 #### Airfare or Rail
@@ -76,13 +87,61 @@ Now you need to make sure each of your expenses is accounted for. This step is a
 * Airfare is already on the **Expenses & Receipts** Tab under the **Expense List**
 The blue icon under **Source** means that it was paid for via Concur. No further action is needed.
 
-* **For example**: This example trip was taken between 9/16 and 9/18. M&IE is $71 per day in DC in September, and is 75% of $71 ($53.25) on the first and last days of a trip. **We see that the three days of M&IE has been added automatically.** Nothing else to do here.
-
 #### Meals and Incidental Expenses
 
 * **The allowance for Meals and Incidental Expenses (M&IE) is a flat rate given to a traveler regardless of what they actually spent.** No receipts or justification is needed to receive M&IE.
 
-* If you need to cut out meals and incidental expenses for some days (for example, a weekend of personal time spent in DC), the [Airfare and Rail](#airfare-or-rail) section.
+* **For example**: Consider a trip taken between 9/16 and 9/18. M&IE is $69 per day in DC, and is 75% of $69 ($51.75) on the first and last days of a trip. **We see that the three days of M&IE has been added automatically.** Nothing else to do here.
+
+#### Extra days at personal expense
+
+If you were authorized to extend your trip at your own expense and need to delete M&IE, there are some special instructions that you should follow:
+
+1. Edit your first *full* day of travel at your own expense by clicking on the pencil icon.
+
+2. Click on the **View Per Diem Conditions**. You should see a menu expand below.
+
+3. Choose **M&IE Override**, then **Override by amount**, and **0**.
+
+4. Check **On leave**. Use **Other leave**, **9 hours**.
+
+5. If you are requesting leave for multiple days, return to the top and enter in the last *full* day you are traveling at personal expense.
+
+5. Save. Your M&IE should show as zero for the day. If it didn't work, just go ahead an add in a comment about the days you would like to zero out in the comments field, and the travel team will take that into account when they review your voucher for approval.
+
+#### Hotels
+* Now, we will need to address the question of hotels. Hotels are usually added automatically whether booked in Concur or not. They are usually assumed to be at the government maximum rate unless otherwise specified.
+
+* In your **Expense List**, you will see your reservation, but without tax.
+
+1. Click **Add Expense** to add the _Lodging Tax_.
+
+2. Add the following **Expense Details**:
+* **Create Expenses Through:** Enter the last night you were checked into the hotel, and each night’s lodging tax will be copied through.
+
+* **Expense Date:** The night that you checked in.
+
+* **Expense Description:** Lodging Tax
+
+* **Cost:** Tax per night (tax can also be reported as a lump sum, though lodging itself must be broken out per night)
+
+* **Payment Method:**
+
+    * **Did you pay on your personal credit/debit card or in cash?** Select **CASH**.
+
+    * **Did you pay it on your travel card?** Select **IBA**. If you don’t see IBA, please go back to Pre-Step C and ensure that you have entered your travel card into Concur.
+
+3. Click **Save**
+
+4. At the bottom of the screen, in the receipts menu, click **Attach Receipt Images** to add a new receipt.
+
+5. When the upload menu pops up, click **Choose File**. Upload only one receipt at a time or Concur will get upset.
+
+6. Click **Attach** at the bottom of the pop-up.
+
+7. Click **Done** once the file has uploaded successfully. There is (surprisingly) no need to associate an expense with any given receipt.
+
+8. Repeat the upload process for each individual receipt.
 
 #### Local Transportation
 This is also a general description of how to add an expense.
@@ -124,40 +183,6 @@ This is also a general description of how to add an expense.
 
 10. Repeat the upload process for each individual receipt.
 
-#### Hotels
-* Now, we will need to address the question of hotels. Hotels are usually added automatically whether booked in Concur or not. They are usually assumed to be at the government maximum rate unless otherwise specified.
-
-* In your **Expense List**, you will see your reservation, but without tax.
-
-1. Click **Add Expense** to add the _Lodging Tax_.
-
-2. Add the following **Expense Details**:
-* **Create Expenses Through:** Enter the last night you were checked into the hotel, and each night’s lodging tax will be copied through.
-
-* **Expense Date:** The night that you checked in.
-
-* **Expense Description:** Lodging Tax
-
-* **Cost:** Tax per night (tax can also be reported as a lump sum, though lodging itself must be broken out per night)
-
-* **Payment Method:**
-
-    * **Did you pay on your personal credit/debit card or in cash?** Select **CASH**.
-
-    * **Did you pay it on your travel card?** Select **IBA**. If you don’t see IBA, please go back to Pre-Step C and ensure that you have entered your travel card into Concur.
-
-3. Click **Save**
-
-4. At the bottom of the screen, in the receipts menu, click **Attach Receipt Images** to add a new receipt.
-
-5. When the upload menu pops up, click **Choose File**. Upload only one receipt at a time or Concur will get upset.
-
-6. Click **Attach** at the bottom of the pop-up.
-
-7. Click **Done** once the file has uploaded successfully. There is (surprisingly) no need to associate an expense with any given receipt.
-
-8. Repeat the upload process for each individual receipt.
-
 #### Other Common Expenses
 With all transport and lodging added to this voucher, the only item left to add would be other charges. One of the most common among these would be a charge for checked luggage. This would fall under the **Baggage Fees** category.
 
@@ -175,20 +200,32 @@ It's coming! Note that you must provide a map of your route (e.g., a Google Maps
 It's coming!
 
 #### Air Outside of Concur
-It's  coming!
+Airfare or Amtrak tickets *should not be purchased outside of Concur* without prior approval from either the client or the Director of Operations. This approval should only be granted when there is exceptional justification, as the Federal Travel Regulation requires federal employees to use the e-Gov travel system, which is Concur for the GSA.
 
-### III. Submit Voucher for Approval
+#### Miscellaneous vouchers
+
+Local vouchers are documents in Concur that allow for simple reimbursements, which could include local transportation such as taxis or personal vehicle mileage, or reimbursement for any other expense that has either been approved in C2 (nonbillable) or by the client (billable). These don't require a prior authorization in Concur, but the approval should be shared with the tts-travelauths@gsa.gov inbox so that the 18F travel team can confirm where the budget for reimbursement is coming from. In C2, this can be done by adding 18travelauths@gsa.gov as an "observer" to the request.
+
+Once you've chosen the **Local voucher** option, you'll be taken to the **Document Information** screen. Please fill this out as follows:
+
+*
+*
+*
+
+Once all of this is entered, go ahead and **Create Document** and move on to the next step.
+
+### IV. Submitting Voucher for Approval
 Routing a voucher is now exactly the same as submitting an authorization as seen in when we [submitted our authorization for approval](/travel-guide-3-approval/#submit-authorization-for-approval).
 
 1. Navigate to the **Perform Pre-Audits** Tab for your voucher.
 
     * You will now see a list of all the items that might cause a fail or hardfail for the voucher to be approved.
 
-    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please reach out to the TTS travel team.
+    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please reach out to the 18F travel team.
 
     *  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2](/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
 
-3. Correct or justify failures. To justify a _FAIL_, you may add an explanation after clicking Justify Pre-Audit Results.  If you need further assistance, please drop a message in #travel or reach out to the team via email 18f-travel@gsa.gov.
+3. Correct or justify failures. To justify a _FAIL_, you may add an explanation after clicking Justify Pre-Audit Results.  If you need further assistance, please drop a message in #travel or reach out to the team via email tts-travel@gsa.gov.
 
 4. Click **Submit** (in the upper right hand corner of your voucher)
 
@@ -203,6 +240,6 @@ Congrats!!! Your voucher has been submitted. You don’t even have to click the 
 
 ## YOU'RE DONE!!!
 
-Your voucher will be reviewed by a member of the TTS travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
+Your voucher will be reviewed by a member of the 18F travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

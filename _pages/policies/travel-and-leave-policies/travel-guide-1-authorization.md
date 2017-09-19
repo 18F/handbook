@@ -7,11 +7,11 @@ navtitle: Travel Guide Authorization
 [Back to Landing Page](/travel-guide-start-here)
 [Jump to Choose your Itinerary](/travel-guide-2-choose-your-itinerary)
 
-In order to travel for TTS, you need to go through three steps to ensure that your plans get fully approved and ticketed. Here's the TL;DR for each one:
+In order to travel for 18F, you need to go through three steps to ensure that your plans get fully approved and ticketed. Here's the TL;DR for each one:
 
-1. [Confirm email of approval:](/travel-guide-1-authorization/#confirm-your-travel-dates-and-get-an-email-of-approval) ensuring that your travel plans are pre-approved via email by someone who has the ability to obligate funds on behalf of the government, and that this approval is communicated to the TTS travel team by sending it to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov).
-2. [Choose your itinerary:](/travel-guide-2-choose-your-itinerary) the process of making reservations in Concur, the E-Gov travel system. Reservations in Concur are called **Authorizations**.
-3. [Submit for Concur approval:](/travel-guide-3-approval) ensuring that the TTS travel team receives your authorization and has the necessary details to formally approve your travel. The travel team reviews and approves authorization each day at 2:30 PM Eastern time, so please ensure that it is in by that time to allow for same-day review.
+1. [Confirm email of approval:](/travel-guide-1-authorization/#confirm-your-travel-dates-and-get-an-email-of-approval) ensuring that your travel plans are pre-approved via email by someone who has the ability to obligate funds on behalf of the government, and that this approval is communicated to the 18F travel team by sending it to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov).
+2. [Choose your itinerary:](/travel-guide-2-choose-your-itinerary) the process of making reservations in Concur, the E-Gov travel system. Reservations in Concur are called **Authorizations**. Authorizations in Concur are required for all trips that involve travel by air or Amtrak, or any trip longer than 12 hours (even if travel was not via air or Amtrak).
+3. [Submit for Concur approval:](/travel-guide-3-approval) ensuring that the 18F travel team receives your authorization and has the necessary details to formally approve your travel. The travel team reviews and approves authorizations each day at 3:30 PM Eastern time, so please ensure that it is in by that time to allow for same-day review.
 
 Starting this process assumes that you are both in the Concur system and have a GSA travel card. If you're not sure if you've completed these necessary pre-steps, please check out the [First-Time Travel Guide](/first-time-travel-concur-check) or read on more below:
 
@@ -23,70 +23,58 @@ Starting this process assumes that you are both in the Concur system and have a 
 
 ## Confirm your travel dates and get an email of approval
 
-Before making *any* reservations, you'll want to make sure that your trip has been pre-approved by someone who has the ability to obligate funds on behalf of the government. This person could be someone inside TTS (either the director of a division, chapter or business unit) if the travel is considered non-billable, or they could be someone outside TTS (who is designated on an inter-agency agreement or memorandum of understanding with TTS) if the travel is considered billable. There is a slightly different process for requesting approval depending on whether the travel is [billable](/travel-guide-1-authorization/#billable-travel-approval) or [nonbillable](/travel-guide-1-authorization/#non-billable-travel-approval).
+Before making *any* reservations, you'll want to make sure that your trip has been pre-approved by someone who has the ability to obligate funds on behalf of the government. This person could be a division director or higher inside 18F if the travel is considered non-billable, or they could be someone outside 18F (who is designated on an inter-agency agreement or memorandum of understanding with 18F) if the travel is considered billable. There is a slightly different process for requesting approval depending on whether the travel is [billable](/travel-guide-1-authorization/#billable-travel-approval) or [nonbillable](/travel-guide-1-authorization/#non-billable-travel-approval).
 
 Know that you've already been approved to travel? Skip ahead to [I'm approved! What's next?](/travel-guide-1-authorization/#Im-approved-Whats-next)
 
 ## Non-billable travel approval
 
-### Who is responsible, and how do I make my request?
+### How should I request approval?
 
-Dision and unit directors are responsible for approving non-billable travel, as they have a budget for training and travel that is set at the beginning of each fiscal year. Should you need to travel for internal TTS business, you should first clearly communicate your travel plans and what you will be working on to the director who will be approving your travel. You should make sure you communicate your plans with the approving director at least two weeks in advance, as non-billable travel expenses require additional review. **Requests for non-billable travel initiated less than seven business days in advance will not be approved.**
+First, determine how many other 18F employees will be traveling to the event that you are going to. Then, use the method outlined below to secure approval for yourself and your team where applicable.
 
-### Which director?
+  * **C2** If the travel involves going to a training or conference, your approval will be be processed via C2. Follow the [Professional Development and Training Guide](/professional-development-and-training/#professional-development-training), and include everyone who is attending the training or conference on the request by adding others as "observers" to the request once it has been submitted. Once your C2 request is approved, you may skip ahead to [booking your travel](/travel-guide-1-authorization/#im-approved-whats-next).
+  * **Email** If the travel is for other non-billable business, you will make a request via email (cc-ing the group if applicable). Requirements for the email are [below](/travel-guide-1-authorization/#nonbillable-travel-email-approvals):
 
-The director who should approve your travel is usually the director of your division, chapter or business unit, but that is not always the case. If, for example, you are in a chapter, but looking to travel to do business development, you will want to seek approval from the head of the line of business that most closely relates to the type of business that you are looking to develop.
+### Nonbillable travel email approvals
 
-### Communicating non-billable travel approval to the TTS travel team
+    * **To: line** Determine which division is paying for the travel, and address your email to the director of that division. Include multiple directors if multiple divisions will be paying for the travel.
+    * **cc line:** All individuals approved for travel should be cc'd when the email is forwarded to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov).
+    * **Subject line** In the subject line, include the following convention:
+    [NON-BILLABLE] - [[Correspondence code](https://docs.google.com/spreadsheets/d/1WLVv2x7GauLo0-waK3FqeVxN7UCZmXw_t2E745Gfmug/edit#gid=600166428)] of the director approving the travel] - [Tock Project Name] - #[Tock Project ID] - [Official Travel Start Date] - [Official Travel End Date]
+    * **Body**
+     Include your travel dates and a workplan. A general email template, including a workplan, can be found [below](/travel-guide-1-authorization/#template-email-of-approval)).
+    * **Attachment** Attach a budget to your request, using [this template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=1000729692).
+    * **If estimated travel costs > $2,000 for the entire group** You will need the approval of your Assistant Commissioner. Group travel costs in excess of $10,000 will require additional review.
 
-While individual employees are responsible for providing the details required by their directors in advance of getting their travel approved, directors alone are responsible for sending the initial email of approval to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov). Their email needs to include the following:
+    If you receive approval of your request, go ahead and forward it to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov). This helps us keep good records in case of audit, and also allows the Travel Team to clear your itinerary once you've submitted it in Concur.
 
-* **In the subject line:** [NON-BILLABLE] - [Tock Project Name] - #[Tock Project ID] -- [Official Travel Start Date] - [Official Travel End Date]
-* **In the cc line:** All individuals approved for travel should be cc'd when the email is forwarded to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov).
-* **In the body:** Names, origins, and destinations, as well as dates/locations of any additional travel made in conjunction with official travel at the individual's personal expense.
-* **As an attachment** An estimate of total travel expenses using either this [individual](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) or [group](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=1000729692) template. Other formats are allowed provided they include the same general information. Flight estimates must be based on [round-trip City Pair fares](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (use 2x the value of Govt YCA fare), hotel/M&IE estimates must be based on the [GSA per diem rates](http://www.gsa.gov/portal/category/100120), and mileage cost estimates must be based on [GSA Reimbursement rates](http://www.gsa.gov/portal/content/100715).
+#### Amending or updating approval for non-billable travel
 
-Once you have been cc'd on your director's email of approval, you are good to move on to [the next step](/travel-guide-1-authorization/#Im-approved-Whats-next). Below are just a few more items that your director will need to consider when approving your travel.
+Any amendment to approved non-billable travel that would require an additional day of per diem or lodging, exceeding the government maximum hotel rate, or otherwise exceeding the original approved estimate by more than 20% must be re-approved by the division director and sent to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov).
 
-#### Group approvals for non-billable travel
-
-If two or more 18F staff are traveling to the same activity, the approval must be done together. It is the responsibility of unit directors to ensure all travelers are accounted for in their approval request. Unit directors should coordinate with one another to ensure all units who have staff traveling are represented in the request, whether it is via C2 for trainings/conferences, or via email to 18ftravelauths@gsa.gov for other types of non-billable travel.
-
-#### Travel to trainings and conferences requested in C2
-
-No email to 18ftravelauths@gsa.gov is required for travel to trainings and conferences requested in [C2](https://requests.18f.gov). Any amendments to travel dates may be requested via comment in the C2 system.
-
-#### Deadline for approving non-billable travel
-Unit directors must send their emails of approval to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) before 12:30 PM Eastern on Wednesday in order for the request to be approved by in Concur by Friday. Approvals that arrive late will not be considered until the following Wednesday.
-
-#### Amending approval for non-billable travel
-Any amendment to approved non-billable travel that would require an additional day of per diem or lodging, exceeding the government maximum hotel rate, or otherwise exceeding the original approved estimate by more than 20% must be re-approved by the unit director and sent to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) for further review by Wednesday at 12:30 PM Eastern.
-
-Any other amendment with a minimal impact on the budget (i.e. change of dates, adding additional days at the traveler's personal expense, changing origin or destination airports with no significant cost increase) requires only that the unit directors approve the change and communicate it to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) before 2:30 PM Eastern to allow the travel team to approve changes in Concur that same business day.
+Any other amendment with a minimal impact on the budget (i.e. change of dates, adding additional days at the traveler's personal expense, changing origin or destination airports with no significant cost increase) requires only that the immediate supervisor approve the change and communicate it to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov).
 
 ## Billable travel approval
 
 ### Who is responsible, and how to I make my request?
 
-Your client is responsible for providing approval for your billable travel. Your project manager (or someone they delegate) is responsible for communicating the travel request to the client and securing their approval. Once this is done, the individual who secured the client's email of approval must forward it to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) and cc the members of the team who are traveling.
+Your client is responsible for providing approval for your billable travel. Your project manager (or someone they delegate) is responsible for communicating the travel request to the client and securing their approval. Once this is done, the individual who secured the client's email of approval must forward it to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov) and cc the members of the team who are traveling.
 
 ### Which client?
 
 The client approving travel should be one of the client signatories of the IAA or MOU, or a person formally delegated by one of those individuals. If you aren't sure who this is, please ask your client partner about who is responsible for approving travel and they should point you in the right direction.
 
-### Communicating billable travel approval to the TTS travel team
+### Communicating billable travel approval to the 18F travel team
 
-Project managers (or their delegates) are responsible for requesting written approval of travel plans to the client and once approval is secured, sending it via email to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov). Their email needs to include the following:
+Project managers (or their delegates) are responsible for requesting written approval of travel plans to the client and once approval is secured, sending it via email to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov). Their email needs to include the following:
 
-* **In the subject line:** [BILLABLE] - [Tock Project Name] - #[Tock Project ID] -- [Official Travel Start Date] - [Official Travel End Date]
-* **In the cc line:** All individuals approved for travel should be cc'd when the email is forwarded to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov).
-* **In the body:** Names, origins, and destinations, as well as dates/locations of any additional travel made in conjunction with official travel at the individual's personal expense.
+* **Subject line:** [BILLABLE] - [Tock Project Name] - #[Tock Project ID] -- [Official Travel Start Date] - [Official Travel End Date]
+* **cc line:** All individuals approved for travel should be cc'd when the email is forwarded to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov).
+* **Body:** Names, origins, and destinations, as well as dates/locations of any additional travel made in conjunction with official travel at the individual's personal expense. The template [below](/travel-guide-1-authorization/#template-email-of-approval)) may be used.
 * **As an attachment** An estimate of total travel expenses using either this [individual](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) or [group](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=1000729692) template. Other formats are allowed provided they include the same general information. Flight estimates must be based on [round-trip City Pair fares](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (use 2x the value of Govt YCA fare), hotel/M&IE estimates must be based on the [GSA per diem rates](http://www.gsa.gov/portal/category/100120), and mileage cost estimates must be based on [GSA Reimbursement rates](http://www.gsa.gov/portal/content/100715).
 
-Both non-billable and billable travel emails of approval have the same requirements-- it's just that the former comes straight from a director and the latter is between the project manager and the client. Once you have been cc'd on your client's email of approval, you are good to move on to [the next step](/travel-guide-1-authorization/#Im-approved-Whats-next). Below are just a few more items that your project manager will need to consider when approving your travel.
-
-#### Deadline for approving billable travel
-This email confirming approval must be sent to [18ftravelauths@gsa.gov](mailto:18ftravelauths@gsa.gov) before 2:30 PM Eastern to receive review that business day. It is recommended that this email be sent at least 2-3 business days in advance of any travel in case there are any questions, concerns, or technical difficulties that cause delays.
+ Once you have been cc'd on your client's email of approval, you are good to move on to [the next step](/travel-guide-1-authorization/#Im-approved-Whats-next).
 
 #### Amending approval for billable travel
 Any changes to the itinerary approved by the client that require:
@@ -99,15 +87,19 @@ Any changes to the itinerary approved by the client that require:
 
 MUST be re-approved by the client.
 
-Individual travelers or project managers with such a change to their itinerary may reach out directly to the client on the same thread as the email sent to 18ftravelauths@gsa.gov to to request approval. Client approval of the changes is due at 2:30 PM Eastern to allow the travel team to approve changes in Concur that same business day.
+Individual travelers or project managers with such a change to their itinerary may reach out directly to the client on the same thread as the email sent to tts-travelauths@gsa.gov to to request approval.
 
-#### Template emails of approval
+#### Notice about late approvals
+
+Ensure that you request your approval with sufficient advance notice. Requests made late may not receive director approval in time. Requests that are not finalized before 4:30 PM Eastern time the last business day before travel begins will not be approved by the Travel Team.
+
+#### Template email of approval
 
 This is a basic email of approval for individual billable travel, but could also be adapted for use for a group:
 
 ---
 
-**Subject:** [BILLABLE/NON-BILLABLE] - [Tock Project Name] - #[Tock Project ID] -- [Departure_Date] - [Return Date]
+**Subject:** [BILLABLE] - [Tock Project Name] - #[Tock Project ID] -- [Departure_Date] - [Return Date]
 
 ---
 
@@ -139,7 +131,7 @@ Additional templates for emails involving other circumstances are available in t
 
 [No - I need to book an upcoming trip that will start later than 3 days. Go to normal booking.](/travel-guide-2-choose-your-itinerary)
 
-If you are traveling on the next business day, please ensure that your email of approval is in order and you have successfully submitted your travel for [Concur approval](/travel-guide-3-approval) by 2:30 PM Eastern. **Authorizations received after this time, or over a weekend/holiday will not be approved.**
+If you are traveling on the next business day, please ensure that your email of approval is in order and you have successfully submitted your travel for [Concur approval](/travel-guide-3-approval) by 3:30 PM Eastern. **Authorizations received after this time, or over a weekend/holiday will not be approved.**
 
 ### AdTrav
 Call AdTrav at 877-472-6716 to make flight arrangements.
@@ -148,4 +140,4 @@ Call AdTrav at 877-472-6716 to make flight arrangements.
 
 Once you've gotten off the phone with AdTrav, do something else for 1-2 hours while their system syncs up with Concur. Then, head over to [travel.gsa.gov](https://travel.gsa.gov) and follow the instructions for [Submitting for Concur approval:](/travel-guide-3-approval). If you want to make hotel reservations outside of AdTrav, read on more [here](/travel-guide-2-choose-your-itinerary/#book-lodging).
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

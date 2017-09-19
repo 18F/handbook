@@ -12,7 +12,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
    _Note if you haven't started and don't have your GSA email address yet_:
 
-   Your access to the EFT form linked above may be restricted, so you should have received it as an attachment in your welcome email-- feel free to reach out to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) if you never got it.
+   Your access to the EFT form linked above may be restricted, so you should have received it as an attachment in your welcome email-- feel free to reach out to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) if you never got it.
 
    _Note if you have started and do have your GSA email address_:
 
@@ -24,7 +24,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 3. **Wait for a reply to your email.**
    You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
 
-4. Send Employee ID to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) with:
+4. Send Employee ID to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) with:
     * **Full Name** as it appears on ID, as per TSA requirements.
     * **Date of birth**, also for TSA requirements.
     * **Personal email**, for account setup until you take the IT Security Awareness Training.
@@ -75,7 +75,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
 9. After you return, **create a voucher for reimbursement**:
 
-   You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in [GSA's Online University (OLU)](https://gsaolu.gsa.gov/), you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
+   You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in [GSA's Online University (OLU)](https://gsaolu.gsa.gov/), you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
 
    Once you get access, you can follow [these instructions for how to complete a voucher](https://handbook.18f.gov/travel-guide-5-reimbursement/). Feel free to reach out in #travel and request to set up a 30 minute crash course in how to use Concur if anything seems confusing.
 
@@ -91,4 +91,4 @@ If you are traveling to orientation and are worried that you will miss it becaus
 
 While the Talent and Travel Teams won't be available until Monday if your cancellation occurs over the weekend, please feel comfortable rebooking your travel either though the airline or via Ad-Trav, and rest assured that you will be in good hands when you arrive at 18F.
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

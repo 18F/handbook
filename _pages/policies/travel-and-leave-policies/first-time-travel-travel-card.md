@@ -40,7 +40,7 @@ _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
 2. Save the doc as “Your Name STCAF”
 
-### 3. Send both of the above docs as attachments to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
+### 3. Send both of the above docs as attachments to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
 
 ### 4. Wait for an email response from the Travel team.
 
@@ -50,7 +50,7 @@ This may take 1-2 business days.
  [here](https://home.cards.citidirect.com/CommercialCard/Cards.html?classic=2). [_Having Trouble?_](#having-trouble). Follow the instructions attached with the email.
 1. In page 4 of the instructions, you’ll be asked for a GSA phone number of record. It sounds counterintuitive, but **if you do not have a government-issued phone, you can use the last four digits of your social security number.** Otherwise, use your GSA phone number.
 1. In page 5 of the instructions, You’ll need to provide a code for your location. Use Central Office.
-1. Reply to the email and c.c. 18f-travel@gsa.gov to ensure that it gets processed!
+1. Reply to the email and c.c. tts-travel@gsa.gov to ensure that it gets processed!
 
 ### 5. Receive your card in the mail
 
@@ -65,7 +65,7 @@ This may take 1-2 business days.
 #### Having Trouble
 The instructions for the application can be found [here](https://drive.google.com/open?id=0B0Kck5dqF_EbUmVoNTFPZl9tNWc)
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
 
 
 #### Check Card Balance

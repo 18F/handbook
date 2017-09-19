@@ -41,7 +41,7 @@ The government has a number of contracts with airlines to receive special rates.
 
 If you cannot use one of these flights, you must justify why you are choosing a non-contact carrier and fare.
 
-If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email of approval from your client (billable) or director (non-billable) sent to 18ftravelauths@gsa.gov.
+If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email of approval from your client (billable) or director (non-billable) sent to tts-travelauths@gsa.gov.
 
 [What justifies using a non-contract fare?](http://www.gsa.gov/portal/ext/public/site/FTR/file/Chapter301p010.html/category/21868/#wp1203865)
 
@@ -75,7 +75,7 @@ You may book outside of Fedrooms if you can find alternative accommodations that
 
 While some services (such as Airbnb, hotels.com, etc.) offer lower prices, they do come with a risk to the government-- if your trip is cancelled, some or all of that total may not be refunded. Since our clients may not agree to pick up that tab, nonrefundable fees sometimes eat into TTS’s operating budget.
 
-If you need to book a hotel outside of fedrooms.com, please check if booking comes with any nonrefundable fees. If it does, please get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to 18ftravelauths@gsa.gov. Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.
+If you need to book a hotel outside of fedrooms.com, please check if booking comes with any nonrefundable fees. If it does, please get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to tts-travelauths@gsa.gov. Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.
 
 If booking in Fedrooms or using another service, when Concur prompts you to select a hotel, you may choose **"I will book a hotel later"**, and later choose **Hotel booked directly or via other means** when confirming booking.
 
@@ -83,4 +83,4 @@ Choosing **"I will book a hotel now"** is another option available to you, which
 
 When you are finished booking your hotel, [proceed on to submitting for Concur approval](/travel-guide-3-approval).
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
