@@ -2,7 +2,7 @@
 title: Social media
 ---
 
-_Learn how 18F uses social media._
+_Learn how TTS uses social media._
 
 ## <a id="leadership">Leadership</a>
 
