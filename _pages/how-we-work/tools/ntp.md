@@ -5,6 +5,8 @@ navtitle: NTP
 
 How to use both internal and external sources for all network conditions
 
+_Note that this guidance is no longer applicable to any system that is managed by Jamf Pro. Any change to the time server is reverted to *time.gsa.gov* by Jamf._
+
 By default, OS X automatically corrects the system clock using Apple's own time server, *time.apple.com*, which works just fine on the Internet at large. 
 
 However, when your computer is inside the GSA network (when sitting in a GSA office or on the VPN), connections to time servers outside the network are blocked. This can allow your computer's clock to drift pretty far out of sync, which can not only cause you to miss meetings but also create problems with time-sensitive applications.
