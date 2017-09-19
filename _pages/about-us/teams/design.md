@@ -142,9 +142,9 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Research
 
-- Please read [Doing Research at 18F](/research-guidelines) for more information on the tools and techniques. 
+- Please read [Doing Research at 18F](/research-guidelines) for more information on the tools and techniques.
 - **Google Analytics:** More info [here](/google-analytics).
-- For cardsorting and navigation tree testing, we have access to **[Optimal Workshop](https://www.optimalworkshop.com/)** via [OPP](http://www.gsa.gov/portal/content/124174). You can [get started immediately](https://docs.google.com/a/gsa.gov/document/d/1fTXNs1-x9SBLDmOyV79Kxu4V3mvhc89_2GAGixa2tyA/edit?usp=sharing). 
+- For cardsorting and navigation tree testing, we have access to **[Optimal Workshop](https://www.optimalworkshop.com/)** via [OPP](http://www.gsa.gov/portal/content/124174). You can [get started immediately](https://docs.google.com/a/gsa.gov/document/d/1fTXNs1-x9SBLDmOyV79Kxu4V3mvhc89_2GAGixa2tyA/edit?usp=sharing).
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://gsa-tts.slack.com/messages/research) for recommendations.
 
 #### Workshops
@@ -153,7 +153,7 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Word processing
 
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-tools-equipment-and-transit/#get-a-copy-of-microsoft-office) to get a license.
+- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license.
 
 ### <a id="assets">Assets</a>
 

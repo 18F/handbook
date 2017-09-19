@@ -1,8 +1,8 @@
 ---
-title: GSA tools and transit
+title: GSA internal tools
 ---
 
-_This post provides information on how to work with GSA&rsquo;s web tools and your GSA-issued equipment. It also covers how to use your transit benefits._
+_This post provides information on how to work with GSA&rsquo;s web tools and your GSA-issued equipment._
 
 ## Communication
 
@@ -20,42 +20,42 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
   </thead>
   <tbody>
     <tr>
-      <td><a href="#aloha">ALOHA</a></td>
+      <td><a href="/gsa-internal-tools/#aloha">ALOHA</a></td>
       <td>To request and document leave</td>
       <td>ENT username and password</td>
     </tr>
     <tr>
-      <td><a href="#bookit">BookIT!</a></td>
+      <td><a href="/gsa-internal-tools/#bookit">BookIT!</a></td>
       <td>To reserve a desk or meeting room in GSA buildings</td>
       <td>ENT username and password</td>
     </tr>
     <tr>
-      <td><a href="#chris">CHRIS</a></td>
+      <td><a href="/gsa-internal-tools/#chris">CHRIS</a></td>
       <td>To access your personnel file online</td>
       <td>CHRIS username and password</td>
     </tr>
     <tr>
-      <td><a href="#concur">Concur</a></td>
+      <td><a href="/gsa-internal-tools/#concur">Concur</a></td>
       <td>To book travel</td>
       <td>ENT username and password</td>
     </tr>
     <tr>
-      <td><a href="#employee-express">Employee&nbsp;Express</a></td>
+      <td><a href="/gsa-internal-tools/#employee-express">Employee&nbsp;Express</a></td>
       <td>To view your paystub, change your withholdings, or change your address</td>
       <td>Employee Express username and password</td>
     </tr>
     <tr>
-      <td><a href="#it-service-desk">IT&nbsp;Service&nbsp;Desk</a></td>
+      <td><a href="/gsa-internal-tools/#it-service-desk">IT&nbsp;Service&nbsp;Desk</a></td>
       <td>General IT questions about Employee Express and other passwords (Note: They may not support requests for Macs, but will support requests for GSA websites)</td>
       <td>ENT username and password</td>
     </tr>
     <tr>
-      <td><a href="#meeting-space">Meeting Space</a></td>
+      <td><a href="/gsa-internal-tools/#meeting-space">Meeting Space</a></td>
       <td>To reserve your own conference call line</td>
       <td>ENT username and password</td>
     </tr>
     <tr>
-      <td><a href="#online-university">Online University</a></td>
+      <td><a href="/gsa-internal-tools/#online-university">Online University</a></td>
       <td>To take mandatory trainings for federal employees</td>
       <td>ENT username and password</td>
     </tr>
@@ -216,9 +216,3 @@ If you need office supplies that aren’t available in your office, software not
 1. Enter your gsa.gov email again.
 1. Confirm said email by clicking on a link sent in a second, separate email from the Microsoft Volume Licensing Service Center.
 1. Enter the Service Center and search for and download your software.
-
-## Transit benefits
-
-All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you&rsquo;ll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor&rsquo;s signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office tour guides](/offices) for more information.
-
-GSA's new Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).   

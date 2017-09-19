@@ -49,7 +49,7 @@ Anyone working in an 18F office may request a purchase of office supplies by cre
 
 Before making a request in C2, please check the [18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) to see if the software that you are looking for is already available somewhere. Most software at 18F can be requested by sending an email to [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov), but there are exceptions. Check the **Request Method** column of the 18F software library first to confirm what you need to do before you send the email.
 
-If the software you're looking for isn't listed, or the request method indicated is C2, please make a [new purchase request](https://requests.18f.gov/gsa18f/procurements/new). Once your request is submitted, please add [Erik Burgess](mailto:erik.burgess@gsa.gov) as an **Observer** to your request-- he will confirm if your requested software has an [Authority to Operate (ATO)](/authority-to-operate).
+If the software you're looking for isn't listed, or the request method indicated is C2, please make a [new purchase request](https://requests.18f.gov/gsa18f/procurements/new). Once your request is submitted, please add Erik Burgess as an **Observer** to your request-- he will confirm if your requested software has an Authority to Operate (ATO).
 
 Any questions about purchases of software should be directed to [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 

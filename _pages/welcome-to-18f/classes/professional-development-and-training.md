@@ -11,7 +11,7 @@ This post provides information about mandatory (OLU) and professional developmen
 
 ## Leadership
 
-[Pia Scott](mailto:pia.scott@gsa.gov) is TTS's Director of Training and Development. She is based in Washington, D.C.
+Pia Scott is TTS's Director of Training and Development. She is based in Washington, D.C.
 
 [Marshall Brown](mailto:marshall.brown@gsa.gov) assists with the review of training and conference requests when Pia is out of the office.
 
@@ -34,7 +34,7 @@ There are many training and professional development opportunities available to 
 
 ## Mandatory training
 
-All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. Time spent taking these trainings should be coded as `71 - Training / Prof Dev - Non Billable` in [Tock](https://tock.18f.gov/).  To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov). Please note: You may not have access to this for your first four to six weeks at TTS, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include:
+All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. Time spent taking these trainings should be coded as `71 - Training / Prof Dev - Non Billable` in [Tock](https://tock.18f.gov/).  To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov). Please note: You may not have access to this for your first four to six weeks at TTS, although you can try [these steps to gain early access to OLU](/gsa-internal-tools/#online-university). Mandatory trainings include:
 
 <table>
   <thead>
@@ -100,7 +100,7 @@ For the *No Fear Act* training, we recommend using Firefox or Safari with IE8 Us
 
 ## Professional development training
 
-Our work at 18F takes us in new directions every day. In many cases, taking additional training can help everyone on our team better realize our organizational mission. Because external trainings benefit both individuals and our organization, 18F has a training budget.
+Our work at TTS takes us in new directions every day. In many cases, taking additional training can help everyone on our team better realize our organizational mission. Because external trainings benefit both individuals and our organization, 18F has a training budget.
 
 If you’re interested in taking a training related to your role at TTS, you’ll need to complete the process outlined in this section to get your request approved. When you find a training opportunity that interests you:
 
@@ -108,11 +108,11 @@ If you’re interested in taking a training related to your role at TTS, you’l
 
 The review and approval processes can take a bit of time, so it’s best if you make your training request as early as possible. Here are some basic guidelines about how far in advance to request training:
 
-* **Two weeks in advance:** If you’re interested in a training that costs less than $3,000, is not at a conference, doesn’t require travel, doesn't involve more than one individual from TTS, and doesn’t involve an outside source of funding.
+* **Two weeks in advance:** If you’re interested in a training that costs less than $3,500, is not at a conference, doesn’t require travel, doesn't involve more than one individual from TTS, and doesn’t involve an outside source of funding.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least one week in advance.*
-* **Three to four weeks in advance:** For trainings that are less than $3,000 altogether, don't require an outside source of funding, and are either at a conference, require travel, or involve more than one person from TTS attending.
+* **Three to four weeks in advance:** For trainings that are less than $3,500 altogether, don't require an outside source of funding, and are either at a conference, require travel, or involve more than one person from TTS attending.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least two weeks in advance.*
-* **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,000 altogether, anything involving an outside source of funding, or international travel.
+* **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,500 altogether, anything involving an outside source of funding, or international travel.
 *Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least four weeks in advance.*
 
 Requests that don't make it to [C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) in time will not be approved.
@@ -175,7 +175,7 @@ Before your request can be approved, it needs to be free of red flags. During he
 Some of the most common red flags include:
 
 * [Any training or conference requiring payment](/professional-development-and-training/#does-the-training-or-conference-require-payment)
-* [Training or conference purchase is over $3,000](/professional-development-and-training/#Does-the-training-or-conference-cost-over-3000)
+* [Training or conference purchase is over $3,500](/professional-development-and-training/#Does-the-training-or-conference-cost-over-3500)
 * [Conferences or trainings at conferences](/professional-development-and-training/#Are-you-attending-a-conference-or-training-at-a-conference)
 * [Training or conferences involving travel](/professional-development-and-training/#does-the-training-or-conference-require-travel)
 * [Any international travel](/professional-development-and-training/#Does-your-request-require-international-travel)
@@ -217,22 +217,22 @@ Then, you can go ahead and [Add new training request to existing SF-182](https:/
 * Per diem (Indirect Cost)
 * Supervisor
 * Approver 1 (your supervisor's name again)
-* Approver 2 is Dave Zvenyach, but only for trainings costing over $3,000.
+* Approver 2 is Dave Zvenyach, but only for trainings costing over $3,500.
 * Purchase card holder is Ethan Heppner
 
 Save your SF-182 request when finished. You will be notified automatically when it is approved.
 
-#### Does the training or conference cost over $3,000?
+#### Does the training or conference cost over $3,500?
 
-There are a few special rules for trainings of conferences that cost over $3,000:
+There are a few special rules for trainings of conferences that cost over $3,500:
 
-**If registration for an individual training or conference costs over $3,000**, the 18F executive director (Dave Zvenyach) must be listed as a second line approver on the SF-182.
+**If registration for an individual training or conference costs over $3,500**, the 18F executive director (Dave Zvenyach) must be listed as a second line approver on the SF-182.
 
-**If total registration fees for an individual *or* group training or conference cost over $3,000**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that TTS can pay via credit card. Pia will also add [Ethan Heppner](mailto:ethan.heppner@gsa.gov) as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS number, which is also required when the federal government makes a purchase over $3,000 from any vendor.
+**If total registration fees for an individual *or* group training or conference cost over $3,500**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that TTS can pay via credit card. Pia will also add Ethan Heppner as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS number, which is also required when the federal government makes a purchase over $3,500 from any vendor.
 
 #### Are you attending a conference or training at a conference?
 
-Conferences and training at conferences require Salesforce approval. [Pia](mailto:pia.scott@gsa.gov) will create this Salesforce Event Approval request, so no action is required on your part. You will receive two notifications via comment in C2: submission and approval. Further instructions will be provided, based upon the training request type.
+Conferences and training at conferences require Salesforce approval. Pia will create this Salesforce Event Approval request, so no action is required on your part. You will receive two notifications via comment in C2: submission and approval. Further instructions will be provided, based upon the training request type.
 
 #### Does the training or conference require travel?
 
@@ -247,9 +247,9 @@ You will also need to [apply for a travel card](/first-time-travel-travel-card/)
 
 International travel requires additional approvals. As mentioned above, make sure that you’ve submitted your request 6-8 weeks in advance.
 
-Similar to requesting any sort of training involving travel, [Pia](mailto:pia.scott@gsa.gov) will review and identify any red flags and steps for remediation, and then submit a request on your behalf in Salesforce.
+Similar to requesting any sort of training involving travel, Pia will review and identify any red flags and steps for remediation, and then submit a request on your behalf in Salesforce.
 
-International Salesforce Event Approval Requests require extensive review prior to approval, and must be reviewed and approved by your first and second-level supervisors, the HSSO, OGC, OGE, OAS and the GSA Administrator. [Pia](mailto:pia.scott@gsa.gov) will assist you in coordinating this approval process. You must include justification for international travel in your training request. For example, can this training be obtained in the United States? If so, why do you need to travel outside of the country? This question will be asked at every level of review. Be sure to provide a comprehensive justification (such as professional development, collaboration, information gathering, recruitment, etc.).
+International Salesforce Event Approval Requests require extensive review prior to approval, and must be reviewed and approved by your first and second-level supervisors, the HSSO, OGC, OGE, OAS and the GSA Administrator. Pia will assist you in coordinating this approval process. You must include justification for international travel in your training request. For example, can this training be obtained in the United States? If so, why do you need to travel outside of the country? This question will be asked at every level of review. Be sure to provide a comprehensive justification (such as professional development, collaboration, information gathering, recruitment, etc.).
 
 Once the international travel has been recommended for approval by Pia and approved by Josh and Jackie, the procedure is the same as [above](/professional-development-and-training/#does-the-training-or-conference-require-travel)
 
@@ -267,7 +267,7 @@ If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re 
 
 ## Mentorship
 
-We have been slowly working on support for mentorship at TTS, including running a pilot program for some initial pairs of folks who have been interested in helping get things started. If you would like to learn more and/or participate, please see the [Mentorship](/mentorship) page for more details!
+Mentorship at TTS is available, currently we are running a pilot program for folks, who got it started. If you would like to learn more and/or participate, please see the [Mentorship](/mentorship) page for more details!
 
 ## Self-directed study for engineers
 
