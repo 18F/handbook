@@ -8,9 +8,9 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 
 [Cristina Brydges](https://gsa-tts.slack.com/team/cristina) is the Acting Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
 
-Generally speaking, neither Cristina nor 18F can &ldquo;advise&rdquo; you on benefits &mdash; everything 18F offers is actually owned and run by GSA&rsquo;s HR and Benefits groups. She can, however, help you escalate questions and problems and point you in the right direction.
+Generally speaking, neither Cristina nor TTS can &ldquo;advise&rdquo; you on benefits &mdash; everything TTS offers is actually owned and run by GSA&rsquo;s HR and Benefits groups. She can, however, help you escalate questions and problems and point you in the right direction.
 
-[Marty Sanchez-Lowery](mailto:martha.sanchez-lowery@gsa.gov) is our point of contact for health insurance (FEHB), life insurance (FEGLI), and retirement (FERS). You can find Marty's phone number in the [GSA Staff Directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action). She works out of GSA's National Capital Region building at 7th and D Streets, SW.
+Marty Sanchez-Lowery is our point of contact for health insurance (FEHB), life insurance (FEGLI), and retirement (FERS).  Marty's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 Please direct your questions and send all of your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) to Marty. When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that cannot be submitted with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part-2-beneficiary-forms) (for life insurance, retirement accounts, and so forth).
 
@@ -79,11 +79,11 @@ The earliest date your insurance can be effective is two weeks after your start 
 
 ### Dental
 
-To qualify for [dental insurance](https://www.opm.gov/healthcare-insurance/dental-vision/), you must sign up within 60 days of joining 18F, after a qualifying life event, or during Open Season. Some health insurance plans come with dental coverage, so you may not need dental insurance. Read your plan booklet to see what's covered. You can sign up for dental coverage on [Benefeds](https://www.benefeds.com/).
+To qualify for [dental insurance](https://www.opm.gov/healthcare-insurance/dental-vision/), you must sign up within 60 days of joining TTS, after a qualifying life event, or during Open Season. Some health insurance plans come with dental coverage, so you may not need dental insurance. Read your plan booklet to see what's covered. You can sign up for dental coverage on [Benefeds](https://www.benefeds.com/).
 
 ### Vision
 
-To qualify for [vision insurance](https://www.opm.gov/healthcare-insurance/dental-vision/), you must sign up within 60 days of joining 18F, after a qualifying life event, or during Open Season. Some health insurance plans come with vision coverage, so you may not need vision insurance. Read your plan booklet to see what's covered. You can sign up for vision coverage on [Benefeds](https://www.benefeds.com/).
+To qualify for [vision insurance](https://www.opm.gov/healthcare-insurance/dental-vision/), you must sign up within 60 days of joining TTS, after a qualifying life event, or during Open Season. Some health insurance plans come with vision coverage, so you may not need vision insurance. Read your plan booklet to see what's covered. You can sign up for vision coverage on [Benefeds](https://www.benefeds.com/).
 
 If you have an eye appointment but have yet to receive your card(s), you can look up your Vision Care subscriber ID online. To do so, log on to [CHRIS](http://www.gsa.gov/portal/content/105088) (your username is first name middle initial last name with no spaces), select Employee Views from the GSA Personal Self Service menu, and select the Benefits tab. (Note: it may take 4-6 weeks for your CHRIS login to work.)
 
@@ -112,7 +112,7 @@ An employee may use annual leave for vacations, rest and relaxation, and persona
 * Fewer than three years: four hours per pay period
 * Between three and 15 years: six hours per pay period
 
-The maximum annual leave that can be carried over is 240 hours, and if you&rsquo;ve transferred to 18F from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
+The maximum annual leave that can be carried over is 240 hours, and if you&rsquo;ve transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
 ### Donating leave
 
@@ -128,7 +128,7 @@ Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds li
 
 ### Sick leave
 
-All federal employees, no matter how long they have worked, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if you&rsquo;ve transferred to 18F from another federal agency, your accrued sick leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued sick leave.)  More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
+All federal employees, no matter how long they have worked, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if you&rsquo;ve transferred to TTS from another federal agency, your accrued sick leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued sick leave.)  More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
 ### Parental leave
 
@@ -167,7 +167,7 @@ You get two 15-minute breaks per day. These breaks do not extend the work day, s
 
 ## Paychecks
 
-We are paid biweekly. You’ll receive your first paycheck about three weeks after your start date. This is because every 18F employee starts work at the beginning of a pay period. It takes a week after the end of a pay period for a direct deposit to be made. See the [GSA Payroll Calendar](http://www.gsa.gov/portal/content/102507) to determine future pay cycles.
+We are paid biweekly. You’ll receive your first paycheck about three weeks after your start date. This is because every TTS employee starts work at the beginning of a pay period. It takes a week after the end of a pay period for a direct deposit to be made. See the [GSA Payroll Calendar](http://www.gsa.gov/portal/content/102507) to determine future pay cycles.
 
 Please direct questions to the [payroll help desk](http://www.gsa.gov/portal/staffDirectory/generic/105468): **1-844-303-6515** &mdash; or [email them](mailto:kc-payroll.finance@gsa.gov).
 
@@ -185,7 +185,7 @@ This is because about every 11 years or so there are 27 pay periods rather than 
 
 ## Retirement
 
-Employees at 18F are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/planparticipation/eligibility/actionsOnContributions.shtml) (TSP). To start, change, or stop your contributions, you&rsquo;ll need to fill out [Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
+Employees at TTS are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/planparticipation/eligibility/actionsOnContributions.shtml) (TSP). To start, change, or stop your contributions, you&rsquo;ll need to fill out [Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
 
 If you ever move, you can update your address for TSP by emailing it to both the [Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the [GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the TSP office of your new address.
 
@@ -196,7 +196,7 @@ Note: If you have been contributing to a 401k, 403b, or a similar plan at your p
 
 ## Training
 
-18F team members are eligible for many professional development and training opportunities. For more information, see [Pia Scott&rsquo;s class](/professional-development-and-training).
+TTS team members are eligible for many professional development and training opportunities. For more information, see [Pia Scott&rsquo;s class](/professional-development-and-training).
 
 
 ## Transit subsidies
