@@ -9,6 +9,8 @@ tags:
 - funeral
 - death
 - bereavement
+- religion
+- religious
 ---
 
 In this policy, your _supervisor_ is your administrative or official supervisor (or their designee).
@@ -29,13 +31,16 @@ Before taking leave, be sure to:
 
 ### Annual leave
 
-Annual leave accrues at a different rate depending on how long you've worked for the federal government. If you've worked for the federal government fewer than three years, you accrue four hours of annual leave per pay period (which equates to 13 days per year). If you've worked for the federal government between three and 15 years, you accrue six hours per pay period. After 15 years, you accrue eight hours per pay period.
+An employee may use annual leave for vacations, rest and relaxation, and personal business or emergencies. Annual leave accrues based on how long you&rsquo;ve worked for the government:
 
-The maximum annual leave you can carry over from calendar year to calendar year is 240 hours. If you transfer from another federal agency, your annual leave transfers with you.
+* Fewer than three years: four hours per pay period
+* Between three and 15 years: six hours per pay period
+
+The maximum annual leave that can be carried over is 240 hours, and if you&rsquo;ve transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
 ### Sick leave
 
-Sick leave accrues at four hours per pay period for all federal employees, regardless of how long they've worked for the federal government. There is no maximum amount of sick leave you can accrue, and all unused hours carry over to the next calendar year. If you transfer from another federal agency, your sick leave transfers with you.
+All federal employees, no matter how long they have worked, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if you&rsquo;ve transferred to TTS from another federal agency, your accrued sick leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued sick leave.)  More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
 ### Funeral leave
 
@@ -49,11 +54,23 @@ Further funeral leave information can be found in OPM's Fact Sheets:
 * [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
 * [Definitions related to family member and immediate relative for purposes of sick leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
 
+
+## Extended leave
+
 ### Unpaid leave
 
-Employees can request unpaid leave of less than four weeks at any time.
+Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds like.  Employees can request unpaid leave of less than four weeks at any time.  To take a leave of absence without pay, you&rsquo;ll need justification, supervisory oversight, and, for longer terms, supervisory approval.
 
 ### Parental leave
+
+Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact Leila Knight for more information.  Leila's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+
+### Family and Medical Leave Act
+The Family and Medical Leave Act (FMLA) allows most federal employees to take up to 12 weeks of **unpaid** leave per 12-month period for: the birth or care of a child, an adoption or placement of child for foster care, the care of a spouse/son/daughter/parent with a serious health condition, a serious health condition of an employee, or a qualifying exigency from spouse, child or parent of an employee on covered active duty in the Armed Forces. An employee is entitled to taking FMLA when they have been an employee of the federal government for **at least 12 months.**
+
+Former members of the military and/or a military service academy can receive credit for their time. They’ll need to fill out form [FERS 3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf). An employee who has transferred from another agency can use their time to count toward the 12-month restriction.
+
+The Department of Labor has a [detailed guide to FMLA](http://www.dol.gov/whd/fmla/), including this [FMLA FAQ](http://www.dol.gov/whd/fmla/fmla-faqs.htm).
 
 For complete details, see [this recent guidance](http://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
 
@@ -63,9 +80,34 @@ Employees may also apply for annual leave donations from other federal employees
 
 In addition to the paid leave described above, employees can take leave without pay (under the Family and Medical Leave Act (FMLA)) for up to 12 weeks per calendar year. Once you've been an employee of the federal government for at least 12 months, you're eligible to take FMLA, provided your supervisor approves it. You can take this leave within one year of the birth of your child. You do not need to take it all at once. Employees are eligible to take intermittent leave within the first year of their child’s birth. For instance, you could take unpaid leave on Tuesdays and Thursdays for several weeks in a row.
 
-### Advanced leave
+### Donating leave
 
-You can take up to 80 hours of advanced leave (that is, leave you've not accrued yet). You must be able to make it up before the end of the leave year. See the [Benefits class](https://handbook.18f.gov/benefits/#advanced-annual-leave) for more information.
+Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) (VLTP), a covered employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave.
+
+To donate leave or view your donated leave balance, log into the [Voluntary Leave Transfer System](https://apps.ocfo.gsa.gov/volta/volta.volta_main) with your social security number and Employee Express password.
+
+If the system is down, you can submit donation requests directly to Leila Knight.  Leila's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+
+
+## Advanced leave
+
+### Advanced annual leave
+
+An employee may only take advanced annual leave in the amount they will earn back by the end of the current leave year, and the advanced leave may not exceed 80 hours.
+
+You can find Leave Year beginning and end dates in this Office of Personnel Management (OPM) [fact sheet](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/).
+
+### Advanced sick leave
+
+In cases of serious disability or ailment, and when the exigencies of the situation so require, an employee may take advanced sick leave in an amount not to exceed 30 work days (240 hours). This advance may be granted whether or not the employee has any annual leave to their credit except where an application for disability retirement has been submitted to the Office of Personnel Management.
+
+**For employees** **serving under a limited appointment (term appointments) or one which will be terminated on a specified date, they may be advanced sick leave up to the total amount of sick leave which would otherwise be earned during the term of that appointment.**
+
+### Additional advanced leave resources
+
+* [Fact Sheet: Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)
+* [Insite: Advanced Sick Leave](https://insite.gsa.gov/portal/category/510090)
+
 
 ## Religious observance
 
