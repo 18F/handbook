@@ -63,10 +63,10 @@ Employees may also apply for annual leave donations from other federal employees
 
 In addition to the paid leave described above, employees can take leave without pay (under the Family and Medical Leave Act (FMLA)) for up to 12 weeks per calendar year. Once you've been an employee of the federal government for at least 12 months, you're eligible to take FMLA, provided your supervisor approves it. You can take this leave within one year of the birth of your child. You do not need to take it all at once. Employees are eligible to take intermittent leave within the first year of their child’s birth. For instance, you could take unpaid leave on Tuesdays and Thursdays for several weeks in a row.
 
-### Advanced Leave
+### Advanced leave
 
 You can take up to 80 hours of advanced leave (that is, leave you've not accrued yet). You must be able to make it up before the end of the leave year. See the [Benefits class](https://handbook.18f.gov/benefits/#advanced-annual-leave) for more information.
 
-## Religious Observance
+## Religious observance
 
 Adjusting work schedules for religious observances is handled differently than leave. If you need to miss regular work hours for religious observance, you should notify your supervisor in writing in advance of the time you'll need to miss, along with the schedule of the time you will work outside of normal hours to compensate. For details, please see the relevant [OPM policy](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/).
