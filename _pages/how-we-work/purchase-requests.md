@@ -55,6 +55,6 @@ Any questions about purchases of software should be directed to [#infrastructure
 
 ## Purchases over $3,500
 
-*Coming soon*
+Purchases over $3,500 require the involvement of a contracting officer. For these sorts of needs, the TTS Office of Acquisition has a process [here](https://acqstack-journeymap.18f.gov/internal-clients/intake/).
 
 *Got questions? Ask [#c2-purchase-questions](https://gsa-tts.slack.com/messages/C0E1APHGU/)*, [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
