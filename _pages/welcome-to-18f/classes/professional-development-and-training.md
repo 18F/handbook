@@ -13,7 +13,7 @@ This post provides information about mandatory (OLU) and professional developmen
 
 Pia Scott is TTS's Director of Training and Development. She is based in Washington, D.C.
 
-[Marshall Brown](mailto:marshall.brown@gsa.gov) assists with the review of training and conference requests when Pia is out of the office.
+Marshall Brown assists with the review of training and conference requests when Pia is out of the office.
 
 
 ## Communication
@@ -34,69 +34,9 @@ There are many training and professional development opportunities available to 
 
 ## Mandatory training
 
-All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. Time spent taking these trainings should be coded as `71 - Training / Prof Dev - Non Billable` in [Tock](https://tock.18f.gov/).  To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov). Please note: You may not have access to this for your first four to six weeks at TTS, although you can try [these steps to gain early access to OLU](/gsa-internal-tools/#online-university). Mandatory trainings include:
+All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space. 
 
-<table>
-  <thead>
-    <tr>
-      <td><strong>Course</strong></td>
-      <td><strong>Where</strong></td>
-      <td><strong>Duration</strong></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Concur Training (must take to travel)</td>
-      <td>Slack: #18F-classes</td>
-      <td>30 minutes</td>
-    </tr>
-    <tr>
-      <td>No Fear Act</td>
-      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
-      <td>30 minutes</td>
-    </tr>
-    <tr>
-      <td>IT Security Awareness and Privacy 101</td>
-      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
-      <td>90 minutes</td>
-    </tr>
-    <tr>
-      <td>Sharing In a Collaborative Environment</td>
-      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
-      <td>30 minutes</td>
-    </tr>
-    <tr>
-      <td>Employee Accountability for Personal Property</td>
-      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
-      <td>30 minutes</td>
-    </tr>
-    <tr>
-      <td>Attending a Conference</td>
-      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
-      <td>45 minutes</td>
-    </tr>
-    <tr>
-      <td>Telework Works (must be completed before you <a href="/telework-and-virtual-worker#how-do-i-get-an-approved-telework-agreement">submit your telework agreement</a>)</td>
-      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
-      <td>120 minutes</td>
-    </tr>
-    <tr>
-      <td>Ethics Training</td>
-      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
-      <td>120 minutes</td>
-    </tr>
-    <tr>
-      <td>What is Records Management</td>
-      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
-      <td>30 minutes</td>
-    </tr>
-  </tbody>
-</table>
-
-After you log into OLU, select a course, follow the in-browser video instructions, and take the exam. You'll receive a certification as soon as you pass the exam, but it may take about a week for the training to be uploaded into CHRIS, the GSA's electronic personnel file system.
-
-For the *No Fear Act* training, we recommend using Firefox or Safari with IE8 User Agent. Otherwise, it won't register that you've taken the course. Upon completion of the test, you might not be able to click on the `Exit` button as is suggested. Try closing the window that the test was in and clicking next on the parent window &mdash; this should register your test as having been completed and generate the certification that is loaded to your profile.
-
+For more information, reference the [OLU](olu/) page.
 
 ## Professional development training
 
