@@ -107,6 +107,9 @@ navigation:
     - text: Objectives and key results (OKRs)
       url: objectives-key-results/
       internal: true
+    - text: Online Learning University (OLU)
+      url: olu/
+      internal: true  
     - text: Professional development and training
       url: professional-development-and-training/
       internal: true
