@@ -20,7 +20,7 @@ _Est. time: 45 minutes_
 3. Below, look for a "Find Learning" search box.
 4. Search for "travel card".
 5. Select "FY2016 GSA Travel Card Training", and then Start course.
-6. Proceed through the intorudction and the subsequent 5 lessons, answering all of the knowledge check questions along the way.
+6. Proceed through the introduction and the subsequent 5 lessons, answering all of the knowledge check questions along the way.
 7. Take the quiz at the end of the training. You must score at least 80% to pass.
 8. Download your certificate of completion by returning to the "Learning" page and clicking on the "View All" button under "Learning History". You should see your completed travel card training on the list, and there will be an icon to generate a print preview, which you can save, at the right.
 9. For ease of processing later on, save your Certificate as “Your Name TCTC”.
