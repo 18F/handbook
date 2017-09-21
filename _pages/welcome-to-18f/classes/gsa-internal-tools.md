@@ -165,9 +165,9 @@ If you need to reset your ENT password, you can let your password expire and the
 
 While this process can take up to eight days, the upshot is that your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you *do not* need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code.
 
-## <a id="online-university">Online University (OLU)</a>
+## <a id="online-university">Online Learning University (OLU)</a>
 
-All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space. 
+All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space. 
 
 For more information, reference the [OLU](/olu) page.
 
