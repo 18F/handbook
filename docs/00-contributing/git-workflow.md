@@ -1,6 +1,6 @@
 # Git
 
-Git is a powerful version control tool.  At its core is the idea of cloning code, making changes, and merging those changes back in. In our case, those changes get merged back in after a "pull request" containing those changes gets made, reviewed, and accepted.
+Git is a powerful version control tool that you can learn.  At its core is the idea of cloning code, making changes, and merging those changes back in. In our case, those changes get merged back in after a "pull request" containing those changes gets made, reviewed, and accepted.
 
 Git is confusing at first, but our handbook is a great place to learn git because we use a relatively simple git workflow, compared to many engineering projects.
 
