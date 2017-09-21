@@ -167,30 +167,9 @@ While this process can take up to eight days, the upshot is that your conference
 
 ## <a id="online-university">Online University (OLU)</a>
 
-[Online University (OLU)](https://gsaolu.gsa.gov/) is where you'll take mandatory trainings for federal employees.
+All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space. 
 
-To register for OLU, navigate to https://gsaolu.gsa.gov. Then
-follow the link, "Need help logging in to OLU..."
-
-_If you have trouble with that link, try https://secureauth.gsa.gov/SecureAuth138. This allows you to login using your ENT userid and password, with 2FA._
-
-![OLU front page](/images/olu/olu1.png)
-
-From the "Alternative Support Options" drop-down menu, select "Request GSA Online University Login"
-
-![OLU Alt support](/images/olu/olu2.png)
-
-Finally, complete the form, submit and await your temporary password and further
-instructions by email.
-
-![OLU registration form](/images/olu/olu3.png)
-
-18F employees are required to take the [following courses](/professional-development-and-training/#mandatory-training).
-
-Note that there is a lag time of about four days between completing courses in OLU and having those courses reflected in your CHRIS profile.
-
-You can log time spent in OLU as `71 - Training / Professional Development` in [Tock](/tock).
-
+For more information, reference the [OLU](/olu) page.
 
 ## Office supplies
 
