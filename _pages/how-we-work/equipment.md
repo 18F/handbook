@@ -125,6 +125,7 @@ If TTS-issued equipment fails due to manufacturer defects or accidental damage:
 If TTS-issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert TTS in [#equipment](https://gsa-tts.slack.com/messages/equipment):
 
 1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
+2. If your equipment is returned to you, it may have been tampered with and should not be used. Return the equipment to GSA IT so they can inspect it, and if necessary, re-image it.
 2. Call 911 or a local police station when you suspect theft has occurred.
 3. Get and keep a copy of the police report in case you have to provide it to the Federal Protective Service (FPS) or your regional Information Systems Security Officer (ISSO). Provide as much information as possible.
 4. Call the IT Service Desk at 1-866-450-5250. An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop. Alternatively, you can report a lost or stolen item via [GSA Service Desk](https://gsa.service-now.com/).
