@@ -71,8 +71,14 @@ navigation:
   internal: true
 - text: Welcome to TTS
   blurb: |
+    This handbook is a reference guide for Technology Transforamtion Services employees.
+  url: welcome-to-tts/
+  internal: true
+  generated: true
+- text: Onboarding
+  blurb: |
     Here's what you need to know in your first few weeks.
-  url: welcome-to-18f/
+  url: onboarding/
   internal: true
   generated: true
   children:
@@ -109,7 +115,7 @@ navigation:
       internal: true
     - text: Online Learning University (OLU)
       url: olu/
-      internal: true  
+      internal: true
     - text: Professional development and training
       url: professional-development-and-training/
       internal: true
