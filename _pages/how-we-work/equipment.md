@@ -21,7 +21,7 @@ Badges are shipped to your local GSA office. You will receive an email once your
 
 TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA.
 
-### <a id="laptop">Rules</a>
+### Rules
 
 **Install [Managed Software Center](/managed-software-center/).** This is how we'll send you software updates, optional software titles, and Apple updates that won't break your system.
 
@@ -36,6 +36,8 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 **Check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790).** GSA IT sets up your laptop with FileVault encryption. You won't need to (and shouldn't) change this, but you can check it in your System Preferences just to see that it's there and properly set up.
 
 **Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
+
+**Browser extensions need to be pre-approved.** See [the Chrome page on InSite](https://insite.gsa.gov/portal/content/638102) for more information.
 
 ### Tips
 
