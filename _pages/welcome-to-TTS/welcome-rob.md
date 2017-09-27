@@ -6,6 +6,7 @@ tags:
 - Rob
 - Cook
 ---
+Welcome letter from Rob Cook, Deputy Commissioner of FAS and Director of TTS
 
 Welcome! You’ve just joined a remarkable group of people doing inspiring work. We have an unprecedented opportunity to help bring our government into the digital age and transform the way it works. This opportunity is what brings us together and keeps us excited about the work we do.
 
@@ -18,6 +19,4 @@ We aim to make our organization as agile and user-centric as our projects, tappi
 
 Thanks. I hope you will find TTS as welcoming and inspiring as I have. It’s great to have you on board.
 
-**Rob Cook**
-Deputy Commissioner, FAS
-Director, TTS
+*-Rob*
