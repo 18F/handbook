@@ -167,7 +167,7 @@ While this process can take up to eight days, the upshot is that your conference
 
 ## <a id="online-university">Online Learning University (OLU)</a>
 
-All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space.
+All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space. 
 
 For more information, reference the [OLU](/olu) page.
 
