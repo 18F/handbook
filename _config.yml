@@ -70,8 +70,6 @@ navigation:
 - text: Table of Contents
   internal: true
 - text: Welcome to TTS
-  blurb: |
-    Here's what you need to know in your first few weeks.
   url: welcome-to-TTS/
   internal: true
   generated: true
