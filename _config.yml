@@ -70,9 +70,17 @@ navigation:
 - text: Table of Contents
   internal: true
 - text: Welcome to TTS
+  url: welcome-to-TTS/
+  internal: true
+  generated: true
+  children:
+  - text: Welcome
+    url: welcome/
+    internal: true
+- text: Onboarding
   blurb: |
     Here's what you need to know in your first few weeks.
-  url: welcome-to-18f/
+  url: onboarding/
   internal: true
   generated: true
   children:
@@ -109,7 +117,7 @@ navigation:
       internal: true
     - text: Online Learning University (OLU)
       url: olu/
-      internal: true  
+      internal: true
     - text: Professional development and training
       url: professional-development-and-training/
       internal: true
