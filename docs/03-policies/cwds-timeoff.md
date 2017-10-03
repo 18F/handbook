@@ -2,7 +2,9 @@
 
 Should you need time off (sick, personal, vacation), there is a procedure to follow that helps ensure your request is efficient & transparent to your team. With all requests, the more advanced notice you can provide the better. 
 
-The State of California closes its offices for observation per this [State holiday schedule](http://www.calhr.ca.gov/employees/Pages/holidays.aspx). You do not need to request timeoff for holidays that appear on both the State list and the CivicActions list.  
+CivicActions closes its offices for observation per this [company holiday schedule](../03-policies/benefits.md) for United StTates employees. You do not need to request time off for holidays in which the office is closed. 
+
+The State of California closes its offices for observation per this [State holiday schedule](http://www.calhr.ca.gov/employees/Pages/holidays.aspx). You do not need to request timeoff for holidays that appear on both the State list and the CivicActions list. If the CWDS office is closed then you are not obligated to work. You can choose to work remote on knowledge sharing or support work with other CivicActions folks but it is not required. 
 
 ## Personal & Vacation Time Off
 
