@@ -7,6 +7,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 * Pay-stubs, hiring paperwork, expense reimbursements: Judy Raiten
 * Technical questions, specific project questions: Owen Barton
 * Non-technical questions, scrum & process questions: Elizabeth Raley
+* HR related concerns or questions: First speak with your manager
 * Pod PMs: Steve Curtis (Hydra), Susie Bird (Orion), Jason Heaster (Pyxis)
 * Referring New Hires: Aaron Pava, Elizabeth Raley
 * Company Goals: Aaron Pava, Elizabeth Raley
