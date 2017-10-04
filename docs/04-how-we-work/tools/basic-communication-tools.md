@@ -57,7 +57,7 @@
 
 #### Protocol
 
-To get someone's attention, put their name in all caps in subject. Or use "ALL" to get everyone's attention. For example:
+We default to using our mailing lists for transparency instead of direct email messages. To get someone's attention, put their name in all caps in subject. Or use "ALL" to get everyone's attention. For example:
 
 * Subject: "RICHARD: are you around this afternoon?"
 * Subject: "ALL: please update your hours by EOD"
@@ -106,15 +106,17 @@ Google Hangouts are video chats in the browser. Here are some tips for using Han
 #### Best Practices
 
 * Be on time - please! Every 10 seconds actually matters
+* Default to video on for all video meetings
 * Add a photo to your account so it shows up in Hangout if your camera is off
 * We use the chat and screensharing features often
 * Turn off your camera or reduce bandwidth if connection is poor
 * Use some kind of headset or headphones instead of relying solely on computer mic (computer mics can sometimes create echoes)
 * Use proper etiquette for Hangout professionalism (consider the appropriateness of background visuals/noise, attire/dress, use of effects, eating, muting, etc.)
 * It's okay to mute other each other
-* We can invite people outside of CivicActions, too
+* We can invite people outside of CivicActions
 * You can also use the Hangout to call people in via phone: ![call people in via phone](../../images/hangouts-phone.png "Call from hangouts")
 * If you want to focus on just one participant (or their screen, if they're screensharing), you can stop the screen from switching by clicking on their picture/screenshare. To go back to automated switching, just click it again. ![stop screen switching](../../images/stop_screen_switching_in_hangouts.png "Stop screen switching in hangouts")
+* If someone hears an echo & you don't, then it's likely your computer creating the echo. You can try to plug in headphones or unplug & replug them in. 
 
 #### Available Commands
 
@@ -136,8 +138,9 @@ Google Hangouts are video chats in the browser. Here are some tips for using Han
 * Google Docs should be shared with your CivicActions email account
 * If a link is shared with you, you can add yourself to the share list so you can reference it later on
 * If you are using a template, always make a COPY
-* Update default paragraph styles to match CivicActions standard styles when creating new docs to use/share
-* If you create a document, make sure the whole team can find it and has access to it so you don't need to grant individual permissions
+* Update [default paragraph styles](https://docs.google.com/document/d/1n1Jdu4vAnO0YCppo9YO2BkSYGyOqUCSJOrfrBBzBPBM/edit#) to match CivicActions standard styles when creating new docs to use/share
+* When you create a document, set permissions so "anyone at CivicActions can find and access"
+* Make sure to place documents & files in appropriate project folder instead of it living at your personal My Drive
 
 ![Open settings](../../images/sharing1.png "Open settings")
 ![Advanced settings](../../images/sharing2.png "Advanced settings")
