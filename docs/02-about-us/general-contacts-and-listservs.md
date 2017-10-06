@@ -12,8 +12,8 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 * Referring New Hires: Aaron Pava, Elizabeth Raley
 * Company Goals: Aaron Pava, Elizabeth Raley
 * Marketing related questions or ideas: Aaron Pava
-* Sales related questions or ideas: Bill Ogilvie, Steve Curtis
-* Conferences & professional development, prof dev stipend: Owen Barton, Elizabeth Raley
+* Sales related questions or ideas: Bill Ogilvie, Adam Bergstein, Steve Curtis
+* Conferences & professional development, prof dev stipend: Elizabeth Raley
 * Time-off, vacation, leave, sick time: Your PM, Alaine Karoleff, Elizabeth Raley
 * When I'm concerned about something else: Owen Barton, Elizabeth Raley, Alaine Karoleff
 
