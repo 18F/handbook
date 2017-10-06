@@ -58,7 +58,7 @@ In addition to the paid leave described above, employees can take leave without 
 
 ### Advanced Leave
 
-You can take up to 80 hours of advanced leave (that is, leave you've not accrued yet). You must be able to make it up before the end of the leave year. See the [Benefits class](https://handbook.18f.gov/benefits/#advanced-annual-leave) for more information.
+You can take up to 80 hours of advanced leave (that is, leave you've not accrued yet). You must be able to make it up before the end of the leave year. See the [Benefits class](../benefits/#advanced-annual-leave) for more information.
 
 ## Religious Observance
 

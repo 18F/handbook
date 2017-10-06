@@ -25,25 +25,25 @@ If you’re traveling for a particular project, bill your time to the project. O
 
 ## Travel card
 
-You'll use your travel card to pay for expenses &mdash; other than flights and meals (M&amp;IE per diem) &mdash; incurred during government travel. You can apply to get one as soon as possible, and it is **required** in order to travel for 18F unless you get an exemption. [Start your application for one here](https://handbook.18f.gov/first-time-travel-travel-card/), and once receiving it, be sure to use it for all travel expenses made in your official capacity. [Don't forget to keep a receipt of everything you purchase on it](https://handbook.18f.gov/travel-guide-4-travel/).
+You'll use your travel card to pay for expenses &mdash; other than flights and meals (M&amp;IE per diem) &mdash; incurred during government travel. You can apply to get one as soon as possible, and it is **required** in order to travel for 18F unless you get an exemption. [Start your application for one here](../first-time-travel-travel-card/), and once receiving it, be sure to use it for all travel expenses made in your official capacity. [Don't forget to keep a receipt of everything you purchase on it](../travel-guide-4-travel/).
 
 ## Per diem
 
-A per diem is an allowance that you get [each day you travel on official government business](https://handbook.18f.gov/travel-guide-4-travel/). There are two ways you can receive your M&IE per diem: You can withdraw it (in cash) from your travel card before or during travel, or you can choose to receive it as reimbursement after you've concluded your travel. In the second instance, you'll be responsible for paying for meals and incidentals. You do not need to save and submit receipts to receive your M&IE per diem.
+A per diem is an allowance that you get [each day you travel on official government business](../travel-guide-4-travel/). There are two ways you can receive your M&IE per diem: You can withdraw it (in cash) from your travel card before or during travel, or you can choose to receive it as reimbursement after you've concluded your travel. In the second instance, you'll be responsible for paying for meals and incidentals. You do not need to save and submit receipts to receive your M&IE per diem.
 
 ## Concur
 
-Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system TTS employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](https://handbook.18f.gov/first-time-travel-concur-check/). You will [complete your profile](https://handbook.18f.gov/first-time-travel-complete-concur-profile/) after your receive your travel card.
+Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system TTS employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](../first-time-travel-concur-check/). You will [complete your profile](../first-time-travel-complete-concur-profile/) after your receive your travel card.
 
 ## Authorizations
 
-The process of requesting travel, including [formally clearing dates with your supervisor](https://handbook.18f.gov/travel-guide-1-authorization/) or client, making your [flight](https://handbook.18f.gov/travel-guide-2-choose-your-itinerary/#book-flight-or-rail) and [hotel](https://handbook.18f.gov/travel-guide-2-choose-your-itinerary/#choose-a-hotel-or-place-to-stay) reservations, [ensuring that you are billing your trip to the right place](https://handbook.18f.gov/travel-guide-3-approval/#iii-enter-accounting-codes), and [forwarding onto the 18F travel team for approval](https://handbook.18f.gov/travel-guide-3-approval/#iv-submit-authorization-for-approval).
+The process of requesting travel, including [formally clearing dates with your supervisor](../travel-guide-1-authorization/) or client, making your [flight](../travel-guide-2-choose-your-itinerary/#book-flight-or-rail) and [hotel](../travel-guide-2-choose-your-itinerary/#choose-a-hotel-or-place-to-stay) reservations, [ensuring that you are billing your trip to the right place](../travel-guide-3-approval/#iii-enter-accounting-codes), and [forwarding onto the 18F travel team for approval](../travel-guide-3-approval/#iv-submit-authorization-for-approval).
 
 In order to ensure same-day approval of your travel, please ensure that your authorization has been successfully submitted before 2:30 PM Eastern Time.
 
 ## Vouchers
 
-Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](https://handbook.18f.gov/travel-guide-5-reimbursement/#i-create-a-voucher), [adjust it accordingly and upload corresponding receipts](https://handbook.18f.gov/travel-guide-5-reimbursement/#ii-entering-expenses), and again [submit to the travel team for approval](https://handbook.18f.gov/travel-guide-5-reimbursement/#iv-submitting-voucher-for-approval). Once completed, everything charged to your travel card will be reconciled.
+Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](../travel-guide-5-reimbursement/#i-create-a-voucher), [adjust it accordingly and upload corresponding receipts](../travel-guide-5-reimbursement/#ii-entering-expenses), and again [submit to the travel team for approval](../travel-guide-5-reimbursement/#iv-submitting-voucher-for-approval). Once completed, everything charged to your travel card will be reconciled.
 
 It is important to complete your vouchers on time-- within 5 business days of returning from travel. Submitting vouchers late is a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, no travel will be approved for anyone with travel expenses that are more than 5 business days outstanding.
 
