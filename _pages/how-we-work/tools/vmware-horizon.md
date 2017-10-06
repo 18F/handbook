@@ -2,7 +2,7 @@
 title: VMware Horizon
 ---
 
-VMware Horizon is a VPN client that we use to connect to GSA’s intranet.
+VMware Horizon is a Windows virtual desktop client that can be used to connect to GSA’s intranet, or test something in Internet Explorer.
 
 ## Setup
 
@@ -18,12 +18,8 @@ New employees should have a GSA VMware myView/Horizon account, but if not:
 
 ## Usage
 
-1. Once you have access, you can use myView through the web client or install the software from [https://horizon.gsa.gov/](https://horizon.gsa.gov/).
-1. When using the installed software (VMWare Horizon Client), you will be prompted for "the name of the Connection Server"—enter **horizon.gsa.gov**.
-1. Enter a [one time password](/distributed#otp).
-
-Note: Horizon/myView allows for a virtual desktop in browser with no downloads.
+See [the InSite page](https://insite.gsa.gov/portal/category/536270). Note that you may need to follow the "Personal Mac" instructions.
 
 #### Still have questions?
 
-Ask in Slack: [#it-issues](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)
+Ask in Slack: [#it-issues](https://gsa-tts.slack.com/messages/it-issues/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)
