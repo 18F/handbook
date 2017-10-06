@@ -37,13 +37,13 @@ Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system TT
 
 ## Authorizations
 
-The process of requesting travel, including [formally clearing dates with your supervisor](../travel-guide-1-authorization/) or client, making your [flight](../travel-guide-2-choose-your-itinerary/#book-flight-or-rail) and [hotel](../travel-guide-2-choose-your-itinerary/#choose-a-hotel-or-place-to-stay) reservations, [ensuring that you are billing your trip to the right place](../travel-guide-3-approval/#iii-enter-accounting-codes), and [forwarding onto the 18F travel team for approval](../travel-guide-3-approval/#iv-submit-authorization-for-approval).
+The process of requesting travel, including [formally clearing dates with your supervisor](../travel-guide-1-authorization/) or client, making your [flight](../travel-guide-2-choose-your-itinerary/#book-flight-or-rail) and [hotel](../travel-guide-2-choose-your-itinerary/#book-lodging) reservations, ensuring that you are billing your trip to the right place, and [forwarding onto the 18F travel team for approval](../travel-guide-3-approval/#submit-authorization-for-approval).
 
 In order to ensure same-day approval of your travel, please ensure that your authorization has been successfully submitted before 2:30 PM Eastern Time.
 
 ## Vouchers
 
-Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](../travel-guide-5-reimbursement/#i-create-a-voucher), [adjust it accordingly and upload corresponding receipts](../travel-guide-5-reimbursement/#ii-entering-expenses), and again [submit to the travel team for approval](../travel-guide-5-reimbursement/#iv-submitting-voucher-for-approval). Once completed, everything charged to your travel card will be reconciled.
+Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](../travel-guide-5-reimbursement/#i-creating-a-voucher), [adjust it accordingly and upload corresponding receipts](../travel-guide-5-reimbursement/#iii-entering-expenses), and again [submit to the travel team for approval](../travel-guide-5-reimbursement/#iv-submitting-voucher-for-approval). Once completed, everything charged to your travel card will be reconciled.
 
 It is important to complete your vouchers on time-- within 5 business days of returning from travel. Submitting vouchers late is a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, no travel will be approved for anyone with travel expenses that are more than 5 business days outstanding.
 

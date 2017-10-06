@@ -20,7 +20,7 @@ Before taking leave, be sure to:
 
 ### Annual leave
 
-Annual leave accrues at a different rate depending on how long you've worked for the federal government. If you've worked for the federal government fewer than three years, you accrue four hours of annual leave per pay period (which equates to 13 days per year). If you've worked for the federal government between three and 15 years, you accrue six hours per pay period. After 15 years, you accrue eight hours per pay period. 
+Annual leave accrues at a different rate depending on how long you've worked for the federal government. If you've worked for the federal government fewer than three years, you accrue four hours of annual leave per pay period (which equates to 13 days per year). If you've worked for the federal government between three and 15 years, you accrue six hours per pay period. After 15 years, you accrue eight hours per pay period.
 
 - To check your accrual rate, log in to [CHRIS](https://hrprod.hr.gsa.gov:4443/OA_HTML/AppsLocalLogin.jsp?langCode=US), open the "leave" tab, and your leave accrual rate is the number on the "Leave Category" line.
 
@@ -36,7 +36,7 @@ Employees can take 3 days (24 hours) of funeral leave to plan or attend services
 
 Employees can take up to 13 days (104 hours) per year of sick leave for bereavement, funeral planning, and/or attending the funeral of a family member.
 
-Further funeral leave information can be found in OPM's Fact Sheets: 
+Further funeral leave information can be found in OPM's Fact Sheets:
 
 * [Leave for funerals and bereavement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-for-funerals-and-bereavement/)
 * [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
@@ -58,7 +58,7 @@ In addition to the paid leave described above, employees can take leave without 
 
 ### Advanced Leave
 
-You can take up to 80 hours of advanced leave (that is, leave you've not accrued yet). You must be able to make it up before the end of the leave year. See the [Benefits class](../benefits/#advanced-annual-leave) for more information.
+You can take up to 80 hours of advanced leave (that is, leave you've not accrued yet). You must be able to make it up before the end of the leave year. See the [Leave](../leave/#advanced-annual-leave) page for more information.
 
 ## Religious Observance
 
@@ -152,7 +152,7 @@ If you need to work while traveling internationally and while in a foreign count
 - If you're working from Europe, ask GSA IT to switch your work phone over to a European network while you're gone.  *Note that you'll be able to get calls and data, but your phone **won't** tether.*
 4. Once you return from your travel, submit the [GSA Foreign Travel - Debriefing](https://docs.google.com/document/d/1CvXTF-ti8wi3q29UZj9WXm4BwuwHFlT33MB_vZM7VrU/edit) form and submit it to the Office of Mission Assurance.
 
-For more information, review the [GSA Laptop, Smartphone, and PDA User Policy](https://docs.google.com/document/d/1EeLgsEsr2W20ZLK-iyVRzEcaq14_NwrwviRaWWTgKMU/edit). Information about using your government mobile device in a foreign country is [here](https://insite.gsa.gov/portal/category/536498). 
+For more information, review the [GSA Laptop, Smartphone, and PDA User Policy](https://docs.google.com/document/d/1EeLgsEsr2W20ZLK-iyVRzEcaq14_NwrwviRaWWTgKMU/edit). Information about using your government mobile device in a foreign country is [here](https://insite.gsa.gov/portal/category/536498).
 
 You can learn about [travel alerts and warnings](http://travel.state.gov/content/passports/english/alertswarnings.html) from the Department of State.
 
