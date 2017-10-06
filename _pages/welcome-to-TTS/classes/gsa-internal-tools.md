@@ -167,7 +167,7 @@ While this process can take up to eight days, the upshot is that your conference
 
 ## <a id="online-university">Online Learning University (OLU)</a>
 
-All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space. 
+All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space.
 
 For more information, reference the [OLU](/olu) page.
 
@@ -177,18 +177,13 @@ For more information, reference the [OLU](/olu) page.
 
 Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
 
-For software requests, see [the 18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) for a list of what's available. Most software can be requested by emailing 18fsoftware@gsa.gov, but please use the method indicated in the **Request Method** column. If you have any questions, feel free to ask in [#Infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
+For software requests, see [Software](../equipment/#software).
 
-<<<<<<< HEAD
-If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://requests.18f.gov). Read on [here](/purchase-requests) for what to do next.
-=======
-If you need office supplies that aren’t available in your office, software not in the 18F library, or need to make any other request for 18F to purchase, you'll want to head over to [C2](https://requests.18f.gov).
->>>>>>> master
-
+If you need office supplies that aren’t available in your office, software, or need to make any other request for 18F to purchase, read on [here](/purchase-requests) for what to do next.
 
 ## Get a copy of Microsoft Office
 
-1. Email <mailto:18fsoftware@gsa.gov> to request a license.
+1. See [Software](../equipment/#software).
 1. You’ll receive an email from Microsoft Volume Licensing Service Center. Don't click on the link in the email. *Instead*, [create a Microsoft Account](https://login.live.com/) with your .gov email.
 1. Check your email to confirm the account.
 1. Once the account is set up, click the link from the Microsoft Volume Licensing Service Center.

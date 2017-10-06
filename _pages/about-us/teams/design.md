@@ -130,11 +130,13 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Drawing lines on a screen
 
-- **Adobe Creative Cloud:** email <mailto:18fsoftware@gsa.gov> for a license. CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **InVision:** For prototyping. For a license, email <mailto:18fsoftware@gsa.gov>.
-- **OmniGraffle:** For a license, email <mailto:18fsoftware@gsa.gov>. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **Sketch:** For a license, email <mailto:18fsoftware@gsa.gov>. You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
-- **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero).
+- **Adobe Creative Cloud:** CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
+- **InVision:** For prototyping.
+- **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
+- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
+- **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero). No license needed.
+
+Unless otherwise specified, see [Software](../equipment/#software) to get a license for any of these.
 
 #### Project management
 

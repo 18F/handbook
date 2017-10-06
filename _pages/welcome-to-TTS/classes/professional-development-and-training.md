@@ -34,7 +34,7 @@ There are many training and professional development opportunities available to 
 
 ## Mandatory training
 
-All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space. 
+All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space.
 
 For more information, reference the [OLU](/olu) page.
 
@@ -238,6 +238,6 @@ As a TTS team member, you have access to additional online training resources.
 
 - **DigitalGov University** holds webinars and in-person events about all things digital government. See the DigitalGov [calendar of events](http://www.digitalgov.gov/events/) and [video library](http://www.digitalgov.gov/digitalgov-university/video-library/) for more information.
 
-- [Safari Books Online](https://www.safaribooksonline.com) provides online access to 30,000 books and videos about programming, UX design, leadership, project management, content strategy, agile development, and more. To request access, email [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov).
+- [Safari Books Online](https://www.safaribooksonline.com) provides online access to 30,000 books and videos about programming, UX design, leadership, project management, content strategy, agile development, and more. To request access, see [Software](../equipment/#software).
 
 -  GSA offers free, individual coaching for employees. Any of us can tap them any time, at no cost. The coaches are all certified by the International Federation of Coaches. They aim to help with more or less any workplace challenges you face--managing your manager; dealing with a colleague whose communication style is very different from yours; positioning yourself for a different kind of work within the agency; balancing urgent vs important requests; etc. Some of the coaches also specialize in leadership and executive issues. For more details, please contact Nicole O'Brien in GSA Office of Human Resources Management.
