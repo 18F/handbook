@@ -15,6 +15,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 * Sales related questions or ideas: Bill Ogilvie, Adam Bergstein, Steve Curtis
 * Conferences & professional development, prof dev stipend: Elizabeth Raley
 * Time-off, vacation, leave, sick time: Your PM, Alaine Karoleff, Elizabeth Raley
+* Personal, company or client security/compliance questions: Fen Labalme, Marc Jones
 * When I'm concerned about something else: Owen Barton, Elizabeth Raley, Alaine Karoleff
 
 ## Team Contact Information
@@ -23,13 +24,13 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 
 ## Listservs
 
-* Team-wide communication: ca-team@lists.civicactions.net
-* Request Timeoff: ca-timeoff@lists.civicactions.net
-* HR Notices: ca-employees@lists.civicactions.net
-* Engineering: ca-dev@lists.civicactions.net
-* Project Management: ca-pm@lists.civicactions.net
-* Sales: ca-sales@lists.civicactions.net
-* Marketing: ca-marketing@lists.civicactions.net
+* Team-wide communication: ca-team@civicactions.net
+* Request Timeoff: ca-timeoff@civicactions.net
+* HR Notices: ca-employees@civicactions.net
+* Engineering: ca-dev@civicactions.net
+* Project Management: ca-pm@civicactions.net
+* Sales: ca-sales@civicactions.net
+* Marketing: ca-marketing@civicactions.net
 * Every project has its own listserv, for example:
-    * projectname@lists.civicactions.net (includes clients)
-    * projectname-int@lists.civicactions.net (includes only CivicActions staff)
+    * projectname@civicactions.net (includes clients)
+    * projectname-int@civicactions.net (includes only CivicActions staff)
