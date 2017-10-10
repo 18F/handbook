@@ -38,12 +38,12 @@ First, determine how many other 18F employees will be traveling to the event tha
 
 ### Nonbillable travel email approvals
 
-* **To: line** Determine which division is paying for the travel, and address your email to the director of that division. Include multiple directors if multiple divisions will be paying for the travel.
-* **cc line:** All individuals approved for travel should be cc'd when the email is forwarded to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov).
-* **Subject line:** In the subject line, include the following convention: [NON-BILLABLE] - [[Correspondence code](https://docs.google.com/spreadsheets/d/1WLVv2x7GauLo0-waK3FqeVxN7UCZmXw_t2E745Gfmug/edit#gid=600166428)] of the director approving the travel] - [Tock Project Name] - #[Tock Project ID] - [Official Travel Start Date] - [Official Travel End Date]
-* **Body:** Include your travel dates and a workplan. A general email template, including a workplan, can be found [below](/travel-guide-1-authorization/#template-email-of-approval)).
-* **Attachment** Attach a budget to your request, using [this template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=1000729692).
-* **If estimated travel costs > $2,000 for the entire group** You will need the approval of your Assistant Commissioner. Group travel costs in excess of $10,000 will require additional review.
+- **To: line** Determine which division is paying for the travel, and address your email to the director of that division. Include multiple directors if multiple divisions will be paying for the travel.
+- **cc line:** All individuals approved for travel should be cc'd when the email is forwarded to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov).
+- **Subject line:** In the subject line, include the following convention: [NON-BILLABLE] - [[Correspondence code](https://docs.google.com/spreadsheets/d/1WLVv2x7GauLo0-waK3FqeVxN7UCZmXw_t2E745Gfmug/edit#gid=600166428)] of the director approving the travel] - [Tock Project Name] - #[Tock Project ID] - [Official Travel Start Date] - [Official Travel End Date]
+- **Body:** Include your travel dates and a workplan. A general email template, including a workplan, can be found [below](/travel-guide-1-authorization/#template-email-of-approval)).
+- **Attachment** Attach a budget to your request, using [this template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=1000729692).
+- **If estimated travel costs > $2,000 for the entire group** You will need the approval of your Assistant Commissioner. Group travel costs in excess of $10,000 will require additional review.
 
 If you receive approval of your request, go ahead and forward it to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov). This helps us keep good records in case of audit, and also allows the Travel Team to clear your itinerary once you've submitted it in Concur.
 
