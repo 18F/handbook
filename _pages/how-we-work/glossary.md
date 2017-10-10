@@ -73,7 +73,7 @@ tags:
 
 * **UX** - User experience. Basically, this means building things with a focus on who the user is and what they want to do, rather than just what it should look like.
 
-* **VPN** - Virtual Private Network is a way to pretend that you're on the GSA network when you're not in a GSA building, which also makes your Internet connection more secure. It's required for access to some GSA sites. See [VMware Horizon](https://handbook.18f.gov/vmware-horizon/) or [AnyConnect](https://handbook.18f.gov/anyconnect/).
+* **VPN** - Virtual Private Network is a way to pretend that you're on the GSA network when you're not in a GSA building, which also makes your Internet connection more secure. It's required for access to some GSA sites. See [VMware Horizon](../vmware-horizon/) or [AnyConnect](../anyconnect/).
 
 ## More
 
