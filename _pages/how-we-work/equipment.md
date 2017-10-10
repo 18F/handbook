@@ -138,7 +138,7 @@ TTS will replace stolen or lost equipment once a copy of the police report is se
 
 ## Requirements for passwords
 
-Read the guide on [setting and managing passwords](https://handbook.18f.gov/password-requirements/).
+Read the guide on [setting and managing passwords](../password-requirements/).
 
 ---
 
