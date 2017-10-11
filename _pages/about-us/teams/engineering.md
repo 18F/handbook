@@ -4,7 +4,7 @@ title: Engineering
 
 18F Engineering is responsible for delivering high quality, robust, open source software. We also evangelize best practices relating to software testing, scalability, operations, security, and agile development.
 
-Collectively, we’re experienced in a wide variety of technologies including Python, Ruby, server and client-side JavaScript, Go, C, relational and schema-less databases, ETL pipelines, version control, testing frameworks, machine learning, and more. See the skill tags for [everyone in Float](https://18f.float.com/people).
+Collectively, we’re experienced in a wide variety of technologies including Python, Ruby, server and client-side JavaScript, Go, C, relational and schema-less databases, ETL pipelines, version control, testing frameworks, machine learning, and more.
 
 ### Documentation
 
@@ -76,9 +76,9 @@ See [the org chart](/org-chart).
 
 ### What is expected of me regarding time tracking and how I spend my time?
 
-The default template for 18F engineers is to be committed to a single project full-time, which means 32 hours a week. If you'd like a different arragement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
+The default template for 18F engineers is to be committed to a single project full-time, which means 32 hours a week. If you'd like a different arrangement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
 
-Your project commitments should be captured in [Float](/float/). On a typical week the number of hours you work on your project will match what is marked in Float. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
+Your project commitments should be captured by the [#staffing-resourcing](https://gsa-tts.slack.com/messages/staffing-resourcing/) team. On a typical week the number of hours you work on your project will match what is marked in Float. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
 
 All 18F staff track their time in [Tock](https://tock.18f.gov/). Learn more in the [Tock guide](/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
 
