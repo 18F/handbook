@@ -5,7 +5,7 @@ slack-channel: c2-purchase-questions
 
 If you're looking to have TTS purchase anything that costs less than $3,500-- whether it's a training, a conference, software not currently in our library, business cards, or other equipment not currently in stock, [C2](https://requests.18f.gov), our purchase request tool, is your one-stop-shop. Your request will be considered, and if approved, purchased by either the TTS Acquisition (for software) or TTS Operations team (for anything else).
 
-*Looking to have TTS make a purchase over $3,500? Read on more [here](/purchase-requests/#purchases-over-3500)*
+*Looking to have TTS make a purchase over $3,500? Read on more [here](#purchases-over-3500)*
 
 In order to use C2, you'll need to get your account set up. In order to do this, please visit [requests.18f.gov](https://requests.18f.gov) first and sign in with cloud.gov. **Agree and continue**, then go through the 2-Factor authentication process. This will log your information in the system.
 
@@ -15,14 +15,14 @@ You'll then be able to proceed to make either an event request (for trainings an
 
 Training and conference requests will first be reviewed by the TTS Director of Training and Development, Pia Scott, before getting reviewed by the TTS Director of Business Operations, Amy Lawson. All other requests will go directly to the Director of Business Operations before they are purchased by a purchase card holder (however, software requests will undergo additional review).  **Do not purchase the request on your own** unless you are instructed to do so by a member of the TTS Operations team. Read on more below for guidance for different types of requests. The teams involved in approving and purchasing your requests have [bookable office hour slots available](https://sites.google.com/a/gsa.gov/tts-office-hours/)] for specific questions about trainings/conferences and software, as well as other more general purchase requests.
 
-* [Trainings and conferences](/purchase-requests/#trainings-and-conferences)
-* [Business cards](/purchase-requests/#business-cards)
-* [Office supplies](/purchase-requests/#office-supplies)
+* [Trainings and conferences](#trainings-and-conferences)
+* [Business cards](#business-cards)
+* [Office supplies](#office-supplies)
 * [Mice, keyboards, and trackpads](/equipment/#mice-keyboards-and-trackpads)
-* [Software](/purchase-requests/#software) [(if not currently in the TTS library)](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0)
+* [Software](#software)
 * [Equipment repair (laptop or phone)](/equipment/#repairs)
 * [Equipment to accommodate disability](/equipment/#equipment-to-accommodate-disability)
-* [Purchases over $3,500](/purchase-requests/#purchases-over-3500)
+* [Purchases over $3,500](#purchases-over-3500)
 
 ## Trainings and conferences
 
@@ -47,11 +47,7 @@ Anyone working in an 18F office may request a purchase of office supplies by cre
 
 ## Software
 
-Before making a request in C2, please check the [18F software library](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) to see if the software that you are looking for is already available somewhere. Most software at 18F can be requested by sending an email to [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov), but there are exceptions. Check the **Request Method** column of the 18F software library first to confirm what you need to do before you send the email.
-
-If the software you're looking for isn't listed, or the request method indicated is C2, please make a [new purchase request](https://requests.18f.gov/gsa18f/procurements/new). Once your request is submitted, please add Erik Burgess as an **Observer** to your request-- he will confirm if your requested software has an Authority to Operate (ATO).
-
-Any questions about purchases of software should be directed to [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
+See [the Equipment page](../equipment/#software).
 
 ## Purchases over $3,500
 

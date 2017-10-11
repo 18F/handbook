@@ -386,9 +386,6 @@ navigation:
     - text: FITARA
       url: fitara/
       internal: true
-    - text: IT standards
-      url: it-standards/
-      internal: true
     - text: Open source
       url: open-source/
       internal: true
