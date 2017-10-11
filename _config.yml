@@ -274,9 +274,6 @@ navigation:
     - text: ClamXav
       url: clamxav/
       internal: true
-    - text: Float
-      url: float/
-      internal: true
     - text: GitHub
       url: github/
       internal: true
