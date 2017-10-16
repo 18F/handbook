@@ -413,8 +413,6 @@ navigation:
     - text: Moving
       url: moving/
       internal: true
-    - text: Telework guidance
-      url: telework/
     - text: Travel guide
       url: travel-guide-start-here/
       internal: true
@@ -441,6 +439,9 @@ navigation:
       internal: true
     - text: Promotions
       url: promotions/
+      internal: true
+    - text: Telework guidance
+      url: telework/
       internal: true
     - text: Transit benefit
       url: transit-benefit/
