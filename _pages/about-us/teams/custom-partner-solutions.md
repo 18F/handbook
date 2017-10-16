@@ -52,7 +52,7 @@ If you&rsquo;re a project manager or engagement manager expect to:
 If you&rsquo;re a **chapter head** expect to:
 
 - Be asked to be involved in the project scoping process
-- Be asked to identify skills needs to successful meet the needs of a partner agency
+- Be asked to identify skills needed to successfully meet the needs of a partner agency
 - Be asked to assign 18F staff members to a CPS project
 
 If you&rsquo;re on the **finance team** expect to:
