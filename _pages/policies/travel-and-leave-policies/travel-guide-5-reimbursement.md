@@ -44,9 +44,10 @@ IF THIS IS YOUR FIRST TIME CREATING A VOUCHER: please read through this guide, b
 
 ### II. Naming your Voucher
 
-    If you are creating a voucher from authorization, your **Document Information** should appear and be autopopulated.
+   * If you are creating a voucher from authorization, your **Document Information** should appear and be autopopulated.
 
-    * If your are creating a local voucher, and the **Trip Name** does not autopopulate, enter it in this format `BILLABLE or NON-BILLABLE: [Exact Name of Tock Project]` that you would bill the trip to. For example, a non-billable trip for ops would be `NON-BILLABLE: Ops/ Acquisitions`. The Travel Team will return vouchers that don’t follow this format, so again, please make sure you name your trip using the above convention.
+   * If your are creating a local voucher, and the **Trip Name** does not autopopulate, enter it in this format `BILLABLE or NON-BILLABLE: [Exact Name of Tock Project]` that you would bill the trip to. 
+      * For example, a non-billable trip for ops would be `NON-BILLABLE: Ops/ Acquisitions`. The Travel Team will return vouchers that don’t follow this format, so again, please make sure you name your trip using the above convention.
 
     * **Is your trip both Billable and non-billable?** Enter the trip name as `MIXED: [Your (non-billable) line of business]/[Exact Name of Tock Category]` to invoice billable part of trip to.
 
