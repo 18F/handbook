@@ -39,7 +39,7 @@ You can find more information on schedule types on [GSA Insite](https://insite.g
   * need both your supervisor and your Assistant Commissioner to approve your full-time telework schedule.
   * need a full-time telework agreement from [GSA Telework Insite Page](https://insite.gsa.gov/portal/category/513630) signed by you and your supervisor each time you change jobs or supervisors.
   * must send any updates to your regular telework schedule to your timekeeper.  For example, if you change or add days during the week or if you permanently add/remove telework days from your regular schedule
-  * send questions about Full-time Agreements to [tts-talentteam@gsa.gov](tts-talentteam@gsa.gov).
+  * send questions about Full-time Agreements to [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov).
   * need to be classified in GSA HR systems as a full-time teleworker.  
 
 The process for current TTS employees moving from a part-time to a full-time teleworker can take some time and is not guaranteed.  If you want to relocate, you are encouraged to have final confirmation of your full-time telework agreement ***before*** you move.   The talent team can help coordinate verification of full-time telework status change.   Please note that some position descriptions, for example Administrative Support Specialists, must report to an office and cannot be full-time teleworkers.  
@@ -75,4 +75,4 @@ Employees and supervisors must discuss pros and cons of becoming a full-time tel
 
 ### Still have questions?
 
-Please ping: [Talent](https://gsa-tts.slack.com/messages/talent) or send an email to [tts-talentteam@gsa.gov](tts-talentteam@gsa.gov)
+Please ping: [Talent](https://gsa-tts.slack.com/messages/talent) or send an email to [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov)

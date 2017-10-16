@@ -74,7 +74,7 @@ All General Services Administration (GSA) employees are required to take mandato
       <td>45 minutes</td>
     </tr>
     <tr>
-      <td>Telework Works (must be completed before you <a href="/https://insite.gsa.gov/portal/category/513630">submit your telework agreement</a>)</td>
+      <td>Telework Works (must be completed before you <a href="https://insite.gsa.gov/portal/category/513630">submit your telework agreement</a>)</td>
       <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>120 minutes</td>
     </tr>
