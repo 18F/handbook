@@ -14,9 +14,9 @@ Here are the links to [GSA’s Telework Policy](https://insite.gsa.gov/portal/co
 
 ## Terms to Know
 
-* Official worksite = The place you work when you don’t telework  i.e. GSA office buildings.  
-* Flexible Schedule = You work each day during a 10 day pay cycle with a flexible start and end time
-* Compressed Schedule (often called AWS) = You work 9 days out of a 10 day pay cycle with a fixed start and end time
+* **Official worksite:** The place you work when you don’t telework  i.e. GSA office buildings.  
+* **Flexible Schedule:** You work each day during a 10 day pay cycle with a flexible start and end time
+* **Compressed Schedule (often called AWS):** You work 9 days out of a 10 day pay cycle with a fixed start and end time
 
 You can find more information on schedule types on [GSA Insite](https://insite.gsa.gov/portal/content/500306).
 
@@ -42,11 +42,14 @@ You can find more information on schedule types on [GSA Insite](https://insite.g
   * send questions about Full-time Agreements to [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov).
   * need to be classified in GSA HR systems as a full-time teleworker.  
 
-The process for current TTS employees moving from a part-time to a full-time teleworker can take some time and is not guaranteed.  If you want to relocate, you are encouraged to have final confirmation of your full-time telework agreement ***before*** you move.   The talent team can help coordinate verification of full-time telework status change.   Please note that some position descriptions, for example Administrative Support Specialists, must report to an office and cannot be full-time teleworkers.  
+The process for current TTS employees moving from a part-time to a full-time teleworker can take some time and is not guaranteed.  If you want to relocate, you are encouraged to have final confirmation of your full-time telework agreement ***before*** you move.   
+
+The talent team can help coordinate verification of full-time telework status change.   *Please note that some position descriptions, for example Administrative Support Specialists, must report to an office and cannot be full-time teleworkers.*  
 
 ## Telework Training
 
 You must successfully complete the following required [GSA Online University](https://gsaolu.gsa.gov/) (OLU) courses before beginning and to continue teleworking:
+
   * Privacy Training 101 and IT Security Awareness, renew annually  
   * Telework Works, a one time training
 
