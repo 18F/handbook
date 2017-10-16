@@ -414,7 +414,7 @@ navigation:
       url: moving/
       internal: true
     - text: Telework guidance
-      url: telework
+      url: telework/
     - text: Travel guide
       url: travel-guide-start-here/
       internal: true
