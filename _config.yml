@@ -413,8 +413,8 @@ navigation:
     - text: Moving
       url: moving/
       internal: true
-    - text: Telework and virtual workers
-      url: telework-and-virtual-worker
+    - text: Telework guidance
+      url: telework/
     - text: Travel guide
       url: travel-guide-start-here/
       internal: true
