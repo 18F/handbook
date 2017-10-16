@@ -6,7 +6,7 @@ tags:
 - mandatory
 ---
 
-The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for mandatory trainings for federal employees.
+The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for mandatory trainings for federal employees.  Time spent taking OLU trainings should be coded as `671 - 18F / FY18 Training and Conferences` in [Tock](/tock).
 
 ## <a id="online-university">Online University (OLU)</a>
 
@@ -27,8 +27,6 @@ TTS employees are required to take the [following courses](https://goo.gl/tzxAet
 * Teleworks Works (updates needed)
 
 *NOTE: For the *No Fear Act* training, we recommend using Firefox or Safari with IE8 User Agent. Otherwise, it won't register that you've taken the course. Upon completion of the test, you might not be able to click on the `Exit` button as is suggested. Try closing the window that the test was in and clicking next on the parent window &mdash; this should register your test as having been completed and generate the certification that is loaded to your profile.*
-
-Time spent taking OLU trainings should be coded as `671 - 18F / FY18 Training and Conferences` in [Tock](/tock).
 
 ## Help with OLU
 For help with OLU once you've logged in, including getting confirmation of classes taken, click on the **Learning** dropdown at the top of the window and then select **Live Support 24/7**.
