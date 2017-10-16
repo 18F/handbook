@@ -6,7 +6,7 @@ tags:
 - Rob
 - Cook
 ---
-Welcome from Rob Cook, Deputy Commissioner, FAS and Director, TTS
+Rob Cook, Deputy Commissioner, FAS and Director, TTS
 
 Welcome! You’ve just joined a remarkable group of people doing inspiring work. We have an unprecedented opportunity to help bring our government into the digital age and transform the way it works. This opportunity is what brings us together and keeps us excited about the work we do.
 
