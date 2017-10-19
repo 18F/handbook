@@ -1,5 +1,7 @@
 # Listserv Setup
 
+We manage email lists via [Google Groups/Forum](https://groups.google.com/a/civicactions.net/forum/)
+
 We use internal and client-facing listservs for email communication. PMs are  responsible for setting up and maintaining project mailing lists.
 
 ## Naming conventions
@@ -7,18 +9,21 @@ We use internal and client-facing listservs for email communication. PMs are  re
 * project@lists.civicactions.net (includes clients)
 * project-int@lists.civicactions.net (just for CivicActions staff)
 
-## Create new project email list
+## Create a new project email list
 
-* [Login](https://docs.google.com/document/d/1K2wJEHaU6sEXNPY3DGzcHTiNW0dI6PD7bPyRYmKxiKE/edit)
-* Select *New Mailing List*
-* Create lists (project & project-int)
-* Locate list in the big listing directory
-* Select *Add Subscriber* (column 1) to add people to the new lists (do this for both lists)
+* You need to be logged in using your civicactions.com email address
+* [Create a group](https://groups.google.com/a/civicactions.net/forum/#!creategroup)
+* Leave the defaults, usually (read the options on that page, it's pretty self-explanatory)
 
-## Add person to existing list
+## Before adding users
 
-* [Login](https://docs.google.com/document/d/1K2wJEHaU6sEXNPY3DGzcHTiNW0dI6PD7bPyRYmKxiKE/edit)
-* Select *Mailing Lists*
-* Review *Show Subscriber* (column 3) to check that user doesn't already exist on list
-* Then *Add Subscriber* (column 1) to add person to list
-* Ask the client/Product Owner if they have anyone else in their office who should be on the client-facing mailing list
+* Under Basic Permissions: Check off "Allow new users not in civicactions".
+* Under Email Options: Add \[subject prefix\] that will show up in all emails in the subject line
+* Under Email Options: Set "Post replies"  "To the entire group" (in most cases)
+* Under Email Options: You can set auto-replies, custom footers, etc.
+* There are lots of other settings under other menu items.
+
+To add users, use "Direct add members" instead of "Invite members", so that invitees don't need to take any action. You can set a welcome message that should be sticky for future members that get added.
+
+![alt text](../images/google-email-list-config.jpg "PM billing Delivery")
+
