@@ -1,5 +1,5 @@
 ---
-version: 1.1.1
+version: 1.1.2
 ---
 
 # CivicActions Security Policy
@@ -212,7 +212,7 @@ Developers and themers maintaining local sandbox copies of client sites must als
 Developers and themers working on the site vhost (SSH/shell, file system, database) must also:
 
 * Ensure they follow best practices with respect to SSH keys, passphrases and passphrase caching (see above).
-* SSH, SFTP and SCP access to vhosts should only ever be managed by designated admin(s). Access by password, manually installed SSH keys (other than by admins), web based "shell" script, port forwarding to 3rd parties or other methods are forbidden by unless authorized in advance by the CIO.
+* SSH, SFTP and SCP access to vhosts are managed exclusively by designated admin(s). Access by password, manually installed SSH keys (other than by admins), web based "shell" script, port forwarding to 3rd parties or other methods are forbidden by unless authorized in advance by the CIO.
 * Temporary SSH port forwarding is permitted for the purpose of accessing the server MySQL from your own desktop.
 * Accessing CivicActions servers by initiating an SSH connection from external client or 3rd party servers is strongly discouraged - it is preferable to SSH out from the CivicActions server.
 * Running non-standard software on a vhost requires a system ticket and approval from a member of the IT team. This includes:
