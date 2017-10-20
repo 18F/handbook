@@ -4,9 +4,9 @@ This handbook is written by and for all employees of CivicActions. Everyone is e
 
 The most common incentive to create or edit documentation is to "scratch an itch" that's felt when we come across a lack of information, or lack of standards around a practice. If you find a hole in the documentation, you're probably the best person to take a stab at filling it.
 
-We also have a [a Trello board](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) to manage the documentation backlog. Feel free to pick something off the backlog to work on.
+We also have [a Trello board](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) to manage the documentation backlog. Feel free to pick something off the backlog to work on.
 
-The documentation working group currently meet weekly to prioritize backlog items as they come up.
+The documentation working group currently meets weekly to prioritize backlog items as they come up.
 
 We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel in Slack to comunicate throughout the week.
 
