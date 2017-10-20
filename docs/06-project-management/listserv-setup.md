@@ -6,8 +6,8 @@ We use internal and client-facing listservs for email communication. PMs are  re
 
 ## Naming conventions
 
-* project@lists.civicactions.net (includes clients)
-* project-int@lists.civicactions.net (just for CivicActions staff)
+* project@civicactions.com (includes clients)
+* project-int@civicactions.com (just for CivicActions staff)
 
 ## Create a new project email list
 
@@ -23,7 +23,11 @@ We use internal and client-facing listservs for email communication. PMs are  re
 * Under Email Options: You can set auto-replies, custom footers, etc.
 * There are lots of other settings under other menu items.
 
-To add users, use "Direct add members" instead of "Invite members", so that invitees don't need to take any action. You can set a welcome message that should be sticky for future members that get added.
+## Adding users
+
+* In most cases, you'll want to use "Direct add members" instead of "Invite members", so that invitees don't need to take any action. 
+* You can set a welcome message that should be sticky for future members that get added.
+* Add elizabeth.raley@civicactions.com and owen.barton@civicactions.com to every list you create. 
 
 ![alt text](../images/google-email-list-config.jpg "PM billing Delivery")
 
