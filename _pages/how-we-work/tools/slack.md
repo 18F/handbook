@@ -186,8 +186,12 @@ Groups are a great way to alert people who might not be in a channel about somet
     - Changes or actions that impact the entire team
 
 ### When to use @channel and @here
-- Type `@channel [message]` to send your message to everyone in the channel. Use sparingly and only if everyone in the channel needs to see your message.
-- Type `@here [message]` to send your message to everyone in the channel with Slack open **at a desktop computer.** Don't use this as a softer version of an `@channel` because there will be no notification for anyone who wasn't at their computer.
+In general, the larger a channel is, the more careful you should be about using broadcast notifications.
+
+- Type `@channel [message]` to send a notification to everyone in the channel with your message. Use sparingly and only if everyone in the channel needs to see and read your message. When in doubt, ask first.
+- Type `@here [message]` to send your message to everyone in the channel with Slack currently open **at a desktop computer.** Don't use this as a softer version of an `@channel` because there will be no notification for anyone who wasn't at their computer. This is more useful if you have an urgent need and need attention from everyone who is online right now. However, using @here in a large channel will still disrupt many people.
+
+Some channels may have particular guidance for getting help, which you can usually check in the channel status. Regardless, if you don't have an urgent need or a message that everyone needs to see, try posting your message without a broadcast notification.
 
 ### Frequently used emoji
 
