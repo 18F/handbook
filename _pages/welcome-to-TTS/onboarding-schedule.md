@@ -44,7 +44,6 @@ In your second week, you’ll learn how travel and recruitment work, and get an 
 * [Professional development, conferences, speaking opportunities, and IDPs](/professional-development-and-training) ([Description](/classes/#professional-development))
 
 ### Friday
-* [Welcome from Aaron](/welcome-from-aaron/) ([Description](/classes/#meet-aaron))
 
 ## <a name="week-3"></a>Week 3
 Your third week of training is relatively short. You’ll learn about accessibility and the tools we use to run successful meetings (many of which you’ve probably seen by now).
