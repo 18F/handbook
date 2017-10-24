@@ -63,7 +63,7 @@ Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds li
 
 ### Parental leave
 
-Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact Leila Knight for more information.  Leila's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact Gaydell Gould for more information.  Dell's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent). For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) chanel
 
 ### Family and Medical Leave Act
 The Family and Medical Leave Act (FMLA) allows most federal employees to take up to 12 weeks of **unpaid** leave per 12-month period for: the birth or care of a child, an adoption or placement of child for foster care, the care of a spouse/son/daughter/parent with a serious health condition, a serious health condition of an employee, or a qualifying exigency from spouse, child or parent of an employee on covered active duty in the Armed Forces. An employee is entitled to taking FMLA when they have been an employee of the federal government for **at least 12 months.**
