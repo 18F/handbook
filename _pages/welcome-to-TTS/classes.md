@@ -166,13 +166,6 @@ You have a friend who wants to join 18F. You’re wondering how recruitment work
 
 ## <a id="fridays">Fridays</a>
 
-### <a id="meet-aaron" href="/welcome-from-aaron/">Meet Aaron</a>
-
-Aaron is the Executive Director of 18F. During this informal session, he'll talk a little bit about the history of 18F/GSA and how 18F fits into the larger GSA community (and can work with the larger GSA community).
-
-**When:** Last Friday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
-**Tags:** [#newcomers](https://gsa-tts.slack.com/messages/newcomers)
-
 ### <a id="product-team" href="/intro-to-product-and-open-source">Introduction to the Product Team and open source software</a>
 
 Learn about the product team and why 18F makes all of its software open source.
