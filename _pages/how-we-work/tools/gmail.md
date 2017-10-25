@@ -6,7 +6,7 @@ We use Gmail for email.
 
 ## Usage
 
-You can access your email from <https://mail.google.com> or <email.gsa.gov>.
+You can access your email from <https://mail.google.com> or <http://email.gsa.gov>.
 
 ## Tips
 
