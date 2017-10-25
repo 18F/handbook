@@ -6,13 +6,11 @@ We use Gmail for email.
 
 ## Usage
 
-You can access your email from <https://mail.google.com> or <https://mail.gsa.gov>.
-
-## Rules
-
-**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Holly Allen](https://gsa-tts.slack.com/messages/holly/).
+You can access your email from <https://mail.google.com> or <http://email.gsa.gov>.
 
 ## Tips
+
+- **For basic Gmail tips and best practices** check out the [Email with Gmail](https://insite.gsa.gov/portal/content/638210) InSite page.
 
 - **Enable clickable `mailto:` links in Chrome**:
 
