@@ -46,17 +46,7 @@ If you’re interested in taking a training related to your role at TTS, you’l
 
 ### 1. Make your request
 
-The review and approval processes can take a bit of time, so it’s best if you make your training request as early as possible. Here are some basic guidelines about how far in advance to request training:
-
-* **Two weeks in advance:** If you’re interested in a training that costs less than $3,500, is not at a conference, doesn’t require travel, doesn't involve more than one individual from TTS, and doesn’t involve an outside source of funding.
-*Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least one week in advance.*
-* **Three to four weeks in advance:** For trainings that are less than $3,500 altogether, don't require an outside source of funding, and are either at a conference, require travel, or involve more than one person from TTS attending.
-*Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least two weeks in advance.*
-* **Five to six weeks in advance:** For individual or group trainings (or conferences) that cost more than $3,500 altogether, anything involving an outside source of funding, or international travel.   If the training itself costs more than $3,500 try to submit the request two or more months in advance as it *cannot be purchased on a purchase card and must go through a full procurement.*
-*Requests like these must be [made in C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) at least four weeks in advance.*
-
-Requests that don't make it to [C2 (Step 4)](/professional-development-and-training/#submit-an-event-request-in-C2) in time will not be approved.
-
+*Under construction*
 
 ### 2. Create your Individual Development Plan (IDP)
 
@@ -90,112 +80,11 @@ That said, TTS will consider all requests for training, but it’s the responsib
 
 ### 4. Submit an event request in C2
 
-Once your IDP is approved, you can [create an event request in C2](https://requests.18f.gov/gsa18f/events/new). If you've never used C2 before, or the link looks like it's not working, ping in [#c2-purchase-questions](https://gsa-tts.slack.com/messages/C0E1APHGU/) and someone will add you.
-
-If you are set up right in C2, your event request form should look something like [this](https://gsa-tts.slack.com/files/eth/F2VNM3F17/c2-teamops-10-17-2016.jpg). Go ahead and start filling it out. Make sure you complete all required fields and attach your IDP before submitting-- you can do this by going in to **Review** your IDP and then clicking **Print** at the bottom of the page, which will open your IDP in Print Preview and allow you to export a PDF version of it.
-
-You must provide all of the required information in your C2 request, otherwise there will be process delays.
-
-**For a training/conference that involves more than one person at TTS**, it is **required** that one C2 request be made for everyone attending. If you are not sure if anyone else from TTS will be attending your event, please check in with your supervisor. If a group request is not made, there may be process delays, and it is possible that attendance will have to be limited to the first requestor.
-
-The initial requestor can name who all will be attending in the "Instructions to Purchase" field and, after submitting, add the additional people as *observers* to the request. Each additional person attending is responsible for uploading their own required documents (IDP, SF-182, etc.) accordingly.
-
-To facilitate review, when uploading documents, please also include your name and the type of document in the filename (i.e. `Your Name` SF-182).
-
-**What happens next?**
-
-[Pia Scott](mailto:pia.scott@gsa.gov) will review your request for red flags during her office hours between 3:30 PM - 5:00 PM Eastern on Wednesday or 2:30 PM to 4:30 PM Eastern on Friday, and you can book time during those hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/) if you have more specific questions.
-
-The office hours are subject to change each week, but these changes will be reflected on the calendar. Marshall Brown backs Pia up when she is out of the office.
+*Under construction*
 
 ### 5. Resolve any red flags and finalize all approvals
 
-Before your request can be approved, it needs to be free of red flags. During her office hours, Pia will review your request and identify red flags in the comments section of your C2 request.
-
-Some of the most common red flags include:
-
-* [Any training or conference requiring payment](/professional-development-and-training/#does-the-training-or-conference-require-payment)
-* [Training or conference purchase is over $3,500](/professional-development-and-training/#Does-the-training-or-conference-cost-over-3500)
-* [Conferences or trainings at conferences](/professional-development-and-training/#Are-you-attending-a-conference-or-training-at-a-conference)
-* [Training or conferences involving travel](/professional-development-and-training/#does-the-training-or-conference-require-travel)
-* [Any international travel](/professional-development-and-training/#Does-your-request-require-international-travel)
-* [Vendor-sponsored event participation (vendor offers to cover any expense)](/professional-development-and-training/#Does-the-event-cover-registration-lodging-or-food-free-of-charge)
-
-It’s fairly common for a request to have multiple red flags. Pia will recommend your request for approval and purchase during her next office hours once she verifies that all red flags have been addressed.
-
-**What happens next?**
-
-Once you have remedied all red flags and Pia has recommended approval, the TTS Director of Business Operations [Amy Lawson](mailto:amy.lawson@gsa.gov) will verify that your request is within budget and recommended for approval by Pia before approving as well.
-
-**Purchase, travel approval, and logistics**
-
-Once Pia and Amy have approved, your request will move on to [TTS Purchasers](mailto:tts-purchasers@gsa.gov). Then, one (or two) of three things will happen:
-
-* If your request didn't require anything to be purchased and there were no travel expenses, it will be marked as "purchased" and resolved with no further action required on your part.
-* If your request requires that something be purchased, [read on here](/professional-development-and-training/#does-the-training-or-conference-require-payment) for more.
-* If your request requires travel, [read on here](/professional-development-and-training/#does-the-training-or-conference-require-travel) for more.
-
-#### Does the training or conference require payment?
-
-You'll need to complete an SF-182. The SF-182, in addition to being the document that authorizes TTS to pay for the training, is also a contract between you and the government. If you leave before terms of this “continuing service agreement” are met, then you are required to pay the government for the cost of the training.
-
-To get this started, you'll need to create [an SF-182 request](https://gsa--c.na21.visual.force.com/apex/IDP_SF182Edit) in Salesforce. Link it to your IDP and also provide your position level.
-
-Then, you can go ahead and [Add new training request to existing SF-182](https://gsa--c.na21.visual.force.com/apex/IDP_SF182RequestEdit). Here, you'll need to provide a little more detail, including:
-
-* Link to SF-182 request that you made above
-* Link to Activity created in your IDP
-* Vendor
-* Course Title
-* Training start and end dates
-* Training duty hours (# of hours of training taking place during the regular work day)
-* Training location
-* Training type code, purpose type, delivery type, designation type, and source type (fill in what seems right to you here).
-* Tuition and Fee (Direct Cost)
-* Books and Materials (Direct Cost)
-* Travel Cost (Indirect Cost)
-* Per diem (Indirect Cost)
-* Supervisor
-* Approver 1 (your supervisor's name again)
-* Approver 2 is Dave Zvenyach, but only for trainings costing over $3,500.
-* Purchase card holder is Ethan Heppner
-
-Save your SF-182 request when finished. You will be notified automatically when it is approved.
-
-#### Does the training or conference cost over $3,500?
-
-There are a few special rules for trainings of conferences that cost over $3,500:
-
-**If registration for an individual training or conference costs over $3,500**, the 18F executive director (Dave Zvenyach) must be listed as a second line approver on the SF-182.
-
-**If total registration fees for an individual *or* group training or conference cost over $3,500**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that TTS can pay via credit card. Pia will also add Ethan Heppner as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS number, which is also required when the federal government makes a purchase over $3,500 from any vendor.
-
-#### Are you attending a conference or training at a conference?
-
-Conferences and training at conferences require Salesforce approval. Pia will create this Salesforce Event Approval request, so no action is required on your part. You will receive two notifications via comment in C2: submission and approval. Further instructions will be provided, based upon the training request type.
-
-#### Does the training or conference require travel?
-
-For requests involving travel, you must complete and attach a PDF copy of your budget to your C2 request using the template provided [here](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0).
-
-Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](https://travel.gsa.gov). The operations team will add [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov) as an observer to your C2 request once it is fully approved, so you **do not need** to get an email of approval from your supervisor *unless* you anticipate that you will exceed your attached budget by more than 20%, or you need to travel to or from a city that is different from your home of record. Feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](/travel-guide-3-approval/#submit-authorization-for-approval) your authorization so it gets reviewed and approved by the TTS travel team!
-
-If this is your first time on government travel, you have some preliminary work to do. To complete the necessary steps before travel, follow the steps to [get set up in Concur](/first-time-travel-get-in-concur-post-olu/).
-You will also need to [apply for a travel card](/first-time-travel-travel-card/). It is the required payment method for your government travel expenses, such as lodging, transportation, etc.
-
-#### Does your request require international travel?
-
-International travel requires additional approvals. As mentioned above, make sure that you’ve submitted your request 6-8 weeks in advance.
-
-Similar to requesting any sort of training involving travel, Pia will review and identify any red flags and steps for remediation, and then submit a request on your behalf in Salesforce.
-
-International Salesforce Event Approval Requests require extensive review prior to approval, and must be reviewed and approved by your first and second-level supervisors, the HSSO, OGC, OGE, OAS and the GSA Administrator. Pia will assist you in coordinating this approval process. You must include justification for international travel in your training request. For example, can this training be obtained in the United States? If so, why do you need to travel outside of the country? This question will be asked at every level of review. Be sure to provide a comprehensive justification (such as professional development, collaboration, information gathering, recruitment, etc.).
-
-Once the international travel has been recommended for approval by Pia and approved by Josh and Jackie, the procedure is the same as [above](/professional-development-and-training/#does-the-training-or-conference-require-travel)
-
-#### Does the event cover registration, lodging, or food free of charge?
-
-If the event host is paying any expenses (transportation, lodging, meals, etc.), then you must complete a [Non-Federal Source Gift Form](https://drive.google.com/a/gsa.gov/file/d/0B9DenuU408s4UHVsNFlqTEFpRGc/view?usp=sharing). and attach it to your C2 request.
+*Under construction*
 
 ### 6. Attend your training
 
