@@ -30,7 +30,7 @@ If this link does not automatically open up a gmail window for the the Employer 
 ### Frequently Asked questions
 
 #### What is my Correspondence/Office symbol?
-You can look this up [here](https://docs.google.com/spreadsheets/d/1WLVv2x7GauLo0-waK3FqeVxN7UCZmXw_t2E745Gfmug/edit#gid=600166428).
+For the purposes of Concur, use "TTS".
 
 #### What are my user roles?
 Only traveler, unless you have already been instructed otherwise by the 18F travel team.
