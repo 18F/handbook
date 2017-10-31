@@ -120,7 +120,7 @@ Federal employees use a range of different video software to communicate. Check 
 - [Google Hangouts](/google-hangouts)
 - Adobe Connect
 - Talky.io
-- Join.me (if you need an account, talk to [kathryn](https://gsa-tts.slack.com/messages/@kathryn/))
+- Join.me
 
 ## Set up a conference line
 
