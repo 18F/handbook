@@ -31,14 +31,6 @@ will not allow you to commit your changes if any secrets are found.
 To contribute regular-expressions to match new rules, [see the
 documentation](https://github.com/18F/laptop#git-seekret).
 
-### Fugacious
-
-<!-- Note this information needs to remain *somewhere* for cloud.gov FedRAMP compliance, since the cloud.gov team uses Fugacious. It's linked from https://cloud.gov/docs/ops/secrets/#sharing-secret-keys — if you make (or want to make) major changes here, please ping #cloud-gov-highbar. -->
-
-You can use [Fugacious](https://fugacious.18f.gov/) for short-term secure messaging. Fugacious is most useful for sending small bits of text once, such as passwords or API keys. Set the lowest acceptable "self-destruct" settings for the number of views and hours available that you need (maximum 48 hours). You can share Fugacious links over [TTS](http://www.gsa.gov/portal/category/25729) Slack, but don't put sensitive information in Slack directly.
-
-If you're on the cloud.gov team, see [this additional cloud.gov policy for sharing sensitive information](https://cloud.gov/docs/ops/secrets/).
-
 ### Google Drive
 
 You can use [GSA Google Drive](../google-drive/) to share sensitive files, spreadsheets, and documents. This includes personally identifiable information (PII) of either federal staff or the public, but it *does not* include classified information of any kind. If you're handling PII, be absolutely sure you are only sharing Drive files with GSA staff and that those staff members have a direct need for the information.
