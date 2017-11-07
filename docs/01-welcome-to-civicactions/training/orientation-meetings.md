@@ -142,10 +142,10 @@
 
 ### Security for Everyone
 
-* Begin your [CivicActions Security Training](../security-training.md)
+* Begin your [CivicActions Security Training](./security-training.md)
     * Read the [CivicActions Security Policy](../../03-policies/security.md)
     * Increase your [Security Awareness with Tools](../../09-security/awareness.md)
-        * [Secure your laptop](../../ 09-security/awareness/#securing-your-laptop)
+        * [Secure your laptop](../../ 09-security/awareness.md/#securing-your-laptop)
         * Set up [LastPass](../../09-security/awareness.md#lastpass)
         * Set up [Two Factor Authentication (TFA)](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
     * Complete your [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
@@ -178,7 +178,7 @@
     * Engineering Practices
     * Git Overview
     * Drupal Overview
-    * [Security and Compliance](../../05-engineering/security-compliance)
+    * [Security and Compliance](../../05-engineering/security-compliance.md)
 * UX/Content Strategy/Design track
     * UX-Agile
     * Review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products)
