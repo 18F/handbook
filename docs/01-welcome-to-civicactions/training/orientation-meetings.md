@@ -142,14 +142,14 @@
 
 ### Security for Everyone
 
-* Review the [Security Policy](../../03-policies/security.md). Read this policy, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
-    * Overview of [password policy](../../03-policies/security.md#password-policy)
-    * Set up [Lastpass](../../09-security/awareness.md#lastpass)
-    * Set up [TFA](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
-    * Review [Security Awareness and Tools](../../09-security/awareness.md)
-    * Complete [Security Checklist](https://docs.google.com/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit#gid=0)
-* Read about [FOSS/Open Source](../../01-welcome-to-civicactions/training/intro-open-source.md)
-* If asked, complete this online [PII course](http://cdsetrain.dtic.mil/piiv2/index.htm)
+* Begin your [CivicActions Security Training](./security-training.md)
+    * Read the [CivicActions Security Policy](../../03-policies/security.md)
+    * Increase your [Security Awareness with Tools](../../09-security/awareness.md)
+        * [Secure your laptop](../../09-security/awareness.md/#securing-your-laptop)
+        * Set up [LastPass](../../09-security/awareness.md#lastpass)
+        * Set up [Two Factor Authentication (TFA)](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
+    * Complete your [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
+    * Look for an email from Judy/DocuSign that asks you to acknowledge your *Security Awareness* later this week.
 
 ### UX for Everyone
 
@@ -161,12 +161,12 @@
 ### Tasks to complete in the next two weeks
 
 * Resume & bio should to be completed by end of Day 5 & shared with copywriter
-* Work on completing the [Security Checklist](https://docs.google.com/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit#gid=0)
+* Work on completing your [Security Checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
 * [Skillset Survey](../skillset-survey.md)
 * Read about & learn [Markdown](../../04-how-we-work/tools/markdown.md)
 * Read the [common vocab](../../04-how-we-work/common-vocab.md) page
 * Introduction to [Presentation Slides Template](../../04-how-we-work/tools/presentation-slides.md)
-* Review CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md)
+* Review the CivicActions [Elevator Pitch](../../02-about-us/elevator-pitch.md)
 * Any additional tasks from above days that have not yet been completed
 
 ### Role-based training/orientation
@@ -178,7 +178,7 @@
     * Engineering Practices
     * Git Overview
     * Drupal Overview
-    * Security Overview
+    * [Security and Compliance](../../05-engineering/security-compliance.md)
 * UX/Content Strategy/Design track
     * UX-Agile
     * Review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products)
