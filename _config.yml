@@ -274,6 +274,9 @@ navigation:
     - text: ClamXav
       url: clamxav/
       internal: true
+    - text: Federalist
+      url: federalist/
+      internal: true
     - text: GitHub
       url: github/
       internal: true
