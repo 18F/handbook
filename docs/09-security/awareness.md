@@ -73,11 +73,11 @@ Once set up, Yubikey greatly simplifies the process of Two-Factor Authentication
 
 ### Two-Factor Redundancy and TFA Backup Codes
 
-As a final, crucially important step, ***you must have a backup for all your TFA accounts***. Imagine that you use Google Authenticator from your phone to unlock LastPass and you lose your phone. Without a backup second factor, access to your accounts would be prevented. So you need a backup.
+As a final, crucially important step, ***you must have a backup second factor for all your TFA accounts***. Imagine that you use Google Authenticator from your phone to unlock LastPass and you lose your phone. Without a backup second factor, access to your accounts would be prevented. So you need a backup.
 
 SMS can often be an easy backup, say for Google Authenticator, or Google Authenticator could be a backup for your Yubikey, or you can even have a second Yubikey. Services that provide TFA generally enable multiple second factor options, and also provide a downloadable set of single use "backup codes" that you can download or print and keep in a safe place. If you lost your primary second factor, you can use your secondary one or a printer backup code stored in your file cabinet. *Hint: you can store backup codes in LastPass in the Notes section.*
 
-### Advanced: Connecting to you CivicActions' Google Account from Sevices/Apps after TFA has been Enabled
+### Advanced: Connecting to TFA-enabled Sevices/Apps
 
 Some applications and services may need to connect to your Civicactions google account but they might not be able to handle TFA. An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass TFA.
 
