@@ -23,13 +23,14 @@ A password manager will enable you to have unique, strong passwords for every se
     * We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
     * Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
 * LastPass is required for members of the CivicActions System Admins and Infrastructure Support Team.
-* We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [YubiKey](./yubikey/README.md) token).
+* We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [Yubikey](./yubikey/README.md) token).
 * Set up Two Factor Authentication on your LastPass Account (see below). LastPass will be storing all your passwords, so make it secure.
 * It is fine (and perhaps preferable, because your browser can only use one LastPass account at a time) to use a personal email address to create your LastPass account.
+* CivicActions also requires that you have a [backup second factor authenticator](#two-factor-redundancy-and-tfa-backup-codes) for your LastPass account.
 
 ### Disable Browser Password Autofill
 
-LastPass provides secure password management especially when unlocked via Two Factor Authentication. Storing new passwords created in LastPass in your browser completely defeats this security, enabling anyone with access to your browser access to all your sites. If asked by your browser "Do you want to save this password in your browser?" answer "**No**". Better, disable this action altogether:
+LastPass provides secure password management especially when unlocked via Two Factor Authentication. Storing new passwords created in LastPass in your browser completely defeats this security, enabling anyone with access to your browser access to all your sites. If asked by your browser "Do you want to save this password in your browser?" answer "**No**". Then disable this insecure action altogether:
 
 * In Chrome, go to chrome://settings/ and uncheck "Offer to save your web passwords"
 * In Firefox, go to about:preferences#security and uncheck "Remember logins for sites"
@@ -37,27 +38,29 @@ LastPass provides secure password management especially when unlocked via Two Fa
 
 ## Use Two Factor (or 2-Step) Authentication (TFA, 2FA)
 
-Two factor authentication includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a YubiKey) and can greatly increase the security of your systems. CivicActions recommends you use Two Factor Authentication for services that support it.
+Two-Factor Authentication includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a Yubikey) and can greatly increase the security of your systems. CivicActions recommends you use Two-Factor Authentication for services that support it.
 
 For example, as your password manager grows to have more passwords in it - not only CivicActions' systems and clients but also your personal bank accounts, credit cards, school records, etc. - it becomes increasingly important to have it protected by more than just a password.
 
-CivicActions requires that its employees and contractors that are given access to the CivicActions Google Apps - that include GMail, Hangouts and Google Docs access - use Two Factor Authentication on their CivicActions Google Account.
+CivicActions requires that its employees and contractors that are given access to the CivicActions Google Apps - that include GMail, Hangouts and Google Docs access - use Two-Factor Authentication on their CivicActions Google Account.
 
 ### Two-Factor Authenticators
 
 There are many hardware and software tools for creating secure "one time passwords" (OTP). Two that we frequently use internally are described below.
 
-Do not use SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Two Factor Authentication on your Google account initially requires SMS verification. This is OK.
+Do not reply on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Two-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "TFA Backup" mechanism (be sure to see the essential section below on [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes)).
 
 #### Google Authenticator
 
 * For installation instructions, see <https://support.google.com/accounts/answer/1066447>
 * This page also has instructions for setting up 2-Step Verification for multiple Google accounts.
 
-#### YubiKey
+#### Yubikey
 
-* See CivicActions' [YubiKey page](./yubikey/README.md)
-* See YubiKey documentation on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals/), [LastPass](https://www.yubico.com/why-yubico/for-individuals/password-managers/lastpass/), and [GitHub](https://www.yubico.com/why-yubico/for-individuals/github/)
+Once set up, Yubikey greatly simplifies the process of Two-Factor Authentication. While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. While on the road, the nearly indestructible Yubikey attaches easily to your keychain.
+
+* See CivicActions' [Yubikey page](./yubikey/README.md)
+* See Yubikey documentation on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals/), [LastPass](https://www.yubico.com/why-yubico/for-individuals/password-managers/lastpass/), and [GitHub](https://www.yubico.com/why-yubico/for-individuals/github/)
 
 ### Partial List of TFA Services
 
@@ -68,15 +71,17 @@ Do not use SMS text messages for general two-factor authentication as it is less
 * iCloud: [Two-factor authentication for Apple ID](https://support.apple.com/en-us/HT204915)
 * Slack: [Enabling two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Enabling-two-factor-authentication#enablingtwofactor-authentication)
 
-### TFA Backup Codes
+### Two-Factor Redundancy and TFA Backup Codes
 
-As a final step when setting up Two Factor Authentication with most services (Google, LastPass, GitHub, etc.) you will be offered a chance to download and/or print a set of backup codes. These are worth downloading and printing (yes - on paper) and storing in a safe place, because if you lose your phone or YubiKey it can be difficult to regain access to your account unless you have these codes available. There are sometimes other options available, too, like SMS text message, but these other methods can be less secure. *Hint: you can store backup codes in LastPass.*
+As a final, crucially important step, ***you must have a backup for all your TFA accounts***. Imagine that you use Google Authenticator from your phone to unlock LastPass and you lose your phone. Without a backup second factor, access to your accounts would be prevented. So you need a backup.
 
-### Connecting to you CivicActions' Google Account from Sevices/Apps after TFA has been Enabled
+SMS can often be an easy backup, say for Google Authenticator, or Google Authenticator could be a backup for your Yubikey, or you can even have a second Yubikey. Services that provide TFA generally enable multiple second factor options, and also provide a downloadable set of single use "backup codes" that you can download or print and keep in a safe place. If you lost your primary second factor, you can use your secondary one or a printer backup code stored in your file cabinet. *Hint: you can store backup codes in LastPass in the Notes section.*
+
+### Advanced: Connecting to you CivicActions' Google Account from Sevices/Apps after TFA has been Enabled
 
 Some applications and services may need to connect to your Civicactions google account but they might not be able to handle TFA. An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass TFA.
 
-There are some instructions at <https://support.google.com/accounts/answer/185833?hl=en> on how to use App Passwords.
+There are some instructions at <https://support.google.com/accounts/answer/185833?hl=en> on how to use App Passwords with Google. Several other TFA-enabled services also support app passwords -- see their respecive documentation.
 
 ## IT: Sharing Service Accounts
 
