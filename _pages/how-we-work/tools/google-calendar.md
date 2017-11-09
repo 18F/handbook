@@ -16,7 +16,7 @@ The following calendars are used for internal communication:
 * [18F Classes](https://calendar.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com): New hire and skill-bases training sessions.
 * 18F Interviews: New hire interviews.
 * [18F Out of office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com): Out-of-office and vacation notices.
-* [18F Working Groups](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com): Meetings and other events pertaining to working groups and guilds.
+* [TTS Guilds and Working Groups](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com): Meetings and other events pertaining to working groups and guilds.
 
 You can add the above calendars to your Google calendar by clicking on the link to launch the HTML view and then clicking on `+Google Calendar` on the bottom right of the screen.
 
