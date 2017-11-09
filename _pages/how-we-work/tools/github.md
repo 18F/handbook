@@ -151,4 +151,4 @@ Contractors or external government collaborators should only be added to teams w
 
 Ask in Slack: [#git](https://gsa-tts.slack.com/messages/git), [#admins-github](https://gsa-tts.slack.com/messages/admins-github), [#dev](https://gsa-tts.slack.com/messages/dev)
 
-GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub wiki](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization). 
+GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization). 
