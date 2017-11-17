@@ -123,7 +123,7 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 
 **About:** The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals.
 
-**To join:** [Instructions are here](http://www.digitalgov.gov/communities/web-managers-forum/web-content-managers-listserv/).
+**To join:** [Instructions are here](https://www.digitalgov.gov/communities/web-managers-forum/web-content-managers-listserv/).
 
 ### Other groups within the U.S. government
 
@@ -141,21 +141,15 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 
 #### Interagency open data working group
 
-**About:** Run by [Project Open Data](https://project-open-data.cio.gov/). For people who want to discuss open data policy.
+**About:** Run by [Project Open Data](https://project-open-data.cio.gov). For people who want to discuss open data policy.
 
 **To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe open-data` in the body.
 
 #### Security Today
 
-**About:** This list is for discussing modern developments and best practices in security and privacy, with a (not exclusive) focus on technology and the internet. Run by Eric Mill of 18F, with participants from federal, state, and local governments.
+**About:** This list is for discussing modern developments and best practices in security and privacy, with a (not exclusive) focus on technology and the internet. Run by Eric Mill of TTS, with participants from federal, state, and local governments.
 
 **To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe security-today` in the body.
-
-#### Bug Bounty
-
-**About**: This list is for coordinating and discussing government bug bounty programs. Lurkers welcome, but the focus is on discussing actual program operations, rather than the nature of bug bounty programs generally. Anyone with a .gov or .mil email can join. Run by Eric Mill of 18F.
-
-**To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe bug-bounty` in the body.
 
 ### Public groups
 
@@ -170,10 +164,6 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 **About:** Provides a safe and open arena for government-focused collaboration and news-sharing for anyone interested in open source software projects, open source collaboration, licensing, and developer outreach.
 
 **To join:** [Apply via Google Groups](https://groups.google.com/forum/?nomobile=true#!forum/government-open-source).
-
-#### GovGeeks
-
-[GovGeeks](https://govgeeks.slack.com/signup) is a Slack group for government employees around the world. You can sign up and automatically get in with almost any federal .gov email address, but *please change the email on your account to a personal one after you've signed up*. The general guidance has been that if you want to participate, you should participate in your personal capacity.
 
 #### Open government
 
