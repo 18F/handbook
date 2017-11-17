@@ -1,5 +1,7 @@
 ---
 title: GitHub
+tag: 
+- Git
 ---
 
 GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience.
