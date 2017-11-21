@@ -119,7 +119,7 @@ Most of the design team works on a mix of partner-agency projects and internal i
     [#visual-design](https://gsa-tts.slack.com/messages/visual-design), [#sketch-tips](https://gsa-tts.slack.com/messages/sketch-tips).
     - Some of us participate in our personal capacities in [a non-18F-sponsored Slack channel to discuss user research for government around the world](https://gds.blog.gov.uk/2015/08/04/user-research-for-government-around-the-world/). It’s managed by [Leisa Reichelt](http://www.disambiguity.com/about-me/), and you can request access by emailing her from your GSA email. When you get access, however, please make sure the email address on that Slack account is a personal address, so that it’s clear you are not joining in an official capacity.
 - **Mailing lists**
-  - 18F-xd@gsa.gov contains information relevant to visual and UX designers, content designers and strategists, researchers and other designy folk. You’ll most likely get added automatically — no need to worry about registering.
+  - 18F-xd@gsa.gov contains information relevant to visual and UX designers, content designers and strategists, researchers and other designy folk. Your supervisor is responsible for adding you to this list — no need to worry about registering.
   - Other mailing lists are listed [here](/general-contacts-and-listservs/#listservs).
 
 ### <a id="tools">Tools</a>
