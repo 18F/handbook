@@ -172,10 +172,6 @@ We default to free and open-source assets, unless there is a very, very good rea
   - Flickr's advanced search options include searching only within US government images: [example](https://www.flickr.com/search/?text=example&license=8).
   - While you’re at it, visit the [Department of the Interior’s Instagram](https://instagram.com/usinterior/) stream. You’ll be glad you did.
 
-### <a id="branding">18F Branding</a>
-
-- **Weekly office hours**: The 18F visual design team holds weekly office hours to provide assistance, feedback, and support with branding and visual design related issues. You can find a link to the hangout and details on the 18F Events calendar. You can ping the team #18f-branding with any questions.
-
 ---
 
 # Appendix
