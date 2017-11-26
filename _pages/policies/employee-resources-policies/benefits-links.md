@@ -34,11 +34,11 @@ Contact for medical insurance, life insurance, and retirement account questions 
 
 Marty's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent). 
 
-### Leila Knight
+### Gaydell Gould
 
 Contact for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
-Leila's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+Gaydell's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 --------------------------------------------------------------------------------
 

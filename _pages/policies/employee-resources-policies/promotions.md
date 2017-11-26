@@ -1,6 +1,9 @@
 ---
 title: Promotions
 tags:
+- Promotions
+- Promotions
+- promotion
 - promotion
 - raise
 - increase
