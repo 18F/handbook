@@ -9,8 +9,8 @@ Contacts, email groups, and government-related newsletters.
 Information you might need for filling out GSA forms:
 
 * **Agency:** General Services Administration
-* **Organization:** Citizen Services and Innovative Technologies
-* **Correspondence symbol:** T (followed by several other letters, depending on your org/chapter/business unit) [More about correspondence symbols](https://insite.gsa.gov/portal/content/500188). Find yours by searching the [GSA directory](https://www.gsa.gov/staff-directory).
+* **Organization:** Federal Acquisition Service
+* **Correspondence symbol:** Q (followed by several other letters, depending on your org/chapter/business unit) [More about correspondence symbols](https://insite.gsa.gov/portal/content/500188). Find yours by searching the [GSA directory](https://www.gsa.gov/staff-directory).
 * **Telework Agreement Location:** 00
 
 ## Team contact information
