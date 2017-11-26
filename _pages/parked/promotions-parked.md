@@ -38,7 +38,7 @@ Steps 1-3:  Annually
 Steps 4-6:  Every 2 years  
 Steps 7-9: Every 3 years
 
-Step increases happen automatically. Your supervisor will get an email notification from Leila Knight about 60 days prior to the date you’re set to receive the within grade increase. An example email notification is below. It typically takes one or two pay periods for the step increase to appear. If you have any questions, please contact Leila Knight directly.
+Step increases happen automatically. Your supervisor will get an email notification from Gaydell Gould about 60 days prior to the date you’re set to receive the within grade increase. An example email notification is below. It typically takes one or two pay periods for the step increase to appear. If you have any questions, please contact Gaydell Gould directly.
 
 
 > Greetings,
@@ -54,7 +54,4 @@ Step increases happen automatically. Your supervisor will get an email notificat
 
 #### Still have questions?
 
-Contact: [Leila Knight](mailto:leila.knight@gsa.gov)
-
-* Office: (202) 969-7079  
-* Mobile: (202) 805-4922
+Reach out to Gaydell Gould (contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory)) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
