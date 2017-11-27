@@ -103,7 +103,7 @@ If you're having difficulty resolving an issue or getting clarification from you
 
 ## Leave
 
-Please use [ALOHA](/gsa-internal-tools/#aloha) to request sick leave and annual leave. For any leave-related questions, please contact GSA HR&rsquo;s Leave Specialist, Leila Knight.  Leila's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+Please use [ALOHA](/gsa-internal-tools/#aloha) to request sick leave and annual leave. For any leave-related questions, please contact GSA HR&rsquo;s Leave Specialist, Gaydell Gould.  Gaydell's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 For more information on Leave, including sick, religious, funeral, unpaid, parental, advanced, and religious, please reference the [Leave](/leave) page.
 
