@@ -4,17 +4,16 @@ title: Benefits
 
 GSA requires that you enroll in many of the benefits offered to you within the first 60 days of work. Otherwise, you&rsquo;ll have to wait for Open Season, which typically runs from the Monday of the second full workweek in November through the Monday of the second full workweek in December.
 
-### Leadership
+### Submitting benefit forms
 
-[Cristina Brydges](https://gsa-tts.slack.com/team/cristina) is the Acting Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
+Email [CPC.Benefits-Retirement@gsa.gov](mailto:CPC.Benefits-Retirement@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form). 
 
-Generally speaking, neither Cristina nor TTS can &ldquo;advise&rdquo; you on benefits &mdash; everything TTS offers is actually owned and run by GSA&rsquo;s HR and Benefits groups. She can, however, help you escalate questions and problems and point you in the right direction.
+When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).  
 
-Marty Sanchez-Lowery is our point of contact for health insurance (FEHB), life insurance (FEGLI), and retirement (FERS).  Marty's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
-Please direct your questions and send all of your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) to Marty. When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that cannot be submitted with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part-2-beneficiary-forms) (for life insurance, retirement accounts, and so forth).
+### Benefits contacts
 
-### Communication
+[GSA's HR and Benefits group](mailto:CPC.Benefits-Retirement@gsa.gov) is the primary contact for all health insurance (FEHB), life insurance (FEGLI), and retirement (FERS) questions and inquiries. The TTS Talent team can help you escalate questions and problems and point you in the right direction.
 
 Find us in Slack:
 
