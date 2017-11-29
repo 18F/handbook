@@ -77,6 +77,7 @@ tags:
 
 ## More
 
+* [TTS Plain Language Glossary](https://docs.google.com/document/d/1vGleN0yTwibTp8ClXcGGiKVxgM8dTewG_IFeErxU-3Y/edit#)
 * [This Ars Technica article](http://arstechnica.com/uncategorized/2012/03/cracking-the-cloud-an-amazon-web-services-primer/) is a good primer on Amazon Web Services jargon.
 * [See a list of federal agency name acronyms](http://api.data.gov/docs/regulations/federalagencies/).
 * [Here's an additional library of government acronyms](https://github.com/unitedstates/acronym).
