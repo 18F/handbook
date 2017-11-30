@@ -11,7 +11,7 @@ navtitle: Infrastructure
 
 ### What you’ll learn
 
-1. How to make sure you're not breaking the law
+1. How to make sure you're not breaking the law EVER EVER
 2. How to secure your laptop
 3. What it means to work in the public
 
