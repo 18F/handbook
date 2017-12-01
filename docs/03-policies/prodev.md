@@ -83,7 +83,7 @@ A: Nope. Spend it any way you like. But remember that focusing your efforts duri
 * How do we measure prodev progress? What would be some prodev KPI’s?
     * Graph: hours spent for prodev, per person
     * Money invested in prodev, maybe per person?  Monthly?
-    * Participation numbers: what percentage of the company used at least 1 hour of prodev time? This could be tracked and reported on each quarter, with a goal of 100% participation.
+    * Participation numbers: what percentage of the company used at least 1 hour of prodev time? This could be tracked and reported on regularly, with a goal of 100% participation annually. Number of hours annual usage target TBD.
     * Would also be helpful to find historical participation percentage if the data exists to calculate it
     * Monthly "state of prodev" report
 * How do we set prodev goals on both an individual and company-wide level?
