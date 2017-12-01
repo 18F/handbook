@@ -13,7 +13,7 @@ For 18F staff, keep in mind that the handbook website and repository are public,
 * [Sensitive information, as described in our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
 * Comments that can be easily interpreted as [endorsements](https://www.oge.gov/web/oge.nsf/Use%20of%20Government%20Position%20and%20Resources/17593AE8B3A597C685257E96006364E4?opendocument) (or other potential ethical issues)
 
-We avoid including information that can easily go out of date and is already published somewhere else in a useful format. This includes: 
+We avoid including information that can easily go out of date and is already published somewhere else in a useful format. This includes:
 
 * People's phone numbers, even if public information (such as their GSA work number). Link to the public [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) or the access-controlled 18F contact spreadsheet instead of including phone numbers in the handbook.
 * Information that is already well-covered on GSA InSite. Link there instead of reproducing it.

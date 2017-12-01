@@ -82,9 +82,6 @@ navigation:
   - text: TTS Homepage
     url: https://www.gsa.gov/node/87579
     internal: false
-  - text: Checklist
-    url: checklist/
-    internal: true
   - text: Onboarding schedule
     url: onboarding-schedule/
     internal: true
@@ -439,7 +436,7 @@ navigation:
       internal: true
     - text: Merit promotions
       url: merit-promotions/
-      internal: true 
+      internal: true
     - text: Overtime and comp time
       url: overtime-and-comp-time/
       internal: true
