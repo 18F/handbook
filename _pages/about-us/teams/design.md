@@ -49,13 +49,9 @@ Find us in Slack:
 
 Welcome to the 18F Design team — we’re happy you’re here! We’ve compiled a set of helpful tips to get you started. We’ll update this guide as we receive feedback, so don’t be shy to share your thoughts.
 
+## First week
 
-## <a id="checklist">Checklist</a>
-
-[Here&rsquo;s the list](https://github.com/18F/onboarding-documents/blob/master/Checklists/team-based-checklists/design-new-hire-checklist.md) of things to do during your first week on the Design team.
-
-Please note that you might not have much assigned work during your first week here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the design team has a long list of internal projects that aren’t funded but that will help us all work better together. Talk to your design lead (more on that, below) to get more information about these internal projects and how you can get involved.
-
+You might not have much assigned work during your first week here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the design team has a long list of internal projects that aren’t funded but that will help us all work better together. Talk to your design lead (more on that, below) to get more information about these internal projects and how you can get involved.
 
 ## <a id="who-we-are">Who we are</a>
 

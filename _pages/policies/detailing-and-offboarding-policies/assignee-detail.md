@@ -51,7 +51,6 @@ Once approved, the receiving unit head will complete the [TTS detail request for
 
 ## Onboarding Assignees/Detailees
 
-  - [Assignee/Detailee Checklistomania](https://checklistomania.app.cloud.gov/)
   - [Assignee/Detailee Onboarding Process](https://docs.google.com/spreadsheets/d/1Tjx-rW07whJnP8tuN6g0Znegk1CusWg-ZLP0A8USlbU/edit#gid=0)
 
 When assigning or detailing staff in, it’s important to connect them to our organization in a meaningful way. That means they’ll be onboarded in the same way we bring in new hires, and welcomed into the chapter model either formally or informally. The idea is to connect them to peers for support and discussion.

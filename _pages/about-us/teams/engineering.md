@@ -20,12 +20,9 @@ If you have any questions, find us on Slack in [#dev](https://gsa-tts.slack.com/
 
 Welcome to the 18F Engineering team — we’re happy you’re here! We’ve compiled tips to help you get started. We’ll update this guide as we receive feedback, so don’t be shy to share your thoughts.
 
-## <a id="checklist">Checklist</a>
+## First week
 
-Follow the [Engineering checklist](https://github.com/18F/onboarding-documents/blob/master/Checklists/team-based-checklists/dev-new-hire-checklist.md) during your first week.
-
-Please note that you might not have much assigned work during your first few weeks here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the Engineering team has a long list of internal projects that aren’t funded but that will help us work better together. Talk to your faciltator (more on that below) to learn more.
-
+You might not have much assigned work during your first few weeks here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the Engineering team has a long list of internal projects that aren’t funded but that will help us work better together. Talk to your faciltator (more on that below) to learn more.
 
 ## Who we are
 
@@ -48,9 +45,9 @@ Facilitator teams occasionally meet to:
 
 ### Facilitators
 
-The Facilitators assist the Supervisors in the supervision of a smaller set of engineers (3-8). For an individual engineer, their Facilitator is the member of the engineering leadership team that they form the closest relationship with, and meets with them regularly 1-on-1. The Facilitator acts as an on-boarding buddy for new engineers. Facilitators run regular [team meetings](https://docs.google.com/document/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit) for their engineers to build community and support outside the context of project work. Facilitators act as advocates for their engineers, passing questions and concerns up the leadership chain as necessary and communicating upcoming changes to their facilitation groups. They participate in and contribute to the mid-year and end of year performance evaluations, though the Supervisor is ultimately resonsible for them. Facilitators work together with Supervisors to ensure that the engineers are succeeding, growing, and producing quality work, and that the chapter has a positive and inclusive culture.
+The Facilitators assist the Supervisors in the supervision of a smaller set of engineers (3-8). For an individual engineer, their Facilitator is the member of the engineering leadership team that they form the closest relationship with, and meets with them regularly 1-on-1. The Facilitator acts as an on-boarding buddy for new engineers. Facilitators run regular [team meetings](https://docs.google.com/document/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit) for their engineers to build community and support outside the context of project work. Facilitators act as advocates for their engineers, passing questions and concerns up the leadership chain as necessary and communicating upcoming changes to their facilitation groups. They participate in and contribute to the mid-year and end of year performance evaluations, though the Supervisor is ultimately responsible for them. Facilitators work together with Supervisors to ensure that the engineers are succeeding, growing, and producing quality work, and that the chapter has a positive and inclusive culture.
 
-Facilitators are selected through nominations and interviews according to team needs. While there is no additional compensation for being a facilitator, it’s an opportunity to help make team members’ time at 18F great. [The facilitator checklist](https://checklistomania.app.cloud.gov/) is useful for facilitators who have a new employee coming on board their team.
+Facilitators are selected through nominations and interviews according to team needs. While there is no additional compensation for being a facilitator, it’s an opportunity to help make team members’ time at 18F great. Reach out to the Onboarding Lead, Keith Wilson, for the facilitator checklist.
 
 ### Supervisors
 

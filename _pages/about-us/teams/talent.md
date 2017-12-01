@@ -23,11 +23,9 @@ If you have any questions, you can find us on Slack in [#talent](https://gsa-tts
 
 Welcome to the TTS Talent team -- we're happy you're here! We've compiled a set of helpful tips to get you started. We'll update this guide as we receive feedback, so don't be shy to share your thoughts.
 
-## <a id="checklist">Checklist</a>
+## First week
 
-[Here's the list](https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-ops-new-hire-checklist.md) of things to do during your first week on the Talent team.
-
-Please note that you might not have much assigned work during your first week here. That's okay and expected. If you've gotten all the government onboarding items done and you're _still_ wondering about what you're actually going to be doing, we're all here to help you. Talk and meet with your teammates first.
+You might not have much assigned work during your first week here. That's okay and expected. If you've gotten all the government onboarding items done and you're _still_ wondering about what you're actually going to be doing, we're all here to help you. Talk and meet with your teammates first.
 
 ## <a id="who-we-are">Who we are</a>
 
