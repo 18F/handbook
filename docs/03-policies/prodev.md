@@ -58,7 +58,7 @@ Q: What kinds of stuff can I spend my prodev budget on?
 A: Books, courses, conferences, certifications and prodev-related travel expenses.
 
 Q: Are there any other limits on the prodev budget?  
-A: For spending amounts over $50, you’ll need to get approval in advance. [Use this form](https://goo.gl/forms/4z1GQsBtrx6m4lVy2) to request approval. Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be submitted in the usual way, noting as professional development costs.
+A: For spending amounts over $50, you’ll need to get approval in advance. [Use this form](https://goo.gl/forms/4z1GQsBtrx6m4lVy2) to request approval. Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be submitted in the usual way through Harvest _[add link to an expense submission process page when it exists]_, noting as professional development costs.
 
 Q: Do I have to spend my prodev money during a scheduled prodev sprint?  
 A: Nope. Spend it any time you like. 
