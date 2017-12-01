@@ -40,9 +40,10 @@ Previously, CivicActions had a professional development process that included re
 
 ## Asking a Mentor, Coach, or Peer to Help
 
-For some people, getting input from others is an important part of the professional development process. You are encouraged to seek out other CivicActioners who you think could help you achieve your prodev goals. This may be a manager, a peer, or any person who is good at something you’d like to learn.
+For some people, getting input from others is an important part of the professional development process. You are encouraged to seek out other CivicActioners who you think could help you achieve your prodev goals. This may be a manager, a peer, or any person who is good at something you’d like to learn. You may even wish to seek expertise outside of CivicActions to help.
 
-Also, if you’re asked by someone else to assist with their prodev, please make time to help them out!
+If you’re asked by someone else to assist with their prodev, please make time to help them out!
+
 
 ## Communication
 
