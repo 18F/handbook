@@ -29,9 +29,10 @@ _*As of Nov 21, 2017. All data was pulled from Harvest. [Link to data & calculat
  
  In order to provide some additional structure, support and focus to the prodev efforts of individuals, 1 month long prodev sprints will be held on a regular basis. During these sprints, participants will attend scrum meetings 2 to 3 times per week to talk about their prodev progress being made and connect with others pursuing their prodev goals at the same time. The sprint will also consist of a demo or review meeting, so that team members can share what they have accomplished or learned during the sprint. A retrospective will also take place so that the prodev sprint process can be continuously improved upon. 
 
-The total time commitment for participating in a prodev sprint will vary widely depending on what topic and intensity level each participant chooses to pursue, but the prodev sprint is not considered a full time project.
+The total time commitment for participating in a prodev sprint will vary widely depending on what topic and intensity level each participant chooses to pursue. The prodev sprint may or may not be considered a full time project depending on the circumstances.
 
-Assignment to a prodev sprint is voluntary, and team members are encouraged to express their desire to participate to the prodev Practice Lead, Jason Heaster. Efforts will be made to group people with similar prodev goals or certification requirements. Once assigned to a sprint, participants’ project assignment schedules will be adjusted in Forecast to allocate time for the prodev sprint during that month.
+Assignment to a prodev sprint is voluntary, and team members are encouraged to express their desire to participate to the prodev Practice Lead, Jason Heaster. Efforts will be made to group people with similar prodev goals or certification requirements. There may also be occasions where team members are asked to join prodev sprints in order to build out CivicActions overall capabilities. Once assigned to a sprint, participants’ project assignment schedules will be adjusted in Forecast to allocate time for the prodev sprint during that month.
+
 
 ## Making a Plan
 
