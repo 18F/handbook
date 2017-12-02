@@ -29,7 +29,7 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 3. To notify the Thrift Savings Program (TSP) of your new address, email it to both the Consolidated Processing Center at <mailto:cpc.personnel@gsa.gov> and to the payroll office at <mailto:KC-Payroll.Finance@gsa.gov>. Payroll will notify the TSP office of your new address.
 
-4. Contact your health insurance, dental insurance, and any other insurances you may have and let them know about your address change. You will also need to verify that your insurance will be valid in your new location or you will need to change it. Contact Marty Sanchez-Lowery if you have any questions.  Marty's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent). 
+4. Contact your health insurance, dental insurance, and any other insurances you may have and let them know about your address change. You will also need to verify that your insurance will be valid in your new location or you will need to change it. Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) if you have any questions.  
 
 ## Change your Slack location
 
