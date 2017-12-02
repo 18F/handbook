@@ -6,7 +6,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 
 ### Submitting benefit forms
 
-Email [CPC.Benefits-Retirement@gsa.gov](mailto:CPC.Benefits-Retirement@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form). 
+Email [CPC.Benefits-Retirement@gsa.gov](mailto:CPC.Benefits-Retirement@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).
 
 When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).  
 
@@ -71,7 +71,7 @@ The Office of Personnel Management lists the [plans available in each state](htt
 
 New employees, employees who move outside of the area covered by their plan, and employees who have certain life qualifying events have 60 days to enroll, modify, change, or cancel their plans. If you do not fit into one of those categories, you can change, modify, cancel, or enroll during Open Season. Open Season typically runs from the Monday of the second full workweek in November through the Monday of the second full workweek in December. OPM provides a [detailed FAQ on eligibility](https://www.opm.gov/healthcare-insurance/Guide-Me/Federal-Employees/#url=Health) for federal employees.
 
-To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollment, cancel your enrollment, or suspend your enrollment, fill out [Standard Form (SF) 2809](https://www.opm.gov/forms/pdf_fill/sf2809.pdf) and submit it to [Marty Sanchez-Lowery](mailto:martha.sanchez-lowery@gsa.gov). You can also reach out to her if you have any questions.
+To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollment, cancel your enrollment, or suspend your enrollment, fill out [Standard Form (SF) 2809](https://www.opm.gov/forms/pdf_fill/sf2809.pdf) and submit it to [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov). You can also reach out to this email if you have any questions.
 
 The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Ask in [#benefits](https://gsa-tts.slack.com/messages/benefits).
 
@@ -90,10 +90,10 @@ If you have an eye appointment but have yet to receive your card(s), you can loo
 
 If you're having difficulty resolving an issue or getting clarification from your insurer, follow these steps:
 
-1. Email [FEHB@opm.gov](mailto:FEHB@opm.gov) and make sure to include: 
+1. Email [FEHB@opm.gov](mailto:FEHB@opm.gov) and make sure to include:
   * Name of the insurer
   * Issue that you need resolved
-  * What outcome you would like 
+  * What outcome you would like
   * A huge thanks to the team that wrangles these complaints
 2. They forward the issue to the company and use the complaint to see if there's a pattern of abuse by the company
   * The company fix the issue at this point

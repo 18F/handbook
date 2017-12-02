@@ -22,17 +22,11 @@ Thrift Savings Plan (TSP) | <http://www.tsp.gov>
 Flexible Spending Account | <http://www.fsafeds.gov>
 Dental and Vision Insurance | <http://www.benefeds.com>
 Long Term Care Insurance | <http://www.ltcfeds.com>
-Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service> 
+Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service>
 
 ## Human resources (HR)
 
-TTS has a dedicated benefits specialist within GSA who can assist you with questions regarding benefits-related questions.
-
-### Marty Sanchez-Lowery
-
-Contact for medical insurance, life insurance, and retirement account questions and enrollment.
-
-Marty's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent). 
+For benefits-related questions, please email [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
 
 ### Gaydell Gould
 

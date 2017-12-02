@@ -26,7 +26,7 @@ Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQ
 
 You should also review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
 
-If you have any questions, please contact [Marty Sanchez-Lowery](mailto:martha.sanchez-lowery@gsa.gov).
+If you have any questions, please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
 
 ### 4. Return your equipment
 
@@ -53,7 +53,7 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
 
 ### Goodbye email
 
-You are under no obligation to send out a farewell email, but if you do, please use bcc: for any distribution lists you're sending it to.  This allows people to respond to you directly without creating additional email noise for coworkers. 
+You are under no obligation to send out a farewell email, but if you do, please use bcc: for any distribution lists you're sending it to.  This allows people to respond to you directly without creating additional email noise for coworkers.
 
 ### Slack
 
