@@ -147,7 +147,9 @@ Refer to [our printer information document](https://docs.google.com/document/d/1
 
 ### <a id="transit-subsidy"></a>Transit subsidy
 
-All GSA employees are eligible for transit subsidies which cover the cost of your Metro travel. To receive a transit subsidy, for Ventra, fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174). [Email it to Joyce Thomas, and cc Ethan Heppner](mailto:joycem.thomas@gsa.gov?cc=ethan.heppner@gsa.gov).
+All GSA employees are eligible for transit subsidies which cover the cost of your Metro travel. 
+
+See the [Transit Benefit](/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
 ### <a id="bike-parking"></a>Bike parking
 
