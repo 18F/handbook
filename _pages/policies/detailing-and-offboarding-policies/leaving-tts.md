@@ -16,11 +16,18 @@ If you decide you want to leave TTS, send an official email to your supervisor a
 
 Include your termination date, which should be at least two weeks out. Your last day at TTS cannot be a federal holiday.
 
-### 2. Complete the clearance checklist
+### 2. Provide summary reviews for direct reports (Supervisors only)
+
+If you are a supervisor and you are leaving within 120 days of the next review period, you need to provide to your supervisor a summary review of each of the employees that report into you. An employee's review needs to come from a supervisor that they've worked under for 120 days.   
+
+- Midyear review: provide a written review
+- Annual review: provide ratings based on position descriptions
+
+### 3. Complete the clearance checklist
 
 Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messages/talent/)) will set time with you to complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing).
 
-### 3. Review benefits paperwork
+### 4. Review benefits paperwork
 
 Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
 
@@ -28,7 +35,7 @@ You should also review the [FERS refund information](https://docs.google.com/doc
 
 If you have any questions, please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
 
-### 4. Return your equipment
+### 5. Return your equipment
 
 When you leave TTS, you are responsible for returning all TTS issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
 
