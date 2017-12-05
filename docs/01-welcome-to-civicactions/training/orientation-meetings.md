@@ -88,7 +88,7 @@
 * Do you have any pre-approved time off requests?
     * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits.md#timeoff) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
 * Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays)
-* Review [Professional development & community participation](../../03-policies/prodev-community-participation.md)
+* Review [Professional development](../../03-policies/prodev.md) & [Community participation](../../03-policies/community-participation.md)
 
 ### Project Overview Info (part 1)
 

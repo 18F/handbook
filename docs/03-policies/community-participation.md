@@ -1,6 +1,6 @@
 ---
-status: Work in progress
-updated: May 9, 2017
+status: Work in progress, copied from the combined prodev-community-participation file before it was split into two topics
+updated: May 9, 2017, copied on 11/28/17.
 ---
 
 # Professional Development and Community Participation
