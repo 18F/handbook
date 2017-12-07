@@ -74,7 +74,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **You do not need approval to create public repositories.**
 
-- **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it. Feel free to clearly mark repositories “DEPRECATED” at any time.
+- **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it. Feel free to [archive a repository](https://help.github.com/articles/archiving-repositories/) (or ask #admins-github if you don't have permissions to do so) to deprecate it. [Here is a script to do so en masse.](https://gist.github.com/afeld/334c20d71a04bfbada95ed86194decf2)
 
 ### Working with outside collaborators
 
