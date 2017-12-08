@@ -44,7 +44,7 @@ The Slack user group for working group and guild leaders is `@wg-g-leads`
         </td>
       </tr>
       <tr>
-        <td class="col-grouplet"><strong><a id="capacity-planning">Analytics</a></strong></td>
+        <td class="col-grouplet"><strong><a id="capacity-planning">Capacity Planning</a></strong></td>
         <td class="col-description">
           We work to iterate and improve our operations to better apply our resources. <br />
           <a href="https://gsa-tts.slack.com/messages/wg-capacity-planning/">#wg-capacity-planning</a>
