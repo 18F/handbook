@@ -10,12 +10,12 @@ A detail is when a person in one agency goes to work at another agency on a temp
 
 ## Definitions
 
-- *A Detail*: The temporary assignment of an employee to another person, within or outside GSA, for a specified time period.
-- *An Assignee*: someone coming into 18F that does not require an MOA (USDS)
-- *Servicing Agency*: Agency who is providing the employee
-- *Receiving Agency*: Agency who is gaining the employee/where employee is being detailed to
-- *Non-reimbursable detail*: An agreement whereby one organization temporarily loans an employee/detailee to another organization without requiring repayment for the costs of the services rendered
-- *Reimbursable detail*: An agreement whereby one organization temporarily loans an employee/detailee to another organization who is subsequently required to provide repayment for the costs of the services rendered
+- ***A Detail***: The temporary assignment of an employee to another person, within or outside GSA, for a specified time period.
+- ***An Assignee***: someone coming into 18F that does not require an MOA (USDS)
+- ***Servicing Agency***: Agency who is providing the employee
+- ***Receiving Agency***: Agency who is gaining the employee/where employee is being detailed to
+- ***Non-reimbursable detail***: An agreement whereby one organization temporarily loans an employee/detailee to another organization without requiring repayment for the costs of the services rendered
+- ***Reimbursable detail***: An agreement whereby one organization temporarily loans an employee/detailee to another organization who is subsequently required to provide repayment for the costs of the services rendered
 
 ## What you should know about Details
 
@@ -40,12 +40,13 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
   1. In order for Talent to process request, The employee’s Supervisor must have approvals from the AC of their office and the AC/Head of the office the employee will be detailed to
 
   2. Once approvals granted, Supervisor contacts TTS-TalentTeam@gsa.gov with the request and cc: Biz Ops (Amy Lawson) for awareness.  Email must contain following information:
-    - Employee Name
-    - Office Symbol Employee is being detailed to
-    - Reimbursable or Non-reimbursable
-    - Detail Supervisor
-    - Detail PD or “Unclassified Set of Duties”
-    - Effective Date (must fall on a pay period)
+    * Employee Name
+    * Office Symbol Employee is being detailed to
+    * Reimbursable or Non-reimbursable
+    * Detail Supervisor
+    * Detail PD or “Unclassified Set of Duties”
+    * Effective Date (must fall on a pay period)
+
   3. Talent submits personnel action to HR and the employee may begin their detail on the effective date
 
 ## Detailing to Another Agency
@@ -121,11 +122,13 @@ The Hiring Manager is responsible for running the entire process (collecting sta
       * If the detail has a PD then the applicant must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below (if they are at the grade below, They will need to provide an updated resume and HR will need to qualify them
         * If there is a PD you may want to add a performance profile (job description and key objectives) attachment to the email announcement
       * If there is a list of unclassified set of duties (these are duties the detailee will perform on the job) any GS level can apply, unless the HM specifies which GS levels they are accepting.
+
   * The HM (or PoC) is responsible for:
       * sending out the email to TTS
       * collecting resumes and statements of interest (if either or both are required) and sending
       * finding an interview panel
       * scheduling interviews
+
   * Once interviews are complete the HM should notify [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov) on who was selected and the effective date of the detail (must fall on a payroll period). Talent will then submit a personnel action to HR to make the detail official
     * The HM should confirm with the employee’s supervisor that they are OK with this person being detailed to this position
     * The action can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
