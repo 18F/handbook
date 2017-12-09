@@ -67,8 +67,6 @@ tags:
 
 * **SLT** - Senior Leadership Team. 
 
-* **The Hub** - You've found it! Basically our (partially publically visible) site, used to share documentation and guides among the team.
-
 * **USDS** - The [United States Digital Service](http://www.whitehouse.gov/photos-and-video/video/2014/08/20/introducing-us-digital-service) reports to the White House.
 
 * **UX** - User experience. Basically, this means building things with a focus on who the user is and what they want to do, rather than just what it should look like.
