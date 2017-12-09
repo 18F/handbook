@@ -458,6 +458,9 @@ navigation:
     - text: Assignments and Details
       url: assignee-detail/
       internal: true
+    - text: Detail process
+      url: detail-process/
+      internal: true
     - text: Leaving TTS
       url: leaving-tts/
       internal: true
