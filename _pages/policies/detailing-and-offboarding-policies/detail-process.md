@@ -21,11 +21,11 @@ A detail is when a person in one agency goes to work at another agency on a temp
 
 * All details of GSA employees to other Federal agencies or departments should be reimbursable. Details within GSA may be reimbursable or non-reimbursable.
 * Non reimbursable details to external agencies are done on a case by case basis and must be reviewed by GSA’s Office of General Counsel for legal sufficiency.
-* The Assistant Commissioner of your office must approve every detail request. Once The detail is approved it is the supervisor's responsibility to notify Talent and Finance of the request
-* Most agencies use the 7600A and 7600B forms, but some do not and require a memorandum of understanding (MOU) only.  If an agency chooses not to use the forms, then the MOU will need to contain the information in the 7600A and B forms.
+* The Assistant Commissioner of your office must approve every detail request. Once The detail is approved it is the supervisor's responsibility to notify [Talent](TTS-TalentTeam@gsa.gov) and Finance of the request
+* Most agencies use the [7600A](https://drive.google.com/a/gsa.gov/file/d/0BynxjBcHPLcLcEMxVzlzRUYyeG8/view?usp=sharing) and [7600B](https://drive.google.com/a/gsa.gov/file/d/0BynxjBcHPLcLYTQ0T0ZNOGhoc0E/view?usp=sharing) forms, but some do not and require a memorandum of understanding (MOU) only.  If an agency chooses not to use the forms, then the MOU will need to contain the information in the 7600A and B forms.
 * The Servicing Agency initiates the paperwork.
 * The agreement is between agencies, not between staff and the receiving agency.
-* Employees can refer to GSA Order HRM 9334.2 Detail of Employees dated July 8, 2016.
+* Employees can refer to [GSA Order HRM 9334.2 Detail of Employees](https://drive.google.com/a/gsa.gov/file/d/1pCfXxK3vnPZOKaXxlyOC9EozXLRvHw4L/view?usp=sharing) dated July 8, 2016.
 * Talent will keep the Supervisor, including the potential detailee, apprised of the status of action on an ongoing basis .
 * Detail agreements come in increments of 120 days or less and can be extended up to one time for a total period of no more than 240 days. All details must be approved by the assistant commissioner of the requesting organization.
 
@@ -40,12 +40,12 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
   1. In order for Talent to process request, The employee’s Supervisor must have approvals from the AC of their office and the AC/Head of the office the employee will be detailed to
 
   2. Once approvals granted, Supervisor contacts TTS-TalentTeam@gsa.gov with the request and cc: Biz Ops (Amy Lawson) for awareness.  Email must contain following information:
-    * Employee Name
-    * Office Symbol Employee is being detailed to
-    * Reimbursable or Non-reimbursable
-    * Detail Supervisor
-    * Detail PD or “Unclassified Set of Duties”
-    * Effective Date (must fall on a pay period)
+    - Employee Name
+    - Office Symbol Employee is being detailed to
+    - Reimbursable or Non-reimbursable
+    - Detail Supervisor
+    - Detail PD or “Unclassified Set of Duties”
+    - Effective Date (must fall on a pay period)
   3. Talent submits personnel action to HR and the employee may begin their detail on the effective date
 
 ## Detailing to Another Agency
@@ -75,7 +75,6 @@ Detailee able to onboard | Employee | As soon as all of the necessary approvals 
 
 ACTION | OWNER | TIME
 -------|-------|-----
-
 AC approves request | Supervisor | 1 business day
 Supervisor notifies talent of request and connects them to Agency PoC | Supervisor | 1 business day
 Talent reaches out to Servicing Agency PoC| Talent | 2 business days
@@ -111,11 +110,12 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
   * Once this selection is made, the HM and the employee’s supervisor need to have a discussion to discuss the employee’s availability and whether the detail will be reimbursable or non-reimbursable
   * Details must not exceed 120 days.  HMs can extend the detail for an additional 120 days, but must seek approval for the AC of their office and the employee’s supervisor
 
-*Learn more/contact [Project Network](https://insite.gsa.gov/portal/content/571794)*
+***Learn more/contact [Project Network](https://insite.gsa.gov/portal/content/571794)***
 
 ## Posting a Detail Opportunity within TTS
 
 The Hiring Manager is responsible for running the entire process (collecting statements of interest, interviews, etc). Once the selection is made Talent steps into process the request.
+
   * HM sends an email to TTS regarding detail opportunity
     * The email should contain the Position Description (PD) the employee is being detailed to or a list of “unclassified set of duties”
       * If the detail has a PD then the applicant must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below (if they are at the grade below, They will need to provide an updated resume and HR will need to qualify them
