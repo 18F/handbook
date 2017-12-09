@@ -34,6 +34,7 @@ If you're still having trouble, try these recommendations from [@moncef](https:/
 5. Restart your computer.
 6. Reinstall AnyConnect without any add-ons.
 
+If your Cisco AnyConnect client hangs up (and loops "waiting for host scans") after entering credential on OSX, you might have large number of certs in your mac's cert manager. Try deleting unused certs.  
 
 If you get the "a newer version of Cisco AnyConnect was already installed" error when tring to reinstall, tell macOS to forget the package:
 
