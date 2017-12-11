@@ -21,7 +21,7 @@ A detail is when a person in one agency goes to work at another agency on a temp
 
 * All details of GSA employees to other Federal agencies or departments should be reimbursable. Details within GSA may be reimbursable or non-reimbursable.
 * Non reimbursable details to external agencies are done on a case by case basis and must be reviewed by GSA’s Office of General Counsel for legal sufficiency.
-* The Assistant Commissioner of your office must approve every detail request. Once The detail is approved it is the supervisor's responsibility to notify [Talent](mailto:TTS-TalentTeam@gsa.gov) and Finance of the request
+* The Assistant Commissioner of your office must approve every detail request. Once The detail is approved it is the supervisor's responsibility to notify [Talent](mailto:TTS-TalentTeam@gsa.gov) and [Finance](mailto:18F-Finance-CS@gsa.gov) of the request
 * Most agencies use the [7600A](https://drive.google.com/a/gsa.gov/file/d/0BynxjBcHPLcLcEMxVzlzRUYyeG8/view?usp=sharing) and [7600B](https://drive.google.com/a/gsa.gov/file/d/0BynxjBcHPLcLYTQ0T0ZNOGhoc0E/view?usp=sharing) forms, but some do not and require a memorandum of understanding (MOU) only.  If an agency chooses not to use the forms, then the MOU will need to contain the information in the 7600A and B forms.
 * The Servicing Agency initiates the paperwork.
 * The agreement is between agencies, not between staff and the receiving agency.
@@ -132,6 +132,8 @@ The Hiring Manager is responsible for running the entire process (collecting sta
 * Once interviews are complete the HM should notify [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov) on who was selected and the effective date of the detail (must fall on a payroll period). Talent will then submit a personnel action to HR to make the detail official
   * The HM should confirm with the employee’s supervisor that they are OK with this person being detailed to this position
   * The action can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
+  
+[Example of email advertising detail opportunity within TTS](https://docs.google.com/document/d/1th6-L0ovGdEVBPPeJbZkqkaXDza8ud0rs2RlSn3X7c8/edit#)
 
 --------------------------------------------------------------------------------
 
