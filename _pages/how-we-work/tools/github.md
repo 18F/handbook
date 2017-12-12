@@ -51,7 +51,7 @@ You will get a lot of emails when you turn notifications on. To help stem the ti
 
 ### 4. Join the 18F organization
 
-After you&rsquo;ve enabled 2FA and added your government email address to your profile, hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`@username`) to https://github.com/orgs/18F/teams/18f on GitHub." An admin will add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+After you&rsquo;ve enabled 2FA and added your government email address to your profile, hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`@username`) to https://github.com/orgs/18F/teams/18f/members on GitHub." An admin will add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
 
 ### 5. Make your membership public
 
