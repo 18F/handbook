@@ -10,11 +10,9 @@ The Outreach team is situated in the 18F Front Office within [TTS](https://www.g
 
 * [#outreach](https://gsa-tts.slack.com/archives/outreach) is for all general inquiries including events, helping you promote things, people coming by the office, members of the press asking you questions, speaking at conferences, etc.
 * [#blog](https://gsa-tts.slack.com/archives/blog) is used to discuss upcoming posts, feature requests, bugs, and the last minute details of publishing posts.
-* [#newsletter](https://gsa-tts.slack.com/archives/newsletter) is used to source and discuss content for our external and internal newsletters. Hop in here to let us know about cool things other people are doing!
 * [#tweet-this](https://gsa-tts.slack.com/archives/tweet-this) is where we coordinate activity for 18F&rsquo;s Twitter account. Hop in here if you want us to respond to something, retweet someone, or tweet something interesting. You can also contact us if you&rsquo;d like to be added to [18F&rsquo;s team Twitter list](https://twitter.com/18F/lists/team).
 * [#press](https://gsa-tts.slack.com/archives/press) is for collecting press mentions of 18F (non tweets).
 * [#18f-site](https://gsa-tts.slack.com/archives/18f-site) is for managing issues and updates to the current 18f.gsa.gov.
-* [#inbox](https://gsa-tts.slack.com/archives/inbox) is for coordinating responses to emails that come into 18f@gsa.gov.
 
 
 ## Project announcements
@@ -34,7 +32,7 @@ We use [Google Analytics](/google-analytics/) and participate in the [Digital An
 The site team works in [#18f-site](https://gsa-tts.slack.com/messages/18f-site/).
 
 ## Blog
-Outreach publishes the [18F blog](https://18f.gsa.gov/blog/). We write about progress on our projects, how we work, the culture of 18F, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. The primary contacts for the blog are [Andre Francisco](https://gsa-tts.slack.com/messages/andre/) and [Greg Boone](https://gsa-tts.slack.com/messages/gregboone/).
+Outreach publishes the [18F blog](https://18f.gsa.gov/blog/). We write about progress on our projects, how we work, the culture of 18F, and to educate digital workers in the federal government about important topics. We also use our blog to highlight good work being done by other federal agencies and as a recruiting tool for 18F. The primary contact for the blog is [Andre Francisco](https://gsa-tts.slack.com/messages/andre/).
 
 Everyone at 18F is encouraged to write for the blog; you don’t have to be at 18F for a certain amount of time to have interesting ideas to share. The first step is to meet with us and [turn your idea into an outline](https://docs.google.com/document/d/1vv5OwsUmaxAGubpY_9za7JJmvL-8SE27HKaEQBumPiA/edit) shaped for a distinct audience. From there, check out the [18F Blogging Guide](https://blogging-guide.18f.gov/), which details the process more formally (including necessary approvals), and can tell you more about our mission and process. We’re happy to meet you wherever you are in the writing process.
 
@@ -48,13 +46,13 @@ The 18F newsletter goes out every two weeks to more than 8,500 people. Our subsc
 
 You should [sign up for the newsletter](https://18f.gsa.gov/#newsletter).
 
-Like our blog, the newsletter is always in need of submissions - especially of cool things other people are doing. Please send any interesting projects or initiatives you see over to [#newsletter](https://gsa-tts.slack.com/archives/newsletter). Did some city adopt our design standards? Did an agency release a new data set? Is there a civic hackathon happening somewhere? We want to hear about it.
+Like our blog, the newsletter is always in need of submissions - especially of cool things other people are doing. Please send any interesting projects or initiatives you see over to [#outreach](https://gsa-tts.slack.com/archives/outreach). Did some city adopt our design standards? Did an agency release a new data set? Is there a civic hackathon happening somewhere? We want to hear about it.
 
 Here's the guide on [how to draft and publish the external newsletter](https://docs.google.com/a/gsa.gov/document/d/1EHWZX86An4XFVpM0rTbQkBUvDAHVuKenzWU2oIJnsCY/edit?usp=sharing).
 
 ### Internal newsletter
 
-18F also has an internal newsletter to keep you informed about what everyone is doing (18F org business, and more inside-baseball type of info). If your team has reminders or information you’d like to share with all of 18F you can drop it in [#newsletter](https://gsa-tts.slack.com/archives/newsletter) and we’ll include it in the next newsletter. If you’re announcing something in #news, at an all hands, or with a team-wide email, it would probably also benefit from being included in the internal newsletter.
+18F also has an internal newsletter to keep you informed about what everyone is doing (18F org business, and more inside-baseball type of info). If your team has reminders or information you’d like to share with all of 18F you can drop it in [#outreach](https://gsa-tts.slack.com/archives/outreach) and we’ll include it in the next newsletter. If you’re announcing something in #news, at an all hands, or with a team-wide email, it would probably also benefit from being included in the internal newsletter.
 
 Here's the guide on [how to draft and publish the internal newsletter](https://docs.google.com/a/gsa.gov/document/d/1eQi9oVY-Dl2h4Mrn6EdSRnUfEGy_Y5vD8aTh7XK3usc/edit?usp=sharing).
 
@@ -70,15 +68,14 @@ Here's the guide on [how to draft and publish the internal newsletter](https://d
 
 If you've been asked to speak at an event, or if you want to speak at an event and may need approval, see the [TTS Event and Speaker approval guide](https://goo.gl/dcHMZm) and ask questions in [#conferences](https://gsa-tts.slack.com/archives/conferences). If you're already approved to speak at an event, ping us in #outreach so we can provide you with team talking points, take a look at your presentation, and help you promote the event.
 
-If you’re looking for help with a slide deck for a presentation, you can find resources on the [18F Branding site](https://pages.18f.gov/brand/presentation-themes/). We also have a couple previous decks that have ready-to-use slides about 18F’s history, the digital service ecosystem, and the basics of 18F’s model.
+If you’re looking for help with a slide deck for a presentation, you can find resources on the [18F Branding site](https://brand.18f.gov/templates/). We also have a couple previous decks that have ready-to-use slides about 18F’s history, the digital service ecosystem, and the basics of 18F’s model.
 
-* [Adobe Digital Government Assembly](https://docs.google.com/presentation/d/1vE9yp92vx2ZCgEmb0xPEyZr6wUorzLjs5-APQjwN5vI/edit#slide=id.p)
-* [Tech Summit San Diego](https://docs.google.com/presentation/d/1gkqQsDdNAzoXm1kXgsOrUoNY8ObWHJWpHh1o30eo204/edit#slide=id.g11f3f786cd_0_0)
-* [18F General Slides](https://docs.google.com/presentation/d/1-RSrdIJzrOE8YBG6V_DHHRkBNo5fxecl8EtIxksqeUk/edit#slide=id.g11b16e26a9_0_5)
-* You can find a number of other decks in the ["Presentations" Google Drive folder](https://drive.google.com/drive/folders/0B-y3CqI2T1nneHViZUx5b3FHLVE) and templates for one page print outs in the ["Branded Materials for Outreach" Google Drive folder](https://drive.google.com/drive/folders/0B8kn3cuJUwEkT3lZRmN1QV9mdVk)
+* [18F General Slides](https://docs.google.com/a/gsa.gov/presentation/d/1CmwDfEt2W8ywgiOZmH1ZV_aeKnfFLjyaUgxCC-4qlVQ/edit?usp=sharing)
+* [Pitch Deck](https://docs.google.com/a/gsa.gov/presentation/d/1LYkgKAtSWm2P3cWeYM4rytuwV1zrTdWUX9IRunb3Q54/edit?usp=sharing)
+* [Branded Materials for Outreach Google Drive folder](https://drive.google.com/drive/folders/0B8kn3cuJUwEkT3lZRmN1QV9mdVk)
 
 ---
 
 #### Still have questions?
 
-Ask in Slack: [#outreach](https://gsa-tts.slack.com/messages/outreach), [#blog](https://gsa-tts.slack.com/messages/blog), [#newsletter](https://gsa-tts.slack.com/messages/newsletter), [#tweet-this](https://gsa-tts.slack.com/messages/tweet-this), or [#press](https://gsa-tts.slack.com/messages/press).
+Ask in Slack: [#outreach](https://gsa-tts.slack.com/messages/outreach), [#blog](https://gsa-tts.slack.com/messages/blog), [#tweet-this](https://gsa-tts.slack.com/messages/tweet-this), or [#press](https://gsa-tts.slack.com/messages/press).
