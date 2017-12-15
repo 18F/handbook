@@ -12,19 +12,25 @@ See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https:
 
 If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. For questions about GSA’s Incident Response Program, contact the GSA Incident Response (IR) Team at [gsa-ir@gsa.gov](mailto:gsa-ir@gsa.gov).
 
-## Reporting phishing emails
+## Phishing
+You might be tempted to simply mark phishing emails as spam and otherwise ignore them, but if you accidentally (or intentionally) click a link or receive a download from a suspect email, you must report it as an incident following the steps below. Successful phishing attacks are security incidents and should be reported immediately. Phishing emails that are automatically routed to your spam folder do not need to be reported. Your vigilance also helps GSA IT to prepare against similar phishing attacks that might be sent to other users.
+
+### Reporting phishing emails
 If you receive a phishing email, follow these steps to report to GSA IT:
 
 1. Do not click any links in the email. Do not delete it yet. You may mark it as spam.
 1. If you can, click the `Show Original` option in the "triangle" menu associated with the email. This will open a new window with the Original Message above and the raw text of the email below.
 1. Click on the `Download Original` link halfway down the page and it will save text of the email to your hard drive.
 1. Forward the email to itservicedesk@gsa.gov. As long as you haven't clicked on link or downloaded the file, you may stop here.
-1. If you suspect that the email has compromised your system with a download or link, you must also forward the email to gsa-ir@gsa.gov and devops@gsa.gov and attach the original text you downloaded. Please include *Security Incident* in the subject line, along with a brief description of the issue (Ex. Clicked on link in phishing email).
-1. Report the phishing email in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 1. After receiving your notification to GSA, IT will create a ticket and may contact you for more information. If you were unable to retrieve the raw headers above, IT may need to access your computer to view the email.
-1. Mark the email as a phishing email based on confirmation from the GSA IR team by selecting the `Report phishing` option in the same "triangle" menu associated with the email.
+1. After GSA IR confirms that they have all they need to investigate, mark the email as a phishing email by selecting the `Report phishing` option in the same "triangle" menu associated with the email.
 
-You might be tempted to simply mark phishing emails as spam and otherwise ignore them, but if you accidentally (or intentionally) click a link or receive a download from a suspect email, you must report it as an incident following the steps above. Successful phishing attacks are security incidents and should be reported immediately. Phishing emails that are automatically routed to your spam folder do not need to be reported. Your vigilance also helps GSA IT to prepare against similar phishing attacks that might be sent to other users.
+### Reporting phishing incidents
+If you also clicked on a link in a phishing email, follow these steps to report to GSA IR:
+
+1. If you haven't already, follow the steps above for reporting phishing emails, and then continue to the next step.
+1. Forward the phishing email to gsa-ir@gsa.gov and devops@gsa.gov and attach the original text you downloaded. Please include *Security Incident* in the subject line, along with a brief description of the issue (Ex. Clicked on link in phishing email).
+1. Report the phishing email in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 
 ## Reporting other incidents
 To report a security incident, follow *all* of the steps below:
