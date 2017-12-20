@@ -13,17 +13,17 @@ While new employees may travel without one, it is required that everyone at 18F 
 
 ### 1. Complete Card Training
 
-_Est. time: 45 minutes_
+_Est. time: 60 minutes_
 
 1. Head over to GSA's [OLU](https://gsaolu.gsa.gov).
 2. Click on the Home button, and then choose "Learning" from the dropdown.
 3. Below, look for a "Find Learning" search box.
 4. Search for "travel card".
-5. Select "FY2016 GSA Travel Card Training", and then Start course.
-6. Proceed through the introduction and the subsequent 5 lessons, answering all of the knowledge check questions along the way.
-7. Take the quiz at the end of the training. You must score at least 80% to pass.
-8. Download your certificate of completion by returning to the "Learning" page and clicking on the "View All" button under "Learning History". You should see your completed travel card training on the list, and there will be an icon to generate a print preview, which you can save, at the right.
-9. For ease of processing later on, save your Certificate as “Your Name TCTC”.
+5. Select "GSA Travel Card Training", and then Start course.
+6. Once completed there is a second training to take. Return to the "Find Learning" search box and search for "travel training".
+7. Select "Temporary Duty (TDY) Travel Training", and then Start course.
+8. Once completed, download your certificates of completion for both trainings by returning to the "Learning" page and clicking on the "View All" button under "Learning History". You should see your completed travel card and TDY trainings on the list, and there will be an icon to generate a print preview, which you can save, at the right.
+9. For ease of processing later on, save your certificates as “Your Name travel card training” and “Your Name TDY training”.
 
 ### 2. Fill out the Supervisory Travel Card Approval
 
@@ -40,7 +40,7 @@ _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
 2. Save the doc as “Your Name STCAF”
 
-### 3. Send both of the above docs as attachments to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
+### 3. Send both of the training certificates and the STCAF form as attachments to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
 
 ### 4. Wait for an email response from the Travel team.
 
