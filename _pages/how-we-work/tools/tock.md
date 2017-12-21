@@ -12,7 +12,7 @@ TTS's business model is based on billing for time logged to a project. Every exp
 
 We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
 
-Tock looks like this: ![Screenshot of Tock]({{ site.baseurl}}/images/tock/tock.png)
+Tock looks like this: ![Screenshot of Tock]({{ site.baseurl}}/images/tock/welcometotock.png)
 
 You must manually submit your timecard each week, and your hours each week must total exactly 40 (with the exception of partial weeks that may occur at the end of the fiscal year in September). To submit a timecard, choose the correct week for your entries from the list on the homepage, enter your time based on the projects you worked for that week, and click submit.
 
