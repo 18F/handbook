@@ -2,10 +2,7 @@
 title: Leave
 tags:
 - aloha
-- aloha
-- aloha
 - vacation
-- funeral
 - funeral
 - death
 - bereavement
@@ -25,7 +22,7 @@ Before taking leave, be sure to:
 
 - Submit leave through [ALOHA](https://aloha.gsa.gov)
 - Notify your Engagement Manager, if you're on an outside project
-- Submit correct Tock entries assigned to Annual Leave
+- Submit [correct Tock entries](#time-tracking)
 - Share via Slack, email or over media with folk how need to know, and make sure work is covered
 - For 18F team members, update the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/Chicago)
 
@@ -63,7 +60,7 @@ Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds li
 
 ### Parental leave
 
-Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact Gaydell Gould for more information.  Gaydell's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent). 
+Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact Gaydell Gould for more information.  Gaydell's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) chanel
 
@@ -114,3 +111,13 @@ In cases of serious disability or ailment, and when the exigencies of the situat
 ## Religious observance
 
 Adjusting work schedules for religious observances is handled differently than leave. If you need to miss regular work hours for religious observance, you should notify your supervisor in writing in advance of the time you'll need to miss, along with the schedule of the time you will work outside of normal hours to compensate. For details, please see the relevant [OPM policy](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/).
+
+## Time tracking
+
+Whenever you take "leave" — be that vacation time, holiday time, or sick time  — you should log it under the `18F FY18 Out of Office` line (# 670) category in Tock (listed below). If you are at a training or conference that comes out of your chapter's training budget, log that time under the `18F FY18 Training and Conferences` line (# 671).
+
+If your leave begins prior to the release of a timecard (before Wednesday), please send your manager an email with your time entries and they will ensure they are entered. For longer leave requests, make sure you have your time entered on the "18F Out of Office" Google calendar — Ops tracks those entries and will enter your time. If you don't enter extended leave in the "18F Out of Office" calendar Ops won't know you are out, won't enter your time, and you will be delinquent.
+
+[ALOHA](../gsa-internal-tools#aloha) is GSA's out of office request system and is separate from [Tock](../tock), which is TTS's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
+
+For more information on leave, see the [Benefits class](../benefits#leave) and the [GSA Tools and Equipment class](../gsa-internal-tools).
