@@ -10,8 +10,6 @@ TTS's business model is based on billing for time logged to a project. Every exp
 
 We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
 
-Tock looks like this: ![Screenshot of Tock]({{ site.baseurl}}/images/tock/welcometotock.png)
-
 You must review and submit your timecard each week. Tock will pre-populate your current project(s)' hour field with your default availability. Each Friday, choose the correct week for your entries from the list on the homepage, adjust your Tock entry to reflect what you worked that week and then submit your timesheet.
 
 Timecards are due by the end of day (close of business) on Friday. If you fail to submit your timecard on time, your manager will bug you until you get it done! Timecards for the current week should be available no later than Monday at 9AM PST.
