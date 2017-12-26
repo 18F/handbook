@@ -4,8 +4,6 @@ title: Tock
 
 We use Tock to track our time.
 
-## Tock
-
 To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
 
 TTS's business model is based on billing for time logged to a project. Every expense -- salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on -- is paid for by our billing, which is recorded by each person in Tock.
@@ -59,7 +57,7 @@ You **must** bill for the below activities because these are direct costs. This 
 
 You must not bill for the following activities because these are indirect costs and are not inherently valuable to any one single partner. As a result, we distribute the costs for these amongst all our partners via our hourly rate. Recording these as billable would mean we're billing for them twice.
 
-- Out of office (Award leave, sick leave, PTO)
+- [Out of office (Award leave, sick leave, PTO)](../leave/#time-tracking)
 - Conferences and trainings that come out of your chapter's training budget
 - OLU trainings that are not in service of project work
 - Internal organization meetings (All hands, AMAs, Team Coffee, TTS Town Hall)
@@ -105,16 +103,6 @@ While we appreciate that you're trying to protect the budget, there is no need f
 
 In short, we need to know if our scoping is accurate. We'd rather be over budget and have our teams delivering value than be under budget and hiding how many hours it truly takes to deliver on our engagements.
 
-## Leave
-
-Whenever you take “leave” — be that vacation time, holiday time, or sick time  — you should log it under the `18F FY18 Out of Office` line (# 670) category in Tock (listed below). If you are at a training or conference that comes out of your chapter's training budget, log that time under the `18F FY18 Training and Conferences` line (# 671).
-
-If your leave begins prior to the release of a timecard (before Wednesday), please send your manager an email with your time entries and they will ensure they are entered. For longer leave requests, make sure you have your time entered on the “18F Out of Office” Google calendar — Ops tracks those entries and will enter your time. If you don't enter extended leave in the “18F Out of Office” calendar Ops won't know you are out, won't enter your time, and you will be delinquent.
-
-[ALOHA](../gsa-internal-tools#aloha) is GSA's out of office request system and is separate from [Tock](../tock), which is TTS's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
-
-For more information on leave, see the [Benefits class](../benefits#leave) and the [GSA Tools and Equipment class](../gsa-internal-tools).
-
 ## Other Questions
 
 ### Why is my list of “Reporting Periods You Need to Fill Out” really long?
@@ -133,7 +121,7 @@ Submit a tock change request using [this form](https://docs.google.com/forms/d/1
 
 ### What if I'm so busy that I cannot fit everything I need to do within 40 hours per week?
 
-You should immediately contact your supervisor. They will be able to provide you guidance on managing your workload and may be able to help you obtain additional compensation (typically in the form of leave) if you are working extra hours.
+You should immediately contact your supervisor. They will be able to provide you guidance on managing your workload and may be able to help you obtain additional compensation (typically in the form of [leave](../leave/)) if you are working extra hours.
 
 ### When does the weekly reporting begin and end?
 
@@ -149,7 +137,7 @@ The time you spend figuring out travel plans is billable to the project you are 
 
 ### How do I request paid time off (e.g., annual leave, sick leave, comp time)?
 
-Use the GSA System ALOHA and select your supervisor from the drop-down menu. You can also consult additional guidance on GSA's [InSite](https://insite.gsa.gov/) (you need to be connected to the GSA network to access).
+See [Leave](../leave/) page.
 
 ## Still have questions?
 
