@@ -151,9 +151,9 @@ Google Hangouts are video chats in the browser. Here are some tips for using Han
 * We use [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and monthly All Hands Calls. To participate, you may download the Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
 * Login with your CivicActions email. You will see a link below the signin box that reads, "Or, sign in with Google..." so click that and proceed to login via your CivicActions email (may automatically do it if you're already logged in via your browser)
 * For easier scheduling of zoom video calls:
-** download the zoom browser extension [Firefox 57+ here](https://addons.mozilla.org/en-US/firefox/addon/zoom-new-scheduler/), [Chrome here](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle). 
-** Once extension is installed, find the little Zoom logo on your toolbar and click sign-in. 
-** Go into google calendar to start scheduling a meeting. Add attendees and set date/time as usual. Click on the blue "Make It a Zoom Meeting" button and notice that the zoom URL and dialin info is now filled in for you. 
+  * download the zoom browser extension [Firefox 57+ here](https://addons.mozilla.org/en-US/firefox/addon/zoom-new-scheduler/), [Chrome here](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle). 
+  * Once extension is installed, find the little Zoom logo on your toolbar and click sign-in. 
+  * Go into google calendar to start scheduling a meeting. Add attendees and set date/time as usual. Click on the blue "Make It a Zoom Meeting" button and notice that the zoom URL and dialin info is now filled in for you. 
 
 ## Telephone Use
 
