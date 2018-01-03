@@ -8,7 +8,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 * Technical questions, specific project questions: Owen Barton
 * Non-technical questions, scrum & process questions: Elizabeth Raley
 * HR related concerns or questions: First speak with your manager
-* Pod PMs: Steve Curtis (Hydra), Susie Bird (Orion), Jason Heaster (Pyxis)
+* Pod PMs: Steve Curtis (Hydra), Susie Bird (Orion), Jason Heaster (Pyxis), Ero Gray (Ursa)
 * Referring New Hires: Aaron Pava, Elizabeth Raley
 * Company Goals: Aaron Pava, Elizabeth Raley
 * Marketing related questions or ideas: Aaron Pava
@@ -22,7 +22,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 
 * [CivicActions team roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit#gid=0)
 
-## Listservs
+## Main Listservs
 
 * Team-wide communication: ca-team@civicactions.net
 * Request Timeoff: ca-timeoff@civicactions.net
