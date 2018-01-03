@@ -149,7 +149,7 @@ Google Hangouts are video chats in the browser. Here are some tips for using Han
 ## Zoom
 
 * We use [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and monthly All Hands Calls. To participate, you may download the Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
-* In the past we've also used [BlueJeans](https://www.bluejeans.com/).
+* Login with your CivicActions email. You will see a link below the signin box that reads, "Or, sign in with Google..." so click that and proceed to login via your CivicActions email (may automatically do it if you're already logged in via your browser)
 
 ## Telephone Use
 
