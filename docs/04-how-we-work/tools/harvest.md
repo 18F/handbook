@@ -39,13 +39,13 @@ Then:
 
 A lot of our internal time represents an investment in a service area, so we’re going to track that time accordingly. 
 
-* [CA] Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc
-* [CA] Check-in Calls - use this for one-on-ones, like with your manager, or onboarding/mentoring
-* [CA] Documentation - use this for documentating 
-* [CA] Professional Development
-* [CA] IT/IS
-* [CA] Community Participation
-* Other ad hoc projects like [CA] Help Desk
+* CA > Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc
+* CA > Check-in Calls - use this for one-on-ones, like with your manager, or onboarding/mentoring
+* CA > Documentation - use this for documentating 
+* CA > Professional Development
+* CA > IT/IS
+* CA > Community Participation
+* Other ad hoc projects like CA > Help Desk
 
 
 ### Onboarding Time Entries
@@ -61,10 +61,10 @@ Log your time in the CivicActions project: CA > Check-in Calls > Training > then
 
 For some internal projects, we don’t care about tracking our time by service area, and you won’t see service area based tasks there. 
 
-* [CA] All hands calls
-* [CA] Pod calls
-* [CA] Management
-* [CA] Time off
+* CA > All hands calls
+* CA > Pod calls
+* CA > Management
+* CA > Time off
 
 
 ## Harvest Timer Options
