@@ -35,21 +35,37 @@ Then:
 * Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
 * Time and Materials: 85-95% (34-38 hours / week)
 
-### Delivery Time Entries
+### Projects with Service Area-Based Tasks
 
-* If you're an engineer: CA > Delivery > Engineering
-    * Types of meetings: Weekly & monthly all hands call, engineering meeting, devops meeting, pod calls, professional development, community participation
-* If you're a Project Manager: CA > Delivery > Project Management
-    * Types of meetings: Weekly & monthly all hands call, project manager meeting, pod calls, checkins with team members on performance & balance, professional development, community participation
+A lot of our internal time represents an investment in a service area, so we’re going to track that time accordingly. 
 
-#### Onboarding Time Entries
+* CA > Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc
+* CA > Check-in Calls - use this for one-on-ones, like with your manager, or onboarding/mentoring
+* CA > Documentation - use this for documentating 
+* CA > Professional Development
+* CA > IT/IS
+* CA > Community Participation
+* Other ad hoc projects like CA > Help Desk
 
-Enter a description like the below examples in the task description that includes the word "onboarding"
+
+### Onboarding Time Entries
+
+Log your time in the CivicActions project: CA > Check-in Calls > Training > then enter a description like the below examples in the task description that includes the word _onboarding_.
 
 * Onboarding Meeting
 * Onboarding handbook and/or trello board cards review
 * Onboarding watching scrum videos
 * Onboarding resume and bio work
+
+### Projects with Generic Tasks
+
+For some internal projects, we don’t care about tracking our time by service area, and you won’t see service area based tasks there. 
+
+* CA > All hands calls
+* CA > Pod calls
+* CA > Management
+* CA > Time off
+
 
 ## Harvest Timer Options
 
