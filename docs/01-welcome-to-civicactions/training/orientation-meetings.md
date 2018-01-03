@@ -15,7 +15,7 @@
 
 * Review and acknowledge [Conflict of Interest (COI) plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from Judy/DocuSign that asks you to acknowledge it later this week.
 
-* Review the following CivicActions' policies:
+* Review the following CivicActions' policies on your own:
     * [Annual Review Process](../../03-policies/annual-review-process.md)
     * [Code of Conduct](../../03-policies/code-of-conduct.md)
     * [Compensation](../../03-policies/compensation.md)
@@ -31,8 +31,7 @@
 * Introduction to the [mentoring program](mentoring-program.md)
 
 * Working hours expectations:
-    * Flexibility
-    * Have a general set schedule / core hours
+    * We have schedule flexibility, but request a general set schedule / core hours
     * Put appointments in your personal calendar
     * Ping slack if you're just going offline for a few
     * Basically let your team know when you're not free
@@ -42,7 +41,6 @@
 * We aim for the following billable utilization:
     * Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
     * Time and Materials: 85-95% (34-38 hours / week)
-    * Also remember our 5% ProDev & CommPart commitments
 
 ### Time Tracking
 
@@ -53,10 +51,9 @@
 * Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#tracking-expenses)
 
 * How to log onboarding time:
+    * Log your time in the CivicActions Harvest project: CA > Check-in Calls > Training > then enter a description
     * Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
-    * If you're an Engineer, log work to: CA > Delivery > Engineering
-    * If you're a PM, log work to: CA > Delivery > Project Management
-    * Enter a description like the above examples in the task description - make sure it includes the word "onboarding"
+    
 
 ### Communication Tools
 
