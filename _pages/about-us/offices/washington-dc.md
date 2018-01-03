@@ -225,7 +225,7 @@ There is a [health center](https://insite.gsa.gov/portal/content/615454) on the 
 
 ## Weather
 
-Best source for understanding DC weather is the Washington Post's [Capital Weather Gang](www.washingtonpost.com/news/capital-weather-gang/), also on Twitter: [@capitalweather](https://twitter.com/capitalweather).
+A useful source for understanding DC weather is the Washington Post's [Capital Weather Gang](www.washingtonpost.com/news/capital-weather-gang/), also on Twitter: [@capitalweather](https://twitter.com/capitalweather).
 
 ## Evacuation procedures
 
