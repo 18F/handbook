@@ -1,6 +1,6 @@
 ---
 title: GitHub
-tag: 
+tag:
 - Git
 ---
 
@@ -74,7 +74,9 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **You do not need approval to create public repositories.**
 
-- **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it. Feel free to [archive a repository](https://help.github.com/articles/archiving-repositories/) (or ask #admins-github if you don't have permissions to do so) to deprecate it. [Here is a script to do so en masse.](https://gist.github.com/afeld/334c20d71a04bfbada95ed86194decf2)
+- **You do not need approval to archive a repository.** As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), feel free to [archive a repository](https://help.github.com/articles/archiving-repositories/) (or ask #admins-github if you don't have permissions to do so) to deprecate it. [Here is a script to do so en masse.](https://gist.github.com/afeld/334c20d71a04bfbada95ed86194decf2) Note that archiving a repository is **not** the same as deleting a repository.
+
+- **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it.
 
 ### Working with outside collaborators
 
@@ -153,4 +155,4 @@ Contractors or external government collaborators should only be added to teams w
 
 Ask in Slack: [#git](https://gsa-tts.slack.com/messages/git), [#admins-github](https://gsa-tts.slack.com/messages/admins-github), [#dev](https://gsa-tts.slack.com/messages/dev)
 
-GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization). 
+GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization).
