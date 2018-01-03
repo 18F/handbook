@@ -78,6 +78,8 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it.
 
+- **You do not need approval to transfer a repository.** In some cases, it may make sense to transfer a repository to a client. After transferring the repository to the client's organization, create a fork of it in the 18F organization.
+
 ### Working with outside collaborators
 
 Giving contractors and federal partners read or write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community.
