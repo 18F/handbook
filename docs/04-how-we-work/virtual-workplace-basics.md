@@ -31,7 +31,7 @@ For additional tips, check out this blog post by Alaine Karoleff: [Working in a 
 
 * **Use email for more formal communication.** In some cases, email may be a more appropriate communication channel than Slack; see [Basic Communication tools](tools/basic-communication-tools.md) for more information about email best practices.
 
-* **Follow the 30-minute rule.** We encourage engineers to follow a 30-minute rule when working on a technical challenge: don't spend more than 30 minutes banging your head against the wall on an issue - if you're blocked, reach out to members of your team, or ping [#engineering](https://civicactions.slack.com/messages/engineering/).
+* **Follow the 30-minute rule.** We encourage engineers to follow a 30-minute rule when working on a technical challenge: don't spend more than 30 minutes banging your head against the wall on an issue - if you're blocked, ping/reach out to members of your team - i.e. an engineer reaching out in [#engineering](https://civicactions.slack.com/messages/engineering/).
 
 ## Talking Timezones
 
