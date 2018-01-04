@@ -41,6 +41,10 @@ To be sure you haven't enabled this access accidentally in the past, you can che
 
 To use a [Google Apps Script](https://developers.google.com/apps-script/), please fill out [this form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdOCtxCaSKJC87CedZW1FKGspMvnRzyOauMvKIOfrSV7PBdag/viewform).
 
+## Google Forms
+
+If you create a Google form that is intended to be filled by employees of another agency, keep in mind that in a few agencies, Google Forms are blocked. Among the largest agencies that are known to currently block Forms are: DHS, VA, and EOP. In the case that you intend to involve those agencies in an initiative where a Google Form is being used, it's smart to create a version in another format, like a Word doc or fillable PDF.
+
 ## Tips
 
 - **Finding recent documents** To find recently documents, use [this link](https://drive.google.com/drive/recent), which you can find by clicking on the "AZ" button and selecting "Last opened by me."
