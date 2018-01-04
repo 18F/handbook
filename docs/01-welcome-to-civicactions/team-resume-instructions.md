@@ -8,6 +8,6 @@ We sometimes get requests for team resumes. We use a template for formatting tea
 2. Review the [resume template](https://docs.google.com/document/d/1dwcUtAW61FA5fUzJvZqTh3DeCzNgAbMbxOgEo4_hyoM/edit)
 3. Make a COPY of the template
 4. Make your resume doc accessible for all folks in the organization to see or share it directly with appropriate folks (Alaine, Aaron, Owen, Elizabeth, any editors)
-5. Update the doc with your resume information
+5. Update the doc with your resume information (You'll notice the top few boxes are related to Drupal development. If this doesn't apply to you, just delete those cells and begin with Professional Experience.)
 6. Email your onboarding manager and the editor with a link to the updated resume doc
 7. The editor and manager will review and save in the team resumes folder
