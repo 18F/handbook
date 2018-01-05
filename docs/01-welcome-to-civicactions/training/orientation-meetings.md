@@ -95,9 +95,7 @@
 * Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retrospectives)
 * Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 * Read about the [gold star program](../../04-how-we-work/gold-star-program.md)
-* Watch these training videos for an introduction to Scrum
-    * [Scrum training series videos](http://scrumtrainingseries.com/)
-    * [Scrum methodology (same videos w additional text support)](http://scrummethodology.com/)
+* Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction & reminder of Scrum 
 
 ### Virtual Workplace Basics
 
@@ -130,7 +128,7 @@
 * [How to create a ticket or card](../../04-how-we-work/tools/tickets-cards.md)
 * [Story point estimating](../../04-how-we-work/tools/storypoints.md)
 * [Install Chrome browser extensions](../../04-how-we-work/tools/browserextensions.md)
-* [CivicActions Agile (which includes intro to Agile Baseline)](../../04-how-we-work/agileoverview.md)
+* [CivicActions Agile](../../04-how-we-work/agileoverview.md)
 * Read about & learn [markdown](../../04-how-we-work/tools/markdown.md)
 * Read the [common vocab](../../04-how-we-work/common-vocab.md) page
 * [Skillset survey](../skillset-survey.md)
