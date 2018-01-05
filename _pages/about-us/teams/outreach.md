@@ -60,7 +60,7 @@ Here's the guide on [how to draft and publish the internal newsletter](https://d
 
 ## 18F branding and microsites approval
 
-The outreach team is responsible for the management of 18F branding and it's web presence. In the early days of 18F, staff were able to create public microsites on [Federalist](https://handbook.18f.gov/federalist/), like guides or pages, to share best practices and increase transparency. While that let us share information quickly, it led to a series of public sites that tended to have conflicting or incomplete information, inconsistent designs, and were often passively abandoned (sometimes with dead-end contact info). Outreach's goal is to have 18F be a unified and consistent brand.
+The outreach team is responsible for the management of 18F branding and its web presence. In the early days of 18F, staff were able to create public microsites on [Federalist](https://handbook.18f.gov/federalist/), like guides or pages, to share best practices and increase transparency. While that let us share information quickly, it led to a series of public sites that tended to have conflicting or incomplete information, inconsistent designs, and were often passively abandoned (sometimes with dead-end contact info). Outreach's goal is to have 18F be a unified and consistent brand.
 
 Before you create an 18F microsite (`name.18f.gov`), you must clear it with the Outreach team. [Please fill out this form] (https://goo.gl/forms/XcmP90Mfbey43NHn2) to let us know about the site you want to create and how it will support your project. Outreach will follow up within a couple of days to discuss your proposal and figure out how we can support it. Until we’ve cleared your project, we ask that you refrain from creating new microsites.
 
