@@ -163,7 +163,9 @@ The lockers are in two spots. One set is by the couches the other by that large 
 
 ### Snacks
 
-GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Additionally, there are a series of three drawers for snack foods located within TTS infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://gsa-tts.slack.com/messages/dc/) if you want to contribute and join.
+GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Hours are: Monday, 7am-2pm; Tuesday-Thursday, 7am-3pm; Friday, 7am-2pm.
+
+Additionally, there are a series of three drawers for snack foods located within TTS infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://gsa-tts.slack.com/messages/dc/) if you want to contribute and join.
 
 The DC fridge is cleaned out monthly on Fridays (dates are posted on the fridge), and all food (including containers) is thrown out.
 
