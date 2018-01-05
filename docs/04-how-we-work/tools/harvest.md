@@ -50,7 +50,7 @@ A lot of our internal time represents an investment in a service area, so we’r
 
 ### Onboarding Time Entries
 
-Log your time in the CivicActions project: CA > Check-in Calls > Training > then enter a description like the below examples in the task description that includes the word _onboarding_.
+Log your time in the CivicActions project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description like the below examples in the task description that includes the word _onboarding_.
 
 * Onboarding Meeting
 * Onboarding handbook and/or trello board cards review
