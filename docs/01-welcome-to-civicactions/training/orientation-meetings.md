@@ -146,7 +146,7 @@
 * Begin your [CivicActions Security training process](./security-training.md)
     * Read the [CivicActions Security Policy](../../03-policies/security.md)
     * Increase your [security awareness with tools](../../09-security/awareness.md)
-        * [Secure your laptop](../../09-security/awareness.md/#securing-your-laptop)
+        * [Secure your laptop](../../09-security/awareness.md#securing-your-laptop)
         * Set up [LastPass](../../09-security/awareness.md#lastpass)
         * Set up [Two Factor Authentication (TFA)](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
     * Complete your [security checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
