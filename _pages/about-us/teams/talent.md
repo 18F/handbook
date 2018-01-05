@@ -94,7 +94,7 @@ As you'd guess, everyone's weeks looks a little different. That said, there are 
 - **Mailing lists**
 
   - tts-talentteam@gsa.gov for emailing the entire Talent Team only.
-  - The public facing email address to contact the Talent Team for applicants, candidates, or other interested parties is Join18f@gsa.gov.
+  - The public facing email address to contact the Talent Team for applicants, candidates, or other interested parties is jointts@gsa.gov.
   - The Web Content Managers listserv (CONTENT-MANAGERS-L@listserv.gsa.gov) is open to content managers from any level of U.S. government.
 
 ### <a id="tools">Tools</a>
