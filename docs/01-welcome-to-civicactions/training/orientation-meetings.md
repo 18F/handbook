@@ -51,7 +51,7 @@
 * Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#tracking-expenses)
 
 * How to log onboarding time:
-    * Log your time in the CivicActions Harvest project: CA > Onboarding > Company-Wide > then enter a description
+    * Log your time in the CivicActions Harvest project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description
     * Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
     
 
@@ -88,16 +88,14 @@
 * Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays)
 * Review [professional development](../../03-policies/prodev.md) & [community participation](../../03-policies/community-participation.md)
 
-### Project Overview Info (part 1)
+### Project Overview Info & Some How We Work Info
 
 * Relevant project introductions: Connect with appropriate person to walk through each project to discuss the project and its goals, the product owner, stakeholders, team members, technologies, ticket review, project status, etc. 
 * Introduction to the [Scrum call structure](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md)
 * Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retrospectives)
 * Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 * Read about the [gold star program](../../04-how-we-work/gold-star-program.md)
-* Watch these training videos for an introduction to Scrum
-    * [Scrum training series videos](http://scrumtrainingseries.com/)
-    * [Scrum methodology (same videos w additional text support)](http://scrummethodology.com/)
+* Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher. 
 
 ### Virtual Workplace Basics
 
@@ -146,7 +144,7 @@
 * Begin your [CivicActions Security training process](./security-training.md)
     * Read the [CivicActions Security Policy](../../03-policies/security.md)
     * Increase your [security awareness with tools](../../09-security/awareness.md)
-        * [Secure your laptop](../../09-security/awareness.md/#securing-your-laptop)
+        * [Secure your laptop](../../09-security/awareness.md#securing-your-laptop)
         * Set up [LastPass](../../09-security/awareness.md#lastpass)
         * Set up [Two Factor Authentication (TFA)](../../09-security/awareness.md#use-two-factor-or-2-step-authentication-tfa-2fa)
     * Complete your [security checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
