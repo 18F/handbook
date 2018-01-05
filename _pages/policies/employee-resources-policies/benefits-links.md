@@ -26,7 +26,11 @@ Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/
 
 ## Human resources (HR)
 
-For benefits-related questions, please email [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
+### Karen Addison
+
+Contact for benefits-related questions.  You can also reach out to [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
+
+Karen's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 ### Gaydell Gould
 
