@@ -11,6 +11,7 @@ You may also want to talk with your project team members to see what browser ext
 * [Boomerang for Gmail](https://chrome.google.com/webstore/detail/boomerang-for-gmail/mdanidgdpmkimeiiojknlnekblgmpdll?hl=en)
 
 # Firefox browser extensions
+
 * [Lastpass](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)
 * [Zoom](https://addons.mozilla.org/en-US/firefox/addon/zoom-new-scheduler/)
 * [Harvest](https://addons.mozilla.org/en-US/firefox/addon/harves-387449-2/)
