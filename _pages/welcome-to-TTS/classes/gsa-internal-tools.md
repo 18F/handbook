@@ -138,7 +138,7 @@ If you&rsquo;re new to GSA, it&rsquo;ll take a few weeks for IT to set up your a
 3. After you activate your account, you can set up your login ID and password.
 4. Then, go back to the welcome email and click the second link to log in.
 
-Once your account is setup, be sure to log in right away as that initial access expires within a few days. If you have trouble logging in or need to contact the Employee Express Help Desk, send an email to [eexhelp@opm.gov](mailto:eexhelp@opm.gov) from your GSA email address. In the email, include your name, work phone number and a description of your request (for example, `my SSN is not recognized` or `I need my login and password reset`).
+Once your account is setup, be sure to log in right away as that initial access expires within a few days. If you have trouble logging in or need to contact the Employee Express Help Desk, click on the **(?)** icon in the top right hand corner of the [Employee Express](https://www.employeeexpress.gov/) main page and fill out the "Help Request" form.
 
 If they ask for your health insurance code, you can see that in CHRIS under `GSA Personnel → Self Service → Employee Views → Benefits → Health Plan`. Your code is the number next to your health plan.
 
