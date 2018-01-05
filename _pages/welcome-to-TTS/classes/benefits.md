@@ -13,7 +13,9 @@ When filling out your benefit forms, you can use digital signatures on enrollmen
 
 ### Benefits contacts
 
-[GSA's HR and Benefits group](mailto:CPC.Benefits-Retirement@gsa.gov) is the primary contact for all health insurance (FEHB), life insurance (FEGLI), and retirement (FERS) questions and inquiries. The TTS Talent team can help you escalate questions and problems and point you in the right direction.
+Karen Addison is our primary contact for all health insurance (FEHB), life insurance (FEGLI), and retirement (FERS) questions and inquiries. Secondarily, you can send inquiries to [GSA's HR and Benefits group](mailto:CPC.Benefits-Retirement@gsa.gov).  The TTS Talent team can help you escalate questions and problems and point you in the right direction.
+
+Karen's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 Find us in Slack:
 
