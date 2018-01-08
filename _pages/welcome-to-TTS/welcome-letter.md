@@ -17,4 +17,3 @@ We try to be both strategic and practical – strategic in always keeping the bi
 We aim to make our organization as agile and user-centric as our projects, tapping into our collective ideas and insights. So please let us know if you see any way we can improve.
 
 Thank you again for bringing your talents to serve the public.  We’re excited to have you as a member of the TTS team.
-
