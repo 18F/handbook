@@ -21,11 +21,11 @@ If you're a project manager or storyteller working on an 18F project, ping us in
 
 ## 18F site
 
-[18f.gsa.gov](http://18f.gsa.gov/) is a **static site** based on the Jekyll platform. (We use Jekyll pretty extensively at 18F. The [pages.18f.gov](https://pages.18f.gov) platform is built around Jekyll, and that&rsquo;s basically our version of GitHub pages). We publish the site with [Federalist](https://federalist.18f.gov).
+[18f.gsa.gov](http://18f.gsa.gov/) is a **static site** based on the Jekyll platform. We publish the site with [Federalist](https://federalist.18f.gov).
 
-The name of our master branch is `staging`. We publish by making branches off of and submitting pull requests to `staging`. Once pushed, a branch will publish through Federalist as a preview URL. Once merged, Federalist will publish the site at 18f.gsa.gov.
+We publish by making branches off of and submitting pull requests to `master`. Once pushed, a branch will publish through Federalist as a preview URL. Once merged, Federalist will publish the site at 18f.gsa.gov.
 
-18F&rsquo;s website also uses **continuous integration** to [run tests on the site](https://github.com/18F/18f.gsa.gov/blob/staging/go#L77-L82) on each pull request. For CI, we currently use Travis and plan to switch to Circle soon.
+18F&rsquo;s website also uses **continuous integration** to [run tests on the site](https://github.com/18F/18f.gsa.gov/blob/staging/go#L77-L82) on each pull request. For CI, we currently use Circle.
 
 We use [Google Analytics](/google-analytics/) and participate in the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) to track site usage.
 
@@ -58,9 +58,9 @@ Here's the guide on [how to draft and publish the internal newsletter](https://d
 
 ## 18F branding and microsites approval
 
-The outreach team is responsible for the management of 18F branding and its web presence. In the early days of 18F, staff were able to create public microsites on [Federalist](https://handbook.18f.gov/federalist/), like guides or pages, to share best practices and increase transparency. While that let us share information quickly, it led to a series of public sites that tended to have conflicting or incomplete information, inconsistent designs, and were often passively abandoned (sometimes with dead-end contact info). We all want to improve the user experience of government, 18F can be the example of that.
+The outreach team is responsible for the management of 18F branding and its web presence. In the early days of 18F, staff were able to create public microsites using the retired `pages.18f.gov` (currently microsites are hosted on [Federalist](https://handbook.18f.gov/federalist/)). While that let us share information quickly and increase transparency, it led to a series of public sites that tended to have conflicting or incomplete information, inconsistent designs, and were often passively abandoned (sometimes with dead-end contact info). We all want to improve the user experience of government, 18F can and should be the example of that.
 
-To ensure a unified, consistent brand and a good user experience across 18F pages, we're creating a lightweight process for microsites. Here's how it works: Before you create an 18F microsite (`xyz.18f.gov`), please fill out this form to let us know about the information you want to publish [Please fill out this form](https://goo.gl/forms/XcmP90Mfbey43NHn2) to let us know about the site you want to create and how it will support your project. Outreach will follow up within a couple of days to discuss your proposal and figure out how we can support it. Until we’ve cleared your project, we ask that you refrain from creating new microsites.
+To ensure a unified, consistent brand and a good user experience across 18F pages, we're creating a lightweight process for microsites. Here's how it works: Before you create an 18F microsite (`xyz.18f.gov`), please fill out this form to let us know about the information you want to publish [Please fill out this form](https://goo.gl/forms/XcmP90Mfbey43NHn2) to let us know about the site you want to create and how it will support your project. Outreach will follow up within a couple of days to discuss your proposal. Until we’ve cleared your project, we ask that you refrain from creating new microsites.
 
 If approved, we will work with you to meet branding standards with your content and design. 
 
