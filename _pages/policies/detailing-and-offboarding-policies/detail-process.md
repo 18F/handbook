@@ -4,6 +4,7 @@ tags:
 - assignees
 - detailees
 - details
+- assignee
 ---
 
 A detail is when a person in one agency goes to work at another agency on a temporary, time-specific, and limited basis.
