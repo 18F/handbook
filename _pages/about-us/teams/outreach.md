@@ -25,7 +25,7 @@ If you're a project manager or storyteller working on an 18F project, ping us in
 
 The name of our master branch is `staging`. We publish by making branches off of and submitting pull requests to `staging`. Once pushed, a branch will publish through Federalist as a preview URL. Once merged, Federalist will publish the site at 18f.gsa.gov.
 
-18F&rsquo;s website also uses **continuous integration** to [run tests on the site](https://github.com/18F/18f.gsa.gov/blob/staging/go#L77-L82) on each pull request. For CI, we currently use Travis and plan to switch to Circle soon.
+18F&rsquo;s website also uses **continuous integration** to [run tests on the site](https://github.com/18F/18f.gsa.gov/blob/staging/go#L77-L82) on each pull request. For CI, we currently use CircleCI.
 
 We use [Google Analytics](/google-analytics/) and participate in the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) to track site usage.
 
@@ -62,7 +62,7 @@ The outreach team is responsible for the management of 18F branding and its web 
 
 Before you create an 18F microsite (`name.18f.gov`), you must clear it with the Outreach team. [Please fill out this form] (https://goo.gl/forms/XcmP90Mfbey43NHn2) to let us know about the site you want to create and how it will support your project. Outreach will follow up within a couple of days to discuss your proposal and figure out how we can support it. Until we’ve cleared your project, we ask that you refrain from creating new microsites.
 
-If approved, we will work with you to meet branding standards with your content and design. 
+If approved, we will work with you to meet branding standards with your content and design.
 
 ## <a name="press"></a>Press and other inquiries
 
