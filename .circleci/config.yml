@@ -1,0 +1,27 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/handbook
+    docker:
+       - image: circleci/ruby:2.4-node
+    environment:
+      # fix encoding
+      - LANG: C.UTF-8
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "Gemfile.lock" }}
+          # fallback to using the latest cache if no exact match is found
+          - v1-dependencies-
+      - run:
+          name: install dependencies
+          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+      - save_cache:
+          paths:
+            - ./vendor/bundle
+          key: v1-dependencies-{{ checksum "Gemfile.lock" }}
+
+      - run: ./go ci_build
