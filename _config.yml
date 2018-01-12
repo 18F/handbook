@@ -76,8 +76,8 @@ navigation:
   internal: true
   generated: true
   children:
-  - text: Welcome from Rob Cook
-    url: welcome-from-rob/
+  - text: Welcome from the team
+    url: welcome-letter/
     internal: true
   - text: TTS Homepage
     url: https://www.gsa.gov/node/87579
