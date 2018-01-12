@@ -27,7 +27,6 @@ end
 require 'guides_style_18f'
 
 extend GoScript
-check_ruby_version '2.1.5'
 
 command_group :dev, 'Development commands'
 

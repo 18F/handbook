@@ -28,7 +28,7 @@ Billable projects can only be created after an agreement has been signed. TTS Op
 
 ### What activities do I record billable hours for?
 
-_Exception to some of the items described: only those staffed to cloud.gov may bill time to cloud.gov._
+_Exception to some of the items described: only those staffed to cloud.gov and login.gov may bill time to those projects._
 
 You **must** bill for the below activities because these are direct costs. This means they are directly bringing value to the partner agency you are working for. We have a legal obligation to bill for them. They include:
 

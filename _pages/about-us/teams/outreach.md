@@ -62,7 +62,7 @@ The outreach team is responsible for the management of 18F branding and its web 
 
 To ensure a unified and consistent brand across 18F, we've created a lightweight process for microsites. Here's how it works: Before you create an 18F microsite (`xyz.18f.gov`), [please fill out this form](https://goo.gl/forms/XcmP90Mfbey43NHn2) to let us know about the site you want to create and how it will support your project. Outreach will follow up within a couple of days to discuss your proposal. Until we’ve cleared your project, we ask that you refrain from creating new microsites.
 
-If approved, we will work with you to meet branding standards with your content and design. 
+If approved, we will work with you to meet branding standards with your content and design.
 
 ## <a name="press"></a>Press and other inquiries
 

@@ -1,4 +1,4 @@
-18F Handbook [![Build Status](https://travis-ci.org/18F/handbook.svg?branch=master)](https://travis-ci.org/18F/handbook)
+18F Handbook [![CircleCI](https://circleci.com/gh/18F/handbook.svg?style=svg)](https://circleci.com/gh/18F/handbook)
 ========================
 
 The [18F Handbook](https://handbook.18f.gov) documents the mission, values, structures, policies, tools, and guides that shape our team. This is a _living_ document and is updated regularly. If you have questions, comments, or suggestions, please
