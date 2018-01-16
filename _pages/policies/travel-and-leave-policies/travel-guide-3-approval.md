@@ -21,21 +21,19 @@ Enter the following trip information on this page:
 <img src="/images/travel/12-trip-name.png" class="travel-guide-hide" alt="Trip Booking Information screen">
 
 1. **Trip name:** Follow the naming convention below:
-
     * BILLABLE/NON-BILLABLE: [if nonbillable, [correspondence code](https://docs.google.com/spreadsheets/d/1WLVv2x7GauLo0-waK3FqeVxN7UCZmXw_t2E745Gfmug/edit#gid=600166428) of the director approving the travel] [Exact name of Tock Project] you are billing against, # of [tock project ID](http://tock.18f.gov/projects).
-
-    * Example: NON-BILLABLE: QOA Ops/ Admin #3
-
-2. **Document detail:** Brief summary of the purpose of the trip.
-
-3. **Will this travel be a detail to another location?** No.
-
-4. **Trip Purpose:** “Mission (Operational)” in most cases, but occasionally “Conference” or “Training”.
+    * Example: `NON-BILLABLE: QOA Ops/ Admin #3`
+1. **Type Code:** "SINGLE TRIP".
+1. **Trip Purpose:** “Mission (Operational)” in most cases, but occasionally “Conference” or “Training”.
+1. **Document detail:** Brief summary of the purpose of the trip.
+1. **Will this travel be a detail to another location?** No.
 
 Proceed by clicking **Next** to finalize the reservation.
 
 You will now see final reservation. Review all of the details and hit **“Confirm booking”** when done.
 <img src="/images/travel/13-confirm-booking.png" class="travel-guide-hide" alt="confirming the booking">
+
+You may get prompted for a `No Hotel Booked` `Travel Policy Violation`. Select `Policy Compliant Hotel to be Booked Through Approved TMC`, and type in "Booked through Fedrooms," or whatever is applicable.
 
 #### Additional step if you booked your hotel outside of Concur or Ad Trav
 **Note** If you did not book a hotel from Concur, please briefly justify why you are not using a hotel.
@@ -44,7 +42,6 @@ You will now see final reservation. Review all of the details and hit **“Confi
 
 1. Click on the **General** tab of your authorization.
 1. Select the **Document Information** tab.
-1. For **Type Code**, select "SINGLE TRIP".
 1. Click **Save**.
 
 [Proceed to Submit Authorization for Approval](/travel-guide-3-approval/#submit-authorization-for-approval)
