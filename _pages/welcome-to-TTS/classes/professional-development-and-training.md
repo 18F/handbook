@@ -125,7 +125,7 @@ As a TTS team member, you have access to additional online training resources.
 
 - **[GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov/)** offers training, and many of its courses are mandatory for new employees.
 
-- **DigitalGov University** holds webinars and in-person events about all things digital government. See the DigitalGov [calendar of events](http://www.digitalgov.gov/events/) and [video library](http://www.digitalgov.gov/digitalgov-university/video-library/) for more information.
+- **DigitalGov University** holds webinars and in-person events about all things digital government. See the DigitalGov [calendar of events](http://www.digitalgov.gov/events/) and [video library](https://www.youtube.com/DigitalGov) for more information.
 
 - [Safari Books Online](https://www.safaribooksonline.com) provides online access to 30,000 books and videos about programming, UX design, leadership, project management, content strategy, agile development, and more. To request access, see [Software](../equipment/#software).
 
