@@ -23,9 +23,7 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 ### Rules
 
-**Install [Managed Software Center](/managed-software-center/).** This is how we'll send you software updates, optional software titles, and Apple updates that won't break your system.
-
-**Install [ClamXav](/clamxav)** immediately. This software will be **automatically** pushed to your system by the Managed Software Center, so you **must** complete that installation first. This is your antivirus software.
+**Install [ClamXav](/clamxav)** immediately. This is your antivirus software.
 
 **[Require a password](http://support.apple.com/kb/PH18669?viewlocale=en_US)** when your computer goes to sleep or shows a screensaver.
 

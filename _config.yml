@@ -304,9 +304,6 @@ navigation:
     - text: How to get Microsoft Office for OS X
       url: office/
       internal: true
-    - text: Managed Software Center
-      url: managed-software-center/
-      internal: true
     - text: MailChimp
       url: mailchimp/
       internal: true
