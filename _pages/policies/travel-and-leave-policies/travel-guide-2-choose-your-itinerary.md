@@ -32,7 +32,8 @@ Request that your tickets be purchased upon authorization.
 7. Choose your departure city or location.
 <img src="/images/travel/4-choose-origin-city.png" class="travel-guide-hide" alt="choosing origin city">
 
-7. Pick your departure and arrival airport, dates, times, and check whether or not you want to book a hotel and/or rental car.
+7. Pick your departure and arrival airport, dates, times, and check whether or not you want to book rental car.
+    * You will probably [book lodging separately](#book-lodging).
 8. Click **Search** to move onto the next screen.
 
 #### Choose a flight
@@ -76,8 +77,6 @@ You may book outside of Fedrooms if you can find alternative accommodations that
 While some services (such as Airbnb, hotels.com, etc.) offer lower prices, they do come with a risk to the government-- if your trip is cancelled, some or all of that total may not be refunded. Since our clients may not agree to pick up that tab, nonrefundable fees sometimes eat into TTS’s operating budget.
 
 If you need to book a hotel outside of fedrooms.com, please check if booking comes with any nonrefundable fees. If it does, please get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to tts-travelauths@gsa.gov. Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.
-
-If booking in Fedrooms or using another service, when Concur prompts you to select a hotel, you may choose **"I will book a hotel later"**, and later choose **Hotel booked directly or via other means** when confirming booking.
 
 Choosing **"I will book a hotel now"** is another option available to you, which is sometimes, but not always similar to Fedrooms. Choosing this option will allow you to book a hotel in Concur is to book directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile). Then, you can go ahead and follow some more detailed instructions [here](/how-to-book-a-hotel-in-concur).
 
