@@ -187,7 +187,7 @@ There is a health center on the 3rd floor.
 
 ### <a id="gym"></a>Gym
 
-There is a gym inside the Federal building that you can access by paying a yearly fee. Email [Mark McConnaughhay](mailto:mark.mcconnaughhay@gsa.gov) for more details.
+There is [a gym inside the Federal building](https://foh.psc.gov/wfsites/jckrhm/) that you can access by paying a yearly fee. Email [Harold Tyler](mailto:harold.tyler@foh.hhs.gov) for more details.
 
 ### <a id="recycling"></a>Recycling
 
