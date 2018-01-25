@@ -107,9 +107,6 @@ navigation:
     - text: Meetings and meeting tools
       url: meetings-and-meeting-tools/
       internal: true
-    - text: Objectives and key results (OKRs)
-      url: objectives-key-results/
-      internal: true
     - text: Online Learning University (OLU)
       url: olu/
       internal: true
