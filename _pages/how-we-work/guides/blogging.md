@@ -34,7 +34,6 @@ In sum, our goals are:
 -   To actively promote innovation in government, wherever it’s happening
 
 ### Execution
----------
 
 Our publications adhere to [18F’s Content Guide](https://pages.18f.gov/content-guide/), actively promoting a
 unified style and a multitude of voices. The Outreach Team
@@ -48,7 +47,6 @@ team [in a working GitHub
 repository.](https://github.com/18f/blog-drafts)
 
 ### Risks and concerns
-------------------
 
 We assess every post to ensure it adheres to our mission, as outlined
 above. Being this open about all aspects of our work is atypical for a
