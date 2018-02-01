@@ -66,9 +66,9 @@ If approved, we will work with you to meet branding standards with your content 
 
 ## <a name="press"></a>Press and other inquiries
 
-- If you’re contacted by a congressperson or senator, or are contacted by one of their offices, please contact the [Office of Congressional and Intergovernmental Affairs](https://www.dol.gov/general/contact), and copy [Crystal Philcox](mailto:crystal.philcox@gsa.gov). Feel free to give us a heads up in #outreach, too.
+- If you’re contacted by a congressperson or senator, or are contacted by one of their offices, please contact the [Office of Congressional and Intergovernmental Affairs](https://www.dol.gov/general/contact), and copy [Dominic Sale](mailto:dominic.sale@gsa.gov). Feel free to give us a heads up in #outreach, too.
 
-- If you’re contacted by a reporter, please route all interactions through the Office of Strategic Communications (OSC) via [press@gsa.gov](mailto:press@gsa.gov), and copy [Crystal Philcox](mailto:crystal.philcox@gsa.gov). Feel free to give us a heads up in #outreach, too.
+- If you’re contacted by a reporter, please route all interactions through the Office of Strategic Communications (OSC) via [press@gsa.gov](mailto:press@gsa.gov), and copy [Dominic Sale](mailto:dominic.sale@gsa.gov). Feel free to give us a heads up in #outreach, too.
 
 - 18F press mentions are collected in [#press](https://gsa-tts.slack.com/archives/press).
 
