@@ -10,14 +10,14 @@ To cultivate an organization full of highly talented and engaged staff who are p
 
 To empower the organization with the means and information to fully utilize the capabilities of its people to help government agencies meet their mission and better serve the public.
 
-## Referring a person:
+## Referring a person
 
 * Instructions for referring a person (an open role is not required):
   * [Talent Referral Program Information](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit)
 * Form to submit a referral:
   * [Referral Submission Form](https://goo.gl/forms/I6cOnRNdh21aP5e63)
   
-## Applying to open positions:
+## Applying to open positions
 
 Candidates should apply to open positions [here](https://18f.gsa.gov/join/).
 
