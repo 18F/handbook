@@ -74,7 +74,7 @@ If approved, we will work with you to meet branding standards with your content 
 
 ## Speaking and events
 
-If you've been asked to speak at an event, or if you want to speak at an event and may need approval, see the [TTS Event and Speaker approval guide](https://goo.gl/dcHMZm) and ask questions in [#conferences](https://gsa-tts.slack.com/archives/conferences). If you're already approved to speak at an event, ping us in #outreach so we can provide you with team talking points, take a look at your presentation, and help you promote the event.
+If you've been asked to speak at an event, or if you want to speak at an event and may need approval, see the [TTS Event and Speaker approval guide](https://goo.gl/dcHMZm) and ask questions in [#training-conferences](https://gsa-tts.slack.com/archives/training-conferences). If you're already approved to speak at an event, ping us in #outreach so we can provide you with team talking points, take a look at your presentation, and help you promote the event.
 
 If you’re looking for help with a slide deck for a presentation, you can find resources on the [18F Branding site](https://brand.18f.gov/templates/). We also have a couple previous decks that have ready-to-use slides about 18F’s history, the digital service ecosystem, and the basics of 18F’s model.
 
