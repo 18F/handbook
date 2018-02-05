@@ -146,10 +146,6 @@ to modify the structure and change the section headings to be specific
 to your writing. As you’ll see, many of the linked examples only loosely
 follow these formats.
 
-Make sure to also [consider your
-audience](https://blogging-guide.18f.gov/content-guidelines/) as you
-begin drafting.
-
 ### Writing about products
 
 #### Grand idea project launch — [example](https://18f.gsa.gov/2015/10/29/welcome-to-betafec/)
