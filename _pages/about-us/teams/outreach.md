@@ -64,7 +64,7 @@ Before you create an 18F microsite (`name.18f.gov`), you must clear it with the 
 
 If approved, we will work with you to meet branding standards with your content and design.
 
-## <a name="press"></a>Press and other inquiries
+## Press and other inquiries
 
 - If you’re contacted by a congressperson or senator, or are contacted by one of their offices, please contact the [Office of Congressional and Intergovernmental Affairs](https://www.dol.gov/general/contact), and copy [Crystal Philcox](mailto:crystal.philcox@gsa.gov). Feel free to give us a heads up in #outreach, too.
 
