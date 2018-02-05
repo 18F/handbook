@@ -260,6 +260,14 @@ navigation:
   - text: Sensitive information
     url: sensitive-information/
     internal: true
+  - text: Guides
+    url: guides/
+    internal: true
+    generated: true
+    children:
+    - text: Blogging
+      url: blogging/
+      internal: true
   - text: Tools
     url: tools/
     internal: true
