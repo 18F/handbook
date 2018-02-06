@@ -14,7 +14,7 @@ Now for the fun part! Here are a few things to keep in mind when traveling for T
 
 Use of the GSA travel card is mandatory for all expenses as per the [Federal Travel Regulation](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=101276#wp1091086), except expenses for which it "is impractical (e.g., vendor does not accept credit cards) or imposes unreasonable burdens or costs (e.g., fees are charged for using the card)."
 
-Additionally, you should keep receipts for as many expenses as practicable (except meals), including taxis of all amounts. Only travel booked in Concur, meals/incidentals, public transit, parking, and tolls under $25 is exempt from receipt requirements. TTS' practices in this regard are stricter than GSA as a whole, due to the fact that many TTS clients may have more exhaustive receipt requirements than GSA and sometimes we need to provide these receipts to them in order to be reimbursed.
+Additionally, you should keep receipts for as many expenses as practicable (except meals), **including taxis of all amounts**. Only travel booked in Concur, meals/incidentals, public transit, parking, and tolls under $25 are exempt from receipt requirements. TTS' practices in this regard are stricter than GSA as a whole due to the fact that many TTS clients may have more exhaustive receipt requirements than GSA; sometimes we need to provide these receipts to them in order to be reimbursed.
 
 ### Receipt guidelines for specific expenses
 
