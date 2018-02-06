@@ -20,7 +20,7 @@ Additionally, you should keep receipts for as many expenses as practicable (exce
 
 * Hotels: a receipt including a full breakout of nightly rate and lodging tax where applicable is required.
 
-* Taxis (including Uber, Lyft, and other rideshare services): receipts for taxis, regardless of amount, is required.
+* Taxis (including Uber, Lyft, and other rideshare services): receipts for taxis, regardless of amount, are required.
 
 * Public transportation: receipts for all public transit expenses are preferred, however receipts for expenses over $25 are required.
 
