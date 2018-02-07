@@ -10,18 +10,25 @@ Travel _and keep receipts!_
 
 Now for the fun part! Here are a few things to keep in mind when traveling for TTS.
 
-### What to put on your travel card and keep receipts for
-Here are a few expenses that you should put on the travel card (and **keep receipts** for):
+### Use your travel card and keep all receipts!
+
+Use of the GSA travel card is mandatory for all expenses as per the [Federal Travel Regulation](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=101276#wp1091086), except expenses for which it "is impractical (e.g., vendor does not accept credit cards) or imposes unreasonable burdens or costs (e.g., fees are charged for using the card)."
+
+Additionally, you should keep receipts for as many expenses as practicable (except meals), **including taxis of all amounts**. Only travel booked in Concur, meals/incidentals, public transit, parking, and tolls under $25 are exempt from receipt requirements. TTS' practices in this regard are stricter than GSA as a whole due to the fact that many TTS clients may have more exhaustive receipt requirements than GSA; sometimes we need to provide these receipts to them in order to be reimbursed.
+
+### Receipt guidelines for specific expenses
 
 * Hotels: a receipt including a full breakout of nightly rate and lodging tax where applicable is required.
 
-* Taxis: receipts for taxis, regardless of amount, is required.
+* Taxis (including Uber, Lyft, and other rideshare services): receipts for taxis, regardless of amount, are required.
 
 * Public transportation: receipts for all public transit expenses are preferred, however receipts for expenses over $25 are required.
 
 * Parking: receipts for all parking are preferred, however receipts for all parking over $25 are required.
 
 * Checked baggage: receipts for all baggage charges are required.
+
+* Internet: receipts for all internet-related expenses are required. Hotel wifi is generally non-reimbursable given that GSA pays for data plans that should offer a connection of sufficient strength, extensive justification is required for any wifi purchased outside of air travel.
 
 * Tolls: receipts for all tolls over $25 are required. For tolls under that amount, attaching a map of your itinerary indicating that payment of tolls was required is sufficient.
 

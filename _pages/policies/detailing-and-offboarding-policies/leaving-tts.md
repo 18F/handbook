@@ -29,9 +29,11 @@ Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messa
 
 ### 4. Review benefits paperwork
 
-Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
+* Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
 
-You should also review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
+* Ensure your home address is correct in [Employee Express](https://www.employeeexpress.gov/) and consider switching your W2 delivery to Hard Copy.
+
+* Review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
 
 If you have any questions, please contact Karen Addison or [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
 
