@@ -35,13 +35,6 @@ Learn about optional working groups and guilds that work on internal guidelines 
 **When:** Second Monday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#wg-working_groups](https://gsa-tts.slack.com/messages/wg-working_groups)
 
-### <a id="OKRs" href="/objectives-key-results/">OKRs</a>
-
-Everyone at 18F fills out a performance plan and OKRs. Learn how to set yours up and where to go if you need help.
-
-**When:** Third Monday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
-**Tags:** [#questions](https://gsa-tts.slack.com/messages/questions)
-
 ### <a id="design-team" href="/design">Introduction to the Design Team</a>
 
 Learn about user-centered design and hear what the design team is up to! You’ll get an overview of the team, their projects, and how to find them on Slack.
