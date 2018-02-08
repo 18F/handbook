@@ -1,38 +1,29 @@
 # Organization
 
-CivicActions is organized into several types of organizational units. These come in 2 major categories - cross-functional and functional groups.
+CivicActions is organized into several types of groups.
 
-These two categories form a matrix and a symbiotic relationship that enhances learning, coordination and efficiency across the company.
+These form symbiotic relationships that enhance learning, coordination and efficiency across the company.
 
-## Cross-functional
+## Departments
 
-Cross-functional groups are the primary teams and primary focus of everyone at CivicActions.
+Permanent operational teams such as sales and marketing - responsibility for making decisions, allocating resources and achieving company-wide goals.
 
-You can identify a cross-functional group because it is typically:
-* Comprised of people from different disciplines and with different skills.
-* Engaged in serious work: the team has a backlog, deliverables and deadlines.
-* Meeting frequently - normally daily.
+## Internal projects
 
-### Working groups
+Temporary teams initiated to achieve a specific goal - for example delivering a sales proposal, marketing event or internal infrastructure.
 
-These are permanent teams that are similar to typical company departments such as management, marketing, sales, delivery and IT/IS. They have responsibility for making decisions, allocating resources and achieving company-wide goals.
+## Delivery projects
 
-### Internal projects
+Client specific projects and service specific teams that deliver value to clients and generate revenue.
 
-These are temporary projects initiated by a working group to achieve a specific goal - for example delivering a sales proposal, marketing event or internal infrastructure.
+## Service areas
 
-### Delivery projects
+Client facing: works across departments and delivery to develop, market, sell, deliver and grow a set of related services and build the team that delivers those services.
 
-These are client projects initiated by sales and managed by delivery.
+## Practice areas
 
-## Functional
+Internal facing: self-organized group oriented around a specific practice or craft - oriented towards learning, continuous improvement and cross-pollination of ideas and best practice across the company.
 
-Functional groups are the means by which we develop expertise and learning as well as ...
+## Pods
 
-### Service areas
-
-A service area is the group of people involved with a particular service or set of services that we deliver. 
-
-### Practice areas
-
-A group based around a practice or craft, like project management, engineering, sales etc - orientation towards learning and cross-pollination of ideas. Practice areas can be started and run by anyone. Cross pollination can happen within the practice (but across projects & working groups), to/from other practice areas or to broader sharing spaces (e.g. the engineering call or AHC).
+Group supporting culture, connectedness and personal growth across distributed teams.
