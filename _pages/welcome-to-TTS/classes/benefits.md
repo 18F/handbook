@@ -6,9 +6,15 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 
 ### Submitting benefit forms
 
+#### New Hire
 Email [CPC.employeedocuments@gsa.gov](mailto:CPC.employeedocuments@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).
 
-When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).  
+#### Current Employee
+Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) and CC Phyllis Thomas when you're submitting documents due to a chancge in life event (ie getting married, having a child, etc).
+
+Phyllis' contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+
+*NOTE:* When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).  
 
 
 ### Benefits contacts
