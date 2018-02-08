@@ -53,7 +53,7 @@ Daily scrum calls are project-specific meetings. These short meetings are a scru
 * Today: I plan to do this other thing.
 * Blockers: This is currently or potentially inhibiting me from doing what I'd like to do.
 
-For more specific information, see [Daily Scrum Calls](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md).
+For more specific information, see [Daily Scrum Calls](../../04-how-we-work/agile-practices/daily-scrum-calls.md).
 
 ### Retrospectives
 
@@ -61,19 +61,19 @@ Another project-specific meeting is the retrospective (called a retro, for short
 
 The idea behind the retro is pretty simple: This meeting provide an opportunity for the team to reflect on how it's working. Like standups, retros are another project-governance meeting.
 
-For more specific information on Retrospectives, see [Sprint Retrospectives](../../04-how-we-work/agile-baseline/02-process/practices/sprint-retrospectives.md).
+For more specific information on Retrospectives, see [Sprint Retrospectives](../../04-how-we-work/agile-practices/sprint-retrospectives.md).
 
 ### Sprint planning
 
 The last project-specific meeting is sprint planning. Sprint planning takes many forms at CivicActions, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint.
 
-For more specific information, see [Sprint Planning Meetings](../../04-how-we-work/agile-baseline/02-process/practices/sprint-planning-meetings.md).
+For more specific information, see [Sprint Planning Meetings](../../04-how-we-work/agile-practices/sprint-planning-meetings.md).
 
 ### Backlog grooming
 
 Backlog Grooming meetings are a chance to update and prioritize stories in the product backlog so that we know what's available for upcoming sprints.
 
-For more detail, read our  [Backlog grooming](../../04-how-we-work/agile-baseline/02-process/practices/backlog-grooming.md) page.
+For more detail, read our  [Backlog grooming](../../04-how-we-work/agile-practices/backlog-grooming.md) page.
 
 ## Tools
 

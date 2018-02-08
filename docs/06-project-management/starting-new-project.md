@@ -47,7 +47,7 @@ See [Kickoff Meeting Agenda template](https://docs.google.com/document/d/1pmOruj
 * Overall Project plan
 * Communication / Escalation plan - internal and external facing
 * Schedule Status Meetings with client
-* Schedule [scrum calls](../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md)
+* Schedule [scrum calls](../04-how-we-work/agile-practices/daily-scrum-calls.md)
 * Risk tracking / mitigation plan
 * Identify key stakeholders
 * Set up first Status Report

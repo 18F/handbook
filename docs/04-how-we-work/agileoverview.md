@@ -6,5 +6,5 @@ CivicActions uses agile practices.
 * Watch this [Agile video](https://www.commoncraft.com/video/agile-methodology)
 * Join the Agile Gov Leadership group via its [website](http://www.agilegovleaders.org/) and [LinkedIn](https://www.linkedin.com/grp/home?gid=6642487)
 * Skim CivicActions blog posts tagged as [Agile](http://www.civicactions.com/category/agile).
-* For a deeper dive, visit our [agile-baseline documentation](agile-baseline/introduction.md).
+* For a deeper dive, visit our [agile-practices documentation](agile-practices/README.md).
 * Check out the [CivicActions project playbook](https://trello.com/b/qyI4wa18/template-civicactions-project-playbook)

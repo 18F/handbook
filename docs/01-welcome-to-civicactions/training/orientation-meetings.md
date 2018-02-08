@@ -53,7 +53,7 @@
 * How to log onboarding time:
     * Log your time in the CivicActions Harvest project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description
     * Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
-    
+
 
 ### Communication Tools
 
@@ -90,12 +90,12 @@
 
 ### Project Overview Info & Some How We Work Info
 
-* Relevant project introductions: Connect with appropriate person to walk through each project to discuss the project and its goals, the product owner, stakeholders, team members, technologies, ticket review, project status, etc. 
-* Introduction to the [Scrum call structure](../../04-how-we-work/agile-baseline/02-process/practices/daily-scrum-calls.md)
+* Relevant project introductions: Connect with appropriate person to walk through each project to discuss the project and its goals, the product owner, stakeholders, team members, technologies, ticket review, project status, etc.
+* Introduction to the [Scrum call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
 * Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retrospectives)
 * Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 * Read about the [gold star program](../../04-how-we-work/gold-star-program.md)
-* Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher. 
+* Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
 
 ### Virtual Workplace Basics
 
@@ -152,8 +152,8 @@
 
 ### UX for Everyone
 
-* [Story mapping/Stories On Board](../../04-how-we-work/agile-baseline/03-methods/1-research/story-mapping-guide.md)
-* [Wireframing and MyBalsamiq](../../04-how-we-work/agile-baseline/03-methods/2-design/wireframing-guide.md) ([Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE))
+* [Story mapping/Stories On Board](../../10-ux/services/research/story-mapping-guide.md)
+* [Wireframing and MyBalsamiq](../../10-ux/services/design/wireframing-guide.md) ([Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE))
 
 ## Day 4 (spill over day)
 
