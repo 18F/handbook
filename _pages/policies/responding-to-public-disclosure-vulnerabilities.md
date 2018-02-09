@@ -51,7 +51,7 @@ The first responder will communicate directly with the Infrastructure Lead, who 
 
 If the report is `n/a`, send the appropriate message:
 
-* **Not in scope:** "Thanks for contacting us. However, this report falls outside of our scope as described at https://18f.gsa.gov/vulnerability-disclosure/. [_Add additional details as helpful._]"
+* **Not in scope:** "Thanks for contacting us. However, this report falls outside of our scope as described at https://18f.gsa.gov/vulnerability-disclosure-policy/. [_Add additional details as helpful._]"
 * **No impact:** "Thanks for sending us this report. However, we have determined that the impact of this issue is not significant. Please feel free to provide additional information that indicates the issue is of higher severity, and we'll be happy to re-evaluate it."
 * **Not enough information:** "Thanks for sending us this report. However, it does not contain enough information for us to reproduce the issue and evaluate its severity. If you can send us additional information, we'll be happy to evaluate the issue."
 
