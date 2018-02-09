@@ -16,7 +16,7 @@ Temporary teams initiated to achieve a specific goal - for example delivering a 
 
 Client specific projects and service specific teams that deliver value to clients and generate revenue.
 
-## Service areas
+## [Service areas](service-areas/README.md)
 
 Client facing: works across departments and delivery to develop, market, sell, deliver and grow a set of related services and build the team that delivers those services.
 

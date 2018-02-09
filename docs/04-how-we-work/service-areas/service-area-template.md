@@ -1,11 +1,11 @@
 # TEMPLATE Service Area
 
-# Vision
+## Vision
 
-# Scope
+## Scope
 
-# Services
+## Services
 
-# Marketing
+## Marketing
 
-# Sales
+## Sales
