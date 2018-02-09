@@ -39,7 +39,21 @@ If you have any questions, please contact Karen Addison or [cpc.benefits-retirem
 
 Karen's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
-### 5. Return your equipment
+### 5. Update your accounts
+
+* Make sure that you aren't the superuser, sole owner, approver, admin, etc. for Tock, important calendars, Google Groups, critical documents, or processes.
+  * Move Google Drive files to shared folders, when appropriate
+
+* Move all calendar invites off your calendar. Nothing worse than an orphaned meeting!
+
+* Log your final Tock hours.
+
+* Make a list of the approved software that you downloaded or were issued (not necessary to note the pre-installed software).
+  * Unregister the software that you're able to 
+  * Provide the list of remaining registered software to the Offboarding Lead during the scheduled offboarding meeting
+
+
+### 6. Return your equipment
 
 When you leave TTS, you are responsible for returning all TTS issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
 
