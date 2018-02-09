@@ -7,7 +7,9 @@ The lead is responsible for guiding the overall vision and strategy of the servi
  * Manage the service area as a whole to meet KPI targets.
  * Seeks to understand client needs, technical trends, sales/recruiting market trends and competative strengths and weaknesses.
  * Establishes and socializes a vision for service area.
- * Works across the team to develop, select and implement strategies that increase quality, learning and profitability for the service area.
+ * Cultivates a culture of balance, learning and continuous improvement.
+ * Works across the team to develop, select and implement strategies that increase quality and profitability for the service area.
+ * Participate in delivery management and operations calls as needed.
 
 ## Marketing
  * Identify potential marketing opportunities aligned with our "white hat" approach.
@@ -20,16 +22,18 @@ The lead is responsible for guiding the overall vision and strategy of the servi
  * Provide support, training and editorial review to ensure high-quality, competative bids.
  * Work with Sales leads to establish and maintain partner and agency relationships as needed.
 
-## Recruiting
+## Recruiting/Onboarding
  * Write job descriptions.
  * Work with managment and project teams to review applications, interview and select candidates.
+ * Assigning mentors to new hires.
 
 ## Delivery
  * Understand skills, abilities and interests of current team.
  * Work with delivery manager and PM group to fill project needs and resolve conflicting needs.
+ * Check-in with team members as needed.
 
 ## Other
- * Works with IT to plan and resource any internal infrastructure or software needs.
+ * Works with IT to plan and resource any internal infrastructure needs.
  * Works with Legal and Compliance to identify legal and compliance risks across service area projects and implement policies and tools to mitigate.
- * Works with Administration as needed.
+ * Works with Administration as needed (e.g. software licences).
  * Works with ProDev to identify training and certification needs and opportunities.
