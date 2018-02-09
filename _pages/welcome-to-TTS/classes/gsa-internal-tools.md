@@ -80,7 +80,7 @@ After you've created your leave request, add your planned absence to the shared 
 
 We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  Finally, please note that ALOHA is GSA&rsquo;s system and separate from Tock, which is 18F&rsquo;s own timekeeping system. If you&rsquo;re taking time off, you&rsquo;ll need to make sure you&rsquo;re accounted for in both.
 
-Please do not use ALOHA to document jury duty. If you&rsquo;ve been summoned for jury duty, get in contact with your time keeper and add an event to the &ldquo;18F Out of Office&rdquo; calendar.
+Please do not use ALOHA to document jury duty. If you&rsquo;ve been summoned for jury duty, get in contact with your [time keeper](https://goo.gl/ZF8Fw2) and add an event to the &ldquo;18F Out of Office&rdquo; calendar.
 
 Some remote employees have had difficulty accessing ALOHA. If you&rsquo;re one of them, please [ping Leah Gitter on Slack](https://gsa-tts.slack.com/messages/leahgitter/) with the dates you took (or need to take) leave and the type of leave you took. Leah will make sure to get your request logged.
 
