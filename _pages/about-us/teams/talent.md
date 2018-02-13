@@ -26,23 +26,26 @@ Candidates should apply to open positions [here](https://18f.gsa.gov/join/).
 * Slack: 
   * [#talent](https://gsa-tts.slack.com/messages/talent/)  
 * Email:
-  * [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) - emails entire Talent Team (primarily for internal use) 
+  * [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) - to email the Talent Team with your request 
   * [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team (primarily for public use)
 
 ## What we do
 
-* Talent Acquisition: We help identify, target, and attract talented, diverse candidates to apply to join 18F.
-* Talent Engagement: We help our applicants move through the official GSA hiring process by liaising with HR.
-* Talent Analytics and Strategy: We work on our own processes to solve real problems and ensure that we are doing so in an agile and sustainable way.
-* Talent Integration: 
-* Talent Operations: 
+* Talent Acquisition: We help identify, target, and attract talented, diverse candidates to apply to TTS.
+* Talent Engagement: We partner with our hiring managers to execute hiring actions and guide candidates from job preparation through selection.
+* Talent Analytics and Strategy: We utilize data to continuously improve the Talent Team’s work-systems and ensure that we are doing so in an agile and sustainable way.
+* Talent Integration: We are responsible for the development, management, and implementation of the TTS onboarding, offboarding and knowledge management programs.
+* Talent Operations: We work with TTS employees to help them with people related matters such as details, reassignments, employment issues, and HR related matters.
 
 ## What we're working on 
 
 * [Talent Acquisition Work System Trello Board](https://trello.com/b/9pBVgO1G/talent-acquisition-work-system)
+  * XXXX[Add brief description]XXXX 
   * [Talent Acquisition Work System Guide](https://docs.google.com/document/d/1O0EGxI5s9eSuMdTJEr1u9ZrSn9YIBBFcoDKYN1OfyqE/edit)
-* [TTS Talent Ops Trello Board](https://trello.com/b/eRsP7LQB/tts-talent-ops-work-board)
 * [TTS Talent Onboarding Trello Board](https://trello.com/b/0t1Qu6ey/tts-talent-onboarding)
+  * XXXX[Add brief description]XXXX
+* TTS Talent Ops Trello Board (internal use only due to PII)
+  * XXXX[Add brief description]XXXX
 
 ---
 
