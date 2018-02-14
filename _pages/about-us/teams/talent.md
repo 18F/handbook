@@ -19,7 +19,7 @@ To empower the organization with the means and information to fully utilize the 
   
 ## Applying to open positions
 
-Candidates should apply to open positions [here](https://18f.gsa.gov/join/).
+Candidates should apply to open positions [here](https://join.tts.gsa.gov/).
 
 ## How to get in touch
 
