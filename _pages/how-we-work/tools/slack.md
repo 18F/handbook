@@ -77,6 +77,9 @@ An admin will then do one of the following:
     * [Disable their 2FA](https://get.slack.help/hc/en-us/articles/212221668-Require-two-factor-authentication-for-your-team).
         * ...unless you know they were using their personal device for 2FA — we don't want them to be locked out.
     * [Change their email](https://get.slack.help/hc/en-us/articles/225531168-Change-a-team-member-s-email-address) to their personal address
+    
+*NOTE: When a TTS Slack user is converted to a Single-channel user, they maintain access to their direct message chat history but are unable to search for or create new direct messages with folks that they've never messaged before.  Unless another channel is specified, the only channel that will still be accessible is #alumni.
+
 * **[Deactivate their account.](https://get.slack.help/hc/en-us/articles/204475027-Deactivate-a-team-member-s-account)**
 
 If they were a partner, the admin will also set their `Downgraded/disabled on` date in [the user request spreadsheet](https://docs.google.com/spreadsheets/d/1weEbuD1RUqtwTiHCT_roD6tvKkBiQL5nkLe8btxyKHA/edit#gid=1249016991).
