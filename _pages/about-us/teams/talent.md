@@ -40,7 +40,7 @@ Candidates should apply to open positions [here](https://join.tts.gsa.gov/).
 ## What we're working on 
 
 * [Talent Acquisition Work System Trello Board](https://trello.com/b/9pBVgO1G/talent-acquisition-work-system)
-  * XXXX[Add brief description]XXXX 
+  * This is a Kanban work system implemented to provide talent with a way to manage demand & capacity, create visibility & transparency for our clients, establish predictability and identify opportunities for improvement. 
   * [Talent Acquisition Work System Guide](https://docs.google.com/document/d/1O0EGxI5s9eSuMdTJEr1u9ZrSn9YIBBFcoDKYN1OfyqE/edit)
 * [TTS Talent Onboarding Trello Board](https://trello.com/b/0t1Qu6ey/tts-talent-onboarding)
   * XXXX[Add brief description]XXXX
