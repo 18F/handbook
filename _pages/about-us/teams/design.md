@@ -174,7 +174,7 @@ We default to free and open-source assets, unless there is a very, very good rea
 
 ## Designing in the open
 
-[18F values transparency](https://pages.18f.gov/core-values/transparency/). We try to design in the open, which means trying to make as much documentation and decision-making as possible accessible to the public. Designing in the open means that expectations from private sector about confidentiality, disclosure, and intellectual property don’t hold true here.
+We try to design in the open, which means trying to make as much documentation and decision-making as possible accessible to the public. Designing in the open means that expectations from private sector about confidentiality, disclosure, and intellectual property don’t hold true here.
 
 Here are some of our rules of thumb:
 
