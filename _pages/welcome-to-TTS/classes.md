@@ -3,20 +3,20 @@ title: Classes
 slack-channel: newcomers
 ---
 
-18F&rsquo;s classes are designed with new hires in mind (they&rsquo;re signed up for *all* of them) but are open to everyone. Classes take place in Slack ([#18f-classes](https://gsa-tts.slack.com/messages/18f-classes/)) and times listed are in ET. Some classes are monthly; others are offered twice a month.
+TTS classes are designed with new hires in mind (they&rsquo;re signed up for *all* of them) but are open to everyone. Classes take place in Slack ([#TTS-classes](https://gsa-tts.slack.com/messages/TTS-classes/)) and times listed are in ET. Some classes are monthly; others are offered twice a month.
 
 ## <a id="mondays">Mondays</a>
 
 ### <a id="accessibility" href="/accessibility">Accessibility</a>
 
-18F ensures that all of our products are 508-compliant before shipping (as required by law). Learn the basics of accessibility and how to test anything you’ve built.
+TTS ensures that all of our products are 508-compliant before shipping (as required by law). Learn the basics of accessibility and how to test anything you’ve built.
 
 **When:** First Monday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility)
 
 ### <a id="remote-work" href="/distributed">Remote work: tools and strategies</a>
 
-18F is a distributed team, and we’ve developed strategies for working outside of an office (or working with someone who works outside of an office). Come and learn tips and tricks for working on a distributed team.
+TTS is a distributed team, and we’ve developed strategies for working outside of an office (or working with someone who works outside of an office). Come and learn tips and tricks for working on a distributed team.
 
 **When:** Third Monday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#distributed](https://gsa-tts.slack.com/messages/distributed)
@@ -135,9 +135,9 @@ Even if you don’t plan to travel much in the federal government, it’s import
 **When:** Last Thursday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#travel](https://gsa-tts.slack.com/messages/travel)
 
-### <a id="github-18F-site" href="/intro-to-github">Introduction to GitHub and 18F site</a>
+### <a id="github-18F-site" href="/intro-to-github">Introduction to GitHub</a>
 
-We use GitHub to share code, communicate, and collaborate on projects. Learn how 18F uses GitHub and add your bio and picture to the 18F site.
+We use GitHub to share code, communicate, and collaborate on projects.
 
 **When:** Every other Thursday ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#18f-site](https://gsa-tts.slack.com/messages/18f-site), [#dev](https://gsa-tts.slack.com/messages/dev)
@@ -151,7 +151,7 @@ Where did 18F come from? Who do we partner with? Join us for a discussion about 
 
 ### <a id="recruiting">How does recruitment work at 18F?</a>
 
-You have a friend who wants to join 18F. You’re wondering how recruitment works, or you’d like to start interviewing candidates. Team #talent will explain exactly how the process works.
+You have a friend who wants to join TTS. You’re wondering how recruitment works, or you’d like to start interviewing candidates. Team #talent will explain exactly how the process works.
 
 **When:** Fourth Thursday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#talent](https://gsa-tts.slack.com/messages/talent)
@@ -161,7 +161,7 @@ You have a friend who wants to join 18F. You’re wondering how recruitment work
 
 ### <a id="product-team" href="/intro-to-product-and-open-source">Introduction to the Product Team and open source software</a>
 
-Learn about the product team and why 18F makes all of its software open source.
+Learn about the product team and why TTS makes all of its software open source.
 
 **When:** Third Friday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#product](https://gsa-tts.slack.com/messages/product)
@@ -198,6 +198,6 @@ What does Engineering do? What are they responsible for? Learn where they hang o
 
 #### Still have questions?
 
-Check out the [18F Classes Google Calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York) for more details. To add the 18F Classes calendar if you can't find it, paste this into the “Add a coworker’s calendar” field in your calendar left-hand menu: `gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com`.
+Check out the [TTS Classes Schedule](https://www.google.com/calendar/b/1/embed?src=https://calendar.google.com/calendar/embed?src=gsa.gov_gi2e1fc66fh4v5in8ogsm0v8oo%40group.calendar.google.com&ctz=America%2FChicago) in Google Calendar for exact times. (If you can’t find it, copy and paste [this address](gsa.gov_gi2e1fc66fh4v5in8ogsm0v8oo@group.calendar.google.com) into the “Add a coworker’s calendar” field under “Other calendars”.)
 
 Ask in Slack: [#newcomers](https://gsa-tts.slack.com/messages/newcomers)
