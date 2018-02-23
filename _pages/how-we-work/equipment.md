@@ -23,8 +23,6 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 ### Rules
 
-**Install [ClamXav](/clamxav)** immediately. This is your antivirus software.
-
 **[Require a password](http://support.apple.com/kb/PH18669?viewlocale=en_US)** when your computer goes to sleep or shows a screensaver.
 
 **Lock your computer before leaving it.** Press the **Control + Shift + Power** keys on newer MacBooks or **Control + Shift + Eject** on older MacBooks with optical drives. If you use Alfred, you can open Alfred and type lock.
