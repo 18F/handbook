@@ -273,9 +273,6 @@ navigation:
     - text: AnyConnect
       url: anyconnect/
       internal: true
-    - text: ClamXav
-      url: clamxav/
-      internal: true
     - text: Federalist
       url: federalist/
       internal: true
