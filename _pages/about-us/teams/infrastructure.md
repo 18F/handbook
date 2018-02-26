@@ -68,9 +68,8 @@ The Infrastructure team provides guidance and support for the entire lifecycle o
 
 Here are some common tools we use, how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your lead; they’ll be able to point you in the right direction.
 
-* Sublime Text: Contact @kimber on Slack.
-* RubyMine: Contact @kimber on Slack.
-* [ClamXav](/clamxav)
+* Sublime Text
+* RubyMine
 * [Slack](/slack)
 * [GitHub](/github)
 * New Relic
