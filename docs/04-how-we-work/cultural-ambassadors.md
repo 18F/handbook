@@ -1,4 +1,4 @@
-#  Cultural Ambassadors
+# Cultural Ambassadors
 
 Cultural Ambassadors are responsible for creating one-on-one connections with team members, 
 checking in on their feelings of inclusiveness, and addressing any social or higher level technical issues they are having.  
@@ -7,7 +7,7 @@ This role was created out of a need for our growing organization to ensure that 
 acclimate to our open culture and so that all team members have the option of getting support from a designated person that
 is not their manager or project manager.
 
-#  Responsibilities 
+# Responsibilities 
 
 * Create a safe atmosphere: Check in about connectedness to team, learn about each person, help them feel like they have someone 
 who they can ping if they have a question about CivicActions culture who is never going to be too busy or impatient to deal 
