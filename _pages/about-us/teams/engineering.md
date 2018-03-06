@@ -57,7 +57,7 @@ Supervisors are selected through nominations and interviews according to team ne
 
 ### Director
 
-The Director of Engineering is Holly Allen, and she is responsible for the Engineering Chapter. The Director represents the chapter on the Senior Management Team of 18F, is responsible for the strategic planning of the chapter including hiring approach, capacity planning, and expanding the impact of the chapter and engineers’ work. The Director guides the work of the Functional Leads (backend, frontend, ops, security, diversity) to ensure alignment with strategy and each other. The Director has as direct reports the Engineering Supervisors, and acts as mentor, coach, and guide to their work. The Director is ultimately responsible for the success of the chapter in the context of the 18F mission and organizational priorities.
+The Director of Engineering is responsible for the Engineering Chapter. The Director represents the chapter on the Senior Management Team of 18F, is responsible for the strategic planning of the chapter including hiring approach, capacity planning, and expanding the impact of the chapter and engineers’ work. The Director guides the work of the Functional Leads (backend, frontend, ops, security, diversity) to ensure alignment with strategy and each other. The Director has as direct reports the Engineering Supervisors, and acts as mentor, coach, and guide to their work. The Director is ultimately responsible for the success of the chapter in the context of the 18F mission and organizational priorities.
 
 The Director was selected through nominations and interviews. While there is no additional compensation for being a director, it’s an opportunity to help make team members’ time at 18F great.
 
