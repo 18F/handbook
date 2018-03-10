@@ -556,7 +556,7 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 .page{ padding-top: 1em; }
 
 .page .wrapper{
-	max-width: 960px;;
+	max-width: 960px;
 }
 
 /*.page .page-title,
