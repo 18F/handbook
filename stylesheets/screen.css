@@ -559,26 +559,6 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 	max-width: 960px;
 }
 
-/*.page .page-title,
-.page h1,
-.page h2,
-.page h3,
-.page h4,
-.page h5,
-.page nav,
-.page figure,
-.page p,
-.page ul,
-.page ol,
-.page dl,
-.page li{
-	line-height: 1.4em;
-	margin: 0 auto 0.7em;
-	max-width: 640px;
-	width: 90%;
-}*/
-
-
 .page td{ line-height: 1.4em; }
 
 .page h1,
@@ -663,7 +643,6 @@ a[id]{
 	line-height: 1.3em;
 	font-family: Merriweather, Georgia;
 	color: #c56815;
-	/*max-width: 640px;*/
 	margin: 28px 0 16px;
 }
 
@@ -699,21 +678,8 @@ a[id]{
 	padding-left: 1em;
   margin-left: 1rem;
 	position: relative;
-	/*max-width: 640px;*/
-	/*margin: 0 auto;*/
   border-left: 3px solid #e3e3e3;
 }
-
-/*.page blockquote::after{
-	content: "";
-	position: absolute;
-	left: 1px;
-	top: 0;
-	bottom: 0;
-	width: 3px;
-	background: #e3e3e3;
-	border-radius: 3px;
-}*/
 
 .page blockquote p{
 	font-family: Merriweather, Georgia, serif;
@@ -789,9 +755,7 @@ a[id]{
 	border: none;
 	height: 0.2em;
 	margin: 2em 0;
-	/*margin-bottom: 2em;*/
 	background: #f2f1ec;
-	/*width: 90%;*/
 	max-width: 66ch;
 }
 
@@ -814,17 +778,6 @@ a[id]{
 	table-layout: fixed;
 	box-shadow: 0 0 0 2px #fafafa;
 }
-
-/*.page .table-wrapper{
-	margin: 0 auto 1.8em;
-	padding-bottom: 0.2em;
-	max-width: 90%;
-	overflow: auto;
-}
-
-@media screen and (min-width: 711.11px){
-	.page .table-wrapper{ max-width: 640px; }
-}*/
 
 .page table tbody tr:first-child td:first-child{
 	border-radius: 3px;
