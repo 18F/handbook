@@ -52,7 +52,7 @@ If you’re traveling for a particular project as a member of 18F or the TTS Off
 
 If you have travel questions, you can ask them in [#travel](https://gsa-tts.slack.com/messages/travel), write to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or simply book time during TTS travel team [office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/) Monday through Friday from **11:30 to 12:30 PM** and again from **3:30 to 4:30 PM** (All times Eastern). All questions will be answered within one business day-- please avoid asking travel questions via DM :)
 
-The travel team also approves [authorizations](/travel-101/#authorizations) (request to travel) every afternoon. Please ensure that you have submitted your travel request following the guidance above before 3:30 PM Eastern so that approval may be finalized before the close of the business day. Travel submitted after hours will not be approved until the next business day.
+The travel team also approves [authorizations](/travel-101/#securing-an-authorization-to-travel) (request to travel) every afternoon. Please ensure that you have submitted your travel request following the guidance above before 3:30 PM Eastern so that approval may be finalized before the close of the business day. Travel submitted after hours will not be approved until the next business day.
 
 *Note:* Authorizations will be addressed within a day of being submitted, but vouchers (requests for reimbursement) may take up to 5 business days since they are handled them as the remaining travel approval time on the office hours calendar permits.
 

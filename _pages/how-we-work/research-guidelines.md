@@ -42,7 +42,7 @@ We work in the open, but we need to be mindful of discussing agency partners, co
 
 ### What is PII? 
 
-PII is any piece of data, singly or in combination, that can identify unique individuals. PII is defined contextually. So a full name given without context, such as "Elizabeth Goodman," may not necessarily be PII. It's a common name, after all. "Elizabeth from GSA" is not necessarily PII, either. There are a lot of people named Elizabeth who work for the GSA. But "Elizabeth at 18F" is _definitely_ PII. There's only one. For that reason, Social Security Numbers, Alien Registration Numbers, and driver's license numbers are always PII. Email addresses, phone numbers, and mailing addresses are sometimes PII, and presented in combination with a first name often become PII. Photos of people's faces are almost always PII, and that's why we always ask before taking photos, and we get explicit statements about we can share them. [Sensitive PII](https://pages.18f.gov/before-you-ship/privacy/pii/) is information which, if shared, could seriously harm or embarrass someone. Unique identifying numbers and biometric data is always sensitive: In general, combining:
+PII is any piece of data, singly or in combination, that can identify unique individuals. PII is defined contextually. So a full name given without context, such as "Elizabeth Goodman," may not necessarily be PII. It's a common name, after all. "Elizabeth from GSA" is not necessarily PII, either. There are a lot of people named Elizabeth who work for the GSA. But "Elizabeth at 18F" is _definitely_ PII. There's only one. For that reason, Social Security Numbers, Alien Registration Numbers, and driver's license numbers are always PII. Email addresses, phone numbers, and mailing addresses are sometimes PII, and when presented in combination with a first name, often become PII. Photos of people's faces are almost always PII, and that's why we always ask before taking photos and get explicit statements about if we can share them. [Sensitive PII](https://before-you-ship.18f.gov/privacy/) is information which, if shared, could seriously harm or embarrass someone. Unique identifying numbers and biometric data is always sensitive: In general, combining:
 
 - Citizenship or immigration status
 - Ethnic or religious affiliation
@@ -72,5 +72,5 @@ Carefully restricting access to personally identifiable information is a matter 
 
 ## Join the research guild!
 
-The Guild talks in [#research](https://gsa-tts.slack.com/archives/research) and meets once a week to discuss the theory and practice of asking questions. The current guild leaders are [Colin MacArthur](https://gsa-tts.slack.com/team/colinpmacarthur) and [Joanne McGovern](https://gsa-tts.slack.com/team/joannemcgovern).
+The Guild talks in [#research](https://gsa-tts.slack.com/archives/research) and meets once a week to discuss the theory and practice of asking questions. The current guild leader is [Joanne McGovern](https://gsa-tts.slack.com/team/joannemcgovern).
 
