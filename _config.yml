@@ -333,9 +333,6 @@ navigation:
     - text: VMware Horizon
       url: vmware-horizon/
       internal: true
-    - text: Waffle
-      url: waffle/
-      internal: true
     - text: Zoom
       url: zoom/
       internal:  true
