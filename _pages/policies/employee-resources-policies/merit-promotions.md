@@ -23,7 +23,7 @@ In most cases, an open internal position is advertised to existing employees (on
 
 There are a number of standard principles that guide merit promotion  determination. One common standard is nondiscrimination. A merit promotion does not discriminate with regard to race, gender, religion or age. It is not given on the basis of a person's affiliations, nor is it given automatically. Employees are retained and promoted based on their work performance.
 
-The [Merit System Principles](https://hru.gov/Studio_Recruitment/HT_01_Merit_System_Principles.aspx_) are nine basic standards governing the management of the executive branch workforce. These principles are considered to be the core values referenced in every human resource decision, including merit promotions.
+The [Merit System Principles](https://hru.gov/Studio_Recruitment/HT_01_Merit_System_Principles.aspx) are nine basic standards governing the management of the executive branch workforce. These principles are considered to be the core values referenced in every human resource decision, including merit promotions.
 
 
 ## Attitude of fairness
