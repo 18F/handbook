@@ -1,30 +1,27 @@
 ---
 title: Intro to Product and open source
 navtitle: Product and open source
+tags:
+- product guide
+- guide
+- product manager
 ---
 
-_I&rsquo;m Gray Brooks. I work on the Product team, focusing on APIs and open source._
-
-So, I wear a couple hats formally and then a number of other hats informally.
-Right now, I&rsquo;d like to talk about the Product Team and open source, but I&rsquo;m also deeply passionate about APIs, [website analytics](/google-analytics), 18F team dynamics, and effecting change in government. Those last ones I&rsquo;ll largely spare you from today, but holler anytime if you want to discuss.
+_Guide for the Product Team and how we utilize open source software at TTS_
 
 ## <a id="product-team">Product team</a>
 
-I&rsquo;m on the Product Team. Our job is to help facilitate each project. Generally, each billable project has a product manager whose job it is to take care of billing, logistics, and other details so the rest of the team can do its job. Some of us can code, but many (like myself) are instead more generalists. We also coordinate a team coming to a decision on how it wants to run itself (2 week sprints, 3 week sprints?) and ensures that scrum meetings/stand ups/whatever the team chooses happens. The Product Team hangs out in [#product](https://gsa-tts.slack.com/messages/product/).
+As a product manager at 18F, you will create or steward the product vision and strategy, and drive a cross-functional team to deliver the right product to the right audience. You will also focus on sustainability: Anything we build should empower our partner agencies to better meet their mission, be relatively easy for them to adopt and support, and be easy for end users to use. 
 
-Specifically, I&rsquo;m the Product Lead for [pulse.cio.gov](https://pulse.cio.gov) and [analytics.usa.gov](https://analytics.usa.gov). In both cases, my job is to handle loose details and keep the project moving forward, but beyond that to generally stay out of the way of the developers and designers doing the work.
+### How we work and what we do
 
-- Coordinate the assembly and passage of the inter-agency agreement.
-- Track burn rate (how fast we&rsquo;re spending money) and ensure we stay on budget.
-- Help the team decide how it wants to structure its sprints and track its issues.  
-- Ensure the appropriate amount of client inclusion.
-- Protect the team from the client (if they are too involved).  
-- Ensure that the project stays on schedule.
-- Ensure that we satisfy the formal requirements of the project.
+Check out the [Product Guide](https://product-guide.18f.gov/) for an in depth look at how we work and how we help our business partners.
+
+### How to get in touch with us
+
+The Product Team hangs out in [#product](https://gsa-tts.slack.com/messages/product/).
 
 You can see who is on the Product Team [on the org chart](/org-chart).
-
-We also have a [Product Guide](https://pages.18f.gov/product-guide/).
 
 ## <a id="open-source">Open source</a>
 
