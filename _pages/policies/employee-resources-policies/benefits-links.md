@@ -24,17 +24,15 @@ Dental and Vision Insurance | <http://www.benefeds.com>
 Long Term Care Insurance | <http://www.ltcfeds.com>
 Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service>
 
-## Human resources (HR)
+## Human resources (HR) Contacts
 
-### Karen Addison
+### Benefits and retirement-related questions
 
-Contact for benefits-related questions.  You can also reach out to [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
+Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov)
 
-Karen's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+### Leave policies and questions 
 
-### Gaydell Gould
-
-Contact for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
+Contact Gaydell Gould for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
 Gaydell's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
