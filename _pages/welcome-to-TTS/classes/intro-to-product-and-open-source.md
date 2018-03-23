@@ -11,15 +11,7 @@ _Guide for the Product Team and how we utilize open source software at TTS_
 
 ## <a id="product-team">Product team</a>
 
-The Product Team's job is to help facilitate each project. Generally, each billable project has a product manager whose job it is to take care of billing, logistics, and other details so the rest of the team can do its job. Some of us can code, but many are instead more generalists.  Here's an overview of Product Team responsibilities: 
-
-- Coordinate the assembly and passage of the inter-agency agreement.
-- Track burn rate (how fast we&rsquo;re spending money) and ensure we stay on budget.
-- Help the team decide how it wants to structure its sprints and track its issues.  
-- Ensure the appropriate amount of client inclusion.
-- Protect the team from the client (if they are too involved).  
-- Ensure that the project stays on schedule.
-- Ensure that we satisfy the formal requirements of the project.
+As a product manager at 18F, you will create or steward the product vision and strategy, and drive a cross-functional team to deliver the right product to the right audience. You will also focus on sustainability: Anything we build should empower our partner agencies to better meet their mission, be relatively easy for them to adopt and support, and be easy for end users to use. 
 
 ### How we work and what we do
 
