@@ -24,7 +24,7 @@ Dental and Vision Insurance | <http://www.benefeds.com>
 Long Term Care Insurance | <http://www.ltcfeds.com>
 Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service>
 
-## Human resources (HR) Contacts
+## Human resources (HR) contacts
 
 ### Benefits and retirement-related questions
 
