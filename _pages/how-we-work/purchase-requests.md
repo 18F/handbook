@@ -7,9 +7,7 @@ If you're looking to have TTS purchase anything that costs less than $3,500-- wh
 
 *Looking to have TTS make a purchase over $3,500? Read on more [here](#purchases-over-3500)*
 
-In order to use C2, you'll need to get your account set up. In order to do this, please visit [requests.18f.gov](https://requests.18f.gov) first and sign in with cloud.gov. **Agree and continue**, then go through the 2-Factor authentication process. This will log your information in the system.
-
-Then, write a brief message to [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov) or in [#c2-purchase-questions](https://gsa-tts.slack.com/messages/C0E1APHGU/): i.e. "Hi, I'd like to be set up in C2". Within 1 business day, you'll get a response confirming the approval of your account.
+In order to use C2, you'll need to get an account set up. Fill out the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfZfBRRO_mBz2wwBHJTufi6kWONQhc64otCAYBCKV8keDvXVA/viewform) and you will be set up within one business day. Once you are set up, please visit [requests.18f.gov](https://requests.18f.gov) first and sign in with cloud.gov. **Agree and continue**, then go through the 2-Factor authentication process. This will log your information in the system.
 
 You'll then be able to proceed to make either an event request (for trainings and conferences) or a purchase request (for anything else). All requests must be approved by a director before submitting in C2. This approval can come in the form of an SF-182 (for training and conferences) or simply an email that can be attached to the C2 request.
 
