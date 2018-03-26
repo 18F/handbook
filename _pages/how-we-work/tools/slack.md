@@ -43,6 +43,8 @@ You can invite government partners, contractors, etc. to specific project channe
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
 1. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
+A small number of close TTS collaborators at GSA may be full Slack members at the discretion of the head of infrastruture. Examples might include the Chief Information Officer or FAS Commissioner. Ask in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) if you'd like to add someone to this category.
+
 ### Friends
 
 Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a project](#external-collaborators) can be invited into [#friends](https://gsa-tts.slack.com/messages/friends/), or any of the [public channels](#the-public). Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
