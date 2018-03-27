@@ -7,11 +7,11 @@ tags:
 - relocating
 ---
 
-If you're moving to a different GSA region, please reference the "Process update" section below.  If you're moving within the same GSA region, please follow the steps in the "Change your address" section below.  <==== is the moving within the same GSA region process updated as well?
+If you're moving to a different GSA region, please reference the "Process update" section below.  If you're moving within the same GSA region, please follow the steps in the "Change your address" section below.  
 
 ## Process update
 
-The GSA process for moving regions has recently changed, and we are currently waiting for official guidance.  In the meantime, if you need to move, please reach out to the Talent Team via [Slack](https://gsa-tts.slack.com/messages/talent) or [email](mailto:tts-talentteam@gsa.gov).      
+The official GSA process for moving regions has recently changed, and we are currently drafting updated guidance.  In the meantime, if you need to move, please reach out to the Talent Team via [Slack](https://gsa-tts.slack.com/messages/talent) or [email](mailto:tts-talentteam@gsa.gov).      
 
 *Please note that full approval can take a significant period of time and is not guaranteed, so we highly recommend that you don't finalize plans to move until receiving full approval.* 
 
