@@ -20,9 +20,9 @@ A detail is when a person in one agency goes to work at another agency on a temp
 
 ## What you should know about Details
 
+* The Assistant Commissioner of your office must approve every detail request. Once The detail is approved it is the supervisor's responsibility to notify [Talent](mailto:TTS-TalentTeam@gsa.gov) and [Finance](mailto:18F-Finance-CS@gsa.gov) of the request; Talent will get Front Office approval
 * All details of GSA employees to other Federal agencies or departments should be reimbursable. Details within GSA may be reimbursable or non-reimbursable.
 * Non reimbursable details to external agencies are done on a case by case basis and must be reviewed by GSA’s Office of General Counsel for legal sufficiency.
-* The Assistant Commissioner of your office must approve every detail request. Once The detail is approved it is the supervisor's responsibility to notify [Talent](mailto:TTS-TalentTeam@gsa.gov) and [Finance](mailto:18F-Finance-CS@gsa.gov) of the request
 * Most agencies use the [7600A](https://drive.google.com/a/gsa.gov/file/d/0BynxjBcHPLcLcEMxVzlzRUYyeG8/view?usp=sharing) and [7600B](https://drive.google.com/a/gsa.gov/file/d/0BynxjBcHPLcLYTQ0T0ZNOGhoc0E/view?usp=sharing) forms, but some do not and require a memorandum of understanding (MOU) only.  If an agency chooses not to use the forms, then the MOU will need to contain the information in the 7600A and B forms.
 * The Servicing Agency initiates the paperwork.
 * The agreement is between agencies, not between staff and the receiving agency.
@@ -38,17 +38,21 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
 
 ## Detailing within TTS/GSA
 
-1. In order for Talent to process request, The employee’s Supervisor must have approvals from the AC of their office and the AC/Head of the office the employee will be detailed to
+1. In order for Talent to process the request, the employee’s Supervisor must have approvals from the AC of their office and the AC/Head of the office the employee will be detailed to
 
-2. Once approvals granted, Supervisor contacts TTS-TalentTeam@gsa.gov with the request and cc: Biz Ops (Amy Lawson) for awareness.  Email must contain following information:
+2. Then reach outto [TTS-Talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) to obtain Front Office approval
+
+3. Once approvals are granted, Supervisor contacts TTS-TalentTeam@gsa.gov with the request and cc: Biz Ops (Jackie Xu) for awareness.  Email must contain following information:
   * Employee Name
   * Office Symbol Employee is being detailed to
   * Reimbursable or Non-reimbursable
   * Detail Supervisor
   * Detail PD or “Unclassified Set of Duties”
-  * Effective Date (must fall on a pay period)
+  * Effective Date 
 
-3. Talent submits personnel action to HR and the employee may begin their detail on the effective date
+4. Talent submits personnel action to HR and the employee may begin their detail on the effective date
+
+5. The detail can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
 
 ## Detailing to Another Agency
 
@@ -59,6 +63,7 @@ ACTION | OWNER | TIME
 Employee informs supervisor | Employee | 1 business day
 Supervisor & AC approve request | Supervisor | 1 business day
 Supervisor notifies Talent of request | Supervisor | 1 business day
+Talent obtains Front Office approval | Talent | 5 business days
 Employee connects Talent PoC to Agency PoC | Employee | 1 business day
 Agency PoC sends Talent PoC forms (completed on their end) for Talent to complete | Agency PoC | 3 weeks
 Talent PoC completes forms | Talent | 1.5 weeks
@@ -78,7 +83,9 @@ Detailee able to onboard | Employee | As soon as all of the necessary approvals 
 ACTION | OWNER | TIME
 -------|-------|-----
 AC approves request | Supervisor | 1 business day
-Supervisor notifies talent of request and connects them to Agency PoC | Supervisor | 1 business day
+Supervisor notifies Talent & Finance of request | Supervisor | 1 business day
+Talent obtains Front Office approval | Talent | 5 business days
+Supervisor connects talent to Agency PoC | Supervisor | 1 business day
 Talent reaches out to Servicing Agency PoC| Talent | 2 business days
 Agency completes documents and returns to Talent PoC | Agency PoC | 3 weeks
 Talent completes Documents | Talent | 3 business days
@@ -98,9 +105,12 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
   * Interested employees should ask their supervisor for approval prior to submitting an application. Employees who are interested in full-time detail opportunities should also review [eligibility requirements](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTcxMTE1LjgwOTM2MzAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE3MTExNS44MDkzNjMwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3OTEzNzM0JmVtYWlsaWQ9amFjcXVlbGluZS5jb2xlbWFuQGdzYS5nb3YmdXNlcmlkPWphY3F1ZWxpbmUuY29sZW1hbkBnc2EuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&103&&&https://docs.google.com/a/gsa.gov/document/d/1O97XOFLEoO95yrxdyMKWmdapxVxZOlaEskAmFk-KkAA/edit?usp=sharing) to participate.
 * To be notified of new detail opportunities as they are posted, join the [GSA Project Network Chatter group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F930000000Tmc6&fromEmail=1)
 * Details are typically 120 days (or less) with the option to extend for an additional 120 days if both parties agree
+* Before accepting a detail the supervisor must obtain approval from the Assistant Commissioner (AC) of your office
+* Then reach out to [TTS-Talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) to obtain Front Office approval
 
 ## Posting a Detail Opportunity within GSA
-* If you are considering posting a detail opportunity you should first get approval from your supervisor and the Assistant Commissioner (AC) of your office
+* If you are considering posting a detail opportunity you should first get approval from your supervisor and the Assistant Commissioner (AC) of your office  
+* Then reach out to the [tts-talentteam@gsa.gov](mailto:TTS-talentteam@gsa.gov) to get Front Office approval
 * To post a detail opportunity, available to all of GSA, you will have to complete [this google form](https://insite.gsa.gov/portal/content/572010)
   * If the detail opportunity has a PD (series-title-grade) associated with it, then only applicants who are at or above that grade level are eligible to apply (Project network does not allow for details to a higher grade)
   * If the opportunity does not have a PD then you will need to create and post a list of “unclassified set of duties”. Employees at any GS level will be able to apply
@@ -118,7 +128,9 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 
 The Hiring Manager is responsible for running the entire process (collecting statements of interest, interviews, etc). Once the selection is made Talent steps into process the request.
 
-* HM sends an email to TTS regarding detail opportunity
+* First get approval from the Assistant Commissioner (AC) of your office
+* Then reach out to the TTS-talentteam@gsa.gov to get Front Office approval
+* HM sends an email to [TTS](mailto:tts@gsa.gov) regarding detail opportunity
   * The email should contain the Position Description (PD) the employee is being detailed to or a list of “unclassified set of duties”
     * If the detail has a PD then the applicant must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below (if they are at the grade below, They will need to provide an updated resume and HR will need to qualify them
       * If there is a PD you may want to add a performance profile (job description and key objectives) attachment to the email announcement
@@ -130,7 +142,7 @@ The Hiring Manager is responsible for running the entire process (collecting sta
     * finding an interview panel
     * scheduling interviews
 
-* Once interviews are complete the HM should notify [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov) on who was selected and the effective date of the detail (must fall on a payroll period). Talent will then submit a personnel action to HR to make the detail official
+* Once interviews are complete the HM should notify [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov) on who was selected and the effective date of the detail. Talent will then submit a personnel action to HR to make the detail official
   * The HM should confirm with the employee’s supervisor that they are OK with this person being detailed to this position
   * The action can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
   
