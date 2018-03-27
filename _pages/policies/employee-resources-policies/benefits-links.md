@@ -32,9 +32,7 @@ Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov
 
 ### Leave policies and questions 
 
-Contact Gaydell Gould for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
-
-Gaydell's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
 --------------------------------------------------------------------------------
 
