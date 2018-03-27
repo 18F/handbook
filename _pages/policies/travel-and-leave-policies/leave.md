@@ -60,7 +60,7 @@ Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds li
 
 ### Parental leave
 
-Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact Gaydell Gould for more information.  Gaydell's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for more information.
 
 For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) chanel
 
