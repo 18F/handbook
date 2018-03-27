@@ -8,7 +8,7 @@ tags:
 - access
 ---
 
-This content provides best practices for logging into your various government accounts and apps.
+This content provides best practices for logging into your various government accounts and apps.  The official GSA Policy can be found [here](https://insite.gsa.gov/portal/content/526805).
 
 ## ENT (enterprise) login
 
@@ -32,9 +32,7 @@ You can change the password that you use to log into your Mac or reset the passw
 
 Applications such as Trello, Zoom, Favro, and Circle.ci can be logged into using your GSA Google account.  Just make sure that you don't grant Google access to anything beyond basic data; "Basic Info" or "Limited Access to Data and Files" are both approved options that are considered basic data.      
 
-You can check your account permissions here: https://myaccount.google.com/permissions
-
-The official GSA Policy can be found [here](https://insite.gsa.gov/portal/content/526805)
+You can check your account permissions [here](https://myaccount.google.com/permissions).
 
 ##VMware Horizon (VPN) login
 
