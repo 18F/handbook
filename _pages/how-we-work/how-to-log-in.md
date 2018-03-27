@@ -20,7 +20,7 @@ When you login with ENT while not connected to a GSA wireless network, you will 
 
 ### Changing your ENT password
 
-You must change your ENT password immediately after you start with GSA and every 90 days thereafter. This is your password for signing into systems administered by GSA, including your email, calendar, and Google Drive. Go to [reset.gsa.gov](reset.gsa.gov) to change your password.
+You must change your ENT password immediately after you start with GSA and every 90 days thereafter. This is your password for signing into systems administered by GSA, including your email, calendar, and Google Drive. Go to [reset.gsa.gov](https://reset.gsa.gov) to change your password.
 
 Detailed ENT password reset instructions can be found [here on InSite](https://insite.gsa.gov/portal/content/677810).
 
@@ -34,7 +34,7 @@ Applications such as Trello, Zoom, Favro, and Circle.ci can be logged into using
 
 You can check your account permissions here: https://myaccount.google.com/permissions
 
-The official GSA Policy can be found [here](GSA Policy: https://insite.gsa.gov/portal/content/526805)
+The official GSA Policy can be found [here](https://insite.gsa.gov/portal/content/526805)
 
 ##VMware Horizon (VPN) login
 
