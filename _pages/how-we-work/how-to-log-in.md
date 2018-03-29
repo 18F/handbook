@@ -41,7 +41,7 @@ VMware is utilized to access your GSA Microsoft Windows desktop.  Some governmen
 * Click on the VMware Horizon icon (on your desktop)
 * Enter horizon.gsa.gov for server
 * Use ENT info for initial VMware Horizon login-in screen
-* Go to [otp.gsa.gov](http://otp.gsa.gov/) (enter ENT) to get Token
+* Go to [otp.gsa.gov](https://otp.gsa.gov/) (enter ENT) to get Token
 * Enter token back into VMware Horizon login-in screen
 
 
