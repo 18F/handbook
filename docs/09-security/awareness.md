@@ -138,7 +138,7 @@ To see if BitLocker is supported on your version of Windows, open up Windows Exp
 
 #### GNU/Linux: use the hardware
 
-Unline Mac and Windows, you can only encrypt your drive during system installation. Might as well buy a new SSD...
+Unlike Mac and Windows, you can only encrypt your drive during system installation. Might as well buy a new SSD...
 
 ### Backups
 

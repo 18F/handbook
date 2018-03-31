@@ -42,4 +42,4 @@ We currently use [Storiesonboard](https://civicactions.storiesonboard.com/) for 
 
 ## Examples:
 
-![Story Map example](<../../assets/Story Mapping.jpg> "Story Map Example")
+![Story Map example](../../assets/Story Mapping.jpg)

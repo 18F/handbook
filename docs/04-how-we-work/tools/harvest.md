@@ -50,7 +50,7 @@ A lot of our internal time represents an investment in a service area, so we’r
 
 ### Onboarding Time Entries
 
-Log your time in the CivicActions project: CA > Check-in Calls > Training > then enter a description like the below examples in the task description that includes the word _onboarding_.
+Log your time in the CivicActions project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description like the below examples in the task description that includes the word _onboarding_.
 
 * Onboarding Meeting
 * Onboarding handbook and/or trello board cards review
@@ -109,6 +109,8 @@ Except for professional development expenses of less than $50, all expenses shou
 
 For any project or team onsites, your expenses are almost always reimbursable. Your project manager and Judy will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight, then that wouldn't be reimbursable but the amount for an economy class would.
 
+Billable expenses are when a cost can be passed back through to the client. This is usually only the case when the client has an approved budget for travel or other costs. Your project manager will be able to answer questions per project if you are not sure about the cost being billable or not. 
+
 There are mobile apps that make this part of Harvest easy to use, if you'd like to try them:
 
 * <https://www.getharvest.com/iphone>
@@ -122,7 +124,7 @@ Directions for submitting expenses:
 2. Enter a description
 3. Enter the amount in USD
 4. Attach a picture of your receipt to each entry
-5. Only mark "billable" if the expense will be invoiced to a client
+5. Only mark "billable" if the expense will be invoiced back to a client
 6. EMAIL Judy that you have expenses in Harvest for her review
 
 
