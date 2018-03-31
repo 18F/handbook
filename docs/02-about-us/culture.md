@@ -1,3 +1,5 @@
+# Culture
+
 ## Introduction
 
 CivicActions culture is what makes this company so special. We aim to define the culture and address common questions from potential hires and current team members in this playbook.
@@ -32,56 +34,56 @@ We invest extra effort into our communication strategies because we are a mostly
 
 ## Common Questions
 
-### Q:  What are some keys to success at CivicActions?
+### Q: What are some keys to success at CivicActions?
 
 A: The most successful team members at CivicActions embody the culture. They have high emotional intelligence, are active listeners, are introspective and reflective, embrace failure, and do not tolerate a blame culture. It’s also helpful if you have ‘self-starter’ tendencies and enjoy taking initiative -- while also being a great team player.
 
-### Q:  Who can I go to for help?
+### Q: Who can I go to for help?
 
 A: We get it. Any new job can be scary, and starting a new job remotely can be even more overwhelming. If you need help, we want you to know that there are resources available.
 
 * If you want help with your work, your team, your project, etc: Go to your PM, someone else on your project team, or your mentor.
 * If you feel unbalanced: Go to your PM, mentor, supervisor or Elizabeth
 * If you are being harassed or feel uncomfortable or unsafe: Go to Elizabeth or anyone else on the management team.
-   
-### Q:  What is CivicActions doing to foster diversity? 
+
+### Q: What is CivicActions doing to foster diversity?
 
 A: We are actively looking to recruit diverse team members, and we are having on-going discussions about what diversity means and how to foster it. These discussions happen at our annual in-person retreat, during All Hands Calls, during check-ins and via our Slack channel #diversity-inclusion. And we need help with this - we hope you'll join in on the conversation.
 
-### Q:  Open communications generally make me uncomfortable and I may feel intimidated asking a question in front of an audience. Can I just go to the person who I know has the answer in a more private way?
+### Q: Open communications generally make me uncomfortable and I may feel intimidated asking a question in front of an audience. Can I just go to the person who I know has the answer in a more private way?
 
 A: The idea behind our open communication policy is to keep the team in the know and keep information transparent in our remote environment. Since we’re not all sitting in an office together, it can be easy to miss out on information. You may ask a coworker a question in a private message, that could have been answered better had the team seen it. Also, your question may be shared by other team members who would appreciate hearing an answer. In many cases it’s okay to go to a person privately; what we want to encourage is for people to default to open and to realize that being uncertain or having an issue isn’t something to hide. We don’t have a CYA mentality -- that only leads to misunderstandings growing deeper and mistakes growing worse. The benefits of open communication extend to our clients as well -- people we work with know that we will not gloss over the truth, but rather be transparent and learn from mistakes.
 
-### Q:  Balance Scores make me feel self conscious. I don’t want people to know that I’m unbalanced. How is the company using this information?
+### Q: Balance Scores make me feel self conscious. I don’t want people to know that I’m unbalanced. How is the company using this information?
 
 A: The Balance Score is mostly for yourself. It’s a way to check in with yourself, sometimes multiple times a day, to realize if you are aware of and honoring your priorities. The company doesn’t use this information, unless we frame it as a way to teach team members how to be more self aware or to be more attuned with each other. If you’re unbalanced and don’t want to discuss it with anyone, you’re welcome to say so if someone asks why your score is low. The Balance Score is another way that we can learn to be more in tune to ourselves and have a better understanding of our peers. It’s an authentic way of communicating that can feel uncomfortable at first but hopefully becomes an exercise in being attuned to oneself. If you feel uncomfortable reporting your balance, try watching the balance channel for a few days, and seeing the diversity of balance scores makes you more comfortable.
 
-### Q:  Sometimes we need to put the client in their place. What can we do so that they don’t take advantage of us?
+### Q: Sometimes we need to put the client in their place. What can we do so that they don’t take advantage of us?
 
 A: The company mission of transformation starts with people. With our expectations of good communication and authentic relationships, it can be frustrating when a client doesn’t reciprocate with the same openness. This is where the “us vs. them” can start showing up. Instead of “putting the client in their place” we aim to understand where the client is coming from. What is bringing up this behaviour? What is causing the fear or distrust? Once we can acknowledge and identify these very real feelings, we get back to being on the same team. We can also look within ourselves -- for example, if our concern is that we’re being taken advantage of, why do we feel that way? In an escalated situation, it’s not up to a single team member to remedy the situation, but rather to use the support of the team and the account management to get to a healthier relationship with the client.
 
-### Q:  I’ve made a mistake in my work and I don’t want to use our group forums to talk about it. Can I just ping my manager directly?
+### Q: I’ve made a mistake in my work and I don’t want to use our group forums to talk about it. Can I just ping my manager directly?
 
 A: Yes, of course you can ping your manager directly about it. Depending on the issue though, it may subsequently be discussed openly. If it’s something related to development, your peers may have made the exact same mistake and have the solution you’re looking for. If it’s project budget related, we may want to present it to the PO immediately along with a plan of action on what steps we suggest taking next. The reason most people feel uncomfortable with sharing their mistakes is that they come from environments where failure isn’t acceptable. That attitude is neither realistic nor helpful -- so at CivicActions we learn from failure and from each other.
 
-### Q:  On a project team, who is accountable for what? I want someone to be held responsible.
+### Q: On a project team, who is accountable for what? I want someone to be held responsible.
 
 A: In short, we’re all responsible for the success of the project. Commitments are made individually during our daily standups and sprint plannings. Certain roles may have certain responsibilities, but the make-up of a team is more indicative of who will be responsible for what based on the skills between team members. If there is something specific that is making you uncomfortable or if there is someone specific that you feel should be accountable for something, that should be brought up. A project manager can be very helpful in identifying and remedying issues -- but that doesn’t mean it is their sole responsibility to do so.
 
-### Q:  I find all the Slack communications overwhelming. I prefer to read only what pertains to me. How can I manage this?
+### Q: I find all the Slack communications overwhelming. I prefer to read only what pertains to me. How can I manage this?
 
 A: Slack can be great for keeping us all connected on project status, company announcements and a good laugh -- but yes, it can be overwhelming. There are only a few channels that you must review. These include #announcements and your project channels. For everything else you can either leave the channel, mute the channel, or set your preferences to only ping you when your name is mentioned. It can also be relieving to remove Slack notifications from your phone’s home screen or using the DND after working hours. There is a delicate balance to all of this, since Slack really is an amazing way to stay connected to your teammates. We recommend trying out different methods for keeping it effective. It would be great to find at least one channel that is more of a social outlet to build camaraderie with your peers. If you’re still struggling with managing Slack, please bring it to the attention of your manager.
 
-### Q:  What topics are inappropriate to discuss at work (eg Slack, meetings, etc)?
+### Q: What topics are inappropriate to discuss at work (eg Slack, meetings, etc)?
 
 A: There are topics that are sensitive in a work environment. Talking about politics or religion can be offensive to some. At CivicActions, we don't have a specific list of off-limits topics, but we strive to be conscious of appropriate vs. inappropriate or triggering topics. The people involved in conversations are expected to be aware of their audience and remain sensitive to how their words may affect others. If something feels inappropriate, don’t discuss it. If you observe or are part of a conversation that feels inappropriate, you can bring that up to the people involved or reach out to your manager and ask them to.
 
 The work that we do in serving others and bringing transformation to the world will sometimes require the discussion of sensitive topics. And because our company is comprised of mission-minded people who care deeply about making an impact, there are bound to be conversations that must be handled with care. Our goal is to balance meaningful communications with the understanding that opinions may vary -- and an awareness that some triggers can be powerful and unwelcome at work. We want to be open to learning from each other, while increasing our empathy for those around us.
 
-### Q:  Someone put something in Slack or said something at a meeting that I find very offensive. What should I do?
+### Q: Someone put something in Slack or said something at a meeting that I find very offensive. What should I do?
 
 A: If you’re comfortable communicating directly with the person who offended you, please start there. You can tell them that what they said was offensive, how it made you feel and why it’s inappropriate (this can be done in the form a “withhold” conversation as mentioned above). If you’re not comfortable addressing them directly, you can ping or talk to Elizabeth or Owen (or anyone on the management team) and they can help you resolve the issue. We highly encourage everyone to be transparent about anything that makes them uncomfortable, especially as our organization grows in numbers and diversity. CivicActions is a place where each team member sincerely desires the well-being of others, and everyone should feel free to speak up without fear of repercussion.
 
-### Q:  If someone says something that could be interpreted as racist, sexist or otherwise inappropriate, how can I let them know that isn’t welcome here.
+### Q: If someone says something that could be interpreted as racist, sexist or otherwise inappropriate, how can I let them know that isn’t welcome here.
 
 A: A technique that seems to work well is to just simply say “we don’t do that here.” This usually gets the person to realize that what they were saying was inappropriate and unwelcome and doesn’t put you in a position to have to explain anything. It’s simple and to the point (and easy to remember!)
