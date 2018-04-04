@@ -245,6 +245,9 @@ navigation:
   - text: How to say no
     url: how-to-say-no/
     internal: true
+  - text: Logging in
+    url: how-to-log-in
+    internal: true
   - text: Networks
     url: networks/
     internal: true
