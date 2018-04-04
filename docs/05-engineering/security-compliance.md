@@ -13,6 +13,9 @@ In particular:
 
 ## As Developers
 
+* When creating test or exploratory accounts on staging or production systems, we:
+    * use a user name derived from your name like `first.lastname` or `flastname` or `flastname-admin`
+    * use your `civicactions.com` email address (can add an identifier, e.g. `first.lastname+project-admin@civicactions.com` -- everything after the `+` is ignored by the mailer)
 * We minimize custom code, always preferring to use community maintained modules and contribute patches when needed
 * When necessary for new functionality, we strive to create generic modules and contribute them to the parent project
 * Custom code must:
