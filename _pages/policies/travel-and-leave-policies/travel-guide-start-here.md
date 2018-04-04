@@ -15,7 +15,7 @@ This is a travel guide to help you
 
 * And get reimbursed for your travel
 
-Before we start, have you traveled for 18F before?
+Before we start, have you traveled as a TTS employee before?
 
 1. [Yes - I want to get started with approval](/travel-guide-1-authorization)
 
