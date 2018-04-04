@@ -16,7 +16,7 @@ This is your account for signing into systems administered by GSA, including you
 
 When you login with ENT while not connected to a GSA wireless network, you will be prompted to select "This is a public computer" or "This is a private computer" (see image below).  You should always select "This is a private computer" unless you are logging in on a computer that's not your government computer or a computer that you personally own (Ex: a library computer).  
 
-![Ent login screen](/images/ENT-login-screen.png)
+![Ent login screen]({{ site.baseurl }}/images/ENT-login-screen.png)
 
 ### Changing your ENT password
 
