@@ -69,7 +69,11 @@ Building hours are 6am - 7pm. While you can stay in the space later, you won't b
 
 Use [BookIT](http://bookit.gsa.gov/).
 
-### Printers
+### Use the monitors/docks?
+
+[The DisplayLink docks](https://www.targus.com/us/universal-usb-3-0-dv4k-docking-station-with-power-dock177usz) can be used with Macs over USB, though you may need to [install drivers](http://www.displaylink.com/downloads/macos). If that doesn't work, we have a couple of DVI to HDMI cords sitting by the 18F desks that can connect to the monitors directly.
+
+### Use the printers?
 
 Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#) for more details.
 
