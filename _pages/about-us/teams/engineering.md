@@ -85,7 +85,6 @@ Your facilitator is responsible for making sure you have the right amount and ki
 
 - Review projects in the [staffing-and-resources repository](https://github.com/18F/staffing-and-resources/issues). The issue threads will have lots of extraneous information, but look for issues tagged with the Engineering chapter. If you find a project you're interested in, comment on the issue or talk to your facilitator.
 - Look out for Project Q&A invites in your inbox and on the 18F Events calendar. These sessions get together product/engagement leads from projects in need of engineers. They will give you some information on the project and a chance to ask questions.
-- Watch the #eng-projects channel in Slack.
 - Talk to your facilitator.
 
 ### How can I become an interviewer or resume reviewer?
@@ -143,7 +142,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### Everything else
 
-[#bdd](https://gsa-tts.slack.com/messages/bdd), [#eng-projects](https://gsa-tts.slack.com/messages/eng-projects).
+[#bdd](https://gsa-tts.slack.com/messages/bdd).
 
 ## Mailing lists
 
