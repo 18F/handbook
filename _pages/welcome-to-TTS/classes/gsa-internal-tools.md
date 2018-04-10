@@ -98,7 +98,6 @@ Here are some tips for employees that frequent an office:
     To periodically reserve a workstation in D.C.:
     <ol>
       <li>Go to `Profile → View Your Profile → Edit Profile`. </li>
-      <li> Go to <code>Profile --> View your Profile --> Edit Profile </code> </li>
       <li>Pick the workstation you'd like to reserve each day. 18F is on floor 4, wing 4.</li>
       <li>Type: Workstation, Room Name: 4461A-Z</li>
       <li>Choose the day of the week (today)</li>
