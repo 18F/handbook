@@ -4,6 +4,9 @@ tags:
 - OLU
 - online learning university
 - IDP
+- SF-182
+- learning
+- university
 ---
 
 This post provides information about mandatory (OLU) and professional development training opportunities.
@@ -11,88 +14,163 @@ This post provides information about mandatory (OLU) and professional developmen
 
 ## Leadership
 
-Pia Scott is TTS's Director of Training and Development. She is based in Washington, D.C.
+Dominic Sale is the Assistant Commissioner of the TTS Office of Operations; he supervises training oversight and review.
+
+Pia Scott is TTS's Director of Training and Development; she leads and guides employee engagement, coaching, and onsite training and also reviews training and conference requests.
 
 Marshall Brown assists with the review of training and conference requests when Pia is out of the office.
 
 
 ## Communication
 
-Find us in Slack:
-
-- [#training-conferences](https://gsa-tts.slack.com/messages/C02APU5RT/)
-
-Or via email at:
+Contact us via email at:
 
 - [tts-training@gsa.gov](mailto:tts-training@gsa.gov)
 
-Book time to chat with the training and development team during the office hours listed [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
+Or find us in Slack:
+
+- [#training-conferences](https://gsa-tts.slack.com/messages/C02APU5RT/)
+
+If you need one-on-one attention, then book time to chat with the T&D team. The T&D office hours are listed [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
 
 ---
 
-There are many training and professional development opportunities available to you: You can take a course, attend a workshop, and leverage on-the-job training. Here&rsquo;s an overview.
+There are various types of training and professional development opportunities available.  Some authorized training available include, but  not limited to conferences, workshops, on-the-job training, in-class or online training. Here is an overview.
 
 ## Mandatory training
 
-All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space.
+All General Services Administration (GSA) employees must complete mandatory training courses through the [GSA’s Online Learning University (OLU)](https://gsaolu.gsa.gov).  These mandatory courses provide critical information about federal regulations, agency policies and how the  government works.  
 
 For more information, including required OLU classes, reference the [OLU](/olu) page.
 
 ## Professional development training
 
-Our work at TTS takes us in new directions every day. In many cases, taking additional training can help everyone on our team better realize our organizational mission. Because external trainings benefit both individuals and our organization, 18F has a training budget.
+Our work at TTS is dynamic. Customer needs require that recruit, hire and retain talent with the state-of-the-art skills and techniques necessary to produce innovative solutions.  To achieve this objective, continuous training is necessary.  Training  is essential.  It helps our team better serve our customers while fulfilling our organizational mission. Therefore to ensure that TTS is able to continuously provides optimal customer solutions, a training budget has been established to invest in the professional development of the team.
 
-If you’re interested in taking a training related to your role at TTS, you’ll need to complete the process outlined in this section to get your request approved. When you find a training opportunity that interests you:
+If you are interested in training, then you must submit a C2 training request.  The process is outlined below.
 
-### 1. Make your request
+### 1. Managing Expectations: Timelines
 
-*Under construction*
+All training requests must be submitted in C2.  The review and approval processes take a bit of time.  It is best to submit your training request as early as possible. Here are the minimum  timelines for submitting C2 training requests:
 
-### 2. Create your Individual Development Plan (IDP)
+- Five to six weeks in advance
+  - Training that costs $2,500+
+  - Group Training
+  - International Travel
+  - Non Federal Source Travel (Gift)
 
-[Employee's Guide to Individual Development Plan](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVN3IydkZHQ0R3VXM/view?usp=sharing)
+- Three to four weeks in advance
+  - Training that costs $2,500+ (inclusive of travel)
+  - Attendance at Internal Management Meetings, regardless of cost
+  - Attendance at [FY18 GSA Highly Attended Events](https://docs.google.com/document/d/1Q1ZAWkXMte3jHFP0GH9EHzTjiTG3fYe-4WFehiWGbaM/edit_) (i.e. conferences, e.g. PyCon, ACT-IAC MOC, etc.)
+  - More than one TTS employee plans to attend
+  - All speaking events on behalf of the agency (talking points must accompany your request)
 
-After you’ve made your request, you’ll need to create an [IDP](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) related to the training or conference that you want to attend. The IDP helps you articulate how a given training contributes to your longer-term professional goals. Create it in Salesforce. See the [GSA Guide to IDPs](https://insite.gsa.gov/portal/mediaId/615682/fileName/EmployeesGuide2IndivDevePlan_1113.action) for policy information.
+- Two to three weeks in advance
+  - Training that cost $2,500 or less
 
-To get some IDP inspiration, you can browse some examples from your TTS colleagues, including the approved IDPs of [Leah Bannon](https://drive.google.com/a/gsa.gov/file/d/1Sid8vVFgR69gYOin5FUxbVbuC6XGEu-zIii9dO7xBN4VrWumKvl02Zs0NFKxg_bUGikkSiakn0HBFdlP/view) and [Emileigh Barnes](https://docs.google.com/document/d/1IDVXKHnj9lVWiloBShZ9tuU3Wwe7ErTUL0hVDncKau4/edit) for General Assembly classes. Gray's [TL;DR on IDPs](https://gsa-tts.slack.com/archives/distributed/p1447194666000190) is well worth a look.
+### 2. The Beginning:  The Individual Development Plan (IDP) Overview
 
-Here are a few hints for creating a top-notch IDP:
+GSA requires employees to create an Individual Development Plan (IDP) each year.  It’s up to you to understand how to get the most out of your personal development plan. It can help you:
 
-* [How to Successfully Create an IDP Presentation](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVV2U0OWNlcUxrTUE/view?usp=sharing)
-* In the **Series** field, select **0301 - Miscellaneous Administration and Program Services**.
-* Leave the **Procurement specialization** field blank unless you are on the operations or acquisitions team and have taken or are pursuing a training in a procurement specialization.
-* As you’re writing about your long- and short-term goals, include a few sentences about what the training is about and how it connects to your work at GSA/TTS as well as a few sentences about how it will contribute to your overall professional development.
-* Add a related objective, an activity (this is where you list the name of the conference/training you want to attend), and a competency.
+- enhance or expand your skill set,
+- improve your performance, and
+- help you achieve personal, and organizational objectives.
 
-Once you’ve completed your IDP, submit to your supervisor for review.
+It’s smart to tailor your IDP to your needs, plus GSA’s goals and objectives. You can review the useful tips in [GSA’s Employee's Guide to the Individual Development Plan](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVN3IydkZHQ0R3VXM/view?usp=sharing)
 
-If you need to edit your IDP, you'll want to make sure to clone it, revise it, and place it in “resubmit status.”
+### 3. Creating your IDP:  Examples, Tips, and the Process
 
-### 3. Meet with your supervisor
+## Example IDPs
+Two of our former colleagues agreed to share their approved IDPs for inspiration: [Leah Bannon](https://drive.google.com/a/gsa.gov/file/d/1Sid8vVFgR69gYOin5FUxbVbuC6XGEu-zIii9dO7xBN4VrWumKvl02Zs0NFKxg_bUGikkSiakn0HBFdlP/view) and [Emileigh Barnes](https://docs.google.com/document/d/1IDVXKHnj9lVWiloBShZ9tuU3Wwe7ErTUL0hVDncKau4/edit) for General Assembly classes.
+
+## Tips for creating a top-notch IDP
+
+* When generating the IDP, please do the following:
+  * In the **Series** field, select **0301 - Miscellaneous Administration and Program Services**.
+  * Leave the **Procurement specialization** field blank unless you are on the operations or acquisitions team and have taken or are pursuing a training in a procurement specialization.
+  * As you’re writing about your long- and short-term goals, include a few sentences about what the training is about and how it connects to your work at GSA/TTS as well as a few sentences about how it will contribute to your overall professional development.
+  * Add a related objective, an activity (this is where you list the name of the conference/training you want to attend), and a competency.
+  * Once you’ve completed your IDP, submit to your supervisor for review.
+  * If you need to edit your IDP, you'll want to make sure to clone it, revise it, and place it in “resubmit status.”
+
+* For additional tips, watch the video presentation [How to Successfully Create an IDP Presentation](https://drive.google.com/a/gsa.gov/file/d/0B7tsisHW8-MVV2U0OWNlcUxrTUE/view?usp=sharing)
+
+## Create your IDP
+Please go to [Salesforce](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) and list all of the the training or conferences that you plan to attend. The IDP helps you justify how a given training will contribute to your professional development and achieve organizational goals.
+
+### 4. Meet with your supervisor
 
 [Supervisor's Guide to Individual Development Planning](https://drive.google.com/file/d/0B7tsisHW8-MVbWhUamNnMHBkN3c/view)
 
-Once you’ve submitted your IDP,  you’ll meet with your supervisor to discuss it.  Your supervisor will want to make sure your IDP aligns with TTS’s organizational goals and your professional development training needs. Once you’ve responded to any feedback your supervisor has provided, ask them to approve your IDP in Salesforce.
+Once you’ve submitted your IDP,  schedule a meeting with your supervisor to discuss it.   Your supervisor will ensure that your professional development opportunities outlined on the IDP aligns with TTS’s organizational goals. If your supervisor recommends revisions, incorporate those into your IDP and resubmit for your supervisor’s approval.  If no revisions are recommended, then ask your supervisor to approve your IDP in Salesforce.
 
-TTS’s training and travel budget is allocated for each fiscal year based on a projection of our total team size. Allowed annual expenditures for each business unit and chapter are determined by each business unit or chapter’s size relative to TTS as a whole; in other words, larger business units will have larger budgets.
+### 5. SF-182
 
-That said, TTS will consider all requests for training, but it’s the responsibility of heads of chapters and business units to plan spending accordingly. If a particular business unit or chapter exhausts its budget before the end of the fiscal year, the director of operations may have to deny certain training requests.
+An approved SF-182 is required before training requests can be authorized for purchase.  The SF-182 is required for all training request.  The Standard Form-182 (SF-182) is the Request, Authorization, Agreement and Certification for Training Form.  It is used to formally request and authorize payment for training.  The information collected on the SF-182 is collected as an official record of the Federal Training Program (FTP).
 
-### 4. Submit an event request in C2
+The SF-182 becomes apart of employees’ permanent federal employment record.  It also includes a Continued Service Agreement.  The agreement specifies that an employee will serve three (3) times the length of the training period, “but in no case less than a month.”  For additional information about the Continued Service Agreement, please read the SF-182, Title 5, USC 4018 and 5 CFR 410.309.
 
-*Under construction*
+An approved SF-182 has two levels of approval. Your supervisor and Dominic Sale, the TTS Assistant Commissioner of Operation must approve the SF-182, before training can be approved and purchased.  Dominic is the second and final approver for all SF-182.  Currently the IDP and SF-182 are [Salesforce applications] (https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8).
 
-### 5. Resolve any red flags and finalize all approvals
+### 6. Submit an event request in C2
 
-*Under construction*
+Once your IDP and SF-182 are  approved, then you can [create an event request in C2](https://requests.18f.gov/gsa18f/events/new). If you've never used C2 before, or the link looks like it's not working, ping in [#c2-purchase-questions](https://gsa-tts.slack.com/messages/C0E1APHGU/) and someone will add you.
 
-### 6. Attend your training
+To submit a C2 training request, please go to C2 and click on New Event Request.  If you are set up right in C2, your event request form should look something like [this](https://gsa-tts.slack.com/files/eth/F2VNM3F17/c2-teamops-10-17-2016.jpg). Go ahead and start filling it out. Make sure you complete all required fields and attach your approved SF-182 before submitting-- you can do this by going in to **Review** your SF-182 and then clicking **Print** at the bottom of the page, which will open your SF-182 in Print Preview and allow you to export a PDF version of it.
+
+You must provide all of the required information in your C2 request, or there will be process delays.
+
+**For a training/conference that involves more than one person at TTS**, it is **required** that one C2 request be submitted  for everyone attending. If you are do not know who the other employees are that plan to attend your event, please coordinate  your supervisor. If a group request is not made, there may be process delays, and it is possible that attendance will have to be limited to the first requestor.
+
+The initial requestor should list  the names of who all planning to attend the training in the "Instructions to Purchase" field .  After submitting, add the additional people as *observers* to the request. Each  person on the request is responsible for uploading their own required documents (IDP, SF-182, etc.) to the group C2 request.  .
+
+To facilitate review, when uploading documents label the attachment with your name and document type (e.g. Berry_Jones_SF182).
+
+
+**What happens next?**
+
+Pia Scott will review your request  during T&D office hours between 3:30 PM - 5:00 PM Eastern on Wednesday or 2:30 PM to 4:30 PM Eastern on Friday.  You can also book appointments during office hours to address specific concerns or questions [here](https://sites.google.com/a/gsa.gov/tts-office-hours/).
+
+The office hours are subject to change each week.  These changes will be reflected on the calendar. Marshall Brown also offers office hours.
+
+### 7. Resolve any red flags and finalize all approvals
+
+Before your request can be approved, it must be free of red flags. During office hours, Pia will review your request and identify red flags in the comments section of your C2 request.
+
+Some of the most common red flags include:
+
+* Two level approved SF-182 not attached to C2 request
+* Inconsistent training title and training dates on the SF-182 and the C2 request
+* [Any training or conference requiring payment](/professional-development-and-training/#does-the-training-or-conference-require-payment)
+* [Training or conference purchase is over $2,500](/professional-development-and-training/#Does-the-training-or-conference-cost-over-3500)
+* [Conferences or trainings at conferences](/professional-development-and-training/#Are-you-attending-a-conference-or-training-at-a-conference)
+* [Training or conferences involving travel](/professional-development-and-training/#does-the-training-or-conference-require-travel)
+* [Any international travel](/professional-development-and-training/#Does-your-request-require-international-travel)
+* [Vendor-sponsored event participation (vendor offers to cover any expense)](/professional-development-and-training/#Does-the-event-cover-registration-lodging-or-food-free-of-charge)
+
+It’s fairly common for a request to have multiple red flags. Pia will recommend your request for approval and purchase during her next office hours once she verifies that all red flags have been addressed.
+
+**What happens next?**
+
+An complete C2 request is reviewed and recommended for payment to the Acting  Director of TTS Business Operations Huixian Xu.
+
+**Purchase, travel approval, and logistics**
+
+Once your C2 request is  approved, your request will move on to [TTS Purchasers](mailto:tts-purchasers@gsa.gov). Then, the following will occur:
+
+* If your request does not  purchase and there are no travel expenses, it will be marked as "purchased" and resolved in C2.  No further action is required.  Attend training.
+* If your request requires purchase, [read on here](/professional-development-and-training/#does-the-training-or-conference-require-payment) for more.
+* If your request requires travel, [read on here](/professional-development-and-training/#does-the-training-or-conference-require-travel) for more.
+
+
+### 8. Attend your training
 
 And now, the fun part: It’s time for you to attend your conference or training! Once you get back, share what you’ve learned with your teammates. Consider leading a Learn Teach Learn session or a brown bag. You might also draft a blog post to share your learnings with a broader audience.
 
 ## Speaking at conferences
 
-If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please follow [this guide](https://docs.google.com/a/gsa.gov/drawings/d/1J_kPqlmRHKSnhHRU3WphO-skuQ5tQxIHrIHmsF0TDNg/edit?usp=sharing).
+If you're interested in speaking at an event - even if you're doing so in your personal capacity - please follow [this guide](https://docs.google.com/a/gsa.gov/drawings/d/1J_kPqlmRHKSnhHRU3WphO-skuQ5tQxIHrIHmsF0TDNg/edit?usp=sharing).
 
 ## Mentorship
 
@@ -102,7 +180,7 @@ Mentorship at TTS is available, currently we are running a pilot program for fol
 
 Engineering Chapter members: Would you like to pursue a self-directed training option? Would you like to teach yourself a new programming language, read the latest book on software development ideology, or take an online course? You totally can! Please include the request as part of your Individual Development Plan (IDP). If there is any type of cost associated with your training, you will need to also submit a supervisor-approved (i.e., signed) Standard Form 182. Once you’ve submitted your IDP your Supervisor will usually approve the request within 72 hours, and you will be good to go! Please coordinate with your project to carve out the time, and with your Supervisor to determine the duration, goals, and success markers of self-directed study. Please talk with your Facilitator or Supervisor with any questions, comments, or concerns.
 
-## Self-directed study for designers
+## Self-directed study for designers  (?????DELETE????)
 
 Experience Design Chapter members: You can use some or all of your yearly training time for independent study. To do this, you should:
 
