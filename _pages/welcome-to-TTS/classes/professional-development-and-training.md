@@ -6,7 +6,9 @@ tags:
 - IDP
 ---
 
-This post provides information about mandatory (OLU) and professional development training opportunities.
+This post provides information about mandatory (OLU) and professional development training opportunities. 
+
+**The training process has changed. Please email Pia Scott before taking any action.** 
 
 
 ## Leadership
