@@ -32,8 +32,10 @@ Use `TTS (T)` or `18F (TE)` as your organizational code.  Make sure to select th
 ##Cancelling transit benefit
 - Go to [https://transitapp.ost.dot.gov](https://transitapp.ost.dot.gov)
 - Login to your account
+- Click on Transit Benefit Application
 - Click on **Withdraw from the program**
 - Click **Continue**
+- Fill out and submit the form
 
 ##Contact
 
