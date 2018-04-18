@@ -24,7 +24,7 @@ Training and conference requests will first be reviewed by the TTS Director of T
 
 ## Trainings and conferences
 
-Creating [a new event request in C2](https://requests.18f.gov/gsa18f/events/new) allows you to request a training or conference. Please ensure that you have downloaded a PDF copy of your [approved SF-182 from Salesforce](/professional-development-and-training/#create-your-individual-development-plan-idp), as you will need to attach it before submitting the form. Ensure the amounts approved on the SF-182 for registration fees and any related travel are consistent with what you need. You can use this [budget template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) and the links included within it to help you estimate your travel expenses.
+Creating [a new event request in C2](https://requests.18f.gov/gsa18f/events/new) allows you to request a training or conference. Please ensure that you have downloaded a PDF copy of your [approved SF-182 from Salesforce](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8), as you will need to attach it before submitting the form. Ensure the amounts approved on the SF-182 for registration fees and any related travel are consistent with what you need. You can use this [budget template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) and the links included within it to help you estimate your travel expenses.
 
 There are a few more rules on requesting trainings and conferences at 18F, please read the full Handbook page on them [here](/professional-development-and-training/#professional-development-training).
 
@@ -49,6 +49,6 @@ See [the Equipment page](../equipment/#software).
 
 ## Purchases over $3,500
 
-Purchases over $3,500 require the involvement of a contracting officer. For these sorts of needs, the TTS Office of Acquisition has the TTS Acquisition Intake Form [here](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform). 
+Purchases over $3,500 require the involvement of a contracting officer. For these sorts of needs, the TTS Office of Acquisition has the TTS Acquisition Intake Form [here](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform).
 
 *Got questions? Ask [#c2-purchase-questions](https://gsa-tts.slack.com/messages/C0E1APHGU/)*, [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
