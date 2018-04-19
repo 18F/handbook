@@ -16,6 +16,7 @@ title: Washington, D.C.
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/leahgitter/">Leah Gitter</a><br />
+          <a href="https://gsa-tts.slack.com/messages/esther.kim.praske/">Esther Praske</a><br />
           <a href="mailto:1800ftenantsupport@gsa.gov">GSA Tenant Support</a>
         </td>
       </tr>
@@ -60,6 +61,8 @@ If you&rsquo;re coming from **Thurgood Marshall Baltimore-Washington Airport (BW
 ### Walking
 
 TTS's Washington office is located two blocks from the White House, six blocks from the Farragut North station, and three blocks from the Farragut West Metro Station. If you&rsquo;d like to take an afternoon walk, the Smithsonian is three blocks away via 18th Street.
+
+Make sure to look both ways!
 
 
 ### Biking
