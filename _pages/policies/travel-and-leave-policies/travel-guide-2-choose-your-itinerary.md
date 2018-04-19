@@ -40,7 +40,7 @@ Request that your tickets be purchased upon authorization.
 The government has a number of contracts with airlines to receive special rates. You must **first try to book a flight offered by one of the govt. contract carriers and includes 3 stars.**
 <img src="/images/travel/5-view-select-flights.png" class="travel-guide-hide" alt="Concur flight selection screen">
 
-If you cannot use one of these flights, you must justify why you are choosing a non-contact carrier and fare.
+If you cannot use one of these flights, you must justify why you are choosing a non-contract carrier and fare.
 
 If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email of approval from your client (billable) or director (non-billable) sent to tts-travelauths@gsa.gov.
 
