@@ -16,7 +16,6 @@ title: Washington, D.C.
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/leahgitter/">Leah Gitter</a><br />
-          <a href="https://gsa-tts.slack.com/messages/shawnique/">Shawnique Muller</a><br />
           <a href="mailto:1800ftenantsupport@gsa.gov">GSA Tenant Support</a>
         </td>
       </tr>
