@@ -4,12 +4,12 @@ title: Benefits
 
 GSA requires that you enroll in many of the benefits offered to you within the first 60 days of work. Otherwise, you&rsquo;ll have to wait for Open Season, which typically runs from the Monday of the second full workweek in November through the Monday of the second full workweek in December.
 
-### Submitting benefit forms
+## Submitting benefit forms
 
-#### New Hire
+### New Hire
 Email [CPC.employeedocuments@gsa.gov](mailto:CPC.employeedocuments@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).
 
-#### Current Employee
+### Current Employee
 Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) and CC Phyllis Thomas when you're submitting documents due to a change in life event (ie getting married, having a child, etc).
 
 Phyllis' contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
@@ -17,16 +17,18 @@ Phyllis' contact information can be found by searching the [staff directory](htt
 *NOTE:* When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).  
 
 
-### Benefits contacts
+## Benefits contacts
 
-Karen Addison is our primary contact for all health insurance (FEHB), life insurance (FEGLI), and retirement (FERS) questions and inquiries. Secondarily, you can send inquiries to [GSA's HR and Benefits group](mailto:CPC.Benefits-Retirement@gsa.gov).  The TTS Talent team can help you escalate questions and problems and point you in the right direction.
-
-Karen's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for questions related to benefits, retirement, and leave policies (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
 Find us in Slack:
 
 - [#benefits](https://gsa-tts.slack.com/messages/benefits)
 - [#talent](https://gsa-tts.slack.com/messages/talent)
+
+## Benefits Quicklinks
+
+Click [here](/benefits-links/) for a list of quicklinks to access the various benefits sites. 
 
 ## Credit union
 
