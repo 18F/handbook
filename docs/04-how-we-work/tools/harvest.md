@@ -123,7 +123,10 @@ Directions for submitting expenses:
 3. Enter the amount in USD
 4. Attach a picture of your receipt to each entry
 5. Only mark "billable" if the expense will be invoiced back to a client
-6. Once all reciepts are logged, go to the [Expenses Trello board](https://trello.com/b/2b6lZZ2Q/expenses) and move your card from the "Approved" column to the "Submitted" column. This lets Admin/Judy know to reimburse these expenses.
+6. Once all reciepts are logged
+   1. Go to the [Expenses Trello board](https://trello.com/b/2b6lZZ2Q/expenses) and find your expense4 request card
+   2. Add a comment indicating the total amount that needs to be reimbursed
+   3. Move your card from the "Approved" column to the "Submitted" column  - this lets Admin/Judy know these expenses are ready for reimbursement
 
 ![Harvest screenshot 8](../../images/harvest08.png)
 
