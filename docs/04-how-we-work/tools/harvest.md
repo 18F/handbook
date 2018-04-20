@@ -105,9 +105,7 @@ The Trello integration will require that you install the Chrome extension found 
 
 Track expenses in the Harvest Expense tracking section.
 
-Except for professional development expenses of less than $50, all expenses should be approved by the relevant budget owner PRIOR to being incurred. E.G. Owen approves Delivery budget expenses, Bill approves Sales/Bizdev budget expenses and Aaron approves marketing expenses.
-
-For any project or team onsites, your expenses are almost always reimbursable. Your project manager and Judy will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight, then that wouldn't be reimbursable but the amount for an economy class would.
+Before you incur or track expenses be sure to get approval as described in the [expense policy](../../03-policies/expenses.md).
 
 Billable expenses are when a cost can be passed back through to the client. This is usually only the case when the client has an approved budget for travel or other costs. Your project manager will be able to answer questions per project if you are not sure about the cost being billable or not. 
 
@@ -125,8 +123,7 @@ Directions for submitting expenses:
 3. Enter the amount in USD
 4. Attach a picture of your receipt to each entry
 5. Only mark "billable" if the expense will be invoiced back to a client
-6. EMAIL Judy that you have expenses in Harvest for her review
-
+6. Once all reciepts are logged, go to the [Expenses Trello board](https://trello.com/b/2b6lZZ2Q/expenses) and move your card from the "Approved" column to the "Submitted" column. This lets Admin/Judy know to reimburse these expenses.
 
 ![Harvest screenshot 8](../../images/harvest08.png)
 
