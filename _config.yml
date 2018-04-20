@@ -79,15 +79,16 @@ navigation:
   - text: Welcome from the team
     url: welcome-letter/
     internal: true
+  - text: Onboarding schedule
+    url: onboarding-schedule/
+    internal: true
   - text: Refer a person
     url: https://handbook.18f.gov/talent/#referring-a-person
     internal: false
   - text: TTS Homepage
     url: https://www.gsa.gov/node/87579
     internal: false
-  - text: Onboarding schedule
-    url: onboarding-schedule/
-    internal: true
+  
   - text: Classes
     url: classes/
     internal: true
