@@ -12,10 +12,13 @@ To empower the organization with the means and information to fully utilize the 
 
 ## Referring a person
 
-* Instructions for referring a person (an open role is not required):
-  * [Talent Referral Program Information](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit)
 * Form to submit a referral:
   * [Referral Submission Form](https://goo.gl/forms/I6cOnRNdh21aP5e63)
+  
+* Instructions for referring a person (an open role is not required):
+  * [Talent Referral Program Information](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit)
+  
+To see what positions we're hiring for, take a look at the [Talent Acquisition Trello](https://trello.com/b/9pBVgO1G/talent-acquisition-work-system) and [Join TTS](https://join.tts.gsa.gov/).  *To access the [Talent Acquisition Trello](https://trello.com/b/9pBVgO1G/talent-acquisition-work-system), you must become a member of the “TTS Hiring” team on Trello by clicking [here](https://trello.com/invite/b/9pBVgO1G/80e740ae5713521e1d305be1378a8785/talent-acquisition-work-system).*
   
 ## Applying to open positions
 
