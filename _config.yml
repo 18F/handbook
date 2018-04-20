@@ -79,6 +79,9 @@ navigation:
   - text: Welcome from the team
     url: welcome-letter/
     internal: true
+  - text: Referr a person
+    url: https://handbook.18f.gov/talent/#referring-a-person
+    internal: false
   - text: TTS Homepage
     url: https://www.gsa.gov/node/87579
     internal: false
