@@ -27,6 +27,8 @@ To request approval:
    * IT/IS: Owen Barton
    * Other: Elizabeth Raley
 
+### Expense approval
+
 To approve your request, the budget owner will move it into the "Approved" column. If they have questions, they will ask you in the card comments.
 
 ## Submitting expenses for reimbursement
@@ -44,3 +46,4 @@ To approve your request, the budget owner will move it into the "Approved" colum
 * Please book as early as possible - for flights and accomodation this can make a big difference!
 * Consider AirBnB instead of hotels. If you are unsure of how many people can attend, getting a slightly larger AirBnB ahead of time is normally better than waiting and getting an AirBnB or hotel rooms last minute.
 * Your project manager and Judy will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight or want to add a leg for a vacation, then that wouldn't be reimbursable but the amount for an economy class return would.
+
