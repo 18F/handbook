@@ -8,7 +8,7 @@ Most of these trainings are optional (with the exception of the [Infrastructure 
 
 ## About the schedule
 
-This is a typical onboarding schedule, but the timing may shift based on when you’re hired and federal holidays, etc. Check out the [18F Classes Schedule](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York) in Google Calendar for exact times. (If you can’t find it, copy and paste [this address](gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com) into the “Add a coworker’s calendar” field under “Other calendars”.)
+This is a typical onboarding schedule, but the timing may shift based on when you’re hired and federal holidays, etc. Check out the [18F Classes Schedule](https://calendar.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com) in Google Calendar for exact times. (If you can’t find it, copy and paste [this address](gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com) into the “Add a coworker’s calendar” field under “Other calendars”.)
 
 ## <a name="week-1"></a>Week 1
 In your first week, you’ll learn about: the most important legal and security requirements for working in the federal government as part of 18F; the basics of your benefits; how to add your biography and picture to the 18F website; and how we track our time.
