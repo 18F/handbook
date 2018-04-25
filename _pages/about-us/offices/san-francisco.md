@@ -124,8 +124,6 @@ GSA onboarding is typically conducted on Mondays at 50 UN Plaza. TTS SF onboardi
 
 Whether you're new at TTS and are joining the SF office or you're a long-time TTS member relocating to SF, here's an office onboarding checklist for you:
 
-* Add yourself to our [desk schedule spreadsheet](https://docs.google.com/spreadsheets/d/1QNGF8pvrVUXEa8tjsQEEw5itflDEAyjVxQgfCT6Kj5c/edit#gid=0).
-* Add yourself to our [cleaning crew schedule](https://docs.google.com/document/d/1CCKYxIRrCUDJpykKgrjDBISLG-2toMv9yu1hLfR2IOs/edit).
 * If you would like a locker, please email <mailto:sasha.magee@gsa.gov>.
 * Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
 * Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
@@ -147,7 +145,7 @@ You may host folks from other government agencies. As the host you are responsib
 
 If you're a visitor arriving outside business hours, arrange for an TTS staff member inside the office to escort you.
 
-If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Holly Allen or Josh Bailes), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
+If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Josh Bailes), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
 
 
 ### Book rooms for meetings?
@@ -241,7 +239,7 @@ For FedEx and UPS, please use the address as usual:
 
 We host a potluck lunch at noon the third Thursday of every month, to which we invite guests who are interested in finding out more about TTS and what we do. We're also very keen to meet folks who work in government or civic tech, or who are interested in learning more about that world.
 
-If you're a guest, **you must arrange your visit with your contact at least a day in advance** so that they know to meet you at the door. (If you don't have a contact, [email Yoz Grahame](mailto:yoz.grahame@gsa.gov) and he _may_ be able to sort it out for you.) Please make sure to [bring acceptable ID](#bring-in-one-time-guests). Any dishes are welcome; vegetarian food is likely to be enjoyed by the most people. (And we all love desserts.)
+If you're a guest, **you must arrange your visit with your contact at least a day in advance** so that they know to meet you at the door. Please make sure to [bring acceptable ID](#bring-in-one-time-guests). Any dishes are welcome; vegetarian food is likely to be enjoyed by the most people. (And we all love desserts.)
 
 ## Amenities
 
