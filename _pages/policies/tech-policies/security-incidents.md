@@ -49,7 +49,7 @@ To report a security incident, follow *all* of the steps below:
 
 1. Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected GitHub incident, do no delete files or modify the access permissions on the GitHub repository. In the event of a suspected Amazon Web Services (AWS) or cloud.gov incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance or app to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
 
-1. If the incident involves [cloud.gov](https://cloud.gov/), start [following the additional checklist here](https://docs.cloud.gov/ops/security-ir-checklist/).
+1. If the incident involves [cloud.gov](https://cloud.gov/) platform operations/security, start [following the additional checklist here](https://cloud.gov/docs/ops/security-ir-checklist/).
 
 1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov), but try to drive as much of the conversation back to [#incident-response](https://gsa-tts.slack.com/messages/incident-response) in Slack as possible.
 
