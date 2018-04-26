@@ -5,9 +5,43 @@ tags:
 - move
 - relocate
 - relocating
+- VWA
+- virtual
+- virtual work agreement
 ---
 
 If you're moving to a different GSA region, please reference the "Process update" section below.  If you're moving within the same GSA region, please follow the steps in the "Change your address" section below.  
+
+## Relocating as a Virtual Employee
+
+Virtual employees who are moving (and staying virtual) and employees who work out of a physical office (DC, SF, NYC, Chicago) but will be moving and becoming a virtual employee require an approved Virtual Work Agreement. 
+
+## How to fill out a Virtual Work Agreement
+
+Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit) for completing the VWA Form.  Please see below for a comprehensive list of when a VWA is required and for tips on filling it out.  
+### When a Virtual Work Agreement is needed
+
+* For new hires that will work from a virtual duty station, i.e. not working from one of our offices (DC, CHI, NYC or SFO) 
+* If your virtual duty station is changing (even if the move is just down the street)
+* It is not required if you are moving to one of our offices (DC, CHI, NYC or SFO)
+* If the number of approved trips on your original VWA is increasing
+* If your position changes due to a reassignment, PD change or a promotion
+* If you are moving to a 100% Telework schedule
+
+### Things to note when completing the VWA
+* Supervisors will need to provide a justification for all VWAs whether they provide a cost savings or cost increase 
+* In the justification include the salaries for the staff member’s current location and the new location. In the Form the new duty station must always be compared to the **DC office** but TTS leadership would like to see the difference between the actual current location and the new location.
+* Supervisors will need to provide the number of trips an employee will have to make to DC annually and how long those trips will be (do not include billable trips).
+* Existing staff VWAs can just have the city and state listed (noting on the form that the person is asking for approval prior to moving so they do not have a new full address yet)
+
+### TTS approval signatures required for VWA
+
+* Immediate Supervisor 
+  * In Part F, enter name (box 1), title (box 2), and get signature (box 3) 
+* Your Office’s Assistant Commissioner (Alla, Ben, Rebecca, Sarah, Dom or Bob)
+  * Enter in Part G, enter name (box 1a), title (box 1b), and get signature (box 1c)
+* Send form to TTS-Talent-team@gsa.gov who will be responsible for obtaining the remaining approvals and routing through the GSA process
+  *  *Please note - it can take up to 5 days to get all of these signatures*
 
 ## Process update
 
