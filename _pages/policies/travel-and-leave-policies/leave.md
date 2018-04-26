@@ -85,7 +85,7 @@ Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-ove
 
 To donate leave or view your donated leave balance, log into the [Voluntary Leave Transfer System](https://apps.ocfo.gsa.gov/volta/volta.volta_main) with your social security number and Employee Express password.
 
-If the system is down, you can submit donation requests directly to Gaydell Gould.  Gaydell's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+If the system is down, you can submit donation requests directly to Lakita Rivero.  Lakita's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 
 ## Advanced leave
