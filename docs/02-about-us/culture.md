@@ -40,9 +40,9 @@ We talk a lot about radical transparency here at CivicActions, but what is it?  
 
 You can read the relevant sections for free here: <https://books.google.com/books?id=VoY5CgAAQBAJ&pg=PT32&lpg=PT32&dq=A+management+approach+where+(ideally,)+all+decision+making+is+carried+out+publicly&source=bl&ots=L2FwOjEuGT&sig=SsrZLh2DuiFDZTpueuBPF-6fbvw&hl=en&sa=X&ved=0ahUKEwjaxbe2t-7YAhWiY98KHSH6CWYQ6AEINDAC#v=onepage&q&f=false>
 
-“[T]ransparency means operating in such a way that others can actually see how, what and why actions are carried out.”  As a principle...managers and directors of companies and organizations and board trustees have a duty to act visibly, predictably and understandably in order to promote participation and accountability that is deemed ethical.” 
+“Transparency means operating in such a way that others can actually see how, what and why actions are carried out.  As a principle...managers and directors of companies and organizations and board trustees have a duty to act visibly, predictably and understandably in order to promote participation and accountability that is deemed ethical.” 
 
- “Radical Corporate Transparency...is a philosophical concept regarded as the ‘removing of all barriers to free and easy public access to corporate, political, and personal...information, and the development of laws, rules, social connivance and processes that facilitate and protect such an outcome.” 
+ “Radical Corporate Transparency...is a philosophical concept regarded as the removing of all barriers to free and easy public access to corporate, political, and personal...information, and the development of laws, rules, social connivance and processes that facilitate and protect such an outcome.” 
  
 ### How does Radical Transparency Work at CivicActions?  
 
