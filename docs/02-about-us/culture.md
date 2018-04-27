@@ -38,7 +38,7 @@ We invest extra effort into our communication strategies because we are a mostly
 
 We talk a lot about radical transparency here at CivicActions, but what is it?  There are many different, often conflicting definitions for transparency in business.  Here are some, from the book Accountability and Transparency for Peaceful Development by Kelly Ngyah.  
 
-You can read the relevant sections for free [here:|https://books.google.com/books?id=VoY5CgAAQBAJ&pg=PT32&lpg=PT32&dq=A+management+approach+where+(ideally,)+all+decision+making+is+carried+out+publicly&source=bl&ots=L2FwOjEuGT&sig=SsrZLh2DuiFDZTpueuBPF-6fbvw&hl=en&sa=X&ved=0ahUKEwjaxbe2t-7YAhWiY98KHSH6CWYQ6AEINDAC#v=onepage&q&f=false]
+You can read the relevant sections for free [here](https://books.google.com/books?id=VoY5CgAAQBAJ&pg=PT32&lpg=PT32&dq=A+management+approach+where+(ideally,)+all+decision+making+is+carried+out+publicly&source=bl&ots=L2FwOjEuGT&sig=SsrZLh2DuiFDZTpueuBPF-6fbvw&hl=en&sa=X&ved=0ahUKEwjaxbe2t-7YAhWiY98KHSH6CWYQ6AEINDAC#v=onepage&q&f=false).
 
 “Transparency means operating in such a way that others can actually see how, what and why actions are carried out.  As a principle...managers and directors of companies and organizations and board trustees have a duty to act visibly, predictably and understandably in order to promote participation and accountability that is deemed ethical.” 
 
@@ -48,7 +48,7 @@ You can read the relevant sections for free [here:|https://books.google.com/book
 
 Here’s a real life example:  In May of 2017, CivicActions experienced significant financial losses. Aaron and Henry presented an All Hands Call in which they laid out the problem, the cause, and the potential actions they would take if the issue was not resolved.  
 
-You can view those slides [here:|https://docs.google.com/presentation/d/1swxbFAieY2p39mjR5ou5WW9SNPQkDisTttyXTsYLdgo/edit#slide=id.gb3711abec_1_2_>]
+You can view those slides [here](https://docs.google.com/presentation/d/1swxbFAieY2p39mjR5ou5WW9SNPQkDisTttyXTsYLdgo/edit).
 
 In this example, the company’s management team felt a responsibility to be transparent about the health of the company to everyone working at the company.
 
