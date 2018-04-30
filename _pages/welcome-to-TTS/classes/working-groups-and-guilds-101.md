@@ -4,19 +4,19 @@ navtitle: Working groups and guilds
 slack-channel: wg-working-groups
 ---
 
-Working groups and guilds are self-organized groups that improve practices, host discussions, and explore ideas at 18F. These volunteer groups decide how and where to focus their efforts and conversations. Anyone may participate in any working group or guild.
+Working groups and guilds are self-organized groups that improve practices, host discussions, and explore ideas in TTS. These volunteer groups decide how and where to focus their efforts and conversations. Anyone may participate in any working group or guild.
 
-18F follows the [TTS Policy and Procedure for Internal Project Review](https://docs.google.com/document/d/1HHDXdiNvLdCFiEPjLwZaV-lhnwWeeq90MZMYAxbkHAM) which exempts working groups and guilds from review.
+The [TTS Policy and Procedure for Internal Project Review](https://docs.google.com/document/d/1HHDXdiNvLdCFiEPjLwZaV-lhnwWeeq90MZMYAxbkHAM) exempts working groups and guilds from review, but client work generally takes priority over guild or working group projects.
 
 ## <a id="key-concepts">Key concepts</a>
 
 **Working groups** are self-organized. They spin up or down depending on our organizational needs.
 
-**Guilds** are more permanent than working groups. They're either created by senior leadership, or working groups may ask senior leadership for guild status. Every guild has an executive sponsor.
+**Guilds** are more permanent than working groups. They are sponsored by the TTS Chief of Staff, and working groups may propose themselves for guild status. Every guild has one or more leaders chosen by competition, and either regular open meetings or an open Slack channel where questions are welcome.
 
-18F has a [playbook](https://pages.18f.gov/grouplet-playbook) with instructions on how to organize a working group or guild, how to maintain team cohesion, and how to produce artifacts. All groups have a Slack channel. Working-group related channels have a `wg-` in front of their name; guilds have a `g-` before the name. Feel free to jump into and out of any of the working group or guild channels to participate or ask questions. The [18F Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) houses all formal meeting times for working groups and guilds.
+18F has a [playbook](https://pages.18f.gov/grouplet-playbook) with instructions on how to organize a working group or guild, how to maintain team cohesion, and how to produce artifacts. All groups have a Slack channel. Working-group related channels have a `wg-` in front of their name; guilds have a `g-` before the name. (Except #research, which is a guild channel without a `g-`) Feel free to jump into and out of any of the working group or guild channels to participate or ask questions. The [18F Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) houses all formal meeting times for working groups and guilds.
 
-The Slack user group for working group and guild leaders is `@wg-g-leads`
+The open Slack channel for guild leaders & other practice leaders who wish to join is `#guild-practice-leads`
 
 <h2><a id="existing-grouplets">Existing groups</a></h2>
 <div class="table-wrapper">
