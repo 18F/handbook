@@ -10,7 +10,7 @@ tags:
 - virtual work agreement
 ---
 
-The official GSA processes for moving and for virtual working have recently changed.  If you need to move or submit a new virtual work agreement, please click on the link below that best reflects your situation. Follow all guidance below the starting point:
+The official GSA processes for moving and for virtual working have recently changed.  If you need to move or submit a new virtual work agreement, click on the link below that best reflects your situation.  Please follow all guidance below the starting point.
 
 * [A virtual employee who is moving to a new virtual location](/moving/#a-virtual-work-agreement-is-needed)
 * [A virtual employee who is moving to one of our offices (DC, CHI, NYC or SFO)](/moving/#effective-date)
