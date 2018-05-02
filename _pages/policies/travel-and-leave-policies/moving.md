@@ -82,7 +82,7 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 1. Change your home address on [Employee Express](https://www.employeeexpress.gov/) to notify most GSA operations of your new address.
 
-2. Once your move is effective in GSA systems (SF50/CHRIS) <<<This step goes away if they're continuing to report to the same office but are moving states (ie New York to New Jersey; they would just need to contact payroll), change your state tax withholding by contacting the payroll office at <mailto:KC-Payroll.Finance@gsa.gov>.
+2. Once your move is effective in GSA systems (SF50/CHRIS), change your state tax withholding by contacting the payroll office at <mailto:KC-Payroll.Finance@gsa.gov>.  *Note:  Skip this step if you are an office employee who’s home address is changing but not your work location; it only applies if your move will have an impact on your state tax withholding*
 
 3. To notify the Thrift Savings Program (TSP) of your new address, email it to both the Consolidated Processing Center at <mailto:cpc.personnel@gsa.gov> and to the payroll office at <mailto:KC-Payroll.Finance@gsa.gov>. Payroll will notify the TSP office of your new address.
 
