@@ -72,7 +72,7 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 
 Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](http://www.gsa.gov/portal/content/102507).
 
-A member of the TTS Talent Team will complete a Request of Personnel Action (RPA).  The RPA is generated after the Virtual Work Agreement, if one is required, is approved by TTS Talent., if  which is used if you're not going to work out of a federal office along with a VWA Appendix 2. The paperwork is submitted to OHRM and then they process everything. You will only need to sign the Appendix 2.
+A member of the TTS Talent Team will complete a Request of Personnel Action (RPA) and submit to OHRM for processing.  If a Virtual Work Agreement is required, the RPA is generated after the VWA has been filled out and signed by TTS leadership, as directed in the VWA [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit).  Then the RPA and VWA are submitted to OHRM for processing.  
 
 ## Changes in pay
 
