@@ -13,7 +13,7 @@ All GSA employees who take mass/public transit to work are eligible for transit 
 
 ##Enrolling in transit benefit
 
-Use `TTS (T)` or `18F (TE)` as your organizational code.  Make sure to select the **Transit Coordinator in the Region in which you reside** - this information is listed in the online form.
+Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to select the **Transit Coordinator in the Region in which you reside** - this information is listed in the online form.
 
 - Go to [https://www.transportation.gov/transerve/participants/gsa](https://www.transportation.gov/transerve/participants/gsa)
 - Click on **Transit Benefit Application**
