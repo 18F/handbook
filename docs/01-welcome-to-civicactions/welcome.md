@@ -25,8 +25,7 @@ See [Orientation Meetings](training/orientation-meetings.md) for a typical onboa
 
 ### General
 
-* [Civicactions Handbook](https://github.com/CivicActions/handbook/blob/master/README.md)
-* [Civicactions Agile Baseline](https://github.com/CivicActions/handbook/blob/master/docs/04-how-we-work/agile-baseline/introduction.md)
+* [Civicactions Handbook in GitHub](https://github.com/CivicActions/handbook/blob/master/README.md)
 * [Bookmarks](../04-how-we-work/bookmarks.md) (websites and tools we use regularly)
 
 ### Human resources
