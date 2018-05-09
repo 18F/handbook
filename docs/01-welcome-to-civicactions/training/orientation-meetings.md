@@ -1,4 +1,4 @@
-# New Hire Orientation Meetings
+# New Hire Orientation meetings
 
 ## Day 1
 
@@ -57,16 +57,16 @@
 
 ### Communication Tools
 
-* Download, setup, and review [basic communication tools](../../04-how-we-work/tools/basic-communication-tools.md)
+* Download, setup, and review the following basic communication tools:
 
-    * [Slack](../../04-how-we-work/tools/basic-communication-tools.md#slack)
-    * [Google apps](../../04-how-we-work/tools/basic-communication-tools.md#google-apps)
-        * [Email](../../04-how-we-work/tools/basic-communication-tools.md#email)
-        * [Calendar](../../04-how-we-work/tools/basic-communication-tools.md#google-calendar)
-        * [Hangouts](../../04-how-we-work/tools/basic-communication-tools.md#google-hangouts)
-        * [Drive and Docs](../../04-how-we-work/tools/basic-communication-tools.md#google-docs)
-    * [Zoom](../../04-how-we-work/tools/basic-communication-tools.md#zoom)
-    * [Telephone use](../../04-how-we-work/tools/basic-communication-tools.md#telephone-use)
+    * [Slack](../../04-how-we-work/tools/slack.md)
+    * Google apps
+        * [Email](../../04-how-we-work/tools/email.md)
+        * [Calendar](../../04-how-we-work/tools/google-calendar.md)
+        * [Hangouts](../../04-how-we-work/tools/google-hangouts.md)
+        * [Drive and Docs](../../04-how-we-work/tools/google-docs.md)
+    * [Zoom](../../04-how-we-work/tools/zoom.md)
+    * [Telephone use](../../04-how-we-work/tools/telephone.md)
 
 
 ### Get to Know Your Colleagues
@@ -91,11 +91,12 @@
 ### Project Overview Info & Some How We Work Info
 
 * Relevant project introductions: Connect with appropriate person to walk through each project to discuss the project and its goals, the product owner, stakeholders, team members, technologies, ticket review, project status, etc.
+
 * Introduction to the [Scrum call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
 * Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retrospectives)
 * Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 * Read about the [gold star program](../../04-how-we-work/gold-star-program.md)
-* Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction & reminder of Scrum 
+* Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
 
 ### Virtual Workplace Basics
 
