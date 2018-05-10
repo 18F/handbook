@@ -39,7 +39,7 @@ The last 5-6 years have seen a slow but steady growth in the government in the o
 - Using other open source projects
 - Contributing and being involved in open source communities
 
-In 2016 the White House published a governmentwide open source policy, the [Federal Source Code Policy](https://sourcecode.cio.gov). We helped with that work and with the creation of [code.gov](https://www.code.gov), the accompanying code sharing platform. We have our own [strong open source policy](/open-source) and have also brought together in one place [many resources that agencies find useful](http://pages.18f.gov/open-source-program/).
+In 2016, the White House published a government-wide open source policy: the [Federal Source Code Policy](https://sourcecode.cio.gov). 18F helped with that work and with the creation of [code.gov](https://www.code.gov), the accompanying code sharing platform. We have our own [strong open source policy](/open-source) and have also brought together in one place [many resources that agencies find useful](http://pages.18f.gov/open-source-program/).
 
 Everything we as a team do should be public and available for collaboration. An open source project isn’t just code - think of it as many forms of contribution working together, including documentation, support, design, and code.
 
