@@ -57,7 +57,8 @@ These meetings do not need to be scheduled in advance and you may hold as many a
 Let the Zoom Admins know as far in advance as possible in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom).
 Currently 18F only has two Pro licenses that allow for meetings longer than 40 minutes. What 
 this means to you is that longer meetings need to be scheduled and are generally a "first come, 
-first served" scenario. Zoom meetings are tracked on a Google Calendar called "Zoom Scheduling." 
+first served" scenario. Zoom meetings are tracked on a Google Calendar called "Zoom Scheduling." We
+have one license for meetings with over 50 participants.
 
 Before your scheduled meeting, the Zoom Admins will promote your account to Pro Status. If there are multiple 
 meetings scheduled that day, your account will be promoted as soon as the Pro account is available. The Zoom Admins will try to schedule 30 minutes on each side of the requested time to allow you ample setup time as well as padding in the event that your meeting runs long. 
