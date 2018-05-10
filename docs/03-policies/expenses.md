@@ -26,6 +26,7 @@ To request approval:
    * Sales: Bill Oglive
    * IT/IS: Owen Barton
    * Other: Elizabeth Raley
+5. Click on Watch under Actions so you will be notified when the card is moved to the approved column.
 
 ### Expense approval
 
