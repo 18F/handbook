@@ -10,7 +10,7 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 ## <a id="rules">Rules</a>
 
-- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Holly Allen](https://gsa-tts.slack.com/messages/holly/).
+- **Abide by [the 18F Code of Conduct](/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
 
 - Everything in our Google Drive, including Google Docs, can be FOIA&rsquo;ed.
 
