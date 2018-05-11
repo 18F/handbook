@@ -102,5 +102,5 @@ Accurately estimating is one of the most difficult things to do. Developers shou
 * [Trello](../04-how-we-work/tools/trello.md)
 * [GitHub](../04-how-we-work/tools/github.md)/Waffle
 * Burndown charts
-* [Google Docs/Folders](../04-how-we-work/tools/basic-communication-tools.md#google-docs)
-* [Slack](../04-how-we-work/tools/basic-communication-tools.md#slack) (client-facing and internal channels)
+* [Google Docs/Folders](../04-how-we-work/tools/google-docs.md)
+* [Slack](../04-how-we-work/tools/slack.md) (client-facing and internal channels)
