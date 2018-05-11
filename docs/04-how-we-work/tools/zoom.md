@@ -11,10 +11,9 @@
 
 ## Free vs paid accounts
 
-Most civicactions employees have free Zoom accounts, which have enough features to participate and to host short meetings. Meeting hosts may need paid accounts, because free accounts are limited in two important always:
+Most CivicActions employees have free Zoom accounts, which have enough features to participate and to host short meetings. Meeting hosts may need paid accounts, because free accounts are limited in two important ways:
 
 * Meetings are limited to 40 minutes.
 * No recording is possible.
 
 Paid accounts are available for those who need them regularly (once a week or so, or if you host a regular call that needs Zoom). If you need to host a longer meeting, or you need to record a meeting, you can either ask a project manager or someone you know has a paid account to host it for you, or you can request a paid account via <mailto:admin@civicactions.com>.
-
