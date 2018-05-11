@@ -22,7 +22,7 @@ Project managers at CivicActions typically become very proficient in Jira.
 
 ### Setting up workflows
 
-Jira's default workflow doesnt fit all projects, and project managers usually work with their team to configure a workflow that team's needs. Some questions to ask when optimizing the workflow might include: 
+Jira's default workflow doesn't fit all projects, and project managers usually work with their team to configure a workflow that team's needs. Some questions to ask when optimizing the workflow might include: 
 
 * Is there a development branch?  Does a workflow need to show when development gets merged into master? 
 * Are there documentation stages that need to happen post-development?  
