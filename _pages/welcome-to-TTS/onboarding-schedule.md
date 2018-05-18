@@ -39,7 +39,7 @@ In your second week, you’ll learn how travel and recruitment work, and get an 
 
 ### Thursday
 * [Travel 101](/travel-101) ([Description](/classes/#travel))
-* * [Mission, culture, and history of 18F](/history-and-values) ([Description](/classes/#mission-culture-history))
+* [Mission, culture, and history of 18F](/history-and-values) ([Description](/classes/#mission-culture-history))
 * [Professional development, conferences, speaking opportunities, and IDPs](/professional-development-and-training) ([Description](/classes/#professional-development))
 
 ### Friday
