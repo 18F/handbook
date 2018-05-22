@@ -20,6 +20,21 @@ Project Managers start and end sprints, help keep track of overall workloads and
 
 Project managers at CivicActions typically become very proficient in Jira.
 
+### Setting up workflows
+
+Jira's default workflow doesn't fit all projects, and project managers usually work with their team to configure a workflow that team's needs. Some questions to ask when optimizing the workflow might include: 
+
+* Is there a development branch?  Does a workflow need to show when development gets merged into master? 
+* Are there documentation stages that need to happen post-development?  
+* What environments are in play for each stage in the workflow? Should the column names reflect that? 
+* Who's doing the QA?  Same as code review? 
+* Does signoff or UAT require input from various stakeholders? 
+* How does Product Owner (or whomever is doing UAT) get alerted when something is ready for their review?
+* Where do tickets reflecting design deliverables go when they are ready for review? 
+* What does the final "Done" column mean? Does it reflect something released to a production site? 
+
+Some sample workflows for a variety of projects have been documented in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1Ji0ZkO7GDK1lci1y_zYUqqlwiJe5FBmV9fsCe0T7GQY/edit#gid=0).
+
 ## The engineer's role in Jira
 
 Engineers and other staff who work on Jira must keep track of the tickets assigned to them, and make sure to update them appropriately as work takes place.
@@ -37,13 +52,9 @@ Most tickets will benefit from careful estimates of how much work/time is involv
 ## Other resources:
 
 * [Jira & Agile Project Management Video](http://youtu.be/NrHpXvDXVrw) (0:40 min)
-
 * [Jira in a Nutshell Video](http://youtu.be/xrCJv0fTyR8) (0:04 min)
-
 * [Jira Product Overview](http://youtu.be/tVCjr0HffVA) (0:05 min)
-
 * [Jira 101](https://confluence.atlassian.com/jira064/jira-101-720412861.html)
-
 * [Jira Agile Tutorial](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/jira-agile-tutorials)
-
 * [Planning and Estimating Work Tutorial](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/jira-agile-tutorials/tutorial-planning-and-estimating-work-for-an-agile-team)
+
