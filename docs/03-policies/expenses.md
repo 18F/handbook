@@ -26,7 +26,7 @@ To request approval:
    * Sales: Bill Oglive
    * IT/IS: Owen Barton
    * Other: Elizabeth Raley
-5. Click on Watch under Actions so you will be notified when the card is moved to the approved column.
+6. Click on Watch under Actions so you will be notified when the card is moved to the "Approved" column (you will not move the card to "Approved").
 
 ### Expense approval
 
@@ -38,7 +38,7 @@ To approve your request, the budget owner will move it into the "Approved" colum
 
 1. [Log your reciepts to Harvest](../04-how-we-work/tools/harvest.md#tracking-expenses)
 2. Once all reciepts are logged, add a comment to the Trello card indicating the total amount of expenses incurred.
-3. Move your card from the "Approved" column to the "Submitted" column.
+3. Move your card from the "Approved" column to the "Submitted" column. (note that the Approver listed above needs to be the one to move your card from "Submitted" to "Approved" first.)
 4. Admin/Judy will reimburse the expense amount and move the card to the "Reimbursed" column.
 
 ## Expense guidelines
