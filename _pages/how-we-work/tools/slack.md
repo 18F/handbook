@@ -180,16 +180,16 @@ Groups are a great way to alert people who might not be in a channel about somet
   - **18F employees** ping @commsquad or post in [#outreach](https://gsa-tts.slack.com/archives/news) to get a review of the language. Once it's ready, Sarah Milstein or Andre Francisco can post it.
   - **Acquisitions employees** review your post with Stephen Reilly, and he can post it when it's ready.
   - **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
-  - **PIF employees** review your post with Nathan Olson, and he can post it when it's ready.
-
-  Please keep #news posts limited to information that the entire team needs to know. This includes things like:
-    - Required trainings
-    - Necessary security and compliance actions
-    - Policy changes or reminders
-    - All-team events
-    - Senior management team meeting notes
-    - Changes or actions that impact the entire team
-
+  - **PIF employees** review your post with Joshua Di Frances, and he can post it when it's ready.
+  
+  Please keep #news posts limited to information that the entire team needs to know. This includes things like:  
+    - Required trainings  
+    - Necessary security and compliance actions  
+    - Policy changes or reminders  
+    - All-team events  
+    - Senior management team meeting notes  
+    - Changes or actions that impact the entire team  
+  
 ### When to use @channel and @here
 In general, the larger a channel is, the more careful you should be about using broadcast notifications.
 
