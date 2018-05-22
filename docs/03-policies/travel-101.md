@@ -13,9 +13,9 @@ Questions? [Ask Judy](mailto:%3Cjudy.raiten@civicactions.com%3E).
 
 Travel time is usually billed to a specific project.
 
-## Expense Reimbursement
+## Expense Approval and Reimbursement
 
-CivicActions will timely reimburse business-related out-of-pocket expenses as long as you submit a receipt. See [Tracking Expenses in Harvest](../04-how-we-work/tools/harvest.md) for details on the reimbursement process.
+For any project or team onsites, your expenses are almost always reimbursable. Please see [our expense policy](expenses.md) for details on the expense approval and reimbursement process.
 
 ## Mileage Reimbursement
 

@@ -35,21 +35,37 @@ Then:
 * Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
 * Time and Materials: 85-95% (34-38 hours / week)
 
-### Delivery Time Entries
+### Projects with Service Area-Based Tasks
 
-* If you're an engineer: CA > Delivery > Engineering
-    * Types of meetings: Weekly & monthly all hands call, engineering meeting, devops meeting, pod calls, professional development, community participation
-* If you're a Project Manager: CA > Delivery > Project Management
-    * Types of meetings: Weekly & monthly all hands call, project manager meeting, pod calls, checkins with team members on performance & balance, professional development, community participation
+A lot of our internal time represents an investment in a service area, so we’re going to track that time accordingly. 
 
-#### Onboarding Time Entries
+* CA > Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc
+* CA > Check-in Calls - use this for one-on-ones, like with your manager, or onboarding/mentoring
+* CA > Documentation - use this for documentating 
+* CA > Professional Development
+* CA > IT/IS
+* CA > Community Participation
+* Other ad hoc projects like CA > Help Desk
 
-Enter a description like the below examples in the task description that includes the word "onboarding"
+
+### Onboarding Time Entries
+
+Log your time in the CivicActions project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description like the below examples in the task description that includes the word _onboarding_.
 
 * Onboarding Meeting
 * Onboarding handbook and/or trello board cards review
 * Onboarding watching scrum videos
 * Onboarding resume and bio work
+
+### Projects with Generic Tasks
+
+For some internal projects, we don’t care about tracking our time by service area, and you won’t see service area based tasks there. 
+
+* CA > All hands calls
+* CA > Pod calls
+* CA > Management
+* CA > Time off
+
 
 ## Harvest Timer Options
 
@@ -89,9 +105,9 @@ The Trello integration will require that you install the Chrome extension found 
 
 Track expenses in the Harvest Expense tracking section.
 
-Except for professional development expenses of less than $50, all expenses should be approved by the relevant budget owner PRIOR to being incurred. E.G. Owen approves Delivery budget expenses, Bill approves Sales/Bizdev budget expenses and Aaron approves marketing expenses.
+Before you incur or track expenses be sure to get approval as described in the [expense policy](../../03-policies/expenses.md).
 
-For any project or team onsites, your expenses are almost always reimbursable. Your project manager and Judy will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight, then that wouldn't be reimbursable but the amount for an economy class would.
+Billable expenses are when a cost can be passed back through to the client. This is usually only the case when the client has an approved budget for travel or other costs. Your project manager will be able to answer questions per project if you are not sure about the cost being billable or not. 
 
 There are mobile apps that make this part of Harvest easy to use, if you'd like to try them:
 
@@ -106,9 +122,11 @@ Directions for submitting expenses:
 2. Enter a description
 3. Enter the amount in USD
 4. Attach a picture of your receipt to each entry
-5. Only mark "billable" if the expense will be invoiced to a client
-6. EMAIL Judy that you have expenses in Harvest for her review
-
+5. Only mark "billable" if the expense will be invoiced back to a client
+6. Once all reciepts are logged
+   1. Go to the [Expenses Trello board](https://trello.com/b/2b6lZZ2Q/expenses) and find your expense4 request card
+   2. Add a comment indicating the total amount that needs to be reimbursed
+   3. Move your card from the "Approved" column to the "Submitted" column  - this lets Admin/Judy know these expenses are ready for reimbursement
 
 ![Harvest screenshot 8](../../images/harvest08.png)
 

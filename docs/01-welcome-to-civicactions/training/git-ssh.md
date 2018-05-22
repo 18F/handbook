@@ -22,12 +22,10 @@ Host *.civicactions.net
 Port 940
 ```
 
-## Git and SSH
+## Gitlab and SSH
 
-* Someone will have created an account for new employee, they should search email for git.civicactions.net for the welcome email
+* Someone will have created a Gitlab account for new employee, they should search email for git.civicactions.net for the welcome email
 * Upload public key to git.civicactions.net
-* Once ssh key is uploaded, ask David or Owen to add key to accman (Account Manager, openwall)
-* Documentation about this stuff is in [CivicActions.net](http://civicactions.net/content/howto-use-ssh-and-publicprivate-keys-log-vhosts)
 * Create a ~/.ssh/config file if you don't already have one, then add one, and add the lines in the description of this card up above.
 
 ## Sandbox

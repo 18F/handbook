@@ -1,5 +1,5 @@
 ---
-version: 1.1.1
+version: 1.1.2
 ---
 
 # CivicActions Security Policy
@@ -94,7 +94,7 @@ The security of our systems is only as strong as the weakest link. Hence it is i
 Before connecting and authenticating to any CivicActions IT system or storing confidential information on your systems, all users must ensure that:
 
 * Operating systems, and all software that makes network connections (such as web browsers), or opens files that have been downloaded from the Internet (such as PDF readers) is patched or updated to resolve critical publicly known vulnerabilities, or, when an older version of a program is used on purpose (such as for interoperability testing), it is run in a sandbox (typically a virtual machine).
-* Systems vulnerable to malware infections (primarily Windows, but may include other systems and mobile devices) are running a high-quality virus scanner (such as Kaspersky, Avast, or ClamAV) that automatically updates its virus definitions at least every 24 hours, detects malware in a real-time fashion, and completes a full system scan at least every week. In addition, Windows users are expected to run a general malware scanner (which may be integrated into the virus scanner, or may be separate, such as Ad-aware or Spybot - Search & Destroy) that detects accidentally installed malware that does not qualify as a virus.
+* Systems vulnerable to malware infections (primarily Windows, but may include other systems and mobile devices) are running a high-quality virus scanner (such as Avast or ClamAV) that automatically updates its virus definitions at least every 24 hours, detects malware in a real-time fashion, and completes a full system scan at least every week. In addition, Windows users are expected to run a general malware scanner (which may be integrated into the virus scanner, or may be separate, such as Ad-aware or Spybot - Search & Destroy) that detects accidentally installed malware that does not qualify as a virus.
 * A firewall is configured to block all unsolicited incoming connections to systems that store confidential information (or contain saved passwords that provide access to confidential information, although we discourage saving of passwords). This can be a network router NAT based firewall, or a software based firewall running on your local machine. This applies to all operating systems.
     * For laptops that are used in hostile network environments (including public places such as cafes or airports) a software based firewall is mandatory.
     * For users of Unix based systems, such as GNU/Linux and OS X, it is acceptable to open port 22 to allow external SSH access to home/office computers, as long as these systems are up-to-date with security patches and they use strong account passwords or SSH keys.
@@ -212,7 +212,7 @@ Developers and themers maintaining local sandbox copies of client sites must als
 Developers and themers working on the site vhost (SSH/shell, file system, database) must also:
 
 * Ensure they follow best practices with respect to SSH keys, passphrases and passphrase caching (see above).
-* SSH, SFTP and SCP access to vhosts should only ever be through our central pull keys SSH key distribution system. Access by password, manually installed SSH key, web based "shell" script, port forwarding to 3rd parties or other methods are forbidden by unless authorized in advance by the CIO.
+* SSH, SFTP and SCP access to vhosts are managed exclusively by designated admin(s). Access by password, manually installed SSH keys (other than by admins), web based "shell" script, port forwarding to 3rd parties or other methods are forbidden by unless authorized in advance by the CIO.
 * Temporary SSH port forwarding is permitted for the purpose of accessing the server MySQL from your own desktop.
 * Accessing CivicActions servers by initiating an SSH connection from external client or 3rd party servers is strongly discouraged - it is preferable to SSH out from the CivicActions server.
 * Running non-standard software on a vhost requires a system ticket and approval from a member of the IT team. This includes:
