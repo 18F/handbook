@@ -31,11 +31,11 @@ Specifically, a content audit and analysis helps us understand:
 * What is the lifecycle history of content?
 
 ## Recommended Reading:
-* Donna Spencer, [_UX Mastery_, "How to conduct a content audit" (October 16, 2014)](https://uxmastery.com/how-to-conduct-a-content-audit/)
-* [_boxes and arrows_, "Content Analysis Heuristics" (March 12, 2007)](http://boxesandarrows.com/content-analysis-heuristics/)
+* Donna Spencer, [*UX Mastery*, "How to conduct a content audit" (October 16, 2014)](https://uxmastery.com/how-to-conduct-a-content-audit/)
+* [*boxes and arrows*, "Content Analysis Heuristics" (March 12, 2007)](http://boxesandarrows.com/content-analysis-heuristics/)
 * [University of Minnesota IT, "Moving to Drupal: Content Audit"](https://it.umn.edu/drupal-enterprise-moving-drupal-content) (includes a content audit worksheet template)
-* Kristina Halvorson, [_Content Strategy for the Web_](https://www.contentstrategy.com/content-strategy-for-the-web), chapter 5
-* Erin Kissane, [_The Elements of Content Strategy_](https://abookapart.com/products/the-elements-of-content-strategy), chapter 3, "Tools and Techniques"
+* Kristina Halvorson, [*Content Strategy for the Web*](https://www.contentstrategy.com/content-strategy-for-the-web), chapter 5
+* Erin Kissane, [*The Elements of Content Strategy*](https://abookapart.com/products/the-elements-of-content-strategy), chapter 3, "Tools and Techniques"
 
 ## Examples:
 * A [quantitative inventory](https://drive.google.com/file/d/0BycOAkkCLHdWczJMTFBmV0x1ZzQ/view) (generated automatically with this [auditing tool](https://github.com/fmizzell/auditing)) for the redesign of dnfsb.gov
