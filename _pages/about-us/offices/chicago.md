@@ -8,19 +8,19 @@ title: Chicago
       <tr>
         <td class="col-key"><strong>Location</strong></td>
         <td class="col-value">
-        230 S. Dearborn St., Suite #3780<br />
+        230 S. Dearborn St., Suite #3500<br />
         Chicago, IL 60604
         </td>
       </tr>
       <tr>
-        <td class="col-key"><strong>Point&nbsp;of&nbsp;contact</strong></td>
+        <td class="col-key"><strong>Point of contact</strong></td>
         <td class="col-value">
         <a href="https://gsa-tts.slack.com/messages/@eth/">Ethan Heppner</a> 
         </td>
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Slack&nbsp;channel</strong>
+          <strong>Slack channel</strong>
         </td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/chitown/">#chitown</a>
@@ -31,13 +31,13 @@ title: Chicago
           <strong>Office&nbsp;/&nbsp;Seats</strong>
         </td>
         <td class="col-value">
-           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock building. The Acting Regional Administrator is John Cooke.<br /><br />
-       TTS's office is in suite 3780 in the south side corner of the 33rd floor.
+           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Acting Regional Administrator is John Cooke.<br /><br />
+       TTS's office is in the south side of the 33rd floor (note that our mailing address is Suite #3500 but our office is on 33).
         </td>
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value">Great Lakes Region (<a href="http://www.gsa.gov/portal/category/22227">region 5</a>)</td>
+        <td class="col-value">Great Lakes Region (<a href="http://www.gsa.gov/portal/category/22227">Region 5</a>)</td>
       </tr>
     </tbody>
   </table>
