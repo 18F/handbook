@@ -42,7 +42,7 @@ Learn about user-centered design and hear what the design team is up to! You’l
 **When:** Fourth Monday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#design](https://gsa-tts.slack.com/messages/design)
 
-### <a id="writing-labs" href="/intro-to-writing-lab">Writing Lab</a>
+### <a id="writing-labs" href="/writing-lab">Writing Lab</a>
 
 The Writing Lab at 18F can help you with any of your communications needs. Giving a presentation, writing copy, or starting a website? The Writing Lab can help! Learn more about the team and the assistance it gives.
 
