@@ -77,7 +77,7 @@ This will be your last week of training (though you’re always welcome to come 
 
 ### Monday
 * [Introduction to the Design Team](/design) ([Description](/classes/#design-team))
-* [Introduction to the Writing Lab](/intro-to-writing-lab) ([Description](/classes/#writing-labs))
+* [Introduction to the Writing Lab](/writing-lab) ([Description](/classes/#writing-labs))
 
 ### Wednesday
 * [Social media 101](/slack) ([Description](/classes/#social-media))
