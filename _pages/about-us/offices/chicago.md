@@ -8,19 +8,19 @@ title: Chicago
       <tr>
         <td class="col-key"><strong>Location</strong></td>
         <td class="col-value">
-        230 S. Dearborn St., Suite #3780<br />
+        230 S. Dearborn St., Suite #3500<br />
         Chicago, IL 60604
         </td>
       </tr>
       <tr>
-        <td class="col-key"><strong>Point&nbsp;of&nbsp;contact</strong></td>
+        <td class="col-key"><strong>Point of contact</strong></td>
         <td class="col-value">
         <a href="https://gsa-tts.slack.com/messages/@eth/">Ethan Heppner</a> 
         </td>
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Slack&nbsp;channel</strong>
+          <strong>Slack channel</strong>
         </td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/chitown/">#chitown</a>
@@ -31,13 +31,13 @@ title: Chicago
           <strong>Office&nbsp;/&nbsp;Seats</strong>
         </td>
         <td class="col-value">
-           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock building. The Acting Regional Administrator is John Cooke.<br /><br />
-       TTS's office is in suite 3780 in the southeast corner of the 37th floor.
+           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Acting Regional Administrator is John Cooke.<br /><br />
+       TTS's office is in the south side of the 33rd floor (note that our mailing address is Suite #3500 but our office is on 33).
         </td>
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value">Great Lakes Region (<a href="http://www.gsa.gov/portal/category/22227">region 5</a>)</td>
+        <td class="col-value">Great Lakes Region (<a href="http://www.gsa.gov/portal/category/22227">Region 5</a>)</td>
       </tr>
     </tbody>
   </table>
@@ -45,7 +45,7 @@ title: Chicago
 
 ## <a id="getting-here"></a>Getting here
 
-### <a id="from-ohare"></a>From O&rsquo;Hare International Airport
+### <a id="from-ohare"></a>From O'Hare International Airport
 
 Public transit is from O'Hare to the TTS Chicago office is cheap, fairly quick, and convenient. Blue Line trains run from the airport to downtown 24/7 and take about 50 minutes. The closest stop to the office is **Jackson**.
 
@@ -75,7 +75,7 @@ Garage parking downtown is very expensive. "Early bird" rates start at $18, and 
 
 ## <a id="how-do-i"></a>How do I&hellip;?
 
-### <a id="enter-the-building"></a>Enter the building for the first time (or if I don&rsquo;t have a GSA badge)?
+### <a id="enter-the-building"></a>Enter the building for the first time (or if I don't have a GSA badge)?
 
 During business hours (9 a.m. to 4:30 p.m.), pass through security as a normal visitor. If arriving outside business hours, arrange for a TTS team member inside the office to escort you.
 
@@ -97,21 +97,11 @@ After-hours access between 6 p.m. and 7 a.m. is allowed with a GSA badge. Log yo
 
 ### <a id="book-rooms"></a>Book rooms for meetings?
 
-In Chicago, you can book rooms using Google Calendars:
-
-1. Create an event, and click **Edit Event**. ![Google calendar with 'edit event' selected]({{ site.baseurl }}/images/chicago-calendar-1.png)
-2. Above the box where you would normally add guests, click **Rooms, etc**. ![List of rooms on Google calendar]({{ site.baseurl }}/images/chicago-calendar-2.png)
-3. Click **R05** to see rooms available in region 5. You'll see a list of available rooms below.
-4. Select **Show only available** so you don't try to reserve a room that is already booked!
-5. Look for rooms that have "JCK" in them, as those are the ones that are in the same building as the TTS office. _Make sure that you're not booking a room that is literally in Ohio._
-
-Alternative: Use the search bar. For example, Room 3380 (the one that we normally use for the all-hands) comes up when you type in 3380.
-
-![Search bar in Google Calendar]({{ site.baseurl }}/images/chicago-calendar-3.png)
+In Chicago, you can book rooms using [BookIt](https://bookit.gsa.gov/mobile/menuAction.do?pageForward=home).
 
 If the room that you want isn't coming up, that means it's probably been booked already. Feel free to [ping Ethan]() if you have any difficulties.
 
-**Recommended rooms:**  3380: room used for All-Hands on the NE corner of floor 33; it seats up to 10.
+**Recommended rooms:**  3380: room used for All-Hands on the NE corner of floor 33; it seats up to ten people.
 
 ### <a id="wi-fi"></a>Connect to the Wi-Fi
 
@@ -127,9 +117,6 @@ Bathrooms are just down the hall from the TTS office.
 
 Incoming mail is delivered to and outgoing mail is collected from the office twice daily.
 
-### <a id="conference-rooms"></a>Conference rooms
-
-Conference rooms: the TTS office has four quiet rooms (soon to be two quiet rooms and one conference room).
 
 ### <a id="lockers"></a>Lockers
 
@@ -159,7 +146,6 @@ _Key Card Access_
 
 To update your key card to get access to the parking garage you need to fill out [this form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbRGxCcmVoeTBXLXF0YU4wWjBpOHhCN21aRDZv/view?usp=sharing) to have access.  
 A few things to note:
-
 
 - Your supervisor should sign both the Supervisor and Authorized Agency Approver sections.
 - You will need your PIV card PIN to get access.
