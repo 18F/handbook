@@ -20,7 +20,7 @@ STANDARD OPERATING PROCEDURE: TC-17-CS4-001<br>
 <br>
 **1.0 Purpose:** The purpose of SOP TC-17-CS4-001 is to establish uniform requirements for TTS OA official contract file content, organization, and storage, while supplementing existing Federal Acquisition Regulation ([FAR Subpart 4.8](https://www.acquisition.gov/far/html/Subpart%204_8.html)) and General Services Administration Acquisition Manual ([GSAM Subpart 504.8](https://www.acquisition.gov/sites/default/files/current/gsam/html/Part504.html#wp1863182)).
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Iteration 1.1 Purpose:** Update SOP TC-17-CS4-001 to include a modification checklist.
++ **Iteration 1.1 Purpose:** Update SOP TC-17-CS4-001 to include a modification checklist.
 
 + **Iteration 1.2 Purpose:** Update SOP TC-17-CS4-001 to include instructions on how to share folders in     Google Drive, remove irrelevant authority on modification checklist, and clarify the tab for management     reviews (Tab # 25).
 
@@ -28,18 +28,18 @@ STANDARD OPERATING PROCEDURE: TC-17-CS4-001<br>
 
 **3.0 Instructions and Procedures:** TTS OA employees are required to apply the contract file documentation requirements:
 
-~ **3.1 Contract Folder:** The TTS OA Contracting Officer (CO) will create a contract folder and name it using the following format - Project Title_Contract Award # (when available).
++ **3.1 Contract Folder:** The TTS OA Contracting Officer (CO) will create a contract folder and name it using the following format - Project Title_Contract Award # (when available).
 
-> 3.2 Location:** All official contract folders and files will be stored in TTS OA Google Drive - “18F Acquisition” - “[Official TTS Contracts](https://drive.google.com/drive/folders/0BxTwA-UymFarbFNMVUcxRGI5bE0)”.
++ **3.2 Location:** All official contract folders and files will be stored in TTS OA Google Drive - “18F Acquisition” - “[Official TTS Contracts](https://drive.google.com/drive/folders/0BxTwA-UymFarbFNMVUcxRGI5bE0)”.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**3.3 Ownership:** The TTS OA CO is responsible for and owns the official contract file. The CO must check the following default contract file settings under Advanced:
++ **3.3 Ownership:** The TTS OA CO is responsible for and owns the official contract file. The CO must check the following default contract file settings under Advanced:
   - Prevent editors from changing access and adding new people
   - Disable options to download, print, and copy for commenters and viewers
 
-&nbsp;&nbsp;&nbsp;&nbsp;**3.4 Sharing:** It is the TTS OA CO’s responsibility to determine the appropriate access rights using Google’s sharing function. In addition, it is the CO’s responsibility to identify the requestor’s need to know and to ensure the necessary non-disclosure agreement (NDA) is on file. The CO shall ensure the invite settings are “View only.” In order to add a file/folder to multiple folders in  Google drive, highlight folder, press Shift + Z and you’ll see an “Add to Folder” pop-up. Select the location where you wish to add the folder and click OK. The selected folder will now be located in multiple folders.
++ **3.4 Sharing:** It is the TTS OA CO’s responsibility to determine the appropriate access rights using Google’s sharing function. In addition, it is the CO’s responsibility to identify the requestor’s need to know and to ensure the necessary non-disclosure agreement (NDA) is on file. The CO shall ensure the invite settings are “View only.” In order to add a file/folder to multiple folders in  Google drive, highlight folder, press Shift + Z and you’ll see an “Add to Folder” pop-up. Select the location where you wish to add the folder and click OK. The selected folder will now be located in multiple folders.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**3.5 Contract File Content:** All files will follow the folder and naming convention outlined in the Contract File Checklist. See Attachment: [Official TTS Contract File Checklist](https://docs.google.com/document/d/1eaG8sIKUA4t6oaqivUkBL4rgHFd6IyoQJ6G-pTnG6HU/edit) for required contract file contents. For contract modifications, please see [Attachment 2: Modification Checklist](https://docs.google.com/document/d/1h67-pidlodKIhGXpXnAGHwGm8KXcUEfgvsMAmQwxBxI/edit). Complete the checklist and include it in the contract folder. Omit any folder that does not pertain to the procurement.
++ **3.5 Contract File Content:** All files will follow the folder and naming convention outlined in the Contract File Checklist. See Attachment: [Official TTS Contract File Checklist](https://docs.google.com/document/d/1eaG8sIKUA4t6oaqivUkBL4rgHFd6IyoQJ6G-pTnG6HU/edit) for required contract file contents. For contract modifications, please see [Attachment 2: Modification Checklist](https://docs.google.com/document/d/1h67-pidlodKIhGXpXnAGHwGm8KXcUEfgvsMAmQwxBxI/edit). Complete the checklist and include it in the contract folder. Omit any folder that does not pertain to the procurement.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**3.6 Archive:** Upon completion of contract performance, the folder name should be changed to reflect the contract status (i.e “Expired”, “Terminated” or “Closed”) as part of the folder name. Ensure the Contracting Officer Representative (COR) file has been shared for retention in the official contract file upon completion or termination of the contract.
++ **3.6 Archive:** Upon completion of contract performance, the folder name should be changed to reflect the contract status (i.e “Expired”, “Terminated” or “Closed”) as part of the folder name. Ensure the Contracting Officer Representative (COR) file has been shared for retention in the official contract file upon completion or termination of the contract.
 
 **4.0  Security:**  The General Services Administration’s (GSA) application of Google Drive has been approved at the FISMA moderate security level by the GSA Chief Information Officer (CIO).  Google Drive thereby has the requisite security protocols for storing agency and service level contract data and information when information stored there is shared properly per [GSA guidelines](https://insite.gsa.gov/portal/category/536446) and training provided to users.
