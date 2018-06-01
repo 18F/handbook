@@ -2,7 +2,7 @@
 title: Acquisition (aka AcqStack)
 ---
 
-This page XXXXXXX
+Welcome to Acqstack’s team page!
 
 ## Our Vision
 
@@ -41,9 +41,7 @@ If you’re looking to have the TTS Office of Acquisition (OA) procure anything 
 Have questions? Find us in Slack at [#acquisition](https://gsa-tts.slack.com/messages/acquisition)
 
 ## TTS Office of Acquisition Operational Guidance
-TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to service level procurement policies. [TTS OA Operational Guidance](/acquisition-guidance), which includes standard operating procedures, #readme’s, templates, checklists and other operational guidance documents, were established to keep TTS procurement practices agile, current, applicable and in compliance at the Federal, Agency and Service levels. In keeping with an agile principle of continuous improvement, TTS OA will solicit feedback in iterations to keep our guidance most up to date and accurate.
-
-Please note that the TTS OA Operational Guidance apply only to acquisition related activities executed and/or administered by warranted Contracting Officers (CO) and supported by Contracting Officer’s Representatives (COR), product leads and technical leads within the GSA-FAS-TTS Office of Acquisition (OA).
+TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to service level procurement policies. [TTS OA Operational Guidance](/acquisition-guidance), which includes standard operating procedures, #readme’s, templates, checklists and other operational guidance documents, were established to keep TTS procurement practices agile, current, applicable and in compliance at the Federal, Agency and Service levels. 
 
 ---
 
