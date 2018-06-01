@@ -9,7 +9,7 @@ Technology Transformation Service (TTS)<br>
 Office of Acquisition (OA)<br>
 STANDARD OPERATING PROCEDURE: TC-17-CS4-001<br>**
 ***Iteration 2.0 Date: February 9, 2018***<br>
-<br>**
+<br>
 
 |---|---|
 |**TO:**|GSA TTS, Office of Acquisition|
