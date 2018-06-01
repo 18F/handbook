@@ -6,14 +6,14 @@ This page provides XXXXXXX
 
 ## Table of Contents
 
-[Contract File Management](/acquisition-guidance/#Contract-File-Management)
-[Contract Transfer Guidance](/acquisition-guidance/#Contract-Transfer-Guidance)
-[COR Appointment and Delegation](/acquisition-guidance/#COR-Appointment-and-Delegation)
-[COR Training](/acquisition-guidance/#COR-Training)
-[Management Reviews](/acquisition-guidance/#Management-Reviews)
-[Non-Disclosure Agreement and COI](/acquisition-guidance/#Non-Disclosure-Agreement-and-COI)
-[OA Roles and Responsibilities](/acquisition-guidance/#Office-of-Acquisition-Roles-and-Responsibilities)
-[Software Procurement](/acquisition-guidance/#Software-Procurement)
+* [Contract File Management](/acquisition-guidance/#Contract-File-Management)
+* [Contract Transfer Guidance](/acquisition-guidance/#Contract-Transfer-Guidance)
+* [COR Appointment and Delegation](/acquisition-guidance/#COR-Appointment-and-Delegation)
+* [COR Training](/acquisition-guidance/#COR-Training)
+* [Management Reviews](/acquisition-guidance/#Management-Reviews)
+* [Non-Disclosure Agreement and COI](/acquisition-guidance/#Non-Disclosure-Agreement-and-COI)
+* [OA Roles and Responsibilities](/acquisition-guidance/#Office-of-Acquisition-Roles-and-Responsibilities)
+* [Software Procurement](/acquisition-guidance/#Software-Procurement)
 
 ## Contract File Management
 
