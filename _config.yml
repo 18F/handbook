@@ -234,9 +234,6 @@ navigation:
   - text: Acquisitions
     url: acquisition/
     internal: true
-  - text: Acquistions #2
-    url: acquistion-2/
-    internal: true
   - text: Agreements
     url: agreements/
     internal: true
