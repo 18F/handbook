@@ -9,6 +9,7 @@ Technology Transformation Service (TTS)<br>
 Office of Acquisition (OA)<br>
 STANDARD OPERATING PROCEDURE: TC-17-CS4-001<br>
 *Iteration 2.0 Date: February 9, 2018*<br>
+<br>
 
 |---|---|
 |TO:|GSA TTS, Office of Acquisition|
@@ -20,15 +21,16 @@ STANDARD OPERATING PROCEDURE: TC-17-CS4-001<br>
 **1.0 Purpose:** The purpose of SOP TC-17-CS4-001 is to establish uniform requirements for TTS OA official contract file content, organization, and storage, while supplementing existing Federal Acquisition Regulation ([FAR Subpart 4.8](https://www.acquisition.gov/far/html/Subpart%204_8.html)) and General Services Administration Acquisition Manual ([GSAM Subpart 504.8](https://www.acquisition.gov/sites/default/files/current/gsam/html/Part504.html#wp1863182)).
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Iteration 1.1 Purpose:** Update SOP TC-17-CS4-001 to include a modification checklist.
-&nbsp;&nbsp;&nbsp;&nbsp;**Iteration 1.2 Purpose:** Update SOP TC-17-CS4-001 to include instructions on how to share folders in     Google Drive, remove irrelevant authority on modification checklist, and clarify the tab for management     reviews (Tab # 25).
+
++ **Iteration 1.2 Purpose:** Update SOP TC-17-CS4-001 to include instructions on how to share folders in     Google Drive, remove irrelevant authority on modification checklist, and clarify the tab for management     reviews (Tab # 25).
 
 **2.0 Applicability:** This SOP applies only to TTS OA procurement actions over the micro-purchase threshold (see [Federal Acquisition Regulation [FAR] Subpart 2.101](https://www.acquisition.gov/far/html/Subpart%202_1.html)) that will be executed by warranted TTS OA Contracting Officers (COs).  This SOP does not apply to any working files.
 
 **3.0 Instructions and Procedures:** TTS OA employees are required to apply the contract file documentation requirements:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**3.1 Contract Folder:** The TTS OA Contracting Officer (CO) will create a contract folder and name it using the following format - Project Title_Contract Award # (when available).
+~ **3.1 Contract Folder:** The TTS OA Contracting Officer (CO) will create a contract folder and name it using the following format - Project Title_Contract Award # (when available).
 
-&nbsp;&nbsp;&nbsp;&nbsp;**3.2 Location:** All official contract folders and files will be stored in TTS OA Google Drive - “18F Acquisition” - “[Official TTS Contracts](https://drive.google.com/drive/folders/0BxTwA-UymFarbFNMVUcxRGI5bE0)”.
+> 3.2 Location:** All official contract folders and files will be stored in TTS OA Google Drive - “18F Acquisition” - “[Official TTS Contracts](https://drive.google.com/drive/folders/0BxTwA-UymFarbFNMVUcxRGI5bE0)”.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**3.3 Ownership:** The TTS OA CO is responsible for and owns the official contract file. The CO must check the following default contract file settings under Advanced:
   - Prevent editors from changing access and adding new people
