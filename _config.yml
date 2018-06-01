@@ -416,11 +416,11 @@ navigation:
     - text: Leave
       url: leave/
       internal: true
-    - text: Moving
-      url: moving/
-      internal: true
     - text: Travel guide
       url: travel-guide-start-here/
+      internal: true
+    - text: Virtual Work and Moving
+      url: moving/
       internal: true
 
   - text: Employee Resources
