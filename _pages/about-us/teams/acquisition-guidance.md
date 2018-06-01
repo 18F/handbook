@@ -2,24 +2,22 @@
 title: Office of Acquisition (OA) Operational Guidance
 ---
 
-This page provides XXXXXXX
+Below are OA operational guidance to ensure TTS achieves excellent acquisition outcomes.
 
-## Table of Contents
+## Purpose
 
-* [Contract File Management](/acquisition-guidance/#contract-file-management)
-* [Contract Transfer Guidance](/acquisition-guidance/#contract-transfer-guidance)
-* [COR Appointment and Delegation](/acquisition-guidance/#cor-appointment-and-delegation)
-* [COR Training](/acquisition-guidance/#cor-training)
-* [Management Reviews](/acquisition-guidance/#management-reviews)
-* [Non-Disclosure Agreement and COI](/acquisition-guidance/#non-disclosure-agreement-and-coi)
-* [OA Roles and Responsibilities](/acquisition-guidance/#office-of-acquisition-roles-and-responsibilities)
-* [Software Procurement](/acquisition-guidance/#software-procurement)
+This page includes standard operating procedures, #readme’s, templates, checklists and other operational guidance documents, established to keep TTS procurement practices agile, current, applicable and in compliance at the Federal, Agency and Service levels. In keeping with an agile principle of continuous improvement, TTS OA will solicit feedback in iterations to keep our guidance most up to date and accurate.
+
+## Audience
+
+Please note that the TTS OA Operational Guidance apply only to acquisition related activities executed and/or administered by warranted Contracting Officers (CO) and supported by Contracting Officer’s Representatives (COR), product leads and technical leads within the GSA-FAS-TTS Office of Acquisition (OA).
+
 
 ## Contract File Management
 
 Federal Acquisition Regulation (FAR) requires each office performing contracting, contract administration, or paying functions to establish files containing the records of all contractual actions.
 
-**COs:** Review and follow the TTS OA Standard Operating Procedure (SOP)-[Contract File Management](/acquisition-guidance-test) and Contract File Checklist on CO’s official contract file content, organization and storage. For contract modifications, please see Modification Checklist. Note that all official contract/project folders, procurement documents, and contract file checklists must be stored in GSA TTS Google Drive.
+**COs:** Review and follow the TTS OA Standard Operating Procedure (SOP)-[Contract File Management](/contract-file-management) and Contract File Checklist on CO’s official contract file content, organization and storage. For contract modifications, please see Modification Checklist. Note that all official contract/project folders, procurement documents, and contract file checklists must be stored in GSA TTS Google Drive.
 
 **CORs:** Review #Readme-Contracting Officer’s Representative (COR) File and COR File Checklist on setting up and maintaining a file for each contract. If you are a COR and you have questions, please contact your CO for further assistance.   
 
