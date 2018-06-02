@@ -32,13 +32,13 @@ STANDARD OPERATING PROCEDURE: TC-18-CS2-001<br>**
 
 Software requests that are equal to and under $3,500.00 must be submitted via the [CommuniCart (C2)](https://cap.18f.gov/) platform. Software requests that are above the $3,500.00 threshold must be submitted via the TTS OA [Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform). Both are subject to the following controls, which will be confirmed by the SM, and must be attached to the request:
 
-  a. GSA CIO FITARA approval
-  b. GSA CTO business need approval and concurrence
-  c. Proof of adequate funds/approval from TTS Ops Funding Official
-  d. GSA IT’s Service Desk (Service Now) ticket, where appropriate
-  e. Screenshot of the GSA IT Standards page
+* GSA CIO FITARA approval
+* GSA CTO business need approval and concurrence
+* Proof of adequate funds/approval from TTS Ops Funding Official
+* GSA IT’s Service Desk (Service Now) ticket, where appropriate
+* Screenshot of the GSA IT Standards page
 
-NOTE:  If the software has been procured with the government purchase card, the SM must attach the purchase receipt to the original C2 application.
+***NOTE:*** *If the software has been procured with the government purchase card, the SM must attach the purchase receipt to the original C2 application.*
 
 + 4.3 Requests for Non-GSA IT Approved Software:  The SM should instruct requestors to get the proper CIO and CTO approval. Once approval is obtained, return to paragraph 4.2 above.
 
@@ -46,5 +46,5 @@ NOTE:  If the software has been procured with the government purchase card, the 
 
 The SM tracks and regularly maintains an inventory of software purchased for the support of TTS by updating two different documents each serving its own purpose:
 
-  a. **[Inventory of existing software](https://docs.google.com/spreadsheets/d/1ietHbrxICCyHlI-7MvvZSXbgDtpo4RbxRPzmGr07bS4/edit#gid=809652876)**:  This inventory lists ongoing and archived software by its official title, by any unofficial titles or slang titles as they appear in other contract files, mode of purchase, point of contact, license type, date of purchase and as appropriate the amount of purchase and whether the software is purchased as “volumetric,” single or multiple-user license.
-  b. **[Pegasys Log](https://docs.google.com/spreadsheets/d/1DZNfdF48bm6ilVWN8E6yK0_FuayAdkp-cZUXfVZf3NM/edit#gid=1246278447)**:  This document lists all financial transactions entered into Pegasys related to the TTS software.
+* **[Inventory of existing software](https://docs.google.com/spreadsheets/d/1ietHbrxICCyHlI-7MvvZSXbgDtpo4RbxRPzmGr07bS4/edit#gid=809652876)**:  This inventory lists ongoing and archived software by its official title, by any unofficial titles or slang titles as they appear in other contract files, mode of purchase, point of contact, license type, date of purchase and as appropriate the amount of purchase and whether the software is purchased as “volumetric,” single or multiple-user license.
+* **[Pegasys Log](https://docs.google.com/spreadsheets/d/1DZNfdF48bm6ilVWN8E6yK0_FuayAdkp-cZUXfVZf3NM/edit#gid=1246278447)**:  This document lists all financial transactions entered into Pegasys related to the TTS software.
