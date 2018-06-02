@@ -43,7 +43,7 @@ The Federal Acquisition Certification for Contracting Officer’s Representative
 
 One condition of FAS Commissioner’s re-delegated limited procurement authority is for TTS to have an official process to review procurement actions to ensure compliance with applicable policies and regulations.
 
-**COs and CORs:** Be sure to review and follow TTS OA Standard Operating Procedure (SOP)-Management Reviews of Procurement Actions. It is imperative that you add sufficient time for management reviews when developing acquisition milestones.
+**COs and CORs:** Be sure to review and follow TTS OA Standard Operating Procedure (SOP)-[Management Reviews of Procurement Actions](/management-reviews-of-procurement-actions). It is imperative that you add sufficient time for management reviews when developing acquisition milestones.
 
 ## Non-Disclosure Agreement and COI
 When conducting federal acquisitions, federal employees are entrusted with certain information that is not generally known to the public. Hence, the employees required to adhere to specific guidelines for disclosing confidential information.
