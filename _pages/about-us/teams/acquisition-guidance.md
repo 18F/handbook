@@ -52,7 +52,7 @@ Anyone handling acquisitions must review and follow #Readme-Conflict Of Interest
 
 ## Office of Acquisition Roles and Responsibilities
 
-Members of the TTS Office of Acquisition can serve in a variety of different roles. TTS OA Roles and Responsibilities defines the role and responsibilities of the members in TTS OA, with an emphasis on the COR and other team members’ role in the post-award contract management process.
+Members of the TTS Office of Acquisition can serve in a variety of different roles. [TTS OA Roles and Responsibilities](/tts-office-of-acquisition-team-roles-and-responsibilities) defines the role and responsibilities of the members in TTS OA, with an emphasis on the COR and other team members’ role in the post-award contract management process.
 
 ## Software Procurement
 

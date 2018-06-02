@@ -3,17 +3,6 @@ title: TTS Office of Acquisition Team Roles & Responsibilities
 ---
 Members of the TTS Office of Acquisition can serve in a variety of different roles. This document is designed to provide information on what to expect from each role within TTS’s Office of Acquisition team. Not all of these positions will be included on each procurement.
 
-## Table of Contents
-
-* [Contracting Officer (CO)](/acquisition-guidance/#contract-file-management)
-* [Acquisition (Contracting) Lead](/acquisition-guidance/#contract-transfer-guidance)
-* [Contracting Officer Representative (COR)](/acquisition-guidance/#cor-appointment-and-delegation)
-* [Procurement Analysts](/acquisition-guidance/#cor-training)
-* [Team Lead](/acquisition-guidance/#management-reviews)
-* [Product Manager](/acquisition-guidance/#non-disclosure-agreement-and-coi)
-* [Technical Lead](/acquisition-guidance/#office-of-acquisition-roles-and-responsibilities)
-* [User Experience Design Lead](/acquisition-guidance/#software-procurement)
-
 ## Contracting Officer (CO)
 The contracting officer serves as the official buyer of supplies and services on behalf of TTS.  They achieve this authority by obtaining a warrant, which proves they have met certain training, education, experience, and certification requirements. As an underlying condition of their warrant, all warranted CO’s are required to attain and maintain the appropriate [FAC-C certification](https://www.fai.gov/drupal/certification/contracting-fac-c#Cert). Responsibilities may include but are not limited to:
 
@@ -131,6 +120,7 @@ The user experience design lead serves as the human-centered design advocate for
   * This role reports to the Assistant Commissioner (Director) of the TTS Office of Acquisition.
 
 ## How we work: potential team structure
+
 |---|---|
 |**Example Internal Buy Team**<br>(working on a TTS-funded procurement action)|**Example Consulting Team**<br>(Providing government-to-government procurement strategy consulting)|
 |Contracting Officer (CO)|Acquisition Lead|
@@ -139,88 +129,3 @@ The user experience design lead serves as the human-centered design advocate for
 |Contracting Officer Representative (COR)|Technical Lead|
 |Procurement Analyst|Engagement Manager|
 |Engagement Manager|Standard Operating Procedure (SOP) for GSA TTS OA Contract File Management|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FAS TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to government procurement and related service level policy. One of the principles of agile is to embrace change in a way that promotes continuous improvement. In keeping with this principle, this SOP is subject to change to keep TTS procurement practices current, applicable and in compliance at the Federal, Agency and Service levels. TTS OA will accomplish this by soliciting feedback in quarterly iterations and updating this SOP accordingly.
-
-**General Services Administration (GSA)<br>
-Federal Acquisition Service (FAS)<br>
-Technology Transformation Service (TTS)<br>
-Office of Acquisition (OA)<br>
-STANDARD OPERATING PROCEDURE: TC-18-CS1-001<br>**
-***Iteration 2.0 Date: April 5, 2018***<br>
-<br>
-
-|---|---|
-|**TO:**|GSA TTS, Office of Acquisition|
-|**FROM:**|Alla Goldman Seiffert<br>Acting Director, (Assistant Commissioner) GSA TTS OA|
-|**DATE:**|Iterated on April 5, 2018|
-|**SUBJECT:**|Standard Operating Procedure (SOP) for GSA TTS OA management reviews of procurement actions|
-
-<br>
-**1.0 Purpose:** The purpose of SOP TC-18-CS1-001 is to help ensure compliance with all applicable acquisition laws and regulations and to improve the quality of TTS procurements.
-
-+ **Iteration 1.1 Purpose:** Add timeframe for review process and clarify management level.
-
-+ **Iteration 1.2 Purpose:** Change notification of sensitive acquisition from prior to award to prior to public/external communications.
-
-**2.0 Applicability:** This SOP applies only to TTS OA procurement actions over the micro-purchase threshold (see [Federal Acquisition Regulation [FAR] Subpart 2.101](https://www.acquisition.gov/far/html/Subpart%202_1.html)) that will be executed by warranted Contracting Officers (COs) within the TTS OA. Note that there are additional reviews required by Office of General Counsel (OGC), Federal Acquisition Regulations (FAR), General Services Administration Acquisition Manual (GSAM), and/or GSA acquisition guidance that are not addressed here but must be followed.
-
-**3.0 Background:** On November 2, 2017, the FAS Commissioner re-delegated limited [Procurement Authority](https://drive.google.com/a/gsa.gov/file/d/1-P5KyFuv-XpoSgbOwQywSgZOJTJXYxnB/view?usp=sharing) to TTS. One condition of that authority was for TTS to develop a process to review procurement actions to ensure compliance with applicable policies and regulations.
-
-**4.0 Procedure for management reviews:**  The following is the process for management reviews of procurement actions that TTS OA executes with its own authority:
-
-+ **4.1 Management review process for TTS OA procurement actions**
-
-  - **For procurements between micro-purchase threshold and $25,000:**
-    - Prior to RFQ/solicitation release and prior to award, both TTS management (one level above the CO) and a TTS procurement analyst will review acquisition packages.
-    - Acquisition packages should include, but not be limited to, the following items:
-      - Market research report
-      - Acquisition plan
-      - IGCE
-      - Any justifications or determinations and findings
-      - Solicitation/Request for Quotation (RFQ)
-      - Trade-off analysis
-      - Award decision memo
-
-  - **For procurements above $25,000:**
-    - TTS management (one level above the CO) and TTS procurement analysts will perform the first review of acquisition packages. The Office of Governmentwide Policy (OGP) will conduct additional reviews, per OGP’s request and the business process as it stands at the issuing of this policy.
-    - At the request of OGP, reviews may be conducted prior to solicitation/RFQ release and/or prior to award or any other stage in the procurement process.
-    - See above for examples of acquisition package documents to be reviewed.
-
-+ **4.2 Forum:** The forum for each review will be at the discretion of the TTS OA Contracting Officer (CO) and may include, but will not necessarily be limited to, a formal briefing, an informal meeting, or a “paper” review. The TTS OA CO is responsible for scheduling the review and forwarding the necessary documents to all reviewers via email at least 3 business days prior to the scheduled review.
-
-+ **4.3 Documentation:** The TTS OA CO is responsible for addressing and documenting comments received during the reviews using their best business judgment. The goal is to document the CO’s rationale for accepting or rejecting **significant<sup>1</sup>** review comments and to demonstrate that they meaningfully considered this feedback. The level of documentation is at the CO’s discretion; however, documentation of reviews will include, at a minimum, the following:
-
-  - Project name/Contracting Officer name
-  - Review type/date (e.g., “1st OGP review on 10/12/2017”)
-  - Documents reviewed
-  - Significant comments
-  - CO reconciliation
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documentation of each review shall be filed under `Tab 025` in the contract file.
-
-
-**5.0 Notification of sensitive acquisition:** The TTS OA CO will notify the Assistant Commissioner of TTS OA and the TTS HCA of any actions considered “sensitive” at least 15 days prior to public/external communications. The TTS HCA will, in turn, notify the FAS Commissioner (as necessary) of the action(s), per the existing FAS Front Office contract notification procedures, at least 10 days ahead of public/external communications. Examples of “sensitive” actions are as follows:
-
-  - Acquisitions followed closely by media and industry
-  - High-visibility / Congressional Interest acquisitions
-  - Acquisitions related to government-wide or shared-services programs
-  - Acquisitions related to the launch of a new program
-  - Acquisitions that have received a GAO protest
-
----
-*<sup>1</sup> “Significant,” in this context, means anything that could materially change the procurement approach and related documentation.*
