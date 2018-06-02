@@ -45,9 +45,9 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 * Your Office’s Assistant Commissioner (Alla, Ben, Rebecca, Sarah, Dom or Bob)
   * In Part F, enter name (box 1), title (box 2), and get signature (box 3)
 * Assistant Commissioner, Operations (Dominic Sale) *this is a TTS requirement*
-  * Enter in Part G, enter name (box 1a), title (box 1b), and get signature (box 1c)
+  * In Part G, enter name (box 1a), title (box 1b), and get signature (box 1c)
 * Deputy Commissioner, FAS and Director of TTS (Joanne Collins Smee)
-  * Enter in Part G, enter name (box 2a), title (box 2b), and get signature (box 2c)
+  * In Part G, enter name (box 2a), title (box 2b), and get signature (box 2c)
 * Send form to [TTS-talentteam@gsa.gov](mailto:TTS-talentteam@gsa.gov) who will be responsible for obtaining the remaining approvals and routing through the GSA process
   * *Please note - it can take up to 5 days to get all of the TTS signatures*
 
