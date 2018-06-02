@@ -1,5 +1,5 @@
 ---
-title: Contract File Management
+title: Management Reviews of Procurement Actions
 ---
 FAS TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to government procurement and related service level policy. One of the principles of agile is to embrace change in a way that promotes continuous improvement. In keeping with this principle, this SOP is subject to change to keep TTS procurement practices current, applicable and in compliance at the Federal, Agency and Service levels. TTS OA will accomplish this by soliciting feedback in quarterly iterations and updating this SOP accordingly.
 
@@ -58,10 +58,10 @@ STANDARD OPERATING PROCEDURE: TC-18-CS1-001<br>**
   - Significant comments
   - CO reconciliation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documentation of each review shall be filed under `Tab 025` in the contract file.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documentation of each review shall be filed under `Tab 025` in the contract file.
 
 
-+ **5.0 Notification of sensitive acquisition:** The TTS OA CO will notify the Assistant Commissioner of TTS OA and the TTS HCA of any actions considered “sensitive” at least 15 days prior to public/external communications. The TTS HCA will, in turn, notify the FAS Commissioner (as necessary) of the action(s), per the existing FAS Front Office contract notification procedures, at least 10 days ahead of public/external communications. Examples of “sensitive” actions are as follows:
+**5.0 Notification of sensitive acquisition:** The TTS OA CO will notify the Assistant Commissioner of TTS OA and the TTS HCA of any actions considered “sensitive” at least 15 days prior to public/external communications. The TTS HCA will, in turn, notify the FAS Commissioner (as necessary) of the action(s), per the existing FAS Front Office contract notification procedures, at least 10 days ahead of public/external communications. Examples of “sensitive” actions are as follows:
 
   - Acquisitions followed closely by media and industry
   - High-visibility / Congressional Interest acquisitions
@@ -70,4 +70,4 @@ STANDARD OPERATING PROCEDURE: TC-18-CS1-001<br>**
   - Acquisitions that have received a GAO protest
 
 ---
-*<sup>1</sup>1 “Significant,” in this context, means anything that could materially change the procurement approach and related documentation.*
+*<sup>1</sup> “Significant,” in this context, means anything that could materially change the procurement approach and related documentation.*
