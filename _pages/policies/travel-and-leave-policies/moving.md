@@ -42,25 +42,25 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 
 ### TTS approval signatures required for VWA
 
-* Immediate Supervisor
-  * In Part F, enter name (box 1), title (box 2), and get signature (box 3)
 * Your Office’s Assistant Commissioner (Alla, Ben, Rebecca, Sarah, Dom or Bob)
+  * In Part F, enter name (box 1), title (box 2), and get signature (box 3)
+* Assistant Commissioner, Operations (Dominic Sale) *this is a TTS requirement*
   * Enter in Part G, enter name (box 1a), title (box 1b), and get signature (box 1c)
+* Deputy Commissioner, FAS and Director of TTS (Joanne Collins Smee)
+  * Enter in Part G, enter name (box 2a), title (box 2b), and get signature (box 2c)
 * Send form to [TTS-talentteam@gsa.gov](mailto:TTS-talentteam@gsa.gov) who will be responsible for obtaining the remaining approvals and routing through the GSA process
   * *Please note - it can take up to 5 days to get all of the TTS signatures*
 
 ### GSA approval of the VWA
 
-* Once TTS signatures are completed Talent sends the VWAs to OHRM
-* OHRM will review for compliance
-* OHRM will upload to the Control Document Tracker (CDT) and route to the following individuals for approval in order listed:
-  * OCFO - budget approval
-  * Chief of Staff for HSSO (Judith Zawatsky)
-  * HSSO (Alan Thomas)
-* Once approved, the Office of Administrative Services (OAS) will download the VWA along with verification of routing and approvals
-* OAS/Exec Secretariat will include it in Critical Items submitted to the Deputy Administrator for review
+* Talent sends the VWAs to OCFO (Andrew Roach)
+* Talent sends the VWAs to the FAS Commissioner’s office (Judith Zawatsky, Karen Link, and Alex Mobeka)
+* FAS office sends to HSSO (Alan Thomas)
+* FAS office sends to OHRM
+* OHRM will upload the VWA to the Control Document Tracker (CDT) and route to the Office of Administrative Services (OAS) / Exec Secretariat
+* OAS/Exec Secretariat will send to the Deputy Administrator
 * Please Note:  The A-Suite will only be reviewing the documents once a month. OHRM is looking into what date that will be and will share out.  
-* After review, the package is returned to OHRM
+* The package is then returned to OHRM
 * OHRM will report status to the requesting organization
 
 ### Approved VWAs

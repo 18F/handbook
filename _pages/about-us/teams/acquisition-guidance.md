@@ -56,7 +56,7 @@ Members of the TTS Office of Acquisition can serve in a variety of different rol
 
 ## Software Procurement
 
-Any TTS employee requesting the procurement of software is required to work with the TTS OA Software Manager (SM) and must adhere to the internal controls and procedures for the purchase of software found in TTS OA Standard Operating Procedure (SOP)-[Internal Controls for Software Procurements](internal-controls-for-software-procurement). The SOP applies to all software, which includes both Software-as-a-Service (SaaS) and locally installed software, procured by TTS purchase card holders or warranted Contracting Officers in support of TTS operations.
+Any TTS employee requesting the procurement of software is required to work with the TTS OA Software Manager (SM) and must adhere to the internal controls and procedures for the purchase of software found in TTS OA Standard Operating Procedure (SOP)-[Internal Controls for Software Procurements](/internal-controls-for-software-procurement). The SOP applies to all software, which includes both Software-as-a-Service (SaaS) and locally installed software, procured by TTS purchase card holders or warranted Contracting Officers in support of TTS operations.
 
 ---
 
