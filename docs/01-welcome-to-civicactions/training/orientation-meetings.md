@@ -109,6 +109,7 @@
 
 ### Aligning Yourself with CivicActions
 
+* [Read the Culture playbook](../../02-about-us/culture.md)
 * Create email signature
     * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
 * Update LinkedIn & social media accounts with CivicActions as company
