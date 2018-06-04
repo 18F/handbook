@@ -119,7 +119,7 @@ The user experience design lead serves as the human-centered design advocate for
   * Participating in software development rituals like Daily Standups, Sprint Reviews, Sprint Retros, and Sprint Planning meetings.
   * This role reports to the Assistant Commissioner (Director) of the TTS Office of Acquisition.
 
-## How we work: potential team structure
+## How we work: Potential team structure
 
 |---|---|
 |**Example Internal Buy Team**<br>(working on a TTS-funded procurement action)|**Example Consulting Team**<br>(Providing government-to-government procurement strategy consulting)|
@@ -128,4 +128,4 @@ The user experience design lead serves as the human-centered design advocate for
 |Technical Lead|Design Lead|
 |Contracting Officer Representative (COR)|Technical Lead|
 |Procurement Analyst|Engagement Manager|
-|Engagement Manager|Standard Operating Procedure (SOP) for GSA TTS OA Contract File Management|
+|Engagement Manager| |
