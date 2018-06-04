@@ -37,7 +37,7 @@ GSA contracts and their respective CO duties can be transferred from one office 
 
 The Federal Acquisition Certification for Contracting Officer’s Representatives (FAC-COR) contains three levels of certification that allows for appropriate training and experience for CORs managing a range of various contracts from low-risk to high-risk and complex acquisitions.
 
-**CORs:** Review [FAC-COR Requirements](https://docs.google.com/document/d/1HzbEv6yQn6pWYl1MDImeLW6ShedcRsekSCBe54Nsnc8/edit#) for education, experience, training requirements for each FAC-COR level. Refer to [FAITAS Frequently Asked Questions](https://drive.google.com/file/d/185q29ESV_h8zj4U2UscdH0rVxoSGnpSJ/view?usp=sharing) to learn how to apply for training. If you have questions, please #dm @esther.kim.praske, TTS-Bureau Certification Manager for further assistance.  
+**CORs:** Review [FAC-COR Requirements](https://docs.google.com/document/d/1HzbEv6yQn6pWYl1MDImeLW6ShedcRsekSCBe54Nsnc8/edit#) for education, experience, training requirements for each FAC-COR level. Refer to [FAITAS Frequently Asked Questions](https://drive.google.com/file/d/185q29ESV_h8zj4U2UscdH0rVxoSGnpSJ/view?usp=sharing) to learn how to apply for training. If you have questions, please Slack [Esther Praske](https://gsa-tts.slack.com/messages/@esther.kim.praske), TTS-Bureau Certification Manager for further assistance.  
 
 ## Management Reviews
 
@@ -48,7 +48,7 @@ One condition of FAS Commissioner’s re-delegated limited procurement authority
 ## Non-Disclosure Agreement and COI
 When conducting federal acquisitions, federal employees are entrusted with certain information that is not generally known to the public. Hence, the employees required to adhere to specific guidelines for disclosing confidential information.
 
-Anyone handling acquisitions must review and follow #Readme-[Conflict Of Interest (COI)/Non-Disclosure Agreement (NDA)](https://docs.google.com/document/d/1-mmniFyCeMdxOcRIncRKAMRxx3-AQPL06BjbhiMHteQ/edit). There are two Evaluation COI/NDA templates: for [TTS employees](https://docs.google.com/document/d/1GyEj9itF4Yk0N3BGylblu7hPRi_30dat3nx4eA4d_XM/edit) and for [non-government individuals](https://docs.google.com/document/d/1G6tPYYlWp9f_7TP58aiuPCeZh7ppI1LaRgemCOl2Ui8/edit). There is a separate Post-award COI/NDA template for [non-government individuals](https://docs.google.com/document/d/1iF9hjtbLFVHiF2tLcMEytIt6EMeB6qd5oVjjbpXpzRQ/edit). Please email your signed and dated COI/NDA to Bridget Fields at bridget.fields@gsa.gov so that it can be filed properly.
+Anyone handling acquisitions must review and follow #Readme-[Conflict Of Interest (COI)/Non-Disclosure Agreement (NDA)](https://docs.google.com/document/d/1-mmniFyCeMdxOcRIncRKAMRxx3-AQPL06BjbhiMHteQ/edit). There are two Evaluation COI/NDA templates: for [TTS employees](https://docs.google.com/document/d/1GyEj9itF4Yk0N3BGylblu7hPRi_30dat3nx4eA4d_XM/edit) and for [non-government individuals](https://docs.google.com/document/d/1G6tPYYlWp9f_7TP58aiuPCeZh7ppI1LaRgemCOl2Ui8/edit). There is a separate Post-award COI/NDA template for [non-government individuals](https://docs.google.com/document/d/1iF9hjtbLFVHiF2tLcMEytIt6EMeB6qd5oVjjbpXpzRQ/edit). Please email your signed and dated COI/NDA to Bridget Fields so that it can be filed properly.  Slack [Bridget Fields](https://gsa-tts.slack.com/messages/fieldsey) if you have any questions.
 
 ## Office of Acquisition Roles and Responsibilities
 
