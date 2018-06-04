@@ -24,7 +24,6 @@
       "remark-lint-no-file-name-irregular-characters",
       "remark-lint-no-file-name-mixed-case",
       "remark-lint-no-file-name-outer-dashes",
-      "remark-lint-no-heading-content-indent",
       "remark-lint-no-inline-padding",
       "remark-lint-no-literal-urls",
       "remark-lint-no-multiple-toplevel-headings",
