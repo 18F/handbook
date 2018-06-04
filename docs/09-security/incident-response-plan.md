@@ -22,7 +22,7 @@ Table of Contents
 
 This document outlines the CivicActions Incident Response Team's process for responding to security incidents and other system disruptions. It outlines roles and responsibilities during and after incidents, and it lays out the steps we'll take to resolve them.
 
-***If you're responding to an incident, [here's an IRP checklist](incident-response-checklist.md) as a short, actionable companion to this guide.***
+*If you're responding to an incident, [here's an IRP checklist](incident-response-checklist.md) as a short, actionable companion to this guide.*
 
 At a high level, incident response follows this process:
 
