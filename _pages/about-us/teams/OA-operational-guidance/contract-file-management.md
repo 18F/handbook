@@ -2,7 +2,6 @@
 title: Contract File Management
 ---
 STANDARD OPERATING PROCEDURE: TC-17-CS4-001
-<br>
 
 |---|---|
 |**TO:**|GSA TTS, Office of Acquisition|
