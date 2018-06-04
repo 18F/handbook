@@ -3,9 +3,9 @@ title: Purchase requests
 slack-channel: c2-purchase-questions
 ---
 
-If you're looking to have TTS purchase anything that costs less than $3,500-- whether it's a training, a conference, software not currently in our library, business cards, or other equipment not currently in stock, [C2](https://requests.18f.gov), our purchase request tool, is your one-stop-shop. Your request will be considered, and if approved, purchased by either the TTS Acquisition (for software) or TTS Operations team (for anything else).
+If you're looking to have TTS purchase anything that costs less than $10,000-- whether it's a training, a conference, software not currently in our library, business cards, or other equipment not currently in stock, [C2](https://requests.18f.gov), our purchase request tool, is your one-stop-shop. Your request will be considered, and if approved, purchased by either the TTS Acquisition (for software) or TTS Operations team (for anything else).
 
-*Looking to have TTS make a purchase over $3,500? Read on more [here](#purchases-over-3500)*
+*Looking to have TTS make a purchase over $10,000? Read on more [here](#purchases-over-10000)*
 
 In order to use C2, you'll need to get an account set up. Fill out the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfZfBRRO_mBz2wwBHJTufi6kWONQhc64otCAYBCKV8keDvXVA/viewform) and you will be set up within one business day. Once you are set up, please visit [requests.18f.gov](https://requests.18f.gov) first and sign in with cloud.gov. **Agree and continue**, then go through the 2-Factor authentication process. This will log your information in the system.
 
@@ -20,7 +20,7 @@ Training and conference requests will first be reviewed by the TTS Director of T
 * [Software](#software)
 * [Equipment repair (laptop or phone)](/equipment/#repairs)
 * [Equipment to accommodate disability](/equipment/#equipment-to-accommodate-disability)
-* [Purchases over $3,500](#purchases-over-3500)
+* [Purchases over $10,000](#purchases-over-10000)
 
 ## Trainings and conferences
 
@@ -47,8 +47,8 @@ Anyone working in an 18F office may request a purchase of office supplies by cre
 
 See [the Equipment page](../equipment/#software).
 
-## Purchases over $3,500
+## Purchases over $10,000
 
-Purchases over $3,500 require the involvement of a contracting officer. For these sorts of needs, the TTS Office of Acquisition has the TTS Acquisition Intake Form [here](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform).
+Purchases over $10,000 require the involvement of a contracting officer. For these sorts of needs, the TTS Office of Acquisition has the TTS Acquisition Intake Form [here](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform).
 
 *Got questions? Ask [#c2-purchase-questions](https://gsa-tts.slack.com/messages/C0E1APHGU/)*, [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
