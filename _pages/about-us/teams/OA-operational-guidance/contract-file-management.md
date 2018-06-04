@@ -8,7 +8,6 @@ STANDARD OPERATING PROCEDURE: TC-17-CS4-001
 |**FROM:**|Alla Goldman Seiffert<br>Acting Director, (Assistant Commissioner) GSA TTS OA|
 |**DATE:**|Iterated on February 9, 2018|
 |**SUBJECT:**|Standard Operating Procedure (SOP) for GSA TTS OA Contract File Management|
-<br>
 
 *TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to government procurement and related service level policy. One of the principles of agile is to enable change management in a way that promotes continuous improvement. In keeping with this principle, this SOP is subject to change to keep TTS procurement practices current, applicable and in compliance at the Federal, Agency and Service levels. TTS OA will accomplish this by soliciting feedback in quarterly iterations and updating this SOP accordingly.*
 
