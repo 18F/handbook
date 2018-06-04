@@ -1,15 +1,7 @@
 ---
 title: Management Reviews of Procurement Actions
 ---
-FAS TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to government procurement and related service level policy. One of the principles of agile is to embrace change in a way that promotes continuous improvement. In keeping with this principle, this SOP is subject to change to keep TTS procurement practices current, applicable and in compliance at the Federal, Agency and Service levels. TTS OA will accomplish this by soliciting feedback in quarterly iterations and updating this SOP accordingly.
-
-**General Services Administration (GSA)<br>
-Federal Acquisition Service (FAS)<br>
-Technology Transformation Service (TTS)<br>
-Office of Acquisition (OA)<br>
-STANDARD OPERATING PROCEDURE: TC-18-CS1-001<br>**
-***Iteration 2.0 Date: April 5, 2018***<br>
-<br>
+STANDARD OPERATING PROCEDURE: TC-18-CS1-001
 
 |---|---|
 |**TO:**|GSA TTS, Office of Acquisition|
@@ -18,6 +10,8 @@ STANDARD OPERATING PROCEDURE: TC-18-CS1-001<br>**
 |**SUBJECT:**|Standard Operating Procedure (SOP) for GSA TTS OA management reviews of procurement actions|
 
 <br>
+*FAS TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to government procurement and related service level policy. One of the principles of agile is to embrace change in a way that promotes continuous improvement. In keeping with this principle, this SOP is subject to change to keep TTS procurement practices current, applicable and in compliance at the Federal, Agency and Service levels. TTS OA will accomplish this by soliciting feedback in quarterly iterations and updating this SOP accordingly.*
+
 **1.0 Purpose:** The purpose of SOP TC-18-CS1-001 is to help ensure compliance with all applicable acquisition laws and regulations and to improve the quality of TTS procurements.
 
 + **Iteration 1.1 Purpose:** Add timeframe for review process and clarify management level.
