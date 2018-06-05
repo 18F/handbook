@@ -82,11 +82,11 @@
 
 ### Time Off and Scheduling
 
-* Review vacation time / requests [policies](../../03-policies/benefits.md#timeoff)
+* Review vacation time / requests [policies](../../03-policies/benefits-and-holidays.md#timeoff)
 * Do you have any pre-approved time off requests?
-    * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits.md#timeoff) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
+    * Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits-and-holidays.md#timeoff) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
 * We use [Harvest Forecast](../../04-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
-* Review [CivicActions holiday schedule](../../03-policies/benefits.md#holidays)
+* Review [CivicActions holiday schedule](../../03-policies/benefits-and-holidays.md#holidays)
 * Review [professional development](../../03-policies/prodev.md) & [community participation](../../03-policies/community-participation.md)
 
 ### Project Overview Info & Some How We Work Info
