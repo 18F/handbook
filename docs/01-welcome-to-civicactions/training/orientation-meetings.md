@@ -57,6 +57,7 @@
 
 ### Communication Tools
 
+* Learn about some of the different [meetings at CivicActions](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md)
 * Download, setup, and review the following basic communication tools:
 
     * [Slack](../../04-how-we-work/tools/slack.md)
