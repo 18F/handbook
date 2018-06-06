@@ -9,12 +9,12 @@ VMware Horizon is a Windows virtual desktop client that can be used to connect t
 New employees should have a GSA VMware myView/Horizon account, but if not:
 
   1. Go to [servicedesk.gsa.gov](http://servicedesk.gsa.gov/).
-  2. Sign in with your ENT username and password.
-  3. Click **Submit Catalog Request**.
-  4. Click **Accounts & Access Requests**.
-  5. Click **Horizon (formerly myView) Access Request**.
-  6. Complete the required fields.
-  7. Click **Order Now**.
+  1. Sign in with your ENT username and password.
+  1. Click **Order Something**.
+  1. Click **Horizon(VDI)**.
+  1. Complete the required fields.
+  1. Click **Add to Cart**.
+  1. Click **Checkout**.
 
 ## Usage
 
