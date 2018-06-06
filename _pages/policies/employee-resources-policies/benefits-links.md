@@ -14,7 +14,7 @@ Quicklinks to access the various benefits sites as well as information on who to
 Benefit | Link
 -------|-----
 Leave and Earnings Statement | <https://www.employeeexpress.gov>
-Vacation Request | <https://aloha.gsa.gov/>
+Vacation Request | <https://corporateapps.gsa.gov/hr-links/>
 GSA Insite | <https://insite.gsa.gov>
 Health and Life Insurance | <https://www.opm.gov/insure>
 Retirement Planning | <https://www.opm.gov/retirement-services>
@@ -30,7 +30,7 @@ Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/
 
 Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov)
 
-### Leave policies and questions 
+### Leave policies and questions
 
 Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 

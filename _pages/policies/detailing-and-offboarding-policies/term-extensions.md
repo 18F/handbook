@@ -12,10 +12,10 @@ Most employees at TTS (specifically 18F, PIF & ACQ) are hired on term appointmen
 
 1)  Connect with your supervisor(s) six months before your initial two-year term expires to discuss your options.
 
-- If you don’t know when your term ends, you can look in [CHRIS](http://www.gsa.gov/portal/content/105088) for your “Assignment NTE Date.” 
+- If you don’t know when your term ends, you can look in [HR Links](https://corporateapps.gsa.gov/hr-links/) for your “Assignment NTE Date.”
 - Considerations for renewal include organizational priorities, position needs, and your individual performance to date.
 
-2)  If the decision is to extend, your supervisor will need to fill out the [Term Extension Request Form](https://goo.gl/forms/zvZqourbaTJqwsUu1) by the first of the month - no later than 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should fill out the survey no later than February 1st).  Information requested on the survey includes the following: 
+2)  If the decision is to extend, your supervisor will need to fill out the [Term Extension Request Form](https://goo.gl/forms/zvZqourbaTJqwsUu1) by the first of the month - no later than 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should fill out the survey no later than February 1st).  Information requested on the survey includes the following:
 
 - A paragraph on contributions you made in your first term
 - A paragraph on the projects and programs your supervisor expects you to work on and in what capacity for your second term
@@ -30,12 +30,12 @@ If the **decision is to extend**, the Talent Team will process a Request for Per
 At this point, the extension process is completed by the Talent Team and GSA HR.
 
 - Approved extensions are placed on a tracking list.
-- Talent Team sends the extension RPAs (RPAs are submitted and processed through CHRIS) in batches at the beginning of each month for all extensions happening the following month.
+- Talent Team sends the extension RPAs (RPAs are submitted and processed through HR Links) in batches at the beginning of each month for all extensions happening the following month.
 - HR reviews and confirms the RPA checking that all information is accurate (employee has another term left, correct extension dates, etc.).  
   - HR is not "approving" the extension request at this step of the process.  Your extension has already been approved; this is just a matter of processing.
   - *Note: New Term beginning dates are the following day from the previous term end date excluding weekends. If it’s a weekend it will be the following Monday. New Term end dates will be the Friday if it falls on a weekend.*
 - HR sends the approved RPA to CPC (Consolidated Processing Center in Kansas City, MO) to have it processed.
-- CPC processes the RPA. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in CHRIS. They process RPAs based on action date, which is why you will not see the updates in CHRIS or our internal systems until the extension date.
+- CPC processes the RPA. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in HR Links. They process RPAs based on action date, which is why you will not see the updates in HR Links or our internal systems until the extension date.
 
 *Please note that GSA and internal systems do not process extensions ahead of time.*
 

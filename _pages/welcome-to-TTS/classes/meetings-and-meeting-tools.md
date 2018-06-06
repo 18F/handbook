@@ -81,7 +81,7 @@ Here's an overview of how 18F uses specific tools to facilitate meetings.
 
 ## <a id="google-calendar">Google Calendar</a>
 
-**18F uses shared calendars** in [Google Calendar](/google-calendar) for 18F events, interviews, and "out of office" time (please mark personal/sick and vacation time here in addition to logging it in [ALOHA](/gsa-internal-tools/#aloha)). We also use shared calendars for working groups, guilds, and blog planning.
+**18F uses shared calendars** in [Google Calendar](/google-calendar) for 18F events, interviews, and "out of office" time (please mark personal/sick and vacation time here in addition to logging it in [HR Links](/gsa-internal-tools/#hr-links). We also use shared calendars for working groups, guilds, and blog planning.
 
 **You can specify which hours you work.** From the guide: "About a third of the way down the 'General' settings' page there's a section called 'Working hours' and a checkbox that's unchecked by default. If you check it, you can specify your preferred working hours. Once you save your changes, other people will get a warning if they try to schedule you outside those times."
 
