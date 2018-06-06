@@ -8,9 +8,42 @@ tags:
 - bereavement
 - religion
 - religious
+- jury
+- duty
+- court
 ---
 
-In this policy, your _supervisor_ is your administrative or official supervisor (or their designee).
+This page provides instructions for entering leave requests (also known as absence requests) in HR Links and information on the various types of leave.
+
+## Submitting leave in HR Links
+
+### Logging into HR Links
+You must be on the GSA wireless network or on the Windows virtual desktop (accessible through VMWare Horizon) to log into HR Links.  For instructions on accessing your virtual desktop through VMware Horizon, go [here](/vmware-horizon).  
+
+  1. Open your web browser (Safari is preferred for HR Links)
+  1. Go to [HR Links](https://corporateapps.gsa.gov/hr-links/) or find it under "Tools" on the [InSite home page](https://insite.gsa.gov)
+  1. Click **login** icon (a new tab will open)
+  1. Click on **GSA and GSA CABS**
+
+### Entering leave request
+  1. Click on the **Employee Time** tile
+  1. Click request **Absence/OT**
+  1. Select **Filter by Type: Annual Leave**
+  1. Select **Absence Name: Annual Leave**
+  1. Enter **Dates/Times**
+  1. Enter **Comment**
+  1. Click submit
+
+***Note:*** *When your leave request is approved, you’ll receive a “The absence request has been approved…” email*
+
+### HR Links tips
+- Partial day requests cannot be made in the middle of a multi-day request; more than one request will need to be made
+- AWS schedules are automatically factored into HR Links timekeeping
+- ETAMS/reconciliation is no longer needed because time off requests and time cards are linked in HR Links
+- Leave Without Pay (LWOP) can be requested in HR Links
+- Court leave can be requested in HR Links; this was not a feature in Aloha
+- Clicking Absence/OT history shows all requests
+- Aloha is now in read-only mode; your time off history can be found there
 
 ## Leave
 
