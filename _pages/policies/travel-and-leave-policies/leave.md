@@ -25,7 +25,7 @@ You must be on the GSA wireless network or on the Windows virtual desktop (acces
   1. Click **login** icon (a new tab will open)
   1. Click on **GSA and GSA CABS**
 
-### Entering leave request
+### Entering a leave request
   1. Click on the **Employee Time** tile
   1. Click request **Absence/OT**
   1. Select **Filter by Type: Annual Leave**
