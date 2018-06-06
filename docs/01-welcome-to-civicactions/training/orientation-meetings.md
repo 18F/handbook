@@ -134,7 +134,7 @@
 * [CivicActions Agile](../../04-how-we-work/agileoverview.md)
 * Read about & learn [markdown](../../04-how-we-work/tools/markdown.md)
 * Read the [common vocab](../../04-how-we-work/common-vocab.md) page
-* [Skillset survey](../skillset-survey.md)
+* [Free and Open Source Software (FOSS)](../../01-welcome-to-civicactions/training/intro-open-source.md)
 
 ### Versioning Systems and Development Process
 
@@ -153,19 +153,7 @@
     * Complete your [security checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
     * Look for an email from Admin/DocuSign that asks you to acknowledge your *security awareness* later this week.
 
-### UX for Everyone
-
-* [Story mapping/Stories On Board](../../10-ux/services/research/story-mapping-guide.md)
-* [Wireframing and MyBalsamiq](../../10-ux/services/design/wireframing-guide.md) ([Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE))
-
-## Day 4 (spill over day)
-
-### Tasks to complete in the next two weeks
-
-* Resume & bio should to be completed within two weeks & shared with copywriter.
-* Work on completing your security checklist within two weeks.
-* Request of your manager, onboarding manager to have your Harvest time entries reviewed for accuracy (or work with your mentor).
-* Any additional tasks from above days that have not yet been completed.
+## Day 4 
 
 ### Role-based training/orientation
 
@@ -178,5 +166,7 @@
     * Drupal Overview
     * [Security and Compliance](../../05-engineering/security-compliance.md)
 * UX/Content Strategy/Design track
+    * [Story mapping/Stories On Board](../../10-ux/services/research/story-mapping-guide.md)
+    * [Wireframing and MyBalsamiq](../../10-ux/services/design/wireframing-guide.md) ([Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE))
     * UX-Agile
     * Review [Content Strategy Trello board](https://trello.com/b/jQYVkRqG/content-strategy-products)
