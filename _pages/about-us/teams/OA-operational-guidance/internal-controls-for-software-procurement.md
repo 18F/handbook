@@ -24,7 +24,7 @@ STANDARD OPERATING PROCEDURE: TC-18-CS2-001
 
 + 4.2 Requests for GSA-IT Approved Software: GSA-IT approved software is listed on the [GSA IT Standards profile](https://ea.gsa.gov/#!/itstandards). Software requests for GSA-IT approved software, regardless of estimated value, may only be purchased after the GSA CTO approves the business need and concurs with the request.
 
-Software requests that are equal to and under $3,500.00 must be submitted via the [CommuniCart (C2)](https://cap.18f.gov/) platform. Software requests that are above the $3,500.00 threshold must be submitted via the TTS OA [Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform). Both are subject to the following controls, which will be confirmed by the SM, and must be attached to the request:
+Software requests that are equal to and under $10,000.00 must be submitted via the [CommuniCart (C2)](https://cap.18f.gov/) platform. Software requests that are above the $10,000.00 threshold must be submitted via the TTS OA [Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform). Both are subject to the following controls, which will be confirmed by the SM, and must be attached to the request:
 
 * GSA CIO FITARA approval
 * GSA CTO business need approval and concurrence
