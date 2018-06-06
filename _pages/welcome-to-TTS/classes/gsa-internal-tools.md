@@ -20,19 +20,9 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
   </thead>
   <tbody>
     <tr>
-      <td><a href="/gsa-internal-tools/#aloha">ALOHA</a></td>
-      <td>To request and document leave</td>
-      <td>ENT username and password</td>
-    </tr>
-    <tr>
       <td><a href="/gsa-internal-tools/#bookit">BookIT!</a></td>
       <td>To reserve a desk or meeting room in GSA buildings</td>
       <td>ENT username and password</td>
-    </tr>
-    <tr>
-      <td><a href="/gsa-internal-tools/#chris">CHRIS</a></td>
-      <td>To access your personnel file online</td>
-      <td>CHRIS username and password</td>
     </tr>
     <tr>
       <td><a href="/gsa-internal-tools/#concur">Concur</a></td>
@@ -43,6 +33,11 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
       <td><a href="/gsa-internal-tools/#employee-express">Employee&nbsp;Express</a></td>
       <td>To view your paystub, change your withholdings, or change your address</td>
       <td>Employee Express username and password</td>
+    </tr>
+    <tr>
+      <td><a href="/gsa-internal-tools/#hr-links">HR&nbsp;Links</a></td>
+      <td>To request/document leave and access your personnel file online</td>
+      <td>ENT on GSA Wireless or VPN</td>
     </tr>
     <tr>
       <td><a href="/gsa-internal-tools/#it-service-desk">IT&nbsp;Service&nbsp;Desk</a></td>
@@ -69,24 +64,6 @@ Please note that while many of these websites work fine in Chrome or Firefox, yo
 
 Let&rsquo;s cover each of these tools in a bit more detail.
 
-
-## <a id="aloha">ALOHA</a>
-
-<a href="http://aloha.gsa.gov/">ALOHA</a> is what you'll use to request and document leave (sick, annual, bereavement, and more).
-
-In general, you should request leave ahead of time (although it is possible to request leave retroactively) and document any absences as soon as possible. If you&rsquo;re planning to take leave, please ask your project team(s) as well as your director or direct supervisor if it&rsquo;s okay. Once you get your supervisor's approval, sign in to ALOHA and submit your leave request (select your direct supervisor from the drop-down menu).
-
-After you've created your leave request, add your planned absence to the shared Google calendar &ldquo;18F Out of Office&rdquo; &mdash; that way, everyone will know when you&rsquo;re going to be out of the office.
-
-We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  Finally, please note that ALOHA is GSA&rsquo;s system and separate from Tock, which is 18F&rsquo;s own timekeeping system. If you&rsquo;re taking time off, you&rsquo;ll need to make sure you&rsquo;re accounted for in both.
-
-Please do not use ALOHA to document jury duty. If you&rsquo;ve been summoned for jury duty, get in contact with your [time keeper](https://goo.gl/ZF8Fw2) and add an event to the &ldquo;18F Out of Office&rdquo; calendar.
-
-Some remote employees have had difficulty accessing ALOHA. If you&rsquo;re one of them, please [ping Leah Gitter on Slack](https://gsa-tts.slack.com/messages/leahgitter/) with the dates you took (or need to take) leave and the type of leave you took. Leah will make sure to get your request logged.
-
-You can see your remaining leave balances by clicking Create My Leave Request. You do not have to submit a request in order to view your available leave time. You can also see your leave balance on your paystub in [Employee Express](#employee-express).
-
-
 ## <a id="bookit">BookIt!</a>
 
 [BookIt!](https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp) is what you'll use to reserve a desk or a meeting room within a GSA building.
@@ -112,19 +89,9 @@ Here are some tips for employees that frequent an office:
   <li>Some employees have expressed difficulty in logging into BookIT! If you&rsquo;re having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the 18F org they should be able to add you to the list in a day.</li>
  </ul>
 
-## <a id="chris">CHRIS</a>
-
-[CHRIS](http://www.gsa.gov/chris) is what you'll use to access your personnel file online, which includes your salary, your GS level, your supervisor, your past performance rating(s), and information about health insurance plan, for starters. Some people feel CHRIS is easier to use than Employee Express.
-
-Your account may not be set up by the time you start working at 18F. Account setup and activation are usually complete within a month of your start date; you'll receive an email from CHRIS once your account is set up and activated. If you don't receive this email within a month of starting, open a ticket with the [GSA IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/).
-
-You must [be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.bbs2uvvcjvcg) to connect to CHRIS, if you work remotely.
-
-
 ## <a id="concur">Concur</a>
 
 Concur is what you will use to book travel. Learn more in [Travel 101](/travel-101). If you have questions in the meantime, head over to [#travel](https://gsa-tts.slack.com/messages/travel/).
-
 
 ## <a id="employee-express">Employee Express</a>
 
@@ -142,6 +109,20 @@ Once your account is setup, be sure to log in right away as that initial access 
 If they ask for your health insurance code, you can see that in CHRIS under `GSA Personnel → Self Service → Employee Views → Benefits → Health Plan`. Your code is the number next to your health plan.
 
 See [Benefits](/benefits) for more details about Employee Express.
+
+## <a id="hr-links">HR Links</a>
+
+<a href="https://corporateapps.gsa.gov/hr-links/">HR Links</a> is what you'll use to request and document leave (sick, annual, bereavement, and more) as well as access your personnel file (your salary, your GS level, your supervisor, your past performance rating(s), and information about health insurance plan).
+
+You must [be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.bbs2uvvcjvcg) to connect to HR Links, if you work remotely.
+
+In general, you should request leave ahead of time (although it is possible to request leave retroactively) and document any absences as soon as possible. If you&rsquo;re planning to take leave, please ask your project team(s) as well as your director or direct supervisor if it&rsquo;s okay. Once you get your supervisor's approval, sign in to [HR Links](https://corporateapps.gsa.gov/hr-links/) and submit your leave request.
+
+After you've created your leave request, add your planned absence to the shared Google calendar &ldquo;18F Out of Office&rdquo; &mdash; that way, everyone will know when you&rsquo;re going to be out of the office.
+
+We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  Finally, please note that ALOHA is GSA&rsquo;s system and separate from Tock, which is 18F&rsquo;s own timekeeping system. If you&rsquo;re taking time off, you&rsquo;ll need to make sure you&rsquo;re accounted for in both.
+
+You can see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express](#employee-express).
 
 ## <a id="it-service-desk">IT Service Desk</a>
 

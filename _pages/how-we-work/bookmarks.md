@@ -42,11 +42,12 @@ Links to websites we use regularly.
 
 ### GSA tools
 
-* [ALOHA](https://aloha.gsa.gov/): request and document leave
+* [ALOHA](https://aloha.gsa.gov/): request and document leave ***replaced by HR Links***
 * [BookIT!](http://bookit.gsa.gov/): reserve a desk or meeting room in a GSA building
-* [CHRIS](http://www.gsa.gov/chris): access your personnel file
+* [CHRIS](http://www.gsa.gov/chris): access your personnel file ***replaced by HR Links***
 * [Concur](https://travel.gsa.gov/): book travel
 * [Employee Express](https://www.employeeexpress.gov/): view your paystub, change your withholdings, or change your address
+* [HR Links](https://corporateapps.gsa.gov/hr-links/) request/document leave and access your personnel file *replaces CHRIS, ETAMS and ALOHA***
 * [Insite](http://insite.gsa.gov/)
 * [IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/): GSA password support
 * [Meeting Space](https://meet.gsa.gov/): reserve your own conference line

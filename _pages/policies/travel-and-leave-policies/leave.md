@@ -14,13 +14,13 @@ In this policy, your _supervisor_ is your administrative or official supervisor 
 
 ## Leave
 
-Employees must report to work or have leave approved every scheduled work day. Leave requests should be submitted to your supervisor in [ALOHA](https://aloha.gsa.gov/) at least three business days in advance. Requests should be submitted for any duration of leave, as little as one hour.
+Employees must report to work or have leave approved every scheduled work day. Leave requests should be submitted to your supervisor in [HR Links](https://corporateapps.gsa.gov/hr-links/) at least three business days in advance. Requests should be submitted for any duration of leave, as little as one hour.
 
 Should an unforeseen emergency or illness arise requiring the use of leave not previously approved, contact your supervisor no later than two hours after the start of your typical work day to request permission for the absence. Unless other arrangements were made, requests for annual or sick leave must be made on each day of absence. Failure to properly request leave in accordance with this procedure may result in the denial of leave and a charge of absence without leave (AWOL), and may be the basis for disciplinary action. Absence without leave is an absence from duty that is not authorized or approved.
 
 Before taking leave, be sure to:
 
-- Submit leave through [ALOHA](https://aloha.gsa.gov)
+- Submit leave through HR Links](https://corporateapps.gsa.gov/hr-links/)
 - Notify your Engagement Manager, if you're on an outside project
 - Submit [correct Tock entries](#time-tracking)
 - Share via Slack, email or over media with folk how need to know, and make sure work is covered
@@ -28,16 +28,16 @@ Before taking leave, be sure to:
 
 ### Annual leave
 
-An employee may use annual leave for vacations, rest and relaxation, and personal business or emergencies. Annual leave accrues based on how long you&rsquo;ve worked for the government:
+An employee may use annual leave for vacations, rest and relaxation, and personal business or emergencies. Annual leave accrues based on how long you've worked for the government:
 
 * Fewer than three years: four hours per pay period
 * Between three and 15 years: six hours per pay period
 
-The maximum annual leave that can be carried over is 240 hours, and if you&rsquo;ve transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
+The maximum annual leave that can be carried over is 240 hours, and if you've transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
 ### Sick leave
 
-All federal employees, no matter how long they have worked, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if you&rsquo;ve transferred to TTS from another federal agency, your accrued sick leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued sick leave.)  More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
+All federal employees, no matter how long they have worked, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if you've transferred to TTS from another federal agency, your accrued sick leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued sick leave.)  More information is available on [OPM's Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
 ### Funeral leave
 
@@ -107,6 +107,9 @@ In cases of serious disability or ailment, and when the exigencies of the situat
 * [Fact Sheet: Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)
 * [Insite: Advanced Sick Leave](https://insite.gsa.gov/portal/category/510090)
 
+## Court Leave
+
+Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/); this option was not previously available in Aloha.
 
 ## Religious observance
 
@@ -118,6 +121,6 @@ Whenever you take "leave" — be that vacation time, holiday time, or sick time 
 
 If your leave begins prior to the release of a timecard (before Wednesday), please send your manager an email with your time entries and they will ensure they are entered. For longer leave requests, make sure you have your time entered on the "18F Out of Office" Google calendar — Ops tracks those entries and will enter your time. If you don't enter extended leave in the "18F Out of Office" calendar Ops won't know you are out, won't enter your time, and you will be delinquent.
 
-[ALOHA](../gsa-internal-tools#aloha) is GSA's out of office request system and is separate from [Tock](../tock), which is TTS's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
+[HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock](../tock), which is TTS's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
 
 For more information on leave, see the [Benefits class](../benefits#leave) and the [GSA Tools and Equipment class](../gsa-internal-tools).

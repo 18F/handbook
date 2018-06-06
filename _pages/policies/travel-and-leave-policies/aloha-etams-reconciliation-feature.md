@@ -1,6 +1,7 @@
 ---
 title: ALOHA/ETAMS Reconciliation Feature
 ---
+This page will be archived once transition to [HR Links](https://corporateapps.gsa.gov/hr-links/) is complete.
 
 ## TL;DR: ALOHA has a new leave reconciliation feature that allows employees to correct their own leave variances.
 

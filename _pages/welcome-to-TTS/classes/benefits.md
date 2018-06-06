@@ -28,7 +28,7 @@ Find us in Slack:
 
 ## Benefits Quicklinks
 
-Click [here](/benefits-links/) for a list of quicklinks to access the various benefits sites. 
+Click [here](/benefits-links/) for a list of quicklinks to access the various benefits sites.
 
 ## Credit union
 
@@ -112,7 +112,7 @@ If you're having difficulty resolving an issue or getting clarification from you
 
 ## Leave
 
-Please use [ALOHA](/gsa-internal-tools/#aloha) to request sick leave and annual leave. For any leave-related questions, please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
+Please use [HR Links](https://corporateapps.gsa.gov/hr-links/) to request sick leave and annual leave. For any leave-related questions, please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
 
 For more information on Leave, including sick, religious, funeral, unpaid, parental, advanced, and religious, please reference the [Leave](/leave) page.
 
