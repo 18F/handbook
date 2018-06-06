@@ -18,10 +18,10 @@ New employees should have a GSA VMware myView/Horizon account, but if not:
 ## Logging into VMware Horizon
 
   1. Click on the VMware Horizon icon (on your desktop)
-  2. Enter [horizon.gsa.gov](horizon.gsa.gov) for server
+  2. Enter `horizon.gsa.gov` for server
   3. Use ENT info for initial VMware Horizon login-in screen
-  4. Go to [otp.gsa.gov](otp.gsa.gov) and enter your ENT info to get the Token
-  5. Enter the Token back into VMware Horizon login-in screen
+  4. Go to [otp.gsa.gov](http://otp.gsa.gov) and enter your ENT info to get the Tokencode
+  5. Enter the Tokencode back into VMware Horizon login-in screen
 
 ## Usage
 
