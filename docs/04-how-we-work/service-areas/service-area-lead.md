@@ -5,7 +5,7 @@ The lead is responsible for guiding the overall vision and strategy of the servi
 
 ## Overall
  * Manage the service area as a whole to meet KPI targets.
- * Seeks to understand client needs, technical trends, sales/recruiting market trends and competative strengths and weaknesses.
+ * Seeks to understand client needs, technical trends, sales/recruiting market trends and competitive strengths and weaknesses.
  * Establishes and socializes a vision for service area.
  * Cultivates a culture of balance, learning and continuous improvement.
  * Works across the team to develop, select and implement strategies that increase quality and profitability for the service area.
