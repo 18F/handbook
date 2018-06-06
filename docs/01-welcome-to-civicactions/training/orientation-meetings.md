@@ -134,7 +134,7 @@
 * [CivicActions Agile](../../04-how-we-work/agileoverview.md)
 * Read about & learn [markdown](../../04-how-we-work/tools/markdown.md)
 * Read the [common vocab](../../04-how-we-work/common-vocab.md) page
-* [Free and Open Source Software (FOSS)](../../01-welcome-to-civicactions/training/intro-open-source/)
+* [Free and Open Source Software (FOSS)](../../01-welcome-to-civicactions/training/intro-open-source.md)
 
 ### Versioning Systems and Development Process
 
