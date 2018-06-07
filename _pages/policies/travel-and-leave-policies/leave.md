@@ -53,7 +53,7 @@ Should an unforeseen emergency or illness arise requiring the use of leave not p
 
 Before taking leave, be sure to:
 
-- Submit leave through HR Links](https://corporateapps.gsa.gov/hr-links/)
+- Submit leave through [HR Links](https://corporateapps.gsa.gov/hr-links/)
 - Notify your Engagement Manager, if you're on an outside project
 - Submit [correct Tock entries](#time-tracking)
 - Share via Slack, email or over media with folk how need to know, and make sure work is covered
