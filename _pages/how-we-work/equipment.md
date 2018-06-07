@@ -9,7 +9,7 @@ GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be
 
 Your GSA badge, also known as a PIV card, allows you to get in and out of GSA buildings and avoid security lines.
 
-Although some of our employees are based out of a specific office, your badge can be permissioned for multiple GSA buildings. [Kathryn Connolly](https://gsa-tts.slack.com/messages/@kathryn/) can submit paperwork to start this process, which usually takes a few days. After you receive an email confirmation, you'll need to visit the security office in each new building to activate your card.
+Although some of our employees are based out of a specific office, your badge can be permissioned for multiple GSA buildings. Email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to start this process, which usually takes a few days. After you receive an email confirmation, you'll need to visit the security office in each new building to activate your card.
 
 GSA processes new badges every Wednesday. When your badge is ready, you’ll receive an email (in both your personal and GSA emails) from `HSPD12Admin@usaccess.gsa.gov` containing four steps. Please skip to step four, which details how to schedule an appointment and pick up your badge, and bring the password in step three. To check on the status of your GSA badge, you can email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov).
 
