@@ -41,7 +41,7 @@ You may engage in outside employment or personal educational activities during n
 
 ## Complaint Resolution Policy
 
-CivicActions subscribes to an open door policy. If an issue arises that cannot be worked out directly, you are encouraged to bring a particular complaint to your manager for resolution. When matters cannot be handled on an informal basis, CivicActions has established a formal procedure for a fair review of any work related controversy, dispute or misunderstanding, including intimidation, harassment or bullying. We have a zero tolerance policy concerning those behaviors and, actually, can't imagine them ever happening here.
+CivicActions subscribes to an open door policy. If an issue arises that cannot be worked out directly, you are encouraged to bring a particular complaint to your manager for resolution. When matters cannot be handled on an informal basis, CivicActions has established a formal procedure for a fair review of any work related controversy, dispute or misunderstanding, including intimidation, harassment or bullying. 
 
 A complaint may be brought by one or more employees concerning any work-related problem where the complaint has not been satisfactorily resolved in an informal manner.
 
