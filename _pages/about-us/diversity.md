@@ -23,7 +23,7 @@ The Diversity [Guild](/working-groups-and-guilds-101/) strives to make TTS a gre
 
 ### <a id="leadership">Leadership</a>
 
-The Diversity Guild is led by [Elaine Kamlley](https://gsa-tts.slack.com/messages/@elainekamlley) and [Annalee Horne](https://gsa-tts.slack.com/messages/@annalee).
+The Diversity Guild is led by [Cordelia Yu](https://gsa-tts.slack.com/messages/@bcordeliayu) and [Deb Baptiste](https://gsa-tts.slack.com/messages/@debbaptiste).
 
 ### <a id="communication">Communication</a>
 
@@ -59,4 +59,4 @@ Not only does the Diversity Guild a space for learning, it also promotes the bel
 If you&rsquo;re interested in getting involved:
 
 - **Join our channel.** Head on over to [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/).
-- **Join our meetings.** We meet monthly, the fourth Friday of the month. We also have open coworking sessions every Friday. The meetings currently show up on the 18F Working Groups and Guilds calendar. If you would like to be added to the invites directly, please [message Elaine Kamlley](https://gsa-tts.slack.com/messages/@elainekamlley).
+- **Join our meetings.** We meet monthly, the fourth Friday of the month. We also have open coworking sessions every Friday. The meetings currently show up on the 18F Working Groups and Guilds calendar. If you would like to be added to the invites directly, please [message Cordelia Yu](https://gsa-tts.slack.com/messages/@bcordeliayu).
