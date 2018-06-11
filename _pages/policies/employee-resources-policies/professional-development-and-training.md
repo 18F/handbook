@@ -60,10 +60,11 @@ Meet with your supervisor to discuss the conference speaking opportunity.
 3. If the conference has any cost besides travel, please add the conference to your Individual Development Plan (IDP) in Salesforce and have your supervisor to approve it.   
 
 4. Create a Salesforce SF-182 form
-  - Select your current supervisor as the first approver.
-  - Select Dominic Sale as the second approver, if the training is below $2500 (including travel),  
-  - Select FAS HSSO Judith Zawatsky, if the training is more than $2500 (including travel)
-  - Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder
+
+  * Select your current supervisor as the first approver.
+  * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),  
+  * Select FAS HSSO Judith Zawatsky, if the training is more than $2500 (including travel)
+  * Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder
 
 5. Watch your email and wait for Event Tracker approvals and SF182 approvals. If you have questions about the status ask in slack #training-conferences or send a slack DM to your training POC.
 
@@ -83,6 +84,7 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 4. If the conference has any cost besides travel, please add the conference to your [Individual Development Plan (IDP)](https://goo.gl/7mVKW4) in Salesforce and have your supervisor to approve it.   
 
 5. Create a Salesforce SF-182 form
+
   * Select your current supervisor as the first approver.
   * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),  
   * Select FAS HSSO Judith Zawatsky, if the training is more than $2500 (including travel)
@@ -106,6 +108,7 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 4. If the training has any cost besides travel, please add the training to your [Individual Development Plan (IDP)](https://goo.gl/7mVKW4) in Salesforce and have your supervisor to approve it.   
 
 5. Create a Salesforce SF-182 form
+
   * Select your current supervisor as the first approver.
   * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),  
   * Select FAS HSSO Judith Zawatsky, if the training is more than $2500 (including travel)
