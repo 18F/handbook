@@ -40,7 +40,7 @@ The Lab is happy to offer you generative, developmental, stylistic, or copy edit
 - White papers
 - Presentations or slide decks
 - Partner agency communications
-- #news posts (we can typically turn these around in under 24 hours)
+- [#news](https://gsa-tts.slack.com/messages/news/) posts (we can typically turn these around in under 24 hours)
 - Content strategy
 - And more!
 
@@ -54,6 +54,16 @@ Standard practice is to file an issue in our [GitHub repo](https://github.com/18
 
 This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https://docs.google.com/document/d/1pyP501N6L-mJStTUIhsZ9UQoxy7quzoKND9iibS51ls/edit) for you to keep. It has all the information we think you might need in the future.
 
+### <a id="If-your-issue-isn't-picked-up">What should I do if my issue isn't picked up?</a>
+
+Lab members assign themselves to issues as they can. Each core Lab member is cleared to spend three hours per week on the Lab, so our ability to pick up and close issues is based on the number of issues coming in and the workload of other projects.
+
+If your issue isn’t assigned to someone within three days of you filing it, please ping the team in [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab) or leave a comment on the issue. If your content has a hard deadline, please note that in the issue. Add the urgent label if it needs to be completed in the next two days.
+
+### <a id="Share-feedback">How do I share feedback?</a>
+
+We’re always looking for ways to improve the Lab workflow, the quality of our services, and your experience as a customer. If you have any ideas or questions, please [complete our feedback survey](https://goo.gl/1eSVio) or reach out to the team on Slack in [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab).
+
 ### <a id="previous-projects">What has the Writing Lab worked on in the past?</a>
 
 Feel free to peruse the [issues associated with the Writing Lab repository](https://github.com/18F/writing-lab/issues). Also, if you haven’t had a chance to check out the [18F Content Guide](https://pages.18f.gov/content-guide/) yet, that’s a great place to go to familiarize yourself with our style.
@@ -65,4 +75,51 @@ Here’s a list of the Lab staff’s favorite resources. Are we missing somethin
 - [18F Content Guide](https://content-guide.18f.gov/): The official source for 18F’s content policies and preferences
 - [18F Blogging Guide](https://handbook.18f.gov/blogging/): Your guide to writing, editing, and publishing posts for the 18F blog
 - [The Writing Lab’s performance profile guide](https://docs.google.com/document/d/1z6oyBG43c-5PkK9rAvWeK_bI0ojQqZIJCt8VcmsW53U/edit): An informal guide for editing performance profiles
+
+## <a id="Guidelines">Guidelines for submitting an issue</a>
+
+### Writing a good issue title
+
+The best issue titles have three elements, in this order: team, content type, content name.
+
+For example:
+
+- Talent - Performance Profile - Front end dev
+- Accessibility - Guide - Images section
+
+Since this is all internal, feel free to use common shortening and abbreviations in your titles. Having this information helps members of the Lab pick issues that are right for them. Some of the Lab members have worked more with certain teams and are more familiar with their content and style.
+
+### Metadata
+
+We ask all authors to submit a few pieces of metadata with their issue. This metadata helps us manage the Lab and complete your issue quickly. We’ve created an [issue template](https://github.com/18F/writing-lab/issues/new) that you can use. For the project type section, you will pick one option from the list provided. For the help type section, explain what kind of help you're looking for. For the jargon and sensitivity sections, tell us what thinks we should be on the lookout for while we're editing.
+
+Here are some additional guidelines to help you fill out the other sections of the issue.
+
+#### Due date
+
+If your content has a hard deadline, please list it in the issue.
+
+#### Audience
+
+Having a narrowly defined audience is probably the most important factor in having content that is easy to edit and easy to read. Knowing who is going to read this content helps Lab editors know what kind of tone and word choice is appropriate. Your audience should be distinct enough to help prioritize the most important content and exclude unnecessary information. Thus, descriptions like “general public” and “the federal government” are too broad. You can help define the audience and goal of your post by creating a [user story](https://en.wikipedia.org/wiki/User_story) with this simple format:
+
+_As a type of audience , I want to read or learn something , so that some benefit is had._
+
+If you’re writing about a new service that 18F is offering, your user story might be:
+
+_“As a Chief Information Officer, I want to learn about the specifics of 18F’s new service, so that I can see if it will help me modernize my agency’s technology.”_
+
+This narrow focus will help you decide a number of things. Because your audience is federal technologists, you can assume a certain familiarity with government processes and terms. This allows you to go a little deeper into government procedure and some of the nitty-gritty of how this product works. You might also choose to use a slightly more formal tone for this post since this could be the opening message in a businesses conversation.
+
+If you’re sending a staff-wide email to 18F, your user story might be:
+
+_“As an 18F staff member, I want to know what our new README guidelines are, so that I can make sure my repo is up to date.”
+
+Using this framework, you can be more informal since you’re writing to your colleagues, and you can use jargon that is known to the 18F team.
+
+#### Bill to
+
+If your Lab request is for a billable project, please list the Tock project name so that the Lab member who assists you can bill their time to your project. Again, if this is a major project that requires more than 10 hours of content work, please contact Russ Unger to see if you should have a content designer assigned to your project.
+
+If your request is for a non billable project, please also list the Tock project name. If there is no Tock project name associated with this piece of content, then the Lab will bill it to writing-lab in Tock.
 
