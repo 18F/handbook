@@ -114,9 +114,6 @@ navigation:
     - text: Online Learning University (OLU)
       url: olu/
       internal: true
-    - text: Professional development and training
-      url: professional-development-and-training/
-      internal: true
     - text: Product and open source
       url: intro-to-product-and-open-source/
       internal: true
@@ -445,6 +442,9 @@ navigation:
       internal: true
     - text: Overtime and comp time
       url: overtime-and-comp-time/
+      internal: true
+    - text: Professional development and training
+      url: professional-development-and-training/
       internal: true
     - text: Promotions
       url: promotions/
