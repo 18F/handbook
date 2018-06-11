@@ -47,11 +47,7 @@ VMware is utilized to access your GSA Microsoft Windows desktop.  Some governmen
 
 ##Cisco AnyConnect login
 
-AnyConnect is utilized as a GSA VPN client so you can use a variety of systems that require a VPN directly from your local computer. Go [here](/anyconnect) for more information on configuring this tool.
-
-
-
-
+AnyConnect is utilized as a GSA VPN client so that you can use a variety of systems that require a VPN directly from your local computer. Go [here](/anyconnect) for more information on configuring this tool.
 
 --------------------------------------------------------------------------------
 
