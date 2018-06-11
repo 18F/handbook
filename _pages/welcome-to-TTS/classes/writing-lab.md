@@ -58,11 +58,11 @@ This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https:/
 
 Lab members assign themselves to issues as they can. Each core Lab member is cleared to spend three hours per week on the Lab, so our ability to pick up and close issues is based on the number of issues coming in and the workload of other projects.
 
-If your issue isn’t assigned to someone within three days of you filing it, please ping the team in #writing-lab or leave a comment on the issue. If your content has a hard deadline, please note that in the issue. Add the urgent label if it needs to be completed in the next two days.
+If your issue isn’t assigned to someone within three days of you filing it, please ping the team in [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab) or leave a comment on the issue. If your content has a hard deadline, please note that in the issue. Add the urgent label if it needs to be completed in the next two days.
 
 ### <a id="Share-feedback">How do I share feedback?</a>
 
-We’re always looking for ways to improve the Lab workflow, the quality of our services, and your experience as a customer. If you have any ideas or questions, please [complete our feedback survey](https://goo.gl/1eSVio) or reach out to the team on Slack in #writing-lab.
+We’re always looking for ways to improve the Lab workflow, the quality of our services, and your experience as a customer. If you have any ideas or questions, please [complete our feedback survey](https://goo.gl/1eSVio) or reach out to the team on Slack in [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab).
 
 ### <a id="previous-projects">What has the Writing Lab worked on in the past?</a>
 
