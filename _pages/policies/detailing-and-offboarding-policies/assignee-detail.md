@@ -43,12 +43,12 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
 2. Then reach outto [TTS-Talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) to obtain Front Office approval
 
 3. Once approvals are granted, Supervisor contacts TTS-TalentTeam@gsa.gov with the request and cc: Biz Ops (Jackie Xu) for awareness.  Email must contain following information:
-  * Employee Name
-  * Office Symbol Employee is being detailed to
-  * Reimbursable or Non-reimbursable
-  * Detail Supervisor
-  * Detail PD or “Unclassified Set of Duties”
-  * Effective Date 
+   * Employee Name
+   * Office Symbol Employee is being detailed to
+   * Reimbursable or Non-reimbursable
+   * Detail Supervisor
+   * Detail PD or “Unclassified Set of Duties”
+   * Effective Date 
 
 4. Talent submits personnel action to HR and the employee may begin their detail on the effective date
 
