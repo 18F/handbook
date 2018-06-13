@@ -101,12 +101,12 @@ If you have an eye appointment but have yet to receive your card(s), you can loo
 If you're having difficulty resolving an issue or getting clarification from your insurer, follow these steps:
 
 1. Email [FEHB@opm.gov](mailto:FEHB@opm.gov) and make sure to include:
-  * Name of the insurer
-  * Issue that you need resolved
-  * What outcome you would like
-  * A huge thanks to the team that wrangles these complaints
+   * Name of the insurer
+   * Issue that you need resolved
+   * What outcome you would like
+   * A huge thanks to the team that wrangles these complaints
 2. They forward the issue to the company and use the complaint to see if there's a pattern of abuse by the company
-  * The company fix the issue at this point
+   * The company fix the issue at this point
 3. If you do not hear back within a reasonable timeframe, follow up with FEHB@opm.gov
 
 
