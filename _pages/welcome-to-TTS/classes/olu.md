@@ -14,7 +14,7 @@ Required classes will be assigned in OLU and pushed to TTS employees via email. 
 
 ### Mandatory Annual Training for All Employees
 * No Fear Act Training
-* FY17 IT Security Awareness Training (C)
+* 2018 Mandatory Cyber Security and Privacy Training
 * Sharing in a Collaborative Environment (C)
 * Records Management Training
 * Employee Accountability for GSA Personal Property
