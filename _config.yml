@@ -356,7 +356,7 @@ navigation:
     internal: true
     generated: true
     children:
-    - text: 18F Code of Conduct
+    - text: TTS Code of Conduct
       url: code-of-conduct-under-construction/
       internal: true
 

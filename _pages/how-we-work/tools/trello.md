@@ -16,7 +16,7 @@ There is no 18F-wide access to paid Trello features or add-on services yet. If y
 
 ## Rules
 
-**Abide by [the 18F Code of Conduct](/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
+**Abide by [the TTS Code of Conduct](/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
 
 ## Usage
 
