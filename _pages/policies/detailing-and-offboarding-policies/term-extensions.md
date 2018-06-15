@@ -15,7 +15,7 @@ Most employees at TTS (specifically 18F, PIF & ACQ) are hired on term appointmen
 - If you don’t know when your term ends, you can look in [HR Links](https://corporateapps.gsa.gov/hr-links/) for your “Assignment NTE Date.”
 - Considerations for renewal include organizational priorities, position needs, and your individual performance to date.
 
-2)  If the decision is to extend, your supervisor will need to fill out the [Term Extension Request Form](https://goo.gl/forms/zvZqourbaTJqwsUu1) by the first of the month - no later than 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should fill out the survey no later than February 1st).  Information requested on the survey includes the following:
+2)  If the decision is to extend, your supervisor will need to fill out the [Term Extension Request Form](https://goo.gl/forms/zvZqourbaTJqwsUu1) by the first of the month — no later than 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should fill out the survey no later than February 1st).  Information requested on the survey includes the following:
 
 - A paragraph on contributions you made in your first term
 - A paragraph on the projects and programs your supervisor expects you to work on and in what capacity for your second term
