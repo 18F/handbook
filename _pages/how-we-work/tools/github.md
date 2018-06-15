@@ -59,7 +59,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 ## Rules
 
-- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
+- **Abide by [the TTS Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
 
 - **Do not grant Admin rights to anyone but 18F staff.**
 
