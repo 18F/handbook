@@ -8,82 +8,42 @@ Most of these trainings are optional (with the exception of the [Infrastructure 
 
 ## About the schedule
 
-This is a typical onboarding schedule, but the timing may shift based on when you’re hired and federal holidays, etc. Check out the [TTS Classes Schedule](https://calendar.google.com/calendar/embed?src=gsa.gov_gi2e1fc66fh4v5in8ogsm0v8oo%40group.calendar.google.com&ctz=America%2FChicago) in Google Calendar for exact times. 
+This is a typical onboarding schedule, but the timing may shift based on when you’re hired and federal holidays, etc. Check out the [TTS Classes Schedule](https://calendar.google.com/calendar/embed?src=gsa.gov_gi2e1fc66fh4v5in8ogsm0v8oo%40group.calendar.google.com&ctz=America%2FChicago) in Google Calendar for exact times.
 
-## <a name="week-1"></a>Week 1
+## Week 1
 In your first week, you’ll learn about the different parts of our organization, the tools that we use, the best sources for finding information, how to track your time, and the most important legal and security requirements for working in the federal government as part of 18F.
 
 Note: The titles below are linked to our handbook pages for each subject. Description links offer a more detailed look at what you’ll learn in each session.
 
 ### Tuesday
-* Hatch Act, FOIA, Ethics, and Code of Conduct ([Description](/classes/#ethics))
-* [Benefits 101](/benefits) ([Description](/classes/#benefits))
+* Handbook 101
 
 ### Wednesday
-* [Introduction to the Infrastructure Team](/intro-to-18f-infrastructure) ([Description](/classes/#infrastructure-team))
-* Slack DM: [Introduction to the Ops Team](/ops/) ([Description](/classes/#ops-team))
-* [Equipment and useful government websites](/gsa-internal-tools) ([Description](/classes/#equipment))
+* [GSA Internal Tools and Equipment](/gsa-internal-tools) ([Description](/classes/#equipment))
 
 ### Thursday
-* [Introduction to GitHub and the 18F website](/intro-to-github) ([Description](/classes/#github-18F-site))
-
-### Friday
 * [Time tracking and Tock](/tock) ([Description](/classes/#tock))
 
+### Friday
+* [Infrastructure best practices](/intro-to-18f-infrastructure)
 
 ## Week 2
+In your second week, you’ll learn about privacy best practices, how to travel, how to get more involved, the culture of our org, and how we build websites.
 
-**Note: Weeks 2-5 occur on a rotating schedule. Please check your 18F-Classes Google Calendar to find out which week to follow first.**
+### Monday
+* [Hatch Act, FOIA, Ethics, and Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md) ([Description](/classes/#ethics))
 
-In your second week, you’ll learn how travel and recruitment work, and get an overview of how 18F came to exist. You’ll also meet with Aaron, 18F’s Executive Director.
-
-### Thursday
+### Tuesday
 * [Travel 101](/travel-101) ([Description](/classes/#travel))
-* * [Mission, culture, and history of 18F](/history-and-values) ([Description](/classes/#mission-culture-history))
-* [Professional development, conferences, speaking opportunities, and IDPs](/professional-development-and-training) ([Description](/classes/#professional-development))
 
-### Friday
-
-## <a name="week-3"></a>Week 3
-Your third week of training is relatively short. You’ll learn about accessibility and the tools we use to run successful meetings (many of which you’ve probably seen by now).
-
-### Monday
-* [Accessibility](/accessibility) ([Description](/classes/#accessibility))
-
-### Tuesday
-* [Introduction to Engineering](/engineering/) ([Description](/classes/#engineering-team))
-
-### Thursday
-* [Meetings and meeting tools](/meetings-and-meeting-tools) ([Description](/classes/#meetings))
-
-## <a name="week-4"></a>Week 4
-In your fourth week, you’ll learn about writing for the 18F blog and participating in our internal working groups, guilds, and grouplets. You’ll also take a tour of some of our products.
-
-### Monday
-_No classes are scheduled for this day_
-
-### Tuesday
-* [Introduction to Outreach and the blog](/outreach) ([Description](/classes/#blog))
+### Wednesday
 * [Working groups and guilds](/working-groups-and-guilds-101) ([Description](/classes/#groups-guilds-guides))
 
-### Wednesday
-_No classes are scheduled for this day_
+### Thursday
+* [Intro to Diversity Guild](/diversity)
 
 ### Friday
-* Front-end guild, Midas, and Federalist ([Description](/classes/#18f-products))
-
-## <a name="week-5"></a>Week 5
-This will be your last week of training (though you’re always welcome to come back and sit in these sessions again). This week, you’ll meet more teams and learn about the Writing Lab.
-
-### Monday
-* [Introduction to the Design Team](/design) ([Description](/classes/#design-team))
-* [Introduction to the Writing Lab](/writing-lab) ([Description](/classes/#writing-labs))
-
-### Wednesday
-* [Social media 101](/slack) ([Description](/classes/#social-media))
-
-### Friday
-* [Introduction to the Product Team and open source software](/intro-to-product-and-open-source) ([Description](/classes/#product-team))
+* [Federalist 101](/federalist) ([Description](/classes/#18f-products))
 
 ---
 
