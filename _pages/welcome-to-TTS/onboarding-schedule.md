@@ -4,7 +4,7 @@ title: Onboarding schedule
 
 _This series of onboarding classes is designed to explain how we work and introduce you to organizational best practices. All trainings take place in [#TTS-classes](https://gsa-tts.slack.com/messages/TTS-classes/)._
 
-Most of these trainings are optional (with the exception of the [Infrastructure class](/classes/#infrastructure-team), which is required since it has critical legal, regulatory, and policy implications for your work). For the optional ones, if you have a conflicting team meeting or another commitment, prioritize that first! You can easily read a class chat log later.
+Most of these trainings are optional (with the exception of the [Infrastructure class](/intro-to-18f-infrastructure), which is required since it has critical legal, regulatory, and policy implications for your work). For the optional ones, if you have a conflicting team meeting or another commitment, prioritize that first! You can easily read a class chat log later.
 
 ## About the schedule
 
