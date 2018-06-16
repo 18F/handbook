@@ -4,7 +4,7 @@ title: Onboarding schedule
 
 _This series of onboarding classes is designed to explain how we work and introduce you to organizational best practices. All trainings take place in [#TTS-classes](https://gsa-tts.slack.com/messages/TTS-classes/)._
 
-Most of these trainings are optional (with the exception of the [Infrastructure class](/classes/#infrastructure-team), which is required since it has critical legal, regulatory, and policy implications for your work). For the optional ones, if you have a conflicting team meeting or another commitment, prioritize that first! You can easily read a class chat log later.
+Most of these trainings are optional (with the exception of the [Infrastructure class](/intro-to-18f-infrastructure), which is required since it has critical legal, regulatory, and policy implications for your work). For the optional ones, if you have a conflicting team meeting or another commitment, prioritize that first! You can easily read a class chat log later.
 
 ## About the schedule
 
@@ -16,34 +16,36 @@ In your first week, you’ll learn about the different parts of our organization
 Note: The titles below are linked to our handbook pages for each subject. Description links offer a more detailed look at what you’ll learn in each session.
 
 ### Tuesday
-* Handbook 101
+* **Handbook 101**: Hangouts call based class that reviews how to navigate the handbook and make updates (create pull requests)
 
 ### Wednesday
-* [GSA Internal Tools and Equipment](/gsa-internal-tools) ([Description](/classes/#equipment))
+* [**GSA Internal Tools and Equipment**](/gsa-internal-tools): Self-guided class that provides links to the important internal tools that we use frequently at TTS, including how to receive equipment, helpful government websites, where to request sick or vacation time, and how to book a desk
 
 ### Thursday
-* [Time tracking and Tock](/tock) ([Description](/classes/#tock))
+* [**Time tracking and Tock**](/tock): Text based class that provides an overview of the Tock system and how to track work time
 
 ### Friday
-* [Infrastructure best practices](/intro-to-18f-infrastructure)
+* [**Infrastructure best practices**](/intro-to-18f-infrastructure): Self-guided class that provides an overview of the Infrastructure team, important compliance topics, and technology best practices at TTS
+
+***This is a required course that includes a [confirmation survey](https://goo.gl/forms/VP4Ci9Ed3r6UxG6H3)***
 
 ## Week 2
 In your second week, you’ll learn about privacy best practices, how to travel, how to get more involved, the culture of our org, and how we build websites.
 
 ### Monday
-* [Hatch Act, FOIA, Ethics, and Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md) ([Description](/classes/#ethics))
+* [**Hatch Act, FOIA, Ethics, and Code of Conduct**](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md): Text based class that provides an overview of important governance compliance topics
 
 ### Tuesday
-* [Travel 101](/travel-101) ([Description](/classes/#travel))
+* [**Travel 101**](/travel-101): Self-guided class that provides an intro to setting up a travel account, booking travel, and getting reimbursed
 
 ### Wednesday
-* [Working groups and guilds](/working-groups-and-guilds-101) ([Description](/classes/#groups-guilds-guides))
+* [**Working groups and guilds**](/working-groups-and-guilds-101): Text based class that introduces Working Groups and Guilds, how to join, and ways to get involved
 
 ### Thursday
-* [Intro to Diversity Guild](/diversity)
+* [**Intro to Diversity Guild**](/diversity): Text based class that introduces the Diversity and Inclusion Guild (#g-diversity)
 
 ### Friday
-* [Federalist 101](/federalist) ([Description](/classes/#18f-products))
+* [**Federalist 101**](/federalist): Text based class that introduces static sites and the Federalist platform, which we use to build websites
 
 ---
 

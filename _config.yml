@@ -90,7 +90,7 @@ navigation:
     internal: false
 
   - text: Classes
-    url: classes/
+    url: tts-classes/
     internal: true
     children:
     - text: Accessibility
