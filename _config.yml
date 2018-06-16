@@ -407,9 +407,6 @@ navigation:
     internal: true
     generated: true
     children:
-    - text: ALOHA/ETAMS reconciliation feature
-      url: aloha-etams-reconciliation-feature/
-      internal: true
     - text: Leave (HR Links)
       url: leave/
       internal: true
