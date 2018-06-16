@@ -410,7 +410,7 @@ navigation:
     - text: ALOHA/ETAMS reconciliation feature
       url: aloha-etams-reconciliation-feature/
       internal: true
-    - text: Leave
+    - text: Leave (HR Links)
       url: leave/
       internal: true
     - text: Travel guide

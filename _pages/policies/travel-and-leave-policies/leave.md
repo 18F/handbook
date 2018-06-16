@@ -1,5 +1,5 @@
 ---
-title: Leave
+title: Leave (HR Links)
 tags:
 - aloha
 - vacation
@@ -11,6 +11,9 @@ tags:
 - jury
 - duty
 - court
+- leave
+- request
+- hr links
 ---
 
 This page provides instructions for entering leave requests (also known as absence requests) in HR Links and information on the various types of leave.
