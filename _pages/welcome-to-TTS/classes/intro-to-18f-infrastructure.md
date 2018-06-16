@@ -2,6 +2,7 @@
 title: Intro to 18F Infrastructure
 navtitle: Infrastructure
 ---
+This page provides an overview of the Infrastructure team, important compliance topics, and technology best practices at TTS. As a part of TTS Classes, you will review [this document](https://docs.google.com/document/d/1iQP1S_PbJyOaeTlPEpD9oxal3kgA0bb2YNYbN56fJSk/edit#) and then complete this [confirmation survey](https://goo.gl/forms/VP4Ci9Ed3r6UxG6H3).
 
 ### TL;DR
 
@@ -17,11 +18,11 @@ navtitle: Infrastructure
 
 ## About Infrastructure
 
-## <a id="obeying-the-law">Obeying the law</a>
+### <a id="obeying-the-law">Obeying the law</a>
 
 Rule #1 is if you don't see us doing something already, and you can't find express authorization to do it, please ask first. We promise to get you an answer quickly. For example, if there is software or hardware you need that you don't have or don't know how to get, hop into [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) and ask. 
 
-## <a id="security">Security</a>
+### <a id="security">Security</a>
 
 You've probably heard about the [Office of Personnel Management (OPM) data breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach), and you probably know about the NSA. Everyone at TTS is responsible for our organization's security and ensuring that the private data of the public is safe.
 
@@ -29,7 +30,7 @@ The most important part of your job is security. 18F has its own [security stand
 
 Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please consult us in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 
-## <a id="the-public-interest">The public interest</a>
+### <a id="the-public-interest">The public interest</a>
 
 As a federal employee, you yourself have practically no right to privacy in connection with your work. Anything you say or do - in an email, a phone call, a private GitHub repo, a Slack direct message, etc - can be monitored, recorded, and turned into a Federal record. If you don't want the government to know something, use a personal device or service. If you're using TTS, GSA, or Gov-wide provided anything (software, tools, devices, etc), you are actively consenting to being monitored.
 
@@ -39,7 +40,7 @@ That isn't to say that TTS can't solicit public input. We absolutely can. We can
 
 This brings us to Rule #3: You cannot spend a single penny, or create the expectation for a single penny to be spent, without prior authorization. Anything involving money must trace back to approvals. You can find out all about purchase approvals on the [Purchase Requests](/purchase-requests/) page.
 
-## <a id="infrastructure-rules">Infrastructure rules</a>
+### <a id="infrastructure-rules">Infrastructure rules</a>
 
 There are some things that you might have been used to doing outside of government that you cannot do now. 
 
