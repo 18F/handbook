@@ -2,7 +2,7 @@
 title: Intro to 18F Infrastructure
 navtitle: Infrastructure
 ---
-This page provides an overview of the Infrastructure team, important compliance topics, and technology best practices at TTStraining is a self-guided class. As a part of TTS Classes, you will review [this document](https://docs.google.com/document/d/1iQP1S_PbJyOaeTlPEpD9oxal3kgA0bb2YNYbN56fJSk/edit#) and then complete this [confirmation survey](https://goo.gl/forms/VP4Ci9Ed3r6UxG6H3).
+This page provides an overview of the Infrastructure team, important compliance topics, and technology best practices at TTS. As a part of TTS Classes, you will review [this document](https://docs.google.com/document/d/1iQP1S_PbJyOaeTlPEpD9oxal3kgA0bb2YNYbN56fJSk/edit#) and then complete this [confirmation survey](https://goo.gl/forms/VP4Ci9Ed3r6UxG6H3).
 
 ### TL;DR
 
