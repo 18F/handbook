@@ -69,6 +69,8 @@ Slack users need to be offboarded in the following situations:
     * Someone from [#talent](https://gsa-tts.slack.com/messages/talent/) should fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform) when this happens.
 * A partner who's employment/engagement is ending
     * It is the responsibility of the engagement manager to inform @slackadmin in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) when this is happening.
+* A contractor who is no longer supporting TTS
+    * The COR or the TTS representative that added the contractor to Slack should fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform) when the period of performance ends.
 
 An admin will then do one of the following:
 
