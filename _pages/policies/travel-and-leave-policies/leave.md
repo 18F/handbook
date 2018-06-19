@@ -1,6 +1,10 @@
 ---
 title: Leave (HR Links)
 tags:
+- hrlinks
+- hrlinks
+- hr links
+- hr links
 - aloha
 - vacation
 - funeral
@@ -13,7 +17,7 @@ tags:
 - court
 - leave
 - request
-- hr links
+
 ---
 
 This page provides instructions for entering leave requests (also known as absence requests) in HR Links and information on the various types of leave.
