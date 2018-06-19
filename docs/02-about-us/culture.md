@@ -2,7 +2,7 @@
 
 ## Introduction
 
-CivicActions culture is what makes this company so special. We aim to define the culture and address common questions from potential hires and current team members in this playbook.
+CivicActions culture is what makes this company so special. We aim to define the culture and address common questions from potential hires and current team members in this handbook.
 
 The CivicActions culture is one of openness and authenticity. We are radically transparent in our communications and intentions. We strive to create an environment where people are comfortable to show emotion and be our true selves. We are people first, who want to work in an environment that strives to make the world better but who also want to care for ourselves and each other. We are balanced by knowing and honoring the priorities in our lives -- at work, at home, and in our mental and spiritual well-being. As a mostly remote firm, with a few onsite teams, we value promoting and fostering this culture so that it is cohesive and that each team member feels included.
 
@@ -40,10 +40,10 @@ We talk a lot about radical transparency here at CivicActions, but what is it?  
 
 You can read the relevant sections for free [here](https://books.google.com/books?id=VoY5CgAAQBAJ&pg=PT32&lpg=PT32&dq=A+management+approach+where+(ideally,)+all+decision+making+is+carried+out+publicly&source=bl&ots=L2FwOjEuGT&sig=SsrZLh2DuiFDZTpueuBPF-6fbvw&hl=en&sa=X&ved=0ahUKEwjaxbe2t-7YAhWiY98KHSH6CWYQ6AEINDAC#v=onepage&q&f=false).
 
-“Transparency means operating in such a way that others can actually see how, what and why actions are carried out.  As a principle...managers and directors of companies and organizations and board trustees have a duty to act visibly, predictably and understandably in order to promote participation and accountability that is deemed ethical.” 
+“Transparency means operating in such a way that others can actually see how, what and why actions are carried out.  As a principle...managers and directors of companies and organizations and board trustees have a duty to act visibly, predictably and understandably in order to promote participation and accountability that is deemed ethical.”
 
-“Radical Corporate Transparency...is a philosophical concept regarded as the removing of all barriers to free and easy public access to corporate, political, and personal...information, and the development of laws, rules, social connivance and processes that facilitate and protect such an outcome.” 
- 
+“Radical Corporate Transparency...is a philosophical concept regarded as the removing of all barriers to free and easy public access to corporate, political, and personal...information, and the development of laws, rules, social connivance and processes that facilitate and protect such an outcome.”
+
 ### How does Radical Transparency Work at CivicActions?  
 
 Here’s a real life example:  In May of 2017, CivicActions experienced significant financial losses. Aaron and Henry presented an All Hands Call in which they laid out the problem, the cause, and the potential actions they would take if the issue was not resolved.  
