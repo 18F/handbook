@@ -6,7 +6,7 @@ AnyConnect is a VPN client that we use to connect to GSA's intranet.
 
 ## Setup
 
-1. Download [AnyConnect](https://drive.google.com/a/gsa.gov/file/d/0B0kAEM4mkbZ1XzMyQzdjYUdyUHM/edit) and launch the installer.
+1. Download [AnyConnect](https://drive.google.com/open?id=0B4CdALyekcYXOWNaeVRSZy05TXM) and launch the installer.
 2. Follow the prompts to install the VPN client. Deselect the other components or else the installation may fail. Your install screen should look like this:
 
 ![AnyConnect Installation Screen]({{ site.baseurl }}/images/anyconnect/1.png)
@@ -15,11 +15,12 @@ AnyConnect is a VPN client that we use to connect to GSA's intranet.
 
 1. Make sure you are not connected to a GSA network, otherwise the connection will fail.
 2. Launch the Cisco AnyConnect Secure Mobility Client.
-3. Enter `vpn.gsa.gov/gfeotp` in the Site Name field.
+3. Enter `vpn.gsa.gov/gfeotp` or select `GSA Access OTP` in the Site Name field.
 4. Click **Connect**.
 5. In the `Group` dropdown, select `GSA 18F OTP Users`.
 6. Sign in with your ENT username and password. Your username is your full name, including your middle initial.
 7. You'll be prompted for an answer or token. Enter the [OTP code](/distributed#otp).
+8. Accept the Government Warning Banner. 
 
 ## Troubleshooting
 
