@@ -97,7 +97,7 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed). You don’t have to wait until your conference is approved to make your arrangements in Concur.  Most travel reservations will automatically cancel if not approved.  If you book outside of Concur for the conference hotel, you are responsible for cancelling any reservation, if your event is not approved.  You are responsible for any cancellation fees, if you fail to follow the conference hotel cancellation policy.  You can ask questions in [#travel](https://gsa-tts.slack.com/messages/travel/) or during [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/) with Ethan Hepner 11:30-12:30 ET
 
 ### I’m attending training that is not at a conference.
-***Note: training events require a minimum of 5 days advance notice. If the training event’s cost is over $2500 including travel15 days advance notice is required***
+***Note: training events require a minimum of 5 days advance notice. If the training event’s cost is over $2500 including travel 15 days advance notice is required***
 
 1. Meet with your supervisor to discuss the conference opportunity.
 
