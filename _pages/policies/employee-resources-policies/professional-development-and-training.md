@@ -10,7 +10,7 @@ TTS encourages all staff to attend conferences, speak at events and focus on pro
 
 ## Attending Events
 
-TTS usually attends events in one of four ways.
+TTS usually attends events in one of five ways.
 
 1. [I’m speaking at a conference but not attending the conference events (Pycon, CFA).](https://handbook.18f.gov/professional-development-and-training/#im-speaking-at-a-conference-but-not-attending-conference-events)
 1. [I’m speaking at an event (luncheon, panel, summit).](https://handbook.18f.gov/professional-development-and-training/#im-speaking-at-an-event)
