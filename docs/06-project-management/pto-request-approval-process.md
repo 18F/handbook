@@ -9,4 +9,4 @@ When a team member requests time off, the Project Manager has a unique role in t
 5. A Delivery Manager approves the time off via email reply and requests that the admin support team adds the time off to the Master Out of Office Calendar
 6. The admin support team enters the time off into Harvest's Forecast tool which we use for people resourcing
 7. As the time off date approaches, the PM and the team member work through project impacts and coverage together
-8. The PM and the team member notify the rest of the team about the PTO
+8. The PM and the team member notify the rest of the team about the time off
