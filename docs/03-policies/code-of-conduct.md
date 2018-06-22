@@ -9,7 +9,7 @@ updated: May 9, 2017
 
 Successful operation of CivicActions requires that all of us be respectful of, and open with, one another. This is a community of trust and it needs straight-forward, non-critical dialogue to accomplish its goals. There's little that can't be resolved with honest appraisal and an attitude of cooperation. We don't compete here, and we try really hard to avoid back-biting and complaining.
 
-That's not to say we don't annoy or otherwise drive each other a little nuts occasionally. It happens. If an issue is not easily resolved, there is a "Complaint Resolution Policy" in [Required Stuff](required-stuff.md).
+That's not to say we don't annoy or otherwise drive each other a little nuts occasionally. It happens. If an issue is not easily resolved, there is a "Reporting and Investigating Proscribed Harassment" Policy in [Employment and Harassment Policies](employment-harassment-policies.md).
 
 ## Code of Conduct
 
