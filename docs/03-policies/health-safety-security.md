@@ -11,7 +11,8 @@ CivicActions provides insurance for all work-related injuries or illness. The na
 
 ## Safety
 
-CivicActions wants you to be safe under all circumstances and has a zero tolerance for any behavior that would threaten the physical safety and/or emotional well-being of another employee or others.
+CivicActions wants you to be safe under all circumstances. All employees have a stake in keeping the workplace safe, pleasant, and free of hazards of any kind. We rely on you to help make the company a friendly, secure place to work. If you ever feel unsafe please talk to your manager or refer to the Reporting and Investigating Proscribed Harassment" Policy in [Anti Harassment Policies](anti-harassment-policies.md).
+
 
 ## Use of Private Automobile
 
