@@ -31,7 +31,7 @@ Regular Full-Time Employee: An employee who is scheduled to work no less than 40
 
 Regular Part-Time Employee: An employee who is scheduled to work less than 40 hours in a workweek. Regular part-time employees working at least 30 hours a week are eligible for all employment benefits offered by CivicActions.
 
-Whether an employee is exempt or non-exempt depends on specific, statutory tests. See [Required Stuff](required-stuff.md). For our purposes, exempt employees don't get overtime and non-exempt do.
+Whether an employee is exempt or non-exempt depends on specific, statutory tests. See [Employment and Harassment Policies](employment-harassment-policies.md). For our purposes, exempt employees don't get overtime and non-exempt do.
 
 ## Personnel (and Personal) Records
 
