@@ -13,7 +13,7 @@ CivicActions has our 401k through SocialK, which provides us with Environment, S
 
 ## Equal Employment Opportunities
 
-CivicActions provides equal employment opportunities to "all qualified people". What that means can be found under [Required Stuff](required-stuff.md).
+CivicActions provides equal employment opportunities to "all qualified people". What that means can be found under [Employment and Harassment Policies](employment-harassment-policies.md).
 
 ## Background Checks
 
