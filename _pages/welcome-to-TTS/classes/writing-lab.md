@@ -46,13 +46,13 @@ The Lab is happy to offer you generative, developmental, stylistic, or copy edit
 
 Our role is limited to improving the overall quality of content — its readability, flow, voice, and tone — and doesn't include approving it for publication. After a piece of writing has passed through the Writing Lab, it will be polished and will follow [18F’s Content Guide](https://content-guide.18f.gov/), but that doesn’t necessarily mean it’s ready to be published. Obtaining necessary approvals, designing a place for the content to live, and completing the technical work of posting content are all responsibilities of the content owner.
 
-The Writing Lab is designed for short engagements. If you need more than 10 hours of content help, please [submit a staffing request](https://github.com/18F/staffing-and-resources) to get a content designer assigned to your project.
+The Writing Lab is designed for short engagements. If you need more than 10 hours of content help, please visit [#staffing-resourcing](https://gsa-tts.slack.com/messages/staffing-resourcing) to ask for guidance on getting somebody assigned to your project.
 
 ### <a id="asking-for-help">How do I ask for help?</a>
 
-Standard practice is to file an issue in our [GitHub repo](https://github.com/18F/writing-lab). If you don’t feel comfortable filing an issue, reach out to us on our Slack channel, [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab). Provide us with the basic details of your project and we’ll create an issue for you (and tag you in it). Lab members make edits and specific comments in Google Docs, and they discuss larger questions in comments on the GitHub issue. Whenever possible, Lab members try to pick up and close issues within a week.
+Standard practice is to file an issue in our [GitHub repo](https://github.com/18F/writing-lab). If you don’t feel comfortable filing an issue, reach out to us on our Slack channel, [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab). Provide us with the basic details of your project and we’ll create an issue for you (and tag you in it). Lab members will reach out to schedule a 15-30 minute consult with you and make edits and specific comments in Google Docs. They may also discuss larger questions in comments on the GitHub issue. Whenever possible, Lab members try to pick up and close issues within a week.
 
-This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https://docs.google.com/document/d/1pyP501N6L-mJStTUIhsZ9UQoxy7quzoKND9iibS51ls/edit) for you to keep. It has all the information we think you might need in the future.
+This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https://docs.google.com/document/d/1pyP501N6L-mJStTUIhsZ9UQoxy7quzoKND9iibS51ls/edit) for you to keep. 
 
 ### <a id="If-your-issue-isn't-picked-up">What should I do if my issue isn't picked up?</a>
 
@@ -119,7 +119,9 @@ Using this framework, you can be more informal since you’re writing to your co
 
 #### Bill to
 
-If your Lab request is for a billable project, please list the Tock project name so that the Lab member who assists you can bill their time to your project. Again, if this is a major project that requires more than 10 hours of content work, please contact Russ Unger to see if you should have a content designer assigned to your project.
+If your Lab request is for a billable project, please list the Tock project name so that the Lab member who assists you can bill their time to your project. Again, if this is a major project that requires more than 10 hours of content work, please visit [#staffing-resourcing](https://gsa-tts.slack.com/messages/staffing-resourcing) to ask for guidance on getting somebody assigned to your project.
 
 If your request is for a non billable project, please also list the Tock project name. If there is no Tock project name associated with this piece of content, then the Lab will bill it to writing-lab in Tock.
+
+Either way, the Lab member who assists you will provide you with regular billing updates so you can keep track of how much time they have spent on your issue and how that may affect your project budget.
 
