@@ -61,17 +61,18 @@ Should an unforeseen emergency or illness arise requiring the use of leave not p
 Before taking leave, be sure to:
 
 - Submit leave through [HR Links](https://corporateapps.gsa.gov/hr-links/)
-- Notify your Engagement Manager, if you're on an outside project
+- Notify your Engagement Manager, Account Manager, or project lead
+- Mark your out of office time on your calendar
 - Submit [correct Tock entries](#time-tracking)
-- Share via Slack, email or over media with folk how need to know, and make sure work is covered
+- Tell team members or partners via Slack or email, and make sure work is covered
 - For 18F team members, update the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/Chicago)
 
 ### Annual leave
 
 An employee may use annual leave for vacations, rest and relaxation, and personal business or emergencies. Annual leave accrues based on how long you've worked for the government:
 
-* Fewer than three years: four hours per pay period
-* Between three and 15 years: six hours per pay period
+* Fewer than 3 years: 4 hours per pay period
+* Between 3 and 15 years: 6 hours per pay period
 
 The maximum annual leave that can be carried over is 240 hours, and if you've transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
