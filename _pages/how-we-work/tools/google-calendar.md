@@ -50,12 +50,6 @@ To change the default calendar view so you only see your working hours:
 2. Under **Labs > Hide morning and night**, click **Enable**.
 3. Click **Save**.
 
-### Automatically decline meetings when you're busy
-
-1. In the Settings menu, click **Settings**.
-2. Under **Labs > Automatically declining events**, click **Enable**.
-3. Click **Save**.
-
 ### Change the default event duration
 
 Google Calendar's default event duration is 30 minutes. If you want to change it:
