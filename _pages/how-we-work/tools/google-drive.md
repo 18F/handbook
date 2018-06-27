@@ -18,9 +18,11 @@ We use Google Drive to keep track of documentation for different projects:
 
 * Blog drafts are written in Google Drive in the Blog folder. [Instructions are here](https://github.com/18F/blog-drafts/blob/master/README.md).
 
-* Every GSA employee can view and access docs. If another agency employs Google Docs, documents can be shared directly with them.  If the agency does not use Google Docs, [here are approved instructions for sharing documents with them](https://insite.gsa.gov/portal/content/517805).   Note that the agency staff could also create a google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en).  Ask in [#teamops](https://gsa-tts.slack.com/messages/teamops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) if you need help.  
+* Every GSA employee can view and access docs. If another agency employs Google Docs, documents can be shared directly with them.  If the agency does not use Google Docs, [here are approved instructions for sharing documents with them](https://insite.gsa.gov/portal/content/517805).   Note that the agency staff could also create a google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en).  Ask in [#teamops](https://gsa-tts.slack.com/messages/teamops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) if you need help.
 
 * Offline syncing for Google Drive/Docs has been disabled for GSA.
+
+* You can share files with partners that have a .gov Google account directly, or have them make a [GSA Affiliated Customer Account (GACA)](https://insite.gsa.gov/portal/content/517805?term=gaca).
 
 ## Document permissions
 The main way we collaborate on documents is by adding them to the 18F Team Folder in a relevant sub-folder. (You can make a new sub-folder if it wouldn't fit into the existing folders.) This automatically gives the document the right permissions and makes it easy for the rest of the team to find.
