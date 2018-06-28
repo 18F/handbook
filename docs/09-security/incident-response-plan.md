@@ -3,14 +3,15 @@
 Table of Contents
 =================
 
+* [Applicability](#applicability)
 * [Overview](#overview)
 * [Response process](#response-process)
    * [Initiate](#initiate)
-       * [Comms at the Initiate phase](#comms-at-the-initiate-phase)
+      * [Comms at the Initiate phase](#comms-at-the-initiate-phase)
    * [Assess](#assess)
-       * [Comms at the Assess phase](#comms-at-the-assess-phase)
+      * [Comms at the Assess phase](#comms-at-the-assess-phase)
    * [Remediate](#remediate)
-       * [Comms at the Remediate phase](#comms-at-the-remediate-phase)
+      * [Comms at the Remediate phase](#comms-at-the-remediate-phase)
    * [Retrospective](#retrospective)
 * [Incident Severities](#incident-severities)
    * [1 - High Severity](#1---high-severity)
@@ -18,9 +19,15 @@ Table of Contents
    * [3 - Low Severity](#3---low-severity)
 * [How this document works](#how-this-document-works)
 
+----
+
+## Applicability
+
+**Note:**  This Incident Response Plan applies only to systems for which CivicActions has negotiated and defined Incident Response/Contingency Plan (IRCP) operations. Each IRCP-managed system will have a specific, tailored version of this Incident Response Plan or in some cases a completely unique Incident Response Plan will be developed. All CivicActions employees are aware of the procedures outlined herein.
+
 ## Overview
 
-This document outlines the CivicActions Incident Response Team's process for responding to security incidents and other system disruptions. It outlines roles and responsibilities during and after incidents, and it lays out the steps we'll take to resolve them.
+This document outlines the CivicActions Incident Response Team's process for responding to security incidents and other disruptions of a CivicActions IRCP managed system, product or service ("system"). It outlines roles and responsibilities during and after incidents, and it lays out the steps we'll take to resolve them.
 
 **If you're responding to an incident**, [here's an IRP checklist](incident-response-checklist.md) as a short, actionable companion to this guide.
 
@@ -28,20 +35,21 @@ At a high level, incident response follows this process:
 
 [Initiate](#initiate):
 
-* A CivicActions team member (the *reporter*) notices and reports a related incident, notifying the CivicActions Incident Response Team:
-   1. Slack: client specific or [`#general`](https://civicactions.slack.com/messages/general/) using `@security` (or `@channel`)
-   2. [CivicActions Incident Response Team contact sheet](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA)
+* A CivicActions team member (the *reporter*) notices and reports a system related incident, notifying the CivicActions Incident Response Team:
+  1. Slack: client specific or [`#general`](https://civicactions.slack.com/messages/general/) using `@security` (or `@channel`)
+  2. [CivicActions Incident Response Team contact sheet](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA)
 * The first responder on the Incident Response Team (which could be the reporter if the reporter is on the team) becomes the initial **Incident Commander (IC)**.
 
 [Assess](#assess):
 
 * The IC forms a team (*responders*) to determine if the event is actually a confirmed incident, and if so [assesses the severity](#incident-severities).
-* The IC assesses whether to also activate the [contingency plan](contingency-plan.md).
+   * Note that some apparent outages can be triggered by [external dependencies as listed in the contingency plan](contingency-plan.md#external-dependencies).
 * The IC creates an initial situation report ("sitrep") using Slack ([`#general`](https://civicactions.slack.com/messages/general/)), or acknowledges false-alarm notification.
-* If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remedation forensic analysis is supported.
+* The IC assesses whether to also activate the [contingency plan](contingency-plan.md) (for disaster recovery).
 
 [Remediate](#remediate):
 
+* If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remedation forensic analysis is supported.
 * The responders work to contain and remediate the issue; timelines vary based on the assessed severity.
 * The IC coordinates, communicates, and tracks the investigation and remediation.
 * If appropriate to the situation, the IC coordinates with the Product Owner (PO) to notify affected customers.
@@ -52,7 +60,7 @@ At a high level, incident response follows this process:
 
 During this process, the team communicates in the following places:
 
-* Situation updates, investigation notes, and other relevant information gets captured in the GitHub issue created to track this event.
+* Situation updates, investigation notes, and other relevant information gets captured in the issue/ticket created to track this event.
 * Real-time communication happens in Slack, in the [`#general`](https://civicactions.slack.com/messages/general/) channel.
 * If needed, the team can use a Zoom room, Google Hangout and/or Google Docs to share information that's not appropriate for Slack (PII, etc.).
    * IT Zoom <https://zoom.us/j/865708118> Meeting ID: 865 708 118
@@ -61,8 +69,6 @@ During this process, the team communicates in the following places:
 For full details, read on.
 
 ## Response process
-
-###
 
 ### Initiate
 
@@ -94,7 +100,7 @@ ANY EXTRA DETAILS ABOUT THE ISSUE CAN GO HERE.
 
 The IC is responsible for keeping this issue up-to-date as investigation and remediation progresses. Everyone involved in the issue (*responders*) should leave notes as comments on the issue.
 
-* The IC may start a Zoom room or Google Hangout and/or create Google Docs so that responders can share information in real time:
+* The IC may start a Zoom room, Google Hangout and/or create Google Docs so that responders can share information in real time:
    * IT Zoom <https://zoom.us/j/865708118> Meeting ID: 865 708 118
    * IT Google Hangout <https://hangouts.google.com/hangouts/_/civicactions.net/it_is>
 
@@ -102,8 +108,9 @@ The IC is responsible for keeping this issue up-to-date as investigation and rem
 
 The next step is to assess the event. We need to answer two questions:
 
-* Is this an incident (i.e., did the thing we suspect happen actually happen?)
+* Is this an incident? (i.e., did the thing we suspect happen actually happen?)
 * If so, how severe is it? (This will determine how our response proceeds.)
+* Could the event have been triggered by an [external dependency](contingency-plan.md#external-dependencies)?
 
 To answer these questions, the IC should form a response team by DM'ing people in Slack. The response team should work to confirm the event and assess its impact.
 
@@ -143,13 +150,15 @@ Updates and real-time chat should continue as above (chat in Slack, Zoom or Goog
 
 At this point, we're trying to fix the issue! Remediation will be very situation-specific, so specific steps are hard to suggest. However, a few guidelines to follow during this process:
 
+* If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remedation forensic analysis is supported.
+
 * The IC's responsibility is coordination, communication, and information-collection. The remediation team will be focused on resolving the issue, so it's up to the IC to make sure that we properly track what happened, how we're fixing it, who's doing what, etc. Ideally, the notes kept by the IC should be sufficient for an outside investigator to independently follow the work of the response team and validate the team's work
 
-* The team will develop a list of **leads** — actionable information about breaches, stolen data, etc. The IC should track these leads, maintain information about which are being investigated (and by whom), and what information that investigation leads. These can be tracked as checklists in the GitHub issue.
+* The team will develop a list of **leads** — actionable information about breaches, stolen data, etc. The IC should track these leads, maintain information about which are being investigated (and by whom), and what information that investigation leads. These can be tracked as checklists in the issue.
 
 * Similarly, the team will develop a list of **remediation steps**. The IC is likewise responsible for tracking those, making sure they're assigned and followed-up, and verifying them as they're completed. These may be tracked in the central  issue as well. The IC should distinguish between immediate concerns which should be completed before the incident is considered resolved and long-term improvements/hardening which can be deferred to the Retrospective.
 
-* The response team should aim to adopt a *containment* strategy: if machines are compromised, they should avoid destroying or shutting them down if possible (this can hamper forensics). Creating [database dumps](https://cloud.acquia.com/app/develop) of relevant volumes is a good step here.
+* The response team should aim to adopt a *containment* strategy: if machines are compromised, they should avoid destroying or shutting them down if possible (this can hamper forensics). Creating database dumps or snapshots of relevant volumes is a good step here.
    * For AWS instances, remember that you can leave the instance running and reconfigure the Security Group for the instance to drop all ingress and egress traffic except from specific IPs (like yours) until forensics can be performed.
 
 * Remediation may require service disruption. If it does, the team should proceed in a different way depending on the [severity](#incident-severities):
@@ -176,9 +185,8 @@ Once the incident is no longer active — i.e. the breach has been contained, th
 
 #### Comms at the Remediate phase
 
-* Updates and real-time chat should continue as above (updates on the GitHub issue, chat in Slack or Google Hangouts).
-
-* The IC should continue to post updated sitreps on a regular cadence (the section on severities, below, suggests cadences for each level). These sitreps should be sent to Slack, posted in the GitHub issue, and to any other stakeholders identified throughout the process (e.g. clients).
+* Updates and real-time chat should continue as above (updates on the issue, chat in Slack or Google Hangouts).
+* The IC should continue to post updated sitreps on a regular cadence (the section on severities, below, suggests cadences for each level). These sitreps should be sent to Slack, posted in the issue, and to any other stakeholders identified throughout the process (e.g. clients).
 
 ### Retrospective
 
@@ -199,7 +207,7 @@ The report should also contain some basic response metrics:
 * Time to containment (how long did it take from when we became aware until the issue was contained?)
 * Threat actions (which specific actions -- e.g. phishing, password attacks, etc) -- were taken by the actor)?
 
-This report should be posted as a final comment on the GitHub issue, emailed which can then be closed.
+This report should be posted as a final comment on the issue, emailed which can then be closed.
 
 ## Incident Severities
 

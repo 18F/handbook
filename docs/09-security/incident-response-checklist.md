@@ -2,6 +2,10 @@
 
 *This is a short, actionable checklist for the* **Incident Commander** *(IC) and* **Responders** *to follow during incident response. It's a companion to the [Incident Response Plan](incident-response-plan.md) where you can find the full details of each step.*
 
+## Step 0: Applicability
+
+**Note:**  This Incident Response Plan applies only to systems for which CivicActions has negotiated and defined Incident Response/Contingency Plan (IRCP) operations. Each IRCP-managed system will have a specific, tailored version of this Incident Response Plan or in some cases a completely unique Incident Response Plan will be developed. All CivicActions employees are aware of the procedures outlined herein.
+
 ## Step 1: *Breathe*
 
 * No one's life is in danger.
@@ -35,25 +39,26 @@ At this point, the *Incident Commander* (aka the first *Responder*) is usually w
 
 ## Assess
 
+The *Responders* (more than one is OK) work to:
+
+* Confirm the incident — *is it a real incident?*
+   * Was the event triggered by an [external dependency](contingency-plan.md#external-dependencies)?
+   * If it's not a real incident, go to [False Alarm](#false-alarm).
+* Assess the severity, using [the rubric in the IR guide](incident-response-plan.md#incident-severities) *(CivicActions system incidents are generally* **Low** *severity.)*
+
 The *Incident Commander*:
 
 * Forms a team (*responders*) to determine if the event is actually a confirmed incident, and if so [assesses the severity](incident-response-plan.md#incident-severities).
 * Determines whether to also activate the [contingency plan](contingency-plan.md) - *is a system failure causing the disruption?*
 * Posts an initial situation report ("sitrep") ([example sitrep](incident-response-plan.md#assess)) to [`#general`](https://civicactions.slack.com/messages/general/) slack including the a descriptive name, Commander and Responders
 
-The *Responders* (more than one is OK) work to:
-
-* Confirm the incident — *is it a real incident?*
-   * If it's not a real incident, go to [False Alarm](#false-alarm).
-* Assess the severity, using [the rubric in the IR guide](incident-response-plan.md#incident-severities) *(CivicActions system incidents are generally* **Low** *severity.)*
-* If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remedation forensic analysis is supported.
-
 ## Remediate
 
 The *Responders* work to determine cause, find resolution and return the system(s) to normal operations.
 
+* If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remedation forensic analysis is supported.
 * Determining the cause can drive followup measures to prevent incident reccurence.
-  * A *containment* strategy can be implemented by the Information Security Group for the instance to drop all ingress and egress traffic except from specific IPs (like yours) until forensics can be performed.
+  * A *containment* strategy may be implemented by the Information Security Group for the instance to drop all ingress and egress traffic except from specific IPs (like yours) until forensics can be performed.
 
 The *Incident Commander* coordinates activity:
 
@@ -80,7 +85,7 @@ Extra checklists for special situations that don't always occur during incidents
 Follow this checklist if an event turns out not to be a security incident:
 
 * Notify [`#general`](https://civicactions.slack.com/messages/general/) of the false alarm.
-* Update the GitHub/GitLab/JIRA issue (if one exxists) setting status to `Done`.
+* Update the GitHub/GitLab/JIRA issue (if one exists) setting status to `Done`.
 * If any sitreps have been sent out, send a final sitrep to all previous recipients, noting the false alarm.
 
 ### Handing off IC
