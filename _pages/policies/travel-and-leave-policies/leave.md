@@ -68,7 +68,7 @@ Before taking leave, be sure to:
 - And, for 18F team members:
     - Submit [correct Tock entries](#time-tracking)
     - Update your Slack username and profile (ex: `@username, OOO through 6/27`)
-    - Update the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/Chicago)
+    - Update the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com)
 
 ### Annual leave
 
