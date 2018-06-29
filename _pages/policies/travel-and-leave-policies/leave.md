@@ -63,9 +63,12 @@ Before taking leave, be sure to:
 - Submit leave through [HR Links](https://corporateapps.gsa.gov/hr-links/)
 - Notify your Engagement Manager, Account Manager, or project lead
 - Mark your out of office time on your calendar
-- Submit [correct Tock entries](#time-tracking)
 - Tell team members or partners via Slack or email, and make sure work is covered
-- For 18F team members, update the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/Chicago)
+- Set up an email autoresponder as appropriate
+- And, for 18F team members:
+    - Submit [correct Tock entries](#time-tracking)
+    - Update your Slack username and profile (ex: `@username, OOO through 6/27`)
+    - Update the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com)
 
 ### Annual leave
 
