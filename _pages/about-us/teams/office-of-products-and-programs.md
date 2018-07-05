@@ -31,7 +31,7 @@ We offer cross-government products and programs that help agencies deliver moder
 * [DigitalGov](http://www.digitalgov.gov/): a website that provides resources for agencies to create digital services
 * [DigitalGov University (DGU)](http://www.digitalgov.gov/digitalgov-university/): hosts trainings and other events about agencies’ digital efforts.
 * [Emerging Citizen Technology Office (ECTO)](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies 
-* [Federal Risk and Authorization Management (FedRAMP)](https://www.fedramp.gov/): provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services
+* [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/): provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services
 * [Go.USA.gov](https://go.usa.gov/): a URL shortening service for government agencies
 * [GobiernoUSA.gov](https://gobierno.usa.gov/): the “front door” to the federal government, offering government information and services by topic (in Spanish)
 * [Innovation.gov](https://www.innovation.gov/): a website with resources for bureaucracy hacking and innovation
