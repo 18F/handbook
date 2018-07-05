@@ -3,6 +3,7 @@ title: Office of Products and Programs (aka OPP)
 ---
 
 Welcome to OPP’s team page!
+
 ## Our Mission and Purpose
 
 Our mission is to help the public use and understand government, and help agencies understand and serve the public. To achieve this, we create, discover, connect and share practical solutions and products that transform government.
@@ -55,5 +56,6 @@ Check out our [brief history](/opp-history/) and learn how our work spans nearly
 To contact a specific project team, please visit the websites listed above. 
 
 For TTS Slack users:
+
 * OPP Slack channel: [#opp](https://gsa-tts.slack.com/messages/opp)
 * The [TTS Products and Platforms list](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit) has a direct link to each program’s Slack channel.
