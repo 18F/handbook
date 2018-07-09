@@ -17,7 +17,7 @@ We also have an hour-long monthly all hands call. Upcoming monthly AHCs are anno
 
 #### All Hands Calls Overview
 
-* We use Zoom for this (see [more about Zoom](../../04-how-we-work/tools/zoom.md)
+* We use Zoom for this - see [more about Zoom](../../04-how-we-work/tools/zoom.md)
 * Everyone on team is encouraged to join
 * Invites with links are sent out the day of in [#announcements](https://civicactions.slack.com/messages/announcements)
 * Meetings occur frequently as listed below
