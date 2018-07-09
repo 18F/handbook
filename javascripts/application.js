@@ -26,7 +26,7 @@ $(document).ready(function() {
 
   if ($('body').hasClass('layout-article')){
     numHeadings = $("main h2, main h3, main h4, main h5").length;
-    if ( numHeadings > 4 ) {
+    if ( numHeadings > 2 ) {
 
       var inlineNavigation =
         "<nav role='navigation' class='inline-navigation'>" +
