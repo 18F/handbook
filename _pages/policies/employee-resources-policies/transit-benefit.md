@@ -7,6 +7,7 @@ tags:
 - transportation
 - public
 ---
+This page outlines how to sign up for and how to cancel the transit benefit.
 
 ##Eligibility
 All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you need to enroll using the process below.
