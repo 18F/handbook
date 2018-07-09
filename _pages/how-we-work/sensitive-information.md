@@ -41,4 +41,4 @@ You can use [OMB MAX](https://max.omb.gov/) to share sensitive files (in appropr
 
 ### ZIP file
 
-Follow [these instructions](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) to create a password-protected ZIP file. Send the ZIP file and password to the recipient separately, with the latter ideally through something emphemeral like a phone call.
+Follow [these instructions](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) to create a password-protected ZIP file. Send the ZIP file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.
