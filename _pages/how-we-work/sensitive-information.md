@@ -10,7 +10,7 @@ To learn what information we consider sensitive, see [our Open Source Policy pra
 
 ## Tools
 
-TTS offers a few different tools for sharing sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
+TTS offers a few different tools for protecting sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
 
 ### Git Seekret
 
@@ -38,3 +38,7 @@ You can use [GSA Google Drive](../google-drive/) to share sensitive files, sprea
 ### OMB MAX
 
 You can use [OMB MAX](https://max.omb.gov/) to share sensitive files (in appropriate "workspaces" within MAX). We typically use MAX for working with partners who don't have access to — or who don't feel comfortable putting the information in — Google Drive. Some workspaces in MAX are available to private organizations (for example, cloud service providers in the FedRAMP workspaces) and many other government agencies. To request access you can contact [Marion Royal](https://gsa-tts.slack.com/messages/@marion) and provide your email address and a (extremely short) justification. Be sure you know who you're sharing with before posting.
+
+### ZIP file
+
+Follow [these instructions](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) to create a password-protected ZIP file. Send the ZIP file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.
