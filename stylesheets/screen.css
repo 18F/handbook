@@ -691,6 +691,17 @@ a[id]{
 	max-width: none;
 }
 
+.page p,
+.page figure,
+.page ul,
+.page ol,
+.page dl,
+.page li,
+.page td {
+	margin: 0 0 0.8em;
+	line-height: 1.6em;
+}
+
 @media screen and (min-width: 568.88px){
 
 	.page{ padding-top: 1.6em; }
@@ -709,16 +720,6 @@ a[id]{
 	.page li,
   .page blockquote {
 		max-width: 66ch;
-	}
-	.page p,
-	.page figure,
-	.page ul,
-	.page ol,
-	.page dl,
-	.page li,
-	.page td {
-		margin: 0 0 0.8em;
-		line-height: 1.6em;
 	}
 
 	.page li p{
