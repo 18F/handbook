@@ -147,15 +147,12 @@ navigation:
     internal: true
   - text: Office of Products and Programs (OPP) History
     url: opp-history/
-    internal: true  
+    internal: true
   - text: Mentorship
     url: mentorship/
     internal: true
   - text: Mission
     url: mission/
-    internal: true
-  - text: Projects
-    url: projects/
     internal: true
   - text: TTS org chart
     url: tts-org-chart/
