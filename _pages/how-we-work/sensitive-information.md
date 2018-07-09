@@ -39,6 +39,11 @@ You can use [GSA Google Drive](../google-drive/) to share sensitive files, sprea
 
 You can use [OMB MAX](https://max.omb.gov/) to share sensitive files (in appropriate "workspaces" within MAX). We typically use MAX for working with partners who don't have access to — or who don't feel comfortable putting the information in — Google Drive. Some workspaces in MAX are available to private organizations (for example, cloud service providers in the FedRAMP workspaces) and many other government agencies. To request access you can contact [Marion Royal](https://gsa-tts.slack.com/messages/@marion) and provide your email address and a (extremely short) justification. Be sure you know who you're sharing with before posting.
 
-### ZIP file
+### Password-protected file
 
-Follow [these instructions](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) to create a password-protected ZIP file. Send the ZIP file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.
+Follow the linked instructions to password-protect a:
+
+* [PDF](https://support.apple.com/guide/preview/password-protect-a-pdf-prvw587dd90f/mac)
+* [ZIP](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can be a folder full of files)
+
+Send the encrypted file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.
