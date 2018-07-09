@@ -57,8 +57,6 @@ Like Lean Startup, we favor experimentation, customer feedback, analytics, and i
 - **Leverage Agile methodologies.** Agile and lean methodologies drive our work. We believe in delivering early and often. We build something small; learn by validating with real people; and “rinse and repeat.” Quick feedback loops with stakeholders mean big failures never happen.
 - **Open by default.** We are open by default: both what we make and how we work. We’re [coding and designing in the open](https://github.com/18f); we use and build open source code by default; and we’re evangelizing our methods and practices across the federal government.
 
-These principles guide us in everything from how we work to what projects we choose. For more information, see [our full list of core values](https://pages.18f.gov/core-values/).
-
 ## Hacking bureaucracy
 
 When asked what it is we do, one quick answer is, “We’re hacking bureaucracy.” While it may sound provocative, it isn’t.
