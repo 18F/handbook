@@ -16,7 +16,7 @@
 
 We default to using our mailing lists for transparency instead of direct email messages. To get someone's attention, put their name in all caps in subject. Or use "ALL" to get everyone's attention. For example:
 
-* Subject: "RICHARD: are you around this afternoon?"
+* Subject: "ELIZABETH: are you around this afternoon?"
 * Subject: "ALL: please update your hours by EOD"
 * Subject: "URGENT: please update your hours by EOD"
 
