@@ -2,7 +2,7 @@
 
 Are you prepared for the "so, what does *your* company do" questions? Having an elevator pitch in mind is useful, not just for conferences, but also for every day networking.
 
-Think about when you're just at a gathering and you're excited about your new job and someone asks you to tell them more... what will you say? Don't sweat, be prepared!
+Think about when you're at a gathering and you're excited about your new job and someone asks you to tell them more... what will you say? Don't sweat it, be prepared!
 
 Here's a sample:
 
@@ -12,6 +12,10 @@ Here's a sample:
 
 Some points to keep in mind:
 
+* CivicActions - Open & Agile Digital Services
+* We build modern digital services
+* We use agile, DevOps, open data, and free software
+* We want to create an open and accountable government
 * We work to transform government with free and open technologies and agile processes.
 * We support public sector IT leaders in understanding and implementing Agile project management practices within government (AGL).
 * We're on a rocket ship of growth, we have an amazing company culture, and we're looking for new team members to join the party!
