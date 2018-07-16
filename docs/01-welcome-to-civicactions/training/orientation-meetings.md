@@ -50,6 +50,8 @@
 
 * Read the submitting [expenses process](../../04-how-we-work/tools/harvest.md#tracking-expenses)
 
+* Read the [expense policy](../../03-policies/expenses.md)
+
 * How to log onboarding time:
     * Log your time in the CivicActions Harvest project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description
     * Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
