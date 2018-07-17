@@ -142,7 +142,27 @@ Note that the gross income in your paycheck is a little less than your annual in
 
 This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an [article](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/) which further explains this.
 
-## Retirement
+
+## Retirement (FERS)
+
+The Federal Employees Retirement System (FERS) is the retirement plan that all employees pay into during their federal employment. A percentage of each paycheck is withheld by GSA and put into FERS. 
+
+Employees must have at least 5 years of [creditable service](https://www.opm.gov/retirement-services/fers-information/creditable-service/) to be eligible for FERS payments upon retirement. 
+
+If you leave government before becoming eligible for FERS retirement, you can request that your contributions be returned in a lump sum payment: see [leaving TTS](/leaving-tts/) for more information.
+
+If you served as an AmeriCorps VISTA volunteer, a Peace Corps Volunteer, and/or in the military, you may be eligible to “buy back” your service. “Buying back” your military/volunteer service allows the amount of time you served to be applied toward your FERS retirement calculations.
+
+As an example, if you served in the Peace Corps for 2 years and buy back your service, that amount of time would be considered creditable service and would increase your “length of service” [FERS payment calculation](https://www.opm.gov/retirement-services/fers-information/computation/).
+
+The calculations for FERS retirement can be complex, and there is paperwork to complete. We recommend carefully reviewing all information and talking to HR personnel as needed. Visit the following websites, Slack channels, and contact HR at [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov). 
+
+* [AmeriCorps VISTA](https://www.vistacampus.gov/resources/federal-jobs-and-noncompetitive-eligibility) 
+* [Military service](https://www.dfas.mil/civilianemployees/militaryservice/militaryservicedeposits.html) and [#vets](https://gsa-tts.slack.com/messages/vets)
+* [Peace Corps](https://www.peacecorps.gov/returned-volunteers/support-services/federal-retirement/) and [#rpcvs](https://gsa-tts.slack.com/messages/rpcvs)
+
+
+## Retirement (TSP)
 
 Employees at TTS are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/planparticipation/eligibility/actionsOnContributions.shtml) (TSP). To start, change, or stop your contributions, you&rsquo;ll need to fill out [Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
 
