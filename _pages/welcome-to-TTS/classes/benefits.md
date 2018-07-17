@@ -7,7 +7,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 ## Submitting benefit forms
 
 ### New Hire
-Email [CPC.employeedocuments@gsa.gov](mailto:CPC.employeedocuments@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).
+Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).
 
 ### Current Employee
 Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) and CC Phyllis Thomas when you're submitting documents due to a change in life event (ie getting married, having a child, etc).
@@ -19,7 +19,7 @@ Phyllis' contact information can be found by searching the [staff directory](htt
 
 ## Benefits contacts
 
-Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for questions related to benefits, retirement, and leave policies (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
+Contact [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) for questions related to benefits, retirement, and leave policies (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
 Find us in Slack:
 
@@ -81,7 +81,7 @@ The Office of Personnel Management lists the [plans available in each state](htt
 
 New employees, employees who move outside of the area covered by their plan, and employees who have certain life qualifying events have 60 days to enroll, modify, change, or cancel their plans. If you do not fit into one of those categories, you can change, modify, cancel, or enroll during Open Season. Open Season typically runs from the Monday of the second full workweek in November through the Monday of the second full workweek in December. OPM provides a [detailed FAQ on eligibility](https://www.opm.gov/healthcare-insurance/Guide-Me/Federal-Employees/#url=Health) for federal employees.
 
-To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollment, cancel your enrollment, or suspend your enrollment, fill out [Standard Form (SF) 2809](https://www.opm.gov/forms/pdf_fill/sf2809.pdf) and submit it to [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov). You can also reach out to this email if you have any questions.
+To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollment, cancel your enrollment, or suspend your enrollment, fill out [Standard Form (SF) 2809](https://www.opm.gov/forms/pdf_fill/sf2809.pdf) and submit it to [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov). You can also reach out to Mary at this email if you have any questions.
 
 The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Ask in [#benefits](https://gsa-tts.slack.com/messages/benefits).
 
