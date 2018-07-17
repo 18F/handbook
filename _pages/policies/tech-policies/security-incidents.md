@@ -71,6 +71,10 @@ On to the answer to "what is an incident?": in a nutshell, an incident is anythi
 
 Remember: it's totally OK — and encouraged — to fail towards the side of reporting something. Organizations with really healthy IR systems see a lot of false alarms, and a lot of very low severity reports. This is good, because it indicates that people feel comfortable reporting day-to-day issues. The more we do it, the better we'll get at it. And this is ultimately the goal, because then when something really serious happens, we'll be well-practiced at handling it smoothly and efficiently.
 
+##For Responders
+
+Responders to an incident (as defined above) are entitled to take steps to remediate the immediate problem without worrying about whether or not the work is billable for up to eight person-hours of work per incident. Fix the problem, and then worry about how we will account for your time. 
+
 ### Preventing future incidents with Git Seekrets
 
 If an incident involved exposing environment variables or private configuration
