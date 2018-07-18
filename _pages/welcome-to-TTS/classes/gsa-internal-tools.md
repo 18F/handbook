@@ -157,13 +157,13 @@ For more information, reference the [OLU](/olu) page.
 
 Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
 
-For software requests, see [Software](../equipment/#software).
+For software requests, see [Software](../software/).
 
 If you need office supplies that aren’t available in your office, software, or need to make any other request for 18F to purchase, read on [here](/purchase-requests) for what to do next.
 
 ## Get a copy of Microsoft Office
 
-1. See [Software](../equipment/#software).
+1. See [Software](../software/#provisioning).
 1. You’ll receive an email from Microsoft Volume Licensing Service Center. Don't click on the link in the email. *Instead*, [create a Microsoft Account](https://login.live.com/) with your .gov email.
 1. Check your email to confirm the account.
 1. Once the account is set up, click the link from the Microsoft Volume Licensing Service Center.

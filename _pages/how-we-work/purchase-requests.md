@@ -45,7 +45,7 @@ Anyone working in an 18F office may request a purchase of office supplies by cre
 
 ## Software
 
-See [the Equipment page](../equipment/#software).
+See the [software](../software/#provisioning) page.
 
 ## Purchases over $10,000
 

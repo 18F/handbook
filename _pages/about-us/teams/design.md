@@ -132,7 +132,7 @@ And one more thing: before you start using any new tool that asks for access to 
 - **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
 - **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero). No license needed.
 
-Unless otherwise specified, see [Software](../equipment/#software) to get a license for any of these.
+Unless otherwise specified, see [Software](../software/#provisioning) to get a license for any of these.
 
 #### Project management
 
