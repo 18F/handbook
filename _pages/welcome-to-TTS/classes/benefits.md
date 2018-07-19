@@ -143,7 +143,9 @@ Note that the gross income in your paycheck is a little less than your annual in
 This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an [article](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/) which further explains this.
 
 
-## Retirement (FERS)
+## Retirement 
+
+### FERS (Federal Employees Retirement System)
 
 The Federal Employees Retirement System (FERS) is the retirement plan that all employees pay into during their federal employment. A percentage of each paycheck is withheld by GSA and put into FERS. 
 
@@ -162,7 +164,7 @@ The calculations for FERS retirement can be complex, and there is paperwork to c
 * [Peace Corps](https://www.peacecorps.gov/returned-volunteers/support-services/federal-retirement/) and [#rpcvs](https://gsa-tts.slack.com/messages/rpcvs)
 
 
-## Retirement (TSP)
+### TSP (Thrift Savings Plan)
 
 Employees at TTS are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/planparticipation/eligibility/actionsOnContributions.shtml) (TSP). To start, change, or stop your contributions, you&rsquo;ll need to fill out [Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
 
