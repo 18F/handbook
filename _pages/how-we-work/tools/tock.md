@@ -89,7 +89,17 @@ If you still find that you don't have enough work to bill to the hour expectatio
 
 ### What if I work more than 32 billable hours in a normal five-day work week? More than 40?
 
-Working more than 32 billable hours is just fine! 32 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, please review the [Overtime and Comp Time guidance](../overtime-and-comp-time-parked/) in the TTS Handbook and talk to your lead. No matter how many hours you work, it is crucial that you accurately report those hours in Tock and receive compensation for that time. You can request lifting the 40 hour cap in Tock in #tock and provide the TTS Operations staff with the approval of your supervisor for this time. Knowing the actual amount of time you work helps us better scope and estimate costs and rates.
+Working more than 32 billable hours is just fine! 32 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
+
+- Before you work those extra hours, please review the [Overtime and Comp Time guidance](../overtime-and-comp-time-parked/) in the TTS Handbook and talk to your lead to figure out if and how much over 40 you can work
+- Get your supervisor's approval in writing
+- Email approval to Leah Gittner, who will adjust Tock setting to allow for 40+ hours to be recorded
+- Tell your project's AM too so they can adjust the project's financial accounting
+- Work your week!
+- Log total hours in Tock
+- Log total hours in HrLinks. This is where your comp time will be recorded and from where you'll use it for future leave
+
+No matter how many hours you work, it is crucial that you accurately report those hours in Tock and receive compensation for that time. Knowing the actual amount of time you work helps us better scope and estimate costs and rates.
 
 ### I worry about my project going over budget, so some weeks I reduce the number of hours I bill to make sure that we don't burn too fast. Is this okay?
 
