@@ -41,6 +41,7 @@ If you have any questions, please contact [cpc.benefits-retirement@gsa.gov](mail
 
 * Make sure that you aren't the superuser, sole owner, approver, admin, etc. for Tock, important calendars, Google Groups, critical documents, or processes.
   * Move Google Drive files to shared folders, when appropriate
+  * If you have an **InVision account**, [transfer ownership of your prototypes](https://support.invisionapp.com/hc/en-us/articles/203730565-How-do-I-transfer-my-prototype-to-another-account-) to your supervisor or to another project team member so that they won't be lost once your account is deactivated. 
 
 * Move all calendar invites off your calendar. Nothing worse than an orphaned meeting!
 
