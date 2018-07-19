@@ -79,8 +79,7 @@ Use [C2](https://requests.18f.gov) for requesting office supplies, computer hard
 To make a request:
 
 1. Open [requests.18f.gov](https://requests.18f.gov/).
-1. Click **Sign in with MyUSA** to connect with Google.
-1. Scroll down and click **Allow**.
+1. Click **Sign in with Cloud.gov** to log in.
 1. Once you’re logged in, click **New 18F request** to create and submit your request. If you don't see this link, it's possible that you haven't been set up as a member of 18F yet. Post a request in #c24ops for access or if you have any questions about how to use C2.
 1. After submitting your request, it will be reviewed by the Director of Operations. The Director of Operations must approve all requests before they are purchased.
 1. After your request is approved, it will typically be purchased by a purchase card holder on the operations team. Do not purchase yourself unless you are instructed to do so by a member of the operations team.
