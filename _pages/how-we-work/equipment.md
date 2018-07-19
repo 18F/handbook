@@ -62,7 +62,7 @@ TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have
 
 ## Software
 
-See the [software request guide](https://docs.google.com/document/d/1AUyRggdKWLRcHC3E4ssHE_2tmOaDYTv0ex0lgwbwFSA/edit#).
+See the [software](../software/) page.
 
 ## Mice, keyboards, and trackpads
 

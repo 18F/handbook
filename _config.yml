@@ -270,6 +270,9 @@ navigation:
   - text: Sensitive information
     url: sensitive-information/
     internal: true
+  - text: Software
+    url: software/
+    internal: true
   - text: Guides
     url: guides/
     internal: true
