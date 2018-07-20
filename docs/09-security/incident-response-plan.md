@@ -23,11 +23,11 @@ Table of Contents
 
 ## Applicability
 
-**Note:**  This Incident Response Plan applies only to systems for which CivicActions has negotiated and defined Incident Response/Contingency Plan (IRCP) operations. Each IRCP-managed system will have a specific, tailored version of this Incident Response Plan or in some cases a completely unique Incident Response Plan will be developed. All CivicActions employees are aware of the procedures outlined herein.
+**Note:**  This Incident Response Plan applies to systems for which CivicActions has negotiated and defined Incident Response/Contingency Plan (IRCP) operations. Each IRCP-managed system will have a specific, tailored version of this Incident Response Plan or in some cases a completely unique Incident Response Plan will be developed. All CivicActions employees are aware of the procedures outlined herein.
 
 ## Overview
 
-This document outlines the CivicActions Incident Response Team's process for responding to security incidents and other disruptions of a CivicActions IRCP managed system, product or service ("system"). It outlines roles and responsibilities during and after incidents, and it lays out the steps we'll take to resolve them.
+This Incident Response Plan provides baseline guidance for the CivicActions Team's process for responding to security incidents and other disruptions of a CivicActions IRCP managed system, product or service ("system"). It outlines roles and responsibilities during and after incidents, and it lays out the steps we'll take to resolve them.
 
 **If you're responding to an incident**, [here's an IRP checklist](incident-response-checklist.md) as a short, actionable companion to this guide.
 
