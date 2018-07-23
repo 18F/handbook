@@ -26,7 +26,7 @@ Information you might need for filling out GSA forms:
 **Washington, D.C.**: [1800 F St. NW. 20405](http://www.gsa.gov/portal/content/135679) | GSA region: [11](http://www.gsa.gov/portal/category/20983) | [Office Guide](/washington-dc)
 **San Francisco, CA**: [50 United Nations Plaza 94102](http://www.gsa.gov/portal/content/196483) |  GSA region: [R9](http://www.gsa.gov/portal/content/104695) | [Office Guide](/san-francisco)
 **Chicago, IL**: [230 S. Dearborn St. 60604](http://www.gsa.gov/portal/content/101886) | GSA region: [R5](http://www.gsa.gov/portal/content/104773) | [Office Guide](/chicago)
-**New York City**, NY: [Civic Hall, 156 5th Ave, 2nd floor, New York, NY 10010](https://www.google.com/maps?q=civic+hall&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjl8bnrjr7JAhXB6SYKHWLuD78Q_AUIBygB) | GSA region: [R2](http://www.gsa.gov/portal/content/104728) | [Office Guide](/new-york-city)
+**New York City**, NY: One World Trade Center, 10007 | GSA region: [R2](http://www.gsa.gov/portal/content/104728) | [Office Guide](/new-york-city)
 
 ## Email groups
 
