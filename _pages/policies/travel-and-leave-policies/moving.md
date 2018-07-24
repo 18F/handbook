@@ -81,6 +81,7 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 ## Change your address
 
 1. Change your home address in [HR Links](https://corporateapps.gsa.gov/hr-links/) to notify most GSA operations of your new address.
+
   - After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options in a pulldown menu, select this one).
   - You'll see in the upper right corner of your HR Links screen, is a compass icon. That is your NavBar. Click that.
   - Select Navigator > Self Service > Personal Information > Address Change.
