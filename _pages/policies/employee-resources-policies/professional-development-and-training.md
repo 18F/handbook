@@ -27,7 +27,7 @@ This section outlines how to request to speak at a conference event.
 
 1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeK5RVrqFR80Jn7BBRPN-jvd5hFoB_derFcPq4OeyU2oMNVoA/viewform?c=0&w=1) and alert the training team that you want to speak at a conference.  The short five to six question form will help the training team understand your needs and keep all of TTS’s requests in one place.  
 
-1. Within one business day, a training team member will reach out to you directly and be your point of contact through the entire process, including creating your Salesforce Event Tracker request.  Please do not input an Event Tracker request until the training team has reached out to you.
+1. Within two business days, a training team member will reach out to you directly and be your point of contact through the entire process, including creating your Salesforce Event Tracker request.  Please do not input an Event Tracker request until the training team has reached out to you.
 
 1. Watch your email and wait for Event Tracker approval. If you have questions about the status ask in slack #training-conferences or send a slack DM to your training POC.
 
@@ -42,7 +42,7 @@ This section outlines how to request to speak at a conference event.
 
 1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeK5RVrqFR80Jn7BBRPN-jvd5hFoB_derFcPq4OeyU2oMNVoA/viewform?c=0&w=1) and alert the training team that you want to speak at an event.  The short five to six question form will help the training team understand your needs and keep all of TTS’s requests in one place.
 
-1. Within one business day, a training team member will reach out to you directly and be your point of contact through the entire process, including creating your Salesforce Event Tracker request.  Please do not input an Event Tracker request until the training team has reached out to you.
+1. Within two business days, a training team member will reach out to you directly and be your point of contact through the entire process, including creating your Salesforce Event Tracker request.  Please do not input an Event Tracker request until the training team has reached out to you.
 
 1. Watch your email and wait for Event Tracker approval. If you have questions about the status ask in slack #training-conferences or send a slack DM to your training POC.
 
@@ -51,19 +51,20 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 ### I’m speaking at a conference and attending conference events, including training offered before or after the conference.
 ***Note: speaking events require a minimum of 25 days advance notice.***  
 
-Meet with your supervisor to discuss the conference speaking opportunity.
+1. Meet with your supervisor to discuss the conference speaking opportunity.
 
-1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeK5RVrqFR80Jn7BBRPN-jvd5hFoB_derFcPq4OeyU2oMNVoA/viewform?c=0&w=1) and alert the training team that you want to speak at a conference.  The short five to six question form will help the training team understand your needs and keep all of TTS’s requests in one place.
+2. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeK5RVrqFR80Jn7BBRPN-jvd5hFoB_derFcPq4OeyU2oMNVoA/viewform?c=0&w=1) and alert the training team that you want to speak at a conference.  The short five to six question form will help the training team understand your needs and keep all of TTS’s requests in one place.
 
-2. Within one business day, a training team member will reach out to you directly and be your point of contact through the entire process, including creating your Salesforce Event Tracker request.  Please do not input an Event Tracker request until the training team has reached out to you.
+3. Within two business days, a training team member will reach out to you directly and be your point of contact through the entire process, including creating your Salesforce Event Tracker request.  Please do not input an Event Tracker request until the training team has reached out to you.
 
-3. If the conference has any cost besides travel, please add the conference to your Individual Development Plan (IDP) in Salesforce and have your supervisor to approve it.   
+4. If the conference has any cost besides travel, please add the conference to your Individual Development Plan (IDP) in Salesforce and have your supervisor to approve it.   
 
-4. Create a Salesforce SF-182 form
+5. Create a Salesforce SF-182 form
 
-   * Select your current supervisor as the first approver.
+   * Select your current supervisor
+   * Select Amber Van Amburg as the first approver
    * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),  
-   * Select FAS HSSO Judith Zawatsky, if the training is more than $2500 (including travel)
+   * Select FAS HSSO Tricia Sieveke, if the training is more than $2500 (including travel)
    * Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder
 
 5. Watch your email and wait for Event Tracker approvals and SF182 approvals. If you have questions about the status ask in slack #training-conferences or send a slack DM to your training POC.
@@ -79,15 +80,16 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 
 2. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeK5RVrqFR80Jn7BBRPN-jvd5hFoB_derFcPq4OeyU2oMNVoA/viewform?c=0&w=1) and alert the training team that you want to attend a conference.  The short five to six question form will help the training team understand your needs and keep all of TTS’s requests in one place.
 
-3. Within one business day, a training team member will reach out to you directly and be your point of contact through the entire process, including creating your Salesforce Event Tracker request.  Please do not input an Event Tracker request until the training team has reached out to you.
+3. Within two business days, a training team member will reach out to you directly and be your point of contact through the entire process, including creating your Salesforce Event Tracker request.  Please do not input an Event Tracker request until the training team has reached out to you.
 
 4. If the conference has any cost besides travel, please add the conference to your [Individual Development Plan (IDP)](https://goo.gl/7mVKW4) in Salesforce and have your supervisor to approve it.   
 
 5. Create a Salesforce SF-182 form
 
-   * Select your current supervisor as the first approver.
+   * Select your current supervisor
+   * Select Amber Van Amburg as the first approver
    * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),  
-   * Select FAS HSSO Judith Zawatsky, if the training is more than $2500 (including travel)
+   * Select FAS HSSO Tricia Sieveke, if the training is more than $2500 (including travel)
    * Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder
 
 6. Watch your email and wait for Event Tracker approvals and SF182 approvals. If you have questions about the status ask in slack #training-conferences or send a slack DM to your training POC.
@@ -103,15 +105,16 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 
 2. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeK5RVrqFR80Jn7BBRPN-jvd5hFoB_derFcPq4OeyU2oMNVoA/viewform?c=0&w=1) and alert the training team that you want to attend training.  The short five to six question form will help the training team understand your needs and keep all of TTS’s requests in one place.
 
-3. Within one business day, a training team member will reach out to you directly and be your point of contact through the entire process.  You do not need a Salesforce Event Tracker for this event.  
+3. Within two business days, a training team member will reach out to you directly and be your point of contact through the entire process.  You do not need a Salesforce Event Tracker for this event.  
 
 4. If the training has any cost besides travel, please add the training to your [Individual Development Plan (IDP)](https://goo.gl/7mVKW4) in Salesforce and have your supervisor to approve it.   
 
 5. Create a Salesforce SF-182 form
 
-   * Select your current supervisor as the first approver.
+   * Select your current supervisor
+   * Select Amber Van Amburg as the first approver
    * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),  
-   * Select FAS HSSO Judith Zawatsky, if the training is more than $2500 (including travel)
+   * Select FAS HSSO Tricia Sieveke, if the training is more than $2500 (including travel)
    * Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder
 
 6. Watch your email and wait for your SF182 approvals. If you have questions about the status ask in slack #training-conferences or send a slack DM to your training POC.
