@@ -67,9 +67,9 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
    * Select FAS HSSO Tricia Sieveke, if the training is more than $2500 (including travel)
    * Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder
 
-5. Watch your email and wait for Event Tracker approvals and SF182 approvals. If you have questions about the status ask in slack #training-conferences or send a slack DM to your training POC.
+6. Watch your email and wait for Event Tracker approvals and SF182 approvals. If you have questions about the status ask in slack #training-conferences or send a slack DM to your training POC.
 
-6. Send your SF182 approval to your training team POC.
+7. Send your SF182 approval to your training team POC.
 
 While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed). You don’t have to wait until your conference is approved to make your arrangements in Concur.  Most travel reservations will automatically cancel if not approved.  If you book outside of Concur for the conference hotel, you are responsible for cancelling any reservation, if your event is not approved.  You are responsible for any cancellation fees, if you fail to follow the conference hotel cancellation policy.  You can ask questions in [#travel](https://gsa-tts.slack.com/messages/travel/) or during [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/) with Ethan Hepner 11:30-12:30 ET
 
