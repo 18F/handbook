@@ -80,7 +80,15 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 ## Change your address
 
-1. Change your home address on [Employee Express](https://www.employeeexpress.gov/) to notify most GSA operations of your new address.
+1. Change your home address in [HR Links](https://corporateapps.gsa.gov/hr-links/) to notify most GSA operations of your new address.
+
+- After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options in a pulldown menu, select this one).
+- You'll see in the upper right corner of your HR Links screen, is a compass icon. That is your NavBar. Click that.
+- Select Navigator > Self Service > Personal Information > Address Change.
+- Click edit address, make your change, and submit.
+- Click submit on main address page and you'll see a confirmation page pending approval of your address change.
+
+***For the step-by-step process with images, follow Topic 1.2 of the [HR Links Guide](https://drive.google.com/open?id=1aLbT84hNuwsjgHFmGYS3ggBviay8vh1_).***
 
 2. Once your move is effective in GSA systems (SF50/CHRIS), change your state tax withholding by contacting the payroll office at <mailto:KC-Payroll.Finance@gsa.gov>.  *Note:  Skip this step if you are an office employee who’s home address is changing but not your work location; it only applies if your move will have an impact on your state tax withholding*
 
