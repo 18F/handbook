@@ -95,11 +95,11 @@
 
 * Relevant project introductions: Connect with appropriate person to walk through each project to discuss the project and its goals, the product owner, stakeholders, team members, technologies, ticket review, project status, etc.
 
+* [CivicActions Agile](../../04-how-we-work/agileoverview.md)
 * Introduction to the [Scrum call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
 * Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retrospectives)
-* Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
-* Read about the [gold star program](../../04-how-we-work/gold-star-program.md)
 * Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
+* Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 
 ### Virtual Workplace Basics
 
@@ -113,6 +113,7 @@
 ### Aligning Yourself with CivicActions
 
 * [Read the Culture playbook](../../02-about-us/culture.md)
+* Read about the [gold star program](../../04-how-we-work/gold-star-program.md)
 * Create email signature
     * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
 * Update LinkedIn & social media accounts with CivicActions as company
@@ -133,7 +134,6 @@
 * [How to create a ticket or card](../../04-how-we-work/tools/tickets-cards.md)
 * [Story point estimating](../../04-how-we-work/tools/storypoints.md)
 * [Install Chrome browser extensions](../../04-how-we-work/tools/browserextensions.md)
-* [CivicActions Agile](../../04-how-we-work/agileoverview.md)
 * Read about & learn [markdown](../../04-how-we-work/tools/markdown.md)
 * Read the [common vocab](../../04-how-we-work/common-vocab.md) page
 * [Free and Open Source Software (FOSS)](../../01-welcome-to-civicactions/training/intro-open-source.md)
