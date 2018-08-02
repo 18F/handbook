@@ -23,11 +23,7 @@ If you are a supervisor and you are leaving within 120 days of the next review p
 - Midyear review: provide a written review
 - Annual review: provide ratings based on position descriptions
 
-### 3. Complete the clearance checklist
-
-Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messages/talent/)) will set time with you to complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing).
-
-### 4. Review benefits paperwork
+### 3. Review benefits paperwork
 
 * Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
 
@@ -36,6 +32,13 @@ Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messa
 * Review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
 
 If you have any questions, please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
+
+### 4. Download copies of important personal documents
+
+* Download copies of your paystubs from [Employee Express](https://www.employeeexpress.gov/)
+
+* Download copies of your SF-50s from [eOPF](https://eopf.opm.gov/gsa/)(requires VPN if not on GSA network)
+  * An SF-50 is a notification of a Personnel Action; it contains your series, grade, and other information useful to you or required if applying for reinstatement
 
 ### 5. Update your accounts
 
@@ -51,8 +54,11 @@ If you have any questions, please contact [cpc.benefits-retirement@gsa.gov](mail
   * Unregister the software that you're able to 
   * Provide the list of remaining registered software to the Offboarding Lead during the scheduled offboarding meeting
 
+### 6. Complete the clearance checklist
 
-### 6. Return your equipment
+Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messages/talent/)) will set time with you to complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing).
+
+### 7. Return your equipment
 
 When you leave TTS, you are responsible for returning all TTS issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
 
