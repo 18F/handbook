@@ -30,7 +30,7 @@ These guidelines focus on two main tasks that support that goal: gaining partici
 1. Copy file
 2. Go to recent files in Drive and look for your copy  
 3. Drag and drop to your project folder. 
-4. Once you've got the form in your project folder, edit all the bits in CAPITAL LETTERS to apply to your project. It will automatically create it's own responses spreadsheet. Make sure to restrict access to the responses spreadsheet to **only the people who really need access on your team** which is probably only YOU. And then give out the link as needed. *Caveat: many federal employees will not be able to access Google Forms on their work computers.*
+4. Once you've got the form in your project folder, edit all the bits in CAPITAL LETTERS to apply to your project. It will automatically create its own responses spreadsheet. Make sure to restrict access to the responses spreadsheet to **only the people who really need access on your team** which is probably only YOU. And then give out the link as needed. *Caveat: many federal employees will not be able to access Google Forms on their work computers.*
 
 Feel free to adapt our form as needed to make sure that we're following the three principles above, but don't change any of the legal language without asking [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) first. If your participants are likely not fully literate in English, consider having the form translated to the correct language or working out a process for verbal consent using a translator.
 
@@ -42,7 +42,7 @@ We work in the open, but we need to be mindful of discussing agency partners, co
 
 ### What is PII? 
 
-PII is any piece of data, singly or in combination, that can identify unique individuals. PII is defined contextually. So a full name given without context, such as "Elizabeth Goodman," may not necessarily be PII. It's a common name, after all. "Elizabeth from GSA" is not necessarily PII, either. There are a lot of people named Elizabeth who work for the GSA. But "Elizabeth at 18F" is _definitely_ PII. There's only one. For that reason, Social Security Numbers, Alien Registration Numbers, and driver's license numbers are always PII. Email addresses, phone numbers, and mailing addresses are sometimes PII, and when presented in combination with a first name, often become PII. Photos of people's faces are almost always PII, and that's why we always ask before taking photos and get explicit statements about if we can share them. [Sensitive PII](https://before-you-ship.18f.gov/privacy/) is information which, if shared, could seriously harm or embarrass someone. Unique identifying numbers and biometric data is always sensitive: In general, combining:
+PII is information that can be used to distinguish or trace an individual's identity, either alone or when combined with other information. Because there are many different types of information that can be used to distinguish or trace an individual's identity, the term PII is necessarily broad. The definition of PII is not anchored to any single category of information or technology. Rather, it requires a case-by-case assessment of the specific risk that an individual can be identified using information that is linked or linkable to said individual. For that reason, Social Security Numbers, Alien Registration Numbers, and driver's license numbers are always PII. Email addresses, phone numbers, and mailing addresses are sometimes PII, and when presented in combination with a first name, often become PII. Photos of people's faces are almost always PII, and that's why we always ask before taking photos and get explicit statements about if we can share them. [Sensitive PII](https://before-you-ship.18f.gov/privacy/) is information which, if shared, could seriously harm or embarrass someone. Unique identifying numbers and biometric data is always sensitive: In general, combining:
 
 - Citizenship or immigration status
 - Ethnic or religious affiliation
@@ -52,9 +52,7 @@ PII is any piece of data, singly or in combination, that can identify unique ind
 
 with PII always makes that PII sensitive. However, determining what is and isn't PII, and what is or isn't sensitive PII can often require some reflection. 
 
-Much of our research involves federal employees. When we are talking to federal employees (not contractors, and not vendors) about their work, they have, as Noah has said [elsewhere](/intro-to-18f-infrastructure/):
-
-> practically no right to privacy in connection with your work. Anything you say or do — in an email, a phone call, a private GitHub repo, a Slack direct message, etc — can be monitored, recorded, and turned into a Federal record. 
+Much of our research involves federal employees. When we are talking to federal employees (not contractors, and not vendors) about their work, they generally have no reasonable expectation of privacy. After all, the material may have to be disclosed pursuant to a judge's order, or a Congressional or FOIA request. 
 
 As researchers, however, we need to follow the principle of beneficence. So just following the legal guidelines on PII isn't enough if you're collecting information that you know might harm or embarrass your participants if it became generally known, _whether or not those participants are federal employees_. Different agencies and organizations may have different levels of sensitivity and exposure concerns about types of personal information (identifying or not) you collect and how you use it. Attributing quotations with agency affiliation, for example, may be more sensitive than first name and photo. In those cases, the principle of beneficence demands that we think carefully about protecting participants before sharing working notes or finished reports, even if we have satisfied the law.   
 
@@ -68,7 +66,7 @@ Be especially mindful as you post meeting notes or sidebar conversations during 
 
 Carefully restricting access to personally identifiable information is a matter not just of people's right to respect but of their right to [privacy](https://methods.18f.gov/privacy/). 
 
-**Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII, you can ask on Slack in [#research](https://gsa-tts.slack.com/archives/research) to get other researchers' perspectives, and in [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) to track down relevant policy guidance. If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://gsa-tts.slack.com/archives/infrastructure).
+**Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII, you can ask on Slack in [#research](https://gsa-tts.slack.com/archives/research) to get other researchers' perspectives, and in [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) to track down relevant policy guidance. If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://gsa-tts.slack.com/archives/infrastructure). The [Design research privacy impact assessment (PIA)](https://www.gsa.gov/cdnstatic/design_research_pia_%28signed%29.pdf) is also a great resource.
 
 ## Join the research guild!
 
