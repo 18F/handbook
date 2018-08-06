@@ -51,7 +51,11 @@ Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a projec
 
 ### The public
 
-[TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct). * For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there. Instead, DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
+[TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. Howver, when we say "public channels" on this page, we mean channels open to all members of the public.)
+
+#### What 
+
+Treat these channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document. Members of the public must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct). For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there witout a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
 #### Inviting
 
@@ -76,7 +80,7 @@ An admin will then do one of the following:
 
 * **[Convert them to a Single-Channel Guest.](https://get.slack.help/hc/en-us/articles/218124397-Change-a-team-member-s-role)**
     * Put them in one of the following channels (as appropriate):
-        * [#alumni](https://gsa-tts.slack.com/messages/alumni/) (former Full Members only)
+        * [#alumni](https://gsa-tts.slack.com/messages/alumni/) (former Full Members only, but treated as a public channel)
         * One of the `-public` channels (their pick)
     * [Disable their 2FA](https://get.slack.help/hc/en-us/articles/212221668-Require-two-factor-authentication-for-your-team).
         * ...unless you know they were using their personal device for 2FA — we don't want them to be locked out.
@@ -154,7 +158,7 @@ New integrations/bots need approval from the following:
 
 ## Shared Channels
 
-Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-) that TTS has piloted with other official government slack workspaces. When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it. 
+Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-) that TTS has piloted with other official government slack workspaces. When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it.
 
 When participating in shared channels, please keep in mind:
 
@@ -171,6 +175,8 @@ Likewise, when setting up shared channels with partners, we will look to set the
 * Members of our team in shared channels may not have a lot of time to respond to DMs from partner orgs. Requests for documents, materials, and etc are better placed in the open channel for anyone to see and triage.
 
 * Members of our team will only want to share materials that are already public. If you have a specific request for a private document, that request is better e-mailed than put into Slack, as that e-mail will have to be sent around to various GSA offices to ensure compliance.
+
+* Anyone in a shared channel must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct).
 
 If a shared channel does not produce good results, or causes a burden, we don't need to continue it. That won't be the end of our collaboration - just recognizing that a particular tool isn't effective for achieving the results that we want.
 
