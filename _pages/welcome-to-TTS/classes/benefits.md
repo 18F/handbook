@@ -168,14 +168,14 @@ The calculations for FERS retirement can be complex, and there is paperwork to c
 
 Employees at TTS are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/planparticipation/eligibility/actionsOnContributions.shtml) (TSP). To start, change, or stop your contributions, you'll need to fill out [Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
 
-You can also update TSP directly in [HR Links](/leave/#logging-into-hr-links/) by following these steps:
+You can also update TSP directly in [HR Links](/leave/#logging-into-hr-links) by following these steps:
 
-* After you sign into HR Links, click on Personal Details
-* Click on the green circle next to your name 
-* Click "Benefits" 
-* Click "Benefits Summary" 
-* Click on far right column on TSP row 
-* Click on "Edit"
+1. After you sign into HR Links, click on Personal Details
+1. Click on the green circle next to your name 
+1. Click "Benefits" 
+1. Click "Benefits Summary" 
+1. Click on far right column on TSP row 
+1. Click on "Edit"
 
 If you ever move, you can update your address for TSP by emailing it to both the [Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the [GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the TSP office of your new address.
 
