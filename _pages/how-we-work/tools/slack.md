@@ -51,7 +51,7 @@ Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a projec
 
 ### The public
 
-[TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct).
+[TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct). * For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there. Instead, DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
 #### Inviting
 
@@ -154,7 +154,7 @@ New integrations/bots need approval from the following:
 
 ## Shared Channels
 
-Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-) that TTS has piloted. When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it.
+Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-) that TTS has piloted with other official government slack workspaces. When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it. 
 
 When participating in shared channels, please keep in mind:
 
@@ -164,7 +164,7 @@ When participating in shared channels, please keep in mind:
 
 * We should not mention the Slack orgs of our partners in public channels or to other agencies without permission. It's not for us as TTS to share which other groups in gov are using Slack, nor do we want to appear to be endorsing its use for others.
 
-* For all shared and public channels, it's not a good idea to @ people into a shared channel that aren't there. Instead, DM them the link to an interesting message. Pulling them in without their consent may not be fair to their schedule if they need to be heads down.
+* For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there. Instead, DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
 Likewise, when setting up shared channels with partners, we will look to set these expectations:
 
