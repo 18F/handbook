@@ -170,7 +170,7 @@ Employees at TTS are eligible to participate in the [Thrift Savings Plan](https:
 
 You can also update TSP directly in [HR Links](/leave/#logging-into-hr-links) by following these steps:
 
-1. After you sign into HR Links, click on Personal Details
+1. After you sign into HR Links, click on "Personal Details"
 1. Click on the green circle next to your name 
 1. Click "Benefits" 
 1. Click "Benefits Summary" 
