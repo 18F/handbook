@@ -152,6 +152,28 @@ New integrations/bots need approval from the following:
 * Integrations from higher-risk systems (Moderate or High) into Slack will generally not be approved.
 * TTS Infrastructure will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
 
+## Shared Channels
+
+Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-) that TTS has piloted. When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it.
+
+When participating in shared channels, please keep in mind:
+
+* While people in similar organizations internationally share areas of focus, we should treat our collaborators in these channels as **members of the public** and only share information we would put into public channels. Anything said in those channels is a public announcement and could end up posted on twitter by someone else, for example.
+
+* Nothing about a shared Slack channel implies a partnership between TTS and the other organization. The shared channel just adds another possible route of communication to e-mail, twitter, listserves, and so on. Do not feel obligated to answer a DM from someone in a shared channel.
+
+* We should not mention the Slack orgs of our partners in public channels or to other agencies without permission. It's not for us as TTS to share which other groups in gov are using Slack, nor do we want to appear to be endorsing its use for others.
+
+* For all shared and public channels, it's not a good idea to @ people into a shared channel that aren't there. Instead, DM them the link to an interesting message. Pulling them in without their consent may not be fair to their schedule if they need to be heads down.
+
+Likewise, when setting up shared channels with partners, we will look to set these expectations:
+
+* Members of our team in shared channels may not have a lot of time to respond to DMs from partner orgs. Requests for documents, materials, and etc are better placed in the open channel for anyone to see and triage.
+
+* Members of our team will only want to share materials that are already public. If you have a specific request for a private document, that request is better e-mailed than put into Slack, as that e-mail will have to be sent around to various GSA offices to ensure compliance.
+
+If a shared channel does not produce good results, or causes a burden, we don't need to continue it. That won't be the end of our collaboration - just recognizing that a particular tool isn't effective for achieving the results that we want.
+
 ## Groups
 
 Slack Groups allow you to direct messages to a specific list of people in a more precise way than an **@-channel** or **@-here**. Any full member can [view, create, and edit Slack groups](https://get.slack.help/hc/en-us/articles/212906697-User-Groups) at will.
