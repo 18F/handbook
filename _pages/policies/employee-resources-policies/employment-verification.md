@@ -14,7 +14,7 @@ tags:
 - income
 ---
 
-_How to provide verificaion of employment at GSA and salary_
+_How to provide verification of employment at GSA and salary_
 
 ## Employment Verification
 
