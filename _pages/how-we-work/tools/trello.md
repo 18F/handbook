@@ -10,7 +10,7 @@ Because Trello is a web application, there&rsquo;s no installation necessary. Yo
 
 Trello accounts support multiple email addresses, so you can use an existing account (if you have one) by adding your GSA email address. Otherwise, you can sign in with your GSA Google account. Make sure to [set up two-factor authentication](https://trello.com/2fa).
 
-To get access to the 18F Trello board, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello).
+To get access to the 18F Trello board, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello). Please give us your trello username or specify that you will be making a new account when we invite you).
 
 There is no 18F-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
 
