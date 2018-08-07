@@ -38,7 +38,7 @@ Fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D
 
 ### External collaborators
 
-You can invite government partners, contractors, etc. to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as [single-channel guests](https://get.slack.help/hc/en-us/articles/202518103-Multi-Channel-and-Single-Channel-Guests) at no cost to the project or agency. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://slack.com/pricing) to your IAA.
+You can invite government partners, contractors, etc. to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as [single-channel guests](https://get.slack.help/hc/en-us/articles/202518103-Multi-Channel-and-Single-Channel-Guests) at no cost to the project or agency. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://slack.com/pricing) to your IAA. When possible, we prefer to set up shared channels with partners over having multi-channel guests.
 
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
 1. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
@@ -162,15 +162,15 @@ Slack offers a feature to create [shared channels with other workspaces](https:/
 
 When participating in shared channels, please keep in mind:
 
-* While people in similar organizations internationally share areas of focus, we should treat our collaborators in these channels as **members of the public** and only share information we would put into public channels. Anything said in those channels is a public announcement and could end up posted on twitter by someone else, for example.
+* While people in similar organizations share areas of focus, we should treat our collaborators in these channels as **members of the public** and only share information we would put into public channels. Anything said in those channels is a public announcement and could end up posted on twitter by someone else, for example. This does not apply to shared channels with an active agreement between us and the people in the other workspace.
 
-* Nothing about a shared Slack channel implies a partnership between TTS and the other organization. The shared channel just adds another possible route of communication to e-mail, twitter, listserves, and so on. Do not feel obligated to answer a DM from someone in a shared channel.
+* Nothing about a shared Slack channel iself implies a partnership between TTS and the other organization. The shared channel just adds another possible route of communication to e-mail, twitter, listserves, and so on. Do not feel obligated to answer a DM from someone in a shared channel.
 
 * We should not mention the Slack orgs of our partners in public channels or to other agencies without permission. It's not for us as TTS to share which other groups in gov are using Slack, nor do we want to appear to be endorsing its use for others.
 
 * For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there. Instead, DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
-Likewise, when setting up shared channels with partners, we will look to set these expectations:
+Likewise, when setting up shared channels, we will look to set these expectations with workspaces with which we connect:
 
 * Members of our team in shared channels may not have a lot of time to respond to DMs from partner orgs. Requests for documents, materials, and etc are better placed in the open channel for anyone to see and triage.
 
