@@ -17,7 +17,7 @@ All GSA employees who take mass/public transit to work are eligible for transit 
 Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to select the **Transit Coordinator in the Region in which you reside** - this information is listed in the online form.
 
 - Go to [https://www.transportation.gov/transerve/participants/gsa](https://www.transportation.gov/transerve/participants/gsa)
-- Click on **Transit Benefit Application**
+- Click on **Transit Benefit Program Application System**
 - Click on **Register**
 - Update your password information using the temporary password that's emailed to you
 - Login using your government email and updated password
@@ -27,6 +27,9 @@ Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to s
 - On the "Warning" screen, click **I Agree**
 - Enter information into application and verify that it's correct
 - Scroll down and click **Continue** to submit
+- If your supervisor is not listed, have your supervisor follow these steps:      
+    - Fill out this [form](https://www.transportation.gov/sites/dot.gov/files/docs/GSA_Guide_to_Regristration_0.pdf)
+    - Send an email to gsa-transit-subsidy@gsa.gov requesting elevation to supervsior status
 
 *Note: The approval process is supervisor, GSA Transit Coordinator, and DOT review/processing.*
 
