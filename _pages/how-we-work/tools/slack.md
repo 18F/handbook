@@ -164,7 +164,7 @@ When participating in shared channels, please keep in mind:
 
 * While people in similar organizations share areas of focus, we should treat our collaborators in these channels as **members of the public** and only share information we would put into public channels. Anything said in those channels is a public announcement and could end up posted on twitter by someone else, for example. This does not apply to shared channels with an active agreement between us and the people in the other workspace.
 
-* Nothing about a shared Slack channel iself implies a partnership between TTS and the other organization. The shared channel just adds another possible route of communication to e-mail, twitter, listserves, and so on. Do not feel obligated to answer a DM from someone in a shared channel.
+* Nothing about a shared Slack channel itself implies a partnership between TTS and the other organization. The shared channel just adds another possible route of communication to e-mail, twitter, listserves, and so on. Do not feel obligated to answer a DM from someone in a shared channel.
 
 * We should not mention the Slack orgs of our partners in public channels or to other agencies without permission. It's not for us as TTS to share which other groups in gov are using Slack, nor do we want to appear to be endorsing its use for others.
 
