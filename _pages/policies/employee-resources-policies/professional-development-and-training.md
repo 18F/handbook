@@ -59,7 +59,7 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 
 4. If the conference has any cost besides travel, please add the conference to your Individual Development Plan (IDP) in Salesforce and have your supervisor to approve it.   
 
-5. Create a Salesforce SF-182 form
+5. [Create a Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
 
    * Select your current supervisor
    * Select Amber Van Amburg as the first approver
@@ -84,7 +84,7 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 
 4. If the conference has any cost besides travel, please add the conference to your [Individual Development Plan (IDP)](https://goo.gl/7mVKW4) in Salesforce and have your supervisor to approve it.   
 
-5. Create a Salesforce SF-182 form
+5. Create a [Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
 
    * Select your current supervisor
    * Select Amber Van Amburg as the first approver
@@ -109,7 +109,7 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 
 4. If the training has any cost besides travel, please add the training to your [Individual Development Plan (IDP)](https://goo.gl/7mVKW4) in Salesforce and have your supervisor to approve it.   
 
-5. Create a Salesforce SF-182 form
+5. Create a [Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
 
    * Select your current supervisor
    * Select Amber Van Amburg as the first approver
