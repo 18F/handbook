@@ -1,8 +1,14 @@
 ---
-title: Professional development and training
+title: Attending or speaking at a conference
 tags:
-- OLU
-- online learning university
+- attend
+- Attending
+- speaking
+- speaker
+- event
+- event
+- conference
+- conferences
 - IDP
 ---
 
@@ -137,6 +143,6 @@ The review and approval process times vary by the type of request and the layers
   - Conference events that have a waived or discounted registration fee
   - Speaking events in your official capacity
   - Internal Management Meetings, regardless of cost
-  - Highly Attended Events [FY18 GSA Highly Attended Events](https://docs.google.com/document/d/1Q1ZAWkXMte3jHFP0GH9EHzTjiTG3fYe-4WFehiWGbaM/edit) 
+  - Highly Attended Events [FY18 GSA Highly Attended Events](https://docs.google.com/document/d/1Q1ZAWkXMte3jHFP0GH9EHzTjiTG3fYe-4WFehiWGbaM/edit)
 - Five to six weeks in advance for:
   - Group Conference Training/Attendance

@@ -229,7 +229,7 @@ navigation:
       internal: true
 - text: How we work
   blurb: |
-    An overview of the tools and equipment we use to communicate with each other.
+    An overview of processes, tools, and equipment that we use frequently.
   url: how-we-work/
   internal: true
   generated: true
@@ -239,6 +239,9 @@ navigation:
     internal: true
   - text: Agreements
     url: agreements/
+    internal: true
+  - text: Attending or speaking at a conference
+    url: attending-conferences/
     internal: true
   - text: Bookmarks
     url: bookmarks/
@@ -448,9 +451,6 @@ navigation:
       internal: true
     - text: Overtime and comp time
       url: overtime-and-comp-time/
-      internal: true
-    - text: Professional development and training
-      url: professional-development-and-training/
       internal: true
     - text: Promotions
       url: promotions/
