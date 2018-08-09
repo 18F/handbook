@@ -12,7 +12,7 @@ tag:
 
 [eSignLive](https://sign.gsa.gov) is a secure tool that members of GSA use to digitally sign and request signatures on documents.  
 
-To use [eSignLive](https://sign.gsa.gov), you must be on the GSA Wireless network or access it through [VMware Horizon](/vmware-horizon) or [AnyConnect](/anyconnect).
+***NOTE:*** To use [eSignLive](https://sign.gsa.gov), you must be on the GSA Wireless network or access it through [VMware Horizon](/vmware-horizon) or [AnyConnect](/anyconnect).
 
 ## Request signatures on a document
 
@@ -33,8 +33,8 @@ To use [eSignLive](https://sign.gsa.gov), you must be on the GSA Wireless networ
 - Click the **Inbox** tab  
 - Click the **Review, accept and sign the document** icon to the right of the document title
 - **Click to Sign** in each signature box
-- Click **Confirm*
-  * Click **OK* on the "Confirm" pop-up
+- Click **Confirm**
+  * Click **OK** on the "Confirm" pop-up
 - If necessary, click **Download this document**
 - An email from [e-SignLive](mailto:signers@gov.esignlive.com) will be sent to the requestor and signer(s) confirming the "Completed Package & Evidence Summary"
 
