@@ -205,7 +205,7 @@ Airfare or Amtrak tickets *should not be purchased outside of Concur* without pr
 
 #### Miscellaneous vouchers
 
-Local vouchers are documents in Concur that allow for simple reimbursements, which could include local transportation such as taxis or personal vehicle mileage, or reimbursement for any other expense that has either been approved in C2 (nonbillable) or by the client (billable). These don't require a prior authorization in Concur, but the approval should be shared with the tts-travelauths@gsa.gov inbox so that the 18F travel team can confirm where the budget for reimbursement is coming from. In C2, this can be done by adding 18travelauths@gsa.gov as an "observer" to the request.
+Local vouchers are documents in Concur that allow for simple reimbursements, which could include local transportation such as taxis or personal vehicle mileage, or reimbursement for any other expense that has either been approved in C2 (nonbillable) or by the client (billable). These don't require a prior authorization in Concur, but the approval should be shared with the tts-travelauths@gsa.gov inbox so that the TTS travel team can confirm where the budget for reimbursement is coming from. In C2, this can be done by adding tts-travelauths@gsa.gov as an "observer" to the request.
 
 Once you've chosen the **Local voucher** option, you'll be taken to the **Document Information** screen. Please fill this out as follows:
 
@@ -222,7 +222,7 @@ Routing a voucher is now exactly the same as submitting an authorization as seen
 
     * You will now see a list of all the items that might cause a fail or hardfail for the voucher to be approved.
 
-    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please reach out to the 18F travel team.
+    * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please reach out to the TTS travel team.
 
     *  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2](/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
 
@@ -241,8 +241,8 @@ Congrats!!! Your voucher has been submitted. You don’t even have to click the 
 
 ## YOU'RE DONE!!!
 
-Your voucher will be reviewed by a member of the 18F travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
+Your voucher will be reviewed by a member of the TTS travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
 
-Direct deposit was set up when you provided your banking info when the travel team booked your first trip, likely your orientation. You should see reimbursement 3-5 business days after the voucher is approved.
+Direct deposit was set up when you provided your banking info to the travel team when they booked your first trip (likely for your orientation in one of the GSA offices). You should see a reimbursement 3-5 business days after the voucher is approved.
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
