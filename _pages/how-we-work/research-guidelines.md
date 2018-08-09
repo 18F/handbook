@@ -52,7 +52,7 @@ PII is information that can be used to distinguish or trace an individual's iden
 
 with PII always makes that PII sensitive. However, determining what is and isn't PII, and what is or isn't sensitive PII can often require some reflection. 
 
-Much of our research involves federal employees. When we are talking to federal employees (not contractors, and not vendors) about their work, they generally have no reasonable expectation of privacy. After all, the material may have to be disclosed pursuant to a judge's order, or a Congressional or FOIA request. 
+Much of our research involves federal employees. When we are talking to federal employees (not contractors, and not vendors) about their work, they generally have no reasonable expectation of privacy. After all, the material may have to be disclosed pursuant to a judge's order, a Congressional request, or a FOIA request. 
 
 As researchers, however, we need to follow the principle of beneficence. So just following the legal guidelines on PII isn't enough if you're collecting information that you know might harm or embarrass your participants if it became generally known, _whether or not those participants are federal employees_. Different agencies and organizations may have different levels of sensitivity and exposure concerns about types of personal information (identifying or not) you collect and how you use it. Attributing quotations with agency affiliation, for example, may be more sensitive than first name and photo. In those cases, the principle of beneficence demands that we think carefully about protecting participants before sharing working notes or finished reports, even if we have satisfied the law.   
 
@@ -66,7 +66,9 @@ Be especially mindful as you post meeting notes or sidebar conversations during 
 
 Carefully restricting access to personally identifiable information is a matter not just of people's right to respect but of their right to [privacy](https://methods.18f.gov/privacy/). 
 
-**Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII, you can ask on Slack in [#research](https://gsa-tts.slack.com/archives/research) to get other researchers' perspectives, and in [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) to track down relevant policy guidance. If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://gsa-tts.slack.com/archives/infrastructure). The [Design research privacy impact assessment (PIA)](https://www.gsa.gov/cdnstatic/design_research_pia_%28signed%29.pdf) is also a great resource.
+**Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII, you can ask on Slack in [#research](https://gsa-tts.slack.com/archives/research) to get other researchers' perspectives, and in [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) to track down relevant policy guidance. If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://gsa-tts.slack.com/archives/infrastructure). 
+
+The [Design research privacy impact assessment (PIA)](https://www.gsa.gov/cdnstatic/design_research_pia_%28signed%29.pdf) is also a great resource.
 
 ## Join the research guild!
 
