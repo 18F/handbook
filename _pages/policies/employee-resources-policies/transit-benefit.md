@@ -25,18 +25,18 @@ Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to s
 - Click on **Transit Benefit Application**
 - Select "Certify/Enroll" and click **Continue**
 - On the "Warning" screen, click **I Agree**
-- Enter information into application and verify that it's correct. *Here are common selections for TTS team members:*
+- Enter information into the application and verify that it's correct. *Here are common selections for TTS team members:*
     * Reason for Certification: **New Transit Benefit Participant**
     * Employment Type: **Permanent**
     * Work Status: **Full Time**
     * Select Transportation Method (i.e. Bus, Other Bus, Rail, Other Method, Van Pool)
-        * Fill out corresponding information for transportation method
+        * Fill out corresponding information for each transportation method selected
     * Fill out "Transit Benefit Program Application"
         * Organization Code: **T - Tech Transformation Service**
     * Fill out "Approver Information Section"
         * Select your Supervisor - If your supervisor is not listed, have your supervisor follow these steps:      
             - Fill out this [form](https://www.transportation.gov/sites/dot.gov/files/docs/GSA_Guide_to_Regristration_0.pdf)
-            - Send an email to gsa-transit-subsidy@gsa.gov requesting elevation to supervsior status
+            - Send an email to [gsa-transit-subsidy@gsa.gov](mailto:gsa-transit-subsidy@gsa.gov) requesting elevation to supervisor status
         * Transit Coordinator: **CO-Transit Subsidy**
         * Point of Contact: **Central Office Non FAS Transit Subsidy**
 - Scroll down and click **Continue** to submit
