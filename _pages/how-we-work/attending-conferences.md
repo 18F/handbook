@@ -1,8 +1,14 @@
 ---
-title: Professional development and training
+title: Attending or speaking at a conference
 tags:
-- OLU
-- online learning university
+- attend
+- Attending
+- speaking
+- speaker
+- event
+- event
+- conference
+- conferences
 - IDP
 ---
 
@@ -12,11 +18,11 @@ TTS encourages all staff to attend conferences, speak at events and focus on pro
 
 TTS usually attends events in one of five ways.
 
-1. [I’m speaking at a conference but not attending the conference events (Pycon, CFA).](https://handbook.18f.gov/professional-development-and-training/#im-speaking-at-a-conference-but-not-attending-conference-events)
-1. [I’m speaking at an event (luncheon, panel, summit).](https://handbook.18f.gov/professional-development-and-training/#im-speaking-at-an-event)
-1. [I'm speaking at a conference(Pycon, CFA).](https://handbook.18f.gov/professional-development-and-training/#im-speaking-at-a-conference-and-attending-conference-events-including-training-offered-before-or-after-the-conference)
-1. [I’m attending a conference.](https://handbook.18f.gov/professional-development-and-training/#im-attending-a-conference-including-training-offered-before-or-after-the-conference)
-1. [I’m attending training not at a conference (Agile, product owner courses, course at Management Concepts).](https://handbook.18f.gov/professional-development-and-training/#im-attending-training-that-is-not-at-a-conference)
+1. [I’m speaking at a conference but not attending the conference events (Pycon, CFA).](https://handbook.18f.gov/attending-conferences/#im-speaking-at-a-conference-but-not-attending-conference-events)
+1. [I’m speaking at an event (luncheon, panel, summit).](https://handbook.18f.gov/attending-conferences/#im-speaking-at-an-event)
+1. [I'm speaking at a conference(Pycon, CFA).](https://handbook.18f.gov/attending-conferences/#im-speaking-at-a-conference-and-attending-conference-events-including-training-offered-before-or-after-the-conference)
+1. [I’m attending a conference.](https://handbook.18f.gov/attending-conferences/#im-attending-a-conference-including-training-offered-before-or-after-the-conference)
+1. [I’m attending training not at a conference (Agile, product owner courses, course at Management Concepts).](https://handbook.18f.gov/attending-conferences/#im-attending-training-that-is-not-at-a-conference)
 
 ### I’m speaking at a conference but not attending conference events.
 ***Note: speaking events require a minimum of 25 days advance notice.***  
@@ -137,6 +143,6 @@ The review and approval process times vary by the type of request and the layers
   - Conference events that have a waived or discounted registration fee
   - Speaking events in your official capacity
   - Internal Management Meetings, regardless of cost
-  - Highly Attended Events [FY18 GSA Highly Attended Events](https://docs.google.com/document/d/1Q1ZAWkXMte3jHFP0GH9EHzTjiTG3fYe-4WFehiWGbaM/edit) 
+  - Highly Attended Events [FY18 GSA Highly Attended Events](https://docs.google.com/document/d/1Q1ZAWkXMte3jHFP0GH9EHzTjiTG3fYe-4WFehiWGbaM/edit)
 - Five to six weeks in advance for:
   - Group Conference Training/Attendance
