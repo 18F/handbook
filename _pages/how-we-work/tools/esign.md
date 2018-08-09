@@ -28,7 +28,7 @@ tag:
 - Click **Send**
   * Click **OK** on the "Confirm" pop-up
 
-## Signing a document
+## Sign a document
 
 - Click the **Inbox** tab  
 - Click the **Review, accept and sign the document** icon to the right of the document title
