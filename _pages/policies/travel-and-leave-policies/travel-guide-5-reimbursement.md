@@ -243,6 +243,6 @@ Congrats!!! Your voucher has been submitted. You don’t even have to click the 
 
 Your voucher will be reviewed by a member of the TTS travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
 
-Direct deposit was set up when you provided your banking info to the travel team when they booked your first trip (likely for your orientation in one of the GSA offices). You should see a reimbursement 3-5 business days after the voucher is approved.
+Direct deposit was set up when you provided your banking info to the travel team when they booked your first trip (likely for your orientation at one of the GSA offices). You should see a reimbursement 3-5 business days after the voucher is approved.
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
