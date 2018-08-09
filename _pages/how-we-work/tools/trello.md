@@ -6,9 +6,13 @@ title: Trello
 
 ## Setup
 
-Because Trello is a web application, there&rsquo;s no installation necessary. You will need to set up an account.
+### Account creation
+
+Because Trello is a web application, there's no installation necessary. You will just need to set up an account.
 
 Trello accounts support multiple email addresses, so you can use an existing account (if you have one) by adding your GSA email address. Otherwise, you can sign in with your GSA Google account. Make sure to [set up two-factor authentication](https://trello.com/2fa).
+
+### Requesting access
 
 To get access to the 18F Trello board, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello). Please give us your trello username or specify that you will be making a new account when we invite you).
 
