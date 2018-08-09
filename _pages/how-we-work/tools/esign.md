@@ -27,6 +27,16 @@ tag:
   * Click **Add Signature** and drag to the appropriate spot(s)
 - Click **Send**
   * Click **OK** on the "Confirm" pop-up
+ 
+## Add signature fields to your own document 
+
+- Under "Documents" click the **+ Add Document** button
+  * Select a document (must be in your Windows virtual desktop hard drive if using VMware Horizon)
+- Click **Prepare to Send** near the top of the screen
+  * Select from the drop-down who you'd like to sign the document
+  * Click **Add Signature** and drag to the appropriate spot(s)
+- Click **Send**
+  * Click **OK** on the "Confirm" pop-up
 
 ## Sign a document
 
