@@ -14,7 +14,7 @@ Trello accounts support multiple email addresses, so you can use an existing acc
 
 ### Requesting access
 
-To get access to the 18F Trello board, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello). Please give us your trello username or specify that you will be making a new account when we invite you).
+To get access to the 18F Trello team, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello). Please post your trello username or specify that you will be making a new account when we invite you.
 
 There is no 18F-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
 
