@@ -17,7 +17,7 @@ All GSA employees who take mass/public transit to work are eligible for transit 
 Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to select the **Transit Coordinator in the Region in which you reside** - this information is listed in the online form.
 
 - Go to [https://www.transportation.gov/transerve/participants/gsa](https://www.transportation.gov/transerve/participants/gsa)
-- Click on **Transit Benefit Application**
+- Click on **Transit Benefit Program Application System**
 - Click on **Register**
 - Update your password information using the temporary password that's emailed to you
 - Login using your government email and updated password
@@ -25,7 +25,20 @@ Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to s
 - Click on **Transit Benefit Application**
 - Select "Certify/Enroll" and click **Continue**
 - On the "Warning" screen, click **I Agree**
-- Enter information into application and verify that it's correct
+- Enter information into application and verify that it's correct. *Here are common selections for TTS team members:*
+    * Reason for Certification: **New Transit Benefit Participant**
+    * Employment Type: **Permanent**
+    * Work Status: **Full Time**
+    * Select Transportation Method (i.e. Bus, Other Bus, Rail, Other Method, Van Pool)
+        * Fill out corresponding information for transportation method
+    * Fill out "Transit Benefit Program Application"
+        * Organization Code: **T - Tech Transformation Service**
+    * Fill out "Approver Information Section"
+        * Select your Supervisor - If your supervisor is not listed, have your supervisor follow these steps:      
+            - Fill out this [form](https://www.transportation.gov/sites/dot.gov/files/docs/GSA_Guide_to_Regristration_0.pdf)
+            - Send an email to gsa-transit-subsidy@gsa.gov requesting elevation to supervsior status
+        * Transit Coordinator: **CO-Transit Subsidy**
+        * Point of Contact: **Central Office Non FAS Transit Subsidy**
 - Scroll down and click **Continue** to submit
 
 *Note: The approval process is supervisor, GSA Transit Coordinator, and DOT review/processing.*
