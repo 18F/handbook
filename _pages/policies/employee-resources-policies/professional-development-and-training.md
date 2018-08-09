@@ -18,6 +18,16 @@ TTS usually attends events in one of five ways.
 1. [I’m attending a conference.](https://handbook.18f.gov/professional-development-and-training/#im-attending-a-conference-including-training-offered-before-or-after-the-conference)
 1. [I’m attending training not at a conference (Agile, product owner courses, course at Management Concepts).](https://handbook.18f.gov/professional-development-and-training/#im-attending-training-that-is-not-at-a-conference)
 
+Events with a training component are added to your Individiual Development Plan (IDP). If you are a new hire, or have not yet filled out your IDP, you'll want to do that first.
+
+1. Log into Salesforce via connect.gsa.gov.
+
+2. Follow the instructions provided [here] (https://insite.gsa.gov/portal/mediaId/705670/fileName/Individual_Development_Plan_(IDP)_Application_Employee_User_Guide.action).
+
+3. For series, select 0301 Miscellaneous Program and Administration Series.
+
+4. For pay plan, select General Schedule (GS).
+
 ### I’m speaking at a conference but not attending conference events.
 ***Note: speaking events require a minimum of 25 days advance notice.***  
 
