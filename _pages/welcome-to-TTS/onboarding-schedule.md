@@ -11,7 +11,7 @@ Most of these trainings are optional (with the exception of the [Infrastructure 
 This is a typical onboarding schedule, but the timing may shift based on when you’re hired and federal holidays, etc. Check out the [TTS Classes Schedule](https://calendar.google.com/calendar/embed?src=gsa.gov_gi2e1fc66fh4v5in8ogsm0v8oo%40group.calendar.google.com&ctz=America%2FChicago) in Google Calendar for exact times.
 
 ## Week 1
-In your first week, you’ll learn about the different parts of our organization, the tools that we use, the best sources for finding information, how to track your time, and the most important legal and security requirements for working in the federal government as part of 18F.
+In your first week, you’ll learn about the different parts of our organization, the tools that we use, the best sources for finding information, how to track your time, and the most important legal and security requirements for working in the federal government as part of TTS.
 
 Note: The titles below are linked to our handbook pages for each subject. Description links offer a more detailed look at what you’ll learn in each session.
 
