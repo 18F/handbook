@@ -158,8 +158,12 @@ New integrations/bots need approval from the following:
 
 ## Shared Channels
 
-Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-) that TTS has piloted with other official government slack workspaces. When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it.
+Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-). Shared channels are a more efficient way to work with people in other Slack workspaces than having them in our Slack workspace as single channel guests.
 
+### Requesting a new shared channel
+When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it. Please specify if you want to use a new channel or want us to share an existing channel. Please also give us a heads up before partners send us a sharing request.
+
+### Guidance for using Shared Channels
 When participating in shared channels, please keep in mind:
 
 * While people in similar organizations share areas of focus, we should treat our collaborators in these channels as **members of the public** and only share information we would put into public channels. Anything said in those channels is a public announcement and could end up posted on twitter by someone else, for example. This does not apply to shared channels with an active agreement between us and the people in the other workspace.
@@ -178,7 +182,7 @@ Likewise, when setting up shared channels, we will look to set these expectation
 
 * Anyone in a shared channel must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct).
 
-If a shared channel does not produce good results, or causes a burden, we don't need to continue it. That won't be the end of our collaboration - just recognizing that a particular tool isn't effective for achieving the results that we want.
+If a shared channel does not produce good results, or causes a burden, we don't need to continue it. That won't be the end of our collaboration - just recognizing that a particular tool isn't effective for achieving the results that we want. If the shared channel is with a private entity (contractor or vendor) we will not continue sharing a channel after the agreement covering our work elapses.
 
 ## Groups
 
