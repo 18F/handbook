@@ -158,7 +158,7 @@ New integrations/bots need approval from the following:
 
 ## Shared Channels
 
-Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-). Shared channels are a more efficient way to work with people in other Slack workspaces than having them in our Slack workspace as single channel guests.
+Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-). Shared channels are a more efficient and economic way to work with people in other Slack workspaces than managing them in our Slack workspace as guests, especially when we using multiple channels for a project.
 
 ### Requesting a new shared channel
 When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it. Please specify if you want to use a new channel or want us to share an existing channel. Please also give us a heads up before partners send us a sharing request.
