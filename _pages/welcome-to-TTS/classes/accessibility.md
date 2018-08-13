@@ -6,7 +6,7 @@ The federal government is accountable for making all of its products 508 complia
 
 ## <a id="leadership">Leadership</a>
 
-Developer [Nick Bristow](https://gsa-tts.slack.com/messages/@bristow) leads the [accessibility guild](https://github.com/18F/accessibility). 
+[Nikki Lee](https://gsa-tts.slack.com/messages/@nkkl) and [David Stenger](https://gsa-tts.slack.com/messages/@davidstenger) lead the [accessibility guild](https://github.com/18F/accessibility). 
 
 ## <a id="communication">Communication</a>
 
@@ -25,7 +25,7 @@ Developer [Nick Bristow](https://gsa-tts.slack.com/messages/@bristow) leads the 
 
 ## <a id="training">Training</a>
 
-18F hosts monthly training sessions to help you learn how to build accessible products. The class is required for all developers, who must attend the class at least once (but can attend as many times as they like). Folks from other teams are encouraged to attend as well. Find the class schedule on the [Working Groups and Guilds calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com&ctz=America/New_York).
+TTS hosts monthly training sessions to help you learn how to build accessible products. The class is required for all developers, who must attend the class at least once (but can attend as many times as they like). Folks from other teams are encouraged to attend as well. Find the class schedule on the [Working Groups and Guilds calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com&ctz=America/New_York).
 
 ## <a id="making-a-project-accessibile">Making a project accessible</a>
 
