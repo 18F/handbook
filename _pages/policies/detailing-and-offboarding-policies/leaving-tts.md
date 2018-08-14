@@ -16,6 +16,8 @@ If you decide you want to leave TTS, send an official email to your supervisor a
 
 Include your termination date, which should be at least two weeks out. Your last day at TTS cannot be a federal holiday.
 
+*Once you’ve sent your official letter of notice we will assume your departure is public knowledge*, so if you would like to tell folks yourself, please handle those notifications ahead of time. 
+
 ### 2. Provide summary reviews for direct reports (Supervisors only)
 
 If you are a supervisor and you are leaving within 120 days of the next review period, you need to provide to your supervisor a summary review of each of the employees that report into you. An employee's review needs to come from a supervisor that they've worked under for 120 days.   
