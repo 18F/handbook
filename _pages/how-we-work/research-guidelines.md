@@ -13,19 +13,19 @@ These guidelines should be familiar to anyone who's done research in the private
 
 While only scholarly researchers are strictly obligated to follow these principles, they are widely accepted in the United States as [a set of overaching values](http://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xethical) guiding all investigations involving humans. 
 
-These guidelines focus on two main tasks that support that goal: informing consent and managing personally identifiable information (PII). 
+This document explains two main tasks we do to operationalize our basic principles: informing and getting consent, and managing personally identifiable information (PII). 
 
-## Informing consent 
+## Informing and getting consent 
 
-18F researchers have an obligation to ensure that our participants know what it means to participate in our research and how we plan to use the information we collect. When conducting research, ensure participants understand:
+18F researchers have an obligation to ensure that our participants know what it means to participate in our research and how we plan to use the information we collect. Before getting consent, ensure participants understand:
 
-1. They cannot expect to receive compensation for their participation (unless otherwise agreed to with our agency partners)
-1. The types of information we may record (this could be legal name, direct quotations, photos, screen captures, etc.).
-1. How we will share information we collect. Usual options include: No one ever (off the record), within the immediate project team, on a need-to-know basis (our default) and with the general public.
+1. They cannot expect to receive compensation for their participation (unless otherwise agreed to with our agency partners — note that this is a legal issue!)
+1. The types of information we may record (this could be name, direct quotations, photos, screen captures, etc.)
+1. How we will share information we collect. Usual options include: No one ever (off the record), within the immediate project team, on a need-to-know basis (our default), and with the general public.
 
-### Participant agreements
+### Getting consent
 
-18F maintains an [example participant agreement](https://methods.18f.gov/participant-agreement/) in our Methods site (this is useful for sharing with agency partners) and a [document template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit) for internal use. Please make a copy of the participant agreement document template, put it into your project folder, and edit the highlighted text for each of your research studies.
+18F gets explicit consent from anyone who participates in our moderated research, generally by asking that our research participants sign a "design research participant agreement". 18F maintains a [template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit) for internal use, and an [example participant agreement](https://methods.18f.gov/participant-agreement/) for sharing with interested parties. Please make a copy of the participant agreement document template, put it into your project folder, and edit the highlighted text for each of your research studies.
 
 Feel free to adapt our form as needed, but don't change any of the legal language without asking [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) first. If your participants are likely not fully literate in English, consider having the form translated to the correct language or working out a process for verbal consent using a translator.
 
