@@ -5,8 +5,8 @@ STANDARD OPERATING PROCEDURE: TC-18-CS2-001
 
 |---|---|
 |**TO:**|GSA TTS, Office of Acquisition|
-|**FROM:**|Alla Goldman Seiffert<br>Acting Director, (Assistant Commissioner) GSA TTS OA|
-|**DATE:**|Iterated on March 13, 2018|
+|**FROM:**|Ashley Owens<br>Acting Director, (Assistant Commissioner) GSA TTS OA|
+|**DATE:**|Iterated on August 15, 2018|
 |**SUBJECT:**|Standard Operating Procedure (SOP) for GSA TTS OA Internal Controls for Software Procurement|
 
 <br>
@@ -22,7 +22,7 @@ STANDARD OPERATING PROCEDURE: TC-18-CS2-001
 
 + 4.1 Federal Information Technology Acquisition Reform Act (FITARA): Before any software can be purchased in TTS, FITARA approvals are required in writing by the GSA Chief Information Officer (CIO). The TTS employee (requestor) initiates the [TTS FITARA approval process](https://docs.google.com/document/d/1BfbrHw5pDjBY1dXOGR5LVKa03jCKsRColYs8-YbcE94/edit?ts=5aa29265). The Director of TTS OA will send the procurement request to the GSA Chief Technology Officer (CTO) to facilitate formal ["FITARA” approval](https://docs.google.com/document/d/1BfbrHw5pDjBY1dXOGR5LVKa03jCKsRColYs8-YbcE94/edit) from the CIO.
 
-+ 4.2 Requests for GSA-IT Approved Software: GSA-IT approved software is listed on the [GSA IT Standards profile](https://ea.gsa.gov/#!/itstandards). Software requests for GSA-IT approved software, regardless of estimated value, may only be purchased after the GSA CTO approves the business need and concurs with the request.
++ 4.2 Requests for GSA-IT Approved Software: GSA-IT approved software is listed on the [GSA IT Standards profile](https://ea.gsa.gov/#!/itstandards) or in the ATO process in Salesforce under the [Software Request Tracker] (https://gsa.my.salesforce.com/a1Z?fcf=00B30000009TGJc). Software requests for GSA-IT approved software, regardless of estimated value, may only be purchased after the GSA CTO approves the business need and concurs with the request.
 
 Software requests that are equal to and under $10,000.00 must be submitted via the [CommuniCart (C2)](https://cap.18f.gov/) platform. Software requests that are above the $10,000.00 threshold must be submitted via the TTS OA [Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform). Both are subject to the following controls, which will be confirmed by the SM, and must be attached to the request:
 
@@ -30,7 +30,7 @@ Software requests that are equal to and under $10,000.00 must be submitted via t
 * GSA CTO business need approval and concurrence
 * Proof of adequate funds/approval from TTS Ops Funding Official
 * GSA IT’s Service Desk (Service Now) ticket, where appropriate
-* Screenshot of the GSA IT Standards page
+* PDF download of the GSA IT Standards page
 
 ***NOTE:*** *If the software has been procured with the government purchase card, the SM must attach the purchase receipt to the original C2 application.*
 
