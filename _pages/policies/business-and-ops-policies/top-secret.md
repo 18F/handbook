@@ -37,6 +37,8 @@ For certain projects, clients need TTS employees to have this type of clearance 
 * Security will complete this within 1-3 days
 * It will take approximately 8-15 months to complete the top secret (TS) portion 
   * This delay is due to the backlogs at OPM. The SCI portion is controlled by the Central Intelligence Agency (CIA) and can only be requested after the TS is complete.  You should plan an additional 4-6 weeks for that process.
+  
+### 6. When a clearance has been approved, the Security Office informs the employee directly and provides further instructions. 
 
 --------------------------------------------------------------------------------
 
