@@ -122,7 +122,7 @@ You can see your remaining leave balances in HR Links (shows up to the right whi
 
 We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  
 
-For 18F employees: after you've created your leave request, add your planned absence to the shared Google calendar &ldquo;18F Out of Office&rdquo; &mdash; that way, everyone will know when you&rsquo;re going to be out of the office. Finally, please note that HR Links is GSA&rsquo;s system and separate from Tock, which is 18F&rsquo;s own timekeeping system. If you&rsquo;re taking time off, you&rsquo;ll need to make sure you&rsquo;re accounted for in both.
+For 18F employees: after you've created your leave request, add your planned absence to the shared [Out of Office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America%2FChicago) Google calendar; that way, everyone will know when you're going to be out of the office. Finally, please note that [HR Links](/leave) is GSA's system and separate from [Tock](/tock), which is 18F's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both.
 
 ## <a id="it-service-desk">IT Service Desk</a>
 
