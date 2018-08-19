@@ -60,7 +60,7 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
 
 ### Browser requirements
 
-Please note that while many of these websites work fine in Chrome or Firefox, you *must* use Safari or Internet Explorer to access ALOHA and Online University.
+Please note that while many of these websites work fine in Chrome or Firefox, you *must* use Safari or Internet Explorer to access Online University.
 
 Let&rsquo;s cover each of these tools in a bit more detail.
 
@@ -75,8 +75,8 @@ Here are some tips for employees that frequent an office:
     To periodically reserve a workstation in D.C.:
     <ol>
       <li>Go to `Profile → View Your Profile → Edit Profile`. </li>
-      <li>Pick the workstation you'd like to reserve each day. 18F is on floor 4, wing 4.</li>
-      <li>Type: Workstation, Room Name: 4461A-Z</li>
+      <li>Pick the workstation you'd like to reserve each day. TTS is on floor 4, wings 1 (OPP) and 4 (18F).</li>
+      <li>Type: Workstation, Room Name: 4461A-Z (for 18F) and 41XX (for OPP).</li>
       <li>Choose the day of the week (today)</li>
       <li>Choose start and end times (typically, 9am and 6pm)</li>
       <li>Click save</li>
@@ -118,11 +118,11 @@ You must [be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rg
 
 In general, you should request leave ahead of time (although it is possible to request leave retroactively) and document any absences as soon as possible. If you&rsquo;re planning to take leave, please ask your project team(s) as well as your director or direct supervisor if it&rsquo;s okay. Once you get your supervisor's approval, sign in to [HR Links](https://corporateapps.gsa.gov/hr-links/) and submit your leave request.
 
-After you've created your leave request, add your planned absence to the shared Google calendar &ldquo;18F Out of Office&rdquo; &mdash; that way, everyone will know when you&rsquo;re going to be out of the office.
-
-We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  Finally, please note that ALOHA is GSA&rsquo;s system and separate from Tock, which is 18F&rsquo;s own timekeeping system. If you&rsquo;re taking time off, you&rsquo;ll need to make sure you&rsquo;re accounted for in both.
-
 You can see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express](#employee-express).
+
+We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  
+
+For 18F employees: after you've created your leave request, add your planned absence to the shared [Out of Office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America%2FChicago) Google calendar; that way, everyone will know when you're going to be out of the office. Finally, please note that [HR Links](/leave) is GSA's system and separate from [Tock](/tock), which is 18F's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both.
 
 ## <a id="it-service-desk">IT Service Desk</a>
 
@@ -153,13 +153,13 @@ For more information, reference the [OLU](/olu) page.
 
 ## Office supplies
 
-18F has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. If you’d like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
+TTS has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. If you’d like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
 Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
 
 For software requests, see [Software](../software/).
 
-If you need office supplies that aren’t available in your office, software, or need to make any other request for 18F to purchase, read on [here](/purchase-requests) for what to do next.
+If you need office supplies that aren’t available in your office, software, or need to make any other request for TTS to purchase, read on [here](/purchase-requests) for what to do next.
 
 ## Get a copy of Microsoft Office
 
