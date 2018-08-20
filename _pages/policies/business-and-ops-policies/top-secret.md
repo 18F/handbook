@@ -20,7 +20,7 @@ For certain projects, clients need TTS employees to have this type of clearance 
    * [GSA Credit Report](https://goo.gl/GiFhBy)
    * [Declaration of Federal Employment (OF 306)](https://goo.gl/QDkDZC)
 
-### 2. Email items from Step 1 (updated resume, supervisor justification, GSA PRDS, credit report and Declaration of Federal Employment) to the [Talent Team](mailto:TTS-Talent-team@gsa.gov).  They will contact GSA HR to take one of the following steps:
+### 2. Email items from Step 1 (updated resume, supervisor justification, GSA PRDS, credit report and Declaration of Federal Employment) to the [Talent Team](mailto:TTS-TalentTeam@gsa.gov).  They will contact GSA HR to take one of the following steps:
 * If you are on an **individual PD** (i.e. supervisory innovation specialist):
    * HR will only need to update that PD
 * If you are on a **standard PD** (i.e. innovation specialist):
