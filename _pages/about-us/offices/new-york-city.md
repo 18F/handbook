@@ -9,7 +9,7 @@ title: New York City
         <td class="col-key"><strong>Location</strong></td>
         <td class="col-value">
           One World Trade Center (<a href="http://onewtc.durst.org/">management company page</a>, <a href="https://insite.gsa.gov/portal/category/540422">GSA page</a>)<br/>
-          Floors 51, 54, and 55<br/>
+          Floor 55<br/>
           New York, NY 10007<br/>
           <br/>
           Enter at the southwest corner
