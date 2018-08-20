@@ -2,7 +2,7 @@
 title: Public disclosures of vulnerabilities
 ---
 
-When someone in the public alerts us to a potential vulnerability, we need to respond and triage quickly. There are three steps in the process:
+When someone in the public alerts you to a potential vulnerability in our systems, you need to act quickly.  If you know the alert applies to a system TTS doesn't have responsibility over, please either submit the report to [US-CERT](https://vulcoord.cert.org/VulReport/) if there is helpful context you can add to it, or direct the public contact to submit the report to [US-CERT](https://vulcoord.cert.org/VulReport/) themselves.  Otherwise, there are three steps in the process:
 
 1. [Triage the vulnerability](#triage-the-vulnerability)
 2. [File an issue](#file-an-issue)
