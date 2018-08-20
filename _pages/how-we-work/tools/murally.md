@@ -2,11 +2,11 @@
 title: Mural.ly
 ---
 
-Mura.ly is a collaborative whiteboard and sticky note tool.
+Mural.ly is a collaborative whiteboard and sticky note tool.
 
 ## Setup
 
-Because Murally is a web application, there’s no installation necessary. You will need to set up an account, however. If you don’t already have a Mural.ly account, visit [this link](http://mrl.li/mnEPxzBV) and create an account with your GSA email address. In order to have access to all 18F public rooms and create your own rooms, you need an admin (Bridget F) to give you those permissions.
+Because Mural.ly is a web application, there’s no installation necessary. You will need to set up an account, however. If you don’t already have a Mural.ly account, visit [this link](http://mrl.li/mnEPxzBV) and create an account with your GSA email address. In order to have access to all 18F public rooms and create your own rooms, you need an admin (Bridget F) to give you those permissions.
 
 ## Usage
 
