@@ -30,7 +30,7 @@ This document explains two main tasks we do to operationalize our basic principl
 Feel free to adapt our form as needed, but don't change any of the legal language without asking [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) first. If your participants are likely not fully literate in English, consider having the form translated to the correct language or working out a process for verbal consent using a translator.
 
 When sending participant agreements electronically, please use our [participant agreement email template](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit
-). This template clearly specifies how people can opt out of a study and decline us the ability to contact them in the future.
+). This template clearly specifies how people can opt out of a study and/or request that we do not contact them in the future.
 
 ## Managing Personally Identifiable Information (PII)
 
