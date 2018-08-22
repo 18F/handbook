@@ -117,7 +117,7 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 
 **About:** Connect with user experience practitioners from across the federal government and learn about UX events across the federal government.
 
-**To join:** [Instructions are here](https://www.digitalgov.gov/communities/federal-user-experience-community-of-practice/).
+**To join:** [Instructions are here](https://digital.gov/communities/user-experience/).
 
 #### Web content managers forum
 
