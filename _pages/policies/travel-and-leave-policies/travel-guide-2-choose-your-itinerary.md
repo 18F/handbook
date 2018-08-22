@@ -26,7 +26,7 @@ Request that your tickets be purchased upon authorization.
 5. Type in the name of your destination city in *Temporary Duty Location* search field, and click on the search icon. You must search by city, not address. Select the correct location from the drop-down.
 <img src="/images/travel/2-choose-departure.png" class="travel-guide-hide" alt="choosing destination city">
 
-6. When select your location it will auto-populate ‘TDY Per Diem Location’. This is the Per Diem allowance amount for that location.
+6. When selecting your location it will auto-populate ‘TDY Per Diem Location’. This is the Per Diem allowance amount for that location.
 <img src="/images/travel/3-autofil-per-diem.png" class="travel-guide-hide" alt="auto-fill of Per Diem Location">
 
 7. Choose your departure city or location.
