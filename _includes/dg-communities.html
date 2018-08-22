@@ -3,5 +3,5 @@ https://handbook.18f.gov/general-contacts-and-listservs/#digitalgov-communities 
 
 {% for item in site.data.dgcommunities.items %}
   <h4>{{ item.title }}</h4>
-  <p><strong>About:</strong> {{ item.summary }} <a href="{{ item.url }}" title="{{ item.title }}"><strong>Join »</strong></a></p>
+  <p><strong>About:</strong> {{ item.summary }} <a href="https://digital.gov{{ item.url }}" title="{{ item.title }}"><strong>Join »</strong></a></p>
 {% endfor %}
