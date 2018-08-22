@@ -111,7 +111,7 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 
 **About:** The Federal SocialGov Community unites digital managers and specialists at more than 160 agencies and offices in a collaborative program aimed at improving the creation, adoption and evaluation of digital engagement programs.
 
-**To Join:** Contact [Justin Herman (justin.herman@gsa.gov)](mailto:justin.herman@gsa.gov) with “Subscribe to #SocialGov” in the subject line of your email to subscribe to our listserv. Include your name and job title in the message body.
+**To Join:** Email SM-COP-subscribe-request@listserv.gsa.gov with the subject line "SocialGov listserv".  
 
 #### User experience community of practice
 
