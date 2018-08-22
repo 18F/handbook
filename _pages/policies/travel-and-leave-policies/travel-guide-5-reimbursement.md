@@ -34,7 +34,7 @@ IF THIS IS YOUR FIRST TIME CREATING A VOUCHER: please read through this guide, b
 
     * **I need to get reimbursed for something other than travel expenses** Concur processes this as well! Similar to trips under 12 hours, you'll need to [create a local voucher](#miscellaneous-vouchers). Before starting this process, please make sure that the expense you are hoping to get reimbursed for was [approved in C2](/purchase-requests) if nonbillable, or approved by your client in an email sent to tts-travelauths@gsa.gov before you made the purchase. Exceptions to this rule (retroactive approvals) are rarely granted by the TTS Director of Business Operations.
 
-4. You will then be lead through creating a voucher from your authorization that you got approved prior to traveling.
+4. You will then be led through creating a voucher from your authorization that you got approved prior to traveling.
 
     * Under Document Search, you’ll see a list of your “open” authorizations (i.e. your authorizations that don’t have vouchers yet).
 
