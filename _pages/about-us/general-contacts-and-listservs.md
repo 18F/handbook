@@ -79,16 +79,15 @@ Information you might need for filling out GSA forms:
 
 There are a number of groups that are good for collaborating across government. If any of these topics interest you, consider joining &mdash; even if you prefer to lurk. (Consider [filtering messages like these](https://support.google.com/mail/answer/6579?hl=en) so they appear in their own Gmail label.)
 
-### DigitalGov communities
 
-DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/communities/) for people in the U.S. government, including the following:
+### Digital.gov communities
 
-#### Challenges and prizes community of practice
+Digital.gov [hosts several mailing list communities](http://digital.gov/communities/) for people in the U.S. government, including the following:
 
-**About:** Thinking about running a challenge and prize competition at your agency, but really want to talk to someone who has done it? Better yet, want to talk to somebody at your own agency, or someone who has run the same type of challenge you want to run?
 
-**To join:** [Instructions are here](https://www.digitalgov.gov/communities/challenges-prizes-community/).
+{% include dg-communities.html %}
 
+<<<<<<< HEAD
 #### Customer experience community of practice
 
 **About:** The government Customer Experience Community of Practice (CX-COP) is an interagency group of customer experience practitioners, with over 500 members across 140 federal, state and local U.S. government offices and agencies.
@@ -124,6 +123,8 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 **About:** The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals.
 
 **To join:** [Instructions are here](https://www.digitalgov.gov/communities/web-managers-forum/web-content-managers-listserv/).
+=======
+>>>>>>> master
 
 ### Other groups within the U.S. government
 
@@ -173,6 +174,6 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 
 #### GSA Press Clips
 
-**About:** This is an internal GSA google group we set up to bring together the various press clips that are sent out by the Communications office.  
+**About:** This is an internal GSA google group we set up to bring together the various press clips that are sent out by the Communications office.
 
 **To join:** [Apply via Google Groups](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-clips).

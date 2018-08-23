@@ -23,6 +23,8 @@ GEM
       jekyll_pages_api_search
       rouge
       sass
+    hash-joiner (0.0.7)
+      safe_yaml
     html-proofer (3.8.0)
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
@@ -54,6 +56,7 @@ GEM
     jekyll_pages_api_search (0.5.0)
       jekyll_pages_api (~> 0.1.4)
       sass (~> 3.4)
+    json (2.1.0)
     kramdown (1.16.2)
     liquid (3.0.6)
     listen (3.1.5)
@@ -92,8 +95,10 @@ PLATFORMS
 DEPENDENCIES
   go_script
   guides_style_18f
+  hash-joiner
   html-proofer
   jekyll (~> 3.0.0)
+  json
   redcarpet
   rouge
 

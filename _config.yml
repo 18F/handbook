@@ -66,6 +66,11 @@ jekyll_pages_api_search:
 generate_nodes: true
 flat_namespace: true
 
+jekyll_get:
+  - data: dgcommunities
+    json: 'https://digital.gov/communities/index.json'
+
+
 navigation:
 - text: Table of Contents
   internal: true
