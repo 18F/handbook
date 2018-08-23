@@ -79,51 +79,14 @@ Information you might need for filling out GSA forms:
 
 There are a number of groups that are good for collaborating across government. If any of these topics interest you, consider joining &mdash; even if you prefer to lurk. (Consider [filtering messages like these](https://support.google.com/mail/answer/6579?hl=en) so they appear in their own Gmail label.)
 
-### DigitalGov communities
 
-DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/communities/) for people in the U.S. government, including the following:
+### Digital.gov communities
 
-#### Challenges and prizes community of practice
+Digital.gov [hosts several mailing list communities](http://digital.gov/communities/) for people in the U.S. government, including the following:
 
-**About:** Thinking about running a challenge and prize competition at your agency, but really want to talk to someone who has done it? Better yet, want to talk to somebody at your own agency, or someone who has run the same type of challenge you want to run?
 
-**To join:** [Instructions are here](https://www.digitalgov.gov/communities/challenges-prizes-community/).
+{% include dg-communities.html %}
 
-#### Customer experience community of practice
-
-**About:** The government Customer Experience Community of Practice (CX-COP) is an interagency group of customer experience practitioners, with over 500 members across 140 federal, state and local U.S. government offices and agencies.
-
-**To join:** [Instructions are here](http://www.digitalgov.gov/communities/customer-experience-community/).
-
-#### Mobile gov community of practice
-
-**About:** Mobile Gov Community of Practice members work across federal government to create anytime, anywhere government resources and solutions for today and tomorrow.
-
-**To join:** [Instructions are here](http://www.digitalgov.gov/communities/mobile/).
-
-#### Multilingual community of practice
-
-**About:** We are a group of federal, state, and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.
-
-**To join:** [Instructions are here](https://www.digitalgov.gov/communities/government-multilingual-websites-community/).
-
-#### Social media community of practice
-
-**About:** The Federal SocialGov Community unites digital managers and specialists at more than 160 agencies and offices in a collaborative program aimed at improving the creation, adoption and evaluation of digital engagement programs.
-
-**To Join:** Contact [Justin Herman (justin.herman@gsa.gov)](mailto:justin.herman@gsa.gov) with “Subscribe to #SocialGov” in the subject line of your email to subscribe to our listserv. Include your name and job title in the message body.
-
-#### User experience community of practice
-
-**About:** Connect with user experience practitioners from across the federal government and learn about UX events across the federal government.
-
-**To join:** [Instructions are here](https://digital.gov/communities/user-experience/).
-
-#### Web content managers forum
-
-**About:** The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals.
-
-**To join:** [Instructions are here](https://www.digitalgov.gov/communities/web-managers-forum/web-content-managers-listserv/).
 
 ### Other groups within the U.S. government
 
@@ -173,6 +136,6 @@ DigitalGov [hosts several mailing list communities](http://www.digitalgov.gov/co
 
 #### GSA Press Clips
 
-**About:** This is an internal GSA google group we set up to bring together the various press clips that are sent out by the Communications office.  
+**About:** This is an internal GSA google group we set up to bring together the various press clips that are sent out by the Communications office.
 
 **To join:** [Apply via Google Groups](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-clips).

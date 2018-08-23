@@ -5,6 +5,8 @@ gem 'jekyll', '~> 3.0.0'
 gem 'redcarpet'
 gem 'rouge'
 gem 'go_script'
+gem 'json'
+gem 'hash-joiner'
 
 group :jekyll_plugins do
   gem 'guides_style_18f'
