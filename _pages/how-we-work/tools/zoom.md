@@ -21,7 +21,7 @@ It will open the app following installation, where you can set your defaults.
 
 ## How to create a Zoom account
 
-Go into the [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom) channel and ask the Zoom Admins for an invite, also listing your e-mail address. One of the admins will log into 18F Zoom console and send you an invitation to be part of our shared zoom org via email. Click on the link to accept the invitation, and set up your access either via Google OAuth (recommended) or by creating a separate password.
+Go into the [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom) channel and ask for an invite with the following script: “Zoom Admins, please invite me to Zoom.  My GSA email address is "YOUR EMAIL ADDRESS".” One of the admins will log into 18F Zoom console and send you an invitation to be part of our shared zoom org via email. Click on the link to accept the invitation, and set up your access either via Google OAuth (recommended) or by creating a separate password.
 
 Alternatively, you can create your own account [here](https://zoom.us/signup). However, if you 
 think that you will ever need to host a meeting longer than 40 minutes, you should just request 
