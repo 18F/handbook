@@ -55,7 +55,7 @@ Any other amendment with a minimal impact on the budget (i.e. change of dates, a
 
 ## Billable travel approval
 
-### Who is responsible, and how to I make my request?
+### Who is responsible, and how do I make my request?
 
 Your client is responsible for providing approval for your billable travel. Your project manager (or someone they delegate) is responsible for communicating the travel request to the client and securing their approval. Once this is done, the individual who secured the client's email of approval must forward it to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov) and cc the members of the team who are traveling.
 
