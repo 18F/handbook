@@ -57,6 +57,16 @@ After you&rsquo;ve completed the above steps, hop into [#admins-github](https://
 
 Go to the [18F people page](https://github.com/orgs/18F/people). Click where it says **private** next to your name. Change that to **public**.
 
+## GSA Github Org
+
+### Information
+
+For information on setting up new GitHub users in the GSA organization as well as the GSA standards for GitHub, please see [https://github.com/GSA/GitHub-Administration](https://github.com/GSA/GitHub-Administration).  
+
+### Add/Remove user
+
+If you wish to add or remove any users from the GSA organization, or have any other questions with GitHub please send an email to [gsa-github.support@gsa.gov](mailto:gsa-github.support@gsa.gov).
+
 ## Rules
 
 - **Abide by [the TTS Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
