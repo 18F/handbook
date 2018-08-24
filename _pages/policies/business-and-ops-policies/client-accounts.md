@@ -2,7 +2,7 @@
 title: Account management policy
 ---
 
-_This control document outlines how we conduct business._
+_This control document outlines how 18F conducts business._
 
 ## Why we enter into Interagency Agreements
 18F provides digital and digital-related services to federal agencies. 18F is funded by the [Acquisition Services Fund](http://www.gsa.gov/portal/content/150047), which requires reimbursement in full. We therefore charge our clients — the federal agencies who engage us for project work — for our actual time and material costs, plus a fixed overhead amount. To do so, we enter into an [interagency agreement](/agreements) (IAA), with each of our clients.
@@ -51,7 +51,7 @@ Timekeeping is monitored by the timekeeping manager, who verifies weekly that ev
 
 ### When is this reviewed and updated?
 
-This document will be reviewed at least annually, as appropriate, by OCSIT’s Associate Administrator and Deputy Associate Administrator for 18F.
+This document will be reviewed at least annually, as appropriate, by the 18F Excecutive Director.
 
 ### How and when are 18F employees instructed on these procedures?
 
