@@ -20,7 +20,7 @@ Include your termination date, which should be at least two weeks out. Your last
 
 ### 2. Provide summary reviews for direct reports (Supervisors only)
 
-If you are a supervisor and you are leaving within 120 days of the next review period, you need to provide to your supervisor a summary review of each of the employees that report into you. An employee's review needs to come from a supervisor that they've worked under for 120 days.   
+If you are a supervisor and you are leaving within 120 days of the next review period, you need to provide to your supervisor a summary review of each of the employees that report into you. An employee's review needs to come from a supervisor that they've worked under for 120 days.
 
 - Midyear review: provide a written review
 - Annual review: provide ratings based on position descriptions
@@ -30,6 +30,9 @@ If you are a supervisor and you are leaving within 120 days of the next review p
 * Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
 
 * Ensure your home address is correct in [Employee Express](https://www.employeeexpress.gov/) and consider switching your W2 delivery to Hard Copy.
+
+    * _Note:_ Ensure you keep your login information for Employee Express after
+      you leave. Separated employees retain access to Employee Express (EEX) for 3 years, so long as they retain their login ID and password. Separated employees who lose access to EEX cannot regain it. All separated employees receive a copy of their W-2 by mail at their home address.
 
 * Review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
 
@@ -53,7 +56,7 @@ If you have any questions, please contact [cpc.benefits-retirement@gsa.gov](mail
 * Log your final Tock hours.
 
 * Make a list of the approved software that you downloaded or were issued (not necessary to note the pre-installed software).
-  * Unregister the software that you're able to 
+  * Unregister the software that you're able to
   * Provide the list of remaining registered software to the Offboarding Lead during the scheduled offboarding meeting
 
 ### 6. Complete the clearance checklist
