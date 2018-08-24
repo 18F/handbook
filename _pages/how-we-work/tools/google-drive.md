@@ -18,9 +18,11 @@ We use Google Drive to keep track of documentation for different projects:
 
 * Blog drafts are written in Google Drive in the Blog folder. [Instructions are here](https://github.com/18F/blog-drafts/blob/master/README.md).
 
-* Every GSA employee can view and access docs. We cannot share Google Docs with other agencies. If you’re working with another agency, ask in #teamops or #it-issues for ways to share documents with folks at other agencies.
+* Every GSA employee can view and access docs. If another agency employs Google Docs, documents can be shared directly with them.  If the agency does not use Google Docs, [here are approved instructions for sharing documents with them](https://insite.gsa.gov/portal/content/517805).   Note that the agency staff could also create a google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en).  Ask in [#teamops](https://gsa-tts.slack.com/messages/teamops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) if you need help.
 
 * Offline syncing for Google Drive/Docs has been disabled for GSA.
+
+* You can share files with partners that have a .gov Google account directly, or have them make a [GSA Affiliated Customer Account (GACA)](https://insite.gsa.gov/portal/content/517805?term=gaca).
 
 ## Document permissions
 The main way we collaborate on documents is by adding them to the 18F Team Folder in a relevant sub-folder. (You can make a new sub-folder if it wouldn't fit into the existing folders.) This automatically gives the document the right permissions and makes it easy for the rest of the team to find.
@@ -36,6 +38,14 @@ If you're using a non-Google service and it requests access to your GSA Google D
 We have more explanation of why this is our policy in [this blog post about how we handle information security and third party applications](https://18f.gsa.gov/2016/05/13/how-18f-handles-information-security-and-third-party-applications/).
 
 To be sure you haven't enabled this access accidentally in the past, you can check [Google's list of "Apps connected to your account"](https://security.google.com/settings/security/permissions), expand each item, and look for the Google Drive icon.
+
+## Google Apps Scripts
+
+To use a [Google Apps Script](https://developers.google.com/apps-script/), please fill out [this form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdOCtxCaSKJC87CedZW1FKGspMvnRzyOauMvKIOfrSV7PBdag/viewform).
+
+## Google Forms
+
+If you create a Google form that is intended to be filled by employees of another agency, keep in mind that in a few agencies, Google Forms are blocked. Among the largest agencies that are known to currently block Forms are: DHS, VA, and EOP. In the case that you intend to involve those agencies in an initiative where a Google Form is being used, it's smart to create a version in another format, like a Word doc or fillable PDF.
 
 ## Tips
 

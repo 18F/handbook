@@ -15,7 +15,7 @@ title: San Francisco
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
-          <a href="https://gsa-tts.slack.com/messages/@vv">Victor Valdivizeo</a>, <a href="mailto:victor.valdiviezo@gsa.gov">victor.valdiviezo@gsa.gov</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)<br />
+          Your best bet is the <a href="https://gsa-tts.slack.com/archives/sf">#sf</a> Slack channel<br />
           <a href="http://www.gsa.gov/portal/category/107015">Building Services contact info</a>
         </td>
       </tr>
@@ -33,7 +33,7 @@ title: San Francisco
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           18F sits in room #5685 on the fifth floor. When you get off the elevator, go to the left.
+           TTS sits in room #5685 on the fifth floor. When you get off the elevator, go to the left.
         </td>
       </tr>
       <tr>
@@ -57,7 +57,7 @@ title: San Francisco
 
 [50 UN Plaza](http://www.gsa.gov/portal/category/107031) is on historic Market Street between 6th and 7th streets, in the Civic Center neighborhood. The Bay Area Rapid Transit authority (BART) and MUNI both have underground stops at this location, and the historic F Market streetcar line has two local stops at 6th and 7th Streets.
 
-18F SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
+TTS SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
 
 There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance &mdash; San Francisco City Hall and the Asian Art Museum are but two of them!
 
@@ -65,7 +65,7 @@ There is a lively farmers market literally out our door every Wednesday. There a
 
 ### From San Francisco International Airport (SFO)
 
-Public transit from SFO to the 18F San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station. Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes. The office sits right above the Civic Center stop for BART.
+Public transit from SFO to the TTS San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station. Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes. The office sits right above the Civic Center stop for BART.
 
 ### From Oakland International Airport (OAK)
 
@@ -85,7 +85,7 @@ There is a developing [bikeshare program](http://www.bayareabikeshare.com) in th
 
 Bike parking is next to the loading dock, entered from the far corner at McAllister and Leavenworth. Before you can park your bike, though, you need to print and fill out [this form](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view), and then activate your credential. This means you need to return to the credentialing location where you first initiated the process for your card. (This is probably the federal building at 450 Golden Gate). There are drop-in hours all day on Monday from 9 a.m. to 4 p.m. You can also make an appointment. The card also requires you to come up with a six-digit PIN, so have that ready to go.
 
-If you have any questions about this, contact [Victor Valdivizeo](https://gsa-tts.slack.com/team/vv).
+If you have any questions about this, contact the [#SF Slack Channel](https://gsa-tts.slack.com/archives/sf).
 
 
 ### Public transit
@@ -116,17 +116,15 @@ You can get them at 450 Golden Gate. [Schedule an appointment](https://timetrade
 
 Once you’re there, turn right after entering past security, then the MSO office is directly across from IRS. This is also where you can get your card _activated_.
 
-### Attend GSA and 18F orientation?
+### Attend GSA and TTS orientation?
 
-GSA onboarding is typically conducted on Mondays at 50 UN Plaza. 18F SF onboarding takes place after GSA orientation at our office suite. You should receive an email confirming the times that you will meet with your team.
+GSA onboarding is typically conducted on Mondays at 50 UN Plaza. TTS SF onboarding takes place after GSA orientation at our office suite. You should receive an email confirming the times that you will meet with your team.
 
 ### Find out everything I need to know about working in SF?
 
-Whether you're new at 18F and are joining the SF office or you're a long-time 18F member relocating to SF, here's an office onboarding checklist for you:
+Whether you're new at TTS and are joining the SF office or you're a long-time TTS member relocating to SF, here's an office onboarding checklist for you:
 
-* Add yourself to our [desk schedule spreadsheet](https://docs.google.com/spreadsheets/d/1QNGF8pvrVUXEa8tjsQEEw5itflDEAyjVxQgfCT6Kj5c/edit#gid=0).
-* Add yourself to our [cleaning crew schedule](https://docs.google.com/document/d/1CCKYxIRrCUDJpykKgrjDBISLG-2toMv9yu1hLfR2IOs/edit).
-* If you would like a locker, please email <mailto:victor.valdiviezo@gsa.gov>.
+* If you would like a locker, or if you need a keyboard and mouse/trackpad for working with the office monitors, please email <mailto:britta.gustafson@gsa.gov>.
 * Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
 * Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
 * If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel for the link.
@@ -139,22 +137,20 @@ Meet your guests at the front security desk to escort them in.
 
 Be aware that IDs from [a few states](https://www.dhs.gov/current-status-states-territories) are not acceptable; see that page for the current list of "noncompliant states". For these states, another issued picture ID is required (or they can just show a passport).
 
-If you’re inviting guests to a potluck, point them to our handy [Eventbrite invite](https://www.eventbrite.com/e/18f-potluck-lunch-tickets-9543876993) with all of the security details.
-
 ### Host long-term guests?
 
 You may host folks from other government agencies. As the host you are responsible for access issues and for any requests. You will need to complete [50 UNP Auth Form.pdf](https://github.com/18F/handbook/files/433703/50.UNP.Auth.Form.pdf) using your own information and email it to <mailto:50UNPBuildingServices@gsa.gov>. Please make sure you do this with advance notice, since the building will need time to update the guards’ list of approved guests. Once the form has been accepted, guests will be able to access the building without an escort.
 
 ### Access the building after hours?
 
-If you're a visitor arriving outside business hours, arrange for an 18F staff member inside the office to escort you.
+If you're a visitor arriving outside business hours, arrange for an TTS staff member inside the office to escort you.
 
-If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Hillary Hartley or Patrick Bateman), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
+If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Josh Bailes), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
 
 
 ### Book rooms for meetings?
 
-The SF office has small team rooms. You can book other conference rooms using [BookIt!](/gsa-tools-equipment-and-transit/#bookit) Recommended rooms include Yuma and Carson City, because they are videoconference-friendly.
+The SF office has small team rooms. You can book other conference rooms using [BookIt!](/gsa-internal-tools/#bookit) Recommended rooms include Yuma and Carson City, because they are videoconference-friendly.
 
 Wireless works well in the beautiful courtyard, so work outside for a change!
 
@@ -194,13 +190,15 @@ If you're the last to leave your side of the office (north or south side), take 
 
 ### Bathrooms
 
-Men's and women’s bathrooms are just down the hall from the 18F office — walking away from the elevator bays of the building, the men’s room is on the left, and for the women’s keep going down the hall to just past the stairwell on the left.
+Men's and women’s bathrooms are just down the hall from the TTS office — walking away from the elevator bays of the building, the men’s room is on the left, and for the women’s keep going down the hall to just past the stairwell on the left.
 
 There is an all-gender bathroom in the Nimitz Suite on the third floor (room 3198), [at the southwest corner of the third floor map here](https://insite.gsa.gov/portal/category/532018). The Nimitz Suite is [a set of conference rooms named after an admiral](http://gsablogs.gsa.gov/gsablog/2014/05/16/a-closer-look-the-nimitz-suite/).
 
 An all-gender bathroom is also available for limited hours on Tuesday through Thursday in the Health Unit, which is in the basement. See the <a href="#health-center">health center</a> section for further details.
 
-If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, please submit a request via [C2](https://cap.18f.gov/). You should search for the item in [GSAAdvantage](https://www.gsaadvantage.gov/advantage/main/start_page.do). If the item cannot be found there, or is too costly, see if it is available from Amazon or some other online provider. Make sure you provide a solid business justification for the purchase.
+### Supplies
+
+If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, please submit a request via [C2](https://requests.18f.gov/). You should search for the item in [GSAAdvantage](https://www.gsaadvantage.gov/advantage/main/start_page.do). If the item cannot be found there, or is too costly, see if it is available from Amazon or some other online provider. Make sure you provide a solid business justification for the purchase.
 
 ### Batteries
 
@@ -237,11 +235,19 @@ For FedEx and UPS, please use the address as usual:
 > Suite 5685<br/>
 > San Francisco, CA 94102
 
+## Potluck
+
+We host a potluck lunch at noon the third Thursday of every month, to which we invite guests who are interested in finding out more about TTS and what we do. We're also very keen to meet folks who work in government or civic tech, or who are interested in learning more about that world.
+
+If you're a guest, **you must arrange your visit with your contact at least a day in advance** so that they know to meet you at the door. Please make sure to [bring acceptable ID](#bring-in-one-time-guests). Any dishes are welcome; vegetarian food is likely to be enjoyed by the most people. (And we all love desserts.)
+
 ## Amenities
 
 ### Gym
 
-There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)), with lockers and a locker room. To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
+There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)). To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
+
+There are men's and women's locker rooms with lockers and showers. You do not need a gym membership to access these; they are for everyone in the building. Ask a coworker for the code to the locker room of your choice.
 
 ### Interior courtyard
 
@@ -249,9 +255,9 @@ The interior courtyard has Wi-Fi access so you can work outside!
 
 ### Transit subsidy
 
-All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel. To receive a transit subsidy, fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174). See more details [on InSite](https://insite.gsa.gov/portal/category/511801). Once your supervisor has signed the form, send it to [Lyvette Jones](mailto:lyvette.jones@gsa.gov).
+All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel.  You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
 
-You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
+See the [Transit Benefit](/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
 ### Health center
 
@@ -273,10 +279,6 @@ The Health Unit also includes an all-gender bathroom.
 * [Public Health Clinic](http://www.sfcdcp.org/aitc.html) - 101 Grove St.
 * [18F SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-sf)
 * [50 UN Plaza Mailing list](https://groups.google.com/a/gsa.gov/forum/#!forum/50unp)
-
-## Who works here?
-
-We keep a list of [people who work in the San Francisco office](https://pages.18f.gov/team-browser/?locations=SFO).
 
 ## Food and coffee
 

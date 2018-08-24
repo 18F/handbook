@@ -1,30 +1,36 @@
 ---
-title: VMware Horizon
+title: VMWare Horizon
 ---
 
-VMware Horizon is a VPN client that we use to connect to GSA’s intranet.
+VMware Horizon is a Windows virtual desktop client that can be used to connect to GSA’s intranet, or test something in Internet Explorer.
 
 ## Setup
 
 New employees should have a GSA VMware myView/Horizon account, but if not:
 
   1. Go to [servicedesk.gsa.gov](http://servicedesk.gsa.gov/).
-  2. Sign in with your ENT username and password.
-  3. Click **Submit Catalog Request**.
-  4. Click **Accounts & Access Requests**.
-  5. Click **myView (Virtual Desktop) Access Request**.
-  6. Complete the required fields.
-  7. Click **Order Now**.
+  1. Sign in with your ENT username and password.
+  1. Click **Order Something**.
+  1. Click **Horizon(VDI)**.
+  1. Complete the required fields.
+  1. Click **Add to Cart**.
+  1. Click **Checkout**.
+
+## Logging into VMWare Horizon
+
+  1. Click on the VMware Horizon icon (on your desktop)
+  2. Enter `horizon.gsa.gov` for server
+  3. Use ENT info for initial VMware Horizon login-in screen
+  4. Go to [otp.gsa.gov](http://otp.gsa.gov) and enter your ENT info to get the Tokencode
+  5. Enter the Tokencode back into VMware Horizon login-in screen
+
 
 ## Usage
 
-1. Once you have access, you can use myView through the web client or install the software from [https://horizon.gsa.gov/](https://horizon.gsa.gov/).
-2. When using the installed software (VMWare Horizon Client), you will be prompted for "the name of the Connection Server"—enter **horizon.gsa.gov**.
-3. Log into [otp.gsa.gov](https://otp.gsa.gov) with 2-factor authentication so you can get a code to enter at horizon.gsa.gov along with your GSA password.
+See [the InSite page](https://insite.gsa.gov/portal/category/536270). Note that you may need to follow the "Personal Mac" instructions.
 
-Note: myView/Horizon allows for a virtual desktop in browser with no downloads.
-
+---
 
 #### Still have questions?
 
-Ask in Slack: [#it-issues](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)
+Ask in Slack: [#it-issues](https://gsa-tts.slack.com/messages/it-issues/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)

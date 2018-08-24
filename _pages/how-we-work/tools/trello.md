@@ -6,17 +6,21 @@ title: Trello
 
 ## Setup
 
-Because Trello is a web application, there&rsquo;s no installation necessary. You will need to set up an account.
+### Account creation
+
+Because Trello is a web application, there's no installation necessary. You will just need to set up an account.
 
 Trello accounts support multiple email addresses, so you can use an existing account (if you have one) by adding your GSA email address. Otherwise, you can sign in with your GSA Google account. Make sure to [set up two-factor authentication](https://trello.com/2fa).
 
-To get access to the 18F Trello board, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello).
+### Requesting access
+
+To get access to the 18F Trello team, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite my Trello account "YOUR_USERNAME" to Trello at https://trello.com/18f3/members." ***NOTE: If you don't have a Trello account, feel free to ask us to invite your GSA e-mail address to create one.***
 
 There is no 18F-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
 
 ## Rules
 
-**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
+**Abide by [the TTS Code of Conduct](/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
 
 ## Usage
 
@@ -32,7 +36,7 @@ People use Trello to track ideas from conception through execution. It's common 
 
 - Doing prioritization within a labeled set of cards (an epic)? Use the filter (keyboard shortcut 'F') to show just that label, then sort cards, then turn the filter back off.
 
-- Are there GitHub issues or pull-requests associated with the work you're doing for certain cards? Check out the [GitHub power-up](http://blog.trello.com/github-and-trello-integrate-your-commits/) in Trello's (paid) Business Class plan. It allows you to "attach" Issues, PRs, and Commits to a card. Summarized details from the GitHub side will be surfaced on the Trello card. (Sadly, there is no way to map GitHub issues and status directly to Trello cards and vice-versa. (You might prefer [waffle.io](https://waffle.io/) if that's what you're after.)
+- Are there GitHub issues or pull-requests associated with the work you're doing for certain cards? Check out the [GitHub power-up](http://blog.trello.com/github-and-trello-integrate-your-commits/) in Trello's (paid) Business Class plan. It allows you to "attach" Issues, PRs, and Commits to a card. Summarized details from the GitHub side will be surfaced on the Trello card. (Sadly, there is no way to map GitHub issues and status directly to Trello cards and vice-versa. (You might prefer [waffle.io]({{ site.baseurl }}/waffle) if that's what you're after.)
 
 - Looking for feedback on card priority? [Turn on the card-voting power-up](http://help.trello.com/article/788-voting-on-cards) and set the voting permissions appropriately (eg to allow non-members to vote on a public-facing roadmap board). Note that there's no easy way to clear votes, so only use this for collecting long-lived data, eg votes on items in your backlog. Also sadly, there's no way to sort by votes; you have to do that by hand.
 

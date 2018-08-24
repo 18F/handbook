@@ -4,7 +4,7 @@ title: Engineering
 
 18F Engineering is responsible for delivering high quality, robust, open source software. We also evangelize best practices relating to software testing, scalability, operations, security, and agile development.
 
-Collectively, we’re experienced in a wide variety of technologies including Python, Ruby, server and client-side JavaScript, Go, C, relational and schema-less databases, ETL pipelines, version control, testing frameworks, machine learning, and more. See the skill tags for [everyone in Float](https://18f.float.com/people).
+Collectively, we’re experienced in a wide variety of technologies including Python, Ruby, server and client-side JavaScript, Go, C, relational and schema-less databases, ETL pipelines, version control, testing frameworks, machine learning, and more.
 
 ### Documentation
 
@@ -20,12 +20,9 @@ If you have any questions, find us on Slack in [#dev](https://gsa-tts.slack.com/
 
 Welcome to the 18F Engineering team — we’re happy you’re here! We’ve compiled tips to help you get started. We’ll update this guide as we receive feedback, so don’t be shy to share your thoughts.
 
-## <a id="checklist">Checklist</a>
+## First week
 
-Follow the [Engineering checklist](https://github.com/18F/onboarding-documents/blob/master/Checklists/team-based-checklists/dev-new-hire-checklist.md) during your first week.
-
-Please note that you might not have much assigned work during your first few weeks here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the Engineering team has a long list of internal projects that aren’t funded but that will help us work better together. Talk to your faciltator (more on that below) to learn more.
-
+You might not have much assigned work during your first few weeks here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the Engineering team has a long list of internal projects that aren’t funded but that will help us work better together. Talk to your faciltator (more on that below) to learn more.
 
 ## Who we are
 
@@ -48,25 +45,25 @@ Facilitator teams occasionally meet to:
 
 ### Facilitators
 
-The Facilitators assist the Supervisors in the supervision of a smaller set of engineers (3-8). For an individual engineer, their Facilitator is the member of the engineering leadership team that they form the closest relationship with, and meets with them regularly 1-on-1. The Facilitator acts as an on-boarding buddy for new engineers. Facilitators run regular [team meetings](https://docs.google.com/document/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit) for their engineers to build community and support outside the context of project work. Facilitators act as advocates for their engineers, passing questions and concerns up the leadership chain as necessary and communicating upcoming changes to their facilitation groups. They participate in and contribute to the mid-year and end of year performance evaluations, though the Supervisor is ultimately resonsible for them. Facilitators work together with Supervisors to ensure that the engineers are succeeding, growing, and producing quality work, and that the chapter has a positive and inclusive culture.
+The Facilitators assist the Supervisors in the supervision of a smaller set of engineers (3-8). For an individual engineer, their Facilitator is the member of the engineering leadership team that they form the closest relationship with, and meets with them regularly 1-on-1. The Facilitator acts as an on-boarding buddy for new engineers. Facilitators run regular [team meetings](https://docs.google.com/document/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit) for their engineers to build community and support outside the context of project work. Facilitators act as advocates for their engineers, passing questions and concerns up the leadership chain as necessary and communicating upcoming changes to their facilitation groups. They participate in and contribute to the mid-year and end of year performance evaluations, though the Supervisor is ultimately responsible for them. Facilitators work together with Supervisors to ensure that the engineers are succeeding, growing, and producing quality work, and that the chapter has a positive and inclusive culture.
 
-Facilitators are selected through nominations and interviews according to team needs. While there is no additional compensation for being a facilitator, it’s an opportunity to help make team members’ time at 18F great. [The facilitator checklist](https://github.com/18F/onboarding-documents/blob/master/Checklists/engineering-facilitator-checklist.md) is useful for facilitators who have a new employee coming on board their team.
+Facilitators are selected through nominations and interviews according to team needs. While there is no additional compensation for being a facilitator, it’s an opportunity to help make team members’ time at 18F great. Reach out to the Onboarding Lead, Keith Wilson, for the facilitator checklist.
 
 ### Supervisors
 
-The Engineering Supervisors are responsible for the direct supervision of a set of engineers. Duties include hiring, on-boarding, project staffing, mentoring, training, supervision, and off-boarding of those engineers. Supervisors conduct the mid-year and end of year performance evaluations for the engineers reporting to them, with help from the Facilitators. Supervisors do other HR functions such as approving SF-182s, telework agreements, ALOHA requests, and the like. Supervisors delegate some duties to the Facilitators, but remain ultimately responsible for the engineers reporting to them. Supervisors work together with Facilitators to ensure that the engineers are succeeding, growing, and producing quality work, and that the chapter has a positive and inclusive culture.
+The Engineering Supervisors are responsible for the direct supervision of a set of engineers. Duties include hiring, on-boarding, project staffing, mentoring, training, supervision, and off-boarding of those engineers. Supervisors conduct the mid-year and end of year performance evaluations for the engineers reporting to them, with help from the Facilitators. Supervisors do other HR functions such as approving SF-182s, telework agreements, [HR Links](https://corporateapps.gsa.gov/hr-links/) requests, and the like. Supervisors delegate some duties to the Facilitators, but remain ultimately responsible for the engineers reporting to them. Supervisors work together with Facilitators to ensure that the engineers are succeeding, growing, and producing quality work, and that the chapter has a positive and inclusive culture.
 
 Supervisors are selected through nominations and interviews according to team needs. While there is no additional compensation for being a supervisor, it’s an opportunity to help make team members’ time at 18F great.
 
 ### Director
 
-The Director of Engineering is Holly Allen, and she is responsible for the Engineering Chapter. The Director represents the chapter on the Senior Management Team of 18F, is responsible for the strategic planning of the chapter including hiring approach, capacity planning, and expanding the impact of the chapter and engineers’ work. The Director guides the work of the Functional Leads (backend, frontend, ops, security, diversity) to ensure alignment with strategy and each other. The Director has as direct reports the Engineering Supervisors, and acts as mentor, coach, and guide to their work. The Director is ultimately responsible for the success of the chapter in the context of the 18F mission and organizational priorities.
+The Director of Engineering is responsible for the Engineering Chapter. The Director represents the chapter on the Senior Management Team of 18F, is responsible for the strategic planning of the chapter including hiring approach, capacity planning, and expanding the impact of the chapter and engineers’ work. The Director guides the work of the Functional Leads (backend, frontend, ops, security, diversity) to ensure alignment with strategy and each other. The Director has as direct reports the Engineering Supervisors, and acts as mentor, coach, and guide to their work. The Director is ultimately responsible for the success of the chapter in the context of the 18F mission and organizational priorities.
 
 The Director was selected through nominations and interviews. While there is no additional compensation for being a director, it’s an opportunity to help make team members’ time at 18F great.
 
 ### Functional Leads
 
-Engineering also has five functional leads: backend, frontend, devops, security, and diversity. Collectively and separately they work to make our engineering practice better by improving documentation, project oversight, training, hiring, onboarding, and making us a diverse and inclusive organization.
+Engineering also has six functional leads: backend, frontend, devops, data, security, and diversity. Collectively and separately they work to make our engineering practice better by improving documentation, project oversight, training, hiring, onboarding, and making us a diverse and inclusive organization.
 
 ### Leadership and facilitators
 
@@ -76,9 +73,9 @@ See [the org chart](/org-chart).
 
 ### What is expected of me regarding time tracking and how I spend my time?
 
-The default template for 18F engineers is to be committed to a single project full-time, which means 32 hours a week. If you'd like a different arragement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
+The default template for 18F engineers is to be committed to a single project full-time, which means 32 hours a week. If you'd like a different arrangement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
 
-Your project commitments should be captured in [Float](/float/). On a typical week the number of hours you work on your project will match what is marked in Float. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
+Your project commitments should be captured by the [#staffing-resourcing](https://gsa-tts.slack.com/messages/staffing-resourcing/) team. On a typical week the number of hours you work on your project will match what is marked in Float. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
 
 All 18F staff track their time in [Tock](https://tock.18f.gov/). Learn more in the [Tock guide](/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
 
@@ -88,7 +85,6 @@ Your facilitator is responsible for making sure you have the right amount and ki
 
 - Review projects in the [staffing-and-resources repository](https://github.com/18F/staffing-and-resources/issues). The issue threads will have lots of extraneous information, but look for issues tagged with the Engineering chapter. If you find a project you're interested in, comment on the issue or talk to your facilitator.
 - Look out for Project Q&A invites in your inbox and on the 18F Events calendar. These sessions get together product/engagement leads from projects in need of engineers. They will give you some information on the project and a chance to ask questions.
-- Watch the #eng-projects channel in Slack.
 - Talk to your facilitator.
 
 ### How can I become an interviewer or resume reviewer?
@@ -146,7 +142,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### Everything else
 
-[#bdd](https://gsa-tts.slack.com/messages/bdd), [#eng-projects](https://gsa-tts.slack.com/messages/eng-projects).
+[#bdd](https://gsa-tts.slack.com/messages/bdd).
 
 ## Mailing lists
 

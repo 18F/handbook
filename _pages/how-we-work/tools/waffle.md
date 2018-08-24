@@ -2,6 +2,8 @@
 title: Waffle
 ---
 
+**Waffle is not approved for use at TTS. You can use Waffle only if it has been granted an ATO (Authority to Operate) from the project's partner agency.**
+
 Some teams use Waffle to plan, track, and organize work on GitHub.
 
 ## Setup

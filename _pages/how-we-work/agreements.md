@@ -11,20 +11,25 @@ title: Agreements
 - _IAA_ is our shorthand for using the Treasury Department&rsquo;s standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
 - An MOU is a single document to record work done by 18F for OCSIT. Since 18F is part of OCSIT, this agreement is between 18F/OCSIT and the GSA-CFO to allow the transfer of funds from the OCSIT appropriation to 18F for work to be done. Team Ops provides a [template](https://drive.google.com/open?id=1WiUb-FiM93UNFSvL_TgtcGog7m5BGlutI1SWMFyQOJg) for your use.
 
-Under no circumstances does 18F do work without a signed, executed agreement in place. If you have a question about the existence of an agreement or whether work can begin, ask in [#iaa](https://gsa-tts.slack.com/archives/iaa).
+## Policies
+
+### TTS Policy for Beginning Billable Work
+18F does not work without a signed, executed agreement in place. Please review the [TTS Policy for Beginning Billable Work](https://docs.google.com/document/d/1q010J_VAQb9w1djbgnDsZ8p43ZB_qZUH3_hlOkeoL8Q) to see the full policy.
+
+### TTS Policy and Process for GSA Chief Information Officer FITARA Review
+18F complies with FITARA and follow the [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1sO8cE3eyTclOkwnxNTMG5dg2qhP3AmJesGobM1m_LQw/edit).
 
 For more information about how we do business, see our [account management policy](/client-accounts/).
-
 
 ## What are the contents of an IAA?
 
 An IAA is made up of:
 
-- [7600A General Terms and Conditions](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/forms/IAA-general-terms-condition-ver6-09-23-11.pdf): This form records an estimated amount and agreement period. Neither the amount nor the agreement period may be exceeded by the cumulative 7600Bs issued under the 7600A. However, this amount and period are merely estimates.
+- [7600A General Terms and Conditions](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/forms/Form_7600A.pdf): This form records an estimated amount and agreement period. Neither the amount nor the agreement period may be exceeded by the cumulative 7600Bs issued under the 7600A. However, this amount and period are merely estimates.
 
 - [18F standard terms](https://pages.18f.gov/iaa-forms/attachment-a.html): This document is attached to all 7600As. It contains multiple provisions, with the two most important being our commitment to open source work and our communication clause informing clients that we may blog about them.
 
-- [7600B Order Requirements and Funding Information](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/forms/IAA-Order-7600B-10-10-12-update.pdf): This form records the actual amount obligated<sup>1</sup> in the agreement by the client agency and a period of performance for the specific project. The funding information for each agency is recorded, including the expiration of the funding appropriation. This information is vital to ensuring the agreement meets applicable appropriations laws. There can be multiple 7600Bs under a 7600A, but the total cost of the 7600Bs cannot exceed the estimated amount on the 7600A, nor can the period of performance exceed the end date in the 7600A.
+- [7600B Order Requirements and Funding Information](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/forms/Form_7600B.pdf): This form records the actual amount obligated<sup>1</sup> in the agreement by the client agency and a period of performance for the specific project. The funding information for each agency is recorded, including the expiration of the funding appropriation. This information is vital to ensuring the agreement meets applicable appropriations laws. There can be multiple 7600Bs under a 7600A, but the total cost of the 7600Bs cannot exceed the estimated amount on the 7600A, nor can the period of performance exceed the end date in the 7600A.
 
 - [Statement of Work](https://docs.google.com/document/d/1pbJMDmFBFYKs1sU05jrxWFySpeKjbRNdfk32RY3ub70/edit) (SOW): This document is an attachment to the 7600B and describes the need of the client for 18F's services and the actual deliverables that will be provided by 18F. These deliverables are specific while adhering to agile principles. Team Ops has multiple templates drafted for use by product leads.
 
@@ -49,7 +54,7 @@ The information below provides more detail than we typically give clients. Team 
 
 ### Kickoff
 
-1. The project lead submits the [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/13--i0fRhgSgP9sRVkn7RvPN0Lrbwvg4cpMOctN3Ygrc/viewform), which includes a link to the [cost estimate](https://drive.google.com/open?id=0BwzPQaT19ZdofjhPRGRhLW1BWGNQc1kzTHhZbDA2YW15UzhMd05jWDYxdEtob18yTEJkbTQ), period of performance, statement of work (if drafted), and basic client data.
+1. The project lead submits the [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdRQerRDxl4hPX_zTQJcY9fR9i0z3LI3dLQiKE0uyJ5fF666g/viewform), which includes a link to the [cost estimate](https://drive.google.com/open?id=0BwzPQaT19ZdofjhPRGRhLW1BWGNQc1kzTHhZbDA2YW15UzhMd05jWDYxdEtob18yTEJkbTQ), period of performance, statement of work (if drafted), and basic client data.
 1. Team Ops receives the form and:
  - Creates a file folder with all appropriate templates
  - Emails the folder to the project lead
@@ -82,7 +87,7 @@ The information below provides more detail than we typically give clients. Team 
 
 ### Internal Signature
 
-1. Team Ops obtains the TTS Commissioner's signature.
+1. Team Ops obtains the [TTS](http://www.gsa.gov/portal/category/25729) Commissioner's signature.
 1. Team Ops obtains the GSA CFO signature.
 
 ### Loading

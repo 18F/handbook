@@ -3,29 +3,25 @@ title: Equipment
 slack-channel: equipment
 ---
 
-GSA issues every 18F employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Ops Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
+GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Ops Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
 
 ## Badge
 
 Your GSA badge, also known as a PIV card, allows you to get in and out of GSA buildings and avoid security lines.
 
-Although some of our employees are based out of a specific office, your badge can be permissioned for multiple GSA buildings. [Kathryn Connolly](https://gsa-tts.slack.com/messages/@kathryn/) can submit paperwork to start this process, which usually takes a few days. After you receive an email confirmation, you'll need to visit the security office in each new building to activate your card.
+Although some of our employees are based out of a specific office, your badge can be permissioned for multiple GSA buildings. Email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to start this process, which usually takes a few days. After you receive an email confirmation, you'll need to visit the security office in each new building to activate your card.
 
-GSA processes new badges every Wednesday. When your badge is ready, you’ll receive an email (in both your personal and GSA emails) from `HSPD12Admin@usaccess.gsa.gov` containing four steps. Please skip to step four, which details how to schedule an appointment and pick up your badge, and bring the password in step three. To check on the status of your GSA badge, you can email [accesscard@gsa.gov](mailto:accesscard@gsa.gov).
+GSA processes new badges every Wednesday. When your badge is ready, you’ll receive an email (in both your personal and GSA emails) from `HSPD12Admin@usaccess.gsa.gov` containing four steps. Please skip to step four, which details how to schedule an appointment and pick up your badge, and bring the password in step three. To check on the status of your GSA badge, you can email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov).
 
 ### Distributed employees
 
-Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [accesscard@gsa.gov](mailto:accesscard@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
+Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
 
 ## Laptop
 
-All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA.
+TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA.
 
-### <a id="laptop">Rules</a>
-
-**Install [Managed Software Center](/managed-software-center/).** This is how we'll send you software updates, optional software titles, and Apple updates that won't break your system.
-
-**Install [ClamXav](/clamxav)** immediately. This software will be **automatically** pushed to your system by the Managed Software Center, so you **must** complete that installation first. This is your antivirus software.
+### Rules
 
 **[Require a password](http://support.apple.com/kb/PH18669?viewlocale=en_US)** when your computer goes to sleep or shows a screensaver.
 
@@ -35,11 +31,17 @@ All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this i
 
 **Check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790).** GSA IT sets up your laptop with FileVault encryption. You won't need to (and shouldn't) change this, but you can check it in your System Preferences just to see that it's there and properly set up.
 
-**Encrypt all portable media that will connect to any 18F system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
+**Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
+
+**Browser extensions need to be pre-approved.** See [the Chrome page on InSite](https://insite.gsa.gov/portal/content/638102) for more information.
+
+### Tips
+
+- Run the [shell script](https://github.com/18F/laptop) which will turn your Mac into an awesome web development machine.
 
 ## Phone
 
-All 18F employees are issued an Apple iPhone. The Ops Team will already have submitted a request to GSA IT for your work phone before you join 18F. Within a few weeks of starting at 18F, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact [Shawnique Muller](mailto:shawnique.muller@gsa.gov) when you receive this email and she'll have your phone mailed to you.
+TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have submitted a request to GSA IT for your work phone before you join TTS. Within a few weeks of starting at TTS, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
 
 ### Rules
 
@@ -47,7 +49,7 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 
 - **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
 
-- **After GSA IT provisions your phone, set up two-factor verifications.** Email <mailto:accesscard@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for two-factor authentication in our [Slack](/slack), [GitHub](/github), and [Gmail](/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
+- **After GSA IT provisions your phone, set up two-factor verifications.** Email <mailto:hspd12.security@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for two-factor authentication in our [Slack](/slack), [GitHub](/github), and [Gmail](/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
 ### Tips
 
@@ -58,32 +60,37 @@ All 18F employees are issued an Apple iPhone. The Ops Team will already have sub
 - To reduce waste, GSA IT will [disable mobile service for inactive accounts](https://insite.gsa.gov/portal/content/663074). The consumed minutes is the metric used to determine activity, so if you only use the phone for data, you'll still need to make an occasional call on your mobile phone to prevent the account from going inactive.
 - If you need help with your phone, call the GSA IT Help Desk at 1-866-450-5250.
 
-## Business cards
+## Software
 
-Different 18F team members have different solutions for business cards. At this time, you must purchase your own business cards if you want 18F branding.
+See the [software](../software/) page.
 
-You can request [GSA business cards](https://cap.18f.gov/gsa18f/procurements/new), which are free and don't reflect 18F's branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card. If you're using C2 for the first time, you have to request permission to post a request in #c24ops even though you can log in with cloud.gov (you will not see a create request link until approved).
+## Mice, keyboards, and trackpads
 
-## Requests
+If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. If you do need to request equipment, the procedure varies by office.
 
-Ops is testing [C2](https://cap.18f.gov) for requesting office supplies, computer hardware, approved software, trainings, and other items under $3,500.
+#### DC or remote
+
+Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the TTS Business Operations Team will reach out to you.
+
+Use [C2](https://requests.18f.gov) for requesting office supplies, computer hardware, trainings, and other items under $3,500.
 
 To make a request:
 
-1. Check [the list of 18F's purchased software](https://docs.google.com/spreadsheets/d/14hEWuhlhKi-EbAFUcy1tuoEejl-7DNiBTI57ZbIQF9w/edit?ts=5727c8ba#gid=0) to see if we have accounts/licenses already.
-    1. If yes, reach out to the person/team listed for that item to get access. You/they may need to come back here to request more seats.
-    1. If no, keep going!
-1. Open [cap.18f.gov](https://cap.18f.gov/).
-1. Click **Sign in with MyUSA** to connect with Google.
-1. Scroll down and click **Allow**.
+1. Open [requests.18f.gov](https://requests.18f.gov/).
+1. Click **Sign in with Cloud.gov** to log in.
 1. Once you’re logged in, click **New 18F request** to create and submit your request. If you don't see this link, it's possible that you haven't been set up as a member of 18F yet. Post a request in #c24ops for access or if you have any questions about how to use C2.
 1. After submitting your request, it will be reviewed by the Director of Operations. The Director of Operations must approve all requests before they are purchased.
 1. After your request is approved, it will typically be purchased by a purchase card holder on the operations team. Do not purchase yourself unless you are instructed to do so by a member of the operations team.
 
-If you're requesting software that no one else at 18F uses yet, be sure you have written approval from [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. If it's software that runs directly on your laptop, speak with [Kimber Dowsett](https://gsa-tts.slack.com/messages/@kimber). Ops will not approve software without Infrastructure clearance.
-
 If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
+#### Chicago
+
+Reach out to Ethan Heppner or Ryan Thurlwell via email or Slack, they will assist you within one business day.
+
+#### San Francisco
+
+TBD
 
 ## Equipment to accommodate disability
 
@@ -92,77 +99,40 @@ GSA provides equipment to accommodate an injury or disability under these condit
 - You have supporting medical documentation for the need for a certain piece of equipment.
 - You only need the equipment to do your work.
 
-To purchase this type of equipment, go to <https://cap.18f.gov/> and attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment).
+To purchase this type of equipment, go to <https://requests.18f.gov/> and attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov).
 
 ## Repairs
 
-If 18F-issued equipment fails due to manufacturer defects or accidental damage:
+If TTS-issued equipment fails due to manufacturer defects or accidental damage:
 
-- 18F will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all 18F-issued hardware and peripherals.
-- Employees are responsible for informing Team Ops in [#equipment](https://gsa-tts.slack.com/messages/equipment) of the damage or need for repair by the close of business one business day following the damage.
-- If either your laptop or your phone is in need of repair, please go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (18F will pay for the repairs), or ship it back to 18F (we'll ship you a new laptop).
-- If you need to take your laptop to the Apple Store, you can check to see if it's under warranty with the hardware serial number [here](https://checkcoverage.apple.com/). If it is not under warranty, Team Ops will walk you through how to take care of the cost for repair. 
+- TTS will cover the full cost of repairs or replacement of the device, regardless of the warranty status of the device. This applies to all TTS-issued hardware and peripherals.
+
+- Employees are responsible for informing Team Ops in [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov) of the damage or need for repair by the close of business one business day following the damage.
+- If either your laptop or your phone is in need of repair, please go to [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov) for advice. They will likely either ask you to take it to an Apple Store (TTS will pay for the repairs), or ship it back to the DC or Chicago offices-- the TTS Business Operations team will ship you a new laptop.
+
+- If you need to take your laptop to the Apple Store, you can check to see if it's under warranty with the hardware serial number [here](https://checkcoverage.apple.com/). If it is not under warranty, Team Ops will walk you through how to take care of the cost for repair.
 - If you need to leave your laptop for repairs at the Apple Store, double check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790). As a reminder, GSA IT sets up your laptop with FileVault encryption. You can check it in your System Preferences to see that it's there and properly set up.
 
 ## <a id="stolen-or-lost">Lost or stolen equipment</a>
 
-If 18F issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert 18F in [#equipment](https://gsa-tts.slack.com/messages/equipment):
+If TTS-issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert TTS in [#equipment](https://gsa-tts.slack.com/messages/equipment):
 
 1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
 2. Call 911 or a local police station when you suspect theft has occurred.
 3. Get and keep a copy of the police report in case you have to provide it to the Federal Protective Service (FPS) or your regional Information Systems Security Officer (ISSO). Provide as much information as possible.
-4. Call the IT Service Desk at 1-866-450-5250. An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop. Alternatively, you can report a lost or stolen item via [GSA Service Desk](https://gsa.service-now.com/). 
+4. Call the IT Service Desk at 1-866-450-5250. An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop. Alternatively, you can report a lost or stolen item via [GSA Service Desk](https://gsa.service-now.com/).
 5. Call your FPS using contact information provided in the link.
 6. Contact your regional ISSO using contact information provided in the link.
+7. If your equipment is returned to you, it may have been tampered with and should not be used. Return the equipment to GSA IT so they can inspect it, and if necessary, re-image it.
 
-18F will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [accesscard@gsa.gov](mailto:accesscard@gsa.gov)
+TTS will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov)
 
 ## Requirements for passwords
 
-As you set up your 18F accounts and devices, we have three requirements for making passwords that reduce security risks: use a password manager, use unique passwords, and use stronger passwords.
-
-### 1. Use a password manager
-
-There's a secret to dealing with passwords: use a password manager to store your passwords. This way, you only need to memorize a few strong passwords: your master password for the password manager, your laptop password and phone passcode, and maybe a few others (such as your iCloud password if that's [your recovery method for forgetting your laptop password](/equipment/#laptop)).
-
-[**1Password**](https://1password.com/) and [**KeePassX**](https://www.keepassx.org/) are password managers approved for work at 18F. You can get a license for 1Password by asking [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov). KeePassX is free.
-
-You can use iCloud or Dropbox or manual syncing to keep your 1Password or KeePassX synced across multiple work devices (work laptop to work phone, for example), as you're just transferring encrypted information around. Do not store the password in iCloud. iCloud Keychain isn't approved for work-related passwords or other sensitive government information.
-
-You can use your password manager to generate a random unique password for each service you use. In [**1Password**, use these instructions](https://support.1password.com/guides/mac/generate-a-strong-password.html). OS X also has a local password generator: in the **Keychain Access** app, view the suggestions under **File > New Password Item > key icon**.
-
-You can use your password manager to store answers to security questions. Instead of setting up real answers (which could be guessable by somebody with information about you), consider setting up random nonsense answers and storing those answers in your password manager.
-
-### 2. Use unique passwords
-
-Here's an interesting comparison of non-expert and expert security practices, from [a study done by Google](http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html):
-
-<img src="{{ site.baseurl }}/images/equipment/1.png" alt="secure password tips" />
-
-Note the second point: the experts considered unique passwords even more important than strong/complex passwords. If hackers dump the password database from one service, you don't want them to be able to use that password to access your accounts on other services.
-
-To limit this risk, use new passwords for work services instead of reusing any passwords from your personal life (don't use your Amazon password as your ENT password). Also use a unique password for each service you use (don't use the same password for Slack and ENT).
-
-### 3. Use strong passwords
-
-Even if you use a password manager, you'll still need to memorize a few unique passwords, such as the master password for your password manager.
-
-This opens up a few risks: A person could try to guess your password based on information about you, or a computer program could try to find your password by "brute forcing" it (making a zillion guesses based on common types and patterns of passwords). To limit these risks:
-
-- Use passwords that are hard to guess even for people who know you -- not your birthday, university, pet's name, favorite TV show, or similar.
-- Use passwords that probably nobody else uses. For some interesting examples of common passwords, check out [this list](https://web.archive.org/web/20151005001104/http://stricture-group.com/files/adobe-top100.txt) based on a real Adobe account dump; you can see dictionary words, names of favorite people/pets/characters/teams, words related to the service, and simple patterns of numbers and letters.
-- Use longer passwords rather than shorter passwords, since that makes "brute forcing" harder.
-
-[This XKCD comic](https://xkcd.com/936/) explains a common password pattern and one strategy for making stronger passwords:
-
-<img src="http://imgs.xkcd.com/comics/password_strength.png" alt="password strength comic from XKCD" />
-
-In other words, you could use a series of random words, plus a few numbers, capital letters, or symbols, if you like.
-
-Or try thinking of a sentence or line from a book, song, speech, poem, or other memorable source, then build a many-character password using the first letter of each word, with some capitalization, numbers, and symbols thrown in. Or just use the whole line or sentence as your password! (You'd need to pick a phrase that nobody would guess based on knowing you.)
+Read the guide on [setting and managing passwords](../password-requirements/).
 
 ---
 
 #### Still have questions?
 
-Ask in Slack: [#equipment](https://gsa-tts.slack.com/messages/equipment) or [#teamops](https://gsa-tts.slack.com/messages/teamops)
+Ask in Slack: [#equipment](https://gsa-tts.slack.com/messages/equipment), [#teamops](https://gsa-tts.slack.com/messages/teamops), or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov)

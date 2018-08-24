@@ -16,17 +16,16 @@ The following calendars are used for internal communication:
 * [18F Classes](https://calendar.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com): New hire and skill-bases training sessions.
 * 18F Interviews: New hire interviews.
 * [18F Out of office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com): Out-of-office and vacation notices.
-* [18F Working Groups](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com): Meetings and other events pertaining to working groups and guilds.
+* [TTS Guilds and Working Groups](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com): Meetings and other events pertaining to working groups and guilds.
 
 You can add the above calendars to your Google calendar by clicking on the link to launch the HTML view and then clicking on `+Google Calendar` on the bottom right of the screen.
 
-In addition to <em>officially</em> requesting time off in <a href="/gsa-tools-equipment-and-transit#aloha">ALOHA</a>, please also add an event on the Google calendar "18F Out of Office" and invite yourself, so we all know when you’re gone.
+In addition to <em>officially</em> requesting time off in <a href="/gsa-internal-tools/#hr-links">HR Links</a>, please also add an event on the Google calendar "18F Out of Office" and invite yourself, so we all know when you’re gone.
 
 ## Tips
 
 - To add a video call to your calendar invite: create an event, click **Edit event**, and under **Video call** click **Add video call**. Google gives the call a default name, but you can click **Change name** to customize it. Then click **Save**. ([Demonstration.]({{ site.baseurl }}/images/google-calendar/2.gif))
 - To automatically find a time when everyone is available: create an event, add everyone who needs to attend as a guest, and click **Suggested times**. ([Demonstration.]({{ site.baseurl }}/images/google-calendar/3.gif))
-- People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-time surveys. If you're flexible on when you want your meeting to start, it's a great idea to send out a Doodle and poll attendees on what times work for them.
 - Remember to copy out of office (OOO) calendar items to your own calendar so that meeting planning tools pick them up.
 - You can't share calendars with anyone outside GSA. You can share individual invites, just not whole calendars.
 
@@ -49,12 +48,6 @@ To change the default calendar view so you only see your working hours:
 
 1. In the Settings menu, click **Settings**.
 2. Under **Labs > Hide morning and night**, click **Enable**.
-3. Click **Save**.
-
-### Automatically decline meetings when you're busy
-
-1. In the Settings menu, click **Settings**.
-2. Under **Labs > Automatically declining events**, click **Enable**.
 3. Click **Save**.
 
 ### Change the default event duration

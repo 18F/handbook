@@ -9,7 +9,7 @@ The Design team at 18F includes content, user experience, front end, and visual 
 - **Research.** We help people to identify, target, and solicit feedback from real users, stakeholders, subject-matter experts, etc.
 - **Content strategy.** We help people clarify their tone and voice, and explore the breadth and depth of their content.
 - **Information architecture.** We help people state their intent and disclose information in an intuitive way.
-- **Interaction design and front end development.** We work with people to wireframe and prototype simple, beautiful, usable, interactions.
+- **Interaction design and front end development.** We work with people to wireframe and prototype simple, beautiful, usable interactions.
 - **Visual design.** We help people more clearly communicate through visualizations and illustrations as well as solid graphic design knowhow.
 
 ## <a id="documentation">Documentation</a>
@@ -20,6 +20,7 @@ The Design team at 18F includes content, user experience, front end, and visual 
 - [18F Content Guide](https://pages.18f.gov/content-guide/)
 - [18F Frontend Style Guide](https://pages.18f.gov/frontend/)
 - [Design method cards](https://methods.18f.gov/)
+- [Design wiki](https://github.com/18F/Design-Wiki)
 
 ### <a id="suggested-reading">Suggested reading</a>
 
@@ -48,13 +49,9 @@ Find us in Slack:
 
 Welcome to the 18F Design team — we’re happy you’re here! We’ve compiled a set of helpful tips to get you started. We’ll update this guide as we receive feedback, so don’t be shy to share your thoughts.
 
+## First week
 
-## <a id="checklist">Checklist</a>
-
-[Here&rsquo;s the list](https://github.com/18F/onboarding-documents/blob/master/Checklists/team-based-checklists/design-new-hire-checklist.md) of things to do during your first week on the Design team.
-
-Please note that you might not have much assigned work during your first week here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the design team has a long list of internal projects that aren’t funded but that will help us all work better together. Talk to your design lead (more on that, below) to get more information about these internal projects and how you can get involved.
-
+You might not have much assigned work during your first week here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the design team has a long list of internal projects that aren’t funded but that will help us all work better together. Talk to your design lead (more on that, below) to get more information about these internal projects and how you can get involved.
 
 ## <a id="who-we-are">Who we are</a>
 
@@ -106,19 +103,19 @@ See [the org chart](/org-chart).
 
 Most of the design team works on a mix of partner-agency projects and internal initiatives. As you’d guess, everyone’s weeks look a little different. That said, there are recurring weekly meetings and commitments we all have on our calendars.
 
-- **Mondays:** one-hour design team huddle. Each Monday at 2:30 pm ET (11:30 am PT), the whole team meets to discuss project status, policy updates, and general design-specific news. Our huddles typically follow the same format: the Director of Design will start off with general announcements and a reminder about completing timesheets. Afterward, team members give quick updates on how projects are going. This is optional — if nothing much changed on the project in the last week, you don't have to say anything. You don’t need to request to be added to the design huddle agenda — if you’re starting a new grouplet, seeking research volunteers, and so on, you can make your pitch or request when it’s your turn to share. That said, if you have a larger request (or one that might be in some way contentious), ping the Director of Design first.
+- **Mondays:** every other week for 45 minutes at 3pm ET (12:00pm PT) design team huddle. The whole team meets to discuss project status, policy updates, and general design-specific news. Our huddles typically follow the same format: the Director of Design will start off with general announcements and a reminder about completing timesheets.The rest of the huddle features a presentation or conversation about a topic of current interest to the team. Past topics have included: how other chapters work, our collaborative work practices, and recent organizational changes within 18F or TTS.
 - **Tuesdays:** 18F all hands meeting. Every Tuesday at 12:30 p.m. ET (9:30 a.m. PT), the entire 18F team meets to cover product launches, introductions of new team members, projects we’ve just taken on, policy changes, and other broadly applicable news. Please talk to your Design lead if you’d like to be added to the all-hands agenda. If the topic you’d like to discuss is of interest only to the Design team, consider sharing it at the weekly Design huddle rather than the all-hands meeting.
 - **Once a week:** meet with your lead. Once a week, you’ll have a short check-in with your Design lead at a time that’s convenient for both of you. The purpose of this meeting is both administrative and personal. It’s how the team leadership keeps on top of project timelines and activities to coordinate resourcing. It’s also a time to talk through any project concerns, figure out how to wrangle the federal bureaucracy, and talk about how to make 18F work better for you.
-
 - **Once a week:** meet with your critique group. Once a week, you’ll meet with your three- or four-person critique group to talk about creative questions and share work. Critique teams decide internally how often and how long they want to meet.
 
 ### <a id="communication-channels">Communication channels</a>
 
 - **Slack channels:**
-    - [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding), [#design](https://gsa-tts.slack.com/messages/design), [#frontend](https://gsa-tts.slack.com/messages/frontend), [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility), [#g-content](https://gsa-tts.slack.com/messages/g-content), [#gov-design-guild](https://gsa-tts.slack.com/messages/gov-design-guild), [#research](https://gsa-tts.slack.com/messages/research), [#sketch-tips](https://gsa-tts.slack.com/messages/sketch-tips).
+    - [#design](https://gsa-tts.slack.com/messages/design), [#frontend](https://gsa-tts.slack.com/messages/frontend), [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility), [#g-content](https://gsa-tts.slack.com/messages/g-content), [#gov-design-guild](https://gsa-tts.slack.com/messages/gov-design-guild), [#research](https://gsa-tts.slack.com/messages/research),
+    [#visual-design](https://gsa-tts.slack.com/messages/visual-design), [#sketch-tips](https://gsa-tts.slack.com/messages/sketch-tips).
     - Some of us participate in our personal capacities in [a non-18F-sponsored Slack channel to discuss user research for government around the world](https://gds.blog.gov.uk/2015/08/04/user-research-for-government-around-the-world/). It’s managed by [Leisa Reichelt](http://www.disambiguity.com/about-me/), and you can request access by emailing her from your GSA email. When you get access, however, please make sure the email address on that Slack account is a personal address, so that it’s clear you are not joining in an official capacity.
 - **Mailing lists**
-  - 18F-design@gsa.gov contains information relevant to visual and UX designers, content designers and strategists, researchers and other designy folk. You’ll most likely get added automatically — no need to worry about registering.
+  - 18F-xd@gsa.gov contains information relevant to visual and UX designers, content designers and strategists, researchers and other designy folk. Your supervisor is responsible for adding you to this list — no need to worry about registering.
   - Other mailing lists are listed [here](/general-contacts-and-listservs/#listservs).
 
 ### <a id="tools">Tools</a>
@@ -129,11 +126,13 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Drawing lines on a screen
 
-- **Adobe Creative Cloud:** email <mailto:18fsoftware@gsa.gov> for a license. CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **InVision:** For prototyping. For a license, email <mailto:18fsoftware@gsa.gov>.
-- **OmniGraffle:** For a license, email <mailto:18fsoftware@gsa.gov>. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **Sketch:** For a license, email <mailto:18fsoftware@gsa.gov>. You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
-- **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero).
+- **Adobe Creative Cloud:** CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
+- **InVision:** For prototyping.
+- **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
+- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
+- **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero). No license needed.
+
+Unless otherwise specified, see [Software](../software/#provisioning) to get a license for any of these.
 
 #### Project management
 
@@ -141,8 +140,9 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Research
 
-- **Ethnio:** Online research recruiting. Contact [Jen Ehlers](https://gsa-tts.slack.com/messages/@jehlers) or [Colin MacArthur](https://gsa-tts.slack.com/messages/@colinpmacarthur) for immediate access, and be sure to read our [Getting Started with Ethnio](https://docs.google.com/a/gsa.gov/document/d/14YwXV9BoY4EUEGc7kMITFQ-9tFjBipTaj7dsGFIJnNc/edit?usp=sharing) guide.
+- Please read [Doing Research at 18F](/research-guidelines) for more information on the tools and techniques.
 - **Google Analytics:** More info [here](/google-analytics).
+- For cardsorting and navigation tree testing, we have access to **[Optimal Workshop](https://www.optimalworkshop.com/)** via [OPP](http://www.gsa.gov/portal/content/124174). You can [get started immediately](https://docs.google.com/a/gsa.gov/document/d/1fTXNs1-x9SBLDmOyV79Kxu4V3mvhc89_2GAGixa2tyA/edit?usp=sharing).
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://gsa-tts.slack.com/messages/research) for recommendations.
 
 #### Workshops
@@ -151,7 +151,7 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Word processing
 
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-tools-equipment-and-transit/#get-a-copy-of-microsoft-office) to get a license.
+- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license.
 
 ### <a id="assets">Assets</a>
 
@@ -168,17 +168,13 @@ We default to free and open-source assets, unless there is a very, very good rea
   - Flickr's advanced search options include searching only within US government images: [example](https://www.flickr.com/search/?text=example&license=8).
   - While you’re at it, visit the [Department of the Interior’s Instagram](https://instagram.com/usinterior/) stream. You’ll be glad you did.
 
-### <a id="branding">18F Branding</a>
-
-- **Weekly office hours**: The 18F visual design team holds weekly office hours to provide assistance, feedback, and support with branding and visual design related issues. You can find a link to the hangout and details on the 18F Events calendar. You can ping the team #18f-branding with any questions.
-
 ---
 
 # Appendix
 
 ## Designing in the open
 
-[18F values transparency](https://pages.18f.gov/core-values/transparency/). We try to design in the open, which means trying to make as much documentation and decision-making as possible accessible to the public. Designing in the open means that expectations from private sector about confidentiality, disclosure, and intellectual property don’t hold true here.
+We try to design in the open, which means trying to make as much documentation and decision-making as possible accessible to the public. Designing in the open means that expectations from private sector about confidentiality, disclosure, and intellectual property don’t hold true here.
 
 Here are some of our rules of thumb:
 

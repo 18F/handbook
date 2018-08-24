@@ -10,7 +10,7 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 ## <a id="rules">Rules</a>
 
-- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
+- **Abide by [the TTS Code of Conduct](/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
 
 - Everything in our Google Drive, including Google Docs, can be FOIA&rsquo;ed.
 
@@ -20,13 +20,13 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 
 - You can&rsquo;t publish docs to the web. You can&rsquo;t share docs with the public, only GSA or specific users. Even just to view.
 
-- We cannot share Google Docs with other agencies. GSA employees can view and access Docs, but you&rsquo;ll need to ask in [#teamops](https://gsa-tts.slack.com/messages/team-ops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) (for suggested programs) if you&rsquo;re working with another agency.
+- If another agency employs Google Docs, documents can be shared directly with them.  If the agency does not use Google Docs, [here are approved instructions for sharing documents with them](https://insite.gsa.gov/portal/content/517805).   Note that the agency staff could also create a Google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en).  Ask in [#teamops](https://gsa-tts.slack.com/messages/teamops) or [#it-issues](https://gsa-tts.slack.com/messages/it-issues) if you need help.  
 
 - Don't share docs with all at GSA. Instead, share with 18f-team and GSA will never auto-unshare them. (GSA will change your permissions if they are too open.) Docs that contain sensitive information will also be blocked via Cloudlock.
 
 - Make sure you change the permission on new documents so that the proper people can view and edit them. If you put your documents or files in any of the folders within the [18F folder](https://drive.google.com/drive/u/0/folders/0B84F26FpUP0lR1B2VVNGSi1MMVk), the sharing settings should automatically be correct.
 
-- Grant editing or commenting access to the entire team on a files by adding <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
+- Grant editing or commenting access to the entire team on a files by adding <mailto:tts@gsa.gov>, <mailto:opp-team@gsa.gov>, or <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
 
 - It is much better to add a Google Group of people to a document than individual email addresses because you can control access to the group from one location, particularly when someone leaves 18F.
 
@@ -41,6 +41,8 @@ Because Google Docs is a web application, there&rsquo;s no installation necessar
 - Star or bookmark folders and documents you use regularly, or use search. (Searching in Drive goes through all of the files that have been shared with you.)
 
 - If a folder looks empty, try refreshing your browser a few times. :shrug:
+
+- Visit [the 18F brand guide](https://brand.18f.gov/templates/) for default 18F document styles/templates.
 
 ---
 

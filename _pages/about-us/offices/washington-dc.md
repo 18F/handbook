@@ -16,8 +16,6 @@ title: Washington, D.C.
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/leahgitter/">Leah Gitter</a><br />
-          <a href="https://gsa-tts.slack.com/messages/shawnique/">Shawnique Muller</a><br />
-          Phone numbers are in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a><br />
           <a href="mailto:1800ftenantsupport@gsa.gov">GSA Tenant Support</a>
         </td>
       </tr>
@@ -34,13 +32,12 @@ title: Washington, D.C.
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           18F sits on the fourth floor, in the 400&rsquo;s hallway, which is <br />
-           located on the E Street side in what&rsquo;s known as the infill.
+           TTS sits on the fourth floor in the first wing and in the 400&rsquo;s hallway, which is located on the E Street side in what&rsquo;s known as the infill.
         </td>
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value">National Capital Region (<a href="http://www.gsa.gov/portal/content/104717">region 11</a>)</td>
+        <td class="col-value">Central Office</td>
       </tr>
     </tbody>
   </table>  
@@ -62,12 +59,12 @@ If you&rsquo;re coming from **Thurgood Marshall Baltimore-Washington Airport (BW
 
 ### Walking
 
-18F&rsquo;s Washington office is located two blocks from the White House, six blocks from the Farragut North station, and three blocks from the Farragut West Metro Station. If you&rsquo;d like to take an afternoon walk, the Smithsonian is three blocks away via 18th Street.
+TTS's Washington office is located two blocks from the White House, six blocks from the Farragut North station, and three blocks from the Farragut West Metro Station. If you&rsquo;d like to take an afternoon walk, the Smithsonian is three blocks away via 18th Street.
 
 
 ### Biking
 
-Bike parking is free. The entrance to the bike room is via a ramp on E Street by Greenberry&rsquo;s Coffee. (There are two ramps into the 18F office. The one closer to 19th Street is the one you&rsquo;re looking for.) You must show your GSA ID to the guide and then take your bike down to the bike room in the big building at the center of the courtyard.
+Bike parking is free. The entrance to the bike room is via a ramp on E Street by Greenberry&rsquo;s Coffee. (There are two ramps into the TTS office. The one closer to 19th Street is the one you're looking for.) You must show your GSA ID to the guide and then take your bike down to the bike room in the big building at the center of the courtyard.
 
 There are also numerous Capital Bikeshare stations in the vicinity.
 
@@ -104,7 +101,7 @@ Your badge should get you in. If you&rsquo;re having trouble, call one of the po
 
 Fingerprinting and the photo for your badge take place immediately after security in room 1033. Badge pickup is on the first floor, in the library. After pickup, you'll need to get it activated in the basement.
 
-### Attend GSA and 18F orientation
+### Attend GSA and TTS orientation
 
 The location of onboarding differs based on how many people are coming into GSA. You will find out the exact location once you arrive at orientation.
 
@@ -119,11 +116,11 @@ Go to the F Street entrance, where 24/7 access is available.
 
 ### Book rooms for meetings?
 
-Depending on your needs, you might need different room accommodations. A cheat sheet for 18F conference rooms lives here. Avoid booking rooms 1470 and up on the first floor, as well as x3xx rooms &mdash; they&rsquo;re really far away from 18F and aren&rsquo;t easily accessible.
+Depending on your needs, you might need different room accommodations. A cheat sheet for TTS conference rooms lives here. Avoid booking rooms 1470 and up on the first floor, as well as x3xx rooms &mdash; they're really far away from TTS and aren&rsquo;t easily accessible.
 
 ### Receive visitors?
 
-If you're expecting a small group of US citizens (fewer than 15 or so), no advance action is required on your part. Let your guest(s) know to bring ID; they'll give your name and the 18F room number (4400) at the security desk. You'll have to go down and escort them up.
+If you're expecting a small group of US citizens (fewer than 15 or so), no advance action is required on your part. Let your guest(s) know to bring ID; they'll give your name and the TTS room number (4400) at the security desk. You'll have to go down and escort them up.
 
 If you're expecting a large group, or if the group includes non-US citizens, you should give security advance notice.
 
@@ -135,7 +132,7 @@ Refer to [our printer information document](https://docs.google.com/document/d/1
 
 The guest wireless network in the building is GSA Guest. The password changes monthly. To obtain the current password, type &ldquo;GSA Wireless&rdquo; into any room on Slack and the current password will pop up.
 
-Non-guest wireless access is available using gsa-wireless and authenticating using your ENT username and password.
+Non-guest wireless access is available using gsa-wireless and authenticating using your ENT username (`ENT\username`) and password.
 
 
 ## Where are the&hellip;
@@ -145,13 +142,17 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Bathrooms are located at the end of both the 4100 and 4200 wings. Additional bathrooms are just outside the 4400 space in the 4100 wing.
+Gendered bathrooms are located at the end of both the 4100 and 4200 wings. Additional bathrooms are just outside the 4400 space in the 4100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
 
 ### Mother’s rooms
 
 Look for room 1232A at the back of the health center on the first floor. You don’t need to reserve it. If it’s in use, you can use the doctor’s office or one of the other rooms near the health clinic. After 4 p.m., you can access the mother’s room directly from the hallway, but the rest of the health center will be closed.
 
 There is a fridge inside the mother’s room and one outside the room as well. At the end of the day, if there’s any milk in the outer fridge, they’ll move it to the inner fridge.
+
+### Yoga and meditation rooms
+
+Room 3042, at the corner of the 3000 and 3300 wings, is available for yoga and meditation/mindfulness/prayer.
 
 ### Batteries
 
@@ -165,7 +166,9 @@ The lockers are in two spots. One set is by the couches the other by that large 
 
 ### Snacks
 
-GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Additionally, there are a series of three drawers for snack foods located within 18F infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://gsa-tts.slack.com/messages/dc/) if you want to contribute and join.
+GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Hours are: Monday, 7am-2pm; Tuesday-Thursday, 7am-3pm; Friday, 7am-2pm.
+
+Additionally, there are a series of three drawers for snack foods located within TTS infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://gsa-tts.slack.com/messages/dc/) if you want to contribute and join.
 
 The DC fridge is cleaned out monthly on Fridays (dates are posted on the fridge), and all food (including containers) is thrown out.
 
@@ -224,6 +227,10 @@ There is a [health center](https://insite.gsa.gov/portal/content/615454) on the 
 ## Food and coffee
 
 [Google Map](https://www.google.com/maps/d/u/0/edit?mid=zMY1nJmKeGBU.kU147P2SgCmA) with lots of food and drink options.
+
+## Weather
+
+A useful source for understanding DC weather is the Washington Post's [Capital Weather Gang](https://www.washingtonpost.com/news/capital-weather-gang/), also on Twitter: [@capitalweather](https://twitter.com/capitalweather).
 
 ## Evacuation procedures
 
