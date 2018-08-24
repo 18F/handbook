@@ -9,10 +9,18 @@ Google Drive is a cloud storage and file backup system. We keep a lot of documen
 
 Because Google Drive is a web application, you don't need to install anything.
 
+## TTS Team Folders:
+* [18F Team Folder](https://drive.google.com/a/gsa.gov/folderview?id=0B84F26FpUP0lR1B2VVNGSi1MMVk&usp=sharing_eid) contains all of our Google Drive. 
+   * If you haven't yet, click the option to ["Add to My Drive"](https://support.google.com/drive/answer/2375057?hl=en) for this folder.
+
+* [ACQ Team Folder](XXXX)
+
+* [OPP Team Folder](XXXX)
+
+* [PIF Team Folder](XXXX)
+
 ## Usage
 We use Google Drive to keep track of documentation for different projects:
-
-* The [18F Team Folder](https://drive.google.com/a/gsa.gov/folderview?id=0B84F26FpUP0lR1B2VVNGSi1MMVk&usp=sharing_eid) contains all of our Google Drive. If you haven't yet, click the option to ["Add to My Drive"](https://support.google.com/drive/answer/2375057?hl=en) for this folder.
 
 * Everything in Google Drive can be FOIA’ed.
 
