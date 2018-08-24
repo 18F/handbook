@@ -13,7 +13,7 @@ tags:
 
 * **API** - Application programming interface. Think of them as a way for computers to interact, either internally or between one another. If you wanted to make a website that shows the current temperature wherever you are, your code talks to one API to get your location, then another to find out the weather in that area.
 
-* **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Historically this is a three to six month process, but 18F has been working to fix this. Noah Kunin can sometimes help speed the process.
+* **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Historically this is a three to six month process, but 18F has been working to fix this.
 
 * **AWS** - Amazon Web Services. When we make websites, this is where they all live. Read easy-to-understand descriptions of the different pieces [here](https://www.expeditedssl.com/aws-in-plain-english).
 
@@ -24,8 +24,6 @@ tags:
     * Gather all of the information for search to work
     * Trigger emails being sent
 
-
-* **CHRIS** – GSA’s [Comprehensive Human Resources Integrated System](http://www.gsa.gov/portal/content/105088) is an e-Tool that enables employees to access their personnel files online.
 
 * **Dev** - someone who does software development. A "coder."
 
@@ -51,17 +49,15 @@ tags:
 
 * **IAA** - Interagency agreement. A contract between federal agencies.
 
-* **MOA** - The [Memorandum of agreement](https://docs.google.com/a/gsa.gov/file/d/0B84F26FpUP0lQU5aWkplWDVtS2M/edit), created between GSA and FAS establishes us through 2018.
-
 * **MOU** - Memorandum of understanding.
 
 * **OLU** - On-Line University, where our team's mandatory training classes are hosted.
 
 * **OTP** - One-time password. In Atlanta, this refers to "outside the perimeter," as opposed to ITP (inside the perimeter).
 
-* **PIF** - Presidential Innovation Fellows serve on highly competitive, one-year appointments, which fall within 18F.
+* **PIF** - Presidential Innovation Fellows serve on highly competitive, one-year appointments.
 
-* **PII** - personally identifiable information.
+* **PII** - Personally identifiable information.
 
 * **PRA** - the Paperwork Reduction Act, enacted in 1980 aims to reduce the burden of federally imposed paperwork for U.S. businessess and the public.
 
