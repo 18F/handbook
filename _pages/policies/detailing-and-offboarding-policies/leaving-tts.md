@@ -34,11 +34,7 @@ Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messa
 * Ensure your home address is correct in [Employee Express](https://www.employeeexpress.gov/) and consider switching your W2 delivery to Hard Copy.
 
     * _Note:_ Ensure you keep your login information for Employee Express after
-      you leave.
-      > Separated employees retain access to Employee Express (EEX) for 3 years
-      > , so long as they retain their login ID and password. Separated
-      > employees who lose access to EEX cannot regain it. All separated
-      > employees receive a copy of their W-2 by mail at their home address.
+      you leave. Separated employees retain access to Employee Express (EEX) for 3 years, so long as they retain their login ID and password. Separated employees who lose access to EEX cannot regain it. All separated employees receive a copy of their W-2 by mail at their home address.
 
 * Review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
 
