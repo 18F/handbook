@@ -28,6 +28,8 @@ Events with a training component are added to your Individiual Development Plan 
 
 4. For pay plan, select General Schedule (GS).
 
+5. Once you submit your IDP and it is approved, you'll get an email telling you to complete a SF-182. But don't do it! [The process changed recently.] (https://docs.google.com/document/d/1tqvD1Q7qkIanZSfmAnMh95FZS5oFUxVzGDtBlp-E_kk/edit) The only forms you fill out on your own are the IDP and the Training/Speaking/Event form (see in instructions below). Your training team POC will submit Event request, SF-182s, Cap/C2 requests, etc. on your behalf.
+
 ### I’m speaking at a conference but not attending conference events.
 ***Note: speaking events require a minimum of 25 days advance notice.***  
 
