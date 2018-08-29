@@ -4,7 +4,10 @@ tag:
 - Git
 ---
 
-GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience.
+GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience. TTS manages the `18F` GitHub org via processes documented here.
+
+GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization).
+
 
 ## Documentation
 
@@ -51,7 +54,11 @@ You will get a lot of emails when you turn notifications on. To help stem the ti
 
 ### 4. Join the 18F organization
 
-After you&rsquo;ve completed the above steps, hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/18f/members on GitHub." An admin will verify compliance and add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+After you&rsquo;ve completed the above steps, new members of 18F should hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/18f/members on GitHub."
+
+Members of OPP needing access to the 18F GitHub org should hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/opp/members on GitHub."
+
+An admin will verify compliance and add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
 
 ### 5. Make your membership public
 
@@ -158,5 +165,3 @@ Contractors or external government collaborators should only be added to teams w
 #### Still have questions?
 
 Ask in Slack: [#git](https://gsa-tts.slack.com/messages/git), [#admins-github](https://gsa-tts.slack.com/messages/admins-github), [#dev](https://gsa-tts.slack.com/messages/dev)
-
-GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization).
