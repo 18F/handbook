@@ -42,14 +42,6 @@ Specifying your working hours will mark you as busy during non-working hours. Yo
 3. Specify the days and times you prefer to work.
 4. Click **Save**.
 
-### Hide morning and evening hours
-
-To change the default calendar view so you only see your working hours:
-
-1. In the Settings menu, click **Settings**.
-2. Under **Labs > Hide morning and night**, click **Enable**.
-3. Click **Save**.
-
 ### Change the default event duration
 
 Google Calendar's default event duration is 30 minutes. If you want to change it:
