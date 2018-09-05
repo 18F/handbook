@@ -29,7 +29,15 @@ Your install screen should look like this:
 
 ## Troubleshooting
 
-If your VPN client hangs while trying to authorize your credentials, delete the `/opt/cisco/anyconnect/profile/gsa_cp-gfe.xml` file on your system.
+Sometimes AnyConnect will hang while trying to authorize your credentials. If your starting screen looks like this:
+
+![Bad AnyConnect Starting Connection Screen]({{ site.baseurl }}/images/anyconnect/bad.png)
+
+instead of like this:
+
+![Good AnyConnect Starting Connection Screen]({{ site.baseurl }}/images/anyconnect/good.png)
+
+you'll probably hang. If you do, **delete the `/opt/cisco/anyconnect/profile/gsa_cp-gfe.xml` file on your system.** You'll need to enter your admin credentials to delete it, but that's ok. In the future, you can prevent this error simply by never quitting AnyConnect (the bad XML file seems to be created upon quit). Disconnect AnyConnect when you don't need it, but leave the application running in the background.
 
 If you're still having trouble, try these recommendations from [@moncef](https://gsa-tts.slack.com/team/moncef):
 
