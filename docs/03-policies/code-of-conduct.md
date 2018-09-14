@@ -1,6 +1,6 @@
 ---
 status: Work in progress
-updated: September 14, 2017
+updated: September 14, 2018
 ---
 
 # Code of Conduct
