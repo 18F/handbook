@@ -19,7 +19,7 @@ CivicActions is dedicated to providing a harassment-free experience for everyone
 
 Be mindful. Having a diverse team means that we will have different opinions, viewpoints and experiences. This also means that we may not agree on what is humorous, insulting or rude. We all stand to learn from each other and that includes gaining awareness to how others perceive certain communications. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-We follow the platinum rule at CivicActions. While the golden rule is to do to others as you would have them do to you. The platinum rule is to do to others as *they would like to have done to them*. This requires mindful attention of each person and respect for their culture, background, and vulnerabilities.
+We follow the platinum rule at CivicActions. While the golden rule is to do to others as you would have them do to you, the platinum rule is to do to others as *they would like to have done to them*. This requires mindful attention of each person and respect for their culture, background, and vulnerabilities.
 
 Be open to building relationships across the team. As our team grows, we are more likely to have peers that we don't directly work with. We all have an opportunity to be connect in other arenas to get to know each other, including retreats, pod calls, and social slack channels. Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the company.
 
