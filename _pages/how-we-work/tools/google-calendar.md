@@ -59,12 +59,19 @@ Google Calendar's default event duration is 30 minutes. If you want to change it
 3. For even shorter meetings, select **Speedy meetings**. 30 minute meetings become 25 minutes; 60 become 50, 90 become 80, and 120 become 110.
 4. Click **Save**.
 
+### Change the default event permissions
+Google Calendar's default event permissions prohibit guests from modifying the events to which they're invited. Update this if you'd rather send more flexible invitations.
+
+1. In the Settings menu, click **Settings**.
+2. Under **General > Default event duration**, choose **Default guest permissions**.
+3. Choose your desired default guest permissions
+
 ### Show an additional time zone
 
 This is helpful if you have to schedule meetings with people on the other side of the country. Google Calendar is limited to one additional time zone, though.
 
 1. In the Settings menu, click **Settings**.
-2. Under **General > Your current time zone**, click **Show an additional time zone**.
+2. Under **General > Event Settings**, click **Show an additional time zone**.
 3. Choose your desired time zone.
 4. Click **Save**.
 
