@@ -1,5 +1,5 @@
 ---
-version: 1.1.2
+version: 1.1.3
 ---
 
 # CivicActions Security Policy
@@ -18,23 +18,24 @@ CivicActions has established the following policy to safeguard the security, con
 
 We can group information into two classes:
 
-1. *Confidential information:*
+*1. Confidential information:*
 
-   * Personal information - for example: name, e-mail address, mailing address, telephone, passwords, and all records and files directly relating to a person that are not publicly available.
-   * Proprietary client information - for example: intranet/extranet content, files or data, unpublished/staged content, project planning/design documents or source code produced by the client or 3rd party vendors. This may include information covered by a non-disclosure agreement (NDA), but even in the absence of such an agreement we should treat information provided by clients as confidential unless instructed otherwise.
-   * Confidential business information of CivicActions or a client, including engagement terms.
-   * Communications involving legal advice or discussions that are intended to be protected by attorney client privilege or the work product doctrine.
-   * Internal CivicActions information - for example: information regarding our IT security, accounting, finance or human resources, unless by prior agreement by a member of the management team.
+* Sensitive Personally Identifiable Information (SPII) - for example: Social Security or Passport numbers, financial account numbers, biometric identifiers, passwords, and all records and files directly relating to a person that are not publicly available.
+* Proprietary client information - for example: intranet/extranet content, files or data, unpublished/staged content, project planning/design documents or source code produced by the client or 3rd party vendors. This may include information covered by a non-disclosure agreement (NDA), but even in the absence of such an agreement we should treat information provided by clients as confidential unless instructed otherwise.
+* Confidential business information of CivicActions or a client, including engagement terms.
+* Communications involving legal advice or discussions that are intended to be protected by attorney client privilege or the work product doctrine.
+* Internal CivicActions information - for example: information regarding our IT security, accounting, finance or human resources, unless by prior agreement by a member of the management team.
 
-2. *Non-confidential information:*
+*2. Non-confidential information:*
 
-   * Free and open source ("FOSS") licensed source code (e.g. GPL/AGPL), such as projects downloaded from drupal.org. This also includes all FOSS source code written by CivicActions, with the exception of files containing credentials.
-   * Free and open source licensed creative assets (e.g. Creative Commons). This also includes project planning/design documents authored by CivicActions, as well as training materials and other incidentals, that have been designated open source.
-   * Information that is publicly available, including client information on public facing web site pages.
+* *Limited* Personally Identifiable Information (PII) - for example: publicly available personal data such as name, email, home address and phone number. Note that some systems classify this as SPII - consult with your project manager or the security team if you have questions.
+* Free and open source ("FOSS") licensed source code (e.g. GPL/AGPL), such as projects downloaded from drupal.org. This also includes all FOSS source code written by CivicActions, with the exception of files containing credentials.
+* Free and open source licensed creative assets (e.g. Creative Commons). This also includes project planning/design documents authored by CivicActions, as well as training materials and other incidentals, that have been designated open source.
+* Information that is publicly available, including client information on public facing web site pages.
 
 From the point of view of a typical client project, this means that:
 
-* The Drupal and CiviCRM databases (and database exports) should always be treated as confidential, since these contain personal information.
+* Database exports should always be treated as confidential, since these may contain personal information that is not be publicly available.
 * The uploaded files directory may need to be treated as confidential if the client site has any access-controlled content.
 * The site source code can normally be treated as non-confidential, unless this includes proprietary code from the client or 3rd parties.
 * The contents of the project management site (e.g. Trac, JIRA, Trello, etc.), e-mail lists and related communication tools, will normally contain a mixture of confidential and non-confidential information:
@@ -63,7 +64,7 @@ It is important that our information technology systems, service and network inf
 
 CivicActions IT services provide a number of general user accounts. This includes:
 
-* CivicActions Google Apps (Gmail, Hangouts, Docs, Drive, etc.)
+* CivicActions GSuite Google Apps (Gmail, Hangouts, Docs, Drive, etc.)
 * Web based collaboration accounts such as
     * Our home site
     * Intranet (internal team collaboration)
@@ -94,8 +95,8 @@ The security of our systems is only as strong as the weakest link. Hence it is i
 Before connecting and authenticating to any CivicActions IT system or storing confidential information on your systems, all users must ensure that:
 
 * Operating systems, and all software that makes network connections (such as web browsers), or opens files that have been downloaded from the Internet (such as PDF readers) is patched or updated to resolve critical publicly known vulnerabilities, or, when an older version of a program is used on purpose (such as for interoperability testing), it is run in a sandbox (typically a virtual machine).
-* Systems vulnerable to malware infections (primarily Windows, but may include other systems and mobile devices) are running a high-quality virus scanner (such as Avast or ClamAV) that automatically updates its virus definitions at least every 24 hours, detects malware in a real-time fashion, and completes a full system scan at least every week. In addition, Windows users are expected to run a general malware scanner (which may be integrated into the virus scanner, or may be separate, such as Ad-aware or Spybot - Search & Destroy) that detects accidentally installed malware that does not qualify as a virus.
-* A firewall is configured to block all unsolicited incoming connections to systems that store confidential information (or contain saved passwords that provide access to confidential information, although we discourage saving of passwords). This can be a network router NAT based firewall, or a software based firewall running on your local machine. This applies to all operating systems.
+* Systems vulnerable to malware infections (primarily Windows, but may include other systems and mobile devices) are running a high-quality virus scanner (such as Avast or ClamAV) that automatically updates its virus definitions at least every 24 hours, detects malware in a real-time fashion, and completes a full system scan at least every week. In addition, Windows users are expected to run a general malware scanner (which may be integrated into the virus scanner, or may be separate, such as Adaware or TotalAV) that detects accidentally installed malware that does not qualify as a virus.
+* A firewall is configured to block all unsolicited incoming connections to systems that store confidential information. This can be a network router NAT based firewall, or a software based firewall running on your local machine. This applies to all operating systems.
     * For laptops that are used in hostile network environments (including public places such as cafes or airports) a software based firewall is mandatory.
     * For users of Unix based systems, such as GNU/Linux and OS X, it is acceptable to open port 22 to allow external SSH access to home/office computers, as long as these systems are up-to-date with security patches and they use strong account passwords or SSH keys.
     * It is particularly important to ensure that network shares, databases and local development sandbox versions of web sites are not publicly visible, both when working from home/office and when working in public places.
@@ -116,42 +117,25 @@ Passwords are used to protect many of our systems and services.
 All passwords at CivicActions must follow this policy, including passwords used for:
 
 * Personal computers or devices that access CivicActions services or store confidential information.
-* Passphrases used for PGP or SSH encryption keys.
+* Passphrases used for your password manager, PGP or SSH encryption keys.
 * Personal accounts on any CivicActions internal or client site or service.
 * CivicActions accounts on 3rd party vendor sites.
 
-### Strong Passwords are Important
-
-* Consider using a password manager (see below). If you use a password manager, you can skip the rest of this sub-section.
-* Consider using a passphrase even where a "password" is requested. These tend to be easier to remember and stronger than passwords. A reasonable passphrase consists of 4 words or more (3 words is the minimum, allowed only if the word combination is extremely uncommon and additional non-letter characters are used along with the words). You may separate the words with arbitrary characters of your choice (digits, symbols, whitespace, even letters), which adds extra security. You may also purposely misspell or mangle the words, but only in a way you can remember.
-* If you choose to (or are forced to) use a short "password", include a mix of upper and lowercase letters, numbers, and symbols in it.
-* Password length should be around 10 to 14 characters if permitted, and longer still if possible while remaining memorable.
-* Avoid any passwords based on usernames, people or pet names, dictionary words in any language (unless meeting requirements for a passphrase, above), dates, ID numbers, repetition (too few different characters), letter or number sequences, keyboard patterns, etc.
-* Password should be easy to remember – you can use mnemonics (the first letters of a line from a poem or song, for example), but you also need to add multiple non-letter characters - or better yet, just use a passphrase as suggested above.
-* Avoid using the same password for multiple sites or purposes – passwords for client sites should substantially differ from passwords for internal accounts, and neither should ever be used for third party or non-CivicActions accounts.
-* A passphrase that you use for encryption (such as on a GnuPG/PGP or SSH private key, or with an encrypted file system) must not be reused for authentication to a system. In general, an encryption passphrase should typically be stronger than those used for authentication.
-
 ### Password Managers and Two Factor Authentication
 
-A password manager (such as LastPass) can easily create and maintain hundreds of different 16 character (or more!) passwords. It is not required to use a password manager at CivicActions but we highly recommend it. (Exception: IT staff must have a LastPass account for password sharing.) Be sure to choose a strong password for your password manager.
+CivicActions requires unique, strong passwords for every service that you log into. For this reason, CivicActions requires use of a password manager and recommends LastPass as it is currently the most full-featured password manager. Note that LastPass is required for use by IT staff and management.
 
-Modern password managers - and many other services such as Google Apps, GitHub, Slack and more) now accept Two Factor Authentication that can greatly increase the security of the protected assets. CivicActions requires TFA for access to the CivicActions Google Apps such as GMail and Docs as well as OATH-authenticated apps such as GitLab.
+Use a unique, strong password or multi-word passphrase for your password manager along with two-factor authentication (TFA or 2FA).
+
+CivicActions supplies all employees with a Yubikey for two-factor authentication, and we require two-factor authentication for access to your password manager, the CivicActions GSuite of applications, and OATH-authenticated apps such as Github and Gitlab. You can also use second factor authentication apps such as Authy and Duo, and in fact, for backup reasosn we suggest using more than one second factor.
 
 Please see the [Security Awareness and Tools](../09-security/awareness.md) document for details on these subjects and more.
 
-### Handling Passwords
-
-* Passwords to personal system accounts must never be given to anyone, including IT team personnel and management. IT staff will never ask for your password.
-* Passwords should not be "written down" in a non-encrypted file (if you feel you have to start writing down some "low-value" passwords in order to maintain a large number of different ones, which is a reasonable tradeoff, then please use an encrypted file protected with a strong passphrase, or only write down password hints rather than the actual passwords). Or use a password manager.
-* Passwords must never be transmitted or stored in a clear text (i.e. readable) format.
-* Passwords can be stored and transmitted by computer when encrypted with GnuPG public key encryption. IT services can offer support getting this set up if needed.
-    * The unencrypted clear text contents of a GnuPG encrypted file/message should only ever be viewed then discarded, but not saved in decrypted form.
-
-### Some Exceptions
+### Some Password Exceptions
 
 * On occasion, "starter" passwords for new accounts on web sites may be transmitted/stored in clear text, on condition that the recipient immediately logs in and sets a new strong password. Both the starter and new passwords must adhere to the strong password policy. If possible it is preferable to use a "one time" login link, or transmit "starter" passwords with GnuPG or via phone, email, SMS, Slack, etc. When transmitting a password electronically in clear text, do not include the username or website URL in the same message.
-* The MySQL vhost password is stored in clear text form on the vhost for usage by Drupal and deployment/testing scripts (e.g. drush).
-* The "basic auth" pop-up credentials used on dev/qa and pre-launch instances of client sites can be stored in plain text on the project management system, for easy client reference.
+* The MySQL password is stored in clear text form on the instance for usage by the application (e.g. Drupal) and deployment/testing scripts (e.g. drush).
+* The "basic auth" pop-up credentials used on dev/qa and pre-launch instances of client sites can be stored in plain text on the protected project management system, for easy client reference.
 * There are a few 3rd party services that we have shared accounts for, and which store no confidential information - for example: CrossBrowserTesting.com. These passwords can be stored/transmitted in clear text within the team.
 * If you suspect a password has been compromised (for example, it was accidentally typed into an unencrypted chat session), change the password immediately yourself if possible, or inform IT right away, so that the password can be changed by a sysadmin.
     * This includes the case when a client sends a name/password pair in the clear in an email.
@@ -159,13 +143,11 @@ Please see the [Security Awareness and Tools](../09-security/awareness.md) docum
 ### Private Keys
 
 * SSH public/private key pairs are used to access CivicActions servers.
-* GnuPG (PGP compatible) public/private key pairs are used to transmit and store credentials to CivicActions client sites and internal services.
-* It is absolutely critical that all SSH and GnuPG/PGP private keys are protected by a very strong passphrase. Having such keys with no passphrase is forbidden. (As an exception to this, additional public/private key pairs may be generated for specific tasks that require full automation, subject to approval by IT.)
-* SSH and GnuPG/PGP private key passphrases must not be reused for any other purpose or site.
+* GnuPG (PGP compatible) public/private key pairs may be used to transmit and store credentials to CivicActions client sites and internal services.
 * The private key files themselves should be kept in as few places as possible (ideally just your primary computer; a home server is also acceptable for storage of a backup copy of the encrypted key, but not for use of the key).
 * Private keys should never be placed on external servers – if you need SSH access to one server from another server (typically for a large data transfer), generate a dedicated key pair for that purpose or tunnel SSH over SSH port forwarding (ask IT for instructions).
 * If you suspect a private key file (or its passphrase) has been compromised, inform IT immediately, so that we can revoke the corresponding public key on our servers.
-* Keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys.
+* Keys must be 2048 bits as a minimum (keys using lower strengths must be replaced). 4096 bits or higher is recommended for new keys and will soon become required.
 * Passphrases may be cached, but should expire after 1-2 hours or at the end of each login session for desktops and laptops and after 5-15 minutes for mobile devices.
 
 ## Server & Site Security
@@ -179,7 +161,7 @@ Usage of CivicActions developer accounts should be as follows:
 
 Web administrator account holders (Drupal, CiviCRM or other) must also:
 
-* Be familiar with how to maintain configuration security ([drupal.org/security/secure-configuration](http://drupal.org/security/secure-configuration)).
+* Be familiar with how to maintain configuration security as described in Drupal's [securing your site](http://drupal.org/security/secure-configuration) page.
 * After changing site permissions, the site must be tested by logging in as a user with each affected role and ensuring that access is limited correctly.
 * After changing settings affecting content/data access control, the site must be tested to ensure the settings are correct.
 * The use of PHP in the web administration interface is strongly discouraged (as this code is harder to find and hence audit).
@@ -187,7 +169,7 @@ Web administrator account holders (Drupal, CiviCRM or other) must also:
 
 Developers and themers working on the site codebase (and committing code to Git) must also:
 
-* Ensure their own code follows Drupal coding standards ([drupal.org/coding-standards](http://drupal.org/coding-standards)) and security standards ([drupal.org/writing-secure-code](http://drupal.org/writing-secure-code)), and is well abstracted and commented throughout. The project technical lead (or a designated lead engineer/lead themer or peer-review process) is responsible for reviewing all new/modified code each sprint, and ensuring it meets a high standard of quality.
+* Ensure their own code and development practices follow accepted secure coding standards as described in the Handbook under [Engineering > Security and Compliance](../05-engineering/security-compliance.md).
 * Ensure the standard dev-qa-live process is always followed, such that all changes that may affect site security can be thoroughly tested before being made live.
 * Ensure that external developers (client or 3rd party) working on the site codebase are either:
     * A full part of our developer team, such that they been assessed/trained to have the appropriate skills and are subject to TL code review.
@@ -202,6 +184,8 @@ Developers and themers working on the site codebase (and committing code to Git)
     * Data disclosure, prevented by carefully setting and testing access control, as well as using SSL as needed.
     * Password guessing attacks, mitigated by using strong passwords.
 * Software that is not licensed under an approved CivicActions open source license may not be used on a project without prior approval from the legal team.
+
+The project technical lead (or a designated lead engineer/lead themer or peer-review process) is responsible for reviewing all new/modified code each sprint, and ensuring it meets a high standard of quality.
 
 Developers and themers maintaining local sandbox copies of client sites must also:
 
