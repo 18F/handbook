@@ -47,9 +47,9 @@ Resources:
 * [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
 * [Contributing to Projects with GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
 
-## Assigning pull requests
+## Assignment of pull requests
 
-If you make a pull request related to a subject that is the responsibility of a specific team or person, please consider tagging or assigning it to that team or person (or pinging them in Slack to ask them to review it).  See also [docs-governance.md](docs-governance.md).
+Your PR will automatically be assigned to a team for a review, based on which part of the handbook you are editing. That automatic review assignment is explained in [docs-governance.md](docs-governance.md). If you think that certain individuals on the team may have particular subject matter expertise or authority on the topic, you can also assign them directly via the "Reviewers" section of the right hand sidebar.
 
 ## How to review and merge pull requests
 
