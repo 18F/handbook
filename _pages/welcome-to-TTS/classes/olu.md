@@ -24,7 +24,7 @@ Required classes will be assigned in OLU and pushed to TTS employees via email. 
 * Annual Ethics Training (designated employees only)
 * OGE Form 450 Financial Disclosure (annual reporting for designated employees only)
 * FY17 GSA PRIVACY 201 (designated employees only - PII)
-* Teleworks Works (updates needed)
+* Telework for Employees 101
 
 *NOTE: For the *No Fear Act* training, we recommend using Firefox or Safari with IE8 User Agent. Otherwise, it won't register that you've taken the course. Upon completion of the test, you might not be able to click on the `Exit` button as is suggested. Try closing the window that the test was in and clicking next on the parent window &mdash; this should register your test as having been completed and generate the certification that is loaded to your profile.*
 

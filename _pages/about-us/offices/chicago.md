@@ -85,7 +85,7 @@ Fingerprints and badge can be done at the security office on the second floor (R
 
 ### <a id="enter-the-building-with-badge"></a>Enter the building with a GSA badge
 
-Your GSA ID grants you access to the building at any time between 7 a.m. and 6 a.m.. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building. 
+Your GSA ID grants you access to the building at any time between 7 a.m. and 6 p.m. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building. 
 
 ### <a id="onboarding"></a>Attend onboarding?
 

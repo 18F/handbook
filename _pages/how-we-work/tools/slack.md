@@ -53,7 +53,7 @@ Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a projec
 
 [TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. Howver, when we say "public channels" on this page, we mean channels open to all members of the public.)
 
-#### What 
+#### What
 
 Treat these channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document. Members of the public must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct). For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there witout a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
@@ -85,7 +85,7 @@ An admin will then do one of the following:
     * [Disable their 2FA](https://get.slack.help/hc/en-us/articles/212221668-Require-two-factor-authentication-for-your-team).
         * ...unless you know they were using their personal device for 2FA — we don't want them to be locked out.
     * [Change their email](https://get.slack.help/hc/en-us/articles/225531168-Change-a-team-member-s-email-address) to their personal address
-    
+
 *NOTE: When a TTS Slack user is converted to a Single-channel user, they maintain access to their direct message chat history but are unable to search for or create new direct messages with folks that they've never messaged before.  Unless another channel is specified, the only channel that will still be accessible is #alumni.
 
 * **[Deactivate their account.](https://get.slack.help/hc/en-us/articles/204475027-Deactivate-a-team-member-s-account)**
@@ -218,7 +218,7 @@ Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archiv
 - **Acquisitions employees** review your post with Stephen Reilly, and he can post it when it's ready.
 - **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
 - **PIF employees** review your post with Joshua Di Frances, and he can post it when it's ready.
-  
+
 Please keep #news posts limited to information that the entire team needs to know. This includes things like:  
   
 - Required trainings  
@@ -227,7 +227,7 @@ Please keep #news posts limited to information that the entire team needs to kno
 - All-team events  
 - Senior management team meeting notes  
 - Changes or actions that impact the entire team  
-  
+
 ### When to use @channel and @here
 In general, the larger a channel is, the more careful you should be about using broadcast notifications.
 
@@ -302,7 +302,6 @@ If you're interested in learning more about the bots, or perhaps contributing to
 * Working groups: #wg-*
 * Locations
     * [chitown](https://gsa-tts.slack.com/messages/chitown/)
-    * [cowork-across-america](https://gsa-tts.slack.com/messages/cowork-across-america/)
     * [dc](https://gsa-tts.slack.com/messages/dc/)
     * [michigan](https://gsa-tts.slack.com/messages/michigan/)
     * [nyc](https://gsa-tts.slack.com/messages/nyc/)

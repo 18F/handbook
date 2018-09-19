@@ -42,23 +42,41 @@ Specifying your working hours will mark you as busy during non-working hours. Yo
 3. Specify the days and times you prefer to work.
 4. Click **Save**.
 
-### Change the default event duration
+<<<<<<< HEAD
+=======
+### Hide morning and evening hours
 
-Google Calendar's default event duration is 30 minutes. If you want to change it:
+To change the default calendar view so you only see your working hours:
 
 1. In the Settings menu, click **Settings**.
-2. Under **General > Default event duration**, choose 15, 30, 60, 90, or 120 minutes.
-3. For even shorter meetings, select **Speedy meetings**. 30 minute meetings become 25 minutes; 60 become 50, 90 become 80, and 120 become 110.
-4. Click **Save**.
+2. Under **Labs > Hide morning and night**, click **Enable**.
+3. Click **Save**.
 
 ### Show an additional time zone
 
 This is helpful if you have to schedule meetings with people on the other side of the country. Google Calendar is limited to one additional time zone, though.
 
 1. In the Settings menu, click **Settings**.
-2. Under **General > Your current time zone**, click **Show an additional time zone**.
+2. Under **General > Time Zone**, click **Show an additional time zone**.
 3. Choose your desired time zone.
 4. Click **Save**.
+
+>>>>>>> master
+### Change the default event duration
+
+Google Calendar's default event duration is 30 minutes. If you want to change it:
+
+1. In the Settings menu, click **Settings**.
+2. Under **General > Event Settings**, choose 15, 30, 60, 90, or 120 minutes.
+3. For even shorter meetings, select **Speedy meetings**. 30 minute meetings become 25 minutes; 60 become 50, 90 become 80, and 120 become 110.
+4. Click **Save**.
+
+### Change the default event permissions
+Google Calendar's default event permissions prohibit guests from modifying the events to which they're invited. Update this if you'd rather send more flexible invitations.
+
+1. In the Settings menu, click **Settings**.
+2. Under **General > Event Settings**, choose **Default guest permissions**.
+3. Choose your desired default guest permissions
 
 ### See what time it is around the world
 

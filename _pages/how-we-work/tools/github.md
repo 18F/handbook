@@ -33,7 +33,6 @@ Include the following:
 - Company: Your government agency. (If you also use GitHub for personal projects, consider specifying &ldquo;<code>agency</code> (work) + personal projects&rdquo; to make it clear that some of your GitHub projects may be personal in nature.)
 - Location: Your primary work location (city, state).
 - Photo: A headshot photo, or an image that is unique to you.
-- Email: A valid email address (could be your @gsa.gov address).
 
 ### 2. Set up two-factor authentication
 
@@ -49,9 +48,11 @@ Include the following:
 
 You will get a lot of emails when you turn notifications on. To help stem the tide, you can set up a Gmail filter to automatically archive emails from `notifications@github.com`. However, you probably want to let through those emails that contain your GitHub username or are posted to a repo you're watching. Since on GitHub, each repo is considered its own mailing list, checking for that identifier is one reliable way to allow these notifications through. For example, if the repo name in GitHub is `18F/calc`, the mailing list will be `calc.18F.github.com`. You can also find this by opening an email from the desired repo, clicking the "more info" arrow in the "To" field, and copying the bracketed address in the "mailing list" field. Adding `list:(calc.18F.github.com)` to your filter's exceptions will allow any issues posted to that repo to reach your inbox.
 
-### 4. Join the 18F organization
+### 4. Join the 18F or GSA organization
 
-After you&rsquo;ve completed the above steps, hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/18f/members on GitHub." An admin will verify compliance and add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+* **18F team members:** After you've completed the above steps, hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/18f/members on GitHub." An admin will verify compliance and add you, after which you'll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+
+* **OPP team members:** Email [gsa-github.support@gsa.gov](mailto:gsa-github.support@gsa.gov) the following: "Please add me (`https://github.com/username`) to https://github.com/GSA".  An admin will verify compliance and add you, after which you'll to need accept their invite by going [here](https://github.com/orgs/gsa/invitation?via_email=1).
 
 ### 5. Make your membership public
 
@@ -90,6 +91,7 @@ Here&rsquo;s our current process to address both operational and security concer
 1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
 1. Ask the collaborator(s) to go through [the setup steps](#setup).
     * They will need to confirm they've done this before you continue.
+    * They will also need to add an e-mail address to the GitHub profile so we can contact them later when doing clean-up in our org.
 2. (Ask #admins-github to) [create a team](https://help.github.com/articles/setting-up-teams/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`. You only need to set a `parent team` for your new team if you need your team to inherit existing permissions from an existing team (for example, if this team should automatically have access to a base set of repos). If your new team is for external collaborators, you will generally not want to add a parent team.
 3. In the &ldquo;Description&rdquo; of the team, put something reasonable plus a point-of-contact email address for the collaborators.
     * Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops.
