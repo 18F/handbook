@@ -8,11 +8,7 @@ navtitle: First Time Travel Vendor ID
 
 In order to get access to concur, you need to obtain a vendor id. The process varies a bit depending on if you have access to GSA's online learning platform OLU.
 
-<<<<<<< HEAD
 Have you completed your Mandatory Cyber Security and Privacy Training in [OLU](https://gsaolu.gsa.gov/) yet?
-=======
-Have completed your Mandatory Cyber Security and Privacy Training in [OLU](https://gsaolu.gsa.gov/) yet?
->>>>>>> Jacklynn-patch-1
 
 [Yes - I have taken the OLU class. ](/first-time-travel-get-in-concur-post-olu)
 
