@@ -6,6 +6,8 @@ tag:
 
 GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience.
 
+GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization).
+
 ## Documentation
 
 - [Brief onboarding class about GitHub](/intro-to-github).
@@ -53,6 +55,8 @@ You will get a lot of emails when you turn notifications on. To help stem the ti
 * **18F team members:** After you've completed the above steps, hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/18f/members on GitHub." An admin will verify compliance and add you, after which you'll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
 
 * **OPP team members:** Email [gsa-github.support@gsa.gov](mailto:gsa-github.support@gsa.gov) the following: "Please add me (`https://github.com/username`) to https://github.com/GSA".  An admin will verify compliance and add you, after which you'll to need accept their invite by going [here](https://github.com/orgs/gsa/invitation?via_email=1).
+
+Members of OPP needing access to the 18F GitHub org should hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/opp/members on GitHub." An admin will verify compliance and add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
 
 ### 5. Make your membership public
 
@@ -160,5 +164,3 @@ Contractors or external government collaborators should only be added to teams w
 #### Still have questions?
 
 Ask in Slack: [#git](https://gsa-tts.slack.com/messages/git), [#admins-github](https://gsa-tts.slack.com/messages/admins-github), [#dev](https://gsa-tts.slack.com/messages/dev)
-
-GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization).
