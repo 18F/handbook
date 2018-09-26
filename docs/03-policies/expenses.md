@@ -44,9 +44,10 @@ To approve your request, the budget owner will move it into the "Approved" colum
 ## Expense guidelines
 
 * Treat company money like it is your own money, use it to work smarter and spend it with wisdom and care.
-* Please book as early as possible - for flights and accomodation this can make a big difference!
+* Please book as early as possible - for flights and accommodation this can make a big difference!
 * Consider AirBnB instead of hotels. If you are unsure of how many people can attend, getting a slightly larger AirBnB ahead of time is normally better than waiting and getting an AirBnB or hotel rooms last minute.
 * Your project manager and Judy will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight or want to add a leg for a vacation, then that wouldn't be reimbursable but the amount for an economy class return would.
+* Reduce your footprint when possible and use public transit or shared Lyft Lines instead of single occupancy rides. 
 
 ### Travel expenses 
 
