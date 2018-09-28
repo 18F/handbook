@@ -91,7 +91,7 @@ The Incident Commander declares that recovery efforts are complete and notifies 
 CivicActions managed systems often depend on several external services. In the event one or more of these services has a long-term disruption, the team will mitigate impact by following this plan. Zero or more of the following services may be involved:
 
 ### GitHub
-* **Service:** <https://github.com/NuCivic/healthdata/>
+* **Service:** <https://github.com>
 * **Status:** <https://status.github.com/>
 * **Status:** <https://twitter.com/githubstatus>
 
