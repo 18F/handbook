@@ -8,7 +8,7 @@ title: Distributed
         <td class="col-key"><strong>Point&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/@leahgitter">Leah Gitter</a><br />
-          <a href="mailto:accesscard@gsa.gov">GSA Access Card Support</a>
+          <a href="mailto:hspd12.security@gsa.gov">GSA Access Card Support</a>
         </td>
       </tr>
       <tr>
@@ -46,7 +46,7 @@ TTS employees receive a MacBook and an iPhone from GSA, though you may not recei
 
 On your first day at work you should configure things so that your two-factor authentication (2FA) codes &mdash; which you&rsquo;ll occasionally need to connect to GSA&rsquo;s virtual private network (VPN) &mdash; are delivered to your cell phone. If you don&rsquo;t receive your work cell phone on day one, you&rsquo;ll need to use your personal phone. **If you do not configure 2FA you will not be able to access your email from outside of federal buildings.**
 
-To receive GSA 2FA codes on your cell phone, you can [email GSA&rsquo;s access card team](mailto:accesscard@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
+To receive GSA 2FA codes on your cell phone, you can [email GSA&rsquo;s access card team](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
 
 ### <a id="otp">Get a one-time password?</a>
 
