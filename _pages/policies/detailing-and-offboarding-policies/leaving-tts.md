@@ -17,7 +17,7 @@ These steps apply to both term employees who are at the end of their term and to
 
 Send an official email to your supervisor and [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov).
 
-Include your termination date (the last day of your term, or the last date you are choosing to work), which should be at least two weeks out.
+Include your termination date (the last day of your term or the last date you are choosing to work), which should be at least two weeks out.
 
 Once you’ve sent your official letter of notice we will assume your departure is public knowledge, so if you would like to tell folks yourself, please handle those notifications ahead of time. 
 
