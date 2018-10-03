@@ -4,19 +4,22 @@ tags:
 - quit
 - quitting
 - resign
+- terming out
 ---
 
 This guide covers the offboarding policy and process.
 
-## How to resign
+## When it's time to leave TTS
+
+These steps apply to both term employees who are at the end of their term and to employees choosing to resign before their term ends. Begin this process at least two weeks before your last day of work. Your last day at TTS cannot be a federal holiday.
 
 ### 1. Email your resignation letter
 
-If you decide you want to leave TTS, send an official email to your supervisor and [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov).
+Send an official email to your supervisor and [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov).
 
-Include your termination date, which should be at least two weeks out. Your last day at TTS cannot be a federal holiday.
+Include your termination date (the last day of your term, or the last date you are choosing to work), which should be at least two weeks out.
 
-*Once you’ve sent your official letter of notice we will assume your departure is public knowledge*, so if you would like to tell folks yourself, please handle those notifications ahead of time. 
+Once you’ve sent your official letter of notice we will assume your departure is public knowledge, so if you would like to tell folks yourself, please handle those notifications ahead of time. 
 
 ### 2. Provide summary reviews for direct reports (Supervisors only)
 
@@ -65,7 +68,7 @@ Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messa
 
 ### 7. Return your equipment
 
-When you leave TTS, you are responsible for returning all TTS issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
+When you leave TTS, you are responsible for returning all TTS-issued equipment. Failure to do so may lead to your final paycheck being withheld until the equipment is returned.
 
 ## Offboarding process
 
