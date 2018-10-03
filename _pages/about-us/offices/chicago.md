@@ -59,7 +59,7 @@ Chicago is a very walkable city; plenty of hotels, coffee shops, restaurants, an
 
 ### <a id="biking"></a>Biking
 
-Short-term bikes can be rented via [Divvy](https://www.divvybikes.com/). $9.95 buys a 24-hour pass with unlimited 30-minute rides.
+Short-term bikes can be rented via [Divvy](https://www.divvybikes.com/). $15 buys a 24-hour pass with unlimited 3-hour rides. Remember to bring your own helmet when using Divvy!
 
 ### <a id="public-transit"></a>Public transit
 
