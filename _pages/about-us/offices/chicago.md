@@ -8,7 +8,7 @@ title: Chicago
       <tr>
         <td class="col-key"><strong>Location</strong></td>
         <td class="col-value">
-        230 S. Dearborn St., Suite #3500<br />
+        230 S. Dearborn St., 33rd floor SW<br />
         Chicago, IL 60604
         </td>
       </tr>
