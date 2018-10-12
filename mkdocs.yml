@@ -1,5 +1,6 @@
 site_name: CivicActions Handbook
 repo_url: https://github.com/CivicActions/handbook/
+site_url: https://civicactions-handbook.readthedocs.io/en/latest/
 theme:
     name: readthedocs
     highlightjs: true
