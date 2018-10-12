@@ -1,0 +1,10 @@
+site_name: CivicActions Handbook
+repo_url: https://github.com/CivicActions/handbook/
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+plugins:
+    - search
