@@ -140,28 +140,9 @@ See the [Transit Benefit](/transit-benefit) page for information on enrollment a
 
 ### <a id="bike-parking"></a>Bike parking
 
-Bike parking is available at the Metcalfe building, which is the federal building on the other side of Jackson Street from JCK. Entry to the bike garage is on Van Buren Street just east of Clark.  There are two steps to this process:
-
-_Key Card Access_
-
-To update your key card to get access to the parking garage you need to fill out [this form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbRGxCcmVoeTBXLXF0YU4wWjBpOHhCN21aRDZv/view?usp=sharing) to have access.  
-A few things to note:
-
-- Your supervisor should sign both the Supervisor and Authorized Agency Approver sections.
-- You will need your PIV card PIN to get access.
- - If you forgot your PIN, go to Room 212 to reset your PIN
-
-
-_Bike Sticker_
-
-You will also need to get a bike sticker to place on your bike.  
-
-Go to the Metcalfe Field Office (77 W. Jackson Suite 441) to fill it out an application.
-
-(You can bring your completed Key Card Access application with you at the same time.)
+Bike parking is available in JCK. See the JCK Field Office in Suite #200 for the form to request bike parking access.
 
 Note you will need your the following info to secure a bike sticker:
-
 
 - bike's make
 - bike's model
