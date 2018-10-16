@@ -52,13 +52,11 @@ Welcome to the 18F Design team — we’re happy you’re here! We’ve compiled
 
 ## First week
 
-You might not have much assigned work during your first week here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the design team has a long list of internal projects that aren’t funded but that will help us all work better together. Talk to your design lead (more on that, below) to get more information about these internal projects and how you can get involved.
+You might not have much assigned work during your first two weeks here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the design team has a list of internal projects that aren’t funded but that will help us all work better together. Talk to your design lead (more on that, below) to get more information about these internal projects and how you can get involved.
 
 ## <a id="who-we-are">Who we are</a>
 
 The Design team at 18F includes content, user experience, front-end, and visual designers. We are researchers, editors, prototypers, illustrators, and wordsmiths. We come from a variety of backgrounds, including government, non-profits, consultancies, corporations, and academia.
-
-For more information, see this [full list of skills by staff member](https://docs.google.com/spreadsheets/d/1X0i53EqWTzh0l3lrs0us-2bZ_2Z6TUGn2Y3lPHmSuXo/edit#gid=0).
 
 ### <a id="structure">Structure</a>
 
@@ -126,14 +124,14 @@ Here are some common tools we use, how we use them, and how you can get access t
 And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. If what you want to use isn’t there, you’ll need to ask in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
 
 #### Drawing lines on a screen
+Unless otherwise specified, **see [Software](../software/#provisioning) to get a license** for any of these.
 
 - **Adobe Creative Cloud:** CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **InVision:** For prototyping.
+- **InVision:** We use InVision for prototyping and group online critique. To get a license, ask to the Design Infrastructure Lead. 
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
 - **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
 - **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero). No license needed.
 
-Unless otherwise specified, see [Software](../software/#provisioning) to get a license for any of these.
 
 #### Project management
 
@@ -148,7 +146,7 @@ Unless otherwise specified, see [Software](../software/#provisioning) to get a l
 
 #### Workshops
 
-- **Mural.ly:** Research analysis and workshops. Get more info [here](/murally/). Access is immediate, but you’ll need to get permission from an admin to create rooms.
+- **Mural:** Research analysis and workshops. Get more info [here](/murally/). Access is immediate, but you’ll need to get permission from an admin to create rooms.
 
 #### Word processing
 
