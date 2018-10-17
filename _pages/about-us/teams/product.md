@@ -48,4 +48,4 @@ You might not have much assigned work during your first week here. That’s okay
 
 ### Product lead guide
 
-The [product lead guide](https://pages.18f.gov/product-guide/) serves as a handbook for new product team members. It has details about the roles a product lead might play, along with lots of helpful information about the delivery lifecycle.
+The [product lead guide](https://product-guide.18f.gov) serves as a handbook for new product team members. It has details about the roles a product lead might play, along with lots of helpful information about the delivery lifecycle.
