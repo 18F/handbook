@@ -66,7 +66,7 @@ You must not bill for the following activities because these are indirect costs 
 
 ### How many hours am I expected to bill per week?
 
-If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time  on billable project work. (Directors and supervisors have different billability expectations.)
+If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. (Directors and supervisors have different billability expectations.)
 
 That leaves up to 20% of your time to be spent on non-billable work. There are two types of non-billable work, both of which are used to manage the running of 18F itself: GSA-mandated non-billable work and 18F non-billable work. 
 
@@ -80,10 +80,10 @@ So for most people in a given 40-hour week, the expectation is to bill at least 
 
 Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed)
 --- | --- | ---
-5 days | 32 hours  (80% of 40 hours) | 8 hours
+5 days | 32 hours (80% of 40 hours) | 8 hours
 4 days | 26 hours (80% of 32 hours) | 6 hours
 3 days | 19.5 hours (80% of 32 hours) | 4.5 hours
-2 days | 13  hours (80% of 16 hours) | 3 hours
+2 days | 13 hours (80% of 16 hours) | 3 hours
 1 days | 6.5 hours (80% of 8 hours) | 1.5 hours
 
 ### What if I don't have enough work to bill to the hour expectation laid out above?
