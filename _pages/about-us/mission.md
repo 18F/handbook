@@ -1,5 +1,5 @@
 ---
 title: Mission
-url: https://github.com/18F/core-values/blob/mission-vision/pages/vision-mission.md#mission
+url: https://18f.gsa.gov/about/#our-mission
 layout: redirect
 ---
