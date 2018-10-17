@@ -66,13 +66,13 @@ You must not bill for the following activities because these are indirect costs 
 
 ### How many hours am I expected to bill per week?
 
-If you’re an individual contributor or a lead, you’re expected to spend at least  80% of your time  on billable project work. (Directors and supervisors have different billability expectations.)
+If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time  on billable project work. (Directors and supervisors have different billability expectations.)
 
 That leaves up to 20% of your time to be spent on non-billable work. There are two types of non-billable work, both of which are used to manage the running of 18F itself: GSA-mandated non-billable work and 18F non-billable work. 
 
 GSA-mandated non-billable work includes time spent in HRLinks, mandatory OLU trainings, IDPs, SF-182s, annual reviews, and so forth. These are the things we don’t have a choice but to spend time on.
 
-18F non-billable work includes time spent in guilds and working groups, team coffees, chapter meetings, business development, conference attendance, and anything that contributes to the running of 18F as an organization. 
+18F non-billable work includes time spent in guilds and working groups, team coffees, chapter meetings, approved internal projects, business development, conference attendance, and anything that contributes to the running of 18F as an organization. 
 
 Not sure whether work you’re doing is billable? If it’s not explicitly an indirect cost, it’s project work.
 
