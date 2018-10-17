@@ -40,9 +40,9 @@ People use Trello to track ideas from conception through execution. It's common 
 
 ### Chrome extensions
 
-Chrome extensions can dramatically increase the usability and functionality of Trello. You'll need your board's whole team to install the same Chrome extensions in order for everyone to see the board consistently. And you'll need to be sure the extensions you want to use are on the [list of OCSIO Approved and Implemented Chrome extensions](https://docs.google.com/spreadsheets/d/178_jEmJgfjbIF4GCKPn0iSPrln-4B3AWBSxq3ivnW4Y/pub).  
+[GSA OCSIO-approved Chrome extensions](https://docs.google.com/spreadsheets/d/178_jEmJgfjbIF4GCKPn0iSPrln-4B3AWBSxq3ivnW4Y/pub) can dramatically increase the usability and functionality of Trello. 
+However, at this time, no Chrome extensions for Trello have been approved. If you would like to use an extension for Trello on your team, you'll need to [complete this form to request an extension for review](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSeviBt7bnriQz3iQRn1dUyg-8KUR7jRgG5eJbc7nHxa1D_ciw/viewform?pli=1).
 
-At this time, no Chrome extensions for Trello have been approved for use. You can [complete this form to request an extension for review](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSeviBt7bnriQz3iQRn1dUyg-8KUR7jRgG5eJbc7nHxa1D_ciw/viewform?pli=1).
 
 ---
 
