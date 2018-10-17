@@ -2,6 +2,20 @@
 title: Tock
 ---
 
+tl;dr:
+
+18F staff should enter time in one of the following categories:
+
+18F Non-Billable Work, Line #968 (Time spent working on non-project work for 18F.)
+
+GSA-mandated Non-Billable Work, Line #969 (Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.)
+
+18F Out of Office, Line 670
+
+18F Project work - Numerous Line #s
+
+In Depth: 
+
 We use Tock to track our time.
 
 To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
