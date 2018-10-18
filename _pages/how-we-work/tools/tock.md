@@ -4,7 +4,7 @@ title: Tock
 
 tl;dr:
 
-18F staff should enter time in one of the following categories:
+18F staff should only enter time in one of the following categories:
 
 18F Non-Billable Work, Line #968 (Time spent working on non-project work for 18F.)
 
