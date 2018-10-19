@@ -101,7 +101,7 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 **Average time to process detail: 2.5-3 months**
 
 ## Applying to Detail opportunities within GSA
-* To view and apply to detail opportunities within GSA go [here](https://docs.google.com/spreadsheets/d/1RBGlvO8gIknKys_jMpOOoDuQlQpdtA9MsBtT7mX3-1A/edit#gid=1170008232)
+* To view and apply to detail opportunities within GSA go [here](https://docs.google.com/spreadsheets/d/1tvUDjm9bV42kHF7M7C7ZqA1PnI5qICnI4WBqZOMvDbU/edit?usp=sharing)
   * Interested employees should ask their supervisor for approval prior to submitting an application. Employees who are interested in full-time detail opportunities should also review [eligibility requirements](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTcxMTE1LjgwOTM2MzAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE3MTExNS44MDkzNjMwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3OTEzNzM0JmVtYWlsaWQ9amFjcXVlbGluZS5jb2xlbWFuQGdzYS5nb3YmdXNlcmlkPWphY3F1ZWxpbmUuY29sZW1hbkBnc2EuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&103&&&https://docs.google.com/a/gsa.gov/document/d/1O97XOFLEoO95yrxdyMKWmdapxVxZOlaEskAmFk-KkAA/edit?usp=sharing) to participate.
 * To be notified of new detail opportunities as they are posted, join the [GSA Project Network Chatter group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F930000000Tmc6&fromEmail=1)
 * Details are typically 120 days (or less) with the option to extend for an additional 120 days if both parties agree
@@ -111,7 +111,7 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 ## Posting a Detail Opportunity within GSA
 * If you are considering posting a detail opportunity you should first get approval from your supervisor and the Assistant Commissioner (AC) of your office  
 * Then reach out to the [tts-talentteam@gsa.gov](mailto:TTS-talentteam@gsa.gov) to get Front Office approval
-* To post a detail opportunity, available to all of GSA, you will have to complete [this google form](https://insite.gsa.gov/portal/content/572010)
+* To post a detail opportunity, available to all of GSA, you will have to complete [this google form](https://insite.gsa.gov/topics/training-and-development/opportunity-network/post-an-opportunity)
   * If the detail opportunity has a PD (series-title-grade) associated with it, then only applicants who are at or above that grade level are eligible to apply (Project network does not allow for details to a higher grade)
   * If the opportunity does not have a PD then you will need to create and post a list of “unclassified set of duties”. Employees at any GS level will be able to apply
   * Project Network reviews all applicants for program criteria, such as supervisory permission to apply, grade level if your position is posted to specific grade, and location criteria, they do not screen applicants, that is the responsibility of the Hiring Manager
