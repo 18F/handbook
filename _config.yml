@@ -150,6 +150,9 @@ navigation:
   - text: 18F History and values
     url: history-and-values/
     internal: true
+  - text: Internal TTS Opportunities
+    url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
+    internal: false
   - text: Office of Products and Programs (OPP) History
     url: opp-history/
     internal: true
