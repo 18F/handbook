@@ -12,7 +12,7 @@ We use Google Groups to manage team and interest-based email distribution lists 
 4. The service catalog auto-populates your name in the request. Note: If making a request on behalf of someone else, search for their name with the magnifying glass icon.
 5. Complete the required fields. Note that the business justification can be brief.
 6. Enter any other pertinent information in the comments.
-7. Click **Add to Cart**, then **Checkoutr** on the next page.
+7. Click **Add to Cart**, then **Checkout** on the next page.
 8. Your ticket has been created. You may want to note the ticket ID (starts with `RITM`) for future reference.
 
 ## Manage a Google Group
