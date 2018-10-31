@@ -44,41 +44,20 @@ Weekly pod calls help us stay in touch and in tune with each other. These are lo
 * Pod calls help us feel connected with the team as a whole
 * We discuss a topic of common interest or give project updates
 
-### Daily Scrum Calls
+### Project Specific Meetings
 
-Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling. Standups *usually* take this form:
+* [Daily Scrum Call](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
+* [Sprint Planning Meeting](../../04-how-we-work/agile-practices/sprint-planning-meetings.md)
+* [Backlog Grooming](../../04-how-we-work/agile-practices/backlog-grooming.md)
+* [Sprint Demo](../..04-how-we-work/agile-practices/sprint-demo/md)
+* [Sprint Retrospective](../../04-how-we-work/agile-practices/sprint-retrospectives.md)
 
-* Balance score: (1-10)
-* Yesterday: I did this thing.
-* Today: I plan to do this other thing.
-* Blockers: This is currently or potentially inhibiting me from doing what I'd like to do.
+### Practice Area Meetings
 
-For more specific information, see [Daily Scrum Calls](../../04-how-we-work/agile-practices/daily-scrum-calls.md).
+These meetings happen at regular interval and you will be invited to attend the ones that are most appropriate for your practice area.
 
-### Retrospectives
-
-Another project-specific meeting is the retrospective (called a retro, for short). This usually happens at the end of a sprint and takes between 30 minutes to an hour.
-
-The idea behind the retro is pretty simple: This meeting provide an opportunity for the team to reflect on how it's working. Like standups, retros are another project-governance meeting.
-
-For more specific information on Retrospectives, see [Sprint Retrospectives](../../04-how-we-work/agile-practices/sprint-retrospectives.md).
-
-### Sprint planning
-
-The last project-specific meeting is sprint planning. Sprint planning takes many forms at CivicActions, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint.
-
-For more specific information, see [Sprint Planning Meetings](../../04-how-we-work/agile-practices/sprint-planning-meetings.md).
-
-### Backlog grooming
-
-Backlog Grooming meetings are a chance to update and prioritize stories in the product backlog so that we know what's available for upcoming sprints.
-
-For more detail, read our  [Backlog grooming](../../04-how-we-work/agile-practices/backlog-grooming.md) page.
-
-## Tools
-
-Here are links to more information about how CivicActions uses specific tools to facilitate meetings.
-
-* [Google Calendar](../../04-how-we-work/tools/google-calendar.md)
-* [Google Hangouts](../../04-how-we-work/tools/google-hangouts.md)
-* [Zoom](../../04-how-we-work/tools/zoom.md)
+* Engineering 
+* Project Management
+* DevOps
+* User Experience 
+* Diversity, Equity, and Inclusion
