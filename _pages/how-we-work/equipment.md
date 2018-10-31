@@ -33,7 +33,7 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 **Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
-**Browser extensions need to be pre-approved.** See [the Chrome page on InSite](https://insite.gsa.gov/portal/content/638102) for more information.
+**Browser extensions need to be pre-approved.** See [the Chrome page on InSite](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-chrome-browser#Chrome%20Extensions) for more information.
 
 ### Tips
 
