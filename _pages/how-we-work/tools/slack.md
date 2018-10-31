@@ -22,7 +22,7 @@ Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff.
 
 - Vendors _under contract_ (not just a Terms of Service) with TTS
 - Vendors with GSA who are working on a project with TTS, for which we have an Memorandum of Understanding (MOU)
-- Partners at federal agencies whose projects are under an Interagency Agreement with TTS
+- Partners at federal agencies whose projects are under an Interagency Agreement with TTS, or at state or local agencies whose projects are under an Intergovernmental Collaboration Act agreement with TTS.
 - Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
 - Members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov)
 
