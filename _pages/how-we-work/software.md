@@ -154,7 +154,7 @@ Software, domains, and SSLs currently managed by OPP are being migrated into the
 
 If your request is under $10,000, the Acquisition team may direct you to submit [a simple purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new).
 
-Once you have filled out and submitted the requested information, please attach an email from your director or portfolio lead approving the request. Upon completion of your submission, please add the current TTS p-card purchaser as an observer to the C2 request who will follow up with you directly about the purchase. At the same time, Jackie Xu will review the request for funds availability, and then your request will be routed to the TTS purchase team for review and purchase.
+Once you have filled out and submitted the requested information, please attach an email from your director or portfolio lead approving the request. Upon completion of your submission, please add Anthony Hong as an observer to the C2 request who will follow up with you directly about the purchase. At the same time, Jackie Xu will review the request for funds availability, and then your request will be routed to the TTS purchase team for review and purchase.
 
 The purchase team will review the request and verify that technical approval (ATO) has been secured (and the software has undergone FITARA review where applicable or currently exists in the [GSA IT Standards Profile](https://ea.gsa.gov/#!/itstandards)) before making the purchase. If the software already exists in the GSA IT Standards Profile, the timeframe between request and purchase will be about one week. HOWEVER, most software requests not in the Profile will require significant additional review which may take several months. GSA IT is working to streamline this.
 
