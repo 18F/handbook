@@ -97,7 +97,7 @@
 
 * [CivicActions Agile](../../04-how-we-work/agileoverview.md)
 * Introduction to the [Scrum call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
-* Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#retrospectives)
+* Overview of other Scrum ceremonies: [retrospectives, sprint planning, backlog grooming, demo](../../04-how-we-work/agile-practices/README.md)
 * Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
 * Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 
@@ -113,12 +113,12 @@
 ### Aligning Yourself with CivicActions
 
 * [Read the Culture playbook](../../02-about-us/culture.md)
+* [Read the CivicActions values](https://civicactions.com/values/)
 * Read about the [gold star program](../../04-how-we-work/gold-star-program.md)
 * Create email signature
     * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
 * Update LinkedIn & social media accounts with CivicActions as company
     * Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
-    * Update your skills on LinkedIn
 * Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account
 * Add a photo avatar to your accounts (Slack, Google, Trello, Jira, etc)
 * [Update resume into CivicActions template](../team-resume-instructions.md)
