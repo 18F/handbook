@@ -28,6 +28,7 @@ A mentor typically has been with CivicActions for at least six months to one yea
 * Set up and attend regular check in meetings with your new hire
 * Answer questions
 * Stimulate conversation
+* Review project playbooks and frameworks together
 
 ## Cross Functional Mentorship
 
