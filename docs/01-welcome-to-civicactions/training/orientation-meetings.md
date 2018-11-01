@@ -113,12 +113,12 @@
 ### Aligning Yourself with CivicActions
 
 * [Read the Culture playbook](../../02-about-us/culture.md)
+* [Read the CivicActions values](https://civicactions.com/values/)
 * Read about the [gold star program](../../04-how-we-work/gold-star-program.md)
 * Create email signature
     * Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
 * Update LinkedIn & social media accounts with CivicActions as company
     * Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
-    * Update your skills on LinkedIn
 * Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account
 * Add a photo avatar to your accounts (Slack, Google, Trello, Jira, etc)
 * [Update resume into CivicActions template](../team-resume-instructions.md)
