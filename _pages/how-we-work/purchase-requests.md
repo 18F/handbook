@@ -30,11 +30,11 @@ There are a few more rules on requesting trainings and conferences at 18F, pleas
 
 ## Business cards
 
-Different 18F team members have different solutions for business cards.
+To request business cards, first head to [envisionprintservices.com]([envisionprintservices.com]). Verify your email, then create an account for yourself. Use a password that you are comfortable sharing with a member of the TTS BizOps team, as they will need to later log in as you and make the purchase.
 
-If you want **GSA branding**, you can create a [new purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new) A standard pack of 250 business cards costs $27.62 after taxes. Once your request has been approved by the Director of Operations, an 18F purchase card holder will reach out to you and put 15 minutes on your calendar. During this meeting, you will work together to place your business card order using https://envisionprintservices.com/. Business cards orders will generally arrive 5-7 business days after placement.
+Once your account is set up, fill in the required information, finalize the design of your cards, and review your proof. Continue to checkout, choosing the quantity you'd like and adding the address that you'd like your business cards mailed to.
 
-If you want **TTS/18F branding**, you must purchase your own business cards.
+Once you are on the final step of the order and credit card information is requested, create a new purchase [new purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new), and include your account credentials under "Link to Product". Your order here will be reviewed by the TTS Director of Business Operations, and once approved, a member of the TTS BizOps team will log into your Envision account and release payment. Your business cards will arrive 7-10 business days after that.
 
 ## Office supplies
 
