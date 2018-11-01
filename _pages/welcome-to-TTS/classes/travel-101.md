@@ -19,7 +19,7 @@ In order to ensure same-day approval of your travel, please ensure that your aut
 
 ## Making travel reservations in Concur
 
-Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system TTS employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](../first-time-travel-concur-check/). You will [complete your profile](../first-time-travel-complete-concur-profile/) after your receive your travel card.
+Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system TTS employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](../first-time-travel-concur-check/). You will [complete your profile](../first-time-travel-complete-concur-profile/) after you receive your travel card.
 
 ## Booking your hotel and paying for official expenses using the GSA Travel card
 
