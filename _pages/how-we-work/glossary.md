@@ -7,13 +7,15 @@ tags:
 - Words
 ---
 
+* **18F** - [18F](https://18f.gsa.gov/) develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships. 18F is a division within TTS.
+
 * **2FA** - Two-factor authentication: entering a second, temporary code in addition to a username and password. 2FA provides added security when logging in to programs, like GitHub, remotely.
 
 * **508** - The federal regulation that requires government IT projects be accessible to people with disabilities.
 
 * **API** - Application programming interface. Think of them as a way for computers to interact, either internally or between one another. If you wanted to make a website that shows the current temperature wherever you are, your code talks to one API to get your location, then another to find out the weather in that area.
 
-* **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Historically this is a three to six month process, but 18F has been working to fix this. Noah Kunin can sometimes help speed the process.
+* **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff.
 
 * **AWS** - Amazon Web Services. When we make websites, this is where they all live. Read easy-to-understand descriptions of the different pieces [here](https://www.expeditedssl.com/aws-in-plain-english).
 
@@ -25,7 +27,9 @@ tags:
     * Trigger emails being sent
 
 
-* **CHRIS** – GSA’s [Comprehensive Human Resources Integrated System](http://www.gsa.gov/portal/content/105088) is an e-Tool that enables employees to access their personnel files online.
+* **CHRIS** – GSA’s Comprehensive Human Resources Integrated System was an e-Tool that enabled employees to access their personnel files online. GSA now uses HRLinks.
+
+* **CoEs** – The [Centers of Excellence](https://coe.gsa.gov/) accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by centralizing best practices and expertise. The COEs are a division within TTS.
 
 * **Dev** - someone who does software development. A "coder."
 
@@ -49,17 +53,21 @@ tags:
 
 * **Grok** - To fully [understand](http://www.urbandictionary.com/define.php?term=grok) something.
 
+* **HR Links** - [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's system for HR actions, including requesting leave and managing performance review documents.
+
 * **IAA** - Interagency agreement. A contract between federal agencies.
 
 * **MOA** - The [Memorandum of agreement](https://docs.google.com/a/gsa.gov/file/d/0B84F26FpUP0lQU5aWkplWDVtS2M/edit), created between GSA and FAS establishes us through 2018.
 
 * **MOU** - Memorandum of understanding.
 
-* **OLU** - On-Line University, where our team's mandatory training classes are hosted.
+* **OLU** - On-Line University, where our agency's mandatory training classes are hosted.
+
+* **OPP** - The [Office of Products and Programs](../office-of-products-and-programs/) helps the public use and understand government, and helps agencies understand and serve the public. To achieve this, they create, discover, connect and share practical solutions and products that transform government. OPP is a division within TTS.
 
 * **OTP** - One-time password. In Atlanta, this refers to "outside the perimeter," as opposed to ITP (inside the perimeter).
 
-* **PIF** - Presidential Innovation Fellows serve on highly competitive, one-year appointments, which fall within 18F.
+* **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs talented, diverse technologists and innovators with top civil-servants and change-makers working at the highest levels of the federal government to tackle some of the nation’s biggest challenges. The PIF program is highly-competitive, and PIFs serve on one-year appointments. The PIF team is a division within TTS.
 
 * **PII** - personally identifiable information.
 
@@ -67,7 +75,7 @@ tags:
 
 * **SLT** - Senior Leadership Team. 
 
-* **USDS** - The [United States Digital Service](http://www.whitehouse.gov/photos-and-video/video/2014/08/20/introducing-us-digital-service) reports to the White House.
+* **USDS** - The [United States Digital Service](https://www.usds.gov/) is a startup at The White House, using design and technology to deliver better services to the American people.
 
 * **UX** - User experience. Basically, this means building things with a focus on who the user is and what they want to do, rather than just what it should look like.
 
