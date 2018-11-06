@@ -29,12 +29,14 @@ Description: An epic often starts as the big picture and then the user stories f
 * Explains how we validate that this card works
 * Written in a language anyone can understand
 * Explains what the ticket will not do as well
+* Acceptance Testing is the process that verifies if the installed piece of code or software works as designed for the user
 
 ## QA Tests
 
 * Written step-by-step so that anyone can pass/fail the test
 * The PO will also run through the same test
 * It will also explain the expected results
+* Specific directions/steps a tester can follow that ensure what was developed produces what the engineer intended  
 
 ## Estimates
 
