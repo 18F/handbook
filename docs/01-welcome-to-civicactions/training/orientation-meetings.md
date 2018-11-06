@@ -124,7 +124,7 @@
 * [Update resume into CivicActions template](../team-resume-instructions.md)
 * [Write your CivicActions bio w photo](../civicactions-bio-instructions.md)
 * Manager to provide an introduction to our copywriter / editor for support on bio & resume
-* Introduction to [presentation slides template](../../04-how-we-work/tools/presentation-slides.md)
+* Introduction to [presentation slides template](../../04-how-we-work/tools/presentation-templates.md)
 * Review the CivicActions [elevator pitch](../../02-about-us/elevator-pitch.md)
 
 ## Day 3
