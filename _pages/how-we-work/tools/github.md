@@ -89,6 +89,8 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 Giving contractors and federal partners read or write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community.
 
+Confusingly, no one should be an "outside collaborator" in GitHub parlance. Instead, we should manage repo access exclusively via teams.
+
 Here&rsquo;s our current process to address both operational and security concerns:
 
 1. If the user is a member of the federal government, confirm we have an active [inter-agency agreement (IAA)](https://pages.18f.gov/iaa-forms/primer.html) or other legal document authorizing the work.
@@ -103,7 +105,7 @@ Here&rsquo;s our current process to address both operational and security concer
     * The 18F GitHub Organization requires 2FA for its members. Users without 2FA cannot be added to the GitHub Organization.
 6. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
 
-When the engagement is over, you must let #admins-github know so the access can be removed.
+When the engagement is over, you must let #admins-github know so the team can be deleted and access removed.
 
 
 ## Usage
