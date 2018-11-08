@@ -19,10 +19,6 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 * Support on professional development: Elizabeth Raley, Jason Heaster
 * When I'm concerned about something else: Owen Barton, Elizabeth Raley, Alaine Karoleff
 
-## Team Contact Information
-
-* [CivicActions team roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit#gid=0)
-
 ## Main Listservs
 
 * Team-wide communication: ca-team@civicactions.net
