@@ -17,6 +17,10 @@ GSA processes new badges every Wednesday. When your badge is ready, you’ll rec
 
 Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
 
+## Business cards
+
+If you need business cards for a specific meeting with partners, you can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect TTS or 18F branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
+
 ## Laptop
 
 TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA.
@@ -67,8 +71,6 @@ See the [software](../software/) page.
 ## Mice, keyboards, and trackpads
 
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. The procedure for requesting, however, varies by office.
-
-You can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect TTF or 18F branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
 
 #### DC or remote
 
