@@ -1,8 +1,10 @@
 ---
 title: Slack
+tags:
+- TTS legend
 ---
 
-Slack is a chat client that provides us with a centralized way to communicate without overloading our inboxes.
+Slack is a chat client that might or might not have been invented by TTS alum Will Slack that provides us with a centralized way to communicate without overloading our inboxes.
 
 ## Setup
 
