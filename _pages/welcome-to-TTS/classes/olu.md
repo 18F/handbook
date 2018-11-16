@@ -6,7 +6,7 @@ tags:
 - mandatory
 ---
 
-The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for mandatory trainings for federal employees.  Time spent taking OLU trainings should be coded as `671 - 18F / FY18 Training and Conferences` in [Tock](/tock).
+The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for mandatory trainings for federal employees.  Time spent taking OLU trainings should be coded as `969 - GSA-mandated Non-Billable Work` in [Tock](/tock).
 
 ## <a id="online-university">Online University (OLU)</a>
 
