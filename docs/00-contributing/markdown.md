@@ -31,3 +31,7 @@ You can check that your markdown complies with the retext and remark locally:
 * Open a terminal and `cd` to your git root.
 * Run `yarn install` to install the dependencies.
 * Run `./node_modules/.bin/gulp` (you can also pass in `--path=` to a specific file to limit tests to just that).
+
+## Editors
+
+Markdown can be really easy to use with a good editor such as some of these [text editors](../../04-how-we-work/tools/text-editors.md).
