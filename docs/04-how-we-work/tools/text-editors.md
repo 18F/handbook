@@ -9,6 +9,7 @@ We use text editors to write documentation in [Markdown](https://github.com/adam
 * [Nano](https://www.nano-editor.org/): Installed on OS X and Linux by default. Also available on OS X via [Homebrew](http://brew.sh/)
 * [Sublime Text](http://www.sublimetext.com/)
 * [Vim](http://www.vim.org/download.php): Installed on OS X and Linux by default. Also available on OS X via [Homebrew](http://brew.sh/)
+* [Typora](https://typora.io/)
 
 ## Still have questions?
 
