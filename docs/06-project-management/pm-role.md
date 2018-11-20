@@ -145,7 +145,7 @@ During these types of meetings the PM should do the following:
 * Being on time (and first to arrive) to meetings
 * Starting/introducing meetings
 * Approving the initial time off requests from their team members
-* Updating resource guru
+* Updating Harvest Forecast for resourcing
 * Documenting outcomes from demos on tickets
 * Status reporting (schedule, budget)
 * Updating the delivery projections for the month
