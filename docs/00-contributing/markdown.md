@@ -34,4 +34,5 @@ You can check that your markdown complies with the retext and remark locally:
 
 ## Editors
 
-Markdown can be really easy to use with a good editor such as some of these [text editors](../..//04-how-we-work/tools/text-editors.md).
+Markdown can be really easy to use with a good editor such as some of these [text editors](../../04-how-we-work/tools/text-editors.md) 
+
