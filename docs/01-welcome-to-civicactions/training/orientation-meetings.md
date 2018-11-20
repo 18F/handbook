@@ -28,7 +28,7 @@
 
 * Where to [direct questions](../../02-about-us/general-contacts-and-listservs.md)
 
-* Introduction to the [mentoring program](mentoring-program.md)
+* Introduction to the buddy program
 
 * Working hours expectations:
     * We have schedule flexibility, but request a general set schedule / core hours
