@@ -49,9 +49,12 @@ If the project requires an Integrated Project Plan (IPP), then this template can
 
 [Client Integrated Project Plan Template](https://docs.google.com/a/civicactions.net/document/d/1cqh2-QpfvZYQDt9IHbA-vEqY9hrjoiJ1Nb-xdbQ6loU/edit?usp=sharing)
 
-## Burndown Spreadsheet
+## Budget Tracking
+
+The following templates can be helpful for the project manager to track their budget and include in their weekly status reporting. 
 
 [Burndown Template](https://docs.google.com/spreadsheets/d/16fvmQ6Rfg0YeTuSFWU_j81a73PMQtPd8kBONyjVZCDw/edit#gid=0)
+
 [Budget Tracking Document](https://docs.google.com/spreadsheets/d/1fCFzC_7dLe6diXWK8_yzW91svJFGnYbwEMLAPI-tDeU/edit#gid=1956976072)
 
 ## Project Contacts 
