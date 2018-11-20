@@ -1,8 +1,8 @@
-# Mentorship
+# Buddy Program
 
 ## The Role of the Buddy
 
-The purpose of a buddy is to provide a friendly, peer-based connection between a new hire and an experienced CivicActioner. The idea is to have someone in the new hire’s field to ask questions, learn of historical processes, learn how to escalate issues, and ensure the new hire’s questions are answered (even things like writing subject lines for emails). Within a new hire’s onboarding board many of these topics are addressed, but it's inevitable that additional questions will bubble up that a mentor is best suited to answer.
+The purpose of a buddy is to provide a friendly, peer-based connection between a new hire and an experienced CivicActioner. The idea is to have someone in the new hire’s field to ask questions, learn of historical processes, learn how to escalate issues, and ensure the new hire’s questions are answered (even things like writing subject lines for emails). Within a new hire’s onboarding board many of these topics are addressed, but it's inevitable that additional questions will bubble up that a buddy is best suited to answer.
 
 A buddy typically has been with CivicActions for at least six months to one year and is in a role similar to that of the new hire (developer with developer, PM with PM, etc). It is the responsibility of the buddy to initiate conversations on a regular basis with the assigned new hire and to nurture a positive professional relationship that encourages questions and learning.
 
