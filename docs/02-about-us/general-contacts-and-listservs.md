@@ -8,15 +8,14 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 * Technical questions, specific project questions: Owen Barton
 * Non-technical questions, scrum & process questions: Elizabeth Raley
 * HR related concerns or questions: First speak with your manager
-* Pod PMs: Steve Curtis (Hydra), Susie Bird (Vela), Jason Heaster (Pyxis), Ero Gray (Ursa)
+* Pod Leads: Steve Curtis (Hydra), Susie Bird (Vela), Jason Heaster (Pyxis), Ero Gray (Ursa), Marc Jones (Aries)
 * Referring New Hires: Aaron Pava, Elizabeth Raley
-* Company Goals: Aaron Pava, Elizabeth Raley
-* Marketing related questions or ideas: Aaron Pava
+* Company Goals: Aaron Pava, Henry Poole
+* Marketing related questions or ideas: Aaron Pava, Luke Fretwell
 * Sales related questions or ideas: Bill Ogilvie
 * Conferences & professional development, prof dev stipend: Elizabeth Raley
 * Time-off, vacation, leave, sick time: Your PM, Alaine Karoleff, Elizabeth Raley
-* Personal, company or client security/compliance questions: Fen Labalme, Marc Jones
-* Support on professional development: Elizabeth Raley, Jason Heaster
+* Personal, company or client security/compliance questions: Fen Labalme
 * When I'm concerned about something else: Owen Barton, Elizabeth Raley, Alaine Karoleff
 
 ## Main Listservs
