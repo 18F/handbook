@@ -67,7 +67,7 @@ tags:
 
 * **OTP** - One-time password. In Atlanta, this refers to "outside the perimeter," as opposed to ITP (inside the perimeter).
 
-* **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs talented, diverse technologists and innovators with top civil-servants and change-makers working at the highest levels of the federal government to tackle some of the nation’s biggest challenges. The PIF program is highly-competitive, and PIFs serve on one-year appointments. The PIF team is a division within TTS.
+* **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs innovators with top civil-servants in the highest levels of the federal government to tackle some of the biggest challenges. The PIF team is a division within TTS.
 
 * **PII** - personally identifiable information.
 
