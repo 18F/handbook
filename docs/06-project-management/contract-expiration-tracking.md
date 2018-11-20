@@ -10,7 +10,7 @@ The PM may want to a separate document that lists the project contract dates in 
 
 ## Contract Locations
 
-(WIP) CivicActions in is the middle of reoganizing where we strore contracts and the folder structure around that. Currently nearly all current contracts can be located in the CivicActions Contracts folder and then within the client and project name. 
+(WIP) CivicActions in is the middle of reoganizing where we store contracts and the folder structure around that. Currently nearly all current contracts can be located in the CivicActions Contracts folder and then within the client and project name. 
 
 
 ## Contract Management
