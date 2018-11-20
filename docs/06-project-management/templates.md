@@ -1,4 +1,4 @@
-# Project Manager Templates (WIP)
+# Project Manager Templates 
 
 ## The purpose of templates
 
