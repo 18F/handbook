@@ -29,7 +29,7 @@ tags:
 
 * **CHRIS** – GSA’s Comprehensive Human Resources Integrated System was an e-Tool that enabled employees to access their personnel files online. GSA now uses HRLinks.
 
-* **CoEs** – The [Centers of Excellence](https://coe.gsa.gov/) accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by centralizing best practices and expertise. The COEs are a division within TTS.
+* **CoEs** – The [Centers of Excellence](https://coe.gsa.gov/) accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by centralizing best practices and expertise. The CoEs are a division within TTS.
 
 * **Dev** - someone who does software development. A "coder."
 
