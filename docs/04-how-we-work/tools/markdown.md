@@ -12,3 +12,7 @@ Markdown is a lightweight markup language with plain text formatting syntax. It'
 * [Trello markdown cheatsheet](http://help.trello.com/article/821-using-markdown-in-trello)
 * [Jira markdown cheatsheet](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 * [Slack markdown cheatsheet](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
+
+## Handbook 
+
+The CivicActions handbook is written in markdown. You can find more information about that on this [handbook Markdown page](../../00-contributing/markdown.md).
