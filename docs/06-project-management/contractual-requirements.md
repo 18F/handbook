@@ -8,7 +8,7 @@ The PM should have a method for tracking these deliverables (such as a spreadshe
 * Deliverable name 
 * Deliverable description 
 * Due date
-* Status of deliverable (to do, in progress, submitted, accepted)
+* Status of deliverable (to do, in progress, ongoing monthly, delivered, accepted)
 * Submission date of deliverable
 * Link to Jira ticket (if applicable)
 * Deliverable owner/lead (if applicable)
