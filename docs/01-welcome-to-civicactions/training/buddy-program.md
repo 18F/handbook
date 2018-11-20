@@ -32,4 +32,4 @@ A buddy typically has been with CivicActions for at least six months to one year
 
 ## Cross Functional Buddy
 
-* A cross functional buddy is someone who is in a role opposite of your own. You may decide at some point to choose which cross functional role you’d like support in and this can become part of your [professional development](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation). 
+* A cross functional buddy is someone who is in a role opposite of your own. You may decide at some point to choose a cross functional role you’d like support in and this can become part of your [professional development](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation). 
