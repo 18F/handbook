@@ -8,19 +8,6 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization).
 
-## Documentation
-
-- [Brief onboarding class about GitHub](/intro-to-github).
-
-- The 18F [Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) and accompanying [practice guide](https://github.com/18F/open-source-policy/blob/master/practice.md) explain why and how we write code and documentation in the open.
-
-- [A guide to using GitHub and the Terminal from 18F's blog](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
-
-- Will Slack [explains the basics](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit) of version control and GitHub. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18); course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit). It's also available [in video form](https://www.youtube.com/watch?v=uNa9GOtM6NE).
-
-- The [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/) covers conventions and best practices.
-
-
 ## <a id="setup">Setup</a>
 
 GitHub is a web application, so there&rsquo;s no installation necessary, but you may find the [desktop app](https://desktop.github.com/) useful.
@@ -87,6 +74,26 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **You do not need approval to transfer a repository.** In some cases, it may make sense to transfer a repository to a client. The person performing the transfer will need to be a member of both organizations. After transferring the repository to the client's organization, create a fork of it in the 18F organization. 
 
+## How-to
+
+### Documentation
+
+- [Brief onboarding class about GitHub](/intro-to-github).
+
+- The 18F [Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) and accompanying [practice guide](https://github.com/18F/open-source-policy/blob/master/practice.md) explain why and how we write code and documentation in the open.
+
+- [A guide to using GitHub and the Terminal from 18F's blog](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
+
+- Will Slack [explains the basics](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit) of version control and GitHub. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18); course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit). It's also available [in video form](https://www.youtube.com/watch?v=uNa9GOtM6NE).
+
+- The [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/) covers conventions and best practices.
+
+### Git and GitHub Usage
+
+Git and GitHub are the [standard](https://github.com/18F/Infrastructure#approved-toolchain) tools for revision control at 18F. Git is an open-source version control system, and GitHub is a closed-source, commercial service that hosts Git repositories and adds extra features to support them, such as pull requests and issue tracking. Although this _sounds_ super technical, these tools are _not_ just for developers hacking code; 18F employees use GitHub to author blog posts, manage documentation, and comment on one another&rsquo;s work.
+
+In other words, you&rsquo;ll probably use GitHub a lot at 18F. We recommend you get familiar with the basics. If you&rsquo;re new to GitHub and feel confused at first, that&rsquo;s normal. Try a few guides, review our documentation, and ask your teammates for help. GitHub also has a handy document that explains the typical [GitHub Workflow](https://guides.github.com/introduction/flow/).
+
 ### Working with outside collaborators
 
 Giving contractors and federal partners read or write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community.
@@ -109,19 +116,6 @@ Here&rsquo;s our current process to address both operational and security concer
 
 When the engagement is over, you must let #admins-github know so the team can be deleted and access removed.
 
-
-## Usage
-
-Git and GitHub are the [standard](https://github.com/18F/Infrastructure#approved-toolchain) tools for revision control at 18F. Git is an open-source version control system, and GitHub is a closed-source, commercial service that hosts Git repositories and adds extra features to support them, such as pull requests and issue tracking. Although this _sounds_ super technical, these tools are _not_ just for developers hacking code; 18F employees use GitHub to author blog posts, manage documentation, and comment on one another&rsquo;s work.
-
-In other words, you&rsquo;ll probably use GitHub a lot at 18F. We recommend you get familiar with the basics. If you&rsquo;re new to GitHub and feel confused at first, that&rsquo;s normal. Try a few guides, review our documentation, and ask your teammates for help. GitHub also has a handy document that explains the typical [GitHub Workflow](https://guides.github.com/introduction/flow/).
-
-## Process
-
-- **Document your workflow.** There are many different ways to use GitHub, and each different team of people at 18F (likely) uses it differently. That said, teams should document their desired git workflow for each project, such as in your repository&rsquo;s ```contributing.md``` file. The 18F-Site team offers a good example with  [their GitHub wiki](https://github.com/18F/18f.gsa.gov/wiki/How-we-Git). In 18F's [development guide](https://pages.18f.gov/development-guide/), there are [code review questions](https://pages.18f.gov/development-guide/code-review/) that your team may want to go over as you think about documentation.
-
-- **Do you fork or do you branch?** Git allows you to both &ldquo;fork&rdquo; and &ldquo;branch&rdquo; repositories to make a place to work on changes before you submit them for integration into the main code. **[Making a fork](https://help.github.com/articles/fork-a-repo/)** creates a copy of the repository in your own GitHub account. **Making a branch** of the main repository means you&rsquo;re working in your own little space, but it&rsquo;s still part of the main repository &mdash; which helps keep the project organized, since everyone can easily see what teammates are working on.
-
 ### Pull requests
 
 18F defaults to using branches, though teams are welcome to decide they prefer using forks instead. Regardless of whether you branch or fork, changes happen via [pull requests](https://help.github.com/articles/using-pull-requests/).
@@ -138,7 +132,22 @@ Teams can give groups of people administrative, write, or read permissions to 18
 
 Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
 
-## Organizations
+## Tips
+
+- **Document your workflow.** There are many different ways to use GitHub, and each different team of people at 18F (likely) uses it differently. That said, teams should document their desired git workflow for each project, such as in your repository&rsquo;s ```contributing.md``` file. The 18F-Site team offers a good example with  [their GitHub wiki](https://github.com/18F/18f.gsa.gov/wiki/How-we-Git). In 18F's [development guide](https://pages.18f.gov/development-guide/), there are [code review questions](https://pages.18f.gov/development-guide/code-review/) that your team may want to go over as you think about documentation.
+
+- **Do you fork or do you branch?** Git allows you to both &ldquo;fork&rdquo; and &ldquo;branch&rdquo; repositories to make a place to work on changes before you submit them for integration into the main code. **[Making a fork](https://help.github.com/articles/fork-a-repo/)** creates a copy of the repository in your own GitHub account. **Making a branch** of the main repository means you&rsquo;re working in your own little space, but it&rsquo;s still part of the main repository &mdash; which helps keep the project organized, since everyone can easily see what teammates are working on.
+
+## For admins
+
+In GitHub parlance, where repos all have admins, org-wide administrators are called "owners."
+
+- When you take care of an ask, give it a :check: reaction in Slack. If you have questions about an ask, please start a thread so that the channel stays clean.
+- Whenever possible, owners should push decisions as to be as close as possible to those most affected - like whoever owns or last worked on a repo.
+-  If you aren't sure about the answer to something, its always better to check with someone else instead of guessing.
+- If you aren't helping out as an owner, please give up your permissions to help minimize our risk.
+
+### Organizations
 
 18F/TTS manages (or is heavily involved with) the following GitHub organizations:
 
