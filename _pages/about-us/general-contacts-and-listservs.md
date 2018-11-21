@@ -48,8 +48,7 @@ Information you might need for filling out GSA forms:
 ### Chapters and PIF
 
 - Development team: [18fdev@gsa.gov](mailto:18fdev@gsa.gov)
-- Experience 
-team: [18f-xd@gsa.gov](mailto:18f-xd@gsa.gov)
+- Experience team: [18f-xd@gsa.gov](mailto:18f-xd@gsa.gov)
 - Presidential Innovation Fellows: [pif-team@pif.gov](mailto:pif-team@pif.gov)
 - Product team: [18f-product@gsa.gov](mailto:18f-product@gsa.gov)
 
