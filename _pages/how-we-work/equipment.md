@@ -19,7 +19,7 @@ Badges are shipped to your local GSA office. You will receive an email once your
 
 ## Business cards
 
-If you need business cards for a specific meeting with partners, you can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect TTS or 18F branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
+To make best use of our resources, we don't generally use business cards. If you need business cards for a specific meeting with partners, you can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect TTS or 18F branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
 To make best use of our resources, we don't generally use business cards. If you need business cards for a specific meeting with partners, though, you can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new) [...]
 ## Laptop
 
