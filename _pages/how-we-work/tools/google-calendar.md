@@ -69,7 +69,3 @@ This feature doesn't integrate as well with calendar, but it does show the curre
 ### Sync Google Calendar with your iPhone
 
 You can sync your schedule to an iOS device with Google Calendar. Use your Gmail account to sign in.
-
-### Sync Google Calendar with your Mac
-
-You can sync your schedule to Apple’s Calendar program on a macOS computer. Use your Gmail account to sign in.
