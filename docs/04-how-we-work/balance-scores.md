@@ -18,6 +18,3 @@ CivicActions strongly supports a sustainable life/work balance. Each employee ha
 
 Sprint planning should prevent any work week from becoming too huge. But even with the best planning we can occasionally have to deal with spikes and cruxes, and you may feel that working less post-spike is a great way to feel more balanced, and catch up on stuff in the non-work life that may have suffered during the spike.
 
-## More Reading
-
-* Read this [blog post](http://www.civicactions.com/blog/2014/may/20/how-to-use-balance-scores-to-improve-velocity-in-scrum)
