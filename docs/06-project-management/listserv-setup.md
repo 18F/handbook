@@ -18,6 +18,7 @@ We use internal and client-facing listservs for email communication. PMs are  re
 ## Before adding users
 
 * Under Basic Permissions: Check off "Allow new users not in civicactions".
+* Under Posting Permissions: For the Post field select all options including "Anyone on the web" so that clients can email to the list and the list can be CC'd on other's emails. 
 * Under Email Options: Add \[subject prefix\] that will show up in all emails in the subject line
 * Under Email Options: Set "Post replies"  "To the entire group" (in most cases)
 * Under Email Options: You can set auto-replies, custom footers, etc.
