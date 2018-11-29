@@ -1,0 +1,25 @@
+h1, h2, h3, h4, h5, h6, p, li, blockquote {
+  font-family: 'Ubuntu', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 900;
+}
+.wy-nav-side {
+  background: #002f43;
+}
+.wy-nav-content {
+  color: #002f43;
+}
+.wy-nav-content a,
+.wy-nav-content a:visited {
+  color: #db1b3b;
+}
+.wy-menu-vertical a:active {
+  background-color: #db1b3b;
+}
+.wy-side-nav-search {
+  background-color: #db1b3b;
+}
+.wy-side-nav-search>div.version {
+  color: #fff7f6;
+}
