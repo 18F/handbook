@@ -17,3 +17,5 @@ Wireframes and page tables are mockups used to convey content requirements defin
 [Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE)
 
 ## Examples:
+
+![alt text](../images/mybalsamiq-wireframe.png "MyBalsamiq wireframe example")
