@@ -30,5 +30,5 @@ We use internal and client-facing listservs for email communication. PMs are  re
 * You can set a welcome message that should be sticky for future members that get added.
 * Add elizabeth.raley@civicactions.com and owen.barton@civicactions.com to every list you create. 
 
-![alt text](../images/google-email-list-config.jpg "PM billing Delivery")
+![alt text](../images/create-google-group-listserv.png "PM listserv setup")
 
