@@ -112,7 +112,7 @@ If you’re having trouble, call one of the points of contact listed above, or g
 
 ### Get my fingerprints and badge?
 
-You can get them at 450 Golden Gate. [Schedule an appointment online](https://timetrade.com/app/usaccess/workflows/usaccess001/schedule/location?wfsid=b07a7e11-baba97f6-b07a7e14-baba97f6-00000003-6ndldh7l376heqavd2983aah4s7tsj4b&appointmentTypeGroupId=hspd12&fs=1) or call (415) 844-9759.
+You can get them at 450 Golden Gate. [Schedule an appointment online](https://timetrade.com/app/usaccess/workflows/usaccess001/schedule/location?wfsid=b07a7e11-baba97f6-b07a7e14-baba97f6-00000003-6ndldh7l376heqavd2983aah4s7tsj4b&appointmentTypeGroupId=hspd12&fs=1) or call 415-844-9759.
 
 Once you’re there, turn right after entering past security, then the office for the MSO Credentialing Center is directly across from IRS. This is also where you can get your card _activated_.
 
