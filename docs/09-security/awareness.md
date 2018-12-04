@@ -38,7 +38,7 @@ LastPass provides secure password management especially when unlocked via Two Fa
 
 ## Use Two Factor (or 2-Step) Authentication (TFA, 2FA)
 
-Two-Factor Authentication includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a Yubikey) and can greatly increase the security of your systems. CivicActions recommends you use Two-Factor Authentication for services that support it.
+Two-Factor Authentication (TFA) includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a Yubikey) and can greatly increase the security of your systems. CivicActions recommends you use Two-Factor Authentication for services that support it.
 
 For example, as your password manager grows to have more passwords in it - not only CivicActions' systems and clients but also your personal bank accounts, credit cards, school records, etc. - it becomes increasingly important to have it protected by more than just a password.
 
@@ -46,21 +46,28 @@ CivicActions requires that its employees and contractors that are given access t
 
 ### Two-Factor Authenticators
 
-There are many hardware and software tools for creating secure "one time passwords" (OTP). Two that we frequently use internally are described below.
+There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below. *(Note that Google Authenticator is no longer recommended as it does not support encryoted cloud backup.)*
 
-Do not reply on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Two-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "TFA Backup" mechanism (be sure to see the essential section below on [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes)).
+Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Two-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "TFA Backup" mechanism (be sure to see the essential section below on [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes)). 
 
-#### Google Authenticator
+#### LastPass Authenticator
 
-* For installation instructions, see <https://support.google.com/accounts/answer/1066447>
-* This page also has instructions for setting up 2-Step Verification for multiple Google accounts.
+* This provides tight integration with some apps, see: <https://lastpass.com/auth/>
+* For more info, see: <https://support.logmeininc.com/lastpass/help/lastpass-authenticator-lp030014>
+
+#### Authy
+
+* For installation instructions (iPhone or Android), see: <https://authy.com/download/>
+* Guides for setting up Two-Factor Authentication: <https://authy.com/guides/>
 
 #### Yubikey
 
-Once set up, Yubikey greatly simplifies the process of Two-Factor Authentication. While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. While on the road, the nearly indestructible Yubikey attaches easily to your keychain.
+Once set up, Yubikey greatly simplifies the process of Two-Factor Authentication. While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. This saves time while enabling the strongest security. While on the road, the nearly indestructible Yubikey attaches easily to your keychain.
 
 * See CivicActions' [Yubikey page](./yubikey/README.md)
 * See Yubikey documentation on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals/), [LastPass](https://www.yubico.com/why-yubico/for-individuals/password-managers/lastpass/), and [GitHub](https://www.yubico.com/why-yubico/for-individuals/github/)
+
+While Yubikey is the easiest to use on a daily basis, it does not have cloud backup so you'll either have to buy a second Yubikey (the author of this page has three!) and/or be sure that you have set up [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes).
 
 ### Partial List of TFA Services
 
@@ -75,21 +82,7 @@ Once set up, Yubikey greatly simplifies the process of Two-Factor Authentication
 
 As a final, crucially important step, ***you must have a backup second factor for all your TFA accounts***. Imagine that you use Google Authenticator from your phone to unlock LastPass and you lose your phone. Without a backup second factor, access to your accounts would be prevented. So you need a backup.
 
-SMS can often be an easy backup, say for Google Authenticator, or Google Authenticator could be a backup for your Yubikey, or you can even have a second Yubikey. Services that provide TFA generally enable multiple second factor options, and also provide a downloadable set of single use "backup codes" that you can download or print and keep in a safe place. If you lost your primary second factor, you can use your secondary one or a printer backup code stored in your file cabinet. *Hint: you can store backup codes in LastPass in the Notes section.*
-
-### Advanced: Connecting to TFA-enabled Sevices/Apps
-
-Some applications and services may need to connect to your Civicactions google account but they might not be able to handle TFA. An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass TFA.
-
-There are some instructions at <https://support.google.com/accounts/answer/185833?hl=en> on how to use App Passwords with Google. Several other TFA-enabled services also support app passwords -- see their respecive documentation.
-
-## IT: Sharing Service Accounts
-
-* If a service allows individual accounts, use only individual accounts and not shared credentials.
-* Prefer services that allow individual accounts, services that allow TFA and secure password policies.
-* If a service only allows a single account, have a shared LastPass master account that ideally only 2-3 trusted people have access to. From there share passwords out on an "as needed" basis only, including to individual day-to-day Lastpass accounts for the 2-3 trusted people.
-* If the LastPass master account is a paid account it also allows sharing credentials in a way that makes the password harder for the person who you shared it with to recover/view/share (but still allow them to log in with it).
-* Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people leave.
+SMS can often be an easy backup, say for Google Authenticator, or Google Authenticator could be a backup for your Yubikey, or you can even have a second Yubikey. (Or you can use Authy or LastPass Authenticator that backup to the cloud.) Services that provide TFA generally enable multiple second factor options, and also provide a downloadable set of single use "backup codes" that you can download or print and keep in a safe place. If you lost your primary second factor, you can use your secondary one or a printer backup code stored in your file cabinet. *Hint: you can store backup codes in LastPass in the Notes section.*
 
 ## Phishing and Social Engineering
 
