@@ -160,7 +160,7 @@ Refer to [our printer information document](https://docs.google.com/document/d/1
 
 ### Get on the wireless?
 
-The Wi-Fi network is "gsa-wireless". For type of security choose "WPA2 Enterprise" and enter your ENT username and password.
+The Wi-Fi network is "gsa-wireless". For type of security, choose "WPA2 Enterprise" and enter your ENT username and password.
 
 The guest Wi-Fi network is "GSA-Guest". The password changes monthly. To get the current password, type “GSA Wireless” into any room on Slack (eg. in a DM to yourself) and the current password will pop up.
 
