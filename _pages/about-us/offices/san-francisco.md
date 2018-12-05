@@ -145,7 +145,7 @@ You may host folks from other government agencies. As the host you are responsib
 
 If you're based in SF and would like to regularly access the building after hours (6pm-6am), fill out the [50 UNP Security Access Card Application](https://drive.google.com/open?id=1KW2Vv11KYoZ70ajCQliPi3O11HanUXx_). Have a supervisor ("Director") sign it for you, then take it to the Operations Coordinator in the <a href="#helpful-contacts">Building Manager</a>'s office, located in room 0651 in the Basement, open 8:00am - 4:30pm. As of 12/04/2018, Ahmed Mahdi is the Operations Coordinator; you may also scan and e-mail the form to him at <mailto:Ahmed.Mahdi@aleutmgt.com>. He'll send the form to the Golden Gate Security Office, and e-mail you once your application has been approved. You'll then need to go in-person to his office to register your PIV card and choose an access code, which you'll be able to use at the SW entrance to the building.
 
-If you're a visitor arriving outside business hours, you'll need to arrange for an TTS staff member inside the office to escort you.
+If you're a visitor arriving outside business hours, you'll need to arrange for a TTS staff member inside the office to escort you.
 
 ### Book rooms for meetings?
 
