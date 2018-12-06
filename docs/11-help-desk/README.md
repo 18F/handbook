@@ -19,3 +19,5 @@ We report on our work so that trends over time and patterns of behavior can more
 We continually improve our internal processes, responses and reporting based on what we’ve learned from users and the website environment.
 
 We use our engagement with users to help engineers, project managers, product owners and key stakeholders to stay informed. By advocating for users’ needs, we help make sure that the websites we support reflect the priorities of the people that they serve.
+
+Our working practices are detailed more fully in the [Working Practices](working-practices.md) page.
