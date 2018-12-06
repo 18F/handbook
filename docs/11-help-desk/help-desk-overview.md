@@ -3,7 +3,7 @@
 ## Mission
 The CivicActions Help Desk provides helpful, timely and kind support to users, clients and other stakeholders by answering questions, providing resources, and enabling access.
 
-Our work is user-focused and agile: we prioritize individual interactions, openness and iterative improvement. This approach improves the usability and user-friendliness of supported websites and strengthens our client’s relationship with its user base. In so doing, CivicActions delivers great value to its clients, and the Help Desk supports CivicActions in its mission to help government technology better serve citizens.
+Our work is user-focused and [agile](help-desk-agile.md): we prioritize individual interactions, openness and iterative improvement. This approach improves the usability and user-friendliness of supported websites and strengthens our client’s relationship with its user base. In so doing, CivicActions delivers great value to its clients, and the Help Desk supports CivicActions in its mission to help government technology better serve citizens.
 
 ## Help Desk Basics
 The Help Desk accepts incoming requests for assistance, and responds immediately to assure the user that we’ll help.
