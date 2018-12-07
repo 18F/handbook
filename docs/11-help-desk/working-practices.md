@@ -4,7 +4,7 @@
 CivicActions support staff hold kindness, empathy and respect for our users and clients as the primary values in our work. We show this by emphasizing helpfulness, timeliness and kindness in our working practices.
 
 ## Helpfulness
-When answering a user question, we always strive to **provide helpful information**. Many help desk interactions in the world seem designed to make the user go away. Our aim is the opposite: we want to solve the problem. We want to help.
+When answering a user question, we always strive to **provide helpful information**. Many help desk interactions in the world seem designed to make the user go away. Our aim is the opposite: We want to solve the problem. We want to help.
 
 To be helpful, we use the following tactics:
 
@@ -14,7 +14,7 @@ Our users know more about their problem than we do. However, users’ ability to
 If we don’t have enough information, we may **ask for clarification**. We should exercise our best judgement here: often a bit of quick research will save time and effort. We should never use clarification as a defensive measure or a way to put the onus of effort onto the user.
 
 ### Research
-Once we have enough information to begin, we should **learn more about the problem**. For some web applications, this may involve mimicking the user’s behavior in order to understand a point of confusion or replicate a bug. In other cases, we may need to study documentation or consult our engineering team. The details about this will vary from project to project. We should be cautious never to let research interfere with our ability to respond to the user; there are a lot of fascinating things to learn, and we’ll focus our effort on helping users first and educating ourselves second.
+Once we have enough information to begin, we should **learn more about the problem**. For some web applications, this may involve figuring out how to reproduce the user’s behavior in order to understand a point of confusion or replicate a bug. In other cases, we may need to study documentation or consult our engineering team. The details about this will vary from project to project. We should be cautious never to let research interfere with our ability to respond to the user; there are a lot of fascinating things to learn, and we’ll focus our effort on helping users first and educating ourselves second.
 
 ### Respond
 Once we have enough information to address an issue (even if the question is not completely resolved, we should **deliver an informative response**. The level of detail should be pitched toward the user’s technical proficiency, but truthfulness should not: our explanations should always be candid, open and informative. Some users (for instance, one-time end-users who have a simple question about a specific feature), however, need very little detail, while others (for instance, long-term clients who are deeply engaged in our work) may want all the detail that we can provide.
@@ -22,7 +22,7 @@ Once we have enough information to address an issue (even if the question is not
 Our responses are **respectful, clear and concise**.
 
 ## Timeliness
-Often when someone asks a question about a web application, responding quickly may make the difference between them giving up or being successful. We want to help them succeed, so we respond quickly. For a given project, we may observe specific SLA times, but our motivation is never the SLA time itself; our motivation is to be timely so that we can be helpful to the user. Because of this, in most instances our actual first response and resolution times will usually be much quicker than required by SLA numbers.
+Often when someone asks a question about a web application, responding quickly may make the difference between them giving up or being successful. We want to help them succeed, so we respond quickly. For a given project, we may observe specific SLA (Service Level Agreement) times, but our motivation is never the SLA time itself; our motivation is to be timely so that we can be helpful to the user. Because of this, in most instances our actual first response and resolution times will usually be much quicker than required by SLA numbers.
 
 ### First Response Time
 The first step toward helping users feel attended-to is to **always reply promptly**. Any reply is better than no reply. Users and clients like to know that we’ve read their correspondence, and that we’re looking into the issue. We don’t have to know everything in order to begin an interaction, and we don’t even have to be specific about next steps; often our first response may be as simple as:
