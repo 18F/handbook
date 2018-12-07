@@ -4,7 +4,7 @@ This Handbook has been prepared to describe CivicActions' philosophy, working me
 
 ## This is not really the README you are looking for.
 
-The main handbook README is located at [docs/README.md](docs/README.md), which gets synced to readthedocs at <http://civicactions-handbook.readthedocs.io/en/latest/README/>
+The main handbook README is located at [docs/README.md](docs/README.md), which gets synced to readthedocs at <https://handbook.civicactions.com/en/latest/README/>
 
 ## CivicActions, Inc.
 
