@@ -17,7 +17,6 @@ The Design team at 18F includes content, user experience, front end, and visual 
 ## <a id="documentation">Documentation</a>
 
 - [Experience Design capabilities](https://docs.google.com/presentation/d/1aOeq5SsLSMhskchlJRtSLQ28OcIzAQgkanyDZy7bPiU/edit)
-- [Experience Design org chart](https://docs.google.com/presentation/d/1A5hAu_qKmaOUB_TRhyoC7FNe30zB2Xwlio6nm1hipZk/edit)
 - [18F Brand Toolkit](https://pages.18f.gov/brand/)
 - [18F Content Guide](https://pages.18f.gov/content-guide/)
 - [18F Frontend Style Guide](https://pages.18f.gov/frontend/)
@@ -60,11 +59,11 @@ The Design team at 18F includes content, user experience, front-end, and visual 
 
 ### <a id="structure">Structure</a>
 
-As per the [org chart](https://docs.google.com/presentation/d/1A5hAu_qKmaOUB_TRhyoC7FNe30zB2Xwlio6nm1hipZk/edit), 18F Design is itself composed of the user experience (UX) design, visual design, frontend design, and content design teams. Members of the Design team are active participants in the frontend and research [guilds](/working-groups-and-guilds-101).
+As per the [org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100), 18F Design is itself composed of the user experience (UX) design, visual design, frontend design, and content design teams. Members of the Design team are active participants in the frontend and research [guilds](/working-groups-and-guilds-101).
 
 As these teams have grown in size, we’ve introduced **design leads** to facilitate communication. Design leads work both internal to the Design team and external to 18F as a whole to address administrative questions, talk through scope concerns, and coordinate resourcing. In your first week, you’ll be assigned a design lead from your own discipline.
 
-Members of the Design team are also assigned three- or four-person **critique groups.** These groups meet once a week (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. If you’re interested in taking a turn as a critique lead, contact the Director of Design.
+Members of the Design team are also assigned to **critique groups.** These groups meet once a week (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. If you’re interested in taking a turn as a critique lead, contact the Director of Design.
 
 ### <a id="design-leads">Design leads</a>
 
@@ -84,11 +83,11 @@ Design leads are selected through nominations and interviews according to team n
 
 ### <a id="leads-and-management">Leads and management</a>
 
-See [the org chart](/org-chart).
+See [the org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100).
 
 ## <a id="what-we-do">What we do</a>
 
-18F Design provide design as a service to the rest of the organization, including:
+18F Design provides design as a service to the rest of the organization, including:
 
 - **Research.** We help people to identify, target, and solicit feedback from real users, stakeholders, subject-matter experts, etc.
 - **Content strategy.** We help people clarify their tone and voice, and explore the breadth and depth of their content.
@@ -102,9 +101,9 @@ See [the org chart](/org-chart).
 
 Most of the design team works on a mix of partner-agency projects and internal initiatives. As you’d guess, everyone’s weeks look a little different. That said, there are recurring weekly meetings and commitments we all have on our calendars.
 
-- **Mondays:** every other week for 45 minutes at 3pm ET (12:00pm PT) design team huddle. The whole team meets to discuss project status, policy updates, and general design-specific news. Our huddles typically follow the same format: the Director of Design will start off with general announcements and a reminder about completing timesheets.The rest of the huddle features a presentation or conversation about a topic of current interest to the team. Past topics have included: how other chapters work, our collaborative work practices, and recent organizational changes within 18F or TTS.
+- **Mondays:** every other week for 45 minutes at 3pm ET (12:00pm PT) design team huddle. The whole team meets to discuss project status, policy updates, and general design-specific news. Our huddles typically follow the same format: the Director of Design will start off with general announcements and a reminder about completing timesheets. The rest of the huddle features a presentation or conversation about a topic of current interest to the team. Past topics have included: how other chapters work, our collaborative work practices, and recent organizational changes within 18F or TTS.
 - **Once a week:** meet with your lead. Once a week, you’ll have a short check-in with your Design lead at a time that’s convenient for both of you. The purpose of this meeting is both administrative and personal. It’s how the team leadership keeps on top of project timelines and activities to coordinate resourcing. It’s also a time to talk through any project concerns, figure out how to wrangle the federal bureaucracy, and talk about how to make 18F work better for you.
-- **Once a week:** meet with your critique group. Once a week, you’ll meet with your three- or four-person critique group to talk about creative questions and share work. Critique teams decide internally how often and how long they want to meet.
+- **Once a week:** meet with your critique group. Once a week, you’ll meet with your critique group to talk about creative questions and share work. Critique teams decide internally how often and how long they want to meet.
 
 ### <a id="communication-channels">Communication channels</a>
 
@@ -126,7 +125,7 @@ And one more thing: before you start using any new tool that asks for access to 
 Unless otherwise specified, **see [Software](../software/#provisioning) to get a license** for any of these.
 
 - **Adobe Creative Cloud:** CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **InVision:** We use InVision for prototyping and group online critique. To get a license, ask to the Design Infrastructure Lead. 
+- **InVision:** We use InVision for prototyping and group online critique. To get a license, ask the Design Infrastructure Lead. 
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
 - **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
 - **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero). No license needed.
@@ -140,7 +139,6 @@ Unless otherwise specified, **see [Software](../software/#provisioning) to get a
 
 - Please read [Doing Research at 18F](/research-guidelines) for more information on the tools and techniques.
 - **Google Analytics:** More info [here](/google-analytics).
-- For cardsorting and navigation tree testing, we have access to **[Optimal Workshop](https://www.optimalworkshop.com/)** via [OPP](http://www.gsa.gov/portal/content/124174). You can [get started immediately](https://docs.google.com/a/gsa.gov/document/d/1fTXNs1-x9SBLDmOyV79Kxu4V3mvhc89_2GAGixa2tyA/edit?usp=sharing).
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://gsa-tts.slack.com/messages/research) for recommendations.
 
 #### Workshops
@@ -149,16 +147,17 @@ Unless otherwise specified, **see [Software](../software/#provisioning) to get a
 
 #### Word processing
 
+- **Google Drive / Docs / Slides:** This is our primary tool for documents of various sorts.
 - **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license.
 
 ### <a id="assets">Assets</a>
 
 We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
 
-- **Frameworks:** the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. We don’t mandate using this, but it’s a good place to start.
-- **Type:** We don’t mandate using typefaces from the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/), but it’s a good place to start. [Google’s collection of open-source typefaces](https://pages-staging.18f.gov/govt-wide-patternlibrary/elements/) is also helpful.
+- **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. We don’t mandate using this, but it’s a good place to start.
+- **Type:** We don’t mandate using typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/), but it’s a good place to start. [Google’s collection of open-source typefaces](https://pages-staging.18f.gov/govt-wide-patternlibrary/elements/) is also helpful.
 - **Icons:**
-  - Each [18F presentation theme](https://pages.18f.gov/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding) if you need to use more/different ones...and be prepared to explain why!
+  - Each [18F presentation theme](https://pages.18f.gov/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding) if you need to use more/different ones... and be prepared to explain why!
   - For a larger (and open-source!) set of icons, [Font Awesome](http://fortawesome.github.io/Font-Awesome/get-started/) is a starter kit. [The Noun Project](https://thenounproject.com/) has a number of open-source icons as well. If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
 - **Images:** Most images published by government agencies are in the public domain and thus free to use.
   - USA.gov has [an image search](https://search.usa.gov/search/images?affiliate=usagov) for such photos.
@@ -172,7 +171,7 @@ We default to free and open-source assets, unless there is a very, very good rea
 
 ## Designing in the open
 
-We try to design in the open, which means trying to make as much documentation and decision-making as possible accessible to the public. Designing in the open means that expectations from private sector about confidentiality, disclosure, and intellectual property don’t hold true here.
+We do most of our design work in the open, which means trying to make as much documentation and decision-making as possible accessible to the public. Designing in the open means that expectations from private sector about confidentiality, disclosure, and intellectual property don’t hold true here.
 
 Here are some of our rules of thumb:
 
