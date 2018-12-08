@@ -45,7 +45,7 @@ For example, you can adapt the following to start when your window manager start
 
 ```
 dunst &
-xautolock -time 10 -corners -000 -locker '/usr/bin/xsecurelock auth_pam_x11 saver_blank' -killtime 30 -killer 'systemctl suspend' -notify 30 -notifier "notify-send -- 'Locking screen in 30 seconds'" &
+xautolock -time 10 -corners -000 -locker "/usr/bin/xsecurelock auth_pam_x11 saver_blank" -killtime 30 -killer "systemctl suspend" -notify 30 -notifier "notify-send -- 'Locking screen in 30 seconds'" &
 ```
 
 ### Away detection ideas
@@ -58,7 +58,7 @@ Assuming `~/bin/` is in your `$PATH`, create executable file `~/bin/out-lock` an
 #!/bin/sh
 # Not home (you will need to adjust to some reliable/secure test for your home network).
 # In this case, an internal NAT addressable file home.txt has the given sha256sum value.
-# if ! curl -s 'http://192.168.1.99/home.txt' | sha256sum | grep 6094dd1d56b9d8638bc0e8e630683787151b81320d81568d97ec8daecb370bca > /dev/null; then
+# if ! curl -s "http://192.168.1.99/home.txt" | sha256sum | grep 6094dd1d56b9d8638bc0e8e630683787151b81320d81568d97ec8daecb370bca > /dev/null; then
 # Less secure, but likely good enough for most cases, check the MAC address of your router:
 if ! arp 192.168.1.1 | grep 48:5d:36:4c:d5:51 &> /dev/null; then
   # Not already locked.
@@ -119,14 +119,14 @@ As your login user, create executable file `~/bin/ykgone`:
 
 ```
 #!/bin/bash
-USER=$(stat -c '%U' "$0")
+USER=$(stat -c "%U" "$0")
 if usb-devices | fgrep Vendor=1050; then
   echo "Yubikey present"
 else
   echo "Yubikey not present, locking"
   export DISPLAY=":0"
   export XAUTHORITY=/home/$USER/.Xauthority
-  su $USER -c 'xautolock -locknow' &
+  su $USER -c "xautolock -locknow" &
 fi
 ```
 

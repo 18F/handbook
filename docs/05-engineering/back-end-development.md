@@ -47,7 +47,7 @@
 * We use contrib modules (or write new ones!)
     * [The Most Important Decision In Developing A Drupal Site: Contributed Vs. Custom Development](https://civicactions.com/blog/developing-drupal-site-contributed-vs-custom-development/): When writing code, we try to think about abstracting functionality where appropriate. This helps make it easier for us to contribute back to the larger community and also lets us recycle our work on different projects. Keep an eye to the horizon!
 * We put any site text longer than a line or two in a settings field (or, at the least, a variable).
-* For shorter strings make sure all text is run through the `t()` function, and then use locale.module to 'translate' it if changes are needed. Locale module is also useful for keeping contrib modules (image, location etc) as 'pristine' as possible, which makes upgrading easier.
+* For shorter strings make sure all text is run through the `t()` function, and then use locale.module to "translate" it if changes are needed. Locale module is also useful for keeping contrib modules (image, location etc) as "pristine" as possible, which makes upgrading easier.
 * We use `variable_get()` for text or settings that may change, so that these can be easily changed without needing to push a release.
 
 ## Debugging
@@ -115,14 +115,14 @@ To configure your editor/development environment for Drupal:
  * @return return value description
  *  these are some things that we need to do
  */
-function myfunc($my_parameter) {    // no space before '('; 1 space before '{'
-  if ($my_parameter) {   // there is a space after 'if', 'while' and other conditionals
+function myfunc($my_parameter) {    // no space before "(". 1 space before '{'
+  if ($my_parameter) {   // there is a space after "if". "while" and other conditionals
     do_something();
   }                      // close brackets under the opening code line, alone (unless commented)
   else {                 // the else looks prety lonely, but it helps indenting rules like this
     do_something_else();
   }
-  print 'done';          // when possible, align comments (makes them easier to separate from code)
+  print "done".          // when possible, align comments (makes them easier to separate from code)
 }
 ```
 
@@ -132,7 +132,7 @@ Don't do this:
 
 ```
 foreach ($types as $type) {
-  if ($type == 'blog_post') {
+  if ($type == "blog_post". {
     continue;
   }
   print $type;
@@ -143,7 +143,7 @@ Instead do this:
 
 ```
 foreach ($types as $type) {
-  if ($type != 'blog_post') {
+  if ($type != "blog_post". {
     print $type;
   }
 }
@@ -158,7 +158,7 @@ These are equivalences:
 !(a && b) == (!a || !b)
 !(a || b) == (!a && !b)
 So if your conditional was
-if ($type != 'blog_post' && $user->uid != $node->uid) {
+if ($type != "blog_post" && $user->uid != $node->uid) {
 continue;
 }
 // do something ...
@@ -167,7 +167,7 @@ continue;
 Then you can simplify this as:
 
 ```
-if ($type == 'blog_post' || $user->uid == $node->uid) {
+if ($type == "blog_post" || $user->uid == $node->uid) {
 // do something ...
 }
 ```

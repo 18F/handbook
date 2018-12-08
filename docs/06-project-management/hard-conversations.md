@@ -12,7 +12,7 @@ CivicActions isfiercely open, and we want to be transparent with clients as much
 
 ## Honesty & accuracy
 
-Being honest and accurate in any conversations is another important element in gaining a client’s trust. Being less than honest or inaccurate with a client will eventually be noticed, and trust will decrease. 
+Being honest and accurate in any conversations is another important element in gaining a client's trust. Being less than honest or inaccurate with a client will eventually be noticed, and trust will decrease. 
 
 
 
@@ -29,4 +29,4 @@ Clients tend not to like surprises, because surprises are usually bad news. As s
 
 ## It's ok to ask for team support to join any hard conversations
 
-You don’t have to have a hard conversation with a client by yourself. Ever. Bring in a peer or escalate as needed. 
+You don't have to have a hard conversation with a client by yourself. Ever. Bring in a peer or escalate as needed. 

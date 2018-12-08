@@ -17,14 +17,14 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
 
 ## Why to do it:
 
-* Website audiences are comprised of a variety of types of individuals, from external viewers to internal content creators and/or editors, who may have different needs and objectives when engaging with the site. For each audience, it’s important that we gain insight into our users and their goals, so we can create a successful website experience.
-* Building out an understanding of audiences is best done collaboratively (in-person if possible), with “executive” types and “front line” types.  Product owners vary greatly -- you may get one that already has all this understanding, but chances are within government and NGOs, they do not.
+* Website audiences are comprised of a variety of types of individuals, from external viewers to internal content creators and/or editors, who may have different needs and objectives when engaging with the site. For each audience, it's important that we gain insight into our users and their goals, so we can create a successful website experience.
+* Building out an understanding of audiences is best done collaboratively (in-person if possible), with "executive" types and "front line" types.  Product owners vary greatly -- you may get one that already has all this understanding, but chances are within government and NGOs, they do not.
 
 ## Sample Questions:
 
 * AUDIENCES
 
-    * Who do you feel are your site’s audiences?
+    * Who do you feel are your site's audiences?
     * What are the demographics of these audiences?
     * How comfortable with technology is this audience?
     * Who is currently visiting the site? What makes their visit a success in their eyes? In yours?
@@ -38,7 +38,7 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
 
 ## Recommended Reading:
 
-* [A List Apart: “Audiences, Outcomes, and Determining User Needs” (Feb 28, 2012)](http://alistapart.com/article/audiences-outcomes-and-determining-user-needs)
+* [A List Apart: "Audiences, Outcomes, and Determining User Needs" (Feb 28, 2012)](http://alistapart.com/article/audiences-outcomes-and-determining-user-needs)
 
 ## Examples:
 

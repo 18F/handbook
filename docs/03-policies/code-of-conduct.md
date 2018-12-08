@@ -23,7 +23,7 @@ We follow the platinum rule at CivicActions. While the golden rule is to do to o
 
 Be open to building relationships across the team. As our team grows, we are more likely to have peers that we don't directly work with. We all have an opportunity to be connect in other arenas to get to know each other, including retreats, pod calls, and social slack channels. Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the company.
 
-Be considerate and respectful. We all have a voice and some of us happen to be louder than others. When in a discussion or sharing a thought, think before you speak, and give others a chance to be heard. When disagreeing about something, focus on resolving issues constructively and ask for help when needed. When meeting in person, be mindful of other people’s boundaries and feel free to express your own physical boundaries - for example declining a hug.
+Be considerate and respectful. We all have a voice and some of us happen to be louder than others. When in a discussion or sharing a thought, think before you speak, and give others a chance to be heard. When disagreeing about something, focus on resolving issues constructively and ask for help when needed. When meeting in person, be mindful of other people's boundaries and feel free to express your own physical boundaries - for example declining a hug.
 
 If you believe someone is violating the code of conduct, please speak to your manager or Henry Poole. Please view the details in our [Anti Harassment Policies](anti-harassment-policies.md#reporting-and-investigating-proscribed-harassment) for more information on how to report complaints, how they will be investigated and how you will be protected from retaliation.
 

@@ -17,7 +17,7 @@ Stakeholder interviews are semi-structured conversations conducted with key proj
 1. Plan
 
 * Identify the problem you're trying to solve or the experience you're trying to improve
-* Group stakeholders and users based on their role in relation to the problem you’re trying to solve
+* Group stakeholders and users based on their role in relation to the problem you're trying to solve
 * Identify a few people who can demonstrate the workflows and speak to the concerns of each stakeholder group
 * Schedule interviews with these people (30 minutes to an hour for each person)
 
@@ -50,12 +50,12 @@ Stakeholder interviews are semi-structured conversations conducted with key proj
 * What is this product or service supposed to be?
 * What is this product or service not meant to be?
 * Who is this product for?
-* When is the version we’re designing going to be released?
-* What worries you about this project? What’s the worst thing that could happen?
+* When is the version we're designing going to be released?
+* What worries you about this project? What's the worst thing that could happen?
 * What should this project accomplish for the business / organization / agency?
 * How will you, personally, define success for this project?
-* Is there anyone you think we need to speak with who isn’t on our list? Who?
-* How would you like to be involved in the rest of the project, and what’s the best way to reach you?
+* Is there anyone you think we need to speak with who isn't on our list? Who?
+* How would you like to be involved in the rest of the project, and what's the best way to reach you?
 
 ## Recommended Reading:
 

@@ -10,9 +10,9 @@ A content audit is the activity of checking all of the content on an existing we
   * format (standard text, video, PDF, etc.),
   * URL or other location,
   * content type (landing page, article, support page, contact page, etc.), and
-  * “owner” (person responsible for upkeep)
+  * "owner" (person responsible for upkeep)
   * When working on a Drupal site, it is helpful to conduct an inventory of existing content types, fields in each content type, and number of nodes for each content type
-* Qualitative assessment: ask the following questions (from Erin Kissane, “The Elements of Content Strategy”) when evaluating content:
+* Qualitative assessment: ask the following questions (from Erin Kissane, "The Elements of Content Strategy") when evaluating content:
   * Is it appropriate?
   * Useful and user-centered?
   * Clear, consistent, and concise?

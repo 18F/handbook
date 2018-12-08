@@ -38,8 +38,8 @@ Project responsibilities through the project process:
     * Milestones
     * TL creates tickets
     * Detailed tickets (generally on smaller projects)
-    * Defining deliverables from which the LE or LT 'spawn' work tickets (generally on bigger projects)
-    * Ticket 'wrangling' - making sure tickets are organized, clear, and assigned to the right people
+    * Defining deliverables from which the LE or LT "spawn" work tickets (generally on bigger projects)
+    * Ticket "wrangling" - making sure tickets are organized, clear, and assigned to the right people
     * Expert' support at the appropriate level
     * Assisting PM with resource requests
 * QA
@@ -79,8 +79,8 @@ Project responsibilities through the project process:
 * Responsible for all theme code, ensuring that:
     * The theming code is organized, well maintained and documented.
     * People working on it know how it is organized, and where to add/edit things.
-    * Responsible for 'low level' support for people working on theming tickets.
-    * Responsible for 'low level' organization and assignment of theming tickets (especially on bigger projects).
+    * Responsible for "low level" support for people working on theming tickets.
+    * Responsible for "low level" organization and assignment of theming tickets (especially on bigger projects).
 * Generally does a significant amount of the theme code themselves (or all of it, on smaller projects).
 
 ## Lead Engineer
@@ -90,7 +90,7 @@ Project responsibilities through the project process:
     * People working on it know how it is organized, and where to add/edit things.
     * Patches for modules are being created and contributed as per our best practices.
     * Modules are organized as per our best practices and clean, patched and custom modules are correctly delineated.
-* Responsible for 'low level' support for people working on module coding tickets.
-* Responsible for 'low level' organization and assignment of module coding tickets (especially on bigger projects).
+* Responsible for "low level" support for people working on module coding tickets.
+* Responsible for "low level" organization and assignment of module coding tickets (especially on bigger projects).
 * Basic module install and upgrades.
 * Generally does a significant amount of the custom code and module work themselves (or all of it, on smaller projects).

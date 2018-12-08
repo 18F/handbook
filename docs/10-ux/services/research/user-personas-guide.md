@@ -2,7 +2,7 @@
 
 ## What it is:
 
-Personas are representations of key audience segments that provide a clear picture of target audiences’ expectations, goals and values. In other words, personas are "models of the people for whom we believe we are solving a problem" (*Lean UX*).
+Personas are representations of key audience segments that provide a clear picture of target audiences' expectations, goals and values. In other words, personas are "models of the people for whom we believe we are solving a problem" (*Lean UX*).
 
 Typically, design personas are based on extensive field research and real people. "Proto-personas" are based on best guesses and assumptions rather than extensive user research. Following a *Lean UX* approach, the team creates proto-personas to capture assumptions, and then adjusts personas and designs as they learn from ongoing research.
 
@@ -19,7 +19,7 @@ Personas add a layer of real-world consideration to project conversations and ca
 ## Recommended Reading:
 * Jeff Gothelf, [*Lean UX*](https://www.jeffgothelf.com/lean-ux-book/), chapter 3
 * [Usability.gov, "Personas"](https://www.usability.gov/how-to-and-tools/methods/personas.html)
-* [A List Apart: “Resurrecting Dead Personas” (July 26, 2016)](http://alistapart.com/article/resurrecting-dead-personas)
+* [A List Apart: "Resurrecting Dead Personas" (July 26, 2016)](http://alistapart.com/article/resurrecting-dead-personas)
 
 ## Examples:
 * [GlobalNet User Personas](https://docs.google.com/presentation/d/1cv5z-OWDAiXCdDyHvaiQFSNIKgXi0jGfWzeuo2_Ms8A/edit#slide=id.p)

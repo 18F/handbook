@@ -17,9 +17,9 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
         * U&A copy, Ex. [Understanding and Approach](https://drive.google.com/a/civicactions.net/file/d/0B0bUEywUIyjER2liMGNPbGdpdkU/view?usp=sharing)
         * Technology stack copy, Ex. [Technology Stack](https://drive.google.com/a/civicactions.net/file/d/0B0bUEywUIyjEVVNGSzJ5dmF5SDg/view?usp=sharing)
         * Staff Resume tables copy, Ex. [Staff Resume Table](https://drive.google.com/a/civicactions.net/file/d/0B0bUEywUIyjEX0RFVHR0dXZPNTQ/view?usp=sharing)
-        * SAMPLE Interview Questions (update to include all questions we’ve ever been given), Ex. [Sample Interview Questions](https://docs.google.com/a/civicactions.net/document/d/1x8Q3G9sY6WlK8CMYOZvxiglKhr5VZ6Wk7og3wHb9kH4/edit?usp=sharing)
+        * SAMPLE Interview Questions (update to include all questions we've ever been given), Ex. [Sample Interview Questions](https://docs.google.com/a/civicactions.net/document/d/1x8Q3G9sY6WlK8CMYOZvxiglKhr5VZ6Wk7og3wHb9kH4/edit?usp=sharing)
         * State Dept XYZ Interview Tips Guide, Ex. [CWDS TPS3 Interview Tips Guide](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
-        * State Dept XYZ Interview Prep To-Do List (ensure it’s accurate), Ex. [CWDS TPS3 Interview Prep To-Do List](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
+        * State Dept XYZ Interview Prep To-Do List (ensure it's accurate), Ex. [CWDS TPS3 Interview Prep To-Do List](https://docs.google.com/a/civicactions.net/document/d/1RuCHBnQ4R4VUWiqGyb4JN-r_xHHrhBy8rztmN9T05Kc/edit?usp=sharing)
 * Create an ""@lists.civicactions.net" mailing distribution list (dept-xyz-int)
 * Email the team using the mailing distribution list (Template 0): [Introductory Email](https://docs.google.com/a/civicactions.net/document/d/1cw08aEbvPm5lBfACCxTYBDHJO2lt6lP0tRT0oYCurfw/edit?usp=sharing)
     * Customize the template for the following fields:
@@ -41,7 +41,7 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
 
 ## Step 2 - The interview was scheduled
 
-* If the client hasn’t notified the team by our projected date, send an email to the team with the status and state that we’re still waiting to hear back
+* If the client hasn't notified the team by our projected date, send an email to the team with the status and state that we're still waiting to hear back
     * Update the proposed timeline dates
 * The client notifies of the intent to interview with time slot options
     * The preferred time slot to interview is in the morning

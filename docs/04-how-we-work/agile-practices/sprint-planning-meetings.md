@@ -14,13 +14,13 @@ The sprint planning meeting should be attended by the Product Owner, members of 
 
 For best sprint planning results, it is recommended that you have a [Backlog Grooming Session](backlog-grooming.md) before the Sprint Planning Meeting. This will prepare the backlog for more informed team discussions and will shorten the length of the SPM. It is highly recommended to start there.
 
-Once the product backlog has been prioritized by the Product Owner and those stories and tasks have enough detail to be considered “ready” by the project team, a Sprint Planning Meeting should commence.
+Once the product backlog has been prioritized by the Product Owner and those stories and tasks have enough detail to be considered "ready" by the project team, a Sprint Planning Meeting should commence.
 
 A Sprint Planning Meeting usually includes the following:
 
-1. The Product Owner provides a brief review of the “big picture” or main project goal, then shares his/her highest prioritized stories. The PO should present enough stories for about 2 full sprints worth of work.
-2. Discuss and confirm the team’s potential capacity and velocity for the sprint. This may include discussions about scheduled time off for any team members, holidays, velocity in previous sprints, and anything else that could influence capacity or velocity.
-3. With the most important backlog items having been stated and project capacities having been defined, the project team and Product Owner use this information to develop a “Sprint Goal”. This is a one to two sentence statement that describes what the team plans to accomplish during the sprint.
+1. The Product Owner provides a brief review of the "big picture" or main project goal, then shares his/her highest prioritized stories. The PO should present enough stories for about 2 full sprints worth of work.
+2. Discuss and confirm the team's potential capacity and velocity for the sprint. This may include discussions about scheduled time off for any team members, holidays, velocity in previous sprints, and anything else that could influence capacity or velocity.
+3. With the most important backlog items having been stated and project capacities having been defined, the project team and Product Owner use this information to develop a "Sprint Goal". This is a one to two sentence statement that describes what the team plans to accomplish during the sprint.
 4. The team examines and discusses the highest priority items in the product backlog as defined by the Product Owner. The project team may ask questions of the Product Owner to clarify stories and tasks.
 5. Larger stories should be broken down into smaller tasks that can be accomplished in a single sprint.
 6. Tasks are evaluated to confirm that work descriptions and acceptance criteria are present and are unambiguous to all project team members.

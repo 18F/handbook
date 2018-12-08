@@ -12,9 +12,9 @@ The Backlog Grooming meeting should be attended by members of the project team, 
 
 Backlog grooming is a versatile and flexible meeting that can be formatted in a number of ways depending on the needs of the project. The overall objective of this time is to have the team arrive at a shared understanding of items in the product backlog by adding clarity and priority ratings to the epics, stories, and tasks in the backlog. This ensures that sprint planning will be a well-informed and efficient activity.
 
-Aided by the Scrum Master, it is the Product Owner’s job to lead this meeting and represent his/her needs by defining which stories are high priority and by providing details to the team on specific stories.
+Aided by the Scrum Master, it is the Product Owner's job to lead this meeting and represent his/her needs by defining which stories are high priority and by providing details to the team on specific stories.
 
-During this meeting, time may also be spent breaking down large stories or epics into smaller stories or tasks that can be accomplished during a single sprint. This is also a time when specific acceptance criteria could be added to stories or tasks so that the definition of “done” is known for those items. Technical approaches, diagrams, and assets can be added to the backlog items. Team members can ask questions of the Product Owner to clarify items.
+During this meeting, time may also be spent breaking down large stories or epics into smaller stories or tasks that can be accomplished during a single sprint. This is also a time when specific acceptance criteria could be added to stories or tasks so that the definition of "done" is known for those items. Technical approaches, diagrams, and assets can be added to the backlog items. Team members can ask questions of the Product Owner to clarify items.
 
 This meeting should be time boxed. It is acceptable if the team is not able to refine the entire backlog during the meeting, as long as the most important items as defined by the Product Owner have been refined. The goal of the refinement/grooming session should be to prepare an appropriate amount of items in the product backlog for the team to discuss during the [Sprint Planning Meeting](sprint-planning-meetings.md) and to prepare at least enough tasks to keep the project team busy for the duration of the sprint.
 

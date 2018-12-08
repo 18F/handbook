@@ -41,7 +41,7 @@
       .component-name__sub-object--variant // this configuration should be uncommon.
 
       // Layout Rules
-      .layout-layout-method /* e.g. '.layout-container' \*/
+      .layout-layout-method /* e.g. ".layout-container" \*/
       .grid-\*
       ```
 
@@ -52,8 +52,8 @@
       ```
 * Functional JavaScript Hooks
     * When querying or manipulating the DOM from JavaScript, prefer dedicated classes not used for styling (or the id attribute).
-    * If using classes, prefix them with 'js-' to mark them for JS use.
-    * These 'js-' classes should not appear in stylesheets.
+    * If using classes, prefix them with "js-" to mark them for JS use.
+    * These "js-" classes should not appear in stylesheets.
       ```
         .js-behaviour-hook // e.g. .js-slider, .js-dropdown
       ```

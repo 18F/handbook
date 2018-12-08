@@ -37,7 +37,7 @@ Then:
 
 ### Projects with Service Area-Based Tasks
 
-A lot of our internal time represents an investment in a service area, so we’re going to track that time accordingly. 
+A lot of our internal time represents an investment in a service area, so we're going to track that time accordingly. 
 
 * CA > Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc
 * CA > Check-in Calls - use this for one-on-ones, like with your manager, or onboarding/mentoring
@@ -59,7 +59,7 @@ Log your time in the CivicActions project: CA > Onboarding > select your service
 
 ### Projects with Generic Tasks
 
-For some internal projects, we don’t care about tracking our time by service area, and you won’t see service area based tasks there. 
+For some internal projects, we don't care about tracking our time by service area, and you won't see service area based tasks there. 
 
 * CA > All hands calls
 * CA > Pod calls

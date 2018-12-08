@@ -16,7 +16,7 @@ Trello is very easy to use, and a robust featureset whose intuitve UI means the 
 
 * Review the getting started [guide](https://trello.com/guide)
 * "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
-* Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
+* Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the "?" shortcut to bring up that page any time
 
 ## The Basics (Naming Conventions and the general idea).
 

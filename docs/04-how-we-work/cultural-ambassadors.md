@@ -15,8 +15,8 @@ with them.
 
 * Remove barriers to communication with Project Managers: as a person outside the structure of various projects, the ambassador 
 can help resolve blockers on tickets where people feel overwhelmed, or where they are afraid to ask for help or for more 
-information, or where they don’t feel empowered to say that they are lacking information from whatever smart person handed the 
-task to them. The ambassador can use this time to help show that the PM is truly on this person’s side and can be trusted with 
+information, or where they don't feel empowered to say that they are lacking information from whatever smart person handed the 
+task to them. The ambassador can use this time to help show that the PM is truly on this person's side and can be trusted with 
 these kinds of concerns, and could gradually facilitate a handoff so that these problems start to go to the PM instead.
 
 * Practice Area contributions: community health should be a part of practice area reports. 

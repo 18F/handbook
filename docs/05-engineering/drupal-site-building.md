@@ -267,7 +267,7 @@ We do this so we can avoid fragile duplicated configuration and emphasize consis
 #### When to use
 
 * When you've got a fiddly, reused data object.
-* When you know you're going to reuse a group of data object (e.g. a "teaser" with thumbnail, header, and "like' widget that always appear together, at the same size).
+* When you know you're going to reuse a group of data object (e.g. a "teaser" with thumbnail, header, and "like" widget that always appear together, at the same size).
 
 #### When to avoid
 
@@ -440,7 +440,7 @@ We carefully consider our semantics, naming features/views/custom modules in way
 
 Make sure you set it to batch mode. You can use:
 
-`PHP_OPTIONS='-d disable_functions=set_time_limit -d max_execution_time=0 -d memory_limit=1024M' drush php-eval 'node_access_rebuild();'`
+`PHP_OPTIONS='-d disable_functions=set_time_limit -d max_execution_time=0 -d memory_limit=1024M' drush php-eval "node_access_rebuild();".
 
 to rebuild the node access table. If you leave off TRUE, it will attempt to update all nodes, and may result in some php out of memory errors.
 
