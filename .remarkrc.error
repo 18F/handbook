@@ -46,6 +46,7 @@
       ["remark-lint-strong-marker", "consistent"],
       ["remark-lint-table-cell-padding", "consistent"],
       ["remark-lint-table-cell-padding", "consistent"],
-      ["remark-lint-unordered-list-marker-style", "*"]
+      ["remark-lint-unordered-list-marker-style", "*"],
+      "./.retext.error"
     ]
 }
