@@ -57,5 +57,5 @@ When you leave CivicActions, you are responsible for returning all CivicActions 
 
 ### Manager
 
-* Work with the employee to transition the employee's workload to other team members.
-* Ensure they complete their last timesheet in Harvest.
+*   Work with the employee to transition the employee's workload to other team members.
+*   Ensure they complete their last timesheet in Harvest.

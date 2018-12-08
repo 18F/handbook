@@ -12,13 +12,13 @@ Here's a sample:
 
 Some points to keep in mind:
 
-* CivicActions - Open & Agile Digital Services
-* We build modern digital services
-* We use agile, DevOps, open data, and free software
-* We want to create an open and accountable government
-* We work to transform government with free and open technologies and agile processes.
-* We support public sector IT leaders in understanding and implementing Agile project management practices within government (AGL).
-* We're on a rocket ship of growth, we have an amazing company culture, and we're looking for new team members to join the party!
+*   CivicActions - Open & Agile Digital Services
+*   We build modern digital services
+*   We use agile, DevOps, open data, and free software
+*   We want to create an open and accountable government
+*   We work to transform government with free and open technologies and agile processes.
+*   We support public sector IT leaders in understanding and implementing Agile project management practices within government (AGL).
+*   We're on a rocket ship of growth, we have an amazing company culture, and we're looking for new team members to join the party!
 
 Here's a presentation about making your own elevator pitch: <https://docs.google.com/presentation/d/1xOBQqEHC0o95oLo5lpul97p4gV4ZgzdRaqq03mpzTYc/edit#slide=id.g1dc5842bd_012>
 

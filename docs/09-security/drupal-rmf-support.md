@@ -12,7 +12,7 @@
 | SA-3    | System Development Lifecycle          | Agile Methodology                                                                        | Agile Government Leadership |
 | SA-5    | Use of Live Data                      | Drush sqlsanitize, Devel Generate (or Faker)                                             | drush contrib               |
 | SA-10   | Developer Configuration Management    | Code Reviews Automated Testing                                                           | Team structure, DevOps      |
-| SA-15   | Development Process                   | E.g. GitFlow                                                                             | Jenkins, DevOps...          |
+| SA-15   | Development Process                   | E.g. GitFlow                                                                             | Jenkins, DevOps.            |
 | CM-3    | Configuration Change Control          | Drupal 7 Features, Drupal 8 CMI                                                          | contrib, core               |
 | PS-1    | Personnel Security Policy             | CivicActions/security-policy                                                             | Write one!                  |
 | RA-5    | Vulnerability Scanning                | Security Review, Paranoia, [OpenSCAP/GovReady](https://galaxy.ansible.com/CivicActions/) | contrib, contrib, GitHub    |

@@ -25,4 +25,4 @@ This work is licensed under the terms of the [Creative Commons Attribution 4.0 I
 
 ## Acknowledgements
 
-We'd like to thank the folks at 18F for [their handbook](https://github.com/18F/handbook), from which this documentation was forked.  We welcome you to fork our documentation, or use the 18F handbook, which is licensed as CC0.
+We'd like to thank the folks at 18F for [their handbook](https://github.com/18F/handbook), from which this documentation was forked. We welcome you to fork our documentation, or use the 18F handbook, which is licensed as CC0.

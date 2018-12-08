@@ -1,8 +1,8 @@
-(Work in Progress) 
+(Work in Progress)
 
 We recommend using this documentation in combination with the [CivicActions project playbook](https://trello.com/b/qyI4wa18/template-civicactions-project-playbook), which maps out an ideal Agile project lifecycle.
 
-## Sprint Cycle
+# Sprint Cycle
 
 At CivicActions, the most common approach for accomplishing large-scale work is the use of a Scrum sprint cycle.
 
@@ -10,7 +10,7 @@ For more detail, see [Sprint Cycle](../../04-how-we-work/agile-practices/sprint-
 
 ## Daily Scrum Calls
 
-Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling. 
+Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling.
 
 For more detail, see [Daily Scrum Calls](../../04-how-we-work/agile-practices/daily-scrum-calls.md).
 

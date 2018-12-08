@@ -4,14 +4,14 @@
 
 We're honored to welcome you to our company. You have joined an organization that has established an outstanding reputation for authentic communications and a commitment to being fully present, which has led to the delivery of quality products and services. Credit for this goes to every one of us. We believe in you and are excited to experience your contributions.
 
-CivicActions operates transparently on a fundamental level. We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities. 
+CivicActions operates transparently on a fundamental level. We expect everyone, individually and collectively, to be open minded, forthright, trustworthy, ethical and have a sense of humor. Because we expect it, we attract people who demonstrate exactly these qualities.
 
 There are topics in this document that require more detail on how we implement policies. This Handbook is likely to be a springboard for conversations that will allow us to express our views, get to know each other better, and continually improve harmonious relationships and processes. Issues are addressed on a case-by-case basis. You will find CivicActions a great place to work.
 
 ### Learn more about CivicActions
 
-* [Mission, Values, and Operating Principles](../02-about-us/mission-values-operating-principles.md)
-* [Background and History](../02-about-us/background-and-history.md)
+*   [Mission, Values, and Operating Principles](../02-about-us/mission-values-operating-principles.md)
+*   [Background and History](../02-about-us/background-and-history.md)
 
 ## Onboarding Process
 
@@ -25,8 +25,8 @@ See [Orientation Meetings](training/orientation-meetings.md) for a typical onboa
 
 ### General
 
-* [Civicactions Handbook in GitHub](https://github.com/CivicActions/handbook/blob/master/README.md)
-* [Bookmarks](../04-how-we-work/bookmarks.md) (websites and tools we use regularly)
+*   [Civicactions Handbook in GitHub](https://github.com/CivicActions/handbook/blob/master/README.md)
+*   [Bookmarks](../04-how-we-work/bookmarks.md) (websites and tools we use regularly)
 
 ### Human resources
 
@@ -34,5 +34,5 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 
 #### Benefits
 
-* [Health, Dental and Vision Insurance - TriNet](https://login.trinet.com)
-* [401K - TPA](https://www.retirementaccountlogin.net/turningpoint/)
+*   [Health, Dental and Vision Insurance - TriNet](https://login.trinet.com)
+*   [401K - TPA](https://www.retirementaccountlogin.net/turningpoint/)
