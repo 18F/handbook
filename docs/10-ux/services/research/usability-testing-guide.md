@@ -6,7 +6,7 @@ Usability testing is a technique for evaluating a product by testing it on users
 
 ## How to do it:
 
-* The facilitator's responsibility is to to direct the users (telling them what you want them to do), encourage them to think out loud, watch what they do, listen carefully to what they have to say, and protect them.
+* The facilitator's responsibility is to direct the users (telling them what you want them to do), encourage them to think out loud, watch what they do, listen carefully to what they have to say, and protect them.
 * Test early and often. "Testing one user early in the project is better than testing 50 near the end."
 * Test iteratively. Make something, test it, fix it, test it again.
 * If possible, test 3-4 users per round.

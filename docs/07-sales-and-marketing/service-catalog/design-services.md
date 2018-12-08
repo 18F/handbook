@@ -9,7 +9,7 @@ One of the foundational principles of our Agile practice is user-centered design
 
 ## Research
 
-As your partner, we strive to understand the the problem we are tasked with solving before we begin design or development activities connected to a particular solution. We use a variety of methods, from story mapping to usability testing, to target and solicit feedback from real users, stakeholders, and subject-matter experts to better understand the problem, desired outcomes, and organizational priorities.
+As your partner, we strive to understand the problem we are tasked with solving before we begin design or development activities connected to a particular solution. We use a variety of methods, from story mapping to usability testing, to target and solicit feedback from real users, stakeholders, and subject-matter experts to better understand the problem, desired outcomes, and organizational priorities.
 
 We call the research we conduct at the beginning of a project "Discovery" (see [Discovery Services](discovery-services.md) for more information about discovery goals). The timing and scope of additional (iterative) research activities are dependent upon specific project needs. Our current research methods and offerings include:
 
@@ -27,7 +27,7 @@ We call the research we conduct at the beginning of a project "Discovery" (see [
 
 ## Content Strategy
 
-The outcome of an effective content strategy is the creation, publication and governance of useful, usable content for your users. Our content strategists work with clients to to explore the breadth and depth of their existing content, to plan for future content, and to clarify tone, voice and branding conventions. Content strategy also includes research into what types of content are most useful to your user base, enabling you to identify new materials to enhance your connection with those you serve.
+The outcome of an effective content strategy is the creation, publication and governance of useful, usable content for your users. Our content strategists work with clients to explore the breadth and depth of their existing content, to plan for future content, and to clarify tone, voice and branding conventions. Content strategy also includes research into what types of content are most useful to your user base, enabling you to identify new materials to enhance your connection with those you serve.
 
 Current content strategy offerings:
 

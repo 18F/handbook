@@ -20,7 +20,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * Getting everyone on the call, pinging them and making sure people are prompt
 * For team members that are consistently late or disruptive - The PM should remind them privately of the processes and expectations
 * Keeping the team focused and on topic (this may mean the PM may have to interrupt them if they start going down the path of discussion instead of a check-in)
-* Being ready to jump in in case people forget who hasn't gone (although letting them sweat for a second is good too in them realizing they should pay attention better)
+* Being ready to jump in case people forget who hasn't gone (although letting them sweat for a second is good too in them realizing they should pay attention better)
 * Helping folks remember the structure of the call (if the PM senses they haven't grasped it quite yet). This should be done quickly - 20 seconds max. "As a reminder please state your balance score, what you worked on yesterday, what you're doing today and if you have any blockers or after meetings to request."
 * Then at the end of the call, the PM gives their checkin if they hadn't already and rolls right into announcing the blockers, actions, or additional meetings that need to happen as a result of the scrum call
 * PM sends out the scrum notes to the client mailing list (using the [scrum note template](https://docs.google.com/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit).)
@@ -41,7 +41,7 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 * During a sprint demo, the PM's major role is as facilitator.
 * Always give your team preparation time for the demo - they need to remember the tickets they worked on and refresh themselves on what to present.
 * The PM should always start the meeting; explaining the agenda, its purpose, the timebox, and any processes the team should follow.
-* The PM should be taking notes as team members demos their work. Notes should include include things like questions and answers on a task demoed, work that is incomplete or not functioning, and any outstanding work needed to complete a task.
+* The PM should be taking notes as team members demos their work. Notes should include things like questions and answers on a task demoed, work that is incomplete or not functioning, and any outstanding work needed to complete a task.
 * The PM should document these notes somewhere the team can reference them. Suggestion: add the notes for each task to the ticket itself and call attention to the responsible team member.
 * The PM could also consider adding a comment to a ticket that was demoed but had no questions or changes. Suggestion: indicate the date the ticket was demoed and that it was approved with no revisions necessary.
 * The PM should help the team members understand the changes that need to happen based on the feedback from the demo.
