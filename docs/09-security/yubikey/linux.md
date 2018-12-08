@@ -77,7 +77,7 @@ This is required of CivicActions "privileged users" such as System Administrator
 
 ### Installing the Yubico libpam module
 
-In order to connect your YubiKey to the screen locking software on your computer, you need to 
+In order to connect your YubiKey to the screen locking software on your computer, you need to
 
 #### Arch
 

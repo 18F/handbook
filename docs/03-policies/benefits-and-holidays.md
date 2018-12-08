@@ -31,7 +31,7 @@ You do not need to justify time off, but (except for unexpected events or emerge
 4. Then the admin will put it on the Master Out of Office Calendar.
 5. Lastly, follow the [procedure for logging time off](../04-how-we-work/tools/harvest.md).
 
-If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-timeoff@lists.civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. You should consider having your manager's phone number handy. Lastly, follow the procedure for [logging sick time off](../04-how-we-work/tools/harvest.md) in Harvest with CivicActions. 
+If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-timeoff@lists.civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. You should consider having your manager's phone number handy. Lastly, follow the procedure for [logging sick time off](../04-how-we-work/tools/harvest.md) in Harvest with CivicActions.
 
 Time off will be recorded simply to easily see any patterns that might otherwise be overlooked, including non-use. Unless it will cause an extreme hardship on the company and your team, no request for Time off under two weeks will be turned down.
 

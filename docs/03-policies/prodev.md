@@ -15,19 +15,19 @@ CivicActions supports and encourages the Professional Development (prodev) of ea
 
 In addition to the $1,200 annual budget, each team member is encouraged to use a "take what you need" approach to using time for prodev pursuits during business hours, within the bounds of any billable hours goals you may have. If you need guidance on what amount of time is appropriate to spend on prodev in a given year, consult with your manager or refer to the historical data table below.
 
-Historical Prodev Hours Spent: 
+Historical Prodev Hours Spent:
 
 | Year  | Company-wide Prodev Hours Used | # People Billing Prodev Hours | Average Prodev Hours Used Per Person Annually |
 |-------|--------------------------------|-------------------------------|-----------------------------------------------|
 | 2015  | 599.25                         | 19                            | 31.5                                          |
 | 2016  | 963.5                          | 28                            | 34.4                                          |
 | 2017* | 1620                           | 35                            | 46.3                                          |
- 
+
 _*As of Nov 21, 2017. All data was pulled from Harvest. [Link to data & calculations here.](https://docs.google.com/spreadsheets/d/12aWOg9I_nbolpaA9j4vbsv5ABZW2hYXfjkcRwRpTs1I/edit#gid=2143420373)_
- 
+
  ## Prodev Sprints
- 
- In order to provide some additional structure, support and focus to the prodev efforts of individuals, 1 month long prodev sprints will be held on a regular basis. During these sprints, participants will attend scrum meetings 2 to 3 times per week to talk about their prodev progress being made and connect with others pursuing their prodev goals at the same time. The sprint will also consist of a demo or review meeting, so that team members can share what they have accomplished or learned during the sprint. A retrospective will also take place so that the prodev sprint process can be continuously improved upon. 
+
+ In order to provide some additional structure, support and focus to the prodev efforts of individuals, 1 month long prodev sprints will be held on a regular basis. During these sprints, participants will attend scrum meetings 2 to 3 times per week to talk about their prodev progress being made and connect with others pursuing their prodev goals at the same time. The sprint will also consist of a demo or review meeting, so that team members can share what they have accomplished or learned during the sprint. A retrospective will also take place so that the prodev sprint process can be continuously improved upon.
 
 The total time commitment for participating in a prodev sprint will vary widely depending on what topic and intensity level each participant chooses to pursue. The prodev sprint may or may not be considered a full time project depending on the circumstances.
 
@@ -51,28 +51,28 @@ We have a [#prodev](https://civicactions.slack.com/messages/prodev) Slack channe
 
 ## Prodev FAQ's
 
-Q: How much do I get to spend on prodev each year?  
+Q: How much do I get to spend on prodev each year?
 A: Your budget is $1,200. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee, your budget may be less than $1,200. Your manager can tell you more.
 
-Q: What kinds of stuff can I spend my prodev budget on?  
+Q: What kinds of stuff can I spend my prodev budget on?
 A: Books, courses, conferences, certifications and prodev-related travel expenses.
 
-Q: Are there any other limits on the prodev budget?  
+Q: Are there any other limits on the prodev budget?
 A: For spending amounts over $50, you'll need to get [approval in advance](expenses.md). Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be [submitted in the usual way](../04-how-we-work/tools/harvest.md#tracking-expenses) through Harvest, under the "CivicActions -> Professional development" project.
 
-Q: Do I have to spend my prodev money during a scheduled prodev sprint?  
-A: Nope. Spend it any time you like. 
+Q: Do I have to spend my prodev money during a scheduled prodev sprint?
+A: Nope. Spend it any time you like.
 
-Q: How can I find out how much of my yearly prodev budget has been used?  
+Q: How can I find out how much of my yearly prodev budget has been used?
 A: See the summary tab of this sheet:  [Prodev Usage 2018](https://docs.google.com/spreadsheets/d/1fi1B2Gx37NpBtZxY8yR_J0hfKRxGzMy4vSn764IxTRA/edit#gid=98617197)
 
-Q: What if I want to spend more money than I have budget for?  
-A: Talk to your manager if you have prodev needs that can't be covered by your annual budget. 
+Q: What if I want to spend more money than I have budget for?
+A: Talk to your manager if you have prodev needs that can't be covered by your annual budget.
 
-Q: Does my prodev budget carry over to the following year if I don't use it all?  
+Q: Does my prodev budget carry over to the following year if I don't use it all?
 A: No. Prodev budgets are "use it or lose it", so go get busy learning something!
 
-Q: Do I have to use my prodev hours allocation during a scheduled prodev sprint?  
+Q: Do I have to use my prodev hours allocation during a scheduled prodev sprint?
 A: Nope. Spend it any way you like. But remember that focusing your efforts during a prodev sprint can make the time spent much more effective.
 
 
@@ -82,7 +82,7 @@ A: Nope. Spend it any way you like. But remember that focusing your efforts duri
 
 * How do we measure prodev progress? What would be some prodev KPI's?
     * Graph: hours spent for prodev, per person
-    * Money invested in prodev, maybe per person?  Monthly?
+    * Money invested in prodev, maybe per person? Monthly?
     * Participation numbers: what percentage of the company used at least 1 hour of prodev time? This could be tracked and reported on regularly, with a goal of 100% participation annually. Number of hours annual usage target TBD.
     * Would also be helpful to find historical participation percentage if the data exists to calculate it
     * Monthly "state of prodev" report
@@ -93,7 +93,7 @@ A: Nope. Spend it any way you like. But remember that focusing your efforts duri
 
 These prodev concepts have been retired or massively changed:
 
-* Management regularly facilitating prodev trello board reviews - for most, this does not happen anymore. 
+* Management regularly facilitating prodev trello board reviews - for most, this does not happen anymore.
     * Trello board templates for the prodev vision boards will still be available to those that find them useful
 * Previous confusion about "5% time" being shared between community participation and prodev
     * The 5% time allocation is meant for community participation. While community participation and professional development are conceptually intertwined, the 5% time is meant to provide guidance for community participation only. The community participation page has been split off and moved [here](/community-participation.md)

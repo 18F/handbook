@@ -23,7 +23,7 @@ Our employees are our most valuable resource, and the safety of our employees an
 
 ### POLICY GUIDELINES
 
-It is the policy of the Company that the possession, sale, or use of illegal drugs is inconsistent with the Company's needs to operate in a safe and efficient manner. The Company is also required by contract with most of our federal and state clients to require a drug free workplace environment. In some instances our contractual obligations may prohibit activities in the workplace or while performing work that may otherwise be legal. Although we are a work from home company, employees should be aware that the restrictions apply any place the performance of work is done in connection with their employment. 
+It is the policy of the Company that the possession, sale, or use of illegal drugs is inconsistent with the Company's needs to operate in a safe and efficient manner. The Company is also required by contract with most of our federal and state clients to require a drug free workplace environment. In some instances our contractual obligations may prohibit activities in the workplace or while performing work that may otherwise be legal. Although we are a work from home company, employees should be aware that the restrictions apply any place the performance of work is done in connection with their employment.
 
 For that reason:
 

@@ -155,7 +155,7 @@
     * Complete your [security checklist](https://docs.google.com/a/civicactions.net/spreadsheets/d/1t_LgXdkCNRzr5p36CV-cdzL8kJmUq_mHlsHWtMLm-Qg/edit?usp=sharing)
     * Look for an email from Admin/DocuSign that asks you to acknowledge your *security awareness* later this week.
 
-## Day 4 
+## Day 4
 
 ### Role-based training/orientation
 

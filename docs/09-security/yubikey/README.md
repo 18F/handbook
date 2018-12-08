@@ -104,8 +104,8 @@ pacaur -S yubikey-neo-manager-git
 *See also: <https://fedoraproject.org/wiki/Using_Yubikeys_with_Fedora>*
 
 ```
-dnf copr enable jjelen/yubikey-neo-manager 
-dnf copr enable spartacus06/yubikey-utils 
+dnf copr enable jjelen/yubikey-neo-manager
+dnf copr enable spartacus06/yubikey-utils
 dnf install yubikey-neo-manager yubioath-desktop yubikey-personalization-gui
 ```
 

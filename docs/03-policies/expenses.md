@@ -47,8 +47,8 @@ To approve your request, the budget owner will move it into the "Approved" colum
 * Please book as early as possible - for flights and accommodation this can make a big difference!
 * Consider AirBnB instead of hotels. If you are unsure of how many people can attend, getting a slightly larger AirBnB ahead of time is normally better than waiting and getting an AirBnB or hotel rooms last minute.
 * Your project manager and Judy will provide information about what is or isn't reimbursable. For example, if you prefer first class for a flight or want to add a leg for a vacation, then that wouldn't be reimbursable but the amount for an economy class return would.
-* Reduce your footprint when possible and use public transit or shared Lyft Lines instead of single occupancy rides. 
+* Reduce your footprint when possible and use public transit or shared Lyft Lines instead of single occupancy rides.
 
-### Travel expenses 
+### Travel expenses
 
 See [Travel 101](travel-101.md) for more details on travel expenses, whether for billable or non-billable work.

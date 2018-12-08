@@ -2,7 +2,7 @@
 
 ## About Jira
 
-CivicActions uses [Jira](https://www.atlassian.com/software/jira) for many project management, work tracking and ticketing purposes, especially for larger projects. Jira has enormous potential for integration with other tools, and works well with scrum, kanban and other agile methodologies. Compared to Trello, Jira is a more full-featured and complex way of tracking work. We often use Jira on our larger & federal projects. 
+CivicActions uses [Jira](https://www.atlassian.com/software/jira) for many project management, work tracking and ticketing purposes, especially for larger projects. Jira has enormous potential for integration with other tools, and works well with scrum, kanban and other agile methodologies. Compared to Trello, Jira is a more full-featured and complex way of tracking work. We often use Jira on our larger & federal projects.
 
 Typically the Project Manager will take primary responsibility for creating and/or updating Jira project boards, and will help keep track of ticket progress. However, each person on a team is expected to be responsible for updating their own tickets. In general, all aspects of sprint planning are best shared by the team, and should involve group cooperation.
 
@@ -22,16 +22,16 @@ Project managers at CivicActions typically become very proficient in Jira.
 
 ### Setting up workflows
 
-Jira's default workflow doesn't fit all projects, and project managers usually work with their team to configure a workflow that team's needs. Some questions to ask when optimizing the workflow might include: 
+Jira's default workflow doesn't fit all projects, and project managers usually work with their team to configure a workflow that team's needs. Some questions to ask when optimizing the workflow might include:
 
-* Is there a development branch?  Does a workflow need to show when development gets merged into master? 
-* Are there documentation stages that need to happen post-development?  
-* What environments are in play for each stage in the workflow? Should the column names reflect that? 
-* Who's doing the QA?  Same as code review? 
-* Does signoff or UAT require input from various stakeholders? 
+* Is there a development branch? Does a workflow need to show when development gets merged into master?
+* Are there documentation stages that need to happen post-development?
+* What environments are in play for each stage in the workflow? Should the column names reflect that?
+* Who's doing the QA? Same as code review?
+* Does signoff or UAT require input from various stakeholders?
 * How does Product Owner (or whomever is doing UAT) get alerted when something is ready for their review?
-* Where do tickets reflecting design deliverables go when they are ready for review? 
-* What does the final "Done" column mean? Does it reflect something released to a production site? 
+* Where do tickets reflecting design deliverables go when they are ready for review?
+* What does the final "Done" column mean? Does it reflect something released to a production site?
 
 Some sample workflows for a variety of projects have been documented in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1Ji0ZkO7GDK1lci1y_zYUqqlwiJe5FBmV9fsCe0T7GQY/edit#gid=0).
 

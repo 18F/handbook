@@ -48,7 +48,7 @@ CivicActions requires that its employees and contractors that are given access t
 
 There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below. *(Note that Google Authenticator is no longer recommended as it does not support encryoted cloud backup.)*
 
-Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Two-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "TFA Backup" mechanism (be sure to see the essential section below on [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes)). 
+Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Two-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "TFA Backup" mechanism (be sure to see the essential section below on [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes)).
 
 #### LastPass Authenticator
 

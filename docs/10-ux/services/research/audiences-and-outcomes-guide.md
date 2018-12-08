@@ -18,7 +18,7 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
 ## Why to do it:
 
 * Website audiences are comprised of a variety of types of individuals, from external viewers to internal content creators and/or editors, who may have different needs and objectives when engaging with the site. For each audience, it's important that we gain insight into our users and their goals, so we can create a successful website experience.
-* Building out an understanding of audiences is best done collaboratively (in-person if possible), with "executive" types and "front line" types.  Product owners vary greatly -- you may get one that already has all this understanding, but chances are within government and NGOs, they do not.
+* Building out an understanding of audiences is best done collaboratively (in-person if possible), with "executive" types and "front line" types. Product owners vary greatly -- you may get one that already has all this understanding, but chances are within government and NGOs, they do not.
 
 ## Sample Questions:
 

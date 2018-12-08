@@ -31,17 +31,17 @@ Then:
 ### Logging Your Working Expectations
 
 * A full time employee is slotted for a 40 hour work week
-* Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for civicactions related meetings or comms, she should bill it all to the fixed price project.  She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
+* Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for civicactions related meetings or comms, she should bill it all to the fixed price project. She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
 * Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
 * Time and Materials: 85-95% (34-38 hours / week)
 
 ### Projects with Service Area-Based Tasks
 
-A lot of our internal time represents an investment in a service area, so we're going to track that time accordingly. 
+A lot of our internal time represents an investment in a service area, so we're going to track that time accordingly.
 
 * CA > Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc
 * CA > Check-in Calls - use this for one-on-ones, like with your manager, or onboarding/mentoring
-* CA > Documentation - use this for documentating 
+* CA > Documentation - use this for documentating
 * CA > Professional Development
 * CA > IT/IS
 * CA > Community Participation
@@ -59,7 +59,7 @@ Log your time in the CivicActions project: CA > Onboarding > select your service
 
 ### Projects with Generic Tasks
 
-For some internal projects, we don't care about tracking our time by service area, and you won't see service area based tasks there. 
+For some internal projects, we don't care about tracking our time by service area, and you won't see service area based tasks there.
 
 * CA > All hands calls
 * CA > Pod calls
@@ -107,7 +107,7 @@ Track expenses in the Harvest Expense tracking section.
 
 Before you incur or track expenses be sure to get approval as described in the [expense policy](../../03-policies/expenses.md).
 
-Billable expenses are when a cost can be passed back through to the client. This is usually only the case when the client has an approved budget for travel or other costs. Your project manager will be able to answer questions per project if you are not sure about the cost being billable or not. 
+Billable expenses are when a cost can be passed back through to the client. This is usually only the case when the client has an approved budget for travel or other costs. Your project manager will be able to answer questions per project if you are not sure about the cost being billable or not.
 
 There are mobile apps that make this part of Harvest easy to use, if you'd like to try them:
 

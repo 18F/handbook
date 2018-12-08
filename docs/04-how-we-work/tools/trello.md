@@ -69,7 +69,7 @@ The Trello integration for Slack is a great add-on for providing clickable summa
 * You can subscribe to a card (or even a whole board) without assigning yourself to that card. This will generate a lot of notifications, so use this wisely.
 * Take screenshots of Trello Boards before and after Sprints (you'll probably have to zoom WAY out in your browser to see the whole thing).
 * The Activity listin the right sidebar is great for getting the latest updates.
-* We have a set of Templates for how to set up Trello boards (search for Template at <https://trello.com/civicactions>). Usually the green board background is reserved for the template boards. 
+* We have a set of Templates for how to set up Trello boards (search for Template at <https://trello.com/civicactions>). Usually the green board background is reserved for the template boards.
 * Make the background of the board a color that is consistent with the other boards for the same project.
 
 ## Tips and tricks

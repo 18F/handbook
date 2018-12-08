@@ -19,7 +19,7 @@ For any project or team onsites, your expenses are almost always reimbursable. P
 
 ## Mileage Reimbursement
 
-CivicActions will reimburse employees at the IRS "business standard mileage rate" for miles traveled by the employee in the employee's car while on CivicActions' business. This reimbursement is meant to cover gas and wear-and-tear on a car. It does not cover tolls or parking, which can be expensed separately. 
+CivicActions will reimburse employees at the IRS "business standard mileage rate" for miles traveled by the employee in the employee's car while on CivicActions' business. This reimbursement is meant to cover gas and wear-and-tear on a car. It does not cover tolls or parking, which can be expensed separately.
 
 ## Retreat Expenses
 

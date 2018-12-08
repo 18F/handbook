@@ -29,7 +29,7 @@ The first step toward helping users feel attended-to is to **always reply prompt
 
 ```
 Hi (name),
-Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem).  We'll (research some more about this / put it in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information.
+Thanks for sending this over! It sounds like you're experiencing a problem with (statement of problem). We'll (research some more about this / put it in front of our engineers immediately / see if I can solve that problem), and we'll follow up once we've got more information.
 
 Let me know if I can help with anything else in the meantime!
 
@@ -41,7 +41,7 @@ CivicActions Support
 The simple act of sending a response that acknowledges a question helps create a mutually beneficial partnership, and tells the user that they're not alone.
 
 ### Following Up
-We **always follow up**.  We check and re-check our ticket queues frequently. If a person hasn't yet responded, we reach back out, and make sure all is well at least twice before closing the ticket. There may be times when this is inappropriate (spam doesn't need a response, and someone angrily unsubscribing from a website may want to be done with the interaction as quickly as possible), but in most cases we should reach out to make sure an interaction is complete.
+We **always follow up**. We check and re-check our ticket queues frequently. If a person hasn't yet responded, we reach back out, and make sure all is well at least twice before closing the ticket. There may be times when this is inappropriate (spam doesn't need a response, and someone angrily unsubscribing from a website may want to be done with the interaction as quickly as possible), but in most cases we should reach out to make sure an interaction is complete.
 
 ### Resolution time
 We do our best to **solve problems quickly**. We can't always do this; sometimes problems require lengthy engineering engagements, or simply can't be done. But when possible, we come to an actual solution quickly and let the user know.

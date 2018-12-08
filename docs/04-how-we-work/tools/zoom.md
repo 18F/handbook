@@ -22,9 +22,9 @@ Paid accounts are available for those who need them regularly (once a week or so
 
 * Zoom is the deafult video meeting tool for CivicActions as it easily allows participants to dial themselves in to the meeting
 * Slack has a shortcut to creating a meeting: Just enter "/zoom" in the channel or direct message where you want the meeting link to appear
-* Mute by default when joining: Settings > Audio and check "Always mute microphone when joining meeting" 
+* Mute by default when joining: Settings > Audio and check "Always mute microphone when joining meeting"
 * Video off by default when joining: Settings > Video and check "Turn off my video when joining meeting"
 * Display participant names: Settings > Video and check "Always display participant's name on their video"
-* Enable shortcuts outside of Zoom can be handy for (un)muting when Zoom is not your top window: Settings > Accessibility and select "Enable shortcuts even when the Zoom app is not in focus" 
+* Enable shortcuts outside of Zoom can be handy for (un)muting when Zoom is not your top window: Settings > Accessibility and select "Enable shortcuts even when the Zoom app is not in focus"
 * Screen share Mac shortcut: Cmd + Shift + S
 * Screen share PC shortcut: Alt + Shift + S

@@ -6,7 +6,7 @@ The Daily Scrum Meeting is a short meeting designed to synchronize the project t
 
 ## Who should participate:
 
-The meeting participants should be any members of the project team committed to delivering work during the sprint, the Product Owner, and the Scrum Master (typically referred to as a Project Manager at CivicActions).  Others may attend to observe but should not participate.
+The meeting participants should be any members of the project team committed to delivering work during the sprint, the Product Owner, and the Scrum Master (typically referred to as a Project Manager at CivicActions). Others may attend to observe but should not participate.
 
 ## How to do it:
 

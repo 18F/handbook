@@ -36,7 +36,7 @@ Description: An epic often starts as the big picture and then the user stories f
 * Written step-by-step so that anyone can pass/fail the test
 * The PO will also run through the same test
 * It will also explain the expected results
-* Specific directions/steps a tester can follow that ensure what was developed produces what the engineer intended  
+* Specific directions/steps a tester can follow that ensure what was developed produces what the engineer intended
 
 ## Estimates
 

@@ -15,7 +15,7 @@ A buddy typically has been with CivicActions for at least six months to one year
 ## Tips for the Buddy
 
 * Invite your new hire to any of your project meetings that you think might be helpful to have him/her observe
-* Put yourself in your new hire's shoes. What important info do you wish you had known at that time?  Share it!
+* Put yourself in your new hire's shoes. What important info do you wish you had known at that time? Share it!
 * Conversation starters:
     * What have you been learning during your onboarding sessions with your manager?
     * In what areas do you feel strong/confident?
@@ -32,4 +32,4 @@ A buddy typically has been with CivicActions for at least six months to one year
 
 ## Cross Functional Buddy
 
-* A cross functional buddy is someone who is in a role opposite of your own. You may decide at some point to choose a cross functional role you'd like support in and this can become part of your [professional development](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation). 
+* A cross functional buddy is someone who is in a role opposite of your own. You may decide at some point to choose a cross functional role you'd like support in and this can become part of your [professional development](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation).

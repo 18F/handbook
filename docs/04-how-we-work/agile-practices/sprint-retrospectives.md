@@ -10,12 +10,12 @@ The purpose of the retrospective is to deliberately apply the concepts of iterat
 
 ## Who should participate:
 
-The meeting participants should be any members of the project team who delivered work during the sprint, the Product Owner, and the Scrum Master (typically referred to as a Project Manager at CivicActions).  Others may attend to observe but should not participate.
+The meeting participants should be any members of the project team who delivered work during the sprint, the Product Owner, and the Scrum Master (typically referred to as a Project Manager at CivicActions). Others may attend to observe but should not participate.
 Depending on the project dynamics, you may choose to have an internal retrospective where the client is not present. This may help create a more candid environment; however, you should keep in mind that retrospectives with the client are an important component of long-term relationship building.
 
 ## How to do it:
 
-The Scrum Master facilitates the sprint retrospective meeting and may employ a variety of approaches in order to generate discussion. The time box for a sprint retrospective is typically 60 to 90 minutes.  The standard retrospective meeting can be reduced down to these main objectives:
+The Scrum Master facilitates the sprint retrospective meeting and may employ a variety of approaches in order to generate discussion. The time box for a sprint retrospective is typically 60 to 90 minutes. The standard retrospective meeting can be reduced down to these main objectives:
 
 * Identify & discuss what worked in the sprint so that the team can continue to do it
 * Identify & discuss what did not work in the sprint so that the team can improve in the next sprint

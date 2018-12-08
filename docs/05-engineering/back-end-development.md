@@ -122,7 +122,7 @@ function myfunc($my_parameter) {    // no space before "(". 1 space before '{'
   else {                 // the else looks prety lonely, but it helps indenting rules like this
     do_something_else();
   }
-  print "done".          // when possible, align comments (makes them easier to separate from code)
+  print "done".         // when possible, align comments (makes them easier to separate from code)
 }
 ```
 

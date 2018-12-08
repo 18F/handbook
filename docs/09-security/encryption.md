@@ -118,7 +118,7 @@ After some time for propagation (give it a few hours to a day) you can look up y
 * [GnuPG home](https://www.gnupg.org/)
 * [GnuPG Mini How-To](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)
 * [(Ubuntu) OpenPGP Key Signing Party](https://wiki.ubuntu.com/KeySigningParty)
-* [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps) 
+* [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps)
 
 You'll want to get your key signed and grow your [web of trust](https://en.wikipedia.org/wiki/Web_of_trust). And you'll want to integrate your key with your email client.
 

@@ -18,7 +18,7 @@ We use internal and client-facing listservs for email communication. PMs are  re
 ## Before adding users
 
 * Under Basic Permissions: Check off "Allow new users not in civicactions".
-* Under Posting Permissions: For the Post field select all options including "Anyone on the web" so that clients can email to the list and the list can be CC'd on other's emails. 
+* Under Posting Permissions: For the Post field select all options including "Anyone on the web" so that clients can email to the list and the list can be CC'd on other's emails.
 * Under Email Options: Add \[subject prefix\] that will show up in all emails in the subject line
 * Under Email Options: Set "Post replies"  "To the entire group" (in most cases)
 * Under Email Options: You can set auto-replies, custom footers, etc.
@@ -26,9 +26,9 @@ We use internal and client-facing listservs for email communication. PMs are  re
 
 ## Adding users
 
-* In most cases, you'll want to use "Direct add members" instead of "Invite members", so that invitees don't need to take any action. 
+* In most cases, you'll want to use "Direct add members" instead of "Invite members", so that invitees don't need to take any action.
 * You can set a welcome message that should be sticky for future members that get added.
-* Add elizabeth.raley@civicactions.com and owen.barton@civicactions.com to every list you create. 
+* Add elizabeth.raley@civicactions.com and owen.barton@civicactions.com to every list you create.
 
 ![alt text](../images/create-google-group-listserv.png "PM listserv setup")
 

@@ -12,7 +12,7 @@ We record, categorize and assess the severity of incidents, problems and change 
 
 We keep users informed, and prioritize clarity, empathy, transparency and kindness in our communications. We treat people how we would wish to be treated.
 
-When a reported incident indicates a larger problem, we help our engineers understand the impact so that they can prioritize, solve and test the solved issue. 
+When a reported incident indicates a larger problem, we help our engineers understand the impact so that they can prioritize, solve and test the solved issue.
 
 We report on our work so that trends over time and patterns of behavior can more easily emerge, and so that we can assure the quality of our own performance. Our quality and speed of service is always well ahead of our service level agreements.
 
