@@ -56,7 +56,7 @@
 * We validate assumptions, so that we work on the right thing.
     * Am I assuming this is a back-end issue?
     * Am I assuming this is a front-end issue?
-    * Am I assuming this is a issue with a specific module?
+    * Am I assuming this is an issue with a specific module?
 * When we get WSOD, we check the logs under `/var/log/httpd` or `/var/log/apache2`
 * We use browser like Chrome dev console or Firebug tools to identify JS and server issues so that we don't miss issues between the browser and Drupal.
 * When debugging, for every half hour we spend working on a bug, we spend 15 minutes making it faster to test/debug so that we can learn faster, and test hypothesis faster.

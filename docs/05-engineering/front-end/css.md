@@ -64,7 +64,7 @@
 * We use <http://crossbrowsertesting.com/> (credentials on civicactions.net) to test.
 * We do both specific, interactive cross-browser testing, as well as automated broad tests of all major sections and page types.
 * If a client complains about UI problems, we get details on their system setup, including screen resolution and installed character sets.
-* We aim to have a HTML and CSS layout that works cross-browser "naturally" as much as possible, keeping browser specific tweaks as exceptions.
+* We aim to have an HTML and CSS layout that works cross-browser "naturally" as much as possible, keeping browser specific tweaks as exceptions.
 * We test to see that CSS aggregation is enabled: IE has limit on the number of stylesheets that can load.
 * We avoid position: absolute
 * IE typically requires more explicit "position" statements.

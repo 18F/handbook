@@ -25,8 +25,8 @@ An example of an actual interview preparation for CWDS-TPS3 documents, templates
     * Customize the template for the following fields:
         * Timing & Dates:
         * Expectation to hear from State within 2 weeks
-        * Meet with the team for 2-3 days (same week we hear back or following week depending on if a M or F)
-        * Interview with the Client (same week we hear back or following week depending on if a M or F)
+        * Meet with the team for 2-3 days (same week we hear back or following week depending on if a Monday or Friday)
+        * Interview with the Client (same week we hear back or following week depending on if a Monday or Friday)
         * Interview results (2 weeks after interview)
         * List the projected project start date from RFO
     * Reading Materials

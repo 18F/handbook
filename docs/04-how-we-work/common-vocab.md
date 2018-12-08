@@ -64,7 +64,7 @@
 * **Sprint Retrospective**: A timeboxed meeting in which the work performed and delivered in a past sprint is evaluated, and possible improvements to the team's practices are identified (hypothesized).
 * **User Acceptance Testing** - The process by which a representative of the client team follows an explicit set of steps to test the requirements of the ticket in order to mark it "Done".
 * **User Epic** - a group of related user stories
-* **User Story** - one or two sentences in everyday language that captures the who, what and why of an so: Independent, Negotiable, Valuable, Estimable, Small, Testable (INVEST) requirement: As a <role>, I want to <goal>, so that <benefit>.
+* **User Story** - one or two sentences in everyday language that captures the who, what and why of a story: Independent, Negotiable, Valuable, Estimable, Small, Testable (INVEST) requirement: As a <role>, I want to <goal>, so that <benefit>.
 * **Velocity** - describes how much work a scrum team can accomplish in a sprint. The longer a team works together, the more efficient they become. The scrum team can look at past sprints to gauge how much work is likely to be accomplished in a sprint.
 * **Work in Progress (WIP)** - a partially finished task or ticket. Limiting WIP items increases the velocity that an item passes through a system.
 
