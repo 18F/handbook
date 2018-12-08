@@ -26,4 +26,4 @@ The purpose of the Sprint Demo is to help everyone visualize the new product, th
 
 ## Additional Resources:
 
-* [Scrum Training Series Video](http://scrumtrainingseries.com/SprintReviewMeeting/SprintReviewMeeting.htm)
+*   [Scrum Training Series Video](http://scrumtrainingseries.com/SprintReviewMeeting/SprintReviewMeeting.htm)

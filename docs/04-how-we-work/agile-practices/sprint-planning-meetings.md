@@ -18,15 +18,15 @@ Once the product backlog has been prioritized by the Product Owner and those sto
 
 A Sprint Planning Meeting usually includes the following:
 
-1. The Product Owner provides a brief review of the "big picture" or main project goal, then shares his/her highest prioritized stories. The PO should present enough stories for about 2 full sprints worth of work.
-2. Discuss and confirm the team's potential capacity and velocity for the sprint. This may include discussions about scheduled time off for any team members, holidays, velocity in previous sprints, and anything else that could influence capacity or velocity.
-3. With the most important backlog items having been stated and project capacities having been defined, the project team and Product Owner use this information to develop a "Sprint Goal". This is a one to two sentence statement that describes what the team plans to accomplish during the sprint.
-4. The team examines and discusses the highest priority items in the product backlog as defined by the Product Owner. The project team may ask questions of the Product Owner to clarify stories and tasks.
-5. Larger stories should be broken down into smaller tasks that can be accomplished in a single sprint.
-6. Tasks are evaluated to confirm that work descriptions and acceptance criteria are present and are unambiguous to all project team members.
-7. Tasks are given a story point value by the project team to indicate the level of effort required to complete the task.
-8. Throughout the above steps, tasks are selected by the project team and added to the sprint backlog.
-9. If the project team has a previously established history for total story points completed in a sprint, this information can be used to determine when the sprint backlog is full. The team should also take into consideration any capacity variables discussed in step 2 when deciding on the size of the sprint backlog.
+1.  The Product Owner provides a brief review of the "big picture" or main project goal, then shares his/her highest prioritized stories. The PO should present enough stories for about 2 full sprints worth of work.
+2.  Discuss and confirm the team's potential capacity and velocity for the sprint. This may include discussions about scheduled time off for any team members, holidays, velocity in previous sprints, and anything else that could influence capacity or velocity.
+3.  With the most important backlog items having been stated and project capacities having been defined, the project team and Product Owner use this information to develop a "Sprint Goal". This is a one to two sentence statement that describes what the team plans to accomplish during the sprint.
+4.  The team examines and discusses the highest priority items in the product backlog as defined by the Product Owner. The project team may ask questions of the Product Owner to clarify stories and tasks.
+5.  Larger stories should be broken down into smaller tasks that can be accomplished in a single sprint.
+6.  Tasks are evaluated to confirm that work descriptions and acceptance criteria are present and are unambiguous to all project team members.
+7.  Tasks are given a story point value by the project team to indicate the level of effort required to complete the task.
+8.  Throughout the above steps, tasks are selected by the project team and added to the sprint backlog.
+9.  If the project team has a previously established history for total story points completed in a sprint, this information can be used to determine when the sprint backlog is full. The team should also take into consideration any capacity variables discussed in step 2 when deciding on the size of the sprint backlog.
 10. Once the sprint backlog is pronounced full by the team, discussion of additional tickets is no longer necessary.
 11. Once the sprint backlog is full, the team may choose to revisit and revise the previously defined sprint goal.
 12. The Product Owner and Team confirm that the sprint backlog work will result in the best possible product given all previously defined constraints.
@@ -39,5 +39,5 @@ The Sprint Planning Meeting is arguably the most important meeting of a sprint c
 
 ## Additional Resources:
 
-* [Scrum Training Series Video](http://scrumtrainingseries.com/SprintPlanningMeeting/SprintPlanningMeeting.htm)
-* [A Sprint Planning Cheat Sheet](http://www.leadingagile.com/2012/08/simple-cheat-sheet-to-sprint-planning-meeting/)
+*   [Scrum Training Series Video](http://scrumtrainingseries.com/SprintPlanningMeeting/SprintPlanningMeeting.htm)
+*   [A Sprint Planning Cheat Sheet](http://www.leadingagile.com/2012/08/simple-cheat-sheet-to-sprint-planning-meeting/)

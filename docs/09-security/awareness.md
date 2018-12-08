@@ -10,8 +10,8 @@ The operating system and software applications on your laptop - and all computer
 
 Additionally, your laptop should lock (require a password to resume) on screen close and after 15 minutes idle time.
 
-* [GNU/Linux specific instructions](./yubikey/linux.md#screen-lock-when-idle-or-lid-closed-x-server)
-* [Mac OS X specific instructions](./yubikey/macosx.md#screen-lock-on-lid-close-or-idle)
+*   [GNU/Linux specific instructions](./yubikey/linux.md#screen-lock-when-idle-or-lid-closed-x-server)
+*   [Mac OS X specific instructions](./yubikey/macosx.md#screen-lock-on-lid-close-or-idle)
 
 ## Password Management Tools
 
@@ -19,22 +19,22 @@ A password manager will enable you to have unique, strong passwords for every se
 
 ### LastPass
 
-* The [LastPass](https://lastpass.com/) password generator can easily create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
-    * We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
-    * Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
-* LastPass is required for members of the CivicActions System Admins and Infrastructure Support Team.
-* We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [Yubikey](./yubikey/README.md) token).
-* Set up Two Factor Authentication on your LastPass Account (see below). LastPass will be storing all your passwords, so make it secure.
-* It is fine (and perhaps preferable, because your browser can only use one LastPass account at a time) to use a personal email address to create your LastPass account.
-* CivicActions also requires that you have a [backup second factor authenticator](#two-factor-redundancy-and-tfa-backup-codes) for your LastPass account.
+*   The [LastPass](https://lastpass.com/) password generator can easily create and maintain hundreds of different passwords. And LastPass has free iPhone and Android apps.
+    *   We recommend a minimum of 16 character passwords using all character types. (Some old systems will need you to lessen this level of security, but those are few.)
+    *   Once you have all your passwords in LastPass, take the "Security Challenge" - your score should be 80% or higher.
+*   LastPass is required for members of the CivicActions System Admins and Infrastructure Support Team.
+*   We recommend LastPass premium but do not require it. A premium account will enable unlimited sync across your devices and more robust two-factor authentication (e.g. with a [Yubikey](./yubikey/README.md) token).
+*   Set up Two Factor Authentication on your LastPass Account (see below). LastPass will be storing all your passwords, so make it secure.
+*   It is fine (and perhaps preferable, because your browser can only use one LastPass account at a time) to use a personal email address to create your LastPass account.
+*   CivicActions also requires that you have a [backup second factor authenticator](#two-factor-redundancy-and-tfa-backup-codes) for your LastPass account.
 
 ### Disable Browser Password Autofill
 
 LastPass provides secure password management especially when unlocked via Two Factor Authentication. Storing new passwords created in LastPass in your browser completely defeats this security, enabling anyone with access to your browser access to all your sites. If asked by your browser "Do you want to save this password in your browser?" answer "**No**". Then disable this insecure action altogether:
 
-* In Chrome, go to chrome://settings/ and uncheck "Offer to save your web passwords"
-* In Firefox, go to about:preferences#security and uncheck "Remember logins for sites"
-* In Safari, go to Preferences >> Passwords and uncheck "AutoFill user names and passwords"
+*   In Chrome, go to chrome://settings/ and uncheck "Offer to save your web passwords"
+*   In Firefox, go to about:preferences#security and uncheck "Remember logins for sites"
+*   In Safari, go to Preferences >> Passwords and uncheck "AutoFill user names and passwords"
 
 ## Use Two Factor (or 2-Step) Authentication (TFA, 2FA)
 
@@ -52,31 +52,31 @@ Do not rely on SMS text messages for general two-factor authentication as it is 
 
 #### LastPass Authenticator
 
-* This provides tight integration with some apps, see: <https://lastpass.com/auth/>
-* For more info, see: <https://support.logmeininc.com/lastpass/help/lastpass-authenticator-lp030014>
+*   This provides tight integration with some apps, see: <https://lastpass.com/auth/>
+*   For more info, see: <https://support.logmeininc.com/lastpass/help/lastpass-authenticator-lp030014>
 
 #### Authy
 
-* For installation instructions (iPhone or Android), see: <https://authy.com/download/>
-* Guides for setting up Two-Factor Authentication: <https://authy.com/guides/>
+*   For installation instructions (iPhone or Android), see: <https://authy.com/download/>
+*   Guides for setting up Two-Factor Authentication: <https://authy.com/guides/>
 
 #### Yubikey
 
 Once set up, Yubikey greatly simplifies the process of Two-Factor Authentication. While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. This saves time while enabling the strongest security. While on the road, the nearly indestructible Yubikey attaches easily to your keychain.
 
-* See CivicActions' [Yubikey page](./yubikey/README.md)
-* See Yubikey documentation on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals/), [LastPass](https://www.yubico.com/why-yubico/for-individuals/password-managers/lastpass/), and [GitHub](https://www.yubico.com/why-yubico/for-individuals/github/)
+*   See CivicActions' [Yubikey page](./yubikey/README.md)
+*   See Yubikey documentation on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals/), [LastPass](https://www.yubico.com/why-yubico/for-individuals/password-managers/lastpass/), and [GitHub](https://www.yubico.com/why-yubico/for-individuals/github/)
 
 While Yubikey is the easiest to use on a daily basis, it does not have cloud backup so you'll either have to buy a second Yubikey (the author of this page has three!) and/or be sure that you have set up [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes).
 
 ### Partial List of TFA Services
 
-* LastPass: [Multifactor Authentication Options](https://helpdesk.lastpass.com/multifactor-authentication-options/)
-* Google: [2 Step Verification](https://support.google.com/accounts/topic/28786?hl=en&ref_topic=3382253)
-* GitHub (especially for your [CivicAction account](https://github.com/CivicActions)): [Securing your account with two-factor authentication (2FA)](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/)
-* GitLab: See [your profile](https://git.civicactions.net/profile/account)
-* iCloud: [Two-factor authentication for Apple ID](https://support.apple.com/en-us/HT204915)
-* Slack: [Enabling two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Enabling-two-factor-authentication#enablingtwofactor-authentication)
+*   LastPass: [Multifactor Authentication Options](https://helpdesk.lastpass.com/multifactor-authentication-options/)
+*   Google: [2 Step Verification](https://support.google.com/accounts/topic/28786?hl=en&ref_topic=3382253)
+*   GitHub (especially for your [CivicAction account](https://github.com/CivicActions)): [Securing your account with two-factor authentication (2FA)](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/)
+*   GitLab: See [your profile](https://git.civicactions.net/profile/account)
+*   iCloud: [Two-factor authentication for Apple ID](https://support.apple.com/en-us/HT204915)
+*   Slack: [Enabling two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Enabling-two-factor-authentication#enablingtwofactor-authentication)
 
 ### Two-Factor Redundancy and TFA Backup Codes
 
@@ -88,24 +88,24 @@ SMS can often be an easy backup, say for Google Authenticator, or Google Authent
 
 Social engineering is the most common attack vector used to compromise computer systems. Social engineering relies heavily on human interaction and often involves tricking people into breaking normal security procedures. The following is a brief reminder of some of the methods used, but is in no way complete.
 
-* Phishing
-    * Don't click on links, hover and check the URLs
-    * Don't open attachments (unless you really trust the sender)
-    * If in doubt, ask an IT member (e.g. via Slack)
-    * [More on Phishing avoidance (from EFF)](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
-* Windows Technical Support
-    * "Windows Technical Support has noticed that you have viruses or other malware on your computer..."
-* Baiting
-    * Seemingly innocent (or interesting) abandoned USB, CD, DVD media with autorun
-* Public WiFi (e.g., coffee shop, airport, library, ...)
-    * Turn off sharing
-    * Don't automatically connect to unknown WiFi hotspots
-    * Confirm the network name - know the name of your hotspot!
-    * Turn on your local firewall
-    * As usual, never enter your name or password information:
-        * when on an insecure (non-HTTPS or SSL encrypted) connection, or
-        * to a site that you have not verified is correct (by examining at the URL)
-    * [More on public WiFi network safety (from LifeHacker)](http://lifehacker.com/5576927/how-to-stay-safe-on-public-wi-fi-networks)
+*   Phishing
+    *   Don't click on links, hover and check the URLs
+    *   Don't open attachments (unless you really trust the sender)
+    *   If in doubt, ask an IT member (e.g. via Slack)
+    *   [More on Phishing avoidance (from EFF)](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
+*   Windows Technical Support
+    *   "Windows Technical Support has noticed that you have viruses or other malware on your computer..."
+*   Baiting
+    *   Seemingly innocent (or interesting) abandoned USB, CD, DVD media with autorun
+*   Public WiFi (e.g., coffee shop, airport, library, ...)
+    *   Turn off sharing
+    *   Don't automatically connect to unknown WiFi hotspots
+    *   Confirm the network name - know the name of your hotspot!
+    *   Turn on your local firewall
+    *   As usual, never enter your name or password information:
+        *   when on an insecure (non-HTTPS or SSL encrypted) connection, or
+        *   to a site that you have not verified is correct (by examining at the URL)
+    *   [More on public WiFi network safety (from LifeHacker)](http://lifehacker.com/5576927/how-to-stay-safe-on-public-wi-fi-networks)
 
 ## Keep Your Systems Up-to-date
 
@@ -137,9 +137,9 @@ Unlike Mac and Windows, you can only encrypt your drive during system installati
 
 With more work captured in the cloud by Slack, Gmail, Google Drive, GitHub, etc. there is less that needs to be backed up. But you won't know what you'll miss until your system doesn't boot up because of an unrecoverable hard drive (or SSD) error. At the least, back up your security keys and personal preferences directories, such as (examples in GNU/Linux):
 
-* `~/.ssh/`
-* `~/.gnupg/`
-* `~/.config`
+*   `~/.ssh/`
+*   `~/.gnupg/`
+*   `~/.config`
 
 Consider committing your personalization files (like `~/.bashrc`) into a Git repository. Just make sure that you do *not* commit any files that may contain private keys or passwords.
 
@@ -155,20 +155,20 @@ When you delete a file, it doesn't actually go away. Usually, all that occurs is
 
 GNU/Linux:
 
-* <http://askubuntu.com/questions/57572/how-to-delete-files-in-secure-manner>
-* <https://ssd.eff.org/en/module/how-delete-your-data-securely-linux>
+*   <http://askubuntu.com/questions/57572/how-to-delete-files-in-secure-manner>
+*   <https://ssd.eff.org/en/module/how-delete-your-data-securely-linux>
 
 Mac OS X:
 
-* <https://support.apple.com/kb/PH18638> (Yosemite)
-* <https://www.intego.com/mac-security-blog/how-to-securely-empty-trash-in-os-x-el-capitan/> (El Capitan)
+*   <https://support.apple.com/kb/PH18638> (Yosemite)
+*   <https://www.intego.com/mac-security-blog/how-to-securely-empty-trash-in-os-x-el-capitan/> (El Capitan)
 
 Erasing an entire disk:
 
-* <https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase>
+*   <https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase>
 
 ## Protecting Your Privacy
 
 CivicActions believes that your privacy is a right, and that private communications can be beneficial to business. Here's some tips on how FOSS can help:
 
-* [Protecting Your Privacy with Encryption](./encryption.md)
+*   [Protecting Your Privacy with Encryption](./encryption.md)

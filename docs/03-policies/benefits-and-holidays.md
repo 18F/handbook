@@ -9,13 +9,13 @@ updated: May 9, 2017
 
 The following holidays are observed by CivicActions and the office is considered closed:
 
-* New Year's Day . . . . . . . . . . . . . . . . . January 1st
-* Martin Luther King's Birthday . . . . . Third Monday in January
-* Memorial Day . . . . . . . . . . . . . . . . . . Last Monday in May
-* Independence Day . . . . . . . . . . . . . . July 4th
-* Labor Day . . . . . . . . . . . . . . . . . . . . . . First Monday in September
-* Thanksgiving . . . . . . . . . . . . . . . . . . . Fourth Thursday in November and the following Friday
-* Christmas . . . . . . . . . . . . . . . . . . . . . . December 25th
+*   New Year's Day . . . . . . . . . . . . . . . . . January 1st
+*   Martin Luther King's Birthday . . . . . Third Monday in January
+*   Memorial Day . . . . . . . . . . . . . . . . . . Last Monday in May
+*   Independence Day . . . . . . . . . . . . . . July 4th
+*   Labor Day . . . . . . . . . . . . . . . . . . . . . . First Monday in September
+*   Thanksgiving . . . . . . . . . . . . . . . . . . . Fourth Thursday in November and the following Friday
+*   Christmas . . . . . . . . . . . . . . . . . . . . . . December 25th
 
 Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation. You do NOT need to log entries when the office is closed for a Holiday.
 
@@ -25,11 +25,11 @@ Time off applies to exempt employees. We do not accrue sick days, vacation days 
 
 You do not need to justify time off, but (except for unexpected events or emergencies), it does need to be arranged in advance so the work will be covered. There is a procedure for this:
 
-1. If you are working on an active project, discuss the impact of your absence with your project manager (this is especially important if there is flexibility in your dates) to get coverage and understand project impact.
-2. Email <mailto:ca-timeoff@lists.civicactions.net> requesting the time and explain your plan for coverage as discussed with your PM & team.
-3. When the time off is approved, your manager will simply "reply-all" to your original email and add it to Harvest's Forecast tool.
-4. Then the admin will put it on the Master Out of Office Calendar.
-5. Lastly, follow the [procedure for logging time off](../04-how-we-work/tools/harvest.md).
+1.  If you are working on an active project, discuss the impact of your absence with your project manager (this is especially important if there is flexibility in your dates) to get coverage and understand project impact.
+2.  Email <mailto:ca-timeoff@lists.civicactions.net> requesting the time and explain your plan for coverage as discussed with your PM & team.
+3.  When the time off is approved, your manager will simply "reply-all" to your original email and add it to Harvest's Forecast tool.
+4.  Then the admin will put it on the Master Out of Office Calendar.
+5.  Lastly, follow the [procedure for logging time off](../04-how-we-work/tools/harvest.md).
 
 If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-timeoff@lists.civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. You should consider having your manager's phone number handy. Lastly, follow the procedure for [logging sick time off](../04-how-we-work/tools/harvest.md) in Harvest with CivicActions.
 

@@ -19,13 +19,13 @@ The [GNU Privacy Guard](https://www.gnupg.org/) (GnuPG) is a complete and free i
 
 The current recommended version is GnuPG 2.x
 
-* Mac OS X installers:
-    * [GnuPG for OSX](https://sourceforge.net/p/gpgosx/docu/Download/) *(more recent)*
-    * [GPG Suite](https://gpgtools.org/) *(integrates into Apple Mail)*
-* GNU/Linux installers:
-    * Ubuntu: `sudo apt-get install gnupg2`
-    * Arch: `pacaur -S gnupg2`
-    * Fedora/CentOS: `sudo yum|dnf install gnupg2`
+*   Mac OS X installers:
+    *   [GnuPG for OSX](https://sourceforge.net/p/gpgosx/docu/Download/) *(more recent)*
+    *   [GPG Suite](https://gpgtools.org/) *(integrates into Apple Mail)*
+*   GNU/Linux installers:
+    *   Ubuntu: `sudo apt-get install gnupg2`
+    *   Arch: `pacaur -S gnupg2`
+    *   Fedora/CentOS: `sudo yum|dnf install gnupg2`
 
 ### Creating your public/private key pair
 
@@ -39,11 +39,11 @@ $ gpg --gen-key
 
 Choose:
 
-* (1) RSA and RSA (default)
-* keysize = 4096 bits
-* 0 = key does not expire
-* use your civicactions.com email address (you can add more email addresses later)
-* use a strong pass phrase to protect your secret key
+*   (1) RSA and RSA (default)
+*   keysize = 4096 bits
+*   0 = key does not expire
+*   use your civicactions.com email address (you can add more email addresses later)
+*   use a strong pass phrase to protect your secret key
 
 The generated key is actually a *key pair*: a *public* key that you can give to anyone, and a *private* key that you protect with a passphrase. A file encrypted with someone's public key can only be decrypted by a person who posseses the associated private key. You can also *sign* a document (encrypted or not) with your private key so that others who have your public key can verify that the document was signed by you - and only you.
 
@@ -115,10 +115,10 @@ After some time for propagation (give it a few hours to a day) you can look up y
 
 ### More GnuPG information
 
-* [GnuPG home](https://www.gnupg.org/)
-* [GnuPG Mini How-To](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)
-* [(Ubuntu) OpenPGP Key Signing Party](https://wiki.ubuntu.com/KeySigningParty)
-* [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps)
+*   [GnuPG home](https://www.gnupg.org/)
+*   [GnuPG Mini How-To](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)
+*   [(Ubuntu) OpenPGP Key Signing Party](https://wiki.ubuntu.com/KeySigningParty)
+*   [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps)
 
 You'll want to get your key signed and grow your [web of trust](https://en.wikipedia.org/wiki/Web_of_trust). And you'll want to integrate your key with your email client.
 
@@ -128,9 +128,9 @@ You use email every day. Sending normal (un-encrypted) email is like sending a p
 
 In the case of post cards, generally it would be celebrity or a particularly interesting photo that might cause the card to be read. Email, however, can be easily be scanned for specific content by sophisticated computer programs residing anywhere along the path. Scanning is most prevalent at internet hubs like your ISP, and the justification (usually not made public) for scanning your email may include a search for:
 
-* illegal music or movie downloads (in cooperation with the RIAA or MPAA)
-* suspicious "terrorist" activities (in cooperation with the DHS, FBI or NSA)
-* social security numbers and account passwords (by illegal black hat hackers)
+*   illegal music or movie downloads (in cooperation with the RIAA or MPAA)
+*   suspicious "terrorist" activities (in cooperation with the DHS, FBI or NSA)
+*   social security numbers and account passwords (by illegal black hat hackers)
 
 Bottom line: while your post cards are likely not being read, your emails are at the least being scanned by automated sniffers. But it is possible to wrap your *post card*-like email in a secure envelope known as encryption. If you use strong encryption, it can actually be impossible for even the NSA to decrypt the ciphertext without your cooperation (or perhaps NSA-injected malware in your computer that steals your private key and passphrase).
 
@@ -150,10 +150,10 @@ See [GPGTools](https://gpgtools.org/) *(not yet fully integrated with Sierra)*
 
 ### More Email References
 
-* [Email Self-Defense](https://emailselfdefense.fsf.org/en/) (Free Software Foundation)
-* [The Best Free Ways to Send Encrypted Email and Secure Messages](http://www.howtogeek.com/135638/the-best-free-ways-to-send-encrypted-email-and-secure-messages/) (HowToGeek)
-* [Why No One Uses Encrypted Email Messages](http://www.howtogeek.com/187961/why-no-one-uses-encrypted-email-messages/) (HowToGeek)
-* [Why You Should Encrypt Your Email](https://www.lifewire.com/you-should-encrypt-your-email-2486679) (LifeWire)
+*   [Email Self-Defense](https://emailselfdefense.fsf.org/en/) (Free Software Foundation)
+*   [The Best Free Ways to Send Encrypted Email and Secure Messages](http://www.howtogeek.com/135638/the-best-free-ways-to-send-encrypted-email-and-secure-messages/) (HowToGeek)
+*   [Why No One Uses Encrypted Email Messages](http://www.howtogeek.com/187961/why-no-one-uses-encrypted-email-messages/) (HowToGeek)
+*   [Why You Should Encrypt Your Email](https://www.lifewire.com/you-should-encrypt-your-email-2486679) (LifeWire)
 
 #### ProtonMail
 
@@ -163,8 +163,8 @@ See [GPGTools](https://gpgtools.org/) *(not yet fully integrated with Sierra)*
 
 Using [Tor](https://www.torproject.org/) or a paid VPN (such as [PIA](https://www.privateinternetaccess.com/) and there are others; be sure to choose an exit node that is not in the U.S.) is the best route, but the two simple and free services below will have little impact on your browsing experience and can go a long way to minimizing the data others collect about you:
 
-* [Privacy Badger](https://www.eff.org/privacybadger) to disable most ads and cookie collectors
-* [DuckDuckGo](https://duckduckgo.com/) search that protects privacy and avoids the filter bubble
+*   [Privacy Badger](https://www.eff.org/privacybadger) to disable most ads and cookie collectors
+*   [DuckDuckGo](https://duckduckgo.com/) search that protects privacy and avoids the filter bubble
 
 ## Private Messaging and Calling
 
@@ -172,10 +172,10 @@ We recommend [Open Whisper Systems](https://whispersystems.org/). We like that t
 
 ## More Links
 
-* [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
-* [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
-* [The Privacy Enthusiast's Guide to Using Android](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-android-1792432725)
-* [The Privacy Enthusiast's Guide to Using an iPhone](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-an-iphone-1792386831)
-* [Tails - the amnesic incognito live system](https://tails.boum.org/)
-* [Bitcoin](https://bitcoin.org/) and [Zcash](https://z.cash/) - Private digital cash (advanced)
-* [Hardware that respects your freedom](https://www.fsf.org/resources/hw/endorsement/respects-your-freedom) (Free Software Foundation)
+*   [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
+*   [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
+*   [The Privacy Enthusiast's Guide to Using Android](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-android-1792432725)
+*   [The Privacy Enthusiast's Guide to Using an iPhone](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-an-iphone-1792386831)
+*   [Tails - the amnesic incognito live system](https://tails.boum.org/)
+*   [Bitcoin](https://bitcoin.org/) and [Zcash](https://z.cash/) - Private digital cash (advanced)
+*   [Hardware that respects your freedom](https://www.fsf.org/resources/hw/endorsement/respects-your-freedom) (Free Software Foundation)

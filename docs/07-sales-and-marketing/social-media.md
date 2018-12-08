@@ -10,8 +10,8 @@ The Marketing team maintains CivicActions's Twitter page and presence on social 
 
 Find us in Slack:
 
-* [#marketing](https://civicactions.slack.com/messages/marketing)
-* [#marketing-blog](https://civicactions.slack.com/messages/marketing-blog)
+*   [#marketing](https://civicactions.slack.com/messages/marketing)
+*   [#marketing-blog](https://civicactions.slack.com/messages/marketing-blog)
 
 ## <a id="twitter">Twitter</a>
 

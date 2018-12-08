@@ -56,7 +56,6 @@ It is the responsibility of each employee of CivicActions to report to a member 
 
 You know and share the values of our culture here, with an emphasis on integrity and transparency, and conflict of interest will not often be an issue, if ever. But, if you question the propriety of a transaction or activity that involves CivicActions or employees/contractors of CivicActions, or a client, or if an outside activity you may be considering raises questions in your mind, talk to your manager or one of the management team. See the full [Conflict of Interest Plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit) for more information.
 
-
 ## Background Checks
 
 As casual as we are in many areas, CivicActions is a responsible, successful, for-profit business and we do apply some standard business practices. For example, we will almost certainly verify prior employment and check professional references. We may confirm your education before making you an offer. It is also possible that a security check may be required by certain clients from time to time. Third-party services may be hired to perform these checks.

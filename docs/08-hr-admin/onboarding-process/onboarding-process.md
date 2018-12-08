@@ -12,12 +12,12 @@ We use Trello boards to manage onboarding-related *tasks*, but nearly all onboar
 
 Tools and resources for managing the process:
 
-* [Manager Checklist (Trello board)](https://trello.com/b/FOILJ0i6/template-onboarding-manager-checklist) (for onboarding managers)
-* [Admin/HR Checklist (Trello board)](https://trello.com/b/RbC0clMU/template-onboarding-admin-hr-checklist-draft) (for Judy)
-* [Mentor Handbook](https://github.com/CivicActions/handbook/blob/master/docs/08-hr-admin/onboarding-process/mentor-handbook.md) (guidelines for onboarding mentors)
+*   [Manager Checklist (Trello board)](https://trello.com/b/FOILJ0i6/template-onboarding-manager-checklist) (for onboarding managers)
+*   [Admin/HR Checklist (Trello board)](https://trello.com/b/RbC0clMU/template-onboarding-admin-hr-checklist-draft) (for Judy)
+*   [Mentor Handbook](https://github.com/CivicActions/handbook/blob/master/docs/08-hr-admin/onboarding-process/mentor-handbook.md) (guidelines for onboarding mentors)
 
 Trello board templates for new hires:
 
-* [New Hire Checklist (Trello board)](https://trello.com/b/sMn9YJcO/template-onboarding-new-hire-checklist) (for all new hires)
-* [New Engineer checklist (Trello board)](https://trello.com/b/bQeKK90e/template-onboarding-dev-engineering-new-employee-checklist) (for new devs only)
-* [New Project Manager Checklist (Trello board)](https://trello.com/b/KnmBekdC/template-onboarding-project-manager-new-employee-checklist-draft) (for new PMs only)
+*   [New Hire Checklist (Trello board)](https://trello.com/b/sMn9YJcO/template-onboarding-new-hire-checklist) (for all new hires)
+*   [New Engineer checklist (Trello board)](https://trello.com/b/bQeKK90e/template-onboarding-dev-engineering-new-employee-checklist) (for new devs only)
+*   [New Project Manager Checklist (Trello board)](https://trello.com/b/KnmBekdC/template-onboarding-project-manager-new-employee-checklist-draft) (for new PMs only)

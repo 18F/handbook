@@ -1,3 +1,3 @@
 trello
 docs working group
-#docs channel
+\#docs channel
