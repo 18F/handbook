@@ -7,6 +7,7 @@
     "fences": true
   },
   "plugins": [
+      "remark-frontmatter",
       "remark-validate-links",
       "remark-comment-config",
       "remark-normalize-headings",
@@ -15,7 +16,7 @@
       "remark-lint-hard-break-spaces",
       "remark-lint-heading-increment",
       "remark-lint-no-auto-link-without-protocol",
-      "remark-lint-no-blockquote-without-caret",
+      "remark-lint-no-blockquote-without-marker",
       "remark-lint-no-duplicate-definitions",
       "remark-lint-no-duplicate-headings-in-section",
       "remark-lint-no-emphasis-as-heading",
