@@ -1,6 +1,6 @@
 # How to log internal meetings
 
-All internal engineering meetings should be logged as "[CA] Practice Area Calls".
+All internal engineering meetings should be logged as "\[CA\] Practice Area Calls".
 
 ## Engineering call
 
