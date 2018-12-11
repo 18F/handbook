@@ -7,7 +7,7 @@
 *   We contribute back everything we can, because it supports us, our clients and the community.
 *   We manage patches in a standard way so that we can know if code/contrib has been changed, how and why. Every change should be contributed back, and the patch name should include the drupal.org issue NID.
 *   We write secure code.
-*   We write code that anticipates change, so that we can implement (most) changes in an easy and Agile way.
+*   We write code that anticipates likely changes, so that we can implement (most) changes in an easy and Agile way.
 *   We write API layer that doesn't assume a particular UI, so that the API could be used in multiple (and unpredictable) situations (For example, used in these UIs: Web site, drush, rest, SMS).
 *   We remove dead code, because it's dead (and because it's confusing to leave it).
 *   We treat one as a special case of many, so that the logic is in one place and we don't have to maintain it in two places.
@@ -57,7 +57,7 @@
     *   Am I assuming this is a back-end issue?
     *   Am I assuming this is a front-end issue?
     *   Am I assuming this is an issue with a specific module?
-*   When we get WSOD, we check the logs under `/var/log/httpd` or `/var/log/apache2`
+*   When we get WSOD, we check the logs under `/var/log/httpd` or `/var/log/apache2` or with Docker / Docker Compose logs.
 *   We use browser like Chrome dev console or Firebug tools to identify JS and server issues so that we don't miss issues between the browser and Drupal.
 *   When debugging, for every half hour we spend working on a bug, we spend 15 minutes making it faster to test/debug so that we can learn faster, and test hypothesis faster.
     *   Writing a drush script to call the buggy code
@@ -132,7 +132,7 @@ Don't do this:
 
 ```
 foreach ($types as $type) {
-  if ($type == "blog_post". {
+  if ($type == "blog_post") {
     continue;
   }
   print $type;
@@ -143,7 +143,7 @@ Instead do this:
 
 ```
 foreach ($types as $type) {
-  if ($type != "blog_post". {
+  if ($type != "blog_post") {
     print $type;
   }
 }

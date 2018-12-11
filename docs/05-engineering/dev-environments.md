@@ -6,7 +6,7 @@ The development process differs slightly from project to project, but what follo
 
 ## URLS
 
-Our URLs reflect the environment. For example, on FCC, the URLs are as follows:
+Our URLs reflect the environment. Typical URLs follow a pattern like this:
 
 *   project.civicactions.net ("live") (or project.gov, once it's launched)
 *   project-qa.civicactions.net (qa)
@@ -25,7 +25,7 @@ Some QA tests, acceptance tests, stakeholder review and training.
 
 ## Dev (aka Integration)
 
-Dev is usually kept on the master git branch, or a branch created specifically for integration.
+Dev is usually kept on the master git branch, or (occasionally) a branch created specifically for integration.
 
 Code deployed to dev should ideally contain deploy hooks (reverting Drupal features, for example).
 
