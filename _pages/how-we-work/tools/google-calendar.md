@@ -13,7 +13,7 @@ Because Google Calendar is a web application, there's no installation necessary.
 The following calendars are used for internal communication:
 
 * [18F Events](https://calendar.google.com/calendar/embed?src=gsa.gov_3rapmucstu32ma18da84el20ug%40group.calendar.google.com): Team-wide events, start dates, standups, and so on.
-* [18F Classes](https://calendar.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com): New hire and skill-bases training sessions.
+* [TTS Classes](https://calendar.google.com/calendar/embed?src=gsa.gov_gi2e1fc66fh4v5in8ogsm0v8oo%40group.calendar.google.com): New hire and skill-bases training sessions.
 * 18F Interviews: New hire interviews.
 * [18F Out of office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com): Out-of-office and vacation notices.
 * [TTS Guilds and Working Groups](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com): Meetings and other events pertaining to working groups and guilds.
