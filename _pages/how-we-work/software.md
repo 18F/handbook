@@ -48,7 +48,7 @@ Be sure to read the listed comments for the software as some items listed as App
 
 ### Chrome extensions
 
-Use only extensions on [this list of OCSIO Approved extensions](https://docs.google.com/spreadsheets/d/178_jEmJgfjbIF4GCKPn0iSPrln-4B3AWBSxq3ivnW4Y/pub?hl=en_US&pli=1&hl=en_US&hl=en_US&single=true&gid=3&output=html&pli=1). If you'd like to request a Chrome extension, you can complete [this form to request an extension for review](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSeviBt7bnriQz3iQRn1dUyg-8KUR7jRgG5eJbc7nHxa1D_ciw/viewform?pli=1).
+Use only extensions on [this list of OCSIO Approved extensions](https://gsa.service-now.com/sp/?id=list&table=u_chrome_extension&filter=&sys_id=&v=). If you'd like to request a Chrome extension,[please see the instructions located on insite](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request).
 
 ### Pending requests
 
