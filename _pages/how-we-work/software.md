@@ -148,7 +148,7 @@ Here’s what will happen behind the scenes:
 
 #### Software we already own
 
-Software, domains, and SSLs currently managed by OPP are being migrated into the [TTS software library](https://docs.google.com/spreadsheets/d/1KhPN9gmDJYjp0sqQA3_OFto45MzlqGkb1R2YDKedpC8/edit#gid=164775379) over the next month. New requests for software that is in the library may be made via email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) or Slack message in #acquisition. A license for software currently in the TTS Software Library will generally be provided to you within 1-2 business days.
+Software, domains, and SSLs currently managed by OPP are being migrated into the [TTS software library](https://docs.google.com/spreadsheets/d/1KhPN9gmDJYjp0sqQA3_OFto45MzlqGkb1R2YDKedpC8/edit#gid=164775379) over the next month. New requests for software that is in the library may be made via email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) or Slack message in #tts-oa-internalbuy. A license for software currently in the TTS Software Library will generally be provided to you within 1-2 business days.
 
 #### Software we need to acquire more of
 
