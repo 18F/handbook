@@ -46,10 +46,7 @@ _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
 This may take 1-2 business days.
 
-1. Once you’ve gotten the go-ahead, start the Citibank Online Travel Card application
- [here](https://home.cards.citidirect.com/CommercialCard/Cards.html?classic=2). [_Having Trouble?_](#having-trouble). Follow the instructions attached with the email.
-1. In page 4 of the instructions, you’ll be asked for a GSA phone number of record. It sounds counterintuitive, but **if you do not have a government-issued phone, you can use the last four digits of your social security number.** Otherwise, use your GSA phone number.
-1. In page 5 of the instructions, You’ll need to provide a code for your location. Use Central Office.
+1. Once you’ve gotten the go-ahead, you’ll receive two emails, one with a link to fill out a US Bank signup form and the second with an access code which will be required to see the form. [_Having Trouble?_](#having-trouble). Follow the instructions attached with the email.
 1. Reply to the email and c.c. tts-travel@gsa.gov to ensure that it gets processed!
 
 ### 5. Receive your card in the mail
@@ -63,10 +60,6 @@ This may take 1-2 business days.
 
 
 #### Having Trouble
-The instructions for the application can be found [here](https://drive.google.com/open?id=0B0Kck5dqF_EbUmVoNTFPZl9tNWc)
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
+*Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
 
-
-#### Check Card Balance
-If you need to check your card balance, you can do so [online](https://home.cards.citidirect.com/CommercialCard/Cards.html) or by the phone number on the back of your card. 
