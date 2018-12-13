@@ -14,4 +14,4 @@ The PM should have a method for tracking these deliverables (such as a spreadshe
 *   Deliverable owner/lead (if applicable)
 *   Cost associated with deliverable (if applicable)
 
-[Exmaple template for tracking deliverables](https://docs.google.com/spreadsheets/d/1pgLJIIPs9axqpIy_Ye3swqIeE3Nehx-vTq7pGKASIPQ/edit#gid=0)
+[Example template for tracking deliverables](https://docs.google.com/spreadsheets/d/1pgLJIIPs9axqpIy_Ye3swqIeE3Nehx-vTq7pGKASIPQ/edit#gid=0)
