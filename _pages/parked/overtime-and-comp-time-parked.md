@@ -25,16 +25,20 @@ A DC employee at a GS-15, Step 4 requests 8 hours of comp time.
 
 First, a supervisor would calculate the employee’s regular pay over a bi-weekly pay period:
 
-> $140,892 salary / 2,080 hours per year = $67.74 hourly pay x 80 hours in two weeks = $5,419.20 bi-weekly pay
+> $148,267 salary / 2,080 hours per year = $71.28 hourly pay x 80 hours in two weeks = $5,702.40 bi-weekly pay
 
 Next, factor in the hours requested and the increased comp time rate to determine the additional earnings for the pay period:
 
-> $67.74 hourly pay x 1.5 overtime pay bonus = $101.61 overtime pay rate x 8 hours = $812.88
-
-> Total compensation for the pay period = $5,419.20 + $812.88 = $6,232.08
+> $29.77 GS-10, Step 1 hourly pay x 1.5 overtime pay bonus = $44.66 overtime pay rate
+>
+> $71.28 hourly pay is greater, so we use that rate without a multiplier.
+>
+> $71.28 overtime pay rate x 8 hours = $570.24
+>
+> Total compensation for the pay period = $5,702.40 + $570.24 = $6,272.64
 
 Now compare that to the maximum earning limitation:
 
-> $160,300 GS-15, Step 10 salary / 2080 hours per year = $77.07 hourly pay x 80 hours in two week = $6,165.38
+> $164,200 GS-15, Step 10 salary / 2080 hours per year = $78.94 hourly pay x 80 hours in two week = $6,315.20
 
-In this example, the employee is not eligible for 8 hours of comp-time because that would exceed the maximum earning limitation amount by $66.70. The employee would be eligible for 7 hours or less of comp-time, however.
+In this example, the employee is eligible for 8 hours of comp-time because that would not exceed the maximum earning limitation amount.
