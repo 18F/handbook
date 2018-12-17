@@ -2,7 +2,7 @@
 
 ## Overview
 
-Respect for our users and clients is one of the primary values in our work. We show this by emphasizing helpfulness, timeliness and kindness in our working practices.
+Respect for our users and clients is one of the primary values in our work. As CivicActions support staff, we demonstrate this by emphasizing helpfulness, timeliness and kindness in our working practices.
 
 ## Helpfulness
 
