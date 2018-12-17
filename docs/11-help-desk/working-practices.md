@@ -2,7 +2,7 @@
 
 ## Overview
 
-CivicActions support staff hold kindness, empathy and respect for our users and clients as the primary values in our work. We show this by emphasizing helpfulness, timeliness and kindness in our working practices.
+Respect for our users and clients is one of the primary values in our work. We show this by emphasizing helpfulness, timeliness and kindness in our working practices.
 
 ## Helpfulness
 
