@@ -41,7 +41,7 @@ STANDARD OPERATING PROCEDURE: TC-18-CS1-001
 
   - **For procurements above $25,000:**
     - TTS management (one level above the CO) and TTS procurement analysts will perform the first review of acquisition packages prior to RFQ/solicitation release and prior to award. 
-    - The Office of Governmentwide Policy (OGP) may conduct additional reviews, per OGP’s request at any stage in the procurement process.
+    - At The Office of Governmentwide Policy (OGP)'s request, they may conduct additional reviews at any stage in the procurement process.
     - See above for examples of acquisition package documents to be reviewed.
 
 + **4.2 Forum:** The forum for each review will be at the discretion of the TTS OA Contracting Officer (CO) and may include, but will not necessarily be limited to, a formal briefing, an informal meeting, or a “paper” review. The TTS OA CO is responsible for scheduling the review and forwarding the necessary documents to all reviewers via email 5 business days prior to the scheduled review.
