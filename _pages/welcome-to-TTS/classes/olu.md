@@ -28,6 +28,8 @@ Required classes will be assigned in OLU and pushed to TTS employees via email. 
 
 *NOTE: For the *No Fear Act* training, we recommend using Firefox or Safari with IE8 User Agent. Otherwise, it won't register that you've taken the course. Upon completion of the test, you might not be able to click on the `Exit` button as is suggested. Try closing the window that the test was in and clicking next on the parent window &mdash; this should register your test as having been completed and generate the certification that is loaded to your profile.*
 
+*NOTE: GSA OLU training material is often not compatible with modern, open-source browsers. We recommend using [VmWare Horizon](/vmware-horizon) and Internet Explorer to ensure successful course completion and documentation.*
+
 ## Help with OLU
 For help with OLU once you've logged in, including getting confirmation of classes taken, click on the **Learning** dropdown at the top of the window and then select **Live Support 24/7**.
 
