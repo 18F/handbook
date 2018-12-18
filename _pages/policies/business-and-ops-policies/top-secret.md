@@ -27,8 +27,8 @@ For certain projects, clients need TTS employees to have this type of clearance 
    * HR will need to create a new PD
    * HR will send TTS Talent Form OF-8 that your supervisor will need to sign
    * Once new PD is approved and OF-8 is submitted, TTS Talent will create an RPA, which moves you to the new PD
-* Please note that you can not be placed on this new PD until your security clearance is processed by OPM. You may request a waiver justification, to be placed on this PD before the clearance goes through, only if your PD is classified as critical sensitive (versus special sensitive)
-    * Waiver justifications must be written by the supervisor and approved by the FAS Commissioner (Alan Thomas)
+      * Please note that you can not be placed on this new PD until your security clearance is processed by OPM. You may request a waiver justification to be placed on this PD before the clearance goes through ONLY if your PD is classified as critical sensitive (versus special sensitive)
+      * Waiver justifications must be written by the supervisor and approved by the FAS Commissioner (Alan Thomas)
 
 ### 3. HR will review all items and submit to Security
 
