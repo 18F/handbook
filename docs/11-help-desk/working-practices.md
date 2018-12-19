@@ -12,9 +12,9 @@ To be helpful, we use the following tactics:
 
 ### Listening
 
-Our users know more about their problem than we do. However, users' ability to explain their problem may vary widely from person to person and from circumstance to circumstance. If the initial question comes to us in writing, we read the question carefully. If it's being explained out loud, we listen carefully. Often the best first step is to **restate the problem** as we understand it. This can often surface misunderstandings early and prevent frustration or wasted effort; it may also result in important clues that we'd otherwise have missed.
+Our users know more about their problem than we do. However, users' ability to explain their problem may vary widely from person to person and from circumstance to circumstance. If the initial question comes to us in writing, we read the question carefully. If it's being explained out loud, we listen carefully. We may begin by **restating the problem** as we understand it. This can often surface misunderstandings early and prevent frustration or wasted effort; it may also result in important clues that we'd otherwise have missed.
 
-If we don't have enough information, we may **ask for clarification**. We exercise our best judgement here: often a bit of quick research will save time and effort. We never use clarification as a defensive measure or a way to put the burden of effort onto the user.
+If we don't have enough information, we may **ask for clarification**. We exercise our best judgement here: Often a bit of quick research will save time and effort. We never use clarification as a defensive measure or a way to put the burden of effort onto the user.
 
 ### Research
 
@@ -22,7 +22,7 @@ Once we have enough information to begin, we may decide that we need to **learn 
 
 ### Respond
 
-Once we have enough information to address an issue — even if the question is not completely resolved — we **deliver a helpful response**. The level of detail should be pitched toward the user's technical proficiency, but truthfulness should not: our explanations should always be candid, open and informative. Some users (for instance, one-time end-users who have a simple question about a specific feature), however, need very little detail, while others (for instance, long-term clients who are deeply engaged in our work) may want all the detail that we can provide. More importantly, our response should, whenever possible, help move towards a solution or improve the problem that resulted in the original request.
+Once we have enough information to address an issue — even if the question is not completely resolved — we **deliver a helpful response**. The level of detail should be pitched toward the user's technical proficiency, but truthfulness should not: Our explanations should always be candid, open and informative. Some users (for instance, one-time end-users who have a simple question about a specific feature), however, need very little detail, while others (for instance, long-term clients who are deeply engaged in our work) may want all the detail that we can provide. More importantly, our response should, whenever possible, help move towards a solution or improve the problem that resulted in the original request.
 
 Our responses are **respectful, clear and concise**.
 
