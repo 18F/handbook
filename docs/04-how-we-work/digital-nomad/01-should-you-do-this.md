@@ -1,6 +1,6 @@
-NOTE: CivicActions is 100% fully distributed, so we do not mind where you work from, so long as you get the work done. Being able to work from different locations helps humans deal with different life situations while still having a meaningful job. This helps humans with their work/life balance while also helping CivicActions with employee balance, retention, and recruiting. This is actively encouraged and not something to hide!
+__CivicActions is 100% fully distributed, so we do not mind where you work from, so long as you get the work done. Being able to work from different locations helps humans deal with different life situations while still having a meaningful job. This helps humans with their work/life balance while also helping CivicActions with employee balance, retention, and recruiting. This is actively encouraged and not something to hide!__
 
-Just because "On-the-Go" work is possible does not mean that it is a good fit for you. Before you start, we recommend you ask yourself these questions if you're thinking about working from a new, temporary location:
+Just because "On-the-Go" work is possible does not mean that it is automatically a good fit for you personally and professionally. Before you start, we recommend you ask yourself these questions if you're thinking about working from a new, temporary location:
 
 *   Are you comfortable working odd hours or rearranging work time based on your project and role's needs?
 *   Can you adapt quickly to new timezones and working hours?
