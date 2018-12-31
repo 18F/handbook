@@ -107,12 +107,6 @@ Digital.gov [hosts several mailing list communities](http://digital.gov/communit
 
 **To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe open-data` in the body.
 
-#### Security Today
-
-**About:** This list is for discussing modern developments and best practices in security and privacy, with a (not exclusive) focus on technology and the internet. Run by Eric Mill of TTS, with participants from federal, state, and local governments.
-
-**To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe security-today` in the body.
-
 ### Public groups
 
 #### Government APIs
