@@ -17,10 +17,6 @@ GSA processes new badges every Wednesday. When your badge is ready, you’ll rec
 
 Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
 
-## Business cards
-
-To make best use of our resources, we don't generally use business cards. If you need business cards for a specific meeting with partners, though, you can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect TTS or 18F branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
-
 ## Laptop
 
 TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA.
@@ -76,21 +72,11 @@ If you are based in an office, you can check out mice, keyboards, and trackpads 
 
 Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the TTS Business Operations Team will reach out to you.
 
-Use [C2](https://requests.18f.gov) for requesting office supplies, computer hardware, trainings, and other items under $3,500.
-
-To make a request:
-
-1. Open [requests.18f.gov](https://requests.18f.gov/).
-1. Click **Sign in with Cloud.gov** to log in.
-1. Once you’re logged in, click **New 18F request** to create and submit your request. If you don't see this link, it's possible that you haven't been set up as a member of 18F yet. Use [the account request form](https://docs.google.com/forms/d/e/1FAIpQLSfZfBRRO_mBz2wwBHJTufi6kWONQhc64otCAYBCKV8keDvXVA/viewform) to get an account set up, and post a request in #c2-purchase-questions if you have any questions about how to use C2.
-1. After submitting your request, it will be reviewed by the Director of Operations. The Director of Operations must approve all requests before they are purchased.
-1. After your request is approved, it will typically be purchased by a purchase card holder on the operations team. Do not purchase yourself unless you are instructed to do so by a member of the operations team.
-
 If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
 #### Chicago
 
-Reach out to Ethan Heppner or Ryan Thurlwell via email or Slack, they will assist you within one business day.
+Reach out to [Ethan Heppner](mailto:ethan.heppner@gsa.gov) via email, he will assist you within two business days.
 
 #### San Francisco
 
