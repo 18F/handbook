@@ -76,7 +76,7 @@ If you'd like to check out Apple peripherals (for example, a Magic Mouse or wire
 
 #### Chicago
 
-Reach out to Ethan Heppner via email or Slack, they will assist you within one business day.
+Reach out to [Ethan Heppner](mailto:ethan.heppner@gsa.gov) via email, he will assist you within two business days.
 
 #### San Francisco
 
