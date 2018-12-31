@@ -20,9 +20,9 @@ Within our own team, we take responsibility for learning to communicate effectiv
 
 This intentional awareness also extends to people who aren't comfortable or accustomed to the level of openness that we embrace at CivicActions. Our goal is to create safe spaces where we can all discuss the value of open communication and seek to grow our communication skills -- with full appreciation of every person and respect for where they are on their journey. Similarly, our communication processes work to break down barriers that might hinder participation and work to engage the whole team.
 
-Nobody is the perfect communicator and we don't expect everyone here to be experts, but we do expect everyone to put energy into improving these vital skills. The more diverse our team and clients become, the better we must become at listening actively and communicating openly.
+Nobody is a perfect communicator, and we recognize that there are many "ideals" for what this perfection might even look like. That said, we do expect everyone to work to strengthen their and CivicActions' dedication to transparency. The more diverse our team and clients become, the better we must become at listening actively and communicating openly.
 
-We invest extra effort into our communication strategies because we are a mostly-remote team (with a couple onsite teams) and rarely have the advantage of in-person communication. Here are some of the tools and practices we use to help us remain open with each other:
+We invest extra effort into our communication strategies because we are a mostly-remote team (with a couple of onsite teams) and rarely have opportunities for in-person communication. Here are some of the tools and practices we use to help us remain open with each other:
 
 *   **Slack channels and Email lists** - We communicate in a group setting, reducing the need for one-on-one communications that can lead to silos or keep people out of the loop.
 *   **Daily scrum calls on video** - Everyday, each team member meets to report on what they did yesterday, what they plan on doing today, and whether they have any blockers. This is an opportunity to offer support and hold each other accountable. It also builds team camaraderie by having a daily forum to look at each other and connect.
@@ -72,7 +72,7 @@ A: We get it. Any new job can be scary, and starting a new job remotely can be e
 
 ### Q: What is CivicActions doing to foster diversity?
 
-A: We are actively looking to recruit diverse team members, and we are having on-going discussions about what diversity means and how to foster it. These discussions happen at our annual in-person retreat, during All Hands Calls, during check-ins and via our Slack channel #diversity-inclusion. And we need help with this - we hope you'll join in on the conversation.
+A: We are actively looking to recruit diverse team members, and we are having on-going discussions about what diversity means and how to foster it. These discussions happen at our annual in-person retreat, during All Hands Calls, during check-ins and via our Slack channel #diversity-equity-inclusion. And we need help with this - we hope you'll join in on the conversation.
 
 ### Q: Open communications generally make me uncomfortable and I may feel intimidated asking a question in front of an audience. Can I just go to the person who I know has the answer in a more private way?
 
