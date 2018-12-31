@@ -18,7 +18,7 @@ To empower the organization with the means and information to fully utilize the 
 * Instructions for referring a person (an open role is not required):
   * [Talent Referral Program Information](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit)
   
-To see what positions we're hiring for, take a look at the [Talent Acquisition Trello](https://trello.com/b/9pBVgO1G/talent-acquisition-work-system) and [Join TTS](https://join.tts.gsa.gov/).  *To access the [Talent Acquisition Trello](https://trello.com/b/9pBVgO1G/talent-acquisition-work-system), you must become a member of the “TTS Hiring” team on Trello by clicking [here](https://trello.com/invite/b/9pBVgO1G/80e740ae5713521e1d305be1378a8785/talent-acquisition-work-system).*
+To see what positions we're hiring for, take a look at our [Join TTS](https://join.tts.gsa.gov/) website.  
   
 ## Applying to open positions
 
@@ -40,11 +40,9 @@ Candidates should apply to open positions [here](https://join.tts.gsa.gov/).
 * **Talent Integration:** We are responsible for the development, management, and implementation of the TTS onboarding, offboarding and knowledge management programs.
 * **Talent Operations:** We work with TTS employees to help them with people related matters such as details, reassignments, employment issues, and HR related matters.
 
-## What we're working on 
 
-* [Talent Acquisition Work System Trello Board](https://trello.com/b/9pBVgO1G/talent-acquisition-work-system)
-  * This is a Kanban work system implemented to provide talent with a way to manage demand & capacity, create visibility & transparency for our clients, establish predictability and identify opportunities for improvement. 
-  * [Talent Acquisition Work System Guide](https://docs.google.com/document/d/1O0EGxI5s9eSuMdTJEr1u9ZrSn9YIBBFcoDKYN1OfyqE/edit)
+
+
 
 ---
 
