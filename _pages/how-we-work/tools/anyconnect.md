@@ -32,15 +32,25 @@ Your install screen should look like this:
 Sometimes AnyConnect will hang while trying to authorize your credentials. If your starting screen looks like this:
 
  ![Bad AnyConnect Starting Connection Screen]({{ site.baseurl }}/images/anyconnect/bad.png)
- 
+
  instead of like this:
- 
+
  ![Good AnyConnect Starting Connection Screen]({{ site.baseurl }}/images/anyconnect/good.png)
- 
- you'll probably hang. 
- 
- If you do, **delete the `/opt/cisco/anyconnect/profile/gsa_cp-gfe.xml` file on your system.** you'll need to enter your admin credentials to delete it, but that's ok. In the future, you can prevent this error simply by never quitting AnyConnect (the bad XML file seems to be created upon quit). Disconnect AnyConnect when you don't need it, but leave the application running in the background.
- 
+
+ you'll probably hang.
+
+ If you do, uncheck the `Enable automatic VPN server selection` option in the preferences:
+
+ ![AnyConnect VPN Preferences]({{ site.baseurl }}/images/anyconnect/preferences.png)
+
+Then connect to `vpn.gsa.gov` and choose the `GSA 2 factor Authentication` group on the Certificate Validation Failure dialog.
+
+ ![AnyConnect VPN Group Selection]({{ site.baseurl }}/images/anyconnect/certfailure1.png)
+
+ ![AnyConnect VPN 2 Factor]({{ site.baseurl }}/images/anyconnect/certfailure2.png)
+
+ If that doesn't work, **delete the `/opt/cisco/anyconnect/profile/gsa_cp-gfe.xml` file on your system.** you'll need to enter your admin credentials to delete it, but that's ok. In the future, you can prevent this error simply by never quitting AnyConnect (the bad XML file seems to be created upon quit). Disconnect AnyConnect when you don't need it, but leave the application running in the background.
+
 If you're still having trouble, try these recommendations from [@moncef](https://gsa-tts.slack.com/team/moncef):
 
 1. Open the Terminal.
