@@ -31,7 +31,7 @@ The Design team at 18F includes content, user experience, front end, and visual 
 
 ## Communication
 
-Find us in Slack:
+Find us on Slack:
 
 * [#design](https://gsa-tts.slack.com/messages/design)
 * [#g-content](https://gsa-tts.slack.com/messages/g-content)
