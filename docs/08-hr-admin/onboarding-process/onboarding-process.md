@@ -4,7 +4,7 @@ There are generally three people involved in the process of onboarding a new emp
 
 ## Schedule
 
-One of the first tasks assigned to new employees is to review the [Onboarding Schedule](https://github.com/CivicActions/handbook/blob/master/docs/01-welcome-to-civicactions/welcome.md#onboarding-process) for their first week, which typically includes several training sessions, a daily Orientation Meeting with the Onboarding Manager and a daily check-in call with the Onboarding Buddy.
+One of the first tasks assigned to new employees is to review the [Onboarding Schedule](../../01-welcome-to-civicactions/welcome.md#onboarding-process) for their first week, which typically includes several training sessions, a daily Orientation Meeting with the Onboarding Manager and a daily check-in call with the Onboarding Buddy.
 
 ## Tasks
 
@@ -14,7 +14,7 @@ Tools and resources for managing the process:
 
 *   [Manager Checklist (Trello board)](https://trello.com/b/FOILJ0i6/template-onboarding-manager-checklist) (for onboarding managers)
 *   [Admin/HR Checklist (Trello board)](https://trello.com/b/RbC0clMU/template-onboarding-admin-hr-checklist-draft) (for Judy)
-*   [Buddy Handbook](https://github.com/CivicActions/handbook/blob/master/docs/01-welcome-to-civicactions/training/buddy-program.md) (guidelines for onboarding buddy)
+*   [Buddy Handbook](../../01-welcome-to-civicactions/training/buddy-program.md) (guidelines for onboarding buddy)
 
 Trello board templates for new hires:
 
