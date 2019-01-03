@@ -93,7 +93,7 @@ Here&rsquo;s our current process to address both operational and security concer
 
 1. If the user is a member of the federal government, confirm we have an active [inter-agency agreement (IAA)](https://pages.18f.gov/iaa-forms/primer.html) or other legal document authorizing the work.
 1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
-1. Ask the collaborator(s) to go through [the setup first three setup steps](#setup).
+1. Ask the collaborator(s) to go through [the first three setup steps](#setup).
     * They will need to confirm they've done this before you continue.
     * They will also need to add an e-mail address to the GitHub profile so we can contact them later when doing clean-up in our org.
     * Do not ask the admins to add the collaborator to the 18F or OPP teams as detailed in step 4.
