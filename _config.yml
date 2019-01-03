@@ -242,9 +242,6 @@ navigation:
   internal: true
   generated: true
   children:
-  - text: Acquisitions
-    url: acquisition/
-    internal: true
   - text: Agreements
     url: agreements/
     internal: true
@@ -390,6 +387,9 @@ navigation:
     children:
     - text: Account management policy
       url: client-accounts/
+      internal: true
+    - text: Acquisition
+      url: acquisition/
       internal: true
     - text: Billing policy
       url: https://docs.google.com/document/d/1Y5MP1jmCuc43pW35zXF-lvQrwDFA9YgQfviWtFcf4ao/edit
