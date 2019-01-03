@@ -55,7 +55,7 @@ title: San Francisco
 
 ## The building
 
-[50 UN Plaza](http://www.gsa.gov/portal/category/107031) is on historic Market Street between 6th and 7th streets, in the Civic Center neighborhood. The Bay Area Rapid Transit authority (BART) and MUNI both have underground stops at this location, and the historic F Market streetcar line has two local stops at 6th and 7th Streets.
+[50 UN Plaza](http://www.gsa.gov/portal/category/107031) is on Market Street between 6th and 7th streets, in the Civic Center neighborhood. The Bay Area Rapid Transit authority (BART) and MUNI both have underground stops at this location, and the historic F Market streetcar line has two local stops at 6th and 7th Streets.
 
 TTS SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
 
