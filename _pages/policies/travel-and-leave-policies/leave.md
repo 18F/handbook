@@ -136,12 +136,6 @@ To donate leave:
 
 If you have any questions, please contact Lakita Rivero at (202) 208-6171 or by email at lakita.rivero@gsa.gov.
 
-=======
-
-Follow the system prompts. 
-
-If you have any questions, please contact Lakita Rivero at (202) 208-6171 or by email at lakita.rivero@gsa.gov.
-
 Also, don’t hesitate to ask in #parental-leave in Slack.  
 
 If the system is down, you can submit donation requests directly to Lakita Rivero.  
