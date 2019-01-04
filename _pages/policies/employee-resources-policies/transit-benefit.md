@@ -9,10 +9,10 @@ tags:
 ---
 This page outlines how to sign up for and how to cancel the transit benefit.
 
-##Eligibility
+## Eligibility
 All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you need to enroll using the process below.
 
-##Enrolling in transit benefit
+## Enrolling in transit benefit
 
 Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to select the **Transit Coordinator in the Region in which you reside** - this information is listed in the online form.
 
@@ -33,17 +33,22 @@ Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to s
         * Fill out corresponding information for each transportation method selected
     * Fill out "Transit Benefit Program Application"
         * Organization Code: **T - Tech Transformation Service**
+        * Common identifier: **TRANSIT**
     * Fill out "Approver Information Section"
         * Select your Supervisor - If your supervisor is not listed, have your supervisor follow these steps:      
             - Fill out this [form](https://www.transportation.gov/sites/dot.gov/files/docs/GSA_Guide_to_Regristration_0.pdf)
             - Send an email to [gsa-transit-subsidy@gsa.gov](mailto:gsa-transit-subsidy@gsa.gov) requesting elevation to supervisor status
-        * Transit Coordinator: **CO-Transit Subsidy**
-        * Point of Contact: **Central Office Non FAS Transit Subsidy**
+        * Transit Coordinator: 
+            * DC employees: **CO-Transit Subsidy** 
+            * Other regions: consult the [transit subsidy coordinators list](https://insite.gsa.gov/topics/hr-pay-and-leave/benefits/transit-subsidy/transit-subsidy-coordinators)
+        * Point of Contact: 
+            * DC employees: **Central Office Non FAS Transit Subsidy**
+            * Other regions: enter region code (Ex: Chicago employees enter **Region 5**)
 - Scroll down and click **Continue** to submit
 
 *Note: The approval process is supervisor, GSA Transit Coordinator, and DOT review/processing.*
 
-##Cancelling transit benefit
+## Cancelling transit benefit
 - Go to [https://transitapp.ost.dot.gov](https://transitapp.ost.dot.gov)
 - Login to your account
 - Click on Transit Benefit Application
@@ -51,6 +56,6 @@ Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to s
 - Click **Continue**
 - Fill out and submit the form
 
-##Contact
+## Contact
 
 GSA's new Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).

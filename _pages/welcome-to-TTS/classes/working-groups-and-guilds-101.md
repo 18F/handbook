@@ -26,7 +26,7 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
         <td class="col-grouplet"><strong><a id="accessibility">Accessibility</a></strong></td>
         <td class="col-description">
           We help 18F develop good, accessible products from the start of production in order to provide an excellent user experience for everyone. <br />
-          <a href="https://pages.18f.gov/accessbility/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
+          <a href="https://accessibility.18f.gov/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
         </td>
       </tr>
       <tr>
@@ -40,7 +40,7 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
         <td class="col-grouplet"><strong><a id="analytics">Analytics</a></strong></td>
         <td class="col-description">
           Our mission is to integrate website analytics into all 18F projects. <br />
-          <a href="https://pages.18f.gov/analytics-standards/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-analytics/">#g-analytics</a>
+          <a href="https://github.com/18F/analytics-standards/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-analytics/">#g-analytics</a>
         </td>
       </tr>
       <tr>
@@ -82,7 +82,7 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
         <td class="col-grouplet"><strong><a id="core-values">Core Values</a></strong></td>
         <td class="col-description">
           We create a shared understanding of values that drive our work and continuously iterate on how our practices reflect those values. <br />
-          <a href="https://pages.18f.gov/core-values/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/wg-core-values">#wg-core-values</a>
+          <a href="https://gsa-tts.slack.com/messages/wg-core-values">#wg-core-values</a>
         </td>
       </tr>
       <tr>
@@ -117,7 +117,7 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
         <td class="col-grouplet"><strong><a id="documentation">Documentation</a></strong></td>
         <td class="col-description">
           We work to improve the comprehensiveness, quality, and tooling of documentation at 18F. <br />
-          <a href="https://pages.18f.gov/wg-documentation/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/wg-documentation">#wg-documentation</a>
+          <a href="https://gsa-tts.slack.com/messages/wg-documentation">#wg-documentation</a>
         </td>
       </tr>
       <tr>
@@ -187,7 +187,7 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
         <td class="col-grouplet"><strong><a id="working-groups">Working Groups</a></strong></td>
         <td class="col-description">
           We&rsquo;re dedicated to creating an environment in which working groups and guilds can thrive and have a meaningful impact on 18F deliverables and operations. <br />
-          <a href="https://pages.18f.gov/wg-working-groups/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/wg-working-groups">#wg-working-groups</a>
+          <a href="https://gsa-tts.slack.com/messages/wg-working-groups">#wg-working-groups</a>
         </td>
       </tr>
       <tr>

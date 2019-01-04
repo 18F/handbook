@@ -8,7 +8,7 @@ title: Chicago
       <tr>
         <td class="col-key"><strong>Location</strong></td>
         <td class="col-value">
-        230 S. Dearborn St., Suite #3500<br />
+        230 S. Dearborn St., 33rd floor SW<br />
         Chicago, IL 60604
         </td>
       </tr>
@@ -31,7 +31,7 @@ title: Chicago
           <strong>Office&nbsp;/&nbsp;Seats</strong>
         </td>
         <td class="col-value">
-           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Acting Regional Administrator is John Cooke.<br /><br />
+           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Regional Administrator is Brad Hansher.<br /><br />
        TTS's office is in the south side of the 33rd floor (note that our mailing address is Suite #3500 but our office is on 33).
         </td>
       </tr>
@@ -59,7 +59,7 @@ Chicago is a very walkable city; plenty of hotels, coffee shops, restaurants, an
 
 ### <a id="biking"></a>Biking
 
-Short-term bikes can be rented via [Divvy](https://www.divvybikes.com/). $9.95 buys a 24-hour pass with unlimited 30-minute rides.
+Short-term bikes can be rented via [Divvy](https://www.divvybikes.com/). $15 buys a 24-hour pass with unlimited 3-hour rides. Remember to bring your own helmet when using Divvy!
 
 ### <a id="public-transit"></a>Public transit
 
@@ -85,7 +85,7 @@ Fingerprints and badge can be done at the security office on the second floor (R
 
 ### <a id="enter-the-building-with-badge"></a>Enter the building with a GSA badge
 
-Your GSA ID grants you access to the building at any time between 7 a.m. and 6 a.m.. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building. 
+Your GSA ID grants you access to the building at any time between 7 a.m. and 6 p.m. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building. 
 
 ### <a id="onboarding"></a>Attend onboarding?
 
@@ -140,28 +140,9 @@ See the [Transit Benefit](/transit-benefit) page for information on enrollment a
 
 ### <a id="bike-parking"></a>Bike parking
 
-Bike parking is available at the Metcalfe building, which is the federal building on the other side of Jackson Street from JCK. Entry to the bike garage is on Van Buren Street just east of Clark.  There are two steps to this process:
-
-_Key Card Access_
-
-To update your key card to get access to the parking garage you need to fill out [this form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbRGxCcmVoeTBXLXF0YU4wWjBpOHhCN21aRDZv/view?usp=sharing) to have access.  
-A few things to note:
-
-- Your supervisor should sign both the Supervisor and Authorized Agency Approver sections.
-- You will need your PIV card PIN to get access.
- - If you forgot your PIN, go to Room 212 to reset your PIN
-
-
-_Bike Sticker_
-
-You will also need to get a bike sticker to place on your bike.  
-
-Go to the Metcalfe Field Office (77 W. Jackson Suite 441) to fill it out an application.
-
-(You can bring your completed Key Card Access application with you at the same time.)
+Bike parking is available in JCK. See the JCK Field Office in Suite #200 for the form to request bike parking access.
 
 Note you will need your the following info to secure a bike sticker:
-
 
 - bike's make
 - bike's model

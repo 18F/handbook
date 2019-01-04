@@ -129,7 +129,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### Tools
 
-[#django](https://gsa-tts.slack.com/messages/django), [#docker](https://gsa-tts.slack.com/messages/docker), [#elasticsearch](https://gsa-tts.slack.com/messages/elasticsearch), [#git](https://gsa-tts.slack.com/messages/git), [#go](https://gsa-tts.slack.com/messages/go), [#hardware](https://gsa-tts.slack.com/messages/hardware), [#javascript](https://gsa-tts.slack.com/messages/javascript), [#mac](https://gsa-tts.slack.com/messages/mac), [#meteorjs](https://gsa-tts.slack.com/messages/meteorjs), [#nodejs](https://gsa-tts.slack.com/messages/nodejs), [#python](https://gsa-tts.slack.com/messages/python) (and [#learnpython](https://gsa-tts.slack.com/messages/learnpython)), [#ruby](https://gsa-tts.slack.com/messages/ruby).
+[#django](https://gsa-tts.slack.com/messages/django), [#containers](https://gsa-tts.slack.com/messages/containers), [#elk](https://gsa-tts.slack.com/messages/elk), [#git](https://gsa-tts.slack.com/messages/git), [#go](https://gsa-tts.slack.com/messages/go), [#javascript](https://gsa-tts.slack.com/messages/javascript), [#mac](https://gsa-tts.slack.com/messages/mac), [#meteorjs](https://gsa-tts.slack.com/messages/meteorjs), [#python](https://gsa-tts.slack.com/messages/python) (and [#learnpython](https://gsa-tts.slack.com/messages/learnpython)), [#ruby](https://gsa-tts.slack.com/messages/ruby).
 
 ### Guilds and working groups
 

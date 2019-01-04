@@ -62,7 +62,7 @@ A good rule is to check with your project lead before sharing information outsid
 
 Be especially mindful as you post meeting notes or sidebar conversations during interviews in Slack channels. No PII should go into Slack channels unless your participant has explicitly consented to have PII shared with the general public. And even then, be aware of the potential level of visibility any information will have once you post it in Slack.
 
-Carefully restricting access to personally identifiable information is a matter not just of people's right to respect but of their right to [privacy](https://methods.18f.gov/privacy/). For more information, please see the [Design research privacy impact assessment (PIA)](https://www.gsa.gov/cdnstatic/design_research_pia_%28signed%29.pdf).
+Carefully restricting access to personally identifiable information is a matter not just of people's right to respect but of their right to [privacy](https://methods.18f.gov/privacy/). For more information, please see the [Design research privacy impact assessment (PIA)](https://www.gsa.gov/cdnstatic/design_research_pia_%28signed%29.pdf), or [this 30-minute overview of privacy as it relates to research](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4) narrated by the GSA Privacy Office.
 
 
 **Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII, you can ask on Slack in [#research](https://gsa-tts.slack.com/archives/research) to get other researchers' perspectives, and in [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) to track down relevant policy guidance. If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://gsa-tts.slack.com/archives/infrastructure). 
@@ -70,4 +70,4 @@ Carefully restricting access to personally identifiable information is a matter 
 
 ## Join the research guild!
 
-The Guild talks in [#research](https://gsa-tts.slack.com/archives/research) and meets once a week to discuss the theory and practice of asking questions. The current guild leaders are [Joanne McGovern](https://gsa-tts.slack.com/team/joannemcgovern) and [Ben Peterson](https://gsa-tts.slack.com/team/bpdesigns).
+The Guild talks in [#research](https://gsa-tts.slack.com/archives/research) and meets once a week to discuss the theory and practice of asking questions. The current guild leaders are [Andrew Maier](https://gsa-tts.slack.com/team/andrewmaier) and [Ben Peterson](https://gsa-tts.slack.com/team/bpdesigns).

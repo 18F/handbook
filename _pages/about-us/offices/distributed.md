@@ -8,7 +8,7 @@ title: Distributed
         <td class="col-key"><strong>Point&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/@leahgitter">Leah Gitter</a><br />
-          <a href="mailto:accesscard@gsa.gov">GSA Access Card Support</a>
+          <a href="mailto:hspd12.security@gsa.gov">GSA Access Card Support</a>
         </td>
       </tr>
       <tr>
@@ -46,7 +46,7 @@ TTS employees receive a MacBook and an iPhone from GSA, though you may not recei
 
 On your first day at work you should configure things so that your two-factor authentication (2FA) codes &mdash; which you&rsquo;ll occasionally need to connect to GSA&rsquo;s virtual private network (VPN) &mdash; are delivered to your cell phone. If you don&rsquo;t receive your work cell phone on day one, you&rsquo;ll need to use your personal phone. **If you do not configure 2FA you will not be able to access your email from outside of federal buildings.**
 
-To receive GSA 2FA codes on your cell phone, you can [email GSA&rsquo;s access card team](mailto:accesscard@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
+To receive GSA 2FA codes on your cell phone, you can [email GSA&rsquo;s access card team](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
 
 ### <a id="otp">Get a one-time password?</a>
 
@@ -95,7 +95,6 @@ From Peter Karman and Becky Sweger:
 ## Keeping in touch
 
 - **Log into the weekly all-hands meeting a few minutes early.** It&rsquo;s a good chance to see faces and chat before the meeting starts.
-- **Co-work Across America!** Gray Brooks and others are working on organizing groups that travel to TTS offices and share the cost of accommodations and travel. Let him know if you want to help, or hop into [#cowork-across-america](https://gsa-tts.slack.com/messages/cowork-across-america/) on Slack.
 - **Over communicate.** Working remote means you can&rsquo;t rely on your physical presence to communicate to everyone else whether or not you&rsquo;re &ldquo;at work.&rdquo; For 18F team members, use the [18F Out of Office (OOO) calendar](https://www.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/New_York) if you&rsquo;re assigned to an office and working remotely or if you&rsquo;re working in a different place than usual. On phone calls, don&rsquo;t be afraid to jump in and tell people if you can&rsquo;t hear.
 - **Go to the biweekly coffee meetings with 18F leadership.**  These meetings are a great way to stay connected to org-wide chatter. Make time for these as often as you can.
 - **Deliberately foster chats that aren&rsquo;t related to work.** People who work out of GSA offices will do this from time to time, and you should, too. Ask people out to virtual tea!

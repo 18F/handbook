@@ -17,7 +17,6 @@ Information you might need for filling out GSA forms:
 
 - [TTS Emergency Contact Info](https://docs.google.com/spreadsheets/d/1-Hhv5S0M03W4JY1k-CM5vxrZildHUdMaxAoqLTWF2Ts/edit#gid=54359566) and [TTS telephone directory](https://docs.google.com/spreadsheets/d/1d3Eom-marGFCQHEn5JcZfONO8lSBdhxde16hpqCNchs/edit) (our phone numbers, email addresses, team listserves, and more)
 - [Presidential Innovation Fellows (PIFs) contact info](https://docs.google.com/spreadsheets/d/1ejzCQLvRVaMjw1V-WOH_iabRd9dAT_mccaxrbJCNOQQ/edit#gid=1628534837)
-- [18F website team members list](https://18f.gsa.gov/team/) (this isn't always complete)
 - [18F #alumni channel](https://gsa-tts.slack.com/messages/alumni/)
 - [18F info for press](https://18f.gsa.gov/press/)
 
@@ -48,7 +47,7 @@ Information you might need for filling out GSA forms:
 ### Chapters and PIF
 
 - Development team: [18fdev@gsa.gov](mailto:18fdev@gsa.gov)
-- Experience Design team: [18f-design@gsa.gov](mailto:18f-design@gsa.gov)
+- Experience Design team: [18f-xd@gsa.gov](mailto:18f-xd@gsa.gov)
 - Presidential Innovation Fellows: [pif-team@pif.gov](mailto:pif-team@pif.gov)
 - Product team: [18f-product@gsa.gov](mailto:18f-product@gsa.gov)
 
@@ -87,44 +86,6 @@ Digital.gov [hosts several mailing list communities](http://digital.gov/communit
 
 {% include dg-communities.html %}
 
-<<<<<<< HEAD
-#### Customer experience community of practice
-
-**About:** The government Customer Experience Community of Practice (CX-COP) is an interagency group of customer experience practitioners, with over 500 members across 140 federal, state and local U.S. government offices and agencies.
-
-**To join:** [Instructions are here](http://www.digitalgov.gov/communities/customer-experience-community/).
-
-#### Mobile gov community of practice
-
-**About:** Mobile Gov Community of Practice members work across federal government to create anytime, anywhere government resources and solutions for today and tomorrow.
-
-**To join:** [Instructions are here](http://www.digitalgov.gov/communities/mobile/).
-
-#### Multilingual community of practice
-
-**About:** We are a group of federal, state, and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.
-
-**To join:** [Instructions are here](https://www.digitalgov.gov/communities/government-multilingual-websites-community/).
-
-#### Social media community of practice
-
-**About:** The Federal SocialGov Community unites digital managers and specialists at more than 160 agencies and offices in a collaborative program aimed at improving the creation, adoption and evaluation of digital engagement programs.
-
-**To Join:** Email [SM-COP-subscribe-request@listserv.gsa.gov](mailto:SM-COP-subscribe-request@listserv.gsa.gov) with the subject line "SocialGov listserv".  
-
-#### User experience community of practice
-
-**About:** Connect with user experience practitioners from across the federal government and learn about UX events across the federal government.
-
-**To join:** [Instructions are here](https://digital.gov/communities/user-experience/).
-
-#### Web content managers forum
-
-**About:** The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals.
-
-**To join:** [Instructions are here](https://www.digitalgov.gov/communities/web-managers-forum/web-content-managers-listserv/).
-=======
->>>>>>> master
 
 ### Other groups within the U.S. government
 
@@ -145,12 +106,6 @@ Digital.gov [hosts several mailing list communities](http://digital.gov/communit
 **About:** Run by [Project Open Data](https://project-open-data.cio.gov). For people who want to discuss open data policy.
 
 **To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe open-data` in the body.
-
-#### Security Today
-
-**About:** This list is for discussing modern developments and best practices in security and privacy, with a (not exclusive) focus on technology and the internet. Run by Eric Mill of TTS, with participants from federal, state, and local governments.
-
-**To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe security-today` in the body.
 
 ### Public groups
 

@@ -24,7 +24,7 @@ title: Washington, D.C.
           <strong>Slack&nbsp;channels</strong>
         </td>
         <td class="col-value">
-          <a href="https://gsa-tts.slack.com/messages/dc/">#dc</a>, <a href="https://gsa-tts.slack.com/messages/dc-lunchbell/">#dc-lunchbell</a>, <a href="https://gsa-tts.slack.com/messages/dc-lunch-club/">#dc-lunch-club</a>, <a href="https://gsa-tts.slack.com/messages/dc-snack-inventory/">#dc-snack-inventory</a>
+          <a href="https://gsa-tts.slack.com/messages/dc/">#dc</a>, <a href="https://gsa-tts.slack.com/messages/dc-lunchbell/">#dc-lunchbell</a>, <a href="https://gsa-tts.slack.com/messages/dc-snack-inventory/">#dc-snack-inventory</a>
         </td>
       </tr>
       <tr>

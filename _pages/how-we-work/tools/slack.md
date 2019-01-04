@@ -1,8 +1,10 @@
 ---
 title: Slack
+tags:
+- TTS legend
 ---
 
-Slack is a chat client that provides us with a centralized way to communicate without overloading our inboxes.
+Slack is a chat client that might or might not have been invented by TTS alum Will Slack that provides us with a centralized way to communicate without overloading our inboxes.
 
 ## Setup
 
@@ -22,7 +24,7 @@ Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff.
 
 - Vendors _under contract_ (not just a Terms of Service) with TTS
 - Vendors with GSA who are working on a project with TTS, for which we have an Memorandum of Understanding (MOU)
-- Partners at federal agencies whose projects are under an Interagency Agreement with TTS
+- Partners at federal agencies whose projects are under an Interagency Agreement with TTS, or at state or local agencies whose projects are under an Intergovernmental Collaboration Act agreement with TTS.
 - Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
 - Members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov)
 
@@ -53,7 +55,7 @@ Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a projec
 
 [TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. Howver, when we say "public channels" on this page, we mean channels open to all members of the public.)
 
-#### What 
+#### What
 
 Treat these channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document. Members of the public must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct). For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there witout a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
@@ -85,7 +87,7 @@ An admin will then do one of the following:
     * [Disable their 2FA](https://get.slack.help/hc/en-us/articles/212221668-Require-two-factor-authentication-for-your-team).
         * ...unless you know they were using their personal device for 2FA — we don't want them to be locked out.
     * [Change their email](https://get.slack.help/hc/en-us/articles/225531168-Change-a-team-member-s-email-address) to their personal address
-    
+
 *NOTE: When a TTS Slack user is converted to a Single-channel user, they maintain access to their direct message chat history but are unable to search for or create new direct messages with folks that they've never messaged before.  Unless another channel is specified, the only channel that will still be accessible is #alumni.
 
 * **[Deactivate their account.](https://get.slack.help/hc/en-us/articles/204475027-Deactivate-a-team-member-s-account)**
@@ -218,7 +220,7 @@ Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archiv
 - **Acquisitions employees** review your post with Stephen Reilly, and he can post it when it's ready.
 - **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
 - **PIF employees** review your post with Joshua Di Frances, and he can post it when it's ready.
-  
+
 Please keep #news posts limited to information that the entire team needs to know. This includes things like:  
   
 - Required trainings  
@@ -227,7 +229,7 @@ Please keep #news posts limited to information that the entire team needs to kno
 - All-team events  
 - Senior management team meeting notes  
 - Changes or actions that impact the entire team  
-  
+
 ### When to use @channel and @here
 In general, the larger a channel is, the more careful you should be about using broadcast notifications.
 
@@ -270,6 +272,7 @@ Some channels may have particular guidance for getting help, which you can usual
 - [Dolores Landingham](https://gsa-tts.slack.com/team/mrs_landingham): our onboarding bot. Ask for access in [#wg-onboarding](https://gsa-tts.slack.com/archives/wg-onboarding).
 - [:evergreen_tree: bot](https://github.com/18F/hubot-slack-github-issues#hubot-slack-github-issues): This bot allows you to “tag” Slack messages as information that should be in the 18F Handbook. If you add an 🌲 (`evergreen_tree`) reaction to a Slack message, a bot will open [a GitHub issue in the 18F Handbook repository](https://github.com/18F/handbook/issues) with a link to that message. The issue serves as a reminder to integrate the linked information into the handbook.
 - [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-tts.slack.com/customize/emoji)). **Do not include private or sensitive information in Slackbot automatic responses.**
+- [Standup Bot](https://gsa-tts.slack.com/team/standup-bot): Can be invited into your channel with `/invite @standup-bot` and asked to do text standups. You can learn how to configure it by sending the bot a direct message with the word `help`. Note: this bot only works in public channels.
 
 If you're interested in learning more about the bots, or perhaps contributing to them, pop into [#bots](https://gsa-tts.slack.com/archives/bots/).
 
@@ -302,7 +305,6 @@ If you're interested in learning more about the bots, or perhaps contributing to
 * Working groups: #wg-*
 * Locations
     * [chitown](https://gsa-tts.slack.com/messages/chitown/)
-    * [cowork-across-america](https://gsa-tts.slack.com/messages/cowork-across-america/)
     * [dc](https://gsa-tts.slack.com/messages/dc/)
     * [michigan](https://gsa-tts.slack.com/messages/michigan/)
     * [nyc](https://gsa-tts.slack.com/messages/nyc/)

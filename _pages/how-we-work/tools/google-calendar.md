@@ -13,7 +13,7 @@ Because Google Calendar is a web application, there's no installation necessary.
 The following calendars are used for internal communication:
 
 * [18F Events](https://calendar.google.com/calendar/embed?src=gsa.gov_3rapmucstu32ma18da84el20ug%40group.calendar.google.com): Team-wide events, start dates, standups, and so on.
-* [18F Classes](https://calendar.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com): New hire and skill-bases training sessions.
+* [TTS Classes](https://calendar.google.com/calendar/embed?src=gsa.gov_gi2e1fc66fh4v5in8ogsm0v8oo%40group.calendar.google.com): New hire and skill-bases training sessions.
 * 18F Interviews: New hire interviews.
 * [18F Out of office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com): Out-of-office and vacation notices.
 * [TTS Guilds and Working Groups](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com): Meetings and other events pertaining to working groups and guilds.
@@ -42,31 +42,21 @@ Specifying your working hours will mark you as busy during non-working hours. Yo
 3. Specify the days and times you prefer to work.
 4. Click **Save**.
 
-### Hide morning and evening hours
-
-To change the default calendar view so you only see your working hours:
-
-1. In the Settings menu, click **Settings**.
-2. Under **Labs > Hide morning and night**, click **Enable**.
-3. Click **Save**.
-
 ### Change the default event duration
 
 Google Calendar's default event duration is 30 minutes. If you want to change it:
 
 1. In the Settings menu, click **Settings**.
-2. Under **General > Default event duration**, choose 15, 30, 60, 90, or 120 minutes.
+2. Under **General > Event Settings**, choose 15, 30, 60, 90, or 120 minutes.
 3. For even shorter meetings, select **Speedy meetings**. 30 minute meetings become 25 minutes; 60 become 50, 90 become 80, and 120 become 110.
 4. Click **Save**.
 
-### Show an additional time zone
-
-This is helpful if you have to schedule meetings with people on the other side of the country. Google Calendar is limited to one additional time zone, though.
+### Change the default event permissions
+Google Calendar's default event permissions prohibit guests from modifying the events to which they're invited. Update this if you'd rather send more flexible invitations.
 
 1. In the Settings menu, click **Settings**.
-2. Under **General > Your current time zone**, click **Show an additional time zone**.
-3. Choose your desired time zone.
-4. Click **Save**.
+2. Under **General > Event Settings**, choose **Default guest permissions**.
+3. Choose your desired default guest permissions
 
 ### See what time it is around the world
 
@@ -79,7 +69,3 @@ This feature doesn't integrate as well with calendar, but it does show the curre
 ### Sync Google Calendar with your iPhone
 
 You can sync your schedule to an iOS device with Google Calendar. Use your Gmail account to sign in.
-
-### Sync Google Calendar with your Mac
-
-You can sync your schedule to Apple’s Calendar program on a macOS computer. Use your Gmail account to sign in.

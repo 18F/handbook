@@ -17,8 +17,6 @@ Products and Platforms is one of the two business units within 18F. We strive to
 
 * [US Web Design Standards](https://standards.usa.gov/), open-source UI components and visual styles used to create beautiful, consistent experiences across federal government websites.
 
-* [Fugacious](https://fugacious.18f.gov/), helps to securely transmit information 
-
 ## Team Structure
 
 * Acting Director: Will Slack

@@ -33,7 +33,7 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 **Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
-**Browser extensions need to be pre-approved.** See [the Chrome page on InSite](https://insite.gsa.gov/portal/content/638102) for more information.
+**Browser extensions need to be pre-approved.** See [the Chrome page on InSite](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-chrome-browser#Chrome%20Extensions) for more information.
 
 ### Tips
 
@@ -68,27 +68,15 @@ See the [software](../software/) page.
 
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. The procedure for requesting, however, varies by office.
 
-You can request [GSA business cards](https://requests.18f.gov/gsa18f/procurements/new), which are free and don't reflect TTF or 18F branding. Upon receiving a request, a member of Team Ops will log into Envision Business Cards, then reach out to you to retrieve the information you want on the card.
-
 #### DC or remote
 
 Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the TTS Business Operations Team will reach out to you.
-
-Use [C2](https://requests.18f.gov) for requesting office supplies, computer hardware, trainings, and other items under $3,500.
-
-To make a request:
-
-1. Open [requests.18f.gov](https://requests.18f.gov/).
-1. Click **Sign in with Cloud.gov** to log in.
-1. Once you’re logged in, click **New 18F request** to create and submit your request. If you don't see this link, it's possible that you haven't been set up as a member of 18F yet. Post a request in #c24ops for access or if you have any questions about how to use C2.
-1. After submitting your request, it will be reviewed by the Director of Operations. The Director of Operations must approve all requests before they are purchased.
-1. After your request is approved, it will typically be purchased by a purchase card holder on the operations team. Do not purchase yourself unless you are instructed to do so by a member of the operations team.
 
 If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
 #### Chicago
 
-Reach out to Ethan Heppner or Ryan Thurlwell via email or Slack, they will assist you within one business day.
+Reach out to [Ethan Heppner](mailto:ethan.heppner@gsa.gov) via email, he will assist you within two business days.
 
 #### San Francisco
 

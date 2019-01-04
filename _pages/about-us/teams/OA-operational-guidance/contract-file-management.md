@@ -5,8 +5,8 @@ STANDARD OPERATING PROCEDURE: TC-17-CS4-001
 
 |---|---|
 |**TO:**|GSA TTS, Office of Acquisition|
-|**FROM:**|Alla Goldman Seiffert<br>Acting Director, (Assistant Commissioner) GSA TTS OA|
-|**DATE:**|Iterated on June 12, 2018|
+|**FROM:**|Esther Praske<br>Acting Director, GSA TTS OA|
+|**DATE:**|Iterated on November 21, 2018|
 |**SUBJECT:**|Standard Operating Procedure (SOP) for GSA TTS OA Contract File Management|
 
 <br>
@@ -19,6 +19,8 @@ STANDARD OPERATING PROCEDURE: TC-17-CS4-001
 + **Iteration 1.2 Purpose:** Update SOP TC-17-CS4-001 to include instructions on how to share folders in     Google Drive, remove irrelevant authority on modification checklist, and clarify the tab for management     reviews (Tab # 25).
 
 + **Iteration 1.3 Purpose:** Update SOP TC-17-CS4-001 to remove redundant documents listed under Tab #25 (Approvals) and Tab #1 (Procurement Request) and to add more applicable documents (FITARA reviews, GSA IT approvals, etc) under Tab # 4.
+
++ **Iteration 1.4 Purpose:** Update SOP TC-17-CS4-001 to revise Micro-Purchase Threshold on contract file checklist, add notification of FBO postings to management under Tab #8, move Conflict of Interest / Non-disclosure Agreements from Tab #15 to Tab #25, add FAR/GSAM reference to EEO documents on checklist, remove redundant documents listed under Tab #26, add examples to Tab #31, add system closeout checklist to Tab #33, add GSAM reference sustainability reporting, move Commercial Supplier Agreements from Tab #029 to Tab #023, and add “if applicable” for memo to files on modifications in response to TTS OA’s Quality Review (QR).
 
 **2.0 Applicability:** This SOP applies only to TTS OA procurement actions over the micro-purchase threshold (see [Federal Acquisition Regulation [FAR] Subpart 2.101](https://www.acquisition.gov/far/html/Subpart%202_1.html)) that will be executed by warranted TTS OA Contracting Officers (COs).  **This SOP does not apply to any working files.**
 
@@ -34,7 +36,7 @@ STANDARD OPERATING PROCEDURE: TC-17-CS4-001
 
 + **3.4 Sharing:** It is the TTS OA CO’s responsibility to determine the appropriate access rights using Google’s sharing function. In addition, it is the CO’s responsibility to identify the requestor’s need to know and to ensure the necessary non-disclosure agreement (NDA) is on file. The CO shall ensure the invite settings are “View only.” In order to add a file/folder to multiple folders in  Google drive, highlight folder, press Shift + Z and you’ll see an “Add to Folder” pop-up. Select the location where you wish to add the folder and click OK. The selected folder will now be located in multiple folders.
 
-+ **3.5 Contract File Content:** All files will follow the folder and naming convention outlined in the Contract File Checklist. See Attachment: [Official TTS Contract File Checklist](https://docs.google.com/document/d/1CKL_aiT_-xPhcOK43lwHrTVBTiRjYxrLWd6LNYUqbIQ/edit) for required contract file contents. For contract modifications, please see [Attachment 2: Modification Checklist](https://docs.google.com/document/d/1l9-OTmtQTQY1XJPDV3fcyRfkubgX5T11HS-YRVzoLO4/edit). Complete the checklist and include it in the contract folder. **Omit any folder that does not pertain to the procurement**.
++ **3.5 Contract File Content:** All files will follow the folder and naming convention outlined in the Contract File Checklist. See Attachment: [Official TTS Contract File Checklist](https://docs.google.com/document/d/1Z6TXPX2FlQLfhkjH6JSgE5JGHDq3NbdJGDovPxU6u4U/edit) for required contract file contents. For contract modifications, please see [Attachment 2: Modification Checklist](https://docs.google.com/document/d/1vgGuZhFYkTnb8ch7_ZykliUKvKMIKr5K_9etR6CThJ0/edit). Complete the checklist and include it in the contract folder. **Omit any folder that does not pertain to the procurement**.
 
 + **3.6 Archive:** Upon completion of contract performance, the folder name should be changed to reflect the contract status (i.e “Expired”, “Terminated” or “Closed”) as part of the folder name. Ensure the Contracting Officer Representative (COR) file has been shared for retention in the official contract file upon completion or termination of the contract.
 

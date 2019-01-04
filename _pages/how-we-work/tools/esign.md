@@ -49,6 +49,13 @@ tag:
 - An email from [e-SignLive](mailto:signers@gov.esignlive.com) will be sent to the requestor and signer(s) confirming the "Completed Package & Evidence Summary"
 
 
+## Errors and troubleshooting
+
+You may experience errors while trying to use eSign. A common error message is *Your License Has Expired* even when licenses are not the issue. If you get a confusing error, check the following:
+
+- Make sure your PDFs are not editable PDFs; if they are, use Preview to re-export them as PDFs and try uploading again.
+- Make sure your VPN is still connected.
+
 ---
 
 #### Still have questions?

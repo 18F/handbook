@@ -48,7 +48,7 @@ Be sure to read the listed comments for the software as some items listed as App
 
 ### Chrome extensions
 
-See [this list](https://docs.google.com/spreadsheets/d/178_jEmJgfjbIF4GCKPn0iSPrln-4B3AWBSxq3ivnW4Y/pub?hl=en_US&pli=1&hl=en_US&hl=en_US&single=true&gid=3&output=html&pli=1).
+Use only extensions on [this list of OCSIO Approved extensions](https://gsa.service-now.com/sp/?id=list&table=u_chrome_extension&filter=&sys_id=&v=). If you'd like to request a Chrome extension, please see the instructions located on [insite](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request).
 
 ### Pending requests
 
@@ -148,13 +148,13 @@ Here’s what will happen behind the scenes:
 
 #### Software we already own
 
-Software, domains, and SSLs currently managed by OPP are being migrated into the [TTS software library](https://docs.google.com/spreadsheets/d/1KhPN9gmDJYjp0sqQA3_OFto45MzlqGkb1R2YDKedpC8/edit#gid=164775379) over the next month. New requests for software that is in the library may be made via email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) or Slack message in #acquisition, tagging Bridget Fields. If she is unavailable, tag @acq-internal-buys. A license for software currently in the TTS Software Library will generally be provided to you within 1-2 business days.
+Software, domains, and SSLs currently managed by OPP are being migrated into the [TTS software library](https://docs.google.com/spreadsheets/d/1KhPN9gmDJYjp0sqQA3_OFto45MzlqGkb1R2YDKedpC8/edit#gid=164775379) over the next month. New requests for software that is in the library may be made via email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) or Slack message in #tts-oa-internalbuy. A license for software currently in the TTS Software Library will generally be provided to you within 1-2 business days.
 
 #### Software we need to acquire more of
 
 If your request is under $10,000, the Acquisition team may direct you to submit [a simple purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new).
 
-Once you have filled out and submitted the requested information, please attach an email from your director or portfolio lead approving the request. Upon completion of your submission, please add Bridget Fields as an observer to the C2 request who will follow up with you directly about the purchase. At the same time, Amy Lawson will review the request for funds availability, and then your request will be routed to the TTS purchase team for review and purchase.
+Once you have filled out and submitted the requested information, please attach an email from your director or portfolio lead approving the request. Upon completion of your submission, please add Anthony Hong as an observer to the C2 request who will follow up with you directly about the purchase. At the same time, Jackie Xu will review the request for funds availability, and then your request will be routed to the TTS purchase team for review and purchase.
 
 The purchase team will review the request and verify that technical approval (ATO) has been secured (and the software has undergone FITARA review where applicable or currently exists in the [GSA IT Standards Profile](https://ea.gsa.gov/#!/itstandards)) before making the purchase. If the software already exists in the GSA IT Standards Profile, the timeframe between request and purchase will be about one week. HOWEVER, most software requests not in the Profile will require significant additional review which may take several months. GSA IT is working to streamline this.
 

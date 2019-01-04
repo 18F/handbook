@@ -44,23 +44,9 @@ People use Trello to track ideas from conception through execution. It's common 
 
 ### Chrome extensions
 
-Chrome extensions can dramatically increase the usability and functionality of Trello. You'll need your board's whole team to install the same Chrome extensions in order for everyone to see the board consistently.
+[GSA OCSIO-approved Chrome extensions](https://docs.google.com/spreadsheets/d/178_jEmJgfjbIF4GCKPn0iSPrln-4B3AWBSxq3ivnW4Y/pub) can dramatically increase the usability and functionality of Trello. 
+However, at this time, no Chrome extensions for Trello have been approved. If you would like to use an extension for Trello on your team, you'll need to [complete this form to request an extension for review](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSeviBt7bnriQz3iQRn1dUyg-8KUR7jRgG5eJbc7nHxa1D_ciw/viewform?pli=1).
 
-**Caution**: [Chrome extensions can be security hazards!](http://www.howtogeek.com/188346/why-browser-extensions-can-be-dangerous-and-how-to-protect-yourself/) Pay careful attention to information about permissions when you install them, and consider using an Incognito browser session when you are accessing sensitive information.
-
-- Add [Shortcuts for Trello](https://chrome.google.com/webstore/detail/shortcuts-for-trello/pfkeglfbhfmlnapfjfjfkiipclpmanim?hl=en) to get even more keyboard goodness for operations like copying a template card without opening it, and many more. (Be sure to set up the keyboard shortcuts via the link at the bottom of your [list of installed Chrome extensions](chrome://extensions).)
-
-- [Show card numbers on cards](https://chrome.google.com/webstore/detail/trello-card-numbers/kadpkdielickimifpinkknemjdipghaf) makes it easy for people to refer to cards definitively in remote screen-sharing meetings. (Just make sure everyone realizes these are card IDs, not the card's priority!)
-
-- [Show labels as text as well as color](https://chrome.google.com/webstore/detail/card-color-titles-for-tre/hpmobkglehhleflhaefmfajhbdnjmgim) in order to make it really clear to your team what your label colors represent. (Once everyone knows them cold, you can turn this off to avoid visual noise.)
-
-- Need to export your entire board for use in another tool? Normally you'd have to buy a paid Trello plan for this, but if you don't need the other features in the paid plans, install the [Export for Trello](https://chrome.google.com/webstore/detail/export-for-trello/nhdelomnagopgaealggpgojkhcafhnin) Chrome extension to get your board data into CSV and JSON easily.
-
-- Tracking stories for multiple sub-components/teams/projects on the same board? Install the [Projects for Trello](https://chrome.google.com/webstore/detail/projects-for-trello/mholjhodapabhdbchonjjoecmfhobfoa) extension, then prefix card names with {component} to put a badge on the card referring to a sub-component or project.
-
-- Doing Kanban? You'll want the [CardCounter for Trello](https://chrome.google.com/webstore/detail/cardcounter-for-trello/miejdnaildjcmahbhmfngfdoficmkdhi) Chrome extension. Document your Work-in-Progress (WIP) limit for a column in a bracket at end of the title, for example, "In Progress [3]". Trello will show how many cards you have in progress and the marker will turn red when you exceed the limit. Looking for a Continuous Flow Diagram or other metrics? Check out [Trello-CFD](http://trello-cfd.azurewebsites.net/) for the bare minimum and [Corello](https://getcorrello.com/) for a more deluxe option.
-
-- Using estimates as part of your process? Install the [Points for Trello](https://chrome.google.com/webstore/detail/points-for-trello/mkcpchladphoadhaclmnlphhijboljjk?hl=en) Chrome extension. Then when you edit the title for cards, you can append/prepend the estimate in parentheses, for example, "(3) Do this thing". If you use numbers, then the total will be shown at the top of the column. Also want to track points burndown? Use the [Burndown for Trello](https://www.burndownfortrello.com/). (If you also want to track effort spent, use the [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje) Chrome extension in place of both of these.)
 
 ---
 

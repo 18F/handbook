@@ -17,8 +17,6 @@ There's a secret to dealing with passwords: use a password manager to store your
 Password managers approved for work at GSA:
 
 * [**KeePassXC**](https://keepassxc.org/) (Windows/Apple/Linux) - KeePass is a free download and open source. The password database is stored locally on your computer.
-* [**Zetetic Codebook**](https://www.zetetic.net/codebook/) (Windows/Mac) - You can get a license for Codebook by submitting a [Service Catalog Request](
-https://gsa.service-now.com/nav_to.do?uri=%2Fcatalog_home.do%3Fsysparm_view%3Dcatalog_default). You can use Google Drive to sync Zetetic Codebook across devices. 
 * Google Sheets is approved as a password management solution.
 
 **1Password**: Please note that 1Password is no longer an approved password manager.

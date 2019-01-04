@@ -146,9 +146,7 @@ You may host folks from other government agencies. As the host you are responsib
 
 ### Access the building after hours?
 
-If you're a visitor arriving outside business hours, arrange for an TTS staff member inside the office to escort you.
-
-If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Josh Bailes), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
+If you're a visitor arriving outside business hours, you'll need to arrange for a TTS staff member inside the office to escort you.
 
 ### Book rooms for meetings?
 
@@ -162,9 +160,9 @@ Refer to [our printer information document](https://docs.google.com/document/d/1
 
 ### Get on the wireless?
 
-The guest Wi-Fi network is GSA Guest. The password changes monthly. To get the current password, type “GSA Wireless” into any room on Slack and the current password will pop up.
+The Wi-Fi network is "gsa-wireless". For type of security, choose "WPA2 Enterprise" and enter your ENT username and password.
 
-Non-guest wireless access is available using gsa-wireless and authenticating using your ENT username and password.
+The guest Wi-Fi network is "GSA-Guest". The password changes monthly. To get the current password, type “GSA Wireless” into any room on Slack (eg. in a DM to yourself) and the current password will pop up.
 
 ### Access GSA websites from inside the building?
 
