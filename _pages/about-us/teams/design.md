@@ -101,45 +101,42 @@ And one more thing: before you start using any new tool that asks for access to 
 #### Drawing lines on a screen
 Unless otherwise specified, **see [Software](../software/#provisioning) to get a license** for any of these.
 
-- **Adobe Creative Cloud:** CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **InVision:** We use InVision for prototyping and group online critique. To get a license, ask the Design Infrastructure Lead. 
+- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license. Visit [#sketch](https://gsa-tts.slack.com/messages/sketch) on slack for help and sharing tips.
+- **InVision:** We use InVision for prototyping and group online critique.
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
-- **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero). No license needed.
-
+- **Adobe Creative Cloud:** Visual designers often need CC for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. CC licenses are more limited, so please don’t request access unless you really do need it for your work. 
 
 #### Project management
-
-- **Trello:** Get more information on the [How to use Trello](/trello) page. Access is immediate.
+Every project and team has a different mix of project management tools based on what works for them. Many internal projects will use **Trello** because it's fast to set up. Get more information on the [How to use Trello](/trello) page.
 
 #### Research
 
 - Please read [Doing Research at 18F](/research-guidelines) for more information on the tools and techniques.
 - **Google Analytics:** More info [here](/google-analytics).
-- **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://gsa-tts.slack.com/messages/research) for recommendations.
+- **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#g-research](https://gsa-tts.slack.com/messages/g-research) for recommendations.
 
-#### Workshops
+#### Workshops / virtual workspaces
 
-- **Mural:** Research analysis and workshops. Get more info [here](/murally/). Access is immediate, but you’ll need to get permission from an admin to create rooms.
+- **Mural:** Research analysis and workshops. Get more info [here](/murally/). Access is immediate.
 
 #### Word processing
 
 - **Google Drive / Docs / Slides:** This is our primary tool for documents of various sorts.
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license.
+- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license if your project work requires it.
 
 ### <a id="assets">Assets</a>
 
 We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
 
-- **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. We don’t mandate using this, but it’s a good place to start.
-- **Type:** We don’t mandate using typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/), but it’s a good place to start. [Google’s collection of open-source typefaces](https://pages-staging.18f.gov/govt-wide-patternlibrary/elements/) is also helpful.
+- **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. Come chat in [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend) on slack if you are choosing a framework for something.
+- **Type:** Partner agencies usually have their own style guidance that we stick to. 18F-branded materials should follow typography guidance in the [18F Visual Idtentity Guide](https://brand.18f.gov/). For other needs, we recommend using typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/). Come chat in [#visual-design](https://gsa-tts.slack.com/messages/visual-design) on slack if you are choosing fonts for something.
 - **Icons:**
   - Each [18F presentation theme](https://pages.18f.gov/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding) if you need to use more/different ones... and be prepared to explain why!
-  - For a larger (and open-source!) set of icons, [Font Awesome](http://fortawesome.github.io/Font-Awesome/get-started/) is a starter kit. [The Noun Project](https://thenounproject.com/) has a number of open-source icons as well. If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
+  - The visual design team maintains guidance on [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
+  - If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
 - **Images:** Most images published by government agencies are in the public domain and thus free to use.
-  - USA.gov has [an image search](https://search.usa.gov/search/images?affiliate=usagov) for such photos.
+  - The visual design team maintains guidance on [government photography resources](https://github.com/18F/visual-design/wiki/Government-photography).
   - You can use `incategory:PD_US_Government` as part of a search query on Wikimedia Commons: [ example](https://commons.wikimedia.org/w/index.php?title=Special:Search&profile=default&fulltext=Search&search=incategory%3APD_US_Government+example&uselang=en&searchToken=5902rmnmjz5fivko9172xs74c).
-  - Flickr's advanced search options include searching only within US government images: [example](https://www.flickr.com/search/?text=example&license=8).
   - While you’re at it, visit the [Department of the Interior’s Instagram](https://instagram.com/usinterior/) stream. You’ll be glad you did.
 
 ---
