@@ -66,7 +66,9 @@ There is a lively farmers market literally out our door every Wednesday. There a
 
 ### From San Francisco International Airport (SFO)
 
-Public transit from SFO to the TTS San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station. Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes. The office sits right above the Civic Center stop for BART.
+Public transit from SFO to the TTS San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station.
+Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes.
+The office sits right above the Civic Center stop for BART.
 
 ### From Oakland International Airport (OAK)
 
