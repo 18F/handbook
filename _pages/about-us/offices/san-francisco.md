@@ -61,11 +61,14 @@ TTS SF office is in room #5685 on the fifth floor. When you get off the elevator
 
 There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance &mdash; San Francisco City Hall and the Asian Art Museum are but two of them!
 
+
 ## Getting here
 
 ### From San Francisco International Airport (SFO)
 
-Public transit from SFO to the TTS San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station. Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes. The office sits right above the Civic Center stop for BART.
+Public transit from SFO to the TTS San Francisco office is cheap, fairly quick, and convenient. Take the AirTrain from your terminal of arrival to the SFO BART station.
+Trains run from the airport to downtown between 15 minutes and 20 minutes with the actual travel time around 35 minutes.
+The office sits right above the Civic Center stop for BART.
 
 ### From Oakland International Airport (OAK)
 
@@ -112,9 +115,9 @@ If you’re having trouble, call one of the points of contact listed above, or g
 
 ### Get my fingerprints and badge?
 
-You can get them at 450 Golden Gate. [Schedule an appointment](https://timetrade.com/app/usaccess/workflows/usaccess001/schedule/location?wfsid=b07a7e11-baba97f6-b07a7e14-baba97f6-00000003-6ndldh7l376heqavd2983aah4s7tsj4b&appointmentTypeGroupId=hspd12&fs=1). They also have open office hours all day Monday for GSA employees.
+You can get them at 450 Golden Gate. [Schedule an appointment online](https://timetrade.com/app/usaccess/workflows/usaccess001/schedule/location?wfsid=b07a7e11-baba97f6-b07a7e14-baba97f6-00000003-6ndldh7l376heqavd2983aah4s7tsj4b&appointmentTypeGroupId=hspd12&fs=1) or call (415) 844-9759.
 
-Once you’re there, turn right after entering past security, then the MSO office is directly across from IRS. This is also where you can get your card _activated_.
+Once you’re there, turn right after entering past security, then the office for the MSO Credentialing Center is directly across from IRS. This is also where you can get your card _activated_.
 
 ### Attend GSA and TTS orientation?
 
@@ -142,8 +145,6 @@ Be aware that IDs from [a few states](https://www.dhs.gov/current-status-states-
 You may host folks from other government agencies. As the host you are responsible for access issues and for any requests. You will need to complete [50 UNP Auth Form.pdf](https://github.com/18F/handbook/files/433703/50.UNP.Auth.Form.pdf) using your own information and email it to <mailto:50UNPBuildingServices@gsa.gov>. Please make sure you do this with advance notice, since the building will need time to update the guards’ list of approved guests. Once the form has been accepted, guests will be able to access the building without an escort.
 
 ### Access the building after hours?
-
-If you're based in SF and would like to regularly access the building after hours (6pm-6am), fill out the [50 UNP Security Access Card Application](https://drive.google.com/open?id=1KW2Vv11KYoZ70ajCQliPi3O11HanUXx_). Have a supervisor ("Director") sign it for you, then take it to the Operations Coordinator in the <a href="#helpful-contacts">Building Manager</a>'s office, located in room 0651 in the Basement, open 8:00am - 4:30pm. As of 12/04/2018, Ahmed Mahdi is the Operations Coordinator; you may also scan and e-mail the form to him at <mailto:Ahmed.Mahdi@aleutmgt.com>. He'll send the form to the Golden Gate Security Office, and e-mail you once your application has been approved. You'll then need to go in-person to his office to register your PIV card and choose an access code, which you'll be able to use at the SW entrance to the building.
 
 If you're a visitor arriving outside business hours, you'll need to arrange for a TTS staff member inside the office to escort you.
 
