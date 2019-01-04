@@ -17,17 +17,17 @@ The Design team at 18F includes content, user experience, front end, and visual 
 ## <a id="documentation">Documentation</a>
 
 - [Experience Design capabilities](https://docs.google.com/presentation/d/1aOeq5SsLSMhskchlJRtSLQ28OcIzAQgkanyDZy7bPiU/edit)
-- [18F Brand Toolkit](https://pages.18f.gov/brand/)
+- [18F Visual Identity Guide](https://brand.18f.gov/)
 - [18F Content Guide](https://pages.18f.gov/content-guide/)
 - [18F Frontend Style Guide](https://pages.18f.gov/frontend/)
-- [Design method cards](https://methods.18f.gov/)
-- [Design wiki](https://github.com/18F/Design-Wiki)
+- [Design Methods](https://methods.18f.gov/)
+- [Design Wiki](https://github.com/18F/Design-Wiki)
 
 ### <a id="suggested-reading">Suggested reading</a>
 
 - [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
-- [Lean product design guide](https://pages.18f.gov/lean-product-design/)
-- [Accessibility guide](https://pages.18f.gov/accessibility/)
+- [Lean Product Design Guide](https://pages.18f.gov/lean-product-design/)
+- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://pages.18f.gov/accessibility/) 
 
 ## Communication
 
