@@ -127,10 +127,18 @@ In addition to the paid leave described above, employees can take leave without 
 
 Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) (VLTP), a covered employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave.
 
-To donate leave or view your donated leave balance, log into the [Voluntary Leave Transfer System](https://apps.ocfo.gsa.gov/volta/volta.volta_main) with your social security number and Employee Express password.
+To donate leave:
+1) Go to GSA FEDdesk at http://feddesk.gsa.gov,
+2) Click on "Applications" at the top of the page,
+3) Click on the "Voluntary Leave Transfer Program," then
+4) Login using your Social Security Number and Employee Express Password, and
+5) Follow the system prompts. 
 
-If the system is down, you can submit donation requests directly to Lakita Rivero.  Lakita's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+If you have any questions, please contact Lakita Rivero at (202) 208-6171 or by email at lakita.rivero@gsa.gov.
 
+Also, don’t hesitate to ask in #parental-leave in Slack.  
+
+If the system is down, you can submit donation requests directly to Lakita Rivero.  
 
 ## Advanced leave
 
