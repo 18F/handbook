@@ -60,31 +60,11 @@ The Design team at 18F includes content, user experience, front-end, and visual 
 
 ### <a id="structure">Structure</a>
 
-As per the [org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100), 18F Design is itself composed of the user experience (UX) design, visual design, frontend design, and content design teams. Members of the Design team are active participants in the frontend and research [guilds](/working-groups-and-guilds-101).
+As per the [org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100), 18F Design is itself composed of the content design, user experience (UX) design + frontend design, and visual design teams. Members of the Design team are active participants in the content, frontend, and research [guilds](/working-groups-and-guilds-101).
 
-As these teams have grown in size, we’ve introduced **design leads** to facilitate communication. Design leads work both internal to the Design team and external to 18F as a whole to address administrative questions, talk through scope concerns, and coordinate resourcing. In your first week, you’ll be assigned a design lead from your own discipline.
+As these teams have grown in size, we’ve introduced **leads** and **supervisors**. In your first week, you’ll be assigned a lead. Leads concentrate on project work while providing a first level of practical support and project advice to 2-3 people. Supervisors carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. Leads and supervisors are selected through nominations and interviews according to team needs. These competitions will be announced ahead of time. More detail on [Design team roles and responsibilites](https://docs.google.com/document/d/1XqgwiUItzRZu4I8KcpQlkCCd5iXM_EbTwsUzXwy-L-w/edit#heading=h.bc6vwqoy0xk4) is provided internally.
 
-Members of the Design team are also assigned to **critique groups.** These groups meet once a week (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. If you’re interested in taking a turn as a critique lead, contact the Director of Design.
-
-### <a id="design-leads">Design leads</a>
-
-Design leads are tasked with helping to create, maintain, and grow the positive and collaborative culture of 18F Design, especially as we experience sustained growth. Their responsibilities include:
-
-- Assist the Design Director in onboarding new members to the team.
-- Work with members to articulate their professional goals.
-- Conduct performance reviews in conjunction with the Design Director.
-- Conduct regular 1:1 meetings with their team members.
-- Be available to members of their team to discuss and give feedback on goals/OKRs.
-- Flag developing concerns or issues for the Design Director.
-- Assist the Design Director with project staffing decisions.
-- Attend regular Lead group meetings.
-- Pass individual/aggregate feedback from the facilitator teams to the Design Director.
-
-Design leads are selected through nominations and interviews according to team needs. While there is no additional compensation for being a design lead, it’s an opportunity to help make team members’ time at 18F great.
-
-### <a id="leads-and-management">Leads and management</a>
-
-See [the org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100).
+Members of the Design team are also assigned to **critique groups.** These groups meet regularly (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. These rotations are announced ahead of time, and if you're interested in taking a turn as a critique lead, you can raise your hand as a candidate at that time. 
 
 ## <a id="what-we-do">What we do</a>
 
