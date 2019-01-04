@@ -36,12 +36,13 @@ Find us on Slack:
 * [#design](https://gsa-tts.slack.com/messages/design)
 * [#g-content](https://gsa-tts.slack.com/messages/g-content)
 * [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend)
-* [#research](https://gsa-tts.slack.com/messages/research)
+* [#g-research](https://gsa-tts.slack.com/messages/g-research)
+* [#design-lab](https://gsa-tts.slack.com/messages/design-lab)
 * [#writing-lab](https://gsa-tts.slack.com/messages/writing-lab)
-* [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding)
-* [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility)
-* [#service-design](https://gsa-tts.slack.com/messages/service-design)
-* [#gov-design-guild](https://gsa-tts.slack.com/messages/gov-design-guild)
+* [#content-design](https://gsa-tts.slack.com/messages/content-design)
+* [#ux](https://gsa-tts.slack.com/messages/ux)
+* [#visual-design](https://gsa-tts.slack.com/messages/visual-design)
+
 
 ---
 
