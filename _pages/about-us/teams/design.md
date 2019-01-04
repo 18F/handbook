@@ -17,17 +17,17 @@ The Design team at 18F includes content, user experience, front end, and visual 
 ## <a id="documentation">Documentation</a>
 
 - [Experience Design capabilities](https://docs.google.com/presentation/d/1aOeq5SsLSMhskchlJRtSLQ28OcIzAQgkanyDZy7bPiU/edit)
-- [18F Brand Toolkit](https://pages.18f.gov/brand/)
+- [18F Visual Identity Guide](https://brand.18f.gov/)
 - [18F Content Guide](https://pages.18f.gov/content-guide/)
 - [18F Frontend Style Guide](https://pages.18f.gov/frontend/)
-- [Design method cards](https://methods.18f.gov/)
-- [Design wiki](https://github.com/18F/Design-Wiki)
+- [Design Methods](https://methods.18f.gov/)
+- [Design Wiki](https://github.com/18F/Design-Wiki)
 
 ### <a id="suggested-reading">Suggested reading</a>
 
 - [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
-- [Lean product design guide](https://pages.18f.gov/lean-product-design/)
-- [Accessibility guide](https://pages.18f.gov/accessibility/)
+- [Lean Product Design Guide](https://pages.18f.gov/lean-product-design/)
+- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://pages.18f.gov/accessibility/) 
 
 ## Communication
 
@@ -36,12 +36,13 @@ Find us on Slack:
 * [#design](https://gsa-tts.slack.com/messages/design)
 * [#g-content](https://gsa-tts.slack.com/messages/g-content)
 * [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend)
-* [#research](https://gsa-tts.slack.com/messages/research)
+* [#g-research](https://gsa-tts.slack.com/messages/g-research)
+* [#design-lab](https://gsa-tts.slack.com/messages/design-lab)
 * [#writing-lab](https://gsa-tts.slack.com/messages/writing-lab)
-* [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding)
-* [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility)
-* [#service-design](https://gsa-tts.slack.com/messages/service-design)
-* [#gov-design-guild](https://gsa-tts.slack.com/messages/gov-design-guild)
+* [#content-design](https://gsa-tts.slack.com/messages/content-design)
+* [#ux](https://gsa-tts.slack.com/messages/ux)
+* [#visual-design](https://gsa-tts.slack.com/messages/visual-design)
+
 
 ---
 
@@ -59,31 +60,11 @@ The Design team at 18F includes content, user experience, front-end, and visual 
 
 ### <a id="structure">Structure</a>
 
-As per the [org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100), 18F Design is itself composed of the user experience (UX) design, visual design, frontend design, and content design teams. Members of the Design team are active participants in the frontend and research [guilds](/working-groups-and-guilds-101).
+As per the [org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100), 18F Design is itself composed of the content design, user experience (UX) design + frontend design, and visual design teams. Members of the Design team are active participants in the content, frontend, and research [guilds](/working-groups-and-guilds-101).
 
-As these teams have grown in size, we’ve introduced **design leads** to facilitate communication. Design leads work both internal to the Design team and external to 18F as a whole to address administrative questions, talk through scope concerns, and coordinate resourcing. In your first week, you’ll be assigned a design lead from your own discipline.
+As these teams have grown in size, we’ve introduced **leads** and **supervisors**. In your first week, you’ll be assigned a lead. Leads concentrate on project work while providing a first level of practical support and project advice to 2-3 people. Supervisors carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. Leads and supervisors are selected through nominations and interviews according to team needs. These competitions will be announced ahead of time. More detail on [Design team roles and responsibilites](https://docs.google.com/document/d/1XqgwiUItzRZu4I8KcpQlkCCd5iXM_EbTwsUzXwy-L-w/edit#heading=h.bc6vwqoy0xk4) is provided internally.
 
-Members of the Design team are also assigned to **critique groups.** These groups meet once a week (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. If you’re interested in taking a turn as a critique lead, contact the Director of Design.
-
-### <a id="design-leads">Design leads</a>
-
-Design leads are tasked with helping to create, maintain, and grow the positive and collaborative culture of 18F Design, especially as we experience sustained growth. Their responsibilities include:
-
-- Assist the Design Director in onboarding new members to the team.
-- Work with members to articulate their professional goals.
-- Conduct performance reviews in conjunction with the Design Director.
-- Conduct regular 1:1 meetings with their team members.
-- Be available to members of their team to discuss and give feedback on goals/OKRs.
-- Flag developing concerns or issues for the Design Director.
-- Assist the Design Director with project staffing decisions.
-- Attend regular Lead group meetings.
-- Pass individual/aggregate feedback from the facilitator teams to the Design Director.
-
-Design leads are selected through nominations and interviews according to team needs. While there is no additional compensation for being a design lead, it’s an opportunity to help make team members’ time at 18F great.
-
-### <a id="leads-and-management">Leads and management</a>
-
-See [the org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100).
+Members of the Design team are also assigned to **critique groups.** These groups meet regularly (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. These rotations are announced ahead of time, and if you're interested in taking a turn as a critique lead, you can raise your hand as a candidate at that time. 
 
 ## <a id="what-we-do">What we do</a>
 
@@ -107,12 +88,8 @@ Most of the design team works on a mix of partner-agency projects and internal i
 
 ### <a id="communication-channels">Communication channels</a>
 
-- **Slack channels:**
-    - [#design](https://gsa-tts.slack.com/messages/design), [#frontend](https://gsa-tts.slack.com/messages/frontend), [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility), [#g-content](https://gsa-tts.slack.com/messages/g-content), [#gov-design-guild](https://gsa-tts.slack.com/messages/gov-design-guild), [#research](https://gsa-tts.slack.com/messages/research),
-    [#visual-design](https://gsa-tts.slack.com/messages/visual-design).
-    - Some of us participate in our personal capacities in [a non-18F-sponsored Slack channel to discuss user research for government around the world](https://gds.blog.gov.uk/2015/08/04/user-research-for-government-around-the-world/). It’s managed by [Leisa Reichelt](http://www.disambiguity.com/about-me/), and you can request access by emailing her from your GSA email. When you get access, however, please make sure the email address on that Slack account is a personal address, so that it’s clear you are not joining in an official capacity.
 - **Mailing lists**
-  - 18F-xd@gsa.gov contains information relevant to visual and UX designers, content designers and strategists, researchers and other designy folk. Your supervisor is responsible for adding you to this list — no need to worry about registering.
+  - 18F-xd@gsa.gov is a Google group for all members of the design chapter. Your supervisor is responsible for adding you to this list — no need to worry about registering.
   - Other mailing lists are listed [here](/general-contacts-and-listservs/#listservs).
 
 ### <a id="tools">Tools</a>
@@ -124,45 +101,42 @@ And one more thing: before you start using any new tool that asks for access to 
 #### Drawing lines on a screen
 Unless otherwise specified, **see [Software](../software/#provisioning) to get a license** for any of these.
 
-- **Adobe Creative Cloud:** CC licenses are expensive, so please don’t request access unless you really do need it for your work. The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **InVision:** We use InVision for prototyping and group online critique. To get a license, ask the Design Infrastructure Lead. 
+- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license. Visit [#sketch](https://gsa-tts.slack.com/messages/sketch) on slack for help and sharing tips.
+- **InVision:** We use InVision for prototyping and group online critique.
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license.
-- **Screenhero:** Screenhero allows remote editing of the same desktop document. Slack acquired Screenhero, so you can access it through the [Slack website](https://gsa-tts.slack.com/screenhero). No license needed.
-
+- **Adobe Creative Cloud:** Visual designers often need CC for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. CC licenses are more limited, so please don’t request access unless you really do need it for your work. 
 
 #### Project management
-
-- **Trello:** Get more information on the [How to use Trello](/trello) page. Access is immediate.
+Every project and team has a different mix of project management tools based on what works for them. Many internal projects will use **Trello** because it's fast to set up. Get more information on the [How to use Trello](/trello) page.
 
 #### Research
 
 - Please read [Doing Research at 18F](/research-guidelines) for more information on the tools and techniques.
 - **Google Analytics:** More info [here](/google-analytics).
-- **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://gsa-tts.slack.com/messages/research) for recommendations.
+- **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#g-research](https://gsa-tts.slack.com/messages/g-research) for recommendations.
 
-#### Workshops
+#### Workshops / virtual workspaces
 
-- **Mural:** Research analysis and workshops. Get more info [here](/murally/). Access is immediate, but you’ll need to get permission from an admin to create rooms.
+- **Mural:** Research analysis and workshops. Get more info [here](/murally/). Access is immediate.
 
 #### Word processing
 
 - **Google Drive / Docs / Slides:** This is our primary tool for documents of various sorts.
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license.
+- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license if your project work requires it.
 
 ### <a id="assets">Assets</a>
 
 We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
 
-- **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. We don’t mandate using this, but it’s a good place to start.
-- **Type:** We don’t mandate using typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/), but it’s a good place to start. [Google’s collection of open-source typefaces](https://pages-staging.18f.gov/govt-wide-patternlibrary/elements/) is also helpful.
+- **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. Come chat in [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend) on slack if you are choosing a framework for something.
+- **Type:** Partner agencies usually have their own style guidance that we stick to. 18F-branded materials should follow typography guidance in the [18F Visual Idtentity Guide](https://brand.18f.gov/). For other needs, we recommend using typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/). Come chat in [#visual-design](https://gsa-tts.slack.com/messages/visual-design) on slack if you are choosing fonts for something.
 - **Icons:**
   - Each [18F presentation theme](https://pages.18f.gov/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding) if you need to use more/different ones... and be prepared to explain why!
-  - For a larger (and open-source!) set of icons, [Font Awesome](http://fortawesome.github.io/Font-Awesome/get-started/) is a starter kit. [The Noun Project](https://thenounproject.com/) has a number of open-source icons as well. If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
+  - The visual design team maintains guidance on [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
+  - If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
 - **Images:** Most images published by government agencies are in the public domain and thus free to use.
-  - USA.gov has [an image search](https://search.usa.gov/search/images?affiliate=usagov) for such photos.
+  - The visual design team maintains guidance on [government photography resources](https://github.com/18F/visual-design/wiki/Government-photography).
   - You can use `incategory:PD_US_Government` as part of a search query on Wikimedia Commons: [ example](https://commons.wikimedia.org/w/index.php?title=Special:Search&profile=default&fulltext=Search&search=incategory%3APD_US_Government+example&uselang=en&searchToken=5902rmnmjz5fivko9172xs74c).
-  - Flickr's advanced search options include searching only within US government images: [example](https://www.flickr.com/search/?text=example&license=8).
   - While you’re at it, visit the [Department of the Interior’s Instagram](https://instagram.com/usinterior/) stream. You’ll be glad you did.
 
 ---
