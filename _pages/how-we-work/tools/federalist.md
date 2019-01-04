@@ -2,16 +2,16 @@
 title: Federalist
 ---
 
-We use Federalist to build websites.  
+We use [Federalist](https://federalist.18f.gov) to build websites.  
 
 ## Documentation 
 
-* [Federalist Documentation](https://federalist-docs.18f.gov/)
+* [Federalist Documentation](https://federalist.18f.gov/pages/using-federalist/)
 
 ## Setup 
 
-* You'll need to set up your [GitHub](https://handbook.18f.gov/github/) account first.  
-* Then go to the [Federalist homepage](https://federalist.18f.gov) and log in in the top right.  
+* Set up your [GitHub](https://handbook.18f.gov/github/) account.  
+* Log in at the [Federalist app](https://federalistapp.18f.gov/).  
 
 ## Rules 
 
