@@ -122,7 +122,7 @@ GSA onboarding is typically conducted on Mondays at 50 UN Plaza. TTS SF onboardi
 
 ### Find out everything I need to know about working in SF?
 
-Whether you're new at TTS and are joining the SF office or you're a long-time TTS member relocating to SF, here's an office onboarding checklist for you:
+Whether you're new at TTS or you're a long-time TTS member relocating to SF, here's an office onboarding checklist for you:
 
 * If you would like a locker, or if you need a keyboard and mouse/trackpad for working with the office monitors, please email <mailto:britta.gustafson@gsa.gov>.
 * Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
