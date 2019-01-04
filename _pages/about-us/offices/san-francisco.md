@@ -61,6 +61,7 @@ TTS SF office is in room #5685 on the fifth floor. When you get off the elevator
 
 There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance &mdash; San Francisco City Hall and the Asian Art Museum are but two of them!
 
+
 ## Getting here
 
 ### From San Francisco International Airport (SFO)
@@ -146,7 +147,6 @@ You may host folks from other government agencies. As the host you are responsib
 If you're a visitor arriving outside business hours, arrange for an TTS staff member inside the office to escort you.
 
 If you're based in SF and want to regularly access the building after hours, you need to fill out the [50 UNP Security Access Card Application](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view?ts=5605883f). Have someone of authority sign it for you (like Josh Bailes), then send to the <a href="#helpful-contacts">building manager</a>. Email [Rachel Almeida](mailto:rachel.almeida@gsa.gov) to set up a time to get your fingerprints taken and badge coded for access. Bring your form with you.
-
 
 ### Book rooms for meetings?
 
