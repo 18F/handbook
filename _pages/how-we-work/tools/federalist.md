@@ -11,7 +11,7 @@ We use Federalist to build websites.
 ## Setup 
 
 * You'll need to set up your [GitHub](https://handbook.18f.gov/github/) account first.  
-* Then go to the [Federalist homepage](https://federalist.18f.gov) and log in in the top right.  
+* Then go to the [Federalist homepage](https://federalist.18f.gov) and log in at the [Manage Sites](https://federalistapp.18f.gov/) link.  
 
 ## Rules 
 
