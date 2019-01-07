@@ -54,3 +54,4 @@ These meetings happen at regular interval and you will be invited to attend the 
 *   DevOps
 *   User Experience
 *   Diversity, Equity, and Inclusion
+*   Hiring
