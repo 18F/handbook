@@ -35,7 +35,8 @@ tag:
 - Click **Prepare to Send** near the top of the screen
   * Select from the drop-down who you'd like to sign the document
   * Click **Add Signature** and drag to the appropriate spot(s)
-- Click **Send**
+  * Use the gear on the signature field to add a date field, if necessary, and move that/resize it to the right position.
+- Scroll back up to the top and click **Send**
   * Click **OK** on the "Confirm" pop-up
 
 ## Sign a document
