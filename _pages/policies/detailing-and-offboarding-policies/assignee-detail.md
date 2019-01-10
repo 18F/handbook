@@ -141,12 +141,14 @@ The Hiring Manager is responsible for running the entire process (collecting sta
   * collecting resumes and statements of interest (if either or both are required) and sending
     * finding an interview panel
     * scheduling interviews
+  * adding the detail information to the [TTS Open Opportunities Spreadsheet](https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit?usp=sharing)
 
 * Once interviews are complete the HM should notify [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov) on who was selected and the effective date of the detail. Talent will then submit a personnel action to HR to make the detail official
   * The HM should confirm with the employee’s supervisor that they are OK with this person being detailed to this position
   * The action can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
   
 [Example of email advertising detail opportunity within TTS](https://docs.google.com/document/d/1th6-L0ovGdEVBPPeJbZkqkaXDza8ud0rs2RlSn3X7c8/edit#)
+
 
 --------------------------------------------------------------------------------
 
