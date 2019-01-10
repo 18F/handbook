@@ -10,7 +10,7 @@ title: Trello
 
 [Trello](https://trello.com) accounts support multiple email addresses, so you can use an existing account (if you have one) by adding your GSA email address. 
 
-If you **do not have an existing Trello account**, go to [Trello](https://trello.com], click the green "Sign Up" button, and create a Trello account by signing up with your GSA Google account.
+If you **do not have an existing Trello account**, go to [Trello](https://trello.com), click the green "Sign Up" button, and create a Trello account by signing up with your GSA Google account.
 
 Because [Trello](https://trello.com) is a web application, there's no installation necessary. You will just need to sign in or set up an account.
 
