@@ -117,11 +117,11 @@ navigation:
   generated: true
   children:
   - text: TTS Policies and Information
-    url:
-    internal: 
+    url: tts-policies-and-information/
+    internal: true
     - text: General
-      url:
-      internal:
+      url: general/
+      internal: true
       children:
       - text: TTS Code of Conduct
         url: code-of-conduct/
@@ -152,8 +152,8 @@ navigation:
         url: washington-dc/
         internal: true
     - text: Travel and Leave
-      url:
-      internal:
+      url: travel-and-leave/
+      internal: true
       children:
       - text: Leave (HR Links)
         url: leave/
@@ -315,20 +315,20 @@ navigation:
   - text: TTS Offices
     blurb: |
     We're all one family at TTS, but each of the different offices have their own norms and practices.
-    url:
-    internal:
+    url: tts-offices/
+    internal: true
     generated: true
     children:
     - text: TTS Office of Operations
-      url:
-      internal:
+      url: tts-office-of-operations/
+      internal: true
       children: 
       - text: Governance and Compliance Division
-        url:
-        internal:
+        url: governance-and-compliance-division/
+        internal: true
       - text: Business Operations Division
-        url:
-        internal:
+        url: business-operations-division/
+        internal: true
         children:
         - text: Ops
           url: ops/
@@ -338,8 +338,8 @@ navigation:
           internal: true
         children:
       - text: Talent Division
-        url:
-        internal:
+        url: talent-division/
+        internal: true
         children:
         - text: Talent
           url: talent/
@@ -354,10 +354,10 @@ navigation:
           url: top-secret/
           internal: true
       - text: Infrastructure
-        url:
-        internal:
+        url: infrastructure/
+        internal: true
         children:
- 	- text: Infrastructure
+      	- text: Infrastructure
       	  url: infrastructure/
       	  internal: true
         - text: Infrastructure
@@ -367,8 +367,8 @@ navigation:
           url: software/
           internal: true
       - text: Outreach
-        url:
-        internal:
+        url: outreach/
+        internal: true
         children:
         - text: Outreach
           url: outreach/
@@ -380,15 +380,15 @@ navigation:
           url: blogging/
           internal: true
     - text: TTS Office of Acquisitions
-      url:
-      internal:
+      url: tts-office-of-acquisitions/
+      internal: true
       children: 
       - text: Acquisitions
         url: acquisition/
         internal: true
     - text: 18F
-      url: 
-      internal:
+      url: 18f/
+      internal: true
       children:
       - text: 18F History and values
         url: history-and-values/
@@ -400,8 +400,8 @@ navigation:
         url: org-chart/
         internal: true
       - text: 18F Chapters
-        url:
-        internal:
+        url: chapters/
+        internal: true
         children:
         - text: Custom Partner Solutions
           url: custom-partner-solutions/
@@ -429,8 +429,8 @@ navigation:
           url: strategy/
           internal: true
       - text: 18F Platforms
-        url:
-        internal:
+        url: platforms/
+        internal: true
         children:
         - text: Cloud.gov
           url: https://cloud.gov/
@@ -468,11 +468,11 @@ navigation:
           url: https://github.com/18F/design-lab
           internal: false
         - text: Dev Lab
-          url: 
-          internal: 
+          url: dev-lab/
+          internal: true
       - text: 18F Team Resources
-        url:
-        internal:
+        url: 18f-resources/
+        internal: true
         children:
         - text: Bookmarks
           url: bookmarks/
@@ -510,27 +510,27 @@ navigation:
           url: opp-org-chart/
           internal: true
       - text: Portfolios
-        url: 
-        internal: 
+        url: portfolios/
+        internal: true
         children: 
         - text: Data
-          url:
-          internal: 
+          url: data/
+          internal: true
         - text: Innovation
-          url:
-          internal:
+          url: innovation/
+          internal: true
         - text: Public Experience
-          url:
-          internal:
+          url: public-experience/
+          internal: true
         - text: Smarter IT
-          url:
-          internal:
+          url: smarter-it/
+          internal: true
         - text: Secure Cloud
-          url:
-          internal:
+          url: secure-cloud/
+          internal: true
         - text: 10x
-          url:
-          internal:
+          url: https://10x.gsa.gov
+          internal: false
     - text: Centers of Excellence (CoE)
       url: https://coe.gsa.gov/
       internal: false
