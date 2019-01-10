@@ -76,227 +76,175 @@ navigation:
   internal: true
 - text: Welcome to TTS
   blurb: |
-    Here's what you need to know in your first few weeks.
+    Here's what you need to know in your first week.
   url: welcome-to-TTS/
   internal: true
   generated: true
   children:
-  - text: Welcome from the team
+  - text: Welcome
     url: welcome-letter/
     internal: true
   - text: Onboarding schedule
     url: onboarding-schedule/
     internal: true
-  - text: Refer a person
-    url: https://handbook.18f.gov/talent/#referring-a-person
-    internal: false
-  - text: TTS Homepage
-    url: https://www.gsa.gov/node/87579
-    internal: false
-
-  - text: Classes
-    url: tts-classes/
-    internal: true
-    children:
-    - text: Accessibility
-      url: accessibility/
-      internal: true
-    - text: Benefits
-      url: benefits/
-      internal: true
-    - text: GitHub 101
-      url: intro-to-github/
-      internal: true
-    - text: GSA internal tools
-      url: gsa-internal-tools/
-      internal: true
-    - text: Infrastructure
-      url: intro-to-18f-infrastructure/
-      internal: true
-    - text: Meetings and meeting tools
-      url: meetings-and-meeting-tools/
-      internal: true
-    - text: Online Learning University (OLU)
-      url: olu/
-      internal: true
-    - text: Product and open source
-      url: intro-to-product-and-open-source/
-      internal: true
-    - text: Social media
-      url: social-media/
-      internal: true
-    - text: Travel 101
-      url: travel-101/
-      internal: true
-    - text: Working groups and guilds
-      url: working-groups-and-guilds-101/
-      internal: true
-    - text: Writing Lab
-      url: writing-lab/
-      internal: true
-- text: About us
-  blurb: |
-    Who we are, how we’ve organized ourselves, and where we work.
-  url: about-us/
-  internal: true
-  generated: true
-  children:
-  - text: Diversity at TTS
-    url: diversity/
-    internal: true
-  - text: General contacts and listservs
-    url: general-contacts-and-listservs/
-    internal: true
-  - text: 18F History and values
-    url: history-and-values/
-    internal: true
-  - text: Internal TTS Opportunities
-    url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
-    internal: false
-  - text: Office of Products and Programs (OPP) History
-    url: opp-history/
-    internal: true
-  - text: Mentorship
-    url: mentorship/
-    internal: true
-  - text: Mission
-    url: mission/
-    internal: true
-  - text: TTS org chart
-    url: tts-org-chart/
-    internal: true
-  - text: 18F org chart
-    url: org-chart/
-    internal: true
-  - text: Office of Products and Programs (OPP) org chart
-    url: opp-org-chart/
-    internal: true
-  - text: TTS archived emails
-    url: https://goo.gl/PxRVa8
-    internal: false
-  - text: Offices
-    url: offices/
-    internal: true
-    generated: true
-    children:
-    - text: Chicago
-      url: chicago/
-      internal: true
-    - text: Distributed
-      url: distributed/
-      internal: true
-    - text: New York City
-      url: new-york-city/
-      internal: true
-    - text: San Francisco
-      url: san-francisco/
-      internal: true
-    - text: Washington, D.C.
-      url: washington-dc/
-      internal: true
-  - text: Teams
-    url: teams/
-    internal: true
-    generated: true
-    children:
-    - text: Acquisition (aka AcqStack)
-      url: acqstack/
-      internal: true
-    - text: Custom Partner Solutions
-      url: custom-partner-solutions/
-      internal: true
-    - text: Design
-      url: design/
-      internal: true
-    - text: Engineering
-      url: engineering/
-      internal: true
-    - text: Infrastructure
-      url: infrastructure/
-      internal: true
-    - text: Office of Products and Programs (OPP)
-      url: office-of-products-and-programs/
-      internal: true
-    - text: Ops
-      url: ops/
-      internal: true
-    - text: Outreach
-      url: outreach/
-      internal: true
-    - text: Product
-      url: product/
-      internal: true
-    - text: Products and Platforms
-      url: products-and-platforms/
-      internal: true
-    - text: Strategy
-      url: strategy/
-      internal: true
-    - text: Talent
-      url: talent/
-      internal: true
-- text: How we work
-  blurb: |
-    An overview of processes, tools, and equipment that we use frequently.
-  url: how-we-work/
-  internal: true
-  generated: true
-  children:
-  - text: Acquisitions
-    url: acquisition/
-    internal: true
-  - text: Agreements
-    url: agreements/
-    internal: true
-  - text: Attending or speaking at a conference
-    url: attending-conferences/
-    internal: true
-  - text: Bookmarks
-    url: bookmarks/
-    internal: true
-  - text: Doing research at 18F
-    url: research-guidelines/
+  - text: Logging in
+    url: how-to-log-in
     internal: true
   - text: Equipment
     url: equipment/
     internal: true
-  - text: Glossary
-    url: glossary/
-    internal: true
-  - text: How to say no
-    url: how-to-say-no/
-    internal: true
-  - text: Logging in
-    url: how-to-log-in
-    internal: true
   - text: Networks
     url: networks/
     internal: true
-  - text: One-on-ones
-    url: one-on-ones/
+  - text: Benefits
+    url: benefits/
     internal: true
-  - text: Purchase requests
-    url: purchase-requests/
+  - text: Online Learning University (OLU)
+    url: olu/
     internal: true
-  - text: Sensitive information
-    url: sensitive-information/
+  - text: Travel 101
+    url: travel-101/
     internal: true
-  - text: Software
-    url: software/
+  - text: GitHub 101
+    url: intro-to-github/
     internal: true
-  - text: Guides
-    url: guides/
-    internal: true
-    generated: true
-    children:
-    - text: Blogging
-      url: blogging/
+
+- text: About us
+  blurb: |
+    [Technology Transformation Services (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
+  url: about-us/
+  internal: true
+  generated: true
+  children:
+  - text: TTS Policies and Information
+    url:
+    internal: 
+    - text: General
+      url:
+      internal:
+      children:
+      - text: TTS Code of Conduct
+        url: code-of-conduct/
+        internal: true
+      - text: TTS org chart
+        url: tts-org-chart/
+        internal: true
+      - text: General contacts and listservs
+        url: general-contacts-and-listservs/
+        internal: true
+      - text: Working groups and guilds
+        url: working-groups-and-guilds-101/
+        internal: true
+        children:
+        - text: Diversity at TTS
+          url: diversity/
+          internal: true
+        - text: Accessibility
+          url: accessibility/
+          internal: true
+      - text: Glossary
+        url: glossary/
+        internal: true
+      - text: Records management
+        url: records-management/
+        internal: true
+      - text: Washington, D.C. Office
+        url: washington-dc/
+        internal: true
+    - text: Travel and Leave
+      url:
+      internal:
+      children:
+      - text: Leave (HR Links)
+        url: leave/
+        internal: true
+      - text: Travel guide
+        url: travel-guide-start-here/
+        internal: true
+    - text: Tech
+      url: tech-policies/
       internal: true
-  - text: Tools
+      generated: true
+      children:
+      - text: FITARA
+        url: fitara/
+        internal: true 
+      - text: Requirements for Passwords
+        url: password-requirements/
+        internal: true
+      - text: Security incidents
+        url: security-incidents/
+        internal: true
+      - text: Sensitive information
+        url: sensitive-information/
+        internal: true
+    - text: Employee Resources
+      url: employee-resources-policies/
+      internal: true
+      generated: true
+      children:
+      - text: Benefits links and resources
+        url: benefits-links/
+        internal: true
+      - text: Emergency procedures
+        url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
+        internal: false
+      - text: Employee assistance program
+        url: employee-assistance-program/
+        internal: true
+      - text: Employment verification
+        url: employment-verification/
+        internal: true
+      - text: Merit promotions
+        url: merit-promotions/
+        internal: true
+      - text: Overtime and comp time
+        url: overtime-and-comp-time/
+        internal: true
+      - text: Promotions
+        url: promotions/
+        internal: true
+      - text: Telework guidance
+        url: telework/
+        internal: true
+        children: 
+        - text: Virtual work and moving
+          url: moving/
+          internal: true
+      - text: Transit benefit
+        url: transit-benefit/
+        internal: true
+      - text: Purchase requests
+        url: purchase-requests/
+        internal: true
+      - text: Attending or speaking at a conference
+        url: attending-conferences/
+        internal: true
+    - text: Detailing and Offboarding
+      url: detailing-and-offboarding-policies/
+      internal: true
+      generated: true
+      children:
+      - text: Assignments and Details
+        url: assignee-detail/
+        internal: true
+      - text: Leaving TTS
+        url: leaving-tts/
+        internal: true
+      - text: Term extensions
+        url: term-extensions/
+        internal: true
+  - text: TTS Tools
     url: tools/
     internal: true
     generated: true
     children:
+    - text: Meetings and meeting tools
+      url: meetings-and-meeting-tools/
+      internal: true
+    - text: GSA Internal Tools
+      url: gsa-internal-tools/
+      internal: true
     - text: AnyConnect
       url: anyconnect/
       internal: true
@@ -330,10 +278,7 @@ navigation:
     - text: Google Hangouts
       url: google-hangouts/
       internal: true
-    - text: GSA Internal Tools
-      url: gsa-internal-tools/
-      internal: true
-    - text: How to get Microsoft Office for OS X
+    - text: Microsoft Office for OS X
       url: office/
       internal: true
     - text: MailChimp
@@ -365,125 +310,230 @@ navigation:
       internal: true
     - text: Zoom
       url: zoom/
-      internal:  true
-- text: Policies
-  blurb: |
-    Everyone's gotta have rules.
+      Internal: true
 
-  url: policies/
-  internal: true
-  generated: true
-  children:
-  - text: Code of Conduct
-    url: conduct-policies/
-    internal: true
+  - text: TTS Offices
+    blurb: |
+    We're all one family at TTS, but each of the different offices have their own norms and practices.
+    url:
+    internal:
     generated: true
     children:
-    - text: TTS Code of Conduct
-      url: code-of-conduct/
+    - text: TTS Office of Operations
+      url:
+      internal:
+      children: 
+      - text: Governance and Compliance Division
+        url:
+        internal:
+      - text: Business Operations Division
+        url:
+        internal:
+        children:
+        - text: Ops
+          url: ops/
+          internal: true
+        - text: Agreements
+          url: agreements/
+          internal: true
+        children:
+      - text: Talent Division
+        url:
+        internal:
+        children:
+        - text: Talent
+          url: talent/
+          internal: true
+        - text: Refer a person
+          url: https://handbook.18f.gov/talent/#referring-a-person
+          internal: false
+        - text: Internal TTS Opportunities
+          url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
+          internal: false
+        - text: Top Secret/Sensitive Compartmented Information (TS/SCI)
+          url: top-secret/
+          internal: true
+      - text: Infrastructure
+        url:
+        internal:
+        children:
+ 	- text: Infrastructure
+      	  url: infrastructure/
+      	  internal: true
+        - text: Infrastructure
+          url: intro-to-18f-infrastructure/
+          internal: true
+        - text: Software
+          url: software/
+          internal: true
+      - text: Outreach
+        url:
+        internal:
+        children:
+        - text: Outreach
+          url: outreach/
+          internal: true
+        - text: Social media
+          url: social-media/
+          internal: true
+        - text: Blogging
+          url: blogging/
+          internal: true
+    - text: TTS Office of Acquisitions
+      url:
+      internal:
+      children: 
+      - text: Acquisitions
+        url: acquisition/
+        internal: true
+    - text: 18F
+      url: 
+      internal:
+      children:
+      - text: 18F History and values
+        url: history-and-values/
+        internal: true
+      - text: Mission
+        url: mission/
+        internal: true
+      - text: 18F org chart
+        url: org-chart/
+        internal: true
+      - text: 18F Chapters
+        url:
+        internal:
+        children:
+        - text: Custom Partner Solutions
+          url: custom-partner-solutions/
+          internal: true
+          children:
+          - text: Account management policy
+            url: client-accounts/
+            internal: true
+        - text: Acquisition (aka AcqStack)
+          url: acqstack/
+          internal: true
+        - text: Design
+          url: design/
+          internal: true
+        - text: Engineering
+          url: engineering/
+          internal: true
+        - text: Product +
+          url: product/
+          internal: true
+        - text: Product and open source
+          url: intro-to-product-and-open-source/
+          internal: true
+        - text: Strategy
+          url: strategy/
+          internal: true
+      - text: 18F Platforms
+        url:
+        internal:
+        children:
+	- text: Cloud.gov
+	  url: https://cloud.gov/
+	  internal: false
+	- text: Login.gov
+	  url: https://login.gov/
+	  internal: false
+      - text: 18F Offices
+        url: offices/
+        internal: true
+        children:    
+        - text: Chicago
+          url: chicago/
+          internal: true
+        - text: Distributed
+          url: distributed/
+          internal: true
+        - text: New York City
+          url: new-york-city/
+          internal: true
+        - text: San Francisco
+          url: san-francisco/
+          internal: true
+        - text: Washington, D.C.
+          url: washington-dc/
+          internal: true
+      - text: 18F Labs
+        url: labs/
+        internal: true
+        children:
+        - text: Writing Lab
+          url: writing-lab/
+          internal: true
+        - text: Design Lab
+          url: https://github.com/18F/design-lab
+          internal: false
+        - text: Dev Lab
+          url: 
+          internal: 
+      - text: 18F Team Resources
+        url:
+        internal:
+        children:
+        - text: Bookmarks
+          url: bookmarks/
+          internal: true
+        - text: Doing research at 18F
+          url: research-guidelines/
+          internal: true
+        - text: One-on-ones
+          url: one-on-ones/
+          internal: true
+        - text: Out of Office Expectations
+          url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
+          internal: false
+        - text: Before you ship
+          url: https://before-you-ship.18f.gov/infrastructure/aws/
+          internal: false
+        - text: Open source
+          url: open-source/
+          internal: true
+        - text: Time tracking and billing
+          url: https://handbook.18f.gov/tock/#time-tracking-and-billing
+          internal: false
+    - text: Office of Products and Programs (OPP)
+      url: office-of-products-and-programs/
       internal: true
-
-  - text: Business and Ops
-    url: business-and-ops-policies/
-    internal: true
-    generated: true
-    children:
-    - text: Account management policy
-      url: client-accounts/
-      internal: true
-    - text: Billing policy
-      url: https://docs.google.com/document/d/1Y5MP1jmCuc43pW35zXF-lvQrwDFA9YgQfviWtFcf4ao/edit
+      children:  
+      - text: Office of Products and Programs (OPP)
+        url: office-of-products-and-programs/
+        internal: true
+        children:  
+        - text: Office of Products and Programs (OPP) History
+          url: opp-history/
+          internal: true
+        - text: Office of Products and Programs (OPP) org chart
+          url: opp-org-chart/
+          internal: true
+      - text: Portfolios
+        url: 
+        internal: 
+        children: 
+        - text: Data
+          url:
+          internal: 
+        - text: Innovation
+          url:
+          internal:
+        - text: Public Experience
+          url:
+          internal:
+        - text: Smarter IT
+          url:
+          internal:
+        - text: Secure Cloud
+          url:
+          internal:
+        - text: 10x
+          url:
+          internal:
+    - text: Centers of Excellence (CoE)
+      url: https://coe.gsa.gov/
       internal: false
-    - text: Performance management requirements and timeline
-      url: performance-management/
-      internal: true
-    - text: Top Secret/Sensitive Compartmented Information (TS/SCI)
-      url: top-secret/
-      internal: true
-
-  - text: Tech
-    url: tech-policies/
-    internal: true
-    generated: true
-    children:
-    - text: Before you ship
-      url: https://before-you-ship.18f.gov/infrastructure/aws/
+    - text: Presidential Innovation Fellows (PIF)
+      url: https://presidentialinnovationfellows.gov/
       internal: false
-    - text: FITARA
-      url: fitara/
-      internal: true
-    - text: Open source
-      url: open-source/
-      internal: true
-    - text: Records management
-      url: records-management/
-      internal: true
-    - text: Requirements for Passwords
-      url: password-requirements/
-      internal: true
-    - text: Security incidents
-      url: security-incidents/
-      internal: true
-
-  - text: Travel and Leave
-    url: travel-and-leave-policies/
-    internal: true
-    generated: true
-    children:
-    - text: Leave (HR Links)
-      url: leave/
-      internal: true
-    - text: Travel guide
-      url: travel-guide-start-here/
-      internal: true
-    - text: Virtual Work and Moving
-      url: moving/
-      internal: true
-
-  - text: Employee Resources
-    url: employee-resources-policies/
-    internal: true
-    generated: true
-    children:
-    - text: Benefits links and resources
-      url: benefits-links/
-      internal: true
-    - text: Emergency procedures
-      url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
-      internal: false
-    - text: Employee assistance program
-      url: employee-assistance-program/
-      internal: true
-    - text: Employment verification
-      url: employment-verification/
-      internal: true
-    - text: Merit promotions
-      url: merit-promotions/
-      internal: true
-    - text: Overtime and comp time
-      url: overtime-and-comp-time/
-      internal: true
-    - text: Promotions
-      url: promotions/
-      internal: true
-    - text: Telework guidance
-      url: telework/
-      internal: true
-    - text: Transit benefit
-      url: transit-benefit/
-      internal: true
-
-  - text: Detailing and Offboarding
-    url: detailing-and-offboarding-policies/
-    internal: true
-    generated: true
-    children:
-    - text: Assignments and Details
-      url: assignee-detail/
-      internal: true
-    - text: Leaving TTS
-      url: leaving-tts/
-      internal: true
-    - text: Term extensions
-      url: term-extensions/
-      internal: true
