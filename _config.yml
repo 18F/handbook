@@ -432,12 +432,12 @@ navigation:
         url:
         internal:
         children:
-	- text: Cloud.gov
-	  url: https://cloud.gov/
-	  internal: false
-	- text: Login.gov
-	  url: https://login.gov/
-	  internal: false
+        - text: Cloud.gov
+          url: https://cloud.gov/
+          internal: false
+        - text: Login.gov
+          url: https://login.gov/
+          internal: false
       - text: 18F Offices
         url: offices/
         internal: true
