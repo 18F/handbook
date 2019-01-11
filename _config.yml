@@ -155,12 +155,12 @@ navigation:
     url: travel-and-leave/
     internal: true
     children:
-      - text: Leave (HR Links)
-        url: leave/
-        internal: true
-      - text: Travel guide
-        url: travel-guide-start-here/
-        internal: true
+    - text: Leave (HR Links)
+      url: leave/
+      internal: true     
+    - text: Travel guide
+      url: travel-guide-start-here/
+      internal: true
     - text: Tech
       url: tech-policies/
       internal: true
