@@ -20,6 +20,7 @@ Any purchases for training, see the [training section](https://handbook.18f.gov/
 Please note that for training and conferences, someone from the TTS Ops team will enter the request in C2 on behalf of the requestor. Please be sure to follow the steps in the training section and conferences section linked above. 
 
 C2 user tip: 
+
 * **Purchase Type:** Software/Services/Etc.
 * **Product Name and Description:** Include the specifics of what you are requesting.
 * **Justification:** The justification section is very important. This is how you will get approval from TTS for what you need. It needs to be a strong justification for why you need it and you must include how it is different from something we have already procured and is available for use.
@@ -29,6 +30,7 @@ C2 user tip:
 * **Additional Information:** Include your office/chapter/portfolio and your supervisor’s name.  
 
 After the C2 request is created:
+
 * Add your supervisor as an observer in C2 by scrolling all the way to the bottom where it says “Observers” and typing in their name or email. (If they have never used C2, you may need to request access for them, like you did for yourself at the beginning of the process.) 
 * Then, supervisor adds a comment “Approved” in your C2 request. Please note that for OPP purchases, the OPP Director’s approval is required in addition to the portfolio supervisor’s approval. 
 
