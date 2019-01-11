@@ -4,17 +4,17 @@ title: Tock
 
 tl;dr:
 
-18F staff should only enter time in one of the following categories:
+##18F staff should only enter time in one of the following categories:##
 
-18F Non-Billable Work, Line #968 (Time spent working on non-project work for 18F.)
+**18F Non-Billable Work, Line #968:** Time spent working on non-project work for 18F.
 
-GSA-mandated Non-Billable Work, Line #969 (Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.)
+**GSA-mandated Non-Billable Work, Line #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
 
-18F Out of Office, Line 670
+**18F Out of Office, Line 670:** Vacation time, federal holidays, sick time, etc. 
 
-18F Project work - Numerous Line #s
+**18F Project work - Numerous Line #s:** The specific projects you're working on.
 
-In Depth: 
+##In Depth: ##
 
 We use Tock to track our time.
 
