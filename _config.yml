@@ -114,47 +114,47 @@ navigation:
   url: about-us/
   internal: true
   generated: true
+  
+- text: TTS Policies and Information
+  url: tts-policies-and-information/
+  internal: true
   children:
-  - text: TTS Policies and Information
-    url: tts-policies-and-information/
+  - text: General
+    url: general/
     internal: true
     children:
-    - text: General
-      url: general/
+    - text: TTS Code of Conduct
+      url: code-of-conduct/
+      internal: true
+    - text: TTS org chart
+      url: tts-org-chart/
+      internal: true
+    - text: General contacts and listservs
+      url: general-contacts-and-listservs/
+      internal: true
+    - text: Working groups and guilds
+      url: working-groups-and-guilds-101/
       internal: true
       children:
-      - text: TTS Code of Conduct
-        url: code-of-conduct/
+      - text: Diversity at TTS
+        url: diversity/
         internal: true
-      - text: TTS org chart
-        url: tts-org-chart/
+      - text: Accessibility
+        url: accessibility/
         internal: true
-      - text: General contacts and listservs
-        url: general-contacts-and-listservs/
-        internal: true
-      - text: Working groups and guilds
-        url: working-groups-and-guilds-101/
-        internal: true
-        children:
-        - text: Diversity at TTS
-          url: diversity/
-          internal: true
-        - text: Accessibility
-          url: accessibility/
-          internal: true
-      - text: Glossary
-        url: glossary/
-        internal: true
-      - text: Records management
-        url: records-management/
-        internal: true
-      - text: Washington, D.C. Office
-        url: washington-dc/
-        internal: true
-    - text: Travel and Leave
-      url: travel-and-leave/
+    - text: Glossary
+      url: glossary/
       internal: true
-      children:
+    - text: Records management
+      url: records-management/
+      internal: true
+    - text: Washington, D.C. Office
+      url: washington-dc/
+      internal: true
+  - text: Travel and Leave      
+    url: travel-and-leave/
+    internal: true
+    children:
       - text: Leave (HR Links)
         url: leave/
         internal: true
