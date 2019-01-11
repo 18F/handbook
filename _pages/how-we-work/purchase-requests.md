@@ -17,7 +17,7 @@ Any purchases for training, see the [training section](https://handbook.18f.gov/
 
 [C2](http://requests.18f.govis used for all purchase requests under $10,000). In order to use C2, you will need to get an account set up. Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZfBRRO_mBz2wwBHJTufi6kWONQhc64otCAYBCKV8keDvXVA/viewform) and you will be set up within one to two business days. Once you are set up in C2, you will be able to make either an event request (for training and conferences)* or a purchase request (for anything else). All requests must be approved by a supervisor before submitting in C2. Do not make a purchase on your own because you will not be reimbursed! Please follow the below instructions to make your request.   
 
-Please note that for training and conferences, someone from the TTS Ops team will enter the request in C2 on behalf of the requestor. Please be sure to follow the steps in the training section and conferences section linked above. 
+Please note that for training and conferences, someone from the TTS Ops team will enter the request in C2 on behalf of the requestor. Please be sure to follow the steps in the training section and conferences section linked [above](https://handbook.18f.gov/purchase-requests/#training-and-conferences-regardless-of-cost). 
 
 C2 user tip: 
 
