@@ -336,7 +336,6 @@ navigation:
         - text: Agreements
           url: agreements/
           internal: true
-        children:
       - text: Talent Division
         url: talent-division/
         internal: true
@@ -442,11 +441,11 @@ navigation:
         url: offices/
         internal: true
         children:    
-        - text: Chicago
-          url: chicago/
-          internal: true
         - text: Distributed
           url: distributed/
+          internal: true
+        - text: Chicago
+          url: chicago/
           internal: true
         - text: New York City
           url: new-york-city/
