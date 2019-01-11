@@ -314,7 +314,7 @@ navigation:
 
   - text: TTS Offices
     blurb: |
-    We're all one family at TTS, but each of the different offices have their own norms and practices.
+      We're all one family at TTS, but each of the different offices have their own norms and practices.
     url: tts-offices/
     internal: true
     generated: true
