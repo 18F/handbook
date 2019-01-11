@@ -118,6 +118,7 @@ navigation:
   - text: TTS Policies and Information
     url: tts-policies-and-information/
     internal: true
+    children:
     - text: General
       url: general/
       internal: true
