@@ -108,3 +108,128 @@ navigation:
   - text: GitHub 101
     url: intro-to-github/
     internal: true
+- text: About us
+  blurb: |
+    [Technology Transformation Services (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
+  url: about-us/
+  internal: true
+  generated: true
+  children:
+  - text: TTS Policies and Information
+    url: tts-policies-and-information/
+    internal: true
+    - text: General
+      url: general/
+      internal: true
+      children:
+      - text: TTS Code of Conduct
+        url: code-of-conduct/
+        internal: true
+      - text: TTS org chart
+        url: tts-org-chart/
+        internal: true
+      - text: General contacts and listservs
+        url: general-contacts-and-listservs/
+        internal: true
+      - text: Working groups and guilds
+        url: working-groups-and-guilds-101/
+        internal: true
+        children:
+        - text: Diversity at TTS
+          url: diversity/
+          internal: true
+        - text: Accessibility
+          url: accessibility/
+          internal: true
+      - text: Glossary
+        url: glossary/
+        internal: true
+      - text: Records management
+        url: records-management/
+        internal: true
+      - text: Washington, D.C. Office
+        url: washington-dc/
+        internal: true
+    - text: Travel and Leave
+      url: travel-and-leave/
+      internal: true
+      children:
+      - text: Leave (HR Links)
+        url: leave/
+        internal: true
+      - text: Travel guide
+        url: travel-guide-start-here/
+        internal: true
+    - text: Tech
+      url: tech-policies/
+      internal: true
+      generated: true
+      children:
+      - text: FITARA
+        url: fitara/
+        internal: true 
+      - text: Requirements for Passwords
+        url: password-requirements/
+        internal: true
+      - text: Security incidents
+        url: security-incidents/
+        internal: true
+      - text: Sensitive information
+        url: sensitive-information/
+        internal: true
+    - text: Employee Resources
+      url: employee-resources-policies/
+      internal: true
+      generated: true
+      children:
+      - text: Benefits links and resources
+        url: benefits-links/
+        internal: true
+      - text: Emergency procedures
+        url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
+        internal: false
+      - text: Employee assistance program
+        url: employee-assistance-program/
+        internal: true
+      - text: Employment verification
+        url: employment-verification/
+        internal: true
+      - text: Merit promotions
+        url: merit-promotions/
+        internal: true
+      - text: Overtime and comp time
+        url: overtime-and-comp-time/
+        internal: true
+      - text: Promotions
+        url: promotions/
+        internal: true
+      - text: Telework guidance
+        url: telework/
+        internal: true
+        children: 
+        - text: Virtual work and moving
+          url: moving/
+          internal: true
+      - text: Transit benefit
+        url: transit-benefit/
+        internal: true
+      - text: Purchase requests
+        url: purchase-requests/
+        internal: true
+      - text: Attending or speaking at a conference
+        url: attending-conferences/
+        internal: true
+    - text: Detailing and Offboarding
+      url: detailing-and-offboarding-policies/
+      internal: true
+      generated: true
+      children:
+      - text: Assignments and Details
+        url: assignee-detail/
+        internal: true
+      - text: Leaving TTS
+        url: leaving-tts/
+        internal: true
+      - text: Term extensions
+        url: term-extensions/
+        internal: true
