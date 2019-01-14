@@ -357,9 +357,9 @@ navigation:
         internal: true
         generated: true
         children:
-      	- text: Infrastructure
-      	  url: infrastructure/
-      	  internal: true
+        - text: Infrastructure
+          url: infrastructure/
+          internal: true
         - text: Infrastructure
           url: intro-to-18f-infrastructure/
           internal: true
