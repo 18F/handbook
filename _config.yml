@@ -355,6 +355,7 @@ navigation:
       - text: Infrastructure
         url: infrastructure/
         internal: true
+        generated: true
         children:
       	- text: Infrastructure
       	  url: infrastructure/
