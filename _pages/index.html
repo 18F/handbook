@@ -26,9 +26,11 @@ layout: null
             {% if nav.blurb %}<p>{{ nav.blurb }}</p>{% endif %}
 
             {% unless nav.children == nil %}
+            {% include nav-item.html children=nav.children heading_level=2 %}
               <ol class="toc-nav-children">
                 {% for child in nav.children %}
                   {% if child.children != nil %}
+                  {% assign children = child.children %}
                   <li id="{{ child.text | slugify }}" class="toc-nav-child-with-children {{ child.text | slugify }}">
                     {{ child.text }}
                     <ol class="toc-nav-grandchildren">

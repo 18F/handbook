@@ -1,0 +1,18 @@
+{% if include.children.size > 0 %}
+<ol class="toc-nav-children toc-nav-children-level-{{ include.heading_level }}">
+  {% assign heading = "h" | append: include.heading_level %}
+  {% for child in include.children %}
+    <li id="{{ child.text | slugify }}" class="toc-nav-child-with-children {{ child.text | slugify }}">
+    {% if child.children != nil %}
+      <{{ heading }}>
+        {{ child.text }}
+      </{{ heading }}>
+      {% assign next_level = include.heading_level | plus: 1 %}
+      {% include nav-item.html children=child.children heading_level=next_level %}
+      {% else %}
+        <a href="{% if child.internal %}{{ site.baseurl }}/{% endif %}{{ child.url }}">{{ child.text }}</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ol>
+{% endif %}
