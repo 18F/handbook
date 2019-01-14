@@ -65,9 +65,42 @@ See the software page.
 
 See the [equipment](https://handbook.18f.gov/equipment/) page.
 
+### Services
 
+Examples of services TTS has procured:
 
+* Engineering support
+* Bug Bounty
+* PMO support
+* 3PAO service
 
+Please follow the recommended steps below when ordering services under $10,000:
 
+1. Please make a copy of this RFQ template then fill it out. 
+2. Once filled out, transfer the ownership of the RFQ to the TTS Micro-Purchase Project Manager (PM). Then submit the link to them via Slack. See the POC section for contact information. 
+3. Once received by the TTS Micro-Purchase PM, the RFQ will be reviewed by the OA Director. Please be ready to address any questions, comments, or feedback at your earliest convenience. 
+4. After the RFQ is approved by the OA Director, please send it to the appropriate vendor(s) and cc TTS Micro-Purchase PM and OA Director. When sending the RFQ to vendor(s), keep in mind:
+  * If they’ve been government employees who worked in TTS within the past two years, we can’t hire them. 
+  * Spread the wealth - this is not a formal rule or policy, but you don’t want to go back to the same person for every purchase, because that raises flags.
+  * Make sure the vendor can accept payment via government purchase card (aka credit card) - this seems easy but isn’t always the case.
+5. Receive a quote from the vendor. When reviewing the quote, please keep in mind: 
+  * The requirement cannot exceed the micro-purchase threshold for the same service within a twelve-month period. 
+  * You can’t pay for similar services from both vendor A and B if the scope is the same and the combined cost exceeds the micro-purchase threshold within a twelve-month period. This is considered splitting purchases.
+  * You need to avoid scope creep (adding extra work to the original agreement) that would go over the threshold.
+  * If you need any assistance with negotiations, please contact the TTS Micro-Purchase PM and the OA Director.
+6. Follow the C2/P-Card Purchase protocol, then do the following:
+  * Add the TTS Micro-Purchase PM and the TTS OA Director as observers to the request. You can do this by scrolling all the way to the bottom of the C2 page to where it says “Observers” and typing in their names or emails.
+  * Attach the RFQ and vendor quote to the C2 request.
+  
+#### Services POC 
 
-*Got questions? Ask [#c2-purchase-questions](https://gsa-tts.slack.com/messages/C0E1APHGU/)*, [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
+**TTS Micro-Purchase Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov) Slack: @melanie
+**TTS Office of Acquisition Director:** Esther Praske [esther.praske@gsa.gov](mailto:tts-purchasers@gsa.gov)
+
+#### Questions about Services?
+
+Go to slack [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy/).
+
+### Questions? 
+
+Any questions? Slack [#c2-purchase-questions](https://gsa-tts.slack.com/messages/c2-purchase-questions/)*, [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/).
