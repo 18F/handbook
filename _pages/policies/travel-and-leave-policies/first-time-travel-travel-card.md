@@ -7,11 +7,11 @@ navtitle: First-Time Travel Get a Travel Card
 [Back to Last Step](/first-time-travel-get-in-concur-pre-olu)
 [Next to Complete Concur Profile](/first-time-travel-complete-concur-profile)
 
-A GSA Travel card will help you pay for lodging, taxis and other miscellaneous expenses while on your trip.
+A GSA travel card will help you pay for lodging, taxis, and other miscellaneous expenses while on your trip.
 
 While new employees may travel without one, it is required that everyone at 18F has one as soon as possible.
 
-### 1. Complete Card Training
+### 1. Complete card training
 
 _Est. time: 60 minutes_
 
@@ -40,9 +40,9 @@ _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
 2. Save the doc as “Your Name STCAF”
 
-### 3. Send both of the training certificates and the STCAF form as attachments to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
+### 3. Send both of the training certificates and the STCAF form as attachments to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov)
 
-### 4. Wait for an email response from the Travel team.
+### 4. Wait for an email response from the travel team
 
 This may take 1-2 business days.
 
@@ -52,14 +52,13 @@ This may take 1-2 business days.
 ### 5. Receive your card in the mail
 
 * Wait 7-10 business days for processing and shipping.
-* You will receive Travel Card in the mail at your listed address (should be your home address).
+* You will receive a travel card in the mail at your listed address (should be your home address).
 
-### 6. Activate your card.
+### 6. Activate your card
 
 [Next Step: Complete Your Concur Profile](/first-time-travel-complete-concur-profile)
 
-
-#### Having Trouble
+#### Having trouble?
 
 *Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
 
