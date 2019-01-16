@@ -7,11 +7,11 @@ navtitle: First-Time Travel Get a Travel Card
 [Back to Last Step](/first-time-travel-get-in-concur-pre-olu)
 [Next to Complete Concur Profile](/first-time-travel-complete-concur-profile)
 
-A GSA Travel card will help you pay for lodging, taxis and other miscellaneous expenses while on your trip.
+A GSA travel card will help you pay for lodging, taxis, and other miscellaneous expenses while on your trip.
 
 While new employees may travel without one, it is required that everyone at 18F has one as soon as possible.
 
-### 1. Complete Card Training
+### 1. Complete card training
 
 _Est. time: 60 minutes_
 
@@ -40,33 +40,25 @@ _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
 2. Save the doc as “Your Name STCAF”
 
-### 3. Send both of the training certificates and the STCAF form as attachments to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
+### 3. Send both of the training certificates and the STCAF form as attachments to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov)
 
-### 4. Wait for an email response from the Travel team.
+### 4. Wait for an email response from the travel team
 
 This may take 1-2 business days.
 
-1. Once you’ve gotten the go-ahead, start the Citibank Online Travel Card application
- [here](https://home.cards.citidirect.com/CommercialCard/Cards.html?classic=2). [_Having Trouble?_](#having-trouble). Follow the instructions attached with the email.
-1. In page 4 of the instructions, you’ll be asked for a GSA phone number of record. It sounds counterintuitive, but **if you do not have a government-issued phone, you can use the last four digits of your social security number.** Otherwise, use your GSA phone number.
-1. In page 5 of the instructions, You’ll need to provide a code for your location. Use Central Office.
+1. Once you’ve gotten the go-ahead, you’ll receive two emails, one with a link to fill out a US Bank signup form and the second with an access code which will be required to see the form. [_Having Trouble?_](#having-trouble). Follow the instructions attached with the email.
 1. Reply to the email and c.c. tts-travel@gsa.gov to ensure that it gets processed!
 
 ### 5. Receive your card in the mail
 
 * Wait 7-10 business days for processing and shipping.
-* You will receive Travel Card in the mail at your listed address (should be your home address).
+* You will receive a travel card in the mail at your listed address (should be your home address).
 
-### 6. Activate your card.
+### 6. Activate your card
 
 [Next Step: Complete Your Concur Profile](/first-time-travel-complete-concur-profile)
 
+#### Having trouble?
 
-#### Having Trouble
-The instructions for the application can be found [here](https://drive.google.com/open?id=0B0Kck5dqF_EbUmVoNTFPZl9tNWc)
+*Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
 
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
-
-
-#### Check Card Balance
-If you need to check your card balance, you can do so [online](https://home.cards.citidirect.com/CommercialCard/Cards.html) or by the phone number on the back of your card. 
