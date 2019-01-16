@@ -72,6 +72,7 @@ jekyll_get:
 
 navigation:
 - text: Welcome to TTS
+  internal: true
   blurb: |
     Here's what you need to know in your first week.
   children:
