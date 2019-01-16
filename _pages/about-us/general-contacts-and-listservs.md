@@ -66,7 +66,7 @@ Information you might need for filling out GSA forms:
 - FBOpen project: [fbopen@gsa.gov](mailto:fbopen@gsa.gov)
 - Open Opportunities project: [openopps@gsa.gov](mailto:openopps@gsa.gov)
 - MyUSA project: [myusa@gsa.gov](mailto:myusa@gsa.gov)
-- Draft U.S. Web Design Standards: [govtwidepatternlibrary@gsa.gov](mailto:govtwidepatternlibrary@gsa.gov)
+- U.S. Web Design System: [uswds@gsa.gov](mailto:uswds@gsa.gov)
 
 ### Contacting OPP outside of TTS
 
