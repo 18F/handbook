@@ -1046,6 +1046,22 @@ a[id]{
 	padding-top: 0.6em;
 }
 
+.toc-nav-children-level-3 {
+  padding-left: 1rem;
+}
+
+.toc-nav-children-level-4 {
+  padding-left: 2rem;
+}
+
+.toc-nav-children-level-5 {
+  padding-left: 3rem;
+}
+
+.toc-nav-children-level-6 {
+  padding-left: 4rem;
+}
+
 .layout-table-of-contents .wrapper ol li.policies{
 	padding-bottom: 1em;
 }
