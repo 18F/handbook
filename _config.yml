@@ -298,20 +298,11 @@ navigation:
 - text: TTS Offices
   blurb: |
     We’re all one family at TTS, but each of the different offices have their own norms and practices. Read more here.
-  url: tts-offices/
-  internal: true
-  generated: true
   children:
     - text: TTS Office of Operations
-      url: tts-office-of-operations/
-      internal: true
       children: 
       - text: Governance and Compliance Division
-        url: governance-and-compliance-division/
-        internal: true
       - text: Business Operations Division
-        url: business-operations-division/
-        internal: true
         children:
         - text: Ops
           url: ops/
@@ -320,8 +311,6 @@ navigation:
           url: agreements/
           internal: true
       - text: Talent Division
-        url: talent-division/
-        internal: true
         children:
         - text: Talent
           url: talent/
@@ -336,9 +325,6 @@ navigation:
           url: top-secret/
           internal: true
       - text: Infrastructure
-        url: infrastructure/
-        internal: true
-        generated: true
         children:
         - text: Infrastructure
           url: infrastructure/
@@ -350,8 +336,6 @@ navigation:
           url: software/
           internal: true
       - text: Outreach
-        url: outreach/
-        internal: true
         children:
         - text: Outreach
           url: outreach/
@@ -363,15 +347,11 @@ navigation:
           url: blogging/
           internal: true
     - text: TTS Office of Acquisitions
-      url: tts-office-of-acquisitions/
-      internal: true
       children: 
       - text: Acquisitions
         url: acquisition/
         internal: true
     - text: 18F
-      url: 18f/
-      internal: true
       children:
       - text: 18F History and values
         url: history-and-values/
@@ -383,8 +363,6 @@ navigation:
         url: org-chart/
         internal: true
       - text: 18F Chapters
-        url: chapters/
-        internal: true
         children:
         - text: Custom Partner Solutions
           url: custom-partner-solutions/
@@ -412,8 +390,6 @@ navigation:
           url: strategy/
           internal: true
       - text: 18F Platforms
-        url: platforms/
-        internal: true
         children:
         - text: Cloud.gov
           url: https://cloud.gov/
@@ -422,8 +398,6 @@ navigation:
           url: https://login.gov/
           internal: false
       - text: 18F Offices
-        url: offices/
-        internal: true
         children:    
         - text: Distributed
           url: distributed/
@@ -441,8 +415,6 @@ navigation:
           url: washington-dc/
           internal: true
       - text: 18F Labs
-        url: labs/
-        internal: true
         children:
         - text: Writing Lab
           url: writing-lab/
@@ -454,8 +426,6 @@ navigation:
           url: dev-lab/
           internal: true
       - text: 18F Team Resources
-        url: 18f-resources/
-        internal: true
         children:
         - text: Bookmarks
           url: bookmarks/
@@ -479,22 +449,18 @@ navigation:
           url: https://handbook.18f.gov/tock/#time-tracking-and-billing
           internal: false
     - text: Office of Products and Programs (OPP)
-      url: office-of-products-and-programs/
-      internal: true
       children:  
-      - text: Office of Products and Programs (OPP)
+      - text: About OPP
         url: office-of-products-and-programs/
         internal: true
         children:  
-        - text: Office of Products and Programs (OPP) History
+        - text: OPP History
           url: opp-history/
           internal: true
-        - text: Office of Products and Programs (OPP) org chart
+        - text: OPP org chart
           url: opp-org-chart/
           internal: true
       - text: Portfolios
-        url: portfolios/
-        internal: true
         children: 
         - text: Data
           url: data/
