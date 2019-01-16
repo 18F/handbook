@@ -74,9 +74,11 @@ navigation:
 - text: Table of Contents
   internal: true
 - text: Welcome to TTS
-  internal: true
   blurb: |
     Here's what you need to know in your first week.
+  url: welcome-to-TTS/
+  internal: true
+  generated: true
   children:
   - text: Welcome
     url: welcome-letter/
@@ -146,8 +148,6 @@ navigation:
         internal: true
 
     - text: Travel and Leave
-      url: travel-and-leave/
-      internal: true
       children:
       - text: Leave (HR Links)
         url: leave/
@@ -156,9 +156,6 @@ navigation:
         url: travel-guide-start-here/
         internal: true
     - text: Tech
-      url: tech-policies/
-      internal: true
-      generated: true
       children:
       - text: FITARA
         url: fitara/
@@ -173,9 +170,6 @@ navigation:
         url: sensitive-information/
         internal: true
     - text: Employee Resources
-      url: employee-resources-policies/
-      internal: true
-      generated: true
       children:
       - text: Benefits links and resources
         url: benefits-links/
@@ -215,9 +209,6 @@ navigation:
         url: attending-conferences/
         internal: true
     - text: Detailing and Offboarding
-      url: detailing-and-offboarding-policies/
-      internal: true
-      generated: true
       children:
       - text: Assignments and Details
         url: assignee-detail/
@@ -230,9 +221,6 @@ navigation:
         internal: true
 
   - text: TTS Tools
-    url: tools/
-    internal: true
-    generated: true
     children:
     - text: Meetings and meeting tools
       url: meetings-and-meeting-tools/
@@ -307,13 +295,13 @@ navigation:
       url: zoom/
       Internal: true
 
-  - text: TTS Offices
-    blurb: |
-      We're all one family at TTS, but each of the different offices have their own norms and practices.
-    url: tts-offices/
-    internal: true
-    generated: true
-    children:
+- text: TTS Offices
+  blurb: |
+    We’re all one family at TTS, but each of the different offices have their own norms and practices. Read more here.
+  url: tts-offices/
+  internal: true
+  generated: true
+  children:
     - text: TTS Office of Operations
       url: tts-office-of-operations/
       internal: true
