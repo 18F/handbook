@@ -1052,11 +1052,13 @@ a[id]{
 }
 
 .toc-nav-children-level-3 {
-  padding-top: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 1em;
 }
 
 .toc-nav-children-level-4 {
   padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .toc-nav-children-level-5 {
@@ -1111,13 +1113,12 @@ a[id]{
 .layout-table-of-contents ol h3{
 	font-size: 20px;
 	font-weight: 600;
+	margin-bottom: 0.4em;
 }
 
 .layout-table-of-contents ol h4{
 	font-size: 18px;
-	font-weight: 600;
-	padding-top: 0.5em;
-	padding-bottom: 1em;
+	font-weight: normal;
 }
 
 /* @end */
