@@ -71,12 +71,9 @@ jekyll_get:
     json: 'https://digital.gov/communities/index.json'
 
 navigation:
-- text: Table of Contents
-  internal: true
 - text: Welcome to TTS
   blurb: |
     Here's what you need to know in your first week.
-  url: welcome-to-TTS/
   children:
       - text: Welcome
         url: welcome-letter/
