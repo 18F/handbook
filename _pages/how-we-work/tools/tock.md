@@ -4,7 +4,7 @@ title: Tock
 
 ## Quick reference for 18F staff
 
-**18F staff should only enter time in one of the following categories:**
+**18F staff should only enter time in the following categories:**
 
 - **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F.
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
