@@ -1212,3 +1212,29 @@ a[id]{
 /* @end */
 
 /* @end */
+
+
+h1 {
+  color: darkblue;
+  font-size: 3rem;
+}
+
+h2 {
+  color: blue;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: royalblue;
+  font-size: 2rem;
+}
+
+h4 {
+  color: deepskyblue;
+  font-size: 1.5rem;
+}
+
+h5 {
+  color: lightskyblue;
+  font-size: 1.3rem;
+}
