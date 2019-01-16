@@ -1,6 +1,6 @@
 ---
 status: Up-to-date
-updated: May 9, 2017
+updated: Jan 16, 2019
 ---
 
 # Benefits
@@ -14,6 +14,7 @@ The following holidays are observed by CivicActions and the office is considered
 *   Memorial Day . . . . . . . . . . . . . . . . . . Last Monday in May
 *   Independence Day . . . . . . . . . . . . . . July 4th
 *   Labor Day . . . . . . . . . . . . . . . . . . . . . . First Monday in September
+*   Veterans Day . . . . . . . . . . . . . . . . . . November 11th
 *   Thanksgiving . . . . . . . . . . . . . . . . . . . Fourth Thursday in November and the following Friday
 *   Christmas . . . . . . . . . . . . . . . . . . . . . . December 25th
 
