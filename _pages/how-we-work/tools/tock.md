@@ -2,25 +2,22 @@
 title: Tock
 ---
 
-tl;dr:
+## Quick reference for 18F staff
 
-##18F staff should only enter time in one of the following categories:##
+**18F staff should only enter time in one of the following categories:**
 
-**18F Non-Billable Work, Line #968:** Time spent working on non-project work for 18F.
+- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F.
+- **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
+- **18F Out of Office - #670:** Vacation time, federal holidays, or sick time 
+- **18F Project work - project ID varies:** The specific projects you're working on.
 
-**GSA-mandated Non-Billable Work, Line #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
-
-**18F Out of Office, Line 670:** Vacation time, federal holidays, sick time, etc. 
-
-**18F Project work - Numerous Line #s:** The specific projects you're working on.
-
-##In Depth: ##
+## What is Tock, and why do we use it?
 
 We use Tock to track our time.
 
 To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
 
-TTS's business model is based on billing for time logged to a project. Every expense -- salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on -- is paid for by our billing, which is recorded by each person in Tock.
+TTS's business model is based on billing for time logged to a project. Every expense — salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on — is paid for by our billing, which is recorded by each person in Tock.
 
 We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
 
@@ -28,7 +25,7 @@ You must review and submit your timecard each week. Tock will pre-populate your 
 
 Timecards are due by the end of day (close of business) on Friday. If you fail to submit your timecard on time, your manager will bug you until you get it done! Timecards for the current week should be available no later than Monday at 9AM PST.
 
-## Creating Tock Projects
+## Creating Tock projects
 
 There are two kinds of Tock projects, billable and non-billable. Tock projects can only be created by TTS Operations staff. Request the creation of a project in [#tock](https://gsa-tts.slack.com/messages/tock).
 
@@ -38,7 +35,7 @@ Billable projects can only be created after an agreement has been signed. TTS Op
 * A 2-3 sentence description of the project.
 * The name of the project manager for the project.
 
-## Time Tracking and Billing
+## Time tracking and billing
 
 ### What activities do I record billable hours for?
 
@@ -130,7 +127,7 @@ While we appreciate that you're trying to protect the budget, there is no need f
 
 In short, we need to know if our scoping is accurate. We'd rather be over budget and have our teams delivering value than be under budget and hiding how many hours it truly takes to deliver on our engagements.
 
-## Other Questions
+## Other questions
 
 ### Why is my list of “Reporting Periods You Need to Fill Out” really long?
 
