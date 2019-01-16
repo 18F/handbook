@@ -27,20 +27,28 @@ layout: null
 
             {% unless nav.children == nil %}
             {% for child in nav.children %}
-              <h2>{{ child.text }}</h2>
+              <h2 id="{{ child.text | slugify }}">
+                {% include nav-link.html %}
+              </h2>
               {% if child.children.size > 0 %}
               <ol class="toc-nav-children-level-3">
               {% for child in child.children %}
                 {% if child.children.size > 0 %}
-                <h3>{{ child.text }}</h3>
+                <h3 id="{{ child.text | slugify }}">
+                  {% include nav-link.html %}
+                </h3>
                 <ol class="toc-nav-children-level-4">
                 {% for child in child.children %}
                   {% if child.children.size > 0 %}
-                    <h4>{{ child.text }}</h4>
+                    <h4 id="{{ child.text | slugify }}">
+                      {% include nav-link.html %}
+                    </h4>
                     <ol class="toc-nav-children-level-5">
                     {% for child in child.children %}
                       {% if child.children.size > 0 %}
-                        <h5>{{ child.text }}</h5>
+                        <h5 id="{{ child.text | slugify }}">
+                          {% include nav-link.html %}
+                        </h5>
                         <ol class="toc-nav-children-level-6">
                         {% for child in child.children %}
                           {% include nav-item.html child=child %}

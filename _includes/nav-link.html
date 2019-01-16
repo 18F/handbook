@@ -1,0 +1,7 @@
+{% if include.child.url %}
+<a href="{% if include.child.internal %}{{ site.baseurl }}/{% endif %}{{ include.child.url }}">
+{% endif %}
+  {{ include.child.text }}
+{% if include.child.url %}
+</a>
+{% endif %}
