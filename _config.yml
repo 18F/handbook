@@ -77,12 +77,10 @@ navigation:
   blurb: |
     Here's what you need to know in your first week.
   url: welcome-to-TTS/
-  internal: true
-  generated: true
   children:
-  - text: Welcome
-    url: welcome-letter/
-    internal: true
+      - text: Welcome
+        url: welcome-letter/
+        internal: true
   - text: Onboarding schedule
     url: onboarding-schedule/
     internal: true
@@ -115,12 +113,8 @@ navigation:
   generated: true
   children:
   - text: TTS Policies and Information
-    url: tts-policies-and-information/
-    internal: true
     children:
     - text: General
-      url: general/
-      internal: true
       children:
       - text: TTS Code of Conduct
         url: code-of-conduct/
