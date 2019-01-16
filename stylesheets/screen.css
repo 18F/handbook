@@ -1046,6 +1046,11 @@ a[id]{
 	padding-top: 0.6em;
 }
 
+
+.toc-nav-children-level-2 {
+  padding-top: 1em;
+}
+
 .toc-nav-children-level-3 {
   padding-left: 1rem;
 }
@@ -1095,10 +1100,19 @@ a[id]{
 	color: #51322a;
 }
 
-.layout-table-of-contents ol li:first-of-type h1{
-	border-top: none;
-	margin-top: 0;
-	padding-top: 1.4em;
+.layout-table-of-contents ol h2{
+	font-size: 22px;
+	font-weight: 600;
+	margin-bottom: 0.4em;
+	margin-top: 1em;
+	color: #51322a;
+}
+
+.layout-table-of-contents ol h3{
+	font-size: 18px;
+	font-weight: 600;
+	padding-top: 0.8em;
+	margin-bottom: 0.4em;
 }
 
 /* @end */
