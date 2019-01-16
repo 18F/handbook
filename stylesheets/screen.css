@@ -1101,7 +1101,7 @@ a[id]{
 }
 
 .layout-table-of-contents ol h2{
-	font-size: 22px;
+	font-size: 24px;
 	font-weight: 600;
 	margin-bottom: 0.4em;
 	margin-top: 1em;
@@ -1109,10 +1109,15 @@ a[id]{
 }
 
 .layout-table-of-contents ol h3{
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.layout-table-of-contents ol h4{
 	font-size: 18px;
 	font-weight: 600;
-	padding-top: 0.8em;
-	margin-bottom: 0.4em;
+	padding-top: 0.5em;
+	padding-bottom: 1em;
 }
 
 /* @end */
