@@ -34,7 +34,7 @@ After the C2 request is created:
 * Add your supervisor as an observer in C2 by scrolling all the way to the bottom where it says “Observers” and typing in their name or email. (If they have never used C2, you may need to request access for them, like you did for yourself at the beginning of the process.) 
 * Then, supervisor adds a comment “Approved” in your C2 request. Please note that for OPP purchases, the OPP Director’s approval is required in addition to the portfolio supervisor’s approval. 
 
-### Business Cards
+### Business cards
 
 To make best use of our resources, we use business cards sparingly. However, if you expect to use them for outreach or a specific meeting with partners, you can request standard GSA business cards, which don’t reflect TTS or 18F branding.
 
@@ -46,7 +46,7 @@ To initiate your request,
 
 If you want TTS/18F branding, you must purchase your own business cards. However, please get a final approval from the TTS Outreach team before placing the order. 
 
-### Office Supplies
+### Office supplies
 
 Anyone working in an 18F office may request a purchase of office supplies by creating a new purchase request in C2. Be sure to add one of the TTS Ops team points of contact (POC) below as an observer to your request:
 
@@ -97,7 +97,7 @@ Please follow the recommended steps below when ordering services under $10,000:
 **TTS Micro-Purchase Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov) Slack: @melanie
 **TTS Office of Acquisition Director:** Esther Praske [esther.praske@gsa.gov](mailto:tts-purchasers@gsa.gov)
 
-#### Questions about Services?
+#### Questions about services?
 
 Go to slack [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy/).
 
