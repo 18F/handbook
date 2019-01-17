@@ -25,23 +25,9 @@ If TTS does not have licenses, GSA might. You will need to check to see if GSA I
 If your software is in the Catalog, fill out the rest of the form to request a license.
 If the software is not in the Catalog or you request a license and there are none available, you will need to fill out a C2 request for TTS to purchase the software.
 
-## Step 4: get set up in C2
+## Step 4: use C2 to make a request
 
-If you don’t have a C2 account, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZfBRRO_mBz2wwBHJTufi6kWONQhc64otCAYBCKV8keDvXVA/viewform) and you will be set up in C2 within one to two business days.
-
-## Step 5: make a request in C2
-
-To make a request, go to [C2](https://requests.18f.gov/) and make a [new purchase request](https://requests.18f.gov/gsa18f/procurements/new).
-
-Here's the information you'll need to provide in C2: 
-
-* **Purchase Type:** Software/Services/Etc.
-* **Product Name and Description:** Include the specifics of what you are requesting.
-* **Justification:** The justification section is very important. This is how you will get approval from TTS for what you need. It needs to be a strong justification for why you need it and you must include how it is different from something we have already procured and is available for use.
-* **Link to Product:** Provide a link to the product website, if available.  
-* **Cost per unit:** If the product costs less than $3,500 per unit, then you must enter the unit price (and not the total price) here. If the product costs over $3,500 per unit (still must be under $10,000), then you will need to enter the amount as $3,500 and put the actual amount in the description for now (we are working to update C2 accordingly).
-* **Quantity:** Include the quantity of what you are requesting.
-* **Additional Information:** Include your office/chapter/portfolio and your supervisor’s name.  
+[Get access to C2 and make a request](/purchase-requests/#c2), then come back here.
 
 After you make the C2 request:
 
