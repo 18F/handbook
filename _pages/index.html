@@ -31,13 +31,13 @@ layout: null
                 {% include nav-link.html %}
               </h2>
               {% if child.children.size > 0 %}
-              <ol class="toc-nav-children-level-3">
+              <ol class="toc-nav-children toc-nav-children-level-3">
               {% for child in child.children %}
                 {% if child.children.size > 0 %}
                 <h3 id="{{ child.text | slugify }}">
                   {% include nav-link.html %}
                 </h3>
-                <ol class="toc-nav-children toc-nav-children-level-4">
+                <ol class="toc-nav-children-level-4">
                 {% for child in child.children %}
                   {% if child.children.size > 0 %}
                     <h4 id="{{ child.text | slugify }}">
