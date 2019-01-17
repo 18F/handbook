@@ -22,7 +22,7 @@ The official GSA processes for moving and for full-time teleworking have recentl
 
 * [A full-time telework employee who is moving to a new full-time telework location](/moving/#a-full-time-telework-arrangement-is-needed) 
 * [A full-time telework employee who is moving to one of our offices (DC, CHI, NYC or SFO)](/moving/#effective-date)
-* [An office employee who is moving to a full-time telework location](/moving/##a-full-time-telework-arrangement-is-needed)
+* [An office employee who is moving to a full-time telework location](/moving/#a-full-time-telework-arrangement-is-needed)
 * [An office employee who is moving to a different office](/moving/#effective-date)
 * [An office employee who's home address is changing but not their work location](/moving/#change-your-address)
 
