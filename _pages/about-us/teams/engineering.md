@@ -73,9 +73,9 @@ See [the org chart](/org-chart).
 
 ### What is expected of me regarding time tracking and how I spend my time?
 
-The default template for 18F engineers is to be committed to a single project full-time, which means 32 hours a week. If you'd like a different arrangement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
+The default expectation for 18F engineers is to be committed to a single project full-time, which means 32 hours a week. If you'd like a different arrangement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
 
-Your project commitments should be captured by the [#staffing-resourcing](https://gsa-tts.slack.com/messages/staffing-resourcing/) team. On a typical week the number of hours you work on your project will match what is marked in Float. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
+Your project commitments should be captured by the [#staffing-resourcing](https://gsa-tts.slack.com/messages/staffing-resourcing/) team. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
 
 All 18F staff track their time in [Tock](https://tock.18f.gov/). Learn more in the [Tock guide](/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
 
@@ -91,18 +91,7 @@ Your facilitator is responsible for making sure you have the right amount and ki
 
 Thanks for wanting to participate in hiring! In order to review resumes, GSA requires that you be a Subject Matter Expert (SME), which involves a small amount of training. You don't need to be a SME to be an interviewer.
 
-To do either or both, please get in touch with [Esther Chang](https://gsa-tts.slack.com/team/esther).
-
-### How can I participate in a technical evaluation for projects in intake?
-
-Tech eval requests are posted in the [staffing-and-resources repository](https://github.com/18F/staffing-and-resources/issues). Look for any tagged with the Engineering chapter. Comment on the issue to express your interest.
-
-### I have an idea for a project we should pursue. How do I make it a reality?
-
-You’re  encouraged to identify areas where government can be made better and participate in identifying agency partners.
-
-- There is a monthly Great Pitch that OCSIT/18F hold that awards seed funding to projects. Watch out for emails about these, and see the [pitch application template](https://docs.google.com/document/d/1ZEoc8h9uaVXtwYgLj0YiQleXbr6dmj0OA3NDO0cAtWM/edit).
-- [#seeds](https://gsa-tts.slack.com/archives/seeds) can help you find out what funding options are available if Great Pitch isn't a good match.
+To do either or both, please get in touch with [#talent](https://gsa-tts.slack.com/messages/talent).
 
 ### How can I move from another part of 18F into engineering?
 
@@ -148,7 +137,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
   - [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership). Someone there will get you set up.
   - [18f-eng-leadership@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18f-eng-leadership). This is a good way to write to the entier engineering leadership team at once.
-  - Optional listservs that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#interagency-open-data-working-group), [Security Today](/general-contacts-and-listservs/#security-today).
+  - Optional listserv that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#interagency-open-data-working-group)
 
 ## Tools
 
