@@ -307,6 +307,7 @@ navigation:
     children: 
     - text: Governance and Compliance Division
       children:
+      - text: Content TKTK
     - text: Business Operations Division
       children:
       - text: Ops
@@ -358,15 +359,16 @@ navigation:
       internal: true
   - text: 18F
     children:
-    - text: 18F History and values
-      url: history-and-values/
-      internal: true
-    - text: Mission
-      url: mission/
-      internal: true
-    - text: 18F org chart
-      url: org-chart/
-      internal: true
+    - children:
+      - text: 18F History and values
+        url: history-and-values/
+        internal: true
+      - text: Mission
+        url: mission/
+        internal: true
+      - text: 18F org chart
+        url: org-chart/
+        internal: true
     - text: 18F Chapters
       children:
       - text: Custom Partner Solutions
@@ -456,9 +458,10 @@ navigation:
   - text: Office of Products and Programs (OPP)
     children:  
     - text: About OPP
-      url: office-of-products-and-programs/
-      internal: true
       children:  
+      - text: Overview of OPP
+        url: office-of-products-and-programs/
+        internal: true
       - text: OPP History
         url: opp-history/
         internal: true
@@ -486,10 +489,14 @@ navigation:
         url: https://10x.gsa.gov
         internal: false
   - text: Centers of Excellence (CoE)
-    url: https://coe.gsa.gov/
-    internal: false
+    children:
+    - text: CoE Website
+      url: https://coe.gsa.gov/
+      internal: false
   - text: Presidential Innovation Fellows (PIF)
-    url: https://presidentialinnovationfellows.gov/
-    internal: false
+    children:
+    - text: PIF Website
+      url: https://presidentialinnovationfellows.gov/
+      internal: false
 
 
