@@ -5,7 +5,7 @@ tags:
 - purchases
 ---
 
-page under construction
+Page under construction
 
 ---
 
