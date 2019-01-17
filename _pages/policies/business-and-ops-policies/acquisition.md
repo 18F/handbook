@@ -54,10 +54,6 @@ Anyone handling acquisitions must review and follow #Readme-[Conflict Of Interes
 
 Members of the TTS Office of Acquisition can serve in a variety of different roles. [TTS OA Roles and Responsibilities](/tts-office-of-acquisition-team-roles-and-responsibilities) defines the role and responsibilities of the members in TTS OA, with an emphasis on the COR and other team members’ role in the post-award contract management process.
 
-## Software Procurement
-
-Any TTS employee requesting the procurement of software is required to work with the TTS OA Software Manager (SM) and must adhere to the internal controls and procedures for the purchase of software found in TTS OA Standard Operating Procedure (SOP)-[Internal Controls for Software Procurements](/internal-controls-for-software-procurement). The SOP applies to all software, which includes both Software-as-a-Service (SaaS) and locally installed software, procured by TTS purchase card holders or warranted Contracting Officers in support of TTS operations.
-
 ---
 
 #### Still have questions?
