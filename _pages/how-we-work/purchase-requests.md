@@ -3,23 +3,22 @@ title: Purchase requests
 slack-channel: c2-purchase-questions
 ---
 
-If you’re looking to have TTS purchase anything – whether it’s training, a conference, software, or services, you have come to the right place! Your request will be considered and, if approved, purchased by either the TTS Office of Acquisition (OA) or TTS Operations (Ops).
+This page covers the general process for requesting purchases under $10,000. Your request will be considered and, if approved, purchased by either the TTS Office of Acquisition (OA) or TTS Operations (Ops).
 
-## Training and Conferences (regardless of cost)
+Some types of purchases are handled differently. See these pages for guidance about purchasing:
 
-Any purchases for training, see the [training section](https://handbook.18f.gov/attending-conferences/#im-attending-training-that-is-not-at-a-conference). Any purchases for conferences, see the [conference section](https://handbook.18f.gov/attending-conferences/#im-attending-a-conference-including-training-offered-before-or-after-the-conference). 
+- [Training](/attending-conferences/#im-attending-training-that-is-not-at-a-conference)
+- [Conference](/attending-conferences/#im-attending-a-conference-including-training-offered-before-or-after-the-conference)
+- [Software](/software)
+- [Equipment](/equipment)
 
-*Any questions? Slack [#travel](https://gsa-tts.slack.com/messages/travel/)or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/).*
-
-## Purchases under $10,000 
-
-### C2
+## C2
 
 [C2](http://requests.18f.gov) is used for all purchase requests under $10,000. In order to use C2, you will need to get an account set up. Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZfBRRO_mBz2wwBHJTufi6kWONQhc64otCAYBCKV8keDvXVA/viewform) and you will be set up within one to two business days. Once you are set up in C2, you will be able to make either an event request (for training and conferences) or a purchase request (for anything else). All requests must be approved by a supervisor before submitting in C2. Do not make a purchase on your own because you will not be reimbursed! Please follow the below instructions to make your request.   
 
 Please note that for training and conferences, someone from the TTS Ops team will enter the request in C2 on behalf of the requestor. Please be sure to follow the steps in the [training section](https://handbook.18f.gov/attending-conferences/#im-attending-training-that-is-not-at-a-conference) or [conferences section](https://handbook.18f.gov/attending-conferences/#im-attending-a-conference-including-training-offered-before-or-after-the-conference). 
 
-C2 user tip: 
+Here's the information you'll need to enter in C2: 
 
 * **Purchase Type:** Software/Services/Etc.
 * **Product Name and Description:** Include the specifics of what you are requesting.
@@ -34,7 +33,7 @@ After the C2 request is created:
 * Add your supervisor as an observer in C2 by scrolling all the way to the bottom where it says “Observers” and typing in their name or email. (If they have never used C2, you may need to request access for them, like you did for yourself at the beginning of the process.) 
 * Then, supervisor adds a comment “Approved” in your C2 request. Please note that for OPP purchases, the OPP Director’s approval is required in addition to the portfolio supervisor’s approval. 
 
-### Business cards
+## Business cards
 
 To make best use of our resources, we use business cards sparingly. However, if you expect to use them for outreach or a specific meeting with partners, you can request standard GSA business cards, which don’t reflect TTS or 18F branding.
 
@@ -46,7 +45,7 @@ To initiate your request,
 
 If you want TTS/18F branding, you must purchase your own business cards. However, please get a final approval from the TTS Outreach team before placing the order. 
 
-### Office supplies
+## Office supplies
 
 Anyone working in an 18F office may request a purchase of office supplies by creating a new purchase request in C2. Be sure to add one of the TTS Ops team points of contact (POC) below as an observer to your request:
 
@@ -55,17 +54,9 @@ Anyone working in an 18F office may request a purchase of office supplies by cre
 * New York - Ethan Heppner
 * San Francisco - Ethan Heppner
 
-Once the request is placed, the designated TTS Ops team member will make the determination as to whether or not to recommend your request for approval by the TTS Director of Operations.
+Once the request is placed, the designated TTS Ops team member will determine whether or not to recommend your request for approval by the TTS Director of Operations.
 
-### Software
-
-See the software page.
-
-### Equipment
-
-See the [equipment](https://handbook.18f.gov/equipment/) page.
-
-### Services
+## Services
 
 Examples of services TTS has procured:
 
@@ -80,27 +71,25 @@ Please follow the recommended steps below when ordering services under $10,000:
 2. Once filled out, transfer the ownership of the RFQ to the TTS Micro-Purchase Project Manager (PM). Then submit the link to them via Slack. See the POC section for contact information. 
 3. Once received by the TTS Micro-Purchase PM, the RFQ will be reviewed by the OA Director. Please be ready to address any questions, comments, or feedback at your earliest convenience. 
 4. After the RFQ is approved by the OA Director, please send it to the appropriate vendor(s) and cc TTS Micro-Purchase PM and OA Director. When sending the RFQ to vendor(s), keep in mind:
-  * If they’ve been government employees who worked in TTS within the past two years, we can’t hire them. 
-  * Spread the wealth - this is not a formal rule or policy, but you don’t want to go back to the same person for every purchase, because that raises flags.
-  * Make sure the vendor can accept payment via government purchase card (aka credit card) - this seems easy but isn’t always the case.
+    * If they’ve been government employees who worked in TTS within the past two years, we can’t hire them. 
+    * Spread the wealth - this is not a formal rule or policy, but you don’t want to go back to the same person for every purchase, because that raises flags.
+    * Make sure the vendor can accept payment via government purchase card (aka credit card) - this seems easy but isn’t always the case.
 5. Receive a quote from the vendor. When reviewing the quote, please keep in mind: 
-  * The requirement cannot exceed the micro-purchase threshold for the same service within a twelve-month period. 
-  * You can’t pay for similar services from both vendor A and B if the scope is the same and the combined cost exceeds the micro-purchase threshold within a twelve-month period. This is considered splitting purchases.
-  * You need to avoid scope creep (adding extra work to the original agreement) that would go over the threshold.
-  * If you need any assistance with negotiations, please contact the TTS Micro-Purchase PM and the OA Director.
-6. Follow the C2/P-Card Purchase protocol, then do the following:
-  * Add the TTS Micro-Purchase PM and the TTS OA Director as observers to the request. You can do this by scrolling all the way to the bottom of the C2 page to where it says “Observers” and typing in their names or emails.
-  * Attach the RFQ and vendor quote to the C2 request.
+    * The requirement cannot exceed the micro-purchase threshold for the same service within a twelve-month period. 
+    * You can’t pay for similar services from both vendor A and B if the scope is the same and the combined cost exceeds the micro-purchase threshold within a twelve-month period. This is considered splitting purchases.
+    * You need to avoid scope creep (adding extra work to the original agreement) that would go over the threshold.
+    * If you need any assistance with negotiations, please contact the TTS Micro-Purchase PM and the OA Director.
+6. Follow the [C2/P-Card Purchase protocol](#C2), then do the following:
+    * Add the TTS Micro-Purchase PM and the TTS OA Director as observers to the request. You can do this by scrolling all the way to the bottom of the C2 page to where it says “Observers” and typing in their names or emails.
+    * Attach the RFQ and vendor quote to the C2 request.
   
-#### Services POC 
+**Who to contact about purchasing services**
 
-**TTS Micro-Purchase Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov) Slack: @melanie
+**TTS Micro-Purchase Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov) | Slack: @melanie  
 **TTS Office of Acquisition Director:** Esther Praske [esther.praske@gsa.gov](mailto:tts-purchasers@gsa.gov)
 
-#### Questions about services?
+Or find us in Slack: [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy/).
 
-Go to slack [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy/).
+## Questions
 
-### Questions? 
-
-Any questions? Slack [#c2-purchase-questions](https://gsa-tts.slack.com/messages/c2-purchase-questions/)*, [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/).
+Any questions? Slack [#c2-purchase-questions](https://gsa-tts.slack.com/messages/c2-purchase-questions/), [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
