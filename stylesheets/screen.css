@@ -1059,8 +1059,11 @@ a[id]{
   padding-top: 0.6em;
   padding-bottom: 1.6em;
   -webkit-column-break-inside: avoid; /* Chrome, Safari */
+  -webkit-column-break-before: avoid;
   page-break-inside: avoid;           /* Theoretically FF 20+ */
+  page-break-before: avoid;
   break-inside: avoid-column;         /* IE 11 */
+  break-before: avoid-column;
 }
 
 .toc-nav-children-level-5 {
@@ -1114,15 +1117,11 @@ a[id]{
 .layout-table-of-contents ol h3{
 	font-size: 20px;
 	font-weight: 600;
-	break-after: avoid-column;
-	break-inside: avoid-column;
 }
 
 .layout-table-of-contents ol h4{
 	font-size: 18px;
 	font-weight: normal;
-	break-before: avoid-column;
-	break-inside: avoid-column;
 }
 
 /* @end */
