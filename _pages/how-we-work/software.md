@@ -2,182 +2,72 @@
 title: Software
 ---
 
-Are you interested in using a particular piece of software? Do the following, in order. If it’s software you know TTS uses already, skip to [Provisioning](#provisioning).
+Do you need some new software to make sure TTS is running smoothly? Requesting software under $10,000 is easy! Follow the steps below to get what you need. 
 
-## Determine whether it needs to be approved
+If you need to purchase more expensive software, see [software requests over $10,000]().
 
-The first thing to know is whether the piece of software you want to use needs to be approved or not. A “web site”, for example, doesn’t need to be approved before using it - official clarification on this will be coming from the GSA CTO soon.
+## Step 1: find or get an ATO
 
-Per the [IT Standards policy](https://www.gsa.gov/directives-library/gsa-information-technology-it-standards-profile-21601f-chge-2-cio) (part 2a), “collaboration with another agency through software or cloud services which they use for managing non-GSA data (either data owned by that agency or public data) does not require security or [accessibility] review” by GSA.
+An Authority to Operate (ATO) is similar to an expiration date. It describes the date through which software is approved to use and is issued by GSA IT. An ATO is needed to ensure the software you are requesting is secure and meets the Government’s security standards. To check for an ATO, you need to go to [GEAR, IT Standards list](https://ea.gsa.gov/#!/itstandards) (aka Salesforce). *Note: you will need VPN to view the list.*
 
-Per the [IT Standards policy](https://www.gsa.gov/directives-library/gsa-information-technology-it-standards-profile-21601f-chge-2-cio) (part 2c), “Software libraries, application program interfaces, binaries...that can be installed without administrator-level access or are included as part of higher level packaged software (e.g., operating systems, Open Source Software and Commercial off-the shelf programs, etc.) are excepted and determined to be approved”.
+If the software you are purchasing has a valid ATO listed in GEAR, then you can proceed with the rest of the process. You should save a copy of the ATO to your desktop so you can attach it to the C2 request later. 
 
-If the software doesn’t need to be approved but you need a license, jump down to the [Provisioning](#provisioning) section. If you don’t need a license, you are good to go!
+If the ATO is expired or you cannot find it in GEAR, you can post in the Slack channel [#gsait-shared](https://gsa-tts.slack.com/messages/gsait-shared/) to ask if there is an updated ATO. If there is no ATO or the ATO is expired, you will need to go through the ATO process to ensure your software is approved by security. You can follow these steps to [submit a new software for ATO](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/software-and-applications/software-downloads-and-requests/it-standards). The ATO process can take 4-6 weeks and there is no guarantee it will be approved. If your need is urgent, try to find something in [GEAR, IT Standards](https://ea.gsa.gov/#!/itstandards) list that is already approved and meets your needs.
 
-If it does need to be approved...
+## Step 2: check the TTS Software Inventory
 
-## Check existing status
+Before you submit a C2 request, you will need to check if TTS already has licenses available. If the software you are looking for is in the [TTS inventory](https://docs.google.com/spreadsheets/d/15FxfSsf6i1bV7X1XBeJM0ok3LVCgbAGj-VFw7LdQ7qY/edit?usp=sharing), send an email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) requesting a license for the software you need. The TTS Saas Project Manager will contact you within one to two business days. If there are no licenses available in TTS or the software is not in the TTS inventory, you will need to look in the [GSA IT Catalog](https://gsa.service-now.com/sp/) (aka Service Now).
 
-...and find [alternatives](#alternatives) that may already be approved.
+## Step 3: check the GSA IT Catalog
 
-### IT Standards
+If TTS does not have licenses, GSA might. You will need to check to see if GSA IT already has licenses available, so we do not make duplicate purchases. In order to check the [GSA IT Catalog](https://gsa.service-now.com/sp/), scroll to the bottom of the page and click on “Order Something”. On the next page, click on “Software”. This will take you to a page to request software from GSA IT. Scroll toward the bottom of the page to where it says “Enter Software Name Here”. In the dropdown menu, start to type the name of the software you need. If the name pops up, it means GSA has already purchased it. 
 
-Check if the software is listed in [the IT Standards list](https://ea.gsa.gov/#!/itstandards). You will need to be on the [GSA network](../networks/). Alternatively, you can find [an export of the data on GitHub](https://github.com/GSA/data/blob/master/enterprise-architecture/it-standards.csv), though note this may be slightly out-of-date.
+If your software is in the Catalog, fill out the rest of the form to request a license.
+If the software is not in the Catalog or you request a license and there are none available, you will need to fill out a C2 request for TTS to purchase the software.
 
-#### Versions
+## Step 4: use C2 to make a request
 
-Minor upgrades don’t require going through the software request process. Skip to [Provisioning](#provisioning), if necessary.
+[Get access to C2 and make a request](/purchase-requests/#c2), then come back here.
 
-Major upgrades of already approved products will need to be submitted as requests, but will generally be approved. The IT Standards group will add it in Request Tracker and notify the Security team and present it as an informational brief to the TSC and CTO. They will then go through an expedited process.
+After you make the C2 request:
 
-#### Statuses
+* Add the TTS SaaS PM, and the TTS Office of Acquisition (OA) Director as observers to the request. You can do this by scrolling all the way to the bottom of the C2 page to where it says “Observers” and typing in their names or emails. Please see the POC section below to find the names and contact information of the current TTS SaaS PM and OA Director. 
 
-Here are what the different `Status`es mean:
+**Once you complete this step, there are 4 things that you will need in C2 before the software can be approved:**
 
-- Approved-Preferred - GSA's preferred solution for a specific IT function (e.g., Document Mgmt). Unconstrained usage is allowed until a date to be determined by the TSC/CTO. You may request software with this status.
-- Approved-Maintain - acceptable for use until a date to be determined by the TSC/CTO. You may request software with this status.
-- Exception - the solution is not allowed for use other than under the predefined conditions resulting from the TSC/CTO decision. You may request software with this status.
-- Denied - software is not allowed for use within GSA. You may not request software with this status.
-- Proposed - a request has been submitted and is currently under review. You should wait for this software to complete final review before requesting it.
-- Sunsetting - the Technology has reached end of life and will be moved to Denied status. You may not request software with this status.
-- Pilot - the Technology is approved for only 'Pilot' purposes for limited duration. You may request software with this status.
-- Not yet Submitted - Technology in use at GSA but has not been through the approval process yet. You may request software with this status.
-- Grandfathered Exception - this is a recently added status recommended by CTO and Security. This status is used for technologies which are determined by CTO/TSC that they can be approved without going through the whole process. You may request software with this status.
+### 1. ATO
 
-Be sure to read the listed comments for the software as some items listed as Approved may only be usable through VDI. Skip to the [Provisioning](#provisioning) section.
+This is the step where you attach the ATO from GEAR that you saved to your desktop. Attach it as a file in the C2 request so the finance team and the OA team can see it and approve the purchase. Remember that without an ATO, your software purchase cannot be approved, so make sure you have an ATO before initiating the C2 request.
 
-### Chrome extensions
+### 2. Supervisor approval
 
-Use only extensions on [this list of OCSIO Approved extensions](https://gsa.service-now.com/sp/?id=list&table=u_chrome_extension&filter=&sys_id=&v=). If you'd like to request a Chrome extension, please see the instructions located on [insite](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request).
+Supervisor approval is easy! You have two options: 
 
-### Pending requests
+  - Add your supervisor as an observer in C2 by scrolling all the way to the bottom where it says “Observers” and type in their email. (If they have never used C2, you may need to request access for them, like you did for yourself at the beginning of the process.) Then, they simply need to add a comment “Approved” in your C2 request. Please note that for OPP purchases, the OPP Director’s approval is required in addition to the portfolio supervisor’s approval.
+  - Send an email to your supervisor requesting their approval for the software you need. You should include your justification for why you need the software. They can email back “Approved”. Please note that for OPP purchases, the OPP Director’s approval is required in addition to the portfolio supervisor’s approval. Go to print the email chain and save it as a PDF. Then attach the file in C2. 
 
-The software may already be going through the process. Search in [Salesforce Request Tracker](https://gsa.my.salesforce.com/a1Z?fcf=00B30000009TGJc) for any outstanding/existing tickets. These should show up in GEAR as `Proposed`, though there may be a delay.
+### 3. Finance approval
 
-### Alternatives
+Finance approval will come from the Director of Operations or their designees. Once they see the correct attachments in C2 and confirm finances are available for the purchase, they will approve the purchase in C2. A green check mark will appear next to Step 1 in C2. Any clarification of budget code will be made through the comments to the requests.
 
-As you’re checking for availability of the software you want to use, also keep an eye out for alternatives that are approved (or in progress). Software review is laborious, so if there is another tool that will/could work, you are strongly encouraged to give it a try.
+### 4. FITARA
 
-Feel free to continue requesting the original if the already-approved option doesn’t work for you. Make sure to include why any existing options won’t work for you in your request.
+[Federal IT Acquisition Reform Act (FITARA)](https://management.cio.gov/) is legislation that puts federal agency Chief Information Officers (CIOs) in control of IT investments. This means that the CIO and Chief Technology Officer (CTO) need to give documented approval of an IT purchase to remain compliant with this act.
 
-Procuring a specific application will generally only happen after Market Research has been performed to the level that will allow a Contracting Officer (CO) to draft a “determination” that no other application will satisfy the Government’s needs.
+The good news? You don’t have to worry about FITARA! The TTS SaaS PM and TTS OA Director will take care of this and upload the documentation to C2 when it’s finished. The only thing you need to do is include a great justification and all of the correct details about the software you are requesting so the TTS SaaS PM and TTS OA Director can include this information in the FITARA request to the CIO and CTO.
 
-This “determination” process can take weeks, if not months, if you leave it until the acquisition phase. To make life easier for everyone, document your thought process and what you went through in terms of testing and review of the various available options. [Here's a great example.](https://docs.google.com/document/d/1VOwxKgykd2hEvqGbh907mSKPEtbwnykdtUAI7SYZqDY/edit)
+## Step 6: Procurement
 
-## Pilot Software Requests
+Once all of the attachments are in C2, the TTS Saas PM will contact you to set up a meeting to purchase your software! Make sure you reached out to the finance team (ASF or FCSF) for the correct accounting code if it is not already provided in the request. 
 
-If you want to try out a software tool but aren’t sure if you want it to go through a full review yet, you may request to evaluate the software on a trial basis. This type of request is know as a Pilot. Pilot requests can be much faster to process, but there are several requirements it must meet in order to be considered for evaluation.
+## Contacts
 
-- Pilot software must never be on a production network or contain sensitive federal data
-- The cost for a Pilot may not exceed $25k
+**TTS SaaS Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov)  
+**TTS Office of Acquisition Director:** Esther Praske [esther.praske@gsa.gov](mailto:esther.praske@gsa.gov)
 
-Pilot requests require a Security review and will need to be approved by the TSC. If approved, GEAR will be updated to include the software information along with a status of Pilot. Approval for all Pilot software expires after 90 days. At the conclusion of the pilot, the requestor will need to provide to the CTO the following key outcomes:
+## Questions?
 
-- Determination of whether or not the requester believes that the piloted technology is acceptable and should be a candidate for full approval
-- Path to attain full security, and Section 508 approval
-- Evidence that all costs have been identified and budgeted within the requesting office and as required by other affected offices, to include out-year operations and maintenance
+Find us in Slack: [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy).
 
-Follow the instructions in Submit for Approval and mention that you’re interested in testing the software as a Pilot where you provide your business justification in the form.
 
-## Submit for approval
 
-Once you have identified the software you would like, you will need to take some time to gather all the information needed to request it. This information includes reasons why the software you like would be necessary over alternatives, so documenting your software review process to create something [like this](https://docs.google.com/document/d/1VOwxKgykd2hEvqGbh907mSKPEtbwnykdtUAI7SYZqDY/edit#) would help make the acquisition package creation process much easier.
-
-Fill out the new [Software Request form](https://gsa--c.na21.visual.force.com/apex/TechnologyRequestForm). Completing this form in its entirety will ensure that the the review team(s) have all of the required information, thus speeding up the review process. You will be contacted if more information is needed, and as it moves through the process.
-
-If the product contains any type of desktop add-on that will be required for use, please note this in your initial request so that these components may be evaluated together.
-
-Using our new Software Request form creates the Request Tracker (RT) ticket in Salesforce.  Once submitted the requester receives an automated email that includes the RT ticket number and a link to go into Salesforce and view their ticket.
-
-You can ask in #infrastructure if you have any questions or want to check on the status. Once the request is in Salesforce, your best bet will be to ask questions in there.
-
-### Details
-
-Here’s what will happen behind the scenes:
-
-1. 18F Infrastructure responds to the request
-2. TTS: (via #infrastructure-leads) + OCTO prioritizes
-3. Passes to the CTO’s office (Cindy A. Smith, in particular), who reaches out to the vendor
-    1. [The email template(s)](https://docs.google.com/document/d/1haAhbPnE20W8ptJdZGIFjoQP-b2Xr7Yn3Ki-gwXzwgY/edit)
-
-4. If vendor responds within two weeks and is game, continues. Otherwise, stops.
-5. Cindy [submits the request in Salesforce](https://gsa--c.na21.visual.force.com/apex/TechnologyRequestForm)
-6. Goes through normal IT Standards process
-    1. In parallel:
-        1. Legal
-            - [Terms of Service compatibility](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/)
-
-        2. 508
-            - Only done when not a Pilot
-            - Accessibility review can be conducted by GSA (theoretically), but ideally a [Voluntary Product Assessment Template (VPAT)](https://www.section508.gov/content/sell/vpat) is provided by the vendor
-
-        3. Security
-
-    2. Technology Steering Committee (TSC)
-    3. CTO
-
-7. Once a request is approved/rejected (can check [here](https://gsa.my.salesforce.com/a1Z?fcf=00B30000009TGJc)):
-    1. It will be put in [the IT Standards list](https://ea.gsa.gov/EAWEB/#!/itstandards).
-
-#### Legal
-
-Some of these are GSA/government-wide policy, some are ones we’re (trying to) establish at the TTS level.
-
-- If the service does not have a Privacy Policy, it will not be authorized.
-- If the service does not have a Terms of Service, it will not be authorized.
-- If the application has a previously [Negotiated Terms of Service](http://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/), it can be authorized.
-- If the application has an "[indemnification clause](http://www.startuplawtalk.com/what-is-indemnification/)" in its Terms of Service (look for the words “indemnification”, “indemnify”, “hold harmless”, or “defend”):
-  - If we are not paying for the application, it will not be authorized.
-  - If we are paying for the application, it can be authorized.
-
-- If the application is owned by a foreign entity, and it has a “governing law” or “jurisdiction” clause in its Terms of Service, that either puts the current relationship or any future disagreements or suits outside the legal boundaries of the United States:
-  - If we are not paying for the application, it will not be authorized.
-  - If we are paying for the application through a US company, it can be authorized.
-
-Ask in [#legalstuff](https://18f.slack.com/messages/legalstuff/) if you need help with any of the above. There’s an experiment to automate these checks in the [legalese](https://github.com/18F/legalese) repository.
-
-## Provisioning
-
-_This section is TTS-specific._
-
-Send an email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) (goes to TTS Acquisitions) saying that the software is approved for use, and that you need a license/access. They will direct you to what you should do next.
-
-### Details
-
-Here’s what will happen behind the scenes:
-
-#### Software we already own
-
-Software, domains, and SSLs currently managed by OPP are being migrated into the [TTS software library](https://docs.google.com/spreadsheets/d/1KhPN9gmDJYjp0sqQA3_OFto45MzlqGkb1R2YDKedpC8/edit#gid=164775379) over the next month. New requests for software that is in the library may be made via email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) or Slack message in #tts-oa-internalbuy. A license for software currently in the TTS Software Library will generally be provided to you within 1-2 business days.
-
-#### Software we need to acquire more of
-
-If your request is under $10,000, the Acquisition team may direct you to submit [a simple purchase request in C2](https://requests.18f.gov/gsa18f/procurements/new).
-
-Once you have filled out and submitted the requested information, please attach an email from your director or portfolio lead approving the request. Upon completion of your submission, please add Anthony Hong as an observer to the C2 request who will follow up with you directly about the purchase. At the same time, Jackie Xu will review the request for funds availability, and then your request will be routed to the TTS purchase team for review and purchase.
-
-The purchase team will review the request and verify that technical approval (ATO) has been secured (and the software has undergone FITARA review where applicable or currently exists in the [GSA IT Standards Profile](https://ea.gsa.gov/#!/itstandards)) before making the purchase. If the software already exists in the GSA IT Standards Profile, the timeframe between request and purchase will be about one week. HOWEVER, most software requests not in the Profile will require significant additional review which may take several months. GSA IT is working to streamline this.
-
-Final approval for any license issuance or purchase lies with the Operations Director and the management team.
-
-See also: the [Software Request Chart](https://app.mural.ly/t/gsa6/m/gsa6/1472757223327/2c42a9c9a53f4e07fd10eda6f01df6016645c24f) showing the process.
-
-##### Above $10,000 purchase
-
-If Acquisitions determines that the purchase of the software must go through the acquisition process, it may take a longer time to process the request. You will be directed to go through the acquisition process for buying software over $10,000 by starting with this [Acq Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform). These purchases are tracked in the [TTS Internal Buys Trello board](https://trello.com/b/H5H156mO/tts-internal-buys-board).
-
-## Integrations
-
-Does the software integrate with any of the following, beyond basic scopes (things like email and name)? Follow the following guides:
-
-- [GitHub](https://docs.google.com/document/d/1HcLbl37j3VGoiphtUb492MWtFGCGIf1aRiuvdDlTgYE/edit)
-- [Slack](../slack/#integrations)
-- [Google OAuth](https://insite.gsa.gov/portal/content/526805)
-- [Google Apps Scripts](../google-drive/#google-apps-scripts)
-- Trello Add-ons
-
-This includes OAuth, webhooks, etc.
-
-## Post-Pilot
-
-Once a pilot is complete and has been selected as the preferred software, then a new ServiceNow ticket should be submitted. The business justification should include that it was a pilot and the reason selected.

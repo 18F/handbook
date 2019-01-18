@@ -2,20 +2,21 @@
 title: Benefits
 ---
 
-GSA requires that you enroll in many of the benefits offered to you within the first 60 days of work. Otherwise, you&rsquo;ll have to wait for Open Season, which typically runs from the Monday of the second full workweek in November through the Monday of the second full workweek in December.
+**If you're looking for specific benefits sites, see the [benefits links page](/benefits-links/).**
+
+GSA requires that you enroll in many of the benefits offered to you within the first 60 days of work. Otherwise, you&rsquo;ll have to wait for Open Season, which typically runs from the Monday of the second full work week in November through the Monday of the second full work week in December.
 
 ## Submitting benefit forms
 
-### New Hire
+### New hires
 Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).
 
-### Current Employee
-Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) and CC Phyllis Thomas when you're submitting documents due to a change in life event (ie getting married, having a child, etc).
+### Current employees
+Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) and CC Phyllis Thomas when you're submitting documents due to a change in life event (such as getting married or having a child).
 
-Phyllis' contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or by reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+Phyllis's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
 *NOTE:* When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).  
-
 
 ## Benefits contacts
 
@@ -26,14 +27,9 @@ Find us in Slack:
 - [#benefits](https://gsa-tts.slack.com/messages/benefits)
 - [#talent](https://gsa-tts.slack.com/messages/talent)
 
-## Benefits Quicklinks
-
-Click [here](/benefits-links/) for a list of quicklinks to access the various benefits sites.
-
 ## Credit union
 
 GSA has a [credit union](https://www.gsafcu.gsa.gov/). It is free and easy to join if you&rsquo;re a current employee. Once you join, you're a member for life (even if you leave GSA).
-
 
 ## Discounts
 
@@ -42,7 +38,6 @@ Organizations across the United States offer a number of discounts to federal em
 * Major cell phone carriers offer a 15% discount on cell plans to all federal employees&mdash;just ask!
 * Apple offers a discount (~10%) to feds when they buy personal equipment.
 * General Assembly offers a discount to federal employees.
-
 
 ## Flexible spending accounts
 
@@ -61,7 +56,6 @@ There are three kinds of FSA:
 Flexible Spending Accounts run on a calendar year and enrollment into the program is closed on October 1 of each year. New and newly eligible employees who wish to [enroll in this program](https://www.fsafeds.com/GEM) must do so within 60 days of their start date and prior to October 1. If you miss this deadline, you must wait until Open Season (mid-November) to enroll for the following calendar year.
 
 Please note that FSA does not automatically renew each year; you must re-enroll annually.
-
 
 ## Insurance
 
@@ -109,20 +103,17 @@ If you're having difficulty resolving an issue or getting clarification from you
    * The company fix the issue at this point
 3. If you do not hear back within a reasonable timeframe, follow up with FEHB@opm.gov
 
-
 ## Leave
 
 Please use [HR Links](https://corporateapps.gsa.gov/hr-links/) to request sick leave and annual leave. For any leave-related questions, please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
 
 For more information on Leave, including sick, religious, funeral, unpaid, parental, advanced, and religious, please reference the [Leave](/leave) page.
 
-
 ## Lunch and break periods
 
 You can take a 30-minute or one-hour lunch break. Lunch breaks are unpaid, so you need to make sure you work eight hours per day. For example, if you come in at 8:00 a.m. and take a 30-minute lunch, you’d work til 4:30 p.m. If you took an hour lunch break, you’d work til 5:00 p.m.
 
 You get two 15-minute breaks per day. These breaks do not extend the work day, since they’re paid. If you came in through the Peace Corps, you may have different options. Contact your bargaining unit or union directly for details.
-
 
 ## Paychecks
 
@@ -140,8 +131,7 @@ For help interpreting the many boxes on your paystub, see [How to Read Your Leav
 
 Note that the gross income in your paycheck is a little less than your annual income / 26 paychecks. The difference lies in the way the federal government calculates hourly rates from annual salary. The federal government divides the annual salary by 2087 hours rather than 2080 hours (26 pay periods x 80 hours) to determine hourly rates.
 
-This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an [article](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/) which further explains this.
-
+This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an article that explains this: [Why your paychecks don't always add up]](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/).
 
 ## Retirement
 
@@ -186,11 +176,11 @@ Note: If you have been contributing to a 401k, 403b, or a similar plan at your p
 
 ## Training
 
-TTS team members are eligible for many professional development and training opportunities. For more information, see [Pia Scott&rsquo;s class](/attending-conferences).
+TTS team members are eligible for many professional development and training opportunities. For more information, see [attending conferences](/attending-conferences).
 
 
 ## Transit subsidies
 
-All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you'll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor's signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office tour guides](/offices) for more information.
+All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you'll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor's signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office guides](/#offices) for more information.
 
-GSA's new Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).   
+GSA's Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).   

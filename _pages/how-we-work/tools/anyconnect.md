@@ -6,8 +6,8 @@ AnyConnect is a VPN client that we use to connect to GSA's intranet.
 
 ## Setup
 
-1. Download [AnyConnect](https://drive.google.com/open?id=0B4CdALyekcYXOWNaeVRSZy05TXM) and launch the installer.
-2. Follow the prompts to install the VPN client.
+1. Download AnyConnect via [ServiceNow](https://gsa.service-now.com/sp?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b&sysparm_category=b628125b7cec0100a6e757fe35f45fb8). Someone from GSA IT will reach out to you within the day.
+2. Follow their directions to install Anyconnect.
 3. Install only the following components:
       * VPN
       * Diagnostics and Reporting Tools

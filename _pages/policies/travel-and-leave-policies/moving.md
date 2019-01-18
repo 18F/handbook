@@ -20,9 +20,9 @@ tags:
 
 The official GSA processes for moving and for full-time teleworking have recently changed.  If you need to move or submit a new full-time telework arrangement (FTTA), click on the link below that best reflects your situation.  Please follow all guidance below the starting point.
 
-* [A virtual employee who is moving to a new virtual location](/moving/#a-full-time-telework-arrangment-is-needed)
-* [A virtual employee who is moving to one of our offices (DC, CHI, NYC or SFO)](/moving/#effective-date)
-* [An office employee who is moving to a virtual location](/moving/#a-virtual-work-agreement-is-needed)
+* [A full-time telework employee who is moving to a new full-time telework location](/moving/#a-full-time-telework-arrangement-is-needed) 
+* [A full-time telework employee who is moving to one of our offices (DC, CHI, NYC or SFO)](/moving/#effective-date)
+* [An office employee who is moving to a full-time telework location](/moving/#a-full-time-telework-arrangement-is-needed)
 * [An office employee who is moving to a different office](/moving/#effective-date)
 * [An office employee who's home address is changing but not their work location](/moving/#change-your-address)
 
@@ -43,10 +43,10 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 
 ### Things to note when completing the FTTA
 
-* Supervisors will need to provide a written business justification (Part E of the VWA form) for all VWAs whether they provide a cost savings or cost increase
+* Supervisors will need to provide a written business justification (Part I of the FTTA form) for all FTTAs whether they provide a cost savings or cost increase
 * In the justification include the salaries for the staff member’s current location and the new location. In the Form, the new duty station must always be compared to the **DC office** but TTS leadership would like to see the difference between the actual current location and the new location.
 * Supervisors will need to provide the number of trips an employee will have to make to DC annually and how long those trips will be (do not include billable trips).
-* Existing staff VWAs can just have the city and state listed (noting on the form that the person is asking for approval to move prior to having a new full address)
+* Existing staff FTTAs can just have the city and state listed (noting on the form that the person is asking for approval to move prior to having a new full address)
 
 ### TTS approval signatures required for FTTA
 
@@ -54,18 +54,18 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
   * In Part F, enter name (box 1), title (box 2), and get signature (box 3)
 * Assistant Commissioner, Operations (Dominic Sale) *this is a TTS requirement*
   * In Part G, enter name (box 1a), title (box 1b), and get signature (box 1c)
-* Director of TTS, Acting (Kelly Olson)
+* Director of TTS (Anil Cheriyan)
   * In Part G, enter name (box 2a), title (box 2b), and get signature (box 2c)
 * Send form to [TTS-talentteam@gsa.gov](mailto:TTS-talentteam@gsa.gov) who will be responsible for obtaining the remaining approvals and routing through the GSA process
   * *Please note - it can take up to 5 days to get all of the TTS signatures*
 
 ### GSA approval of the FTTA
 
-* Talent sends the VWAs to OCFO (Andrew Roach)
-* Talent sends the VWAs to the FAS Commissioner’s office (Judith Zawatsky, Karen Link, and Alex Mobeka)
+* Talent sends the FTTAs to OCFO (Andrew Roach)
+* Talent sends the FTTAs to the FAS Commissioner’s office (Judith Zawatsky, Karen Link, and Alex Mobeka)
 * FAS office sends to HSSO (Alan Thomas)
 * FAS office sends to OHRM
-* OHRM will upload the VWA to the Control Document Tracker (CDT) and route to the Office of Administrative Services (OAS) / Exec Secretariat
+* OHRM will upload the FTTA to the Control Document Tracker (CDT) and route to the Office of Administrative Services (OAS) / Exec Secretariat
 * OAS/Exec Secretariat will send to the Deputy Administrator
 * Please Note:  The A-Suite will only be reviewing the documents once a month. OHRM is looking into what date that will be and will share out.  
 * The package is then returned to OHRM
@@ -73,14 +73,14 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 
 ### Approved FTTAs
 
-* TTS Talent will notify you when the VWA has been approved and will provide next steps
-  * *Note: Since the recent process change, it has been taking 30-60 days for VWAs to get approved*
+* TTS Talent will notify you when the FTTA has been approved and will provide next steps
+  * *Note: Since the recent process change, it has been taking 30-60 days for FTTAs to get approved*
 
 ## Effective date
 
 Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](http://www.gsa.gov/portal/content/102507).
 
-A member of the TTS Talent Team will complete a Request of Personnel Action (RPA) and submit to OHRM for processing.  If a Virtual Work Agreement is required, the RPA is generated after the VWA has been filled out and signed by TTS leadership, as directed in the VWA [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit).  Then the RPA and VWA are submitted to OHRM for processing.  
+A member of the TTS Talent Team will complete a Personnel Action Request (PAR) and submit to OHRM for processing.  If a Full-time Telework Agreement is required, the PAR is generated after the FTTA has been filled out and signed by TTS leadership, as directed in the FTTA [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit).  Then the PAR and FTTA are submitted to OHRM for processing.  
 
 ## Changes in pay
 
