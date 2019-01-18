@@ -1058,9 +1058,9 @@ a[id]{
 .toc-nav-children-level-4 {
   padding-top: 0.6em;
   padding-bottom: 1.6em;
-  -webkit-column-break-before: avoid;
-  page-break-before: avoid;
-  break-before: avoid-column;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid-column;
 }
 
 .toc-nav-children-level-5 {
@@ -1114,6 +1114,9 @@ a[id]{
 .layout-table-of-contents ol h3{
 	font-size: 20px;
 	font-weight: 600;
+	-webkit-column-break-inside: avoid;
+  	page-break-inside: avoid;
+  	break-inside: avoid-column;
 }
 
 .layout-table-of-contents ol h4{
