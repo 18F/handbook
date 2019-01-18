@@ -97,6 +97,7 @@ navigation:
       - text: Networks
         url: networks/
         internal: true
+  - children:  
     - children:
       - text: Benefits
         url: benefits/
@@ -262,6 +263,7 @@ navigation:
       - text: Google Groups
         url: google-groups/
         internal: true
+  - children:
     - children:   
       - text: Google Hangouts
         url: google-hangouts/
