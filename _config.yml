@@ -96,8 +96,7 @@ navigation:
         internal: true
       - text: Networks
         url: networks/
-        internal: true
-  - children:  
+        internal: true  
     - children:
       - text: Benefits
         url: benefits/
@@ -263,7 +262,6 @@ navigation:
       - text: Google Groups
         url: google-groups/
         internal: true
-  - children:
     - children:   
       - text: Google Hangouts
         url: google-hangouts/
@@ -462,8 +460,6 @@ navigation:
       - text: Time tracking and billing
         url: https://handbook.18f.gov/tock/#time-tracking-and-billing
         internal: false
-    - children:
-      - text: 
   - text: Office of Products and Programs (OPP)
     children:  
     - text: About OPP
@@ -476,9 +472,7 @@ navigation:
         internal: true
       - text: OPP org chart
         url: opp-org-chart/
-        internal: true
-    - children:
-      - text: 
+        internal: true 
     - text: Portfolios
       children: 
       - text: Data
