@@ -96,7 +96,6 @@ navigation:
     - text: Networks
       url: networks/
       internal: true  
-  - children:
     - text: Benefits
       url: benefits/
       internal: true
