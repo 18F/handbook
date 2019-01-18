@@ -363,7 +363,7 @@ navigation:
       internal: true
   - text: 18F
     children:
-      children:
+    - children:
       - text: 18F History and values
         url: history-and-values/
         internal: true
@@ -461,7 +461,7 @@ navigation:
         internal: false
   - text: Office of Products and Programs (OPP)
     children:  
-      children:  
+    - children:  
       - text: Overview of OPP
         url: office-of-products-and-programs/
         internal: true
