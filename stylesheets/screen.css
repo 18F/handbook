@@ -1096,11 +1096,16 @@ a[id]{
 .layout-table-of-contents ol h1{
 	font-size: 28px;
 	font-weight: 600;
-	padding-top: 0.8em;
+	padding-top: 1em;
 	margin-bottom: 0.4em;
 	border-top: 0.2em solid #f2f0e3;
 	margin-top: 1em;
 	color: #51322a;
+}
+
+.layout-table-of-contents ol li:first-of-type h1{
+	border-top: none;
+	margin-top: 0;
 }
 
 .layout-table-of-contents ol h2{
