@@ -1114,16 +1114,7 @@ a[id]{
 .layout-table-of-contents ol h3{
 	font-size: 20px;
 	font-weight: 600;
-	-webkit-column-break-after: avoid;
-  	page-break-after: avoid;
-  	break-after: avoid-column;
 }
-
-.layout-table-of-contents ol h3::after {
-    content: "";
-    display: block;
-    height: 100px;
-    margin-bottom: -100px;
 
 .layout-table-of-contents ol h4{
 	font-size: 18px;
