@@ -361,7 +361,8 @@ navigation:
       internal: true
   - text: 18F
     children:
-    - children:
+    - text: About 18F
+      children:
       - text: 18F History and values
         url: history-and-values/
         internal: true
@@ -470,6 +471,9 @@ navigation:
       - text: OPP org chart
         url: opp-org-chart/
         internal: true
+      - text: OPP website
+        url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs
+        internal: false
     - text: Portfolios
       children: 
       - text: Data
