@@ -81,35 +81,34 @@ navigation:
   generated: true
   children:
   - children:
-    - children:
-      - text: Welcome
-        url: welcome-letter/
-        internal: true
-      - text: Onboarding schedule
-        url: onboarding-schedule/
-        internal: true
-      - text: Logging in
-        url: how-to-log-in
-        internal: true
-      - text: Equipment
-        url: equipment/
-        internal: true
-      - text: Networks
-        url: networks/
-        internal: true  
-    - children:
-      - text: Benefits
-        url: benefits/
-        internal: true
-      - text: Online Learning University (OLU)
-        url: olu/
-        internal: true
-      - text: Travel 101
-        url: travel-101/
-        internal: true
-      - text: GitHub 101
-        url: intro-to-github/
-        internal: true
+    - text: Welcome
+      url: welcome-letter/
+      internal: true
+    - text: Onboarding schedule
+      url: onboarding-schedule/
+      internal: true
+    - text: Logging in
+      url: how-to-log-in
+      internal: true
+    - text: Equipment
+      url: equipment/
+      internal: true
+    - text: Networks
+      url: networks/
+      internal: true  
+  - children:
+    - text: Benefits
+      url: benefits/
+      internal: true
+    - text: Online Learning University (OLU)
+      url: olu/
+      internal: true
+    - text: Travel 101
+      url: travel-101/
+      internal: true
+    - text: GitHub 101
+      url: intro-to-github/
+      internal: true
 - text: About us
   blurb: |
     <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
