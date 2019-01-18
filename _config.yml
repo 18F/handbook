@@ -259,8 +259,7 @@ navigation:
         internal: true
       - text: Google Groups
         url: google-groups/
-        internal: true
-    - children:   
+        internal: true   
       - text: Google Hangouts
         url: google-hangouts/
         internal: true
