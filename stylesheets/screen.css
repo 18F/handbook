@@ -1119,6 +1119,12 @@ a[id]{
   	break-after: avoid-column;
 }
 
+.layout-table-of-contents ol h3::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+
 .layout-table-of-contents ol h4{
 	font-size: 18px;
 	font-weight: normal;
