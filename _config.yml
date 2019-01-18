@@ -309,7 +309,7 @@ navigation:
     children: 
     - text: Governance and Compliance Division
       children:
-      - text: Content TKTK
+      - text: Coming soon!
     - text: Business Operations Division
       children:
       - text: Ops
@@ -356,7 +356,7 @@ navigation:
         internal: true
   - text: TTS Office of Acquisitions
     children: 
-    - text: Acquisitions
+    - text: About Acquisitions
       url: acquisition/
       internal: true
   - text: 18F
@@ -471,9 +471,6 @@ navigation:
       - text: OPP org chart
         url: opp-org-chart/
         internal: true
-      - text: OPP website
-        url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs
-        internal: false
     - text: Portfolios
       children: 
       - text: Data
