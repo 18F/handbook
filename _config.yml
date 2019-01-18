@@ -456,11 +456,9 @@ navigation:
       - text: Open source
         url: open-source/
         internal: true
-      - text: Time tracking and billing
+      - text: Time tracking and billing <br><br>
         url: https://handbook.18f.gov/tock/#time-tracking-and-billing
         internal: false
-        </br>
-        </br>
   - text: Office of Products and Programs (OPP)
     children:  
     - children:  
