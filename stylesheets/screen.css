@@ -1114,8 +1114,8 @@ a[id]{
 .layout-table-of-contents ol h3{
 	font-size: 20px;
 	font-weight: 600;
-	break-after: avoid;
-	break-inside: avoid;
+	column-break-after: avoid;
+	column-break-inside: avoid;
 }
 
 .layout-table-of-contents ol h4{
