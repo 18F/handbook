@@ -11,7 +11,7 @@ CivicActions recognizes the importance of individual Professional Development fo
     *   Having the courage to be vulnerable, which leads to authentic communications and connection
     *   Open-minded thinking, which leads to increased tolerance of others ideas and personality styles
 
-CivicActions supports and encourages the Professional Development (prodev) of each team member by providing an annual budget of $1,200 per person to be used for prodev-related expenses.
+CivicActions supports and encourages the Professional Development (prodev) of each team member by providing an annual budget of $1,200 per person to be used for prodev-related expenses. Note: If you are a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours. 
 
 In addition to the $1,200 annual budget, each team member is encouraged to use a "take what you need" approach to using time for prodev pursuits during business hours, within the bounds of any billable hours goals you may have. If you need guidance on what amount of time is appropriate to spend on prodev in a given year, consult with your manager or refer to the historical data table below.
 
@@ -21,9 +21,10 @@ Historical Prodev Hours Spent:
 | ------ | ------------------------------ | ----------------------------- | --------------------------------------------- |
 | 2015   | 599.25                         | 19                            | 31.5                                          |
 | 2016   | 963.5                          | 28                            | 34.4                                          |
-| 2017\* | 1620                           | 35                            | 46.3                                          |
+| 2017   | 1620                           | 35                            | 46.3                                          |
+| 2018   | 1736                           | 44                            | 39.5                                          |
 
-*\*As of Nov 21, 2017. All data was pulled from Harvest. [Link to data & calculations here.](https://docs.google.com/spreadsheets/d/12aWOg9I_nbolpaA9j4vbsv5ABZW2hYXfjkcRwRpTs1I/edit#gid=2143420373)*
+*\*As of January 1, 2019. All data was pulled from Harvest.*
 
 ## Prodev Sprints
 
@@ -50,7 +51,7 @@ We have a [#prodev](https://civicactions.slack.com/messages/prodev) Slack channe
 ## Prodev FAQ's
 
 Q: How much do I get to spend on prodev each year?
-A: Your budget is $1,200. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee, your budget may be less than $1,200. Your manager can tell you more.
+A: Your budget is $1,200. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours. Your manager can tell you more.
 
 Q: What kinds of stuff can I spend my prodev budget on?
 A: Books, courses, conferences, certifications and prodev-related travel expenses.
