@@ -163,7 +163,7 @@ If you need office supplies that aren’t available in your office, software, or
 
 ## Get a copy of Microsoft Office
 
-1. See [Software](../software/#provisioning).
+1. See [Software](../software/#get-access-to-software-we-already-have).
 1. You’ll receive an email from Microsoft Volume Licensing Service Center. Don't click on the link in the email. *Instead*, [create a Microsoft Account](https://login.live.com/) with your .gov email.
 1. Check your email to confirm the account.
 1. Once the account is set up, click the link from the Microsoft Volume Licensing Service Center.

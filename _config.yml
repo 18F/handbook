@@ -334,10 +334,10 @@ navigation:
         internal: true
     - text: Infrastructure
       children:
-      - text: Infrastructure
+      - text: Infrastructure (TTS)
         url: infrastructure/
         internal: true
-      - text: Infrastructure
+      - text: Infrastructure (18F)
         url: intro-to-18f-infrastructure/
         internal: true
       - text: Software
