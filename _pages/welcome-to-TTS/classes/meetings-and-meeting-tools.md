@@ -35,7 +35,7 @@ OPP All Hands are a monthly, 1.5 hour opportunity for OPPers to hear updates fro
 
 Standups are generally daily meetings that teams use to track work and stay in touch. Work with your project team to decide what format and cadence of standup will be most productive for your team.
 
-## <a id="retrospectives">Project retrospectives</a>
+### <a id="retrospectives">Project retrospectives</a>
 
 Another project-specific meeting is the retrospective (called a retro, for short). This usually happens at the end of a two-week-long design or development sprint.
 
@@ -43,11 +43,11 @@ The idea behind the retro is pretty simple: This meeting provide an opportunity 
 
 They generally take between 30 and 45 minutes, and involve a few chunks of time: between five and eight minutes to write down what worked, between five and eight minutes to write down what needs addressing, and between five and eight minutes to write down what didn't work. Lastly, people can vote on issues and then discuss the most-voted-for ones as a team. The product of the meeting is "action items" that help the team function better next time.
 
-## <a id="sprint-planning">Sprint planning</a>
+### <a id="sprint-planning">Sprint planning</a>
 
 The last project-specific meeting is sprint planning. Sprint planning takes many forms, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint. If it's a team's first time doing sprint planning, I'm also a big fan of doing a "Hopes and Fears" exercise to map out the more subconscious things motivating my teammates.
 
-## <a id="design-and-development">Design and development meetings</a>
+### <a id="design-and-development">Design and development meetings</a>
 
 18F Design and Development run the following meetings in addition their own team-specific all-hands meetings (which fall outside of the scope of this document):
 
@@ -64,7 +64,7 @@ Here are some of the tools TTS uses to facilitate meetings.
 - [Google Meet](/google-meet/)
 - [Google Calendar](/google-calendar/)
 
-## <a id="remote-tools">Screensharing tools</a>
+### <a id="remote-tools">Screensharing tools</a>
 
 Federal employees use a range of different video software to communicate. Check with your agency partner for preferences. Some common programs:
 
@@ -73,10 +73,10 @@ Federal employees use a range of different video software to communicate. Check 
 - Talky.io
 - Join.me
 
-## Set up a conference line
+### Set up a conference line
 
 Use [Meeting Space](/gsa-internal-tools/#meeting-space).
 
-## <a id="ios-recording">Recording iOS 8+ devices</a>
+### <a id="ios-recording">Recording iOS 8+ devices</a>
 
  We can record iOS 8+ devices by connecting via lightning connector and then starting a QuickTime new movie recording. To record, you have to change the audio and video input devices.
