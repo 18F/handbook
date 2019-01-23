@@ -258,8 +258,8 @@ navigation:
         url: google-groups/
         internal: true
     - children:
-      - text: Google Hangouts
-        url: google-hangouts/
+      - text: Google Meet
+        url: google-meet/
         internal: true
       - text: Microsoft Office for OS X
         url: office/
