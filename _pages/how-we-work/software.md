@@ -61,6 +61,10 @@ The good news? You don’t have to worry about FITARA! The TTS SaaS PM and TTS O
 
 Once all of the attachments are in C2, the TTS Saas PM will contact you to set up a meeting to purchase your software! Make sure you reached out to the finance team (ASF or FCSF) for the correct accounting code if it is not already provided in the request. 
 
+## Chrome extensions
+
+Only use browser extensions approved by GSA IT. See [IT Service Catalog: Google Chrome Extension Request](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions) for the list of approved or rejected extensions, as well as how to request approval for a new extension.
+
 ## Contacts
 
 **TTS SaaS Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov)  
