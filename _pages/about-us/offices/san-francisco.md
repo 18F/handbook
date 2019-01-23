@@ -45,7 +45,7 @@ title: San Francisco
       <tr>
         <td class="col-key"><strong>Reserve seat</strong></td>
         <td class="col-value">
-            <a href="https://docs.google.com/spreadsheets/d/1QNGF8pvrVUXEa8tjsQEEw5itflDEAyjVxQgfCT6Kj5c/edit#gid=1956268259">SF Seat Reservation</a> is where you reserve a desk (we use our own spreadsheet instead of BookIT for this)
+            Any seat that doesn't have a nametag is fair game.
         </td>
       </tr>
     </tbody>
@@ -136,9 +136,13 @@ Whether you're new at TTS and are joining the SF office or you're a long-time TT
 
 ### Bring in one-time guests?
 
-Meet your guests at the front security desk to escort them in.
+Meet your guests at the front security desk to escort them in. You are responsible for your guests during their visit.
 
 Be aware that IDs from [a few states](https://www.dhs.gov/current-status-states-territories) are not acceptable; see that page for the current list of "noncompliant states". For these states, another issued picture ID is required (or they can just show a passport).
+
+Government staff and project partners are welcome to co-work in the office. Please let the rest of the team know so that they can say hello!
+
+If you would like to host a group from a non-government organization, please coordinate with [Outreach](/outreach).
 
 ### Host long-term guests?
 
@@ -234,12 +238,6 @@ For FedEx and UPS, please use the address as usual:
 > 50 United Nations Plaza<br/>
 > Suite 5685<br/>
 > San Francisco, CA 94102
-
-## Potluck
-
-We host a potluck lunch at noon the third Thursday of every month, to which we invite guests who are interested in finding out more about TTS and what we do. We're also very keen to meet folks who work in government or civic tech, or who are interested in learning more about that world.
-
-If you're a guest, **you must arrange your visit with your contact at least a day in advance** so that they know to meet you at the door. Please make sure to [bring acceptable ID](#bring-in-one-time-guests). Any dishes are welcome; vegetarian food is likely to be enjoyed by the most people. (And we all love desserts.)
 
 ## Amenities
 
