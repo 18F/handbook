@@ -15,7 +15,7 @@ title: Chicago
       <tr>
         <td class="col-key"><strong>Point of contact</strong></td>
         <td class="col-value">
-        <a href="https://gsa-tts.slack.com/messages/@eth/">Ethan Heppner</a> 
+        <a href="https://gsa-tts.slack.com/messages/@eth/">Ethan Heppner</a>
         </td>
       </tr>
       <tr>
@@ -32,7 +32,7 @@ title: Chicago
         </td>
         <td class="col-value">
            230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Regional Administrator is Brad Hansher.<br /><br />
-       TTS's office is in the south side of the 33rd floor (note that our mailing address is Suite #3500 but our office is on 33).
+       TTS's office is in the south side of the 33rd floor.
         </td>
       </tr>
       <tr>
@@ -85,7 +85,7 @@ Fingerprints and badge can be done at the security office on the second floor (R
 
 ### <a id="enter-the-building-with-badge"></a>Enter the building with a GSA badge
 
-Your GSA ID grants you access to the building at any time between 7 a.m. and 6 p.m. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building. 
+Your GSA ID grants you access to the building at any time between 7 a.m. and 6 p.m. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building.
 
 ### <a id="onboarding"></a>Attend onboarding?
 
@@ -134,7 +134,7 @@ Refer to [our printer information document](https://docs.google.com/document/d/1
 
 ### <a id="transit-subsidy"></a>Transit subsidy
 
-All GSA employees are eligible for transit subsidies which cover the cost of your Metro travel. 
+All GSA employees are eligible for transit subsidies which cover the cost of your Metro travel.
 
 See the [Transit Benefit](/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
