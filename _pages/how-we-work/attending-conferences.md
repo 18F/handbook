@@ -149,4 +149,4 @@ The review and approval process times vary by the type of request and the layers
 
 ## After the Conference
 
-Add your notes about the conference to the [Conferences Notes doc](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=0) for your fellow 18F'ers to read and learn from!
+Add your notes about the conference to the [Conferences Notes doc](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=0) for your colleagues to read and learn from!
