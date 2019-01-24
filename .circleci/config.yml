@@ -22,6 +22,10 @@ jobs:
           command: bundle install --jobs=4 --retry=3 --path vendor/bundle
 
       - run:
+          name: install html-proofer
+          command: gem install html-proofer
+
+      - run:
           name: htmlproofer
           command: htmlproofer
 
