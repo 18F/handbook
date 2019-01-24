@@ -265,7 +265,7 @@ navigation:
         url: google-hangouts/
         internal: true
       - text: Microsoft Office for OS X
-        url: /gsa-internal-tools/#get-a-copy-of-microsoft-office
+        url: gsa-internal-tools/#get-a-copy-of-microsoft-office
         internal: true
       - text: MailChimp
         url: mailchimp/
