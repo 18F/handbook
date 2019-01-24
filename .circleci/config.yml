@@ -27,7 +27,7 @@ jobs:
 
       - run:
           name: htmlproofer
-          command: htmlproofer
+          command: htmlproofer ./_site
 
       - save_cache:
           paths:
