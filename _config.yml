@@ -478,7 +478,7 @@ navigation:
         internal: false
       - text: 10x
         url: https://10x.gsa.gov
-        internal: true
+        internal: false
   - text: Centers of Excellence (CoE)
     children:
     - text: CoE Website
