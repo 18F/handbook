@@ -21,7 +21,7 @@ TTS brings everyone together for monthly Townhalls. You'll hear well in advance 
 
 ### <a id="location-specific">Location-specific meetings</a>
 
-Individual offices have rituals that you might want to take part in. See the [office guides](/offices) for more information.
+Individual offices have rituals that you might want to take part in. Check in your local office Slack channel for more information!
 
 ### <a id="working-group">Working-group meetings</a>
 
