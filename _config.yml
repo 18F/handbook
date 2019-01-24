@@ -95,7 +95,7 @@ navigation:
       internal: true
     - text: Networks
       url: networks/
-      internal: true  
+      internal: true
     - text: Benefits
       url: benefits/
       internal: true
@@ -160,7 +160,7 @@ navigation:
       children:
       - text: FITARA
         url: fitara/
-        internal: true 
+        internal: true
       - text: Requirements for Passwords
         url: password-requirements/
         internal: true
@@ -196,7 +196,7 @@ navigation:
       - text: Telework guidance
         url: telework/
         internal: true
-        children: 
+        children:
         - text: Virtual work and moving
           url: moving/
           internal: true
@@ -220,7 +220,7 @@ navigation:
       - text: Term extensions
         url: term-extensions/
         internal: true
-        
+
   - text: TTS Tools
     children:
     - children:
@@ -265,7 +265,7 @@ navigation:
         url: google-hangouts/
         internal: true
       - text: Microsoft Office for OS X
-        url: office/
+        url: /gsa-internal-tools/#get-a-copy-of-microsoft-office
         internal: true
       - text: MailChimp
         url: mailchimp/
@@ -306,7 +306,7 @@ navigation:
   generated: true
   children:
   - text: TTS Office of Operations
-    children: 
+    children:
     - text: Governance and Compliance Division
       children:
       - text: Coming soon!
@@ -355,7 +355,7 @@ navigation:
         url: blogging/
         internal: true
   - text: TTS Office of Acquisitions
-    children: 
+    children:
     - text: About Acquisitions
       url: acquisition/
       internal: true
@@ -363,15 +363,12 @@ navigation:
     children:
     - text: About 18F
       children:
-      - text: 18F History and values
+      - text: 18F history and values
         url: history-and-values/
         internal: true
-      - text: Mission
-        url: mission/
-        internal: true
       - text: 18F org chart
-        url: org-chart/
-        internal: true
+        url: https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit
+        internal: false
     - text: 18F Chapters
       children:
       - text: Custom Partner Solutions
@@ -408,7 +405,7 @@ navigation:
         url: https://login.gov/
         internal: false
     - text: 18F Offices
-      children:    
+      children:
       - text: Distributed
         url: distributed/
         internal: true
@@ -433,8 +430,8 @@ navigation:
         url: https://github.com/18F/design-lab
         internal: false
       - text: Dev Lab
-        url: dev-lab/
-        internal: true
+        url: https://gsa-tts.slack.com/messages/CDE5DU7QC/
+        internal: false
     - text: 18F Team Resources
       children:
       - text: Bookmarks
@@ -446,22 +443,22 @@ navigation:
       - text: One-on-ones
         url: one-on-ones/
         internal: true
-      - text: Out of Office Expectations
+      - text: Out of office expectations
         url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
         internal: false
       - text: Before you ship
         url: https://before-you-ship.18f.gov/infrastructure/aws/
         internal: false
       - text: Open source
-        url: open-source/
-        internal: true
+        url: https://github.com/18F/open-source-policy/blob/master/policy.md
+        internal: false
       - text: Time tracking and billing <br><br>
         url: https://handbook.18f.gov/tock/#time-tracking-and-billing
         internal: false
   - text: Office of Products and Programs (OPP)
-    children:  
+    children:
     - text: About OPP
-      children:  
+      children:
       - text: Overview of OPP
         url: office-of-products-and-programs/
         internal: true
@@ -470,9 +467,9 @@ navigation:
         internal: true
       - text: OPP org chart
         url: opp-org-chart/
-        internal: true 
+        internal: true
     - text: Portfolios
-      children: 
+      children:
       - text: Data
         url: data/
         internal: true
