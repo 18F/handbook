@@ -45,38 +45,15 @@ They generally take between 30 and 45 minutes, and involve a few chunks of time:
 
 ### <a id="sprint-planning">Sprint planning</a>
 
-The last project-specific meeting is sprint planning. Sprint planning takes many forms, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint. If it's a team's first time doing sprint planning, I'm also a big fan of doing a "Hopes and Fears" exercise to map out the more subconscious things motivating my teammates.
-
-### <a id="design-and-development">Design and development meetings</a>
-
-18F Design and Development run the following meetings in addition their own team-specific all-hands meetings (which fall outside of the scope of this document):
-
-**Critique groups.** The design team runs critique groups that meet once a week and, as you might expect, serve as an opportunity for storytelling and rapport building. There are a number of critique groups currently meeting, and each of them has a different focus. To learn more about any of them, contact [Jennifer Thibault](https://gsa-tts.slack.com/messages/@jenthibault/).
-
-**Demo days.** Another thing the design team is cooking up are demo days, which are exactly what they sound like. Demo days aren't regularly scheduled -- please check the 18F Events calendar to see what's on the schedule.
-
-In addition, the #dev team does Engineering Talks every two weeks or so. These are listed on the "18F Engineering" calendar.
+The last project-specific meeting is sprint planning. Sprint planning takes many forms, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint.
 
 ## <a id="meetings-tools">Tools</a>
 
 Here are some of the tools TTS uses to facilitate meetings.
 
-- [Google Meet](/google-meet/)
-- [Google Calendar](/google-calendar/)
-
-### <a id="remote-tools">Screensharing tools</a>
-
-Federal employees use a range of different video software to communicate. Check with your agency partner for preferences. Some common programs:
-
-- [Google Hangouts](/google-hangouts)
+- [Google Meet]({{ site.baseurl }}/google-meet/)
+- [Google Calendar]({{ site.baseurl }}/google-calendar/)
+- [Zoom]({{ site.baseurl }}/zoom/)
+- [Meeting Space]({{ site.baseurl }}/gsa-internal-tools/#meeting-space) (for conference lines)
 - Adobe Connect
-- Talky.io
-- Join.me
 
-### Set up a conference line
-
-Use [Meeting Space](/gsa-internal-tools/#meeting-space).
-
-### <a id="ios-recording">Recording iOS 8+ devices</a>
-
- We can record iOS 8+ devices by connecting via lightning connector and then starting a QuickTime new movie recording. To record, you have to change the audio and video input devices.

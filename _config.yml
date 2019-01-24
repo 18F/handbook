@@ -148,7 +148,7 @@ navigation:
         url: washington-dc/
         internal: true
 
-    - text: Travel and Leave
+    - text: Travel and leave
       children:
       - text: Leave (HR Links)
         url: leave/
@@ -161,7 +161,7 @@ navigation:
       - text: FITARA
         url: fitara/
         internal: true
-      - text: Requirements for Passwords
+      - text: Requirements for passwords
         url: password-requirements/
         internal: true
       - text: Security incidents
@@ -170,7 +170,7 @@ navigation:
       - text: Sensitive information
         url: sensitive-information/
         internal: true
-    - text: Employee Resources
+    - text: Employee resources
       children:
       - text: Benefits links and resources
         url: benefits-links/
@@ -209,9 +209,9 @@ navigation:
       - text: Attending or speaking at a conference
         url: attending-conferences/
         internal: true
-    - text: Detailing and Offboarding
+    - text: Detailing and offboarding
       children:
-      - text: Assignments and Details
+      - text: Assignments and details
         url: assignee-detail/
         internal: true
       - text: Leaving TTS
@@ -221,13 +221,13 @@ navigation:
         url: term-extensions/
         internal: true
 
-  - text: TTS Tools
+  - text: TTS tools
     children:
     - children:
       - text: Meetings and meeting tools
         url: meetings-and-meeting-tools/
         internal: true
-      - text: GSA Internal Tools
+      - text: GSA internal tools
         url: gsa-internal-tools/
         internal: true
       - text: AnyConnect
@@ -254,10 +254,10 @@ navigation:
       - text: Google Drive
         url: google-drive/
         internal: true
+    - children:
       - text: Google Groups
         url: google-groups/
         internal: true
-    - children:
       - text: Google Meet
         url: google-meet/
         internal: true
