@@ -15,7 +15,7 @@ title: Chicago
       <tr>
         <td class="col-key"><strong>Point of contact</strong></td>
         <td class="col-value">
-        <a href="https://gsa-tts.slack.com/messages/@eth/">Ethan Heppner</a> 
+        <a href="https://gsa-tts.slack.com/messages/@eth/">Ethan Heppner</a>
         </td>
       </tr>
       <tr>
@@ -85,7 +85,7 @@ Fingerprints and badge can be done at the security office on the second floor (R
 
 ### <a id="enter-the-building-with-badge"></a>Enter the building with a GSA badge
 
-Your GSA ID grants you access to the building at any time between 7 a.m. and 6 p.m. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building. 
+Your GSA ID grants you access to the building at any time between 7 a.m. and 6 p.m. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building.
 
 ### <a id="onboarding"></a>Attend onboarding?
 
@@ -130,11 +130,15 @@ If you need pens, paper, and other office supplies, there are a few items above 
 
 Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#) for more details.
 
+### <a id="law-department"></a>Law department offices
+
+37th floor.
+
 ## <a id="amenities"></a>Amenities
 
 ### <a id="transit-subsidy"></a>Transit subsidy
 
-All GSA employees are eligible for transit subsidies which cover the cost of your Metro travel. 
+All GSA employees are eligible for transit subsidies which cover the cost of your Metro travel.
 
 See the [Transit Benefit](/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
