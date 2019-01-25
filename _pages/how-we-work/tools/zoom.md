@@ -46,7 +46,7 @@ you to both create and moderate meetings. This moderation panel can be really us
 like muting everyone (since there's always someone who leaves their mic open accidentally).
 
 Unfortunately, the "shorter than 40 minutes" is a hard limitation on our Zoom accounts. Once your
-meeting reaches 40 minutes, it's over! [_RENEW! RENEW!_](http://scifi.stackexchange.com/questions/22080/what-did-the-crowd-think-it-took-to-win-renewal-in-carrousel)
+meeting reaches 40 minutes, it's over! [_RENEW! RENEW!_](http://scifi.stackexchange.com/questions/22080/what-did-the-crowd-think-it-took-to-win-renewal-in-carrousel) An easy (albeit annoying) way to get around this is simply for everyone exit and re-enter the meeting, using the same link (the timer will restart).
 
 These meetings do not need to be scheduled in advance and you may hold as many as you like. 
 
