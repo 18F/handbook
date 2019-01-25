@@ -31,7 +31,7 @@ jobs:
 
       - run:
           name: htmlproofer
-          command: htmlproofer ./_site
+          command: htmlproofer ./_site htmlproofer --disable-external
 
       - save_cache:
           paths:
