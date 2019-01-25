@@ -462,20 +462,20 @@ navigation:
     - text: Portfolios
       children:
       - text: Data
-        url: data/
-        internal: true
+        url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#DSP
+        internal: false
       - text: Innovation
-        url: innovation/
-        internal: true
+        url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#IP
+        internal: false
       - text: Public Experience
-        url: public-experience/
-        internal: true
+        url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#CEP
+        internal: false
       - text: Smarter IT
-        url: smarter-it/
-        internal: true
+        url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SmarterITDelivery
+        internal: false
       - text: Secure Cloud
-        url: secure-cloud/
-        internal: true
+        url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SecureCloud
+        internal: false
       - text: 10x
         url: https://10x.gsa.gov
         internal: false
