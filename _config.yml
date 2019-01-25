@@ -345,9 +345,12 @@ navigation:
       - text: Blogging
         url: blogging/
         internal: true
-  - text: TTS Office of Acquisitions
+  - text: TTS Office of Acquisition
     children:
-    - text: About Acquisitions
+    - text: Overview of OA
+      url: oa/
+      internal: true
+    - text: OA Operational Guidance
       url: acquisition/
       internal: true
   - text: 18F
