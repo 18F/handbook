@@ -10,29 +10,29 @@ title: Acquisition
 
 Welcome to the 18F Acquisition Chapter — we’re happy you’re here! We’ve compiled some information to help you get started.  We’ll update this guide as we receive feedback, so don’t be shy to share your thoughts. 
 
-### Who We Are
+### Who we are
 
 Members of the Acquisition team come from all over: inside GSA, consulting firms, peace corps, and other government agencies. Collectively, we work as the acquisition part of the overall 18F cross-functional team bringing our expertise to help agency partners (experts in their mission) produce more effective procurement strategies, implement modern procurement practices, and better vendor outcomes. We’re experienced in a wide variety of procurements and have tons of stories of procurements that have gone well and some that haven’t.  Ask us!
 
-### Our Vision & Mission
+### Our vision & mission
 
 The Acquisition Chapter exists to prove that government acquisitions can be joyful for our employees, agency partners, and industry partners. We do this, by ensuring that informed buyers can easily and confidently access the right products and services to meet their agency’s  mission. No matter what the agency partner is undertaking or trying to solve, the acquisition process will be unavoidable and it can be used as an amazing point for leverage to improve overall outcomes.
 
 As a team, we are dedicated to bringing an agile, human centered, and cross-functional approach to procurements that will better prepare our partners to work with modern vendor teams iteratively; developing open source software products to help agencies achieve their mission.
 
-### Our Value Proposition
+### Our value proposition
 
 18F Acquisition Consulting helps agencies buy digital services in a way that reduces risk and provides value to end-users more rapidly than traditional methods.
 We seek to design and evangelize acquisition approaches that are better aligned with current industry practices to ensure the successful delivery of digital products and services that truly meet the needs of our agency partners and the people they serve.
 
-### Our Principles
+### Our principles
 
 * Use **human-centered design** to focus on software that meets actual people's needs/
 * Leverage **open-source software**, and select modern tech stacks to ensure long-term sustainability.
 * Utilize **product thinking** to prioritize, focus work, and deliver demonstrable value.
 * Structure contracts to **support modularity, lower costs, increase quality, and avoid vendor lock-in.**
 * Ensure that **agile development methodologies** are employed to deliver working code sooner.
-* **Communicate clearly** about methods, lessons-learned, and recommendations.
+* **Communicate clearly** about methods, lessons learned, and recommendations.
 
 ### What We Do
 
@@ -48,18 +48,18 @@ In pursuit of this strategy, we:
 
 ### How we communicate
 
-The majority of our conversations take place on Slack and video.  There are a number of slack channels for acquisition discussions. 
+The majority of our conversations take place on Slack and video.  There are a number of Slack channels for acquisition discussions. 
 
-Team meetings are generally over google hangouts and zoom. If you would like your own zoom account, hop on over to [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom/) to request one.
+Team meetings are generally over Google Hangouts and Zoom. If you would like your own zoom account, hop on over to [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom/) to request one.
 
 ### Stuff to do, sign, and read
 
 #### Do
 
-##### Acquisition Training 
+##### Acquisition training 
 
-[On boarding Training for COs](https://docs.google.com/document/d/1rQYUP1ARL0OnxUD5FNHKmt-ExiFWxSVeE6lHmKaMvxE/edit)
-[Acquisition Training for non 1102s](https://docs.google.com/document/d/1xmRsU4_07fvEyPaWmwBMNtpw4saT4gGSMMH6S97MxAs/edit)
+[On boarding Training for Contracting Officers](https://docs.google.com/document/d/1rQYUP1ARL0OnxUD5FNHKmt-ExiFWxSVeE6lHmKaMvxE/edit)
+[Acquisition Training for non-1102s (non-contracting specialists)](https://docs.google.com/document/d/1xmRsU4_07fvEyPaWmwBMNtpw4saT4gGSMMH6S97MxAs/edit)
 
 #### Sign
 
@@ -97,7 +97,7 @@ These are a couple of suggested reading materials meant to give you a better sen
 * **Start small and build.** It can be overwhelming starting a new project with an excited partner. Encourage them to focus on one piece of functionality to deliver to users. This is your starting point. Trying to deliver an entire end-to-end system is likely to stall the project due to lack of focus. You will also encounter the same principles and practices on a small project that would be applied to a far larger one. Don’t try to win a marathon before you’ve learned to run in the first place.
 * **Retros are your friend.** Recognize that there isn’t a one-size-fits-all approach to procurement or product development and it’s necessary to meet the agency partner where they are.  Allow for incremental learning over time. Ensure that these are blameless spaces, because without transparent and honest communication the dynamics will slowly fester and create the kinds of legacy environments that can stymie progress at the partner agencies.
 
-#### Situational Awareness
+#### Situational awareness
 
 * **Build your empathy muscle.** Take time to understand the problem space, past challenges, and the goals of the product team. 
 * **Product owners are key to success.** Be wary of starting post-procurement work with an agency partner if there is no empowered, dedicated product owner to lead the work.
