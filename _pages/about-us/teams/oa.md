@@ -10,7 +10,7 @@ We seek to design and evangelize acquisition approaches that are better aligned 
 the successful delivery of technology products and services that truly meet the needs of TTS, our agency partners, and the 
 people they serve. 
 
-##Our Approach
+## Our Approach
 
 In pursuit of our mission, we incorporate the following practices:
 
