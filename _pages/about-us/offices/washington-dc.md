@@ -9,7 +9,7 @@ title: Washington, D.C.
         <td class="col-value">
           General Services Administration  <br />
           1800 F St. NW  <br />
-          Washington, D.C. 20405  
+          Washington, D.C. 20405
         </td>
       </tr>
       <tr>
@@ -40,7 +40,7 @@ title: Washington, D.C.
         <td class="col-value">Central Office</td>
       </tr>
     </tbody>
-  </table>  
+  </table>
 </div>
 
 ## Getting here
@@ -123,6 +123,14 @@ Depending on your needs, you might need different room accommodations. A cheat s
 If you're expecting a small group of US citizens (fewer than 15 or so), no advance action is required on your part. Let your guest(s) know to bring ID; they'll give your name and the TTS room number (4400) at the security desk. You'll have to go down and escort them up.
 
 If you're expecting a large group, or if the group includes non-US citizens, you should give security advance notice.
+
+### Register for building badge swipe access as a non-GSA federal employee?
+
+Federal employees who work for agencies other than GSA can register their PIV cards to open doors and turnstiles at 1800 F by visiting the GSA security office. OMA Security is located in the basement in **room B338**. Office hours are Monday &ndash; Thursday from 7:00 am &ndash; 3:30 pm. This is particularly useful for biking as it will allow your PIV card to open the courtyard doors from the parking lot.
+
+### Request a basement locker?
+
+Fitness center users and bicyclists who want to request a locker in the basement wing 3 should contact 1800FTenantSupport@gsa.gov.
 
 ### Access a printer?
 
