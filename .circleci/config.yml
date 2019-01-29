@@ -31,10 +31,6 @@ jobs:
           command: bundle exec jekyll build
 
       - run:
-          name: install html-proofer
-          command: gem install html-proofer
-
-      - run:
           name: htmlproofer
-          command: htmlproofer ./_site htmlproofer --disable-external
+          command: bundle exec htmlproofer ./_site htmlproofer --disable-external
 
