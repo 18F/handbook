@@ -10,7 +10,7 @@ title: Travel Guide Table of Contents
 * [1. Confirm email of approval](/travel-guide-1-authorization)
     * [Non-billable travel](/travel-guide-1-authorization/#non-billable-travel-approval)
     * [Billable travel](/travel-guide-1-authorization/#billable-travel-approval)
-    * [Is travel less than 3 days away? (Call Ad Trav)](/travel-guide-1-authorization/#AdTrav)
+    * [Is travel less than 3 days away? (Call Ad Trav)](/travel-guide-1-authorization/#adtrav)
 * [2. Choose Your Itinerary](/travel-guide-2-choose-your-itinerary)
     * [Book your flight or rail](/travel-guide-2-choose-your-itinerary/#book-flight-or-rail)
     * [Book lodging through Fedrooms (recommended)](/travel-guide-2-choose-your-itinerary/#book-lodging)
