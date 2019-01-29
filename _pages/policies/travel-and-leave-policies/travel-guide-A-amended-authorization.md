@@ -31,7 +31,7 @@ If the options the airline offers won't work with your schedule, or your origina
 
 Whether calling the airline direct, or calling AdTrav, keep records of any difference in price so the travel can be accounted for correctly after you return.
 
-If your travel requires a change in dates, but no flight or rail reservations will be affected, skip ahead to the [Manually amending dates of travel in Concur](#Manually-amending-dates-of-travel-in-Concur) section.
+If your travel requires a change in dates, but no flight or rail reservations will be affected, skip ahead to the [Manually amending dates of travel in Concur](#manually-amending-dates-of-travel-in-concur) section.
 
 ####Changes required in Concur
 
