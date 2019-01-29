@@ -38,16 +38,4 @@ def_command :update_theme, 'Update the guides_style_18f gem' do
   GuidesStyle18F.update_theme
 end
 
-def_command :update_gems, 'Update Ruby gems' do |gems|
-  update_gems gems
-end
-
-def_command :serve, 'Serve the site at localhost:4000' do |args|
-  serve_jekyll args
-end
-
-def_command :build, 'Build the site' do |args|
-  build_jekyll args
-end
-
 execute_command ARGV
