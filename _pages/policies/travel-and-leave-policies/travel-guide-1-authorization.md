@@ -125,7 +125,7 @@ Additional templates for emails involving other circumstances are available in t
 
 **Are you traveling in the next 3 business days?**
 
-[Yes - I need AdTrav](/travel-guide-1-authorization/#AdTrav)
+[Yes - I need AdTrav](/travel-guide-1-authorization/#adtrav)
 
 [No - I need to book an upcoming trip that will start later than 3 days. Go to normal booking.](/travel-guide-2-choose-your-itinerary)
 
