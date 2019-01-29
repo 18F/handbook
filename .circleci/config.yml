@@ -28,7 +28,7 @@ jobs:
 
       - run:
           name: build site
-          command: jekyll build
+          command: bundle exec jekyll build
 
       - run:
           name: install html-proofer
