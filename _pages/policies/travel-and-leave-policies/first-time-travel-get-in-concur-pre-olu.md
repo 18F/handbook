@@ -19,7 +19,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
    Yes, you probably already filled out the EFT form at orientation, so this seems repetitive. However, there is a good reason for it. [Click here to find out why](https://docs.google.com/document/d/1cHGnvUVGzYJkSuW0-2ZEy4g4vwgNLLkZcI1j5JVozDQ/edit#bookmark=id.f206jlg5swxh).
 
 2.  **Attach your completed EFT form** to [this pre-populated email](https://mail.google.com/mail/?view=cm&ui=2&tf=0&fs=1&to=kc-vendor.number.requests%40gsa.gov&su=Request%20to%20Obtain%20Employee%20ID&body=To%20KC%20Vendor%2C%0A%0ACould%20I%20please%20have%20my%20employee%20ID%3F%0A%0AThank%20you%2C%0A) and send.
-[_Having trouble sending the EFT form?_](#having-trouble-sending-the-EFT-form)
+[_Having trouble sending the EFT form?_](#having-trouble-sending-the-eft-form)
 
 3. **Wait for a reply to your email.**
    You’ll get a number like **E000xxxxx** in the reply, which is important for the next step.
