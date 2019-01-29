@@ -111,7 +111,7 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 ## Posting a Detail Opportunity within GSA
 * If you are considering posting a detail opportunity you should first get approval from your supervisor and the Assistant Commissioner (AC) of your office  
 * Then reach out to the [tts-talentteam@gsa.gov](mailto:TTS-talentteam@gsa.gov) to get Front Office approval
-* To post a detail opportunity, available to all of GSA, you will have to complete [this google form](https://insite.gsa.gov/topics/training-and-development/opportunity-network/post-an-opportunity)
+* To post a detail opportunity, available to all of GSA, you will have to complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScLZaVX0M3X1tfbdbAL10AVf-rvzcNClRzcUtbBwzTZ7z0kJw/viewform?c=0&w=1)
   * If the detail opportunity has a PD (series-title-grade) associated with it, then only applicants who are at or above that grade level are eligible to apply (Project network does not allow for details to a higher grade)
   * If the opportunity does not have a PD then you will need to create and post a list of “unclassified set of duties”. Employees at any GS level will be able to apply
   * Project Network reviews all applicants for program criteria, such as supervisory permission to apply, grade level if your position is posted to specific grade, and location criteria, they do not screen applicants, that is the responsibility of the Hiring Manager
