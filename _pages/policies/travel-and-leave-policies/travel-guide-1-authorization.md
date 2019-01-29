@@ -25,7 +25,7 @@ Starting this process assumes that you are both in the Concur system and have a 
 
 Before making *any* reservations, you'll want to make sure that your trip has been pre-approved by someone who has the ability to obligate funds on behalf of the government. This person could be a division director or higher inside 18F if the travel is considered non-billable, or they could be someone outside 18F (who is designated on an inter-agency agreement or memorandum of understanding with 18F) if the travel is considered billable. There is a slightly different process for requesting approval depending on whether the travel is [billable](/travel-guide-1-authorization/#billable-travel-approval) or [nonbillable](/travel-guide-1-authorization/#non-billable-travel-approval).
 
-Know that you've already been approved to travel? Skip ahead to [I'm approved! What's next?](/travel-guide-1-authorization/#Im-approved-Whats-next)
+Know that you've already been approved to travel? Skip ahead to [I'm approved! What's next?](/travel-guide-1-authorization/#im-approved-whats-next)
 
 ## Non-billable travel approval
 
@@ -72,7 +72,7 @@ Project managers (or their delegates) are responsible for requesting written app
 * **Body:** Names, origins, and destinations, as well as dates/locations of any additional travel made in conjunction with official travel at the individual's personal expense. The template [below](/travel-guide-1-authorization/#template-email-of-approval)) may be used.
 * **As an attachment** An estimate of total travel expenses using [this template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=1000729692), which automatically calculates [round-trip City Pair fares](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) and [hotel/M&IE estimates based on the GSA per diem rates](http://www.gsa.gov/portal/category/100120) (Mileage cost estimates will still need to be manually estimated using the [GSA Reimbursement rates](http://www.gsa.gov/portal/content/100715)).
 
- Once you have been cc'd on your client's email of approval, you are good to move on to [the next step](/travel-guide-1-authorization/#Im-approved-Whats-next).
+ Once you have been cc'd on your client's email of approval, you are good to move on to [the next step](/travel-guide-1-authorization/#im-approved-whats-next).
 
 #### Amending approval for billable travel
 Any changes to the itinerary approved by the client that require:
