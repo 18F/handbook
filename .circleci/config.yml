@@ -19,7 +19,12 @@ jobs:
 
       - run:
           name: install dependencies
-          command: bundle install --jobs=4 --retry=3
+          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+
+      - save_cache:
+          paths:
+            - ./vendor/bundle
+          key: v2-dependencies-{{ checksum "Gemfile.lock" }}
 
       - run:
           name: build site
@@ -33,7 +38,3 @@ jobs:
           name: htmlproofer
           command: htmlproofer ./_site htmlproofer --disable-external
 
-      - save_cache:
-          paths:
-            - ./vendor/bundle
-          key: v2-dependencies-{{ checksum "Gemfile.lock" }}
