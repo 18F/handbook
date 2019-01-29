@@ -46,4 +46,4 @@ procurement practices agile, current, applicable and in compliance at the Federa
 
 ## Questions?
 
-Ask in Slack: [#talent](https://gsa-tts.slack.com/messages/tts-oa-internalbuy/)
+Ask in Slack: [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy/)
