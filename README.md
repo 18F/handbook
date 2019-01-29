@@ -37,6 +37,14 @@ bundle exec jekyll serve
 
 See the 18F Pages documentation to learn how to [make a new page](https://pages.18f.gov/guides-template/add-a-new-page/) and [add it to the homepage navigation links](https://pages.18f.gov/guides-template/update-the-config-file/).
 
+### Fork or branch?
+
+Forking and branching are two ways of submitting pull requests to edit the Handbook.
+
+* **TTS teammates**: Please use ***branching*** to submit pull requests. Federalist Preview sites will only be built from a branch, and continuous integration can only succeed for PRs created from branches.
+
+* **External contributors**: Please use ***forking*** to submit pull requests, since non-TTS contributors do not have write access. Unfortunately, we won't be able to run Federalist Preview sites for your pull request; please build and serve the site locally to test instead.
+
 ### Travel guide development
 
 To add additional images:
