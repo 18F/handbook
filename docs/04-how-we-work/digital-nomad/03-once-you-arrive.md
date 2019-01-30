@@ -1,5 +1,7 @@
 # Once you arrive
 
+*   Reserve the first few days as "vacation" days - not work days.
+    *   Take a day/two/three to get your new work/life setup before you attempt to focus on work. You'll need time to focus on setup of home, finding your way around, figuring out shops/phones/ISPs/transit/housing/co-working spaces, etc. Depending on the location, you may also have jetlag. Only after you have all that organized should you attempt to focus on work! If you attempt to focus on work, before you have setup your new life in the new location, you'll be distracted and unproductive in both.
 *   Confirm connectivity
     *   Check power outlets, adapters and internet.
     *   Find another location that can be your "backup wifi location" and test there also.
