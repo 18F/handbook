@@ -16,7 +16,7 @@ Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) and 
 
 Phyllis's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
-*NOTE:* When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).  
+*NOTE:* When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).
 
 ## Benefits contacts
 
@@ -181,6 +181,6 @@ TTS team members are eligible for many professional development and training opp
 
 ## Transit subsidies
 
-All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you'll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor's signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office guides](/#offices) for more information.
+All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you'll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor's signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office guides](/#18f-offices) for more information.
 
-GSA's Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).   
+GSA's Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).

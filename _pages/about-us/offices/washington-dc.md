@@ -9,7 +9,7 @@ title: Washington, D.C.
         <td class="col-value">
           General Services Administration  <br />
           1800 F St. NW  <br />
-          Washington, D.C. 20405  
+          Washington, D.C. 20405
         </td>
       </tr>
       <tr>
@@ -40,7 +40,7 @@ title: Washington, D.C.
         <td class="col-value">Central Office</td>
       </tr>
     </tbody>
-  </table>  
+  </table>
 </div>
 
 ## Getting here
@@ -124,6 +124,14 @@ If you're expecting a small group of US citizens (fewer than 15 or so), no advan
 
 If you're expecting a large group, or if the group includes non-US citizens, you should give security advance notice.
 
+### Register for building badge swipe access as a non-GSA federal employee?
+
+Federal employees who work for agencies other than GSA can register their PIV cards to open doors and turnstiles at 1800 F by visiting the GSA security office. OMA Security is located in the basement in **room B338**. Office hours are Monday &ndash; Thursday from 7:00 am &ndash; 3:30 pm. This is particularly useful for biking as it will allow your PIV card to open the courtyard doors from the parking lot.
+
+### Request a basement locker?
+
+Fitness center users and bicyclists who want to request a locker in the basement wing 3 should contact 1800FTenantSupport@gsa.gov.
+
 ### Access a printer?
 
 Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#) for more details.
@@ -161,7 +169,7 @@ If you need batteries for your keyboard or trackpad, there is a consolidated sup
 
 ### Lockers
 
-The lockers are in two spots. One set is by the couches the other by that large table on the E Street side. You will be assigned a locker if you work in D.C. so that you have a spot for personal belongings.
+The lockers are in two spots. One set is by the couches the other by that large table on the E Street side. If you work in DC and do not have a locker assigned to you, email 1800ftenantsupport@gsa.gov to request a locker in the 4th floor infill area.
 
 
 ### Snacks

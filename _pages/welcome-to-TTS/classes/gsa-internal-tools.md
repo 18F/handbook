@@ -120,7 +120,7 @@ In general, you should request leave ahead of time (although it is possible to r
 
 You can see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express](#employee-express).
 
-We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  
+We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.
 
 For 18F employees: after you've created your leave request, add your planned absence to the shared [Out of Office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America%2FChicago) Google calendar; that way, everyone will know when you're going to be out of the office. Finally, please note that [HR Links](/leave) is GSA's system and separate from [Tock](/tock), which is 18F's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both.
 
@@ -155,7 +155,7 @@ For more information, reference the [OLU](/olu) page.
 
 TTS has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. If you’d like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
-Access to general office supplies varies based on your location — see our [office guides](/#offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
+Access to general office supplies varies based on your location — see our [office guides](/#18f-offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
 
 For software requests, see [Software](../software/).
 
@@ -163,7 +163,7 @@ If you need office supplies that aren’t available in your office, software, or
 
 ## Get a copy of Microsoft Office
 
-1. See [Software](../software/#provisioning).
+1. See [Software](../software/#get-access-to-software-we-already-have).
 1. You’ll receive an email from Microsoft Volume Licensing Service Center. Don't click on the link in the email. *Instead*, [create a Microsoft Account](https://login.live.com/) with your .gov email.
 1. Check your email to confirm the account.
 1. Once the account is set up, click the link from the Microsoft Volume Licensing Service Center.
