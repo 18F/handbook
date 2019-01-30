@@ -169,7 +169,7 @@ If you need batteries for your keyboard or trackpad, there is a consolidated sup
 
 ### Lockers
 
-The lockers are in two spots. One set is by the couches the other by that large table on the E Street side. You will be assigned a locker if you work in D.C. so that you have a spot for personal belongings.
+The lockers are in two spots. One set is by the couches the other by that large table on the E Street side. If you work in DC and do not have a locker assigned to you, email 1800ftenantsupport@gsa.gov to request a locker in the 4th floor infill area.
 
 
 ### Snacks
