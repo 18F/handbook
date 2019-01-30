@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/handbook
     docker:
-       - image: circleci/ruby:2.4-node
+       - image: circleci/ruby:2.6-node
     environment:
       # fix encoding
       - LANG: C.UTF-8
@@ -16,12 +16,21 @@ jobs:
           - v2-dependencies-{{ checksum "Gemfile.lock" }}
           # fallback to using the latest cache if no exact match is found
           - v2-dependencies-
+
       - run:
           name: install dependencies
           command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+
       - save_cache:
           paths:
             - ./vendor/bundle
           key: v2-dependencies-{{ checksum "Gemfile.lock" }}
 
-      - run: ./go ci_build
+      - run:
+          name: build site
+          command: bundle exec jekyll build
+
+      - run:
+          name: htmlproofer
+          command: bundle exec htmlproofer ./_site htmlproofer --disable-external
+

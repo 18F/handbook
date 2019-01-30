@@ -23,11 +23,16 @@ We're careful about publishing [information collected during research](https://h
 
 ## Development
 
-``` bash
-git clone https://github.com/18F/handbook.git
-cd handbook
+Install dependencies:
+
+```bash
 bundle install
-./go serve
+```
+
+Serve the site:
+
+```bash
+bundle exec jekyll serve
 ```
 
 See the 18F Pages documentation to learn how to [make a new page](https://pages.18f.gov/guides-template/add-a-new-page/) and [add it to the homepage navigation links](https://pages.18f.gov/guides-template/update-the-config-file/).

@@ -120,7 +120,7 @@ In general, you should request leave ahead of time (although it is possible to r
 
 You can see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express](#employee-express).
 
-We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  
+We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.
 
 For 18F employees: after you've created your leave request, add your planned absence to the shared [Out of Office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America%2FChicago) Google calendar; that way, everyone will know when you're going to be out of the office. Finally, please note that [HR Links](/leave) is GSA's system and separate from [Tock](/tock), which is 18F's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both.
 
