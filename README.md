@@ -43,7 +43,7 @@ Forking and branching are two ways of submitting pull requests to edit the Handb
 
 If you are using the ***GitHub website built-in editing features***, you do not have to choose: GitHub will make the correct choice for you.
 
-If you are using your Terminal to edit, see below:
+If you are using your Terminal / local git to edit:
 
 * **TTS teammates**: Please use ***branching*** to submit pull requests. Federalist Preview sites will only be built from a branch, and continuous integration can only succeed for PRs created from branches.
 
