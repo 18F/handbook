@@ -95,7 +95,7 @@ navigation:
       internal: true
     - text: Networks
       url: networks/
-      internal: true  
+      internal: true
     - text: Benefits
       url: benefits/
       internal: true
@@ -160,7 +160,7 @@ navigation:
       children:
       - text: FITARA
         url: fitara/
-        internal: true 
+        internal: true
       - text: Requirements for Passwords
         url: password-requirements/
         internal: true
@@ -196,7 +196,7 @@ navigation:
       - text: Telework guidance
         url: telework/
         internal: true
-        children: 
+        children:
         - text: Virtual work and moving
           url: moving/
           internal: true
@@ -205,6 +205,9 @@ navigation:
         internal: true
       - text: Purchase requests
         url: purchase-requests/
+        internal: true
+      - text: Procurements over $10,000
+        url: procurements-over-10000/
         internal: true
       - text: Attending or speaking at a conference
         url: attending-conferences/
@@ -220,7 +223,7 @@ navigation:
       - text: Term extensions
         url: term-extensions/
         internal: true
-        
+
   - text: TTS Tools
     children:
     - children:
@@ -306,7 +309,7 @@ navigation:
   generated: true
   children:
   - text: TTS Office of Operations
-    children: 
+    children:
     - text: Governance and Compliance Division
       children:
       - text: Coming soon!
@@ -355,7 +358,7 @@ navigation:
         url: blogging/
         internal: true
   - text: TTS Office of Acquisitions
-    children: 
+    children:
     - text: About Acquisitions
       url: acquisition/
       internal: true
@@ -408,7 +411,7 @@ navigation:
         url: https://login.gov/
         internal: false
     - text: 18F Offices
-      children:    
+      children:
       - text: Distributed
         url: distributed/
         internal: true
@@ -459,9 +462,9 @@ navigation:
         url: https://handbook.18f.gov/tock/#time-tracking-and-billing
         internal: false
   - text: Office of Products and Programs (OPP)
-    children:  
+    children:
     - text: About OPP
-      children:  
+      children:
       - text: Overview of OPP
         url: office-of-products-and-programs/
         internal: true
@@ -470,9 +473,9 @@ navigation:
         internal: true
       - text: OPP org chart
         url: opp-org-chart/
-        internal: true 
+        internal: true
     - text: Portfolios
-      children: 
+      children:
       - text: Data
         url: data/
         internal: true
