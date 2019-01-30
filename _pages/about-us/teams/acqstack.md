@@ -59,6 +59,7 @@ Team meetings are generally over Google Hangouts and Zoom. If you would like you
 ##### Acquisition training 
 
 [On boarding Training for Contracting Officers](https://docs.google.com/document/d/1rQYUP1ARL0OnxUD5FNHKmt-ExiFWxSVeE6lHmKaMvxE/edit)
+
 [Acquisition Training for non-1102s (non-contracting specialists)](https://docs.google.com/document/d/1xmRsU4_07fvEyPaWmwBMNtpw4saT4gGSMMH6S97MxAs/edit)
 
 #### Sign
@@ -88,7 +89,7 @@ These are a couple of suggested reading materials meant to give you a better sen
 
 ### Pro-tips for working with our partners
 
-*(these are from your Acq Chapter friends)
+*(these are from your Acq Chapter friends)*
 
 #### Teach partners how to fish
 
