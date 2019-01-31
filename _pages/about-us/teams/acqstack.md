@@ -12,7 +12,7 @@ Welcome to the 18F Acquisition Chapter — we’re happy you’re here! We’ve 
 
 ### Who we are
 
-Members of the Acquisition team come from all over: inside GSA, consulting firms, peace corps, and other government agencies. Collectively, we work as the acquisition part of the overall 18F cross-functional team bringing our expertise to help agency partners (experts in their mission) produce more effective procurement strategies, implement modern procurement practices, and better vendor outcomes. We’re experienced in a wide variety of procurements and have tons of stories of procurements that have gone well and some that haven’t.  Ask us!
+Members of the Acquisition team come from all over: inside GSA, consulting firms, Peace Corps, and other government agencies. Collectively, we work as the acquisition part of the overall 18F cross-functional team bringing our expertise to help agency partners (experts in their mission) produce more effective procurement strategies, implement modern procurement practices, and better vendor outcomes. We’re experienced in a wide variety of procurements and have tons of stories of procurements that have gone well and some that haven’t.  Ask us!
 
 ### Our vision & mission
 
@@ -40,7 +40,7 @@ We focus on procurements of intentionally modest scope for digital products and 
 
 In pursuit of this strategy, we:
 
-* Consult with our agency partners to help them buy digital products and services  demonstrating that compliance can still be achieved in the context of more efficient and effective acquisition approaches.
+* Consult with our agency partners to help them buy digital products and services demonstrating that compliance can still be achieved in the context of more efficient and effective acquisition approaches.
 * Develop innovative acquisition strategies within the confines of the Federal Acquisition Regulations (FAR). 
 * Develop and pilot novel methods of working with industry and encourage vendors of all sizes to compete for work and offer their unique skills to government. 
 * Work in the open. We strive to publicly share as much information about our work with agencies partners as possible. Vendors we partner with commit to using open-source technologies.
@@ -50,7 +50,7 @@ In pursuit of this strategy, we:
 
 The majority of our conversations take place on Slack and video.  There are a number of Slack channels for acquisition discussions. 
 
-Team meetings are generally over Google Hangouts and Zoom. If you would like your own Zoom account, hop on over to [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom/) to request one.
+Team meetings are generally over Google Meet and Zoom. If you would like your own Zoom account, hop on over to [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom/) to request one.
 
 ### Stuff to do, sign, and read
 
@@ -70,7 +70,7 @@ The first order of business is to read and sign the linked [NDA](https://docs.go
 These are a couple of suggested reading materials meant to give you a better sense of our approach to acquisition consulting and modular procurement.  
  
 * Case Study on Modular Contracting: [Open Forest](https://docs.google.com/presentation/d/1mnCEsa5vSJWMVH9UAA5XsAZxQKry0GkksTHd9Dn_mQM/edit#slide=id.g4c4e3bde85_0_74)
-* Presentation on the [Acquisition Lifecycle](https://docs.google.com/presentation/d/16UOr3OSsMYQzlCGk6dwjPQrsBnoE6Mzl-8tW3api1Kw/edit#slide=id.g418713fe3b_0_63
+* Presentation on the [Acquisition Lifecycle](https://docs.google.com/presentation/d/16UOr3OSsMYQzlCGk6dwjPQrsBnoE6Mzl-8tW3api1Kw/edit#slide=id.g418713fe3b_0_63)
 * An agile view of acquisition
   * [Improving Government Outcomes through an Agile Contract Format](https://18f.gsa.gov/2017/11/30/improving-government-outcomes-through-an-agile-contract-format/) 
   * [What We Learned from Building a Pool of Agile Vendors](https://18f.gsa.gov/2018/07/26/what-we-learned-from-building-a-pool-of-agile-vendors/) 
@@ -103,7 +103,7 @@ These are a couple of suggested reading materials meant to give you a better sen
 * **Build your empathy muscle.** Take time to understand the problem space, past challenges, and the goals of the product team. 
 * **Product owners are key to success.** Be wary of starting post-procurement work with an agency partner if there is no empowered, dedicated product owner to lead the work.
 * **Engage with security early and often.** We’ve learned that security is one of the sticking points for delivering government products. If you are not an expert in security, bring somebody who is.
-* **Post it everywhere.**  We post on e-buy, FBO.gov, and github
+* **Post it everywhere.**  We post on e-buy, FBO.gov, and Github.
 
 #### Work with (not for) the vendors
 
