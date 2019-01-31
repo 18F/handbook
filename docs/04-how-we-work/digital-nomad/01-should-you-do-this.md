@@ -8,6 +8,6 @@ Just because "On-the-Go" work is possible does not mean that it is automatically
 *   Are you able to focus on work in many different locations or despite distractions?
 *   Can you adapt your workflow as needed for your project?
 *   Connectivity - does where-ever you're traveling have reliable wifi?
-*   Are you working on a project that is restricted to certain locations/regions/countries? (Think crypto code, HIPPA, production server access, etc)
+*   Are you working on a project that is restricted to certain locations/regions/countries (ie crypto code, HIPPA, GDPR, production server access, etc.) and will you be staying within those areas? 
 
 If you've answered yes to most or all of these questions, then working while travelling might be a good fit for you! Your next step is to talk to your project manager about working while on the go.
