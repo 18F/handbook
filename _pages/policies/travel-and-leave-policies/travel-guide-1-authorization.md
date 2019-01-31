@@ -53,7 +53,8 @@ Any amendment to approved non-billable travel that would require an additional d
 
 Any other amendment with a minimal impact on the budget (i.e. change of dates, adding additional days at the traveler's personal expense, changing origin or destination airports with no significant cost increase) requires only that the immediate supervisor approve the change and communicate it to [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov).
 
-## Billable travel approval
+## Billable travel approval (18F only)
+*Billiable travel for Centers of Execelence is handled the same as non-billable travel*
 
 ### Who is responsible, and how do I make my request?
 
