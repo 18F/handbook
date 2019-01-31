@@ -12,11 +12,11 @@ Each service area is identified by a unique 2 character code - this is used to i
 
 | Name                    | Code | Leads                           | Slack               | Meetings                                    |
 | ----------------------- | ---- | ------------------------------- | ------------------- | ------------------------------------------- |
-| DevOps                  | DV   | TBD                             | #devops             | Every 2 weeks on Monday, 1-2pm PT, 4-5pm ET |
-| Drupal                  | DR   | TBD                             | #engineering-drupal |                                             |
+| DevOps                  | DV   | Owen Barton                     | #devops             | Every 2 weeks on Monday, 1-2pm PT, 4-5pm ET |
+| Drupal                  | DR   | Bob Schmitt                     | #engineering-drupal |                                             |
 | Free Software Open Data | OD   | Kim Davidson & Gerardo Gonzales | #opendata           | Weekly on Friday, 1-2pm PT, 4-5pm ET        |
 | Innovation Lab          | IL   | TBD                             | #                   |                                             |
 | Security & Compliance   | SC   | Fen Labalme                     | #loving-security    |                                             |
 | Support & Helpdesk      | SP   | Ero Gray                        | #helpdesk           |                                             |
-| Training                | TR   | TBD                             | #                   |                                             |
+| Training                | TR   | Tony Fortenberry                | #eduservices        |                                             |
 | User Experience         | UX   | Kevin Walsh                     | #ux                 | Weekly on Thursday, 1-2pm PT, 4-5pm ET      |
