@@ -13,20 +13,19 @@ The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for manda
 Required classes will be assigned in OLU and pushed to TTS employees via email.  The following is an overview of required courses:
 
 ### Mandatory Annual Training for All Employees
-* No Fear Act Training
-* 2018 Mandatory Cyber Security and Privacy Training
-* Sharing in a Collaborative Environment (C)
-* Records Management Training
+* Annual Ethics Training
+* Controlled Unclassified Information
+* COOP Awareness Training
+* Cyber Security & Privacy Training
 * Employee Accountability for GSA Personal Property
-* Insider Threat Awareness and Reporting Training
+* Insider Threat Awareness & Reporting
+* Occupational Health and Safety
+* Plain Language
+* What is Record Management
 
 ### Affects Designated Employees and other Compliance Tasks
-* Annual Ethics Training (designated employees only)
 * OGE Form 450 Financial Disclosure (annual reporting for designated employees only)
-* FY17 GSA PRIVACY 201 (designated employees only - PII)
-* Telework for Employees 101
-
-*NOTE: For the *No Fear Act* training, we recommend using Firefox or Safari with IE8 User Agent. Otherwise, it won't register that you've taken the course. Upon completion of the test, you might not be able to click on the `Exit` button as is suggested. Try closing the window that the test was in and clicking next on the parent window &mdash; this should register your test as having been completed and generate the certification that is loaded to your profile.*
+* Telework Training
 
 *NOTE: GSA OLU training material is often not compatible with modern, open-source browsers. We recommend using [VmWare Horizon](/vmware-horizon) and Internet Explorer to ensure successful course completion and documentation.*
 
