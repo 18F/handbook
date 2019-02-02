@@ -5,7 +5,7 @@ In 2019 we went from a self/peer review process that was mostly on paper to an a
 ## Value
 
 As a company, we want to continously move towards an open culture where we can give feedback early, often, and openly.
-The new 'annual retrospective' helps us accomplish this. The process isn't cumbersome and the reviewee leaves with actionable and valuable feedback. It has also led to our entire team regularly getting practice in giving their peers and managers constructive feedback.
+The new "annual retrospective" helps us accomplish this. The process isn't cumbersome and the reviewee leaves with actionable and valuable feedback. It has also led to our entire team regularly getting practice in giving their peers and managers constructive feedback.
 
 ## How it works
 
