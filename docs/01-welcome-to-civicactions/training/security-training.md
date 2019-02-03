@@ -35,12 +35,12 @@ Engineers and Project Managers and anyone directly involved in client site opera
 
 CivicActions Employees and Contractors regularly refresh their understanding of privacy regulations and security controls with the latest available information, including:
 
-*   Course: [Identifying and Safeguarding Personally Identifiable Information (PII)](http://cdsetrain.dtic.mil/piiv2/index.htm)
+*   Course: [Identifying and Safeguarding Personally Identifiable Information (PII)](https://securityawareness.usalearning.gov/piiv2/index.htm)
 *   Review: [CivicActions Employee/Contractor SecurityPolicy](../../03-policies/security.md)
 *   Internal: Yearly trainings/quizzes scheduled by the CivicActions Security Team
 
 ## Incident Response
 
-All employees and contractors have reviewed the standard Incident Response procedures and understand what actions to take should they discover something that could be an incident. See [What is an Incident?](../../09-security/incidents.md) for additional help.
+All employees and contractors have reviewed the [CivicActions Incident Response](../../09-security/incident-response-plan.md) procedures and understand what actions to take should they discover something that could be an incident. See [What is an Incident?](../../09-security/incidents.md) for additional help.
 
 *(The project specific Incident Response Teams require additional trainings not covered here.)*
