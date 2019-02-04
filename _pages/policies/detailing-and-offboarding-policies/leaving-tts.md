@@ -11,7 +11,7 @@ This guide covers the offboarding policy and process.
 
 ## When it's time to leave TTS
 
-These steps apply to both term employees who are at the end of their term and to employees choosing to resign before their term ends. Begin this process at least two weeks before your last day of work. Your last day at TTS cannot be a federal holiday.
+These steps apply to all TTS employees: permanent (career) employees, term employees who are at the end of their term, and term employees choosing to resign before their term ends. Begin this process at least two weeks before your last day of work. Your last day at TTS cannot be a federal holiday.
 
 ### 1. Email your resignation letter
 
