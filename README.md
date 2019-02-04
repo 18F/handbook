@@ -35,8 +35,6 @@ Serve the site:
 bundle exec jekyll serve
 ```
 
-See the 18F Pages documentation to learn how to [make a new page](https://pages.18f.gov/guides-template/add-a-new-page/) and [add it to the homepage navigation links](https://pages.18f.gov/guides-template/update-the-config-file/).
-
 ### Fork or branch?
 
 Forking and branching are two ways of submitting pull requests to edit the Handbook.
