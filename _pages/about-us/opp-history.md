@@ -65,7 +65,6 @@ In recent years, we’ve established and grown many crucial government-wide prod
 * [Code.gov](https://code.gov/): a catalog of government developed code (2016)
 * [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges. The longest running community, the Web Content Managers Forum, dates back to 2000. New communities are created as new technologies and opportunities arise.
 * [Emerging Citizen Technology Office](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies (2017)
-* [Innovation.gov](https://www.innovation.gov/): a website with resources for bureaucracy hacking and innovation (2017)
 * [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps (2016)
 * [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015. Maintained by our office since 2017.
          
