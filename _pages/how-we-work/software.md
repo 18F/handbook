@@ -10,6 +10,8 @@ Do you need software to do your job or make sure TTS is running smoothly? Follow
 
 If the software you are looking for is in the [TTS inventory](https://docs.google.com/spreadsheets/d/15FxfSsf6i1bV7X1XBeJM0ok3LVCgbAGj-VFw7LdQ7qY/edit?usp=sharing), send an email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) requesting a license for the software you need. The TTS Saas Project Manager will contact you within 1-2 business days.
 
+You can also check the [GEAR system](https://ea.gsa.gov/#!/applications) (must be on GSA wireless or [VPN](/vmware-horizon/#logging-into-vmware-horizon)) to find the list of software that is currently approved by GSA IT.
+
 **If TTS does not have licenses, GSA might.** In order to check the [GSA IT Catalog](https://gsa.service-now.com/sp/) (aka Service Now), scroll to the bottom of the page and click on “Order Something”. On the next page, click on “Software”. This will take you to a page to request software from GSA IT. Scroll toward the bottom of the page to where it says “Enter Software Name Here”. In the dropdown menu, start to type the name of the software you need. If the name pops up, it means GSA has already purchased it.
 
 If your software is in the Catalog, fill out the rest of the form to request a license.
