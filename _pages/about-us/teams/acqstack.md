@@ -93,16 +93,22 @@ These are a couple of suggested reading materials meant to give you a better sen
 
 #### Teach partners how to fish
 
-* **Success is working ourselves out of a job.** We strive to increase our partners’ knowledge and capacity until we can transfer the entire project back to them; comfortable that they have the tools and resources to continue seamlessly.  
+* **Success is working ourselves out of a job.** We strive to increase our partners’ knowledge and capacity until we can transfer the entire project back to them; comfortable that they have the tools and resources to continue seamlessly.
+  
 * **Encourage and foster failure, fast.** One of the underlying tenets of our principles and methods is that you cannot avoid failure. Instead the goal is to reduce the impact of such failures as much as possible to create a feedback loop for learning that only grows exponentially. For example, with typical contracting cycles of 2-3 years for a “major” contract it means that you will only have 10-12 examples in a typical federal employee’s career. Contrast this with ours whereby the procurement process occurs every 1-3 months and you now have generated far greater experience in a much briefer period of time. We’re literally hacking time here.
+
 * **Start small and build.** It can be overwhelming starting a new project with an excited partner. Encourage them to focus on one piece of functionality to deliver to users. This is your starting point. Trying to deliver an entire end-to-end system is likely to stall the project due to lack of focus. You will also encounter the same principles and practices on a small project that would be applied to a far larger one. Don’t try to win a marathon before you’ve learned to run in the first place.
+
 * **Retros are your friend.** Recognize that there isn’t a one-size-fits-all approach to procurement or product development and it’s necessary to meet the agency partner where they are.  Allow for incremental learning over time. Ensure that these are blameless spaces, because without transparent and honest communication the dynamics will slowly fester and create the kinds of legacy environments that can stymie progress at the partner agencies.
 
 #### Situational awareness
 
 * **Build your empathy muscle.** Take time to understand the problem space, past challenges, and the goals of the product team. 
+
 * **Product owners are key to success.** Be wary of starting post-procurement work with an agency partner if there is no empowered, dedicated product owner to lead the work.
+
 * **Engage with security early and often.** We’ve learned that security is one of the sticking points for delivering government products. If you are not an expert in security, bring somebody who is.
+
 * **Post it everywhere.**  We post on e-buy, FBO.gov, and Github.
 
 #### Work with (not for) the vendors
@@ -112,8 +118,11 @@ These are a couple of suggested reading materials meant to give you a better sen
 * **Talk to industry!** We are comfortable having conversations with industry as the FAR advises us to do.
 
 #### 18F is here for you
+
 * **Ask for help.** Know there is a powerful ecosystem of 18Fers who are on-call to help with any areas where you need more assistance, whether it’s design, security practices, or product management best practices. We see new things every day, but it’s unlikely that someone hasn’t seen something like what you’re experiencing before and can offer a hand, ear, or whatever other body part you may need given the circumstances.
+
 * **Not everyone is ready for the 18F way on day one.** Our prinicples mirror agile software development and we are committed to modern procurement practices (ie. modular contracting). It’s ok to recognize that implementing new practices can be difficult and challenging.  What’s worse would be to force it onto someone not ready and see them stumble in [very predictable ways](https://18f.gsa.gov/2018/09/27/antipatterns-in-agile-contracting/). 
+
 ---
 
 #### Still have questions?
