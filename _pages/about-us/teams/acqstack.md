@@ -2,9 +2,7 @@
 title: Acquisition
 ---
 
-# Welcome to the Acquisition Chapter
-
-## *Making Procurement Joyful*
+Making procurement joyful
 
 ## Welcome!
 
