@@ -15,7 +15,7 @@ Here are the steps involved in an acquisition over $10,000:
 - Identify a [FAC-COR](https://docs.google.com/document/d/1HzbEv6yQn6pWYl1MDImeLW6ShedcRsekSCBe54Nsnc8/edit#heading=h.aizxbe137goh)-certified Contracting Officer Representative (COR) on the team to help manage the buy.
 - Know what funding you have; the CO will have some questions about funding (no-year, multi-year, ASF/FCSF funding, estimated budget, etc.), and the process goes more smoothly if you're prepared to answer these questions.
 - You will also need your director’s approval prior to submitting the form.
-- Once you have that information, fill out the [Intake Form](https://docs.google.com/forms/d/1bSoFcljv-hmUJsSCK04AsdIh03hor_T4m1yjopild6w/edit) to submit your request for acquisition support.
+- Once you have that information, fill out the [Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSeGoLWQ_6yEmxlrHuztlZWH6sX3t_0J0PPnzZxhwlK6nq1KoQ/viewform) to submit your request for acquisition support.
 
 ## 2. Initiation/kick-off meeting
 
