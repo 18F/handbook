@@ -53,7 +53,7 @@ Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a projec
 
 ### The public
 
-[TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. Howver, when we say "public channels" on this page, we mean channels open to all members of the public.)
+[TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. However, when we say "public channels" on this page, we mean channels open to all members of the public.)
 
 #### What
 
