@@ -12,13 +12,19 @@ To empower the organization with the means and information to fully utilize the 
 
 ## Referring a person
 
-* Form to submit a referral:
+We accept varying levels of leads including: 
+
+* Referrals: You know them really well, for example, someone you worked closely with or a good friend
+* Warm Leads: You kind-of know them, for example, someone you worked with but not directly 
+* Cold Leads: You barely know them at all, maybe someone you heard speak at a conference or wrote a memorable blog post
+
+Submit leads and referrals using the form below:
   * [Referral Submission Form](https://goo.gl/forms/I6cOnRNdh21aP5e63)
 
-* Instructions for referring a person (an open role is not required):
+More information on the referral program can be found here:
   * [Talent Referral Program Information](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit)
 
-Referrals are welcome any time, not just during times when positions are open.
+Leads and referrals are welcome any time, not just during times when positions are open.
 
 To see what positions we're hiring for, take a look at our [Join TTS](https://join.tts.gsa.gov/) website.
 
