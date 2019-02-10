@@ -177,10 +177,10 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
         </td>
       </tr>
       <tr>
-        <td class="col-grouplet"><strong><a id="user-research">User Research</a></strong></td>
+        <td class="col-grouplet"><strong><a id="design-research">Design Research</a></strong></td>
         <td class="col-description">
-          We promote research best practices at 18F and in the rest of government. <br />
-          <a href="https://gsa-tts.slack.com/messages/research">#research</a>
+          We envision a world where government agencies use research to shape their decision-making processes and to inform their design decisions <br />
+          <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
         </td>
       </tr>
       <tr>
