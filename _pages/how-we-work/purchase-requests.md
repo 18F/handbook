@@ -61,16 +61,15 @@ Once the request is placed, the designated TTS Ops team member will determine wh
 Examples of services TTS has procured:
 
 * Engineering support
-* Bug Bounty
-* PMO support
+* Design services
 * 3PAO service
 
 Please follow the recommended steps below when ordering services under $10,000:
 
 1. Please make a copy of this [RFQ template](https://docs.google.com/document/d/1u9HZeUN8uEkyJbcQO6EWyyzawNgw4yijD4jV5h8C5mQ/edit?usp=sharing) then fill it out.
-2. Once filled out, transfer the ownership of the RFQ to the TTS Micro-Purchase Project Manager (PM). Then submit the link to them via Slack. See the POC section for contact information.
+2. Once filled out, submit the link to the RFQ to the TTS Micro-Purchase Project Manager via Slack. See the POC section for contact information.
 3. Once received by the TTS Micro-Purchase PM, the RFQ will be reviewed by the OA Director. Please be ready to address any questions, comments, or feedback at your earliest convenience.
-4. After the RFQ is approved by the OA Director, please send it to the appropriate vendor(s) and cc TTS Micro-Purchase PM and OA Director. When sending the RFQ to vendor(s), keep in mind:
+4. After the RFQ is approved by the OA Director, please send it to the appropriate vendor(s) and cc the TTS Micro-Purchase PM and OA Director. When sending the RFQ to vendor(s), keep in mind:
     * If they’ve been government employees who worked in TTS within the past two years, we can’t hire them.
     * Spread the wealth - this is not a formal rule or policy, but you don’t want to go back to the same person for every purchase, because that raises flags.
     * Make sure the vendor can accept payment via government purchase card (aka credit card) - this seems easy but isn’t always the case.
@@ -85,7 +84,9 @@ Please follow the recommended steps below when ordering services under $10,000:
 
 **Who to contact about purchasing services**
 
-**TTS Micro-Purchase Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov) | Slack: @melanie
+**TTS Micro-Purchase Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov) 
+
+Slack: @melanie
 
 **TTS Office of Acquisition Director:** Esther Praske [esther.praske@gsa.gov](mailto:tts-purchasers@gsa.gov)
 
