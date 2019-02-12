@@ -27,7 +27,7 @@ Include the following:
 
 [Enable two-factor authentication (2FA)](https://github.com/settings/security):
 
-- [Use your work email](https://help.github.com/articles/setting-your-email-in-git) rather than your personal email for work-related commits. This only applies to people with more than one email address tied to their GitHub account. Note that this is different than [setting notifications to go to a specific email address](https://help.github.com/articles/configuring-notification-emails-for-organizations). If you make commits via GitHub&rsquo;s web interface, it will use your &ldquo;primary&rdquo; email address for those commits, so check your [email settings](https://github.com/settings/emails) before making web commits.
+- [Use your work email](https://help.github.com/articles/setting-your-email-in-git) rather than your personal email for work-related commits. This only applies to people with more than one email address tied to their GitHub account. Note that this is different than [setting notifications to go to a specific email address](https://help.github.com/articles/choosing-the-delivery-method-for-your-notifications/). If you make commits via GitHub&rsquo;s web interface, it will use your &ldquo;primary&rdquo; email address for those commits, so check your [email settings](https://github.com/settings/emails) before making web commits.
 
 - If you're using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email, or use a tool like [karn](https://github.com/prydonius/karn). If you have both emails in your [GitHub settings](https://github.com/settings/emails), they will both be tied to your GitHub account anyway.
 
@@ -168,8 +168,6 @@ In GitHub parlance, where repos all have admins, org-wide administrators are cal
 ## Resources
 
 - [Githug](https://github.com/Gazler/githug) is designed to give you a practical way of learning git. It has a series of levels, each requiring you to use git commands to arrive at a correct answer.
-
-- [This self-paced training provided by GitHub](https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training) could be helpful to note in these GitHub materials for newcomers as well.
 
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 

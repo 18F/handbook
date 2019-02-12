@@ -209,6 +209,12 @@ navigation:
       - text: Purchase requests
         url: purchase-requests/
         internal: true
+      - text: Software under $10,000
+        url: software/
+        internal: true
+      - text: Procurements over $10,000
+        url: procurements-over-10000/
+        internal: true
       - text: Attending or speaking at a conference
         url: attending-conferences/
         internal: true
@@ -333,9 +339,6 @@ navigation:
         internal: true
       - text: Infrastructure (18F)
         url: intro-to-18f-infrastructure/
-        internal: true
-      - text: Software
-        url: software/
         internal: true
     - text: Outreach
       children:

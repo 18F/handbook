@@ -1,4 +1,4 @@
-18F Handbook [![CircleCI](https://circleci.com/gh/18F/handbook.svg?style=svg)](https://circleci.com/gh/18F/handbook)
+TTS Handbook [![CircleCI](https://circleci.com/gh/18F/handbook.svg?style=svg)](https://circleci.com/gh/18F/handbook)
 ========================
 
 The [TTS Handbook](https://handbook.18f.gov) documents the mission, values, structures, policies, tools, and guides that shape our team. This is a _living_ document and is updated regularly. If you have questions, comments, or suggestions, please
@@ -35,7 +35,21 @@ Serve the site:
 bundle exec jekyll serve
 ```
 
-See the 18F Pages documentation to learn how to [make a new page](https://pages.18f.gov/guides-template/add-a-new-page/) and [add it to the homepage navigation links](https://pages.18f.gov/guides-template/update-the-config-file/).
+### Fork or branch?
+
+Forking and branching are two ways of submitting pull requests to edit the Handbook.
+
+If you are using the ***GitHub website built-in editing features***, you do not have to choose: GitHub will make the correct choice for you.
+
+If you are using your Terminal / local git to edit:
+
+* **TTS teammates**: Please use ***branching*** to submit pull requests. Federalist Preview sites will only be built from a branch, and continuous integration can only succeed for PRs created from branches.
+
+* **External contributors**: Please use ***forking*** to submit pull requests, since non-TTS contributors do not have write access. Unfortunately, we won't be able to run Federalist Preview sites for your pull request; please build and serve the site locally to test instead.
+
+If you have any questions, feel free to ask in [#tts-handbook](https://gsa-tts.slack.com/messages/tts-handbook).
+
+Thank you so much for your contributions! :tada:
 
 ### Travel guide development
 

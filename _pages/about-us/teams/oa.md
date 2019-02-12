@@ -33,7 +33,7 @@ If you are within TTS and your procurement need costs less than the micro-purcha
 [Software](/software) section. 
 
 If you are within TTS and your procurement need costs more than the micro-purchase threshold ($10,000), please visit the 
-Purchases over $10,000 section in the handbook.
+[Procurements over $10,000](/procurements-over-10000) section in the handbook.
 
 ## TTS OA Operational Guidance
 

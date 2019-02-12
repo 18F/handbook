@@ -11,7 +11,7 @@ A core belief of TTS is, “Work is what we do, not where we are.”  The goal o
 
 ## GSA Telework links
 
-Here are the links to [GSA’s Telework Policy](https://insite.gsa.gov/portal/content/523510) and [GSA Telework Guidebook](https://insite.gsa.gov/portal/mediaId/567462/fileName/Desk_Guide_to_Mobility_and_Telework_120911.action).
+Here are the links to [GSA’s Telework Policy](https://insite.gsa.gov/portal/content/523510) and [How to Create a Telework Agreement in HR Links](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/11/Job-Aid_Telework-for-Employees_FINALv2.pdf).
 
 ## Terms to Know
 
@@ -26,19 +26,19 @@ You can find more information on schedule types on [GSA Insite](https://insite.g
 ### If you work a flexible schedule you:
   * can telework up to eight days out of your 10 day pay period, with approval of supervisor.
   * must report to an official worksite twice per 10 day pay period.  
-  * need a telework agreement from [GSA Telework Insite Page](https://insite.gsa.gov/portal/category/513630) each time you change jobs or supervisors.
+  * need a telework agreement from [GSA Telework Insite Page](https://insite.gsa.gov/portal/category/513630) each time you change jobs or supervisors. Follow [this guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/11/Job-Aid_Telework-for-Employees_FINALv2.pdf) for how to create and submit the agreement.
   * must send any updates to your regular telework schedule to your timekeeper.  For example, if you change or add days during the week or if you permanently add/remove telework days from your regular schedule
 
 ### If you work a compressed schedule (AWS) you:
   * can telework up to 7 days out of your 10 day pay period, with approval of supervisor.
   * must report to an official worksite 2 times per 10 day pay period.  
-  * need a telework agreement from [GSA Telework Insite Page](https://insite.gsa.gov/portal/category/513630) each time you change jobs or supervisors.
+  * need a telework agreement from [GSA Telework Insite Page](https://insite.gsa.gov/portal/category/513630) each time you change jobs or supervisors. Follow [this guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/11/Job-Aid_Telework-for-Employees_FINALv2.pdf) for how to create and submit the agreement.
   * must send any updates to your regular telework schedule to your timekeeper.  For example, if you change or add days during the week or if you permanently add/remove telework days from your regular schedule
 
 ### If you work a full-time telework schedule (often called virtual or remote) you:
   * telework full-time from your home address, which is your official worksite, and is used to determine your locality pay and travel cost reimbursement.
   * need both your supervisor and your Assistant Commissioner to approve your full-time telework schedule.
-  * need a full-time telework agreement from [GSA Telework Insite Page](https://insite.gsa.gov/portal/category/513630) signed by you and your supervisor each time you change jobs or supervisors.
+  * need a full-time telework agreement from [GSA Telework Insite Page](https://insite.gsa.gov/portal/category/513630) signed by you and your supervisor each time you change jobs or supervisors. Follow [this guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/11/Job-Aid_Telework-for-Employees_FINALv2.pdf) for how to create and submit the agreement.
   * must send any updates to your regular telework schedule to your timekeeper.  For example, if you change or add days during the week or if you permanently add/remove telework days from your regular schedule
   * send questions about Full-time Agreements to [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov).
   * need to be classified in GSA HR systems as a full-time teleworker.  

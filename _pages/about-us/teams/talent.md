@@ -14,22 +14,24 @@ To empower the organization with the means and information to fully utilize the 
 
 * Form to submit a referral:
   * [Referral Submission Form](https://goo.gl/forms/I6cOnRNdh21aP5e63)
-  
+
 * Instructions for referring a person (an open role is not required):
   * [Talent Referral Program Information](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit)
-  
-To see what positions we're hiring for, take a look at our [Join TTS](https://join.tts.gsa.gov/) website.  
-  
+
+Referrals are welcome any time, not just during times when positions are open.
+
+To see what positions we're hiring for, take a look at our [Join TTS](https://join.tts.gsa.gov/) website.
+
 ## Applying to open positions
 
 Candidates should apply to open positions [here](https://join.tts.gsa.gov/).
 
 ## How to get in touch
 
-* Slack: 
-  * [#talent](https://gsa-tts.slack.com/messages/talent/)  
+* Slack:
+  * [#talent](https://gsa-tts.slack.com/messages/talent/)
 * Email:
-  * [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) - to email the Talent Team with your request 
+  * [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) - to email the Talent Team with your request
   * [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team (primarily for public use)
 
 ## What we do

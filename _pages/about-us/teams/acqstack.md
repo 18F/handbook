@@ -2,9 +2,7 @@
 title: Acquisition
 ---
 
-# Welcome to the Acquisition Chapter
-
-## *Making Procurement Joyful*
+Making procurement joyful
 
 ## Welcome!
 
@@ -12,7 +10,7 @@ Welcome to the 18F Acquisition Chapter — we’re happy you’re here! We’ve 
 
 ### Who we are
 
-Members of the Acquisition team come from all over: inside GSA, consulting firms, peace corps, and other government agencies. Collectively, we work as the acquisition part of the overall 18F cross-functional team bringing our expertise to help agency partners (experts in their mission) produce more effective procurement strategies, implement modern procurement practices, and better vendor outcomes. We’re experienced in a wide variety of procurements and have tons of stories of procurements that have gone well and some that haven’t.  Ask us!
+Members of the Acquisition team come from all over: inside GSA, consulting firms, Peace Corps, and other government agencies. Collectively, we work as the acquisition part of the overall 18F cross-functional team bringing our expertise to help agency partners (experts in their mission) produce more effective procurement strategies, implement modern procurement practices, and better vendor outcomes. We’re experienced in a wide variety of procurements and have tons of stories of procurements that have gone well and some that haven’t.  Ask us!
 
 ### Our vision & mission
 
@@ -40,7 +38,7 @@ We focus on procurements of intentionally modest scope for digital products and 
 
 In pursuit of this strategy, we:
 
-* Consult with our agency partners to help them buy digital products and services  demonstrating that compliance can still be achieved in the context of more efficient and effective acquisition approaches.
+* Consult with our agency partners to help them buy digital products and services demonstrating that compliance can still be achieved in the context of more efficient and effective acquisition approaches.
 * Develop innovative acquisition strategies within the confines of the Federal Acquisition Regulations (FAR). 
 * Develop and pilot novel methods of working with industry and encourage vendors of all sizes to compete for work and offer their unique skills to government. 
 * Work in the open. We strive to publicly share as much information about our work with agencies partners as possible. Vendors we partner with commit to using open-source technologies.
@@ -50,7 +48,7 @@ In pursuit of this strategy, we:
 
 The majority of our conversations take place on Slack and video.  There are a number of Slack channels for acquisition discussions. 
 
-Team meetings are generally over Google Hangouts and Zoom. If you would like your own Zoom account, hop on over to [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom/) to request one.
+Team meetings are generally over Google Meet and Zoom. If you would like your own Zoom account, hop on over to [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom/) to request one.
 
 ### Stuff to do, sign, and read
 
@@ -59,6 +57,7 @@ Team meetings are generally over Google Hangouts and Zoom. If you would like you
 ##### Acquisition training 
 
 [On boarding Training for Contracting Officers](https://docs.google.com/document/d/1rQYUP1ARL0OnxUD5FNHKmt-ExiFWxSVeE6lHmKaMvxE/edit)
+
 [Acquisition Training for non-1102s (non-contracting specialists)](https://docs.google.com/document/d/1xmRsU4_07fvEyPaWmwBMNtpw4saT4gGSMMH6S97MxAs/edit)
 
 #### Sign
@@ -69,7 +68,7 @@ The first order of business is to read and sign the linked [NDA](https://docs.go
 These are a couple of suggested reading materials meant to give you a better sense of our approach to acquisition consulting and modular procurement.  
  
 * Case Study on Modular Contracting: [Open Forest](https://docs.google.com/presentation/d/1mnCEsa5vSJWMVH9UAA5XsAZxQKry0GkksTHd9Dn_mQM/edit#slide=id.g4c4e3bde85_0_74)
-* Presentation on the [Acquisition Lifecycle](https://docs.google.com/presentation/d/16UOr3OSsMYQzlCGk6dwjPQrsBnoE6Mzl-8tW3api1Kw/edit#slide=id.g418713fe3b_0_63
+* Presentation on the [Acquisition Lifecycle](https://docs.google.com/presentation/d/16UOr3OSsMYQzlCGk6dwjPQrsBnoE6Mzl-8tW3api1Kw/edit#slide=id.g418713fe3b_0_63)
 * An agile view of acquisition
   * [Improving Government Outcomes through an Agile Contract Format](https://18f.gsa.gov/2017/11/30/improving-government-outcomes-through-an-agile-contract-format/) 
   * [What We Learned from Building a Pool of Agile Vendors](https://18f.gsa.gov/2018/07/26/what-we-learned-from-building-a-pool-of-agile-vendors/) 
@@ -88,21 +87,27 @@ These are a couple of suggested reading materials meant to give you a better sen
 
 ### Pro-tips for working with our partners
 
-*(these are from your Acq Chapter friends)
+*(these are from your Acq Chapter friends)*
 
 #### Teach partners how to fish
 
-* **Success is working ourselves out of a job.** We strive to increase our partners’ knowledge and capacity until we can transfer the entire project back to them; comfortable that they have the tools and resources to continue seamlessly.  
+* **Success is working ourselves out of a job.** We strive to increase our partners’ knowledge and capacity until we can transfer the entire project back to them; comfortable that they have the tools and resources to continue seamlessly.
+  
 * **Encourage and foster failure, fast.** One of the underlying tenets of our principles and methods is that you cannot avoid failure. Instead the goal is to reduce the impact of such failures as much as possible to create a feedback loop for learning that only grows exponentially. For example, with typical contracting cycles of 2-3 years for a “major” contract it means that you will only have 10-12 examples in a typical federal employee’s career. Contrast this with ours whereby the procurement process occurs every 1-3 months and you now have generated far greater experience in a much briefer period of time. We’re literally hacking time here.
+
 * **Start small and build.** It can be overwhelming starting a new project with an excited partner. Encourage them to focus on one piece of functionality to deliver to users. This is your starting point. Trying to deliver an entire end-to-end system is likely to stall the project due to lack of focus. You will also encounter the same principles and practices on a small project that would be applied to a far larger one. Don’t try to win a marathon before you’ve learned to run in the first place.
+
 * **Retros are your friend.** Recognize that there isn’t a one-size-fits-all approach to procurement or product development and it’s necessary to meet the agency partner where they are.  Allow for incremental learning over time. Ensure that these are blameless spaces, because without transparent and honest communication the dynamics will slowly fester and create the kinds of legacy environments that can stymie progress at the partner agencies.
 
 #### Situational awareness
 
 * **Build your empathy muscle.** Take time to understand the problem space, past challenges, and the goals of the product team. 
+
 * **Product owners are key to success.** Be wary of starting post-procurement work with an agency partner if there is no empowered, dedicated product owner to lead the work.
+
 * **Engage with security early and often.** We’ve learned that security is one of the sticking points for delivering government products. If you are not an expert in security, bring somebody who is.
-* **Post it everywhere.**  We post on e-buy, FBO.gov, and github
+
+* **Post it everywhere.**  We post on e-buy, FBO.gov, and Github.
 
 #### Work with (not for) the vendors
 
@@ -111,8 +116,11 @@ These are a couple of suggested reading materials meant to give you a better sen
 * **Talk to industry!** We are comfortable having conversations with industry as the FAR advises us to do.
 
 #### 18F is here for you
+
 * **Ask for help.** Know there is a powerful ecosystem of 18Fers who are on-call to help with any areas where you need more assistance, whether it’s design, security practices, or product management best practices. We see new things every day, but it’s unlikely that someone hasn’t seen something like what you’re experiencing before and can offer a hand, ear, or whatever other body part you may need given the circumstances.
-* **Not everyone is ready for the 18F way.** We have a certain point of view when it comes to agile procurement and modular contracting.  It doesn’t work for all partners in every situation.  It’s ok to recognize that this may not be the right fit. What’s worse would be to force it onto someone not ready and see them stumble in [very predictable ways](https://18f.gsa.gov/2018/09/27/antipatterns-in-agile-contracting/). This wouldn’t normally be a problem but you may encounter folks who say something like, “Yea we tried that Agile thing once and it wasn’t for us, so we’re sticking with this.”
+
+* **Not everyone is ready for the 18F way on day one.** Our prinicples mirror agile software development and we are committed to modern procurement practices (ie. modular contracting). It’s ok to recognize that implementing new practices can be difficult and challenging.  What’s worse would be to force it onto someone not ready and see them stumble in [very predictable ways](https://18f.gsa.gov/2018/09/27/antipatterns-in-agile-contracting/). 
+
 ---
 
 #### Still have questions?
