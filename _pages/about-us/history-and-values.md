@@ -53,7 +53,7 @@ Like Lean Startup, we favor experimentation, customer feedback, analytics, and i
 
 - **Be the change.** We intend to lead by example, by instruction, and with hands-on assistance.
 - **Think like a designer.** We believe that user-centered design can fundamentally change the experience the public has with government. We build only what people really need, nothing more. User needs are the driver for all decisions — not stakeholder or government needs.
-- **Data-informed.** We collect qualitative and quantitative data to inform our decisions. We measure everything, including ourselves. 18F does more than make websites; we enable the discovery of information. Whenever possible, we think “API first”.
+- **Data-informed.** We use metrics and analytics to augment our user research. We measure everything, including ourselves. 18F does more than make websites; we enable the discovery of information. Whenever possible, we think “API first” and lead with data.
 - **Leverage Agile methodologies.** Agile and lean methodologies drive our work. We believe in delivering early and often. We build something small; learn by validating with real people; and “rinse and repeat.” Quick feedback loops with stakeholders mean big failures never happen.
 - **Open by default.** We are open by default: both what we make and how we work. We’re [coding and designing in the open](https://github.com/18f); we use and build open source code by default; and we’re evangelizing our methods and practices across the federal government.
 
