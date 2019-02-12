@@ -50,7 +50,7 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 
 ### TTS approval signatures required for FTTA
 
-* Your Office’s Assistant Commissioner (Alla, Ben, Rebecca, Sarah, Dom or Bob)
+* Your Office’s Assistant Commissioner (Josh, Esther, Angela, Matt, Dom or Bob)
   * In Part F, enter name (box 1), title (box 2), and get signature (box 3)
 * Assistant Commissioner, Operations (Dominic Sale) *this is a TTS requirement*
   * In Part G, enter name (box 1a), title (box 1b), and get signature (box 1c)
@@ -62,7 +62,7 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 ### GSA approval of the FTTA
 
 * Talent sends the FTTAs to OCFO (Andrew Roach)
-* Talent sends the FTTAs to the FAS Commissioner’s office (Judith Zawatsky, Karen Link, and Alex Mobeka)
+* Talent sends the FTTAs to the FAS Commissioner’s office (Tricia Sieveke, Karen Link, and Alex Mobeka)
 * FAS office sends to HSSO (Alan Thomas)
 * FAS office sends to OHRM
 * OHRM will upload the FTTA to the Control Document Tracker (CDT) and route to the Office of Administrative Services (OAS) / Exec Secretariat
