@@ -28,13 +28,14 @@ The OA will contact you within 3 business days of submitting the intake form to 
 **Documents you'll need for any acquisition**
 
 - **Statement of Work (SOW)/Performance Work Statement (PWS)/Statement of Objectives (SOO)** summarizes what you’re buying and why the government needs it.
- - **Who drafts it:** The customer (you)
+  - **Who drafts it:** The customer (you)
 - **Market Research Report** outlines the current state of the market for your need and who can provide this product/service. This may include releasing a Request for Information (RFI), where we survey the marketplace and directly ask potential vendors about what we are planning to buy. An RFI can add to the overall timeline. 
   - **Who drafts it:** The customer (you)
 - **IGCE** details an estimate of the cost for the product/service.
   - **Who drafts it:** The customer (you)
 - **PR/IX Funding Document** ensures you have the funding for this buy.
   - **Who drafts it:** The customer (you)
+
 **Specific justifications (if needed)**
 
 - **Limited Sources or Brand Name**: Strong defense of why a particular brand/vendor/etc. is the **only source** that can meet your need.
