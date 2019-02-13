@@ -14,9 +14,9 @@ To empower the organization with the means and information to fully utilize the 
 
 We accept varying levels of leads including: 
 
-* Referrals: You know them really well, for example, someone you worked closely with or a good friend
-* Warm Leads: You kind-of know them, for example, someone you worked with but not directly 
-* Cold Leads: You barely know them at all, maybe someone you heard speak at a conference or wrote a memorable blog post
+* Referrals: You know them really well (e.g. someone you worked closely with or a good friend)
+* Warm Leads: You kind-of know them (e.g. someone you worked with but not directly) 
+* Cold Leads: You barely know them at all (e.g. someone you heard speak at a conference or wrote a memorable blog post)
 
 Submit leads and referrals using the form below:
   * [Referral Submission Form](https://goo.gl/forms/I6cOnRNdh21aP5e63)
