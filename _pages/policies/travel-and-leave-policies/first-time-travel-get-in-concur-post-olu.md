@@ -9,7 +9,7 @@ title: Get access to Concur
 1. To access [Concur](http://travel.gsa.gov/), you’ll first need to get a **“travel vendor ID”**. You can do this by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing).
 
 2.  **Attach your completed EFT form** to [this pre-populated email](https://mail.google.com/mail/?view=cm&ui=2&tf=0&fs=1&to=kc-vendor.number.requests%40gsa.gov&su=Request%20to%20Obtain%20Employee%20ID&body=To%20KC%20Vendor%2C%0A%0ACould%20I%20please%20have%20my%20employee%20ID%3F%0A%0AThank%20you%2C%0A) and send.
-([_Having trouble with the link?_](#having-trouble)) Since the EFT form contains personal information, you might want to encrypt it and add a password before sending over email. Share the password to the file using a different channel, like a phone call. See: [suggestions for password-protecting a file](/sensitive-information/#password-protected-file).
+([_Having trouble with the link?_](#having-trouble)) Since the EFT form contains personal information, best practice is to encrypt it and add a password before sending over email. Share the password to the file using a different method of contact, like a phone call. See [suggestions for password-protecting a file](/sensitive-information/#password-protected-file).
 
 3. Wait for a reply to this email.
 You’ll get a number like **E000xxxxx** in the reply, which is important for the next step. _While you wait, you might want to get a start on [getting a travel card](/first-time-travel-travel-card)_.
