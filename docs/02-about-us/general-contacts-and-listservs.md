@@ -25,7 +25,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 *   HR Notices: ca-employees@civicactions.net
 *   Engineering: ca-dev@civicactions.net
 *   Project Management: ca-pm@civicactions.net
-*   Sales: ca-sales@civicactions.net
+*   Sales: ca-bizdev@civicactions.net
 *   Marketing: ca-marketing@civicactions.net
 *   Every project has its own listserv, for example:
     *   projectname@civicactions.net (includes clients)
