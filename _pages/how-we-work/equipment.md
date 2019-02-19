@@ -49,7 +49,7 @@ TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have
 
 - **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
 
-- **After GSA IT provisions your phone, set up two-factor verifications.** Email <mailto:hspd12.security@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for two-factor authentication in our [Slack](/slack), [GitHub](/github), and [Gmail](/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
+- **After GSA IT provisions your phone, set up two-factor verifications.** Email <mailto:hspd12.security@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for two-factor authentication in our [Slack]({{site.baseurl}}/slack), [GitHub]({{site.baseurl}}/github), and [Gmail]({{site.baseurl}}/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
 ### Tips
 

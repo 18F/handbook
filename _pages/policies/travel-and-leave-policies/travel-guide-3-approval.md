@@ -2,9 +2,9 @@
 title: Step 3 - Submit for Concur Approval
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Choose your Itinerary](/travel-guide-2-choose-your-itinerary)
-[Jump to Travel](/travel-guide-4-travel)
+[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
+[Back to Choose your Itinerary]({{site.baseurl}}/travel-guide-2-choose-your-itinerary)
+[Jump to Travel]({{site.baseurl}}/travel-guide-4-travel)
 
 Now that you've chosen your itinerary, its time to complete some additional trip information to get your trip ready for approval and to book your tickets. There are 2 main parts to this process:
 
@@ -44,7 +44,7 @@ You may get prompted for a `No Hotel Booked` `Travel Policy Violation`. Select `
 1. Select the **Document Information** tab.
 1. Click **Save**.
 
-[Proceed to Submit Authorization for Approval](/travel-guide-3-approval/#submit-authorization-for-approval)
+[Proceed to Submit Authorization for Approval]({{site.baseurl}}/travel-guide-3-approval/#submit-authorization-for-approval)
 
 #### Having Trouble
 **What is an authorization?** Steps 1-3 cover the process of getting an authorization, which is simply the formal approval from your supervisor for travel, including a review and booking of major expenses such as flights and hotels.
@@ -63,7 +63,7 @@ You're getting really close! You can almost feel the TSA X-ray scan! One last st
 
 3. The next page will show you your **pre-audit results**. These will let you know if anything might be awry, which is represented by either a _FAIL_ or a _HARDFAIL_. As long as you've followed the process up to here correctly, you shouldn't worry too much about either _FAILS_ or _HARDFAILS_. Here's what to do if you get them:
 
-    * Any _HARDFAIL_ must be corrected before the submission of the authorization. Likely causes for _HARDFAILS_ are the lack of accounting codes, which can be looked up [here](https://goo.gl/4WkMqM). If you're not sure that you've used the correct codes or you're still getting a _HARDFAIL_, please ensure that [the information in the General tab](/travel-guide-3-approval/#fill-in-general-information) is correct and then close out of your authorization (click **Close Document** to the left of the *Document Actions* button).  Notify the travel team in #travel or at tts-travel@gsa.gov and they will assist you during their next [office hours](/travel-101/#communication).
+    * Any _HARDFAIL_ must be corrected before the submission of the authorization. Likely causes for _HARDFAILS_ are the lack of accounting codes, which can be looked up [here](https://goo.gl/4WkMqM). If you're not sure that you've used the correct codes or you're still getting a _HARDFAIL_, please ensure that [the information in the General tab]({{site.baseurl}}/travel-guide-3-approval/#fill-in-general-information) is correct and then close out of your authorization (click **Close Document** to the left of the *Document Actions* button).  Notify the travel team in #travel or at tts-travel@gsa.gov and they will assist you during their next [office hours]({{site.baseurl}}/travel-101/#communication).
 
     *  _FAILS_ can happen for a variety of reasons. TTS's travel process is designed so you don't have to worry about Concur _FAILS_-- as long as you've followed all of the rules up to here, the travel team will look into and justify anything that needs clarification. Proceed to **Continue Stamping the Document**
 
@@ -76,7 +76,7 @@ Once you have been approved, you should recieve a notification from Concur. Plea
 #### Whooo you are ready to go!
 
 You might want to take a look at what to expect while traveling!
-[Read about what to expect when you travel](/travel-guide-4-travel/)
+[Read about what to expect when you travel]({{site.baseurl}}/travel-guide-4-travel/)
 
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

@@ -2,11 +2,11 @@
 title: How to book a hotel in Concur
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Landing Page](/travel-guide-start-here)
-[Jump to Choose your Itinerary](/travel-guide-2-choose-your-itinerary)
+[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
+[Back to Landing Page]({{site.baseurl}}/travel-guide-start-here)
+[Jump to Choose your Itinerary]({{site.baseurl}}/travel-guide-2-choose-your-itinerary)
 
-**Note:** make sure you've [added your travel card to Concur](/first-time-travel-complete-concur-profile) before proceeding with these instructions.
+**Note:** make sure you've [added your travel card to Concur]({{site.baseurl}}/first-time-travel-complete-concur-profile) before proceeding with these instructions.
 
 1. When you click on the **Next** button after confirming your flights, a popup will appear asking if you'd like to book a hotel now. Select **I will book a hotel now** and click **OK**.
 <img src="/images/travel/11-book-hotel-now.png" class="travel-guide-hide" alt="selecting hotel booking option">
@@ -36,6 +36,6 @@ title: How to book a hotel in Concur
 
 8. You will now be taken back to your trip itinerary. Note that the hotel has been added to the flight.
 
-9. Scroll down and click **Next** and [proceed on to submitting for Concur approval](/travel-guide-3-approval)
+9. Scroll down and click **Next** and [proceed on to submitting for Concur approval]({{site.baseurl}}/travel-guide-3-approval)
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

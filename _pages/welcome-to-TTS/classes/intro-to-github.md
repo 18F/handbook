@@ -8,7 +8,7 @@ _This section provides a brief overview of GitHub._
 
 ### Documentation
 
-- [GitHub](/github/) - A detailed guide on how we use GitHub at TTS.
+- [GitHub]({{site.baseurl}}/github/) - A detailed guide on how we use GitHub at TTS.
 
 - [GitHub for Beginners](https://www.youtube.com/watch?v=uNa9GOtM6NE&t=1s) - Intended for beginners, this video class is led by Will Slack. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18) and course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
 
@@ -22,7 +22,7 @@ You've probably already noticed there's a lot happening on GitHub at TTS. That's
 
 ### 1. Set up your account
 
-Follow the instructions [here](/github/).
+Follow the instructions [here]({{site.baseurl}}/github/).
 
 ### 2. Basics
 
@@ -32,7 +32,7 @@ If you're not a developer or came from a place that didn't use Git, here are som
 
 - **Repo** is short for repository, or a project on GitHub. Anybody at TTS can create repos in the 18F organization and you should _always_ create new projects as 18F, not as yourself. You can create new repos in GitHub by clicking the + next to your profile picture. Then, choose New Repository and change the owner to 18F.
 
-- The **license** on every repo must be Creative Commons 0, or CC0. That&rsquo;s shorthand for Public Domain. TTS is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don&rsquo;t trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://gsa-tts.slack.com/archives/admins-github) and [#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/). You&rsquo;ll hear more about open source during [Gray&rsquo;s seminar on Product and Open Source](/intro-to-product-and-open-source).
+- The **license** on every repo must be Creative Commons 0, or CC0. That&rsquo;s shorthand for Public Domain. TTS is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don&rsquo;t trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://gsa-tts.slack.com/archives/admins-github) and [#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/). You&rsquo;ll hear more about open source during [Gray&rsquo;s seminar on Product and Open Source]({{site.baseurl}}/intro-to-product-and-open-source).
 
 Once you&rsquo;re a member of the 18F organization, you&rsquo;ll have access to many of our repos.  You&rsquo;ll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
 

@@ -26,7 +26,7 @@ Rule #1 is if you don't see us doing something already, and you can't find expre
 
 You've probably heard about the [Office of Personnel Management (OPM) data breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach), and you probably know about the NSA. Everyone at TTS is responsible for our organization's security and ensuring that the private data of the public is safe.
 
-The most important part of your job is security. 18F has its own [security standards](https://pages.18f.gov/before-you-ship/security/) around the software we develop. Be sure to [secure your Macbook](/equipment/#laptop) and [turn on FileVault](https://support.apple.com/en-us/HT204837).
+The most important part of your job is security. 18F has its own [security standards](https://pages.18f.gov/before-you-ship/security/) around the software we develop. Be sure to [secure your Macbook]({{site.baseurl}}/equipment/#laptop) and [turn on FileVault](https://support.apple.com/en-us/HT204837).
 
 Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please consult us in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 
@@ -38,7 +38,7 @@ This is an easy place to make mistakes, but it's also another great place to int
 
 That isn't to say that TTS can't solicit public input. We absolutely can. We can also limit access through a process, but we need a process that is both (1) initially open to everyone and (2) is clearly documented. This also applies to acquisitions or procurement, and the very complex laws around government finance.
 
-This brings us to Rule #3: You cannot spend a single penny, or create the expectation for a single penny to be spent, without prior authorization. Anything involving money must trace back to approvals. You can find out all about purchase approvals on the [Purchase Requests](/purchase-requests/) page.
+This brings us to Rule #3: You cannot spend a single penny, or create the expectation for a single penny to be spent, without prior authorization. Anything involving money must trace back to approvals. You can find out all about purchase approvals on the [Purchase Requests]({{site.baseurl}}/purchase-requests/) page.
 
 ### <a id="infrastructure-rules">Infrastructure rules</a>
 

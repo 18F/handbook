@@ -30,7 +30,7 @@ Members of the Engineering team come from all over: major technology companies, 
 
 ### Structure
 
-As per [the org chart](/org-chart), 18F Engineering is itself composed of smaller, “engineering teams,” each organized by a **facilitator.** While most engineers at 18F work in cross-functional _project_ teams, the facilitator engineering teams serve as small communities of practice to encourage cross-pollination that might not otherwise occur in a large, distributed team.
+As per [the org chart]({{site.baseurl}}/org-chart), 18F Engineering is itself composed of smaller, “engineering teams,” each organized by a **facilitator.** While most engineers at 18F work in cross-functional _project_ teams, the facilitator engineering teams serve as small communities of practice to encourage cross-pollination that might not otherwise occur in a large, distributed team.
 
 Facilitator teams occasionally meet to:
 
@@ -67,7 +67,7 @@ Engineering also has six functional leads: backend, frontend, devops, data, secu
 
 ### Leadership and facilitators
 
-See [the org chart](/org-chart).
+See [the org chart]({{site.baseurl}}/org-chart).
 
 ## FAQ
 
@@ -77,7 +77,7 @@ The default expectation for 18F engineers is to be committed to a single project
 
 Your project commitments should be captured by the [#staffing-resourcing](https://gsa-tts.slack.com/messages/staffing-resourcing/) team. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
 
-All 18F staff track their time in [Tock](https://tock.18f.gov/). Learn more in the [Tock guide](/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
+All 18F staff track their time in [Tock](https://tock.18f.gov/). Learn more in the [Tock guide]({{site.baseurl}}/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
 
 ### I’m interested in working on a different or additional project. How can I do that?
 
@@ -137,11 +137,11 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
   - [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership). Someone there will get you set up.
   - [18f-eng-leadership@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18f-eng-leadership). This is a good way to write to the entire engineering leadership team at once.
-  - Optional listserv that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#interagency-open-data-working-group)
+  - Optional listserv that may be of interest: [Interagency Open Data Working Group]({{site.baseurl}}/general-contacts-and-listservs/#interagency-open-data-working-group)
 
 ## Before you use a new tool...
 
-Here are some [common tools we use](/#tts-tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
+Here are some [common tools we use]({{site.baseurl}}/#tts-tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
 And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. If what you want to use isn’t there, you’ll need to ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
 

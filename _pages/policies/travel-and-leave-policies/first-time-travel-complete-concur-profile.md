@@ -2,15 +2,15 @@
 title: First Time Travel Complete Concur Profile
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Get a Travel Card](/first-time-travel-travel-card)
-[Next to Travel Authorization](/travel-guide-1-authorization)
+[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
+[Back to Get a Travel Card]({{site.baseurl}}/first-time-travel-travel-card)
+[Next to Travel Authorization]({{site.baseurl}}/travel-guide-1-authorization)
 
 You will want to complete your Concur profile to pay for hotels listed in Concur with your Travel Card and get your preferred airline seats, miles, rewards, etc.
 
 **Please take time to review this step if you haven’t traveled in a while.**
 
-It will make [booking hotels in Concur](/how-to-book-a-hotel-in-concur) easier, and allow you to personally redeem miles and/or points earned while on government travel.
+It will make [booking hotels in Concur]({{site.baseurl}}/how-to-book-a-hotel-in-concur) easier, and allow you to personally redeem miles and/or points earned while on government travel.
 
 1. Log into Concur [travel.gsa.gov](http://travel.gsa.gov/).
 2. In the *I want to...* menu select **Edit my profile**
@@ -22,7 +22,7 @@ It will make [booking hotels in Concur](/how-to-book-a-hotel-in-concur) easier, 
 
 ## Do you have an upcoming trip?
 
-[Yes: Get travel authorization](/travel-guide-1-authorization)
+[Yes: Get travel authorization]({{site.baseurl}}/travel-guide-1-authorization)
 
 #### Having Trouble
 Check out the screen shots [here](https://docs.google.com/drawings/d/1eP5E7Tq1K4Iva7aNSHjLukJcZzD2Cdkf6LCoEDRzsFM/edit)

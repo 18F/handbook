@@ -17,7 +17,7 @@ Please note that the TTS OA Operational Guidance apply only to acquisition relat
 
 Federal Acquisition Regulation (FAR) requires each office performing contracting, contract administration, or paying functions to establish files containing the records of all contractual actions.
 
-**COs:** Review and follow the TTS OA Standard Operating Procedure (SOP)-[Contract File Management](/contract-file-management) and [Contract File Checklist](https://docs.google.com/document/d/1Z6TXPX2FlQLfhkjH6JSgE5JGHDq3NbdJGDovPxU6u4U/edit) on CO’s official contract file content, organization and storage. For contract modifications, please see [Modification Checklist](https://docs.google.com/document/d/1vgGuZhFYkTnb8ch7_ZykliUKvKMIKr5K_9etR6CThJ0/edit). Note that all official contract/project folders, procurement documents, and contract file checklists must be stored in GSA TTS Google Drive.
+**COs:** Review and follow the TTS OA Standard Operating Procedure (SOP)-[Contract File Management]({{site.baseurl}}/contract-file-management) and [Contract File Checklist](https://docs.google.com/document/d/1Z6TXPX2FlQLfhkjH6JSgE5JGHDq3NbdJGDovPxU6u4U/edit) on CO’s official contract file content, organization and storage. For contract modifications, please see [Modification Checklist](https://docs.google.com/document/d/1vgGuZhFYkTnb8ch7_ZykliUKvKMIKr5K_9etR6CThJ0/edit). Note that all official contract/project folders, procurement documents, and contract file checklists must be stored in GSA TTS Google Drive.
 
 **CORs:** Review #Readme-[Contracting Officer’s Representative (COR) File](https://docs.google.com/document/d/1uIz18WpTmycY4StdyPe2Y3J8mPk-z-7PzNUdeqYNd04/edit) and [COR File Checklist](https://docs.google.com/document/d/1JR4G4mzynvlJaqmGRWb8_hU-BYGUrqSGvBJdaMbVWVQ/edit) on setting up and maintaining a file for each contract. If you are a COR and you have questions, please contact your CO for further assistance.   
 
@@ -43,7 +43,7 @@ The Federal Acquisition Certification for Contracting Officer’s Representative
 
 One condition of FAS Commissioner’s re-delegated limited procurement authority is for TTS to have an official process to review procurement actions to ensure compliance with applicable policies and regulations.
 
-**COs and CORs:** Be sure to review and follow TTS OA Standard Operating Procedure (SOP)-[Management Reviews of Procurement Actions](/management-reviews-of-procurement-actions). It is imperative that you add sufficient time for management reviews when developing acquisition milestones.
+**COs and CORs:** Be sure to review and follow TTS OA Standard Operating Procedure (SOP)-[Management Reviews of Procurement Actions]({{site.baseurl}}/management-reviews-of-procurement-actions). It is imperative that you add sufficient time for management reviews when developing acquisition milestones.
 
 ## Non-Disclosure Agreement and COI
 When conducting federal acquisitions, federal employees are entrusted with certain information that is not generally known to the public. Hence, the employees required to adhere to specific guidelines for disclosing confidential information.
@@ -52,7 +52,7 @@ Anyone handling acquisitions must review and follow #Readme-[Conflict Of Interes
 
 ## Office of Acquisition Roles and Responsibilities
 
-Members of the TTS Office of Acquisition can serve in a variety of different roles. [TTS OA Roles and Responsibilities](/tts-office-of-acquisition-team-roles-and-responsibilities) defines the role and responsibilities of the members in TTS OA, with an emphasis on the COR and other team members’ role in the post-award contract management process.
+Members of the TTS Office of Acquisition can serve in a variety of different roles. [TTS OA Roles and Responsibilities]({{site.baseurl}}/tts-office-of-acquisition-team-roles-and-responsibilities) defines the role and responsibilities of the members in TTS OA, with an emphasis on the COR and other team members’ role in the post-award contract management process.
 
 ---
 

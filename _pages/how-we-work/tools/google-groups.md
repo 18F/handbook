@@ -2,7 +2,7 @@
 title: Google Groups
 ---
 
-We use Google Groups to manage team and interest-based email distribution lists and listservs (a list of listservs and groups TTS uses is [here](/general-contacts-and-listservs/#listservs).
+We use Google Groups to manage team and interest-based email distribution lists and listservs (a list of listservs and groups TTS uses is [here]({{site.baseurl}}/general-contacts-and-listservs/#listservs).
 
 ## Create a Google Group
 

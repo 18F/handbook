@@ -25,7 +25,7 @@ Individual offices have rituals that you might want to take part in. Check in yo
 
 ### <a id="working-group">Working-group meetings</a>
 
-[Working groups](/working-groups-and-guilds-101) shape the culture, frameworks, and work style across TTS. They often meet weekly. If you're interested in a working group's focus, you should join the group and attend meetings. And you don't have to become a permanent member of a working group to attend the occasional meeting. For example, newcomers occasionally join the onboarding working group's meetings (even if they don't want to take part in the working group itself) to voice their concerns about the onboarding process.
+[Working groups]({{site.baseurl}}/working-groups-and-guilds-101) shape the culture, frameworks, and work style across TTS. They often meet weekly. If you're interested in a working group's focus, you should join the group and attend meetings. And you don't have to become a permanent member of a working group to attend the occasional meeting. For example, newcomers occasionally join the onboarding working group's meetings (even if they don't want to take part in the working group itself) to voice their concerns about the onboarding process.
 
 ### <a id="opp-all-hands">OPP All Hands</a>
 

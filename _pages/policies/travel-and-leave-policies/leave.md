@@ -25,7 +25,7 @@ This page provides instructions for entering leave requests (also known as absen
 ## Submitting leave in HR Links
 
 ### Logging into HR Links
-You must be on the GSA wireless network or on the Windows virtual desktop (accessible through VMWare Horizon or Cisco AnyConnect) to log into HR Links.  For instructions on accessing your virtual desktop through VMware Horizon, go [here](/vmware-horizon).  For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here](/anyconnect).  
+You must be on the GSA wireless network or on the Windows virtual desktop (accessible through VMWare Horizon or Cisco AnyConnect) to log into HR Links.  For instructions on accessing your virtual desktop through VMware Horizon, go [here]({{site.baseurl}}/vmware-horizon).  For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).  
 
   1. Open your web browser (Safari is preferred for HR Links)
   1. Go to [HR Links](https://corporateapps.gsa.gov/hr-links/) or find it under "Tools" on the [InSite home page](https://insite.gsa.gov)

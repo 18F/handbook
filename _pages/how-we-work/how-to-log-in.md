@@ -12,7 +12,7 @@ This content provides best practices for logging into your various government ac
 
 ## ENT (enterprise) login
 
-This is your account for signing into systems administered by GSA, including your email, calendar, and Google Drive.  Your ENT account name is in the form FirstnameMiddleinitialLastname (Ex: JohnASmith).  For guidance on secure passwords, reference this [page](/password-requirements).
+This is your account for signing into systems administered by GSA, including your email, calendar, and Google Drive.  Your ENT account name is in the form FirstnameMiddleinitialLastname (Ex: JohnASmith).  For guidance on secure passwords, reference this [page]({{site.baseurl}}/password-requirements).
 
 When you login with ENT while not connected to a GSA wireless network, you will be prompted to select "This is a public computer" or "This is a private computer" (see image below).  You should always select "This is a private computer" unless you are logging in on a computer that's not your government computer or a computer that you personally own (Ex: a library computer).  
 
@@ -47,7 +47,7 @@ VMware is utilized to access your GSA Microsoft Windows desktop.  Some governmen
 
 ##Cisco AnyConnect login
 
-AnyConnect is utilized as a GSA VPN client so that you can use a variety of systems that require a VPN directly from your local computer. Go [here](/anyconnect) for more information on configuring this tool.
+AnyConnect is utilized as a GSA VPN client so that you can use a variety of systems that require a VPN directly from your local computer. Go [here]({{site.baseurl}}/anyconnect) for more information on configuring this tool.
 
 --------------------------------------------------------------------------------
 

@@ -8,7 +8,7 @@ Do you need software to do your job or make sure TTS is running smoothly? Follow
 
 ## Get access to software we already have
 
-Check the [GEAR, IT Standards list](https://ea.gsa.gov/#!/applications) (must be on GSA wireless or [VPN](/vmware-horizon/#logging-into-vmware-horizon)) to ensure the software you need is currently approved by GSA IT.
+Check the [GEAR, IT Standards list](https://ea.gsa.gov/#!/applications) (must be on GSA wireless or [VPN]({{site.baseurl}}/vmware-horizon/#logging-into-vmware-horizon)) to ensure the software you need is currently approved by GSA IT.
 
 If the software you are looking for is in the [TTS inventory](https://docs.google.com/spreadsheets/d/15FxfSsf6i1bV7X1XBeJM0ok3LVCgbAGj-VFw7LdQ7qY/edit?usp=sharing), send an email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) requesting a license for the software you need. The TTS Saas Project Manager will contact you within 1-2 business days.
 
@@ -30,7 +30,7 @@ If the ATO is expired or you cannot find it in GEAR, you can post in the Slack c
 
 ### Step 2: use C2 to make a request
 
-[Get access to C2 and make a request](/purchase-requests/#c2), then come back here.
+[Get access to C2 and make a request]({{site.baseurl}}/purchase-requests/#c2), then come back here.
 
 After you make the C2 request:
 

@@ -60,7 +60,7 @@ The Design team at 18F includes content, user experience, front-end, and visual 
 
 ### <a id="structure">Structure</a>
 
-As per the [org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100), 18F Design is itself composed of the content design, user experience (UX) design + frontend design, and visual design teams. Members of the Design team are active participants in the content, frontend, and research [guilds](/working-groups-and-guilds-101).
+As per the [org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100), 18F Design is itself composed of the content design, user experience (UX) design + frontend design, and visual design teams. Members of the Design team are active participants in the content, frontend, and research [guilds]({{site.baseurl}}/working-groups-and-guilds-101).
 
 As these teams have grown in size, we’ve introduced **leads** and **supervisors**. In your first week, you’ll be assigned a lead. Leads concentrate on project work while providing a first level of practical support and project advice to 2-3 people. Supervisors carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. Leads and supervisors are selected through nominations and interviews according to team needs. These competitions will be announced ahead of time. More detail on [Design team roles and responsibilites](https://docs.google.com/document/d/1XqgwiUItzRZu4I8KcpQlkCCd5iXM_EbTwsUzXwy-L-w/edit#heading=h.bc6vwqoy0xk4) is provided internally.
 
@@ -90,7 +90,7 @@ Most of the design team works on a mix of partner-agency projects and internal i
 
 - **Mailing lists**
   - 18F-xd@gsa.gov is a Google group for all members of the design chapter. Your supervisor is responsible for adding you to this list — no need to worry about registering.
-  - Other mailing lists are listed [here](/general-contacts-and-listservs/#listservs).
+  - Other mailing lists are listed [here]({{site.baseurl}}/general-contacts-and-listservs/#listservs).
 
 ### <a id="tools">Tools</a>
 
@@ -101,29 +101,29 @@ And one more thing: before you start using any new tool that asks for access to 
 #### Drawing lines on a screen
 Unless otherwise specified, **see [Software](../software/#get-access-to-software-we-already-have) to get a license** for any of these.
 
-- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license. Visit [#sketch](https://gsa-tts.slack.com/messages/sketch) on Slack for help and sharing tips. One thing that's different about using Sketch at GSA is that Sketch plugins are not impossible to obtain, but might be more time-consuming than -saving. Each Sketch plugin is treated like a [new software request](/software), and must undergo review by GSA IT review. So far, we haven't found much that we can't accomplish without plugins.
+- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license. Visit [#sketch](https://gsa-tts.slack.com/messages/sketch) on Slack for help and sharing tips. One thing that's different about using Sketch at GSA is that Sketch plugins are not impossible to obtain, but might be more time-consuming than -saving. Each Sketch plugin is treated like a [new software request]({{site.baseurl}}/software), and must undergo review by GSA IT review. So far, we haven't found much that we can't accomplish without plugins.
 - **InVision:** We use InVision for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync. 
   - If you are a member of the design team, once you have requested and received an InVision license, tell your supervisor that you have an account and are ready to be added to the "18F Design Team" group in InVision. This will enable you to see prototypes from all of our projects. When making your own prototypes in the future, always add this team as a collaborator. 
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
 - **Adobe Creative Cloud:** Visual designers often need CC for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. CC licenses are more limited, so please don’t request access unless you really do need it for your work. 
 
 #### Project management
-Every project and team has a different mix of project management tools based on what works for them. Many internal projects will use **Trello** because it's fast to set up. Get more information on the [How to use Trello](/trello) page.
+Every project and team has a different mix of project management tools based on what works for them. Many internal projects will use **Trello** because it's fast to set up. Get more information on the [How to use Trello]({{site.baseurl}}/trello) page.
 
 #### Research
 
-- Please read [Doing Research at 18F](/research-guidelines) for more information on the tools and techniques.
-- **Google Analytics:** More info [here](/google-analytics).
+- Please read [Doing Research at 18F]({{site.baseurl}}/research-guidelines) for more information on the tools and techniques.
+- **Google Analytics:** More info [here]({{site.baseurl}}/google-analytics).
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#g-research](https://gsa-tts.slack.com/messages/g-research) for recommendations.
 
 #### Workshops / virtual workspaces
 
-- **Mural:** Research analysis and workshops. Get more info [here](/murally/). Access is immediate.
+- **Mural:** Research analysis and workshops. Get more info [here]({{site.baseurl}}/murally/). Access is immediate.
 
 #### Word processing
 
 - **Google Drive / Docs / Slides:** This is our primary tool for documents of various sorts.
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license if your project work requires it.
+- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions]({{site.baseurl}}/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license if your project work requires it.
 
 ### <a id="assets">Assets</a>
 

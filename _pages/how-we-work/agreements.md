@@ -19,7 +19,7 @@ title: Agreements
 ### TTS Policy and Process for GSA Chief Information Officer FITARA Review
 18F complies with FITARA and follow the [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1sO8cE3eyTclOkwnxNTMG5dg2qhP3AmJesGobM1m_LQw/edit).
 
-For more information about how we do business, see our [account management policy](/client-accounts/).
+For more information about how we do business, see our [account management policy]({{site.baseurl}}/client-accounts/).
 
 ## What are the contents of an IAA?
 
@@ -98,7 +98,7 @@ The information below provides more detail than we typically give clients. Team 
 
 ## Reporting
 
-For information about in-process or signed agreements, see the [18F Master Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=2047916505) and our [account management policy](/client-accounts/).
+For information about in-process or signed agreements, see the [18F Master Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=2047916505) and our [account management policy]({{site.baseurl}}/client-accounts/).
 
 ---
 
