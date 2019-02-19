@@ -24,7 +24,7 @@ Outreach is part of the TTS Operations office and is funded by the TTS business 
 - Connecting with the Office of Strategic Communication regarding press requests, GSA communication channels, or approvals
 - Editing TTS content on InSite or GSA.gov
 
-In you're contacted by a journalist or member of the press, please forward the message to press@gsa.gov without responding. All press interactions are handled by the Office of Strategic Communication. 
+If you're contacted by a journalist or member of the press, please forward the message to press@gsa.gov without responding. All press interactions are handled by the Office of Strategic Communication.
 
 ## Team
 

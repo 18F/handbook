@@ -10,4 +10,16 @@ If you’d like an official TTS or GSA account to tweet something or respond to 
 
 In general, feel free to ask questions, share public GitHub repos, and talk about already-public information about your project. This helps build trust, and the input we receive from people via social media often makes our projects better. Always use discretion when posting on social media about your work to make sure you aren’t sharing any sensitive or non-public information. If you have any questions about whether to put something on social media, feel free to ask in [#tweet-this](https://gsa-tts.slack.com/messages/tweet-this) or [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff).
 
-If you tweet an image from a TTS account, follow [Twitter’s directions](https://help.twitter.com/en/using-twitter/picture-descriptions) to make sure the image has an accessible description.
+If you or someone is speaking at an event, it is okay to pre-plan or post live to social media while at an event. From an official GSA account, tweets or retweets from a group highlighting a GSA principal’s appearance on a program (TV, radio, podcast, webinar, etc.) or at an event are fine.
+
+Be careful to limit your tweet or retweet to only sharing facts rather than encouraging people or GSA employees to attend a conference. For example:
+
+- Don't: @18F's Angela Colter is speaking at this event - make sure to sign up and go!  
+- Do: @18F's Angela Colter is speaking about GSA priorities @GovMatters.
+
+Also, avoid making any personalized statements as they would be considered an endorsement. For example:
+
+- Don't: This is my favorite fed IT event of the year! @codedotgov's Joe Castle speech on 18F priorities @GovMatters
+- Do: The GSA Administrator is speaking tomorrow: @codedotgov's Joe Castle speech on code.gov priorities @GovMatters
+
+When tweeting an image from a TTS account, follow [Twitter’s directions](https://help.twitter.com/en/using-twitter/picture-descriptions) to make sure the image has an accessible description.
