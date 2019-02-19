@@ -19,7 +19,7 @@ Be careful to limit your tweet or retweet to only sharing facts rather than enco
 
 Also, avoid making any personalized statements as they would be considered an endorsement. For example:
 
-- Don't: This is my favorite fed IT event of the year! @codedotgov's Joe Castle speech on 18F priorities @GovMatters
+- Don't: This is my favorite fed IT event of the year! @codedotgov's Joe Castle speech on code.gov priorities @GovMatters
 - Do: The GSA Administrator is speaking tomorrow: @codedotgov's Joe Castle speech on code.gov priorities @GovMatters
 
 When tweeting an image from a TTS account, follow [Twitter’s directions](https://help.twitter.com/en/using-twitter/picture-descriptions) to make sure the image has an accessible description.
