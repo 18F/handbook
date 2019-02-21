@@ -8,22 +8,22 @@ Making procurement joyful
 
 Welcome to the 18F Acquisition Chapter — we’re happy you’re here! We’ve compiled some information to help you get started.  We’ll update this guide as we receive feedback, so don’t be shy to share your thoughts. 
 
-### Who we are
+### Who We Are
 
 Members of the Acquisition team come from all over: inside GSA, consulting firms, Peace Corps, and other government agencies. Collectively, we work as the acquisition part of the overall 18F cross-functional team bringing our expertise to help agency partners (experts in their mission) produce more effective procurement strategies, implement modern procurement practices, and better vendor outcomes. We’re experienced in a wide variety of procurements and have tons of stories of procurements that have gone well and some that haven’t.  Ask us!
 
-### Our vision & mission
+### Our Vision & Mission
 
 The Acquisition Chapter exists to prove that government acquisitions can be joyful for our employees, agency partners, and industry partners. We do this, by ensuring that informed buyers can easily and confidently access the right products and services to meet their agency’s  mission. No matter what the agency partner is undertaking or trying to solve, the acquisition process will be unavoidable and it can be used as an amazing point for leverage to improve overall outcomes.
 
 As a team, we are dedicated to bringing an agile, human centered, and cross-functional approach to procurements that will better prepare our partners to work with modern vendor teams iteratively; developing open source software products to help agencies achieve their mission.
 
-### Our value proposition
+### Our Value Proposition
 
 18F Acquisition Consulting helps agencies buy digital services in a way that reduces risk and provides value to end-users more rapidly than traditional methods.
 We seek to design and evangelize acquisition approaches that are better aligned with current industry practices to ensure the successful delivery of digital products and services that truly meet the needs of our agency partners and the people they serve.
 
-### Our principles
+### Our Principles
 
 * Use **human-centered design** to focus on software that meets actual people's needs/
 * Leverage **open-source software**, and select modern tech stacks to ensure long-term sustainability.
@@ -39,22 +39,22 @@ We focus on procurements of intentionally modest scope for digital products and 
 In pursuit of this strategy, we:
 
 * Consult with our agency partners to help them buy digital products and services demonstrating that compliance can still be achieved in the context of more efficient and effective acquisition approaches.
-* Develop innovative acquisition strategies within the confines of the Federal Acquisition Regulations (FAR). 
+* Develop innovative acquisition strategies within the confines of the Federal Acquisition Regulation (FAR). 
 * Develop and pilot novel methods of working with industry and encourage vendors of all sizes to compete for work and offer their unique skills to government. 
 * Work in the open. We strive to publicly share as much information about our work with agencies partners as possible. Vendors we partner with commit to using open-source technologies.
 * Consult with partner agencies on acquisition strategy, conduct workshops, provide pre-award and post-award coaching. Our work is rooted in real project work to assist our partner agencies to develop the skills needed to be more savvy consumers of digital products and services moving forward, and ensure their long-term success beyond the scope of our work together.
 
-### How we communicate
+### How We Communicate
 
 The majority of our conversations take place on Slack and video.  There are a number of Slack channels for acquisition discussions. 
 
 Team meetings are generally over Google Meet and Zoom. If you would like your own Zoom account, hop on over to [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom/) to request one.
 
-### Stuff to do, sign, and read
+### Stuff to Do, Sign, and Read
 
 #### Do
 
-##### Acquisition training 
+##### Acquisition Training 
 
 [On boarding Training for Contracting Officers](https://docs.google.com/document/d/1rQYUP1ARL0OnxUD5FNHKmt-ExiFWxSVeE6lHmKaMvxE/edit)
 
@@ -85,11 +85,11 @@ These are a couple of suggested reading materials meant to give you a better sen
 * [Intro to Acquisition Consulting](https://docs.google.com/presentation/d/1_SP25AV8CB2-2nxyFPSk3V0t6SClafwZmDs9jQRvHzo/edit?pli=1#slide=id.g4be6f7f337_0_12)
 * Keep this for later, but if you ever need to know the answer to the question “Can you…” when it comes to a contract save yourself the time and use the [Government Attorney’s Desk Reference](http://www.loc.gov/rr/frd/Military_Law/Contract-Fiscal-Law-Department.html) (called the “Blue Book”, whereas the fiscal law guide is the “Red Book”).
 
-### Pro-tips for working with our partners
+### Pro-tips for Working with Our Partners
 
 *(these are from your Acq Chapter friends)*
 
-#### Teach partners how to fish
+#### Teach Partners How to Fish
 
 * **Success is working ourselves out of a job.** We strive to increase our partners’ knowledge and capacity until we can transfer the entire project back to them; comfortable that they have the tools and resources to continue seamlessly.
   
@@ -99,7 +99,7 @@ These are a couple of suggested reading materials meant to give you a better sen
 
 * **Retros are your friend.** Recognize that there isn’t a one-size-fits-all approach to procurement or product development and it’s necessary to meet the agency partner where they are.  Allow for incremental learning over time. Ensure that these are blameless spaces, because without transparent and honest communication the dynamics will slowly fester and create the kinds of legacy environments that can stymie progress at the partner agencies.
 
-#### Situational awareness
+#### Situational Awareness
 
 * **Build your empathy muscle.** Take time to understand the problem space, past challenges, and the goals of the product team. 
 
@@ -109,13 +109,13 @@ These are a couple of suggested reading materials meant to give you a better sen
 
 * **Post it everywhere.**  We post on e-buy, FBO.gov, and Github.
 
-#### Work with (not for) the vendors
+#### Work with (not for) the Vendors
 
 * **Our highest duty is to our agency partners.** (Not the partners’ vendor)  We work closely with the vendor intent on developing good working relationships, AND we always prioritize our client’s best interests above all else.
 * **Vendor lock-in is bad for everyone.** We encourage our agency partners to prioritize internalizing expertise and using vendors as interchangeable complements to their own team. That includes 18F, which is also a vendor.
 * **Talk to industry!** We are comfortable having conversations with industry as the FAR advises us to do.
 
-#### 18F is here for you
+#### 18F Is Here For You
 
 * **Ask for help.** Know there is a powerful ecosystem of 18Fers who are on-call to help with any areas where you need more assistance, whether it’s design, security practices, or product management best practices. We see new things every day, but it’s unlikely that someone hasn’t seen something like what you’re experiencing before and can offer a hand, ear, or whatever other body part you may need given the circumstances.
 
@@ -123,6 +123,6 @@ These are a couple of suggested reading materials meant to give you a better sen
 
 ---
 
-#### Still have questions?
+#### Still Have Questions?
 
 Ask in Slack: [#acquisition](https://gsa-tts.slack.com/messages/acquisition)
