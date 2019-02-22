@@ -100,6 +100,14 @@ Here are some of the potential modifications we could make to your contract:
 
 If you have a modification that needs to be made to your contract please fill out this [contract modification form](https://docs.google.com/forms/d/e/1FAIpQLSem56QHnAqOiUYlGltNIFugRtWn_QAA43L_LGF0-jK3p5Q-kw/viewform) as soon as you know the modification is necessary and your CO will contact you right away.
 
+## 9. Contractor Performance Assessment Report (CPARS)
+
+For contracts over the simplified acquisition threshold (currently $250,000), the government is obligated to evaluate contractor performance. This evaluation will happen at the end of each Period of Performance (PoP), after the work under that PoP has been completed. The CO will initiate the CPARS form and route it to you to evaluate the work of your contractor. Performance information should be entered directly into the CPARS, also the Governmentwide evaluation reporting tool. Instructions for submitting evaluations into CPARS are available at http://www.cpars.gov/. After you submit the evaluation, it will go to your contractor POC for review. The evaluations are automatically finalized after 14 days, including any comments the contractor add to the review. This may sound overwhelming, but kindly note that your CO will guide you through the entire process. Please contact your CO if you have any questions. 
+
+## 10. Contract Close Out
+
+After all work under a contract has been delivered, it is time to close out the contract. To initiate the contract closeout process, your CO will ask you for a final report of the services and/or products received and the contractor’s final invoice. The CO will also confirm with the OCFO that all payment has been made to the contractor. Generally, a contract will be considered complete after the CO receives this information and your CO prepares a contract completion statement. After your CO marks the contract closed in the contract writing system, the contract is officially closed and you are finished!
+
 ## Still have questions?
 
 Ask in Slack: [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy/)
