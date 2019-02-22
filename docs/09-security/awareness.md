@@ -89,9 +89,12 @@ SMS can often be an easy backup, say for Google Authenticator, or Google Authent
 Social engineering is the most common attack vector used to compromise computer systems. Social engineering relies heavily on human interaction and often involves tricking people into breaking normal security procedures. The following is a brief reminder of some of the methods used, but is in no way complete.
 
 *   Phishing
-    *   Don't click on links, hover and check the URLs
-    *   Don't open attachments (unless you really trust the sender)
-    *   If in doubt, ask an IT member (e.g. via Slack)
+    *   Is the email from someone you know and contains expected information?
+        *   Emails from unknown people asking for some action on your part is the most common form of phishing.
+    *   Don't click on links or open attachements:
+        *   Unless you trust the sender and expect the link or attachment, 
+        *   Even if you trust the source (a From: address can be spoofed) hover first and check the URL
+    *   If in doubt, ask an IT member (e.g. via Slack) or forward the email to an IT member
     *   [More on Phishing avoidance (from EFF)](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
 *   Windows Technical Support
     *   "Windows Technical Support has noticed that you have viruses or other malware on your computer..."
@@ -101,7 +104,9 @@ Social engineering is the most common attack vector used to compromise computer 
     *   Turn off sharing
     *   Don't automatically connect to unknown WiFi hotspots
     *   Confirm the network name - know the name of your hotspot!
+        *   Watch out for an "Evil Twin" - a hotspot that looks good but could be an access point set up by an attacker (e.g., "StarbucksGuest" or "DeltaFreeWifi")
     *   Turn on your local firewall
+    *   Use a VPN if possible
     *   As usual, never enter your name or password information:
         *   when on an insecure (non-HTTPS or SSL encrypted) connection, or
         *   to a site that you have not verified is correct (by examining at the URL)
