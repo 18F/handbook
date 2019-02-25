@@ -4,7 +4,6 @@
 
 As a requirement for employment, every employeed must review and acknowledge the [**CivicActions Security Policy**](../../03-policies/security.md) that includes:
 
-*   [Information Classification Policy](../../03-policies/security.md#information-classification-policy)
 *   [Acceptable Use Policy](../../03-policies/security.md#acceptable-use-policy)
 *   [Access Policy](../../03-policies/security.md#access-policy)
 *   [Password Policy](../../03-policies/security.md#password-policy)

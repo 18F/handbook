@@ -1,5 +1,5 @@
 ---
-version: 1.1.3
+version: 1.1.4
 ---
 
 # CivicActions Security Policy
@@ -14,24 +14,16 @@ CivicActions has established the following policy to safeguard the security, con
 *   Educate/disseminate our best practices for security throughout the CivicActions community;
 *   Demonstrate to clients that we are trustworthy and satisfy contractual requirements for security.
 
-## Information Classification Policy
+## Confidential Information
 
-We can group information into two classes:
+CivicActions does most things out in the open, and we strive to reduce the amount of Confidential Information (defined below) we get from third parties. Despite that, during your time as an employee or independent contractor you will be exposed to certain Confidential Information owned by CivicActions, owned by third parties, or provided to us by users and governed by our privacy policy. This section of the Agreement describes the responsibilities you have with regards to such information. Accordingly, you agree that:
 
-*1. Confidential information:*
+*   Confidential Information will only be used as necessary to perform your job, that you will take reasonable steps to protect it (such as not letting it out of your control), that you will not disclose it to anyone outside CivicActions, and that you will promptly notify your manager if you know of unauthorized use of Confidential Information.
+*   You further agree that all Confidential Information is owned by CivicActions, or (where appropriate) by the a third party from whom it originated.
 
-*   Sensitive Personally Identifiable Information (SPII) - for example: Social Security or Passport numbers, financial account numbers, biometric identifiers, passwords, and all records and files directly relating to a person that are not publicly available.
-*   Proprietary client information - for example: intranet/extranet content, files or data, unpublished/staged content, project planning/design documents or source code produced by the client or 3rd party vendors. This may include information covered by a non-disclosure agreement (NDA), but even in the absence of such an agreement we should treat information provided by clients as confidential unless instructed otherwise.
-*   Confidential business information of CivicActions or a client, including engagement terms.
-*   Communications involving legal advice or discussions that are intended to be protected by attorney client privilege or the work product doctrine.
-*   Internal CivicActions information - for example: information regarding our IT security, accounting, finance or human resources, unless by prior agreement by a member of the management team.
+"Confidential Information" means information or material which is proprietary to CivicActions and not generally known outside CivicActions, including information or material that you create, learn, or obtain, as well as information we receive in confidence from third parties. For example, this may include without limitation any information disclosed that is subject to applicable non-disclosure protections of CivicActions privacy policies, non-public product plans of CivicActions or 3rd parties, technical and business information, personnel information like salaries, or other sensitive information. Material need not be marked confidential for it to be considered Confidential Information.
 
-*2. Non-confidential information:*
-
-*   *Limited* Personally Identifiable Information (PII) - for example: publicly available personal data such as name, email, home address and phone number. Note that some systems classify this as SPII - consult with your project manager or the security team if you have questions.
-*   Free and open source ("FOSS") licensed source code (e.g. GPL/AGPL), such as projects downloaded from drupal.org. This also includes all FOSS source code written by CivicActions, with the exception of files containing credentials.
-*   Free and open source licensed creative assets (e.g. Creative Commons). This also includes project planning/design documents authored by CivicActions, as well as training materials and other incidentals, that have been designated open source.
-*   Information that is publicly available, including client information on public facing web site pages.
+Not all information or material you encounter is confidential information. Generally Confidential Information does not include any information which is subject to free and open source software licenses, or similar licenses including without limitation, GNU General Public License, MIT License, GNU Affero General Public License, or Creative Commons ShareAlike licenses. This may depend on CivicActions' agreements with third parties though so if the free and open source licensed material does not fall into one of the categories below you should check with your project manager to determine if the material is considered Confidential Information. Confidential Information does not include (i) information communicated that is publicly known at the time you received the information or has become publicly known other than by a breach of this Agreement; (ii) information you independently developed unrelated to your relationship with CivicActions and without violation of this Agreement; and (iv) information that becomes known to you from a source other than CivicActions, provided any such source is legally entitled to have and to disclose such information to you without restriction. CivicActions believes strongly in openness and transparency and we strive to release source code publicly under a free and open source license agreement, but there may be circumstances where we choose not to; for instance we may be prevented from doing so by the terms of an agreement with a third-party.
 
 From the point of view of a typical client project, this means that:
 
@@ -39,11 +31,10 @@ From the point of view of a typical client project, this means that:
 *   The uploaded files directory may need to be treated as confidential if the client site has any access-controlled content.
 *   The site source code can normally be treated as non-confidential, unless this includes proprietary code from the client or 3rd parties.
 *   The contents of the project management site (e.g. Trac, JIRA, Trello, etc.), e-mail lists and related communication tools, will normally contain a mixture of confidential and non-confidential information:
-    *   Information authored by CivicActions for clients will generally be non-confidential, unless we are bound by an NDA. However, CivicActions may from time to time produce content for a client that is owned by the client, and/or includes proprietary IP (such as trademarks, or copyrighted text), which should not be disseminated to third parties or used by CivicActions except by express permission of the client.
-    *   Information authored by clients or 3rd parties should generally be treated as confidential, unless it is clearly public-facing, and then its use other than as set forth in the engagement agreement may still require client permission. If in doubt, ask your supervisor or the General Counsel.
-    *   Non-confidential materials can be sourced for distribution or repurposing, but should be reviewed and redacted, if needed, to ensure no confidential information remains.
+    *   Information authored by clients or 3rd parties should generally be treated as confidential, unless it is clearly public-facing, and then its use other than as set forth in the engagement agreement may still require client permission. If in doubt, ask your supervisor or the legal team.
+    *   Project management material can be sourced for distribution or repurposing, but should be first reviewed and redacted, if needed, to ensure no confidential information remains.
 
-If you are unsure about the confidentiality of a piece of information you should ask someone who is able to give a qualified answer (if in doubt who this is, consult with the General Counsel) - in the meantime, work from the assumption that it is confidential.
+If you are unsure about the confidentiality of a piece of information you should ask someone who is able to give a qualified answer (if in doubt who this is, consult with the legal team) - in the meantime, work from the assumption that it is confidential.
 
 ## Acceptable Use Policy
 
@@ -51,7 +42,7 @@ It is each person's responsibility to ensure they understand and follow the data
 
 Broadly, dealing with confidential information involves - to the maximum extent feasible - limiting the number of places (physical and logical) where it is stored, and secondly ensuring that each of those places is as secure as reasonably possible, to prevent unauthorized access.
 
-Users are responsible for carefully tracking any confidential information stored on personal devices (including backup/offline storage). Periodically during and after each project, confidential information stored on personal devices should be reviewed, and anything that is no longer needed should be deleted (after being archived to a CivicActions service, if needed). Users should ensure files are actually deleted (and not stored in a recycle/trash area), ideally running [a secure delete on the files](../09-security/awareness.md#securely-delete-files-and-wipe-disks), which is available out of the box on OS X and GNU/Linux based systems.
+Users are responsible for carefully tracking any confidential information stored on personal devices (including backup/offline storage). Periodically during and after each project, confidential information stored on personal devices should be reviewed, and anything that is no longer needed should be deleted (after being archived to a CivicActions service, if needed). Users should ensure files are actually deleted (and not stored in a recycle/trash area), ideally running [a secure delete on the files](../09-security/awareness.md#securely-delete-files-and-wipe-disks), which is available out of the box on OS X and GNU/Linux based systems. Note that if a personal device is used in the performance of some of our contracts, you may be required to provide a copy of stored information or the device itself (such as the disk drive containing the information) if requested by CivicActions or the client. As always, if you have questions, talk to your project manager or the legal team.
 
 There are also a number of security concerns with non-confidential information. Even though we don't need to protect it from viewing, it is critical that any copies in active use are protected from unauthorized changes.
 
@@ -69,7 +60,7 @@ CivicActions IT services provide a number of general user accounts. This include
     *   Our home site
     *   Intranet (internal team collaboration)
     *   Project management site (Trac, JIRA, Balsamiq, GitLab, ...)
-    *   3rd party collaboration tools (such as Slack, Trello, ...)
+    *   3rd party collaboration tools (such as Slack, Trello, Zoom, ...)
     *   IP telecommunications/conferencing accounts
 
 Usage of CivicActions user accounts should be as follows:
