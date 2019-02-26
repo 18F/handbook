@@ -14,7 +14,7 @@ CivicActions has established the following policy to safeguard the security, con
 *   Educate/disseminate our best practices for security throughout the CivicActions community;
 *   Demonstrate to clients that we are trustworthy and satisfy contractual requirements for security.
 
-## Confidential Information
+## Confidential Information Agreement
 
 CivicActions does most things out in the open, and we strive to reduce the amount of Confidential Information (defined below) we get from third parties. Despite that, during your time as an employee or independent contractor you will be exposed to certain Confidential Information owned by CivicActions, owned by third parties, or provided to us by users and governed by our privacy policy. This section of the Agreement describes the responsibilities you have with regards to such information. Accordingly, you agree that:
 
@@ -22,6 +22,13 @@ CivicActions does most things out in the open, and we strive to reduce the amoun
 *   You further agree that all Confidential Information is owned by CivicActions, or (where appropriate) by the a third party from whom it originated.
 
 "Confidential Information" means information or material which is proprietary to CivicActions and not generally known outside CivicActions, including information or material that you create, learn, or obtain, as well as information we receive in confidence from third parties. For example, this may include without limitation any information disclosed that is subject to applicable non-disclosure protections of CivicActions privacy policies, non-public product plans of CivicActions or 3rd parties, technical and business information, personnel information like salaries, or other sensitive information. Material need not be marked confidential for it to be considered Confidential Information.
+
+Personally Identifiable Information (PII) should be considered confidential by default, but that may depend upon the project and data usage, PII generally may considered to fall into one of two classes:
+
+1.  Sensitive Personally Identifiable Information (SPII) - for example: Social Security or Passport numbers, financial account numbers, biometric identifiers, passwords, and all records and files directly relating to a person that are not publicly available.
+2.  "Rolodex" Personally Identifiable Information (PII) - for example: publicly available personal data such as name, email, home address and phone number.
+
+The exact definition of PII varies from jurisdiction to jurisdiction and depends on the project, so consult with your project manager or the security team if you have questions.
 
 Not all information or material you encounter is confidential information. Generally Confidential Information does not include any information which is subject to free and open source software licenses, or similar licenses including without limitation, GNU General Public License, MIT License, GNU Affero General Public License, or Creative Commons ShareAlike licenses. This may depend on CivicActions' agreements with third parties though so if the free and open source licensed material does not fall into one of the categories below you should check with your project manager to determine if the material is considered Confidential Information. Confidential Information does not include (i) information communicated that is publicly known at the time you received the information or has become publicly known other than by a breach of this Agreement; (ii) information you independently developed unrelated to your relationship with CivicActions and without violation of this Agreement; and (iv) information that becomes known to you from a source other than CivicActions, provided any such source is legally entitled to have and to disclose such information to you without restriction. CivicActions believes strongly in openness and transparency and we strive to release source code publicly under a free and open source license agreement, but there may be circumstances where we choose not to; for instance we may be prevented from doing so by the terms of an agreement with a third-party.
 
