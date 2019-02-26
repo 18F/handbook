@@ -51,6 +51,21 @@ If you have any questions, feel free to ask in [#tts-handbook](https://gsa-tts.s
 
 Thank you so much for your contributions! :tada:
 
+
+### GuidesStyle
+
+This project inherits a few commands from the [guides-style project](https://github.com/18F/guides-style):
+
+```
+# Update navigation data in _config.yml:
+$ GuidesStyle18F.update_navigation_configuration Dir.pwd
+
+# Update the guides_style_18f gem
+$ GuidesStyle18F.update_theme
+```
+
+The GuidesStyle project appears to be more in maintenance mode than in active development; future updates to theme may come from GuidesStyle or from another source.
+
 ### Travel guide development
 
 To add additional images:

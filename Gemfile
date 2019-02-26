@@ -6,7 +6,6 @@ ruby '2.6.0'
 gem 'jekyll', '~> 3.0.0'
 gem 'redcarpet'
 gem 'rouge'
-gem 'go_script'
 gem 'json'
 gem 'hash-joiner'
 
