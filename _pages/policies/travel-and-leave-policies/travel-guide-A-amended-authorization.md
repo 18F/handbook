@@ -3,9 +3,9 @@ title: Appendix A - Amended authorizations
 navtitle: Amended Authorizations
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Landing Page](/travel-guide-start-here)
-[Jump to Choose your Itinerary](/travel-guide-2-choose-your-itinerary)
+[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
+[Back to Landing Page]({{site.baseurl}}/travel-guide-start-here)
+[Jump to Choose your Itinerary]({{site.baseurl}}/travel-guide-2-choose-your-itinerary)
 
 Sometimes, travel plans change. Fortunately, Concur, AdTrav, your carriers, and the TTS travel team are ready for that! How changes can be accommodated depends on when and how the changes occurred. But first things first-- what needs to be approved, and what doesn't need to be approved, and how?
 
@@ -39,7 +39,7 @@ Once you go through the process of making the changes to your itinerary, there a
 
 1. If the changes you are making to your trip *do not* require additional approval as per the guidance above, once you confirm your reservation, assuming your trip had previously been approved in Concur, no further action is required-- safe travels!
 
-2. If the changes you are making to your trip *do* require additional approvals, your new reservations will be considered to be an **Amendment** to the authorization, and will need to be [re-submitted for approval again](/travel-guide-3-approval). The travel team will approve when the email of approval is received in the [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov) box.
+2. If the changes you are making to your trip *do* require additional approvals, your new reservations will be considered to be an **Amendment** to the authorization, and will need to be [re-submitted for approval again]({{site.baseurl}}/travel-guide-3-approval). The travel team will approve when the email of approval is received in the [tts-travelauths@gsa.gov](mailto:tts-travelauths@gsa.gov) box.
 
 In the case of travel that is already in progress, no amendment may be immediately required to take a flight in some cases. However, before doing your voucher, you will have to submit an amended authorization, which will be automatically generated for you in you booked via AdTrav. If you called the airline to change your reservations, you will likely need to manually amend your dates of travel in Concur.
 
@@ -49,6 +49,6 @@ In cases of travel where the new dates of travel are entirely within the origina
 
 An amended authorization may be created by navigating to the **Authorizations** tab, selecting the authorization in need of change, selecting **Amend authorization** from the list of options, and then creating the amendment.
 
-The process for creating a voucher is detailed [here](/travel-guide-5-reimbursement).
+The process for creating a voucher is detailed [here]({{site.baseurl}}/travel-guide-5-reimbursement).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

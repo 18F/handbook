@@ -2,9 +2,9 @@
 title: Get set up for travel for 18F as a new employee
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Last Page](/first-time-travel-get-in-concur-start)
-[Next to Travel Card](/first-time-travel-travel-card)
+[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
+[Back to Last Page]({{site.baseurl}}/first-time-travel-get-in-concur-start)
+[Next to Travel Card]({{site.baseurl}}/first-time-travel-travel-card)
 
 If you're traveling for 18F during your first two weeks (normally for orientation, if you're based in a city that doesn't have an 18F office), you'll get your travel arranged for you by 18F's travel team. Here's what you need to do to get set up for that:
 

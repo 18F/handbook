@@ -52,7 +52,7 @@ To receive GSA 2FA codes on your cell phone, you can [email GSA&rsquo;s access c
 
 To get a one time password (OTP, required for logging in to some systems), you can either:
 
-* Setup a [SecureAuth client application](https://www.secureauth.com/support/downloads/client-applications) by following [these instructions](/pdfs/setting_up_otp_for_remote_access.pdf).
+* Setup a [SecureAuth client application](https://www.secureauth.com/support/downloads/client-applications) by following [these instructions]({{site.baseurl}}/pdfs/setting_up_otp_for_remote_access.pdf).
 * Visit [otp.gsa.gov](https://otp.gsa.gov).
 
 ### <a id="listen-to-all-hands">Listen to and participate in the weekly Tuesday all-hands meeting?</a>
@@ -67,7 +67,7 @@ Your badge should work in other GSA buildings. <a href="https://gsa-tts.slack.co
 
 ### <a id="connect-to-gsa">Connect to the GSA network remotely?</a>
 
-See [Networks](/networks) for details.
+See [Networks]({{site.baseurl}}/networks) for details.
 
 ### <a id="get-my-laptop-repaired">Get my laptop repaired?</a>
 

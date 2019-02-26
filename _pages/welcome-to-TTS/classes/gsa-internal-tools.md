@@ -10,7 +10,7 @@ If you have any questions, please ping [#teamops](https://gsa-tts.slack.com/arch
 
 ## <a id="gsa-tools">GSA tools</a>
 
-Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intranet [Insite](http://insite.gsa.gov). You must be on the VPN to connect if you work remotely. [Instructions for connecting are here](/networks/). Here&rsquo;s an overview of what you can access (you can click the names in this table to scroll down the page):
+Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intranet [Insite](http://insite.gsa.gov). You must be on the VPN to connect if you work remotely. [Instructions for connecting are here]({{site.baseurl}}/networks/). Here&rsquo;s an overview of what you can access (you can click the names in this table to scroll down the page):
 
 <table>
   <thead>
@@ -91,7 +91,7 @@ Here are some tips for employees that frequent an office:
 
 ## <a id="concur">Concur</a>
 
-Concur is what you will use to book travel. Learn more in [Travel 101](/travel-101). If you have questions in the meantime, head over to [#travel](https://gsa-tts.slack.com/messages/travel/).
+Concur is what you will use to book travel. Learn more in [Travel 101]({{site.baseurl}}/travel-101). If you have questions in the meantime, head over to [#travel](https://gsa-tts.slack.com/messages/travel/).
 
 ## <a id="employee-express">Employee Express</a>
 
@@ -108,7 +108,7 @@ Once your account is setup, be sure to log in right away as that initial access 
 
 If they ask for your health insurance code, you can see that in CHRIS under `GSA Personnel → Self Service → Employee Views → Benefits → Health Plan`. Your code is the number next to your health plan.
 
-See [Benefits](/benefits) for more details about Employee Express.
+See [Benefits]({{site.baseurl}}/benefits) for more details about Employee Express.
 
 ## <a id="hr-links">HR Links</a>
 
@@ -122,7 +122,7 @@ You can see your remaining leave balances in HR Links (shows up to the right whi
 
 We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.
 
-For 18F employees: after you've created your leave request, add your planned absence to the shared [Out of Office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America%2FChicago) Google calendar; that way, everyone will know when you're going to be out of the office. Finally, please note that [HR Links](/leave) is GSA's system and separate from [Tock](/tock), which is 18F's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both.
+For 18F employees: after you've created your leave request, add your planned absence to the shared [Out of Office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America%2FChicago) Google calendar; that way, everyone will know when you're going to be out of the office. Finally, please note that [HR Links]({{site.baseurl}}/leave) is GSA's system and separate from [Tock]({{site.baseurl}}/tock), which is 18F's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both.
 
 ## <a id="it-service-desk">IT Service Desk</a>
 
@@ -149,17 +149,17 @@ While this process can take up to eight days, the upshot is that your conference
 
 All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space.
 
-For more information, reference the [OLU](/olu) page.
+For more information, reference the [OLU]({{site.baseurl}}/olu) page.
 
 ## Office supplies
 
 TTS has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. If you’d like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
-Access to general office supplies varies based on your location — see our [office guides](/#18f-offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
+Access to general office supplies varies based on your location — see our [office guides]({{site.baseurl}}/#18f-offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
 
 For software requests, see [Software](../software/).
 
-If you need office supplies that aren’t available in your office, software, or need to make any other request for TTS to purchase, read on [here](/purchase-requests) for what to do next.
+If you need office supplies that aren’t available in your office, software, or need to make any other request for TTS to purchase, read on [here]({{site.baseurl}}/purchase-requests) for what to do next.
 
 ## Get a copy of Microsoft Office
 

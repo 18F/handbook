@@ -2,9 +2,9 @@
 title: Step 4 - Travel
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Trip Approval](/travel-guide-3-approval)
-[Jump to Reimbursement](/travel-guide-5-reimbursement)
+[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
+[Back to Trip Approval]({{site.baseurl}}/travel-guide-3-approval)
+[Jump to Reimbursement]({{site.baseurl}}/travel-guide-5-reimbursement)
 
 Travel _and keep receipts!_
 
@@ -58,7 +58,7 @@ In addition to receiving round trip tickets to your destination and lodging for 
 
 ### Don't forget about vouchers!
 
-Have a good trip, [get reimbursement](/travel-guide-5-reimbursement)-- filling out a voucher-- within a 5 business days of getting back.
+Have a good trip, [get reimbursement]({{site.baseurl}}/travel-guide-5-reimbursement)-- filling out a voucher-- within a 5 business days of getting back.
 
 Why the rush? Filling out a voucher correctly allows you to:
 
@@ -68,6 +68,6 @@ Why the rush? Filling out a voucher correctly allows you to:
 
 On the other side, when travel expenses are submitted late, it’s a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, **no travel will be approved for anyone with travel expenses that are more than 5 business days outstanding.**
 
-[Back from your trip? Head on over to get reimbursed!](/travel-guide-5-reimbursement)
+[Back from your trip? Head on over to get reimbursed!]({{site.baseurl}}/travel-guide-5-reimbursement)
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

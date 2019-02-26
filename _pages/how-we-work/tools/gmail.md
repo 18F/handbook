@@ -19,7 +19,7 @@ You can access your email from <https://mail.google.com> or <http://email.gsa.go
   - In the dialog, _Allow mail.google.com to open all email links_
   - Then click _Done_, as show below:
 
-  ![addressbar](/images/chrome_address_bar.png)
+  ![addressbar]({{site.baseurl}}/images/chrome_address_bar.png)
 
   - You can read more about Chrome's protocol handlers at [The Complete Guide to Google Chrome Handlers](http://www.ashout.com/complete-guide-to-google-chrome-handlers/)
 

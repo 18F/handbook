@@ -2,7 +2,7 @@
 title: Travel Guide FAQ
 ---
 
-[Travel Guide TOC](/travel-guide-table-of-contents)
+[Travel Guide TOC]({{site.baseurl}}/travel-guide-table-of-contents)
 
 <a name="extend-travel"></a>
 
