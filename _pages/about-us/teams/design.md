@@ -129,16 +129,16 @@ Every project and team has a different mix of project management tools based on 
 
 We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
 
+- **18F-themed templates** Access document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Use these styles and templates for communicating about all of your work at 18F, unless your project has its own branded communication materials, like Login.gov or Cloud.gov.
 - **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. Come chat in [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend) on slack if you are choosing a framework for something.
-- **Type:** Partner agencies usually have their own style guidance that we stick to. 18F-branded materials should follow typography guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For other needs, we recommend using typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/). Come chat in [#visual-design](https://gsa-tts.slack.com/messages/visual-design) on slack if you are choosing fonts for something.
 - **Icons:**
-  - Each [18F presentation theme](https://pages.18f.gov/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding) if you need to use more/different ones... and be prepared to explain why!
   - The visual design team maintains guidance on [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
   - If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
 - **Images:** Most images published by government agencies are in the public domain and thus free to use.
   - The visual design team maintains guidance on [government photography resources](https://github.com/18F/visual-design/wiki/Government-photography).
-  - You can use `incategory:PD_US_Government` as part of a search query on Wikimedia Commons: [ example](https://commons.wikimedia.org/w/index.php?title=Special:Search&profile=default&fulltext=Search&search=incategory%3APD_US_Government+example&uselang=en&searchToken=5902rmnmjz5fivko9172xs74c).
+  - You can use `incategory:PD_US_Government` as part of a search query on Wikimedia Commons: [example](https://commons.wikimedia.org/w/index.php?title=Special:Search&profile=default&fulltext=Search&search=incategory%3APD_US_Government+example&uselang=en&searchToken=5902rmnmjz5fivko9172xs74c).
   - While you’re at it, visit the [Department of the Interior’s Instagram](https://instagram.com/usinterior/) stream. You’ll be glad you did.
+- **Typography:** Partner agencies usually have their own style guidance that we stick to. 18F-branded materials should follow typography guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For other needs, we recommend using typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/). Come chat in [#visual-design](https://gsa-tts.slack.com/messages/visual-design) on slack if you are choosing fonts for something.
 
 ---
 
