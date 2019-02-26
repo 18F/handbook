@@ -23,6 +23,14 @@ We're careful about publishing [information collected during research](https://h
 
 ## Development
 
+### With Docker
+
+```
+docker-compose up
+```
+
+### Without Docker
+
 Install dependencies:
 
 ```bash
