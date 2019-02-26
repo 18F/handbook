@@ -1,55 +1,66 @@
 ---
-title: Step 3 - Submit for Concur Approval
+title: Step 2 - Secure approvals
 ---
 
 [TOC](/travel-guide-table-of-contents)
-[Back to Choose your Itinerary](/travel-guide-2-choose-your-itinerary)
-[Jump to Travel](/travel-guide-4-travel)
+[Back to Book Travel in Concur](/travel-guide-1-book-travel)
+[Jump to Travel](/travel-guide-3-travel)
 
-Now that you've chosen your itinerary, its time to complete some additional trip information to get your trip ready for approval and to book your tickets. There are 2 main parts to this process:
+Now that you've booked your travel, to ensure the reservations you made can be approved and ticketed. There are 3 main parts to this process:
 
 1. [Completing your Trip Information](#complete-trip-information)
 
-2. [Submit your Authorization for Approval](#submit-authorization-for-approval)
+2. [Securing and attaching supervisor approval](/#secure-and-attach-supervisor-approval)
+
+3. [Submitting your Authorization for Travel Team approval](#submit-authorization-for-approval)
 
 ## Complete Trip Information
 On the **Trip Booking Information** page you must enter some general information in order to ensure that your trip gets billed to the right client and/or budget.
 
-If you called Ad Trav to choose your itinerary, you can follow these instructions towards getting Concur approval by opening it up [Concur](https://travel.gsa.gov), going to the **Authorizations** tab, clicking on your authorization, and selecting **Edit Authorization**. This will open up the document, where you can go to the **General** tab and see the fields that are presented below:
+If you called Ad Trav to book travel, you'll need to open [Concur](https://travel.gsa.gov) no sooner than an hour after your initial call to AdTrav, going to the **Authorizations** tab, clicking on your authorization, and selecting **Edit Authorization**. This will open up the document, where you can go to the **General** tab and see the fields that are presented below:
 
 Enter the following trip information on this page:
 <img src="/images/travel/12-trip-name.png" class="travel-guide-hide" alt="Trip Booking Information screen">
 
-1. **Trip name:** Follow the naming convention below:
-    * BILLABLE/NON-BILLABLE: [if nonbillable, [correspondence code](https://docs.google.com/spreadsheets/d/1WLVv2x7GauLo0-waK3FqeVxN7UCZmXw_t2E745Gfmug/edit#gid=600166428) of the director approving the travel] [Exact name of Tock Project] you are billing against, # of [tock project ID](http://tock.18f.gov/projects).
-    * Example: `NON-BILLABLE: QOA Ops/ Admin #3`
-1. **Type Code:** "SINGLE TRIP".
-1. **Trip Purpose:** “Mission (Operational)” in most cases, but occasionally “Conference” or “Training”.
-1. **Document detail:** Brief summary of the purpose of the trip.
-1. **Will this travel be a detail to another location?** No.
+**Trip name:** Identify the budget of your trip here, based on the type of project you are traveling for:
+
+_Billable projects:_ for 18F and CoE, include the exact name and number of the project as it appears in [Tock](tock.18f.gov/projects). For PIF billable travel, simply indicate the project is billable
+_All other projects:_ include the name of the team budget that is paying for this travel (a list of options is in cell C5 of the [TTS Budget and Accounting Lookup](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
+
+If you are traveling for multiple projects (whether billable or not), list all of the relevant Tock name and numbers and budget names as appropriate.
+
+Examples: 
+`BILLABLE: 18F / HHS / CMS FY19 #997`
+`BILLABLE: CoE / USDA Phase 2 / Cloud Adoption #980`
+`BILLABLE: PIF - DHS`
+`NONBILLABLE: OPP Smarter IT Solutions Division (QXD)`
+`NONBILLABLE: 18F Strategy Branch (QEAD)`
+`NONBILLABLE: Cloud Adoption CoE`
+    
+**Type Code:** "SINGLE TRIP".
+**Trip Purpose:** “Mission (Operational)” in most cases, unless attending a conference or training.
+**Document detail:** Brief summary of the purpose of the trip.
+**Will this travel be a detail to another location?** No.
 
 Proceed by clicking **Next** to finalize the reservation.
 
 You will now see final reservation. Review all of the details and hit **“Confirm booking”** when done.
 <img src="/images/travel/13-confirm-booking.png" class="travel-guide-hide" alt="confirming the booking">
 
-You may get prompted for a `No Hotel Booked` `Travel Policy Violation`. Select `Policy Compliant Hotel to be Booked Through Approved TMC`, and type in "Booked through Fedrooms," or whatever is applicable.
-
 #### Additional step if you booked your hotel outside of Concur or Ad Trav
-**Note** If you did not book a hotel from Concur, please briefly justify why you are not using a hotel.
+**Note** If you did not book a hotel from Concur, a policy violation will be flagged. If this applies to you, [briefly justify why your hotel choice](/travel-guide-1-book-travel/#can-i-book-outside-of-concur).
 
-### Fill in general information
+## Securing supervisor approval
 
-1. Click on the **General** tab of your authorization.
-1. Select the **Document Information** tab.
-1. Click **Save**.
+Before your trip can be approved and ticketed by the TTS Travel Team, you must ensure your travel plans have been pre-approved by someone who has the ability to obligate funds on behalf of the government. Who this person is and how you secure their approval depends on the purpose of travel.
 
-[Proceed to Submit Authorization for Approval](/travel-guide-3-approval/#submit-authorization-for-approval)
+#### Travel to a training, conference, event, or large team IRL
 
-#### Having Trouble
-**What is an authorization?** Steps 1-3 cover the process of getting an authorization, which is simply the formal approval from your supervisor for travel, including a review and booking of major expenses such as flights and hotels.
+Travel pre-approval is secured via the [event request process](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform), so you can skip to the [next step](), unless you will be [extending your trip at your own expense](), [flying to or from points that are not either your duty station or location of the event](), or combining your event travel with travel for some other reason.
 
-If you've navigated away from your authorization, you can find it from the **Home** page, scroll down to the **Recent Authorization** and click **Edit**
+#### Travel for a billable project
+
+You must secure an email 
 
 ## Make Your Authorization or Voucher is Ready to Submit
 [This Checklist](https://goo.gl/AWbT7Q) will help you check your authorization/voucher for potential issues that can result in your request getting rejected or returned for correction.
