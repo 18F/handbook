@@ -1,5 +1,5 @@
 ---
-title: Resources for Deaf or Hard of Hearing individuals in TTS
+title: Resources for Deaf and Hard of Hearing individuals in TTS
 tags:
 
 ---
