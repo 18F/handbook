@@ -105,7 +105,7 @@ If the room that you want isn't coming up, that means it's probably been booked 
 
 ### <a id="wi-fi"></a>Connect to the Wi-Fi
 
-See [Networks](/networks/) for details.
+See [Networks]({{site.baseurl}}/networks/) for details.
 
 ## <a id="where-are-the"></a>Where are the&hellip;?
 
@@ -140,7 +140,7 @@ Refer to [our printer information document](https://docs.google.com/document/d/1
 
 All GSA employees are eligible for transit subsidies which cover the cost of your Metro travel.
 
-See the [Transit Benefit](/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
+See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
 ### <a id="bike-parking"></a>Bike parking
 

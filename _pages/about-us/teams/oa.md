@@ -29,11 +29,11 @@ We buy digital products and services for TTS as well as for partner agencies (co
 ### TTS Internal Procurement
 
 If you are within TTS and your procurement need costs less than the micro-purchase threshold ($10,000), please visit the 
-[Purchase Requests](/purchase-requests) section in the handbook. For SaaS purchases under $10,000 please visit the 
-[Software](/software) section. 
+[Purchase Requests]({{site.baseurl}}/purchase-requests) section in the handbook. For SaaS purchases under $10,000 please visit the 
+[Software]({{site.baseurl}}/software) section. 
 
 If you are within TTS and your procurement need costs more than the micro-purchase threshold ($10,000), please visit the 
-[Procurements over $10,000](/procurements-over-10000) section in the handbook.
+[Procurements over $10,000]({{site.baseurl}}/procurements-over-10000) section in the handbook.
 
 ## TTS OA Operational Guidance
 

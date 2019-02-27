@@ -2,7 +2,7 @@
 title: Benefits
 ---
 
-**If you're looking for specific benefits sites, see the [benefits links page](/benefits-links/).**
+**If you're looking for specific benefits sites, see the [benefits links page]({{site.baseurl}}/benefits-links/).**
 
 GSA requires that you enroll in many of the benefits offered to you within the first 60 days of work. Otherwise, you&rsquo;ll have to wait for Open Season, which typically runs from the Monday of the second full work week in November through the Monday of the second full work week in December.
 
@@ -107,7 +107,7 @@ If you're having difficulty resolving an issue or getting clarification from you
 
 Please use [HR Links](https://corporateapps.gsa.gov/hr-links/) to request sick leave and annual leave. For any leave-related questions, please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
 
-For more information on Leave, including sick, religious, funeral, unpaid, parental, advanced, and religious, please reference the [Leave](/leave) page.
+For more information on Leave, including sick, religious, funeral, unpaid, parental, advanced, and religious, please reference the [Leave]({{site.baseurl}}/leave) page.
 
 ## Lunch and break periods
 
@@ -141,7 +141,7 @@ The Federal Employees Retirement System (FERS) is the retirement plan that all e
 
 Employees must have at least 5 years of [creditable service](https://www.opm.gov/retirement-services/fers-information/creditable-service/) to be eligible for FERS payments upon retirement.
 
-If you leave government before becoming eligible for FERS retirement, you can request that your contributions be returned in a lump sum payment: see [leaving TTS](/leaving-tts/) for more information.
+If you leave government before becoming eligible for FERS retirement, you can request that your contributions be returned in a lump sum payment: see [leaving TTS]({{site.baseurl}}/leaving-tts/) for more information.
 
 If you served as an AmeriCorps VISTA volunteer, a Peace Corps Volunteer, and/or in the military, you may be eligible to “buy back” your service. “Buying back” your military/volunteer service allows the amount of time you served to be applied toward your FERS retirement calculations.
 
@@ -158,7 +158,7 @@ The calculations for FERS retirement can be complex, and there is paperwork to c
 
 Employees at TTS are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/planparticipation/eligibility/actionsOnContributions.shtml) (TSP). To start, change, or stop your contributions, you'll need to fill out [Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
 
-You can also update TSP directly in [HR Links](/leave/#logging-into-hr-links) by following these steps:
+You can also update TSP directly in [HR Links]({{site.baseurl}}/leave/#logging-into-hr-links) by following these steps:
 
 1. After you sign into HR Links, click on "Personal Details"
 1. Click on the green circle next to your name
@@ -176,11 +176,11 @@ Note: If you have been contributing to a 401k, 403b, or a similar plan at your p
 
 ## Training
 
-TTS team members are eligible for many professional development and training opportunities. For more information, see [attending conferences](/attending-conferences).
+TTS team members are eligible for many professional development and training opportunities. For more information, see [attending conferences]({{site.baseurl}}/attending-conferences).
 
 
 ## Transit subsidies
 
-All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you'll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor's signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office guides](/#18f-offices) for more information.
+All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you'll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor's signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office guides]({{site.baseurl}}/#18f-offices) for more information.
 
 GSA's Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).

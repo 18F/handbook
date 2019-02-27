@@ -25,7 +25,7 @@ This page provides instructions for entering leave requests (also known as absen
 ## Submitting leave in HR Links
 
 ### Logging into HR Links
-You must be on the GSA wireless network or on the Windows virtual desktop (accessible through VMWare Horizon or Cisco AnyConnect) to log into HR Links.  For instructions on accessing your virtual desktop through VMware Horizon, go [here](/vmware-horizon).  For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here](/anyconnect).  
+You must be on the GSA wireless network or on the Windows virtual desktop (accessible through VMWare Horizon or Cisco AnyConnect) to log into HR Links.  For instructions on accessing your virtual desktop through VMware Horizon, go [here]({{site.baseurl}}/vmware-horizon).  For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).  
 
   1. Open your web browser (Safari is preferred for HR Links)
   1. Go to [HR Links](https://corporateapps.gsa.gov/hr-links/) or find it under "Tools" on the [InSite home page](https://insite.gsa.gov)
@@ -76,6 +76,7 @@ An employee may use annual leave for vacations, rest and relaxation, and persona
 
 * Fewer than 3 years: 4 hours per pay period
 * Between 3 and 15 years: 6 hours per pay period
+* 15+ years: 8 hours per pay period
 
 The maximum annual leave that can be carried over is 240 hours, and if you've transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
@@ -160,8 +161,9 @@ In cases of serious disability or ailment, and when the exigencies of the situat
 * [Insite: Advanced Sick Leave](https://insite.gsa.gov/portal/category/510090)
 
 ## Court Leave
-
-Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/); this option was not previously available in Aloha.
+* Authorized absence without charge to leave or pay
+* Must be officially requested to serve in a judicial proceeding to which the Federal, a state, or local government is party
+* Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/); this option was not previously available in Aloha.
 
 ## Religious observance
 

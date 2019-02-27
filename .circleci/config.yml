@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/handbook
     docker:
-       - image: circleci/ruby:2.6.0-node
+       - image: circleci/ruby:2.6.1-node
     environment:
       # fix encoding
       - LANG: C.UTF-8

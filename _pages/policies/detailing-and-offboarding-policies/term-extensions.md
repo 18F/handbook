@@ -45,7 +45,7 @@ At this point, the extension process is completed by the Talent Team and GSA HR.
 
 - A notification from the CHRIS system usually gets emailed to employees up to two weeks after the action.  *Please note the exception for NTE dates that fall on weekends in section 4 above.*
 
-If the **decision is not to extend**, the Talent Team will process an RPA to end your term at the end of the initial two years. See [Leaving TTS](/leaving-tts/) for more details.
+If the **decision is not to extend**, the Talent Team will process an RPA to end your term at the end of the initial two years. See [Leaving TTS]({{site.baseurl}}/leaving-tts/) for more details.
 ---
 
 ### Still have questions?

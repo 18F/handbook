@@ -4,9 +4,9 @@ title: Infrastructure
 
 _The Infrastructure team helps 18F navigate the “federal compliance architecture.” This work applies to much more than technology: it applies to our entire operation, including how we work inside the law, how we secure our systems, how we collect data from the public, and how we spend money._
 
-While [Team Ops](/ops) focuses on what would normally be considered the “back office” — financial matters, procurement, and space operations — Infrastructure focuses on our digital infrastructure and development methodologies. Both teams work closely together, and there are many areas in which we have joint ownership.
+While [Team Ops]({{site.baseurl}}/ops) focuses on what would normally be considered the “back office” — financial matters, procurement, and space operations — Infrastructure focuses on our digital infrastructure and development methodologies. Both teams work closely together, and there are many areas in which we have joint ownership.
 
-The Director of Infrastructure, Noah Kunin, goes into more depth in [his class](/intro-to-18f-infrastructure), but the summary is that we have three rules:
+The Director of Infrastructure, Noah Kunin, goes into more depth in [his class]({{site.baseurl}}/intro-to-18f-infrastructure), but the summary is that we have three rules:
 
 1. If you don’t see us doing something already, and you can’t find express authorization to do it, please ask first. We promise to get you an answer very quickly.
 2. Either everyone in the public can participate, or no one can. You alone cannot decide why Person A has access to something but not Person B.
@@ -26,11 +26,11 @@ _Welcome to the 18F Infrastructure team — we’re happy you’re here! We’ve
 
 Members of the Infrastructure team bridge multiple disciplines: software development, system administration, operations, and security. The team supports, informs and glues together the activities of every team within 18F. For more information, see this [full list of skills by staff member](https://docs.google.com/spreadsheets/d/1X0i53EqWTzh0l3lrs0us-2bZ_2Z6TUGn2Y3lPHmSuXo/edit#gid=0).
 
-If you are technical, you may also want to take a look at the [Engineering onboarding page](/engineering).
+If you are technical, you may also want to take a look at the [Engineering onboarding page]({{site.baseurl}}/engineering).
 
 ### <a id="leads-and-management">Leads and management</a>
 
-See [the org chart](/org-chart).
+See [the org chart]({{site.baseurl}}/org-chart).
 
 ## <a id="what-we-do">What we do</a>
 
@@ -70,8 +70,8 @@ Here are some common tools we use, how we use them, and how you can get access t
 
 * Sublime Text
 * RubyMine
-* [Slack](/slack)
-* [GitHub](/github)
+* [Slack]({{site.baseurl}}/slack)
+* [GitHub]({{site.baseurl}}/github)
 * New Relic
 * PagerDuty
 * StatusPage

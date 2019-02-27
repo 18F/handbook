@@ -21,7 +21,7 @@ Check out the [Product Guide](https://product-guide.18f.gov/) for an in depth lo
 
 The Product Team hangs out in [#product](https://gsa-tts.slack.com/messages/product/).
 
-You can see who is on the Product Team [on the org chart](/org-chart).
+You can see who is on the Product Team [on the org chart]({{site.baseurl}}/org-chart).
 
 ## <a id="open-source">Open source</a>
 
@@ -39,11 +39,11 @@ The last 5-6 years have seen a slow but steady growth in the government in the o
 - Using other open source projects
 - Contributing and being involved in open source communities
 
-In 2016, the White House published a government-wide open source policy: the [Federal Source Code Policy](https://sourcecode.cio.gov). 18F helped with that work and with the creation of [code.gov](https://www.code.gov), the accompanying code sharing platform. We have our own [strong open source policy](/open-source) and have also brought together in one place [many resources that agencies find useful](https://open-source-program.18f.gov/).
+In 2016, the White House published a government-wide open source policy: the [Federal Source Code Policy](https://sourcecode.cio.gov). 18F helped with that work and with the creation of [code.gov](https://www.code.gov), the accompanying code sharing platform. We have our own [strong open source policy]({{site.baseurl}}/open-source) and have also brought together in one place [many resources that agencies find useful](https://open-source-program.18f.gov/).
 
 Everything we as a team do should be public and available for collaboration. An open source project isn’t just code - think of it as many forms of contribution working together, including documentation, support, design, and code.
 
-There are also several [listservs and communities](/general-contacts-and-listservs/#listservs) that facilitate working with others within the government.
+There are also several [listservs and communities]({{site.baseurl}}/general-contacts-and-listservs/#listservs) that facilitate working with others within the government.
 
 ### Would any personally identifiable information (PII) live in open source software? 
 

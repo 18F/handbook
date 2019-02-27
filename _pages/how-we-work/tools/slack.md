@@ -14,7 +14,7 @@ Because Slack is a web application, there’s no installation necessary. You can
 
 - **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
-- **Abide by [the TTS Code of Conduct](/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
+- **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [18F's list of alternatives](../sensitive-information/#tools).
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack and any audio or video transmitted using a Slack Call.
 
@@ -57,7 +57,7 @@ Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a projec
 
 #### What
 
-Treat these channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document. Members of the public must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct). For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there witout a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
+Treat these channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document. Members of the public must also comply with GSA standards and the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct). For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there witout a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
 #### Inviting
 
@@ -182,7 +182,7 @@ Likewise, when setting up shared channels, we will look to set these expectation
 
 * Members of our team will only want to share materials that are already public. If you have a specific request for a private document, that request is better e-mailed than put into Slack, as that e-mail will have to be sent around to various GSA offices to ensure compliance.
 
-* Anyone in a shared channel must also comply with GSA standards and the [TTS Code of Conduct](/code-of-conduct).
+* Anyone in a shared channel must also comply with GSA standards and the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).
 
 If a shared channel does not produce good results, or causes a burden, we don't need to continue it. That won't be the end of our collaboration - just recognizing that a particular tool isn't effective for achieving the results that we want. If the shared channel is with a private entity (contractor or vendor) we will not continue sharing a channel after the agreement covering our work elapses.
 
@@ -203,7 +203,7 @@ Groups are a great way to alert people who might not be in a channel about somet
 - **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
 - **If you’re interested in tracking specific keywords across Slack,** set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
 - **To add an RSS feed to any channel**, type `/feed subscribe <RSS URL>`.
-- **Never use Slack to share secure information.** If you need to share short bits of text securely, use [Fugacious](https://fugacious.18f.gov/). If you want to say something private, it’s easy to ask someone to hop on a call. (See the [shortcuts](/slack/#shortcuts) below.)
+- **Never use Slack to share secure information.** If you need to share short bits of text securely, use [Fugacious](https://fugacious.18f.gov/). If you want to say something private, it’s easy to ask someone to hop on a call. (See the [shortcuts]({{site.baseurl}}/slack/#shortcuts) below.)
 - **You can use Slack as an archival system.** It has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for that in Slack before asking.
 - You can also search by tagged emoji. To see all messages tagged with a particular emoji, search Slack for `has:{{emoji_name}}` (for example `has::evergreen_tree:`).
 - **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.

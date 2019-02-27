@@ -2,9 +2,9 @@
 title: Step 2 - Choose your Itinerary
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Authorization](/travel-guide-1-authorization)
-[Jump to Book Trip](/travel-guide-3-approval)
+[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
+[Back to Authorization]({{site.baseurl}}/travel-guide-1-authorization)
+[Jump to Book Trip]({{site.baseurl}}/travel-guide-3-approval)
 
 This step will take you through choosing your itinerary on Concur, and if you need to how to book out of Concur.
 
@@ -78,8 +78,8 @@ While some services (such as Airbnb, hotels.com, etc.) offer lower prices, they 
 
 If you need to book a hotel outside of fedrooms.com, please check if booking comes with any nonrefundable fees. If it does, please get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to tts-travelauths@gsa.gov. Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.
 
-Choosing **"I will book a hotel now"** is another option available to you, which is sometimes, but not always similar to Fedrooms. Choosing this option will allow you to book a hotel in Concur is to book directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile). Then, you can go ahead and follow some more detailed instructions [here](/how-to-book-a-hotel-in-concur).
+Choosing **"I will book a hotel now"** is another option available to you, which is sometimes, but not always similar to Fedrooms. Choosing this option will allow you to book a hotel in Concur is to book directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile). Then, you can go ahead and follow some more detailed instructions [here]({{site.baseurl}}/how-to-book-a-hotel-in-concur).
 
-When you are finished booking your hotel, [proceed on to submitting for Concur approval](/travel-guide-3-approval).
+When you are finished booking your hotel, [proceed on to submitting for Concur approval]({{site.baseurl}}/travel-guide-3-approval).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
