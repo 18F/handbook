@@ -6,67 +6,115 @@ title: Step 2 - Secure approvals
 [Back to Book Travel in Concur](/travel-guide-1-book-travel)
 [Jump to Travel](/travel-guide-3-travel)
 
-Now that you've booked your travel, to ensure the reservations you made can be approved and ticketed. There are 3 main parts to this process:
+## Brief overview of securing approvals
 
-1. [Completing your Trip Information](#complete-trip-information)
+**TL;DR:** Before your trip can be approved and ticketed by the TTS Travel Team, you must ensure your travel plans have been pre-approved via [a sufficiently descriptive email]()* by [an authorizing official](). Forward this email to tts-travelauths@gsa.gov. You can then go ahead and [stamp and submit for Travel Team approval].
 
-2. [Securing and attaching supervisor approval](/#secure-and-attach-supervisor-approval)
+**Note:** [Emails approvals are not needed for most training and event related-travel, including large team IRLs](/#travel-to-a-training-conference-event-or-large-team-irl). Skip ahead to [submitting for travel team approval](/#submit-for-travel-team-approval).
 
-3. [Submitting your Authorization for Travel Team approval](#submit-authorization-for-approval)
+## How to secure authorizing official approval
 
-## Complete Trip Information
-On the **Trip Booking Information** page you must enter some general information in order to ensure that your trip gets billed to the right client and/or budget.
+You must formally request your authorizing official's approval via email.* [Who is my authorizing official]()
 
-If you called Ad Trav to book travel, you'll need to open [Concur](https://travel.gsa.gov) no sooner than an hour after your initial call to AdTrav, going to the **Authorizations** tab, clicking on your authorization, and selecting **Edit Authorization**. This will open up the document, where you can go to the **General** tab and see the fields that are presented below:
+*Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official.
 
-Enter the following trip information on this page:
-<img src="/images/travel/12-trip-name.png" class="travel-guide-hide" alt="Trip Booking Information screen">
+The body of the email must include the following: [See an individual template here]() [and a group template here]()
 
-**Trip name:** Identify the budget of your trip here, based on the type of project you are traveling for:
+* Names of individuals traveling [What if this changes?]()
+* Start and end dates of travel [What if I am extending travel for personal reasons?]()
+* A brief description of work to be done on the trip
+* Identified budget that will be paying for the trip [How do I identify my budget?]()
+* Origin and destinations for each individual [What if I am traveling to or returning from a location other than my home location?]
+* Estimated expenses for each individual [How should I estimate my expenses?]()
 
-_Billable projects:_ for 18F and CoE, include the exact name and number of the project as it appears in [Tock](tock.18f.gov/projects). For PIF billable travel, simply indicate the project is billable
-_All other projects:_ include the name of the team budget that is paying for this travel (a list of options is in cell C5 of the [TTS Budget and Accounting Lookup](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
+#### Who is my authorizing official and what is my budget?
 
-If you are traveling for multiple projects (whether billable or not), list all of the relevant Tock name and numbers and budget names as appropriate.
+Your authorizing official must be a supervisor or director at GSA. 
 
-Examples: 
-`BILLABLE: 18F / HHS / CMS FY19 #997`
-`BILLABLE: CoE / USDA Phase 2 / Cloud Adoption #980`
-`BILLABLE: PIF - DHS`
-`NONBILLABLE: OPP Smarter IT Solutions Division (QXD)`
-`NONBILLABLE: 18F Strategy Branch (QEAD)`
-`NONBILLABLE: Cloud Adoption CoE`
-    
-**Type Code:** "SINGLE TRIP".
-**Trip Purpose:** “Mission (Operational)” in most cases, unless attending a conference or training.
-**Document detail:** Brief summary of the purpose of the trip.
-**Will this travel be a detail to another location?** No.
+If your travel is **nonbillable**, and coming from your team's budget, your authorizing official would be your supervisor or director. If expenses will be paid out of another team's budget (list of budgets available in cell C5 of [this sheet](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)), you will need a supervisor or director from that team to approve.
 
-Proceed by clicking **Next** to finalize the reservation.
+If your travel is **billable** you will need to get approval from the director of the team who oversees the type of project you are working on:
 
-You will now see final reservation. Review all of the details and hit **“Confirm booking”** when done.
-<img src="/images/travel/13-confirm-booking.png" class="travel-guide-hide" alt="confirming the booking">
+18F Custom Partner Solutions: Alex Bisker
+10x : Nico Papafil
+cloud.gov: Carlo Costino
+login.gov: Alex Dalessio
+Centers of Excellence: Brian Whittaker
 
-#### Additional step if you booked your hotel outside of Concur or Ad Trav
-**Note** If you did not book a hotel from Concur, a policy violation will be flagged. If this applies to you, [briefly justify why your hotel choice](/travel-guide-1-book-travel/#can-i-book-outside-of-concur).
+#### What if who is traveling changes?
 
-## Securing supervisor approval
+A follow-up to the original email from the authorizing official indicating who the new travel is, and if there is any change in dates or estimated cost is sufficient.
 
-Before your trip can be approved and ticketed by the TTS Travel Team, you must ensure your travel plans have been pre-approved by someone who has the ability to obligate funds on behalf of the government. Who this person is and how you secure their approval depends on the purpose of travel.
+#### What if I am extending travel for personal reasons?
+
+Include language that specifies which days will be at your own expense, and acknowledge that "I understand all other travel expenses including lodging and meals before or after the official travel dates specified above are my own responsibility."
+
+#### What if I am traveling to or returning from a location other than my home location?
+
+
+
+#### How should I estimate my expenses
+
+In the case of individual or small group travel, you may estimate your expenses based on the total amount of your authorization in Concur, plus an reasonable allowance for any additional expenses such as taxis, parking, and baggage fees.
+
+For larger group travel, it is recommended to use this [travel expenses estimator template]() which automatically calculates most airfare and per diems.
+
+### Email templates
+
+#### Individual travel
+
+**Subject:** Approval for travel between [dates] for [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0) or Tock project name and ID #
+
+---
+
+**Body:**
+
+Hello,
+
+I request approval to travel from [ home_location ] to [ work_location ]. I will depart the [ departure_date ], to arrive in time for [ work_to_be_done ] in service of [ TTS budget name ] (options available [here](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)) or [ Tock project + ID number ] scheduled for [ first_day_of_travel_work_date ]. I will return to [ home_location ] on [ return_date ]. [ budget](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) is attached.
+
+Please reply with your approval, or with any subsequent questions or clarifications you may have.
+
+Many thanks,
+
+[ requestor_name ]
+
+#### Group travel
+
+**Subject:** Approval for travel between [dates] for [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0) or Tock project name and ID #
+
+---
+
+**Body:**
+
+Below is the travel cost break out for [ work to be performed ] for [ Budget name or Tock project name and ID# ]. The estimated total cost is [ total cost ], with the cost for each team member broken out below. Please reply with your approval, or with any subsequent questions or clarifications you may have.
+
+[ Include the [completed travel expenses estimator](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) _pasted_ here, or another format of your choice, as long as origins, destinations, dates of travel, and estimated cost are clearly identified for each person traveling ]
+
+  Additional templates for emails involving other circumstances are available in the Travel Guide FAQ-- see the links below:
+
+  * [What if, for personal reasons,  I want to extend my travel beyond my work dates (i.e. stay in DC for the weekend)?](/travel-guide-faq/#extend-travel)
+
+  * [What if I am traveling from or to another city that is not my home city?](/travel-guide-faq/#multi-city)
 
 #### Travel to a training, conference, event, or large team IRL
 
 Travel pre-approval is secured via the [event request process](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform), so you can skip to the [next step](), unless you will be [extending your trip at your own expense](), [flying to or from points that are not either your duty station or location of the event](), or combining your event travel with travel for some other reason.
 
-#### Travel for a billable project
+#### Amending or updating approval for travel
 
-You must secure an email 
+Certain deviations from your original itinerary will require re-approval from your supervisor or client as appropriate-- consult [the appendix on amended authorizations](/travel-guide-A-amended-authorizations) for more details.
+
+#### Notice about late approvals
+
+Ensure that you request your approval with sufficient advance notice. Requests made late may not receive director or client approval in time. Requests that are not finalized before 4:30 PM Eastern time the last business day before travel begins will not be approved by the Travel Team. If an urgent need to travel arises after this time, you will need to work with your authorizing official and AdTrav (gvtagents@adtrav.com) to complete the GSA Form 87. More details about this process can be found [here](travel-guide-B-after-hours-emergency-travel-authorizations).
 
 ## Make Your Authorization or Voucher is Ready to Submit
 [This Checklist](https://goo.gl/AWbT7Q) will help you check your authorization/voucher for potential issues that can result in your request getting rejected or returned for correction.
 
-## Submit Authorization for Approval
-You're getting really close! You can almost feel the TSA X-ray scan! One last step before it's travel time! In this step, you will send your authorization to be approved by the TTS travel team.
+## Submit for Travel Team Approval
+
+**The last step, AKA the Stamp and Submit dance**
 
 1. Click **Document Actions -> Submit Document** (in the upper right hand corner of your authorization)
 
