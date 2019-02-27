@@ -95,4 +95,4 @@ For internal links, use `{{site.baseurl}}` in the URL (in place of `https://http
 
 :sparkles: **Good:** `({{site.baseurl}}/code-of-conduct/)`
 
-:no_entry_sign: **Not as good:** `(/code-of-conduct/)`
+:no_entry_sign: **Instead of:** `(/code-of-conduct/)`
