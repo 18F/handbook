@@ -5,15 +5,11 @@ title: Step 1 - Book travel in Concur
 [TOC](/travel-guide-table-of-contents)
 [Jump to Secure Approvals](/travel-guide-2-secure-approvals)
 
-Assuming that you have been [set up in Concur](/first-time-travel-get-in-concur-post-olu) and have received your [GSA travel card](/first-time-travel-travel-card), you may go ahead and book your travel in [Concur](travel.gsa.gov).
+## Brief overview of booking travel
 
-If you've applied for your travel card but haven't received it yet
+Assuming that you have been [set up in Concur](/first-time-travel-get-in-concur-post-olu) and have received your [GSA travel card](/first-time-travel-travel-card), you may go ahead and book [flights, Amtrak](/#book-flight-or-rail), [hotels](/#book-lodging), and [rental cars](/#booking-a-rental-car) (if approved) in [Concur](travel.gsa.gov)*.
 
-OR
-
-Your estimated departure is less than 72 hours away
-
-**Call AdTrav at (877) 472-6716 and make your reservations there**
+***Note** If you've applied for your travel card but haven't received it yet OR your estimated departure is less than 72 hours away, **Call AdTrav at (877) 472-6716 and make your reservations there**
 
 If you don't yet have a travel card, hotels will be charged against a personal credit or debit card, but flights or rail will be charged directly to the GSA.
 
