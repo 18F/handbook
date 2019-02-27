@@ -12,7 +12,7 @@ Because Google Drive is a web application, you don't need to install anything.
 
 We use Google Drive to keep track of our work and collaborate on documents, presentations, and spreadsheets.
 
-* **Abide by [the TTS Code of Conduct](/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
+* **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
 * When you’re at work, make sure you're on the 18F Google Drive and not your private account, especially when working with outside partners. Official 18F documents must live on the GSA/18F shared drive for compliance reasons.
 * Everything in Google Drive can be FOIA’ed.
 * Offline syncing for Google Drive/Docs has been disabled for GSA.

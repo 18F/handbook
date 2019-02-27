@@ -21,7 +21,7 @@ The federal government is accountable for making all of its products 508 complia
 ### Documentation
 
 - [Accessibility Guide](https://pages.18f.gov/accessibility/)
-- [Working Groups and Guilds](/working-groups-and-guilds-101)
+- [Working Groups and Guilds]({{site.baseurl}}/working-groups-and-guilds-101)
 
 ## <a id="training">Training</a>
 

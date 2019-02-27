@@ -142,7 +142,7 @@ Be aware that IDs from [a few states](https://www.dhs.gov/current-status-states-
 
 Government staff and project partners are welcome to co-work in the office. Please let the rest of the team know so that they can say hello!
 
-If you would like to host a group from a non-government organization, please coordinate with [Outreach](/outreach).
+If you would like to host a group from a non-government organization, please coordinate with [Outreach]({{site.baseurl}}/outreach).
 
 ### Host long-term guests?
 
@@ -154,7 +154,7 @@ If you're a visitor arriving outside business hours, you'll need to arrange for 
 
 ### Book rooms for meetings?
 
-The SF office has small team rooms. You can book other conference rooms using [BookIt!](/gsa-internal-tools/#bookit) Recommended rooms include Yuma and Carson City, because they are videoconference-friendly.
+The SF office has small team rooms. You can book other conference rooms using [BookIt!]({{site.baseurl}}/gsa-internal-tools/#bookit) Recommended rooms include Yuma and Carson City, because they are videoconference-friendly.
 
 Wireless works well in the beautiful courtyard, so work outside for a change!
 
@@ -255,7 +255,7 @@ The interior courtyard has Wi-Fi access so you can work outside!
 
 All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel.  You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
 
-See the [Transit Benefit](/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
+See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
 ### Health center
 

@@ -10,16 +10,16 @@ are empowered to succeed.
 ## <a id="documentation">Documentation</a>
 
 The foundation for the Diversity Guild's work is the
-[TTS Code of Conduct](/code-of-conduct/).
+[TTS Code of Conduct]({{site.baseurl}}/code-of-conduct/).
 
 We understand that diversity and inclusion may be hard to talk about. In order
 to solve that we created the
-[Diversity Talking Points](/pdfs/diversity-talking-points.pdf)
-[with notes](/pdfs/diversity-talking-points-with-notes.pdf).
+[Diversity Talking Points]({{site.baseurl}}/pdfs/diversity-talking-points.pdf)
+[with notes]({{site.baseurl}}/pdfs/diversity-talking-points-with-notes.pdf).
 
 ## <a id="diversity-guild">Diversity Guild</a>
 
-The Diversity [Guild](/working-groups-and-guilds-101/) strives to make TTS a great place to work for people of all backgrounds; to foster diversity of all kinds; and to create a culture where people feel safe, work joyfully, and communicate openly. It aims to do this all while providing great services for the American people.
+The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) strives to make TTS a great place to work for people of all backgrounds; to foster diversity of all kinds; and to create a culture where people feel safe, work joyfully, and communicate openly. It aims to do this all while providing great services for the American people.
 
 ### <a id="leadership">Leadership</a>
 

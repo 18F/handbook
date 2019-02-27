@@ -28,7 +28,7 @@ Your install screen should look like this:
 3. Enter either `vpn.gsa.gov/adcontractors` or `vpn.gsa.gov/gfeotp` (this is an old url that may not work) or select `GSA Access OTP` in the Site Name field.
 4. Click **Connect**.
 5. Sign in with your ENT username and password. Your username is your full name, including your middle initial.
-6. You'll be prompted for an answer or token. Enter the [OTP code](/distributed#otp).
+6. You'll be prompted for an answer or token. Enter the [OTP code]({{site.baseurl}}/distributed#otp).
 7. Accept the Government Warning Banner.
 
 ## Troubleshooting

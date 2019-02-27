@@ -7,7 +7,7 @@ tags:
 - loan
 ---
 
-Quicklinks to access the various benefits sites as well as information on who to reach out to if you have questions.  For more in-depth benefits info, visit the [Benefits](/benefits/) page.   
+Quicklinks to access the various benefits sites as well as information on who to reach out to if you have questions.  For more in-depth benefits info, visit the [Benefits]({{site.baseurl}}/benefits/) page.   
 
 ## Benefits links
 

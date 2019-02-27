@@ -12,7 +12,7 @@ GSA IT has staff that manage GSA's GitHub org. See more information about that i
 
 GitHub is a web application, so there&rsquo;s no installation necessary, but you may find the [desktop app](https://desktop.github.com/) useful.
 
-If you don&rsquo;t have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/records-management) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email.
+If you don&rsquo;t have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention]({{site.baseurl}}/records-management) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email.
 
 ### 1. Complete your profile
 
@@ -53,14 +53,14 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 ## Rules
 
-- **Abide by [the TTS Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
+- **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
 
 - **Do not grant Admin rights to anyone but 18F staff.**
 
-- **Do not store sensitive information in GitHub**, including environment variables, private configuration data, or sensitive information about the public (including but not limited to PII). In the event that such variables or configuration data is pushed to a GitHub repository accidentally, even momentarily, consider it compromised and revoke or change the credentials immediately. Do not delete the commit itself. Then immediately follow the directions on the [incident response handbook page](/security-incidents). If you&rsquo;re unsure how to protect this information, consult with Infrastructure on GitHub or in the [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) channel in Slack. Some projects use [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to the [18F Handbook page on sensitive information](/sensitive-information) and [guidance on sensitive information in our open source policy.](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
+- **Do not store sensitive information in GitHub**, including environment variables, private configuration data, or sensitive information about the public (including but not limited to PII). In the event that such variables or configuration data is pushed to a GitHub repository accidentally, even momentarily, consider it compromised and revoke or change the credentials immediately. Do not delete the commit itself. Then immediately follow the directions on the [incident response handbook page]({{site.baseurl}}/security-incidents). If you&rsquo;re unsure how to protect this information, consult with Infrastructure on GitHub or in the [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) channel in Slack. Some projects use [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to the [18F Handbook page on sensitive information]({{site.baseurl}}/sensitive-information) and [guidance on sensitive information in our open source policy.](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
 
     - To help you not commit sensitive information to Github, [please read about Git
-      Seekrets](/sensitive-information#git-seekret).
+      Seekrets]({{site.baseurl}}/sensitive-information#git-seekret).
 
 - **Ask Infrastructure before integrating a service with GitHub.** Many websites offer the option to &ldquo;Sign in with GitHub&rdquo; and may further request permission to access your &ldquo;personal user data.&rdquo; Providing this level of access can not only share your public or private email address, but it can also grant the ability to access 18F&rsquo;s private repositories. For this reason, we ask that all organization members refrain from authorizing integrations and request any desired integrations through an [Infrastructure issue](https://github.com/18F/infrastructure).
 
@@ -78,7 +78,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 ### Documentation
 
-- [Brief onboarding class about GitHub](/intro-to-github).
+- [Brief onboarding class about GitHub]({{site.baseurl}}/intro-to-github).
 
 - The 18F [Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) and accompanying [practice guide](https://github.com/18F/open-source-policy/blob/master/practice.md) explain why and how we write code and documentation in the open.
 

@@ -5,7 +5,7 @@ title: Account management policy
 _This control document outlines how 18F conducts business._
 
 ## Why we enter into Interagency Agreements
-18F provides digital and digital-related services to federal agencies. 18F is funded by the [Acquisition Services Fund](http://www.gsa.gov/portal/content/150047), which requires reimbursement in full. We therefore charge our clients — the federal agencies who engage us for project work — for our actual time and material costs, plus a fixed overhead amount. To do so, we enter into an [interagency agreement](/agreements) (IAA), with each of our clients.
+18F provides digital and digital-related services to federal agencies. 18F is funded by the [Acquisition Services Fund](http://www.gsa.gov/portal/content/150047), which requires reimbursement in full. We therefore charge our clients — the federal agencies who engage us for project work — for our actual time and material costs, plus a fixed overhead amount. To do so, we enter into an [interagency agreement]({{site.baseurl}}/agreements) (IAA), with each of our clients.
 
 ## Roles and responsibilities
 
@@ -15,7 +15,7 @@ For each project, the project account liaison and the 18F accounts manager, toge
 
 ## How we draft and execute IAAs
 
-18F drafts all of its IAAs using the [FMS standard 7600A and 7600B forms](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/fincMgmtStdzn_home.htm), with attachments as necessary. Each IAA we draft is based on a standard set of [18F IAA template documents](https://drive.google.com/a/gsa.gov/folderview?id=0B_BrYqdsWSajTUw0dVhhemRPQjQ&usp=drive_web), initially developed and continuously updated jointly by 18F and the GSA Office of General Counsel (OGC). [Learn more about the process](/agreements).
+18F drafts all of its IAAs using the [FMS standard 7600A and 7600B forms](https://www.fiscal.treasury.gov/fsreports/ref/fincMgmtStdzn/fincMgmtStdzn_home.htm), with attachments as necessary. Each IAA we draft is based on a standard set of [18F IAA template documents](https://drive.google.com/a/gsa.gov/folderview?id=0B_BrYqdsWSajTUw0dVhhemRPQjQ&usp=drive_web), initially developed and continuously updated jointly by 18F and the GSA Office of General Counsel (OGC). [Learn more about the process]({{site.baseurl}}/agreements).
 
 The form 7600A represents an umbrella agreement and sets the general terms and conditions between GSA and the client agency. Each form 7600B is a task order and includes a specific period of performance, an amount of money to be obligated by the client for the project, and a Statement of Work specifying what 18F will do for and with the client.
 

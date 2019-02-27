@@ -3,9 +3,9 @@ title: First-Time Travel Get a Travel Card
 navtitle: First-Time Travel Get a Travel Card
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Last Step](/first-time-travel-get-in-concur-pre-olu)
-[Next to Complete Concur Profile](/first-time-travel-complete-concur-profile)
+[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
+[Back to Last Step]({{site.baseurl}}/first-time-travel-get-in-concur-pre-olu)
+[Next to Complete Concur Profile]({{site.baseurl}}/first-time-travel-complete-concur-profile)
 
 A GSA travel card will help you pay for lodging, taxis, and other miscellaneous expenses while on your trip.
 
@@ -56,7 +56,7 @@ This may take 1-2 business days.
 
 ### 6. Activate your card
 
-[Next Step: Complete Your Concur Profile](/first-time-travel-complete-concur-profile)
+[Next Step: Complete Your Concur Profile]({{site.baseurl}}/first-time-travel-complete-concur-profile)
 
 #### Having trouble?
 

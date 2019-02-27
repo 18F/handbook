@@ -6,7 +6,7 @@ Google Calendar is an online calendar that provides us with a single point of re
 
 ## Setup
 
-Because [Google Calendar](/google-calendar) is a web application, there's no installation necessary.
+Because [Google Calendar]({{site.baseurl}}/google-calendar) is a web application, there's no installation necessary.
 
 ## Usage
 

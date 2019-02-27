@@ -101,7 +101,7 @@ There are supply rooms with pens, sticky notes, etc. If you need something order
 
 ## Transit subsidy
 
-See the [Transit Benefit](/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
+See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
 ### Use your card
 

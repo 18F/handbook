@@ -2,7 +2,7 @@
 title: Step 5 - Get Reimbursed
 ---
 
-[TOC](/travel-guide-table-of-contents) [Back to Traveling](/travel-guide-4-travel)
+[TOC]({{site.baseurl}}/travel-guide-table-of-contents) [Back to Traveling]({{site.baseurl}}/travel-guide-4-travel)
 
 So you’ve traveled and want to get reimbursed for all of your expenses! It’s time to return to Concur to create and then submit a voucher.
 
@@ -32,7 +32,7 @@ IF THIS IS YOUR FIRST TIME CREATING A VOUCHER: please read through this guide, b
 
     * **Under 12 Hours**: Select the **Local Voucher** option to reimburse expenses on a trip under 12 hours that does not include per diem, hotels, or travel by air or Amtrak. You won't need a prior authorization document in Concur to create this (though you will need approval sent to tts-travelauths@gsa.gov to certify that the expenses that you are claiming are authorized). Select **Create Document** and skip ahead to [Naming your Voucher](#ii-naming-your-voucher).
 
-    * **I need to get reimbursed for something other than travel expenses** Concur processes this as well! Similar to trips under 12 hours, you'll need to [create a local voucher](#miscellaneous-vouchers). Before starting this process, please make sure that the expense you are hoping to get reimbursed for was [approved in C2](/purchase-requests) if nonbillable, or approved by your client in an email sent to tts-travelauths@gsa.gov before you made the purchase. Exceptions to this rule (retroactive approvals) are rarely granted by the TTS Director of Business Operations.
+    * **I need to get reimbursed for something other than travel expenses** Concur processes this as well! Similar to trips under 12 hours, you'll need to [create a local voucher](#miscellaneous-vouchers). Before starting this process, please make sure that the expense you are hoping to get reimbursed for was [approved in C2]({{site.baseurl}}/purchase-requests) if nonbillable, or approved by your client in an email sent to tts-travelauths@gsa.gov before you made the purchase. Exceptions to this rule (retroactive approvals) are rarely granted by the TTS Director of Business Operations.
 
 4. You will then be led through creating a voucher from your authorization that you got approved prior to traveling.
 
@@ -216,7 +216,7 @@ Once you've chosen the **Local voucher** option, you'll be taken to the **Docume
 Once all of this is entered, go ahead and **Create Document** and move on to the next step.
 
 ### IV. Submitting Voucher for Approval
-Routing a voucher is now exactly the same as submitting an authorization as seen in when we [submitted our authorization for approval](/travel-guide-3-approval/#submit-authorization-for-approval).
+Routing a voucher is now exactly the same as submitting an authorization as seen in when we [submitted our authorization for approval]({{site.baseurl}}/travel-guide-3-approval/#submit-authorization-for-approval).
 
 1. Navigate to the **Perform Pre-Audits** Tab for your voucher.
 
@@ -224,7 +224,7 @@ Routing a voucher is now exactly the same as submitting an authorization as seen
 
     * Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. If you are seeing this fail, please reach out to the TTS travel team.
 
-    *  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2](/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
+    *  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2]({{site.baseurl}}/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
 
 3. Correct or justify failures. To justify a _FAIL_, you may add an explanation after clicking Justify Pre-Audit Results.  If you need further assistance, please drop a message in #travel or reach out to the team via email tts-travel@gsa.gov.
 
