@@ -92,3 +92,7 @@ To create a new page:
 ### Internal links
 
 For internal links, use `{{site.baseurl}}` in the URL (in place of `https://https://handbook.18f.gov`) to make links work correctly in Federalist previews as well as in production.
+
+:sparkles: **Good:** `({{site.baseurl}}/code-of-conduct/)`
+
+:no_entry_sign: **Not as good:** `(/code-of-conduct/)`
