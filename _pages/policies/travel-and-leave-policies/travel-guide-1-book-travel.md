@@ -17,9 +17,9 @@ Your estimated departure is less than 72 hours away
 
 If you don't yet have a travel card, hotels will be charged against a personal credit or debit card, but flights or rail will be charged directly to the GSA.
 
-**You'll still need to take action in Concur** about an hour after your call with AdTrav. Skip ahead and read on [here](/travel-guide-2-secure-approvals) for more directions.
+**You'll still need to take action in Concur** about an hour after your call with AdTrav. Skip ahead and read on [here](/#complete-trip-information) for directions on what you will need to do in Concur. [Secure your authorizing official's approval](/secure-approvals/#secure-authorizing-officials-approval) if you haven't done so already.
 
-### Book Flight or Rail
+## Book Flight or Rail
 
 #### Entering your destination, then origin
 
@@ -83,13 +83,13 @@ If any part of the fare that you chose is nonrefundable, or exceeds the [City Pa
 * Scroll to the bottom of this page and click **Next**. This message will pop up, prompting you to book a hotel.
 <img src="/images/travel/10-trip-details-bottom.png" class="travel-guide-hide" alt="pending reservation warning">
 
-### Book lodging
+## Book lodging
 
 Choosing **"I will book a hotel now"** will allow you to book your hotel directly in Concur as well. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile).
 
 **What if I don't have a travel card yet?**
 
-Make sure that you've [applied for one](/first-time-travel-travel-card) (it is required by GSA policy), then choose "I will book a hotel later". Call AdTrav at (877) 472-6716 to reserve your hotel (and rental car if needed) on your personal card in the meantime. Assuming you've already booked your flight or train in Concur, **mention the authorization number associated with your itinerary** so you don't get a second overlapping authorization for your hotel and/or rental car. You can verify your authorization number by going to the "Authorizations" tab in Concur and finding the number in blue on the left side associated with your travel dates. An hour after you call with AdTrav, proceed on to [securing approvals](travel-guide-2-securing-approvals).
+Make sure that you've [applied for one](/first-time-travel-travel-card) (it is required by GSA policy), then choose "I will book a hotel later". Call AdTrav at (877) 472-6716 to reserve your hotel (and rental car if needed) on your personal card in the meantime. Assuming you've already booked your flight or train in Concur, **mention the authorization number associated with your itinerary** so you don't get a second overlapping authorization for your hotel and/or rental car. You can verify your authorization number by going to the "Authorizations" tab in Concur and finding the number in blue on the left side associated with your travel dates. An hour after you call with AdTrav, proceed on to [complete trip information](/#complete-trip-information).
 
 #### Booking a hotel in Concur
 
@@ -128,9 +128,9 @@ _(1) When you are attending a conference where the conference sponsor has negoti
 
 If you need to book a hotel outside of Concur, check if booking comes with any nonrefundable fees. If it does, make sure that you get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to tts-travelauths@gsa.gov. **Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.** Should booking a hotel in Concur or via AdTrav not be possible, [Fedrooms](fedrooms.com) offers hotels within government maximum rates that have flexible cancellation policies.
 
-When you are finished booking your hotel, [proceed on to securing approvals](/travel-guide-2-secure-approvals).
+When you are finished booking your hotel, proceed on to [complete trip information]((/#complete-trip-information)).
 
-### Booking a rental car
+## Booking a rental car
 
 **Before booking a rental car** ensure that manager or client who approved your travel explicitly approved budget for a rental car-- in certain situations, rental cars and parking charges are not as advantageous to the government as common carriers such as taxis and/or public transit. Government vehicles may also be available-- check out the guide [here](https://docs.google.com/document/d/19D9YBPELZav3Y-gNUxEVS4wBbV89iUTUeirH46rE378/edit) for more details.
 
@@ -149,6 +149,43 @@ Be aware that the rental company you select must participate in the [Defense Tra
 The Government is self-insured and rental vehicles under the DTMO agreement include full coverage for damages resulting from
 an accident while performing official travel. Employees on TDY travel within CONUS will not be reimbursed for collision damage waiver (CDW) or theft insurance available on commercial rental contracts. Employees will be reimbursed for collision damage waiver or theft insurance while on TDY in non-foreign areas in accordance with [FTR §301-10.451](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#d25e5538). Personal liability insurance is considered a personal expense and will not be reimbursed.
 
-Once you have reserved your rental car, continue on to [securing approvals](/travel-guide-2-securing approvals).
+Once you have reserved your rental car, continue on to [complete trip information](/#complete-trip-information).
+
+## Complete Trip Information
+
+On the **Trip Booking Information** page you must enter some general information in order to ensure that your trip gets billed to the right client and/or budget.
+
+If you called Ad Trav to book travel, you'll need to open [Concur](https://travel.gsa.gov) no sooner than an hour after your initial call to AdTrav, going to the **Authorizations** tab, clicking on your authorization, and selecting **Edit Authorization**. This will open up the document, where you can go to the **General** tab and see the fields that are presented below:
+
+Enter the following trip information on this page:
+<img src="/images/travel/12-trip-name.png" class="travel-guide-hide" alt="Trip Booking Information screen">
+
+**Trip name:** Identify the budget of your trip here, based on the type of project you are traveling for:
+
+_Billable projects:_ for 18F and CoE, include the exact name and number of the project as it appears in [Tock](tock.18f.gov/projects). For PIF billable travel, simply indicate the project is billable
+_All other projects:_ include the name of the team budget that is paying for this travel (a list of options is in cell C5 of the [TTS Budget and Accounting Lookup](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
+
+If you are traveling for multiple projects (whether billable or not), list all of the relevant Tock name and numbers and budget names as appropriate.
+
+Examples: 
+`BILLABLE: 18F / HHS / CMS FY19 #997`
+`BILLABLE: CoE / USDA Phase 2 / Cloud Adoption #980`
+`BILLABLE: PIF - DHS`
+`NONBILLABLE: OPP Smarter IT Solutions Division (QXD)`
+`NONBILLABLE: 18F Strategy Branch (QEAD)`
+`NONBILLABLE: Cloud Adoption CoE`
+    
+**Type Code:** "SINGLE TRIP".
+**Trip Purpose:** “Mission (Operational)” in most cases, unless attending a conference or training.
+**Document detail:** Brief summary of the purpose of the trip.
+**Will this travel be a detail to another location?** No.
+
+Proceed by clicking **Next** to finalize the reservation.
+
+You will now see final reservation. Review all of the details and hit **“Confirm booking”** when done.
+<img src="/images/travel/13-confirm-booking.png" class="travel-guide-hide" alt="confirming the booking">
+
+#### Additional step if you booked your hotel outside of Concur or Ad Trav
+**Note** If you did not book a hotel from Concur, a policy violation will be flagged. If this applies to you, [briefly justify why your hotel choice](/travel-guide-1-book-travel/#can-i-book-outside-of-concur).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
