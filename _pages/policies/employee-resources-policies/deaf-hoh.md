@@ -18,7 +18,7 @@ The general public who are Deaf/HoH or those having speech disabilities can also
 
 FedRelay offers six services in English and Spanish, which are described in detail on [GSA’s FedRelay page](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services/federal-relay-fedrelay):
 
- * Text telephone (TYY)/ASCII
+ * Text telephone (TTY)/ASCII
  * Speech to speech
  * Captioned telephone
  * IP Relay (a web-based version of TTY/ASCII service)
