@@ -36,7 +36,7 @@ To access remote interpreting or captioning services:
  1. Find the service you want to use on the [FedRelay site](https://www.federalrelay.us/federal-relay-services)   
  2. Follow the instructions specific to that service  
  3. When prompted for a Federal Agency Bureau (AB) Code, they are listed in numerical order. GSA is number 4700  
- 4. Provide the interpreter or service with TTS’s [Glossary](https://handbook.18f.gov/glossary/) of terms and [list of tools](https://handbook.18f.gov/#tts-tools) we reference frequently  
+ 4. Provide the interpreter or service with TTS’s [Glossary]({{site.baseurl}}/glossary/) of terms and [list of tools]({{site.baseurl}}/#tts-tools) we reference frequently  
 
 ### Video relay services (VRS)
 
@@ -85,7 +85,7 @@ In order to use video relay services in combination with video meeting tools lik
 
 ### Other software
 
-If an individual has used other software that isn’t included in the FedRelay package, follow the instructions on the [Software](https://handbook.18f.gov/software/) page to check whether it is already approved by GSA, and how to request it.
+If an individual has used other software that isn’t included in the FedRelay package, follow the instructions on the [Software]({{site.baseurl}}/software/) page to check whether it is already approved by GSA, and how to request it.
 
 ## Accessing in-person services
 
@@ -105,13 +105,13 @@ Each program office is responsible for the cost of these services.
     2. an estimated ceiling for number of hours needed  
     3. an estimated ceiling for the cost of services  
  3. Export the approved email as a PDF
- 4. Get access to [C2](https://handbook.18f.gov/purchase-requests/#c2) and fill out a purchase request. Include the director's email approval as an attachment in the request.
+ 4. Get access to [C2]({{site.baseurl}}/purchase-requests/#c2) and fill out a purchase request. Include the director's email approval as an attachment in the request.
  5. The purchase card holder will clear the agreement and terms of service with GSA’s Office of General Counsel
  6. The purchase card holder will schedule a call with the individual or supervisor to execute the purchase.
 
 #### Best practices for working with an on-site interpreter(s):
  * It is standard practice to have two interpreters available to prevent them from having cognitive fatigue that would result in poor performance. At best, they would switch every 20-30 minutes and assist each other if they miss something.
- * Share slides, agendas, [glossaries](https://handbook.18f.gov/glossary/), or other materials with interpreters ahead of time.
+ * Share slides, agendas, [glossaries]({{site.baseurl}}/glossary/), or other materials with interpreters ahead of time.
  * Schedule interpreters to arrive at least 15 minutes prior to the event to allow the individuals and interpreters to meet beforehand, review any specialized vocabulary, and share individual preferences for communication and signing styles.
  * If possible, work with a consistent pool of interpreters so they can be familiar with TTS/GSA work culture and technical signs. This will help avoid emotional labor of having to constantly educate new, different interpreters each time.
  * Keep points of contact for scheduling, coordinating, and payment to a minimum to avoid creating emotional labor for the interpreters.
