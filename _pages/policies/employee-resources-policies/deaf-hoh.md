@@ -50,7 +50,7 @@ In order to use video relay services in combination with video meeting tools lik
    b. Create an account at Z5’s [Registration page](https://www.zvrs.com/registration/) and follow their instructions.  
    c. After creating an account, you may need to wait for few days for the account to be activated. Also, a Z5 enterprise account manager may reach out to you to provide support, answer questions and verify contact info.  
 
-#### Connect to a meeting with VRS
+#### Connect to a meeting with video relay
 
 ##### For a Google Hangouts/Meet meeting:
  1. Dial (877) 709-5797 from your videophone (the Z5 app). Press option 1 for English or option 2 for Spanish
@@ -65,7 +65,7 @@ In order to use video relay services in combination with video meeting tools lik
    * _Note_: Make sure that every Calendar invite also includes the dial-in number — A Zoom URL itself will not allow an interpreter to join in the meeting
  4. Begin your conversation
 
-#### VRS tips
+#### Video relay tips
  * Add (877) 709-5797 to your Z5 contact list for a quick dial
  * Interpreters can facilitate information in both directions. Deaf/HoH individuals using their own voice in conversation (instead of the interpreter voicing for them) should inform the interpreter at the beginning that they’ll be using Voice Carry Over (VCO). Alternatively, they should ask the interpreter to convert the individual’s conversation from sign language to voice.
  * If you are using Voice Carry Over (VCO) and the interpreter is not expected to use their voice, mute the interpreter’s phone line from the Google Meet or Zoom meeting to reduce background noises and microphone echos.
@@ -76,9 +76,11 @@ In order to use video relay services in combination with video meeting tools lik
 
 [Relay conference captioning](https://www.federalrelay.us/rcc) is real-time captioning for meetings over the phone or internet, including web conferencing, by creating text in a computer window. **This is the only service that needs to be scheduled in advance:** please book at least 12 hours ahead for English, and 48 hours ahead for Spanish.
 
-#### Schedule a meeting with Relay Conference captioning
+#### Schedule a meeting with Relay Conference Captioning
 
  * Follow the instructions on the [FedRelay RCC page](https://www.federalrelay.us/rcc)
+ * When the booking is confirmed, you will receive a link for accessing the transcript at the time of the event
+ * Add the link for accessing the live transcript to the meeting invitation, so that individuals using it can find it easily when they join the meeting
 
 ### Other software
 
@@ -108,7 +110,7 @@ Choose a service provider that the individual has previously had a good experien
  * It is standard practice to have two interpreters available to prevent them from having cognitive fatigue that would result in poor performance. At best, they would switch every 20-30 minutes and assist each other if they miss something.
  * Share slides, agendas, [glossaries](https://handbook.18f.gov/glossary/), or other materials with interpreters ahead of time.
  * Schedule interpreters to arrive at least 15 minutes prior to the event to allow the individuals and interpreters to meet beforehand, review any specialized vocabulary, and share individual preferences for communication and signing styles.
- * If possible, work with a consistent pool of interpreters so they can be familiar with TTS / GSA work culture and technical signs. This will help avoid emotional labor of having to constantly educate new, different interpreters each time.
+ * If possible, work with a consistent pool of interpreters so they can be familiar with TTS/GSA work culture and technical signs. This will help avoid emotional labor of having to constantly educate new, different interpreters each time.
  * Keep points of contact for scheduling, coordinating, and payment to a minimum to avoid creating emotional labor for the interpreters.
  * People often use "interpreter" and "translator" interchangeably, and while they're similar, they differ. In general, an interpreter interprets spoken information in real-time, while a translator converts information from written/recorded materials. So when inquiring for an interpreter, don't make the mistake of calling them a translator.
  * Remember that interpreting goes both directions. Interpreters can convert spoken language into sign language and sign language into spoken language based on the group’s needs.
@@ -116,6 +118,7 @@ Choose a service provider that the individual has previously had a good experien
 ### Planning for accessible events
 
  GSA maintains a very useful InSite page on [planning for accessible events](https://insite.gsa.gov/topics/information-technology/508-accessibility/planning-for-accessible-events-at-gsa) to help employees prepare their everyday activities to be more inclusive and be in conformance with Section 508 requirements for digital media. It’s worth VPNing in for, and includes guidance on:  
+
   * Choosing an accessible location
   * Facility considerations
   * Event registration preparation
@@ -129,9 +132,10 @@ Choose a service provider that the individual has previously had a good experien
 
 GSA HR is helpful from an overall GSA policy standpoint, and can help point you to specific individuals for the most up-to-date resources. Ask them for points of contact for Reasonable Accommodation Coordinators in each region, who can help organize on-site resources for their area.
 
-##### Contact
-> Octavia Johnson
-> octavia.johnson@gsa.gov
+**Contact**  
+
+ > Octavia Johnson  
+ > octavia.johnson@gsa.gov
 
 ### Office of Civil Rights
 
@@ -147,19 +151,20 @@ Contact the Office of Civil Rights to:
 #### Equal Employment Opportunity Program
 Work with this program within the Office of Civil Rights to get assistive technology solutions through the Department of Defense's Computer Accommodation Program
 
-##### Contact
-> Alexander Koudry
-> alex.koudry@gsa.gov
+**Contact**  
 
-## Terms to Know
+ > Alexander Koudry  
+ > alex.koudry@gsa.gov
+
+## Terms to know
 
  * **Communication Access Realtime Translation (CART):** A service where a captioner converts spoken speech into written text. CART is also better known as real-time or live captioning.
  * **Closed captioning (CC):** A text version of all types of audio elements is shown on the visual display or screen, including spoken conversation and description of background elements, music, and other sounds. Unlike open captions, closed captioning is optional and activated by the viewer. (*See difference, subtitles*).
- * **Hearing person/people:** A Deaf culture term identifying a person with a typical hearing ability.
+ * **Hearing person:** A Deaf culture term identifying a person with a typical hearing ability.
  * **Federal Relay (FedRelay):** Provides telecommunications services for federal agencies and tribal governments to conduct official business with individuals who are Deaf and/or Hard of Hearing, or have speech disabilities.
  * **Interpreter:** An interpreter converts spoken information into sign language in real-time. Also, an interpreter  converts sign language into verbal speech for a hearing person. (*See difference, translator*)
- * **Open captioning (OC):** Similar to closed captions, but with open captions, the latter is always on (encoded into the visual display / screen) and does not need to be activated by the viewer.
- * **On-site Interpreting:** An interpreter is physically present at the location where there is a face-to-face meeting or conversation between hearing and Deaf/HoH people.
+ * **Open captioning (OC):** Similar to closed captions, but with open captions, the latter is always on (encoded into the visual display or screen) and does not need to be activated by the viewer.
+ * **On-site interpreting:** An interpreter is physically present at the location where there is a face-to-face meeting or conversation between hearing and Deaf/HoH people.
  * **Subtitles:** A text version of only the spoken dialogue appears on the visual display or screen. (*See difference, closed captioning*)
  * **Video Remote Interpreting (VRI):** An on-demand sign language interpreting service through webcam, internet connection and a VRI software app.
  * **Translator:** A translator converts information from written or recorded materials into sign language. (*See difference, interpreter*)
