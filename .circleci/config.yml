@@ -27,10 +27,13 @@ jobs:
           key: v2-dependencies-{{ checksum "Gemfile.lock" }}
 
       - run:
+          name: checking internal links
+          command: '! grep -rl "(/" _pages'
+
+      - run:
           name: build site
           command: bundle exec jekyll build
 
       - run:
           name: htmlproofer
           command: bundle exec htmlproofer ./_site htmlproofer --disable-external
-
