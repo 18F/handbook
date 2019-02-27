@@ -209,6 +209,9 @@ navigation:
         - text: Procurements over $10,000
           url: procurements-over-10000/
           internal: true
+      - text: Resources for Deaf and Hard of Hearing individuals
+        url: deaf-hoh/
+        internal: true
       - text: Telework guidance
         url: telework/
         internal: true
