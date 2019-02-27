@@ -4,7 +4,7 @@ tags:
 
 ---
 
-[An intro]
+Tools, services, points of contact, and tips for navigating the resources available to individuals and teams.
 
 ## Services provided by GSA
 
@@ -44,25 +44,26 @@ To access remote interpreting or captioning services:
 In order to use video relay services in combination with video meeting tools like Google Meet or Zoom, the Deaf/HoH individual will need to install GSA-approved software called Z5 app that connects them by video to a sign language interpreter. To get this software:
 
  1. The individual’s Supervisor should submit a software request on behalf of the individual using [Service Now](https://gsa.service-now.com/sp/?id=cs_home). Individuals can also submit their own request, but it will then immediately get routed to their supervisor for approval.   
-   a. Pending the individual’s specific communication needs, in the software request Comments field, note that GSA IT should contact the individual for setup instructions by email, and not by phone.
+    1. Pending the individual’s specific communication needs, in the software request Comments field, note that GSA IT should contact the individual for setup instructions by email, and not by phone.
  2. Install the VRS software app. GSA IT will contact the individual for setup and installation.  
-   a. Download Z5 app for mobile and/or desktop, which is GSA-approved. If Z5 cannot be downloaded or installed, contact your supervisor/manager and GSA IT to make it available in GSA Self Service application  
-   b. Create an account at Z5’s [Registration page](https://www.zvrs.com/registration/) and follow their instructions.  
-   c. After creating an account, you may need to wait for few days for the account to be activated. Also, a Z5 enterprise account manager may reach out to you to provide support, answer questions and verify contact info.  
+    1. Download Z5 app for mobile and/or desktop, which is GSA-approved. If Z5 cannot be downloaded or installed, contact your supervisor/manager and GSA IT to make it available in GSA Self Service application  
+    2. Create an account at Z5’s [Registration page](https://www.zvrs.com/registration/) and follow their instructions.  
+    3. After creating an account, you may need to wait for few days for the account to be activated. Also, a Z5 enterprise account manager may reach out to you to provide support, answer questions and verify contact info.  
 
 #### Connect to a meeting with video relay
 
 ##### For a Google Hangouts/Meet meeting:
+
  1. Dial (877) 709-5797 from your videophone (the Z5 app). Press option 1 for English or option 2 for Spanish
  2. Connect to a video interpreter and provide the name of your Federal agency (In this case, "GSA") or Agency Bureau (AB) code (GSA’s AB code is 4700)
  3. Provide the phone number you want to call to the interpreter and the PIN, which both are listed under "Join by phone" on your Google Calendar invite
  4. Begin your conversation
 
 ##### For a Zoom meeting:
+
  1. Dial (877) 709-5797 from your videophone (the Z5 app). Press option 1 for English or option 2 for Spanish
  2. Connect to a video interpreter and provide the name of your Federal agency (in this case, "GSA") or Agency Bureau code (in this case, "4700")
- 3. Provide the phone number you want to call to the interpreter, which is listed under "Dial [by your location]" on your Google Calendar invite.
-   * _Note_: Make sure that every Calendar invite also includes the dial-in number — A Zoom URL itself will not allow an interpreter to join in the meeting
+ 3. Provide the phone number you want to call to the interpreter, which is listed under "Dial [by your location]" on your Google Calendar invite. Make sure that every Calendar invite also includes the dial-in number — a Zoom URL itself will not allow an interpreter to join in the meeting
  4. Begin your conversation
 
 #### Video relay tips
@@ -92,15 +93,17 @@ There are times when a Deaf/HoH individual may desire or find it more convenient
 
 Choose a service provider that the individual has previously had a good experience with if you can. GSA has not allocated centralized funds to support costs associated with accommodating employees outside of FedRelay, which leaves some flexibility and choice up to the individual. Find organizations or interpreters the individual has worked with before that have knowledge of their specialized technical vocabulary.
 
+Each program office is responsible for the cost of these services.
+
 ### Planning for on-site interpreting services
 
-#### Paying for services:
+#### Booking and purchasing:
 
  1. Identify the service provider and their rates
  2. The individual or their supervisor should email their Director for approval of the expense. For 18F, this is likely your Chapter Director. For OPP, this is likely your Portfolio Lead. Include:  
-   a. the date of services  
-   b. an estimated ceiling for number of hours needed  
-   c. an estimated ceiling for the cost of services  
+    1. the date of services  
+    2. an estimated ceiling for number of hours needed  
+    3. an estimated ceiling for the cost of services  
  3. Export the approved email as a PDF
  4. Get access to [C2](https://handbook.18f.gov/purchase-requests/#c2) and fill out a purchase request. Include the director's email approval as an attachment in the request.
  5. The purchase card holder will clear the agreement and terms of service with GSA’s Office of General Counsel
@@ -128,7 +131,7 @@ Choose a service provider that the individual has previously had a good experien
 
 ## Who to contact
 
-### GSA HR
+### GSA Human Resources (HR)
 
 GSA HR is helpful from an overall GSA policy standpoint, and can help point you to specific individuals for the most up-to-date resources. Ask them for points of contact for Reasonable Accommodation Coordinators in each region, who can help organize on-site resources for their area.
 
@@ -139,7 +142,7 @@ GSA HR is helpful from an overall GSA policy standpoint, and can help point you 
 
 ### Office of Civil Rights
 
-GSA prohibits discrimination in the workplace and the Office of Civil Rights upholds the agency’s commitment to becoming a model Equal Employment Opportunity (EEO) employer.
+GSA prohibits discrimination in the workplace and the [Office of Civil Rights](https://www.gsa.gov/about-us/organization/office-of-civil-rights-overview) upholds the agency’s commitment to becoming a model Equal Employment Opportunity (EEO) employer.
 
 Contact the Office of Civil Rights to:
 
@@ -149,7 +152,7 @@ Contact the Office of Civil Rights to:
  * File an administrative complaint requesting that existing electronic and information technology (E&IT), such as a GSA branded website or non-accessible document that does not conform to the Section 508 standards, be reviewed and brought into compliance with the provisions of Section 508.
 
 #### Equal Employment Opportunity Program
-Work with this program within the Office of Civil Rights to get assistive technology solutions through the Department of Defense's Computer Accommodation Program
+Work with this program within the Office of Civil Rights to get assistive technology solutions through the [Department of Defense's Computer Accommodation Program](http://www.cap.mil/)
 
 **Contact**  
 
