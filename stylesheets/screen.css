@@ -669,6 +669,10 @@ a[id]{
 	margin-bottom: 16px !important;
 }
 
+.page h5{
+	font-weight: 600;
+}
+
 .location .h-card .p-name{
 	position: absolute;
 	left: -9999em;
