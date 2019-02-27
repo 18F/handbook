@@ -8,24 +8,24 @@ title: Step 2 - Secure approvals
 
 ## Brief overview of securing approvals
 
-**TL;DR:** Before your trip can be approved and ticketed by the TTS Travel Team, you must ensure your travel plans have been pre-approved via [a sufficiently descriptive email]()* by [an authorizing official](). Forward this email to tts-travelauths@gsa.gov. You can then go ahead and [stamp and submit for Travel Team approval].
+**TL;DR:** Before your trip can be approved and ticketed by the TTS Travel Team, you must ensure your travel plans have been pre-approved via [a sufficiently descriptive email]()* by [an authorizing official](). Forward this email to tts-travelauths@gsa.gov. You can then go ahead and [stamp and submit for Travel Team approval](/#submit-for-travel-team-approval).
 
-**Note:** [Emails approvals are not needed for most training and event related-travel, including large team IRLs](/#travel-to-a-training-conference-event-or-large-team-irl). Skip ahead to [submitting for travel team approval](/#submit-for-travel-team-approval).
+**Note:** [Emails approvals are not needed for most training and event related-travel, including large team IRLs](/#travel-to-a-training-conference-event-or-large-team-irl). [International travel follows a different process entirely](/#international-travel). Skip ahead to [submitting for travel team approval](/#submit-for-travel-team-approval).
 
 ## How to secure authorizing official approval
 
-You must formally request your authorizing official's approval via email.* [Who is my authorizing official]()
+You must formally request your authorizing official's approval via email.*    [Who is my authorizing official](/#who-is-my-authorizing-official-and-what-is-my-budget)
 
 *Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official.
 
-The body of the email must include the following: [See an individual template here]() [and a group template here]()
+The body of the email must include the following:     [See an individual template here](/#individual-travel) [and a group template here](/#group-travel)
 
-* Names of individuals traveling [What if this changes?]()
-* Start and end dates of travel [What if I am extending travel for personal reasons?]()
+* Names of individuals traveling    [What if this changes?](/#what-if-who-is-traveling-changes)
+* Start and end dates of travel    [What if I am extending travel for personal reasons?](/#what-if-I-am-extending-travel-for-personal-reasons)
 * A brief description of work to be done on the trip
-* Identified budget that will be paying for the trip [How do I identify my budget?]()
-* Origin and destinations for each individual [What if I am traveling to or returning from a location other than my home location?]
-* Estimated expenses for each individual [How should I estimate my expenses?]()
+* Identified budget that will be paying for the trip    [How do I identify my budget?](/#who-is-my-authorizing-official-and-what-is-my-budget)
+* Origin and destinations for each individual    [What if I am traveling to or returning from a location other than my home location?](/#What-if-I-am-traveling-to-or-returning-from-a-location-other-than-my-home-location)
+* Estimated expenses for each individual    [How should I estimate my expenses?](/#How-should-I-estimate-my-expenses)
 
 #### Who is my authorizing official and what is my budget?
 
@@ -35,11 +35,11 @@ If your travel is **nonbillable**, and coming from your team's budget, your auth
 
 If your travel is **billable** you will need to get approval from the director of the team who oversees the type of project you are working on:
 
-18F Custom Partner Solutions: Alex Bisker
-10x : Nico Papafil
-cloud.gov: Carlo Costino
-login.gov: Alex Dalessio
-Centers of Excellence: Brian Whittaker
+* 18F Custom Partner Solutions: Alex Bisker
+* 10x : Nico Papafil
+* cloud.gov: Carlo Costino
+* login.gov: Alex Dalessio
+* Centers of Excellence: Bob DeLuca or Brian Whittaker
 
 #### What if who is traveling changes?
 
@@ -51,13 +51,21 @@ Include language that specifies which days will be at your own expense, and ackn
 
 #### What if I am traveling to or returning from a location other than my home location?
 
+If you were previously scheduled to be on leave or telework at the other location*, the full cost of travel from or to that location can be approved at the discretion of your authorizing official. Ensure that there is language in the email that reflects your itinerary.
 
+If you'd like to schedule personal travel that's incidental to your work trip (i.e. planned after the work trip), after your official work itinerary has been approved in Concur, you can give AdTrav a call at (877) 472-6716 and request that your itinerary be changed, with you covering any difference in cost that may arise.
+
+*Note that while GSA travel policy doesn't explicitly forbid being approved to travel from a foreign location, [travel to or from foreign locations](/#international-travel) must be requested in Event Tracker for GSA Administrator approval at least 7 weeks in advance, amking approval in these circumstances extremely unlikely.
+
+#### International travel
+
+All official international travel taken by GSA employees, regardless of funding source, also requires Salesforce event approval. Please reach out to michael.proul@gsa.gov at least 7 weeks in advance in order to coordinate this.
 
 #### How should I estimate my expenses
 
 In the case of individual or small group travel, you may estimate your expenses based on the total amount of your authorization in Concur, plus an reasonable allowance for any additional expenses such as taxis, parking, and baggage fees.
 
-For larger group travel, it is recommended to use this [travel expenses estimator template]() which automatically calculates most airfare and per diems.
+For larger group travel, it is recommended to use this [travel expenses estimator template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) which automatically calculates most airfare and per diems.
 
 ### Email templates
 
@@ -135,7 +143,7 @@ Once you have been approved, you should recieve a notification from Concur. Plea
 #### Whooo you are ready to go!
 
 You might want to take a look at what to expect while traveling!
-[Read about what to expect when you travel](/travel-guide-4-travel/)
+[Read about what to expect when you travel](/travel-guide-3-travel/)
 
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
