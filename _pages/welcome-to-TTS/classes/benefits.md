@@ -12,7 +12,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).
 
 ### Current employees
-Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) and CC Phyllis Thomas when you're submitting documents due to a change in life event (such as getting married or having a child).
+Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) when you're submitting documents due to a change in life event (such as getting married or having a child).
 
 Phyllis's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
 
@@ -41,7 +41,7 @@ Organizations across the United States offer a number of discounts to federal em
 
 ## Flexible spending accounts
 
-[Flexible spending accounts](https://www.opm.gov/healthcare-insurance/flexible-spending-accounts/) (FSA) allow you to pay for [eligible out-of-pocket health care and dependent care expenses](http://dtg.adp.com/FSAFEDSExpenseViewer#/home) with pre-tax dollars. They cannot be used to pay any type of premium, and you must use all the money in your account by the end of the year or you risk forfeiture of the unused funds. However, there is a grace period. If you have unused funds in your FSA account and incur expenses from January 1 through March 15, you have until April 30 to submit claims against the prior year.
+[Flexible spending accounts](https://www.opm.gov/healthcare-insurance/flexible-spending-accounts/) (FSA) allow you to pay for [eligible out-of-pocket health care and dependent care expenses](https://www.fsafeds.com/support/eligibleexpenses) with pre-tax dollars. They cannot be used to pay any type of premium, and you must use all the money in your account by the end of the year or you risk forfeiture of the unused funds. However, there is a grace period. If you have unused funds in your FSA account and incur expenses from January 1 through March 15, you have until April 30 to submit claims against the prior year.
 
 Common reimbursements include gym memberships (with a doctor&rsquo;s note), over-the-counter medication (with a doctor&rsquo;s note), and eyeglasses.
 
@@ -119,7 +119,7 @@ You get two 15-minute breaks per day. These breaks do not extend the work day, s
 
 We are paid biweekly. You’ll receive your first paycheck about three weeks after your start date. This is because every TTS employee starts work at the beginning of a pay period. It takes a week after the end of a pay period for a direct deposit to be made. See the [GSA Payroll Calendar](http://www.gsa.gov/portal/content/102507) to determine future pay cycles.
 
-Please direct questions to the [payroll help desk](http://www.gsa.gov/portal/staffDirectory/generic/105468): **1-844-303-6515** &mdash; or [email them](mailto:kc-payroll.finance@gsa.gov).
+Please direct questions to the payroll help desk: **1-844-303-6515** or [email them](mailto:kc-payroll.finance@gsa.gov).
 
 To see your recent pay stubs:
 
@@ -171,7 +171,7 @@ If you ever move, you can update your address for TSP by emailing it to both the
 
 To transfer your previous retirement account into your TSP, you&rsquo;ll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
 
-Note: If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans can not be higher than the annual limit of $18,500 (for calendar year 2018). The limit is not $18,500 per plan, but [$18,500 in aggregate](https://www.tsp.gov/PDF/bulletins/17-u-04.html).
+Note: If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans can not be higher than the annual limit of $18,500 (for calendar year 2019). The limit is not $18,500 per plan, but [$18,500 in aggregate](https://www.tsp.gov/PDF/bulletins/18-04.html).
 
 
 ## Training
@@ -181,6 +181,6 @@ TTS team members are eligible for many professional development and training opp
 
 ## Transit subsidies
 
-All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you'll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor's signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office guides]({{site.baseurl}}/#18f-offices) for more information.
+All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you'll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor's signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office guides]({{site.baseurl}}/#tts-offices) for more information.
 
 GSA's Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).
