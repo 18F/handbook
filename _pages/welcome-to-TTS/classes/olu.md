@@ -27,7 +27,7 @@ Required classes will be assigned in OLU and pushed individually to the OLU home
 ### Affects Designated Employees and other Compliance Tasks
 * Telework Training
 
-*NOTE: GSA OLU training material sometimes has trouble with certain browsers. We recommend using [VmWare Horizon](/vmware-horizon) and Internet Explorer or, on Mac, Safari, to ensure successful course completion and documentation.*
+*NOTE: GSA OLU training material sometimes has trouble with certain browsers. We recommend using [VmWare Horizon]({{site.baseurl}}/vmware-horizon) and Internet Explorer or, on Mac, Safari, to ensure successful course completion and documentation.*
 
 
 ## Help with OLU
