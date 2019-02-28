@@ -6,7 +6,7 @@ tags:
 - mandatory
 ---
 
-The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for mandatory trainings, as well as a repository of recommended and optional training opportunities, for GSA employees. Time spent taking OLU trainings should be coded as `969 - GSA-mandated Non-Billable Work` in [Tock](/tock).
+The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for mandatory trainings, as well as a repository of recommended and optional training opportunities, for GSA employees. Time spent taking OLU trainings should be coded as `969 - GSA-mandated Non-Billable Work` in [Tock]({{site.baseurl}}/tock).
 
 
 ## <a id="online-university">Online University (OLU)</a>
@@ -27,7 +27,7 @@ Required classes will be assigned in OLU and pushed individually to the OLU home
 ### Affects Designated Employees and other Compliance Tasks
 * Telework Training
 
-*NOTE: GSA OLU training material sometimes has trouble with certain browsers. We recommend using [VmWare Horizon](/vmware-horizon) and Internet Explorer or, on Mac, Safari, to ensure successful course completion and documentation.*
+*NOTE: GSA OLU training material sometimes has trouble with certain browsers. We recommend using [VmWare Horizon]({{site.baseurl}}/vmware-horizon) and Internet Explorer or, on Mac, Safari, to ensure successful course completion and documentation.*
 
 
 ## Help with OLU
