@@ -1,5 +1,5 @@
 ---
-title: FAS Speaker Guide: How to work with external event organizers
+title: Speaking Guide: How to evaluate invitations from external event organizers
 tag:
 - attend
 - attending
@@ -12,7 +12,7 @@ tag:
 - guide
 ---
 
-This guide was created by GSA's Office of Strategic Communications (OSC) to teach FAS employees how to evaluate invitations from external event organizers.
+*This guide was created with content from the GSA's Office of Strategic Communications (OSC) [FAS Speaker Guide](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit?usp=sharing)*
 
 ## Type of speaking events
 
@@ -50,20 +50,25 @@ Ask yourself the following questions when considering an invitation:
 If you are not familiar with the organization issuing the invitation or with the particular event at which you have been invited to speak, feel free to reach out to our OSC liaison [Drew Jack](mailto:drew.jack@gsa.gov).
 
 ## Professional vs Personal Capacity
+
 When receiving an invitation to speak you need to decide if you want to do the event in your professional or personal capacity:
 
 ### Professional capacity
+
 - You'll participate as a TTS employee and discuss the work you do on behalf of GSA and our partners.
 - You'll be using GSA funds to travel to the event or pay for conference fees
 - You'll prepare during your work time and use GSA equipment
 
 ### Personal capacity
+
+- You didn't receive the invitation because of your position at TTS, but because of your expertise in the subject.
 - You'll not be representing TTS/GSA 
 - You'll refrain from discussing any official work you do at TTS/GSA or with our partners
 - You'll use your personal leave or participate after work hours
 - You'll prepare on your own time and use your own equipment
 
 ## Getting approval when speaking in your professional capacity
+
 If you and your supervisor decide this is a good oportunity for yourself and TTS, arrange a call with the event host and ask them the following questions. You'll need this information for the approval process:
 
 - Who is sponsoring the event?
@@ -74,9 +79,10 @@ If you and your supervisor decide this is a good oportunity for yourself and TTS
 - Is there a fee to attend? Is the fee waived for government attendees/speakers?
 - If it is a panel or roundtable: Who are the other participants? Who is the moderator? What questions will be asked?
 
-Once you have determined you have good reasons to speak and have decided to accept the invitation, you have to get approval to participate. If the invitation is for a media interview, work with GSA’s press office to coordinate. If it is for a public speaking engagement -- with or without media -- all  requests to attend a conference, including for GSA-hosted conferences, must go through the [speaker approval process] (https://handbook.18f.gov/attending-conferences/).
+Once you have determined you have good reasons to speak and have decided to accept the invitation, you have to get approval to participate. If the invitation is for a media interview, work with GSA’s press office to coordinate. If it is for a public speaking engagement -- with or without media -- all  requests to attend a conference, including for GSA-hosted conferences, must go through the [speaker approval process](https://handbook.18f.gov/attending-conferences/).
 
 ## Guidelines for speaking in your personal capacity
+
 - There is a general prohibition on receiving compensation for personal capacity speaking on a subject that relates to your official duties. Free/waived attendance or registration fee is not compensation.
 - You can accept travel and event-related expenses from the sponsor or organizer, but would also need to take leave to attend.
 - You can use title/position in conjunction with your speaking activities, but only if provided as one of a number of other biographical details. Bottom line is that it should be clear that you are not representing GSA when speaking in your personal capacity.
