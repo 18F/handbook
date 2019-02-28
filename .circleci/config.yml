@@ -28,6 +28,8 @@ jobs:
 
       - run:
           name: checking internal links
+          # grep returns a success code if it finds any results and an error
+          # if it doesn't; we want the opposite of that
           command: '! grep -rl "(/" _pages'
 
       - run:
