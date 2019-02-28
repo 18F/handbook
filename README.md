@@ -88,3 +88,11 @@ To create a new page:
 1. Include a title and links to the "Travel Guide TOC" (see existing pages for reference).
 1. Update the page content.
 * Update the Travel Guide TOC `_pages/policies/travel/travel-guide-table-of-contents.md` with a link to your new page.
+
+### Internal links
+
+For internal links, use `{{site.baseurl}}` in the URL (in place of `https://https://handbook.18f.gov`) to make links work correctly in Federalist previews as well as in production.
+
+:sparkles: **Good:** `({{site.baseurl}}/code-of-conduct/)`
+
+:no_entry_sign: **Instead of:** `(/code-of-conduct/)`
