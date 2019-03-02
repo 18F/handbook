@@ -1,6 +1,5 @@
 ---
 title: Resources for Deaf and Hard of Hearing individuals in TTS
-tags:
 
 ---
 
