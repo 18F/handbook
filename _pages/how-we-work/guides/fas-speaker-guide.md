@@ -1,5 +1,5 @@
 ---
-title: Speaking Guide: How to evaluate invitations from external event organizers
+title: Guidelines for speaking at events
 tag:
 - attend
 - attending
@@ -14,22 +14,19 @@ tag:
 
 *This guide was created with content from the GSA's Office of Strategic Communications (OSC) [FAS Speaker Guide](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit?usp=sharing)*
 
-## Type of speaking events
+## Receiving invitations
 
-A few notes about the types of speaking engagements you might receive and how to process them:
+Below is the process you'll need to follow when receving an interview or speaking request, even if you're not interested in participating.
 
-### Media requests.
-If you are contacted by a newspaper, tv station, radio station, podcast, or blog, send directly to press@gsa.gov. It’s okay to respond to the sender (cc-ing press@gsa.gov) thanking them for the invite and letting them know that press@gsa.gov will handle the request.
+### Media interview requests
+If you're contacted by a newspaper, TV station, radio station, podcast, or blog, send the request directly to press@gsa.gov. It’s okay to respond to the sender (cc-ing press@gsa.gov) thanking them for the invite and letting them know that the GSA Press team will handle the request.
 
-### Formal invites.
-This includes requests to speak at customer events such as an agency’s acquisition conference and/or industry request. They all require formal approvals as outlined in the [approvals guide](https://handbook.18f.gov/attending-conferences/).
-
-### Less formal requests.
-Invitations to speak at a college class (or any educational institution) or anything you’re doing in your official capacity as a GSA employee (where you will be identified as working for GSA) requires approvals outlined in the [approvals guide](https://handbook.18f.gov/attending-conferences/).
+### Other speaking requests
+For all requests that are not interviews, forward the invitation to speakers@gsa.gov. This is just for the Outreach team's visibility, and it's not part of the approval process. Invitations that fall in this category include requests to speak at customer events such as an agency’s acquisition conference and/or industry request, conferences, college classes, or anything you’re doing in your official capacity as a GSA employee (where you will be identified as working for GSA). 
 
 ## Accepting invitations
 
-The first step when you get an invitation to speak is to decide whether or not to accept the invitation. Talk with your supervisor and challenge yourself to come up with good reasons to speak rather than having no good reasons not to speak. It is always okay to politely decline speaking invitations. 
+The first step when you get an invitation to speak is to decide whether or not to accept the invitation. Talk with your supervisor and challenge yourself to come up with good reasons to speak rather than having no good reasons not to speak. It's always okay to politely decline speaking invitations. 
 
 Ask yourself the following questions when considering an invitation:
 
@@ -45,13 +42,13 @@ Ask yourself the following questions when considering an invitation:
 - Do I have time to get this approved? (Allow at least 20 days.)
 - Is there a conflict or the appearance of a conflict of interest speaking at this event?
 - Does the organization do business or seek to do business with GSA?
-- Should I do this event on my personal capacity?
+- Should I do this event in my personal capacity?
 
 If you are not familiar with the organization issuing the invitation or with the particular event at which you have been invited to speak, feel free to reach out to our OSC liaison [Drew Jack](mailto:drew.jack@gsa.gov).
 
-## Professional vs Personal Capacity
+## Professional vs personal capacity
 
-When receiving an invitation to speak you need to decide if you want to do the event in your professional or personal capacity:
+When receiving an invitation to speak, you need to decide if you want to do the event in your professional or personal capacity:
 
 ### Professional capacity
 
@@ -79,13 +76,13 @@ If you and your supervisor decide this is a good oportunity for yourself and TTS
 - Is there a fee to attend? Is the fee waived for government attendees/speakers?
 - If it is a panel or roundtable: Who are the other participants? Who is the moderator? What questions will be asked?
 
-Once you have determined you have good reasons to speak and have decided to accept the invitation, you have to get approval to participate. If the invitation is for a media interview, work with GSA’s press office to coordinate. If it is for a public speaking engagement -- with or without media -- all  requests to attend a conference, including for GSA-hosted conferences, must go through the [speaker approval process](https://handbook.18f.gov/attending-conferences/).
+Once you have determined you have good reasons to speak and have decided to accept the invitation, you have to get approval to participate. If the invitation is for a media interview, work with GSA’s press office to coordinate. If it is for a public speaking engagement — with or without media — all requests to attend a conference, including for GSA-hosted conferences, must go through the [speaker approval process](https://handbook.18f.gov/attending-conferences/).
 
 ## Guidelines for speaking in your personal capacity
 
 - There is a general prohibition on receiving compensation for personal capacity speaking on a subject that relates to your official duties. Free/waived attendance or registration fee is not compensation.
 - You can accept travel and event-related expenses from the sponsor or organizer, but would also need to take leave to attend.
 - You can use title/position in conjunction with your speaking activities, but only if provided as one of a number of other biographical details. Bottom line is that it should be clear that you are not representing GSA when speaking in your personal capacity.
-- You can include 18F in your bio that is included on the conference website, but you cannot be listed in the agenda as “Dominic Sale, TTS/GSA”
+- You can include your office/team in your bio that is included on the conference website, but you cannot be listed in the agenda as “Dominic Sale, TTS/GSA”
 
 For the FAQ and other things to know check out [the full guide](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit?usp=sharing).
