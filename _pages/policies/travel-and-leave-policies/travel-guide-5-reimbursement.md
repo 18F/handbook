@@ -56,6 +56,8 @@ Expenses can be added by clicking the **Add expense** button either above or bel
 
 Expenses can be edited by clicking the pencil button and then making changes on the right hand side. Don't forget to save any changes you make!
 
+**Payment type** for expenses: Anything paid for on the travel card should be marked as **IBA**, anything paid for using cash or a personal card should be marked as **CASH**. **CBA** is only used for air and rail expenses paid through Concur directly. Make sure you correctly indicate what was paid on the travel card vs personal means of payment to avoid [issues with reimbursement](#issues-with-reimbursement).
+
 Expenses can be deleted by clicking the checkbox next to the expense and then clicking the **Delete selected expenses** button either above or below.
 
 The following expenses can be entered as-is without further receipts, written justifications, or other considerations, provided that each expense is under $75:
@@ -93,7 +95,7 @@ The following is a list of common expenses that are added to vouchers that have 
 
     * [Uncommon Expenses](#uncommon-expenses)
 
-3. [Proceed to submitting your voucher](#iv-submitting-voucher-for-approval)
+3. [Proceed to submitting your voucher](#submitting-voucher-for-approval)
 
 
 #### Airfare or Rail
@@ -108,7 +110,9 @@ The blue icon under **Source** means that it was paid for via Concur. No further
 
 * **For example**: Consider a trip taken between 9/16 and 9/18. M&IE is $69 per day in DC, and is 75% of $69 ($51.75) on the first and last days of a trip. **We see that the three days of M&IE has been added automatically.** Nothing else to do here.
 
-#### Extra days at personal expense
+##### 
+
+##### Extra days at personal expense
 
 If you were authorized to extend your trip at your own expense and need to delete M&IE, there are some special instructions that you should follow:
 
@@ -118,7 +122,7 @@ If you were authorized to extend your trip at your own expense and need to delet
 
 3. Choose **M&IE Override**, then **Override by amount**, and **0**.
 
-4. Check **On leave**. Use **Other leave**, **9 hours**.
+4. Check **On leave**. Use **Other leave**, **8 hours**.
 
 5. If you are requesting leave for multiple days, return to the top and enter in the last *full* day you are traveling at personal expense.
 
@@ -258,5 +262,39 @@ Congrats!!! Your voucher has been submitted. You don’t even have to click the 
 Your voucher will be reviewed by a member of the TTS travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
 
 Direct deposit was set up when you provided your banking info to the travel team when they booked your first trip (likely for your orientation at one of the GSA offices). You should see a reimbursement 3-5 business days after the voucher is approved.
+
+#### Issues with reimbursement
+
+##### Outstanding balance on travel card
+
+Q: I've been sent a bill for an outstanding balance on my travel card bill. What do I do?
+
+A: First, verify that your most recent voucher was paid to the travel card account. Go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **View Summary**. In the voucher view, navigate down to the **Totals and travel advances** section and verify the amount on the **Pay to Charge Card** line. This amount should match with a payment made to the travel card in your travel card statement. [[need help accessing this?]]() If it does, and there is still a remaining balance, it is likely that you used the travel card to pay for something that was either claimed as **CASH** on the voucher, or not claimed at all. 
+
+If you discover a valid charge to your travel card that you need to be reimbursed for after your voucher is initially approved, you may create an [amended voucher](#amended-vouchers).
+
+If you were reimbursed to your bank account for a charge made on your travel card, you will have to pay the bill for it. Contact the number on the back of your travel card for details on how payment can be made.
+
+##### Positive balance on travel card
+
+If you have a positive balance on the travel card, it is likely that you claimed an expense as paid for on the travel card when you actually paid for it via a personal means of payment. You can call the number on the back of your travel card and request that they mail you a check in the amount of the positive balance.
+
+##### My reimbursement never arrived!
+
+If it has been over a week after your voucher has been approved and your reimbursement hasn't arrived (whether to your travel card account or personal account), contact kc-travel.finance@gsa.gov and describe the issue you are having. cc tts-travel@gsa.gov.
+
+##### Amended vouchers
+
+To amend a voucher, go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **Amend voucher**. Provide a brief reason for the amendment, then proceed with [adding your revised expenses](#entering-expenses) and [resubmitting for approval](#submitting-voucher-for-approval).
+
+**Note:** vouchers should NOT be amended in the case of revising the payment method ([IBA to CASH](#positive-balance-on-travel-card) or [vice versa](#outstanding-balance-on-travel-card)), or reducing a claim on an already-approved expense. If you were over-reimbursed for something, you will need to mail a check for that amount, made out to GSA to the following address:
+
+USDA-OCFO
+Financial Operations & Disbursement Branch
+Attn:  Bryan DeLeve - 2SE
+2300 Main Street
+Kansas City, MO 64108
+
+Reference the auhtorization and voucher number along with the payment.
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
