@@ -26,19 +26,19 @@ Have issues with reimbursements?
 
 After selecting **Voucher from authorization**, you will be led through creating a voucher from your authorization that you got approved prior to traveling.
 
-    * Under Document Search, you’ll see a list of your “open” authorizations (i.e. your authorizations that don’t have vouchers yet).
+* Under Document Search, you’ll see a list of your “open” authorizations (i.e. your authorizations that don’t have vouchers yet).
 
-    * Hit the pencil button to select the authorization you’d like to be reimbursed for. You will be moved onto the next step, [Naming your Voucher](#naming-your-voucher) on the **Document Information** screen.
+* Hit the pencil button to select the authorization you’d like to be reimbursed for. You will be moved onto the next step, [Naming your Voucher](#naming-your-voucher) on the **Document Information** screen.
 
-    * **TIP**: If you can't figure out which authorization is your recent trip by name, look at the departure date column.
+* **TIP**: If you can't figure out which authorization is your recent trip by name, look at the departure date column.
+    
+Once you've selected your authorization and continue, you'll be taken to the **Document Information** page. This should all be autopopulated, so unless some of the details of your trip changed, no further action is required here and you may continue on to **Create Document** and start [adding your expenses](#entering-expenses).
 
 ##### I can't find my authorization listed here
 
 If you can't find your authorization on this list, it may be because an amended authorization was generated for you. If you changed your trip such that trip dates or locations fall outside what was originally approved, you'll need to [submit that amended auth for approval]() by going to the **Authorizations** tab, selecting the amended authorization corresponding to your trip, and going in to **Open Document**. 
 
 However, in some cases, Concur will generate an amendement in error. If you suspect this is the case, head to the **Authorizations** tab, select the amended authorization corresponding to your trip, and **Delete Document**
-
-Once you've selected your authorization and continue, you'll be taken to the **Document Information** page. This should all be autopopulated, so unless some of the details of your trip changed, no further action is required here and you may continue on to **Create Document** and start [adding your expenses](#entering-expenses).
 
 #### Local and miscellaneous vouchers
 
