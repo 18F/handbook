@@ -32,6 +32,12 @@ After selecting **Voucher from authorization**, you will be led through creating
 
     * **TIP**: If you can't figure out which authorization is your recent trip by name, look at the departure date column.
 
+##### I can't find my authorization listed here
+
+If you can't find your authorization on this list, it may be because an amended authorization was generated for you. If you changed your trip such that trip dates or locations fall outside what was originally approved, you'll need to [submit that amended auth for approval]() by going to the **Authorizations** tab, selecting the amended authorization corresponding to your trip, and going in to **Open Document**. 
+
+However, in some cases, Concur will generate an amendement in error. If you suspect this is the case, head to the **Authorizations** tab, select the amended authorization corresponding to your trip, and **Delete Document**
+
 Once you've selected your authorization and continue, you'll be taken to the **Document Information** page. This should all be autopopulated, so unless some of the details of your trip changed, no further action is required here and you may continue on to **Create Document** and start [adding your expenses](#entering-expenses).
 
 #### Local and miscellaneous vouchers
