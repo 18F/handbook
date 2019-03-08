@@ -14,7 +14,7 @@ Only authorized management may alter or modify any of the policies in this Emplo
 
 ## Equal Employment
 
-CivicActions provides equal employment opportunities and administers all aspects and conditions of employment without regard to race, religion, color, gender, sexual orientation, pregnancy, age, national origin, ancestry, physical or mental disability, severe/morbid obesity, medical condition, military or veteran status, genetic information, marital status, ethnicity, alienage or any other protected classification, in accordance with applicable federal, state, and local laws. CivicActions takes allegations of discrimination, intimidation, harassment and retaliation very seriously and will promptly conduct an investigation when warranted.
+CivicActions provides equal employment opportunities and administers all aspects and conditions of employment without regard to age, race, color, national origin, gender (including pregnancy, childbirth or medical condition related to pregnancy or childbirth), gender identity or expression, sexual orientation, religion, physical or mental disability, medical condition, genetic information, marital status, veteran status, military status or any other protected classification, in accordance with applicable federal, state, and local laws. CivicActions takes allegations of discrimination, intimidation, harassment and retaliation very seriously and will promptly conduct an investigation when warranted.
 
 Equal employment opportunity includes, but is not limited to, employment, training, promotion, demotion, transfer, leaves of absence, and termination.
 
