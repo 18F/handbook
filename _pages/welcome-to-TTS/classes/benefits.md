@@ -14,7 +14,12 @@ Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) to submit your [be
 ### Current employees
 Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) when you're submitting documents due to a change in life event (such as getting married or having a child).
 
-Phyllis's contact information can be found by searching the [staff directory](https://insite.gsa.gov/portal/staffDirectory/searchInsiteStaffDirectory) or reaching out to [#talent](https://gsa-tts.slack.com/messages/talent).
+You can find these documents by logging onto HR Links and selecting the following:
+- Benefits Library icon 
+- Forms Center
+- Select "Health Benefits Enrollment"
+  - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes.."
+- Once you click "Submit" the documents get sent to the cpc benefits team where they can review and process these actions
 
 *NOTE:* When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).
 
@@ -25,7 +30,7 @@ Contact [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) for questions re
 Find us in Slack:
 
 - [#benefits](https://gsa-tts.slack.com/messages/benefits)
-- [#talent](https://gsa-tts.slack.com/messages/talent)
+
 
 ## Credit union
 
