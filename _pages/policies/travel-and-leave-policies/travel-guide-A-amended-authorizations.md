@@ -3,8 +3,8 @@ title: Appendix A - Amended authorizations
 navtitle: Amended Authorizations
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Landing Page](/travel-guide-start-here)
+[TOC](/travel-guide-table-of-contents) <br>
+[Back to Landing Page](/travel-guide-start-here) <br>
 [Jump to Choose your Itinerary](/travel-guide-2-choose-your-itinerary)
 
 Sometimes, travel plans change. Fortunately, Concur, AdTrav, your carriers, your authorizing officials, and the TTS travel team are ready for that! How changes can be accommodated depends on when and how the changes occurred:
