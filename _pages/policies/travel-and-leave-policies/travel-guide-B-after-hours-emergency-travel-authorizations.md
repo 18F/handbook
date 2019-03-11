@@ -3,8 +3,8 @@ title: Appendix B - After-hours emergency travel authorizations
 navtitle: After-hours emergency travel authorizations
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Landing Page](/travel-guide-start-here)
+[TOC](/travel-guide-table-of-contents) <br>
+[Back to Landing Page](/travel-guide-start-here) <br>
 [Jump to Travel](/travel-guide-4-travel)
 
 If the need to travel arises after-hours, or if you forgot to stamp and submit so your authorization was never approved, you may still be able to get your travel arrangements approved if your authorizing official is available to sign your completed [GSA form 87](https://www.gsa.gov/cdnstatic/GSA87-14c.pdf?forceDownload=1). You will need to call AdTrav at 877-472-6716 to make all arrangements and later submitted the signed GSA form 87 to gvtagents@adtrav.com.
