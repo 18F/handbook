@@ -39,7 +39,7 @@ Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to s
             - Fill out this [form](https://www.transportation.gov/sites/dot.gov/files/docs/GSA_Guide_to_Regristration_0.pdf)
             - Send an email to [gsa-transit-subsidy@gsa.gov](mailto:gsa-transit-subsidy@gsa.gov) requesting elevation to supervisor status
         * Transit Coordinator: 
-            * DC employees: **CO-Transit Subsidy** 
+            * DC employees: **FAS-Transit Subsidy** 
             * Other regions: consult the [transit subsidy coordinators list](https://insite.gsa.gov/topics/hr-pay-and-leave/benefits/transit-subsidy/transit-subsidy-coordinators)
         * Point of Contact: 
             * DC employees: **Central Office FAS Transit Subsidy**
