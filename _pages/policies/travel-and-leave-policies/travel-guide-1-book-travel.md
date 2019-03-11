@@ -11,9 +11,9 @@ If you have been [set up in Concur](/first-time-travel-get-in-concur-post-olu) a
 
 ***Note** If you've applied for your travel card but haven't received it yet OR your estimated departure is less than 72 hours away, **Call AdTrav at (877) 472-6716 to make your reservations!**
 
-*If you don't yet have a travel card, hotels will be charged against a personal credit or debit card, but flights or rail      will be charged directly to the GSA.*
+*If you don't yet have a travel card, hotels will be charged against a personal credit or debit card, but flights or rail will be charged directly to the GSA.*
 
-***Also, You'll still need to take action in Concur** about an hour after your call with AdTrav. Skip ahead and read on [here]        (/#complete-trip-information) for directions on what you will need to do in Concur. [Secure your authorizing official's      approval](/secure-approvals/#secure-authorizing-officials-approval) if you haven't done so already.*
+***Also, You'll still need to take action in Concur** about an hour after your call with AdTrav. Skip ahead and read on [here](/#complete-trip-information) for directions on what you will need to do in Concur. [Secure your authorizing official's approval](/secure-approvals/#secure-authorizing-officials-approval) if you haven't done so already.*
 
 ## How to Book Flight or Rail
 
