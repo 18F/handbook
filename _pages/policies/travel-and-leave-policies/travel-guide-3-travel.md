@@ -2,8 +2,8 @@
 title: Step 4 - Travel
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Trip Approval](/travel-guide-3-approval)
+[TOC](/travel-guide-table-of-contents) <br>
+[Back to Trip Approval](/travel-guide-3-approval) <br>
 [Jump to Reimbursement](/travel-guide-5-reimbursement)
 
 Now for the fun part! Here are a few things to keep in mind when traveling for TTS.
