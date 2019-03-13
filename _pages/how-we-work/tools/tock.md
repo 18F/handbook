@@ -2,6 +2,8 @@
 title: Tock
 ---
 
+We use Tock to track our time.
+
 ## Quick reference for 18F staff
 
 **18F staff should only enter time in the following categories:**
@@ -12,8 +14,6 @@ title: Tock
 - **18F Project work - project ID varies:** The specific projects you're working on.
 
 ## What is Tock, and why do we use it?
-
-We use Tock to track our time.
 
 To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
 

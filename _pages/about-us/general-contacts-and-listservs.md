@@ -13,13 +13,6 @@ Information you might need for filling out GSA forms:
 * **Correspondence symbol:** Q (followed by several other letters, depending on your org/chapter/business unit) [More about correspondence symbols](https://insite.gsa.gov/topics/about-us/correspondence-symbols). Find yours by searching the [GSA directory](https://www.gsa.gov/staff-directory).
 * **Telework Agreement Location:** 00
 
-## Team contact information
-
-- [TTS Emergency Contact Info](https://docs.google.com/spreadsheets/d/1-Hhv5S0M03W4JY1k-CM5vxrZildHUdMaxAoqLTWF2Ts/edit#gid=54359566) and [TTS telephone directory](https://docs.google.com/spreadsheets/d/1d3Eom-marGFCQHEn5JcZfONO8lSBdhxde16hpqCNchs/edit) (our phone numbers, email addresses, team listserves, and more)
-- [Presidential Innovation Fellows (PIFs) contact info](https://docs.google.com/spreadsheets/d/1ejzCQLvRVaMjw1V-WOH_iabRd9dAT_mccaxrbJCNOQQ/edit#gid=1628534837)
-- [18F #alumni channel](https://gsa-tts.slack.com/messages/alumni/)
-- [18F info for press](https://18f.gsa.gov/press/)
-
 ## Offices
 
 **Washington, D.C.**: [1800 F St. NW. 20405](http://www.gsa.gov/portal/content/135679) | GSA region: [11](http://www.gsa.gov/portal/category/20983) | [Office Guide]({{site.baseurl}}/washington-dc)

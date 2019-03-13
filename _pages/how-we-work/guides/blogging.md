@@ -5,26 +5,13 @@ tag:
 - guide
 ---
 
-This guide helps 18F employees through the blogging process and assists
-them in properly framing their post so that it’s concise, readable, and
-achieves its goals. If you have any questions, ask them in \#blog or by
-email to [18f-outreach@gsa.gov](mailto:18f-outreach@gsa.gov).
+This guide helps 18F employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. If you have any questions, ask them in \#blog or by email to [18f-outreach@gsa.gov](mailto:18f-outreach@gsa.gov).
 
-Everyone at 18F is encouraged to contribute to [our blog](https://18f.gsa.gov/blog/). We value a
-diversity of voices and positions. You don’t have to be a project lead,
-be in management, or even be at 18F for a set amount of time to draft a
-post. If you’ve got an idea that you think will help advance 18F’s mission,
-we’d love to hear it.
+Everyone at 18F is encouraged to contribute to [our blog](https://18f.gsa.gov/blog/). We value a diversity of voices and positions. You don’t have to be a project lead, be in management, or even be at 18F for a set amount of time to draft a post. If you’ve got an idea that you think will help advance 18F’s mission, we’d love to hear it.
 
-## Blog Mission Brief
+## Blog mission brief
 
-The 18F blog is a place where we share what we’ve learned, what we’ve
-made, and what we do in an accessible, public way. We work in the open
-and share information that makes our work understandable and usable. We
-write frankly about the challenges we encounter and detail the lessons
-we learn when making tough decisions. We hope to lead by example, showing that
-government agencies can be straightforward and friendly in their
-communication.
+The 18F blog is a place where we share what we’ve learned, what we’ve made, and what we do in an accessible, public way. We work in the open and share information that makes our work understandable and usable. We write frankly about the challenges we encounter and detail the lessons we learn when making tough decisions. We hope to lead by example, showing that government agencies can be straightforward and friendly in their communication.
 
 In sum, our goals are:
 
@@ -35,29 +22,17 @@ In sum, our goals are:
 
 ### Execution
 
-Our publications adhere to [18F’s Content Guide](https://pages.18f.gov/content-guide/), actively promoting a
-unified style and a multitude of voices. The Outreach Team
-determines editorial strategy; that team also oversees the drafting and
-editing processes.
+Our publications adhere to [18F’s Content Guide](https://pages.18f.gov/content-guide/), actively promoting a unified style and a multitude of voices. The Outreach Team determines editorial strategy; that team also oversees the drafting and editing processes.
 
-The blog is further supported by volunteer writers across 18F. Team
-contributions (idea generation, drafting, giving interviews) are key to
-its success. We accept pitches for blog ideas from everyone on the 18F
-team [in a working GitHub
-repository.](https://github.com/18f/blog-drafts)
+The blog is further supported by volunteer writers across 18F. Team contributions (idea generation, drafting, giving interviews) are key to its success. We accept pitches for blog ideas from everyone on the 18F team [in a working GitHub repository.](https://github.com/18f/blog-drafts)
 
 ### Risks and concerns
 
-We assess every post to ensure it adheres to our mission, as outlined
-above. Being this open about all aspects of our work is atypical for a
-government agency, and, accordingly, we expect to proactively share our
-reasoning for why we make certain editorial decisions. We acknowledge
-the need to show strategy and data that supports our ambition.
+We assess every post to ensure it adheres to our mission, as outlined above. Being this open about all aspects of our work is atypical for a government agency, and, accordingly, we expect to proactively share our reasoning for why we make certain editorial decisions. We acknowledge the need to show strategy and data that supports our ambition.
 
 
 ## Blog management
-We use a combination of a [private GitHub
-repo](https://github.com/18f/blog-drafts), a [private kanban board](https://github.com/18F/blog-drafts/projects/1), and an [editorial calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_pkkbf53u1m6is9gi76v1l8i5j8%40group.calendar.google.com&ctz=America/New_York) to manage the blog editing and approval process. Blog posts are drafted in Google Docs, editing is managed in GitHub, the process is tracked with the kanban board, and posts are scheduled on the calendar. We discuss all of this in the #blog Slack channel.
+We use a combination of a [private GitHub repo](https://github.com/18f/blog-drafts), a [private kanban board](https://github.com/18F/blog-drafts/projects/1), and an [editorial calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_pkkbf53u1m6is9gi76v1l8i5j8%40group.calendar.google.com&ctz=America/New_York) to manage the blog editing and approval process. Blog posts are drafted in Google Docs, editing is managed in GitHub, the process is tracked with the kanban board, and posts are scheduled on the calendar. We discuss all of this in the #blog Slack channel.
 
 Head over to the [blog-drafts README](https://github.com/18F/blog-drafts/blob/master/README.md) for detailed instructions on how to get your blog post published, correctly fill out blog post metadata, and rules for tagging.
 
@@ -65,86 +40,39 @@ Head over to the [blog-drafts README](https://github.com/18F/blog-drafts/blob/ma
 
 ### Keep it user centered
 
-Blog posts should offer something to the reader, whether that’s a new
-tool for them to use, a guide they can use to improve their own work, or
-educational information about a complicated topic or process. You should begin with the thing your readers should take away from your post, and why it matters to them.
+Blog posts should offer something to the reader, whether that’s a new tool for them to use, a guide they can use to improve their own work, or educational information about a complicated topic or process. You should begin with the thing your readers should take away from your post, and why it matters to them.
 
-Sometimes the process of building something or tackling a particularly
-thorny challenge is what makes a post worth writing, but those posts
-should still be framed around offering techniques to your readers.
-Spending too much time saying a problem was difficult and that we solved
-it isn’t helpful to the reader unless we also offer a solution so they
-can avoid this problem in their own work.
+Sometimes the process of building something or tackling a particularly thorny challenge is what makes a post worth writing, but those posts should still be framed around offering techniques to your readers. Spending too much time saying a problem was difficult and that we solved it isn’t helpful to the reader unless we also offer a solution so they can avoid this problem in their own work.
 
 ### If it feels like a marathon, make it a series
 
-Our mission is broad, but our strategy is small steps. This applies to
-how we build products and how we
-blog. No single post is going to cover the breadth of a topic or
-completely convince an agency to adopt our practices. **The goal of a
-blog post should be to communicate one idea clearly, and make it short
-and readable enough for your audience to read the whole thing**. It’s
-likely that as you're writing a post, all kinds of details and new
-ideas will pop into your head. Consider breaking up your post into a series that will bring the reader
-along to learn a new skill or gain a deep understanding of how a product
-was built.
+Our mission is broad, but our strategy is small steps. This applies to how we build products and how we blog. No single post is going to cover the breadth of a topic or completely convince an agency to adopt our practices. **The goal of a blog post should be to communicate one idea clearly, and make it short and readable enough for your audience to read the whole thing**. It’s likely that as you're writing a post, all kinds of details and new ideas will pop into your head. Consider breaking up your post into a series that will bring the reader along to learn a new skill or gain a deep understanding of how a product was built.
 
 ### Write a user story to determine your audience
 
-It’s crucial to decide on your target audience before you start drafting
-a blog post. “General public” or
-“the federal government” is too broad of an audience to be useful. Clearly defining your audience will help you determine length, technical
-detail, tone, how much background you need to include, and what ask you
-will include at the end. You can help define the audience and goal of
-your post by creating a [user
-story](https://en.wikipedia.org/wiki/User_story).
+It’s crucial to decide on your target audience before you start drafting a blog post. “General public” or “the federal government” is too broad of an audience to be useful. Clearly defining your audience will help you determine length, technical detail, tone, how much background you need to include, and what ask you will include at the end. You can help define the audience and goal of your post by creating a [user story](https://en.wikipedia.org/wiki/User_story).
 
 For this type of user story, you can use this simple format:
 
->As a *type of audience*, I want *to learn something*, so that
-*some benefit is had*.
+>As a *type of audience*, I want *to learn something*, so that *some benefit is had*.
 
-If you’re writing about a new service that 18F is offering, your user
-story might be:
+If you’re writing about a new service that 18F is offering, your user story might be:
 
->“As a *Chief Information Officer*, I want *to learn about the specifics
-of 18F’s new service*, so that *I can see if it will help me modernize
-my agency’s technology*.”
+>“As a *Chief Information Officer*, I want *to learn about the specifics of 18F’s new service*, so that *I can see if it will help me modernize my agency’s technology*.”
 
-This narrow focus will help you decide a number of things. Because your
-audience is federal technologists, you can assume a certain familiarity
-with government processes and terms. This allows you to go a little
-deeper into government procedure and some of the nitty-gritty of how
-this product works. You might also choose to use a slightly more formal
-tone for this post since this could be the opening message in a
-businesses conversation.
+This narrow focus will help you decide a number of things. Because your audience is federal technologists, you can assume a certain familiarity with government processes and terms. This allows you to go a little deeper into government procedure and some of the nitty-gritty of how this product works. You might also choose to use a slightly more formal tone for this post since this could be the opening message in a businesses conversation.
 
-If you’re writing about a new little tool you built while working on a
-larger project, your user story might be:
+If you’re writing about a new little tool you built while working on a larger project, your user story might be:
 
->“As a *member of the open source community*, I want *to
-know what this tool does*, so that *I can contribute
-back to the code*.”
+>“As a *member of the open source community*, I want *to know what this tool does*, so that *I can contribute back to the code*.”
 
-Using this framework for your post, you can be more technical, more
-enthusiastic about your small solution, and use a more informal tone
-appropriate for the open source community. You would also be sure to
-include links for readers who want to dive into the code and get
-involved.
+Using this framework for your post, you can be more technical, more enthusiastic about your small solution, and use a more informal tone appropriate for the open source community. You would also be sure to include links for readers who want to dive into the code and get involved.
 
 ## Outline templates
 
-You’ll likely have half a dozen ideas for blog posts for every project
-you work on. Creating an outline is a great way to move from a jumble of
-ideas into something you can get down into text.
+You’ll likely have half a dozen ideas for blog posts for every project you work on. Creating an outline is a great way to move from a jumble of ideas into something you can get down into text.
 
-Below are a number of outlines for the types of blog posts we typically
-write at 18F. Give it a read, and see if any of them match up with what
-you’d like to communicate. The goal of these templates is to help you
-refine your idea, not to fit your writing into a rigid format. Feel free
-to modify the structure and change the section headings to be specific
-to your writing. As you’ll see, many of the linked examples only loosely
-follow these formats.
+Below are a number of outlines for the types of blog posts we typically write at 18F. Give it a read, and see if any of them match up with what you’d like to communicate. The goal of these templates is to help you refine your idea, not to fit your writing into a rigid format. Feel free to modify the structure and change the section headings to be specific to your writing. As you’ll see, many of the linked examples only loosely follow these formats.
 
 ### Writing about products
 
@@ -269,50 +197,23 @@ follow these formats.
 
 ## Authorship
 
-The authors listed on a blog post should be only the people who have
-actively contributed significant portions of text to the blog post.
-Generally, posts should only be written by one or two people. Limiting
-the number of people who write a post makes it feel more personal and
-less written by committee, allows for a stronger voice in the writing,
-and helps speed up the editing and approval process.
+The authors listed on a blog post should be only the people who have actively contributed significant portions of text to the blog post. Generally, posts should only be written by one or two people. Limiting the number of people who write a post makes it feel more personal and less written by committee, allows for a stronger voice in the writing, and helps speed up the editing and approval process.
 
 ### Multiple authors
 
 Some posts may have significant amounts of text written by more than two people, in which case every contributor should be listed as an author.
 
-Team members who contributed editing, criticism, quotes, images, or
-small amounts of text should not be included as authors. You should also
-not include people as authors if they worked on a project but did not
-write the post. If there are people who contributed to a project or who
-helped make a blog post a reality (for example, by helping with idea
-generation, design, or editing), you can thank them with an italicized
-section at the bottom of the post.
+Team members who contributed editing, criticism, quotes, images, or small amounts of text should not be included as authors. You should also not include people as authors if they worked on a project but did not write the post. If there are people who contributed to a project or who helped make a blog post a reality (for example, by helping with idea generation, design, or editing), you can thank them with an italicized section at the bottom of the post.
 
-If a post has multiple authors, then it should only use plural pronouns
-(we, our). Team members who are listed as authors should not be referred
-to by name or quoted in the text of the post since the post is already
-being attributed to them.
+If a post has multiple authors, then it should only use plural pronouns (we, our). Team members who are listed as authors should not be referred to by name or quoted in the text of the post since the post is already being attributed to them.
 
 ### Guest authors
 
-The 18F blog welcomes guest authors from other government agencies. They're especially good for highlighting the innovative work happening
-around the government, getting a different perspective on 18F projects,
-and for showing how agencies are adapting our tools for their own use.
-Our blog team is happy to work with guest authors to develop
-an idea and edit their writing. We'll work to support their tone and
-voice, but all posts on the 18F blog will follow our [Content
-Guide](https://pages.18f.gov/content-guide/). Posts from guest authors
-will have to go through the communications approval process at their
-agency as well as at 18F and GSA.
+The 18F blog welcomes guest authors from other government agencies. They're especially good for highlighting the innovative work happening around the government, getting a different perspective on 18F projects, and for showing how agencies are adapting our tools for their own use. Our blog team is happy to work with guest authors to develop an idea and edit their writing. We'll work to support their tone and voice, but all posts on the 18F blog will follow our [Content Guide](https://pages.18f.gov/content-guide/). Posts from guest authors will have to go through the communications approval process at their agency as well as at 18F and GSA.
 
 ### No authors
 
-On occasion, it can be useful to have posts written by 18F as an
-organization rather than as an individual. We may use this for posts
-that explain fundamental concepts of our business or culture where many
-team members contributed writing and editing. Posts with 18F as an
-author have a more formal and authoritative tone and are about
-statements of policy or fact rather than opinions.
+On occasion, it can be useful to have posts written by 18F as an organization rather than as an individual. We may use this for posts that explain fundamental concepts of our business or culture where many team members contributed writing and editing. Posts with 18F as an author have a more formal and authoritative tone and are about statements of policy or fact rather than opinions.
 
 ---
 

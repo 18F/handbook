@@ -352,9 +352,6 @@ navigation:
       - text: Social media
         url: social-media/
         internal: true
-      - text: Blogging
-        url: blogging/
-        internal: true
   - text: TTS Office of Acquisition
     children:
     - text: Overview of OA
@@ -438,6 +435,12 @@ navigation:
         internal: false
     - text: 18F Team Resources
       children:
+      - text: Before you ship
+        url: https://before-you-ship.18f.gov/infrastructure/aws/
+        internal: false
+      - text: Blogging
+        url: blogging/
+        internal: true
       - text: Bookmarks
         url: bookmarks/
         internal: true
@@ -447,14 +450,11 @@ navigation:
       - text: One-on-ones
         url: one-on-ones/
         internal: true
-      - text: Out of office expectations
-        url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
-        internal: false
-      - text: Before you ship
-        url: https://before-you-ship.18f.gov/infrastructure/aws/
-        internal: false
       - text: Open source
         url: https://github.com/18F/open-source-policy/blob/master/policy.md
+        internal: false
+      - text: Out of office expectations
+        url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
         internal: false
       - text: Time tracking and billing <br><br>
         url: https://handbook.18f.gov/tock/#time-tracking-and-billing
