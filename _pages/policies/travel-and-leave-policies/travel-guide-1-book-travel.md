@@ -17,7 +17,7 @@ If you have been [set up in Concur](/first-time-travel-get-in-concur-post-olu) a
 
 ## How to Book Flight or Rail
 
-#### Entering Your Destination and Departure Cities
+#### Enter your Destination, then Origin
 
 1. Go to Concur at [travel.gsa.gov](http://travel.gsa.gov)
 
@@ -52,13 +52,13 @@ When choosing flights, you may notice they fall into four different categories:
 
 * **Non-contract Government:** these fares are also acceptable to book if the timing is more advantageous. All these fares are within the City Pair rate and are fully refundable. No additional approvals are required to book a non-contract government fare.
 
-* **Lowest published:** while these fares may come at a lower cost than the contract options, they also come at increased risk to the government because many of these fares are nonrefundable. Any flight that is nonrefundable must be explicitly approved by the authorizing official before the TTS travel team can approve. If you think that choosing a "Lowest published" nonrefundable fare is your best option, skip ahead to securing your approval email now, and then come back to book later. You'll want to ensure you secure the approval before you book because these fares expire quickly, often before authorizing official and travel team approval can be reasonably obtained.
+* **Lowest published:** while these fares may come at a lower cost than the contract options, they also come at increased risk to the government because many of these fares are nonrefundable. Any flight that is nonrefundable must be explicitly approved by the authorizing official before the TTS travel team can approve. If you think that choosing a "Lowest published" nonrefundable fare is your best option, skip ahead to [securing your approval email now](/travel-guide-2-secure-approvals), and then come back to book later. You'll want to ensure you secure the approval before you book because these fares expire quickly, often before authorizing official and travel team approval can be reasonably obtained.
 
 ***Note about flights with policy violations:**
 
 If you need to take a flight which indicates a policy violation, the type of violation will inform what steps you need to take next. Click on "View Fares" to pull up additional details about your flight selection.
 
-If any part of the fare that you chose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email approving the risk of nonrefundable airfare and/or additional costs from your director or client (if travel is in service of a client outside of TTS), sent to tts-travelauths@gsa.gov.
+If any part of the fare that you chose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email approving the risk of nonrefundable airfare and/or additional costs from [your authorizing official](/travel-guide-2-secure-approvals/#who-is-my-authorizing-official-and-what-is-my-budget) sent to tts-travelauths@gsa.gov.
 
 [What justifies using a non-contract fare?](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#i1204997)
 
@@ -155,7 +155,7 @@ Once you have reserved your rental car, continue on to [complete trip informatio
 
 On the **Trip Booking Information** page you must enter some general information in order to ensure that your trip gets billed to the right client and/or budget.
 
-***Note:** If you called Ad Trav to book travel, you'll need to open [Concur](https://travel.gsa.gov) no sooner than an hour after your initial call to AdTrav, going to the **Authorizations** tab, clicking on your authorization, and selecting **Edit Authorization**. This will open up the document, where you can go to the **General** tab and see the fields that are presented below:
+***Note:** If you called Ad Trav to book travel, you'll need to open [Concur](https://travel.gsa.gov) about an hour after your initial call to AdTrav, going to the **Authorizations** tab, clicking on your authorization, and selecting **Edit Authorization**. This will open up the document, where you can go to the **General** tab and see the fields that are presented below:
 
 ### How to Complete Your Trip Information 
 
