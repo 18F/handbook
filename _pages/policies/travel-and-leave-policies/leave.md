@@ -147,7 +147,7 @@ If the system is down, you can submit donation requests directly to Lakita River
 
 An employee may only take advanced annual leave in the amount they will earn back by the end of the current leave year, and the advanced leave may not exceed 80 hours.
 
-Please note: You may receive a "medium" notice/exception in HRLinks that "term employees cannot go into the negative with leave balances." Policy allows the approval of advance leave for employees on limited appointments, but the amount of advance leave approved must not exceed the NTE or end of the leave year. The system will always give you an exception message when your leave balance is in the negative. Please make a remark in the comment box to note the approval of advance leave.
+Please note: You may receive an exception in HRLinks that "temporary appointment employees cannot be advanced annual leave." Policy allows the approval of advance leave for employees on limited appointments, but the amount of advance leave approved must not exceed the NTE or end of the leave year. The system will always give you an exception message when your leave balance is in the negative. When your supervisor goes into the system to approve your time, it is their responsibility to make a remark in the comment box noting their approval of advance leave.
 
 You can find Leave Year beginning and end dates in this Office of Personnel Management (OPM) [fact sheet](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/).
 
