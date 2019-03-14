@@ -65,7 +65,7 @@ Once all of the attachments are in C2, the TTS Saas PM will contact you to set u
 
 ## Get a copy of Microsoft Office
 
-Please follow the instructions in this Google Document: [How to get Microsoft for OS X](https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing.
+Please follow the instructions in this Google Document: [How to get Microsoft for OS X](https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing).
 
 ## Chrome extensions
 
