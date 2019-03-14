@@ -32,7 +32,7 @@ Our weekly all hands call includes everyone across CivicActions, and it's how th
 
 Weekly pod calls help us stay in touch and in tune with each other. These are loosely arranged by time zone, and are generally casual and chatty in tone.
 
-*   Weekly pod calls are Vela, Pyxis, Hydra, Ursa
+*   Weekly pod calls are Vela, Pyxis, Hydra, Ursa, Aries
 *   There is a focus to connect with team members outside your project
 *   Pod calls help us feel connected with the team as a whole
 *   We discuss a topic of common interest or give project updates
