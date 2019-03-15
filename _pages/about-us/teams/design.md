@@ -129,7 +129,7 @@ Every project and team has a different mix of project management tools based on 
 
 We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
 
-- **18F-themed templates:** Access document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Use these styles and templates for communicating about all of your work at 18F, unless your project has its own branded communication materials, like Login.gov or Cloud.gov.
+- **18F-themed templates:** Access document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Unless your project has its own branded communication materials, like login.gov or cloud.gov, use these styles and templates for communicating about all of your work at 18F.  It's often beneficial for partners when we present deliverables with our brand styling, which shows the outside expertise they brought in. It also helps 18F present itself with a unified voice, tone, and look.
 - **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. Come chat in [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend) on slack if you are choosing a framework for something.
 - **Icons:**
   - The visual design team maintains guidance on [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
@@ -138,7 +138,7 @@ We default to free and open-source assets, unless there is a very, very good rea
   - The visual design team maintains guidance on [government photography resources](https://github.com/18F/visual-design/wiki/Government-photography).
   - You can use `incategory:PD_US_Government` as part of a search query on Wikimedia Commons: [example](https://commons.wikimedia.org/w/index.php?title=Special:Search&profile=default&fulltext=Search&search=incategory%3APD_US_Government+example&uselang=en&searchToken=5902rmnmjz5fivko9172xs74c).
   - While you’re at it, visit the [Department of the Interior’s Instagram](https://instagram.com/usinterior/) stream. You’ll be glad you did.
-- **Typography:** Partner agencies usually have their own style guidance that we stick to. 18F-branded materials should follow typography guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For other needs, we recommend using typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/). Come chat in [#visual-design](https://gsa-tts.slack.com/messages/visual-design) on slack if you are choosing fonts for something.
+- **Typography:** Partner agencies often have their own style guidance that we follow in our work with them. 18F-branded materials should follow typography guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For needs outside these scenarios, typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/) are a safe starting choice. Come chat in [#visual-design](https://gsa-tts.slack.com/messages/visual-design) on slack if you are choosing fonts for something.
 
 ---
 
