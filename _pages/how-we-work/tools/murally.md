@@ -15,3 +15,5 @@ Because Mural is a web application, there’s no installation necessary. You wil
 - Mural consists of “rooms” (for example, FEC) and “murals” (for example, User Research). There’s only one “team:” 18F.
 - Rooms can be public or private to the rest of the team. If rooms within the 18F group are set to public, anyone at 18F can view them. If they’re private, only people specifically invited to them can see them.
 - You can give access to individual boards or rooms to anyone, including people outside of 18F or GSA, and doing so will not give them access to other public rooms without an administrator’s approval.
+- You can add people outside of 18F or GSA as guests to the 18F workspace. Guests have fewer permissions than members. They cannot create rooms, publish templates, or see open rooms. Guests do not cost any money to add, so add your partners! 
+- You can also share a Mural link with your partners and they can join as an anonymous user without having a Mural account of their own. They cannot access the rest of the 18F workspace, but you can invite them to view and edit your Mural.
