@@ -43,6 +43,9 @@ GSA employee (Virtual) if based anywhere else.
 #### Whose signature should I get for the supervisor field?
 That of your functional supervisor.
 
+#### What if I haven't taken the Mandatory IT Security Awareness Training yet?
+Try to take this training (The 2019 GSA Mandatory Cyber Security and Privacy Training) in [OLU](gsaolu.gsa.gov) first. Follow the instructions [here](https://handbook.18f.gov/olu/#help-with-olu) if you need help.
+
 ### Got other questions?
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
