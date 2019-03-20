@@ -1,6 +1,6 @@
 ---
 status: Up-to-date
-updated: May 9, 2017
+updated: Dec 17, 2018
 ---
 
 # Travel 101
