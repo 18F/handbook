@@ -7,15 +7,15 @@ title: Step 1 - Book travel in Concur
 
 ## Brief overview of booking travel
 
-If you have been [set up in Concur](/first-time-travel-get-in-concur-post-olu) and have received your [GSA travel card](/first-time-travel-travel-card), you may go ahead and book [flights, Amtrak](/#book-flight-or-rail), [hotels](/#book-lodging), and [rental cars](/#booking-a-rental-car) (if approved) in [Concur](travel.gsa.gov)*.
+If you have been [set up in Concur](/first-time-travel-get-in-concur-post-olu) and have received your [GSA travel card](/first-time-travel-travel-card), you may go ahead and book [flights, Amtrak](/#how-to-book-flights-or-rail), [hotels](/#booking-lodging), and [rental cars](/#booking-a-rental-car) (if approved) in [Concur](travel.gsa.gov)*.
 
 ***Note** If you've applied for your travel card but haven't received it yet OR your estimated departure is less than 72 hours away, **Call AdTrav at (877) 472-6716 to make your reservations!**
 
 *If you don't yet have a travel card, hotels will be charged against a personal credit or debit card, but flights or rail will be charged directly to the GSA.*
 
-***Also, You'll still need to take action in Concur** about an hour after your call with AdTrav. Skip ahead and read on [here](/#complete-trip-information) for directions on what you will need to do in Concur. [Secure your authorizing official's approval](/secure-approvals/#secure-authorizing-officials-approval) if you haven't done so already.*
+***Also, You'll still need to take action in Concur** about an hour after your call with AdTrav. Skip ahead and read on [here](/#completing-trip-information) for directions on what you will need to do in Concur. [Secure your authorizing official's approval](/secure-approvals/#secure-authorizing-officials-approval) if you haven't done so already.*
 
-## How to Book Flight or Rail
+## How to Book Flights or Rail
 
 #### Enter your Destination, then Origin
 
@@ -25,7 +25,7 @@ If you have been [set up in Concur](/first-time-travel-get-in-concur-post-olu) a
 
 3. Click on the **Air/Rail** icon (this should be already selected). If you need to travel by train only, choose the **Rail** icon instead.
 
-***Note:** If you need to travel by both air and rail, call AdTrav at (877) 472-6716 and they will make your reservations for you. An hour after your call, skip ahead to [this step]() to submit your AdTrav reservation for approval.
+***Note:** If you need to travel by both air and rail, call AdTrav at (877) 472-6716 and they will make your reservations for you. An hour after your call, skip ahead to [this step](/#completing-trip-information) to submit your AdTrav reservation for approval.
 
 4. Type in the name of your destination city in *Temporary Duty Location* search field, and click on the search icon. You must search by city, not address. Select the correct location from the drop-down.
 <img src="/images/travel/2-choose-departure.png" class="travel-guide-hide" alt="choosing destination city">
@@ -87,7 +87,7 @@ If any part of the fare that you chose is nonrefundable, or exceeds the [City Pa
 
 By Chooseing **"I will book a hotel now."** you will be allowed to book your hotel directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile).
 
-***Note**: If you don't have a travel card yet, make sure that you've [applied for one](/first-time-travel-travel-card) (it is required by GSA policy), then choose "I will book a hotel later". Call AdTrav at (877) 472-6716 to reserve your hotel (and rental car if needed) on your personal card in the meantime. Assuming you've already booked your flight or train in Concur, **mention the authorization number associated with your itinerary** so you don't get a second overlapping authorization for your hotel and/or rental car. You can verify your authorization number by going to the "Authorizations" tab in Concur and finding the number in blue on the left side associated with your travel dates. An hour after you call with AdTrav, proceed on to [complete trip information](/#complete-trip-information).
+***Note**: If you don't have a travel card yet, make sure that you've [applied for one](/first-time-travel-travel-card) (it is required by GSA policy), then choose "I will book a hotel later". Call AdTrav at (877) 472-6716 to reserve your hotel (and rental car if needed) on your personal card in the meantime. Assuming you've already booked your flight or train in Concur, **mention the authorization number associated with your itinerary** so you don't get a second overlapping authorization for your hotel and/or rental car. You can verify your authorization number by going to the "Authorizations" tab in Concur and finding the number in blue on the left side associated with your travel dates. An hour after you call with AdTrav, proceed on to [completing trip information](/#completing-trip-information).
 
 #### How to Book a hotel in Concur
 
@@ -126,7 +126,7 @@ Unless there are extenuating circumstances, you should use Concur for all reserv
 
 If you need to book a hotel outside of Concur, check if booking comes with any nonrefundable fees. If it does, make sure that you get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to tts-travelauths@gsa.gov. **Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.** Should booking a hotel in Concur or via AdTrav not be possible, [Fedrooms](fedrooms.com) offers hotels within government maximum rates that have flexible cancellation policies.
 
-When you are finished booking your hotel, proceed on to [complete trip information]((/#complete-trip-information)).
+When you are finished booking your hotel, proceed on to [complete trip information]((/#completing-trip-information)).
 
 ## Booking a Rental Car
 
@@ -149,7 +149,7 @@ Be aware that the rental company you select must participate in the [Defense Tra
 The Government is self-insured and rental vehicles under the DTMO agreement include full coverage for damages resulting from
 an accident while performing official travel. Employees on TDY travel within CONUS will not be reimbursed for collision damage waiver (CDW) or theft insurance available on commercial rental contracts. Employees will be reimbursed for collision damage waiver or theft insurance while on TDY in non-foreign areas in accordance with [FTR §301-10.451](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#d25e5538). Personal liability insurance is considered a personal expense and will not be reimbursed.
 
-Once you have reserved your rental car, continue on to [complete trip information](/#complete-trip-information).
+Once you have reserved your rental car, continue on to [complete trip information](/#completing-trip-information).
 
 ## Completing Trip Information
 
@@ -184,7 +184,7 @@ Examples:
 
 2. Proceed by clicking **Next** to finalize the reservation.
 
-***Note:** You will now see final reservation. Review all of the details and hit **“Confirm booking”** when done.
+***Note:** You will now see the final reservation. Review all of the details and hit **“Confirm booking”** when done.
 <img src="/images/travel/13-confirm-booking.png" class="travel-guide-hide" alt="confirming the booking">
 
 #### Additional step if you booked your hotel outside of Concur or Ad Trav
