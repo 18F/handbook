@@ -124,7 +124,7 @@ Unless there are extenuating circumstances, you should use Concur for all reserv
 
 3. When such travel arrangements are so complex and circumstance will not allow you to book your travel through an online self-service booking tool (Concur).
 
-If you need to book a hotel outside of Concur, check if booking comes with any nonrefundable fees. If it does, make sure that you get your client or your supervisor to approve the approximate amount of what is nonrefundable and send the email to tts-travelauths@gsa.gov. **Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.** Should booking a hotel in Concur or via AdTrav not be possible, [Fedrooms](fedrooms.com) offers hotels within government maximum rates that have flexible cancellation policies.
+If you need to book a hotel outside of Concur, check if booking comes with any nonrefundable fees. If it does, make sure that you get your authorizing official to approve the approximate amount of what is nonrefundable and send the email to tts-travelauths@gsa.gov. **Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.** Should booking a hotel in Concur or via AdTrav not be possible, [Fedrooms](fedrooms.com) offers hotels within government maximum rates that have flexible cancellation policies.
 
 When you are finished booking your hotel, proceed on to [complete trip information]((/#completing-trip-information)).
 
@@ -138,11 +138,11 @@ When you are finished booking your hotel, proceed on to [complete trip informati
 
 2. Indicate pick-up and drop-off dates, location(s), car type, and preferred vendor(s).
 
-**Note** GSA employees are required to use the lowest cost compact car unless approved for a larger vehicle based on meeting one or more of the justifications listed in [FTR §301-10.450(c)](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#i1205588).
+***Note** GSA employees are required to use the lowest cost compact car unless approved for a larger vehicle based on meeting one or more of the justifications listed in [FTR §301-10.450(c)](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#i1205588).
 
 3. Confirm your email address and travel card information, and then **Reserve Car and Continue.**
 
-***Important notes:**
+**Important notes:**
 
 Be aware that the rental company you select must participate in the [Defense Travel Management Office's (DTMO) Rental Car Program](https://www.defensetravel.dod.mil/site/rentalCar.cfm). Rental car companies participating in the program established ceiling rates; unlimited mileage (except for one-way rentals); vehicle contract will be ready upon arrival; if size/class reserved is not available, the company will offer an upgrade at the same cost; no underage drivers’ fee for drivers between the ages of 18-25; no minimum rental period; no cost for additional drivers; and full coverage insurance for damages resulting from an accident while performing official travel.
 
@@ -188,6 +188,6 @@ Examples:
 <img src="/images/travel/13-confirm-booking.png" class="travel-guide-hide" alt="confirming the booking">
 
 #### Additional step if you booked your hotel outside of Concur or Ad Trav
-***Note:** If you did not book a hotel from Concur, a policy violation will be flagged. If this applies to you, [briefly justify why your hotel choice](/travel-guide-1-book-travel/#can-i-book-outside-of-concur).
+***Note:** If you did not book a hotel from Concur, a policy violation will be flagged. If this applies to you, [briefly justify your hotel choice](/travel-guide-1-book-travel/#can-i-book-outside-of-concur).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
