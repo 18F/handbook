@@ -68,7 +68,11 @@ Expenses can be edited by clicking the pencil button and then making changes on 
 
 ##### Selecting payment type
 
-**Payment type** for expenses: Anything paid for on the travel card should be marked as **IBA**, anything paid for using cash or a personal card should be marked as **CASH**. **CBA** is only used for air and rail expenses paid through Concur directly. Make sure you correctly indicate what was paid on the travel card vs personal means of payment to avoid [issues with reimbursement](#issues-with-reimbursement).
+Make sure you correctly indicate what was paid on the travel card vs personal means of payment to avoid [issues with reimbursement](#issues-with-reimbursement).
+
+* Use **IBA** for anything paid for on the travel card. Not seeing this option? [Add your travel card to your Concur profile](/first-time-travel-complete-concur-profile)
+* Use **CASH** for anything paid for using cash or a personal card.
+* **CBA** is only used for air and rail expenses paid through Concur directly. 
 
 ##### Attaching receipts
 
@@ -95,7 +99,7 @@ The following expenses can be entered as-is without further receipts, written ju
 The following expenses require receipts:
 
 * [Hotels](#hotels)
-* [Flights or Amtrak booked outside of Concur](#air-or-amtrak-outside-of-concur) (Requires additional justification and is only approved on a case-by-case basis)
+* [Flights or Amtrak booked outside of Concur](#air-or-amtrak-booked-outside-of-concur) (Requires additional justification and is only approved on a case-by-case basis)
 * Any other expense exceeding $75, including most rental cars. (This threshold is $25 for local vouchers)
 * Any expenses claimed on a miscellaneous voucher.
 
@@ -105,13 +109,13 @@ The following expenses don't require receipts, but do require brief descriptions
 
 * [Local transportation (Metro, taxis, POV mileage, etc.)](#local-transportation)
 
-#### Meals and Incidental Expenses
+##### Meals and Incidental Expenses
 
 * **The allowance for Meals and Incidental Expenses (M&IE) is a flat rate given to a traveler regardless of what they actually spent.** No receipts or justification is needed to receive M&IE.
 
 * **For example**: Consider a trip taken between 9/16 and 9/18. M&IE is $69 per day in DC, and is 75% of $69 ($51.75) on the first and last days of a trip. We see that the three days of M&IE has been added automatically.
 
-##### Meals paid on the travel card
+###### Meals paid on the travel card
 
 When meals are paid on the travel card, there are a few different ways of documenting it:
 
@@ -121,7 +125,7 @@ When meals are paid on the travel card, there are a few different ways of docume
 
 * One can leave the payment method of M&IE expenses as the default, **CASH**. After the voucher is processed, there will be an outstanding balance remaining. This will need to be paid-- call the customer service number on the back of the card for more details on making a payment.
 
-##### Extra days at personal expense
+###### Extra days at personal expense
 
 If you were authorized to extend your trip at your own expense and need to delete M&IE, there are some special instructions that you should follow:
 
@@ -159,6 +163,9 @@ Finally, [add a new expense for lodging taxes in](#adding-expenses), keeping in 
 
 Don't forget to **Save!**
 
+#### Air or Amtrak Booked Outside of Concur
+Any airfare or Amtrak tickets booked outside of Concur are *at your own risk* and may not be approved. If you are seeking reimbursement for personally booked airfare or Amtrak, you must choose **Other - Miscellaneous** as the expense description, and in the comments section under **Show other details**, you must provide a justification as to why it was not possible for you to book your travel via Concur or AdTrav.
+
 #### Local Transportation
 
 For taxis, public transit, POV mileage and other forms of local transportation, you may [add the expense as normal](#adding-expenses), choosing whichever expense description reflects the nature of the method used. Choose the payment method used, and [upload a receipt](#attaching-receipts) only if the expense was greater than $75 (this threshold is $25 for local vouchers).
@@ -170,9 +177,6 @@ You can add this by clicking on **Show other details** and filling out the **Com
 For public transit, a “blanket entry” for all reasonable transportation expenses is OK. For example, an entry for $10 in transit fares, with the above comment describing all travel made would be fine.
 
 For mileage claims over $75, instead of attaching a receipt, attach a screenshot showing a map of your itinerary with the calculated distance.
-
-#### Air or Amtrak Outside of Concur
-Any airfare or Amtrak tickets booked outside of Concur are *at your own risk* and may not be approved. If you are seeking reimbursement for personally booked airfare or Amtrak, you must choose **Other - Miscellaneous** as the expense description, and in the comments section under **Show other details**, you must provide a justification as to why it was not possible for you to book your travel via Concur or AdTrav.
 
 ## Submitting Voucher for Approval
 
