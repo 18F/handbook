@@ -9,7 +9,6 @@ var contractions = require('retext-contractions');
 var readability = require('retext-readability');
 var simplify = require('retext-simplify');
 var equality = require('retext-equality');
-var intensify = require('retext-intensify');
 
 var ignoreWords = [
 ]
@@ -27,6 +26,5 @@ function attacher() {
     })
     .use(simplify, { ignore: ignoreWords || [] })
     .use(equality, { ignore: ignoreWords || [] })
-    .use(intensify, { ignore: ignoreWords || [] })
   );
 }
