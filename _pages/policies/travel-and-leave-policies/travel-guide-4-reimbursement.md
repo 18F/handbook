@@ -1,8 +1,8 @@
 ---
-title: Step 5 - Get Reimbursed
+title: Step 4 - Get Reimbursed
 ---
 
-[TOC](/travel-guide-table-of-contents) [Back to Traveling](/travel-guide-4-travel)
+[TOC](/travel-guide-table-of-contents) [Back to Traveling](/travel-guide-3-travel)
 
 ## Brief overview of vouchers
 
@@ -175,40 +175,18 @@ For mileage claims over $75, instead of attaching a receipt, attach a screenshot
 Any airfare or Amtrak tickets booked outside of Concur are *at your own risk* and may not be approved. If you are seeking reimbursement for personally booked airfare or Amtrak, you must choose **Other - Miscellaneous** as the expense description, and in the comments section under **Show other details**, you must provide a justification as to why it was not possible for you to book your travel via Concur or AdTrav.
 
 ## Submitting Voucher for Approval
-Routing a voucher is now exactly the same as submitting an authorization as seen in when we [submitted our authorization for approval](/travel-guide-3-approval/#submit-authorization-for-approval). First, navigate to the **Perform Pre-Audits** Tab for your voucher.
 
-You will now see a list of all the items that might cause a fail or hardfail for the voucher. Here are a few common ones, and here's how to address them:
+Routing a voucher is exactly the same as submitting an authorization. Follow the instrcutions here in case you get stuck [submitted our authorization for approval](/travel-guide-3-approval/#submit-authorization-for-approval). Once your voucher is in SUBMIT TO APPROVER status, **you are done!**
 
-#### Pre-audit fails
+### Voucher processing time
 
-* **EXPENSE $ VARIANCE** or **EXPENSE % VARIANCE**
+Your voucher will be reviewed by a member of the TTS travel team 3-5 business days. They will reach out to you via email should any corrections or clarifications be necessary.
 
-* Any _HARDFAIL_ must be corrected before the submission of the authorization-- i.e. accounting codes must be added. Likely causes for _HARDFAILS_ are the lack of accounting codes. You can try to fix this yourself-- accounting may be added in the **Accounting** tab in Concur, and you can look up your accounting code [here](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0). But you can also 
+Direct deposit was set up when you provided your banking info to the travel team when they booked your first trip (likely for your orientation at one of the GSA offices). You should see a reimbursement within another 3-5 business days after the voucher is approved.
 
-*  Likely _FAILS_ arise when non-government contract flight was selected in [Choosing a flight 2](/travel-guide-2-choose-your-itinerary/#choose-a-flight) or if your booked a hotel outside of Concur. An authorization with a _FAIL_ may still be submitted, but should be justified in some way. For example, the choice of flight may be justified if there were no government contract flights available or if a non-contract fare was less expensive.
+### Issues with reimbursement
 
-3. Correct or justify failures. To justify a _FAIL_, you may add an explanation after clicking Justify Pre-Audit Results.  If you need further assistance, please drop a message in #travel or reach out to the team via email tts-travel@gsa.gov.
-
-4. Click **Submit** (in the upper right hand corner of your voucher)
-
-5. Stamping
-   * You will be taken to a document history page. If your **“Status to Apply”** is **“Submit to Approver”**, then click **Stamp and Submit Document** at either the top or the bottom of the page and continue. If not, please correct any other failures.
-
-   * The next page will show you your pre-audit results again, in case you missed that step. If nothing is awry, go ahead and click **Continue Stamping the Document.**
-
-   * It doesn’t look like it, but when you see **Close Post Stamping Document Closure Screen**, you are done!
-
-Congrats!!! Your voucher has been submitted. You don’t even have to click the button again (but you can if you want).
-
-## YOU'RE DONE!!!
-
-Your voucher will be reviewed by a member of the TTS travel team within five business days. They will reach out to you via email should any corrections or clarifications be necessary.
-
-Direct deposit was set up when you provided your banking info to the travel team when they booked your first trip (likely for your orientation at one of the GSA offices). You should see a reimbursement 3-5 business days after the voucher is approved.
-
-#### Issues with reimbursement
-
-##### Outstanding balance on travel card
+#### Outstanding balance on travel card
 
 Q: I've been sent a bill for an outstanding balance on my travel card bill. What do I do?
 
@@ -218,15 +196,15 @@ If you discover a valid charge to your travel card that you need to be reimburse
 
 If you were reimbursed to your bank account for a charge made on your travel card, you will have to pay the bill for it. Contact the number on the back of your travel card for details on how payment can be made.
 
-##### Positive balance on travel card
+#### Positive balance on travel card
 
 If you have a positive balance on the travel card, it is likely that you claimed an expense as paid for on the travel card when you actually paid for it via a personal means of payment. You can call the number on the back of your travel card and request that they mail you a check in the amount of the positive balance.
 
-##### My reimbursement never arrived!
+#### My reimbursement never arrived!
 
 If it has been over a week after your voucher has been approved and your reimbursement hasn't arrived (whether to your travel card account or personal account), contact kc-travel.finance@gsa.gov and describe the issue you are having. cc tts-travel@gsa.gov.
 
-##### Amended vouchers
+#### Amended vouchers
 
 To amend a voucher, go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **Amend voucher**. Provide a brief reason for the amendment, then proceed with [adding your revised expenses](#entering-expenses) and [resubmitting for approval](#submitting-voucher-for-approval).
 
