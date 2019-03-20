@@ -7,7 +7,7 @@ title: Step 1 - Book travel in Concur
 
 ## Brief overview of booking travel
 
-If you have been [set up in Concur](/first-time-travel-get-in-concur) and have received your [GSA travel card](/first-time-travel-travel-card), you may go ahead and book [flights, Amtrak](/#how-to-book-flights-or-rail), [hotels](/#booking-lodging), and [rental cars](/#booking-a-rental-car) (if approved) in [Concur](travel.gsa.gov)*.
+If you have been [set up in Concur](/first-time-travel-get-in-concur) and have received your [GSA travel card](/first-time-travel-travel-card), you may go ahead and book [flights, Amtrak](/#how-to-book-flights-or-rail), [hotels](/#book-lodging), and [rental cars](/#booking-a-rental-car) (if approved) in [Concur](travel.gsa.gov)*.
 
 ***Note** If you've applied for your travel card but haven't received it yet OR your estimated departure is less than 72 hours away, **Call AdTrav at (877) 472-6716 to make your reservations!**
 
@@ -83,9 +83,9 @@ If any part of the fare that you chose is nonrefundable, or exceeds the [City Pa
 6. Scroll to the bottom of this page and click **Next**. This message will pop up, prompting you to book a hotel.
 <img src="/images/travel/10-trip-details-bottom.png" class="travel-guide-hide" alt="pending reservation warning">
 
-## Booking lodging
+## Book lodging
 
-By Chooseing **"I will book a hotel now."** you will be allowed to book your hotel directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile).
+By choosing **"I will book a hotel now."** you will be allowed to book your hotel directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile](/first-time-travel-complete-concur-profile).
 
 ***Note**: If you don't have a travel card yet, make sure that you've [applied for one](/first-time-travel-travel-card) (it is required by GSA policy), then choose "I will book a hotel later". Call AdTrav at (877) 472-6716 to reserve your hotel (and rental car if needed) on your personal card in the meantime. Assuming you've already booked your flight or train in Concur, **mention the authorization number associated with your itinerary** so you don't get a second overlapping authorization for your hotel and/or rental car. You can verify your authorization number by going to the "Authorizations" tab in Concur and finding the number in blue on the left side associated with your travel dates. An hour after you call with AdTrav, proceed on to [completing trip information](/#completing-trip-information).
 
