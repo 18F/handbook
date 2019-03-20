@@ -12,15 +12,15 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
    _Note if you haven't started and don't have your GSA email address yet_:
 
-Your access to the EFT form linked above may be restricted, so you should have received it as an attachment in your welcome email-- feel free to reach out to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) if you never got it. The EFT form is needed so that the reimbursement for your hotels, meals, and other expenses can be reimbursed (GSA only pays for your flight or Amtrak tickets upfront).
+   Your access to the EFT form linked above may be restricted, so you should have received it as an attachment in your welcome email-- feel free to reach out to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) if you never got it. The EFT form is needed so that the reimbursement for your hotels, meals, and other expenses can be reimbursed (GSA only pays for your flight or Amtrak tickets upfront).
 
 2. Once you recieve your employee ID (should be in the format _E000xxxxx_), forward it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), along with your **Full Name** as it appears on ID and **Phone Number** as per TSA requirements.
 
 3. **Book travel**: A member of the TTS travel team will reach out to you within two business days once you’ve sent in the above information, confirming that you've been set up in the Concur system. You may then call AdTrav at (877) 472-6716 to make your reservations at your convenience. 
 
-Email tts-travel@gsa.gov once you've finalized your reservations and they will approve your itinerary. Make sure this is done during business hours-- no later than 3:30 PM ET!
+   Email tts-travel@gsa.gov once you've finalized your reservations and they will approve your itinerary. Make sure this is done during business hours-- no later than 3:30 PM ET!
 
-Until you can get a GSA travel card (read more about this [here](../first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses other than air or rail upfront. But with a valid receipt, you will get reimbursed (generally 6-10 business days after expenses are submitted).  Just make sure to stay at a hotel with rates under the government maximum (also known as the per diem rate). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
+   Until you can get a GSA travel card (read more about this [here](../first-time-travel-travel-card/)), you will unfortunately have to pay for your lodging and all other travel expenses other than air or rail upfront. But with a valid receipt, you will get reimbursed (generally 6-10 business days after expenses are submitted).  Just make sure to stay at a hotel with rates under the government maximum (also known as the per diem rate). You can look up what that is [here](http://www.gsa.gov/portal/category/100120).
    
 4. **Receive tickets**: E-tickets will be sent to the email address that you provided. Once a reservation is made, you will get a “pending” itinerary, which will be finalized, depending on the airline, no later than 72 hours before departure.
 
