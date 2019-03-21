@@ -1,10 +1,10 @@
 ---
-title: Step 4 - Travel
+title: Step 3 - Travel
 ---
 
-[TOC](/travel-guide-table-of-contents)
-[Back to Trip Approval](/travel-guide-3-approval)
-[Jump to Reimbursement](/travel-guide-5-reimbursement)
+[TOC](/travel-guide-table-of-contents) <br>
+[Back to Trip Approval](/travel-guide-2-secure-approvals) <br>
+[Jump to Reimbursement](/travel-guide-4-reimbursement)
 
 Now for the fun part! Here are a few things to keep in mind when traveling for TTS.
 
@@ -20,7 +20,7 @@ Many jurisdictions exempt federal travelers from paying lodging tax. More inform
 
 ### Which receipts must I keep?
 
-You must provide a lodging receipt and a receipt for every authorized expense over $75, or [provide an acceptable reason](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107407#i1200751) explaining why you are unable to furnish the necessary receipts.
+Receipts are required for lodging, rental cars, gas purchases when using a rental car, and any other expenses over $75. If no receipt(s) can be provided, [an acceptable reason must be given](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107407#i1200751) explaining why you are unable to furnish the necessary receipt(s).
 
 ### Meals and Incidental Expenses (M&IE)
 
@@ -42,7 +42,7 @@ Note that if your travel extends past midnight, you get the full meal allowance 
 
 #### M&IE and use of the GSA travel card
 
-While use of the GSA travel card is required for all travel expenses when practicable, more exceptions to the use of the GSA travel card may arise with paying for M&IE. Using the GSA travel card to pay for meals and incidental expenses requires some additional administrative work when submitting a voucher. [Here's]() what you should be aware of when completing your voucher-- keeping receipts for your personal use may be helpful.
+While use of the GSA travel card is required for all travel expenses when practicable, more exceptions to the use of the GSA travel card may arise with paying for M&IE. Using the GSA travel card to pay for meals and incidental expenses requires some additional administrative work when submitting a voucher. [Here's](/travel-guide-4-reimbursement/#meals-paid-on-the-travel-card) what you should be aware of when completing your voucher-- should you use the GSA travel card for meals and incidental expenses, keeping receipts for your personal use may be helpful. Feel free to book [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/) for a walkthrough on what to keep in mind when paying for meals while traveling.
 
 ### Other necessary expenses
 

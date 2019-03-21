@@ -2,8 +2,9 @@
 title: Step 2 - Secure approvals
 ---
 
-[TOC](/travel-guide-table-of-contents)<br>
-[Back to Book Travel in Concur](/travel-guide-1-book-travel)<br>
+
+[TOC](/travel-guide-table-of-contents) <br>
+[Back to Book Travel in Concur](/travel-guide-1-book-travel) <br>
 [Jump to Travel](/travel-guide-3-travel)
 
 ## Brief overview of securing approvals

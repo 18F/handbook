@@ -17,9 +17,9 @@ This is a travel guide to help you
 
 Before we start, have you traveled as a TTS employee before?
 
-1. [Yes - I want to get started with approval](/travel-guide-1-authorization)
+1. [Yes - I want to get started!](/travel-guide-1-book-travel)
 
-2. [No - I need to setup concur](/first-time-travel-concur-check)
+2. [No - I need to setup concur](/first-time-travel-get-in-concur)
 
 3. **I know where I need to go! [Take me to the Table of Contents](/travel-guide-table-of-contents)**
 
