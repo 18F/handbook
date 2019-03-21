@@ -16,6 +16,8 @@ If TTS does not have licenses, GSA might. In order to check the [GSA IT Catalog]
 
 If your software is in the Catalog, fill out the rest of the form to request a license.
 
+_Note: If you're looking for MS Office, see [this section below](https://handbook.18f.gov/software/#get-a-copy-of-microsoft-office)._
+
 ## Purchase new software
 
 If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), you will need to fill out a C2 request for TTS to purchase the software. Here's how:
