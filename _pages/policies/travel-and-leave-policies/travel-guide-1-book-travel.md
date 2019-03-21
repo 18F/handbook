@@ -2,7 +2,7 @@
 title: Step 1 - Book Travel in Concur and Secure Approvals
 ---
 
-[TOC](/travel-guide-table-of-contents) <br>
+[Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
 [Jump to "What to Consider while Traveling"](/travel-guide-2-travel)
 
 ## Brief overview of booking travel
@@ -21,12 +21,12 @@ If you have been [set up in Concur](/first-time-travel-get-in-concur) and have r
 
 Once you have finalized your reservations, there are still a few more steps to follow through on.
 
-* [Completing trip information], including relevant details about your trip.
-* [Stamp and submit authorization], ensuring your authorization is in SUBMIT TO APPROVER status.
-* [Secure approval from your authorizing official]
-   * If traveling to a training, conference, speaking event, or other "IRL" or large team gathering*, this approval is secured through the [event request process](https://handbook.18f.gov/attending-conferences/). The travel team will be made aware and approve your travel when all required approvals are secured.
-   * If traveling for business reasons or small team gatherings, you or someone in your group must secure a sufficiently descriptive email of approval from your authorizing official and send it to tts-travelauths@gsa.gov, so the TTS travel team can approve your travel in the system. 
-   * To expedite your approval, you may also take care of this step before booking your travel. Ensure all of the above steps are completed no later than 3:30 PM ET the last business day before travel to give the travel team sufficient time to review. After-hours or emergency travel requests may be made in coordination with your supervisor and AdTrav via the process outlined [here](/travel-guide-B-after-hours-emergency-travel-authroizations).
+* [Completing trip information](/travel-guide-faq/#how-to-complete-your-trip-information), including relevant details about your trip.
+* [Stamp and submit authorization](/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval), ensuring your authorization is in SUBMIT TO APPROVER status.
+* [Secure approval from your authorizing official](/travel-guide-faq/#how-to-secure-authorizing-official-approval)
+   * If traveling to a training, conference, speaking event, or other "IRL" or large team gathering*, or internationally for any reason, this approval is secured through the [event request process](https://handbook.18f.gov/attending-conferences/). The travel team will be made aware and approve your travel when all required approvals are secured.
+   * If traveling for business reasons or small team gatherings, you or someone in your group must secure [a sufficiently descriptive email of approval from your authorizing official](/travel-guide-faq/#how-to-secure-authorizing-official-approval) and send it to tts-travelauths@gsa.gov, so the TTS travel team can approve your travel in the system. 
+   * To expedite your approval, you may also take care of this step before booking your travel. Ensure all of the above steps are completed no later than 3:30 PM ET the last business day before travel to give the travel team sufficient time to review. After-hours or emergency travel requests may be made in coordination with your supervisor and AdTrav via the process outlined [here](/travel-guide-B-after-hours-emergency-travel-authorizations).
    
 Should you need to rebook your travel at any point in the process, read the instructions [here](/travel-guide-A-amended-authorizations).
    
