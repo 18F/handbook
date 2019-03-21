@@ -6,6 +6,8 @@ title: Step 3 - Travel
 [Back to Trip Approval](/travel-guide-2-secure-approvals) <br>
 [Jump to Reimbursement](/travel-guide-4-reimbursement)
 
+## Things to Consider while Traveling
+
 Now for the fun part! Here are a few things to keep in mind when traveling for TTS.
 
 ### Use your travel card when possible
