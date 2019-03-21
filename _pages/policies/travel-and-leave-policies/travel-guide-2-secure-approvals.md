@@ -2,6 +2,7 @@
 title: Step 2 - Secure approvals
 ---
 
+
 [TOC](/travel-guide-table-of-contents) <br>
 [Back to Book Travel in Concur](/travel-guide-1-book-travel) <br>
 [Jump to Travel](/travel-guide-3-travel)
@@ -69,11 +70,11 @@ For larger group travel, it is recommended to use this [travel expenses estimato
 
 ### Email templates
 
-#### Individual travel
-
-**Subject:** Approval for travel between [dates] for [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0) or Tock project name and ID #
+#### Email Template for Individual Travel:
 
 ---
+
+**Subject:** Approval for travel between [dates] for [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0) or Tock project name and ID #
 
 **Body:**
 
@@ -87,11 +88,13 @@ Many thanks,
 
 [ requestor_name ]
 
-#### Group travel
+---
 
-**Subject:** Approval for travel between [dates] for [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0) or Tock project name and ID #
+#### Email Template for Group Travel:
 
 ---
+
+**Subject:** Approval for travel between [dates] for [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0) or Tock project name and ID #
 
 **Body:**
 
@@ -99,6 +102,12 @@ Below is the travel cost break out for [ work to be performed ] for [ Budget nam
 
 [ Include the [completed travel expenses estimator](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) _pasted_ here, or another format of your choice, as long as origins, destinations, dates of travel, and estimated cost are clearly identified for each person traveling ]
 
+Many thanks,
+
+[ requestor_name ]
+
+  ---
+  
   Additional templates for emails involving other circumstances are available in the Travel Guide FAQ-- see the links below:
 
   * [What if, for personal reasons,  I want to extend my travel beyond my work dates (i.e. stay in DC for the weekend)?](/travel-guide-faq/#extend-travel)
