@@ -14,7 +14,7 @@ If you have been [set up in Concur](/first-time-travel-get-in-concur) and have r
 * [Hotels](travel-guide-faq/#book-lodging), charged to your GSA travel card
 * [Rental cars](travel-guide-faq/#booking-a-rental-car) (if approved), charged to your GSA travel card
 
-Any reservations made in Concur will be held until approvals are finalized-- nothing is charged to you, your travel card, or GSA until all approvals are secured and finalized.
+Any reservations made in Concur will be held until approvals are secured and finalized-- nothing is charged to you, your travel card, or GSA.
 
 **Note:** _If you don't have your GSA travel card yet OR your estimated departure is less than 72 hours away, call AdTrav at (877) 472-6716 to make your reservations, then [head into Concur an hour later](travel.gsa.gov)._ **Make sure you continue to follow the steps below, or your travel will not be ticketed!**
 
