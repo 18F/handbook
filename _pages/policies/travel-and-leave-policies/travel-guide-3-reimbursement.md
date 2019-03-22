@@ -9,7 +9,9 @@ title: Step 4 - Get Reimbursed
 
 ## Brief overview of vouchers
 
-You may be reimbursed for your expenses from official travel, or any other approved expense paid for via personal funds (such as reimbursement for professional liability insurance for supervsiors) by creating a voucher in [Concur](travel.gsa.gov). You can get started by navigating to the **Vouchers** tab on top and selecting **New Voucher**. If you do not yet have access to Concur, you can request it by following the steps [here](/first-time-travel-get-in-concur).<br>
+You may be reimbursed for your expenses from official travel, or any other approved expense paid for via personal funds (such as reimbursement for [professional liability insurance](/travel-guide-faq/#How-can-I-get-reimbursed-for-professional-liability-insurance) for supervisors) by creating a voucher in [Concur](travel.gsa.gov). <br>
+<br>
+You can get started by navigating to the **Vouchers** tab on top and selecting **New Voucher**. If you do not yet have access to Concur, you can request it by following the steps [here](/first-time-travel-get-in-concur).<br>
 <br>
 BEFORE YOU BEGIN: _did your dates of travel change such that they are in any way outside of the original dates of your trip? If yes, STOP, and create an [amended authorization](/travel-guide-A-amended-authorizations) for the new dates._
 
