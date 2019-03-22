@@ -3,6 +3,7 @@ title: Step 1 - Book Travel in Concur and Secure Approvals
 ---
 
 [Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
+[FAQ](/travel-guide-faq) <br>
 [Jump to "What to Consider while Traveling"](/travel-guide-2-travel)
 
 ## Brief overview of booking travel
