@@ -211,7 +211,9 @@ Once your authorization is approved and ticketed, you might want to take a look 
 
 ### How to secure authorizing official approval
 
-You must formally request your authorizing official's approval via email and forward it to tts-travelauths@gsa.gov*, unless you are traveling to a training, conference, speaking event, or other "IRL" or large team gathering, in which case you must follow [this process instead](#How-can-I-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-IRL-or-large-team-gathering)    [Who is my authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget)
+You must formally request your authorizing official's approval* via email and forward it to tts-travelauths@gsa.gov, unless you are traveling to a training, conference, speaking event, or other "IRL" or large team gathering, in which case you must follow [this process instead](#How-can-I-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-IRL-or-large-team-gathering). <br>
+<br>
+[Who is my authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget)
 
 *Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official.
 
