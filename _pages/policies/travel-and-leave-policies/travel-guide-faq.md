@@ -347,6 +347,7 @@ The following expenses require receipts:
 * Rental cars and gas for rental cars
 * Any other expense exceeding $75, including local transportation (This threshold is $25 for local vouchers)
 * Any expenses claimed on a miscellaneous voucher.
+* [Professional liability insurance](#how-can-i-get-reimbursed-for-professional-liability-insurance)
 
 ##### Expenses requiring further justification:
 
@@ -413,6 +414,10 @@ Don't forget to **Save!**
 
 #### How should I claim air or Amtrak booked outside of Concur
 Any airfare or Amtrak tickets booked outside of Concur are *at your own risk* and may not be approved. If you are seeking reimbursement for personally booked airfare or Amtrak, you must choose **Other - Miscellaneous** as the expense description, and in the comments section under **Show other details**, you must provide a justification as to why it was not possible for you to book your travel via Concur or AdTrav.
+
+#### How can I get reimbursed for professional liability insurance?
+
+Supervisors may be reimbursed for up to half the cost of professional liability insurance, up to $150. In order to claim reimbursement, get an email from your supervisor approving the amount of you reimbursement you intend to claim and send it to tts-travelauths@gsa.gov. Then, create a [miscellaneous voucher](#how-do-I-create-a-local-or-miscellaneous-voucher) in [Concur](travel.gsa.gov) and [attach the receipt](#attaching-receipts) you recieved after purchasing the insurance.
 
 #### How should I claim local transportation expenses?
 
