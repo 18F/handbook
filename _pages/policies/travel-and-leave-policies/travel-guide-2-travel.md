@@ -2,7 +2,7 @@
 title: Step 3 - Travel
 ---
 
-[Table of Contents](/travel-guide-table-of-contents) <br>
+[Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
 [FAQ](/travel-guide-faq) <br>
 [Back to Trip Approval](/travel-guide-1-book-travel) <br>
 [Jump to Reimbursement](/travel-guide-3-reimbursement)
