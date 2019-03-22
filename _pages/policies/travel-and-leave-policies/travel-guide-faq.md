@@ -205,24 +205,24 @@ Following this step will ensure your authorization or voucher is in SUBMIT TO AP
 
 6. Once you have been approved by the TTS travel team, you should recieve a notification from Concur. Please note that in most cases, **government contract airfare does not ticket until 72 hours before departure**, so you may not recieve official confirmation of your itinerary until then. Don't worry about this, the TTS travel team is not aware of any situations where approved travelers have not been issued tickets :)
 
-*For vouchers, reimbursement will be issued to your personal account and travel card 3-5 business days after travel team approval. For issues with reimbursement, read on more [here](/travel-guide-faq/#issues-with-reimbursement)
+*For vouchers, reimbursement will be issued to your personal account and travel card 3-5 business days after travel team approval. For issues with reimbursement, read on more [here](#issues-with-reimbursement)
 
 Once your authorization is approved and ticketed, you might want to take a look at [what to expect while traveling](/travel-guide-2-travel/)!
 
 ### How to secure authorizing official approval
 
-You must formally request your authorizing official's approval via email.*    [Who is my authorizing official](/#who-is-my-authorizing-official-and-what-is-my-budget)
+You must formally request your authorizing official's approval via email.*    [Who is my authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget)
 
 *Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official.
 
 The body of the email must include the following:     [See an individual template here](/travel-guide-email-templates/#email-template-for-individual-travel) [and a group template here](/travel-guide-email-templates/#email-template-for-group-travel)
 
-* Names of individuals traveling    [What if this changes?](/#what-if-who-is-traveling-changes)
-* Start and end dates of travel    [What if I am extending travel for personal reasons?](/#what-if-I-am-extending-travel-for-personal-reasons)
+* Names of individuals traveling    [What if this changes?](#what-if-who-is-traveling-changes)
+* Start and end dates of travel    [What if I am extending travel for personal reasons?](#what-if-I-am-extending-travel-for-personal-reasons)
 * A brief description of work to be done on the trip
-* Identified budget that will be paying for the trip    [How do I identify my budget?](/#who-is-my-authorizing-official-and-what-is-my-budget)
-* Origin and destinations for each individual    [What if I am traveling to or returning from a location other than my home location?](/#What-if-I-am-traveling-to-or-returning-from-a-location-other-than-my-home-location)
-* Estimated expenses for each individual    [How should I estimate my expenses?](/#How-should-I-estimate-my-expenses)
+* Identified budget that will be paying for the trip    [How do I identify my budget?](#who-is-my-authorizing-official-and-what-is-my-budget)
+* Origin and destinations for each individual    [What if I am traveling to or returning from a location other than my home location?](#What-if-I-am-traveling-to-or-returning-from-a-location-other-than-my-home-location)
+* Estimated expenses for each individual    [How should I estimate my expenses?](#How-should-I-estimate-my-expenses)
 
 #### Who is my authorizing official and what is my budget?
 
@@ -252,7 +252,7 @@ If you were previously scheduled to be on leave or telework at the other locatio
 
 If you'd like to schedule personal travel that's incidental to your work trip (i.e. planned after the work trip), after your official work itinerary has been approved in Concur, you can give AdTrav a call at (877) 472-6716 and request that your itinerary be changed, with you covering any difference in cost that may arise.
 
-*Note that while GSA travel policy doesn't explicitly forbid being approved to travel from a foreign location, [travel to or from foreign locations](/#international-travel) must be requested in Event Tracker for GSA Administrator approval at least 7 weeks in advance, amking approval in these circumstances extremely unlikely.
+*Note that while GSA travel policy doesn't explicitly forbid being approved to travel from a foreign location, [travel to or from foreign locations](#international-travel) must be requested in Event Tracker for GSA Administrator approval at least 7 weeks in advance, amking approval in these circumstances extremely unlikely.
 
 #### International travel
 
@@ -264,74 +264,198 @@ In the case of individual or small group travel, you may estimate your expenses 
 
 For larger group travel, it is recommended to use this [travel expenses estimator template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) which automatically calculates most airfare and per diems.
 
+## Questions about reimbursement
 
-## Questions about reimbursements
+#### How do I create a "Voucher from authorization"?
 
-<a name="extend-travel"></a>
+After selecting **Voucher from authorization**, you will be led through creating a voucher from your authorization that you got approved prior to traveling.
 
-###Is it possible to travel before the actual date that I am scheduled to arrive for work at my temporary duty station?  Conversely, may I stay longer than my scheduled days of work?
+* Under Document Search, you’ll see a list of your “open” authorizations (i.e. your authorizations that don’t have vouchers yet).
 
-[Additional Info on this](https://docs.google.com/drawings/d/1Lxnea7PmBZQeKwe-zkg1XNoIYYhFeglv29ls2NKudLE/edit)
+* Hit the pencil button to select the authorization you’d like to be reimbursed for. You will be moved onto the next step, [Naming your Voucher](#naming-your-voucher) on the **Document Information** screen.
 
-Jaime will be traveling to visit a partner agency in September.  She sees an opportunity to arrive early and visit a few days with family members before beginning her work duties.
+* **TIP**: If you can't figure out which authorization is your recent trip by name, look at the departure date column.
+    
+Once you've selected your authorization and continue, you'll be taken to the **Document Information** page. This should all be autopopulated, so unless some of the details of your trip changed, no further action is required here and you may continue on to **Create Document** and start [adding your expenses](#how-to-add-edit-or-delete-expenses). More guidance on what receipts or justifications are required can be found [here](#When-are-receipts-or-further-justifications-required-to-claim-expenses)
 
-This is acceptable.  You will need the authorization of your supervisor.  What you need to know is the following:  You will only be reimbursed for accommodations, local travel costs and per diem during the period for which you are scheduled to work.  Any additional evenings of accommodations (as well as local travel costs and per diem) are on your own dime.  You will have to pay for the nights for which you are staying prior to, or post, your actual scheduled days of work. In addition, your per diem only kicks in during your actual days of scheduled work.
+##### What if I can't find my authorization listed here?
 
-> To: Supervisor
->
-> I would like to arrive early for my meeting with [agency] and spend some time with my family. I plan on traveling Friday, September 25, and would return September 30. I understand that all other travel expenses including lodging and meals before Sunday, September 27th are my own responsibility.
->
-> Please let me know if this is acceptable.
->
-> Thanks.
+If you can't find your authorization on this list, it may be because an amended authorization was generated for you. If you changed your trip such that trip dates or locations fall outside what was originally approved, you'll need to [submit that amended auth for approval](/#How-to-Stamp-and-Submit-for-Travel-Team-Approval) by going to the **Authorizations** tab, selecting the amended authorization corresponding to your trip, and going in to **Open Document**. 
 
-Note that in the case of billable travel, the email should be made out to the client instead of the supervisor.
+However, in some cases, Concur will generate an amendement in error. If you suspect this is the case, head to the **Authorizations** tab, select the amended authorization corresponding to your trip, and **Delete Document**
 
-<a name="multi-city"></a>
+#### How do I create a local or miscellaneous voucher?
 
-###Can I fly out to a different region (other than my home city) after my scheduled work has ended at my temporary duty station?  Conversely, can I fly in from a different region prior to when my scheduled work begins?
+Upon selecting the **Local voucher** option, you will be taken to a blank **Document Information** page. Here's what you need to include for each field:
 
-Victor will be meeting with a partner agency in person in late September.  He would like to stay a couple of days on the East Coast after his scheduled work time and take the train up to see a friend in New York.
+* **Trip Name** This should follow [the same naming conventions you would use for a travel authorization](/travel-guide-1-book-travel/#complete-trip-information). Ensure you have [an email from your authorizing official](/travel-guide-2-secure-approvals/#how-to-secure-authorizing-official-approval) approving all of the expenses you'd like to claim sent to tts-travelauths@gsa.gov.
 
-This is acceptable.  You will need the approval of your supervisor.  Scenario #1 lays out how any time prior to, or immediately after scheduled work days at a temporary duty location, is fine, just make sure you have your supervisor’s approval.  Flying in or out of a region that is not the same as your temporary work stations is also ok.  What you need to understand:  The cost of your transportation from another region will be reimbursed based on the cost to fly from your original temporary duty station back to your home region.  Your total reimbursement will be based on the cost to fly directly from your home city to the temporary duty station.  If it is determined that the cost is actually lower, you are home free.  However, if the cost is determined to be higher, you are liable for the additional amount.  The  will be based on the city pairs program [click here](http://www.gsa.gov/portal/content/104512)
+* **Type code** and **Trip purpose** If the voucher is for local travel (taxis, mileage, etc.), choose **Local travel**. For any other sort of reimbursement, choose **Misc voucher**.
 
-Sample Authorization Email:
+* **Document detail** Enter a brief description of what the reimbursement is for here.
 
-> I am requesting Authorization to travel as follows:
->
-> I would like to fly from SFO to DCA on Sunday September 27th.  I have verbally been approved to attend the 18F All Hands meeting on Monday September 28th and Tuesday September 29th.  I would also work the following two days Wednesday September 30th and Thursday October 1st collaborating with the DC Operations Team.  I request permission to remain the weekend on the East Coast, and to fly out from the New York City area on Sunday.  I understand I would be responsible for all my accommodations after my Thursday departure from the office and that my reimbursable airfare cost would be based on similar flights from DC area airport to my home airport, and not the actual cost of my return flight.
->
-> Thank you.
+* Click on **Create Document**
 
-Again, in the case of billable travel, the email should be made out to the client instead of the supervisor.
+Proceed on to [entering your expenses](#how-to-add-edit-or-delete-expenses). Note that any local transit over $25 requires a receipt, and all expenses claimed on a miscellaneous voucher require receipts.
 
-<a name="non-contract"></a>
+#### How to add, edit, and delete expenses
 
-### I found a flight that I like, but it’s not a government contract carrier. Can I still take it?
+##### Adding expenses
 
-You may still take a non-contract flight if it follows [these rules set in the Federal Travel Regulation](http://www.gsa.gov/portal/ext/public/site/FTR/file/Chapter301p010.html/category/21868/#wp1203865), and also follows the 18F-specific policy here:
+Expenses can be added by clicking the **Add expense** button either above or below. Make sure to save and click the **Add expense** button again before creating a new expense.
 
-* If the fare that you choose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email of approval from your client (billable) or director (non-billable) sent to tts-travelauths@gsa.gov.
+##### Editing expenses
 
+Expenses can be edited by clicking the pencil button and then making changes on the right hand side. Don't forget to save any changes you make!
 
-<a name="adtrav"></a>
+##### Selecting payment type
 
-### What do I do differently when I book with AdTrav?
+Make sure you correctly indicate what was paid on the travel card vs personal means of payment to avoid [issues with reimbursement](#issues-with-reimbursement).
 
-AdTrav can expedite the booking of your flight (if you are less than 3 days away from travel), but there are still a few actions that you need to complete in Concur.  [Note:  Online reservations are only $8.36 per reservation vs. $34.30 to speak to an AdTrav agent.  Once ticketed, should you need to make changes to your reservations, you will again be charged another $34.30.  You should only use an agent in extreme cases, such as less than three days notice to travel.]
+* Use **IBA** for anything paid for on the travel card. Not seeing this option? [Add your travel card to your Concur profile](/first-time-travel-complete-concur-profile)
+* Use **CASH** for anything paid for using cash or a personal card.
+* **CBA** is only used for air and rail expenses paid through Concur directly. 
 
-**Note:** Dates of travel should be confirmed in this e-mail, including any extension of travel for personal reasons. This includes, but is not limited to:
+##### Attaching receipts
 
-* Extending your stay in your travel location for the weekend before or following a trip (or for additional workdays in which your travel is not essential).
+You can attach receipts by clicking on the **Add receipt to lodging** button (looks like a slip of paper with a checkmark, just to the right of the pencil button for editing expenses.
 
-* 18F will pay for the cost of your flight on an alternative date but not your meals or lodging for those additional days.
+##### Deleting expenses
 
-* Flying to your travel location from another place that is not your home city and/or flying from your travel location to another place that is not your home city.
+Expenses can be deleted by clicking the checkbox next to the expense and then clicking the **Delete selected expenses** button either above or below.
 
-* 18F will pay for a flight that is equal to or less than in price to the least expensive compliant flight between your home city and travel location. For flights that are more expensive, you are responsible for the difference in price.
+#### When are receipts or further justifications required to claim expenses?
+
+##### Simple expenses
+
+The following expenses can be entered as-is without further receipts, written justifications, or other considerations, provided that each expense is under $75:
+
+* Airfare or Amtrak tickets booked through Concur or AdTrav
+* Airplane wifi
+* Fees for one checked bag per leg of itinerary
+* Laundry expenses, if official travel is at least 4 nights
+* Tolls, if government car, POV mileage or rental car is pre-approved
+* [Meals and Incidental Expenses](#meals-and-incidental-expenses)
+* Public transit expenses of $25 or less.
+
+##### Expenses requiring receipts
+
+The following expenses require receipts:
+
+* [Hotels](#hotels)
+* [Flights or Amtrak booked outside of Concur](#air-or-amtrak-booked-outside-of-concur) (Requires additional justification and is only approved on a case-by-case basis)
+* Rental cars and gas for rental cars
+* Any other expense exceeding $75, including local transportation (This threshold is $25 for local vouchers)
+* Any expenses claimed on a miscellaneous voucher.
+
+##### Expenses requiring further justification:
+
+The following expenses don't require receipts, but do require brief descriptions to justify claiming them: 
+
+* [Local transportation expenses of $75 or less per trip (Metro, taxis, POV mileage, etc.)](#local-transportation)
+* Checked baggage fees for more than one piece of luggage per leg of your trip.
+
+#### Questions about entering specific expenses
+
+##### How should I claim meals and Incidental Expenses
+
+* **The allowance for Meals and Incidental Expenses (M&IE) is a flat rate given to a traveler regardless of what they actually spent.** No receipts or justification is needed to receive M&IE.
+
+* **For example**: Consider a trip taken between 9/16 and 9/18. M&IE is $69 per day in DC, and is 75% of $69 ($51.75) on the first and last days of a trip. We see that the three days of M&IE has been added automatically.
+
+###### How should I claim meals paid on the travel card
+
+When meals are paid on the travel card, there are a few different ways of documenting it:
+
+* One can create a new M&IE expense with expense method **IBA** in the amount spent on meals per day. The amount of M&IE reimbursed to your personal account will be automatically reduced accordingly (you will see negative charges appear that correspond with this). If you document all expenses correctly, your travel card bill will be paid off exactly.
+
+* One can change the payment method of M&IE expenses to **IBA** so that all reimbursement is routed to the travel card. If the entire allowance was not used, any amount left over will show up as a positive balance. You may call the customer service number on the back of the card and request that a check be mailed for that remaining amount.
+
+* One can leave the payment method of M&IE expenses as the default, **CASH**. After the voucher is processed, there will be an outstanding balance remaining. This will need to be paid-- call the customer service number on the back of the card for more details on making a payment.
+
+###### How can I remove extra days at personal expense from my authorization or voucher?
+
+If you were authorized to extend your trip at your own expense and need to delete M&IE, there are some special instructions that you should follow:
+
+1. Edit your first *full* day of travel at your own expense by clicking on the pencil icon.
+
+2. Click on the **View Per Diem Conditions**. You should see a menu expand below.
+
+3. Choose **M&IE Override**, then **Override by amount**, and **0**.
+
+4. Check **On leave**. Use **Other leave**, **8 hours**.
+
+5. If you are requesting leave for multiple days, return to the top and enter in the last *full* day you are traveling at personal expense.
+
+5. Save. Your M&IE should show as zero for the day. If it didn't work, just go ahead an add in a comment about the days you would like to zero out in the comments field, and the travel team will take that into account when they review your voucher for approval.
+
+#### How should I claim hotels and lodging taxes?
+
+If you booked a hotel in Concur, your actual hotel expenses should populate automatically. However, that automatic amount will often lump in the taxes, which should be considered a separate list.
+
+First, attach your receipt to the first night of lodging only, unless you have multiple receipts. Note that Concur will flag all expenses needing receipts
+
+Then, [correct the lodging expenses](#editing-expenses) so they reflect the actual nightly rate paid, not including taxes.
+
+Finally, [add a new expense for lodging taxes in](#adding-expenses), keeping in mind the following:
+
+* **Create Expenses Through:** Enter the last night you were checked into the hotel, and each night’s lodging tax will be copied through.
+
+* **Expense Date:** The night that you checked in.
+
+* **Expense Description:** Lodging Tax
+
+* **Cost:** Tax per night (tax can also be reported as a lump sum, though lodging itself must be broken out per night)
+
+* **Payment Method:** Travel card -> **IBA**, and other form of payment -> **CASH**
+
+Don't forget to **Save!**
+
+#### How should I claim air or Amtrak booked outside of Concur
+Any airfare or Amtrak tickets booked outside of Concur are *at your own risk* and may not be approved. If you are seeking reimbursement for personally booked airfare or Amtrak, you must choose **Other - Miscellaneous** as the expense description, and in the comments section under **Show other details**, you must provide a justification as to why it was not possible for you to book your travel via Concur or AdTrav.
+
+#### How should I claim local transportation expenses?
+
+For taxis, public transit, POV mileage and other forms of local transportation, you may [add the expense as normal](#adding-expenses), choosing whichever expense description reflects the nature of the method used. Choose the payment method used, and [upload a receipt](#attaching-receipts) only if the expense was greater than $75 (this threshold is $25 for [local vouchers]()).
+
+The one other item required for taxis or other local transportation is a brief comment describing the origin and destination of the travel (e.g. "from airport to office"). 
+
+You can add this by clicking on **Show other details** and filling out the **Comments** section that pops up below.
+
+For public transit, a “blanket entry” for all reasonable transportation expenses is OK. For example, an entry for $10 in transit fares, with the above comment describing all travel made would be fine.
+
+For mileage claims over $75, instead of attaching a receipt, attach a screenshot showing a map of your itinerary with the calculated distance.
+
+### Issues with reimbursement
+
+#### I recieved a bill for an outstanding balance on my travel card. Should I pay it?
+
+A: First, verify that your most recent voucher was paid to the travel card account. Go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **View Summary**. In the voucher view, navigate down to the **Totals and travel advances** section and verify the amount on the **Pay to Charge Card** line. This amount should match with a payment made to the travel card in your travel card statement. [[need help accessing this?]]() If it does, and there is still a remaining balance, it is likely that you used the travel card to pay for something that was either claimed as **CASH** on the voucher, or not claimed at all. 
+
+If you discover a valid charge to your travel card that you need to be reimbursed for after your voucher is initially approved, you may create an [amended voucher](#amended-vouchers).
+
+If you were reimbursed to your bank account for a charge made on your travel card, you will have to pay the bill for it. Contact the number on the back of your travel card for details on how payment can be made.
+
+#### Positive balance on travel card
+
+If you have a positive balance on the travel card, it is likely that you claimed an expense as paid for on the travel card when you actually paid for it via a personal means of payment. You can call the number on the back of your travel card and request that they mail you a check in the amount of the positive balance.
+
+#### My reimbursement never arrived!
+
+If it has been over a week after your voucher has been approved and your reimbursement hasn't arrived (whether to your travel card account or personal account), contact kc-travel.finance@gsa.gov and describe the issue you are having. cc tts-travel@gsa.gov.
+
+#### How do I amended my voucher after it is approved?
+
+To amend a voucher, go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **Amend voucher**. Provide a brief reason for the amendment, then proceed with [adding your revised expenses](#entering-expenses) and [resubmitting for approval](#submitting-voucher-for-approval). Note that if you want to revise a voucher that has not yet been approved, you can simply **Edit Voucher** instead of amending.
+
+**Note:** Vouchers should NOT be amended in the case of revising the payment method ([IBA to CASH](#positive-balance-on-travel-card) or [vice versa](#outstanding-balance-on-travel-card)), or reducing a claim on an already-approved expense. If you were over-reimbursed for something, you will need to mail a check for that amount, made out to GSA to the following address:
+
+USDA-OCFO
+Financial Operations & Disbursement Branch
+Attn:  Bryan DeLeve - 2SE
+2300 Main Street
+Kansas City, MO 64108
+
+Reference the auhtorization and voucher number along with the payment.
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
-
-### How do I change a reservation?
-
-See [this guide](https://gsa-tts.slack.com/files/U0C72TRSM/F6QH44WCE/How_to__change__a_trip_already_associated_with_an_Authorization_in_Concur).
