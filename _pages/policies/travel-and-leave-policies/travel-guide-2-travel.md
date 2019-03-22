@@ -2,11 +2,12 @@
 title: Step 3 - Travel
 ---
 
-[TOC](/travel-guide-table-of-contents) <br>
-[Back to Trip Approval](/travel-guide-2-secure-approvals) <br>
-[Jump to Reimbursement](/travel-guide-4-reimbursement)
+[Table of Contents](/travel-guide-table-of-contents) <br>
+[FAQ](/travel-guide-faq) <br>
+[Back to Trip Approval](/travel-guide-1-book-travel) <br>
+[Jump to Reimbursement](/travel-guide-3-reimbursement)
 
-## Things to Consider while Traveling
+## What to consider while traveling
 
 Now for the fun part! Here are a few things to keep in mind when traveling for TTS.
 
@@ -88,7 +89,7 @@ Why the rush? Filling out a voucher correctly allows you to:
 
 2. Have the government automatically pay off the balance on your Travel Card. If you do your voucher correctly and on time, you will never have to worry about paying one of those bills yourself.
 
-On the other side, when travel expenses are submitted late, it’s a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, **no travel will be approved for anyone with travel expenses that are more than 5 business days outstanding.**
+On the other side, when travel expenses are submitted late, it’s a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, **future travel may not be approved for anyone with travel expenses that are more than 5 business days outstanding.**
 
 [Back from your trip? Head on over to get reimbursed!](/travel-guide-5-reimbursement)
 
