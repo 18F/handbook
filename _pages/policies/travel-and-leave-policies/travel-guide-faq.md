@@ -211,7 +211,7 @@ Once your authorization is approved and ticketed, you might want to take a look 
 
 ### How to secure authorizing official approval
 
-You must formally request your authorizing official's approval via email.*    [Who is my authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget)
+You must formally request your authorizing official's approval via email and forward it to tts-travelauths@gsa.gov*, unless you are traveling to a training, conference, speaking event, or other "IRL" or large team gathering, in which case you must follow [this process instead](#How-can-I-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-IRL-or-large-team-gathering)    [Who is my authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget)
 
 *Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official.
 
@@ -237,6 +237,14 @@ If your travel is **billable** you will need to get approval from the director o
 * cloud.gov: Carlo Costino
 * login.gov: Alex Dalessio
 * Centers of Excellence: Bob DeLuca or Brian Whittaker
+
+#### How can I get my travel approved to attend a training, conference, speaking event, or other "IRL" or large team gathering*?
+
+Instead of obtaining an email of approval, you must follow the [event request process](https://handbook.18f.gov/attending-conferences/). You may [book your travel](/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
+<br>
+However, if you will be [extending your trip at your own expense](/travel-guide-faq/#what-if-I-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event](/travel-guide-faq/#What-if-I-am-traveling-to-or-returning-from-a-location-other-than-my-home-location), or combining your event travel with travel for some other reason, you must secure an email from your [authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) approving of the revised itinerary.
+
+*The threshold for a large team gathering is over 6 employees traveling for an internal management meeting (not day-to-day business) and/or more than $10,000 in estimated travel expenses for the group. Requests for approval of these events is typically handled by the organizer of the meeting.
 
 #### What if who is traveling changes?
 
