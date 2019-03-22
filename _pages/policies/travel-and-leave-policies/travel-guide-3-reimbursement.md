@@ -4,7 +4,7 @@ title: Step 4 - Get Reimbursed
 
 [Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
 [FAQ](/travel-guide-faq) <br>
-[Back to Traveling](/travel-guide-3-travel)
+[Back to "What to Consider While Traveling"](/travel-guide-2-travel)
 
 
 ## Brief overview of vouchers
