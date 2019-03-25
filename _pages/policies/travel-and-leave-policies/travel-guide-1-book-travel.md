@@ -8,7 +8,7 @@ title: Step 1 - Book Travel in Concur and Secure Approvals
 
 ## Brief overview of booking travel
 
-If you have been [set up in Concur](/first-time-travel-get-in-concur) and have received your [GSA travel card](/first-time-travel-travel-card), [saved your travel card information to your Concur profile](/first-time-travel-complete-concur-profile), and have started the process of [securing approval from your authorizing official](/travel-guide-faq/#how-to-secure-authorizing-official-approval), head into [Concur](travel.gsa.gov), where you can book: 
+If you have been [set up in Concur](/first-time-travel-get-in-concur), received your [GSA travel card](/first-time-travel-travel-card), [saved your travel card information to your Concur profile](/first-time-travel-complete-concur-profile), and have started the process of [securing approval from your authorizing official](/travel-guide-faq/#how-to-secure-authorizing-official-approval) (you may also book first to get the most accurate estimate of costs for either the [email of approval](/travel-guide-faq/#how-to-secure-authorizing-official-approval) or [event request when applicable](/travel-guide-faq/#How-can-I-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-IRL-or-large-team-gathering)), head into **[Concur](travel.gsa.gov)**, where you can book: 
 
 * [Flights or Amtrak](/travel-guide-faq/#how-to-book-flights-or-rail), paid directly by GSA
 * [Hotels](travel-guide-faq/#book-lodging), charged to your GSA travel card
