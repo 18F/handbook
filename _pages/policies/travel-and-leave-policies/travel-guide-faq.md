@@ -212,12 +212,9 @@ Once your authorization is approved and ticketed, you might want to take a look 
 ### How to secure authorizing official approval
 
 You must formally request your authorizing official's approval* via email and forward it to tts-travelauths@gsa.gov, unless you are traveling to a training, conference, speaking event, or other "IRL" or large team gathering, in which case you must follow [the event request process instead](#How-can-I-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-IRL-or-large-team-gathering).
-
-*Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official.
-
-**[Who is my authorizing official?](#who-is-my-authorizing-official-and-what-is-my-budget)** <br>
 <br>
-
+**[Who is my authorizing official?](#who-is-my-authorizing-official-and-what-is-my-budget)**
+<br>
 The body of the email must include the following:     [See an individual template here](/travel-guide-email-templates/#email-template-for-individual-travel) and [a group template here](/travel-guide-email-templates/#email-template-for-group-travel)
 
 * Names of individuals traveling    [What if this changes?](#what-if-who-is-traveling-changes)
@@ -226,6 +223,8 @@ The body of the email must include the following:     [See an individual templat
 * Identified budget that will be paying for the trip    [How do I identify my budget?](#who-is-my-authorizing-official-and-what-is-my-budget)
 * Origin and destinations for each individual    [What if I am traveling to or returning from a location other than my home location?](#What-if-I-am-traveling-to-or-returning-from-a-location-other-than-my-home-location)
 * Estimated expenses for each individual    [How should I estimate my expenses?](#How-should-I-estimate-my-expenses)
+
+*_Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official._
 
 #### Who is my authorizing official and what is my budget?
 
