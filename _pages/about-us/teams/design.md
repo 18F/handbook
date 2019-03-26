@@ -27,7 +27,7 @@ The Design team at 18F includes content, user experience, front end, and visual 
 
 - [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
 - [Lean Product Design Guide](https://pages.18f.gov/lean-product-design/)
-- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://pages.18f.gov/accessibility/) 
+- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://pages.18f.gov/accessibility/)
 
 ## Communication
 
@@ -64,7 +64,7 @@ As per the [org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv
 
 As these teams have grown in size, we’ve introduced **leads** and **supervisors**. In your first week, you’ll be assigned a lead. Leads concentrate on project work while providing a first level of practical support and project advice to 2-3 people. Supervisors carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. Leads and supervisors are selected through nominations and interviews according to team needs. These competitions will be announced ahead of time. More detail on [Design team roles and responsibilites](https://docs.google.com/document/d/1XqgwiUItzRZu4I8KcpQlkCCd5iXM_EbTwsUzXwy-L-w/edit#heading=h.bc6vwqoy0xk4) is provided internally.
 
-Members of the Design team are also assigned to **critique groups.** These groups meet regularly (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. These rotations are announced ahead of time, and if you're interested in taking a turn as a critique lead, you can raise your hand as a candidate at that time. 
+Members of the Design team are also assigned to **critique groups.** These groups meet regularly (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. These rotations are announced ahead of time, and if you're interested in taking a turn as a critique lead, you can raise your hand as a candidate at that time.
 
 ## <a id="what-we-do">What we do</a>
 
@@ -102,10 +102,10 @@ And one more thing: before you start using any new tool that asks for access to 
 Unless otherwise specified, **see [Software](../software/#get-access-to-software-we-already-have) to get a license** for any of these.
 
 - **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license. Visit [#sketch](https://gsa-tts.slack.com/messages/sketch) on Slack for help and sharing tips. One thing that's different about using Sketch at GSA is that Sketch plugins are not impossible to obtain, but might be more time-consuming than -saving. Each Sketch plugin is treated like a [new software request]({{site.baseurl}}/software), and must undergo review by GSA IT review. So far, we haven't found much that we can't accomplish without plugins.
-- **InVision:** We use InVision for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync. 
-  - If you are a member of the design team, once you have requested and received an InVision license, tell your supervisor that you have an account and are ready to be added to the "18F Design Team" group in InVision. This will enable you to see prototypes from all of our projects. When making your own prototypes in the future, always add this team as a collaborator. 
+- **InVision:** We use InVision for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync.
+  - If you are a member of the design team, once you have requested and received an InVision license, tell your supervisor that you have an account and are ready to be added to the "18F Design Team" group in InVision. This will enable you to see prototypes from all of our projects. When making your own prototypes in the future, always add this team as a collaborator.
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **Adobe Creative Cloud:** Visual designers often need CC for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. CC licenses are more limited, so please don’t request access unless you really do need it for your work. 
+- **Adobe Creative Cloud:** Visual designers often need CC for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. CC licenses are more limited, so please don’t request access unless you really do need it for your work.
 
 #### Project management
 Every project and team has a different mix of project management tools based on what works for them. Many internal projects will use **Trello** because it's fast to set up. Get more information on the [How to use Trello]({{site.baseurl}}/trello) page.
@@ -123,7 +123,7 @@ Every project and team has a different mix of project management tools based on 
 #### Word processing
 
 - **Google Drive / Docs / Slides:** This is our primary tool for documents of various sorts.
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions]({{site.baseurl}}/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license if your project work requires it.
+- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing) to get a license if your project work requires it.
 
 ### <a id="assets">Assets</a>
 
