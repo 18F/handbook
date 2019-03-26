@@ -17,7 +17,7 @@ tags:
 
 This page provides an overview of the Merit Promotion Process for both Competitive Service (Career) and Excepted Service positions.
 
-# Intro to the Merit process
+## Intro to the Merit process
 
 Before going into the process, it’s important to note that “promotions” in the traditional sense (private sector) do not exist within the federal government.
 
@@ -56,7 +56,7 @@ Other teams or offices who have a hiring need may ask to view the qualified cand
 
 - In order to hire a candidate to a different team or office, the hiring action owner will need a PD similar to the one associated with the job announcement.
 
-## Filling a vacancy via the Excepted Service version of the Merit Promotion Process
+### Filling a vacancy via the Excepted Service version of the Merit Promotion Process
 
 Although Excepted Service actions are governed by a slightly different set of requirements, TTS has elected to align Excepted Service with the Competitive Service Merit Promotion process; this will create parity between the two processes and the offices that are affected by them. We want all staff to feel like they have the same opportunities. Aligning the processes provides all of the same benefits of transparency, visibility, diversity, etc.
 
@@ -83,5 +83,9 @@ Virtual trainings and information on writing a resume, navigating USAJobs, and g
 - https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/
 - https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/promotions/
 - https://insite.gsa.gov/topics/hr-pay-and-leave/hiring-and-staffing/supervisor-staffing-guide
+
+--------------------------------------------------------------------------------
+
+### Still have questions?
 
 Please reach out to TTS Talent via [#talent](https://gsa-tts.slack.com/messages/talent/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding promotions.
