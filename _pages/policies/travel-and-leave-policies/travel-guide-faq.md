@@ -187,6 +187,14 @@ Examples:
 #### Additional step if you booked your hotel outside of Concur or Ad Trav
 ***Note:** If you did not book a hotel from Concur, a policy violation will be flagged. If this applies to you, [briefly justify your hotel choice](/travel-guide-1-book-travel/#can-i-book-outside-of-concur).
 
+### How to Justify Rental Cars and Personal Vehicle Mileage
+
+In most cases, you can proceed straight on to [stamping and submitting for travel team approval at this point](#how-to-stamp-and-submit-for-travel-team-approval). However, since "common carrier" transit (e.g. public transit, flights, trains, buses, shuttles, taxis, etc) or a government car (more details on this process coming soon) are the preferred modes of transit for official GSA travel, additional justification is required if you intend to incur the following expenses:
+
+* **Rental Cars:** You must [add a comment](#How-should-I-claim-local-transportation-expenses) on the  "Expenses and Receipts" page justifying the use of a rental car as advantageous to the government (considering both cost and time) compared to common carrier transit or a government car. Note that government cars are generally available for day use only, so a car being required for multiple days in a location where rental expenses are cost-effective vs available public transit and taxis is generally sufficient justification.
+
+* **Mileage:** You must [add this in as an expense](#adding-expenses) on the "Expenses and Receipts" page and then [justify the mileage claim as advantageous to the govenment](#How-should-I-claim-local-transportation-expenses) (considering both cost and time) compared to common carrier transit, government car, and rental car. Mileage from your home to the airport (plus associated parking fees or round-trip travel in case of a drop-off) need only be justified as advantageous compared to taxi and public transit, as it is understood that obtaining a government car or rental car is impractical over such a short distance.
+
 ### How to Stamp and Submit for Travel Team Approval
 
 Following this step will ensure your authorization or voucher is in SUBMIT TO APPROVER status, which is required for your request to be reviewed, approved, and ticketed. Before you submit, you can review [this Checklist](https://goo.gl/AWbT7Q) to ensure you've addressed all potential issues that can result in your request getting rejected or returned for correction.
@@ -221,7 +229,7 @@ The body of the email must include the following:     [See an individual templat
 * A brief description of work to be done on the trip
 * Identified budget that will be paying for the trip    [How do I identify my budget?](#who-is-my-authorizing-official-and-what-is-my-budget)
 * Origin and destinations for each individual    [What if I am traveling to or returning from a location other than my home location?](#What-if-I-am-traveling-to-or-returning-from-a-location-other-than-my-home-location)
-* Estimated expenses for each individual    [How should I estimate my expenses?](#How-should-I-estimate-my-expenses)
+* Estimated expenses for each individual, including a sufficient budget for local travel and miscellaneous expenses such baggage fees   [How should I estimate my expenses?](#How-should-I-estimate-my-expenses)
 
 *_Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official._
 
@@ -353,7 +361,7 @@ The following expenses require receipts:
 
 * [Hotels](#hotels)
 * [Flights or Amtrak booked outside of Concur](#air-or-amtrak-booked-outside-of-concur) (Requires additional justification and is only approved on a case-by-case basis)
-* Rental cars and gas for rental cars
+* Rental cars and gas for rental cars (also requires [additional justification](#How-should-I-claim-local-transportation-expenses)
 * Any other expense exceeding $75, including local transportation (This threshold is $25 for local vouchers)
 * Any expenses claimed on a miscellaneous voucher.
 * [Professional liability insurance](#how-can-i-get-reimbursed-for-professional-liability-insurance)
@@ -362,7 +370,7 @@ The following expenses require receipts:
 
 The following expenses don't require receipts, but do require brief descriptions to justify claiming them: 
 
-* [Local transportation expenses of $75 or less per trip (Metro, taxis, POV mileage, etc.)](#local-transportation)
+* [Local transportation expenses of $75 or less per trip (Metro, taxis, personal vehicle mileage, etc.)](#local-transportation)
 * Checked baggage fees for more than one piece of luggage per leg of your trip.
 
 #### Questions about entering specific expenses
@@ -430,13 +438,15 @@ Supervisors may be reimbursed for up to half the cost of professional liability 
 
 #### How should I claim local transportation expenses?
 
-For taxis, public transit, POV mileage and other forms of local transportation, you may [add the expense as normal](#adding-expenses), choosing whichever expense description reflects the nature of the method used. Choose the payment method used, and [upload a receipt](#attaching-receipts) only if the expense was greater than $75 (this threshold is $25 for [local vouchers]()).
+For public transit, taxis, rental cars, POV mileage and other forms of local transportation, you may [add the expense as normal](#adding-expenses), choosing whichever expense description reflects the nature of the method used. Choose the [payment method used](#selecting-payment-type), and [upload a receipt](#attaching-receipts) only for rental cars, rental car gas, or any other expense greater than $75 (this threshold is $25 for [local vouchers](#how-do-i-create-a-local-or-miscellaneous-voucher).
 
-The one other item required for taxis or other local transportation is a brief comment describing the origin and destination of the travel (e.g. "from airport to office"). 
+Any local transit expense other than public transit under $25 requires a brief comment describing the origin and destination of the travel (e.g. "from airport to office"). 
 
 You can add this by clicking on **Show other details** and filling out the **Comments** section that pops up below.
 
-For public transit, a “blanket entry” for all reasonable transportation expenses is OK. For example, an entry for $10 in transit fares, with the above comment describing all travel made would be fine.
+For public transit over $25, a “blanket entry” describing generally the origins and destinations of travel paid for is acceptable.
+
+For rental cars and mileage claims, the comment should also include an additional justification as specified [here](#How-to-Justify-Rental-Cars-and-Personal-Vehicle-Mileage).
 
 For mileage claims over $75, instead of attaching a receipt, attach a screenshot showing a map of your itinerary with the calculated distance.
 
