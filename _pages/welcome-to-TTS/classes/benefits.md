@@ -19,7 +19,7 @@ You can find these documents by logging onto HR Links and selecting the followin
 - Benefits Library icon 
 - Forms Center
 - Select "Health Benefits Enrollment"
-  - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes.."
+  - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes."
 - Once you click "Submit" the documents get sent to the cpc benefits team where they can review and process these actions
 
 *NOTE:* When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).
