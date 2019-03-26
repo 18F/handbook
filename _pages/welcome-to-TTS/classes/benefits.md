@@ -76,6 +76,7 @@ The Office of Personnel Management lists the [plans available in each state](htt
 New employees, employees who move outside of the area covered by their plan, and employees who have certain life qualifying events have 60 days to enroll, modify, change, or cancel their plans. If you do not fit into one of those categories, you can change, modify, cancel, or enroll during Open Season. Open Season typically runs from the Monday of the second full workweek in November through the Monday of the second full workweek in December. OPM provides a [detailed FAQ on eligibility](https://www.opm.gov/healthcare-insurance/Guide-Me/Federal-Employees/#url=Health) for federal employees.
 
 To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollment, cancel your enrollment, or suspend your enrollment you must do so in HR Links by taking the following steps:
+
 - Select the Benefits Library icon 
 - Click on the Forms Center
 - Select "Health Benefits Enrollment"
