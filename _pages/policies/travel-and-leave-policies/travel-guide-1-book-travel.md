@@ -25,6 +25,7 @@ Any reservations made in Concur will be held until approvals are secured and fin
 Once you have finalized your reservations, there are still a few more steps to follow through on.
 
 * [Completing trip information](/travel-guide-faq/#how-to-complete-your-trip-information), including relevant details about your trip.
+* [Justify any rental car use or personal vehicle mileage claims](/travel-guide-faq/#How-to-Justify-Rental-Cars-and-Personal-Vehicle-Mileage), when applicable.
 * [Stamp and submit authorization](/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval), ensuring your authorization is in SUBMIT TO APPROVER status.
 * If you haven't done so already, [secure written approval from your authorizing official](/travel-guide-faq/#how-to-secure-authorizing-official-approval) and send it to tts-travelauths@gsa.gov so the TTS travel team can likewise approve your trip in the system.
 
