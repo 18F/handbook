@@ -17,7 +17,7 @@ Required classes will be assigned in OLU and pushed individually to the OLU home
 * Annual Ethics Training
 * Controlled Unclassified Information
 * COOP Awareness Training
-* Cyber Security & Privacy Training
+* 2019 GSA Mandatory Cyber Security and Privacy Training
 * Employee Accountability for GSA Personal Property
 * Insider Threat Awareness & Reporting
 * Occupational Health and Safety

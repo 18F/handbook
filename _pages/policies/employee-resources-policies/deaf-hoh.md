@@ -170,3 +170,7 @@ Work with this program within the Office of Civil Rights to get assistive techno
  * **Subtitles:** A text version of only the spoken dialogue appears on the visual display or screen. (*See difference, closed captioning*)
  * **Video Remote Interpreting (VRI):** An on-demand sign language interpreting service through webcam, internet connection and a VRI software app.
  * **Translator:** A translator converts information from written or recorded materials into sign language. (*See difference, interpreter*)
+
+## Questions
+
+Any questions? Find the Accessibility Guild and the Diversity Guild on Slack: [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility/), [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/)
