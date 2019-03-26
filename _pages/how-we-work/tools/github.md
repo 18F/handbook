@@ -10,11 +10,7 @@ GSA IT has staff that manage GSA's GitHub org. See more information about that i
 
 ## <a id="setup">Setup</a>
 
-<<<<<<< HEAD
-GitHub is a web application, so there&rsquo;s no installation necessary. Due to security restrictions, the GitHub Desktop app is _not_ currently approved for use at GSA.
-=======
-GitHub is a web application, so there&rsquo;s no installation necessary.
->>>>>>> master
+GitHub is a web application, so there's no installation necessary. Due to security restrictions, the GitHub Desktop app is ***not*** currently approved for use at GSA.
 
 If you don&rsquo;t have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention]({{site.baseurl}}/records-management) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email.
 
