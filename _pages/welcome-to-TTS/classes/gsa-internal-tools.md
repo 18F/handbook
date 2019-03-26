@@ -161,12 +161,3 @@ For software requests, see [Software](../software/).
 
 If you need office supplies that aren’t available in your office, software, or need to make any other request for TTS to purchase, read on [here]({{site.baseurl}}/purchase-requests) for what to do next.
 
-## Get a copy of Microsoft Office
-
-1. See [Software](../software/#get-access-to-software-we-already-have).
-1. You’ll receive an email from Microsoft Volume Licensing Service Center. Don't click on the link in the email. *Instead*, [create a Microsoft Account](https://login.live.com/) with your .gov email.
-1. Check your email to confirm the account.
-1. Once the account is set up, click the link from the Microsoft Volume Licensing Service Center.
-1. Enter your gsa.gov email again.
-1. Confirm said email by clicking on a link sent in a second, separate email from the Microsoft Volume Licensing Service Center.
-1. Enter the Service Center and search for and download your software.
