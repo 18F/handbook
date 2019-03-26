@@ -1,91 +1,105 @@
 ---
-title: Promotions
+title: TTS Jobs
 tags:
-- Promotions
+- TTS Jobs
+- tts jobs
+- TTSJobs
+- ttsjobs
+- details
+- Details
+- jobs 
+- Jobs
+- promotion
+- Promotion
 - Promotions
 - promotion
-- promotion
-- raise
-- increase
-- Merit Promotion
-- merit promotion
-- Merit Promotions
-- merit promotions
-- Merit
-- merit
+- promotions
+- staffing plan
+- Staffing Plan
 ---
 
-This page provides an overview of the Merit Promotion Process for both Competitive Service (Career) and Excepted Service positions.
+This page serves as a central listing for:
+- Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+- Hiring actions using the Excepted Service version of the Merit Promotion Process
+- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
 
-## Intro to the Merit process
+If you’d like to be notified when new opportunities are listed on this page, please join the #TTSJobs slack channel.
 
-Before going into the process, it’s important to note that “promotions” in the traditional sense (private sector) do not exist within the federal government.
+For more information on hiring via the Competitive Service (Career) Merit Promotion Process or the Excepted Service version of the Merit Promotion Process, please visit the [Promotions](https://handbook.18f.gov/promotions/) page of the handbook.
 
-Government has a position driven view; everything begins with the need, not the person. This means that a position is not created for the purpose of promoting someone.  Instead, the organization identifies a need for a higher level position due to the type of work that must be accomplished and can choose to fill that need through multiple recruitment or staffing methods, including the Merit Promotion process.
+## Announcements 
 
-> “One avenue of recruitment is through GSA's merit staffing process. GSA's Merit Promotion Plan contains the requirements for filling vacancies through internal competition, i.e., filling from existing GSA  and other eligible staff (i.e. federal employees in other agencies). Merit promotion procedures provide a fair and systematic means of identifying, considering, and selecting GSA and other eligible candidates for promotions and career opportunities based on the Merit Principles.”
+coming soon!
 
-As you can see from the above excerpt from GSA’s policy, the Merit process is for “filling vacancies through internal competition”. The Merit process increases visibility of opportunities within TTS and creates an avenue for other federal employees to join TTS, thereby increasing the diversity of the organization.
 
-### Filling a vacancy via Competitive Service (Career) Merit Promotion Process
+### External Process
 
-As part of the larger FAS organization, TTS must also meet the agency staffing plan requirements. Which means that offices across TTS have a set number of “positions” (i.e., things that represent FTE) that have been approved by TTS, CFO and FAS Front Office as part of the TTS Staffing Plan. If an office has vacant positions available, they can choose to fill those positions through external recruitment or through the Merit Promotion process (i.e., internal recruitment or current or former feds from other agencies).
+The following explains the process for advertising roles that hiring managers would like to post internally (within TTS only). Types of roles include: Supervisor, Director, Detail opportunities.
 
-- The office requesting the hiring action must have a vacant position available on the staffing plan that can accommodate the required GS level.
-- If an available position isn’t on the approved staffing plan, then TTS Front Office & CFO will need to approve a business justification for the position. After approval, OHRM will need to create a new position number.
-- Whether internal or external, all hiring actions will be included in the overall TTS backlog. They will be reviewed and approved by TTS leadership following the process that’s in use today.
+Since these are hiring actions, they will mirror our [Merit Promotion](https://handbook.18f.gov/promotions/) process.  This means:
+- There must be a vacant Position Number availale for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
+- It must be prioritized by the Director of your office and the Front Office
 
-Once the hiring action reaches the top of the backlog or has been given priority standing by the applicable Business Unit and TTS Front Office, then the Talent team can initiate the action with OHRM. At this point the process and requirements are the same as any other competitive service hiring action.
+Talent will assist and facilitate in the hiring process but in order to avoid conflicts of interest, the hiring action owner will be primarily responsible for developing job materials and interacting with applicants (employees).
 
-Talent will assist and facilitate in the hiring process but in order to avoid conflicts of interest, the hiring action owner will be primarily responsible for developing job materials (Position Description (PD), Specialized Experience, etc.). For example, Talent will assist in submitting new PD requests to OHRM Classification and will attend the meetings with the hiring action owner, but won’t be drafting materials on behalf of the hiring action owner.
 
-After hiring action owners create all the required documents, the hiring action is ready for announcement. Talent will submit all documentation to the OHRM Staffing Specialist and work with them to get the job announcement posted on USAJobs.
+### Submitting a request 
 
-As a Competitive Service Merit Promotion hiring action, the opportunity will be limited to only current or former federal employees. To address the feedback we’ve received regarding diversity, specifically about providing opportunities for other federal employees to compete for roles within TTS, the application will be open to all federal employees.  
+If this request is not on the current staffing plan or it is on the staffing plan, but the Hiring Manager (HM) would like it to be prioritized sooner, they must get approval from their organizations Director (ex: Angela Colter for 18F). If the Director agrees, then:
+- The Director sends a request to [email](mailto:tts-talentteam@gsa.gov)
+- Talent will send the request to the TTS Front Office 
+- If Front Office approves, Talent will add the role to the Backlog of the Talent Acquisition Work-System Board
 
-The job announcements will be posted on USAJobs.
+### Job Prep
 
-- Jobs will be posted for 5 to 10 days.
-- Jobs will be open to all Competitive Service federal employees to ensure diversity of the applicant pool.
+Once the prioritized role is ready to be worked on, Talent will move the role to the Job Prep stage on the trello board and reach out to the HM to begin the process.
+- The Talent PoC assigned to the role will supply the HM with the following templates:
+  - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1_NYCLGtDANqs0EhgdjEbtNC7fUUJVQV35NTN6GMIkiM/edit?usp=sharing) for this need
+    - HM should consider developing these documents prior to the role being selected so that the process will move quicker
+  - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing) for this need
 
-As a Competitive Service Merit Promotion hiring action, all candidate selection activities (reviewing resumes, making a selection, etc.) is handled through OHRM’s Monster hiring system. It’s up to each hiring  action owner to define what their selection process will be (interviews, etc.). Talent can assist in the coordination of these activities.
+In addition to the information within the templates, the Action Owner will need to provide:
+- Interviewer names (resume reviewer if different than HM or interviewers)
+- Custom Application Form questions
 
-TTS employees who are interested in applying for the position should reach out to their supervisor (if they are not the hiring action owner), peers, or the online resources below for guidance. They should not reach out to the Talent Team, as it would be a conflict of interest for us to advise any potential applicant on anything other than process-related questions or issues.
+Once the TTSJobs Announcement is complete, Talent will:
+- Add it to [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) on Slack informing everyone of the new opportunity
+- Add it to [TTSJobs Listings](#annoucements)
 
-Other teams or offices who have a hiring need may ask to view the qualified candidate pool from another team’s posted role and make a selection if they have an available position on the staffing plan.
+### Job Posted
 
-- In order to hire a candidate to a different team or office, the hiring action owner will need a PD similar to the one associated with the job announcement.
+When the job is posted, the role will move to the _Job Announcement_ stage on the trello board the HM dictates when and for how long they would like to post the role. Once the role comes down, Talent will save the resumes and applications in a folder that will be shared with the HM, interviewers and anyone else involved in the hiring decision.
 
-### Filling a vacancy via the Excepted Service version of the Merit Promotion Process
+While the applicants are being reviewed by the team, the role will sit in the _Qualification_ stage of the trello board.
 
-Although Excepted Service actions are governed by a slightly different set of requirements, TTS has elected to align Excepted Service with the Competitive Service Merit Promotion process; this will create parity between the two processes and the offices that are affected by them. We want all staff to feel like they have the same opportunities. Aligning the processes provides all of the same benefits of transparency, visibility, diversity, etc.
+### Qualification
 
-The prioritization of the Excepted Service Promotion process will be identical to the Competitive Service Merit Promotion process. The only difference between them will be that USAJobs and any associated steps will not be used.
+The hiring team is responsible for confirming the applicants meet the qualifications outlined in the posting  (i.e. GS level, required experience).
 
-- The office requesting the Excepted Service Promotion action will need to have a vacant position available on the CFO-approved staffing plan that can accommodate the required GS level.
+For HR to move forward with a selection, the applicant must meet the following qualification: 
 
-- Talent will initiate the hiring action once it reaches the top of the backlog or once the applicable Business Unit and TTS Front Office have given the hiring action priority.
+- must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below 
+  - if applicant is at the grade below, they will need to provide an updated resume and HR will need to qualify them. **This means Supervisors should NOT announce who they have selected until HR approves the selection**
+- If the role being advertised is a detail and does not have a PD associated with it, then any GS level can apply, unless the HM specifies which GS levels they are accepting.
 
-This is where the process diverges from the Competitive Service Merit Promotion process as this isn’t an “official” job announcement.
 
-- The Excepted Service Promotion opportunity will be posted internally and will be open to anyone in TTS.
+### Interview
 
-The hiring action owner is responsible for defining what the minimum requirements are for the role (i.e., the “specialized experience” needed to be eligible) and the selection process, including any interviewing materials or criteria that will be used to make the selection. To avoid any potential conflicts of interest, Talent will assist in an advisory role only.
+Once the team has decided who they would like to move forward with, they will send the list of applicants to their Talent PoC for interview scheduling.
 
-- After the hiring action owner has made a selection, Talent will submit the needed information (applicant resume and PD) to OHRM who will then qualify that applicant. If the applicant is found qualified, OHRM will process the action, moving the selected staff to the new position.
+### Selection
 
-Training and Additional Resources
-Virtual trainings and information on writing a resume, navigating USAJobs, and generally working in the federal government.
+When the team has determined who they would like to place in the role, they must:
+- First confirm with the employee’s supervisor that they are OK with this employee moving to their team 
+- Forward the supervisor's approval to Talent. Talent will need to submit a Reassignment PAR to HR.
 
-- https://www.usajobs.gov/Notification/Events/
-- https://www.usajobs.gov/Help/working-in-government/
-- https://www.usajobs.gov/Help/how-to/
-- https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/
-- https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/promotions/
-- https://insite.gsa.gov/topics/hr-pay-and-leave/hiring-and-staffing/supervisor-staffing-guide
+It is the responsibility of the HM provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
+
+**If you are advertising a detail:** the action can only be submitted for a time period of no more than 120 days. The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
 
 --------------------------------------------------------------------------------
 
 ### Still have questions?
 
-Please reach out to TTS Talent via [#talent](https://gsa-tts.slack.com/messages/talent/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding promotions.
+**Have questions about an announcement listed?** Please reach out to the Hiring PoC listed on the announcement
+**General questions** Please reach out to TTS Talent via [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
