@@ -190,9 +190,6 @@ navigation:
       - text: Employment verification
         url: employment-verification/
         internal: true
-      - text: Merit promotions
-        url: merit-promotions/
-        internal: true
       - text: Overtime and comp time
         url: overtime-and-comp-time/
         internal: true
