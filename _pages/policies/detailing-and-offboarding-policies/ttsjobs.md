@@ -1,5 +1,5 @@
 ---
-title: TTS Jobs
+title: TTSJobs
 tags:
 - TTS Jobs
 - tts jobs
@@ -19,7 +19,7 @@ tags:
 ---
 
 This page serves as a central listing for:
-- Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
 - Hiring actions using the Excepted Service version of the Merit Promotion Process
 - Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
 
@@ -32,9 +32,17 @@ For more information on hiring via the Competitive Service (Career) Merit Promot
 coming soon!
 
 
-### External Process
+## Filling Vacancies using Competitive (Career) and Excepted Service Hiring Actions
 
-The following explains the process for advertising roles that hiring managers would like to post internally (within TTS only). Types of roles include: Supervisor, Director, Detail opportunities.
+Maybe we add a blurb here? Could be simple but seems like we might want to list out all the ways to hire.
+
+## Competitive (Career) and Excepted Service Hiring Actions via the Merit Promotion Process
+
+Details on hiring via the Merit Promotion process can be found [here][https://handbook.18f.gov/promotions/]
+
+## TTS Internal Competitions & Developmental Opportunities
+
+The following explains the process for initiating TTS internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads).
 
 Since these are hiring actions, they will mirror our [Merit Promotion](https://handbook.18f.gov/promotions/) process.  This means:
 - There must be a vacant Position Number availale for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
@@ -42,11 +50,10 @@ Since these are hiring actions, they will mirror our [Merit Promotion](https://h
 
 Talent will assist and facilitate in the hiring process but in order to avoid conflicts of interest, the hiring action owner will be primarily responsible for developing job materials and interacting with applicants (employees).
 
-
 ### Submitting a request 
 
 If this request is not on the current staffing plan or it is on the staffing plan, but the Hiring Manager (HM) would like it to be prioritized sooner, they must get approval from their organizations Director (ex: Angela Colter for 18F). If the Director agrees, then:
-- The Director sends a request to [TTS-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov)
+- The Director sends a request to tts-talentteam@gsa.gov
 - Talent will send the request to the TTS Front Office 
 - If Front Office approves, Talent will add the role to the Backlog of the Talent Acquisition Work-System Board
 
@@ -96,6 +103,8 @@ When the team has determined who they would like to place in the role, they must
 It is the responsibility of the HM provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
 
 **If you are advertising a detail:** the action can only be submitted for a time period of no more than 120 days. The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
+
+### TTS Internal Competitions & Developmental Opportunities
 
 --------------------------------------------------------------------------------
 
