@@ -4,9 +4,10 @@ tags:
 - welcome
 - letter
 ---
-Welcome!
 
-You’ve just joined a remarkable group of people doing inspiring work. We have an unprecedented opportunity to bring our government into the digital age and transform the way it works. This opportunity is what brings us together and keeps us excited about the work we do.
+You’ve just joined a remarkable group of people doing inspiring work.
+
+We have an unprecedented opportunity to bring our government into the digital age and transform the way it works. This opportunity is what brings us together and keeps us excited about the work we do.
 
 Your colleagues here are extraordinarily talented and dedicated, and they care deeply about making a difference.  You will find that we have a strong culture that is inclusive, transparent, respectful, and upbeat.
 

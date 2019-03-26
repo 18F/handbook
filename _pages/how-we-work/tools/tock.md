@@ -2,18 +2,18 @@
 title: Tock
 ---
 
+We use Tock to track our time.
+
 ## Quick reference for 18F staff
 
 **18F staff should only enter time in the following categories:**
 
 - **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F.
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
-- **18F Out of Office - #670:** Vacation time, federal holidays, or sick time 
+- **18F Out of Office - #670:** Vacation time, federal holidays, or sick time
 - **18F Project work - project ID varies:** The specific projects you're working on.
 
 ## What is Tock, and why do we use it?
-
-We use Tock to track our time.
 
 To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
 
@@ -79,15 +79,15 @@ You must not bill for the following activities because these are indirect costs 
 
 If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. (Directors and supervisors have different billability expectations.)
 
-That leaves up to 20% of your time to be spent on non-billable work. There are two types of non-billable work, both of which are used to manage the running of 18F itself: GSA-mandated non-billable work and 18F non-billable work. 
+That leaves up to 20% of your time to be spent on non-billable work. There are two types of non-billable work, both of which are used to manage the running of 18F itself: GSA-mandated non-billable work and 18F non-billable work.
 
 GSA-mandated non-billable work includes time spent in HRLinks, mandatory OLU trainings, IDPs, SF-182s, annual reviews, and so forth. These are the things we don’t have a choice but to spend time on.
 
-18F non-billable work includes time spent in guilds and working groups, team coffees, chapter meetings, approved internal projects, business development, conference attendance, and anything that contributes to the running of 18F as an organization. 
+18F non-billable work includes time spent in guilds and working groups, team coffees, chapter meetings, approved internal projects, business development, conference attendance, and anything that contributes to the running of 18F as an organization.
 
 Not sure whether work you’re doing is billable? If it’s not explicitly an indirect cost, it’s project work.
 
-So for most people in a given 40-hour week, the expectation is to bill at least 32 hours to project work. But what about holidays or leave time? Then you’ll need to spend 80% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days: 
+So for most people in a given 40-hour week, the expectation is to bill at least 32 hours to project work. But what about holidays or leave time? Then you’ll need to spend 80% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
 
 Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed)
 --- | --- | ---
@@ -107,7 +107,7 @@ If you still find that you don't have enough work to bill to the hour expectatio
 
 Working more than 32 billable hours is just fine! 32 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
 
-- Before you work those extra hours, please review the [Overtime and Comp Time guidance](../overtime-and-comp-time-parked/) in the TTS Handbook and talk to your lead to figure out if and how much over 40 you can work
+- Before you work those extra hours, please to your lead to figure out if and how much over 40 you can work
 - Get your supervisor's approval in writing
 - Email approval to Leah Gitter, who will adjust Tock setting to allow for 40+ hours to be recorded
 - Tell your project's AM too so they can adjust the project's financial accounting

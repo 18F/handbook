@@ -13,9 +13,6 @@ We use text editors to write documentation in [Markdown](https://github.com/adam
   by default. Also available on OS X via [Homebrew](http://brew.sh/)
 * [Atom](https://atom.io/)
 * [Sublime Text](http://www.sublimetext.com/): This is a paid app, but we have licenses. If you use Sublime, [read your team’s recommended packages](https://gsa-tts.slack.com/archives/general-talk/p1454077646000991) for the program.
-* [TextMate 2](http://macromates.com/)
-* [TextWrangler](http://www.barebones.com/products/textwrangler/)
-* [Ulysses](http://www.ulyssesapp.com/): This is also a paid app.
 
 ---
 
