@@ -19,6 +19,8 @@ For more information on hiring via the Competitive Service (Career) Merit Promot
 
 The following explains the process for initiating TTS internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads).
 
+For detailed information specific to initiating an internal or external detail, please review the [details page of the handbook](https://handbook.18f.gov/assignee-detail/)
+
 Since these are hiring actions, they will mirror our [Merit Promotion](https://handbook.18f.gov/promotions/) process.  This means:
 - There must be a vacant Position Number availale for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
 - It must be prioritized by the Director of your office and the Front Office
