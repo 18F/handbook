@@ -33,8 +33,45 @@ coming soon!
 
 
 ## Filling Vacancies using Competitive (Career) and Excepted Service Hiring Actions
+There are 4 different hiring authorities we use. Before advertising a role, you should consider which route you would like to use:<br>
 
-Maybe we add a blurb here? Could be simple but seems like we might want to list out all the ways to hire.
+**Delegated Examining:** Delegated Examining (DE) is the method used to fill competitive service positions with applicants that may or may not have prior Federal service.  Vacancy announcements are open to all U.S. citizens. 
+
+When requesting to post the DE route, here are some items to consider:
+- If a current Fed does apply they must be one GS level below the GS level being advertised for at least one year (so if role being advertised is for a GS-15, you must have been a GS-14 for 1+ yrs) OR are the same GS level as the role being advertised
+- Veterans preferance applies
+- Role must be advertised on USAJobs
+- If the role is technical, then teams can use their own SMEs
+
+**Direct Hire Authority:** A Direct-Hire Authority (DHA) is a hiring authority that the Office of Personnel Management (OPM) can grant to Federal agencies for filling vacancies in specific occupations when it can be proven that there is a critical hiring need or a severe shortage of candidates. GSA currently has the authority to only use DHA for cybersecurity roles such as the IT Specialist (Infosec) role. 
+
+When requesting to post the DHA route, here are some items to consider:
+- If a current Fed does apply they must be one GS level below the GS level being advertised for at least one year (so if role being advertised is for a GS-15, you must have been a GS-14 for 1+ yrs) OR are the same GS level as the role being advertised
+- Veterans preferance does not apply
+- Applicants only need to meet the Specialized Experience to be considered for the role
+- Role must be advertised on USAJobs
+
+**Merit Promotions:** Merit promotions (MP) are for career feds only.  These are employees who are not on a term appointment and likely applied through USA jobs. To be eligible applicants:
+- have been a competitive employee for at least one year.
+- must be one GS level below the GS level being advertised for at least one year (so if role being advertised is for a GS-15, you must have been a GS-14 for 1+ yrs) OR are the same GS level as the role being advertised. 
+ 
+When requesting to post the MP route, here are some items to consider:
+- Veterans preference does not apply
+- The role will be advertised agency wide (unless clear justification is given as to why TTS will benefit from limiting the applicant pool)
+- These roles must be advertised on USA Jobs
+
+**Excepted Service:** These roles are term roles and must be technical in nature.  In order to be eligible for these roles applicants should be experts in their fields.  We are able to advertise for 3 different Position Descriptions (PDs)
+- Innovation Specialist GS-13
+- Innovation Specialist GS-14
+- Innovation Specialist GS-15
+
+When requesting to post the Excepted Service route, here are some items to consider:
+- We are required to post these roles, but they do not need to be advertised on USAJobs; we are able to post them on our [JoinTTS]([https://join.tts.gsa.gov) website
+- If a current Fed does apply they must be one GS level below the GS level being advertised for at least one year (so if role being advertised is for a GS-15, you must have been a GS-14 for 1+ yrs) OR are the same GS level as the role being advertised
+- Veterans preference applies
+- These roles are term appointments. Candidate will be hired for a two year term that can be extended for another two years. Once they’ve completed their four years they can not continue to work at GSA, nor come back to work at GSA in the future, on that same hiring authority. 
+
+
 
 ## Competitive (Career) and Excepted Service Hiring Actions via the Merit Promotion Process
 
@@ -83,8 +120,9 @@ While the applicants are being reviewed by the team, the role will sit in the _Q
 
 The hiring team is responsible for confirming the applicants meet the qualifications outlined in the posting  (i.e. GS level, required experience).
 
-For HR to move forward with a selection, the applicant must meet the following qualification: 
+For HR to move forward with a selection, the applicant must meet the following qualifications: 
 
+- been on their current PD for at least 90 days
 - must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below 
   - if applicant is at the grade below, they will need to provide an updated resume and HR will need to qualify them. **This means Supervisors should NOT announce who they have selected until HR approves the selection**
 - If the role being advertised is a detail and does not have a PD associated with it, then any GS level can apply, unless the HM specifies which GS levels they are accepting.
