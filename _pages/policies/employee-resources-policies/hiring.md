@@ -48,7 +48,7 @@ In addition to the information within the templates, the Action Owner will need 
 
 Once the TTSJobs Announcement is complete, Talent will:
 - Add it to [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) on Slack informing everyone of the new opportunity
-- Add it to [TTSJobs Listings]({{site.baseurl}}/#annoucements)
+- Add it to [TTSJobs Listings]({{site.baseurl}}/#announcements)
 
 ### Job Posted
 
