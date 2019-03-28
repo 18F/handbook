@@ -45,7 +45,7 @@ Note that if your travel extends past midnight, you get the full meal allowance 
 
 #### M&IE and use of the GSA travel card
 
-While use of the GSA travel card is required for all travel expenses when practicable, more exceptions to the use of the GSA travel card may arise with paying for M&IE. Using the GSA travel card to pay for meals and incidental expenses requires some additional administrative work when submitting a voucher. [Here's](/travel-guide-4-reimbursement/#meals-paid-on-the-travel-card) what you should be aware of when completing your voucher-- should you use the GSA travel card for meals and incidental expenses, keeping receipts for your personal use may be helpful. Feel free to book [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/) for a walkthrough on what to keep in mind when paying for meals while traveling.
+While use of the GSA travel card is required for all travel expenses when practicable, using the GSA travel card to pay for M&IE requires some additional administrative work when submitting a voucher after returning from your trip. [Here's](/travel-guide-faq/#how-should-i-claim-meals-paid-on-the-travel-card) what you should be aware of when completing your voucher-- should you use the GSA travel card for meals and incidental expenses, keeping receipts for your personal use may be helpful. Feel free to book [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/) for a walkthrough on what to keep in mind when paying for meals while traveling.
 
 ### Other necessary expenses
 
@@ -57,7 +57,7 @@ Reasonable local transit costs may be authorized in the following situations:
 
 * From the airport or train station to the residence or office
 * Between a place of lodging and a place of business, or between two or more places of business
-* To obtain meals when the nature and location of the work is such that meals cannot be obtained within reasonable walking distance. Expenses claimed to obtain a meal for personal convenience or preference, however, will not be reimbursed.
+* To obtain meals only when the nature and location of the work is such that meals cannot be obtained within reasonable walking distance. Expenses claimed to obtain a meal for personal convenience or preference, however, will not be reimbursed.
 
 #### Baggage fees
 
