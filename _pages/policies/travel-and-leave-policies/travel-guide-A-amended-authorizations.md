@@ -5,7 +5,8 @@ navtitle: Amended Authorizations
 
 [TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
 [Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
-[FAQ](/travel-guide-faq)
+[FAQ](/travel-guide-faq) <br>
+[Jump to Step 2: What to Consider While Traveling](/travel-guide-2-travel)
 
 Sometimes, travel plans change. Fortunately, Concur, AdTrav, your carriers, your authorizing officials, and the TTS travel team are ready for that! 
 
