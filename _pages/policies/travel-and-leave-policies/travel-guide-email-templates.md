@@ -2,7 +2,10 @@
 title: Travel Approval Email Templates
 ---
 
-[TTS Travel Guide Table of Contents](/travel-guide-table-of-contents)
+[TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
+[TTS Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
+[FAQ](/travel-guide-faq) <br>
+[Jump to Step 1: Booking Travel](/travel-guide-1-book-travel) <br>
 
 ##### Note about travel to a training, conference, speaking event, large team IRL, or international
 
