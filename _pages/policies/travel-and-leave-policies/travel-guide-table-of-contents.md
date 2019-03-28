@@ -17,7 +17,9 @@ title: Travel Guide Table of Contents
     * [Booking a rental car](/travel-guide-faq/#booking-a-rental-car)
     * [Completing trip information](//travel-guide-faq/#completing-trip-information)
     * [Justify any rental car use or personal vehicle mileage claims](/travel-guide-faq/#How-to-Justify-Rental-Cars-and-Personal-Vehicle-Mileage)
+    * [TTS Travel approval checklist](https://docs.google.com/document/d/173NqUPNkxa9GO0ixWovWd1WFdg2Rkvp3-hXumsERaQE/edit)
     * [Stamping and Submitting for Travel Team Approval](/travel-guide-faq/#how-to-submit-for-travel-team-approval)
+    * [Unofficial TTS guide to Concur FAILS](https://docs.google.com/document/d/1zD020XAXRIpuXPKgY0zadLBNJmBaRj_29-DhClrkZAo/edit)
 * [2. Travel](/travel-guide-2-travel)
    * [How do I use the GSA travel card?](/travel-guide-2-travel/#use-your-travel-card-when-possible)
    * [Which receipts do I need to keep?](/travel-guide-2-travel/#which-receipts-must-i-keep)
@@ -36,11 +38,24 @@ title: Travel Guide Table of Contents
          * [Flights or Amtrak booked outside of Concur](/travel-guide-faq/#how-should-i-claim-air-or-amtrak-booked-outside-of-concur)
       * [Expenses requiring justification](/travel-guide-faq/#expenses-requiring-justification)
          * [Local transportation](/travel-guide-faq/#how-should-i-claim-local-transportation-expenses)
-   * [Stamping and Submitting for Travel Team Approval](/travel-guide-faq/#how-to-submit-for-travel-team-approval)
+    * [TTS Travel approval checklist](https://docs.google.com/document/d/173NqUPNkxa9GO0ixWovWd1WFdg2Rkvp3-hXumsERaQE/edit)
+    * [Stamping and Submitting for Travel Team Approval](/travel-guide-faq/#how-to-submit-for-travel-team-approval)
+    * [Unofficial TTS guide to Concur FAILS](https://docs.google.com/document/d/1zD020XAXRIpuXPKgY0zadLBNJmBaRj_29-DhClrkZAo/edit)
    * [Issues with reimbursement](/travel-guide-faq/#issues-with-reimbursement)
    * [Amending vouchers](/travel-guide-faq/#how-do-i-amend-my-voucher-after-it-is-approved)
 * [Appendix A: Amended authorizations](/travel-guide-A-amended-authorizations)
 * [Appendix B: After hours and emergency travel procedures](/after-hours-emergency-travel-authorizations)
 * [Travel Guide FAQ](/travel-guide-faq)
+
+### GSA resources
+
+* [Federal Travel Regulation](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=122664)
+* [GSA travel policy](https://insite.gsa.gov/cdnstatic/insite/OAS_57001_CHGE_1_Temporary_Duty_%28TDY%29_Travel_Policy_%28Final_Word_Version_-_6-5-2017%29_Revised_9-15-2017_.pdf)
+* [GSA travel card policy](https://insite.gsa.gov/cdnstatic/OAS_5740.1_Government_Travel_Charge_Card_Program_%28Version_posted_to_Directives_Library_-_11-13-2015%29.pdf)
+* [GSA travel advances policy](https://insite.gsa.gov/cdnstatic/OAS_5735.1_Travel_Advances_%28Policy%29_%28Signed_on_October_2__2015%29.pdf)
+* [GSA conference and event policy](https://www.gsa.gov/cdnstatic/OAS_5785.1_Conference_and_Event_Management_%28Signed_on_January_28__2015%29.pdf)
+* [GSA official guide to Concur](https://seags1tmwp05.concursolutions.com/tm/help508/GTMWebHelp.htm)
+* Business Applications Service Desk (Concur Helpdesk): (866) 450-6588, press 2 or businessapps@gsa.gov
+
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
