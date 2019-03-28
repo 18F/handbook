@@ -190,6 +190,9 @@ navigation:
       - text: Employment verification
         url: employment-verification/
         internal: true
+      - text: Hiring
+        url: hiring/
+        internal: true
       - text: Overtime and comp time
         url: overtime-and-comp-time/
         internal: true
@@ -502,4 +505,3 @@ navigation:
     - text: PIF Website
       url: https://presidentialinnovationfellows.gov/
       internal: false
-      
