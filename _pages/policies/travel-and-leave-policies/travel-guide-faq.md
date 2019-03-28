@@ -188,6 +188,10 @@ Examples:
 #### Additional step if you booked your hotel outside of Concur or Ad Trav
 ***Note:** If you did not book a hotel from Concur, a policy violation will be flagged. If this applies to you, [briefly justify your hotel choice](/travel-guide-1-book-travel/#can-i-book-outside-of-concur).
 
+#### Additional step if you are extending travel for personal reasons
+
+[Deleting hotel expenses](#deleting-expenses) which autopopulate on your authorization is relatively straighforward, but [an additional step is required](#How-can-I-remove-extra-days-at-personal-expense-from-my-authorization-or-voucher) to remove M&IE. In some cases, Concur may not allow you to do this on the authorization. If that's the case, proceed as normal and return to this step when creating your voucher after you get back.
+
 ### How to Justify Rental Cars and Personal Vehicle Mileage
 
 In most cases, you can proceed straight on to [stamping and submitting for travel team approval at this point](#how-to-stamp-and-submit-for-travel-team-approval). However, since "common carrier" transit (e.g. public transit, flights, trains, buses, shuttles, taxis, etc) or a [government car](https://docs.google.com/document/d/19D9YBPELZav3Y-gNUxEVS4wBbV89iUTUeirH46rE378/edit#) are the preferred modes of transit for official GSA travel, additional justification is required if you intend to incur the following expenses:
@@ -274,7 +278,7 @@ A follow-up to the original email from the authorizing official indicating who t
 
 #### What if I am extending travel for personal reasons?
 
-Include language that specifies which days will be at your own expense, and acknowledge that "I understand all other travel expenses including lodging and meals before or after the official travel dates specified above are my own responsibility."
+Include language that specifies which days will be at your own expense, and acknowledge that "I understand all other travel expenses including lodging and meals before or after the official travel dates specified above are my own responsibility." You may [remove hotels and M&IE](#Additional-step-if-you-are-extending-travel-for-personal-reasons) from your authorization in Concur if you haven't already.
 
 Alternatively, you may book your official travel and have it approved as normal. Once your travel has been approved by the travel team in Concur, you may then call AdTrav at (877) 472-6716 and request to be rebooked on a different flight for personal travel. In the case of most government contract flights, there is no additional charge. However, if there is an additional cost compared to your original itinerary, AdTrav will request you provide a personal credit or debit card number to pay for the difference.
 
@@ -406,7 +410,7 @@ When meals are paid on the travel card, there are a few different ways of docume
 
 * One can leave the payment method of M&IE expenses as the default, **CASH**. After the voucher is processed, there will be an outstanding balance remaining. This will need to be paid-- call the customer service number on the back of the card for more details on making a payment.
 
-###### How can I remove extra days at personal expense from my authorization or voucher?
+##### How can I remove extra days at personal expense from my authorization or voucher?
 
 If you were authorized to extend your trip at your own expense and need to delete M&IE, there are some special instructions that you should follow:
 
