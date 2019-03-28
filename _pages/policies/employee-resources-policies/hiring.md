@@ -27,11 +27,11 @@ Since these are hiring actions, they will mirror our [Merit Promotion](https://h
 
 Talent will assist and facilitate in the hiring process but in order to avoid conflicts of interest, the hiring action owner will be primarily responsible for developing job materials and interacting with applicants (employees).
 
-### Submitting a request 
+### Submitting a request
 
 If this request is not on the current staffing plan or it is on the staffing plan, but the Hiring Manager (HM) would like it to be prioritized sooner, they must get approval from their organizations Director (ex: Angela Colter for 18F). If the Director agrees, then:
 - The Director sends a request to tts-talentteam@gsa.gov
-- Talent will send the request to the TTS Front Office 
+- Talent will send the request to the TTS Front Office
 - If Front Office approves, Talent will add the role to the Backlog of the Talent Acquisition Work-System Board
 
 ### Job Prep
@@ -48,7 +48,7 @@ In addition to the information within the templates, the Action Owner will need 
 
 Once the TTSJobs Announcement is complete, Talent will:
 - Add it to [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) on Slack informing everyone of the new opportunity
-- Add it to [TTSJobs Listings](#annoucements)
+- Add it to [TTSJobs Listings]({{site.baseurl}}/#annoucements)
 
 ### Job Posted
 
@@ -60,10 +60,10 @@ While the applicants are being reviewed by the team, the role will sit in the _Q
 
 The hiring team is responsible for confirming the applicants meet the qualifications outlined in the posting  (i.e. GS level, required experience).
 
-For HR to move forward with a selection, the applicant must meet the following qualifications: 
+For HR to move forward with a selection, the applicant must meet the following qualifications:
 
 - been on their current PD for at least 90 days
-- must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below 
+- must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below
   - if applicant is at the grade below, they will need to provide an updated resume and HR will need to qualify them. **This means Supervisors should NOT announce who they have selected until HR approves the selection**
 - If the role being advertised is a detail and does not have a PD associated with it, then any GS level can apply, unless the HM specifies which GS levels they are accepting.
 
@@ -74,7 +74,7 @@ Once the team has decided who they would like to move forward with, they will se
 ### Selection
 
 When the team has determined who they would like to place in the role, they must:
-- First confirm with the employee’s supervisor that they are OK with this employee moving to their team 
+- First confirm with the employee’s supervisor that they are OK with this employee moving to their team
 - Forward the supervisor's approval to Talent. Talent will need to submit a Reassignment PAR to HR.
 
 It is the responsibility of the HM provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
