@@ -7,8 +7,8 @@ title: Get access to Concur
 [Next to Travel Card](/first-time-travel-travel-card)
 
 1. To access [Concur](http://travel.gsa.gov/), you’ll first need to get a **“travel vendor ID”**. The easiest way to do this is to email kc-travel.finance@gsa.gov and request your vendor ID, and that payroll banking information can be used to generate this.
- * In case the travel finance team is unable to locate your payroll banking information, they may request that you complete [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing) and will provide instructions on how you can send this information to them securely.
- * While you wait for the ID number to be generated (which can take up to 1 business day), you may get started on [applying for the GSA travel card](/first-time-travel-travel-card).
+  * In case the travel finance team is unable to locate your payroll banking information, they may request that you complete [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing) and will provide instructions on how you can send this information to them securely.
+  * While you wait for the ID number to be generated (which can take up to 1 business day), you may get started on [applying for the GSA travel card](/first-time-travel-travel-card).
 
 2. Once you receive the vendor ID number (should look like **E000xxxxx**), complete the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing), minus the EFT enrollment form.
 Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well! 
