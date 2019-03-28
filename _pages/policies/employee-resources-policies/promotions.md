@@ -77,7 +77,7 @@ The hiring action owner is responsible for defining what the minimum requirement
 
 - After the hiring action owner has made a selection, Talent will submit the needed information (applicant resume and PD) to OHRM who will then qualify that applicant. If the applicant is found qualified, OHRM will process the action, moving the selected staff to the new position.
 
-For an overview on the process for advertising an excepted service promotion go to our [TTS Jobs](https://handbook.18f.gov/ttsjobs/) page.
+For an overview on the process for advertising an excepted service promotion go to our [Hiring](https://handbook.18f.gov/hiring/) page.
 
 Training and Additional Resources
 Virtual trainings and information on writing a resume, navigating USAJobs, and generally working in the federal government.
