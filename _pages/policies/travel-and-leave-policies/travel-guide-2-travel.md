@@ -2,10 +2,11 @@
 title: Step 3 - Travel
 ---
 
+[TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
 [Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
 [FAQ](/travel-guide-faq) <br>
-[Back to Trip Approval](/travel-guide-1-book-travel) <br>
-[Jump to Reimbursement](/travel-guide-3-reimbursement)
+[Back to Step 1: Book Travel](/travel-guide-1-book-travel) <br>
+[Jump to Step 3: Reimbursement](/travel-guide-3-reimbursement)
 
 ## What to consider while traveling
 
