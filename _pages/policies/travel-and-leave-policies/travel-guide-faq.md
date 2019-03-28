@@ -487,7 +487,7 @@ If you have a positive balance on the travel card, it is likely that you claimed
 
 If it has been over a week after your voucher has been approved and your reimbursement hasn't arrived (whether to your travel card account or personal account), contact kc-travel.finance@gsa.gov and describe the issue you are having. cc tts-travel@gsa.gov.
 
-#### How do I amended my voucher after it is approved?
+#### How do I amend my voucher after it is approved?
 
 To amend a voucher, go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **Amend voucher**. Provide a brief reason for the amendment, then proceed with [adding your revised expenses](#entering-expenses) and [resubmitting for approval](#submitting-voucher-for-approval). Note that if you want to revise a voucher that has not yet been approved, you can simply **Edit Voucher** instead of amending.
 
