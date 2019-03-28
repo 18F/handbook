@@ -4,8 +4,8 @@ navtitle: First-Time Travel Get a Travel Card
 ---
 
 [TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
-[Travel Guide Table of Contents](/travel-guide-table-of-contents)
-[Back to Get in Concur](/first-time-travel-get-in-concur)
+[Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
+[Back to Get in Concur](/first-time-travel-get-in-concur) <br>
 [Next to Complete Concur Profile](/first-time-travel-complete-concur-profile)
 
 A GSA travel card will help you pay for lodging, taxis, and other miscellaneous expenses while on your trip.
