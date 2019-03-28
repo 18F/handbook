@@ -2,7 +2,7 @@
 title: Travel Guide FAQ
 ---
 
-[TTS Travel 101](https://handbook.18f.gov/travel-101/)
+[TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
 [Travel Guide TOC](/travel-guide-table-of-contents)
 
 ## Questions about booking travel
