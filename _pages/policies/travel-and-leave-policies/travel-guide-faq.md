@@ -2,6 +2,7 @@
 title: Travel Guide FAQ
 ---
 
+[TTS Travel 101](https://handbook.18f.gov/travel-101/)
 [Travel Guide TOC](/travel-guide-table-of-contents)
 
 ## Questions about booking travel
@@ -189,9 +190,9 @@ Examples:
 
 ### How to Justify Rental Cars and Personal Vehicle Mileage
 
-In most cases, you can proceed straight on to [stamping and submitting for travel team approval at this point](#how-to-stamp-and-submit-for-travel-team-approval). However, since "common carrier" transit (e.g. public transit, flights, trains, buses, shuttles, taxis, etc) or a government car (more details on this process coming soon) are the preferred modes of transit for official GSA travel, additional justification is required if you intend to incur the following expenses:
+In most cases, you can proceed straight on to [stamping and submitting for travel team approval at this point](#how-to-stamp-and-submit-for-travel-team-approval). However, since "common carrier" transit (e.g. public transit, flights, trains, buses, shuttles, taxis, etc) or a [government car](https://docs.google.com/document/d/19D9YBPELZav3Y-gNUxEVS4wBbV89iUTUeirH46rE378/edit#) are the preferred modes of transit for official GSA travel, additional justification is required if you intend to incur the following expenses:
 
-* **Rental Cars:** You must [add a comment](#How-should-I-claim-local-transportation-expenses) on the  "Expenses and Receipts" page justifying the use of a rental car as advantageous to the government (considering both cost and time) compared to common carrier transit or a government car. Note that government cars are generally available for day use only, so a car being required for multiple days in a location where rental expenses are cost-effective vs available public transit and taxis is generally sufficient justification.
+* **Rental Cars:** You must [add a comment](#How-should-I-claim-local-transportation-expenses) on the  "Expenses and Receipts" page justifying the use of a rental car as advantageous to the government (considering both cost and time) compared to common carrier transit or a government car.
 
 * **Mileage:** You must [add this in as an expense](#adding-expenses) on the "Expenses and Receipts" page and then [justify the mileage claim as advantageous to the govenment](#How-should-I-claim-local-transportation-expenses) (considering both cost and time) compared to common carrier transit, government car, and rental car. Mileage from your home to the airport (plus associated parking fees or round-trip travel in case of a drop-off) need only be justified as advantageous compared to taxi and public transit, as it is understood that obtaining a government car or rental car is impractical over such a short distance.
 
@@ -247,6 +248,18 @@ If your travel is **billable** you will need to get approval from the director o
 * login.gov: Alex Dalessio
 * Centers of Excellence: Bob DeLuca or Brian Whittaker
 
+#### What if I am traveling for multiple projects?
+
+Secure approval from each authorizing official as you would normally, but with an eye on which project will be covering each expense. When [completing your trip information in Concur](#how-to-complete-trip-information), ensure that either the Trip Name or Document Detail mentions that the travel will be split between multiple projects. If more than one authorizing official has approved expenses for a particular day or leg of the itinerary, clarify which project will be paying for each part of the trip, either via email to tts-travelauths@gsa.gov or comment in the Trip Name or Document Detail sections of Concur. Splitting overall trip costs by a percentage is acceptable as well, as long as the split is agreed upon by all parties.
+
+Another common situation which arises when splitting travel across multiple projects is having days in between, such as a weekend in between travel for two projects. Having official travel approved for the days in between, including weekends or leave is possible as long as the following conditions are met:
+
+* It is not possible to reschedule one of the meetings or events to avoid having days in between.
+* Considering both the travel time and overall cost, it is advantageous to the government to pay for the hotel and meals for the time in betwen rather than the round trip travel cost of having the employee return home.
+* One or both [authorizing officials](#Who-is-my-authorizing-official-and-what-is-my-budget) agree to cover the costs of the time in between.
+
+*_Note that this same situation may arise when travel is required for one project on both sides of a weekend-- the same considerations apply._
+
 #### How can I get my travel approved to attend a training, conference, speaking event, or other "IRL" or large team gathering*?
 
 Instead of obtaining an email of approval, you must follow the [event request process](https://handbook.18f.gov/attending-conferences/). You may [book your travel](/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
@@ -263,11 +276,13 @@ A follow-up to the original email from the authorizing official indicating who t
 
 Include language that specifies which days will be at your own expense, and acknowledge that "I understand all other travel expenses including lodging and meals before or after the official travel dates specified above are my own responsibility."
 
+Alternatively, you may book your official travel and have it approved as normal. Once your travel has been approved by the travel team in Concur, you may then call AdTrav at (877) 472-6716 and request to be rebooked on a different flight for personal travel. In the case of most government contract flights, there is no additional charge. However, if there is an additional cost compared to your original itinerary, AdTrav will request you provide a personal credit or debit card number to pay for the difference.
+
 #### What if I am traveling to or returning from a location other than my home location?
 
 If you were previously scheduled to be on leave or telework at the other location*, the full cost of travel from or to that location can be approved at the discretion of your authorizing official. Ensure that there is language in the email that reflects your itinerary.
 
-If you'd like to schedule personal travel that's incidental to your work trip (i.e. planned after the work trip), after your official work itinerary has been approved in Concur, you can give AdTrav a call at (877) 472-6716 and request that your itinerary be changed, with you covering any difference in cost that may arise.
+If you'd like to schedule personal travel that's incidental to your work trip (i.e. planned after the work trip), after your official work itinerary has been approved in Concur, you can give AdTrav a call at (877) 472-6716 and request that your itinerary be changed for personal reasons, with you covering any difference in cost that may arise.
 
 *Note that while GSA travel policy doesn't explicitly forbid being approved to travel from a foreign location, [travel to or from foreign locations](#international-travel) must be requested in Event Tracker for GSA Administrator approval at least 7 weeks in advance, amking approval in these circumstances extremely unlikely.
 
@@ -381,7 +396,7 @@ The following expenses don't require receipts, but do require brief descriptions
 
 * **For example**: Consider a trip taken between 9/16 and 9/18. M&IE is $69 per day in DC, and is 75% of $69 ($51.75) on the first and last days of a trip. We see that the three days of M&IE has been added automatically.
 
-###### How should I claim meals paid on the travel card
+##### How should I claim meals paid on the travel card
 
 When meals are paid on the travel card, there are a few different ways of documenting it:
 
