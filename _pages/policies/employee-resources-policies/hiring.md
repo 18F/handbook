@@ -22,7 +22,7 @@ The following explains the process for initiating TTS internal competitions (e.g
 For detailed information specific to initiating an internal or external detail, please review the [details page of the handbook](https://handbook.18f.gov/assignee-detail/)
 
 Since these are hiring actions, they will mirror our [Merit Promotion](https://handbook.18f.gov/promotions/) process.  This means:
-- There must be a vacant Position Number availale for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
+- There must be a vacant Position Number available for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
 - It must be prioritized by the Director of your office and the Front Office
 
 Talent will assist and facilitate in the hiring process but in order to avoid conflicts of interest, the hiring action owner will be primarily responsible for developing job materials and interacting with applicants (employees).
@@ -36,7 +36,7 @@ If this request is not on the current staffing plan or it is on the staffing pla
 
 ### Job Prep
 
-Once the prioritized role is ready to be worked on, Talent will move the role to the Job Prep stage on the trello board and reach out to the HM to begin the process.
+Once the prioritized role is ready to be worked on, Talent will move the role to the Job Prep stage on the Trello board and reach out to the HM to begin the process.
 - The Talent PoC assigned to the role will supply the HM with the following templates:
   - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1_NYCLGtDANqs0EhgdjEbtNC7fUUJVQV35NTN6GMIkiM/edit?usp=sharing) for this need
     - HM should consider developing these documents prior to the role being selected so that the process will move quicker
@@ -54,7 +54,7 @@ Once the TTSJobs Announcement is complete, Talent will:
 
 When the job is posted, the role will move to the _Job Announcement_ stage on the trello board the HM dictates when and for how long they would like to post the role. Once the role comes down, Talent will save the resumes and applications in a folder that will be shared with the HM, interviewers and anyone else involved in the hiring decision.
 
-While the applicants are being reviewed by the team, the role will sit in the _Qualification_ stage of the trello board.
+While the applicants are being reviewed by the team, the role will sit in the _Qualification_ stage of the Trello board.
 
 ### Qualification
 
