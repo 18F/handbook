@@ -37,4 +37,4 @@ The TTS travel team is comprised of the following individuals. Please send your 
 * Matt Ryan (primary (in training), TTS Operations)
 * Ethan Heppner (backup, TTS Operations)
 
-* _Questions about technical issues in Concur should be routed to the Business Applications Service Desk at (866) 450-6588 (press 2) or businessapps@gsa.gov. Questions about the [travel card application](https://handbook.18f.gov/first-time-travel-travel-card/) should be routed to ronnail.rawls@gsa.gov.
+* _Questions about technical issues in Concur should be routed to the Business Applications Service Desk at (866) 450-6588 (press 2) or businessapps@gsa.gov. Questions about the [travel card application](https://handbook.18f.gov/first-time-travel-travel-card/) should be routed to ronnail.rawls@gsa.gov._
