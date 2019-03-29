@@ -9,6 +9,7 @@ tags:
 - Details
 - jobs 
 - Jobs
+- job
 - promotion
 - Promotion
 - Promotions
@@ -16,6 +17,7 @@ tags:
 - promotions
 - staffing plan
 - Staffing Plan
+- staffing plans
 ---
 
 This page serves as a central listing for:
