@@ -10,26 +10,16 @@ Your machine may already have AnyConnect installed. If it is, it will be under C
 
 If it is not installed, here is how you can get access:
 
-1. Download AnyConnect via [ServiceNow](https://gsa.service-now.com/sp?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b&sysparm_category=b628125b7cec0100a6e757fe35f45fb8). Someone from GSA IT will reach out to you within the day.
+1. Request the AnyConnect VPN Client via [ServiceNow](https://gsa.service-now.com/sp?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b&sysparm_category=b628125b7cec0100a6e757fe35f45fb8). Someone from GSA IT will reach out to you within the day.
 2. Follow their directions to install Anyconnect.
-3. Install only the following components:
-      * VPN
-      * Diagnostics and Reporting Tools
-      * Posture
 
-Your install screen should look like this:
+Your installation screen should look like this:
 
 ![AnyConnect Installation Screen]({{ site.baseurl }}/images/anyconnect/1.png)
 
 ## Usage
 
-1. Make sure you are not connected to a GSA network, otherwise the connection will fail.
-2. Launch the Cisco AnyConnect Secure Mobility Client.
-3. Enter either `vpn.gsa.gov/adcontractors` or `vpn.gsa.gov/gfeotp` (this is an old url that may not work) or select `GSA Access OTP` in the Site Name field.
-4. Click **Connect**.
-5. Sign in with your ENT username and password. Your username is your full name, including your middle initial.
-6. You'll be prompted for an answer or token. Enter the [OTP code]({{site.baseurl}}/distributed#otp).
-7. Accept the Government Warning Banner.
+Refer to [Insite](https://preview-insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/virtual-private-network-vpn/vpn-to-mac-os-quick-setup#connect) for the latest instructions on how to use the AnyConnect VPN Client. 
 
 ## Troubleshooting
 
@@ -76,4 +66,6 @@ sudo pkgutil --forget com.cisco.pkg.anyconnect.vpn
 
 #### Still have questions?
 
-Ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)
+Contact the GSA IT Service Desk 
+
+Or ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)

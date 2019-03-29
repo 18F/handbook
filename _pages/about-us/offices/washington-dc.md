@@ -134,7 +134,7 @@ Fitness center users and bicyclists who want to request a locker in the basement
 
 ### Access a printer?
 
-Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#) for more details.
+Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#heading=h.ovrvnlkhtpwh) for more details.
 
 ### Get on the wireless?
 

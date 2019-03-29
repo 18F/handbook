@@ -27,7 +27,7 @@ The Design team at 18F includes content, user experience, front end, and visual 
 
 - [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
 - [Lean Product Design Guide](https://pages.18f.gov/lean-product-design/)
-- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://pages.18f.gov/accessibility/) 
+- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://pages.18f.gov/accessibility/)
 
 ## Communication
 
@@ -60,11 +60,11 @@ The Design team at 18F includes content, user experience, front-end, and visual 
 
 ### <a id="structure">Structure</a>
 
-As per the [org chart](https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit#slide=id.g119d27e40c_16_100), 18F Design is itself composed of the content design, user experience (UX) design + frontend design, and visual design teams. Members of the Design team are active participants in the content, frontend, and research [guilds]({{site.baseurl}}/working-groups-and-guilds-101).
+As per the [org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?usp=sharing), 18F Design is itself composed of the content design, user experience (UX) design + frontend design, and visual design teams. Members of the Design team are active participants in the content, frontend, and research [guilds]({{site.baseurl}}/working-groups-and-guilds-101).
 
 As these teams have grown in size, we’ve introduced **leads** and **supervisors**. In your first week, you’ll be assigned a lead. Leads concentrate on project work while providing a first level of practical support and project advice to 2-3 people. Supervisors carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. Leads and supervisors are selected through nominations and interviews according to team needs. These competitions will be announced ahead of time. More detail on [Design team roles and responsibilites](https://docs.google.com/document/d/1XqgwiUItzRZu4I8KcpQlkCCd5iXM_EbTwsUzXwy-L-w/edit#heading=h.bc6vwqoy0xk4) is provided internally.
 
-Members of the Design team are also assigned to **critique groups.** These groups meet regularly (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. These rotations are announced ahead of time, and if you're interested in taking a turn as a critique lead, you can raise your hand as a candidate at that time. 
+Members of the Design team are also assigned to **critique groups.** These groups meet regularly (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. These rotations are announced ahead of time, and if you're interested in taking a turn as a critique lead, you can raise your hand as a candidate at that time.
 
 ## <a id="what-we-do">What we do</a>
 
@@ -102,10 +102,10 @@ And one more thing: before you start using any new tool that asks for access to 
 Unless otherwise specified, **see [Software](../software/#get-access-to-software-we-already-have) to get a license** for any of these.
 
 - **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license. Visit [#sketch](https://gsa-tts.slack.com/messages/sketch) on Slack for help and sharing tips. One thing that's different about using Sketch at GSA is that Sketch plugins are not impossible to obtain, but might be more time-consuming than -saving. Each Sketch plugin is treated like a [new software request]({{site.baseurl}}/software), and must undergo review by GSA IT review. So far, we haven't found much that we can't accomplish without plugins.
-- **InVision:** We use InVision for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync. 
-  - If you are a member of the design team, once you have requested and received an InVision license, tell your supervisor that you have an account and are ready to be added to the "18F Design Team" group in InVision. This will enable you to see prototypes from all of our projects. When making your own prototypes in the future, always add this team as a collaborator. 
+- **InVision:** We use InVision for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync.
+  - If you are a member of the design team, once you have requested and received an InVision license, tell your supervisor that you have an account and are ready to be added to the "18F Design Team" group in InVision. This will enable you to see prototypes from all of our projects. When making your own prototypes in the future, always add this team as a collaborator.
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **Adobe Creative Cloud:** Visual designers often need CC for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. CC licenses are more limited, so please don’t request access unless you really do need it for your work. 
+- **Adobe Creative Cloud:** Visual designers often need CC for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. CC licenses are more limited, so please don’t request access unless you really do need it for your work.
 
 #### Project management
 Every project and team has a different mix of project management tools based on what works for them. Many internal projects will use **Trello** because it's fast to set up. Get more information on the [How to use Trello]({{site.baseurl}}/trello) page.
@@ -123,13 +123,13 @@ Every project and team has a different mix of project management tools based on 
 #### Word processing
 
 - **Google Drive / Docs / Slides:** This is our primary tool for documents of various sorts.
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions]({{site.baseurl}}/gsa-internal-tools/#get-a-copy-of-microsoft-office) to get a license if your project work requires it.
+- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing) to get a license if your project work requires it.
 
 ### <a id="assets">Assets</a>
 
 We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
 
-- **18F-themed templates** Access document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Use these styles and templates for communicating about all of your work at 18F, unless your project has its own branded communication materials, like Login.gov or Cloud.gov.
+- **18F-themed templates:** Access document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Unless your project has its own branded communication materials, like login.gov or cloud.gov, use these styles and templates for communicating about all of your work at 18F.  It's often beneficial for partners when we present deliverables with our brand styling, which shows the outside expertise they brought in. It also helps 18F present itself with a unified voice, tone, and look.
 - **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. Come chat in [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend) on slack if you are choosing a framework for something.
 - **Icons:**
   - The visual design team maintains guidance on [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
@@ -138,7 +138,7 @@ We default to free and open-source assets, unless there is a very, very good rea
   - The visual design team maintains guidance on [government photography resources](https://github.com/18F/visual-design/wiki/Government-photography).
   - You can use `incategory:PD_US_Government` as part of a search query on Wikimedia Commons: [example](https://commons.wikimedia.org/w/index.php?title=Special:Search&profile=default&fulltext=Search&search=incategory%3APD_US_Government+example&uselang=en&searchToken=5902rmnmjz5fivko9172xs74c).
   - While you’re at it, visit the [Department of the Interior’s Instagram](https://instagram.com/usinterior/) stream. You’ll be glad you did.
-- **Typography:** Partner agencies usually have their own style guidance that we stick to. 18F-branded materials should follow typography guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For other needs, we recommend using typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/). Come chat in [#visual-design](https://gsa-tts.slack.com/messages/visual-design) on slack if you are choosing fonts for something.
+- **Typography:** Partner agencies often have their own style guidance that we follow in our work with them. 18F-branded materials should follow typography guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For needs outside these scenarios, typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/) are a safe starting choice. Come chat in [#visual-design](https://gsa-tts.slack.com/messages/visual-design) on slack if you are choosing fonts for something.
 
 ---
 

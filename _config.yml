@@ -190,9 +190,6 @@ navigation:
       - text: Employment verification
         url: employment-verification/
         internal: true
-      - text: Merit promotions
-        url: merit-promotions/
-        internal: true
       - text: Overtime and comp time
         url: overtime-and-comp-time/
         internal: true
@@ -275,8 +272,8 @@ navigation:
         url: google-meet/
         internal: true
       - text: Microsoft Office for OS X
-        url: gsa-internal-tools/#get-a-copy-of-microsoft-office
-        internal: true
+        url: https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing
+        internal: false
       - text: Mural.ly
         url: murally/
         internal: true
@@ -368,7 +365,7 @@ navigation:
         url: history-and-values/
         internal: true
       - text: 18F org chart
-        url: https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit
+        url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
         internal: false
     - text: 18F Chapters
       children:
@@ -505,3 +502,4 @@ navigation:
     - text: PIF Website
       url: https://presidentialinnovationfellows.gov/
       internal: false
+      
