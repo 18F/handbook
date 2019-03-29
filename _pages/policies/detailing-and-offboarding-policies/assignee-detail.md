@@ -126,7 +126,7 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 
 ## Posting a Detail Opportunity within TTS
 
-To learn about this process please visit [the Hiring page](https://handbook.18f.gov/hiring/).
+To learn about this process please visit the [Hiring page]({{site.baseurl}}/hiring).
 
 --------------------------------------------------------------------------------
 
