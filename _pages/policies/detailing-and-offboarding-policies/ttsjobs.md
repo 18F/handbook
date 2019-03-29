@@ -19,6 +19,7 @@ tags:
 ---
 
 This page serves as a central listing for:
+
 - TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
 - Hiring actions using the Excepted Service version of the Merit Promotion Process
 - Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
