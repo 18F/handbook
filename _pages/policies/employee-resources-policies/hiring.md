@@ -19,9 +19,9 @@ For more information on hiring via the Competitive Service (Career) Merit Promot
 
 The following explains the process for initiating TTS internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads).
 
-For detailed information specific to initiating an internal or external detail, please review the [details page of the handbook](https://handbook.18f.gov/assignee-detail/)
+For detailed information specific to initiating an internal or external detail, please review the [details page of the handbook]({{site.baseurl}}/assignee-detail)
 
-Since these are hiring actions, they will mirror our [Merit Promotion](https://handbook.18f.gov/promotions/) process.  This means:
+Since these are hiring actions, they will mirror our [Merit Promotion]({{site.baseurl}}/promotions) process.  This means:
 
 - There must be a vacant Position Number available for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
 - It must be prioritized by the Director of your office and the Front Office
@@ -32,7 +32,7 @@ Talent will assist and facilitate in the hiring process but in order to avoid co
 
 If this request is not on the current staffing plan or it is on the staffing plan, but the Hiring Manager (HM) would like it to be prioritized sooner, they must get approval from their organizations Director (ex: Angela Colter for 18F). If the Director agrees, then:
 
-- The Director sends a request to tts-talentteam@gsa.gov
+- The Director sends a request to [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov)
 - Talent will send the request to the TTS Front Office
 - If Front Office approves, Talent will add the role to the Backlog of the Talent Acquisition Work-System Board
 
