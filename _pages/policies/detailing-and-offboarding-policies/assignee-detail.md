@@ -126,29 +126,7 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 
 ## Posting a Detail Opportunity within TTS
 
-The Hiring Manager is responsible for running the entire process (collecting statements of interest, interviews, etc). Once the selection is made Talent steps into process the request.
-
-* First get approval from the Assistant Commissioner (AC) of your office
-* In order to move forward with this action you must have a vacanct position number available that is reflected on the staffing plan
-* HM sends an email to [TTS](mailto:tts@gsa.gov) regarding detail opportunity
-  * The email should contain the Position Description (PD) the employee is being detailed to or a list of “unclassified set of duties”
-    * If the detail has a PD then the applicant must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below (if they are at the grade below, They will need to provide an updated resume and HR will need to qualify them
-      * If there is a PD you may want to add a performance profile (job description and key objectives) attachment to the email announcement
-    * If there is a list of unclassified set of duties (these are duties the detailee will perform on the job) any GS level can apply, unless the HM specifies which GS levels they are accepting.
-
-* The HM (or PoC) is responsible for:
-  * sending out the email to TTS
-  * collecting resumes and statements of interest (if either or both are required) and sending
-    * finding an interview panel
-    * scheduling interviews
-  * adding the detail information to the [TTS Open Opportunities Spreadsheet](https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit?usp=sharing)
-
-* Once interviews are complete the HM should notify [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov) on who was selected and the effective date of the detail. Talent will then submit a personnel action to HR to make the detail official
-  * The HM should confirm with the employee’s supervisor that they are OK with this person being detailed to this position
-  * The action can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
-  
-[Example of email advertising detail opportunity within TTS](https://docs.google.com/document/d/1th6-L0ovGdEVBPPeJbZkqkaXDza8ud0rs2RlSn3X7c8/edit#)
-
+To learn about this process please visit [the Hiring page](https://handbook.18f.gov/hiring/).
 
 --------------------------------------------------------------------------------
 
