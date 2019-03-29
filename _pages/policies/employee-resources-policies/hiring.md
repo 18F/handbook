@@ -92,6 +92,7 @@ It is the responsibility of the HM provide applications with the applicable feed
 These actions are the most common type of action across TTS. Information about the process related to these actions can be found in the [guide to the Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit?usp=sharing)
 
 --------------------------------------------------------------------------------
+
 ### Still have questions?
 
 **General questions** Please reach out to TTS Talent via [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
