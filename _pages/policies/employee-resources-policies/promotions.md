@@ -34,6 +34,7 @@ As part of the larger FAS organization, TTS must also meet the agency staffing p
 - The office requesting the hiring action must have a vacant position available on the staffing plan that can accommodate the required GS level.
 - If an available position isn’t on the approved staffing plan, then TTS Front Office & CFO will need to approve a business justification for the position. After approval, OHRM will need to create a new position number.
 - Whether internal or external, all hiring actions will be included in the overall TTS backlog. They will be reviewed and approved by TTS leadership following the process that’s in use today.
+  -  [Prioritization Process](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit?usp=sharing)
 
 Once the hiring action reaches the top of the backlog or has been given priority standing by the applicable Business Unit and TTS Front Office, then the Talent team can initiate the action with OHRM. At this point the process and requirements are the same as any other competitive service hiring action.
 
@@ -62,6 +63,8 @@ Although Excepted Service actions are governed by a slightly different set of re
 
 The prioritization of the Excepted Service Promotion process will be identical to the Competitive Service Merit Promotion process. The only difference between them will be that USAJobs and any associated steps will not be used.
 
+-  [Prioritization Process](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit?usp=sharing)
+
 - The office requesting the Excepted Service Promotion action will need to have a vacant position available on the CFO-approved staffing plan that can accommodate the required GS level.
 
 - Talent will initiate the hiring action once it reaches the top of the backlog or once the applicable Business Unit and TTS Front Office have given the hiring action priority.
@@ -73,6 +76,8 @@ This is where the process diverges from the Competitive Service Merit Promotion 
 The hiring action owner is responsible for defining what the minimum requirements are for the role (i.e., the “specialized experience” needed to be eligible) and the selection process, including any interviewing materials or criteria that will be used to make the selection. To avoid any potential conflicts of interest, Talent will assist in an advisory role only.
 
 - After the hiring action owner has made a selection, Talent will submit the needed information (applicant resume and PD) to OHRM who will then qualify that applicant. If the applicant is found qualified, OHRM will process the action, moving the selected staff to the new position.
+
+For an overview on the process for advertising an excepted service promotion go to our [Hiring](https://handbook.18f.gov/hiring/) page.
 
 Training and Additional Resources
 Virtual trainings and information on writing a resume, navigating USAJobs, and generally working in the federal government.
