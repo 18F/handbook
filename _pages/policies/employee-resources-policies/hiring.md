@@ -90,6 +90,10 @@ It is the responsibility of the HM provide applications with the applicable feed
 
 These actions are the most common type of action across TTS. Information about the process related to these actions can be found in the [guide to the Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit?usp=sharing)
 
+### TTS Hiring - Prioritization Process
+
+For an overview of the way in which hiring actions are collected, prioritized and managed read our [TTS Hiring - Prioritization Process](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit?usp=sharing)
+
 --------------------------------------------------------------------------------
 
 ### Still have questions?
