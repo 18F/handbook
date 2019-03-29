@@ -86,7 +86,7 @@ It is the responsibility of the HM provide applications with the applicable feed
 
 **If you are advertising a detail:** the action can only be submitted for a time period of no more than 120 days. The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
 
-## Excepted Service or Competitve Service Hiring Actions filled via open and public competition
+## Excepted Service or Competitive Service Hiring Actions filled via open and public competition
 
 These actions are the most common type of action across TTS. Information about the process related to these actions can be found in the [guide to the Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit?usp=sharing)
 
