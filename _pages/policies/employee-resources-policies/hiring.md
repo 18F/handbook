@@ -7,7 +7,7 @@ tags:
 
 This section provides a brief overview of the types of hiring actions along with any related process information.
 
-If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page](https://handbook.18f.gov/TTSJobs/)
+If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page](https://handbook.18f.gov/ttsjobs/)
 
 ## Types of Hiring Actions at TTS
 
@@ -41,9 +41,8 @@ If this request is not on the current staffing plan or it is on the staffing pla
 Once the prioritized role is ready to be worked on, Talent will move the role to the Job Prep stage on the Trello board and reach out to the HM to begin the process.
 
 - The Talent PoC assigned to the role will supply the HM with the following templates:
-  - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1_NYCLGtDANqs0EhgdjEbtNC7fUUJVQV35NTN6GMIkiM/edit?usp=sharing) for this need
-    - HM should consider developing these documents prior to the role being selected so that the process will move quicker
-  - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing) for this need
+  - TTSJobs Application Form Template
+  - TTSJobs Announcement Template
 
 In addition to the information within the templates, the Action Owner will need to provide:
 
