@@ -9,13 +9,13 @@ This section provides a brief overview of the types of hiring actions along with
 
 If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page](https://handbook.18f.gov/TTSJobs/)
 
-# Types of Hiring Actions at TTS
+## Types of Hiring Actions at TTS
 
-## Competitive (Career) and Excepted Service Hiring Actions via the Merit Promotion Process
+### Competitive (Career) and Excepted Service Hiring Actions via the Merit Promotion Process
 
 For more information on hiring via the Competitive Service (Career) Merit Promotion Process or the Excepted Service version of the Merit Promotion Process, please visit the [Promotions](https://handbook.18f.gov/promotions/) page of the handbook.
 
-## TTS Internal Competitions & Developmental Opportunities
+### TTS Internal Competitions & Developmental Opportunities
 
 The following explains the process for initiating TTS internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads).
 
@@ -28,7 +28,7 @@ Since these are hiring actions, they will mirror our [Merit Promotion](https://h
 
 Talent will assist and facilitate in the hiring process but in order to avoid conflicts of interest, the hiring action owner will be primarily responsible for developing job materials and interacting with applicants (employees).
 
-### Submitting a request
+#### Submitting a request
 
 If this request is not on the current staffing plan or it is on the staffing plan, but the Hiring Manager (HM) would like it to be prioritized sooner, they must get approval from their organizations Director (ex: Angela Colter for 18F). If the Director agrees, then:
 
@@ -36,7 +36,7 @@ If this request is not on the current staffing plan or it is on the staffing pla
 - Talent will send the request to the TTS Front Office
 - If Front Office approves, Talent will add the role to the Backlog of the Talent Acquisition Work-System Board
 
-### Job Prep
+#### Job Prep
 
 Once the prioritized role is ready to be worked on, Talent will move the role to the Job Prep stage on the Trello board and reach out to the HM to begin the process.
 
@@ -55,13 +55,13 @@ Once the TTSJobs Announcement is complete, Talent will:
 - Add it to [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) on Slack informing everyone of the new opportunity
 - Add it to TTSJobs Listings
 
-### Job Posted
+#### Job Posted
 
 When the job is posted, the role will move to the _Job Announcement_ stage on the trello board the HM dictates when and for how long they would like to post the role. Once the role comes down, Talent will save the resumes and applications in a folder that will be shared with the HM, interviewers and anyone else involved in the hiring decision.
 
 While the applicants are being reviewed by the team, the role will sit in the _Qualification_ stage of the Trello board.
 
-### Qualification
+#### Qualification
 
 The hiring team is responsible for confirming the applicants meet the qualifications outlined in the posting  (i.e. GS level, required experience).
 
@@ -72,11 +72,11 @@ For HR to move forward with a selection, the applicant must meet the following q
   - if applicant is at the grade below, they will need to provide an updated resume and HR will need to qualify them. **This means Supervisors should NOT announce who they have selected until HR approves the selection**
 - If the role being advertised is a detail and does not have a PD associated with it, then any GS level can apply, unless the HM specifies which GS levels they are accepting.
 
-### Interview
+#### Interview
 
 Once the team has decided who they would like to move forward with, they will send the list of applicants to their Talent PoC for interview scheduling.
 
-### Selection
+#### Selection
 
 When the team has determined who they would like to place in the role, they must:
 
@@ -87,11 +87,12 @@ It is the responsibility of the HM provide applications with the applicable feed
 
 **If you are advertising a detail:** the action can only be submitted for a time period of no more than 120 days. The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
 
-## Excepted Service or Competitive Service Hiring Actions filled via open and public competition
+### Excepted Service or Competitive Service Hiring Actions filled via open and public competition
 
 These actions are the most common type of action across TTS. Information about the process related to these actions can be found in the [guide to the Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit?usp=sharing)
 
 --------------------------------------------------------------------------------
+
 ### Still have questions?
 
 **General questions** Please reach out to TTS Talent via [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
