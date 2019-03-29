@@ -27,14 +27,14 @@ This page serves as a central listing for:
 
 If you’d like to be notified when new opportunities are listed on this page, please join the #TTSJobs slack channel.
 
-# Announcements 
+## Announcements 
 
-## Open
+### Open
 
 [PIF - Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow) - Application Close: Monday, April 22, 2019 at 11:59pm
 
 
-## TTS Internal Only
+### TTS Internal Only
 
 *No current listings*
 
