@@ -7,7 +7,7 @@ tags:
 
 This section provides a brief overview of the types of hiring actions along with any related process information.
 
-If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page](https://handbook.18f.gov/ttsjobs/)
+If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page]({{site.baseurl}}/ttsjobs)
 
 ## Types of Hiring Actions at TTS
 
@@ -19,7 +19,7 @@ For more information on hiring via the Competitive Service (Career) Merit Promot
 
 The following explains the process for initiating TTS internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads).
 
-For detailed information specific to initiating an internal or external detail, please review the [details page of the handbook]({{site.baseurl}}/assignee-detail)
+For detailed information specific to initiating an internal or external detail, please review the [details page]({{site.baseurl}}/assignee-detail) of the handbook.
 
 Since these are hiring actions, they will mirror our [Merit Promotion]({{site.baseurl}}/promotions) process.  This means:
 
