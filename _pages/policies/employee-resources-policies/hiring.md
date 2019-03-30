@@ -7,7 +7,7 @@ tags:
 
 This section provides a brief overview of the types of hiring actions along with any related process information.
 
-If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page](https://handbook.18f.gov/TTSJobs/)
+If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page]({{site.baseurl}}/ttsjobs)
 
 ## Types of Hiring Actions at TTS
 
@@ -19,9 +19,9 @@ For more information on hiring via the Competitive Service (Career) Merit Promot
 
 The following explains the process for initiating TTS internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads).
 
-For detailed information specific to initiating an internal or external detail, please review the [details page of the handbook](https://handbook.18f.gov/assignee-detail/)
+For detailed information specific to initiating an internal or external detail, please review the [details page]({{site.baseurl}}/assignee-detail) of the handbook.
 
-Since these are hiring actions, they will mirror our [Merit Promotion](https://handbook.18f.gov/promotions/) process.  This means:
+Since these are hiring actions, they will mirror our [Merit Promotion]({{site.baseurl}}/promotions) process.  This means:
 
 - There must be a vacant Position Number available for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
 - It must be prioritized by the Director of your office and the Front Office
@@ -32,7 +32,7 @@ Talent will assist and facilitate in the hiring process but in order to avoid co
 
 If this request is not on the current staffing plan or it is on the staffing plan, but the Hiring Manager (HM) would like it to be prioritized sooner, they must get approval from their organizations Director (ex: Angela Colter for 18F). If the Director agrees, then:
 
-- The Director sends a request to tts-talentteam@gsa.gov
+- The Director sends a request to [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov)
 - Talent will send the request to the TTS Front Office
 - If Front Office approves, Talent will add the role to the Backlog of the Talent Acquisition Work-System Board
 
@@ -41,9 +41,8 @@ If this request is not on the current staffing plan or it is on the staffing pla
 Once the prioritized role is ready to be worked on, Talent will move the role to the Job Prep stage on the Trello board and reach out to the HM to begin the process.
 
 - The Talent PoC assigned to the role will supply the HM with the following templates:
-  - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1_NYCLGtDANqs0EhgdjEbtNC7fUUJVQV35NTN6GMIkiM/edit?usp=sharing) for this need
-    - HM should consider developing these documents prior to the role being selected so that the process will move quicker
-  - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing) for this need
+  - TTSJobs Application Form Template
+  - TTSJobs Announcement Template
 
 In addition to the information within the templates, the Action Owner will need to provide:
 
@@ -90,6 +89,10 @@ It is the responsibility of the HM provide applications with the applicable feed
 ### Excepted Service or Competitive Service Hiring Actions filled via open and public competition
 
 These actions are the most common type of action across TTS. Information about the process related to these actions can be found in the [guide to the Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit?usp=sharing)
+
+### TTS Hiring - Prioritization Process
+
+For an overview of the way in which hiring actions are collected, prioritized and managed read our [TTS Hiring - Prioritization Process](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit?usp=sharing)
 
 --------------------------------------------------------------------------------
 
