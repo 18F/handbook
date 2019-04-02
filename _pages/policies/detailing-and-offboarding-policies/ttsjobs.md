@@ -40,7 +40,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### TTS Internal Only
 
-*No current listings*
+[Technology Portfolio Director](https://docs.google.com/document/d/1q-5L6ECK_qxO3WI0sUVwNdRabiLO2cNyuhxH8rf8WeE/edit?usp=sharing) - Application Close: Wed, April 10th, 2019 at 8pm ET
 
 
 
