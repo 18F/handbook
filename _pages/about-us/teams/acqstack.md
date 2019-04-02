@@ -12,7 +12,7 @@ Welcome to the 18F Acquisition Chapter — we’re happy you’re here! We’ve 
 
 Members of the Acquisition team come from all over: inside GSA, consulting firms, Peace Corps, and other government agencies. Collectively, we work as the acquisition part of the overall 18F cross-functional team bringing our expertise to help agency partners (experts in their mission) produce more effective procurement strategies, implement modern procurement practices, and better vendor outcomes. We’re experienced in a wide variety of procurements and have tons of stories of procurements that have gone well and some that haven’t.  Ask us!
 
-### Our vision & mission
+### Our vision and mission
 
 The Acquisition Chapter exists to prove that government acquisitions can be joyful for our employees, agency partners, and industry partners. We do this, by ensuring that informed buyers can easily and confidently access the right products and services to meet their agency’s  mission. No matter what the agency partner is undertaking or trying to solve, the acquisition process will be unavoidable and it can be used as an amazing point for leverage to improve overall outcomes.
 
@@ -32,14 +32,14 @@ We seek to design and evangelize acquisition approaches that are better aligned 
 * Ensure that **agile development methodologies** are employed to deliver working code sooner.
 * **Communicate clearly** about methods, lessons learned, and recommendations.
 
-### What We Do
+### What we do
 
 We focus on procurements of intentionally modest scope for digital products and services (procures and deliver incrementally), so that we can deliver end-user value more rapidly, assess the results more quickly, and refine our approaches over time.
 
 In pursuit of this strategy, we:
 
 * Consult with our agency partners to help them buy digital products and services demonstrating that compliance can still be achieved in the context of more efficient and effective acquisition approaches.
-* Develop innovative acquisition strategies within the confines of the Federal Acquisition Regulations (FAR). 
+* Develop innovative acquisition strategies within the confines of the Federal Acquisition Regulation (FAR). 
 * Develop and pilot novel methods of working with industry and encourage vendors of all sizes to compete for work and offer their unique skills to government. 
 * Work in the open. We strive to publicly share as much information about our work with agencies partners as possible. Vendors we partner with commit to using open-source technologies.
 * Consult with partner agencies on acquisition strategy, conduct workshops, provide pre-award and post-award coaching. Our work is rooted in real project work to assist our partner agencies to develop the skills needed to be more savvy consumers of digital products and services moving forward, and ensure their long-term success beyond the scope of our work together.
