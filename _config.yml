@@ -157,7 +157,7 @@ navigation:
         url: leave/
         internal: true
       - text: Travel guide
-        url: travel-guide-start-here/
+        url: underconstruction/
         internal: true
     - text: Tech
       children:

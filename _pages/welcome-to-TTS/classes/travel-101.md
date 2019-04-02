@@ -2,7 +2,7 @@
 title: Travel 101
 ---
 
-This post contains an overview of what you need to know about how to book travel, excerpted from [the comprehensive TTS Travel Guide]({{site.baseurl}}/travel-guide-start-here/).
+This post contains an overview of what you need to know about how to book travel, excerpted from [the comprehensive TTS Travel Guide]({{site.baseurl}}/underconstruction/).
 
 ### Leadership
 
@@ -13,21 +13,21 @@ The TTS Travel Team has two members:
 
 ## Securing an authorization to travel
 
-The process of requesting travel, including [formally clearing dates with your supervisor](../travel-guide-1-authorization/) or client, making your [flight](../travel-guide-2-choose-your-itinerary/#book-flight-or-rail) and [hotel](../travel-guide-2-choose-your-itinerary/#book-lodging) reservations, ensuring that you are billing your trip to the right place, and [forwarding onto the 18F travel team for approval](../travel-guide-3-approval/#submit-authorization-for-approval).
+The process of requesting travel, including [formally clearing dates with your supervisor](../underconstruction/) or client, making your [flight](../underconstruction/#book-flight-or-rail) and [hotel](../underconstruction/#book-lodging) reservations, ensuring that you are billing your trip to the right place, and [forwarding onto the 18F travel team for approval](../underconstruction/#submit-authorization-for-approval).
 
 In order to ensure same-day approval of your travel, please ensure that your authorization has been successfully submitted before 3:30 PM Eastern Time.
 
 ## Making travel reservations in Concur
 
-Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system TTS employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](../first-time-travel-concur-check/). You will [complete your profile](../first-time-travel-complete-concur-profile/) after you receive your travel card.
+Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system TTS employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](../underconstruction/). You will [complete your profile](../first-time-travel-complete-concur-profile/) after you receive your travel card.
 
 ## Booking your hotel and paying for official expenses using the GSA Travel card
 
-You'll use your travel card to pay for expenses other than flights incurred during government travel. You can apply to get one as soon as possible, and it is **required** in order to travel for 18F unless you get an exemption. [Start your application for one here](../first-time-travel-travel-card/), and once receiving it, be sure to use it for all travel expenses made in your official capacity. [Don't forget to keep a receipt of everything you purchase on it, excepting meals](../travel-guide-4-travel/).
+You'll use your travel card to pay for expenses other than flights incurred during government travel. You can apply to get one as soon as possible, and it is **required** in order to travel for 18F unless you get an exemption. [Start your application for one here](../first-time-travel-travel-card/), and once receiving it, be sure to use it for all travel expenses made in your official capacity. [Don't forget to keep a receipt of everything you purchase on it, excepting meals](../underconstruction/).
 
 ## Receiving per diem allowances
 
-A per diem is an allowance that you get [each day you travel on official government business](../travel-guide-4-travel/). There are two ways you can receive your M&IE per diem: You can withdraw it (in cash) from your travel card before or during travel, or you can choose to receive it as reimbursement after you've concluded your travel. In the second instance, you'll be responsible for paying for meals and incidentals. You do not need to save and submit receipts to receive your M&IE per diem.
+A per diem is an allowance that you get [each day you travel on official government business](../underconstruction/). There are two ways you can receive your M&IE per diem: You can withdraw it (in cash) from your travel card before or during travel, or you can choose to receive it as reimbursement after you've concluded your travel. In the second instance, you'll be responsible for paying for meals and incidentals. You do not need to save and submit receipts to receive your M&IE per diem.
 
 ## Using cars for official business
 
@@ -40,7 +40,7 @@ GSA maintains a fleet of cars for official use:
 
 ## Submitting vouchers for reimbursement
 
-Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](../travel-guide-5-reimbursement/#i-creating-a-voucher), [adjust it accordingly and upload corresponding receipts](../travel-guide-5-reimbursement/#iii-entering-expenses), and again [submit to the travel team for approval](../travel-guide-5-reimbursement/#iv-submitting-voucher-for-approval). Once completed, everything charged to your travel card will be reconciled.
+Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](../underconstruction/#i-creating-a-voucher), [adjust it accordingly and upload corresponding receipts](../underconstruction/#iii-entering-expenses), and again [submit to the travel team for approval](../underconstruction/#iv-submitting-voucher-for-approval). Once completed, everything charged to your travel card will be reconciled.
 
 It is important to complete your vouchers on time-- within 5 business days of returning from travel. Submitting vouchers late is a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, no travel will be approved for anyone with travel expenses that are more than 5 business days outstanding.
 
@@ -58,4 +58,4 @@ The travel team also approves [authorizations]({{site.baseurl}}/travel-101/#secu
 
 ## Further Reading
 
-This Travel 101 is just a quick orientation. As mentioned at the start of this page, the Handbook has a whole guide for you: [TTS Travel Guide]({{site.baseurl}}/travel-guide-start-here/)!
+This Travel 101 is just a quick orientation. As mentioned at the start of this page, the Handbook has a whole guide for you: [TTS Travel Guide]({{site.baseurl}}/underconstruction/)!

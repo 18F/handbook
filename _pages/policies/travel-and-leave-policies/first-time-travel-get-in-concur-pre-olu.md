@@ -3,7 +3,7 @@ title: Get set up for travel for 18F as a new employee
 ---
 
 [TOC]({{site.baseurl}}/travel-guide-table-of-contents)
-[Back to Last Page]({{site.baseurl}}/first-time-travel-get-in-concur-start)
+[Back to Last Page]({{site.baseurl}}/underconstruction)
 [Next to Travel Card]({{site.baseurl}}/first-time-travel-travel-card)
 
 If you're traveling for 18F during your first two weeks (normally for orientation, if you're based in a city that doesn't have an 18F office), you'll get your travel arranged for you by 18F's travel team. Here's what you need to do to get set up for that:
@@ -77,7 +77,7 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
 
    You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in [GSA's Online University (OLU)](https://gsaolu.gsa.gov/), you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
 
-   Once you get access, you can follow [these instructions for how to complete a voucher](../travel-guide-5-reimbursement/). Feel free to reach out in #travel and request to set up a 30 minute crash course in how to use Concur if anything seems confusing.
+   Once you get access, you can follow [these instructions for how to complete a voucher](../underconstruction/). Feel free to reach out in #travel and request to set up a 30 minute crash course in how to use Concur if anything seems confusing.
 
 
 ### Having trouble sending the EFT form?

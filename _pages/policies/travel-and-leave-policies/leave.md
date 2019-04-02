@@ -133,7 +133,7 @@ To donate leave:
 2) Click on "Applications" at the top of the page,
 3) Click on the "Voluntary Leave Transfer Program," then
 4) Login using your Social Security Number and Employee Express Password, and
-5) Follow the system prompts. 
+5) Follow the system prompts.
 
 If you have any questions, please contact Lakita Rivero at (202) 208-6171 or by email at lakita.rivero@gsa.gov.
 
