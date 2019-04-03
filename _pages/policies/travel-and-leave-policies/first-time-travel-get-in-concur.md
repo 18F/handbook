@@ -13,11 +13,11 @@ title: Get access to Concur
 2. Once you receive the vendor ID number (should look like **E000xxxxx**), complete the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing), minus the EFT enrollment form.
 Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well!
 
-*_Not sure about a particular field? Get help by reading the_ [_FAQ below_](#frequently-asked-questions)
+*_Not sure about a particular field? Get help by reading the_ [_FAQ below_]({{site.baseurl}}/#frequently-asked-questions)
 
 3. Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). _Do not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only email it to tts-travel@gsa.gov. Your account will be set up before [the next travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/), which you can also book any time if you have questions.
 
-[Next Step: First-Time Travel - Get a Travel Card](/first-time-travel-travel-card)
+[Next Step: First-Time Travel - Get a Travel Card]({{site.baseurl}}/first-time-travel-travel-card)
 
 ### Frequently Asked questions
 
