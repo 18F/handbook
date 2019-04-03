@@ -2,9 +2,11 @@
 title: Get set up to travel for TTS _before_ GSA onboarding
 ---
 
-[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
-[Back to Last Page]({{site.baseurl}}/first-time-travel-get-in-concur-start)
-[Next to Travel Card]({{site.baseurl}}/first-time-travel-travel-card)
+[TTS Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
+[What to consider while traveling]({{site.baseurl}}/travel-guide-2-travel) <br><br>
+Steps to take after onboarding <br>
+[Get access to Concur]({{site.baseurl}}/first-time-travel-get-in-concur) <br>
+[Get reimbursed]({{site.baseurl}}/travel-guide-3-reimbursement)<br>
 
 If you're traveling for TTS during your first two weeks (normally for orientation, if you're based in a city that doesn't have a TTS office), you'll need to follow special procedures to get your account set up, which will allow you to make your flight and hotel reservations via AdTrav by calling (877) 472-6716. Here's what you need to do:
 
@@ -24,15 +26,15 @@ If you're traveling for TTS during your first two weeks (normally for orientatio
 
 4. **Receive tickets**: E-tickets will be sent to the email address that you provided. Once a reservation is made, you will get a “pending” itinerary, which will be finalized, depending on the airline, no later than 72 hours before departure.
 
-5. **Travel!** And keep receipts-- read on [here]({{site.baseurl}}/travel-guide-3-travel) for more details.
+5. **Travel!** And keep receipts-- read on [here]({{site.baseurl}}/travel-guide-2-travel) for more details.
 
-   [_What happens if my flight gets cancelled_]({{site.baseurl}}/#what-happens-if-my-flight-gets-cancelled)
+   [_What happens if my flight gets cancelled_]({{site.baseurl}}/#what-happens-if-my-flight-gets-cancelled?)
 
 6. After you return, **create a voucher for reimbursement**:
 
    You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in [GSA's Online University (OLU)](https://gsaolu.gsa.gov/), you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
 
-   Once you get access, you can follow [these instructions for how to complete a voucher]({{site.baseurl}}/travel-guide-4-reimbursement). Feel free to book travel office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/) any time should you need any assistance.
+   Once you get access, you can follow [these instructions for how to complete a voucher]({{site.baseurl}}/travel-guide-3-reimbursement). Feel free to book travel office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/) any time should you need any assistance.
 
 ### What happens if my flight gets cancelled?
 
