@@ -3,9 +3,9 @@ title: Travel Approval Email Templates
 ---
 
 [TTS Travel 101]({{ site.baseurl }}/travel-101) <br>
-[TTS Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
-[FAQ](/travel-guide-faq) <br>
-[Jump to Step 1: Booking Travel](/travel-guide-1-book-travel) <br>
+[TTS Travel Guide Table of Contents]({{ site.baseurl }}/travel-guide-table-of-contents) <br>
+[FAQ]({{ site.baseurl }}/travel-guide-faq) <br>
+[Jump to Step 1: Booking Travel]({{ site.baseurl }}/travel-guide-1-book-travel) <br>
 
 ##### Note about travel to a training, conference, speaking event, large team IRL, or international
 
