@@ -28,7 +28,7 @@ If you're traveling for TTS during your first two weeks (normally for orientatio
 
 5. **Travel!** And keep receipts-- read on [here]({{site.baseurl}}/travel-guide-2-travel) for more details.
 
-   [_What happens if my flight gets cancelled_]({{site.baseurl}}/#what-happens-if-my-flight-gets-cancelled?)
+   [_What happens if my flight gets cancelled_]({{site.baseurl}}/first-time-travel-get-in-concur-pre-olu/#what-happens-if-my-flight-gets-cancelled)
 
 6. After you return, **create a voucher for reimbursement**:
 
