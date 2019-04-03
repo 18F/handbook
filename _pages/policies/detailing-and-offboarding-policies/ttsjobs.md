@@ -38,7 +38,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 [PIF - Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow) - Application Close: Monday, April 22, 2019 at 11:59pm ET
 
 
-### TTS Internal Only
+### Internal Only Competitions
 
 [Technology Portfolio Director](https://docs.google.com/document/d/1q-5L6ECK_qxO3WI0sUVwNdRabiLO2cNyuhxH8rf8WeE/edit?usp=sharing) - Application Close: Wed, April 10th, 2019 at 8pm ET
 
