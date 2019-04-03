@@ -2,7 +2,7 @@
 title: Step 1 - Book Travel in Concur and Secure Approvals
 ---
 
-[TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
+[TTS Travel 101]({{ site.baseurl }}/travel-101) <br>
 [Travel Guide Table of Contents](/travel-guide-table-of-contents) <br>
 [FAQ](/travel-guide-faq) <br>
 [Jump to Step 2: What to Consider While Traveling](/travel-guide-2-travel)

@@ -36,7 +36,7 @@ GSA employee (Virtual) if based anywhere else.
 That of your functional supervisor.
 
 #### What if I haven't taken the Mandatory IT Security Awareness Training yet?
-Try to take this training (The 2019 GSA Mandatory Cyber Security and Privacy Training) in [OLU](gsaolu.gsa.gov) first. Follow the instructions [here](https://handbook.18f.gov/olu/#help-with-olu) if you need help.
+Try to take this training (The 2019 GSA Mandatory Cyber Security and Privacy Training) in [OLU](gsaolu.gsa.gov) first. Follow the instructions [here]({{ site.baseurl }}/#help-with-olu) if you need help.
 
 ### Got other questions?
 
