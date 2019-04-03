@@ -58,11 +58,11 @@ Once the request is placed, the designated TTS Ops team member will determine wh
 
 ## Domain renewals
 
-Requesting a domain renewal is much easier than requesting software. The TTS SaaS PM will reach out to the domain point of contact about a month before the domain will expire asking them if they want the domain to be renewed. If the domain is to be renewed, the domain point of contact will be asked to submit a [C2 request]({{ site.baseurl }}/purchase-requests/#c2) . If you are renewing a dotgov domain, all you need to do is submit a C2 request and get your supervisor’s approval. Dotgov domain renewals don’t need ATO or FITARA approval. After the SaaS PM has supervisor and finance approval, they will make the purchase before the domain expires. 
+Requesting a domain renewal is much easier than requesting software. The TTS SaaS PM will reach out to the domain point of contact about a month before the domain will expire asking them if they want the domain to be renewed. If the domain is to be renewed, the domain point of contact will be asked to submit a [C2 request]({{site.baseurl}}/purchase-requests/#c2) . If you are renewing a dotgov domain, all you need to do is submit a C2 request and get your supervisor’s approval. Dotgov domain renewals don’t need ATO or FITARA approval. After the SaaS PM has supervisor and finance approval, they will make the purchase before the domain expires. 
 
 ## SSL/ECA certificates
 
-SSL and ECA Certificates fall somewhere between a software request and a domain renewal request. There is no ATO required for SSL Certificates, however, FITARA approval is still required. To obtain SSL/ECA Certificates, you will need to submit a [C2 request]({{ site.baseurl }}/purchase-requests/#c2) and get your supervisor’s approval. Then, the TTS SaaS PM and TTS OA Director will work with OCIO to get FITARA approval and upload the documentation to C2 when it’s finished. The TTS SaaS PM will contact you when the Certificate is ready to be purchased.
+SSL and ECA Certificates fall somewhere between a software request and a domain renewal request. There is no ATO required for SSL Certificates, however, FITARA approval is still required. To obtain SSL/ECA Certificates, you will need to submit a [C2 request]({{site.baseurl}}/purchase-requests/#c2) and get your supervisor’s approval. Then, the TTS SaaS PM and TTS OA Director will work with OCIO to get FITARA approval and upload the documentation to C2 when it’s finished. The TTS SaaS PM will contact you when the Certificate is ready to be purchased.
 
 ## Services
 

@@ -29,7 +29,7 @@ You can use your password manager to store answers to security questions. Instea
 
 Here's an interesting comparison of non-expert and expert security practices, from [a study done by Google](http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html):
 
-<img src="{{ site.baseurl }}/images/equipment/1.png" alt="secure password tips" />
+<img src="{{site.baseurl}}/images/equipment/1.png" alt="secure password tips" />
 
 Note the second point: the experts considered unique passwords even more important than strong/complex passwords. If hackers dump the password database from one service, you don't want them to be able to use that password to access your accounts on other services.
 
