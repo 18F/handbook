@@ -43,7 +43,7 @@ title: Travel Guide Table of Contents
     * [Unofficial TTS guide to Concur FAILS](https://docs.google.com/document/d/1zD020XAXRIpuXPKgY0zadLBNJmBaRj_29-DhClrkZAo/edit)
    * [Issues with reimbursement]({{site.baseurl}}/travel-guide-faq/#issues-with-reimbursement)
    * [Amending vouchers]({{site.baseurl}}/travel-guide-faq/#how-do-i-amend-my-voucher-after-it-is-approved)
-* [Appendix A: Amended authorizations](/travel-guide-A-amended-authorizations)
+* [Appendix A: Amended authorizations]({{site.baseurl}}/travel-guide-A-amended-authorizations)
 * [Appendix B: After hours and emergency travel procedures]({{site.baseurl}}/after-hours-emergency-travel-authorizations)
 * [Travel Guide FAQ]({{site.baseurl}}/travel-guide-faq)
 
