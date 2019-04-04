@@ -6,7 +6,7 @@ We use [Federalist](https://federalist.18f.gov) to build websites.
 
 ## Documentation 
 
-* [Federalist Documentation](https://federalist.18f.gov/pages/using-federalist/)
+* [Federalist Documentation](https://federalist.18f.gov/documentation/)
 
 ## Setup 
 
