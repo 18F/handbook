@@ -1,5 +1,5 @@
 ---
-title: Step 4 - Get Reimbursed
+title: Step 3 - Get Reimbursed
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101) <br>
@@ -10,7 +10,7 @@ title: Step 4 - Get Reimbursed
 
 ## Brief overview of vouchers
 
-You may be reimbursed for your expenses from official travel, or any other approved expense paid for via personal funds (such as reimbursement for [local travel]({{site.baseurl}}/travel-guide-faq/#How-do-I-create-a-local-or-miscellaneous-voucher), or [professional liability insurance]({{site.baseurl}}/travel-guide-faq/#How-can-I-get-reimbursed-for-professional-liability-insurance) for supervisors) by creating a voucher in [Concur](travel.gsa.gov). <br>
+You may be reimbursed for your expenses from official travel, or any other approved expense paid for via personal funds (such as reimbursement for [local travel]({{site.baseurl}}/travel-guide-faq/#How-do-I-create-a-local-or-miscellaneous-voucher), or [professional liability insurance]({{site.baseurl}}/travel-guide-faq/#How-can-I-get-reimbursed-for-professional-liability-insurance) for supervisors) by creating a voucher in [Concur](https://travel.gsa.gov). <br>
 <br>
 You can get started by navigating to the **Vouchers** tab on top and selecting **New Voucher**. If you do not yet have access to Concur, you can request it by following the steps [here]({{site.baseurl}}/first-time-travel-get-in-concur).<br>
 <br>

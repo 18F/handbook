@@ -16,7 +16,7 @@ Now for the fun part! Here are a few things to keep in mind when traveling for T
 
 Use of the GSA travel card is mandatory for all expenses as per the [Federal Travel Regulation](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=101276#wp1091086), except expenses for which it "is impractical (e.g., vendor does not accept credit cards) or imposes unreasonable burdens or costs (e.g., fees are charged for using the card)."
 
-[Must I use the travel card for meals and incidental expenses?]({{site.baseurl}}/#mie-and-use-of-the-gsa-travel-card)
+[Must I use the travel card for meals and incidental expenses?](#mie-and-use-of-the-gsa-travel-card)
 
 ### Request tax exemption where available
 
@@ -38,7 +38,7 @@ In addition to receiving round trip tickets to your destination and lodging for 
 
 * M&IE is given at a reduced rate on “travel days”-- i.e. days where part of the normal work day was spent traveling. This reduced rate is always 75% of normal M&IE, regardless of how much of the day was actually spent traveling.
 
-Note that if your travel extends past midnight, you get the full meal allowance for the long day of travel plus the 75% of the meal allowance for the following day (even if you arrived just after midnight local time). If you anticipate traveling past midnight, ensure your authorization reflects this in advance, otherwise, you will need to create an [amended authorization]({{site.baseurl}}/travel-guide-A-amended-authorization) upon your return.
+Note that if your travel extends past midnight, you get the full meal allowance for the long day of travel plus the 75% of the meal allowance for the following day (even if you arrived just after midnight local time). If you anticipate traveling past midnight, ensure your authorization reflects this in advance, otherwise, you will need to create an [amended authorization]({{site.baseurl}}/travel-guide-A-amended-authorizations) upon your return.
 
 * M&IE is given as a reimbursement after submitting a voucher, which is done after you return from a trip. How this reimbursement is disbursed depends on how much you used the GSA travel card.
 
@@ -82,7 +82,7 @@ Parking at the airport is only reimbursable when the conditions in the above exa
 
 ### Don't forget about vouchers!
 
-Have a good trip, [get reimbursement]({{site.baseurl}}/travel-guide-5-reimbursement)-- filling out a voucher-- within a 5 business days of getting back.
+Have a good trip, [get reimbursement]({{site.baseurl}}/travel-guide-3-reimbursement)-- filling out a voucher-- within a 5 business days of getting back.
 
 Why the rush? Filling out a voucher correctly allows you to:
 
@@ -92,6 +92,6 @@ Why the rush? Filling out a voucher correctly allows you to:
 
 On the other side, when travel expenses are submitted late, it’s a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, **future travel may not be approved for anyone with travel expenses that are more than 5 business days outstanding.**
 
-[Back from your trip? Head on over to get reimbursed!]({{site.baseurl}}/travel-guide-5-reimbursement)
+[Back from your trip? Head on over to get reimbursed!]({{site.baseurl}}/travel-guide-3-reimbursement)
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

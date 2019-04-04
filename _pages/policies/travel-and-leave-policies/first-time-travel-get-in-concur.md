@@ -2,8 +2,7 @@
 title: Get access to Concur
 ---
 
-[TOC]({{site.baseurl}}/travel-guide-table-of-contents)
-[Back to Last Page]({{site.baseurl}}/first-time-travel-get-in-concur-start)
+[TTS Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents)
 [Next to Travel Card]({{site.baseurl}}/first-time-travel-travel-card)
 
 1. To access [Concur](http://travel.gsa.gov/), you’ll first need to get a **“travel vendor ID”**. The easiest way to do this is to email kc-travel.finance@gsa.gov and request your vendor ID, and that payroll banking information can be used to generate this.
@@ -13,7 +12,7 @@ title: Get access to Concur
 2. Once you receive the vendor ID number (should look like **E000xxxxx**), complete the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing), minus the EFT enrollment form.
 Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well!
 
-*_Not sure about a particular field? Get help by reading the_ [_FAQ below_]({{site.baseurl}}/#frequently-asked-questions)
+*_Not sure about a particular field? Get help by reading the_ [_FAQ below_](#frequently-asked-questions)
 
 3. Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). _Do not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only email it to tts-travel@gsa.gov. Your account will be set up before [the next travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/), which you can also book any time if you have questions.
 
@@ -36,7 +35,7 @@ GSA employee (Virtual) if based anywhere else.
 That of your functional supervisor.
 
 #### What if I haven't taken the Mandatory IT Security Awareness Training yet?
-Try to take this training (The 2019 GSA Mandatory Cyber Security and Privacy Training) in [OLU](gsaolu.gsa.gov) first. Follow the instructions [here]({{site.baseurl}}/#help-with-olu) if you need help.
+Try to take this training (The 2019 GSA Mandatory Cyber Security and Privacy Training) in [OLU](https://gsaolu.gsa.gov) first. Follow the instructions [here](https://handbook.18f.gov/olu/#help-with-olu) if you need help.
 
 ### Got other questions?
 
