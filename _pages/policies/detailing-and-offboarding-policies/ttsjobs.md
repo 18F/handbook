@@ -45,7 +45,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 **United States Digital Service (USDS)**
 
-For any TTS staff interested in learning what it’s like to transition from TTS to USDS or just what it's like to work at USDS in general, a few of the TTS alums have offered to make themselves available for some informational discussions. If you’re interested in learning more, simply fill out this [USDS Informational Meeting Request form](https://docs.google.com/forms/d/e/1FAIpQLSfzbkhF6ahHv8-mu3BOpl6l7qg_kVyHuGUpDMcA-cPW60BfoQ/viewform?usp=sf_link) and someone from USDS will reach out to get something setup.
+For any TTS staff interested in learning what it’s like to transition from TTS to USDS or just what it's like to work at USDS in general, a few of the TTS alums have offered to make themselves available for some informational discussions. If you’re interested in learning more, simply fill out this [USDS Informational Meeting Request form](https://docs.google.com/forms/d/e/1FAIpQLSfzbkhF6ahHv8-mu3BOpl6l7qg_kVyHuGUpDMcA-cPW60BfoQ/viewform?usp=sf_link) and someone from USDS will reach out to get something set up.
 
 --------------------------------------------------------------------------------
 
