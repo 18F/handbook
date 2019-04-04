@@ -32,7 +32,7 @@ jobs:
           # if found, fail build with error message (grep returns the opposite
           # exit code from what we’re hoping for, so the '!' negates the
           # expression to pass/fail the build as expected).
-          command: '! (grep -rl "(/" _pages && echo "ERROR: Internal links must be prefixed with {{ site.baseurl }} to work correctly with Federalist Previews. Fix the above pages.")'
+          command: '! (grep -rl "(/" _pages && echo "ERROR: Internal links must be prefixed with {{site.baseurl}} to work correctly with Federalist Previews. Fix the above pages.")'
 
       - run:
           name: build site

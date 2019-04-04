@@ -51,9 +51,9 @@ The last project-specific meeting is sprint planning. Sprint planning takes many
 
 Here are some of the tools TTS uses to facilitate meetings.
 
-- [Google Meet]({{ site.baseurl }}/google-meet/)
-- [Google Calendar]({{ site.baseurl }}/google-calendar/)
-- [Zoom]({{ site.baseurl }}/zoom/)
-- [Meeting Space]({{ site.baseurl }}/gsa-internal-tools/#meeting-space) (for conference lines)
+- [Google Meet]({{site.baseurl}}/google-meet/)
+- [Google Calendar]({{site.baseurl}}/google-calendar/)
+- [Zoom]({{site.baseurl}}/zoom/)
+- [Meeting Space]({{site.baseurl}}/gsa-internal-tools/#meeting-space) (for conference lines)
 - Adobe Connect
 

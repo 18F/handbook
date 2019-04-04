@@ -10,7 +10,7 @@ Because Mural is a web application, there’s no installation necessary. You wil
 
 ## Usage
 
-![Screenshot of Mural pointing to teams, rooms, and murals]({{ site.baseurl }}/images/murally/1.png)
+![Screenshot of Mural pointing to teams, rooms, and murals]({{site.baseurl}}/images/murally/1.png)
 
 - Mural consists of “rooms” (for example, FEC) and “murals” (for example, User Research). There’s only one “team:” 18F.
 - Rooms can be public or private to the rest of the team. If rooms within the 18F group are set to public, anyone at 18F can view them. If they’re private, only people specifically invited to them can see them.

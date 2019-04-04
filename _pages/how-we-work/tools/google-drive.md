@@ -46,7 +46,7 @@ If you create a Google form that is intended for employees of another agency, ke
 
 If you're using a non-Google service and it requests access to your GSA Google Drive (such as to enable an integration feature), please deny that request. In other words, don't grant OAuth access to GSA Google Drive. Here's an example of what this kind of request might look like:
 
-![don't click "allow"]({{ site.baseurl }}/images/google-drive/google-drive-oauth.png)
+![don't click "allow"]({{site.baseurl}}/images/google-drive/google-drive-oauth.png)
 
 We have more explanation of why this is our policy in [this blog post about how we handle information security and third party applications](https://18f.gsa.gov/2016/05/13/how-18f-handles-information-security-and-third-party-applications/).
 
