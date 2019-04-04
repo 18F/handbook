@@ -156,8 +156,8 @@ navigation:
       - text: Leave (HR Links)
         url: leave/
         internal: true
-      - text: Travel guide
-        url: travel-guide-start-here/
+      - text: Travel guide (table of contents)
+        url: travel-guide-table-of-contents/
         internal: true
     - text: Tech
       children:
