@@ -42,6 +42,9 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 [Technology Portfolio Director](https://docs.google.com/document/d/1q-5L6ECK_qxO3WI0sUVwNdRabiLO2cNyuhxH8rf8WeE/edit?usp=sharing) - Application Close: Wed, April 10th, 2019 at 8pm ET
 
+[SaaS and Travel Systems Manager (#93)](https://docs.google.com/spreadsheets/d/1tvUDjm9bV42kHF7M7C7ZqA1PnI5qICnI4WBqZOMvDbU/edit?usp=sharing)
+
+[Program Analyst #91]((https://docs.google.com/spreadsheets/d/1tvUDjm9bV42kHF7M7C7ZqA1PnI5qICnI4WBqZOMvDbU/edit?usp=sharing)
 
 
 --------------------------------------------------------------------------------
