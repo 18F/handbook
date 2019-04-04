@@ -47,7 +47,7 @@ _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
 This may take 1-2 business days.
 
-1. Once you’ve gotten the go-ahead, you’ll receive two emails, one with a link to fill out a US Bank signup form and the second with an access code which will be required to see the form. [_Having Trouble?_]({{site.baseurl}}/#having-trouble). Follow the instructions attached with the email.
+1. Once you’ve gotten the go-ahead, you’ll receive two emails, one with a link to fill out a US Bank signup form and the second with an access code which will be required to see the form. [_Having Trouble?_](#having-trouble). Follow the instructions attached with the email.
 1. Reply to the email and c.c. tts-travel@gsa.gov to ensure that it gets processed!
 
 ### 5. Receive your card in the mail
@@ -61,4 +61,4 @@ This may take 1-2 business days.
 
 #### Having trouble?
 
-*Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
+*Reach out to ronnail.rawls@gsa.gov
