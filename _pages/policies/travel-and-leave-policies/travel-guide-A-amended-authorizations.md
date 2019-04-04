@@ -3,7 +3,7 @@ title: Appendix A - Amended authorizations
 navtitle: Amended Authorizations
 ---
 
-[TTS Travel 101](h{{site.baseurl}}/travel-101/) <br>
+[TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
 [Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
 [FAQ]({{site.baseurl}}/travel-guide-faq) <br>
 [Jump to Step 2: What to Consider While Traveling]({{site.baseurl}}/travel-guide-2-travel)
@@ -30,7 +30,7 @@ You have two options if you need to change your travel plans while at the airpor
 
 2. If the options the airline offers won't work with your schedule, you may call AdTrav at (877) 472-6716. Keep in mind that in addition to the $35 fee for using AdTrav, and flights available on other airlines may be more expensive and could strain your project or unit's budget, but weigh this against the value of your time-- the time you are involuntarily delayed counts as work time (billable time if the travel is for a billable project), and travel comp time may be claimed for delays that cause you to arrive home after your business hours.
 
-Whether you call the airline directly or call AdTrav, and make note of any difference in price. No further action in Concur is needed until after you return. Depending on the type of change you made to your itinerary, an amended authorization may be created for you in Concur. Read more on that [here]({{site.baseurl}}/#Amended-authorizations-and-re-approvals)
+Whether you call the airline directly or call AdTrav, and make note of any difference in price. No further action in Concur is needed until after you return. Depending on the type of change you made to your itinerary, an amended authorization may be created for you in Concur. Read more on that [here](#Amended-authorizations-and-re-approvals)
 
 #### Changes made before going to the airport or train station, but after the flight has been ticketed
 
@@ -38,7 +38,7 @@ Whether you call the airline directly or call AdTrav, and make note of any diffe
 
 If your reservations have already been ticketed, you must call AdTrav at (877) 472-6716 to change your itinerary. If your new reservation is for a non-government contract flight that exceeds the [city pair rate](https://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) for each leg of your trip (note that this calculator shows the one-way price), you must submit an amended authorization in Concur, which should be generated for you within an hour of your rebooking.
 
-Otherwise, carry on with your new itinerary. Depending on the changes you make to your trip, additional action in Concur may be required upon your return. Read on [here]({{site.baseurl}}/#Amended-authorizations-and-re-approvals) for more details.
+Otherwise, carry on with your new itinerary. Depending on the changes you make to your trip, additional action in Concur may be required upon your return. Read on [here](#Amended-authorizations-and-re-approvals) for more details.
 
 #### Changes made after an authorization is approved in Concur, but before ticketing
 
