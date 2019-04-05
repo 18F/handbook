@@ -12,15 +12,15 @@ Sometimes, travel plans change. Fortunately, Concur, AdTrav, your carriers, your
 
 How changes can be accommodated depends on when and how the changes occurred:
 
-* **[!]** [Changes made at the airport or train station](#Changes-made-at-the-airport-or-train-station)
+* **[!]** [Changes made at the airport or train station](#changes-made-at-the-airport-or-train-station)
 
-* [Changes made before going to the airport or train station, but after the flight has been ticketed (usually within 4-72 hours of departure)](#Changes-made-before-going-to-the-airport-or-train-station-but-after-the-flight-has-been-ticketed)
+* [Changes made before going to the airport or train station, but after the flight has been ticketed (usually within 4-72 hours of departure)](#changes-made-before-going-to-the-airport-or-train-station-but-after-the-flight-has-been-ticketed)
 
-* [Changes made after an authorization is approved in Concur, but before ticketing](#Changes-made-after-an-authorization-is-approved-in-Concur-but-before-ticketing)
+* [Changes made after an authorization is approved in Concur, but before ticketing](#changes-made-after-an-authorization-is-approved-in-concur-but-before-ticketing)
 
-* [Changes made prior to an authorization's approval in Concur](#Changes-made-prior-to-an-authorizations-approval-in-Concur)
+* [Changes made prior to an authorization's approval in Concur](#changes-made-prior-to-an-authorizations-approval-in-concur)
 
-* [Making a change to a blank authorization in Concur (with no flights, rail, hotel, or rental car)](#Manually-amending-an-authorization-in-Concur)
+* [Making a change to a blank authorization in Concur (with no flights, rail, hotel, or rental car)](#manually-amending-an-authorization-in-concur)
 
 #### Changes made at the airport or train station
 
@@ -30,7 +30,7 @@ You have two options if you need to change your travel plans while at the airpor
 
 2. If the options the airline offers won't work with your schedule, you may call AdTrav at (877) 472-6716. Keep in mind that in addition to the $35 fee for using AdTrav, and flights available on other airlines may be more expensive and could strain your project or unit's budget, but weigh this against the value of your time-- the time you are involuntarily delayed counts as work time (billable time if the travel is for a billable project), and travel comp time may be claimed for delays that cause you to arrive home after your business hours.
 
-Whether you call the airline directly or call AdTrav, and make note of any difference in price. No further action in Concur is needed until after you return. Depending on the type of change you made to your itinerary, an amended authorization may be created for you in Concur. Read more on that [here](#Amended-authorizations-and-re-approvals)
+Whether you call the airline directly or call AdTrav, and make note of any difference in price. No further action in Concur is needed until after you return. Depending on the type of change you made to your itinerary, an amended authorization may be created for you in Concur. Read more on that [here](#amended-authorizations-and-re-approvals)
 
 #### Changes made before going to the airport or train station, but after the flight has been ticketed
 
@@ -38,15 +38,15 @@ Whether you call the airline directly or call AdTrav, and make note of any diffe
 
 If your reservations have already been ticketed, you must call AdTrav at (877) 472-6716 to change your itinerary. If your new reservation is for a non-government contract flight that exceeds the [city pair rate](https://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) for each leg of your trip (note that this calculator shows the one-way price), you must submit an amended authorization in Concur, which should be generated for you within an hour of your rebooking.
 
-Otherwise, carry on with your new itinerary. Depending on the changes you make to your trip, additional action in Concur may be required upon your return. Read on [here](#Amended-authorizations-and-re-approvals) for more details.
+Otherwise, carry on with your new itinerary. Depending on the changes you make to your trip, additional action in Concur may be required upon your return. Read on [here](#amended-authorizations-and-re-approvals) for more details.
 
 #### Changes made after an authorization is approved in Concur, but before ticketing
 
-If you are amending your trip before your flight has been ticketed (~72 hours before departure on government contract flights), you can simply go to your Concur homepage and locate your itinerary, which should be the very first trip you see below in the "RECENT TRIPS" section. Once you open this link, you should see all of the parts of your itinerary listed below, with options to change flights, hotels, and rental cars directly in Concur. You can make whatever changes you need, and depending on the changes you make, you may or may not need to resubmit for approval. Read on more [here](#Amended-authorizations-and-re-approvals)
+If you are amending your trip before your flight has been ticketed (~72 hours before departure on government contract flights), you can simply go to your Concur homepage and locate your itinerary, which should be the very first trip you see below in the "RECENT TRIPS" section. Once you open this link, you should see all of the parts of your itinerary listed below, with options to change flights, hotels, and rental cars directly in Concur. You can make whatever changes you need, and depending on the changes you make, you may or may not need to resubmit for approval. Read on more [here](#amended-authorizations-and-re-approvals)
 
 #### Changes made prior to an authorization's approval in Concur
 
-If your authorization has not yet been approved, you can make all of your changes in Concur by going to your Concur homepage and locating your itinerary, which should be the very first trip you see below in the "RECENT TRIPS" section. Once you open this link, you should see all of the parts of your itinerary listed below, with options to change flights, hotels, and rental cars directly in Concur. Make your changes, and depending on the sorts of changes you are making (read more about this [here](#Amended-authorizations-and-re-approvals), attach an updated approval email from your authorizing official. Continue to [submit your revised authorization for approval]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
+If your authorization has not yet been approved, you can make all of your changes in Concur by going to your Concur homepage and locating your itinerary, which should be the very first trip you see below in the "RECENT TRIPS" section. Once you open this link, you should see all of the parts of your itinerary listed below, with options to change flights, hotels, and rental cars directly in Concur. Make your changes, and depending on the sorts of changes you are making (read more about this [here](#amended-authorizations-and-re-approvals), attach an updated approval email from your authorizing official. Continue to [submit your revised authorization for approval]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
 
 #### Manually amending an authorization in Concur
 
@@ -80,11 +80,11 @@ Congratulations! No further action is required. Make the changes to your itinera
 
 1. If your change involves adding dates outside of what was originally approved, or travel to or from a location that was not originally approved:
 
-Both and updated [approval email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval) and [amended authorization](#Amended-Authorizations) in Concur are required.
+Both and updated [approval email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval) and [amended authorization](#amended-authorizations) in Concur are required.
 
 2. If your new flight is above the city pair rate or nonrefundable:
 
-An [amended authorization](#Amended-Authorizations) in Concur will be generated for you in AdTrav and must be submitted. Unless the travel is an emergency and you are at the airport, you must also obtain an updated [approval email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval).
+An [amended authorization](#amended-authorizations) in Concur will be generated for you in AdTrav and must be submitted. Unless the travel is an emergency and you are at the airport, you must also obtain an updated [approval email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval).
 
 3. If the increases in cost of your trip exceed 120% of what was approved, or your direct rental car costs were $10 or more over the authorized amount:
 
@@ -96,6 +96,6 @@ If you changed your travel plans via **Concur**, an amended authorization which 
 
 If you changed your travel plans via **AdTrav**, an amended authorization was likely automatically generated for you, though this can take up to an hour after your call with them, so be patient! Once the amendment is generated, you can see it by navigating to the **Authorizations** tab and selecting your trip. Verify that all of the right changes have been made (and reach out to the Business Applications Service desk at (866) 450-6588 if you need any help), and then continue on with [submitting your amended authorization for approval]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
 
-If you changed your travel plans outside of Concur or AdTrav but still need to amend your authorization based on the guidance above, go ahead and [manually amend your authorization](#Manually-amending-an-authorization-in-Concur).
+If you changed your travel plans outside of Concur or AdTrav but still need to amend your authorization based on the guidance above, go ahead and [manually amend your authorization](#manually-amending-an-authorization-in-Concur).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
