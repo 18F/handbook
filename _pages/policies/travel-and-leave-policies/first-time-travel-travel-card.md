@@ -34,28 +34,32 @@ _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
   * **Employee name:** Your name
   * **Region/Central Office:** Central Office, regardless of your actual location
-  * **SSO:** X - Office of Citizen Services & Innovative Technologies
+  * **SSO:** Q - Federal Acquisition Service
   * **Supervisor name:** The name of your functional supervisor
   * **Supervisor title:** Your functional supervisor’s title
   * **Supervisor signature:** Your functional supervisor’s signature.
 
-2. Save the doc as “Your Name STCAF”
-
-### 3. Send both of the training certificates and the STCAF form as attachments to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov)
-
-### 4. Wait for an email response from the travel team
+### 3. Send both of the training certificates and the travel card approval form as attachments to [ronnail.rawls@gsa.gov](mailto:ronnail.rawls@gsa.gov)
 
 This may take 1-2 business days.
 
-1. Once you’ve gotten the go-ahead, you’ll receive two emails, one with a link to fill out a US Bank signup form and the second with an access code which will be required to see the form. [_Having Trouble?_](#having-trouble). Follow the instructions attached with the email.
-1. Reply to the email and c.c. tts-travel@gsa.gov to ensure that it gets processed!
+Once you’ve gotten the go-ahead, you’ll receive two emails, one with a link to fill out a US Bank signup form and the second with an access code which will be required to see the form. Follow the instructions attached with the email. Use your **home** address, not your office address. Ronnail and her team can assist with any questions, the TTS travel team isn't involved in this process.
 
-### 5. Receive your card in the mail
+### 4. Receive and activate your card in 7-10 business days.
 
-* Wait 7-10 business days for processing and shipping.
-* You will receive a travel card in the mail at your listed address (should be your home address).
+Once you receive your new GSA SmartPay 3 travel card, call U.S. Bank at 888-994-6722 to confirm your account and create your personal identification number (PIN). Be sure to remember your PIN. It will be required to complete chip enabled transactions.
 
-### 6. Activate your card
+Then, follow these steps to register your account and create your U.S. Bank Access Online user ID:
+
+Go to https://access.usbank.com.
+Select the Register Online hyperlink at the bottom of the screen.
+Enter GSASP3 in the Organization Short Name field.
+Enter the 16-digit number located on your new purchase card (without spaces or dashes) in the Account Number field.
+Enter the month and year your account expires in the Account Expiration Date section. This will be listed on your new travel card as well.
+Select the Register This Account button to complete the registration process for your card and follow the prompts to create your user ID and password.
+After you have registered and signed into the U.S. Bank Access Online website with your new account, you can sign up for account alerts and notifications under My Personal Information.
+
+[Visit the GSA SmartPay 3 purchase card page on InSite for more information](https://insite.gsa.gov/topics/acquisition-purchases-and-payments/gsa-purchase-card/preparing-and-implementing-gsa-smartpay-3-sp3).
 
 [Next Step: Complete Your Concur Profile]({{site.baseurl}}/first-time-travel-complete-concur-profile)
 
