@@ -246,16 +246,16 @@ navigation:
       - text: GSA internal tools
         url: gsa-internal-tools/
         internal: true
-      - text: AnyConnect
+      - text: AnyConnect (VPN client)
         url: anyconnect/
         internal: true
-      - text: eSign
+      - text: eSign (digital signatures)
         url: esign/
         internal: true
-      - text: Federalist
+      - text: Federalist (publishing platform)
         url: federalist/
         internal: true
-      - text: GitHub
+      - text: GitHub (code repositories and versioning)
         url: github/
         internal: true
       - text: Gmail
@@ -274,34 +274,34 @@ navigation:
       - text: Google Groups
         url: google-groups/
         internal: true
-      - text: Google Meet
+      - text: Google Meet (video conferencing)
         url: google-meet/
         internal: true
       - text: Microsoft Office for OS X
         url: https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing
         internal: false
-      - text: Mural.ly
+      - text: Mural.ly (collaborative whiteboard tool)
         url: murally/
         internal: true
       - text: Network time sync in OS X with NTP
         url: ntp/
         internal: true
-      - text: Slack
+      - text: Slack (chat client)
         url: slack/
         internal: true
       - text: Text editors
         url: text-editors/
         internal: true
-      - text: Tock
+      - text: Tock (time tracking)
         url: tock/
         internal: true
-      - text: Trello
+      - text: Trello (task and project management)
         url: trello/
         internal: true
-      - text: VMware Horizon
+      - text: VMware Horizon (virtual desktop client)
         url: vmware-horizon/
         internal: true
-      - text: Zoom
+      - text: Zoom (video conferencing)
         url: zoom/
         Internal: true
 
