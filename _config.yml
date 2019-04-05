@@ -255,7 +255,7 @@ navigation:
       - text: Federalist (publishing platform)
         url: federalist/
         internal: true
-      - text: GitHub (code repositories and versioning)
+      - text: GitHub (code repos and versioning)
         url: github/
         internal: true
       - text: Gmail
