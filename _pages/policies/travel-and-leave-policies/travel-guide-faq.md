@@ -473,7 +473,7 @@ For mileage claims over $75, instead of attaching a receipt, attach a screenshot
 
 #### I recieved a bill for an outstanding balance on my travel card. Should I pay it?
 
-A: First, verify that your most recent voucher was paid to the travel card account. Go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **View Summary**. In the voucher view, navigate down to the **Totals and travel advances** section and verify the amount on the **Pay to Charge Card** line. This amount should match with a payment made to the travel card in your travel card statement. [[need help accessing this?]]() If it does, and there is still a remaining balance, it is likely that you used the travel card to pay for something that was either claimed as **CASH** on the voucher, or not claimed at all.
+A: First, verify that your most recent voucher was paid to the travel card account. Go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **View Summary**. In the voucher view, navigate down to the **Totals and travel advances** section and verify the amount on the **Pay to Charge Card** line. This amount should match with a payment made to the travel card in your travel card statement. [Links + Instructions for viewing online statements here]({{site.baseurl}}/first-time-travel-travel-card/#4-receive-and-activate-your-card-in-7-10-business-days) If it does, and there is still a remaining balance, it is likely that you used the travel card to pay for something that was either claimed as **CASH** on the voucher, or not claimed at all.
 
 If you discover a valid charge to your travel card that you need to be reimbursed for after your voucher is initially approved, you may create an [amended voucher](#how-do-i-amend-my-voucher-after-it-is-approved).
 
@@ -491,7 +491,7 @@ If it has been over a week after your voucher has been approved and your reimbur
 
 To amend a voucher, go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **Amend voucher**. Provide a brief reason for the amendment, then proceed with [adding your revised expenses](#how-to-add-edit-or-delete-expenses) and [resubmitting for approval](#how-to-stamp-and-submit-for-travel-team-approval). Note that if you want to revise a voucher that has not yet been approved, you can simply **Edit Voucher** instead of amending.
 
-**Note:** Vouchers should NOT be amended in the case of revising the payment method ([IBA to CASH](#positive-balance-on-travel-card) or [vice versa](#i-recieved-a-bill-for-an-outstanding-balance-on-my-travel-card-Should-i-pay-it), or reducing a claim on an already-approved expense. If you were over-reimbursed for something, you will need to mail a check for that amount, made out to GSA to the following address:
+**Note:** Vouchers should NOT be amended in the case of revising the payment method ([IBA to CASH](#positive-balance-on-travel-card) or [vice versa](#i-recieved-a-bill-for-an-outstanding-balance-on-my-travel-card-should-i-pay-it), or reducing a claim on an already-approved expense. If you were over-reimbursed for something, you will need to mail a check for that amount, made out to GSA to the following address:
 
 USDA-OCFO
 Financial Operations & Disbursement Branch
@@ -499,6 +499,6 @@ Attn:  Bryan DeLeve - 2SE
 2300 Main Street
 Kansas City, MO 64108
 
-Reference the auhtorization and voucher number along with the payment.
+Reference the authorization and voucher number along with the payment.
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
