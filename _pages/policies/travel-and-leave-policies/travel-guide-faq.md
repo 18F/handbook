@@ -233,7 +233,7 @@ The body of the email must include the following:     [See an individual templat
 * Start and end dates of travel    [What if I am extending travel for personal reasons?](#what-if-i-am-extending-travel-for-personal-reasons)
 * A brief description of work to be done on the trip
 * Identified budget that will be paying for the trip    [How do I identify my budget?](#who-is-my-authorizing-official-and-what-is-my-budget)
-* Origin and destinations for each individual    [What if I am traveling to or returning from a location other than my home location?](#what-if-i-am-traveling-to-or-returning-from-a-location-other-than-my-home-location)
+* Origin and destinations for each individual    [What if I am returning to or traveling from a location other than home?](#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home)
 * Estimated expenses for each individual, including a sufficient budget for local travel and miscellaneous expenses such baggage fees   [How should I estimate my expenses?](#how-should-i-estimate-my-expenses)
 
 *_Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official._
@@ -282,7 +282,7 @@ Include language that specifies which days will be at your own expense, and ackn
 
 Alternatively, you may book your official travel and have it approved as normal. Once your travel has been approved by the travel team in Concur, you may then call AdTrav at (877) 472-6716 and request to be rebooked on a different flight for personal travel. In the case of most government contract flights, there is no additional charge. However, if there is an additional cost compared to your original itinerary, AdTrav will request you provide a personal credit or debit card number to pay for the difference.
 
-#### What if I am traveling to or returning from a location other than my home location?
+#### What if I am returning to or traveling from a location other than home?
 
 If you were previously scheduled to be on leave or telework at the other location*, the full cost of travel from or to that location can be approved at the discretion of your authorizing official. Ensure that there is language in the email that reflects your itinerary.
 
