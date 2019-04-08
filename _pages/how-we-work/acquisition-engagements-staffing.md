@@ -1,8 +1,8 @@
 ---
 title: Acquisition Engagement Staffing
 tags:
-- procurements
-- acqusitions
+- procurement
+- acquisitions
 - engagements
 - consulting
 - staffing
@@ -21,7 +21,7 @@ The Path Analysis deliverable is usually a roadmap with recommended next steps. 
 * Developing a procurement strategy and solicitation package. (Don’t worry! The procurement experts in our Acquisitions chapter take the lead on this work.)
 * User research and prototyping work to surface product, design, technical, security, or deployment challenges that a future contractor might face. 
 
-he user research and prototyping work serve several specific purposes in a procurement project. First, information gleaned from this work can be used to inform a potential procurement or other next step. Additionally, technical barriers can be identified and potentially removed during this phase, setting up contractors to be successful faster. And lastly, this work allows 18F to model good practices for the partner. For example, the 18F team might demonstrate good scrum hygiene, working “in the open,” and the value of cross-functional teams, all of which can help foster better government/industry partnerships.
+The user research and prototyping work serve several specific purposes in a procurement project. First, information gleaned from this work can be used to inform a potential procurement or other next step. Additionally, technical barriers can be identified and potentially removed during this phase, setting up contractors to be successful faster. And lastly, this work allows 18F to model good practices for the partner. For example, the 18F team might demonstrate good scrum hygiene, working “in the open,” and the value of cross-functional teams, all of which can help foster better government/industry partnerships.
 
 All of the above is called “pre-award” work in the context of a procurement. If the partner decides to pursue a procurement, 18F project teams can be involved in additional procurement-focused Experiment & Iterate phases. For example, 18F teams can:
 
@@ -39,7 +39,7 @@ However, no matter how well-versed our partners become in these practices, the r
 
 ## Where can I learn more? 
 
-* Check out related blog posts 
+* Check out [related blog posts](https://18f.gsa.gov/tags/procurement/) 
 * Learn about the [two types of procurement support]({{site.baseurl}}/acquisition-engagements-overview/) we can provide. 
 * Join the #acquisitions Slack channel
 

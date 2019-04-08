@@ -1,8 +1,8 @@
 ---
 title: Acquisition Engagements Overview
 tags:
-- procurements
-- acqusitions
+- procurement
+- acquisitions
 - engagements
 - consulting
 ---
