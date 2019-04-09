@@ -29,7 +29,7 @@ As you can see from the above excerpt from GSA’s policy, the Merit process is 
 
 ### Filling a vacancy via Competitive Service (Career) Merit Promotion Process
 
-As part of the larger FAS organization, TTS must also meet the agency staffing plan requirements. Which means that offices across TTS have a set number of “positions” (i.e., things that represent FTE) that have been approved by TTS, CFO and FAS Front Office as part of the TTS Staffing Plan. If an office has vacant positions available, they can choose to fill those positions through external recruitment or through the Merit Promotion process (i.e., internal recruitment or current or former feds from other agencies).
+As part of the larger FAS organization, TTS must also meet the agency staffing plan requirements. Which means that offices across TTS have a set number of “positions” (i.e., things that represent FTE) that have been approved by TTS, CFO and FAS Front Office as part of the TTS Staffing Plan. If an office has vacant positions available, they can choose to fill those positions through external recruitment or through the Merit Promotion process (i.e., internal recruitment of current or former feds from other agencies).
 
 - The office requesting the hiring action must have a vacant position available on the staffing plan that can accommodate the required GS level.
 - If an available position isn’t on the approved staffing plan, then TTS Front Office & CFO will need to approve a business justification for the position. After approval, OHRM will need to create a new position number.
@@ -79,7 +79,8 @@ The hiring action owner is responsible for defining what the minimum requirement
 
 For an overview on the process for advertising an excepted service promotion go to our [Hiring]({{site.baseurl}}/hiring) page.
 
-Training and Additional Resources
+### Training and Additional Resources
+
 Virtual trainings and information on writing a resume, navigating USAJobs, and generally working in the federal government.
 
 - https://www.usajobs.gov/Notification/Events/
