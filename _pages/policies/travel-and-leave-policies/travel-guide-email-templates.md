@@ -11,7 +11,7 @@ title: Travel Approval Email Templates
 
 Authorizing official approval is secured via the [event request process]({{site.baseurl}}/attending-conferences), so you are all set as long as your travel is booked in Concur and is in SUBMIT TO APPROVER status. <br>
 <br>
-_However, an email of approval is still required if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-guide-faq/#what-if-I-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-guide-faq/#What-if-I-am-traveling-to-or-returning-from-a-location-other-than-my-home-location), or combining your event travel with travel for some other reason._
+_However, an email of approval is still required if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason._
 
 #### Email Template for Individual Travel:
 
