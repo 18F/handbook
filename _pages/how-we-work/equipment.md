@@ -73,9 +73,7 @@ If you are based in an office, you can check out mice, keyboards, and trackpads 
 
 #### DC or remote
 
-Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the TTS Business Operations Team will reach out to you.
-
-If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
+Make your request by filling out a [hardware IT Support Ticket](https://gsa.service-now.com/sp/). GSA IT will reach out to you to accomodate.
 
 #### Chicago
 
