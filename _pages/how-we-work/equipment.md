@@ -70,7 +70,7 @@ If you are based in an office, you can check out mice, keyboards, and trackpads 
 
 #### DC or remote
 
-Make your request by filling out a hardware IT Support Ticket, [here](https://gsa.service-now.com/sp/). GSA IT will reach out to you to accomodate.
+Make your request by filling out a [hardware IT Support Ticket](https://gsa.service-now.com/sp/). GSA IT will reach out to you to accomodate.
 
 #### Chicago
 
