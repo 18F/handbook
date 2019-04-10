@@ -27,4 +27,4 @@ Compared to an Acquisition Consulting engagement, the 18F contracting lead and p
 
 ## Want to learn more about our acquisitions projects?
 
-[Check out this primer]({{site.baseurl}}/acquisition-engagements-staffing/) on what it means to be staffed to an 18F procurement project.
+[Check out this primer]({{site.baseurl}}/working-on-an-acquisition-engagement/) on what it means to be staffed to an 18F procurement project.

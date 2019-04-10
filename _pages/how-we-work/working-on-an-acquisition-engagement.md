@@ -40,6 +40,6 @@ However, no matter how well-versed our partners become in these practices, the r
 ## Where can I learn more? 
 
 * Check out [related blog posts](https://18f.gsa.gov/tags/procurement/) 
-* Learn about the [two types of procurement support]({{site.baseurl}}/acquisition-engagements-overview/) we can provide. 
+* Learn about the [two types of procurement support]({{site.baseurl}}/acquisition-engagement-types/) we can provide. 
 * Join the #acquisitions Slack channel
 
