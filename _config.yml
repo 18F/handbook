@@ -450,6 +450,9 @@ navigation:
       - text: Doing research at 18F
         url: research-guidelines/
         internal: true
+      - text: How we relate to partners
+        url: how-we-relate-to-partners/
+        internal: true
       - text: One-on-ones
         url: one-on-ones/
         internal: true
