@@ -1,5 +1,5 @@
 ---
-title: Acquisition Engagement Staffing
+title: Work on an Acquisition Engagement
 tags:
 - procurement
 - acquisitions

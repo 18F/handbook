@@ -441,6 +441,12 @@ navigation:
       - text: Before you ship
         url: https://before-you-ship.18f.gov/infrastructure/aws/
         internal: false
+      - text: Acquisition engagement types
+        url: acquisition-engagement-types/
+        internal: true 
+      - text: Working on an acqusition engagement 
+        url: working-on-an-acquisition-engagement/
+        internal: true
       - text: Blogging
         url: blogging/
         internal: true
