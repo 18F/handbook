@@ -33,8 +33,6 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-[Login.gov - Security Ops Engineer](https://join.tts.gsa.gov/join/security-ops-engineer/) - Application Close: Friday, April 5th, 2019 at 8pm ET
-
 [PIF - Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow) - Application Close: Monday, April 22, 2019 at 11:59pm ET
 
 ### Internal Only Competitions
