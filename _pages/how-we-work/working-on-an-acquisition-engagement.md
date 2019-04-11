@@ -10,9 +10,9 @@ tags:
 
 So you’ve been staffed to a procurement project. Here are some common questions that may come up.
 
-## What does "working towards a procurement" mean?
+## What does working toward a procurement mean?
 
-You may have seen language about “working towards a procurement” in one of our partner agreements. In practice, these projects look very similar to any other 18F project, especially at the beginning. They typically start with a discovery period called a [Path Analysis](https://github.com/18F/path-analysis) where we work with the partner to define the problem space and assess their digital readiness.
+You may have seen language about “working toward a procurement” in one of our partner agreements. In practice, these projects look very similar to any other 18F project, especially at the beginning. They typically start with a discovery period called a [Path Analysis](https://github.com/18F/path-analysis) where we work with the partner to define the problem space and assess their digital readiness.
 
 The Path Analysis deliverable is usually a roadmap with recommended next steps. For projects working towards a procurement, the next steps might include:
 
