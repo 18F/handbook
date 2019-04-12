@@ -25,9 +25,7 @@ This document explains two main tasks we do to operationalize our basic principl
 
 ### Getting consent
 
-18F gets explicit consent from anyone who participates in our moderated research, generally by asking that our research participants sign a "design research participant agreement". 18F maintains a [template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit) for internal use, and an [example participant agreement](https://methods.18f.gov/participant-agreement/) for sharing with interested parties. Please make a copy of the participant agreement document template, put it into your project folder, and edit the highlighted text for each of your research studies.
-
-Feel free to adapt our form as needed, but don't change any of the legal language without asking [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) first. If your participants are likely not fully literate in English, consider having the form translated to the correct language or working out a process for verbal consent using a translator.
+18F gets explicit consent from anyone who participates in our moderated research, generally by asking that our research participants sign a "design research participant agreement". 18F maintains a [template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit) for internal use, and an [example participant agreement](https://methods.18f.gov/participant-agreement/) for sharing with interested parties. Please make a copy of the participant agreement document template, put it into your project folder, and edit the highlighted text for each of your research studies. If your participants are likely not fully literate in English, consider having the form translated to the correct language or working out a process for verbal consent using a translator.
 
 When sending participant agreements electronically, please use our [participant agreement email template](https://docs.google.com/document/d/1t01t_eLYWJXuKdJkhiyBqkWf4Yr5XsFAbNv-BDAZqzE/edit
 ). This template clearly specifies how people can opt out of a study and/or request that we do not contact them in the future.
@@ -65,9 +63,9 @@ Be especially mindful as you post meeting notes or sidebar conversations during 
 Carefully restricting access to personally identifiable information is a matter not just of people's right to respect but of their right to [privacy](https://methods.18f.gov/privacy/). For more information, please see the [Design research privacy impact assessment (PIA)](https://www.gsa.gov/cdnstatic/design_research_pia_%28signed%29.pdf), or [this 30-minute overview of privacy as it relates to research](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4) narrated by the GSA Privacy Office.
 
 
-**Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII, you can ask on Slack in [#research](https://gsa-tts.slack.com/archives/research) to get other researchers' perspectives, and in [#legalstuff](https://gsa-tts.slack.com/archives/legalstuff) to track down relevant policy guidance. If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://gsa-tts.slack.com/archives/infrastructure). 
+**Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII or need help with policy guidance, you can ask on Slack in [#g-research](https://gsa-tts.slack.com/archives/g-research). If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://gsa-tts.slack.com/archives/infrastructure). 
 
 
 ## Join the research guild!
 
-The Guild talks in [#research](https://gsa-tts.slack.com/archives/research) and meets once a week to discuss the theory and practice of asking questions. The current guild leaders are [Andrew Maier](https://gsa-tts.slack.com/team/andrewmaier) and [Ben Peterson](https://gsa-tts.slack.com/team/bpdesigns).
+The Guild talks in [#g-research](https://gsa-tts.slack.com/archives/g-research) and meets once a week to discuss the theory and practice of asking questions.
