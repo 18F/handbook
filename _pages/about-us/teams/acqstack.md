@@ -114,7 +114,7 @@ These are a couple of suggested reading materials meant to give you a better sen
 * **Our highest duty is to our agency partners.** (Not the partners’ vendor)  We work closely with the vendor intent on developing good working relationships, AND we always prioritize our client’s best interests above all else.
 * **Vendor lock-in is bad for everyone.** We encourage our agency partners to prioritize internalizing expertise and using vendors as interchangeable complements to their own team. That includes 18F, which is also a vendor.
 * **Talk to industry!** We are comfortable having conversations with industry as the FAR advises us to do. 
-  * But what about **non-disclosure agreements** (NDAs)? What if a vendor says we need sign their NDA?
+  * But what about **non-disclosure agreements** (NDAs)? What if a vendor says we need sign their NDA for us to do market research?
     * As government employees we aren’t allowed to sign other company’s NDAs in our professional capacity without going through Office of General Counsel (and likely taking months of negotiations). The guidance we're received is:
     > In general, Federal employees are already required to protect vendor information under [18 USC §1905](https://www.law.cornell.edu/uscode/text/18/1905), under which an employee who discloses a vendor’s confidential or trade secret information unless authorized by law will lose their job and pay a fine and/or go to prison for up to one year. So from our standpoint NDAs are unnecessary, and we should push back on vendor requests to sign NDAs.
 
