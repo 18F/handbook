@@ -9,9 +9,11 @@ tags:
 
 Generally speaking, there are two ways that 18F can work with a partner on a procurement - an *Acquisition Consulting Engagement* and an *Assisted Acquisition Engagement*.
 
+Note - some common terms used in discussing acquisitions can be found in [this primer]({{site.baseurl}}/working-on-an-acquisition-engagement/#some-common-terms-you-may-hear) on what it means to be staffed to an 18F procurement project.
+
 ## Acquisition Consulting Engagement
 
-On an Acquisition Consulting engagement, the partner uses a contracting vehicle that they control and have access to at their agency to support the procurement (note - this could be a FAS procurement vehicle). The 18F team, led by the Acquisition lead, will work closely with the partner throughout the life cycle of procurement.  This includes the development of an overarching acquisition strategy, developing pre-award materials, engaging vendors and helping the partner run through the required phases of the procurement.
+On an Acquisition Consulting engagement, the partner uses a procurement vehicle that they control and have access to at their agency to support the procurement (note - this could be a FAS procurement vehicle). The 18F team, led by the Acquisition lead, will work closely with the partner throughout the life cycle of procurement.  This includes the development of an overarching acquisition strategy, developing pre-award materials, engaging vendors and helping the partner run through the required phases of the procurement.
 
 The partner's contracting office takes the lead on these activities, and the acquisition lead on the 18F team will pull in other team members at various times to review draft solicitation materials, to help evaluate written responses to the solicitation, to help screen vendors, and for various other purposes. (It is worth noting that this cross functional team approach is unique in government procurement and is what positions 18F to do this work well with our partners.)
 

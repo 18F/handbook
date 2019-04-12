@@ -35,7 +35,17 @@ All of the above is called “pre-award” work in the context of a procurement.
 ## How does this help our partners? 
 
 The goal of 18F’s work is to help government agencies provide better digital services to the people they serve. In order for our work to outlast our engagements, we focus not only on creating digital solutions, but also on building our partners’ capabilities in the practices we believe lead to better outcomes—practices like iterative human-centered design and collaborative and open workstyles.
-However, no matter how well-versed our partners become in these practices, the reality is that most government agencies do not have the in-house resources to maintain and grow the work we’ve done with them. Instead, they may rely on contractors to do this. This is why, in addition to building capacity in digital service delivery practices, we also **develop our partners’ capacity to be better buyers and managers of custom software development teams**. 
+However, no matter how well-versed our partners become in these practices, the reality is that most government agencies do not have the in-house resources to maintain and grow the work we’ve done with them. Instead, they may rely on contractors to do this. This is why, in addition to building capacity in digital service delivery practices, we also **develop our partners’ capacity to be better buyers and managers of custom software development teams**.
+
+## Some common terms you may hear
+
+* **Acquisition**: Often used interchangeably with "procurement," an *acquisition* is a process by which an agency selects a third-party vendor to enter into a contract with to perform some work. The contract will describe the work to be done and outline the roles and responsibilities of the agency and the vendor over the course of the project. 
+* **Procurement vehicle**: An existing mechanism that has been set up to allow agencies to work with third-party vendors to provide various services. GSA/FAS manages a number of [existing procurement vehicles](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules), including those that cover information technology goods and services.
+**Procurement life cycle**: The period of time covering *pre-award*, through *award*, *post-award* and contract closeout. 
+* **Pre-award**: The period prior to an award where an agency solicits responses from prospective vendors, and prepares to work with a vendor after an award has been made. This period usually includes the review of materials submitted to an agency by vendors in response to a solicitation.
+* **Solicitation**: The formal process for posting an opportunity for vendors to wor with an agency. Opportunities to work with agencies are typically posted to sites like [FedBizOpps](https://www.fbo.gov/).
+* **Award**: When an agency has completed the vetting and selection process for a procurement and identifies a specific vendor with which to work. 
+* **Post-award**: The period after an award has been made, when the agency begins working with a specific vendor to take delivery of specific materials and artifacts as spelled out in the contract.
 
 ## Where can I learn more? 
 
