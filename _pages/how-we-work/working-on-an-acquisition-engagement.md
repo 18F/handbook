@@ -41,10 +41,10 @@ However, no matter how well-versed our partners become in these practices, the r
 
 * **Acquisition**: Often used interchangeably with "procurement," an *acquisition* is a process by which an agency selects a third-party vendor to enter into a contract with to perform some work. The contract will describe the work to be done and outline the roles and responsibilities of the agency and the vendor over the course of the project. 
 * **Procurement vehicle**: An existing mechanism that has been set up to allow agencies to work with third-party vendors to provide various services. GSA/FAS manages a number of [existing procurement vehicles](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules), including those that cover information technology goods and services.
-**Procurement life cycle**: The period of time covering *pre-award*, through *award*, *post-award* and contract closeout. 
-* **Pre-award**: The period prior to an award where an agency solicits responses from prospective vendors, and prepares to work with a vendor after an award has been made. This period usually includes the review of materials submitted to an agency by vendors in response to a solicitation.
-* **Solicitation**: The formal process for posting an opportunity for vendors to wor with an agency. Opportunities to work with agencies are typically posted to sites like [FedBizOpps](https://www.fbo.gov/).
-* **Award**: When an agency has completed the vetting and selection process for a procurement and identifies a specific vendor with which to work. 
+* **Procurement life cycle**: The period of time covering *pre-award*, through *award*, *post-award* and the closeout of the contract. 
+* **Pre-award**: The period prior to an award where an agency solicits responses from prospective vendors, and prepares to work with a vendor after an award has been made. This period includes the review of materials submitted to an agency by vendors in response to a solicitation, and may also include oral interviews wth prospective vendors.
+* **Solicitation**: The formal process for posting an opportunity for vendors to work with an agency. These opportunities are typically posted to sites like [FedBizOpps](https://www.fbo.gov/) where vendors can find them and respond.
+* **Award**: When an agency has completed the vetting and selection process for a procurement and identifies a specific vendor to work with. 
 * **Post-award**: The period after an award has been made, when the agency begins working with a specific vendor to take delivery of specific materials and artifacts as spelled out in the contract.
 
 ## Where can I learn more? 
