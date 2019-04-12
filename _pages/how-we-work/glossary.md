@@ -7,7 +7,7 @@ tags:
 - Words
 ---
 
-* **18F** - [18F](https://18f.gsa.gov/) develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships. 18F is a division within TTS.
+* **[18F](https://18f.gsa.gov/)** - 18F is a division within TTS. 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships.
 
 * **2FA** - Two-factor authentication: entering a second, temporary code in addition to a username and password. 2FA provides added security when logging in to programs, like GitHub, remotely.
 
@@ -15,9 +15,9 @@ tags:
 
 * **API** - Application programming interface. Think of them as a way for computers to interact, either internally or between one another. If you wanted to make a website that shows the current temperature wherever you are, your code talks to one API to get your location, then another to find out the weather in that area.
 
-* **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff.
+* **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Learn more about ATOs in the [Before You Ship guide](https://before-you-ship.18f.gov/ato/).
 
-* **AWS** - Amazon Web Services. When we make websites, this is where they all live. Read easy-to-understand descriptions of the different pieces [here](https://www.expeditedssl.com/aws-in-plain-english).
+* **AWS** - Amazon Web Services. Some TTS services use AWS to host websites. Read easy-to-understand descriptions of the different pieces [here](https://www.expeditedssl.com/aws-in-plain-english).
 
 * **AWS** - Alternative Work Schedule. Working eight, 10-hour days or working nine, nine-hour days in a pay period.
 
@@ -31,7 +31,11 @@ tags:
 
 * **CoEs** – The [Centers of Excellence](https://coe.gsa.gov/) accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by centralizing best practices and expertise. The CoEs are a division within TTS.
 
-* **Dev** - someone who does software development. A "coder."
+* **Color of money** - Slang for the legal parameters around how federal money for goods or services can be spent. This usually comes up in the context of inter-agency agreements with other federal agencies. The different “colors” of money include multi-year, no year, or one year money.
+
+* **Dev** - Someone who does software development. A "coder."
+
+* **[Digital Gov](https://digital.gov/)** - A platform to help those in agencies working on providing digital services and information for the public. Posts information on what government is doing in digital, general digital news, trends and issues on implementing digital for the public.
 
 * **Dogfooding** - To "[eat your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)." For our purposes, this means using the things we build.
 
@@ -40,6 +44,8 @@ tags:
     * GSA two-factor authentication
     * BookIT
     * Logging on to `gsa-wireless`
+
+* **FAS** - The [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service) is a GSA office dedicated to helping federal agencies buy products and services. TTS is part of FAS.
 
 * **Front end developer** - The people who work on the parts of the site that you see, making the page look the way it's supposed to, have buttons in the right places, etc. They write HTML, CSS, and usually JavaScript (though it can be anywhere from "I've copied-and-pasted a couple of things" to expert).
 
@@ -53,6 +59,8 @@ tags:
 
 * **Grok** - To fully [understand](http://www.urbandictionary.com/define.php?term=grok) something.
 
+* **GSA** - The [General Services Administration](https://www.gsa.gov/) is an independent agency whose mission is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across government. TTS is part of FAS, which is part of GSA.
+
 * **HR Links** - [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's system for HR actions, including requesting leave and managing performance review documents.
 
 * **IAA** - Interagency agreement. A contract between federal agencies.
@@ -61,11 +69,19 @@ tags:
 
 * **MOU** - Memorandum of understanding.
 
+* **OGC** - Office of General Counsel: GSA's legal team.
+
 * **OLU** - On-Line University, where our agency's mandatory training classes are hosted.
 
 * **OPP** - The [Office of Products and Programs](../office-of-products-and-programs/) helps the public use and understand government, and helps agencies understand and serve the public. To achieve this, they create, discover, connect and share practical solutions and products that transform government. OPP is a division within TTS.
 
-* **OTP** - One-time password. In Atlanta, this refers to "outside the perimeter," as opposed to ITP (inside the perimeter).
+* **OSC** - Office of Strategic Communications: GSA’s resource for external and internal communication needs. They respond to inquiries from journalists and work closely with the [TTS Outreach](https://handbook.18f.gov/outreach/) team.
+
+* **OTP** - One-time password. (If you're in Atlanta, this might refer to "outside the perimeter," as opposed to ITP (inside the perimeter).)
+
+* **PBS** - The [Public Buildings Service](https://www.gsa.gov/about-us/organization/public-buildings-service) is the landlord for the civilian federal government. It is the other major service provided by the GSA besides FAS.
+
+* **PD** - Position Description: Description of the roles, responsibilities, qualifications, and expectations of an employee in a given position. Often called a job description.
 
 * **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs innovators with top civil-servants in the highest levels of the federal government to tackle some of the biggest challenges. The PIF team is a division within TTS.
 
