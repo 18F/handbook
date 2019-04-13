@@ -169,7 +169,7 @@ The calculations for FERS retirement can be complex, and there is paperwork to c
 
 ### TSP (Thrift Savings Plan)
 
-Employees at TTS are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/planparticipation/eligibility/actionsOnContributions.shtml) (TSP). To start, change, or stop your contributions, you'll need to fill out [Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
+Employees at TTS are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/index.html) (TSP). To start, change, or stop your contributions, you'll need to fill out [Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
 
 You can also update TSP directly in [HR Links]({{site.baseurl}}/leave/#logging-into-hr-links) by following these steps:
 
