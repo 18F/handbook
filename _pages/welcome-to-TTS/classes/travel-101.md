@@ -8,7 +8,7 @@ In order to travel officially in TTS, you need to, at minimum, [get set up in Co
 
 You'll also want to [apply for a GSA travel card]({{site.baseurl}}/first-time-travel-travel-card/), and once you recieve it, [update your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile). This process takes about two weeks. In the meantime, you won't be able to make hotel reservations in Concur. It is recommended that you make all of your reservations via AdTrav at (877) 472-6716 until your card arrives. You will need to use your personal funds for all travel expenses other than flights/rail, but can be reimbursed for all official expenses when you [complete a voucher upon your return]({{site.baseurl}}/travel-guide-3-reimbursement/).
 
-*_Note there are [special procedures]({{site.baseurl}}/first-time-travel-get-in-pre-olu/) for staff who need get into Concur to travel during their first week and may not have access to OLU to complete the required IT security trainings yet._
+*_Note there are [special procedures]({{site.baseurl}}/first-time-travel-get-in-concur-pre-olu/) for staff who need get into Concur to travel during their first week and may not have access to OLU to complete the required IT security trainings yet._
 
 ### Brief overview of how to travel
 
@@ -22,7 +22,7 @@ There are also a few specialized guides to be aware of for the following situati
 
 * [Rebooking and changing official travel plans]({{site.baseurl}}/travel-guide-A-amended-authorizations/)
 * [After hours and emergency travel]({{site.baseurl}}/travel-guide-B-after-hours-emergency-travel-authorizations)
-* Combining official and personal travel, including [extensions at personal expense]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), and [travel to and from cities other than one's home location and worksite]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-traveling-to-or-returning-from-a-location-other-than-my-home-location).
+* Combining official and personal travel, including [extensions at personal expense]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), and [travel to and from cities other than one's home location and worksite]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home).
 * [Traveling for multiple projects]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-traveling-for-multiple-projects)
 * [Issues with reimbursement]({{site.baseurl}}/travel-guide-faq/#issues-with-reimbursement)
 
