@@ -162,18 +162,18 @@ On the **Trip Booking Information** page you must enter some general information
 
 **Trip name:** Identify the budget of your trip here, based on the type of project you are traveling for:
 
-_Billable projects:_ for 18F and CoE, include the exact name and number of the project as it appears in [Tock](https://tock.18f.gov/projects). For PIF billable travel, simply indicate the project is billable
-_All other projects:_ include the name of the team budget that is paying for this travel (a list of options is in cell C5 of the [TTS Budget and Accounting Lookup](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
+* _Billable projects:_ for 18F and CoE, include the exact name and number of the project as it appears in [Tock](https://tock.18f.gov/projects). For PIF billable travel, simply indicate the project is billable.
+* _All other projects:_ include the name of the team budget that is paying for this travel (a list of options is in cell C5 of the [TTS Budget and Accounting Lookup](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
 
 ***Note:** If you are traveling for multiple projects (whether billable or not), list all of the relevant Tock name and numbers and budget names as appropriate.
 
 Examples:
-`BILLABLE: 18F / HHS / CMS FY19 #997`
-`BILLABLE: CoE / USDA Phase 2 / Cloud Adoption #980`
-`BILLABLE: PIF - DHS`
-`NONBILLABLE: OPP Smarter IT Solutions Division (QXD)`
-`NONBILLABLE: 18F Strategy Branch (QEAD)`
-`NONBILLABLE: Cloud Adoption CoE`
+* `BILLABLE: 18F / HHS / CMS FY19 #997`
+* `BILLABLE: CoE / USDA Phase 2 / Cloud Adoption #980`
+* `BILLABLE: PIF - DHS`
+* `NONBILLABLE: OPP Smarter IT Solutions Division (QXD)`
+* `NONBILLABLE: 18F Strategy Branch (QEAD)`
+* `NONBILLABLE: Cloud Adoption CoE`
 
 **Type Code:** "SINGLE TRIP".
 **Trip Purpose:** “Mission (Operational)” in most cases, unless attending a conference or training.
