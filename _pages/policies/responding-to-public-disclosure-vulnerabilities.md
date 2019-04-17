@@ -2,14 +2,9 @@
 title: Public disclosures of vulnerabilities
 ---
 
-When someone in the public alerts you to a potential vulnerability in our systems, you need to act quickly.  If you know the alert applies to a system TTS doesn't have responsibility over, please either submit the report to [US-CERT](https://vulcoord.cert.org/VulReport/) if there is helpful context you can add to it, or direct the public contact to submit the report to [US-CERT](https://vulcoord.cert.org/VulReport/) themselves.  Otherwise, there are three steps in the process:
+When someone in the public alerts you to a potential vulnerability in our systems, you need to act quickly. There are three steps in this process:
 
-1. [Triage the vulnerability](#triage-the-vulnerability)
-2. [File an issue](#file-an-issue)
-3. [Respond to reporter](#respond-to-reporter)
-
-
-## Triage the vulnerability
+## 1. Triage the vulnerability
 
 In order to respond quickly to reports submitted by the public, the Infrastructure team has designated a small group of folks who will monitor incoming reports and initiate response accordingly. This role has been designated **first responder** and will be assigned in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) with an @ (mention). Barring schedule conflicts, the role will rotate weekly. The [First Responder schedule](https://docs.google.com/document/d/1rjIUT2ElIWC8wsVGR3sYRqqybcapCnJY7ysGl0IhiH4/edit) is posted in the [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) channel topic.
 
@@ -35,7 +30,7 @@ In the case of an **incident**, the responder has determined for any reason that
 
 If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the [Infrastructure Lead](https://github.com/18F/Infrastructure/blob/master/ISSUE_TEMPLATE.md) of the affected product or service.
 
-## File an issue
+## 2. File an issue
 
 For vulnerabilities categorized as **low**, an Issue should be created in the appropriate GitHub repo or project management tool and assigned to the appropriate Infrastructure Lead to prioritize further.
 
@@ -47,7 +42,7 @@ The first responder is responsible for closing out the GitHub issue once they ar
 
 The first responder will communicate directly with the Infrastructure Lead, who is responsible for communication with the system's engineering team throughout the remediation lifecycle.
 
-## Respond to reporter
+## 3. Respond to reporter
 
 If the report is `n/a`, send the appropriate message:
 
@@ -70,3 +65,13 @@ The acknowledgement text could be something like:
 Remember to **CC this email** to any relevant program staff or infrastructure leads. They assume responsibility for further communication and resolving the issue.
 
 The last thing you should do is set an email alert via Google Calendar at the 77-day (11 weeks) mark from the date the reporter sent the email, so that, if no response or resolution has yet been made, the team has about 2 weeks to bring the issue to resolution and close out the issue with the reporter.
+
+## For systems owned by partner agencies or 3rd-party vendors
+
+Notifications to partner agencies or vendors should do the following:
+
+1. Briefly describe the vulnerability
+1. Describe the potential harm
+1. Recommend a course of action
+
+If you know the alert applies to a system TTS doesn't have responsibility over, please either submit the report to [US-CERT](https://vulcoord.cert.org/VulReport/) if there is helpful context you can add to it, or direct the public contact to submit the report to [US-CERT](https://vulcoord.cert.org/VulReport/) themselves. 
