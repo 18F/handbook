@@ -1,5 +1,5 @@
 ---
-title: Agreements
+title: Agreements (Work In Progress)
 ---
 
 TTS is a fee-for-service organization. Federal law requires that any agreement between agencies be recorded in some manner.
@@ -27,9 +27,11 @@ An IAA is made up of:
 
 - [FITARA Review](https://drive.google.com/drive/folders/1mkCzj55hm7f3GRSSUsH9hhlSXkf0-1f9): TTS complies with FITARA and follows the [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1sO8cE3eyTclOkwnxNTMG5dg2qhP3AmJesGobM1m_LQw/edit).
 
-## How do I get an IAA or MOU completed?
+- [Economy Act Determination](https://docs.google.com/document/d/1NwbUTG33JdntuXGFA0qpQZa1KpbGrvCN5ueTOMZafLY/edit): For agreements citing the Economy Act as the statutory authority, an Economy Act Determination must be signed by the requesting agency. 
 
-Follow the steps below. The process largely depends on how quickly the client provides the required information; you complete a statement of work; and the Office of General Counsel (OGC) reviews the agreement. Some agreements can take as few as 10 days, while others take up to 90 days.
+## Timeline
+
+Follow the steps below. The process largely depends on how quickly the client provides the required information, you complete a statement of work, and the Office of General Counsel (OGC) reviews the agreement. Some agreements can take as few as 10 days, while others take up to 90 days.
 
 ### Program Responsibilities
 
@@ -46,9 +48,9 @@ Follow the steps below. The process largely depends on how quickly the client pr
 
 ### Agreements Team Responsibilities
 
-A detailed description of the steps in the IAA and MOU process is available [here](https://docs.google.com/document/d/1cMCnTpRdEvKRDEvPtI-mcuy9u2nwLJH2FaxfJVacIVA/edit)
+A detailed description of the steps in the IAA and MOU process is available here [pending]
 
 ## Agreements Status
 
-The Agreements Team maintains a [Kanban board](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1936372847) in the "Pipeline Kanban" tab of the linked spreadsheet. The Agreements Team updates the agreements pipeline daily and these changes are reflected in the Kanban board. The Agreements Team also holds a weekly check-in meeting to provide status updates. Questions on agreements can be posted anytime to #IAA in Slack or message @tts-agreements-team. 
+The Agreements Team maintains a [Kanban board](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1936372847) in the "Pipeline Kanban" tab of the linked spreadsheet. The Agreements Team updates the agreements pipeline daily and these changes are reflected in the Kanban board. The Agreements Team also holds a weekly check-in meeting to provide status updates. Questions on agreements can be posted anytime to [#iaa](https://gsa-tts.slack.com/messages/iaa) in Slack or by sending a message to @tts-agreements-team or tts.agreements@gsa.gov. 
 
