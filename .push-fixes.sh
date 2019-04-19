@@ -1,5 +1,5 @@
 if [[ $(git log -1 --pretty=%B | grep -Fq 'Automatic commit') ]]; then
-  echo "Previous commit was automatic, so skip pushing fixes.'
+  echo "Previous commit was automatic, so skip pushing fixes."
   exit 0
 fi
 
