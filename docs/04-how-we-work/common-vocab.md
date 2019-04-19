@@ -2,11 +2,11 @@
 
 ## Definitions
 
-*   **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements.
-*   **Agile Coach** - Individual who teaches or mentors the teams who implement Agile. The goal of an Agile coach is to help teams to produce the best results by practicing Agile.
-*   **[Agile Manifesto](http://agilemanifesto.org/)**
-*   Individuals and interactions over processes and tools.
-*   Working software over comprehensive documentation
+* **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements.
+* **Agile Coach** - Individual who teaches or mentors the teams who implement Agile. The goal of an Agile coach is to help teams to produce the best results by practicing Agile.
+* **[Agile Manifesto](http://agilemanifesto.org/)**
+* Individuals and interactions over processes and tools.
+* Working software over comprehensive documentation
 *   Customer collaboration over contract negotiation
 *   Responding to change over following a plan
 *   That is, while there is value in the items on the right, we value the items on the left more.
