@@ -6,7 +6,6 @@
 
 *   Before you leave, start practicing for your trip. Best to try this and sort out problems while you are still near home!
 *   Work from a different part of your house, or work from a different location using only the equipment you packed in your bag. Work on whatever equipment you'll be taking with you. Notice what did not work. Fix it. Try again. Keep doing this until you can work routinely from any location near your home.
-
 *   Keep track of what time each of your usual activities would be taking place at. Use this to help you intentionally establish rituals - Think about the rituals that you use to indicate the start and end of your workday. For example - Ethan puts on his shoes at the beginning of his workday, and takes them off at the end of his workday. John walks to nearby coffee shop at end of day. This helps mentally denote the workday schedule and can be used to establish familiar workday pattern while abroad, too.
 *   Research connectivity and coworking spaces before you go. Check reviews on booking.com, airbnb, etc. or look at yelp for coffee shops and internet cafes.
 *   Some coworking spaces allow membership in other locations

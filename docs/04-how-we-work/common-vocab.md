@@ -2,11 +2,11 @@
 
 ## Definitions
 
-*   **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements.
-*   **Agile Coach** - Individual who teaches or mentors the teams who implement Agile. The goal of an Agile coach is to help teams to produce the best results by practicing Agile.
-*   **[Agile Manifesto](http://agilemanifesto.org/)**
-*   Individuals and interactions over processes and tools.
-*   Working software over comprehensive documentation
+* **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements.
+* **Agile Coach** - Individual who teaches or mentors the teams who implement Agile. The goal of an Agile coach is to help teams to produce the best results by practicing Agile.
+* **[Agile Manifesto](http://agilemanifesto.org/)**
+* Individuals and interactions over processes and tools.
+* Working software over comprehensive documentation
 *   Customer collaboration over contract negotiation
 *   Responding to change over following a plan
 *   That is, while there is value in the items on the right, we value the items on the left more.
@@ -25,10 +25,7 @@
 *   **Daily Check-in / Daily Stand-up / Daily Scrum** - A very short time-boxed meeting (usually 15 minutes) in which sprint participants answer the following questions: "What did I accomplish yesterday?", "What will I do today?", "Do I have any blockers impeding my progress?" At CivicActions we prefer to extend the "What did I accomplish yesterday?" question to include "How much time did I spend?" Ideally, this meeting takes place daily, is at the same time and location, and all team members attend. We actively encourage our client Product Owners to attend this call.
 *   **Definition of Done** - A clear list of required tasks or requirements that must be completed before an item can be called done. It is created by the team and should not change during a sprint.
 *   **Deliverable** - a tangible output, document or piece of work.
-*   **DevOps** -
-
-    > @todo [Add this content](https://trello.com/c/GSXkqSih)
-
+*   **DevOps** @todo [Add this content](https://trello.com/c/GSXkqSih)
 *   **Dot Voting** - a technique where team members list topics or items in some manner (on sticky notes, in a spreadsheet, on a Trello board). After gathering all items, each group member has a certain number of votes that they can cast. Items are prioritized according to the number of votes.
 *   **Escalation** - A determination that a project's success is potentially at risk, and a call for assistance to help address the blockers to the project. Frequently, but not always, related to a project's Primary Constraint (budget, scope, or timeline).
 *   **Iteration** - A cycle of time in which some portion of a project's sum deliverables are completed, often measured in accordance with the Sprint timeline. Iterative release is a technique used to maximize efficiency and keep work focused on the project's objectives.

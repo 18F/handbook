@@ -16,7 +16,6 @@ ssh'ing to `*.civicactions.net` requires port 940. You can add `-p 940` with eve
 1.  Create a `~/.ssh/config` file if you don't already have one.
 2.  Then add these lines.
 
-
 ```
 Host *.civicactions.net
 Port 940

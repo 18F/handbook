@@ -17,12 +17,12 @@ In addition to the $1,200 annual budget, each team member is encouraged to use a
 
 Historical Prodev Hours Spent:
 
-| Year   | Company-wide Prodev Hours Used | # People Billing Prodev Hours | Average Prodev Hours Used Per Person Annually |
-| ------ | ------------------------------ | ----------------------------- | --------------------------------------------- |
-| 2015   | 599.25                         | 19                            | 31.5                                          |
-| 2016   | 963.5                          | 28                            | 34.4                                          |
-| 2017   | 1620                           | 35                            | 46.3                                          |
-| 2018   | 1736                           | 44                            | 39.5                                          |
+| Year | Company-wide Prodev Hours Used | # People Billing Prodev Hours | Average Prodev Hours Used Per Person Annually |
+| ---- | ------------------------------ | ----------------------------- | --------------------------------------------- |
+| 2015 | 599.25                         | 19                            | 31.5                                          |
+| 2016 | 963.5                          | 28                            | 34.4                                          |
+| 2017 | 1620                           | 35                            | 46.3                                          |
+| 2018 | 1736                           | 44                            | 39.5                                          |
 
 *\*As of January 1, 2019. All data was pulled from Harvest.*
 

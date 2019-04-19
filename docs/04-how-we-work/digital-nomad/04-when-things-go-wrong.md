@@ -1,4 +1,4 @@
-## What could possibly go wrong? 
+# What could possibly go wrong?
 
 **Note: Things will go wrong. Even when you are not "on the road". To reduce consequences *when* something goes wrong, do a little advance preparation *before* something goes wrong.** 
 
@@ -8,7 +8,7 @@
     *   Car drivers: parking a car *then* putting all the valuables in the trunk *then* walking away is a clear invitation for problems. Instead put all valuables in the trunk *before* you start driving, so when you arrive and park, there is no need to open the trunk in front of any casual eyes.
     *   All of the above happens in the bay area and other major cities. The risks are higher in locations where your "normal" laptop/phone is relatively more exotic (and hence have more resale value on the black market).
     *   Consider travel insurance. Check that the policy covers stolen equipment and know what paperwork will be needed!
-  
+
 **Note: In almost all cases, the data on the laptop/phone is far more valuable then the actual laptop/phone.**
 
 *   In case your laptop or cell phone is stolen or destroyed
