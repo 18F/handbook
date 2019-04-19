@@ -168,6 +168,7 @@ On the **Trip Booking Information** page you must enter some general information
 ***Note:** If you are traveling for multiple projects (whether billable or not), list all of the relevant Tock name and numbers and budget names as appropriate.
 
 Examples:
+
 * `BILLABLE: 18F / HHS / CMS FY19 #997`
 * `BILLABLE: CoE / USDA Phase 2 / Cloud Adoption #980`
 * `BILLABLE: PIF - DHS`
