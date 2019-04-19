@@ -12,5 +12,5 @@ if [[ $(git status --porcelain) ]]; then
   git config --global user.name "Travis CI"
   git commit -a -m"Automatic commit to fix markdown formatting for build: ${TRAVIS_BUILD_NUMBER}."
   git remote add pr "https://${GH_TOKEN}@github.com/${TRAVIS_PULL_REQUEST_SLUG}"
-  git push pr "${TRAVIS_PULL_REQUEST_BRANCH}"
+  git push pr "HEAD:${TRAVIS_PULL_REQUEST_BRANCH}"
 fi
