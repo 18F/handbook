@@ -10,13 +10,13 @@ Each service area is identified by a unique 2 character code - this is used to i
 
 ## Directory
 
-| Name                    | Code | Leads                           | Responsibilities | Slack               | Meetings                                    |
-| ----------------------- | ---- | ------------------------------- | ---------------- | ------------------- | ------------------------------------------- |
-| DevOps                  | DV   | Owen Barton                     | Board link       | #devops             | Every 2 weeks on Thursday, 1-2pm PT, 4-5pm ET |
-| Drupal                  | DR   | Bob Schmitt                     | [Board link](https://trello.com/b/UTvr4D0W/drupal-cms-service-area-responsibilities)       | #engineering-drupal             |  |
-| Free Software Open Data                  | OD   | Kim Davidson & Gerardo Gonzales                     | Board link       | #opendata             | Weekly on Friday, 1-2pm PT, 4-5pm ET |
-| Innovation Lab                  | IL   | TBD                     | Board link       | #             |  |
-| Security & Compliance                  | SC   | Fen Labalme                     | [Board link](https://trello.com/b/jOs5rFzJ/security-responsibilities)       | #loving-security             |  |
-| Support & Helpdesk                  | SP   | Ero Gray                     | Board link       | #helpdesk             |  |
-| Education Services                  | ES   | Tony Fortenberry                     | [Board link](https://trello.com/b/ylwtFY0M/education-services-responsibilities)       | #eduservices             |  |
-| User Experience                  | UX   | Kevin Walsh                     | Board link       | #devops             | Weekly on Monday, 12-1pm PT, 3-4pm ET |
+| Name                    | Code | Leads                           | Responsibilities                                                                     | Slack               | Meetings                                      |
+| ----------------------- | ---- | ------------------------------- | ------------------------------------------------------------------------------------ | ------------------- | --------------------------------------------- |
+| DevOps                  | DV   | Owen Barton                     | Board link                                                                           | #devops             | Every 2 weeks on Thursday, 1-2pm PT, 4-5pm ET |
+| Drupal                  | DR   | Bob Schmitt                     | [Board link](https://trello.com/b/UTvr4D0W/drupal-cms-service-area-responsibilities) | #engineering-drupal |                                               |
+| Free Software Open Data | OD   | Kim Davidson & Gerardo Gonzales | Board link                                                                           | #opendata           | Weekly on Friday, 1-2pm PT, 4-5pm ET          |
+| Innovation Lab          | IL   | TBD                             | Board link                                                                           | #                   |                                               |
+| Security & Compliance   | SC   | Fen Labalme                     | [Board link](https://trello.com/b/jOs5rFzJ/security-responsibilities)                | #loving-security    |                                               |
+| Support & Helpdesk      | SP   | Ero Gray                        | Board link                                                                           | #helpdesk           |                                               |
+| Education Services      | ES   | Tony Fortenberry                | [Board link](https://trello.com/b/ylwtFY0M/education-services-responsibilities)      | #eduservices        |                                               |
+| User Experience         | UX   | Kevin Walsh                     | Board link                                                                           | #devops             | Weekly on Monday, 12-1pm PT, 3-4pm ET         |

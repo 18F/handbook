@@ -1,4 +1,3 @@
-
 # Documenting Responsibilities
 
 As a step towards a flatter organizational structure and to reduce the need of middle management, we are taking a first step of identifying responsibilities that each of us has right now. 
@@ -9,7 +8,7 @@ The other thing we identified are the responsibilities that may experience big i
 
 The next iteration of this exercise will be to look at the responsibilities within a certain team or service area and how that group interfaces with other groups (such as marketing) to better define how we can best collaborate and what each service area/group is responsible for.
 
-# Responsibilities Boards
+## Responsibilities Boards
 
 Note: A person is on a single board, even if their work spans across multiple practice areas. Each person should include all of their responsibilities in their column, even if some responsibilities don't relate to the practice area.
 
@@ -23,6 +22,3 @@ Note: A person is on a single board, even if their work spans across multiple pr
 *   [Security Team Trello board](https://trello.com/b/bVYPLQ26/security-team-responsibilities)
 *   [Support Team Trello board](https://trello.com/b/Dzwa18am/support-team-responsibilities)
 *   [UX Team Trello board](https://trello.com/b/DtoB8NaV/ux-team-responsibilities)
-
-
-

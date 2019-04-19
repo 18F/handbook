@@ -39,6 +39,7 @@
     *   Over communicate if you're going offline  (vacation, lunch, appointment, etc)
     *   Be at the pre-scheduled meetings & tell manager if you can't attend
     *   Be able to get your work done within your timebox
+
 *   We aim for the following billable utilization:
     *   Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
     *   Time and Materials: 85-95% (34-38 hours / week)
@@ -95,9 +96,13 @@
 *   Relevant project introductions: Connect with appropriate person to walk through each project to discuss the project and its goals, the product owner, stakeholders, team members, technologies, ticket review, project status, etc.
 
 *   [CivicActions Agile](../../04-how-we-work/agileoverview.md)
+
 *   Introduction to the [Scrum call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
+
 *   Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
+
 *   Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
+
 *   Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 
 ### Virtual Workplace Basics

@@ -23,11 +23,11 @@ You might be tempted to simply mark phishing emails as spam and otherwise ignore
 
 To report a security incident, follow *all* of the steps below:
 
-1.  Send an email to <mailto:security@civicactions.com> within 1 hour of identifying an incident. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. "password committed to Gitlab repo"). Don't worry if you don't have all of the details gathered when you email CivicAction's Security (AKA "Incident Response") team. The critical piece here is notification within one hour.
+1.  Send an email to [security@civicactions.com](mailto:security@civicactions.com) within 1 hour of identifying an incident. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. "password committed to Gitlab repo"). Don't worry if you don't have all of the details gathered when you email CivicAction's Security (AKA "Incident Response") team. The critical piece here is notification within one hour.
 
 2.  If the incident is project specific:
 
-    *   If there is a project specific tech email address, you can email the information to that instead. If unsure, email <mailto:security@civicactions.com>.
+    *   If there is a project specific tech email address, you can email the information to that instead. If unsure, email [security@civicactions.com](mailto:security@civicactions.com).
     *   Report the incident in the project Slack channel (attention: `@security`). This will alert the project's Incident Response Team as well as the Project Manager (PM).
 
 3.  Do not delete any potential evidence or modify the evidence without instruction from the Incident Response team. For example, in the event of a suspected Gitlab incident, do no delete files or modify the access permissions on the Gitlab repository. In the event of a suspected Amazon Web Services (AWS) or Kubernetes incident, do not stop or allow an instance or app to be terminated that is potentially part of the incident. Please leave the instance running and reconfigure the Security Group or route for that instance to be dismissive of all ingress and egress traffic until a forensics review can be performed. A significant set of data is lost and is unrecoverable when instances or containers are "stopped" or "terminated."
