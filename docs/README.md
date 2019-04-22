@@ -4,8 +4,8 @@
 
 ## CivicActions, Inc.
 
-2625 Alcatraz Avenue, Suite 320
-Berkeley, CA 94705
+3527 Mount Diablo Blvd., Unit 269
+Lafayette, CA 94549
 
 510.408.7510 | main
 888.714.7388 | fax
