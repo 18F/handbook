@@ -25,10 +25,7 @@
 *   **Daily Check-in / Daily Stand-up / Daily Scrum** - A very short time-boxed meeting (usually 15 minutes) in which sprint participants answer the following questions: "What did I accomplish yesterday?", "What will I do today?", "Do I have any blockers impeding my progress?" At CivicActions we prefer to extend the "What did I accomplish yesterday?" question to include "How much time did I spend?" Ideally, this meeting takes place daily, is at the same time and location, and all team members attend. We actively encourage our client Product Owners to attend this call.
 *   **Definition of Done** - A clear list of required tasks or requirements that must be completed before an item can be called done. It is created by the team and should not change during a sprint.
 *   **Deliverable** - a tangible output, document or piece of work.
-*   **DevOps** -
-
-    > @todo [Add this content](https://trello.com/c/GSXkqSih)
-
+*   **DevOps** @todo [Add this content](https://trello.com/c/GSXkqSih)
 *   **Dot Voting** - a technique where team members list topics or items in some manner (on sticky notes, in a spreadsheet, on a Trello board). After gathering all items, each group member has a certain number of votes that they can cast. Items are prioritized according to the number of votes.
 *   **Escalation** - A determination that a project's success is potentially at risk, and a call for assistance to help address the blockers to the project. Frequently, but not always, related to a project's Primary Constraint (budget, scope, or timeline).
 *   **Iteration** - A cycle of time in which some portion of a project's sum deliverables are completed, often measured in accordance with the Sprint timeline. Iterative release is a technique used to maximize efficiency and keep work focused on the project's objectives.

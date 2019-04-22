@@ -13,8 +13,8 @@
 ## Best Practices
 
 *   Set your location, time zone and working hours (& keep them current) using calendar settings: ![Calendar Settings](../../images/CivicActions_Calendar_Settings.png "Calendar settings")
-*   Always send invitations to <mailto:first.last@civicactions.com>
-*   Make sure your main <mailto:first.last@civicactions.com> calendar is at sharing at least free/busy with everyone in CivicActions
+*   Always send invitations to `first.last@civicactions.com`
+*   Make sure your main `first.last@civicactions.com` calendar is at sharing at least free/busy with everyone in CivicActions
 *   Consider enabling "speedy meetings" (in Settings)
 *   Reply to meeting invitations (yes, no, maybe)
 *   Use the "optional" feature for attendees who are not required to attend

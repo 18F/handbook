@@ -15,4 +15,3 @@ Wireframes and page tables are mockups used to convey content requirements defin
 ## Recommended Reading
 
 [Intro video](https://www.youtube.com/watch?v=VPzsMdqZKFE)
-

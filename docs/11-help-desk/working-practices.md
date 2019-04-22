@@ -54,7 +54,7 @@ We **always follow up**. We check and re-check our ticket queues frequently. If 
 
 ### Resolution time
 
-We do our best to **solve problems quickly**. We can't always do this; sometimes problems require lengthy engineering engagements, or simply can't be done, or _shouldn't_ be done. But when possible, we come to an actual solution quickly and let the user know. If our resolution doesn't solve the original request, we'll explain why and what's being done instead.
+We do our best to **solve problems quickly**. We can't always do this; sometimes problems require lengthy engineering engagements, or simply can't be done, or *shouldn't* be done. But when possible, we come to an actual solution quickly and let the user know. If our resolution doesn't solve the original request, we'll explain why and what's being done instead.
 
 If a given help desk interaction requires engineering time or work that's outside help desk staff's capacity (for instance, if it means opening an engineering work ticket, or requesting approval or information from a stakeholder), we'll inform the user of the next steps, make sure they know everything they need to know, and communicate with other people involved to make sure those next steps can and will be taken, before our help desk interaction can be considered complete.
 

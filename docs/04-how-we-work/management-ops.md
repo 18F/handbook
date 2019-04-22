@@ -21,6 +21,6 @@ The team holds the space for open and transparent communications by regularly co
 
 The team meets weekly and creates an agenda on the fly that consists of decisions that need to get made, information that others may need, and updates on ongoing conversations/topics. They also get together bi-annually to focus on company goals and initiatives and then they report out activities and actions from the meeting to the entire company to continue the transparent and open culture.
 
-## Responsibilities 
+## Responsibilities
 
 To see what each individual's responsibilities are on the Management/Ops team, you can view this [responsibilities trello board](https://trello.com/b/qYDkL0tM/ops-team-responsibilities).

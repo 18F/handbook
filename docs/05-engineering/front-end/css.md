@@ -13,7 +13,9 @@
 ## Methods
 
 *   We practice responsive design starting mobile first, so our attention and practice is placed on the constrained environment and progressively enhanced.
+
 *   We use Sass to preprocess our CSS.
+
 *   We organize our Sass partials in a logical file structure convention that follows [Drupal 8 file organization practices](https://www.drupal.org/node/1887922):
 
     *   **Base** — CSS reset/normalize plus HTML element styling.
@@ -35,7 +37,7 @@
 
     *   Classes should be named to reflect the intent and purpose of the design element they represent. Eg. instead of using `button--red`, we can ask "Why is the button red?" and name it `notification__button`.
 
-        ```/* Component Rules */
+        ```/\* Component Rules \*/
         .component-name
         .component-name--variant
         .component-name__sub-object
@@ -51,6 +53,7 @@
         ```
         .is-state // e.g. '.is-active'
         ```
+
 *   Functional JavaScript Hooks
     *   When querying or manipulating the DOM from JavaScript, prefer dedicated classes not used for styling (or the id attribute).
     *   If using classes, prefix them with "js-" to mark them for JS use.
