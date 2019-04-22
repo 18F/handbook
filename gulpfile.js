@@ -36,9 +36,7 @@ gulp.task('remark', function () {
         "streamError": errorStream,
         "color": true,
         "rcPath": ".remarkrc.error"
-      }))
-   // Save any changes.
-   .pipe(gulp.dest('.'));
+      }));
 
   // Run against "warning" configuration for files changed from master only to reduce noise.
   var changedFiles = execSync('git diff --name-status master').toString().split('\n');
