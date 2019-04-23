@@ -217,7 +217,7 @@ Groups are a great way to alert people who might not be in a channel about somet
 ### How to make an announcement in #news
 Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you’d like to go up in #news:
 
-- **18F employees** ping @commsquad or post in [#outreach](https://gsa-tts.slack.com/archives/news) to get a review of the language. Once it's ready, Sarah Milstein or Andre Francisco can post it.
+- **18F employees** ping @commsquad or post in [#outreach](https://gsa-tts.slack.com/archives/news) to get a review of the language. Once it's ready, Dahianna Salazar Foreman can post it.
 - **Acquisitions employees** review your post with Stephen Reilly, and he can post it when it's ready.
 - **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
 - **PIF employees** review your post with Joshua Di Frances, and he can post it when it's ready.
