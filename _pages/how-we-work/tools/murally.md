@@ -6,7 +6,7 @@ title: Mural
 
 ## Setup
 
-Because Mural is a web application, there’s no installation necessary. You will need to set up an account, however. If you don’t already have a Mural account, ask in Slack for the invitation link, and from there, create an account with your GSA email address. In order to have access to all 18F public rooms and create your own rooms, you need an admin to give you those permissions. Post a link the the [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural)channel to get access.
+Because Mural is a web application, there’s no installation necessary. You will need to set up an account, however. If you don’t already have a Mural account, ask in Slack in the [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural) channel for the invitation link, and from there, create an account with your GSA email address. In order to have access to all 18F public rooms and create your own rooms, you need an admin to give you those permissions. Post a link the [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural) channel to get access.
 
 ## Usage
 
