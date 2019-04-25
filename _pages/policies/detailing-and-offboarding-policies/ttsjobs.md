@@ -39,6 +39,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 [SaaS and Travel Systems Manager (Open Opps #93)](https://docs.google.com/spreadsheets/d/1tvUDjm9bV42kHF7M7C7ZqA1PnI5qICnI4WBqZOMvDbU/edit?usp=sharing) - Application Close: Open until filled
 
+[Talent Operations Specialist](https://docs.google.com/document/d/1akaWPPIVSvZpnRiFCgkCcHvzCE4Hx4euDaGTL5TcGCg/edit?usp=sharing) - Application Close: Open until filled
 
 ## Partner Information & Opportunities
 
