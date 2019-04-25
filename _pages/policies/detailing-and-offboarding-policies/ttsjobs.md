@@ -33,9 +33,11 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-[PIF - Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow) - Application Close: Monday, April 22, 2019 at 11:59pm ET
+[PIF - Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow) - Application Close: Monday, May 6, 2019 at 11:59pm ET
 
 ### Internal Only Competitions
+
+[Talent Operations Specialist - Detail](https://docs.google.com/document/d/1akaWPPIVSvZpnRiFCgkCcHvzCE4Hx4euDaGTL5TcGCg/edit?usp=sharing) - Application Close: Monday, May 6, 2019 at 11:59pm ET
 
 [SaaS and Travel Systems Manager (Open Opps #93)](https://docs.google.com/spreadsheets/d/1tvUDjm9bV42kHF7M7C7ZqA1PnI5qICnI4WBqZOMvDbU/edit?usp=sharing) - Application Close: Open until filled
 
