@@ -124,9 +124,11 @@ Most modern disks (and SSDs) have self-encrypting drive (SED) technology built i
 
 If you haven't set up your hard drive with hardware encryption, there are software alternatives that you can use until you get yourself a new drive. Note that these methods incur a small performance penalty with respect to hardware encryption, but they are relatively quick and easy to set up.
 
-#### Mac OSX: FileVault 2
+#### macOS: FileVault 2
 
-Open System Preferences, click on the Security & Privacy icon, and switch to the FileVault tab. If you see a button that says "Turn Off FileVault..." then congratulations, your disk is already encrypted. Otherwise, click the lock icon in the bottom left so you can make changes, and click "Turn On FileVault...". Google "Filevault" for more information.
+CivicActions strongly recommends full disk encryption (FDE) with FileVault, and requires it on Macs supplied by CivicActions for specific client work.
+
+*   [Use FileVault to encrypt the startup disk on your Mac](https://support.apple.com/en-us/HT204837) - setup instructions
 
 Much more technical detail on securing your Mac: [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md). *This is useful but well beyond what is required by CivicActions.*
 
@@ -160,17 +162,19 @@ When you delete a file, it doesn't actually go away. Usually, all that occurs is
 
 GNU/Linux:
 
-*   <http://askubuntu.com/questions/57572/how-to-delete-files-in-secure-manner>
-*   <https://ssd.eff.org/en/module/how-delete-your-data-securely-linux>
+*   [How to delete file(s) in secure manner?](http://askubuntu.com/questions/57572/how-to-delete-files-in-secure-manner) (Ask Ubuntu)
+*   [How to: Delete your Data Securely on Linux](https://ssd.eff.org/en/module/how-delete-your-data-securely-linux) (from the EFF Surveillance Self-Defense guide)
 
-Mac OS X:
+MacOS:
 
-*   <https://support.apple.com/kb/PH18638> (Yosemite)
-*   <https://www.intego.com/mac-security-blog/how-to-securely-empty-trash-in-os-x-el-capitan/> (El Capitan)
+*   [How to erase a disk for Mac](https://support.apple.com/en-us/HT208496) - if erasing your startup disk, use macOS Recovery
+*   [About macOS Recovery](https://support.apple.com/en-us/HT201314) - which will lead you to reinstallation:
+*   [How to reinstall macOS from macOS Recovery](https://support.apple.com/en-us/HT204904)
 
-Erasing an entire disk:
+More information and resources:
 
-*   <https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase>
+*   [Guidelines for Media Sanitization](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf) (pdf) (NIST SP 800-88, December 2014)
+*   [ATA Secure Erase](https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase)
 
 ## Protecting Your Privacy
 
