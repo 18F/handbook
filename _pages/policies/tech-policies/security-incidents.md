@@ -4,11 +4,11 @@ title: Security incidents
 
 Something went "bump" in the night (or the day)? This document explains what to do when responding to a security incident. See [What is an incident?](#what-is-an-incident) if you need help determining whether something counts as an incident.
 
-## Security incidents: You must report IT security incidents or suspicious activity
+## You must report IT security incidents or suspicious activity
 
 An “incident” or “information security incident” can be thought of as a violation or imminent threat of violation of information security or privacy policies, acceptable use policies, or standard security practices. 
 
-See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https://insite.gsa.gov/portal/content/539161) if you need help determining whether something counts as an incident. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to: [ITServiceDesk@gsa.gov](mailto: ITServiceDesk@gsa.gov) or 1-866-450-5250.  
+See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/report-it-security-incidents-and-suspicious-activity-immediately) if you need help determining whether something counts as an incident. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to: [ITServiceDesk@gsa.gov](mailto: ITServiceDesk@gsa.gov) or 1-866-450-5250.  
 
 If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. For questions about GSA’s Incident Response Program, contact the GSA Incident Response (IR) Team at [gsa-ir@gsa.gov](mailto:gsa-ir@gsa.gov).
 
@@ -37,7 +37,7 @@ To report a security incident, follow *all* of the steps below:
 
 1. Report the incident in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 
-1. [Send a Slack DM to Kimber Dowsett (@kimber)](https://gsa-tts.slack.com/messages/@kimber/), the 18F Head of Infrastructure Engineering, with a _very short description_ of the incident.
+1. [Send a Slack DM to Erik Burgess (@erik)](https://gsa-tts.slack.com/messages/@erik/) in TTS Infrastructure with a _very short description_ of the incident.
 
 1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible, excluding sensitive data**.
   * Keep this issue up to date by adding comments with appropriately summarized actions or information from interactions with the GSA IR team. GSA IR must be emailed updates as incidents unfold. Please do not rely on GitHub to communicate with the GSA IR team. GitHub should be used to document communications with GSA IR, not used in place of email communications.
@@ -52,28 +52,33 @@ To report a security incident, follow *all* of the steps below:
 
 1. If you cannot access email or Slack, please call the GSA IT Service Desk at 1-866-450-5250 and ask them to forward the relevant information to the addresses above. 
 
-Please note that incidents need to be reported *within one hour* of being identified. This isn't "within an hour of happening", but "within one hour of you becoming aware of the incident". The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
+Please note that incidents need to be reported *within one hour* of being identified. This isn't "within an hour of happening" but "within one hour of you becoming aware of the incident." The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 
 ## What is an incident?
 
-First, it's important to note: it's always OK to err on the side of reporting! [TTS](http://www.gsa.gov/portal/category/25729)'s and GSA's IR teams are good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, *you'll never get in trouble for pinging IR at all*. The most effective security "early warning system" is attentive staff, so "report early, report often"!
+First: it's always OK to err on the side of reporting! [TTS](http://www.gsa.gov/portal/category/25729)'s and GSA's incident response teams are good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, *you'll never get in trouble for pinging IR at all*. The most effective security early warning system is attentive staff, so report early and report often!
 
-On to the answer to "what is an incident?": in a nutshell, an incident is anything that compromises (or could compromise) our "CIA": **Confidentiality, Integrity, or Availability.**
+**What is an incident?** In a nutshell, anything that compromises (or could compromise) our "CIA": **Confidentiality, Integrity, or Availability.**
 
-- **Confidentiality** means: "secrets". So personal information (PII) — names, phone numbers, social security numbers, etc — is one very important secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that any confidential information may have been leaked outside TTS, you should open an incident.
+- **Confidentiality** means: secrets. Personal information (PII) — names, phone numbers, social security numbers, etc — is one kind of secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that confidential information may have been leaked outside TTS, you should open an incident.
 
-- **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or if a app stopped logging for a while, or if some documents got deleted — those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these, as well.
+- **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
 
-- Finally, **availability** means the availability of the services we provide. So if an app goes down, if something we expect to be running stops running — those are availability issues. Note that this only refers to production systems (it's fine if your demo app crashes), and also only to unexpected downtime. If you decide to shut something down temporarily for maintenance — go for it, not an incident.
+- Finally, **availability** means the availability of the services we provide. If an app goes down or something we expect to be running stops running, those are availability issues. This only refers to production systems (it's fine if your demo app crashes), and only to unexpected downtime. If you decide to shut something down temporarily for maintenance — go for it, not an incident.
 
-Remember: it's totally OK — and encouraged — to fail towards the side of reporting something. Organizations with really healthy IR systems see a lot of false alarms, and a lot of very low severity reports. This is good, because it indicates that people feel comfortable reporting day-to-day issues. The more we do it, the better we'll get at it. And this is ultimately the goal, because then when something really serious happens, we'll be well-practiced at handling it smoothly and efficiently.
+Remember: it's totally OK — and encouraged — to fail towards the side of reporting something. Organizations with healthy incident reporting systems see a lot of false alarms, and a lot of low severity reports. This is good, because it indicates that people feel comfortable reporting day-to-day issues. The more we do it, the better we'll get at it. And this is ultimately the goal, because then when something really serious happens, we'll be practiced at handling it smoothly and efficiently.
 
-##For Responders
+## For responders
 
-Responders to an incident (as defined above) are entitled to take steps to remediate the immediate problem without worrying about whether or not the work is billable for up to eight person-hours of work per incident. Fix the problem, and then worry about how we will account for your time. 
+Responders to an incident (as defined above) are entitled to take steps to remediate the immediate problem without worrying about whether or not the work is billable for up to eight person-hours of work per incident. Fix the problem, and then worry about how we will account for your time.
 
 ### Preventing future incidents with Git Seekrets
 
-If an incident involved exposing environment variables or private configuration
-data, consider [adding a Rule](https://github.com/18F/laptop#git-seekret) to the
-Git Seekrets installation to prevent further incidents across TTS.
+If an incident involved exposing environment variables or private configuration data, consider [adding a rule](https://github.com/18F/laptop#git-seekret) to the Git Seekrets installation to prevent further incidents across TTS.
+
+## Contacts
+
+- Questions? Ask in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel
+- GSA contacts: [IT Service Desk](itservicedesk@gsa.gov), [GSA IR team](gsa-ir@gsa.gov), and [GSA DevOps](devops@gsa.gov)
+- cloud.gov: [cloud.gov support team](cloud-gov-support@gsa.gov)
+- Need to find the Information System Security Officer (ISSO) or Information System Security Manager (ISSM) for a specific system? See the [directory of contacts for GSA systems](https://ea.gsa.gov/#!/FISMA_POC). (You'll need to be on the GSA network or VPN to access the directory.)
