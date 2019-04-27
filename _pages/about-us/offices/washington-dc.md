@@ -52,6 +52,7 @@ title: Washington, D.C.
 If you&rsquo;re coming from **Dulles International Airport (IAD)**, you can take a cab (~$80) or ride public transit, which will take about an hour and cost between $7.00 and $8.25. You can take the 5A bus from Dulles Main Terminal to the Rosslyn station on the Blue/Orange/Silver Line. You can then hop on a Metro to the Farragut West station. More information is available on the Metro site. Once outside the station, follow the directions under "Public Transit."
 
 If you&rsquo;re coming from **Thurgood Marshall Baltimore-Washington Airport (BWI)**, you can:
+
 - Take a cab (~$100)
 - Ride a MARC train ($7) to Union Station. MARC trains have a limited weekend schedule, but tickets are valid for a full calendar day— use your ticket to board any departing MARC train. From Union Station, take the Red line to Farragut North station.
 - Ride an Amtrak train to Union Station (~$15). Your ticket is for a specified time and train, which can be problematic if your flight is delayed. From Union Station, take the Red line to Farragut North station.
@@ -108,6 +109,7 @@ The location of onboarding differs based on how many people are coming into GSA.
 ### Mail something to the office?
 
 Send mail to:
+
 > General Services Administration | 1800 F ST NW | Rm 4400 | Washington, DC 20405-0001 (you can add "ATTN: Name" at top).
 
 ### Access the building after hours?
@@ -145,7 +147,6 @@ Refer to [our printer information document](https://docs.google.com/document/d/1
 The guest wireless network in the building is GSA Guest. The password changes monthly. To obtain the current password, type &ldquo;GSA Wireless&rdquo; into any room on Slack and the current password will pop up.
 
 Non-guest wireless access is available using gsa-wireless and authenticating using your ENT username (`ENT\username`) and password.
-
 
 ## Where are the&hellip;
 
