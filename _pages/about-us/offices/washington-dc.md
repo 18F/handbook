@@ -124,6 +124,10 @@ If you're expecting a small group of US citizens (fewer than 15 or so), no advan
 
 If you're expecting a large group, or if the group includes non-US citizens, you should give security advance notice.
 
+### Reserve parking for government business?
+
+In order to reserve parking for a meeting with a government colleague, email 1800FTenantSupport@gsa.gov with the driver's name, date, time, agency, and (if it's not a government vehicle) vehicle info. 2-3 business days is preferable but requests can be accommodated on less notice. Spots are located in the East Courtyard. Access the East Courtyard of the building via on E Street: it's the first right turn into the building, between Which Wich and Greenberry's.
+
 ### Register for building badge swipe access as a non-GSA federal employee?
 
 Federal employees who work for agencies other than GSA can register their PIV cards to open doors and turnstiles at 1800 F by visiting the GSA security office. OMA Security is located in the basement in **room B338**. Office hours are Monday &ndash; Thursday from 7:00 am &ndash; 3:30 pm. This is particularly useful for biking as it will allow your PIV card to open the courtyard doors from the parking lot.
