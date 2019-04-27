@@ -79,6 +79,6 @@ If an incident involved exposing environment variables or private configuration 
 ## Contacts
 
 - Questions? Ask in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel
-- GSA contacts: [IT Service Desk](itservicedesk@gsa.gov), [GSA IR team](gsa-ir@gsa.gov), and [GSA DevOps](devops@gsa.gov)
-- cloud.gov: [cloud.gov support team](cloud-gov-support@gsa.gov)
+- GSA contacts: [IT Service Desk](mailto:itservicedesk@gsa.gov), [GSA IR team](mailto:gsa-ir@gsa.gov), and [GSA DevOps](mailto:devops@gsa.gov)
+- cloud.gov: [cloud.gov support team](mailto:cloud-gov-support@gsa.gov)
 - Need to find the Information System Security Officer (ISSO) or Information System Security Manager (ISSM) for a specific system? See the [directory of contacts for GSA systems](https://ea.gsa.gov/#!/FISMA_POC). (You'll need to be on the GSA network or VPN to access the directory.)
