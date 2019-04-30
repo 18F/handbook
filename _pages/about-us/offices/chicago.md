@@ -87,6 +87,8 @@ Fingerprints and badge can be done at the security office on the second floor (R
 
 Your GSA ID grants you access to the building at any time between 7 a.m. and 6 p.m. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building.
 
+To set up turnstile access on your badge, visit room 200. You'll need to know your PIN. If you don't know your PIN, or your badge is not activated, you'll need to make an appointment at the badging office in room 212.
+
 ### <a id="onboarding"></a>Attend onboarding?
 
 GSA onboarding is typically done on alternating Mondays at 1:00 p.m. in Room 3722, in the NW corner of the 37th floor. TTS onboarding varies by division-- you should receive an email confirming the times that you will meet with your team. To allow yourself enough time to get set up on the GSA network, please arrive at 8 a.m. on the second day of your first week, and Ethan Heppner (TTS Chicago's office operations coordinator) will help walk you through.
