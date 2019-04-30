@@ -35,6 +35,10 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 [PIF - Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow) - Application Close: Monday, May 6, 2019 at 11:59pm ET
 
+[TTS - Talent Acquisition Specialist](https://docs.google.com/document/d/17UHj_GoyStXRMTzovkXVR_DDm4Nu4kHxQhV44SNbmDM/edit?usp=sharing) - Application Close: Open until filled
+
+[TTS - Talent Engagement Specialist](https://docs.google.com/document/d/1H9CNaf4jm3KQB6TmXJgyGAJBta5XX8PuvzYqYfY02PU/edit?usp=sharing) - Application Close: Open until filled
+
 ### Internal Only Competitions
 
 [Talent Operations Specialist - Detail](https://docs.google.com/document/d/1akaWPPIVSvZpnRiFCgkCcHvzCE4Hx4euDaGTL5TcGCg/edit?usp=sharing) - Application Close: Monday, May 6, 2019 at 11:59pm ET
