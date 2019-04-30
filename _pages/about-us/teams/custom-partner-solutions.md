@@ -34,7 +34,6 @@ Over the last few years, several teams within 18F have worked on a number of pro
 
 ## Team resources
 
-- Account Management Responsibilities (Coming soon)
-- Account Manager Onboarding Checklist (Coming soon)
+Check in slack: [#partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions) (or ping @cps in any channel) for resources like the Account Management Responsibilities and the Account Manager Onboarding Checklist.
 
 
