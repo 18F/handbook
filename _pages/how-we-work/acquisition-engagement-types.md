@@ -17,7 +17,7 @@ On an Acquisition Consulting engagement, the partner uses a procurement vehicle 
 
 The partner’s contracting office takes the lead on executing these activities, and the acquisition lead on the 18F team will pull in other team members at various times to review draft solicitation materials, to help evaluate written responses to the solicitation, to help screen vendors, and for various other purposes. (It is worth noting that this cross functional team approach is unique in government procurement and is what positions 18F to do this work well with our partners.)
 
-After a vendor is selected, and an award has been made, we’ll work with the client and vendor development team to set up a healthy delivery cadence during the post award phase of the engagement.  This phase could also include things like code review.  Ideally, once the partner is able to engage with the vendor development team on their own we begin to transition off the project.
+After a vendor is selected, and an award has been made, we’ll work with the client and vendor development team to identify a healthy delivery cadence during the post-award phase of the engagement (whether or not 18F is involved in that phase).  The post-award phase could also include things like code review.  Ideally, once the partner is able to engage with the vendor development team on their own we begin to transition off the project.
 
 The partner’s contracting office will be the primary point of contact for the vendor for things like invoicing, time tracking, personnel changes and other contract questions.
 
