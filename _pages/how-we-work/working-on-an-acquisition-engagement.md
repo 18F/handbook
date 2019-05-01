@@ -35,6 +35,7 @@ All of the above is called “pre-award” work in the context of a procurement.
 ## How does this help our partners? 
 
 The goal of 18F’s work is to help government agencies provide better digital services to the people they serve. In order for our work to outlast our engagements, we focus not only on creating digital solutions, but also on building our partners’ capabilities in the practices we believe lead to better outcomes—practices like iterative human-centered design and collaborative and open workstyles.
+
 However, no matter how well-versed our partners become in these practices, the reality is that most government agencies do not have the in-house resources to maintain and grow the work we’ve done with them. Instead, they may rely on contractors to do this. This is why, in addition to building capacity in digital service delivery practices, we also **develop our partners’ capacity to be better buyers and managers of custom software development teams**.
 
 ## Some common terms you may hear
