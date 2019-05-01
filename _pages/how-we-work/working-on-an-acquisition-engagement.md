@@ -38,7 +38,7 @@ The goal of 18F’s work is to help government agencies provide better digital s
 
 However, no matter how well-versed our partners become in these practices, the reality is that most government agencies do not have the in-house resources to maintain and grow the work we’ve done with them. Instead, they may rely on contractors to do this. This is why, in addition to building capacity in digital service delivery practices, we also **develop our partners’ capacity to be better buyers and managers of custom software development teams**.
 
-## Some common terms you may hear
+## Acquisition glossary
 
 * **Acquisition**: Often used interchangeably with "procurement," an *acquisition* is a process by which an agency selects a third-party vendor to enter into a contract with to perform some work. The contract will describe the work to be done and outline the roles and responsibilities of the agency and the vendor over the course of the project. 
 * **Procurement vehicle**: An existing mechanism that has been set up to allow agencies to work with third-party vendors to provide various services. GSA/FAS manages a number of [existing procurement vehicles](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules), including those that cover information technology goods and services.
