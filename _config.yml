@@ -122,6 +122,9 @@ navigation:
       - text: TTS Code of Conduct
         url: code-of-conduct/
         internal: true
+      - text: TTS mission, history, and values
+        url: tts-history/
+        internal: true
       - text: TTS org chart
         url: tts-org-chart/
         internal: true
@@ -143,9 +146,6 @@ navigation:
         internal: true
       - text: Records management
         url: records-management/
-        internal: true
-      - text: TTS history
-        url: tts-history/
         internal: true
       - text: Washington, D.C. Office
         url: washington-dc/
