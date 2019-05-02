@@ -438,6 +438,15 @@ navigation:
         internal: false
     - text: 18F Team Resources
       children:
+      - text: Working on an acquisition engagement 
+        url: working-on-an-acquisition-engagement/
+        internal: true
+      - text: Acquisition engagement types
+        url: acquisition-engagement-types/
+        internal: true
+      - text: Acquisition engagement glossary
+        url: working-on-an-acquisition-engagement/#acquisition-glossary
+        internal: true
       - text: Before you ship
         url: https://before-you-ship.18f.gov/infrastructure/aws/
         internal: false
