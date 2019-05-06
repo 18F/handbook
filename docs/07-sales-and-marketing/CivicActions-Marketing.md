@@ -4,6 +4,10 @@ At our 2018 retreat we decided to break Marketing into distinct areas: Brand, Ev
 
 We believe this will have us better focus on how to serve the team and provide value to the civic tech community. 
 
+## Events Team Documents
+
+[Team Charter](https://docs.google.com/document/d/1F9wVY7i7qmOAScaAhRgNrc60U247SkxJY3gnXMvO6_A/edit?usp=sharing)
+
 ## Events
 
 We attend events and conferences for a number of different purposes. Among these include:
