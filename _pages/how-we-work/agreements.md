@@ -9,7 +9,7 @@ title: Agreements
 18F uses two mechanisms to record its agreements with other agencies: Interagency Agreements (IAAs) and Memorandums of Understanding (MOUs).
 
 - _IAA_ is our shorthand for using the Treasury Department&rsquo;s standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
-- An MOU is a single document to record work done by 18F for OCSIT. Since 18F is part of OCSIT, this agreement is between 18F/OCSIT and the GSA-CFO to allow the transfer of funds from the OCSIT appropriation to 18F for work to be done. Team Ops provides a [template](https://drive.google.com/open?id=1WiUb-FiM93UNFSvL_TgtcGog7m5BGlutI1SWMFyQOJg) for your use.
+- An MOU is a single document to record work done by 18F for the office of Technology Transformation Services (TTS). Since 18F is part of TTS, this agreement is between 18F/TTS and the GSA-CFO to allow the transfer of funds from the TTS appropriation to 18F for work to be done. Team Ops provides a [template](https://drive.google.com/open?id=1WiUb-FiM93UNFSvL_TgtcGog7m5BGlutI1SWMFyQOJg) for your use.
 
 ## Policies
 
