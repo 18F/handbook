@@ -41,8 +41,6 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Internal Only Competitions
 
-[Talent Operations Specialist - Detail](https://docs.google.com/document/d/1akaWPPIVSvZpnRiFCgkCcHvzCE4Hx4euDaGTL5TcGCg/edit?usp=sharing) - Application Close: Monday, May 6, 2019 at 11:59pm ET
-
 [TTS OA Micro-purchase Manager](https://docs.google.com/document/d/1f6Yn8ttzkuTd0_7EzdGHVqAbyzFzaBcJfqO6nUQcD5c/edit?usp=sharing) - Application Close: Open until filled
 
 
