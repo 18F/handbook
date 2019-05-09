@@ -82,7 +82,7 @@ Parking at the airport is only reimbursable when the conditions in the above exa
 
 ### Don't forget about vouchers!
 
-Have a good trip, [get reimbursement]({{site.baseurl}}/travel-guide-3-reimbursement)-- filling out a voucher-- within a 5 business days of getting back.
+Have a good trip, [get reimbursement]({{site.baseurl}}/travel-guide-3-reimbursement)-- filling out a voucher-- within 5 business days of getting back.
 
 Why the rush? Filling out a voucher correctly allows you to:
 
