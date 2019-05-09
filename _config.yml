@@ -240,9 +240,6 @@ navigation:
   - text: TTS tools
     children:
     - children:
-      - text: Meetings and meeting tools
-        url: meetings-and-meeting-tools/
-        internal: true
       - text: GSA internal tools
         url: gsa-internal-tools/
         internal: true
@@ -277,6 +274,9 @@ navigation:
       - text: Google Meet (video conferencing)
         url: google-meet/
         internal: true
+      - text: Meetings and meeting tools
+        url: meetings-and-meeting-tools/
+        internal: true
       - text: Microsoft Office for OS X
         url: https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing
         internal: false
@@ -285,6 +285,9 @@ navigation:
         internal: true
       - text: Network time sync in OS X with NTP
         url: ntp/
+        internal: true
+      - text: Sharing calendars with partners
+        url: sharedcalendars
         internal: true
       - text: Slack (chat client)
         url: slack/
@@ -438,7 +441,7 @@ navigation:
         internal: false
     - text: 18F Team Resources
       children:
-      - text: Working on an acquisition engagement 
+      - text: Working on an acquisition engagement
         url: working-on-an-acquisition-engagement/
         internal: true
       - text: Acquisition engagement types
