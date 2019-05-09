@@ -5,15 +5,15 @@ tags:
 ---
 If you’re running a project with a partner, gaining ready visibility into team member calendars can make life (or at least scheduling meetings) a bit easier so you know when people may be available to meet.
 
-While we can easily view personal calendar events for others at GSA (or at least free/busy status, depending on the settings users select) as well as team calendars we have configured (for example, project calendars), it can take more work for our partners at other agencies to view these personal and team calendars,  (and for us to view their calendars). 
+While we can easily view personal calendar events for others at GSA (or at least free/busy status, depending on the settings users select) as well as team calendars we have configured (for example, project calendars), it can take more work for our partners at other agencies to view these personal and team calendars,  (and for us to view their calendars).
 
 Whether or not, and how readily, you can share calendars will depend on IT policy and settings for each given agency. But, sharing calendars is possible. Here are some different ways to do this:
 
 ## Share GSA Google Calendars directly with partners
 
-As a first step, see if you can directly share and view your calendar availability with your partner: 
+As a first step, see if you can directly share and view your calendar availability with your partner:
 
-1. From your calendar, highlight the calendar name you want to share, click the `Options for [calendar name]’ menu button, and click `Settings for my calendars` 
+1. From your calendar, highlight the calendar name you want to share, click the `Options for [calendar name]’ menu button, and click `Settings for my calendars`
 2. In the `Access permissions` pane, check `Make available to public` and select the appropriate level of access (`See only free/busy` or `See all event details`) in the adjacent dropdown menu. Note: GSA personal calendars are configured to `See only free/busy` and cannot share event details.
 3. Click `Get shareable link`, copy the link, and send it to your partner.
 4. Ask your partner to import that link into the calendar program they use (often Microsoft Outlook for agency partners)
@@ -27,9 +27,9 @@ If this process does not work for your team, you can try sharing your calendars 
 
 ## MAX.gov
 
-[MAX.gov](https://portal.max.gov/portal/home) is a government-wide suite of advanced collaboration, information sharing, data collection, publishing, business intelligence, and authentication tools and services used to facilitate cross-government collaboration and knowledge management. MAX has over 200,000 users, across 180 federal agencies, in all branches of government. 
+[MAX.gov](https://portal.max.gov/portal/home) is a government-wide suite of advanced collaboration, information sharing, data collection, publishing, business intelligence, and authentication tools and services used to facilitate cross-government collaboration and knowledge management. MAX has over 200,000 users, across 180 federal agencies, in all branches of government.
 
-The MAX.gov team includes government staff from OMB’s Budget Systems Branch as well as Department of Education Budget Line of Business Program Management Office as well as several vendors. 
+The MAX.gov team includes government staff from OMB’s Budget Systems Branch as well as Department of Education Budget Line of Business Program Management Office as well as several vendors.
 
 Agency customers pay MAX.gov for its services. GSA is currently a paying MAX customer, so these tools are available for our use.
 
@@ -39,7 +39,7 @@ To share calendars through MAX, team members (TTS and partners) will need to cre
 
 ### Set up MAX account and sync GSA Google Calendars to them
 
-1. From your GSA Google Calendar, highlight the calendar name you want to share, click the `Options for [calendar name]’ menu button, and click `Settings for my calendars` 
+1. From your GSA Google Calendar, highlight the calendar name you want to share, click the `Options for [calendar name]’ menu button, and click `Settings for my calendars`
 2. In the `Access permissions` pane, check `Make available to public` and select the appropriate level of access (`See only free/busy` or `See all event details`) in the adjacent dropdown menu. Note: GSA personal calendars are configured to `See only free/busy` and cannot share event details.
 3. Copy the `Public address in iCal format` (this link should end in .ics) and keep it someplace handy.
 4. If you do not already have one, register for a MAX.gov account using your GSA email address: https://portal.max.gov/portal/home
@@ -52,7 +52,7 @@ Sharing non-GSA federal calendars from Outlook using MAX.gov (depends on agency)
 
 1. Register for a MAX.gov account using your GSA email address: https://portal.max.gov/portal/home
 2. In Microsoft Outlook, click `Publish online` and `Configure public calendar`. Set which calendar you want to share and the permissions level for this and click `Save`.
-3. Copy the .ics file 
+3. Copy the .ics file
 4. Follow instructions #4-6 from the above section.
 
 ### See team member calendars once they are configured.
