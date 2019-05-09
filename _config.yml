@@ -267,13 +267,13 @@ navigation:
       - text: Google Drive
         url: google-drive/
         internal: true
-    - children:
       - text: Google Groups
         url: google-groups/
         internal: true
       - text: Google Meet (video conferencing)
         url: google-meet/
         internal: true
+    - children:
       - text: Meetings and meeting tools
         url: meetings-and-meeting-tools/
         internal: true
