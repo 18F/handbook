@@ -13,7 +13,7 @@ Whether or not, and how readily, you can share calendars will depend on IT polic
 
 As a first step, see if you can directly share and view your calendar availability with your partner:
 
-1. From your calendar, highlight the calendar name you want to share, click the `Options for [calendar name]’ menu button, and click `Settings for my calendars`
+1. From your calendar, highlight the calendar name you want to share, click the `Options for [calendar name]` menu button, and click `Settings for my calendars`
 2. In the `Access permissions` pane, check `Make available to public` and select the appropriate level of access (`See only free/busy` or `See all event details`) in the adjacent dropdown menu. Note: GSA personal calendars are configured to `See only free/busy` and cannot share event details.
 3. Click `Get shareable link`, copy the link, and send it to your partner.
 4. Ask your partner to import that link into the calendar program they use (often Microsoft Outlook for agency partners)
@@ -39,11 +39,11 @@ To share calendars through MAX, team members (TTS and partners) will need to cre
 
 ### Set up MAX account and sync GSA Google Calendars to them
 
-1. From your GSA Google Calendar, highlight the calendar name you want to share, click the `Options for [calendar name]’ menu button, and click `Settings for my calendars`
+1. From your GSA Google Calendar, highlight the calendar name you want to share, click the `Options for [calendar name]` menu button, and click `Settings for my calendars`
 2. In the `Access permissions` pane, check `Make available to public` and select the appropriate level of access (`See only free/busy` or `See all event details`) in the adjacent dropdown menu. Note: GSA personal calendars are configured to `See only free/busy` and cannot share event details.
 3. Copy the `Public address in iCal format` (this link should end in .ics) and keep it someplace handy.
 4. If you do not already have one, register for a MAX.gov account using your GSA email address: https://portal.max.gov/portal/home
-5. Under the `Personal Calendars` heading, go to your default calendar, which is listed as `My Calendar`., Click on the down arrow to the right of this and select  `Manage calendar synchronization`. Paste the link you copied into the `The URL you are using to synchronize your MAX Calendar is:` text field and click `Done`.
+5. Under the `Personal Calendars` heading, go to your default calendar, which is listed as `My Calendar`. Click on the down arrow to the right of this and select  `Manage calendar synchronization`. Paste the link you copied into the `The URL you are using to synchronize your MAX Calendar is:` text field and click `Done`.
 6. At this point, your calendar will start syncing to MAX.
 
 ### Configure partner calendar (non-GSA, non-Google Calendar) using Outlook
