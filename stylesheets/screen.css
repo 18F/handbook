@@ -352,6 +352,13 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 
 /* @end */
 
+.page-outdated {
+	padding: 4px 0;
+	background: #FEC42C;
+	color: #000;
+	text-align: center;
+}
+
 /* @group .site-footer */
 
 .site-footer{
