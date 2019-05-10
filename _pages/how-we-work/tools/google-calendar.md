@@ -27,7 +27,7 @@ You can add the above calendars to your Google calendar by clicking on the link 
 
 ## Tips
 
-- To add a video call to your calendar invite: create an event, click **Edit event**, and under **Video call** click **Add video call**. Google gives the call a default name, but you can click **Change name** to customize it. Then click **Save**. ([Demonstration.]({{ site.baseurl }}/images/google-calendar/2.gif))
+- To add a video call to your calendar invite: create an event, click **Edit event**, and under **Video call** click **Add video call**. Google gives the call a default name, but you can click **Change name** to customize it. Then click **Save**. ([Demonstration.]({{site.baseurl}}/images/google-calendar/2.gif))
 - You can't share calendars with anyone outside GSA. You can share individual invites, but not whole calendars.
 
 ### Scheduling meetings with other people
@@ -42,7 +42,7 @@ Here are a few ways you can use Google Calendar to find times to meet with other
 
 Specifying your working hours will mark you as busy during non-working hours. Your colleagues will get a warning if they try to schedule you outside those times.
 
-1. In the Settings menu, click **Settings**.  ![Setting Menu]({{ site.baseurl }}/images/google-calendar/1.png)  
+1. In the Settings menu, click **Settings**.  ![Setting Menu]({{site.baseurl}}/images/google-calendar/1.png)  
 2. **Under General > Working hours**, select **Show a warning to other people when they invite me to an event outside my working hours**.
 3. Specify the days and times you prefer to work.
 4. Click **Save**.

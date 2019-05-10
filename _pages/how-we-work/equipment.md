@@ -49,7 +49,10 @@ TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have
 
 - **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
 
-- **After GSA IT provisions your phone, set up two-factor verifications.** Email <mailto:hspd12.security@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for two-factor authentication in our [Slack]({{site.baseurl}}/slack), [GitHub]({{site.baseurl}}/github), and [Gmail]({{site.baseurl}}/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
+- After GSA IT provisions your phone, set up two-factor verification:
+    - To get started, email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
+    - Once you have access to [HR Links]({{site.baseurl}}/gsa-internal-tools/#hr-links), you can update your contact information there. You'll find it under **Navigator > Self Service > Personal Information > Phone Number Change (USF)**; make sure to set the phone type as "Business Mobile" so it correctly populates GCIMS and works for 2FA.
+    - You can learn more about using your phone for two-factor authentication in our [Slack](https://handbook.18f.gov/slack), [GitHub](https://handbook.18f.gov/github), and [Gmail](https://handbook.18f.gov/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
 ### Tips
 
@@ -70,9 +73,7 @@ If you are based in an office, you can check out mice, keyboards, and trackpads 
 
 #### DC or remote
 
-Make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform). A member of the TTS Business Operations Team will reach out to you.
-
-If you'd like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
+Make your request by filling out a [hardware IT Support Ticket](https://gsa.service-now.com/sp/). GSA IT will reach out to you to accomodate.
 
 #### Chicago
 

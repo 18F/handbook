@@ -112,17 +112,9 @@ See [Benefits]({{site.baseurl}}/benefits) for more details about Employee Expres
 
 ## <a id="hr-links">HR Links</a>
 
-<a href="https://corporateapps.gsa.gov/hr-links/">HR Links</a> is what you'll use to request and document leave (sick, annual, bereavement, and more) as well as access your personnel file (your salary, your GS level, your supervisor, your past performance rating(s), and information about health insurance plan).
+<a href="https://corporateapps.gsa.gov/hr-links/">HR Links</a> is what you'll use to [request and document leave]({{site.baseurl}}/leave/) (sick, annual, bereavement, and more) as well as access your personnel file (your salary, your GS level, your supervisor, your past performance rating(s), and information about health insurance plan).
 
 You must [be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.bbs2uvvcjvcg) to connect to HR Links, if you work remotely.
-
-In general, you should request leave ahead of time (although it is possible to request leave retroactively) and document any absences as soon as possible. If you&rsquo;re planning to take leave, please ask your project team(s) as well as your director or direct supervisor if it&rsquo;s okay. Once you get your supervisor's approval, sign in to [HR Links](https://corporateapps.gsa.gov/hr-links/) and submit your leave request.
-
-You can see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express](#employee-express).
-
-We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.
-
-For 18F employees: after you've created your leave request, add your planned absence to the shared [Out of Office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America%2FChicago) Google calendar; that way, everyone will know when you're going to be out of the office. Finally, please note that [HR Links]({{site.baseurl}}/leave) is GSA's system and separate from [Tock]({{site.baseurl}}/tock), which is 18F's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both.
 
 ## <a id="it-service-desk">IT Service Desk</a>
 
@@ -161,12 +153,3 @@ For software requests, see [Software](../software/).
 
 If you need office supplies that aren’t available in your office, software, or need to make any other request for TTS to purchase, read on [here]({{site.baseurl}}/purchase-requests) for what to do next.
 
-## Get a copy of Microsoft Office
-
-1. See [Software](../software/#get-access-to-software-we-already-have).
-1. You’ll receive an email from Microsoft Volume Licensing Service Center. Don't click on the link in the email. *Instead*, [create a Microsoft Account](https://login.live.com/) with your .gov email.
-1. Check your email to confirm the account.
-1. Once the account is set up, click the link from the Microsoft Volume Licensing Service Center.
-1. Enter your gsa.gov email again.
-1. Confirm said email by clicking on a link sent in a second, separate email from the Microsoft Volume Licensing Service Center.
-1. Enter the Service Center and search for and download your software.

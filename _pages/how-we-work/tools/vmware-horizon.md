@@ -32,6 +32,10 @@ New employees should have a GSA VMware myView/Horizon account, but if not:
 
 See [the InSite page](https://insite.gsa.gov/portal/category/536270). Note that you may need to follow the "Personal Mac" instructions.
 
+## Tips
+
+  - To move files between your laptop and your Horizon desktop, use Google Drive.  You can use Chrome in the Horizon desktop to download and upload files.
+
 ---
 
 #### Still have questions?

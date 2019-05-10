@@ -122,6 +122,9 @@ navigation:
       - text: TTS Code of Conduct
         url: code-of-conduct/
         internal: true
+      - text: TTS mission, history, and values
+        url: tts-history/
+        internal: true
       - text: TTS org chart
         url: tts-org-chart/
         internal: true
@@ -144,9 +147,6 @@ navigation:
       - text: Records management
         url: records-management/
         internal: true
-      - text: TTS history
-        url: tts-history/
-        internal: true
       - text: Washington, D.C. Office
         url: washington-dc/
         internal: true
@@ -156,8 +156,8 @@ navigation:
       - text: Leave (HR Links)
         url: leave/
         internal: true
-      - text: Travel guide
-        url: travel-guide-start-here/
+      - text: Travel guide (table of contents)
+        url: travel-guide-table-of-contents/
         internal: true
     - text: Tech
       children:
@@ -190,8 +190,8 @@ navigation:
       - text: Employment verification
         url: employment-verification/
         internal: true
-      - text: Merit promotions
-        url: merit-promotions/
+      - text: Hiring
+        url: hiring/
         internal: true
       - text: Overtime and comp time
         url: overtime-and-comp-time/
@@ -222,6 +222,9 @@ navigation:
       - text: Transit benefit
         url: transit-benefit/
         internal: true
+      - text: TTSJobs
+        url: ttsjobs/
+        internal: true
     - text: Detailing and offboarding
       children:
       - text: Assignments and details
@@ -237,22 +240,19 @@ navigation:
   - text: TTS tools
     children:
     - children:
-      - text: Meetings and meeting tools
-        url: meetings-and-meeting-tools/
-        internal: true
       - text: GSA internal tools
         url: gsa-internal-tools/
         internal: true
-      - text: AnyConnect
+      - text: AnyConnect (VPN client)
         url: anyconnect/
         internal: true
-      - text: eSign
+      - text: eSign (digital signatures)
         url: esign/
         internal: true
-      - text: Federalist
+      - text: Federalist (publishing platform)
         url: federalist/
         internal: true
-      - text: GitHub
+      - text: GitHub (code repos and versioning)
         url: github/
         internal: true
       - text: Gmail
@@ -267,38 +267,44 @@ navigation:
       - text: Google Drive
         url: google-drive/
         internal: true
-    - children:
       - text: Google Groups
         url: google-groups/
         internal: true
-      - text: Google Meet
+      - text: Google Meet (video conferencing)
         url: google-meet/
         internal: true
-      - text: Microsoft Office for OS X
-        url: gsa-internal-tools/#get-a-copy-of-microsoft-office
+    - children:
+      - text: Meetings and meeting tools
+        url: meetings-and-meeting-tools/
         internal: true
-      - text: Mural.ly
+      - text: Microsoft Office for OS X
+        url: https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing
+        internal: false
+      - text: Mural.ly (collaborative whiteboard tool)
         url: murally/
         internal: true
       - text: Network time sync in OS X with NTP
         url: ntp/
         internal: true
-      - text: Slack
+      - text: Sharing calendars with partners
+        url: sharedcalendars/
+        internal: true
+      - text: Slack (chat client)
         url: slack/
         internal: true
       - text: Text editors
         url: text-editors/
         internal: true
-      - text: Tock
+      - text: Tock (time tracking)
         url: tock/
         internal: true
-      - text: Trello
+      - text: Trello (task and project management)
         url: trello/
         internal: true
-      - text: VMware Horizon
+      - text: VMware Horizon (virtual desktop client)
         url: vmware-horizon/
         internal: true
-      - text: Zoom
+      - text: Zoom (video conferencing)
         url: zoom/
         Internal: true
 
@@ -352,9 +358,6 @@ navigation:
       - text: Social media
         url: social-media/
         internal: true
-      - text: Blogging
-        url: blogging/
-        internal: true
   - text: TTS Office of Acquisition
     children:
     - text: Overview of OA
@@ -371,7 +374,7 @@ navigation:
         url: history-and-values/
         internal: true
       - text: 18F org chart
-        url: https://docs.google.com/presentation/d/1AuSp2Ldz_JkFQIegv3FHUa3HttiwGRGGPaq0y1VlMKY/edit
+        url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
         internal: false
     - text: 18F Chapters
       children:
@@ -438,23 +441,41 @@ navigation:
         internal: false
     - text: 18F Team Resources
       children:
+      - text: Working on an acquisition engagement
+        url: working-on-an-acquisition-engagement/
+        internal: true
+      - text: Acquisition engagement types
+        url: acquisition-engagement-types/
+        internal: true
+      - text: Acquisition engagement glossary
+        url: working-on-an-acquisition-engagement/#acquisition-glossary
+        internal: true
+      - text: Before you ship
+        url: https://before-you-ship.18f.gov/infrastructure/aws/
+        internal: false
+      - text: Blogging
+        url: blogging/
+        internal: true
       - text: Bookmarks
         url: bookmarks/
         internal: true
       - text: Doing research at 18F
         url: research-guidelines/
         internal: true
+      - text: How we relate to partners
+        url: how-we-relate-to-partners/
+        internal: true
+      - text: Leading projects
+        url: leading-projects/
+        internal: true
       - text: One-on-ones
         url: one-on-ones/
         internal: true
-      - text: Out of office expectations
-        url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
-        internal: false
-      - text: Before you ship
-        url: https://before-you-ship.18f.gov/infrastructure/aws/
-        internal: false
       - text: Open source
         url: https://github.com/18F/open-source-policy/blob/master/policy.md
+        internal: false
+      - text: Out of office expectations
+        url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
         internal: false
       - text: Time tracking and billing <br><br>
         url: https://handbook.18f.gov/tock/#time-tracking-and-billing

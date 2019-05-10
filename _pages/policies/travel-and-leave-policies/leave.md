@@ -20,7 +20,9 @@ tags:
 
 ---
 
-This page provides instructions for entering leave requests (also known as absence requests) in HR Links and information on the various types of leave.
+This page provides instructions for entering leave requests (also known as absence requests) in <a href="https://corporateapps.gsa.gov/hr-links/">HR Links</a> and information on the various types of leave.
+
+You can also see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express]({{site.baseurl}}/gsa-internal-tools/#employee-express).
 
 ## Submitting leave in HR Links
 
@@ -44,6 +46,7 @@ You must be on the GSA wireless network or on the Windows virtual desktop (acces
 ***Note:*** *When your leave request is approved, you’ll receive a “The absence request has been approved…” email*
 
 ### HR Links tips
+
 - Partial day requests cannot be made in the middle of a multi-day request; more than one request will need to be made
 - AWS schedules are automatically factored into HR Links timekeeping
 - ETAMS/reconciliation is no longer needed because time off requests and time cards are linked in HR Links
@@ -69,6 +72,7 @@ Before taking leave, be sure to:
     - Submit [correct Tock entries](#time-tracking)
     - Update your Slack username and profile (ex: `@username, OOO through 6/27`)
     - Update the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com)
+    - For a more detailed checklist, see [18F Out of Office expectations](https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit)
 
 ### Annual leave
 
@@ -147,6 +151,10 @@ If the system is down, you can submit donation requests directly to Lakita River
 
 An employee may only take advanced annual leave in the amount they will earn back by the end of the current leave year, and the advanced leave may not exceed 80 hours.
 
+Please note: You may receive an exception in HRLinks that "temporary appointment employees cannot be advanced annual leave." Policy allows the approval of advance leave for employees on limited appointments, but the amount of advance leave approved must not exceed the NTE or end of the leave year. The system will always give you an exception message when your leave balance is in the negative. When your supervisor goes into the system to approve your time, it is their responsibility to make a remark in the comment box noting their approval of advance leave.
+
+![Screenshot reflecting negative leave balance exception]({{site.baseurl}}/images/leave/Advanced Leave timesheet exception.png)
+
 You can find Leave Year beginning and end dates in this Office of Personnel Management (OPM) [fact sheet](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/).
 
 ### Advanced sick leave
@@ -160,7 +168,8 @@ In cases of serious disability or ailment, and when the exigencies of the situat
 * [Fact Sheet: Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)
 * [Insite: Advanced Sick Leave](https://insite.gsa.gov/portal/category/510090)
 
-## Court Leave
+## Court leave (including jury duty)
+
 * Authorized absence without charge to leave or pay
 * Must be officially requested to serve in a judicial proceeding to which the Federal, a state, or local government is party
 * Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/); this option was not previously available in Aloha.
@@ -171,9 +180,7 @@ Adjusting work schedules for religious observances is handled differently than l
 
 ## Time tracking
 
-Whenever you take "leave" — be that vacation time, holiday time, or sick time  — you should log it under the `18F FY18 Out of Office` line (# 670) category in Tock (listed below). If you are at a training or conference that comes out of your chapter's training budget, log that time under the `18F FY18 Training and Conferences` line (# 671).
-
-If your leave begins prior to the release of a timecard (before Wednesday), please send your manager an email with your time entries and they will ensure they are entered. For longer leave requests, make sure you have your time entered on the "18F Out of Office" Google calendar — Ops tracks those entries and will enter your time. If you don't enter extended leave in the "18F Out of Office" calendar Ops won't know you are out, won't enter your time, and you will be delinquent.
+Whenever you take "leave" — be that vacation time, holiday time, or sick time  — you should log it under the appropriate Out of Office category for your office in Tock. If you are at a training or conference that comes out of your chapter's training budget, log that time under the appropriate "Training and Conferences" line for your office.
 
 [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock](../tock), which is TTS's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
 

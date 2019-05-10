@@ -68,7 +68,7 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 5. [Create a Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
 
    * Select your current supervisor
-   * Select Amber Van Amburg as the first approver
+   * Select Michael Proul as the first approver
    * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),
    * Select FAS HSSO Tricia Sieveke, if the training is more than $2500 (including travel)
    * Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder
@@ -93,7 +93,7 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 5. Create a [Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
 
    * Select your current supervisor
-   * Select Amber Van Amburg as the first approver
+   * Select Michael Proul as the first approver
    * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),
    * Select FAS HSSO Tricia Sieveke, if the training is more than $2500 (including travel)
    * Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder
@@ -118,7 +118,7 @@ While you wait!   You can  . . . Make Travel Arrangements in Concur (if needed).
 5. Create a [Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
 
    * Select your current supervisor
-   * Select Amber Van Amburg as the first approver
+   * Select Michael Proul as the first approver
    * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),
    * Select FAS HSSO Tricia Sieveke, if the training is more than $2500 (including travel)
    * Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder

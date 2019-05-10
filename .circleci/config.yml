@@ -28,9 +28,11 @@ jobs:
 
       - run:
           name: checking internal links
-          # grep returns a success code if it finds any results and an error
-          # if it doesn't; we want the opposite of that
-          command: '! grep -rl "(/" _pages'
+          # grep for pages with markdown links to local pages (links with "(/").
+          # if found, fail build with error message (grep returns the opposite
+          # exit code from what we’re hoping for, so the '!' negates the
+          # expression to pass/fail the build as expected).
+          command: '! (grep -rl "(/" _pages && echo "ERROR: Internal links must be prefixed with {{site.baseurl}} to work correctly with Federalist Previews. Fix the above pages.")'
 
       - run:
           name: build site

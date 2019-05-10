@@ -32,7 +32,7 @@ title: Chicago
         </td>
         <td class="col-value">
            230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Regional Administrator is Brad Hansher.<br /><br />
-       TTS's office is in the south side of the 33rd floor.
+       TTS's office is in the south side of the 33rd floor, in an unlabeled space directly across from the mail counter. The keycode is pinned in #chitown.
         </td>
       </tr>
       <tr>
@@ -86,6 +86,8 @@ Fingerprints and badge can be done at the security office on the second floor (R
 ### <a id="enter-the-building-with-badge"></a>Enter the building with a GSA badge
 
 Your GSA ID grants you access to the building at any time between 7 a.m. and 6 p.m. After-hours access is allowed, but you will have to log your name in a guestbook. The gates are located by the elevator banks on the south side of the building.
+
+To set up turnstile access on your badge, visit room 200. You'll need to know your PIN. If you don't know your PIN, or your badge is not activated, you'll need to make an appointment at the badging office in room 212.
 
 ### <a id="onboarding"></a>Attend onboarding?
 

@@ -52,6 +52,7 @@ title: Washington, D.C.
 If you&rsquo;re coming from **Dulles International Airport (IAD)**, you can take a cab (~$80) or ride public transit, which will take about an hour and cost between $7.00 and $8.25. You can take the 5A bus from Dulles Main Terminal to the Rosslyn station on the Blue/Orange/Silver Line. You can then hop on a Metro to the Farragut West station. More information is available on the Metro site. Once outside the station, follow the directions under "Public Transit."
 
 If you&rsquo;re coming from **Thurgood Marshall Baltimore-Washington Airport (BWI)**, you can:
+
 - Take a cab (~$100)
 - Ride a MARC train ($7) to Union Station. MARC trains have a limited weekend schedule, but tickets are valid for a full calendar day— use your ticket to board any departing MARC train. From Union Station, take the Red line to Farragut North station.
 - Ride an Amtrak train to Union Station (~$15). Your ticket is for a specified time and train, which can be problematic if your flight is delayed. From Union Station, take the Red line to Farragut North station.
@@ -108,6 +109,7 @@ The location of onboarding differs based on how many people are coming into GSA.
 ### Mail something to the office?
 
 Send mail to:
+
 > General Services Administration | 1800 F ST NW | Rm 4400 | Washington, DC 20405-0001 (you can add "ATTN: Name" at top).
 
 ### Access the building after hours?
@@ -124,6 +126,10 @@ If you're expecting a small group of US citizens (fewer than 15 or so), no advan
 
 If you're expecting a large group, or if the group includes non-US citizens, you should give security advance notice.
 
+### Reserve parking for government business?
+
+In order to reserve parking for a meeting with a government colleague, email 1800FTenantSupport@gsa.gov with the driver's name, date, time, agency, and (if it's not a government vehicle) vehicle info. 2-3 business days is preferable but requests can be accommodated on less notice. Spots are located in the East Courtyard. Access the East Courtyard of the building via on E Street: it's the first right turn into the building, between Which Wich and Greenberry's.
+
 ### Register for building badge swipe access as a non-GSA federal employee?
 
 Federal employees who work for agencies other than GSA can register their PIV cards to open doors and turnstiles at 1800 F by visiting the GSA security office. OMA Security is located in the basement in **room B338**. Office hours are Monday &ndash; Thursday from 7:00 am &ndash; 3:30 pm. This is particularly useful for biking as it will allow your PIV card to open the courtyard doors from the parking lot.
@@ -134,14 +140,13 @@ Fitness center users and bicyclists who want to request a locker in the basement
 
 ### Access a printer?
 
-Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#) for more details.
+Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#heading=h.ovrvnlkhtpwh) for more details.
 
 ### Get on the wireless?
 
 The guest wireless network in the building is GSA Guest. The password changes monthly. To obtain the current password, type &ldquo;GSA Wireless&rdquo; into any room on Slack and the current password will pop up.
 
 Non-guest wireless access is available using gsa-wireless and authenticating using your ENT username (`ENT\username`) and password.
-
 
 ## Where are the&hellip;
 
@@ -216,9 +221,7 @@ Take the elevator to seventh floor for wireless and a beautiful view of the Nati
 
 ### Transit subsidy
 
-All GSA employees are eligible for transit subsidies, which cover the cost of your mass transportation travel to/from work. To receive a transit subsidy for MARC, VRE, and Commuter Buses, fill out [GSA form 3675](https://insite.gsa.gov/graphics/cpo/gsa3675_022009.pdf). The form asks for your supervisor&rsquo;s signature. For Metro, you need [GSA form 3675A](https://insite.gsa.gov/graphics/cpo/gsa3675A022009.pdf) (it will have a &ldquo;SmarTrip Card Serial Number&rdquo; field in the upper right). You must already have a SmarTrip card and have registered it on the Metro website. It should be a distinct card from what you use for personal travel.
-
-After you've obtained your supervisor&rsquo;s signature, send the completed form to [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov) for processing. It can take a while to for the subsidy to appear on your card, so do this ASAP.
+See the instructions for [enrolling or cancelling your transit subsidy benefit]({{site.baseurl}}/transit-benefit/).
 
 ### Helpful contacts
 

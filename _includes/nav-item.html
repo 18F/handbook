@@ -1,5 +1,5 @@
     <li id="{{ include.child.text | slugify }}" class="{{ include.child.text | slugify }}">
-        <a href="{% if include.child.internal %}{{ site.baseurl }}/{% endif %}{{ include.child.url }}">
+        <a href="{% if include.child.internal %}{{site.baseurl}}/{% endif %}{{ include.child.url }}">
           {{ include.child.text }}
         </a>
     </li>

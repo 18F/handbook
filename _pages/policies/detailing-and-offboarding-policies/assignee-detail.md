@@ -101,7 +101,7 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 **Average time to process detail: 2.5-3 months**
 
 ## Applying to Detail opportunities within GSA
-* To view and apply to detail opportunities within GSA go [here](https://docs.google.com/spreadsheets/d/1tvUDjm9bV42kHF7M7C7ZqA1PnI5qICnI4WBqZOMvDbU/edit?usp=sharing)
+* To view and apply to detail opportunities within GSA go [here](https://insite.gsa.gov/topics/training-and-development/opportunity-network/apply-to-an-opportunity)
   * Interested employees should ask their supervisor for approval prior to submitting an application. Employees who are interested in full-time detail opportunities should also review [eligibility requirements](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTcxMTE1LjgwOTM2MzAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE3MTExNS44MDkzNjMwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3OTEzNzM0JmVtYWlsaWQ9amFjcXVlbGluZS5jb2xlbWFuQGdzYS5nb3YmdXNlcmlkPWphY3F1ZWxpbmUuY29sZW1hbkBnc2EuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&103&&&https://docs.google.com/a/gsa.gov/document/d/1O97XOFLEoO95yrxdyMKWmdapxVxZOlaEskAmFk-KkAA/edit?usp=sharing) to participate.
 * To be notified of new detail opportunities as they are posted, join the [GSA Project Network Chatter group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F930000000Tmc6&fromEmail=1)
 * Details are typically 120 days (or less) with the option to extend for an additional 120 days if both parties agree
@@ -110,8 +110,8 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 
 ## Posting a Detail Opportunity within GSA
 * If you are considering posting a detail opportunity you should first get approval from your supervisor and the Assistant Commissioner (AC) of your office  
-* Then reach out to the [tts-talentteam@gsa.gov](mailto:TTS-talentteam@gsa.gov) to get Front Office approval
-* To post a detail opportunity, available to all of GSA, you will have to complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScLZaVX0M3X1tfbdbAL10AVf-rvzcNClRzcUtbBwzTZ7z0kJw/viewform?c=0&w=1)
+* If you plan to pay for this detail, then you must have a vacant position number available on your team 
+* To post a detail opportunity, available to all of GSA, you will have to complete [this form](https://insite.gsa.gov/topics/training-and-development/opportunity-network/post-an-opportunity)
   * If the detail opportunity has a PD (series-title-grade) associated with it, then only applicants who are at or above that grade level are eligible to apply (Project network does not allow for details to a higher grade)
   * If the opportunity does not have a PD then you will need to create and post a list of “unclassified set of duties”. Employees at any GS level will be able to apply
   * Project Network reviews all applicants for program criteria, such as supervisory permission to apply, grade level if your position is posted to specific grade, and location criteria, they do not screen applicants, that is the responsibility of the Hiring Manager
@@ -126,29 +126,7 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 
 ## Posting a Detail Opportunity within TTS
 
-The Hiring Manager is responsible for running the entire process (collecting statements of interest, interviews, etc). Once the selection is made Talent steps into process the request.
-
-* First get approval from the Assistant Commissioner (AC) of your office
-* Then reach out to the TTS-talentteam@gsa.gov to get Front Office approval
-* HM sends an email to [TTS](mailto:tts@gsa.gov) regarding detail opportunity
-  * The email should contain the Position Description (PD) the employee is being detailed to or a list of “unclassified set of duties”
-    * If the detail has a PD then the applicant must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below (if they are at the grade below, They will need to provide an updated resume and HR will need to qualify them
-      * If there is a PD you may want to add a performance profile (job description and key objectives) attachment to the email announcement
-    * If there is a list of unclassified set of duties (these are duties the detailee will perform on the job) any GS level can apply, unless the HM specifies which GS levels they are accepting.
-
-* The HM (or PoC) is responsible for:
-  * sending out the email to TTS
-  * collecting resumes and statements of interest (if either or both are required) and sending
-    * finding an interview panel
-    * scheduling interviews
-  * adding the detail information to the [TTS Open Opportunities Spreadsheet](https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit?usp=sharing)
-
-* Once interviews are complete the HM should notify [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov) on who was selected and the effective date of the detail. Talent will then submit a personnel action to HR to make the detail official
-  * The HM should confirm with the employee’s supervisor that they are OK with this person being detailed to this position
-  * The action can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
-  
-[Example of email advertising detail opportunity within TTS](https://docs.google.com/document/d/1th6-L0ovGdEVBPPeJbZkqkaXDza8ud0rs2RlSn3X7c8/edit#)
-
+To learn about this process please visit the [Hiring page]({{site.baseurl}}/hiring).
 
 --------------------------------------------------------------------------------
 

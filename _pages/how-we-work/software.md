@@ -16,6 +16,8 @@ If TTS does not have licenses, GSA might. In order to check the [GSA IT Catalog]
 
 If your software is in the Catalog, fill out the rest of the form to request a license.
 
+*Note: If you're looking for MS Office, see [this section below](https://handbook.18f.gov/software/#get-a-copy-of-microsoft-office).*
+
 ## Purchase new software
 
 If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), you will need to fill out a C2 request for TTS to purchase the software. Here's how:
@@ -62,6 +64,10 @@ The good news? You don’t have to worry about FITARA! The TTS SaaS PM and TTS O
 ### Step 3: Procurement
 
 Once all of the attachments are in C2, the TTS Saas PM will contact you to set up a meeting to purchase your software! Make sure you reached out to the finance team (ASF or FCSF) for the correct accounting code if it is not already provided in the request. 
+
+## Get a copy of Microsoft Office
+
+Please follow the instructions in this Google Document: [How to get Microsoft for OS X](https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing).
 
 ## Chrome extensions
 

@@ -34,9 +34,7 @@ title: Distributed
   </table>
 </div>
 
-
 _Before you do anything, read our [best practices for making distributed teams work](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)._
-
 
 ## <a id="how-do-i">How do I&hellip;</a>
 
@@ -46,7 +44,7 @@ TTS employees receive a MacBook and an iPhone from GSA, though you may not recei
 
 On your first day at work you should configure things so that your two-factor authentication (2FA) codes &mdash; which you&rsquo;ll occasionally need to connect to GSA&rsquo;s virtual private network (VPN) &mdash; are delivered to your cell phone. If you don&rsquo;t receive your work cell phone on day one, you&rsquo;ll need to use your personal phone. **If you do not configure 2FA you will not be able to access your email from outside of federal buildings.**
 
-To receive GSA 2FA codes on your cell phone, you can [email GSA&rsquo;s access card team](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
+See the [Equipment page]({{site.baseurl}}/equipment/#phone) for more about how to set up 2FA so you can receive GSA 2FA codes on your cell phone.
 
 ### <a id="otp">Get a one-time password?</a>
 
@@ -59,11 +57,9 @@ To get a one time password (OTP, required for logging in to some systems), you c
 
 We use a videocall for our all-hands meetings. Instructions are in the calendar event details.
 
-
 ### <a id="visit-another-gsa-building">Visit another GSA building?</a>
 
 Your badge should work in other GSA buildings. <a href="https://gsa-tts.slack.com/messages/@kathryn/">Kathryn Connolly</a> can submit paperwork to get permission for you to enter the NYC, Chicago, or D.C. buildings, which will take a few days. After you receive an email confirmation, visit the security office in that new building to activate your card.
-
 
 ### <a id="connect-to-gsa">Connect to the GSA network remotely?</a>
 

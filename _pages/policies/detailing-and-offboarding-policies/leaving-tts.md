@@ -17,7 +17,11 @@ These steps apply to all TTS employees: permanent employees, term employees who 
 
 Send an official email to your supervisor and [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov).
 
-Please include your **termination date** (the last day of your term or the last official day that you've selected), which should be at least two weeks out, and your **home address**.  This will ensure that GSA HR enters the correct information on your final SF-50 so that you can receive all of your documents on time and to the correct address.
+Please include the following information:
+
+- your **termination date** (the last day of your term or the last official day that you've selected), which should be at least two weeks out
+- your **home address**. This will ensure that GSA HR enters the correct information on your final SF-50 so that you can receive all of your documents on time and to the correct address.
+- your **personal email** so that if, or when, you wish to request your FERS refund contributions HR can correspond with you after your departure with status/updates on this request.  
 
 *Note: If you plan on taking time off during your last week, please also include those dates so that offboarding meetings can be scheduled accordingly.*
 
