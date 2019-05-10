@@ -1,5 +1,5 @@
 ---
-title: Agreements (Work In Progress)
+title: Agreements 
 ---
 
 TTS is a fee-for-service organization. Federal law requires that any agreement between agencies be recorded in some manner.
@@ -48,7 +48,7 @@ Follow the steps below. The process largely depends on how quickly the client pr
 
 ### Agreements Team Responsibilities
 
-A detailed description of the steps in the IAA and MOU process is available here [pending]
+A detailed description of the steps in the IAA and MOU process is available [here](https://docs.google.com/document/d/1cMCnTpRdEvKRDEvPtI-mcuy9u2nwLJH2FaxfJVacIVA/edit?ts=5c704921)
 
 ## Agreements Status
 
