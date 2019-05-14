@@ -113,7 +113,8 @@ These are a couple of suggested reading materials meant to give you a better sen
 
 * **Our highest duty is to our agency partners.** (Not the partners’ vendor)  We work closely with the vendor intent on developing good working relationships, AND we always prioritize our client’s best interests above all else.
 * **Vendor lock-in is bad for everyone.** We encourage our agency partners to prioritize internalizing expertise and using vendors as interchangeable complements to their own team. That includes 18F, which is also a vendor.
-* **Talk to industry!** We are comfortable having conversations with industry as the FAR advises us to do.
+* **Talk to industry!** We are comfortable having conversations with industry as the FAR advises us to do. 
+  * Do we sign **vendor non-disclosure agreements** (NDAs)? Generally, no. As government employees, we aren’t allowed to sign other companies' NDAs in our professional capacity without going through the Office of General Counsel (OGC). However, federal employees are already required to protect vendor information under [18 USC §1905](https://www.law.cornell.edu/uscode/text/18/1905).
 
 #### 18F is here for you
 
