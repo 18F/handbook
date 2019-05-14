@@ -59,7 +59,7 @@ When receiving an invitation to speak, you need to decide if you want to do the 
 ### Personal capacity
 
 - You didn't receive the invitation because of your position at TTS, but because of your expertise in the subject.
-- You won't be representing TTS/GSA .
+- You won't be representing TTS/GSA.
 - You'll refrain from discussing any official work you do at TTS/GSA or with our partners.
 - You'll use your personal leave or participate after work hours.
 - You'll prepare on your own time and use your own equipment.
