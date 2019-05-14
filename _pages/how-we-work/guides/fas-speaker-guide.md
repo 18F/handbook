@@ -12,7 +12,7 @@ tag:
 - guide
 ---
 
-*This guide was created with content from the GSA's Office of Strategic Communications (OSC) [FAS Speaker Guide](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit?usp=sharing)*
+*This guide was created with content from the GSA's Office of Strategic Communications (OSC) [FAS Speaker Guide](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit?usp=sharing).*
 
 ## Receiving invitations
 
@@ -53,16 +53,16 @@ When receiving an invitation to speak, you need to decide if you want to do the 
 ### Professional capacity
 
 - You'll participate as a TTS employee and discuss the work you do on behalf of GSA and our partners.
-- You'll be using GSA funds to travel to the event or pay for conference fees
-- You'll prepare during your work time and use GSA equipment
+- You'll be using GSA funds to travel to the event or pay for conference fees.
+- You'll prepare during your work time and use GSA equipment.
 
 ### Personal capacity
 
 - You didn't receive the invitation because of your position at TTS, but because of your expertise in the subject.
-- You'll not be representing TTS/GSA 
-- You'll refrain from discussing any official work you do at TTS/GSA or with our partners
-- You'll use your personal leave or participate after work hours
-- You'll prepare on your own time and use your own equipment
+- You won't be representing TTS/GSA.
+- You'll refrain from discussing any official work you do at TTS/GSA or with our partners.
+- You'll use your personal leave or participate after work hours.
+- You'll prepare on your own time and use your own equipment.
 
 ## Getting approval when speaking in your professional capacity
 
@@ -71,7 +71,7 @@ If you and your supervisor decide this is a good oportunity for yourself and TTS
 - Who is sponsoring the event?
 - Why do they want you/GSA to participate?
 - Who else is on the agenda? Who would be speaking right before and after you?
-- Will there be press at the event/at the specific session? (Read this document about handling press at events.)
+- Will there be press at the event/at the specific session? ([Read this document about handling press at events](https://docs.google.com/document/d/1vizKnLdE-mPBSgv-zUMDF5zuLXV_52hjC8cjAkpexfo/edit))
 - Will gifts (meals, awards, souvenirs, honoraria, travel expenses) be provided? What is the cost of the items (even if they are free for all attendees or free for all speakers)?
 - Is there a fee to attend? Is the fee waived for government attendees/speakers?
 - If it is a panel or roundtable: Who are the other participants? Who is the moderator? What questions will be asked?
@@ -83,6 +83,6 @@ Once you have determined you have good reasons to speak and have decided to acce
 - There is a general prohibition on receiving compensation for personal capacity speaking on a subject that relates to your official duties. Free/waived attendance or registration fee is not compensation.
 - You can accept travel and event-related expenses from the sponsor or organizer, but would also need to take leave to attend.
 - You can use title/position in conjunction with your speaking activities, but only if provided as one of a number of other biographical details. Bottom line is that it should be clear that you are not representing GSA when speaking in your personal capacity.
-- You can include your office/team in your bio that is included on the conference website, but you cannot be listed in the agenda as “Dominic Sale, TTS/GSA”
+- You can include your office/team in your bio that is included on the conference website, but you cannot be listed in the agenda as “Dominic Sale, TTS/GSA.”
 
 For the FAQ and other things to know check out [the full guide](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit?usp=sharing).
