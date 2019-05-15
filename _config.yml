@@ -397,9 +397,6 @@ navigation:
       - text: Product +
         url: product/
         internal: true
-      - text: Product and open source
-        url: intro-to-product-and-open-source/
-        internal: true
       - text: Strategy
         url: strategy/
         internal: true
@@ -471,7 +468,10 @@ navigation:
       - text: One-on-ones
         url: one-on-ones/
         internal: true
-      - text: Open source
+      - text: Intro to open source
+        url: intro-to-open-source/
+        internal: true
+      - text: Open source policy
         url: https://github.com/18F/open-source-policy/blob/master/policy.md
         internal: false
       - text: Out of office expectations
