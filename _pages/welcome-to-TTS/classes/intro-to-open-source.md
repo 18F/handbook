@@ -1,31 +1,12 @@
 ---
-title: Intro to Product and open source
-navtitle: Product and open source
+title: Intro to open source
+navtitle: Open source
 tags:
-- product guide
+- open source
 - guide
-- product manager
 ---
 
-_Guide for the Product Team and how we utilize open source software at TTS_
-
-## <a id="product-team">Product team</a>
-
-As a product manager at 18F, you will create or steward the product vision and strategy, and drive a cross-functional team to deliver the right product to the right audience. You will also focus on sustainability: Anything we build should empower our partner agencies to better meet their mission, be relatively easy for them to adopt and support, and be easy for end users to use. 
-
-### How we work and what we do
-
-Check out the [Product Guide](https://product-guide.18f.gov/) for an in depth look at how we work and how we help our business partners.
-
-### How to get in touch with us
-
-The Product Team hangs out in [#product](https://gsa-tts.slack.com/messages/product/).
-
-You can see who is on the Product Team [on the org chart]({{site.baseurl}}/org-chart).
-
-## <a id="open-source">Open source</a>
-
-### What is open source software?
+## What is open source software?
 
 Broadly speaking, open source software is software whose inner workings are made fully public and distributed freely to the community. As an open source team, the software 18F writes is made public (mostly at https://github.com/18f), and we welcome anyone to use that software, copy it, and change it.
 
