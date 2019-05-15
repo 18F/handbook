@@ -1,4 +1,4 @@
-FROM ruby:2.6
+FROM ruby:2.6.1
 
 # Node is required for search. Federalist uses version 10, match that: https://github.com/nodesource/distributions/blob/master/README.md
 RUN curl -sL https://deb.nodesource.com/setup_10.x | bash -
