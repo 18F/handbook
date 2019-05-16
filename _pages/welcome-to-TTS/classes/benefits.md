@@ -160,7 +160,7 @@ If you served as an AmeriCorps VISTA volunteer, a Peace Corps Volunteer, and/or 
 
 As an example, if you served in the Peace Corps for 2 years and buy back your service, that amount of time would be considered creditable service and would increase your “length of service” [FERS payment calculation](https://www.opm.gov/retirement-services/fers-information/computation/).
 
-The calculations for FERS retirement can be complex, and there is paperwork to complete. We recommend carefully reviewing all information and talking to HR personnel as needed. Visit the following websites, Slack channels, and contact HR at [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
+The calculations for FERS retirement can be complex, and there is paperwork to complete. We recommend carefully reviewing all information and talking to HR personnel as needed. Visit the following websites, Slack channels, and contact [Mary Robinson (GSA HR)](mailto:marya.robinson@gsa.gov).
 
 * [AmeriCorps VISTA](https://www.vistacampus.gov/resources/federal-jobs-and-noncompetitive-eligibility)
 * [Military service](https://www.dfas.mil/civilianemployees/militaryservice/militaryservicedeposits.html) and [#vets](https://gsa-tts.slack.com/messages/vets)
