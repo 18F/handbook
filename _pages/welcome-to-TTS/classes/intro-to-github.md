@@ -61,3 +61,12 @@ Another pro tip: Search the existing issues before you add one. It may make more
 To submit an issue, Log in, find the appropriate repo on GitHub, and click the Issues tab in the right column. Then, click the New Issue button. Your issue should have a title and explainer text. You&rsquo;ll probably know what to put there, but teams sometimes have guidance on how to format issues or things to include. The [#blog](https://gsa-tts.slack.com/archives/blog), for example, has [a specific set of things we require](https://github.com/18F/blog-drafts#readme) submissions to have before we&rsquo;ll consider them.
 
 Final pro tip: If your project wants issues formatted in a specific way, you can add an issue template file. [This is the one we have for filing new blog post ideas](https://github.com/18F/blog-drafts/blob/master/ISSUE_TEMPLATE.md). Every new post auto-fills with that information.
+
+### 4. Transferring a repository
+Often during the course of working with and transitioning projects to partners, an `18F`-owned Github repository will need to be transferred to the ownership of the partner. A "Transfer" is the recommended approach since it will include Issues, Pull Requests, and other Github metadata and history that won't be captured by just cloning the `git` respository which only contains the code.
+
+#### Transferring to another organization on Github.com
+This is a simple process that can be initiated in the Github user interface, but requires a user with `ownership` permissions to the Github repository in question (a higher level of access than `admin`). For help transferring a repository, please send a message to [#admins-github](https://gsa-tts.slack.com/archives/admins-github). More details can be found on [Github](https://help.github.com/en/articles/transferring-a-repository).
+
+#### Transferring to Github Enterprise
+Unfortunately, transferring repositories from Github.com to Github Enterprise cannot be done via the Github user interface and requires a process that relies on the Github API. Access to the migration [API](https://developer.github.com/v3/migrations/orgs/) will require `ownership` permissions to the repository in question on both sides of the transfer. Please coordinate with [#admins-github](https://gsa-tts.slack.com/archives/admins-github) and partner administrators to facilitate this type of transfer. See [Github](https://help.github.com/enterprise/2.2/admin/articles/moving-a-repository-from-github-com-to-github-enterprise) for more details.
