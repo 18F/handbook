@@ -120,7 +120,7 @@ Go to the F Street entrance, where 24/7 access is available.
 
 Use [BookIt](https://bookit.gsa.gov) to reserve rooms. Avoid booking rooms:
 
-* 1471, 1472, and 1481 &mdash; they're only accessible via 3rd wing)
+* 1471, 1472, and 1481 &mdash; they're only accessible via the 3rd wing
 * x3xx rooms &mdash; they're really far away from TTS and aren&rsquo;t easily accessible 
 * x0xx rooms &mdash; they're not as up-to-date as other wings
 
