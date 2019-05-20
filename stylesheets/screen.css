@@ -35,11 +35,11 @@ a:visited{  color: #8d0058; }
 	left: -9999em;
 }
 ::selection {
-  background: #ffe4c5; /* WebKit/Blink Browsers */
+  background: #ebebeb; /* WebKit/Blink Browsers */
 }
 
 ::-moz-selection {
-  background: #ffe4c5; /* Gecko Browsers */
+  background: #ebebeb; /* Gecko Browsers */
 }
 
 a.button[href^="https://gsa-tts.slack.com"]::before{
@@ -158,7 +158,6 @@ img { max-width: 100%; }
 
 .site-header{
 	padding: 4px 0 6px;
-	border-bottom: 1px solid #006d47;
 	background: #006f49;
 	background: linear-gradient(#007f5d, #006f49);
 	color: #fff;
@@ -184,7 +183,7 @@ img { max-width: 100%; }
 
 .site-header form .field{
 	position: relative;
-	background-color: #003629;
+	background-color: #EBEBEB;
 	border-radius: 99em;
 }
 
@@ -202,7 +201,7 @@ html body .site-header form input{
 	appearance: none;
 	border: none;
 	border-radius: 999em;
-	box-shadow: 0 1px 0 #007f5d;
+	box-shadow: 0 1px 0 #3E3E3E;
 	display: block;
 	width: 100% !important;
 	height: 32px;
@@ -211,7 +210,7 @@ html body .site-header form input{
 	font-size: 18px !important;
 	padding: 0;
 	padding-left: 28px !important;
-	color: #aaa;
+	color: #3E3E3E;
 }
 
 *::-webkit-input-placeholder{
@@ -250,7 +249,7 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
     bottom: 9px;
     top: auto;
     left: 10px;
-    color: white;
+    color: #202020;
 	position: absolute;
 	margin-top: -0.5em;
 }
@@ -259,7 +258,7 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 .search-interface form .is-focused input,
 .site-header form .is-focused label::before,
 .search-interface form .is-focused label::before{
-	color: white;
+	color: #202020;
 }
 
 .site-header form button{
@@ -621,7 +620,7 @@ a[id]{
 	font-size: 36px;
 	font-weight: 600;
 	line-height: 1.125em;
-	color: #383838;
+	color: #202020;
 	letter-spacing: -1px;
 	max-width: 640px;
 	position: relative;
@@ -642,7 +641,7 @@ a[id]{
 	font-size: 21px;
 	line-height: 1.3em;
 	font-family: Merriweather, Georgia;
-	color: #c56815;
+	color: #046B99;
 	margin: 28px 0 16px;
 }
 
@@ -970,13 +969,13 @@ a[id]{
 	}
 
 	.layout-table-of-contents .site-header{
-		background: #007f5d;
-		background: linear-gradient(#007f5d, #008c56);
+		background: #202020;
 		color: #fff8ce;
 		padding: 1.4em 0 1.8em;
 	}
 
 	.layout-table-of-contents .site-header p{
+		color: #D8F7FF;
 		line-height: 1.25em;
 		max-width: 640px;
 		margin: 0 auto 1em;
@@ -991,7 +990,6 @@ a[id]{
 		padding-bottom: 0.33em;
 		display: block;
 		letter-spacing: -0.03em;
-		text-shadow: rgba(0,99,173,0.5) 2px 2px 0;
 		max-width: 640px;
 		margin: 0 auto;
 		position: relative;
@@ -1102,9 +1100,9 @@ a[id]{
 	font-weight: 600;
 	padding-top: 1em;
 	margin-bottom: 0.4em;
-	border-top: 0.2em solid #f2f0e3;
+	border-top: 0.2em solid #D8F7FF;
 	margin-top: 1em;
-	color: #51322a;
+	color: #202020;
 }
 
 .layout-table-of-contents ol li:first-of-type h1{
@@ -1116,7 +1114,7 @@ a[id]{
 	font-size: 24px;
 	font-weight: 600;
 	margin-top: 1em;
-	color: #006d47;
+	color: #046B99;
 }
 
 .layout-table-of-contents ol h3{
