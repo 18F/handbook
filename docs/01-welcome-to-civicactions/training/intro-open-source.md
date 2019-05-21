@@ -18,7 +18,7 @@ For example, whitehouse.gov is powered by Drupal. Drupal publishes their softwar
 
 ## CivicActions believes in Free and Open Source Software 
 
-CivicActions uses and works with FOSS whenever possible, and we believe in becuase
+CivicActions uses and works with FOSS whenever possible, and we believe in because
 
 * FOSS has zero lock-in
 * FOSS is arguably more secure
