@@ -33,8 +33,6 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-[TTS Technology Portfolio Director](https://docs.google.com/document/d/1YO-qi9R2kI_K3UlX_KjEiRB0ejlaoqCL8d-mfS8VkNQ/edit) - Application Close: Tuesday, May 21, 2019
-
 [TTS - Talent Acquisition Specialist](https://docs.google.com/document/d/17UHj_GoyStXRMTzovkXVR_DDm4Nu4kHxQhV44SNbmDM/edit?usp=sharing) - Application Close: Open until filled
 
 [TTS - Talent Engagement Specialist](https://docs.google.com/document/d/1H9CNaf4jm3KQB6TmXJgyGAJBta5XX8PuvzYqYfY02PU/edit?usp=sharing) - Application Close: Open until filled
