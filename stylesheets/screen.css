@@ -354,8 +354,8 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 
 .page-outdated {
 	padding: 4px 0;
-	background: #FEC42C;
-	color: #000;
+	background: #D8F7FF;
+	color: #202020;
 	text-align: center;
 }
 
