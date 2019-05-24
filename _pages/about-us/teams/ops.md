@@ -1,5 +1,6 @@
 ---
 title: Ops
+outdated: true
 ---
 
 _Team Ops (Operations) handles all activities related to travel, non-travel purchases, legal matters, and equipment requests._

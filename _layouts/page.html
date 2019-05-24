@@ -3,8 +3,9 @@
   {% include head.html %}
   <body class="no-js layout-article layout-article-{{ page.title | slugify }}">
     <a class="a-skip-to-main" href="#main">Skip to main content</a>
-    {% include site-header.html %}
-    {% if page.breadcrumbs %}{% guides_style_18f_include breadcrumbs.html %}{% endif %}
+    {% include site-header.html %} {% if page.breadcrumbs %}{%
+    guides_style_18f_include breadcrumbs.html %}{% endif %} {% include
+    page-outdated.html %}
     <main class="article" role="main" id="main">
       <div class="page">
         <div class="wrapper">
