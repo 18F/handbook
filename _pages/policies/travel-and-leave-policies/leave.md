@@ -54,7 +54,7 @@ You must be on the GSA wireless network or on the Windows virtual desktop (acces
 - Court leave can be requested in HR Links; this was not a feature in Aloha
 - Clicking Absence/OT history shows all requests
 - Aloha is now in read-only mode; your time off history can be found there
-- HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. (Federalretirement.net)[http://www.federalretirement.net/leave-record.htm] has an easy to use spreadsheet that employees may use as a back up to HRLinks.
+- HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. [Federalretirement.net](http://www.federalretirement.net/leave-record.htm) has an easy to use spreadsheet that employees may use as a back up to HRLinks.
 
 ## Leave
 
