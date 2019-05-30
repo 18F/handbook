@@ -223,7 +223,8 @@ High-severity incidents successfully compromise the confidentiality/integrity of
 
 *   Confirmed breach of SPII
 *   Successful root-level compromise of production systems
-*   Denial of Service attacks resulting in severe outages
+*   Critical business function outage or severe performance degradation
+*   Improper privilege escalation
 
 Guidelines for addressing High-sev issues:
 
@@ -248,9 +249,10 @@ Guidelines for addressing Medium-sev issues:
 
 #### 3 - Low Severity
 
-Low-sev incidents don't affect SPII, and have no availability or financial impact. Examples include:
+Low-sev incidents don't affect SPII, have little availability and no financial impact. Examples include:
 
 *   Attempted compromise of non-important systems (staging/testing instances, etc.)
+*   System degradation of non-critical systems
 *   Incidents involving specific employees
 *   DoS attacks with no noticeable customer impact
 
