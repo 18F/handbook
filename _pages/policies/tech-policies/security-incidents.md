@@ -37,8 +37,6 @@ To report a security incident, follow *all* of the steps below:
 
 1. Report the incident in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 
-1. [Send a Slack DM to Erik Burgess (@erik)](https://gsa-tts.slack.com/messages/@erik/) in TTS Infrastructure with a _very short description_ of the incident.
-
 1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible, excluding sensitive data**.
   * Keep this issue up to date by adding comments with appropriately summarized actions or information from interactions with the GSA IR team. GSA IR must be emailed updates as incidents unfold. Please do not rely on GitHub to communicate with the GSA IR team. GitHub should be used to document communications with GSA IR, not used in place of email communications.
   * **If you suspect sensitive data is part of the security incident that you're reporting, you must create a GSA Google Drive folder and share it with devops@gsa.gov and gsa-ir@gsa.gov ONLY**. To do this, ensure you're creating the folder as part of "My Drive" and not within a pre-existing folder. Use this GSA Google Drive folder for any potentially sensitive data and/or files. Add static files, Google Docs, or Google Sheets as appropriate, and add a comment to any information you think is critical to the investigation.
