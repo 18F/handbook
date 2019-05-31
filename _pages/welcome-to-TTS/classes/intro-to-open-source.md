@@ -4,6 +4,7 @@ navtitle: Open source
 tags:
 - open source
 - guide
+outdated: true
 ---
 
 ## What is open source software?
