@@ -89,7 +89,7 @@ In the center "core" of each floor. You will need your badge to get back.
 
 ### Mother’s rooms
 
-To be determined.
+There's a mother's room on the 54th floor on the southeast side. It has outlets, a sink, and a fridge. Ideally you should book time in the room with BookIt.
 
 ### Snacks and drinks
 
