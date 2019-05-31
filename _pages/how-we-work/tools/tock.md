@@ -109,7 +109,7 @@ Working more than 32 billable hours is just fine! 32 is the minimum. However, we
 
 - Before you work those extra hours, please to your lead to figure out if and how much over 40 you can work
 - Get your supervisor's approval in writing
-- Email approval to Leah Gitter, who will adjust Tock setting to allow for 40+ hours to be recorded
+- Request overtime in #tock. The tock admin will adjust Tock setting to allow for 40+ hours to be recorded
 - Tell your project's AM too so they can adjust the project's financial accounting
 - Work your week!
 - Log total hours in Tock
