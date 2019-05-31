@@ -33,15 +33,11 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-[TTS - Talent Acquisition Specialist](https://docs.google.com/document/d/17UHj_GoyStXRMTzovkXVR_DDm4Nu4kHxQhV44SNbmDM/edit?usp=sharing) - Application Close: Open until filled
 
-[TTS - Talent Engagement Specialist](https://docs.google.com/document/d/1H9CNaf4jm3KQB6TmXJgyGAJBta5XX8PuvzYqYfY02PU/edit?usp=sharing) - Application Close: Open until filled
 
 ### Internal Only Competitions
 
-[18F - Content Designer Supervisor](https://docs.google.com/document/d/1Z7d6X5Q-3SmHu7DXH0VVsIqel_uJZbb61jnpD-p39Ik/edit?usp=sharing) - Application Close: Thursday, 5/30 at 5PM ET
-
-[TTS - Technology Portfolio Specialist](https://docs.google.com/document/d/1G05MxLIwxhoFDXkCt3zdaDHM_tHdtFA9NWkQMb0dl8Q/edit?ts=5ce568bd) - Application Close: Wednesday, 5/29 at 11:59PM ET
+[TTS - Technology Portfolio Specialist](https://docs.google.com/document/d/1G05MxLIwxhoFDXkCt3zdaDHM_tHdtFA9NWkQMb0dl8Q/edit?ts=5ce568bd) - Application Close: Friday, 5/31 at 5PM ET
 
 [TTS OA Micro-purchase Manager](https://docs.google.com/document/d/1f6Yn8ttzkuTd0_7EzdGHVqAbyzFzaBcJfqO6nUQcD5c/edit?usp=sharing) - Application Close: Open until filled
 
