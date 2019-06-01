@@ -32,7 +32,9 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-_There are currently no external competitions open._
+- [IT Specialist (INFOSEC)- perm](https://www.usajobs.gov/GetJob/ViewDetails/535392100) - Application Close: Friday, 6/7 at 11:59 ET
+
+- [IT Specialist (INFOSEC)- term](https://www.usajobs.gov/GetJob/ViewDetails/535406200) - Application Close: Friday, 6/7 at 11:59 ET
 
 ### Internal only competitions
 
