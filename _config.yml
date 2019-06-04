@@ -459,6 +459,9 @@ navigation:
       - text: Doing research at 18F
         url: research-guidelines/
         internal: true
+      - text: How we collaborate
+        url: how-we-collaborate/
+        internal: true
       - text: How we relate to partners
         url: how-we-relate-to-partners/
         internal: true
