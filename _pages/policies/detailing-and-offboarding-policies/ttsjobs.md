@@ -38,11 +38,15 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Internal only competitions
 
+- [Defense & Intelligence Portfolio Director](https://docs.google.com/document/d/1X-lZFE_EgmYbT9fdmPLAT8wTkjMZV8hkqgCu_Wa0qsc/edit#heading=h.4lyhqonieojy) - Application Close: Friday, 6/14 at 11:59 PT
+
 - [TTS - Technology Portfolio Specialist](https://docs.google.com/document/d/1G05MxLIwxhoFDXkCt3zdaDHM_tHdtFA9NWkQMb0dl8Q/edit?ts=5ce568bd) - Application Close: Friday, 6/7 at 5PM ET
 
 - [TTS OA Micro-purchase Manager](https://docs.google.com/document/d/1f6Yn8ttzkuTd0_7EzdGHVqAbyzFzaBcJfqO6nUQcD5c/edit?usp=sharing) - Application Close: Open until filled
 
 ## Partner information & opportunities
+
+[CA Office of Digital Innovation](https://www.govops.ca.gov/innovation/) 
 
 **United States Digital Service (USDS)**
 
