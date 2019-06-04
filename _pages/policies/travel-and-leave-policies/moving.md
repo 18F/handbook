@@ -1,5 +1,5 @@
 ---
-title: Teleworking and Moving
+title: Teleworking and moving
 tags:
 - moving
 - move
@@ -18,13 +18,13 @@ tags:
 - FTT
 ---
 
-The official GSA processes for moving and for full-time teleworking have recently changed.  If you need to move or submit a new full-time telework arrangement (FTTA), click on the link below that best reflects your situation.  Please follow all guidance below the starting point.
+If you need to move or submit a new full-time telework arrangement (FTTA), follow the guidance for your situation.
 
 * [A full-time telework employee who is moving to a new full-time telework location]({{site.baseurl}}/moving/#a-full-time-telework-arrangement-is-needed) 
 * [A full-time telework employee who is moving to one of our offices (DC, CHI, NYC or SFO)]({{site.baseurl}}/moving/#effective-date)
 * [An office employee who is moving to a full-time telework location]({{site.baseurl}}/moving/#a-full-time-telework-arrangement-is-needed)
 * [An office employee who is moving to a different office]({{site.baseurl}}/moving/#effective-date)
-* [An office employee who's home address is changing but not their work location]({{site.baseurl}}/moving/#change-your-address)
+* [An office employee whose home address is changing but not their work location]({{site.baseurl}}/moving/#change-your-address)
 
 *Please note that full approval can take a significant period of time and is not guaranteed, so we highly recommend that you don't finalize plans to move until receiving full approval.*
 
@@ -32,14 +32,13 @@ The official GSA processes for moving and for full-time teleworking have recentl
 
 * For new hires that will work from a telework duty station, i.e. not working from one of our offices (DC, CHI, NYC or SFO)
 * If your telework duty station is changing (even if the move is just down the street)
-* It is not required if you are moving to one of our offices (DC, CHI, NYC or SFO)
+* Not required if you are moving to one of our offices (DC, CHI, NYC or SFO)
 * If the number of approved trips on your original FTTA is increasing
 * If you're a full-time telework employee and your position changes due to a reassignment, PD change or a promotion
 
 ### How to fill out a Full-time Telework Arrangement
 
-Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit) for completing the FTTA Form.  Please see below for a comprehensive list of when a FTTA is required and for tips on filling it out.  
-
+Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit) for completing the FTTA Form.  Please see below for a comprehensive list of when a FTTA is required and for tips on filling it out.
 
 ### Things to note when completing the FTTA
 
@@ -88,21 +87,19 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 ## Change your address
 
-1. Change your home address in [HR Links](https://corporateapps.gsa.gov/hr-links/); payroll and OPM interfaces will be notified of your new address. ***For the step-by-step process with images, follow Topic 1.2 of the [HR Links Guide](https://drive.google.com/open?id=1aLbT84hNuwsjgHFmGYS3ggBviay8vh1_).***
+1. Change your home address in [HR Links](https://corporateapps.gsa.gov/hr-links/). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow Topic 1.2 of the [HR Links Guide](https://drive.google.com/open?id=1aLbT84hNuwsjgHFmGYS3ggBviay8vh1_).***
 
-    - After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options in a pulldown menu, select this one).
-    - You'll see in the upper right corner of your HR Links screen, is a compass icon. That is your NavBar. Click that.
-    - Select Navigator > Self Service > Personal Information > Address Change.
-    - Click edit address, make your change, and submit.
-    - Click submit on main address page and you'll see a confirmation page pending approval of your address change.
+  - After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options, select this one).
+  - In the upper right corner of your HR Links screen is a compass icon. That is your NavBar. Click that.
+  - Select Navigator > Self Service > Personal Information > Address Change
+  - Click edit address, make your change, and submit
+  - Click submit on main address page and you'll see a confirmation page pending approval of your address change
     
-2. Once you submit the request in HR links, please email marya.robinson@gsa.gov who will confirm your submission went through
+2. Once you submit the request in HR links, please email marya.robinson@gsa.gov who will confirm your submission went through.
 
-3. Once your move is effective in GSA systems (SF50/CHRIS), change your state tax withholding by contacting the payroll office at <mailto:KC-Payroll.Finance@gsa.gov>.  *Note:  Skip this step if you are an office employee who’s home address is changing but not your work location; it only applies if your move will have an impact on your state tax withholding*
+3. Once your move is effective in GSA systems (SF50/CHRIS), change your state tax withholding by contacting the payroll office at <mailto:KC-Payroll.Finance@gsa.gov>.  *Note:  Skip this step if you are an office employee who’s home address is changing but not your work location; it only applies if your move will have an impact on your state tax withholding.*
 
-4. To notify the Thrift Savings Program (TSP) of your new address, email it to both the Consolidated Processing Center at <mailto:cpc.personnel@gsa.gov> and to the payroll office at <mailto:KC-Payroll.Finance@gsa.gov>. Payroll will notify the TSP office of your new address.
-
-5. Contact your health insurance, dental insurance, and any other insurances you may have and let them know about your address change. You will also need to verify that your insurance will be valid in your new location or you will need to change it. Contact GSA HR at [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) if you have any questions.  
+4. Contact your health insurance, dental insurance, and any other insurances you may have and let them know about your address change. You will also need to verify that your insurance will be valid in your new location or you will need to change it. Contact GSA HR at [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) if you have any questions.  
 
 ## Change your Slack location
 
