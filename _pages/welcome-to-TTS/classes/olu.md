@@ -24,6 +24,8 @@ Required classes will be assigned in OLU and pushed individually to the OLU home
 * Plain Language
 * What is Record Management?
 
+[Here](Insite.gsa.gov/mandatorytraining) is a full list of all GSA mandatory employee and supervisor trainings
+
 ### Affects Designated Employees and other Compliance Tasks
 * Telework Training
 
