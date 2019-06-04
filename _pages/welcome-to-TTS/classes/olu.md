@@ -26,6 +26,11 @@ Required classes will be assigned in OLU and pushed individually to the OLU home
 
 [Here](Insite.gsa.gov/mandatorytraining) is a full list of all GSA mandatory employee and supervisor trainings
 
+### Trainings offered by GSA
+[Here](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing) is a list of an array of classes offered by GSA. These classes are open to all GSA employees on a first come, first served basis and most are virtual to make it accessible to everyone.  
+
+This list is updated on a weekly basis to stay current. 
+
 ### Affects Designated Employees and other Compliance Tasks
 * Telework Training
 
