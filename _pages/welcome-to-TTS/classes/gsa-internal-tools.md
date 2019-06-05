@@ -50,7 +50,7 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
       <td>ENT username and password</td>
     </tr>
     <tr>
-      <td><a href="/gsa-internal-tools/#online-university">Online University</a></td>
+      <td><a href="{{site.baseurl}}/olu/">Online University</a></td>
       <td>To take mandatory trainings for federal employees</td>
       <td>ENT username and password</td>
     </tr>
@@ -122,7 +122,6 @@ If you have any issues with a GSA-maintained system or website, you'll need to c
 
 If you need to reset your ENT password, you can let your password expire and then change it through the Mac popup window. This will not cause you any issues. And if you're on a Mac and change your ENT password, once you log out and log back in, make sure you're on the GSA-wireless network (_not_ GSA-guest) so that you can re-authenticate.
 
-
 ## <a id="meeting-space">Meeting Space</a>
 
 <a href="https://meet.gsa.gov/">Meeting Space</a> is the service you'll use to create your own conference call line. Here&rsquo;s how to do that:
@@ -136,12 +135,6 @@ If you need to reset your ENT password, you can let your password expire and the
 7. If the table is empty, your profile hasn't been created yet. Otherwise, click the audio profile name to see your conference line number and passcodes.
 
 While this process can take up to eight days, the upshot is that your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you *do not* need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code.
-
-## <a id="online-university">Online Learning University (OLU)</a>
-
-All General Services Administration (GSA) employees are required to take mandatory training courses through the [GSA&rsquo;s Online Learning University (OLU)](https://gsaolu.gsa.gov) which provide critical information about how we work in the federal space.
-
-For more information, reference the [OLU]({{site.baseurl}}/olu) page.
 
 ## Office supplies
 
