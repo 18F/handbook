@@ -6,14 +6,18 @@ tags:
 - mandatory
 ---
 
-The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for mandatory trainings, as well as a repository of recommended and optional training opportunities, for GSA employees. Time spent taking OLU trainings should be coded as `969 - GSA-mandated Non-Billable Work` in [Tock]({{site.baseurl}}/tock).
+The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for mandatory trainings, as well as a repository of recommended and optional training opportunities, for GSA employees.
 
+## <a id="online-university">Online University (OLU) classes</a>
 
-## <a id="online-university">Online University (OLU)</a>
+Required classes will be assigned in OLU and pushed individually to the OLU home page of TTS employees under **My Learning Assignments**.
 
-Required classes will be assigned in OLU and pushed individually to the OLU home page of TTS employees under **My Learning Assignments**. The following is an overview of required courses:
+Time spent taking OLU trainings should be coded as `969 - GSA-mandated Non-Billable Work` in [Tock]({{site.baseurl}}/tock).
 
-### Mandatory Annual Training for All Employees
+*GSA OLU training material sometimes has trouble with certain browsers. We recommend using [VmWare Horizon]({{site.baseurl}}/vmware-horizon) and Internet Explorer or, on Mac, Safari, to ensure successful course completion and documentation.*
+
+### Mandatory annual trainings for all employees
+
 * Annual Ethics Training
 * Controlled Unclassified Information
 * COOP Awareness Training
@@ -23,14 +27,18 @@ Required classes will be assigned in OLU and pushed individually to the OLU home
 * Occupational Health and Safety
 * Plain Language
 * What is Record Management?
+* Telework Training (required for all telework-eligible employees, which is most people)
 
-### Affects Designated Employees and other Compliance Tasks
-* Telework Training
+[You can see a full list of all GSA mandatory employee and supervisor trainings on Insite.](https://insite.gsa.gov/employee-resources/training-and-development/mandatory-training)
 
-*NOTE: GSA OLU training material sometimes has trouble with certain browsers. We recommend using [VmWare Horizon]({{site.baseurl}}/vmware-horizon) and Internet Explorer or, on Mac, Safari, to ensure successful course completion and documentation.*
+### Trainings offered by GSA
 
+GSA also offers [optional training classes](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing). These classes are open to all GSA employees on a first come, first served basis and most are virtual to make it accessible to everyone.  
+
+This list is updated on a weekly basis. 
 
 ## Help with OLU
+
 For help with OLU once you've logged in, including getting confirmation of classes taken, click on the **Learning** dropdown at the top of the window and then select **Live Support 24/7**.
 
 *Note that there could be a lag time of about four days between completing courses in OLU and having those courses reflected in your profile.*
