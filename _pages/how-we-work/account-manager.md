@@ -2,7 +2,9 @@
 title: Account Management at 18F
 ---
 
-Account Managers (AMs) at 18F are the connective tissue across 18F projects that allow us to build long-term relationships with partners and consistently help 18F project teams deliver value. Because of the number of projects they are involved with, AMs serve as hubs of institutional knowledge for project teams. 
+Account Managers (AMs) at 18F are the connective tissue across 18F projects that allow us to build long-term relationships with partners and consistently help 18F project teams deliver value.
+
+Because of the number of projects they're involved with, AMs serve as hubs of institutional knowledge for project teams. 
 
 ## Different roles at different times
 
@@ -81,7 +83,7 @@ If you’re worried about your project, bring up any concerns or blockers with y
 
 ## Resources for Account Managers
 
-- [Custom Parnterships Tracker Trello board](https://trello.com/b/kZ7PUggv/custom-partnerships-tracker)
+- [Custom Partnerships Tracker Trello board](https://trello.com/b/kZ7PUggv/custom-partnerships-tracker)
 - [Project resources Drive folder](https://drive.google.com/drive/u/0/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361)
 - [Cost estimator templates](https://docs.google.com/spreadsheets/d/11yeM0k6bLKVmvkmN2JM-a26a0S-7QwSwImM7saaV1EY/edit#)
 - [SOW templates](https://drive.google.com/drive/u/0/folders/1tDBr9Evh4ZGPqlJUxirlzyGtnoXtf6wS)
