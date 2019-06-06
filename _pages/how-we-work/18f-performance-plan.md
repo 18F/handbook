@@ -4,11 +4,13 @@ title: 18F Performance Plan (for FY19)
 
 [Performance plans](https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/planning/a-checklist-for-performance-plans/) are documents we use to communicate expectations, structure feedback, and evaluate employee performance during our annual review cycle (which aligns with the government [fiscal year](https://www.senate.gov/reference/glossary_term/fiscal_year.htm)).
 
-All TTS staff are evaluated according to TTS-level measures in addition to the 18F-level Performance Plan. The **critical elements** are consistent across all levels.
+All TTS staff are evaluated according to TTS-level measures in addition to the 18F-level measures listed here. The **critical elements** are consistent across all levels.
 
 ## Critical elements
 
 ### Results Driven
+
+*Deliver good project work and define success.*
 
 Level 3:
 
@@ -30,6 +32,8 @@ Level 5:
 
 ### Leading People
 
+*Share expertise in order to drive technology transformation in partner agencies.*
+
 Level 3:
 
 - Shares expertise beyond TTS through effective modeling and coaching of core 18F methodologies (such as human-centered design, iterative development, product ownership, secure practices, working in the open, and modern acquisition practices) AND
@@ -47,6 +51,8 @@ Level 5:
 
 ### Business Acumen
 
+*Support 18F's cost recovery and financial stability.*
+
 Level 3:
 
 - Consistently meets targets for billable hours as assigned
@@ -62,6 +68,8 @@ Level 5:
 - Positions the organization for future success by identifying at least one new or expanded opportunity that leads to a signed agreement
 
 ### Leading Change
+
+*Proactively improve our practices and problem-solve organizational issues.*
 
 Level 3:
 
@@ -80,6 +88,8 @@ Level 5:
 - Changes processes or resources to meaningfully improve how TTS or GSA function (beyond assigned project work).
 
 ### Building Coalitions
+
+*Works to create and participate in agile, cross-functional, and inclusive teams.*
 
 Level 3:
 
