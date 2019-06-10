@@ -10,6 +10,7 @@ _The objective of FITARA policy is to improve the management of IT within an age
 
 ## What is FITARA
 The Federal Information Technology Acquisition Reform Act (FITARA) was enacted on December 19, 2014, and outlines specific requirements related to:
+
 1. CIO authority enhancements
 2. Enhanced transparency and improved risk management in IT   investments
 3. Portfolio reviews
@@ -24,6 +25,7 @@ The objective of FITARA is to improve the management of IT within an agency and 
 ## OMB Guidance: FITARA
 The Office of Management and Budget (OMB) has drafted guidance to implement FITARA, Management and Oversight of Federal Information Technology M-15-14.  
 The objectives of the requirements outlined in this memorandum are to:
+
 1. Assist agencies in establishing management practices that align IT resources with agency missions, goals, programmatic priorities, and statutory requirements;
 2. Establish government-wide IT management controls that will meet FIT ARA requirements while providing agencies with the flexibility to adapt to agency processes and unique mission requirements; 1 Title VIII, Subtitle D of the National Defense Authorization Act (NOAA) for Fiscal Year 2015, Pub. L. No. 11 3-29 1. Further references in the text that refer to "FIT ARA" refer to these sections. 1
 3. Establish a "Common Baseline" for roles, responsibilities, and authorities of the agency CIO and the roles and responsibilities of other applicable Senior Agency Officials2 in managing IT as a strategic resource;
