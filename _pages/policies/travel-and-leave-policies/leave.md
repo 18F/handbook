@@ -45,6 +45,15 @@ You must be on the GSA wireless network or on the Windows virtual desktop (acces
 
 ***Note:*** *When your leave request is approved, you’ll receive a “The absence request has been approved…” email*
 
+### Modifying a leave request
+It’s simple, but slightly counter-intuitive. Here’s how:
+
+  1. *Cancel* the initial request you’re trying to edit.
+  2. *Edit* the _canceled_ request.
+  3. Resubmit the canceled-and-edited request.
+
+
+
 ### HR Links tips
 
 - Partial day requests cannot be made in the middle of a multi-day request; more than one request will need to be made
