@@ -317,9 +317,6 @@ navigation:
   children:
   - text: TTS Office of Operations
     children:
-    - text: Governance and Compliance Division
-      children:
-      - text: Coming soon!
     - text: Business Operations Division
       children:
       - text: Ops
@@ -329,9 +326,20 @@ navigation:
         url: agreements/
         internal: true
         children:
-        - text: State and Local Agreements
+        - text: State and local agreements
           url: state-local-agreements/
           internal: true
+    - text: Governance and Compliance Division
+      children:
+      - text: Coming soon!
+    - text: Infrastructure
+      children:
+      - text: Infrastructure (TTS)
+        url: infrastructure/
+        internal: true
+      - text: Infrastructure (18F)
+        url: intro-to-18f-infrastructure/
+        internal: true
     - text: Talent Division
       children:
       - text: Talent
@@ -345,14 +353,6 @@ navigation:
         internal: false
       - text: Top Secret/Sensitive Compartmented Information (TS/SCI)
         url: top-secret/
-        internal: true
-    - text: Infrastructure
-      children:
-      - text: Infrastructure (TTS)
-        url: infrastructure/
-        internal: true
-      - text: Infrastructure (18F)
-        url: intro-to-18f-infrastructure/
         internal: true
     - text: Outreach
       children:
