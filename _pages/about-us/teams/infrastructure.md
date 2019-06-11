@@ -1,5 +1,6 @@
 ---
 title: Infrastructure
+outdated: true
 ---
 
 _The Infrastructure team helps 18F navigate the “federal compliance architecture.” This work applies to much more than technology: it applies to our entire operation, including how we work inside the law, how we secure our systems, how we collect data from the public, and how we spend money._

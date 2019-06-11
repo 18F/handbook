@@ -25,8 +25,8 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
       <td>ENT username and password</td>
     </tr>
     <tr>
-      <td><a href="/gsa-internal-tools/#concur">Concur</a></td>
-      <td>To book travel</td>
+      <td><a href="https://travel.gsa.gov">Concur</a></td>
+      <td>To book travel. Learn more in <a href="{{site.baseurl}}/travel-101">Travel 101</a>.</td>
       <td>ENT username and password</td>
     </tr>
     <tr>
@@ -88,10 +88,6 @@ Here are some tips for employees that frequent an office:
   <li>BookIT! also allows you to add &ldquo;delegates,&rdquo; or people who can book rooms and/or check in on your behalf. To do that, go to <code>Profile → View Your Profile → Delegates → Edit Profile</code>.</li>
   <li>Some employees have expressed difficulty in logging into BookIT! If you&rsquo;re having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the 18F org they should be able to add you to the list in a day.</li>
  </ul>
-
-## <a id="concur">Concur</a>
-
-Concur is what you will use to book travel. Learn more in [Travel 101]({{site.baseurl}}/travel-101). If you have questions in the meantime, head over to [#travel](https://gsa-tts.slack.com/messages/travel/).
 
 ## <a id="employee-express">Employee Express</a>
 

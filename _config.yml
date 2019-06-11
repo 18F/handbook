@@ -108,16 +108,16 @@ navigation:
     - text: GitHub 101
       url: intro-to-github/
       internal: true
-- text: About us
+- text: About TTS
   blurb: |
     <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
   url: about-us/
   internal: true
   generated: true
   children:
-  - text: TTS Policies and Information
+  - text: General information and resources
     children:
-    - text: General
+    - text: Who we are
       children:
       - text: TTS Code of Conduct
         url: code-of-conduct/
@@ -190,14 +190,8 @@ navigation:
       - text: Employment verification
         url: employment-verification/
         internal: true
-      - text: Hiring
-        url: hiring/
-        internal: true
       - text: Overtime and comp time
         url: overtime-and-comp-time/
-        internal: true
-      - text: Promotions
-        url: promotions/
         internal: true
       - text: Purchase requests
         url: purchase-requests/
@@ -222,22 +216,27 @@ navigation:
       - text: Transit benefit
         url: transit-benefit/
         internal: true
+    - text: Hiring, staying, or changing jobs
+      children:
+      - text: Hiring
+        url: hiring/
+        internal: true
       - text: TTSJobs
         url: ttsjobs/
-        internal: true
-    - text: Detailing and offboarding
-      children:
-      - text: Assignments and details
-        url: assignee-detail/
-        internal: true
-      - text: Leaving TTS
-        url: leaving-tts/
         internal: true
       - text: Term extensions
         url: term-extensions/
         internal: true
-
-  - text: TTS tools
+      - text: Assignments and details
+        url: assignee-detail/
+        internal: true
+      - text: Promotions
+        url: promotions/
+        internal: true
+      - text: Leaving TTS
+        url: leaving-tts/
+        internal: true
+  - text: Software and tools
     children:
     - children:
       - text: GSA internal tools
@@ -307,17 +306,16 @@ navigation:
       - text: Zoom (video conferencing)
         url: zoom/
         Internal: true
-
 - text: TTS Offices
   blurb: |
-    We’re all one family at TTS, but each of the different offices have their own norms and practices. Read more here.
+    We’re all one family at TTS, but each office has its own norms and practices.
   url: tts-offices/
   internal: true
   generated: true
   children:
   - text: TTS Office of Operations
     children:
-    - text: Business Operations Division
+    - text: Business Operations
       children:
       - text: Ops
         url: ops/
@@ -329,7 +327,7 @@ navigation:
         - text: State and local agreements
           url: state-local-agreements/
           internal: true
-    - text: Governance and Compliance Division
+    - text: Governance and Compliance
       children:
       - text: Coming soon!
     - text: Infrastructure
@@ -340,7 +338,7 @@ navigation:
       - text: Infrastructure (18F)
         url: intro-to-18f-infrastructure/
         internal: true
-    - text: Talent Division
+    - text: Talent team
       children:
       - text: Talent
         url: talent/
@@ -380,16 +378,30 @@ navigation:
       - text: 18F org chart
         url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
         internal: false
-    - text: 18F Chapters
+    - text: How we work
+      children:
+      - text: How we relate to partners
+        url: how-we-relate-to-partners/
+        internal: true
+      - text: How we collaborate
+        url: how-we-collaborate/
+        internal: true
+      - text: Time tracking and billing
+        url: tock/#time-tracking-and-billing
+        internal: false
+    - text: 18F chapters
       children:
       - text: Custom Partner Solutions
         url: custom-partner-solutions/
         internal: true
         children:
+        - text: Account management
+          url: account-manager/
+          internal: true
         - text: Account management policy
           url: client-accounts/
           internal: true
-      - text: Acquisition (aka AcqStack)
+      - text: Acquisition
         url: acqstack/
         internal: true
       - text: Design
@@ -398,21 +410,24 @@ navigation:
       - text: Engineering
         url: engineering/
         internal: true
-      - text: Product +
+      - text: Product
         url: product/
         internal: true
       - text: Strategy
         url: strategy/
         internal: true
-    - text: 18F Platforms
+    - text: 18F labs
       children:
-      - text: Cloud.gov
-        url: https://cloud.gov/
+      - text: Writing Lab
+        url: writing-lab/
+        internal: true
+      - text: Design Lab
+        url: https://github.com/18F/design-lab
         internal: false
-      - text: Login.gov
-        url: https://login.gov/
+      - text: Dev Lab
+        url: https://gsa-tts.slack.com/messages/CDE5DU7QC/
         internal: false
-    - text: 18F Offices
+    - text: 18F locations
       children:
       - text: Distributed
         url: distributed/
@@ -429,57 +444,30 @@ navigation:
       - text: Washington, D.C.
         url: washington-dc/
         internal: true
-    - text: 18F Labs
+    - text: 18F platforms
       children:
-      - text: Writing Lab
-        url: writing-lab/
-        internal: true
-      - text: Design Lab
-        url: https://github.com/18F/design-lab
+      - text: Cloud.gov
+        url: https://cloud.gov/
         internal: false
-      - text: Dev Lab
-        url: https://gsa-tts.slack.com/messages/CDE5DU7QC/
+      - text: Login.gov
+        url: https://login.gov/
         internal: false
-    - text: 18F Team Resources
+    - text: 18F team resources
       children:
-      - text: Working on an acquisition engagement
-        url: working-on-an-acquisition-engagement/
-        internal: true
-      - text: Acquisition engagement types
-        url: acquisition-engagement-types/
-        internal: true
-      - text: Acquisition engagement glossary
-        url: working-on-an-acquisition-engagement/#acquisition-glossary
-        internal: true
-      - text: Account management
-        url: account-manager/
-        internal: true
       - text: Before you ship
         url: https://before-you-ship.18f.gov/infrastructure/aws/
         internal: false
       - text: Blogging
         url: blogging/
         internal: true
-      - text: Bookmarks
-        url: bookmarks/
-        internal: true
       - text: Doing research at 18F
         url: research-guidelines/
-        internal: true
-      - text: How we collaborate
-        url: how-we-collaborate/
-        internal: true
-      - text: How we relate to partners
-        url: how-we-relate-to-partners/
         internal: true
       - text: Leading projects
         url: leading-projects/
         internal: true
       - text: One-on-ones
         url: one-on-ones/
-        internal: true
-      - text: Intro to open source
-        url: intro-to-open-source/
         internal: true
       - text: Open source policy
         url: https://github.com/18F/open-source-policy/blob/master/policy.md
@@ -490,9 +478,16 @@ navigation:
       - text: Performance Plan (FY19)
         url: 18f-performance-plan/
         internal: true
-      - text: Time tracking and billing <br><br>
-        url: https://handbook.18f.gov/tock/#time-tracking-and-billing
-        internal: false
+      - text: Working on an acquisition engagement
+        url: working-on-an-acquisition-engagement/
+        internal: true
+        children:
+        - text: Acquisition engagement types
+          url: acquisition-engagement-types/
+          internal: true
+        - text: Acquisition engagement glossary
+          url: working-on-an-acquisition-engagement/#acquisition-glossary
+          internal: true
   - text: Office of Products and Programs (OPP)
     children:
     - text: About OPP
@@ -500,7 +495,7 @@ navigation:
       - text: Overview of OPP
         url: office-of-products-and-programs/
         internal: true
-      - text: OPP History
+      - text: OPP history
         url: opp-history/
         internal: true
       - text: OPP org chart
