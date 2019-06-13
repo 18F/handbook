@@ -75,6 +75,10 @@ If you are based in an office, you can check out mice, keyboards, and trackpads 
 
 Make your request by filling out a [hardware IT Support Ticket](https://gsa.service-now.com/sp/). GSA IT will reach out to you to accomodate.
 
+### NYC
+
+Make your request by filling out a [hardware IT Support Ticket](https://gsa.service-now.com/sp/). In your ticket, say you are in TTS and ask to be routed to Melvin Moreira. Melvin has keyboards and mice in stock and will ship them to you at the NYC office.
+
 #### Chicago
 
 Reach out to [Ethan Heppner](mailto:ethan.heppner@gsa.gov) via email, he will assist you within two business days.
