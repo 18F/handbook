@@ -12,6 +12,19 @@ While OPP was paving the way for government shared services and open data, there
 
 That project became [18F](https://18f.gsa.gov/) when the office officially launched in March 2014. 18F quickly grew in size to help federal agencies work on technology projects while learning new skills. In 2016, 18F, PIF, and OPP came together under the newly-formed Technology Transformation Service office. In 2017, TTS added the [IT Modernization Centers of Excellence (CoEs)](https://coe.gsa.gov/) to focus on whole-agency technology modernization, and all of TTS moved into GSA’s existing Federal Acquisition Service.
 
+
+## TTS Today
+
+TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offices:  
+
+- **18F** provides consulting and software development services, with a focus on cultural transformation and empowerment
+- **The Office of Products and Programs (OPP)** houses a variety of products and services that either directly serve the public or empower other government agencies.
+- **The Office of Investment (10x)** is an incremental investment fund and incubator where federal employees can pitch ideas that they believe will improve how the government builds technology products.
+- **The Centers of Excellence (CoEs)** partner with agencies on specific verticals in order to drive IT modernization in the government.
+- **The Presidential Innovation Fellowship (PIF)**  is a year-long fellowship that pairs technologists with civil servants to work on specific programs.
+- **TTS Operations** keep everything running, including keeping our finances straight, making sure we’re in compliance with all the rules we have to follow, helping us go to conferences, and recruiting new employees. 
+
+
 ## Our values
 
 * **Listen, understand, and then act**  
