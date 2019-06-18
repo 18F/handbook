@@ -19,10 +19,10 @@ TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offi
 
 - **18F** provides consulting and software development services, with a focus on cultural transformation and empowerment
 - **The Office of Products and Programs (OPP)** houses a variety of products and services that either directly serve the public or empower other government agencies.
-- **The Office of Investment (10x)** is an incremental investment fund and incubator where federal employees can pitch ideas that they believe will improve how the government builds technology products.
 - **The Centers of Excellence (CoEs)** partner with agencies on specific verticals in order to drive IT modernization in the government.
 - **The Presidential Innovation Fellowship (PIF)**  is a year-long fellowship that pairs technologists with civil servants to work on specific programs.
 - **TTS Operations** keep everything running, including keeping our finances straight, making sure we’re in compliance with all the rules we have to follow, helping us go to conferences, and recruiting new employees. 
+- **Office of Acquisition** offers acquisition services and buys digital products and services for our own organization, TTS, while  demonstrating that compliance can be more efficient and effective. In the spirit of innovation, OA experiments with new, collaborative ways of doing procurement while adhering to the all regulations and policies.
 
 
 ## Our values
