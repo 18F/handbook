@@ -32,12 +32,9 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-
-
 ### Internal only competitions
 
-- [Login.gov Product Owner](https://docs.google.com/document/d/1lTKnrS1esiddWsB1Y8mL3XnIp2X1JBjL_2J9zui-j4A/edit?usp=sharing)
-
+- [Login.gov Product Owner](https://docs.google.com/document/d/1lTKnrS1esiddWsB1Y8mL3XnIp2X1JBjL_2J9zui-j4A/edit?usp=sharing) - Application Close: Monday, 6/24 at noon (12pm ET)
 
 ## Partner information & opportunities
 
