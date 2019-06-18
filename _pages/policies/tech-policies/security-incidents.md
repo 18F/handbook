@@ -13,7 +13,7 @@ See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https:
 If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. For questions about GSA’s Incident Response Program, contact the GSA Incident Response (IR) Team at [gsa-ir@gsa.gov](mailto:gsa-ir@gsa.gov).
 
 ## Reporting phishing emails
-If you receive a phishing email, follow these steps:
+If you receive a suspicious email, follow these steps:
 
 1. Do not click any links in the email. Do not delete it yet. You may mark it as spam.
 1. Follow the ["To report a suspicious email" directions](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/phishing-emails-and-scams) on insite.
