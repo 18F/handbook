@@ -25,8 +25,8 @@ Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intrane
       <td>ENT username and password</td>
     </tr>
     <tr>
-      <td><a href="/gsa-internal-tools/#concur">Concur</a></td>
-      <td>To book travel</td>
+      <td><a href="https://travel.gsa.gov">Concur</a></td>
+      <td>To book travel. Learn more in <a href="{{site.baseurl}}/travel-101">Travel 101</a>.</td>
       <td>ENT username and password</td>
     </tr>
     <tr>
@@ -89,10 +89,6 @@ Here are some tips for employees that frequent an office:
   <li>Some employees have expressed difficulty in logging into BookIT! If you&rsquo;re having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the 18F org they should be able to add you to the list in a day.</li>
  </ul>
 
-## <a id="concur">Concur</a>
-
-Concur is what you will use to book travel. Learn more in [Travel 101]({{site.baseurl}}/travel-101). If you have questions in the meantime, head over to [#travel](https://gsa-tts.slack.com/messages/travel/).
-
 ## <a id="employee-express">Employee Express</a>
 
 [Employee Express](https://www.employeeexpress.gov/) is used to view your paystub, change your withholdings, change your health insurance plan, and change your address.
@@ -140,7 +136,7 @@ While this process can take up to eight days, the upshot is that your conference
 
 TTS has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. If you’d like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
-Access to general office supplies varies based on your location — see our [office guides]({{site.baseurl}}/#18f-offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
+Access to general office supplies varies based on your location — see our [office guides]({{site.baseurl}}/#18f-locations). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
 
 For software requests, see [Software](../software/).
 
