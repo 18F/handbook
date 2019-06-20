@@ -17,11 +17,11 @@ That project became [18F](https://18f.gsa.gov/) when the office officially launc
 
 TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offices:  
 
-- **18F** provides consulting and software development services, with a focus on cultural transformation and empowerment
-- **The Office of Products and Programs (OPP)** houses a variety of products and services that either directly serve the public or empower other government agencies.
-- **The Centers of Excellence (CoEs)** partner with agencies on specific verticals in order to drive IT modernization in the government.
-- **The Presidential Innovation Fellowship (PIF)**  is a year-long fellowship that pairs technologists with civil servants to work on specific programs.
-- **TTS Operations** keep everything running, including keeping our finances straight, making sure we’re in compliance with all the rules we have to follow, helping us go to conferences, and recruiting new employees. 
+- **18F** partners with agencies to provide consulting and software development services, with a focus on cultural transformation and empowerment. A critical part of 18F’s mission is to teach agencies new digital skills during projects so they can take over continued development.
+- **The Office of Products and Programs (OPP)** houses a variety of products and services such as USA.gov, Data.gov, Challenge.gov and the Digital Analytics Program that either directly serve the public or empower other government agencies.
+- **The Centers of Excellence (CoEs)** partner with agencies on specific verticals in order to drive IT modernization in the government by leveraging private sector innovation, existing government services, and providing access to best practices and expertise.
+- **The Presidential Innovation Fellowship (PIF)**  is a year-long fellowship made up of mid- to senior-level individuals with a proven track record of success in entrepreneurship, strategic design, technology, innovation, and modern product management, who pair with agencies to tackle the most pressing technology challenges.
+- **TTS Operations** keep everything running and ensures the team has the tools needed to focus on the TTS mission. This includeskeeping our finances straight, making sure we’re in compliance with all the rules we have to follow, helping us go to conferences, and recruiting new employees, among other things.
 - **Office of Acquisition** offers acquisition services and buys digital products and services for our own organization, TTS, while  demonstrating that compliance can be more efficient and effective. In the spirit of innovation, OA experiments with new, collaborative ways of doing procurement while adhering to the all regulations and policies.
 
 
