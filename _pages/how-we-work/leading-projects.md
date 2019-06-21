@@ -27,7 +27,17 @@ Someone (the partner, 18F leadership, or others) might ask you about how the pro
 
 ## How do we decide who leads each project?
 
-Every project needs a lead to be the primary point-person. Which person fills that role should be decided based on project needs and staff available; the staffing team, Account Manager, and/or project team will work together to identify them once the full team is staffed.
+Every project needs a lead to be the primary point-person. Which person fills that role should be decided based on project needs and staff available. This happens as part of our normal staffing process, and should follow these steps:
+
+1. Find out from chapter staffing representatives: which potential team members are interested in leading?
+2. If one person is interested, make sure the Account Manager and Portfolio Director (or Chief of Projects) are comfortable with that person leading, based on past skills and experience.
+3. If no one is interested (or if the interested person doesn't have the appropriate skills/experience), we need to rework staffing to make sure we have at least one willing-and-able project lead on the team.
+4. If multiple people are interested:
+   - Once the team is assigned (in repo), the Portfolio Director (or Chief of Projects) and Account Manager lead a conversation among interested folks about project leadership expectations and options.
+   - We aim to either leave that meeting with consensus or have follow-up conversations if needed.
+   - The final decision, _if needed_, is made by the Portfolio Director (or Chief of Projects).
+
+In most cases, there's one full-time person who's willing to lead, they have experience leading, and this is a very very short process. In other cases, our goal is to ensure that everyone on the team has shared expectations about what roles need to be filled, *and* that the team is part of intentionally navigating these decisions.
 
 ## Support
 
