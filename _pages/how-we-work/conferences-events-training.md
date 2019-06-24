@@ -1,5 +1,5 @@
 ---
-title: Attending or speaking at a conference
+title: Conferences, events, and training
 tags:
 - attend
 - Attending
@@ -10,6 +10,9 @@ tags:
 - conference
 - conferences
 - IDP
+- Training
+- sf-182
+- SF182
 ---
 
 TTS encourages all staff to attend conferences, speak at events and focus on professional development and training opportunities.
