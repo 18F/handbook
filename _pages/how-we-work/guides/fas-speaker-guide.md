@@ -22,11 +22,11 @@ Below is the process you'll need to follow when receving an interview or speakin
 If you're contacted by a newspaper, TV station, radio station, podcast, or blog, send the request directly to press@gsa.gov. It’s okay to respond to the sender (cc-ing press@gsa.gov) thanking them for the invite and letting them know that the GSA Press team will handle the request.
 
 ### Other speaking requests
-For all requests that are not interviews, forward the invitation to speakers@gsa.gov. This is just for the Outreach team's visibility, and it's not part of the approval process. Invitations that fall in this category include requests to speak at customer events such as an agency’s acquisition conference and/or industry request, conferences, college classes, or anything you’re doing in your official capacity as a GSA employee (where you will be identified as working for GSA). 
+For all requests that are not interviews, forward the invitation to speakers@gsa.gov. This is just for the Outreach team's visibility, and it's not part of the approval process. Invitations that fall in this category include requests to speak at customer events such as an agency’s acquisition conference and/or industry request, conferences, college classes, or anything you’re doing in your official capacity as a GSA employee (where you will be identified as working for GSA).
 
 ## Accepting invitations
 
-The first step when you get an invitation to speak is to decide whether or not to accept the invitation. Talk with your supervisor and challenge yourself to come up with good reasons to speak rather than having no good reasons not to speak. It's always okay to politely decline speaking invitations. 
+The first step when you get an invitation to speak is to decide whether or not to accept the invitation. Talk with your supervisor and challenge yourself to come up with good reasons to speak rather than having no good reasons not to speak. It's always okay to politely decline speaking invitations.
 
 Ask yourself the following questions when considering an invitation:
 
@@ -76,7 +76,7 @@ If you and your supervisor decide this is a good oportunity for yourself and TTS
 - Is there a fee to attend? Is the fee waived for government attendees/speakers?
 - If it is a panel or roundtable: Who are the other participants? Who is the moderator? What questions will be asked?
 
-Once you have determined you have good reasons to speak and have decided to accept the invitation, you have to get approval to participate. If the invitation is for a media interview, work with GSA’s press office to coordinate. If it is for a public speaking engagement — with or without media — all requests to attend a conference, including for GSA-hosted conferences, must go through the [speaker approval process](https://handbook.18f.gov/attending-conferences/).
+Once you have determined you have good reasons to speak and have decided to accept the invitation, you have to get approval to participate. If the invitation is for a media interview, work with GSA’s press office to coordinate. If it is for a public speaking engagement — with or without media — all requests to attend a conference, including for GSA-hosted conferences, must go through the [speaker approval process](https://handbook.18f.gov/conferences-events-training/).
 
 ## Guidelines for speaking in your personal capacity
 

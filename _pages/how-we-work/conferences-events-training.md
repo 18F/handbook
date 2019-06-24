@@ -21,11 +21,11 @@ TTS encourages all staff to attend conferences, speak at events and focus on pro
 
 TTS usually attends events in one of five ways.
 
-1. [I’m speaking at a conference but not attending the conference events (Pycon, CFA).](https://handbook.18f.gov/attending-conferences/#im-speaking-at-a-conference-but-not-attending-conference-events)
-1. [I’m speaking at an event (luncheon, panel, summit).](https://handbook.18f.gov/attending-conferences/#im-speaking-at-an-event)
-1. [I'm speaking at a conference(Pycon, CFA).](https://handbook.18f.gov/attending-conferences/#im-speaking-at-a-conference-and-attending-conference-events-including-training-offered-before-or-after-the-conference)
-1. [I’m attending a conference.](https://handbook.18f.gov/attending-conferences/#im-attending-a-conference-including-training-offered-before-or-after-the-conference)
-1. [I’m attending training not at a conference (Agile, product owner courses, course at Management Concepts).](https://handbook.18f.gov/attending-conferences/#im-attending-training-that-is-not-at-a-conference)
+1. [I’m speaking at a conference but not attending the conference events (Pycon, CFA).](https://handbook.18f.gov/conferences-events-training/#im-speaking-at-a-conference-but-not-attending-conference-events)
+1. [I’m speaking at an event (luncheon, panel, summit).](https://handbook.18f.gov/conferences-events-training/#im-speaking-at-an-event)
+1. [I'm speaking at a conference(Pycon, CFA).](https://handbook.18f.gov/conferences-events-training/#im-speaking-at-a-conference-and-attending-conference-events-including-training-offered-before-or-after-the-conference)
+1. [I’m attending a conference.](https://handbook.18f.gov/conferences-events-training/#im-attending-a-conference-including-training-offered-before-or-after-the-conference)
+1. [I’m attending training not at a conference (Agile, product owner courses, course at Management Concepts).](https://handbook.18f.gov/conferences-events-training/#im-attending-training-that-is-not-at-a-conference)
 
 ### I’m speaking at a conference but not attending conference events.
 ***Note: speaking events require a minimum of 25 days advance notice.***

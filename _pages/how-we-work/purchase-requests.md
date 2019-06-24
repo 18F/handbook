@@ -7,8 +7,8 @@ This page covers the general process for requesting purchases under $10,000. You
 
 Some types of purchases are handled differently. See these pages for guidance about purchasing:
 
-- [Training]({{site.baseurl}}/attending-conferences/#im-attending-training-that-is-not-at-a-conference)
-- [Conference]({{site.baseurl}}/attending-conferences/#im-attending-a-conference-including-training-offered-before-or-after-the-conference)
+- [Training]({{site.baseurl}}/conferences-events-training/#im-attending-training-that-is-not-at-a-conference)
+- [Conference]({{site.baseurl}}/conferences-events-training/#im-attending-a-conference-including-training-offered-before-or-after-the-conference)
 - [Software]({{site.baseurl}}/software)
 - [Equipment]({{site.baseurl}}/equipment)
 
@@ -16,7 +16,7 @@ Some types of purchases are handled differently. See these pages for guidance ab
 
 [C2](http://requests.18f.gov) is used for all purchase requests under $10,000. In order to use C2, you will need to get an account set up. Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZfBRRO_mBz2wwBHJTufi6kWONQhc64otCAYBCKV8keDvXVA/viewform) and you will be set up within one to two business days. Once you are set up in C2, you will be able to make either an event request (for training and conferences) or a purchase request (for anything else). All requests must be approved by a supervisor before submitting in C2. Do not make a purchase on your own because you will not be reimbursed! Please follow the below instructions to make your request.
 
-Please note that for training and conferences, someone from the TTS Ops team will enter the request in C2 on behalf of the requestor. Please be sure to follow the steps in the [training section](https://handbook.18f.gov/attending-conferences/#im-attending-training-that-is-not-at-a-conference) or [conferences section](https://handbook.18f.gov/attending-conferences/#im-attending-a-conference-including-training-offered-before-or-after-the-conference).
+Please note that for training and conferences, someone from the TTS Ops team will enter the request in C2 on behalf of the requestor. Please be sure to follow the steps in the [training section](https://handbook.18f.gov/conferences-events-training/#im-attending-training-that-is-not-at-a-conference) or [conferences section](https://handbook.18f.gov/conferences-events-training/#im-attending-a-conference-including-training-offered-before-or-after-the-conference).
 
 Here's the information you'll need to enter in C2:
 
@@ -58,7 +58,7 @@ Once the request is placed, the designated TTS Ops team member will determine wh
 
 ## Domain renewals
 
-Requesting a domain renewal is much easier than requesting software. The TTS SaaS PM will reach out to the domain point of contact about a month before the domain will expire asking them if they want the domain to be renewed. If the domain is to be renewed, the domain point of contact will be asked to submit a [C2 request]({{site.baseurl}}/purchase-requests/#c2) . If you are renewing a dotgov domain, all you need to do is submit a C2 request and get your supervisor’s approval. Dotgov domain renewals don’t need ATO or FITARA approval. After the SaaS PM has supervisor and finance approval, they will make the purchase before the domain expires. 
+Requesting a domain renewal is much easier than requesting software. The TTS SaaS PM will reach out to the domain point of contact about a month before the domain will expire asking them if they want the domain to be renewed. If the domain is to be renewed, the domain point of contact will be asked to submit a [C2 request]({{site.baseurl}}/purchase-requests/#c2) . If you are renewing a dotgov domain, all you need to do is submit a C2 request and get your supervisor’s approval. Dotgov domain renewals don’t need ATO or FITARA approval. After the SaaS PM has supervisor and finance approval, they will make the purchase before the domain expires.
 
 ## SSL/ECA certificates
 
@@ -92,7 +92,7 @@ Please follow the recommended steps below when ordering services under $10,000:
 
 **Who to contact about purchasing services**
 
-**TTS Micro-Purchase Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov) 
+**TTS Micro-Purchase Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov)
 
 Slack: @melanie
 
