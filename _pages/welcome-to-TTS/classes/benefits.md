@@ -16,7 +16,7 @@ Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) when
 
 You can find these documents by logging onto HR Links and selecting the following:
 
-- Benefits Library icon 
+- Benefits Library icon
 - Forms Center
 - Select "Health Benefits Enrollment"
   - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes."
@@ -83,7 +83,7 @@ New employees, employees who move outside of the area covered by their plan, and
 
 To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollment, cancel your enrollment, or suspend your enrollment you must do so in HR Links by taking the following steps:
 
-- Select the Benefits Library icon 
+- Select the Benefits Library icon
 - Click on the Forms Center
 - Select "Health Benefits Enrollment"
   - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes.."
@@ -189,7 +189,7 @@ Note: If you have been contributing to a 401k, 403b, or a similar plan at your p
 
 ## Training
 
-TTS team members are eligible for many professional development and training opportunities. For more information, see [attending conferences]({{site.baseurl}}/attending-conferences).
+TTS team members are eligible for many professional development and training opportunities. For more information, see [attending conferences]({{site.baseurl}}/conferences-events-training).
 
 
 ## Transit subsidies

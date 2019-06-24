@@ -175,8 +175,8 @@ navigation:
         internal: true
     - text: Employee resources
       children:
-      - text: Attending or speaking at a conference
-        url: attending-conferences/
+      - text: Conferences, events, training
+        url: conferences-events-training
         internal: true
       - text: Benefits links and resources
         url: benefits-links/
