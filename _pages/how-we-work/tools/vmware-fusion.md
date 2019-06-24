@@ -18,7 +18,7 @@ request it through Service Now.
   1. Sign in with your ENT username and password.
   1. Click **Order Something**.
   1. Click **Software**.
-  1. Complete the required fields. For software name, select "VMware Fusion".
+  1. Complete the required fields. For software name, select "VMWare Fusion 10.x Pro: Exception".
   1. In the "additional comments" field, specify that you would like it
      installed through the GSA Self Service application.
   1. Click **Add to Cart**.
