@@ -7,8 +7,7 @@ This page covers the general process for requesting purchases under $10,000. You
 
 Some types of purchases are handled differently. See these pages for guidance about purchasing:
 
-- [Training]({{site.baseurl}}/conferences-events-training/#im-attending-training-that-is-not-at-a-conference)
-- [Conference]({{site.baseurl}}/conferences-events-training/#im-attending-a-conference-including-training-offered-before-or-after-the-conference)
+- [Conferences, events, and training]({{site.baseurl}}/conferences-events-training/)
 - [Software]({{site.baseurl}}/software)
 - [Equipment]({{site.baseurl}}/equipment)
 
