@@ -300,6 +300,9 @@ navigation:
       - text: Trello (task and project management)
         url: trello/
         internal: true
+      - text: VMware Fusion (hypervisor)
+        url: vmware-fusion/
+        internal: true
       - text: VMware Horizon (virtual desktop client)
         url: vmware-horizon/
         internal: true
