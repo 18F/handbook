@@ -29,8 +29,8 @@ Someone (the partner, 18F leadership, or others) might ask you about how the pro
 
 Every project needs a lead to be the primary point-person. Which person fills that role should be decided based on project needs and staff available. This happens as part of our normal staffing process, and should follow these steps:
 
-1. Find out from chapter staffing representatives: which potential team members are interested in leading?
-2. If one person is interested, make sure the Account Manager and Portfolio Director (or Chief of Projects) are comfortable with that person leading, based on past skills and experience.
+1. The Account Manager/Portfolio Director (and/or Chief of Projects) find out from chapter staffing representatives which potential team members are interested in leading.
+2. If only one person is interested, the AM/PD/CoP is responsible for making sure everyone involved is comfortable with that person leading, based on past skills and experience.
 3. If no one is interested (or if the interested person doesn't have the appropriate skills/experience), we need to rework staffing to make sure we have at least one willing-and-able project lead on the team.
 4. If multiple people are interested:
    - Once the team is assigned (in repo), the Portfolio Director (or Chief of Projects) and Account Manager lead a conversation among interested folks about project leadership expectations and options.
