@@ -16,7 +16,7 @@ If you detect any unusual or suspicious activity on your computer, DO NOT turn o
 If you receive a suspicious email, follow these steps:
 
 1. Do not click any links in the email. Do not delete it yet. You may mark it as spam.
-1. Follow the ["To report a suspicious email" directions](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/phishing-emails-and-scams) on insite.
+1. Follow the ["To report a suspicious email" directions](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/phishing-emails-and-scams#Report%20suspicious%20emails) on the [Phishing Emails and Scams InSite page](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/phishing-emails-and-scams#Report%20suspicious%20emails).
 1. This should instruct you in how to use the Cofense tool (the little fish icon that should be on the right) to report the phish.
 1. GSA IT will triage and let you know what they need you to do, if anything.
 
