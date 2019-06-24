@@ -19,36 +19,15 @@ TTS encourages all staff to attend conferences, speak at events and focus on pro
 
 ## Getting approval for a conference, event, or training
 
-1. Meet with your supervisor to discuss the conference, speaking opportunity, event, and/or training.
+1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) to initiate the request process.  Upon completing it, you and your supervisor will get an automated email, which confirms the details you entered and provides all of the actions that you will need to complete for the request.  Your supervisor may want to discuss the request with you before proceeding with further approvals.
 
-1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) to initiate the request process.  
+1. Once you've connected with your supervisor, continue following all steps outlined by the email that you received.  If you have any issues or questions about your request, please respond to the Events Team (tts-events@gsa.gov) on the automated email thread.  An Events Team member will follow up with you within 2 business days.
 
-1. Upon completing it, you and your supervisor will get an automated email, which confirms the details you entered and gives you some personalized next steps.  
-
-1. Within two business days, a training team member will reach out to you directly and be your point of contact through the entire process, including creating your Salesforce Event Tracker request.  Please do not input an Event Tracker request until the training team has reached out to you.
-
-1. Watch your email and wait for Event Tracker approval. You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0).
-
-###Booking travel
-
-While you wait for your Salesforce request to get approved, you can make [Travel Arrangements in Concur](https://handbook.18f.gov/travel-guide-1-book-travel/) (if needed).  Most travel reservations will automatically cancel if not approved.  If you book outside of Concur for the conference hotel, you are responsible for cancelling any reservation if your event is not approved. You are responsible for any cancellation fees if you fail to follow the conference hotel cancellation policy.  You can ask questions in [#travel](https://gsa-tts.slack.com/messages/travel/) or during [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
-
-### Creating an SF-182
-
-1. [Create a Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
-
-   * Select your current supervisor
-   * Select Michael Proul as the first approver
-   * Select Dominic Sale as the second approver, if the training is below $2500 (including travel),
-   * Select FAS HSSO Tricia Sieveke, if the training is more than $2500 (including travel)
-   * Choose Ethan Heppner or Leah Gitter as the Purchase Card Holder
-
-1. Watch your email and wait for Event Tracker approvals and SF182 approvals. If you have questions about the status ask in slack #training-conferences or send a slack DM to your training POC.
-
-1. Send your SF-182 approval to your training team POC.
+1. You will recieve an automated email when your request has been fully approved and paid for or if additional information is needed to complete your registration. You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
 
 ## Approval Timelines
-The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) as early as possible. The training team works diligently to review and process requests within one business days of submission. Your request  will go more smoothly if all required information is included in the training request.  You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0)
+
+The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) as early as possible. 
 
 - Five days to ten days in advance for:
   - Training (not at a conference) that costs less than $2,500, including travel
@@ -64,6 +43,29 @@ The review and approval process times vary by the type of request and the layers
   - Highly Attended Events [FY18 GSA Highly Attended Events](https://docs.google.com/document/d/1Q1ZAWkXMte3jHFP0GH9EHzTjiTG3fYe-4WFehiWGbaM/edit)
 - Five to six weeks in advance for:
   - Group Conference Training/Attendance
+  
+You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
+
+## Additional steps that you may need to take
+
+The automated email that you will receive outlines the step(s) below that you will need to complete for your request.
+
+### Creating an SF-182 (required for most conference, event, and training requests that have registration and/or travel costs)
+
+1. [Create a Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
+
+- Start this process by adding this event to your [Individual Development Plan (IDP)](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) in Salesforce and have your supervisor approve.
+- After your IDP is approved by your supervisor, you can then generate a Standard Form 182 (SF-182) in Salesforce.
+- Once you have generated SF-182, you will select your supervisor, then **Keith Wilson** as the first approver, and **Dominic Sale** as the second approver (if your estimated costs - including both registration fee and travel - exceed $2,500, you will also need to add **Tricia Sieveke** as a third approver)
+- You will add **Matthew Ryan** as your purchase card holder, then hit the 'submit for approval' button which is located at the bottom of the screen of the SF-182 form.
+
+The SF-182 must be fully approved before any final actions such as paying for registration or approval of travel in Concur can be taken. Once your SF-182 has been fully approved, download a PDF copy and send it to [tts-events@gsa.gov](mailto:tts-events@gsa.gov). Ensure your SF-182 is completed and sent over at least two business days before your registration would need to be completed to give the purchasing team sufficient time to process.
+
+### Booking travel
+
+You can start making [Travel Arrangements in Concur](https://handbook.18f.gov/travel-guide-1-book-travel/) (if needed) at any point in the process, even before you've submitted the [Events request form]( https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) if you would like to get an estimate of travel costs.  Most travel reservations will automatically cancel if not approved.  
+
+You are responsible for cancelling all reservations (e.g. flight, hotel, rental car) if your event is not approved.  Always **check the cancellation policy before booking** because you may be responsible for paying the cancellation fee(s).  You can ask questions in [#travel](https://gsa-tts.slack.com/messages/travel/) or during [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
 
 ## After the Conference
 
