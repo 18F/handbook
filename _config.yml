@@ -175,11 +175,11 @@ navigation:
         internal: true
     - text: Employee resources
       children:
-      - text: Conferences, events, training
-        url: conferences-events-training
-        internal: true
       - text: Benefits links and resources
         url: benefits-links/
+        internal: true
+      - text: Conferences, events, and training
+        url: conferences-events-training/
         internal: true
       - text: Emergency procedures
         url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
