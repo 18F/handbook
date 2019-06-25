@@ -18,9 +18,9 @@ Normally, **the letter needs to be signed by the executive of the entity** (the 
 
 ### Agreement and SOW
 
-Once the account manager receives the signed letter, they can begin **drafting the IGCA agreement by making a copy of the [IGCA Agreement Template](https://docs.google.com/document/d/1jaNxzcmVaidSKNCEfDCdNZcF6kVFRpPMbQINMpYmtoI/edit?ts=5cab85f3)**. 
+As we wait for the signed letter, the Account Manager can begin **drafting the IGCA agreement by making a copy of the [IGCA Agreement Template](https://docs.google.com/document/d/1jaNxzcmVaidSKNCEfDCdNZcF6kVFRpPMbQINMpYmtoI/edit?ts=5cab85f3)**. 
 
-The account manager will then edit the highlighted sections of the template, including the actual scope of work (SOW) which begins on page seven of the template. Section 3 of the SOW template includes a list of possible deliverables. The account manager will remove any items from this list that aren’t relevant to the project. If necessary, the account manager may make minor edits to the remaining items to better align with the project scope and goals. Changes made to this list of deliverables will need to be reviewed by OGC. Additionally, the account manager will need to gather the partner’s financial information and populate page 10 (also known as attachment C). Once the template is fully filled out, the  account manager will ask the partner to review the draft and will work to incorporate their edits.
+The account manager will then edit the highlighted sections of the template, including the actual scope of work (SOW) which begins on page seven of the template. Section 3 of the SOW template includes a list of possible deliverables. The account manager will remove any items from this list that aren’t relevant to the project. If necessary, the account manager may make minor edits to the remaining items to better align with the project scope and goals. Changes made to this list of deliverables will need to be reviewed by OGC. Additionally, the account manager will need to gather the partner’s financial information and populate attachment C. Once the template is fully filled out, the  account manager will ask the partner to review the draft and will work to incorporate their edits.
 
 ### Agreements team review
 
