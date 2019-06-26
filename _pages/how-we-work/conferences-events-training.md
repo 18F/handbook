@@ -19,7 +19,7 @@ TTS encourages all staff to attend conferences, speak at events and focus on pro
 
 ## Getting approval for a conference, event, or training
 
-1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) to initiate the request process.  Upon completing it, you and your supervisor will get an automated email, which confirms the details you entered and provides all of the actions that you will need to complete for the request.  Your supervisor may want to discuss the request with you before proceeding with further approvals.
+1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) to initiate the request process.  Upon completing it, you and your supervisor will get an automated email, which confirms the details you entered and provides all of the actions that you will need to complete for the request.  Your supervisor may want to discuss the request with you before proceeding with further approvals.
 
 1. Once you've connected with your supervisor, continue following all steps outlined by the email that you received.  If you have any issues or questions about your request, please respond to the Events Team (tts-events@gsa.gov) on the automated email thread.  An Events Team member will follow up with you within 2 business days.
 
@@ -27,7 +27,7 @@ TTS encourages all staff to attend conferences, speak at events and focus on pro
 
 ## Approval Timelines
 
-The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) as early as possible. 
+The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) as early as possible. 
 
 - Five days to ten days in advance for:
   - Training (not at a conference) that costs less than $2,500, including travel
@@ -63,7 +63,7 @@ The SF-182 must be fully approved before any final actions such as paying for re
 
 ### Booking travel
 
-You can start making [Travel Arrangements in Concur](https://handbook.18f.gov/travel-guide-1-book-travel/) (if needed) at any point in the process, even before you've submitted the [Events request form]( https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) if you would like to get an estimate of travel costs.  Most travel reservations will automatically cancel if not approved.  
+You can start making [Travel Arrangements in Concur](https://handbook.18f.gov/travel-guide-1-book-travel/) (if needed) at any point in the process, even before you've submitted the [Events request form]( https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) if you would like to get an estimate of travel costs.  Most travel reservations will automatically cancel if not approved.  
 
 You are responsible for cancelling all reservations (e.g. flight, hotel, rental car) if your event is not approved.  Always **check the cancellation policy before booking** because you may be responsible for paying the cancellation fee(s).  You can ask questions in [#travel](https://gsa-tts.slack.com/messages/travel/) or during [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
 
