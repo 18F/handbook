@@ -1,3 +1,15 @@
+GIT
+  remote: git://github.com/18F/guides-style.git
+  revision: 5bc8289e08638edd311e62806de4b6fc5f2a0135
+  branch: v1.0.6
+  specs:
+    guides_style_18f (1.0.6)
+      jekyll
+      jekyll_pages_api
+      jekyll_pages_api_search
+      rouge
+      sass
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -14,12 +26,6 @@ GEM
     ethon (0.11.0)
       ffi (>= 1.3.0)
     ffi (1.9.18)
-    guides_style_18f (1.0.4)
-      jekyll
-      jekyll_pages_api
-      jekyll_pages_api_search
-      rouge
-      sass
     hash-joiner (0.0.7)
       safe_yaml
     html-proofer (3.8.0)
@@ -90,7 +96,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  guides_style_18f
+  guides_style_18f!
   hash-joiner
   html-proofer
   jekyll (~> 3.0.0)
@@ -99,7 +105,7 @@ DEPENDENCIES
   rouge
 
 RUBY VERSION
-   ruby 2.6.1p33
+   ruby 2.6.3p62
 
 BUNDLED WITH
-   1.17.2
+   1.17.3
