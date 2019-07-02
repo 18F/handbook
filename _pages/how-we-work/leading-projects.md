@@ -17,6 +17,7 @@ Here is some of what _success_ includes:
 * Establishing a healthy team with positive working relationships
 * The strategic direction of the project (including alignment with a portfolio, when relevant)
 * Managing work so that team members can be fully billable
+* Establishing a system to fairly rotate administrative or clerical tasks between teammates
 * Identifying project and partner needs (for instance, staffing changes, budget changes, potential work)
 
 In all this, your closest collaborators are 1) your account manager and 2) your project team. They are deeply invested, and will also be asked to account for the project’s success as part of their duties.
@@ -24,6 +25,14 @@ In all this, your closest collaborators are 1) your account manager and 2) your 
 ### What does this mean in practice?
 
 Someone (the partner, 18F leadership, or others) might ask you about how the project is going, and 18F will expect you to have an answer. It does not mean you should _do_ all of these things yourself — the most senior project leads are often those who can speak confidently about how _others_ are owning various aspects of the work.
+
+### Rotating tasks among teammates
+
+The project lead is not the only one responsible for administrative tasks, such as scheduling meetings with partners and taking notes. We encourage project leads to set up systems for rotating this work. For example, a team might have a schedule that indicates who is responsible for sending a progress update email to the partner each week.
+
+At times, it may be strategic for a single team member to own a specific task, but consider this the exception rather than the rule.
+
+Talk with your team about a rotation system for administrative and clerical tasks that feels fair to everyone.
 
 ## How do we decide who leads each project?
 
