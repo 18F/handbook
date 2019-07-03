@@ -32,9 +32,13 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
+- [Procurement Analyst](https://www.usajobs.gov/GetJob/ViewDetails/538663300) - Application Close: Tuesday, 7/9 at 11:59PM ET
+
+
 ### Internal only competitions
 
 - [18F - Director of Account Management - detail](https://docs.google.com/document/d/15FMmW8uW3PIY2dmWL4TEs0IgFjyYrw0HuoKLBjHsmyc/edit?usp=sharing) - Application Close: Friday, 7/12 at 11:59PM PT
+
 
 ## Partner information & opportunities
 
