@@ -34,7 +34,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Internal only competitions
 
-- [Login.gov Product Owner](https://docs.google.com/document/d/1lTKnrS1esiddWsB1Y8mL3XnIp2X1JBjL_2J9zui-j4A/edit?usp=sharing) - Application Close: Monday, 6/24 at noon (12pm ET)
+- [18F - Director of Account Management - detail](https://docs.google.com/document/d/15FMmW8uW3PIY2dmWL4TEs0IgFjyYrw0HuoKLBjHsmyc/edit?usp=sharing) - Application Close: Friday, 7/12 at 11:59PM PT
 
 ## Partner information & opportunities
 
