@@ -28,7 +28,7 @@ Someone (the partner, 18F leadership, or others) might ask you about how the pro
 
 ### Rotating tasks among teammates
 
-The project lead is not the only one responsible for administrative tasks, such as scheduling meetings with partners and taking notes. We encourage project leads to set up systems for rotating this work. For example, a team might have a schedule that indicates who is responsible for sending a progress update email to the partner each week.
+The project lead is not the only one responsible for administrative tasks such as scheduling meetings with partners and taking notes. We encourage project leads to set up systems for rotating this work. For example, a team might have a schedule that indicates who is responsible for sending a progress update email to the partner each week.
 
 At times, it may be strategic for a single team member to own a specific task, but consider this the exception rather than the rule.
 
