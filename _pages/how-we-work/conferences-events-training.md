@@ -23,7 +23,7 @@ TTS encourages all staff to attend conferences, speak at events and focus on pro
 
 1. Once you've connected with your supervisor, continue following all steps outlined by the email that you received.  If you have any issues or questions about your request, please respond to the Events Team (tts-events@gsa.gov) on the automated email thread.  An Events Team member will follow up with you within 2 business days.
 
-1. You will recieve an automated email when your request has been fully approved and paid for or if additional information is needed to complete your registration. You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
+1. You will receive an automated email when your request has been fully approved and paid for or if additional information is needed to complete your registration. You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
 
 ## Approval Timelines
 
