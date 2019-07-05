@@ -19,46 +19,40 @@ For more information on hiring via the Competitive Service (Career) Merit Promot
 
 The following explains the process for initiating TTS internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads).
 
-For detailed information specific to initiating an internal or external detail, please review the [details page]({{site.baseurl}}/assignee-detail) of the handbook.
+For detailed information specific to initiating an internal or external detail, please review the [details page]({{site.baseurl}}/assignee-detail) of the handbook.<br>
 
-Since these are hiring actions, they will mirror our [Merit Promotion]({{site.baseurl}}/promotions) process.  This means:
+Please note the following:
 
 - There must be a vacant Position Number available for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
-- It must be prioritized by the Director of your office and the Front Office
+  - If you do not know how many vacancies your team has, please reach out to the Finance team
+- It must be prioritized by the Director of your office
 
-Talent will assist and facilitate in the hiring process but in order to avoid conflicts of interest, the hiring action owner will be primarily responsible for developing job materials and interacting with applicants (employees).
+Talent will assist with the following:
+- Reviewing the job announcement
+- Posting the announcement 
+- Submitting the PAR action to HR 
 
-#### Submitting a request
-
-If this request is not on the current staffing plan or it is on the staffing plan, but the Hiring Manager (HM) would like it to be prioritized sooner, they must get approval from their organizations Director (ex: Angela Colter for 18F). If the Director agrees, then:
-
-- The Director sends a request to [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov)
-- Talent will send the request to the TTS Front Office
-- If Front Office approves, Talent will add the role to the Backlog of the Talent Acquisition Work-System Board
+The hiring action owner is responsible for developing job materials and interacting with applicants (employees). 
 
 #### Job Prep
 
-Once the prioritized role is ready to be worked on, Talent will move the role to the Job Prep stage on the Trello board and reach out to the HM to begin the process.
+- Once the prioritized role is ready to be worked on, please use the following templates (make sure to make a copy of each template)
 
-- The Talent PoC assigned to the role will supply the HM with the following templates:
-  - TTSJobs Application Form Template
-  - TTSJobs Announcement Template
+  - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing) 
+  - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1fXSPemwm_U-uhBTT92FnAZAlBubF1-Eg8c3y5TnReEg/edit)
+    - Please follow the instructions [here] when creating this form
 
-In addition to the information within the templates, the Action Owner will need to provide:
-
-- Interviewer names (resume reviewer if different than HM or interviewers)
-- Custom Application Form questions
+- In addition to the information within the templates, the hiring manager will need to manage the following: 
+  - Developing the interview process
+  - Scheduling the interviews
+  - Making the selection
+  - Letting the Talent Team know who was selected for the position
 
 Once the TTSJobs Announcement is complete, Talent will:
 
 - Add it to [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) on Slack informing everyone of the new opportunity
 - Add it to [TTSJobs Listings]({{site.baseurl}}/ttsjobs/#announcements)
 
-#### Job Posted
-
-When the job is posted, the role will move to the _Job Announcement_ stage on the trello board the HM dictates when and for how long they would like to post the role. Once the role comes down, Talent will save the resumes and applications in a folder that will be shared with the HM, interviewers and anyone else involved in the hiring decision.
-
-While the applicants are being reviewed by the team, the role will sit in the _Qualification_ stage of the Trello board.
 
 #### Qualification
 
@@ -71,9 +65,6 @@ For HR to move forward with a selection, the applicant must meet the following q
   - if applicant is at the grade below, they will need to provide an updated resume and HR will need to qualify them. **This means Supervisors should NOT announce who they have selected until HR approves the selection**
 - If the role being advertised is a detail and does not have a PD associated with it, then any GS level can apply, unless the HM specifies which GS levels they are accepting.
 
-#### Interview
-
-Once the team has decided who they would like to move forward with, they will send the list of applicants to their Talent PoC for interview scheduling.
 
 #### Selection
 
@@ -88,7 +79,7 @@ It is the responsibility of the HM provide applications with the applicable feed
 
 ### Excepted Service or Competitive Service Hiring Actions filled via open and public competition
 
-These actions are the most common type of action across TTS. Information about the process related to these actions can be found in the [guide to the Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit?usp=sharing)
+These actions are the most common type of actions across TTS. Information about the process related to these actions can be found in the [guide to the Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit?usp=sharing)
 
 ### TTS Hiring - Prioritization Process
 
