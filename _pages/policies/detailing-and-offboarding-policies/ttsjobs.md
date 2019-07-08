@@ -41,6 +41,8 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 - [18F - Consulting Software Engineer](https://docs.google.com/document/d/1wtGmmAxhKP6aYtuhhK6rEmpebo_mce1eCYFQXW4xuwU/edit?usp=sharing) - Application Close: Friday, 7/12 at 5pm ET
 
+- [OPP - Lead Engineer - Data.gov](https://docs.google.com/document/d/1fXV0apyfAl0fPbt3dGcS-9S1JExBbbE2fClOikR6lcs/edit?usp=sharing) - Application Close: Monday, 7/15 at 11:59pm ET
+
 
 ## Partner information & opportunities
 
