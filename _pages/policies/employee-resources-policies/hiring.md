@@ -40,7 +40,7 @@ The hiring action owner is responsible for developing job materials and interact
 
   - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing) 
   - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1fXSPemwm_U-uhBTT92FnAZAlBubF1-Eg8c3y5TnReEg/edit)
-    - Please follow the instructions [here] when creating this form
+
 
 - In addition to the information within the templates, the hiring manager will need to manage the following: 
   - Developing the interview process
