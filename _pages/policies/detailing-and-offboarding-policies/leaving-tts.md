@@ -34,7 +34,7 @@ If you are a supervisor and you are leaving within 120 days of the next review p
 - Midyear review: provide a written review
 - Annual review: provide ratings based on position descriptions
 
-### 3. Review benefits paperwork
+### 3. Review your benefits
 
 * Review your [benefits options](https://docs.google.com/document/d/1fuPxdhSY4YCYQvTFhjmjtLpRK8_ophZnFA9hsK8zftA/edit).
 
@@ -44,6 +44,8 @@ If you are a supervisor and you are leaving within 120 days of the next review p
       you leave. Separated employees retain access to Employee Express (EEX) for 3 years, so long as they retain their login ID and password. Separated employees who lose access to EEX cannot regain it. All separated employees receive a copy of their W-2 by mail at their home address.
 
 * Review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
+
+* You may be entitled to [unemployment insurance](https://oui.doleta.gov/unemploy/unemcomp.asp) if you lose your job, as long as it's not due to misconduct. The amount is small.
 
 If you have any questions, please contact [Mary Robinson (GSA HR)](mailto:marya.robinson@gsa.gov).
 
