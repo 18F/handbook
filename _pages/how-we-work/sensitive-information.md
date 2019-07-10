@@ -37,7 +37,10 @@ You can use [GSA Google Drive](../google-drive/) to share sensitive files, sprea
 
 ### OMB MAX
 
-You can use [OMB MAX](https://max.omb.gov/) to share sensitive files (in appropriate "workspaces" within MAX). We typically use MAX for working with partners who don't have access to — or who don't feel comfortable putting the information in — Google Drive. Some workspaces in MAX are available to private organizations (for example, cloud service providers in the FedRAMP workspaces) and many other government agencies. To request access you can contact [Hyon Kim](https://gsa-tts.slack.com/messages/@hyonkim) and provide your email address and a (extremely short) justification. Be sure you know who you're sharing with before posting.
+You can use [OMB MAX](https://max.omb.gov/) to share sensitive files (in appropriate "workspaces" within MAX). We typically use MAX for working with partners who don't have access to — or who don't feel comfortable putting the information in — Google Drive. Some workspaces in MAX are available to private organizations (for example, cloud service providers in the FedRAMP workspaces) and many other government agencies. Anyone that has a `@gsa.gov` email can self-register to [Max.gov](https://portal.max.gov/portal/home) using the "Register Now" link. Users should register their HSPD-12/PIV card and/or phone for SMS for 2-factor authentication. Max.gov document sharing utilizes [Confluence](https://www.atlassian.com/software/confluence) so you may need to read Max.gov's documentation on how-to manage permissions, upload documents, etc. Be sure you know who you're sharing with before posting, only .gov/.mil/.fed.us stakeholders can self-register to Max.gov, other emails domains can be individually granted access to Max but you will have to personally sponser them by making a request to MAXsupport@omb.eop.gov.
+
+### Cloud.gov
+You can create an S3 service instance on cloud.gov and issue credentials for partners to access it. See https://cloud.gov/docs/services/s3/#interacting-with-your-s3-bucket-from-outside-cloud-gov
 
 ### Password-protected file
 
