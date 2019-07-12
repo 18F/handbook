@@ -73,6 +73,10 @@ Please follow the instructions in this Google Document: [How to get Microsoft fo
 
 Only use browser extensions approved by GSA IT. See [IT Service Catalog: Google Chrome Extension Request](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions) for the list of approved or rejected extensions, as well as how to request approval for a new extension.
 
+## Free and open source development packages
+
+The process on this page is for buying software. In general, open source development libraries are exempt from IT Standards review. See the [CIO GSA Information Technology (IT) Standards Profile](https://www.gsa.gov/directives-library/gsa-information-technology-it-standards-profile-21601f-chge-2-cio) (section 2c) for more detail.
+
 ## Contacts
 
 **TTS SaaS Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov)  
