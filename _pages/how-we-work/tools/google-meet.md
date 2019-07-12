@@ -42,6 +42,16 @@ If the audio for Hangouts has stopped working, you can either reset your compute
 4. If it asks for your password, type your computer log-in password and then hit enter
 5. Audio should now work, but if it doesn't, try re-starting your computer
 
+### Presenting a deck in hangouts
+If you're doing a virtual presentation it can be a bit tricky, so here are some tips to both see what you are presenting and who you are presenting to.
+
+1. Open up in your browser your slides presentation. (Window a)
+2. Click on present with presenter view and a new window will pop up for you to see a thumbnail of your slides and your notes. (Window b)
+2. Fire up your meet meeting in a browser new window. (Window c)
+2. Resize the browser window with the active meet to be half of your screen. (Window c)
+4. Select `present window` and select the window (A) that your presentation is being presented in.
+5. Align your presenter view (B) with the meet on half your screen - now you can see your notes, the folks you are presenting to and a thumbnail of your presentation all on your monitor!
+
 ---
 
 ## Still have questions?
