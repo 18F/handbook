@@ -113,7 +113,8 @@ Working more than 32 billable hours is just fine! 32 is the minimum. However, we
 - Tell your project's AM too so they can adjust the project's financial accounting
 - Work your week!
 - Log total hours in Tock
-- Log total hours in HrLinks. This is where your comp time will be recorded and from where you'll use it for future leave
+- Log total hours in HRLinks. This is where your comp time will be recorded and from where you'll use it for future leave
+  - In HRLinks, you'll also need to navigate to `Request Absence/OT` and make a `Comp time earned` request for the extra hours you worked.
 
 No matter how many hours you work, it is crucial that you accurately report those hours in Tock and receive compensation for that time. Knowing the actual amount of time you work helps us better scope and estimate costs and rates.
 
