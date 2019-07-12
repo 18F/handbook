@@ -19,17 +19,11 @@ To prevent committing sensitive data to your Git repository, install
 which prevents the committing of certain sensitive information to your Git
 repository. Examples include environment variables and private configuration data.
 
-Refer to [the official installation guide for Git
-Seekrets](https://github.com/18F/laptop#want-to-install-just-git-seekret). You can use the
-installed binary with either the command-line or with the GitHub
-Desktop interface.
+Refer to [the official installation guide for Git Seekrets](https://github.com/18F/laptop#want-to-install-just-git-seekret). You can use the installed binary with either the command-line or with the GitHub Desktop interface.
 
-Git Seekret does verification of the current files that will be committed to
-your repository using the git `precommit-hook`. This runs for every commit and
-will not allow you to commit your changes if any secrets are found.
+Git Seekret does verification of the current files that will be committed to your repository using the git `precommit-hook`. This runs for every commit and will not allow you to commit your changes if any secrets are found.
 
-To contribute regular-expressions to match new rules, [see the
-documentation](https://github.com/18F/laptop#git-seekret).
+To contribute regular-expressions to match new rules, [see the documentation](https://github.com/18F/laptop#git-seekret).
 
 ### Google Drive
 
@@ -37,10 +31,13 @@ You can use [GSA Google Drive](../google-drive/) to share sensitive files, sprea
 
 ### OMB MAX
 
-You can use [OMB MAX](https://max.omb.gov/) to share sensitive files (in appropriate "workspaces" within MAX). We typically use MAX for working with partners who don't have access to — or who don't feel comfortable putting the information in — Google Drive. Some workspaces in MAX are available to private organizations (for example, cloud service providers in the FedRAMP workspaces) and many other government agencies. Anyone that has a `@gsa.gov` email can self-register to [Max.gov](https://portal.max.gov/portal/home) using the "Register Now" link. Users should register their HSPD-12/PIV card and/or phone for SMS for 2-factor authentication. Max.gov document sharing utilizes [Confluence](https://www.atlassian.com/software/confluence) so you may need to read Max.gov's documentation on how-to manage permissions, upload documents, etc. Be sure you know who you're sharing with before posting, only .gov/.mil/.fed.us stakeholders can self-register to Max.gov, other emails domains can be individually granted access to Max but you will have to personally sponser them by making a request to MAXsupport@omb.eop.gov.
+You can use [OMB MAX](https://max.omb.gov/) to share sensitive files (in appropriate "workspaces" within MAX). We typically use MAX for working with partners who don't have access to — or who don't feel comfortable putting the information in — Google Drive. Some workspaces in MAX are available to private organizations (for example, cloud service providers in the FedRAMP workspaces) and many other government agencies. Anyone with a `@gsa.gov` email can self-register on [Max.gov](https://portal.max.gov/portal/home); register your HSPD-12/PIV card or set up 2-factor authentication via SMS. Max.gov document sharing uses [Confluence](https://www.atlassian.com/software/confluence) so you may need to read Max.gov's documentation on how to manage permissions and upload documents.
+
+Be sure you know who you need to share with before posting. Only .gov/.mil/.fed.us users can self-register to Max.gov; other email domains can be individually granted access, but you'll have to personally sponser them by making a request to MAXsupport@omb.eop.gov.
 
 ### Cloud.gov
-You can create an S3 service instance on cloud.gov and issue credentials for partners to access it. See https://cloud.gov/docs/services/s3/#interacting-with-your-s3-bucket-from-outside-cloud-gov
+
+You can create an S3 service instance on cloud.gov and issue credentials for partners to access it. See [interacting with your S3 bucket](https://cloud.gov/docs/services/s3/#interacting-with-your-s3-bucket-from-outside-cloud-gov).
 
 ### Password-protected file
 
