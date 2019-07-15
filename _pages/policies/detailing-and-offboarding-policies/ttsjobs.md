@@ -32,14 +32,11 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-- [Procurement Analyst](https://www.usajobs.gov/GetJob/ViewDetails/538663300) - Application Close: Tuesday, 7/9 at 11:59PM ET
-
+- [Busniess Operations Director](https://www.usajobs.gov/GetJob/ViewDetails/539579000) - Application Close: Friday, 7/19 at 11:59pm ET
 
 ### Internal only competitions
 
-- [18F - Director of Account Management - detail](https://docs.google.com/document/d/15FMmW8uW3PIY2dmWL4TEs0IgFjyYrw0HuoKLBjHsmyc/edit?usp=sharing) - Application Close: Friday, 7/12 at 11:59PM PT
-
-- [18F - Consulting Software Engineer](https://docs.google.com/document/d/1wtGmmAxhKP6aYtuhhK6rEmpebo_mce1eCYFQXW4xuwU/edit?usp=sharing) - Application Close: Friday, 7/12 at 5pm ET
+- [18F - Product Manager](https://docs.google.com/document/d/1NUSXAR5M4eiWLnhN-PG64VMhQDHag_q7B_ScspnxjTI/edit?usp=sharing) - Application Close: Monday, 7/22 at 11:59pm ET
 
 - [OPP - Lead Engineer - Data.gov](https://docs.google.com/document/d/1fXV0apyfAl0fPbt3dGcS-9S1JExBbbE2fClOikR6lcs/edit?usp=sharing) - Application Close: Monday, 7/15 at 11:59pm ET
 
