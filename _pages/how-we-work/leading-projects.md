@@ -17,7 +17,6 @@ Here is some of what _success_ includes:
 * Establishing a healthy team with positive working relationships
 * The strategic direction of the project (including alignment with a portfolio, when relevant)
 * Managing work so that team members can be fully billable
-* Establishing a system to fairly rotate administrative or clerical tasks between teammates
 * Identifying project and partner needs (for instance, staffing changes, budget changes, potential work)
 
 In all this, your closest collaborators are 1) your account manager and 2) your project team. They are deeply invested, and will also be asked to account for the project’s success as part of their duties.
@@ -28,11 +27,7 @@ Someone (the partner, 18F leadership, or others) might ask you about how the pro
 
 ### Rotating tasks among teammates
 
-The project lead is not the only one responsible for administrative tasks such as scheduling meetings with partners and taking notes. We encourage project leads to set up systems for rotating this work. For example, a team might have a schedule that indicates who is responsible for sending a progress update email to the partner each week.
-
-At times, it may be strategic for a single team member to own a specific task, but consider this the exception rather than the rule.
-
-Talk with your team about a rotation system for administrative and clerical tasks that feels fair to everyone.
+Teams are more resilient and equitable when administrative tasks like scheduling meetings or taking notes are shared. It can help to proactively set up systems to rotate this work (for example: a schedule for who will send weekly ship emails each week).
 
 ## How do we decide who leads each project?
 
