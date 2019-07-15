@@ -32,7 +32,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-- [Busniess Operations Director](https://www.usajobs.gov/GetJob/ViewDetails/539579000) - Application Close: Friday, 7/19 at 11:59pm ET
+- [Business Operations Director](https://www.usajobs.gov/GetJob/ViewDetails/539579000) - Application Close: Friday, 7/19 at 11:59pm ET
 
 ### Internal only competitions
 
