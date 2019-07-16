@@ -1,17 +1,19 @@
 ---
-title: Top Secret / Sensitive Compartmented Information (TS/SCI) Clearance
+title: Requesting a Higher Security Clearance 
 ---
 
-For certain projects, clients need TTS employees to have this type of clearance so that they are able to view certain documents.  This is the process for TTS employees to request this clearance.
+Most TTS employees has a Public Trust (Moderate Risk - Level 5) clearance. However, for certain projects, clients need TTS employees to have a higher type of clearance so that they are able to view certain documents.  This is the process for TTS employees to request this clearance.
+
+For a list of the different types of security clearances you can go [here](https://en.wikipedia.org/wiki/List_of_U.S._security_clearance_terms). This website also contains links to other helpful sites regarding the different clearance levels.
 
 ## Check your security clearance status
 
 1. Log into [HRLinks]({{site.baseurl}}/leave/#logging-into-hr-links)
-1. Click on the **Navigator** icon in the top right hand corner
-1. Click on "Self Service"
-1. Click on "Personal Information"
-1. Click on "Employee Self Service"
-1. Click on "Employee Security Clearance"
+2. Click on the **Navigator** icon in the top right hand corner
+3. Click on "Self Service"
+4. Click on "Personal Information"
+5. Click on "Employee Self Service"
+6. Click on "Employee Security Clearance"
 
 *Note: If you do not have access to HRLinks, you can email [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov) to check you security clearance information.*
 
