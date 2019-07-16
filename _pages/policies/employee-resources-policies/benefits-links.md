@@ -28,11 +28,11 @@ Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/
 
 ### Benefits and retirement-related questions
 
-Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov)
+Contact [Mary Robinson](mailto:marya.robinson@gsa.gov)
 
 ### Leave policies and questions
 
-Contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
+Contact [Lakita Rivero](mailto:lakita.rivero@gsa.gov) for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
 --------------------------------------------------------------------------------
 
