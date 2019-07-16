@@ -4,6 +4,17 @@ title: Top Secret / Sensitive Compartmented Information (TS/SCI) Clearance
 
 For certain projects, clients need TTS employees to have this type of clearance so that they are able to view certain documents.  This is the process for TTS employees to request this clearance.
 
+## Check your security clearance status
+
+1. Log into [HRLinks]({{site.baseurl}}/leave/#logging-into-hr-links)
+1. Click on the **Navigator** icon in the top right hand corner
+1. Click on "Self Service"
+1. Click on "Personal Information"
+1. Click on "Employee Self Service"
+1. Click on "Employee Security Clearance"
+
+*Note: If you do not have access to HRLinks, you can email [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov) to check you security clearance information.
+
 ## Request process
 
 ### 1. Work with your supervisor to complete the following documents:
