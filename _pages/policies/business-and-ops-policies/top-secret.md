@@ -13,7 +13,7 @@ For certain projects, clients need TTS employees to have this type of clearance 
 1. Click on "Employee Self Service"
 1. Click on "Employee Security Clearance"
 
-*Note: If you do not have access to HRLinks, you can email [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov) to check you security clearance information.
+*Note: If you do not have access to HRLinks, you can email [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov) to check you security clearance information.*
 
 ## Request process
 
