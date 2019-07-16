@@ -1,5 +1,10 @@
 ---
 title: Top Secret / Sensitive Compartmented Information (TS/SCI) Clearance
+tags:
+- secret
+- clearance
+- top
+- security
 ---
 
 For certain projects, clients need TTS employees to have this type of clearance so that they are able to view certain documents.  This is the process for TTS employees to request this clearance.
