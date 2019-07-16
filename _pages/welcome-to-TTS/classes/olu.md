@@ -31,11 +31,6 @@ Time spent taking OLU trainings should be coded as `969 - GSA-mandated Non-Billa
 
 [You can see a full list of all GSA mandatory employee and supervisor trainings on Insite.](https://insite.gsa.gov/employee-resources/training-and-development/mandatory-training)
 
-### Trainings offered by GSA
-
-GSA also offers [optional training classes](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing). These classes are open to all GSA employees on a first come, first served basis and most are virtual to make it accessible to everyone.  
-
-This list is updated on a weekly basis. 
 
 ## Help with OLU
 
