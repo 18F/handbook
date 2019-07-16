@@ -352,7 +352,7 @@ navigation:
       - text: Internal TTS Opportunities
         url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
         internal: false
-      - text: Top Secret/Sensitive Compartmented Information (TS/SCI)
+      - text: Top Secret/Sensitive Compartmented Information (TS/SCI) Clearance
         url: top-secret/
         internal: true
     - text: Outreach
