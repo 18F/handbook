@@ -346,6 +346,9 @@ navigation:
       - text: Talent
         url: talent/
         internal: true
+      - text: Federal resume guide
+        url: resume
+        internal: true
       - text: Refer a person
         url: https://handbook.18f.gov/talent/#referring-a-person
         internal: false
