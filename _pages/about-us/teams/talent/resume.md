@@ -195,4 +195,4 @@ Email: teamlead@awesomeboss.com
 
 ### Still have questions?
 
-**General questions** Please reach out to TTS Talent via [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
+Please reach out to the TTS Talent Team by emailing [jointts@gsa.gov](mailto:jointts@gsa.gov).
