@@ -8,19 +8,21 @@ tags:
 - training and development
 ---
 
+Funds are allocated to every office each year for training and development opportunities. If the money is not used by the end of the fiscal year we lose it!  So make sure to take advantage of this benefit GSA/TTS offers.
+
 GSA's Talent Development Division, in the Office of Human Resources, offers a number of training, developmental
 and coaching sessions. Below are options available to all GSA employees:
 
 ### Trainings 
 
-* [Free trainings]((https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing)
+* [Free trainings](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing)
   * These courses are open to all employees on a first come, first serve bases. Most are virtual to make it accessible to
   everyone.
   * This list is updated on a weekly basis. 
 
 * [Training courses avaialble on BPA](https://docs.google.com/spreadsheets/d/1ptc22YXW2u_Yk1Zg7eiFvnT2RYb6eV8CVPRn0Gp3GmI/edit#gid=1410148690)
-  * GSA also procures training via a Blanket purchase agreement. These courses do require payment and and a signed agreement.
-  * You can learn more about this service and who to contact with questions [here](https://insite.gsa.gov/topics/training-and-development/developmental-services/training-acquisition-previously-u4p).
+  * GSA also procures training via a Blanket purchase agreement. These courses _do_ require payment and a signed agreement.
+  * To learn more about this service and who to contact with questions go [here](https://insite.gsa.gov/topics/training-and-development/developmental-services/training-acquisition-previously-u4p).
   
 * [Supervisor Training](https://insite.gsa.gov/topics/training-and-development/supervisor-resources/new-supervisors)
   * This website offers helpful information and resources for new supervisors as well as a link to all the mandatory training
@@ -32,14 +34,12 @@ and coaching sessions. Below are options available to all GSA employees:
 complete the coaching work in addition to their other assignments.
   * To learn more about this program and how to submit a request go [here](https://insite.gsa.gov/topics/training-and-development/developmental-services/coaching-services/how-do-i-get-a-coach).
   
-* GSA also has a mentoring program that offers small group discussions on a number of topics.  For an overview of the different
-types of programs offered go [here](https://insite.gsa.gov/topics/training-and-development/mentoring-program)
+* GSA also has a mentoring program that offers small group discussions on a number of topics.  For an overview of the different types of programs offered go [here](https://insite.gsa.gov/topics/training-and-development/mentoring-program)
 
 ### Other Opportunities
 
 * [Virtual Lunch & Learn Series](https://insite.gsa.gov/employee-resources/training-and-development/continuous-learning/virtual-lunch-learn-series)
-  * monthly, one hour virtual sessions, delivered via GSA Meeting Space that are focused on work/life balance. Topics include: Gender Equality, Cross Culture
-  Communication, Yoga at Your Workstation.
+  * monthly, one hour virtual sessions, delivered via GSA Meeting Space that are focused on work/life balance. Topics include: Gender Equality, Cross Culture Communication, Yoga at Your Workstation.
 
 ### Resources
 
