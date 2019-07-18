@@ -37,13 +37,6 @@ and coaching sessions. Below are options available to all GSA employees:
   * This site isn't only for mandatory trainings.  It also contains over 2,000 courses including: computer skills, project management, finance, professional effectiveness and more AND offers a large selection of on-line books covering a wide range of subjects.
   * Need help? Contact [GSAOLUSupport@mail.eskillz.com](mailto:GSAOLUSupport@mail.eskillz.com)
   
-*  [Treasury's Executive Institute Development Program](https://insite.gsa.gov/topics/training-and-development/leadership-resources/treasury-executive-institute-tei)
-  * GSA has a partnership with the Dept. of Treasury's program which offers employees at the GS-14, 15, and SES grade levels access to training opportunities both on-line and in a classroom to help develop and enhance managerial skills.
-  * Questions? Contact [TEIInquiries@gsa.gov](mailto:TEIInquiries@gsa.gov)
-  
- * [GSA Opportunity Network](https://insite.gsa.gov/employee-resources/training-and-development/opportunity-network)
-   * Here you can find part-time projects, full-time details, job shadowing and temporary promotion opportunities in another part of GSA that can provide you with the chance to stretch your skills and expand your network. 
-   * Questions? Contact [wendy.cobb@gsa.gov](mailto: wendy.cobb@gsa.gov)
 
 ### Coaching & Mentoring Services
 
@@ -57,6 +50,14 @@ complete coaching work in addition to their other assignments.
 
 * [Virtual Lunch & Learn Series](https://insite.gsa.gov/employee-resources/training-and-development/continuous-learning/virtual-lunch-learn-series)
   * monthly, one hour virtual sessions, delivered via GSA Meeting Space that are focused on work/life balance. Topics include: Gender Equality, Cross Culture Communication, Yoga at Your Workstation.
+  
+*  [Treasury's Executive Institute Development Program](https://insite.gsa.gov/topics/training-and-development/leadership-resources/treasury-executive-institute-tei)
+  * GSA has a partnership with the Dept. of Treasury's program which offers employees at the GS-14, 15, and SES grade levels access to training opportunities both on-line and in a classroom to help develop and enhance managerial skills.
+  * Questions? Contact [TEIInquiries@gsa.gov](mailto:TEIInquiries@gsa.gov)
+  
+* [GSA Opportunity Network](https://insite.gsa.gov/employee-resources/training-and-development/opportunity-network)
+   * Here you can find part-time projects, full-time details, job shadowing and temporary promotion opportunities in another part of GSA that can provide you with the chance to stretch your skills and expand your network. 
+   * Questions? Contact [wendy.cobb@gsa.gov](mailto:wendy.cobb@gsa.gov)
 
 ### Resources
 
