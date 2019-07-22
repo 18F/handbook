@@ -32,6 +32,26 @@ We invest extra effort into our communication strategies because we are a mostly
 *   **Balance Scores** - At every meeting, we each report our "balance score" -- a number from 1 to 10 that represents how well you are recognizing and honoring your priorities in your personal, work, and spiritual life. Everyone knows about the struggle for "work-life balance", and this practice is our way of empowering people to honor theirs -- with the addition of spiritual/mental health as well. A high balance score doesn't necessarily mean everything is going perfectly in your life, but it means you are honoring the priorities you have set for yourself. By hearing the balance of other team members, we can remain attuned to who might need extra support, or who is thriving and might have capacity to serve as a resource for others.
 *   **Culture Videos** - Captured at the 2016 retreat, we have [several videos](https://vimeo.com/civicactions) that feature team members talking about CivicActions. It's an interesting glimpse into the different values and appreciations from our peers. We invest a lot of energy into appreciating each other and creating a company where people are free to be themselves and grow their skills by taking risks and learning from failure.
 
+### Personal pronouns
+Being a gender-diverse team means that not everyone’s pronouns are immediately obvious, so it’s important to find out. Taking the time to learn and use your teammates’ personal pronouns correctly will help you communicate respectfully.  
+
+Sharing your own pronouns promotes clarity and transparency and can also promote inclusion by normalizing the practice. Good places to communicate your pronouns are: your Slack profile, email signature, business card, CivicActions staff bio (if already published, request the addition in #content), or in spoken communication where you feel it is appropriate.
+
+These practices won’t be familiar to everyone, and it may take some time and practice to get used to. That’s ok — there are plenty of resources and people here to support you as you learn. 
+
+**Resources**
+Check out the All Hands Call on personal pronouns to learn more about:
+- What are gender neutral pronouns?
+- Why do personal pronouns matter in our industry?
+- What to do if you mess up
+- How to make a correction
+
+[AHC: Personal pronouns (recording)](https://zoom.us/recording/share/3GaptIga76qv8Ez3ZLWlOOnnaEC1lDaDbykbNO1yA0-wIumekTziMw)
+[AHC: Personal pronouns (slide deck)](https://docs.google.com/presentation/d/1v0Ak3oAL5ZrxywQUf1hioUe3BY-73IeaV1XNiAhb9UY/edit)
+
+If you have questions, concerns, or just want to practice, you can DM a designated DEI point person listed in the #dei-practice-area channel description for support.
+
+
 ## Transparency
 
 ### What is Radical Transparency?
