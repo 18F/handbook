@@ -32,13 +32,16 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-- [Business Operations Director](https://www.usajobs.gov/GetJob/ViewDetails/539579000) - Application Close: Friday, 7/19 at 11:59pm ET
 
 ### Internal only competitions
 
-- [18F - Product Manager](https://docs.google.com/document/d/1NUSXAR5M4eiWLnhN-PG64VMhQDHag_q7B_ScspnxjTI/edit?usp=sharing) - Application Close: Monday, 7/22 at 11:59pm ET
+- [Federalist - Lead Engineer](https://docs.google.com/document/d/1VwSVQbUo61V7MyE_cvUUF-I4BA-uNQXBNk7_4Q0Jznw/edit?usp=sharing) - Application Close: Friday, 7/26 at 11:59pm ET
 
-- [OPP - Lead Engineer - Data.gov](https://docs.google.com/document/d/1fXV0apyfAl0fPbt3dGcS-9S1JExBbbE2fClOikR6lcs/edit?usp=sharing) - Application Close: Monday, 7/15 at 11:59pm ET
+- [cloud.gov - Product Manager](https://docs.google.com/document/d/1mpJm46Qfzxy_YIb-E-Fm21N9wzt-9cPfgGBHmtEYflI/edit?usp=sharing) - Application Close: Friday, 7/26 at 11:59pm ET
+
+- [cloud.gov - Deputy Director](https://docs.google.com/document/d/1lMs3sYvn420-BEAFJkED_O1rpzKTnX0dYxc3pJXf2vg/edit?usp=sharing) - Application Close: Friday, 7/26 at 11:59pm ET
+
+- [18F - Product Manager](https://docs.google.com/document/d/1NUSXAR5M4eiWLnhN-PG64VMhQDHag_q7B_ScspnxjTI/edit?usp=sharing) - Application Close: Monday, 7/22 at 11:59pm ET
 
 
 ## Partner information & opportunities
