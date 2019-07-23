@@ -110,7 +110,11 @@ The location of onboarding differs based on how many people are coming into GSA.
 
 Send mail to:
 
-> General Services Administration | 1800 F ST NW | Rm 4400 | Washington, DC 20405-0001 (you can add "ATTN: Name" at top).
+> (you can add "ATTN: Name" at top if desired) <br>
+> General Services Administration <br>
+> 1800 F ST NW <br>
+> Rm 4400 <br>
+> Washington, DC 20405-0001
 
 ### Access the building after hours?
 
