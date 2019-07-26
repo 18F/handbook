@@ -232,7 +232,7 @@ See the instructions for [enrolling or cancelling your transit subsidy benefit](
 - Fire/Ambulance: 911
 - [Tenant Support](https://insite.gsa.gov/portal/category/533226), including a business hours phone number (such as for reporting facility problems) and an after-hours emergency number.
 - [Lost and Found](https://insite.gsa.gov/portal/content/615450)
-- [Health Unit](https://insite.gsa.gov/portal/content/615454)
+- [Health Unit](https://insite.gsa.gov/locations/central-office/amenities-and-services/central-office-employee-health-services)
 - [OEO Assignments](https://docs.google.com/spreadsheets/d/1-7o3MIakF6OAMPyYqjfQyit8iBBbpXw6U6IxhhdNGRQ/edit#gid=673464213) (wing monitors, floor warden, etc.)
 
 ### Health center
