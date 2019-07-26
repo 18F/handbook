@@ -395,6 +395,9 @@ navigation:
       - text: Time tracking and billing
         url: tock/#time-tracking-and-billing
         internal: false
+      - text: How we staff projects
+        url: staffing-projects/
+        internal: true
     - text: 18F chapters
       children:
       - text: Custom Partner Solutions
