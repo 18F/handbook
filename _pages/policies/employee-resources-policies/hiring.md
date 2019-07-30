@@ -50,7 +50,7 @@ The hiring action owner is responsible for developing job materials and interact
 
 Once the TTSJobs Announcement is complete, Talent will:
 
-- Add it to [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) on Slack informing everyone of the new opportunity
+- Add it to [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack informing everyone of the new opportunity
 - Add it to [TTSJobs Listings]({{site.baseurl}}/ttsjobs/#announcements)
 
 
@@ -89,4 +89,4 @@ For an overview of the way in which hiring actions are collected, prioritized an
 
 ### Still have questions?
 
-**General questions** Please reach out to TTS Talent via [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
+**General questions** Please reach out to TTS Talent via [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.

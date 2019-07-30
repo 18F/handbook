@@ -26,7 +26,7 @@ This page serves as a central listing for:
 - Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
 - Links to Excepted Service job announcements posted on the TTS Join site
 
-If you’d like to be notified when new opportunities are listed on this page, please join the [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) slack channel.
+If you’d like to be notified when new opportunities are listed on this page, please join the [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) slack channel.
 
 ## Announcements
 
@@ -57,4 +57,4 @@ For any TTS staff interested in learning what it’s like to transition from TTS
 ### Still have questions?
 
 **Have questions about an announcement listed?** Please reach out to the Hiring PoC listed on the announcement
-**General questions** Please reach out to TTS Talent via [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
+**General questions** Please reach out to TTS Talent via [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
