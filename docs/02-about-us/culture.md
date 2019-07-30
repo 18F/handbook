@@ -40,13 +40,12 @@ Sharing your own pronouns promotes clarity and transparency and can also promote
 These practices won’t be familiar to everyone, and it may take some time and practice to get used to. That’s ok — there are plenty of resources and people here to support you as you learn. 
 
 **Resources**
-Check out the All Hands Call on personal pronouns to learn more about:
+Check out the All Hands Call slide deck on personal pronouns to learn more about:
 - What are gender neutral pronouns?
 - Why do personal pronouns matter in our industry?
 - What to do if you mess up
 - How to make a correction
 
-[AHC: Personal pronouns (recording)](https://zoom.us/recording/share/3GaptIga76qv8Ez3ZLWlOOnnaEC1lDaDbykbNO1yA0-wIumekTziMw)
 [AHC: Personal pronouns (slide deck)](https://docs.google.com/presentation/d/1v0Ak3oAL5ZrxywQUf1hioUe3BY-73IeaV1XNiAhb9UY/edit)
 
 If you have questions, concerns, or just want to practice, you can DM a designated DEI point person listed in the #dei-practice-area channel description for support.
