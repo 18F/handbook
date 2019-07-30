@@ -104,7 +104,9 @@ Each program office is responsible for the cost of these services.
     2. an estimated ceiling for number of hours needed  
     3. an estimated ceiling for the cost of services  
  3. Export the approved email as a PDF
- 4. Get access to [C2]({{site.baseurl}}/purchase-requests/#c2) and fill out a purchase request. Include the director's email approval as an attachment in the request.
+ 4. You can use the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) to request an official purchase of anything under $10,000. 
+ * Upon completing it, you will get an automated email, which confirms the details you entered, outlines any further actions you need to take, and loops in everyone who would need to approve your type of request. 
+ * Different types of requests have different timelines for completion, but you should expect a response from whoever is identified to review your request within two business days.
  5. The purchase card holder will clear the agreement and terms of service with GSA’s Office of General Counsel
  6. The purchase card holder will schedule a call with the individual or supervisor to execute the purchase.
 
