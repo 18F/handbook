@@ -20,6 +20,13 @@ We also do things like:
 - Advise TTS leadership on technology-related matters
 - Generally support TTS on any technology-related matters
 
+## Important links
+
+- [The Tech Portfolio Kanban board](https://github.com/orgs/18F/projects/11?fullscreen=true) - what we're working on
+- [Before You Ship](https://before-you-ship.18f.gov/) - TTS's internal documentation about security, compliance, and infrastructure
+- [Software-as-a-service (SaaS) in use at TTS](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0)
+- [More internal documentation](https://docs.google.com/document/d/1qIms6TcYOQ24BerQrxAFzTKAqVS6VNCpWklwTsxBmWA/edit#)
+
 ## Questions
 
 Find us in Slack in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/), email us at [devops@gsa.gov](mailto:devops@gsa.gov), or [file an issue](https://github.com/18F/tts-tech-portfolio/issues/new).
