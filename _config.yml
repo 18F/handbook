@@ -29,6 +29,9 @@ exclude:
 sass:
   style: :compressed
 
+styles:
+  - stylesheets/screen.css
+
 defaults:
   -
     scope:
