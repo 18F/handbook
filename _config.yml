@@ -32,6 +32,11 @@ sass:
 styles:
   - stylesheets/screen.css
 
+scripts:
+  - javascripts/jquery-3.4.1.min.js
+  - javascripts/private-eye.js
+  - javascripts/application.js
+
 defaults:
   -
     scope:
