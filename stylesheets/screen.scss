@@ -188,10 +188,12 @@ img.travel-guide-hide {
 }
 
 .toc-nav-children-level-3 {
+  margin: 0;
   padding-top: 0.6em;
 }
 
 .toc-nav-children-level-4 {
+  margin: 0;
   padding-top: 0.6em;
   padding-bottom: 1em;
   -webkit-column-break-inside: avoid;
@@ -200,6 +202,7 @@ img.travel-guide-hide {
 }
 
 .toc-nav-children-level-5 {
+  margin: 0;
   padding-left: 1rem;
 }
 
@@ -255,11 +258,12 @@ img.travel-guide-hide {
   ol h3 {
     font-size: 20px;
     font-weight: 600;
-    margin-bottom: 0.5em;
+    margin: 0 0 0.5em;
   }
 
   ol h4 {
-    font-size: 18px;
+    margin: 0;
+    font-size: 17px;
     font-weight: normal;
   }
 }
