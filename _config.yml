@@ -330,16 +330,8 @@ navigation:
         - text: State and local agreements
           url: state-local-agreements/
           internal: true
-    - text: Governance and Compliance
-      children:
-      - text: Coming soon!
-    - text: Infrastructure
-      children:
-      - text: Infrastructure (TTS)
-        url: infrastructure/
-        internal: true
-      - text: Infrastructure (18F)
-        url: intro-to-18f-infrastructure/
+      - text: Technology Portfolio
+        url: tech-portfolio/
         internal: true
     - text: Talent team
       children:
