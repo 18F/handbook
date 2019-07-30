@@ -46,14 +46,26 @@ complete coaching work in addition to their other assignments.
   
 * GSA also has a mentoring program that offers small group discussions on a number of topics.  For an overview of the different types of programs offered go [here](https://insite.gsa.gov/topics/training-and-development/mentoring-program)
 
+## Leadership Development
+
+*  [Treasury's Executive Institute Development Program (TEI)](https://insite.gsa.gov/topics/training-and-development/leadership-resources/treasury-executive-institute-tei)
+  * GSA has a partnership with the Dept. of Treasury's program which offers employees at the GS-14, 15, and SES grade levels access to training opportunities both on-line and in a classroom to help develop and enhance managerial skills.
+  * Questions? Contact [TEIInquiries@gsa.gov](mailto:TEIInquiries@gsa.gov)
+  
+* [Skillsoft Leadership Development Program (SLDP)](https://insite.gsa.gov/employee-resources/training-and-development/leadership-resources/skillsoft-leadership-development-program)
+  * The goal of the SLDP is to develop a new generation of GSA leaders by providing virtual training sessions that align with the [GSA Leadership Development Framework](https://insite.gsa.gov/cdnstatic/insite/GSA_Leadership_Development_Framework.pdf). the training is self-paced, allowing you to learn within your own schedule.
+  * You can enroll in these training by going into [OLU](https://hcm03.ns2cloud.com/sf/start?_s.crb=mu1vypAy2wtnIqrYntg5iygJ9ac%253d), scrolling down to the SLDP section and clicking on the training titles.
+  * Questions?  Contact [Joshua Dillon](Joshua.Dillon@gsa.gov). 
+  
+* [Competitive Development Program (CDP)](https://insite.gsa.gov/topics/training-and-development/leadership-resources/competitive-development-program-cdp)
+  * This is a competitve program that requires approval from your 1st and 2nd level supervisor.  To learn about the application process go [here](https://docs.google.com/document/d/1WS3vaYPXtdaz36hCjrey3H0Ew0UNWIGm-J8w4JHynh4/edit).  
+  * For a list of the types of programs you can apply to go [here](https://docs.google.com/document/d/1BqDQbiu2_H8jvzEf6xxTFY5mH4qHcCeSPyT_ykmhHsI/edit)
+  * Questions? Contact: [cdp@gsa.gov](mailto:cdp@gsa.gov)
+
 ### Other Opportunities
 
 * [Virtual Lunch & Learn Series](https://insite.gsa.gov/employee-resources/training-and-development/continuous-learning/virtual-lunch-learn-series)
   * monthly, one hour virtual sessions, delivered via GSA Meeting Space that are focused on work/life balance. Topics include: Gender Equality, Cross Culture Communication, Yoga at Your Workstation.
-  
-*  [Treasury's Executive Institute Development Program](https://insite.gsa.gov/topics/training-and-development/leadership-resources/treasury-executive-institute-tei)
-  * GSA has a partnership with the Dept. of Treasury's program which offers employees at the GS-14, 15, and SES grade levels access to training opportunities both on-line and in a classroom to help develop and enhance managerial skills.
-  * Questions? Contact [TEIInquiries@gsa.gov](mailto:TEIInquiries@gsa.gov)
   
 * [GSA Opportunity Network](https://insite.gsa.gov/employee-resources/training-and-development/opportunity-network)
    * Here you can find part-time projects, full-time details, job shadowing and temporary promotion opportunities in another part of GSA that can provide you with the chance to stretch your skills and expand your network. 
