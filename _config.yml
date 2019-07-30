@@ -1,4 +1,5 @@
 # Site settings
+theme: uswds-jekyll
 title: TTS Handbook
 description: A collection of guides and policies to help you with your work.
 email:
@@ -39,7 +40,7 @@ defaults:
 collections:
   pages:
     output: true
-    permalink: /:path/
+    permalink: /:name/
 
 # Google Analytics tracking code for handbook
 google_analytics_ua: UA-48605964-19
