@@ -7,7 +7,7 @@ tags:
 
 Most TTS employees has a Public Trust (Moderate Risk - Level 5) clearance. However, for certain projects, clients need TTS employees to have a higher type of clearance so that they are able to view certain documents.  This is the process for TTS employees to request this clearance.
 
-For a list of the different types of security clearances you can go [here](https://en.wikipedia.org/wiki/List_of_U.S._security_clearance_terms). This website also contains links to other helpful sites regarding the different clearance levels.
+[See Wikipedia for a list of different types of security clearances](https://en.wikipedia.org/wiki/List_of_U.S._security_clearance_terms).
 
 ## Check your security clearance status
 
