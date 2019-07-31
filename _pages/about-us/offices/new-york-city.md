@@ -71,7 +71,12 @@ Use [BookIT](http://bookit.gsa.gov/).
 
 ### Use the monitors/docks?
 
-[The DisplayLink docks](https://www.targus.com/us/universal-usb-3-0-dv4k-docking-station-with-power-dock177usz) can be used with Macs over USB, though you may need to [install drivers](http://www.displaylink.com/downloads/macos). If that doesn't work, we have a couple of DVI to HDMI cords sitting by the 18F desks that can connect to the monitors directly.
+[The DisplayLink docks](https://www.targus.com/us/universal-usb-3-0-dv4k-docking-station-with-power-dock177usz) can be used with Macs over USB, though will need to install the drivers.
+
+1. From `Applications`, open the `GSA Self Service` app
+1. `Install` the `Display Link` driver
+
+If that doesn't work, we have a couple of DVI to HDMI cords sitting by the 18F desks that can connect to the monitors directly.
 
 ### Use the printers?
 
