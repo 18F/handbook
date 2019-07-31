@@ -10,7 +10,7 @@ Steps to take after onboarding <br>
 
 If you're traveling for TTS during your first two weeks (normally for orientation, if you're based in a city that doesn't have a TTS office), you'll need to follow special procedures to get your account set up, which will allow you to make your flight and hotel reservations via AdTrav by calling (877) 472-6716. Here's what you need to do:
 
-1. First thing to get is a **“travel vendor ID”**, which you can request by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing) and sending it to:
+1. First thing to get is a **“travel vendor ID”**, which you can request by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing) and sending it to:  
 kc-vendor.number.requests@gsa.gov.
 
    _Note if you haven't started and don't have your GSA email address yet_:
