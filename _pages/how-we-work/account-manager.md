@@ -28,8 +28,6 @@ During discussion(s) with the partner, the AM will:
 
 The AM then works with the partner to draft the statement of work (SOW). Once there’s agreement on the SOW, the AM submits the partner’s information to the TTS agreements team so they can prepare the IAA package and route it to the partner for signature.
 
-The AM then works with the partner to draft the statement of work (SOW). Once there’s agreement on the SOW, the AM submits the partner’s information to the TTS agreements team so they can prepare the IAA package and route it to the partner for signature.
-
 To submit a project to the agreement process, the AM must include the SOW, cost estimator, and a complete partner prep survey in the [IAA request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdRQerRDxl4hPX_zTQJcY9fR9i0z3LI3dLQiKE0uyJ5fF666g/viewform). 
 Once an agreement has been submitted to the IAA process, the AM works with other SMEs to identify project staffing needs and submit a staffing issue to the [Staffing Repo](https://github.com/18F/staffing). Projects are not staffed until the agreement has been _fully executed_ and it can take _up to 8 weeks_ to staff a project after it’s been executed.
 
