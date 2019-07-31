@@ -12,6 +12,19 @@ While OPP was paving the way for government shared services and open data, there
 
 That project became [18F](https://18f.gsa.gov/) when the office officially launched in March 2014. 18F quickly grew in size to help federal agencies work on technology projects while learning new skills. In 2016, 18F, PIF, and OPP came together under the newly-formed Technology Transformation Service office. In 2017, TTS added the [IT Modernization Centers of Excellence (CoEs)](https://coe.gsa.gov/) to focus on whole-agency technology modernization, and all of TTS moved into GSA’s existing Federal Acquisition Service.
 
+
+## TTS Today
+
+TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offices:  
+
+- **18F** provides digital development and consulting services for any government agency or program, with a focus on cultural transformation and empowerment of the agencies they work with. A critical part of 18F’s mission is to teach agencies new digital skills during projects so that the agencies can take over continued development.
+- **The Office of Products and Programs (OPP)** helps agencies improve delivery of information and services to the public. Responsible for operations, evolution, and scaling of mature products and services such as USA.gov, Data.gov, Challenge.gov and the Digital Analytics Program.
+- **The Centers of Excellence (CoEs)** helpls accelerate IT modernization to improve the citizen experience, improve agency outcomes, and reduce legacy IT spending across the government by leveraging private sector innovation and existing government services while providing access to best practices and expertise.
+- **The Presidential Innovation Fellowship (PIF)**  is a year-long fellowship that pairs talented, diverse technologists and innovators with top civil-servants and change-makers in the federal government to tackle some of our nation’s most pressing technology challenges.
+- **TTS Operations** keep everything running and ensures the team has the tools needed to focus on the TTS mission. This includes keeping our finances straight, making sure we’re in compliance with all the rules we have to follow, helping us go to conferences, and recruiting new employees, among other things.
+- **Office of Acquisition** drives smarter technology procurement through technical procurement consultations, new procurement vehicle creation, and the development of experimental procurement platforms and methodologies.
+
+
 ## Our values
 
 * **Listen, understand, and then act**  
