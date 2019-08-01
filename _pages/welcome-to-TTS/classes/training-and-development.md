@@ -18,7 +18,7 @@ In the Office of Human Resources Management (OHRM), GSA's Talent Development Div
 
 ### Free trainings
 
-These are many [free courses](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing) that are open to all TTS employees on a first-come, first-served basis. Most of these trainings are virtual to make it accessible to everyone. This list is updated on a weekly basis. 
+There are many [free courses](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing) that are open to all TTS employees on a first-come, first-served basis. Most of these trainings are virtual to make it accessible to everyone. This list is updated on a weekly basis. 
 
 ### Group trainings
 
@@ -53,7 +53,7 @@ GSA has a partnership with the Department of Treasury's Executive Institute (TEI
 
 ### Skillsoft Leadership Development Program (SLDP)
 
-The goal of the [Skillsoft Leadership Development Program](https://insite.gsa.gov/employee-resources/training-and-development/leadership-resources/skillsoft-leadership-development-program) is to develop a new generation of GSA leaders by providing virtual training sessions that align with the [GSA Leadership Development Framework](https://insite.gsa.gov/cdnstatic/insite/GSA_Leadership_Development_Framework.pdf). The training is self-paced, allowing you to learn within your own schedule. You can enroll in these training by going into [OLU](https://gsaolu.gsa.gov/), scrolling down to the SLDP section and clicking on the training titles. Questions? Contact [Joshua.Dillon@gsa.gov](mailto:Joshua.Dillon@gsa.gov). 
+The goal of the [Skillsoft Leadership Development Program](https://insite.gsa.gov/employee-resources/training-and-development/leadership-resources/skillsoft-leadership-development-program) is to develop a new generation of GSA leaders by providing virtual training sessions that align with the [GSA Leadership Development Framework](https://insite.gsa.gov/cdnstatic/insite/GSA_Leadership_Development_Framework.pdf). The training is self-paced, allowing you to learn within your own schedule. You can enroll in these trainings by going into [OLU](https://gsaolu.gsa.gov/), scrolling down to the SLDP section and clicking on the training titles. Questions? Contact [Joshua.Dillon@gsa.gov](mailto:Joshua.Dillon@gsa.gov). 
   
 ### Competitive Development Program (CDP)
 
