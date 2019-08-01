@@ -1,9 +1,11 @@
+---
 title: Top Secret / Sensitive Compartmented Information (TS/SCI) Clearance
 tags:
 - secret
 - clearance
 - top
 - security
+---
 
 Most TTS employees has a Public Trust (Moderate Risk - Level 5) clearance. However, for certain projects, clients need TTS employees to have a higher type of clearance so that they are able to view certain documents.  This is the process for TTS employees to request this clearance.
 
