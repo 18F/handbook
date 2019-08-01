@@ -42,7 +42,7 @@ Requesting a domain renewal is much easier than requesting software. The TTS Saa
 
 ## SSL/ECA certificates
 
-SSL and ECA Certificates fall somewhere between a software request and a domain renewal request. There is no ATO required for SSL Certificates, however, FITARA approval is still required. To obtain SSL/ECA Certificates, you will need to submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) and follow the instructions. Then, the TTS SaaS PM and TTS OA Director will work with OCIO to get FITARA approval. 
+SSL and ECA Certificates fall somewhere between a software request and a domain renewal request. There is no ATO required for SSL Certificates, however, FITARA approval is still required. To obtain SSL/ECA Certificates, you will need to submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) and follow the instructions. Then, the TTS SaaS PM and TTS OA Director will work with OCIO to get FITARA approval.
 
 ## Services
 
@@ -54,8 +54,8 @@ Examples of services TTS has procured:
 
 Please follow the recommended steps below when ordering services under $10,000:
 
-1. For all requests, submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) to initiate the request process. It will instruct you on next steps. 
-2. You will need to make a copy of this [RFQ template](https://docs.google.com/document/d/1u9HZeUN8uEkyJbcQO6EWyyzawNgw4yijD4jV5h8C5mQ/edit?usp=sharing), fill it out and attach the link to the micropurchase reqeust form.
+1. For all requests, submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) to initiate the request process. It will instruct you on next steps.
+2. You will need to make a copy of this [RFQ template](https://docs.google.com/document/d/1u9HZeUN8uEkyJbcQO6EWyyzawNgw4yijD4jV5h8C5mQ/edit?usp=sharing), fill it out, and attach the link to the micropurchase request form.
 3. After you submit the form, the TTS Micro-Purchase Project Manger and the OA Director will review the RFQ. Please be ready to address any questions, comments, or feedback at your earliest convenience. 
 4. After the RFQ is approved by the OA Director, you will send it to the appropriate vendor(s) and cc the TTS Micro-Purchase PM. When sending the RFQ to vendor(s), keep in mind:
     * If they’ve been government employees who worked in TTS within the past two years, we can’t hire them.
