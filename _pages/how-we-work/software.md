@@ -20,7 +20,7 @@ If your software is in the Catalog, fill out the rest of the form to request a l
 
 ## Purchase new software
 
-If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), you will need to fill out a C2 request for TTS to purchase the software. Here's how:
+If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), you will need to fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform)by following the steps below:
 
 ### Step 1: find or get an ATO
 
@@ -30,40 +30,13 @@ If the software you are purchasing has a valid ATO listed in GEAR, then you can 
 
 If the ATO is expired or you cannot find it in GEAR, you can post in the Slack channel [#gsait-shared](https://gsa-tts.slack.com/messages/gsait-shared/) to ask if there is an updated ATO. If there is no ATO or the ATO is expired, you will need to go through the ATO process to ensure your software is approved by security. You can follow these steps to [submit a new software for ATO](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/software-and-applications/software-downloads-and-requests/it-standards). The ATO process can take 4-6 weeks and there is no guarantee it will be approved. If your need is urgent, try to find something in [GEAR, IT Standards](https://ea.gsa.gov/#!/itstandards) list that is already approved and meets your needs.
 
-### Step 2: use C2 to make a request
+### Step 2: use the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) to make a request
 
-[Get access to C2 and make a request]({{site.baseurl}}/purchase-requests/#c2), then come back here.
-
-After you make the C2 request:
-
-* Add the TTS SaaS PM, and the TTS Office of Acquisition (OA) Director as observers to the request. You can do this by scrolling all the way to the bottom of the C2 page to where it says “Observers” and typing in their names or emails. Please see the POC section below to find the names and contact information of the current TTS SaaS PM and OA Director. 
-
-**Once you complete this step, there are 4 things that you will need in C2 before the software can be approved:**
-
-#### 1. ATO
-
-This is the step where you attach the ATO from GEAR that you saved to your desktop. Attach it as a file in the C2 request so the finance team and the OA team can see it and approve the purchase. Remember that without an ATO, your software purchase cannot be approved, so make sure you have an ATO before initiating the C2 request.
-
-#### 2. Supervisor approval
-
-Supervisor approval is easy! You have two options: 
-
-  - Add your supervisor as an observer in C2 by scrolling all the way to the bottom where it says “Observers” and type in their email. (If they have never used C2, you may need to request access for them, like you did for yourself at the beginning of the process.) Then, they simply need to add a comment “Approved” in your C2 request. Please note that for OPP purchases, the OPP Director’s approval is required in addition to the portfolio supervisor’s approval.
-  - Send an email to your supervisor requesting their approval for the software you need. You should include your justification for why you need the software. They can email back “Approved”. Please note that for OPP purchases, the OPP Director’s approval is required in addition to the portfolio supervisor’s approval. Go to print the email chain and save it as a PDF. Then attach the file in C2. 
-
-#### 3. Finance approval
-
-Finance approval will come from the Director of Operations or their designees. Once they see the correct attachments in C2 and confirm finances are available for the purchase, they will approve the purchase in C2. A green check mark will appear next to Step 1 in C2. Any clarification of budget code will be made through the comments to the requests.
-
-#### 4. FITARA
-
-[Federal IT Acquisition Reform Act (FITARA)](https://management.cio.gov/) is legislation that puts federal agency Chief Information Officers (CIOs) in control of IT investments. This means that the CIO and Chief Technology Officer (CTO) need to give documented approval of an IT purchase to remain compliant with this act.
-
-The good news? You don’t have to worry about FITARA! The TTS SaaS PM and TTS OA Director will take care of this and upload the documentation to C2 when it’s finished. The only thing you need to do is include a great justification and all of the correct details about the software you are requesting so the TTS SaaS PM and TTS OA Director can include this information in the FITARA request to the CIO and CTO.
+The TTS SaaS Project Manager will verify there is an ATO in place for the software. Then, the request will move forward in the review process. It may go through supervisor approval, depending on the request. Next, the SaaS PM will submit the software for FITARA approval. The [Federal IT Acquisition Reform Act (FITARA)](https://management.cio.gov/) is legislation that puts federal agency Chief Information Officers (CIOs) in control of IT investments. This means that the CIO and Chief Technology Officer (CTO) need to give documented approval of an IT purchase to remain compliant with this act. Please ensure that your justification in the Google Form is detailed, so the SaaS PM can use it to request FITARA approval. Finally, the Approving Official will signal their approval. 
 
 ### Step 3: Procurement
 
-Once all of the attachments are in C2, the TTS Saas PM will contact you to set up a meeting to purchase your software! Make sure you reached out to the finance team (ASF or FCSF) for the correct accounting code if it is not already provided in the request. 
+Once all of these steps have been completed, the SaaS PM will reach out to you to set up a meeting to make the purchase.
 
 ## Get a copy of Microsoft Office
 
