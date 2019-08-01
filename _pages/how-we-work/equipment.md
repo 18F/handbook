@@ -67,25 +67,11 @@ TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have
 
 See the [software](../software/) page.
 
-## Mice, keyboards, and trackpads
+## Peripherals
 
-If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. The procedure for requesting, however, varies by office.
+If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. Ask in the Slack channel corresponding to your office.
 
-#### DC or remote
-
-Make your request by filling out a [hardware IT Support Ticket](https://gsa.service-now.com/sp/). GSA IT will reach out to you to accomodate.
-
-### NYC
-
-Make your request by filling out a [hardware IT Support Ticket](https://gsa.service-now.com/sp/). In your ticket, say you are in TTS and ask to be routed to Melvin Moreira. Melvin has keyboards and mice in stock and will ship them to you at the NYC office.
-
-#### Chicago
-
-Reach out to [Ethan Heppner](mailto:ethan.heppner@gsa.gov) via email, he will assist you within two business days.
-
-#### San Francisco
-
-TBD
+To get additional peripherals (chargers, dongles, etc.), go to the [GSA IT Service Portal](https://gsa.service-now.com/) and open a `Hardware` ticket.
 
 ## Equipment to accommodate disability
 
