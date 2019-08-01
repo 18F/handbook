@@ -43,6 +43,8 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 - [18F - Product Manager](https://docs.google.com/document/d/1NUSXAR5M4eiWLnhN-PG64VMhQDHag_q7B_ScspnxjTI/edit?usp=sharing) - Application Close: Monday, 7/22 at 11:59pm ET
 
+- [18F - Human Services Portfolio Director](https://docs.google.com/document/d/1I3Gfd3i0qQT1_K6bATGqrDLKlfGX4wuxIISlulRNgT8/edit#) - Application Close: Thursday, 8/8 at 11:59pm ET
+
 
 ## Partner information & opportunities
 
