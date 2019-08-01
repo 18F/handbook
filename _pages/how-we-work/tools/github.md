@@ -164,6 +164,7 @@ In GitHub parlance, where repos all have admins, org-wide administrators are cal
 * [@opencontrol](https://github.com/opencontrol)
 * [@openopps](https://github.com/openopps)
 * [@presidential-innovation-fellows](https://github.com/presidential-innovation-fellows)
+* [@usagov](https://github.com/usagov)
 
 ## Resources
 
