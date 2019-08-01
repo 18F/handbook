@@ -32,9 +32,9 @@ If the ATO is expired or you cannot find it in GEAR, you can post in the Slack c
 
 ### Step 2: use the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) to make a request
 
-The TTS SaaS Project Manager will verify there is an ATO in place for the software. Then, the request will move forward in the review process. It may go through supervisor approval, depending on the request. Next, the SaaS PM will submit the software for FITARA approval. The [Federal IT Acquisition Reform Act (FITARA)](https://management.cio.gov/) is legislation that puts federal agency Chief Information Officers (CIOs) in control of IT investments. This means that the CIO and Chief Technology Officer (CTO) need to give documented approval of an IT purchase to remain compliant with this act. Please ensure that your justification in the Google Form is detailed, so the SaaS PM can use it to request FITARA approval. Finally, the Approving Official will signal their approval. 
+Fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). The TTS SaaS Project Manager will then verify there is an ATO in place for the software. Then, the request will move forward in the review process. It may go through supervisor approval, depending on the request. Next, the SaaS PM will submit the software for FITARA approval. The [Federal IT Acquisition Reform Act (FITARA)](https://management.cio.gov/) is legislation that puts federal agency Chief Information Officers (CIOs) in control of IT investments. This means that the CIO and Chief Technology Officer (CTO) need to give documented approval of an IT purchase to remain compliant with this act. Please ensure that your justification in the Google Form is detailed, so the SaaS PM can use it to request FITARA approval. Finally, the Approving Official will signal their approval. 
 
-### Step 3: Procurement
+### Step 3: procurement
 
 Once all of these steps have been completed, the SaaS PM will reach out to you to set up a meeting to make the purchase.
 
