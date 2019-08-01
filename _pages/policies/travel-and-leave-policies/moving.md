@@ -49,7 +49,7 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 
 ### TTS approval signatures required for FTTA
 
-* Your Office’s Assistant Commissioner (Josh, Esther, Angela, Matt, Dom or Bob)
+* Your Office’s Assistant Commissioner (Josh, Esther, Angela, Jay, Dom or Bob)
   * In Part F, enter name (box 1), title (box 2), and get signature (box 3)
 * Assistant Commissioner, Operations (Dominic Sale) *this is a TTS requirement*
   * In Part G, enter name (box 1a), title (box 1b), and get signature (box 1c)
@@ -87,7 +87,7 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 ## Change your address
 
-1. Change your home address in [HR Links](https://corporateapps.gsa.gov/hr-links/). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow Topic 1.2 of the [HR Links Guide](https://drive.google.com/open?id=1aLbT84hNuwsjgHFmGYS3ggBviay8vh1_).***
+1. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/05/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).***
 
   - After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options, select this one).
   - In the upper right corner of your HR Links screen is a compass icon. That is your NavBar. Click that.
