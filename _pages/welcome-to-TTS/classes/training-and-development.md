@@ -8,48 +8,39 @@ tags:
 - training and development
 ---
 
-Funds are allocated to each office every year for training and development opportunities within GSA. If the money is not used by the end of the fiscal year we lose it, so make sure to take advantage of this benefit that GSA/TTS offers.
+There are many training and development opportunities within GSA that are available to TTS employees.
 
-Supervisors are responsible for guiding their employees to developmental opportunities while individuals are responsible for taking the initiative to support their own development. There are resources specifically [for supervisors](https://docs.google.com/document/d/1HB9Gg2J_zra8SfJsxZ3cxyXvyaRfLhE8jw0q234KyXc/edit?usp=sharing) and [for employees](https://docs.google.com/document/d/1jVolEwO-Kt0SPOJ5DJSzmhIzMPMUjeL35BTeMgdwj7A/edit?usp=sharing) that provide tips for how to recognize and seek ongoing growth opportunities.
+Supervisors are responsible for guiding their employees to developmental opportunities while individuals are responsible for taking the initiative to support their own development. There are resources [for supervisors](https://docs.google.com/document/d/1HB9Gg2J_zra8SfJsxZ3cxyXvyaRfLhE8jw0q234KyXc/edit?usp=sharing) and [for employees](https://docs.google.com/document/d/1jVolEwO-Kt0SPOJ5DJSzmhIzMPMUjeL35BTeMgdwj7A/edit?usp=sharing) that provide tips for how to recognize and seek ongoing growth opportunities.
 
-In the Office of Human Resources Management (OHRM), GSA's Talent Development Division offers a number of training, developmental, and coaching sessions. Here are all of the options available to all GSA employees.
+In the Office of Human Resources Management (OHRM), GSA's Talent Development Division offers a number of different training, developmental, and coaching options. Here are training benefits available to all GSA employees.
 
-## Training and development opportunities 
+## Free training and development opportunities 
 
-### Free trainings
+### Online University (OLU) trainings
 
-There are many [free courses](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing) that are open to all TTS employees on a first-come, first-served basis. Most of these trainings are virtual to make it accessible to everyone. This list is updated on a weekly basis. 
+The [Online University (OLU)](https://gsaolu.gsa.gov/) isn't just for mandatory trainings. It also offers over 2,000 personal development courses including: project management, coaching skills, finance, giving feedback, professional effectiveness and makes available a large selection of online books covering a wide range of subjects. 
 
-### Group trainings
+TTS also maintains a [curated list of free courses on OLU](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing) that are open to all TTS employees on a first-come, first-served basis. This list is updated weekly, and most of these trainings are virtual to make it accessible to everyone. If you need help or have OLU questions, contact [GSAOLUSupport@mail.eskillz.com](mailto:GSAOLUSupport@mail.eskillz.com).
 
-GSA also procures [trainings via blanket purchase agreement (BPA)](https://docs.google.com/spreadsheets/d/1ptc22YXW2u_Yk1Zg7eiFvnT2RYb6eV8CVPRn0Gp3GmI/edit#gid=1410148690).
- These courses _do_ require payment and a signed agreement. To learn more about this service and who to contact with questions, [contact the GSA Training Acquisition Branch](https://insite.gsa.gov/topics/training-and-development/developmental-services/training-acquisition-previously-u4p).
-  
 ### Supervisor training
 
 GSA InSite has compiled a list of [supervisor trainings](https://insite.gsa.gov/topics/training-and-development/supervisor-resources/new-supervisors) which offers helpful information and resources for new supervisors including links to the mandatory trainings. 
-  
-### Online University (OLU) trainings
-
-The [Online University (OLU)](https://gsaolu.gsa.gov/) isn't just for mandatory trainings. It also offers over 2,000 personal development courses including: project management, coaching skills, finance, giving feedback,professional effectiveness and makes available a large selection of online books covering a wide range of subjects. If you need help or have OLU questions, contact [GSAOLUSupport@mail.eskillz.com](mailto:GSAOLUSupport@mail.eskillz.com).
-  
-## Coaching and mentoring services
 
 ### Coaching
 
-GSA provides multiple coaching services for internal staff. Located throughout the agency, coaches in the federal coaching network have various roles and complete coaching work in addition to their main assignments. Employees who are at the GS-14 or above have the option of obtaining coaching services through the Treasury Executive Institute. 
+GSA provides multiple, free coaching services for internal staff. Located throughout the agency, coaches in the federal coaching network have various roles and complete coaching work in addition to their main assignments. Employees who are at the GS-14 or above have the option of obtaining coaching services through the Treasury Executive Institute. 
 
 To learn more about the GSA coaching program offerings and how to get connected with a coach, visit the [GSA coaching services page](https://insite.gsa.gov/topics/training-and-development/developmental-services/coaching-services/how-do-i-get-a-coach).
   
 ### Mentoring
 
-GSA has a mentoring program that facilitates small group discussions on a number of topics. For an overview of the different types of programs offered, visit the [mentoring program page on InSite](https://insite.gsa.gov/topics/training-and-development/mentoring-program).
+GSA has a mentoring program that facilitates small group discussions on a number of topics. For an overview of the different types of current and upcoming programs offered, visit the [mentoring program page on InSite](https://insite.gsa.gov/topics/training-and-development/mentoring-program). There is also a [mentoring resource library](https://insite.gsa.gov/topics/training-and-development/mentoring-program/mentoring-resource-library) that includes some helpful mentorship guides, assessments, templates, and more.
 
 ## Leadership development
 
 ### Treasury Executive Institute (TEI) training
 
-GSA has a partnership with the Department of Treasury's Executive Institute (TEI) which offers employees at the GS-14, 15, and SES grade levels access to [(TEI) training programs](https://insite.gsa.gov/topics/training-and-development/leadership-resources/treasury-executive-institute-tei) both online and in the classroom to help develop and enhance managerial skills. Questions? Contact [TEIInquiries@gsa.gov](mailto:TEIInquiries@gsa.gov). 
+GSA has a partnership with the Department of Treasury's Executive Institute (TEI) which offers employees at the GS-14, 15, and SES grade levels access to the [TEI training programs](https://insite.gsa.gov/topics/training-and-development/leadership-resources/treasury-executive-institute-tei) both online and in the classroom to help develop and grow managerial skills. Questions? Contact [TEIInquiries@gsa.gov](mailto:TEIInquiries@gsa.gov). 
 
 ### Skillsoft Leadership Development Program (SLDP)
 
@@ -60,6 +51,10 @@ The goal of the [Skillsoft Leadership Development Program](https://insite.gsa.go
 The [Competitive Development Program](https://insite.gsa.gov/topics/training-and-development/leadership-resources/competitive-development-program-cdp) is for current and future leaders and requires approval from your first and second-level supervisors. This program provides leadership development opportunities via recognized external programs that focus on leadership competencies. If you'd like to learn more, check out the [application process](https://docs.google.com/document/d/1WS3vaYPXtdaz36hCjrey3H0Ew0UNWIGm-J8w4JHynh4/edit) and the [list of available programs](https://docs.google.com/document/d/1BqDQbiu2_H8jvzEf6xxTFY5mH4qHcCeSPyT_ykmhHsI/edit). Questions? Contact: [cdp@gsa.gov](mailto:cdp@gsa.gov).
 
 ## Other growth opportunities
+
+### Group trainings
+
+GSA also procures [trainings via blanket purchase agreement (BPA)](https://docs.google.com/spreadsheets/d/1ptc22YXW2u_Yk1Zg7eiFvnT2RYb6eV8CVPRn0Gp3GmI/edit#gid=1410148690). These courses _do_ require payment and a signed agreement. To learn more about this service and who to contact with questions, [contact the GSA Training Acquisition Branch](https://insite.gsa.gov/topics/training-and-development/developmental-services/training-acquisition-previously-u4p).
 
 ### Virtual Lunch & Learn Series
 
@@ -76,5 +71,4 @@ The [Virtual Lunch & Learn Series](https://insite.gsa.gov/employee-resources/tra
 to stay up-to-date on all the training and development opportunities
 * [Training & Development InSite page](https://insite.gsa.gov/employee-resources/training-and-development/)
 * [Conferences, events, and other professional development trainings](https://handbook.18f.gov/conferences-events-training/)
-
 
