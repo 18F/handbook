@@ -43,6 +43,8 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 - [18F - Human Services Portfolio Director](https://docs.google.com/document/d/1I3Gfd3i0qQT1_K6bATGqrDLKlfGX4wuxIISlulRNgT8/edit#) - Application Close: Thursday, 8/8 at 11:59pm ET
 
+- [18F - Product Director](https://docs.google.com/document/d/10qEbGbu9lJU0yFKNxQKoWtraYhwUydU7G7AaMGQ0bSs/edit?usp=sharing) - Application Close: Friday, 8/9 at 11:59pm PT
+
 ## Partner information & opportunities
 
 [CA Office of Digital Innovation](https://www.govops.ca.gov/innovation/) 
