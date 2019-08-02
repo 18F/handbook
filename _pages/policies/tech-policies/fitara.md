@@ -38,7 +38,7 @@ The objectives of the requirements outlined in this memorandum are to:
 10. Provide appropriate visibility and involvement of the agency CIO in the management and oversight of IT resources across the agency to support the successful implementation of cybersecurity policies to prevent interruption or exploitation of program services.
 
 ## OCIO Guidance: FITARA
-OCIO policy has been drafted and is under review.  Final policy is expected to be finalized June/July 2017.
+Reference the [FITARA Rules Matrix](https://docs.google.com/spreadsheets/d/1qFH5UJyAtxgylZcvIODnGYtI66p6qekXiQ95JOtOnMI/edit#gid=912065849). Note: this matrix does not represent all possible scenarios. When necessary, consult with your oganization's FITARA representative accordingly for further guidance.
 
 ## TTS Guidance: FITARA
 TTS issued policy effective February 28, 2017, implementing the policy and process for GSA Chief Information Officer FITARA review, [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1vUaxBn8miL2St1MnAV2jVyf5lteHqrl3XSRFD8DwEgU/edit):

@@ -26,7 +26,7 @@ This page serves as a central listing for:
 - Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
 - Links to Excepted Service job announcements posted on the TTS Join site
 
-If you’d like to be notified when new opportunities are listed on this page, please join the [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) slack channel.
+If you’d like to be notified when new opportunities are listed on this page, please join the [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) slack channel.
 
 ## Announcements
 
@@ -35,14 +35,13 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Internal only competitions
 
-- [Federalist - Lead Engineer](https://docs.google.com/document/d/1VwSVQbUo61V7MyE_cvUUF-I4BA-uNQXBNk7_4Q0Jznw/edit?usp=sharing) - Application Close: Friday, 7/26 at 11:59pm ET
+- [Federalist - Lead Engineer](https://docs.google.com/document/d/1VwSVQbUo61V7MyE_cvUUF-I4BA-uNQXBNk7_4Q0Jznw/edit?usp=sharing) - Application Close: Friday, 8/02 at 11:59pm ET
 
-- [cloud.gov - Product Manager](https://docs.google.com/document/d/1mpJm46Qfzxy_YIb-E-Fm21N9wzt-9cPfgGBHmtEYflI/edit?usp=sharing) - Application Close: Friday, 7/26 at 11:59pm ET
+- [cloud.gov - Product Manager](https://docs.google.com/document/d/1mpJm46Qfzxy_YIb-E-Fm21N9wzt-9cPfgGBHmtEYflI/edit?usp=sharing) - Application Close: Friday, 8/02 at 11:59pm ET
 
-- [cloud.gov - Deputy Director](https://docs.google.com/document/d/1lMs3sYvn420-BEAFJkED_O1rpzKTnX0dYxc3pJXf2vg/edit?usp=sharing) - Application Close: Friday, 7/26 at 11:59pm ET
+- [cloud.gov - Deputy Director](https://docs.google.com/document/d/1lMs3sYvn420-BEAFJkED_O1rpzKTnX0dYxc3pJXf2vg/edit?usp=sharing) - Application Close: Friday, 8/02 at 11:59pm ET
 
-- [18F - Product Manager](https://docs.google.com/document/d/1NUSXAR5M4eiWLnhN-PG64VMhQDHag_q7B_ScspnxjTI/edit?usp=sharing) - Application Close: Monday, 7/22 at 11:59pm ET
-
+- [18F - Human Services Portfolio Director](https://docs.google.com/document/d/1I3Gfd3i0qQT1_K6bATGqrDLKlfGX4wuxIISlulRNgT8/edit#) - Application Close: Thursday, 8/8 at 11:59pm ET
 
 ## Partner information & opportunities
 
@@ -57,4 +56,4 @@ For any TTS staff interested in learning what it’s like to transition from TTS
 ### Still have questions?
 
 **Have questions about an announcement listed?** Please reach out to the Hiring PoC listed on the announcement
-**General questions** Please reach out to TTS Talent via [#ttsjobs](https://gsa-tts.slack.com/messages/ttsjobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
+**General questions** Please reach out to TTS Talent via [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.

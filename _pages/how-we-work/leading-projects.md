@@ -25,6 +25,10 @@ In all this, your closest collaborators are 1) your account manager and 2) your 
 
 Someone (the partner, 18F leadership, or others) might ask you about how the project is going, and 18F will expect you to have an answer. It does not mean you should _do_ all of these things yourself — the most senior project leads are often those who can speak confidently about how _others_ are owning various aspects of the work.
 
+### Rotating tasks among teammates
+
+Teams are more resilient and equitable when administrative tasks like scheduling meetings or taking notes are shared. It can help to proactively set up systems to rotate this work (for example: a schedule for who will send weekly ship emails each week).
+
 ## How do we decide who leads each project?
 
 Every project needs a lead to be the primary point-person. Which person fills that role should be decided based on project needs and staff available. This happens as part of our normal staffing process, and should follow these steps:
