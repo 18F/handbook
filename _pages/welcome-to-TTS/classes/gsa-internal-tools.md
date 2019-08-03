@@ -109,7 +109,7 @@ See [Benefits]({{site.baseurl}}/benefits) for more details about Employee Expres
 
 <a href="https://corporateapps.gsa.gov/hr-links/">HR Links</a> is what you'll use to [request and document leave]({{site.baseurl}}/leave/) (sick, annual, bereavement, and more) as well as access your personnel file (your salary, your GS level, your supervisor, your past performance rating(s), and information about health insurance plan).
 
-You must [be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.bbs2uvvcjvcg) to connect to HR Links, if you work remotely.
+You must [be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.bbs2uvvcjvcg) to connect to HR Links, if you're working remotely.
 
 ## <a id="it-service-desk">IT Service Desk</a>
 
@@ -119,17 +119,17 @@ If you need to reset your ENT password, you can let your password expire and the
 
 ## <a id="meeting-space">Meeting Space</a>
 
-<a href="https://meet.gsa.gov/">Meeting Space</a> is the service you'll use to create your own conference call line. Here&rsquo;s how to do that:
+<a href="https://meet.gsa.gov/">Meeting Space</a> is the service you'll use to create your own conference call line, as opposed to our usual video calls in Google Hangouts Meet. Hangouts Meet allow up to 99 participants plus a host: Meeting Space is usually only needed if you'll go beyond that or your participants can't use Hangouts Meet. Here&rsquo;s how to create a Meeting Space call line:
 
-1. Log in. Click `Meetings → New Meeting`.
-2. Fill out the required fields on the `Meeting Information` form and accept the defaults for everything else. Essentially, you're setting up a fake meeting to trigger a request for a conference line.
-3. After you set up the meeting, an &ldquo;audio profile&rdquo; is automatically generated for you.
-4. Wait up to eight days. Audio profiles are created in weekly batches, so it can take up to seven or eight days before yours is created. Please note that you won't receive a notification once your profile is created — be sure to log in to check on the status of your profile.
-5. Log in. Click `Meetings → New Meeting`.
-6. On the Enter &ldquo;Meeting Information page,&rdquo; scroll down to Audio Conference Settings and click Manage Audio Profiles. You should see a table on the left-hand side of the screen that lists an audio profile (with a name along the lines of GSA Meeting Space Audio Profile).
-7. If the table is empty, your profile hasn't been created yet. Otherwise, click the audio profile name to see your conference line number and passcodes.
+1. Log in. Click `My Profile → My Audio Profiles`. 
+2. On the left hand side click `Intercall Audio Profile` to select it.
+3. The right hand side of the screen will display the Intercall Audio Profile information that includes the conference code, leader pin, and conference phone number information. Audio profile information including leader pin
 
-While this process can take up to eight days, the upshot is that your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you *do not* need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code.
+`My Audio Profile` is the only place that you will find the PIN needed to start any audio call outside of the meeting room.
+
+That's it: your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you *do not* need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code. 
+
+If you'd already set this up pre-February 2019, you may need to update it. Please reference an IT Insider email from February 2019 for instructions.
 
 ## Office supplies
 
