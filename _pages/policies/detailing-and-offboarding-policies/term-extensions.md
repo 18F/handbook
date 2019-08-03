@@ -2,50 +2,51 @@
 title: Term extensions
 ---
 
-This guide covers how to extend your time at TTS after two years.
+Many TTS employees are hired on term appointments (under the Schedule A direct hiring authority), which sets a limit of 2 years for the initial period of employment with the option to renew for up to 2 additional years for a maximum term of 4 years.
 
-## Background
+## Process
 
-Most employees at TTS (specifically 18F, PIF & ACQ) are hired on term appointments under the Schedule A direct hiring authority, which sets a limit of two years for the initial period of employment with the option to renew for up to two additional years for a maximum term of four years.
+1. On a quarterly basis, Talent will reach out to the Director of each office with a list of staff whose 2-year terms are about to end. 
 
-## Extend your term
+2. Directors will need to provide the following info to Talent:
 
-1)  Connect with your supervisor(s) six months before your initial two-year term expires to discuss your options.
+    * How long will the employee's term be renewed for? (6 months, 1 year, or 2 years)
+    * Justification (type of work employee does, how billable they are, are they currently on a project, and will they remain billable? if not billable, what work are they doing and why is it necessary?)
+  
+3. Talent will send the list of renewal requests to TTS Front Office for approval.
 
-- If you don’t know when your term ends, you can look in [HR Links](https://corporateapps.gsa.gov/hr-links/) for your “Assignment NTE Date.”
-- Considerations for renewal include organizational priorities, position needs, and your individual performance to date.
+4. If the **decision is to extend**, Talent will process a Personnel Action Request (PAR) to extend their term. Employment status and benefits will remain the same and no additional action is needed from the employee or their supervisor.
 
-2)  If the decision is to extend, your supervisor will need to fill out the [Term Extension Request Form](https://goo.gl/forms/zvZqourbaTJqwsUu1) by the first of the month — no later than 4 months prior to your term expiration (for example if your term expires on June 2nd or June 23rd, your supervisor should fill out the survey no later than February 1st).  Information requested on the survey includes the following:
+    At this point, the extension process is completed by the Talent Team and GSA HR.
 
-- A paragraph on contributions you made in your first term
-- A paragraph on the projects and programs your supervisor expects you to work on and in what capacity for your second term
-- How long you are renewing for since you do not have to extend for the full two years; you could extend for less time (such as 1 year, 6 months, or 1 month)
+    If the **decision is not to extend**, the Talent Team will process a PAR to end your term at the end of the initial 2 years. See [Leaving TTS]({{site.baseurl}}/leaving-tts/) for more details.
 
-3)  On a quarterly basis, the TTS Talent Team will forward the requests to the appropriate Assistant Commissioner and the Deputy Commissioner of FAS/Director of TTS for approval.
+5. Employees should reach out to their supervisor for the status of these requests.
 
-4)  TTS Talent will notify your supervisor of the decision within 2 weeks from submission to the Commissioners.
+    *GSA and internal systems do not process extensions ahead of time, so you won't see an updated NTE date in HR Links until after your first term concludes.*
 
-If the **decision is to extend**, the Talent Team will process a Request for Personnel Action (RPA) to extend your term. Your employment status and benefits will remain the same and no additional action is needed from you or your supervisor.
+6. After the end of your first term, the Talent Team checks to make sure that the extension has been processed. You should **also** check your HR Links account on the renewal date to confirm that your NTE date is accurate.
+    
+    Your updated NTE (Not To Exceed date) will show up in your HR Links account on the day **after** your current NTE date (expiration date) along with your updated SF50 under the “Personnel Actions (SF-50s)” tab.  
 
-At this point, the extension process is completed by the Talent Team and GSA HR.
+    New term beginning dates are the following day from the previous term end date, excluding weekends. If your term ended on a weekend, the new term will begin the following Monday. New term end dates will be the Friday if it falls on a weekend. So, if your current NTE date is 6/15/17, you would be able to view your new NTE date of 6/15/19 starting on 6/16/17.
 
-- Approved extensions are placed on a tracking list.
-- Talent Team sends the extension RPAs (RPAs are submitted and processed through HR Links) in batches at the beginning of each month for all extensions happening the following month.
-- HR reviews and confirms the RPA checking that all information is accurate (employee has another term left, correct extension dates, etc.).  
-  - HR is not "approving" the extension request at this step of the process.  Your extension has already been approved; this is just a matter of processing.
-  - *Note: New Term beginning dates are the following day from the previous term end date excluding weekends. If it’s a weekend it will be the following Monday. New Term end dates will be the Friday if it falls on a weekend.*
-- HR sends the approved RPA to CPC (Consolidated Processing Center in Kansas City, MO) to have it processed.
-- CPC processes the RPA. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in HR Links. They process RPAs based on action date, which is why you will not see the updates in HR Links or our internal systems until the extension date.
+    **If your NTE date was not updated, contact the Talent Team immediately.**
 
-*Please note that GSA and internal systems do not process extensions ahead of time.*
+## What happens between the decision and the end of term?
 
-5) Your updated NTE (Not To Exceed date) will show up in your CHRIS account under the “Assignment Tab” on the day **after** your current NTE date (expiration date) along with your updated SF50 under the “Personnel Actions (SF-50s)” tab.  So if your current NTE date is 6/15/17, you would see the new NTE date of 6/15/19 on the following day 6/16/17.  
+- Approved extensions are added to Talent's internal Operations Trello board.
+- Talent sends extension PARs (PARs are submitted and processed through HR Links) in batches at the beginning of each month for all extensions happening the following month.
+- HR reviews and confirms the PAR, checking that all information is accurate (employee has another term left, correct extension dates, etc.). HR is not "approving" the extension request at this step of the process. The extension has already been approved; this is just a matter of processing.
+- HR sends the approved PAR to CPC (Consolidated Processing Center in Kansas City, MO) to have it processed.
+- CPC processes the PAR. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in HR Links. They process PARs based on action date, which is why you will not see the updates in HR Links or our internal systems until the extension date.
 
-*The Talent Team checks to make sure that the extension has been processed, but you should also check your CHRIS account on the renewal date to confirm that your NTE date is accurate.* ***If the date was not updated, contact the Talent Team immediately.***
+## Things to note
 
-- A notification from the CHRIS system usually gets emailed to employees up to two weeks after the action.  *Please note the exception for NTE dates that fall on weekends in section 4 above.*
+If you don’t know when your term ends, you can find your Not To Exceed (NTE) date by looking in [HR Links](https://corporateapps.gsa.gov/hr-links/). Click on the navigator icon, choose `Navigator`, then `Workforce Administration`, then `Job Information`, then `Employee Request USF`.
 
-If the **decision is not to extend**, the Talent Team will process an RPA to end your term at the end of the initial two years. See [Leaving TTS]({{site.baseurl}}/leaving-tts/) for more details.
+Considerations for renewal include organizational priorities, position needs, and your individual performance to date.
+
 ---
 
 ### Still have questions?
