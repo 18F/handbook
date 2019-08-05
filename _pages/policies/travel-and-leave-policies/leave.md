@@ -36,7 +36,7 @@ You must be on the GSA wireless network or on the Windows virtual desktop (acces
 
 ### Entering a leave request
   1. Click on the **Employee Time** tile
-  1. Click request **Absence/OT**
+  1. Click **Request Absence/OT**
   1. Select **Filter by Type: Annual Leave**
   1. Select **Absence Name: Annual Leave**
   1. Enter **Dates/Times**
