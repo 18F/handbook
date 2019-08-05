@@ -35,6 +35,10 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 **Browser extensions need to be pre-approved.** See [the Chrome page on InSite](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-chrome-browser#Chrome%20Extensions) for more information.
 
+### Loaners
+
+You can [request a loaner PC through the IT Service Desk](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
+
 ### Tips
 
 - Run the [shell script](https://github.com/18F/laptop) which will turn your Mac into an awesome web development machine.
