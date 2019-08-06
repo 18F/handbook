@@ -119,17 +119,17 @@ If you need to reset your ENT password, you can let your password expire and the
 
 ## <a id="meeting-space">Meeting Space</a>
 
-<a href="https://meet.gsa.gov/">Meeting Space</a> is the service you'll use to create your own conference call line, as opposed to our usual video calls in Google Hangouts Meet. Hangouts Meet allow up to 99 participants plus a host: Meeting Space is usually only needed if you'll go beyond that or your participants can't use Hangouts Meet. Here&rsquo;s how to create a Meeting Space call line:
+<a href="https://meet.gsa.gov/">Meeting Space</a> is the service you'll use to create your own conference call line, as opposed to our usual video calls in <a href="https://meet.google.com/">Google Hangouts Meet</a>. Hangouts Meet allow up to 99 participants plus a host: Meeting Space is usually only needed if you'll go beyond that number or your participants can't use Hangouts Meet. Here&rsquo;s how to create a Meeting Space call line:
 
 1. Log in. Click `My Profile → My Audio Profiles`. 
 2. On the left hand side click `Intercall Audio Profile` to select it.
-3. The right hand side of the screen will display the Intercall Audio Profile information that includes the conference code, leader pin, and conference phone number information. Audio profile information including leader pin
+3. The right hand side of the screen will display the Intercall Audio Profile information that includes the conference code, leader pin, and conference phone number information. It'll look greyed out, but that's okay unless you want to edit it &mdash; for example, to change the PIN &mdash; if so, the edit button is at top right of that panel.
 
 `My Audio Profile` is the only place that you will find the PIN needed to start any audio call outside of the meeting room.
 
 That's it: your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you *do not* need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code. 
 
-If you'd already set this up pre-February 2019, you may need to update it. Please reference an IT Insider email from February 2019 for instructions.
+If you'd already set this up pre-February 2019, you may need to update it. Please reference the topical IT Insider email from February 2019 for instructions.
 
 ## Office supplies
 
