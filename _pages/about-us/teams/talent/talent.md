@@ -19,9 +19,11 @@ We accept varying levels of leads including:
 * Cold Leads: You barely know them at all (e.g. someone you heard speak at a conference or wrote a memorable blog post)
 
 Submit leads and referrals using the form below:
+
   * [Referral Submission Form](https://goo.gl/forms/I6cOnRNdh21aP5e63)
 
 More information on the referral program can be found here:
+
   * [Talent Referral Program Information](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit)
 
 Leads and referrals are welcome any time, not just during times when positions are open.
