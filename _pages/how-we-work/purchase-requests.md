@@ -76,8 +76,8 @@ Slack: @melanie
 
 **TTS Office of Acquisition Director:** Esther Praske [esther.praske@gsa.gov](mailto:tts-purchasers@gsa.gov)
 
-Or find us in Slack: [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy/).
+Or find us in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/).
 
 ## Questions
 
-Any questions? Slack [#c2-purchase-questions](https://gsa-tts.slack.com/messages/c2-purchase-questions/), [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
+Any questions? Email [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov) or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
