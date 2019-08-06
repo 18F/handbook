@@ -57,7 +57,7 @@ The process on this page is for buying software. In general, open source develop
 
 ## Questions?
 
-Find us in Slack: [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy).
+Find us in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/).
 
 
 
