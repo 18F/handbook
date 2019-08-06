@@ -46,6 +46,10 @@ Organizations across the United States offer a number of discounts to federal em
 * Apple offers a discount (~10%) to feds when they buy personal equipment.
 * General Assembly offers a discount to federal employees.
 
+## Employee assistance program
+
+EAPs offer free, **confidential** counseling, legal and financial advice, and emergency backup care for children and elders. All details are on [Insite: EAP](https://insite.gsa.gov/topics/hr-pay-and-leave/worklife-programs/employee-assistance-program).
+
 ## Flexible spending accounts
 
 [Flexible spending accounts](https://www.opm.gov/healthcare-insurance/flexible-spending-accounts/) (FSA) allow you to pay for [eligible out-of-pocket health care and dependent care expenses](https://www.fsafeds.com/support/eligibleexpenses) with pre-tax dollars. They cannot be used to pay any type of premium, and you must use all the money in your account by the end of the year or you risk forfeiture of the unused funds. However, there is a grace period. If you have unused funds in your FSA account and incur expenses from January 1 through March 15, you have until April 30 to submit claims against the prior year.
