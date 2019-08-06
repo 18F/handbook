@@ -62,4 +62,4 @@ Members of the TTS Office of Acquisition can serve in a variety of different rol
 
 #### Still have questions?
 
-Ask in Slack: [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy)
+Ask in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/)
