@@ -35,12 +35,6 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Internal only competitions
 
-- [Federalist - Lead Engineer](https://docs.google.com/document/d/1VwSVQbUo61V7MyE_cvUUF-I4BA-uNQXBNk7_4Q0Jznw/edit?usp=sharing) - Application Close: Friday, 8/02 at 11:59pm ET
-
-- [cloud.gov - Product Manager](https://docs.google.com/document/d/1mpJm46Qfzxy_YIb-E-Fm21N9wzt-9cPfgGBHmtEYflI/edit?usp=sharing) - Application Close: Friday, 8/02 at 11:59pm ET
-
-- [cloud.gov - Deputy Director](https://docs.google.com/document/d/1lMs3sYvn420-BEAFJkED_O1rpzKTnX0dYxc3pJXf2vg/edit?usp=sharing) - Application Close: Friday, 8/02 at 11:59pm ET
-
 - [18F - Human Services Portfolio Director](https://docs.google.com/document/d/1I3Gfd3i0qQT1_K6bATGqrDLKlfGX4wuxIISlulRNgT8/edit#) - Application Close: Thursday, 8/8 at 11:59pm ET
 
 - [18F - Product Director](https://docs.google.com/document/d/10qEbGbu9lJU0yFKNxQKoWtraYhwUydU7G7AaMGQ0bSs/edit?usp=sharing) - Application Close: Friday, 8/9 at 11:59pm PT
