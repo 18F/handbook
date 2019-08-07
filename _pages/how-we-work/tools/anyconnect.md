@@ -6,6 +6,7 @@ AnyConnect is a VPN client that we use to connect to GSA's intranet.
 
 ## Setup
 
+### VPN Client
 Your machine may already have AnyConnect installed. If it is, it will be under Cisco>AnyConnect in your Applications.
 
 If it is not installed, here is how you can get access:
@@ -16,6 +17,9 @@ If it is not installed, here is how you can get access:
 Your installation screen should look like this:
 
 ![AnyConnect Installation Screen]({{site.baseurl}}/images/anyconnect/1.png)
+
+### Two-Factor Authentication
+* [Install the phone app](https://preview-insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/secureauth/install-secureauth-otp-on-ios-apple) that will generate one-time passwords that you will need to connect to the VPN.
 
 ## Usage
 
