@@ -454,7 +454,7 @@ Any airfare or Amtrak tickets booked outside of Concur are *at your own risk* an
 
 #### How can I get reimbursed for professional liability insurance?
 
-Supervisors may be reimbursed for up to half the cost of professional liability insurance, up to $150. In order to claim reimbursement, get an email from your supervisor approving the amount of you reimbursement you intend to claim and send it to tts-travelauths@gsa.gov. Then, create a [miscellaneous voucher](#how-do-i-create-a-local-or-miscellaneous-voucher) in [Concur](https://travel.gsa.gov) and [attach the receipt](#attaching-receipts) you recieved after purchasing the insurance.
+Supervisors may be reimbursed for up to half the cost of professional liability insurance, up to $150. In order to claim reimbursement, get an email from your supervisor approving the amount of the reimbursement you intend to claim and send it to tts-travelauths@gsa.gov. Then, create a [miscellaneous voucher](#how-do-i-create-a-local-or-miscellaneous-voucher) in [Concur](https://travel.gsa.gov) and [attach the receipt](#attaching-receipts) you recieved after purchasing the insurance.
 
 #### How should I claim local transportation expenses?
 
