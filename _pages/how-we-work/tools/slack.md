@@ -14,7 +14,6 @@ Because Slack is a web application, there’s no installation necessary. You can
 
 - **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
-- **Join the #news-18f channel** Receive announcements that are specific to 18F. We expect you to read all posts in this channel.
 - **[Add yourself to our custom emojis](https://gsa-tts.slack.com/customize/emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Post your emoji (and any other custom emojis you add) to the [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY) channel.
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [18F's list of alternatives](../sensitive-information/#tools).
@@ -285,47 +284,22 @@ If you're interested in learning more about the bots, or perhaps contributing to
 ### Clusters of channels
 
 * Teams
-    * 18F
-        * Business Units
-            * [partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions/)
-            * [products-platforms](https://gsa-tts.slack.com/messages/products-platforms/)
-        * 18F Chapters
-            * [design](https://gsa-tts.slack.com/messages/design/)
-            * [dev](https://gsa-tts.slack.com/messages/dev/) (Engineering)
-            * [product](https://gsa-tts.slack.com/messages/product/)
-            * [strategy](https://gsa-tts.slack.com/messages/strategy/)
-    * [infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)
-    * [opp](https://gsa-tts.slack.com/messages/opp/)
-        * OPP Portfolios?
-* Projects
-    * [cap](https://gsa-tts.slack.com/messages/cap/) (C2/Communicart)
-    * [cloud-gov](https://gsa-tts.slack.com/messages/cloud-gov/)
-    * [code-gov](https://gsa-tts.slack.com/messages/code-gov/)
-    * [ffd-general](https://gsa-tts.slack.com/messages/ffd-general/) (Federal Front Door)
-    * etc.
-* Guilds: #g-*
-* Working groups: #wg-*
+    * 18F - [#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
+    * [OPP](https://gsa-tts.slack.com/messages/opp/)
+    * [PIFs](https://gsa-tts.slack.com/messages/pifs/)
+    * [Office of Acquisition](https://gsa-tts.slack.com/messages/tts-oa/)
 * Locations
     * [chitown](https://gsa-tts.slack.com/messages/chitown/)
     * [dc](https://gsa-tts.slack.com/messages/dc/)
-    * [michigan](https://gsa-tts.slack.com/messages/michigan/)
     * [nyc](https://gsa-tts.slack.com/messages/nyc/)
     * [sf](https://gsa-tts.slack.com/messages/sf/)
-    * etc.
-* SaaS administration/support: #admins-*
-* Technologies
-    * [django](https://gsa-tts.slack.com/messages/django/)
-    * [docker](https://gsa-tts.slack.com/messages/docker/)
-    * [git](https://gsa-tts.slack.com/messages/git/)
-    * [javascript](https://gsa-tts.slack.com/messages/javascript/)
-    * [python](https://gsa-tts.slack.com/messages/python/)
-    * [ruby](https://gsa-tts.slack.com/messages/ruby/)
+    * [distributed](https://gsa-tts.slack.com/messages/distributed/)
     * etc.
 
 ### Channel naming conventions
 
 - Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
-- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. See [the Grouplet Playbook](https://pages.18f.gov/grouplet-playbook/) for information about working groups and guilds. Feel free to join a working group or guild channel even if you are not actively part of the group.
+- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. Feel free to join a working group or guild channel even if you are not actively part of the group.
 - Channels that end with `-partner` include partners from other agencies.
 - Channels that end with `-public` may include members of the public.
 
@@ -336,7 +310,6 @@ If you're interested in learning more about the bots, or perhaps contributing to
 - Type `/me [message]` to “emote” your message. (Just try it.)
 - Type `/mute` to suppress notifications from the channel you’re currently in. You can also turn on desktop notifications for specific channels.
 - Type `/hangout` to start a Google Hangout in the current channel.
-- Type `/hero` to start Screen Hero automatically.
 - Type `[message XPOST #channel-name]` to cross-post a message to a different channel while posting it.
 - Type `/remind` to remind yourself to do something in the future.
 - Type `love @username for [message]` to publicly praise and thank someone. If [Charlie](#bots) is in the channel, it will copy your message to [#love](https://gsa-tts.slack.com/archive/love).
