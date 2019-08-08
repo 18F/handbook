@@ -87,7 +87,9 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 ## Change your address
 
-1. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/05/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).***
+1. Please email [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) to confirm that the TTS Talent Team has created a PAR (Personnel Action Request) for your relocation so that payroll is able to process any pay adjustments in a timely manner.   
+
+2. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/05/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).***
 
   - After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options, select this one).
   - In the upper right corner of your HR Links screen is a compass icon. That is your NavBar. Click that.
@@ -95,9 +97,9 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
   - Click edit address, make your change, and submit
   - Click submit on main address page and you'll see a confirmation page pending approval of your address change
     
-2. Once you submit the request in HR links, please email marya.robinson@gsa.gov who will confirm your submission went through.
+3. Once you submit the request in HR links, please email marya.robinson@gsa.gov who will confirm your submission went through.
 
-3. Contact your health insurance, dental insurance, and any other insurances you may have and let them know about your address change. You will also need to verify that your insurance will be valid in your new location or you will need to change it. Contact GSA HR at [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) if you have any questions.  
+4. Contact your health insurance, dental insurance, and any other insurances you may have and let them know about your address change. You will also need to verify that your insurance will be valid in your new location or you will need to change it. Contact GSA HR at [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) if you have any questions.  
 
 ## Change your Slack location
 
