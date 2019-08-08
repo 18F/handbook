@@ -105,8 +105,6 @@ Don&rsquo;t do it! Your best bet is public transit and/or walking; downtown stre
 
 ## How do I&hellip;
 
-You can also learn more about the building's features in the [50UNP Electronic Tenant Handbook on InSite](https://insite.gsa.gov/portal/content/612542) and the [50UNP Tenants page](http://www.gsa.gov/portal/category/106999).
-
 ### Enter the building for the first time?
 
 During business hours (6 a.m. to 6 p.m.), pass through security with your badge visible. Your GSA ID grants you access to the building at any time during those hours.
