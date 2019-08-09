@@ -107,7 +107,7 @@ If you still find that you don't have enough work to bill to the hour expectatio
 
 Working more than 32 billable hours is just fine! 32 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
 
-- Before you work those extra hours, talk to your lead to figure out if and how much over 40 you can work
+- Before you work those extra hours, talk to your Account Manager and supervisor to figure out if and how much over 40 you can work
 - Get your supervisor's approval in writing
 - Request overtime in #tock. The tock admin will adjust Tock setting to allow for 40+ hours to be recorded
 - Tell your project's AM too so they can adjust the project's financial accounting
