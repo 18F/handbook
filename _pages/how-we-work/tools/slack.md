@@ -284,47 +284,22 @@ If you're interested in learning more about the bots, or perhaps contributing to
 ### Clusters of channels
 
 * Teams
-    * 18F
-        * Business Units
-            * [partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions/)
-            * [products-platforms](https://gsa-tts.slack.com/messages/products-platforms/)
-        * 18F Chapters
-            * [design](https://gsa-tts.slack.com/messages/design/)
-            * [dev](https://gsa-tts.slack.com/messages/dev/) (Engineering)
-            * [product](https://gsa-tts.slack.com/messages/product/)
-            * [strategy](https://gsa-tts.slack.com/messages/strategy/)
-    * [infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)
-    * [opp](https://gsa-tts.slack.com/messages/opp/)
-        * OPP Portfolios?
-* Projects
-    * [cap](https://gsa-tts.slack.com/messages/cap/) (C2/Communicart)
-    * [cloud-gov](https://gsa-tts.slack.com/messages/cloud-gov/)
-    * [code-gov](https://gsa-tts.slack.com/messages/code-gov/)
-    * [ffd-general](https://gsa-tts.slack.com/messages/ffd-general/) (Federal Front Door)
-    * etc.
-* Guilds: #g-*
-* Working groups: #wg-*
+    * 18F - [#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
+    * [OPP](https://gsa-tts.slack.com/messages/opp/)
+    * [PIFs](https://gsa-tts.slack.com/messages/pifs/)
+    * [Office of Acquisition](https://gsa-tts.slack.com/messages/tts-oa/)
 * Locations
     * [chitown](https://gsa-tts.slack.com/messages/chitown/)
     * [dc](https://gsa-tts.slack.com/messages/dc/)
-    * [michigan](https://gsa-tts.slack.com/messages/michigan/)
     * [nyc](https://gsa-tts.slack.com/messages/nyc/)
     * [sf](https://gsa-tts.slack.com/messages/sf/)
-    * etc.
-* SaaS administration/support: #admins-*
-* Technologies
-    * [django](https://gsa-tts.slack.com/messages/django/)
-    * [docker](https://gsa-tts.slack.com/messages/docker/)
-    * [git](https://gsa-tts.slack.com/messages/git/)
-    * [javascript](https://gsa-tts.slack.com/messages/javascript/)
-    * [python](https://gsa-tts.slack.com/messages/python/)
-    * [ruby](https://gsa-tts.slack.com/messages/ruby/)
+    * [distributed](https://gsa-tts.slack.com/messages/distributed/)
     * etc.
 
 ### Channel naming conventions
 
 - Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
-- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. See [the Grouplet Playbook](https://pages.18f.gov/grouplet-playbook/) for information about working groups and guilds. Feel free to join a working group or guild channel even if you are not actively part of the group.
+- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. Feel free to join a working group or guild channel even if you are not actively part of the group.
 - Channels that end with `-partner` include partners from other agencies.
 - Channels that end with `-public` may include members of the public.
 
@@ -335,7 +310,6 @@ If you're interested in learning more about the bots, or perhaps contributing to
 - Type `/me [message]` to “emote” your message. (Just try it.)
 - Type `/mute` to suppress notifications from the channel you’re currently in. You can also turn on desktop notifications for specific channels.
 - Type `/hangout` to start a Google Hangout in the current channel.
-- Type `/hero` to start Screen Hero automatically.
 - Type `[message XPOST #channel-name]` to cross-post a message to a different channel while posting it.
 - Type `/remind` to remind yourself to do something in the future.
 - Type `love @username for [message]` to publicly praise and thank someone. If [Charlie](#bots) is in the channel, it will copy your message to [#love](https://gsa-tts.slack.com/archive/love).
