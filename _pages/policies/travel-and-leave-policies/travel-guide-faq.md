@@ -289,7 +289,7 @@ If you were previously scheduled to be on leave or telework at the other locatio
 
 If you'd like to schedule personal travel that's incidental to your work trip (i.e. planned after the work trip), after your official work itinerary has been approved in Concur, you can give AdTrav a call at (877) 472-6716 and request that your itinerary be changed for personal reasons, with you covering any difference in cost that may arise.
 
-*Note that while GSA travel policy doesn't explicitly forbid being approved to travel from a foreign location, [travel to or from foreign locations](#international-travel) must be requested in Event Tracker for GSA Administrator approval at least 7 weeks in advance, amking approval in these circumstances extremely unlikely.
+*Note that while GSA travel policy doesn't explicitly forbid being approved to travel from a foreign location, [travel to or from foreign locations](#international-travel) must be requested in Event Tracker for GSA Administrator approval at least 7 weeks in advance, making approval in these circumstances extremely unlikely.
 
 #### International travel
 
