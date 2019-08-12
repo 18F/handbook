@@ -173,11 +173,6 @@ img.travel-guide-hide {
     margin-bottom: 1em;
   }
 
-  .wrapper > ol {
-    max-width: 640px;
-    margin: 0 auto;
-  }
-
   .wrapper ol li.toc-nav-child-with-children {
     font-weight: 600;
     padding-top: 1em;
@@ -185,6 +180,13 @@ img.travel-guide-hide {
 
   .wrapper ol li.toc-nav-child-with-children > ol {
     padding-top: 0.6em;
+  }
+
+  .wrapper > ol,
+  .toc-nav-children-level-3,
+  .toc-nav-children-level-4 {
+    // left-align
+    padding-left: 0;
   }
 }
 
