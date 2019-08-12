@@ -96,6 +96,6 @@ If you changed your travel plans via **Concur**, an amended authorization which 
 
 If you changed your travel plans via **AdTrav**, an amended authorization was likely automatically generated for you, though this can take up to an hour after your call with them, so be patient! Once the amendment is generated, you can see it by navigating to the **Authorizations** tab and selecting your trip. Verify that all of the right changes have been made (and reach out to the Business Applications Service desk at (866) 450-6588 if you need any help), and then continue on with [submitting your amended authorization for approval]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
 
-If you changed your travel plans outside of Concur or AdTrav but still need to amend your authorization based on the guidance above, go ahead and [manually amend your authorization](#manually-amending-an-authorization-in-Concur).
+If you changed your travel plans outside of Concur or AdTrav but still need to amend your authorization based on the guidance above, go ahead and [manually amend your authorization](#manually-amending-an-authorization-in-concur).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
