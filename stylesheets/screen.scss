@@ -103,34 +103,6 @@ img.travel-guide-hide {
     max-width: 640px;
   }
 
-  .site-header {
-    background: #202020;
-    color: #fff8ce;
-    padding: 1.4em 0 1.8em;
-  }
-
-  .site-header p {
-    color: #d8f7ff;
-    line-height: 1.25em;
-    max-width: 640px;
-    margin: 0 auto 1em;
-  }
-
-  .site-header h1 {
-    font-size: 36px;
-    color: white;
-    line-height: 1.125em;
-    font-family: source sans pro, arial, sans;
-    font-weight: 600;
-    padding-bottom: 0.33em;
-    display: block;
-    letter-spacing: -0.03em;
-    max-width: 640px;
-    margin: 0 auto;
-    position: relative;
-    left: -0.05em;
-  }
-
   @keyframes highlight {
     0% {
       background: #fff0be;
@@ -142,24 +114,6 @@ img.travel-guide-hide {
 
   *:target {
     animation: highlight 2s;
-  }
-
-  @media screen and (min-width: 568.88px) {
-    .site-header {
-      padding-top: 3em;
-      padding-bottom: 2em;
-    }
-    .site-header h1 {
-      font-size: 48px;
-    }
-    .site-header form {
-      margin-top: 14px;
-    }
-    .site-header p {
-      font-size: 20px;
-      line-height: 1.4em;
-      margin-bottom: 0.4em;
-    }
   }
 
   p,
