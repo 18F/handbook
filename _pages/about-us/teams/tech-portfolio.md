@@ -1,7 +1,6 @@
 ---
 title: TTS Technology Portfolio
 navtitle: Tech Portfolio
-slack-channel: infrastructure
 ---
 
 The goal of the Tech Portfolio is to oversee/manage/coordinate everything technology-related that cuts across TTS, or anything technology-related that will affect TTS from the outside: particularly security, compliance, infrastructure, and tech policy. The Technology Portfolio team is new as of July 2019, though is the evolution of [18F/TTS Infrastructure](https://github.com/18F/Infrastructure/blob/master/README.md).

@@ -1,6 +1,5 @@
 ---
 title: Equipment
-slack-channel: equipment
 ---
 
 GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Ops Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.

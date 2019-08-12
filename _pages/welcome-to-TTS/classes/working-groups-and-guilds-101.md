@@ -1,7 +1,6 @@
 ---
 title: Working groups and guilds 101
 navtitle: Working groups and guilds
-slack-channel: wg-working-groups
 ---
 
 Working groups and guilds are self-organized groups that improve practices, host discussions, and explore ideas in TTS. These volunteer groups decide how and where to focus their efforts and conversations. Anyone may participate in any working group or guild.
