@@ -24,7 +24,7 @@ $(document).ready(function() {
 
   // $('nav.nav-main ol.breadcrumbs').before(tableOfContentsToggle);
 
-  if ($('body').hasClass('layout-article')){
+  if ($(".layout-table-of-contents").length === 0){
     numHeadings = $("main h2, main h3, main h4, main h5").length;
     if ( numHeadings > 2 ) {
 
@@ -87,10 +87,11 @@ $(document).ready(function() {
         "</nav>";
 
       $('body').addClass('with-inline-navigation');
-      if ($("main .wrapper h1.page-title+div.table-wrapper").length > 0){
-        $("main .wrapper h1.page-title+div.table-wrapper").after(inlineNavigation);
+      var $table = $(".usa-layout-docs-main_content h1:first-child+.table-wrapper");
+      if ($table.length > 0){
+        $table.after(inlineNavigation);
       } else {
-        $("main .wrapper h1.page-title+p").after(inlineNavigation);
+        $("main p").first().after(inlineNavigation);
       }
 
     }
