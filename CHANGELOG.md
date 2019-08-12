@@ -14,7 +14,7 @@ Conflict of Interest has been added to the Required Stuff Section
 
 October 5, 2015
 
-Updated the PTO policy so that the only email address that needs to be used to request time off is  ca-timeoff@lists.civicactions.net
+Updated the PTO policy so that the only email address that needs to be used to request time off is  ca-schedule@civicactions.net
 
 September 30, 2015
 
