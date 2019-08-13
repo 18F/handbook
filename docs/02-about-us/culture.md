@@ -75,6 +75,23 @@ In this example, the company's management team felt a responsibility to be trans
 
 Radical transparency can sound pretty uncomfortable. Some companies take it to mean sharing of salaries, etc. to increase competitiveness. This is not CivicActions' definition of radical transparency. We believe radical transparency is the company, board, and management team's responsibility to be open and transparent with employees, clients, and one another. We believe everyone in the company is responsible for being direct and transparent when they have a challenge with someone. We believe that whenever possible, work should be carried out in public slack channels, problems should be shared with product owners, and issues should be talked out openly and honestly. This does not mean that you cannot ever speak privately to other people. This simply means that CivicActions feels that as a team, it is our responsibility to be as transparent as possible about the work we do, and how we do it.
 
+## Inclusion
+Inclusion is a sense of belonging that allows people to fully engage and contribute, and is a key part of fostering diversity and equity on our team. Promoting inclusion goes beyond simply tolerating differences — it requires taking an active role in honoring the variety of experiences we bring to the table so everyone is empowered to participate.
+
+Some practical tips for making inclusive spaces on your team:
++ Observe your teammates’ personal pronouns
++ Notice who isn’t speaking, and give them opportunities to contribute
++ Celebrate the things your teammates do well  
++ Start noticing when you’ve made an assumption, and ask questions instead
++ Practice active listening (see the previous section) 
++ Take time to learn more about how inequality affects people at work
++ Speak up when you notice that someone is disrespected or left out 
+
+We work to to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn’t just a core part of our culture, it’s also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
+
+[Learn more about the Diversity, Equity, and Inclusion Practice Area](https://civicactions-handbook.readthedocs.io/en/latest/04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/ops/)
+
+
 ## Common Questions
 
 ### Q: What are some keys to success at CivicActions?
