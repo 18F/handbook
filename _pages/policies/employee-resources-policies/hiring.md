@@ -68,7 +68,7 @@ The hiring team is responsible for confirming that applicants meet the qualifica
 When the team has determined who they would like to place in the role, they must:
 
 - First confirm with the employee’s supervisor that they are OK with this employee moving to their team
-- Forward the supervisor's approval to Talent. Talent will need to submit a Reassignment PAR to HR.
+- Forward the supervisor's approval to Talent at this email: tts-talentteam@gsa.gov. Talent will need to submit a Reassignment PAR to HR.
 
 It is the responsibility of the HM provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
 
