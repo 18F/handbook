@@ -295,6 +295,8 @@ If you'd like to schedule personal travel that's incidental to your work trip (i
 
 All official international travel taken by GSA employees, regardless of funding source, also requires Salesforce event approval. Please reach out to michael.proul@gsa.gov at least 7 weeks in advance in order to coordinate this.
 
+Teleworking from locations outside the United States while on personal travel--i.e., the "working vacation"--is not allowed.
+
 #### How should I estimate my expenses
 
 In the case of individual or small group travel, you may estimate your expenses based on the total amount of your authorization in Concur, plus an reasonable allowance for any additional expenses such as taxis, parking, and baggage fees.
