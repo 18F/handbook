@@ -2,17 +2,8 @@
 theme: uswds-jekyll
 title: TTS Handbook
 description: A collection of guides and policies to help you with your work.
-email:
-permalink: pretty
-author:
-  name: Andrew Maier and Nicole Fenton
-  email: handbook.18f@gsa.gov
 
-slack:
-  organization: gsa-tts
-  channel: handbook
-
-github:
+github_info:
   organization: 18F
   repository: handbook
   default_branch: master
@@ -56,9 +47,6 @@ google_analytics_ua: UA-48605964-19
 
 # search.gov
 search_site_handle: tts-handbook
-
-generate_nodes: true
-flat_namespace: true
 
 jekyll_get:
   - data: dgcommunities
