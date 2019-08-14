@@ -20,7 +20,7 @@ Each metric above receives a single score on potential impact from the following
 * high
 * incident
 
-A score of `n/a` means that the report falls outside of scope, or is negligible, or doesn't contain enough information. If the report is `n/a`, [jump to the response step](#respond-to-reporter).
+A score of `n/a` means that the report falls outside of scope, or is negligible, or doesn't contain enough information. If the report is `n/a`, [jump to the response step](#3-respond-to-reporter).
 
 Scores of `low`, `moderate`, and `high` are subjective. 
 
