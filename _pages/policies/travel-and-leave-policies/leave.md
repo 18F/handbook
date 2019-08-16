@@ -134,7 +134,9 @@ For complete details, see [this recent guidance](http://www.opm.gov/policy-data-
 
 Both parents may use their annual or sick leave after the birth of a child, for the period of the mother’s incapacitation. The length of the medically necessary leave is ultimately determined by a doctor’s note, but six weeks for a vaginal birth and eight weeks for a cesarean birth is common. After parents exhaust their annual and sick leave, they can run a sick leave deficit of up to the amount they will accrue during their tenure.
 
-Employees may also apply for annual leave donations from other federal employees within their agency. Leave donations may only be used for a medically necessary leave period, as determined by the doctor's note. Leave donations from federal employees outside GSA are considered on a case-by-case basis. Additionally, if spouses are both employed by the federal government, they may donate unlimited annual leave to each other, regardless of the agencies they work for. Leave donations can be used to backfill sick leave and annual leave deficits.
+Employees may also apply for annual leave donations from other federal employees within their agency. Leave donations may only be used for a medically necessary leave period, as determined by the doctor's note. Leave donations from federal employees outside GSA are considered on a case-by-case basis. Additionally, if spouses are both employed by the federal government, they may donate unlimited annual leave to each other, regardless of the agencies they work for. Leave donations can be used to backfill sick leave and annual leave deficits. 
+
+If you'd like TTS to send out an email notifying your colleagues about your request for donated leave, [fill out this form] (https://forms.gle/BmVKz5ByfW6XyYZ89). It's editable, so when you return to work you can fill in an end date.
 
 In addition to the paid leave described above, employees can take leave without pay (under the Family and Medical Leave Act (FMLA)) for up to 12 weeks per calendar year. Once you've been an employee of the federal government for at least 12 months, you're eligible to take FMLA, provided your supervisor approves it. You can take this leave within one year of the birth of your child. You do not need to take it all at once. Employees are eligible to take intermittent leave within the first year of their child’s birth. For instance, you could take unpaid leave on Tuesdays and Thursdays for several weeks in a row.
 
@@ -142,14 +144,12 @@ In addition to the paid leave described above, employees can take leave without 
 
 Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) (VLTP), a covered employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave.
 
-To donate leave:
-1) Go to GSA FEDdesk at http://feddesk.gsa.gov,
-2) Click on "Applications" at the top of the page,
-3) Click on the "Voluntary Leave Transfer Program," then
-4) Login using your Social Security Number and Employee Express Password, and
-5) Follow the system prompts. 
+To donate leave (this process is new as of 8/19/19):
+1) If you haven't registered with [Max.gov](https://portal.max.gov/portal/home), click Register Now at the top right of that homepage and follow [these instructions](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/08/VLTP_AccessLogin_2019.pdf) to register your PIV card to enable login (or use the email option if you don't yet have a PIV card reader), then:
+2) Go to https://vltp.gsa.gov/, and
+3) Follow the system prompts. 
 
-If you have any questions, please contact Lakita Rivero at (202) 208-6171 or by email at lakita.rivero@gsa.gov.
+If you have any questions, check the GSA IT Alert email sent 8/8/19 with the subject line "Aug. 19: New way to access VLTP" or  contact Lakita Rivero at (202) 208-6171 or by email at lakita.rivero@gsa.gov.
 
 Also, don’t hesitate to ask in #parental-leave in Slack.  
 
