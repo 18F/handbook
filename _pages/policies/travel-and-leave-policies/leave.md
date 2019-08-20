@@ -52,8 +52,6 @@ It’s simple, but slightly counter-intuitive. Here’s how:
   2. *Edit* the _canceled_ request.
   3. Resubmit the canceled-and-edited request.
 
-
-
 ### HR Links tips
 
 - Partial day requests cannot be made in the middle of a multi-day request; more than one request will need to be made
