@@ -13,6 +13,8 @@ tags:
 - Training
 - sf-182
 - SF182
+- books
+- training materials
 ---
 
 TTS encourages all staff to attend conferences, speak at events and focus on professional development and training opportunities.
@@ -70,3 +72,7 @@ You are responsible for cancelling all reservations (e.g. flight, hotel, rental 
 ## After the Conference
 
 Add your notes about the conference to the [Conferences Notes doc](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=0) for your colleagues to read and learn from!
+
+## Buying books
+
+You can also use your training budget to buy books for self-guided study. Approval for books follows the same process as approvals for trainings. You'll need to fill out the same forms but using the names of the books you want to buy. 
