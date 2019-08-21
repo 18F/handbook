@@ -152,21 +152,23 @@ In GitHub parlance, where repos all have admins, org-wide administrators are cal
 
 ### Organizations
 
-18F/TTS manages (or is heavily involved with) the following GitHub organizations:
+TTS is part of (and in most cases manages) the following government-owned GitHub organizations. When offboarding, people should be removed from all of them.
 
 * [@18F](https://github.com/18F)
-* [@cloudfoundry-community](https://github.com/cloudfoundry-community)
 * [@digital-analytics-program](https://github.com/digital-analytics-program)
 * [@digitalgov](https://github.com/digitalgov)
 * [@federalist-users](https://github.com/federalist-users)
 * [@fedramp](https://github.com/fedramp)
 * [@fellows-in-innovation](https://github.com/fellows-in-innovation)
-* [@fisma-ready](https://github.com/fisma-ready)
 * [@GSA](https://github.com/GSA)
-* [@opencontrol](https://github.com/opencontrol)
-* [@openopps](https://github.com/openopps)
 * [@presidential-innovation-fellows](https://github.com/presidential-innovation-fellows)
 * [@usagov](https://github.com/usagov)
+
+We are also heavily involved with the following non-government-owned GitHub organizations, but don't require people to be removed from them when offboarding.
+
+* [@cloudfoundry-community](https://github.com/cloudfoundry-community)
+* [@fisma-ready](https://github.com/fisma-ready)
+* [@opencontrol](https://github.com/opencontrol)
 
 ## Resources
 
