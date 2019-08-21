@@ -152,23 +152,26 @@ In GitHub parlance, where repos all have admins, org-wide administrators are cal
 
 ### Organizations
 
-TTS is part of (and in most cases manages) the following government-owned GitHub organizations. When offboarding, people should be removed from all of them.
+TTS is heavily involved in the following GitHub organizations:
 
-- [@18F](https://github.com/18F)
-- [@digital-analytics-program](https://github.com/digital-analytics-program)
-- [@digitalgov](https://github.com/digitalgov)
-- [@federalist-users](https://github.com/federalist-users)
-- [@fedramp](https://github.com/fedramp)
-- [@fellows-in-innovation](https://github.com/fellows-in-innovation)
-- [@GSA](https://github.com/GSA)
-- [@presidential-innovation-fellows](https://github.com/presidential-innovation-fellows)
-- [@usagov](https://github.com/usagov)
+| Organization                                                                           | Government-owned<sup>1</sup> | TTS-managed<sup>2</sup>                           |
+| -------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------- |
+| [@18F](https://github.com/18F)                                                         | Y                            | Y                                                 |
+| [@cloudfoundry-community](https://github.com/cloudfoundry-community)                   | N                            | N                                                 |
+| [@digital-analytics-program](https://github.com/digital-analytics-program)             | Y                            | Y                                                 |
+| [@digitalgov](https://github.com/digitalgov)                                           | Y                            | Y                                                 |
+| [@federalist-users](https://github.com/federalist-users)                               | Y                            | Y                                                 |
+| [@fedramp](https://github.com/fedramp)                                                 | Y                            | Y                                                 |
+| [@fellows-in-innovation](https://github.com/fellows-in-innovation)                     | Y                            | Y                                                 |
+| [@fisma-ready](https://github.com/fisma-ready)                                         | N                            | N                                                 |
+| [@GSA](https://github.com/GSA)                                                         | Y                            | [N](https://github.com/GSA/GitHub-Administration) |
+| [@opencontrol](https://github.com/opencontrol)                                         | N                            | N                                                 |
+| [@presidential-innovation-fellows](https://github.com/presidential-innovation-fellows) | Y                            | Y                                                 |
+| [@usagov](https://github.com/usagov)                                                   | Y                            | Y                                                 |
 
-We are also heavily involved with the following non-government-owned GitHub organizations, but don't require people to be removed from them when offboarding.
+<sup>1</sup>: TTS staff, contractors, and partners who are offboarding need to be removed from all government-owned GitHub organizations.
 
-- [@cloudfoundry-community](https://github.com/cloudfoundry-community)
-- [@fisma-ready](https://github.com/fisma-ready)
-- [@opencontrol](https://github.com/opencontrol)
+<sup>2</sup>: For the ones that are TTS-managed, get help in [#admins-github](https://gsa-tts.slack.com/messages/admins-github).
 
 ## Resources
 
