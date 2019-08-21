@@ -75,7 +75,12 @@ See the [software](../software/) page.
 
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. Ask in the Slack channel corresponding to your office.
 
-To get additional peripherals (chargers, dongles, etc.), go to the [GSA IT Service Portal](https://gsa.service-now.com/) and open a `Hardware` ticket.
+To get additional peripherals (chargers, dongles, etc.), [open a `Hardware` request](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=c73f4b527897a400ce3ddff91a649434). If that link doesn't work, find it through:
+
+1. Visit the [GSA IT Service Portal](https://gsa.service-now.com/)
+1. Click `Service Catalog`
+1. Click `Equipment Services`
+1. Click `Hardware`
 
 ## Equipment to accommodate disability
 
