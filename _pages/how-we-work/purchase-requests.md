@@ -1,6 +1,5 @@
 ---
 title: Purchase requests
-slack-channel: c2-purchase-questions
 ---
 
 This page covers the general process for requesting purchases under $10,000. Your request will be considered and, if approved, purchased by either the TTS Office of Acquisition (OA) or TTS Operations (Ops).

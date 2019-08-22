@@ -16,19 +16,15 @@
   <script src="{{site.baseurl}}/javascripts/jquery-3.4.1.min.js"></script>
   <script src="{{site.baseurl}}/javascripts/application.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/reset.css">
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/screen.css">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/search.css">
   <meta http-equiv="refresh" content="0;URL='{{ page.url }}">
 
 </head>
 
   <body class="no-js layout-article">
-    {% include site-header.html %}
-    {% if page.breadcrumbs %}{% guides_style_18f_include breadcrumbs.html %}{% endif %}
     <main class="article">
       <div class="page">
         <div class="wrapper">
@@ -36,6 +32,5 @@
         </div>
       </div>
     </main>
-    {% include site-footer.html %}
   </body>
 </html>
