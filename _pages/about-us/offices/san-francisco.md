@@ -247,7 +247,7 @@ For FedEx and UPS, please use the address as usual:
 
 There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)). To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
 
-There are men's and women's locker rooms with lockers and showers. You do not need a gym membership to access these; they are available for day use (not overnight) for everyone in the building. Ask a coworker for the code to the locker room of your choice. [Ahmed Mahdi](mailto:Ahmed.Mahdi@gsa.gov) of Building Services can also provide the current code.
+There are men's and women's locker rooms with lockers and showers. You do not need a gym membership to access these; they are available for day use (not overnight) for everyone in the building. Ask a coworker for the code to the locker room of your choice or [contact Building Services](mailto:50UNPBuildingServices@gsa.gov).
 
 ### Interior courtyard
 
