@@ -50,6 +50,8 @@ TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have
 
 - GSA IT will ask for your Apple ID and password. **Do not send your personal Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA email address, or set one up for yourself and use [Fugacious](https://fugacious.18f.gov/) to send them your password securely. (Never share passwords over email.)
 
+- Change the phone's passcode. The new code should be known only to you.
+
 - **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
 
 - After GSA IT provisions your phone, set up two-factor verification:
