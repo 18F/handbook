@@ -213,7 +213,7 @@ Following this step will ensure your authorization or voucher is in SUBMIT TO AP
 
 4. If you successfully stamped the document, you be taken to a page with the button **Close Post Stamping Document Closure Screen**. It doesn’t look like it, but when you see that button, you are done! Your authorization has been submitted. You don’t even have to click the button again (but you can if you want).
 
-5. In the case of authorizations, your travel will be approved by the TTS travel team once you have [secured approval from your authorizing official](#how-to-secure-authorizing-official-approval). Ensure this is complete by 3:30 PM Eastern, else your travel will not be approved until the next business day. If you require approval after business hours, see the guide for after-hours and emergency travel [here]({{site.baseurl}}/travel-guide-B-after-hours-emergency-travel-authorizations).
+5. In the case of authorizations, your travel will be approved by the TTS travel team once you have [secured approval from your authorizing official](#how-to-secure-authorizing-official-approval). Ensure this is complete by 3:30 PM Eastern, else your travel will not be approved until the next business day. If you require approval after business hours, see the guide for after-hours and emergency travel [here]({{site.baseurl}}/travel-guide-b-after-hours-emergency-travel-authorizations).
 
 *For vouchers, your travel will be approved within 3-5 business days.
 

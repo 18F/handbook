@@ -30,8 +30,8 @@ Once you have finalized your reservations, there are still a few more steps to f
 * [Stamp and submit authorization]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval), ensuring your authorization is in SUBMIT TO APPROVER status.
 * If you haven't done so already, [secure written approval from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval) and send it to tts-travelauths@gsa.gov so the TTS travel team can likewise approve your trip in the system.
 
-Ensure all of the above steps are completed no later than 3:30 PM ET the last business day before travel to give the travel team sufficient time to review. After-hours or emergency travel requests may be made in coordination with your supervisor and AdTrav via the process outlined [here]({{site.baseurl}}/travel-guide-B-after-hours-emergency-travel-authorizations).<br>
+Ensure all of the above steps are completed no later than 3:30 PM ET the last business day before travel to give the travel team sufficient time to review. After-hours or emergency travel requests may be made in coordination with your supervisor and AdTrav via the process outlined [here]({{site.baseurl}}/travel-guide-b-after-hours-emergency-travel-authorizations).<br>
 <br>
-Should you need to rebook your travel at any point in the process, read the instructions [here]({{site.baseurl}}/travel-guide-A-amended-authorizations).
+Should you need to rebook your travel at any point in the process, read the instructions [here]({{site.baseurl}}/travel-guide-a-amended-authorizations).
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel), [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)*

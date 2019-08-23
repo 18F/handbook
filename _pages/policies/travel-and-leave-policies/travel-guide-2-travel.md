@@ -38,7 +38,7 @@ In addition to receiving round trip tickets to your destination and lodging for 
 
 * M&IE is given at a reduced rate on “travel days”-- i.e. days where part of the normal work day was spent traveling. This reduced rate is always 75% of normal M&IE, regardless of how much of the day was actually spent traveling.
 
-Note that if your travel extends past midnight, you get the full meal allowance for the long day of travel plus the 75% of the meal allowance for the following day (even if you arrived just after midnight local time). If you anticipate traveling past midnight, ensure your authorization reflects this in advance, otherwise, you will need to create an [amended authorization]({{site.baseurl}}/travel-guide-A-amended-authorizations) upon your return.
+Note that if your travel extends past midnight, you get the full meal allowance for the long day of travel plus the 75% of the meal allowance for the following day (even if you arrived just after midnight local time). If you anticipate traveling past midnight, ensure your authorization reflects this in advance, otherwise, you will need to create an [amended authorization]({{site.baseurl}}/travel-guide-a-amended-authorizations) upon your return.
 
 * M&IE is given as a reimbursement after submitting a voucher, which is done after you return from a trip. How this reimbursement is disbursed depends on how much you used the GSA travel card.
 

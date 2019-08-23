@@ -14,7 +14,7 @@ You may be reimbursed for your expenses from official travel, or any other appro
 <br>
 You can get started by navigating to the **Vouchers** tab on top and selecting **New Voucher**. If you do not yet have access to Concur, you can request it by following the steps [here]({{site.baseurl}}/first-time-travel-get-in-concur).<br>
 <br>
-BEFORE YOU BEGIN: _did your dates of travel change such that they are in any way outside of the original dates of your trip? If yes, STOP, and create an [amended authorization]({{site.baseurl}}/travel-guide-A-amended-authorizations) for the new dates._
+BEFORE YOU BEGIN: _did your dates of travel change such that they are in any way outside of the original dates of your trip? If yes, STOP, and create an [amended authorization]({{site.baseurl}}/travel-guide-a-amended-authorizations) for the new dates._
 
 * Any travel that involves a flight, Amtrak, or is otherwise over 12 hours in duration is considered a **[Voucher From Authorization]({{site.baseurl}}/travel-guide-faq/#how-do-i-create-a-voucher-from-authorization)**.
 * For any other reimbursement, including local travel, or reimbursement of expenses unrelated to travel, such as professional liability insurance, choose the **[Local voucher]({{site.baseurl}}/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher)** option. Ensure that [an email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval) approving the expenses you intend to get reimbursed has been sent to tts-travelauths@gsa.gov.
