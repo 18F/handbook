@@ -6,6 +6,7 @@ AnyConnect is a VPN client that we use to connect to GSA's intranet.
 
 ## Setup
 
+### VPN Client
 Your machine may already have AnyConnect installed. If it is, it will be under Cisco>AnyConnect in your Applications.
 
 If it is not installed, here is how you can get access:
@@ -16,6 +17,16 @@ If it is not installed, here is how you can get access:
 Your installation screen should look like this:
 
 ![AnyConnect Installation Screen]({{site.baseurl}}/images/anyconnect/1.png)
+
+## Logging into Cisco AnyConnect
+
+  1. Click on Launchpad (Rocket ship icon in the Dock at the bottom of your screen) 
+  2. Click on the Cisco AnyConnect Mobility Client icon to launch
+  3. Select your server in the pop-up window and click connect
+  4. Enter ENT login and password
+  5. Go to [otp.gsa.gov](http://otp.gsa.gov) and enter your ENT info to get the Tokencode
+     - You can also obtain a Tokencode by installing [SecureAuth OTP](https://preview-insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/secureauth/install-secureauth-otp-on-ios-apple)) on your phone, as described in the [Get a one-time password?]({{site.baseurl}}/distributed/#otp) handbook section
+  6. Enter the Tokencode back into thee AnyConnect pop-up screen and submit
 
 ## Usage
 
