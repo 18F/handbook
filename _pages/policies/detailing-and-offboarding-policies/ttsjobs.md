@@ -36,7 +36,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Internal only competitions
 
-
+- [cloud.gov - Security Compliance Architect](https://docs.google.com/document/d/1fM2fvyLupr-wttI95j9FEsv_eZ8dYfR5zsz8BMaAtuI/edit) - Application Close: Friday, 9/6 at 11:59pm ET
 
 ## Partner information & opportunities
 
