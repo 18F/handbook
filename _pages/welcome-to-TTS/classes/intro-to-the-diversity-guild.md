@@ -1,5 +1,5 @@
 ---
 title: Intro to the Diversity Guild
-url: /diversity
+redirect_url: /diversity
 layout: redirect
 ---

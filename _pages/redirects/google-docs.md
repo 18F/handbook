@@ -1,5 +1,5 @@
 ---
 title: Google Docs
-url: /google-drive/
+redirect_url: /google-drive/
 layout: redirect
 ---
