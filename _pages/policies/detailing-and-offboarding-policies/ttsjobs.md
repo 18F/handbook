@@ -44,7 +44,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ## Partner information & opportunities
 
-[CA Office of Digital Innovation](https://www.govops.ca.gov/innovation/) 
+
 
 **United States Digital Service (USDS)**
 
