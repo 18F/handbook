@@ -81,6 +81,9 @@ navigation:
     - text: Benefits
       url: benefits/
       internal: true
+    - text: Development and training
+      url: development-and-training
+      internal: true
     - text: Online Learning University (OLU)
       url: olu/
       internal: true
