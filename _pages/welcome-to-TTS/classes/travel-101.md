@@ -20,8 +20,8 @@ Once you are [set up in Concur]({{site.baseurl}}/first-time-travel-get-in-concur
 
 There are also a few specialized guides to be aware of for the following situations:
 
-* [Rebooking and changing official travel plans]({{site.baseurl}}/travel-guide-A-amended-authorizations/)
-* [After hours and emergency travel]({{site.baseurl}}/travel-guide-B-after-hours-emergency-travel-authorizations)
+* [Rebooking and changing official travel plans]({{site.baseurl}}/travel-guide-a-amended-authorizations/)
+* [After hours and emergency travel]({{site.baseurl}}/travel-guide-b-after-hours-emergency-travel-authorizations)
 * Combining official and personal travel, including [extensions at personal expense]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), and [travel to and from cities other than one's home location and worksite]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home).
 * [Traveling for multiple projects]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-traveling-for-multiple-projects)
 * [Issues with reimbursement]({{site.baseurl}}/travel-guide-faq/#issues-with-reimbursement)
@@ -30,7 +30,7 @@ There are also a few specialized guides to be aware of for the following situati
 
 **You** are responsible for securing your [authorizing official's approval to travel]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval), properly submitting your [applications for Concur]({{site.baseurl}}/first-time-travel-get-in-concur/) and the [GSA travel card]({{site.baseurl}}/first-time-travel-travel-card/), booking your travel through [Concur](https://travel.gsa.gov) or AdTrav at (877) 472-6716, and ensuring your travel request is properly [stamped and submitted]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval) in Concur.
 
-**The TTS Travel Team** is responsible for approving properly submitted travel in Concur, and answering most* of the questions you might have along the way. You can reach them either via email at tts-travel@gsa.gov, in Slack in the #travel channel, or by booking [travel/purchase office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/). Note that the travel team won't be available to immediately assist with your inquiry, though the team endeavors to answer all questions that come through by their next office hours which are twice daily. Properly submitted authorizations for upcoming travel are reviewed by the team daily, and vouchers are reviewed within 5 business days. Close of business for the travel team is at **4:30 PM ET**. Should you need support after-hours, read the guide [here]({{site.baseurl}}/travel-guide-B-after-hours-emergency-travel-authorizations).
+**The TTS Travel Team** is responsible for approving properly submitted travel in Concur, and answering most* of the questions you might have along the way. You can reach them either via email at tts-travel@gsa.gov, in Slack in the #travel channel, or by booking [travel/purchase office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/). Note that the travel team won't be available to immediately assist with your inquiry, though the team endeavors to answer all questions that come through by their next office hours which are twice daily. Properly submitted authorizations for upcoming travel are reviewed by the team daily, and vouchers are reviewed within 5 business days. Close of business for the travel team is at **4:30 PM ET**. Should you need support after-hours, read the guide [here]({{site.baseurl}}/travel-guide-b-after-hours-emergency-travel-authorizations).
 
 The TTS travel team is comprised of the following individuals. Please send your questions to them through the above-mentioned channels and not through individual emails or Slack DMs.
 
