@@ -9,7 +9,7 @@ This page contains performance management quicklinks, important dates, and guida
 
 ## Performance management quick links
 
-Resource | Use |
+Resource | Use
 -------|------
 Employee checklist | Performance management steps
 Supervisor checklist | Performance management steps
@@ -22,17 +22,17 @@ Supervisor checklist | Performance management steps
 
 ## End of year performance review important dates
 
-Item | Date
+Date | Item
 -------|-----
-End of FY2019 performance cycle | September 31
-FY2020 performance cycle begins | October 1
-Internal Ask for employees to submit their self-assessments | October 1
-Performance Reviews final submittal date | TBD
-Audit of Employee self-assessment completion | October 23
-Supervisor shares close out evaluation and performance plan for employee review and acknowledgement | October 28
-Audit of Supervisor review completion | October 30
-TTS Internal ask Due Date | November 7
-End of Year Close Out Due Date. Supervisors and employees complete close out FY19 appraisals and issue FY2020 performance plans in HRLINKs. Employees Acknowledge or Supervisor overrides. | November 14
+September 31 | End of FY2019 performance cycle
+October 1 | FY2020 performance cycle begins
+October 1 | Internal Ask for employees to submit their self-assessments
+TBD | Performance Reviews final submittal date
+October 23 | Audit of Employee self-assessment completion
+October 28 | Supervisor shares close out evaluation and performance plan for employee review and acknowledgement
+October 30 | Audit of Supervisor review completion
+November 7 | TTS Internal ask Due Date
+November 14 | End of Year Close Out Due Date. Supervisors and employees complete close out FY19 appraisals and issue FY2020 performance plans in HRLINKs. Employees Acknowledge or Supervisor overrides.
 
 ## Employee resources
 
