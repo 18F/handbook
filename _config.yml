@@ -178,6 +178,9 @@ navigation:
       - text: Overtime and comp time
         url: overtime-and-comp-time/
         internal: true
+      - text: Performance management
+        url: performance-management
+        internal: true
       - text: Purchase requests
         url: purchase-requests/
         internal: true
