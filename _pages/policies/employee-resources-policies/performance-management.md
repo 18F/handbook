@@ -7,23 +7,10 @@ tags:
 
 This page contains performance management quicklinks, important dates, and guidance for employees and supervisors.  Visit the [development and training]({{site.baseurl}}/development-and-training/) page for opportunities within GSA that are available to TTS employees  
 
-## Performance management quick links
-
-Resource | Use
--------|------
-Employee checklist | Performance management steps
-Supervisor checklist | Performance management steps
-[FY19 Performance Management Planning & Appraisal Master Schedule](https://www.employeeexpress.gov) | All FY19 dates
-[Online Learning University (OLU)](https://gsaolu.gsa.gov/) | Performance management trainings
-[HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
-[HR Links Guide](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTgxMTA2Ljk3MjE5NDAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE4MTEwNi45NzIxOTQwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MjE1Mjk3JmVtYWlsaWQ9bWljaGFlbC5zZXltb3VyQGdzYS5nb3YmdXNlcmlkPW1pY2hhZWwuc2V5bW91ckBnc2EuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&100&&&http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-23-Performance-Management-for-Employees_FINAL_v2.docx) | Entering all components of a performance review into HR Links [Employee Performance Management](https://insite.gsa.gov/topics/hr-pay-and-leave/employee-performance-management) | InSite performance management resources
-[Standard performance plan templates](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/resources/performance-plans) | Examples for some roles/grades
-
-
 ## End of year performance review important dates
 
 Date | Item
--------|-----
+-------|-------
 September 31 | End of FY2019 performance cycle
 October 1 | FY2020 performance cycle begins
 October 1 | Internal Ask for employees to submit their self-assessments
@@ -34,11 +21,23 @@ October 30 | Audit of Supervisor review completion
 November 7 | TTS Internal ask Due Date
 November 14 | End of Year Close Out Due Date. Supervisors and employees complete close out FY19 appraisals and issue FY2020 performance plans in HRLINKs. Employees Acknowledge or Supervisor overrides.
 
+## Performance management quick links
+
+Resource | Use
+-------|--------
+Employee checklist | Performance management steps (coming soon)
+Supervisor checklist | Performance management steps (coming soon)
+[FY19 Performance Management Planning & Appraisal Master Schedule](https://www.employeeexpress.gov) | All FY19 dates
+[Online Learning University (OLU)](https://gsaolu.gsa.gov/) | Performance management trainings
+[HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
+[HR Links Guide](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTgxMTA2Ljk3MjE5NDAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE4MTEwNi45NzIxOTQwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MjE1Mjk3JmVtYWlsaWQ9bWljaGFlbC5zZXltb3VyQGdzYS5nb3YmdXNlcmlkPW1pY2hhZWwuc2V5bW91ckBnc2EuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&100&&&http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-23-Performance-Management-for-Employees_FINAL_v2.docx) | Entering all components of a performance review into HR Links [Employee Performance Management](https://insite.gsa.gov/topics/hr-pay-and-leave/employee-performance-management) | InSite performance management resources
+[Standard performance plan templates](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/resources/performance-plans) | Examples for some roles/grades
+
 ## Employee resources
 
 ### Employee performance management checklist
 
-* Use the Employee performance management checklist to guide you through the end of FY19 performance review
+* Use the Employee performance management checklist (coming soon) to guide you through the end of FY19 performance review
 
 ### Guidance
 
@@ -77,7 +76,7 @@ November 14 | End of Year Close Out Due Date. Supervisors and employees complete
 
 ### Supervisor performance management checklist
 
-* Use the Supervisor performance management checklist to guide you through end of FY19 performance reviews
+* Use the Supervisor performance management checklist (coming soon) to guide you through end of FY19 performance reviews
 
 ### Guidance
 
