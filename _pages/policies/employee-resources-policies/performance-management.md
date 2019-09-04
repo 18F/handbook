@@ -30,7 +30,8 @@ Supervisor checklist | Performance management steps (coming soon)
 [FY19 Performance Management Planning & Appraisal Master Schedule](https://www.employeeexpress.gov) | All FY19 dates
 [Online Learning University (OLU)](https://gsaolu.gsa.gov/) | Performance management trainings
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
-[HR Links Guide](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTgxMTA2Ljk3MjE5NDAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE4MTEwNi45NzIxOTQwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MjE1Mjk3JmVtYWlsaWQ9bWljaGFlbC5zZXltb3VyQGdzYS5nb3YmdXNlcmlkPW1pY2hhZWwuc2V5bW91ckBnc2EuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&100&&&http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-23-Performance-Management-for-Employees_FINAL_v2.docx) | Entering all components of a performance review into HR Links [Employee Performance Management](https://insite.gsa.gov/topics/hr-pay-and-leave/employee-performance-management) | InSite performance management resources
+[HR Links Guide](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTgxMTA2Ljk3MjE5NDAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE4MTEwNi45NzIxOTQwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MjE1Mjk3JmVtYWlsaWQ9bWljaGFlbC5zZXltb3VyQGdzYS5nb3YmdXNlcmlkPW1pY2hhZWwuc2V5bW91ckBnc2EuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&100&&&http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-23-Performance-Management-for-Employees_FINAL_v2.docx) | Entering all components of a performance review into HR Links
+[Employee Performance Management](https://insite.gsa.gov/topics/hr-pay-and-leave/employee-performance-management) | InSite performance management resources
 [Standard performance plan templates](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/resources/performance-plans) | Examples for some roles/grades
 
 ## Employee resources
