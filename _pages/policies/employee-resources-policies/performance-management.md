@@ -14,7 +14,7 @@ Date | Item
 September 31 | End of FY2019 performance cycle
 October 1 | FY2020 performance cycle begins
 October 1 | Internal Ask for employees to submit their self-assessments
-TBD | Performance Reviews final submittal date
+October 22 | Self-assessment submittal due date
 October 23 | Audit of Employee self-assessment completion
 October 28 | Supervisor shares close out evaluation and performance plan for employee review and acknowledgement
 October 30 | Audit of Supervisor review completion
