@@ -1,5 +1,5 @@
 ---
 title: Infrastructure
-url: /tech-portfolio/
+redirect_url: /tech-portfolio/
 layout: redirect
 ---

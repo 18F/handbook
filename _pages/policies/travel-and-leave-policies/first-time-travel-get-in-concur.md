@@ -7,7 +7,7 @@ title: Get access to Concur
 
 There are four required steps to gain access to [Concur](http://travel.gsa.gov/).
 
-1. Get a **“travel vendor ID”**. The easiest way to do this is to email kc-travel.finance@gsa.gov and request your vendor ID, and that payroll banking information can be used to generate this. Your travel vendor ID number will look like **E000xxxxx**.
+1. To access [Concur](http://travel.gsa.gov/), you’ll first need to get a **“travel vendor ID”**. The easiest way to do this is to email [kc-travel.finance@gsa.gov](mailto:kc-travel.finance@gsa.gov). Your email should request your vendor ID and state that payroll banking information can be used to generate the ID.  We've drafted an [email template for you here](mailto:kc-travel.finance@gsa.gov?subject=Request%20for%20Travel%20Vendor%20ID&body=Hi.%20I%20will%20be%20traveling%20for%20work%20and%20will%20need%20a%20travel%20vendor%20ID.%20Can%20you%20please%20assign%20one%20to%20me?%20My%20payroll%20banking%20information%20can%20be%20used%20to%20generate%20this%20ID.). Just click, personalize, and send.
   * In case the travel finance team is unable to locate your payroll banking information, they may request that you complete [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing) and will provide instructions on how you can send this information to them securely.
   * While you wait for the ID number to be generated (which can take up to 1 business day), you may get started on [applying for the GSA travel card]({{site.baseurl}}/first-time-travel-travel-card).
 

@@ -90,8 +90,8 @@ To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollme
 
 - Select the Benefits Library icon
 - Click on the Forms Center
-- Select "Health Benefits Enrollment"
-  - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes.."
+- Select "Health Benefits Election Form"
+  - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes..."
 - Once you click "Submit" the documents get sent to the cpc benefits team where they can review and process these actions.
 - Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) letting her know you have submitted these documents so that she can confirm with CPC that they have received them.  You can email Mary any time with benefits questions or issues.
 

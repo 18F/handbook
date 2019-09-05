@@ -43,7 +43,7 @@ You can read more about funding and IAA details on 18F’s [Intake Information p
 
 We launched not only a new team, but also the promise of a new way of working with and for the federal government. The first 15 of us committed to making government services simpler and easier to use — a mission that continues to guide us. We set out to do this by drawing on principles of user-centered design, developing in the open, and incorporating agile and lean development practices.
 
-With our mission and approach established, we rolled up our sleeves and got to work. With each new project that we take on, we know the long tail of our impact will be the education and empowerment we share with our partner agencies. Following in the footsteps of the UK’s Government Digital Service, we’ve been capturing, [documenting](https://pages.18f.gov/), and [blogging](https://18f.gsa.gov/news) about our process as much as possible — not simply for the purpose of recording our history, but so we can share our process and progress with the public.
+With our mission and approach established, we rolled up our sleeves and got to work. With each new project that we take on, we know the long tail of our impact will be the education and empowerment we share with our partner agencies. Following in the footsteps of the UK’s Government Digital Service, we’ve been capturing, [documenting](https://pages.18f.gov/), and [blogging](https://18f.gsa.gov/blog/) about our process as much as possible — not simply for the purpose of recording our history, but so we can share our process and progress with the public.
 
 “Just Start” was our mantra in the early days of 18F, and we did. Sometimes we stumbled, but each time we practiced what we preach — build, measure, learn, and do it again.
 

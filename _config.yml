@@ -3,7 +3,7 @@ theme: uswds-jekyll
 title: TTS Handbook
 description: A collection of guides and policies to help you with your work.
 
-github_info:
+github:
   organization: 18F
   repository: handbook
   default_branch: master
@@ -80,6 +80,9 @@ navigation:
       internal: true
     - text: Benefits
       url: benefits/
+      internal: true
+    - text: Development and training
+      url: development-and-training
       internal: true
     - text: Online Learning University (OLU)
       url: olu/
@@ -174,6 +177,9 @@ navigation:
         internal: true
       - text: Overtime and comp time
         url: overtime-and-comp-time/
+        internal: true
+      - text: Performance management
+        url: performance-management
         internal: true
       - text: Purchase requests
         url: purchase-requests/

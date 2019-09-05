@@ -1,5 +1,5 @@
 ---
 title: Google Hangouts
-url: /google-meet/
+redirect_url: /google-meet/
 layout: redirect
 ---

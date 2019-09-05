@@ -52,8 +52,6 @@ It’s simple, but slightly counter-intuitive. Here’s how:
   2. *Edit* the _canceled_ request.
   3. Resubmit the canceled-and-edited request.
 
-
-
 ### HR Links tips
 
 - Partial day requests cannot be made in the middle of a multi-day request; more than one request will need to be made
@@ -149,7 +147,7 @@ To donate leave (this process is new as of 8/19/19):
 2) Go to https://vltp.gsa.gov/, and
 3) Follow the system prompts. 
 
-If you have any questions, check the GSA IT Alert email sent 8/8/19 with the subject line "Aug. 19: New way to access VLTP" or  contact Lakita Rivero at (202) 208-6171 or by email at lakita.rivero@gsa.gov.
+If you have any questions, check the GSA IT Alert email sent 8/8/19 with the subject line "Aug. 19: New way to access VLTP" or  contact Lakita Rivero at lakita.rivero@gsa.gov.
 
 Also, don’t hesitate to ask in #parental-leave in Slack.  
 

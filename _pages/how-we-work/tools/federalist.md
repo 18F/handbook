@@ -11,6 +11,7 @@ We use [Federalist](https://federalist.18f.gov) to build websites.
 ## Setup 
 
 * Set up your [GitHub](https://handbook.18f.gov/github/) account.  
+* Request access in the [#federalist-support](https://gsa-tts.slack.com/messages/federalist-support) channel. If approved, an administrator will send you an invitation to the federalist-users group in GitHub.
 * Log in at the [Federalist app](https://federalistapp.18f.gov/).  
 
 ## Rules 
