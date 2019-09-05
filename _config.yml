@@ -380,13 +380,10 @@ navigation:
         internal: true
     - text: 18F chapters
       children:
-      - text: Custom Partner Solutions
-        url: custom-partner-solutions/
+      - text: Account management
+        url: account-manager/
         internal: true
         children:
-        - text: Account management
-          url: account-manager/
-          internal: true
         - text: Account management policy
           url: client-accounts/
           internal: true
