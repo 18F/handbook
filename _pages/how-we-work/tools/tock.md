@@ -81,7 +81,7 @@ If you’re an individual contributor or a lead, you’re expected to spend at l
 
 That leaves up to 20% of your time to be spent on non-billable work. There are two types of non-billable work, both of which are used to manage the running of 18F itself: GSA-mandated non-billable work and 18F non-billable work.
 
-GSA-mandated non-billable work includes time spent in HRLinks, mandatory OLU trainings, IDPs, SF-182s, annual reviews, and so forth. These are the things we don’t have a choice but to spend time on.
+GSA-mandated non-billable work includes time spent in HRLinks, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers) and so forth. These are the things we don’t have a choice but to spend time on.
 
 18F non-billable work includes time spent on business development and hiring, in guilds and working groups, team coffees, chapter meetings, approved internal projects, business development, conference attendance, and anything else that contributes to the running of 18F as an organization.
 
@@ -93,7 +93,7 @@ Work week | Billable time (minimum hours expected) | Non-billable time (not to e
 --- | --- | ---
 5 days | 32 hours (80% of 40 hours) | 8 hours
 4 days | 26 hours (80% of 32 hours) | 6 hours
-3 days | 19.5 hours (80% of 32 hours) | 4.5 hours
+3 days | 19.5 hours (80% of 24 hours) | 4.5 hours
 2 days | 13 hours (80% of 16 hours) | 3 hours
 1 days | 6.5 hours (80% of 8 hours) | 1.5 hours
 
@@ -107,10 +107,9 @@ If you still find that you don't have enough work to bill to the hour expectatio
 
 Working more than 32 billable hours is just fine! 32 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
 
-- Before you work those extra hours, talk to your Account Manager and supervisor to figure out if and how much over 40 you can work
+- Before you work those extra hours, talk to your Account Manager and supervisor to figure out if and how much over 40 you can work. The Account Manager will need to check and then adjust the project's financial accounting.
 - Get your supervisor's approval in writing
-- Request overtime in #tock. The tock admin will adjust Tock setting to allow for 40+ hours to be recorded
-- Tell your project's AM too so they can adjust the project's financial accounting
+- Request overtime in #tock. The tock admin will adjust the Tock setting to allow for 40+ hours to be recorded
 - Work your week!
 - Log total hours in Tock
 - Log total hours in HRLinks. This is where your comp time will be recorded and from where you'll use it for future leave
@@ -124,7 +123,7 @@ While we appreciate that you're trying to protect the budget, there is no need f
 
 - When creating new project budgets, we now include enough funds to allow for full capacity for each person for the duration of the project.
 - We build in a risk reserve to each project to ensure we have extra hours for needs that arise during the project.
-- For CPS projects, CPS closely monitors the burns on a weekly basis and communicates that to Project Leads and Product Managers.
+- Account Managers closely monitor project burns on a weekly basis and communicate that to Project Leads and Product Managers.
 
 In short, we need to know if our scoping is accurate. We'd rather be over budget and have our teams delivering value than be under budget and hiding how many hours it truly takes to deliver on our engagements.
 
@@ -163,6 +162,12 @@ The time you spend figuring out travel plans is billable to the project you are 
 ### How do I request paid time off (e.g., annual leave, sick leave, comp time)?
 
 See [Leave](../leave/) page.
+
+### I’m going to be out of the office for an extended period of time — how do I tock in advance? 
+
+Before you leave, head to the #tock channel in slack and ask that the team submit your tock hours for you during your out of office period. Example:
+
+"I will be out of the office from Monday September 16th through Monday September 23rd; Can you enter me as 40 hours OOO for the 16th-20th time period?" 
 
 ## Still have questions?
 
