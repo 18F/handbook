@@ -11,7 +11,7 @@ The [TTS Policy and Procedure for Internal Project Review](https://docs.google.c
 
 **Working groups** are self-organized. They spin up or down depending on our organizational needs.
 
-**Guilds** are more permanent than working groups and are sponsored by the TTS Chief of Staff.  Working groups may propose themselves for guild status. Every guild has one or more leaders chosen by competition and either regular open meetings or an open Slack channel where questions are welcome.
+**Guilds** are more permanent than working groups and are sponsored by the TTS Chief of Staff. Working groups may propose themselves for guild status. Every guild has one or more leaders chosen by competition and either regular open meetings or an open Slack channel where questions are welcome.
 
 18F has a [playbook](https://pages.18f.gov/grouplet-playbook) with instructions on how to organize a working group or guild, how to maintain team cohesion, and how to produce artifacts. All groups have a Slack channel. Working-group related channels have a `wg-` in front of their name; guilds have a `g-` before the name. Feel free to jump into and out of any of the working group or guild channels to participate or ask questions. The [18F Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) houses all formal meeting times for working groups and guilds.
 
@@ -199,3 +199,14 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
     </tbody>
   </table>
 </div>
+
+## Guild leadership competition
+
+Guilds are led by 1-3 TTS staff members who spend a few hours a week on practice leadership. Individual guilds can set leadership terms, with the most common being 1 year. Guild leadership is recognized by a staff member’s supervisor as a responsibility and they should be reviewed on their performance. However, it is an informal role. There are no administrative supervisory duties attached and there is no GS-level or previous leadership requirement.
+
+We hold lightweight competitions for these informal leadership roles. Here is an outline of the process:
+
+1. Guilds decide who is eligible for leadership spots - previous participation, mid-level or expert experience in the discipline etc are reasonable qualifications but not required.
+1. The guild asks for nominations via email and Slack posting. Guilds can choose to allow self-nomination only, or accept nominations by other people with confirmation of interest by the nominee. Nominees should have the verbal approval of their supervisor. Written nominations totalling no more than 400 words are recommended; guilds choose nomination questions.
+1. A panel of 1-3 people made up of guild members and/or leadership from other guilds conducts brief (no more than 30 minute) interviews of candidates and makes a selection.
+1. The current guild leader announces the new leader, who takes up the position immediately.
