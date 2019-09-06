@@ -60,7 +60,11 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 
 ### GSA approval of the FTTA
 
-* Talent sends the FTTAs to OCFO (Andrew Roach)
+* Talent sends the FTTAs to OCFO 
+  * Roles funded by ASF (Siri Nankin)
+   * EX: OPP, search.gov
+  * Roles funded by FSCSF (Sara Twyman)
+   * EX: 18F, IT Portfolio, login.gov, cloud.gov
 * Talent sends the FTTAs to the FAS Commissioner’s office (Tricia Sieveke, Karen Link, and Alex Mobeka)
 * FAS office sends to HSSO (Alan Thomas)
 * FAS office sends to OHRM
