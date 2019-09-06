@@ -14,7 +14,7 @@ The Design team at 18F includes content, user experience, front end, and visual 
 - **Interaction design and front end development.** We work with people to wireframe and prototype simple, beautiful, usable interactions.
 - **Visual design.** We help people more clearly communicate through visualizations and illustrations as well as solid graphic design knowhow.
 
-## <a id="documentation">Documentation</a>
+## Documentation
 
 - [Experience Design capabilities](https://docs.google.com/presentation/d/1aOeq5SsLSMhskchlJRtSLQ28OcIzAQgkanyDZy7bPiU/edit)
 - [18F Visual Identity Guide](https://brand.18f.gov/)
@@ -23,7 +23,7 @@ The Design team at 18F includes content, user experience, front end, and visual 
 - [Design Methods](https://methods.18f.gov/)
 - [Design Wiki](https://github.com/18F/Design-Wiki)
 
-### <a id="suggested-reading">Suggested reading</a>
+### Suggested reading
 
 - [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
 - [Lean Product Design Guide](https://pages.18f.gov/lean-product-design/)
@@ -54,11 +54,11 @@ Welcome to the 18F Design team — we’re happy you’re here! We’ve compiled
 
 You might not have much assigned work during your first two weeks here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the design team has a list of internal projects that aren’t funded but that will help us all work better together. Talk to your design lead (more on that, below) to get more information about these internal projects and how you can get involved.
 
-## <a id="who-we-are">Who we are</a>
+## Who we are
 
 The Design team at 18F includes content, user experience, front-end, and visual designers. We are researchers, editors, prototypers, illustrators, and wordsmiths. We come from a variety of backgrounds, including government, non-profits, consultancies, corporations, and academia.
 
-### <a id="structure">Structure</a>
+### Structure
 
 As per the [org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?usp=sharing), 18F Design is itself composed of the content design, user experience (UX) design + frontend design, and visual design teams. Members of the Design team are active participants in the content, frontend, and research [guilds]({{site.baseurl}}/working-groups-and-guilds-101).
 
@@ -66,7 +66,7 @@ As these teams have grown in size, we’ve introduced **leads** and **supervisor
 
 Members of the Design team are also assigned to **critique groups.** These groups meet regularly (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. These rotations are announced ahead of time, and if you're interested in taking a turn as a critique lead, you can raise your hand as a candidate at that time.
 
-## <a id="what-we-do">What we do</a>
+## What we do
 
 18F Design provides design as a service to the rest of the organization, including:
 
@@ -76,9 +76,9 @@ Members of the Design team are also assigned to **critique groups.** These group
 - **Interaction design and frontend development.** We work with people to develop prototypes and wireframes, discover and implement new technologies to produce simple, beautiful, usable, interactions.
 - **Visual design.** We help people more clearly communicate through visualizations and illustrations as well as solid graphic design knowhow.
 
-## <a id="how-we-work">How we work</a>
+## How we work
 
-### <a id="rituals">Rituals</a>
+### Rituals
 
 Most of the design team works on a mix of partner-agency projects and internal initiatives. As you’d guess, everyone’s weeks look a little different. That said, there are recurring weekly meetings and commitments we all have on our calendars.
 
@@ -86,13 +86,13 @@ Most of the design team works on a mix of partner-agency projects and internal i
 - **Once a week:** meet with your lead. Once a week, you’ll have a short check-in with your Design lead at a time that’s convenient for both of you. The purpose of this meeting is both administrative and personal. It’s how the team leadership keeps on top of project timelines and activities to coordinate resourcing. It’s also a time to talk through any project concerns, figure out how to wrangle the federal bureaucracy, and talk about how to make 18F work better for you.
 - **Once a week:** meet with your critique group. Once a week, you’ll meet with your critique group to talk about creative questions and share work. Critique teams decide internally how often and how long they want to meet.
 
-### <a id="communication-channels">Communication channels</a>
+### Communication channels
 
 - **Mailing lists**
   - 18F-xd@gsa.gov is a Google group for all members of the design chapter. Your supervisor is responsible for adding you to this list — no need to worry about registering.
   - Other mailing lists are listed [here]({{site.baseurl}}/general-contacts-and-listservs/#listservs).
 
-### <a id="tools">Tools</a>
+### Tools
 
 Here are some common tools we use, how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
@@ -125,7 +125,7 @@ Every project and team has a different mix of project management tools based on 
 - **Google Drive / Docs / Slides:** This is our primary tool for documents of various sorts.
 - **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing) to get a license if your project work requires it.
 
-### <a id="assets">Assets</a>
+### Assets
 
 We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
 

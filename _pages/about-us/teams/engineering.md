@@ -102,7 +102,7 @@ Are you already a member of 18F and interested in moving into the Engineering Ch
 3. You'll have a meeting with someone from Engineering leadership to review the expectations of being in Engineering, review the appropriate performance profile, and talk about a development plan to improve software skills, if appropriate.
 4. Your current Supervisor, your new Engineering Supervisor, and yourself will agree on a transition date.
 
-## <a id="rituals">Rituals</a>
+## Rituals
 
 Most of the Engineering team works on a mix of partner agency projects and internal initiatives. As you’d guess, everyone’s weeks look a little different. That said, there are recurring weekly meetings and commitments we all have on our calendars.
 

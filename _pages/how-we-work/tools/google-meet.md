@@ -25,7 +25,7 @@ You can change your avatar across Google Apps even though Google+ profile editin
  4. Update your profile photo.
  5. Click **Set as profile photo**.
 
-## <a id="setup">Tips</a>
+## Tips
 
 - You can [add a Meet]({{site.baseurl}}/google-calendar/#tips) to Google Calendar invites.
 - All Google Meet meetings include telephone dial-in instructions by default. If someone is unable to join using their computer, you can have them dial in or you can call their phone from the Meet.

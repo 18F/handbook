@@ -5,7 +5,7 @@ navtitle: Writing Lab
 
 The Writing Lab team knows that writing is hard: It can be time consuming and stress inducing, and can sometimes seem like a blocker to a project that’s humming along. That's why the Writing Lab came into being. The Lab is a virtual writing center where you can get personalized help from members of the 18F editorial team. (And, if you’re a writerly type yourself, you can join the Lab team and volunteer to help other folks with their writing and editing projects!)
 
-## <a id="leadership">Leadership</a>
+## Leadership
 
 The 18F Writing Lab is run by members of 18F’s editorial team, which includes members of the Content Guild, the Experience Design Content team (folks who work primarily on partner projects), and the Outreach team (folks who focus on internal and external 18F communication and evangelism).
 
@@ -13,7 +13,7 @@ All Lab members volunteer their services and base their contributions on their a
 
 The team’s collective experience is vast. Lab members hail from backgrounds in journalism, instructional design, creative writing, public media, and more. Whether you’re thinking about creating site copy or a conference presentation, someone from the Lab has the expertise to scrub in and help.
 
-## <a id="communication">Communication</a>
+## Communication
 
 Find us in Slack:
 
@@ -22,7 +22,7 @@ Find us in Slack:
 
 ## Frequently asked questions
 
-### <a id="portfolio-of-services">What kind of help can the Writing Lab offer?</a>
+### What kind of help can the Writing Lab offer?
 
 TL;DR If you have words and would like help, let us know!
 
@@ -48,27 +48,27 @@ Our role is limited to improving the overall quality of content — its readabil
 
 The Writing Lab is designed for short engagements. If you need more than 10 hours of content help, please visit [#staffing-resourcing](https://gsa-tts.slack.com/messages/staffing-resourcing) to ask for guidance on getting somebody assigned to your project.
 
-### <a id="asking-for-help">How do I ask for help?</a>
+### How do I ask for help?
 
 Standard practice is to file an issue in our [GitHub repo](https://github.com/18F/writing-lab). If you don’t feel comfortable filing an issue, reach out to us on our Slack channel, [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab). Provide us with the basic details of your project and we’ll create an issue for you (and tag you in it). Lab members will reach out to schedule a 15-30 minute consult with you and make edits and specific comments in Google Docs. They may also discuss larger questions in comments on the GitHub issue. Whenever possible, Lab members try to pick up and close issues within a week.
 
-This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https://docs.google.com/document/d/1pyP501N6L-mJStTUIhsZ9UQoxy7quzoKND9iibS51ls/edit) for you to keep. 
+This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https://docs.google.com/document/d/1pyP501N6L-mJStTUIhsZ9UQoxy7quzoKND9iibS51ls/edit) for you to keep.
 
-### <a id="If-your-issue-isn't-picked-up">What should I do if my issue isn't picked up?</a>
+### What should I do if my issue isn't picked up?
 
 Lab members assign themselves to issues as they can. Each core Lab member is cleared to spend three hours per week on the Lab, so our ability to pick up and close issues is based on the number of issues coming in and the workload of other projects.
 
 If your issue isn’t assigned to someone within three days of you filing it, please ping the team in [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab) or leave a comment on the issue. If your content has a hard deadline, please note that in the issue. Add the urgent label if it needs to be completed in the next two days.
 
-### <a id="Share-feedback">How do I share feedback?</a>
+### How do I share feedback?
 
 We’re always looking for ways to improve the Lab workflow, the quality of our services, and your experience as a customer. If you have any ideas or questions, please [complete our feedback survey](https://goo.gl/1eSVio) or reach out to the team on Slack in [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab).
 
-### <a id="previous-projects">What has the Writing Lab worked on in the past?</a>
+### What has the Writing Lab worked on in the past?
 
 Feel free to peruse the [issues associated with the Writing Lab repository](https://github.com/18F/writing-lab/issues). Also, if you haven’t had a chance to check out the [18F Content Guide](https://pages.18f.gov/content-guide/) yet, that’s a great place to go to familiarize yourself with our style.
 
-### <a id="additional-resources">Additional Resources</a>
+### Additional Resources
 
 Here’s a list of the Lab staff’s favorite resources. Are we missing something? If so, add it to the list.
 
@@ -76,7 +76,7 @@ Here’s a list of the Lab staff’s favorite resources. Are we missing somethin
 - [18F Blogging Guide](https://handbook.18f.gov/blogging/): Your guide to writing, editing, and publishing posts for the 18F blog
 - [The Writing Lab’s performance profile guide](https://docs.google.com/document/d/1z6oyBG43c-5PkK9rAvWeK_bI0ojQqZIJCt8VcmsW53U/edit): An informal guide for editing performance profiles
 
-## <a id="Guidelines">Guidelines for submitting an issue</a>
+## Guidelines for submitting an issue
 
 ### Writing a good issue title
 
@@ -113,7 +113,7 @@ This narrow focus will help you decide a number of things. Because your audience
 
 If you’re sending a staff-wide email to 18F, your user story might be:
 
-_“As an 18F staff member, I want to know what our new README guidelines are, so that I can make sure my repo is up to date.”
+\_“As an 18F staff member, I want to know what our new README guidelines are, so that I can make sure my repo is up to date.”
 
 Using this framework, you can be more informal since you’re writing to your colleagues, and you can use jargon that is known to the 18F team.
 
@@ -124,4 +124,3 @@ If your Lab request is for a billable project, please list the Tock project name
 If your request is for a non billable project, please also list the Tock project name. If there is no Tock project name associated with this piece of content, then the Lab will bill it to writing-lab in Tock.
 
 Either way, the Lab member who assists you will provide you with regular billing updates so you can keep track of how much time they have spent on your issue and how that may affect your project budget.
-

@@ -36,9 +36,9 @@ title: Distributed
 
 _Before you do anything, read our [best practices for making distributed teams work](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)._
 
-## <a id="how-do-i">How do I&hellip;</a>
+## How do I&hellip;
 
-### <a id="set-up-my-computer">Set up my computer?</a>
+### Set up my computer?
 
 TTS employees receive a MacBook and an iPhone from GSA, though you may not receive your work phone on your first day.
 
@@ -46,39 +46,39 @@ On your first day at work you should configure things so that your two-factor au
 
 See the [Equipment page]({{site.baseurl}}/equipment/#phone) for more about how to set up 2FA so you can receive GSA 2FA codes on your cell phone.
 
-### <a id="otp">Get a one-time password?</a>
+### Get a one-time password?
 
 To get a one time password (OTP, required for logging in to some systems), you can either:
 
 * Setup a [SecureAuth client application](https://www.secureauth.com/support/downloads/client-applications) by following [these instructions]({{site.baseurl}}/pdfs/setting_up_otp_for_remote_access.pdf).
 * Visit [otp.gsa.gov](https://otp.gsa.gov).
 
-### <a id="listen-to-all-hands">Listen to and participate in the weekly Tuesday all-hands meeting?</a>
+### Listen to and participate in the weekly Tuesday all-hands meeting?
 
 We use a videocall for our all-hands meetings. Instructions are in the calendar event details.
 
-### <a id="visit-another-gsa-building">Visit another GSA building?</a>
+### Visit another GSA building?
 
 Your badge should work in other GSA buildings. <a href="https://gsa-tts.slack.com/messages/@kathryn/">Kathryn Connolly</a> can submit paperwork to get permission for you to enter the NYC, Chicago, or D.C. buildings, which will take a few days. After you receive an email confirmation, visit the security office in that new building to activate your card.
 
-### <a id="connect-to-gsa">Connect to the GSA network remotely?</a>
+### Connect to the GSA network remotely?
 
 See [Networks]({{site.baseurl}}/networks) for details.
 
-### <a id="get-my-laptop-repaired">Get my laptop repaired?</a>
+### Get my laptop repaired?
 
 First, go to [#teamops](https://gsa-tts.slack.com/messages/teamops/) for advice. They will likely either ask you to take it to an Apple Store (TTS will pay for the repairs), or ship it back to TTS (we&rsquo;ll ship you a new laptop).
 
-### <a id="tether">Tether to my GSA phone?</a>
+### Tether to my GSA phone?
 
 Apple&rsquo;s instructions [are here](https://support.apple.com/en-us/HT204023).
 
-### <a id="supplies">What supplies do distributed employees receive?</a>
+### What supplies do distributed employees receive?
 
 GSA provides remote workers with a laptop and phone but does not provide monitors, desk chairs, or office products.
 
 
-### <a id="advice">What advice do your distributed colleagues have?</a>
+### What advice do your distributed colleagues have?
 
 From Peter Karman and Becky Sweger:
 

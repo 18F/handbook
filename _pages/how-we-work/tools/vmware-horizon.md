@@ -23,7 +23,7 @@ New employees should have a GSA VMware myView/Horizon account, but if not:
   3. Use ENT info for initial VMware Horizon login-in screen
   4. Go to [otp.gsa.gov](http://otp.gsa.gov) and enter your ENT info to get the Tokencode
      - You can also obtain a Tokencode by installing SecureAuth OTP on your
-       phone, as described in the [Get a one-time password?]({{site.baseurl}}/distributed/#otp)
+       phone, as described in the [Get a one-time password?]({{site.baseurl}}/distributed/#get-a-one-time-password)
        handbook section
   5. Enter the Tokencode back into VMware Horizon login-in screen
 

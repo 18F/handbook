@@ -96,7 +96,7 @@ To purchase this type of equipment, go to <https://requests.18f.gov/> and attach
 
 For issues with any GSA-provided hardware (such as laptops or phones), contact the GSA IT Service Desk.
 
-## <a id="stolen-or-lost">Lost or stolen equipment</a>
+## Lost or stolen equipment
 
 If TTS-issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert TTS in [#equipment](https://gsa-tts.slack.com/messages/equipment):
 

@@ -7,7 +7,7 @@ Working groups and guilds are self-organized groups that improve practices, host
 
 The [TTS Policy and Procedure for Internal Project Review](https://docs.google.com/document/d/1HHDXdiNvLdCFiEPjLwZaV-lhnwWeeq90MZMYAxbkHAM) exempts working groups and guilds from review, but client work generally takes priority over guild or working group projects.
 
-## <a id="key-concepts">Key concepts</a>
+## Key concepts
 
 **Working groups** are self-organized. They spin up or down depending on our organizational needs.
 
