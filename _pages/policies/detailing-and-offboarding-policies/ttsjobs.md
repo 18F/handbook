@@ -35,8 +35,6 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Internal only competitions
 
-- [cloud.gov - Security Compliance Architect](https://docs.google.com/document/d/1fM2fvyLupr-wttI95j9FEsv_eZ8dYfR5zsz8BMaAtuI/edit) - Application Close: Friday, 9/6 at 11:59pm ET
-
 - [18F - Content Designer](https://docs.google.com/document/d/1A8f9pJmdYD71bYL61mU_XjgJFF2i2ORQsx-G4j4AvT4/edit?usp=sharing) - Application Close: Tuesday, 9/10 at 11:59pm ET 
 
 - [18F - UX Designer](https://docs.google.com/document/d/1H-cKTZIt5zzAoYw6JBsZz9m7XPFAWmcgd17IfBiL8I0/edit?usp=sharing) - Application Close: Monday, 9/9 at 11:59pm ET
