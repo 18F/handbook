@@ -8,7 +8,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization).
 
-## <a id="setup">Setup</a>
+## Setup
 
 GitHub is a web application, and you may be able to do all of your work within the [github.com](https://github.com) website. Optionally, you may also install the GitHub [desktop application](https://desktop.github.com/).
 

@@ -25,7 +25,7 @@ Your installation screen should look like this:
   3. Select your server in the pop-up window and click connect
   4. Enter ENT login and password
   5. Go to [otp.gsa.gov](http://otp.gsa.gov) and enter your ENT info to get the Tokencode
-     - You can also obtain a Tokencode by installing [SecureAuth OTP](https://preview-insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/secureauth/install-secureauth-otp-on-ios-apple)) on your phone, as described in the [Get a one-time password?]({{site.baseurl}}/distributed/#otp) handbook section
+     - You can also obtain a Tokencode by installing [SecureAuth OTP](https://preview-insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/secureauth/install-secureauth-otp-on-ios-apple)) on your phone, as described in the [Get a one-time password?]({{site.baseurl}}/distributed/#get-a-one-time-password) handbook section
   6. Enter the Tokencode back into thee AnyConnect pop-up screen and submit
 
 ## Usage
