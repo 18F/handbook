@@ -43,7 +43,7 @@ Use the following templates to prepare the posting (make sure to make a copy of 
 
 Once the TTSJobs Announcement is ready, Talent will:
 
-- Review the job announcement
+- Review the job announcement: email [jointts@gsa.gov](mailto:jointts@gsa.gov) and a team member will review
 - Add it to [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack informing everyone of the new opportunity
 - Post it to [TTSJobs Listings]({{site.baseurl}}/ttsjobs/#announcements)
 
@@ -68,7 +68,7 @@ The hiring team is responsible for confirming that applicants meet the qualifica
 When the team has determined who they would like to place in the role, they must:
 
 - First confirm with the employee’s supervisor that they are OK with this employee moving to their team
-- Forward the supervisor's approval to Talent at this email: tts-talentteam@gsa.gov. Talent will need to submit a Reassignment PAR to HR.
+- Forward the supervisor's approval to Talent at this email: [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov). Talent will need to submit a Reassignment PAR to HR.
 
 It is the responsibility of the HM provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
 
