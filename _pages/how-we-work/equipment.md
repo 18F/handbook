@@ -61,12 +61,12 @@ TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have
 
 ### Tips
 
-- **You can use your phone to access your email.** You should be prompted to sign in with your ENT username and password. Note that the GSA IT ServiceDesk does not support this connection, so please do not ask them about it as they will reject your request.
+- **You can use your phone to access your email.** You should be prompted to sign in with your ENT username and password. Note that the GSA IT Service Desk does not support this connection, so please do not ask them about it as they will reject your request.
 - **[You can tether to your laptop to iPhone](https://support.apple.com/en-us/HT204023)** for internet access when you're on the go.
 - If you can't send email with your new work iPhone, create a new email and check the From field. If it's a jumble of letters and numbers `@secure.mass360.com`, tap on it to change it to your `@gsa.gov` email address. Then go **Settings > Mail > Default Account > GSA Account** to switch the default address.
 - If you stop getting email on your phone and can't log into your account, you may need to regenerate your [GKey](https://gkeygsa.appspot.com/request). The Apple Mail app uses your GKey as your password.
 - To reduce waste, GSA IT will [disable mobile service for inactive accounts](https://insite.gsa.gov/portal/content/663074). The consumed minutes is the metric used to determine activity, so if you only use the phone for data, you'll still need to make an occasional call on your mobile phone to prevent the account from going inactive.
-- If you need help with your phone, call the GSA IT Help Desk at 1-866-450-5250.
+- If you need help with your phone, [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
 
 ## Software
 
@@ -94,7 +94,7 @@ To purchase this type of equipment, go to <https://requests.18f.gov/> and attach
 
 ## Repairs
 
-For issues with any GSA-provided hardware (such as laptops or phones), contact the GSA IT Service Desk.
+For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
 
 ## Lost or stolen equipment
 
@@ -103,7 +103,7 @@ If TTS-issued equipment is lost or stolen, follow these mandatory steps.  Employ
 1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
 2. Call 911 or a local police station when you suspect theft has occurred.
 3. Get and keep a copy of the police report in case you have to provide it to the Federal Protective Service (FPS) or your regional Information Systems Security Officer (ISSO). Provide as much information as possible.
-4. Call the IT Service Desk at 1-866-450-5250. An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop. Alternatively, you can report a lost or stolen item via [GSA Service Desk](https://gsa.service-now.com/).
+4. [Contact the GSA IT Service Desk.]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}) An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop.
 5. Call your FPS using contact information provided in the link.
 6. Contact your regional ISSO using contact information provided in the link.
 7. If your equipment is returned to you, it may have been tampered with and should not be used. Return the equipment to GSA IT so they can inspect it, and if necessary, re-image it.

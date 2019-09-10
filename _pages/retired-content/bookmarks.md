@@ -49,7 +49,7 @@ Links to websites we use regularly.
 * [Employee Express](https://www.employeeexpress.gov/): view your paystub, change your withholdings, or change your address
 * [HR Links](https://corporateapps.gsa.gov/hr-links/) request/document leave and access your personnel file *replaces CHRIS, ETAMS and ALOHA***
 * [Insite](http://insite.gsa.gov/)
-* [IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/): GSA password support
+* [IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }})
 * [Meeting Space](https://meet.gsa.gov/): reserve your own conference line
 * [Online University (OLU)](https://gsaolu.gsa.gov): take mandatory training
 * [VPN](https://internal.anywhere.gsa.gov/Citrix/UPint/site/default.aspx)
