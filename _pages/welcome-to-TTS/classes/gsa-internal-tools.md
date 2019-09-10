@@ -2,7 +2,7 @@
 title: GSA internal tools
 ---
 
-_This post provides information on how to work with GSA&rsquo;s web tools and your GSA-issued equipment._
+_This post provides information on how to work with GSA's web tools and your GSA-issued equipment._
 
 ## Communication
 
@@ -10,58 +10,23 @@ If you have any questions, please ping [#teamops](https://gsa-tts.slack.com/arch
 
 ## GSA tools
 
-Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intranet [Insite](http://insite.gsa.gov). You must be on the VPN to connect if you work remotely. [Instructions for connecting are here]({{site.baseurl}}/networks/). Here&rsquo;s an overview of what you can access (you can click the names in this table to scroll down the page):
+Most of GSA's internal tools are accessible via our Agency's intranet [Insite](http://insite.gsa.gov). You must be on the VPN to connect if you work remotely. [Instructions for connecting are here]({{site.baseurl}}/networks/). Here's an overview of what you can access (you can click the names in this table to scroll down the page):
 
-<table>
-  <thead>
-    <td><strong>Name</strong></td>
-    <td><strong>What we use it for</strong></td>
-    <td><strong>Login system</strong></td>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="/gsa-internal-tools/#bookit">BookIT!</a></td>
-      <td>To reserve a desk or meeting room in GSA buildings</td>
-      <td>ENT username and password</td>
-    </tr>
-    <tr>
-      <td><a href="https://travel.gsa.gov">Concur</a></td>
-      <td>To book travel. Learn more in <a href="{{site.baseurl}}/travel-101">Travel 101</a>.</td>
-      <td>ENT username and password</td>
-    </tr>
-    <tr>
-      <td><a href="/gsa-internal-tools/#employee-express">Employee&nbsp;Express</a></td>
-      <td>To view your paystub, change your withholdings, or change your address</td>
-      <td>Employee Express username and password</td>
-    </tr>
-    <tr>
-      <td><a href="/gsa-internal-tools/#hr-links">HR&nbsp;Links</a></td>
-      <td>To request/document leave and access your personnel file online</td>
-      <td>ENT on GSA Wireless or VPN</td>
-    </tr>
-    <tr>
-      <td><a href="/gsa-internal-tools/#it-service-desk">IT&nbsp;Service&nbsp;Desk</a></td>
-      <td>General IT questions about Employee Express and other passwords (Note: They may not support requests for Macs, but will support requests for GSA websites)</td>
-      <td>ENT username and password</td>
-    </tr>
-    <tr>
-      <td><a href="/gsa-internal-tools/#meeting-space">Meeting Space</a></td>
-      <td>To reserve your own conference call line</td>
-      <td>ENT username and password</td>
-    </tr>
-    <tr>
-      <td><a href="{{site.baseurl}}/olu/">Online University</a></td>
-      <td>To take mandatory trainings for federal employees</td>
-      <td>ENT username and password</td>
-    </tr>
-  </tbody>
-</table>
+| Name                                             | What we use it for                                                                                                                                         | Login system                           |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| [BookIT!](#bookit)                               | To reserve a desk or meeting room in GSA buildings                                                                                                         | ENT username and password              |
+| [Concur](https://travel.gsa.gov)                 | To book travel. Learn more in [Travel 101]({{site.baseurl}}/travel-101/).                                                                                  | ENT username and password              |
+| [Employee Express](#employee-express)            | To view your paystub, change your withholdings, or change your address                                                                                     | Employee Express username and password |
+| [HR Links](#hr-links)                            | To request/document leave and access your personnel file online                                                                                            | ENT on GSA Wireless or VPN             |
+| [IT Service Desk](#it-service-desk)              | General IT questions about Employee Express and other passwords (Note: They may not support requests for Macs, but will support requests for GSA websites) | ENT username and password              |
+| [Meeting Space](#meeting-space)                  | To reserve your own conference call line                                                                                                                   | ENT username and password              |
+| [Online University (OLU)]({{site.baseurl}}/olu/) | To take mandatory trainings for federal employees                                                                                                          | ENT username and password              |
 
 ### Browser requirements
 
 Please note that while many of these websites work fine in Chrome or Firefox, you _must_ use Safari or Internet Explorer to access Online University.
 
-Let&rsquo;s cover each of these tools in a bit more detail.
+Let's cover each of these tools in a bit more detail.
 
 ## BookIt!
 
@@ -84,14 +49,14 @@ Here are some tips for employees that frequent an office:
   </li>
   <li>BookIT! can remember your office location so you won't have to scroll through drop-down menus every time you need to reserve a meeting room. To save your office location settings, go to <code>Profile → View Your Profile → Edit Profile.</code>   </li>
   <li>BookIT! also allows you to add &ldquo;delegates,&rdquo; or people who can book rooms and/or check in on your behalf. To do that, go to <code>Profile → View Your Profile → Delegates → Edit Profile</code>.</li>
-  <li>Some employees have expressed difficulty in logging into BookIT! If you&rsquo;re having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the 18F org they should be able to add you to the list in a day.</li>
+  <li>Some employees have expressed difficulty in logging into BookIT! If you're having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the 18F org they should be able to add you to the list in a day.</li>
  </ul>
 
 ## Employee Express
 
 [Employee Express](https://www.employeeexpress.gov/) is used to view your paystub, change your withholdings, change your health insurance plan, and change your address.
 
-If you&rsquo;re new to GSA, it&rsquo;ll take a few weeks for IT to set up your account. (You should have access after your first paycheck.) You’ll receive a `Welcome to Employee Express` email with a security code.
+If you're new to GSA, it'll take a few weeks for IT to set up your account. (You should have access after your first paycheck.) You’ll receive a `Welcome to Employee Express` email with a security code.
 
 1. You **must** click the first link first to activate your account.
 2. Sign in with your temporary ID number (last five digits of your social security number).
@@ -118,7 +83,7 @@ If you need to reset your ENT password, you can let your password expire and the
 
 ## Meeting Space
 
-<a href="https://meet.gsa.gov/">Meeting Space</a> is the service you'll use to create your own conference call line, as opposed to our usual video calls in <a href="https://meet.google.com/">Google Hangouts Meet</a>. Hangouts Meet allow up to 99 participants plus a host: Meeting Space is usually only needed if you'll go beyond that number or your participants can't use Hangouts Meet. Here&rsquo;s how to create a Meeting Space call line:
+<a href="https://meet.gsa.gov/">Meeting Space</a> is the service you'll use to create your own conference call line, as opposed to our usual video calls in <a href="https://meet.google.com/">Google Hangouts Meet</a>. Hangouts Meet allow up to 99 participants plus a host: Meeting Space is usually only needed if you'll go beyond that number or your participants can't use Hangouts Meet. Here's how to create a Meeting Space call line:
 
 1. Log in. Click `My Profile → My Audio Profiles`.
 2. On the left hand side click `Intercall Audio Profile` to select it.
