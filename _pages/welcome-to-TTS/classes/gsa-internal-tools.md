@@ -112,9 +112,15 @@ You must [be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rg
 
 ## IT Service Desk
 
-If you have any issues with a GSA-maintained system or website, you'll need to contact the IT service desk. Their chat feature is the most convenient way to get in touch with them. To contact the IT Service Desk via chat, visit the [GSA IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/). Go to `Get Help → Contact the Service Desk → Live Chat` (Under the &ldquo;GSA IT Service Desk&rdquo; heading). If you need to submit a ticket, please choose Patrick Bateman from the Supervisor dropdown (most easily findable by typing `patrick.bateman`). He'll respond to any supervisor signoffs quickly.
+_Also known as the GSA IT Help Desk or Service Now._
 
-If you need to reset your ENT password, you can let your password expire and then change it through the Mac popup window. This will not cause you any issues. And if you're on a Mac and change your ENT password, once you log out and log back in, make sure you're on the GSA-wireless network (_not_ GSA-guest) so that you can re-authenticate.
+If you have any issues with a GSA-maintained system or website, you'll need to contact the IT service desk through:
+
+- [The Service Portal](https://servicedesk.gsa.gov/), where you can submit a ticket or live chat
+- Call them at 866-450-5250
+- Email them at [itservicedesk@gsa.gov](mailto:itservicedesk@gsa.gov)
+
+They are available 6am-9pm ET. If you need to reset your ENT password, follow [these instructions]({{ "/how-to-log-in/#changing-your-ent-password" | relative_url }}).
 
 ## Meeting Space
 
