@@ -6,8 +6,6 @@ tag:
 
 GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience.
 
-GSA IT has staff that manage GSA's GitHub org. See more information about that in [the GSA GitHub documentation](https://github.com/GSA/GitHub-Administration#requesting-access-to-the-gsa-organization).
-
 ## Setup
 
 GitHub is a web application, and you may be able to do all of your work within the [github.com](https://github.com) website. Optionally, you may also install the GitHub [desktop application](https://desktop.github.com/).
@@ -68,7 +66,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **You do not need approval to create public repositories.**
 
-- **You do not need approval to archive a repository.** As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), feel free to [archive a repository](https://help.github.com/articles/archiving-repositories/) (or ask #admins-github if you don't have permissions to do so) to deprecate it. [Here is a script to do so en masse.](https://gist.github.com/afeld/334c20d71a04bfbada95ed86194decf2) Note that archiving a repository is **not** the same as deleting a repository.
+- **You do not need approval to [archive](https://help.github.com/articles/archiving-repositories/)/unarchive a repository.** As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), we archive repositories to deprecate them. Feel free to do so yourself or ask #admins-github for help. Note that archiving a repository is **not** the same as deleting a repository.
 
 - **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it.
 
@@ -173,6 +171,8 @@ TTS is heavily involved in the following GitHub organizations:
 <sup>1</sup>: TTS staff, contractors, and partners who are offboarding need to be removed from all government-owned GitHub organizations.
 
 <sup>2</sup>: For the ones that are TTS-managed, get help in [#admins-github](https://gsa-tts.slack.com/messages/admins-github).
+
+We automate some administration of our repositories - see [`ghad`](https://github.com/18F/ghad) for more info.
 
 ## Resources
 
