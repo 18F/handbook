@@ -38,6 +38,9 @@ Contact [Lakita Rivero](mailto:lakita.rivero@gsa.gov) for leave policies and que
 
 GSA offers a number of support services and contacts for employees. The [Employee Support Services Matrix](https://docs.google.com/document/d/1WUCgB5Ukez-BFEHlsWZ5bTMrqySIvOAxIRGitarQZ10/edit) outlines the options.
 
+### Legal contacts 
+For any legal questions about Hatch Act, Ethics, or anything, email our OGC contact [John Peters](mailto:john.h.peters@gsa.gov). 
+
 --------------------------------------------------------------------------------
 
 ### Still have questions?
