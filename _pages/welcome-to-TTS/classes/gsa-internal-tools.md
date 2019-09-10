@@ -74,8 +74,8 @@ Here are some tips for employees that frequent an office:
     To periodically reserve a workstation in D.C.:
     <ol>
       <li>Go to `Profile → View Your Profile → Edit Profile`. </li>
-      <li>Pick the workstation you'd like to reserve each day. TTS is on floor 4, wings 1 (OPP) and 4 (18F).</li>
-      <li>Type: Workstation, Room Name: 4461A-Z (for 18F) and 41XX (for OPP).</li>
+      <li>Pick the workstation you'd like to reserve each day. TTS is on floor 3, Wing 1 and half of Wing 0).</li>
+      <li>Category: Workstation, Floor: 3100.</li>
       <li>Choose the day of the week (today)</li>
       <li>Choose start and end times (typically, 9am and 6pm)</li>
       <li>Click save</li>
