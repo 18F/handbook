@@ -234,8 +234,8 @@ navigation:
         url: anyconnect/
         internal: true
       - text: eSign (digital signatures)
-        url: esign/
-        internal: true
+        url: https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/software-and-applications/digital-signatures?term=eSignLive
+        internal: false
       - text: Federalist (publishing platform)
         url: federalist/
         internal: true
