@@ -66,8 +66,6 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **You do not need approval to create public repositories.**
 
-- **You do not need approval to [archive](https://help.github.com/articles/archiving-repositories/)/unarchive a repository.** As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), we archive repositories to deprecate them. Feel free to do so yourself or ask #admins-github for help. Note that archiving a repository is **not** the same as deleting a repository.
-
 - **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it.
 
 - **You do not need approval to transfer a repository.** In some cases, it may make sense to transfer a repository to a client. The person performing the transfer will need to be a member of both organizations. After transferring the repository to the client's organization, create a fork of it in the 18F organization. This is so that:
@@ -115,7 +113,7 @@ Here&rsquo;s our current process to address both operational and security concer
    - The 18F GitHub Organization requires 2FA for its members. Users without 2FA cannot be added to the GitHub Organization.
 1. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
 
-When the engagement is over, you must let #admins-github know so the team can be deleted and access removed.
+When the engagement is over, you must let [#admins-github](https://gsa-tts.slack.com/messages/admins-github) know so the team can be deleted and access removed.
 
 ### Pull requests
 
@@ -132,6 +130,16 @@ If you want to make a suggestion to an 18F project without making a specific cha
 Teams can give groups of people administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above).
 
 Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
+
+### Archiving
+
+As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), we [archive](https://help.github.com/articles/archiving-repositories/) repositories to deprecate them. No approval is needed archive/unarchive a repository. Feel free to do so yourself, or ask [#admins-github](https://gsa-tts.slack.com/messages/admins-github) for help. Note that archiving a repository is _not_ the same as deleting it.
+
+If the repository is published as a package, please also mark it as deprecated.
+
+- NPM: Use [`npm deprecate`](https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions)
+- PyPI: Publish with a `Development Status :: 7 - Inactive` [classifier](https://pypi.org/classifiers/)
+- Ruby gem: Publish with a [post-install message](https://guides.rubygems.org/specification-reference/#post_install_message)
 
 ## Tips
 
