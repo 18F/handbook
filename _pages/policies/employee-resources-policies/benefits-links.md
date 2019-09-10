@@ -38,8 +38,3 @@ Contact [Lakita Rivero](mailto:lakita.rivero@gsa.gov) for leave policies and que
 
 GSA offers a number of support services and contacts for employees. The [Employee Support Services Matrix](https://docs.google.com/document/d/1WUCgB5Ukez-BFEHlsWZ5bTMrqySIvOAxIRGitarQZ10/edit) outlines the options.
 
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Ask [#benefits](https://gsa-tts.slack.com/messages/benefits) or [#talent](https://gsa-tts.slack.com/messages/talent)
