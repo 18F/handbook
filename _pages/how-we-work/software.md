@@ -4,7 +4,7 @@ title: Software Under $10,000
 
 Do you need software to do your job or make sure TTS is running smoothly? Follow the steps below to access software we own or request a software purchase of under $10,000.
 
-If you need to purchase more expensive software, see [procurements over $10,000]({{ "/procurements-over-10000/" | relative_url }}).
+If you need to purchase more expensive software, see [procurements over $10,000]({{ site.baseurl }}/procurements-over-10000/).
 
 ## Get access to software we already have
 
