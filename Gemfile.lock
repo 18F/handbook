@@ -1,16 +1,18 @@
 GIT
+  remote: https://github.com/18F/uswds-jekyll
+  revision: 209db0007ebe9d44aaf9acea79fbaff9b88539a3
+  ref: refs/pull/182/head
+  specs:
+    uswds-jekyll (4.2.0)
+      jekyll (>= 3.4, < 5)
+
+GIT
   remote: https://github.com/jekyll/jekyll-sass-converter.git
   revision: 3c5854697d7dfb909123739e92c89c2a49297c54
   ref: refs/pull/94/head
   specs:
     jekyll-sass-converter (2.0.0)
       sassc (> 2.0.1, < 3.0)
-
-PATH
-  remote: ../uswds-jekyll
-  specs:
-    uswds-jekyll (4.2.0)
-      jekyll (>= 3.4, < 5)
 
 GEM
   remote: https://rubygems.org/
