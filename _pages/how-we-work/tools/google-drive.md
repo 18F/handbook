@@ -59,7 +59,7 @@ To use a [Google Apps Script](https://developers.google.com/apps-script/), pleas
 ## Tips
 
 - The Shift-Z command allows you to add folders to "My Drive" (shortcut) and to other folders at the same time - which is great for organizing documents in different ways.
-- **Finding recent documents** To find recently documents, use [this link](https://drive.google.com/drive/recent), which you can find by clicking on the "AZ" button and selecting "Last opened by me."
+- **Finding recent documents** To find recently opened documents, use [this link](https://drive.google.com/drive/recent), which you can find by clicking on the "AZ" button and selecting "Last opened by me."
 -  To find and access things you use frequently, you can ["Add to My Drive"](https://support.google.com/drive/answer/2375057?hl=en) or star the folder or document.
 -  Searching in Drive goes through all of the files that have been shared with you.
 - If a folder looks empty, try refreshing your browser a few times. :shrug:
