@@ -22,7 +22,6 @@ sass:
 
 styles:
   - stylesheets/screen.css
-  - stylesheets/usa-overrides.css
 
 scripts:
   - assets/uswds/js/uswds.min.js
