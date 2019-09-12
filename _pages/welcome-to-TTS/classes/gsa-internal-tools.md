@@ -48,7 +48,7 @@ Here are some tips for employees that frequent an office:
     Once your one-click settings are set up, you only have to hit two buttons each day: One-Click and Express Check-In (the top button on the left — arrow into door)
   </li>
   <li>BookIT! can remember your office location so you won't have to scroll through drop-down menus every time you need to reserve a meeting room. To save your office location settings, go to <code>Profile → View Your Profile → Edit Profile.</code>   </li>
-  <li>BookIT! also allows you to add &ldquo;delegates,&rdquo; or people who can book rooms and/or check in on your behalf. To do that, go to <code>Profile → View Your Profile → Delegates → Edit Profile</code>.</li>
+  <li>BookIT! also allows you to add "delegates," or people who can book rooms and/or check in on your behalf. To do that, go to <code>Profile → View Your Profile → Delegates → Edit Profile</code>.</li>
   <li>Some employees have expressed difficulty in logging into BookIT! If you're having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the 18F org they should be able to add you to the list in a day.</li>
  </ul>
 
@@ -77,7 +77,7 @@ You must [be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rg
 
 ## IT Service Desk
 
-If you have any issues with a GSA-maintained system or website, you'll need to contact the IT service desk. Their chat feature is the most convenient way to get in touch with them. To contact the IT Service Desk via chat, visit the [GSA IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/). Go to `Get Help → Contact the Service Desk → Live Chat` (Under the &ldquo;GSA IT Service Desk&rdquo; heading). If you need to submit a ticket, please choose Patrick Bateman from the Supervisor dropdown (most easily findable by typing `patrick.bateman`). He'll respond to any supervisor signoffs quickly.
+If you have any issues with a GSA-maintained system or website, you'll need to contact the IT service desk. Their chat feature is the most convenient way to get in touch with them. To contact the IT Service Desk via chat, visit the [GSA IT Service Desk](https://gsa.service-now.com/GSA_Self-Service/). Go to `Get Help → Contact the Service Desk → Live Chat` (Under the "GSA IT Service Desk" heading). If you need to submit a ticket, please choose Patrick Bateman from the Supervisor dropdown (most easily findable by typing `patrick.bateman`). He'll respond to any supervisor signoffs quickly.
 
 If you need to reset your ENT password, you can let your password expire and then change it through the Mac popup window. This will not cause you any issues. And if you're on a Mac and change your ENT password, once you log out and log back in, make sure you're on the GSA-wireless network (_not_ GSA-guest) so that you can re-authenticate.
 

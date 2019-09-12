@@ -4,7 +4,7 @@ title: Benefits
 
 **If you're looking for specific benefits sites, see the [benefits links page]({{site.baseurl}}/benefits-links/).**
 
-GSA requires that you enroll in many of the benefits offered to you within the first 60 days of work. Otherwise, you&rsquo;ll have to wait for Open Season, which typically runs from the Monday of the second full work week in November through the Monday of the second full work week in December.
+GSA requires that you enroll in many of the benefits offered to you within the first 60 days of work. Otherwise, you'll have to wait for Open Season, which typically runs from the Monday of the second full work week in November through the Monday of the second full work week in December.
 
 ## Submitting benefit forms
 
@@ -35,7 +35,7 @@ Find us in Slack:
 
 ## Credit union
 
-GSA has a [credit union](https://www.gsafcu.gsa.gov/). It is free and easy to join if you&rsquo;re a current employee. Once you join, you're a member for life (even if you leave GSA).
+GSA has a [credit union](https://www.gsafcu.gsa.gov/). It is free and easy to join if you're a current employee. Once you join, you're a member for life (even if you leave GSA).
 
 ## Discounts
 
@@ -54,7 +54,7 @@ EAPs offer free, **confidential** counseling, legal and financial advice, and em
 
 [Flexible spending accounts](https://www.opm.gov/healthcare-insurance/flexible-spending-accounts/) (FSA) allow you to pay for [eligible out-of-pocket health care and dependent care expenses](https://www.fsafeds.com/support/eligibleexpenses) with pre-tax dollars. They cannot be used to pay any type of premium, and you must use all the money in your account by the end of the year or you risk forfeiture of the unused funds. However, there is a grace period. If you have unused funds in your FSA account and incur expenses from January 1 through March 15, you have until April 30 to submit claims against the prior year.
 
-Common reimbursements include gym memberships (with a doctor&rsquo;s note), over-the-counter medication (with a doctor&rsquo;s note), and eyeglasses.
+Common reimbursements include gym memberships (with a doctor's note), over-the-counter medication (with a doctor's note), and eyeglasses.
 
 There are three kinds of FSA:
 
@@ -187,7 +187,7 @@ You can also update TSP directly in [HR Links]({{site.baseurl}}/leave/#logging-i
 
 If you ever move, you can update your address for TSP by emailing it to both the [Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the [GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the TSP office of your new address.
 
-To transfer your previous retirement account into your TSP, you&rsquo;ll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
+To transfer your previous retirement account into your TSP, you'll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
 
 If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans can not be higher than [the annual limit](https://www.tsp.gov/PDF/bulletins/18-04.html).
 

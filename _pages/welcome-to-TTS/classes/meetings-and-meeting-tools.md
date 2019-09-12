@@ -18,7 +18,7 @@ Here are some of the tools TTS uses to facilitate meetings:
 
 ### Compliance with GSA policies
 
-Our agency maintains a formal meeting, conference, and event policy which may be found [here](<http://www.gsa.gov/portal/mediaId/205471/fileName/OAS_57851_Conference_and_Event_Management_(Signed_on_January_28__2015).action>). The most applicable part of this policy for TTS is the approval requirement for internal meetings that _require the travel of more than six employees or will cost more than \$10,000._ For these meetings, approval of both the Commissioner of the Technology Transformation Service and the Deputy Administrator of GSA via the [Salesforce Event Tracker](https://gsa.my.salesforce.com/a1b/o) system. For further information and help getting your request submitted, go to the [#training-conferences](https://gsa-tts.slack.com/messages/training-conferences) Slack channel.
+Our agency maintains a formal meeting, conference, and event policy which may be found [here](<http://www.gsa.gov/portal/mediaId/205471/fileName/OAS_57851_Conference_and_Event_Management_(Signed_on_January_28__2015).action>). The most applicable part of this policy for TTS is the approval requirement for internal meetings that _require the travel of more than six employees or will cost more than $10,000._ For these meetings, approval of both the Commissioner of the Technology Transformation Service and the Deputy Administrator of GSA via the [Salesforce Event Tracker](https://gsa.my.salesforce.com/a1b/o) system. For further information and help getting your request submitted, go to the [#training-conferences](https://gsa-tts.slack.com/messages/training-conferences) Slack channel.
 
 ### TTS Townhalls
 

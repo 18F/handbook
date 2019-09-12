@@ -94,7 +94,7 @@ In the center "core" of each floor. You will need your badge to get back.
 
 ### Mother’s rooms
 
-There's a mother's (aka lactation) room on the 54th floor on the southeast side. It has outlets, a sink, and a fridge. Ideally you should book time in the room with BookIt. 
+There's a mother's (aka lactation) room on the 54th floor on the southeast side. It has outlets, a sink, and a fridge. Ideally you should book time in the room with BookIt.
 
 ### Snacks and drinks
 
@@ -110,7 +110,7 @@ See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information
 
 ### Use your card
 
-Although it is technically a debit card, when you put the card in an MTA machine, select `Credit Card` as your payment method, and use the same office ZIP code. The balance resets on the 10th of every month. The new balance is intended to cover the following month&rsquo;s transit, but you can use it at any time.
+Although it is technically a debit card, when you put the card in an MTA machine, select `Credit Card` as your payment method, and use the same office ZIP code. The balance resets on the 10th of every month. The new balance is intended to cover the following month's transit, but you can use it at any time.
 
 ## NYC events
 

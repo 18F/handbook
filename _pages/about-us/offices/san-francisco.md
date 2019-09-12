@@ -72,7 +72,7 @@ The office sits right above the Civic Center stop for BART.
 
 ### From Oakland International Airport (OAK)
 
-The smaller of the two San Francisco area airports, OAK is just across the bay from downtown. You can hop on the automated monorail from the airport, then change to the BART system train at OAK/Coliseum station. It&rsquo;s a 25 minute ride to Civic Center BART station.
+The smaller of the two San Francisco area airports, OAK is just across the bay from downtown. You can hop on the automated monorail from the airport, then change to the BART system train at OAK/Coliseum station. It's a 25 minute ride to Civic Center BART station.
 
 BART Service is M–F, 4 a.m. to midnight; the last train is generally 10 to 15 minutes after the hour. Saturday service is 6 a.m. to midnight. Sunday service is 8 a.m. to midnight.
 
@@ -93,14 +93,14 @@ If you have any questions about this, contact the [#SF Slack Channel](https://gs
 
 ### Public transit
 
-San Francisco is very accessible by its public transportation system, [SFMTA](https://www.sfmta.com/). The larger Bay Area is also accessible via [BART](http://www.bart.gov/). Taxis, while available, aren&rsquo;t generally necessary for getting around the city, which is only approximately 7 square miles.
+San Francisco is very accessible by its public transportation system, [SFMTA](https://www.sfmta.com/). The larger Bay Area is also accessible via [BART](http://www.bart.gov/). Taxis, while available, aren't generally necessary for getting around the city, which is only approximately 7 square miles.
 
-[Clipper Card](https://www.clippercard.com/ClipperWeb/) is the Bay Area&rsquo;s transit pass. It works on many of the different public transit systems, including SFMTA and BART. SFMTA one-way fare is $2.25 with a 90-minute transfer (although sometimes you get a bit lengthier time for your transfer). BART fares are based on distance. SFO to Civic Center Station is $8.65; OAK to Civic Center Station is $10.05. See [BART&rsquo;s website](http://www.bart.gov/) for further fare prices.
+[Clipper Card](https://www.clippercard.com/ClipperWeb/) is the Bay Area's transit pass. It works on many of the different public transit systems, including SFMTA and BART. SFMTA one-way fare is $2.25 with a 90-minute transfer (although sometimes you get a bit lengthier time for your transfer). BART fares are based on distance. SFO to Civic Center Station is $8.65; OAK to Civic Center Station is $10.05. See [BART's website](http://www.bart.gov/) for further fare prices.
 
 
 ### Parking
 
-Don&rsquo;t do it! Your best bet is public transit and/or walking; downtown streets have one ways and can be very confusing. Street parking is horrible, and paid parking is way expensive. But if you do drive, you may park at 355 McAllister Street. The hours for this underground parking structure are 6 a.m. to midnight M–F. Fees vary but $4.50 to $2.00 per hour depending on when you enter garage.
+Don't do it! Your best bet is public transit and/or walking; downtown streets have one ways and can be very confusing. Street parking is horrible, and paid parking is way expensive. But if you do drive, you may park at 355 McAllister Street. The hours for this underground parking structure are 6 a.m. to midnight M–F. Fees vary but $4.50 to $2.00 per hour depending on when you enter garage.
 
 
 ## How do I&hellip;
@@ -210,7 +210,7 @@ There are rechargeable batteries throughout the office space. You will find them
 
 ### Cafeteria and snacks
 
-There&rsquo;s a cafeteria located on the first floor, serving breakfast and lunch. [Official hours](http://www.gsa.gov/portal/content/200155) (they say they close at 2 pm, but they usually close down around 1:50 pm). The cafeteria has a good salad bar.
+There's a cafeteria located on the first floor, serving breakfast and lunch. [Official hours](http://www.gsa.gov/portal/content/200155) (they say they close at 2 pm, but they usually close down around 1:50 pm). The cafeteria has a good salad bar.
 
 There are machines in the basement area with snacks as well as soft drinks.
 

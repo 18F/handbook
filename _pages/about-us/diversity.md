@@ -32,18 +32,18 @@ Find us in Slack:
 - [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/)
 - [#wg-code-of-conduct](https://gsa-tts.slack.com/messages/wg-code-of-conduct/)
 
-_It&rsquo;s important that the responsibility of answering questions around diversity and inclusion doesn&rsquo;t fall on one or two people. Our Slack channel is open space in which our colleagues (who genuinely want to do the right thing) can ask hard questions of one another. It allows us to collectively place the responsibility of diversity and inclusion on multiple people rather than any one person._
+_It's important that the responsibility of answering questions around diversity and inclusion doesn't fall on one or two people. Our Slack channel is open space in which our colleagues (who genuinely want to do the right thing) can ask hard questions of one another. It allows us to collectively place the responsibility of diversity and inclusion on multiple people rather than any one person._
 
 ### Philosophy
 
 The Diversity Guild is a space for learning. If you make a mistake &mdash; and we all do &mdash; a key component of diversity is that we have a culture of mindfulness and trying to do better. Remaining open to feedback, learning about why an action was offensive, and then apologizing is the kind of environment we look to cultivate.
 
-The guild realizes that building an inclusive environment is tough, but it&rsquo;s far from impossible. We base our work on actionable items and deliverables which are reflected in our [Outcomes and Key Results (OKRs)](https://docs.google.com/a/gsa.gov/document/d/1bXXVpGE0OGFTJHQklo4k7-M83dA4RQqvN5qIGklzh1g/edit?usp=sharing). These OKRs are discussed and decided every quarter.
+The guild realizes that building an inclusive environment is tough, but it's far from impossible. We base our work on actionable items and deliverables which are reflected in our [Outcomes and Key Results (OKRs)](https://docs.google.com/a/gsa.gov/document/d/1bXXVpGE0OGFTJHQklo4k7-M83dA4RQqvN5qIGklzh1g/edit?usp=sharing). These OKRs are discussed and decided every quarter.
 
 
 ### Tracking progress on Trello
 
-The Diversity Guild tracks its progress on Trello. If you&rsquo;re interested in joining, reach out to the channel and they&rsquo;ll share the Trello board with you. Currently, the group's board is set up like this:
+The Diversity Guild tracks its progress on Trello. If you're interested in joining, reach out to the channel and they'll share the Trello board with you. Currently, the group's board is set up like this:
 
 - **Ideas to discuss.** These will be discussed at the next scheduled meeting, unless there's a plan to push these forward more quickly.
 - **Backlog.** Things that need to happen soon and are ready for action to be taken. _Anyone_ can lead any one of these items. Assign yourself and move it over to&hellip;
@@ -56,7 +56,7 @@ The Diversity Guild tracks its progress on Trello. If you&rsquo;re interested in
 
 Not only does the Diversity Guild a space for learning, it also promotes the belief in sharing what you've learned. The group is developing a Diversity Guide that has the goal of providing insight on how TTS integrates diversity principles at every point: from recruitment, interviewing, and onboarding to retention, such as professional development and benefits.
 
-If you&rsquo;re interested in getting involved:
+If you're interested in getting involved:
 
 - **Join our channel.** Head on over to [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/).
 - **Join our meetings.** We meet monthly, the fourth Friday of the month. We also have open coworking sessions every Friday. The meetings currently show up on the 18F Working Groups and Guilds calendar. If you would like to be added to the invites directly, please [message Cordelia Yu](https://gsa-tts.slack.com/messages/@bcordeliayu).

@@ -185,7 +185,7 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
       <tr>
         <td class="col-grouplet"><strong><a id="working-groups">Working Groups</a></strong></td>
         <td class="col-description">
-          We&rsquo;re dedicated to creating an environment in which working groups and guilds can thrive and have a meaningful impact on 18F deliverables and operations. <br />
+          We're dedicated to creating an environment in which working groups and guilds can thrive and have a meaningful impact on 18F deliverables and operations. <br />
           <a href="https://gsa-tts.slack.com/messages/wg-working-groups">#wg-working-groups</a>
         </td>
       </tr>

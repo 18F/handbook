@@ -2,11 +2,10 @@
 title: Intro to GitHub
 navtitle: Intro to GitHub
 tags:
-- github
+  - github
 ---
 
 _This section provides a brief overview of GitHub._
-
 
 ### Documentation
 
@@ -34,21 +33,21 @@ If you're not a developer or came from a place that didn't use Git, here are som
 
 - **Repo** is short for repository, or a project on GitHub. Anybody at TTS can create repos in the 18F organization and you should _always_ create new projects as 18F, not as yourself. You can create new repos in GitHub by clicking the + next to your profile picture. Then, choose New Repository and change the owner to 18F.
 
-- The **license** on every repo must be Creative Commons 0, or CC0. That&rsquo;s shorthand for Public Domain. TTS is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don&rsquo;t trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://gsa-tts.slack.com/archives/admins-github) and [#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/).
+- The **license** on every repo must be Creative Commons 0, or CC0. That's shorthand for Public Domain. TTS is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don't trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://gsa-tts.slack.com/archives/admins-github) and [#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/).
 
-Once you&rsquo;re a member of the 18F organization, you&rsquo;ll have access to many of our repos.  You&rsquo;ll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
+Once you're a member of the 18F organization, you'll have access to many of our repos. You'll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
 
-- A **fork** is a copy of the main project that is fully separate from 18F&rsquo;s. You might be asked to fork a repo and work off your own copy, or you might be asked to commit directly to your team&rsquo;s original repo. This is the kind of thing you should ask your teammates about — don't make assumptions!
+- A **fork** is a copy of the main project that is fully separate from 18F's. You might be asked to fork a repo and work off your own copy, or you might be asked to commit directly to your team's original repo. This is the kind of thing you should ask your teammates about — don't make assumptions!
 
-- There are a few exceptions to this, but generally speaking, you will submit any changes to a project through a pull request. A **pull request,** or **PR,** is a way of saying  &ldquo;here are some changes I&rsquo;d like to contribute &rdquo; and letting the repo&rsquo;s owner decide whether to accept (or merge) them or give feedback. Sometimes your pull request will go from your fork to the main project, sometimes from a _branch._ Again, make sure you understand your team&rsquo;s Git workflow. On [#18f-site](), nobody forks and everybody works off of branches; we submit pull requests to the staging branch.
+- There are a few exceptions to this, but generally speaking, you will submit any changes to a project through a pull request. A **pull request,** or **PR,** is a way of saying "here are some changes I'd like to contribute " and letting the repo's owner decide whether to accept (or merge) them or give feedback. Sometimes your pull request will go from your fork to the main project, sometimes from a _branch._ Again, make sure you understand your team's Git workflow. On [#18f-site](), nobody forks and everybody works off of branches; we submit pull requests to the staging branch.
 
-- Developer, designer, editor, manager: Whatever your role is, you&rsquo;ll want to get used to **filing issues on GitHub.** Issues are a common way of submitting feedback on projects at 18F. For example, if you want to write a blog post, you&rsquo;ll be asked to submit an issue to the blog repo. If filing an issue seems more difficult for some reason, head to Slack. Or vice versa.
+- Developer, designer, editor, manager: Whatever your role is, you'll want to get used to **filing issues on GitHub.** Issues are a common way of submitting feedback on projects at 18F. For example, if you want to write a blog post, you'll be asked to submit an issue to the blog repo. If filing an issue seems more difficult for some reason, head to Slack. Or vice versa.
 
 - You may find it helpful to bookmark the repos, issues, and pull request pages you access frequently.
 
 ### 3. Working with GitHub
 
-If you&rsquo;re working with an agency, you'll need to find ways to collaborate with them on the project you're tasked with. Typically, the way we give outside agencies and contractors access to GitHub repos is by making those repositories public. Once they&rsquo;re public, anybody can access them; we just need to add people as a collaborators. [#admins-github](https://gsa-tts.slack.com/archives/admins-github) can help you with that.
+If you're working with an agency, you'll need to find ways to collaborate with them on the project you're tasked with. Typically, the way we give outside agencies and contractors access to GitHub repos is by making those repositories public. Once they're public, anybody can access them; we just need to add people as a collaborators. [#admins-github](https://gsa-tts.slack.com/archives/admins-github) can help you with that.
 
 You can use GitHub for almost anything, but consider the resources available to agency partners or other stakeholders before deciding to use it. Are your agency partners used to using GitHub? Will they need to create accounts and jump through hoops? Can they even access it from their agency computers? These are the kinds of things we consider when deciding if GitHub is the right thing to use.
 
@@ -58,15 +57,18 @@ Most projects/repositories have a `CONTRIBUTING.md` file in their root directory
 
 Another pro tip: Search the existing issues before you add one. It may make more sense to comment on that issue rather than create a new one.
 
-To submit an issue, Log in, find the appropriate repo on GitHub, and click the Issues tab in the right column. Then, click the New Issue button. Your issue should have a title and explainer text. You&rsquo;ll probably know what to put there, but teams sometimes have guidance on how to format issues or things to include. The [#blog](https://gsa-tts.slack.com/archives/blog), for example, has [a specific set of things we require](https://github.com/18F/blog-drafts#readme) submissions to have before we&rsquo;ll consider them.
+To submit an issue, Log in, find the appropriate repo on GitHub, and click the Issues tab in the right column. Then, click the New Issue button. Your issue should have a title and explainer text. You'll probably know what to put there, but teams sometimes have guidance on how to format issues or things to include. The [#blog](https://gsa-tts.slack.com/archives/blog), for example, has [a specific set of things we require](https://github.com/18F/blog-drafts#readme) submissions to have before we'll consider them.
 
 Final pro tip: If your project wants issues formatted in a specific way, you can add an issue template file. [This is the one we have for filing new blog post ideas](https://github.com/18F/blog-drafts/blob/master/ISSUE_TEMPLATE.md). Every new post auto-fills with that information.
 
 ### 4. Transferring a repository
+
 Often during the course of working with and transitioning projects to partners, an `18F`-owned Github repository will need to be transferred to the ownership of the partner. A "Transfer" is the recommended approach since it will include Issues, Pull Requests, and other Github metadata and history that won't be captured by just cloning the `git` respository which only contains the code.
 
 #### Transferring to another organization on Github.com
+
 This is a simple process that can be initiated in the Github user interface, but requires a user with `ownership` permissions to the Github repository in question (a higher level of access than `admin`). For help transferring a repository, please send a message to [#admins-github](https://gsa-tts.slack.com/archives/admins-github). More details can be found on [Github](https://help.github.com/en/articles/transferring-a-repository).
 
 #### Transferring to Github Enterprise
+
 Unfortunately, transferring repositories from Github.com to Github Enterprise cannot be done via the Github user interface and requires a process that relies on the Github API. Access to the migration [API](https://developer.github.com/v3/migrations/orgs/) will require `ownership` permissions to the repository in question on both sides of the transfer. Please coordinate with [#admins-github](https://gsa-tts.slack.com/archives/admins-github) and partner administrators to facilitate this type of transfer. See [Github](https://help.github.com/enterprise/2.2/admin/articles/moving-a-repository-from-github-com-to-github-enterprise) for more details.
