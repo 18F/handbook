@@ -56,7 +56,7 @@ TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have
 
 - After GSA IT provisions your phone, set up two-factor verification:
     - To get started, email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
-    - Once you have access to [HR Links]({{site.baseurl}}/gsa-internal-tools/#hr-links), you can update your contact information there. You'll find it under **Navigator > Self Service > Personal Information > Phone Number Change (USF)**; make sure to set the phone type as "Business Mobile" so it correctly populates GCIMS and works for 2FA.
+    - Once you have access to [HR Links]({{site.baseurl}}/gsa-internal-tools/#hr-linksssss), you can update your contact information there. You'll find it under **Navigator > Self Service > Personal Information > Phone Number Change (USF)**; make sure to set the phone type as "Business Mobile" so it correctly populates GCIMS and works for 2FA.
     - You can learn more about using your phone for two-factor authentication in our [Slack](https://handbook.18f.gov/slack), [GitHub](https://handbook.18f.gov/github), and [Gmail](https://handbook.18f.gov/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
 ### Tips
