@@ -1,5 +1,5 @@
 ---
-title: Agreements 
+title: Agreements
 ---
 
 TTS is a fee-for-service organization. Federal law requires that any agreement between agencies be recorded in some manner.
@@ -8,7 +8,7 @@ TTS is a fee-for-service organization. Federal law requires that any agreement b
 
 18F uses three mechanisms to record its agreements with other agencies: Interagency Agreements (IAAs), Memorandums of Understanding (MOUs), and Intergovernmental Cooperation Act agreements (IGCAs).
 
-- IAA is our shorthand for using the Treasury Department&rsquo;s standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
+- IAA is our shorthand for using the Treasury Department's standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
 - An MOU is a single document to record work done by one TTS organization for another (for example: by 18F for OPP). These agreements are between TTS and the GSA-CFO to allow the transfer of funds between the organizations. The Agreements Team provides [templates](https://drive.google.com/drive/folders/0BwxvcCvwvTB3VXA0NjlXYXpGSTg) for your use.
 - We use IGCAs to partner with non-federal entities, such as States and Cities. For more on IGCAs, see [the State and Local Agreements page]({{site.baseurl}}/state-local-agreements/).
 
@@ -28,7 +28,7 @@ An IAA is made up of:
 
 - [FITARA Review](https://drive.google.com/drive/folders/1mkCzj55hm7f3GRSSUsH9hhlSXkf0-1f9): TTS complies with FITARA and follows the [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1sO8cE3eyTclOkwnxNTMG5dg2qhP3AmJesGobM1m_LQw/edit).
 
-- [Economy Act Determination](https://docs.google.com/document/d/1NwbUTG33JdntuXGFA0qpQZa1KpbGrvCN5ueTOMZafLY/edit): For agreements citing the Economy Act as the statutory authority, an Economy Act Determination must be signed by the requesting agency. 
+- [Economy Act Determination](https://docs.google.com/document/d/1NwbUTG33JdntuXGFA0qpQZa1KpbGrvCN5ueTOMZafLY/edit): For agreements citing the Economy Act as the statutory authority, an Economy Act Determination must be signed by the requesting agency.
 
 ## Timeline
 
@@ -53,5 +53,5 @@ A detailed description of the steps in the IAA and MOU process is available [her
 
 ## Agreements Status
 
-The Agreements Team maintains a [Kanban board](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1936372847) in the "Pipeline Kanban" tab of the linked spreadsheet. The Agreements Team updates the agreements pipeline daily and these changes are reflected in the Kanban board. The Agreements Team also holds a weekly check-in meeting to provide status updates. Questions on agreements can be posted anytime to [#iaa](https://gsa-tts.slack.com/messages/iaa) in Slack or by sending a message to @tts-agreements-team or tts.agreements@gsa.gov. 
+The Agreements Team maintains a [Kanban board](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1936372847) in the "Pipeline Kanban" tab of the linked spreadsheet. The Agreements Team updates the agreements pipeline daily and these changes are reflected in the Kanban board. The Agreements Team also holds a weekly check-in meeting to provide status updates. Questions on agreements can be posted anytime to [#iaa](https://gsa-tts.slack.com/messages/iaa) in Slack or by sending a message to @tts-agreements-team or tts.agreements@gsa.gov.
 

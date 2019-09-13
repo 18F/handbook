@@ -24,7 +24,7 @@ or to the corresponding section of the homepage.
 
 The [`guides_style_18f`](https://github.com/18F/guides-style) gem includes
 [AnchorJS](http://bryanbraun.github.io/anchorjs/), and configures it to
-automatically create link anchors for &lt;h3&gt;, &lt;h4&gt;, and &lt;h5&gt;
+automatically create link anchors for `<h3>`, `<h4>`, and `<h5>`
 headline elements. Hovering the mouse over one of these elements will expose a
 link icon. Click on or hover over the icon to access the link, which you can
 then copy and paste.

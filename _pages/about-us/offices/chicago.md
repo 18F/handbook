@@ -28,7 +28,7 @@ title: Chicago
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Office&nbsp;/&nbsp;Seats</strong>
+          <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
            230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Regional Administrator is Brad Hansher.<br /><br />
@@ -73,7 +73,7 @@ Fares from (but not to) either airport cost $5. All other normal fares are $2.25
 
 Garage parking downtown is very expensive. "Early bird" rates start at $18, and normal rates start at $30. Street parking is hard to come by. See above recommendations on public transit.
 
-## <a id="how-do-i"></a>How do I&hellip;?
+## <a id="how-do-i"></a>How do I...?
 
 ### <a id="enter-the-building"></a>Enter the building for the first time (or if I don't have a GSA badge)?
 
@@ -109,7 +109,7 @@ If the room that you want isn't coming up, that means it's probably been booked 
 
 See [Networks]({{site.baseurl}}/networks/) for details.
 
-## <a id="where-are-the"></a>Where are the&hellip;?
+## <a id="where-are-the"></a>Where are the...?
 
 ### <a id="bathrooms"></a>Bathrooms
 

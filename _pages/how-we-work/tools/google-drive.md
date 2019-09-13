@@ -32,7 +32,7 @@ Make sure you set the permissions on new documents so that the appropriate peopl
 * Grant editing or commenting access to the entire team by adding <mailto:tts@gsa.gov>, <mailto:opp-team@gsa.gov>, or <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
 * You can share documents with any GSA employee — but don't default to sharing with _all_ of GSA. GSA will change your permissions if they are too open, and files that contain sensitive information will also be blocked via Cloudlock.
 
-* You can&rsquo;t publish docs to the web. You can&rsquo;t share docs with the public, only GSA or specific users. Even just to view.
+* You can't publish docs to the web. You can't share docs with the public, only GSA or specific users. Even just to view.
 
 * If another agency employs Google Docs, documents can be shared directly with them.
 
