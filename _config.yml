@@ -274,6 +274,9 @@ navigation:
       - text: Sharing calendars with partners
         url: sharedcalendars/
         internal: true
+      - text: Sketch
+        url: sketch/
+        internal: true
       - text: Slack (chat client)
         url: slack/
         internal: true
