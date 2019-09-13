@@ -37,7 +37,7 @@ title: Distributed
 
 _Before you do anything, read our [best practices for making distributed teams work](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)._
 
-## How do I&hellip;
+## How do I...
 
 ### Set up my computer?
 

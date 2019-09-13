@@ -83,7 +83,7 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21 fo
 
 When entering from the F Street entrance, continue straight past security down the hallway in front of you. At the end of the hallway, take the elevators up to floor four. Once out of the elevators, take two quick right turns and you'll be in the fourth floor infill. A map is here.
 
-## How do I&hellip;
+## How do I...
 
 ### Enter the building for the first time?
 
@@ -151,7 +151,7 @@ The guest wireless network in the building is GSA Guest. The password changes mo
 
 Non-guest wireless access is available using gsa-wireless and authenticating using your ENT username (`ENT\username`) and password.
 
-## Where are the&hellip;
+## Where are the...
 
 There are maps of the D.C. office in every elevator lobby.
 

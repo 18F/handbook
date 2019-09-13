@@ -103,7 +103,7 @@ San Francisco is very accessible by its public transportation system, [SFMTA](ht
 Don't do it! Your best bet is public transit and/or walking; downtown streets have one ways and can be very confusing. Street parking is horrible, and paid parking is way expensive. But if you do drive, you may park at 355 McAllister Street. The hours for this underground parking structure are 6 a.m. to midnight M–F. Fees vary but $4.50 to $2.00 per hour depending on when you enter garage.
 
 
-## How do I&hellip;
+## How do I...
 
 ### Enter the building for the first time?
 
@@ -189,7 +189,7 @@ If you're the last to leave your side of the office (north or south side), take 
 * Turn off the lights. (You just have to turn off the big overhead lights; there are some small lights along the walls and in the team rooms that we can't turn off.)
 * Check the other side of the office if you have time.
 
-## Where are the&hellip;
+## Where are the...
 
 
 ### Bathrooms
