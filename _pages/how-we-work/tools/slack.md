@@ -115,6 +115,17 @@ This policy applies to all types of Slack communications: public channels, priva
 
 During regular operations, only the Slack Owners have access to the exports. There is no regular monitoring of these messages, but they have been reviewed in the past. Various legal actions (for example, a Freedom of Information Act (FOIA) request) or security operations approved by the Infrastructure Director have required others to view the exports. The team will continue to be notified at the earliest possible time that the exports have been accessed. Notifications of access may not be made in realtime.
 
+## Exporting channel contents
+
+There is not an easy way to export the contents of a single channel, for partners or otherwise. If you really want, you can:
+
+1. Open the Slack channel in Chrome
+1. [Take a screenshot](https://zapier.com/blog/full-page-screenshots-in-chrome/)
+1. Scroll up
+1. Repeat
+
+These, of course, will be images, so they unfortunately won't be searchable.
+
 ## Infrastructure security
 
 Slack is currently built on Amazon Web Services (AWS), which from a federal security perspective, already has a host of protections verified through GSA's [FedRAMP program](https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-eastwest-us-public-cloud/). GSA IT and 18F have also conducted a review of Slack's security operations and vulnerability scanning.
