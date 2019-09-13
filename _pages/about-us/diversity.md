@@ -36,7 +36,7 @@ _It's important that the responsibility of answering questions around diversity 
 
 ### Philosophy
 
-The Diversity Guild is a space for learning. If you make a mistake &mdash; and we all do &mdash; a key component of diversity is that we have a culture of mindfulness and trying to do better. Remaining open to feedback, learning about why an action was offensive, and then apologizing is the kind of environment we look to cultivate.
+The Diversity Guild is a space for learning. If you make a mistake---and we all do---a key component of diversity is that we have a culture of mindfulness and trying to do better. Remaining open to feedback, learning about why an action was offensive, and then apologizing is the kind of environment we look to cultivate.
 
 The guild realizes that building an inclusive environment is tough, but it's far from impossible. We base our work on actionable items and deliverables which are reflected in our [Outcomes and Key Results (OKRs)](https://docs.google.com/a/gsa.gov/document/d/1bXXVpGE0OGFTJHQklo4k7-M83dA4RQqvN5qIGklzh1g/edit?usp=sharing). These OKRs are discussed and decided every quarter.
 

@@ -59,7 +59,7 @@ title: San Francisco
 
 TTS SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
 
-There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance &mdash; San Francisco City Hall and the Asian Art Museum are but two of them!
+There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance---San Francisco City Hall and the Asian Art Museum are but two of them!
 
 
 ## Getting here

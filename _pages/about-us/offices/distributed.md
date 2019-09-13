@@ -43,7 +43,7 @@ _Before you do anything, read our [best practices for making distributed teams w
 
 TTS employees receive a MacBook and an iPhone from GSA, though you may not receive your work phone on your first day.
 
-On your first day at work you should configure things so that your two-factor authentication (2FA) codes &mdash; which you'll occasionally need to connect to GSA's virtual private network (VPN) &mdash; are delivered to your cell phone. If you don't receive your work cell phone on day one, you'll need to use your personal phone. **If you do not configure 2FA you will not be able to access your email from outside of federal buildings.**
+On your first day at work you should configure things so that your two-factor authentication (2FA) codes---which you'll occasionally need to connect to GSA's virtual private network (VPN)---are delivered to your cell phone. If you don't receive your work cell phone on day one, you'll need to use your personal phone. **If you do not configure 2FA you will not be able to access your email from outside of federal buildings.**
 
 See the [Equipment page]({{site.baseurl}}/equipment/#phone) for more about how to set up 2FA so you can receive GSA 2FA codes on your cell phone.
 

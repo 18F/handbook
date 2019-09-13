@@ -119,9 +119,9 @@ Go to the F Street entrance, where 24/7 access is available.
 
 Use [BookIt](https://bookit.gsa.gov) to reserve rooms. Avoid booking rooms:
 
-- 1471, 1472, and 1481 &mdash; they're only accessible via the 3rd wing
-- x3xx rooms &mdash; they're really far away from TTS and aren't easily accessible
-- x0xx rooms &mdash; they're not as up-to-date as other wings
+- 1471, 1472, and 1481---they're only accessible via the 3rd wing
+- x3xx rooms---they're really far away from TTS and aren't easily accessible
+- x0xx rooms---they're not as up-to-date as other wings
 
 ### Receive visitors?
 
@@ -135,7 +135,7 @@ In order to reserve parking for a meeting with a government colleague, email 180
 
 ### Register for building badge swipe access as a non-GSA federal employee?
 
-Federal employees who work for agencies other than GSA can register their PIV cards to open doors and turnstiles at 1800 F by visiting the GSA security office. OMA Security is located in the basement in **room B338**. Office hours are Monday &ndash; Thursday from 7:00 am &ndash; 3:30 pm. This is particularly useful for biking as it will allow your PIV card to open the courtyard doors from the parking lot.
+Federal employees who work for agencies other than GSA can register their PIV cards to open doors and turnstiles at 1800 F by visiting the GSA security office. OMA Security is located in the basement in **room B338**. Office hours are Monday--Thursday from 7:00am--3:30pm. This is particularly useful for biking as it will allow your PIV card to open the courtyard doors from the parking lot.
 
 ### Request a basement locker?
 

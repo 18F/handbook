@@ -87,7 +87,7 @@ If you need to reset your ENT password, you can let your password expire and the
 
 1. Log in. Click `My Profile → My Audio Profiles`.
 2. On the left hand side click `Intercall Audio Profile` to select it.
-3. The right hand side of the screen will display the Intercall Audio Profile information that includes the conference code, leader pin, and conference phone number information. It'll look greyed out, but that's okay unless you want to edit it &mdash; for example, to change the PIN &mdash; if so, the edit button is at top right of that panel.
+3. The right hand side of the screen will display the Intercall Audio Profile information that includes the conference code, leader pin, and conference phone number information. It'll look greyed out, but that's okay unless you want to edit it---for example, to change the PIN---if so, the edit button is at top right of that panel.
 
 `My Audio Profile` is the only place that you will find the PIN needed to start any audio call outside of the meeting room.
 
