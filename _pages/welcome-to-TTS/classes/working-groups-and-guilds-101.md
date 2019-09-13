@@ -50,7 +50,7 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
         </td>
       </tr>
       <tr>
-        <td class="col-grouplet"><strong><a id="code-of-conduct">Code&nbsp;of&nbsp;Conduct</a></strong></td>
+        <td class="col-grouplet"><strong><a id="code-of-conduct">Code of Conduct</a></strong></td>
         <td class="col-description">
           We maintain the TTS Code of Conduct and are committed to enforcing it and helping resolve issues. <br />
           <a href="https://github.com/18F/code-of-conduct/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/wg-code-of-conduct/">#wg-code-of-conduct</a>

@@ -16,7 +16,7 @@ title: New York City
         </td>
       </tr>
       <tr>
-        <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
+        <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
         <a href="https://gsa-tts.slack.com/messages/@eth">Ethan Heppner</a><br/>
         <a href="https://gsa-tts.slack.com/messages/@jz">Jeremy Zilar</a>
@@ -24,7 +24,7 @@ title: New York City
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Slack&nbsp;channel</strong>
+          <strong>Slack channel</strong>
         </td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/nyc/">#nyc</a>
@@ -106,7 +106,7 @@ There are supply rooms with pens, sticky notes, etc. If you need something order
 
 ## Transit subsidy
 
-See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
+See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation. This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
 ### Use your card
 

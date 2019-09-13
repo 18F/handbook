@@ -14,7 +14,7 @@ title: Washington, D.C.
         </td>
       </tr>
       <tr>
-        <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
+        <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/leahgitter/">Leah Gitter</a><br />
           <a href="mailto:1800ftenantsupport@gsa.gov">GSA Tenant Support</a>
@@ -22,7 +22,7 @@ title: Washington, D.C.
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Slack&nbsp;channels</strong>
+          <strong>Slack channels</strong>
         </td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/dc/">#dc</a>, <a href="https://gsa-tts.slack.com/messages/dc-lunchbell/">#dc-lunchbell</a>, <a href="https://gsa-tts.slack.com/messages/dc-snack-inventory/">#dc-snack-inventory</a>

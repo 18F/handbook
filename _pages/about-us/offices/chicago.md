@@ -28,7 +28,7 @@ title: Chicago
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Office&nbsp;/&nbsp;Seats</strong>
+          <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
            230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Regional Administrator is Brad Hansher.<br /><br />

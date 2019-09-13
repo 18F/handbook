@@ -6,7 +6,7 @@ title: Distributed
   <table class="table-office-metadata">
     <tbody>
       <tr>
-        <td class="col-key"><strong>Point&nbsp;of&nbsp;contact</strong></td>
+        <td class="col-key"><strong>Point of contact</strong></td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/@leahgitter">Leah Gitter</a><br />
           <a href="mailto:hspd12.security@gsa.gov">GSA Access Card Support</a>
@@ -14,7 +14,7 @@ title: Distributed
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Slack&nbsp;channels</strong>
+          <strong>Slack channels</strong>
         </td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/distributed/">#distributed</a>,

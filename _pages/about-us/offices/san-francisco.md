@@ -13,7 +13,7 @@ title: San Francisco
         </td>
       </tr>
       <tr>
-        <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
+        <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
           Your best bet is the <a href="https://gsa-tts.slack.com/archives/sf">#sf</a> Slack channel<br />
           <a href="http://www.gsa.gov/portal/category/107015">Building Services contact info</a>
@@ -21,7 +21,7 @@ title: San Francisco
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Slack&nbsp;channels</strong>
+          <strong>Slack channels</strong>
         </td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/archives/sf">#sf</a>,
