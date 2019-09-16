@@ -31,6 +31,10 @@ New employees should have a GSA VMware myView/Horizon account, but if not:
 
 See [the InSite page](https://insite.gsa.gov/portal/category/536270). Note that you may need to follow the "Personal Mac" instructions.
 
+## Software
+
+Horizon is the easiest way to use software that's available for Windows but not Mac. If the software you need isn't already pre-installed, you can request installation by [opening a Software request with the GSA IT Service Desk](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b). Make sure to note that you are requesting installation in VDI, not your laptop.
+
 ## Tips
 
 - To move files between your laptop and your Horizon desktop, use Google Drive. You can use Chrome in the Horizon desktop to download and upload files.
