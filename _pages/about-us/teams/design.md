@@ -101,7 +101,7 @@ And one more thing: before you start using any new tool that asks for access to 
 #### Drawing lines on a screen
 Unless otherwise specified, **see [Software](../software/#get-access-to-software-we-already-have) to get a license** for any of these.
 
-- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license. Visit [#sketch](https://gsa-tts.slack.com/messages/sketch) on Slack for help and sharing tips. One thing that's different about using Sketch at GSA is that Sketch plugins are not impossible to obtain, but might be more time-consuming than -saving. Each Sketch plugin is treated like a [new software request]({{site.baseurl}}/software), and must undergo review by GSA IT review. So far, we haven't found much that we can't accomplish without plugins.
+- [**Sketch**]({{site.baseurl}}/sketch/)
 - **InVision:** We use InVision for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync.
   - If you are a member of the design team, once you have requested and received an InVision license, tell your supervisor that you have an account and are ready to be added to the "18F Design Team" group in InVision. This will enable you to see prototypes from all of our projects. When making your own prototypes in the future, always add this team as a collaborator.
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
