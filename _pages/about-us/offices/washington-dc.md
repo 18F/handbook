@@ -33,7 +33,7 @@ title: Washington, D.C.
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           TTS sits on the fourth floor in the first wing and in the 400's hallway, which is located on the E Street side in what's known as the infill.
+           TTS is located on the third floor, first wing.
         </td>
       </tr>
       <tr>
@@ -117,7 +117,12 @@ Go to the F Street entrance, where 24/7 access is available.
 
 ### Book rooms for meetings?
 
-Use [BookIt](https://bookit.gsa.gov) to reserve rooms. Avoid booking rooms:
+Use [BookIt](https://bookit.gsa.gov) to reserve rooms.
+
+* The TTS quiet rooms are 3117 and 3119B. These are unreservable but are first-come, first served.
+* The reservable team rooms are 3116A&B, 3119A, 3128A&B, and 3143.
+
+Avoid booking rooms:
 
 - 1471, 1472, and 1481---they're only accessible via the 3rd wing
 - x3xx rooms---they're really far away from TTS and aren't easily accessible
@@ -157,7 +162,7 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Gendered bathrooms are located at the end of both the 4100 and 4200 wings. Additional bathrooms are just outside the 4400 space in the 4100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
+Gendered bathrooms are located at the end of the 3100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
 
 ### Mother’s rooms
 
