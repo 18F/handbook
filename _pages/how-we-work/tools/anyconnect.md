@@ -8,4 +8,4 @@ Cisco AnyConnect is the VPN client that we use to connect to GSA's network. See 
 
 #### Still have questions?
 
-Contact the GSA IT Service Desk or ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)
+[Contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}) or ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)

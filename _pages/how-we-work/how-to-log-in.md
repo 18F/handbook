@@ -24,6 +24,8 @@ You must change your ENT password immediately after you start with GSA and every
 
 Detailed ENT password reset instructions can be found [here on InSite](https://insite.gsa.gov/portal/content/677810).
 
+If you're on a Mac and change your ENT password, once you log out and log back in, make sure you're on the GSA-wireless network (_not_ GSA-guest) so that you can re-authenticate.
+
 ## Change or reset your Macbook login password
 
 You can change the password that you use to log into your Mac or reset the password if you don't remember it by following [these instructions](https://support.apple.com/en-us/HT202860).

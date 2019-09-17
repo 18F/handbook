@@ -29,7 +29,7 @@ Software requests that are equal to and under $10,000.00 must be submitted via t
 * GSA CIO FITARA approval
 * GSA CTO business need approval and concurrence
 * Proof of adequate funds/approval from TTS Ops Funding Official
-* GSA IT’s Service Desk (Service Now) ticket, where appropriate
+* [GSA IT Service Desk ticket]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}), where appropriate
 * PDF download of the GSA IT Standards page
 
 ***NOTE:*** *If the software has been procured with the government purchase card, the SM must attach the purchase receipt to the original C2 application.*
