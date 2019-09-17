@@ -114,7 +114,7 @@ Although it is technically a debit card, when you put the card in an MTA machine
 
 ## NYC events
 
-We have a team breakfast every Tuesday morning (BYOB - bring your own breakfast) and a happy hour outing the first Thursday of every month. Both are optional, but lots of fun. Ask to be added to the invite in #nyc.
+We have a team breakfast every Thursday morning (BYOB - bring your own breakfast) and a happy hour outing the first Thursday of every month. Both are optional, but lots of fun. Ask to be added to the invite in #nyc.
 
 There is also a shared calendar. If it doesn't show up in Google Calendar already, try adding `gsa.gov_envrspjqmjn4id95uc2fq3l45s@group.calendar.google.com` under "Other calendars".
 
