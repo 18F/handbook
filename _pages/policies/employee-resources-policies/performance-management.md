@@ -2,6 +2,9 @@
 title: Performance Management
 tags:
 - Performance
+- Performance
+- Performance management
+- Performance review
 - review
 ---
 
@@ -40,6 +43,10 @@ Supervisor checklist | Performance management steps (coming soon)
 ### Employee performance management checklist
 
 * Use the Employee performance management checklist (coming soon) to guide you through the end of FY19 performance review
+
+#### Gathering supporting documentation
+
+* Supporting documentation, such as examples of your work and any other elements that align with your Performance Management Plan, is optional for the performance review process.  This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7. 
 
 ### Guidance
 
