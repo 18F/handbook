@@ -46,7 +46,11 @@ Supervisor checklist | Performance management steps (coming soon)
 
 #### Gathering supporting documentation
 
-* Supporting documentation, such as examples of your work and any other elements that align with your Performance Management Plan, is optional for the performance review process.  This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7. 
+* Supporting documentation, such as examples of your work and any other elements that align with your Performance Management Plan, is optional for the performance review process.  This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7.
+
+#### Nominating a participant reviewer
+
+* Content coming soon.
 
 ### Guidance
 
