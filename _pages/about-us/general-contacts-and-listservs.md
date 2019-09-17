@@ -69,7 +69,7 @@ Information you might need for filling out GSA forms:
 
 ## Listservs
 
-There are a number of groups that are good for collaborating across government. If any of these topics interest you, consider joining &mdash; even if you prefer to lurk. (Consider [filtering messages like these](https://support.google.com/mail/answer/6579?hl=en) so they appear in their own Gmail label.)
+There are a number of groups that are good for collaborating across government. If any of these topics interest you, consider joining---even if you prefer to lurk. (Consider [filtering messages like these](https://support.google.com/mail/answer/6579?hl=en) so they appear in their own Gmail label.)
 
 
 ### Digital.gov communities

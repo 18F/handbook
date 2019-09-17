@@ -34,6 +34,16 @@ Talent will assist with the following:
 - Posting the announcement 
 - Submitting the PAR action to HR 
 
+Internal Hiring Actions - Best Practices & Recommendations
+
+- When conducting interviews, you may want to consider building a short [hiring guide](https://docs.google.com/document/d/1JNEMDfUjIpgK5mOl619XVVsxrXn7l9Vzcv-wKOnuwh4/edit) to help ensure that you are covering all of the areas necessary for the role and also to ensure a consistent candidate experience. 
+- When selecting an internal candidate you will need to have a discussion with their current supervisor regarding the following:
+    - If they will allow their employee to leave the team (they are not obligated to say yes)
+    - If yes, what will the release date be (note that the effective date must fall on a [payroll period](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars)) 
+    - Be aware that the candidate may be on a project and have to finish out/reassign their work so may not be able to start on your team as soon as you’d like.  It is up to their current supervisor when they are willing to let them move to your team.
+- Before moving forward with a selection, Talent recommends conducting internal reference checks. Feel free to refer to [this template](https://docs.google.com/document/d/1QL6711NSv3nsIlN_3Rc7DFk8Apubyy8ugQHAAEWRWgc/edit) for guidance. 
+
+
 #### Job prep
 
 Use the following templates to prepare the posting (make sure to make a copy of each template):

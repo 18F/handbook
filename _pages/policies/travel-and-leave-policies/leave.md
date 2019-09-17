@@ -27,7 +27,7 @@ You can also see your remaining leave balances in HR Links (shows up to the righ
 ## Submitting leave in HR Links
 
 ### Logging into HR Links
-You must be on the GSA wireless network or on the Windows virtual desktop (accessible through VMWare Horizon or Cisco AnyConnect) to log into HR Links.  For instructions on accessing your virtual desktop through VMware Horizon, go [here]({{site.baseurl}}/vmware-horizon).  For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).  
+You must be on the GSA wireless network or on the Windows virtual desktop (accessible through VMWare Horizon or Cisco AnyConnect) to log into HR Links.  For instructions on accessing your virtual desktop through VMware Horizon, go [here]({{site.baseurl}}/vmware-horizon).  For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).
 
   1. Open your web browser (Safari is preferred for HR Links)
   1. Go to [HR Links](https://corporateapps.gsa.gov/hr-links/) or find it under "Tools" on the [InSite home page](https://insite.gsa.gov)
@@ -90,7 +90,7 @@ An employee may use annual leave for vacations, rest and relaxation, and persona
 * Between 3 and 15 years: 6 hours per pay period
 * 15+ years: 8 hours per pay period
 
-The maximum annual leave that can be carried over is 240 hours, and if you've transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
+The maximum annual leave that can be carried over is 240 hours, and if you've transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM's Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
 ### Sick leave
 
@@ -113,7 +113,7 @@ Further funeral leave information can be found in OPM's Fact Sheets:
 
 ### Unpaid leave
 
-Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds like.  Employees can request unpaid leave of less than four weeks at any time.  To take a leave of absence without pay, you&rsquo;ll need justification, supervisory oversight, and, for longer terms, supervisory approval.
+Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds like.  Employees can request unpaid leave of less than four weeks at any time.  To take a leave of absence without pay, you'll need justification, supervisory oversight, and, for longer terms, supervisory approval.
 
 ### Parental leave
 
@@ -132,7 +132,7 @@ For complete details, see [this recent guidance](http://www.opm.gov/policy-data-
 
 Both parents may use their annual or sick leave after the birth of a child, for the period of the mother’s incapacitation. The length of the medically necessary leave is ultimately determined by a doctor’s note, but six weeks for a vaginal birth and eight weeks for a cesarean birth is common. After parents exhaust their annual and sick leave, they can run a sick leave deficit of up to the amount they will accrue during their tenure.
 
-Employees may also apply for annual leave donations from other federal employees within their agency. Leave donations may only be used for a medically necessary leave period, as determined by the doctor's note. Leave donations from federal employees outside GSA are considered on a case-by-case basis. Additionally, if spouses are both employed by the federal government, they may donate unlimited annual leave to each other, regardless of the agencies they work for. Leave donations can be used to backfill sick leave and annual leave deficits. 
+Employees may also apply for annual leave donations from other federal employees within their agency. Leave donations may only be used for a medically necessary leave period, as determined by the doctor's note. Leave donations from federal employees outside GSA are considered on a case-by-case basis. Additionally, if spouses are both employed by the federal government, they may donate unlimited annual leave to each other, regardless of the agencies they work for. Leave donations can be used to backfill sick leave and annual leave deficits.
 
 If you'd like TTS to send out an email notifying your colleagues about your request for donated leave, [fill out this form](https://forms.gle/BmVKz5ByfW6XyYZ89). It's editable, so when you return to work you can fill in an end date.
 
@@ -145,13 +145,13 @@ Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-ove
 To donate leave (this process is new as of 8/19/19):
 1) If you haven't registered with [Max.gov](https://portal.max.gov/portal/home), click Register Now at the top right of that homepage and follow [these instructions](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/08/VLTP_AccessLogin_2019.pdf) to register your PIV card to enable login (or use the email option if you don't yet have a PIV card reader), then:
 2) Go to https://vltp.gsa.gov/, and
-3) Follow the system prompts. 
+3) Follow the system prompts.
 
 If you have any questions, check the GSA IT Alert email sent 8/8/19 with the subject line "Aug. 19: New way to access VLTP" or  contact Lakita Rivero at lakita.rivero@gsa.gov.
 
-Also, don’t hesitate to ask in #parental-leave in Slack.  
+Also, don’t hesitate to ask in #parental-leave in Slack.
 
-If the system is down, you can submit donation requests directly to Lakita Rivero.  
+If the system is down, you can submit donation requests directly to Lakita Rivero.
 
 ## Advanced leave
 

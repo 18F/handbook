@@ -2,8 +2,6 @@
 title: Tock
 ---
 
-We use Tock to track our time.
-
 ## Quick reference for 18F staff
 
 **18F staff should only enter time in the following categories:**
@@ -19,21 +17,34 @@ To facilitate our fee-for-service business model, 18F developed a timekeeping ap
 
 TTS's business model is based on billing for time logged to a project. Every expense — salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on — is paid for by our billing, which is recorded by each person in Tock.
 
-We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
+We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct partner!
 
-You must review and submit your timecard each week. Tock will pre-populate your current project(s)' hour field with your default availability. Each Friday, choose the correct week for your entries from the list on the homepage, adjust your Tock entry to reflect what you worked that week and then submit your timesheet.
+The weekly time reporting period lasts one week, beginning on Sunday and ending on Saturday. You must review and submit your timecard each week by the end of the day (close of business) on Friday. When submitting your timecard, choose the correct week for your entries from the list on the homepage, adjust your Tock entry to reflect what you worked that week, and then submit your timesheet.
 
-Timecards are due by the end of day (close of business) on Friday. If you fail to submit your timecard on time, your manager will bug you until you get it done! Timecards for the current week should be available no later than Monday at 9AM PST.
+Failing to submit your timecard on time prevents operations from running financial reports and creates a lot of work for other people. Please make sure you tock before you end your workday on Friday.  If Friday is a holiday, then you’ll be expected to complete your timecard by the first workday following.
+
+Timecards for the current week should be available no later than Monday at 9AM PST.
+
+## Tock and HR Links
+
+Tock is a different tool than HR links and is used for a different purpose: 
+
+- Tock is an internal 18F tool that tracks our billable hours on projects; we use that data to bill our agency partners. 
+- HR links is a GSA level tool that records how much and what kind of leave (sick, annual, family) an employee takes during a given two-week pay period.
+
+It can be confusing because out of office time IS tracked in tock. But that’s only so we can understand that you weren’t billing to a project because you were out of the office. Leave can only be officially requested via HR links. 
+
+Supervisors approve and submit HR links timesheets every two weeks (during the week following the end of a pay period), and while out of office time in tock should match what’s in the official record of HR links, any emails you receive about timesheet errors are related to HR links, not tock. Forward those to your supervisor for assistance.
 
 ## Creating Tock projects
 
-There are two kinds of Tock projects, billable and non-billable. Tock projects can only be created by TTS Operations staff. Request the creation of a project in [#tock](https://gsa-tts.slack.com/messages/tock).
+Billable Tock projects can only be created by TTS Operations staff and only after an agreement has been signed. TTS Operations staff will create the project using the following information provided from the account manager responsible for the project:
 
-Billable projects can only be created after an agreement has been signed. TTS Operations staff will create the project using the following information provided from the Business Unit responsible for the project:
+- A title, with the organization and client name as the leading part of the title.
+- A 2-3 sentence description of the project.
+- The name of the lead for the project.
 
-* A title, with the business unit name and client name as the leading part of the title.
-* A 2-3 sentence description of the project.
-* The name of the project manager for the project.
+Account managers can request the creation of a project in [#tock](https://gsa-tts.slack.com/messages/tock).
 
 ## Time tracking and billing
 
@@ -75,7 +86,7 @@ You must not bill for the following activities because these are indirect costs 
 - Performance reviews
 - New hire onboarding
 
-### How many hours am I expected to bill per week?
+### Weekly Billable Hour Expectations
 
 If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. (Directors and supervisors have different billability expectations.)
 
@@ -97,13 +108,13 @@ Work week | Billable time (minimum hours expected) | Non-billable time (not to e
 2 days | 13 hours (80% of 16 hours) | 3 hours
 1 days | 6.5 hours (80% of 8 hours) | 1.5 hours
 
-### What if I don't have enough work to bill to the hour expectation laid out above?
+### Issues hitting your billable hour target
 
-First, double check that you're billing for all the activities listed above. Make sure to also check with your project lead.
+If you find you don’t have enough work to hit the minimum billable hour target expected of you, first double check that you're billing for all the activities listed above. Make sure to also check with your project lead that there aren’t other tasks you can take on.
 
 If you still find that you don't have enough work to bill to the hour expectation laid out above, **we want to know about it!** Help us get to the bottom of this with you (and prevent this from happening in the future) by reaching out to both your supervisor and the Account Manager on your project, and also copying the 18F Staffing Director outlining where things are at.
 
-### What if I work more than 32 billable hours in a normal five-day work week? More than 40?
+### Working more than the minimum hours
 
 Working more than 32 billable hours is just fine! 32 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
 
@@ -117,17 +128,24 @@ Working more than 32 billable hours is just fine! 32 is the minimum. However, we
 
 No matter how many hours you work, it is crucial that you accurately report those hours in Tock and receive compensation for that time. Knowing the actual amount of time you work helps us better scope and estimate costs and rates.
 
-### I worry about my project going over budget, so some weeks I reduce the number of hours I bill to make sure that we don't burn too fast. Is this okay?
+Also, please don’t “save” hours or avoid billing for time you’ve actually worked. In addition to hurting our capacity to improve our project scoping assumptions, it is illegal not to bill for time actually spent working for partners. There are several mechanisms and processes in place to make sure projects don’t go over budget:
 
-While we appreciate that you're trying to protect the budget, there is no need for you to do this — and it's actually damaging to projects. Please don't “save” hours or avoid billing for time you've actually worked. In addition to hurting our capacity to improve our project scoping assumptions, it is illegal not to bill for time actually spent working for clients. We've done several things to make sure we don't go over budget:
-
-- When creating new project budgets, we now include enough funds to allow for full capacity for each person for the duration of the project.
+- When creating new project budgets, we include enough funds to allow for full capacity for each person for the duration of the project.
 - We build in a risk reserve to each project to ensure we have extra hours for needs that arise during the project.
 - Account Managers closely monitor project burns on a weekly basis and communicate that to Project Leads and Product Managers.
 
 In short, we need to know if our scoping is accurate. We'd rather be over budget and have our teams delivering value than be under budget and hiding how many hours it truly takes to deliver on our engagements.
 
-## Other questions
+### Tocking for Out of Office Time
+
+You cannot request paid time off in tock (see the Leave page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly tock. 18F staff should tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to tock line #670, 18F Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office. 
+
+If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your tock hours for you during your out of office period. Example:
+
+“I will be out of the office from Monday September 16th through Monday September 23rd; Can you enter me as 40 hours OOO for the 16th-20th time period?”
+
+
+## FAQ
 
 ### Why is my list of “Reporting Periods You Need to Fill Out” really long?
 
@@ -142,32 +160,6 @@ Tock likely doesn't have your start date listed correctly. To fix this:
 ### How do I change a reporting period I already filled out?
 
 Submit a tock change request using [this form](https://docs.google.com/forms/d/1EpVTxXgRNgYfoSA2J8Oi-csjhFKqFm5DT542vIlahpU/viewform?edit_requested=true). You can also ping us in [#tock](https://gsa-tts.slack.com/messages/tock) and we'll help you out.
-
-### What if I'm so busy that I cannot fit everything I need to do within 40 hours per week?
-
-You should immediately contact your supervisor. They will be able to provide you guidance on managing your workload and may be able to help you obtain additional compensation (typically in the form of [leave](../leave/)) if you are working extra hours.
-
-### When does the weekly reporting begin and end?
-
-The weekly time reporting period lasts one week, beginning on Sunday and ending on Saturday.
-
-### What is the deadline for submitting my weekly timesheet?
-
-Each Friday by close of business (COB), local time, at the end of the weekly reporting period. For example, if the weekly periods ends on Saturday, June 26, then complete your timesheet by COB on Friday, June 25. If Friday is a holiday, then you'll be expected to complete your timecard by the first workday following.
-
-### How should I bill travel?
-
-The time you spend figuring out travel plans is billable to the project you are traveling for. Travel time for projects that is approved by the partner agency should be billed to the client.
-
-### How do I request paid time off (e.g., annual leave, sick leave, comp time)?
-
-See [Leave](../leave/) page.
-
-### I’m going to be out of the office for an extended period of time — how do I tock in advance? 
-
-Before you leave, head to the #tock channel in slack and ask that the team submit your tock hours for you during your out of office period. Example:
-
-"I will be out of the office from Monday September 16th through Monday September 23rd; Can you enter me as 40 hours OOO for the 16th-20th time period?" 
 
 ## Still have questions?
 

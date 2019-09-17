@@ -16,7 +16,7 @@ title: New York City
         </td>
       </tr>
       <tr>
-        <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
+        <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
         <a href="https://gsa-tts.slack.com/messages/@eth">Ethan Heppner</a><br/>
         <a href="https://gsa-tts.slack.com/messages/@jz">Jeremy Zilar</a>
@@ -24,7 +24,7 @@ title: New York City
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Slack&nbsp;channel</strong>
+          <strong>Slack channel</strong>
         </td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/messages/nyc/">#nyc</a>
@@ -94,7 +94,7 @@ In the center "core" of each floor. You will need your badge to get back.
 
 ### Mother’s rooms
 
-There's a mother's (aka lactation) room on the 54th floor on the southeast side. It has outlets, a sink, and a fridge. Ideally you should book time in the room with BookIt. 
+There's a mother's (aka lactation) room on the 54th floor on the southeast side. It has outlets, a sink, and a fridge. Ideally you should book time in the room with BookIt.
 
 ### Snacks and drinks
 
@@ -106,15 +106,15 @@ There are supply rooms with pens, sticky notes, etc. If you need something order
 
 ## Transit subsidy
 
-See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
+See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation. This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
 ### Use your card
 
-Although it is technically a debit card, when you put the card in an MTA machine, select `Credit Card` as your payment method, and use the same office ZIP code. The balance resets on the 10th of every month. The new balance is intended to cover the following month&rsquo;s transit, but you can use it at any time.
+Although it is technically a debit card, when you put the card in an MTA machine, select `Credit Card` as your payment method, and use the same office ZIP code. The balance resets on the 10th of every month. The new balance is intended to cover the following month's transit, but you can use it at any time.
 
 ## NYC events
 
-We have a team breakfast every Tuesday morning (BYOB - bring your own breakfast) and a happy hour outing the first Thursday of every month. Both are optional, but lots of fun. Ask to be added to the invite in #nyc.
+We have a team breakfast every Thursday morning (BYOB - bring your own breakfast) and a happy hour outing the first Thursday of every month. Both are optional, but lots of fun. Ask to be added to the invite in #nyc.
 
 There is also a shared calendar. If it doesn't show up in Google Calendar already, try adding `gsa.gov_envrspjqmjn4id95uc2fq3l45s@group.calendar.google.com` under "Other calendars".
 

@@ -29,7 +29,7 @@ TTS hosts monthly training sessions to help you learn how to build accessible pr
 
 ## Making a project accessible
 
-The easiest way to make a project accessible is to think about accessibility from the start. Retrofitting accessibility is very costly. As you might expect, certain libraries and tools are not great for accessibility — for example, Bootstrap&rsquo;s color scheme and some of its form elements are not accessible by default. These are things that should be taken into consideration at the start of a project, before you've dedicated substantial time and energy to it.
+The easiest way to make a project accessible is to think about accessibility from the start. Retrofitting accessibility is very costly. As you might expect, certain libraries and tools are not great for accessibility — for example, Bootstrap's color scheme and some of its form elements are not accessible by default. These are things that should be taken into consideration at the start of a project, before you've dedicated substantial time and energy to it.
 
 As you think about accessibility, here are some good rules to follow:
 
