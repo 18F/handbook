@@ -9,7 +9,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 ## Submitting benefit forms
 
 ### New hires
-Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).
+Follow [these instructions] (https://docs.google.com/presentation/d/151w2MOgtbiskmN7I13UgjiHZk2VZuJmAPotwixpHTFQ/edit#slide=id.p) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) and reach out to [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) with any questions.
 
 ### Current employees
 Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) when you're submitting documents due to a change in life event (such as getting married or having a child).
@@ -28,10 +28,9 @@ You can find these documents by logging onto HR Links and selecting the followin
 
 Contact [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) for questions related to benefits, retirement, and leave policies (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
-Find us in Slack:
+Find us on the Slack channel for TTS staff to discuss GSA benefits:
 
 - [#benefits](https://gsa-tts.slack.com/messages/benefits)
-
 
 ## Credit union
 
