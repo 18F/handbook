@@ -90,7 +90,7 @@ Check out the [Summit food tracker](https://docs.google.com/spreadsheets/d/1LAv9
 #### Hours
 ##### Which hours to log:
 *   You do not need to log hours on travel days.
-*   If you stay after the retreat an cowork, log to appropriate categories depending on your work or project tasks.
+*   If you stay after the Summit to cowork, log to appropriate categories depending on your work or project tasks.
 *   If at any point you do work or check slack/email for your project, please log your time accordingly to the project.
 
 ##### Logging Summit hours in Harvest:
@@ -110,7 +110,7 @@ Follow the standard process for track expenses for travel, food, and other appro
 ##### Already covered by CivicActions:
 *   Breakfast provided by hotel on W, Th, F, S
 *   Lunches catered on W, Th, F
-*   Dinners with the team - W, Th, F
+*   Dinners with the team on W, Th, F
 
 ##### Non-reimbursable expenses:
 *   Food on days that CivicActions has already covered meal expenses (see above)
@@ -135,7 +135,7 @@ It is not tolerated to be under the influence in the workplace. The exception is
 ### Dress how you’re most comfortable
 Dress however you are comfortable. For example, some folks are most comfortable in a button-up with khakis; others prefer casual jeans and t-shirts. 
 
-We are planning to take coworking photos throughout the retreat that may show up on the internet (with your consent of course), so consider that with your attire choices. Remember to bring your CivicActions T-Shirt for the team photo.
+We are planning to take coworking photos throughout the Summit that may show up on the internet (with your consent of course), so consider that with your attire choices. Remember to bring your CivicActions T-Shirt for the team photo.
 
 ### Ask before hugging
 Be mindful of personal space -- note that not all of your coworkers are comfortable with hugs, you can always ask them with a smile, "are you a hugger?" and offer your hand as your greeting.
@@ -156,7 +156,7 @@ We’re looking for volunteers to participate in a few staged images for our web
 ## Leadership
 ### How YOU can help
 *   Help keep the event space clean and tidy
-*   Reach out to folks who are attending the retreat for the first time
+*   Reach out to folks who are attending the Summit for the first time
 *   Engage and participate in the conversations in which you're involved 
 *   Look for opportunities to help create a platform for your quieter coworkers to be heard
 *   Help smoothly transition the team between sessions
