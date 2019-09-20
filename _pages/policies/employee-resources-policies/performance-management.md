@@ -55,9 +55,9 @@ Supervisor checklist | Performance management steps (coming soon)
 
 ### Guidance
 
-#### InSite 
+#### [InSite](https://insite.gsa.gov) 
 
-* [InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/coaching): Provides overall guidance to the performance management program
+* [InSite Performance Management Guide](https://insite.gsa.gov/topics/hr-pay-and-leave/employee-performance-management): Provides overall guidance to the performance management program
     * How To Set Effective Goals
     * Aligning Individual and Organizational Goals
     * Managers Guide For Developing Effective Performance Plans
@@ -66,9 +66,9 @@ Supervisor checklist | Performance management steps (coming soon)
     * Employee Guide for Writing a Self-Assessment
     * Supervisors Award Guide
     
-#### HR Links
+#### [HR Links](https://hrlinks.gsa.gov/)
 
-* [HR Links](https://drive.google.com/file/d/1mn-3yC3tN5dC4ppDSoRFi41W1vWSZzGX/view): Guide for entering all components of a performance review into HR Links
+* [HR Links Performance Management Guide](https://drive.google.com/file/d/1mn-3yC3tN5dC4ppDSoRFi41W1vWSZzGX/view): Guide for entering all components of a performance review into HR Links
     * Establishing a performance plan
     * Creating a performance plan
     * Updating a performance plan
