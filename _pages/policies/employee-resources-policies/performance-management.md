@@ -45,8 +45,7 @@ Supervisor checklist | Performance management steps (coming soon)
    
 ## Who is eligible for the end of year performance bonus?
 
-* An employee that has established a performance plan at any point in FY19 (October 1, 2018 - September 30, 2019) is eligible for an FY19 performance bonus, but the performance rating would need to be completed 120 days after the established plan has been approved.  
-   * Example: An employee that establishes an FY19 performance plan on September 1, 2019 would not be eligible to receive their bonus until December 30, 2019.
+* This section will be updated once final guidance has been issued by OHRM.
 
 ## Employee resources
 
