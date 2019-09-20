@@ -53,15 +53,9 @@ Supervisor checklist | Performance management steps (coming soon)
 
 * Use the Employee performance management checklist (coming soon) to guide you through the end of FY19 performance review
 
-#### Gathering supporting documentation
-
-* Supporting documentation, such as examples of your work and any other elements that align with your Performance Management Plan, is optional for the performance review process.  This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7.
-
-#### Nominating a participant reviewer
-
-* Content coming soon.
-
 ### Guidance
+
+#### InSite 
 
 * [InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/coaching): Provides overall guidance to the performance management program.
     * How To Set Effective Goals
@@ -71,12 +65,23 @@ Supervisor checklist | Performance management steps (coming soon)
     * Soliciting Feedback From Your Manager and Peers
     * Employee Guide for Writing a Self-Assessment
     * Supervisors Award Guide
-* [HR Links](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTgxMTA2Ljk3MjE5NDAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE4MTEwNi45NzIxOTQwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MjE1Mjk3JmVtYWlsaWQ9bWljaGFlbC5zZXltb3VyQGdzYS5nb3YmdXNlcmlkPW1pY2hhZWwuc2V5bW91ckBnc2EuZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&100&&&http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-23-Performance-Management-for-Employees_FINAL_v2.docx): Guide for entering all components of a performance review into HR Links
+    
+#### HR Links
+
+* [HR Links](https://drive.google.com/file/d/1mn-3yC3tN5dC4ppDSoRFi41W1vWSZzGX/view): Guide for entering all components of a performance review into HR Links
     * Establishing a performance plan
     * Creating a performance plan
     * Updating a performance plan
     * Acknowledging a performance plan
-    * Enter a self-assessment
+    * Entering a self-assessment (Page 7, Section 3.3)
+
+#### Gather supporting documentation
+
+* Supporting documentation, such as examples of your work and any other elements that align with your Performance Management Plan, is ***optional*** for the performance review process.  This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7.
+
+#### Nominate participant reviewer(s)
+
+* Content coming soon.
 
 ### Training
 
