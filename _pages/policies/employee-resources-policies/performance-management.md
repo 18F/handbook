@@ -57,7 +57,7 @@ Supervisor checklist | Performance management steps (coming soon)
 
 #### InSite 
 
-* [InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/coaching): Provides overall guidance to the performance management program.
+* [InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/coaching): Provides overall guidance to the performance management program
     * How To Set Effective Goals
     * Aligning Individual and Organizational Goals
     * Managers Guide For Developing Effective Performance Plans
