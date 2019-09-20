@@ -121,3 +121,8 @@ There is also a shared calendar. If it doesn't show up in Google Calendar alread
 ## Who works here?
 
 You can find everyone who works in the [#nyc](https://gsa-tts.slack.com/messages/nyc/) channel in Slack.
+
+## How do people dress?
+
+TTS folx in the office usually range from casual t-shirts to business casual (jeans and a collared shirts, or blouse). Suits would not be out of place, but are not universal (and pretty rare for TTS folks when we come into the office). The office can be a little cold so cardigans, blazers, or sportscoats (sweaters and hoodies are pretty common, too). On your first day, folks from other parts of GSA will mostly be dressed business casual. Your first step onboarding includes being sworn in as a civil servant, which in the New York office likely takes place while looking over New York Harbor with a view of the Statue of Liberty. Some felt it was hokey, others were moved, many felt both. Several were glad they dressed for the occasion. We care more that you are comfortable and confident as yourself rather than following someone’s particular rules of formality.
+And yes, you should totally feel free to dye your hair in rainbow colors and rock that undercut. You be you.
