@@ -43,9 +43,9 @@ Supervisor checklist | Performance management steps (coming soon)
 * A GSA employee is eligible to be rated by their official Supervisor  if they have been on an established Performance Plan for 120 days, beginning with the date that the Supervisor signed the employee’s performance plan.
    * ***Note:*** TTS employees who have established a performance plan **before July 17** are eligible to close out their FY19 Performance Plan during the October 1 - November 14 end-of-year performance review cycle.
    
-## Who is eligible for the end of year performance bonus?
+### Who is eligible for the end of year performance bonus?
 
-* This section will be updated once final guidance has been issued by OHRM.
+* This content will be updated once final guidance has been issued by OHRM.
 
 ## Employee resources
 
