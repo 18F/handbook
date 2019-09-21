@@ -79,6 +79,12 @@ Digital.gov [hosts several mailing list communities](http://digital.gov/communit
 
 {% include dg-communities.html %}
 
+### Open Source Community of Practice
+**About:** This listserv has been established to expand the opportunities for the open source community to
+communicate with each other beyond events and working groups held by the Code.gov staff
+during the year.
+
+**To join:** Email CODE-subscribe-request@listserv.gsa.gov with no subject or text in the body and it will add you. You should receive a confirmation.
 
 ### Other groups within the U.S. government
 
