@@ -115,6 +115,8 @@ Further funeral leave information can be found in OPM's Fact Sheets:
 
 Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds like.  Employees can request unpaid leave of less than four weeks at any time.  To take a leave of absence without pay, you'll need justification, supervisory oversight, and, for longer terms, supervisory approval.
 
+* [Fact Sheet: Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status) on Federal Benefits and Programs](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/)
+
 ### Parental leave
 
 Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for more information.
