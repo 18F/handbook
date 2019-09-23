@@ -105,6 +105,7 @@ Follow the standard process for track expenses for travel, food, and other appro
 *   Flights
 *   Food up to $25/day travel days
 *   Food up to $50 for Saturday coworking
+*   Travel to/from airports (please consider public transportation)
 *   Materials you’ve been asked to purchase by the Summit planning team
 
 ##### Already covered by CivicActions:
