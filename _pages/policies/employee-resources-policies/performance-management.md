@@ -49,7 +49,7 @@ Supervisor checklist | Performance management steps (coming soon)
 
 ## HR Links performance management steps
 
-### Nominating a participant reviewer
+### Nominating participant reviewer(s)
 This process allows supervisors and employees to [solicit feedback](https://drive.google.com/open?id=1O3G3fa2ezbz_SUqBRT3OZRt0QPrLapl6) from other supervisors or colleagues regarding their Performance Plan. HR Links allows both employees and supervisors to nominate and track participant reviews; however, only supervisors can submit a nomination.  Once nominated, participant reviewers receive a notification alerting them of the evaluation request. The supervisor is required to nominate and approve all the feedback coming into the performance record. Once the nominee accepts and sends the feedback they can view the feedback. The participant user will not see any of the employee appraisal information issued by any of the other users.
 
 * Step-by-step instructions:
