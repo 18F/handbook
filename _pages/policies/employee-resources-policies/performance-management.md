@@ -47,6 +47,40 @@ Supervisor checklist | Performance management steps (coming soon)
 
 * This content will be updated once final guidance has been issued by OHRM.
 
+## HR Links performance management steps
+
+### Nominating a participant reviewer
+This process allows supervisors and employees to [solicit feedback](https://drive.google.com/open?id=1O3G3fa2ezbz_SUqBRT3OZRt0QPrLapl6) from other supervisors or colleagues regarding their Performance Plan. HR Links allows both employees and supervisors to nominate and track participant reviews; however, only supervisors can submit a nomination.  Once nominated, participant reviewers receive a notification alerting them of the evaluation request. The supervisor is required to nominate and approve all the feedback coming into the performance record. Once the nominee accepts and sends the feedback they can view the feedback. The participant user will not see any of the employee appraisal information issued by any of the other users.
+
+* Step-by-step instructions:
+  * [Employee](https://drive.google.com/open?id=1fjHqo20p18WOqChlSM6ORtuw6gkjnvAY)
+  * [Supervisor](https://drive.google.com/open?id=1VkYy2W47wiK4f9j8UI_Yyw7FlWLpFE2v)
+
+* HR Links in-depth guide:
+  * [Employee (Section 3, Topic 3.1 & 3.2)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
+  * [Supervisor (Section 3, Topic 3.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
+
+### Creating a performance plan
+
+* Step-by-step instructions:
+  * [Employee](https://drive.google.com/open?id=1ljNaoVzZajW4REwaWDOmGdahwASStVta)
+  * [Supervisor](https://drive.google.com/open?id=1Y-u6y_Fw4Zn0E4BjyEDkJp6oqCmffAa_)
+  
+* HR Links in-depth guide:
+  * [Supervisor (Section 1, Topic 1.1)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
+  
+### Updating a performance plan
+
+### Acknowledging a performance plan
+
+### Entering a self-assessment
+
+### Submitting an evaluation
+
+
+
+
+
 ## Employee resources
 
 ### Employee performance management checklist
@@ -150,6 +184,10 @@ Supervisor checklist | Performance management steps (coming soon)
 To initiate this process, reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov), TTS’s Employee & Labor Relations Specialist.  Lakita will work directly with you to create the PIP/PAP for your team member; supporting [documentation](https://drive.google.com/open?id=1A0V_EX5dFwtmMVrfGKJ9DxPM9_3vF49MRD5LKImIkb8) will need to be submitted to Lakita for review when creating the PIP/PAP.
 
 The fully vetted PIP/PAP must be issued to the employee **by the last working day of the FY19 performance cycle, September 30, 2019**.  Please note that PIP/PAPs must be reviewed by Legal, which takes a few days, before those plans can be presented to the employee.
+
+### Cancelling an HR Links evaluation
+
+The only time a supervisor may want to cancel an evaluation is when an employee separates and evaluation cannot be completed or it’s not necessary.  Only and HR Admin can cancel “submitted” evaluations.  Please reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov) to initiate this process.
 
 --------------------------------------------------------------------------------
 
