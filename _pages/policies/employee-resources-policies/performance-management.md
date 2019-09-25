@@ -85,7 +85,7 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 
 * Step-by-step instructions:
   * [Employee](https://drive.google.com/open?id=1ufl4ZdADRjQH47j5VcYiWP8z1PLoSu2P)
-  * Supervisor: See employee instructions above
+  * No action required by supervisor
  
 * HR Links in-depth guide:
   * [Employee (Section 3, Topic 3.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
@@ -96,7 +96,7 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 ### Submitting an evaluation
 
 * Step-by-step instructions:
-  * Does not apply to employees
+  * No action required by employee
   * [Supervisor](https://drive.google.com/open?id=1It6Pmk317g-zIg_TVMCJAlyqwzcRp0DX)
   
 * HR Links in-depth guide:
@@ -106,6 +106,11 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 
 * Step-by-step instructions:
   * [Employee](https://drive.google.com/open?id=1NkeA_b6BSo2B-b6E3q8mCLcgPSH6PM3Z)
+  * No action required by supervisor
+  
+### Establishing a performance plan for the new fiscal year
+
+*Content to be added*
 
 ## Employee resources
 
