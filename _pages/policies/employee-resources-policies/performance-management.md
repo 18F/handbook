@@ -141,6 +141,11 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 
 * Supporting documentation, such as examples of your work and any other elements that align with your Performance Management Plan, is ***optional*** for the performance review process.  This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7.
 
+#### TTS performance rating tool
+*Guidance coming soon*
+
+* [Performance rating tool](https://drive.google.com/open?id=1ayWnEowb8b9KT6rlQC9BwLLeV4ZkVVLRk4BBaY0LvGA)
+
 ### Training
 
 * Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:
