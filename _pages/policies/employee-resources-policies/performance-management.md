@@ -71,15 +71,41 @@ This process allows supervisors and employees to [solicit feedback](https://driv
   
 ### Updating a performance plan
 
+* Step-by-step instructions:
+  * [Employee](https://drive.google.com/open?id=1ljNaoVzZajW4REwaWDOmGdahwASStVta)
+  * [Supervisor](https://drive.google.com/open?id=1OQ2WVjOwlxdPVqI03QQDHlIN-R8YFefU)
+
 ### Acknowledging a performance plan
+
+* Step-by-step instructions:
+  * [Employee](https://drive.google.com/open?id=1sTO1lO8FAEpiaNhwIW9tOWRfDHu4kQ7a)
+  * [Supervisor](https://drive.google.com/open?id=1extqfGZlV1-pFy_ZFlLSC9gJqkszRY3M)
 
 ### Entering a self-assessment
 
+* Step-by-step instructions:
+  * [Employee](https://drive.google.com/open?id=1ufl4ZdADRjQH47j5VcYiWP8z1PLoSu2P)
+  * Supervisor: See employee instructions above
+ 
+* HR Links in-depth guide:
+  * [Employee (Section 3, Topic 3.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
+  
+* Additional resource guide:
+  * [GSA Employee Guide to Writing an Effective Self-Assessment](https://drive.google.com/open?id=1EFwZLMB4qZLZdz98NKGV-TLnJrquLiqo)
+
 ### Submitting an evaluation
 
+* Step-by-step instructions:
+  * Does not apply to employees
+  * [Supervisor](https://drive.google.com/open?id=1It6Pmk317g-zIg_TVMCJAlyqwzcRp0DX)
+  
+* HR Links in-depth guide:
+  * [Supervisor (Section 3, Topic 3.4)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
+  
+### Acknowledging an evaluation
 
-
-
+* Step-by-step instructions:
+  * [Employee](https://drive.google.com/open?id=1NkeA_b6BSo2B-b6E3q8mCLcgPSH6PM3Z)
 
 ## Employee resources
 
@@ -90,6 +116,8 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 ### Guidance
 
 #### [InSite](https://insite.gsa.gov) 
+
+* [InSite Performance Plan FAQ](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/policies/associate-performance-plan-and-appraisal-system-appas-faqs)
 
 * [InSite Performance Management Guide](https://insite.gsa.gov/topics/hr-pay-and-leave/employee-performance-management): Provides overall guidance to the performance management program
     * How To Set Effective Goals
@@ -112,10 +140,6 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 #### Gather supporting documentation
 
 * Supporting documentation, such as examples of your work and any other elements that align with your Performance Management Plan, is ***optional*** for the performance review process.  This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7.
-
-#### Nominate participant reviewer(s)
-
-* Content coming soon.
 
 ### Training
 
@@ -141,7 +165,11 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 
 ### Guidance
 
-* [InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/planning-performance): Provides overall guidance to the performance management program.
+#### [InSite](https://insite.gsa.gov) 
+
+* [InSite Performance Plan FAQ](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/policies/associate-performance-plan-and-appraisal-system-appas-faqs)
+
+* [InSite Performance Management Guide](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/planning-performance): Provides overall guidance to the performance management program.
     * Workforce Planning Performance Management Guide
     * Managers Guide For Developing Effective Performance Plans
     * How To Set Effective Goals
@@ -156,6 +184,14 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 * [Support for developing the employee's performance plan](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/resources/performance-plans)
     * [Standard performance plan templates](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/resources/performance-plans) are available for some occupations/grades.  
     * For entry level positions (GS-5 through GS-9) not covered by the standard plans, follow the instructions to incorporate GSA's common core critical elements into the plan.  
+
+#### [HR Links](https://hrlinks.gsa.gov/)
+
+* [Technical HR Links assistance](https://corporateapps.gsa.gov/hr-links/support/)
+  
+* Instructions if you receive the error message "The document could not be created as the employee is not hired yet. Please contact your system administrator to check the Job record to make sure employee is hired before period begin date of the document.":
+  *The rating period begin must be set after the hire date in HR Links.  It is recommended that the supervisor copy the overall performance comments into HR Links because the comments will then populate on Form 3440 to support the overall rating*
+
 * [HR Links](http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-24-Performance-Management-for-Supervisors_FINAL_v2.docx): Guide for entering all components of a performance review into HR Links
 * To learn more about the specifics of the bargaining agreements, refer to [AFGE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/american-federation-of-government-employees-national-agreement) or the [NFFE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/national-federation-of-federal-employees-national-agreement).
 
