@@ -23,7 +23,7 @@ The Federal Information Technology Acquisition Reform Act (FITARA) was enacted o
 
 The objective of FITARA is to improve the management of IT within an agency and hence, improve the ability for that agency to deliver its mission and conduct its business.
 
-## OMB Guidance: FITARA
+## OMB guidance
 
 The Office of Management and Budget (OMB) has drafted guidance to implement FITARA, Management and Oversight of Federal Information Technology M-15-14.
 The objectives of the requirements outlined in this memorandum are to:
@@ -39,11 +39,11 @@ The objectives of the requirements outlined in this memorandum are to:
 9. Provide transparency on IT resources across entire agencies and programs; and
 10. Provide appropriate visibility and involvement of the agency CIO in the management and oversight of IT resources across the agency to support the successful implementation of cybersecurity policies to prevent interruption or exploitation of program services.
 
-## OCIO Guidance: FITARA
+## OCIO guidance
 
 Reference the [FITARA Rules Matrix](https://docs.google.com/spreadsheets/d/1qFH5UJyAtxgylZcvIODnGYtI66p6qekXiQ95JOtOnMI/edit#gid=912065849). Note: this matrix does not represent all possible scenarios. When necessary, consult with your oganization's FITARA representative accordingly for further guidance.
 
-## TTS Guidance: FITARA
+## TTS guidance
 
 TTS issued policy effective February 28, 2017, implementing the policy and process for GSA Chief Information Officer FITARA review, [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1vUaxBn8miL2St1MnAV2jVyf5lteHqrl3XSRFD8DwEgU/edit):
 
