@@ -40,7 +40,7 @@ Supervisor checklist | Performance management steps (coming soon)
 
 ## Who participates in the end of year performance review?
 
-* A GSA employee is eligible to be rated by their official Supervisor  if they have been on an established Performance Plan for 120 days, beginning with the date that the Supervisor signed the employee’s performance plan.
+* A GSA employee is eligible to be rated by their official Supervisor if they have been on an established Performance Plan for 120 days, beginning with the date that the employee acknowledged the performance plan that was signed by their Supervisor.
    * ***Note:*** TTS employees who have established a performance plan **before July 17** are eligible to close out their FY19 Performance Plan during the October 1 - November 14 end-of-year performance review cycle.
    
 ### Who is eligible for the end of year performance bonus?
@@ -50,7 +50,9 @@ Supervisor checklist | Performance management steps (coming soon)
 ## HR Links performance management steps
 
 ### Nominating participant reviewer(s)
-This process allows supervisors and employees to [solicit feedback](https://drive.google.com/open?id=1O3G3fa2ezbz_SUqBRT3OZRt0QPrLapl6) from other supervisors or colleagues regarding their Performance Plan. HR Links allows both employees and supervisors to nominate and track participant reviews; however, only supervisors can submit a nomination.  Once nominated, participant reviewers receive a notification alerting them of the evaluation request. The supervisor is required to nominate and approve all the feedback coming into the performance record. Once the nominee accepts and sends the feedback they can view the feedback. The participant user will not see any of the employee appraisal information issued by any of the other users.
+This process allows supervisors and employees to [solicit feedback](https://drive.google.com/open?id=1O3G3fa2ezbz_SUqBRT3OZRt0QPrLapl6) from other supervisors or colleagues regarding their Performance Plan. HR Links allows both employees and supervisors to nominate and track participant reviews; however, only supervisors can officially submit a nomination.  If an employee nominates another employee for feedback on their performance, the nomination is submitted to the supervisor for approval.
+
+Once nominated, participant reviewers receive a notification alerting them of the evaluation request. The supervisor is required to nominate and approve all the feedback coming into the performance record. Once the nominee accepts and sends the feedback they can view the feedback. The participant user will not see any of the employee appraisal information issued by any of the other users.
 
 * Step-by-step instructions:
   * [Employee](https://drive.google.com/open?id=1fjHqo20p18WOqChlSM6ORtuw6gkjnvAY)
@@ -64,6 +66,7 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 
 * Step-by-step instructions:
   * [Employee](https://drive.google.com/open?id=1ljNaoVzZajW4REwaWDOmGdahwASStVta)
+    * *Note: Supervisors should create a new or clone an existing Peformance Plan for their direct report(s)*
   * [Supervisor](https://drive.google.com/open?id=1Y-u6y_Fw4Zn0E4BjyEDkJp6oqCmffAa_)
   
 * HR Links in-depth guide:
@@ -80,6 +83,9 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 * Step-by-step instructions:
   * [Employee](https://drive.google.com/open?id=1sTO1lO8FAEpiaNhwIW9tOWRfDHu4kQ7a)
   * [Supervisor](https://drive.google.com/open?id=1extqfGZlV1-pFy_ZFlLSC9gJqkszRY3M)
+* HR Links in-depth guide:
+  * [Employee (Section 1, Topic 1.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
+  * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
 ### Entering a self-assessment
 
@@ -108,9 +114,17 @@ This process allows supervisors and employees to [solicit feedback](https://driv
   * [Employee](https://drive.google.com/open?id=1NkeA_b6BSo2B-b6E3q8mCLcgPSH6PM3Z)
   * No action required by supervisor
   
+* HR Links in-depth guide:
+  * [Employee (Section 3, Topic 3.4)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
+  
 ### Establishing a performance plan for the new fiscal year
+Employees have the option to update duty specific measures and/or weights when establishing their FY20 performance plans in HR Links:
 
-*Content to be added*
+  * Employee will discuss performance plan updates with their supervisor during their 1:1 performance review session     
+  * Supervisor will "clone" their direct report's FY19 performance plan and complete the “sign and submit” process in HR Links
+  * The employee can then [update]({{site.baseurl}}/performance-management/#updating-a-performance-plan), discuss, and finally [“acknowledge”]({{site.baseurl}}/performance-management/#acknowledging-a-performance-plan) their FY20 performance plan 
+
+*Note: FY20 performance plans may be further modified in the first few months of the new fiscal year to account for any updates to TTS and/or Business Unit level specific measure that leadership determines necessary. If this takes place, performance plans will need to be updated and re-established so that employees can be rated against those updated performance plans.*
 
 ## Employee resources
 
@@ -147,9 +161,13 @@ This process allows supervisors and employees to [solicit feedback](https://driv
 * Supporting documentation, such as examples of your work and any other elements that align with your Performance Management Plan, is ***optional*** for the performance review process.  This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7.
 
 #### TTS performance rating tool
-*Guidance coming soon*
+Use of this tool is optional but can be helpful in determining what your end-of-year rating may be once the performance review is complete. This tool can be used as a reference during your 1:1 performance review session with your supervisor. Note that your supervisor will make final rating determinations on all specific measures associated with your performance plan.
 
 * [Performance rating tool](https://drive.google.com/open?id=1ayWnEowb8b9KT6rlQC9BwLLeV4ZkVVLRk4BBaY0LvGA)
+  1. Make a copy of the tool 
+  1. Personalize the template corresponding to your performance plan structure and weight distribution
+  1. Assign a performance rating to your specific measures within each of the five critical elements
+    * The tool will calculate your overall rating for each critical element and automatically populate the summary tab to produce an overall performance rating.  
 
 ### Training
 
