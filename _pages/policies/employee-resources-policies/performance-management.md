@@ -131,6 +131,7 @@ Employees have the option to update duty specific measures and/or weights when e
 ### Employee performance management checklist
 
 * Use the Employee performance management checklist (coming soon) to guide you through the end of FY19 performance review
+  * *NOTE: Items highlighted in green are particularly important steps*
 
 ### Guidance
 
