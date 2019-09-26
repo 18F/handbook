@@ -10,7 +10,9 @@ _The objective of FITARA policy is to improve the management of IT within an age
 
 ## What is FITARA
 
-The Federal Information Technology Acquisition Reform Act (FITARA) was enacted on December 19, 2014, and outlines specific requirements related to:
+The [Federal IT Acquisition Reform Act](https://management.cio.gov/), or FITARA, is U.S. legislation enacted on December 19, 2014 that puts federal agency CIOs in control of IT investments. What does that mean? It means that the CIO (Chief Information Officer) and CTO (Chief Technology Officer) need to give documented approval of an IT purchase to remain compliant with this act.
+
+More broadly, FITARA outlines specific requirements related to:
 
 1. CIO authority enhancements
 2. Enhanced transparency and improved risk management in IT investments
@@ -22,6 +24,18 @@ The Federal Information Technology Acquisition Reform Act (FITARA) was enacted o
    The goal of FITARA is to eliminate duplication and waste in information technology acquisition for the federal government. The goals of the legislation – reduction of duplicative systems, examine software licensing options, making the business case for acquisition, and the consolidation of data centers.
 
 The objective of FITARA is to improve the management of IT within an agency and hence, improve the ability for that agency to deliver its mission and conduct its business.
+
+## Does my software require FITARA?
+
+Want to know if your software requires FITARA? That’s easy, almost all of them do! According to the CTO, at GSA we require FITARA approval for every single purchase you make.
+
+**Note:** There are some exceptions, such as Dotgov domains or Professional Services (ex. Gengo Translation Services is an online subscription that bills monthly but is essentially a professional services). But **it is up to the AO or CTO to determine if it is necessary**.
+
+## Approvals
+
+Now, how to get that approval? Simple! Enter the software on the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA. The CTO will reply with their approval to route to the CIO. You will need to enter the information into a PDF template and route it to the CIO via ESign. Once they complete the package, you have FITARA approval. Upload the PDF from ESign into C2.
+
+If you are curious where your software is in terms of review, check out the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA.
 
 ## OMB guidance
 
