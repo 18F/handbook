@@ -28,7 +28,7 @@ November 14 | End of Year Close Out Due Date. Supervisors and employees complete
 
 Resource | Use
 -------|--------
-Employee checklist | Performance management steps (coming soon)
+[Employee checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) | Performance management steps
 Supervisor checklist | Performance management steps (coming soon)
 [Employee Step-by-Step HR Links Guide](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#) | Entering performance review steps into HR Links
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
@@ -129,9 +129,9 @@ Employees have the option to update duty specific measures and/or weights when e
 
 ## Employee resources
 
-### Employee performance management checklist
+### [Employee performance management checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538)
 
-* Use the Employee performance management checklist (coming soon) to guide you through the end of FY19 performance review
+* Use the [Employee performance management checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) (please make a copy!) to guide you through the end of FY19 performance review process
   * *NOTE: Items highlighted in green are particularly important steps*
 
 ### Guidance
