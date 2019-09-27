@@ -247,7 +247,7 @@ Use of this tool is optional but can be helpful in determining what your end-of-
 
 ### Performance improvement plans
 
-To initiate this process, reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov), TTS’s Employee & Labor Relations Specialist.  Lakita will work directly with you to create the PIP/PAP for your team member; supporting [documentation](https://drive.google.com/open?id=1A0V_EX5dFwtmMVrfGKJ9DxPM9_3vF49MRD5LKImIkb8) will need to be submitted to Lakita for review when creating the PIP/PAP.
+Employees who will be rated at Level 1 or 2 in any category on their FY19 Performance Plan must be issued a Performance Improvement Plan (PIP)[Level 1 rating] or Performance Action Plan (PAP)[Level 2 rating].  To initiate this process, reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov), TTS’s Employee & Labor Relations Specialist.  Lakita will work directly with you to create the PIP/PAP for your team member; supporting [documentation](https://drive.google.com/open?id=1A0V_EX5dFwtmMVrfGKJ9DxPM9_3vF49MRD5LKImIkb8) will need to be submitted to Lakita for review when creating the PIP/PAP.
 
 The fully vetted PIP/PAP must be issued to the employee **by the last working day of the FY19 performance cycle, September 30, 2019**.  Please note that PIP/PAPs must be reviewed by Legal, which takes a few days, before those plans can be presented to the employee.
 
