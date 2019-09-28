@@ -255,7 +255,7 @@ The fully vetted PIP/PAP must be issued to the employee **by the last working da
 
 In preparation for the FY19 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in [this survey](https://forms.gle/oLJJcZ4Cf3DdUGHy8).
 
-All Supervisors should complete this audit by COB September 24th, so please fill out the above survey if you have not yet.
+All supervisors should complete this audit by COB September 24th, so please fill out the above survey if you have not yet.
 
 ### Supervisors’ Lounge Question and Answer Sessions
 
