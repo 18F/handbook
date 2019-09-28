@@ -251,6 +251,20 @@ Employees who will be rated at Level 1 or 2 in any category on their FY19 Perfor
 
 The fully vetted PIP/PAP must be issued to the employee **by the last working day of the FY19 performance cycle, September 30, 2019**.  Please note that PIP/PAPs must be reviewed by Legal, which takes a few days, before those plans can be presented to the employee.
 
+### Verifying your direct reports
+
+In preparation for the FY19 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in [this survey](https://forms.gle/oLJJcZ4Cf3DdUGHy8).
+
+All supervisors should complete this audit by COB September 24th, so please fill out the above survey if you have not yet.
+
+### Supervisors’ Lounge Question and Answer Sessions
+
+These sessions will feature a demo showing how to incorporate organizational measures into the performance plan.  Both sessions will go over the same content, so Supervisors can attend either one.
+
+[Thursday, October 3rd, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394131%26fromSF%3dY&company=GSAHCM03)
+
+[Thursday, October 31st, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394132%26fromSF%3dY&company=GSAHCM03)
+
 ### Cancelling an HR Links evaluation
 
 The only time a supervisor may want to cancel an evaluation is when an employee separates and evaluation cannot be completed or it’s not necessary.  Only and HR Admin can cancel “submitted” evaluations.  Please reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov) to initiate this process.
