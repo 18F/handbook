@@ -232,7 +232,7 @@ navigation:
       - text: AnyConnect (VPN client)
         url: anyconnect/
         internal: true
-      - text: eSign (digital signatures)
+      - text: DocuSign (digital signatures; replaced eSign)
         url: https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/software-and-applications/digital-signatures?term=eSignLive
         internal: false
       - text: Federalist (publishing platform)
