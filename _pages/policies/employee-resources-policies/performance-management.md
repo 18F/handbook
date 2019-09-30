@@ -259,7 +259,7 @@ All supervisors should complete this audit by COB September 24th, so please fill
 
 ### Supervisors’ Lounge Question and Answer Sessions
 
-These sessions will feature a demo showing how to incorporate organizational measures into the performance plan.  Both sessions will go over the same content, so Supervisors can attend either one.
+These sessions will feature a demo showing how to incorporate organizational measures into the performance plan.  Both sessions will go over the same content, so Supervisors can attend either one.  The links below lead to OLU where you can sign up for a session:
 
 [Thursday, October 3rd, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394131%26fromSF%3dY&company=GSAHCM03)
 
