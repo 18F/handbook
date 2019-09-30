@@ -14,7 +14,7 @@ This page contains performance management quicklinks, important dates, and guida
 
 Date | Item
 -------|-------
-September 31 | End of FY2019 performance cycle
+September 30 | End of FY2019 performance cycle
 October 1 | FY2020 performance cycle begins
 October 1 | Internal ask for employees to begin their self-assessment
 October 22 | Self-assessment submittal due date
