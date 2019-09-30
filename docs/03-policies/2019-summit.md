@@ -46,38 +46,38 @@ Delivery teams work to maintain billable hours.
 Travel day for team members arriving in Portland. 4pm check-in time at Hampton Inn Pearl District Hotel.
 
 #### Wednesday 10/2
-8:30 - 8:45	Arrive at event space
-9:00 - 10:00  	Welcome and context
-10:00 - 12:30	Whole group sessions
-12:30 - 1:30	Lunch (catered sandwiches / salads)
-1:30 - 2:45	Whole group sessions
-2:45 - 5:15	Open Space sessions and reports
-5:15 - 7:00	Closing / personal time
-7:00 - 9:00	Group dinner at [Pine Street Market](https://goo.gl/maps/hY5XGG8Nx1g2S9MMA)
+*   **8:30 - 8:45**	Arrive at event space
+*   **9:00 - 10:00**  	Welcome and context
+*   **10:00 - 12:30**	Whole group sessions
+*   **12:30 - 1:30**	Lunch (catered sandwiches / salads)
+*   **1:30 - 2:45**	Whole group sessions
+*   **2:45 - 5:15**	Open Space sessions and reports
+*   **5:15 - 7:00**	Closing / personal time
+*   **7:00 - 9:00**	Group dinner at [Pine Street Market](https://goo.gl/maps/hY5XGG8Nx1g2S9MMA)
 
 #### Thursday 10/3
-8:30 - 8:45	Arrive at event space
-9:00 - 11:15  	Whole group sessions
-11:15 - 1:15	Open Space sessions and reports
-1:15 - 1:45	Lunch (pizza comes to us in hotel lobby!)
-1:45 - 5:00	Afternoon activities (small groups)
-5:00 - 6:30	Personal time
-6:30 - 8:00	Group dinner at [Portland Food Hall](https://goo.gl/maps/ELD5FYR9dWf7gZEV7)
+*   **8:30 - 8:45**	Arrive at event space
+*   **9:00 - 11:15**  Whole group sessions
+*   **11:15 - 1:15** Open Space sessions and reports
+*   **1:15 - 1:45**	Lunch (pizza comes to us in hotel lobby!)
+*   **1:45 - 5:00**	Afternoon activities (small groups)
+*   **5:00 - 6:30**	Personal time
+*   **6:30 - 8:00**	Group dinner at [Portland Food Hall](https://goo.gl/maps/ELD5FYR9dWf7gZEV7)
 
 #### Friday 10/4
-8:30 - 8:45	Arrive at event space
-9:00 - 10:30  	Whole group sessions
-10:30 - 12:00	Coin Ceremony Part 1
-12:00 - 1:00	Lunch (taco bar comes to us in hotel lobby!)
-1:00 - 2:30	Coin Ceremony Part 2
-2:45 - 4:45	Co-working on action items from Open Spaces
-4:45 - 5:30	Closing
-5:30 - 7:00	Personal time
-7:00 - 8:30	Dinner at [The Big Legrowlski](https://g.page/biglegrowlski?share) (catered)
-9:00 - 11:30pm  HOOTENANNY! (same place as dinner)
+*   **8:30 - 8:45**	Arrive at event space
+*   **9:00 - 10:30**  Whole group sessions
+*   **10:30 - 12:00**	Coin Ceremony Part 1
+*   **12:00 - 1:00**	Lunch (taco bar comes to us in hotel lobby!)
+*   **1:00 - 2:30**	Coin Ceremony Part 2
+*   **2:45 - 4:45**	Co-working on action items from Open Spaces
+*   **4:45 - 5:30**	Closing
+*   **5:30 - 7:00**	Personal time
+*   **7:00 - 8:30**	Dinner at [The Big Legrowlski](https://g.page/biglegrowlski?share) (catered)
+*   **9:00 - 11:30pm**  HOOTENANNY! (same place as dinner)
 
 #### Saturday 10/5
-*   12:00pm check-out of hotel for team members departing Portland
+*   **12:00pm** check-out of hotel for team members departing Portland
 *   Travel day 
 *   Co-working day for people who elect to stay
 *   [Info on post-summit co-working](https://docs.google.com/spreadsheets/d/1LAv9O-i1uYyLuVQHT7IIvnTlW_SIWo5NlpgAsfSL7i8/edit#gid=1324818371)
