@@ -1,0 +1,46 @@
+---
+title: Hiring Authorities
+tags:
+- Hiring
+- hiring
+---
+This page explains the different hiring path available to TTS
+
+## [Different hiring paths within the federal government](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/)
+
+## Competitive
+Roles that are posted on USA Jobs that do not have term limits. These roles allow you to obtain competitive status 
+* There are three ways we hire using the Competitive hiring authority  
+  * **Delegated Examining**  allows applicants from outside the federal government to apply to career roles. These roles must be posted on USA Jobs and veterans preference applies.
+  * Employees who have applied and become competitive are eligible to apply to **Merit Promotions**. This lets a current or former federal employee apply for a job without having to compete with general public or people with Veterans Preference. Instead, you compete with other competitive service employees. These roles must be posted on USA Jobs.
+  * If you have served in the **Peace Corps** for two years you are eligible to apply non-competitively.  This means you are only competing against other peace corp applicants, not the general public and veterans preference does not apply. 
+
+## Excepted Service 
+### Schedule A(r)
+The Schedule A(r) hiring authority are term appointments for a period between one and four years.
+Employees who are appointed under term appointments do not earn competitive status. These roles can be posted on our website, versus USA Jobs, and the way we collect and review resumes is different than that of the competitive service roles.
+
+## Schedule A(u)
+The Schedule A(u) authority can be used to hire term or perm employees. This hiring mechanism is used for hiring people with severe physical disabilities, psychiatric disabilities, and intellectual disabilities. This excepted authority is used to appoint persons with severe physical disabilities, psychiatric disabilities, and intellectual disabilities. Such individuals may qualify for conversion to permanent status after two years of satisfactory service. Severe physical disabilities include but are not limited to blindness, deafness, paralysis, missing limbs, epilepsy, dwarfism, and more.
+* There must be a hiring need identified by the Head of your office to use this authority and they will determine if the role should be term or career.
+* Read more [here](https://docs.google.com/document/d/1WnvPtg6QxcrX8UQZWBZhGiRfxWphl7Nd7oy5gPXrVaQ/edit?usp=sharing)
+
+## Direct Hiring Authority (DHA)
+The DHA can be advertised as term or perm. The Office of Personnel Management (OPM) can grant this type of hiring authority to federal agencies for filling vacancies in specific occupations, grade levels, and locations when it can be proven that there is a critical hiring need or a severe shortage of candidates. GSA has the authority to hire IT Specialist in the 2210 series. These roles must be posted on USA Jobs. 
+* Veterans preference does not apply
+* If role was posted within last 120 days, resumes can be submitted for candidates to be found qualified against announcement (PD they are being qualified against would have to be similar to one that was announced).
+
+## Veterans Preference
+Veterans’ preference is a Federal hiring law that requires certain veterans to receive special consideration
+in the hiring process. It applies to nearly all competitive and many excepted service positions and is distinct
+from the various veterans’ appointment authorities described above. Veterans’ preference is not a hiring
+authority; rather it is an entitlement that certain individuals (and relatives of individuals) earn based on
+their military service.<br>
+Based on their eligibility, individuals are categorized as either “5 Point” or “10 Point.”
+* 10 Point. This class applies to veterans that have a service-connected disability or who have the
+Purple Heart Award, and mothers and spouses of deceased or one hundred percent disabled
+veterans.
+* 5 Point. This class applies to veterans without a service-connected disability who meet other
+specific criteria. These criteria include the period, whether the veteran received a campaign or
+expeditionary medal, duration, and character of active duty military service.
+
