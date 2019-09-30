@@ -19,10 +19,10 @@ October 1 | FY2020 performance cycle begins
 October 1 | Internal ask for employees to begin their self-assessment
 October 22 | Self-assessment submittal due date
 October 23 | Audit of Employee self-assessment completion
-October 28 | Supervisor shares close out evaluation and performance plan for employee review and acknowledgement
+Oct 23 - Nov 7 | Supervisors hold 1:1 performance review meetings with their direct reports
 October 30 | Audit of Supervisor review completion
-November 7 | TTS Internal ask Due Date
-November 14 | End of Year Close Out Due Date. Supervisors and employees complete close out FY19 appraisals and issue FY2020 performance plans in HRLINKs. Employees Acknowledge or Supervisor overrides.
+November 7 | TTS Internal ask due date to close out FY19 performance plans
+November 14 | Official GSA end of year close out due date for FY19 performance plans in HR Links
 
 ## Performance management quick links
 
