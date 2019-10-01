@@ -8,14 +8,14 @@ title: Tock
 
 - **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F.
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
-- **18F Out of Office - #670:** Vacation time, federal holidays, or sick time
+- **Out of Office - #670:** Vacation time, federal holidays, or sick time
 - **18F Project work - project ID varies:** The specific projects you're working on.
 
 ## What is Tock, and why do we use it?
 
 To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
 
-TTS's business model is based on billing for time logged to a project. Every expense — salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on — is paid for by our billing, which is recorded by each person in Tock.
+18F's business model is based on billing for time logged to a project. Every expense — salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on — is paid for by our billing, which is recorded by each person in Tock.
 
 We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct partner!
 
@@ -49,8 +49,6 @@ Account managers can request the creation of a project in [#tock](https://gsa-tt
 ## Time tracking and billing
 
 ### What activities do I record billable hours for?
-
-_Exception to some of the items described: only those staffed to cloud.gov and login.gov may bill time to those projects._
 
 You **must** bill for the below activities because these are direct costs. This means they are directly bringing value to the partner agency you are working for. We have a legal obligation to bill for them. They include:
 
@@ -123,8 +121,7 @@ Working more than 32 billable hours is just fine! 32 is the minimum. However, we
 - Request overtime in #tock. The tock admin will adjust the Tock setting to allow for 40+ hours to be recorded
 - Work your week!
 - Log total hours in Tock
-- Log total hours in HRLinks. This is where your comp time will be recorded and from where you'll use it for future leave
-  - In HRLinks, you'll also need to navigate to `Request Absence/OT` and make a `Comp time earned` request for the extra hours you worked.
+- Log total hours in HRLinks. This is where your comp time will be recorded and from where you'll use it for future leave. In HRLinks, you'll also need to navigate to `Request Absence/OT` and make a `Comp time earned` request for the extra hours you worked.
 
 No matter how many hours you work, it is crucial that you accurately report those hours in Tock and receive compensation for that time. Knowing the actual amount of time you work helps us better scope and estimate costs and rates.
 
@@ -138,7 +135,7 @@ In short, we need to know if our scoping is accurate. We'd rather be over budget
 
 ### Tocking for Out of Office Time
 
-You cannot request paid time off in tock (see the Leave page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly tock. 18F staff should tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to tock line #670, 18F Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office. 
+You cannot request paid time off in tock (see the [Leave](../leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly tock. Staff should tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office. 
 
 If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your tock hours for you during your out of office period. Example:
 
