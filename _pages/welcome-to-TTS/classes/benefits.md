@@ -9,7 +9,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 ## Submitting benefit forms
 
 ### New hires
-Follow [these instructions] (https://docs.google.com/presentation/d/151w2MOgtbiskmN7I13UgjiHZk2VZuJmAPotwixpHTFQ/edit#slide=id.p) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) and reach out to [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) with any questions.
+Follow [these instructions](https://docs.google.com/presentation/d/151w2MOgtbiskmN7I13UgjiHZk2VZuJmAPotwixpHTFQ/edit#slide=id.p) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) and reach out to [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) with any questions.
 
 ### Current employees
 Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) when you're submitting documents due to a change in life event (such as getting married or having a child).
