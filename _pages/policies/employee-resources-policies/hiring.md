@@ -34,7 +34,7 @@ Talent will assist with the following:
 - Posting the announcement 
 - Submitting the PAR action to HR 
 
-Internal Hiring Actions - Best Practices & Recommendations
+**Internal Hiring Actions - Best Practices & Recommendations**
 
 - When conducting interviews, you may want to consider building a short [hiring guide](https://docs.google.com/document/d/1JNEMDfUjIpgK5mOl619XVVsxrXn7l9Vzcv-wKOnuwh4/edit) to help ensure that you are covering all of the areas necessary for the role and also to ensure a consistent candidate experience. 
 - When selecting an internal candidate you will need to have a discussion with their current supervisor regarding the following:
