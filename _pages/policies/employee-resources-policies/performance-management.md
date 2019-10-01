@@ -121,9 +121,13 @@ Once nominated, participant reviewers receive a notification alerting them of th
 ### Establishing a performance plan for the new fiscal year
 Employees have the option to update duty specific measures and/or weights when establishing their FY20 performance plans in HR Links:
 
-  * Employee will discuss performance plan updates with their supervisor during their 1:1 performance review session     
-  * Supervisor will "clone" their direct report's FY19 performance plan and complete the “sign and submit” process in HR Links
-  * The employee can then [update]({{site.baseurl}}/performance-management/#updating-a-performance-plan), discuss, and finally [“acknowledge”]({{site.baseurl}}/performance-management/#acknowledging-a-performance-plan) their FY20 performance plan 
+* Employee needs to review their FY19 performance plan that's been in place 120+ days and decide if/how they want to update measures and category weights
+* During 1:1 performance review session (in addition to finalizing the FY19 performance review):
+  * Employee discusses FY20 performance plan updates with their supervisor 
+  * Supervisor clones employee's FY19 plan to create a template for the FY20 plan
+  * Employee works with their Supervisor to make updates to the FY20 performance plan in HR Links
+  * Supervisor "signs and submits" the FY20 performance plan in HR Links
+* Employee should [“acknowledge”]({{site.baseurl}}/performance-management/#acknowledging-a-performance-plan) their FY20 performance plan by November 14
 
 *Note: FY20 performance plans may be further modified in the first few months of the new fiscal year to account for any updates to TTS and/or Business Unit level specific measure that leadership determines necessary. If this takes place, performance plans will need to be updated and re-established so that employees can be rated against those updated performance plans.*
 
