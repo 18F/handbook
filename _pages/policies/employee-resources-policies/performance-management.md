@@ -70,7 +70,7 @@ Once nominated, participant reviewers receive a notification alerting them of th
     * ***Note: Supervisors should create a new or clone an existing Peformance Plan for their direct report(s)***
   * [Supervisor](https://drive.google.com/open?id=1Y-u6y_Fw4Zn0E4BjyEDkJp6oqCmffAa_)
   
-* HR Links in-depth guide:
+* HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 1, Topic 1.1)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
   
 ### Updating a performance plan
@@ -84,7 +84,7 @@ Once nominated, participant reviewers receive a notification alerting them of th
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.u5b15qifcg0q)
   * [Supervisor](https://drive.google.com/open?id=1extqfGZlV1-pFy_ZFlLSC9gJqkszRY3M)
-* HR Links in-depth guide:
+* HR Links in-depth guide (with screenshots):
   * [Employee (Section 1, Topic 1.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
@@ -94,11 +94,29 @@ Once nominated, participant reviewers receive a notification alerting them of th
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.2bzg793t31vu)
   * No action required by supervisor
  
-* HR Links in-depth guide:
+* HR Links in-depth guide (with screenshots):
   * [Employee (Section 3, Topic 3.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   
 * Additional resource guide:
   * [GSA Employee Guide to Writing an Effective Self-Assessment](https://drive.google.com/open?id=1EFwZLMB4qZLZdz98NKGV-TLnJrquLiqo)
+  
+### Reviewing an employee self-assessment
+
+* Step-by-step instructions:
+  * No action required by employee
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.d8jbm2v7961l)
+  
+* HR Links in-depth guide (with screenshots):
+  * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
+  
+### Reviewing evaluations from participant reviewer(s)
+
+* Step-by-step instructions:
+  * No action required by employee, but an employee can view participant evaluations once they've been approved by their supervisor
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.6d9lhrhrk60)
+  
+ * HR Links in-depth guide (with screenshots):
+  * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)  
 
 ### Submitting an evaluation
 
@@ -106,7 +124,7 @@ Once nominated, participant reviewers receive a notification alerting them of th
   * No action required by employee
   * [Supervisor](https://drive.google.com/open?id=1It6Pmk317g-zIg_TVMCJAlyqwzcRp0DX)
   
-* HR Links in-depth guide:
+* HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 3, Topic 3.4)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
   
 ### Acknowledging an evaluation
@@ -115,7 +133,7 @@ Once nominated, participant reviewers receive a notification alerting them of th
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.6ykmn1ge2hlk)
   * No action required by supervisor
   
-* HR Links in-depth guide:
+* HR Links in-depth guide (with screenshots):
   * [Employee (Section 3, Topic 3.4)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   
 ### Establishing a performance plan for the new fiscal year
