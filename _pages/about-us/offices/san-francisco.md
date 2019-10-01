@@ -125,7 +125,7 @@ GSA onboarding is typically conducted on Mondays at 50 UN Plaza. TTS SF onboardi
 
 Whether you're new at TTS and are joining the SF office or you're a long-time TTS member relocating to SF, here's an office onboarding checklist for you:
 
-* If you would like a locker, or if you need a keyboard and mouse/trackpad for working with the office monitors, please email <mailto:britta.gustafson@gsa.gov>.
+* If you would like a locker, or if you need a keyboard and mouse/trackpad for working with the office monitors, please email <mailto:peter.rowland@gsa.gov>.
 * Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
 * Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
 * If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel for the link.
