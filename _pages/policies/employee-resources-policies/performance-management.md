@@ -57,36 +57,49 @@ Once nominated, participant reviewers receive a notification alerting them of th
 
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.66jqk17qcdw9)
-  * [Supervisor](https://drive.google.com/open?id=1VkYy2W47wiK4f9j8UI_Yyw7FlWLpFE2v)
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.vnlu3ebj2899)
 
 * HR Links in-depth guide:
   * [Employee (Section 3, Topic 3.1 & 3.2)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   * [Supervisor (Section 3, Topic 3.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Creating a performance plan
+### Creating a new performance plan
+In most cases, supervisors should own the creation of performance plans for direct reports.  This step applies to new empoloyees and existing employees who have recently changed roles and require a new performance plan. 
 
 * Step-by-step instructions:
   * [Employee](https://drive.google.com/open?id=1ljNaoVzZajW4REwaWDOmGdahwASStVta)
-    * ***Note: Supervisors should create a new or clone an existing Peformance Plan for their direct report(s)***
-  * [Supervisor](https://drive.google.com/open?id=1Y-u6y_Fw4Zn0E4BjyEDkJp6oqCmffAa_)
+    * ***Note: Supervisors should create a new or clone (see below) an existing Peformance Plan for their direct report(s)***
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.2bzg793t31vu)
   
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 1, Topic 1.1)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
   
-### Updating a performance plan
+### Copying an existing performance plan
+In most cases, supervisors should own the creation of performance plans for direct reports.  This step applies to employees that will be on a performance plan that is consistent with their prior year.
 
 * Step-by-step instructions:
-  * [Employee](https://drive.google.com/open?id=1ljNaoVzZajW4REwaWDOmGdahwASStVta)
-  * [Supervisor](https://drive.google.com/open?id=1OQ2WVjOwlxdPVqI03QQDHlIN-R8YFefU)
+  * No action required by employee
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.4ov23tpb7l01)
 
+### Submitting a performance plan for employee approval
+
+* Step-by-step instructions:
+  * No action required by employee
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.pv6kseqgrdqy)
+
+* HR Links in-depth guide (with screenshots):
+  * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
+  
 ### Acknowledging a performance plan
 
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.u5b15qifcg0q)
-  * [Supervisor](https://drive.google.com/open?id=1extqfGZlV1-pFy_ZFlLSC9gJqkszRY3M)
+  * No action required by supervisor
+    * Instructions to override employee acknowledgment can be found in the Supervisor in-depth guide below 
+
 * HR Links in-depth guide (with screenshots):
   * [Employee (Section 1, Topic 1.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
-  * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
+  * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi) 
 
 ### Entering a self-assessment
 
@@ -112,7 +125,8 @@ Once nominated, participant reviewers receive a notification alerting them of th
 ### Reviewing evaluations from participant reviewer(s)
 
 * Step-by-step instructions:
-  * No action required by employee, but an employee can view participant evaluations once they've been approved by their supervisor
+  * No action required by employee
+    * An employee can view participant evaluations once they've been approved by their supervisor
   * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.6d9lhrhrk60)
   
  * HR Links in-depth guide (with screenshots):
