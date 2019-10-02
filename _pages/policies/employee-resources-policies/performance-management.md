@@ -31,6 +31,7 @@ Resource | Use
 [Employee checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) | Performance management steps
 Supervisor checklist | Performance management steps (coming soon)
 [Employee Step-by-Step HR Links Guide](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#) | Entering performance review steps into HR Links
+[Supervisor Step-by-Step HR Links Guide](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.rjbyuflzo0ct) | Entering and processing performance review steps in HR Links
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
 [HR Links Guide](https://drive.google.com/file/d/1mn-3yC3tN5dC4ppDSoRFi41W1vWSZzGX/view) | Visual guide for entering all components of a performance review into HR Links
 [FY19 Performance Management Planning & Appraisal Master Schedule](https://docs.google.com/document/d/1uVbumuiMHLbvmdn5jbAkrvl6f4yD7h2jMbD_pbst8TQ/edit?ts=5ccc6b8f) | All FY19 dates
