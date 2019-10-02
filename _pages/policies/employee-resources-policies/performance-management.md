@@ -65,7 +65,7 @@ Once nominated, participant reviewers receive a notification alerting them of th
   * [Supervisor (Section 3, Topic 3.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
 ### Creating a new performance plan
-In most cases, supervisors should own the creation of performance plans for direct reports.  This step applies to new empoloyees and existing employees who have recently changed roles and require a new performance plan. 
+In most cases, supervisors should own the creation of performance plans for direct reports.  This step applies to employees who require a new performance plan such as new employees and existing employees who have recently changed roles. 
 
 * Step-by-step instructions:
   * [Employee](https://drive.google.com/open?id=1ljNaoVzZajW4REwaWDOmGdahwASStVta)
