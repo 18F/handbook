@@ -32,6 +32,8 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
+[Administrative Assistant - Noncompetitive Eligibility - Peace Corps/AmeriCorps VISTA](https://www.peacecorps.gov/returned-volunteers/careers/career-link/administrative-support-specialist/)
+
 ### Internal only competitions
 
 [18F Chief of Projects](https://docs.google.com/document/d/1QI3TcITeN9BXrqQkPCyQd7tUybhY7CGAPWRRvWcF5To/edit?ts=5d92820e) (Application open Oct 1 - Oct 8) 
