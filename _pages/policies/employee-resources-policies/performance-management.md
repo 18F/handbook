@@ -33,12 +33,12 @@ Supervisor checklist | Performance management steps (coming soon)
 [Employee Step-by-Step HR Links Guide](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#) | Entering performance review steps into HR Links
 [Supervisor Step-by-Step HR Links Guide](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.rjbyuflzo0ct) | Entering and processing performance review steps in HR Links
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
-[HR Links Guide](https://drive.google.com/file/d/1mn-3yC3tN5dC4ppDSoRFi41W1vWSZzGX/view) | Visual guide for entering all components of a performance review into HR Links
+[HR Links Employee Guide](https://drive.google.com/file/d/1mn-3yC3tN5dC4ppDSoRFi41W1vWSZzGX/view) | Visual guide for employees to enter components of a performance review into HR Links
+[HR Links Supervisor Guide](https://drive.google.com/file/d/15Xm9NF_KfcWN-ZxPomooowEAq51073Xi/view) | Visual guide for supervisors to enter components of a performance review into HR Links
 [FY19 Performance Management Planning & Appraisal Master Schedule](https://docs.google.com/document/d/1uVbumuiMHLbvmdn5jbAkrvl6f4yD7h2jMbD_pbst8TQ/edit?ts=5ccc6b8f) | All FY19 dates
 [Online Learning University (OLU) Non-supervisor](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dGSA%2dHRLINKS%2dPERF%2dMGMT%2dEMPLOYEE%26componentTypeID%3dWBT%26revisionDate%3d1533096000000%26fromSF%3dY&company=GSAHCM03) | Performance management trainings (Non-supervisory employees)
 [Online Learning University (OLU) Supervisor](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fhcm03.ns2cloud.com%2Fsf%2Flearning%3FdestUrl%3Dhttps%253a%252f%252fgsa%252dhcm03%252ens2cloud%252ecom%252flearning%252fuser%252fdeeplink%255fredirect%252ejsp%253flinkId%253dITEM%255fDETAILS%2526componentID%253dHR%252bLinks%25253A%252bPerformance%252bManageme%2526componentTypeID%253dWBT%2526revisionDate%253d1533096000000%2526fromSF%253dY%26company%3DGSAHCM03) | Performance management trainings (Supervisory employees)
 [Employee Performance Management](https://insite.gsa.gov/topics/hr-pay-and-leave/employee-performance-management) | InSite performance management resources
-[Standard performance plan templates](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/resources/performance-plans) | Examples for some roles/grades
 
 ## Who participates in the end of year performance review?
 
