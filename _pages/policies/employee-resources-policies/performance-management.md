@@ -137,7 +137,7 @@ In most cases, supervisors should own the creation of performance plans for dire
 
 * Step-by-step instructions:
   * No action required by employee
-  * [Supervisor](https://drive.google.com/open?id=1It6Pmk317g-zIg_TVMCJAlyqwzcRp0DX)
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.v9t4o16taxy8)
   
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 3, Topic 3.4)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
