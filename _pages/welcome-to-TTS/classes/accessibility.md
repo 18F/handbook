@@ -1,12 +1,13 @@
 ---
 title: Accessibility
+
 ---
 
 The federal government is accountable for making all of its products 508 compliant, which means everything we make (or buy) needs to be accessible to all users, regardless of their abilities or disabilities. This usually means making sure our products can be used with screen readers and alternate input devices, and that they’re logically easy to follow.
 
 ## Leadership
 
-[Nikki Lee](https://gsa-tts.slack.com/messages/@nkkl) and [David Stenger](https://gsa-tts.slack.com/messages/@davidstenger) lead the [accessibility guild](https://github.com/18F/accessibility).
+[Jacklynn Pham, 18F](https://gsa-tts.slack.com/messages/@Jacklynn) and [Toni Bonitto, TTS Solutions/DigitalGov](https://gsa-tts.slack.com/messages/@Toni) lead the [accessibility guild](https://github.com/18F/accessibility).
 
 ## Communication
 
