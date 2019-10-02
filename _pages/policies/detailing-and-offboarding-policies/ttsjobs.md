@@ -32,7 +32,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
-[Administrative Assistant - Peace Corp](https://www.peacecorps.gov/returned-volunteers/careers/career-link/administrative-support-specialist/)
+[Administrative Assistant - Noncompetitive Eligibility - Peace Corps/AmeriCorps VISTA](https://www.peacecorps.gov/returned-volunteers/careers/career-link/administrative-support-specialist/)
 
 ### Internal only competitions
 
