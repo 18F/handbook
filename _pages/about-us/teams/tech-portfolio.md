@@ -13,7 +13,8 @@ We also do things like:
 - Represent TTS on the [FAS Systems Governance Committee (FSGC)](https://drive.google.com/file/d/18zOMBK5bhmqt-Y3yGTKQ_QiiC_x9i5va/view?usp=sharing), i.e. vote on what technology projects get money from the [Acquisition Services Fund (ASF)](https://www.gsa.gov/reference/reports/budget-performance/annual-reports/agency-financial-report-2012/managements-discussion-and-analysis/financial-statements-analysis-and-summary/financial-results-by-major-fund-acquisition-services-fund)
 - Assist in [authorization](https://atos.open-control.org/steps/#step-5-authorize-information-system) of TTS systems to get their ATOs, improving that process along the way
 - Find where we may be duplicating effort or have gaps around technology, and if those are opportunities for TTS/GSA/government-wide shared services
-- In coordination with GSA IT, manage and support hardware and software procurements, approvals, and licenses (with Acquisition and Finance teams)
+- We manage and support [hardware]({{site.baseurl}}/equipment/) and [software]({{site.baseurl}}/software/) approvals, procurements, and users/licenses for TTS
+   - This is done in collaboration with Acquisition, Finance, and GSA IT
 - Make sure we are making the most of the data we collect and create, to make for better decisions within TTS and for our partners
 - Manage major [TTS infrastructure](https://before-you-ship.18f.gov/infrastructure/) and programs such as [Bug Bounty](https://hackerone.com/tts), [AWS](https://before-you-ship.18f.gov/infrastructure/aws/), New Relic, Twilio, etc.
 - Advise TTS leadership on technology-related matters
