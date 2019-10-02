@@ -198,7 +198,9 @@ Employees have the option to update duty specific measures and/or weights -with 
 
 #### Gather supporting documentation
 
-* Supporting documentation, such as examples of your work and any other elements that align with your Performance Management Plan, is ***optional*** for the performance review process.  This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7.
+Supporting documentation that aligns with your Performance Management Plan is ***optional*** for the performance review process. Examples of supporting documentation include emails, written performance counseling, customer feedback, survey results, supervisory notes, database/spreadsheets, and/or work samples within the current rating cycle.
+
+This information can be shared with your Supervisor during your 1:1 performance review conversation that will take place October 21 - November 7.
 
 #### TTS performance rating tool
 Use of this tool is optional but can be helpful in determining what your end-of-year rating may be once the performance review is complete. This tool can be used as a reference during your 1:1 performance review session with your supervisor. Note that your supervisor will make final rating determinations on all specific measures associated with your performance plan.
