@@ -12,13 +12,15 @@ This page explains the different hiring path available to TTS
 Roles that are posted on USA Jobs that do not have term limits. These roles allow you to obtain competitive status 
 * There are three ways we hire using the Competitive hiring authority  
   * **Delegated Examining**  allows applicants from outside the federal government to apply to career roles. These roles must be posted on USA Jobs and veterans preference applies.
-  * Employees who have applied and become competitive are eligible to apply to **Merit Promotions**. This lets a current or former federal employee apply for a job without having to compete with general public or people with Veterans Preference. Instead, you compete with other competitive service employees. These roles must be posted on USA Jobs.
+  * Employees who have applied and become competitive (are current career feds) are eligible to apply to **Merit Promotions**. This lets a current or former federal employee apply for a job without having to compete with general public or people with Veterans Preference. Instead, you compete with other competitive service employees. These roles must be posted on USA Jobs.
   * If you have served in the **Peace Corps** for two years you are eligible to apply non-competitively.  This means you are only competing against other peace corp applicants, not the general public and veterans preference does not apply. 
 
 ## Excepted Service 
 ### Schedule A(r)
 The Schedule A(r) hiring authority are term appointments for a period between one and four years.
 Employees who are appointed under term appointments do not earn competitive status. These roles can be posted on our website, versus USA Jobs, and the way we collect and review resumes is different than that of the competitive service roles.
+  * There are two way we hire using Schedule A(r): via posting a jon on [JoinTTS](https://join.tts.gsa.gov/) or via [Reserved Hire](https://drive.google.com/file/d/0B4J4Dpr2HVDsX2RKMjhtU1NuU2ZEUWoxU0NJWkhLbFVXejlv/view?usp=sharing)
+  * Once a role enters the Hiring Pipeline priotitization list, Talent and the HM discuss which avenue they would like to pursue for a given action.
 
 ## Schedule A(u)
 The Schedule A(u) authority can be used to hire term or perm employees. This hiring mechanism is used for hiring people with severe physical disabilities, psychiatric disabilities, and intellectual disabilities. This excepted authority is used to appoint persons with severe physical disabilities, psychiatric disabilities, and intellectual disabilities. Such individuals may qualify for conversion to permanent status after two years of satisfactory service. Severe physical disabilities include but are not limited to blindness, deafness, paralysis, missing limbs, epilepsy, dwarfism, and more.
@@ -26,7 +28,8 @@ The Schedule A(u) authority can be used to hire term or perm employees. This hir
 * Read more [here](https://docs.google.com/document/d/1WnvPtg6QxcrX8UQZWBZhGiRfxWphl7Nd7oy5gPXrVaQ/edit?usp=sharing)
 
 ## Direct Hiring Authority (DHA)
-The DHA can be advertised as term or perm. The Office of Personnel Management (OPM) can grant this type of hiring authority to federal agencies for filling vacancies in specific occupations, grade levels, and locations when it can be proven that there is a critical hiring need or a severe shortage of candidates. GSA has the authority to hire IT Specialist in the 2210 series. These roles must be posted on USA Jobs. 
+The DHA can be advertised as term or perm. The Office of Personnel Management (OPM) can grant this type of hiring authority to federal agencies for filling vacancies in specific occupations, grade levels, and locations when it can be proven that there is a critical hiring need or a severe shortage of candidates. These roles must be posted on USA Jobs. 
+* Currently, GSA has the authority to hire IT Specialist in the 2210 series via DHA until September 20, 2021. This allows us to advertise 2210 roles for an 8-year term only (no career option) and the IT Specialist (INFOSEC) role (no expiration date yet). 
 * Veterans preference does not apply
 * If role was posted within last 120 days, resumes can be submitted for candidates to be found qualified against announcement (PD they are being qualified against would have to be similar to one that was announced).
 
