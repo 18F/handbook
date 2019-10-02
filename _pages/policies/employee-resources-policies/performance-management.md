@@ -33,7 +33,7 @@ Supervisor checklist | Performance management steps (coming soon)
 [Employee Step-by-Step HR Links Guide](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#) | Entering performance review steps into HR Links
 [Supervisor Step-by-Step HR Links Guide](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.rjbyuflzo0ct) | Entering and processing performance review steps in HR Links
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
-[HR Links Employee Guide](https://drive.google.com/file/d/1mn-3yC3tN5dC4ppDSoRFi41W1vWSZzGX/view) | Visual guide for employees to enter components of a performance review into HR Links
+[HR Links Employee Guide](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view) | Visual guide for employees to enter components of a performance review into HR Links
 [HR Links Supervisor Guide](https://drive.google.com/file/d/15Xm9NF_KfcWN-ZxPomooowEAq51073Xi/view) | Visual guide for supervisors to enter components of a performance review into HR Links
 [FY19 Performance Management Planning & Appraisal Master Schedule](https://docs.google.com/document/d/1uVbumuiMHLbvmdn5jbAkrvl6f4yD7h2jMbD_pbst8TQ/edit?ts=5ccc6b8f) | All FY19 dates
 [Online Learning University (OLU) Non-supervisor](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dGSA%2dHRLINKS%2dPERF%2dMGMT%2dEMPLOYEE%26componentTypeID%3dWBT%26revisionDate%3d1533096000000%26fromSF%3dY&company=GSAHCM03) | Performance management trainings (Non-supervisory employees)
