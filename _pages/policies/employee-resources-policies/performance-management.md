@@ -152,14 +152,15 @@ In most cases, supervisors should own the creation of performance plans for dire
   * [Employee (Section 3, Topic 3.4)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   
 ### Establishing a performance plan for the new fiscal year
-Employees have the option to update duty specific measures and/or weights when establishing their FY20 performance plans in HR Links:
+Employees have the option to update duty specific measures and/or weights -with supervisor approval- when establishing their FY20 performance plans in HR Links:
 
 * Employee needs to review their FY19 performance plan that's been in place 120+ days and decide if/how they want to update measures and category weights
 * During 1:1 performance review session (in addition to finalizing the FY19 performance review):
-  * Employee discusses FY20 performance plan updates with their supervisor 
   * Supervisor clones employee's FY19 plan to create a template for the FY20 plan
+    * ***NOTE: FY19 Supervisors should clone all of their direct reports' performance plans to create, sign, and submit the FY20 plan even if an empoloyee will not be reporting into them in FY20 (i.e. post TTS reorg). If updates need to be make to the FY20 performance plan, the FY20 Supervisor will need to re-open the FY20 performance plan in HR Links (Supervisors will be notified via email when an employee has been reassigned to them). The FY20 supervisor should connect with new direct report(s) to discuss any potential changes to their FY20 performance plan.***
+  * Employee discusses FY20 performance plan updates with their supervisor
   * Employee works with their Supervisor to make updates to the FY20 performance plan in HR Links
-  * Supervisor "signs and submits" the FY20 performance plan in HR Links
+  * Supervisor ["signs and submits"]({{site.baseurl}}/performance-management/#submitting-a-performance-plan-for-employee-approval) the FY20 performance plan in HR Links
 * Employee should [“acknowledge”]({{site.baseurl}}/performance-management/#acknowledging-a-performance-plan) their FY20 performance plan by November 14
 
 *Note: FY20 performance plans may be further modified in the first few months of the new fiscal year to account for any updates to TTS and/or Business Unit level specific measure that leadership determines necessary. If this takes place, performance plans will need to be updated and re-established so that employees can be rated against those updated performance plans.*
