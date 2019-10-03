@@ -19,7 +19,7 @@ tags:
 
 TTS encourages all staff to attend conferences, speak at events and focus on professional development and training opportunities.
 
-Any "media" requests (like news or podcast interviews) are a separate process—forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov).
+Any media requests (like news or podcast interviews) are a separate process—forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov).
 
 ## Getting approval for a conference, event, or training
 
