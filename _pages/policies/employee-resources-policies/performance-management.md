@@ -299,7 +299,7 @@ All supervisors should complete this audit by COB September 24th, so please fill
 
 ### Leveraging diversity performance measure
 
-All FY20 **supervisory performance** plans must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fcorporateapps.gsa.gov%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F09%2FMandatoryLeadingPeopleCriticalElement_Supervisors.pdf) and/or attend a Supervisor's Lounge session (see below). 
+All FY20 **supervisory performance plans** must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fcorporateapps.gsa.gov%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F09%2FMandatoryLeadingPeopleCriticalElement_Supervisors.pdf) and/or attend a Supervisor's Lounge session (see below). 
 
 ### Supervisors’ Lounge Question and Answer Sessions
 
