@@ -297,9 +297,13 @@ In preparation for the FY19 End-of-Year Employee Performance Review Cycle, pleas
 
 All supervisors should complete this audit by COB September 24th, so please fill out the above survey if you have not yet.
 
+### Leveraging diversity performance measure
+
+All FY20 **supervisory performance** plans must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fcorporateapps.gsa.gov%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F09%2FMandatoryLeadingPeopleCriticalElement_Supervisors.pdf) and/or attend a Supervisor's Lounge session (see below). 
+
 ### Supervisors’ Lounge Question and Answer Sessions
 
-These sessions will feature a demo showing how to incorporate organizational measures into the performance plan.  Both sessions will go over the same content, so Supervisors can attend either one.  The links below lead to OLU where you can sign up for a session:
+These sessions will feature a demo showing how to incorporate organizational measures into the performance plan. Both sessions will go over the same content, so Supervisors can attend either one.  The links below lead to OLU where you can sign up for a session:
 
 [Thursday, October 3rd, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394131%26fromSF%3dY&company=GSAHCM03)
 
