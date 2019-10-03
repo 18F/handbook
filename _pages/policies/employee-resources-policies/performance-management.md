@@ -281,10 +281,7 @@ Use of this tool is optional but can be helpful in determining what your end-of-
     * Approve a Performance plan
     * Complete a Mid-Year Progress Review
     * Submit Employee Evaluation
-* [Supervisors’ Lounge Question and Answer Sessions](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dREC%5fSUPV%5fTRNG%5fRESO%26programSectionSysGUID%3d55b4deef%2d14f9%2d40bd%2dae85%2db681811290b9%26fromSF%3dY&company=GSAHCM03). Live, virtual, and interactive sessions are offered monthly for supervisors and managers. Join the Lounge to be kept informed of available training sessions.
-    * Engage and share knowledge with peers in the [Supervisors’ Lounge Private Chatter Group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93000000016Zo).
-    * Watch previously recorded Supervisors’ Lounge Question & Answer Sessions, located in the [Group Files](https://gsa.my.salesforce.com/_ui/core/chatter/content/GroupFileListPage?g=0F93000000016Zo).
-
+    
 ### Performance improvement plans
 
 Employees who will be rated at Level 1 or 2 in any category on their FY19 Performance Plan must be issued a Performance Improvement Plan (PIP)[Level 1 rating] or Performance Action Plan (PAP)[Level 2 rating].  To initiate this process, reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov), TTS’s Employee & Labor Relations Specialist.  Lakita will work directly with you to create the PIP/PAP for your team member; supporting [documentation](https://drive.google.com/open?id=1A0V_EX5dFwtmMVrfGKJ9DxPM9_3vF49MRD5LKImIkb8) will need to be submitted to Lakita for review when creating the PIP/PAP.
@@ -308,6 +305,11 @@ These sessions will feature a demo showing how to incorporate organizational mea
 [Thursday, October 3rd, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394131%26fromSF%3dY&company=GSAHCM03)
 
 [Thursday, October 31st, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394132%26fromSF%3dY&company=GSAHCM03)
+
+* Engage and share knowledge with peers in the [Supervisors’ Lounge Private Chatter Group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93000000016Zo).
+
+* Watch previously recorded Supervisors’ Lounge Question & Answer Sessions, located in the [Group Files](https://gsa.my.salesforce.com/_ui/core/chatter/content/GroupFileListPage?g=0F93000000016Zo).
+
 
 ### Cancelling an HR Links evaluation
 
