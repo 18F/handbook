@@ -288,17 +288,46 @@ In preparation for the FY19 End-of-Year Employee Performance Review Cycle, pleas
 
 All supervisors should complete this audit by COB September 24th, so please fill out the above survey if you have not yet.
 
-#### Leveraging diversity performance measure
+#### 1 on 1 performance discussion
 
-All FY20 **supervisory performance plans** must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fcorporateapps.gsa.gov%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F09%2FMandatoryLeadingPeopleCriticalElement_Supervisors.pdf) and/or attend a Supervisor's Lounge session (see below). 
+This meeting is an opportunity to rate, recognize and give your employees constructive feedback (formal or informal) regarding the results of their work within the established expectations, goals, and objectives outlined in the performance plan. See below for how to prepare for this meeting.
+
+#### Preparing for 1 on 1 performance discussion 
+
+Gather emails, written performance counseling, customer feedback, survey results, supervisory notes, database/spreadsheets, and/or work samples about the employee’s performance that you observed within the current rating cycle. Prepare feedback for your direct reports that's backed with specific data points and examples, regardless of whether it will be constructive criticism or praise. When providing constructive criticism, it is recommended that you have clear examples of the desired behavior. 
+
+Here’s a pre-feedback checklist you may want to consider:
+
+* Have you prepared a balanced list of key strengths and development areas to discuss?
+* Were any of the current developmental areas discussed previously? If so, how are you incorporating that into the upcoming feedback session?
+* Is your feedback fair, accurate, and directly applicable to the employee’s performance requirements?
+* Do your comments focus on single behaviors that direct the employee’s attention to specific and important improvements?
+* Are you prepared to share specific examples of each strength and/or development area?
+* Can you describe actions or behaviors the individual can change?
+* Are your comments straightforward without adding caveats?
+* Do you have a plan for regular check-ins to ensure consistent and ongoing development and improvement?
+
+#### Submitting an evaluation for a direct report who isn't assigned to their supervisor in HR Links
+
+For instances when a direct report is not assigned to their first line supervisor in HR Links or their supervisor doesn't have HR Links manager access, there are two primary options for the first line supervisor to be able to contribute to the evaluation:
+
+1. The first line supervisor should have a 1:1 performance discussion with their direct report and then email their evaluation to the second line supervisor who will [submit the evaluation]({{site.baseurl}}/performance-management/#submitting-an-evaluation) in HR Links on the first line supervisor's behalf.
+  * ***NOTE: If the employee has submitted a self-assessment in HR Links, the second line supervisor should email or print a copy for the first line supervisor to review prior to the 1:1 meeting.***
+
+1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 discussion.
+  * ***NOTE: The nominated supervisor's feedback is not automatically included as a comment in the employees performance review.  HR Links creates a separate document, so it is recommended that the second line supervisor cuts and paste the feedback into the summary comments.  
 
 #### Cancelling an HR Links evaluation
 
 The only time a supervisor may want to cancel an evaluation is when an employee separates and evaluation cannot be completed or it’s not necessary.  Only and HR Admin can cancel “submitted” evaluations.  Please reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov) to initiate this process.
 
+#### Leveraging diversity performance measure
+
+All FY20 **supervisory performance plans** must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fcorporateapps.gsa.gov%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F09%2FMandatoryLeadingPeopleCriticalElement_Supervisors.pdf) and/or attend a Supervisor's Lounge session (see below). 
+
 ### Additional training
 
-### Supervisors’ Lounge Question and Answer Sessions
+#### Supervisors’ Lounge Question and Answer Sessions
 
 These sessions will feature a demo showing how to incorporate organizational measures into the performance plan. Both sessions will go over the same content, so Supervisors can attend either one.  The links below lead to OLU where you can sign up for a session:
 
@@ -310,13 +339,17 @@ These sessions will feature a demo showing how to incorporate organizational mea
 
 * Watch previously recorded Supervisors’ Lounge Question & Answer Sessions, located in the [Group Files](https://gsa.my.salesforce.com/_ui/core/chatter/content/GroupFileListPage?g=0F93000000016Zo).
 
-* HR Links [Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems) - Courses include, but is not limited to the following:
+#### [HR Links Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems) 
+
+Courses include, but is not limited to the following:
     * Create & Submit a Performance plan
     * Approve a Performance plan
     * Complete a Mid-Year Progress Review
     * Submit Employee Evaluation
 
-* OLU [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:
+#### [OLU Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) 
+
+Courses include, but is not limited to the following:
     * Performance Management Overview – Refresher and introduction of the performance management program.
     * Performance Planning Cascading Goals – Learn the importance of cascading goals to align with organizational performance to support organizational success.
     * Performance Planning Establishing SMART Performance Plans – Learn the importance of writing measurable plans to support organizational outcomes.
