@@ -315,7 +315,7 @@ For instances when a direct report is not assigned to their first line superviso
   * ***NOTE: If the employee has submitted a self-assessment in HR Links, the second line supervisor should email or print a copy for the first line supervisor to review prior to the 1:1 meeting.***
 
 1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 discussion.
-  * ***NOTE: The nominated supervisor's feedback is not automatically included as a comment in the employees performance review.  HR Links creates a separate document, so it is recommended that the second line supervisor cuts and paste the feedback into the summary comments.  
+  * ***NOTE: The nominated supervisor's feedback is not automatically included as a comment in the employees performance review.  HR Links creates a separate document, so it is recommended that the second line supervisor cuts and paste the feedback into the summary comments.***  
 
 #### Cancelling an HR Links evaluation
 
@@ -342,6 +342,7 @@ These sessions will feature a demo showing how to incorporate organizational mea
 #### [HR Links Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems) 
 
 Courses include, but is not limited to the following:
+
     * Create & Submit a Performance plan
     * Approve a Performance plan
     * Complete a Mid-Year Progress Review
@@ -350,6 +351,7 @@ Courses include, but is not limited to the following:
 #### [OLU Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) 
 
 Courses include, but is not limited to the following:
+
     * Performance Management Overview – Refresher and introduction of the performance management program.
     * Performance Planning Cascading Goals – Learn the importance of cascading goals to align with organizational performance to support organizational success.
     * Performance Planning Establishing SMART Performance Plans – Learn the importance of writing measurable plans to support organizational outcomes.
