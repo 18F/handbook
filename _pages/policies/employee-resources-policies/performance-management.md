@@ -275,39 +275,28 @@ Use of this tool is optional but can be helpful in determining what your end-of-
 
 * [HR Links](http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-24-Performance-Management-for-Supervisors_FINAL_v2.docx): Guide for entering all components of a performance review into HR Links
 * To learn more about the specifics of the bargaining agreements, refer to [AFGE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/american-federation-of-government-employees-national-agreement) or the [NFFE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/national-federation-of-federal-employees-national-agreement).
-
-### Training
-
-* Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:
-    * Performance Management Overview – Refresher and introduction of the performance management program.
-    * Performance Planning Cascading Goals – Learn the importance of cascading goals to align with organizational performance to support organizational success.
-    * Performance Planning Establishing SMART Performance Plans – Learn the importance of writing measurable plans to support organizational outcomes.
-    * Self-Assessments – Learn to write an effective self-assessment to support the promotion of accomplishments.
-    * How to Manage Difficult Conversations – “Newly added” Learn to how to prepare and conduct conversations regarding poor performance.
-    * Recognizing and Diagnosing a Performance Problem – Learn the importance of recognizing and managing poor performance timely.
-    * Planning an Effective Appraisal - “Newly added” Learn to how to prepare and conduct an effective appraisal of performance.
-    * Awards – Learn about the available awards within GSA.
-* HR Links [Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems) - Courses include, but is not limited to the following:
-    * Create & Submit a Performance plan
-    * Approve a Performance plan
-    * Complete a Mid-Year Progress Review
-    * Submit Employee Evaluation
     
-### Performance improvement plans
+#### Performance improvement plans
 
 Employees who will be rated at Level 1 or 2 in any category on their FY19 Performance Plan must be issued a Performance Improvement Plan (PIP)[Level 1 rating] or Performance Action Plan (PAP)[Level 2 rating].  To initiate this process, reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov), TTS’s Employee & Labor Relations Specialist.  Lakita will work directly with you to create the PIP/PAP for your team member; supporting [documentation](https://drive.google.com/open?id=1A0V_EX5dFwtmMVrfGKJ9DxPM9_3vF49MRD5LKImIkb8) will need to be submitted to Lakita for review when creating the PIP/PAP.
 
 The fully vetted PIP/PAP must be issued to the employee **by the last working day of the FY19 performance cycle, September 30, 2019**.  Please note that PIP/PAPs must be reviewed by Legal, which takes a few days, before those plans can be presented to the employee.
 
-### Verifying your direct reports
+#### Verifying your direct reports
 
 In preparation for the FY19 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in [this survey](https://forms.gle/oLJJcZ4Cf3DdUGHy8).
 
 All supervisors should complete this audit by COB September 24th, so please fill out the above survey if you have not yet.
 
-### Leveraging diversity performance measure
+#### Leveraging diversity performance measure
 
 All FY20 **supervisory performance plans** must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fcorporateapps.gsa.gov%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F09%2FMandatoryLeadingPeopleCriticalElement_Supervisors.pdf) and/or attend a Supervisor's Lounge session (see below). 
+
+#### Cancelling an HR Links evaluation
+
+The only time a supervisor may want to cancel an evaluation is when an employee separates and evaluation cannot be completed or it’s not necessary.  Only and HR Admin can cancel “submitted” evaluations.  Please reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov) to initiate this process.
+
+### Additional training
 
 ### Supervisors’ Lounge Question and Answer Sessions
 
@@ -321,10 +310,21 @@ These sessions will feature a demo showing how to incorporate organizational mea
 
 * Watch previously recorded Supervisors’ Lounge Question & Answer Sessions, located in the [Group Files](https://gsa.my.salesforce.com/_ui/core/chatter/content/GroupFileListPage?g=0F93000000016Zo).
 
+* HR Links [Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems) - Courses include, but is not limited to the following:
+    * Create & Submit a Performance plan
+    * Approve a Performance plan
+    * Complete a Mid-Year Progress Review
+    * Submit Employee Evaluation
 
-### Cancelling an HR Links evaluation
-
-The only time a supervisor may want to cancel an evaluation is when an employee separates and evaluation cannot be completed or it’s not necessary.  Only and HR Admin can cancel “submitted” evaluations.  Please reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov) to initiate this process.
+* OLU [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:
+    * Performance Management Overview – Refresher and introduction of the performance management program.
+    * Performance Planning Cascading Goals – Learn the importance of cascading goals to align with organizational performance to support organizational success.
+    * Performance Planning Establishing SMART Performance Plans – Learn the importance of writing measurable plans to support organizational outcomes.
+    * Self-Assessments – Learn to write an effective self-assessment to support the promotion of accomplishments.
+    * How to Manage Difficult Conversations – “Newly added” Learn to how to prepare and conduct conversations regarding poor performance.
+    * Recognizing and Diagnosing a Performance Problem – Learn the importance of recognizing and managing poor performance timely.
+    * Planning an Effective Appraisal - “Newly added” Learn to how to prepare and conduct an effective appraisal of performance.
+    * Awards – Learn about the available awards within GSA.
 
 --------------------------------------------------------------------------------
 
