@@ -317,7 +317,14 @@ For instances when a direct report is not assigned to their first line superviso
   * ***NOTE: If the employee has submitted a self-assessment in HR Links, the second line supervisor should email or print a copy for the first line supervisor to review prior to the 1:1 meeting.***
 
 1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 discussion.
-  * ***NOTE: The nominated supervisor's feedback is not automatically included as a comment in the employees performance review.  HR Links creates a separate document, so it is recommended that the second line supervisor cuts and paste the feedback into the summary comments.***  
+  * ***NOTE: The nominated supervisor's feedback is not automatically included as a comment in the employees performance review. HR Links creates a separate document, so it is recommended that the second line supervisor cuts and paste the feedback into the summary comments.***  
+  
+#### Approving/Denying a level 1 or level 5 summary performance rating
+
+If an employee has received a Summary Rating of Level 1 or 5, the evaluation will automatically be routed to the employee’s 2nd level supervisor (the supervisor of the employee’s supervisor) for approval. To approve or deny a Summary Rating of Level 1 or 5, the employee’s 2nd Level Supervisor must follow the instructions below:
+
+* HR Links in-depth guide (with screenshots):
+  * [Supervisor (Section 4, Topic 4.1)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
 #### Cancelling an HR Links evaluation
 
