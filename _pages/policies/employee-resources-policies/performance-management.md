@@ -177,7 +177,15 @@ Employees have the option to update duty specific measures and/or weights -with 
 *Note: FY20 performance plans may be further modified in the first few months of the new fiscal year to account for any updates to TTS and/or Business Unit level specific measure that leadership determines necessary. If this takes place, performance plans will need to be updated and re-established so that employees can be rated against those updated performance plans.*
 
 ### Confirming that performance plans have been established
-*Content coming soon*
+
+It is critical that all FY19 performance plan evaluations are acknowledged by employees before November 14 and all FY20 performance plans are acknowledged by employees before November 29. The status of employee performance management can be checked in the *Team Performance Supervisor dashboard*:
+
+* Step-by-step instructions:
+  * No action required by employee
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.8bjn5sycokgz)
+  
+* HR Links in-depth guide (with screenshots):
+  * [Supervisor (Section 3, Topic 3.1)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
 ## Employee resources
 
@@ -339,6 +347,13 @@ If an employee has received a Summary Rating of Level 1 or 5, the evaluation wil
 #### Cancelling an HR Links evaluation
 
 The only time a supervisor may want to cancel an evaluation is when an employee separates and evaluation cannot be completed or it’s not necessary.  Only and HR Admin can cancel “submitted” evaluations.  Please reach out to [Lakita Rivero](mailto:lakita.rivero@gsa.gov) to initiate this process.
+
+#### Overriding an HR Links employee acknowledgement 
+
+A supervisor may need to approve an employee performance plan or employee evaluation on behalf of their employee if the employee is unable to (i.e. on vacation) or refuses to do so (i.e. does not agree with the evaluation).
+
+  * [Overriding an employee performance plan approval step-by-step instructions](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.hf3nfjxrhb8h)
+  * [Overriding an employee evaluation acknowledgment step-by-step instructions](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.u17jlta6re6m)
 
 #### Leveraging diversity performance measure
 
