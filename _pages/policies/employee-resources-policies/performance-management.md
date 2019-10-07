@@ -275,6 +275,11 @@ Use of this tool is optional but can be helpful in determining what your end-of-
 
 * [HR Links](http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-24-Performance-Management-for-Supervisors_FINAL_v2.docx): Guide for entering all components of a performance review into HR Links
 * To learn more about the specifics of the bargaining agreements, refer to [AFGE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/american-federation-of-government-employees-national-agreement) or the [NFFE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/national-federation-of-federal-employees-national-agreement).
+
+#### Establishing performance expectations 
+
+* [InSite Performance Management Guide](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/planning-performance)
+  * Page 19 - Managers Guide End of Year Review & Establishing Expectations
     
 #### Performance improvement plans
 
