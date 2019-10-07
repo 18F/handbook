@@ -176,6 +176,9 @@ Employees have the option to update duty specific measures and/or weights -with 
 
 *Note: FY20 performance plans may be further modified in the first few months of the new fiscal year to account for any updates to TTS and/or Business Unit level specific measure that leadership determines necessary. If this takes place, performance plans will need to be updated and re-established so that employees can be rated against those updated performance plans.*
 
+### Confirming that performance plans have been established
+*Content coming soon*
+
 ## Employee resources
 
 ### [Employee performance management checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538)
