@@ -287,24 +287,20 @@ Use of this tool is optional but can be helpful in determining what your end-of-
 * [HR Links](http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-24-Performance-Management-for-Supervisors_FINAL_v2.docx): Guide for entering all components of a performance review into HR Links
 * To learn more about the specifics of the bargaining agreements, refer to [AFGE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/american-federation-of-government-employees-national-agreement) or the [NFFE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/national-federation-of-federal-employees-national-agreement).
 
-#### Establishing performance expectations 
+#### Discussing performance expectations with a new direct report
 
-Performance expectations are the level of individual performance that must be met for an employee’s performance to be appraised at a particular level. Performance expectations must be developed to describe the expected level of performance on a critical element at Level 3.  Supervisors are encouraged to establish performance expectations for other levels if deemed appropriate.  The absence of a written performance requirement at other rating levels does not preclude the assignment of a rating at that level.  All employees need a written performance plan, which documents expectations that are based on organizational mission and business goals and that reflect the types of duties and responsibilities in their job descriptions. 
+When an employee joins TTS or changes supervisors within TTS, it is important that the supervisor establish new performance expectations with the employee through dialogue and ultimately in the official [performance plan]({{site.baseurl}}//performance-management/#creating-a-new-performance-plan). Performance expectations must be developed to describe the expected level of performance at a Level 3 rating; supervisors are encouraged to establish performance expectations for other levels if deemed appropriate. 
 
-Performance plans should:
-  * align with GSA, business, office, work unit, team goals and objectives
-  * be attainable, but challenging
-  * be clearly worded and measurable
-  * contain critical elements and performance expectations, which focus on expected results (at the appropriate level)
-
-Performance expectations for managerial and supervisory positions should address such factors as the following:
+* Suggestions of performance expectations that you can discuss and set with your direct report:
   * improvements in effectiveness, productivity, and performance quality
   * cost efficiency
   * timeliness of performance
-  * supervision of subordinates; and holds the employee accountable for achieving results (at the appropriate level of responsibility)
-  * take into consideration employee and customer perspective
-  * supervision of subordinates by ensuring subordinate performance plans are aligned with organizational goals and that subordinates are appraised accordingly
-  * ***supervisory elements must be weighted 40% within the overall plan*** 
+  * customer service
+
+* Performance expectations should:
+  * align with GSA, business, office, work unit, team goals and objectives
+  * be attainable, but challenging
+  * be clearly worded and measurable
 
 * [InSite Performance Management Guide](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/planning-performance)
   * Page 19 - Managers Guide End of Year Review & Establishing Expectations
