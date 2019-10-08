@@ -1,0 +1,18 @@
+---
+title: Changing your name in Google Apps
+---
+
+TTS does our best to make everyone feel welcome. During the onboarding process, we can't always ensure that your preferred name is reflected in Google Apps. You can update your records so that people who look at your name on emails and in Google Meet are reminded to use the name that makes you most comfortable.
+
+## Changing your name
+
+You can change your name by following these steps:
+ - ***Ensure your PIV card reader is inserted into your computer.*** When logging in to GCIMS, you will be asked to choose a security certificate to verify your identity. If you choose the wrong one, you will lose access to GCIMS and have a difficult time regaining access.  Choose carefully!
+ - Go to [GCIMS](https://gcims.gsa.gov)
+ - You will be asked to choose a digital certificate. If your PIV card is inserted, there will be two certificates listed with your name on them. Choose the one that has "Usage" that is ***only*** "Digital Signature"
+ - Once logged in, follow the GCIMS Self-Service link.
+ - Proceed to the "Work Contact Information" link.
+ - Enter your preferred name and update the form.
+ - Wait up to 24 hours for the changes to take effect.
+ 
+ If you have trouble with this process, you can open a [GSA IT Help Desk]({{ site.baseurl }}/gsa-internal-tools/#it-service-desk) ticket for assistance.
