@@ -96,11 +96,8 @@ If modifications need to be made to an existing performance plan, a plan can be 
 ***NOTE: 120 days must pass from the date the employee acknowledges the updated plan before they can be rated against it.***
 
 * Step-by-step instructions:
-  * No action required by employee.
-  * Supervisor instructions coming soon
-
-* HR Links in-depth guide (with screenshots):
-  * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
+  * No action required by employee
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.hf3nfjxrhb8h)
 
 ### Entering a self-assessment
 
