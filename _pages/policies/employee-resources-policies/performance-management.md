@@ -28,8 +28,8 @@ November 14 | Official GSA end of year close out due date for FY19 performance p
 
 Resource | Use
 -------|--------
-[Employee checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) | Performance management steps
-Supervisor checklist | Performance management steps (coming soon)
+[Employee checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) | Employee performance management steps
+[Supervisor checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) | Supervisor performance management steps 
 [Employee Step-by-Step HR Links Guide](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#) | Entering performance review steps into HR Links
 [Supervisor Step-by-Step HR Links Guide](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.rjbyuflzo0ct) | Entering and processing performance review steps in HR Links
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
@@ -261,9 +261,10 @@ Use of this tool is optional but can be helpful in determining what your end-of-
 
 ## Supervisor resources
 
-### Supervisor performance management checklist
+### [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250)
 
 * Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of FY19 performance reviews and to help establish FY20 performance plans.
+  * *NOTE: Items highlighted in green are particularly important steps*
 
 ### Guidance
 
