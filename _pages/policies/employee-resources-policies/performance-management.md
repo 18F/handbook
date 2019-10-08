@@ -88,6 +88,17 @@ In most cases, supervisors should own the creation of performance plans for dire
 * HR Links in-depth guide (with screenshots):
   * [Employee (Section 1, Topic 1.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi) 
+  
+### Re-opening a performance plan
+
+If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management/#submitting-a-performance-plan-for-employee-approval. ***NOTE: 120 days must pass from the date the employee acknowledges the updated plan before they can be rated against it..***
+
+* Step-by-step instructions:
+  * No action required by employee.
+  * Supervisor instructions coming soon
+
+* HR Links in-depth guide (with screenshots):
+  * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
 ### Entering a self-assessment
 
