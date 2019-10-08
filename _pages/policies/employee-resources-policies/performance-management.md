@@ -91,7 +91,9 @@ In most cases, supervisors should own the creation of performance plans for dire
   
 ### Re-opening a performance plan
 
-If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management/#submitting-a-performance-plan-for-employee-approval. ***NOTE: 120 days must pass from the date the employee acknowledges the updated plan before they can be rated against it..***
+If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management/#submitting-a-performance-plan-for-employee-approval). 
+
+***NOTE: 120 days must pass from the date the employee acknowledges the updated plan before they can be rated against it.***
 
 * Step-by-step instructions:
   * No action required by employee.
