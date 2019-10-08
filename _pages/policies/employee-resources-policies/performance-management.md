@@ -179,7 +179,7 @@ Employees have the option to update duty specific measures and/or weights -with 
 * Employee needs to review their FY19 performance plan that's been in place 120+ days and decide if/how they want to update measures and category weights
 * During 1:1 performance review session (in addition to finalizing the FY19 performance review):
   * Supervisor clones employee's FY19 plan to create a template for the FY20 plan
-    * ***NOTE: FY19 Supervisors should clone all of their direct reports' performance plans to create, sign, and submit the FY20 plan even if an empoloyee will not be reporting into them in FY20 (i.e. post TTS reorg). If updates need to be make to the FY20 performance plan, the FY20 Supervisor will need to re-open the FY20 performance plan in HR Links (Supervisors will be notified via email when an employee has been reassigned to them). The FY20 supervisor should connect with new direct report(s) to discuss any potential changes to their FY20 performance plan.***
+    * ***NOTE: FY19 Supervisors should clone all of their direct reports' performance plans to create, sign, and submit the FY20 plan even if an empoloyee will not be reporting into them in FY20 (i.e. post TTS reorg). If updates need to be made to the FY20 performance plan, the FY20 Supervisor will need to [re-open the FY20 performance plan in HR Links]({{site.baseurl}}/performance-management/#re-opening-a-performance-plan) (Supervisors will be notified via email when an employee has been reassigned to them). The FY20 supervisor should connect with new direct report(s) to discuss any potential changes to their FY20 performance plan.***
   * Employee discusses FY20 performance plan updates with their supervisor
   * Employee works with their Supervisor to make updates to the FY20 performance plan in HR Links
   * Supervisor ["signs and submits"]({{site.baseurl}}/performance-management/#submitting-a-performance-plan-for-employee-approval) the FY20 performance plan in HR Links
@@ -300,7 +300,7 @@ Use of this tool is optional but can be helpful in determining what your end-of-
 
 #### Discussing performance expectations with a new direct report
 
-When an employee joins TTS or changes supervisors within TTS, it is important that the supervisor establish new performance expectations with the employee through dialogue and ultimately in the official [performance plan]({{site.baseurl}}//performance-management/#creating-a-new-performance-plan). Performance expectations must be developed to describe the expected level of performance at a Level 3 rating; supervisors are encouraged to establish performance expectations for other levels if deemed appropriate. 
+When an employee joins TTS or changes supervisors within TTS, it is important that the supervisor establish new performance expectations with the employee through dialogue and ultimately in the official [performance plan]({{site.baseurl}}/performance-management/#creating-a-new-performance-plan). Performance expectations must be developed to describe the expected level of performance at a Level 3 rating; supervisors are encouraged to establish performance expectations for other levels if deemed appropriate. 
 
 * Suggestions of performance expectations that you can discuss and set with your direct report:
   * improvements in effectiveness, productivity, and performance quality
