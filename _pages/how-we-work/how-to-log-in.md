@@ -36,7 +36,7 @@ Applications such as Trello, Zoom, Favro, and Circle.ci can be logged into using
 
 You can check your account permissions [here](https://myaccount.google.com/permissions).
 
-##VMware Horizon (VPN) login
+## VMware Horizon (VPN) login
 
 VMware is utilized to access your GSA Microsoft Windows desktop.  Some government sites can only be accessed through VPN.
 
@@ -47,7 +47,7 @@ VMware is utilized to access your GSA Microsoft Windows desktop.  Some governmen
 * Enter token back into VMware Horizon login-in screen
 
 
-##Cisco AnyConnect login
+## Cisco AnyConnect login
 
 AnyConnect is utilized as a GSA VPN client so that you can use a variety of systems that require a VPN directly from your local computer. Go [here]({{site.baseurl}}/anyconnect) for more information on configuring this tool.
 
