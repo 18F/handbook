@@ -4,7 +4,7 @@ As a PM there will be difficult conversations with clients, like budget overruns
 
 ## Transparency
 
-CivicActions isfiercely open, and we want to be transparent with clients as much as possible. While this may have down side in the short term, over the longer term our clients grow to trust us. Feel free to share details with the client. This helps them understand our inner workings and see behind the curtain. The more they know about how we operate, the better.
+CivicActions is fiercely open, and we want to be transparent with clients as much as possible. While this may have down side in the short term, over the longer term our clients grow to trust us. Feel free to share details with the client. This helps them understand our inner workings and see behind the curtain. The more they know about how we operate, the better.
 
 ## Honesty & accuracy
 
