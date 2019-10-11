@@ -15,8 +15,7 @@ title: San Francisco
       <tr>
         <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
-          Your best bet is the <a href="https://gsa-tts.slack.com/archives/sf">#sf</a> Slack channel<br />
-          <a href="http://www.gsa.gov/portal/category/107015">Building Services contact info</a>
+        <a href="https://gsa-tts.slack.com/messages/@eth">Ethan Heppner</a>
         </td>
       </tr>
       <tr>
