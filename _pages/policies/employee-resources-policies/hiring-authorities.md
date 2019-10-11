@@ -10,8 +10,9 @@ This page explains the different hiring path available to TTS
 
 ## Competitive
 Roles that are posted on USA Jobs that do not have term limits. These roles allow you to obtain competitive status 
-	*_In the competitive service, individuals must go through a competitive hiring process (i.e., [competitive examining](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/)) before being appointed. This is open to all applicants_
-	*_current or former federal employees who have worked in the competitive service, in a permanent appointment for a total of three years of qualifying service. Sometimes this is also called having 'status' or a 'career appointment' _.
+* _In the competitive service, individuals must go through a competitive hiring process (i.e., [competitive examining](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/)) before being appointed. This is open to all applicants_
+	* _current or former federal employees who have worked in the competitive service, in a permanent appointment for a total of three years of qualifying service. Sometimes this is also called having 'status' or a 'career appointment'_.
+	
 * There are three ways we hire using the Competitive hiring authority:
   * **Delegated Examining**  allows applicants from outside the federal government to apply to career roles. These roles must be posted on USA Jobs and Veterans’ Preference applies.
   * Employees who have applied and become competitive (are current career feds) are eligible to apply to **Merit Promotions**. This lets a current or former federal employee apply for a job without having to compete with the general public or people with Veterans’ Preference. Instead, you compete with other competitive service employees. These roles must be posted on USA Jobs.
@@ -20,11 +21,11 @@ Roles that are posted on USA Jobs that do not have term limits. These roles allo
 ## Excepted Service 
 ### Schedule A(r)
 The Schedule A(r) hiring authority are term appointments for a period between one and four years.
-Employees who are appointed under term appointments do not earn competitive status. These roles can be posted on our website instead of USA Jobs
-.  * There are two ways we hire using Schedule A(r): via posting a job on [JoinTTS](https://join.tts.gsa.gov/) or via [Reserved Hire](https://drive.google.com/file/d/0B4J4Dpr2HVDsX2RKMjhtU1NuU2ZEUWoxU0NJWkhLbFVXejlv/view?usp=sharing)
+Employees who are appointed under term appointments do not earn competitive status. These roles can be posted on our website instead of USA Jobs.
+* There are two ways we hire using Schedule A(r): via posting a job on [JoinTTS](https://join.tts.gsa.gov/) or via [Reserved Hire](https://drive.google.com/file/d/0B4J4Dpr2HVDsX2RKMjhtU1NuU2ZEUWoxU0NJWkhLbFVXejlv/view?usp=sharing)
   * Once a role enters the Hiring Pipeline prioritization list, Talent and the Hiring Manager discuss which avenue they would like to pursue for a given action.
 
-## Schedule A(u)
+### Schedule A(u)
 The Schedule A(u) authority can be used to hire term or permanent employees. This hiring mechanism is used for hiring people with severe physical disabilities, psychiatric disabilities, and intellectual disabilities. Such individuals may qualify for conversion to permanent status after two years of satisfactory service. Severe physical disabilities include but are not limited to blindness, deafness, paralysis, missing limbs, epilepsy, and more.
 * There must be a hiring need identified by the head of your office to use this authority and they will determine if the role should be term or career.
 * Read more [here](https://docs.google.com/document/d/1WnvPtg6QxcrX8UQZWBZhGiRfxWphl7Nd7oy5gPXrVaQ/edit?usp=sharing)
