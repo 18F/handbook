@@ -16,10 +16,10 @@ It may be helpful to copy these lists into a card/checklist on your project Trel
 *   Hand-off call with Admin regarding contract/compliance/invoicing details
 *   Work with the Delivery Manager (DM) to assign project team
 *   Share SOWs and NDAs, as necessary, with ca-admingroup
-    Set up tracking for [contractual requirements](contractual-requirements.md)
+*   Set up tracking for [contractual requirements](contractual-requirements.md)
 *   Set up tracking for [contract expiration/renewal](contract-expiration-tracking.md)
-*   Review project hours thus far: determine if billable to client, or accountable to Sales (ask DM if you're not sure)
-*   Request copy of client's travel policy if not included in contract or SOW
+*   Review project hours thus far: determine if billable to client, or accountable to Sales (ask DM if you are not sure)
+*   Request copy of client travel policy if not included in contract or SOW
 
 ### Project Setup
 
@@ -39,7 +39,7 @@ It may be helpful to copy these lists into a card/checklist on your project Trel
 
 ## Client Kickoff Meeting
 
-See [Kickoff Meeting Agenda template](https://docs.google.com/document/d/1pmOruj_1PeSfmJtxzvjDy7KxTTJi0VS8D62WUrWjeSM/edit).
+*   See [Kickoff Meeting Agenda template](https://docs.google.com/document/d/1pmOruj_1PeSfmJtxzvjDy7KxTTJi0VS8D62WUrWjeSM/edit).
 
 ## Early Project Activities
 
