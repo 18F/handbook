@@ -12,3 +12,4 @@ Project managers then review the line items in the invoice to ensure that the bi
 
 If the project requires additional deliverables or documents in order to invoice (such as a monthly report or signed detailed timesheet), the project manager should proactively prepare those items before the first of the month, and only indicate that the project is ready to invoice after those are prepared. 
 
+[Example invoicing document](https://docs.google.com/document/d/1MXVH7uKWHLQ2w1L-bgINkJiqrJx3yXyHKkG_6n6hQAk/edit)
