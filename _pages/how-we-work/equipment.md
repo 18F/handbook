@@ -44,7 +44,7 @@ You can [request a loaner PC through the IT Service Desk](https://gsa.service-no
 
 ## Phone
 
-TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have submitted a request to GSA IT for your work phone before you join TTS. Within a few weeks of starting at TTS, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
+TTS employees are issued an Apple iPhone. The TTS Talent Team will already have submitted a request to GSA IT for your work phone before you join TTS. Within a few weeks of starting at TTS, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
 
 ### Rules
 
@@ -55,9 +55,9 @@ TTS employees are issued an Apple iPhone.  The TTS Talent Team will already have
 - **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
 
 - After GSA IT provisions your phone, set up two-factor verification:
-    - To get started, email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
-    - Once you have access to [HR Links]({{site.baseurl}}/gsa-internal-tools/#hr-links), you can update your contact information there. You'll find it under **Navigator > Self Service > Personal Information > Phone Number Change (USF)**; make sure to set the phone type as "Business Mobile" so it correctly populates GCIMS and works for 2FA.
-    - You can learn more about using your phone for two-factor authentication in our [Slack](https://handbook.18f.gov/slack), [GitHub](https://handbook.18f.gov/github), and [Gmail](https://handbook.18f.gov/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
+  - To get started, email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
+  - Once you have access to [HR Links]({{site.baseurl}}/gsa-internal-tools/#hr-links), you can update your contact information there. You'll find it under **Navigator > Self Service > Personal Information > Phone Number Change (USF)**; make sure to set the phone type as "Business Mobile" so it correctly populates GCIMS and works for 2FA.
+  - You can learn more about using your phone for two-factor authentication in our [Slack](https://handbook.18f.gov/slack), [GitHub](https://handbook.18f.gov/github), and [Gmail](https://handbook.18f.gov/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
 ### Tips
 
@@ -74,7 +74,7 @@ See the [software](../software/) page.
 
 ## Peripherals
 
-If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request in C2. Ask in the Slack channel corresponding to your office.
+If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request. Ask in the Slack channel corresponding to your office.
 
 To get additional peripherals (chargers, dongles, etc.), [open a `Hardware` request](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=c73f4b527897a400ce3ddff91a649434). If that link doesn't work, find it through:
 
@@ -90,7 +90,7 @@ GSA provides equipment to accommodate an injury or disability under these condit
 - You have supporting medical documentation for the need for a certain piece of equipment.
 - You only need the equipment to do your work.
 
-To purchase this type of equipment, go to <https://requests.18f.gov/> and attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov).
+To purchase this type of equipment, attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov).
 
 ## Repairs
 
@@ -98,7 +98,7 @@ For issues with any GSA-provided hardware (such as laptops or phones), [contact 
 
 ## Lost or stolen equipment
 
-If TTS-issued equipment is lost or stolen, follow these mandatory steps.  Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert TTS in [#equipment](https://gsa-tts.slack.com/messages/equipment):
+If TTS-issued equipment is lost or stolen, follow these mandatory steps. Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert TTS in [#equipment](https://gsa-tts.slack.com/messages/equipment):
 
 1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
 2. Call 911 or a local police station when you suspect theft has occurred.
