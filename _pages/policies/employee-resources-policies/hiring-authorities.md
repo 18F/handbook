@@ -3,15 +3,17 @@ title: Hiring Authorities
 tags:
 - Hiring
 - hiring
+- hiring paths
+- hiring authorities
 ---
-This page explains the different hiring path available to TTS
+This page explains the different hiring paths available to TTS
 
 ## [Different hiring paths within the federal government](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/)
 
 ## Competitive
 Roles that are posted on USA Jobs that do not have term limits. These roles allow you to obtain competitive status 
-* _In the competitive service, individuals must go through a competitive hiring process (i.e., [competitive examining](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/)) before being appointed. This is open to all applicants_
-	* _current or former federal employees who have worked in the competitive service, in a permanent appointment for a total of three years of qualifying service. Sometimes this is also called having 'status' or a 'career appointment'_.
+* In the competitive service, individuals must go through a competitive hiring process (i.e., [competitive examining](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/)) before being appointed. This is open to all applicants
+	* current or former federal employees who have worked in the competitive service, in a permanent appointment for a total of three years of qualifying service. Sometimes this is also called having 'status' or a 'career appointment'.
 	
 * There are three ways we hire using the Competitive hiring authority:
   * **Delegated Examining**  allows applicants from outside the federal government to apply to career roles. These roles must be posted on USA Jobs and Veterans’ Preference applies.
@@ -33,7 +35,7 @@ The Schedule A(u) authority can be used to hire term or permanent employees. Thi
 ## Direct Hiring Authority (DHA)
 The DHA can be advertised as term or permanent. The Office of Personnel Management (OPM) can grant this type of hiring authority to federal agencies for filling vacancies in specific occupations, grade levels, and locations when it can be proven that there is a critical hiring need, or a severe shortage of candidates. These roles must be posted on USA Jobs. 
 * Currently, GSA has the authority to hire IT Specialists in the 2210 series via DHA until September 20, 2021. This allows us to advertise 2210 roles for an 8-year term only (no career option) and the IT Specialist (INFOSEC) role (no expiration date yet). 
-* Veteran’s preference does not apply
+* Veterans' preference does not apply
 * If the role was posted within the last 120 days, resumes can continue to be submitted for candidates to be found qualified against the announcement. The Position Description they are being qualified against would have to be similar to one that was announced.
 
 ## Veterans’ Preference
