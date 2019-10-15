@@ -175,6 +175,9 @@ navigation:
       - text: Employment verification
         url: employment-verification/
         internal: true
+      - text: Hiring authorities
+        url: hiring-authorities/
+        internal: true
       - text: Overtime and comp time
         url: overtime-and-comp-time/
         internal: true
