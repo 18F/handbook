@@ -2,6 +2,10 @@
 title: Microsoft Office
 ---
 
+At GSA, [Google Docs/Sheets/Slides]({{site.baseurl}}/google-drive/) is our preferred tool for documents/spreadsheets/presentations, since it has built-in records retention, collaboration, sharing, etc. Microsoft Office is available for edge cases, such as where a large spreadsheet might not load well in Google Sheets.
+
+## Requesting a license
+
 To request a Microsoft Office license for your Mac, **send an email to <tts-software@gsa.gov> requesting a license**.
 
 You should receive a reply from the SaaS Manager after your access to an Office license has been granted, as well as an email from Microsoft. When you receive the latter, wait up to two hours: it takes that long for your license access to be granted to your new account. Then, follow these instructions, as the ones in the email lack some details.
