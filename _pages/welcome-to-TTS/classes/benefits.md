@@ -30,7 +30,7 @@ Contact [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) for questions re
 
 Find us on the Slack channel for TTS staff to discuss GSA benefits:
 
-- [#benefits](https://gsa-tts.slack.com/messages/benefits)
+- [#people-ops](https://gsa-tts.slack.com/messages/benefits)
 
 ## Credit union
 
@@ -94,7 +94,7 @@ To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollme
 - Once you click "Submit" the documents get sent to the cpc benefits team where they can review and process these actions.
 - Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) letting her know you have submitted these documents so that she can confirm with CPC that they have received them.  You can email Mary any time with benefits questions or issues.
 
-The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Ask in [#benefits](https://gsa-tts.slack.com/messages/benefits).
+The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Ask in [#people-ops](https://gsa-tts.slack.com/messages/benefits).
 
 
 ### Dental
