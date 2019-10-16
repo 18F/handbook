@@ -2,6 +2,8 @@
 title: Google Drive
 ---
 
+_a.k.a. G Suite_
+
 Google Drive is a cloud storage and file backup system. We keep a lot of documentation, project work, and templates in Google Drive.
 
 ## Setup

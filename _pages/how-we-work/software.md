@@ -16,7 +16,7 @@ If TTS does not have licenses, GSA might. In order to check the [GSA IT Catalog]
 
 If your software is in the Catalog, fill out the rest of the form to request a license.
 
-*Note: If you're looking for MS Office, see [this section below](https://handbook.18f.gov/software/#get-a-copy-of-microsoft-office).*
+*Note: If you're looking for MS Office, see [this page]({{site.baseurl}}/office/).*
 
 ## Purchase new software
 
@@ -37,10 +37,6 @@ Fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAI
 ### Step 3: procurement
 
 Once all of these steps have been completed, the SaaS PM will reach out to you to set up a meeting to make the purchase.
-
-## Get a copy of Microsoft Office
-
-Please follow the instructions in this Google Document: [How to get Microsoft for OS X](https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing).
 
 ## Chrome extensions
 
