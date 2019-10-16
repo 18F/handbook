@@ -6,9 +6,7 @@ tags:
 - hiring paths
 - hiring authorities
 ---
-This page explains the different hiring paths available to TTS
-
-## [Different hiring paths within the federal government](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/)
+This page explains the [different hiring paths within the federal government](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/) available to TTS
 
 ## Competitive
 Roles that are posted on USA Jobs that do not have term limits. These roles allow you to obtain competitive status 
