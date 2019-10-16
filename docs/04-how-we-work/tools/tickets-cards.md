@@ -11,6 +11,7 @@ Description: An epic often starts as the big picture and then the user stories f
 *   Product Owners
 *   Project Managers
 *   Engineers
+*   UX Team
 
 ## User Story
 
