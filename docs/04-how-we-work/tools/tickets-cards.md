@@ -4,19 +4,20 @@ This may also be best learned during a project (on a project-by-project basis)
 
 ## Epic
 
-Description: An epic often starts as the big picture and then the user stories fill in the details. But it is also possible that a group of user stories (as they are prioritized) coalesce into an epic
+Description: An epic often starts as the big picture and then the user stories fill in the details. But it is also possible that a group of user stories (as they are prioritized) coalesce into an epic.
 
 ## Who Creates Tickets/Cards
 
 *   Product Owners
 *   Project Managers
 *   Engineers
+*   UX Team
 
 ## User Story
 
 *   As a(n) **X** I want to **Y** so that **Z** (outcome)
 *   Describes the **user need** for the work to be done
-*   As an anonymous user, I want to see the latest news articles on the homepage so that I don't have to view older articles that I may have already read.
+*   As an anonymous user, I want to see the latest news articles on the homepage so that I do not have to view older articles that I may have already read.
 *   Avoid more than one action per user story. Red flags would be commas and "ands" - Consider splitting into multiple tickets.
 
 ## Implementation Plan
