@@ -25,15 +25,15 @@ More broadly, FITARA outlines specific requirements related to:
 
 The objective of FITARA is to improve the management of IT within an agency and hence, improve the ability for that agency to deliver its mission and conduct its business.
 
-## Does my software require FITARA?
+## What requires FITARA review?
 
-Want to know if your software requires FITARA? That’s easy, almost all of them do! According to the CTO, at GSA we require FITARA approval for every single purchase you make.
+Want to know if your software request requires FITARA? That’s easy, almost all of them do! According to the CTO, at GSA we require FITARA approval for every single purchase you make.
 
-**Note:** There are some exceptions, such as Dotgov domains or Professional Services (ex. Gengo Translation Services is an online subscription that bills monthly but is essentially a professional services). But **it is up to the AO or CTO to determine if it is necessary**.
+**Note:** There are some exceptions and blanket approvals, such as Dotgov domains or Professional Services (ex. Gengo Translation Services is an online subscription that bills monthly but is essentially a professional services). But **it is up to the CTO to determine on a case-by-case basis if it is necessary and CIO to ultimately agree**.
 
-## Approvals
+## Approval Process
 
-Now, how to get that approval? Simple! Enter the software on the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA. The CTO will reply with their approval to route to the CIO. You will need to enter the information into a PDF template and route it to the CIO via ESign. Once they complete the package, you have FITARA approval. Upload the PDF from ESign into C2.
+Now, how to get that approval? Enter the software on the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA (Resources including guides and templates are provided in the last column of the board). The CTO will reply with their approval to route to the CIO. You will need to enter the information into a PDF template and route it to the CIO via ESign. Once they complete the package, you have FITARA approval. Upload the PDF from ESign into C2.
 
 If you are curious where your software is in terms of review, check out the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA.
 
