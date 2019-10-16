@@ -266,8 +266,8 @@ navigation:
         url: meetings-and-meeting-tools/
         internal: true
       - text: Microsoft Office for OS X
-        url: https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing
-        internal: false
+        url: office/
+        internal: true
       - text: Mural.ly (collaborative whiteboard tool)
         url: murally/
         internal: true
