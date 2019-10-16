@@ -35,15 +35,16 @@ Include the following:
 
 You will get a lot of emails when you turn notifications on. To help stem the tide, you can set up a Gmail filter to automatically archive emails from `notifications@github.com`. However, you probably want to let through those emails that contain your GitHub username or are posted to a repo you're watching. Since on GitHub, each repo is considered its own mailing list, checking for that identifier is one reliable way to allow these notifications through. For example, if the repo name in GitHub is `18F/calc`, the mailing list will be `calc.18F.github.com`. You can also find this by opening an email from the desired repo, clicking the "more info" arrow in the "To" field, and copying the bracketed address in the "mailing list" field. Adding `list:(calc.18F.github.com)` to your filter's exceptions will allow any issues posted to that repo to reach your inbox.
 
-### 4. Join the 18F or GSA organization
+### 4. Join the 18F organization
 
-- **18F team members:** After you've completed the above steps, hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/18f-staff/members on GitHub." An admin will verify compliance and add you, after which you'll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+All TTS staff should be added here. Ask in [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) to "please add me (`https://github.com/username`) to [team]," which will be one of the following:
 
-- **OPP team members:** Email [gsa-github.support@gsa.gov](mailto:gsa-github.support@gsa.gov) the following: "Please add me (`https://github.com/username`) to https://github.com/GSA". An admin will verify compliance and add you, after which you'll to need accept their invite by going [here](https://github.com/orgs/gsa/invitation?via_email=1).
+- [`18f-staff`](https://github.com/orgs/18F/teams/18f-staff)
+- One of the [TTS teams](https://github.com/orgs/18F/teams/tts-gsa-partners/teams)
 
-Members of OPP needing access to the 18F GitHub org should hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/opp/members on GitHub." An admin will verify compliance and add you, after which you'll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+An admin will add you, after which you'll need to accept their invite from the email or by going [here](https://github.com/orgs/18F/invitation?via_email=1).
 
-- **Anyone else in TTS** After you've completed the above steps, hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`https://github.com/username`) to https://github.com/orgs/18F/teams/tts-gsa-partners/teams on GitHub - I work at (`PIF/COE/Ops/TTS Office of Acqusition`)." An admin will verify compliance and add you, after which you'll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+You may need access to [other GitHub organizations](#organizations), depending on your job. If that applies to you, your team will get you added as part of their onboarding.
 
 ### 5. Make your membership public
 
