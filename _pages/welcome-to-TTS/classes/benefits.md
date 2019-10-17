@@ -30,7 +30,7 @@ Contact [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) for questions re
 
 Find us on the Slack channel for TTS staff to discuss GSA benefits:
 
-- [#people-ops](https://gsa-tts.slack.com/messages/benefits)
+- [#people-ops](https://gsa-tts.slack.com/messages/people-ops)
 
 ## Credit union
 
