@@ -64,4 +64,4 @@ Most TTS employees have a Public Trust (Moderate Risk - Level 5) clearance. Howe
 
 ### Still have questions?
 
-Ask [#people-ops](https://gsa-tts.slack.com/messages/talent) or [TTS-PeopleOps@gsa.gov](mailto:TTS-TalentTeam@gsa.gov)
+Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops) or [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov)
