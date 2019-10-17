@@ -37,18 +37,17 @@ Candidates should apply to open positions [here](https://join.tts.gsa.gov/).
 ## How to get in touch
 
 * Slack:
-  * [#talent](https://gsa-tts.slack.com/messages/talent/)
+  * [#hiring](https://gsa-tts.slack.com/messages/hiring/)
 * Email:
-  * [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) - to email the Talent Team with your request
-  * [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team (primarily for public use)
+  * [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team. Also use this email if you'd like to submit an internal competition announcement for our review and for all hiring and onboarding related questions.
 
 ## What we do
 
 * **Talent Acquisition:** We help identify, target, and attract talented, diverse candidates to apply to TTS.
 * **Talent Engagement:** We partner with our hiring managers to execute hiring actions and guide candidates from job preparation through selection.
 * **Talent Analytics and Strategy:** We utilize data to continuously improve the Talent Team’s work-systems and ensure that we are doing so in an agile and sustainable way.
-* **Talent Integration:** We are responsible for the development, management, and implementation of the TTS onboarding, offboarding and knowledge management programs.
-* **Talent Operations:** We work with TTS employees to help them with people related matters such as details, reassignments, employment issues, and HR related matters.
+* **Talent Onboarding:** We are responsible for the development, management, and implementation of the TTS onboarding, offboarding and knowledge management programs.
+
 
 
 
@@ -58,4 +57,4 @@ Candidates should apply to open positions [here](https://join.tts.gsa.gov/).
 
 #### Still have questions?
 
-Ask in Slack: [#talent](https://gsa-tts.slack.com/messages/talent/)
+Ask in Slack: [#hiring](https://gsa-tts.slack.com/messages/hiring/)
