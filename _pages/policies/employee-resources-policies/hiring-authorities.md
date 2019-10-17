@@ -49,3 +49,9 @@ veterans.
 * 5 Point. This class applies to veterans without a service-connected disability who meet other
 specific criteria. These criteria include the period served, whether the veteran received a campaign or
 expeditionary medal, duration, and character of active duty military service.
+
+--------------------------------------------------------------------------------
+
+### Still have questions?
+
+**General questions** Please reach out to TTS Talent via [#hiring](https://gsa-tts.slack.com/messages/hiring/) or [email](mailto:jointts@gsa.gov) for information regarding hiring.
