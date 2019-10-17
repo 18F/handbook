@@ -38,12 +38,12 @@ Most TTS employees have a Public Trust (Moderate Risk - Level 5) clearance. Howe
    * [GSA Credit Report](https://goo.gl/GiFhBy)
    * [Declaration of Federal Employment (OF 306)](https://goo.gl/QDkDZC)
 
-### 2. Email items from Step 1 (updated resume, supervisor justification, GSA PRDS, credit report and Declaration of Federal Employment) to the [Talent Team](mailto:TTS-TalentTeam@gsa.gov).  They will contact GSA HR to take one of the following steps:
+### 2. Email items from Step 1 (updated resume, supervisor justification, GSA PRDS, credit report and Declaration of Federal Employment) to the [People Ops Team](mailto:TTS-PeopleOps@gsa.gov).  They will contact GSA HR to take one of the following steps:
 * If you are on an **individual PD** (i.e. supervisory innovation specialist):
    * HR will only need to update that PD
 * If you are on a **standard PD** (i.e. innovation specialist):
    * HR will need to create a new PD
-   * HR will send TTS Talent Form OF-8 that your supervisor will need to sign
+   * HR will send People Ops Form OF-8 that your supervisor will need to sign
    * Once new PD is approved and OF-8 is submitted, TTS Talent will create an RPA, which moves you to the new PD
       * Please note that you can not be placed on this new PD until your security clearance is processed by OPM. You may request a waiver justification to be placed on this PD before the clearance goes through ONLY if your PD is classified as critical sensitive (versus special sensitive)
       * Waiver justifications must be written by the supervisor and approved by the FAS Commissioner (Alan Thomas)
@@ -64,4 +64,4 @@ Most TTS employees have a Public Trust (Moderate Risk - Level 5) clearance. Howe
 
 ### Still have questions?
 
-Ask [#talent](https://gsa-tts.slack.com/messages/talent) or [TTS-TalentTeam@gsa.gov](mailto:TTS-TalentTeam@gsa.gov)
+Ask [#people-ops](https://gsa-tts.slack.com/messages/talent) or [TTS-PeopleOps@gsa.gov](mailto:TTS-TalentTeam@gsa.gov)
