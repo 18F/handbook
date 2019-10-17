@@ -96,4 +96,4 @@ For an overview of the way in which hiring actions are collected, prioritized an
 
 ### Still have questions?
 
-**General questions** Please reach out to TTS Talent via [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
+**General questions** Please reach out to TTS Talent via [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) or [email](mailto:jointts@gsa.gov) for information regarding hiring.
