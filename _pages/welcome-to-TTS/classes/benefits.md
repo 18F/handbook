@@ -192,8 +192,10 @@ If you have been contributing to a 401k, 403b, or a similar plan at your previou
 
 You may need to include a special additional statement with your tax return explaining you rolled over your IRA to the TSP. For guidance on this, see the [IRS interactive guide to "Do I Need to Report the Transfer or Rollover of an IRA or Retirement Plan on My Tax Return?"](https://www.irs.gov/help/ita/do-i-need-to-report-the-transfer-or-rollover-of-an-ira-or-retirement-plan-on-my-tax-return).
 
-
 ## Training
 
 TTS team members are eligible for many professional development and training opportunities. For more information, see [attending conferences]({{site.baseurl}}/conferences-events-training).
 
+## Transit subsidies
+
+See the [transit benefit]({{site.baseurl}}/transit-benefit/) page.
