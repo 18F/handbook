@@ -54,4 +54,4 @@ expeditionary medal, duration, and character of active duty military service.
 
 ### Still have questions?
 
-**General questions** Please reach out to TTS Talent via [#hiring](https://gsa-tts.slack.com/messages/tts-jobs/) or [email](mailto:jointts@gsa.gov) for information regarding hiring.
+**General questions** Please reach out to TTS Talent via [#hiring](https://gsa-tts.slack.com/messages/hiring/) or [email](mailto:jointts@gsa.gov) for information regarding hiring.
