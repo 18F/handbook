@@ -423,4 +423,4 @@ Courses include, but is not limited to the following:
 
 ### Still have questions?
 
-Ask [#talent](https://gsa-tts.slack.com/messages/talent)
+Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops)
