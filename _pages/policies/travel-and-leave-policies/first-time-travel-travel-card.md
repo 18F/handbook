@@ -51,12 +51,13 @@ Once you receive your new GSA SmartPay 3 travel card, call U.S. Bank at 888-994-
 
 Then, follow these steps to register your account and create your U.S. Bank Access Online user ID:
 
-Go to https://access.usbank.com.
-Select the Register Online hyperlink at the bottom of the screen.
-Enter GSASP3 in the Organization Short Name field.
-Enter the 16-digit number located on your new purchase card (without spaces or dashes) in the Account Number field.
-Enter the month and year your account expires in the Account Expiration Date section. This will be listed on your new travel card as well.
-Select the Register This Account button to complete the registration process for your card and follow the prompts to create your user ID and password.
+1. Go to https://access.usbank.com.
+1. Select the Register Online hyperlink at the bottom of the screen.
+1. Enter GSASP3 in the Organization Short Name field.
+1. Enter the 16-digit number located on your new purchase card (without spaces or dashes) in the Account Number field.
+1. Enter the month and year your account expires in the Account Expiration Date section. This will be listed on your new travel card as well.
+1. Select the Register This Account button to complete the registration process for your card and follow the prompts to create your user ID and password.
+
 After you have registered and signed into the U.S. Bank Access Online website with your new account, you can sign up for account alerts and notifications under My Personal Information.
 
 [Visit the GSA SmartPay 3 purchase card page on InSite for more information](https://insite.gsa.gov/topics/acquisition-purchases-and-payments/gsa-purchase-card/preparing-and-implementing-gsa-smartpay-3-sp3).
