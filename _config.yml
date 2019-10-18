@@ -120,9 +120,6 @@ navigation:
         url: working-groups-and-guilds-101/
         internal: true
         children:
-        - text: Diversity at TTS
-          url: diversity/
-          internal: true
         - text: Accessibility
           url: accessibility/
           internal: true
@@ -166,6 +163,9 @@ navigation:
       - text: Conferences, events, and training
         url: conferences-events-training/
         internal: true
+      - text: Diversity, Equity, and Inclusion
+          url: diversity/
+          internal: true
       - text: Emergency procedures
         url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
         internal: false
