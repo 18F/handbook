@@ -22,25 +22,17 @@ We're careful about publishing [information collected during research](https://h
 
 ## Development
 
-### With Docker
+To run the site locally:
 
-```
-docker-compose up --build
-```
+1. Install [Docker for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac).
+1. Clone this repository.
+1. From this repository directory, run:
 
-### Without Docker
+   ```sh
+   docker-compose up --build
+   ```
 
-Install dependencies:
-
-```bash
-bundle install
-```
-
-Serve the site:
-
-```bash
-bundle exec jekyll serve
-```
+1. Open http://localhost:4000
 
 ### Fork or branch?
 
