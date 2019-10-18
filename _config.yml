@@ -164,8 +164,8 @@ navigation:
         url: conferences-events-training/
         internal: true
       - text: Diversity, Equity, and Inclusion
-          url: diversity/
-          internal: true
+        url: diversity/
+        internal: true
       - text: Emergency procedures
         url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
         internal: false
