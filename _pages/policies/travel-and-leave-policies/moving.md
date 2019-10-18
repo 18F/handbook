@@ -18,7 +18,13 @@ tags:
 - FTT
 ---
 
-If you need to move or submit a new full-time telework arrangement (FTTA), follow the guidance for your situation.
+Full-time Telework Arrangements are required for TTS employees who do not work at least 2 days a pay period in one of the TTS Offices (DC, Chicago, NYC, or San Francisco) or, in rare cases, an approved GSA office.  The instructions below will help guide you through determining if/when you need a full-time telework arrangement (FTTA), how to fill out the analysis tool and get the necessary signatures, and then how to submit it in HR Links for Supervisor approval.  
+
+***Full-time telework arrangements will need to be re-submitted in HR Links annually for approval and will need to be updated to account for any significant changes***
+
+## What you need to do based on where you're moving 
+
+If you need to move or submit a new full-time telework arrangement, follow the guidance for your situation:
 
 * [A full-time telework employee who is moving to a new full-time telework location]({{site.baseurl}}/moving/#a-full-time-telework-arrangement-is-needed) 
 * [A full-time telework employee who is moving to one of our offices (DC, CHI, NYC or SFO)]({{site.baseurl}}/moving/#effective-date)
@@ -35,17 +41,20 @@ If you need to move or submit a new full-time telework arrangement (FTTA), follo
 * Not required if you are moving to one of our offices (DC, CHI, NYC or SFO)
 * If the number of approved trips on your original FTTA is increasing
 * If you're a full-time telework employee and your position changes due to a reassignment, PD change or a promotion
+* ***Full-time telework arrangements will need to be re-submitted in HR Links annually for approval and will need to be updated to account for any significant changes***
 
 ### How to fill out a Full-time Telework Arrangement
 
-Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit) for completing the FTTA Form.  Please see below for a comprehensive list of when a FTTA is required and for tips on filling it out.
+Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit) for completing the FTTA Form and how to submit it in HR Links for Supervisor approval.  Please see below for a comprehensive list of when a FTTA is required and for tips on filling it out.
+
+***NOTE: All signed Full-time Telework Arrangement Analysis Tools must now be submitted in HR Links for Supervisor approval.  TTS Talent will help to gather the signatures and provide the fully signed copy to you so that you can submit in HR Links***
 
 ### Things to note when completing the FTTA
 
-* Supervisors will need to provide a written business justification (Part I of the FTTA form) for all FTTAs whether they provide a cost savings or cost increase
+* Supervisors will need to provide a written business justification (Part H of the FTTA form) for all FTTAs whether they provide a cost savings or cost increase
 * In the justification include the salaries for the staff member’s current location and the new location. In the Form, the new duty station must always be compared to the **DC office** but TTS leadership would like to see the difference between the actual current location and the new location.
 * Supervisors will need to provide the number of trips an employee will have to make to DC annually and how long those trips will be (do not include billable trips).
-* Existing staff FTTAs can just have the city and state listed (noting on the form that the person is asking for approval to move prior to having a new full address)
+* Existing staff FTTAs can just have the city and state listed (noting on the form that the person is asking for approval to move prior to having a new full address); this should be updated in HR Links once the official address has been confirmed
 
 ### TTS approval signatures required for FTTA
 
