@@ -236,8 +236,8 @@ navigation:
         url: anyconnect/
         internal: true
       - text: DocuSign (digital signatures; replaced eSign)
-        url: https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/software-and-applications/digital-signatures?term=eSignLive
-        internal: false
+        url: digital-signatures/
+        internal: true
       - text: Federalist (publishing platform)
         url: federalist/
         internal: true
