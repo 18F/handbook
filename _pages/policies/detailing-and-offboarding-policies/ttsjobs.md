@@ -35,7 +35,9 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 
 ### Internal only competitions
-
+- [Feedback Analytics Engineer](https://docs.google.com/document/d/1L8WGrKMjeKfEaysACLj3-ybuk94IaKIZ9angkuY-2SM/) (Open Oct 21 - 28)
+- [Digital.gov Engineer](https://docs.google.com/document/d/1uzoB3Agm-QxIzFtGuoAuiweP_glKgAZgPOjJPMRRjhw/) (Open Oct 21 - 28)
+- [US Web Design System Engineer](https://docs.google.com/document/d/1dsVJKrmg-44yc4bWPtZbTlPJpQQo1_p6EnCI9cpMaqg/) (Open Oct 21 - 28)
 
 ## Partner information & opportunities
 
