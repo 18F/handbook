@@ -43,6 +43,7 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 [Solutions / US Web Design System Engineer](https://docs.google.com/document/d/1dsVJKrmg-44yc4bWPtZbTlPJpQQo1_p6EnCI9cpMaqg/edit) - Application opened Monday, October 21st through Monday, October 28th, at 12 pm ET/9 am PT
 
+[login.gov Application Engineer](https://docs.google.com/document/d/127rRKlx6gzVSS7X2H0GqFTgg5OqV2qgeh6_oLk45Uas/edit) - Application opened Monday, October 21st through Wednesday, October 30th
 
 ## Partner information & opportunities
 
