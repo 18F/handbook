@@ -1,8 +1,3 @@
----
-status: Up-to-date
-updated: Jan 16, 2019
----
-
 # Benefits
 
 ## Holidays
@@ -40,9 +35,9 @@ Time off will be recorded simply to easily see any patterns that might otherwise
 
 Employees of CivicActions, including part-time employees, who have worked for at least one (1) year may request a personal leave of absence. A leave of absence is for extended periods, typically 4 weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
 
-## Maternity and Paternity Leave
+## Parental Leave
 
-Welcoming a new baby is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption) and acclimate to the new life ahead. Our policy is that expectant mothers can take twelve weeks of maternity leave fully paid after 9 months of employment and expectant fathers can take four weeks of paternity leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant mother or father needs additional leave, we will review requests on a case-by-case basis.
+Welcoming a new baby is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption) and acclimate to the new life ahead. Our policy is that expectant parents can take twelve weeks of leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant parent needs additional leave, we will review requests on a case-by-case basis.
 
 ## Medical Insurance
 
