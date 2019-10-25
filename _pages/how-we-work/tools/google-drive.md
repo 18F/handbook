@@ -17,7 +17,10 @@ We use Google Drive to keep track of our work and collaborate on documents, pres
 * **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
 * When you’re at work, make sure you're on the 18F Google Drive and not your private account, especially when working with outside partners. Official 18F documents must live on the GSA/18F shared drive for compliance reasons.
 * Everything in Google Drive can be FOIA’ed.
-* Offline syncing for Google Drive/Docs has been disabled for GSA.
+
+## Local editing
+
+[Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en) can be used for local editing of files on Drive, though offline editing is not yet supported for Macs at GSA. [InSite page.](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-drive-and-shared-drive?term=drive%20file%20stream#Drive%20File%20Stream)
 
 ### 18F Drive specifics
 
