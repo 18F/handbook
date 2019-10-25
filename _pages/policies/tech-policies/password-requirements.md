@@ -4,7 +4,6 @@ title: Requirements for Passwords
 
 Follow the steps below to create and maintain secure passwords.
 
-
 ## Requirements for passwords
 
 As you set up your TTS accounts and devices, we have three requirements for making passwords that reduce security risks: use a password manager, use unique passwords, and use stronger passwords.
@@ -15,8 +14,8 @@ There's a secret to dealing with passwords: use a password manager to store your
 
 Password managers approved for work at GSA:
 
-* [**KeePassXC**](https://keepassxc.org/) (Windows/Apple/Linux) - KeePass is a free download and open source. The password database is stored locally on your computer.
-* Google Sheets is approved as a password management solution.
+- [**KeePassXC**](https://keepassxc.org/) (Windows/Apple/Linux) - KeePassXC is a free download and open source. The password database is stored locally on your computer, though it's recommended that you [sync it to Google Drive]({{site.baseurl}}/google-drive/#local-editing).
+- Google Sheets is approved as a password management solution.
 
 **1Password**: Please note that 1Password is no longer an approved password manager.
 
