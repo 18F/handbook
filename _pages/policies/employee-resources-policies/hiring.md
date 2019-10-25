@@ -9,6 +9,8 @@ This section provides a brief overview of the types of hiring actions along with
 
 If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page]({{site.baseurl}}/ttsjobs)
 
+To learn about the different hiring authorities we use please visit our [hiring authorities](https://handbook.18f.gov/hiring-authorities/) page.
+
 ## Types of hiring actions at TTS
 
 ### Competitive (Career) and Excepted Service hiring actions via the Merit Promotion Process
@@ -64,6 +66,7 @@ In addition to the information within the templates, the hiring manager will nee
 - Developing the interview process
 - Scheduling interviews
 - Making a selection
+- filling out the [candidate pool template](https://docs.google.com/spreadsheets/d/1EN3iLUmmDQ4iX5k-AsDsUPUd_igrEy3BEtlIs5KM59w/edit?usp=sharing)
 - Letting the Talent Team know who was selected for the position
 
 The hiring team is responsible for confirming that applicants meet the qualifications outlined in the posting (i.e. GS level, required experience). For HR to move forward with a selection, the applicant must meet the following qualifications:
@@ -78,7 +81,7 @@ The hiring team is responsible for confirming that applicants meet the qualifica
 When the team has determined who they would like to place in the role, they must:
 
 - First confirm with the employee’s supervisor that they are OK with this employee moving to their team
-- Forward the supervisor's approval to Talent at this email: [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov). Talent will need to submit a Reassignment PAR to HR.
+- Forward the supervisor's approval to Talent at this email: [jointts@gsa.gov](mailto:jointts@gsa.gov). Talent will need to submit a Reassignment PAR to HR.
 
 It is the responsibility of the HM provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
 
