@@ -35,8 +35,6 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Internal only competitions
 
-[Talent Recruiting Coordinator](https://docs.google.com/document/d/1Z_uBhV-65GEiRqg7ntv8WlBBLC4iLFpMkFZUuUAu9z4/edit#)  - Application open Monday, October 21st through Friday, October 25th at 5pm Pacific Time
-
 [Solutions / Feedback Analytics Engineer](https://docs.google.com/document/d/1L8WGrKMjeKfEaysACLj3-ybuk94IaKIZ9angkuY-2SM/edit) - Application open Monday, October 21st through Monday, October 28th, at 12 pm ET/9 am PT
 
 [Solutions / Digital.gov Engineer](https://docs.google.com/document/d/1uzoB3Agm-QxIzFtGuoAuiweP_glKgAZgPOjJPMRRjhw/edit) - Application open Monday, October 21st through Monday, October 28th, at 12 pm ET/9 am PT
