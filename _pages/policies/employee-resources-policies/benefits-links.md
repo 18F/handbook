@@ -40,9 +40,3 @@ GSA offers a number of support services and contacts for employees. The [Employe
 
 ### Legal contacts 
 For any legal questions about Hatch Act, Ethics, or anything, email our OGC contact [John Peters](mailto:john.h.peters@gsa.gov). 
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops) 
