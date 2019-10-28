@@ -35,12 +35,6 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Internal only competitions
 
-[Solutions / Feedback Analytics Engineer](https://docs.google.com/document/d/1L8WGrKMjeKfEaysACLj3-ybuk94IaKIZ9angkuY-2SM/edit) - Application open Monday, October 21st through Monday, October 28th, at 12 pm ET/9 am PT
-
-[Solutions / Digital.gov Engineer](https://docs.google.com/document/d/1uzoB3Agm-QxIzFtGuoAuiweP_glKgAZgPOjJPMRRjhw/edit) - Application open Monday, October 21st through Monday, October 28th, at 12 pm ET/9 am PT
-
-[Solutions / US Web Design System Engineer](https://docs.google.com/document/d/1dsVJKrmg-44yc4bWPtZbTlPJpQQo1_p6EnCI9cpMaqg/edit) - Application open Monday, October 21st through Monday, October 28th, at 12 pm ET/9 am PT
-
 [login.gov Application Engineer](https://docs.google.com/document/d/127rRKlx6gzVSS7X2H0GqFTgg5OqV2qgeh6_oLk45Uas/edit) - Application open Monday, October 21st through Wednesday, October 30th
 
 ## Partner information & opportunities
