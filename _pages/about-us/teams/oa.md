@@ -35,6 +35,16 @@ If you are within TTS and your procurement need costs less than the micro-purcha
 If you are within TTS and your procurement need costs more than the micro-purchase threshold ($10,000), please visit the 
 [Procurements over $10,000]({{site.baseurl}}/procurements-over-10000) section in the handbook.
 
+### TTS Assisted Acquisition
+
+Procurement of services and/or products over $10k that will partially or fully support your partner(s) outside of TTS (including other GSA offices and partner agencies), paid partially or fully by your partner(s), will be considered an assisted acquisition. 
+
+However, OA is currently set up as a shared service, so please keep in mind that we cannot work directly with outside partners. In order for us to do an assisted acquisition, the request must come through one of the following TTS Business Units (BU). Also note that each BU has its own assisted acquisition process as well as vetting criteria. Please contact the following BUs for more information and/or to get started:
+
+- [18F](https://docs.google.com/presentation/d/1RIxGEtQ4vMEfcdx8JYXQ_U5-uTMTu1Ffi-UNur1XKHQ/edit#slide=id.p) - Inquiries18F@gsa.gov
+- OPP - Slack [#opp](https://gsa-tts.slack.com/messages/tts-oa)
+- [CoE](https://coe.gsa.gov/) - ConnectCoE@gsa.gov
+
 ## TTS OA Operational Guidance
 
 TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to service
