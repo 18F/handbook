@@ -61,4 +61,4 @@ Fill out the form using the following information for Part A:
 
 ### Still have questions?
 
-Please ping: [Talent](https://gsa-tts.slack.com/messages/hrlinks) or send an email to [hrlinks@gsa.gov](mailto:hrlinks@gsa.gov)
+Please ping: [People Ops](https://gsa-tts.slack.com/messages/people-ops) or send an email to [hrlinks@gsa.gov](mailto:hrlinks@gsa.gov)

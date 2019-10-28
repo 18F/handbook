@@ -27,6 +27,8 @@ Government has a position driven view; everything begins with the need, not the 
 
 As you can see from the above excerpt from GSA’s policy, the Merit process is for “filling vacancies through internal competition”. The Merit process increases visibility of opportunities within TTS and creates an avenue for other federal employees to join TTS, thereby increasing the diversity of the organization.
 
+- **For all roles, employees interested in applying must have one-year in grade in order to be eligible to apply.  That means if you are a GS-11, you cannot apply to a merit promotion announcement until you have been a GS-11 for no less than one year.**
+
 ### Filling a vacancy via Competitive Service (Career) Merit Promotion Process
 
 As part of the larger FAS organization, TTS must also meet the agency staffing plan requirements. Which means that offices across TTS have a set number of “positions” (i.e., things that represent FTE) that have been approved by TTS, CFO, and FAS Front Office as part of the TTS Staffing Plan. If an office has vacant positions available, they can choose to fill those positions through external recruitment or through the Merit Promotion process (i.e., internal recruitment of current or former feds from other agencies).
@@ -56,6 +58,7 @@ TTS employees who are interested in applying for the position should reach out t
 Other teams or offices who have a hiring need may ask to view the qualified candidate pool from another team’s posted role and make a selection if they have an available position on the staffing plan.
 
 - In order to hire a candidate to a different team or office, the hiring action owner will need a PD similar to the one associated with the job announcement.
+
 
 ### Filling a vacancy via the Excepted Service version of the Merit Promotion Process
 
@@ -94,4 +97,4 @@ Virtual trainings and information on writing a resume, navigating USAJobs, and g
 
 ### Still have questions?
 
-Please reach out to TTS Talent via [#talent](https://gsa-tts.slack.com/messages/talent/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding promotions.
+Please reach out to TTS Talent via [#hiring](https://gsa-tts.slack.com/messages/hiring/) or [email](mailto:tts-jointts@gsa.gov) for information regarding promotions.

@@ -293,7 +293,9 @@ If you'd like to schedule personal travel that's incidental to your work trip (i
 
 #### International travel
 
-All official international travel taken by GSA employees, regardless of funding source, also requires Salesforce event approval. Please reach out to michael.proul@gsa.gov at least 7 weeks in advance in order to coordinate this.
+All official international travel taken by GSA employees, regardless of funding source, requires Salesforce event approval. Please reach out to michael.proul@gsa.gov at least 7 weeks in advance in order to coordinate this.
+
+Teleworking from locations outside the U.S. while on personal travel is not allowed.
 
 #### How should I estimate my expenses
 

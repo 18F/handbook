@@ -116,7 +116,6 @@ $(document).ready(function() {
 document.addEventListener('DOMContentLoaded', function() {
   PrivateEye({
     defaultMessage: "This link is private to TTS.",
-    // see also: https://github.com/18F/guides-style/blob/master/assets/js/18f-guide.js
     ignoreUrls: [
       '18f.slack.com',
       'anywhere.gsa.gov',

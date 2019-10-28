@@ -8,7 +8,7 @@ Something went "bump" in the night (or the day)? This document explains what to 
 
 An “incident” or “information security incident” can be thought of as a violation or imminent threat of violation of information security or privacy policies, acceptable use policies, or standard security practices. 
 
-See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/report-it-security-incidents-and-suspicious-activity-immediately) if you need help determining whether something counts as an incident. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to: [ITServiceDesk@gsa.gov](mailto: ITServiceDesk@gsa.gov) or 1-866-450-5250.  
+See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/report-it-security-incidents-and-suspicious-activity-immediately) if you need help determining whether something counts as an incident. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to the [GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
 
 If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. For questions about GSA’s Incident Response Program, contact the GSA Incident Response (IR) Team at [gsa-ir@gsa.gov](mailto:gsa-ir@gsa.gov).
 
@@ -31,12 +31,9 @@ If you also clicked on a link in a phishing email, follow these steps to report 
 To report a security incident, follow *all* of the steps below:
 
 1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov within 1 hour of identifying an incident. You can use this
- <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email to everyone at the same time</a>. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. security token committed to GitHub repo). When emailing GSA's Incident Response (IR) team, please include as many details as possible, including relevant URLs, repos, and a link to related GitHub issue (if applicable). It is critical that you notify GSA IR within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, call the IT Service Desk at 1-866-450-5250. If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team. If you do not recieve a timely acknowledgement of your report, you can phone the IR team via the numbers listed in Section 3.1.1 of the [GSA IT Security Procedural Guide](https://insite.gsa.gov/portal/getMediaData?mediaId=558637).
+ <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">link to quickly send an email to everyone at the same time</a>. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. security token committed to GitHub repo). When emailing GSA's Incident Response (IR) team, please include as many details as possible, including relevant URLs, repos, and a link to related GitHub issue (if applicable). It is critical that you notify GSA IR within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, [contact them another way]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}). If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team. If you do not recieve a timely acknowledgement of your report, you can phone the IR team via the numbers listed in Section 3.1.1 of the [GSA IT Security Procedural Guide](https://insite.gsa.gov/portal/getMediaData?mediaId=558637).
 
-1. Report the incident in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
-
-1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new) describing the incident in **as much detail as possible, excluding sensitive data**.
-  * Keep this issue up to date by adding comments with appropriately summarized actions or information from interactions with the GSA IR team. GSA IR must be emailed updates as incidents unfold. Please do not rely on GitHub to communicate with the GSA IR team. GitHub should be used to document communications with GSA IR, not used in place of email communications.
+1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new), tracking the status of these steps.
   * **If you suspect sensitive data is part of the security incident that you're reporting, you must create a GSA Google Drive folder and share it with devops@gsa.gov and gsa-ir@gsa.gov ONLY**. To do this, ensure you're creating the folder as part of "My Drive" and not within a pre-existing folder. Use this GSA Google Drive folder for any potentially sensitive data and/or files. Add static files, Google Docs, or Google Sheets as appropriate, and add a comment to any information you think is critical to the investigation.
   * Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. Include the hyperlink to the GSA Google Drive folder in the top summary of the GitHub Issue. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident.
 
@@ -46,7 +43,7 @@ To report a security incident, follow *all* of the steps below:
 
 1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov), but try to drive as much of the conversation back to [#incident-response](https://gsa-tts.slack.com/messages/incident-response) in Slack as possible.
 
-1. If you cannot access email or Slack, please call the GSA IT Service Desk at 1-866-450-5250 and ask them to forward the relevant information to the addresses above. 
+1. If you cannot access email or Slack, please [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}) and ask them to forward the relevant information to the addresses above. 
 
 Please note that incidents need to be reported *within one hour* of being identified. This isn't "within an hour of happening" but "within one hour of you becoming aware of the incident." The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 
@@ -75,6 +72,6 @@ If an incident involved exposing environment variables or private configuration 
 ## Contacts
 
 - Questions? Ask in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel
-- GSA contacts: [IT Service Desk](mailto:itservicedesk@gsa.gov), [GSA IR team](mailto:gsa-ir@gsa.gov), and [GSA DevOps](mailto:devops@gsa.gov)
+- GSA contacts: [IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}), [GSA IR team](mailto:gsa-ir@gsa.gov), and the [TTS Tech Portfolio](mailto:devops@gsa.gov)
 - cloud.gov: [cloud.gov support team](mailto:cloud-gov-support@gsa.gov)
 - Need to find the Information System Security Officer (ISSO) or Information System Security Manager (ISSM) for a specific system? See the [directory of contacts for GSA systems](https://ea.gsa.gov/#!/FISMA_POC). (You'll need to be on the GSA network or VPN to access the directory.)

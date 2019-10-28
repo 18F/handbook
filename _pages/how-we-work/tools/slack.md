@@ -109,11 +109,22 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
 
 Per the mandatory [General Records Schedule 3.1](http://www.archives.gov/records-mgmt/memos/ac33-2014.html) issued by the National Archives and Records Administration (NARA), everything in Slack channels and groups is considered at minimum a temporary record.
 
-To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) using @slackadmin.
+To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) using `@slackadmin`.
 
-This policy applies to all types of Slack communications: public channels, private groups, even direct messages. **Nothing is private.** We use the [compliance export](https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-policy-update#complianceexport) capability in Slack to view all messages. The Primary Team Owner is responsible for ensuring monthly exports and backing these exports up in GSA's Google Drive.
+This policy applies to all types of Slack communications: public channels, private groups, even direct messages. **Nothing is private.** We use the [Corporate Export](https://get.slack.help/hc/en-us/articles/204897248-Guide-to-Slack-import-and-export-tools) capability in Slack to get the data and filter using the [slack-export-handling](https://github.com/18F/slack-export-handling) tool.
 
-During regular operations, only the Slack Owners, the Executive Director of 18F, and GSA IT have access to the exports. There is no regular monitoring of these messages, but they have been reviewed in the past. Various legal actions (for example, a Freedom of Information Act request) or security operations approved by the Infrastructure Director have required others to view the exports. The team will continue to be notified at the earliest possible time that the exports have been accessed. Notifications of access may not be made in realtime.
+During regular operations, only the Slack Owners have access to the exports. There is no regular monitoring of these messages, but they have been reviewed in the past. Various legal actions (for example, a Freedom of Information Act (FOIA) request) or security operations approved by the Infrastructure Director have required others to view the exports. The team will continue to be notified at the earliest possible time that the exports have been accessed. Notifications of access may not be made in realtime.
+
+## Exporting channel contents
+
+There is not an easy way to export the contents of a single channel, for partners or otherwise. If you really want, you can:
+
+1. Open the Slack channel in Chrome
+1. [Take a screenshot](https://zapier.com/blog/full-page-screenshots-in-chrome/)
+1. Scroll up
+1. Repeat
+
+These, of course, will be images, so they unfortunately won't be searchable.
 
 ## Infrastructure security
 
@@ -161,7 +172,7 @@ New integrations/bots need approval from the following:
 
 ## Shared Channels
 
-Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-). Shared channels are a more efficient and economic way to work with people in other Slack workspaces than managing them in our Slack workspace as guests, especially when we using multiple channels for a project. All records in shared channels are [retained and available for compliance exports](https://get.slack.help/hc/en-us/articles/115004152843-Shared-channel-beta-security-policies-).
+Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-). Shared channels are a more efficient and economic way to work with people in other Slack workspaces than managing them in our Slack workspace as guests, especially when we using multiple channels for a project. All records in shared channels are [retained and available for Corporate Exports](https://get.slack.help/hc/en-us/articles/204897248-Guide-to-Slack-import-and-export-tools).
 
 ### Requesting a new shared channel
 When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it. Please specify if you want to use a new channel or want us to share an existing channel. Please also give us a heads up before partners send us a sharing request.
@@ -222,14 +233,14 @@ Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archiv
 - **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
 - **PIF employees** review your post with Joshua Di Frances, and he can post it when it's ready.
 
-Please keep #news posts limited to information that the entire team needs to know. This includes things like:  
+Please keep #news posts limited to information that the entire team needs to know. This includes things like:
   
-- Required trainings  
-- Necessary security and compliance actions  
-- Policy changes or reminders  
-- All-team events  
-- Senior management team meeting notes  
-- Changes or actions that impact the entire team  
+- Required trainings
+- Necessary security and compliance actions
+- Policy changes or reminders
+- All-team events
+- Senior management team meeting notes
+- Changes or actions that impact the entire team
 
 ### When to use @channel and @here
 In general, the larger a channel is, the more careful you should be about using broadcast notifications.
@@ -277,9 +288,7 @@ Some channels may have particular guidance for getting help, which you can usual
 
 If you're interested in learning more about the bots, or perhaps contributing to them, pop into [#bots](https://gsa-tts.slack.com/archives/bots/).
 
---------------------------------------------------------------------------------
-
-## Appendix: Channel names and handy shortcuts
+## Channel names and handy shortcuts
 
 ### Clusters of channels
 

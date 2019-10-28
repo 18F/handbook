@@ -18,7 +18,7 @@ title: Travel Guide Table of Contents
       * [International travel]({{site.baseurl}}/travel-guide-faq/#international-travel)
       * [Estimating expenses]({{site.baseurl}}/travel-guide-faq/#how-should-i-estimate-my-expenses)
     * [Book your flight or rail]({{site.baseurl}}/travel-guide-faq/#how-to-book-flights-or-rail)
-    * [Book lodging)]({{site.baseurl}}/travel-guide-faq/#book-lodging)
+    * [Book lodging]({{site.baseurl}}/travel-guide-faq/#book-lodging)
     * [Can I book lodging outside of Concur]({{site.baseurl}}/travel-guide-faq/#can-i-book-outside-of-concur)
     * [Booking a rental car]({{site.baseurl}}/travel-guide-faq/#booking-a-rental-car)
     * [Completing trip information]({{site.baseurl}}/travel-guide-faq/#completing-trip-information)

@@ -9,7 +9,6 @@ STANDARD OPERATING PROCEDURE: TC-18-CS1-001
 |**DATE:**|Iterated (3.0) on December 14, 2018|
 |**SUBJECT:**|Standard Operating Procedure (SOP) for GSA TTS OA management reviews of procurement actions|
 
-<br>
 *FAS TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to government procurement and related service level policy. One of the principles of agile is to embrace change in a way that promotes continuous improvement. In keeping with this principle, this SOP is subject to change to keep TTS procurement practices current, applicable and in compliance at the Federal, Agency and Service levels. TTS OA will accomplish this by soliciting feedback in quarterly iterations and updating this SOP accordingly.*
 
 **1.0 Purpose:** The purpose of SOP TC-18-CS1-001 is to help ensure compliance with all applicable acquisition laws and regulations and to improve the quality of TTS procurements.
@@ -40,7 +39,7 @@ STANDARD OPERATING PROCEDURE: TC-18-CS1-001
       - Award decision memo
 
   - **For procurements above $25,000:**
-    - TTS management (one level above the CO) and TTS procurement analysts will perform the first review of acquisition packages prior to RFQ/solicitation release and prior to award. 
+    - TTS management (one level above the CO) and TTS procurement analysts will perform the first review of acquisition packages prior to RFQ/solicitation release and prior to award.
     - At The Office of Governmentwide Policy (OGP)'s request, they may conduct additional reviews at any stage in the procurement process.
     - See above for examples of acquisition package documents to be reviewed.
 
@@ -54,8 +53,7 @@ STANDARD OPERATING PROCEDURE: TC-18-CS1-001
   - Significant comments
   - CO reconciliation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documentation of each review shall be filed under `Tab 025` in the contract file.
-
+Documentation of each review shall be filed under `Tab 025` in the contract file.
 
 **5.0 Notification of sensitive acquisition:** The TTS OA CO will notify the Director of TTS OA and the TTS HCA of any actions considered “sensitive” at least 15 calendar days prior to public/external communications. The TTS HCA will, in turn, notify the FAS Commissioner (as necessary) of the action(s), per the existing FAS Front Office contract notification procedures, at least 10 calendar days ahead of public/external communications. Examples of “sensitive” actions are as follows:
 
@@ -65,8 +63,7 @@ STANDARD OPERATING PROCEDURE: TC-18-CS1-001
   - Acquisitions related to the launch of a new program
   - Acquisitions that have received a GAO protest
 
-
-**6.0 Notification of FedBizOpps (FBO) postings:** The TTS OA CO will notify the TTS OA Director two weeks prior of any action posted on FBO (RFI, RFQ, etc.) via the Weekly Report Fact Sheet Template. 
+**6.0 Notification of FedBizOpps (FBO) postings:** The TTS OA CO will notify the TTS OA Director two weeks prior of any action posted on FBO (RFI, RFQ, etc.) via the Weekly Report Fact Sheet Template.
 
 ---
 *<sup>1</sup> “Significant,” in this context, means anything that could materially change the procurement approach and related documentation.*
