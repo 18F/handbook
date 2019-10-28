@@ -58,7 +58,7 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 
 ### TTS approval signatures required for FTTA
 
-Please gather the following apprapriate signatures using [DocuSign](({{site.baseurl}}/digital-signatures/).  Make sure to select KEEP PDF FORM DATA when adding signature fields.
+Please gather the following apprapriate signatures using [DocuSign]({{site.baseurl}}/digital-signatures/).  Make sure to select KEEP PDF FORM DATA when adding signature fields.
 
 **For the Annual Review when there are no major changes to your full-time telework arrangement:**
 
