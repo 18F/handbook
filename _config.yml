@@ -10,15 +10,13 @@ github:
 
 exclude:
 - CONTRIBUTING.md
+- Dockerfile
 - Gemfile
 - Gemfile.lock
 - LICENSE.md
 - README.md
 - go
 - vendor
-
-sass:
-  style: :compressed
 
 styles:
   - stylesheets/screen.css
