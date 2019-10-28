@@ -14,7 +14,7 @@ Buying something over $10,000 means that the Office of Acquisition (OA) needs to
 - Things you should know before submitting the Intake Form:
   - We will need funding for the buy in the form of a PR or a [memo](https://docs.google.com/document/d/1tayJSTcge_jUEM7BWQvX2Tw_oexv6XhecTkJsawGknw/edit) stating funds are available.
   - Start thinking about who should be the Contracting Officer Representative (COR) on the project, someone to help manage the buy. They will need to be [FAC-COR](https://docs.google.com/document/d/1HzbEv6yQn6pWYl1MDImeLW6ShedcRsekSCBe54Nsnc8/edit#heading=h.aizxbe137goh) certified.
-  - If your request is for a software, please note that it is your responsibility to you get an Authority to Operate (ATO) or Fedramp Authorization. GSA IT asks technical and security questions, and you are probably the best POC to answer them. The steps to find or get an ATO is outlined in [TTS Handbook-Software-ATO]({{ "/software/#step-1-find-or-get-an-ato" | relative_url }}) section.
+  - If your request is for a software, please note that it is your responsibility to you get an Authority to Operate (ATO) or Fedramp Authorization. GSA IT asks technical and security questions, and you are probably the best POC to answer them. The steps to find or get an ATO is outlined in [TTS Handbook-Software-ATO]({{ site.baseurl }}/software/#step-1-find-or-get-an-ato) section.
 
 ### 2. Intro meeting
 
@@ -36,7 +36,7 @@ Buying something over $10,000 means that the Office of Acquisition (OA) needs to
   - Request For Quote (RFQ)
   - Quality Assurance Surveillance Plan (QASP), if applicable
   
- ### 5. Posting the solicitation
+### 5. Posting the solicitation
   
 - We documented what we need and what is required per federal and agency regulations, so now we can post it to the public and see who can deliver!
 - The COs have several venues where we can post our RFQ and supporting documentation: [GSA ebuy](https://www.ebuy.gsa.gov/advantage/ebuy/start_page.do), [FedBizOpps](https://www.fbo.gov/), and/or [Github](https://github.com/). The CO will be responsible for this action. 

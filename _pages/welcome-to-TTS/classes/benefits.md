@@ -4,12 +4,12 @@ title: Benefits
 
 **If you're looking for specific benefits sites, see the [benefits links page]({{site.baseurl}}/benefits-links/).**
 
-GSA requires that you enroll in many of the benefits offered to you within the first 60 days of work. Otherwise, you&rsquo;ll have to wait for Open Season, which typically runs from the Monday of the second full work week in November through the Monday of the second full work week in December.
+GSA requires that you enroll in many of the benefits offered to you within the first 60 days of work. Otherwise, you'll have to wait for Open Season, which typically runs from the Monday of the second full work week in November through the Monday of the second full work week in December.
 
 ## Submitting benefit forms
 
 ### New hires
-Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).
+Follow [these instructions](https://docs.google.com/presentation/d/151w2MOgtbiskmN7I13UgjiHZk2VZuJmAPotwixpHTFQ/edit#slide=id.p) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) and reach out to [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) with any questions.
 
 ### Current employees
 Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) when you're submitting documents due to a change in life event (such as getting married or having a child).
@@ -28,21 +28,20 @@ You can find these documents by logging onto HR Links and selecting the followin
 
 Contact [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) for questions related to benefits, retirement, and leave policies (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
-Find us in Slack:
+Slack channel for TTS staff to discuss GSA benefits:
 
-- [#benefits](https://gsa-tts.slack.com/messages/benefits)
-
+- [#people-ops](https://gsa-tts.slack.com/messages/people-ops)
 
 ## Credit union
 
-GSA has a [credit union](https://www.gsafcu.gsa.gov/). It is free and easy to join if you&rsquo;re a current employee. Once you join, you're a member for life (even if you leave GSA).
+GSA has a [credit union](https://www.gsafcu.gsa.gov/). It is free and easy to join if you're a current employee. Once you join, you're a member for life (even if you leave GSA).
 
 ## Discounts
 
 Organizations across the United States offer a number of discounts to federal employees. Specific discounts are covered [here](http://www.govexec.com/federal-news/2013/10/gimme-my-discount/29165/), [here](http://www.fedsave.com/), and [here](https://www.govloop.com/top-50-discounts-for-government-employees/), but some highlights include:
 
 * Members of the military and government employees with verified email addresses are eligible for [free digital access to The Washington Post](https://subscribe.washingtonpost.com/specialoffer/#/gov-mil).
-* Major cell phone carriers offer a 15% discount on cell plans to all federal employees&mdash;just ask!
+* Major cell phone carriers offer a 15% discount on cell plans to all federal employees---just ask!
 * Apple offers a discount (~10%) to feds when they buy personal equipment.
 * General Assembly offers a discount to federal employees.
 
@@ -54,7 +53,7 @@ EAPs offer free, **confidential** counseling, legal and financial advice, and em
 
 [Flexible spending accounts](https://www.opm.gov/healthcare-insurance/flexible-spending-accounts/) (FSA) allow you to pay for [eligible out-of-pocket health care and dependent care expenses](https://www.fsafeds.com/support/eligibleexpenses) with pre-tax dollars. They cannot be used to pay any type of premium, and you must use all the money in your account by the end of the year or you risk forfeiture of the unused funds. However, there is a grace period. If you have unused funds in your FSA account and incur expenses from January 1 through March 15, you have until April 30 to submit claims against the prior year.
 
-Common reimbursements include gym memberships (with a doctor&rsquo;s note), over-the-counter medication (with a doctor&rsquo;s note), and eyeglasses.
+Common reimbursements include gym memberships (with a doctor's note), over-the-counter medication (with a doctor's note), and eyeglasses.
 
 There are three kinds of FSA:
 
@@ -95,8 +94,7 @@ To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollme
 - Once you click "Submit" the documents get sent to the cpc benefits team where they can review and process these actions.
 - Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) letting her know you have submitted these documents so that she can confirm with CPC that they have received them.  You can email Mary any time with benefits questions or issues.
 
-The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Ask in [#benefits](https://gsa-tts.slack.com/messages/benefits).
-
+The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Contact [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov).
 
 ### Dental
 
@@ -187,20 +185,16 @@ You can also update TSP directly in [HR Links]({{site.baseurl}}/leave/#logging-i
 
 If you ever move, you can update your address for TSP by emailing it to both the [Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the [GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the TSP office of your new address.
 
-To transfer your previous retirement account into your TSP, you&rsquo;ll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
+To transfer your previous retirement account into your TSP, you'll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
 
 If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans can not be higher than [the annual limit](https://www.tsp.gov/PDF/bulletins/18-04.html).
 
 You may need to include a special additional statement with your tax return explaining you rolled over your IRA to the TSP. For guidance on this, see the [IRS interactive guide to "Do I Need to Report the Transfer or Rollover of an IRA or Retirement Plan on My Tax Return?"](https://www.irs.gov/help/ita/do-i-need-to-report-the-transfer-or-rollover-of-an-ira-or-retirement-plan-on-my-tax-return).
 
-
 ## Training
 
 TTS team members are eligible for many professional development and training opportunities. For more information, see [attending conferences]({{site.baseurl}}/conferences-events-training).
 
-
 ## Transit subsidies
 
-All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you'll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor's signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office guides]({{site.baseurl}}/#18f-locations) for more information.
-
-GSA's Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).
+See the [transit benefit]({{site.baseurl}}/transit-benefit/) page.

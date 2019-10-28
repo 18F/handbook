@@ -10,15 +10,13 @@ github:
 
 exclude:
 - CONTRIBUTING.md
+- Dockerfile
 - Gemfile
 - Gemfile.lock
 - LICENSE.md
 - README.md
 - go
 - vendor
-
-sass:
-  style: :compressed
 
 styles:
   - stylesheets/screen.css
@@ -175,6 +173,9 @@ navigation:
       - text: Employment verification
         url: employment-verification/
         internal: true
+      - text: Hiring authorities
+        url: hiring-authorities/
+        internal: true
       - text: Overtime and comp time
         url: overtime-and-comp-time/
         internal: true
@@ -226,15 +227,14 @@ navigation:
         internal: true
   - text: Software and tools
     children:
-    - children:
       - text: GSA internal tools
         url: gsa-internal-tools/
         internal: true
       - text: AnyConnect (VPN client)
         url: anyconnect/
         internal: true
-      - text: eSign (digital signatures)
-        url: esign/
+      - text: DocuSign (digital signatures; replaced eSign)
+        url: digital-signatures/
         internal: true
       - text: Federalist (publishing platform)
         url: federalist/
@@ -260,21 +260,20 @@ navigation:
       - text: Google Meet (video conferencing)
         url: google-meet/
         internal: true
-    - children:
       - text: Meetings and meeting tools
         url: meetings-and-meeting-tools/
         internal: true
       - text: Microsoft Office for OS X
-        url: https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing
-        internal: false
+        url: office/
+        internal: true
       - text: Mural.ly (collaborative whiteboard tool)
         url: murally/
         internal: true
-      - text: Network time sync in OS X with NTP
-        url: ntp/
-        internal: true
       - text: Sharing calendars with partners
         url: sharedcalendars/
+        internal: true
+      - text: Sketch
+        url: sketch/
         internal: true
       - text: Slack (chat client)
         url: slack/

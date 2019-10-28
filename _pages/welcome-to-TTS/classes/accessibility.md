@@ -1,12 +1,13 @@
 ---
 title: Accessibility
+
 ---
 
 The federal government is accountable for making all of its products 508 compliant, which means everything we make (or buy) needs to be accessible to all users, regardless of their abilities or disabilities. This usually means making sure our products can be used with screen readers and alternate input devices, and that they’re logically easy to follow.
 
 ## Leadership
 
-[Nikki Lee](https://gsa-tts.slack.com/messages/@nkkl) and [David Stenger](https://gsa-tts.slack.com/messages/@davidstenger) lead the [accessibility guild](https://github.com/18F/accessibility).
+[Jacklynn Pham, 18F](https://gsa-tts.slack.com/messages/@Jacklynn) and [Toni Bonitto, TTS Solutions/DigitalGov](https://gsa-tts.slack.com/messages/@Toni) lead the [accessibility guild](https://github.com/18F/accessibility).
 
 ## Communication
 
@@ -29,7 +30,7 @@ TTS hosts monthly training sessions to help you learn how to build accessible pr
 
 ## Making a project accessible
 
-The easiest way to make a project accessible is to think about accessibility from the start. Retrofitting accessibility is very costly. As you might expect, certain libraries and tools are not great for accessibility — for example, Bootstrap&rsquo;s color scheme and some of its form elements are not accessible by default. These are things that should be taken into consideration at the start of a project, before you've dedicated substantial time and energy to it.
+The easiest way to make a project accessible is to think about accessibility from the start. Retrofitting accessibility is very costly. As you might expect, certain libraries and tools are not great for accessibility — for example, Bootstrap's color scheme and some of its form elements are not accessible by default. These are things that should be taken into consideration at the start of a project, before you've dedicated substantial time and energy to it.
 
 As you think about accessibility, here are some good rules to follow:
 

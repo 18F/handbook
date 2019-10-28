@@ -17,183 +17,95 @@ The [TTS Policy and Procedure for Internal Project Review](https://docs.google.c
 
 The open Slack channel for guild leaders & other practice leaders who wish to join is `#guild-practice-leads`
 
-<h2><a id="existing-grouplets">Existing groups</a></h2>
+<h2 id="existing-guilds">Guilds</h2>
+
 <div class="table-wrapper">
   <table class="table-existing-grouplets">
     <tbody>
       <tr>
-        <td class="col-grouplet"><strong><a id="accessibility">Accessibility</a></strong></td>
+        <th class="col-grouplet" id="accessibility">Accessibility</th>
         <td class="col-description">
           We help 18F develop good, accessible products from the start of production in order to provide an excellent user experience for everyone. <br />
-          <a href="https://accessibility.18f.gov/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
+          <a href="https://accessibility.18f.gov/">Homepage</a> 
+          &bull; 
+          <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
         </td>
       </tr>
       <tr>
-        <td class="col-grouplet"><strong><a id="agile">Agile</a></strong></td>
+        <th class="col-grouplet" id="agile">Agile</th>
         <td class="col-description">
           We improve the quality and speed of service delivery through process improvement by encouraging the use of iterative methods in the research, planning, and development of solutions we implement. <br />
           <a href="https://pages.18f.gov/agile/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-agile/">#g-agile</a>
         </td>
       </tr>
       <tr>
-        <td class="col-grouplet"><strong><a id="analytics">Analytics</a></strong></td>
-        <td class="col-description">
-          Our mission is to integrate website analytics into all 18F projects. <br />
-          <a href="https://github.com/18F/analytics-standards/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-analytics/">#g-analytics</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="capacity-planning">Capacity Planning</a></strong></td>
-        <td class="col-description">
-          We work to iterate and improve our operations to better apply our resources. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-capacity-planning/">#wg-capacity-planning</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="code-of-conduct">Code&nbsp;of&nbsp;Conduct</a></strong></td>
-        <td class="col-description">
-          We maintain the TTS Code of Conduct and are committed to enforcing it and helping resolve issues. <br />
-          <a href="https://github.com/18F/code-of-conduct/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/wg-code-of-conduct/">#wg-code-of-conduct</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="code-reviews">Code Reviews</a></strong></td>
-        <td class="col-description">
-          We create shared expectations around code reviews to consistently improve code quality and to hone our skills as developers. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-code-reviews">#wg-code-reviews</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="compliance">Compliance</a></strong></td>
-        <td class="col-description">
-          We create tooling, resources, and emotional support for people to get through compliance processes. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-compliance">#wg-compliance</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="content">Content</a></strong></td>
+        <th class="col-grouplet" id="content">Content</th>
         <td class="col-description">
           We promote concise, elegant, user-centered writing. We plan for the creation, publication, and governance of useful, usable content. <br />
           <a href="https://pages.18f.gov/content-guide/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-content">#g-content</a>
         </td>
       </tr>
       <tr>
-        <td class="col-grouplet"><strong><a id="core-values">Core Values</a></strong></td>
-        <td class="col-description">
-          We create a shared understanding of values that drive our work and continuously iterate on how our practices reflect those values. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-core-values">#wg-core-values</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="cybersec">Cybersec</a></strong></td>
-        <td class="col-description">
-          We discuss security news and team policies. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-cybersec">#wg-cybersec</a>
-        </td>
-      </tr>
-      <tr>
-        <td><strong><a id="dataservices">Data Services</a></strong></td>
-        <td class="col-description">
-          We talk about and help each other with our data projects. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-dataservices">#wg-dataservices</a>
-        </td>
-      </tr>
-      <tr>
-        <td><strong><a id="devops">Devops</a></strong></td>
-        <td class="col-description">
-          Our mission is to ensure great devops for our projects. <br />
-          <a href="https://gsa-tts.slack.com/messages/g-devops">#g-devops</a>
-        </td>
-      </tr>
-      <tr>
-        <td><strong><a id="diversity">Diversity</a></strong></td>
-        <td class="col-description">
-          We help make 18F a great place to work for people of all backgrounds. <br />
-          <a href="https://gsa-tts.slack.com/messages/g-diversity">#g-diversity</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="documentation">Documentation</a></strong></td>
-        <td class="col-description">
-          We work to improve the comprehensiveness, quality, and tooling of documentation at 18F. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-documentation">#wg-documentation</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="ethics">Ethics</a></strong></td>
-        <td class="col-description">
-          Exploring how our work might impact or impose risks on our users, our clients, and the public more generally. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-ethics">#wg-ethics</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="frontend">Front End</a></strong></td>
-        <td class="col-description">
-          We improve 18F front end code quality through camaraderie and guidelines. <br />
-          <a href="https://pages.18f.gov/frontend/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-frontend">#g-frontend</a> &bull; <a href="https://waffle.io/18F/frontend"> Waffle Board</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="govcareer">GovCareer</a></strong></td>
-        <td class="col-description">
-          We support teammates who are interested in a further career in public service in the federal government, whether at GSA or another agency.  <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-govcareer">#wg-govcareer</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="onboarding">Onboarding</a></strong></td>
-        <td class="col-description">
-          We work on methods to improve the onboarding process at 18F. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-onboarding">#wg-onboarding</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="opensource">Open Source</a></strong></td>
-        <td class="col-description">
-          We help 18F improve how 18F implements its open source policy and team practices, especially the policy of maximizing community involvement and reuse of 18F projects. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-opensource">#wg-opensource</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="privacy">Privacy</a></strong></td>
-        <td class="col-description">
-          We discuss privacy both in broad terms as well as how it applies to our specific projects. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-privacy">#wg-privacy</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="project-review">Project Review</a></strong></td>
-        <td class="col-description">
-          We interview 18F project teams so that our processes can improve. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-project-review">#wg-project-review</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="testing">Testing</a></strong></td>
-        <td class="col-description">
-          We aim to ensure the long-term success of 18F development projects by cultivating the best automated testing tools, practices, and training materials. <br />
-          <a href="https://pages.18f.gov/wg-testing/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/wg-testing">#wg-testing</a>
-        </td>
-      </tr>
-      <tr>
-        <td class="col-grouplet"><strong><a id="design-research">Design Research</a></strong></td>
+        <th id="design-research">Design Research</th>
         <td class="col-description">
           We envision a world where government agencies use design research to shape their decision making processes. <br />
           <a href="https://github.com/18F/g-research/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
         </td>
       </tr>
       <tr>
-        <td class="col-grouplet"><strong><a id="working-groups">Working Groups</a></strong></td>
+        <th class="col-grouplet" id="devops">Devops</th>
         <td class="col-description">
-          We&rsquo;re dedicated to creating an environment in which working groups and guilds can thrive and have a meaningful impact on 18F deliverables and operations. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-working-groups">#wg-working-groups</a>
+          Our mission is to ensure great devops for our projects. <br />
+          <a href="https://gsa-tts.slack.com/messages/g-devops">#g-devops</a>
         </td>
       </tr>
       <tr>
-        <td class="col-grouplet"><strong><a id="workingshops">Workshops</a></strong></td>
+        <th id="diversity">Diversity</th>
         <td class="col-description">
-          We work on having great workshops, whether internally or with other agencies. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-workshops">#wg-workshops</a>
+          We help make 18F a great place to work for people of all backgrounds. <br />
+          <a href="https://gsa-tts.slack.com/messages/g-diversity">#g-diversity</a>
+        </td>
+      </tr>
+      <tr>
+        <th id="engineering">Engineering Practices</th>
+        <td class="col-description">
+          Promoting smart and scalable engineering practices across the frontend and backend. <br />
+          <a href="https://github.com/18F/development-guide">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/C02CD5VUQ">#dev</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 id="existing-wgs">Current Working Groups</h2>
+<div class="table-wrapper">
+  <table class="table-existing-grouplets">
+    <tbody>
+      <tr>
+        <th class="col-grouplet" id="compliance">Compliance</th>
+        <td class="col-description">
+          We create tooling, resources, and emotional support for people to get through compliance processes. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-compliance">#wg-compliance</a>
+        </td>
+      </tr>
+      <tr>
+        <th class="col-grouplet" id="consulting">Consulting</th>
+        <td class="col-description">We work to build skills by asking questions and sharing our experiences regarding what to expect and how to manage the unique complexity of consulting work. We also work on consulting-related projects and resources to help 18F evolve its overall organizational consulting capability.<br />
+          <a href="https://gsa-tts.slack.com/messages/CDVJ9U4K1">#wg-consulting</a>
+        </td>
+      </tr>
+      <tr>
+        <th class="col-grouplet" id="documentation">Documentation</th>
+        <td class="col-description">
+          We work to improve the comprehensiveness, quality, and tooling of documentation at 18F. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-documentation">#wg-documentation</a>
+        </td>
+      </tr>
+      <tr>
+        <th class="col-grouplet" id="ethics">Ethics</th>
+        <td class="col-description">
+          Exploring how our work might impact or impose risks on our users, our clients, and the public more generally. <br />
+          <a href="https://gsa-tts.slack.com/messages/wg-ethics">#wg-ethics</a>
         </td>
       </tr>
     </tbody>
@@ -202,11 +114,11 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
 
 ## Guild leadership competition
 
-Guilds are led by 1-3 TTS staff members who spend a few hours a week on practice leadership. Individual guilds can set leadership terms, with the most common being 1 year. Guild leadership is recognized by a staff member’s supervisor as a responsibility and they should be reviewed on their performance. However, it is an informal role. There are no administrative supervisory duties attached and there is no GS-level or previous leadership requirement.
+Guilds are led by 1-3 TTS staff members who spend a few hours a week on practice leadership. Individual guilds can set leadership terms, with the most common being one year. Guild leadership is recognized by a staff member’s supervisor as a responsibility and they should be reviewed on their performance. However, it is an informal role. There are no administrative supervisory duties attached and there is no GS-level or previous leadership requirement.
 
 We hold lightweight competitions for these informal leadership roles. Here is an outline of the process:
 
 1. Guilds decide who is eligible for leadership spots - previous participation, mid-level or expert experience in the discipline etc are reasonable qualifications but not required.
 1. The guild asks for nominations via email and Slack posting. Guilds can choose to allow self-nomination only, or accept nominations by other people with confirmation of interest by the nominee. Nominees should have the verbal approval of their supervisor. Written nominations totalling no more than 400 words are recommended; guilds choose nomination questions.
-1. A panel of 1-3 people made up of guild members and/or leadership from other guilds conducts brief (no more than 30 minute) interviews of candidates and makes a selection.
+1. A panel of one-three people made up of guild members and/or leadership from other guilds conducts brief (no more than 30 minute) interviews of candidates and makes a selection.
 1. The current guild leader announces the new leader, who takes up the position immediately.

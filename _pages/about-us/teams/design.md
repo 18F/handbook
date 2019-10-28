@@ -101,11 +101,12 @@ And one more thing: before you start using any new tool that asks for access to 
 #### Drawing lines on a screen
 Unless otherwise specified, **see [Software](../software/#get-access-to-software-we-already-have) to get a license** for any of these.
 
-- **Sketch:** You can get started with a trial version [immediately](http://bohemiancoding.com/sketch/). Upgrade to the full version whenever you get the license. Visit [#sketch](https://gsa-tts.slack.com/messages/sketch) on Slack for help and sharing tips. One thing that's different about using Sketch at GSA is that Sketch plugins are not impossible to obtain, but might be more time-consuming than -saving. Each Sketch plugin is treated like a [new software request]({{site.baseurl}}/software), and must undergo review by GSA IT review. So far, we haven't found much that we can't accomplish without plugins.
+- [**Sketch**]({{site.baseurl}}/sketch/)
 - **InVision:** We use InVision for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync.
   - If you are a member of the design team, once you have requested and received an InVision license, tell your supervisor that you have an account and are ready to be added to the "18F Design Team" group in InVision. This will enable you to see prototypes from all of our projects. When making your own prototypes in the future, always add this team as a collaborator.
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
 - **Adobe Creative Cloud:** Visual designers often need CC for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. CC licenses are more limited, so please don’t request access unless you really do need it for your work.
+- [**Microsoft Visio**](https://products.office.com/en-us/visio/flowchart-software) - Visio isn't available for Mac, but you can [request it get added to your Horizon VDI instance]({{site.baseurl}}/vmware-horizon/#software).
 
 #### Project management
 Every project and team has a different mix of project management tools based on what works for them. Many internal projects will use **Trello** because it's fast to set up. Get more information on the [How to use Trello]({{site.baseurl}}/trello) page.
@@ -123,7 +124,7 @@ Every project and team has a different mix of project management tools based on 
 #### Word processing
 
 - **Google Drive / Docs / Slides:** This is our primary tool for documents of various sorts.
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing) to get a license if your project work requires it.
+- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions]({{site.baseurl}}/office/) to get a license if your project work requires it.
 
 ### Assets
 

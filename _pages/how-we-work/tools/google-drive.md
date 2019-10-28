@@ -2,6 +2,8 @@
 title: Google Drive
 ---
 
+_a.k.a. G Suite_
+
 Google Drive is a cloud storage and file backup system. We keep a lot of documentation, project work, and templates in Google Drive.
 
 ## Setup
@@ -32,7 +34,7 @@ Make sure you set the permissions on new documents so that the appropriate peopl
 * Grant editing or commenting access to the entire team by adding <mailto:tts@gsa.gov>, <mailto:opp-team@gsa.gov>, or <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
 * You can share documents with any GSA employee — but don't default to sharing with _all_ of GSA. GSA will change your permissions if they are too open, and files that contain sensitive information will also be blocked via Cloudlock.
 
-* You can&rsquo;t publish docs to the web. You can&rsquo;t share docs with the public, only GSA or specific users. Even just to view.
+* You can't publish docs to the web. You can't share docs with the public, only GSA or specific users. Even just to view.
 
 * If another agency employs Google Docs, documents can be shared directly with them.
 
@@ -59,7 +61,7 @@ To use a [Google Apps Script](https://developers.google.com/apps-script/), pleas
 ## Tips
 
 - The Shift-Z command allows you to add folders to "My Drive" (shortcut) and to other folders at the same time - which is great for organizing documents in different ways.
-- **Finding recent documents** To find recently documents, use [this link](https://drive.google.com/drive/recent), which you can find by clicking on the "AZ" button and selecting "Last opened by me."
+- **Finding recent documents** To find recently opened documents, use [this link](https://drive.google.com/drive/recent), which you can find by clicking on the "AZ" button and selecting "Last opened by me."
 -  To find and access things you use frequently, you can ["Add to My Drive"](https://support.google.com/drive/answer/2375057?hl=en) or star the folder or document.
 -  Searching in Drive goes through all of the files that have been shared with you.
 - If a folder looks empty, try refreshing your browser a few times. :shrug:

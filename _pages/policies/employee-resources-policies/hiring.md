@@ -9,6 +9,8 @@ This section provides a brief overview of the types of hiring actions along with
 
 If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page]({{site.baseurl}}/ttsjobs)
 
+To learn about the different hiring authorities we use please visit our [hiring authorities](https://handbook.18f.gov/hiring-authorities/) page.
+
 ## Types of hiring actions at TTS
 
 ### Competitive (Career) and Excepted Service hiring actions via the Merit Promotion Process
@@ -34,6 +36,16 @@ Talent will assist with the following:
 - Posting the announcement 
 - Submitting the PAR action to HR 
 
+**Internal Hiring Actions - Best Practices & Recommendations**
+
+- When conducting interviews, you may want to consider building a short [hiring guide](https://docs.google.com/document/d/1JNEMDfUjIpgK5mOl619XVVsxrXn7l9Vzcv-wKOnuwh4/edit) to help ensure that you are covering all of the areas necessary for the role and also to ensure a consistent candidate experience. 
+- When selecting an internal candidate you will need to have a discussion with their current supervisor regarding the following:
+    - If they will allow their employee to leave the team (they are not obligated to say yes)
+    - If yes, what will the release date be (note that the effective date must fall on a [payroll period](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars)) 
+    - Be aware that the candidate may be on a project and have to finish out/reassign their work so may not be able to start on your team as soon as you’d like.  It is up to their current supervisor when they are willing to let them move to your team.
+- Before moving forward with a selection, Talent recommends conducting internal reference checks. Feel free to refer to [this template](https://docs.google.com/document/d/1QL6711NSv3nsIlN_3Rc7DFk8Apubyy8ugQHAAEWRWgc/edit) for guidance. 
+
+
 #### Job prep
 
 Use the following templates to prepare the posting (make sure to make a copy of each template):
@@ -54,6 +66,7 @@ In addition to the information within the templates, the hiring manager will nee
 - Developing the interview process
 - Scheduling interviews
 - Making a selection
+- filling out the [candidate pool template](https://docs.google.com/spreadsheets/d/1EN3iLUmmDQ4iX5k-AsDsUPUd_igrEy3BEtlIs5KM59w/edit?usp=sharing)
 - Letting the Talent Team know who was selected for the position
 
 The hiring team is responsible for confirming that applicants meet the qualifications outlined in the posting (i.e. GS level, required experience). For HR to move forward with a selection, the applicant must meet the following qualifications:
@@ -68,7 +81,7 @@ The hiring team is responsible for confirming that applicants meet the qualifica
 When the team has determined who they would like to place in the role, they must:
 
 - First confirm with the employee’s supervisor that they are OK with this employee moving to their team
-- Forward the supervisor's approval to Talent at this email: [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov). Talent will need to submit a Reassignment PAR to HR.
+- Forward the supervisor's approval to Talent at this email: [jointts@gsa.gov](mailto:jointts@gsa.gov). Talent will need to submit a Reassignment PAR to HR.
 
 It is the responsibility of the HM provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
 
@@ -86,4 +99,4 @@ For an overview of the way in which hiring actions are collected, prioritized an
 
 ### Still have questions?
 
-**General questions** Please reach out to TTS Talent via [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
+**General questions** Please reach out to TTS Talent via [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) or [email](mailto:jointts@gsa.gov) for information regarding hiring.

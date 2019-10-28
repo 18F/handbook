@@ -4,7 +4,7 @@ title: Software Under $10,000
 
 Do you need software to do your job or make sure TTS is running smoothly? Follow the steps below to access software we own or request a software purchase of under $10,000.
 
-If you need to purchase more expensive software, see [procurements over $10,000]({{ "/procurements-over-10000/" | relative_url }}).
+If you need to purchase more expensive software, see [procurements over $10,000]({{ site.baseurl }}/procurements-over-10000/).
 
 ## Get access to software we already have
 
@@ -16,7 +16,7 @@ If TTS does not have licenses, GSA might. In order to check the [GSA IT Catalog]
 
 If your software is in the Catalog, fill out the rest of the form to request a license.
 
-*Note: If you're looking for MS Office, see [this section below](https://handbook.18f.gov/software/#get-a-copy-of-microsoft-office).*
+*Note: If you're looking for MS Office, see [this page]({{site.baseurl}}/office/).*
 
 ## Purchase new software
 
@@ -26,7 +26,7 @@ If the software is not in the TTS inventory or GSA IT Catalog (or if there are n
 
 An Authority to Operate (ATO) is similar to an expiration date. It describes the date through which software is approved to use and is issued by GSA IT. An ATO is needed to ensure the software you are requesting is secure and meets the Government’s security standards. To check for an ATO, you need to go to [GEAR, IT Standards list](https://ea.gsa.gov/#!/itstandards) (aka Salesforce). *Note: you will need VPN to view the list.*
 
-If the software you are purchasing has a valid ATO listed in GEAR, then you can proceed with the rest of the process. You should save a copy of the ATO to your desktop so you can attach it to the C2 request later.
+If the software you are purchasing has a valid ATO listed in GEAR, then you can proceed with the rest of the process. You should save a copy of the ATO to your desktop so you can attach it to the request later.
 
 If the ATO is expired or you cannot find it in GEAR, you can post in the Slack channel [#gsait-shared](https://gsa-tts.slack.com/messages/gsait-shared/) to ask if there is an updated ATO. If there is no ATO or the ATO is expired, you will need to go through the ATO process to ensure your software is approved by security. You can follow these steps to [submit a new software for ATO](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/software-and-applications/software-downloads-and-requests/it-standards). The ATO process can take 4-6 weeks and there is no guarantee it will be approved. If your need is urgent, try to find something in [GEAR, IT Standards](https://ea.gsa.gov/#!/itstandards) list that is already approved and meets your needs.
 
@@ -37,10 +37,6 @@ Fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAI
 ### Step 3: procurement
 
 Once all of these steps have been completed, the SaaS PM will reach out to you to set up a meeting to make the purchase.
-
-## Get a copy of Microsoft Office
-
-Please follow the instructions in this Google Document: [How to get Microsoft for OS X](https://docs.google.com/document/d/1ca1Ka0R9XBaxRhpagGUKPgVzO589_bx89GWMogQintM/edit?usp=sharing).
 
 ## Chrome extensions
 

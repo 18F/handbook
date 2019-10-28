@@ -13,7 +13,7 @@ title: San Francisco
         </td>
       </tr>
       <tr>
-        <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
+        <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
           Your best bet is the <a href="https://gsa-tts.slack.com/archives/sf">#sf</a> Slack channel<br />
           <a href="http://www.gsa.gov/portal/category/107015">Building Services contact info</a>
@@ -21,7 +21,7 @@ title: San Francisco
       </tr>
       <tr>
         <td class="col-key">
-          <strong>Slack&nbsp;channels</strong>
+          <strong>Slack channels</strong>
         </td>
         <td class="col-value">
           <a href="https://gsa-tts.slack.com/archives/sf">#sf</a>,
@@ -59,7 +59,7 @@ title: San Francisco
 
 TTS SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
 
-There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance &mdash; San Francisco City Hall and the Asian Art Museum are but two of them!
+There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance---San Francisco City Hall and the Asian Art Museum are but two of them!
 
 
 ## Getting here
@@ -72,7 +72,7 @@ The office sits right above the Civic Center stop for BART.
 
 ### From Oakland International Airport (OAK)
 
-The smaller of the two San Francisco area airports, OAK is just across the bay from downtown. You can hop on the automated monorail from the airport, then change to the BART system train at OAK/Coliseum station. It&rsquo;s a 25 minute ride to Civic Center BART station.
+The smaller of the two San Francisco area airports, OAK is just across the bay from downtown. You can hop on the automated monorail from the airport, then change to the BART system train at OAK/Coliseum station. It's a 25 minute ride to Civic Center BART station.
 
 BART Service is M–F, 4 a.m. to midnight; the last train is generally 10 to 15 minutes after the hour. Saturday service is 6 a.m. to midnight. Sunday service is 8 a.m. to midnight.
 
@@ -93,17 +93,17 @@ If you have any questions about this, contact the [#SF Slack Channel](https://gs
 
 ### Public transit
 
-San Francisco is very accessible by its public transportation system, [SFMTA](https://www.sfmta.com/). The larger Bay Area is also accessible via [BART](http://www.bart.gov/). Taxis, while available, aren&rsquo;t generally necessary for getting around the city, which is only approximately 7 square miles.
+San Francisco is very accessible by its public transportation system, [SFMTA](https://www.sfmta.com/). The larger Bay Area is also accessible via [BART](http://www.bart.gov/). Taxis, while available, aren't generally necessary for getting around the city, which is only approximately 7 square miles.
 
-[Clipper Card](https://www.clippercard.com/ClipperWeb/) is the Bay Area&rsquo;s transit pass. It works on many of the different public transit systems, including SFMTA and BART. SFMTA one-way fare is $2.25 with a 90-minute transfer (although sometimes you get a bit lengthier time for your transfer). BART fares are based on distance. SFO to Civic Center Station is $8.65; OAK to Civic Center Station is $10.05. See [BART&rsquo;s website](http://www.bart.gov/) for further fare prices.
+[Clipper Card](https://www.clippercard.com/ClipperWeb/) is the Bay Area's transit pass. It works on many of the different public transit systems, including SFMTA and BART. SFMTA one-way fare is $2.25 with a 90-minute transfer (although sometimes you get a bit lengthier time for your transfer). BART fares are based on distance. SFO to Civic Center Station is $8.65; OAK to Civic Center Station is $10.05. See [BART's website](http://www.bart.gov/) for further fare prices.
 
 
 ### Parking
 
-Don&rsquo;t do it! Your best bet is public transit and/or walking; downtown streets have one ways and can be very confusing. Street parking is horrible, and paid parking is way expensive. But if you do drive, you may park at 355 McAllister Street. The hours for this underground parking structure are 6 a.m. to midnight M–F. Fees vary but $4.50 to $2.00 per hour depending on when you enter garage.
+Don't do it! Your best bet is public transit and/or walking; downtown streets have one ways and can be very confusing. Street parking is horrible, and paid parking is way expensive. But if you do drive, you may park at 355 McAllister Street. The hours for this underground parking structure are 6 a.m. to midnight M–F. Fees vary but $4.50 to $2.00 per hour depending on when you enter garage.
 
 
-## How do I&hellip;
+## How do I...
 
 ### Enter the building for the first time?
 
@@ -125,7 +125,7 @@ GSA onboarding is typically conducted on Mondays at 50 UN Plaza. TTS SF onboardi
 
 Whether you're new at TTS and are joining the SF office or you're a long-time TTS member relocating to SF, here's an office onboarding checklist for you:
 
-* If you would like a locker, or if you need a keyboard and mouse/trackpad for working with the office monitors, please email <mailto:britta.gustafson@gsa.gov>.
+* If you would like a locker, or if you need a keyboard and mouse/trackpad for working with the office monitors, please email <mailto:peter.rowland@gsa.gov>.
 * Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
 * Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
 * If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel for the link.
@@ -189,7 +189,7 @@ If you're the last to leave your side of the office (north or south side), take 
 * Turn off the lights. (You just have to turn off the big overhead lights; there are some small lights along the walls and in the team rooms that we can't turn off.)
 * Check the other side of the office if you have time.
 
-## Where are the&hellip;
+## Where are the...
 
 
 ### Bathrooms
@@ -202,7 +202,7 @@ An all-gender bathroom is also available for limited hours on Tuesday through Th
 
 ### Supplies
 
-If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, please submit a request via [C2](https://requests.18f.gov/). You should search for the item in [GSAAdvantage](https://www.gsaadvantage.gov/advantage/main/start_page.do). If the item cannot be found there, or is too costly, see if it is available from Amazon or some other online provider. Make sure you provide a solid business justification for the purchase.
+If you need supplies, there are two supply drawers on the northern side of the office. One has general office supplies, the other has electronics and computer accessories. Feel free to take what you need to get the job done. The drawers are self serve, and no one takes inventory. If you see something running low, or are in need of something not already in the drawer, see the general [Equipment]({{site.baseurl}}/equipment/) page for ordering more.
 
 ### Batteries
 
@@ -210,7 +210,7 @@ There are rechargeable batteries throughout the office space. You will find them
 
 ### Cafeteria and snacks
 
-There&rsquo;s a cafeteria located on the first floor, serving breakfast and lunch. [Official hours](http://www.gsa.gov/portal/content/200155) (they say they close at 2 pm, but they usually close down around 1:50 pm). The cafeteria has a good salad bar.
+There's a cafeteria located on the first floor, serving breakfast and lunch. [Official hours](http://www.gsa.gov/portal/content/200155) (they say they close at 2 pm, but they usually close down around 1:50 pm). The cafeteria has a good salad bar.
 
 There are machines in the basement area with snacks as well as soft drinks.
 

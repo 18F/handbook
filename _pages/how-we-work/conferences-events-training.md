@@ -19,9 +19,11 @@ tags:
 
 TTS encourages all staff to attend conferences, speak at events and focus on professional development and training opportunities.
 
+Any media requests (like news or podcast interviews) are a separate process—forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov).
+
 ## Getting approval for a conference, event, or training
 
-1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) to initiate the request process.  Upon completing it, you and your supervisor will get an automated email, which confirms the details you entered and provides all of the actions that you will need to complete for the request.  Your supervisor may want to discuss the request with you before proceeding with further approvals.
+1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) to initiate the request process.  ***Here is [guidance on writing an event justification](https://docs.google.com/document/d/13BCETwANCx9JRPgFbRibqRGthIvf4XQ-WTYD0P30PWg/edit?usp=sharing).***  Upon completing it, you and your supervisor will get an automated email, which confirms the details you entered and provides all of the actions that you will need to complete for the request.  Your supervisor may want to discuss the request with you before proceeding with further approvals.
 
 1. Once you've connected with your supervisor, continue following all steps outlined by the email that you received.  If you have any issues or questions about your request, please respond to the Events Team (tts-events@gsa.gov) on the automated email thread.  An Events Team member will follow up with you within 2 business days.
 

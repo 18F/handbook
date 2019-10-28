@@ -24,6 +24,8 @@ You must change your ENT password immediately after you start with GSA and every
 
 Detailed ENT password reset instructions can be found [here on InSite](https://insite.gsa.gov/portal/content/677810).
 
+If you're on a Mac and change your ENT password, once you log out and log back in, make sure you're on the GSA-wireless network (_not_ GSA-guest) so that you can re-authenticate.
+
 ## Change or reset your Macbook login password
 
 You can change the password that you use to log into your Mac or reset the password if you don't remember it by following [these instructions](https://support.apple.com/en-us/HT202860).
@@ -34,7 +36,7 @@ Applications such as Trello, Zoom, Favro, and Circle.ci can be logged into using
 
 You can check your account permissions [here](https://myaccount.google.com/permissions).
 
-##VMware Horizon (VPN) login
+## VMware Horizon (VPN) login
 
 VMware is utilized to access your GSA Microsoft Windows desktop.  Some government sites can only be accessed through VPN.
 
@@ -45,7 +47,7 @@ VMware is utilized to access your GSA Microsoft Windows desktop.  Some governmen
 * Enter token back into VMware Horizon login-in screen
 
 
-##Cisco AnyConnect login
+## Cisco AnyConnect login
 
 AnyConnect is utilized as a GSA VPN client so that you can use a variety of systems that require a VPN directly from your local computer. Go [here]({{site.baseurl}}/anyconnect) for more information on configuring this tool.
 
