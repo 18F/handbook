@@ -18,10 +18,6 @@ We use Google Drive to keep track of our work and collaborate on documents, pres
 * When you’re at work, make sure you're on the 18F Google Drive and not your private account, especially when working with outside partners. Official 18F documents must live on the GSA/18F shared drive for compliance reasons.
 * Everything in Google Drive can be FOIA’ed.
 
-## Local editing
-
-[Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en) can be used for local editing of files on Drive, though offline editing is not yet supported for Macs at GSA. [InSite page.](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-drive-and-shared-drive?term=drive%20file%20stream#Drive%20File%20Stream)
-
 ### 18F Drive specifics
 
 * Visit [the 18F brand guide](https://brand.18f.gov/templates/) for default 18F document styles/templates.
@@ -56,6 +52,10 @@ If you're using a non-Google service and it requests access to your GSA Google D
 We have more explanation of why this is our policy in [this blog post about how we handle information security and third party applications](https://18f.gsa.gov/2016/05/13/how-18f-handles-information-security-and-third-party-applications/).
 
 To be sure you haven't enabled this access accidentally in the past, you can check [Google's list of "Apps connected to your account"](https://security.google.com/settings/security/permissions), expand each item, and look for the Google Drive icon.
+
+## Local editing
+
+[Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en) can be used for local editing of files on Drive, though offline editing is not yet supported for Macs at GSA. [InSite page.](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-drive-and-shared-drive?term=drive%20file%20stream#Drive%20File%20Stream)
 
 ## Google Apps Scripts
 
