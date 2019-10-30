@@ -17,7 +17,7 @@ civicactions.com
 
 ## License
 
-Copyright 2017 CivicActions.
+Copyright 2017-2019 CivicActions.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](docs/LICENSE.md).
 
