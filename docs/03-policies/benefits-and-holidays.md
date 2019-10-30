@@ -29,7 +29,7 @@ You do not need to justify time off, but (except for unexpected events or emerge
 
 If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-schedule@civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. You should consider having your manager's phone number handy. Lastly, follow the procedure for [logging sick time off](../04-how-we-work/tools/harvest.md) in Harvest with CivicActions.
 
-Time off will be recorded simply to easily see any patterns that might otherwise be overlooked, including non-use. Unless it will cause an extreme hardship on the company and your team, no request for Time off under two weeks will be turned down.
+Time off will be recorded simply to easily see any patterns that might otherwise be overlooked, including non-use. Unless it will cause an extreme hardship on the company and your team, no request for time off under two weeks will be turned down.
 
 ## Personal Leave of Absence
 
@@ -37,7 +37,7 @@ Employees of CivicActions, including part-time employees, who have worked for at
 
 ## Parental Leave
 
-Welcoming a new baby is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption) and acclimate to the new life ahead. Our policy is that expectant parents can take twelve weeks of leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant parent needs additional leave, we will review requests on a case-by-case basis.
+Welcoming a new child is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption) and acclimate to the new life ahead. Our policy is that expectant parents can take twelve weeks of leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant parent needs additional leave, we will review requests on a case-by-case basis. All Parental Leave described in this Policy shall be available for a 12-month period following the birth or adoption of a child.
 
 ## Medical Insurance
 
