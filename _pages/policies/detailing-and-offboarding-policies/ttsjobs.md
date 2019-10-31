@@ -31,11 +31,10 @@ If you’d like to be notified when new opportunities are listed on this page, p
 ## Announcements
 
 ### Open
-
+[People Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/550254600) - Closes Thursday, November 21st at 11:59pm ET
 
 ### Internal only competitions
 
-[login.gov Application Engineer](https://docs.google.com/document/d/127rRKlx6gzVSS7X2H0GqFTgg5OqV2qgeh6_oLk45Uas/edit) - Application open Monday, October 21st through Wednesday, October 30th
 
 ## Partner information & opportunities
 
