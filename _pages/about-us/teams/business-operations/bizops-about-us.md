@@ -13,12 +13,9 @@ The team is made up of four team and responsible for the following functions:
 Understanding (MOUs), and Intergovernmental Cooperation Act Agreements (IGCAs) are completed before providing or receiving
 services to or from partner agencies, offices, state or local governments. The team works closely with TTS business units and
 partners,  as well as the TTS finance team, OCFO, and OGC to ensure our agreements are in compliance with legal and financial
-guidance. We track agreements from the time they are requested by a business unit until they are fully executed and processed. 
+guidance. We track agreements from the time they are requested by a business unit until they are fully executed and processed. The team also provides data and business intelligence to help leadership forecast business volume and develop business development strategies. 
 
-**Finance**: The TTS finance team conducts annual budget and revenue planning for each business unit and tracks monthly progress
-against planned goals. We track labor, travel, cloud service and contractual service charges and collect revenue on TTS' 
-reimbursable agreements. We process purchase requests and pay invoices against those PRs. We monitor direct and indirect costs 
-per business unit and work with OCFO to ensure accurate cost accounting.
+**Finance**: The TTS finance team conducts annual budget and revenue planning for each business unit and tracks monthly progress against planned goals. We track labor, travel, cloud service and contractual service charges and collect revenue on TTS' reimbursable agreements. We process purchase requests and pay invoices against those PRs. We monitor direct and indirect costs per business unit and work with OCFO to ensure accurate cost accounting.
 
 **People Ops**:  The People Operations team owns the relationship and experience with staff and supervisors for all things
 employee related starting when an employee comes on-board through an employee off-boarding. We are experts in  people related
@@ -39,7 +36,8 @@ incredible candidate experience from the first time a candidate sees a job posti
 * [Events & Training Management](https://handbook.18f.gov/conferences-events-training/)
   * Contact: 
   
-* [Travel](
+* [Travel](https://handbook.18f.gov/travel-guide-table-of-contents/)
+  * Contact: 
 
 * Personnel Actions
   * moving within the org
