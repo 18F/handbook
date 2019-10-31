@@ -6,7 +6,7 @@ TTS is a fee-for-service organization. Federal law requires that any agreement b
 
 ## Background
 
-18F uses three mechanisms to record its agreements with other agencies: Interagency Agreements (IAAs), Memorandums of Understanding (MOUs), and Intergovernmental Cooperation Act agreements (IGCAs).
+TTS uses three mechanisms to record its agreements with other agencies: Interagency Agreements (IAAs), Memorandums of Understanding (MOUs), and Intergovernmental Cooperation Act agreements (IGCAs).
 
 - IAA is our shorthand for using the Treasury Department's standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
 - An MOU is a single document to record work done by one TTS organization for another (for example: by 18F for OPP). These agreements are between TTS and the GSA-CFO to allow the transfer of funds between the organizations. The Agreements Team provides [templates](https://drive.google.com/drive/folders/0BwxvcCvwvTB3VXA0NjlXYXpGSTg) for your use.
