@@ -1,17 +1,13 @@
----
-status: Up-to-date
-updated: Dec 17, 2018
----
-
 # Travel 101
+CivicActions will reimburse employees for travel expenses that are required for work. This includes traveling to client locations. For onsite employees, travel expenses are not reimbursed to their regular work location. 
 
 ## Communication
 
 Questions? [Ask Judy](mailto:%3Cjudy.raiten@civicactions.com%3E).
 
-## Billing
+## Time Keeping
 
-Travel time is usually billed to a specific project.
+Travel time is usually not billed to a specific project. It should be recorded as unbillable time for that project, unless otherwise requested from your Project Manager.
 
 ## Expense Approval and Reimbursement
 
@@ -19,5 +15,11 @@ For any project or team onsites, your expenses are almost always reimbursable. P
 
 ## Mileage Reimbursement
 
-CivicActions will reimburse employees at the IRS "business standard mileage rate" for miles traveled by the employee in the employee's car while on CivicActions' business. This reimbursement is meant to cover gas and wear-and-tear on a car. It does not cover tolls or parking, which can be expensed separately.
+CivicActions will reimburse employees at the IRS "business standard mileage rate" for miles traveled by the employee in the employee's car required for CivicActions' business. This reimbursement is meant to cover gas and wear-and-tear on a car. It does not cover tolls or parking, which can be expensed separately.
 
+## Meals
+
+Meals shall normally be reimbursed when overnight stay is required at the GSA [per diem rate](https://www.gsa.gov/travel/plan-book/per-diem-rates). 
+
+## Lodging
+Lodging expenses that are required for travel, should be approved in advance according to the CivicActions [expense policy](expenses.md).  At the GSA [per diem rate](https://www.gsa.gov/travel/plan-book/per-diem-rates), lodging will generally be approved.
