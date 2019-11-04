@@ -31,10 +31,12 @@ If you’d like to be notified when new opportunities are listed on this page, p
 ## Announcements
 
 ### Open
+
 [People Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/550254600) - Closes Thursday, November 21st at 11:59pm ET
 
 ### Internal only competitions
 
+[18F Strategy Supervisor ](https://docs.google.com/document/d/13MBWivDV1wy5lZp8ZnKVaEMyJcNDM3iJ3PcQ4r1eTX4/edit#) - Closes Thursday, November 8 at 11:59pm ET
 
 ## Partner information & opportunities
 
