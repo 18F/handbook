@@ -1,5 +1,5 @@
 ---
-title: Step 3 - Travel
+title: Step 2 - Travel
 ---
 
 [TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
