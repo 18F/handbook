@@ -2,7 +2,9 @@
 title: Microsoft Office
 ---
 
-At GSA, [Google Docs/Sheets/Slides]({{site.baseurl}}/google-drive/) is our preferred tool for documents/spreadsheets/presentations, since it has built-in records retention, collaboration, sharing, importing and exporting of Office files, etc. Microsoft Office is available for edge cases, such as where a large spreadsheet might not load well in Google Sheets.
+At GSA, [Google Docs/Sheets/Slides]({{site.baseurl}}/google-drive/) is our preferred tool for documents/spreadsheets/presentations, since it has built-in records retention, collaboration, sharing, importing and exporting of Office files, etc.
+
+In normal day-to-day operations, you will probably never need Microsoft Office. However, if you should encounter an edge case such as a large spreadsheet that won't load well in Google Sheets, Microsoft Office can be requested.
 
 ## Requesting a license
 
