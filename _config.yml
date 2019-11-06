@@ -230,7 +230,7 @@ navigation:
       - text: GSA internal tools
         url: gsa-internal-tools/
         internal: true
-      - text: Adobe Creative Cloud (CC)
+      - text: Adobe Acrobat and Creative Cloud (CC)
         url: adobe/
         internal: true
       - text: AnyConnect (VPN client)
