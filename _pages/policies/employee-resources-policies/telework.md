@@ -21,7 +21,7 @@ A core belief of TTS is, “Work is what we do, not where we are.”  The goal o
 * **Flexible Schedule:** You work each day during a 10 day pay cycle with a flexible start and end time
 * **Compressed Schedule (often called AWS):** You work 9 days out of a 10 day pay cycle with a fixed start and end time
 
-You can find more information on schedule types on [GSA Insite](https://insite.gsa.gov/portal/content/500306).
+You can find more information on schedule types on [GSA Insite](https://insite.gsa.gov/topics/hr-pay-and-leave/worklife-programs/alternative-work-schedules?term=alternatve%20work%20schedule).
 
 ## Telework Schedule Types
 
