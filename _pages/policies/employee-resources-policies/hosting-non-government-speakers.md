@@ -11,18 +11,14 @@ _Unfortunately, we can not compensate guests for their time and are currently wo
 If you’d like to host a non-government speaker at a guild meeting, training, workshop, or other TTS gathering, you must follow the steps and guidelines below.
 
 1. Make a local copy of the [Outside Speaker Checklist](https://docs.google.com/document/d/1F2IEMaPgfWZY2_RvSkILNnjulY8d3XDeJagAqSkFNvo/edit?usp=sharing).
-
-- It will help you spot any issues and the Office of General Counsel will use this document to review your event.
-- You will not need to turn this form in.
-
-2. Have each outside speaker sign a [Gratuitous Services Agreement](https://docs.google.com/document/d/11xLRGV2mka51PnuaCLMm75lVEq1uV7N0Fn19Lyw832o/edit?usp=sharing) in advance of the event.
-
-- This is necessary because the Antideficiency Act does not permit federal agencies to accept voluntary services unless someone offering such services executes an advance written agreement that (1) states that the services are offered without expectation of payment, and (2) expressly waives any future pay claims against the government.
-- You can also ask [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot) for a link to the Gratuitous Services Agreement
-
-3. _Optional:_ If you plan to record or take photographs of the speaker, have them fill out the [GSA Model Release Form](https://insite.gsa.gov/portal/getMediaData?mediaId=702794).
-4. Put the signed Gratuitous Services Agreement and GSA Model Release Form (if applicable) in [the Gratuitous Services Agreement folder](https://drive.google.com/drive/folders/1UOKVVZGdI7IlAxrqcq48-HQQr8f5U6N7).
-5. Invite your speaker and let the team know on different Slack channels such as [#upcoming-in-guilds](https://gsa-tts.slack.com/messages/upcoming-in-guilds/)
+   - It will help you spot any issues and the Office of General Counsel will use this document to review your event.
+   - You will not need to turn this form in.
+1. Have each outside speaker sign a [Gratuitous Services Agreement](https://docs.google.com/document/d/11xLRGV2mka51PnuaCLMm75lVEq1uV7N0Fn19Lyw832o/edit?usp=sharing) in advance of the event.
+   - This is necessary because the Antideficiency Act does not permit federal agencies to accept voluntary services unless someone offering such services executes an advance written agreement that (1) states that the services are offered without expectation of payment, and (2) expressly waives any future pay claims against the government.
+   - You can also ask [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot) for a link to the Gratuitous Services Agreement
+1. _Optional:_ If you plan to record or take photographs of the speaker, have them fill out the [GSA Model Release Form](https://insite.gsa.gov/portal/getMediaData?mediaId=702794).
+1. Put the signed Gratuitous Services Agreement and GSA Model Release Form (if applicable) in [the Gratuitous Services Agreement folder](https://drive.google.com/drive/folders/1UOKVVZGdI7IlAxrqcq48-HQQr8f5U6N7).
+1. Invite your speaker and let the team know on different Slack channels such as [#upcoming-in-guilds](https://gsa-tts.slack.com/messages/upcoming-in-guilds/)
 
 ## In-person meeting
 
