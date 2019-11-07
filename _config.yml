@@ -109,10 +109,10 @@ navigation:
   generated: true
   children:
   - children:
-    - text: TTS org chart
-      url: tts-org-chart/
-      internal: true
-   - text: TTS Office of Operations
+  - text: TTS org chart
+    url: tts-org-chart/
+    internal: true
+  - text: TTS Office of Operations
     children:
     - text: Business Operations
       children:
@@ -328,205 +328,200 @@ navigation:
     - text: PIF Website
       url: https://presidentialinnovationfellows.gov/
       internal: false
-  
-
 - text: General information and resources
+  children:
+  - text: Who we are
     children:
-    - text: Who we are
+    - text: TTS Code of Conduct
+      url: code-of-conduct/
+      internal: true
+    - text: TTS mission, history, and values
+      url: tts-history/
+      internal: true
+    - text: General contacts and listservs
+      url: general-contacts-and-listservs/
+      internal: true
+    - text: Working groups and guilds
+      url: working-groups-and-guilds-101/
+      internal: true
       children:
-      - text: TTS Code of Conduct
-        url: code-of-conduct/
+      - text: Diversity at TTS
+        url: diversity/
         internal: true
-      - text: TTS mission, history, and values
-        url: tts-history/
+      - text: Accessibility
+        url: accessibility/
         internal: true
-      - text: General contacts and listservs
-        url: general-contacts-and-listservs/
-        internal: true
-      - text: Working groups and guilds
-        url: working-groups-and-guilds-101/
-        internal: true
-        children:
-        - text: Diversity at TTS
-          url: diversity/
-          internal: true
-        - text: Accessibility
-          url: accessibility/
-          internal: true
-      - text: Glossary
-        url: glossary/
-        internal: true
-      - text: Records management
-        url: records-management/
-        internal: true
-      - text: Washington, D.C. Office
-        url: washington-dc/
-        internal: true
-
-    - text: Travel and leave
-      children:
-      - text: Leave (HR Links)
-        url: leave/
-        internal: true
-      - text: Travel guide (table of contents)
-        url: travel-guide-table-of-contents/
-        internal: true
-    - text: Tech
-      children:
-      - text: FITARA
-        url: fitara/
-        internal: true
-      - text: Requirements for passwords
-        url: password-requirements/
-        internal: true
-      - text: Security incidents
-        url: security-incidents/
-        internal: true
-      - text: Sensitive information
-        url: sensitive-information/
-        internal: true
-    - text: Employee resources
-      children:
-      - text: Benefits links and resources
-        url: benefits-links/
-        internal: true
-      - text: Conferences, events, and training
-        url: conferences-events-training/
-        internal: true
-      - text: Emergency procedures
-        url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
-        internal: false
-      - text: Employee assistance program
-        url: employee-assistance-program/
-        internal: true
-      - text: Employment verification
-        url: employment-verification/
-        internal: true
-      - text: Hiring authorities
-        url: hiring-authorities/
-        internal: true
-      - text: Overtime and comp time
-        url: overtime-and-comp-time/
-        internal: true
-      - text: Performance management
-        url: performance-management
-        internal: true
-      - text: Purchase requests
-        url: purchase-requests/
-        internal: true
-        children:
-        - text: Software under $10,000
-          url: software/
-          internal: true
-        - text: Procurements over $10,000
-          url: procurements-over-10000/
-          internal: true
-      - text: Resources for Deaf and Hard of Hearing individuals
-        url: deaf-hoh/
-        internal: true
-      - text: Telework guidance
-        url: telework/
-        internal: true
-        children:
-        - text: Virtual work and moving
-          url: moving/
-          internal: true
-      - text: Transit benefit
-        url: transit-benefit/
-        internal: true
-    - text: Hiring, staying, or changing jobs
-      children:
-      - text: Hiring
-        url: hiring/
-        internal: true
-      - text: TTSJobs
-        url: ttsjobs/
-        internal: true
-      - text: Term extensions
-        url: term-extensions/
-        internal: true
-      - text: Assignments and details
-        url: assignee-detail/
-        internal: true
-      - text: Promotions
-        url: promotions/
-        internal: true
-      - text: Leaving TTS
-        url: leaving-tts/
-        internal: true
-  - text: Software and tools
+    - text: Glossary
+      url: glossary/
+      internal: true
+    - text: Records management
+      url: records-management/
+      internal: true
+    - text: Washington, D.C. Office
+      url: washington-dc/
+      internal: true
+  - text: Travel and leave
     children:
-      - text: GSA internal tools
-        url: gsa-internal-tools/
+    - text: Leave (HR Links)
+      url: leave/
+      internal: true
+    - text: Travel guide (table of contents)
+      url: travel-guide-table-of-contents/
+      internal: true
+  - text: Tech
+    children:
+    - text: FITARA
+      url: fitara/
+      internal: true
+    - text: Requirements for passwords
+      url: password-requirements/
+      internal: true
+    - text: Security incidents
+      url: security-incidents/
+      internal: true
+    - text: Sensitive information
+      url: sensitive-information/
+      internal: true
+  - text: Employee resources
+    children:
+    - text: Benefits links and resources
+      url: benefits-links/
+      internal: true
+    - text: Conferences, events, and training
+      url: conferences-events-training/
+      internal: true
+    - text: Emergency procedures
+      url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
+      internal: false
+    - text: Employee assistance program
+      url: employee-assistance-program/
+      internal: true
+    - text: Employment verification
+      url: employment-verification/
+      internal: true
+    - text: Hiring authorities
+      url: hiring-authorities/
+      internal: true
+    - text: Overtime and comp time
+      url: overtime-and-comp-time/
+      internal: true
+    - text: Performance management
+      url: performance-management
+      internal: true
+    - text: Purchase requests
+      url: purchase-requests/
+      internal: true
+      children:
+      - text: Software under $10,000
+        url: software/
         internal: true
-      - text: AnyConnect (VPN client)
-        url: anyconnect/
+      - text: Procurements over $10,000
+        url: procurements-over-10000/
         internal: true
-      - text: DocuSign (digital signatures; replaced eSign)
-        url: digital-signatures/
+    - text: Resources for Deaf and Hard of Hearing individuals
+      url: deaf-hoh/
+      internal: true
+    - text: Telework guidance
+      url: telework/
+      internal: true
+      children:
+      - text: Virtual work and moving
+        url: moving/
         internal: true
-      - text: Federalist (publishing platform)
-        url: federalist/
-        internal: true
-      - text: GitHub (code repos and versioning)
-        url: github/
-        internal: true
-      - text: GitHub 101
-        url: intro-to-github/
-        internal: true
-      - text: Gmail
-        url: gmail/
-        internal: true
-      - text: Google Analytics
-        url: google-analytics/
-        internal: true
-      - text: Google Calendar
-        url: google-calendar/
-        internal: true
-      - text: Google Drive
-        url: google-drive/
-        internal: true
-      - text: Google Groups
-        url: google-groups/
-        internal: true
-      - text: Google Meet (video conferencing)
-        url: google-meet/
-        internal: true
-      - text: Meetings and meeting tools
-        url: meetings-and-meeting-tools/
-        internal: true
-      - text: Microsoft Office for OS X
-        url: office/
-        internal: true
-      - text: Mural.ly (collaborative whiteboard tool)
-        url: murally/
-        internal: true
-      - text: Sharing calendars with partners
-        url: sharedcalendars/
-        internal: true
-      - text: Sketch
-        url: sketch/
-        internal: true
-      - text: Slack (chat client)
-        url: slack/
-        internal: true
-      - text: Text editors
-        url: text-editors/
-        internal: true
-      - text: Tock (time tracking)
-        url: tock/
-        internal: true
-      - text: Trello (task and project management)
-        url: trello/
-        internal: true
-      - text: VMware Fusion (hypervisor)
-        url: vmware-fusion/
-        internal: true
-      - text: VMware Horizon (virtual desktop client)
-        url: vmware-horizon/
-        internal: true
-      - text: Zoom (video conferencing)
-        url: zoom/
-        Internal: true
-
- 
+    - text: Transit benefit
+      url: transit-benefit/
+      internal: true
+  - text: Hiring, staying, or changing jobs
+    children:
+    - text: Hiring
+      url: hiring/
+      internal: true
+    - text: TTSJobs
+      url: ttsjobs/
+      internal: true
+    - text: Term extensions
+      url: term-extensions/
+      internal: true
+    - text: Assignments and details
+      url: assignee-detail/
+      internal: true
+    - text: Promotions
+      url: promotions/
+      internal: true
+    - text: Leaving TTS
+      url: leaving-tts/
+      internal: true
+- text: Software and tools
+  children:
+    - text: GSA internal tools
+      url: gsa-internal-tools/
+      internal: true
+    - text: AnyConnect (VPN client)
+      url: anyconnect/
+      internal: true
+    - text: DocuSign (digital signatures; replaced eSign)
+      url: digital-signatures/
+      internal: true
+    - text: Federalist (publishing platform)
+      url: federalist/
+      internal: true
+    - text: GitHub (code repos and versioning)
+      url: github/
+      internal: true
+    - text: GitHub 101
+      url: intro-to-github/
+      internal: true
+    - text: Gmail
+      url: gmail/
+      internal: true
+    - text: Google Analytics
+      url: google-analytics/
+      internal: true
+    - text: Google Calendar
+      url: google-calendar/
+      internal: true
+    - text: Google Drive
+      url: google-drive/
+      internal: true
+    - text: Google Groups
+      url: google-groups/
+      internal: true
+    - text: Google Meet (video conferencing)
+      url: google-meet/
+      internal: true
+    - text: Meetings and meeting tools
+      url: meetings-and-meeting-tools/
+      internal: true
+    - text: Microsoft Office for OS X
+      url: office/
+      internal: true
+    - text: Mural.ly (collaborative whiteboard tool)
+      url: murally/
+      internal: true
+    - text: Sharing calendars with partners
+      url: sharedcalendars/
+      internal: true
+    - text: Sketch
+      url: sketch/
+      internal: true
+    - text: Slack (chat client)
+      url: slack/
+      internal: true
+    - text: Text editors
+      url: text-editors/
+      internal: true
+    - text: Tock (time tracking)
+      url: tock/
+      internal: true
+    - text: Trello (task and project management)
+      url: trello/
+      internal: true
+    - text: VMware Fusion (hypervisor)
+      url: vmware-fusion/
+      internal: true
+    - text: VMware Horizon (virtual desktop client)
+      url: vmware-horizon/
+      internal: true
+    - text: Zoom (video conferencing)
+      url: zoom/
+      Internal: true
