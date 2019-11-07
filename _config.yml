@@ -3,7 +3,7 @@ theme: uswds-jekyll
 title: TTS Handbook
 description: A collection of guides and policies to help you with your work.
 
-github:
+github_info:
   organization: 18F
   repository: handbook
   default_branch: master
