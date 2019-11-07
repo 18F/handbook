@@ -78,3 +78,7 @@ Add your notes about the conference to the [Conferences Notes doc](https://docs.
 ## Buying books
 
 You can also use your training budget to buy books for self-guided study. Approval for books follows the same process as approvals for trainings. You'll need to fill out the same forms but using the names of the books you want to buy. 
+
+## Hosting non-government speakers
+
+[More information.]({{site.baseurl}}/hosting-non-government-speakers/)
