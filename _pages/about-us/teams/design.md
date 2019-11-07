@@ -1,7 +1,7 @@
 ---
 title: Design
 tags:
-- design
+  - design
 ---
 
 The Design team at 18F includes content, user experience, front end, and visual designers as well as researchers, editors, prototypers, illustrators, and wordsmiths.
@@ -33,16 +33,15 @@ The Design team at 18F includes content, user experience, front end, and visual 
 
 Find us on Slack:
 
-* [#design](https://gsa-tts.slack.com/messages/design)
-* [#g-content](https://gsa-tts.slack.com/messages/g-content)
-* [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend)
-* [#g-research](https://gsa-tts.slack.com/messages/g-research)
-* [#design-lab](https://gsa-tts.slack.com/messages/design-lab)
-* [#writing-lab](https://gsa-tts.slack.com/messages/writing-lab)
-* [#content-design](https://gsa-tts.slack.com/messages/content-design)
-* [#ux](https://gsa-tts.slack.com/messages/ux)
-* [#visual-design](https://gsa-tts.slack.com/messages/visual-design)
-
+- [#design](https://gsa-tts.slack.com/messages/design)
+- [#g-content](https://gsa-tts.slack.com/messages/g-content)
+- [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend)
+- [#g-research](https://gsa-tts.slack.com/messages/g-research)
+- [#design-lab](https://gsa-tts.slack.com/messages/design-lab)
+- [#writing-lab](https://gsa-tts.slack.com/messages/writing-lab)
+- [#content-design](https://gsa-tts.slack.com/messages/content-design)
+- [#ux](https://gsa-tts.slack.com/messages/ux)
+- [#visual-design](https://gsa-tts.slack.com/messages/visual-design)
 
 ---
 
@@ -99,16 +98,18 @@ Here are some common tools we use, how we use them, and how you can get access t
 And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. If what you want to use isn’t there, you’ll need to ask in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
 
 #### Drawing lines on a screen
+
 Unless otherwise specified, **see [Software](../software/#get-access-to-software-we-already-have) to get a license** for any of these.
 
 - [**Sketch**]({{site.baseurl}}/sketch/)
 - **InVision:** We use InVision for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync.
   - If you are a member of the design team, once you have requested and received an InVision license, tell your supervisor that you have an account and are ready to be added to the "18F Design Team" group in InVision. This will enable you to see prototypes from all of our projects. When making your own prototypes in the future, always add this team as a collaborator.
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
-- **Adobe Creative Cloud:** Visual designers often need CC for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. CC licenses are more limited, so please don’t request access unless you really do need it for your work.
+- [**Adobe Creative Cloud**]({{site.baseurl}}/adobe/)
 - [**Microsoft Visio**](https://products.office.com/en-us/visio/flowchart-software) - Visio isn't available for Mac, but you can [request it get added to your Horizon VDI instance]({{site.baseurl}}/vmware-horizon/#software).
 
 #### Project management
+
 Every project and team has a different mix of project management tools based on what works for them. Many internal projects will use **Trello** because it's fast to set up. Get more information on the [How to use Trello]({{site.baseurl}}/trello) page.
 
 #### Research
@@ -130,7 +131,7 @@ Every project and team has a different mix of project management tools based on 
 
 We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
 
-- **18F-themed templates:** Access document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Unless your project has its own branded communication materials, like login.gov or cloud.gov, use these styles and templates for communicating about all of your work at 18F.  It's often beneficial for partners when we present deliverables with our brand styling, which shows the outside expertise they brought in. It also helps 18F present itself with a unified voice, tone, and look.
+- **18F-themed templates:** Access document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Unless your project has its own branded communication materials, like login.gov or cloud.gov, use these styles and templates for communicating about all of your work at 18F. It's often beneficial for partners when we present deliverables with our brand styling, which shows the outside expertise they brought in. It also helps 18F present itself with a unified voice, tone, and look.
 - **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. Come chat in [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend) on slack if you are choosing a framework for something.
 - **Icons:**
   - The visual design team maintains guidance on [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
@@ -157,13 +158,11 @@ Sharing your in-progress work with team members and stakeholders is one of the m
 
 Since GitHub is one tool we’ve chosen to facilitate public dialogue, consider also making your work available to the public (if project appropriate) by posting work-in-progress there. Before creating a public GitHub repo or otherwise sharing project-specific information, check with your project lead; they’ll let you know what information can be shared publicly.
 
-
 ### 2. Be mindful of Personally Identifiable Information (PII)
 
 PII is any piece of data, singly or in combination, that can identify unique individuals, such as full name, email address, or even phone number. While working in the open, be mindful of discussing agency partners, collecting any PII, or accidentally disclosing PII to the entire internet. Different agencies and organizations may have different levels of sensitivity and exposure concerns about types of personal information (identifying or not) you collect and how you use it. Check with your project lead before sharing information to avoid missteps and delays; what has been approved by the GSA may not already have been approved by partners. Be mindful as you post meeting notes or sidebar conversations in Slack channels, and be aware of the potential level of visibility this information will have once you post it in Slack.
 
 Bottom line: If you have questions about sharing information, ask.
-
 
 ### 3. Not everything has to happen in public
 
