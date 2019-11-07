@@ -100,8 +100,8 @@ navigation:
     url: olu/
     internal: true
   - text: Further development and training
-      url: development-and-training
-      internal: true
+    url: development-and-training
+    internal: true
 - text: TTS Offices
   blurb: We’re all one family at TTS, but each office has its own norms and practices.
   url: tts-offices/
