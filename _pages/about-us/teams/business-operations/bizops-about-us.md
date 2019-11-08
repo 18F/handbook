@@ -9,43 +9,64 @@ operational plans.
 
 The team is made up of four team and responsible for the following functions:
 
-**Agreements**: The TTS Agreements Team works with business units to ensure Interagency Agreements (IAAs), Memoranda of
+# Agreements
+
+The TTS Agreements Team works with business units to ensure Interagency Agreements (IAAs), Memoranda of
 Understanding (MOUs), and Intergovernmental Cooperation Act Agreements (IGCAs) are completed before providing or receiving
 services to or from partner agencies, offices, state or local governments. The team works closely with TTS business units and
 partners,  as well as the TTS finance team, OCFO, and OGC to ensure our agreements are in compliance with legal and financial
 guidance. We track agreements from the time they are requested by a business unit until they are fully executed and processed. The team also provides data and business intelligence to help leadership forecast business volume and develop business development strategies. 
 
-**Finance**: The TTS finance team conducts annual budget and revenue planning for each business unit and tracks monthly progress against planned goals. We track labor, travel, cloud service and contractual service charges and collect revenue on TTS' reimbursable agreements. We process purchase requests and pay invoices against those PRs. We monitor direct and indirect costs per business unit and work with OCFO to ensure accurate cost accounting.
+* Contact: tts.agreements@gsa.gov; [#iaa](https://gsa-tts.slack.com/messages/iaa)
 
-**People Ops**:  The People Operations team owns the relationship and experience with staff and supervisors for all things
+# Finance 
+
+The TTS finance team conducts budget and revenue planning and budget execution for each business unit and provides business intelligence to support data-driven decision making.
+
+* Contact: [#finance](https://gsa-tts.slack.com/messages/finance)
+
+# People Ops
+
+The People Operations team owns the relationship and experience with staff and supervisors for all things
 employee related starting when an employee comes on-board through an employee off-boarding. We are experts in  people related
-policy, regulations and bureaucratic requirements. 
+policy, regulations and bureaucratic requirements.
 
-**Talent**: The Talent team is dedicated to finding the best and the brightest.  We partner closely with our leaders and
-managers, helping them to make better decisions and to solve their strategic talent acquisition issues. We will deliver an
-incredible candidate experience from the first time a candidate sees a job posting to that very last call with them. 
-
-
-## People Operations 
-
-# Areas of Focus
+### People Ops Areas of Focus
 
 * [Performance Management](https://handbook.18f.gov/performance-management/)
-  * Contact: TTS-PeopleOps@gsa.gov; #people-ops
+  * Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/messages/people-ops)
 
 * [Events & Training Management](https://handbook.18f.gov/conferences-events-training/)
-  * Contact: tts-events@gsa.gov; #training-conferences
+  * Contact: tts-events@gsa.gov; [#training-conferences](https://gsa-tts.slack.com/messages/training-conferences)
   
 * [Travel](https://handbook.18f.gov/travel-guide-table-of-contents/)
-  * Contact: tts-travel@gsa.gov; #travel; [office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/)
+  * Contact: tts-travel@gsa.gov; [#travel](https://gsa-tts.slack.com/message/travel); [office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/)
 
 * Personnel Actions
     * moving within the org
-    * requesting a higher security clearance
-    * detailing within/ to and from an agency
-    * moving to a new duty station
-  * Contact: TTS-PeopleOps@gsa.gov; #people-ops
+    * [requesting a higher security clearance](https://handbook.18f.gov/top-secret/)
+    * [detailing within/ to and from an agency](https://handbook.18f.gov/assignee-detail/)
+    * [moving to a new duty station](https://handbook.18f.gov/moving/)
+  * Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
   
 * [Leave & Time Management](https://handbook.18f.gov/leave/)
-  * Contact: TTS-PeopleOps@gsa.gov; #people-ops
+  * Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
+  
+* [Benefits help](https://handbook.18f.gov/benefits/) 
+  * Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
 
+
+# Talent
+
+The Talent team is dedicated to finding the best and the brightest.  We partner closely with our leaders and
+managers, helping them to make better decisions and to solve their strategic talent acquisition issues. We will deliver an
+incredible candidate experience from the first time a candidate sees a job posting through their days onboarding at TTS. 
+
+* Contact: jointts@gsa.gov; [#hiring](https://gsa-tts.slack.com/message/hiring)
+
+### Talent Areas of Focus
+
+* [Hiring](https://handbook.18f.gov/hiring/)
+* [Promotions](https://handbook.18f.gov/promotions/)
+* [Internal Competitions](https://handbook.18f.gov/ttsjobs/)
+* Onboarding
