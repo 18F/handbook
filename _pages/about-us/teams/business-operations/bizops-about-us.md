@@ -5,7 +5,7 @@ title: Business Operations Division
 The Business Operations Division leads the day to day operations of the organization and delivers on the TTS strategy and 
 operational plans.
 
-![biz-ops-org-chart]()
+![biz-ops-org-chart](https://github.com/18F/handbook/blob/draft-bizops-about-us/_pages/Screen%20Shot%202019-10-28%20at%2010.06.10%20AM.png)
 
 The team is made up of four team and responsible for the following functions:
 
@@ -31,20 +31,21 @@ incredible candidate experience from the first time a candidate sees a job posti
 # Areas of Focus
 
 * [Performance Management](https://handbook.18f.gov/performance-management/)
-  * Contact: TTS-PeopleOps@gsa.gov; #people-ips
+  * Contact: TTS-PeopleOps@gsa.gov; #people-ops
 
 * [Events & Training Management](https://handbook.18f.gov/conferences-events-training/)
-  * Contact: 
+  * Contact: tts-events@gsa.gov; #training-conferences
   
 * [Travel](https://handbook.18f.gov/travel-guide-table-of-contents/)
-  * Contact: 
+  * Contact: tts-travel@gsa.gov; #travel; [office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/)
 
 * Personnel Actions
-  * moving within the org
-  * requesting a higher security clearance
-  * detailing within/ to and from an agency
-  * moving to a new duty station
+    * moving within the org
+    * requesting a higher security clearance
+    * detailing within/ to and from an agency
+    * moving to a new duty station
+  * Contact: TTS-PeopleOps@gsa.gov; #people-ops
   
-* Leave & Time Management
- 
+* [Leave & Time Management](https://handbook.18f.gov/leave/)
+  * Contact: TTS-PeopleOps@gsa.gov; #people-ops
 
