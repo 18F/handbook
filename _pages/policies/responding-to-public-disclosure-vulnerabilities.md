@@ -2,7 +2,7 @@
 title: Public disclosures of vulnerabilities
 ---
 
-When someone in the public alerts you to a potential vulnerability in our systems, you need to act quickly. There are three steps in this process:
+When someone in the public alerts you to a potential vulnerability in our systems, you need to act quickly. There are four steps in this process:
 
 ## 1. Triage the vulnerability
 
@@ -65,6 +65,10 @@ The acknowledgement text could be something like:
 Remember to **CC this email** to any relevant program staff or infrastructure leads. They assume responsibility for further communication and resolving the issue.
 
 The last thing you should do is set an email alert via Google Calendar at the 77-day (11 weeks) mark from the date the reporter sent the email, so that, if no response or resolution has yet been made, the team has about 2 weeks to bring the issue to resolution and close out the issue with the reporter.
+
+## 4. Remediate
+
+Valid vulnerabilities need to be resolved in the timeline set in the [RA-5(d)](https://nvd.nist.gov/800-53/Rev4/control/RA-5#Rev4Statements) control of your System Security Plan (SSP).
 
 ## For systems owned by partner agencies or 3rd-party vendors
 
