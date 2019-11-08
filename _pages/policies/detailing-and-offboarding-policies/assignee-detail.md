@@ -20,29 +20,29 @@ A detail is when a person in one agency goes to work at another agency on a temp
 
 ## What you should know about Details
 
-* The Assistant Commissioner of your office must approve every detail request. Once The detail is approved it is the supervisor's responsibility to notify [Talent](mailto:TTS-TalentTeam@gsa.gov) and [Finance](mailto:18F-Finance-CS@gsa.gov) of the request; Talent will get Front Office approval
+* The Assistant Commissioner of your office must approve every detail request. Once The detail is approved it is the supervisor's responsibility to notify [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and [Finance](mailto:18F-Finance-CS@gsa.gov) of the request.
 * All details of GSA employees to other Federal agencies or departments should be reimbursable. Details within GSA may be reimbursable or non-reimbursable.
 * Non reimbursable details to external agencies are done on a case by case basis and must be reviewed by GSA’s Office of General Counsel for compliance with the [Antideficiency Act](https://www.gao.gov/legal/appropriations-law-decisions/resources).
 * Most agencies use the [7600A](https://drive.google.com/a/gsa.gov/file/d/0BynxjBcHPLcLcEMxVzlzRUYyeG8/view?usp=sharing) and [7600B](https://drive.google.com/a/gsa.gov/file/d/0BynxjBcHPLcLYTQ0T0ZNOGhoc0E/view?usp=sharing) forms, but some do not and require a memorandum of understanding (MOU) only.  If an agency chooses not to use the forms, then the MOU will need to contain the information in the 7600A and B forms.
 * The Servicing Agency initiates the paperwork.
 * The agreement is between agencies, not between staff and the receiving agency.
 * Employees can refer to [GSA Order HRM 9334.2 Detail of Employees](https://drive.google.com/a/gsa.gov/file/d/1pCfXxK3vnPZOKaXxlyOC9EozXLRvHw4L/view?usp=sharing) dated July 8, 2016.
-* Talent will keep the Supervisor, including the potential detailee, apprised of the status of action on an ongoing basis .
+* People Ops will keep the Supervisor, including the potential detailee, apprised of the status of action on an ongoing basis.
 * Detail agreements come in increments of 120 days or less and can be extended up to one time for a total period of no more than 240 days. All details must be approved by the assistant commissioner of the requesting organization.
 
 ## Security Verification
 
 All Federal employees working at GSA must have a security clearance. For those employees detailing into TTS from outside of GSA, their security status must be verified with the GSA Security Office.
 
-It is the **responsibility of the TTS employee supervising the detailee** to ensure this is complete. TTS Talent provides step-by-step instructions on how to complete the security process. This process should be completed at the same time as the detail agreement process. For more information, visit the [TTS security verification steps form](https://docs.google.com/document/d/1xX4ro1bm4TtcJpqoz0TbXlpDhiaxLf4coBFg61GPQ9g/edit#heading=h.1jfe24syhsou).
+It is the **responsibility of the TTS employee supervising the detailee** to ensure this is complete. People Ops provides step-by-step instructions on how to complete the security process. This process should be completed at the same time as the detail agreement process. For more information, visit the [TTS security verification steps form](https://docs.google.com/document/d/1xX4ro1bm4TtcJpqoz0TbXlpDhiaxLf4coBFg61GPQ9g/edit#heading=h.1jfe24syhsou).
 
 ## Detailing within TTS/GSA
 
-1. In order for Talent to process the request, the employee’s Supervisor must have approvals from the AC of their office and the AC/Head of the office the employee will be detailed to
+1. In order for People Ops to process the request, the employee’s Supervisor must have approvals from the AC of their office and the AC/Head of the office the employee will be detailed to
 
-2. Then reach outto [TTS-Talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) to obtain Front Office approval
+2. Then reach out to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) to obtain Front Office approval
 
-3. Once approvals are granted, Supervisor contacts TTS-TalentTeam@gsa.gov with the request and cc: Biz Ops (Jackie Xu) for awareness.  Email must contain following information:
+3. Once approvals are granted, Supervisor contacts [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) with the request and cc: [Finance](mailto:18F-Finance-CS@gsa.gov) for awareness.  Email must contain following information:
    * Employee Name
    * Office Symbol Employee is being detailed to
    * Reimbursable or Non-reimbursable
@@ -50,7 +50,7 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
    * Detail PD or “Unclassified Set of Duties”
    * Effective Date 
 
-4. Talent submits personnel action to HR and the employee may begin their detail on the effective date
+4. People Ops submits personnel action to HR and the employee may begin their detail on the effective date
 
 5. The detail can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
 
@@ -62,16 +62,16 @@ ACTION | OWNER | TIME
 -------|-------|-----
 Employee informs supervisor | Employee | 1 business day
 Supervisor & AC approve request | Supervisor | 1 business day
-Supervisor notifies Talent of request | Supervisor | 1 business day
-Talent obtains Front Office approval | Talent | 5 business days
-Employee connects Talent PoC to Agency PoC | Employee | 1 business day
-Agency PoC sends Talent PoC forms (completed on their end) for Talent to complete | Agency PoC | 3 weeks
-Talent PoC completes forms | Talent | 1.5 weeks
+Supervisor notifies People Ops of request | Supervisor | 1 business day
+People Ops obtains Front Office approval | People Ops | 5 business days
+Employee connects Agreements PoC to Agency PoC | Employee | 1 business day
+Agency PoC sends Agreements PoC forms (completed on their end) for Agreements PoC to complete | Agency PoC | 3 weeks
+Agreements PoC completes forms | Talent | 1.5 weeks
 Edits sent back to agency. Agency returns updated forms | Agency | 2 weeks
 Documents sent to GSA HR for approval; HR completes Review | GSA HR | 5 business days
 Documents sent to GSA OGC for review; OGC completes Review | GSA OGC | 5 business days
 External Agency reviews edits/makes changes; OGC reviews edits/changes | Agency & GSA OGC | 3.5 weeks
-Talent gathers GSA signatures | Talent | 7 business days
+Agreements PoC gathers GSA signatures | Talent | 7 business days
 Agency gathers signatures | Agency PoC | 7 business days
 Detailee granted security access at agency | Employee | 5 business days
 Detailee able to onboard | Employee | As soon as all of the necessary approvals are obtained the detailee can begin working.
@@ -83,17 +83,17 @@ Detailee able to onboard | Employee | As soon as all of the necessary approvals 
 ACTION | OWNER | TIME
 -------|-------|-----
 AC approves request | Supervisor | 1 business day
-Supervisor notifies Talent & Finance of request | Supervisor | 1 business day
-Talent obtains Front Office approval | Talent | 5 business days
-Supervisor connects talent to Agency PoC | Supervisor | 1 business day
-Talent reaches out to Servicing Agency PoC| Talent | 2 business days
-Agency completes documents and returns to Talent PoC | Agency PoC | 3 weeks
-Talent completes Documents | Talent | 3 business days
+Supervisor notifies People Ops & Finance of request | Supervisor | 1 business day
+People Ops obtains Front Office approval | Talent | 5 business days
+Supervisor connects Agreements PoC to Agency PoC | Supervisor | 1 business day
+Agreements PoC reaches out to Servicing Agency PoC| Agreements PoC | 2 business days
+Agency completes documents and returns to Agreements PoC PoC | Agency PoC | 3 weeks
+Agreements PoC completes Documents | Talent | 3 business days
 Documents sent to GSA HR for approval; HR completes Review | GSA HR | 5 business days
 Documents sent to GSA OGC for review; OGC completes Review | GSA OGC | 5 business days
 Documents sent to GSA Finance for Review | GSA Finance | 3 business days
 Agency reviews edits/makes changes; OGC reviews edits/changes | Agency PoC | 3 weeks
-Talent gathers GSA signatures | Talent | 7 business days
+Agreements PoC gathers GSA signatures | Agreements PoC | 7 business days
 Agency gathers signatures | Agency PoC | 7 business days
 Detailee granted security access | Detail | 3 business days
 Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessary approvals are obtained the detailee can begin working
@@ -109,7 +109,7 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 * Then reach out to [TTS-Talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) to obtain Front Office approval
 
 ## Posting a Detail Opportunity within GSA
-* If you are considering posting a detail opportunity you should first get approval from your supervisor and the Assistant Commissioner (AC) of your office  
+* If you are considering posting a detail opportunity you should first get approval from your supervisor and Business Unit Director
 * If you plan to pay for this detail, then you must have a vacant position number available on your team 
 * To post a detail opportunity, available to all of GSA, you will have to complete [this form](https://insite.gsa.gov/topics/training-and-development/opportunity-network/post-an-opportunity)
   * If the detail opportunity has a PD (series-title-grade) associated with it, then only applicants who are at or above that grade level are eligible to apply (Project network does not allow for details to a higher grade)
@@ -132,4 +132,4 @@ To learn about this process please visit the [Hiring page]({{site.baseurl}}/hiri
 
 ### Still have questions?
 
-Please ping: [Talent](https://gsa-tts.slack.com/messages/talent)
+Please ping: [People-Ops](mailto:PeopleOperations@gsa.gov)
