@@ -49,7 +49,7 @@ A GSA employee is eligible to be rated by their official Supervisor if they have
    
 ### Who is eligible for the end of year performance bonus?
 
-Employees who occupy eligible positions as of September 30, 2019, and who receive an eligible rating of record, will receive an Individual Performance Award (IPA) or can [opt for a Time Off Award in lieu of cash by selecting that option in HR Links](({{site.baseurl}}/performance-management/#selecting-time-off-award-in-lieu-of-cash-performance-award) no later than November 14, 2019.
+Employees who occupy eligible positions as of September 30, 2019, and who receive an eligible rating of record, will receive an Individual Performance Award (IPA) or can [opt for a Time Off Award in lieu of cash by selecting that option in HR Links]({{site.baseurl}}/performance-management/#selecting-time-off-award-in-lieu-of-cash-performance-award) no later than November 14, 2019.
   * FY19 IPAs are targeted to be paid out in December 2019, as in previous years. However, the IPA payout date depends upon the status of the Continuing Resolution and FY20 funding.
   
 Subject to the availability of funds, OCFO and OHRM plan to distribute FY19 IPAs as follows:
