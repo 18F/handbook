@@ -68,7 +68,16 @@ The last thing you should do is set an email alert via Google Calendar at the 77
 
 ## 4. Remediate
 
-Valid vulnerabilities need to be resolved in the timeline set in the [RA-5(d)](https://nvd.nist.gov/800-53/Rev4/control/RA-5#Rev4Statements) control of your System Security Plan (SSP).
+Valid vulnerabilities need to be resolved in the following timeline:
+
+| Risk Value      | Corrective Action Deadline                                                                                                                              |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical        | For Internet-accessible IP addresses: within 15 calendar days of initial detection. For all other assets: within 30 calendar days of initial detection. |
+| High            | Within 30 calendar days of initial detection                                                                                                            |
+| Moderate/Medium | Within 90 days of initial detection                                                                                                                     |
+| Low             | No specific deadline unless defined by the GSA OCISO                                                                                                    |
+
+Source: [GSA Vulnerability Management Process guide](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/it-security-procedural-guides), Appendix B. These values will also appear in the [RA-5(d)](https://nvd.nist.gov/800-53/Rev4/control/RA-5#Rev4Statements) control of your System Security Plan (SSP).
 
 ## For systems owned by partner agencies or 3rd-party vendors
 
