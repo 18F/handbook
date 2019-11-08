@@ -23,7 +23,7 @@ Oct 23 - Nov 7 | Supervisors hold 1:1 performance review meetings with their dir
 October 30 | Audit of Supervisor review completion
 November 7 | TTS Internal ask due date to close out FY19 performance plans
 November 14 | Official GSA end of year close out due date for FY19 performance plans in HR Links
-December | Individual Performance Awards are targeted to be paid out in December 2019
+December | FY19 Individual Performance Awards are targeted to be paid out in December 2019
 
 ## Performance management quick links
 
@@ -49,14 +49,14 @@ A GSA employee is eligible to be rated by their official Supervisor if they have
    
 ### Who is eligible for the end of year performance bonus?
 
-Employees who occupy eligible positions as of September 30, 2019, and who receive an eligible rating of record, will receive an Individual Performance Award (IPA) or can [opt for a Time Off Award in lieu of cash]({{site.baseurl}}//performance-management/#selecting-time-off-award-in-lieu-of-cash-performance-award) no later than November 14, 2019.
+Employees who occupy eligible positions as of September 30, 2019, and who receive an eligible rating of record, will receive an Individual Performance Award (IPA) or can [opt for a Time Off Award in lieu of cash by selecting that option in HR Links](({{site.baseurl}}/performance-management/#selecting-time-off-award-in-lieu-of-cash-performance-award) no later than November 14, 2019.
   * FY19 IPAs are targeted to be paid out in December 2019, as in previous years. However, the IPA payout date depends upon the status of the Continuing Resolution and FY20 funding.
   
 Subject to the availability of funds, OCFO and OHRM plan to distribute FY19 IPAs as follows:
 
-* ***Level 5 summary ratings:*** Up to 2.5% of adjusted basic pay, or up to 52 hours of time off, subject to budget availability.
-* ***Level 4 summary ratings:*** Up to 1.5% of adjusted basic pay, or up to 31 hours of time off subject to budget availability.
-* ***"High 3" summary ratings:*** Up to .25% of adjusted basic pay, or up to 5 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5.  
+* **Level 5 summary ratings:** Up to 2.5% of adjusted basic pay, or up to 52 hours of time off, subject to budget availability.
+* **Level 4 summary ratings:** Up to 1.5% of adjusted basic pay, or up to 31 hours of time off subject to budget availability.
+* **"High 3" summary ratings:** Up to .25% of adjusted basic pay, or up to 5 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5.  
 
 ## HR Links performance management steps
 
@@ -208,7 +208,7 @@ It is critical that all FY19 performance plan evaluations are acknowledged by em
   
 ### Selecting Time Off Award in lieu of cash performance award
 
-For the FY19 performance review cycle, employees who would like a time off award ***in lieu of cash*** must elect their award type preference in HR Links no later than November 14, 2019. If time-off is not indicated in HR Links, then the default will be a cash award. 
+For the FY19 performance review cycle, employees who would like a time off award ***in lieu of cash*** must select their award type preference in HR Links no later than November 14, 2019. If time-off is not indicated in HR Links, then the default will be a cash award.  If you've selected a time off award in previous performance review cycles, this may still be active in HR Links; make sure to delete that selection if you would like to receive the cash individual performance reward instead.
 
 ***Note: Award time off must be used within one year of issuance.***
 
@@ -276,9 +276,6 @@ Use of this tool is optional but can be helpful in determining what your end-of-
     * Mid-Year Self-Assessment
     * Acknowledge a Mid-Year Progress Review
     * Acknowledge an Evaluation
-    
-### Individual Performance Awards and Time Off Awards
-
 
 ## Supervisor resources
 
