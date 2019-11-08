@@ -23,6 +23,7 @@ Oct 23 - Nov 7 | Supervisors hold 1:1 performance review meetings with their dir
 October 30 | Audit of Supervisor review completion
 November 7 | TTS Internal ask due date to close out FY19 performance plans
 November 14 | Official GSA end of year close out due date for FY19 performance plans in HR Links
+December | Individual Performance Awards are targeted to be paid out in December 2019
 
 ## Performance management quick links
 
@@ -39,15 +40,23 @@ Resource | Use
 [Online Learning University (OLU) Non-supervisor](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dGSA%2dHRLINKS%2dPERF%2dMGMT%2dEMPLOYEE%26componentTypeID%3dWBT%26revisionDate%3d1533096000000%26fromSF%3dY&company=GSAHCM03) | Performance management trainings (Non-supervisory employees)
 [Online Learning University (OLU) Supervisor](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fhcm03.ns2cloud.com%2Fsf%2Flearning%3FdestUrl%3Dhttps%253a%252f%252fgsa%252dhcm03%252ens2cloud%252ecom%252flearning%252fuser%252fdeeplink%255fredirect%252ejsp%253flinkId%253dITEM%255fDETAILS%2526componentID%253dHR%252bLinks%25253A%252bPerformance%252bManageme%2526componentTypeID%253dWBT%2526revisionDate%253d1533096000000%2526fromSF%253dY%26company%3DGSAHCM03) | Performance management trainings (Supervisory employees)
 [Employee Performance Management](https://insite.gsa.gov/topics/hr-pay-and-leave/employee-performance-management) | InSite performance management resources
+[HR Links: Time Off Award Preference](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/09/TimeOffAwardPreference_JobAid.pdf) | Instructions for selecting time off awards in lieu of cash
 
 ## Who participates in the end of year performance review?
 
-* A GSA employee is eligible to be rated by their official Supervisor if they have been on an established Performance Plan for 120 days, beginning with the date that the employee acknowledged the performance plan that was signed by their Supervisor.
-   * ***Note:*** TTS employees who have established a performance plan **before July 17** are eligible to close out their FY19 Performance Plan during the October 1 - November 14 end-of-year performance review cycle.
+A GSA employee is eligible to be rated by their official Supervisor if they have been on an established Performance Plan for 120 days, beginning with the date that the employee acknowledged the performance plan that was signed by their Supervisor.
+  * ***Note:*** TTS employees who have established a performance plan **before July 17** are eligible to close out their FY19 Performance Plan during the October 1 - November 14 end-of-year performance review cycle.
    
 ### Who is eligible for the end of year performance bonus?
 
-* This content will be updated once final guidance has been issued by OHRM.
+Employees who occupy eligible positions as of September 30, 2019, and who receive an eligible rating of record, will receive an Individual Performance Award (IPA) or can [opt for a Time Off Award in lieu of cash]({{site.baseurl}}//performance-management/#selecting-time-off-award-in-lieu-of-cash-performance-award) no later than November 14, 2019.
+  * FY19 IPAs are targeted to be paid out in December 2019, as in previous years. However, the IPA payout date depends upon the status of the Continuing Resolution and FY20 funding.
+  
+Subject to the availability of funds, OCFO and OHRM plan to distribute FY19 IPAs as follows:
+
+* ***Level 5 summary ratings:*** Up to 2.5% of adjusted basic pay, or up to 52 hours of time off, subject to budget availability.
+* ***Level 4 summary ratings:*** Up to 1.5% of adjusted basic pay, or up to 31 hours of time off subject to budget availability.
+* ***"High 3" summary ratings:*** Up to .25% of adjusted basic pay, or up to 5 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5.  
 
 ## HR Links performance management steps
 
@@ -196,6 +205,15 @@ It is critical that all FY19 performance plan evaluations are acknowledged by em
   
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 3, Topic 3.1)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
+  
+### Selecting Time Off Award in lieu of cash performance award
+
+For the FY19 performance review cycle, employees who would like a time off award ***in lieu of cash*** must elect their award type preference in HR Links no later than November 14, 2019. If time-off is not indicated in HR Links, then the default will be a cash award. 
+
+***Note: Award time off must be used within one year of issuance.***
+
+* HR Links in-depth guide (with screenshots):
+  * [HR Links: Time Off Award Preference](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/09/TimeOffAwardPreference_JobAid.pdf)
 
 ## Employee resources
 
@@ -258,6 +276,9 @@ Use of this tool is optional but can be helpful in determining what your end-of-
     * Mid-Year Self-Assessment
     * Acknowledge a Mid-Year Progress Review
     * Acknowledge an Evaluation
+    
+### Individual Performance Awards and Time Off Awards
+
 
 ## Supervisor resources
 
