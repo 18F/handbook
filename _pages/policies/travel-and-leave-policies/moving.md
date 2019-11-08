@@ -88,19 +88,19 @@ Part J. Concurrences
 * "Office of Human Resource Management (OHRM) Name: Bonnie Hochhalter 
 * "Regional Commissioner (RC), Assistant Commissioner, or equivalent (SES Level) Name": Anil, Harry, or Dom
 
-* Send form to [TTS-talentteam@gsa.gov](mailto:TTS-talentteam@gsa.gov) who will be responsible for obtaining the Deputy Administrator's signature
-  * Talent sends the FTTAs to the FAS Commissioner’s office (Tricia Sieveke, Karen Link, and Alex Mobeka)
+* Send form to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) who will be responsible for obtaining the Deputy Administrator's signature
+  * People Ops sends the FTTAs to the FAS Commissioner’s office (Tricia Sieveke, Karen Link, and Alex Mobeka)
 
 ### Approved FTTAs
 
-* TTS Talent will notify you when the FTTA has been approved and will provide next steps
+* People Ops will notify you when the FTTA has been approved and will provide next steps
   * *Note: Since the recent process change, it has been taking 30-60 days for FTTAs to get approved*
 
 ## Effective date
 
 Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](http://www.gsa.gov/portal/content/102507).
 
-A member of the TTS Talent Team will complete a Personnel Action Request (PAR) and submit to OHRM for processing.  If a Full-time Telework Agreement is required, the PAR is generated after the FTTA has been filled out and signed by TTS leadership, as directed in the FTTA [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit).  Then the PAR and FTTA are submitted to OHRM for processing.  
+A member of the People Ops Team will complete a Personnel Action Request (PAR) and submit to OHRM for processing.  If a Full-time Telework Agreement is required, the PAR is generated after the FTTA has been filled out and signed by TTS leadership, as directed in the FTTA [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit).  Then the PAR and FTTA are submitted to OHRM for processing.  
 
 ## Changes in pay
 
@@ -108,7 +108,7 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 ## Change your address
 
-1. Please email [tts-talentteam@gsa.gov](mailto:tts-talentteam@gsa.gov) to confirm that the TTS Talent Team has created a PAR (Personnel Action Request) for your relocation so that payroll is able to process any pay adjustments in a timely manner.   
+1. Please email [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) to confirm that the TTS People Ops has created a PAR (Personnel Action Request) for your relocation so that payroll is able to process any pay adjustments in a timely manner.   
 
 2. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/05/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).***
 
