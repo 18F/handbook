@@ -64,7 +64,7 @@ Your badge should work in other GSA buildings. <a href="https://gsa-tts.slack.co
 
 ### Connect to the GSA network remotely?
 
-See [Logging in &amp; Networks]({{site.baseurl}}/how-to-log-in) for details.
+See [Logging in &amp; Networks]({{site.baseurl}}/how-to-log-in/) for details.
 
 ### Get my laptop repaired?
 

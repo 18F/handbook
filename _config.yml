@@ -73,9 +73,6 @@ navigation:
     - text: Equipment
       url: equipment/
       internal: true
-    - text: Networks
-      url: networks/
-      internal: true
     - text: Benefits
       url: benefits/
       internal: true
