@@ -7,7 +7,7 @@ operational plans.
 
 ![biz-ops-org-chart](https://github.com/18F/handbook/blob/draft-bizops-about-us/_pages/Screen%20Shot%202019-10-28%20at%2010.06.10%20AM.png)
 
-The team is made up of four team and responsible for the following functions:
+This division is made up of four teams and responsible for the following functions:
 
 # Agreements
 
@@ -21,7 +21,7 @@ guidance. We track agreements from the time they are requested by a business uni
 
 # Finance 
 
-The TTS finance team conducts budget and revenue planning and budget execution for each business unit and provides business intelligence to support data-driven decision making.
+The TTS finance team conducts budget and revenue planning and budget execution for each business unit. We conduct budget and revenue planning and execution for each TTS business unit as well as provide business intelligence to support data-driven decision making.
 
 * Contact: [#finance](https://gsa-tts.slack.com/messages/finance)
 
@@ -45,7 +45,7 @@ policy, regulations and bureaucratic requirements.
 * Personnel Actions
     * moving within the org
     * [requesting a higher security clearance](https://handbook.18f.gov/top-secret/)
-    * [detailing within/ to and from an agency](https://handbook.18f.gov/assignee-detail/)
+    * [detailing within, to, and from an agency](https://handbook.18f.gov/assignee-detail/)
     * [moving to a new duty station](https://handbook.18f.gov/moving/)
   * Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
   
@@ -67,6 +67,7 @@ incredible candidate experience from the first time a candidate sees a job posti
 ### Talent Areas of Focus
 
 * [Hiring](https://handbook.18f.gov/hiring/)
+  * [Refer someone](https://handbook.18f.gov/talent/#referring-a-person)
 * [Promotions](https://handbook.18f.gov/promotions/)
 * [Internal Competitions](https://handbook.18f.gov/ttsjobs/)
-* Onboarding
+* [Onboarding](https://handbook.18f.gov/onboarding-schedule/)
