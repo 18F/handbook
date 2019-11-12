@@ -7,7 +7,7 @@ TTS does our best to make everyone feel welcome. During the onboarding process, 
 ## Changing your name in Google Apps
 
 You can change your name by following these steps:
- - Connect to the [GSA network or a VPN]({{ site.baseurl }}/networks/)
+ - Log in to the [GSA network or a VPN]({{ site.baseurl }}/how-to-log-in/)
  - ***Ensure your PIV card reader is inserted into your computer.*** When logging in to GCIMS, you will be asked to choose a security certificate to verify your identity. If you choose the wrong one, you will lose access to GCIMS and have a difficult time regaining access.  Choose carefully!
  - Go to [GCIMS](https://gcims.gsa.gov)
  - You will be asked to choose a digital certificate. If your PIV card is inserted, there will be two certificates listed with your name on them.
