@@ -97,4 +97,4 @@ Virtual trainings and information on writing a resume, navigating USAJobs, and g
 
 ### Still have questions?
 
-Please reach out to TTS Talent via [#hiring](https://gsa-tts.slack.com/messages/hiring/) or [email](mailto:tts-jointts@gsa.gov) for information regarding promotions.
+Please reach out to TTS Talent via [#hiring](https://gsa-tts.slack.com/messages/hiring/) or [email](mailto:jointts@gsa.gov) for information regarding promotions.
