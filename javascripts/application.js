@@ -29,9 +29,10 @@ $(document).ready(function() {
     if ( numHeadings > 2 ) {
 
       var inlineNavigation =
-        "<nav role='navigation' class='inline-navigation'>" +
-          "<h1>On this page:</h1>" +
-          "<ul>";
+        "<div class='inline-navigation-wrapper'>" +
+          "<nav role='navigation' class='inline-navigation'>" +
+            "<h1>On this page:</h1>" +
+            "<ul>";
 
       var inlineNavigationSelect = $('<select>');
 
@@ -83,8 +84,9 @@ $(document).ready(function() {
       });
 
       inlineNavigation +=
-         "</ul>" +
-        "</nav>";
+          "</ul>" +
+          "</nav>" +
+        "</div>";
 
       $('body').addClass('with-inline-navigation');
       var $table = $(".usa-layout-docs-main_content h1:first-child+.table-wrapper");

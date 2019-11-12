@@ -52,8 +52,7 @@ In your second week, you’ll learn about privacy best practices, how to get mor
 ### Thursday
 * [**Business Operations 101**](https://goo.gl/TMPYZ1): Hangouts-based class that introduces financial health, cost recovery, and the business operations that make our work possible.  ***This class is tailored to 18F and ACQ new hires.***
 
-### Friday
-* [**Federalist 101**]({{site.baseurl}}/federalist): Hangouts-based class that introduces static sites and the Federalist platform, which we use to build websites
+* [**Federalist and Cloud 101**]({{site.baseurl}}/federalist): Hangouts-based class that introduces Federalist, a service that makes it easy to launch websites using the U.S Web Design System, and Cloud.gov, a secure and compliant way to access cloud services, like compute and storage.
 
 ---
 

@@ -10,7 +10,7 @@ If you have any questions, please ping [#teamops](https://gsa-tts.slack.com/arch
 
 ## GSA tools
 
-Most of GSA's internal tools are accessible via our Agency's intranet [Insite](http://insite.gsa.gov). You must be on the VPN to connect if you work remotely. [Instructions for connecting are here]({{site.baseurl}}/networks/). Here's an overview of what you can access (you can click the names in this table to scroll down the page):
+Most of GSA's internal tools are accessible via our Agency's intranet [Insite](http://insite.gsa.gov). You must be on the VPN to connect if you work remotely. [Instructions for logging in are here]({{site.baseurl}}/how-to-log-in/). Here's an overview of what you can access (you can click the names in this table to scroll down the page):
 
 | Name                                             | What we use it for                                                                                                                                         | Login system                           |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |

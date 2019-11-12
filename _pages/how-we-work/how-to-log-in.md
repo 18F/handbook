@@ -1,12 +1,12 @@
 ---
-title: Logging in
+title: Logging in &amp; Networks
 tags:
 - ent
 - OAuth
 - Logging
 - login
 - access
-- network
+- networks
 ---
 
 This content provides best practices for logging into your various government accounts and apps.  The official GSA Policy can be found [here](https://insite.gsa.gov/portal/content/526805).
@@ -52,12 +52,13 @@ VMware is utilized to access your GSA Microsoft Windows desktop.  Some governmen
 
 AnyConnect is utilized as a GSA VPN client so that you can use a variety of systems that require a VPN directly from your local computer. Go [here]({{site.baseurl}}/anyconnect) for more information on configuring this tool.
 
-## Network connections
-To learn how to connect to the GSA network on campus and remotely, read the [GSA Network Connection Guide](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.6hzaqzho5cc3)
 
+## Connecting to GSA networks
+
+To learn how to connect to the GSA network on campus and remotely, take a look at the [GSA Network Connection Guide](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.6hzaqzho5cc3)
 
 --------------------------------------------------------------------------------
 
-### Still have questions?
+#### Still have questions?
 
-Ask in Slack in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure), [#it-issues](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)
+Ask in [#it-issues](https://gsa-tts.slack.com/messages/questions/), [#distributed](https://gsa-tts.slack.com/messages/distributed/) or ping [Infrastructure](https://gsa-tts.slack.com/messages/infrastructure)

@@ -107,7 +107,7 @@ If the room that you want isn't coming up, that means it's probably been booked 
 
 ### <a id="wi-fi"></a>Connect to the Wi-Fi
 
-See [Networks]({{site.baseurl}}/networks/) for details.
+See [Logging in &amp; Networks]({{site.baseurl}}/how-to-log-in/) for details.
 
 ## <a id="where-are-the"></a>Where are the...?
 
