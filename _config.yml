@@ -105,6 +105,25 @@ navigation:
     - text: Conferences, events, and training
       url: conferences-events-training/
       internal: true
+- text: How we work
+  blurb: How we think it's best to operate day-to-day in a distributed environment
+  url: how-we-work
+  internal: true
+  generated: true
+  children:
+  - children:
+    - text: One-on-ones
+      url: one-on-ones/
+      internal: true
+    - text: Out of office expectations
+      url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
+      internal: false
+    - text: Before you ship
+      url: https://before-you-ship.18f.gov
+      internal: false
+    - text: Open source policy
+      url: https://github.com/18F/open-source-policy/blob/master/policy.md
+      internal: false
 - text: TTS Offices
   blurb: We’re all one family at TTS, but each office has its own norms and practices.
   url: tts-offices/
@@ -168,6 +187,8 @@ navigation:
     - text: 18F
       children:
       - text: About 18F
+        url: about-18f/
+        internal: true
         children:
         - text: 18F history and values
           url: history-and-values/
@@ -177,15 +198,15 @@ navigation:
           internal: false
       - text: How we work
         children:
-        - text: How we relate to partners
-          url: how-we-relate-to-partners/
-          internal: true
         - text: How we collaborate
           url: how-we-collaborate/
           internal: true
         - text: Time tracking and billing
           url: tock/#time-tracking-and-billing
           internal: false
+        - text: Leading projects
+          url: leading-projects/
+          internal: true
         - text: How we staff projects
           url: staffing-projects/
           internal: true
@@ -241,37 +262,14 @@ navigation:
         - text: Washington, D.C.
           url: washington-dc/
           internal: true
-      - text: 18F platforms
-        children:
-        - text: Cloud.gov
-          url: https://cloud.gov/
-          internal: false
-        - text: Login.gov
-          url: https://login.gov/
-          internal: false
       - text: 18F team resources
         children:
-        - text: Before you ship
-          url: https://before-you-ship.18f.gov/infrastructure/aws/
-          internal: false
         - text: Blogging
           url: blogging/
           internal: true
         - text: Doing research at 18F
           url: research-guidelines/
           internal: true
-        - text: Leading projects
-          url: leading-projects/
-          internal: true
-        - text: One-on-ones
-          url: one-on-ones/
-          internal: true
-        - text: Open source policy
-          url: https://github.com/18F/open-source-policy/blob/master/policy.md
-          internal: false
-        - text: Out of office expectations
-          url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
-          internal: false
         - text: Performance Plan (FY19)
           url: 18f-performance-plan/
           internal: true
@@ -285,39 +283,15 @@ navigation:
           - text: Acquisition engagement glossary
             url: working-on-an-acquisition-engagement/#acquisition-glossary
             internal: true
-    - text: Office of Products and Programs (OPP)
-      children:
-      - text: About OPP
-        children:
-        - text: Overview of OPP
-          url: office-of-products-and-programs/
-          internal: true
-        - text: OPP history
-          url: opp-history/
-          internal: true
-        - text: OPP org chart
-          url: opp-org-chart/
-          internal: true
-      - text: Portfolios
-        children:
-        - text: Data
-          url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#DSP
-          internal: false
-        - text: Innovation
-          url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#IP
-          internal: false
-        - text: Public Experience
-          url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#CEP
-          internal: false
-        - text: Smarter IT
-          url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SmarterITDelivery
-          internal: false
-        - text: Secure Cloud
-          url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SecureCloud
-          internal: false
-        - text: 10x
-          url: https://10x.gsa.gov
-          internal: false
+    - text: Solutions
+      url: office-of-products-and-programs/
+      internal: true
+    - text: Cloud.gov
+      url: https://cloud.gov/
+      internal: false
+    - text: Login.gov
+      url: https://login.gov/
+      internal: false
     - text: Centers of Excellence (CoE)
       children:
       - text: Overview of CoE
