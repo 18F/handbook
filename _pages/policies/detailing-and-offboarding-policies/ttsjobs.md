@@ -34,7 +34,6 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 [People Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/550254600) - Closes Thursday, November 21st at 11:59pm ET
 
-[Supervisory Management and Program Analyst](https://www.usajobs.gov/GetJob/ViewDetails/550884900) - Closes Tuesday, November 12th at 11:59pm ET
 
 ### Internal only competitions
 
