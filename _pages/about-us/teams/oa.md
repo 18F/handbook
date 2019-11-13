@@ -24,7 +24,7 @@ In pursuit of our mission, we incorporate the following practices:
 
 ## What We Do
 
-We buy digital products and services for TTS as well as for partner agencies (coming soon through assisted acquisitions).
+We buy digital products and services for TTS as well as for partner agencies.
 
 ### TTS Internal Procurement
 
