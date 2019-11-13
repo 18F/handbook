@@ -53,21 +53,38 @@ jekyll_get:
 navigation:
 - text: Table of Contents
   internal: true
-- text: Welcome to TTS
+- text: About TTS
   blurb: |
-    Here's what you need to know in your first week.
-  url: welcome-to-TTS/
+    <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
+  url: about-us
   internal: true
   generated: true
   children:
   - children:
     - text: Welcome
-      url: welcome-letter/
+      url: welcome-letter
       internal: true
-    - text: Onboarding schedule
+    - text: Mission, history, and values
+      url: tts-history/
+      internal: true
+    - text: Code of Conduct
+      url: code-of-conduct/
+      internal: true
+    - text: Org chart
+      url: tts-org-chart/
+      internal: true
+- text: Getting started
+  blurb: |
+    Here's what you probably want to know in your first weeks at TTS.
+  url: welcome-to-TTS/
+  internal: true
+  generated: true
+  children:
+  - children:
+    - text: Onboarding class schedule
       url: onboarding-schedule/
       internal: true
-    - text: Logging in
+    - text: Logging in &amp; Networks
       url: how-to-log-in
       internal: true
     - text: Equipment
@@ -76,51 +93,57 @@ navigation:
     - text: Benefits
       url: benefits/
       internal: true
-    - text: Development and training
-      url: development-and-training
+    - text: Travel 101
+      url: travel-101/
       internal: true
+- text: Training &amp; Development
+  blurb: |
+    Classes, coaching and ongoing professional development
+  url: development-and-training
+  internal: true
+  generated: true
+  children:
+  - children:
     - text: Online Learning University (OLU)
       url: olu/
       internal: true
-    - text: Travel 101
-      url: travel-101/
+    - text: Conferences and events
+      url: conferences-events-training/
+      internal: true
+    - text: Coaching, mentoring and professional development 
+      url: development-and-training
       internal: true
     - text: GitHub 101
       url: intro-to-github/
       internal: true
-- text: About TTS
+- text: Travel and leave
   blurb: |
-    <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
+    Going somewhere? Here's what you need to know.
+  url: travel-guide-table-of-contents
+  internal: true
+  generated: true
+  children:
+  - children:
+      - text: Leave (HR Links)
+        url: leave/
+        internal: true
+      - text: Travel guide (table of contents)
+        url: travel-guide-table-of-contents/
+        internal: true
+- text: General information and resources    
   url: about-us/
   internal: true
   generated: true
   children:
-  - text: General information and resources
-    children:
+  - children:
     - text: Who we are
       children:
-      - text: TTS Code of Conduct
-        url: code-of-conduct/
-        internal: true
-      - text: TTS mission, history, and values
-        url: tts-history/
-        internal: true
-      - text: TTS org chart
-        url: tts-org-chart/
-        internal: true
       - text: General contacts and listservs
         url: general-contacts-and-listservs/
         internal: true
       - text: Working groups and guilds
         url: working-groups-and-guilds-101/
         internal: true
-        children:
-        - text: Diversity at TTS
-          url: diversity/
-          internal: true
-        - text: Accessibility
-          url: accessibility/
-          internal: true
       - text: Glossary
         url: glossary/
         internal: true
@@ -129,16 +152,7 @@ navigation:
         internal: true
       - text: Washington, D.C. Office
         url: washington-dc/
-        internal: true
-
-    - text: Travel and leave
-      children:
-      - text: Leave (HR Links)
-        url: leave/
-        internal: true
-      - text: Travel guide (table of contents)
-        url: travel-guide-table-of-contents/
-        internal: true
+        internal: true      
     - text: Tech
       children:
       - text: FITARA
@@ -157,9 +171,6 @@ navigation:
       children:
       - text: Benefits links and resources
         url: benefits-links/
-        internal: true
-      - text: Conferences, events, and training
-        url: conferences-events-training/
         internal: true
       - text: Emergency procedures
         url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
@@ -222,80 +233,80 @@ navigation:
       - text: Leaving TTS
         url: leaving-tts/
         internal: true
-  - text: Software and tools
-    children:
-      - text: GSA internal tools
-        url: gsa-internal-tools/
-        internal: true
-      - text: Adobe Acrobat and Creative Cloud (CC)
-        url: adobe/
-        internal: true
-      - text: AnyConnect (VPN client)
-        url: anyconnect/
-        internal: true
-      - text: DocuSign (digital signatures; replaced eSign)
-        url: digital-signatures/
-        internal: true
-      - text: Federalist (publishing platform)
-        url: federalist/
-        internal: true
-      - text: GitHub (code repos and versioning)
-        url: github/
-        internal: true
-      - text: Gmail
-        url: gmail/
-        internal: true
-      - text: Google Analytics
-        url: google-analytics/
-        internal: true
-      - text: Google Calendar
-        url: google-calendar/
-        internal: true
-      - text: Google Drive
-        url: google-drive/
-        internal: true
-      - text: Google Groups
-        url: google-groups/
-        internal: true
-      - text: Google Meet (video conferencing)
-        url: google-meet/
-        internal: true
-      - text: Meetings and meeting tools
-        url: meetings-and-meeting-tools/
-        internal: true
-      - text: Microsoft Office for OS X
-        url: office/
-        internal: true
-      - text: Mural.ly (collaborative whiteboard tool)
-        url: murally/
-        internal: true
-      - text: Sharing calendars with partners
-        url: sharedcalendars/
-        internal: true
-      - text: Sketch
-        url: sketch/
-        internal: true
-      - text: Slack (chat client)
-        url: slack/
-        internal: true
-      - text: Text editors
-        url: text-editors/
-        internal: true
-      - text: Tock (time tracking)
-        url: tock/
-        internal: true
-      - text: Trello (task and project management)
-        url: trello/
-        internal: true
-      - text: VMware Fusion (hypervisor)
-        url: vmware-fusion/
-        internal: true
-      - text: VMware Horizon (virtual desktop client)
-        url: vmware-horizon/
-        internal: true
-      - text: Zoom (video conferencing)
-        url: zoom/
-        Internal: true
+    - text: Software and tools
+      children:
+        - text: GSA internal tools
+          url: gsa-internal-tools/
+          internal: true
+        - text: Adobe Acrobat and Creative Cloud (CC)
+          url: adobe/
+          internal: true
+        - text: AnyConnect (VPN client)
+          url: anyconnect/
+          internal: true
+        - text: DocuSign (digital signatures; replaced eSign)
+          url: digital-signatures/
+          internal: true
+        - text: Federalist (publishing platform)
+          url: federalist/
+          internal: true
+        - text: GitHub (code repos and versioning)
+          url: github/
+          internal: true
+        - text: Gmail
+          url: gmail/
+          internal: true
+        - text: Google Analytics
+          url: google-analytics/
+          internal: true
+        - text: Google Calendar
+          url: google-calendar/
+          internal: true
+        - text: Google Drive
+          url: google-drive/
+          internal: true
+        - text: Google Groups
+          url: google-groups/
+          internal: true
+        - text: Google Meet (video conferencing)
+          url: google-meet/
+          internal: true
+        - text: Meetings and meeting tools
+          url: meetings-and-meeting-tools/
+          internal: true
+        - text: Microsoft Office for OS X
+          url: office/
+          internal: true
+        - text: Mural.ly (collaborative whiteboard tool)
+          url: murally/
+          internal: true
+        - text: Sharing calendars with partners
+          url: sharedcalendars/
+          internal: true
+        - text: Sketch
+          url: sketch/
+          internal: true
+        - text: Slack (chat client)
+          url: slack/
+          internal: true
+        - text: Text editors
+          url: text-editors/
+          internal: true
+        - text: Tock (time tracking)
+          url: tock/
+          internal: true
+        - text: Trello (task and project management)
+          url: trello/
+          internal: true
+        - text: VMware Fusion (hypervisor)
+          url: vmware-fusion/
+          internal: true
+        - text: VMware Horizon (virtual desktop client)
+          url: vmware-horizon/
+          internal: true
+        - text: Zoom (video conferencing)
+          url: zoom/
+          Internal: true
 - text: TTS Offices
   blurb: |
     We’re all one family at TTS, but each office has its own norms and practices.
