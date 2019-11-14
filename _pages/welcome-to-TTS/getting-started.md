@@ -200,7 +200,7 @@ You're going to hear a lot about acquisitions and procurement. For a quick dive,
 
 -   [Post-award management](https://docs.google.com/presentation/d/1pBm3jTlkvPJyOX3KtbjZVcFkKrEwCyqJ9jdOXh0PPuA/edit#slide=id.g57d5603040_0_23)
 
-After that, dive into the relevant handbook pages or ask any questions you may have in [#acquisition](https://gsa-tts.slack.com/messages/C054NH1FW). If you want to go really deep there are [free courses available](https://www.fai.gov/certification/contracting-fac-c) from the Federal Acquisition Institute.
+After that, dive into the relevant handbook pages --- [this is a good starting point](https://handbook.18f.gov/working-on-an-acquisition-engagement/) -- or ask any questions you may have in [#acquisition](https://gsa-tts.slack.com/messages/C054NH1FW). If you want to go really deep there are [free courses available](https://www.fai.gov/certification/contracting-fac-c) from the Federal Acquisition Institute.
 
 
 ## Government budgeting
