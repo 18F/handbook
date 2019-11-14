@@ -186,7 +186,7 @@ USWDS --- the [United States Web Design System](https://designsystem.digital.gov
 Those are just three of the products TTS is working on, but [there are many more](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit).
 
 
-##Acquisitions and Procurement
+## Acquisitions and Procurement
 
 18F alumni Sasha Magee memorably summed up the progression through government digital service [like this](https://twitter.com/sashax/status/941036458307076097):\
 year 1: "Why y'all talk about procurement so much? How boring."
