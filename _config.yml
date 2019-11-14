@@ -318,9 +318,6 @@ navigation:
     children:
     - text: Business Operations
       children:
-      - text: Ops
-        url: ops/
-        internal: true
       - text: Agreements
         url: agreements/
         internal: true

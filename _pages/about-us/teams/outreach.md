@@ -15,7 +15,7 @@ The team works closely with the GSA Office of Strategic Communication to ensure 
 
 ## Services
 
-Outreach is part of the TTS Operations office and is funded by the TTS business units. Come talk to the Outreach team if you’d like help with:
+Outreach is part of TTS Clients & Markets and is funded by the TTS business units. Come talk to the Outreach team if you’d like help with:
 
 - Reviewing and approving public content, including marketing materials and websites
 - Learning about emerging technology communications and training tools
@@ -39,7 +39,7 @@ You can also reach the whole team at tts-outreach@gsa.gov.
 
 ## Slack channels
 
-* [#outreach](https://gsa-tts.slack.com/archives/outreach) is for all general inquiries including helping you promote things, members of the press asking you questions, guidance on getting content approved etc.
-* [#tweet-this](https://gsa-tts.slack.com/archives/tweet-this) is where we coordinate activity for TTS Twitter accounts. Hop in here if you’d like an official account to tweet something or respond to a tweet.
-* [#press](https://gsa-tts.slack.com/archives/press) is for collecting press mentions of TTS. If you see something inaccurate in a story posted in press, you can contact the Outreach team to see if we can get it corrected.
-* [#training-conferences](https://gsa-tts.slack.com/archives/training-conferences): This channel is not managed by the Outreach team, but this is where you go if you’ve been asked to speak at an event, or if you want to speak at an event and may need approval. Outreach can help you with content for a talk, but the Governance and Compliance team handles approvals.
+- [#outreach](https://gsa-tts.slack.com/archives/outreach) is for all general inquiries including helping you promote things, members of the press asking you questions, guidance on getting content approved etc.
+- [#tweet-this](https://gsa-tts.slack.com/archives/tweet-this) is where we coordinate activity for TTS Twitter accounts. Hop in here if you’d like an official account to tweet something or respond to a tweet.
+- [#press](https://gsa-tts.slack.com/archives/press) is for collecting press mentions of TTS. If you see something inaccurate in a story posted in press, you can contact the Outreach team to see if we can get it corrected.
+- [#training-conferences](https://gsa-tts.slack.com/archives/training-conferences): This channel is not managed by the Outreach team, but this is where you go if you’ve been asked to speak at an event, or if you want to speak at an event and may need approval. Outreach can help you with content for a talk, but the Governance and Compliance team handles approvals.
