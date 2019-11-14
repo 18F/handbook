@@ -103,51 +103,53 @@ If you want to write a post on your personal blog about your experiences in gove
 
 ## Post-employment restrictions
 
-As a government employee, you are subject to restrictions on current duties when seeking post-government employment. This section provides a brief description of those restrictions, when they begin, when they end, and what steps to take.
+From GSA's Office of General Counsel (OGC):
 
-### Seeking Employment
-
-An employee is "seeking employment" as defined in Subpart F of 5 C.F.R. part 2635,
-and the recusal requirement applies, if:
-• the employee is engaged in actual negotiations for employment;
-• a prospective employer has contacted the employee about possible employment
-and the employee makes a response other than rejection; or
-• the employee has contacted a prospective employer about possible employment,
-unless the sole purpose of the contact is to request a job application. (An
-employee is seeking employment with any person to whom he sends an
-unsolicited resume, regardless of how many resumes the employee sends to
-other employers at the same time.)
-
-If a search firm, an online resume distribution service, or other intermediary is involved,
-recusal is not triggered unless the intermediary identifies the prospective employer to
-the employee.
-
-### First Step
-
-Contact the Deputy Ethics Counselor or other Ethics Law staff. They will advise on
-what actions to take and whether a conflict of interest exists with a prospective
-employer.
-
-Recusal – an employee must recuse themselves from a matter when they have a
-conflict of interest. If the recusal requirement applies, it extends to any particular matter
-(virtually any Government matter) that would have a direct and predictable effect on the
-financial interests of the prospective employer. However, an employee may work on
-particular matters of general applicability that affect the prospective employer if the
-employee's only communication with the prospective employer is the submission of an
-unsolicited resume and the prospective employer has not responded to indicate an
-interest in employment discussions. Here, work on this category of particular matters is
-permissible until the employee receives an expression of interest from the employer.
-
-Notification - When an employee becomes aware of the need to be recused from a
-particular matter, the employee should notify the person responsible for his or her
-assignments, and may choose to document the recusal in writing. Notification permits a
-supervisor to minimize any disruption of the agency's mission by arranging assignments
-accordingly.
-
-### When are you no longer seeking employment?
-
-Two months have elapsed since the employee's dispatch of an unsolicited resume and
-the employee has received no expression of interest from the prospective employer; or
-Either the employee or the prospective employer rejects the possibility of employment
-and all discussions of possible employment have ended. A response that merely defers
-discussion until the foreseeable future does not constitute rejection.
+> As a government employee, you are subject to restrictions on current duties when seeking > post-government employment. This section provides a brief description of those restrictions, when > they begin, when they end, and what steps to take.
+>
+> ### Seeking Employment
+>
+> An employee is "seeking employment" as defined in Subpart F of 5 C.F.R. part 2635,
+> and the recusal requirement applies, if:
+> • the employee is engaged in actual negotiations for employment;
+> • a prospective employer has contacted the employee about possible employment
+> and the employee makes a response other than rejection; or
+> • the employee has contacted a prospective employer about possible employment,
+> unless the sole purpose of the contact is to request a job application. (An
+> employee is seeking employment with any person to whom he sends an
+> unsolicited resume, regardless of how many resumes the employee sends to
+> other employers at the same time.)
+>
+> If a search firm, an online resume distribution service, or other intermediary is involved,
+> recusal is not triggered unless the intermediary identifies the prospective employer to
+> the employee.
+>
+> ### First Step
+>
+> Contact the Deputy Ethics Counselor or other Ethics Law staff. They will advise on
+> what actions to take and whether a conflict of interest exists with a prospective
+> employer.
+>
+> Recusal – an employee must recuse themselves from a matter when they have a
+> conflict of interest. If the recusal requirement applies, it extends to any particular matter
+> (virtually any Government matter) that would have a direct and predictable effect on the
+> financial interests of the prospective employer. However, an employee may work on
+> particular matters of general applicability that affect the prospective employer if the
+> employee's only communication with the prospective employer is the submission of an
+> unsolicited resume and the prospective employer has not responded to indicate an
+> interest in employment discussions. Here, work on this category of particular matters is
+> permissible until the employee receives an expression of interest from the employer.
+>
+> Notification - When an employee becomes aware of the need to be recused from a
+> particular matter, the employee should notify the person responsible for his or her
+> assignments, and may choose to document the recusal in writing. Notification permits a
+> supervisor to minimize any disruption of the agency's mission by arranging assignments
+> accordingly.
+>
+> ### When are you no longer seeking employment?
+>
+> Two months have elapsed since the employee's dispatch of an unsolicited resume and
+> the employee has received no expression of interest from the prospective employer; or
+> Either the employee or the prospective employer rejects the possibility of employment
+> and all discussions of possible employment have ended. A response that merely defers
+> discussion until the foreseeable future does not constitute rejection.
