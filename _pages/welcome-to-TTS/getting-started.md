@@ -248,4 +248,4 @@ Because roughly 25% of 18F staff term out each year, and PIFs are typically on o
 
 That's typical TTS operations and culture in a nutshell. At some point, surprisingly soon, you'll have internalized most of these things. That's a great time to come back and read this again for the bits you missed or forgot about. Not long after that, you'll be helping a newcomer understand these things.
 
-Welcome to TTS!
+**Welcome to TTS!**
