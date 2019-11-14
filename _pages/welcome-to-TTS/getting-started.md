@@ -191,7 +191,7 @@ Those are just three of the products TTS is working on, but [there are many more
 18F alumni Sasha Magee memorably summed up the progression through government digital service [like this](https://twitter.com/sashax/status/941036458307076097):  
    Year 1: "Why y'all talk about procurement so much? How boring."  
    Year 2: "Man, procurement's a pain."  
-year 3: "We should really consider doing something about procurement"
+   Year 3: "We should really consider doing something about procurement"  
    Year 4: "Holy crap there's nothing more important than solving procurement!"
 
 You're going to hear a lot about acquisitions and procurement. For a quick dive, [start with this simple introductory presentation](https://docs.google.com/presentation/d/1FjJWwXrTbXexdTGeZKP6OjQ8i5B3GmOAj5MQTF_arLg/edit?disco=AAAADFGLhBo&ts=5cf90ee6&usp_dm=false#slide=id.g4eb21fd7af_0_178).You may also want to view these relevant decks presented during past 18F Team Coffees:
