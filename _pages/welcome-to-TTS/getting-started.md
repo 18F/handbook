@@ -87,7 +87,7 @@ You can also look through the Handbook issues and fix something.
 Remember: you can be fearless. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control. 
 If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack.com/app_redirect?channel=tts-handbook) Slack channel and someone will quickly help you.
 
-### Code Reviews
+### Code reviews
 
 We believe you have the power to create the changes you want to see. 
 Those changes often result in Github pull requests, which need a code review.
