@@ -26,7 +26,7 @@ set everyone at TTS up for success. You don't need to know all of this stuff tod
 Skim it now, then refer back to it over your first 90 days or so as you're ready to absorb more. 
 Pretty soon you'll be the veteran around here, helping someone else learn these things.
 
-##Getting started
+## Getting started
 
 Within your first week or two you should be working through your onboarding checklist, 
 [onboarding classes](https://handbook.18f.gov/onboarding-schedule/) and any 
