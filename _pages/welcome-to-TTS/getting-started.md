@@ -85,7 +85,7 @@ If you see anything in the Handbook that appears out of date or incorrect, you c
 You can also look through the Handbook issues and fix something.
 
 Remember: you can be fearless. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control. 
-If you get stuck, you can just wave in the #[tts-handbook](https://gsa-tts.slack.com/app_redirect?channel=tts-handbook) Slack channel and someone will quickly help you.
+If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack.com/app_redirect?channel=tts-handbook) Slack channel and someone will quickly help you.
 
 ### Code Reviews
 
