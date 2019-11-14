@@ -5,7 +5,7 @@ title: Business Operations Division
 The Business Operations Division leads the day to day operations of the organization and delivers on the TTS strategy and 
 operational plans.
 
-![biz-ops-org-chart](https://github.com/18F/handbook/blob/draft-bizops-about-us/_pages/Screen%20Shot%202019-10-28%20at%2010.06.10%20AM.png)
+[![Business Operations organizational chart]({{site.baseurl}}/images/biz-ops-org-chart.png)]({{site.baseurl}}/images/biz-ops-org-chart.png)
 
 This division is made up of four teams and responsible for the following functions:
 

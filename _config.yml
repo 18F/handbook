@@ -309,6 +309,9 @@ navigation:
     children:
     - text: Business Operations
       children:
+      - text: Business Operations
+        url: bizops-about-us/
+        internal: true
       - text: Ops
         url: ops/
         internal: true
