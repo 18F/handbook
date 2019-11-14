@@ -3,6 +3,10 @@
 
 @import "./usa-overrides";
 
+blockquote {
+  font-style: italic;
+}
+
 a.button[href^="https://gsa-tts.slack.com"]::before {
   display: none;
 }
