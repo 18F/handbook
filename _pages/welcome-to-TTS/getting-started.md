@@ -121,7 +121,7 @@ If you're not an engineer, it's possible you may not need it, but when you do yo
 Just follow the steps: everything will be set up correctly and you'll minimize weird conflicts and problems later.
 
 If you are an engineer, we understand that your preferences about optimal development environments may differ from the laptop script. 
-In that case, please avoid setting up your own environment until after we've talked about it in the [#dev](https://gsa-tts.slack.com/messages/C02CD5VUQ) channel. 
+In that case, please come talk to us first in the [#dev channel](https://gsa-tts.slack.com/messages/C02CD5VUQ) before setting up your own environment. 
 Maybe you've identified a good way to update the script!
 
 If you are running a project locally, you may also find yourself needing to know 
@@ -181,7 +181,7 @@ It won't take long at TTS until you hear someone talking --- usually emphaticall
 
 ### Cloud.gov
 
-Just as Federalist makes creating .gov sites as easy as possible, [Cloud.gov ](https://cloud.gov/)makes hosting them as easy as possible, too, by dealing with a bunch of security and compliance sticking points so you don't have to. That convenience and trusted status means almost everything we build is hosted on cloud.gov. Like Federalist, [cloud.gov is extensively documented](https://cloud.gov/docs/) and heavily supported in [#cg-support](https://gsa-tts.slack.com/messages/C09CR1Q9Z). Still not clear? [They have a video, too](https://www.youtube.com/watch?v=nCycNkxs-rE).
+Just as Federalist makes creating .gov sites as easy as possible, [Cloud.gov ](https://cloud.gov/)makes hosting them as easy as possible, too, by dealing with a bunch of security and compliance sticking points so you don't have to. That convenience and trusted status means almost everything we build is hosted on cloud.gov, including Federalist, [cloud.gov is extensively documented](https://cloud.gov/docs/) and heavily supported in [#cg-support](https://gsa-tts.slack.com/messages/C09CR1Q9Z). Still not clear? [They have a video, too](https://www.youtube.com/watch?v=nCycNkxs-rE).
 
 ### USWDS
 
