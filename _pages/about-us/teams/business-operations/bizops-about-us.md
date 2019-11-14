@@ -5,7 +5,7 @@ title: Business Operations Division
 The Business Operations Division leads the day to day operations of the organization and delivers on the TTS strategy and 
 operational plans.
 
-![Business Operations organizational chart]({{site.baseurl}}/images/biz-ops-org-chart.png)
+[![Business Operations organizational chart]({{site.baseurl}}/images/biz-ops-org-chart.png)]({{site.baseurl}}/images/biz-ops-org-chart.png)
 
 The team is made up of four team and responsible for the following functions:
 
@@ -25,10 +25,9 @@ policy, regulations and bureaucratic requirements.
 managers, helping them to make better decisions and to solve their strategic talent acquisition issues. We will deliver an
 incredible candidate experience from the first time a candidate sees a job posting to that very last call with them. 
 
-
 ## People Operations 
 
-# Areas of Focus
+Areas of focus:
 
 * [Performance Management](https://handbook.18f.gov/performance-management/)
   * Contact: TTS-PeopleOps@gsa.gov; #people-ops
