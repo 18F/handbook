@@ -130,7 +130,9 @@ From GSA's Office of General Counsel (OGC):
 > what actions to take and whether a conflict of interest exists with a prospective
 > employer.
 >
-> Recusal – an employee must recuse themselves from a matter when they have a
+> #### Recusal
+>
+> An employee must recuse themselves from a matter when they have a
 > conflict of interest. If the recusal requirement applies, it extends to any particular matter
 > (virtually any Government matter) that would have a direct and predictable effect on the
 > financial interests of the prospective employer. However, an employee may work on
@@ -140,7 +142,9 @@ From GSA's Office of General Counsel (OGC):
 > interest in employment discussions. Here, work on this category of particular matters is
 > permissible until the employee receives an expression of interest from the employer.
 >
-> Notification - When an employee becomes aware of the need to be recused from a
+> #### Notification
+>
+> When an employee becomes aware of the need to be recused from a
 > particular matter, the employee should notify the person responsible for his or her
 > assignments, and may choose to document the recusal in writing. Notification permits a
 > supervisor to minimize any disruption of the agency's mission by arranging assignments
