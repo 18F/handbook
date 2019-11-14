@@ -228,7 +228,7 @@ Not everything 18F does is a billable project, and that's okay. Most people are 
 You can learn more about billing expectations and time tracking in the [Tock Handbook pages](https://handbook.18f.gov/tock/).
 
 
-## 18F Projects
+## 18F projects
 
 Almost all 18F projects are considered either a Path Analysis (PA) or an Experiment and Iterate (E&I) engagement. [You can learn more about both in the 18F "How We Work" guide](https://18f.gsa.gov/how-we-work/), which you're going to want to read anyway.
 
