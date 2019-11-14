@@ -65,7 +65,7 @@ Remember, you don't need to have any specific expertise to join a guild or worki
 just join their Slack channel and start attending their standing meetings. 
 If you need an invite, post a message in the Slack channel or DM whoever organizes the group.
 
-##Technical considerations
+## Technical considerations
 
 TTS is a technical organization, so even if you're not an engineer you will find yourself in technical environments. 
 Here are the bits everyone will probably need to know:
