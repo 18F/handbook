@@ -190,7 +190,7 @@ Those are just three of the products TTS is working on, but [there are many more
 
 18F alumni Sasha Magee memorably summed up the progression through government digital service [like this](https://twitter.com/sashax/status/941036458307076097):  
    Year 1: "Why y'all talk about procurement so much? How boring."  
-year 2: "Man, procurement's a pain."
+   Year 2: "Man, procurement's a pain."  
 year 3: "We should really consider doing something about procurement"
 
 year 4: "Holy crap there's nothing more important than solving procurement!"
