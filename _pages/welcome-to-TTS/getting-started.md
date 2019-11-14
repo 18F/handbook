@@ -34,7 +34,7 @@ Within your first week or two you should be working through your onboarding chec
 
 As you try to understand [TTS and what it's about](https://handbook.18f.gov/tts-history/), 
 you may want to take a look at the 
-[TTS organizational chart](https://docs.google.com/presentation/d/1Z5hxEcyMURBFseQ2CaEAWYYRA9sgELPeIH-qzi4byBw/edit). 
+[TTS organizational chart](https://docs.google.com/presentation/d/12hw9CcHjpN4hEJAURC9G32BTgoKylT65cE53DYkZbP4/edit#slide=id.g60910ccefb_0_113). 
 Org charts for each office are available in Google drive, too. 
 Here's the [18F org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?ts=5c8b93f9#slide=id.g54b7f7db38_18_0), 
 and here's one for [Solutions](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit#slide=id.g36a90c50d9_0_5).
