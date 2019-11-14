@@ -181,7 +181,7 @@ Just as Federalist makes creating .gov sites as easy as possible, [Cloud.gov ](h
 
 ### USWDS
 
-USWDS --- The [United States Web Design System](https://designsystem.digital.gov/) --- is a frontend framework designed to make it easy to build accessible, mobile-friendly government websites. They've worked through hundreds of issues related to accessibility, usability and the overall user experience. Your project can leverage that effort nearly instantly. To try out the USWDS on a test site, you can use the [templates provided by Federalist](https://federalist.18f.gov/documentation/templates/).
+USWDS --- the [United States Web Design System](https://designsystem.digital.gov/) --- is a frontend framework designed to make it easy to build accessible, mobile-friendly government websites. They've worked through hundreds of issues related to accessibility, usability, and the overall user experience. Your project can leverage that effort nearly instantly. To try out the USWDS on a test site, you can use the [templates provided by Federalist](https://federalist.18f.gov/documentation/templates/).
 
 Those are just three of the products TTS is working on, but [there are many more](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit).
 
