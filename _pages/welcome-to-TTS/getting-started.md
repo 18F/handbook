@@ -1,14 +1,10 @@
 ---
-title: Getting started at TTS
+title: 'Getting started at TTS: Your first 90 days'
 tags:
 - welcome
 - onboarding
 - getting started
 ---
-
-
-Getting started at TTS: Your first 90 days
-==========================================
 
 There's a rule of thumb that says it takes at least three months to understand a new job, 
 and that [your first 90 days](https://randsinrepose.com/archives/ninety-days/) 
