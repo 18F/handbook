@@ -61,9 +61,6 @@ navigation:
   generated: true
   children:
   - children:
-    - text: Welcome
-      url: welcome-letter
-      internal: true
     - text: Mission, history, and values
       url: tts-history/
       internal: true
@@ -81,20 +78,26 @@ navigation:
   generated: true
   children:
   - children:
+    - text: Welcome
+      url: welcome-letter
+      internal: true
+    - text: Getting Started at TTS
+      url: getting-started
+      internal: true
     - text: Onboarding class schedule
-      url: onboarding-schedule/
+      url: onboarding-schedule
       internal: true
     - text: Logging in &amp; Networks
       url: how-to-log-in
       internal: true
     - text: Equipment
-      url: equipment/
+      url: equipment
       internal: true
     - text: Benefits
-      url: benefits/
+      url: benefits
       internal: true
     - text: Travel 101
-      url: travel-101/
+      url: travel-101
       internal: true
 - text: Training &amp; Development
   blurb: |
