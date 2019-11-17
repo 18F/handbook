@@ -31,11 +31,11 @@ Things not within our scope:
 
 - [The Tech Portfolio Kanban board](https://github.com/orgs/18F/projects/11?fullscreen=true) - what we're working on
 - [Before You Ship](https://before-you-ship.18f.gov/) - TTS's internal documentation about security, compliance, and infrastructure
-- Maintaining the authoritative source documentation for components used across TTS  [Software-as-a-service (SaaS) ](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), [Systems](https://docs.google.com/spreadsheets/u/1/d/1LGn9kZCphzf14V5HpBfV3aYjflu-k9GtHS5LmFvDywM/edit?usp=drive_web&ouid=114492559070606542558), [Accounts](https://docs.google.com/spreadsheets/d/1DedSCiU9AsCAAVvAFZT0_Ii7AFIKlI-JNifzlpHNbDg/edit#gid=0) and  [Contracts](https://docs.google.com/spreadsheets/u/1/d/1S9cUnhRwfdsxcgT_h8ynHBbOQBxHgWlN-pzQ3yHw5_E/edit?usp=drive_web&ouid=114492559070606542558) 
+- Maintaining the authoritative source documentation for components used across TTS  [Software-as-a-service (SaaS) ](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), [Systems](https://docs.google.com/spreadsheets/u/1/d/1LGn9kZCphzf14V5HpBfV3aYjflu-k9GtHS5LmFvDywM/edit?usp=drive_web&ouid=114492559070606542558), and [Accounts](https://docs.google.com/spreadsheets/d/1DedSCiU9AsCAAVvAFZT0_Ii7AFIKlI-JNifzlpHNbDg/edit#gid=0) 
 - [More internal documentation](https://docs.google.com/document/d/1qIms6TcYOQ24BerQrxAFzTKAqVS6VNCpWklwTsxBmWA/edit#)
 - The Technology Portfolio team is new as of July 2019, though, is the evolution of [18F/TTS Infrastructure](https://github.com/18F/Infrastructure/blob/master/README.md).
 
 
 ## Questions
 
-Find us in Slack in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) and [#tech-portfolio](https://gsa-tts.slack.com/messages/tech-portfolio/), email us at [devops@gsa.gov](mailto:devops@gsa.gov), or [file an issue](https://github.com/18F/tts-tech-portfolio/issues/new).
+Find us in Slack in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/), email us at [devops@gsa.gov](mailto:devops@gsa.gov), or [file an issue](https://github.com/18F/tts-tech-portfolio/issues/new).
