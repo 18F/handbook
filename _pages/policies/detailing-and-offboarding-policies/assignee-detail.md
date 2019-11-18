@@ -40,9 +40,7 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
 
 1. In order for People Ops to process the request, the employee’s Supervisor must have approvals from the AC of their office and the AC/Head of the office the employee will be detailed to
 
-2. Then reach out to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) to obtain Front Office approval
-
-3. Once approvals are granted, Supervisor contacts [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) with the request and cc: [Finance](mailto:18F-Finance-CS@gsa.gov) for awareness.  Email must contain following information:
+2. Once approvals are granted, Supervisor contacts [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) with the request and cc: [Finance](mailto:18F-Finance-CS@gsa.gov) for awareness.  Email must contain following information:
    * Employee Name
    * Office Symbol Employee is being detailed to
    * Reimbursable or Non-reimbursable
@@ -50,9 +48,9 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
    * Detail PD or “Unclassified Set of Duties”
    * Effective Date 
 
-4. People Ops submits personnel action to HR and the employee may begin their detail on the effective date
+3. People Ops submits personnel action to HR and the employee may begin their detail on the effective date
 
-5. The detail can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
+4. The detail can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
 
 ## Detailing to Another Agency
 
