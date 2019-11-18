@@ -376,17 +376,34 @@ navigation:
         internal: false
     - text: How we work
       children:
-      - text: How we relate to partners
-        url: how-we-relate-to-partners/
-        internal: true
-      - text: How we collaborate
-        url: how-we-collaborate/
-        internal: true
       - text: Time tracking and billing
         url: tock/#time-tracking-and-billing
         internal: false
       - text: How we staff projects
         url: staffing-projects/
+        internal: true
+      - text: One-on-ones
+        url: one-on-ones/
+        internal: true
+      - text: Out of office expectations
+        url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
+        internal: false
+      - text: Performance Plan (FY19)
+        url: 18f-performance-plan/
+        internal: true
+      - text: Open source policy
+        url: https://github.com/18F/open-source-policy/blob/master/policy.md
+        internal: false
+    - text: 18F projects
+      children:
+      - text: Consulting with partners
+        url: how-we-relate-to-partners/
+        internal: true
+      - text: Working with partners
+        url: how-we-collaborate/
+        internal: true
+      - text: Leading projects
+        url: leading-projects/
         internal: true
     - text: 18F chapters
       children:
@@ -458,21 +475,6 @@ navigation:
         internal: true
       - text: Doing research at 18F
         url: research-guidelines/
-        internal: true
-      - text: Leading projects
-        url: leading-projects/
-        internal: true
-      - text: One-on-ones
-        url: one-on-ones/
-        internal: true
-      - text: Open source policy
-        url: https://github.com/18F/open-source-policy/blob/master/policy.md
-        internal: false
-      - text: Out of office expectations
-        url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
-        internal: false
-      - text: Performance Plan (FY19)
-        url: 18f-performance-plan/
         internal: true
       - text: Working on an acquisition engagement
         url: working-on-an-acquisition-engagement/
