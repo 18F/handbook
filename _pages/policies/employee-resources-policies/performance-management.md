@@ -399,7 +399,7 @@ A supervisor may need to approve an employee performance plan or employee evalua
 
 #### Leveraging diversity performance measure
 
-All FY20 **supervisory performance plans** must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fcorporateapps.gsa.gov%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F09%2FMandatoryLeadingPeopleCriticalElement_Supervisors.pdf) and/or attend a Supervisor's Lounge session (see below). 
+All FY20 **supervisory performance plans** must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/11U0zRK8_o2bA7dRSC9AhabBd8Qpwpr0o7gudzdCJKsE/edit?ts=5db85e63) and/or attend a Supervisor's Lounge session (see below). 
 
 ### Additional training
 
