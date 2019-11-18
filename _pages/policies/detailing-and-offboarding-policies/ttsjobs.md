@@ -45,7 +45,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
-[18F Executive Director](  ) - Closes Friday, November 29th at 11:59pm ET
+[18F Executive Director](https://docs.google.com/document/d/1Hgn7KGMgxob18zBSJgips6NhMNaj124OALFyCx7qqmI/edit#) - Closes Friday, November 29th at 11:59pm ET
 
 ## Partner information & opportunities
 
