@@ -34,6 +34,10 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
+[18F Executive Director](https://join.tts.gsa.gov/join/executive-director/) - Closes Friday, November 29th at 11:59pm ET
+
+[Supervisory Talent Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/551707200) - Closes Friday, November 22nd at 11:59pm ET
+
 [People Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/550254600) - Closes Thursday, November 21st at 11:59pm ET
 
 [Supervisory Management and Program Analyst](https://www.usajobs.gov/GetJob/ViewDetails/551549000) - Closes Thursday, November 21st at 11:59 pm ET
@@ -41,7 +45,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
-[18F Strategy Supervisor](https://docs.google.com/document/d/13MBWivDV1wy5lZp8ZnKVaEMyJcNDM3iJ3PcQ4r1eTX4/edit#) - Closes Friday, November 8 at 11:59pm ET
+[18F Executive Director](  ) - Closes Friday, November 29th at 11:59pm ET
 
 ## Partner information & opportunities
 
