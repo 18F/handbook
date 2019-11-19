@@ -40,7 +40,7 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
 
 1. In order for People Ops to process the request, the employee’s Supervisor must have approvals from the AC of their office and the AC/Head of the office the employee will be detailed to
 
-2. Once approvals are granted, Supervisor contacts [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) with the request and cc: [Finance](mailto:18F-Finance-CS@gsa.gov) for awareness.  Email must contain following information:
+2. Once those approvals are granted, the Supervisor should contact [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) with the request and cc: [Finance](mailto:18F-Finance-CS@gsa.gov) for awareness. That email will need to contain the following information:
    * Employee Name
    * Office Symbol Employee is being detailed to
    * Reimbursable or Non-reimbursable
