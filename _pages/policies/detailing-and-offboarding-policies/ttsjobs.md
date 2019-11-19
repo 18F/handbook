@@ -34,6 +34,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
+[Administrative Support Specialist](https://www.usajobs.gov/GetJob/ViewDetails/552142000) - Closes Tuesday, November 26 at 11:59pm ET
+
 [18F Executive Director](https://join.tts.gsa.gov/join/executive-director/) - Closes Friday, November 29th at 11:59pm ET
 
 [Supervisory Talent Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/551707200) - Closes Friday, November 22nd at 11:59pm ET
