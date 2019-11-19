@@ -49,6 +49,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [18F Executive Director](https://docs.google.com/document/d/1Hgn7KGMgxob18zBSJgips6NhMNaj124OALFyCx7qqmI/edit#) - Closes Friday, November 29th at 11:59pm ET
 
+[Talent Acquisition Specialist](https://docs.google.com/document/d/1omr2nvbOMw6AVAdirBEbiRgcl3hUg9QEtDh0CT_MsZ0/edit#) - Closes November 27th at 11:59pm ET
+
 ## Partner information & opportunities
 
 **United States Digital Service (USDS)**
