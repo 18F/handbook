@@ -69,12 +69,12 @@ Please revalidate all recurring meeting requests annually in [#admins-zoom](http
 
 Q: If I am hosting a Free meeting and it looks like it will go long, can you promote me to Pro? 
 
-A: No. Once your meeting has started, it will not convert to a Pro meeting without restaring the meeting. 
+A: No. Once your meeting has started, it will not convert to a Pro meeting without restarting the meeting. 
 That being said, Pro meetings can convert to Free 20 minutes before the meeting ends without affecting the meeting, if the license is needed elsewhere. 
 
 Q: Will 18F be getting more Pro licenses? 
 
-A: If you need a Pro license for your team, you can request one, as long as your team has the funding and justification for the need.
+A: It is currently under consideration. 
 
 Q: I don't need moderation and want to host a longer meeting. Is there a link that I can just use? 
 
