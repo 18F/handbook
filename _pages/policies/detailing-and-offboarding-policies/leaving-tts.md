@@ -19,7 +19,7 @@ Send an official email to your supervisor and [leavingTTS@gsa.gov](mailto:leavin
 
 Please include the following information:
 
-- your **termination date** (the last day of your term or the last official day that you've selected), which should be at least two weeks out
+- your **termination date** (the last day of your term or the last official day that you've selected), which should be at least two weeks out.
 - your **home address**. This will ensure that GSA HR enters the correct information on your final SF-50 so that you can receive all of your documents on time and to the correct address.
 - your **personal email** so that if, or when, you wish to request your FERS refund contributions HR can correspond with you after your departure with status/updates on this request.
 
@@ -47,20 +47,20 @@ If you have any questions, please contact [Mary Robinson (GSA HR)](mailto:marya.
 
 ### 4. Download copies of important personal documents
 
-- Download copies of your paystubs from [Employee Express](https://www.employeeexpress.gov/)
-- Download copies of your SF-50s from [eOPF](https://eopf.opm.gov/gsa/)(requires VPN if not on GSA network)
-  - An SF-50 is a notification of a Personnel Action; it contains your series, grade, and other information useful to you or required if applying for reinstatement
+- Download copies of your paystubs from [Employee Express](https://www.employeeexpress.gov/).
+- Download copies of your SF-50s from [eOPF](https://eopf.opm.gov/gsa/)(requires VPN if not on GSA network).
+  - An SF-50 is a notification of a Personnel Action; it contains your series, grade, and other information useful to you or required if applying for reinstatement.
 
 ### 5. Update your accounts
 
 - Make sure that you aren't the superuser, sole owner, approver, admin, etc. for Tock, important calendars, Google Groups, critical documents, or processes.
-  - Move Google Drive files to shared folders, when appropriate
+  - Move Google Drive files to shared folders, when appropriate.
   - If you have an **InVision account**, [transfer ownership of your prototypes](https://support.invisionapp.com/hc/en-us/articles/203730565-How-do-I-transfer-my-prototype-to-another-account-) to your supervisor or to another project team member so that they won't be lost once your account is deactivated.
 - Move all calendar invites off your calendar. Nothing worse than an orphaned meeting!
 - Log your final Tock hours.
 - Make a list of the approved software that you downloaded or were issued (not necessary to note the pre-installed software).
-  - Unregister the software that you're able to
-  - Provide the list of remaining registered software to the Offboarding Lead during the scheduled offboarding meeting
+  - Unregister the software that you're able to.
+  - Provide the list of remaining registered software to the Offboarding Lead during the scheduled offboarding meeting.
 
 ### 6. Complete the clearance checklist
 
@@ -87,9 +87,9 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
   - Documentation will be kept anonymous, but content may be used in aggregate to highlight trends.
 - Complete the [clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing) with the employee.
 
-## Exiting gracefully
+## Saying goodbye
 
-### Goodbye email
+### Sending an email
 
 You are under no obligation to send out a farewell email, but if you do, please use bcc: for any distribution lists you're sending it to. This allows people to respond to you directly without creating additional email noise for coworkers.
 
@@ -105,16 +105,16 @@ If you want to write a post on your personal blog about your experiences in gove
 
 From GSA's Office of General Counsel (OGC):
 
-> As a government employee, you are subject to restrictions on current duties when seeking > post-government employment. This section provides a brief description of those restrictions, when > they begin, when they end, and what steps to take.
+> As a government employee, you are subject to restrictions on current duties when seeking post-government employment. This section provides a brief description of those restrictions, when they begin, when they end, and what steps to take.
 >
 > ### Seeking Employment
 >
 > An employee is "seeking employment" as defined in Subpart F of 5 C.F.R. part 2635,
 > and the recusal requirement applies, if:
-> • the employee is engaged in actual negotiations for employment;
-> • a prospective employer has contacted the employee about possible employment
+> - the employee is engaged in actual negotiations for employment;
+> - a prospective employer has contacted the employee about possible employment
 > and the employee makes a response other than rejection; or
-> • the employee has contacted a prospective employer about possible employment,
+> - the employee has contacted a prospective employer about possible employment,
 > unless the sole purpose of the contact is to request a job application. (An
 > employee is seeking employment with any person to whom he sends an
 > unsolicited resume, regardless of how many resumes the employee sends to
