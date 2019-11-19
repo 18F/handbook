@@ -50,7 +50,7 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
 
 3. People Ops will submit the personnel action to HR and the employee will begin their detail on the effective date
 
-4. The detail can only be submitted for a time period of no more than 120 days.  The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
+4. The detail can only be for a time period of no more than 120 days. However, the detail can be extended for another 120 days If the HM and the employee’s supervisor both agree to extend.
 
 ## Detailing to Another Agency
 
