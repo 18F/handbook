@@ -17,7 +17,7 @@ tags:
 - training materials
 ---
 
-TTS encourages all staff to attend conferences, speak at events and focus on professional development and training opportunities.
+TTS encourages all staff to attend conferences, speak at events, and focus on professional development and training opportunities. Check out the [TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646) to see what conferences and trainings your colleagues have attended. 
 
 Any media requests (like news or podcast interviews) are a separate process—forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov).
 
@@ -29,7 +29,7 @@ Any media requests (like news or podcast interviews) are a separate process—fo
 
 1. You will receive an automated email when your request has been fully approved and paid for or if additional information is needed to complete your registration. You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
 
-## Approval Timelines
+## Approval timelines
 
 The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) as early as possible. 
 
@@ -71,9 +71,9 @@ You can start making [Travel Arrangements in Concur](https://handbook.18f.gov/tr
 
 You are responsible for cancelling all reservations (e.g. flight, hotel, rental car) if your event is not approved.  Always **check the cancellation policy before booking** because you may be responsible for paying the cancellation fee(s).  You can ask questions in [#travel](https://gsa-tts.slack.com/messages/travel/) or during [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
 
-## After the Conference
+## After the event
 
-Add your notes about the conference to the [Conferences Notes doc](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=0) for your colleagues to read and learn from!
+Add your notes about the conference or training to the [TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646) for your colleagues to read and learn from!
 
 ## Buying books
 
