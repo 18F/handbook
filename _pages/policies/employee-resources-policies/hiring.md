@@ -51,7 +51,7 @@ Talent will assist with the following:
 Use the following templates to prepare the posting (make sure to make a copy of each template):
 
   - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing) 
-  - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1fXSPemwm_U-uhBTT92FnAZAlBubF1-Eg8c3y5TnReEg/edit)
+  - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
 
 Once the TTSJobs Announcement is ready, Talent will:
 
