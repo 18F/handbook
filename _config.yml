@@ -476,6 +476,9 @@ navigation:
       - text: Doing research at 18F
         url: research-guidelines/
         internal: true
+      - text: Accessing DoD Systems
+        url: accessing-dod-systems/
+        internal: true
       - text: Working on an acquisition engagement
         url: working-on-an-acquisition-engagement/
         internal: true
