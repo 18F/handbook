@@ -19,13 +19,17 @@ To run the site locally:
 
 1. Open http://localhost:4000
 
+## Contributing
+
+If you are interested in contributing to this repository, you can read more at [CONTRIBUTING](CONTRIBUTING.md).
+
 ### Travel guide development
 
 To add additional images:
 
 1. Add an image to the `images/travel` directory.
-1. Link the image on the travel page, with folding HTML: `<img src="/images/travel/filename.png" class="travel-guide-hide">`.
-1. A show/hide link will automatically be created.
+2. Link the image on the travel page, with folding HTML: `<img src="/images/travel/filename.png" class="travel-guide-hide">`.
+3. A show/hide link will automatically be created.
 
 To create a new page:
 
@@ -42,3 +46,11 @@ For internal links, use `{{site.baseurl}}` in the URL (in place of `https://http
 :sparkles: **Good:** `({{site.baseurl}}/code-of-conduct/)`
 
 :no_entry_sign: **Instead of:** `(/code-of-conduct/)`
+
+### Public domain
+
+This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
+
+> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+>
+> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.

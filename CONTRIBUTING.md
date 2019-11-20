@@ -1,4 +1,4 @@
-# CONTRIBUTING.md
+# Contributing to the TTS Handbook
 
 ## What Cannot Be Included
 
@@ -9,13 +9,13 @@
 - Information that can easily go out of date and is already published somewhere else in a useful format. This includes:
   - People's phone numbers, even if public information (such as their GSA work number). Link to the public [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) or the access-controlled 18F contact spreadsheet instead of including phone numbers in the handbook
   - Information that is already well-covered on GSA InSite - link there instead of reproducing it
-  - Specific TTS org chart info (such as lists of names of supervisors and facilitators). Link to the [TTS org chart](https://handbook.18f.gov/tts-org-chart/), the internal [18F org chart](https://handbook.18f.gov/org-chart/), or the internal [OPP org chart](https://handbook.18f.gov/opp-org-chart/) instead
+  - Specific TTS org chart info (such as lists of names of supervisors and facilitators). Link to the [TTS org chart](https://handbook.18f.gov/tts-org-chart/), the internal [18F org chart](https://handbook.18f.gov/org-chart/), or the internal [Office of Solutions org chart](https://handbook.18f.gov/opp-org-chart/) instead
 
 ## A Few Things to Remember
 
 - This handbook website and repository are public
 - We're careful about publishing [information collected during research](https://handbook.18f.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#research](https://gsa-tts.slack.com/archives/research) for guidance first
-- Avoid "click here" links
+- Try to avoid "click here" links. If necessary, be sure to follow the [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
 
 ## Fork or branch?
 
