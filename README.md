@@ -5,21 +5,6 @@ The [TTS Handbook](https://handbook.18f.gov) documents the mission, values, stru
 
 Note: If you're changing any kind of process, please let [#wg-onboarding](https://gsa-tts.slack.com/messages/wg-onboarding) know so we can keep the handbook, new hire messages, and checklists up to date.
 
-## What can't be included
-
-For TTS staff, keep in mind that the handbook website and repository are public, so we can't include information that shouldn't be public. We already get training on this, but here are a few reminders about things we shouldn't include here:
-
-- [Sensitive information, as described in our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
-- Comments that can be easily interpreted as [endorsements](https://www.oge.gov/web/oge.nsf/Use%20of%20Government%20Position%20and%20Resources/17593AE8B3A597C685257E96006364E4?opendocument) (or other potential ethical issues)
-
-We avoid including information that can easily go out of date and is already published somewhere else in a useful format. This includes:
-
-- People's phone numbers, even if public information (such as their GSA work number). Link to the public [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) or the access-controlled 18F contact spreadsheet instead of including phone numbers in the handbook.
-- Information that is already well-covered on GSA InSite. Link there instead of reproducing it.
-- Specific TTS org chart info (such as lists of names of supervisors and facilitators). Link to the [TTS org chart](https://handbook.18f.gov/tts-org-chart/), the internal [18F org chart](https://handbook.18f.gov/org-chart/), or the internal [OPP org chart](https://handbook.18f.gov/opp-org-chart/) instead.
-
-We're careful about publishing [information collected during research](https://handbook.18f.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#research](https://gsa-tts.slack.com/archives/research) for guidance first.
-
 ## Development
 
 To run the site locally:
@@ -34,29 +19,17 @@ To run the site locally:
 
 1. Open http://localhost:4000
 
-### Fork or branch?
+## Contributing
 
-Forking and branching are two ways of submitting pull requests to edit the Handbook.
-
-If you are using the **_GitHub website built-in editing features_**, you do not have to choose: GitHub will make the correct choice for you.
-
-If you are using your Terminal / local git to edit:
-
-- **TTS teammates**: Please use **_branching_** to submit pull requests. Federalist Preview sites will only be built from a branch, and continuous integration can only succeed for PRs created from branches.
-
-- **External contributors**: Please use **_forking_** to submit pull requests, since non-TTS contributors do not have write access. Unfortunately, we won't be able to run Federalist Preview sites for your pull request; please build and serve the site locally to test instead.
-
-If you have any questions, feel free to ask in [#tts-handbook](https://gsa-tts.slack.com/messages/tts-handbook).
-
-Thank you so much for your contributions! :tada:
+If you are interested in contributing to this repository, you can read more at [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Travel guide development
 
 To add additional images:
 
 1. Add an image to the `images/travel` directory.
-1. Link the image on the travel page, with folding HTML: `<img src="/images/travel/filename.png" class="travel-guide-hide">`.
-1. A show/hide link will automatically be created.
+2. Link the image on the travel page, with folding HTML: `<img src="/images/travel/filename.png" class="travel-guide-hide">`.
+3. A show/hide link will automatically be created.
 
 To create a new page:
 
@@ -73,3 +46,11 @@ For internal links, use `{{site.baseurl}}` in the URL (in place of `https://http
 :sparkles: **Good:** `({{site.baseurl}}/code-of-conduct/)`
 
 :no_entry_sign: **Instead of:** `(/code-of-conduct/)`
+
+### Public domain
+
+This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
+
+> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+>
+> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.

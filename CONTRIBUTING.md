@@ -1,3 +1,37 @@
+# Contributing to the TTS Handbook
+
+## What Cannot Be Included
+
+- TTS Staff should not include information that shouldn't be public.
+  - We already get training on this, but here are a few reminders about things we shouldn't include here:
+  - [Sensitive information, as described in our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
+  - Comments that can be easily interpreted as [endorsements](https://www.oge.gov/web/oge.nsf/Use%20of%20Government%20Position%20and%20Resources/17593AE8B3A597C685257E96006364E4?opendocument) (or other potential ethical issues)
+- Information that can easily go out of date and is already published somewhere else in a useful format. This includes:
+  - People's phone numbers, even if public information (such as their GSA work number). Link to the public [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) or the access-controlled 18F contact spreadsheet instead of including phone numbers in the handbook
+  - Information that is already well-covered on GSA InSite - link there instead of reproducing it
+  - Specific TTS org chart info (such as lists of names of supervisors and facilitators). Link to the [TTS org chart](https://handbook.18f.gov/tts-org-chart/), the internal [18F org chart](https://handbook.18f.gov/org-chart/), or the internal [Office of Solutions org chart](https://handbook.18f.gov/opp-org-chart/) instead
+
+## A Few Things to Remember
+
+- This handbook website and repository are public
+- We're careful about publishing [information collected during research](https://handbook.18f.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#research](https://gsa-tts.slack.com/archives/research) for guidance first
+- Try to avoid "click here" links. If necessary, be sure to follow the [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
+
+## Fork or branch?
+
+Forking and branching are two ways of submitting pull requests to edit the Handbook.
+
+If you are using the **_GitHub website built-in editing features_**, you do not have to choose: GitHub will make the correct choice for you.
+
+If you are using your Terminal / local git to edit:
+
+- **TTS teammates**: Please use **_branching_** to submit pull requests. Federalist Preview sites will only be built from a branch, and continuous integration can only succeed for PRs created from branches.
+
+- **External contributors**: Please use **_forking_** to submit pull requests, since non-TTS contributors do not have write access. Unfortunately, we won't be able to run Federalist Preview sites for your pull request; please build and serve the site locally to test instead.
+
+If you have any questions, feel free to ask in [#tts-handbook](https://gsa-tts.slack.com/messages/tts-handbook).
+
+Thank you so much for your contributions! :tada:
 
 ## How to update the handbook
 
@@ -21,7 +55,7 @@ If you're not sure, ask for a second opinion in #tts-handbook first.
 
 ## Content and accessibility
 
-The handbook follows the [18F content guide](https://content-guide.18f.gov), and all content should follow web accessibility best practices. Remember to use [descriptive link text](https://content-guide.18f.gov/urls-and-filenames/#link-text) and avoid "click here" links.
+The handbook follows the [18F content guide](https://content-guide.18f.gov), and all content should follow web accessibility best practices. Remember to use [descriptive link text](https://content-guide.18f.gov/urls-and-filenames/#link-text).
 
 ## Public domain
 
