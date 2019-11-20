@@ -1,0 +1,32 @@
+---
+title: Accessing DoD Systems
+tags:
+- dod
+- intelligence
+- security
+- system-access
+---
+
+## Overview
+
+For TTS staff working on an engagement with a Department of Defense (DoD) or Intelligence Community (IC) partner, you will likely need to complete a [System Authorization Access Request (SAAR) form](https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2875.pdf) to gain access to the partner's network and systems.
+
+This form will be e-signed by both you and your supervisor using [Docusign]({{site.baseurl}}/digital-signatures/).
+
+## Steps for completing a SAAR Form
+
+You will indicate on this form the date when you your completed annual cybersecurity training. Since the form is not specific, you should indicate the date of your most recent [GSA cybersecurity training]({{site.baseurl}}/olu/). 
+
+If you are asked to take  DoD cybersecurity training, you can access the DoD training at no cost [here](https://www.cdse.edu/catalog/elearning/DS-IA106.html). Note - The training module claims that the course can be done in about 75 minutes.
+
+When filling out the specific fields on the SAAR form:
+
+* Part I / Section 9: Check **civilian**, not **contractor** (don't worry about contract dates/numbers. We aren't contractors so don't have a contract).
+* Part I / Section 10: Put the date our Inter Agency Agreement expires as the end of access date (your account manager should be able to provide this).
+* Part I / Section 14: The type of access you are requesting is almost always **authorized**.
+* Part II / Section 13: Justification for access should be the simplest, most straight forward way of expressing your need.
+* You may attempt to submit the form without filling out Part III. DoD agencies typically don't care that we have [public trust (moderate risk) investigations]({{site.baseurl}}/top-secret/). If they do care, then you'll need to get the SAAR form signed by the GSA security manager's team (the current PoC: [urline.richardson@gsa.gov](mailto:urline.richardson@gsa.gov))
+
+## Questions / Problems
+
+If you run into issues getting your SAAR form approved, please contact your Account Manager, or the National Security & Intelligence Portfolio manager. You can also post questions about this process to the #portfolio-nat-security channel in Slack.
