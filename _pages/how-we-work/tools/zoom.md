@@ -28,6 +28,8 @@ think that you will ever need to host a meeting longer than 40 minutes, you shou
 an invitation so that you belong to the 18F organization. If you already have an account, you
 can still be added to the 18F organization in the future. 
 
+Once you have created your account, consider adding a profile picture and your location and pronouns to your display name. To enable the use of breakout rooms (to split participants up into smaller groups for an activity during a remote session), navigate to your profile on the Zoom web portal. Under Settings > In Meeting (Advanced), turn the Breakout room feature on. You will now be able to start breakout room sessions through a button labeled "Breakout Rooms" when you're the host of a Zoom call.
+
 ## How to host a meeting
 
 Due to how we currently have our Zoom licenses set up, the instructions are different depending on
