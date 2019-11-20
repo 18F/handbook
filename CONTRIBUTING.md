@@ -49,7 +49,9 @@ If you make a pull request that's best reviewed by a specific person, tag or ass
 
 ### How to review and merge pull requests
 
-Any TTS staff member can review a pull request. If it's not your area of expertise, ask somebody who has expertise in that area (for instance, by commenting to tag a person or sharing the PR in Slack).
+Any TTS staff member can review a pull request. If it's not your area of expertise, ask somebody who has expertise in that area (for instance, by commenting to tag a person or sharing the PR in Slack). If the author of the pull request added a specific person as a reviewer, hold off merging the pull request until at least one specified reviewer has had a chance to review it.
+
+A note to submitters: If you need multiple people to see your PR before it's merged, please add a comment letting reviewers know!
 
 If you're not sure, ask for a second opinion in #tts-handbook first.
 
