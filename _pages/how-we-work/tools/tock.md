@@ -92,7 +92,9 @@ That leaves up to 20% of your time to be spent on non-billable work. There are t
 
 GSA-mandated non-billable work includes time spent in HRLinks, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers) and so forth. These are the things we don’t have a choice but to spend time on.
 
-18F non-billable work includes time spent on business development and hiring, in guilds and working groups, team coffees, chapter meetings, approved internal projects, business development, conference attendance, training events, and anything else that contributes to the running of 18F as an organization.
+18F non-billable work includes time spent on business development and hiring, in guilds and working groups, team coffees, chapter meetings, approved internal projects, business development, conference attendance, training events, and anything else that contributes to the running of 18F as an organization. 
+
+However, time within those activities spent discussing a billable project may also be billable. For example, if you're in a 1:1 or guild meeting working through a difficult project issue, that's billable.
 
 Not sure whether work you’re doing is billable? If it’s not explicitly an indirect cost, it’s project work.
 
