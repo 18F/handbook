@@ -244,6 +244,9 @@ navigation:
         - text: Adobe Acrobat and Creative Cloud (CC)
           url: adobe/
           internal: true
+        - text: Analytics
+          url: analytics/
+          internal: true
         - text: AnyConnect (VPN client)
           url: anyconnect/
           internal: true
@@ -258,9 +261,6 @@ navigation:
           internal: true
         - text: Gmail
           url: gmail/
-          internal: true
-        - text: Google Analytics
-          url: google-analytics/
           internal: true
         - text: Google Calendar
           url: google-calendar/

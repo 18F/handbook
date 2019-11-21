@@ -19,4 +19,4 @@ Products and Platforms is one of the two business units within 18F. We strive to
 
 * [search.gov](https://search.gov/), is a free search service that helps users find content on government websites
 
-* [Digital Analytics Program](https://analytics.usa.gov), offers freee web analytics to federal agencies.
+* [Digital Analytics Program](https://analytics.usa.gov), offers free web analytics to federal agencies.

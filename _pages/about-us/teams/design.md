@@ -115,7 +115,7 @@ Every project and team has a different mix of project management tools based on 
 #### Research
 
 - Please read [Doing Research at 18F]({{site.baseurl}}/research-guidelines) for more information on the tools and techniques.
-- **Google Analytics:** More info [here]({{site.baseurl}}/google-analytics).
+- **Analytics:** We recommend leveraging the [Digital Analytics Program](https://digital.gov/services/dap/) whenever possible.
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#g-research](https://gsa-tts.slack.com/messages/g-research) for recommendations.
 
 #### Workshops / virtual workspaces
