@@ -25,7 +25,7 @@ We also do things like:
 Things not within our scope:
 
 - Purchasing office equipment for individuals (rather than the project the individual supports)
-- Pickin up software development tasks for TTS programs
+- Picking up software development tasks for TTS programs
 
 ## Important links
 
