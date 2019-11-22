@@ -405,6 +405,16 @@ navigation:
       - text: Leading projects
         url: leading-projects/
         internal: true
+      - text: Working on an acquisition engagement
+        url: working-on-an-acquisition-engagement/
+        internal: true
+        children:
+        - text: Acquisition engagement types
+          url: acquisition-engagement-types/
+          internal: true
+        - text: Acquisition engagement glossary
+          url: working-on-an-acquisition-engagement/#acquisition-glossary
+          internal: true
     - text: 18F chapters
       children:
       - text: Account management
@@ -479,16 +489,6 @@ navigation:
       - text: Accessing DoD Systems
         url: accessing-dod-systems/
         internal: true
-      - text: Working on an acquisition engagement
-        url: working-on-an-acquisition-engagement/
-        internal: true
-        children:
-        - text: Acquisition engagement types
-          url: acquisition-engagement-types/
-          internal: true
-        - text: Acquisition engagement glossary
-          url: working-on-an-acquisition-engagement/#acquisition-glossary
-          internal: true
   - text: Office of Products and Programs (OPP)
     children:
     - text: About OPP
