@@ -18,7 +18,7 @@ communicate at all. This can be very frustrating, even for new employees who hav
 federal agencies!
 
 To help you get past that frustration and contributing as quickly as possible, 
-we try to cover all the bases in [your onboarding courses](https://handbook.18f.gov/onboarding-schedule/). 
+we try to cover all the bases in [your onboarding courses]({{site.baseurl}}/onboarding-schedule/). 
 But we also recognize those are a firehose of information and a lot of stuff won't make much sense right now.
 
 So, here's a guide to help you focus your onboarding efforts and work through some technical tasks that 
@@ -29,17 +29,17 @@ Pretty soon you'll be the veteran around here, helping someone else learn these 
 ## Getting started
 
 Within your first week or two you should be working through your onboarding checklist, 
-[onboarding classes](https://handbook.18f.gov/onboarding-schedule/) and any 
+[onboarding classes]({{site.baseurl}}/onboarding-schedule/) and any 
 [OLU training](https://gsaolu.gsa.gov) that's been assigned. If you're not, go take a look at those first.
 
-As you try to understand [TTS and what it's about](https://handbook.18f.gov/tts-history/), 
+As you try to understand [TTS and what it's about]({{site.baseurl}}/tts-history/), 
 you may want to take a look at the 
 [TTS organizational chart](https://docs.google.com/presentation/d/12hw9CcHjpN4hEJAURC9G32BTgoKylT65cE53DYkZbP4/edit#slide=id.g60910ccefb_0_113). 
 Org charts for each office are available in Google drive, too. 
 Here's the [18F org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?ts=5c8b93f9#slide=id.g54b7f7db38_18_0), 
 and here's one for [Solutions](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit#slide=id.g36a90c50d9_0_5).
 
-You'll probably spend quite a bit of time with [the TTS Handbook](https://handbook.18f.gov/) --- you're reading it now! 
+You'll probably spend quite a bit of time with [the TTS Handbook]({{site.baseurl}}/) --- you're reading it now! 
 The TTS Handbook isn't at all like most organizational handbooks. 
 Where past experience might have you expecting a dry rehashing of PR policies and jargon-heavy mission statements, 
 we've filled our Handbook with useful information that we update regularly --- and you can help update it, too. 
@@ -55,7 +55,7 @@ Don't hesitate to reach out for coffee with someone outside of your area, either
 Everyone here is positively brimming with useful information to share.
 
 Remember, this is learning-by-immersion, so as you get invited to things, say "yes" a lot. 
-Say yes to all the video-meetings, [guilds and working groups](https://handbook.18f.gov/working-groups-and-guilds-101/) 
+Say yes to all the video-meetings, [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/) 
 to which you are invited. Listen and ask questions. 
 Tell us if you think we're doing things wrong. 
 Tell us about your pets. Just get in there and get actively involved. 
@@ -79,7 +79,7 @@ In that case, you really need a version control system.
 Here at TTS, our version control system of choice is GitHub.
 
 Almost everyone at TTS spends some time working with GitHub, whether they're an engineer or not. 
-If this is new to you we suggest you start with our [Intro to Github](https://handbook.18f.gov/intro-to-github/). 
+If this is new to you we suggest you start with our [Intro to Github]({{site.baseurl}}/intro-to-github/). 
 When you're ready to begin using GitHub, the [Handbook repository](https://github.com/18F/handbook) is a great place to practice basics like creating a branch and a pull request. 
 If you see anything in the Handbook that appears out of date or incorrect, you can practice your new pull request skills and help us improve it! 
 You can also look through the Handbook issues and fix something.
@@ -200,7 +200,7 @@ You're going to hear a lot about acquisitions and procurement. For a quick dive,
 
 -   [Post-award management](https://docs.google.com/presentation/d/1pBm3jTlkvPJyOX3KtbjZVcFkKrEwCyqJ9jdOXh0PPuA/edit#slide=id.g57d5603040_0_23)
 
-After that, dive into the relevant handbook pages --- [this is a good starting point](https://handbook.18f.gov/working-on-an-acquisition-engagement/) -- or ask any questions you may have in [#acquisition](https://gsa-tts.slack.com/messages/C054NH1FW). If you want to go really deep there are [free courses available](https://www.fai.gov/certification/contracting-fac-c) from the Federal Acquisition Institute.
+After that, dive into the relevant handbook pages --- [this is a good starting point]({{site.baseurl}}/working-on-an-acquisition-engagement/) -- or ask any questions you may have in [#acquisition](https://gsa-tts.slack.com/messages/C054NH1FW). If you want to go really deep there are [free courses available](https://www.fai.gov/certification/contracting-fac-c) from the Federal Acquisition Institute.
 
 
 ## Government budgeting
@@ -222,20 +222,28 @@ You will hear about "billability" in TTS, and if you are in 18F, it will be a re
 
 Not everything 18F does is a billable project, and that's okay. Most people are expected to bill 32 hours a week, leaving 8 hours for things that aren't related to a partner or a project. This "non-billable" work is often the glue that holds the organization together: guilds, working groups, internal tools and documentation. 
 
-You can learn more about billing expectations and time tracking in the [Tock Handbook pages](https://handbook.18f.gov/tock/).
+You can learn more about billing expectations and time tracking in the [Tock Handbook pages]({{site.baseurl}}/tock/).
 
 
 ## 18F projects
 
 Almost all 18F projects are considered either a Path Analysis (PA) or an Experiment and Iterate (E&I) engagement. [You can learn more about both in the 18F "How We Work" guide](https://18f.gsa.gov/how-we-work/), which you're going to want to read anyway.
 
-The short version is that a PA is a short, exploratory engagement in which we help the partner define the problem and look at some potential solutions. For more information and resources, take a look in the [Path Analysis repo](https://github.com/18F/path-analysis/blob/master/approach.md).
+The short version is that a PA is a short, exploratory engagement in which we help the partner define the problem and look at some potential solutions. For more information and resources, take a look in the [Project Artifacts repo](https://github.com/18F/project-artifacts/blob/master/approach.md).
 
 In a follow-up E&I engagement we, well, experiment and iterate on the findings from the PA. For both types of engagements we have refined an ever-larger set of reusable resources that you can learn more about in the [#project-resources](https://gsa-tts.slack.com/messages/CHZLJBWCV) Slack channel and [Project Resources drive](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361).
 
 [Staffing projects at 18F](https://github.com/18F/staffing/blob/master/README.md) might first appear intimidating, but there is [a lot of thought behind it](https://docs.google.com/document/d/1lm7WgfW2u7sMvgcmyxfmbh61cg21fBqvIvzBkXuGfZQ/edit). And yes, we do apply agile thinking to everything, including staffing.
 
 The short version is that projects are staffed through the [18F Staffing repo](https://github.com/18F/staffing/issues), and you can always comment on an issue to express your interest.
+
+
+## Working with partners
+
+Partners come to 18F because they want help with hard technical problems, often involving creaky legacy systems and processes. We're not going to help them be successful by shoving them out of the way and implementing the "right" way. We will be successful by helping them be successful -- by teaching them repeatable, useful modern development practices that help them fulfill the mission and serve the public. 
+
+[Consulting and communicating effectively with partners]({{site.baseurl}}/how-we-relate-to-partners/) is how 18F is successful, and it's how we help our partners be successful, too. You'll also want to read up on [how we collaborate with partners]({{site.baseurl}}/how-we-collaborate/), which includes how we make remote collaboration work, how we model agile practices, and a lot more.
+
 
 ## Terming out
 
