@@ -47,7 +47,7 @@ In your second week, you’ll learn about privacy best practices, how to get mor
 * **Accessibility 101**: Hangouts-based class hosted by the Accessibility Guild (#g-accessibility) that introduces accessibility as it relates to our work, with resources
 
 ### Wednesday
-* [**Intro to Product & Agile**]({{site.baseurl}}/product): Text-based class in #tts-classes that introduces the Product Chapter and Agile Guild and how they might be able to help you
+* [**Intro to Product & Agile**]({{site.baseurl}}/product): Text-based class in #tts-classes that introduces the Product Chapter and agile practices and how they might be able to help you
 
 ### Thursday
 * [**18F Business Operations 101**](https://goo.gl/TMPYZ1): Hangouts-based class that introduces financial health, cost recovery, and the business operations that make our work possible.  ***This class is tailored to 18F and ACQ new hires.***
