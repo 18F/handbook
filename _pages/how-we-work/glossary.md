@@ -28,8 +28,6 @@ tags:
     * Gather all of the information for search to work
     * Trigger emails being sent
 
-* **CHRIS** – GSA’s Comprehensive Human Resources Integrated System was an e-Tool that enabled employees to access their personnel files online. GSA now uses HRLinks.
-
 * **CMS** - Content Management System. Software for creating, managing, and publishing content.
 
 * **CMS** - Centers for Medicare & Medicaid Services. Agency within Health and Human Services (HHS). One of the Ms is silent.
