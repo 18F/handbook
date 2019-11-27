@@ -40,10 +40,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [Supervisory Talent Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/551707200) - Closes Friday, November 22nd at 11:59pm ET
 
-[People Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/550254600) - Closes Thursday, November 21st at 11:59pm ET
-
-[Supervisory Management and Program Analyst](https://www.usajobs.gov/GetJob/ViewDetails/551549000) - Closes Thursday, November 21st at 11:59 pm ET
-
 
 ### Internal only competitions
 

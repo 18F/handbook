@@ -104,7 +104,8 @@ To qualify for [dental insurance](https://www.opm.gov/healthcare-insurance/denta
 
 To qualify for [vision insurance](https://www.opm.gov/healthcare-insurance/dental-vision/), you must sign up within 60 days of joining TTS, after a qualifying life event, or during Open Season. Some health insurance plans come with vision coverage, so you may not need vision insurance. Read your plan booklet to see what's covered. You can sign up for vision coverage on [Benefeds](https://www.benefeds.com/).
 
-If you have an eye appointment but have yet to receive your card(s), you can look up your Vision Care subscriber ID online. To do so, log on to [CHRIS](http://www.gsa.gov/portal/content/105088) (your username is first name middle initial last name with no spaces), select Employee Views from the GSA Personal Self Service menu, and select the Benefits tab. (Note: it may take 4-6 weeks for your CHRIS login to work.)
+If you have an eye appointment but have yet to receive your card(s), you can look up your Vision Care subscriber ID online. To do so, log on to [Benefeds](https://www.benefeds.com/).
+
 
 ### Filing an insurance complaint
 

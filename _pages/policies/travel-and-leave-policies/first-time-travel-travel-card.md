@@ -24,7 +24,8 @@ _Est. time: 60 minutes_
 6. Once completed there is a second training to take. Return to the "Find Learning" search box and search for "travel card".
 7. Select "GSA Travel Card Training", and then Start course.
 8. Once completed, download your certificates of completion for both trainings by returning to the "Learning" page and clicking on the "View All" button under "Learning History". You should see your completed travel card and TDY trainings on the list, and there will be an icon to generate a print preview, which you can save, at the right.
-9. For ease of processing later on, save your certificates as “Your Name travel card training” and “Your Name TDY training”.
+
+***NOTE***: Save your certificates as `FIRSTNAME_LASTNAME-TravelCardTrainingCert.pdf` and `FIRSTNAME_LASTNAME-TDYTrainingCert.pdf` for ease of processing later on.
 
 ### 2. Fill out the Supervisory Travel Card Approval
 
@@ -32,18 +33,25 @@ _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
 1. Download the [Supervisory Travel Card Approval Form](https://insite.gsa.gov/cdnstatic/Supervisory%20Travel%20Card%20Approval%20Form%20-%20GSA7662-19.pdf) and fill out the following fields.
 
-  * **Employee name:** Your name
+  * **Employee Name:** Your name
   * **Region/Central Office:** Central Office, regardless of your actual location
-  * **SSO:** Q - Federal Acquisition Service
-  * **Supervisor name:** The name of your functional supervisor
-  * **Supervisor title:** Your functional supervisor’s title
-  * **Supervisor signature:** Your functional supervisor’s signature.
+  * **Service/Staff Office:** Q - Federal Acquisition Service
+  * **Supervisor Name:** The name of your functional supervisor
+  * **Supervisor Title:** Your functional supervisor’s title
 
-### 3. Send both of the training certificates and the travel card approval form as attachments to [ronnail.rawls@gsa.gov](mailto:ronnail.rawls@gsa.gov)
+2. Save this file with the entered information, and forward it to your functional supervisor (as entered in the form) requesting that they enter their Digital Signature in the bottom field. Once they have returned the form to you with their Digital Signature, proceed to Step 3 below.
 
-This may take 1-2 business days.
+### 3. Send in the completed form and certificates
 
-Once you’ve gotten the go-ahead, you’ll receive two emails, one with a link to fill out a US Bank signup form and the second with an access code which will be required to see the form. Follow the instructions attached with the email. Use your **home** address, not your office address. Ronnail and her team can assist with any questions, the TTS travel team isn't involved in this process.
+The following files should be sent, as attachments, in an email to [ronnail.rawls@gsa.gov](mailto:ronnail.rawls@gsa.gov):
+
+- TravelCard training certificate: `FIRSTNAME_LASTNAME-TravelCardTrainingCert.pdf`
+- TDY training certificate: `FIRSTNAME_LASTNAME-TDYTrainingCert.pdf`
+- Supervisory Travel Card Approval form: `FIRSTNAME_LASTNAME-TravelCardApproval.pdf`
+
+This may take 1-2 business days to process.
+
+Once you’ve gotten the go-ahead, you’ll receive two emails: one with a link to fill out a US Bank signup form, and the second with an access code which will be required to see the form. Follow the instructions attached with the email. Use your **home** address, not your office address. Ronnail and her team can assist with any questions; the TTS Travel Team isn't involved in this process.
 
 ### 4. Receive and activate your card in 7-10 business days.
 

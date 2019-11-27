@@ -62,13 +62,16 @@ navigation:
   children:
   - children:
     - text: Mission, history, and values
-      url: tts-history/
+      url: tts-history
+      internal: true
+    - text: Diversity, ethics & inclusion
+      url: diversity
       internal: true
     - text: Code of Conduct
-      url: code-of-conduct/
+      url: code-of-conduct
       internal: true
     - text: Org chart
-      url: tts-org-chart/
+      url: tts-org-chart
       internal: true
 - text: Getting started
   blurb: |
@@ -405,6 +408,16 @@ navigation:
       - text: Leading projects
         url: leading-projects/
         internal: true
+      - text: Working on an acquisition engagement
+        url: working-on-an-acquisition-engagement/
+        internal: true
+        children:
+        - text: Acquisition engagement types
+          url: acquisition-engagement-types/
+          internal: true
+        - text: Acquisition engagement glossary
+          url: working-on-an-acquisition-engagement/#acquisition-glossary
+          internal: true
     - text: 18F chapters
       children:
       - text: Account management
@@ -479,16 +492,6 @@ navigation:
       - text: Accessing DoD Systems
         url: accessing-dod-systems/
         internal: true
-      - text: Working on an acquisition engagement
-        url: working-on-an-acquisition-engagement/
-        internal: true
-        children:
-        - text: Acquisition engagement types
-          url: acquisition-engagement-types/
-          internal: true
-        - text: Acquisition engagement glossary
-          url: working-on-an-acquisition-engagement/#acquisition-glossary
-          internal: true
   - text: Office of Products and Programs (OPP)
     children:
     - text: About OPP

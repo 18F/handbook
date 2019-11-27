@@ -25,7 +25,8 @@ When filling out the specific fields on the SAAR form:
 * Part I / Section 10: Put the date our Inter Agency Agreement expires as the end of access date (your account manager should be able to provide this).
 * Part I / Section 14: The type of access you are requesting is almost always **authorized**.
 * Part II / Section 13: Justification for access should be the simplest, most straight forward way of expressing your need.
-* You may attempt to submit the form without filling out Part III. DoD agencies typically don't care that we have [public trust (moderate risk) investigations]({{site.baseurl}}/top-secret/). If they do care, then you'll need to get the SAAR form signed by the GSA security manager's team (the current PoC: [urline.richardson@gsa.gov](mailto:urline.richardson@gsa.gov))
+* You may attempt to submit the form without filling out Part III. DoD agencies typically don't care that we have [public trust (moderate risk) investigations]({{site.baseurl}}/top-secret/). If they do care, then you'll need to get the SAAR form signed by the GSA security manager's team. Take a look at the [PERSEC insite page](https://insite.gsa.gov/organizations/staff-offices/office-of-mission-assurance/divisions-program-offices/personnel-security-division) and contact the branch deputy.
+
 
 ## Questions / Problems
 

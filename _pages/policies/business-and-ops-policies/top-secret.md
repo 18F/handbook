@@ -38,7 +38,6 @@ Most TTS employees have a Public Trust (Moderate Risk - Level 5) clearance. Howe
 
 ### 2. Email items from Step 1 (supervisor justification, GSA PRDS, credit report and Declaration of Federal Employment) to the [People Ops Team](mailto:TTS-PeopleOps@gsa.gov).  They will contact GSA HR Classification and work with HR and the Supervisor to create an updated PD:
 * Once the PD is created, People Ops will submit the package to GSA Security and submit a PAR if applicable
-
       * Please note that you can not be placed on this new PD until your security clearance is processed by OPM. You may request a waiver justification to be placed on this PD before the clearance goes through ONLY if your PD is classified as critical sensitive (versus special sensitive)
       * Waiver justifications must be written by the supervisor and approved by the FAS Commissioner (Alan Thomas)
 
