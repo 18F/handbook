@@ -65,8 +65,6 @@ If you're new to GSA, it'll take a few weeks for IT to set up your account. (You
 
 Once your account is setup, be sure to log in right away as that initial access expires within a few days. If you have trouble logging in or need to contact the Employee Express Help Desk, click on the **(?)** icon in the top right hand corner of the [Employee Express](https://www.employeeexpress.gov/) main page and fill out the "Help Request" form.
 
-If they ask for your health insurance code, you can see that in CHRIS under `GSA Personnel → Self Service → Employee Views → Benefits → Health Plan`. Your code is the number next to your health plan.
-
 See [Benefits]({{site.baseurl}}/benefits) for more details about Employee Express.
 
 ## HR Links
