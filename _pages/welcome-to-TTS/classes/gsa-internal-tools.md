@@ -103,7 +103,7 @@ If you'd already set this up pre-February 2019, you may need to update it. Pleas
 
 TTS has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. If you’d like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
 
-Access to general office supplies varies based on your location — see our [office guides]({{site.baseurl}}/#18f-locations). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
+Access to general office supplies varies based on your location — see our [office guides]({{site.baseurl}}/#tts-locations). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building).
 
 For software requests, see [Software](../software/).
 
