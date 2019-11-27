@@ -64,7 +64,7 @@ navigation:
     - text: Mission, history, and values
       url: tts-history
       internal: true
-    - text: Diversity, ethics & inclusion
+    - text: Diversity, equity & inclusion
       url: diversity
       internal: true
     - text: Code of Conduct
