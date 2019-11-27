@@ -13,7 +13,7 @@ The [TTS Policy and Procedure for Internal Project Review](https://docs.google.c
 
 **Guilds** are more permanent than working groups and are sponsored by the TTS Chief of Staff. Working groups may propose themselves for guild status. Every guild has one or more leaders chosen by competition and either regular open meetings or an open Slack channel where questions are welcome.
 
-18F has a [playbook](https://pages.18f.gov/grouplet-playbook) with instructions on how to organize a working group or guild, how to maintain team cohesion, and how to produce artifacts. All groups have a Slack channel. Working-group related channels have a `wg-` in front of their name; guilds have a `g-` before the name. Feel free to jump into and out of any of the working group or guild channels to participate or ask questions. The [18F Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) houses all formal meeting times for working groups and guilds.
+All groups have a Slack channel. Working-group related channels have a `wg-` in front of their name; guilds have a `g-` before the name. Feel free to jump into and out of any of the working group or guild channels to participate or ask questions. The [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) houses all formal meeting times for working groups and guilds.
 
 The open Slack channel for guild leaders & other practice leaders who wish to join is `#guild-practice-leads`
 
@@ -25,17 +25,10 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
       <tr>
         <th class="col-grouplet" id="accessibility">Accessibility</th>
         <td class="col-description">
-          We help 18F develop good, accessible products from the start of production in order to provide an excellent user experience for everyone. <br />
+          We help TTS develop good, accessible products from the start of production in order to provide an excellent user experience for everyone. <br />
           <a href="https://accessibility.18f.gov/">Homepage</a> 
           &bull; 
           <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
-        </td>
-      </tr>
-      <tr>
-        <th class="col-grouplet" id="agile">Agile</th>
-        <td class="col-description">
-          We improve the quality and speed of service delivery through process improvement by encouraging the use of iterative methods in the research, planning, and development of solutions we implement. <br />
-          <a href="https://pages.18f.gov/agile/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-agile/">#g-agile</a>
         </td>
       </tr>
       <tr>
@@ -46,9 +39,9 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
         </td>
       </tr>
       <tr>
-        <th id="design-research">Design Research</th>
+        <th id="design-research">Research</th>
         <td class="col-description">
-          We envision a world where government agencies use design research to shape their decision making processes. <br />
+          We envision a world where government agencies use research to shape their decision making processes. <br />
           <a href="https://github.com/18F/g-research/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
         </td>
       </tr>
@@ -62,7 +55,7 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
       <tr>
         <th id="diversity">Diversity</th>
         <td class="col-description">
-          We help make 18F a great place to work for people of all backgrounds. <br />
+          We help make TTS a great place to work for people of all backgrounds. <br />
           <a href="https://gsa-tts.slack.com/messages/g-diversity">#g-diversity</a>
         </td>
       </tr>
@@ -92,20 +85,6 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
         <th class="col-grouplet" id="consulting">Consulting</th>
         <td class="col-description">We work to build skills by asking questions and sharing our experiences regarding what to expect and how to manage the unique complexity of consulting work. We also work on consulting-related projects and resources to help 18F evolve its overall organizational consulting capability.<br />
           <a href="https://gsa-tts.slack.com/messages/CDVJ9U4K1">#wg-consulting</a>
-        </td>
-      </tr>
-      <tr>
-        <th class="col-grouplet" id="documentation">Documentation</th>
-        <td class="col-description">
-          We work to improve the comprehensiveness, quality, and tooling of documentation at 18F. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-documentation">#wg-documentation</a>
-        </td>
-      </tr>
-      <tr>
-        <th class="col-grouplet" id="ethics">Ethics</th>
-        <td class="col-description">
-          Exploring how our work might impact or impose risks on our users, our clients, and the public more generally. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-ethics">#wg-ethics</a>
         </td>
       </tr>
     </tbody>
