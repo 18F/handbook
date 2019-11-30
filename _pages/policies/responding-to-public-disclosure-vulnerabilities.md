@@ -6,7 +6,7 @@ When someone in the public alerts you to a potential vulnerability in our system
 
 ## 1. Triage the vulnerability
 
-In order to respond quickly to reports submitted by the public, the Infrastructure team has designated a small group of folks who will monitor incoming reports and initiate response accordingly. This role has been designated **first responder** and will be assigned in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) with an @ (mention). Barring schedule conflicts, the role will rotate weekly. The [First Responder schedule](https://docs.google.com/document/d/1rjIUT2ElIWC8wsVGR3sYRqqybcapCnJY7ysGl0IhiH4/edit) is posted in the [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) channel topic.
+In order to respond quickly to reports submitted by the public, the TTS Tech Portfolio team has designated a small group of folks who will monitor incoming reports and initiate response accordingly. This role has been designated **first responder** and will be assigned in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) with an @ (mention). Barring schedule conflicts, the role will rotate weekly. The [First Responder schedule](https://docs.google.com/document/d/1rjIUT2ElIWC8wsVGR3sYRqqybcapCnJY7ysGl0IhiH4/edit) is posted in the [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) channel topic.
 
 * *cloud.gov note:* Response team members need to be on the cloud.gov whitelist for outside-of-business-hours email alerts. Each new response team member should tell the cloud.gov Product Lead, Director, or Deputy Director to add their email address to the whitelist.
 
@@ -28,19 +28,19 @@ In the case of an **incident**, the responder has determined for any reason that
 
 * *cloud.gov note:* If the reported issue involves **[cloud.gov](https://cloud.gov)** and is scored **moderate or higher**, the first responder **must** mention `@cg-team` in Slack and email **[`cloud-gov-emergency@gsa.gov`](mailto:cloud-gov-emergency@gsa.gov)**, so the cloud.gov team can help determine impact and respond to incidents.
 
-If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the [Infrastructure Lead](https://github.com/18F/Infrastructure/blob/master/ISSUE_TEMPLATE.md) of the affected product or service.
+If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the TTS Tech Portfolio Lead of the affected product or service.
 
 ## 2. File an issue
 
-For vulnerabilities categorized as **low**, an Issue should be created in the appropriate GitHub repo or project management tool and assigned to the appropriate Infrastructure Lead to prioritize further.
+For vulnerabilities categorized as **low**, an Issue should be created in the appropriate GitHub repo or project management tool and assigned to the appropriate TTS Tech Portfolio Lead to prioritize further.
 
-For vulnerabilities of **medium**, **high**, or **incident**, an issue must be filed in the private [security incident repository](https://github.com/18F/security-incidents/issues) and assigned to the appropriate Infrastructure Lead.
+For vulnerabilities of **medium**, **high**, or **incident**, an issue must be filed in the private [security incident repository](https://github.com/18F/security-incidents/issues) and assigned to the appropriate TS Tech Portfolio Lead.
 
-Regardless of where the issue is filed, the first responder should advise the Infrastructure Lead on next steps.
+Regardless of where the issue is filed, the first responder should advise the TS Tech Portfolio Lead on next steps.
 
 The first responder is responsible for closing out the GitHub issue once they are satisfied that the issue has been resolved (whether remediated or marked `wont fix` or `false positive`).
 
-The first responder will communicate directly with the Infrastructure Lead, who is responsible for communication with the system's engineering team throughout the remediation lifecycle.
+The first responder will communicate directly with the TS Tech Portfolio Lead, who is responsible for communication with the system's engineering team throughout the remediation lifecycle.
 
 ## 3. Respond to reporter
 
