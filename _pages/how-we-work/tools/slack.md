@@ -21,7 +21,7 @@ Because Slack is a web application, there’s no installation necessary. You can
 
 ## Usage of TTS's Slack
 
-Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff. We can also invite people outside TTS to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from Infrastructure. These users may include:
+Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff. We can also invite people outside TTS to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from TTS Tech Portfolio. These users may include:
 
 - Vendors _under contract_ (not just a Terms of Service) with TTS
 - Vendors with GSA who are working on a project with TTS, for which we have an Memorandum of Understanding (MOU)
@@ -113,7 +113,7 @@ To ensure compliance with the possibility that we might create permanent or long
 
 This policy applies to all types of Slack communications: public channels, private groups, even direct messages. **Nothing is private.** We use the [Corporate Export](https://get.slack.help/hc/en-us/articles/204897248-Guide-to-Slack-import-and-export-tools) capability in Slack to get the data and filter using the [slack-export-handling](https://github.com/18F/slack-export-handling) tool.
 
-During regular operations, only the Slack Owners have access to the exports. There is no regular monitoring of these messages, but they have been reviewed in the past. Various legal actions (for example, a Freedom of Information Act (FOIA) request) or security operations approved by the Infrastructure Director have required others to view the exports. The team will continue to be notified at the earliest possible time that the exports have been accessed. Notifications of access may not be made in realtime.
+During regular operations, only the Slack Owners have access to the exports. There is no regular monitoring of these messages, but they have been reviewed in the past. Various legal actions (for example, a Freedom of Information Act (FOIA) request) or security operations approved by the TTS Tech Portfolio Director have required others to view the exports. The team will continue to be notified at the earliest possible time that the exports have been accessed. Notifications of access may not be made in realtime.
 
 ## Exporting channel contents
 
@@ -168,7 +168,7 @@ New integrations/bots need approval from the following:
 * Read access from Slack (e.g. RSS) will almost definitely be approved.
 * One-way integrations into Slack (e.g. via webhooks) are almost always fine.
 * Integrations from higher-risk systems (Moderate or High) into Slack will generally not be approved.
-* TTS Infrastructure will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
+* TTS Tech Portfolio will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
 
 ## Shared Channels
 
