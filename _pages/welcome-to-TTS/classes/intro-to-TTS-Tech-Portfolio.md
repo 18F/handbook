@@ -28,7 +28,7 @@ Rule #1 is if you don't see us doing something already, and you can't find expre
 
 You've probably heard about the [Office of Personnel Management (OPM) data breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach), and you probably know about the NSA. Everyone at TTS is responsible for our organization's security and ensuring that the private data of the public is safe.
 
-The most important part of your job is security. 18F has its own [security standards](https://pages.18f.gov/before-you-ship/security/) around the software we develop. Be sure to [secure your Macbook]({{site.baseurl}}/equipment/#laptop) and assure [FileVault](https://support.apple.com/en-us/HT204837) is turned on.
+The most important part of your job is security. 18F has its own [security standards](https://pages.18f.gov/before-you-ship/security/) around the software we develop. Be sure to [secure your Macbook]({{site.baseurl}}/equipment/#laptop) and be sure [FileVault](https://support.apple.com/en-us/HT204837) is turned on.
 
 Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please consult us in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/).
 
