@@ -89,7 +89,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 ### Git and GitHub Usage
 
-Git and GitHub are the standard tools for revision control at 18F. Git is an open-source version control system, and GitHub is a closed-source, commercial service that hosts Git repositories and adds extra features to support them, such as pull requests and issue tracking. Although this _sounds_ super technical, these tools are _not_ just for developers hacking code; 18F employees use GitHub to author blog posts, manage documentation, and comment on one another's work.
+[Git and GitHub]({{site.baseurl}}/github/) are the standard tools for revision control at TTS. We use GitHub to author blog posts, manage documentation, and comment on one another's work.
 
 In other words, you'll probably use GitHub a lot at 18F. We recommend you get familiar with the basics. If you're new to GitHub and feel confused at first, that's normal. Try a few guides, review our documentation, and ask your teammates for help. GitHub also has a handy document that explains the typical [GitHub Workflow](https://guides.github.com/introduction/flow/).
 
