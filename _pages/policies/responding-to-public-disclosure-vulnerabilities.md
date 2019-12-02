@@ -34,13 +34,13 @@ If the first responder is unable to make a determination of risk severity, the r
 
 For vulnerabilities categorized as **low**, an Issue should be created in the appropriate GitHub repo or project management tool and assigned to the appropriate TTS Tech Portfolio Lead to prioritize further.
 
-For vulnerabilities of **medium**, **high**, or **incident**, an issue must be filed in the private [security incident repository](https://github.com/18F/security-incidents/issues) and assigned to the appropriate TS Tech Portfolio Lead.
+For vulnerabilities of **medium**, **high**, or **incident**, an issue must be filed in the private [security incident repository](https://github.com/18F/security-incidents/issues) and assigned to the appropriate TTS Tech Portfolio Lead.
 
-Regardless of where the issue is filed, the first responder should advise the TS Tech Portfolio Lead on next steps.
+Regardless of where the issue is filed, the first responder should advise the TTS Tech Portfolio Lead on next steps.
 
 The first responder is responsible for closing out the GitHub issue once they are satisfied that the issue has been resolved (whether remediated or marked `wont fix` or `false positive`).
 
-The first responder will communicate directly with the TS Tech Portfolio Lead, who is responsible for communication with the system's engineering team throughout the remediation lifecycle.
+The first responder will communicate directly with the TTS Tech Portfolio Lead, who is responsible for communication with the system's engineering team throughout the remediation lifecycle.
 
 ## 3. Respond to reporter
 
