@@ -25,7 +25,6 @@ If you also clicked on a link in a phishing email, follow these steps to report 
 
 1. If you haven't already, follow the steps above for reporting phishing emails, and then continue to the next step.
 1. Send an email to  itservicedesk@gsa.gov and devops@gsa.gov. Please include *Security Incident* in the subject line, along with a brief description of the issue (Ex. Clicked on link in phishing email).
-1. Report the phishing email in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel.
 
 ## Reporting other incidents
 To report a security incident, follow *all* of the steps below:
@@ -41,7 +40,7 @@ To report a security incident, follow *all* of the steps below:
 
 1. If the incident involves [cloud.gov](https://cloud.gov/) platform operations/security, start [following the additional checklist here](https://cloud.gov/docs/ops/security-ir-checklist/).
 
-1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov), but try to drive as much of the conversation back to [#incident-response](https://gsa-tts.slack.com/messages/incident-response) in Slack as possible.
+1. Following notification to GSA, the Incident Response team will contact you requesting more information. If the incident is related to cloud.gov, please ensure they CC the cloud.gov team (cloud-gov-support@gsa.gov)
 
 1. If you cannot access email or Slack, please [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}) and ask them to forward the relevant information to the addresses above. 
 
