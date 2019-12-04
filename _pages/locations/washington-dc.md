@@ -50,7 +50,15 @@ title: Washington, D.C.
 
 **Reagan Washington National Airport (DCA)** is the closest airport to D.C. (and GSA). If you're coming from DCA, you can take a cab (~$20) or ride the Metro, which is likely faster. Take the Blue line from the Ronald Reagan Washington National Airport station to Farragut West station. It should take approximately 15 minutes and cost ~$2.15. Once outside the Metro station, follow the directions under "Public Transit."
 
-If you're coming from **Dulles International Airport (IAD)**, you can take a cab (~$80) or ride public transit, which will take about an hour and cost between $7.00 and $8.25. You can take the 5A bus from Dulles Main Terminal to the Rosslyn station on the Blue/Orange/Silver Line. You can then hop on a Metro to the Farragut West station. More information is available on the Metro site. Once outside the station, follow the directions under "Public Transit."
+If you're coming from **Dulles International Airport (IAD)**, you can take a cab (~$80) or ride public transit, which will take about an hour and cost between $4.25 and $11. 
+
+There are two public transit options: 
+
+- You can take the 5A bus from Dulles Main Terminal to the Rosslyn station on the Blue/Orange/Silver Line. The bus costs $2. You can then hop on a Metro to the Farragut West station. The Metro fare from Rosslyn to Farragut West costs $2 - $2.25, depending on time of day. More information is available on the [Metro site](https://www.wmata.com/service/rail/#main-content). 
+
+- Alternatively, you can take the [Silver Line Express Bus](https://www.flydulles.com/iad/silver-line-express-bus-metrorail-station) from Dulles Main Terminal to the Wiehle-Reston East Metro Station on the Silver Line. The Express Bus costs $5, payable by cash or credit card, and runs every 15-20 minutes. Signs in the airport will direct you to the Express Bus boarding area. You can then take the Silver Line to Farragut West station. The Metro fare from Wiehle-Reston East to Farragut West costs $3.85 - $6, depending on time of day.
+
+Once outside the Farragut West station, follow the directions under "Public Transit."
 
 If you're coming from **Thurgood Marshall Baltimore-Washington Airport (BWI)**, you can:
 
@@ -61,17 +69,17 @@ If you're coming from **Thurgood Marshall Baltimore-Washington Airport (BWI)**, 
 
 ### Walking
 
-TTS's Washington office is located two blocks from the White House, six blocks from the Farragut North station, and three blocks from the Farragut West Metro Station. If you'd like to take an afternoon walk, the Smithsonian is three blocks away via 18th Street.
+TTS's Washington office is located two blocks from the White House, six blocks from the Farragut North station, and three blocks from the Farragut West Metro Station.
 
 ### Biking
 
-Bike parking is free. The entrance to the bike room is via a ramp on E Street by Greenberry's Coffee. (There are two ramps into the TTS office. The one closer to 19th Street is the one you're looking for.) You must show your GSA ID to the guide and then take your bike down to the bike room in the big building at the center of the courtyard.
+Bike parking is free. The entrance to the bike room is via a ramp on E Street by Greenberry's Coffee. (There are two ramps into GSA courtyards. The one closer to 19th Street is the one you're looking for.) You must show your GSA ID to the guard and then take your bike down to the bike room in the big building at the center of the courtyard.
 
 There are also numerous Capital Bikeshare stations in the vicinity.
 
 ### Public transit
 
-Take the Metro Red Line to Farragut North, or take the Metro Orange/Blue Line to Farragut West. Exit the Metro on the 18th Street side and walk south on 18th Street about four blocks to F Street. The entrance to GSA is located at the middle of the building on F Street, between 18th and 19th Street.
+Take the Metro Red Line to Farragut North, or take the Metro Orange/Silver/Blue Line to Farragut West. Exit the Metro on the 18th Street side and walk south on 18th Street about four blocks to F Street. The main entrance to GSA is located at the middle of the building on F Street, between 18th and 19th Street.
 
 ### Parking
 
@@ -81,7 +89,7 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21 fo
 
 ### Once inside GSA
 
-When entering from the F Street entrance, continue straight past security down the hallway in front of you. At the end of the hallway, take the elevators up to floor four. Once out of the elevators, take two quick right turns and you'll be in the fourth floor infill. A map is here.
+TTS is located on floor three, wing one. When entering from the F Street entrance, go left once you pass through security. Walk down the hallway to the set of elevators or stairs. Take the elevators or stairs up to floor three. Once out of the elevators, take a right turn. If you use the stairs, take a left turn out of the stairwell. 
 
 ## How do I...
 
@@ -108,7 +116,7 @@ Send mail to:
 > (you can add "ATTN: Name" at top if desired) <br>
 > General Services Administration <br>
 > 1800 F ST NW <br>
-> Rm 4400 <br>
+> Rm 3100 <br>
 > Washington, DC 20405-0001
 
 ### Access the building after hours?
@@ -121,6 +129,7 @@ Use [BookIt](https://bookit.gsa.gov) to reserve rooms.
 
 * The TTS quiet rooms are 3117 and 3119B. These are unreservable but are first-come, first served.
 * The reservable team rooms are 3116A&B, 3119A, 3128A&B, and 3143.
+* The tables and open space at the southern end of the 3100 hallway - the "3150 Space" - are unreservable through BookIT. TTS self-manages the space through a Google Calendar. If you want to host an event in the space, search for "3150 Space" in Google Calendar, check the availability, and add your event. If you need the entire space and your colleagues will not be able to sit there for the duration of your event, post advance notice in #dc and write a message on one of the space's whiteboards. Note: there will be foot traffic at the nearby stairwell and to conference room 3148, so prepare for some background noise during your event.
 
 Avoid booking rooms:
 
@@ -130,7 +139,7 @@ Avoid booking rooms:
 
 ### Receive visitors?
 
-If you're expecting a small group of US citizens (fewer than 15 or so), no advance action is required on your part. Let your guest(s) know to bring ID; they'll give your name and the TTS room number (4400) at the security desk. You'll have to go down and escort them up.
+If you're expecting a small group of US citizens (fewer than 15 or so), no advance action is required on your part. Let your guest(s) know to bring ID; they'll give your name and the TTS room number (3100) at the security desk. You'll have to go down and escort them up.
 
 If you're expecting a large group, or if the group includes non-US citizens, you should give security advance notice.
 
@@ -164,11 +173,11 @@ There are maps of the D.C. office in every elevator lobby.
 
 Gendered bathrooms are located at the end of the 3100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
 
-### Mother’s rooms
+### Nursing/Pumping rooms
 
-Look for room 1232A at the back of the health center on the first floor. You don’t need to reserve it. If it’s in use, you can use the doctor’s office or one of the other rooms near the health clinic. After 4 p.m., you can access the mother’s room directly from the hallway, but the rest of the health center will be closed.
+Look for room 1232A at the back of the health center on the first floor. You don’t need to reserve it. If it’s in use, you can use the doctor’s office or one of the other rooms near the health clinic. After 4 p.m., you can access the nursing/pumping room directly from the hallway, but the rest of the health center will be closed.
 
-There is a fridge inside the mother’s room and one outside the room as well. At the end of the day, if there’s any milk in the outer fridge, they’ll move it to the inner fridge.
+There is a fridge inside the room and one outside the room, in the health clinic. At the end of the day, if there’s any milk in the outer fridge, they’ll move it to the inner fridge.
 
 ### Yoga and meditation rooms
 
@@ -176,23 +185,23 @@ Room 3042, at the corner of the 3000 and 3300 wings, is available for yoga and m
 
 ### Batteries
 
-If you need batteries for your keyboard or trackpad, there is a consolidated supply closet on the first floor of the building, in the 200 wing. There are also rechargeable batteries in a charger plugged into one of the columns in the 4462 area.
+If you need batteries for your keyboard or trackpad, there is a consolidated supply closet on the first floor of the building, in the 200 wing. 
+
+### Spare keyboards and mice
+
+Melvin Moreira in GSA IT has all of the spare Mac equipment. You can email him to confirm that he is in the office. He sits on the ground floor, wing zero, in room G035.
 
 ### Lockers
 
-The lockers are in two spots. One set is by the couches the other by that large table on the E Street side. If you work in DC and do not have a locker assigned to you, email 1800ftenantsupport@gsa.gov to request a locker in the 4th floor infill area.
+If you work in DC and do not have a locker assigned to you, email 1800ftenantsupport@gsa.gov to request a locker on the 3rd floor, wing one.
 
 ### Snacks
 
 GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Hours are: Monday, 7am-2pm; Tuesday-Thursday, 7am-3pm; Friday, 7am-2pm.
 
-Additionally, there are a series of three drawers for snack foods located within TTS infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://gsa-tts.slack.com/messages/dc/) if you want to contribute and join.
+There is a vending machine in the kitchen that is located near 3150. 
 
-The DC fridge is cleaned out monthly on Fridays (dates are posted on the fridge), and all food (including containers) is thrown out.
-
-### Spare keyboards and mice
-
-There are several of these located in one of the Gold Key drawers. Batteries can be found in one of the chargers nearby. Note that these will require you to setup bluetooth pairing to your laptop to use them and they may be paired with someone else's machine at first.
+The DC fridge is cleaned out bi-monthly on Fridays (dates are posted on the fridge), and all food (including containers) is thrown out.
 
 ### Tissues
 
@@ -200,7 +209,7 @@ There is another fund for purchasing boxes of tissues in the winter months. Ask 
 
 ### Water
 
-The water cooler in the infill is reserved for those who have contributed to the water cooler fund. Contact information for joining is on the cooler itself. Please remember to bring your own cup. In addition, there are water fountains by the bathrooms.
+The water cooler is reserved for those who have contributed to the water cooler fund. Contact information for joining is on the cooler itself. Please remember to bring your own cup. In addition, there are water fountains by the bathrooms.
 
 ## Amenities
 
@@ -218,7 +227,7 @@ Take the elevator to seventh floor for wireless and a beautiful view of the Nati
 
 ### Transit subsidy
 
-See the instructions for [enrolling or cancelling your transit subsidy benefit]({{site.baseurl}}/transit-benefit/).
+See the instructions for [enrolling or cancelling your transit subsidy benefit](https://www.transportation.gov/transerve/participants/gsa).
 
 ### Helpful contacts
 
