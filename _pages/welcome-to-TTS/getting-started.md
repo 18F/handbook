@@ -149,7 +149,7 @@ Security and compliance are, unsurprisingly, important issues for TTS.
 They're also complex topics, and you'll find a lot of people working on them. 
 For an easy introduction into these topics, we suggest you start with 
 [this lightweight primer](https://docs.google.com/presentation/d/1vXZDhEONp-h-zmyCt9wpwscoANouVK4fg5br6Ynzlpk/edit#slide=id.g54fbd835cd_0_25), 
-especially if you haven't worked on information security before. Read the ["Security incidents" page]({{site.baseurl}}/working-on-an-acquisition-engagement/) of the Handbook to learn how to respond if you spot suspicious activity or an incident.
+especially if you haven't worked on information security before. Read the ["Security incidents" page]({{site.baseurl}}/security-incidents/) of the Handbook to learn how to respond if you spot suspicious activity or an incident.
 If you're looking to go into greater detail, 
 18F's [Before You Ship](https://before-you-ship.18f.gov/) guide is definitive and should answer any questions you have, 
 but it can also be a little overwhelming. 
