@@ -244,7 +244,7 @@ Partners come to 18F because they want help with hard technical problems, often 
 
 [Consulting and communicating effectively with partners]({{site.baseurl}}/how-we-relate-to-partners/) is how 18F is successful, and it's how we help our partners be successful, too. You'll also want to read up on [how we collaborate with partners]({{site.baseurl}}/how-we-collaborate/), which includes how we make remote collaboration work, how we model agile practices, and a lot more.
 
-## Diversity, accessibility, ethics and culture
+## Diversity, accessibility, ethics and culture at TTS
 TTS strives to thoughtfully and intentionally represent the broad American populace we serve. To that end, we strongly encourage reading over the [Diversity, equity, and inclusion]({{site.baseurl}}/diversity) materials in the handbook, and consider joining the #diversity and #accessibility guilds. 
 
 We also strive to be intentional when interacting with one another and with partners. One useful tip to start with today is to be sure that your location, agency and pronouns are [represented in your Slack profile]({{site.baseurl}}/slack/#rules). 
