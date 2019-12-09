@@ -145,9 +145,9 @@ In addition to the paid leave described above, employees can take leave without 
 Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) (VLTP), a covered employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave.
 
 To donate leave (this process is new as of 8/19/19):
-1) If you haven't registered with [Max.gov](https://portal.max.gov/portal/home), click Register Now at the top right of that homepage and follow [these instructions](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/08/VLTP_AccessLogin_2019.pdf) to register your PIV card to enable login (or use the email option if you don't yet have a PIV card reader), then:
-2) Go to https://vltp.gsa.gov/, and
-3) Follow the system prompts.
+1. If you haven't registered with [Max.gov](https://portal.max.gov/portal/home), click Register Now at the top right of that homepage and follow [these instructions](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/08/VLTP_AccessLogin_2019.pdf) to register your PIV card to enable login (or use the email option if you don't yet have a PIV card reader), then:
+2. Go to [https://vltp.gsa.gov/](https://vltp.gsa.gov/), and
+3. Follow the system prompts.
 
 If you have any questions, check the GSA IT Alert email sent 8/8/19 with the subject line "Aug. 19: New way to access VLTP" or  contact Lakita Rivero at lakita.rivero@gsa.gov.
 
