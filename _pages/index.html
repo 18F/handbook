@@ -36,7 +36,9 @@ permalink: '/'
                     {% if child.children.size > 0 %}
                       <h5 id="{{ child.text | slugify }}">
                         {% include nav-link.html %}
-                      </h5>
+                      <h4 id="{{ child.text | slugify }}">
+                        {% include nav-link.html %}	                        
+                      </h4>
                       <ol class="toc-nav-children-level-6">
                       {% for child in child.children %}
                         {% include nav-item.html child=child %}
