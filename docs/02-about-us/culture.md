@@ -141,7 +141,7 @@ A: Although CivicActions as an organization promotes free & open communication, 
 
 The work that we do in serving others and bringing transformation to the world will sometimes require the discussion of sensitive topics. And because our company is comprised of mission-minded people who care deeply about making an impact, there are bound to be conversations that must be handled with care. Our goal is to balance meaningful communications with the understanding that opinions may vary -- and an awareness that some topics can be powerful and unwelcome at work. We want to be open to learning from each other, while increasing our empathy for those around us.
 
-### Q: WBut really, what about politics? 
+### Q: But really, what about politics? 
 
 A: Political discourse affects everyone differently. While we want people to be able to have open, respectful conversations about things they disagree about, CivicActions recognizes that political speech can be hurtful and make team members feel unsafe at work. For that reason, we ask everyone to keep political speech to the dedicated #politics channel, and only engage in conversations about politics when you are sure that it is a welcome topic for everyone present. When in doubt, it is best to avoid politics at work.
 
