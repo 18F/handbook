@@ -79,13 +79,14 @@ Radical transparency can sound pretty uncomfortable. Some companies take it to m
 Inclusion is a sense of belonging that allows people to fully engage and contribute, and is a key part of fostering diversity and equity on our team. Promoting inclusion goes beyond simply tolerating differences — it requires taking an active role in honoring the variety of experiences we bring to the table so everyone is empowered to participate.
 
 Some practical tips for making inclusive spaces on your team:
-+ Observe your teammates’ personal pronouns
-+ Notice who isn’t speaking, and give them opportunities to contribute
-+ Celebrate the things your teammates do well  
-+ Start noticing when you’ve made an assumption, and ask questions instead
-+ Practice active listening (see the previous section) 
-+ Take time to learn more about how inequality affects people at work
-+ Speak up when you notice that someone is disrespected or left out 
+
++   Observe your teammates’ personal pronouns
++   Notice who isn’t speaking, and give them opportunities to contribute
++   Celebrate the things your teammates do well  
++   Start noticing when you’ve made an assumption, and ask questions instead
++   Practice active listening (see the previous section) 
++   Take time to learn more about how inequality affects people at work
++   Speak up when you notice that someone is disrespected or left out 
 
 We work to to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn’t just a core part of our culture, it’s also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
 
@@ -136,13 +137,24 @@ A: Slack can be great for keeping us all connected on project status, company an
 
 ### Q: What topics are inappropriate to discuss at work (eg Slack, meetings, etc)?
 
-A: There are topics that are sensitive in a work environment. Talking about politics or religion can be offensive to some. At CivicActions, we don't have a specific list of off-limits topics, but we strive to be conscious of appropriate vs. inappropriate or emotionally reactive topics. The people involved in conversations are expected to be aware of their audience and remain sensitive to how their words may affect others. If something feels inappropriate, don't discuss it. If you observe or are part of a conversation that feels inappropriate, you can bring that up to the people involved or reach out to your manager and ask them to.
+A: Although CivicActions as an organization promotes free & open communication, there are some topics that can be sensitive in a work environment. Talking about politics or religion can be offensive to some. At CivicActions, we don't have a specific list of off-limits topics, but we strive to be conscious of appropriate vs. inappropriate or emotionally reactive topics. The people involved in conversations are expected to be aware of their audience and remain sensitive to how their words may affect others. If you sense that a certain topic might be sensitive to certain coworkers, don't discuss it with them. If you observe or are part of a conversation that makes you uncomfortable, you can bring that up to the people involved or reach out to your manager and ask them to.
 
-The work that we do in serving others and bringing transformation to the world will sometimes require the discussion of sensitive topics. And because our company is comprised of mission-minded people who care deeply about making an impact, there are bound to be conversations that must be handled with care. Our goal is to balance meaningful communications with the understanding that opinions may vary -- and an awareness that some triggers can be powerful and unwelcome at work. We want to be open to learning from each other, while increasing our empathy for those around us.
+The work that we do in serving others and bringing transformation to the world will sometimes require the discussion of sensitive topics. And because our company is comprised of mission-minded people who care deeply about making an impact, there are bound to be conversations that must be handled with care. Our goal is to balance meaningful communications with the understanding that opinions may vary -- and an awareness that some topics can be powerful and unwelcome at work. We want to be open to learning from each other, while increasing our empathy for those around us.
+
+### Q: WBut really, what about politics? 
+
+A: Political discourse affects everyone differently. While we want people to be able to have open, respectful conversations about things they disagree about, CivicActions recognizes that political speech can be hurtful and make team members feel unsafe at work. For that reason, we ask everyone to keep political speech to the dedicated #politics channel, and only engage in conversations about politics when you are sure that it is a welcome topic for everyone present. When in doubt, it is best to avoid politics at work.
+
+Many topics can have a political dimension. These guidelines specifically apply to political speech that is expressed in support of a current candidate for political office. If you observe someone make a political statement outside of the politics channel, or introduce unwelcome political discourse into conversation, you can remind them to take it elsewhere by saying, “hey, let’s move this political conversation to #politics,” or “that sounds like a discussion better left to the politics channel.”
+
 
 ### Q: Someone put something in Slack or said something at a meeting that I find very offensive. What should I do?
 
-A: If you're comfortable communicating directly with the person who offended you, please start there. You can tell them that what they said was offensive, how it made you feel and why it's inappropriate (this can be done in the form a "withhold" conversation as mentioned above). If you're not comfortable addressing them directly, you can ping or talk to Elizabeth or Owen (or anyone on the management team) and they can help you resolve the issue. We highly encourage everyone to be transparent about anything that makes them uncomfortable, especially as our organization grows in numbers and diversity. CivicActions is a place where each team member sincerely desires the well-being of others, and everyone should feel free to speak up without fear of repercussion.
+A: If you're comfortable communicating directly with the person who offended you, please start there. You can tell them that what they said was offensive, how it made you feel and why it's inappropriate (this can be done in the form a "withhold" conversation as mentioned above). If you're not comfortable addressing them directly, you can ping or talk to Elizabeth or Owen (or anyone on the management team) and they can help you resolve the issue. 
+
+You can also reach out to a [Diversity, Equity, and Inclusion (DEI) point person](https://trello.com/c/5XyeNrfZ/109-dei-point-people) who is committed to providing confidential support for team members who want to talk through conflict or issues with a trusted peer.
+
+We highly encourage everyone to get support about anything that makes them uncomfortable, especially as our organization grows in numbers and diversity. CivicActions is a place where each team member sincerely desires the well-being of others, and everyone should feel free to speak up without fear of repercussion.
 
 ### Q: If someone says something that could be interpreted as racist, sexist or otherwise inappropriate, how can I let them know that isn't welcome here.
 
