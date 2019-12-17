@@ -239,7 +239,8 @@ The short version is that projects are staffed through the [18F Staffing repo](h
 
 ## Our approach to Agile
 
-We are known for our Agile approach to both software development and procurement (sometimes called “modular procurement”). In fact, many of our partners come to us because they want to learn how to “be more Agile.” If you take away nothing else from this page, take this: Agile is not something you *do*. Agile is something you *are*. 
+We are known for our Agile approach to both software development and procurement (sometimes called “modular procurement”). In fact, many of our partners come to us because they want to learn how to “be more Agile.” If you take away nothing else from this page, take this: 
+> Agile is not something you *do*. Agile is something you *are*. 
 
 Of course there are many ways to “be Agile,” and everyone at 18F will have their own take. This is great, and we encourage healthy debate about Agile best practices. In order to ensure a consistent experience for our partners, we do ask everyone to adhere to these basic principles:
 
