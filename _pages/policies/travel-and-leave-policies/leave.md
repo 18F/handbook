@@ -190,7 +190,7 @@ Adjusting work schedules for religious observances is handled differently than l
 
 ## Time tracking
 
-Whenever you take "leave" — be that vacation time, holiday time, or sick time  — you should log it under the appropriate Out of Office category for your office in Tock. If you are at a training or conference that comes out of your chapter's training budget, log that time under the appropriate "Training and Conferences" line for your office.
+18F employees taking planned leave should follow guidance to [Tock when on leave](/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
 
 [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock](../tock), which is TTS's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
 
