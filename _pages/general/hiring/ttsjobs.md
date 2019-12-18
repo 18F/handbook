@@ -40,6 +40,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
+- [18F Executive Director (Acting)](https://docs.google.com/document/d/1Hgn7KGMgxob18zBSJgips6NhMNaj124OALFyCx7qqmI/edit?ts=5dfa2f81) - open Wednesday, December 18th through Friday, December 27th
 
 ## Partner information & opportunities
 
