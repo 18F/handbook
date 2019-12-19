@@ -3,19 +3,29 @@ title: Working groups and guilds 101
 navtitle: Working groups and guilds
 ---
 
-Working groups and guilds are self-organized groups that improve practices, host discussions, and explore ideas in TTS. These volunteer groups decide how and where to focus their efforts and conversations. Anyone may participate in any working group or guild.
-
-The [TTS Policy and Procedure for Internal Project Review](https://docs.google.com/document/d/1HHDXdiNvLdCFiEPjLwZaV-lhnwWeeq90MZMYAxbkHAM) exempts working groups and guilds from review, but client work generally takes priority over guild or working group projects.
+Working groups and guilds help improve TTS practices, host discussions, explore ideas, and help solve thorny issues. These volunteer groups decide how and where to focus their efforts and conversations, in coordination with TTS leadership. Anyone may participate in any working group or guild.
 
 ## Key concepts
 
-**Working groups** are self-organized. They spin up or down depending on our organizational needs.
+**Working groups** are self-organized, relatively short-lived, and spin up or down depending on organizational needs. 
 
-**Guilds** are more permanent than working groups and are sponsored by the TTS Chief of Staff. Working groups may propose themselves for guild status. Every guild has one or more leaders chosen by competition and either regular open meetings or an open Slack channel where questions are welcome.
+**Guilds** are much more permanent than working groups, are sponsored by the TTS Chief of Staff, and are intended to help coordinate practices and solve problems across TTS.
 
 All groups have a Slack channel. Working-group related channels have a `wg-` in front of their name; guilds have a `g-` before the name. Feel free to jump into and out of any of the working group or guild channels to participate or ask questions. The [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) houses all formal meeting times for working groups and guilds.
 
 The open Slack channel for guild leaders & other practice leaders who wish to join is `#guild-practice-leads`
+
+## Starting a guild or working group
+
+**Working groups** are usually started by a handful group of people who recognize a problem, then recruit like-minded souls willing to help find a solution. Usually, but not always, the problem is localized to just one part of TTS. Once solved, the working group can wind down.
+
+Because working groups are typically trying to solve a problem *right now* and they are intended to be short-lived, we try to keep them simple: Anyone can start a working group, just have a chat with your org leadership to be sure someone isn't already working on the problem. Typically, you'll want to have a chat with your Chief of Staff, Chief of Practices or Deputy Director, depending on which part of TTS you're in.
+
+**Guilds** are intended to work across TTS, and are coordinated by a group made up of leadership from across TTS. which means creating a new Guild requires taking it to that group for approval. If you'd like to create a new guild, have a talk with your Chief of Staff, Chief of Practices or Deputy Director (again, depending on which part of TTS you're in) and they'll take it to the group for approval. At a minimum, they'll want to know:
+
+* How will this guild be beneficial to all of TTS?
+* What does the guild intend to do? What are the expected deliverables?
+* If there are groups working on similar problems, how does the proposed group differ?
 
 <h2 id="existing-guilds">Guilds</h2>
 
