@@ -21,7 +21,7 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
 
 Because working groups are typically trying to solve a problem *right now* and they are intended to be short-lived, we try to keep them simple: Anyone can start a working group, just have a chat with your org leadership to be sure someone isn't already working on the problem. Typically, you'll want to have a chat with your Chief of Staff, Chief of Practices or Deputy Director, depending on which part of TTS you're in.
 
-**Guilds** are intended to coordinate across TTS, which means new creating a new Guild requires taking it to this group for approval. If you'd like to create a new guild, have a talk with your Chief of Staff, Chief of Practices or Deputy Director (again, depending on which part of TTS you're in) and they'll take it to the group for approval. At a minimum, they'll want to know:
+**Guilds** are intended to work across TTS, and are coordinated by a group made up of leadership from across TTS. which means creating a new Guild requires taking it to that group for approval. If you'd like to create a new guild, have a talk with your Chief of Staff, Chief of Practices or Deputy Director (again, depending on which part of TTS you're in) and they'll take it to the group for approval. At a minimum, they'll want to know:
 
 * How will this guild be beneficial to all of TTS?
 * What does the guild intend to do? What are the expected deliverables?
