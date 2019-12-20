@@ -7,8 +7,6 @@ tags:
 
 ---
 
-## Working While Traveling
-
 When you're working from an atypical location in another time zone or attending a conference, it is helpful to communicate
 your location so people know what to expect in terms of timezone and availability. Consider:
 - Noting your location in your Slack name and/or status (for example: `Jane Doe | WFBoston | she`).
