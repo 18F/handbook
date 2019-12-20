@@ -28,7 +28,7 @@ Note: The titles below are linked to our handbook pages for each subject. Descri
 * [**Tock 101**]({{site.baseurl}}/tock): Text-based class in #tts-classes that provides an overview of the Tock system and how to track work time
 
 ### Friday
-* [**Tech Portfolio**]({{site.baseurl}}/intro-to-18f-infrastructure): Self-guided class that provides an overview of the Tech Portfolio team, important compliance topics, and technology best practices at TTS
+* [**Tech Portfolio**]({{site.baseurl}}/intro-to-18f-intro-to-tts-tech-portfolio): Self-guided class that provides an overview of the Tech Portfolio team, important compliance topics, and technology best practices at TTS
 
 ***This is a required course that includes a [confirmation survey](https://goo.gl/forms/VP4Ci9Ed3r6UxG6H3)***
 
