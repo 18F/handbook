@@ -82,7 +82,7 @@ Parking at the airport is only reimbursable when the conditions in the above exa
 
 ### Remote working guidance
 
-When working from somewhere that isn't your usual duty location, consider [these tips]({{site.baseurl}/working-while-traveling) to help coworkers and partners plan around your trip.
+When working from somewhere that isn't your usual duty location, consider [these tips]({{site.baseurl}}/working-while-traveling) to help coworkers and partners plan around your trip.
 
 ### Don't forget about vouchers!
 
