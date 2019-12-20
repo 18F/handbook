@@ -4,7 +4,7 @@ title: Onboarding schedule
 
 _This series of onboarding classes is designed to explain how we work and introduce you to organizational best practices. Some of these trainings take place in [#TTS-classes](https://gsa-tts.slack.com/messages/TTS-classes/), some are self-guided, and others are live (hangouts-based)._
 
-Most of these trainings are optional (with the exception of the [Tech Portfolio class]({{site.baseurl}}/intro-to-18f-infrastructure), which is required since it has critical legal, regulatory, and policy implications for your work). For the optional ones, if you have a conflicting team meeting or another commitment, prioritize that first! You can easily read a class chat log later.
+Most of these trainings are optional (with the exception of the [Tech Portfolio class]({{site.baseurl}}/intro-to-tts-tech-portfolio), which is required since it has critical legal, regulatory, and policy implications for your work). For the optional ones, if you have a conflicting team meeting or another commitment, prioritize that first! You can easily read a class chat log later.
 
 ## About the schedule
 
