@@ -71,6 +71,10 @@ You can start making [Travel Arrangements in Concur](https://handbook.18f.gov/tr
 
 You are responsible for cancelling all reservations (e.g. flight, hotel, rental car) if your event is not approved.  Always **check the cancellation policy before booking** because you may be responsible for paying the cancellation fee(s).  You can ask questions in [#travel](https://gsa-tts.slack.com/messages/travel/) or during [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
 
+## Remote working guidance
+
+When working from somewhere that isn't your usual duty location, consider [these tips]({{site.baseurl}}/working-while-traveling) to help coworkers and partners plan around your trip.
+
 ## After the event
 
 Add your notes about the conference or training to the [TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646) for your colleagues to read and learn from!
