@@ -80,6 +80,10 @@ Parking at the airport is only reimbursable when the conditions in the above exa
 
 * May only be reimbursable if travel involves at least 4 consecutive nights.
 
+### Remote working guidance
+
+When working from somewhere that isn't your usual duty location, consider [these tips]({{site.baseurl}}/working-while-traveling) to help coworkers and partners plan around your trip.
+
 ### Don't forget about vouchers!
 
 Have a good trip, [get reimbursement]({{site.baseurl}}/travel-guide-3-reimbursement)-- filling out a voucher-- within 5 business days of getting back.

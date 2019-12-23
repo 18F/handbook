@@ -408,7 +408,7 @@ navigation:
         url: one-on-ones/
         internal: true
       - text: Out of office expectations
-        url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
+        url: leave/#leave-checklist
         internal: false
       - text: Performance Plan (FY19)
         url: 18f-performance-plan/
