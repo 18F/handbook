@@ -70,7 +70,8 @@ Part J. Concurrences
  * No other signatures are required
  
 **For the Annual Review when there are one or more major changes to your full-time telework arrangement but there is still an overall cost savings to GSA:**
-*Examples of major changes include moving from non-supervisory to supervisory, changing locality pay region, and changing pay grades
+
+*Examples of major changes include moving from non-supervisory to supervisory, changing locality pay region, and changing pay grade*
 
 ***Note: You can reach out to Keith Wilson to get help gathering this signatures***
 
