@@ -9,7 +9,7 @@ TTS is a fee-for-service organization. Federal law requires that any agreement b
 TTS uses three mechanisms to record its agreements with other agencies: Interagency Agreements (IAAs), Memorandums of Understanding (MOUs), and Intergovernmental Cooperation Act agreements (IGCAs).
 
 - IAA is our shorthand for using the Treasury Department's standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
-- An MOU is a single document to record work between two divisions within one TTS office.(for example: between Cloud.gov and The Data Analytics Portfolio both of which are part of the Office of Solutions). These agreements are between TTS and the GSA-CFO to allow the transfer of funds between the organizations. The Agreements Team provides [templates](https://drive.google.com/drive/folders/0BwxvcCvwvTB3VXA0NjlXYXpGSTg) for your use.
+- An MOU is a single document to record work between two divisions within one TTS office. (for example: between Cloud.gov and The Data Analytics Portfolio both of which are part of the Office of Solutions). These agreements are between TTS and the GSA-CFO to allow the transfer of funds between the organizations. The Agreements Team provides [templates](https://drive.google.com/drive/folders/0BwxvcCvwvTB3VXA0NjlXYXpGSTg) for your use.
 - We use IGCAs to partner with non-federal entities, such as States and Cities. For more on IGCAs, see [the State and Local Agreements page]({{site.baseurl}}/state-local-agreements/).
 
 ## What are the contents of an IAA?
