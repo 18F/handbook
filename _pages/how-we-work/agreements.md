@@ -51,5 +51,5 @@ A detailed description of the steps in the IAA and MOU process is available [her
 
 ## Agreements Status
 
-The Agreements Team maintains a [Master Agreements Pipeline](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1839486133) in the the linked spreadsheet. The Agreements Team updates the agreements pipeline daily and these changes are reflected in the Kanban board. The Agreements Team also holds a weekly check-in meeting to provide status updates. Questions on agreements can be posted anytime to [#iaa](https://gsa-tts.slack.com/messages/iaa) in Slack or by sending a message to @tts-agreements-team or tts.agreements@gsa.gov.
+The Agreements Team maintains a [Master Agreements Pipeline](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1839486133) in the the linked spreadsheet. The Agreements Team updates the agreements pipeline daily. The Agreements Team also holds a weekly check-in meeting to provide status updates. Questions on agreements can be posted anytime to [#iaa](https://gsa-tts.slack.com/messages/iaa) in Slack or by sending a message to @tts-agreements-team or tts.agreements@gsa.gov.
 
