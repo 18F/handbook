@@ -66,9 +66,8 @@ TTS employees are issued an Apple iPhone. The TTS Talent Team will already have 
 - If you can't send email with your new work iPhone, create a new email and check the From field. If it's a jumble of letters and numbers `@secure.mass360.com`, tap on it to change it to your `@gsa.gov` email address. Then go **Settings > Mail > Default Account > GSA Account** to switch the default address.
 - If you stop getting email on your phone and can't log into your account, you may need to regenerate your [GKey](https://gkeygsa.appspot.com/request). The Apple Mail app uses your GKey as your password.
 - To reduce waste, GSA IT will [disable mobile service for inactive accounts](https://insite.gsa.gov/portal/content/663074). The consumed minutes is the metric used to determine activity, so if you only use the phone for data, you'll still need to make an occasional call on your mobile phone to prevent the account from going inactive.
-- If you need help with your phone, [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}). 
-- For information on which mobile phones are available on GSA's current contract, employee discounts, voicemail setup, commonly used apps to install, mobile security, traveling with your smartphone, the GSA smartphone replacement process, and more, visit the [Mobile Devices](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/mobile-devices-phones-tablets) section in our Intranet, [InSite](https://insite.gsa.gov/). You must be on the GSA network at the office, or using [our VPN, Cisco AnyConnect](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/telework-and-remote-access/virtual-private-network-vpn) remotely, to access InSite. 
-
+- If you need help with your phone, [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
+- For information on which mobile phones are available on GSA's current contract, employee discounts, voicemail setup, commonly used apps to install, mobile security, traveling with your smartphone, the GSA smartphone replacement process, and more, see [Mobile Devices](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/mobile-devices-phones-tablets).
 
 ## Software
 
@@ -106,15 +105,32 @@ For issues with any GSA-provided hardware (such as laptops or phones), [contact 
 
 If TTS-issued equipment is lost or stolen, follow these mandatory steps. Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert TTS in [#equipment](https://gsa-tts.slack.com/messages/equipment):
 
-1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment) within one business day of learning the equipment is stolen or lost.
-2. Call 911 or a local police station when you suspect theft has occurred.
-3. Get and keep a copy of the police report in case you have to provide it to the Federal Protective Service (FPS) or your regional Information Systems Security Officer (ISSO). Provide as much information as possible.
-4. [Contact the GSA IT Service Desk.]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}) An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop.
-5. Call your FPS using contact information provided in the link.
-6. Contact your regional ISSO using contact information provided in the link.
-7. If your equipment is returned to you, it may have been tampered with and should not be used. Return the equipment to GSA IT so they can inspect it, and if necessary, re-image it.
+### Access card
 
-TTS will replace stolen or lost equipment once a copy of the police report is sent to Team Ops and the employee confirms they contacted FPS. If you lose your PIV card, you will also need to fill out this [lost access card form](https://drive.google.com/file/d/0B0SnS9Ferbdnc3p6cmdOT05mUGNwdlNLMncxME5VZFlOOFhz/view) and email it to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov)
+Cross-posting from [InSite](https://insite.gsa.gov/topics/safety-and-security/access-cards-and-real-id/access-cards-new-lost-or-stolen-cards):
+
+> 1. _Immediately_ report the lost or stolen card to the [IT Service Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk) to complete a security incident report.
+> 1. Report the loss to your supervisor (employees) or Contracting Officer/COR (contractors).
+> 1. [Complete the Lost Card Form](https://insite.gsa.gov/cdnstatic/insite/Lost_and_or_Stolen_GSA_PIV_Card_Form.docx) and have signed by Branch Chief or Division Director (employees) or CO/COR (contractors)
+> 1. Send the completed form to Regional OMA POC or Central Office HSSO POC.
+> 1. Await your replacement card
+
+### Other
+
+_Adapted from the [GSA-wide steps](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/report-stolen-equipment)._
+
+For lost work laptops, phones, etc., do the following as quickly as possible:
+
+1. Contact the [IT Service Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk).
+   - An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop.
+1. Call 911 or a local police station when you suspect theft has occurred. Provide as much information as possible.
+   - Keep a copy of the police report.
+1. Inform your team.
+   - Your access to various systems may need to be temporarily removed.
+1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment).
+1. Contact the [Federal Protective Service (FPS)](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/report-stolen-equipment#FPS%20Contacts).
+1. Contact your [Regional Information Systems Security Officer (ISSO)](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/report-stolen-equipment#RISSO%20Contacts).
+1. If your equipment is returned to you, it may have been tampered with and should not be used. Return the equipment to GSA IT so they can inspect it, and if necessary, re-image it.
 
 ## Requirements for passwords
 
