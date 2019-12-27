@@ -50,8 +50,6 @@ jekyll_get:
     json: "https://digital.gov/communities/index.json"
 
 navigation:
-  - text: Table of Contents
-    internal: true
   - text: About TTS
     blurb: |
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
