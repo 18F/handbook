@@ -55,6 +55,17 @@ A note to submitters: If you need multiple people to see your PR before it's mer
 
 If you're not sure, ask for a second opinion in #tts-handbook first.
 
+### Using repo specific labels
+
+_do not merge yet:_ Delay merging this pull request until the label has been removed
+_help wanted:_ Need additional assistance
+_In Porgress:_ Currently being worked on
+_Into is incorrect/outdated:_ The current information that is there needs tending to
+_Need new Content:_ There is information that is not present that should exist
+_< 2 hours:_ Easy peazy, lemon squeezy
+_2-4 hours:_ Hold my callz
+_>4 hours:_ Ooph, its a doozy!
+
 ## Content and accessibility
 
 The handbook follows the [18F content guide](https://content-guide.18f.gov), and all content should follow web accessibility best practices. Remember to use [descriptive link text](https://content-guide.18f.gov/urls-and-filenames/#link-text).

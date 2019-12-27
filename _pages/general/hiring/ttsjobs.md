@@ -34,18 +34,13 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-[Administrative Support Specialist](https://www.usajobs.gov/GetJob/ViewDetails/552142000) - Closes Tuesday, November 26 at 11:59pm ET
+- [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Monday, December 2nd through Friday March 27th
 
-[18F Executive Director](https://join.tts.gsa.gov/join/executive-director/) - Closes Friday, November 29th at 11:59pm ET
-
-[Supervisory Talent Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/551707200) - Closes Friday, November 22nd at 11:59pm ET
-
+- [Solutions - Identity Strategist](https://docs.google.com/document/d/1uASXH2spINj7HNU19HWVn_Q6nVWtluF7B6YbvObmygU/edit?ts=5defba68#) - open Thursday, December 12th through Thursday December 19th
 
 ### Internal only competitions
 
-[18F Executive Director](https://docs.google.com/document/d/1Hgn7KGMgxob18zBSJgips6NhMNaj124OALFyCx7qqmI/edit#) - Closes Friday, November 29th at 11:59pm ET
-
-[Talent Acquisition Specialist](https://docs.google.com/document/d/1omr2nvbOMw6AVAdirBEbiRgcl3hUg9QEtDh0CT_MsZ0/edit#) - Closes November 27th at 11:59pm ET
+- [18F Executive Director (Acting)](https://docs.google.com/document/d/1Hgn7KGMgxob18zBSJgips6NhMNaj124OALFyCx7qqmI/edit?ts=5dfa2f81) - open Wednesday, December 18th through Friday, December 27th
 
 ## Partner information & opportunities
 

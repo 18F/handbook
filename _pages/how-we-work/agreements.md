@@ -9,7 +9,7 @@ TTS is a fee-for-service organization. Federal law requires that any agreement b
 TTS uses three mechanisms to record its agreements with other agencies: Interagency Agreements (IAAs), Memorandums of Understanding (MOUs), and Intergovernmental Cooperation Act agreements (IGCAs).
 
 - IAA is our shorthand for using the Treasury Department's standard form 7600A and 7600B, along with terms and conditions, a statement of work, and financial terms to record the agreement.
-- An MOU is a single document to record work done by one TTS organization for another (for example: by 18F for OPP). These agreements are between TTS and the GSA-CFO to allow the transfer of funds between the organizations. The Agreements Team provides [templates](https://drive.google.com/drive/folders/0BwxvcCvwvTB3VXA0NjlXYXpGSTg) for your use.
+- An MOU is a single document to record work between two divisions within one TTS office. (for example: between Cloud.gov and The Data Analytics Portfolio both of which are part of the Office of Solutions). These agreements are between TTS and the GSA-CFO to allow the transfer of funds between the organizations. The Agreements Team provides [templates](https://drive.google.com/drive/folders/0BwxvcCvwvTB3VXA0NjlXYXpGSTg) for your use.
 - We use IGCAs to partner with non-federal entities, such as States and Cities. For more on IGCAs, see [the State and Local Agreements page]({{site.baseurl}}/state-local-agreements/).
 
 ## What are the contents of an IAA?
@@ -22,9 +22,7 @@ An IAA is made up of:
 
 - [7600B Order Requirements and Funding Information](https://fiscal.treasury.gov/files/forms/form-7600b.pdf): This form records the actual amount obligated in the agreement by the client agency and a period of performance for the specific project. The funding information for each agency is recorded, including the expiration of the funding appropriation. This information is vital to ensuring the agreement meets applicable appropriations laws. There can be multiple 7600Bs under a 7600A, but the total cost of the 7600Bs cannot exceed the estimated amount on the 7600A, nor can the period of performance exceed the end date in the 7600A.
 
-- Statement of Work (SOW): This document is an attachment to the 7600B and describes the need of the client for TTS' services and the actual deliverables that will be provided by TTS. These deliverables are specific while adhering to agile principles. The Agreements Team has multiple templates drafted for use by product leads: [18F SOW templates](https://docs.google.com/spreadsheets/d/11yeM0k6bLKVmvkmN2JM-a26a0S-7QwSwImM7saaV1EY/edit#gid=1280120992), [cloud.gov SOW templates](https://drive.google.com/drive/folders/0BwxvcCvwvTB3Z3RZbFZVUDhxaDA), and [Federalist SOW template](https://drive.google.com/drive/folders/0BwxvcCvwvTB3XzZiSkJUek9lbGs).
-
-- [Financial information](https://docs.google.com/document/d/1P1HXk1tGnUjKI6pfiRPqJlSJkk-yCUKGsipRZ2Ede_A/edit): This is an attachment to the 7600B and describes items TTS can bill to the client in every agreement. It is boilerplate language.
+- Statement of Work (SOW): This document is an attachment to the 7600B and describes the need of the client for TTS' services and the actual deliverables that will be provided by TTS. These deliverables are specific while adhering to agile principles. The Agreements Team has multiple templates drafted for use by product leads: [18F SOW templates](https://docs.google.com/spreadsheets/d/11yeM0k6bLKVmvkmN2JM-a26a0S-7QwSwImM7saaV1EY/edit#gid=1280120992), [cloud.gov SOW templates](https://docs.google.com/document/d/1wP3n0Gxkt9kIwjkE8UQTDXZ8VcKkHR5blp3vM2qEIro/edit), and [Federalist SOW template](https://docs.google.com/document/d/1P1QOrVzLz3YWnriXmOQ73-UTSizVLX6X_pfEPGMZ-SQ/edit).
 
 - [FITARA Review](https://drive.google.com/drive/folders/1mkCzj55hm7f3GRSSUsH9hhlSXkf0-1f9): TTS complies with FITARA and follows the [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1sO8cE3eyTclOkwnxNTMG5dg2qhP3AmJesGobM1m_LQw/edit).
 
@@ -53,5 +51,5 @@ A detailed description of the steps in the IAA and MOU process is available [her
 
 ## Agreements Status
 
-The Agreements Team maintains a [Kanban board](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1936372847) in the "Pipeline Kanban" tab of the linked spreadsheet. The Agreements Team updates the agreements pipeline daily and these changes are reflected in the Kanban board. The Agreements Team also holds a weekly check-in meeting to provide status updates. Questions on agreements can be posted anytime to [#iaa](https://gsa-tts.slack.com/messages/iaa) in Slack or by sending a message to @tts-agreements-team or tts.agreements@gsa.gov.
+The Agreements Team maintains a [Master Agreements Pipeline](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1839486133) in the the linked spreadsheet. The Agreements Team updates the agreements pipeline daily. The Agreements Team also holds a weekly check-in meeting to provide status updates. Questions on agreements can be posted anytime to [#iaa](https://gsa-tts.slack.com/messages/iaa) in Slack or by sending a message to @tts-agreements-team or tts.agreements@gsa.gov.
 

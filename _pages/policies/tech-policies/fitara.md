@@ -33,7 +33,7 @@ Want to know if your software request requires FITARA? That’s easy, almost all
 
 ## Approval Process
 
-Now, how to get that approval? Enter the software on the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA (Resources including guides and templates are provided in the last column of the board). The CTO will reply with their approval to route to the CIO. You will need to enter the information into a PDF template and route it to the CIO via ESign. Once they complete the package, you have FITARA approval. Upload the PDF from ESign into C2.
+Now, how to get that approval? Enter the software on the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA (Resources including guides and templates are provided in the last column of the board). The CTO will reply with their approval to route to the CIO. You will need to enter the information into a PDF template and route it to the CIO via DocuSign. Once they complete the package, you have FITARA approval. Upload the PDF from DocuSign into the agreement folder, contract file, or purchase record.
 
 If you are curious where your software is in terms of review, check out the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA.
 
@@ -59,21 +59,8 @@ Reference the [FITARA Rules Matrix](https://docs.google.com/spreadsheets/d/1qFH5
 
 ## TTS guidance
 
-TTS issued policy effective February 28, 2017, implementing the policy and process for GSA Chief Information Officer FITARA review, [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1vUaxBn8miL2St1MnAV2jVyf5lteHqrl3XSRFD8DwEgU/edit):
+TTS issued policy effective February 28, 2017, implementing the policy and process for GSA Chief Information Officer FITARA review, [TTS Policy and Process for GSA Chief Information Officer FITARA Review](https://docs.google.com/document/d/1vUaxBn8miL2St1MnAV2jVyf5lteHqrl3XSRFD8DwEgU/edit). Excerpt below:
 
-> TO: Vladlen Zvenyach, Acting Assistant Commissioner, 18F
-> Alla Seiffert, Acting Assistant Commissioner, Office of Acquisitions
-> Nathan Olson, Acting Assistant Commissioner, Presidential Innovation Fellows
-> Sarah Crane, Acting Assistant Commissioner, Office of Products and Platforms
-> Crystal Philcox, Assistant Commissioner, Operations
->
-> FROM: Rob Cook, Commissioner, Technology Transformation Service (TTS)
->
-> CC: David Shive, GSA Chief Information Officer
-> Navin Vembar, GSA Chief Technology Officer
->
-> DATE: February 28, 2017
->
 > RE: TTS Policy and Process for GSA Chief Information Officer FITARA Review
 >
 > 1.0 Purpose

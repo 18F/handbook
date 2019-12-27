@@ -156,9 +156,34 @@ navigation:
       - text: Records management
         url: records-management/
         internal: true
-      - text: Washington, D.C. Office
+    - text: TTS locations
+      children:
+      - text: Distributed
+        url: distributed/
+        internal: true
+      - text: Chicago
+        url: chicago/
+        internal: true
+      - text: New York City
+        url: new-york-city/
+        internal: true
+      - text: San Francisco
+        url: san-francisco/
+        internal: true
+      - text: Washington, D.C.
         url: washington-dc/
-        internal: true      
+        internal: true     
+    - text: TTS platforms
+      children:
+      - text: Cloud.gov
+        url: https://cloud.gov/
+        internal: false
+      - text: Login.gov
+        url: https://login.gov/
+        internal: false
+      - text: Federalist (publishing platform)
+        url: federalist/
+        internal: true
     - text: Tech
       children:
       - text: FITARA
@@ -186,9 +211,6 @@ navigation:
         internal: true
       - text: Employment verification
         url: employment-verification/
-        internal: true
-      - text: Hiring authorities
-        url: hiring-authorities/
         internal: true
       - text: Overtime and comp time
         url: overtime-and-comp-time/
@@ -239,6 +261,9 @@ navigation:
       - text: Leaving TTS
         url: leaving-tts/
         internal: true
+      - text: Hiring authorities
+        url: hiring-authorities/
+        internal: true
     - text: Software and tools
       children:
         - text: GSA internal tools
@@ -255,9 +280,6 @@ navigation:
           internal: true
         - text: DocuSign (digital signatures; replaced eSign)
           url: digital-signatures/
-          internal: true
-        - text: Federalist (publishing platform)
-          url: federalist/
           internal: true
         - text: GitHub (code repos and versioning)
           url: github/
@@ -285,9 +307,6 @@ navigation:
           internal: true
         - text: Mural.ly (collaborative whiteboard tool)
           url: murally/
-          internal: true
-        - text: Sharing calendars with partners
-          url: sharedcalendars/
           internal: true
         - text: Sketch
           url: sketch/
@@ -389,7 +408,7 @@ navigation:
         url: one-on-ones/
         internal: true
       - text: Out of office expectations
-        url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
+        url: leave/#leave-checklist
         internal: false
       - text: Performance Plan (FY19)
         url: 18f-performance-plan/
@@ -404,6 +423,9 @@ navigation:
         internal: true
       - text: Working with partners
         url: how-we-collaborate/
+        internal: true
+      - text: Sharing calendars with partners
+        url: sharedcalendars/
         internal: true
       - text: Leading projects
         url: leading-projects/
@@ -452,31 +474,6 @@ navigation:
         internal: false
       - text: Dev Lab
         url: https://gsa-tts.slack.com/messages/CDE5DU7QC/
-        internal: false
-    - text: 18F locations
-      children:
-      - text: Distributed
-        url: distributed/
-        internal: true
-      - text: Chicago
-        url: chicago/
-        internal: true
-      - text: New York City
-        url: new-york-city/
-        internal: true
-      - text: San Francisco
-        url: san-francisco/
-        internal: true
-      - text: Washington, D.C.
-        url: washington-dc/
-        internal: true
-    - text: 18F platforms
-      children:
-      - text: Cloud.gov
-        url: https://cloud.gov/
-        internal: false
-      - text: Login.gov
-        url: https://login.gov/
         internal: false
     - text: 18F team resources
       children:
