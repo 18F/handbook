@@ -85,6 +85,10 @@ To get additional peripherals (chargers, dongles, etc.), [open a `Hardware` requ
 1. Click `Equipment Services`
 1. Click `Hardware`
 
+Note that, per policy [OAS P 9900.1](https://www.gsa.gov/cdnstatic/OAS_P_9900.1_Government_Furnished_Equipment_for_Use_Outside_GSA_Agency_Worksites_%28Signed_4-8-2014%29_%28Rev._11-19-2015%29.pdf#page=2),
+
+> GSA will not provide a government furnished print output device, GSA furnished internet connection, or other equipment or services, beyond the laptop and headset...for use by employees working at locations other than GSA office workspaces.
+
 ## Equipment to accommodate disability
 
 GSA provides equipment to accommodate an injury or disability under these conditions:
@@ -92,7 +96,7 @@ GSA provides equipment to accommodate an injury or disability under these condit
 - You have supporting medical documentation for the need for a certain piece of equipment.
 - You only need the equipment to do your work.
 
-To purchase this type of equipment, attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov).
+To purchase this type of equipment, attach a doctor's note. If you have questions, ask in [#equipment](https://gsa-tts.slack.com/messages/equipment) or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov). [More information.](https://insite.gsa.gov/topics/information-technology/508-accessibility/center-for-information-technology-assistance-cita)
 
 ## Repairs
 
