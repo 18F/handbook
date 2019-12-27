@@ -328,7 +328,8 @@ navigation:
   - text: TTS Business Operations
     children:
       - text: Overview of Business Operations
-        url: bizops-about-us.md
+        url: bizops-about-us/
+        children:
         - text: Hiring
           url: hiring/
           internal: true
