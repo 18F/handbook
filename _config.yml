@@ -53,9 +53,6 @@ navigation:
   - text: About TTS
     blurb: |
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
-    url: about-us
-    internal: true
-    generated: true
     children:
       - children:
           - text: Mission, history, and values
@@ -73,9 +70,6 @@ navigation:
   - text: Getting started
     blurb: |
       Here's what you probably want to know in your first weeks at TTS.
-    url: welcome-to-TTS/
-    internal: true
-    generated: true
     children:
       - children:
           - text: Welcome
@@ -102,9 +96,6 @@ navigation:
   - text: Training &amp; Development
     blurb: |
       Classes, coaching and ongoing professional development
-    url: development-and-training
-    internal: true
-    generated: true
     children:
       - children:
           - text: Online Learning University (OLU)
@@ -122,9 +113,6 @@ navigation:
   - text: Travel and leave
     blurb: |
       Going somewhere? Here's what you need to know.
-    url: travel-guide-table-of-contents
-    internal: true
-    generated: true
     children:
       - children:
           - text: Leave (HR Links)
@@ -134,9 +122,6 @@ navigation:
             url: travel-guide-table-of-contents/
             internal: true
   - text: General information and resources
-    url: about-us/
-    internal: true
-    generated: true
     children:
       - children:
           - text: Who we are
@@ -332,9 +317,6 @@ navigation:
   - text: TTS Offices
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
-    url: tts-offices/
-    internal: true
-    generated: true
     children:
       - text: TTS Office of Operations
         children:
