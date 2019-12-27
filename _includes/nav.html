@@ -1,0 +1,15 @@
+<ol>
+  {% for item in include.nav %}
+    {% if item.children %}
+      <h{{ include.level }}>
+        {% include nav-link.html child=item %}
+      </h{{ include.level }}>
+      {% assign next_level = include.level | plus: 1 %}
+      {% include nav.html level=next_level nav=item.children %}
+    {% else %}
+      <li>
+        {% include nav-link.html child=item %}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>

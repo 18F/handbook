@@ -1,70 +1,11 @@
 ---
 title: TTS Handbook
-permalink: '/'
+permalink: "/"
 ---
+
 <p>{{ site.description }}</p>
 <div class="layout-table-of-contents">
   <div class="wrapper">
-
-    <ol>
-    {% for nav in site.navigation %}
-    {% if nav.url == nil %}{% continue %}{% endif %}
-      <li>
-        <h1 id="{{ nav.url | remove:"/" }}">{{ nav.text }}</h1>
-        {% if nav.blurb %}<p>{{ nav.blurb }}</p>{% endif %}
-
-        {% unless nav.children == nil %}
-        {% for child in nav.children %}
-          <h2 id="{{ child.text | slugify }}">
-            {% include nav-link.html %}
-          </h2>
-          {% if child.children.size > 0 %}
-          <ol class="toc-nav-children toc-nav-children-level-3">
-          {% for child in child.children %}
-            {% if child.children.size > 0 %}
-            <ol class="toc-nav-children-level-4">
-            <h3 id="{{ child.text | slugify }}">
-              {% include nav-link.html %}
-            </h3>
-            {% for child in child.children %}
-              {% if child.children.size > 0 %}
-                <li id="{{ child.text | slugify }}">
-                  {% include nav-link.html %}
-
-                  <ol class="toc-nav-children-level-5">
-                  {% for child in child.children %}
-                    {% if child.children.size > 0 %}
-                      <h5 id="{{ child.text | slugify }}">
-                        {% include nav-link.html %}
-                      <h4 id="{{ child.text | slugify }}">
-                        {% include nav-link.html %}	                        
-                      </h4>
-                      <ol class="toc-nav-children-level-6">
-                      {% for child in child.children %}
-                        {% include nav-item.html child=child %}
-                      {% endfor %}
-                      </ol>
-                    {% else %}
-                      {% include nav-item.html child=child %}
-                    {% endif %}
-                  {% endfor %}
-                  </ol>
-                </li>
-              {% else %}
-                {% include nav-item.html child=child %}
-              {% endif %}
-            {% endfor %}
-            </ol>
-            {% else %}
-              {% include nav-item.html child=child %}
-            {% endif %}
-          {% endfor %}
-          </ol>
-          {% endif %}
-        {% endfor %}
-        {% endunless %}
-      </li>
-    {% endfor %}
-    </ol>
+    {% include nav.html level=1 nav=site.navigation %}
   </div>
 </div>
