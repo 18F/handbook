@@ -2,7 +2,7 @@
   {% for item in include.nav %}
     <li>
       {% if item.children %}
-        <h{{ include.level }}>
+        <h{{ include.level }} id="{{ item.text | slugify }}">
           {% include nav-link.html child=item %}
         </h{{ include.level }}>
         {% if item.blurb %}
