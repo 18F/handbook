@@ -56,16 +56,16 @@ navigation:
     children:
       - children:
           - text: Mission, history, and values
-            url: tts-history
+            url: tts-history/
             internal: true
           - text: Diversity, equity & inclusion
-            url: diversity
+            url: diversity/
             internal: true
           - text: Code of Conduct
-            url: code-of-conduct
+            url: code-of-conduct/
             internal: true
           - text: Org chart
-            url: tts-org-chart
+            url: tts-org-chart/
             internal: true
   - text: Getting started
     blurb: |
@@ -154,17 +154,6 @@ navigation:
                 internal: true
               - text: Washington, D.C.
                 url: washington-dc/
-                internal: true
-          - text: TTS platforms
-            children:
-              - text: Cloud.gov
-                url: https://cloud.gov/
-                internal: false
-              - text: Login.gov
-                url: https://login.gov/
-                internal: false
-              - text: Federalist (publishing platform)
-                url: federalist/
                 internal: true
           - text: Tech
             children:
@@ -318,37 +307,129 @@ navigation:
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
     children:
-      - text: TTS Office of Operations
+      - text: TTS Acquisition
         children:
-          - text: Business Operations
+          - text: Overview of OA
+            url: oa/
+            internal: true
+          - text: OA Operational Guidance
+            url: acquisition/
+            internal: true
+      - text: TTS Business Operations
+        children:
+          - text: Hiring
+            url: hiring/
+            internal: true
+          - text: Refer a person
+            url: talent/#referring-a-person
+            internal: true
+      - text: Office of Clients & Markets
+        children:
+          - text: 18F
             children:
-              - text: Agreements
-                url: agreements/
-                internal: true
+              - text: About
                 children:
-                  - text: State and local agreements
-                    url: state-local-agreements/
+                  - text: History and values
+                    url: history-and-values/
                     internal: true
-              - text: Technology Portfolio
-                url: tech-portfolio/
-                internal: true
-          - text: Talent team
+                  - text: Org chart
+                    url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
+                    internal: false
+              - text: How we work
+                children:
+                  - text: Time tracking and billing
+                    url: tock/#time-tracking-and-billing
+                    internal: false
+                  - text: How we staff projects
+                    url: staffing-projects/
+                    internal: true
+                  - text: One-on-ones
+                    url: one-on-ones/
+                    internal: true
+                  - text: Out of office expectations
+                    url: leave/#leave-checklist
+                    internal: true
+                  - text: Performance Plan (FY19)
+                    url: 18f-performance-plan/
+                    internal: true
+                  - text: Open source policy
+                    url: https://github.com/18F/open-source-policy/blob/master/policy.md
+                    internal: false
+              - text: Projects
+                children:
+                  - text: Consulting with partners
+                    url: how-we-relate-to-partners/
+                    internal: true
+                  - text: Working with partners
+                    url: how-we-collaborate/
+                    internal: true
+                  - text: Leading projects
+                    url: leading-projects/
+                    internal: true
+              - text: Chapters
+                children:
+                  - text: Account management
+                    url: account-manager/
+                    internal: true
+                    children:
+                      - text: Account management policy
+                        url: client-accounts/
+                        internal: true
+                  - text: Acquisition
+                    url: acqstack/
+                    internal: true
+                  - text: Design
+                    url: design/
+                    internal: true
+                  - text: Engineering
+                    url: engineering/
+                    internal: true
+                  - text: Product
+                    url: product/
+                    internal: true
+                  - text: Strategy
+                    url: strategy/
+                    internal: true
+              - text: Labs
+                children:
+                  - text: Writing Lab
+                    url: writing-lab/
+                    internal: true
+                  - text: Design Lab
+                    url: https://github.com/18F/design-lab
+                    internal: false
+                  - text: Dev Lab
+                    url: https://gsa-tts.slack.com/messages/CDE5DU7QC/
+                    internal: false
+              - text: Team resources
+                children:
+                  - text: Before you ship
+                    url: https://before-you-ship.18f.gov/infrastructure/aws/
+                    internal: false
+                  - text: Blogging
+                    url: blogging/
+                    internal: true
+                  - text: Doing research
+                    url: research-guidelines/
+                    internal: true
+                  - text: Working on an acquisition engagement
+                    url: working-on-an-acquisition-engagement/
+                    internal: true
+                    children:
+                      - text: Acquisition engagement types
+                        url: acquisition-engagement-types/
+                        internal: true
+                      - text: Acquisition engagement glossary
+                        url: working-on-an-acquisition-engagement/#acquisition-glossary
+                        internal: true
+          - text: Centers of Excellence (CoE)
             children:
-              - text: Talent
-                url: talent/
+              - text: Overview of CoE
+                url: centers-of-excellence/
                 internal: true
-              - text: Federal resume guide
-                url: resume
-                internal: true
-              - text: Refer a person
-                url: https://handbook.18f.gov/talent/#referring-a-person
+              - text: CoE Website
+                url: https://coe.gsa.gov/
                 internal: false
-              - text: Internal TTS Opportunities
-                url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
-                internal: false
-              - text: Top Secret/Sensitive Compartmented Information (TS/SCI) Clearance
-                url: top-secret/
-                internal: true
           - text: Outreach
             children:
               - text: Outreach
@@ -357,137 +438,41 @@ navigation:
               - text: Social media
                 url: social-media/
                 internal: true
-      - text: TTS Office of Acquisition
+          - text: Presidential Innovation Fellows (PIF)
+            children:
+              - text: PIF Website
+                url: https://presidentialinnovationfellows.gov/
+                internal: false
+      - text: Office of Solutions
         children:
-          - text: Overview of OA
-            url: oa/
-            internal: true
-          - text: OA Operational Guidance
-            url: acquisition/
-            internal: true
-      - text: 18F
-        children:
-          - text: About 18F
+          - text: About
             children:
-              - text: 18F history and values
-                url: history-and-values/
-                internal: true
-              - text: 18F org chart
-                url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
-                internal: false
-          - text: How we work
-            children:
-              - text: Time tracking and billing
-                url: tock/#time-tracking-and-billing
-                internal: false
-              - text: How we staff projects
-                url: staffing-projects/
-                internal: true
-              - text: One-on-ones
-                url: one-on-ones/
-                internal: true
-              - text: Out of office expectations
-                url: leave/#leave-checklist
-                internal: false
-              - text: Performance Plan (FY19)
-                url: 18f-performance-plan/
-                internal: true
-              - text: Open source policy
-                url: https://github.com/18F/open-source-policy/blob/master/policy.md
-                internal: false
-          - text: 18F projects
-            children:
-              - text: Consulting with partners
-                url: how-we-relate-to-partners/
-                internal: true
-              - text: Working with partners
-                url: how-we-collaborate/
-                internal: true
-              - text: Sharing calendars with partners
-                url: sharedcalendars/
-                internal: true
-              - text: Leading projects
-                url: leading-projects/
-                internal: true
-              - text: Working on an acquisition engagement
-                url: working-on-an-acquisition-engagement/
-                internal: true
-                children:
-                  - text: Acquisition engagement types
-                    url: acquisition-engagement-types/
-                    internal: true
-                  - text: Acquisition engagement glossary
-                    url: working-on-an-acquisition-engagement/#acquisition-glossary
-                    internal: true
-          - text: 18F chapters
-            children:
-              - text: Account management
-                url: account-manager/
-                internal: true
-                children:
-                  - text: Account management policy
-                    url: client-accounts/
-                    internal: true
-              - text: Acquisition
-                url: acqstack/
-                internal: true
-              - text: Design
-                url: design/
-                internal: true
-              - text: Engineering
-                url: engineering/
-                internal: true
-              - text: Product
-                url: product/
-                internal: true
-              - text: Strategy
-                url: strategy/
-                internal: true
-          - text: 18F labs
-            children:
-              - text: Writing Lab
-                url: writing-lab/
-                internal: true
-              - text: Design Lab
-                url: https://github.com/18F/design-lab
-                internal: false
-              - text: Dev Lab
-                url: https://gsa-tts.slack.com/messages/CDE5DU7QC/
-                internal: false
-          - text: 18F team resources
-            children:
-              - text: Before you ship
-                url: https://before-you-ship.18f.gov/infrastructure/aws/
-                internal: false
-              - text: Blogging
-                url: blogging/
-                internal: true
-              - text: Doing research at 18F
-                url: research-guidelines/
-                internal: true
-              - text: Accessing DoD Systems
-                url: accessing-dod-systems/
-                internal: true
-      - text: Office of Products and Programs (OPP)
-        children:
-          - text: About OPP
-            children:
-              - text: Overview of OPP
+              - text: Overview
                 url: office-of-products-and-programs/
                 internal: true
-              - text: OPP history
+              - text: History
                 url: opp-history/
                 internal: true
-              - text: OPP org chart
+              - text: Org chart
                 url: opp-org-chart/
                 internal: true
           - text: Portfolios
             children:
+              - text: Cloud.gov
+                url: https://cloud.gov/
+                internal: false
+                children:
+                  - text: Federalist
+                    url: federalist/
+                    internal: true
               - text: Data
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#DSP
                 internal: false
               - text: Innovation
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#IP
+                internal: false
+              - text: Login.gov
+                url: https://login.gov/
                 internal: false
               - text: Public Experience
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#CEP
@@ -501,16 +486,6 @@ navigation:
               - text: 10x
                 url: https://10x.gsa.gov
                 internal: false
-      - text: Centers of Excellence (CoE)
-        children:
-          - text: Overview of CoE
-            url: centers-of-excellence/
-            internal: true
-          - text: CoE Website
-            url: https://coe.gsa.gov/
-            internal: false
-      - text: Presidential Innovation Fellows (PIF)
-        children:
-          - text: PIF Website
-            url: https://presidentialinnovationfellows.gov/
-            internal: false
+              - text: Technology Portfolio
+                url: tech-portfolio/
+                internal: true
