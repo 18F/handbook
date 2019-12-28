@@ -1,5 +1,6 @@
 ---
 title: Office of Products and Programs (aka OPP)
+outdated: true
 ---
 
 Welcome to OPP’s team page!
@@ -20,27 +21,27 @@ We offer cross-government products and programs that help agencies deliver moder
 
 ## Our Initiatives
 
-* [10x](https://10x.gsa.gov/): provides start-up funding for new technology projects and products across government 
+* [10x](https://10x.gsa.gov/): provides start-up funding for new technology projects and products across government
 * [Api.data.gov](https://api.data.gov/): an API management service for agencies
 * [Challenge.gov](https://www.challenge.gov/list/): the official site for federal prize and challenge competitions
 * [CitizenScience.gov](https://www.citizenscience.gov/): a hub for accelerating crowdsourcing and citizen science across the U.S. government
-* [Code.gov](https://code.gov/): a catalog of government developed code 
+* [Code.gov](https://code.gov/): a catalog of government developed code
 * [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges
 * [Data.gov](https://www.data.gov/): the home of the U.S. government’s open data
 * [Digital Analytics Program (DAP)](https://www.digitalgov.gov/services/dap/): government-wide analytics tracking for agency websites
 * [DigitalGov](http://www.digitalgov.gov/): a website that provides resources for agencies to create digital services
 * [DigitalGov University (DGU)](http://www.digitalgov.gov/digitalgov-university/): hosts trainings and other events about agencies’ digital efforts.
-* [Emerging Citizen Technology Office (ECTO)](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies 
+* [Emerging Citizen Technology Office (ECTO)](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies
 * [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/): provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services
 * [Go.USA.gov](https://go.usa.gov/): a URL shortening service for government agencies
 * [GobiernoUSA.gov](https://gobierno.usa.gov/): the “front door” to the federal government, offering government information and services by topic (in Spanish)
 * [Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/): a compatibility testing service that agencies can use to test their websites for mobile-friendliness
 * [Search.gov](https://search.gov/): a service that powers search boxes on agency websites
-* [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps 
+* [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps
 * [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites
 * [USA.gov](https://www.usa.gov/): the “front door” to the federal government, offering government information and services by topic (in English)
 * [USAGov Contact Center](https://www.usa.gov/contact): where the public can ask questions about any government agency
-* [USAGov Partnership Toolkit](http://usa.gov/partnerships): how agencies can partner with USAGov for outreach and engagement efforts 
+* [USAGov Partnership Toolkit](http://usa.gov/partnerships): how agencies can partner with USAGov for outreach and engagement efforts
 
 ## Our History
 
@@ -52,7 +53,7 @@ Check out our [brief history]({{site.baseurl}}/opp-history/) and learn how our w
 
 ## Contact
 
-To contact a specific project team, please visit the websites listed above. 
+To contact a specific project team, please visit the websites listed above.
 
 For TTS Slack users:
 
