@@ -63,7 +63,7 @@
     }
 
     // third-level nav
-    > ol > li > ol > li > ol {
+    h2 + ol {
       @media screen and (min-width: 711.11px) {
         column-count: 2;
 
@@ -72,18 +72,17 @@
           break-inside: avoid-column;
         }
       }
+    }
 
-      // fourth-level nav
-      > li {
-        > ol {
-          margin: 0.6em 0 1.7em 0;
-        }
+    // fourth-level nav
+    h3 + ol {
+      margin: 0.6em 0 1.7em 0;
 
-        // fifth+ level nav
-        ol ol {
-          margin: 0;
-          padding-left: 1rem;
-        }
+      // fifth+ level nav
+      ol {
+        // indent
+        margin: 0;
+        padding-left: 1rem;
       }
     }
   }
