@@ -88,7 +88,7 @@ tags:
 
 * **OPP** - [Office of Products and Programs](../office-of-products-and-programs/). OPP helps the public use and understand government, and helps agencies understand and serve the public. To achieve this, they create, discover, connect and share practical solutions and products that transform government. OPP is a division within TTS.
 
-* **OSC** - Office of Strategic Communications. GSA’s resource for external and internal communication needs. They respond to inquiries from journalists and work closely with the [TTS Outreach](https://handbook.18f.gov/outreach/) team.
+* **OSC** - Office of Strategic Communications. GSA’s resource for external and internal communication needs. They respond to inquiries from journalists and work closely with the [TTS Outreach]({{site.baseurl}}/outreach/) team.
 
 * **OTP** - One-time password. (If you're in Atlanta, this might refer to "outside the perimeter," as opposed to ITP (inside the perimeter).)
 
@@ -106,7 +106,7 @@ tags:
 
 * **Repo** - Repository. A place to store code or data in a central location (such as GitHub).
 
-* **SaaS** - Software as a Service. Individuals or agencies subscribe to an application, and then access it over the internet. Most online applications, such as Salesforce and Google Drive, fall into this category. Need to purchase a SaaS product? [Here's how to get software](https://handbook.18f.gov/software/).
+* **SaaS** - Software as a Service. Individuals or agencies subscribe to an application, and then access it over the internet. Most online applications, such as Salesforce and Google Drive, fall into this category. Need to purchase a SaaS product? [Here's how to get software]({{site.baseurl}}/software/).
 
 * **Scrum master** - The facilitator for an agile development team.
 
@@ -118,7 +118,7 @@ tags:
 
 * **SOW** - Statement of work. Document that defines project-specific activities, deliverables, and timelines for a vendor providing services to the client. May be part of an IAA.
 
-* **TTS** - The [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) aim to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public. This is the TTS Handbook, and you're probably reading it because you're an employee of TTS. TTS is part of FAS, which is part of GSA. 
+* **TTS** - The [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) aim to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public. This is the TTS Handbook, and you're probably reading it because you're an employee of TTS. TTS is part of FAS, which is part of GSA.
 
 * **USDS** - The [United States Digital Service](https://www.usds.gov/) is a startup at The White House, using design and technology to deliver better services to the American people.
 

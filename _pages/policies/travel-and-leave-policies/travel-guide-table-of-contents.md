@@ -2,7 +2,7 @@
 title: Travel Guide Table of Contents
 ---
 
-* [Travel 101](https://handbook.18f.gov/travel-101/)
+* [Travel 101]({{site.baseurl}}/travel-101/)
 * First Time Travel Guide
     * [1 - Get access to Concur]({{site.baseurl}}/first-time-travel-get-in-concur)
     * [2 - Get a GSA Travel Card]({{site.baseurl}}/first-time-travel-travel-card)

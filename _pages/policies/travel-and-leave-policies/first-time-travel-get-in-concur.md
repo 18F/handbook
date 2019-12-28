@@ -11,7 +11,7 @@ There are four required steps to gain access to [Concur](http://travel.gsa.gov/)
   * In case the travel finance team is unable to locate your payroll banking information, they may request that you complete [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing) and will provide instructions on how you can send this information to them securely.
   * While you wait for the ID number to be generated (which can take up to 1 business day), you may get started on [applying for the GSA travel card]({{site.baseurl}}/first-time-travel-travel-card).
 
-2. Take the 2019 GSA Mandatory Cyber Security and Privacy Training in [OLU](https://gsaolu.gsa.gov). This can take several hours. Follow the instructions [here](https://handbook.18f.gov/olu/#help-with-olu) if you need help.
+2. Take the 2019 GSA Mandatory Cyber Security and Privacy Training in [OLU](https://gsaolu.gsa.gov). This can take several hours. Follow the instructions [here]({{site.baseurl}}/olu/#help-with-olu) if you need help.
 
 3. Complete the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing), minus the EFT enrollment form. Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well!
 

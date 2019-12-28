@@ -31,21 +31,21 @@ policy, regulations and bureaucratic requirements.
 
 ### People Ops Areas of Focus
 
-- [Performance Management](https://handbook.18f.gov/performance-management/)
+- [Performance Management]({{site.baseurl}}/performance-management/)
   - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/messages/people-ops)
-- [Events & Training Management](https://handbook.18f.gov/conferences-events-training/)
+- [Events & Training Management]({{site.baseurl}}/conferences-events-training/)
   - Contact: tts-events@gsa.gov; [#training-conferences](https://gsa-tts.slack.com/messages/training-conferences)
-- [Travel](https://handbook.18f.gov/travel-guide-table-of-contents/)
+- [Travel]({{site.baseurl}}/travel-guide-table-of-contents/)
   - Contact: tts-travel@gsa.gov; [#travel](https://gsa-tts.slack.com/message/travel); [office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/)
 - Personnel Actions
   - moving within the org
-  - [requesting a higher security clearance](https://handbook.18f.gov/top-secret/)
-  - [detailing within, to, and from an agency](https://handbook.18f.gov/assignee-detail/)
-  - [moving to a new duty station](https://handbook.18f.gov/moving/)
+  - [requesting a higher security clearance]({{site.baseurl}}/top-secret/)
+  - [detailing within, to, and from an agency]({{site.baseurl}}/assignee-detail/)
+  - [moving to a new duty station]({{site.baseurl}}/moving/)
   - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
-- [Leave & Time Management](https://handbook.18f.gov/leave/)
+- [Leave & Time Management]({{site.baseurl}}/leave/)
   - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
-- [Benefits help](https://handbook.18f.gov/benefits/)
+- [Benefits help]({{site.baseurl}}/benefits/)
   - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
 
 # Talent
@@ -58,8 +58,8 @@ incredible candidate experience from the first time a candidate sees a job posti
 
 ### Talent Areas of Focus
 
-- [Hiring](https://handbook.18f.gov/hiring/)
-  - [Refer someone](https://handbook.18f.gov/talent/#referring-a-person)
-- [Promotions](https://handbook.18f.gov/promotions/)
-- [Internal Competitions](https://handbook.18f.gov/ttsjobs/)
-- [Onboarding](https://handbook.18f.gov/onboarding-schedule/)
+- [Hiring]({{site.baseurl}}/hiring/)
+  - [Refer someone]({{site.baseurl}}/talent/#referring-a-person)
+- [Promotions]({{site.baseurl}}/promotions/)
+- [Internal Competitions]({{site.baseurl}}/ttsjobs/)
+- [Onboarding]({{site.baseurl}}/onboarding-schedule/)
