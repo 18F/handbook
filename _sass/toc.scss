@@ -3,10 +3,6 @@
     list-style-type: none;
   }
 
-  .wrapper {
-    max-width: 640px;
-  }
-
   p,
   li {
     line-height: 1.33em;
@@ -18,44 +14,7 @@
     margin-bottom: 1em;
   }
 
-  .wrapper ol {
-    // left-align
-    padding-left: 0;
-  }
-}
-
-.layout-table-of-contents .wrapper ol li {
-  font-weight: normal;
-  margin-bottom: 2px;
-}
-
-// third-level nav
-.layout-table-of-contents .wrapper > ol > li > ol > li > ol {
-  @media screen and (min-width: 711.11px) {
-    column-count: 2;
-
-    li {
-      page-break-inside: avoid;
-      break-inside: avoid-column;
-    }
-  }
-
-  // fourth-level nav
-  > li {
-    > ol {
-      margin: 0.6em 0 1.7em 0;
-    }
-
-    // fifth+ level nav
-    ol ol {
-      margin: 0;
-      padding-left: 1rem;
-    }
-  }
-}
-
-.layout-table-of-contents {
-  ol h1 {
+  h1 {
     font-size: 28px;
     font-weight: 600;
     padding-top: 1em;
@@ -65,28 +24,67 @@
     color: #202020;
   }
 
-  ol li:first-of-type h1 {
+  li:first-of-type h1 {
     border-top: none;
     margin-top: 0;
   }
 
-  ol h2 {
+  h2 {
     font-size: 24px;
     font-weight: 600;
     margin-top: 1em;
     color: #046b99;
   }
 
-  ol h3 {
+  h3 {
     font-size: 20px;
     font-weight: 600;
     margin: 0 0 0.5em;
   }
 
-  ol h4 {
+  h4 {
     margin: 0;
     font-family: inherit;
     font-size: 17px;
     font-weight: normal;
+  }
+
+  .wrapper {
+    max-width: 640px;
+
+    ol {
+      // left-align
+      padding-left: 0;
+
+      li {
+        font-weight: normal;
+        margin-bottom: 2px;
+      }
+    }
+
+    // third-level nav
+    > ol > li > ol > li > ol {
+      @media screen and (min-width: 711.11px) {
+        column-count: 2;
+
+        li {
+          page-break-inside: avoid;
+          break-inside: avoid-column;
+        }
+      }
+
+      // fourth-level nav
+      > li {
+        > ol {
+          margin: 0.6em 0 1.7em 0;
+        }
+
+        // fifth+ level nav
+        ol ol {
+          margin: 0;
+          padding-left: 1rem;
+        }
+      }
+    }
   }
 }
