@@ -19,7 +19,7 @@ When you login with ENT while not connected to a GSA wireless network, you will 
 
 ![Ent login screen]({{site.baseurl}}/images/ENTloginsmaller.png)
 
-### ENT Password Reset
+### Changing your ENT password
 
 You must change your ENT password immediately after you start with GSA and every 90 days thereafter. This is your password for signing into systems administered by GSA, including your email, calendar, and Google Drive. Go to [reset.gsa.gov](https://reset.gsa.gov) to change your password.
 
