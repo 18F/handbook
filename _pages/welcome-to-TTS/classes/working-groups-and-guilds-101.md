@@ -76,6 +76,13 @@ Because working groups are typically trying to solve a problem *right now* and t
           <a href="https://github.com/18F/development-guide">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/C02CD5VUQ">#dev</a>
         </td>
       </tr>
+      <tr>
+        <th id="security">Security &amp; Compliance</th>
+        <td class="col-description">
+          Our mission is to reduce the security and compliance barrier for all Federal and State government projects. <br />
+          <a href="https://gsa-tts.slack.com/messages/g-security-compliance">#g-security-compliance</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -84,13 +91,6 @@ Because working groups are typically trying to solve a problem *right now* and t
 <div class="table-wrapper">
   <table class="table-existing-grouplets">
     <tbody>
-      <tr>
-        <th class="col-grouplet" id="compliance">Compliance</th>
-        <td class="col-description">
-          We create tooling, resources, and emotional support for people to get through compliance processes. <br />
-          <a href="https://gsa-tts.slack.com/messages/wg-compliance">#wg-compliance</a>
-        </td>
-      </tr>
       <tr>
         <th class="col-grouplet" id="consulting">Consulting</th>
         <td class="col-description">We work to build skills by asking questions and sharing our experiences regarding what to expect and how to manage the unique complexity of consulting work. We also work on consulting-related projects and resources to help 18F evolve its overall organizational consulting capability.<br />
