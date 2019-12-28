@@ -36,6 +36,10 @@ jobs:
             ! (grep -Erl "\(/|href=['\"]/" _pages && echo "ERROR: Internal links must be prefixed with {{site.baseurl}} to work correctly with Federalist Previews. Fix the above pages.")
 
       - run:
+          name: checking stranded pages
+          command: ruby stranded.rb
+
+      - run:
           name: build site
           command: bundle exec jekyll build
 

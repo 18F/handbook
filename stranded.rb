@@ -26,3 +26,4 @@ pages = rendered_pages.reject{ |pg| pg.match?(/travel|intro-to/) }.to_set
 
 stranded_pages = pages - homepage_links
 puts stranded_pages.to_a.sort
+abort if stranded_pages.any?
