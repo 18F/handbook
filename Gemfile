@@ -13,4 +13,5 @@ gem 'jekyll-sass-converter', git: 'https://github.com/jekyll/jekyll-sass-convert
 
 group :development do
   gem 'html-proofer'
+  gem 'nokogiri'
 end

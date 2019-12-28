@@ -19,6 +19,15 @@ To run the site locally:
 
 1. Open http://localhost:4000
 
+## Checking for stranded pages
+
+"Stranded," meaning "not linked from the homepage."
+
+```sh
+docker-compose run web bundle exec jekyll build
+docker-compose run web bundle exec ruby stranded.rb
+```
+
 ## Contributing
 
 If you are interested in contributing to this repository, you can read more at [CONTRIBUTING](CONTRIBUTING.md).

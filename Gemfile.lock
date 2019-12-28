@@ -101,6 +101,7 @@ DEPENDENCIES
   jekyll
   jekyll-sass-converter!
   json
+  nokogiri
   uswds-jekyll!
 
 RUBY VERSION
