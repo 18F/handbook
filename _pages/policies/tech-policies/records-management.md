@@ -21,4 +21,4 @@ Records are critical to an organization to function effectively and efficient. [
 
 #### Still have questions?
 
-Ask in Slack: [#legalstuff](https://gsa-tts.slack.com/messages/legalstuff/) or [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)
+Ask in Slack: [#legalstuff](https://gsa-tts.slack.com/messages/legalstuff/)
