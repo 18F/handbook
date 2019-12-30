@@ -55,4 +55,4 @@ Or try thinking of a sentence or line from a book, song, speech, poem, or other 
 
 ## Questions?
 
-Ask in [#it-issues](https://gsa-tts.slack.com/messages/questions/) or or ping [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure)
+Ask in [#it-issues](https://gsa-tts.slack.com/messages/questions/) or ping [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure)
