@@ -80,7 +80,7 @@ Most of the product team works on a mix of partner projects and internal initiat
 The product chapter communicates primarily in Slack. 18f-product@gsa.gov is a low traffic Google group for all members of the product chapter. The chapter director will add you to this list —- no need to worry about registering.
 
 ### Tools
-[The TTS handbook lists the tools we use the most.](https://handbook.18f.gov/#software-and-tools) If you can’t find what you need, reach out in the [#product](https://slack.com/app_redirect?channel=product) or talk to your supervisor.
+[The TTS handbook lists the tools we use the most.]({{site.baseurl}}/#software-and-tools) If you can’t find what you need, reach out in the [#product](https://slack.com/app_redirect?channel=product) or talk to your supervisor.
 
 Before you start using any new tool, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. If what you want to use isn’t there, you’ll need to ask in [#infrastructure](https://slack.com/app_redirect?channel=infrastructure) first. New tools often create hard-to-anticipate security problems.
 
@@ -89,4 +89,4 @@ Here are a few particularly useful essentials:
 - **GitHub:** We use GitHub for source code management, version control, and project management. If you're not familiar with GitHub, let your supervisor know and they'll help you get up to speed.
 - **Google Docs, Drive, and Slides:** We often need to collaborate on documents and slide decks, and we do that through Google's productivity apps.
 - **18F templates:** You can get our document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Please don't make major changes to the base templates; start a conversation in [#visual-design]((https://slack.com/app_redirect?channel=visual-design) instead!
-- **Mural:** We use [Mural](https://handbook.18f.gov/murally/) as a collaborative whiteboard and sticky note tool. It's a particularly useful tool for brainstorming with distributed teams.
+- **Mural:** We use [Mural]({{site.baseurl}}/murally/) as a collaborative whiteboard and sticky note tool. It's a particularly useful tool for brainstorming with distributed teams.

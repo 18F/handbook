@@ -3,7 +3,7 @@ title: Appendix B - After-hours emergency travel authorizations
 navtitle: After-hours emergency travel authorizations
 ---
 
-[TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
+[TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
 [Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
 [FAQ]({{site.baseurl}}/travel-guide-faq) <br>
 [Jump to Step 2: What to Consider While Traveling]({{site.baseurl}}/travel-guide-2-travel)
@@ -28,7 +28,7 @@ Except where noted here, all fields will need to be correctly filled out:
 20. Fill in the costs as per the estimator or the authorization document in Concur, whichever most accurately reflects your estimated expenses.
 21. Required only if requesting a travel advance.
 22. Include any justification required earlier in the form, as well as any additional details requested by your approving official.
-23. You can look up the appropriate accounting code for your team [here](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0). 
+23. You can look up the appropriate accounting code for your team [here](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0).
 24. You and your authorizing official will both need to sign and date the completed form before sending it to gvtagents@adtrav.com for ticketing.
 
 *Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

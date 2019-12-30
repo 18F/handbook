@@ -3,7 +3,7 @@ title: First-Time Travel Get a Travel Card
 navtitle: First-Time Travel Get a Travel Card
 ---
 
-[TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
+[TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
 [Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
 [Back to Get in Concur]({{site.baseurl}}/first-time-travel-get-in-concur) <br>
 [Next to Complete Concur Profile]({{site.baseurl}}/first-time-travel-complete-concur-profile)

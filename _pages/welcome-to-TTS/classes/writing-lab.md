@@ -73,7 +73,7 @@ Feel free to peruse the [issues associated with the Writing Lab repository](http
 Here’s a list of the Lab staff’s favorite resources. Are we missing something? If so, add it to the list.
 
 - [18F Content Guide](https://content-guide.18f.gov/): The official source for 18F’s content policies and preferences
-- [18F Blogging Guide](https://handbook.18f.gov/blogging/): Your guide to writing, editing, and publishing posts for the 18F blog
+- [18F Blogging Guide]({{site.baseurl}}/blogging/): Your guide to writing, editing, and publishing posts for the 18F blog
 - [The Writing Lab’s performance profile guide](https://docs.google.com/document/d/1z6oyBG43c-5PkK9rAvWeK_bI0ojQqZIJCt8VcmsW53U/edit): An informal guide for editing performance profiles
 
 ## Guidelines for submitting an issue

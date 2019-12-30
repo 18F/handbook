@@ -2,7 +2,7 @@
 title: Travel Guide FAQ
 ---
 
-[TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
+[TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
 [Travel Guide TOC]({{site.baseurl}}/travel-guide-table-of-contents)
 
 ## Questions about booking travel
@@ -267,7 +267,7 @@ Another common situation which arises when splitting travel across multiple proj
 
 #### How can I get my travel approved to attend a training, conference, speaking event, or other "IRL" or large team gathering*?
 
-Instead of obtaining an email of approval, you must follow the [event request process](https://handbook.18f.gov/conferences-events-training/). You may [book your travel]({{site.baseurl}}/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
+Instead of obtaining an email of approval, you must follow the [event request process]({{site.baseurl}}/conferences-events-training/). You may [book your travel]({{site.baseurl}}/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
 <br>
 However, if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason, you must secure an email from your [authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) approving of the revised itinerary.
 

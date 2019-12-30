@@ -17,7 +17,7 @@ tags:
 - training materials
 ---
 
-TTS encourages all staff to attend conferences, speak at events, and focus on professional development and training opportunities. Check out the [TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646) to see what conferences and trainings your colleagues have attended. 
+TTS encourages all staff to attend conferences, speak at events, and focus on professional development and training opportunities. Check out the [TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646) to see what conferences and trainings your colleagues have attended.
 
 Any media requests (like news or podcast interviews) are a separate process—forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov).
 
@@ -31,7 +31,7 @@ Any media requests (like news or podcast interviews) are a separate process—fo
 
 ## Approval timelines
 
-The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) as early as possible. 
+The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) as early as possible.
 
 - Five days to ten days in advance for:
   - Training (not at a conference) that costs less than $2,500, including travel
@@ -47,7 +47,7 @@ The review and approval process times vary by the type of request and the layers
   - Highly Attended Events [FY18 GSA Highly Attended Events](https://docs.google.com/document/d/1Q1ZAWkXMte3jHFP0GH9EHzTjiTG3fYe-4WFehiWGbaM/edit)
 - Five to six weeks in advance for:
   - Group Conference Training/Attendance
-  
+
 You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
 
 ## Additional steps that you may need to take
@@ -67,7 +67,7 @@ The SF-182 must be fully approved before any final actions such as paying for re
 
 ### Booking travel
 
-You can start making [Travel Arrangements in Concur](https://handbook.18f.gov/travel-guide-1-book-travel/) (if needed) at any point in the process, even before you've submitted the [Events request form]( https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) if you would like to get an estimate of travel costs.  Most travel reservations will automatically cancel if not approved.  
+You can start making [Travel Arrangements in Concur]({{site.baseurl}}/travel-guide-1-book-travel/) (if needed) at any point in the process, even before you've submitted the [Events request form]( https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) if you would like to get an estimate of travel costs.  Most travel reservations will automatically cancel if not approved.
 
 You are responsible for cancelling all reservations (e.g. flight, hotel, rental car) if your event is not approved.  Always **check the cancellation policy before booking** because you may be responsible for paying the cancellation fee(s).  You can ask questions in [#travel](https://gsa-tts.slack.com/messages/travel/) or during [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
 
@@ -81,7 +81,7 @@ Add your notes about the conference or training to the [TTS Training Database](h
 
 ## Buying books
 
-You can also use your training budget to buy books for self-guided study. Approval for books follows the same process as approvals for trainings. You'll need to fill out the same forms but using the names of the books you want to buy. 
+You can also use your training budget to buy books for self-guided study. Approval for books follows the same process as approvals for trainings. You'll need to fill out the same forms but using the names of the books you want to buy.
 
 ## Hosting non-government speakers
 

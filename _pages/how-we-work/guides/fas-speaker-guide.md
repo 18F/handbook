@@ -1,27 +1,29 @@
 ---
 title: Guidelines for speaking at events
 tag:
-- attend
-- attending
-- speaking
-- speaker
-- events
-- event
-- conference
-- conferences
-- guide
+  - attend
+  - attending
+  - speaking
+  - speaker
+  - events
+  - event
+  - conference
+  - conferences
+  - guide
 ---
 
-*This guide was created with content from the GSA's Office of Strategic Communications (OSC) [FAS Speaker Guide](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit?usp=sharing).*
+_This guide was created with content from the GSA's Office of Strategic Communications (OSC) [FAS Speaker Guide](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit?usp=sharing)._
 
 ## Receiving invitations
 
 Below is the process you'll need to follow when receving an interview or speaking request, even if you're not interested in participating.
 
 ### Media interview requests
+
 If you're contacted by a newspaper, TV station, radio station, podcast, or blog, send the request directly to press@gsa.gov. It’s okay to respond to the sender (cc-ing press@gsa.gov) thanking them for the invite and letting them know that the GSA Press team will handle the request.
 
 ### Other speaking requests
+
 For all requests that are not interviews, forward the invitation to speakers@gsa.gov. This is just for the Outreach team's visibility, and it's not part of the approval process. Invitations that fall in this category include requests to speak at customer events such as an agency’s acquisition conference and/or industry request, conferences, college classes, or anything you’re doing in your official capacity as a GSA employee (where you will be identified as working for GSA).
 
 ## Accepting invitations
@@ -36,7 +38,7 @@ Ask yourself the following questions when considering an invitation:
 - Is there someone else at TTS (or another office) better positioned to speak with authority on this topic?
 - Are there other TTS or GSA representatives already attending who could support this request?
 - Does TTS have anything new to say about the topic?
-- Who is the audience? Not just the organizer,  consider the attendees: Who are they? Is it a diverse audience?
+- Who is the audience? Not just the organizer, consider the attendees: Who are they? Is it a diverse audience?
 - What does the event organizer want/expect? What do we want? Why do we want to speak?
 - What are the top three messages we want to convey?
 - Do I have time to get this approved? (Allow at least 20 days.)
@@ -76,7 +78,7 @@ If you and your supervisor decide this is a good oportunity for yourself and TTS
 - Is there a fee to attend? Is the fee waived for government attendees/speakers?
 - If it is a panel or roundtable: Who are the other participants? Who is the moderator? What questions will be asked?
 
-Once you have determined you have good reasons to speak and have decided to accept the invitation, you have to get approval to participate. If the invitation is for a media interview, work with GSA’s press office to coordinate. If it is for a public speaking engagement — with or without media — all requests to attend a conference, including for GSA-hosted conferences, must go through the [speaker approval process](https://handbook.18f.gov/conferences-events-training/).
+Once you have determined you have good reasons to speak and have decided to accept the invitation, you have to get approval to participate. If the invitation is for a media interview, work with GSA’s press office to coordinate. If it is for a public speaking engagement — with or without media — all requests to attend a conference, including for GSA-hosted conferences, must go through the [speaker approval process]({{site.baseurl}}/conferences-events-training/).
 
 ## Guidelines for speaking in your personal capacity
 

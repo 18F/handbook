@@ -9,13 +9,13 @@ This section provides a brief overview of the types of hiring actions along with
 
 If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page]({{site.baseurl}}/ttsjobs)
 
-To learn about the different hiring authorities we use please visit our [hiring authorities](https://handbook.18f.gov/hiring-authorities/) page.
+To learn about the different hiring authorities we use please visit our [hiring authorities]({{site.baseurl}}/hiring-authorities/) page.
 
 ## Types of hiring actions at TTS
 
 ### Competitive (Career) and Excepted Service hiring actions via the Merit Promotion Process
 
-For more information on hiring via the Competitive Service (Career) Merit Promotion Process or the Excepted Service version of the Merit Promotion Process, please visit the [Promotions](https://handbook.18f.gov/promotions/) page of the handbook.
+For more information on hiring via the Competitive Service (Career) Merit Promotion Process or the Excepted Service version of the Merit Promotion Process, please visit the [Promotions]({{site.baseurl}}/promotions/) page of the handbook.
 
 ### TTS internal competitions and developmental opportunities
 
@@ -29,28 +29,28 @@ Please note:
   - If you do not know how many vacancies your team has, please reach out to the Finance team
 - It must be prioritized by the Director of your office
 
-The hiring action owner is responsible for developing job materials and interacting with applicants (employees). 
+The hiring action owner is responsible for developing job materials and interacting with applicants (employees).
 Talent will assist with the following:
 
 - Reviewing the job announcement
-- Posting the announcement 
-- Submitting the PAR action to HR 
+- Posting the announcement
+- Submitting the PAR action to HR
 
 **Internal Hiring Actions - Best Practices & Recommendations**
 
-- When conducting interviews, you may want to consider building a short [hiring guide](https://docs.google.com/document/d/1JNEMDfUjIpgK5mOl619XVVsxrXn7l9Vzcv-wKOnuwh4/edit) to help ensure that you are covering all of the areas necessary for the role and also to ensure a consistent candidate experience. 
+- When conducting interviews, you may want to consider building a short [hiring guide](https://docs.google.com/document/d/1JNEMDfUjIpgK5mOl619XVVsxrXn7l9Vzcv-wKOnuwh4/edit) to help ensure that you are covering all of the areas necessary for the role and also to ensure a consistent candidate experience.
 - When selecting an internal candidate you will need to have a discussion with their current supervisor regarding the following:
     - If they will allow their employee to leave the team (they are not obligated to say yes)
-    - If yes, what will the release date be (note that the effective date must fall on a [payroll period](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars)) 
+    - If yes, what will the release date be (note that the effective date must fall on a [payroll period](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars))
     - Be aware that the candidate may be on a project and have to finish out/reassign their work so may not be able to start on your team as soon as you’d like.  It is up to their current supervisor when they are willing to let them move to your team.
-- Before moving forward with a selection, Talent recommends conducting internal reference checks. Feel free to refer to [this template](https://docs.google.com/document/d/1QL6711NSv3nsIlN_3Rc7DFk8Apubyy8ugQHAAEWRWgc/edit) for guidance. 
+- Before moving forward with a selection, Talent recommends conducting internal reference checks. Feel free to refer to [this template](https://docs.google.com/document/d/1QL6711NSv3nsIlN_3Rc7DFk8Apubyy8ugQHAAEWRWgc/edit) for guidance.
 
 
 #### Job prep
 
 Use the following templates to prepare the posting (make sure to make a copy of each template):
 
-  - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing) 
+  - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing)
   - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
 
 Once the TTSJobs Announcement is ready, Talent will:
@@ -61,7 +61,7 @@ Once the TTSJobs Announcement is ready, Talent will:
 
 #### Qualification
 
-In addition to the information within the templates, the hiring manager will need to manage the following: 
+In addition to the information within the templates, the hiring manager will need to manage the following:
 
 - Developing the interview process
 - Scheduling interviews

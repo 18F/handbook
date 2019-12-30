@@ -2,7 +2,7 @@
 title: Step 2 - Travel
 ---
 
-[TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
+[TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
 [Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
 [FAQ]({{site.baseurl}}/travel-guide-faq) <br>
 [Back to Step 1: Book Travel]({{site.baseurl}}/travel-guide-1-book-travel) <br>
