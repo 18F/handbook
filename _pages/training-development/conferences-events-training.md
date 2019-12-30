@@ -60,7 +60,7 @@ The automated email that you will receive outlines the step(s) below that you wi
 
 - Start this process by adding this event to your [Individual Development Plan (IDP)](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) in Salesforce and have your supervisor approve.
 - After your IDP is approved by your supervisor, you can then generate a Standard Form 182 (SF-182) in Salesforce.
-- Once you have generated SF-182, you will select your **supervisor**, then **Keith Wilson** as the first approver, and **Dominic Sale** as the second approver (if your estimated costs - including both registration fee and travel - exceed $2,500, you will also need to add **Tricia Sieveke** as a third approver)
+- Once you have generated SF-182, you will select your **supervisor**, then **Keith Wilson** as the first approver, and your TTS Assistant Commissionar, **Dominic Sale** or **Harry Lee**, as the second approver (if your estimated costs - including both registration fee and travel - exceed $2,500, you will also need to add **Karen Link** as a third approver)
 - You will add **Matthew Ryan** as your purchase card holder, then hit the 'submit for approval' button which is located at the bottom of the screen of the SF-182 form.
 
 The SF-182 must be fully approved before any final actions such as paying for registration or approval of travel in Concur can be taken. Once your SF-182 has been fully approved, download a PDF copy and send it to [tts-events@gsa.gov](mailto:tts-events@gsa.gov). Ensure your SF-182 is completed and sent over at least two business days before your registration would need to be completed to give the purchasing team sufficient time to process.
