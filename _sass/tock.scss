@@ -1,0 +1,32 @@
+@media screen and (min-width: 426.66px) {
+  .layout-article-tock img {
+    width: 100%;
+    max-width: 512px;
+    margin-top: 1em;
+    border: 1px solid #eee;
+    display: block;
+  }
+}
+@media screen and (min-width: 568.88px) {
+  .layout-article-tock img {
+    width: 45%;
+  }
+}
+
+@media screen and (min-width: 711.11px) {
+  .layout-article-tock img {
+    width: 56%;
+  }
+}
+
+@media screen and (min-width: 746.66px) {
+  .layout-article-tock img {
+    width: 56%;
+  }
+}
+
+@media screen and (min-width: 853.33px) {
+  .layout-article-tock img {
+    width: 66%;
+  }
+}
