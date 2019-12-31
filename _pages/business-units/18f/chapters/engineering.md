@@ -12,7 +12,7 @@ Our [Engineering Best Practices guide](https://github.com/18F/development-guide#
 
 ### Communication
 
-If you have any questions, find us on Slack in [#dev](https://gsa-tts.slack.com/messages/dev), [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend), [#g-devops](https://gsa-tts.slack.com/messages/g-devops), [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure), [#wg-cybersec](https://gsa-tts.slack.com/messages/wg-cybersec), or [#wg-opensource](https://gsa-tts.slack.com/messages/wg-opensource).
+If you have any questions, find us on Slack in [#dev](https://gsa-tts.slack.com/messages/dev), [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend), [#g-devops](https://gsa-tts.slack.com/messages/g-devops),  [#wg-cybersec](https://gsa-tts.slack.com/messages/wg-cybersec), or [#wg-opensource](https://gsa-tts.slack.com/messages/wg-opensource).
 
 ---
 
