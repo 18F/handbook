@@ -2,7 +2,7 @@
 title: Step 2 - Travel
 ---
 
-[TTS Travel 101](https://handbook.18f.gov/travel-101/) <br>
+[TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
 [Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
 [FAQ]({{site.baseurl}}/travel-guide-faq) <br>
 [Back to Step 1: Book Travel]({{site.baseurl}}/travel-guide-1-book-travel) <br>
@@ -79,6 +79,10 @@ Parking at the airport is only reimbursable when the conditions in the above exa
 #### Laundry expenses
 
 * May only be reimbursable if travel involves at least 4 consecutive nights.
+
+### Remote working guidance
+
+When working from somewhere that isn't your usual duty location, consider [these tips]({{site.baseurl}}/working-while-traveling) to help coworkers and partners plan around your trip.
 
 ### Don't forget about vouchers!
 

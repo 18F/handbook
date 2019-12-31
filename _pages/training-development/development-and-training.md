@@ -72,4 +72,4 @@ The [Virtual Lunch & Learn Series](https://insite.gsa.gov/employee-resources/tra
 * Join the GSA [Training & Development Chatter group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9t0000000H1uQ)
 to stay up-to-date on all the training and development opportunities
 * [Training & Development InSite page](https://insite.gsa.gov/employee-resources/training-and-development/)
-* [Conferences, events, and other professional development trainings](https://handbook.18f.gov/conferences-events-training/)
+* [Conferences, events, and other professional development trainings]({{site.baseurl}}/conferences-events-training/)

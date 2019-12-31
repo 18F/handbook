@@ -116,7 +116,7 @@ navigation:
     - text: Conferences and events
       url: conferences-events-training/
       internal: true
-    - text: Coaching, mentoring and professional development 
+    - text: Coaching, mentoring and professional development
       url: development-and-training
       internal: true
     - text: GitHub 101
@@ -136,7 +136,7 @@ navigation:
       - text: Travel guide (table of contents)
         url: travel-guide-table-of-contents/
         internal: true
-- text: General information and resources    
+- text: General information and resources
   url: about-us/
   internal: true
   generated: true
@@ -172,7 +172,7 @@ navigation:
         internal: true
       - text: Washington, D.C.
         url: washington-dc/
-        internal: true     
+        internal: true
     - text: TTS platforms
       children:
       - text: Cloud.gov
@@ -343,6 +343,9 @@ navigation:
     children:
     - text: Business Operations
       children:
+      - text: Overview of Business Operations
+        url: bizops/
+        internal: true
       - text: Agreements
         url: agreements/
         internal: true
@@ -408,7 +411,7 @@ navigation:
         url: one-on-ones/
         internal: true
       - text: Out of office expectations
-        url: https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit
+        url: leave/#leave-checklist
         internal: false
       - text: Performance Plan (FY19)
         url: 18f-performance-plan/

@@ -69,18 +69,27 @@ Employees must report to work or have leave approved every scheduled work day. L
 
 Should an unforeseen emergency or illness arise requiring the use of leave not previously approved, contact your supervisor no later than two hours after the start of your typical work day to request permission for the absence. Unless other arrangements were made, requests for annual or sick leave must be made on each day of absence. Failure to properly request leave in accordance with this procedure may result in the denial of leave and a charge of absence without leave (AWOL), and may be the basis for disciplinary action. Absence without leave is an absence from duty that is not authorized or approved.
 
+### Leave checklist
 Before taking leave, be sure to:
 
 - Submit leave through [HR Links](https://corporateapps.gsa.gov/hr-links/)
-- Notify your Engagement Manager, Account Manager, or project lead
-- Mark your out of office time on your calendar
+- Notify your supervisor of the dates. Also notify your Engagement Manager, Account Manager, and project lead if applicable.
+- Mark your out of office time on your calendar and any applicable team or project calendars. Remember to set the permissions of the event to "public" so that people can see it's OOO time, rather than just seeing "busy."
 - Tell team members or partners via Slack or email, and make sure work is covered
-- Set up an email autoresponder as appropriate
-- And, for 18F team members:
-    - Submit [correct Tock entries](#time-tracking)
-    - Update your Slack username and profile (ex: `@username, OOO through 6/27`)
-    - Update the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com)
-    - For a more detailed checklist, see [18F Out of Office expectations](https://docs.google.com/document/d/1qgA-vEQ1_t5plPCAs1aCOAjK0RXQzka2hHSVhoa6v5o/edit)
+- Set up an email autoresponder as appropriate. This should include both when you’ll be back and a point of contact/team email for while you’re out. For example: `I am out of the office on Wednesday January 2nd and will respond to your request when I return on Thursday the 3rd. If you need immediate assistance please email 18F-PartnerSolutions@gsa.gov and your request will be directed to the appropriate party.`
+- Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per https://handbook.18f.gov/leave/#retuning-from-leave” on [date you return]`
+
+- 18F team members should also:
+    - Submit [correct Tock entries]({{site.baseurl}}/tock/#tocking-for-out-of-office-time)
+    - Update your Slack username and profile (ex: `@username | OOO until 7/12 | she`)
+    - Create an event on the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com) (TTS Ops uses it to support on-time Tocking)
+    - Decline, cancel, or reschedule any meetings you'll miss
+    - Product chapter members: add an event to the [All Things Product](https://calendar.google.com/calendar/embed?src=gsa.gov_dkgkep8b6fj5ge1s2m0cn4srog%40group.calendar.google.com) calendar.
+
+### Returning from leave
+Upon returning from leave, remember to:
+- Change your Slack name/status back to normal
+- Turn off your email auto-response
 
 ### Annual leave
 
@@ -190,8 +199,8 @@ Adjusting work schedules for religious observances is handled differently than l
 
 ## Time tracking
 
-Whenever you take "leave" — be that vacation time, holiday time, or sick time  — you should log it under the appropriate Out of Office category for your office in Tock. If you are at a training or conference that comes out of your chapter's training budget, log that time under the appropriate "Training and Conferences" line for your office.
+18F employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
 
-[HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock](../tock), which is TTS's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
+[HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock]({{ site.baseurl }}/tock), which is TTS's own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
 
 For more information on leave, see the [Benefits class](../benefits#leave) and the [GSA Tools and Equipment class](../gsa-internal-tools).

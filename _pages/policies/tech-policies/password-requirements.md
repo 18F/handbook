@@ -16,8 +16,8 @@ Password managers approved for work at GSA:
 
 - [**KeePassXC**](https://keepassxc.org/) (Windows/Apple/Linux) - KeePassXC is a free download and open source. The password database is stored locally on your computer, though it's recommended that you [sync it to Google Drive]({{site.baseurl}}/google-drive/#local-editing).
 - Google Sheets is approved as a password management solution.
+- This [ServiceNow KeePass Install KB article](https://gsa.service-now.com/sp/?id=kb_article&sys_id=74524c55dbe067043068fd0d0f961969) describes the process to install KeePassXC on a MAC computer
 
-**1Password**: Please note that 1Password is no longer an approved password manager.
 
 ### 2. Use unique passwords
 
@@ -55,4 +55,4 @@ Or try thinking of a sentence or line from a book, song, speech, poem, or other 
 
 ## Questions?
 
-Ask in Slack: [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure)
+Ask in [#it-issues](https://gsa-tts.slack.com/messages/questions/) or ping [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure)

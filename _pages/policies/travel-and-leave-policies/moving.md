@@ -67,10 +67,26 @@ Part I. Concurring Supervisor
  
 Part J. Concurrences
  * "Supervisor Name": Your Supervisor's supervisor
- * "Office of Human Resource Management (OHRM) Name: Bonnie Hochhalter 
  * No other signatures are required
  
-**For new full-time telework arrangements or when there is a major modification to an existing FTTA:**
+**For the Annual Review when there are one or more major changes to your full-time telework arrangement but there is still an overall cost savings to GSA:**
+
+*Examples of major changes include moving from non-supervisory to supervisory, changing locality pay region, and changing pay grade*
+
+***Note: You can reach out to Keith Wilson to get help gathering this signatures***
+
+Part I. Concurring Supervisor
+ * "Name": Your direct Supervisor
+ 
+Part J. Concurrences
+ * "Supervisor Name": Your Supervisor's supervisor
+ * "Office of Human Resource Management (OHRM) Name: *leave blank* (People Ops will collect this signature)  
+ * "Regional Commissioner (RC), Assistant Commissioner, or equivalent (SES Level) Name": Anil, Harry, or Dom
+ * No other signatures are required
+ 
+* Send form to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) who will be responsible for obtaining the **Office of Human Resource Management** and **Deputy Administrator** signature
+ 
+**For new full-time telework arrangements or when there is a major modification to an existing FTTA that results in a cost burden to GSA:**
 
 ***Note: You can reach out to Keith Wilson to get help gathering this signatures***
 
@@ -85,10 +101,10 @@ Part J. Concurrences
     * EX: 18F, IT Portfolio, login.gov, cloud.gov
   * Roles funded by FSCSF (Sara Twyman)
     * EX: OPP, search.gov
-* "Office of Human Resource Management (OHRM) Name: Bonnie Hochhalter 
+* "Office of Human Resource Management (OHRM) Name: *leave blank* (People Ops will collect this signature) 
 * "Regional Commissioner (RC), Assistant Commissioner, or equivalent (SES Level) Name": Anil, Harry, or Dom
 
-* Send form to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) who will be responsible for obtaining the Deputy Administrator's signature
+* Send form to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) who will be responsible for obtaining the **Office of Human Resource Management** and **Deputy Administrator** signature
   * People Ops sends the FTTAs to the FAS Commissioner’s office (Tricia Sieveke, Karen Link, and Alex Mobeka)
 
 ### Approved FTTAs

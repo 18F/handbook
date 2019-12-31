@@ -6,164 +6,164 @@ tags:
 - getting started
 ---
 
-There's a rule of thumb that says it takes at least three months to understand a new job, 
-and that [your first 90 days](https://randsinrepose.com/archives/ninety-days/) 
+There's a rule of thumb that says it takes at least three months to understand a new job,
+and that [your first 90 days](https://randsinrepose.com/archives/ninety-days/)
 are crucial to understanding just what the heck you're supposed to be doing.
 
-That's probably never more true than when you're working for the federal government, 
-where regulations and [acronyms](https://handbook.18f.gov/glossary/) can quickly become overwhelming. 
-Working here is a lot like learning a language via immersion: 
-the first weeks are likely to be spent trying to thumb through your handbook quickly enough to 
-communicate at all. This can be very frustrating, even for new employees who have worked at other 
+That's probably never more true than when you're working for the federal government,
+where regulations and [acronyms]({{site.baseurl}}/glossary/) can quickly become overwhelming.
+Working here is a lot like learning a language via immersion:
+the first weeks are likely to be spent trying to thumb through your handbook quickly enough to
+communicate at all. This can be very frustrating, even for new employees who have worked at other
 federal agencies!
 
-To help you get past that frustration and contributing as quickly as possible, 
-we try to cover all the bases in [your onboarding courses]({{site.baseurl}}/onboarding-schedule/). 
+To help you get past that frustration and contributing as quickly as possible,
+we try to cover all the bases in [your onboarding courses]({{site.baseurl}}/onboarding-schedule/).
 But we also recognize those are a firehose of information and a lot of stuff won't make much sense right now.
 
-So, here's a guide to help you focus your onboarding efforts and work through some technical tasks that 
-set everyone at TTS up for success. You don't need to know all of this stuff today. 
-Skim it now, then refer back to it over your first 90 days or so as you're ready to absorb more. 
+So, here's a guide to help you focus your onboarding efforts and work through some technical tasks that
+set everyone at TTS up for success. You don't need to know all of this stuff today.
+Skim it now, then refer back to it over your first 90 days or so as you're ready to absorb more.
 Pretty soon you'll be the veteran around here, helping someone else learn these things.
 
 ## Getting started
 
-Within your first week or two you should be working through your onboarding checklist, 
-[onboarding classes]({{site.baseurl}}/onboarding-schedule/) and any 
+Within your first week or two you should be working through your onboarding checklist,
+[onboarding classes]({{site.baseurl}}/onboarding-schedule/) and any
 [OLU training](https://gsaolu.gsa.gov) that's been assigned. If you're not, go take a look at those first.
 
-As you try to understand [TTS and what it's about]({{site.baseurl}}/tts-history/), 
-you may want to take a look at the 
+As you try to understand [TTS and what it's about]({{site.baseurl}}/tts-history/),
+you may want to take a look at the
 [TTS organizational chart](https://docs.google.com/presentation/d/12hw9CcHjpN4hEJAURC9G32BTgoKylT65cE53DYkZbP4/edit#slide=id.g60910ccefb_0_113). 
-Org charts for each office are available in Google drive, too. 
-Here's the [18F org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?ts=5c8b93f9#slide=id.g54b7f7db38_18_0), 
+Org charts for each office are available in Google drive, too.
+Here's the [18F org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?ts=5c8b93f9#slide=id.g54b7f7db38_18_0),
 and here's one for [Solutions](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit#slide=id.g36a90c50d9_0_5).
 
-You'll probably spend quite a bit of time with [the TTS Handbook]({{site.baseurl}}/) --- you're reading it now! 
-The TTS Handbook isn't at all like most organizational handbooks. 
-Where past experience might have you expecting a dry rehashing of PR policies and jargon-heavy mission statements, 
-we've filled our Handbook with useful information that we update regularly --- and you can help update it, too. 
+You'll probably spend quite a bit of time with [the TTS Handbook]({{site.baseurl}}/) --- you're reading it now!
+The TTS Handbook isn't at all like most organizational handbooks.
+Where past experience might have you expecting a dry rehashing of PR policies and jargon-heavy mission statements,
+we've filled our Handbook with useful information that we update regularly --- and you can help update it, too.
 Get in there, poke around, and search a little. It's a treasure trove.
 
-Here's a tip: As you work through your onboarding checklist, 
+Here's a tip: As you work through your onboarding checklist,
 search the handbook for the items in your list. You'll find tons of extra information and context.
 
-Don't underestimate how helpful your teammates will be, either. 
-Talk to them - in Slack, in Google Hangouts, or in person, if you are based in one of our offices. 
-Set up coffees --- just say "Coffee me" in a Slack channel and our CoffeeMate script will pair you up with someone. 
-Don't hesitate to reach out for coffee with someone outside of your area, either. 
+Don't underestimate how helpful your teammates will be, either.
+Talk to them - in Slack, in Google Hangouts, or in person, if you are based in one of our offices.
+Set up coffees --- just say "Coffee me" in a Slack channel and our CoffeeMate script will pair you up with someone.
+Don't hesitate to reach out for coffee with someone outside of your area, either.
 Everyone here is positively brimming with useful information to share.
 
-Remember, this is learning-by-immersion, so as you get invited to things, say "yes" a lot. 
-Say yes to all the video-meetings, [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/) 
-to which you are invited. Listen and ask questions. 
-Tell us if you think we're doing things wrong. 
-Tell us about your pets. Just get in there and get actively involved. 
+Remember, this is learning-by-immersion, so as you get invited to things, say "yes" a lot.
+Say yes to all the video-meetings, [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/)
+to which you are invited. Listen and ask questions.
+Tell us if you think we're doing things wrong.
+Tell us about your pets. Just get in there and get actively involved.
 You can always say "no" later, but right now you can learn a lot by just saying yes.
 
-Remember, you don't need to have any specific expertise to join a guild or working group: 
-just join their Slack channel and start attending their standing meetings. 
+Remember, you don't need to have any specific expertise to join a guild or working group:
+just join their Slack channel and start attending their standing meetings.
 If you need an invite, post a message in the Slack channel or DM whoever organizes the group.
 
 ## Technical considerations
 
-TTS is a technical organization, so even if you're not an engineer you will find yourself in technical environments. 
+TTS is a technical organization, so even if you're not an engineer you will find yourself in technical environments.
 Here are the bits everyone will probably need to know:
 
 ### Github and Version control
-Version control is simply the act of keeping track of a file without having to name it 
-"myfile-10-10-18-final-final-final-approved." 
-Instead of creating a new version of a file for each change, you use a system to keep track of revisions. 
-This is especially important when you're talking about a whole bunch of files working together, like code, or a large multi-page document. 
-In that case, you really need a version control system. 
+Version control is simply the act of keeping track of a file without having to name it
+"myfile-10-10-18-final-final-final-approved."
+Instead of creating a new version of a file for each change, you use a system to keep track of revisions.
+This is especially important when you're talking about a whole bunch of files working together, like code, or a large multi-page document.
+In that case, you really need a version control system.
 Here at TTS, our version control system of choice is GitHub.
 
-Almost everyone at TTS spends some time working with GitHub, whether they're an engineer or not. 
-If this is new to you we suggest you start with our [Intro to Github]({{site.baseurl}}/intro-to-github/). 
-When you're ready to begin using GitHub, the [Handbook repository](https://github.com/18F/handbook) is a great place to practice basics like creating a branch and a pull request. 
-If you see anything in the Handbook that appears out of date or incorrect, you can practice your new pull request skills and help us improve it! 
+Almost everyone at TTS spends some time working with GitHub, whether they're an engineer or not.
+If this is new to you we suggest you start with our [Intro to Github]({{site.baseurl}}/intro-to-github/).
+When you're ready to begin using GitHub, the [Handbook repository](https://github.com/18F/handbook) is a great place to practice basics like creating a branch and a pull request.
+If you see anything in the Handbook that appears out of date or incorrect, you can practice your new pull request skills and help us improve it!
 You can also look through the Handbook issues and fix something.
 
-Remember: you can be fearless. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control. 
+Remember: you can be fearless. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control.
 If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack.com/app_redirect?channel=tts-handbook) Slack channel and someone will quickly help you.
 
 ### Code reviews
 
-We believe you have the power to create the changes you want to see. 
+We believe you have the power to create the changes you want to see.
 Those changes often result in Github pull requests, which need a code review.
 
-Whether you are an engineer or not, sooner or later you can expect to probably take part in a code review, 
+Whether you are an engineer or not, sooner or later you can expect to probably take part in a code review,
 whether that is because of a project you're working on, or maybe your subject matter expertise is relevant.
 
 If pull requests and code reviews feel a bit foreign to you, it
-might be helpful to think of a pull request as sharing a draft Google Doc, 
-and a code review is something like suggesting changes in a shared Doc.  
+might be helpful to think of a pull request as sharing a draft Google Doc,
+and a code review is something like suggesting changes in a shared Doc. 
 In both cases, you're collaboratively trying to reach a final version.
 
-Code reviews don't have to be scary: 
-[the 18F development guide has some great guidance](https://github.com/18F/development-guide/tree/master/code_review#tips-for-a-successful-review) 
-on how to be a good code review partner. 
+Code reviews don't have to be scary:
+[the 18F development guide has some great guidance](https://github.com/18F/development-guide/tree/master/code_review#tips-for-a-successful-review)
+on how to be a good code review partner.
 The main thing to remember is simply to be kind. We're all trying to improve things.
 
 
 ### Setting up your Mac for success
 
-For most people at TTS, sooner or later you'll probably find yourself wanting to work with a 
-project locally on your Mac. 
-We recommend using our [laptop script](https://github.com/18F/laptop#what-it-sets-up) 
+For most people at TTS, sooner or later you'll probably find yourself wanting to work with a
+project locally on your Mac.
+We recommend using our [laptop script](https://github.com/18F/laptop#what-it-sets-up)
 as a quick way to set your Mac up and use our technology stack properly.
 
-If you're not an engineer, it's possible you may not need it, but when you do you'll be glad to know where it is. 
+If you're not an engineer, it's possible you may not need it, but when you do you'll be glad to know where it is.
 Just follow the steps: everything will be set up correctly and you'll minimize weird conflicts and problems later.
 
-If you are an engineer, we understand that your preferences about optimal development environments may differ from the laptop script. 
-In that case, please come talk to us first in the [#dev channel](https://gsa-tts.slack.com/messages/C02CD5VUQ) before setting up your own environment. 
+If you are an engineer, we understand that your preferences about optimal development environments may differ from the laptop script.
+In that case, please come talk to us first in the [#dev channel](https://gsa-tts.slack.com/messages/C02CD5VUQ) before setting up your own environment.
 Maybe you've identified a good way to update the script!
 
-If you are running a project locally, you may also find yourself needing to know 
+If you are running a project locally, you may also find yourself needing to know
 [some basics of the Mac OS X command line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line).
 
-And remember, if you can't figure out how to get it running, that's probably not your fault --- poor documentation is a defect. 
+And remember, if you can't figure out how to get it running, that's probably not your fault --- poor documentation is a defect.
 You can file an issue in the repository or contact one of the project owners or contributors and ask them to update their README and any other relevant documentation.
 
 
 ### Markdown
 
-[Markdown](https://www.markdownguide.org/cheat-sheet/) is probably the most commonly used way to 
-style text at TTS. It's used in Github, in Slack, and in many other systems. 
-If you see things that mostly look like plain text but have some semi-random * and # littered through them, 
+[Markdown](https://www.markdownguide.org/cheat-sheet/) is probably the most commonly used way to
+style text at TTS. It's used in Github, in Slack, and in many other systems.
+If you see things that mostly look like plain text but have some semi-random * and # littered through them,
 that's probably Markdown. It was designed to mimic how one might write a text-only email.
 
-There are quite a few online Markdown editors you can use, but after just a little practice you won't need them. 
-Pro tip: You can open a DM channel with yourself in Slack and use most Markdown in messages to yourself 
-to try it out and see the results. 
-Headers don't work in Slack, but most other Markdown commands do. 
-While you're DM-ing with yourself, you can also click the plus button on the left side of the input box, 
-click "Post", and practice your Markdown in there. 
+There are quite a few online Markdown editors you can use, but after just a little practice you won't need them.
+Pro tip: You can open a DM channel with yourself in Slack and use most Markdown in messages to yourself
+to try it out and see the results.
+Headers don't work in Slack, but most other Markdown commands do.
+While you're DM-ing with yourself, you can also click the plus button on the left side of the input box,
+click "Post", and practice your Markdown in there.
 Slack's posts support more markdown than messages do, and it renders live. Which is pretty neat.
 
 
 ### Security, Compliance, and ATOs
 
-Security and compliance are, unsurprisingly, important issues for TTS. 
-They're also complex topics, and you'll find a lot of people working on them. 
-For an easy introduction into these topics, we suggest you start with 
-[this lightweight primer](https://docs.google.com/presentation/d/1vXZDhEONp-h-zmyCt9wpwscoANouVK4fg5br6Ynzlpk/edit#slide=id.g54fbd835cd_0_25), 
+Security and compliance are, unsurprisingly, important issues for TTS.
+They're also complex topics, and you'll find a lot of people working on them.
+For an easy introduction into these topics, we suggest you start with
+[this lightweight primer](https://docs.google.com/presentation/d/1vXZDhEONp-h-zmyCt9wpwscoANouVK4fg5br6Ynzlpk/edit#slide=id.g54fbd835cd_0_25),
 especially if you haven't worked on information security before. Read the ["Security incidents" page]({{site.baseurl}}/security-incidents/) to learn how to respond if you spot suspicious activity or an incident.
-If you're looking to go into greater detail, 
-18F's [Before You Ship](https://before-you-ship.18f.gov/) guide is definitive and should answer any questions you have, 
-but it can also be a little overwhelming. 
-If you ever need a quick answer, clarification or just general Security and Compliance help, 
-head over to [#wg-security](https://gsa-tts.slack.com/messages/CG8SNAEQM) 
+If you're looking to go into greater detail,
+18F's [Before You Ship](https://before-you-ship.18f.gov/) guide is definitive and should answer any questions you have,
+but it can also be a little overwhelming.
+If you ever need a quick answer, clarification or just general Security and Compliance help,
+head over to [#wg-security](https://gsa-tts.slack.com/messages/CG8SNAEQM)
 or [#wg-compliance](https://gsa-tts.slack.com/messages/C2UUQ5CNP) in Slack.
 
-If you hear "ATO" or "Authority to Operate" and are wondering what that's about, 
-[Before You Ship](https://before-you-ship.18f.gov/) and the Security and Compliance 
+If you hear "ATO" or "Authority to Operate" and are wondering what that's about,
+[Before You Ship](https://before-you-ship.18f.gov/) and the Security and Compliance
 leads can help you out there, too.
 
 You may also be wondering about security clearances. It's not something you need to worry about now.
-If you are in 18F and staffed to a project that needs clearance, 
-your account manager and staffing rep should make sure that any clearance needs are taken into account. 
+If you are in 18F and staffed to a project that needs clearance,
+your account manager and staffing rep should make sure that any clearance needs are taken into account.
 Still, it's never a bad idea to ask if you're wondering.
 
 
@@ -188,10 +188,10 @@ Those are just three of the products TTS is working on, but [there are many more
 
 ## Acquisitions and Procurement
 
-18F alumni Sasha Magee memorably summed up the progression through government digital service [like this](https://twitter.com/sashax/status/941036458307076097):  
-   Year 1: "Why y'all talk about procurement so much? How boring."  
-   Year 2: "Man, procurement's a pain."  
-   Year 3: "We should really consider doing something about procurement"  
+18F alumni Sasha Magee memorably summed up the progression through government digital service [like this](https://twitter.com/sashax/status/941036458307076097):
+   Year 1: "Why y'all talk about procurement so much? How boring."
+   Year 2: "Man, procurement's a pain."
+   Year 3: "We should really consider doing something about procurement"
    Year 4: "Holy crap there's nothing more important than solving procurement!"
 
 You're going to hear a lot about acquisitions and procurement. For a quick dive, [start with this simple introductory presentation](https://docs.google.com/presentation/d/1FjJWwXrTbXexdTGeZKP6OjQ8i5B3GmOAj5MQTF_arLg/edit?disco=AAAADFGLhBo&ts=5cf90ee6&usp_dm=false#slide=id.g4eb21fd7af_0_178).You may also want to view these relevant decks presented during past 18F Team Coffees:
@@ -239,29 +239,29 @@ The short version is that projects are staffed through the [18F Staffing repo](h
 
 ## Our approach to Agile
 
-We are known for our Agile approach to both software development and procurement (sometimes called “modular procurement”). In fact, many of our partners come to us because they want to learn how to “be more Agile.” If you take away nothing else from this page, take this: 
-> Agile is not something you *do*. Agile is something you *are*. 
+We are known for our Agile approach to both software development and procurement (sometimes called “modular procurement”). In fact, many of our partners come to us because they want to learn how to “be more Agile.” If you take away nothing else from this page, take this:
+> Agile is not something you *do*. Agile is something you *are*.
 
 Of course there are many ways to “be Agile,” and everyone at 18F will have their own take. This is great, and we encourage healthy debate about Agile best practices. In order to ensure a consistent experience for our partners, we do ask everyone to adhere to these basic principles:
 
-- Don't worry too much about buzzwords like “SAFe” or “Lean” or “Scrum” or “Kanban.” It’s more important that we adhere to the spirit of Agile, meaning that we employ [iterative and incremental development](https://www.mountaingoatsoftware.com/blog/agile-needs-to-be-both-iterative-and-incremental), we make small bets to decrease risk, we seek to learn as we go, and we pivot when necessary. 
-- A corollary to the above: Don’t confuse specific rituals or artifacts with being agile. Many of our projects adhere to a [typical Scrum-like process or make use of Kanban boards](https://handbook.18f.gov/how-we-collaborate/#project-rituals-and-meetings), but it’s important that we don’t convey to our partners that adherence to these rituals or use of a particular tool is equivalent to “being Agile.” 
-- We want to model an Agile approach for our partners as much as possible, in all of our disciplines. This may mean helping them to build a devOps pipeline to allow for an Agile release schedule, creating rough prototypes and testing them with users before we’re “sure” of an approach, recommending a series of small procurements rather than a single large one, recommending a short experiment around a business process, or even suggesting a major pivot in our strategy. Again: Agile is a way of approaching problem-solving, not a methodology with inflexible boundaries. 
+- Don't worry too much about buzzwords like “SAFe” or “Lean” or “Scrum” or “Kanban.” It’s more important that we adhere to the spirit of Agile, meaning that we employ [iterative and incremental development](https://www.mountaingoatsoftware.com/blog/agile-needs-to-be-both-iterative-and-incremental), we make small bets to decrease risk, we seek to learn as we go, and we pivot when necessary.
+- A corollary to the above: Don’t confuse specific rituals or artifacts with being agile. Many of our projects adhere to a [typical Scrum-like process or make use of Kanban boards]({{site.baseurl}}/how-we-collaborate/#project-rituals-and-meetings), but it’s important that we don’t convey to our partners that adherence to these rituals or use of a particular tool is equivalent to “being Agile.”
+- We want to model an Agile approach for our partners as much as possible, in all of our disciplines. This may mean helping them to build a devOps pipeline to allow for an Agile release schedule, creating rough prototypes and testing them with users before we’re “sure” of an approach, recommending a series of small procurements rather than a single large one, recommending a short experiment around a business process, or even suggesting a major pivot in our strategy. Again: Agile is a way of approaching problem-solving, not a methodology with inflexible boundaries.
 - One caveat: though we believe employing Agile practices is an essential part of delivering high-quality user-centered services to the public, we also recognize that many of the projects we have the privilege of working on play a critical role in people’s daily lives. It may not always be appropriate to “experiment” when it comes to people’s access to critical government services. We always keep this in mind as we work to build our partner’s capacity for more Agile workflows.
 
 
 ## Working with partners
 
-Partners come to 18F because they want help with hard technical problems, often involving creaky legacy systems and processes. We're not going to help them be successful by shoving them out of the way and implementing the "right" way. We will be successful by helping them be successful -- by teaching them repeatable, useful modern development practices that help them fulfill the mission and serve the public. 
+Partners come to 18F because they want help with hard technical problems, often involving creaky legacy systems and processes. We're not going to help them be successful by shoving them out of the way and implementing the "right" way. We will be successful by helping them be successful -- by teaching them repeatable, useful modern development practices that help them fulfill the mission and serve the public.
 
 [Consulting and communicating effectively with partners]({{site.baseurl}}/how-we-relate-to-partners/) is how 18F is successful, and it's how we help our partners be successful, too. You'll also want to read up on [how we collaborate with partners]({{site.baseurl}}/how-we-collaborate/), which includes how we make remote collaboration work, how we model agile practices, and a lot more.
 
 ## Diversity, accessibility, ethics and culture at TTS
-TTS strives to thoughtfully and intentionally represent the broad American populace we serve. We also believe in inclusive design — creating products and environments that are accessible to all people, regardless of age, disability, or other factors. 
+TTS strives to thoughtfully and intentionally represent the broad American populace we serve. We also believe in inclusive design — creating products and environments that are accessible to all people, regardless of age, disability, or other factors.
 
-To that end, we strongly encourage reading over the [Diversity, equity, and inclusion]({{site.baseurl}}/diversity) materials in the handbook, and consider joining the #diversity and #accessibility guilds. 
+To that end, we strongly encourage reading over the [Diversity, equity, and inclusion]({{site.baseurl}}/diversity) materials in the handbook, and consider joining the #diversity and #accessibility guilds.
 
-We also strive to be intentional when interacting with one another and with partners. One useful tip to start with today is to be sure that your location, agency and pronouns are [represented in your Slack profile]({{site.baseurl}}/slack/#rules). 
+We also strive to be intentional when interacting with one another and with partners. One useful tip to start with today is to be sure that your location, agency and pronouns are [represented in your Slack profile]({{site.baseurl}}/slack/#rules).
 
 
 ## Terming out
