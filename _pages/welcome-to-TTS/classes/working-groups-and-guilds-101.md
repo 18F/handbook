@@ -97,6 +97,12 @@ Because working groups are typically trying to solve a problem *right now* and t
           <a href="https://gsa-tts.slack.com/messages/CDVJ9U4K1">#wg-consulting</a>
         </td>
       </tr>
+      <tr>
+        <th class="col-grouplet" id="consulting">Project Health</th>
+        <td class="col-description">Attempting to quantify and measure healthy projects and proactively identify projects early warning signs of unhealthy projects.<br />
+          <a href="https://gsa-tts.slack.com/messages/CDVJ9U4K1">#wg-consulting</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
