@@ -30,9 +30,10 @@ If you're contacted by a journalist or member of the press, please forward the m
 
 The Outreach team has a point person for each of the main business units, and they should be your first point of contact when looking for Outreach services.
 
+- Director - Star Vanamali
 - 18F - Dahianna Salazar Foreman
-- OPP - Andre Francisco
-- PIF - Davar Ardalan
+- Solutions - Kristina Britt
+- PIF - Vacant
 - COE - Andrea Sigritz
 
 You can also reach the whole team at tts-outreach@gsa.gov.
