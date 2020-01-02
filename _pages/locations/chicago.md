@@ -172,4 +172,8 @@ Recycling, including battery recycling, is available on the 2nd floor of our bui
 
 Dollop and Intelligentsia are the current fan favorites for coffee. If you like darker roasts, Lavazza may be up your alley.
 
+## How do people dress?
 
+Feel free to dress how you like! If you wear a T-shirt and jeans, that's fine. Sometimes folks wear hoodies. If someone has a meeting with agency folks, they may dress up more. We care more that you are comfortable and confident as yourself rather than following someone’s particular rules of formality.
+
+We share our Chicago office space with other GSA folks who trend to dress business casual.
