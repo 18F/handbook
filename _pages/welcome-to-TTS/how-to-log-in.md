@@ -48,13 +48,7 @@ You can check your account permissions [here](https://myaccount.google.com/permi
 
 ## VMware Horizon (virtual desktop client) login
 
-VMware is utilized to access your GSA Microsoft Windows desktop. Some government sites can only be accessed through VPN.
-
-- Click on the VMware Horizon icon (on your desktop)
-- Enter horizon.gsa.gov for server
-- Use ENT info for initial VMware Horizon login-in screen
-- Go to [otp.gsa.gov](https://otp.gsa.gov/) (enter ENT) to get Token
-- Enter token back into VMware Horizon login-in screen
+[Instructions.]({{site.baseurl}}/vmware-horizon/)
 
 ## Cisco AnyConnect login
 
