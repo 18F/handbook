@@ -2,6 +2,10 @@
 title: VMWare Horizon
 ---
 
+**VMWare Horizon is being replaced by Citrix VDI.** See [instructions for using Citrix](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/citrix/citrix-and-citrix-workspace).
+
+---
+
 VMware Horizon is a Windows virtual desktop client that can be used to connect to GSA’s intranet, or test something in Internet Explorer.
 
 ## Setup
