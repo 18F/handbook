@@ -1,21 +1,21 @@
 ---
 title: Logging in &amp; Networks
 tags:
-- ent
-- OAuth
-- Logging
-- login
-- access
-- networks
+  - ent
+  - OAuth
+  - Logging
+  - login
+  - access
+  - networks
 ---
 
-This content provides best practices for logging into your various government accounts and apps.  
+This content provides best practices for logging into your various government accounts and apps.
 
 ## ENT (enterprise) login
 
-This is your account for signing into systems administered by GSA, including your email, calendar, and Google Drive.  Your ENT account name is in the form FirstnameMiddleinitialLastname (Ex: JohnASmith).  For guidance on secure passwords, reference this [page]({{site.baseurl}}/password-requirements).
+This is your account for signing into systems administered by GSA, including your email, calendar, and Google Drive. Your ENT account name is in the form FirstnameMiddleinitialLastname (Ex: JohnASmith). For guidance on secure passwords, reference this [page]({{site.baseurl}}/password-requirements).
 
-When you login with ENT while not connected to a GSA wireless network, you will be prompted to select "This is a public computer" or "This is a private computer" (see image below).  You should always select "This is a private computer" unless you are logging in on a computer that's not your government computer or a computer that you personally own (Ex: a library computer).  
+When you login with ENT while not connected to a GSA wireless network, you will be prompted to select "This is a public computer" or "This is a private computer" (see image below). You should always select "This is a private computer" unless you are logging in on a computer that's not your government computer or a computer that you personally own (Ex: a library computer).
 
 ![Ent login screen]({{site.baseurl}}/images/ENTloginsmaller.png)
 
@@ -28,11 +28,13 @@ Locking and unlocking your workstation when you are connected to the network in 
 Detailed ENT password reset instructions can be found [at ServiceNow KB0022142](https://gsa.service-now.com/sp/?id=kb_article&sys_id=32d451afdbe3ea4458c2fd721f961903).
 
 ## Change or reset your Macbook login password
-Users with expiring local passwords (not ENT passwords) will be prompted to change their password and must follow  security requirements. Users may see the following prompt if their password is due to expire within 14 days. I
+
+Users with expiring local passwords (not ENT passwords) will be prompted to change their password and must follow security requirements. Users may see the following prompt if their password is due to expire within 14 days. I
 
 You can change the password that you use to log into your Mac or reset the password by following [ServiceNow KB0024344](https://gsa.service-now.com/sp/?id=kb_article&sys_id=bd3133f7db78d300a54d72131f961906).
 
-Users must follow  security requirements:
+Users must follow security requirements:
+
 1. Password must be changed every 90 days (password aging);
 1. User’s last 24 passwords may not be reused (password history); and
 1. Password changed whenever password is forgotten or compromised, regardless of age.
@@ -40,31 +42,29 @@ Users must follow  security requirements:
 
 ## Logging into apps with your GSA Google account
 
-Applications such as Trello, Zoom, Favro, and Circle.ci can be logged into using your GSA Google account.  Just make sure that you don't grant Google access to anything beyond basic data; "Basic Info" or "Limited Access to Data and Files" are both approved options that are considered basic data.      
+Applications such as Trello, Zoom, Favro, and Circle.ci can be logged into using your GSA Google account. Just make sure that you don't grant Google access to anything beyond basic data; "Basic Info" or "Limited Access to Data and Files" are both approved options that are considered basic data.
 
 You can check your account permissions [here](https://myaccount.google.com/permissions).
 
 ## VMware Horizon (virtual desktop client) login
 
-VMware is utilized to access your GSA Microsoft Windows desktop.  Some government sites can only be accessed through VPN.
+VMware is utilized to access your GSA Microsoft Windows desktop. Some government sites can only be accessed through VPN.
 
-* Click on the VMware Horizon icon (on your desktop)
-* Enter horizon.gsa.gov for server
-* Use ENT info for initial VMware Horizon login-in screen
-* Go to [otp.gsa.gov](https://otp.gsa.gov/) (enter ENT) to get Token
-* Enter token back into VMware Horizon login-in screen
-
+- Click on the VMware Horizon icon (on your desktop)
+- Enter horizon.gsa.gov for server
+- Use ENT info for initial VMware Horizon login-in screen
+- Go to [otp.gsa.gov](https://otp.gsa.gov/) (enter ENT) to get Token
+- Enter token back into VMware Horizon login-in screen
 
 ## Cisco AnyConnect login
 
 AnyConnect is utilized as a GSA VPN client so that you can use a variety of systems that require a VPN directly from your local computer. Go [here]({{site.baseurl}}/anyconnect) for more information on configuring this tool.
 
-
 ## Connecting to GSA networks
 
 To learn how to connect to the GSA network on campus and remotely, take a look at the [GSA Network Connection Guide](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.6hzaqzho5cc3)
 
---------------------------------------------------------------------------------
+---
 
 #### Still have questions?
 
