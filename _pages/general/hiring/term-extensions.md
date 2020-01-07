@@ -4,16 +4,23 @@ title: Term extensions
 
 Many TTS employees are hired on term appointments (under the Schedule A direct hiring authority), which sets a limit of 2 years for the initial period of employment with the option to renew for up to 2 additional years for a maximum term of 4 years.
 
-## Process
+If you don’t know when your term ends, you can find your Not To Exceed (NTE) date by looking in [HR Links](https://corporateapps.gsa.gov/hr-links/). Click on the navigator icon, choose `Navigator`, then `Workforce Administration`, then `Job Information`, then `Employee Request USF`.
+
+## What's the process?
+
+Term renewals are not automatic. They require a lot of thought and deliberation &ndash; and a fair bit of bureacratic process, too.
 
 1. On a quarterly basis, People Ops will reach out to the Director of each office with a list of staff whose 2-year terms are about to end. 
 
-2. Directors will need to provide the following info to People Ops:
+2. Directors will consider individual performance, organizational priorities, position needs, and other factors to determine their recommendation. They will also determine whether you are interested in renewing. Renewals require mutual consent between the individual and the organization to continue.
+
+2. Directors will provide their recommendation to People Ops, along with the following info:
 
     * How long will the employee's term be renewed for? (6 months, 1 year, or 2 years)
-    * Justification (type of work employee does, how billable they are, are they currently on a project, and will they remain billable? if not billable, what work are they doing and why is it necessary?)
+    * Justification (type of work employee does, how billable they are, are they currently on a project, and will they remain billable?
+    * If not billable, what work are they doing and why is it necessary?)
   
-3. People Ops will send the list of renewal requests to TTS Front Office for approval.
+3. People Ops will send the list of renewal requests to the TTS Front Office for approval.
 
 4. If the **decision is to extend**, People Ops will process a Personnel Action Request (PAR) to extend their term. Employment status and benefits will remain the same and no additional action is needed from the employee or their supervisor.
 
@@ -40,12 +47,6 @@ Many TTS employees are hired on term appointments (under the Schedule A direct h
 - HR reviews and confirms the PAR, checking that all information is accurate (employee has another term left, correct extension dates, etc.). HR is not "approving" the extension request at this step of the process. The extension has already been approved; this is just a matter of processing.
 - HR sends the approved PAR to CPC (Consolidated Processing Center in Kansas City, MO) to have it processed.
 - CPC processes the PAR. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in HR Links. They process PARs based on action date, which is why you will not see the updates in HR Links or our internal systems until the extension date.
-
-## Things to note
-
-If you don’t know when your term ends, you can find your Not To Exceed (NTE) date by looking in [HR Links](https://corporateapps.gsa.gov/hr-links/). Click on the navigator icon, choose `Navigator`, then `Workforce Administration`, then `Job Information`, then `Employee Request USF`.
-
-Considerations for renewal include organizational priorities, position needs, and your individual performance to date.
 
 ---
 
