@@ -8,7 +8,7 @@ If you don’t know when your term ends, you can find your Not To Exceed (NTE) d
 
 ## What's the process?
 
-Term renewals are not automatic. They require a lot of thought and deliberation &ndash; and paperwork:
+Term renewals are not automatic. They require a lot of thought and deliberation &ndash; and a fair bit of bureacratic process, too.
 
 1. On a quarterly basis, People Ops will reach out to the Director of each office with a list of staff whose 2-year terms are about to end. 
 
