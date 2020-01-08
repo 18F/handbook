@@ -54,7 +54,7 @@ Before the interviews, create a private Slack channel or DM group for the interv
 ##Making the selection
 
 After completing all the interviews, convene your interview panel one more time to make the selection. You should have consensus. If you don't, listen to the minority voice in the conversation, especially if they're saying "no".
-
+As your going over the candidates, go ahead and fill out the [Talent Selection Spreadsheet](https://docs.google.com/spreadsheets/d/1EN3iLUmmDQ4iX5k-AsDsUPUd_igrEy3BEtlIs5KM59w/edit#gid=0). You'll need it once you've made your selection.
 ###Once you've made your selection:
 
 1.  If you're selecting a supervisor or director, you should let the Chief of Practices and the Talent team know who you've selected. In both cases, most times it's just a courtesy, but if there are any problems with the selection, they can tell you before you proceed. **The Talent team must be notified as soon as possible whenever a person is moving onto a supervisory PD**.
