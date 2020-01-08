@@ -5,7 +5,7 @@ This playbook is intended to capture what we've learned from selecting past 18F 
 
 ##Week one
 
-Create a nomination form in Google Forms. You can [copy an older example](https://docs.google.com/document/d/1LPQo-yuiabmRGxGtIPKbkq5jevDs8WUPvBuLqB5VQA4/edit>) or just create one from scratch. Typically, this form has been very short and simple with just a few pieces of information:
+Create a nomination form in Google Forms. You can [copy an older example](https://docs.google.com/document/d/1LPQo-yuiabmRGxGtIPKbkq5jevDs8WUPvBuLqB5VQA4/edit) or just create one from scratch. Typically, this form has been very short and simple with just a few pieces of information:
 
 * What position are you taking nominations for?
 * When do nominations close?
