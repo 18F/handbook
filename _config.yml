@@ -372,6 +372,9 @@ navigation:
               - text: Social media
                 url: social-media/
                 internal: true
+              - text: Blogging
+                url: blogging/
+                internal: true
       - text: TTS Office of Acquisition
         children:
           - text: Overview of OA
@@ -471,9 +474,6 @@ navigation:
               - text: Before you ship
                 url: https://before-you-ship.18f.gov/infrastructure/aws/
                 internal: false
-              - text: Blogging
-                url: blogging/
-                internal: true
               - text: Doing research at 18F
                 url: research-guidelines/
                 internal: true
