@@ -121,6 +121,53 @@ navigation:
           - text: Travel guide (table of contents)
             url: travel-guide-table-of-contents/
             internal: true
+          - text: Out of office expectations
+            url: leave/#leave-checklist
+            internal: false
+  - text: Performance management
+    blurb: |
+      Annual reviews, self-evaluations and peer feedback. Oh my!
+    children:
+      - children:
+          - text: Performance management
+            url: performance-management
+            internal: true
+  - text: Hiring, staying, or changing jobs
+    blurb: |
+      Everything you need to know about getting a job at TTS,
+      changing jobs at TTS, or leaving TTS.
+    children:
+      - children:
+        - text: Hiring
+          url: hiring/
+          internal: true
+        - text: TTSJobs
+          url: ttsjobs/
+          internal: true
+        - text: Term extensions
+          url: term-extensions/
+          internal: true
+        - text: Assignments and details
+          url: assignee-detail/
+          internal: true
+        - text: Promotions
+          url: promotions/
+          internal: true
+        - text: Leaving TTS
+          url: leaving-tts/
+          internal: true
+        - text: Hiring authorities
+          url: hiring-authorities/
+          internal: true
+        - text: Federal resume guide
+          url: resume
+          internal: true
+        - text: Referring a person
+          url: talent/#referring-a-person
+          internal: false
+        - text: Internal TTS Opportunities
+          url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
+          internal: false      
   - text: General information and resources
     children:
       - children:
@@ -197,9 +244,6 @@ navigation:
               - text: Overtime and comp time
                 url: overtime-and-comp-time/
                 internal: true
-              - text: Performance management
-                url: performance-management
-                internal: true
               - text: Purchase requests
                 url: purchase-requests/
                 internal: true
@@ -222,29 +266,6 @@ navigation:
                     internal: true
               - text: Transit benefit
                 url: transit-benefit/
-                internal: true
-          - text: Hiring, staying, or changing jobs
-            children:
-              - text: Hiring
-                url: hiring/
-                internal: true
-              - text: TTSJobs
-                url: ttsjobs/
-                internal: true
-              - text: Term extensions
-                url: term-extensions/
-                internal: true
-              - text: Assignments and details
-                url: assignee-detail/
-                internal: true
-              - text: Promotions
-                url: promotions/
-                internal: true
-              - text: Leaving TTS
-                url: leaving-tts/
-                internal: true
-              - text: Hiring authorities
-                url: hiring-authorities/
                 internal: true
           - text: Software and tools
             children:
@@ -340,15 +361,6 @@ navigation:
               - text: Talent
                 url: talent/
                 internal: true
-              - text: Federal resume guide
-                url: resume
-                internal: true
-              - text: Refer a person
-                url: https://handbook.18f.gov/talent/#referring-a-person
-                internal: false
-              - text: Internal TTS Opportunities
-                url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
-                internal: false
               - text: Top Secret/Sensitive Compartmented Information (TS/SCI) Clearance
                 url: top-secret/
                 internal: true
@@ -389,9 +401,6 @@ navigation:
               - text: One-on-ones
                 url: one-on-ones/
                 internal: true
-              - text: Out of office expectations
-                url: leave/#leave-checklist
-                internal: false
               - text: Performance Plan (FY19)
                 url: 18f-performance-plan/
                 internal: true
