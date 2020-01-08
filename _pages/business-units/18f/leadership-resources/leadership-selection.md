@@ -59,7 +59,7 @@ As your going over the candidates, go ahead and fill out the [Talent Selection S
 
 ###Once you've made your selection:
 
-1.  If you're selecting a supervisor or director, you should let the Chief of Practices and the Talent team know who you've selected. In both cases, most times it's just a courtesy, but if there are any problems with the selection, they can tell you before you proceed. **The Talent team must be notified as soon as possible whenever a person is moving onto a supervisory PD**.
+1.  If you're selecting a supervisor or director, you should let the Chief of Practices and the Talent team know who you've selected. In both cases, most times it's just a courtesy, but if there are any problems with the selection, they can tell you before you proceed.  Talent is going to want the selection spreadsheet you created. And remember, **the Talent team must be notified as soon as possible whenever a person is moving onto a supervisory PD**.
 
 2.  Notify the people who were not selected.
 
