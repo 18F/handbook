@@ -1,10 +1,10 @@
 GIT
-  remote: https://github.com/18F/uswds-jekyll
-  revision: 209db0007ebe9d44aaf9acea79fbaff9b88539a3
-  ref: refs/pull/182/head
+  remote: https://github.com/18F/uswds-jekyll.git
+  revision: 4fecb4cfa8720ca89ec6973d0510d79831ab9052
+  branch: update-uswds-2.0
   specs:
-    uswds-jekyll (4.2.0)
-      jekyll (>= 3.4, < 5)
+    uswds-jekyll (5.0.0)
+      jekyll (>= 4.0)
 
 GIT
   remote: https://github.com/jekyll/jekyll-sass-converter.git
