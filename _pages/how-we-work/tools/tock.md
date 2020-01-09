@@ -2,7 +2,7 @@
 title: Tock
 ---
 
-## Quick reference for 18F staff
+## Quick reference:
 
 **18F staff should only enter time in the following categories:**
 
@@ -11,30 +11,36 @@ title: Tock
 - **Out of Office - #670:** Vacation time, federal holidays, or sick time
 - **18F Project work - project ID varies:** The specific projects you're working on.
 
+**Cloud.gov:**
+- Tock your usual 40 hours to the cloud.gov P&L (#955) generally unless you’re doing billable work for something in 18F.  More specific Tock instructions for Cloud team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
+
+**Centers of Excellence:**
+- **COE /Non-Billable Hours (Line #1145):** Time spent working on non-project work for COE.
+
 ## What is Tock, and why do we use it?
 
-To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/). You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
+To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/)  that's now used by many of the teams across TTS. You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
 
-18F's business model is based on billing for time logged to a project. Every expense — salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on — is paid for by our billing, which is recorded by each person in Tock.
+Based on our business model, we have to account for time logged to a project. Every expense — salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on — is paid for by our billing, which is recorded by each person in Tock.
 
 We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct partner!
 
 The weekly time reporting period lasts one week, beginning on Sunday and ending on Saturday. You must review and submit your timecard each week by the end of the day (close of business) on Friday. When submitting your timecard, choose the correct week for your entries from the list on the homepage, adjust your Tock entry to reflect what you worked that week, and then submit your timesheet.
 
-Failing to submit your timecard on time prevents operations from running financial reports and creates a lot of work for other people. Please make sure you tock before you end your workday on Friday.  If Friday is a holiday, then you’ll be expected to complete your timecard by the first workday following.
+Failing to submit your timecard on time prevents operations from running financial reports and creates a lot of work for other people. Please make sure you Tock before you end your workday on Friday.  If Friday is a holiday, then you’ll be expected to complete your timecard by the first workday following.
 
 Timecards for the current week should be available no later than Monday at 9AM PST.
 
 ## Tock and HR Links
 
-Tock is a different tool than HR links and is used for a different purpose: 
+Tock is a different tool than HR Links and is used for a different purpose: 
 
 - Tock is an internal 18F tool that tracks our billable hours on projects; we use that data to bill our agency partners. 
-- HR links is a GSA level tool that records how much and what kind of leave (sick, annual, family) an employee takes during a given two-week pay period.
+- HR Links is a GSA-level tool that records how much and what kind of leave (sick, annual, family) an employee takes during a given two-week pay period.
 
-It can be confusing because out of office time IS tracked in tock. But that’s only so we can understand that you weren’t billing to a project because you were out of the office. Leave can only be officially requested via HR links. 
+It can be confusing because out of office time IS tracked in Tock. But that’s only so we can understand that you weren’t billing to a project because you were out of the office. Leave can only be officially requested via HR Links. 
 
-Supervisors approve and submit HR links timesheets every two weeks (during the week following the end of a pay period), and while out of office time in tock should match what’s in the official record of HR links, any emails you receive about timesheet errors are related to HR links, not tock. Forward those to your supervisor for assistance.
+Supervisors approve and submit HR Links timesheets every two weeks (during the week following the end of a pay period), and while out of office time in Tock should match what’s in the official record of HR Links, any emails you receive about timesheet errors are related to HR Links, not Tock. Forward those to your supervisor for assistance.
 
 ## Creating Tock projects
 
@@ -54,16 +60,16 @@ You **must** bill for the below activities because these are direct costs. This 
 
 - Work that enables project delivery, such as:
     - Any activity that develops skills or knowledge used in project work
-        - Examples: guild meetings, guild work, working groups, project related skill development like reading, studying, googling, or fixing an issue on your project - basically if it applies to your project's work you should bill it
+        - Examples: guild meetings, guild work, working groups, project related skill development like reading, studying, online searches, or fixing an issue on your project - basically if it applies to your project's work you should bill it
     - 1:1 with supervisor/facilitator (both individual and supervisor/facilitator should bill to the project)
-    - Critique groups (bill to whatever project was discussed)
+    - Critique groups
     - When coordinating staffing for projects with a signed IAA, bill to the project you're staffing
 - Project delivery work, such as:
-    - Discipline specific work for a project, i.e. Engineering, Design, Product, or Strategy work
+    - Discipline-specific work for a project, i.e. Engineering, Design, Product, or Strategy work
     - Project team meetings (stand-ups, grooming, planning, retro, and anything else!)
-    - 1:1 with project team members
+    - 1:1s with project team members
     - Client meetings
-    - Travel to client meetings, as well as time spent arranging and getting reimbursement
+    - Travel to client meetings, as well as time spent arranging travel and getting reimbursement
     - Time reading Slack channels about the project
     - Time reading emails about a project
     - Time thinking/brainstorming about project work, even if not in front of your computer
@@ -78,7 +84,7 @@ You must not bill for the following activities because these are indirect costs 
 - [Out of office (Award leave, sick leave, PTO)](../leave/#time-tracking)
 - Conferences and trainings that come out of your chapter's training budget
 - OLU trainings that are not in service of project work
-- Internal organization meetings (All hands, AMAs, Team Coffee, TTS Town Hall)
+- Internal organization meetings (Team Coffees, TTS Town Hall)
 - Business development for new projects (on non-live projects). Developing continuation work plan is okay to bill)
 - Hiring activities, including interviews, resume reviews, stand-ups
 - Performance reviews
@@ -86,13 +92,13 @@ You must not bill for the following activities because these are indirect costs 
 
 ### Weekly Billable Hour Expectations
 
-If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. (Directors and supervisors have different billability expectations.)
+If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. Directors and supervisors have different billability expectations.
 
-That leaves up to 20% of your time to be spent on non-billable work. There are two types of non-billable work, both of which are used to manage the running of 18F itself: GSA-mandated non-billable work and 18F non-billable work.
+That leaves up to 20% of your time to be spent on non-billable work. There are two types of non-billable work, both of which are used to manage the running of TTS and your part of TTS itself: GSA-mandated non-billable work and 18F/CoE/etc. non-billable work.
 
-GSA-mandated non-billable work includes time spent in HRLinks, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers) and so forth. These are the things we don’t have a choice but to spend time on.
+GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers) and so forth. These are the things we don’t have a choice but to spend time on.
 
-18F non-billable work includes time spent on business development and hiring, in guilds and working groups, team coffees, chapter meetings, approved internal projects, business development, conference attendance, training events, and anything else that contributes to the running of 18F as an organization. 
+18F/CoE/PIF non-billable work includes time spent on business development and hiring, in guilds and working groups, team coffees, chapter meetings, approved internal projects, business development, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
 
 However, time within those activities spent discussing a billable project may also be billable. For example, if you're in a 1:1 or guild meeting working through a difficult project issue, that's billable.
 
@@ -110,9 +116,9 @@ Work week | Billable time (minimum hours expected) | Non-billable time (not to e
 
 ### Issues hitting your billable hour target
 
-If you find you don’t have enough work to hit the minimum billable hour target expected of you, first double check that you're billing for all the activities listed above. Make sure to also check with your project lead that there aren’t other tasks you can take on.
+If you find you don’t have enough work to hit the minimum billable hour target expected of you, first double-check that you're billing for all the activities listed above. Make sure to also check with your project lead that there aren’t other tasks you can take on.
 
-If you still find that you don't have enough work to bill to the hour expectation laid out above, **we want to know about it!** Help us get to the bottom of this with you (and prevent this from happening in the future) by reaching out to both your supervisor and the Account Manager on your project, and also copying the 18F Staffing Director outlining where things are at.
+If you still find that you don't have enough work to bill to the hour expectation laid out above, **we want to know about it!** Help us get to the bottom of this with you (and prevent this from happening in the future) by reaching out. For 18F, please reach out to both your supervisor and the Account Manager on your project, and also copying the 18F Director of Projects outlining where things are at.
 
 ### Working more than the minimum hours
 
@@ -120,10 +126,10 @@ Working more than 32 billable hours is just fine! 32 is the minimum. However, we
 
 - Before you work those extra hours, talk to your Account Manager and supervisor to figure out if and how much over 40 you can work. The Account Manager will need to check and then adjust the project's financial accounting.
 - Get your supervisor's approval in writing
-- Request overtime in #tock. The tock admin will adjust the Tock setting to allow for 40+ hours to be recorded
+- Request overtime in #tock. The Tock admin will adjust the Tock setting to allow for 40+ hours to be recorded
 - Work your week!
 - Log total hours in Tock
-- Log total hours in HRLinks. This is where your comp time will be recorded and from where you'll use it for future leave. In HRLinks, you'll also need to navigate to `Request Absence/OT` and make a `Comp time earned` request for the extra hours you worked.
+- Log total hours in HR Links. This is where your comp time will be recorded and from where you'll use it for future leave. In HR Links, you'll also need to navigate to `Request Absence/OT` and make a `Comp time earned` request for the extra hours you worked.
 
 No matter how many hours you work, it is crucial that you accurately report those hours in Tock and receive compensation for that time. Knowing the actual amount of time you work helps us better scope and estimate costs and rates.
 
@@ -137,11 +143,11 @@ In short, we need to know if our scoping is accurate. We'd rather be over budget
 
 ### Tocking for Out of Office Time
 
-You cannot request paid time off in tock (see the [Leave](../leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly tock. Staff should tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office. 
+You cannot request paid time off in Tock (see the [Leave](../leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly Tock. Staff should Tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to Tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office. 
 
-If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your tock hours for you during your out of office period. Example:
+If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your Tock hours for you during your out of office period. Example:
 
-“I will be out of the office from Monday September 16th through Monday September 23rd; Can you enter me as 40 hours OOO for the 16th-20th time period?”
+“I will be out of the office from Monday September 16th through Monday September 23rd; Can you enter me as 40 hours to #67O for the 16th-20th time period?”
 
 
 ## FAQ
