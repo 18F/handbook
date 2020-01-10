@@ -19,7 +19,6 @@ exclude:
   - vendor
 
 styles:
-  - stylesheets/screen.css
 
 scripts:
   - assets/uswds/js/uswds.min.js
