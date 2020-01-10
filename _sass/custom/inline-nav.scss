@@ -1,6 +1,7 @@
 .with-inline-navigation {
-  .usa-layout-docs-main_content {
+  .usa-layout-docs__main {
     position: relative;
+    overflow: visible;
   }
 
   .inline-navigation-wrapper {
@@ -8,32 +9,32 @@
       position: absolute;
       right: 0;
       height: 100%;
-      width: 256px;
+      width: units("card-lg");
     }
   }
 
   .inline-navigation {
-    font-size: 16px;
+    @include typeset;
     background: none;
-    padding: 16px;
+    padding: units(2);
     position: sticky;
     top: 0;
     border: 1px solid #e8e8e8;
-    border-radius: 4px;
-    margin: 0 auto 1.4em;
+    border-radius: radius("lg");
+    margin: 0 auto units(2);
     box-shadow: 0 0 0 2px #fafafa;
     width: 90%;
 
     h1 {
+      @include u-font("heading", "xs");
       letter-spacing: 0;
-      font-size: 16px;
       margin: 0;
-      margin-bottom: 8px;
+      margin-bottom: units(1);
       text-align: left;
     }
 
     ul {
-      margin: 0 0 -4px 0;
+      margin: 0 0 units(-0.5) 0;
       padding: 0;
     }
 
@@ -43,21 +44,21 @@
     }
 
     ul li.h3 {
-      margin-left: 1em;
+      margin-left: units(1.5);
     }
     ul li.h4 {
-      margin-left: 2em;
+      margin-left: units(3);
     }
     ul li.h5 {
-      margin-left: 3em;
+      margin-left: units(5);
     }
 
     li a {
-      padding: 4px;
+      padding: units(0.5);
       display: block;
-      line-height: 1.2em;
+      line-height: lh("body", 2);
       text-decoration: none;
-      border-radius: 3px;
+      border-radius: radius("sm");
     }
 
     li a:hover {
