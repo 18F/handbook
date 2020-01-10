@@ -1,5 +1,6 @@
 ---
 title: Public disclosures of vulnerabilities
+outdated: true 
 ---
 
 When someone in the public alerts you to a potential vulnerability in our systems, you need to act quickly. There are four steps in this process:
