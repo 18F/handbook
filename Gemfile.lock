@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/18F/uswds-jekyll.git
-  revision: 4fecb4cfa8720ca89ec6973d0510d79831ab9052
+  revision: b64496e82620fde77d773a2331e0557274ce0365
   branch: update-uswds-2.0
   specs:
     uswds-jekyll (5.0.0)
@@ -27,7 +27,7 @@ GEM
     ethon (0.12.0)
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
-    ffi (1.11.1)
+    ffi (1.11.3)
     forwardable-extended (2.6.0)
     hash-joiner (0.0.7)
       safe_yaml
@@ -40,7 +40,7 @@ GEM
       typhoeus (~> 1.3)
       yell (~> 2.0)
     http_parser.rb (0.6.0)
-    i18n (1.6.0)
+    i18n (1.8.1)
       concurrent-ruby (~> 1.0)
     jekyll (4.0.0)
       addressable (~> 2.4)
@@ -64,10 +64,9 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.1.5)
-      rb-fsevent (~> 0.9, >= 0.9.4)
-      rb-inotify (~> 0.9, >= 0.9.7)
-      ruby_dep (~> 1.2)
+    listen (3.2.1)
+      rb-fsevent (~> 0.10, >= 0.10.3)
+      rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
     mini_portile2 (2.4.0)
     nokogiri (1.10.4)
@@ -75,15 +74,14 @@ GEM
     parallel (1.17.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.1)
+    public_suffix (4.0.3)
     rainbow (3.0.0)
     rb-fsevent (0.10.3)
-    rb-inotify (0.10.0)
+    rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rouge (3.10.0)
-    ruby_dep (1.5.0)
+    rouge (3.14.0)
     safe_yaml (1.0.5)
-    sassc (2.2.0)
+    sassc (2.2.1)
       ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
