@@ -24,8 +24,8 @@ You can also email [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.go
 
 ## Your clearance obligations
 If you hold a clearance, there are a number of standards of conduct you are expected to follow regarding:
-1. your personal conduct
-2. self-reporting certain personal activities, like foreign travel
+1. your personal conduct, such as following the need-to-know principle.
+2. self-reporting certain personal activities, like foreign travel.
 3. reporting concerns about co-workers.
 The [Center for Development of Security Excellence's guide](https://www.cdse.edu/documents/cdse/Receive_and_Maint_Sct_Clnc.pdf) details these obligations on page 15.
 
