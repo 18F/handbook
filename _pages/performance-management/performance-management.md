@@ -210,7 +210,7 @@ It is critical that all FY19 performance plan evaluations are acknowledged by em
 
 For the FY19 performance review cycle, employees who would like a time off award ***in lieu of cash*** must select their award type preference in HR Links no later than November 14, 2019. If time-off is not indicated in HR Links, then the default will be a cash award.  If you've selected a time off award in previous performance review cycles, this may still be active in HR Links; make sure to delete that selection if you would like to receive the cash individual performance reward instead.
 
-***Note: Award time off must be used within one year of issuance.***
+***Note: Award time off must be used within one year of issuance and does not get paid out (like annual leave) if you leave GSA.***
 
 * HR Links in-depth guide (with screenshots):
   * [HR Links: Time Off Award Preference](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/09/TimeOffAwardPreference_JobAid.pdf)
