@@ -14,15 +14,15 @@
   }
 
   .inline-navigation {
-    @include typeset;
+    @include typeset("body", "2xs", 4);
     background: none;
     padding: units(2);
     position: sticky;
-    top: 0;
-    border: 1px solid #e8e8e8;
+    top: units(1);
+    border: units(1px) solid color("gray-5");
     border-radius: radius("lg");
     margin: 0 auto units(2);
-    box-shadow: 0 0 0 2px #fafafa;
+    box-shadow: 0 0 0 units(2px) color("gray-2");
     width: 90%;
 
     h1 {
