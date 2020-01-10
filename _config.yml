@@ -123,7 +123,7 @@ navigation:
             internal: true
           - text: Out of office expectations
             url: leave/#leave-checklist
-            internal: false
+            internal: true
   - text: Performance management
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
@@ -164,7 +164,7 @@ navigation:
           internal: true
         - text: Referring a person
           url: talent/#referring-a-person
-          internal: false
+          internal: true
         - text: Internal TTS Opportunities
           url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
           internal: false      
@@ -397,7 +397,7 @@ navigation:
             children:
               - text: Time tracking and billing
                 url: tock/#time-tracking-and-billing
-                internal: false
+                internal: true
               - text: How we staff projects
                 url: staffing-projects/
                 internal: true
