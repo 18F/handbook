@@ -14,7 +14,7 @@
   }
 
   .inline-navigation {
-    @include typeset("body", "2xs", 4);
+    @include typeset("body", "xs", 4);
     background: none;
     padding: units(2);
     position: sticky;
