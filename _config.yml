@@ -18,8 +18,6 @@ exclude:
   - go
   - vendor
 
-styles:
-
 scripts:
   - assets/uswds/js/uswds.min.js
   - javascripts/jquery-3.4.1.min.js
