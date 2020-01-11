@@ -2,7 +2,8 @@
   // keep headings and tables from overlapping in-page navigation
   .usa-prose table,
   .usa-prose h2,
-  .usa-prose h3 {
+  .usa-prose h3,
+  .usa-prose h4 {
     max-width: 66%;
   }
 }
