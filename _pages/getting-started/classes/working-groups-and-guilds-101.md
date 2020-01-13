@@ -100,7 +100,13 @@ Because working groups are typically trying to solve a problem *right now* and t
       <tr>
         <th class="col-grouplet" id="consulting">Project Health</th>
         <td class="col-description">Attempting to quantify and measure healthy projects and proactively identify projects early warning signs of unhealthy projects.<br />
-          <a href="https://gsa-tts.slack.com/messages/CDVJ9U4K1">#wg-consulting</a>
+          <a href="https://gsa-tts.slack.com/archives/CQLRCVA4Q">#wg-project-health</a>
+        </td>
+      </tr>
+       <tr>
+        <th class="col-grouplet" id="onboarding">Onboarding</th>
+        <td class="col-description">Improving the first 7, 30 and 90 days for new TTS members.<br />
+          <a href="https://gsa-tts.slack.com/archives/C02E3TK0U">#wg-onboarding</a>
         </td>
       </tr>
     </tbody>
