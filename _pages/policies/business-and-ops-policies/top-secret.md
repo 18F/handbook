@@ -9,7 +9,7 @@ tags:
 Most TTS employees hold moderate risk Public Trust positions. However, for certain projects, partners need TTS employees to have access to classified national security information. These employees need to be granted security clearance eligibility (a.k.a a security clearance) to be able to view this information. This page covers the basics like clearance levels, your clearance status, your clearance obligations, and clearance upgrade requests.
 
 ## Clearance Levels
-There are [three national security clearance levels]((https://en.wikipedia.org/wiki/List_of_U.S._security_clearance_terms)): Confidential, Secret, and Top Secret. Work deemed Critical Sensitive requires a Top Secret clearance. Special Sensitive work requires access to Sensitive Compartmented Information and therefore a Top Secret / Sensitive Comparmented Information (TS/SCI) clearance. When TTS employees need a clearance, it is typically a TS/SCI.
+There are [three national security clearance levels](https://en.wikipedia.org/wiki/List_of_U.S._security_clearance_terms): Confidential, Secret, and Top Secret. Work deemed Critical Sensitive requires a Top Secret clearance. Special Sensitive work requires access to Sensitive Compartmented Information and therefore a Top Secret / Sensitive Compartmented Information (TS/SCI) clearance. When TTS employees need a clearance, it is typically a TS/SCI.
 
 *Note that according to the Department of Defense, Public Trust is a type of position, not clearance level, though GSA refers to it as clearance level. GSA does not issue DoD clearances because it does not create classified information.
 
