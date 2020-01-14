@@ -435,6 +435,9 @@ navigation:
                   - text: Acquisition engagement glossary
                     url: working-on-an-acquisition-engagement/#acquisition-glossary
                     internal: true
+              - text: Microrequests (labs)
+                url: microrequests/
+                internal: true
           - text: 18F chapters
             children:
               - text: Account management
@@ -459,17 +462,6 @@ navigation:
               - text: Strategy
                 url: strategy/
                 internal: true
-          - text: 18F labs
-            children:
-              - text: Writing Lab
-                url: writing-lab/
-                internal: true
-              - text: Design Lab
-                url: https://github.com/18F/design-lab
-                internal: false
-              - text: Dev Lab
-                url: https://gsa-tts.slack.com/messages/CDE5DU7QC/
-                internal: false
           - text: 18F team resources
             children:
               - text: Before you ship
