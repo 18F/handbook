@@ -435,7 +435,7 @@ navigation:
                   - text: Acquisition engagement glossary
                     url: working-on-an-acquisition-engagement/#acquisition-glossary
                     internal: true
-              - text: Microrequests
+              - text: Microrequests (labs)
                 url: microrequests/
                 internal: true
           - text: 18F chapters
