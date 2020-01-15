@@ -30,4 +30,4 @@ Port 940
 
 ## Sandbox
 
-[Coding Standards](http://civicactions.net/content/coding-standards)
+[Coding Standards](../05-engineering/back-end-development/#coding-standards.md)
