@@ -84,7 +84,6 @@ There are aspects of the ScrumMaster role that relieve some traditional PM respo
 
 ### Resources
 
-*   Join the [#retrospecting](https://civicactions.slack.com/messages/retrospecting/) Slack channel:
 *   Check out this retrospective template: [TEMPLATE: Sprint Retrospective (Basic)](https://trello.com/b/YEXXigXH/template-sprint-retrospective)
 *   Review this retrospective template: [TEMPLATE: Sprint Retrospective(Grouping Issues)](https://trello.com/b/jG9U4I6l/template-sprint-retrospective-grouping-issues)
 
