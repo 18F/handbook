@@ -1,9 +1,9 @@
 ---
-title: Office of Products and Programs (aka OPP)
+title: Office of Solutions (SOL)
 outdated: true
 ---
 
-Welcome to OPP’s team page!
+Welcome to SOL’s team page!
 
 ## Our Mission and Purpose
 
@@ -25,16 +25,18 @@ We offer cross-government products and programs that help agencies deliver moder
 * [Api.data.gov](https://api.data.gov/): an API management service for agencies
 * [Challenge.gov](https://www.challenge.gov/list/): the official site for federal prize and challenge competitions
 * [CitizenScience.gov](https://www.citizenscience.gov/): a hub for accelerating crowdsourcing and citizen science across the U.S. government
+* [Cloud.gov](https://cloud.gov): helps teams build, run, and authorize cloud-ready or legacy government systems quickly and cheaply
 * [Code.gov](https://code.gov/): a catalog of government developed code
 * [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges
 * [Data.gov](https://www.data.gov/): the home of the U.S. government’s open data
-* [Digital Analytics Program (DAP)](https://www.digitalgov.gov/services/dap/): government-wide analytics tracking for agency websites
+* [Digital Analytics Program (DAP)](https://www.digital.gov/guide/dap/): government-wide analytics tracking for agency websites
 * [DigitalGov](http://www.digitalgov.gov/): a website that provides resources for agencies to create digital services
 * [DigitalGov University (DGU)](http://www.digitalgov.gov/digitalgov-university/): hosts trainings and other events about agencies’ digital efforts.
 * [Emerging Citizen Technology Office (ECTO)](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies
 * [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/): provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services
 * [Go.USA.gov](https://go.usa.gov/): a URL shortening service for government agencies
 * [GobiernoUSA.gov](https://gobierno.usa.gov/): the “front door” to the federal government, offering government information and services by topic (in Spanish)
+* [Login.gov](https://login.gov): offers the public secure and private online access to participating government programs
 * [Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/): a compatibility testing service that agencies can use to test their websites for mobile-friendliness
 * [Search.gov](https://search.gov/): a service that powers search boxes on agency websites
 * [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps
@@ -49,7 +51,7 @@ Check out our [brief history]({{site.baseurl}}/opp-history/) and learn how our w
 
 ## Our Org Structure
 
-[OPP Org chart](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit)
+[SOL Org chart](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit)
 
 ## Contact
 
@@ -57,5 +59,5 @@ To contact a specific project team, please visit the websites listed above.
 
 For TTS Slack users:
 
-* OPP Slack channel: [#opp](https://gsa-tts.slack.com/messages/opp)
-* The [TTS Products and Platforms list](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit) has a direct link to each program’s Slack channel.
+* SOL Slack channel: [#solutions](https://gsa-tts.slack.com/messages/solutions)
+* The [TTS Solutions Services list](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit) has a direct link to each program’s Slack channel.
