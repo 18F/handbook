@@ -48,6 +48,15 @@ You can also be highly effective bolstering the qualitative data being gathered 
 
 Finally, by involving engineers in consulting engagements, we have the opportunity to help set the direction of a project from the beginning. This allows us to have more leverage on big efforts by using small, early, engagements to influence where we put our larger efforts moving forward. This will result in builds that are better focused on solving the problems our partners face.
 
+## Working with your team and partner
+First, keep in mind the principles outlined in [How We Relate to Partners](https://handbook.18f.gov/how-we-relate-to-partners/) and always work with trust, respect, value, and collaboration. As the technical specialist on the team, also realize that people will look to you as the expert in the room and expect you to quickly understand the partner’s problems, land on potential solutions, and to be able to present them in a respectful and helpful manner. 
+
+The classic engineering belief that being super blunt is always the best approach is probably not going to be effective. A little diplomacy is very helpful. That said, trust your instincts and don’t be afraid to gently disagree with the partner.
+
+You’ll also need to respect the diversity of skills and backgrounds on the engagement, both on our side as well as the partner’s side. You may be the only software person the partner engages with, so it’s important to respect and value all the other perspectives you’ll encounter. The problem that a partner describes may not be the one they really need to solve, but it’s the one they experience, so honor that.
+
+Also remember that you’re not doing this alone!  You’ll be able to bounce ideas off others on your engagement team as well as ask for feedback from the engineering chapter [#dev](https://app.slack.com/client/T025AQGAN/C02CD5VUQ).
+
 ## Resources at your fingertips
 On a consulting engagement, you may often find yourself operating on the edges of your expertise or exploring areas that are unfamiliar. That’s OK. You have a pretty robust support net.
 
@@ -71,20 +80,11 @@ Don’t hesitate to call on the Acquisitions, Content and Design Chapters as nee
 
 Also, don’t forget about our portfolio of existing solutions like Cloud.gov, Login.gov, and Federalist who may be able to offer useful services to your partner. If you think they might be able to help, talk to them.
 
-## Working with your team and partner
-First, keep in mind the principles outlined in How We Relate to Partners and always work with trust, respect, value, and collaboration. As the technical specialist on the team, also realize that people will look to you as the expert in the room and expect you to quickly understand the partner’s problems, land on potential solutions, and to be able to present them in a respectful and helpful manner. 
-
-The classic engineering belief that being super blunt is always the best approach is probably not going to be effective. A little diplomacy is very helpful. That said, trust your instincts and don’t be afraid to gently disagree with the partner.
-
-You’ll also need to respect the diversity of skills and backgrounds on the engagement, both on our side as well as the partner’s side. You may be the only software person the partner engages with, so it’s important to respect and value all the other perspectives you’ll encounter. The problem that a partner describes may not be the one they really need to solve, but it’s the one they experience, so honor that.
-
-Also remember that you’re not doing this alone!  You’ll be able to bounce ideas off others on your engagement team as well as ask for feedback from the engineering chapter (#dev in Slack).
-
 ## Keeping your skills sharp
 Because consulting engagements may have relatively few opportunities to code, you may find yourself looking for opportunities to sharpen and expand your skills. If so, some options you might want to look at include:
 
 * Billable projects — Cloud.gov and Login.gov often can use some extra help across a broad range of skill sets. Check their staffing issues.
-* Dev-Lab may have a small (less than 12 hours, usually) project that needs some engineering help
+* [#microrequests](https://app.slack.com/client/T025AQGAN/CNFHBCXDW) may have a small (less than 12 hours, usually) project that needs some engineering help
 * Non-billable projects — talk with your supervisor about pitching in on an internal project like Tock
 * Give a tech talk or participate in some guild efforts
 * Self-study and other professional development opportunities
