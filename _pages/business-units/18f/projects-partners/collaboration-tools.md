@@ -1,5 +1,5 @@
 ---
-title: Collaboration Tools
+title: Collaboration tools
 ---
 
 Collaboration is a critical part of our work and organizational philosophy. There are a variety of tools to support our teams’ collaboration and communication needs.  While some tools are used often within TTS, working with an external partner may necessitate the use of a different tool that’s best for the partner team and their internal IT policies.  
