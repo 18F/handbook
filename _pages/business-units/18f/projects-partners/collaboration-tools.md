@@ -18,7 +18,9 @@ Early in the project, 18F and the partner team should agree upon a basic suite o
 * **Trial and error.** It may take a few cycles to figure out which tools work best for 18F and the partner team. Working through any issues with different tools in a Sprint 0 can be an effective way to set up the remainder of the engagement for success.
 * **Troubleshoot with others.** Ask in Slack to see if your teammates have faced similar challenges. Collectively, we’ve overcome many blockers to collaborate over the years.
 
-If your partner agency is reluctant to use collaboration tools, learn why. Is it a security question? Is there a burdensome technology approval process? Is there another tool already in place to achieve the same goal?  Discovering the root causes to their reluctance may help inform your project and ensure productivity.   
+If your partner agency is reluctant to use collaboration tools, learn why. Is it a security question? Is there a burdensome technology approval process? Is there another tool already in place to achieve the same goal?  Discovering the root causes to their reluctance may help inform your project and ensure productivity. 
+
+Lastly, **don’t wait until the end of an engagement** to think about transitioning documents, code or client accounts from the tools that you use to collaborate. It's important to have a partner-owned account or alternative in order to avoid creating blockers at the end of an engagement.
  
 ## Potential tools
  
@@ -101,9 +103,9 @@ Here are some common barriers to using Drive and some workarounds to try:
 
 <details>
 <summary>Trello alternatives</summary>
-* **Zenhub:** Not recommended from a compliance perspective. No FedRAMP in progress, no GSA IT approval for use of the service. From a user perspective, it’s great that it works within GitHub and provides higher-level scoping and linking (e.g., epics and dependencies) than Jira does.
+* **Zenhub:** Not recommended from a compliance perspective. No FedRAMP in progress, no GSA IT approval for use of the service. From a user perspective, it’s great that it works within GitHub and provides higher-level scoping and linking (e.g., epics and dependencies).
 * **GitHub Projects:** Not recommended from usability/UI perspective, as the interface is basic without the richness of other planning systems or the simplicity of Trello. Compliance/records considerations are the same as for GitHub.
-* **Jira:** The GSA IT Jira instance is not recommended. It’s pretty difficult to grant access to outsiders, and it’s pretty heavyweight and difficult to configure.
+* **Jira:** The GSA IT Jira instance is not recommended. Like Zenhub, it integrates with GitHub and provides higher-level scoping and linking (e.g., epics and dependencies). It’s pretty difficult to grant access to outsiders, and it’s pretty heavyweight and difficult to configure.
 * **Microsoft Azure Devops Boards:** Bundled with Azure, but not within FedRAMP services in scope.
 </details>
 
@@ -112,7 +114,7 @@ Here are some common barriers to using Drive and some workarounds to try:
 
 ### Viewing/scheduling calendars
 
-**[Google Calendar]({{site.baseurl}}/google-calendar/)** is the calendar tool that comes with gmail and G Suite. The Handbook has guidelines and requirements for providing partners with access. 
+**[Google Calendar]({{site.baseurl}}/google-calendar/)** is the calendar tool that comes with gmail and G Suite. [The Handbook]({{site.baseurl}}/sharedcalendars/) has guidelines and requirements for providing partners with access. 
 
 <details>
 <summary>Compliance and records considerations</summary>
@@ -126,12 +128,15 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 
 **[GitHub]({{site.baseurl}}/github/)** is an online code storage and collaboration platform. 18F will create a repository (commonly called a repo) for the project and use it to store both documents and code. By default, 18F’s work with your team on GitHub will be visible to the public. Your 18F team can tell you more about the benefits of working in the open. Teams may also use GitHub, as well as browser add-ons that complement it, to collaboratively track project tasks.
 
-**[Github Wiki](https://help.github.com/articles/about-github-wikis/)** is a section of GitHub that teams use to store supporting documents. Each GitHub repository has its own wiki, and anyone on your team can edit the wiki. A wiki is a good place to store documents that the team will refer back to throughout a project such as design principles, research results, or a project roadmap.
-
 <details>
 <summary>Compliance and records considerations</summary>
 * GitHub is ATO’d for use in GSA and has [a FedRAMP Agency Authorization at the LI-SaaS impact level](https://marketplace.fedramp.gov/#/product/github-enterprise-cloud). GitHub operates their own data centers.
 * All communication in GitHub is considered a record and conforms to GSA’s record management policy.
+</details>
+
+<details>
+<summary>Additional documentation support</summary>
+* **[Github Wiki](https://help.github.com/articles/about-github-wikis/)** is a section of GitHub that some teams use to store supporting documents. Each GitHub repository has its own wiki, and anyone on your team can edit the wiki. A wiki is a good place to store documents that the team will refer back to throughout a project such as design principles, research results, or a project roadmap.
 </details>
 
 ### Remote Whiteboarding
@@ -161,7 +166,7 @@ Here are some recommendations for how to level up our partners' skills:
 * Consider creating a “how we work” document detailing your team conventions (e.g. task labels, how you title a story, etc). It’s a lot easier to remind folks of the process when you have a document to point them to.
  
  
-## Helping partners transition off collaboration tools
+## [Helping partners transition off collaboration tools](#Helping-partners-transition-off-collaboration-tools)
 * **Important!** Don’t wait until the end of a project to think about this!
 * If the partner is using 18F tools during the project, the team should **advise the partner on how to gain access to their own versions** of those tools or comparable alternatives.
 * The TTS Handbook details processes for offboarding partners off our own tools, like Slack ([account removal]({{site.baseurl}}/slack/#offboarding) and [exporting]({{site.baseurl}}/slack/#exporting-channel-contents)), [Github]({{site.baseurl}}/github/#rules), and Google Drive. The Account Manager will facilitate this offboarding, including providing ample warning to the partner.
