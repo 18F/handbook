@@ -25,6 +25,7 @@ This page serves as a central listing for:
 - Hiring actions using the Excepted Service version of the Merit Promotion Process
 - Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
 - Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and local government agencies 
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) slack channel.
 
