@@ -124,7 +124,7 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 ## Change your address
 
-1. If you will be chaning your work location, please email [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) to confirm that the TTS People Ops has created a PAR (Personnel Action Request) for your relocation so that payroll is able to process any pay adjustments in a timely manner. If you are moving within the same work location, please jump to step 2.   
+1. If you are relocating to a different city, where your rate of pay will change, please email [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) to confirm that the TTS People Ops has created a PAR (Personnel Action Request) for your relocation so that payroll is able to process any pay adjustments in a timely manner. If you are moving within the same city (pay does not change), please jump to step 2.   
 
 2. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/05/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).***
 
