@@ -68,7 +68,7 @@ Here are some common barriers to using these tools and some workarounds to try:
 * **BlueJeans**
 </details>
 
-### Sharing Files
+### Sharing files
 
 **[Google Drive]({{site.baseurl}}/google-drive/)** is a storage and collaboration platform for spreadsheets, slide decks, and text documents. Documents on Google Drive are not public, but can be shared among team members. 18F can give your team access to our Google Drive so everyone can collaborate.
 
