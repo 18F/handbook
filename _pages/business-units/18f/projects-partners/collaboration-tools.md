@@ -166,7 +166,7 @@ Here are some recommendations for how to level up our partners' skills:
 * Consider creating a “how we work” document detailing your team conventions (e.g. task labels, how you title a story, etc). It’s a lot easier to remind folks of the process when you have a document to point them to.
  
  
-## [Helping partners transition off collaboration tools](#Helping-partners-transition-off-collaboration-tools)
+## Helping partners transition off collaboration tools
 * **Important!** Don’t wait until the end of a project to think about this!
 * If the partner is using 18F tools during the project, the team should **advise the partner on how to gain access to their own versions** of those tools or comparable alternatives.
 * The TTS Handbook details processes for offboarding partners off our own tools, like Slack ([account removal]({{site.baseurl}}/slack/#offboarding) and [exporting]({{site.baseurl}}/slack/#exporting-channel-contents)), [Github]({{site.baseurl}}/github/#rules), and Google Drive. The Account Manager will facilitate this offboarding, including providing ample warning to the partner.
