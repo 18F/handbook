@@ -32,6 +32,7 @@ Below are potential tools to help your team and partner collaborate.
 
 <details>
 <summary> Compliance and records considerations</summary>
+
 * Slack is ATO’d for use in GSA, and has a FedRAMP Agency Authorization at the [LI-SaaS impact level](https://tailored.fedramp.gov/). Slack operates within the AWS public cloud.
 * All communication in Slack are considered records and conform to GSA’s record management policy.
 </details> 
@@ -42,6 +43,7 @@ Here are some common barriers to using Slack and workarounds to try:
 
 <details>
 <summary>Other instant message services to consider or ask your partner about</summary>
+
 * **Skype:** Skype provides instant messaging and video teleconferencing  capabilities within a partner network.
 * **Google Hangouts Chat:** Google Hangouts Chat is the instant messaging service within the Google G Suite, and typically integrated with Gmail, Calendar, Drive, and Sites. 
 * **Microsoft Teams:** Microsoft Teams provides chat capabilities similar to Slack, with the ability to collaborate around themed channels, direct messaging to multiple individuals, etc.  Microsoft Teams may be the collaborative tool of choice for partners that have adopted Microsoft services. 
@@ -53,6 +55,7 @@ Here are some common barriers to using Slack and workarounds to try:
 
 <details>
 <summary>Compliance and records considerations</summary>
+
 * [Zoom for Government has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/zoom-for-government) Moderate Impact authorized since April 2019. Agencies using the service include GSA, DHS, and Customs and Border protection.
 * [Google G Suite has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/google-g-suite) Moderate Impact authorized since January 2016. Agencies using the service include GSA, DOE, DHS, and others.
 * Recordings of meetings are records and should be treated as such.
@@ -65,6 +68,7 @@ Here are some common barriers to using these tools and some workarounds to try:
 
 <details>
 <summary>Other video teleconferencing services to consider or ask your partner about</summary>
+
 * **Cisco Webex**
 * **Skype**
 * **BlueJeans**
@@ -76,15 +80,18 @@ Here are some common barriers to using these tools and some workarounds to try:
 
 <details>
 <summary>Compliance and records considerations</summary>
+
 * [Google G Suite has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/google-g-suite) Moderate Impact authorized since January 2016. Agencies using the service include GSA, DOE, DHS, and others.
 </details>
 
 Here are some common barriers to using Drive and some workarounds to try:
+
 * **IF** the partner doesn’t have a government Google account, **THEN** create GACA accounts for partners, or share files via services below or via email.
 * **IF** they’re blocked by firewall/security issues, **THEN** try options below.
 
 <details>
 <summary>Other file sharing services to consider or ask your partner about</summary>
+
 * **Microsoft SharePoint:** a browser-based collaboration and documentation management system, similar to Google Drive. Recent releases of SharePoint provide allow teams to rapidly create internal websites (like Google Sites) and collaboratively create and manage content in documents, spreadsheets, and slides.  
 * **[Max.gov](https://portal.max.gov/portal/home):** a government-wide suite of advanced collaboration, information sharing, data collection, publishing, business intelligence, and authentication tools and services used to facilitate cross-government collaboration and knowledge management.
 * **[DOD SAFE](https://safe.apps.mil)**, (Secure Access File Exchange): SAFE is a service to exchange unclassified files that are too large to share via email.  SAFE can handle files up to 8.0 GB.
@@ -97,12 +104,14 @@ Here are some common barriers to using Drive and some workarounds to try:
 
 <details>
 <summary>Compliance and records considerations:</summary>
+
 * GSA Tech Portfolio is working on a FedRAMP application as of January 2020. Members of TTS can use it and will be notified if anything changes.
 * Trello boards should be considered records.
 </details>
 
 <details>
 <summary>Trello alternatives</summary>
+
 * **Zenhub:** Not recommended from a compliance perspective. No FedRAMP in progress, no GSA IT approval for use of the service. From a user perspective, it’s great that it works within GitHub and provides higher-level scoping and linking (e.g., epics and dependencies).
 * **GitHub Projects:** Not recommended from usability/UI perspective, as the interface is basic without the richness of other planning systems or the simplicity of Trello. Compliance/records considerations are the same as for GitHub.
 * **Jira:** The GSA IT Jira instance is not recommended. Like Zenhub, it integrates with GitHub and provides higher-level scoping and linking (e.g., epics and dependencies). It’s pretty difficult to grant access to outsiders, and it’s pretty heavyweight and difficult to configure.
@@ -118,6 +127,7 @@ Here are some common barriers to using Drive and some workarounds to try:
 
 <details>
 <summary>Compliance and records considerations</summary>
+
 * [Google G Suite has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/google-g-suite) Moderate Impact authorized since January 2016. Agencies using the service include GSA, DOE, DHS, and others.
 </details>
 
@@ -130,12 +140,14 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 
 <details>
 <summary>Compliance and records considerations</summary>
+
 * GitHub is ATO’d for use in GSA and has [a FedRAMP Agency Authorization at the LI-SaaS impact level](https://marketplace.fedramp.gov/#/product/github-enterprise-cloud). GitHub operates their own data centers.
 * All communication in GitHub is considered a record and conforms to GSA’s record management policy.
 </details>
 
 <details>
 <summary>Additional documentation support</summary>
+
 * **[Github Wiki](https://help.github.com/articles/about-github-wikis/)** is a section of GitHub that some teams use to store supporting documents. Each GitHub repository has its own wiki, and anyone on your team can edit the wiki. A wiki is a good place to store documents that the team will refer back to throughout a project such as design principles, research results, or a project roadmap.
 </details>
 
@@ -145,6 +157,7 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 
 <details>
 <summary> Compliance and records considerations</summary>
+
 * Mural is hosted on Azure commercial public cloud. It has a GSA ATO but doesn’t have a FedRAMP authorization or anything in process.
 * Mural generally wouldn’t be used to store “records” but instead to organize information for discussion purposes. GSA Records Officer has determined that “this product likely creates a number of record types. However, the specific types of records created will depend on the context in which this product is used.” As such, be sure to export and archive information from Mural periodically.
 * Truly low-impact: Mural shouldn’t be used to store anything confidential or authoritative. Instead, use it  for ephemeral organization of information and production visualizations. Non-GSA participants are invited to use the service anonymously.
@@ -164,7 +177,6 @@ Here are some recommendations for how to level up our partners' skills:
 
 ### Develop shared conventions with your partner
 * Consider creating a “how we work” document detailing your team conventions (e.g. task labels, how you title a story, etc). It’s a lot easier to remind folks of the process when you have a document to point them to.
- 
  
 ## Helping partners transition off collaboration tools
 * **Important!** Don’t wait until the end of a project to think about this!
