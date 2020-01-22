@@ -4,13 +4,13 @@
 
 We have a fairly flat structure, so feel free to contact anyone who you think can answer your question. If that team member cannot, they will direct you to the person who can.
 
-*   Pay-stubs, hiring paperwork, expense reimbursements: Judy Raiten
+*   Pay-stubs, hiring paperwork, expense reimbursements: Office Manager
 *   Technical questions, specific project questions: Owen Barton
 *   HR related concerns or questions: First speak with your manager
 *   Referring New Hires: Grace McKinney
 *   Company Goals: Aaron Pava, Henry Poole
 *   Sales related questions or ideas: Bill Ogilvie, Di Hussey
-*   Marketing related questions or ideas: Aaron Pava, Luke Fretwell
+*   Marketing related questions or ideas: Aaron Pava
 *   Professional development and pro dev stipend: Elizabeth Raley
 *   Time-off, vacation, leave of absence: Your PM first, Elizabeth Raley
 *   Personal, company or client security/compliance questions: Fen Labalme
