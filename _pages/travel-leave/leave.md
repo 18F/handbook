@@ -158,7 +158,7 @@ To donate leave (this process is new as of 8/19/19):
 2. Go to [https://vltp.gsa.gov/](https://vltp.gsa.gov/), and
 3. Follow the system prompts.
 
-If you have any questions, check the GSA IT Alert email sent 8/8/19 with the subject line "Aug. 19: New way to access VLTP" or  contact Lakita Rivero at lakita.rivero@gsa.gov.
+If you have any questions, check the GSA IT Alert email sent 8/8/19 with the subject line "Aug. 19: New way to access VLTP" or  contact Jim Mulvaney at james.mulvaney@gsa.gov.
 
 Also, don’t hesitate to ask in #parental-leave in Slack.
 
