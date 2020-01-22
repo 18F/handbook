@@ -27,7 +27,7 @@ Your access to the EFT form linked above may be restricted, so you should have r
 
 4. **Receive tickets**: E-tickets will be sent to the email address that you provided. Once a reservation is made, you will get a “pending” itinerary, which will be finalized, depending on the airline, no later than 72 hours before departure.
 
-5. **Travel!** And keep receipts-- read on [here]({{site.baseurl}}/travel-guide-2-travel) for more details.
+5. **Travel!** Be sure to keep your receipts. [Read more about travel]({{site.baseurl}}/travel-guide-2-travel).
 
    [_What happens if my flight gets cancelled_]({{site.baseurl}}/first-time-travel-get-in-concur-pre-olu/#what-happens-if-my-flight-gets-cancelled)
 
