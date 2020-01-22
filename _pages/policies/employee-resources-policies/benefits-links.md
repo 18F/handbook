@@ -32,7 +32,7 @@ Contact [Mary Robinson](mailto:marya.robinson@gsa.gov)
 
 ### Leave policies and questions
 
-Contact [Lakita Rivero](mailto:lakita.rivero@gsa.gov) for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
+Contact [Jim Mulvaney](mailto:james.mulvaney@gsa.gov) for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
 ## Support services
 
