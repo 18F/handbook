@@ -126,7 +126,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### Facilitator groups
 
-[#eng-cronus1](https://gsa-tts.slack.com/messages/eng-cronus1), [#eng-chumanjalaal](https://gsa-tts.slack.com/messages/eng-chumanjalaal), [#eng-voyager1](https://gsa-tts.slack.com/messages/eng-voyager1), [#spaceball1](https://gsa-tts.slack.com/messages/spaceball1), [#eng-apollo](https://gsa-tts.slack.com/messages/eng-apollo), [#eng-bellatrix](https://gsa-tts.slack.com/messages/eng-bellatrix), [#eng-eagle5](https://gsa-tts.slack.com/messages/eng-eagle5),
+[#eng-ephemere](https://gsa-tts.slack.com/messages/eng-ephemere), [#eng-chumanjalaal](https://gsa-tts.slack.com/messages/eng-chumanjalaal), [#eng-space-goats](https://gsa-tts.slack.com/messages/eng-space-goats), [#eng-bellatrix](https://gsa-tts.slack.com/messages/eng-bellatrix)
 [#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership).
 
 ### Everything else
