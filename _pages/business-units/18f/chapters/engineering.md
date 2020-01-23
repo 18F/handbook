@@ -73,9 +73,9 @@ See [the org chart]({{site.baseurl}}/org-chart).
 
 ### What is expected of me regarding time tracking and how I spend my time?
 
-The default expectation for 18F engineers is to be committed to a single project full-time, which means 32 hours a week. If you'd like a different arrangement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
+The default expectation for 18F engineers is to be committed to a single project full-time, which means a minimum of 32 hours a week (billing more than 32 hours a week is okay). If you'd like a different arrangement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
 
-Your project commitments should be captured by the [#staffing-resourcing](https://gsa-tts.slack.com/messages/staffing-resourcing/) team. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
+Your project commitments should be captured by the [#18f-staffing](https://gsa-tts.slack.com/messages/18f-staffing/) team. Your remaining time (up to 8 hours) is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill at least 32 hours, please let your facilitator know.
 
 All 18F staff track their time in [Tock](https://tock.18f.gov/). Learn more in the [Tock guide]({{site.baseurl}}/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
 
@@ -83,7 +83,7 @@ All 18F staff track their time in [Tock](https://tock.18f.gov/). Learn more in t
 
 Your facilitator is responsible for making sure you have the right amount and kind of project work. However, you're encouraged to get involved in finding projects you're interested in. To do this:
 
-- Review projects in the [staffing-and-resources repository](https://github.com/18F/staffing-and-resources/issues). The issue threads will have lots of extraneous information, but look for issues tagged with the Engineering chapter. If you find a project you're interested in, comment on the issue or talk to your facilitator.
+- Review projects in the [staffing repository](https://github.com/18F/staffing-and-resources/issues). The issue threads will have lots of extraneous information, but look for issues tagged with the Engineering chapter. If you find a project you're interested in, comment on the issue or talk to your facilitator.
 - Look out for Project Q&A invites in your inbox and on the 18F Events calendar. These sessions get together product/engagement leads from projects in need of engineers. They will give you some information on the project and a chance to ask questions.
 - Talk to your facilitator.
 
