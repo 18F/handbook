@@ -334,6 +334,9 @@ navigation:
               - text: How we staff projects
                 url: staffing-projects/
                 internal: true
+              - text: Account management policy
+                url: client-accounts/
+                internal: true
               - text: One-on-ones
                 url: one-on-ones/
                 internal: true
@@ -375,10 +378,6 @@ navigation:
               - text: Account management
                 url: account-manager/
                 internal: true
-                children:
-                  - text: Account management policy
-                    url: client-accounts/
-                    internal: true
               - text: Acquisition
                 url: acqstack/
                 internal: true
