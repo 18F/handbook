@@ -268,74 +268,6 @@ navigation:
               - text: Transit benefit
                 url: transit-benefit/
                 internal: true
-          - text: Software and tools
-            children:
-              - text: GSA internal tools
-                url: gsa-internal-tools/
-                internal: true
-              - text: Adobe Acrobat and Creative Cloud (CC)
-                url: adobe/
-                internal: true
-              - text: Analytics
-                url: analytics/
-                internal: true
-              - text: AnyConnect (VPN client)
-                url: anyconnect/
-                internal: true
-              - text: DocuSign (digital signatures; replaced eSign)
-                url: digital-signatures/
-                internal: true
-              - text: GitHub (code repos and versioning)
-                url: github/
-                internal: true
-              - text: Gmail
-                url: gmail/
-                internal: true
-              - text: Google Calendar
-                url: google-calendar/
-                internal: true
-              - text: Google Drive
-                url: google-drive/
-                internal: true
-              - text: Google Groups
-                url: google-groups/
-                internal: true
-              - text: Google Meet (video conferencing)
-                url: google-meet/
-                internal: true
-              - text: Meetings and meeting tools
-                url: meetings-and-meeting-tools/
-                internal: true
-              - text: Microsoft Office for OS X
-                url: office/
-                internal: true
-              - text: Mural.ly (collaborative whiteboard tool)
-                url: murally/
-                internal: true
-              - text: Sketch
-                url: sketch/
-                internal: true
-              - text: Slack (chat client)
-                url: slack/
-                internal: true
-              - text: Text editors
-                url: text-editors/
-                internal: true
-              - text: Tock (time tracking)
-                url: tock/
-                internal: true
-              - text: Trello (task and project management)
-                url: trello/
-                internal: true
-              - text: VMware Fusion (hypervisor)
-                url: vmware-fusion/
-                internal: true
-              - text: VMware Horizon (virtual desktop client)
-                url: vmware-horizon/
-                internal: true
-              - text: Zoom (video conferencing)
-                url: zoom/
-                Internal: true
   - text: TTS Offices
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
@@ -519,3 +451,78 @@ navigation:
           - text: PIF Website
             url: https://presidentialinnovationfellows.gov/
             internal: false
+  - text: Software and tools
+    blurb: |
+      A by-no-means complete sampling of commonly used tools around TTS.
+    children:
+      - text: Google Suite
+        children:
+          - text: Gmail
+            url: gmail/
+            internal: true
+          - text: Google Calendar
+            url: google-calendar/
+            internal: true
+          - text: Google Drive
+            url: google-drive/
+            internal: true
+          - text: Google Groups
+            url: google-groups/
+            internal: true
+          - text: Google Meet (video conferencing)
+            url: google-meet/
+            internal: true
+      - text: Communication tools
+        children:
+          - text: Meetings and meeting tools
+            url: meetings-and-meeting-tools/
+            internal: true
+          - text: Slack (chat client)
+            url: slack/
+            internal: true
+          - text: Zoom (video conferencing)
+            url: zoom/
+            Internal: true
+      - text: Network & VPN tools
+        children:
+          - text: AnyConnect (VPN client)
+            url: anyconnect/
+            internal: true
+          - text: VMware Fusion (hypervisor)
+            url: vmware-fusion/
+            internal: true
+          - text: VMware Horizon (virtual desktop client)
+            url: vmware-horizon/
+            internal: true
+      - text: Other tools
+        children:
+          - text: GSA internal tools
+            url: gsa-internal-tools/
+            internal: true
+          - text: Adobe Acrobat and Creative Cloud (CC)
+            url: adobe/
+            internal: true
+          - text: Analytics
+            url: analytics/
+            internal: true
+          - text: DocuSign (digital signatures; replaced eSign)
+            url: digital-signatures/
+            internal: true
+          - text: GitHub (code repos and versioning)
+            url: github/
+            internal: true
+          - text: Mural.ly (collaborative whiteboard tool)
+            url: murally/
+            internal: true
+          - text: Sketch
+            url: sketch/
+            internal: true
+          - text: Text editors
+            url: text-editors/
+            internal: true
+          - text: Tock (time tracking)
+            url: tock/
+            internal: true
+          - text: Trello (task and project management)
+            url: trello/
+            internal: true
