@@ -32,5 +32,5 @@ We want to help them work in new ways and succeed beyond our time together. In c
 - [Consulting the 18F way](https://docs.google.com/presentation/d/1LQOSCf3cHmiVMdVUk5NEjfJP0aIIkeKfYIBzaXuNTFc/edit#): training presentation based on interviews with 18F staff that’s full of great examples and exercises
 - [Collaborating: we don't do this work alone](https://docs.google.com/presentation/d/1Lm4YbE4yfvn5qfMy7oGNCd1w4pUhMl_I-_EVSQWNFPQ/edit#): overview of 18F's approach to collaborating with partners
 - [Introduction to Consulting Foundations](https://docs.google.com/document/d/1it5-GDhOVk3g6mRfW_6_WaiOJzAfylA3umQebmlBDqs/edit#): in-depth exploration of the animating values of good consultants and a framework for thinking about consulting work
-- [Consulting engineering guide](consulting-engineering-guide.md): overview of consulting from an engineer's viewpoint
+- [Consulting engineering guide]({{site.baseurl}}/consulting-engineering-guide/): overview of consulting from an engineer's viewpoint
 - [#wg-consulting](https://slack.com/app_redirect?channel=wg-consulting): an 18F community of practice focused on improving our skills as consultants
