@@ -235,7 +235,7 @@ In a follow-up E&I engagement we, well, experiment and iterate on the findings f
 
 The short version is that projects are staffed through the [18F Staffing repo](https://github.com/18F/staffing/issues), and you can always comment on an issue to express your interest.
 
-## Our approach to Agile
+### Our approach to Agile
 
 We are known for our Agile approach to both software development and procurement (sometimes called “modular procurement”). In fact, many of our partners come to us because they want to learn how to “be more Agile.” If you take away nothing else from this page, take this:
 > Agile is not something you *do*. Agile is something you *are*.
@@ -248,7 +248,7 @@ Of course there are many ways to “be Agile,” and everyone at 18F will have t
 - One caveat: though we believe employing Agile practices is an essential part of delivering high-quality user-centered services to the public, we also recognize that many of the projects we have the privilege of working on play a critical role in people’s daily lives. It may not always be appropriate to “experiment” when it comes to people’s access to critical government services. We always keep this in mind as we work to build our partner’s capacity for more Agile workflows.
 
 
-## Working with partners
+### Working with partners
 
 Partners come to 18F because they want help with hard technical problems, often involving creaky legacy systems and processes. We're not going to help them be successful by shoving them out of the way and implementing the "right" way. We will be successful by helping them be successful -- by teaching them repeatable, useful modern development practices that help them fulfill the mission and serve the public.
 
