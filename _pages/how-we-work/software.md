@@ -20,7 +20,7 @@ If your software is in the Catalog, fill out the rest of the form to request a l
 
 ## Purchase new software
 
-If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), you will need to fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform)by following the steps below:
+If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio requests that you use the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) for a _New Software (consult)_.
 
 ### Step 1: find or get an ATO
 
@@ -30,7 +30,7 @@ If the software you are purchasing has a valid ATO listed in GEAR, then you can 
 
 If the ATO is expired or you cannot find it in GEAR, you can post in the Slack channel [#gsait-shared](https://gsa-tts.slack.com/messages/gsait-shared/) to ask if there is an updated ATO. If there is no ATO or the ATO is expired, you will need to go through the ATO process to ensure your software is approved by security. You can follow these steps to [submit a new software for ATO](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/software-and-applications/software-downloads-and-requests/it-standards). The ATO process can take 4-6 weeks and [costs money](https://docs.google.com/spreadsheets/d/1PokRIGaGl04sxMxEHGwMIRaJDx4OPEXpJ7g69ekDdz8/edit#gid=1451563242z) and there is no guarantee it will be approved. If your need is urgent, try to find something in [GEAR, IT Standards](https://ea.gsa.gov/#!/itstandards) list that is already approved and meets your needs.
 
-### Step 2: use the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) to make a request
+### Step 2: If you haven't already used the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) to get a _New Software (consult)_ please do that before making a request using the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) 
 
 Fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). The TTS SaaS Project Manager will then verify there is an ATO in place for the software. Then, the request will move forward in the review process. It may go through supervisor approval, depending on the request. Next, the SaaS PM will submit the software for FITARA approval. The [Federal IT Acquisition Reform Act (FITARA)](https://management.cio.gov/) is legislation that puts federal agency Chief Information Officers (CIOs) in control of IT investments. This means that the CIO and Chief Technology Officer (CTO) need to give documented approval of an IT purchase to remain compliant with this act. Please ensure that your justification in the Google Form is detailed, so the SaaS PM can use it to request FITARA approval. Finally, the Approving Official will signal their approval.
 
