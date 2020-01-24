@@ -123,7 +123,7 @@ Maybe you've identified a good way to update the script!
 If you are running a project locally, you may also find yourself needing to know
 [some basics of the Mac OS X command line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line).
 
-And remember, if you can't figure out how to get it running, that's probably not your fault --- poor documentation is a defect.
+And remember, if you can't figure out how to get it running, that's probably not your fault --- there is likely something that needs to be updated, and that can be accomplished by fillint out the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) and selecting the option for a _Generic Request_.
 You can file an issue in the repository or contact one of the project owners or contributors and ask them to update their README and any other relevant documentation.
 
 
