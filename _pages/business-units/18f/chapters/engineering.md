@@ -57,7 +57,7 @@ Supervisors are selected through nominations and interviews according to team ne
 
 ### Director
 
-The Director of Engineering is responsible for the Engineering Chapter. The Director represents the chapter on the Senior Management Team of 18F, is responsible for the strategic planning of the chapter including hiring approach, capacity planning, and expanding the impact of the chapter and engineers’ work. The Director guides the work of the Engineering Practices guild (which encompasses backend, frontend, ops, and security) and the diversity, equity, and inclusion (DE&I) leads to ensure alignment with strategy and each other. The Director has as direct reports the Engineering Supervisors, and acts as mentor, coach, and guide to their work. The Director is ultimately responsible for the success of the chapter in the context of the 18F mission and organizational priorities.
+The Director of Engineering is responsible for the Engineering Chapter. The Director represents the chapter on the Senior Management Team of 18F, is responsible for the strategic planning of the chapter including hiring approach, capacity planning, and expanding the impact of the chapter and engineers’ work. The Director guides the work of the Engineering Practices guild (which encompasses backend, frontend, and data) and the diversity, equity, and inclusion (DE&I) leads to ensure alignment with strategy and each other. The Director has as direct reports the Engineering Supervisors, and acts as mentor, coach, and guide to their work. The Director is ultimately responsible for the success of the chapter in the context of the 18F mission and organizational priorities.
 
 The Director was selected through nominations and interviews. While there is no additional compensation for being a director, it’s an opportunity to help make team members’ time at 18F great.
 
@@ -144,4 +144,3 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 Here are some [common tools we use]({{site.baseurl}}/#software-and-tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
 And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. If what you want to use isn’t there, you’ll need to ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
-
