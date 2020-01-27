@@ -57,6 +57,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.2.0)
@@ -100,6 +102,7 @@ DEPENDENCIES
   html-proofer
   jekyll
   jekyll-sass-converter!
+  jekyll-sitemap (~> 1.4)
   json
   uswds-jekyll!
 

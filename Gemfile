@@ -6,6 +6,7 @@ gem 'jekyll'
 gem 'json'
 gem 'hash-joiner'
 gem 'uswds-jekyll', git: 'https://github.com/18F/uswds-jekyll', ref: 'refs/pull/182/head'
+gem "jekyll-sitemap", "~> 1.4"
 
 # workaround to support _pages collection
 # https://github.com/jekyll/jekyll-sass-converter/issues/93#issuecomment-524270623
@@ -14,3 +15,5 @@ gem 'jekyll-sass-converter', git: 'https://github.com/jekyll/jekyll-sass-convert
 group :development do
   gem 'html-proofer'
 end
+
+
