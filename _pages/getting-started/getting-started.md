@@ -71,6 +71,7 @@ TTS is a technical organization, so even if you're not an engineer you will find
 Here are the bits everyone will probably need to know:
 
 ### Github and Version control
+
 Version control is simply the act of keeping track of a file without having to name it
 "myfile-10-10-18-final-final-final-approved."
 Instead of creating a new version of a file for each change, you use a system to keep track of revisions.
@@ -84,26 +85,16 @@ When you're ready to begin using GitHub, the [Handbook repository](https://githu
 If you see anything in the Handbook that appears out of date or incorrect, you can practice your new pull request skills and help us improve it!
 You can also look through the Handbook issues and fix something.
 
-Remember: you can be fearless. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control.
-If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack.com/app_redirect?channel=tts-handbook) Slack channel and someone will quickly help you.
-
-### Code reviews
-
-We believe you have the power to create the changes you want to see.
-Those changes often result in Github pull requests, which need a code review.
-
-Whether you are an engineer or not, sooner or later you can expect to probably take part in a code review,
-whether that is because of a project you're working on, or maybe your subject matter expertise is relevant.
+When you make the changes you want to see and open a pull request, someone will review your code. Alternately, you may very well get pulled into a code review someday because of your expertise in a topic. 
 
 If pull requests and code reviews feel a bit foreign to you, it
-might be helpful to think of a pull request as sharing a draft Google Doc,
-and a code review is something like suggesting changes in a shared Doc. 
+might be helpful to think of it as similart to suggesting changes in a shared Google Doc. 
 In both cases, you're collaboratively trying to reach a final version.
+[The 18F development guide has some great guidance](https://github.com/18F/development-guide/tree/master/code_review#tips-for-a-successful-review)
+on how to be a good code review partner, but the main thing to remember is simply to be kind. We're all trying to improve things.
 
-Code reviews don't have to be scary:
-[the 18F development guide has some great guidance](https://github.com/18F/development-guide/tree/master/code_review#tips-for-a-successful-review)
-on how to be a good code review partner.
-The main thing to remember is simply to be kind. We're all trying to improve things.
+And remember: you can be fearless in your pull requests. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control.
+If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack.com/app_redirect?channel=tts-handbook) Slack channel and someone will quickly help you.
 
 
 ### Setting up your Mac for success
