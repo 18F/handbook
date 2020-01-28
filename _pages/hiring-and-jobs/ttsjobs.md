@@ -37,7 +37,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Monday, December 2nd through Friday March 27th
 
-- [Solutions Director of Business Management](https://www.usajobs.gov/GetJob/ViewDetails/556756100) - open Friday, January 17th through Monday, January 27th
 
 ### Internal only competitions
 
