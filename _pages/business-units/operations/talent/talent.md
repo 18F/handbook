@@ -46,7 +46,7 @@ Candidates should apply to open positions [here](https://join.tts.gsa.gov/).
 * **Talent Acquisition:** We help identify, target, and attract talented, diverse candidates to apply to TTS.
 * **Talent Engagement:** We partner with our hiring managers to execute hiring actions and guide candidates from job preparation through selection.
 * **Talent Analytics and Strategy:** We utilize data to continuously improve the Talent Team’s work-systems and ensure that we are doing so in an agile and sustainable way.
-* **Talent Onboarding:** We are responsible for the development, management, and implementation of the TTS onboarding and knowledge management programs.
+* **Talent Onboarding:** We are responsible for the development, management, and implementation of the TTS Onboarding program.
 
 
 
