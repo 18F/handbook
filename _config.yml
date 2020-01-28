@@ -38,7 +38,8 @@ collections:
   pages:
     output: true
     permalink: /:name/
-
+    
+url: "https://handbook.tts.gsa.gov"
 plugins:
   - jekyll-sitemap
 # Google Analytics & DAP tracking code for handbook
