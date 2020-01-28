@@ -101,7 +101,7 @@ and a code review is something like suggesting changes in a shared Doc. 
 In both cases, you're collaboratively trying to reach a final version.
 
 Code reviews don't have to be scary:
-[the 18F development guide has some great guidance](https://github.com/18F/development-guide/tree/master/code_review#tips-for-a-successful-review)
+[the 18F Engineering Practices Guide has some great guidance](https://engineering.18f.gov/code-review/#tips-for-a-successful-review)
 on how to be a good code review partner.
 The main thing to remember is simply to be kind. We're all trying to improve things.
 
