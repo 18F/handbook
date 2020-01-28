@@ -11,7 +11,7 @@ Find resources on various DEI topics, as well as materials developed for and by 
 Recording, slide deck, and notes from a DEI Brownbag call. Learn more about how to support people at work across the spectrum of neurodiversity.
 
 
-**[Personal Pronouns (ahc recording)](https://zoom.us/rec/play/uMIqc-H7qDM3G93BtgSDAfUsW9W6L_-s23NL-qZZzkmyBSZXNlKnZ7NEauUdfqEXuqatflDK3rQYQsxp?continueMode=true)**
+**[Personal Pronouns (slide deck)](https://docs.google.com/presentation/d/1v0Ak3oAL5ZrxywQUf1hioUe3BY-73IeaV1XNiAhb9UY/edit#slide=id.g4e8e1b223a_0_50)**
 
 
 What are personal pronouns and why do they matter at CivicActions? In this ahc, the DEI team introduces pronouns, gender diversity, and how your use of pronouns contributes to team inclusion. 
