@@ -5,9 +5,9 @@ The Management/Operations Team at CivicActions consists of these members:
 *   Henry Poole, CEO
 *   Aaron Pava, CXO
 *   Bill Ogilvie, VP of Public Sector
-*   Elizabeth Raley, Director of Professional Services
+*   Elizabeth Raley, Chief Operating Officer
 *   Alaine Karoleff, Director of Agile Digital Services
-*   Owen Barton, Director of Engineering
+*   Owen Barton, Chief Technology Officer
 
 ## Purpose and Goals
 
