@@ -3,7 +3,7 @@ title: TTS Technology Portfolio
 navtitle: Tech Portfolio
 ---
 
-The goal of the Tech Portfolio is to oversee/manage/coordinate everything technology-related that cuts across TTS, or anything technology-related that will affect TTS from the outside: particularly security, compliance, infrastructure, and tech policy. We provide all the things that allow you to get your job done, at the highest quality level.
+The goal of the Tech Portfolio is to oversee/manage/coordinate everything technology-related that cuts across TTS, or anything technology related that will affect TTS from the outside: particularly security, compliance, infrastructure, and tech policy. We provide all the things that allow you to get your job done, at the highest quality level.
 
 Rather than trying to exert control over everything technology at TTS, we focus instead on protecting, streamlining, and enabling our staff and systems, and doing so in an empathetic, transparent way. The Tech Portfolio’s work applies to much more than technology; it applies to our entire operation, including how we work inside the law, how we secure our systems, and how we spend money.
 
