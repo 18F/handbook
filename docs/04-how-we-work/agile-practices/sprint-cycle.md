@@ -1,6 +1,5 @@
 # Sprint Cycle
 
-(work in progress)
 
 ## Introduction
 
