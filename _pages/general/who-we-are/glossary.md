@@ -7,7 +7,7 @@ tags:
 - Words
 ---
 
-* **[18F](https://18f.gsa.gov/)** - 18F is a division within TTS. 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships.
+* **[18F](https://18f.gsa.gov/)** - 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships. 18F is an office within TTS.
 
 * **2FA** - Two-factor authentication: entering a second, temporary code in addition to a username and password. 2FA provides added security when logging in to programs, like GitHub, remotely.
 
@@ -28,11 +28,13 @@ tags:
     * Gather all of the information for search to work
     * Trigger emails being sent
 
+* **Clients and Markets** - Clients and Markets is a division within TTS that provides consulting services to government agencies. The TTS communications team is also part of the division. The following offices and teams are part of Clients and Markets: 18F, Centers of Excellence, Client Development, Outreach, and Presidential Innovation Fellows.
+
 * **CMS** - Content Management System. Software for creating, managing, and publishing content.
 
 * **CMS** - Centers for Medicare & Medicaid Services. Agency within Health and Human Services (HHS). One of the Ms is silent.
 
-* **CoEs** – The [Centers of Excellence](https://coe.gsa.gov/) accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by centralizing best practices and expertise. The CoEs are a division within TTS.
+* **CoEs** – The [Centers of Excellence](https://coe.gsa.gov/) accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by centralizing best practices and expertise. The CoEs are an office within TTS.
 
 * **Color of money** - Slang for the legal parameters around how federal money for goods or services can be spent. This usually comes up in the context of inter-agency agreements with other federal agencies. The different “colors” of money include multi-year, no year, or one year money.
 
@@ -72,8 +74,6 @@ tags:
 
 * **IaaS** - Infrastructure as a Service. A service that provides on-demand computing services such as storage. This is the foundation on which organizations can build and maintain cloud services.
 
-* **MOA** - The [Memorandum of Agreement](https://docs.google.com/a/gsa.gov/file/d/0B84F26FpUP0lQU5aWkplWDVtS2M/edit), created between GSA and FAS, established 18F through 2018.
-
 * **MOU** - Memorandum of understanding.
 
 * **OAuth** - Open Authorization. An open standard for authentication and authorization, which allows a user's account information to be used by third-party services without exposing their password.
@@ -84,9 +84,7 @@ tags:
 
 * **OLU** - On-Line University, where our agency's mandatory training classes are hosted.
 
-* **Open source software** - Software that does not charge users a purchase or licensing fee for modifying or redistributing the source code. Anyone can study, change, or distribute the code for any purpose. 18F has an [open source policy](https://github.com/18F/open-source-policy/blob/master/policy.md).
-
-* **OPP** - [Office of Products and Programs](../office-of-products-and-programs/). OPP helps the public use and understand government, and helps agencies understand and serve the public. To achieve this, they create, discover, connect and share practical solutions and products that transform government. OPP is a division within TTS.
+* **Open source software** - Software that does not charge users a purchase or licensing fee for modifying or redistributing the source code. Anyone can study, change, or distribute the code for any purpose.
 
 * **OSC** - Office of Strategic Communications. GSA’s resource for external and internal communication needs. They respond to inquiries from journalists and work closely with the [TTS Outreach]({{site.baseurl}}/outreach/) team.
 
@@ -98,11 +96,13 @@ tags:
 
 * **PD** - Position Description: description of the roles, responsibilities, qualifications, and expectations of an employee in a given position. Often called a job description.
 
-* **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs innovators with top civil servants in the highest levels of the federal government to tackle some of the biggest challenges. PIF is a division within TTS.
+* **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs innovators with top civil servants in the highest levels of the federal government to tackle some of the biggest challenges. PIF is an office within TTS.
 
 * **PII** - personally identifiable information.
 
 * **PRA** - The Paperwork Reduction Act, enacted in 1980, aims to reduce the burden of federally imposed paperwork for U.S. businessess and the public.
+
+* **Product Manager** - Product managers ensure that the right product is built at the right time and for the right people. They establish a product vision and help their teams translate that vision into reality by creating and maintaining product roadmaps, deeply understanding users, technology, and business context, and prioritizing design and development tasks accordingly.
 
 * **Repo** - Repository. A place to store code or data in a central location (such as GitHub).
 
@@ -112,7 +112,9 @@ tags:
 
 * **SME** - Subject Matter Expert. Specialist with expertise in a particular discipline or subject matter.
 
-* **SMT** - Senior Management Team. 18F's shorthand for its management team.
+* **SMT** - Senior Management Team.
+
+* **Solutions** - Solutions is a division within TTS that helps the public use and understand government, and helps agencies understand and serve the public. To achieve this, they create, discover, connect and share practical solutions and products that transform government. The following offices and teams are part of Solutions: 10x, Artificial Intelligence Portfolio, Cloud.gov, Data & Analytics Portfolio, Federalist, Identity Program Management Office, Innovation Portfolio, Login.gov, Public Experience Portfolio (USAGov), Secure Cloud Portfolio, Smarter IT Portfolio, and TTS Tech Portfolio.
 
 * **SOP** - Standard Operating Procedure. Step-by-step instructions to help employees carry out routine operations efficiently and uniformly while maintaining compliance.
 
