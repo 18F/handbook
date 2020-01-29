@@ -46,8 +46,8 @@ If you are a TTS employee and need to request TS/SCI clearance:
 
 ### 2. Email all documents from Step 1 to the [People Ops Team](mailto:TTS-PeopleOps@gsa.gov).
 The People Ops Team will contact GSA HR Classification and work with HR and the Supervisor to create an updated PD. Once the PD is created, People Ops will submit the package to GSA Security and submit a PAR if applicable.
-      * Please note that you can not be placed on this new PD until your security clearance is processed by OPM. You may request a waiver justification to be placed on this PD before the clearance goes through ONLY if your PD is classified as critical sensitive (versus special sensitive)
-      * Waiver justifications must be written by the supervisor and approved by the FAS Commissioner (Alan Thomas)
+   * Please note that you can not be placed on this new PD until your security clearance is processed by OPM. You may request a waiver justification to be placed on this PD before the clearance goes through ONLY if your PD is classified as critical sensitive (versus special sensitive)
+   * Waiver justifications must be written by the supervisor and approved by the FAS Commissioner (Alan Thomas)
 
 ### 3. HR will review all items and submit to Security
 
