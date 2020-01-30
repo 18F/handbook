@@ -177,8 +177,8 @@ navigation:
       - children:
           - text: Who we are
             children:
-              - text: General contacts and listservs
-                url: general-contacts-and-listservs/
+              - text: General contacts
+                url: general-contacts/
                 internal: true
               - text: Working groups and guilds
                 url: working-groups-and-guilds-101/
