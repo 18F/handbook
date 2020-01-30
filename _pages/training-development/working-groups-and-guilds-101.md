@@ -150,7 +150,13 @@ A Community of Practice (CoP) provides for government-wide knowledge-sharing. Th
 
 Digital.gov [hosts the Communities of Practice](http://digital.gov/communities/), including the following:
 
-{% include dg-communities.html %}
+<div class="table-wrapper">
+  <table class="table-existing-grouplets">
+    <tbody>
+      {% include dg-communities.html %}
+    </tbody>
+  </table>
+</div>
 
 
 ## Listservs, Google Groups and mailing lists
