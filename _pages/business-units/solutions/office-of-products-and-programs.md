@@ -1,6 +1,5 @@
 ---
 title: Office of Solutions (SOL)
-outdated: true
 ---
 
 Welcome to SOL’s team page!
@@ -60,4 +59,4 @@ To contact a specific project team, please visit the websites listed above.
 For TTS Slack users:
 
 * SOL Slack channel: [#solutions](https://gsa-tts.slack.com/messages/solutions)
-* The [TTS Solutions Services list](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit) has a direct link to each program’s Slack channel.
+* The [TTS Products and Platforms List](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit) has a direct link to each program’s Slack channel.
