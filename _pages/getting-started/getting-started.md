@@ -90,7 +90,7 @@ When you make the changes you want to see and open a pull request, someone will 
 If pull requests and code reviews feel a bit foreign to you, it
 might be helpful to think of it as similart to suggesting changes in a shared Google Doc. 
 In both cases, you're collaboratively trying to reach a final version.
-[The 18F development guide has some great guidance](https://github.com/18F/development-guide/tree/master/code_review#tips-for-a-successful-review)
+[The 18F Engineering Practices Guide has some great guidance](https://engineering.18f.gov/code-review/#tips-for-a-successful-review)
 on how to be a good code review partner, but the main thing to remember is simply to be kind. We're all trying to improve things.
 
 And remember: you can be fearless in your pull requests. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control.
