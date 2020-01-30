@@ -89,7 +89,7 @@ Most of the design team works on a mix of partner-agency projects and internal i
 
 - **Mailing lists**
   - 18F-xd@gsa.gov is a Google group for all members of the design chapter. Your supervisor is responsible for adding you to this list — no need to worry about registering.
-  - Other mailing lists are listed [here]({{site.baseurl}}/working-groups-and-guilds-101/#listservs).
+  - Other mailing lists are listed [here]({{site.baseurl}}/working-groups-and-guilds-101/).
 
 ### Tools
 
