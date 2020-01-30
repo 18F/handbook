@@ -52,7 +52,6 @@ Most working groups will create a Slack channel to coordinate efforts. These cha
 The [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) can help you find working group meeting times.
 
 
-
 ## Guilds
 Guilds are long-running groups sponsored by the TTS Chief of Staff, and as such are expected to coordinate practices and solve problems across TTS. Because they are cross-TTS structures, their leadership should come from more than one part of TTS and they should provide clear value to a broad cross-section of TTS through training and promotion of best practices in their subject area.
 
@@ -64,12 +63,15 @@ The open Slack channel for guild leaders & other practice leaders who wish to jo
 
 Guild meeting times can also be found on the [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com).
 
-Because guilds are intended to work across TTS, they are coordinated by a group made up of leadership from across TTS. If you hope to create a new Guild, you'll needwhich means creating a new Guild requires taking it to that group for approval. If you'd like to create a new guild, have a talk with your Chief of Staff, Chief of Practices or Deputy Director (again, depending on which part of TTS you're in) and they'll take it to the group for approval. At a minimum, they'll want to know:
+Because guilds are intended to work across TTS, and because they require substantial and ongoing organizational support and investment, they are coordinated by a group made up of leadership from across TTS. If you'd like to create a new guild, you should start by having a talk with your Chief of Staff, Chief of Practices or Deputy Director (again, depending on which part of TTS you're in) and they'll take it to the group for consideration. 
+
+Remember, you're asking for a substantial commitment of organizational resources. At a minimum, they'll want to know:
 
 * How will this guild be beneficial to all of TTS? How does it provide organizational value?
 * Who do you expect to start and lead the guild, and what parts of TTS are they coming from?
 * What does the guild intend to do? What are the expected deliverables?
 * If there are groups working on similar problems, how does the proposed guild differ?
+
 
 ### Current Guilds
 
@@ -155,48 +157,11 @@ Digital.gov [hosts the Communities of Practice](http://digital.gov/communities/)
 
 There are a number of groups that are good for collaborating across government. If any of these topics interest you, consider joining---even if you prefer to lurk. (Consider [filtering messages like these](https://support.google.com/mail/answer/6579?hl=en) so they appear in their own Gmail label.)
 
-#### DevOps Today
-
-**About:** The list aims to promote DevOps practices within government IT organizations, including overcoming the organizational and cultural challenges to effecting change. Run by Peter Burkholder of 18F, with participants from federal, state, and local governments.
-
-**To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe devops-today` in the body.
-
 #### Digital Service
 
 **About:** This listserv is used for cross-team announcements and conversation between USDS HQ, agency digital service teams, 18F etc.
 
 **To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe digitalservice` in the body.
-
-#### Interagency open data working group
-
-**About:** Run by [Project Open Data](https://project-open-data.cio.gov). For people who want to discuss open data policy.
-
-**To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe open-data` in the body.
-
-#### Government APIs
-
-**About:** Provides a safe and open arena for government-focused collaboration and news-sharing for anyone interested in API production, API consumption, open interagency developer collaboration, open data, open content, open CMS projects, and developer outreach.
-
-**To join:** [Apply via Google Groups](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis).
-
-#### Government open source
-
-**About:** Provides a safe and open arena for government-focused collaboration and news-sharing for anyone interested in open source software projects, open source collaboration, licensing, and developer outreach.
-
-**To join:** [Apply via Google Groups](https://groups.google.com/forum/?nomobile=true#!forum/government-open-source).
-
-### Open Source Community of Practice
-**About:** This listserv has been established to expand the opportunities for the open source community to
-communicate with each other beyond events and working groups held by the Code.gov staff
-during the year.
-
-**To join:** Email CODE-subscribe-request@listserv.gsa.gov with no subject or text in the body and it will add you. You should receive a confirmation.
-
-#### Open government
-
-**About:** Provides a safe and welcoming arena for government-focused collaboration and news-sharing around Open Government efforts of the United States government.  Specific topics may include: The Open Government Initiative, The Open Government Plan, Freedom of Information Act efforts, open data projects, and citizen engagement
-
-**To join:** [Apply via Google Groups](https://groups.google.com/forum/?nomobile=true#!forum/us-open-government).
 
 #### GSA Press Clips
 
