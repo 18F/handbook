@@ -37,7 +37,7 @@ Make sure you set the permissions on new documents so that the appropriate peopl
 
 * If another agency employs Google Docs, documents can be shared directly with them.
 
-* If the agency does not currently use Google Drive, agency staff may be able to create a google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en). If Staff aren't able to access that form, that likely means their agency expressly blocks Google Drive. This is especially relevant if you are creating a form that is intended for staff of another agenc (see next bullet).
+* If the agency does not currently use Google Drive, agency staff may be able to create a google account using their work email [by using this form](https://accounts.google.com/SignUpWithoutGmail?hl=en). If Staff aren't able to access that form, that likely means their agency expressly blocks Google Drive. This is especially relevant if you are creating a form that is intended for staff of another agency (see next bullet).
 
 * If you create a Google form that is intended for employees of another agency, keep in mind that in a few agencies, Google Forms are blocked. Among the largest agencies that are known to currently block Forms are: DHS, VA, and EOP. In the case that you intend to involve those agencies in an initiative where a Google Form is being used, it's smart to create a version in another format, like a Word doc or fillable PDF.
 
