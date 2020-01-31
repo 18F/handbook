@@ -41,7 +41,6 @@ Make sure you set the permissions on new documents so that the appropriate peopl
 
 * If you create a Google form that is intended for employees of another agency, keep in mind that in a few agencies, Google Forms are blocked. Among the largest agencies that are known to currently block Forms are: Department of Homeland Security (DHS), Veterans Affairs (VA), and Executive Office of the President (EOP). In the case that you intend to involve those agencies in an initiative where a Google Form is being used, it's smart to create a version in another format, like a Word doc or fillable PDF.
 
-* If the agency does not currently use Google drive, 
 ## Security
 
 If you're using a non-Google service and it requests access to your GSA Google Drive (such as to enable an integration feature), please deny that request. In other words, don't grant OAuth access to GSA Google Drive. Here's an example of what this kind of request might look like:
