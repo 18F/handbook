@@ -88,7 +88,7 @@ You can also look through the Handbook issues and fix something.
 When you make the changes you want to see and open a pull request, someone will review your code. Alternately, you may very well get pulled into a code review someday because of your expertise in a topic. 
 
 If pull requests and code reviews feel a bit foreign to you, it
-might be helpful to think of it as similart to suggesting changes in a shared Google Doc. 
+might be helpful to think of it as similar to suggesting changes in a shared Google Doc. 
 In both cases, you're collaboratively trying to reach a final version.
 [The 18F Engineering Practices Guide has some great guidance](https://engineering.18f.gov/code-review/#tips-for-a-successful-review)
 on how to be a good code review partner, but the main thing to remember is simply to be kind. We're all trying to improve things.
