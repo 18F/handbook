@@ -75,7 +75,7 @@ See [the org chart]({{site.baseurl}}/org-chart).
 
 The default expectation for 18F engineers is to be committed to a single project full-time, which means a minimum of 32 hours a week (billing more than 32 hours a week is okay). If you'd like a different arrangement, for example to work on multiple projects part-time or something else, please speak with your facilitator.
 
-Your project commitments should be captured by the [#18f-staffing](https://gsa-tts.slack.com/messages/18f-staffing/) team. Your remaining time (up to 8 hours) is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill at least 32 hours, please let your facilitator know.
+Your project commitments should be captured by the [#18f-staffing](https://gsa-tts.slack.com/messages/18f-staffing/) team. Your remaining time (up to eight hours) is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill at least 32 hours, please let your facilitator know.
 
 All 18F staff track their time in [Tock](https://tock.18f.gov/). Learn more in the [Tock guide]({{site.baseurl}}/tock/). While cost recovery is an important organizational goal, internal non-billable projects are important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
 
@@ -144,4 +144,3 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 Here are some [common tools we use]({{site.baseurl}}/#software-and-tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
 And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. If what you want to use isn’t there, you’ll need to ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
-
