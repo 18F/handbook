@@ -55,15 +55,17 @@ Don't hesitate to reach out for coffee with someone outside of your area, either
 Everyone here is positively brimming with useful information to share.
 
 Remember, this is learning-by-immersion, so as you get invited to things, say "yes" a lot.
-Say yes to all the video-meetings, [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/)
+Say yes to all the video meetings and [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/)
 to which you are invited. Listen and ask questions.
 Tell us if you think we're doing things wrong.
 Tell us about your pets. Just get in there and get actively involved.
 You can always say "no" later, but right now you can learn a lot by just saying yes.
 
-Remember, you don't need to have any specific expertise to join a guild or working group:
+You don't need to have any specific expertise to join a guild or working group:
 just join their Slack channel and start attending their standing meetings.
-If you need an invite, post a message in the Slack channel or DM whoever organizes the group.
+If you need an invite, post a message in the Slack channel or DM whoever organizes the group (who's often listed in a pinned post in that Slack channel).
+
+If you need support, can't find it here in the Handbook, and don't know where to start, [#questions](https://gsa-tts.slack.com/messages/questions/) is a good Slack channel to drop into if you think multiple people could direct you. But you can absolutely turn to your supervisor and/or lead/functional lead. For 18F folks, there's a bit more detail over here in [Support]({{site.baseurl}}/leading-projects/#support), much of which may also apply to other parts of TTS.
 
 ## Technical considerations
 
