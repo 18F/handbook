@@ -18,16 +18,10 @@ We have a wide range of skills, including:
 
 ## Documentation
 
+- Our [Product Management guide] outlines the major outcomes an 18F product manager drives towards in different phases and elements of our work: discovery, delivering a product, consulting with partners, and coaching partners on product management. 
+ 
 - [18F product guide](https://product-guide.18f.gov/)
 - [Product management knowledge base](https://docs.google.com/document/d/1LfeaTeBCfxAOq5WHMd6ZK-LztcZk6y451hmvz8vGJ7w/edit#)
-
-### Suggested reading
-
-- [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
-- [18F Before You Ship guide](https://before-you-ship.18f.gov/)
-- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://pages.18f.gov/accessibility/)
-- [18F design methods](https://methods.18f.gov/)
-- [18F content guide](https://content-guide.18f.gov/)
 
 ## Communication
 
@@ -35,6 +29,8 @@ Find us on Slack:
 
 - [#product](https://slack.com/app_redirect?channel=product)
 - [#product-training](https://slack.com/app_redirect?channel=product-training)
+
+---
 
 # Joining the Product team
 
@@ -90,3 +86,11 @@ Here are a few particularly useful essentials:
 - **Google Docs, Drive, and Slides:** We often need to collaborate on documents and slide decks, and we do that through Google's productivity apps.
 - **18F templates:** You can get our document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Please don't make major changes to the base templates; start a conversation in [#18f-branding](https://gsa-tts.slack.com/app_redirect?channel=18f-branding) instead!
 - **Mural:** We use [Mural]({{site.baseurl}}/murally/) as a collaborative whiteboard and sticky note tool. It's a particularly useful tool for brainstorming with distributed teams.
+
+### Suggested reading
+
+- [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
+- [18F Before You Ship guide](https://before-you-ship.18f.gov/)
+- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://pages.18f.gov/accessibility/)
+- [18F design methods](https://methods.18f.gov/)
+- [18F content guide](https://content-guide.18f.gov/)
