@@ -236,6 +236,7 @@ The body of the email must include the following:     [See an individual templat
 * Identified budget that will be paying for the trip    [How do I identify my budget?](#who-is-my-authorizing-official-and-what-is-my-budget)
 * Origin and destinations for each individual    [What if I am returning to or traveling from a location other than home?](#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home)
 * Estimated expenses for each individual, including a sufficient budget for local travel and miscellaneous expenses such baggage fees   [How should I estimate my expenses?](#how-should-i-estimate-my-expenses)
+* Include the travel expenses estimator as an image in the body of the email to make the travel approver's life easier.
 
 *_Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official._
 
