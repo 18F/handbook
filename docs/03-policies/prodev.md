@@ -86,15 +86,6 @@ A: Nope. Spend it any way you like. But remember that focusing your efforts duri
     *   Monthly "state of prodev" report
 *   How do we set prodev goals on both an individual and company-wide level?
 
-### The Graveyard
-
-These prodev concepts have been retired or massively changed:
-
-*   Management regularly facilitating prodev trello board reviews - for most, this does not happen anymore.
-    *   Trello board templates for the prodev vision boards will still be available to those that find them useful
-*   Previous confusion about "5% time" being shared between community participation and prodev
-    *   The 5% time allocation is meant for community participation. While community participation and professional development are conceptually intertwined, the 5% time is meant to provide guidance for community participation only. The community participation page has been split off and moved [here](/community-participation.md)
-
 ### Misc Stuff
 
 The target spreadsheet containing all prodev budget requests (fed in from the request form) is located [here](https://docs.google.com/spreadsheets/d/1vPhvHskomF7kBHvVw2WljTqel643SJpdNlyWgwKGaQE/edit#gid=1289927279)
