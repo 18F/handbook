@@ -46,6 +46,8 @@ People use Trello to track ideas from conception through execution. It's common 
 
 - Want to create a bunch of similar cards easily? Make one "template" card and label it clearly. When you want to make a new one, copy that card to the appropriate location. Want to do it quickly? See the "Shortcuts for Trello" Chrome extensions tip below.
 
+- If you are getting a CloudLock warning email referring to Trello, you can remove Trello from your [apps with access to your Google account](https://myaccount.google.com/permissions) to stop them.
+
 ### Chrome extensions
 
 [GSA OCSIO-approved Chrome extensions](https://docs.google.com/spreadsheets/d/178_jEmJgfjbIF4GCKPn0iSPrln-4B3AWBSxq3ivnW4Y/pub) can dramatically increase the usability and functionality of Trello. 
