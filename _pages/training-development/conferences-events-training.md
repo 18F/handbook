@@ -29,6 +29,8 @@ Any media requests (like news or podcast interviews) are a separate process—fo
 
 1. You will receive an automated email when your request has been fully approved and paid for or if additional information is needed to complete your registration. You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
 
+*Important note about conference travel:* If you are traveling to a conference on behalf of a partner who is paying for the travel and the registration and you will be billing the partner for your time, an IDP and SF-182 approval is not needed. Also an SF-182 isn't needed if the conference is NOT deemed a training activity.
+
 ## Approval timelines
 
 The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) as early as possible.
