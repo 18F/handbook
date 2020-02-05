@@ -99,6 +99,7 @@ If they were a partner, the admin will also set their `Downgraded/disabled on` d
 
 Here are the resources used by Slack Admins to track and manage Slack accounts:
 
+* [GSA IT's Slack administration guide](https://docs.google.com/document/d/1ncHqriv2CnsZQ7brrZ3mlLCK_i-XuvW-kRpXb0fP0t4/edit)
 * Subscribe to responses for the following forms ([screen capture](https://cl.ly/03100Y0u2v2i))
   * [New user requests (internal)](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link)
   * [New public user requests (external)](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link)
