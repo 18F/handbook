@@ -2,7 +2,7 @@
 title: Guidance on hosting non-government speakers
 ---
 
-TTS teams, [Guilds]({{site.baseurl}}/working-groups-and-guilds-101/#existing-guilds), and [Working Groups]({{site.baseurl}}/working-groups-and-guilds-101/#existing-wgs) have the opportunity to invite individuals outside of the government to speak to our teams. Guest speakers provide a unique opportunity for federal employees to learn from industry professionals on modern practices. Hearing new perspectives provide employees not only with different points-of-view, but also with knowledge they can apply in their careers at TTS.
+TTS teams, [Guilds]({{site.baseurl}}/working-groups-and-guilds-101/), and [Working Groups]({{site.baseurl}}/working-groups-and-guilds-101/) have the opportunity to invite individuals outside of the government to speak to our teams. Guest speakers provide a unique opportunity for federal employees to learn from industry professionals on modern practices. Hearing new perspectives provide employees not only with different points-of-view, but also with knowledge they can apply in their careers at TTS.
 
 _Unfortunately, we can not compensate guests for their time and are currently working on ways to allocate an honorarium._
 

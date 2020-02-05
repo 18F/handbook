@@ -111,6 +111,9 @@ navigation:
           - text: Coaching, mentoring and professional development
             url: development-and-training
             internal: true
+          - text: Working groups, Guilds, Communities of Practice and mailing lists
+            url: working-groups-and-guilds-101/
+            internal: true
           - text: GitHub 101
             url: intro-to-github/
             internal: true
@@ -177,11 +180,8 @@ navigation:
       - children:
           - text: Who we are
             children:
-              - text: General contacts and listservs
-                url: general-contacts-and-listservs/
-                internal: true
-              - text: Working groups and guilds
-                url: working-groups-and-guilds-101/
+              - text: General contacts
+                url: general-contacts/
                 internal: true
               - text: Glossary
                 url: glossary/
