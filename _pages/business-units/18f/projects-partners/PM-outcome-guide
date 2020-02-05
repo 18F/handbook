@@ -1,0 +1,209 @@
+---
+title: Product Management Outcomes Guide
+tags:
+- product
+- product guide
+- product manager
+- **product management**
+---
+
+# Product Management Outcomes Guide
+
+🏁 🔐 🏁 FRONT MATTER  🏁 🔐 🏁 
+Goals of this document:
+- Clearly describe the outcomes a product manager drives toward at 18F across different phases of our work 
+- Offer staff a common vocabulary and understanding of product management at 18F
+- Use this to baseline Product Management performance goals and help assess our individual strengths, growth areas and  work
+- Fill a gap on product management topics to add to other 18F working guides in Project Resources
+
+People who have worked on this: Nikki Lee, Uchenna Moka-Solana, Alicia Rouault, Andrew Suprenant, Greg Walker
+
+Former 18F staff: Lawrence Bafundo, Michael Torres 
+
+Initial intended audience: Product Chapter, 18F staff working with PMs, new hires 
+
+Status [date]: Ready for feedback from Product Chapter 
+
+How to use: The doc starts with thing 18F has the most control over and ends with things we have the least control over. 
+
+Guide: Product Management at 18F 
+This is an outline of the major outcomes an 18F product manager drives toward in different phases and elements of our work: discovery, delivering product, consulting with partners, and coaching partners on product management. 
+Discovery as a PM
+Goal: Ensure the team has identified and understands the right problem(s) to solve to satisfy user and business needs.
+Define the problem
+Surface the major challenges and articulate the problem statements
+Understand and articulate the impact of the problem (who is affected and by how much)
+Identify a high-value part of the problem that can be delivered within a timeframe that the partner and team feels comfortable with
+Identify the audiences affected by the problem
+Validate the problem by user and/or market research
+Get key stakeholders on board and committed to solving the problem
+Document the problem throughout implementation and keep it visible and central. Refer to it regularly.
+Regularly reconsider the problem, as appropriate, and update related documentation
+
+
+Create a vision
+The high-level vision exists and is well-documented
+The vision is aspirational yet achievable (see example deck)
+The vision supports the broader goals of the organization
+The vision ties back to the problem statement
+The development team, executive sponsors, and any other key participants are all on board with and committed to the vision
+There are measurable outcomes that communicate the positive impact of the intended changes
+The vision is regularly reconsidered and updated as appropriate
+
+
+Develop a strategy
+Clearly articulate accessible short-term and long-term goals that tie into achieving the vision 
+Develop goals that are measurable, flexible, adaptable, and subject to change based on external input or new direction
+Include the project team and partner in developing the strategy
+Identify, inform, and engage stakeholders that can provide additional resources, including decisions around legal/policy, compliance, technical, or security matters
+Be ready to speak to the value of the proposed product or service to a variety of audiences
+Think about market differentiation as it relates to your product’s value proposition (e.g. competitors, build/buy analysis, existing systems, how tech changed over time, etc.)
+Regularly reconsider the strategy and update related documentation as appropriate
+
+
+Build a roadmap
+Develop a plausible plan for achieving the long-term goals (e.g. roadmap) that informs a pragmatic plan for achieving the short-term goals (e.g. backlog)
+Estimate the level of effort needed to achieve short-term goals and identify the potential value. Short-term goals should feed into an actionable backlog.
+Articulate known dependencies and risks at both the short-term and long-term levels 
+Create a roadmap that’s understandable to key stakeholders who are able to explain it to others
+Make sure the roadmap tracks back to measurable outcomes (metrics) that support the strategy and vision
+Adjust the roadmap based on validated learning, feedback, and new information throughout development
+Delivery as a PM
+Goal: Ensure the team builds the thing right.
+Define the relationship with the Product Owner (PO) during the engagement 
+PO should have a sufficient capacity to perform their role 
+PO should clearly understand their role and responsibilities
+PO and leadership should clarify which decisions the PO can make independently (e.g. feature prioritization and scope that support the agreed-upon goals and strategy) and which decisions the PO will decide with leadership (e.g. recommended changes to goals, metrics, and launch strategy)  
+PO should feel empowered to make decisions that support the development process
+PO should own and advocate for the Product Vision
+PO understands that they're wearing the "hat of the user" and advocates on the user’s behalf
+PO understands the coaching relationship with the 18F team and Product Manager
+
+
+Build the product
+Identify the Minimally Viable Product (MVP) from the roadmap with a focus on “must haves,” or non-negotiable functionality that will deliver a high value to end users 
+Break the initial MVP into small, prioritized features that deliver value to the end user 
+Tie the features back to the user value and write them from the perspective of an end user 
+Give actionable acceptance criteria to user stories and make sure they meet the INVEST standard prior to beginning the work
+Refer to data and research when making prioritization decisions
+Evaluate key risks, assumptions, constraints, and dependencies, and have a mitigation plan in place for significant risks
+Triage, prioritize, and estimate the work (eg. stories, defects, tasks) with the PO
+Evaluate user stories to make sure they meet acceptance criteria 
+Use authorized tools/platforms (via FedRAMP, when possible) to support desired build methodology and get an ATO if necessary
+Test features with real users to ensure their needs are met
+
+
+Team collaboration and communication
+The team and stakeholders understand the iterative, incremental, and user-centric approach
+The team understands and has documented “Definition of Done” for working together and building functionality
+The team has a shared understanding of high quality work (using design principles, accessibility standards, etc.) and holds the work to these standards
+Define, document, and validate practices—including unit tests, integration tests, and functional tests—at every sprint
+Establish and schedule core ceremonies/meetings and make sure the team understands the value of such meetings
+Make sure the code that’s destined for production is sustainably-paced and not accumulating technical debt
+The team has a shared understanding of where, when, and how to communicate with each other 
+The project team understands the state of the project at all times
+Key stakeholders understand the state of the project at all times
+Key stakeholders know how they can contribute to the project as well as how to effectively give feedback to the project team 
+Regularly reflect/retro on what's working well and how the team can improve
+Articulate lessons from the project and share them across TTS (stretch)
+
+
+Measure success
+Goals, outcomes, and targets have appropriate, realistic measures indicating how we’ll know when they’re met
+Use these metrics to forecast and adjust the trajectory of the project
+The state of the project can be reported in terms of measurable indicators  at any time
+
+
+Deploy to real users
+Develop a rollout strategy (including documentation and training) to get the product into users’ hands, whether we help the partner deploy or they have to do it in our absence
+Develop a strategy for collecting (and synthesizing) user feedback
+Team leadership as a PM
+Goal: The team feels empowered and aligned, and works autonomously to accelerate delivery of value to our partners.
+Team leadership
+Facilitate a culture where team members feel comfortable sharing feedback about all aspects of the project
+Lead with a servant leadership style and share power
+Set clear roles/responsibility expectations with team members so everyone understands how their work supports the vision
+Configure the team so it’s balanced and allows each person’s expertise to contribute to the vision
+Work with the team to plan work each cadence and know how this supports development goals
+Incorporate feedback as part of the team culture
+Facilitate discussions around tradeoffs to design and engineering decisions, and seek team’s consensus on the best path forward
+Unblock team members when they don’t understand what they should be doing
+Find opportunities for team members to deepen or broaden their skills
+Consulting with partners as a PM
+Goal: Deliver value to the client or customer. (Though you don’t have full control over consulting outcomes as a PM, you should strive to check these boxes, but are not held solely accountable.)
+
+Communication
+The 18F team models working in the open (platform-based collaboration, default to transparency) to enable partner learning
+TTS has access to a record of the work being completed
+The partner:
+Can articulate what the project team will accomplish and why 
+Understands what they’ll need to contribute to the project for it to succeed 
+Understands the time commitment expected of them and their SMEs
+Seeks, surfaces, acknowledges, and addresses concerns and anxieties
+Has regular access to the status of planned and completed work, significant risks, and opportunities so they can ask questions or give feedback to the project team
+
+
+Managing up and out
+The project team can successfully identify and mobilize to secure resources it needs to succeed (or raises this as a significant project risk)
+Leadership, the partner, and other key stakeholders understand and can articulate the value of the work 
+Partners understand and can articulate key risks to the project and how they are being addressed
+Executive leadership within the partner organization is able to articulate these risks and possible mitigations 
+TTS leadership is able to articulate these risks and possible mitigations
+
+
+Business development
+Identify pathways to new opportunities to help account management extend current IAA, whether PA to EI or modification of current EIs 
+Find opportunities to integrate execution of roadmap with other TTS-wide services/products (Federalist, login, cloud.gov)
+Coaching partners as a PM
+Goal: Meet partners where they’re at to learn and practice new ways of working, aligning with industry best practices (e.g. agile, user-centered design, working in the open). 
+The product owner:
+Is allocated to work on the project (at least 50% time) for the duration of the engagement
+Is trained in core product management practices most valuable to them (e.g. strategic product thinking, scrum, cross-functional team management)
+Has hands-on experience making decisions about the product
+Understands how to further develop their product management skills
+Demonstrates a product-oriented mindset (action over philosophy, testing hypotheses, learning from failure, embrace experimentation, iteration, and uncertainty, etc.)
+
+
+The partner values, understands, and begins to demonstrate transformative practices including:
+Product thinking
+User-centered design
+Core XP (extreme programming) practices, particularly continuous integration and deployment, test-driven development, and DevSecOps
+Working in the open
+User testing
+Business analysis
+
+
+Transitioning the project
+Include a plan in the roadmap to transition ownership over to the partner 
+Include specific target outcomes for the transition related to iterative development, continuous deployment to end users, working with stakeholders, and technical leadership
+Give appropriate metrics for each transition outcome
+Transition responsibility over to the partner as soon as possible (well before final weeks of work when possible)
+Plan to transition code and assets to accounts the partner has access to
+
+
+Organizational culture
+Partners understand the value of PMs in developing products
+Executive leadership within the partner organization supports partner PMs to make and execute on strategic decisions
+Partners and their executive leadership understand and can articulate the type of talent needed to staff the product
+
+
+Sustainability
+Develop a plan to appropriately support and staff the product when the 18F team leaves, either internal to the partner organization or by contractors
+The new project team understands and can explain:
+The state of the product
+Major implementation decisions made during the project
+Technologies used to build the product
+Work needed to further develop the product
+The new project team demonstrates an ability to adjust the trajectory and product strategy 
+Partners (including stakeholders) understand the state of the product
+Partners are able understand the work needed to further develop the product
+Partners are understand and can explain the major implementation decisions made during the project
+Partners support the new project team in adjusting the trajectory and strategy of the product
+Additional related materials
+Product chapter materials
+Hiring guide
+Performance plan
+Self-assessments
+Leading Projects at 18F (18F Handbook)
+
+
