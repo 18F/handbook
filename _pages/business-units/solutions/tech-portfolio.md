@@ -27,6 +27,7 @@ Things not within our scope:
 
 - Purchasing office equipment for individuals (rather than the project the individual supports)
 - Picking up software development tasks for TTS programs
+- Being the owners/stewards/pushers of data/metrics for TTS, beyond what applies to responsibilities listed above
 
 ## Important links
 
