@@ -6,9 +6,9 @@ title: TTS Travel 101
 
 In order to travel officially in TTS, you need to, at minimum, [get set up in Concur]({{site.baseurl}}/first-time-travel-get-in-concur/)*, GSA's travel system. Flights or Amtrak booked in Concur are paid for directly by GSA-- no travel card required.
 
-You'll also want to [apply for a GSA travel card]({{site.baseurl}}/first-time-travel-travel-card/), and once you recieve it, [update your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile). This process takes about two weeks. In the meantime, you won't be able to make hotel reservations in Concur. It is recommended that you make all of your reservations via AdTrav at (877) 472-6716 until your card arrives. You will need to use your personal funds for all travel expenses other than flights/rail, but can be reimbursed for all official expenses when you [complete a voucher upon your return]({{site.baseurl}}/travel-guide-3-reimbursement/).
+You'll also want to [apply for a GSA travel card]({{site.baseurl}}/first-time-travel-travel-card/), and once you receive it, [update your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile). This process takes about two weeks. In the meantime, you won't be able to make hotel reservations in Concur. It is recommended that you make all of your reservations via AdTrav at (877) 472-6716 until your card arrives. You will need to use your personal funds for all travel expenses other than flights/rail, but can be reimbursed for all official expenses when you [complete a voucher upon your return]({{site.baseurl}}/travel-guide-3-reimbursement/).
 
-*_Note there are [special procedures]({{site.baseurl}}/first-time-travel-get-in-concur-pre-olu/) for staff who need get into Concur to travel during their first week and may not have access to OLU to complete the required IT security trainings yet._
+*_Note: there are [special procedures]({{site.baseurl}}/first-time-travel-get-in-concur-pre-olu/) for staff who need to get into Concur to travel during their first week and may not yet have access to OLU to complete the required IT security trainings._
 
 ### Brief overview of how to travel
 
@@ -37,4 +37,4 @@ The TTS travel team is comprised of the following individuals. Please send your 
 * Matt Ryan (primary, in training, TTS Operations)
 * Ethan Heppner (backup, TTS Operations)
 
-*_Questions about technical issues in Concur should be routed to the Business Applications Service Desk at (866) 450-6588 (press 2) or businessapps@gsa.gov. Questions about the [travel card application]({{site.baseurl}}/first-time-travel-travel-card/) should be routed to ronnail.rawls@gsa.gov._
+*_Please direct technical questions about Concur to the Business Applications Service Desk at (866) 450-6588 (press 2) or businessapps@gsa.gov. Questions about the [travel card application]({{site.baseurl}}/first-time-travel-travel-card/) should be routed to ronnail.rawls@gsa.gov._
