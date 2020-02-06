@@ -148,7 +148,7 @@ If you're looking to go into greater detail,
 but it can also be a little overwhelming.
 If you ever need a quick answer, clarification or just general Security and Compliance help, fill out the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) and selecting the option for a _New System (ATO/Architecture consult)_.
 
-If you hear "ATO" or "Authority to Operate" and are wondering what that's about,
+If you hear "ATO" or "Authority to Operate" for TTS custom developed software and are wondering what that's about,
 [Before You Ship](https://before-you-ship.18f.gov/) and the Security and Compliance
 leads can help you out there, too.
 
