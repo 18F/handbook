@@ -31,9 +31,14 @@ The Schedule A(u) authority can be used to hire term or permanent employees. Thi
 * Read more [here](https://docs.google.com/document/d/1WnvPtg6QxcrX8UQZWBZhGiRfxWphl7Nd7oy5gPXrVaQ/edit?usp=sharing)
 
 ## Direct Hiring Authority (DHA)
-The DHA can be advertised as term or permanent. The Office of Personnel Management (OPM) can grant this type of hiring authority to federal agencies for filling vacancies in specific occupations, grade levels, and locations when it can be proven that there is a critical hiring need, or a severe shortage of candidates. These roles must be posted on USA Jobs. 
-* Currently, GSA has the authority to hire IT Specialists in the 2210 series via DHA until September 20, 2021. This allows us to advertise 2210 roles for an 8-year term only (no career option) and the IT Specialist (INFOSEC) role (no expiration date yet). 
-* Veterans' preference does not apply
+The DHA is a career hiring authority that can be advertised as term limited or permanent. The Office of Personnel Management (OPM) can grant this type of hiring authority to federal agencies for filling vacancies in specific occupations, grade levels, and locations when it can be proven that there is a critical hiring need, or a severe shortage of candidates. These roles must be posted on USA Jobs. 
+* Currently, GSA has the authority to hire IT Specialists in the 2210 series via DHA with two options: 
+	* 8-year term limited 
+		* This hiring authority can only be used until September 20, 2021
+		* Veterans' preference does not apply
+	* IT Specialist (INFOSEC) permanent
+		* no expiration date on this hiring authority
+		* Veterans' preference does not apply				
 * If the role was posted within the last 120 days, resumes can continue to be submitted for candidates to be found qualified against the announcement. The Position Description they are being qualified against would have to be similar to one that was announced.
 
 ## Veterans’ Preference
