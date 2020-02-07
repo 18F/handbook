@@ -41,6 +41,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Solutions Program Analyst (Merit Promotion)](https://www.usajobs.gov/GetJob/ViewDetails/558433900) - open Friday, January 31st through Monday, February 10th
 
+- [Solutions Accessibility Specialist (IT Specialist - INFOSEC)](https://www.usajobs.gov/GetJob/ViewDetails/559204700) - open Friday, January 7th through Monday, January 17th
+
 ### Internal only competitions
 
 ## Opportunities with partners
