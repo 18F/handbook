@@ -2,7 +2,7 @@
 
 ## Security Policy
 
-As a requirement for employment, every employeed must review and acknowledge the [**CivicActions Security Policy**](../../03-policies/security.md) that includes:
+As a requirement for employment, every employee must review and acknowledge the [**CivicActions Security Policy**](../../03-policies/security.md) that includes:
 
 *   [Acceptable Use Policy](../../03-policies/security.md#acceptable-use-policy)
 *   [Access Policy](../../03-policies/security.md#access-policy)

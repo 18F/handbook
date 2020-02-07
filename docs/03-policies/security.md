@@ -125,7 +125,7 @@ CivicActions requires unique, strong passwords for every service that you log in
 
 Use a unique, strong password or multi-word passphrase for your password manager along with two-factor authentication (TFA or 2FA).
 
-CivicActions supplies all employees with a Yubikey for two-factor authentication, and we require two-factor authentication for access to your password manager, the CivicActions GSuite of applications, and OATH-authenticated apps such as Github and Gitlab. You can also use second factor authentication apps such as Authy and Duo, and in fact, for backup reasosn we suggest using more than one second factor.
+CivicActions supplies all employees with a Yubikey for two-factor authentication, and we require two-factor authentication for access to your password manager, the CivicActions GSuite of applications, and OATH-authenticated apps such as Github and Gitlab. You can also use second factor authentication apps such as Authy and Duo, and in fact, for backup reasons we suggest using more than one second factor.
 
 Please see the [Security Awareness and Tools](../09-security/awareness.md) document for details on these subjects and more.
 

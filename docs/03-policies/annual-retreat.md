@@ -25,11 +25,11 @@ The hotel is booked in advance and we ask that those who are comfortable doing s
 
 ### Family
 
-We're in the conference-style sessions all day from 9-5 and then usually do team dinners in the evening, so it's not very family-oriented, but we know that some folks can't leave their families at home. We don't cover airfare for the family members but we do put you in your own hotel room for the nights of the retreat (additional night would be out of your pocket). We ask that you let the retreat planning team know as soon as possible if you need your own room for your family. 
+We're in the conference-style sessions all day from 9-5 and then usually do team dinners in the evening, so it's not very family-oriented, but we know that some folks can't leave their families at home. We don't cover airfare for the family members but we do put you in your own hotel room for the nights of the retreat (additional night would be out of your pocket). We ask that you let the retreat planning team know as soon as possible if you need your own room for your family.
 
 ### Staying to cowork
 
-Some team members decide to stay one extra day to cowork with each other on their project work (internal or client). The expectation is that those who stay are working a near full day together because it's prodcutive and fun! These team members will get one additional hotel night and an extra meal stiped of $50 for meals on the coworking day. 
+Some team members decide to stay one extra day to cowork with each other on their project work (internal or client). The expectation is that those who stay are working a near full day together because it's productive and fun! These team members will get one additional hotel night and an extra meal stiped of $50 for meals on the coworking day. 
 
 ### Extended stay for fun
 

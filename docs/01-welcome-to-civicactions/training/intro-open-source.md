@@ -12,7 +12,7 @@ Everything we as a team do should be public and available for collaboration. Wit
 
 ## User Freedoms over Creator or Agency Freedoms
 
-CivicActions prefers priorizing freedoms for end-users, not just the creators or agencies that control the software. For example, a designer/developer may desire the freedom to lock out users from modifying or redistributing their code. These are known as 'permissive' licenses. Whenever possible, CivicActions generally provides work under 'copyleft' licenses, which require the freedoms to be passed along to end users, developers/designers, and other agencies.
+CivicActions prefers prioritizing freedoms for end-users, not just the creators or agencies that control the software. For example, a designer/developer may desire the freedom to lock out users from modifying or redistributing their code. These are known as 'permissive' licenses. Whenever possible, CivicActions generally provides work under 'copyleft' licenses, which require the freedoms to be passed along to end users, developers/designers, and other agencies.
 
 CivicActions also extends these policies to artifacts that are not generally categorized as software. This includes design patterns and other works that are used to create and maintain the delivery of services.
 
@@ -22,7 +22,7 @@ FOSS has no direct relationship to PII or the Privacy Act. PII is data. "Free an
 
 For example, whitehouse.gov is powered by Drupal. Drupal publishes their software as open source for anyone to use, but this software doesn't contain any of the content or data that users of Drupal might put into it when publishing a website. Another example is WordPress, a FOSS blogging platform that also powers digitalgov.gov.
 
-## CivicActions believes in Free and Open Source Software 
+## CivicActions believes in Free and Open Source Software
 
 CivicActions uses and works with FOSS whenever possible, and we believe in because
 
@@ -31,4 +31,3 @@ CivicActions uses and works with FOSS whenever possible, and we believe in becau
 * FOSS is easier to modify to suit customer needs
 * FOSS aligns with other Agile practices prioritizing people over process
 * We support the FOSS community via contributions
-
