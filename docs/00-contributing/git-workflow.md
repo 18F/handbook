@@ -44,7 +44,7 @@ Resources:
 
 *   [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 *   [Working with Forks](https://help.github.com/articles/working-with-forks/)
-*   [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started/)
+*   [Getting Started with GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop)
 *   [Contributing to Projects with GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
 
 ## Assignment of pull requests
