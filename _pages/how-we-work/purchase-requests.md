@@ -6,7 +6,7 @@ title: Purchase requests
 
 ## How it works
 
-Your request will be considered and, if approved, purchased by either the TTS Office of Acquisition (OA) or the [Tech Portfolio]({{site.baseurl}}/tech-portfolio/).
+Your request will be considered and, if approved, purchased by either the [TTS Office of Acquisition (OA)]({{site.baseurl}}/oa/) or the [Tech Portfolio]({{site.baseurl}}/tech-portfolio/).
 
 Some types of purchases are handled differently. See these pages for guidance about purchasing:
 
