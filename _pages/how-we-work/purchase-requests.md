@@ -41,11 +41,13 @@ Once the request is placed, the designated TTS Ops team member will determine wh
 
 ## Domain renewals
 
-Requesting a domain renewal is much easier than requesting software. The TTS SaaS PM will reach out to the domain point of contact about a month before the domain will expire asking them if they want the domain to be renewed. If the domain is to be renewed, the domain point of contact will be asked to submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). After you submit the form, follow the instructions for next steps.
+Requesting a domain renewal is much easier than requesting software. The dotgov Billing Point of contact will reach out to the Technical Point of Contact about a month before the domain will expire asking them if they want the domain to be renewed. If the domain is to be renewed, the domain point of contact will be asked to submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). After you submit the form, follow the instructions for next steps.
 
-## SSL/ECA certificates
+## Certificates
 
-SSL and ECA Certificates fall somewhere between a software request and a domain renewal request. There is no ATO required for SSL Certificates, however, FITARA approval is still required. To obtain SSL/ECA Certificates, you will need to submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) and follow the instructions. Then, the TTS SaaS PM and TTS OA Director will work with OCIO to get FITARA approval.
+[General information](https://before-you-ship.18f.gov/infrastructure/certs/)
+
+Purchasing SSL/TLS/ECA certificates fall somewhere between a software request and a domain renewal request. There is no ATO required for SSL Certificates, however, FITARA approval is still required. To obtain SSL/ECA Certificates, you will need to submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) and follow the instructions. Then, the Tech Portfolio and TTS OA Director will work with OCIO to get FITARA approval.
 
 ## Services
 

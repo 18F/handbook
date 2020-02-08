@@ -32,13 +32,9 @@ If the ATO is expired or you cannot find it in GEAR, you can post in the Slack c
 
 ### Step 2: If you haven't already used the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) to get a _New Software (consult)_ please do so.
 
-Please ensure that your justification in the Google Form is detailed, so the SaaS PM can use it to request FITARA approval.
+Please ensure that your justification in the Google Form is detailed, so it can be used to request FITARA approval.
 
 ### Step 3: [Submit a micropurchase request.]({{site.baseurl}}/purchase-requests/)
-
-### Step 3: procurement
-
-Once all of these steps have been completed, the SaaS PM will reach out to you to set up a meeting to make the purchase.
 
 ## Chrome extensions
 
