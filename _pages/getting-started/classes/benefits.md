@@ -19,8 +19,8 @@ You can find these documents by logging onto HR Links and selecting the followin
 - Benefits Library icon
 - Forms Center
 - Select "Health Benefits Enrollment"
-  - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes."
-- Once you click "Submit" the documents get sent to the cpc benefits team where they can review and process these actions
+  - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissible Changes."
+- Once you click "Submit," the documents get sent to the cpc benefits team where they can review and process these actions
 
 *NOTE:* When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).
 
@@ -38,7 +38,7 @@ GSA has a [credit union](https://www.gsafcu.gsa.gov/). It is free and easy to jo
 
 ## Discounts
 
-Organizations across the United States offer a number of discounts to federal employees. Specific discounts are covered [here](http://www.govexec.com/federal-news/2013/10/gimme-my-discount/29165/), [here](http://www.fedsave.com/), and [here](https://www.govloop.com/top-50-discounts-for-government-employees/), but some highlights include:
+Organizations across the United States offer a number of discounts to federal employees. Specific discounts are covered in [govexec.com](http://www.govexec.com/federal-news/2013/10/gimme-my-discount/29165/) and [govloop.com](https://www.govloop.com/top-50-discounts-for-government-employees/), but some highlights include:
 
 * Members of the military and government employees with verified email addresses are eligible for [free digital access to The Washington Post](https://subscribe.washingtonpost.com/specialoffer/#/gov-mil).
 * Major cell phone carriers offer a 15% discount on cell plans to all federal employees---just ask!
@@ -117,14 +117,14 @@ If you're having difficulty resolving an issue or getting clarification from you
    * What outcome you would like
    * A huge thanks to the team that wrangles these complaints
 2. They forward the issue to the company and use the complaint to see if there's a pattern of abuse by the company
-   * The company fix the issue at this point
+   * The company fixes the issue at this point
 3. If you do not hear back within a reasonable timeframe, follow up with FEHB@opm.gov
 
 ## Leave
 
 Please use [HR Links](https://corporateapps.gsa.gov/hr-links/) to request sick leave and annual leave. For any leave-related questions, please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
 
-For more information on Leave, including sick, religious, funeral, unpaid, parental, advanced, and religious, please reference the [Leave]({{site.baseurl}}/leave) page.
+For more information on Leave, including sick, funeral, unpaid, parental, advanced, and religious, please reference the [Leave]({{site.baseurl}}/leave) page.
 
 ## Lunch and break periods
 
@@ -148,7 +148,7 @@ For help interpreting the many boxes on your paystub, see [How to Read Your Leav
 
 Note that the gross income in your paycheck is a little less than your annual income / 26 paychecks. The difference lies in the way the federal government calculates hourly rates from annual salary. The federal government divides the annual salary by 2087 hours rather than 2080 hours (26 pay periods x 80 hours) to determine hourly rates.
 
-This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an article that explains this: [Why your paychecks don't always add up]](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/).
+This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an article that explains this: [Why your paychecks don't always add up](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/).
 
 ## Retirement
 
@@ -188,7 +188,7 @@ If you ever move, you can update your address for TSP by emailing it to both the
 
 To transfer your previous retirement account into your TSP, you'll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
 
-If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans can not be higher than [the annual limit](https://www.tsp.gov/PDF/bulletins/18-04.html).
+If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans cannot be higher than [the annual limit](https://www.tsp.gov/PDF/bulletins/18-04.html).
 
 You may need to include a special additional statement with your tax return explaining you rolled over your IRA to the TSP. For guidance on this, see the [IRS interactive guide to "Do I Need to Report the Transfer or Rollover of an IRA or Retirement Plan on My Tax Return?"](https://www.irs.gov/help/ita/do-i-need-to-report-the-transfer-or-rollover-of-an-ira-or-retirement-plan-on-my-tax-return).
 
