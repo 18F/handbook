@@ -2,7 +2,7 @@
 title: Purchase requests
 ---
 
-**Short version:** Use the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) for requesting purchases under \$10,000.
+**Short version:** Use the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) for requesting purchases under $10,000.
 
 ## How it works
 
@@ -55,7 +55,7 @@ Examples of services TTS has procured:
 - Design services
 - 3PAO service
 
-Please follow the recommended steps below when ordering services under \$10,000:
+Please follow the recommended steps below when ordering services under $10,000:
 
 1. For all requests, submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) to initiate the request process. It will instruct you on next steps.
 2. You will need to make a copy of this [RFQ template](https://docs.google.com/document/d/1u9HZeUN8uEkyJbcQO6EWyyzawNgw4yijD4jV5h8C5mQ/edit?usp=sharing), fill it out, and attach the link to the micropurchase request form.
@@ -88,12 +88,13 @@ Or find us in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/).
 1. Melanie/Ethan do initial triage to determine if it should go to `Pending TTS Software Team review`
 1. Tech Portfolio reviews to check if it has:
    1. An ATO
-   1. Prior FITARA approval
-      1. Check the FITARA Trello board - if not on we need to go through approval process
+   1. Prior [FITARA]({{site.baseurl}}/fitara/) approval
+      1. Check the [FITARA Trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) - if not on we need to go through approval process
 1. If Yes to both, change `Status` to `Pending Supervisor Approval`
 1. Once the Supervisor/AO approval steps are completed (these are automated by email), status is automatically moved to `Pending P-card Purchaser`.
-1. Purchaser: complete P-Card purchase
-1. Purchaser: Manually enter the Pegasys CC id for the P-Card holder
+5. P-Card holder: Clear the agreement and terms of service with GSA’s Office of General Counsel, if applicable
+1. P-Card holder: complete P-Card purchase
+1. P-Card holder: Manually enter the Pegasys CC id for the P-Card holder
 1. Change `Status` in spreadsheet to `Completed`
 1. This "completed" action triggers the Pegasys reimbursement request.
 1. Request is routed to the AO who then approves.
