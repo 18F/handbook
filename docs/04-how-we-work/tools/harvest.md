@@ -31,7 +31,7 @@ Then:
 ### Logging Your Working Expectations
 
 *   A full time employee is slotted for a 40 hour work week
-*   Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for civicactions related meetings or comms, she should bill it all to the fixed price project. She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
+*   Fixed price projects: If someone only worked 4 hours then that is what she should bill. If she works an 8 hour day, even if 2 hours were for CivicActions-related meetings or comms, she should bill it all to the fixed price project. She doesn't need to make up the 2 hours from today if she can get her tickets complete, but if she's going to fall behind then she should do her best to catch up.
 *   Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
 *   Time and Materials: 85-95% (34-38 hours / week)
 
@@ -39,9 +39,9 @@ Then:
 
 A lot of our internal time represents an investment in a service area, so we're going to track that time accordingly.
 
-*   CA > Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc
+*   CA > Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc.
 *   CA > Check-in Calls - use this for one-on-ones, like with your manager, or onboarding/mentoring
-*   CA > Documentation - use this for documentating
+*   CA > Documentation - use this for documenting
 *   CA > Professional Development
 *   CA > IT/IS
 *   CA > Community Participation
@@ -52,7 +52,7 @@ A lot of our internal time represents an investment in a service area, so we're 
 Log your time in the CivicActions project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description like the below examples in the task description that includes the word *onboarding*.
 
 *   Onboarding Meeting
-*   Onboarding handbook and/or trello board cards review
+*   Onboarding handbook and/or Trello board cards review
 *   Onboarding watching scrum videos
 *   Onboarding resume and bio work
 
@@ -121,7 +121,7 @@ Directions for submitting expenses:
 3.  Enter the amount in USD
 4.  Attach a picture of your receipt to each entry
 5.  Only mark "billable" if the expense will be invoiced back to a client
-6.  Once all reciepts are logged
+6.  Once all receipts are logged
     1.  Go to the [Expenses Trello board](https://trello.com/b/2b6lZZ2Q/expenses) and find your expense4 request card
     2.  Add a comment indicating the total amount that needs to be reimbursed
     3.  Move your card from the "Approved" column to the "Submitted" column  - this lets Admin/Judy know these expenses are ready for reimbursement
@@ -134,13 +134,13 @@ Directions for submitting expenses:
 
 ![Harvest screenshot 11](../../images/harvest11.png)
 
-## Tracking Timeoff
+## Tracking Time off
 
-We track vacation, leave and sick time and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. Timeoff will not negatively impact your billable hour percentage.
+We track vacation, leave and sick time, and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. Time off will not negatively impact your billable hour percentage.
 
-You do NOT need to log entries when the office is closed for a Holiday
+You do NOT need to log entries when the office is closed for a holiday.
 
-**Project:** CivicActions > Timeoff
+**Project:** CivicActions > Time off
 
 **Task:**
 
@@ -150,8 +150,8 @@ You do NOT need to log entries when the office is closed for a Holiday
 
 **Time:**
 
-*   8 hours if it's a full day
-*   4 hours if it's a half day
+*   8 hours for a full day
+*   4 hours for a half day
 
 ![Harvest screenshot 12](../../images/harvest12.png)
 

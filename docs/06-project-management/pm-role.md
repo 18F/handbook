@@ -113,7 +113,7 @@ Here is a helpful video example: <https://youtu.be/b_WeHcZcx1w>
 Occasionally the development team needs to meet to plan or process things together. Some examples of these types of meetings may be:
 
 *   Setting working agreements
-*   Changing workflows for code review, merge requests, QA, etc
+*   Changing workflows for code review, merge requests, QA, etc.
 *   Direction to take with decisions from a retrospective
 *   Adjusting how the team works together
 *   Discussing a failing test that team needs to figure out

@@ -71,7 +71,7 @@
 Resources
 
 *   **[Agile Alliance](http://www.agilealliance.org/)** - The Agile Alliance is a nonprofit organization with global membership, committed to advancing [Agile development principles and practices](http://www.agilealliance.org/the-alliance/the-agile-manifesto/). Agile Alliance supports those who explore and apply Agile principles and practices in order to make the software industry more productive, humane and sustainable.
-*   **[International Consortium of Agile (ICAgile)](http://www.icagile.com/)** - An organization founded to drive high-quality, credible Agile education that teaches professionals to approach Agile in any context, rather than training to follow a specific methodology (Scrum, XP, etc).
+*   **[International Consortium of Agile (ICAgile)](http://www.icagile.com/)** - An organization founded to drive high-quality, credible Agile education that teaches professionals to approach Agile in any context, rather than training to follow a specific methodology (Scrum, XP, etc.).
 *   **[Scrum Alliance](https://www.scrumalliance.org/)** - a non-profit organization offering resources, certifications, training, and support for individuals and organizations in Scrum.
 
 ### Words needing definitions

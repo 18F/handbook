@@ -3,11 +3,11 @@
 ## Basic Overview
 
 *   We use [Zoom](https://zoom.us/) video conferencing software for larger meetings, such as our weekly and monthly All Hands Calls. To participate, you may download the Zoom app, view in browser, or call in from a telephone (just don't forget to mute yourself!).
-*   Login with your CivicActions email. You will see a link below the signin box that reads, "Or, sign in with Google..." so click that and proceed to login via your CivicActions email (may automatically do it if you're already logged in via your browser)
+*   Login with your CivicActions email. You will see a link below the sign-in box that reads, "Or, sign in with Google..." so click that and proceed to login via your CivicActions email (may automatically do it if you're already logged in via your browser)
 *   For easier scheduling of zoom video calls:
     *   download the zoom browser extension [Firefox 57+ here](https://addons.mozilla.org/en-US/firefox/addon/zoom-new-scheduler/), [Chrome here](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle).
     *   Once extension is installed, find the little Zoom logo on your toolbar and click sign-in.
-    *   Go into google calendar to start scheduling a meeting. Add attendees and set date/time as usual. Click on the blue "Make It a Zoom Meeting" button and notice that the zoom URL and dialin info is now filled in for you.
+    *   Go into google calendar to start scheduling a meeting. Add attendees and set date/time as usual. Click on the blue "Make It a Zoom Meeting" button and notice that the zoom URL and dial-in info is now filled in for you.
 
 ## Free vs paid accounts
 
@@ -20,7 +20,7 @@ Paid accounts are available for those who need them regularly (once a week or so
 
 ## Tips and Shortcuts
 
-*   Zoom is the deafult video meeting tool for CivicActions as it easily allows participants to dial themselves in to the meeting
+*   Zoom is the default video meeting tool for CivicActions as it easily allows participants to dial themselves in to the meeting
 *   Slack has a shortcut to creating a meeting: Just enter "/zoom" in the channel or direct message where you want the meeting link to appear
 *   Mute by default when joining: Settings > Audio and check "Always mute microphone when joining meeting"
 *   Video off by default when joining: Settings > Video and check "Turn off my video when joining meeting"

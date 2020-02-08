@@ -1,4 +1,4 @@
-# CSS (and SASS etc)
+# CSS (and SASS etc.)
 
 > @todo this is a first pass and needs a lot of cleanup.
 
@@ -73,5 +73,5 @@
 *   Use IE background position values for best compatibility.
 *   Take care to include browser specific prefixes where needed <http://caniuse.com/>
 *   We generally pretend IE &lt; 11 do not exist, although it depends on the client.
-*   We use respond.js when necessary to make older browers respect CSS3. <https://github.com/scottjehl/Respond>
+*   We use respond.js when necessary to make older browsers respect CSS3. <https://github.com/scottjehl/Respond>
 *   We use autoprefixes.

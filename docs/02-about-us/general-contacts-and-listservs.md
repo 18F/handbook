@@ -19,7 +19,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 ## Main Listservs
 
 *   Team-wide communication: ca-team@civicactions.net
-*   Request Timeoff: ca-schedule@civicactions.net
+*   Request time off: ca-schedule@civicactions.net
 *   HR Notices: ca-employees@civicactions.net
 *   Engineering: ca-dev@civicactions.net
 *   Project Management: ca-pm@civicactions.net

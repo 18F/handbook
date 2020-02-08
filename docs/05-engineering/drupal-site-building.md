@@ -81,7 +81,7 @@ We use established Drupal contrib projects rather than writing custom code. It's
 *   After you've made sure that your configuration changes have indeed been captured in code, commit and push your code.
 *   When pulling code from the repository whether on a staging, dev or qa site – always do a drush fr-all -y immediately after pulling the codebase. This will ensure that all of your config is up-to-date.
 *   Create Feature sets on two levels: generic and specific function.
-*   Consider restricting the amount of time you spend featurinzing during the prototype stage.
+*   Consider restricting the amount of time you spend featurizing during the prototype stage.
 
 #### Resources
 
@@ -351,7 +351,7 @@ We do this so we can resolve bugs when necessary, or address security vulnerabil
 
 *   We backup our db using pushdb –backup (or drush sql-dump).
 *   We use the drush up on our sandbox, then commit/tag/push.
-*   There's a trello board to monitor security updates for sites we host <https://trello.com/b/QdozgLL0/security-updates-for-client-sites>
+*   There's a Trello board to monitor security updates for sites we host <https://trello.com/b/QdozgLL0/security-updates-for-client-sites>
 
 ### We configure secure text filters.
 
@@ -370,7 +370,7 @@ Projects where this has proven useful: RTM, Teach.
 #### When to do this
 
 *   When you have a smallish number of forms.
-*   When you need excellent views, token, rules etc integration.
+*   When you need excellent integration of views, token, rules, etc.
 *   When you need better control over response output.
 
 #### When not to do this
@@ -409,7 +409,7 @@ We do this to prioritize functionality and keep things maintainable and performa
 
 ##### Functional separation
 
-(e.g. content types & views, roles/permissions; strongarm settings, theming and defaults, etc)
+(e.g. content types & views, roles/permissions; strongarm settings, theming and defaults, etc.)
 
 *   Good for: Medium sites, smaller, more stable teams.
 *   Pros: Relatively easy to parse out where things go. Simpler, structure.

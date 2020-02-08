@@ -30,7 +30,7 @@ exec --no-startup-id xss-lock -- i3lock -n -c 000000
 
 ### Screen lock with xautolock
 
-This uses [xsecurelock](https://github.com/google/xsecurelock) (recommended screen lock) together with [xautolock](http://linux.die.net/man/1/xautolock) (simple away command runner tool) to lock the screen after 10 minutes when away from home network. It also suspends after 30 mins, adds a hot corner to block locking (useful if watching a video, for example) and adds a notification (using `dunst` and `notify-send`) before locking. Note that pretty much all of these pieces are optional (you could use `gnome-screensaver` or `xscreensaver` for away detection for instance), but using `xsecurelock` for locking is strongly recommended since other lock screens have had vunerabilities.
+This uses [xsecurelock](https://github.com/google/xsecurelock) (recommended screen lock) together with [xautolock](http://linux.die.net/man/1/xautolock) (simple away command runner tool) to lock the screen after 10 minutes when away from home network. It also suspends after 30 mins, adds a hot corner to block locking (useful if watching a video, for example) and adds a notification (using `dunst` and `notify-send`) before locking. Note that pretty much all of these pieces are optional (you could use `gnome-screensaver` or `xscreensaver` for away detection for instance), but using `xsecurelock` for locking is strongly recommended since other lock screens have had vulnerabilities.
 
 Install packages as needed (`dunst` and `libnotify` optional -- you may already have a notification system):
 
@@ -71,7 +71,7 @@ fi
 
 ## Locking your Machine with YubiKey
 
-This will require the Yubikey (Two Factor Authentication) to be inserted to authenticate via PAM (login, sudo or screen unlock). Test this carefully in an alternate console session to ensure you **don't lock yourself out!** (If you do get locked out, you'll have to boot with a live CD and undo the changes in /etc/pam.d/. As this requires a reboot, your [encrypted disk](https://github.com/CivicActions/security-policy/blob/master/tools#disk-encryption-and-storage-management) will require its passphrase again, which is the key to secuity here.)
+This will require the YubiKey (Two Factor Authentication) to be inserted to authenticate via PAM (login, sudo or screen unlock). Test this carefully in an alternate console session to ensure you **don't lock yourself out!** (If you do get locked out, you'll have to boot with a live CD and undo the changes in /etc/pam.d/. As this requires a reboot, your [encrypted disk](https://github.com/CivicActions/security-policy/blob/master/tools#disk-encryption-and-storage-management) will require its passphrase again, which is the key to security here.)
 
 This is required of CivicActions "privileged users" such as System Administrators, and it is our intention that it be standard practice for all CivicActions employees and contractors.
 
@@ -113,7 +113,7 @@ auth      required  pam_yubico.so   mode=challenge-response
 
 For additional security, you may want to immediately lock the screen when the YubiKey is removed.
 
-This locks the laptop immediately when any Yubikey is removed. If you are not using xautolock as your "away detector", replace xautolock with a command to trigger your screen lock with the "away detector" that you do use. This is inspired by <https://vtluug.org/wiki/Yubikey>
+This locks the laptop immediately when any YubiKey is removed. If you are not using xautolock as your "away detector", replace xautolock with a command to trigger your screen lock with the "away detector" that you do use. This is inspired by <https://vtluug.org/wiki/YubiKey>
 
 As your login user, create executable file `~/bin/ykgone`:
 
@@ -121,9 +121,9 @@ As your login user, create executable file `~/bin/ykgone`:
 #!/bin/bash
 USER=$(stat -c "%U" "$0")
 if usb-devices | fgrep Vendor=1050; then
-  echo "Yubikey present"
+  echo "YubiKey present"
 else
-  echo "Yubikey not present, locking"
+  echo "YubiKey not present, locking"
   export DISPLAY=":0"
   export XAUTHORITY=/home/$USER/.Xauthority
   su $USER -c "xautolock -locknow" &

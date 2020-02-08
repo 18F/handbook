@@ -6,7 +6,7 @@ Every time a pull request is made to the handbook repo, or when a commit is merg
 
 ## What to do if your a build fails
 
-Each time a commit or PR is made to the master repo, the tests will run, and a report is created with the results of that test. A bot posts a link to the report on the merge request page in github, as well as in the #docs channel in Slack. If it fails, you can click the report number and see what went wrong.
+Each time a commit or PR is made to the master repo, the tests will run, and a report is created with the results of that test. A bot posts a link to the report on the merge request page in GitHub, as well as in the #docs channel in Slack. If it fails, you can click the report number and see what went wrong.
 
 The left hand column shows the line and the position in that line where the error/warning occurs, and explains which test failed, which should provide you with enough information about how to address it.
 

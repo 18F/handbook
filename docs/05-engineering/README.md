@@ -4,7 +4,7 @@
 
 ## Biweekly Engineering Call
 
-Every two weeks we hold a one hour meeting for the whole engineering team. We have a [git repository on our self-host GitLab](https://git.civicactions.net/civicactions/engineering-call) for documentation and notes about the calls.
+Every two weeks, we hold a one hour meeting for the whole engineering team. We have a [git repository on our self-host GitLab](https://git.civicactions.net/civicactions/engineering-call) for documentation and notes about the calls.
 
 Ordinarily, the facilitator for the meeting is rotated through the list of engineers alphabetically by first name. The tasks of the facilitator is described below:
 
@@ -20,6 +20,6 @@ Describe the agenda and start the meeting. Keep track of the time and try to eit
 
 ### Facilitator: After the Engineering Call
 
-*   Inform the next person in the [schedule](https://git.civicactions.net/civicactions/engineering-call/blob/master/schedule.md) that they are responsible to be the facilitator for the next engineering call. If that person is unable to lead the next call, then they are responsible to ask the next person on the list. If that person is not responding (on vacation, etc) then you are responsible to ask the next person on the list.
+*   Inform the next person in the [schedule](https://git.civicactions.net/civicactions/engineering-call/blob/master/schedule.md) that they are responsible to be the facilitator for the next engineering call. If that person is unable to lead the next call, then they are responsible to ask the next person on the list. If that person is not responding (on vacation, etc.), then you are responsible to ask the next person on the list.
 *   Record the topic in our engineering-call git repository README.md file under "Past Feasts" (ask @daven for help if needed): <https://git.civicactions.net/civicactions/engineering-call>
 *   Add any other things to the git repo as you feel is appropriate.

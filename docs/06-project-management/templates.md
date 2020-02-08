@@ -21,13 +21,13 @@ meeting to ensure there is clear expectations of all participating parties. Item
 
 ## Meeting Notes
 
-This template is used as a guide for project managers when facilitating their daily scrum calls. The team can decide if they would like the notes to be a living Google document or to go out as an email each day to the client list. If the team chooses to have an email sent each day by the PM, then the PM should consider creating a "canned response" email template in their gmail to be able to quickly call up the notes laid out.
+This template is used as a guide for project managers when facilitating their daily scrum calls. The team can decide if they would like the notes to be a living Google document or to go out as an email each day to the client list. If the team chooses to have an email sent each day by the PM, then the PM should consider creating a "canned response" email template in their Gmail to be able to quickly call up the notes laid out.
 
 [Meeting Notes template](https://docs.google.com/a/civicactions.net/document/d/17tl3lPu-3Uo6_YCEtb6AH9HsaILLS1UTmoUFIuXoqDc/edit?usp=sharing)
 
 ## Weekly Status Report
 
-This template is used as a guide for project managers to send weekly status updates to their Product Owner / client. We wnat our clients to have access to this type of important reporting easily and often. This status report provides the client with critical budget updates, lists new risks, outlines any major decisions, provides a summary of the work that week, etc. If a project calls for a monthly status report (MSR), these weekly reports should provide all the information needed to put the MSR together.
+This template is used as a guide for project managers to send weekly status updates to their Product Owner / client. We want our clients to have access to this type of important reporting easily and often. This status report provides the client with critical budget updates, lists new risks, outlines any major decisions, provides a summary of the work that week, etc. If a project calls for a monthly status report (MSR), these weekly reports should provide all the information needed to put the MSR together.
 
 [Weekly Status Report Template](https://docs.google.com/a/civicactions.net/document/d/1ZFOjwys-jz8WCrqzBatCYB5_4e9v3W1kBR5yFo8NJgc/edit?usp=sharing)
 
@@ -39,7 +39,7 @@ This template is used as a guide for project managers to track the project risks
 
 ## Client Change Request
 
-Some project contracts may require formal change requests when modifiying key personnel, deliverables, budget, etc. This document can serve as a template for initiating that change with the contracting officer representative (COR).
+Some project contracts may require formal change requests when modifying key personnel, deliverables, budget, etc. This document can serve as a template for initiating that change with the contracting officer representative (COR).
 
 [Client Change Request Template](https://docs.google.com/a/civicactions.net/document/d/1575TtYmZEu0vpsKlAXwXTFYc1HPhb0L5_ACiG1DL1jU/edit?usp=sharing)
 

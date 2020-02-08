@@ -45,7 +45,7 @@ Choose:
 *   use your civicactions.com email address (you can add more email addresses later)
 *   use a strong pass phrase to protect your secret key
 
-The generated key is actually a *key pair*: a *public* key that you can give to anyone, and a *private* key that you protect with a passphrase. A file encrypted with someone's public key can only be decrypted by a person who posseses the associated private key. You can also *sign* a document (encrypted or not) with your private key so that others who have your public key can verify that the document was signed by you - and only you.
+The generated key is actually a *key pair*: a *public* key that you can give to anyone, and a *private* key that you protect with a passphrase. A file encrypted with someone's public key can only be decrypted by a person who possesses the associated private key. You can also *sign* a document (encrypted or not) with your private key so that others who have your public key can verify that the document was signed by you - and only you.
 
 For quick help on the command line, do:
 
@@ -168,7 +168,7 @@ Using [Tor](https://www.torproject.org/) or a paid VPN (such as [PIA](https://ww
 
 ## Private Messaging and Calling
 
-We recommend [Open Whisper Systems](https://whispersystems.org/). We like that their primary "forward secrecy" algorithm, along with the rest of their code, is GPL licensed on [Github](https://github.com/whispersystems/).
+We recommend [Open Whisper Systems](https://whispersystems.org/). We like that their primary "forward secrecy" algorithm, along with the rest of their code, is GPL licensed on [GitHub](https://github.com/whispersystems/).
 
 ## More Links
 

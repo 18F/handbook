@@ -32,13 +32,13 @@ Check out this blog post: [How Remote Working Helps Us Live Our Dreams (And Get 
 
 *   **Follow the 30-minute rule.** We encourage engineers to follow a 30-minute rule when working on a technical challenge: don't spend more than 30 minutes banging your head against the wall on an issue - if you're blocked, ping/reach out to members of your team - i.e. an engineer reaching out in [#engineering](https://civicactions.slack.com/messages/engineering/).
 
-## Talking Timezones
+## Talking Time Zones
 
 As a company, we usually reference time using Pacific Standard Time (PST, or PT for short). If you're chatting with your whole team or even just a few members, it's best practice to reference time in PT.
 
 There are some cases in which we reference other time zones, usually because of a client's location. In these cases we may refer to meeting times in ET *and* PT. We may say something like, "The scrum call is at 9:00PT/12:00ET."
 
-When in doubt use both PT & ET and make sure you're clarifying the timezone when you mention time!
+When in doubt use both PT & ET and make sure you're clarifying the time zone when you mention time!
 
 *   PT: Pacific Time
 *   MT: Mountain Time

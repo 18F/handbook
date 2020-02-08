@@ -39,7 +39,7 @@ The output of the first meeting will be a Professional Development and Community
     *   New team members will have a 3-month (90 day) wait period before becoming eligible for a professional development stipend and it will be earned throughout the first year.
     *   Purchases under $50 can be made without approval, as long as they support professional development goals. Receipts and expense sheets should be submitted in the usual way, noting as professional development costs.
 
-*   For conferences or other group events, we may decline timeoff if more than 20% of the team is requesting to attend and we can't accomodate the project work while so many are out.
+*   For conferences or other group events, we may decline time off if more than 20% of the team is requesting to attend and we can't accommodate the project work while so many are out.
 
 *   Two (2) months' notice is needed on spends above $300. From time to time we may also cap the total monthly professional development spend across the company, dependent on the budget and cash flow outlook for the month.
 

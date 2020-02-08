@@ -48,7 +48,7 @@ At a high level, incident response follows this process:
 
 [Remediate](#remediate):
 
-*   If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remedation forensic analysis is supported.
+*   If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remediation forensic analysis is supported.
 *   The responders work to contain and remediate the issue; timelines vary based on the assessed severity.
 *   The IC coordinates, communicates, and tracks the investigation and remediation.
 *   If appropriate to the situation, the IC coordinates with the Product Owner (PO) to notify affected customers.
@@ -111,13 +111,13 @@ The next step is to assess the event. We need to answer two questions:
 *   If so, how severe is it? (This will determine how our response proceeds.)
 *   Could the event have been triggered by an [external dependency](contingency-plan.md#external-dependencies)?
 
-To answer these questions, the IC should form a response team by DM'ing people in Slack. The response team should work to confirm the event and assess its impact.
+To answer these questions, the IC should form a response team using Slack. The response team should work to confirm the event and assess its impact.
 
 If the event turns out to be a false alarm, the IC should update the issue, setting the status to "false alarm", and closing the issue.
 
 If the event is a valid incident, the team should assess its impact and determine an initial severity following the incident severity guide below. (Note that the severity can change over the lifespan of the incident, so it's OK to determine the initial severity fairly quickly.)
 
-If a security incident is suspected, the IC ensures that system state is captured with disk snapshots, screen captures and any other mechanisms relevant to the system such that post-remedation forensic analysis is supported.
+If a security incident is suspected, the IC ensures that system state is captured with disk snapshots, screen captures and any other mechanisms relevant to the system such that post-remediation forensic analysis is supported.
 
 Once this is done, the IC should update the issue, noting:
 
@@ -127,7 +127,7 @@ Once this is done, the IC should update the issue, noting:
 
 The IC should assess whether to also activate the [contingency plan](contingency-plan.md).
 
-At this point, the IC should write an initial situation report to Slack or other permament medium (GitHub, GitLab, JIRA, Trello, etc.) summarizing what's going on, identifying the IC, and linking to the issue. Here's an example sitrep:
+At this point, the IC should write an initial situation report to Slack or other permanent medium (GitHub, GitLab, JIRA, Trello, etc.) summarizing what's going on, identifying the IC, and linking to the issue. Here's an example sitrep:
 
 ```
 Subject: [sitrep] The chickens are escaping
@@ -149,7 +149,7 @@ Updates and real-time chat should continue as above (chat in Slack, Zoom or Goog
 
 At this point, we're trying to fix the issue! Remediation will be very situation-specific, so specific steps are hard to suggest. However, a few guidelines to follow during this process:
 
-*   If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remedation forensic analysis is supported.
+*   If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remediation forensic analysis is supported.
 
 *   The IC's responsibility is coordination, communication, and information-collection. The remediation team will be focused on resolving the issue, so it's up to the IC to make sure that we properly track what happened, how we're fixing it, who's doing what, etc. Ideally, the notes kept by the IC should be sufficient for an outside investigator to independently follow the work of the response team and validate the team's work
 
@@ -205,7 +205,7 @@ The report should also contain some basic response metrics:
 *   Discovery method (how did we become aware of the issue?)
 *   Time to discovery (how long did it take from when the incident started until we became aware of it?)
 *   Time to containment (how long did it take from when we became aware until the issue was contained?)
-*   Threat actions (which specific actions -- e.g. phishing, password attacks, etc) -- were taken by the actor)?
+*   Threat actions (which specific actions -- e.g. phishing, password attacks, etc.) -- were taken by the actor)?
 
 This report should be posted as a final comment on the issue, emailed which can then be closed.
 
@@ -226,7 +226,7 @@ High-severity incidents successfully compromise the confidentiality/integrity of
 *   Critical business function outage or severe performance degradation
 *   Improper privilege escalation
 
-Guidelines for addressing High-sev issues:
+Guidelines for addressing high-sev issues:
 
 *   Work will likely be 24/7 (e.g. work until the issue is contained).
 *   Responders are empowered to take any step needed to contain the issue, up to and including complete service degradation.
@@ -241,7 +241,7 @@ Medium-severity incidents represent attempts (possibly un- or not-yet-successful
 *   Spam/phishing attacks targeting CivicActions or client staff
 *   DoS attacks resulting in limited service degradation
 
-Guidelines for addressing Medium-sev issues:
+Guidelines for addressing medium-sev issues:
 
 *   Response should be business-hours.
 *   Responders should attempt to consult stakeholders before causing downtime, but may proceed without them if they can't be contacted in a reasonable time-frame.
@@ -256,7 +256,7 @@ Low-sev incidents don't affect SPII, have little availability and no financial i
 *   Incidents involving specific employees
 *   DoS attacks with no noticeable customer impact
 
-Guidelines for addressing Low-sev issues:
+Guidelines for addressing low-sev issues:
 
 *   Response should be business-hours.
 *   Responders should avoid service degradation unless stakeholders agree.

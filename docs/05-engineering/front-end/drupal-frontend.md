@@ -15,8 +15,8 @@
     *   Class names should use full words rather than abbreviations. Eg. .buttons instead of .btn
     *   We avoid generic class names eg. `.widget .title`. "Class names should communicate useful information to developers." – Nicolas Gallagher
     *   We avoid using the !important selector except as a last resort.
-    *   We avoid using ids to style elements, as id's should be reserved for Javascript (except in the case of JS-related classes , or anchor tags).
-    *   We prefix classes used for Javascript with `.js-class`
+    *   We avoid using ids to style elements, as id's should be reserved for JavaScript (except in the case of JS-related classes , or anchor tags).
+    *   We prefix classes used for JavaScript with `.js-class`
 
 ### Javascript
 

@@ -19,4 +19,4 @@ Better than doing nothing at all:
 
 ## Writing documentation
 
-You should read the rest of this 00-contributing section if you intend to contribute beyond just a trello ticket or chatting in the #docs channel.
+You should read the rest of this 00-contributing section if you intend to contribute beyond just a Trello ticket or chatting in the #docs channel.
