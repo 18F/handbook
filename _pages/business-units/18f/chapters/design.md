@@ -102,8 +102,7 @@ And one more thing: before you start using any new tool that asks for access to 
 Unless otherwise specified, **see [Software](../software/#get-access-to-software-we-already-have) to get a license** for any of these.
 
 - [**Sketch**]({{site.baseurl}}/sketch/)
-- **InVision:** We use InVision for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync.
-  - If you are a member of the design team, once you have requested and received an InVision license, tell your supervisor that you have an account and are ready to be added to the "18F Design Team" group in InVision. This will enable you to see prototypes from all of our projects. When making your own prototypes in the future, always add this team as a collaborator.
+- [**InVision**]({{site.baseurl}}/invision/)
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
 - [**Adobe Creative Cloud**]({{site.baseurl}}/adobe/)
 - [**Microsoft Visio**](https://products.office.com/en-us/visio/flowchart-software) - Visio isn't available for Mac, but you can [request it get added to your Horizon VDI instance]({{site.baseurl}}/vmware-horizon/#software).

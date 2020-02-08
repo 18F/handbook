@@ -38,7 +38,7 @@ collections:
   pages:
     output: true
     permalink: /:name/
-    
+
 url: "https://handbook.tts.gsa.gov"
 plugins:
   - jekyll-sitemap
@@ -174,7 +174,7 @@ navigation:
           internal: true
         - text: Internal TTS Opportunities
           url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
-          internal: false      
+          internal: false
   - text: General information and resources
     children:
       - children:
@@ -512,6 +512,9 @@ navigation:
             internal: true
           - text: GitHub (code repos and versioning)
             url: github/
+            internal: true
+          - text: InVision
+            url: invision/
             internal: true
           - text: Mural.ly (collaborative whiteboard tool)
             url: murally/
