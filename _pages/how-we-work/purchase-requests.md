@@ -2,7 +2,11 @@
 title: Purchase requests
 ---
 
-This page covers the general process for requesting purchases under $10,000. Your request will be considered and, if approved, purchased by either the TTS Office of Acquisition (OA) or the [Tech Portfolio]({{site.baseurl}}/tech-portfolio/).
+**Short version:** Use the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) for requesting purchases under $10,000.
+
+## How it works
+
+Your request will be considered and, if approved, purchased by either the TTS Office of Acquisition (OA) or the [Tech Portfolio]({{site.baseurl}}/tech-portfolio/).
 
 Some types of purchases are handled differently. See these pages for guidance about purchasing:
 
@@ -10,7 +14,7 @@ Some types of purchases are handled differently. See these pages for guidance ab
 - [Software]({{site.baseurl}}/software)
 - [Equipment]({{site.baseurl}}/equipment)
 
-You can use the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) to request an official purchase of anything under $10,000. Upon completing it, you will get an automated email, which confirms the details you entered, outlines any further actions you need to take, and loops in everyone who would need to approve your type of request. Different types of requests have different timelines for completion, but you should expect a response from whoever is identified to review your request within two business days.
+Upon completing the form, you will get an automated email, which confirms the details you entered, outlines any further actions you need to take, and loops in everyone who would need to approve your type of request. Different types of requests have different timelines for completion, but you should expect a response from whoever is identified to review your request within two business days.
 
 ## Business cards
 
@@ -18,9 +22,9 @@ To make best use of our resources, we use business cards sparingly. However, if 
 
 To initiate your request,
 
-- First head to [envisionprintservices.com](http://envisionprintservices.com/). Verify your email, then create an account for yourself. Use a password that you are comfortable sharing with a member of the TTS Ops team, as they will need to later log in as you and make the purchase.
-- After your account is set up, fill in the required information, finalize the design of your cards, and review your proof. Continue to checkout, choosing the quantity you'd like and adding the address that you'd like your business cards mailed to.
-- Once you are on the final step of the order and credit card information is requested, it’s time to request approval through the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). Your order will be reviewed by the TTS Director of Operations, and once approved, a member of the TTS Ops team will log into your Envision account and release payment. Your business cards will arrive 7-10 business days after that.
+1. Head to [envisionprintservices.com](http://envisionprintservices.com/). Verify your email, then create an account for yourself. Use a password that you are comfortable sharing with a member of the TTS Ops team, as they will need to later log in as you and make the purchase.
+1. After your account is set up, fill in the required information, finalize the design of your cards, and review your proof. Continue to checkout, choosing the quantity you'd like and adding the address that you'd like your business cards mailed to.
+1. Once you are on the final step of the order and credit card information is requested, it’s time to request approval through the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). Your order will be reviewed by the TTS Director of Operations, and once approved, a member of the TTS Ops team will log into your Envision account and release payment. Your business cards will arrive 7-10 business days after that.
 
 If you want TTS/18F branding, you must purchase your own business cards. However, please get a final approval from the TTS Outreach team before placing the order.
 
