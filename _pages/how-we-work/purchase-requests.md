@@ -18,13 +18,13 @@ Upon completing the form, you will get an automated email, which confirms the de
 
 ## Business cards
 
-To make best use of our resources, we use business cards sparingly. However, if you expect to use them for outreach or a specific meeting with partners, you can request standard GSA business cards, which don’t reflect TTS or 18F branding.
+To make best use of our resources, we use business cards sparingly. However, if you expect to use them for outreach or a specific meeting with partners, you can request standard GSA business cards, which don't reflect TTS or 18F branding.
 
 To initiate your request,
 
 1. Head to [envisionprintservices.com](http://envisionprintservices.com/). Verify your email, then create an account for yourself. Use a password that you are comfortable sharing with a member of the TTS Ops team, as they will need to later log in as you and make the purchase.
 1. After your account is set up, fill in the required information, finalize the design of your cards, and review your proof. Continue to checkout, choosing the quantity you'd like and adding the address that you'd like your business cards mailed to.
-1. Once you are on the final step of the order and credit card information is requested, it’s time to request approval through the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). Your order will be reviewed by the TTS Director of Operations, and once approved, a member of the TTS Ops team will log into your Envision account and release payment. Your business cards will arrive 7-10 business days after that.
+1. Once you are on the final step of the order and credit card information is requested, it's time to request approval through the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). Your order will be reviewed by the TTS Director of Operations, and once approved, a member of the TTS Ops team will log into your Envision account and release payment. Your business cards will arrive 7-10 business days after that.
 
 If you want TTS/18F branding, you must purchase your own business cards. However, please get a final approval from the TTS Outreach team before placing the order.
 
@@ -61,12 +61,12 @@ Please follow the recommended steps below when ordering services under $10,000:
 2. You will need to make a copy of this [RFQ template](https://docs.google.com/document/d/1u9HZeUN8uEkyJbcQO6EWyyzawNgw4yijD4jV5h8C5mQ/edit?usp=sharing), fill it out, and attach the link to the micropurchase request form.
 3. After you submit the form, the TTS Micro-Purchase Project Manger and the OA Director will review the RFQ. Please be ready to address any questions, comments, or feedback at your earliest convenience.
 4. After the RFQ is approved by the OA Director, you will send it to the appropriate vendor(s) and cc the TTS Micro-Purchase PM. When sending the RFQ to vendor(s), keep in mind:
-   - If they’ve been government employees who worked in TTS within the past two years, we can’t hire them.
-   - Spread the wealth - this is not a formal rule or policy, but you don’t want to go back to the same person for every purchase, because that raises flags.
-   - Make sure the vendor can accept payment via government purchase card (aka credit card) - this seems easy but isn’t always the case.
+   - If they've been government employees who worked in TTS within the past two years, we can't hire them.
+   - Spread the wealth - this is not a formal rule or policy, but you don't want to go back to the same person for every purchase, because that raises flags.
+   - Make sure the vendor can accept payment via government purchase card (aka credit card) - this seems easy but isn't always the case.
 5. Receive a quote from the vendor. When reviewing the quote, please keep in mind:
    - The requirement cannot exceed the micro-purchase threshold for the same service within a twelve-month period.
-   - You can’t pay for similar services from both vendor A and B if the scope is the same and the combined cost exceeds the micro-purchase threshold within a twelve-month period. This is considered splitting purchases.
+   - You can't pay for similar services from both vendor A and B if the scope is the same and the combined cost exceeds the micro-purchase threshold within a twelve-month period. This is considered splitting purchases.
    - You need to avoid scope creep (adding extra work to the original agreement) that would go over the threshold.
    - If you need any assistance with negotiations, please contact the TTS Micro-Purchase PM and the OA Director.
 6. Once the quote is received, the Micropurchase PM and OA Director will review the quote and ask for more quotes, clarifications, or proceed with the purchase.
@@ -86,13 +86,13 @@ Or find us in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/).
 1. People submit micropurchase request form
 1. Request goes into [spreadsheet](https://docs.google.com/spreadsheets/d/1dO1qz9TFAWFgGqteRL10Bbq4JSKskXzdwlgAeKtMYj8/edit#gid=2001741130)
 1. Melanie/Ethan do initial triage to determine if it should go to `Pending TTS Software Team review`
-1. Tech Portfolio reviews to check if it has:
+1. [Tech Portfolio]({{site.baseurl}}/tech-portfolio/) reviews to check if it has:
    1. An ATO
    1. Prior [FITARA]({{site.baseurl}}/fitara/) approval
       1. Check the [FITARA Trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) - if not on we need to go through approval process
 1. If Yes to both, change `Status` to `Pending Supervisor Approval`
 1. Once the Supervisor/AO approval steps are completed (these are automated by email), status is automatically moved to `Pending P-card Purchaser`.
-5. P-Card holder: Clear the agreement and terms of service with GSA’s Office of General Counsel, if applicable
+5. P-Card holder: Clear the agreement and terms of service with GSA's Office of General Counsel, if applicable
 1. P-Card holder: complete P-Card purchase
 1. P-Card holder: Manually enter the Pegasys CC id for the P-Card holder
 1. Change `Status` in spreadsheet to `Completed`
