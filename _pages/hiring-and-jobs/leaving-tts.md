@@ -55,7 +55,7 @@ If you have any questions, please contact [Mary Robinson (GSA HR)](mailto:marya.
 
 - Make sure that you aren't the superuser, sole owner, approver, admin, etc. for Tock, important calendars, Google Groups, critical documents, or processes.
   - Move Google Drive files to shared folders, when appropriate.
-  - If you have an **InVision account**, [transfer ownership of your prototypes](https://support.invisionapp.com/hc/en-us/articles/203730565-How-do-I-transfer-my-prototype-to-another-account-) to your supervisor or to another project team member so that they won't be lost once your account is deactivated.
+  - [Invision instructions]({{site.baseurl}}/invision/#offboarding)
 - Move all calendar invites off your calendar. Nothing worse than an orphaned meeting!
 - Log your final Tock hours.
 - Make a list of the approved software that you downloaded or were issued (not necessary to note the pre-installed software).
@@ -111,14 +111,15 @@ From GSA's Office of General Counsel (OGC):
 >
 > An employee is "seeking employment" as defined in Subpart F of 5 C.F.R. part 2635,
 > and the recusal requirement applies, if:
+>
 > - the employee is engaged in actual negotiations for employment;
 > - a prospective employer has contacted the employee about possible employment
-> and the employee makes a response other than rejection; or
+>   and the employee makes a response other than rejection; or
 > - the employee has contacted a prospective employer about possible employment,
-> unless the sole purpose of the contact is to request a job application. (An
-> employee is seeking employment with any person to whom he sends an
-> unsolicited resume, regardless of how many resumes the employee sends to
-> other employers at the same time.)
+>   unless the sole purpose of the contact is to request a job application. (An
+>   employee is seeking employment with any person to whom he sends an
+>   unsolicited resume, regardless of how many resumes the employee sends to
+>   other employers at the same time.)
 >
 > If a search firm, an online resume distribution service, or other intermediary is involved,
 > recusal is not triggered unless the intermediary identifies the prospective employer to
