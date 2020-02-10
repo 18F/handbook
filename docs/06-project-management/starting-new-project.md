@@ -33,7 +33,7 @@ It may be helpful to copy these lists into a card/checklist on your project Trel
 *   Send orientation / welcome email (Slack, team intros, email intro, call schedules and project schedule) to project email list(s)
 *   Confirm any deviation from standard green-lighting (contract signed, etc.) with DM and CEO
 *   Set up hosting (if needed)
-*   Determine infrastructure needs for client (VPN access, demo system access, source code access, etc)
+*   Determine infrastructure needs for client (VPN access, demo system access, source code access, etc.)
 *   Schedule internal kickoff and client kickoff
 *   Review invoicing in contract and prepare [invoicing documentation](invoicing.md)
 

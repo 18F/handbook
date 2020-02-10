@@ -76,7 +76,7 @@ Usage of CivicActions user accounts should be as follows:
 *   Use in any way harmful to CivicActions or our clients is forbidden.
 *   Storing confidential personal information from client website users (for example CSV exports from CiviCRM) on internal collaboration systems should be avoided wherever possible, especially on 3rd party services such as Google Docs.
 *   Confidential information (other than personal information) should only be stored in areas restricted by access control, such as the project management area.
-*   Binary software executable files should not be distributed via internal collaboration systems, as we do not have anti-virus scanning in place. Uploading human readable source code and scripts (php, bash, perl etc) is acceptable (but nevertheless should be considered a risk).
+*   Binary software executable files should not be distributed via internal collaboration systems, as we do not have anti-virus scanning in place. Uploading human readable source code and scripts (php, bash, perl etc.) is acceptable (but nevertheless should be considered a risk).
 
 In addition to user accounts we provide developer and system administrator access to system and service accounts, such as administrator web-access and SSH access to client sites, version control systems such as SVN/Git and MySQL database access. Usage for these accounts is covered in our server security policy, below.
 
@@ -102,7 +102,7 @@ Before connecting and authenticating to any CivicActions IT system or storing co
 *   Whenever practical, work should be done from under a relatively non-privileged (user) account, not from an account with administrative privileges on the computer. Working under the latter is more likely to result in unintended installation of malicious software that would be harder for an anti-virus program to detect and cure. Thus, even if you're the only person using a computer (such as a laptop), it is a good practice to create two accounts on the computer: a "user" and an "administrator", and use the "user" account for most activities.
 *   Untrusted software should not be installed - this includes software you have never heard of, as well as known software that was downloaded from sources other than the author's site or a trusted, established repository.
 *   Be cautious opening e-mail attachments or files sent over instant messengers or similar systems. Even if the attachment is from a contact you recognize, if it is unexpected and does not indicate a project or discussion you recognize it is wise to e-mail the person separately to confirm that they sent the message. The reason for this is that it is common for malware to use e-mail software contact lists to send e-mails masquerading as a known contact with the malware attached.
-*   Do not access CivicActions IT systems using an untrusted computer (for example an Internet cafe or library system). This is because these systems can easily be infected with malware that transmit user activity to a 3rd party.
+*   Do not access CivicActions IT systems using an untrusted computer (for example an Internet café or library system). This is because these systems can easily be infected with malware that transmit user activity to a 3rd party.
 *   If technically possible, additional protections such as encryption of your home directory (with a strong passphrase not reused for another purpose) and "remote wipe" of lost mobile devices are encouraged.
 *   When connected to wired or wireless Internet connections associated with CivicActions (for example while at company sprints/retreats or when visiting client site offices), users are expected to follow the appropriate terms and conditions of that provider, and to avoid initiating network traffic (e.g. by visiting specific websites or running file sharing software) that may bring our reputation into question.
 
@@ -125,7 +125,7 @@ CivicActions requires unique, strong passwords for every service that you log in
 
 Use a unique, strong password or multi-word passphrase for your password manager along with two-factor authentication (TFA or 2FA).
 
-CivicActions supplies all employees with a Yubikey for two-factor authentication, and we require two-factor authentication for access to your password manager, the CivicActions GSuite of applications, and OATH-authenticated apps such as Github and Gitlab. You can also use second factor authentication apps such as Authy and Duo, and in fact, for backup reasosn we suggest using more than one second factor.
+CivicActions supplies all employees with a YubiKey for two-factor authentication, and we require two-factor authentication for access to your password manager, the CivicActions GSuite of applications, and OATH-authenticated apps such as GitHub and GitLab. You can also use second factor authentication apps such as Authy and Duo, and in fact, for backup reasons we suggest using more than one second factor.
 
 Please see the [Security Awareness and Tools](../09-security/awareness.md) document for details on these subjects and more.
 

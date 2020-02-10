@@ -1,6 +1,6 @@
 # CivicActions Help Desk and Agile
 
-CivicActions' help desk practices follow Agile principles as follows:
+CivicActions help desk practices follow Agile principles as follows:
 
 ## Individuals and interactions over processes and tools
 
@@ -16,4 +16,4 @@ Every help desk interaction requires, before anything else, hearing a user clear
 
 ## Responding to change over following a plan
 
-Help desk support is inherently resistant to plans: we respond to the needs and timing of our users as flexibly and creatively as necessary. That said, we optimize our work to patterns that emerge in the work, and we continually refine and improve our tools (including canned answers and templates, reporting, workflows, queue structures, etc) in order to better reflect what we've learned from our users from analytics, data and the stories we're told by our users.
+Help desk support is inherently resistant to plans: we respond to the needs and timing of our users as flexibly and creatively as necessary. That said, we optimize our work to patterns that emerge in the work, and we continually refine and improve our tools (including canned answers and templates, reporting, workflows, queue structures, etc.) in order to better reflect what we've learned from our users from analytics, data and the stories we're told by our users.

@@ -53,8 +53,8 @@ The *Incident Commander*:
 
 The *Responders* work to determine cause, find resolution and return the system(s) to normal operations.
 
-*   If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remedation forensic analysis is supported.
-*   Determining the cause can drive followup measures to prevent incident reccurence.
+*   If ***suspicious activity*** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity ***before making changes*** such that post-remediation forensic analysis is supported.
+*   Determining the cause can drive follow-up measures to prevent incident reoccurrence.
     *   A *containment* strategy may be implemented by the Information Security Group for the instance to drop all ingress and egress traffic except from specific IPs (like yours) until forensics can be performed.
 
 The *Incident Commander* coordinates activity:

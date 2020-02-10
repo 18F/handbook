@@ -1,6 +1,6 @@
 # Agile Overview
 
-CivicActions uses agile practices.
+CivicActions uses Agile practices.
 
 *   Read the [Agile Manifesto](http://agilemanifesto.org/) statement
 *   Watch this short [Agile video](https://youtu.be/AsFMHnSfI2I)

@@ -30,7 +30,7 @@ In particular:
 *   We write [Secure Code in Drupal 7](https://www.drupal.org/docs/7/security/writing-secure-code)
 *   We understand [Security in Drupal 8](https://www.drupal.org/docs/8/security)
 *   Note that alpha, beta and rc versions are not considered stable and not subject to security team support. In my experience in many cases it is preferable to run a dev than alpha/beta releases where there has been significant number of bug fixes done, and the security profile is identical.
-*   Each dev release is tied to a specific git commit which is tracked in our repository, and that commit is just as unchangeable as an alpha or beta release (all the latter has is a human readable label for the commit).
+*   Each dev release is tied to a specific Git commit which is tracked in our repository, and that commit is just as unchangeable as an alpha or beta release (all the latter has is a human readable label for the commit).
 *   We periodically audit sites to determine if the set of enabled modules are all still in use on the site.
 
 ## Privileged Access
@@ -45,13 +45,13 @@ In particular:
 
 Some applications and services may need to connect to your Civicactions google account but they might not be able to handle TFA. An example of this would be a personal Gmail account trying to send e-mails through your civicactions' account. For this purpose Google has created something called [App Passwords](https://support.google.com/accounts/answer/185833?hl=en). [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) allows you to create a unique password for each of your services/apps. If this password is used while authenticating your service/app to access your CivicActions' account it will bypass TFA.
 
-There are some instructions at <https://support.google.com/accounts/answer/185833?hl=en> on how to use App Passwords with Google. Several other TFA-enabled services also support app passwords -- see their respecive documentation.
+There are some instructions at <https://support.google.com/accounts/answer/185833?hl=en> on how to use App Passwords with Google. Several other TFA-enabled services also support app passwords -- see their respective documentation.
 
 ### IT: Sharing Service Accounts
 
 *   If a service allows individual accounts, use only individual accounts and not shared credentials.
 *   Prefer services that allow individual accounts, services that allow TFA and secure password policies.
-*   If a service only allows a single account, have a shared LastPass master account that ideally only 2-3 trusted people have access to. From there share passwords out on an "as needed" basis only, including to individual day-to-day Lastpass accounts for the 2-3 trusted people.
+*   If a service only allows a single account, have a shared LastPass master account that ideally only 2-3 trusted people have access to. From there share passwords out on an "as needed" basis only, including to individual day-to-day LastPass accounts for the 2-3 trusted people.
 *   If the LastPass master account is a paid account it also allows sharing credentials in a way that makes the password harder for the person who you shared it with to recover/view/share (but still allow them to log in with it).
 *   Shared account passwords should rotate to ensure that only those users needing access continue to have access, revoking individual accounts particularly when people leave.
 

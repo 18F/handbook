@@ -11,7 +11,7 @@ CivicActions recognizes the importance of individual Professional Development fo
     *   Having the courage to be vulnerable, which leads to authentic communications and connection
     *   Open-minded thinking, which leads to increased tolerance of others ideas and personality styles
 
-CivicActions supports and encourages the Professional Development (prodev) of each team member by providing an annual budget of $1,200 per person to be used for prodev-related expenses. Note: If you are a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours. 
+CivicActions supports and encourages the Professional Development (prodev) of each team member by providing an annual budget of $1,200 per person to be used for prodev-related expenses. Note: If you are a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
 
 In addition to the $1,200 annual budget, each team member is encouraged to use a "take what you need" approach to using time for prodev pursuits during business hours, within the bounds of any billable hours goals you may have. If you need guidance on what amount of time is appropriate to spend on prodev in a given year, consult with your manager or refer to the historical data table below.
 
@@ -36,7 +36,7 @@ Assignment to a prodev sprint is voluntary, and team members are encouraged to e
 
 ## Making a Plan
 
-Previously, CivicActions had a professional development process that included regular management review of prodev plans created on trello boards. While this isn't a required practice anymore, you are still encouraged to take responsibility for your own professional development by creating a prodev plan and setting goals for yourself. If you would like help with structuring a plan, use [this trello board template](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation) as a guide or ask the prodev Practice Lead for help.
+Previously, CivicActions had a professional development process that included regular management review of prodev plans created on Trello boards. While this isn't a required practice anymore, you are still encouraged to take responsibility for your own professional development by creating a prodev plan and setting goals for yourself. If you would like help with structuring a plan, use [this Trello board template](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation) as a guide or ask the prodev Practice Lead for help.
 
 ## Asking a Mentor, Coach, or Peer to Help
 

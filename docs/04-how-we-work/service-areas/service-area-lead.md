@@ -22,14 +22,14 @@ The lead is responsible for guiding the overall vision and strategy of the servi
 ## Sales
 
 *   Develop pre-qualification criteria for leads and support qualification and go/no-go decisions.
-*   Staff the proposal process (writing, estimation, presentation etc).
-*   Provide support, training and editorial review to ensure high-quality, competative bids.
+*   Staff the proposal process (writing, estimation, presentation etc.).
+*   Provide support, training and editorial review to ensure high-quality, competitive bids.
 *   Work with Sales leads to establish and maintain partner and agency relationships as needed.
 
 ## Recruiting/Onboarding
 
 *   Write job descriptions.
-*   Work with managment and project teams to review applications, interview and select candidates.
+*   Work with management and project teams to review applications, interview and select candidates.
 *   Assigning mentors to new hires.
 
 ## Delivery
@@ -42,5 +42,5 @@ The lead is responsible for guiding the overall vision and strategy of the servi
 
 *   Works with IT to plan and resource any internal infrastructure needs.
 *   Works with Legal and Compliance to identify legal and compliance risks across service area projects and implement policies and tools to mitigate.
-*   Works with Administration as needed (e.g. software licences).
+*   Works with Administration as needed (e.g. software licenses).
 *   Works with ProDev to identify training and certification needs and opportunities.

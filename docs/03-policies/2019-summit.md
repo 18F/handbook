@@ -32,7 +32,7 @@ The purpose of the 2019 CivicActions Summit is to deepen our alignment, strength
 
 ### Results
 Check out the outcome of the results brainstorming session:
-[Summit 2019: CPR Results trello board](https://trello.com/b/iWOstAoq/summit-2019-cpr-results)
+[Summit 2019: CPR Results Trello board](https://trello.com/b/iWOstAoq/summit-2019-cpr-results)
 [Finalized list of CPR results](https://docs.google.com/spreadsheets/d/1LAv9O-i1uYyLuVQHT7IIvnTlW_SIWo5NlpgAsfSL7i8/edit#gid=1917628945)
 
 
@@ -78,15 +78,15 @@ Travel day for team members arriving in Portland. 4pm check-in time at Hampton I
 
 #### Saturday 10/5
 *   **12:00pm** check-out of hotel for team members departing Portland
-*   Travel day 
+*   Travel day
 *   Co-working day for people who elect to stay
 *   [Info on post-summit co-working](https://docs.google.com/spreadsheets/d/1LAv9O-i1uYyLuVQHT7IIvnTlW_SIWo5NlpgAsfSL7i8/edit#gid=1324818371)
 
 ## Planning Your Trip
 
 ### Prepare for your flight
-*   Download offline copies of Google docs for working without WiFi
-*   If you plan to get WiFi on your flight, purchase it before you board because it’s cheaper
+*   Download offline copies of Google docs for working without Wi-Fi
+*   If you plan to get Wi-Fi on your flight, purchase it before you board because it’s cheaper
 *   Have printed copies of your backup codes for accessing Google Apps
 *   Begin taking some Emergen-C or Airborne to prep your immune system
 *   A number of folks use the Thieves Oil as it kills germs & boosts immunity
@@ -102,7 +102,7 @@ Travel day for team members arriving in Portland. 4pm check-in time at Hampton I
 *   Your CivicActions t-shirt and/or jacket
 *   Check the weather and bring layers (especially if venturing to mountains)
 *   Reusable water bottle & coffee mug
-*   Your laptop (for open space note taking, etc)
+*   Your laptop (for open space note taking, etc.)
 *   Possibly a multi-plug extension cord as plugs may get limited
 *   Any laptop adaptors or dongles you may need
 *   TFA such as YubiKeys and RSA Tokens
@@ -222,7 +222,7 @@ People who want to give an appreciation will raise their hand, and you can pick 
 To help make the Coin Ceremony successful:
 
 *   Be attentive and present. Mute devices so you can be a meaningful part of the celebration.
-*   Try to give one or two appreciations, even if you don’t usually speak up in large gatherings. 
+*   Try to give one or two appreciations, even if you don’t usually speak up in large gatherings.
 *   If you’ve given several appreciations, make sure to let others have a chance to talk.
 *   It’s okay to appreciate your teammates for the work they do, but it’s even better to appreciate them for who they are as a person.
 
@@ -231,7 +231,7 @@ Each one of us can help make the Summit better for everyone by doing the followi
 
 *   Help keep the event space clean and tidy
 *   Reach out to folks who are attending the retreat for the first time
-*   Engage and participate in the conversations in which you're involved 
+*   Engage and participate in the conversations in which you're involved
 *   Look for opportunities to help create a platform for your quieter co-workers to be heard
 *   Help smoothly transition the team between sessions
 *   Be punctual (be early!) each day

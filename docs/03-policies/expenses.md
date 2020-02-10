@@ -14,7 +14,7 @@ CivicActions will timely reimburse approved business-related out-of-pocket expen
 To request approval:
 
 1.  Go to the [Expenses Trello board](https://trello.com/b/2b6lZZ2Q/expenses)
-2.  Create a new card in the "Requests" column. Note that it is fine to group several related expenses (e.g. a complete trip including travel, accomodation and food) into a single card - please break out significant costs in the card description.
+2.  Create a new card in the "Requests" column. Note that it is fine to group several related expenses (e.g. a complete trip including travel, accommodation and food) into a single card - please break out significant costs in the card description.
 3.  Your card should indicate (see the example in the instructions column):
     1.  Card title: Your name and the purpose of the expense
     2.  The estimated amount(s) of the expense

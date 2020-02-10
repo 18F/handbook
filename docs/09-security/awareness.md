@@ -40,13 +40,13 @@ LastPass provides secure password management especially when unlocked via Two Fa
 
 Two-Factor Authentication (TFA) includes something you know (e.g. your memorized password) and something you have (e.g. your smartphone or a YubiKey) and can greatly increase the security of your systems. CivicActions recommends you use Two-Factor Authentication for services that support it.
 
-For example, as your password manager grows to have more passwords in it - not only CivicActions' systems and clients but also your personal bank accounts, credit cards, school records, etc. - it becomes increasingly important to have it protected by more than just a password.
+For example, as your password manager grows to have more passwords in it - not only CivicActions systems and clients but also your personal bank accounts, credit cards, school records, etc. - it becomes increasingly important to have it protected by more than just a password.
 
 CivicActions requires that its employees and contractors that are given access to the CivicActions Google Apps - that include GMail, Hangouts and Google Docs access - use Two-Factor Authentication on their CivicActions Google Account.
 
 ### Two-Factor Authenticators (TFA)
 
-There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below. *(Note that Google Authenticator is no longer recommended as it does not support encryoted cloud backup.)*
+There are many hardware and software tools for creating secure "one time passwords" (OTP). Three that we frequently use internally are described below. *(Note that Google Authenticator is no longer recommended as it does not support encrypted cloud backup.)*
 
 Do not rely on SMS text messages for general two-factor authentication as it is less secure than others listed here. At the time of this writing, however, setting up Two-Factor Authentication on your Google account initially requires SMS verification. This is OK, and also serves as a "TFA Backup" mechanism (be sure to see the essential section below on [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes)).
 
@@ -72,7 +72,7 @@ While YubiKey is the easiest to use on a daily basis, if you lose it you could g
 
 *   LastPass: [Multifactor Authentication Options](https://helpdesk.lastpass.com/multifactor-authentication-options/)
 *   Google: [2 Step Verification](https://support.google.com/accounts/topic/28786?hl=en&ref_topic=3382253)
-*   GitHub (especially for your [CivicAction account](https://github.com/CivicActions)): [Securing your account with two-factor authentication (2FA)](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/)
+*   GitHub (especially for your [CivicActions account](https://github.com/CivicActions)): [Securing your account with two-factor authentication (2FA)](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/)
 *   GitLab: See [your profile](https://git.civicactions.net/profile/account)
 *   iCloud: [Two-factor authentication for Apple ID](https://support.apple.com/en-us/HT204915)
 *   Slack: [Enabling two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Enabling-two-factor-authentication#enablingtwofactor-authentication)
@@ -93,8 +93,8 @@ Social engineering is the most common attack vector used to compromise computer 
 *   Phishing
     *   Is the email from someone you know and contains expected information?
         *   Emails from unknown people asking for some action on your part is the most common form of phishing.
-    *   Don't click on links or open attachements:
-        *   Unless you trust the sender and expect the link or attachment, 
+    *   Don't click on links or open attachments:
+        *   Unless you trust the sender and expect the link or attachment,
         *   Even if you trust the source (a From: address can be spoofed) hover first and check the URL
     *   If in doubt, ask an IT member (e.g. via Slack) or forward the email to an IT member
     *   [More on Phishing avoidance (from EFF)](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
@@ -102,9 +102,9 @@ Social engineering is the most common attack vector used to compromise computer 
     *   "Windows Technical Support has noticed that you have viruses or other malware on your computer..."
 *   Baiting
     *   Seemingly innocent (or interesting) abandoned USB, CD, DVD media with autorun
-*   Public WiFi (e.g., coffee shop, airport, library, ...)
+*   Public Wi-Fi (e.g., coffee shop, airport, library)
     *   Turn off sharing
-    *   Don't automatically connect to unknown WiFi hotspots
+    *   Don't automatically connect to unknown Wi-Fi hotspots
     *   Confirm the network name - know the name of your hotspot!
         *   Watch out for an "Evil Twin" - a hotspot that looks good but could be an access point set up by an attacker (e.g., "StarbucksGuest" or "DeltaFreeWifi")
     *   Turn on your local firewall
@@ -112,7 +112,7 @@ Social engineering is the most common attack vector used to compromise computer 
     *   As usual, never enter your name or password information:
         *   when on an insecure (non-HTTPS or SSL encrypted) connection, or
         *   to a site that you have not verified is correct (by examining at the URL)
-    *   [More on public WiFi network safety (from LifeHacker)](http://lifehacker.com/5576927/how-to-stay-safe-on-public-wi-fi-networks)
+    *   [More on public Wi-Fi network safety (from LifeHacker)](http://lifehacker.com/5576927/how-to-stay-safe-on-public-wi-fi-networks)
 
 ## Keep Your Systems Up-to-date
 
@@ -120,7 +120,7 @@ One of the best ways to protect yourself from being hacked (other than via a soc
 
 ## Disk Encryption and Storage Management
 
-Most modern disks (and SSDs) have self-encrypting drive (SED) technology built in. CivicActions highly recommends SSDs for their increased speed and the hardware-based encryption (self-encrypting drive or "SED" technology) that will protect the drive when the machine is off. This is particularly important for laptops that can be easily stolen. When you buy a new disk or configure a new laptop, turn on the disk encryption. Some of CivicActions' clients will demand it. (Contact your product manager to see if you are eligble for a hard disk rebate.)
+Most modern disks (and SSDs) have self-encrypting drive (SED) technology built in. CivicActions highly recommends SSDs for their increased speed and the hardware-based encryption (self-encrypting drive or "SED" technology) that will protect the drive when the machine is off. This is particularly important for laptops that can be easily stolen. When you buy a new disk or configure a new laptop, turn on the disk encryption. Some CivicActions clients will demand it. (Contact your product manager to see if you are eligible for a hard disk rebate.)
 
 ### Software Disk Encryption
 

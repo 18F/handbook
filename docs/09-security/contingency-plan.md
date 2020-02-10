@@ -36,7 +36,7 @@ This Contingency Plan provides baseline guidance for the CivicActions Team when 
 
 Scenarios where that could happen include unexpected downtime of key services, system data loss, or improper privilege escalation. In the case of a security incident, the team uses the [Security Incident Response Plan](incident-response-plan.md) as well.
 
-Some clients will create and maintain a Contingency Plan defining procedures specfic to their system. In such a case, the client-specific Contingency Plan takes precedence.
+Some clients will create and maintain a Contingency Plan defining procedures specific to their system. In such a case, the client-specific Contingency Plan takes precedence.
 
 ### Recovery objective
 

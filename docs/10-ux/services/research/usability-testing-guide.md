@@ -22,7 +22,7 @@ Usability testing is a technique for evaluating a product by testing it on users
 *   Without distracting or influencing users, you need to find out what they are really thinking
 
     *   When a participant says "I like this page" ask a question like "what do you like best about it?"
-    *   Try to get specifics so you can better understand what the user is responding to (i.e "I like this layout" - "What appeals to you about the layout?"
+    *   Try to get specifics so you can better understand what the user is responding to (i.e. "I like this layout" - "What appeals to you about the layout?"
 
 *   Improvise if necessary.
 *   If two users get blocked or stuck by the same instruction, don't put a third user through that frustration - explain that you are aware of the issue and move on.

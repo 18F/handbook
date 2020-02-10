@@ -36,7 +36,7 @@
     *   Put appointments in your personal calendar
     *   Ping slack if you're just going offline for a few
     *   Basically let your team know when you're not free
-    *   Over communicate if you're going offline  (vacation, lunch, appointment, etc)
+    *   Over communicate if you're going offline  (vacation, lunch, appointment, etc.)
     *   Be at the pre-scheduled meetings & tell manager if you can't attend
     *   Be able to get your work done within your timebox
 *   We aim for the following billable utilization:
@@ -119,7 +119,7 @@
 *   Update LinkedIn & social media accounts with CivicActions as company
     *   Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
 *   Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account
-*   Add a photo avatar to your accounts (Slack, Google, Trello, Jira, etc)
+*   Add a photo avatar to your accounts (Slack, Google, Trello, Jira, etc.)
 *   [Update resume into CivicActions template](../team-resume-instructions.md)
 *   [Write your CivicActions bio w photo](../civicactions-bio-instructions.md)
 *   Manager to provide an introduction to our copywriter / editor for support on bio & resume

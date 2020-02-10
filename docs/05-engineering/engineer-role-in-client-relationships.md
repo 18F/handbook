@@ -26,7 +26,7 @@
 *   We flag any requirements that are likely to cause dev problems, either because we know they have been difficult to implement in the past, they are fiddle-y, the requirement is too vague to accurately estimate, or we don't know how we'll address the problem.
 *   We try to meet in person with the client if possible. It gives us a better sense of the pressures they face, how they make decisions, who needs to be involved in decisions, and how likely their decisions are to change once they've made an authoritative decision.
 *   We are aware when a client can't fully explain what they want and why.
-*   We remain aware that we can limit our involvment if, during discovery, we find problems that we don't think we can overcome within the scope of our contract. We have to be open and honest about the constraints we face.
+*   We remain aware that we can limit our involvement if, during discovery, we find problems that we don't think we can overcome within the scope of our contract. We have to be open and honest about the constraints we face.
 *   It's better to back out of the project rather than burn budget and not be successful.
 
 ## Identify, communicate project risks and escalate when appropriate
@@ -37,7 +37,7 @@
 *   It's difficult to share risk with clients and we need to work on the soft skills needed.
 *   We recognize risk is present at the requirements, knowledge, and execution level, and also "External" risks, such as working with 3rd parties, or on servers that we're not familiar with.
     *   Clearly identifying dependencies (data needed, code needed, graphics needed, access needed) can help bound risk.
-*   We differentiate "pre-execution" risks (requirements, design, assets, dependencies etc) which are typically addressed by communication and management from "technical" risks, which can be hard to mitigate in advance.
+*   We differentiate "pre-execution" risks (requirements, design, assets, dependencies, etc.) which are typically addressed by communication and management from "technical" risks, which can be hard to mitigate in advance.
 *   We escalate problems quickly to the tech lead, PM and/or account manager if we encounter issues that could block progress, momentum, or success.
 
 ## Train clients

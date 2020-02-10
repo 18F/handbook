@@ -8,7 +8,7 @@ One of the first tasks assigned to new employees is to review the [Onboarding Sc
 
 ## Tasks
 
-We use Trello boards to manage onboarding-related *tasks*, but nearly all onboarding *content* is contained in this Handbook. Tasks are captured in several Trello board templates (see below), each of which includes suggested timelines/deadlines and links to relevant Handbook content for each task.
+We use Trello boards to manage onboarding-related *tasks*, but nearly all onboarding *content* is contained in this Handbook. Tasks are captured in several Trello board templates (see below), each of which includes suggested timelines/deadlines and links to relevant handbook content for each task.
 
 Tools and resources for managing the process:
 
@@ -19,5 +19,5 @@ Tools and resources for managing the process:
 Trello board templates for new hires:
 
 *   [New Hire Checklist (Trello board)](https://trello.com/b/sMn9YJcO/template-onboarding-new-hire-checklist) (for all new hires)
-*   [New Engineer checklist (Trello board)](https://trello.com/b/bQeKK90e/template-onboarding-dev-engineering-new-employee-checklist) (for new devs only)
+*   [New Engineer checklist (Trello board)](https://trello.com/b/bQeKK90e/template-onboarding-dev-engineering-new-employee-checklist) (for new dev hires only)
 *   [New Project Manager Checklist (Trello board)](https://trello.com/b/KnmBekdC/template-onboarding-project-manager-new-employee-checklist-draft) (for new PMs only)

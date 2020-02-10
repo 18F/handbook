@@ -37,7 +37,7 @@ For non-billable internal meetings, PMs should bill as CA > Delivery > Project M
 *   Weekly Agile PM Meeting
 *   Pod Calls
 *   Monthly All Hands Call
-*   Check-ins with team members on performance & balance, etc
+*   Check-ins with team members on performance & balance, etc.
 
 ## Resourcing
 
@@ -48,7 +48,7 @@ For a team member whose time is split between projects, Forecast helps plan how 
 ## Scheduling Meetings
 
 *   The PM is generally the person to schedule all scrum ceremonies, client meetings, process meetings, and general team meetings. The team is also always welcomed to schedule one-off meetings for the internal team if they desire.
-*   Avoid scheduling meetings with blank descriptions in Google Calendar. Fill in a description/purpose for the meeting, link relevant documents, indicate the desired outcome, include an agenda, list discussion points, etc
+*   Avoid scheduling meetings with blank descriptions in Google Calendar. Fill in a description/purpose for the meeting, link relevant documents, indicate the desired outcome, include an agenda, list discussion points, etc.
 *   Make a relevant and detailed meeting title. Make it descriptive and concise.
 *   Only require the necessary people, make other invitees optional.
 *   Check the FIND TIME function in Google Calendar to make sure you're not double-booking someone - it is crucial that you look at other people's calendars.

@@ -47,12 +47,12 @@
 *   We use contrib modules (or write new ones!)
     *   [The Most Important Decision In Developing A Drupal Site: Contributed Vs. Custom Development](https://civicactions.com/blog/developing-drupal-site-contributed-vs-custom-development/): When writing code, we try to think about abstracting functionality where appropriate. This helps make it easier for us to contribute back to the larger community and also lets us recycle our work on different projects. Keep an eye to the horizon!
 *   We put any site text longer than a line or two in a settings field (or, at the least, a variable).
-*   For shorter strings make sure all text is run through the `t()` function, and then use locale.module to "translate" it if changes are needed. Locale module is also useful for keeping contrib modules (image, location etc) as "pristine" as possible, which makes upgrading easier.
+*   For shorter strings make sure all text is run through the `t()` function, and then use locale.module to "translate" it if changes are needed. Locale module is also useful for keeping contrib modules (image, location etc.) as "pristine" as possible, which makes upgrading easier.
 *   We use `variable_get()` for text or settings that may change, so that these can be easily changed without needing to push a release.
 
 ## Debugging
 
-*   When debugging, we double check for false positives. We alway cross check a positive result in case that positive result is the ONLY result, instead of one of many possible results.
+*   When debugging, we double check for false positives. We always cross check a positive result in case that positive result is the ONLY result, instead of one of many possible results.
 *   We validate assumptions, so that we work on the right thing.
     *   Am I assuming this is a back-end issue?
     *   Am I assuming this is a front-end issue?
@@ -119,7 +119,7 @@ function myfunc($my_parameter) {    // no space before "(". 1 space before '{'
   if ($my_parameter) {   // there is a space after "if". "while" and other conditionals
     do_something();
   }                      // close brackets under the opening code line, alone (unless commented)
-  else {                 // the else looks prety lonely, but it helps indenting rules like this
+  else {                 // the else looks pretty lonely, but it helps indenting rules like this
     do_something_else();
   }
   print "done".         // when possible, align comments (makes them easier to separate from code)
@@ -151,7 +151,7 @@ foreach ($types as $type) {
 
 ### Simplify Boolean Logic
 
-When the conditional has two values, here's a quick hint on boolean logic.
+When the conditional has two values, here's a quick hint on Boolean logic.
 These are equivalences:
 
 ```

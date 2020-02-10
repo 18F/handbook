@@ -21,9 +21,9 @@ The YubiKey is a hardware device manufactured by Yubico that provides a hardware
 
 *See also: [How to Secure Your Google, Dropbox, and GitHub Accounts With a U2F Key](http://www.howtogeek.com/232360/how-to-secure-your-google-dropbox-and-github-accounts-with-a-u2f-key/)*
 
-### Lastpass
+### LastPass
 
-This requires a Yubikey token (cover the button for approximately one second) on laptop/desktop to unlock LastPass.
+This requires a YubiKey token (cover the button for approximately one second) on laptop/desktop to unlock LastPass.
 
 *   My Vault -> Account Settings -> Multifactor Options
     *   Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)) - this is a useful backup
@@ -47,12 +47,12 @@ For each Google account you have:
 
 *   Visit <https://accounts.google.com/b/0/SmsAuthSettings#devices>
 *   Enable TFA, and complete the phone verification process (phone will act as backup TFA).
-*   Click on "Security Keys" and follow instructions to add Yubikey.
+*   Click on "Security Keys" and follow instructions to add YubiKey.
 *   Return to the main page and add a second phone and/or print backup codes.
-*   As long as you have a backup, you can also install the Yubikey Authenticator app, and configure your account to use that for the backup TFA instead of SMS/phone - this is the same as the Google Authenticator app, except that it stores the credentials on your Yubikey instead of the phone.
+*   As long as you have a backup, you can also install the YubiKey Authenticator app, and configure your account to use that for the backup TFA instead of SMS/phone - this is the same as the Google Authenticator app, except that it stores the credentials on your YubiKey instead of the phone.
 *   If you have funky devices/apps that don't support TFA, you can set an application specific password using that tab. This includes sending E-mail from your personal Gmail account using your civicactions.com IMAP, for instance.
 
-### Github
+### GitHub
 
 *   Visit <https://github.com/settings/two_factor_authentication/configure>
 *   Enable TFA, and complete the phone verification process (phone will act as backup TFA).
@@ -64,16 +64,16 @@ For each AWS account you have:
 
 *   Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#security_credential>
 *   Under MFA, add a Virtual MFA device.
-*   Use Yubikey Authenticator app to scan the QR code, and enter the reponse code, then close and reopen the app and enter the second response code.
+*   Use YubiKey Authenticator app to scan the QR code, and enter the response code, then close and reopen the app and enter the second response code.
 
 ### AWS IAM Account
 
 *   Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#users>
 *   Choose your user name
 *   Click on Manage your MFA device
-*   Use Google Authenticator app to scan the QR code, and enter the reponse code
+*   Use Google Authenticator app to scan the QR code, and enter the response code
 *   then close and reopen the app and enter the second response code.
-*   *using YubiKey untested - don't have Yubikey Authenticator set up*
+*   *using YubiKey untested - don't have YubiKey Authenticator set up*
 
 ## Securing your Laptop
 
@@ -84,9 +84,9 @@ Your laptop should lock (require a password to resume) on screen close and after
 
 ## YubiKey Neo U2F Setup
 
-Some older Yubikeys (like the Neo) need to have U2F (Universal Second Factor) enabled before use. *(If you are unsure, ask any IT staff member or on the [#general](https://civicactions.slack.com/messages/general) slack channel.)*
+Some older YubiKeys (like the Neo) need to have U2F (Universal Second Factor) enabled before use. *(If you are unsure, ask any IT staff member or on the [#general](https://civicactions.slack.com/messages/general) slack channel.)*
 
-For these Yubikeys, you may need to install and configure some software that "personalizes" your YubiKey. *Note: newer Yubikeys may not require this step.*
+For these YubiKeys, you may need to install and configure some software that "personalizes" your YubiKey. *Note: newer YubiKeys may not require this step.*
 
 ### Install Packages
 
@@ -101,7 +101,7 @@ pacaur -S yubikey-neo-manager-git
 
 #### Fedora
 
-*See also: <https://fedoraproject.org/wiki/Using_Yubikeys_with_Fedora>*
+*See also: <https://fedoraproject.org/wiki/Using_YubiKeys_with_Fedora>*
 
 ```
 dnf copr enable jjelen/yubikey-neo-manager
@@ -125,7 +125,7 @@ Download and install the [YubiKey Personalization Tool](https://itunes.apple.com
 
 ### Personalize your YubiKey
 
-This allows you to use your Yubikey with Google TFA (new fangled U2F), as well as LastPass (which uses the OTP application).
+This allows you to use your YubiKey with Google TFA (new fangled U2F), as well as LastPass (which uses the OTP application).
 
 #### GNU/Linux command line
 

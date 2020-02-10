@@ -37,7 +37,7 @@ Being a gender-diverse team means that not everyone’s pronouns are immediately
 
 Sharing your own pronouns promotes clarity and transparency and can also promote inclusion by normalizing the practice. Good places to communicate your pronouns are: your Slack profile, email signature, business card, CivicActions staff bio (if already published, request the addition in #content), or in spoken communication where you feel it is appropriate.
 
-These practices won’t be familiar to everyone, and it may take some time and practice to get used to. That’s ok — there are plenty of resources and people here to support you as you learn. 
+These practices won’t be familiar to everyone, and it may take some time and practice to get used to. That’s ok — there are plenty of resources and people here to support you as you learn.
 
 **Resources**
 Check out the All Hands Call slide deck on personal pronouns to learn more about:
@@ -73,7 +73,7 @@ In this example, the company's management team felt a responsibility to be trans
 
 ### How does Radical Transparency NOT Work at CivicActions?
 
-Radical transparency can sound pretty uncomfortable. Some companies take it to mean sharing of salaries, etc. to increase competitiveness. This is not CivicActions' definition of radical transparency. We believe radical transparency is the company, board, and management team's responsibility to be open and transparent with employees, clients, and one another. We believe everyone in the company is responsible for being direct and transparent when they have a challenge with someone. We believe that whenever possible, work should be carried out in public slack channels, problems should be shared with product owners, and issues should be talked out openly and honestly. This does not mean that you cannot ever speak privately to other people. This simply means that CivicActions feels that as a team, it is our responsibility to be as transparent as possible about the work we do, and how we do it.
+Radical transparency can sound pretty uncomfortable. Some companies take it to mean sharing of salaries, etc. to increase competitiveness. This is not the CivicActions definition of radical transparency. We believe radical transparency is the company, board, and management team's responsibility to be open and transparent with employees, clients, and one another. We believe everyone in the company is responsible for being direct and transparent when they have a challenge with someone. We believe that whenever possible, work should be carried out in public slack channels, problems should be shared with product owners, and issues should be talked out openly and honestly. This does not mean that you cannot ever speak privately to other people. This simply means that CivicActions feels that as a team, it is our responsibility to be as transparent as possible about the work we do, and how we do it.
 
 ## Inclusion
 Inclusion is a sense of belonging that allows people to fully engage and contribute, and is a key part of fostering diversity and equity on our team. Promoting inclusion goes beyond simply tolerating differences — it requires taking an active role in honoring the variety of experiences we bring to the table so everyone is empowered to participate.
@@ -84,11 +84,11 @@ Some practical tips for making inclusive spaces on your team:
 +   Notice who isn’t speaking, and give them opportunities to contribute
 +   Celebrate the things your teammates do well  
 +   Start noticing when you’ve made an assumption, and ask questions instead
-+   Practice active listening (see the previous section) 
++   Practice active listening (see the previous section)
 +   Take time to learn more about how inequality affects people at work
-+   Speak up when you notice that someone is disrespected or left out 
++   Speak up when you notice that someone is disrespected or left out
 
-We work to to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn’t just a core part of our culture, it’s also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
+We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn’t just a core part of our culture, it’s also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
 
 [Learn more about the Diversity, Equity, and Inclusion Practice Area](https://civicactions-handbook.readthedocs.io/en/latest/04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/ops/)
 
@@ -121,7 +121,7 @@ A: The Balance Score is mostly for yourself. It's a way to check in with yoursel
 
 ### Q: Sometimes we need to put the client in their place. What can we do so that they don't take advantage of us?
 
-A: The company mission of transformation starts with people. With our expectations of good communication and authentic relationships, it can be frustrating when a client doesn't reciprocate with the same openness. This is where the "us vs. them" can start showing up. Instead of "putting the client in their place" we aim to understand where the client is coming from. What is bringing up this behaviour? What is causing the fear or distrust? Once we can acknowledge and identify these very real feelings, we get back to being on the same team. We can also look within ourselves -- for example, if our concern is that we're being taken advantage of, why do we feel that way? In an escalated situation, it's not up to a single team member to remedy the situation, but rather to use the support of the team and the account management to get to a healthier relationship with the client.
+A: The company mission of transformation starts with people. With our expectations of good communication and authentic relationships, it can be frustrating when a client doesn't reciprocate with the same openness. This is where the "us vs. them" can start showing up. Instead of "putting the client in their place" we aim to understand where the client is coming from. What is bringing up this behavior? What is causing the fear or distrust? Once we can acknowledge and identify these very real feelings, we get back to being on the same team. We can also look within ourselves -- for example, if our concern is that we're being taken advantage of, why do we feel that way? In an escalated situation, it's not up to a single team member to remedy the situation, but rather to use the support of the team and the account management to get to a healthier relationship with the client.
 
 ### Q: I've made a mistake in my work and I don't want to use our group forums to talk about it. Can I just ping my manager directly?
 
@@ -135,13 +135,13 @@ A: In short, we're all responsible for the success of the project. Commitments a
 
 A: Slack can be great for keeping us all connected on project status, company announcements and a good laugh -- but yes, it can be overwhelming. There are only a few channels that you must review. These include #announcements and your project channels. For everything else you can either leave the channel, mute the channel, or set your preferences to only ping you when your name is mentioned. It can also be relieving to remove Slack notifications from your phone's home screen or using the DND after working hours. There is a delicate balance to all of this, since Slack really is an amazing way to stay connected to your teammates. We recommend trying out different methods for keeping it effective. It would be great to find at least one channel that is more of a social outlet to build camaraderie with your peers. If you're still struggling with managing Slack, please bring it to the attention of your manager.
 
-### Q: What topics are inappropriate to discuss at work (eg Slack, meetings, etc)?
+### Q: What topics are inappropriate to discuss at work (eg Slack, meetings, etc.)?
 
 A: Although CivicActions as an organization promotes free & open communication, there are some topics that can be sensitive in a work environment. Talking about politics or religion can be offensive to some. At CivicActions, we don't have a specific list of off-limits topics, but we strive to be conscious of appropriate vs. inappropriate or emotionally reactive topics. The people involved in conversations are expected to be aware of their audience and remain sensitive to how their words may affect others. If you sense that a certain topic might be sensitive to certain coworkers, don't discuss it with them. If you observe or are part of a conversation that makes you uncomfortable, you can bring that up to the people involved or reach out to your manager and ask them to.
 
 The work that we do in serving others and bringing transformation to the world will sometimes require the discussion of sensitive topics. And because our company is comprised of mission-minded people who care deeply about making an impact, there are bound to be conversations that must be handled with care. Our goal is to balance meaningful communications with the understanding that opinions may vary -- and an awareness that some topics can be powerful and unwelcome at work. We want to be open to learning from each other, while increasing our empathy for those around us.
 
-### Q: But really, what about politics? 
+### Q: But really, what about politics?
 
 A: Political discourse affects everyone differently. While we want people to be able to have open, respectful conversations about things they disagree about, CivicActions recognizes that political speech can be hurtful and make team members feel unsafe at work. For that reason, we ask everyone to keep political speech to the dedicated #politics channel, and only engage in conversations about politics when you are sure that it is a welcome topic for everyone present. When in doubt, it is best to avoid politics at work.
 
@@ -150,7 +150,7 @@ Many topics can have a political dimension. These guidelines specifically apply 
 
 ### Q: Someone put something in Slack or said something at a meeting that I find very offensive. What should I do?
 
-A: If you're comfortable communicating directly with the person who offended you, please start there. You can tell them that what they said was offensive, how it made you feel and why it's inappropriate (this can be done in the form a "withhold" conversation as mentioned above). If you're not comfortable addressing them directly, you can ping or talk to Elizabeth or Owen (or anyone on the management team) and they can help you resolve the issue. 
+A: If you're comfortable communicating directly with the person who offended you, please start there. You can tell them that what they said was offensive, how it made you feel and why it's inappropriate (this can be done in the form a "withhold" conversation as mentioned above). If you're not comfortable addressing them directly, you can ping or talk to Elizabeth or Owen (or anyone on the management team) and they can help you resolve the issue.
 
 You can also reach out to a [Diversity, Equity, and Inclusion (DEI) point person](https://trello.com/c/5XyeNrfZ/109-dei-point-people) who is committed to providing confidential support for team members who want to talk through conflict or issues with a trusted peer.
 

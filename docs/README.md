@@ -15,7 +15,7 @@ Effective Date TBD (Work in Progress)
 
 ### <a name="purpose"></a>Handbook Purpose
 
-This Handbook has been prepared to describe CivicActions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
+This Handbook has been prepared to describe the CivicActions philosophy, working methods and processes, employment practices, policies, benefits, and conduct we expect from members of our team.
 
 ## License
 

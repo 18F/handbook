@@ -8,7 +8,7 @@ We also have [a Trello board](https://trello.com/b/ZKx6l4bC/civicactions-documen
 
 The documentation working group currently meets weekly to prioritize backlog items as they come up.
 
-We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel in Slack to comunicate throughout the week.
+We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel in Slack to communicate throughout the week.
 
 ## Minimal Viable Contribution
 
@@ -19,4 +19,4 @@ Better than doing nothing at all:
 
 ## Writing documentation
 
-You should read the rest of this 00-contributing section if you intend to contribute beyond just a trello ticket or chatting in the #docs channel.
+You should read the rest of this 00-contributing section if you intend to contribute beyond just a Trello ticket or chatting in the #docs channel.

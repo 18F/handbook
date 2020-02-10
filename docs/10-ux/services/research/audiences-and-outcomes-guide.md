@@ -11,7 +11,7 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
 *   Retreat-style / informal
 *   Focus on the audience for org/agency and the actions that the stakeholders want/expect them to take
 *   First talk about audiences, and then the actions (and outcomes) you want them to take, or vice versa (depending on the project)
-*   The most common things you hear initially are vague (ie. "raise awareness") - try to home in on specific actions and outcomes, and connect those outcomes to specific metrics that would be tracked to evaluate success
+*   The most common things you hear initially are vague (i.e. "raise awareness") - try to home in on specific actions and outcomes, and connect those outcomes to specific metrics that would be tracked to evaluate success
 *   Look at the bigger picture rather than just the website itself
 *   Spend 1-2 hours
 
