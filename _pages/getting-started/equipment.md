@@ -71,16 +71,7 @@ See the [software](../software/) page.
 
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request. Ask in the Slack channel corresponding to your office.
 
-To get additional peripherals (chargers, dongles, etc.), [open a `Hardware` request](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=c73f4b527897a400ce3ddff91a649434). If that link doesn't work, find it through:
-
-1. Visit the [GSA IT Service Portal](https://gsa.service-now.com/)
-1. Click `Service Catalog`
-1. Click `Equipment Services`
-1. Click `Hardware`
-
-Note that, per policy [OAS P 9900.1](https://www.gsa.gov/cdnstatic/OAS_P_9900.1_Government_Furnished_Equipment_for_Use_Outside_GSA_Agency_Worksites_%28Signed_4-8-2014%29_%28Rev._11-19-2015%29.pdf#page=2),
-
-> GSA will not provide a government furnished print output device, GSA furnished internet connection, or other equipment or services, beyond the laptop and headset...for use by employees working at locations other than GSA office workspaces.
+To get replacement/additional peripherals (chargers, dongles, etc.), open a [micropurchase request]({{site.baseurl}}/purchase-requests/).
 
 ## Equipment to accommodate disability
 
