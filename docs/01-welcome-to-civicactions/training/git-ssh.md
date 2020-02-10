@@ -22,7 +22,7 @@ Host *.civicactions.net
 Port 940
 ```
 
-## GitLaband SSH
+## GitLab and SSH
 
 *   Someone will have created a GitLab account for new employee, they should search email for git.civicactions.net for the welcome email
 *   Upload public key to git.civicactions.net
