@@ -513,7 +513,7 @@ navigation:
           - text: GitHub (code repos and versioning)
             url: github/
             internal: true
-          - text: InVision
+          - text: InVision (simple prototyping)
             url: invision/
             internal: true
           - text: Mural.ly (collaborative whiteboard tool)
