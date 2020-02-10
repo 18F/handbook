@@ -1,5 +1,6 @@
 ---
 title: VMWare Horizon
+outdated: true
 ---
 
 **VMWare Horizon is being replaced by Citrix VDI.** See [instructions for using Citrix](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/citrix/citrix-and-citrix-workspace).
