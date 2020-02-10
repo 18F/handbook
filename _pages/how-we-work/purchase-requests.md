@@ -30,7 +30,9 @@ If you want TTS/18F branding, you must purchase your own business cards. However
 
 ## Office supplies
 
-Anyone working in an 18F office may request a purchase of office supplies by filling out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). Once the request is placed, the designated TTS Ops team member will determine whether or not to recommend your request for approval by the TTS Director of Operations.
+1. If you have access to a GSA office, check the supply rooms for what you need.
+1. If not available, fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
+1. The designated TTS Ops team member will determine whether or not to recommend your request for approval by the TTS Director of Operations.
 
 ## Domain renewals
 
