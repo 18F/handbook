@@ -18,7 +18,7 @@ Google Hangouts are video chats in the browser. Here are some tips for using Han
 *   Turn off your camera or reduce bandwidth if connection is poor
 *   Use some kind of headset or headphones instead of relying solely on computer mic (computer mics can sometimes create echoes)
 *   Use proper etiquette for Hangout professionalism (consider the appropriateness of background visuals/noise, attire/dress, use of effects, eating, muting, etc.)
-*   It's okay to mute yourself
+*   It's okay to mute others
 *   We can invite people outside of CivicActions
 *   You can also use the Hangout to call people in via phone: ![call people in via phone](../../images/hangouts-phone.png "Call from hangouts")
 *   If you want to focus on just one participant (or their screen, if they're screen sharing), you can stop the screen from switching by clicking on their picture/screenshare. To go back to automated switching, just click it again. ![stop screen switching](../../images/stop_screen_switching_in_hangouts.png "Stop screen switching in hangouts")
