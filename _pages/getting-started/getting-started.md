@@ -87,7 +87,7 @@ When you're ready to begin using GitHub, the [Handbook repository](https://githu
 If you see anything in the Handbook that appears out of date or incorrect, you can practice your new pull request skills and help us improve it!
 You can also look through the Handbook issues and fix something.
 
-When you make the changes you want to see and open a pull request, someone will review your code. Alternately, you may very well get pulled into a code review someday because of your expertise in a topic. 
+When you make the changes you want to see and open a pull request, someone will review your code. Alternately, you may very well get pulled into a code review someday because of your expertise in a topic.
 
 If pull requests and code reviews feel a bit foreign to you, it
 might be helpful to think of it as similar to suggesting changes in a shared Google Doc. 
@@ -116,7 +116,7 @@ Maybe you've identified a good way to update the script!
 If you are running a project locally, you may also find yourself needing to know
 [some basics of the Mac OS X command line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line).
 
-And remember, if you can't figure out how to get it running, that's probably not your fault --- there is likely something that needs to be updated, and that can be accomplished by fillint out the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) and selecting the option for a _Generic Request_.
+And remember, if you can't figure out how to get it running, that's probably not your fault --- there is likely something that needs to be updated, and that can be accomplished by filling out the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) and selecting the option for a _Generic Request_.
 You can file an issue in the repository or contact one of the project owners or contributors and ask them to update their README and any other relevant documentation.
 
 
