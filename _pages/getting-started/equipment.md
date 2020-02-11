@@ -22,13 +22,9 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 ### Rules
 
-**[Require a password](http://support.apple.com/kb/PH18669?viewlocale=en_US)** when your computer goes to sleep or shows a screensaver.
-
 **Lock your computer before leaving it.** Press the **Control + Shift + Power** keys on newer MacBooks or **Control + Shift + Eject** on older MacBooks with optical drives. If you use Alfred, you can open Alfred and type lock.
 
 **Back up your machine.** Make a copy of your startup disk before you encrypt it. Your Mac has a built-in backup system called Time Machine (accessible from System Preferences) that will regularly back up the main disk to any compatible network server, connected hard drive, or partition you choose. Please ensure Time Machine backups are encrypted by selecting the **Encrypt backups** checkbox when you choose the destination disk.
-
-**Check that your hard drive is [encrypted with FileVault](http://support.apple.com/en-us/HT4790).** GSA IT sets up your laptop with FileVault encryption. You won't need to (and shouldn't) change this, but you can check it in your System Preferences just to see that it's there and properly set up.
 
 **Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
@@ -38,7 +34,7 @@ You can [request a loaner PC through the IT Service Desk](https://gsa.service-no
 
 ### Tips
 
-- Run the [shell script](https://github.com/18F/laptop) which will turn your Mac into an awesome web development machine.
+- Run the [laptop script](https://github.com/18F/laptop) which will turn your Mac into an awesome web development machine.
 
 ## Phone
 
