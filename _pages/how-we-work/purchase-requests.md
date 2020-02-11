@@ -98,7 +98,7 @@ Or find us in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/).
    1. The Director of the TTS Tech Portfolio is the AO for all software/domain requests.
    1. The Director of Business Operations is the AO for all equipment, office supply, and business card requests.
    1. The Director of TTS' Office of Acquisition is the AO for services and all other requests.
-1. For Once the AO approval has been approved, the status is automatically moved to `Pending P-card Purchaser` and an email generated to the card holder. The card holder will verify that the request is something they can move forward with and can then make the purchase.
+1. Once the AO approval has been approved, the status is automatically moved to `Pending P-card Purchaser` and an email generated to the card holder. The card holder will verify that the request is something they can move forward with and can then make the purchase.
    1. For software/domains, the purchase card holder is a member of the [TTS Tech Portfolio]({{site.baseurl}}/tech-portfolio/) team.
    1. For Equipment/office supplies, the purchase card holder is the TTS equipment manager on the TTS Business Operations team.
    1. For services and all other requests, the purchase card holder is the OA Micropurchase PM.
@@ -109,7 +109,7 @@ Or find us in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/).
 1. A log will be generated in Pegasys within a few hours of entry of all the above information. The log will show up in the card holder's Pegasys inbox. They must verify that all information is correct and then approve. Adjustments will need to be made in case a purchase needs to be split across multiple accounting lines.
 1. If the approval in Pegasys is processed within 5 business days of the purchase, and the log has only one accounting code, the log should be auto-reconciled and no further action is needed. Otherwise, it will need to be manually reconciled.
 
-### Other behind-the-scenes notes
+### Other notes
 
 The logic of which role is responsible for each type of purchase is set in the OnSubmit.gs file of [this script](https://script.google.com/a/gsa.gov/d/1pmQUdF6wWuC_p19U5JGg_FE0gCNLdI6z7p1V0ZspZ6t9mS5prLIN151I/edit?mid=ACjPJvG8EfcsHcc7dSMr_zjmsRi7zmB0MynQhhi1sXDTpxe4Atz-dkBiF9D21__0Uf6ZTFpUk7Jp6OofDFI0PBPLJ0hFlEyeZl46chLZg6wG_9257Aq-gpL5YgJGsihoiduyJYzKl0IZais&uiv=2). However, the individual who occupies each role is determined by the [Configuration tab of the Micropurchase Request Sheet](https://docs.google.com/spreadsheets/d/1dO1qz9TFAWFgGqteRL10Bbq4JSKskXzdwlgAeKtMYj8/edit#gid=46395844), and can be easily changed in case one of the responsible parties is out of the office.
 
