@@ -41,6 +41,8 @@ There is no dedicated staff for the handbook; maintenance is done by TTS staff w
 
 For long or important chunks of writing, consider asking the [18F Writing Lab](https://github.com/18F/writing-lab) to review and edit  before you propose significant changes to the handbook.
 
+Use of [Prettier](https://prettier.io/) is encouraged for formatting files, though formatting is not a blocker for merging changes.
+
 ### Pull requests (PRs)
 
 Each pull request should be reviewed by at least one other TTS staff member before merging. Once a PR is approved, anyone can merge it (including the original submitter).
