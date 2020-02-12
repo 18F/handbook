@@ -30,14 +30,9 @@ If you want TTS/18F branding, you must purchase your own business cards. However
 
 ## Office supplies
 
-Anyone working in an 18F office may request a purchase of office supplies by filling out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). If you have questions about office supplies, the TTS Ops team points of contact (POC) are:
-
-- Chicago - Ethan Heppner
-- DC - Matt Spencer
-- New York - Ethan Heppner
-- San Francisco - Ethan Heppner
-
-Once the request is placed, the designated TTS Ops team member will determine whether or not to recommend your request for approval by the TTS Director of Operations.
+1. If you have access to a GSA office, check the supply rooms for what you need.
+1. If not available, fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
+1. The designated TTS Ops team member will determine whether or not to recommend your request for approval by the TTS Director of Operations.
 
 ## Domain renewals
 
@@ -72,16 +67,6 @@ Please follow the recommended steps below when ordering services under $10,000:
    - You need to avoid scope creep (adding extra work to the original agreement) that would go over the threshold.
    - If you need any assistance with negotiations, please contact the TTS Micro-Purchase PM and the OA Director.
 6. Once the quote is received, the Micropurchase PM and OA Director will review the quote and ask for more quotes, clarifications, or proceed with the purchase.
-
-**Who to contact about purchasing services**
-
-**TTS Micro-Purchase Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov)
-
-Slack: @melanie
-
-**TTS Office of Acquisition Director:** Esther Praske [esther.praske@gsa.gov](mailto:tts-purchasers@gsa.gov)
-
-Or find us in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/).
 
 ## Behind the scenes
 
@@ -123,4 +108,4 @@ For issues related to automated logs not showing up as expected, reach out to GS
 
 ## Questions
 
-Any questions? Email [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov) or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
+Any questions? [#micropurchase](https://gsa-tts.slack.com/messages/micropurchase/), email [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
