@@ -23,8 +23,9 @@ Historical Prodev Hours Spent:
 | 2016   | 963.5                          | 28                            | 34.4                                          |
 | 2017   | 1620                           | 35                            | 46.3                                          |
 | 2018   | 1736                           | 44                            | 39.5                                          |
+| 2019   | 1668                           | 56                            | 29.8                                          |
 
-*\*As of January 1, 2019. All data was pulled from Harvest.*
+*\*As of February 12, 2020. All data was pulled from Harvest.*
 
 ## Prodev Sprints
 
