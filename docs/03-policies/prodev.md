@@ -23,8 +23,29 @@ Historical Prodev Hours Spent:
 | 2016   | 963.5                          | 28                            | 34.4                                          |
 | 2017   | 1620                           | 35                            | 46.3                                          |
 | 2018   | 1736                           | 44                            | 39.5                                          |
+| 2019   | 1668                           | 56                            | 29.8                                          |
 
-*\*As of January 1, 2019. All data was pulled from Harvest.*
+*\*As of February 12, 2020. All data was pulled from Harvest.*
+
+## Your Prodev Budget
+
+Each full-time team member is provided an annual prodev budget of $1,200. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours. 
+
+This budget can be used a number of things:
+*  Materials used to obtain professional certifications including classes, study guides, books
+*  Testing fees & renewal costs associated with professional certifications
+*  Books
+*  Online courses
+*  Travel and accomodation for attending conferences
+*  Other costs incurred from you becoming a smarter, more awesomer version of you
+
+There are some limitations on the prodev budget usage. For spending amounts over $50, you'll need to get [approval in advance](expenses.md). Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be [submitted in the usual way](../04-how-we-work/tools/harvest.md#tracking-expenses) through Harvest, under the "CivicActions -> Professional development" project.
+
+Remember that your budget does NOT carry over at the end of the year. So get busy learning something! Use it or lose it.
+
+Want to spend more money than I have budget for? Talk to your manager if you have prodev needs that can't be covered by your annual budget.
+
+You can see how much of your annual prodev budget remains by looking at the summary tab here: [Prodev Usage 2020](https://docs.google.com/spreadsheets/d/1Szr7GAWKKEqp7WxWABgLVqgoilZ_6Gbl5bxbTpZdEkw/edit#gid=98617197)
 
 ## Prodev Sprints
 
@@ -47,32 +68,6 @@ If you're asked by someone else to assist with their prodev, please make time to
 ## Communication
 
 We have a [#prodev](https://civicactions.slack.com/messages/prodev) Slack channel for prodev-related communication.
-
-## Prodev FAQ's
-
-Q: How much do I get to spend on prodev each year?
-A: Your budget is $1,200. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours. Your manager can tell you more.
-
-Q: What kinds of stuff can I spend my prodev budget on?
-A: Books, courses, conferences, certifications and prodev-related travel expenses.
-
-Q: Are there any other limits on the prodev budget?
-A: For spending amounts over $50, you'll need to get [approval in advance](expenses.md). Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be [submitted in the usual way](../04-how-we-work/tools/harvest.md#tracking-expenses) through Harvest, under the "CivicActions -> Professional development" project.
-
-Q: Do I have to spend my prodev money during a scheduled prodev sprint?
-A: Nope. Spend it any time you like.
-
-Q: How can I find out how much of my yearly prodev budget has been used?
-A: See the summary tab of this sheet:  [Prodev Usage 2018](https://docs.google.com/spreadsheets/d/1fi1B2Gx37NpBtZxY8yR_J0hfKRxGzMy4vSn764IxTRA/edit#gid=98617197)
-
-Q: What if I want to spend more money than I have budget for?
-A: Talk to your manager if you have prodev needs that can't be covered by your annual budget.
-
-Q: Does my prodev budget carry over to the following year if I don't use it all?
-A: No. Prodev budgets are "use it or lose it", so go get busy learning something!
-
-Q: Do I have to use my prodev hours allocation during a scheduled prodev sprint?
-A: Nope. Spend it any way you like. But remember that focusing your efforts during a prodev sprint can make the time spent much more effective.
 
 ## Appendix and Other Info
 
