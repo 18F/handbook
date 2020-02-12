@@ -39,19 +39,7 @@ If you are curious where your software is in terms of review, check out the [CIO
 
 ## OMB guidance
 
-The Office of Management and Budget (OMB) has drafted guidance to implement FITARA, Management and Oversight of Federal Information Technology M-15-14.
-The objectives of the requirements outlined in this memorandum are to:
-
-1. Assist agencies in establishing management practices that align IT resources with agency missions, goals, programmatic priorities, and statutory requirements;
-2. Establish government-wide IT management controls that will meet FIT ARA requirements while providing agencies with the flexibility to adapt to agency processes and unique mission requirements; 1 Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 11 3-29 1. Further references in the text that refer to "FITARA" refer to these sections. 1
-3. Establish a "Common Baseline" for roles, responsibilities, and authorities of the agency CIO and the roles and responsibilities of other applicable Senior Agency Officials2 in managing IT as a strategic resource;
-4. Enable the CIO's role, with respect to the development, integration, delivery, and operations of any type of IT, IT service, or information product to enable integration with the capabilities they support wherever IT may affect functions, missions, or operations;
-5. Strengthen the agency CIO 's accountability for the agency's IT cost, schedule, performance, and security;
-6. Strengthen the relationship between agency CIOs and bureau CIOs;
-7. Establish consistent governmentwide interpretation of FITARA terms and requirements;
-8. Assist agencies in establishing an inclusive governance process that will enable effective planning, programming, budgeting, and execution for IT resources;
-9. Provide transparency on IT resources across entire agencies and programs; and
-10. Provide appropriate visibility and involvement of the agency CIO in the management and oversight of IT resources across the agency to support the successful implementation of cybersecurity policies to prevent interruption or exploitation of program services.
+The Office of Management and Budget (OMB) has drafted guidance to implement FITARA, [Management and Oversight of Federal Information Technology M-15-14](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf).
 
 ## OCIO guidance
 
