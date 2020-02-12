@@ -43,7 +43,7 @@ The Office of Management and Budget (OMB) has drafted guidance to implement FITA
 The objectives of the requirements outlined in this memorandum are to:
 
 1. Assist agencies in establishing management practices that align IT resources with agency missions, goals, programmatic priorities, and statutory requirements;
-2. Establish government-wide IT management controls that will meet FIT ARA requirements while providing agencies with the flexibility to adapt to agency processes and unique mission requirements; 1 Title VIII, Subtitle D of the National Defense Authorization Act (NOAA) for Fiscal Year 2015, Pub. L. No. 11 3-29 1. Further references in the text that refer to "FIT ARA" refer to these sections. 1
+2. Establish government-wide IT management controls that will meet FIT ARA requirements while providing agencies with the flexibility to adapt to agency processes and unique mission requirements; 1 Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 11 3-29 1. Further references in the text that refer to "FITARA" refer to these sections. 1
 3. Establish a "Common Baseline" for roles, responsibilities, and authorities of the agency CIO and the roles and responsibilities of other applicable Senior Agency Officials2 in managing IT as a strategic resource;
 4. Enable the CIO's role, with respect to the development, integration, delivery, and operations of any type of IT, IT service, or information product to enable integration with the capabilities they support wherever IT may affect functions, missions, or operations;
 5. Strengthen the agency CIO 's accountability for the agency's IT cost, schedule, performance, and security;
