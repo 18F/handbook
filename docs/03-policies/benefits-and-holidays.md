@@ -17,7 +17,7 @@ The following holidays are observed by CivicActions and the office is considered
 
 Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation. You do NOT need to log entries when the office is closed for a Holiday.
 
-## Timeoff
+## Time Off
 
 Time off applies to exempt employees. We do not accrue sick days, vacation days or any other form of time off. Instead, employees are encouraged to take time off as needed to feel balanced, productive and healthy.
 
@@ -29,9 +29,20 @@ You do not need to justify time off, but (except for unexpected events or emerge
 4.  Then the admin will put it on the Master Out of Office Calendar.
 5.  Lastly, follow the [procedure for logging time off](../04-how-we-work/tools/harvest.md).
 
+## Sick Time Off
+
 If you are unexpectedly unable to work for any reason (e.g., illness, emergency, power outage), email <mailto:ca-schedule@civicactions.net>. It is not sufficient to notify only a member of your team or post something in Slack. If you do not have internet access, you can call our main number, 510-408-7510 but this is not an efficient way to get the word out. You should consider having your manager's phone number handy. Lastly, follow the procedure for [logging sick time off](../04-how-we-work/tools/harvest.md) in Harvest with CivicActions.
 
 Time off will be recorded simply to easily see any patterns that might otherwise be overlooked, including non-use. Unless it will cause an extreme hardship on the company and your team, no request for time off under two weeks will be turned down.
+
+## Schedule Shifts
+
+If you find yourself needing to adjust your schedule a certain day or week, it is best practice to follow a similar process as requesting time off. A schedule shift does not mean you are taking time off, but rather you have an interrupted or different schedule from your normal work week. An example could be your team is traveling for a project/sales meeting, your attending a conference, you need a Tuesday off but plan to make up the hours over the weekend. 
+
+1.  You should first make sure you understand the impact of your schedule shift to your (project) team and get coverage or move meetings as appropriate. 
+2.  Email the ca-schedule@civicactions.net list describing your schedule change and note that you've already worked out plans with your team for coverage, etc. 
+3.  The schedule change will be acknowledged in an email reply. 
+4.  The admin will add this schedule change to the OOO calendar so that it appears in Slack with other requests like time off.  
 
 ## Personal Leave of Absence
 
