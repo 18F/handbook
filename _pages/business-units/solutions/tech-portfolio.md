@@ -19,7 +19,7 @@ We also do things like:
 - **IT Security:** Involved in [security incidents]({{site.baseurl}}/security-incidents/) triage and reporting
 - **Requirements:** In coordination with GSA IT, manage and support procurements, approvals, and licenses (with Acquisition and Finance teams) for [hardware]({{site.baseurl}}/equipment/) and [software]({{site.baseurl}}/software/) that chapters need to accomplish their mission
 - **Assets:** Manage major [TTS infrastructure](https://before-you-ship.18f.gov/infrastructure/) and programs such as [Bug Bounty](https://hackerone.com/tts), [AWS](https://before-you-ship.18f.gov/infrastructure/aws/), New Relic, Twilio, etc.
-- **Relationships:** Advise TTS leadership on technology-related matters
+- **Relationships:** Advise TTS leadership and interface with the rest of GSA (FAS, OGP, GSA IT Security, etc) on technology-related matters.
 - **Customer Service:** Generally support TTS on any technology-related matters
 - **Administration:** Perform operational activities like access, account and license management. 
 
