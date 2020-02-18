@@ -142,6 +142,10 @@ If the repository is published as a package, please also mark it as deprecated.
 - PyPI: Publish with a `Development Status :: 7 - Inactive` [classifier](https://pypi.org/classifiers/)
 - Ruby gem: Publish with a [post-install message](https://guides.rubygems.org/specification-reference/#post_install_message)
 
+## Actions
+
+[GitHub Actions](https://github.com/features/actions) can be used for continuous integration/deployment on public repositories, but is not currently available for private repositories in (most of) our GitHub organizations for billing reasons.
+
 ## Tips
 
 - **Document your workflow.** There are many different ways to use GitHub, and each different team of people at 18F (likely) uses it differently. That said, teams should document their desired git workflow for each project, such as in your repository's `contributing.md` file. The 18F-Site team offers a good example with [their GitHub wiki](https://github.com/18F/18f.gsa.gov/wiki/How-we-Git). In 18F's [development guide](https://pages.18f.gov/development-guide/), there are [code review questions](https://pages.18f.gov/development-guide/code-review/) that your team may want to go over as you think about documentation.
