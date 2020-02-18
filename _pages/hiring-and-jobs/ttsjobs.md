@@ -39,8 +39,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [PIF - Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow/) - open Wednesday, January 29th through Monday, May 4th
 
-- [Solutions Accessibility Specialist (IT Specialist INFOSEC)](https://www.usajobs.gov/GetJob/ViewDetails/559204700) - Open Friday, February 7th through Monday, February 17th
-
 ### Internal only competitions
 
 - [Cloud.gov Consulting Engineer](https://docs.google.com/document/d/1_TBglbcB-Q_O7HZwi81Tg2qu46VF8P4bcL3qp14fZhk/edit#) - open Thursday, February 13 through Thursday, February 27
