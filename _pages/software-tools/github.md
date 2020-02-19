@@ -134,7 +134,7 @@ Contractors or external government collaborators should only be added to teams w
 
 ### Archiving
 
-As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), we [archive](https://help.github.com/articles/archiving-repositories/) repositories to deprecate them. In short, that means we are no longer maintaining them, including keeping dependencies up-to-date. No approval is needed archive/unarchive a repository. Feel free to do so yourself, or ask [#admins-github](https://gsa-tts.slack.com/messages/admins-github) for help. Note that archiving a repository is _not_ the same as deleting it.
+As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), we [archive](https://help.github.com/articles/archiving-repositories/) repositories to deprecate them. In short, that means we are no longer maintaining them, including keeping dependencies up-to-date. No approval is needed to archive/unarchive a repository. Feel free to do so yourself, or ask [#admins-github](https://gsa-tts.slack.com/messages/admins-github) for help. Note that archiving a repository is _not_ the same as deleting it.
 
 If the repository is published as a package, please also mark it as deprecated.
 
