@@ -63,7 +63,7 @@ The Director was selected through nominations and interviews. While there is no 
 
 ### DE&I Leads
 
-The DE&I Leads lead efforts to foster a diverse and inclusive environment for engineers. Their mission includes building a strong culture and setting an inclusive tone even before a new engineer comes on board. Anyone who has issues or concerns related to inclusion or equity in the 18F engineering chapter should feel empowered to reach out to the DE&I Leads. If you have access to the TTS Slack, you can reach us at @amymok and @alexsoble. You can also reach us by email at: amy.mok@gsa.gov and alex.soble@gsa.gov.
+The DE&I Leads lead efforts to foster a diverse and inclusive environment for engineers. Their mission includes building a strong culture and setting an inclusive tone even before a new engineer comes on board. Anyone who has issues or concerns related to inclusion or equity in the 18F engineering chapter should feel empowered to reach out to the DE&I Leads. If you have access to the TTS Slack, you can reach us at @amymok and @alexsoble. You can also reach us by email at: eng-dei@gsa.gov.
 
 ### Leadership and facilitators
 
