@@ -1,4 +1,4 @@
-FROM ruby:2.6.1
+FROM ruby:2.7.0
 
 # Bundle install first for a simple gem cache
 COPY Gemfile* /tmp/
