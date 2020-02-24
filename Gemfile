@@ -1,19 +1,15 @@
 source 'https://rubygems.org'
 
-ruby '2.6.1'
+ruby '2.7.0'
 
-gem 'jekyll'
+# suppress Ruby warning; will be fixed in 4.1
+# https://github.com/jekyll/jekyll/issues/7947#issuecomment-587935866
+gem 'jekyll', github: 'jekyll/jekyll'
 gem 'json'
 gem 'hash-joiner'
-gem 'uswds-jekyll', git: 'https://github.com/18F/uswds-jekyll', ref: 'refs/pull/182/head'
-gem "jekyll-sitemap", "~> 1.4"
-
-# workaround to support _pages collection
-# https://github.com/jekyll/jekyll-sass-converter/issues/93#issuecomment-524270623
-gem 'jekyll-sass-converter', git: 'https://github.com/jekyll/jekyll-sass-converter.git', ref: 'refs/pull/94/head'
+gem 'uswds-jekyll', github: '18F/uswds-jekyll'
+gem 'jekyll-sitemap'
 
 group :development do
   gem 'html-proofer'
 end
-
-
