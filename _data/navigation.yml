@@ -1,126 +1,127 @@
 primary:
   - text: About TTS
+    href: /#about-tts
     blurb: |
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
     children:
-      - children:
-          - text: Mission, history, and values
-            url: tts-history
-            internal: true
-          - text: Diversity, equity & inclusion
-            url: diversity
-            internal: true
-          - text: Code of Conduct
-            url: code-of-conduct
-            internal: true
-          - text: Org chart
-            url: tts-org-chart
-            internal: true
+      - text: Mission, history, and values
+        url: tts-history
+        internal: true
+      - text: Diversity, equity & inclusion
+        url: diversity
+        internal: true
+      - text: Code of Conduct
+        url: code-of-conduct
+        internal: true
+      - text: Org chart
+        url: tts-org-chart
+        internal: true
   - text: Getting started
+    href: /#getting-started
     blurb: |
       Here's what you probably want to know in your first weeks at TTS.
     children:
-      - children:
-          - text: Welcome
-            url: welcome-letter
-            internal: true
-          - text: Getting Started at TTS
-            url: getting-started
-            internal: true
-          - text: Onboarding class schedule
-            url: onboarding-schedule
-            internal: true
-          - text: Logging in &amp; Networks
-            url: how-to-log-in
-            internal: true
-          - text: Equipment
-            url: equipment
-            internal: true
-          - text: Benefits
-            url: benefits
-            internal: true
-          - text: Travel 101
-            url: travel-101
-            internal: true
+      - text: Welcome
+        url: welcome-letter
+        internal: true
+      - text: Getting Started at TTS
+        url: getting-started
+        internal: true
+      - text: Onboarding class schedule
+        url: onboarding-schedule
+        internal: true
+      - text: Logging in &amp; Networks
+        url: how-to-log-in
+        internal: true
+      - text: Equipment
+        url: equipment
+        internal: true
+      - text: Benefits
+        url: benefits
+        internal: true
+      - text: Travel 101
+        url: travel-101
+        internal: true
   - text: Training &amp; Development
+    href: /#training-amp-development
     blurb: |
       Classes, coaching and ongoing professional development
     children:
-      - children:
-          - text: Online Learning University (OLU)
-            url: olu/
-            internal: true
-          - text: Conferences and events
-            url: conferences-events-training/
-            internal: true
-          - text: Coaching, mentoring and professional development
-            url: development-and-training
-            internal: true
-          - text: Working groups, Guilds, Communities of Practice and mailing lists
-            url: working-groups-and-guilds-101/
-            internal: true
-          - text: GitHub 101
-            url: intro-to-github/
-            internal: true
+      - text: Online Learning University (OLU)
+        url: olu/
+        internal: true
+      - text: Conferences and events
+        url: conferences-events-training/
+        internal: true
+      - text: Coaching, mentoring and professional development
+        url: development-and-training
+        internal: true
+      - text: Working groups, Guilds, Communities of Practice and mailing lists
+        url: working-groups-and-guilds-101/
+        internal: true
+      - text: GitHub 101
+        url: intro-to-github/
+        internal: true
   - text: Travel and leave
+    href: /#travel-and-leave
     blurb: |
       Going somewhere? Here's what you need to know.
     children:
-      - children:
-          - text: Leave (HR Links)
-            url: leave/
-            internal: true
-          - text: Travel guide (table of contents)
-            url: travel-guide-table-of-contents/
-            internal: true
-          - text: Out of office expectations
-            url: leave/#leave-checklist
-            internal: true
+      - text: Leave (HR Links)
+        url: leave/
+        internal: true
+      - text: Travel guide (table of contents)
+        url: travel-guide-table-of-contents/
+        internal: true
+      - text: Out of office expectations
+        url: leave/#leave-checklist
+        internal: true
   - text: Performance management
+    href: /#performance-management
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
-      - children:
-          - text: Performance management
-            url: performance-management
-            internal: true
+      - text: Performance management
+        url: performance-management
+        internal: true
   - text: Hiring, staying, or changing jobs
+    href: /#hiring-staying-or-changing-jobs
     blurb: |
       Everything you need to know about getting a job at TTS,
       changing jobs at TTS, or leaving TTS.
     children:
-      - children:
-          - text: Hiring
-            url: hiring/
-            internal: true
-          - text: TTSJobs
-            url: ttsjobs/
-            internal: true
-          - text: Term extensions
-            url: term-extensions/
-            internal: true
-          - text: Assignments and details
-            url: assignee-detail/
-            internal: true
-          - text: Promotions
-            url: promotions/
-            internal: true
-          - text: Leaving TTS
-            url: leaving-tts/
-            internal: true
-          - text: Hiring authorities
-            url: hiring-authorities/
-            internal: true
-          - text: Federal resume guide
-            url: resume
-            internal: true
-          - text: Referring a person
-            url: talent/#referring-a-person
-            internal: true
-          - text: Internal TTS Opportunities
-            url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
-            internal: false
+      - text: Hiring
+        url: hiring/
+        internal: true
+      - text: TTSJobs
+        url: ttsjobs/
+        internal: true
+      - text: Term extensions
+        url: term-extensions/
+        internal: true
+      - text: Assignments and details
+        url: assignee-detail/
+        internal: true
+      - text: Promotions
+        url: promotions/
+        internal: true
+      - text: Leaving TTS
+        url: leaving-tts/
+        internal: true
+      - text: Hiring authorities
+        url: hiring-authorities/
+        internal: true
+      - text: Federal resume guide
+        url: resume
+        internal: true
+      - text: Referring a person
+        url: talent/#referring-a-person
+        internal: true
+      - text: Internal TTS Opportunities
+        url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
+        internal: false
   - text: General information and resources
+    href: /#general-information-and-resources
     children:
       - children:
           - text: Who we are
@@ -217,6 +218,7 @@ primary:
                 url: transit-benefit/
                 internal: true
   - text: TTS Offices
+    href: /#tts-offices
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
     children:
@@ -399,6 +401,7 @@ primary:
             url: https://presidentialinnovationfellows.gov/
             internal: false
   - text: Software and tools
+    href: /#software-and-tools
     blurb: |
       A by-no-means complete sampling of commonly used tools around TTS.
     children:

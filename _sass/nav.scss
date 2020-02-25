@@ -1,0 +1,7 @@
+.usa-nav-primary {
+  // only show the navigation in the top bar on mobile
+  display: none;
+  .usa-mobile_nav-active & {
+    display: block;
+  }
+}
