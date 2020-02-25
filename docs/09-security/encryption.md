@@ -9,7 +9,7 @@ This document is light in content but the links contain added documentation that
 
 If you'd like some background on how encryption works, start by reading [An Introduction to Public Key Cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp), a [Surveillance Self-Defense](https://ssd.eff.org/en) (also an excellent read) tutorial from your friends at the [Electronic Frontier Foundation](https://www.eff.org/) \[[Donate!](https://supporters.eff.org/donate/)]
 
-Finally, keep an eye out for the dangerous [Burr-Feinstein Anti-Encryption Bill](https://www.techdirt.com/articles/20160527/08343534565/burr-feinstein-anti-encryption-bill-has-no-support-wont-be-moving-forward-anytime-soon.shtml) (also [here](https://www.wired.com/2016/04/senates-draft-encryption-bill-privacy-nightmare/), [here](https://www.engadget.com/2016/09/10/anti-encryption-bill-proposed-changes/) and [here](https://www.google.com/webhp#q=burr+feinstein+encryption+bill)) and be prepared to take action when it resurfaces to protect your rights to privacy and security.
+Finally, keep an eye out for anti-encryption bills such as [Burr-Feinstein](https://www.techdirt.com/articles/20160527/08343534565/burr-feinstein-anti-encryption-bill-has-no-support-wont-be-moving-forward-anytime-soon.shtml) (also [here](https://www.wired.com/2016/04/senates-draft-encryption-bill-privacy-nightmare/), [here](https://www.engadget.com/2016/09/10/anti-encryption-bill-proposed-changes/) and [here](https://www.google.com/webhp#q=anti-encryption+bill)) and be prepared to take action when it resurfaces to protect your rights to privacy and security.
 
 Thank you!
 
@@ -161,7 +161,7 @@ See [GPGTools](https://gpgtools.org/) *(not yet fully integrated with Sierra)*
 
 ## Private Browsing
 
-Using [Tor](https://www.torproject.org/) or a paid VPN (such as [PIA](https://www.privateinternetaccess.com/) and there are others; be sure to choose an exit node that is not in the U.S.) is the best route, but the two simple and free services below will have little impact on your browsing experience and can go a long way to minimizing the data others collect about you:
+Using [Tor](https://www.torproject.org/), the [CivicActions VPN](https://git.civicactions.net/devops/internal-it-wireguard-vpn/tree/master) (for CivicActions business) or a paid VPN (such as [PIA](https://www.privateinternetaccess.com/) and there are others; be sure to choose an exit node that is not in the U.S.) is the best route, but the two simple and free services below will have little impact on your browsing experience and can go a long way to minimizing the data others collect about you:
 
 *   [Privacy Badger](https://www.eff.org/privacybadger) to disable most ads and cookie collectors
 *   [DuckDuckGo](https://duckduckgo.com/) search that protects privacy and avoids the filter bubble
