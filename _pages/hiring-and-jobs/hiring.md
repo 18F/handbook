@@ -18,7 +18,7 @@ To learn about the different hiring authorities we use please visit our [hiring 
 For more information on hiring via the Competitive Service (Career) Merit Promotion Process or the Excepted Service version of the Merit Promotion Process, please visit the [Promotions]({{site.baseurl}}/promotions/) page of the handbook.
 
 ### Excepted Service or Competitive Service Hiring Actions filled via open and public competition
-These actions are the most common type of actions across TTS. Information about the process related to these actions can be found in the guide to the T[alent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit)
+These actions are the most common type of actions across TTS. Information about the process related to these actions can be found in the guide to the [Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit)
 
 ### TTS internal competitions and developmental opportunities
 
