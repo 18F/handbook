@@ -1,5 +1,6 @@
 primary:
   - text: About TTS
+    href: /#about-tts
     blurb: |
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
     children:
@@ -17,6 +18,7 @@ primary:
             url: tts-org-chart
             internal: true
   - text: Getting started
+    href: /#getting-started
     blurb: |
       Here's what you probably want to know in your first weeks at TTS.
     children:
@@ -43,6 +45,7 @@ primary:
             url: travel-101
             internal: true
   - text: Training &amp; Development
+    href: /#training-amp-development
     blurb: |
       Classes, coaching and ongoing professional development
     children:
@@ -63,6 +66,7 @@ primary:
             url: intro-to-github/
             internal: true
   - text: Travel and leave
+    href: /#travel-and-leave
     blurb: |
       Going somewhere? Here's what you need to know.
     children:
@@ -77,6 +81,7 @@ primary:
             url: leave/#leave-checklist
             internal: true
   - text: Performance management
+    href: /#performance-management
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
@@ -85,6 +90,7 @@ primary:
             url: performance-management
             internal: true
   - text: Hiring, staying, or changing jobs
+    href: /#hiring-staying-or-changing-jobs
     blurb: |
       Everything you need to know about getting a job at TTS,
       changing jobs at TTS, or leaving TTS.
@@ -121,6 +127,7 @@ primary:
             url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
             internal: false
   - text: General information and resources
+    href: /#general-information-and-resources
     children:
       - children:
           - text: Who we are
@@ -217,6 +224,7 @@ primary:
                 url: transit-benefit/
                 internal: true
   - text: TTS Offices
+    href: /#tts-offices
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
     children:
@@ -399,6 +407,7 @@ primary:
             url: https://presidentialinnovationfellows.gov/
             internal: false
   - text: Software and tools
+    href: /#software-and-tools
     blurb: |
       A by-no-means complete sampling of commonly used tools around TTS.
     children:
