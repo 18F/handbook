@@ -6,9 +6,10 @@ Something went "bump" in the night (or the day)? This document explains what to 
 
 ## You must report IT security incidents or suspicious activity
 
-An “incident” or “information security incident” is a violation - or an imminent threat of violation - of information security or privacy policies, acceptable use policies, or standard security practices.  If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to the [GSA IT Service Desk](itservicedesk@gsa.gov ).
+An “incident” or “information security incident” is a violation - or an imminent threat of violation - of information security or privacy policies, acceptable use policies, or standard security practices.  
 
-If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. For questions about GSA’s Incident Response Program, contact the GSA Incident Response (IR) Team at [gsa-ir@gsa.gov](mailto:gsa-ir@gsa.gov).
+If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to the [GSA IT Service Desk](itservicedesk@gsa.gov ).
+
 
  It is critical that you notify GSA IR within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, [contact them another way](https://insite.gsa.gov/employee-resources/information-technology). 
 
@@ -17,6 +18,8 @@ If you detect any unusual or suspicious activity on your computer, DO NOT turn o
  If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team. If you do not receive a timely acknowledgement of your report, you can phone the IR team via the numbers listed in Section 3.1.1 of the [GSA IT Security Procedural Guide](https://insite.gsa.gov/portal/getMediaData?mediaId=558637).
 
  Remember: it's totally OK — and encouraged — to fail towards the side of reporting something. Organizations with healthy incident reporting systems see a lot of false alarms, and a lot of low severity reports. This is good, because it indicates that people feel comfortable reporting day-to-day issues. The more we do it, the better we'll get at it. And this is ultimately the goal, because then when something really serious happens, we'll be practiced at handling it smoothly and efficiently.
+
+ For questions about GSA’s Incident Response Program, contact the GSA Incident Response (IR) Team at [gsa-ir@gsa.gov](mailto:gsa-ir@gsa.gov).
 
 
 ## Reporting [Phishing](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/phishing-emails-and-scams?term=phishing)
@@ -27,7 +30,7 @@ If you receive a suspicious email, follow these steps:
 1. This should instruct you in how to use the Cofense tool (the little fish icon that should be on the right) to report the phish.
 1. GSA IT will triage and let you know what they need you to do, if anything.
 
-If you also clicked on a link in a phishing email, follow these steps to report to GSA IR:
+If you also clicked on a link in a phishing email, follow these steps to report to GSA's Incident Response (IR) team:
 
 1. Send an email to  itservicedesk@gsa.gov and devops@gsa.gov. Please include *Security Incident* in the subject line, along with a brief description of the issue (Ex. Clicked on link in phishing email).
 

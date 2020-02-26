@@ -7,11 +7,7 @@ When someone in the public alerts you to a potential vulnerability in our system
 
 ## 1. Triage the vulnerability
 
-In order to respond quickly to reports submitted by the public, the TTS Tech Portfolio team has designated a small group of folks who will monitor incoming reports and initiate response accordingly. This role has been designated **first responder** and will be assigned in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) with an @ (mention). Barring schedule conflicts, the role will rotate weekly. The [First Responder schedule](https://docs.google.com/document/d/1rjIUT2ElIWC8wsVGR3sYRqqybcapCnJY7ysGl0IhiH4/edit) is posted in the [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) channel topic.
-
-* *cloud.gov note:* Response team members need to be on the cloud.gov whitelist for outside-of-business-hours email alerts. Each new response team member should tell the cloud.gov Product Lead, Director, or Deputy Director to add their email address to the whitelist.
-
-The **first responder** monitors reports received from the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov) or [through this reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform). The report is reviewed and the responder categorizes risk according to the potential impact on system **confidentiality**, **integrity**, or **availability**. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. At this point, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
+In order to respond quickly to reports submitted by the public, the TTS Tech Portfolio will monitor incoming reports and initiate response accordingly. This role has been designated **first responder** and monitors reports received from the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov),  [through this reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform) or the Vulnerability Disclosure platform. The first responder will then provide a _brief_ overview of the issue in [#vuln-disclosure](https://gsa-tts.slack.com/messages/vuln-disclosure/) and @ (mention) all appropriate personnel. At this point, potential impact must be determined quickly to ensure appropriate steps are taken to remediate the reported issue.
 
 Each metric above receives a single score on potential impact from the following list:
 
@@ -25,23 +21,21 @@ A score of `n/a` means that the report falls outside of scope, or is negligible,
 
 Scores of `low`, `moderate`, and `high` are subjective. 
 
-In the case of an **incident**, the responder has determined for any reason that the vulnerability has _already_ impacted system confidentiality, integrity, or availability. The responder immediately follows the [security incident process](../security-incidents/).
+In the case of an **incident**, the responder has determined the vulnerability has _already_ impacted system confidentiality, integrity, or availability. The responder immediately follows the [security incident process](../security-incidents/).
 
-* *cloud.gov note:* If the reported issue involves **[cloud.gov](https://cloud.gov)** and is scored **moderate or higher**, the first responder **must** mention `@cg-team` in Slack and email **[`cloud-gov-emergency@gsa.gov`](mailto:cloud-gov-emergency@gsa.gov)**, so the cloud.gov team can help determine impact and respond to incidents.
 
-If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the TTS Tech Portfolio Lead of the affected product or service.
+If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the lead of the affected product or service.
 
 ## 2. File an issue
 
-For vulnerabilities categorized as **low**, an Issue should be created in the appropriate GitHub repo or project management tool and assigned to the appropriate TTS Tech Portfolio Lead to prioritize further.
+For vulnerabilities categorized as **low**, an Issue should be created in the corresponding GitHub repo or project management tool for the affected system by the product or service team.  The TTS Tech Portfolio should be included in the issue for tracking purposes.
 
-For vulnerabilities of **medium**, **high**, or **incident**, an issue must be filed in the private [security incident repository](https://github.com/18F/security-incidents/issues) and assigned to the appropriate TTS Tech Portfolio Lead.
+For vulnerabilities of **medium**, **high** issue must be filed in the private repository. If the issue is also an **incident**, it must be filed [security incident repository](https://github.com/18F/security-incidents/issues) and assigned Tech Portfolio to the issue as well.
 
-Regardless of where the issue is filed, the first responder should advise the TTS Tech Portfolio Lead on next steps.
+Regardless of where the issue is filed, the first responder should advise the solution provider on next steps.
 
 The first responder is responsible for closing out the GitHub issue once they are satisfied that the issue has been resolved (whether remediated or marked `wont fix` or `false positive`).
 
-The first responder will communicate directly with the TTS Tech Portfolio Lead, who is responsible for communication with the system's engineering team throughout the remediation lifecycle.
 
 ## 3. Respond to reporter
 
