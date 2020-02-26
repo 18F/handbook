@@ -22,13 +22,17 @@ Early in the project, 18F and the partner team should agree upon a basic suite o
 
 If your partner agency is reluctant to use collaboration tools, learn why. Is it a security question? Is there a burdensome technology approval process? Is there another tool already in place to achieve the same goal? Discovering the root causes to their reluctance may help inform your project and ensure productivity.
 
+If you're going to use a partner's tools, see the [information below](#using-partners-tools).
+
 Lastly, **don't wait until the end of an engagement** to think about transitioning documents, code or client accounts from the tools that you use to collaborate. It's important to have a partner-owned account or alternative in order to avoid creating blockers at the end of an engagement.
 
-## Potential tools
+## Using TTS tools
+
+### Potential tools
 
 Below are potential tools to help your team and partner collaborate.
 
-### Instant messaging
+#### Instant messaging
 
 **[Slack]({{site.baseurl}}/slack/)** is an instant messaging tool that uses themed chat rooms (called channels) to help teams quickly communicate on a daily basis, in an open, collaborative way. The 18F team will create a channel for your project in our Slack workspace, which you can access from your web browser. It may be useful to read about [what managers need to know about social tools](https://hbr.org/2017/11/what-managers-need-to-know-about-social-tools) when getting started.
 
@@ -52,7 +56,7 @@ Here are some common barriers to using Slack and workarounds to try:
 - **Microsoft Teams:** Microsoft Teams provides chat capabilities similar to Slack, with the ability to collaborate around themed channels, direct messaging to multiple individuals, etc. Microsoft Teams may be the collaborative tool of choice for partners that have adopted Microsoft services.
   </details>
 
-### Video conferencing
+#### Video conferencing
 
 **[Google Meet]({{site.baseurl}}/google-meet/) and [Zoom]({{site.baseurl}}/zoom/)** enable staff all over the country to video chat and screenshare in remote meetings. We've found that video calls help teams stay connected and are easier to manage than conference calls for large groups.
 
@@ -78,7 +82,7 @@ Here are some common barriers to using these tools and some workarounds to try:
 - **BlueJeans**
   </details>
 
-### Sharing files
+#### Sharing files
 
 **[Google Drive]({{site.baseurl}}/google-drive/)** is a storage and collaboration platform for spreadsheets, slide decks, and text documents. Documents on Google Drive are not public, but can be shared among team members. 18F can give your team access to our Google Drive so everyone can collaborate.
 
@@ -102,7 +106,7 @@ Here are some common barriers to using Drive and some workarounds to try:
 - **[Intelink's](https://www.intelink.gov/my.policy):** IntelDocs, allows users to share unclassified files. The service has a file size limit of 100MB and folder limit of 1GB.
   </details>
 
-### Tracking project tasks
+#### Tracking project tasks
 
 **[Trello]({{site.baseurl}}/trello/)** is a project management tool that organizes information into lists. Teams often use it to track specific tasks through different stages (such as backlog, in progress, in review, and done). Trello boards can be private or public.
 
@@ -126,7 +130,7 @@ Here are some common barriers to using Drive and some workarounds to try:
 - **IF** not part of partners' daily workflow/practices, **THEN** discuss task progress in sprint ceremonies or via email.
 - **IF** blocked by firewall/security issues, **THEN** build a board using whiteboarding or visualization tools like Mural, Google Slides or Powerpoint.
 
-### Viewing/scheduling calendars
+#### Viewing/scheduling calendars
 
 **[Google Calendar]({{site.baseurl}}/google-calendar/)** is the calendar tool that comes with gmail and G Suite. [The Handbook]({{site.baseurl}}/sharedcalendars/) has guidelines and requirements for providing partners with access.
 
@@ -140,7 +144,7 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 
 - **IF** G-suite is incompatible with partners' available tools, **THEN** have partners schedule meetings, try Max.gov calendar, or use email, phone, or Slack to align on meeting times.
 
-### Development and Documentation
+#### Development and Documentation
 
 **[GitHub]({{site.baseurl}}/github/)** is an online code storage and collaboration platform. 18F will create a repository (commonly called a repo) for the project and use it to store both documents and code. By default, 18F's work with your team on GitHub will be visible to the public. Your 18F team can tell you more about the benefits of working in the open. Teams may also use GitHub, as well as browser add-ons that complement it, to collaboratively track project tasks.
 
@@ -157,7 +161,7 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 - **[Github Wiki](https://help.github.com/articles/about-github-wikis/)** is a section of GitHub that some teams use to store supporting documents. Each GitHub repository has its own wiki, and anyone on your team can edit the wiki. A wiki is a good place to store documents that the team will refer back to throughout a project such as design principles, research results, or a project roadmap.
   </details>
 
-### Remote Whiteboarding
+#### Remote Whiteboarding
 
 **[Mural]({{site.baseurl}}/murally/)** is an online collaborative whiteboard tool. It allows teams to collectively generate ideas with sticky notes and sorting them around as if they were in the same room. You don't need an account to participate and you can access the tool from any browser.
 
@@ -169,27 +173,35 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 - Truly low-impact: Mural shouldn't be used to store anything confidential or authoritative. Instead, use it for ephemeral organization of information and production visualizations. Non-GSA participants are invited to use the service anonymously.
   </details>
 
-## Helping partners make the most of these new tools
+### Helping partners make the most of these new tools
 
 Here are some recommendations for how to level up our partners' skills:
 
-### Provide a training or learning materials
+#### Provide a training or learning materials
 
 - Use or adapt Greg Walker's [Slack training](https://gsa-tts.slack.com/files/U0KHZ7BE1/F82812ZJ6/Notes_from_Slack_training).
 - There are some useful Github-related resources listed in [this Slack thread](https://gsa-tts.slack.com/archives/CHZLJBWCV/p1559759830000500) or [this Slack thread](https://gsa-tts.slack.com/archives/C04KL9ZN2/p1571357280118500).
 
-### Learn by doing/watching/failing
+#### Learn by doing/watching/failing
 
 - Introduce product features as needed on calls.
 - Let the partner play around with the tools in a low-risk environment—let them fail and “break” things. It's a great way to learn!
 
-### Develop shared conventions with your partner
+#### Develop shared conventions with your partner
 
 - Consider creating a “how we work” document detailing your team conventions (e.g. task labels, how you title a story, etc). It's a lot easier to remind folks of the process when you have a document to point them to.
 
-## Helping partners transition off collaboration tools
+### Helping partners transition off collaboration tools
 
 - **Important!** Don't wait until the end of a project to think about this!
 - If the partner is using 18F tools during the project, the team should **advise the partner on how to gain access to their own versions** of those tools or comparable alternatives.
 - The TTS Handbook details processes for offboarding partners off our own tools, like Slack ([account removal]({{site.baseurl}}/slack/#offboarding) and [exporting]({{site.baseurl}}/slack/#exporting-channel-contents)), [Github]({{site.baseurl}}/github/#rules), and Google Drive. The Account Manager will facilitate this offboarding, including providing ample warning to the partner.
 - If the team has been using the partner's collaboration tools, be sure to capture any documents or artifacts before we lose access.
+
+## Using partners' tools
+
+Per the [IT Standards policy](https://www.gsa.gov/directives-library/gsa-information-technology-it-standards-profile-21601f-chge-2-cio), section 2(e):
+
+> Collaboration with another agency through software or cloud services which they use for managing non-GSA data (either data owned by that agency or public data) does not require security or Section 508 compliance review, as that responsibility is assumed by the providing agency.  Other policies which may restrict the use of GSA Enterprise Accounts or the release of GSA-owned data may still apply.
+
+In other words, it is generally fine to use a tool authorized and maintained by a partner agency. If you're not sure, reach out to [ispcompliance@gsa.gov](mailto:ispcompliance@gsa.gov) and [devops@gsa.gov](devops@gsa.gov).
