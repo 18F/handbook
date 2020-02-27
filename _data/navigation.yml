@@ -340,9 +340,6 @@ primary:
               - text: Product
                 url: product/
                 internal: true
-              - text: Strategy
-                url: strategy/
-                internal: true
           - text: 18F team resources
             children:
               - text: Before you ship
