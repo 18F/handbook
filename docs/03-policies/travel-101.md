@@ -4,7 +4,7 @@ CivicActions will reimburse employees for travel expenses that are required for 
 
 ## Communication
 
-Questions? [Ask the office manager](mailto:%3Cjudy.raiten@civicactions.com%3E).
+Questions? Ask the Office Manager.
 
 ## Time Keeping
 

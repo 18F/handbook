@@ -9,7 +9,7 @@ As a requirement for employment, every employee must review and acknowledge the 
 - [Password Policy](../../03-policies/security.md#password-policy)
 - [Server & Site Security](../../03-policies/security.md#server--site-security)
 
-<!-- TODO: include link to Judy and/or digital document signing -->
+<!-- TODO: include link to digital document signing -->
 
 ## Security Awareness
 

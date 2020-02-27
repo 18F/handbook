@@ -10,7 +10,7 @@ It may be helpful to copy these lists into a card/checklist on your project Trel
 - Validate that SOW has been signed and review prior SOWs if relevant
 - Review contract and proposal
 - Review staffing and staffing gaps
-- Fill out [New Client/Project Startup form](https://docs.google.com/a/civicactions.com/forms/d/1UoLOeP0NgsNNDHfRbo50zE2onRuWQ4K-hHB2Q-RFcF8/viewform) (this goes to Admin/Judy)
+- Fill out [New Client/Project Startup form](https://docs.google.com/a/civicactions.com/forms/d/1UoLOeP0NgsNNDHfRbo50zE2onRuWQ4K-hHB2Q-RFcF8/viewform) (this goes to the Office Manager)
 - Work with Admin to organize background checks or drug tests if needed
 - Determine if there are any specific time reporting or invoicing needs for client
 - Hand-off call with Admin regarding contract/compliance/invoicing details
