@@ -29,6 +29,8 @@ Any media requests (like news or podcast interviews) are a separate process—fo
 
 1. You will receive an automated email when your request has been fully approved and paid for or if additional information is needed to complete your registration. You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
 
+*Important note about conference travel:* If you are traveling to a conference on behalf of a partner who is paying for the travel and the registration and you will be billing the partner for your time, an IDP and SF-182 approval is not needed. Also an SF-182 isn't needed if the conference is NOT deemed a training activity.
+
 ## Approval timelines
 
 The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) as early as possible.
@@ -60,7 +62,9 @@ The automated email that you will receive outlines the step(s) below that you wi
 
 - Start this process by adding this event to your [Individual Development Plan (IDP)](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) in Salesforce and have your supervisor approve.
 - After your IDP is approved by your supervisor, you can then generate a Standard Form 182 (SF-182) in Salesforce.
-- Once you have generated SF-182, you will select your **supervisor**, then **Keith Wilson** as the first approver, and your TTS Assistant Commissionar, **Dominic Sale** or **Harry Lee**, as the second approver (if your estimated costs - including both registration fee and travel - exceed $2,500, you will also need to add **Karen Link** as a third approver)
+- Once you have generated an SF-182, you will select approvers based on the email instructions that you've sent.  
+    - Most trainings require **supervisor**, then **Keith Wilson** as Approver 1, then your **business unit lead** as Approver 2, and then your TTS Assistant Commissioner, **Dominic Sale** or **Harry Lee**, as Approver 4.
+    - Most events require **supervisor**, then **Keith Wilson** as Approver 1.
 - You will add **Matthew Ryan** as your purchase card holder, then hit the 'submit for approval' button which is located at the bottom of the screen of the SF-182 form.
 
 The SF-182 must be fully approved before any final actions such as paying for registration or approval of travel in Concur can be taken. Once your SF-182 has been fully approved, download a PDF copy and send it to [tts-events@gsa.gov](mailto:tts-events@gsa.gov). Ensure your SF-182 is completed and sent over at least two business days before your registration would need to be completed to give the purchasing team sufficient time to process.

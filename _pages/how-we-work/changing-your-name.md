@@ -13,6 +13,7 @@ You can change your name by following these steps:
  - You will be asked to choose a digital certificate. If your PIV card is inserted, there will be two certificates listed with your name on them.
      - The right choice generally seems to be the first option.
      - If you want to be certain, on Macs you can look at the digital certificate's "Usage" field. Choose the one that is ***only*** "Digital Signature"
+     - If you choose the wrong certificate the first time, you might still be able to log in with another using an incognito window
  - Once logged in, follow the GCIMS Self-Service link.
  - Proceed to the "Work Contact Information" link.
  - Enter your preferred name and update the form.

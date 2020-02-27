@@ -1,9 +1,9 @@
-version: 2
+version: 2.1
 jobs:
   build:
     working_directory: ~/handbook
     docker:
-      - image: circleci/ruby:2.6.1
+      - image: circleci/ruby:2.7.0
     environment:
       # fix encoding
       - LANG: C.UTF-8

@@ -57,13 +57,13 @@ Supervisors are selected through nominations and interviews according to team ne
 
 ### Director
 
-The Director of Engineering is responsible for the Engineering Chapter. The Director represents the chapter on the Senior Management Team of 18F, is responsible for the strategic planning of the chapter including hiring approach, capacity planning, and expanding the impact of the chapter and engineers’ work. The Director guides the work of the Functional Leads (backend, frontend, ops, security, diversity) to ensure alignment with strategy and each other. The Director has as direct reports the Engineering Supervisors, and acts as mentor, coach, and guide to their work. The Director is ultimately responsible for the success of the chapter in the context of the 18F mission and organizational priorities.
+The Director of Engineering is responsible for the Engineering Chapter. The Director represents the chapter on the Senior Management Team of 18F, is responsible for the strategic planning of the chapter including hiring approach, capacity planning, and expanding the impact of the chapter and engineers’ work. The Director guides the work of the Engineering Practices guild (which encompasses backend, frontend, and data) and the diversity, equity, and inclusion (DE&I) leads to ensure alignment with strategy and each other. The Director has as direct reports the Engineering Supervisors, and acts as mentor, coach, and guide to their work. The Director is ultimately responsible for the success of the chapter in the context of the 18F mission and organizational priorities.
 
 The Director was selected through nominations and interviews. While there is no additional compensation for being a director, it’s an opportunity to help make team members’ time at 18F great.
 
-### Functional Leads
+### DE&I Leads
 
-Engineering also has six functional leads: backend, frontend, devops, data, security, and diversity. Collectively and separately they work to make our engineering practice better by improving documentation, project oversight, training, hiring, onboarding, and making us a diverse and inclusive organization.
+The DE&I Leads lead efforts to foster a diverse and inclusive environment for engineers. Their mission includes building a strong culture and setting an inclusive tone even before a new engineer comes on board. Anyone who has issues or concerns related to inclusion or equity in the 18F engineering chapter should feel empowered to reach out to the DE&I Leads. If you have access to the TTS Slack, you can reach us at @amymok and @alexsoble. You can also reach us by email at: eng-dei@gsa.gov.
 
 ### Leadership and facilitators
 
@@ -126,8 +126,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### Facilitator groups
 
-[#eng-cronus1](https://gsa-tts.slack.com/messages/eng-cronus1), [#eng-chumanjalaal](https://gsa-tts.slack.com/messages/eng-chumanjalaal), [#eng-voyager1](https://gsa-tts.slack.com/messages/eng-voyager1), [#spaceball1](https://gsa-tts.slack.com/messages/spaceball1), [#eng-apollo](https://gsa-tts.slack.com/messages/eng-apollo), [#eng-bellatrix](https://gsa-tts.slack.com/messages/eng-bellatrix), [#eng-eagle5](https://gsa-tts.slack.com/messages/eng-eagle5),
-[#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership).
+[#eng-ephemere](https://gsa-tts.slack.com/messages/eng-ephemere), [#eng-chumanjalaal](https://gsa-tts.slack.com/messages/eng-chumanjalaal), [#eng-space-goats](https://gsa-tts.slack.com/messages/eng-space-goats), [#eng-bellatrix](https://gsa-tts.slack.com/messages/eng-bellatrix), [#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership).
 
 ### Everything else
 
@@ -137,11 +136,10 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
   - [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership). Someone there will get you set up.
   - [18f-eng-leadership@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18f-eng-leadership). This is a good way to write to the entire engineering leadership team at once.
-  - Optional listserv that may be of interest: [Interagency Open Data Working Group]({{site.baseurl}}/general-contacts-and-listservs/#interagency-open-data-working-group)
+
 
 ## Before you use a new tool...
 
 Here are some [common tools we use]({{site.baseurl}}/#software-and-tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
 And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. If what you want to use isn’t there, you’ll need to ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
-

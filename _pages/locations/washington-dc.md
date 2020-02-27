@@ -179,10 +179,6 @@ Look for room 1232A at the back of the health center on the first floor. You don
 
 There is a fridge inside the room and one outside the room, in the health clinic. At the end of the day, if there’s any milk in the outer fridge, they’ll move it to the inner fridge.
 
-### Yoga and meditation rooms
-
-Room 3042, at the corner of the 3000 and 3300 wings, is available for yoga and meditation/mindfulness/prayer.
-
 ### Batteries
 
 If you need batteries for your keyboard or trackpad, there is a consolidated supply closet on the first floor of the building, in the 200 wing. 

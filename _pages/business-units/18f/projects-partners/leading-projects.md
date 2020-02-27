@@ -18,6 +18,7 @@ Here is some of what _success_ includes:
 * The strategic direction of the project (including alignment with a portfolio, when relevant)
 * Managing work so that team members can be fully billable
 * Identifying project and partner needs (for instance, staffing changes, budget changes, potential work)
+* Identifying ways we could potentially help the partner more, given more time, in future engagements
 
 In all this, your closest collaborators are 1) your account manager and 2) your project team. They are deeply invested, and will also be asked to account for the project’s success as part of their duties.
 
@@ -52,12 +53,10 @@ Fear not! We don’t expect you to do this alone. We have a lot of documentation
 Some things they’ll help you navigate, find, and use:
 
 * If you need documentation, look to the [handbook]({{site.baseurl}}) and our [guides](https://18f.gsa.gov/guides/).
-* If you need support in a specific skill set or help with deliverables, get help from the labs:
-    * [Writing lab](https://github.com/18F/writing-lab)
-    * [Design lab](https://github.com/18F/design-lab/)
-    * Dev lab ([#dev-lab](https://gsa-tts.slack.com/messages/dev-lab/) in Slack)
+* If you need support in a specific skill set or help with deliverables, get help by using a [microrequest](https://gsa-tts.slack.com/messages/microrequests/).
 * If your project is part of a portfolio, the portfolio director and your colleagues in the portfolio can be a great resource.
-* If you need advice or coaching, look to the chapters ([#product](https://gsa-tts.slack.com/messages/product/), [#design](https://gsa-tts.slack.com/messages/design/), [#acquisition](https://gsa-tts.slack.com/messages/acquisition/), [#dev](https://gsa-tts.slack.com/messages/dev/), and [#strategy](https://gsa-tts.slack.com/messages/strategy/)) and guilds ([#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility/), [#g-research](https://gsa-tts.slack.com/messages/g-research/), [#g-content](https://gsa-tts.slack.com/messages/g-content/), [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/), [#g-devops](https://gsa-tts.slack.com/messages/g-devops/).
+* If you need advice or coaching, look to the chapters ([#product](https://gsa-tts.slack.com/messages/product/), [#design](https://gsa-tts.slack.com/messages/design/), [#acquisition](https://gsa-tts.slack.com/messages/acquisition/), and [#dev](https://gsa-tts.slack.com/messages/dev/) as well as our [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/). Each of them have a corresponding Slack channel you can jump into any time.
+
 
 ### What if a project lead is struggling to fulfill the role?
 

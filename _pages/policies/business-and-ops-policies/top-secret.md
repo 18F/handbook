@@ -6,27 +6,35 @@ tags:
 - top
 - security
 ---
+Most TTS employees hold moderate risk Public Trust positions. However, for certain projects, partners need TTS employees to have access to classified national security information. These employees need to be granted security clearance eligibility (a.k.a a security clearance) to be able to view this information. This page covers the basics like clearance levels, your clearance status, your clearance obligations, and clearance upgrade requests.
 
-Most TTS employees have a Public Trust (Moderate Risk - Level 5) clearance. However, for certain projects, clients need TTS employees to have a higher type of clearance so that they are able to view certain documents.  This is the process for TTS employees to request this clearance.
+## Clearance Levels
+There are [three national security clearance levels](https://en.wikipedia.org/wiki/List_of_U.S._security_clearance_terms): Confidential, Secret, and Top Secret. Work deemed Critical Sensitive requires a Top Secret clearance. Special Sensitive work requires access to Sensitive Compartmented Information and therefore a Top Secret / Sensitive Compartmented Information (TS/SCI) clearance. When TTS employees need a clearance, it is typically a TS/SCI.
 
-[See Wikipedia for a list of different types of security clearances](https://en.wikipedia.org/wiki/List_of_U.S._security_clearance_terms).
+*Note that according to the Department of Defense, Public Trust is a type of position, not clearance level, though GSA refers to it as clearance level. GSA does not issue DoD clearances because it does not create classified information.
 
-## Check your security clearance status
+## Your clearance status
+Find out your clearance status in [HRLinks]({{site.baseurl}}/leave/#logging-into-hr-links)
+1. Click on the **Navigator** icon in the top right hand corner
+2. Click on "Self Service"
+3. Click on "Personal Information"
+4. Click on "Employee Security Clearance"
 
-1. Log into [HRLinks]({{site.baseurl}}/leave/#logging-into-hr-links)
-2. Click on the **Navigator** icon in the top right hand corner
-3. Click on "Self Service"
-4. Click on "Personal Information"
-5. Click on "Employee Self Service"
-6. Click on "Employee Security Clearance"
+You can also email [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov) to check your status.
 
-*Note: If you do not have access to HRLinks, you can email [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov) to check you security clearance information.*
+## Your clearance obligations
+If you hold a clearance, there are a number of standards of conduct you are expected to follow regarding:
+1. your personal conduct, such as following the need-to-know principle.
+2. self-reporting certain personal activities, like foreign travel.
+3. reporting concerns about co-workers.
+The [Center for Development of Security Excellence's guide](https://www.cdse.edu/documents/cdse/Receive_and_Maint_Sct_Clnc.pdf) details these obligations on page 15.
 
-## Request process
+## Clearance upgrade requests
+If you are a TTS employee and need to request TS/SCI clearance:
 
-### 1. Work with your supervisor to complete the following documents:
+### 1. Work with your supervisor to complete required documentation
 * [GSA Position Risk Determination Survey](https://goo.gl/nC9D5S)
-   * For Question #7 refer to pages 4-10 of the [Federal Cybersecurity Coding Structure](https://goo.gl/633NXj)  
+   * On Question #7, refer to pages 4-10 of the [Federal Cybersecurity Coding Structure](https://goo.gl/633NXj)  
      * Choose up to 3 codes which describe the type of cybersecurity work assigned to the position, and list them in descending order by majority of work time.
 
 * Supervisor must write up a Justification explaining why this clearance is necessary
@@ -36,10 +44,10 @@ Most TTS employees have a Public Trust (Moderate Risk - Level 5) clearance. Howe
    * [GSA Credit Report](https://goo.gl/GiFhBy)
    * [Declaration of Federal Employment (OF 306)](https://goo.gl/QDkDZC)
 
-### 2. Email items from Step 1 (supervisor justification, GSA PRDS, credit report and Declaration of Federal Employment) to the [People Ops Team](mailto:TTS-PeopleOps@gsa.gov).  They will contact GSA HR Classification and work with HR and the Supervisor to create an updated PD:
-* Once the PD is created, People Ops will submit the package to GSA Security and submit a PAR if applicable
-      * Please note that you can not be placed on this new PD until your security clearance is processed by OPM. You may request a waiver justification to be placed on this PD before the clearance goes through ONLY if your PD is classified as critical sensitive (versus special sensitive)
-      * Waiver justifications must be written by the supervisor and approved by the FAS Commissioner (Alan Thomas)
+### 2. Email all documents from Step 1 to the [People Ops Team](mailto:TTS-PeopleOps@gsa.gov).
+The People Ops Team will contact GSA HR Classification and work with HR and the Supervisor to create an updated PD. Once the PD is created, People Ops will submit the package to GSA Security and submit a PAR if applicable.
+   * Please note that you can not be placed on this new PD until your security clearance is processed by OPM. You may request a waiver justification to be placed on this PD before the clearance goes through ONLY if your PD is classified as critical sensitive (versus special sensitive)
+   * Waiver justifications must be written by the supervisor and approved by the FAS Commissioner (Alan Thomas)
 
 ### 3. HR will review all items and submit to Security
 
@@ -48,13 +56,14 @@ Most TTS employees have a Public Trust (Moderate Risk - Level 5) clearance. Howe
 
 ### 5. Once the eQIP is complete, security will review and send to OPM 
 * Security will complete this within 1-3 days
-* It will take approximately 8-15 months to complete the top secret (TS) portion 
+* It will take approximately 8-15 months to complete the top secret (TS) portion, which includes an in-person interview with an investigator.
   * This delay is due to the backlogs at OPM. The SCI portion is controlled by the Central Intelligence Agency (CIA) and can only be requested after the TS is complete.  You should plan an additional 4-6 weeks for that process.
   
-### 6. When a clearance has been approved, the Security Office informs the employee directly and provides further instructions. 
+### 6. When a clearance has been approved, the assigned adjudicator from the Security Office will inform you directly and provide you further instructions. 
+
 
 --------------------------------------------------------------------------------
 
-### Still have questions?
+## Have questions?
 
-Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops) or [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov)
+The Center for Development of Security Excellence's [Personnel Security page](https://www.cdse.edu/catalog/personnel-security.html) is GSA's recommended go-to source to learn about security clearances in depth. Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops) or [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov)
