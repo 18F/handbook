@@ -1,9 +1,9 @@
-@media screen and (min-width: 895px) {
+@include at-media("tablet-lg") {
   // keep headings and tables from overlapping in-page navigation
   .usa-prose table,
   .usa-prose h2,
   .usa-prose h3,
   .usa-prose h4 {
-    max-width: 66%;
+    max-width: units("tablet");
   }
 }

@@ -5,7 +5,7 @@
   }
 
   .inline-navigation-wrapper {
-    @media screen and (min-width: 895px) {
+    @include at-media("tablet-lg") {
       position: absolute;
       right: 0;
       height: 100%;

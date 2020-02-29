@@ -12,13 +12,11 @@ a.button[href^="https://gsa-tts.slack.com"]::before {
 a[href^="https://gsa-tts.slack.com"]::before,
 a.button span.slack::before {
   content: "";
-  $size: 40px;
-  width: $size;
-  height: $size;
+  @include u-square(4);
   display: inline-block;
   vertical-align: middle;
-  margin: -3px -7px 0;
-  background-size: 100%;
+  margin: units(-2px) units(-0.5) 0 units(-1);
+  background-size: units(4);
   background-repeat: no-repeat;
   background-image: url("../../images/Slack_Mark.svg");
 }
@@ -26,10 +24,10 @@ a.button span.slack::before {
 a.button span.slack {
   font-weight: 600;
   &::before {
-    width: 16px;
-    height: 16px;
-    margin-top: -2px;
-    margin-right: 4px;
+    width: units(2);
+    height: units(2);
+    margin-top: units(-2px);
+    margin-right: units(0.5);
   }
 }
 
@@ -47,7 +45,7 @@ img.travel-guide-hide {
 @import "./icons";
 
 .page-outdated {
-  padding: 4px 0;
+  padding: units(0.5) 0;
   background: #d8f7ff;
   color: #202020;
   text-align: center;
@@ -70,7 +68,31 @@ img.travel-guide-hide {
 /* @end */
 
 .col-grouplet {
-  width: 100px;
+  width: units(15);
+}
+
+.table-existing-grouplets,
+.table-office-metadata {
+  border-collapse: collapse;
+
+  tr {
+    border-top: 1px solid color("base-lighter");
+  }
+
+  th,
+  .col-key {
+    @include typeset("body", "xs", 2);
+    padding-right: units(1.5);
+    padding-top: units(1.5);
+    width: units(15);
+  }
+
+  th,
+  td {
+    @include u-padding-y(1);
+    text-align: left;
+    vertical-align: top;
+  }
 }
 
 /* @group .layout-article-working-groups-and-guilds-101 */
@@ -78,14 +100,6 @@ img.travel-guide-hide {
 /* @end */
 
 /* @group .layout-article-chicago, .layout-article-san-francisco, .layout-article-washington-dc */
-
-@media screen and (min-width: 40em) {
-  .table-office-metadata .col-key {
-    width: 100px;
-    text-align: right;
-    color: #555;
-  }
-}
 
 /* @end */
 
