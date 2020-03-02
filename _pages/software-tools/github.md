@@ -136,6 +136,10 @@ If the repository is published as a package, please also mark it as deprecated.
 - PyPI: Publish with a `Development Status :: 7 - Inactive` [classifier](https://pypi.org/classifiers/)
 - Ruby gem: Publish with a [post-install message](https://guides.rubygems.org/specification-reference/#post_install_message)
 
+### Creating a new GitHub organization
+
+[Create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=github-org.md) and follow the steps.
+
 ## Actions
 
 [GitHub Actions](https://github.com/features/actions) can be used for continuous integration/deployment on public repositories, but is not currently available for private repositories in (most of) our GitHub organizations for billing reasons.
