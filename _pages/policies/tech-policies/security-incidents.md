@@ -8,12 +8,12 @@ Something went "bump" in the night (or the day)? This document explains what to 
 
 An “incident” or “information security incident” is a violation - or an imminent threat of violation - of information security or privacy policies, acceptable use policies, or standard security practices.  
 
-If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to the [GSA IT Service Desk](itservicedesk@gsa.gov ).
+If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to the [GSA IT Service Desk] <a href="mailto:itservicedesk@gsa.gov?subject=Security Incident"> 
 
 
  It is critical that you notify GSA IR within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, [contact them another way](https://insite.gsa.gov/employee-resources/information-technology). 
 
- Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. Include the hyperlink to the [GSA Google Drive](#setting-up-My-Drive-for-sensitive-information-sharing) folder in the top summary of the GitHub Issue. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident
+ Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. Include the hyperlink to the [GSA Google Drive](#setting-up-my-drive-for-sensitive-information-sharing) folder in the top summary of the GitHub Issue. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident
  
  If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team. If you do not receive a timely acknowledgement of your report, you can phone the IR team via the numbers listed in Section 3.1.1 of the [GSA IT Security Procedural Guide](https://insite.gsa.gov/portal/getMediaData?mediaId=558637).
 
@@ -69,7 +69,7 @@ To report a security incident, follow *all* of the steps below:
 
 First: it's always OK to err on the side of reporting! [TTS](http://www.gsa.gov/portal/category/25729)'s and GSA's incident response teams are good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, *you'll never get in trouble for pinging IR at all*. The most effective security early warning system is attentive staff, so report early and report often!
 
-**What is an incident?** An occurrence that actually or potentially jeopardizes the [GSA Google Drive](#confidentiality), [integrity](#integrity), or [availability](#availability) of an information system or the information the system processes, stores, or transmits or that constitutes a violation or imminent threat of violation of security policies, security procedures, or acceptable use policies.
+**What is an incident?** An occurrence that actually or potentially jeopardizes the [confidentiality](#confidentiality), [integrity](#integrity), or [availability](#availability) of an information system or the information the system processes, stores, or transmits or that constitutes a violation or imminent threat of violation of security policies, security procedures, or acceptable use policies.
 
 
 See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/report-it-security-incidents-and-suspicious-activity-immediately) if you need help determining whether something counts as an incident.
@@ -92,11 +92,14 @@ Ensure you’re creating the folder as part of **My Drive** and not within a pre
 
 ## Glossary
 
-- **Availability** means the availability of the services we provide. If an app goes down or something we expect to be running stops running, those are availability issues. This only refers to production systems (it's fine if your demo app crashes), and only to unexpected downtime. If you decide to shut something down temporarily for maintenance — go for it, not an incident.
+### Availability 
+Means the availability of the services we provide. If an app goes down or something we expect to be running stops running, those are availability issues. This only refers to production systems (it's fine if your demo app crashes), and only to unexpected downtime. If you decide to shut something down temporarily for maintenance — go for it, not an incident.
 
-- **Confidentiality** - means: secrets. Personal information (PII) — names, phone numbers, social security numbers, etc — is one kind of secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that confidential information may have been leaked outside TTS, you should open an incident.
+### Confidentiality
+think: secrets. Personal information (PII) — names, phone numbers, social security numbers, etc — is one kind of secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that confidential information may have been leaked outside TTS, you should open an incident.
 
-- **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
+- ### Integrity
+The soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
 
 ## Contacts
 
