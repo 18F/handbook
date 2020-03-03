@@ -41,10 +41,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
-- [Cloud.gov Consulting Engineer](https://docs.google.com/document/d/1_TBglbcB-Q_O7HZwi81Tg2qu46VF8P4bcL3qp14fZhk/edit#) - open Thursday, February 13 through Thursday, February 27
-
-- [Lead UX Designer @ login.gov](https://docs.google.com/document/d/1ynWveJSS_Eo9ZHxa2fm3mXyYWr_RKN6iZt81eo_A1So/edit?ts=5e430196) - open Friday, February 14 through Friday, February 21
-
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
