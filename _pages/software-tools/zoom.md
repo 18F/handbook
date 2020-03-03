@@ -51,39 +51,19 @@ meeting reaches 40 minutes, it's over! [_RENEW! RENEW!_](http://scifi.stackexcha
 
 These meetings do not need to be scheduled in advance and you may hold as many as you like.
 
-### For meetings longer than 40 minutes (Pro tier)
+### For meetings longer than 40 minutes
 
-Let the Zoom Admins know as far in advance as possible in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom). Currently 18F only has two Pro licenses that allow for meetings longer than 40 minutes. What
-this means to you is that longer meetings need to be scheduled and are generally a "first come,
-first served" scenario. We have one large meeting extension for meetings with over 100 participants. You must have a pro account to have the large meeting extension.
-
-Before your scheduled meeting, the Zoom Admins will promote your account to Pro Status. If there are multiple
-meetings scheduled that day, your account will be promoted as soon as the Pro account is available. The Zoom Admins will try to schedule 15 minutes before the requested time to allow you ample set up time.
-
-To schedule a meeting, please post your request in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom).
-The request should include the date, time, and applicable time zone. If your meeting is recurring,
-please include the end date.
-
-Please revalidate all recurring meeting requests annually in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom).
+Let the Zoom Admins know as far in advance as possible in [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom), and they can upgrade you to be a [Licensed user](https://support.zoom.us/hc/en-us/articles/201363173-Account-Types). We have one [large meeting license](https://support.zoom.us/hc/en-us/articles/201362823-What-is-a-Large-Meeting-) for meetings with over 100 participants.
 
 ### Frequently Asked Questions
 
-Q: If I am hosting a Free meeting and it looks like it will go long, can you promote me to Pro?
+Q: If I am hosting a Free meeting and it looks like it will go long, can you promote me to a Licensed user?
 
-A: No. Once your meeting has started, it will not convert to a Pro meeting without restarting the meeting.
-That being said, Pro meetings can convert to Free 20 minutes before the meeting ends without affecting the meeting, if the license is needed elsewhere.
-
-Q: Will 18F be getting more Pro licenses?
-
-A: It is currently under consideration.
+A: No. Once your meeting has started, it will not convert to a Licensed user without restarting the meeting.
 
 Q: I don't need moderation and want to host a longer meeting. Is there a link that I can just use?
 
 A: No. If you are scheduling a meeting, you need to use your Zoom link or a link from the “My Meetings” tab. You do not need to be present in the meeting for participants to join, unless you have the meeting settings set to have the host sign in before the meeting can start.
-
-Q: Will you notify me when you upgrade my account to Pro?
-
-A: No. This will only happen at your request.
 
 Q: How much advance notice do you need for a longer meeting?
 
