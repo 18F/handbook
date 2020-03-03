@@ -69,7 +69,7 @@ To report a security incident, follow *all* of the steps below:
 
 First: it's always OK to err on the side of reporting! [TTS](http://www.gsa.gov/portal/category/25729)'s and GSA's incident response teams are good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, *you'll never get in trouble for pinging IR at all*. The most effective security early warning system is attentive staff, so report early and report often!
 
-**What is an incident?** An occurrence that actually or potentially jeopardizes the [confidentiality]({{site.baseurl}}/general/glossary/#confidentiality), integrity, or availability of an information system or the information the system processes, stores, or transmits or that constitutes a violation or imminent threat of violation of security policies, security procedures, or acceptable use policies.
+**What is an incident?** An occurrence that actually or potentially jeopardizes the [GSA Google Drive](#confidentiality), [integrity](#integrity), or [availability](#availability) of an information system or the information the system processes, stores, or transmits or that constitutes a violation or imminent threat of violation of security policies, security procedures, or acceptable use policies.
 
 
 See GSA’s Insite: [Report IT Security Incidents or Suspicious Activity](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/report-it-security-incidents-and-suspicious-activity-immediately) if you need help determining whether something counts as an incident.
@@ -90,10 +90,18 @@ If an incident involved exposing environment variables or private configuration 
 ### Setting up My Drive for sensitive information sharing
 Ensure you’re creating the folder as part of **My Drive** and not within a pre-existing folder. Use this GSA Google Drive folder for any potentially sensitive data and/or files. Add static files, Google Docs, or Google Sheets as appropriate, and add a comment to any information you think is critical to the investigation.
 
+## Glossary
+
+- **Availability** means the availability of the services we provide. If an app goes down or something we expect to be running stops running, those are availability issues. This only refers to production systems (it's fine if your demo app crashes), and only to unexpected downtime. If you decide to shut something down temporarily for maintenance — go for it, not an incident.
+
+- **Confidentiality** - means: secrets. Personal information (PII) — names, phone numbers, social security numbers, etc — is one kind of secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that confidential information may have been leaked outside TTS, you should open an incident.
+
+- **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
+
 ## Contacts
 
 - Incident? Report in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel
-- Questions? Ask in the [#c-security-compliance](https://gsa-tts.slack.com/messages/g-security-compliance) Slack channel
+- Questions? Ask in the [#g-security-compliance](https://gsa-tts.slack.com/messages/g-security-compliance) Slack channel
 - You can use this link to quickly
  <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">  send an email to IT Service Desk, GSA IR Team & TTS Tech Portfolio </a> at the same time. 
 - cloud.gov: [cloud.gov support team](mailto:cloud-gov-support@gsa.gov) or [#cg-incidents](https://gsa-tts.slack.com/messages/incident-response) Slack channel
