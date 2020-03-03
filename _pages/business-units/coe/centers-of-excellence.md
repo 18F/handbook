@@ -13,13 +13,13 @@ support intensive IT transformation at federal agencies.
 
 Our mission is to accelerate that modernization by leveraging private
 sector innovation and government services, while centralizing best
-practices and expertise.
+practices and expertise for holistic transformation.
 
-Currently operating at the U.S. Department of Agriculture (USDA) and the
-U.S. Department of Housing and Urban Development (HUD), we have five
-centers, each focused on a specific (but interconnected) area of
+We have six centers, each focused on a specific (but interconnected) area of
 transformation:
 
+-   **Artificial Intelligence
+    - Accelerates adoption of Artificial Intelligence to discover insights at machine speed.
 -   **Cloud Adoption**
     -   Analyzes current systems and applications to provide recommendations for planning cloud migration.
 -   **Contact Center**
