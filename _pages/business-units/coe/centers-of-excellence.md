@@ -18,7 +18,7 @@ practices and expertise for holistic transformation.
 We have six centers, each focused on a specific (but interconnected) area of
 transformation:
 
--   **Artificial Intelligence
+-   **Artificial Intelligence**
     - Accelerates adoption of Artificial Intelligence to discover insights at machine speed.
 -   **Cloud Adoption**
     -   Analyzes current systems and applications to provide recommendations for planning cloud migration.
