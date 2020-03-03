@@ -45,6 +45,12 @@ Most working groups will create a Slack channel to coordinate efforts. These cha
           <a href="https://gsa-tts.slack.com/archives/C02E3TK0U">#wg-onboarding</a>
         </td>
       </tr>
+      <tr>
+        <th class="col-grouplet" id="services">18F Service Offerings</th>
+        <td class="col-description">Researching and creating more descriptive service offerings for partners.<br />
+          <a href="https://gsa-tts.slack.com/archives/C02E3TK0U">#wg-service-offerings</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
