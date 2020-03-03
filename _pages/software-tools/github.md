@@ -21,19 +21,14 @@ Include the following:
 - Location: Your primary work location (city, state).
 - Photo: A headshot photo, or an image that is unique to you.
 
-### 2. Set up two-factor authentication
+### 2. Set up local Git configuration
 
-[Enable two-factor authentication (2FA)](https://github.com/settings/security):
-
-- [Use your work email](https://help.github.com/articles/setting-your-email-in-git) rather than your personal email for work-related commits. This only applies to people with more than one email address tied to their GitHub account. Note that this is different than [setting notifications to go to a specific email address](https://help.github.com/articles/choosing-the-delivery-method-for-your-notifications/). If you make commits via GitHub's web interface, it will use your "primary" email address for those commits, so check your [email settings](https://github.com/settings/emails) before making web commits.
-
+- [Use your work email](https://help.github.com/articles/setting-your-email-in-git) rather than your personal email for work-related commits. This only applies to people with more than one email address tied to their GitHub account. Note that this is different than [setting notifications to go to a specific email address](https://help.github.com/articles/choosing-the-delivery-method-for-your-notifications/).
 - If you're using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email, or use a tool like [karn](https://github.com/prydonius/karn). If you have both emails in your [GitHub settings](https://github.com/settings/emails), they will both be tied to your GitHub account anyway.
 
-### 3. Turn notifications on
+### 3. Adjust notification settings
 
-**[Turn notifications on](https://github.com/settings/notifications)** and adjust the settings as needed. Some people watch every repo; others only watch when they're mentioned.
-
-You will get a lot of emails when you turn notifications on. To help stem the tide, you can set up a Gmail filter to automatically archive emails from `notifications@github.com`. However, you probably want to let through those emails that contain your GitHub username or are posted to a repo you're watching. Since on GitHub, each repo is considered its own mailing list, checking for that identifier is one reliable way to allow these notifications through. For example, if the repo name in GitHub is `18F/calc`, the mailing list will be `calc.18F.github.com`. You can also find this by opening an email from the desired repo, clicking the "more info" arrow in the "To" field, and copying the bracketed address in the "mailing list" field. Adding `list:(calc.18F.github.com)` to your filter's exceptions will allow any issues posted to that repo to reach your inbox.
+Take a look at [your notification settings](https://github.com/settings/notifications). In particular, it's suggested that you turn off `Automatically watch repositories`. You may also want to take a look at [tips for filtering GitHub notifications in email](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/about-email-notifications#filtering-email-notifications).
 
 ### 4. Join the 18F organization
 
@@ -111,7 +106,6 @@ Here's our current process to address both operational and security concerns:
 1. In the "Description" of the team, put something reasonable plus a point-of-contact email address for the collaborators.
    - Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops.
 1. (Ask #admins-github to) [add the members to the team](https://help.github.com/articles/maintaining-teams/).
-   - The 18F GitHub Organization requires 2FA for its members. Users without 2FA cannot be added to the GitHub Organization.
 1. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
 
 When the engagement is over, you must let [#admins-github](https://gsa-tts.slack.com/messages/admins-github) know so the team can be deleted and access removed.
@@ -141,6 +135,10 @@ If the repository is published as a package, please also mark it as deprecated.
 - NPM: Use [`npm deprecate`](https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions)
 - PyPI: Publish with a `Development Status :: 7 - Inactive` [classifier](https://pypi.org/classifiers/)
 - Ruby gem: Publish with a [post-install message](https://guides.rubygems.org/specification-reference/#post_install_message)
+
+### Creating a new GitHub organization
+
+[Create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=github-org.md) and follow the steps.
 
 ## Actions
 
