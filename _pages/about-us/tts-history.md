@@ -2,8 +2,6 @@
 title: TTS mission, history, and values
 ---
 
-Our mission is to improve the lives of the public and public servants by transforming how government uses technology.
-
 ## Our history
 
 The roots of the Technology Transformation Services reach back to 1966 and a nationwide network of 26 Federal Information Centers that people could visit in person for answers to government questions. Over the next four decades, those information centers would add numerous responsibilities and change names a number of times before becoming the [Office of Products and Programs (OPP)]({{site.baseurl}}/office-of-products-and-programs/).

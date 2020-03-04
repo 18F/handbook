@@ -3,7 +3,7 @@ title: History and values of 18F
 navtitle: History and values
 ---
 
-18F stands on the shoulders of giants! These teams paved the way for our existence: the Consumer Financial Protection Bureau, the Office of Personnel Management Lab (focused on user experience, user research, and human-centered design in government), the Sunlight Foundation, Code for America, the [Office of Products and Programs](https://www.gsa.gov/portal/content/124174) (our sister org, which has been around for a decade and runs things like USA.gov), the U.S. CTO’s office, and the Presidential Innovation Fellowship.
+18F stands on the shoulders of giants! These teams paved the way for our existence: the Consumer Financial Protection Bureau, the Office of Personnel Management Lab (focused on user experience, user research, and human-centered design in government), the Sunlight FounasdfasfsZdation, Code for America, the [Office of Products and Programs](https://www.gsa.gov/portal/content/124174) (our sister org, which has been around for a decade and runs things like USA.gov), the U.S. CTO’s office, and the Presidential Innovation Fellowship.
 
 The hypothesis was simple: the U.S. government could attract talented technologists to the civil service by enticing them with meaty problems and an opportunity for huge impact. The MVP was the Presidential Innovation Fellowship (go say hello to the <a href="https://gsa-tts.slack.com/messages/pifs/">#pifs</a>), which proved you could get people to give up (or take a break from) their jobs in the private sector to serve a tour of duty in the federal government. The next step was to convince people to serve longer than a six-to-12-month fellowship and join a product delivery team.
 
