@@ -1,6 +1,6 @@
 ---
-title: History and values of 18F
-navtitle: History and values
+title: History and Values of 18F
+navtitle: History and Values
 ---
 
 18F stands on the shoulders of giants! These teams paved the way for our existence: the Consumer Financial Protection Bureau, the Office of Personnel Management Lab (focused on user experience, user research, and human-centered design in government), the Sunlight Foundation, Code for America, the [Office of Products and Programs](https://www.gsa.gov/portal/content/124174) (our sister org, which has been around for a decade and runs things like USA.gov), the U.S. CTO’s office, and the Presidential Innovation Fellowship.
