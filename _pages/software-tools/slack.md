@@ -236,6 +236,7 @@ Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archiv
 
 Please keep #news posts limited to information that the entire team needs to know. This includes things like:
   
+- Major events impacting all of TTS or a TTS Business unit
 - Required trainings
 - Necessary security and compliance actions
 - Policy changes or reminders
