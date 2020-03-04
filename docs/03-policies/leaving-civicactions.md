@@ -51,9 +51,10 @@ When you leave CivicActions, you are responsible for returning all CivicActions 
 
 ## Offboarding process
 
-`Duplicate` the `Template` in the *Off-Boarding Tasks*
+The person doing the offboarding should duplicate the `template list` on the `Offboarding` Trello board. All the tasks needed to offboard someone from CivicActions are listed as task cards. There will need to be collaboration with others in company to fully offboard someone - such as the project/practice area teams removing them from specific tools. An important step is to also talk with the person departing CivicActions to ensure they remove project or company work from their personal machines, remove shared lastpass logins, and return any equipment or property back to CivicActions. 
 
-> @todo: [NEED LINK to make a checklist. More detail for certain tasks is below. Note that, per CivicActions policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at CivicActions.](https://trello.com/c/B5SGrESO/140-add-link-checklist-to-offboarding-process-in-leaving-civicactions)
+CivicActions will also post a message in #announcements about the person departing CivicActions. We will intentionally post a message that preserves the privacy of the person leaving CivicActions. 
+
 
 ### Manager
 
