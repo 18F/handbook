@@ -278,9 +278,6 @@ primary:
                 internal: false
           - text: How we work
             children:
-              - text: 18F business development
-                url: 18f-bd/
-                internal: true
               - text: Time tracking and billing
                 url: tock/#time-tracking-and-billing
                 internal: true
@@ -301,6 +298,9 @@ primary:
                 internal: false
           - text: 18F projects
             children:
+              - text: 18F business development
+                url: 18f-bd/
+                internal: true
               - text: Consulting with partners
                 url: how-we-relate-to-partners/
                 internal: true
