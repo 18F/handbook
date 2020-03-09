@@ -9,4 +9,4 @@ tags:
 - comptime
 ---
 
-Please reach out to TTS Talent via [#talent](https://gsa-tts.slack.com/messages/talent/) or [email](mailto:tts-talentteam@gsa.gov) for information regarding overtime and comp time.
+Please reach out to TTS Talent via [#people-ops](https://gsa-tts.slack.com/messages/people-ops/) or [email](mailto:TTS-PeopleOps@gsa.gov) for information regarding overtime and comp time.
