@@ -18,9 +18,8 @@ We have a wide range of skills, including:
 
 ## Documentation
 
-- Our [Product Management guide] outlines the major outcomes an 18F product manager drives towards in different phases and elements of our work: discovery, delivering a product, consulting with partners, and coaching partners on product management. 
+- Our [Product Management guide](https://product-guide.18f.gov/) outlines the major outcomes an 18F product manager drives towards in different phases and elements of our work: discovery, delivering a product, consulting with partners, and coaching partners on product management. 
  
-- [18F product guide](https://product-guide.18f.gov/)
 - [Product management knowledge base](https://docs.google.com/document/d/1LfeaTeBCfxAOq5WHMd6ZK-LztcZk6y451hmvz8vGJ7w/edit#)
 
 ## Communication
@@ -40,7 +39,7 @@ Welcome to the 18F Product team — we’re happy you’re here! We’ve compile
 
 You probably won't be assigned to a project in your first week or two. That’s okay and expected. There are some general government onboarding tasks that you will have to do, which the onboarding lead from Talent will guide you through. We also have some internal reading to help you get up to speed with TTS, 18F, and the product team. You should also take this time to get to know your teammates, by scheduling 1:1 video calls (known as "virtual tea") with people.
 
-If you’ve completed your onboarding checklist and still don't have an assigned project, you can shadow a product manager on a current project or work on an internal project. Talk to your supervisor to get more information about how you can get involved with pairing or an internal project.
+If you’ve completed your onboarding checklist and still don't have an assigned project, you may be able to shadow a product manager on a current project or work on an internal project. Talk to your supervisor to get more information about how you can get involved with pairing or an internal project.
 
 ## Who we are
 
@@ -67,8 +66,8 @@ Product managers at 18F have four primary objectives:
 
 Most of the product team works on a mix of partner projects and internal initiatives, so everyone’s weeks look a little different. However, we make time to get together regularly.
 
-- **Wednesdays:** Every week the product team meets for an hour starting at 10:30am PT / 1:30pm ET. The product leadership team shares reminders, announcements, and internal project updates. Members of the product team also take turns presenting things they've learned or facilitating conversations with the broader group. On alternating weeks we shorten the large group meeting and break out into facilitation groups for the second half of the product team meeting.
-- **Once a week:** Meet with your supervisor. Once a week, you'll have a 1:1 meeting with your supervisor at a time that works well for both of you. This meeting is both administrative and personal. It’s one of the main ways that the chapter leadership team tracks ongoing projects. It’s also a time for you to work through any project concerns, figure out how to wrangle the federal bureaucracy, and talk about how to make 18F work better for you.
+- **Wednesdays:** Every other week the product team meets for an hour starting at 10:30am PT / 1:30pm ET. The product leadership team shares reminders, announcements, and internal project updates. Members of the product team also take turns presenting things they've learned or facilitating conversations with the broader group. On alternating weeks we shorten the large group meeting and break out into facilitation groups for the second half of the product team meeting.
+- **Bi-weekly:** Meet with your supervisor. Bi-weekly, you'll have a 1:1 meeting with your supervisor at a time that works well for both of you. This meeting is both administrative and personal. It’s one of the main ways that the chapter leadership team tracks ongoing projects. It’s also a time for you to work through any project concerns, figure out how to wrangle the federal bureaucracy, and talk about how to make 18F work better for you.
 - **At least once a month:** Meet with the chapter director. You'll have regular skip-level 1:1s with the director of product. This is an opportunity for you to talk about chapter initiatives and organizational events. It's also space for you to discuss opportunities and share your opinions.
 
 ### Communication channels
