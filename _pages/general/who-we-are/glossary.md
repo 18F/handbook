@@ -19,9 +19,12 @@ tags:
 
 * **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Learn more about ATOs in the [Before You Ship guide](https://before-you-ship.18f.gov/ato/).
 
+* **Availability** means the availability of the services we provide. If an app goes down or something we expect to be running stops running, those are availability issues. This only refers to production systems (it's fine if your demo app crashes), and only to unexpected downtime. If you decide to shut something down temporarily for maintenance — go for it, not an incident.
+
 * **AWS** - Amazon Web Services. Some TTS services use AWS to host websites. Read easy-to-understand descriptions of the different pieces [here](https://www.expeditedssl.com/aws-in-plain-english).
 
 * **AWS** - Alternative Work Schedule. Working eight, 10-hour days or working nine, nine-hour days in a pay period.
+
 
 * **Back end developer** - The people who write the code for the parts of a web site you don't see, working in programming languages like Ruby, Python, or NodeJS. They work on pieces of the application that, for example:
     * Generate shopping recommendations
@@ -37,6 +40,8 @@ tags:
 * **CoEs** – The [Centers of Excellence](https://coe.gsa.gov/) accelerate the modernization of IT infrastructure across government by leveraging private sector innovation and existing government services, and by centralizing best practices and expertise. The CoEs are an office within TTS.
 
 * **Color of money** - Slang for the legal parameters around how federal money for goods or services can be spent. This usually comes up in the context of inter-agency agreements with other federal agencies. The different “colors” of money include multi-year, no year, or one year money.
+
+- **Confidentiality** - means: secrets. Personal information (PII) — names, phone numbers, social security numbers, etc — is one kind of secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that confidential information may have been leaked outside TTS, you should open an incident.
 
 * **CRM** - Customer relationship management software, which can help organizations track contacts and interactions with customers.
 
@@ -73,6 +78,8 @@ tags:
 * **IAA** - Interagency agreement: a contract between federal agencies.
 
 * **IaaS** - Infrastructure as a Service. A service that provides on-demand computing services such as storage. This is the foundation on which organizations can build and maintain cloud services.
+
+- **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
 
 * **MOU** - Memorandum of understanding.
 
