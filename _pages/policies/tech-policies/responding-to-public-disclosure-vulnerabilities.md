@@ -28,7 +28,7 @@ High |	7.0 - 8.9 |
 Critical |	9.0 - 10.0 |
 
 
-A score of `none` means that the report falls outside of scope, or is negligible, or doesn't contain enough information. If the report is `none`, [jump to the response step](#3-respond-to-reporter).
+A score of `none` means that the report falls outside of scope, or is negligible, or doesn't contain enough information. If the report is `none`, [jump to the response step](#reply-to-the-reporter).
 
 
 ## Determine an incident
