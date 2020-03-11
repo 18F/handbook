@@ -180,6 +180,7 @@ TTS is heavily involved in the following GitHub organizations:
 | [@presidential-innovation-fellows](https://github.com/presidential-innovation-fellows) | Y                            | Y                                                 |
 | [@usagov](https://github.com/usagov)                                                   | Y                            | Y                                                 |
 | [@uswds](https://github.com/uswds)                                                     | Y                            | Y                                                 |
+| [@cloud-gov](https://github.com/cloud-gov)                                                     | Y                            | Y                                                 |
 
 <sup>1</sup>: TTS staff, contractors, and partners who are offboarding need to be removed from all government-owned GitHub organizations.
 
