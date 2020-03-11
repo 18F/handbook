@@ -90,6 +90,8 @@ If you’re worried about your project, bring up any concerns or blockers with y
 ### Business Development
 - [SME calls](https://docs.google.com/document/d/1vP4H9X1jMN0feuNHrw_vuAwtxBGQX7R56-sRl3UGFQk)  
 - [Proposal writing](https://docs.google.com/document/d/1U-TTrYTFW-UYkgs_gdhPxifi9ExW-9NyTCG-AfbO-6I) 
+- [SOW templates](https://drive.google.com/drive/u/0/folders/1tDBr9Evh4ZGPqlJUxirlzyGtnoXtf6wS) 
+- [Cost estimator templates](https://docs.google.com/spreadsheets/d/11yeM0k6bLKVmvkmN2JM-a26a0S-7QwSwImM7saaV1EY) 
 - [Generating follow-on work](https://docs.google.com/document/d/1cK5lapUzuf4KX4VTVpV22TvRjCHH86phoLiyXzFO3Ss)  
 
 ### Pre-flight 
