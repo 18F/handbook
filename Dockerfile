@@ -6,4 +6,6 @@ WORKDIR /app
 COPY Gemfile* ./
 RUN bundle install
 
-CMD bundle exec jekyll serve --host 0.0.0.0 --incremental
+CMD bundle exec \
+  rerun --pattern _config.yml -- \
+  jekyll serve --host 0.0.0.0 --incremental

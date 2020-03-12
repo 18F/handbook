@@ -12,4 +12,5 @@ gem 'jekyll-sitemap'
 
 group :development do
   gem 'html-proofer'
+  gem 'rerun'
 end
