@@ -18,9 +18,9 @@ Make sure to [set up two-factor authentication](https://trello.com/2fa).
 
 ### Requesting access
 
-To get access to the 18F Trello team, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite my Trello account "YOUR_USERNAME" to Trello at https://trello.com/18f3/members." ***NOTE: If you don't have a Trello account, feel free to ask us to invite your GSA e-mail address to create one.***
+To get access to the TTS Trello team, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite my Trello account "YOUR_USERNAME" to Trello at https://trello.com/18f3/members." ***NOTE: If you don't have a Trello account, feel free to ask us to invite your GSA e-mail address to create one.***
 
-There is no 18F-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
+There is no TTS-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
 
 ## Rules
 
@@ -28,7 +28,7 @@ There is no 18F-wide access to paid Trello features or add-on services yet. If y
 
 ## Usage
 
-People use Trello to track ideas from conception through execution. It's common to see a working group using Trello to collaborate in creating documentation. Sometimes we track business development leads on a Trello board. Some individuals use Trello to help track and prioritize their own queue of work. Most commonly, Trello is used by 18F teams applying agile processes like Scrum and Kanban to deliver software.
+People use Trello to track ideas from conception through execution. It's common to see a working group using Trello to collaborate in creating documentation. Sometimes we track business development leads on a Trello board. Some individuals use Trello to help track and prioritize their own queue of work. Most commonly, Trello is used by TTS teams applying agile processes like Scrum and Kanban to deliver software.
 
 ## Tips
 
