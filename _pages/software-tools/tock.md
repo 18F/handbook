@@ -2,19 +2,19 @@
 title: Tock
 ---
 
-## Quick reference:
+## Quick reference
 
 **18F staff should only enter time in the following categories:**
 
-- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F.
+- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F. **18F Business Ops - #1195:** Time specifically spent working on 18F business development efforts.
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
 - **Out of Office - #670:** Vacation time, federal holidays, or sick time
 - **18F Project work - project ID varies:** The specific projects you're working on.
 
-**Cloud.gov:**
+**Cloud.gov**
 - Tock your usual 40 hours to the cloud.gov P&L (#955) generally unless you’re doing billable work for something in 18F.  More specific Tock instructions for Cloud team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
 
-**Centers of Excellence:**
+**Centers of Excellence**
 - **COE /Non-Billable Hours (Line #1145):** Time spent working on non-project work for COE.
 
 ## What is Tock, and why do we use it?
@@ -35,7 +35,7 @@ Timecards for the current week should be available no later than Monday at 9AM P
 
 Tock is a different tool than HR Links and is used for a different purpose: 
 
-- Tock is an internal 18F tool that tracks our billable hours on projects; we use that data to bill our agency partners. 
+- Tock is an internal TTS tool that tracks our billable hours on projects; we often use that data to bill our agency partners. 
 - HR Links is a GSA-level tool that records how much and what kind of leave (sick, annual, family) an employee takes during a given two-week pay period.
 
 It can be confusing because out of office time IS tracked in Tock. But that’s only so we can understand that you weren’t billing to a project because you were out of the office. Leave can only be officially requested via HR Links. 
@@ -60,7 +60,7 @@ You **must** bill for the below activities because these are direct costs. This 
 
 - Work that enables project delivery, such as:
     - Any activity that develops skills or knowledge used in project work
-        - Examples: guild meetings, guild work, working groups, project related skill development like reading, studying, online searches, or fixing an issue on your project - basically if it applies to your project's work you should bill it
+        - Examples: guild meetings, guild work, working groups and communities, project related skill development like reading, studying, online searches, or fixing an issue on your project - basically if it applies to your project's work you should bill it
     - 1:1 with supervisor/facilitator (both individual and supervisor/facilitator should bill to the project)
     - Critique groups
     - When coordinating staffing for projects with a signed IAA, bill to the project you're staffing
@@ -94,11 +94,11 @@ You must not bill for the following activities because these are indirect costs 
 
 If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. Directors and supervisors have different billability expectations.
 
-That leaves up to 20% of your time to be spent on non-billable work. There are two types of non-billable work, both of which are used to manage the running of TTS and your part of TTS itself: GSA-mandated non-billable work and 18F/CoE/etc. non-billable work.
+That leaves up to 20% of your time to be spent on non-billable work. There are a few types of non-billable work, used to manage the running of TTS and your part of TTS itself: GSA-mandated non-billable work, 18F business development, and 18F/CoE/etc. non-billable work.
 
-GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers) and so forth. These are the things we don’t have a choice but to spend time on.
+GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers), and so forth. These are the things we don’t have a choice but to spend time on.
 
-18F/CoE/PIF non-billable work includes time spent on business development and hiring, in guilds and working groups, team coffees, chapter meetings, approved internal projects, business development, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
+18F/CoE/PIF non-billable work includes time spent on hiring, in guilds and working groups, team coffees, chapter meetings, approved internal projects, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
 
 However, time within those activities spent discussing a billable project may also be billable. For example, if you're in a 1:1 or guild meeting working through a difficult project issue, that's billable.
 
@@ -147,7 +147,7 @@ You cannot request paid time off in Tock (see the [Leave](../leave/) page for gu
 
 If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your Tock hours for you during your out of office period. Example:
 
-“I will be out of the office from Monday September 16th through Monday September 23rd; Can you enter me as 40 hours to #67O for the 16th-20th time period?”
+“I will be out of the office from Monday September 16th through Monday September 23rd: could you enter 40 hours for me to #670 for the 16th-20th time period?”
 
 
 ## FAQ
@@ -164,7 +164,7 @@ Tock likely doesn't have your start date listed correctly. To fix this:
 
 ### How do I change a reporting period I already filled out?
 
-Submit a tock change request using [this form](https://docs.google.com/forms/d/1EpVTxXgRNgYfoSA2J8Oi-csjhFKqFm5DT542vIlahpU/viewform?edit_requested=true). You can also ping us in [#tock](https://gsa-tts.slack.com/messages/tock) and we'll help you out.
+Submit a Tock change request using [this form](https://docs.google.com/forms/d/1EpVTxXgRNgYfoSA2J8Oi-csjhFKqFm5DT542vIlahpU/viewform?edit_requested=true). You can also ping us in [#tock](https://gsa-tts.slack.com/messages/tock) and we'll help you out.
 
 ## Still have questions?
 
