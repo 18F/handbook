@@ -6,7 +6,7 @@ title: Tock
 
 **18F staff should only enter time in the following categories:**
 
-- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F. **18F Business Ops - #1195**: Time specifically spent working on 18F business development efforts.
+- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F. **18F Business Ops - #1195:** Time specifically spent working on 18F business development efforts.
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
 - **Out of Office - #670:** Vacation time, federal holidays, or sick time
 - **18F Project work - project ID varies:** The specific projects you're working on.
