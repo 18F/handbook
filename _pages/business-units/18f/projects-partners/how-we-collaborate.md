@@ -2,7 +2,7 @@
 title: How we collaborate
 ---
 
-We [work with partners]({{site.baseurl}}/how-we-relate-to-partners/) and use [collaborative, remote-friendly tools]({{site.baseurl}}/collaboration-tools/) to model agile, open, and inclusive teams.  Our ambition is to demonstrate the value of technical experts, procurement decision-makers, strategic deciders, and frontline public servants working together toward the same goal.
+We [work with partners]({{site.baseurl}}/how-we-relate-to-partners/) and use collaborative, remote-friendly tools to model agile, open, and inclusive teams.  Our ambition is to demonstrate the value of technical experts, procurement decision-makers, strategic deciders, and frontline public servants working together toward the same goal.
 
 In many parts of government, hierarchical processes and communication patterns make it unusual for decision-makers (like managers, contracting officers, agency leadership) to work together with “doers” (like designers, customer service staff, software developers, program staff) on a daily basis.
 
