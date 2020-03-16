@@ -41,8 +41,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
-- [Solutions Chief of Product](https://docs.google.com/document/d/1e8tFs9-18H914QpEVkM-Np-qxJWvSKIzBLpq-f8GFU4/edit) - open Thursday, March 5th through Sunday, March 15th at 11:59 PM ET
-
 - [National Security and Intelligence Portfolio Director](https://docs.google.com/document/d/1_TwMFsSKD77OjtgFCHsWDQVAzfe1i3SaTu5ABulDKq4/edit?ts=5e61c45d) - open Friday, March 6th through Friday, March 20th at 11:59 PM ET
 
 ## Opportunities with partners
