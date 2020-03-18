@@ -8,7 +8,9 @@ Here, you'll find a list of tools folks at TTS use to schedule meetings, along w
 
 Here are some of the tools TTS uses to facilitate meetings:
 
-For scheduling, use [Google Calendar]({{site.baseurl}}/google-calendar/). For videoconferencing:
+For scheduling, use [Google Calendar]({{site.baseurl}}/google-calendar/).
+
+### Videoconferencing
 
 | Service                                                                             | Capacity                                                                                                                                 | Dial-in option?                                                                                                                                           |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,6 +20,15 @@ For scheduling, use [Google Calendar]({{site.baseurl}}/google-calendar/). For vi
 | [Zoom]({{site.baseurl}}/zoom/)                                                      | [100-500]({{site.baseurl}}/zoom/#for-meetings-with-over-100-participants)                                                                | [Y](https://support.zoom.us/hc/en-us/articles/201362663-Joining-a-meeting-by-phone)                                                                       |
 
 The ones with dial-in options can be used without video (say, if video is blocked by the partner agency), as well.
+
+#### Connectivity issues
+
+If you are having connectivity issues when videoconferencing, try:
+
+1. Adjusting video quality settings ([Meet](https://support.google.com/a/users/answer/9302964?co=GENIE.Platform%3DAndroid&hl=en#adjust-video-quality), [Zoom](https://support.zoom.us/hc/en-us/articles/201362623-Changing-settings-in-the-desktop-client-or-mobile-app))
+1. Turning off video
+1. Dialing in
+1. Switching to a different tool
 
 ## General meetings
 
