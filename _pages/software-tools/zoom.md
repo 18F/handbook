@@ -43,7 +43,7 @@ Let [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom) know as far i
 
 ### For meetings with over 100 participants
 
-We have one large meeting extension for meetings with over 100 participants. Let [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom) know when you need it (including time zone) and they can [assign it to you](https://support.zoom.us/hc/en-us/articles/201362823-What-is-a-Large-Meeting-#h_f5e58bf2-4817-4a63-b44c-ca4f6be9229d). If there are multiple meetings scheduled that day, your account will be promoted as soon as the Pro account is available.
+We have one [Large Meeting](https://support.zoom.us/hc/en-us/articles/201362823-What-is-a-Large-Meeting-) extension for meetings up to 500 participants. Let [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom) know when you need it (including time zone) and they can [assign it to you](https://support.zoom.us/hc/en-us/articles/201362823-What-is-a-Large-Meeting-#h_f5e58bf2-4817-4a63-b44c-ca4f6be9229d). If there are multiple meetings scheduled that day, your account will be promoted as soon as the Pro account is available.
 
 ### Frequently Asked Questions
 

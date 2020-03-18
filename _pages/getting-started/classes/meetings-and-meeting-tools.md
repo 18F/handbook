@@ -8,11 +8,16 @@ Here, you'll find a list of tools folks at TTS use to schedule meetings, along w
 
 Here are some of the tools TTS uses to facilitate meetings:
 
-- [Google Meet]({{site.baseurl}}/google-meet/)
-- [Google Calendar]({{site.baseurl}}/google-calendar/)
-- [Zoom]({{site.baseurl}}/zoom/)
-- [Meeting Space]({{site.baseurl}}/gsa-internal-tools/#meeting-space) (for conference lines)
-- Adobe Connect
+For scheduling, use [Google Calendar]({{site.baseurl}}/google-calendar/). For videoconferencing:
+
+| Service                                                                             | Capacity                                                                                                                                 | Dial-in option?                                                                                                                                           |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Google Meet]({{site.baseurl}}/google-meet/)                                        | [250](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/virtual-and-online-meetings/google-meet) | [Y](https://support.google.com/meet/answer/9518557?hl=en&ref_topic=7192926)                                                                               |
+| [Meeting Space]({{site.baseurl}}/gsa-internal-tools/#meeting-space)                 | [500-1,500](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/online-meetings/meeting-space-adobe-connect)   | [Y](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/virtual-and-online-meetings/meeting-space-adobe-connect/audio-controls) |
+| [Slack calls](https://slack.com/help/articles/115003498363-Slack-Calls--the-basics) | [15](https://slack.com/help/articles/216771908-Make-calls-in-Slack#start-a-call)                                                         | N                                                                                                                                                         |
+| [Zoom]({{site.baseurl}}/zoom/)                                                      | [100-500]({{site.baseurl}}/zoom/#for-meetings-with-over-100-participants)                                                                | [Y](https://support.zoom.us/hc/en-us/articles/201362663-Joining-a-meeting-by-phone)                                                                       |
+
+The ones with dial-in options can be used without video (say, if video is blocked by the partner agency), as well.
 
 ## General meetings
 
