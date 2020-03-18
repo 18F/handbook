@@ -11,7 +11,7 @@ An “incident” or “information security incident” is a violation - or an 
 If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to the [GSA IT Service Desk] <a href="mailto:itservicedesk@gsa.gov?subject=Security Incident"> 
 
 
- It is critical that you notify GSA IR within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, [contact them another way](https://insite.gsa.gov/employee-resources/information-technology). 
+ It is critical that you notify GSA IT within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, [contact them another way](https://insite.gsa.gov/employee-resources/information-technology). 
 
  Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. Include the hyperlink to the [GSA Google Drive](#setting-up-my-drive-for-sensitive-information-sharing) folder in the top summary of the GitHub Issue. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident
  
@@ -38,7 +38,7 @@ If you also clicked on a link in a phishing email, follow these steps to report 
 To report a security incident, follow *all* of the steps below:
 
 
-    Please note that incidents need to be reported within one hour of being identified. This isn't "within an hour of happening" but "within one hour of you becoming aware of the incident." The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
+Please note that incidents need to be reported within one hour of being identified. This isn't "within an hour of happening" but "within one hour of you becoming aware of the incident." The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 
 1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov within 1 hour of identifying an incident. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. security token committed to repo). 
     - When emailing GSA's Incident Response (IR) team, please include as many details as possible, including relevant URLs, repos, and a link to related GitHub issue (if applicable). 
