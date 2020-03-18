@@ -166,6 +166,7 @@ TTS is heavily involved in the following GitHub organizations:
 | Organization                                                                           | Government-owned<sup>1</sup> | TTS-managed<sup>2</sup>                           |
 | -------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------- |
 | [@18F](https://github.com/18F)                                                         | Y                            | Y                                                 |
+| [@cloud-gov](https://github.com/cloud-gov)                                             | Y                            | Y                                                 |
 | [@cloudfoundry-community](https://github.com/cloudfoundry-community)                   | N                            | N                                                 |
 | [@digital-analytics-program](https://github.com/digital-analytics-program)             | Y                            | Y                                                 |
 | [@digitalgov](https://github.com/digitalgov)                                           | Y                            | Y                                                 |
@@ -180,7 +181,6 @@ TTS is heavily involved in the following GitHub organizations:
 | [@presidential-innovation-fellows](https://github.com/presidential-innovation-fellows) | Y                            | Y                                                 |
 | [@usagov](https://github.com/usagov)                                                   | Y                            | Y                                                 |
 | [@uswds](https://github.com/uswds)                                                     | Y                            | Y                                                 |
-| [@cloud-gov](https://github.com/cloud-gov)                                                     | Y                            | Y                                                 |
 
 <sup>1</sup>: TTS staff, contractors, and partners who are offboarding need to be removed from all government-owned GitHub organizations.
 
