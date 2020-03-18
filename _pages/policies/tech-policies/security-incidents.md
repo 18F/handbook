@@ -11,7 +11,7 @@ An “incident” or “information security incident” is a violation - or an 
 If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to the [GSA IT Service Desk] <a href="mailto:itservicedesk@gsa.gov?subject=Security Incident"> 
 
 
- It is critical that you notify GSA IR within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, [contact them another way](https://insite.gsa.gov/employee-resources/information-technology). 
+ It is critical that you notify GSA IT within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, [contact them another way](https://insite.gsa.gov/employee-resources/information-technology). 
 
  Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. Include the hyperlink to the [GSA Google Drive](#setting-up-my-drive-for-sensitive-information-sharing) folder in the top summary of the GitHub Issue. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident
  
