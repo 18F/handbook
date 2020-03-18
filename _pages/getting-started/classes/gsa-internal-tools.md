@@ -89,7 +89,7 @@ They are available 6am-9pm ET. If you need to reset your ENT password, follow [t
 
 [GSA Meeting Space (a.k.a. Adobe Connect)](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/online-meetings/meeting-space-adobe-connect) can be used to create an online conference or a conference line. To create a call line:
 
-1. Log in. Click `My Profile → My Audio Profiles`.
+1. Go to [`My Profile → My Audio Profiles`](https://meet.gsa.gov/admin/my-profile/tele-profiles).
 2. On the left hand side click `Intercall Audio Profile` to select it.
 3. The right hand side of the screen will display the Intercall Audio Profile information that includes the conference code, leader pin, and conference phone number information. It'll look greyed out, but that's okay unless you want to edit it---for example, to change the PIN---if so, the edit button is at top right of that panel.
 
