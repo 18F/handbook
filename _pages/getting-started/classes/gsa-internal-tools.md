@@ -49,7 +49,7 @@ Here are some tips for employees that frequent an office:
   </li>
   <li>BookIT! can remember your office location so you won't have to scroll through drop-down menus every time you need to reserve a meeting room. To save your office location settings, go to <code>Profile → View Your Profile → Edit Profile.</code>   </li>
   <li>BookIT! also allows you to add "delegates," or people who can book rooms and/or check in on your behalf. To do that, go to <code>Profile → View Your Profile → Delegates → Edit Profile</code>.</li>
-  <li>Some employees have expressed difficulty in logging into BookIT! If you're having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the 18F org they should be able to add you to the list in a day.</li>
+  <li>Some employees have expressed difficulty in logging into BookIT! If you're having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the TTS org they should be able to add you to the list in a day.</li>
  </ul>
 
 ## Employee Express

@@ -10,7 +10,7 @@ navtitle: First-Time Travel Get a Travel Card
 
 A GSA travel card will help you pay for lodging, taxis, and other miscellaneous expenses while on your trip.
 
-While new employees may travel without one, it is required that everyone at 18F has one as soon as possible.
+While new employees may travel without one, it is required that everyone at TTS have one as soon as possible.
 
 ### 1. Complete card training
 
