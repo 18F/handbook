@@ -87,7 +87,7 @@ They are available 6am-9pm ET. If you need to reset your ENT password, follow [t
 
 ## Meeting Space
 
-<a href="https://meet.gsa.gov/">Meeting Space</a> is the service you'll use to create your own conference call line, as opposed to our usual video calls in <a href="https://meet.google.com/">Google Hangouts Meet</a>. Hangouts Meet allow up to 99 participants plus a host: Meeting Space is usually only needed if you'll go beyond that number or your participants can't use Hangouts Meet. Here's how to create a Meeting Space call line:
+[GSA Meeting Space (a.k.a. Adobe Connect)](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/online-meetings/meeting-space-adobe-connect) can be used to create an online conference or a conference line. To create a call line:
 
 1. Log in. Click `My Profile → My Audio Profiles`.
 2. On the left hand side click `Intercall Audio Profile` to select it.
@@ -96,8 +96,6 @@ They are available 6am-9pm ET. If you need to reset your ENT password, follow [t
 `My Audio Profile` is the only place that you will find the PIN needed to start any audio call outside of the meeting room.
 
 That's it: your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you _do not_ need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code.
-
-If you'd already set this up pre-February 2019, you may need to update it. Please reference the topical IT Insider email from February 2019 for instructions.
 
 ## Office supplies
 
