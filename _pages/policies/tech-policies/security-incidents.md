@@ -38,7 +38,7 @@ If you also clicked on a link in a phishing email, follow these steps to report 
 To report a security incident, follow *all* of the steps below:
 
 
-    Please note that incidents need to be reported within one hour of being identified. This isn't "within an hour of happening" but "within one hour of you becoming aware of the incident." The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
+Please note that incidents need to be reported within one hour of being identified. This isn't "within an hour of happening" but "within one hour of you becoming aware of the incident." The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 
 1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov within 1 hour of identifying an incident. Please include *Security Incident* in the subject line, along with a brief description of the incident (Ex. security token committed to repo). 
     - When emailing GSA's Incident Response (IR) team, please include as many details as possible, including relevant URLs, repos, and a link to related GitHub issue (if applicable). 
