@@ -332,6 +332,10 @@ If you're interested in learning more about the bots, or perhaps contributing to
 - Press `Command + [` and `Command + ]` to jump back and forth along your history of DMs/channels.
 - To mark messages as unread, click a message on your phone and select _mark unread_ or press `Alt` and then click your mouse to do so on your desktop.
 
+## Connectivity issues
+
+If you are having connectivity issues with Slack, see the [Slack status site](https://status.slack.com/) for more information, and move to [Hangouts Chat](https://support.google.com/a/users/answer/9300511?hl=en) or email.
+
 --------------------------------------------------------------------------------
 
 #### Still have questions?
