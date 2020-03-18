@@ -22,12 +22,6 @@ Most working groups will create a Slack channel to coordinate efforts. These cha
   <table class="table-existing-grouplets">
     <tbody>
       <tr>
-        <th class="col-grouplet" id="consulting">Consulting</th>
-        <td class="col-description">We work to build skills by asking questions and sharing our experiences regarding what to expect and how to manage the unique complexity of consulting work. We also work on consulting-related projects and resources to help 18F evolve its overall organizational consulting capability.<br />
-          <a href="https://gsa-tts.slack.com/messages/CDVJ9U4K1">#wg-consulting</a>
-        </td>
-      </tr>
-      <tr>
         <th class="col-grouplet" id="consulting">TTS Hiring</th>
         <td class="col-description">Improving hiring practices and materials for all of TTS.<br />
           <a href="https://gsa-tts.slack.com/archives/CEHSLF4LB">#wg-tts-hiring</a>
@@ -150,6 +144,50 @@ Typically guilds follow a lightweight leadership selection process:
 1. The guild asks for nominations via email and Slack posting. Guilds can choose to allow self-nomination only, or accept nominations by other people with confirmation of interest by the nominee. Nominees should have the verbal approval of their supervisor. Written nominations totalling no more than 400 words are recommended; guilds choose nomination questions.
 1. A panel of one-three people made up of guild leadership, other guild members and/or leadership from other guilds conduct brief (no more than 30 minute) interviews of candidates and makes a selection.
 1. A current guild leader announces the new leader, who takes up the position immediately.
+
+## 18F Communities
+18F has developed Communities, with "Community Leads" guiding them. These communities are an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization.
+
+These communities should all have Slack channels with a `c-` prefix. Since their channels are one of their best ways of promoting best practices, you're encouraged to join any you find interesting. 
+
+Current 18F Communities (and their Community Leads) include:
+
+<div class="table-wrapper">
+  <table class="table-existing-grouplets">
+    <tbody>
+      <tr>
+        <th>Ethics in Tech</th>
+        <td>Matt Henry & Tiffany Andrews</td>
+        <td>#c-ethics-in-tech</td>
+      </tr>
+      <tr>
+        <th>Natural Language Processing & Machine Learning</th>
+        <td>James Tranovich & Tiffany Andrews</td>
+        <td>#nlp-ml</td>
+      </tr>
+      <tr>
+        <th>Project Resources</th>
+        <td>Nina Mak & Malaika Carpenter</td>
+        <td>#c-project-resources</td>
+      </tr>
+      <tr>
+        <th>Partners Network</th>
+        <td>Skippy Williams & Ben Peterson</td>
+        <td>#c-partners-network</td>
+      </tr>
+      <tr>
+        <th>Data</th>
+        <td>Princess Ojiaku & Peter Rowland</td>
+        <td>#c-data</td>
+      </tr>
+      <tr>
+        <th>Consulting</th>
+        <td>Ann Morey & Amanda Costello</td>
+        <td>#c-consulting</td>
+      </tr>
+    </tbody>
+  </table> 
+</div>
 
 ## Communities of Practice
 A Community of Practice (CoP) provides for government-wide knowledge-sharing. They attract members from across government agencies, and provide a good opportunity for Guilds to connect with others in government and influence best practices beyond TTS.
