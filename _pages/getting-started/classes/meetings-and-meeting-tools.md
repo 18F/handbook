@@ -8,7 +8,7 @@ Here, you'll find a list of tools folks at TTS use to schedule meetings, along w
 
 Here are some of the tools TTS uses to facilitate meetings:
 
-For scheduling, use [Google Calendar]({{site.baseurl}}/google-calendar/).
+For scheduling, use [Google Calendar]({{site.baseurl}}/google-calendar/). See also: [collaboration tools]({{site.baseurl}}/collaboration-tools/).
 
 ### Videoconferencing
 
