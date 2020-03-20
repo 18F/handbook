@@ -310,9 +310,15 @@ If you're interested in learning more about the bots, or perhaps contributing to
 ### Channel naming conventions
 
 - Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
-- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. Feel free to join a working group or guild channel even if you are not actively part of the group.
 - Channels that end with `-partner` include partners from other agencies.
 - Channels that end with `-public` may include members of the public.
+
+Channels focused on TTS practices have their own conventions:
+- Channels that begin with `wg-` are for working groups.
+- Channels that begin with `g-` are for guilds. 
+- Channels that begin wiht `c-` are for 18F communities.
+
+Feel free to join any of these practice-focused groups even if you are not actively part of the group and are just interested.
 
 ### Shortcuts
 
