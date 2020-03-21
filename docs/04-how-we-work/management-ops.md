@@ -8,6 +8,7 @@ The Management/Operations Team at CivicActions consists of these members:
 - Elizabeth Raley, Chief Operating Officer
 - Alaine Karoleff, Director of Agile Digital Services
 - Owen Barton, Chief Technology Officer
+- Shira Kates, Chief Design Officer
 
 ## Purpose and Goals
 
