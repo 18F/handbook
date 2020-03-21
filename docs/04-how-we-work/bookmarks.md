@@ -6,7 +6,7 @@ Links to websites we use regularly.
 
 *   [Handbook](https://github.com/CivicActions/handbook)
 *   [Website](https://civicactions.com/)
-*   [Team Roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit)
+
 
 ## Social Media
 
