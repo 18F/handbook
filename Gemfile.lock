@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/18F/uswds-jekyll.git
-  revision: ffe7afd317602264b57b43452d0217474be88ff7
+  revision: 067e1323932978be80874ef96ce9410338dcf1c9
   branch: update-uswds-2.0
   specs:
     uswds-jekyll (5.0.0)
@@ -8,13 +8,13 @@ GIT
 
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 53bb8bd7d38b13b41b7db4340054d0d544aedebe
+  revision: a011579fe42ca76fbd531670ed4bc03286b49157
   specs:
     jekyll (4.0.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
-      i18n (>= 0.9.5, < 2)
+      i18n (~> 1.0)
       jekyll-sass-converter (~> 2.0)
       jekyll-watch (~> 2.0)
       kramdown (~> 2.1)
@@ -82,7 +82,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rouge (3.16.0)
+    rouge (3.17.0)
     safe_yaml (1.0.5)
     sassc (2.2.1)
       ffi (~> 1.9)
@@ -90,7 +90,7 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     typhoeus (1.3.1)
       ethon (>= 0.9.0)
-    unicode-display_width (1.6.1)
+    unicode-display_width (1.7.0)
     yell (2.2.2)
 
 PLATFORMS
