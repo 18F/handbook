@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
-- [National Security and Intelligence Portfolio Director](https://docs.google.com/document/d/1_TwMFsSKD77OjtgFCHsWDQVAzfe1i3SaTu5ABulDKq4/edit?ts=5e61c45d) - open Friday, March 6th through Friday, March 20th at 11:59 PM ET
+
 
 ## Opportunities with partners
 
