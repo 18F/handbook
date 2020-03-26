@@ -92,7 +92,7 @@ Some practical tips for making inclusive spaces on your team:
 
 We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn't just a core part of our culture, it's also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
 
-[Learn more about the Diversity, Equity, and Inclusion Practice Area](https://civicactions-handbook.readthedocs.io/en/latest/04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/ops/)
+[Learn more about the Diversity, Equity, and Inclusion Practice Area](https://civicactions-handbook.readthedocs.io/en/latest/04-how-we-work/diversity-equity-inclusion/ops/)
 
 ## Common Questions
 
