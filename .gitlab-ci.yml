@@ -7,7 +7,7 @@ lint:
   script:
     - yarn install --frozen-lockfile
     # This runs a gulp job which runs remark lint checks, both suggestions and warnings.
-    - gulp | tee output.log
+    - ./node_modules/.bin/gulp | tee output.log
     - bash -c '! egrep -q "(error\W)" output.log'
 
 # This does a test build, which checks for broken internal links.
