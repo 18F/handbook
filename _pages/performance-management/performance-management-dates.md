@@ -14,31 +14,28 @@ This page contains important dates for the mid year and end of year performance 
 
 Date | Item
 -------|-------
-September 30 | End of FY2019 performance cycle
-October 1 | FY2020 performance cycle begins
-October 1 | Internal ask for employees to begin their self-assessment
-October 22 | Self-assessment submittal due date
-October 23 | Audit of Employee self-assessment completion
-Oct 23 - Nov 7 | Supervisors hold 1:1 performance review meetings with their direct reports
-October 30 | Audit of Supervisor review completion
-November 7 | TTS Internal ask due date to close out FY19 performance plans
-November 14 | Official GSA end of year close out due date for FY19 performance plans in HR Links
-December | FY19 Individual Performance Awards are targeted to be paid out in December 2019
+October 1, 2019 | FY2020 performance cycle begins
+March 27, 2020 | Complete Draft of BU Level Specific Measures & Expectation Levels
+April 3, 2020 | Complete Draft of Duty Specific Measures & Expectation Levels
+April 10, 2020 | Finalize BU & Duty Specific Measures & Expectation Levels
+April 24, 2020 | Update Performance Plans in HR Links
+April 27, 2020 | OHRM Guidance on FY2020 Mid-year Review emailed to Supervisors and Employees
+May 18, 2020 | Supervisor shares Midyear evaluation for employee review and acknowledgement
+June 1, 2020 | Mid-year Due Date FY2020. Supervisors and employees complete midyear in HRLINKs.  Employees Acknowledge or Supervisor overrides.
 
 ## End of year performance review important dates
 
 Date | Item
 -------|-------
-September 30 | End of FY2019 performance cycle
-October 1 | FY2020 performance cycle begins
-October 1 | Internal ask for employees to begin their self-assessment
-October 22 | Self-assessment submittal due date
-October 23 | Audit of Employee self-assessment completion
-Oct 23 - Nov 7 | Supervisors hold 1:1 performance review meetings with their direct reports
-October 30 | Audit of Supervisor review completion
-November 7 | TTS Internal ask due date to close out FY19 performance plans
-November 14 | Official GSA end of year close out due date for FY19 performance plans in HR Links
-December | FY19 Individual Performance Awards are targeted to be paid out in December 2019
+September 30, 2020 | End of FY2020 performance cycle
+October 1, 2020 | Internal ask for employees to begin their self-assessment
+October 22, 2020 | Self-assessment submittal due date
+October 23, 2020 | Audit of Employee self-assessment completion
+Oct 23 - Nov 7, 2020 | Supervisors hold 1:1 performance review meetings with their direct reports
+October 30, 2020 | Audit of Supervisor review completion
+November 7, 2020 | TTS Internal ask due date to close out FY20 performance plans
+November 26, 2020 | Official GSA end of year close out due date for FY20 performance plans in HR Links
+December 2020 | FY20 Individual Performance Awards are targeted to be paid out in December 2020
 
 --------------------------------------------------------------------------------
 
