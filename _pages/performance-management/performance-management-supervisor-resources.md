@@ -52,7 +52,7 @@ This page contains additional resources and trainings for supervisors who are go
 
 #### Discussing performance expectations with a new direct report
 
-When an employee joins TTS or changes supervisors within TTS, it is important that the supervisor establish new performance expectations with the employee through dialogue and ultimately in the official [performance plan]({{site.baseurl}}/performance-management/#creating-a-new-performance-plan). Performance expectations must be developed to describe the expected level of performance at a Level 3 rating; supervisors are encouraged to establish performance expectations for other levels if deemed appropriate.
+When an employee joins TTS or changes supervisors within TTS, it is important that the supervisor establish new performance expectations with the employee through dialogue and ultimately in the official [performance plan]({{site.baseurl}}/performance-management-hrlinks-steps/#creating-a-new-performance-plan). Performance expectations must be developed to describe the expected level of performance at a Level 3 rating; supervisors are encouraged to establish performance expectations for other levels if deemed appropriate.
 
 * Suggestions of performance expectations that you can discuss and set with your direct report:
   * improvements in effectiveness, productivity, and performance quality
@@ -107,10 +107,10 @@ Here’s a pre-feedback checklist you may want to consider:
 
 For instances when a direct report is not assigned to their first line supervisor in HR Links or their supervisor doesn't have HR Links manager access, there are two primary options for the first line supervisor to be able to contribute to the evaluation:
 
-1. The first line supervisor should have a 1:1 performance discussion with their direct report and then email their evaluation to the second line supervisor who will [submit the evaluation]({{site.baseurl}}/performance-management/#submitting-an-evaluation) in HR Links on the first line supervisor's behalf.
+1. The first line supervisor should have a 1:1 performance discussion with their direct report and then email their evaluation to the second line supervisor who will [submit the evaluation]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-an-evaluation) in HR Links on the first line supervisor's behalf.
   * ***NOTE: If the employee has submitted a self-assessment in HR Links, the second line supervisor should email or print a copy for the first line supervisor to review prior to the 1:1 meeting.***
 
-1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 discussion.
+1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management-hrlinks-steps/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 discussion.
   * ***NOTE: The nominated supervisor's feedback is not automatically included as a comment in the employees performance review. HR Links creates a separate document, so it is recommended that the second line supervisor cuts and paste the feedback into the summary comments.***  
 
 #### Approving/Denying a level 1 or level 5 summary performance rating
