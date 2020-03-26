@@ -1,7 +1,7 @@
 {
   "settings": {
-    "listItemIndent": "tab",
-    "bullet": "*",
+    "listItemIndent": "1",
+    "bullet": "-",
     "strong": "*",
     "emphasis": "*",
     "fences": true
@@ -11,7 +11,7 @@
       "remark-validate-links",
       "remark-comment-config",
       "remark-normalize-headings",
-      "remark-lint-list-item-indent",
+      ["remark-lint-list-item-indent", "space"],
       "remark-lint-final-newline",
       "remark-lint-hard-break-spaces",
       "remark-lint-heading-increment",
@@ -48,7 +48,7 @@
       ["remark-lint-strong-marker", "consistent"],
       ["remark-lint-table-cell-padding", "consistent"],
       ["remark-lint-table-cell-padding", "consistent"],
-      ["remark-lint-unordered-list-marker-style", "*"],
+      ["remark-lint-unordered-list-marker-style", "-"],
       "./.retext.error"
     ]
 }

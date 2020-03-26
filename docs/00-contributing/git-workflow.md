@@ -63,26 +63,26 @@ If you're not sure if you should merge something, ask for a second opinion in [#
 
 ### Step-by-step instructions for reviewing, approving, and merging PRs:
 
-1.  Navigate to the open pull request. You can get there by clicking on the PR link if you have it, or by clicking on the Pull Requests tab at the top of the Handbook repo page.
+1. Navigate to the open pull request. You can get there by clicking on the PR link if you have it, or by clicking on the Pull Requests tab at the top of the Handbook repo page.
 
 ![PR workflow screenshot 1](../images/01-PR-pull-requests-tab.png)
 
-2.  Check to make sure "All checks have passed." If not, ask the person who added the PR to fix any errors.
+2. Check to make sure "All checks have passed." If not, ask the person who added the PR to fix any errors.
 
 ![PR workflow screenshot 2](../images/02-PR-checks-passed.png)
 
-3.  Click "Add your review."
+3. Click "Add your review."
 
 ![PR workflow screenshot 3](../images/03-PR-add-review.png)
 
-4.  Review the commits. If the changes look good, make sure you select "Approve." Otherwise, add your comments or request changes (merging on the PR will be blocked until you or another reviewer approves it).
+4. Review the commits. If the changes look good, make sure you select "Approve." Otherwise, add your comments or request changes (merging on the PR will be blocked until you or another reviewer approves it).
 
 ![PR workflow screenshot 4](../images/04-PR-approve.png)
 
-5.  Submit your review.
+5. Submit your review.
 
 ![PR workflow screenshot 5](../images/05-PR-submit-review.png)
 
-6.  Merge Pull Request, and you're done!
+6. Merge Pull Request, and you're done!
 
 ![PR workflow screenshot 6](../images/06-PR-merge.png)

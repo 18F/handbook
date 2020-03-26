@@ -34,11 +34,11 @@ We invest extra effort into our communication strategies because we are a mostly
 
 ### Personal pronouns
 
-Being a gender-diverse team means that not everyone’s pronouns are immediately obvious, so it’s important to find out. Taking the time to learn and use your teammates’ personal pronouns correctly will help you communicate respectfully.
+Being a gender-diverse team means that not everyone's pronouns are immediately obvious, so it's important to find out. Taking the time to learn and use your teammates' personal pronouns correctly will help you communicate respectfully.
 
 Sharing your own pronouns promotes clarity and transparency and can also promote inclusion by normalizing the practice. Good places to communicate your pronouns are: your Slack profile, email signature, business card, CivicActions staff bio (if already published, request the addition in #content), or in spoken communication where you feel it is appropriate.
 
-These practices won’t be familiar to everyone, and it may take some time and practice to get used to. That’s ok — there are plenty of resources and people here to support you as you learn.
+These practices won't be familiar to everyone, and it may take some time and practice to get used to. That's ok — there are plenty of resources and people here to support you as you learn.
 
 **Resources**
 Check out the All Hands Call slide deck on personal pronouns to learn more about:
@@ -82,15 +82,15 @@ Inclusion is a sense of belonging that allows people to fully engage and contrib
 
 Some practical tips for making inclusive spaces on your team:
 
-- Observe your teammates’ personal pronouns
-- Notice who isn’t speaking, and give them opportunities to contribute
+- Observe your teammates' personal pronouns
+- Notice who isn't speaking, and give them opportunities to contribute
 - Celebrate the things your teammates do well
-- Start noticing when you’ve made an assumption, and ask questions instead
+- Start noticing when you've made an assumption, and ask questions instead
 - Practice active listening (see the previous section)
 - Take time to learn more about how inequality affects people at work
 - Speak up when you notice that someone is disrespected or left out
 
-We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn’t just a core part of our culture, it’s also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
+We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn't just a core part of our culture, it's also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
 
 [Learn more about the Diversity, Equity, and Inclusion Practice Area](https://civicactions-handbook.readthedocs.io/en/latest/04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/ops/)
 
@@ -146,7 +146,7 @@ The work that we do in serving others and bringing transformation to the world w
 
 A: Political discourse affects everyone differently. While we want people to be able to have open, respectful conversations about things they disagree about, CivicActions recognizes that political speech can be hurtful and make team members feel unsafe at work. For that reason, we ask everyone to keep political speech to the dedicated #politics channel, and only engage in conversations about politics when you are sure that it is a welcome topic for everyone present. When in doubt, it is best to avoid politics at work.
 
-Many topics can have a political dimension. These guidelines specifically apply to political speech that is expressed in support of a current candidate for political office. If you observe someone make a political statement outside of the politics channel, or introduce unwelcome political discourse into conversation, you can remind them to take it elsewhere by saying, “hey, let’s move this political conversation to #politics,” or “that sounds like a discussion better left to the politics channel.”
+Many topics can have a political dimension. These guidelines specifically apply to political speech that is expressed in support of a current candidate for political office. If you observe someone make a political statement outside of the politics channel, or introduce unwelcome political discourse into conversation, you can remind them to take it elsewhere by saying, "hey, let's move this political conversation to #politics," or "that sounds like a discussion better left to the politics channel."
 
 ### Q: Someone put something in Slack or said something at a meeting that I find very offensive. What should I do?
 
