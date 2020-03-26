@@ -1,6 +1,6 @@
 # Page going away
 
-### Working hours expectations
+## Working hours expectations
 
 - Working hours expectations:
   - We have schedule flexibility, but request a general set schedule / core hours

@@ -12,7 +12,7 @@ Everything we as a team do should be public and available for collaboration. Wit
 
 ## User Freedoms over Creator or Agency Freedoms
 
-CivicActions prefers prioritizing freedoms for end-users, not just the creators or agencies that control the software. For example, a designer/developer may desire the freedom to lock out users from modifying or redistributing their code. These are known as 'permissive' licenses. Whenever possible, CivicActions generally provides work under 'copyleft' licenses, which require the freedoms to be passed along to end users, developers/designers, and other agencies.
+CivicActions prefers prioritizing freedoms for end-users, not just the creators or agencies that control the software. For example, a designer/developer may desire the freedom to lock out users from modifying or redistributing their code. These are known as "permissive" licenses. Whenever possible, CivicActions generally provides work under "copyleft" licenses, which require the freedoms to be passed along to end users, developers/designers, and other agencies.
 
 CivicActions also extends these policies to artifacts that are not generally categorized as software. This includes design patterns and other works that are used to create and maintain the delivery of services.
 

@@ -84,7 +84,7 @@ As a final, crucially important step, **_you must have a backup second factor fo
 SMS can often be an easy backup, but it is known to be insecure. Most services that provide TFA provide multiple second factor options, and we recommend that you set up at least one of several backup strategies for each TFA-enabled service you use:
 
 - Have a second YubiKey in safe keeping (the author of this article has three).
-- [Authy](#authy] and [LastPass Authenticator](#lastpass-authenticator) provide ever-changing 6-digit codes and can securely backup to the cloud, so if you lose your phone you can pull your information back out of the cloud when setting up your new phone. _Hint: store your cloud backup password in LastPass (but make sure you have another mechanism to unlock LastPass!)_
+- [Authy](#authy) and [LastPass Authenticator](#lastpass-authenticator) provide ever-changing 6-digit codes and can securely backup to the cloud, so if you lose your phone you can pull your information back out of the cloud when setting up your new phone. _Hint: store your cloud backup password in LastPass (but make sure you have another mechanism to unlock LastPass!)_
 - Many services offer a downloadable set of single use "backup codes" that can be printed and kept in a safe place. _Hint: you can store backup codes from other services in LastPass in the Notes section._
 
 ## Phishing and Social Engineering

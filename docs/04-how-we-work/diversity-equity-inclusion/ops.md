@@ -25,7 +25,7 @@ Not everyone is at the same level of familiarity or comfort with DEI topics, and
 
 The DEI Practice Area is led by a facilitator who serves on a voluntary basis. Anyone with interest and capacity can help facilitate DEI work.
 
-**DEI facilitator responsibilities**
+### DEI facilitator responsibilities
 
 Strategy and Leadership:
 
@@ -42,7 +42,7 @@ Project management
 - Prioritizing initiatives (Trello board)
 - Distributing call notes
 
-**Co-facilitator responsibilities**
+### Co-facilitator responsibilities
 
 - Coworking with the facilitator on any of the above
 - Running meetings when the facilitator can't be present, or co-running meetings when needed

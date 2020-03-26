@@ -48,15 +48,15 @@ Check out the outcome of the results brainstorming session:
 
 Below is a general schedule for the Summit. You can view the [itemized schedule here](https://docs.google.com/spreadsheets/d/1LAv9O-i1uYyLuVQHT7IIvnTlW_SIWo5NlpgAsfSL7i8/edit#gid=1547096002).
 
-#### Monday 9/31
+### Monday 9/31
 
 Delivery teams work to maintain billable hours.
 
-#### Tuesday 10/1
+### Tuesday 10/1
 
 Travel day for team members arriving in Portland. 4pm check-in time at Hampton Inn Pearl District Hotel.
 
-#### Wednesday 10/2
+### Wednesday 10/2
 
 - **8:30 - 8:45** Arrive at event space
 - **9:00 - 10:00** Welcome and context
@@ -67,7 +67,7 @@ Travel day for team members arriving in Portland. 4pm check-in time at Hampton I
 - **5:15 - 7:00** Closing / personal time
 - **7:00 - 9:00** Group dinner at [Pine Street Market](https://goo.gl/maps/hY5XGG8Nx1g2S9MMA)
 
-#### Thursday 10/3
+### Thursday 10/3
 
 - **8:30 - 8:45** Arrive at event space
 - **9:00 - 11:15** Whole group sessions
@@ -77,7 +77,7 @@ Travel day for team members arriving in Portland. 4pm check-in time at Hampton I
 - **5:00 - 6:30** Personal time
 - **6:30 - 8:00** Group dinner at [Portland Food Hall](https://goo.gl/maps/ELD5FYR9dWf7gZEV7)
 
-#### Friday 10/4
+### Friday 10/4
 
 - **8:30 - 8:45** Arrive at event space
 - **9:00 - 10:30** Whole group sessions
@@ -90,7 +90,7 @@ Travel day for team members arriving in Portland. 4pm check-in time at Hampton I
 - **7:00 - 8:30** Dinner at [The Big Legrowlski](https://g.page/biglegrowlski?share) (catered)
 - **9:00 - 11:30pm** HOOTENANNY! (same place as dinner)
 
-#### Saturday 10/5
+### Saturday 10/5
 
 - **12:00pm** check-out of hotel for team members departing Portland
 - Travel day
@@ -161,7 +161,7 @@ Check out the [Summit food tracker](https://docs.google.com/spreadsheets/d/1LAv9
 
 #### Logging Summit hours in Harvest
 
-- Log hours in Harvest using the [CA Summit] category. Select your area, such as [DR, DV, PM, OD, ES] as a subcategory.
+- Log hours in Harvest using the \[CA Summit\] category. Select your area, such as \[DR, DV, PM, OD, ES\] as a subcategory.
 - You do not need to provide a description for hours logged during the Summit
 - Log 8 hour days for Wednesday, Thursday, Friday
 
