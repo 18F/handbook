@@ -88,7 +88,7 @@ primary:
         url: performance-management-dates/
         internal: true
       - text: Performance management HRLinks steps
-        url: performance-managmenent-hrlinks-steps/
+        url: performance-management-hrlinks-steps/
         interal: true
       - text: Performance management employee resources
         url: performance-management-employee-resources/
