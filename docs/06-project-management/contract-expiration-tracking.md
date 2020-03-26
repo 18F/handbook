@@ -6,8 +6,8 @@ When a project is awarded, the sales team will have a handoff call to the delive
 
 The PM may want to a separate document that lists the project contract dates in one easy view. Below are a couple template options:
 
-*   [TEMPLATE Project Catalogue of Contract Awards](https://docs.google.com/spreadsheets/d/1Ur6yFfqBnF0L2BXw9tM0j9wC5uiFLqdW2v-_3BR2-gg/edit#gid=0)
-*   There is also optionally a sheet for this on the [TEMPLATE: Project Budget, Hours, Terms](https://docs.google.com/spreadsheets/d/1fCFzC_7dLe6diXWK8_yzW91svJFGnYbwEMLAPI-tDeU/edit#gid=1956976072)
+- [TEMPLATE Project Catalogue of Contract Awards](https://docs.google.com/spreadsheets/d/1Ur6yFfqBnF0L2BXw9tM0j9wC5uiFLqdW2v-_3BR2-gg/edit#gid=0)
+- There is also optionally a sheet for this on the [TEMPLATE: Project Budget, Hours, Terms](https://docs.google.com/spreadsheets/d/1fCFzC_7dLe6diXWK8_yzW91svJFGnYbwEMLAPI-tDeU/edit#gid=1956976072)
 
 ## Contract Locations
 

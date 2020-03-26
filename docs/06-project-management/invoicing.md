@@ -6,7 +6,7 @@ At the end of each month, "CivicActions Receivables" sends invoices to clients w
 
 To avoid surprises at the end of the month, project managers should be reviewing time entries in Harvest weekly to ensure that time has been logged to the correct project & roles, no entries are missing, and descriptions are included.
 
-During invoicing time, project managers should indicate in #pm Slack channel when their project is ready to invoice. This is the trigger for "CivicActions Receivables" to create the invoice and send to the project manager for QA. 
+During invoicing time, project managers should indicate in #pm Slack channel when their project is ready to invoice. This is the trigger for "CivicActions Receivables" to create the invoice and send to the project manager for QA.
 
 Project managers then review the line items in the invoice to ensure that the billing is accurate - including comparing hours against Harvest reports, ensuring rates and roles are accurate, and QAing for any thing like client prompt-pay discounts.
 

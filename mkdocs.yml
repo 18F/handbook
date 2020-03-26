@@ -11,3 +11,5 @@ plugins:
     - search
 extra_css:
     - css/extra.css
+markdown_extensions:
+    - mdx_truly_sane_lists

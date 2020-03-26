@@ -24,23 +24,25 @@ Nobody is a perfect communicator, and we recognize that there are many "ideals" 
 
 We invest extra effort into our communication strategies because we are a mostly-remote team (with a couple of onsite teams) and rarely have opportunities for in-person communication. Here are some of the tools and practices we use to help us remain open with each other:
 
-*   **Slack channels and Email lists** - We communicate in a group setting, reducing the need for one-on-one communications that can lead to silos or keep people out of the loop.
-*   **Daily scrum calls on video** - Everyday, each team member meets to report on what they did yesterday, what they plan on doing today, and whether they have any blockers. This is an opportunity to offer support and hold each other accountable. It also builds team camaraderie by having a daily forum to look at each other and connect.
-*   **Active Listening** - Talking "at" each other doesn't always result in a shared understanding. By repeating back what you are hearing from the other person, you are able to verify that you understand them and give them a chance to correct any misunderstandings or wrong assumptions.
-*   **Tensions** - A tension is any issue or reflection we have shelved, buried, or simply not thought to share. Our practice at CivicActions is to recognize when we have a tension concerning a team member, and ask the person if we can share it in a safe conversation where the sole purpose is to clear the air and both parties agree to simply acknowledge the tension and then close the conversation. When we share in this objective way, we clear our minds of anything that might interfere with being able to hear what the other person is saying. When we have shared a tension we might have with someone, we can then be present to who they are in this moment, rather than the story we have been telling ourselves about them.
-*   **Retrospectives** - These occur at the end of each sprint on a project level, or at other milestones for any department or activity at CivicActions. It's a forum to talk about what is working, what isn't, and what we can improve. It's a safe space to discuss failure *without blame* and to reflect on successes and celebrate team members too. We also use retrospectives for annual reviews.
-*   **Balance Scores** - At every meeting, we each report our "balance score" -- a number from 1 to 10 that represents how well you are recognizing and honoring your priorities in your personal, work, and spiritual life. Everyone knows about the struggle for "work-life balance", and this practice is our way of empowering people to honor theirs -- with the addition of spiritual/mental health as well. A high balance score doesn't necessarily mean everything is going perfectly in your life, but it means you are honoring the priorities you have set for yourself. By hearing the balance of other team members, we can remain attuned to who might need extra support, or who is thriving and might have capacity to serve as a resource for others.
-*   **Culture Videos** - Captured at the 2016 retreat, we have [several videos](https://vimeo.com/civicactions) that feature team members talking about CivicActions. It's an interesting glimpse into the different values and appreciations from our peers. We invest a lot of energy into appreciating each other and creating a company where people are free to be themselves and grow their skills by taking risks and learning from failure.
+- **Slack channels and Email lists** - We communicate in a group setting, reducing the need for one-on-one communications that can lead to silos or keep people out of the loop.
+- **Daily scrum calls on video** - Everyday, each team member meets to report on what they did yesterday, what they plan on doing today, and whether they have any blockers. This is an opportunity to offer support and hold each other accountable. It also builds team camaraderie by having a daily forum to look at each other and connect.
+- **Active Listening** - Talking "at" each other doesn't always result in a shared understanding. By repeating back what you are hearing from the other person, you are able to verify that you understand them and give them a chance to correct any misunderstandings or wrong assumptions.
+- **Tensions** - A tension is any issue or reflection we have shelved, buried, or simply not thought to share. Our practice at CivicActions is to recognize when we have a tension concerning a team member, and ask the person if we can share it in a safe conversation where the sole purpose is to clear the air and both parties agree to simply acknowledge the tension and then close the conversation. When we share in this objective way, we clear our minds of anything that might interfere with being able to hear what the other person is saying. When we have shared a tension we might have with someone, we can then be present to who they are in this moment, rather than the story we have been telling ourselves about them.
+- **Retrospectives** - These occur at the end of each sprint on a project level, or at other milestones for any department or activity at CivicActions. It's a forum to talk about what is working, what isn't, and what we can improve. It's a safe space to discuss failure _without blame_ and to reflect on successes and celebrate team members too. We also use retrospectives for annual reviews.
+- **Balance Scores** - At every meeting, we each report our "balance score" -- a number from 1 to 10 that represents how well you are recognizing and honoring your priorities in your personal, work, and spiritual life. Everyone knows about the struggle for "work-life balance", and this practice is our way of empowering people to honor theirs -- with the addition of spiritual/mental health as well. A high balance score doesn't necessarily mean everything is going perfectly in your life, but it means you are honoring the priorities you have set for yourself. By hearing the balance of other team members, we can remain attuned to who might need extra support, or who is thriving and might have capacity to serve as a resource for others.
+- **Culture Videos** - Captured at the 2016 retreat, we have [several videos](https://vimeo.com/civicactions) that feature team members talking about CivicActions. It's an interesting glimpse into the different values and appreciations from our peers. We invest a lot of energy into appreciating each other and creating a company where people are free to be themselves and grow their skills by taking risks and learning from failure.
 
 ### Personal pronouns
-Being a gender-diverse team means that not everyone’s pronouns are immediately obvious, so it’s important to find out. Taking the time to learn and use your teammates’ personal pronouns correctly will help you communicate respectfully.  
+
+Being a gender-diverse team means that not everyone's pronouns are immediately obvious, so it's important to find out. Taking the time to learn and use your teammates' personal pronouns correctly will help you communicate respectfully.
 
 Sharing your own pronouns promotes clarity and transparency and can also promote inclusion by normalizing the practice. Good places to communicate your pronouns are: your Slack profile, email signature, business card, CivicActions staff bio (if already published, request the addition in #content), or in spoken communication where you feel it is appropriate.
 
-These practices won’t be familiar to everyone, and it may take some time and practice to get used to. That’s ok — there are plenty of resources and people here to support you as you learn.
+These practices won't be familiar to everyone, and it may take some time and practice to get used to. That's ok — there are plenty of resources and people here to support you as you learn.
 
 **Resources**
 Check out the All Hands Call slide deck on personal pronouns to learn more about:
+
 - What are gender neutral pronouns?
 - Why do personal pronouns matter in our industry?
 - What to do if you mess up
@@ -50,14 +52,13 @@ Check out the All Hands Call slide deck on personal pronouns to learn more about
 
 If you have questions, concerns, or just want to practice, you can DM a designated DEI point person listed in the #dei-practice-area channel description for support.
 
-
 ## Transparency
 
 ### What is Radical Transparency?
 
 We talk a lot about radical transparency here at CivicActions, but what is it? There are many different, often conflicting definitions for transparency in business. Here are some, from the book Accountability and Transparency for Peaceful Development by Kelly Ngyah.
 
-You can read the relevant sections for free [here](https://books.google.com/books?id=VoY5CgAAQBAJ&pg=PT32&lpg=PT32&dq=A+management+approach+where+(ideally,)+all+decision+making+is+carried+out+publicly&source=bl&ots=L2FwOjEuGT&sig=SsrZLh2DuiFDZTpueuBPF-6fbvw&hl=en&sa=X&ved=0ahUKEwjaxbe2t-7YAhWiY98KHSH6CWYQ6AEINDAC#v=onepage&q&f=false).
+You can read the relevant sections for free [here](<https://books.google.com/books?id=VoY5CgAAQBAJ&pg=PT32&lpg=PT32&dq=A+management+approach+where+(ideally,)+all+decision+making+is+carried+out+publicly&source=bl&ots=L2FwOjEuGT&sig=SsrZLh2DuiFDZTpueuBPF-6fbvw&hl=en&sa=X&ved=0ahUKEwjaxbe2t-7YAhWiY98KHSH6CWYQ6AEINDAC#v=onepage&q&f=false>).
 
 "Transparency means operating in such a way that others can actually see how, what and why actions are carried out. As a principle...managers and directors of companies and organizations and board trustees have a duty to act visibly, predictably and understandably in order to promote participation and accountability that is deemed ethical."
 
@@ -65,7 +66,7 @@ You can read the relevant sections for free [here](https://books.google.com/book
 
 ### How does Radical Transparency Work at CivicActions?
 
-Here's a real life example:  In May of 2017, CivicActions experienced significant financial losses. Aaron and Henry presented an All Hands Call in which they laid out the problem, the cause, and the potential actions they would take if the issue was not resolved.
+Here's a real life example: In May of 2017, CivicActions experienced significant financial losses. Aaron and Henry presented an All Hands Call in which they laid out the problem, the cause, and the potential actions they would take if the issue was not resolved.
 
 You can view those slides [here](https://docs.google.com/presentation/d/1swxbFAieY2p39mjR5ou5WW9SNPQkDisTttyXTsYLdgo/edit).
 
@@ -76,22 +77,22 @@ In this example, the company's management team felt a responsibility to be trans
 Radical transparency can sound pretty uncomfortable. Some companies take it to mean sharing of salaries, etc. to increase competitiveness. This is not the CivicActions definition of radical transparency. We believe radical transparency is the company, board, and management team's responsibility to be open and transparent with employees, clients, and one another. We believe everyone in the company is responsible for being direct and transparent when they have a challenge with someone. We believe that whenever possible, work should be carried out in public slack channels, problems should be shared with product owners, and issues should be talked out openly and honestly. This does not mean that you cannot ever speak privately to other people. This simply means that CivicActions feels that as a team, it is our responsibility to be as transparent as possible about the work we do, and how we do it.
 
 ## Inclusion
+
 Inclusion is a sense of belonging that allows people to fully engage and contribute, and is a key part of fostering diversity and equity on our team. Promoting inclusion goes beyond simply tolerating differences — it requires taking an active role in honoring the variety of experiences we bring to the table so everyone is empowered to participate.
 
 Some practical tips for making inclusive spaces on your team:
 
-+   Observe your teammates’ personal pronouns
-+   Notice who isn’t speaking, and give them opportunities to contribute
-+   Celebrate the things your teammates do well  
-+   Start noticing when you’ve made an assumption, and ask questions instead
-+   Practice active listening (see the previous section)
-+   Take time to learn more about how inequality affects people at work
-+   Speak up when you notice that someone is disrespected or left out
+- Observe your teammates' personal pronouns
+- Notice who isn't speaking, and give them opportunities to contribute
+- Celebrate the things your teammates do well
+- Start noticing when you've made an assumption, and ask questions instead
+- Practice active listening (see the previous section)
+- Take time to learn more about how inequality affects people at work
+- Speak up when you notice that someone is disrespected or left out
 
-We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn’t just a core part of our culture, it’s also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
+We work to model the change we want to see in the world, and that starts with how we make space for each other at work. At CivicActions, diversity, equity, and inclusion isn't just a core part of our culture, it's also a practice area. We meet once a month to work on our [current initiatives](https://trello.com/b/rZU8LXW2/diversity-equity-inclusion-dei-initiatives).
 
 [Learn more about the Diversity, Equity, and Inclusion Practice Area](https://civicactions-handbook.readthedocs.io/en/latest/04-how-we-work/Diversity-Equity-Inclusion-Practice-Area/ops/)
-
 
 ## Common Questions
 
@@ -103,9 +104,9 @@ A: The most successful team members at CivicActions embody the culture. They hav
 
 A: We get it. Any new job can be scary, and starting a new job remotely can be even more overwhelming. If you need help, we want you to know that there are resources available.
 
-*   If you want help with your work, your team, your project, etc: Go to your PM, someone else on your project team, or your mentor.
-*   If you feel unbalanced: Go to your PM, mentor, supervisor or Elizabeth
-*   If you are being harassed or feel uncomfortable or unsafe: Go to Elizabeth or anyone else on the management team.
+- If you want help with your work, your team, your project, etc: Go to your PM, someone else on your project team, or your mentor.
+- If you feel unbalanced: Go to your PM, mentor, supervisor or Elizabeth
+- If you are being harassed or feel uncomfortable or unsafe: Go to Elizabeth or anyone else on the management team.
 
 ### Q: What is CivicActions doing to foster diversity?
 
@@ -145,8 +146,7 @@ The work that we do in serving others and bringing transformation to the world w
 
 A: Political discourse affects everyone differently. While we want people to be able to have open, respectful conversations about things they disagree about, CivicActions recognizes that political speech can be hurtful and make team members feel unsafe at work. For that reason, we ask everyone to keep political speech to the dedicated #politics channel, and only engage in conversations about politics when you are sure that it is a welcome topic for everyone present. When in doubt, it is best to avoid politics at work.
 
-Many topics can have a political dimension. These guidelines specifically apply to political speech that is expressed in support of a current candidate for political office. If you observe someone make a political statement outside of the politics channel, or introduce unwelcome political discourse into conversation, you can remind them to take it elsewhere by saying, “hey, let’s move this political conversation to #politics,” or “that sounds like a discussion better left to the politics channel.”
-
+Many topics can have a political dimension. These guidelines specifically apply to political speech that is expressed in support of a current candidate for political office. If you observe someone make a political statement outside of the politics channel, or introduce unwelcome political discourse into conversation, you can remind them to take it elsewhere by saying, "hey, let's move this political conversation to #politics," or "that sounds like a discussion better left to the politics channel."
 
 ### Q: Someone put something in Slack or said something at a meeting that I find very offensive. What should I do?
 

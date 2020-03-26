@@ -51,12 +51,11 @@ When you leave CivicActions, you are responsible for returning all CivicActions 
 
 ## Offboarding process
 
-The person doing the offboarding should duplicate the `template list` on the `Offboarding` Trello board. All the tasks needed to offboard someone from CivicActions are listed as task cards. There will need to be collaboration with others in company to fully offboard someone - such as the project/practice area teams removing them from specific tools. An important step is to also talk with the person departing CivicActions to ensure they remove project or company work from their personal machines, remove shared lastpass logins, and return any equipment or property back to CivicActions. 
+The person doing the offboarding should duplicate the `template list` on the `Offboarding` Trello board. All the tasks needed to offboard someone from CivicActions are listed as task cards. There will need to be collaboration with others in company to fully offboard someone - such as the project/practice area teams removing them from specific tools. An important step is to also talk with the person departing CivicActions to ensure they remove project or company work from their personal machines, remove shared lastpass logins, and return any equipment or property back to CivicActions.
 
-CivicActions will also post a message in #announcements about the person departing CivicActions. We will intentionally post a message that preserves the privacy of the person leaving CivicActions. 
-
+CivicActions will also post a message in #announcements about the person departing CivicActions. We will intentionally post a message that preserves the privacy of the person leaving CivicActions.
 
 ### Manager
 
-*   Work with the employee to transition the employee's workload to other team members.
-*   Ensure they complete their last timesheet in Harvest.
+- Work with the employee to transition the employee's workload to other team members.
+- Ensure they complete their last timesheet in Harvest.

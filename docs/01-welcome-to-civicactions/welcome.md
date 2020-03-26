@@ -10,8 +10,8 @@ There are topics in this document that require more detail on how we implement p
 
 ### Learn more about CivicActions
 
-*   [Mission, Values, and Operating Principles](../02-about-us/mission-values-operating-principles.md)
-*   [Background and History](../02-about-us/background-and-history.md)
+- [Mission, Values, and Operating Principles](../02-about-us/mission-values-operating-principles.md)
+- [Background and History](../02-about-us/background-and-history.md)
 
 ## Onboarding Process
 
@@ -25,8 +25,8 @@ See [Orientation Meetings](training/orientation-meetings.md) for a typical onboa
 
 ### General
 
-*   [Civicactions Handbook in GitHub](https://github.com/CivicActions/handbook/blob/master/README.md)
-*   [Bookmarks](../04-how-we-work/bookmarks.md) (websites and tools we use regularly)
+- [Civicactions Handbook in GitHub](https://github.com/CivicActions/handbook/blob/master/README.md)
+- [Bookmarks](../04-how-we-work/bookmarks.md) (websites and tools we use regularly)
 
 ### Human resources
 
@@ -34,5 +34,5 @@ CivicActions uses TriNet for outsourcing benefits, payroll, and human resources 
 
 #### Benefits
 
-*   [Health, Dental and Vision Insurance - TriNet](https://login.trinet.com)
-*   [401K - TPA](https://www.retirementaccountlogin.net/turningpoint/)
+- [Health, Dental and Vision Insurance - TriNet](https://login.trinet.com)
+- [401K - TPA](https://www.retirementaccountlogin.net/turningpoint/)

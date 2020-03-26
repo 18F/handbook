@@ -17,13 +17,13 @@ Depending on the project dynamics, you may choose to have an internal retrospect
 
 The Scrum Master facilitates the sprint retrospective meeting and may employ a variety of approaches in order to generate discussion. The time box for a sprint retrospective is typically 60 to 90 minutes. The standard retrospective meeting can be reduced down to these main objectives:
 
-*   Identify & discuss what worked in the sprint so that the team can continue to do it
-*   Identify & discuss what did not work in the sprint so that the team can improve in the next sprint
+- Identify & discuss what worked in the sprint so that the team can continue to do it
+- Identify & discuss what did not work in the sprint so that the team can improve in the next sprint
 
 In addition to the above, a CivicActions retrospective meeting also includes these elements:
 
-*   Appreciation of team members and their efforts
-*   Celebrating successes and high points of the sprint
+- Appreciation of team members and their efforts
+- Celebrating successes and high points of the sprint
 
 The most popular method used at CivicActions is the use of a Trello board to capture input simultaneously from all team members. Copy the [Retrospective Template](https://trello.com/b/jG9U4I6l) Trello board of your choice and follow the checklist located in the Trello card titled "Agenda" in the first column of the board. The checklist provides a step-by-step guide to facilitate the retrospective meeting.
 Other retrospective formats can be found at the [Retrospective Wiki](http://retrospectivewiki.org/index.php?title=Retrospective_Plans), and you are encouraged to try some of them in order to keep the retrospective process interesting and the participants engaged. You may find that some formats work well for certain projects/teams and others do not.
@@ -47,6 +47,6 @@ At the beginning of the retrospective, read the Prime Directive to the team in o
 
 [Retrospective Template Trello Board (Basic)](https://trello.com/b/YEXXigXH)
 
-[Effective Sprint Retrospectives Guide-](https://msdn.microsoft.com/en-us/library/jj620912(v=vs.120).aspx)
+[Effective Sprint Retrospectives Guide-](<https://msdn.microsoft.com/en-us/library/jj620912(v=vs.120).aspx>)
 
 [The Agile Retrospective Wiki](http://retrospectivewiki.org/)

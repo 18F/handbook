@@ -2,11 +2,11 @@
 
 ## Talking points
 
-*   Explain what a balance score is
-*   Balance between life - work - health / spiritual - professional - personal
-*   When we indicate what our score is
-*   How we use balance scores / purpose
-*   The scale is 1 to 10
+- Explain what a balance score is
+- Balance between life - work - health / spiritual - professional - personal
+- When we indicate what our score is
+- How we use balance scores / purpose
+- The scale is 1 to 10
 
 ## Benefits
 

@@ -10,12 +10,12 @@ This template is used as a guide for project managers when beginning a project.
 The kickoff agenda provides a list of key points the project manager should address during the
 meeting to ensure there is clear expectations of all participating parties. Items covered include:
 
-*   Introduction
-*   Project Success
-*   Restrictions
-*   Project strategy
-*   Project Deliverables and milestones
-*   Wrap Up
+- Introduction
+- Project Success
+- Restrictions
+- Project strategy
+- Project Deliverables and milestones
+- Wrap Up
 
 [Kickoff Meeting Agenda Template](https://docs.google.com/a/civicactions.net/document/d/1pmOruj_1PeSfmJtxzvjDy7KxTTJi0VS8D62WUrWjeSM/edit?usp=sharing)
 

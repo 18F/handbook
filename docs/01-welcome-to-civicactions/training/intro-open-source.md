@@ -26,8 +26,8 @@ For example, whitehouse.gov is powered by Drupal. Drupal publishes their softwar
 
 CivicActions uses and works with FOSS whenever possible, and we believe in because
 
-* FOSS has zero lock-in
-* FOSS is arguably more secure
-* FOSS is easier to modify to suit customer needs
-* FOSS aligns with other Agile practices prioritizing people over process
-* We support the FOSS community via contributions
+- FOSS has zero lock-in
+- FOSS is arguably more secure
+- FOSS is easier to modify to suit customer needs
+- FOSS aligns with other Agile practices prioritizing people over process
+- We support the FOSS community via contributions

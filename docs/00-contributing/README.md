@@ -14,8 +14,8 @@ We also use the [#docs](https://civicactions.slack.com/messages/docs/) channel i
 
 Better than doing nothing at all:
 
-*   [Open a Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a documentation suggestion, or
-*   chat about it in [#docs](https://civicactions.slack.com/messages/docs/).
+- [Open a Trello card](https://trello.com/b/ZKx6l4bC/civicactions-documentation-project) with a documentation suggestion, or
+- chat about it in [#docs](https://civicactions.slack.com/messages/docs/).
 
 ## Writing documentation
 

@@ -1,6 +1,6 @@
 # Annual Review Process
 
-In 2019 we went from a self/peer review process that was mostly on paper to an annual retrospective that is an interactive group activity. This change was initiated by the desire to get better peer involvement and to get more valuable feedback for the person being reviewed.  
+In 2019 we went from a self/peer review process that was mostly on paper to an annual retrospective that is an interactive group activity. This change was initiated by the desire to get better peer involvement and to get more valuable feedback for the person being reviewed.
 
 ## Value
 

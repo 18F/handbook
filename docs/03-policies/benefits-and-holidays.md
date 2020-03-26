@@ -4,16 +4,16 @@
 
 The following holidays are observed by CivicActions and the office is considered closed:
 
-| Holiday | Dates |
-| ------------- | ------------- |
-| New Year's Day | January 1st|
-| Martin Luther King's Birthday | Third Monday in January |
-| Memorial Day | Last Monday in May |
-| Independence Day | July 4th |
-| Labor Day | First Monday in September |
-| Veterans Day | November 11th |
-| Thanksgiving | Fourth Thursday in November and the following Friday |
-| Christmas | December 25th |
+| Holiday                       | Dates                                                |
+| ----------------------------- | ---------------------------------------------------- |
+| New Year's Day                | January 1st                                          |
+| Martin Luther King's Birthday | Third Monday in January                              |
+| Memorial Day                  | Last Monday in May                                   |
+| Independence Day              | July 4th                                             |
+| Labor Day                     | First Monday in September                            |
+| Veterans Day                  | November 11th                                        |
+| Thanksgiving                  | Fourth Thursday in November and the following Friday |
+| Christmas                     | December 25th                                        |
 
 Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation. You do NOT need to log entries when the office is closed for a Holiday.
 
@@ -37,12 +37,12 @@ Time off will be recorded simply to easily see any patterns that might otherwise
 
 ## Schedule Shifts
 
-If you find yourself needing to adjust your schedule a certain day or week, it is best practice to follow a similar process as requesting time off. A schedule shift does not mean you are taking time off, but rather you have an interrupted or different schedule from your normal work week. An example could be your team is traveling for a project/sales meeting, your attending a conference, you need a Tuesday off but plan to make up the hours over the weekend. 
+If you find yourself needing to adjust your schedule a certain day or week, it is best practice to follow a similar process as requesting time off. A schedule shift does not mean you are taking time off, but rather you have an interrupted or different schedule from your normal work week. An example could be your team is traveling for a project/sales meeting, your attending a conference, you need a Tuesday off but plan to make up the hours over the weekend.
 
-1.  You should first make sure you understand the impact of your schedule shift to your (project) team and get coverage or move meetings as appropriate. 
-2.  Email the ca-schedule@civicactions.net list describing your schedule change and note that you've already worked out plans with your team for coverage, etc. 
-3.  The schedule change will be acknowledged in an email reply. 
-4.  The admin will add this schedule change to the OOO calendar so that it appears in Slack with other requests like time off.  
+1.  You should first make sure you understand the impact of your schedule shift to your (project) team and get coverage or move meetings as appropriate.
+2.  Email the ca-schedule@civicactions.net list describing your schedule change and note that you've already worked out plans with your team for coverage, etc.
+3.  The schedule change will be acknowledged in an email reply.
+4.  The admin will add this schedule change to the OOO calendar so that it appears in Slack with other requests like time off.
 
 ## Personal Leave of Absence
 
@@ -54,7 +54,7 @@ Welcoming a new child is an amazing time for a family and we want to support emp
 
 ## Medical Insurance
 
-All full-time regular employees and part-time hourly employees who work at least 30 hours a week are entitled to benefits under CivicActions' medical, dental, vision!  life insurance plans. CivicActions pays 100% of the premiums, unless you opt for benefit that is more expensive than the company-covered plans. Then you pay the difference. See your TriNet PassPort account for managing these benefits.
+All full-time regular employees and part-time hourly employees who work at least 30 hours a week are entitled to benefits under CivicActions' medical, dental, vision! life insurance plans. CivicActions pays 100% of the premiums, unless you opt for benefit that is more expensive than the company-covered plans. Then you pay the difference. See your TriNet PassPort account for managing these benefits.
 
 New full-time employees joining CivicActions will be eligible for coverage on the first of the month following thirty (30) days from the date of employment. If, as a new employee, you do not want the coverage, you will need to tell admin in case it puts us out of compliance with the plan providers or the ACA.
 
