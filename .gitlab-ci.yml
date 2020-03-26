@@ -11,6 +11,9 @@ lint:
     # This runs a gulp job which runs remark lint checks, both suggestions and warnings.
     - ./node_modules/.bin/gulp | tee output.log
     - bash -c '! egrep -q "(error\W)" output.log'
+  only:
+    - external_pull_requests
+    - master
 
 # This does a test build, which checks for broken internal links.
 test-build:
@@ -18,3 +21,6 @@ test-build:
   script:
     - pip install -r requirements.txt mkdocs
     - mkdocs build --strict
+  only:
+    - external_pull_requests
+    - master
