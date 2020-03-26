@@ -57,7 +57,7 @@ gulp.task("errors", function() {
 gulp.task("suggestions", function() {
   var path = [];
   // Run against "warning" configuration for files changed from master only to reduce noise.
-  var changedFiles = execSync("git diff --name-status master")
+  var changedFiles = execSync("git diff --name-status origin/master")
     .toString()
     .split("\n");
   for (var i = 0; i < changedFiles.length; i++) {

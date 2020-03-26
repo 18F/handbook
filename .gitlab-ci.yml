@@ -7,7 +7,7 @@ lint:
   script:
     - yarn install --frozen-lockfile
     # We fetch the branches, since suggestions are limited to files changed relative to the master branch.
-    - git fetch origin
+    - git fetch origin master
     # This runs a gulp job which runs remark lint checks, both suggestions and warnings.
     - ./node_modules/.bin/gulp | tee output.log
     - bash -c '! egrep -q "(error\W)" output.log'
