@@ -42,6 +42,6 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
 
 ## Examples:
 
-![CFRA example](../../assets/CRFA-a%26o.jpg "CFRA Example")
-![Lexicon example](../../assets/lexicon-a%26o.jpg "Lexicon Example")
-![Teach example](../../assets/teach-a%26o.jpg "Teach Example")
+![CFRA example](../../assets/crfa-a-and-o.jpg "CFRA Example")
+![Lexicon example](../../assets/lexicon-a-and-o.jpg "Lexicon Example")
+![Teach example](../../assets/teach-a-and-o.jpg "Teach Example")
