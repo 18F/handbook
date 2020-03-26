@@ -9,8 +9,8 @@ GitHub is a publicly available, free service which hosts the source code for ten
 Many CivicActions employees will already have a GitHub account. If you don't have one yet, now's a great time to create one! Follow these steps:
 
 1.  Sign up with a free profile on <https://github.com/join>.
-    *   Use a personal email account, not your CivicActions one, so that your GitHub account will be portable.
-    *   As always, please use a unique, secure password.
+    - Use a personal email account, not your CivicActions one, so that your GitHub account will be portable.
+    - As always, please use a unique, secure password.
 2.  Ask a coworker to add you to the [CivicActions team](https://github.com/orgs/CivicActions/teams/civicactions-team) and any relevant [subteams](https://github.com/orgs/CivicActions/teams/civicactions-team/teams).
 3.  Find out the details of the repositories you'll be working with.
 4.  Good work! Now [set up two-factor authentication](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/).

@@ -2,15 +2,15 @@
 
 During initial project discovery, we perform various research and design-related activities to achieve the following goals:
 
-*   Understand business needs
-*   Understand current/historical context
-*   Understand users
-*   Understand content needs
-*   Understand technical needs
-*   Understand testing needs
-*   Understand desired high-level outcomes
-*   Understand major risks and assumptions
-*   Envision solutions
+- Understand business needs
+- Understand current/historical context
+- Understand users
+- Understand content needs
+- Understand technical needs
+- Understand testing needs
+- Understand desired high-level outcomes
+- Understand major risks and assumptions
+- Envision solutions
 
 ## What's the difference between Sprint 0 in Agile vs Sprint 0 in Waterfall?
 
@@ -18,5 +18,5 @@ Check out this [GovCon slidedeck](https://docs.google.com/presentation/d/1Cw3ZPb
 
 ## Methods
 
-*   [Research Methods](../../10-ux/services/README.md)
-*   [Design Methods](../../10-ux/services/README.md)
+- [Research Methods](../../10-ux/services/README.md)
+- [Design Methods](../../10-ux/services/README.md)

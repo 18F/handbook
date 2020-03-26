@@ -12,11 +12,11 @@ The meeting participants should be any members of the project team committed to 
 
 The daily scrum meeting should be scheduled for the same time each day whenever possible. The Scrum Master should facilitate the meeting, and the total meeting time should be limited to 15 minutes. Since the CivicActions workforce is fully distributed, best practice is to have each person enable his/her camera for the entire meeting and to have microphone muted when not speaking. One person "checks in" by answering the following talking points:
 
-*   Give your Balance Score
-*   What you worked on yesterday
-*   What you plan on working on next
-*   Note any issues blocking progress on your work
-*   Verbally pass to another team member to do the same
+- Give your Balance Score
+- What you worked on yesterday
+- What you plan on working on next
+- Note any issues blocking progress on your work
+- Verbally pass to another team member to do the same
 
 During check ins, it is possible there will be topics uncovered that require additional conversation. Best practice is to have the Scrum Master note these topics for an "after-meeting" so they can be discussed later with only the relevant participants present. This practice saves other team members from listening to conversations that are not relevant to their work.
 
@@ -30,4 +30,4 @@ The daily scrum meeting is useful in determining how well the team is progressin
 
 ## Additional Resources:
 
-*   [Scrum Training Series Video](http://scrumtrainingseries.com/DailyScrumMeeting/DailyScrumMeeting.htm)
+- [Scrum Training Series Video](http://scrumtrainingseries.com/DailyScrumMeeting/DailyScrumMeeting.htm)

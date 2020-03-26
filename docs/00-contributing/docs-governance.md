@@ -33,4 +33,4 @@ The [CODEOWNERS](https://github.com/civicactions/handbook/blob/master/CODEOWNERS
 
 GitHub team management is an ongoing responsibility of the Docs working group, but is generally [taken care of during onboarding](https://trello.com/c/I5L6gPiQ/174-add-to-github).
 
-To add someone to a team, to go the [subteam page](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) and click *Add a member*.
+To add someone to a team, to go the [subteam page](https://github.com/orgs/CivicActions/teams/civicactions-team/teams) and click _Add a member_.

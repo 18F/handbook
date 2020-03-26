@@ -6,7 +6,7 @@ Design Studio is a collaborative sketching exercise for the entire team. The res
 
 ## How to do it:
 
-It is the designer's responsibility to call these meetings and to facilitate them. In a typical session, teams of 5 to 8 people sketch together, critique the work as it emerges, and converge on a solution they believe has the greatest chance at success. The designer then takes the ideas generated and produces designs. The technique described below (from the book *Lean UX*) is specific, however, the specifics of the ritual are not the point. Solving design problems with your colleagues and clients is the end goal.
+It is the designer's responsibility to call these meetings and to facilitate them. In a typical session, teams of 5 to 8 people sketch together, critique the work as it emerges, and converge on a solution they believe has the greatest chance at success. The designer then takes the ideas generated and produces designs. The technique described below (from the book _Lean UX_) is specific, however, the specifics of the ritual are not the point. Solving design problems with your colleagues and clients is the end goal.
 
 ### Process:
 
@@ -24,27 +24,27 @@ The artifacts created in the design studio are then used to create wireframes, p
 
 ### Supplies/Tools:
 
-*   Pencils / Pens
-*   Markers
-*   Colored highlighters
-*   Sketching templates (a blank sheet of paper divided into four or six boxes)
-*   For remote design studio: Camera for photographing sketches and uploading to Trello
-*   For remote design studio: Trello board
-*   For remote design studio: Google Hangout or other video-conferencing tool with screen sharing capabilities
+- Pencils / Pens
+- Markers
+- Colored highlighters
+- Sketching templates (a blank sheet of paper divided into four or six boxes)
+- For remote design studio: Camera for photographing sketches and uploading to Trello
+- For remote design studio: Trello board
+- For remote design studio: Google Hangout or other video-conferencing tool with screen sharing capabilities
 
 ## Why to do it:
 
-*   Collaborative design builds shared understanding and trust, and increases feelings of ownership of the work being done
-*   Designing together increases the design IQ of the entire team
-*   It allows every member of the team to articulate her ideas
-*   It gives designers a much broader set of ideas to draw upon as they refine the UX
+- Collaborative design builds shared understanding and trust, and increases feelings of ownership of the work being done
+- Designing together increases the design IQ of the entire team
+- It allows every member of the team to articulate her ideas
+- It gives designers a much broader set of ideas to draw upon as they refine the UX
 
 ## Recommended Reading:
 
-*   Video: [The Design Studio Method - Todd Zaki Warfel](https://vimeo.com/37861987)
-*   Book: [Lean UX](http://leanuxbook.com/) by Jeff Gothelf
+- Video: [The Design Studio Method - Todd Zaki Warfel](https://vimeo.com/37861987)
+- Book: [Lean UX](http://leanuxbook.com/) by Jeff Gothelf
 
 ## Examples:
 
-*   [Design Studio Trello Template](https://trello.com/b/EF5NKmv5/template-design-studio)
-*   [Sample project Design Studio artifacts](https://trello.com/b/u9me0Iy1/dhs-flash-design-studio)
+- [Design Studio Trello Template](https://trello.com/b/EF5NKmv5/template-design-studio)
+- [Sample project Design Studio artifacts](https://trello.com/b/u9me0Iy1/dhs-flash-design-studio)

@@ -10,4 +10,4 @@ In the past, we used [retext](https://github.com/wooorm/retext/), which gave war
 
 ## Specific terms
 
-*   Never refer to "Open Source" Software without specifying it Free/Libre Open Source Software, which can be shorted to FLOSS. See [Richard Stallman's explanation](https://www.gnu.org/philosophy/floss-and-foss.en.html) if you want to know more.
+- Never refer to "Open Source" Software without specifying it Free/Libre Open Source Software, which can be shorted to FLOSS. See [Richard Stallman's explanation](https://www.gnu.org/philosophy/floss-and-foss.en.html) if you want to know more.

@@ -8,12 +8,12 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 
 ## More reading
 
-*   [markdowntutorial.com](http://markdowntutorial.com/)
-*   [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-*   [MarkdownLivePreview.com](http://markdownlivepreview.com/)
-*   [Trello markdown cheatsheet](http://help.trello.com/article/821-using-markdown-in-trello)
-*   [Jira markdown cheatsheet](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
-*   [Slack markdown cheatsheet](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
+- [markdowntutorial.com](http://markdowntutorial.com/)
+- [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [MarkdownLivePreview.com](http://markdownlivepreview.com/)
+- [Trello markdown cheatsheet](http://help.trello.com/article/821-using-markdown-in-trello)
+- [Jira markdown cheatsheet](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
+- [Slack markdown cheatsheet](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
 
 ## Handbook
 

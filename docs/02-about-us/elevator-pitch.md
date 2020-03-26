@@ -1,6 +1,6 @@
 # CivicActions' Elevator Pitch
 
-Are you prepared for the "so, what does *your* company do" questions? Having an elevator pitch in mind is useful, not just for conferences, but also for every day networking.
+Are you prepared for the "so, what does _your_ company do" questions? Having an elevator pitch in mind is useful, not just for conferences, but also for every day networking.
 
 Think about when you're at a gathering and you're excited about your new job and someone asks you to tell them more... what will you say? Don't sweat it, be prepared!
 
@@ -12,15 +12,15 @@ Here's a sample:
 
 Some points to keep in mind:
 
-*   CivicActions - Open & Agile Digital Services
-*   We build modern digital services
-*   We use agile, DevOps, open data, and free software
-*   We want to create an open and accountable government
-*   We work to transform government with free and open technologies and agile processes.
-*   We support public sector IT leaders in understanding and implementing Agile project management practices within government (AGL).
-*   We're on a rocket ship of growth, we have an amazing company culture, and we're looking for new team members to join the party!
-*   CivicActions works to transform government by providing digital services and open data using agile practices, user centered design, and free and open source software. We support the work of the AGL Association (a network of government innovators) and are members of the Digital Services Coalition and Open Data Coalition.
-*   CivicActions aims to transform government by empowering public sector agencies to deliver digital experiences that are innovative and rewarding. We are passionate civic technologists committed to a better world.
+- CivicActions - Open & Agile Digital Services
+- We build modern digital services
+- We use agile, DevOps, open data, and free software
+- We want to create an open and accountable government
+- We work to transform government with free and open technologies and agile processes.
+- We support public sector IT leaders in understanding and implementing Agile project management practices within government (AGL).
+- We're on a rocket ship of growth, we have an amazing company culture, and we're looking for new team members to join the party!
+- CivicActions works to transform government by providing digital services and open data using agile practices, user centered design, and free and open source software. We support the work of the AGL Association (a network of government innovators) and are members of the Digital Services Coalition and Open Data Coalition.
+- CivicActions aims to transform government by empowering public sector agencies to deliver digital experiences that are innovative and rewarding. We are passionate civic technologists committed to a better world.
 
 Here's a presentation about making your own elevator pitch: <https://docs.google.com/presentation/d/1xOBQqEHC0o95oLo5lpul97p4gV4ZgzdRaqq03mpzTYc/edit#slide=id.g1dc5842bd_012>
 

@@ -8,28 +8,28 @@ A buddy typically has been with CivicActions for at least six months to one year
 
 ## A Buddy's Responsibilities
 
-*   Set up regular 15-30 minute check in meetings with your new hire. The frequency of these should be twice per week for the first month, once per week in the second month, and on an as-needed basis after that.
-*   Facilitate conversations with your new hire during check ins, and answer any questions that come up.
-*   Pass along any notable issues, highlights, or questions to the onboarding manager to ensure they're addressed for future new hires.
+- Set up regular 15-30 minute check in meetings with your new hire. The frequency of these should be twice per week for the first month, once per week in the second month, and on an as-needed basis after that.
+- Facilitate conversations with your new hire during check ins, and answer any questions that come up.
+- Pass along any notable issues, highlights, or questions to the onboarding manager to ensure they're addressed for future new hires.
 
 ## Tips for the Buddy
 
-*   Invite your new hire to any of your project meetings that you think might be helpful to have him/her observe
-*   Put yourself in your new hire's shoes. What important info do you wish you had known at that time? Share it!
-*   Conversation starters:
-    *   What have you been learning during your onboarding sessions with your manager?
-    *   In what areas do you feel strong/confident?
-    *   In what areas do you feel unsure?
-    *   How is your project going? Are you able to apply your onboarding learnings there?
-*   Share some "pro-tips" with your new hire. These are typically work shortcuts and tools that make life easier. Example: Ctrl+D in Hangouts is a mute/unmute button.
+- Invite your new hire to any of your project meetings that you think might be helpful to have him/her observe
+- Put yourself in your new hire's shoes. What important info do you wish you had known at that time? Share it!
+- Conversation starters:
+  - What have you been learning during your onboarding sessions with your manager?
+  - In what areas do you feel strong/confident?
+  - In what areas do you feel unsure?
+  - How is your project going? Are you able to apply your onboarding learnings there?
+- Share some "pro-tips" with your new hire. These are typically work shortcuts and tools that make life easier. Example: Ctrl+D in Hangouts is a mute/unmute button.
 
 ## Buddy To-Do Checklist
 
-*   Set up and attend regular check in meetings with your new hire
-*   Answer questions
-*   Stimulate conversation
-*   Review project playbooks and frameworks together
+- Set up and attend regular check in meetings with your new hire
+- Answer questions
+- Stimulate conversation
+- Review project playbooks and frameworks together
 
 ## Cross Functional Buddy
 
-*   A cross functional buddy is someone who is in a role opposite of your own. You may decide at some point to choose a cross functional role you'd like support in and this can become part of your [professional development](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation).
+- A cross functional buddy is someone who is in a role opposite of your own. You may decide at some point to choose a cross functional role you'd like support in and this can become part of your [professional development](https://trello.com/b/p7FOD0Ju/template-professional-development-and-community-participation).

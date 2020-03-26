@@ -24,8 +24,8 @@ Everyone at CivicActions should submit a photo that we'll use whenever we repres
 
 Photos should follow these three guidelines. You should submit a photo:
 
-*   Of you and only you from the shoulders up
-*   Where your whole face is visible
-*   Taken in a public place like a park, library, or a local federal building
+- Of you and only you from the shoulders up
+- Where your whole face is visible
+- Taken in a public place like a park, library, or a local federal building
 
 To get going, find or take an appropriate photo and upload it to //\[this Google Drive folder].

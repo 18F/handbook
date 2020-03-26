@@ -14,7 +14,7 @@ Conflict of Interest has been added to the Required Stuff Section
 
 October 5, 2015
 
-Updated the PTO policy so that the only email address that needs to be used to request time off is  ca-schedule@civicactions.net
+Updated the PTO policy so that the only email address that needs to be used to request time off is ca-schedule@civicactions.net
 
 September 30, 2015
 
@@ -35,6 +35,6 @@ March 12, 2015
 
 Paid Time Off update from "Unless it will cause an extreme hardship on the company and your team, no request for PTO will be turned down." to "Unless it will cause an extreme hardship on the company and your team, no request for PTO under two weeks will be turned down."
 
-Personal Leave of Absence update from "Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid. Any leave that lasts for less than a month would fall under the PTO policy." to  "A leave of absence is for extended periods, typically 4 weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid."
+Personal Leave of Absence update from "Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid. Any leave that lasts for less than a month would fall under the PTO policy." to "A leave of absence is for extended periods, typically 4 weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid."
 
 Maternity and Paternity Policy added: "Welcoming a new baby is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption) and acclimate to the new life ahead. Our policy is that expectant mothers can take twelve weeks of maternity leave fully paid after 9 months of employment and expectant fathers can take four weeks of paternity leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant mother or father needs additional leave, we will review requests on a case-by-case basis."

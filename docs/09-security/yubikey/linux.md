@@ -2,11 +2,11 @@
 
 This is the GNU/Linux specific documentation for [YubiKey](README.md).
 
-*Please help make this page more useful by adding links you found useful (describe exactly how they are useful) and specific steps you used to install, configure, and test your YubiKey.*
+_Please help make this page more useful by adding links you found useful (describe exactly how they are useful) and specific steps you used to install, configure, and test your YubiKey._
 
 ## Screen lock when idle or lid closed (X server)
 
-*Note: this section does not require YubiKey*
+_Note: this section does not require YubiKey_
 
 After a period of inactivity and (for laptops) when you close the lid, the screen must blank (or be replaced with a background image).
 

@@ -2,10 +2,10 @@
 
 One of the foundational principles of our Agile practice is user-centered design (UCD). Our design team provides services aimed at optimizing digital products around what users actually want or need rather than expecting them to change their behavior to accommodate a product. Design activities at CivicActions unfold iteratively through the project lifecycle, encompassing research, content strategy, information architecture, interaction design, front end development, and visual design. The design guidelines we follow build on specific plays in the U.S. Digital Services Playbook.
 
-*   We focus on understanding the problem(s) first.
-*   We follow user\*centered research and design methods.
-*   We work with skilled, experienced designers.
-*   We aim for continuous learning and discovery using iterative practices.
+- We focus on understanding the problem(s) first.
+- We follow user\*centered research and design methods.
+- We work with skilled, experienced designers.
+- We aim for continuous learning and discovery using iterative practices.
 
 ## Research
 
@@ -13,17 +13,17 @@ As your partner, we strive to understand the problem we are tasked with solving 
 
 We call the research we conduct at the beginning of a project "Discovery" (see [Discovery Services](discovery-services.md) for more information about discovery goals). The timing and scope of additional (iterative) research activities are dependent upon specific project needs. Our current research methods and offerings include:
 
-*   **Audiences & outcomes workshop.** To create a successful digital experience, it's important that we gain insight into users and their goals. This workshop is an onsite, collaborative activity conducted with key stakeholders early in the project to identify, describe, and begin prioritization of audiences (user groups) and measurable outcomes (business objectives and user goals) for a digital project. A typical A & O workshop engages 5-10 stakeholders and ranges from 60-90 minutes.
+- **Audiences & outcomes workshop.** To create a successful digital experience, it's important that we gain insight into users and their goals. This workshop is an onsite, collaborative activity conducted with key stakeholders early in the project to identify, describe, and begin prioritization of audiences (user groups) and measurable outcomes (business objectives and user goals) for a digital project. A typical A & O workshop engages 5-10 stakeholders and ranges from 60-90 minutes.
 
-*   **Story mapping.** This is a powerful practice for talking about who does what (and why) when interacting with a digital product. Story mapping is a way to focus discussions around who will use the product and what they'll do with it later, after delivery. A story map helps to clarify overall project vision, builds shared understanding about the whole product, and can be used to formulate a release strategy that focuses on specific users and outcomes.
+- **Story mapping.** This is a powerful practice for talking about who does what (and why) when interacting with a digital product. Story mapping is a way to focus discussions around who will use the product and what they'll do with it later, after delivery. A story map helps to clarify overall project vision, builds shared understanding about the whole product, and can be used to formulate a release strategy that focuses on specific users and outcomes.
 
-*   **Stakeholder interviews.** These are semi-structured conversations conducted with individual project stakeholders, which includes anyone who has an interest in the project's success (including end users). Typical interviews are 30-45 minutes each. Most interviews will be conducted by phone or video chat, however we are also open to performing in-person interviews, if logistics allow. Even a small number of in-person interviews can provide rich information.
+- **Stakeholder interviews.** These are semi-structured conversations conducted with individual project stakeholders, which includes anyone who has an interest in the project's success (including end users). Typical interviews are 30-45 minutes each. Most interviews will be conducted by phone or video chat, however we are also open to performing in-person interviews, if logistics allow. Even a small number of in-person interviews can provide rich information.
 
-*   **Surveys.** We often use online surveys to distribute and gather responses to user research questions. Surveys can be structured to address specific areas of interest as well as broader heuristics.
+- **Surveys.** We often use online surveys to distribute and gather responses to user research questions. Surveys can be structured to address specific areas of interest as well as broader heuristics.
 
-*   **User persona development.** Personas are realistic representations of key audience segments that provide a clear picture of target users' expectations, goals and values. Personas are informed by interviews. They add a layer of real-world consideration to project conversations and can help to uncover the most-needed features and functionality and inform decisions about information architecture and development priorities.
+- **User persona development.** Personas are realistic representations of key audience segments that provide a clear picture of target users' expectations, goals and values. Personas are informed by interviews. They add a layer of real-world consideration to project conversations and can help to uncover the most-needed features and functionality and inform decisions about information architecture and development priorities.
 
-*   **Usability testing/evaluation.** The only tried and true way to find out if a digital product works is to test it. Usability testing is a technique for evaluating a product by putting in front of users. In a typical usability test, one user at a time is shown a website, prototype, sketch, or mock-up and asked to a) figure out what it is, and/or b) try to use it to do a typical task(s).
+- **Usability testing/evaluation.** The only tried and true way to find out if a digital product works is to test it. Usability testing is a technique for evaluating a product by putting in front of users. In a typical usability test, one user at a time is shown a website, prototype, sketch, or mock-up and asked to a) figure out what it is, and/or b) try to use it to do a typical task(s).
 
 ## Content Strategy
 
@@ -31,20 +31,20 @@ The outcome of an effective content strategy is the creation, publication and go
 
 Current content strategy offerings:
 
-*   **Content audit.** The best way to fully comprehend all existing content and to accurately access current content woes and assets is a comprehensive content audit. There are two kinds of audits: quantitative inventories and qualitative assessments. The inventory answers the question "What content is there?" and the assessment answers the question "Is it any good?"
+- **Content audit.** The best way to fully comprehend all existing content and to accurately access current content woes and assets is a comprehensive content audit. There are two kinds of audits: quantitative inventories and qualitative assessments. The inventory answers the question "What content is there?" and the assessment answers the question "Is it any good?"
 
-*   **Content type design.** The content strategist is responsible for creating content type definitions (eg. fields), which are used by engineers as guides when building custom content types in Drupal.
+- **Content type design.** The content strategist is responsible for creating content type definitions (eg. fields), which are used by engineers as guides when building custom content types in Drupal.
 
-*   **Content templates.** We use templates to validate content structure and content type design, using real example content provided by the client.
+- **Content templates.** We use templates to validate content structure and content type design, using real example content provided by the client.
 
-*   **Content modeling.** A content model is a diagram or chart that documents the elements of and relationships between all the different types of content for a given project. Content models can be used to validate concepts with stakeholders, and they also encourage communication and collaboration between designers, developers, and content creators.
+- **Content modeling.** A content model is a diagram or chart that documents the elements of and relationships between all the different types of content for a given project. Content models can be used to validate concepts with stakeholders, and they also encourage communication and collaboration between designers, developers, and content creators.
 
-*   **Wireframes and page tables.** Wireframes and page tables are used to convey content requirements defined and driven by messaging, business objectives and user goals, ensuring that content receives the attention it deserves at the right time during the project. Most information architecture documentation, page- and/or component-level documentation is captured in wireframes. Page tables identify and explain key content recommendations, taking wireframes to the next level. They include:
-    *   content objective(s)
-    *   key messages
-    *   specific content recommendations
-    *   source content quality
-    *   guidelines for how to create and maintain the content
+- **Wireframes and page tables.** Wireframes and page tables are used to convey content requirements defined and driven by messaging, business objectives and user goals, ensuring that content receives the attention it deserves at the right time during the project. Most information architecture documentation, page- and/or component-level documentation is captured in wireframes. Page tables identify and explain key content recommendations, taking wireframes to the next level. They include:
+  - content objective(s)
+  - key messages
+  - specific content recommendations
+  - source content quality
+  - guidelines for how to create and maintain the content
 
 ## Information Architecture (IA)
 

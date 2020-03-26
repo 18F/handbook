@@ -2,25 +2,25 @@
 
 This is the Mac OS X specific documentation for [YubiKey](README.md).
 
-*Please help make this page more useful by adding links you found useful (describe exactly how they are useful) and specific steps you used to install, configure, and test your YubiKey.*
+_Please help make this page more useful by adding links you found useful (describe exactly how they are useful) and specific steps you used to install, configure, and test your YubiKey._
 
 ## Install apps
 
 See:
 
-*   <https://www.yubico.com/start/mac-os/>
-*   <https://www.yubico.com/why-yubico/for-businesses/computer-login/mac-os-login/>
-*   <https://www.yubico.com/2016/09/yubikey-smart-card-support-for-macos-sierra-2/>
+- <https://www.yubico.com/start/mac-os/>
+- <https://www.yubico.com/why-yubico/for-businesses/computer-login/mac-os-login/>
+- <https://www.yubico.com/2016/09/yubikey-smart-card-support-for-macos-sierra-2/>
 
-*tbd...*
+_tbd..._
 
 ## Set up PAM TFA
 
-*tbd...*
+_tbd..._
 
 ## Screen lock on lid close or idle
 
-*tbd...*
+_tbd..._
 
 ### Away detection ideas
 
@@ -51,7 +51,7 @@ then
 fi
 ```
 
-The "cron" or launchctl file located at $HOME/Library/LaunchAgents/com.dan.outlock.plist might look like this to run every 15 minutes:
+The "cron" or launchctl file located at \$HOME/Library/LaunchAgents/com.dan.outlock.plist might look like this to run every 15 minutes:
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -80,4 +80,4 @@ The "cron" or launchctl file located at $HOME/Library/LaunchAgents/com.dan.outlo
 
 ## YubiKey removal lock
 
-*tbd...*
+_tbd..._

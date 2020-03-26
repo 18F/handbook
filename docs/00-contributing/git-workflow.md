@@ -14,17 +14,17 @@ You'll need a GitHub account, and to be added to the CivicActions Team ([instruc
 
 Go to a page, click edit, and make your changes, using [markdown](markdown.md). Before you commit your changes, click the "Preview changes" tab to make sure your formatting is good and everything looks right.
 
-When you save it ("make a commit"), there are three fields to fill out. *All of these are optional*, with default values, and in most cases it's fine to leave the defaults.
+When you save it ("make a commit"), there are three fields to fill out. _All of these are optional_, with default values, and in most cases it's fine to leave the defaults.
 
-*   **The commit title**: By default it is something like "Update \[filename]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
-*   **Extended description**: Explain your changes, if you wish. Useful if you need more than the 50 characters available in the title.
-*   **The branch name:** By default this will be a new branch, with a name like \[username]-patch-1. If you want to change it to something more semantic (eg \[username]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.
+- **The commit title**: By default it is something like "Update \[filename]". You can usually leave this as is (often this is ideal), or you can be more precise, but keep it short.
+- **Extended description**: Explain your changes, if you wish. Useful if you need more than the 50 characters available in the title.
+- **The branch name:** By default this will be a new branch, with a name like \[username]-patch-1. If you want to change it to something more semantic (eg \[username]-easy-github-contributing), that can be helpful to the reviewers, but it's not necessary.
 
 After you commit, you will be asked if you want to create a new pull request with the branch you created. You'll again be presented with a few fields, which you can generally leave as is.
 
-*   **The PR title:** By default it is the title of your last commit.
-*   **Extended description:** This also draws from your last commit.
-*   **The right sidebar:** You can assign your pull request to someone on the team (someone you think may want to review your edits).
+- **The PR title:** By default it is the title of your last commit.
+- **Extended description:** This also draws from your last commit.
+- **The right sidebar:** You can assign your pull request to someone on the team (someone you think may want to review your edits).
 
 Most of the time you don't need to fill anything out, just click "Create pull request".
 
@@ -42,10 +42,10 @@ You can use any other number of tools, including text editors (such as [Atom](ht
 
 Resources:
 
-*   [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
-*   [Working with Forks](https://help.github.com/articles/working-with-forks/)
-*   [Getting Started with GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop)
-*   [Contributing to Projects with GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
+- [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
+- [Working with Forks](https://help.github.com/articles/working-with-forks/)
+- [Getting Started with GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop)
+- [Contributing to Projects with GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
 
 ## Assignment of pull requests
 

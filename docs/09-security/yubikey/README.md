@@ -1,6 +1,6 @@
 # Using your YubiKey
 
-Notes on installing and setting up your *YubiKey 4* for various platforms and applications.
+Notes on installing and setting up your _YubiKey 4_ for various platforms and applications.
 
 ## Introduction
 
@@ -8,91 +8,91 @@ The YubiKey is a hardware device manufactured by Yubico that provides a hardware
 
 ### Operation
 
-*   Simply plug it into an unused USB port.
-*   During certain types of authentication you will be prompted on screen to press the inset copper button marked with and (often lit) "Y".
+- Simply plug it into an unused USB port.
+- During certain types of authentication you will be prompted on screen to press the inset copper button marked with and (often lit) "Y".
 
 ### Security Hints
 
-*   If you trust your environment (like at home) you can keep the YubiKey near or even plugged into your computer.
-*   In low trust environments (coffee shops, hotel rooms, etc.) keep your YubiKey with you at all times (in a pocket or purse). If your computer is compromised, it won't be accessible without the YubiKey that you have on you.
-*   Do not use SMS text messages for two-factor authentication.
+- If you trust your environment (like at home) you can keep the YubiKey near or even plugged into your computer.
+- In low trust environments (coffee shops, hotel rooms, etc.) keep your YubiKey with you at all times (in a pocket or purse). If your computer is compromised, it won't be accessible without the YubiKey that you have on you.
+- Do not use SMS text messages for two-factor authentication.
 
 ## Enable YubiKey TFA for applications
 
-*See also: [How to Secure Your Google, Dropbox, and GitHub Accounts With a U2F Key](http://www.howtogeek.com/232360/how-to-secure-your-google-dropbox-and-github-accounts-with-a-u2f-key/)*
+_See also: [How to Secure Your Google, Dropbox, and GitHub Accounts With a U2F Key](http://www.howtogeek.com/232360/how-to-secure-your-google-dropbox-and-github-accounts-with-a-u2f-key/)_
 
 ### LastPass
 
 This requires a YubiKey token (cover the button for approximately one second) on laptop/desktop to unlock LastPass.
 
-*   My Vault -> Account Settings -> Multifactor Options
-    *   Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)) - this is a useful backup
-    *   YubiKey (an easier option) is available when using [LastPass Premium](https://lastpass.com/yubico/) ($12/year)
-        *   Select the YubiKey option.
-        *   Insert the YubiKey device into a USB port on your computer.
-        *   Focus your cursor on the "YubiKey #1" field.
-        *   Press the button on the YubiKey device.
-        *   A long string of dots should appear in the YubiKey #1 field.
-        *   Change the "YubiKey Authentication" status to "Enabled"
-        *   Set "Enabled" ==> "Yes"
-        *   Set "Permit Offline Access" ==> "Disallow"
-        *   Press the Update button
-        *   Enter your LastPass master password and press Confirm.
-        *   YubiKey is now enabled for your LastPass account.
-*   If you have a *YubiKey Neo* (CivicActions uses the *YubiKey 4* model) and your phone supports NFC, you can touch the Neo against your phone to unlock on mobile.
+- My Vault -> Account Settings -> Multifactor Options
+  - Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)) - this is a useful backup
+  - YubiKey (an easier option) is available when using [LastPass Premium](https://lastpass.com/yubico/) (\$12/year)
+    - Select the YubiKey option.
+    - Insert the YubiKey device into a USB port on your computer.
+    - Focus your cursor on the "YubiKey #1" field.
+    - Press the button on the YubiKey device.
+    - A long string of dots should appear in the YubiKey #1 field.
+    - Change the "YubiKey Authentication" status to "Enabled"
+    - Set "Enabled" ==> "Yes"
+    - Set "Permit Offline Access" ==> "Disallow"
+    - Press the Update button
+    - Enter your LastPass master password and press Confirm.
+    - YubiKey is now enabled for your LastPass account.
+- If you have a _YubiKey Neo_ (CivicActions uses the _YubiKey 4_ model) and your phone supports NFC, you can touch the Neo against your phone to unlock on mobile.
 
 ### Google
 
 For each Google account you have:
 
-*   Visit <https://accounts.google.com/b/0/SmsAuthSettings#devices>
-*   Enable TFA, and complete the phone verification process (phone will act as backup TFA).
-*   Click on "Security Keys" and follow instructions to add YubiKey.
-*   Return to the main page and add a second phone and/or print backup codes.
-*   As long as you have a backup, you can also install the YubiKey Authenticator app, and configure your account to use that for the backup TFA instead of SMS/phone - this is the same as the Google Authenticator app, except that it stores the credentials on your YubiKey instead of the phone.
-*   If you have funky devices/apps that don't support TFA, you can set an application specific password using that tab. This includes sending E-mail from your personal Gmail account using your civicactions.com IMAP, for instance.
+- Visit <https://accounts.google.com/b/0/SmsAuthSettings#devices>
+- Enable TFA, and complete the phone verification process (phone will act as backup TFA).
+- Click on "Security Keys" and follow instructions to add YubiKey.
+- Return to the main page and add a second phone and/or print backup codes.
+- As long as you have a backup, you can also install the YubiKey Authenticator app, and configure your account to use that for the backup TFA instead of SMS/phone - this is the same as the Google Authenticator app, except that it stores the credentials on your YubiKey instead of the phone.
+- If you have funky devices/apps that don't support TFA, you can set an application specific password using that tab. This includes sending E-mail from your personal Gmail account using your civicactions.com IMAP, for instance.
 
 ### GitHub
 
-*   Visit <https://github.com/settings/two_factor_authentication/configure>
-*   Enable TFA, and complete the phone verification process (phone will act as backup TFA).
-*   Then you can "Register new device" in the "Security keys" section
+- Visit <https://github.com/settings/two_factor_authentication/configure>
+- Enable TFA, and complete the phone verification process (phone will act as backup TFA).
+- Then you can "Register new device" in the "Security keys" section
 
 ### AWS Root Account
 
 For each AWS account you have:
 
-*   Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#security_credential>
-*   Under MFA, add a Virtual MFA device.
-*   Use YubiKey Authenticator app to scan the QR code, and enter the response code, then close and reopen the app and enter the second response code.
+- Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#security_credential>
+- Under MFA, add a Virtual MFA device.
+- Use YubiKey Authenticator app to scan the QR code, and enter the response code, then close and reopen the app and enter the second response code.
 
 ### AWS IAM Account
 
-*   Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#users>
-*   Choose your user name
-*   Click on Manage your MFA device
-*   Use Google Authenticator app to scan the QR code, and enter the response code
-*   then close and reopen the app and enter the second response code.
-*   *using YubiKey untested - don't have YubiKey Authenticator set up*
+- Visit <https://console.aws.amazon.com/iam/home?region=us-east-1#users>
+- Choose your user name
+- Click on Manage your MFA device
+- Use Google Authenticator app to scan the QR code, and enter the response code
+- then close and reopen the app and enter the second response code.
+- _using YubiKey untested - don't have YubiKey Authenticator set up_
 
 ## Securing your Laptop
 
 Your laptop should lock (require a password to resume) on screen close and after 15 minutes idle time.
 
-*   [GNU/Linux specific instructions](linux.md)
-*   [Mac OS X specific instructions](macosx.md)
+- [GNU/Linux specific instructions](linux.md)
+- [Mac OS X specific instructions](macosx.md)
 
 ## YubiKey Neo U2F Setup
 
-Some older YubiKeys (like the Neo) need to have U2F (Universal Second Factor) enabled before use. *(If you are unsure, ask any IT staff member or on the [#general](https://civicactions.slack.com/messages/general) slack channel.)*
+Some older YubiKeys (like the Neo) need to have U2F (Universal Second Factor) enabled before use. _(If you are unsure, ask any IT staff member or on the [#general](https://civicactions.slack.com/messages/general) slack channel.)_
 
-For these YubiKeys, you may need to install and configure some software that "personalizes" your YubiKey. *Note: newer YubiKeys may not require this step.*
+For these YubiKeys, you may need to install and configure some software that "personalizes" your YubiKey. _Note: newer YubiKeys may not require this step._
 
 ### Install Packages
 
 #### Arch
 
-*See also: <https://wiki.archlinux.org/index.php/yubikey>*
+_See also: <https://wiki.archlinux.org/index.php/yubikey>_
 
 ```
 pacaur -S perl-net-ldap-server    # this is a prerequisite
@@ -101,7 +101,7 @@ pacaur -S yubikey-neo-manager-git
 
 #### Fedora
 
-*See also: <https://fedoraproject.org/wiki/Using_YubiKeys_with_Fedora>*
+_See also: <https://fedoraproject.org/wiki/Using_YubiKeys_with_Fedora>_
 
 ```
 dnf copr enable jjelen/yubikey-neo-manager
@@ -111,7 +111,7 @@ dnf install yubikey-neo-manager yubioath-desktop yubikey-personalization-gui
 
 #### Ubuntu, Xubuntu
 
-*See also: <https://askubuntu.com/questions/720314/how-to-install-yubikey-personalization-tool-on-ubuntu>*
+_See also: <https://askubuntu.com/questions/720314/how-to-install-yubikey-personalization-tool-on-ubuntu>_
 
 ```
 sudo add-apt-repository ppa:yubico/stable
@@ -138,11 +138,11 @@ $ neoman
 
 #### Mac OSX YubiKey tool
 
-*This should be straightforward, but waiting for a pull request that clearly explains how to:*
+_This should be straightforward, but waiting for a pull request that clearly explains how to:_
 
-*   Enable `OTP`, `U2F` & `CCID`
-*   Personalize **Configuration Slot 2** with options:
-    *   `chal-resp` (Set challenge-response mode)
-    *   `chal-hmac` (Generate HMAC-SHA1 challenge responses)
-    *   `hmac-lt64` (Calculate HMAC on less than 64 bytes input)
-    *   `serial-api-visible` (Allow serial number to be read using an API call)
+- Enable `OTP`, `U2F` & `CCID`
+- Personalize **Configuration Slot 2** with options:
+  - `chal-resp` (Set challenge-response mode)
+  - `chal-hmac` (Generate HMAC-SHA1 challenge responses)
+  - `hmac-lt64` (Calculate HMAC on less than 64 bytes input)
+  - `serial-api-visible` (Allow serial number to be read using an API call)
