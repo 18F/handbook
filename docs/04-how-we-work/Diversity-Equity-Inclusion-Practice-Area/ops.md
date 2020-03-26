@@ -17,7 +17,7 @@ Anyone at CivicActions who is interested can join work on a DEI initiative. To g
 
 ## Get support
 
-Not everyone is at the same level of familiarity or comfort with DEI topics, and that’s okay. Team members who have questions or concerns about DEI topics, but aren't comfortable bringing them to a large group conversation or public channel can reach out to a **[DEI point-person](https://trello.com/c/5XyeNrfZ/109-dei-point-people)** for support. DEI point-people help our team talk through sensitive issues in team dynamics, answer questions, or just be there to listen. Folks can reach out to any of the DEI point-people listed in the pinned post in #diversity-equity-inclusion.
+Not everyone is at the same level of familiarity or comfort with DEI topics, and that's okay. Team members who have questions or concerns about DEI topics, but aren't comfortable bringing them to a large group conversation or public channel can reach out to a **[DEI point-person](https://trello.com/c/5XyeNrfZ/109-dei-point-people)** for support. DEI point-people help our team talk through sensitive issues in team dynamics, answer questions, or just be there to listen. Folks can reach out to any of the DEI point-people listed in the pinned post in #diversity-equity-inclusion.
 
 **[DEI Point Person Manifesto:](https://docs.google.com/document/d/11wQ-hlk9QWTan24rm5xwKvode_2s8gOLQzrI-7GObFI/edit)** Learn more about the principles and goals that designated DEI point people promise to uphold as team members providing individual support for sensitive topics.
 

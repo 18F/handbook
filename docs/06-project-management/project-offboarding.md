@@ -1,6 +1,6 @@
 # Offboarding team members with legacy information who may return to consult
 
-SCENARIO: Team member is leaving a project but will be retained as a “legacy consultant” for the active project team. (Assuming project does not require clearance and doesn’t handle sensitive data).
+SCENARIO: Team member is leaving a project but will be retained as a "legacy consultant" for the active project team. (Assuming project does not require clearance and doesn't handle sensitive data).
 
 - Jira access - block if user limit is reached
 - Git - no change
@@ -18,8 +18,8 @@ SCENARIO: Team member is leaving a project but will be retained as a “legacy c
 
 # Offboarding team members who will not return to the project
 
-SCENARIO: Team member finishes project work and probably won’t come back to project.
-SCENARIO: Project requires security clearance and/or handles sensitive data and team member is “off” project
+SCENARIO: Team member finishes project work and probably won't come back to project.
+SCENARIO: Project requires security clearance and/or handles sensitive data and team member is "off" project
 
 - Jira access - block
 - Git - block

@@ -102,12 +102,12 @@ Travel day for team members arriving in Portland. 4pm check-in time at Hampton I
 ### Prepare for your flight
 
 - Download offline copies of Google docs for working without Wi-Fi
-- If you plan to get Wi-Fi on your flight, purchase it before you board because it’s cheaper
+- If you plan to get Wi-Fi on your flight, purchase it before you board because it's cheaper
 - Have printed copies of your backup codes for accessing Google Apps
 - Begin taking some Emergen-C or Airborne to prep your immune system
 - A number of folks use the Thieves Oil as it kills germs & boosts immunity
 - Get lots of rest and drink plenty of water before travels so you can be your sharpest, healthiest self on the first day of the Summit.
-- Get a ride to the airport so you don’t have to expense the cost of parking your car for the duration of the Summit.
+- Get a ride to the airport so you don't have to expense the cost of parking your car for the duration of the Summit.
 
 ### Reduce your footprint
 
@@ -175,7 +175,7 @@ Follow the standard process for tracking expenses for travel, food, and other ap
 - Food up to \$25/day travel days
 - Food up to \$50 for Saturday coworking
 - Travel to/from airports (please consider public transportation)
-- Materials you’ve been asked to purchase by the Summit planning team
+- Materials you've been asked to purchase by the Summit planning team
 
 ##### Already covered by CivicActions
 
@@ -200,7 +200,7 @@ Everyone who attends the Summit is expected to [read and follow our Code of Cond
 
 The Summit is a harassment-free event. More on the [Policy Against Proscribed Harassment and Discrimination](https://civicactions-handbook.readthedocs.io/en/latest/03-policies/anti-harassment-policies/).
 
-### Don’t do drugs at the Summit
+### Don't do drugs at the Summit
 
 No illegal drugs are permitted in the workplace. Reminder that marijuana is still illegal under federal law.
 
@@ -208,7 +208,7 @@ No illegal drugs are permitted in the workplace. Reminder that marijuana is stil
 
 It is not tolerated to be under the influence in the workplace. The exception is that moderate drinking at company dinners is permitted.
 
-### Dress how you’re most comfortable
+### Dress how you're most comfortable
 
 Dress however you are comfortable. For example, some folks are most comfortable in a button-up with khakis; others prefer casual jeans and t-shirts.
 
@@ -226,11 +226,11 @@ You can share photos from the Summit in our [Google Photos album](https://photos
 
 #### Taking photos for personal use
 
-If you’re taking photos that you intend to post on your personal online accounts, it’s polite to get consent from the people in the photo (usually easiest to do this when you take it).
+If you're taking photos that you intend to post on your personal online accounts, it's polite to get consent from the people in the photo (usually easiest to do this when you take it).
 
 #### Your privacy preferences
 
-If you’ve already let CivicActions know that you don’t want your photo posted on CivicActions accounts in certain circumstances (or all circumstances), that policy will continue to apply to all the photos we take at the Summit — so don’t worry. We’ve got you covered.
+If you've already let CivicActions know that you don't want your photo posted on CivicActions accounts in certain circumstances (or all circumstances), that policy will continue to apply to all the photos we take at the Summit — so don't worry. We've got you covered.
 
 ### Social Activities
 
@@ -244,7 +244,7 @@ We go out with small groups on the second day of the Summit to connect more clos
 
 #### Optional evening activities
 
-There are lots of opportunities for hanging out with peers if you crave more social time after dinner. Some folks will want to sample the local libations, but there are plenty of things to do that don’t involve drinking!
+There are lots of opportunities for hanging out with peers if you crave more social time after dinner. Some folks will want to sample the local libations, but there are plenty of things to do that don't involve drinking!
 
 - [List of proposed evening activities for Portland Summit](https://docs.google.com/spreadsheets/d/1LAv9O-i1uYyLuVQHT7IIvnTlW_SIWo5NlpgAsfSL7i8/edit#gid=1675084519)
 - Take initiative if you want to gather a group! Use #event-summit-2019 to let people know what, when, and where.
@@ -255,7 +255,7 @@ The Coin Ceremony tradition is one of the most meaningful parts of the Summit. W
 
 #### What to expect
 
-When it’s your turn to be appreciated (names are drawn randomly), you’ll go to the front. You may feel a bit uncomfortable at first, but think of it like an awards ceremony or graduation -- you are among friends who wish to congratulate you!
+When it's your turn to be appreciated (names are drawn randomly), you'll go to the front. You may feel a bit uncomfortable at first, but think of it like an awards ceremony or graduation -- you are among friends who wish to congratulate you!
 
 People who want to give an appreciation will raise their hand, and you can pick two that you want to hear from. You will also receive a specially designed commemorative coin. We are so grateful to have you as part of our team!
 
@@ -264,9 +264,9 @@ People who want to give an appreciation will raise their hand, and you can pick 
 To help make the Coin Ceremony successful:
 
 - Be attentive and present. Mute devices so you can be a meaningful part of the celebration.
-- Try to give one or two appreciations, even if you don’t usually speak up in large gatherings.
-- If you’ve given several appreciations, make sure to let others have a chance to talk.
-- It’s okay to appreciate your teammates for the work they do, but it’s even better to appreciate them for who they are as a person.
+- Try to give one or two appreciations, even if you don't usually speak up in large gatherings.
+- If you've given several appreciations, make sure to let others have a chance to talk.
+- It's okay to appreciate your teammates for the work they do, but it's even better to appreciate them for who they are as a person.
 
 ### How You Can Help
 
@@ -283,9 +283,9 @@ Each one of us can help make the Summit better for everyone by doing the followi
 
 #### Volunteer to lead an afternoon outing
 
-Anyone can volunteer to help facilitate one of our fun group outings. Sign up to lead, or take a look at who’s in charge of what:
+Anyone can volunteer to help facilitate one of our fun group outings. Sign up to lead, or take a look at who's in charge of what:
 [Team outing leaders](https://docs.google.com/spreadsheets/d/1LAv9O-i1uYyLuVQHT7IIvnTlW_SIWo5NlpgAsfSL7i8/edit#gid=744360221)
 
 #### Thank an organizer
 
-A lot of planning goes into making sure our time together is joyous, meaningful, and efficient. Remember to thank the folks who’ve taken time away from their regular work and projects to make the Summit happen.
+A lot of planning goes into making sure our time together is joyous, meaningful, and efficient. Remember to thank the folks who've taken time away from their regular work and projects to make the Summit happen.

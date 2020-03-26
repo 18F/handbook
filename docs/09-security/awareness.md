@@ -64,7 +64,7 @@ Do not rely on SMS text messages for general two-factor authentication as it is 
 
 Once set up, your YubiKey greatly simplifies the process of Two-Factor Authentication (TFA). While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. This saves time while enabling the strongest security. While on the road, the nearly indestructible YubiKey attaches easily to your keychain _(and should only be inserted when authenticating)_.
 
-- See "[Let’s get your YubiKey to work](https://yubico.com/start)" (from Yubico) on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals), [LastPass](https://www.yubico.com/works-with-yubikey/catalog/lastpass-premium-and-families/), [GitHub](https://www.yubico.com/works-with-yubikey/catalog/github/) and many other services.
+- See "[Let's get your YubiKey to work](https://yubico.com/start)" (from Yubico) on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals), [LastPass](https://www.yubico.com/works-with-yubikey/catalog/lastpass-premium-and-families/), [GitHub](https://www.yubico.com/works-with-yubikey/catalog/github/) and many other services.
 
 While YubiKey is the easiest to use on a daily basis, if you lose it you could get locked out of all your systems so be sure that you have set up [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes).
 
