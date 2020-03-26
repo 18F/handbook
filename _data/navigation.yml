@@ -81,9 +81,23 @@ primary:
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
-      - text: Performance management
+      - text: Performance management overview
         url: performance-management
         internal: true
+      - text: Performance management important dates
+        url: performance-management-dates/
+        internal: true
+      - text: Performance management HRLinks steps
+        url: performance-managmenent-hrlinks-steps/
+        interal: true
+      - text: Performance management employee resources
+        url: performance-management-employee-resources/
+        internal: true
+      - text: Performance management supervisor resources
+        url: performance-management-supervisor-resources/
+        internal: true
+
+
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
