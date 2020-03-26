@@ -4,6 +4,7 @@ var options = require("gulp-options");
 var log = require("fancy-log");
 var execSync = require("child_process").execSync;
 var stream = require("stream");
+const fs = require("fs");
 
 // Stream writer that changes warnings to errors
 var errorStream = new stream.Writable();
@@ -69,7 +70,9 @@ gulp.task("suggestions", function() {
       if (statusFile[1].split(".").pop() != "md") {
         continue;
       }
-      path.push(statusFile[1]);
+      if (fs.existsSync(statusFile[1])) {
+        path.push(statusFile[1]);
+      }
     }
   }
   if (path == []) {
