@@ -4,9 +4,9 @@
 
 This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should be welcoming, personable, and free from jargon.
 
-## Retext
+## Suggestions
 
-In the past, we used [retext](https://github.com/wooorm/retext/), which gave warnings (but did not fail Travis CI builds) for language that looks possibly incorrect, overly complex or insensitive. The warnings were too numerous to be useful, but we may want to reenable retext in the gulp file, after tweaking the settings at [.retext.js](https://github.com/CivicActions/handbook/blob/master/.retext.js)
+The [Gitlab CI build](gitlab-ci.md) outputs a list of suggestions to improve the readbility, language and grammar of the file(s) your pull requests touches. You are encouraged to review and incorporate these.
 
 ## Specific terms
 
