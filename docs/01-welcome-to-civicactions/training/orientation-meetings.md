@@ -83,9 +83,9 @@
 
 ### Time Off and Scheduling
 
-- Review vacation time / requests [policies](../../03-policies/benefits-and-holidays.md#timeoff)
+- Review vacation time / requests [policies](../../03-policies/benefits-and-holidays.md#time-off)
 - Do you have any pre-approved time off requests?
-  - Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits-and-holidays.md#timeoff) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
+  - Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits-and-holidays.md#time-off) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
 - We use [Harvest Forecast](../../04-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
 - Review [CivicActions holiday schedule](../../03-policies/benefits-and-holidays.md#holidays)
 - Review [professional development](../../03-policies/prodev.md) & [community participation](../../03-policies/community-participation.md)
@@ -94,7 +94,7 @@
 
 - Relevant project introductions: Connect with appropriate person to walk through each project to discuss the project and its goals, the product owner, stakeholders, team members, technologies, ticket review, project status, etc.
 
-- [CivicActions Agile](../../04-how-we-work/agileoverview.md)
+- [CivicActions Agile](../../04-how-we-work/agile-overview.md)
 - Introduction to the [Scrum call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
 - Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
 - Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
@@ -106,7 +106,7 @@
   - Starting and ending a day with a remote team
   - Heading offline for short periods of time
   - [Communication best practices](../../04-how-we-work/virtual-workplace-basics.md#communication-best-practices) (Always over communication, be transparent, take ownership, ask questions, 30 minute rule)
-  - Talking in [timezones](../../04-how-we-work/virtual-workplace-basics.md#talking-timezones)
+  - Talking in [timezones](../../04-how-we-work/virtual-workplace-basics.md#talking-time-zones)
   - Tour our [virtual workspaces](https://trello.com/b/TJsUalpG/our-workspaces) Trello board
 
 ### Aligning Yourself with CivicActions
