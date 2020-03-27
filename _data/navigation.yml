@@ -84,16 +84,16 @@ primary:
       - text: Performance management overview
         url: performance-management
         internal: true
-      - text: Performance management important dates
+      - text: Important dates
         url: performance-management-dates/
         internal: true
-      - text: Performance management HRLinks steps
+      - text: HRLinks steps
         url: performance-management-hrlinks-steps/
         interal: true
-      - text: Performance management employee resources
+      - text: Employee resources
         url: performance-management-employee-resources/
         internal: true
-      - text: Performance management supervisor resources
+      - text: Supervisor resources
         url: performance-management-supervisor-resources/
         internal: true
 
