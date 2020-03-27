@@ -13,7 +13,7 @@ We use Trello boards to manage onboarding-related _tasks_, but nearly all onboar
 Tools and resources for managing the process:
 
 - [Manager Checklist (Trello board)](https://trello.com/b/FOILJ0i6/template-onboarding-manager-checklist) (for onboarding managers)
-- [Admin/HR Checklist (Trello board)](https://trello.com/b/RbC0clMU/template-onboarding-admin-hr-checklist-draft) (for Judy)
+- [Admin/HR Checklist (Trello board)](https://trello.com/b/RbC0clMU/template-onboarding-admin-hr-checklist-draft) (for the Office Manager)
 - [Buddy Handbook](../../01-welcome-to-civicactions/training/buddy-program.md) (guidelines for onboarding buddy)
 
 Trello board templates for new hires:
