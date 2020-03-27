@@ -78,6 +78,7 @@
     "retext-quotes": "^4",
     "retext-repeated-words": "^3",
     "retext-sentence-spacing": "^4",
-    "retext-usage": "^0"
+    "retext-usage": "^0",
+    "prettier": "^1"
   }
 }

@@ -4,7 +4,7 @@ Git is a powerful version control tool that you can learn. At its core is the id
 
 Git is confusing at first, but our handbook is a great place to learn Git because we use a relatively simple Git workflow, compared to many engineering projects.
 
-In this project, The "master" branch is the active branch, with the latest, approved changes, published at [Read The Docs](read-the-docs.md). If you use Workflow 1, you'll be editing the branch directly, but
+In this project, The "master" branch is the active branch, with the latest, approved changes, published at [Read The Docs](https://handbook.civicactions.com/en/latest/README/). If you use Workflow 1, you'll be editing the branch directly, but
 
 ## Workflow 1: The easy way, via the GitHub UI on the master branch
 
