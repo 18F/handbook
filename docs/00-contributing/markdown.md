@@ -11,18 +11,25 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 ## Common markdown errors to avoid
 
 - You need a blank line before every "block" of text. "Blocks" include paragraphs, headings, lists, code blocks, blockquotes, etc.
-- Nested lists (such as bullets) points require four spaces.
-- No space before
 - You need a blank line at the end of each file.
 - Headings (#, ##, ###, etc.) must increment correctly. You can't go from # (h1) to ### (h3).
 
+## Format auto-correct
+
+- Many common Markdown formatting issues will be automatically corrected after you submit your Pull Request by the FOSS [Restyler](https://restyled.io/).
+- This applies the FOSS tool [Prettier](https://prettier.io/) using the default configuration, which is our canonical standard.
+
 ## Markdown linter
 
-We are using <http://remark.js.org/> for linting/checking our markdown syntax. The [.remarkrc.error file](https://github.com/CivicActions/handbook/blob/master/.remarkrc.error) shows a list of all the rules being enforced.
+We are using <http://remark.js.org/> for additional linting/checking our markdown syntax. The [.remarkrc.error file](https://github.com/CivicActions/handbook/blob/master/.remarkrc.error) shows a list of all the rules being enforced.
 
-This linter is run by [Travis CI](travis-ci.md) with each pull request and code merge, and will fail if it finds errors.
+This linter is run by [Gitlab CI](gitlab-ci.md) with each pull request and code merge, and will fail if it finds errors.
 
-### Running the linter locally
+This also outputs a list of suggestions to improve the readbility, language and grammar of the file(s) your pull requests touches. You are encouraged to review and incorporate these.
+
+Finally, the mkdocs command (which is what Readthedocs) uses to build the web version of the documentation is run - this may identify broken links or other issues in your pull request.
+
+### Running the linter and format auto-correct locally
 
 You can check that your markdown complies with the retext and remark locally:
 
@@ -31,7 +38,8 @@ You can check that your markdown complies with the retext and remark locally:
 - Open a terminal and `cd` to your Git root.
 - Run `yarn install` to install the dependencies.
 - Run `./node_modules/.bin/gulp` (you can also pass in `--path=` to a specific file to limit tests to just that).
+- Run `./node_modules/.bin/prettier --write <path>` to automatically format a file.
 
 ## Editors
 
-Markdown can be really easy to use with a good editor such as some of these [text editors](../04-how-we-work/tools/text-editors.md)
+Markdown can be really easy to use with a good editor such as some of these [text editors](../04-how-we-work/tools/text-editors.md) - many editors have plugings that support Prettier and Remark linting for real time fixing and feedback on your edits.

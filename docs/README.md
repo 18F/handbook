@@ -1,7 +1,5 @@
 # EMPLOYEE HANDBOOK
 
-[![Build Status](https://travis-ci.org/CivicActions/handbook.svg?branch=master)](https://travis-ci.org/CivicActions/handbook)
-
 ## CivicActions, Inc.
 
 3527 Mount Diablo Blvd., Unit 269
@@ -10,8 +8,6 @@ Lafayette, CA 94549
 510.408.7510 | main
 888.714.7388 | fax
 civicactions.com
-
-Effective Date TBD (Work in Progress)
 
 ### <a name="purpose"></a>Handbook Purpose
 

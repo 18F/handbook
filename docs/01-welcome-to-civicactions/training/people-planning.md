@@ -1,6 +1,6 @@
 #What is people planning?
 
-At CivicActions, we talk about people planning, not resource planning. People planning should share the request, the impact, the risks, and the constraints. It’s important that we be transparent about why someone is the best fit for staffing a project.
+At CivicActions, we talk about people planning, not resource planning. People planning should share the request, the impact, the risks, and the constraints. It's important that we be transparent about why someone is the best fit for staffing a project.
 
 When discussing staffing for a new project, we consider:
 

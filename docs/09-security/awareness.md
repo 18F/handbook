@@ -64,7 +64,7 @@ Do not rely on SMS text messages for general two-factor authentication as it is 
 
 Once set up, your YubiKey greatly simplifies the process of Two-Factor Authentication (TFA). While at home, keep the key plugged into an unused USB port and simply touch the button if asked to authenticate. This saves time while enabling the strongest security. While on the road, the nearly indestructible YubiKey attaches easily to your keychain _(and should only be inserted when authenticating)_.
 
-- See "[Let’s get your YubiKey to work](https://yubico.com/start)" (from Yubico) on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals), [LastPass](https://www.yubico.com/works-with-yubikey/catalog/lastpass-premium-and-families/), [GitHub](https://www.yubico.com/works-with-yubikey/catalog/github/) and many other services.
+- See "[Let's get your YubiKey to work](https://yubico.com/start)" (from Yubico) on how to use TFA with: [GMail](https://www.yubico.com/why-yubico/for-individuals/gmail-for-individuals), [LastPass](https://www.yubico.com/works-with-yubikey/catalog/lastpass-premium-and-families/), [GitHub](https://www.yubico.com/works-with-yubikey/catalog/github/) and many other services.
 
 While YubiKey is the easiest to use on a daily basis, if you lose it you could get locked out of all your systems so be sure that you have set up [Two-Factor Redundancy and TFA Backup Codes](#two-factor-redundancy-and-tfa-backup-codes).
 
@@ -84,7 +84,7 @@ As a final, crucially important step, **_you must have a backup second factor fo
 SMS can often be an easy backup, but it is known to be insecure. Most services that provide TFA provide multiple second factor options, and we recommend that you set up at least one of several backup strategies for each TFA-enabled service you use:
 
 - Have a second YubiKey in safe keeping (the author of this article has three).
-- [Authy](#authy] and [LastPass Authenticator](#lastpass-authenticator) provide ever-changing 6-digit codes and can securely backup to the cloud, so if you lose your phone you can pull your information back out of the cloud when setting up your new phone. _Hint: store your cloud backup password in LastPass (but make sure you have another mechanism to unlock LastPass!)_
+- [Authy](#authy) and [LastPass Authenticator](#lastpass-authenticator) provide ever-changing 6-digit codes and can securely backup to the cloud, so if you lose your phone you can pull your information back out of the cloud when setting up your new phone. _Hint: store your cloud backup password in LastPass (but make sure you have another mechanism to unlock LastPass!)_
 - Many services offer a downloadable set of single use "backup codes" that can be printed and kept in a safe place. _Hint: you can store backup codes from other services in LastPass in the Notes section._
 
 ## Phishing and Social Engineering

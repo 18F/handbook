@@ -11,7 +11,6 @@
       "remark-validate-links",
       "remark-comment-config",
       "remark-normalize-headings",
-      ["remark-lint-list-item-indent", "space"],
       "remark-lint-final-newline",
       "remark-lint-hard-break-spaces",
       "remark-lint-heading-increment",
