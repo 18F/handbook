@@ -7,11 +7,11 @@
 - [Content audit](research/content-audit-guide.md)
 - [User Personas](research/user-personas-guide.md)
 - [Story Mapping](research/story-mapping-guide.md)
-- [Journey Mapping](research/journey-mapping-guide.md)
-- [Story Conversations](research/story-conversations-guide.md)
-- [Use Cases & User Scenarios](research/use-cases-and-user-scenarios.md)
+- Journey Mapping
+- Story Conversations
+- Use Cases & User Scenarios
 - [Usability Testing](research/usability-testing-guide.md)
-- [Comparative Analysis](research/comparative-analysis.md)
+- Comparative Analysis
 
 ## Design Methods
 
@@ -21,13 +21,13 @@
 - Architecture (IA) sketches
 - [Design Studio](design/design-studio-guide.md)
 - UI sketches/storyboards
-- [Prototyping](design/prototyping-guide.md)
+- Prototyping
 - [Wireframing](design/wireframing-guide.md)
 - Design Patterns
 
 ## Validation Methods
 
 - [Usability Testing](research/usability-testing-guide.md)
-- [Surveys](validation/surveys.md)
-- [Card Sorting](validation/card-sorting.md)
+- Surveys
+- Card Sorting
 - A/B Testing
