@@ -69,19 +69,3 @@ If you're asked by someone else to assist with their prodev, please make time to
 ## Communication
 
 We have a [#prodev](https://civicactions.slack.com/messages/prodev) Slack channel for prodev-related communication.
-
-## Appendix and Other Info
-
-### Ways to expand/improve prodev efforts:
-
-- How do we measure prodev progress? What would be some prodev KPI's?
-  - Graph: hours spent for prodev, per person
-  - Money invested in prodev, maybe per person? Monthly?
-  - Participation numbers: what percentage of the company used at least 1 hour of prodev time? This could be tracked and reported on regularly, with a goal of 100% participation annually. Number of hours annual usage target TBD.
-  - Would also be helpful to find historical participation percentage if the data exists to calculate it
-  - Monthly "state of prodev" report
-- How do we set prodev goals on both an individual and company-wide level?
-
-### Misc Stuff
-
-The target spreadsheet containing all prodev budget requests (fed in from the request form) is located [here](https://docs.google.com/spreadsheets/d/1vPhvHskomF7kBHvVw2WljTqel643SJpdNlyWgwKGaQE/edit#gid=1289927279)
