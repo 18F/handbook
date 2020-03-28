@@ -8,11 +8,20 @@ lint:
     - yarn install --frozen-lockfile
     # We fetch the branches, since suggestions are limited to files changed relative to the master branch.
     - git fetch origin master
-    # This runs a gulp job which runs remark lint checks, both suggestions and warnings.
+    # This runs a gulp job which runs remark lint checks, both suggestions and errors.
     - ./node_modules/.bin/gulp | tee output.log
     - bash -c '! egrep -q "(error\W)" output.log'
   only:
     - external_pull_requests
+
+lint-master:
+  image: node:13
+  script:
+    - yarn install --frozen-lockfile
+    # This runs a gulp job which runs remark lint checks, only errors.
+    - ./node_modules/.bin/gulp errors | tee output.log
+    - bash -c '! egrep -q "(error\W)" output.log'
+  only:
     - master
 
 # This does a test build, which checks for broken internal links.
