@@ -73,6 +73,8 @@ If you are based in an office, you can check out mice, keyboards, and trackpads 
 
 To get replacement/additional peripherals (chargers, dongles, etc.), open a [micropurchase request]({{site.baseurl}}/purchase-requests/).
 
+**TTS policy: Anything connected to a GSA device must be a name brand.** If you're not sure, ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure).
+
 ## Equipment to accommodate disability
 
 GSA provides equipment to accommodate an injury or disability under these conditions:
