@@ -6,98 +6,38 @@ tags:
 - bias
 ---
 
-This section provides a brief overview of the types of hiring actions along with any related process information.
+Remember that we all have unconscious bias, and that hiring is especially susceptible to bias. However, when we recognize and accept bias we can be on the lookout and it’ll be less likely to unconsciously guide our decisions.
 
-If you'd like to see a list of all the open hiring actions across TTS, please visit [the TTSJobs handbook page]({{site.baseurl}}/ttsjobs)
+## Learn How
 
-To learn about the different hiring authorities we use please visit our [hiring authorities]({{site.baseurl}}/hiring-authorities/) page.
+Research shows that the effect of unconscious bias can be profound. For example, [in one study](https://www.nber.org/digest/sep03/w9873.html), “applicants with white names needed to send about 10 resumes to get one callback; those with African-American names needed to send around 15 resumes to get one callback.”
 
-## Types of hiring actions at TTS
+This bias prevents us from achieving the results we want, which is to select the best possible candidates regardless of background.
 
-### Competitive (Career) and Excepted Service hiring actions via the Merit Promotion Process
+Humans are not only biased, but we almost never realize that we’re being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it’ll be less likely to unconsciously guide our decisions.
 
-For more information on hiring via the Competitive Service (Career) Merit Promotion Process or the Excepted Service version of the Merit Promotion Process, please visit the [Promotions]({{site.baseurl}}/promotions/) page of the handbook.
+In that spirit, here are a few ways you can look out and correct for bias during the hiring process: 
 
-### Excepted Service or Competitive Service Hiring Actions filled via open and public competition
-These actions are the most common type of actions across TTS. Information about the process related to these actions can be found in the guide to the [Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit)
+- **Review these guidelines before every interview or round of resume review.** Studies show that we’re less biased when we’re conscious of our own thinking, so continually reminding yourself to be aware will help.
+Remember that we’re especially susceptible to assume that underrepresented minorities — women, people of color, etc. — are less qualified than their white male counterparts. When considering candidates from underrepresented backgrounds, check your thinking about qualification. Ask yourself: am I reading this person’s qualifications the same as if they were white, male, etc?
 
-### TTS internal competitions and developmental opportunities
+- **Continually re-check the guides and scoring rubrics to make sure you’re reviewing fairly.** 
+After a while, you’ll start to feel like you’ve memorized the guides and rubrics. This is good since it’ll help you be more efficient, but our memories are fickle things. The more you remind yourself of the concrete, established metrics, the less likely you’ll be to make “gut” decisions that could be colored by bias.
 
-The following explains the process for initiating TTS internal competitions and developmental opportunities (e.g. details, leads).
+- **Watch out for assessments of candidates that may be colored by age, gender, race, etc.** 
+For example, we tend to be more likely to use words like “aggressive” or “competitive” when describing men, vs “supportive”, “nurturing” when describing women. Are you surprised that an older person has cutting-edge technical skills? Ask yourself if an assessment might be colored by an applicant’s demography.
 
-For detailed information specific to initiating an internal or external detail, please review the [details page]({{site.baseurl}}/assignee-detail) of the handbook.
+- **Don’t check out the candidate on social media, or Google them.** 
+A person’s public profile almost certainly won’t have anything relevant to work, and might instead reveal all sorts of irrelevant information (age, gender, political affiliation, race, etc.). If the candidate application/resume links to a personal website, LinkedIn, or GitHub you can check those out — these are more work-focused, and we can assume a candidate has put what they want an employer to see there. If you use Chrome, the Unbias Me extension (written by Fureigh) can help by removing avatars and names on some websites such as LinkedIn.
 
-Please note:
-
-- There must be a vacant Position Number available for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
-  - If you do not know how many vacancies your team has, please reach out to the Finance team
-- It must be prioritized by the Director of your office
-
-The hiring action owner is responsible for developing job materials and interacting with applicants (employees).
-Talent will assist with the following:
-
-- Reviewing the job announcement
-- Posting the announcement
-- Submitting the PAR action to HR
-
-**Internal Hiring Actions - Best Practices & Recommendations**
-
-- When conducting interviews, you may want to consider building a short [hiring guide](https://docs.google.com/document/d/1JNEMDfUjIpgK5mOl619XVVsxrXn7l9Vzcv-wKOnuwh4/edit) to help ensure that you are covering all of the areas necessary for the role and also to ensure a consistent candidate experience.
-- When selecting an internal candidate you will need to have a discussion with their current supervisor regarding the following:
-    - If they will allow their employee to leave the team (they are not obligated to say yes)
-    - If yes, what will the release date be (note that the effective date must fall on a [payroll period](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars))
-    - Be aware that the candidate may be on a project and have to finish out/reassign their work so may not be able to start on your team as soon as you’d like.  It is up to their current supervisor when they are willing to let them move to your team.
-- Before moving forward with a selection, Talent recommends conducting internal reference checks. Feel free to refer to [this template](https://docs.google.com/document/d/1QL6711NSv3nsIlN_3Rc7DFk8Apubyy8ugQHAAEWRWgc/edit) for guidance.
+- **If you come to a conclusion about a candidate very quickly, before you’ve read the whole resume or finished the interview, spend the rest of the session trying to disprove that conclusion.** 
+Snap judgments are much more likely to be prone to bias than considered ones. We tend to jump to conclusions and then look for evidence to support our hypothesis. To compensate, if you find you’ve reached a Yes/No conclusion very quickly, spend the rest of the session trying to disprove that hypothesis. Explicitly look for evidence that you’re wrong. If you’ve decided immediately that a candidate is not qualified, spend the rest of your time trying as hard as you can to find evidence that they are qualified.
 
 
-#### Job prep
-
-Use the following templates to prepare the posting (make sure to make a copy of each template):
-
-  - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing)
-  - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
-
-Once the TTSJobs Announcement is ready, Talent will:
-
-- Review the job announcement: email [jointts@gsa.gov](mailto:jointts@gsa.gov) and a team member will review
-- Add it to [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack informing everyone of the new opportunity
-- Post it to [TTSJobs Listings]({{site.baseurl}}/ttsjobs/#announcements)
-
-#### Qualification
-
-In addition to the information within the templates, the hiring manager will need to manage the following:
-
-- Developing the interview process
-- Scheduling interviews
-- Making a selection
-- filling out the [candidate pool template](https://docs.google.com/spreadsheets/d/1EN3iLUmmDQ4iX5k-AsDsUPUd_igrEy3BEtlIs5KM59w/edit?usp=sharing)
-- Letting the Talent Team know who was selected for the position
-
-The hiring team is responsible for confirming that applicants meet the qualifications outlined in the posting (i.e. GS level, required experience). For HR to move forward with a selection, the applicant must meet the following qualifications:
-
-- been on their current PD for at least 90 days
-- must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below
-  - if applicant is at the grade below, they will need to provide an updated resume and HR will need to qualify them. **This means Supervisors should NOT announce who they have selected until HR approves the selection**
-- If the role being advertised is a detail and does not have a PD associated with it, then any GS level can apply, unless the HM specifies which GS levels they are accepting.
-
-#### Selection
-
-When the team has determined who they would like to place in the role, they must:
-
-- First confirm with the employee’s supervisor that they are OK with this employee moving to their team
-- Forward the supervisor's approval to Talent at this email: [jointts@gsa.gov](mailto:jointts@gsa.gov). Talent will need to submit a Reassignment PAR to HR.
-
-It is the responsibility of the HM provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
-
-**If you are advertising a detail:** the action can only be submitted for a time period of no more than 120 days. The detail can then be extended for another 120 days If the HM and the employee’s supervisor agree to extend.
 
 
-### TTS Hiring - Prioritization process
+  
 
-For an overview of the way in which hiring actions are collected, prioritized and managed read our [TTS Hiring - Prioritization Process](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit?usp=sharing)
 
---------------------------------------------------------------------------------
 
-### Still have questions?
 
-**General questions** Please reach out to TTS Talent via [#tts-
