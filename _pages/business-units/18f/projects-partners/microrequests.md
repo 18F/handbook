@@ -16,7 +16,7 @@ A microrequest is a piece of carefully scoped work that can be completed quickly
 
 ## What is the process for making a microrequest?
 
-Describe your need in the #microrequests channel, where one of our channel managers will help to scope it and will then submit a [staffing request](https://github.com/18F/staffing/issues). Staffing leads will then work to identify the right people to help.
+Describe your need in the #microrequests channel, where one of our channel managers will help to scope it and will then submit a [staffing request](https://github.com/18F/staffing/issues). Staffing leads will then work to identify the right people to help. Please do not request specific people when making your requests.
 
 The microrequest channel managers will make the determination about whether the description of the work matches the definition of a microrequest above. If the work is beyond the scope of a microrequest, we will make our best effort to complete the work, but will not put existing project work at risk. 
 
