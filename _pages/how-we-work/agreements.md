@@ -34,7 +34,7 @@ Follow the steps below. The process largely depends on how quickly the client pr
 
 ### Program Responsibilities
 
-1. For 18F projects, complete a [cost estimate](https://drive.google.com/open?id=0BwzPQaT19ZdofjhPRGRhLW1BWGNQc1kzTHhZbDA2YW15UzhMd05jWDYxdEtob18yTEJkbTQ).
+1. For 18F projects, complete a [cost estimate](https://docs.google.com/spreadsheets/d/1x87VlJ_geO2a0lekKQHsXSVyMe0D7PPMVISN6OwDXPw/edit#gid=0).
 2. Revise and edit the Statement of Work (see SOW templates listed above) with the client.
 3. Ask the client to complete the [IAA Preparation Survey](https://docs.google.com/forms/d/e/1FAIpQLSewf-GlKoHwnF5S_HAYAqMwLigFIZ5tha9D92l6wD38WhYdrw/viewform). If the client cannot complete the Google Form, please use the [PDF version of the survey](https://drive.google.com/drive/u/0/folders/1oVB660LSPhD-kAvy2fIFAItiA_4oTSzT). This form must be submitted by the client before moving to the next step.
 

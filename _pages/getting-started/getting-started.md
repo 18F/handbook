@@ -209,9 +209,9 @@ For more details on the federal budget process, government shutdowns, our fundin
 
 ### Billability
 
-You will hear about "billability" in TTS, and if you are in 18F, it will be a regular conversation. In order to recover costs, the ASF-funded offices need to bill their clients. Because 18F rotates projects frequently, billing is on-going and tracked through Tock. 
+You will hear about "billability" in TTS, and if you are in 18F, it will be a regular conversation. In order to recover costs, the ASF-funded offices need to bill their clients. Because 18F rotates projects frequently, billing is on-going and tracked through Tock. Your project commitments should be captured by the [#18f-staffing](https://gsa-tts.slack.com/messages/18f-staffing/) team in the [staffing GitHub repo](https://github.com/18f/staffing/issues).
 
-Not everything 18F does is a billable project, and that's okay. Most people are expected to bill 32 hours a week, leaving 8 hours for things that aren't related to a partner or a project. This "non-billable" work is often the glue that holds the organization together: guilds, working groups, internal tools and documentation. 
+Not everything 18F does is a billable project, and that's okay. Most people are expected to bill a minimum of 32 hours a week, leaving up to 8 hours for things that aren't related to a partner or a project. This "non-billable" work is often the glue that holds the organization together: guilds, working groups, internal tools and documentation. 
 
 You can learn more about billing expectations and time tracking in the [Tock Handbook pages]({{site.baseurl}}/tock/).
 

@@ -49,7 +49,7 @@ Here are some tips for employees that frequent an office:
   </li>
   <li>BookIT! can remember your office location so you won't have to scroll through drop-down menus every time you need to reserve a meeting room. To save your office location settings, go to <code>Profile → View Your Profile → Edit Profile.</code>   </li>
   <li>BookIT! also allows you to add "delegates," or people who can book rooms and/or check in on your behalf. To do that, go to <code>Profile → View Your Profile → Delegates → Edit Profile</code>.</li>
-  <li>Some employees have expressed difficulty in logging into BookIT! If you're having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the 18F org they should be able to add you to the list in a day.</li>
+  <li>Some employees have expressed difficulty in logging into BookIT! If you're having difficulty, try bookmarking <a href="https://bookit.gsa.gov/mobile/auth/spnego/spnegoLogin.jsp">the BookIT! login page</a>. It should immediately ask for your ENT password. In DC, you can also email <a href="mailto:1800ftenantsupport@gsa.gov">1800tenantsupport@gsa.gov</a> and ask to be added to the TTS org they should be able to add you to the list in a day.</li>
  </ul>
 
 ## Employee Express
@@ -87,17 +87,15 @@ They are available 6am-9pm ET. If you need to reset your ENT password, follow [t
 
 ## Meeting Space
 
-<a href="https://meet.gsa.gov/">Meeting Space</a> is the service you'll use to create your own conference call line, as opposed to our usual video calls in <a href="https://meet.google.com/">Google Hangouts Meet</a>. Hangouts Meet allow up to 99 participants plus a host: Meeting Space is usually only needed if you'll go beyond that number or your participants can't use Hangouts Meet. Here's how to create a Meeting Space call line:
+[GSA Meeting Space (a.k.a. Adobe Connect)](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/online-meetings/meeting-space-adobe-connect) can be used to create an online conference or a conference line. To create a call line:
 
-1. Log in. Click `My Profile → My Audio Profiles`.
+1. Go to [`My Profile → My Audio Profiles`](https://meet.gsa.gov/admin/my-profile/tele-profiles).
 2. On the left hand side click `Intercall Audio Profile` to select it.
 3. The right hand side of the screen will display the Intercall Audio Profile information that includes the conference code, leader pin, and conference phone number information. It'll look greyed out, but that's okay unless you want to edit it---for example, to change the PIN---if so, the edit button is at top right of that panel.
 
 `My Audio Profile` is the only place that you will find the PIN needed to start any audio call outside of the meeting room.
 
 That's it: your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you _do not_ need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code.
-
-If you'd already set this up pre-February 2019, you may need to update it. Please reference the topical IT Insider email from February 2019 for instructions.
 
 ## Office supplies
 

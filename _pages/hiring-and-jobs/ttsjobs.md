@@ -35,15 +35,13 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Monday, December 2nd through Friday March 27th
+- [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Monday, December 2nd through Friday May 15th
 
 - [PIF - Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow/) - open Wednesday, January 29th through Monday, May 4th
 
 ### Internal only competitions
 
-- [Cloud.gov Consulting Engineer](https://docs.google.com/document/d/1_TBglbcB-Q_O7HZwi81Tg2qu46VF8P4bcL3qp14fZhk/edit#) - open Thursday, February 13 through Thursday, February 27
 
-- [Lead UX Designer @ login.gov](https://docs.google.com/document/d/1ynWveJSS_Eo9ZHxa2fm3mXyYWr_RKN6iZt81eo_A1So/edit?ts=5e430196) - open Friday, February 14 through Friday, February 21
 
 ## Opportunities with partners
 
@@ -52,6 +50,12 @@ If you know an awesome person for a TTS role or just know a great person that yo
 For any TTS staff interested in learning what it’s like to transition from TTS to USDS or just what it's like to work at USDS in general, a few of the TTS alums have offered to make themselves available for some informational discussions. If you’re interested in learning more, simply fill out this [USDS Informational Meeting Request form](https://docs.google.com/forms/d/e/1FAIpQLSfzbkhF6ahHv8-mu3BOpl6l7qg_kVyHuGUpDMcA-cPW60BfoQ/viewform?usp=sf_link) and someone from USDS will reach out to get something set up.
 
 Be sure to stay informed of current job postings relevant to technology transformation in TTS and with other agencies by joining the #TTS-jobs slack channel. If you want to be notifed about opportunities with other federal agencies please join the and #wg-govcareer slack channels.  We encourage TTS staff to post external federal career opportunities on the #wg-govcareer slack channel se channels to help others be aware of permanent, career opportunities.  TTS staff can post opportunities advertised by our federal partners to help them attract the engineering, product management, leadership talent they may require to further facilitate their technical transformation.  
+
+**Office of Personnel Management (OPM)**
+
+[GS 13 UX/UI Designer](https://www.usajobs.gov/GetJob/ViewDetails/562675400) Applications being accepted until 4/6/2020
+
+[GS 14 UX/UI Designer](https://www.usajobs.gov/GetJob/ViewDetails/562674400)  Applications being accepted until 4/6/2020
 
 ---------------------------------------------------------------------
 

@@ -16,7 +16,7 @@ Because Slack is a web application, there’s no installation necessary. You can
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
 - **[Add yourself to our custom emojis](https://gsa-tts.slack.com/customize/emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Post your emoji (and any other custom emojis you add) to the [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY) channel.
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
-- **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [18F's list of alternatives](../sensitive-information/#tools).
+- **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [list of alternatives](../sensitive-information/#tools).
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack and any audio or video transmitted using a Slack Call.
 
 ## Usage of TTS's Slack
@@ -236,6 +236,7 @@ Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archiv
 
 Please keep #news posts limited to information that the entire team needs to know. This includes things like:
   
+- Major events impacting all of TTS or a TTS Business unit
 - Required trainings
 - Necessary security and compliance actions
 - Policy changes or reminders
@@ -283,7 +284,7 @@ Some channels may have particular guidance for getting help, which you can usual
 - [Charlie](https://gsa-tts.slack.com/team/charlie), a.k.a. _El Hubot Real_: our [Hubot instance](https://github.com/18F/18f-bot). Knows all kinds of tricks. To get a list of them, send Charlie a direct message with the word `help`.
 - [coffeemate](https://gsa-tts.slack.com/team/charlie): send a message with `coffee me` in a public channel or direct message @Charlie (El Hubot Real) with `coffee me` to set up a virtual coffee/tea with a random coworker.
 - [Dolores Landingham](https://gsa-tts.slack.com/team/mrs_landingham): our onboarding bot. Ask for access in [#wg-onboarding](https://gsa-tts.slack.com/archives/wg-onboarding).
-- [:evergreen_tree: bot](https://github.com/18F/hubot-slack-github-issues#hubot-slack-github-issues): This bot allows you to “tag” Slack messages as information that should be in the 18F Handbook. If you add an 🌲 (`evergreen_tree`) reaction to a Slack message, a bot will open [a GitHub issue in the 18F Handbook repository](https://github.com/18F/handbook/issues) with a link to that message. The issue serves as a reminder to integrate the linked information into the handbook.
+- [:evergreen_tree: bot](https://github.com/18F/hubot-slack-github-issues#hubot-slack-github-issues): This bot allows you to “tag” Slack messages as information that should be in the TTS Handbook. If you add an 🌲 (`evergreen_tree`) reaction to a Slack message, a bot will open [a GitHub issue in the Handbook repository](https://github.com/18F/handbook/issues) with a link to that message. The issue serves as a reminder to integrate the linked information into the Handbook.
 - [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-tts.slack.com/customize/emoji)). **Do not include private or sensitive information in Slackbot automatic responses.**
 - [Standup Bot](https://gsa-tts.slack.com/team/standup-bot): Can be invited into your channel with `/invite @standup-bot` and asked to do text standups. You can learn how to configure it by sending the bot a direct message with the word `help`. Note: this bot only works in public channels.
 
@@ -309,9 +310,15 @@ If you're interested in learning more about the bots, or perhaps contributing to
 ### Channel naming conventions
 
 - Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
-- Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. Feel free to join a working group or guild channel even if you are not actively part of the group.
 - Channels that end with `-partner` include partners from other agencies.
 - Channels that end with `-public` may include members of the public.
+
+Channels focused on TTS practices have their own conventions:
+- Channels that begin with `wg-` are for working groups.
+- Channels that begin with `g-` are for guilds. 
+- Channels that begin wiht `c-` are for 18F communities.
+
+Feel free to join any of these practice-focused groups even if you are not actively part of the group and are just interested.
 
 ### Shortcuts
 
@@ -330,6 +337,10 @@ If you're interested in learning more about the bots, or perhaps contributing to
 - Press `Command + K` or `Command + T` to switch between channels and direct messages by name.
 - Press `Command + [` and `Command + ]` to jump back and forth along your history of DMs/channels.
 - To mark messages as unread, click a message on your phone and select _mark unread_ or press `Alt` and then click your mouse to do so on your desktop.
+
+## Connectivity issues
+
+If you are having connectivity issues with Slack, see the [Slack status site](https://status.slack.com/) for more information, and move to [Hangouts Chat](https://support.google.com/a/users/answer/9300511?hl=en) or email.
 
 --------------------------------------------------------------------------------
 

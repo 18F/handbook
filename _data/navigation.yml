@@ -81,9 +81,23 @@ primary:
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
-      - text: Performance management
+      - text: Performance management overview
         url: performance-management
         internal: true
+      - text: Important dates
+        url: performance-management-dates/
+        internal: true
+      - text: HRLinks steps
+        url: performance-management-hrlinks-steps/
+        interal: true
+      - text: Employee resources
+        url: performance-management-employee-resources/
+        internal: true
+      - text: Supervisor resources
+        url: performance-management-supervisor-resources/
+        internal: true
+
+
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
@@ -120,6 +134,9 @@ primary:
       - text: Internal TTS Opportunities
         url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
         internal: false
+      - text: Unconscious Bias
+        url: unconscious-bias/
+        internal: true
   - text: General information and resources
     href: /#general-information-and-resources
     children:
@@ -298,6 +315,9 @@ primary:
                 internal: false
           - text: 18F projects
             children:
+              - text: 18F business development
+                url: 18f-bd/
+                internal: true
               - text: Consulting with partners
                 url: how-we-relate-to-partners/
                 internal: true
