@@ -1,6 +1,6 @@
 #What is people planning?
 
-At CivicActions, we talk about people planning, not resource planning. People planning should share the request, the impact, the risks, and the constraints. It's important that we be transparent about why someone is the best fit for staffing a project.
+At CivicActions, we talk about people planning, not resource planning. People planning should share the request, the impact, the risks, and the constraints. It's important that we be transparent about why someone is the best fit for staffing a project. [Review the people planning presentation slidedeck](https://docs.google.com/presentation/d/1r-vcHcygxP5x0B7ZqUy1DVnlH7H3Fk7HjWVFS_LnzbU).
 
 When discussing staffing for a new project, we consider:
 
@@ -8,7 +8,7 @@ When discussing staffing for a new project, we consider:
 - What does Forecast look like?
 - Is the person willing and interested in the project?
 
-## Slack people-planning channel
+##Slack people-planning channel
 
 People planning is largely managed on slack, in the #people-planning channel. Anyone is welcome to join this channel and participate in conversations. This channel is often used by project managers to ask for support, or to offer up a team member who is about to have available time for a new project. When a team member is the named person, we use @ mentions to include them in the conversation. After decisions are made, a project manager updates Forecast and communicates with impacted teams about upcoming changes.
 
