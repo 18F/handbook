@@ -53,7 +53,7 @@ The Contracting Officer’s Representative (COR) helps the Contracting Officer (
 
 The Federal Acquisition Certification for Contracting Officer’s Representatives (FAC-COR) contains three levels of certification that allows for appropriate training and experience for CORs managing a range of various contracts from low-risk to high-risk and complex acquisitions. 
 
-CORs: Review [FAC-COR Requirements](https://docs.google.com/document/d/1HzbEv6yQn6pWYl1MDImeLW6ShedcRsekSCBe54Nsnc8/edit#heading=h.aizxbe137goh) for education, experience, training requirements for each FAC-COR level. Refer to [FAITAS Frequently Asked Questions](https://drive.google.com/file/d/185q29ESV_h8zj4U2UscdH0rVxoSGnpSJ/view) to learn how to apply for training. If you have questions, please Slack [#fac-cor]((https://gsa-tts.slack.com/messages/fac-cor)) and tag @michellepet, TTS-Bureau Certification Manager for further assistance.  
+CORs: Review [FAC-COR Requirements](https://docs.google.com/document/d/1HzbEv6yQn6pWYl1MDImeLW6ShedcRsekSCBe54Nsnc8/edit#heading=h.aizxbe137goh) for education, experience, training requirements for each FAC-COR level. Refer to [FAITAS Frequently Asked Questions](https://drive.google.com/file/d/185q29ESV_h8zj4U2UscdH0rVxoSGnpSJ/view) to learn how to apply for training. If you have questions, please Slack [#fac-cor](https://gsa-tts.slack.com/messages/fac-cor) and tag @michellepet, TTS-Bureau Certification Manager for further assistance.  
 
 ### I’ve taken the FAC-COR training and received a COR designation letter, now what?
 
