@@ -41,7 +41,7 @@ You can find more information on schedule types on [GSA Insite](https://insite.g
 ### If you work a full-time telework schedule (often called virtual or remote) you:
   * telework full-time from your home address, which is your official worksite, and is used to determine your locality pay and travel cost reimbursement.
   * need both your supervisor and your Assistant Commissioner to approve your full-time telework schedule.
-  * need a full-time telework agreement from [GSA Telework Insite Page](https://insite.gsa.gov/portal/category/513630) signed by you and your supervisor each time you change jobs or supervisors. Follow [this guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/11/Job-Aid_Telework-for-Employees_FINALv2.pdf) for how to create and submit the agreement.
+  * need a full-time telework agreement from [GSA Telework Insite Page](https://insite.gsa.gov/portal/category/513630) signed by you and your supervisor each time you change jobs or supervisors. Follow [this guide](https://corporateapps.gsa.gov/corporateapps/files/Create_Submit_Regular_AgreementEmployees.pdf) for how to create and submit the agreement.
   * must send any updates to your regular telework schedule to your timekeeper.  For example, if you change or add days during the week or if you permanently add/remove telework days from your regular schedule
   * send questions about Full-time Agreements to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov).
   * need to be classified in GSA HR systems as a full-time teleworker.  
