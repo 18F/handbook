@@ -12,6 +12,8 @@ tags:
 
 This page contains step-by-step instructions for employees and supervisors on how to process and approve performance plans in HR Links.
 
+If you're having issues logging into HR Links while using Google Chrome, please use these [instructions to clear you site cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
+
 ## HR Links performance management steps
 
 ### Creating a new performance plan
