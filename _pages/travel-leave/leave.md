@@ -54,6 +54,7 @@ It’s simple, but slightly counter-intuitive. Here’s how:
 
 ### HR Links tips
 
+- If you're having issues with logging into HR Links while using Google Chrome, please use these [instructions to clear you site cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing)
 - Partial day requests cannot be made in the middle of a multi-day request; more than one request will need to be made
 - AWS schedules are automatically factored into HR Links timekeeping
 - ETAMS/reconciliation is no longer needed because time off requests and time cards are linked in HR Links
