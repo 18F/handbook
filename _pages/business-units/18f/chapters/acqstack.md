@@ -46,9 +46,7 @@ In pursuit of this strategy, we:
 
 ### How we communicate
 
-The majority of our conversations take place on Slack and video.  There are a number of Slack channels for acquisition discussions. 
-
-Team meetings are generally over Google Meet and Zoom. If you would like your own Zoom account, hop on over to [#admins-zoom](https://gsa-tts.slack.com/messages/admins-zoom/) to request one.
+The majority of our conversations take place on Slack and video.  There are a number of Slack channels for acquisition discussions.
 
 ### Stuff to do, sign, and read
 

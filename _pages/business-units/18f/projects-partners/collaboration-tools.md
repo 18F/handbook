@@ -58,13 +58,13 @@ Here are some common barriers to using Slack and workarounds to try:
 
 #### Video conferencing
 
-**[Google Meet]({{site.baseurl}}/google-meet/) and [Zoom]({{site.baseurl}}/zoom/)** enable staff all over the country to video chat and screenshare in remote meetings. We've found that video calls help teams stay connected and are easier to manage than conference calls for large groups.
+Video conferencing tools enable staff all over the country to video chat and screenshare in remote meetings. We've found that video calls help teams stay connected and are easier to manage than conference calls for large groups. [Options offered by TTS.]({{site.baseurl}}/meetings-and-meeting-tools/)
 
 <details markdown="block">
 <summary>Compliance and records considerations</summary>
 
-- [Zoom for Government has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/zoom-for-government) Moderate Impact authorized since April 2019. Agencies using the service include GSA, DHS, and Customs and Border protection.
-- [Google G Suite has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/google-g-suite) Moderate Impact authorized since January 2016. Agencies using the service include GSA, DOE, DHS, and others.
+- [Zoom for Government has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/zoom-for-government)
+- [Google G Suite has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/google-g-suite)
 - Recordings of meetings are records and should be treated as such.
 </details>
 
