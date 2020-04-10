@@ -20,6 +20,7 @@ Send an official email to your supervisor and [leavingTTS@gsa.gov](mailto:leavin
 Please include the following information:
 
 - your **termination date** (the last day of your term or the last official day that you've selected), which should be at least two weeks out. (You can find the last day of your term in [eOPF](https://eopf.opm.gov/gsa/) by finding the most recent SF-50 with type `EXC APPT NTE` or `EXT OF APPT NTE` and looking at box 5-B.)
+- your **security clearance level** if it is above Public Trust (i.e. Secret or TS/SCI) so that a debriefing meeting can be shceduled, if necessary, with Security.
 - your **home address**. This will ensure that GSA HR enters the correct information on your final SF-50 so that you can receive all of your documents on time and to the correct address.
 - your **personal email** so that if, or when, you wish to request your FERS refund contributions HR can correspond with you after your departure with status/updates on this request.
 
@@ -64,7 +65,7 @@ If you have any questions, please contact [Mary Robinson (GSA HR)](mailto:marya.
 
 ### 6. Complete the clearance checklist
 
-Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messages/talent/)) will set time with you to complete the [employee clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing).
+Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messages/talent/)) will set time with you to complete the [GSA Pre-exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist).
 
 ### 7. Return your equipment
 
