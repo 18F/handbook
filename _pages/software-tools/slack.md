@@ -20,13 +20,13 @@ Slack is a chat client that provides us with a centralized way to communicate wi
 Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff. Some things you'll want to remember, especially if you're new to Slack:
 
 - **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don’t say something on Slack that you wouldn’t feel comfortable appearing on the news.
-- **Customizing your profile** by adding your location and [personal pronouns](http://pronoun.is/)to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. You can also add a lot of information in your profile that will help people get to know you and work with you.
+- **Customizing your profile** by adding your location and [personal pronouns](http://pronoun.is/)to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Remember to add other helpful info in your profile while you're in there.
 - **The advanced settings section** provides an option for _only showing channels that have unread messages._ This is useful if you’re a member of a lot of channels.
 - **Click the timestamp** on any post to go to the archival view of it. This is helpful if you’d like to cross-post a link to a message in another channel.
 - **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
 - **If you’re interested in tracking specific keywords across Slack,** set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
 - **To add an RSS feed to any channel**, type `/feed subscribe <RSS URL>`.
-- **Never use Slack to share secure information.** If you want to say something private, it’s easy to ask someone to hop on a call. (See the [shortcuts]({{site.baseurl}}/slack/#shortcuts) below.)
+- **Never use Slack to share secure information.** If you want to say something private, it’s easy to ask someone to hop on a call.
 - **You can use Slack as an archival system.** It has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for that in Slack before asking.
 - You can also search by tagged emoji. To see all messages tagged with a particular emoji, search Slack for `has:{{emoji_name}}` (for example `has::evergreen_tree:`).
 - **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.
@@ -102,7 +102,7 @@ If a shared channel does not produce good results, or causes a burden, we don't 
 
 [TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. However, when we say "public channels" on this page, we mean channels open to all members of the public.)
 
-Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a project](#external-collaborators) can also be invited into [public channels](#the-public). Fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link).
+Friends with `.gov`/`.mil` email addresses who aren't collaborating on a project can be invited into public channels. Fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link).
 
 Treat these public channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document. 
 
