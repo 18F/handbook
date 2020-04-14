@@ -32,6 +32,14 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 You can [request a loaner PC through the IT Service Desk](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
 
+### Switching to PC from Mac
+
+Submit a [Hardware Request](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=c73f4b527897a400ce3ddff91a649434&sysparm_category=2318125b7cec0100a6e757fe35f45f9f&catalog_id=e0d08b13c3330100c8b837659bba8fb4) and specify that you are looking to trade in your Mac
+
+### Hardware Requests
+
+You can [request a loaner PC through the IT Service Desk]
+
 ### Tips
 
 - Run the [laptop script](https://github.com/18F/laptop) which will turn your Mac into an awesome web development machine.
