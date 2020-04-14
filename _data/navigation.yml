@@ -97,7 +97,6 @@ primary:
         url: performance-management-supervisor-resources/
         internal: true
 
-
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
@@ -447,9 +446,6 @@ primary:
           - text: Slack (chat client)
             url: slack/
             internal: true
-          - text: Zoom (video conferencing)
-            url: zoom/
-            Internal: true
       - text: Network & VPN tools
         children:
           - text: AnyConnect (VPN client)
