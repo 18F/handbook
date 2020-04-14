@@ -8,7 +8,8 @@ Slack is a chat client that provides us with a centralized way to communicate wi
 
 ## Getting started
 
-- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
+- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal 
+](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
 - **[Add yourself to our custom emojis](https://gsa-tts.slack.com/customize/emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Post your emoji (and any other custom emojis you add) to the [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY) channel.
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
@@ -20,7 +21,7 @@ Slack is a chat client that provides us with a centralized way to communicate wi
 Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff. Some things you'll want to remember, especially if you're new to Slack:
 
 - **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don’t say something on Slack that you wouldn’t feel comfortable appearing on the news.
-- **Customizing your profile** by adding your location and [personal pronouns](http://pronoun.is/)to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Remember to add other helpful info in your profile while you're in there.
+- **Customizing your profile** by adding your location and [personal pronouns](http://pronoun.is/) to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Remember to add other helpful info in your profile while you're in there.
 - **The advanced settings section** provides an option for _only showing channels that have unread messages._ This is useful if you’re a member of a lot of channels.
 - **Click the timestamp** on any post to go to the archival view of it. This is helpful if you’d like to cross-post a link to a message in another channel.
 - **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
@@ -68,16 +69,16 @@ You may want to invite partners, contractors, etc. to specific project channels 
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
 1. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
-A small number of close TTS collaborators at GSA may be full Slack members at the discretion of the head of infrastruture. Examples might include the Chief Information Officer or FAS Commissioner. Ask in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) if you'd like to add someone to this category.
+A small number of close TTS collaborators at GSA may be full Slack members at the discretion of the head of infrastructure. Examples might include the Chief Information Officer or FAS Commissioner. Ask in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) if you'd like to add someone to this category.
 
-## Shared Channels
+## Shared channels
 
-Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-). Shared channels are a more efficient and economic way to work with people in other Slack workspaces than managing them in our Slack workspace as guests, especially when we using multiple channels for a project. All records in shared channels are [retained and available for Corporate Exports](https://get.slack.help/hc/en-us/articles/204897248-Guide-to-Slack-import-and-export-tools).
+Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-). Shared channels are a more efficient and economic way to work with people in other Slack workspaces than managing them in our Slack workspace as guests, especially when using multiple channels for a project. All records in shared channels are [retained and available for Corporate Exports](https://get.slack.help/hc/en-us/articles/204897248-Guide-to-Slack-import-and-export-tools).
 
 ### Requesting a new shared channel
 When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it. Please specify if you want to use a new channel or want us to share an existing channel. Please also give us a heads up before partners send us a sharing request.
 
-### Guidance for using Shared Channels
+### Guidance for using shared channels
 When participating in shared channels, please keep in mind:
 
 * While people in similar organizations share areas of focus, we should treat our collaborators in these channels as **members of the public** and only share information we would put into public channels. Anything said in those channels is a public announcement and could end up posted on twitter by someone else, for example. This does not apply to shared channels with an active agreement between us and the people in the other workspace.
@@ -108,7 +109,7 @@ Treat these public channels like you would a livestreamed event on GSA's YouTube
 
 Members of the public must also comply with GSA standards and the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct). 
 
-For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there witout a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
+For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there without a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
 To invite people to a public Slack channel, send them to [chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
 
@@ -185,7 +186,7 @@ However, there are currently _no_ assurances that Slack employees can't read any
 
 This is the case with most software as a service offerings. Slack has multiple mechanisms in place to audit this access, and ensure it is only done with the appropriate authorizations. Regardless, we currently do not, and may never, authorize Slack to handle [sensitive information](../sensitive-information/)).
 
-## Integrations (apps bots)
+## Integrations (apps, bots)
 
 We have a few different bots you'll see in Slack:
 
@@ -197,19 +198,19 @@ We have a few different bots you'll see in Slack:
 
 If you're interested in learning more about the bots, or perhaps contributing to them, pop into [#bots](https://gsa-tts.slack.com/archives/bots/).
 
-### New Integrations
+### New integrations
 
 You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. You can also freely add new configurations for "Incoming WebHooks," which is on a [different page](https://gsa-tts.slack.com/apps/manage/custom-integrations). For any new integration types, please follow the process below.
 
 **[Integration request form](https://goo.gl/forms/pgxtz7xwIWubF0go1)**
 
-Note this is only necessary for new bots or *types* of integrations—approval is not needed for new “configurations” of a previously-approved App. The form should filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
+Note this is only necessary for new bots or *types* of integrations—approval is not needed for new “configurations” of a previously-approved App. The form should be filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
 
 Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-tts.slack.com/help/requests/new) for help.
 
 New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the [TTS](http://www.gsa.gov/portal/category/25729) Slack, fill out the form.
 
-Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreadsheets/d/1karb4OJPFga493-3bnuWFvhFuk18iFlvz-xWC8ZedSQ/edit#gid=161327310). The form can be edited [here](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit).
+Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreadsheets/d/1karb4OJPFga493-3bnuWFvhFuk18iFlvz-xWC8ZedSQ/edit#gid=161327310). [Edit the form](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit).
 
 New integrations/bots need approval from the following:
 
@@ -272,7 +273,7 @@ Please keep #news posts limited to information that the entire team needs to kno
 Channels focused on TTS practices have their own conventions:
 - Channels that begin with `wg-` are for working groups.
 - Channels that begin with `g-` are for guilds. 
-- Channels that begin wiht `c-` are for 18F communities.
+- Channels that begin with `c-` are for 18F communities.
 
 Feel free to join any of these practice-focused groups even if you are not actively part of the group and are just interested.
 
