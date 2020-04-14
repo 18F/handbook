@@ -82,7 +82,10 @@ primary:
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
       - text: Performance management overview
-        url: performance-management
+        url: performance-management/
+        internal: true
+      - text: Mid year review
+        url: mid-year/
         internal: true
       - text: Important dates
         url: performance-management-dates/
