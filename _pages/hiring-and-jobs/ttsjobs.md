@@ -53,11 +53,11 @@ For any TTS staff interested in learning what it’s like to transition from TTS
 
 Be sure to stay informed of current job postings relevant to technology transformation in TTS and with other agencies by joining the #TTS-jobs slack channel. If you want to be notifed about opportunities with other federal agencies please join the and #wg-govcareer slack channels.  We encourage TTS staff to post external federal career opportunities on the #wg-govcareer slack channel se channels to help others be aware of permanent, career opportunities.  TTS staff can post opportunities advertised by our federal partners to help them attract the engineering, product management, leadership talent they may require to further facilitate their technical transformation.  
 
-**Office of Personnel Management (OPM)**
+**Department of Homeland Security**
 
-[GS 13 UX/UI Designer](https://www.usajobs.gov/GetJob/ViewDetails/562675400) Applications being accepted until 4/6/2020
+[GS 14 Human Centered Design Specialist](https://www.usajobs.gov/GetJob/ViewDetails/565188500) Washington, DC location. Closes Friday, April 17
 
-[GS 14 UX/UI Designer](https://www.usajobs.gov/GetJob/ViewDetails/562674400)  Applications being accepted until 4/6/2020
+
 
 ---------------------------------------------------------------------
 
