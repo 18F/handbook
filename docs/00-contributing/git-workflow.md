@@ -34,7 +34,7 @@ Once you are done making commits to your branch, you can then create a PR from y
 
 ## The more advanced way: fork the handbook
 
-__NB: Currently, pull requests submitted from forks of the handbook will not properly interact with the GitLab CI pipeline and will fail their automated tests. Until further notice, the preferred contribution method is to create a branch in the CivicActions/handbook repository and submit a PR from there.__
+**NB: Currently, pull requests submitted from forks of the handbook will not properly interact with the GitLab CI pipeline and will fail their automated tests. Until further notice, the preferred contribution method is to create a branch in the CivicActions/handbook repository and submit a PR from there.**
 
 If you're familiar with the Git fork and pull request (PR) workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 
