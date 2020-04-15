@@ -126,6 +126,10 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 
 To learn about this process please visit the [Hiring page]({{site.baseurl}}/hiring).
 
+## Posting a Detail Opportunity on USAJobs
+
+USA Jobs has an [Open Opportunity](https://openopps.usajobs.gov/) section where you can post or apply to detail opportunties at other federal agencies. You must create a USAJobs account to do either. 
+
 --------------------------------------------------------------------------------
 
 ### Still have questions?
