@@ -30,7 +30,7 @@
 - To request support, do one of the following:
   - Ping the internal support team directly using the @it-help handle in the relevant Slack channel
   - Use the `/halp` slash command in the relevant Slack channel to create a support ticket yourself
-  - To quickly create a ticket directly from a Slack message, click "More actions" and select "Create Halp Ticket". Alternatively, react to the message using the `:ticket:` :ticket: emoji.
+  - To quickly create a ticket directly from a Slack message, click "More actions" and select "Create Halp Ticket". Alternatively, react to the message using the :ticket: emoji.
   - DM any of the support team directly (@zoe, @daven, and @grugnog)
 - Halp will create a Slack thread representing the ticket to track its status and document further discussion
 
