@@ -6,7 +6,7 @@ Git is confusing at first, but our handbook is a great place to learn Git becaus
 
 In this project, The "master" branch is the active branch, with the latest, approved changes, published at [Read The Docs](https://handbook.civicactions.com/en/latest/README/). If you use Workflow 1, you'll be editing the branch directly, but
 
-## Workflow 1: The easy way, via the GitHub UI on the master branch
+## The easy way, via the GitHub UI on the master branch
 
 We recommend this approach for those who are not already familiar with the Git workflow, and who do not have tools for keeping their GitHub forks up to date.
 
@@ -33,6 +33,8 @@ Or, if you want to make other changes on the same branch and have it reviewed at
 Once you are done making commits to your branch, you can then create a PR from your branch to the master branch, which will include all changes.
 
 ## The more advanced way: fork the handbook
+
+__NB: Currently, pull requests submitted from forks of the handbook will not properly interact with the GitLab CI pipeline and will fail their automated tests. Until further notice, the preferred contribution method is to create a branch in the CivicActions/handbook repository and submit a PR from there.__
 
 If you're familiar with the Git fork and pull request (PR) workflow, we definitely recommend forking this repo and making pull requests from your fork. This is the recommended way to contribute.
 
