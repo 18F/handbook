@@ -30,6 +30,7 @@ Resource | Use
 [Create a new performance plan](https://docs.google.com/document/d/1tqQVfc6LwY-NgJHsguw-CCKnviqRfCW4lq4X6h__j6I/edit#) | We recommend creating a performance plan with the new TTS elements even if the employee has an existing FY20 plan
 [Clone a performance plan](https://docs.google.com/document/d/1zOBSSdFrNEU9dGEw5PMHqMDrN1wy8E0V8esrFYySVoc/edit#) | Once a performance plan has been created, it can be cloned for multiple employees
 [Update an existing performance plan](https://docs.google.com/document/d/1zwMty7CRShtfsZuMOPheG18B9Vb1hZw1WrgvCNE1gRc/edit?usp=sharing) | For editing a new or existing FY20 plan
+[Add Leveraging Diversity](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit?usp=sharing) | Required metric for Supervisors in FY20 plan
 Employee checklist | Coming Soon
 Supervisor checklist | Coming Soon
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
