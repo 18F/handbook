@@ -53,11 +53,10 @@ For any TTS staff interested in learning what it’s like to transition from TTS
 
 Be sure to stay informed of current job postings relevant to technology transformation in TTS and with other agencies by joining the #TTS-jobs slack channel. If you want to be notifed about opportunities with other federal agencies please join the and #wg-govcareer slack channels.  We encourage TTS staff to post external federal career opportunities on the #wg-govcareer slack channel se channels to help others be aware of permanent, career opportunities.  TTS staff can post opportunities advertised by our federal partners to help them attract the engineering, product management, leadership talent they may require to further facilitate their technical transformation.  
 
-**Department of Homeland Security**
+**Various Federal Agencies**
 
-[GS 14 Human Centered Design Specialist](https://www.usajobs.gov/GetJob/ViewDetails/565188500) Washington, DC location. Closes Friday, April 17
-
-
+[GS 13-15 CX srategist across various federal agencies](https://performance.gov/cx) LOCATIONS: Washington, DC, Baltimore, MD, Charleston, SC  
+Closes at 300 applications or Monday, April 27
 
 ---------------------------------------------------------------------
 
