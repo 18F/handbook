@@ -31,6 +31,8 @@ You can change your avatar across Google Apps even though Google+ profile editin
 - All Google Meet meetings include telephone dial-in instructions by default. If someone is unable to join using their computer, you can have them dial in or you can call their phone from the Meet.
 - You can start a Google Hangout from Slack by typing `/hangout`.
 - You can make and receive free domestic phone calls from within Gmail or Google Hangouts. Just create a new number with your GSA account at google.com/voice
+- Use the [Google Meet Grid View](https://chrome.google.com/webstore/detail/google-meet-grid-view/ecmogldeoigldjmgieekjifmhaboipmc/related) extension to be able to see a large number of participants at once
+   - Note this is a GSA-pakaged version of [the open source extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension)
 
 ### Fix audio issues
 
