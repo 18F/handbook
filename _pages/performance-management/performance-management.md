@@ -35,7 +35,7 @@ Resource | Use
 ## Who participates in the end of year performance review?
 
 A GSA employee is eligible to be rated by their official Supervisor if they have been on an established Performance Plan for 120 days, beginning with the date that the employee acknowledged the performance plan that was signed by their Supervisor.
-  * ***Note:*** TTS employees who have established a performance plan **before July 17** are eligible to close out their FY19 Performance Plan during the October 1 - November 14 end-of-year performance review cycle.
+  * ***Note:*** TTS employees who have established a performance plan **before July 17** are eligible to close out their Performance Plan during the October 1 - November 14 end-of-year performance review cycle.
 
 ### Who is eligible for the end of year performance bonus?
 
