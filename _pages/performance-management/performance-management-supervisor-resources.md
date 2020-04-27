@@ -15,7 +15,7 @@ This page contains additional resources and trainings for supervisors who are go
 
 ### [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250)
 
-* Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of FY19 performance reviews and to help establish FY20 performance plans.
+* Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of FY20 performance reviews and to help establish FY21 performance plans.
   * *NOTE: Items highlighted in green are particularly important steps*
 
 ### Guidance
@@ -70,9 +70,9 @@ When an employee joins TTS or changes supervisors within TTS, it is important th
 
 #### Performance improvement plans
 
-Employees who will be rated at Level 1 or 2 in any category on their FY19 Performance Plan must be issued a Performance Improvement Plan (PIP)[Level 1 rating] or Performance Action Plan (PAP)[Level 2 rating].  To initiate this process, reach out to [Jim Mulvaney](mailto:james.mulvaney@gsa.gov), TTS’s Employee & Labor Relations Specialist.  Jim will work directly with you to create the PIP/PAP for your team member; supporting [documentation](https://drive.google.com/open?id=1A0V_EX5dFwtmMVrfGKJ9DxPM9_3vF49MRD5LKImIkb8) will need to be submitted to Jim for review when creating the PIP/PAP.
+Employees who will be rated at Level 1 or 2 in any category on their FY20 Performance Plan must be issued a Performance Improvement Plan (PIP)[Level 1 rating] or Performance Action Plan (PAP)[Level 2 rating].  To initiate this process, reach out to [Jim Mulvaney](mailto:james.mulvaney@gsa.gov), TTS’s Employee & Labor Relations Specialist.  Jim will work directly with you to create the PIP/PAP for your team member; supporting [documentation](https://drive.google.com/open?id=1A0V_EX5dFwtmMVrfGKJ9DxPM9_3vF49MRD5LKImIkb8) will need to be submitted to Jim for review when creating the PIP/PAP.
 
-The fully vetted PIP/PAP must be issued to the employee **by the last working day of the FY19 performance cycle, September 30, 2019**.  Please note that PIP/PAPs must be reviewed by Legal, which takes a few days, before those plans can be presented to the employee.
+The fully vetted PIP/PAP must be issued to the employee **by the last working day of the FY20 performance cycle, September 30, 2020**.  Please note that PIP/PAPs must be reviewed by Legal, which takes a few days, before those plans can be presented to the employee.
 
 #### Verifying your direct reports
 
