@@ -20,8 +20,9 @@ For each tool mentioned below, we include links to:
 
 **[Slack]({{site.baseurl}}/slack/)** is an instant messaging tool that uses themed chat rooms (called channels) to help teams quickly communicate on a daily basis, in an open, collaborative way. The 18F team will create a channel for your project in our Slack workspace, which you can access from your web browser. It may be useful to read about [what managers need to know about social tools](https://hbr.org/2017/11/what-managers-need-to-know-about-social-tools) when getting started.
 
-* [Slack Handbook Page]({{site.baseurl}}/slack/)
+* [Slack handbook page]({{site.baseurl}}/slack/)
 * [Slack @ TTS – Internal Guide :lock:](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp)
+• [Slack Admin handbook page]({{site.baseurl}}/slack-admin/)
 
 <details markdown="block">
 <summary> Compliance and records considerations</summary>
@@ -47,7 +48,7 @@ Here are some common barriers to using Slack with partners and workarounds to tr
 
 Video conferencing tools enable staff all over the country to video chat and screenshare in remote meetings. We've found that video calls help teams stay connected and are easier to manage than conference calls for large groups. [Options offered by TTS.]({{site.baseurl}}/meetings-and-meeting-tools/)
 
-* [Meeting Tools Handbook Page]({{site.baseurl}}/meetings-and-meeting-tools/)
+* [Meeting Tools handbook page]({{site.baseurl}}/meetings-and-meeting-tools/)
 * Video Conferencing @ TTS – Internal Guide _(coming soon)_
 
 <details markdown="block">
@@ -76,7 +77,7 @@ Here are some common barriers to using these tools with partners and some workar
 
 **[Google Drive]({{site.baseurl}}/google-drive/)** is a storage and collaboration platform for spreadsheets, slide decks, and text documents. Documents on Google Drive are not public, but can be shared among team members. 18F can give your team access to our Google Drive so everyone can collaborate.
 
-* [Google Drive Handbook Page]({{site.baseurl}}/google-drive/)
+* [Google Drive handbook page]({{site.baseurl}}/google-drive/)
 * Google Drive @ TTS – Internal Guide _(coming soon)_
 
 <details markdown="block">
@@ -103,7 +104,7 @@ Here are some common barriers to using Drive with partners and some workarounds 
 
 **[Trello]({{site.baseurl}}/trello/)** is a project management tool that organizes information into lists. Teams often use it to track specific tasks through different stages (such as backlog, in progress, in review, and done). Trello boards can be private or public.
 
-* [Trello Handbook Page]({{site.baseurl}}/trello/)
+* [Trello handbook page]({{site.baseurl}}/trello/)
 * Trello @ TTS – Internal Guide _(coming soon)_
 
 <details markdown="block">
@@ -131,7 +132,7 @@ Here are some common barriers to using Trello with partners and some workarounds
 
 **[Google Calendar]({{site.baseurl}}/google-calendar/)** is the calendar tool that comes with gmail and G Suite. [The Handbook]({{site.baseurl}}/sharedcalendars/) has guidelines and requirements for providing partners with access.
 
-* [Google Calendar Handbook Page]({{site.baseurl}}/google-calendar/)
+* [Google Calendar handbook page]({{site.baseurl}}/google-calendar/)
 
 <details markdown="block">
 <summary>Compliance and records considerations</summary>
@@ -147,7 +148,7 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 
 **[GitHub]({{site.baseurl}}/github/)** is an online code storage and collaboration platform. 18F will create a repository (commonly called a repo) for the project and use it to store both documents and code. By default, 18F's work with your team on GitHub will be visible to the public. Your 18F team can tell you more about the benefits of working in the open. Teams may also use GitHub, as well as browser add-ons that complement it, to collaboratively track project tasks.
 
-* [Github Handbook Page]({{site.baseurl}}/github/)
+* [Github handbook page]({{site.baseurl}}/github/)
 * Github @ TTS – Internal Guide _(coming soon)_
 
 <details markdown="block">
@@ -167,7 +168,7 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 
 **[Mural]({{site.baseurl}}/murally/)** is an online collaborative whiteboard tool. It allows teams to collectively generate ideas with sticky notes and sorting them around as if they were in the same room. You don't need an account to participate and you can access the tool from any browser.
 
-* [Mural Handbook Page]({{site.baseurl}}/murally/)
+* [Mural handbook page]({{site.baseurl}}/murally/)
 * Mural @ TTS – Internal Guide _(coming soon)_
 
 <details markdown="block">
