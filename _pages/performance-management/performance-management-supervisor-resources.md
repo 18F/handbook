@@ -76,11 +76,11 @@ The fully vetted PIP/PAP must be issued to the employee **by the last working da
 
 #### Verifying your direct reports
 
-**FY19 Audit:** In preparation for the FY19 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in the [FY19 Direct Report Audit Survey](https://forms.gle/oLJJcZ4Cf3DdUGHy8).
-
-All supervisors should complete the FY19 audit by **COB September 24th**, so please fill out the above survey if you have not yet.
-
 **FY20 Audit:** Once the TTS reorg has been completed, the Performance Management team will communicate to Supervisors to do a new audit of their Direct Reports in HR Links by following the instructions in the [FY20 Direct Report Audit Survey](https://forms.gle/oLtit3o2MLsSUonx5).
+
+In preparation for the FY20 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in the FY20 Direct Report Audit Survey.
+
+All supervisors should complete the FY20 audit by COB September 24th, so please fill out the above survey if you have not yet.
 
 #### 1 on 1 performance discussion
 
