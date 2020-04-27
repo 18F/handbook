@@ -147,6 +147,12 @@ An admin will then do one of the following:
 
 If they were a partner, the admin will also set their `Downgraded/disabled on` date in [the user request spreadsheet](https://docs.google.com/spreadsheets/d/1weEbuD1RUqtwTiHCT_roD6tvKkBiQL5nkLe8btxyKHA/edit#gid=1249016991).
 
+### Alumni rules
+
+- **Keep the conversation visible within #alumni and don't DM staff.** For direct communication, use methods available to the general public, such as email.
+- **If you would like documents or materials, you can either use publicly available methods to request that we publish them publicly, or you can file a FOIA request for GSA to release them.** Don't request materials that aren't already public to be sent to you — even if they were non-sensitive or documents that you personally authored while you were here. Note that people formerly in the Senior Executive Service have additional restrictions about what FOIA requests they can make.
+- **Don't share job postings.** This is especially true for your own employer, but applies to postings generally. We don't want our #alumni channel to be providing advantages to any particular company due to someone's access to it. You can use email or other publicly accessible methods to share job postings.
+
 ## Slack admins
 
 Here are the resources used by Slack Admins to track and manage Slack accounts:
