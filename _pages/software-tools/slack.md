@@ -7,8 +7,9 @@ tags:
 Slack is a chat client that provides us with a centralized way to communicate without overloading our inboxes. You can [login online](https://gsa-tts.slack.com/) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.
 
 This page overviews how to get setup with Slack at TTS and covers some best practices.
-– See the [Slack @ TTS :lock:](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp) internal how-to guide 
-– See the [Slack-Admin Handbook Page]({{site.baseurl}}/slack-admin/) for admin instructions
+
+* See the [Slack @ TTS :lock:](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp) internal how-to guide 
+* See the [Slack-Admin Handbook Page]({{site.baseurl}}/slack-admin/) for admin instructions
 
 ## Getting started
 
