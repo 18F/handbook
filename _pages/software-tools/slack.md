@@ -13,11 +13,10 @@ This page overviews how to get setup with Slack at TTS and covers some best prac
 
 ## Getting started
 
-- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal 
-](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
+- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
 - **[Add yourself to our custom emojis](https://gsa-tts.slack.com/customize/emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Post your emoji (and any other custom emojis you add) to the [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY) channel.
-- **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
+- **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack and any audio or video transmitted using a Slack Call.
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [list of alternatives]({{site.baseurl}}/sensitive-information/#tools).
 
@@ -25,14 +24,14 @@ This page overviews how to get setup with Slack at TTS and covers some best prac
 
 Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff. Some things you'll want to remember, especially if you're new to Slack:
 
-- **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don’t say something on Slack that you wouldn’t feel comfortable appearing on the news.
+- **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don't say something on Slack that you wouldn't feel comfortable appearing on the news.
 - **Customizing your profile** by adding your location and [personal pronouns](http://pronoun.is/) to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Remember to add other helpful info in your profile while you're in there.
-- **The advanced settings section** provides an option for _only showing channels that have unread messages._ This is useful if you’re a member of a lot of channels.
-- **Click the timestamp** on any post to go to the archival view of it. This is helpful if you’d like to cross-post a link to a message in another channel.
+- **The advanced settings section** provides an option for _only showing channels that have unread messages._ This is useful if you're a member of a lot of channels.
+- **Click the timestamp** on any post to go to the archival view of it. This is helpful if you'd like to cross-post a link to a message in another channel.
 - **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
-- **If you’re interested in tracking specific keywords across Slack,** set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
+- **If you're interested in tracking specific keywords across Slack,** set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
 - **To add an RSS feed to any channel**, type `/feed subscribe <RSS URL>`.
-- **Never use Slack to share secure information.** If you want to say something private, it’s easy to ask someone to hop on a call.
+- **Never use Slack to share secure information.** If you want to say something private, it's easy to ask someone to hop on a call.
 - **You can use Slack as an archival system.** It has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for that in Slack before asking.
 - You can also search by tagged emoji. To see all messages tagged with a particular emoji, search Slack for `has:{{emoji_name}}` (for example `has::evergreen_tree:`).
 - **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.
@@ -42,6 +41,7 @@ Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff.
 - **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
 
 ### When to use @channel and @here
+
 In general, the larger a channel is, the more careful you should be about using broadcast notifications.
 
 - Type `@channel [message]` to send a notification to everyone in the channel with your message. Use sparingly and only if everyone in the channel needs to see and read your message. When in doubt, ask first. Never use `@channel` in a large channel unless you _really_ know what you're doing.
@@ -109,7 +109,7 @@ Groups are a great way to alert people who might not be in a channel about somet
 
 ## How to make an announcement in #news
 
-Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you’d like to go up in #news:
+Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you'd like to go up in #news:
 
 - **18F employees** ping @commsquad or post in [#outreach](https://gsa-tts.slack.com/archives/news) to get a review of the language. Once it's ready, Dahianna Salazar Foreman can post it.
 - **Acquisitions employees** review your post with Stephen Reilly, and he can post it when it's ready.
@@ -117,7 +117,7 @@ Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archiv
 - **PIF employees** review your post with Joshua Di Frances, and he can post it when it's ready.
 
 Please keep #news posts limited to information that the entire team needs to know. This includes things like:
-  
+
 - Major events impacting all of TTS or a TTS Business unit
 - Required trainings
 - Necessary security and compliance actions
@@ -128,18 +128,18 @@ Please keep #news posts limited to information that the entire team needs to kno
 
 ## Channel names and handy shortcuts
 
-* Teams
-    * 18F - [#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
-    * [OPP](https://gsa-tts.slack.com/messages/opp/)
-    * [PIFs](https://gsa-tts.slack.com/messages/pifs/)
-    * [Office of Acquisition](https://gsa-tts.slack.com/messages/tts-oa/)
-* Locations
-    * [chitown](https://gsa-tts.slack.com/messages/chitown/)
-    * [dc](https://gsa-tts.slack.com/messages/dc/)
-    * [nyc](https://gsa-tts.slack.com/messages/nyc/)
-    * [sf](https://gsa-tts.slack.com/messages/sf/)
-    * [distributed](https://gsa-tts.slack.com/messages/distributed/)
-    * etc.
+- Teams
+    - 18F - [#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
+    - [OPP](https://gsa-tts.slack.com/messages/opp/)
+    - [PIFs](https://gsa-tts.slack.com/messages/pifs/)
+    - [Office of Acquisition](https://gsa-tts.slack.com/messages/tts-oa/)
+- Locations
+    - [chitown](https://gsa-tts.slack.com/messages/chitown/)
+    - [dc](https://gsa-tts.slack.com/messages/dc/)
+    - [nyc](https://gsa-tts.slack.com/messages/nyc/)
+    - [sf](https://gsa-tts.slack.com/messages/sf/)
+    - [distributed](https://gsa-tts.slack.com/messages/distributed/)
+    - etc.
 
 ### Channel naming conventions
 
@@ -149,29 +149,35 @@ Please keep #news posts limited to information that the entire team needs to kno
 
 Channels focused on TTS practices have their own conventions:
 - Channels that begin with `wg-` are for working groups.
-- Channels that begin with `g-` are for guilds. 
+- Channels that begin with `g-` are for guilds.
 - Channels that begin with `c-` are for 18F communities.
 
 Feel free to join any of these practice-focused groups even if you are not actively part of the group and are just interested.
 
 ### Additional shortcuts
 - Type `/me [message]` to “emote” your message. (Just try it.)
-- Type `/mute` to suppress notifications from the channel you’re currently in. You can also turn on desktop notifications for specific channels.
+- Type `/mute` to suppress notifications from the channel you're currently in. You can also turn on desktop notifications for specific channels.
 - Type `/hangout` to start a Google Hangout in the current channel.
 - Type `[message XPOST #channel-name]` to cross-post a message to a different channel while posting it.
 - Type `/remind` to remind yourself to do something in the future.
 - Press `Option + Up` or `Option + Down` to switch between channels and direct messages.
 - Press `Esc` to mark all messages in the current channel as read.
-- Press `Shift + Esc` to mark all messages across all channels as read. Only do this if you’ve caught up in channels for your projects first.
+- Press `Shift + Esc` to mark all messages across all channels as read. Only do this if you've caught up in channels for your projects first.
 - Press `Command + K` or `Command + T` to switch between channels and direct messages by name.
 - Press `Command + [` and `Command + ]` to jump back and forth along your history of DMs/channels.
 - To mark messages as unread, click a message on your phone and select _mark unread_ or press `Alt` and then click your mouse to do so on your desktop.
+
+### Alumni rules
+
+- **Keep the conversation visible within #alumni and don't DM staff.** For direct communication, use methods available to the general public, such as email.
+- **If you would like documents or materials, you can either use publicly available methods to request that we publish them publicly, or you can file a FOIA request for GSA to release them.** Don't request materials that aren't already public to be sent to you — even if they were non-sensitive or documents that you personally authored while you were here. Note that people formerly in the Senior Executive Service have additional restrictions about what FOIA requests they can make.
+- **Don't share job postings.** This is especially true for your own employer, but applies to postings generally. We don't want our #alumni channel to be providing advantages to any particular company due to someone's access to it. You can use email or other publicly accessible methods to share job postings.
 
 ## Connectivity issues
 
 If you are having connectivity issues with Slack, see the [Slack status site](https://status.slack.com/) for more information, and move to [Hangouts Chat](https://support.google.com/a/users/answer/9300511?hl=en) or email.
 
---------------------------------------------------------------------------------
+---
 
 #### Still have questions?
 
