@@ -8,7 +8,7 @@ Something went "bump" in the night (or the day)? This document explains what to 
 
 An “incident” or “information security incident” is a violation - or an imminent threat of violation - of information security or privacy policies, acceptable use policies, or standard security practices.
 
-If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to the [GSA IT Service Desk] <a href="mailto:itservicedesk@gsa.gov?subject=Security Incident">
+If you detect any unusual or suspicious activity on your computer, DO NOT turn off your computer. By turning off the computer, valuable evidence may be lost. If you observe or suspect prohibited material or programs on GSA systems, or inappropriate use of GSA systems, report it immediately to the <a href="mailto:itservicedesk@gsa.gov?subject=Security Incident">GSA IT Service Desk</a>.
 
 It is critical that you notify GSA IT within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, [contact them another way](https://insite.gsa.gov/employee-resources/information-technology).
 
@@ -94,8 +94,7 @@ The soundness/fitness of purpose of our systems or information. So if a backup w
 
 - Incident? Report in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel
 - Questions? Ask in the [#g-security-compliance](https://gsa-tts.slack.com/messages/g-security-compliance) Slack channel
-- You can use this link to quickly
-  <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov"> send an email to IT Service Desk, GSA IR Team & TTS Tech Portfolio </a> at the same time.
+- You can use this link to <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">quickly send an email to IT Service Desk, GSA IR Team & TTS Tech Portfolio</a> at the same time.
 - cloud.gov: [cloud.gov support team](mailto:cloud-gov-support@gsa.gov) or [#cg-incidents](https://gsa-tts.slack.com/messages/incident-response) Slack channel
 - cloud.gov: [#login-incidents](https://gsa-tts.slack.com/messages/incident-response) Slack channel
 - Need to find the Information System Security Officer (ISSO) or Information System Security Manager (ISSM) for a specific system? See the [directory of contacts for GSA systems](https://ea.gsa.gov/#!/FISMA_POC). (You'll need to be on the GSA network or VPN to access the directory.)
