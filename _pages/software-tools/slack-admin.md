@@ -139,7 +139,7 @@ There is not an easy way to export the contents of a single channel, for partner
 
 These, of course, will be images, so they unfortunately won't be searchable.
 
---------------------------------------------------------------------------------
+---
 
 ## Still have questions?
 
