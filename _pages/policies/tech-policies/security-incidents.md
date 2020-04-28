@@ -12,7 +12,7 @@ If you detect any unusual or suspicious activity on your computer, DO NOT turn o
 
 It is critical that you notify GSA IT within 1 hour of suspected incident and provide all available information to assist the response team with triage. If email is unavailable, [contact them another way](https://insite.gsa.gov/employee-resources/information-technology).
 
-Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. Include the hyperlink to the [GSA Google Drive](#setting-up-my-drive-for-sensitive-information-sharing) folder in the top summary of the GitHub Issue. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident
+Potentially sensitive data must never be shared in Slack, GitHub, or transmitted via email. At this time, GSA Google Drive is the only approved method of secure data transmission during an active incident.
 
 If **_classified information_** is part of the incident, do not attach the information to your report. Wait for instructions from the GSA Incident Response (IR) team. If you do not receive a timely acknowledgement of your report, you can phone the IR team via the numbers listed in Section 3.1.1 of the [GSA IT Security Procedural Guide](https://insite.gsa.gov/portal/getMediaData?mediaId=558637).
 
@@ -40,8 +40,7 @@ To report a security incident, follow _all_ of the steps below:
 Please note that incidents need to be reported within one hour of being identified. This isn't "within an hour of happening" but "within one hour of you becoming aware of the incident." The idea is to make sure we're promptly looping in the right people. So, as soon as you're aware of a problem, follow the above steps.
 
 1. Send an email to itservicedesk@gsa.gov, gsa-ir@gsa.gov, and devops@gsa.gov within 1 hour of identifying an incident. Please include _Security Incident_ in the subject line, along with a brief description of the incident (Ex. security token committed to repo).
-   - When emailing GSA's Incident Response (IR) team, please include as many details as possible, including relevant URLs, repos, and a link to related GitHub issue (if applicable).
-1. Open a [GitHub issue in the security-incidents repository](https://github.com/18F/security-incidents/issues/new), tracking the status of these steps. This will automatically populate the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel that is monitored by the TTS Tech Portfolio.
+   - Include as many details as possible, including relevant URLs (like repositories).
    - Do not delete any potential evidence or modify the evidence without instruction from the GSA's Incident Response (IR) team.
 1. Check the system's specific Incident Response Plan
    - For [cloud.gov](https://cloud.gov/) platform operations/security, start [following the additional checklist here](https://cloud.gov/docs/ops/security-ir-checklist/).

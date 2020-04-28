@@ -5,7 +5,6 @@ title: Public disclosures of vulnerabilities
 When someone in the public alerts you to a potential vulnerability in our systems, you need to act quickly. There are four steps in this process:
 
 1. [Triage the vulnerability](#triage-the-vulnerability)
-1. [File an issue](#file-an-issue)
 1. [Respond to reporter](#reply-to-the-reporter)
 1. [Remediate](#remediate)
 
@@ -35,18 +34,6 @@ In the case of an **incident**, the responder has determined the vulnerability h
 
 If the first responder is unable to make a determination of risk severity, the responder should immediately post in the [#incident-response](https://gsa-tts.slack.com/messages/incident-response) Slack channel and seek counsel from other responders, as well as @-ing the lead of the affected product or service.
 
-## File an issue
-
-For vulnerabilities categorized as **low**, an Issue should be created in the corresponding GitHub repo or project management tool for the affected system by the product or service team.
-
-For vulnerabilities of **medium** or **high** issue must be filed in the private repository. If the issue is also an **incident**, it must be filed [security incident repository](https://github.com/18F/security-incidents/issues).
-
-The first responder is responsible for following up GitHub issue to assure they are satisfied that the issue has been resolved (whether remediated or marked `wont fix` or `false positive`).
-
-The [TTS Tech Portfolio](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit#slide=id.g70cae5b8a6_0_16) should be included in all issues for tracking purposes.
-
-Regardless of where the issue is filed, the first responder should advise the First Responder/TTS Tech Portfolio on next steps.
-
 ## Reply to the reporter
 
 If the report impact is `none`, send the appropriate message:
@@ -55,7 +42,7 @@ If the report impact is `none`, send the appropriate message:
 - **No impact:** "Thanks for sending us this report. However, we have determined that the impact of this issue is not significant. Please feel free to provide additional information that indicates the issue is of higher severity, and we'll be happy to re-evaluate it."
 - **Not enough information:** "Thanks for sending us this report. However, it does not contain enough information for us to reproduce the issue and evaluate its severity. If you can send us additional information, we'll be happy to evaluate the issue."
 
-Otherwise, after filing the issue as described above:
+Then:
 
 1. Quickly send an acknowledgement.
 1. Loop in any relevant program staff on the acknowledgement response, so they have a direct line of communication.
