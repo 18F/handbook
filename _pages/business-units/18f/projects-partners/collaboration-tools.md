@@ -21,7 +21,7 @@ For each tool mentioned below, we include links to:
 **[Slack]({{site.baseurl}}/slack/)** is an instant messaging tool that uses themed chat rooms (called channels) to help teams quickly communicate on a daily basis, in an open, collaborative way. The 18F team will create a channel for your project in our Slack workspace, which you can access from your web browser. It may be useful to read about [what managers need to know about social tools](https://hbr.org/2017/11/what-managers-need-to-know-about-social-tools) when getting started.
 
 * [Slack handbook page]({{site.baseurl}}/slack/)
-* [Slack @ TTS – Internal Guide :lock:](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp)
+* [Slack @ TTS – Internal Guide](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp)
 • [Slack Admin handbook page]({{site.baseurl}}/slack-admin/)
 
 <details markdown="block">
