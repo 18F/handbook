@@ -392,8 +392,8 @@ primary:
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#DSP
                 internal: false
               - text: Innovation
-                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#IP
-                internal: false
+                url: innovation-portfolio/
+                internal: true
               - text: Public Experience
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#CEP
                 internal: false
