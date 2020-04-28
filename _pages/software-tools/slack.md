@@ -8,7 +8,7 @@ Slack is a chat client that provides us with a centralized way to communicate wi
 
 This page overviews how to get setup with Slack at TTS and covers some best practices.
 
-* See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp):lock: internal how-to guide 
+* See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp) internal how-to guide 
 * See the [Slack-Admin Handbook Page]({{site.baseurl}}/slack-admin/) for admin instructions
 
 ## Getting started
