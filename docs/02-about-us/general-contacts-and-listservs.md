@@ -4,7 +4,7 @@
 
 We have a fairly flat structure, so feel free to contact anyone who you think can answer your question. If that team member cannot, they will direct you to the person who can.
 
-- Pay-stubs, hiring paperwork, expense reimbursements: Office Manager
+- Pay-stubs, hiring paperwork, expense reimbursements: Rachael Adams
 - Technical questions, specific project questions: Owen Barton
 - HR related concerns or questions: First speak with your manager
 - Referring New Hires: Grace McKinney
