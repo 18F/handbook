@@ -373,17 +373,17 @@ primary:
               - text: Accessing DoD Systems
                 url: accessing-dod-systems/
                 internal: true
-      - text: Office of Products and Programs (OPP)
+      - text: TTS Solutions
         children:
-          - text: About OPP
+          - text: About TTS Solutions
             children:
-              - text: Overview of OPP
+              - text: Overview of TTS Solutions
                 url: office-of-products-and-programs/
                 internal: true
-              - text: OPP history
+              - text: Solutions history
                 url: opp-history/
                 internal: true
-              - text: OPP org chart
+              - text: Solutions org chart
                 url: opp-org-chart/
                 internal: true
           - text: Portfolios
@@ -395,13 +395,13 @@ primary:
                 url: innovation-portfolio/
                 internal: true
               - text: Public Experience
-                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#CEP
-                internal: false
+                url: public-experience-portfolio/
+                internal: true
               - text: Smarter IT
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SmarterITDelivery
                 internal: false
               - text: Secure Cloud
-                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SecureCloud
+                url: https://www.fedramp.gov/
                 internal: false
               - text: 10x
                 url: https://10x.gsa.gov
