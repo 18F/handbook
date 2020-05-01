@@ -1,8 +1,8 @@
 ---
-title: A Brief History of the Office of Products and Programs
+title: A Brief History of TTS Solutions
 ---
 
-A brief history of the Office of Products and Programs is hard to write: our work spans five decades and nine administrations! 
+A brief history of TTS Solutions is hard to write: our work spans five decades and nine administrations! 
 
 What was established in 1970 as a place to coordinate and deliver information to consumers has evolved tremendously. Our audience has expanded to include every federal agency, government employees at all levels, the private sector, and people all over the world. 
 
@@ -61,11 +61,16 @@ And, we kept pace with the rise of smartphones: the [Mobile Testing Program](htt
 In recent years, we’ve established and grown many crucial government-wide products and programs:
 
 * [10x](https://10x.gsa.gov/): provides start-up funding for new technology projects and products across government (2016)
+* [Artificial Intelligence Portfolio](https://digital.gov/communities/artificial-intelligence/): supporting and coordinating the use of artificial intelligence technologies in federal agencies (2019)
 * [CitizenScience.gov](https://www.citizenscience.gov/): a hub for accelerating crowdsourcing and citizen science across the U.S. government (2016)
 * [Code.gov](https://code.gov/): a catalog of government developed code (2016)
+* [Cloud.gov](https://cloud.gov/): a Platform as a Service built specifically for government work. Created by 18F in 2015. Part of TTS Solutions since 2019.
 * [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges. The longest running community, the Web Content Managers Forum, dates back to 2000. New communities are created as new technologies and opportunities arise.
 * [Emerging Citizen Technology Office](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies (2017)
+* [Federalist](https://federalist.18f.gov/): a publishing platform for modern government websites. Created by 18F in 2015. Part of TTS Solutions since 2019.
+* Identity Program Management Office: supporting and promoting the use of secure identity management practices and tools (2019)
+* [Login.gov](https://login.gov/): a shared service that provides secure and private online access to participating government programs. Launched by 18F and the U.S. Digital Service in 2017. Part of TTS Solutions since 2019.
 * [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps (2016)
-* [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015. Maintained by our office since 2017.
+* [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015. Part of TTS Solutions since 2019.
          
 Over the past 50 years, we’ve grown and expanded while remaining true to our mission. We’ll continue to evolve as we anticipate and meet future needs. We look forward to the next 50 years of serving the public and our partners!
