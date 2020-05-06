@@ -280,9 +280,6 @@ primary:
           - text: Overview of OA
             url: oa/
             internal: true
-          - text: OA Operational Guidance
-            url: acquisition/
-            internal: true
       - text: 18F
         children:
           - text: About 18F
