@@ -84,15 +84,18 @@ primary:
       - text: Performance management overview
         url: performance-management/
         internal: true
-      - text: Mid year review
+      - text: End of year HRLinks steps
+        url: performance-management-hrlinks-steps/
+        interal: true
+      - text: Mid year review overview
         url: mid-year/
+        internal: true
+      - text: Mid year HRLinks steps
+        url: mid-year-hrlinks/
         internal: true
       - text: Important dates
         url: performance-management-dates/
         internal: true
-      - text: End of Year HRLinks steps
-        url: performance-management-hrlinks-steps/
-        interal: true
       - text: Employee resources
         url: performance-management-employee-resources/
         internal: true
