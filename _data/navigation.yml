@@ -90,7 +90,7 @@ primary:
       - text: Important dates
         url: performance-management-dates/
         internal: true
-      - text: HRLinks steps
+      - text: End of Year HRLinks steps
         url: performance-management-hrlinks-steps/
         interal: true
       - text: Employee resources
