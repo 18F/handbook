@@ -66,6 +66,12 @@ If modifications need to be made to an existing performance plan, a plan can be 
 * Additional resource guide:
   * [GSA Employee Guide to Writing an Effective Self-Assessment](https://drive.google.com/open?id=1EFwZLMB4qZLZdz98NKGV-TLnJrquLiqo)
   
+### Reviewing an employee mid year self-assessment
+
+* Step-by-step instructions:
+  * No action required by employee
+  * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.dc4dfn7ht52u)
+
 ### Submitting mid year assessment comments
 
 * Step-by-step instructions:
