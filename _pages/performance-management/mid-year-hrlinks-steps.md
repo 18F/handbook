@@ -86,6 +86,8 @@ If modifications need to be made to an existing performance plan, a plan can be 
 
 ### Tracking employee progress
 
+It is critical that all mid-year performance plan evaluations are acknowledged by employees before June 1.
+
 * Step-by-step instructions:
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.8bjn5sycokgz)
