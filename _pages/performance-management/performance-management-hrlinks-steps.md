@@ -1,5 +1,5 @@
 ---
-title: Performance Management HRLinks Steps
+title: End of Year Performance Management HRLinks Steps
 tags:
 - Performance
 - Performance
@@ -10,7 +10,7 @@ tags:
 - HRLinks steps
 ---
 
-This page contains step-by-step instructions for employees and supervisors on how to process and approve performance plans in HR Links.
+This page contains step-by-step instructions for employees and supervisors on how to process and approve performance plans in HR Links for the end of year performance review cycle.
 
 If you're having issues with logging into HR Links while using Google Chrome, please use these [instructions to clear your site cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
 
@@ -104,7 +104,7 @@ Submitting a participant review in HR Links is the same process for all nominate
 
 * Step-by-step instructions:
   * No action required by employee
-  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.d8jbm2v7961l)
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.f8d49rcsfbmz)
 
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)

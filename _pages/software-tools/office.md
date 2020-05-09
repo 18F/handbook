@@ -4,13 +4,13 @@ title: Microsoft Office
 
 At GSA, [Google Docs/Sheets/Slides]({{site.baseurl}}/google-drive/) is our preferred tool for documents/spreadsheets/presentations, since it has built-in records retention, collaboration, sharing, importing and exporting of Office files, etc.
 
-In normal day-to-day operations, you will probably never need Microsoft Office. However, if you should encounter an edge case such as a large spreadsheet that won't load well in Google Sheets, the preferred work around is to  use Microsoft Office through the [VDI](http://vdi.anywhere.gsa.gov).
+In normal day-to-day operations, you will probably never need Microsoft Office. However, if you should encounter an edge case such as a large spreadsheet that won't load well in Google Sheets, the preferred work around is to use Microsoft Office through the [VDI](http://vdi.anywhere.gsa.gov).
 
-_TTS/GSA stopped offering Office for Mac 2016, due to the overhead in installing and managing licenses and being [previously denied by the IT Standards process](https://ea.gsa.gov/#!/itstandards/1032),in November 2019. But based on the user demand discovered through a survey, frequent urgent needs and the upcoming enterprise update, in May 2020 started providing liceneses again._
-
-**The TTS Tech Portfolio team is looking into paths forward for folks who do not have admin permissions on their laptop**
+The offering of Office for Mac 2016 licenses has been on-again-off-again—see [some of the history and considerations](https://docs.google.com/document/d/1ocBJYXv-JblqKSBZYEGVPF3iSAwxtlqEcvW3p6Xd4Mg/edit).
 
 ## Requesting a license
+
+**_It is not currently possible to install Office for Mac 2016 on machines without admin rights. The Tech Portfolio is looking into paths forward._**
 
 To request a Microsoft Office license for your Mac, please **send an email to <tts-software@gsa.gov> with a short explanation of why you need Office rather than using G Suite**.
 
