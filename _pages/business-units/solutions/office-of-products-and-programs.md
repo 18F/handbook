@@ -46,7 +46,7 @@ We offer cross-government products and programs that help agencies deliver moder
 
 ## Our History
 
-Check out our [brief history]({{site.baseurl}}/opp-history/) and learn how our work spans nearly 5 decades!
+Check out our [brief history]({{site.baseurl}}/solutions-history/) and learn how our work spans nearly 5 decades!
 
 ## Our Org Structure
 
