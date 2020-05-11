@@ -102,7 +102,7 @@ It is critical that all mid-year performance plan evaluations are acknowledged b
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.6ykmn1ge2hlk)
   * No action required by supervisor
   
-### Overriding an employee evaluation acknowledgment
+### Overriding an employee acknowledgment
 
 A supervisor can acknowledge an employee evaluation if the employee is unable to (i.e. on vacation) or refuses to do so (i.e. does not agree with the evaluation).
 
