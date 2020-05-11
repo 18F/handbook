@@ -70,6 +70,8 @@ Self-assessments are not required for the mid year review; however, Supervisors 
   
 ### Reviewing an employee mid year self-assessment
 
+Self-assessments are not required for the mid year review; however, Supervisors can request that their direct reports submit one.
+
 * Step-by-step instructions:
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.dc4dfn7ht52u)
