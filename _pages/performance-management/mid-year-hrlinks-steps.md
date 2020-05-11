@@ -94,7 +94,7 @@ It is critical that all mid-year performance plan evaluations are acknowledged b
 
 * Step-by-step instructions:
   * No action required by employee
-  * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.8bjn5sycokgz)
+  * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.34676ir5s3g8)
 
 ### Acknowledging a review
 
