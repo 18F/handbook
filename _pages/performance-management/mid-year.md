@@ -31,8 +31,8 @@ Resource | Use
 [Clone a performance plan](https://docs.google.com/document/d/1zOBSSdFrNEU9dGEw5PMHqMDrN1wy8E0V8esrFYySVoc/edit#) | Once a performance plan has been created, it can be cloned for multiple employees
 [Update an existing performance plan](https://docs.google.com/document/d/1zwMty7CRShtfsZuMOPheG18B9Vb1hZw1WrgvCNE1gRc/edit?usp=sharing) | For editing a new or existing FY20 plan
 [Add Leveraging Diversity](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit?usp=sharing) | Required metric for Supervisors in FY20 plan
-Employee checklist | Coming Soon
-Supervisor checklist | Coming Soon
+[Employee checklist](https://docs.google.com/spreadsheets/d/1ENBLAFa2Chkdd5-31xl4oA5Wk5bbtJtsJNWv9WGeLYU/edit#gid=48334538) | Employee mid year performance management steps
+[Supervisor checklist](https://docs.google.com/spreadsheets/d/1PaEV7xoTc3Y-STpp6z4iqaSVf-QY8-Cmn-ciSS9qhKo/edit#gid=884911250) | Supervisor mid year performance management steps
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
 [Fix HR Links Google Chrome Login Issue](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing) | Instructions for clearing HR Links site cache
 
