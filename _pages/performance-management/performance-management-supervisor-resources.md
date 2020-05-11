@@ -74,8 +74,6 @@ Performance not at Level 3 in any Critical Element needs to be addressed formall
 
 To initiate either plan, reach out to [Jim Mulvaney]((mailto:james.mulvaney@gsa.gov), TTS’s Employee & Labor Relations Specialist. Jim will work directly with you to create the PIP/PAP for your team member; supporting documentation will need to be submitted to Jim for review when creating the PIP/PAP.
 
-The fully vetted PIP/PAP must be issued to the employee **by the last working day of the FY20 performance cycle, September 30, 2020**.  Please note that PIP/PAPs must be reviewed by Legal, which takes a few days, before those plans can be presented to the employee.
-
 #### Verifying your direct reports
 
 **FY20 Audit:** Once the TTS reorg has been completed, the Performance Management team will communicate to Supervisors to do a new audit of their Direct Reports in HR Links by following the instructions in the [FY20 Direct Report Audit Survey](https://forms.gle/oLtit3o2MLsSUonx5).
