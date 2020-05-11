@@ -70,9 +70,9 @@ When an employee joins TTS or changes supervisors within TTS, it is important th
 
 #### Performance improvement plans
 
-Performance improvement plans should be issued to an employee who is not meeting the requirements of the role as outlined in the Position Description and the employee's performance plan. While a performance improvement plan can be issued at any time, an employee who will be rated at Level 1 or 2 in any category on their FY20 Performance Plan **must be issued** a Performance Improvement Plan (PIP)[Level 1 rating] or Performance Action Plan (PAP)[Level 2 rating].  
+Performance not at Level 3 in any Critical Element needs to be addressed formally. While this can be issued at any time, an employee who will be rated at Level 1 or 2 in any category on their FY20 Performance Plan *must be issued* either a Performance Improvement Plan (PIP) for a Level 1 rating or a Performance Action Plan (PAP) for a Level 2 rating.  
 
-To initiate a performance improvement plan, reach out to [Jim Mulvaney](mailto:james.mulvaney@gsa.gov), TTS’s Employee & Labor Relations Specialist.  Jim will work directly with you to create the PIP/PAP for your team member; supporting [documentation](https://drive.google.com/open?id=1A0V_EX5dFwtmMVrfGKJ9DxPM9_3vF49MRD5LKImIkb8) will need to be submitted to Jim for review when creating the PIP/PAP.
+To initiate either plan, reach out to [Jim Mulvaney]((mailto:james.mulvaney@gsa.gov), TTS’s Employee & Labor Relations Specialist. Jim will work directly with you to create the PIP/PAP for your team member; supporting documentation will need to be submitted to Jim for review when creating the PIP/PAP.
 
 The fully vetted PIP/PAP must be issued to the employee **by the last working day of the FY20 performance cycle, September 30, 2020**.  Please note that PIP/PAPs must be reviewed by Legal, which takes a few days, before those plans can be presented to the employee.
 
