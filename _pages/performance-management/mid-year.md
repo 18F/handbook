@@ -39,7 +39,7 @@ Supervisor checklist | Coming Soon
 ## Union requirements for mid year performance reviews
 
   * **AFGE Union members:** a rating is required for each critical element of the performance plan and you must also inform the employee whether his/her overall performance to date remains consistent with the summary rating received on the last annual rating of record.
-  * **NFFE Union members:** a rating is NOT required for each critical element but you must inform the employee whether his/her overall performance to date remains consistent with the summary rating received on the last annual rating of record. It is recommended that manager comments are documented in the GSA Elements Summary section.
+  * **NFFE Union members:** a rating is NOT required for each critical element but you must inform the employee whether his/her overall performance to date remains consistent with the summary rating received on the last annual rating of record. It is recommended that manager comments are documented in the GSA Elements Summary section in HR Links.
   * **Non-union employees:** a rating and/or comments is not required.
 
 --------------------------------------------------------------------------------
