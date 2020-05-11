@@ -80,7 +80,7 @@ Self-assessments are not required for the mid year review; however, Supervisors 
 
 * Step-by-step instructions:
   * No action required by employee
-  * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.a5agqakptwbw)
+  * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.c3fz56zdlqf2)
  
 ### Submitting a mid year progress review
 
