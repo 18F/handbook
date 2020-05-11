@@ -8,7 +8,7 @@ tags:
 - mid year
 ---
 
-This page contains important dates and links for the mid year performance review cycle.
+This page contains important dates, links, and information for the mid year performance review cycle.  Please see the [Mid Year Performance Management HRLinks Steps page](({{site.baseurl}}/mid-year-hrlinks-steps/) for guided instructions.
 
 ## Mid year performance review important dates
 
@@ -35,6 +35,12 @@ Employee checklist | Coming Soon
 Supervisor checklist | Coming Soon
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
 [Fix HR Links Google Chrome Login Issue](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing) | Instructions for clearing HR Links site cache
+
+## Union requirements for mid year performance reviews
+
+  * **AFGE Union members:** a rating is required for each critical element of the performance plan and you must also inform the employee whether his/her overall performance to date remains consistent with the summary rating received on the last annual rating of record.
+  * **NFFE Union members:** a rating is NOT required for each critical element but you must inform the employee whether his/her overall performance to date remains consistent with the summary rating received on the last annual rating of record. It is recommended that manager comments are documented in the GSA Elements Summary section.
+  * **Non-union employees:** a rating and/or comments is not required.
 
 --------------------------------------------------------------------------------
 
