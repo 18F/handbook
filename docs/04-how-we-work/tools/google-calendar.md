@@ -25,4 +25,4 @@
 - You can block off "heads down" time during your days for focus on your project work
 - Block of your calendar for personal events where you don't want to get booked by anyone (dr appt, long lunch, pick up the kids, etc)
 - Consider showing two timezones on your calendar view to make timezone conversions a breeze (feature in settings)
-- When you email the ca-schedule listserv, your OOO time will be added the Out of Office Calendar !["CivicActions: Out of Office"](../../images/ooo-cal1.png "Out of Office Calendar") 
+- When you email the ca-schedule listserv, your OOO time will be added the Out of Office Calendar !["CivicActions: Out of Office"](../../images/ooo-cal1.png "Out of Office Calendar")
