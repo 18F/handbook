@@ -8,7 +8,7 @@ tags:
 - mid year
 ---
 
-This page contains important dates, links, and information for the mid year performance review cycle.  Please see the [Mid Year Performance Management HRLinks Steps page](({{site.baseurl}}/mid-year-hrlinks-steps/) for guided instructions.
+This page contains important dates, links, and information for the mid year performance review cycle.  Please see the [Mid Year Performance Management HRLinks Steps page]({{site.baseurl}}/mid-year-hrlinks-steps/) for guided instructions.
 
 ## Mid year performance review important dates
 
