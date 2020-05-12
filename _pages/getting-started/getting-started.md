@@ -72,7 +72,7 @@ If you need support, can't find it here in the Handbook, and don't know where to
 TTS is a technical organization, so even if you're not an engineer you will find yourself in technical environments.
 Here are the bits everyone will probably need to know:
 
-### Github and Version control
+### GitHub and Version control
 
 Version control is simply the act of keeping track of a file without having to name it
 "myfile-10-10-18-final-final-final-approved."
@@ -82,7 +82,7 @@ In that case, you really need a version control system.
 Here at TTS, our version control system of choice is GitHub.
 
 Almost everyone at TTS spends some time working with GitHub, whether they're an engineer or not.
-If this is new to you we suggest you start with our [Intro to Github]({{site.baseurl}}/intro-to-github/).
+If this is new to you we suggest you start with our [Intro to GitHub]({{site.baseurl}}/intro-to-github/).
 When you're ready to begin using GitHub, the [Handbook repository](https://github.com/18F/handbook) is a great place to practice basics like creating a branch and a pull request.
 If you see anything in the Handbook that appears out of date or incorrect, you can practice your new pull request skills and help us improve it!
 You can also look through the Handbook issues and fix something.
@@ -123,7 +123,7 @@ You can file an issue in the repository or contact one of the project owners or 
 ### Markdown
 
 [Markdown](https://www.markdownguide.org/cheat-sheet/) is probably the most commonly used way to
-style text at TTS. It's used in Github, in Slack, and in many other systems.
+style text at TTS. It's used in GitHub, in Slack, and in many other systems.
 If you see things that mostly look like plain text but have some semi-random * and # littered through them,
 that's probably Markdown. It was designed to mimic how one might write a text-only email.
 
