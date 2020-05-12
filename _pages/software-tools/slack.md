@@ -153,7 +153,6 @@ We have a few different bots you'll see in Slack:
 - [Charlie](https://gsa-tts.slack.com/team/charlie), a.k.a. _El Hubot Real_: our [Hubot instance](https://github.com/18F/18f-bot). Knows all kinds of tricks. To get a list of them, send Charlie a direct message with the word `help`.
 - [coffeemate](https://gsa-tts.slack.com/team/charlie): send a message with `coffee me` in a public channel or direct message @Charlie (El Hubot Real) with `coffee me` to set up a virtual coffee/tea with a random coworker.
 - [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-tts.slack.com/customize/emoji)). **Do not include private or sensitive information in Slackbot automatic responses.**
-- [Standup Bot](https://gsa-tts.slack.com/team/standup-bot): Can be invited into your channel with `/invite @standup-bot` and asked to do text standups. You can learn how to configure it by sending the bot a direct message with the word `help`. Note: this bot only works in public channels.
 
 Learn more about some of our unique channel customizations and auto-responses in the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.4l9k8pqdjzh1) guide.
 
