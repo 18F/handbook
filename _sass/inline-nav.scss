@@ -1,4 +1,16 @@
 .with-inline-navigation {
+  .usa-content h1 {
+    @media screen and (min-width: 895px) {
+      max-width: 66%;
+    }
+  }
+  .usa-content hr {
+    @media screen and (min-width: 895px) {
+      max-width: 66%;
+      margin-left: 0;
+    }
+  }
+
   .usa-layout-docs-main_content {
     position: relative;
   }
@@ -7,6 +19,7 @@
     @media screen and (min-width: 895px) {
       position: absolute;
       right: 0;
+      top: 0;
       height: 100%;
       width: 256px;
     }
@@ -14,7 +27,7 @@
 
   .inline-navigation {
     font-size: 16px;
-    background: none;
+    background: #ffffff;
     padding: 16px;
     position: sticky;
     top: 0;
@@ -23,6 +36,12 @@
     margin: 0 auto 1.4em;
     box-shadow: 0 0 0 2px #fafafa;
     width: 90%;
+
+    @media screen and (min-width: 895px) {
+      top: 10px;
+      max-height: calc(100vh - 20px);
+      overflow-y: auto;
+    }
 
     h1 {
       letter-spacing: 0;
