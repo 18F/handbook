@@ -2,24 +2,29 @@
 
 ## Git Overview
 
-As you probably already know, Git is a source code versioning system that lets you locally track changes and push or pull changes from remote resources. All projects use Git. Here are some references to review if you are unfamiliar with it.
+As you probably already know, Git is a source code versioning system that lets you locally track changes and push or pull changes from remote resources. All projects use Git.
 
-- <https://git-scm.com/>
-- <https://help.github.com/articles/git-and-github-learning-resources/>
-- Getting Git Right <https://www.atlassian.com/git/>
-- Version Control with Git book <http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387>
-- Learn "how git works" at a lower level, and some useful stuff like rebasing (workflow and interactive), reflog, etc. <https://www.youtube.com/watch?v=MYP56QJpDr4>
-- If you want a non-video companion to the first half, <http://git-scm.com/book/en/v2/Git-Internals-Git-Objects> is a great place to start.
+Here are some references to review if you are unfamiliar with it.
+
+- [Pro Git book](https://git-scm.com/)
+- [Github resources](https://help.github.com/articles/git-and-github-learning-resources/)
+- [Getting Git Right](https://www.atlassian.com/git/)
+- [Version Control with Git book](http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387)
+
+More advanced resources to learn "how git works" at a lower level, which is helpful for building your mental model for using rebasing, reflog, etc.
+
+- <https://www.youtube.com/watch?v=MYP56QJpDr4>
+- [Non-video companion to the first half](http://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
 ## Git best practices
 
-_Note: your project may include additional or alternate code review practices - please review your project developer/contributor documentation!_
+_Note: your project may include other code review practices. Please review your project developer/contributor documentation!_
 
 - Atomic commits:
   - Generally commits should be as small as possible.
   - The code should be in a functional state after each commit (even if incomplete) - avoid committing code which will won't run at all.
 - Write good commit messages. A good commit message should:
-  - Reference the associated ticket ID using a prefix, e.g. `ABC-123:`.
+  - Reference the associated ticket ID using a prefix, e.g. `ABC-123:`. This makes it easier to locate tickets from git log/blame output as well as helping make sure all work is associated with a ticket.
   - Have a one line (max 80 char) title/summary of the change, followed by a blank line and then further detail which should:
     - Explain the reason(s) for the change.
     - Detail what changed and any consequences of this (on code, data, users, security etc) - include any key terms that would help a future person searching commits.
@@ -27,8 +32,9 @@ _Note: your project may include additional or alternate code review practices - 
 - Feature branches, pull requests (PR) & merge requests (MR):
   - These should contain a closely related series of commits that solves a single problem - avoid including changes that are unrelated.
   - Most often a single (well scoped) ticket will be resolved in a single PR/MR.
-    - However it is good to break larger changes over multiple PRs/MRs that each addresses a logical piece of the whole - this can make the code easier to review.
-  - When merging PRs and MRs we prefer a fast-forward/rebase (rather than a merge commit or squash) since this retains a clean and linear commit history.
+    - However, it is good to break larger changes over multiple PRs/MRs that each addresses a logical piece of the whole - this can make the code easier to review.
+  - When merging PRs and MRs we prefer a rebase workflow with fast-forward merges (rather than a merge commit) since this retains a clean and linear commit history which can be helpful for future engineers.
+    - For small PRs/MRs where there isn't much commit detail using a squash merge approach can also be fine.
 - Rebasing commits on a feature branch - we do this for 2 reasons:
   - To update the feature branch on top of more recent changes in master so that it can be easily merged when ready.
   - To adjust the commits on the branch with an interactive rebase - for example:
@@ -42,12 +48,12 @@ _Note: your project may include additional or alternate code review practices - 
 
 ### Git best practice resources
 
-- https://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/
-- https://about.gitlab.com/blog/2018/06/07/keeping-git-commit-history-clean/
+- <https://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/>
+- <https://about.gitlab.com/blog/2018/06/07/keeping-git-commit-history-clean/>
 
 ## Code review
 
-_Note: your project may include additional or alternate code review practices - please review your project developer/contributor documentation!_
+_Note: your project may include other code review practices. Please review your project developer/contributor documentation!_
 
 - Code reviews are shared between all developers - if you finish a ticket (or just want a break) check for outstanding PRs/MRs before picking up a new ticket.
   - This is because getting shared awareness of the code others are working on helps the team learn and become more able to work across all areas of the codebase.
@@ -58,8 +64,8 @@ _Note: your project may include additional or alternate code review practices - 
   2. Is the PR/MR architected correctly?
   3. Is the PR/MR polished?
 - For code that touches complex or risky areas (e.g. security or performance implications), it's great to have 2 or even 3 reviewers take a look before merging.
-- Most coding standards should generally be implemented automatically using code auto-formatting tools and/or reviewed automatically using code linting and code quality checking tools.
-  - If this is not the case on your project, implement this in your CI pipeline!
+- Most coding standards should generally be applied automatically using code auto-formatting tools and/or reviewed automatically using code linting and code quality checking tools.
+  - If this is not the case on your project, add this in your CI pipeline!
 - Quality code is human friendly (self documenting, maintainable, adaptable)
 - Try to make at least one point for improvement: encourage conversation
 - Call out good code: praise is valuable feedback
@@ -67,37 +73,37 @@ _Note: your project may include additional or alternate code review practices - 
 
 ### Core review resources
 
-- https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/
-- https://mtlynch.io/human-code-reviews-1/
-- https://mtlynch.io/human-code-reviews-2/
-- https://martinfowler.com/books/refactoring.html
-- https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html
+- <https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/>
+- <https://mtlynch.io/human-code-reviews-1/>
+- <https://mtlynch.io/human-code-reviews-2/>
+- <https://martinfowler.com/books/refactoring.html>
+- <https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html>
 
 ## Standard git workflow
 
-_Note: your project may include additional or alternate git workflows - please review your project developer/contributor documentation!_
+_Note: your project may include other git workflows. Please review your project developer/contributor documentation!_
 
-- Our overall workflow is:
-  - Trunk based development with a a single `master` branch - i.e. no additional long lived branches (e.g. `stable`) that get repeated merges
-  - Use short lived feature branches with PRs/MRs for all work
+- Our standard workflow uses:
+  - Trunk based development with a single `master` branch - i.e. no additional long lived branches (e.g. `stable`) that get repeated merges
+  - Short lived feature branches living in developer forks with PRs/MRs for all work
   - Feature branches should be prefixed with the related ticket ID (i.e. `abc-123-my-feature`).
-  - We frequently rebase feature branches and use fast-forward merges
+  - We often rebase feature branches and use fast-forward merges
 - We follow an [upstream first](https://www.chromium.org/chromium-os/chromiumos-design-docs/upstream-first) practice for all development - this means:
   - If the code you want to change is in an external library or module, contribute the change to that library first before bringing it into your actual project (e.g. by adding the patch to a build tool or adjusting the source to point to an upstream that includes the change)
   - If you need to make a hotfix make a PR/MR to the main `master` branch first before creating/patching a hotfix branch.
-- Feature branches undergo both automatic and manual testing before being merged - this ensures that master always passes tests.
+- Feature branches undergo both automatic and manual testing before being merged - this makes sure that master always passes tests.
   - Testing often includes linting, unit and functional tests as well as specialised tests such as security and accessibility scans.
   - On most projects a dedicated review environment for each feature branch or PR/MR is created automatically and can be used for manual testing as well as stakeholder demos and user testing as needed to validate functionality before the branch is merged.
 
 Compared to other documented workflows:
 
-- [https://docs.gitlab.com/ee/topics/gitlab_flow.html](Gitlab Flow) - very similar, although we prefer tags over environment branches
-- [https://guides.github.com/introduction/flow/](GitHub Flow) - very similar, although we prefer rebase/fast-foward merges and don't deploy feature branches into production (but to review environments instead)
+- [Gitlab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) - similar, although we prefer tags over environment branches
+- [GitHub Flow](https://guides.github.com/introduction/flow/) - similar, although we prefer rebase/fast-foward merges and don't deploy feature branches into production (but to review environments instead)
 - [Git flow](https://nvie.com/posts/a-successful-git-branching-model/) - not very similar - ours is much simpler, avoids long lived branches and repeated merges
 
 ## Versioning releases
 
-_Note: your project may include additional or alternate versioning practices - please review your project developer/contributor documentation!_
+_Note: your project may include other versioning practices. Please review your project developer/contributor documentation!_
 
 For libraries, we use [semantic versioning](https://semver.org/).
 
