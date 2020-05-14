@@ -45,5 +45,6 @@ Follow the linked instructions to password-protect a:
 
 * [PDF](https://support.apple.com/guide/preview/password-protect-a-pdf-prvw587dd90f/mac)
 * [ZIP](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can be a folder full of files)
+   - [Information from GSA IT](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/how-to-create-fipscompliant-zip-files)
 
 Send the encrypted file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.
