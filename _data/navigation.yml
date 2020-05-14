@@ -47,21 +47,25 @@ primary:
     blurb: |
       Classes, coaching and ongoing professional development
     children:
-      - text: Online Learning University (OLU)
-        url: olu/
+      - text: Coaching, mentoring and professional development
+        url: development-and-training
         internal: true
       - text: Conferences and events
         url: conferences-events-training/
         internal: true
-      - text: Coaching, mentoring and professional development
-        url: development-and-training
-        internal: true
-      - text: Working groups, Guilds, Communities of Practice and mailing lists
-        url: working-groups-and-guilds-101/
-        internal: true
       - text: GitHub 101
         url: intro-to-github/
         internal: true
+      - text: Online Learning University (OLU)
+        url: olu/
+        internal: true
+     -  text: TTS Supervisor Guide
+        url: https://docs.google.com/document/d/1QAivrwzf-FX2IN20XsZVeMsmXkCvZ5oE0Z9O68a3PeM/edit?ts=5ebd541a#heading=h.pxc6vhgwjmms
+        internal: false
+      - text: Working groups, Guilds, Communities of Practice and mailing lists
+        url: working-groups-and-guilds-101/
+        internal: true
+        
   - text: Travel and leave
     href: /#travel-and-leave
     blurb: |
