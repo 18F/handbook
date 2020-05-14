@@ -56,7 +56,7 @@ If modifications need to be made to an existing performance plan, a plan can be 
 
 ### Entering a self-assessment
 
-Self-assessments are not required for the mid year review; however, Supervisors can request that their direct reports submit one.
+Self-assessments are **not required** for the mid year review; however, Supervisors can request that their direct reports submit one.
 
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.2bzg793t31vu)
@@ -70,7 +70,7 @@ Self-assessments are not required for the mid year review; however, Supervisors 
   
 ### Reviewing an employee mid year self-assessment
 
-Self-assessments are not required for the mid year review; however, Supervisors can request that their direct reports submit one.
+Self-assessments are **not required** for the mid year review; however, Supervisors can request that their direct reports submit one.
 
 * Step-by-step instructions:
   * No action required by employee
