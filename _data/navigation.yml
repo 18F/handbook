@@ -59,7 +59,7 @@ primary:
       - text: Online Learning University (OLU)
         url: olu/
         internal: true
-     -  text: TTS Supervisor Guide
+      - text: TTS Supervisor Guide
         url: https://docs.google.com/document/d/1QAivrwzf-FX2IN20XsZVeMsmXkCvZ5oE0Z9O68a3PeM/edit?ts=5ebd541a#heading=h.pxc6vhgwjmms
         internal: false
       - text: Working groups, Guilds, Communities of Practice and mailing lists
