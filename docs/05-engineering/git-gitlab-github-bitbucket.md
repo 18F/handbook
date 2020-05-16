@@ -132,6 +132,23 @@ In the case a subsiquent hotfix is required:
 
 In a continuous deployment project these tags can be created automatically, or some other mechanism may be used to track releases.
 
+## Git configuration
+
+Here is a recommended Git configuration block that it is recommended to add to your `.
+
+```
+##
+## These are standard CivicActions git settings for developers.
+##
+[core]
+  # This is for MacOS or Linux. For Windows set to `true`.
+  autocrlf = input
+[merge]
+  ff = only
+[pull]
+  ff = only
+```
+
 ## GitLab, GitHub, and Bitbucket
 
 GitLab, GitHub, and Bitbucket are services that provides remote access to Git repositories. In addition to hosting your code, these services provide additional features designed to help manage the software development lifecycle. These additional features include managing the sharing of code between different people, bug tracking, wiki space and other tools for "social coding".
