@@ -243,6 +243,9 @@ primary:
               - text: Transit benefit
                 url: transit-benefit/
                 internal: true
+              - text: Within Grade Increases (opm.gov)
+                url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
+                internal: false
   - text: TTS Offices
     href: /#tts-offices
     blurb: |
