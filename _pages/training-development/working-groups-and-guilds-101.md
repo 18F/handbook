@@ -156,34 +156,46 @@ Current 18F Communities (and their Community Leads) include:
   <table class="table-existing-grouplets">
     <tbody>
       <tr>
-        <th>Ethics in Tech</th>
+        <th class="col-grouplet">Ethics in Tech</th>
         <td>Matt Henry & Tiffany Andrews</td>
-        <td>#c-ethics-in-tech</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/c-ethics-in-tech">#c-ethics-in-tech</a>
+        </td>
       </tr>
       <tr>
-        <th>Natural Language Processing & Machine Learning</th>
+        <th class="col-grouplet">Natural Language Processing & Machine Learning</th>
         <td>James Tranovich & Tiffany Andrews</td>
-        <td>#nlp-ml</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/c-nlp-ml">#c-nlp-ml</a>
+        </td>
       </tr>
       <tr>
-        <th>Project Resources</th>
+        <th class="col-grouplet">Project Resources</th>
         <td>Nina Mak & Malaika Carpenter</td>
-        <td>#c-project-resources</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/c-project-resources">#c-project-resources</a>
+        </td>
       </tr>
       <tr>
-        <th>Partners Network</th>
+        <th class="col-grouplet">Partners Network</th>
         <td>Skippy Williams & Ben Peterson</td>
-        <td>#c-partners-network</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/c-partners-network">#c-partners-network</a>
+        </td>
       </tr>
       <tr>
-        <th>Data</th>
+        <th class="col-grouplet">Data</th>
         <td>Princess Ojiaku & Peter Rowland</td>
-        <td>#c-data</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/c-data">#c-data</a>
+        </td>
       </tr>
       <tr>
-        <th>Consulting</th>
+        <th class="col-grouplet">Consulting</th>
         <td>Ann Morey & Amanda Costello</td>
-        <td>#c-consulting</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/c-consulting">#c-consulting</a>
+        </td>
       </tr>
     </tbody>
   </table> 
