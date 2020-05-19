@@ -28,8 +28,8 @@ Most working groups will create a Slack channel to coordinate efforts. These cha
         </td>
       </tr>
       <tr>
-        <th class="col-grouplet" id="consulting">Project Health</th>
-        <td class="col-description">Attempting to quantify and measure healthy projects and proactively identify projects early warning signs of unhealthy projects.<br />
+        <th class="col-grouplet" id="consulting">Project Impact</th>
+        <td class="col-description">Design and test a project/initiative impact assessment that teams would be able to complete at the end of an engagement or between large phases on a project.<br />
           <a href="https://gsa-tts.slack.com/archives/CQLRCVA4Q">#wg-project-health</a>
         </td>
       </tr>
@@ -41,7 +41,7 @@ Most working groups will create a Slack channel to coordinate efforts. These cha
       </tr>
       <tr>
         <th class="col-grouplet" id="services">18F Service Offerings</th>
-        <td class="col-description">Researching and creating more descriptive service offerings for partners.<br />
+        <td class="col-description">Design and test 1-3 new meaningful service offerings that match partner needs and align with our expertise.<br />
           <a href="https://gsa-tts.slack.com/archives/C02E3TK0U">#wg-service-offerings</a>
         </td>
       </tr>
