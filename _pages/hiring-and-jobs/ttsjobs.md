@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
-
+[Solutions - Shared Engineer](https://docs.google.com/document/d/1I4dRjWj9OzuuFQJvGppnMCojFsseHLqPPc7pc-IDTbw/edit?usp=sharing) - Open until Sunday, May 31st at 11:59 PM PT
 
 ## Opportunities with partners
 
