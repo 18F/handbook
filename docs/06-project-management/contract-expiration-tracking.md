@@ -11,7 +11,7 @@ The PM may want to a separate document that lists the project contract dates in 
 
 ## Contract Locations
 
-All active, current contracts can be located in the Shared Google CivicActions Contracts folder. You would locate the folder by P# or client and project name. Within the specific project's folder, there will be sub folders for each mod or extension. 
+All active, current contracts can be located in the Shared Google CivicActions Contracts folder. You would locate the folder by P# or client and project name. Within the specific project's folder, there will be sub folders for each mod or extension.
 
 ## Contract Management
 
