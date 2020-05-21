@@ -11,7 +11,7 @@ The PM may want to a separate document that lists the project contract dates in 
 
 ## Contract Locations
 
-(WIP) CivicActions in is the middle of reorganizing where we store contracts and the folder structure around that. Currently nearly all current contracts can be located in the CivicActions Contracts folder and then within the client and project name.
+All active, current contracts can be located in the Shared Google CivicActions Contracts folder. You would locate the folder by P# or client and project name. Within the specific project's folder, there will be sub folders for each mod or extension. 
 
 ## Contract Management
 
