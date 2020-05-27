@@ -59,6 +59,9 @@ primary:
       - text: GitHub 101
         url: intro-to-github/
         internal: true
+      - text: Internal development plans
+        url: ipd/
+        internal: true
       - text: Online Learning University (OLU)
         url: olu/
         internal: true
