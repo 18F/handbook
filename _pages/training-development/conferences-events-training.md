@@ -61,6 +61,7 @@ The automated email that you will receive outlines the step(s) below that you wi
 1. [Create a Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
 
 - Start this process by adding this event to your [Individual Development Plan (IDP)](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) in Salesforce and have your supervisor approve.
+  - For more IDP information and instructions, head to the [IPD handbook page](({{site.baseurl}}/training-development/idp/)
 - After your IDP is approved by your supervisor, you can then generate a Standard Form 182 (SF-182) in Salesforce.
 - Once you have generated an SF-182, you will select approvers based on the email instructions that you've sent.  
     - Most trainings require **supervisor**, then **Keith Wilson** as Approver 1, then your **business unit lead** as Approver 2, and then your TTS Assistant Commissioner, **Dominic Sale** or **Harry Lee**, as Approver 4.
