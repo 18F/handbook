@@ -35,7 +35,7 @@ Site | Description
 
 An SF-182 is required for most conference, event, and training requests that have registration and/or travel costs. The SF-182 will need to be linked to an IDP that is updated with the conference, event, or training that you're attending and is approved by your supervisor. 
 
-For more information on the SF-182 process, head over to the [Conferences, events, and training handbook page]({{site.baseurl}}//conferences-events-training/#creating-an-sf-182-required-for-most-conference-event-and-training-requests-that-have-registration-andor-travel-costs).    
+For more information on the SF-182 process, head over to the [Conferences, events, and training handbook page]({{site.baseurl}}/conferences-events-training/#creating-an-sf-182-required-for-most-conference-event-and-training-requests-that-have-registration-andor-travel-costs).    
 
 ## More resources
 
