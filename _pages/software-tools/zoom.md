@@ -21,7 +21,11 @@ GSA offers [Zoom for Government](https://zoomgov.com/).
 
 ## Rules
 
-Per a `User Action Required for Zoom Usage` email from GSA IT on 4/13/20:
+Per the `Important: Single Sign-on for Zoom for Government at gsa.zoomgov.com` email from GSA IT on 5/19/20:
+
+> Zoom is intended to be available for those who have a need which cannot be met with Google Meet - most GSA virtual meetings should be conducted in Google Meet. Zoom for Government is for special training needs, webinars or meetings with external agencies who cannot use Google.
+
+Per the `User Action Required for Zoom Usage` email on 4/13/20:
 
 > **only Zoom for Government may be used for Zoom meetings initiated by GSA employees.**
 >
