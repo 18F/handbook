@@ -10,7 +10,7 @@ tags:
 - training and development
 ---
 
-Individual Development Plans (IDPs) are a tool to help employees enhance their job skills so they can better meet the evolving challenges of their jobs. 
+An Individual Development Plan (IDPs) is a tool to help an employee enhance their professional skills so thaty they can better meet the evolving challenges of their job. 
 
 ## IDP Resources
 
@@ -33,7 +33,9 @@ Site | Description
 
 ## IDPs and conference, event, and training requests
 
-An SF-182 is required for most conference, event, and training requests that have registration and/or travel costs. The SF-182 will need to be linked to an IDP that is updated with the conference, event, or training that you're attending and approved by your supervisor.  For more information on the SF-182 process, head over to the [Conferences, events, and training handbook page]({{site.baseurl}}/conferences-events-training/#additional-steps-that-you-may-need-to-take).    
+An SF-182 is required for most conference, event, and training requests that have registration and/or travel costs. The SF-182 will need to be linked to an IDP that is updated with the conference, event, or training that you're attending and is approved by your supervisor. 
+
+For more information on the SF-182 process, head over to the [Conferences, events, and training handbook page]({{site.baseurl}}//conferences-events-training/#creating-an-sf-182-required-for-most-conference-event-and-training-requests-that-have-registration-andor-travel-costs).    
 
 ## More resources
 
