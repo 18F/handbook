@@ -60,7 +60,7 @@ primary:
         url: intro-to-github/
         internal: true
       - text: Internal development plans
-        url: ipd/
+        url: idp/
         internal: true
       - text: Online Learning University (OLU)
         url: olu/
