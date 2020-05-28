@@ -11,11 +11,12 @@ github_info:
 exclude:
   - CONTRIBUTING.md
   - Dockerfile
+  - docker-compose.yml
   - Gemfile
   - Gemfile.lock
   - LICENSE.md
   - README.md
-  - go
+  - test
   - vendor
 
 styles:
