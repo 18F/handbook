@@ -40,9 +40,12 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
-[Solutions - Shared Engineer](https://docs.google.com/document/d/1I4dRjWj9OzuuFQJvGppnMCojFsseHLqPPc7pc-IDTbw/edit?usp=sharing) - Open until Sunday, May 31st at 11:59 PM PT
+[Solutions - Shared Engineer](https://docs.google.com/document/d/1I4dRjWj9OzuuFQJvGppnMCojFsseHLqPPc7pc-IDTbw/edit?usp=sharing) - Open until Sunday, May 31st at 11:59 pm PT
 
 ## Opportunities with partners
+
+**FAS**
+[Assistant Commiossioner for Information Technology Category](https://www.usajobs.gov/GetJob/ViewDetails/569416200) - Open until June 11th at 11:59 pm ET
 
 **United States Digital Service (USDS)**
 
@@ -52,8 +55,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
-[GS 13-15 CX srategist across various federal agencies](https://performance.gov/cx) LOCATIONS: Washington, DC, Baltimore, MD, Charleston, SC  
-Closes at 300 applications or Monday, April 27
+
 
 ---------------------------------------------------------------------
 
