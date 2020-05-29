@@ -20,6 +20,10 @@ Badges are shipped to your local GSA office. You will receive an email once your
 
 TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA. See [information about using PIV card readers](https://docs.google.com/document/d/16bXKMpjHk4mtMbYim3Zf9EIriobdB75EIDKZPPmPIvs/edit).
 
+### Operating System
+
+Your laptop will come preloaded with the latest, GSA-approved Mac operating system. At this time, GSA is not ready to upgrade to the [Catalina macOS](https://www.apple.com/macos/catalina/). The TTS Tech Portfolio  will send out a TTS-wide email and update the most recent [notification](https://gsa-tts.slack.com/files/T025AQGAN/FP49NEXMY?origin_team=T025AQGAN) in Slack when it is appropriate to upgrade.
+
 ### Rules
 
 **Lock your computer before leaving it.** Press the **Control + Shift + Power** keys on newer MacBooks or **Control + Shift + Eject** on older MacBooks with optical drives. If you use Alfred, you can open Alfred and type lock.
