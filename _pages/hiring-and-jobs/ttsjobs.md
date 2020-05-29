@@ -35,7 +35,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/)  - open Monday, December 2nd through June 16th
+- [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/)  - open Monday, December 2nd through July 15th
 
 
 ### Internal only competitions
