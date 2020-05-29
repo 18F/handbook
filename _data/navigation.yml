@@ -214,6 +214,9 @@ primary:
               - text: Benefits links and resources
                 url: benefits-links/
                 internal: true
+              - text: Covid leave guidance
+                url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
+                internal: false
               - text: Emergency procedures
                 url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
                 internal: false
