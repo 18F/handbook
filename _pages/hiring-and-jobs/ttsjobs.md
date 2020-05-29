@@ -44,6 +44,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [CoE - Innovation Adoption Lead or Performance Manager](https://docs.google.com/document/d/1sqkY3Nbd9CDJjvgATn4rg7vHJ0mF7j-p3ku9B8BrXFc/edit?ts=5ecfafea) - Open until Tuesday, June 2 at 11:59 pm PT
 
+[Cloud.gov - Security Compliance Architect](https://docs.google.com/document/d/1fM2fvyLupr-wttI95j9FEsv_eZ8dYfR5zsz8BMaAtuI/edit#) - Open until Friday, June 5 at 11:59 pm PT
+
 ## Opportunities with partners
 
 **FAS**
