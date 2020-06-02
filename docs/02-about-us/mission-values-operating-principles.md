@@ -2,7 +2,7 @@
 
 ## Mission
 
-Transform the way professional services are delivered in government.
+Our mission is to help government better serve the public by transforming the way digital services are built and delivered. We partner with agencies to modernize technology systems, improve user experiences, and build capacity for making government services accessible and effective for all.
 
 ## Value Proposition
 
