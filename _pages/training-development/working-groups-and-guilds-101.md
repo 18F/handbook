@@ -204,15 +204,7 @@ Current 18F Communities (and their Community Leads) include:
 ## Communities of Practice
 A Community of Practice (CoP) provides for government-wide knowledge-sharing. They attract members from across government agencies, and provide a good opportunity for Guilds to connect with others in government and influence best practices beyond TTS.
 
-Digital.gov [hosts the Communities of Practice](http://digital.gov/communities/), including the following:
-
-<div class="table-wrapper">
-  <table class="table-existing-grouplets">
-    <tbody>
-      {% include dg-communities.html %}
-    </tbody>
-  </table>
-</div>
+Digital.gov [hosts the Communities of Practice](http://digital.gov/communities/).
 
 
 ## Listservs, Google Groups and mailing lists
