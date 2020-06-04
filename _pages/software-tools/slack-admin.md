@@ -13,24 +13,29 @@ This page overviews the administrative tasks done to manage our Slack account at
 
 Fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link).
 
-### Adding external collaborators
+## External collaborators
 
-We can invite people outside TTS to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from TTS Tech Portfolio. These users may include:
+Collaborators may include:
 
 - Vendors _under contract_ (not just a Terms of Service) with TTS
 - Vendors with GSA who are working on a project with TTS, for which we have an Memorandum of Understanding (MOU)
 - Partners at federal agencies whose projects are under an Interagency Agreement with TTS, or at state or local agencies whose projects are under an Intergovernmental Collaboration Act agreement with TTS.
-- Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.).
-- Members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov).
 
-TTS reserves the right to bill for partners with access to more than channel your IAA / budget line at [the normal Slack user rate](https://slack.com/pricing). When possible, we prefer to set up shared channels with partners over having multi-channel guests.
+Note this does _not_ include:
 
-You may want to invite partners, contractors, etc. to specific project channels to foster collaboration and asynchronous communication with the team. Most 18F projects [create](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`.
+- The general public, for which we have [dedicated channels]({{site.baseurl}}/slack/#public-channels)
+- Other feds who we are not working with directly
+
+Contractors' level of access will be determined by the Contracting Officer (CO). By default, **contractors who are "embeddedd" in TTS (working on TTS projects most or full-time) can be added as full members, while other collaborators should be added as single or multi-channel guests**, as appropriate.
+
+Additonal exceptions, including a small number of close TTS collaborators at GSA, may be added as full Slack members at the discretion of the Technology Director. Examples might include the Chief Information Officer or FAS Commissioner. Ask in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) if you'd like to add someone to this category.
+
+### Partner-specific channels
+
+You may want to invite partners, contractors, etc. to specific project channels to foster collaboration and asynchronous communication with the team. Projects often [create](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`.
 
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
 1. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
-
-A small number of close TTS collaborators at GSA may be full Slack members at the discretion of the head of infrastructure. Examples might include the Chief Information Officer or FAS Commissioner. Ask in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) if you'd like to add someone to this category.
 
 ## Offboarding
 
@@ -95,4 +100,4 @@ These, of course, will be images, so they unfortunately won't be searchable.
 
 ## Still have questions?
 
-Ask in Slack: [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack), [#it-issues](https://gsa-tts.slack.com/messages/it-issues), [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops)
+Ask in Slack: [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack)
