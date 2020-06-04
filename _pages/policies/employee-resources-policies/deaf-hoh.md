@@ -43,7 +43,7 @@ To access remote interpreting or captioning services:
 
 In order to use video relay services in combination with video meeting tools like Google Meet, the Deaf/HoH individual will need to install GSA-approved software called Z5 app that connects them by video to a sign language interpreter. To get this software:
 
- 1. The individual’s Supervisor should submit a software request on behalf of the individual using [Service Now](https://gsa.service-now.com/sp/?id=cs_home). Individuals can also submit their own request, but it will then immediately get routed to their supervisor for approval.   
+ 1. The individual’s Supervisor should [submit a software request](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b) on behalf of the individual. Individuals can also submit their own request, but it will then immediately get routed to their supervisor for approval.   
     1. Pending the individual’s specific communication needs, in the software request Comments field, note that GSA IT should contact the individual for setup instructions by email, and not by phone.
  2. Install the VRS software app. GSA IT will contact the individual for setup and installation.  
     1. Download Z5 app for mobile and/or desktop, which is GSA-approved. If Z5 cannot be downloaded or installed, contact your supervisor/manager and GSA IT to make it available in GSA Self Service application  

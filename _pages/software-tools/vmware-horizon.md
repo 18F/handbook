@@ -37,7 +37,7 @@ See [the InSite page](https://insite.gsa.gov/portal/category/536270). Note that 
 
 ## Software
 
-Horizon is the easiest way to use software that's available for Windows but not Mac. If the software you need isn't already pre-installed, you can request installation by [opening a Software request with the GSA IT Service Desk](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b). Make sure to note that you are requesting installation in VDI, not your laptop.
+Horizon is the easiest way to use software that's available for Windows but not Mac. If the software you need isn't already pre-installed, you can request installation by [opening a Software request with the GSA IT Service Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b). Make sure to note that you are requesting installation in VDI, not your laptop.
 
 ## Tips
 

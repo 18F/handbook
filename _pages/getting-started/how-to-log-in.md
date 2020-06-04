@@ -25,13 +25,13 @@ You must change your ENT password immediately after you start with GSA and every
 
 Locking and unlocking your workstation when you are connected to the network in the office or via VPN remotely is a required step to ensure the new ENT password is cached properly.
 
-Detailed ENT password reset instructions can be found [at ServiceNow KB0022142](https://gsa.service-now.com/sp/?id=kb_article&sys_id=32d451afdbe3ea4458c2fd721f961903).
+Detailed ENT password reset instructions can be found [at ServiceNow KB0022142](https://gsa.servicenowservices.com/sp/?id=kb_article&sys_id=32d451afdbe3ea4458c2fd721f961903).
 
 ## Change or reset your Macbook login password
 
 Users with expiring local passwords (not ENT passwords) will be prompted to change their password and must follow security requirements. Users may see the following prompt if their password is due to expire within 14 days. I
 
-You can change the password that you use to log into your Mac or reset the password by following [ServiceNow KB0024344](https://gsa.service-now.com/sp/?id=kb_article&sys_id=bd3133f7db78d300a54d72131f961906).
+You can change the password that you use to log into your Mac or reset the password by following [ServiceNow KB0024344](https://gsa.servicenowservices.com/sp/?id=kb_article&sys_id=bd3133f7db78d300a54d72131f961906).
 
 Users must follow security requirements:
 

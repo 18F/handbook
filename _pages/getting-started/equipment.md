@@ -22,7 +22,7 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 ### Operating System
 
-Your laptop will come preloaded with the latest, GSA-approved Mac operating system. At this time, GSA is not ready to upgrade to the [Catalina macOS](https://www.apple.com/macos/catalina/). The TTS Tech Portfolio  will send out a TTS-wide email and update the most recent [notification](https://gsa-tts.slack.com/files/T025AQGAN/FP49NEXMY?origin_team=T025AQGAN) in Slack when it is appropriate to upgrade.
+Your laptop will come preloaded with the latest, GSA-approved Mac operating system. At this time, GSA is not ready to upgrade to the [Catalina macOS](https://www.apple.com/macos/catalina/). The TTS Tech Portfolio will send out a TTS-wide email and update the most recent [notification](https://gsa-tts.slack.com/files/T025AQGAN/FP49NEXMY?origin_team=T025AQGAN) in Slack when it is appropriate to upgrade.
 
 ### Rules
 
@@ -34,7 +34,7 @@ Your laptop will come preloaded with the latest, GSA-approved Mac operating syst
 
 ### Loaners
 
-You can [request a loaner PC through the IT Service Desk](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
+You can [request a loaner PC through the IT Service Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
 
 ### Tips
 
