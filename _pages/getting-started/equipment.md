@@ -34,7 +34,7 @@ Your laptop will come preloaded with the latest, GSA-approved Mac operating syst
 
 ### Loaners
 
-You can [request a loaner PC through the IT Service Desk](https://gsa.service-now.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
+You can [request a loaner PC through the IT Service Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
 
 ### Tips
 

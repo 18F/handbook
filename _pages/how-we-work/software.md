@@ -12,9 +12,13 @@ Check the [GEAR, IT Standards list](https://ea.gsa.gov/#!/applications) (must be
 
 If the software you are looking for is in the [TTS inventory](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), send an email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) requesting a license for the software you need. The TTS Saas Project Manager will contact you within 1-2 business days.
 
-If TTS does not have licenses, GSA might. In order to check the [GSA IT Catalog](https://gsa.service-now.com/sp/) (aka Service Now), scroll to the bottom of the page and click on “Order Something”. On the next page, click on “Software”. This will take you to a page to request software from GSA IT. Scroll toward the bottom of the page to where it says “Enter Software Name Here”. In the dropdown menu, start to type the name of the software you need. If the name pops up, it means GSA has already purchased it.
+If TTS does not have licenses, GSA might. In order to check the GSA IT Catalog:
 
-If your software is in the Catalog, fill out the rest of the form to request a license.
+1. [Start a Software request](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
+1. Scroll toward the bottom of the page to where it says “Enter Software Name Here”.
+1. In the dropdown menu, start to type the name of the software you need.
+
+If the name pops up, it means GSA has already purchased it. If your software is in the Catalog, fill out the rest of the form to request a license.
 
 _Note: If you're looking for MS Office, see [this page]({{site.baseurl}}/office/)._
 
