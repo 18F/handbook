@@ -3,21 +3,10 @@
     position: relative;
   }
 
-  .inline-navigation-wrapper {
-    @media screen and (min-width: 895px) {
-      position: absolute;
-      right: 0;
-      height: 100%;
-      width: 256px;
-    }
-  }
-
   .inline-navigation {
     font-size: 16px;
     background: none;
     padding: 16px;
-    position: sticky;
-    top: 0;
     border: 1px solid #e8e8e8;
     border-radius: 4px;
     margin: 0 auto 1.4em;
@@ -68,6 +57,12 @@
       background: #297f00;
       color: white;
       text-decoration: none;
+    }
+
+    @media screen and (min-width: 895px) {
+      position: absolute;
+      right: 0;
+      width: 256px;
     }
   }
 }
