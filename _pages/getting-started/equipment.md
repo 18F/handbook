@@ -22,7 +22,7 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 ### Operating System
 
-Your laptop will come preloaded with the latest, GSA-approved Mac operating system. At this time, GSA is not ready to upgrade to the [Catalina macOS](https://www.apple.com/macos/catalina/). The TTS Tech Portfolio  will send out a TTS-wide email and update the most recent [notification](https://gsa-tts.slack.com/files/T025AQGAN/FP49NEXMY?origin_team=T025AQGAN) in Slack when it is appropriate to upgrade.
+Your laptop will come preloaded with the latest, GSA-approved Mac operating system. At this time, GSA is not ready to upgrade to the [Catalina macOS](https://www.apple.com/macos/catalina/). The TTS Tech Portfolio will send out a TTS-wide email and update the most recent [notification](https://gsa-tts.slack.com/files/T025AQGAN/FP49NEXMY?origin_team=T025AQGAN) in Slack when it is appropriate to upgrade.
 
 ### Rules
 
@@ -46,7 +46,7 @@ TTS employees are issued an Apple iPhone. The TTS Talent Team will already have 
 
 ### Rules
 
-- GSA IT will ask for your Apple ID and password. **Do not send your personal Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA email address, or set one up for yourself and use [Fugacious](https://fugacious.18f.gov/) to send them your password securely. (Never share passwords over email.)
+- GSA IT will ask for your Apple ID and password. **Do not send your personal Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA email address, or set one up for yourself and use Google Hangouts to send them your password. (Never share passwords over email.)
 
 - Change the phone's passcode. The new code should be known only to you.
 
