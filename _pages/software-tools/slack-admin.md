@@ -1,13 +1,13 @@
 ---
 title: Slack for TTS Admins
 tags:
- - TTS legend
+  - TTS legend
 ---
 
 This page overviews the administrative tasks done to manage our Slack account at TTS.
 
-* See the [Slack Handbook Page]({{site.baseurl}}/slack/) for an introduction and setup
-* See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp) internal how-to guide 
+- See the [Slack Handbook Page]({{site.baseurl}}/slack/) for an introduction and setup
+- See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp) internal how-to guide
 
 ## Adding TTS staff
 
@@ -37,23 +37,23 @@ A small number of close TTS collaborators at GSA may be full Slack members at th
 Slack users need to be offboarded in the following situations:
 
 - Someone leaving TTS
-    - Someone from [#talent](https://gsa-tts.slack.com/messages/talent/) should fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform) when this happens.
+  - Someone from [#talent](https://gsa-tts.slack.com/messages/talent/) should fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform) when this happens.
 - A partner who's employment/engagement is ending
-    - It is the responsibility of the engagement manager to inform @slackadmin in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) when this is happening.
+  - It is the responsibility of the engagement manager to inform @slackadmin in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) when this is happening.
 - A contractor who is no longer supporting TTS
-    - The COR or the TTS representative that added the contractor to Slack should fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform) when the period of performance ends.
+  - The COR or the TTS representative that added the contractor to Slack should fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform) when the period of performance ends.
 
 An admin will then do one of the following:
 
 - **[Convert them to a Single-Channel Guest.](https://get.slack.help/hc/en-us/articles/218124397-Change-a-team-member-s-role)**
-    - Put them in one of the following channels (as appropriate):
-        * [#alumni](https://gsa-tts.slack.com/messages/alumni/) (former Full Members only, but treated as a public channel)
-        * One of the `-public` channels (their pick)
-    - [Disable their 2FA](https://get.slack.help/hc/en-us/articles/212221668-Require-two-factor-authentication-for-your-team).
-        * ...unless you know they were using their personal device for 2FA — we don't want them to be locked out.
-    - [Change their email](https://get.slack.help/hc/en-us/articles/225531168-Change-a-team-member-s-email-address) to their personal address
+  - Put them in one of the following channels (as appropriate):
+    - [#alumni](https://gsa-tts.slack.com/messages/alumni/) (former Full Members only, but treated as a public channel)
+    - One of the `-public` channels (their pick)
+  - [Disable their 2FA](https://get.slack.help/hc/en-us/articles/212221668-Require-two-factor-authentication-for-your-team).
+    - ...unless you know they were using their personal device for 2FA — we don't want them to be locked out.
+  - [Change their email](https://get.slack.help/hc/en-us/articles/225531168-Change-a-team-member-s-email-address) to their personal address
 
-\*NOTE: When a TTS Slack user is converted to a Single-channel user, they maintain access to their direct message chat history but are unable to search for or create new direct messages with folks that they've never messaged before.  Unless another channel is specified, the only channel that will still be accessible is #alumni.
+\*NOTE: When a TTS Slack user is converted to a Single-channel user, they maintain access to their direct message chat history but are unable to search for or create new direct messages with folks that they've never messaged before. Unless another channel is specified, the only channel that will still be accessible is #alumni.
 
 - **[Deactivate their account.](https://get.slack.help/hc/en-us/articles/204475027-Deactivate-a-team-member-s-account)**
 
