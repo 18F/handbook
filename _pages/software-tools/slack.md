@@ -1,7 +1,7 @@
 ---
 title: Slack
 tags:
-- TTS legend
+  - TTS legend
 ---
 
 Slack is a chat client that provides us with a centralized way to communicate without overloading our inboxes. You can [login online](https://gsa-tts.slack.com/) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.
@@ -78,7 +78,7 @@ Friends with `.gov`/`.mil` email addresses who aren't collaborating on a project
 
 Treat these public channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document.
 
-Members of the public must also comply with GSA standards and the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct). 
+Members of the public must also comply with GSA standards and the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).
 
 For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there without a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
@@ -95,6 +95,7 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 - Channels that end with `-public` may include members of the public.
 
 Channels focused on TTS practices have their own conventions:
+
 - Channels that begin with `wg-` are for working groups.
 - Channels that begin with `g-` are for guilds.
 - Channels that begin with `c-` are for 18F communities.
@@ -104,16 +105,16 @@ Feel free to join any of these practice-focused groups even if you are not activ
 ### Channels
 
 - Teams
-    - 18F - [#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
-    - [OPP](https://gsa-tts.slack.com/messages/opp/)
-    - [PIFs](https://gsa-tts.slack.com/messages/pifs/)
-    - [Office of Acquisition](https://gsa-tts.slack.com/messages/tts-oa/)
+  - 18F - [#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
+  - [OPP](https://gsa-tts.slack.com/messages/opp/)
+  - [PIFs](https://gsa-tts.slack.com/messages/pifs/)
+  - [Office of Acquisition](https://gsa-tts.slack.com/messages/tts-oa/)
 - Locations
-    - [chitown](https://gsa-tts.slack.com/messages/chitown/)
-    - [dc](https://gsa-tts.slack.com/messages/dc/)
-    - [nyc](https://gsa-tts.slack.com/messages/nyc/)
-    - [sf](https://gsa-tts.slack.com/messages/sf/)
-    - [distributed](https://gsa-tts.slack.com/messages/distributed/)
+  - [chitown](https://gsa-tts.slack.com/messages/chitown/)
+  - [dc](https://gsa-tts.slack.com/messages/dc/)
+  - [nyc](https://gsa-tts.slack.com/messages/nyc/)
+  - [sf](https://gsa-tts.slack.com/messages/sf/)
+  - [distributed](https://gsa-tts.slack.com/messages/distributed/)
 
 See a list of other popular channels in the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.b0dsxkh3r8wi) guide.
 
@@ -145,6 +146,32 @@ In general, the larger a channel is, the more careful you should be about using 
 
 Some channels may have particular guidance for getting help, which you can usually check in the channel status. Regardless, if you don't have an urgent need or a message that everyone needs to see, try posting your message without a broadcast notification.
 
+## Frequently-used emoji
+
+:check: = I did this or verified it was done
+
+:plus: = I am a +1 for the above
+
+:100: = I am a SUPER +1 to the above OR this comment is keeping it 100 (as in, keeping it real, speaking the 100% truth)
+
+:thumbsup: = Sounds good
+
+:question: = I don't understand this/needs followup
+
+:point_up: = I would also say this (can mean "this is correct" if you are the decider)
+
+:raccoon: ===> Slack channel = Please consider moving this conversation to a different channel. (It's a raccoon because of [this image](http://i.imgur.com/cOnFedN.png) referenced in [this article](http://www.slate.com/articles/technology/users/2015/04/slack_and_the_office_chat_several_people_are_typing_who_s_working.html).)
+
+:raised_hand: = I volunteer
+
+:raising_hand: = Have time for a question? (Keep in mind that many folks strongly prefer that you also add what your question is about so they can determine its urgency.)
+
+:thanks: = A picture of Tom Hanks (T. Hanks -> thanks) used as a shortcut to say "thanks"
+
+:facepalm: = Disbelief, shame, or exasperation.
+
+:troll: = I'm intentionally [trolling](https://en.wikipedia.org/wiki/Internet_troll) you or making a joke
+
 ## Integrations (apps, bots)
 
 We have a few different bots you'll see in Slack:
@@ -164,7 +191,7 @@ You can add new "configurations" of [pre-approved integrations](https://gsa-tts.
 
 **[Integration request form](https://goo.gl/forms/pgxtz7xwIWubF0go1)**
 
-Note this is only necessary for new bots or *types* of integrations—approval is not needed for new “configurations” of a previously-approved App. The form should be filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
+Note this is only necessary for new bots or _types_ of integrations—approval is not needed for new “configurations” of a previously-approved App. The form should be filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
 
 Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-tts.slack.com/help/requests/new) for help.
 
@@ -187,17 +214,11 @@ Considerations:
 - TTS Tech Portfolio will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
 
 ## Additional shortcuts
-- Type `/me [message]` to “emote” your message. (Just try it.)
-- Type `/mute` to suppress notifications from the channel you're currently in. You can also turn on desktop notifications for specific channels.
+
+- [Keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)
+- [Slash commands](https://slack.com/help/articles/201259356-Use-built-in-slash-commands)
 - Type `/hangout` to start a Google Hangout in the current channel.
 - Type `[message XPOST #channel-name]` to cross-post a message to a different channel while posting it.
-- Type `/remind` to remind yourself to do something in the future.
-- Press `Option + Up` or `Option + Down` to switch between channels and direct messages.
-- Press `Esc` to mark all messages in the current channel as read.
-- Press `Shift + Esc` to mark all messages across all channels as read. Only do this if you've caught up in channels for your projects first.
-- Press `Command + K` or `Command + T` to switch between channels and direct messages by name.
-- Press `Command + [` and `Command + ]` to jump back and forth along your history of DMs/channels.
-- To mark messages as unread, click a message on your phone and select _mark unread_ or press `Alt` and then click your mouse to do so on your desktop.
 
 ## Groups
 
