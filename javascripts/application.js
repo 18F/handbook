@@ -29,10 +29,9 @@ $(document).ready(function() {
     if ( numHeadings > 2 ) {
 
       var inlineNavigation =
-        "<div class='inline-navigation-wrapper'>" +
-          "<nav role='navigation' class='inline-navigation'>" +
-            "<h1>On this page:</h1>" +
-            "<ul>";
+        "<nav role='navigation' class='inline-navigation'>" +
+          "<h1>On this page:</h1>" +
+          "<ul>";
 
       var inlineNavigationSelect = $('<select>');
 
@@ -85,8 +84,7 @@ $(document).ready(function() {
 
       inlineNavigation +=
           "</ul>" +
-          "</nav>" +
-        "</div>";
+        "</nav>";
 
       $('body').addClass('with-inline-navigation');
       var $table = $(".usa-layout-docs-main_content h1:first-child+.table-wrapper");
