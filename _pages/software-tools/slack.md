@@ -148,20 +148,22 @@ Some channels may have particular guidance for getting help, which you can usual
 
 ## Frequently-used emoji
 
-- `:100:` = I VERY MUCH agree with the above OR this comment is "keeping it 100" (as in, "keeping it real", "speaking the 100% truth")
-- `:check:` = I did this or verified it was done
-- `:eyes:` = I'm taking a look at this. When followed by a `?`, it's "can you/someoneone take a look at this?"
-- `:facepalm:` = Disbelief, shame, or exasperation.
-- `:plus:` = I agree
-- `:point_up:` = I would also say this (can mean "this is correct" if you are the decider)
-- `:question:` = I don't understand this/needs followup
-- `:raccoon: ==> #channel` = Please consider moving this conversation to a different channel. (It's a raccoon because of [this image](http://i.imgur.com/cOnFedN.png) referenced in [this article](http://www.slate.com/articles/technology/users/2015/04/slack_and_the_office_chat_several_people_are_typing_who_s_working.html).)
-- `:raised_hand:` = I volunteer
-- `:raising_hand:` = Have time for a question? (Keep in mind that many folks strongly prefer that you also add what your question is about so they can determine its urgency.)
-- `:shipit:` - Ship it, this is ready to go, etc. [Backstory.](https://www.quora.com/On-GitHub-what-is-the-significance-of-the-Ship-It-squirrel)
-- `:thanks:` = A picture of Tom Hanks (T. Hanks -> thanks) used as a shortcut to say "thanks"
-- `:thumbsup:` = Sounds good
-- `:troll:`/`:trollcute:` = I'm intentionally [trolling](https://en.wikipedia.org/wiki/Internet_troll) you or making a joke
+| Emoji                    | Meaning                                                                                                                                                   | Source                                                                                                                                 |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `:100:`                  | "This comment is 100% correct" or "I agree 100%"                                                                                                          |                                                                                                                                        |
+| `:check:`                | "I did this" or "I verified it was done"                                                                                                                  |                                                                                                                                        |
+| `:eyes:`                 | "I'm taking a look at this." When followed by a `?`, it's "can you/someoneone take a look at this?"                                                       |                                                                                                                                        |
+| `:facepalm:`             | Disbelief, shame, or exasperation.                                                                                                                        |                                                                                                                                        |
+| `:plus:`                 | "I agree"                                                                                                                                                 |                                                                                                                                        |
+| `:point_up:`             | "I would also say this." Can mean "this is correct" if you are the decider.                                                                               |                                                                                                                                        |
+| `:question:`             | "I don't understand this" or "this needs follow-up"                                                                                                       |                                                                                                                                        |
+| `:raccoon: ==> #channel` | "Please consider moving this conversation to a different channel."                                                                                        | [Slack](http://www.slate.com/articles/technology/users/2015/04/slack_and_the_office_chat_several_people_are_typing_who_s_working.html) |
+| `:raised_hand:`          | "I volunteer"                                                                                                                                             |                                                                                                                                        |
+| `:raising_hand:`         | "Have time for a question?" Keep in mind that many folks strongly prefer that you also add what your question is about so they can determine its urgency. |                                                                                                                                        |
+| `:shipit:`               | "Ship it", "this is ready to go", etc.                                                                                                                    | [GitHub](https://www.quora.com/On-GitHub-what-is-the-significance-of-the-Ship-It-squirrel)                                             |
+| `:thanks:`               | A picture of Tom Hanks (T. Hanks -> thanks) used as a shortcut to say "thanks"                                                                            |                                                                                                                                        |
+| `:thumbsup:`             | "Sounds good"                                                                                                                                             |                                                                                                                                        |
+| `:troll:`/`:trollcute:`  | "I'm intentionally [trolling](https://en.wikipedia.org/wiki/Internet_troll) you" or making a joke                                                         |                                                                                                                                        |
 
 ## Integrations (apps, bots)
 
