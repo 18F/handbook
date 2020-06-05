@@ -148,29 +148,18 @@ Some channels may have particular guidance for getting help, which you can usual
 
 ## Frequently-used emoji
 
-:check: = I did this or verified it was done
-
-:plus: = I am a +1 for the above
-
-:100: = I am a SUPER +1 to the above OR this comment is keeping it 100 (as in, keeping it real, speaking the 100% truth)
-
-:thumbsup: = Sounds good
-
-:question: = I don't understand this/needs followup
-
-:point_up: = I would also say this (can mean "this is correct" if you are the decider)
-
-:raccoon: ===> Slack channel = Please consider moving this conversation to a different channel. (It's a raccoon because of [this image](http://i.imgur.com/cOnFedN.png) referenced in [this article](http://www.slate.com/articles/technology/users/2015/04/slack_and_the_office_chat_several_people_are_typing_who_s_working.html).)
-
-:raised_hand: = I volunteer
-
-:raising_hand: = Have time for a question? (Keep in mind that many folks strongly prefer that you also add what your question is about so they can determine its urgency.)
-
-:thanks: = A picture of Tom Hanks (T. Hanks -> thanks) used as a shortcut to say "thanks"
-
-:facepalm: = Disbelief, shame, or exasperation.
-
-:troll: = I'm intentionally [trolling](https://en.wikipedia.org/wiki/Internet_troll) you or making a joke
+- `:100:` = I am a SUPER +1 to the above OR this comment is keeping it 100 (as in, keeping it real, speaking the 100% truth)
+- `:check:` = I did this or verified it was done
+- `:facepalm:` = Disbelief, shame, or exasperation.
+- `:plus:` = I am a +1 for the above
+- `:point_up:` = I would also say this (can mean "this is correct" if you are the decider)
+- `:question:` = I don't understand this/needs followup
+- `:raccoon: ==> #channel` = Please consider moving this conversation to a different channel. (It's a raccoon because of [this image](http://i.imgur.com/cOnFedN.png) referenced in [this article](http://www.slate.com/articles/technology/users/2015/04/slack_and_the_office_chat_several_people_are_typing_who_s_working.html).)
+- `:raised_hand:` = I volunteer
+- `:raising_hand:` = Have time for a question? (Keep in mind that many folks strongly prefer that you also add what your question is about so they can determine its urgency.)
+- `:thanks:` = A picture of Tom Hanks (T. Hanks -> thanks) used as a shortcut to say "thanks"
+- `:thumbsup:` = Sounds good
+- `:troll:` = I'm intentionally [trolling](https://en.wikipedia.org/wiki/Internet_troll) you or making a joke
 
 ## Integrations (apps, bots)
 
