@@ -1,5 +1,7 @@
 ---
 title: A Brief History of TTS Solutions
+redirect_from:
+  - /opp-history/
 ---
 
 A brief history of TTS Solutions is hard to write: our work spans five decades and nine administrations! 

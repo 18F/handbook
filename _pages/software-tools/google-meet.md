@@ -1,8 +1,10 @@
 ---
 title: Google Meet
 tags:
-- audio
-- sound
+   - audio
+   - sound
+redirect_from:
+   - /google-hangouts/
 ---
 
 Google Meet (which has mostly replaced Google Hangouts) is an online video conferencing tool that integrates with Google calendar.

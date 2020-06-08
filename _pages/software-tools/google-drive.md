@@ -1,5 +1,7 @@
 ---
 title: Google Drive
+redirect_from:
+  - /google-docs/
 ---
 
 _a.k.a. G Suite_
