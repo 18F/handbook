@@ -12,7 +12,7 @@
   - W-4 - Federal Income Tax Withholding
   - Direct deposit form
   - Benefits selection
-  - Anti-Harassment Training (visit "My Company", then select "Training")
+  - Anti-Harassment Training
 
 - Review and acknowledge [Conflict of Interest (COI) plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit). Read this COI plan, and look for an email from DocuSign that asks you to acknowledge it later this week.
 
@@ -22,7 +22,6 @@
   - [Compensation](../../03-policies/compensation.md)
   - [Employment](../../03-policies/employment.md) & [At-Will Employment](../../03-policies/leaving-civicactions.md)
   - [Health, Safety and Security](../../03-policies/health-safety-security.md)
-  - [Travel 101](../../03-policies/travel-101.md)
   - [Workplace Guidelines](../../03-policies/workplace-guidelines.md)
 
 ### First Orientation
@@ -75,7 +74,6 @@
 
 - Read about [balance scores](../../04-how-we-work/balance-scores.md)
 - Read about [all hands calls](meetings-and-meeting-tools.md#all-hands-calls)
-- Review [org chart](https://docs.google.com/a/civicactions.net/spreadsheets/d/1zViZW0YzbXpH226mcrR9F_NKi--cJtRgv_6RcldABYY/edit?usp=sharing)
 - Review [team bios](https://civicactions.com/team/)
 - Intro to [pod calls](meetings-and-meeting-tools.md#pod-calls)
 
@@ -85,17 +83,15 @@
 
 - Review vacation time / requests [policies](../../03-policies/benefits-and-holidays.md#time-off)
 - Do you have any pre-approved time off requests?
-  - Upon hire, did you already talk with Aaron, Owen, or Elizabeth about needing some dates off? If so, please make sure we are aware by mentioning them to your onboarding manager. There is still a [formal request off procedure](../../03-policies/benefits-and-holidays.md#time-off) that you'll need to do so we make sure the right dates get documented & marked in the calendar.
+- The [formal request off procedure](../../03-policies/benefits-and-holidays.md#time-off) 
 - We use [Harvest Forecast](../../04-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
 - Review [CivicActions holiday schedule](../../03-policies/benefits-and-holidays.md#holidays)
 - Review [professional development](../../03-policies/prodev.md) & [community participation](../../03-policies/community-participation.md)
 
 ### Project Overview Info & Some How We Work Info
 
-- Relevant project introductions: Connect with appropriate person to walk through each project to discuss the project and its goals, the product owner, stakeholders, team members, technologies, ticket review, project status, etc.
-
 - [CivicActions Agile](../../04-how-we-work/agile-overview.md)
-- Introduction to the [Scrum call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
+- Introduction to the [Daily Standup call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
 - Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
 - Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
 - Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
@@ -113,9 +109,7 @@
 
 - [Read the Culture playbook](../../02-about-us/culture.md)
 - [Read the CivicActions values](https://civicactions.com/values/)
-- Read about the [gold star program](../../04-how-we-work/gold-star-program.md)
 - Create email signature
-  - Create an email signature. Avoid curly comic-like fonts & keep it simple. Include your name, title/role, company (with link to our website), and (optionally) your phone number. Look at other team members' signatures for examples.
 - Update LinkedIn & social media accounts with CivicActions as company
   - Update LinkedIn and [connect with coworkers](https://www.linkedin.com/company/54684)
 - Create a [drupal.org](https://register.drupal.org/user/register?destination=home) account
@@ -123,8 +117,6 @@
 - [Update resume into CivicActions template](../team-resume-instructions.md)
 - [Write your CivicActions bio w photo](../civicactions-bio-instructions.md)
 - Manager to provide an introduction to our copywriter / editor for support on bio & resume
-- Introduction to [presentation slides template](../../04-how-we-work/tools/presentation-templates.md)
-- Review the CivicActions [elevator pitch](../../02-about-us/elevator-pitch.md)
 
 ## Day 3
 
@@ -134,7 +126,6 @@
 - [Story point estimating](../../04-how-we-work/tools/storypoints.md)
 - [Install Chrome browser extensions](../../04-how-we-work/tools/browserextensions.md)
 - Read about & learn [markdown](../../04-how-we-work/tools/markdown.md)
-- Read the [common vocab](../../04-how-we-work/common-vocab.md) page
 - [Free and Open Source Software (FOSS)](../../01-welcome-to-civicactions/training/intro-open-source.md)
 
 ### Versioning Systems and Development Process
