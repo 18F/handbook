@@ -14,7 +14,7 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 - Professional development and pro dev stipend: Elizabeth Raley
 - Time-off, vacation, leave of absence: Your PM first, Elizabeth Raley
 - Personal, company or client security/compliance questions: Fen Labalme
-- Pod Leads: Steve Curtis (Hydra), Susie Bird (Vela), Jason Heaster (Pyxis), Ero Gray (Ursa), Marc Jones (Aries)
+- Pod Leads: Steve Curtis (Hydra), Susie Bird (Vela), Jason Heaster (Pyxis), Ero Gray (Ursa), John O'Duinn (Aries)
 
 ## Main Listservs
 
