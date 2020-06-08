@@ -44,7 +44,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 ## Opportunities with partners
 
 **FAS**<br>
-[Assistant Commiossioner for Information Technology Category](https://www.usajobs.gov/GetJob/ViewDetails/569416200) - Open until June 11th 
+[Assistant Commissioner for Information Technology Category](https://www.usajobs.gov/GetJob/ViewDetails/569416200) - Open until June 11th 
 
 [Project Management Specialist](https://www.usajobs.gov/GetJob/ViewDetails/569959200) - Open until June 12th 
 
