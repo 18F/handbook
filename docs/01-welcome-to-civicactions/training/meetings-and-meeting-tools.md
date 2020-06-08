@@ -26,7 +26,7 @@ Our weekly all hands call includes everyone across CivicActions, and it's how th
 
 - Length of call: 1 hour
 - Topics are usually company standing, sales pipeline, new hires, new projects, big announcements
-- Led primarily by the management team
+- Led primarily by the management and sales teams
 
 ## Pod Calls
 
