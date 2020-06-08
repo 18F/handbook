@@ -40,12 +40,13 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
-[Cloud.gov - Security Compliance Architect](https://docs.google.com/document/d/1fM2fvyLupr-wttI95j9FEsv_eZ8dYfR5zsz8BMaAtuI/edit#) - Open until Friday, June 5 at 11:59 pm PT
 
 ## Opportunities with partners
 
-**FAS**
-[Assistant Commiossioner for Information Technology Category](https://www.usajobs.gov/GetJob/ViewDetails/569416200) - Open until June 11th at 11:59 pm ET
+**FAS**<br>
+[Assistant Commiossioner for Information Technology Category](https://www.usajobs.gov/GetJob/ViewDetails/569416200) - Open until June 11th 
+
+[Project Management Specialist](https://www.usajobs.gov/GetJob/ViewDetails/569959200) - Open until June 12th 
 
 **United States Digital Service (USDS)**
 
