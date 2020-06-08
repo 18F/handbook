@@ -15,11 +15,7 @@ There are topics in this document that require more detail on how we implement p
 
 ## Onboarding Process
 
-As part of the new employee onboarding process, we created the following Onboarding Schedule to assist you through the days, weeks, and months ahead as a new team member at CivicActions.
-
-### Schedule
-
-See [Orientation Meetings](training/orientation-meetings.md) for a typical onboarding schedule, but the timing may shift based on when you're hired and company holidays, etc. The first week will be dedicated to general orientation. You'll also learn about our working practices, our primary tools and how we use them, and your specific job role. The rest of your first month will be dedicated to completing the trainings and task in the orientation lists, and further acclimating to your role and project(s). Welcome aboard!
+Welcome aboard! As part of the new employee onboarding process, we created a three to four day Onboarding Schedule to assist you through navigating CivicActions as a new team member. You will meet with an onboarding captain for one hour each day for three consecutive days, and then have follow up self-guided readings and tasks to help you orient. You will also be paired up with a seasoned CivicActions-er in your domain area to help you learn about our working practices and our primary tools and how we use them. You will also attend a few focused trainings around agile, security, and company culture. In addition to, your project may have additional security trainings and background checks to complete before starting on the project. 
 
 ## Links and Resources
 
