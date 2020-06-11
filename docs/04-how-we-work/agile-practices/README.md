@@ -6,23 +6,23 @@ At CivicActions, the most common approach for accomplishing large-scale work is 
 
 For more detail, see [Sprint Cycle](../../04-how-we-work/agile-practices/sprint-cycle.md).
 
-## Daily Scrum Calls
+## Daily Stand Up (Scrum Calls)
 
 Daily scrum calls are project-specific meetings. These short meetings are a scrum ritual for shared storytelling.
 
 For more detail, see [Daily Scrum Calls](../../04-how-we-work/agile-practices/daily-scrum-calls.md).
 
-## Sprint planning
+## Sprint Planning
 
 Sprint planning takes many forms at CivicActions, but the goal is to come together to decide what to do (and how to estimate the work being done) during an upcoming sprint.
 
 For more detail, see [Sprint Planning Meetings](../../04-how-we-work/agile-practices/sprint-planning-meetings.md).
 
-## Backlog grooming
+## Backlog Refinement
 
-Backlog Grooming meetings are a chance to update and prioritize stories in the product backlog so that we know what's available for upcoming sprints.
+Backlog Refinement meetings are a chance to update and prioritize stories in the product backlog so that we know what's available for upcoming sprints.
 
-For more detail, see [Backlog Grooming](../../04-how-we-work/agile-practices/backlog-grooming.md).
+For more detail, see [Backlog Refinement](../../04-how-we-work/agile-practices/backlog-grooming.md).
 
 ## Sprint Demo
 
