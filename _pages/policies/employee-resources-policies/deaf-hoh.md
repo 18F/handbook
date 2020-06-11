@@ -150,7 +150,7 @@ Contact the Office of Civil Rights to:
  * File an administrative complaint requesting that existing electronic and information technology (E&IT), such as a GSA branded website or non-accessible document that does not conform to the Section 508 standards, be reviewed and brought into compliance with the provisions of Section 508.
 
 #### Equal Employment Opportunity Program
-Work with this program within the Office of Civil Rights to get assistive technology solutions through the [Department of Defense's Computer Accommodation Program](http://www.cap.mil/)
+Work with this program within the Office of Civil Rights to get assistive technology solutions through the [Department of Defense's Computer Accommodation Program](https://www.cap.mil/)
 
 **Contact**  
 

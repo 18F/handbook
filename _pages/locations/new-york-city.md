@@ -8,7 +8,7 @@ title: New York City
       <tr>
         <td class="col-key"><strong>Location</strong></td>
         <td class="col-value">
-          One World Trade Center (<a href="http://onewtc.durst.org/">management company page</a>, <a href="https://insite.gsa.gov/portal/category/540422">GSA page</a>)<br/>
+          One World Trade Center (<a href="https://onewtc.durst.org/">management company page</a>, <a href="https://insite.gsa.gov/portal/category/540422">GSA page</a>)<br/>
           Floor 55<br/>
           New York, NY 10007<br/>
           <br/>
@@ -32,7 +32,7 @@ title: New York City
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value">Northeast and Caribbean (<a href="http://www.gsa.gov/portal/category/22227">region 2</a>)</td>
+        <td class="col-value">Northeast and Caribbean (<a href="https://www.gsa.gov/portal/category/22227">region 2</a>)</td>
       </tr>
       <tr>
         <td class="col-key">
@@ -67,7 +67,7 @@ Building hours are 6am - 7pm. While you can stay in the space later, you won't b
 
 ### Book rooms for meetings?
 
-Use [BookIT](http://bookit.gsa.gov/).
+Use [BookIT](https://bookit.gsa.gov/).
 
 ### Use the monitors/docks?
 
@@ -98,7 +98,7 @@ There's a mother's (aka lactation) room on the 54th floor on the southeast side.
 
 ### Snacks and drinks
 
-There is [a coffee shop on the 64th floor](http://forfivecoffee.com/). You need to go back down to the 1st floor to go back up to it. There are also many options in [the Oculus mall](https://www.westfield.com/westfieldworldtradecenter/entertainment/dining), or across the street at [Brookfield Place](https://brookfieldplaceny.com/directory/food/all).
+There is [a coffee shop on the 64th floor](https://forfivecoffee.com/). You need to go back down to the 1st floor to go back up to it. There are also many options in [the Oculus mall](https://www.westfield.com/westfieldworldtradecenter/entertainment/dining), or across the street at [Brookfield Place](https://brookfieldplaceny.com/directory/food/all).
 
 ### Spare keyboards and mice
 

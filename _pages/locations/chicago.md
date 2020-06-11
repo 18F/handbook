@@ -31,13 +31,13 @@ title: Chicago
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="http://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Regional Administrator is Brad Hansher.<br /><br />
+           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="https://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Regional Administrator is Brad Hansher.<br /><br />
        TTS's office is in the south side of the 33rd floor, in an unlabeled space directly across from the mail counter. The keycode is pinned in #chitown.
         </td>
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value">Great Lakes Region (<a href="http://www.gsa.gov/portal/category/22227">Region 5</a>)</td>
+        <td class="col-value">Great Lakes Region (<a href="https://www.gsa.gov/portal/category/22227">Region 5</a>)</td>
       </tr>
     </tbody>
   </table>

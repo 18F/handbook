@@ -6,7 +6,7 @@ We use Gmail for email.
 
 ## Usage
 
-You can access your email from <https://mail.google.com> or <http://email.gsa.gov>.
+You can access your email from <https://mail.google.com> or <https://email.gsa.gov>.
 
 ## Tips
 
@@ -21,7 +21,7 @@ You can access your email from <https://mail.google.com> or <http://email.gsa.go
 
   ![addressbar]({{site.baseurl}}/images/chrome_address_bar.png)
 
-  - You can read more about Chrome's protocol handlers at [The Complete Guide to Google Chrome Handlers](http://www.ashout.com/complete-guide-to-google-chrome-handlers/)
+  - You can read more about Chrome's protocol handlers at [The Complete Guide to Google Chrome Handlers](https://www.ashout.com/complete-guide-to-google-chrome-handlers/)
 
 - **If you go by a different name**
 - You can create an alias to have a different email address if you go by something other than your legal name. [Submit a "GSA Generic Request"](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=7a09e6672b523000a6e7a73319da1554) asking for the email alias that you want.

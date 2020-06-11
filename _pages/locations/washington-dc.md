@@ -211,7 +211,7 @@ The water cooler is reserved for those who have contributed to the water cooler 
 
 ### Child care
 
-Here are some [local child care facilities](http://www.gsa.gov/portal/content/101942#DC).
+Here are some [local child care facilities](https://www.gsa.gov/portal/content/101942#DC).
 
 ### Gym, lockers, locker rooms
 

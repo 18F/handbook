@@ -114,7 +114,7 @@ Part J. Concurrences
 
 ## Effective date
 
-Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](http://www.gsa.gov/portal/content/102507).
+Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](https://www.gsa.gov/portal/content/102507).
 
 A member of the People Ops Team will complete a Personnel Action Request (PAR) and submit to OHRM for processing.  If a Full-time Telework Agreement is required, the PAR is generated after the FTTA has been filled out and signed by TTS leadership, as directed in the FTTA [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit).  Then the PAR and FTTA are submitted to OHRM for processing.  
 

@@ -18,10 +18,10 @@ Vacation Request | <https://corporateapps.gsa.gov/hr-links/>
 GSA Insite | <https://insite.gsa.gov>
 Health and Life Insurance | <https://www.opm.gov/insure>
 Retirement Planning | <https://www.opm.gov/retirement-services>
-Thrift Savings Plan (TSP) | <http://www.tsp.gov>
-Flexible Spending Account | <http://www.fsafeds.com>
-Dental and Vision Insurance | <http://www.benefeds.com>
-Long Term Care Insurance | <http://www.ltcfeds.com>
+Thrift Savings Plan (TSP) | <https://www.tsp.gov>
+Flexible Spending Account | <https://www.fsafeds.com>
+Dental and Vision Insurance | <https://www.benefeds.com>
+Long Term Care Insurance | <https://www.ltcfeds.com>
 Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service>
 
 ## Human resources (HR) contacts

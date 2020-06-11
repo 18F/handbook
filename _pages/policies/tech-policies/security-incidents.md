@@ -53,7 +53,7 @@ Please note that incidents need to be reported within one hour of being identifi
 
 ## What is an incident?
 
-First: it's always OK to err on the side of reporting! [TTS](http://www.gsa.gov/portal/category/25729)'s and GSA's incident response teams are good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, _you'll never get in trouble for pinging IR at all_. The most effective security early warning system is attentive staff, so report early and report often!
+First: it's always OK to err on the side of reporting! [TTS](https://www.gsa.gov/portal/category/25729)'s and GSA's incident response teams are good at their job, and they are totally used to false alarms. You'll never get in trouble for pinging them about something that turns out not to be an issue! Indeed, _you'll never get in trouble for pinging IR at all_. The most effective security early warning system is attentive staff, so report early and report often!
 
 **What is an incident?** An occurrence that actually or potentially jeopardizes the [confidentiality](#confidentiality), [integrity](#integrity), or [availability](#availability) of an information system or the information the system processes, stores, or transmits or that constitutes a violation or imminent threat of violation of security policies, security procedures, or acceptable use policies.
 

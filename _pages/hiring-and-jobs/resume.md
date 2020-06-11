@@ -123,7 +123,7 @@ SELECTED WORK:
   Developed content and structure for directory/sorting tool  
 * CEHD Research & Expertise, www.cehd.umn.edu/topics/  
   Created new content structure around college research, including categories and descriptions  
-* UMN Content Strategy Self-Help Guide, [z.umn.edu/csmap](http://z.umn.edu/csmap)  
+* UMN Content Strategy Self-Help Guide, [z.umn.edu/csmap](https://z.umn.edu/csmap)  
   Subject matter expert for update to university-wide guide  
 
 #### VOLUNTEER WORK

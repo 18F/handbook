@@ -29,8 +29,8 @@ We offer cross-government products and programs that help agencies deliver moder
 * [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges
 * [Data.gov](https://www.data.gov/): the home of the U.S. government’s open data
 * [Digital Analytics Program (DAP)](https://www.digital.gov/guide/dap/): government-wide analytics tracking for agency websites
-* [DigitalGov](http://www.digitalgov.gov/): a website that provides resources for agencies to create digital services
-* [DigitalGov University (DGU)](http://www.digitalgov.gov/digitalgov-university/): hosts trainings and other events about agencies’ digital efforts.
+* [DigitalGov](https://www.digitalgov.gov/): a website that provides resources for agencies to create digital services
+* [DigitalGov University (DGU)](https://www.digitalgov.gov/digitalgov-university/): hosts trainings and other events about agencies’ digital efforts.
 * [Emerging Citizen Technology Office (ECTO)](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies
 * [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/): provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services
 * [Go.USA.gov](https://go.usa.gov/): a URL shortening service for government agencies
@@ -42,7 +42,7 @@ We offer cross-government products and programs that help agencies deliver moder
 * [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites
 * [USA.gov](https://www.usa.gov/): the “front door” to the federal government, offering government information and services by topic (in English)
 * [USAGov Contact Center](https://www.usa.gov/contact): where the public can ask questions about any government agency
-* [USAGov Partnership Toolkit](http://usa.gov/partnerships): how agencies can partner with USAGov for outreach and engagement efforts
+* [USAGov Partnership Toolkit](https://usa.gov/partnerships): how agencies can partner with USAGov for outreach and engagement efforts
 
 ## Our History
 

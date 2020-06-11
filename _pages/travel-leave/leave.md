@@ -62,7 +62,7 @@ It’s simple, but slightly counter-intuitive. Here’s how:
 - Court leave can be requested in HR Links; this was not a feature in Aloha
 - Clicking Absence/OT history shows all requests
 - Aloha is now in read-only mode; your time off history can be found there
-- HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. [Federalretirement.net](http://www.federalretirement.net/leave-record.htm) has an easy to use spreadsheet that employees may use as a back up to HRLinks.
+- HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. [Federalretirement.net](https://www.federalretirement.net/leave-record.htm) has an easy to use spreadsheet that employees may use as a back up to HRLinks.
 
 ## Leave
 
@@ -138,9 +138,9 @@ The Family and Medical Leave Act (FMLA) allows most federal employees to take up
 
 Former members of the military and/or a military service academy can receive credit for their time. They’ll need to fill out form [FERS 3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf). An employee who has transferred from another agency can use their time to count toward the 12-month restriction.
 
-The Department of Labor has a [detailed guide to FMLA](http://www.dol.gov/whd/fmla/), including this [FMLA FAQ](http://www.dol.gov/whd/fmla/fmla-faqs.htm).
+The Department of Labor has a [detailed guide to FMLA](https://www.dol.gov/whd/fmla/), including this [FMLA FAQ](https://www.dol.gov/whd/fmla/fmla-faqs.htm).
 
-For complete details, see [this recent guidance](http://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
+For complete details, see [this recent guidance](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
 
 Both parents may use their annual or sick leave after the birth of a child, for the period of the mother’s incapacitation. The length of the medically necessary leave is ultimately determined by a doctor’s note, but six weeks for a vaginal birth and eight weeks for a cesarean birth is common. After parents exhaust their annual and sick leave, they can run a sick leave deficit of up to the amount they will accrue during their tenure.
 
