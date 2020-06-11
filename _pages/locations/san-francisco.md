@@ -39,7 +39,7 @@ title: San Francisco
       <tr>
         <td class="col-key"><strong>Region</strong></td>
         <td class="col-value">
-            Pacific Rim Region (<a href="https://www.gsa.gov/portal/content/104695">region 9</a>)
+            Pacific Rim Region (<a href="https://www.gsa.gov/about-us/regions/welcome-to-the-pacific-rim-region-9">region 9</a>)
         </td>
       </tr>
       <tr>
@@ -220,7 +220,7 @@ To find silverware and dishes: go to the kitchen down the hall (the one with the
 
 To find the refrigerators: There's one in the little kitchen room. There's also one in the little "break room" behind the orange wall within our office area (on the UN Plaza side).
 
-What goes in the recycling, composting, and trash bins: The building's default brown paper towels go in compost. For details on other items, see [the recycle/compost/trash lists provided by SF's waste handling company](https://www.recologysf.com/index.php/for-businesses/commercial-recycling-compost-trash).
+What goes in the recycling, composting, and trash bins: The building's default brown paper towels go in compost. For details on other items, see [the recycle/compost/trash lists provided by SF's waste handling company](https://www.recology.com/recology-san-francisco/what-goes-where/).
 
 ### Postal mail
 

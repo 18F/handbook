@@ -63,7 +63,7 @@ Here are some common barriers to using these tools with partners and some workar
 
 - **IF** partners don't have access to video/cameras, **THEN** use audio only with screen-sharing.
 - **IF** blocked by firewall/security issues, **THEN** see if they have access to Skype, Webex, Adobe Connect, or Whereby.com.
-- **IF** all videoconferencing tools are blocked, **THEN** [create a conference call line using GSA Meeting Space](https://handbook.{{site.baseurl}}//gsa-internal-tools/#meeting-space).
+- **IF** all videoconferencing tools are blocked, **THEN** [create a conference call line using GSA Meeting Space]({{site.baseurl}}/gsa-internal-tools/#meeting-space).
 
 <details markdown="block">
 <summary>Other video teleconferencing services to consider or ask your partner about</summary>
@@ -226,7 +226,7 @@ Here are some recommendations for how to level up our partners' skills:
 
 ## Using partners' tools
 
-Per the [IT Standards policy](https://www.gsa.gov/directives-library/gsa-information-technology-it-standards-profile-21601f-chge-2-cio), section 2(e):
+Per the [IT Standards policy](https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile), section 2(e):
 
 > Collaboration with another agency through software or cloud services which they use for managing non-GSA data (either data owned by that agency or public data) does not require security or Section 508 compliance review, as that responsibility is assumed by the providing agency.  Other policies which may restrict the use of GSA Enterprise Accounts or the release of GSA-owned data may still apply.
 

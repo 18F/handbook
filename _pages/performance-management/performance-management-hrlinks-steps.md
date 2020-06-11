@@ -117,7 +117,7 @@ Submitting a participant review in HR Links is the same process for all nominate
   * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.6d9lhrhrk60)
 
  * HR Links in-depth guide (with screenshots):
-  * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)  
+  * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
 ### Submitting an evaluation
 
@@ -169,7 +169,7 @@ For the FY19 performance review cycle, employees who would like a time off award
 ***Note: Award time off must be used within one year of issuance and does not get paid out (like annual leave) if you leave GSA.***
 
 * HR Links in-depth guide (with screenshots):
-  * [HR Links: Time Off Award Preference](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/09/TimeOffAwardPreference_JobAid.pdf)
+  * [HR Links: Time Off Award Preference](https://corporateapps.gsa.gov/corporateapps/files/TimeOffAwardPreference_JobAid.pdf)
 
 --------------------------------------------------------------------------------
 

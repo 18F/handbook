@@ -46,7 +46,7 @@ Only use browser extensions approved by GSA IT. See [IT Service Catalog: Google 
 
 ## Free and open source development packages
 
-The process on this page is for buying software. In general, open source development libraries are exempt from IT Standards review. See the [CIO GSA Information Technology (IT) Standards Profile](https://www.gsa.gov/directives-library/gsa-information-technology-it-standards-profile-21601f-chge-2-cio) (section 2c) for more detail.
+The process on this page is for buying software. In general, open source development libraries are exempt from IT Standards review. See the [CIO GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>) (section 2c) for more detail.
 
 ## Contacts
 

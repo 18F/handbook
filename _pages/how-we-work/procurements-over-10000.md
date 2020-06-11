@@ -39,7 +39,7 @@ Buying something over $10,000 means that the Office of Acquisition (OA) needs to
 ### 5. Posting the solicitation
   
 - We documented what we need and what is required per federal and agency regulations, so now we can post it to the public and see who can deliver!
-- The COs have several venues where we can post our RFQ and supporting documentation: [GSA ebuy](https://www.ebuy.gsa.gov/advantage/ebuy/start_page.do), [FedBizOpps](https://www.fbo.gov/), and/or [Github](https://github.com/). The CO will be responsible for this action. 
+- The COs have several venues where we can post our RFQ and supporting documentation: [GSA ebuy](https://www.ebuy.gsa.gov/), [FedBizOpps](https://www.fbo.gov/), and/or [Github](https://github.com/). The CO will be responsible for this action. 
 
 ### 6. Evaluations
 

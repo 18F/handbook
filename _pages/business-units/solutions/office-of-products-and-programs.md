@@ -22,7 +22,7 @@ We offer cross-government products and programs that help agencies deliver moder
 
 * [10x](https://10x.gsa.gov/): provides start-up funding for new technology projects and products across government
 * [Api.data.gov](https://api.data.gov/): an API management service for agencies
-* [Challenge.gov](https://www.challenge.gov/list/): the official site for federal prize and challenge competitions
+* [Challenge.gov](https://www.challenge.gov/): the official site for federal prize and challenge competitions
 * [CitizenScience.gov](https://www.citizenscience.gov/): a hub for accelerating crowdsourcing and citizen science across the U.S. government
 * [Cloud.gov](https://cloud.gov): helps teams build, run, and authorize cloud-ready or legacy government systems quickly and cheaply
 * [Code.gov](https://code.gov/): a catalog of government developed code

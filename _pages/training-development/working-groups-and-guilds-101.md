@@ -16,7 +16,7 @@ Working groups are usually started by a handful group of people who recognize a 
 
 Because working groups are typically trying to solve a problem *right now* starting a working group is relatively simple: Just be able to articulate the problem you want to solve, then have a chat with your org leadership. Typically, that will be your Chief of Staff, Chief of Practices or Deputy Director, depending on which part of TTS you're in. They'll want to talk to you about whether it's a problem the organization is willing to commit resources to solving right now, and may connect you with other people already working on similar issues.
 
-Most working groups will create a Slack channel to coordinate efforts. These channels should have a `wg-` prefix. Feel free to jump into any of these channels you see to participate or ask questions. 
+Most working groups will create a Slack channel to coordinate efforts. These channels should have a `wg-` prefix. Feel free to jump into any of these channels you see to participate or ask questions.
 
 ### A sampling of current working groups
 
@@ -59,13 +59,13 @@ Guilds are long-running groups sponsored by the TTS Chief of Staff, and as such 
 
 18F provides non-billable hours to guild leads to help them meet those expectations.
 
-Guild Slack channels have a `g-` before the name. Just as with working groups, you do not need permission to participate. Just jump right in. 
+Guild Slack channels have a `g-` before the name. Just as with working groups, you do not need permission to participate. Just jump right in.
 
 The open Slack channel for guild leaders & other practice leaders who wish to join is `#guild-practice-leads`
 
 Guild meeting times can also be found on the [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com).
 
-Because guilds are intended to work across TTS, and because they require substantial and ongoing organizational support and investment, they are coordinated by a group made up of leadership from across TTS. If you'd like to create a new guild, you should start by having a talk with your Chief of Staff, Chief of Practices or Deputy Director (again, depending on which part of TTS you're in) and they'll take it to the group for consideration. 
+Because guilds are intended to work across TTS, and because they require substantial and ongoing organizational support and investment, they are coordinated by a group made up of leadership from across TTS. If you'd like to create a new guild, you should start by having a talk with your Chief of Staff, Chief of Practices or Deputy Director (again, depending on which part of TTS you're in) and they'll take it to the group for consideration.
 
 Remember, you're asking for a substantial commitment of organizational resources. At a minimum, they'll want to know:
 
@@ -84,8 +84,8 @@ Remember, you're asking for a substantial commitment of organizational resources
         <th class="col-grouplet" id="accessibility">Accessibility</th>
         <td class="col-description">
           We help TTS develop good, accessible products from the start of production in order to provide an excellent user experience for everyone. <br />
-          <a href="https://accessibility.18f.gov/">Homepage</a> 
-          &bull; 
+          <a href="https://accessibility.18f.gov/">Homepage</a>
+          &bull;
           <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
         </td>
       </tr>
@@ -93,7 +93,7 @@ Remember, you're asking for a substantial commitment of organizational resources
         <th class="col-grouplet" id="content">Content</th>
         <td class="col-description">
           We promote concise, elegant, user-centered writing. We plan for the creation, publication, and governance of useful, usable content. <br />
-          <a href="https://pages.18f.gov/content-guide/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-content">#g-content</a>
+          <a href="https://content-guide.18f.gov/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-content">#g-content</a>
         </td>
       </tr>
       <tr>
@@ -137,7 +137,7 @@ Remember, you're asking for a substantial commitment of organizational resources
 
 ### Guild leadership
 
-Guilds should be led people from different parts of TTS. They should expect to spend a few hours per week on guild leadership, meetings, and preparation. Individual guilds can set their own leadership terms, with the most common being one year. 
+Guilds should be led people from different parts of TTS. They should expect to spend a few hours per week on guild leadership, meetings, and preparation. Individual guilds can set their own leadership terms, with the most common being one year.
 
 Guild leadership is recognized by a staff member’s supervisor as a responsibility and they should be reviewed on their performance. However, it is an informal role. There are no administrative supervisory duties attached and there is no GS-level or previous leadership requirement.
 
@@ -150,7 +150,7 @@ Typically guilds follow a lightweight leadership selection process:
 ## 18F Communities
 18F has developed Communities, with "Community Leads" guiding them. These communities are an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization.
 
-These communities should all have Slack channels with a `c-` prefix. Since their channels are one of their best ways of promoting best practices, you're encouraged to join any you find interesting. 
+These communities should all have Slack channels with a `c-` prefix. Since their channels are one of their best ways of promoting best practices, you're encouraged to join any you find interesting.
 
 Current 18F Communities (and their Community Leads) include:
 
@@ -200,7 +200,7 @@ Current 18F Communities (and their Community Leads) include:
         </td>
       </tr>
     </tbody>
-  </table> 
+  </table>
 </div>
 
 ## Communities of Practice

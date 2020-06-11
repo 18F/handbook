@@ -66,7 +66,7 @@ We’re always looking for ways to improve the Lab workflow, the quality of our 
 
 ### What has the Writing Lab worked on in the past?
 
-Feel free to peruse the [issues associated with the Writing Lab repository](https://github.com/18F/writing-lab/issues). Also, if you haven’t had a chance to check out the [18F Content Guide](https://pages.18f.gov/content-guide/) yet, that’s a great place to go to familiarize yourself with our style.
+Feel free to peruse the [issues associated with the Writing Lab repository](https://github.com/18F/writing-lab/issues). Also, if you haven’t had a chance to check out the [18F Content Guide](https://content-guide.18f.gov/) yet, that’s a great place to go to familiarize yourself with our style.
 
 ### Additional Resources
 

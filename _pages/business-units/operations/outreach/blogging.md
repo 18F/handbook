@@ -22,7 +22,7 @@ In sum, our goals are:
 
 ### Execution
 
-Our publications adhere to [18F’s Content Guide](https://pages.18f.gov/content-guide/), actively promoting a unified style and a multitude of voices. The Outreach Team determines editorial strategy; that team also oversees the drafting and editing processes.
+Our publications adhere to [18F’s Content Guide](https://content-guide.18f.gov/), actively promoting a unified style and a multitude of voices. The Outreach Team determines editorial strategy; that team also oversees the drafting and editing processes.
 
 The blog is further supported by volunteer writers across 18F. Team contributions (idea generation, drafting, giving interviews) are key to its success. We accept pitches for blog ideas from everyone on the 18F team [in a working GitHub repository.](https://github.com/18f/blog-drafts)
 
@@ -209,7 +209,7 @@ If a post has multiple authors, then it should only use plural pronouns (we, our
 
 ### Guest authors
 
-The 18F blog welcomes guest authors from other government agencies. They're especially good for highlighting the innovative work happening around the government, getting a different perspective on 18F projects, and for showing how agencies are adapting our tools for their own use. Our blog team is happy to work with guest authors to develop an idea and edit their writing. We'll work to support their tone and voice, but all posts on the 18F blog will follow our [Content Guide](https://pages.18f.gov/content-guide/). Posts from guest authors will have to go through the communications approval process at their agency as well as at 18F and GSA.
+The 18F blog welcomes guest authors from other government agencies. They're especially good for highlighting the innovative work happening around the government, getting a different perspective on 18F projects, and for showing how agencies are adapting our tools for their own use. Our blog team is happy to work with guest authors to develop an idea and edit their writing. We'll work to support their tone and voice, but all posts on the 18F blog will follow our [Content Guide](https://content-guide.18f.gov/). Posts from guest authors will have to go through the communications approval process at their agency as well as at 18F and GSA.
 
 ### No authors
 

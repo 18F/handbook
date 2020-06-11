@@ -230,15 +230,9 @@ You may be invited to other Slack workspaces operated by government entities, or
 - **If you would like documents or materials, you can either use publicly available methods to request that we publish them publicly, or you can file a FOIA request for GSA to release them.** Don't request materials that aren't already public to be sent to you — even if they were non-sensitive or documents that you personally authored while you were here. Note that people formerly in the Senior Executive Service have additional restrictions about what FOIA requests they can make.
 - **Don't share job postings.** This is especially true for your own employer, but applies to postings generally. We don't want our #alumni channel to be providing advantages to any particular company due to someone's access to it. You can use email or other publicly accessible methods to share job postings.
 
-## Infrastructure security
+## Security
 
-Slack is currently built on Amazon Web Services (AWS), which from a federal security perspective, already has a host of protections verified through GSA's [FedRAMP program](https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-eastwest-us-public-cloud/). GSA IT and 18F have also conducted a review of Slack's security operations and vulnerability scanning.
-
-However, there are currently _no_ assurances that Slack employees can't read any and all of the messages sent via Slack. In fact, Slack [makes it clear](https://slack.com/security) that its employees _do_ have this ability, and just don't use it without customer permission:
-
-> All of our employees are bound to our policies regarding customer data and we treat these issues as matters of the highest importance within our company. If, in order to diagnose a problem you are having with the service, we would need to do something which would expose your data to one of our employees in a readable form, we will always ask you prior to taking action and will not proceed without your permission. Our platform will automatically generate an audit entry of any such access.
-
-This is the case with most software as a service offerings. Slack has multiple mechanisms in place to audit this access, and ensure it is only done with the appropriate authorizations. Regardless, we currently do not, and may never, authorize Slack to handle [sensitive information](../sensitive-information/)).
+[Slack is FedRAMP Authorized.](https://marketplace.fedramp.gov/#/product/slack?sort=productName&productNameSearch=slack)
 
 ## Connectivity issues
 

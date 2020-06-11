@@ -78,7 +78,7 @@ Before taking leave, be sure to:
 - Mark your out of office time on your calendar and any applicable team or project calendars. Remember to set the permissions of the event to "public" so that people can see it's OOO time, rather than just seeing "busy."
 - Tell team members or partners via Slack or email, and make sure work is covered
 - Set up an email autoresponder as appropriate. This should include both when you’ll be back and a point of contact/team email for while you’re out. For example: `I am out of the office on Wednesday January 2nd and will respond to your request when I return on Thursday the 3rd. If you need immediate assistance please email 18F-PartnerSolutions@gsa.gov and your request will be directed to the appropriate party.`
-- Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per https://handbook.18f.gov/leave/#returning-from-leave” on [date you return]`
+- Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per https://handbook.tts.gsa.gov/leave/#returning-from-leave” on [date you return]`
 
 - 18F team members should also:
     - Submit [correct Tock entries]({{site.baseurl}}/tock/#tocking-for-out-of-office-time)
@@ -138,7 +138,7 @@ The Family and Medical Leave Act (FMLA) allows most federal employees to take up
 
 Former members of the military and/or a military service academy can receive credit for their time. They’ll need to fill out form [FERS 3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf). An employee who has transferred from another agency can use their time to count toward the 12-month restriction.
 
-The Department of Labor has a [detailed guide to FMLA](https://www.dol.gov/whd/fmla/), including this [FMLA FAQ](https://www.dol.gov/whd/fmla/fmla-faqs.htm).
+The Department of Labor has a [detailed guide to FMLA](https://www.dol.gov/agencies/whd/fmla).
 
 For complete details, see [this recent guidance](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
 

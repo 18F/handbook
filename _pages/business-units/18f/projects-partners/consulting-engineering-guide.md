@@ -19,20 +19,20 @@ Working this way may be different from what you’ve done in previous roles. But
   * Helping people realize and accept hard truths
   * Negotiating stakeholder buy-in
   * Delivering bad news compassionately and voicing discomfort early
-  * Teaching and mentoring 
+  * Teaching and mentoring
   * Speaking confidently while remaining humble
 * Strong principles, from which you can quickly reason and act within partner situations, tempered by a willingness to compromise where appropriate. That means:
-  * Working rapidly with the information you have and making confident choices. 
+  * Working rapidly with the information you have and making confident choices.
   * Biasing toward action, even if the final destination isn’t yet fully known.
   * Keeping an agile mindset  — just as you iterate on your code, you stay flexible in engagements.
   * Being willing to experiment quickly, fail gracefully, learn through action, adjust and move forward.
   * Acknowledging the legitimacy of organizational, political, monetary, etc. factors to influence technology choices.
-* A willingness to let go of platform snobbery. That means: 
+* A willingness to let go of platform snobbery. That means:
   * Being willing  to engage with legacy technologies.
   * Digging in with partners to understand the platforms and systems they have now.
   * Being open to using less desirable platforms due to partner staff capacity or integration needs.
 * A willingness to try non-engineering things. That means:
-  * Helping with research or gathering user feedback 
+  * Helping with research or gathering user feedback
   * Contributing to the overall project strategy or facilitating workshop activities. Embrace these opportunities. You can learn a lot, and you’ll become a better engineer.
 * Being resilient despite situations with ambiguity and project setbacks.
   * In government, many people say “no” and the people with the authority to say “yes” may be hesitant to make that decision or may set a high barrier for their approval.
@@ -40,16 +40,16 @@ Working this way may be different from what you’ve done in previous roles. But
 * A drive to find accomplishment in empowering others to succeed and to hand off ownership. Ask yourself, “When I leave, will the people who I’m working with be able to own this?”
 
 ## What skills do you bring to consulting engagements?
-You bring a wide variety of needed skills and perspectives to a consulting engagement. First and foremost is your up-to-date knowledge of how to develop software following modern best practices. Partners who spend their time maintaining legacy systems may not know what’s now possible, either in terms of development methodologies or in terms of modern software stacks. Our expertise can help seed ideas for new ways to solve their problems as well as help them avoid common pitfalls. 
+You bring a wide variety of needed skills and perspectives to a consulting engagement. First and foremost is your up-to-date knowledge of how to develop software following modern best practices. Partners who spend their time maintaining legacy systems may not know what’s now possible, either in terms of development methodologies or in terms of modern software stacks. Our expertise can help seed ideas for new ways to solve their problems as well as help them avoid common pitfalls.
 
-Another significant role engineers can play in consulting engagements is to demonstrate concepts through functional prototypes. Showing partners how they could do things, rather than telling them, is most effective at demonstrating the value of agile and user-centered development. 
+Another significant role engineers can play in consulting engagements is to demonstrate concepts through functional prototypes. Showing partners how they could do things, rather than telling them, is most effective at demonstrating the value of agile and user-centered development.
 
 You can also be highly effective bolstering the qualitative data being gathered through research and user interviews. Most engineers tend to be very good a pattern-spotting, finding the sticky piece(s) in large systems, and analyzing available data and visualizing how things fit together. These are all highly valuable skills in a path analysis team.
 
 Finally, by involving engineers in consulting engagements, we have the opportunity to help set the direction of a project from the beginning. This allows us to have more leverage on big efforts by using small, early, engagements to influence where we put our larger efforts moving forward. This will result in builds that are better focused on solving the problems our partners face.
 
 ## Working with your team and partner
-First, keep in mind the principles outlined in [How We Relate to Partners](https://handbook.18f.gov/how-we-relate-to-partners/) and always work with trust, respect, value, and collaboration. As the technical specialist on the team, also realize that people will look to you as the expert in the room and expect you to quickly understand the partner’s problems, land on potential solutions, and to be able to present them in a respectful and helpful manner. 
+First, keep in mind the principles outlined in [How We Relate to Partners]({{site.baseurl}}/how-we-relate-to-partners/) and always work with trust, respect, value, and collaboration. As the technical specialist on the team, also realize that people will look to you as the expert in the room and expect you to quickly understand the partner’s problems, land on potential solutions, and to be able to present them in a respectful and helpful manner.
 
 The classic engineering belief that being super blunt is always the best approach is probably not going to be effective. A little diplomacy is very helpful. That said, trust your instincts and don’t be afraid to gently disagree with the partner.
 
@@ -90,9 +90,9 @@ Because consulting engagements may have relatively few opportunities to code, yo
 * Self-study and other professional development opportunities
 
 ## What will engineers get out of this work?
-Consulting engagements provide the opportunity to have a huge amount of impact, and when engineers are involved early, we have an opportunity to evangelize the technical topics we believe in, help set the framework of the solution, and help set the tone of the conversation. By providing technical backing for the early recommendations, you have a chance to show our partners the value of the techniques we believe in. 
+Consulting engagements provide the opportunity to have a huge amount of impact, and when engineers are involved early, we have an opportunity to evangelize the technical topics we believe in, help set the framework of the solution, and help set the tone of the conversation. By providing technical backing for the early recommendations, you have a chance to show our partners the value of the techniques we believe in.
 
-You’ll get a chance to test and validate the depth of your knowledge as you share and teach. Talking about things you may consider part of the basics gives you practice in communicating complex ideas and connecting those ideas with a broader picture. 
+You’ll get a chance to test and validate the depth of your knowledge as you share and teach. Talking about things you may consider part of the basics gives you practice in communicating complex ideas and connecting those ideas with a broader picture.
 
 These projects are also a chance to learn new skills or make leaps in old ones. Client communication and rapid prototyping, project scoping and problem analysis, pattern recognition skills and human (soft) skills are all areas for growth. These skills can be valuable for developing architecture and system design capabilities as well as for your career growth.
 

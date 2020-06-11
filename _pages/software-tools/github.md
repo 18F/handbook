@@ -28,7 +28,7 @@ Include the following:
 
 ### 3. Adjust notification settings
 
-Take a look at [your notification settings](https://github.com/settings/notifications). In particular, it's suggested that you turn off `Automatically watch repositories`. You may also want to take a look at [tips for filtering GitHub notifications in email](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/about-email-notifications#filtering-email-notifications).
+Take a look at [your notification settings](https://github.com/settings/notifications). In particular, it's suggested that you turn off `Automatically watch repositories`. You may also want to take a look at [tips for filtering GitHub notifications in email](https://help.github.com/en/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications).
 
 ### 4. Join the 18F organization
 

@@ -98,7 +98,7 @@ There's a mother's (aka lactation) room on the 54th floor on the southeast side.
 
 ### Snacks and drinks
 
-There is [a coffee shop on the 64th floor](https://forfivecoffee.com/). You need to go back down to the 1st floor to go back up to it. There are also many options in [the Oculus mall](https://www.westfield.com/westfieldworldtradecenter/entertainment/dining), or across the street at [Brookfield Place](https://brookfieldplaceny.com/directory/food/all).
+There is [a coffee shop on the 64th floor](https://forfivecoffee.com/). You need to go back down to the 1st floor to go back up to it. There are also many options in [the Oculus mall](https://www.westfield.com/westfieldworldtradecenter/entertainment/dining), or across the street at [Brookfield Place](https://bfplny.com/food).
 
 ### Spare keyboards and mice
 
