@@ -6,14 +6,16 @@ The following holidays are observed by CivicActions and the office is considered
 
 | Holiday                       | Dates                                                |
 | ----------------------------- | ---------------------------------------------------- |
-| New Year's Day                | January 1st                                          |
+| New Year's Day                | January 1st\*                                        |
 | Martin Luther King's Birthday | Third Monday in January                              |
 | Memorial Day                  | Last Monday in May                                   |
-| Independence Day              | July 4th                                             |
+| Independence Day              | July 4th\*                                           |
 | Labor Day                     | First Monday in September                            |
-| Veterans Day                  | November 11th                                        |
+| Veterans Day                  | November 11th\*                                      |
 | Thanksgiving                  | Fourth Thursday in November and the following Friday |
-| Christmas                     | December 25th                                        |
+| Christmas                     | December 25th\*                                      |
+
+\*Typically for holidays that fall on Saturday, the office is closed the preceeding Friday. For holidays that fall on Sunday, the office is closed the following Monday.
 
 Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation. You do NOT need to log entries when the office is closed for a Holiday.
 
