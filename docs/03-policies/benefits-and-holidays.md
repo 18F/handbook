@@ -17,7 +17,7 @@ The following holidays are observed by CivicActions and the office is considered
 
 \*Typically for holidays that fall on Saturday, the office is closed the preceeding Friday. For holidays that fall on Sunday, the office is closed the following Monday.
 
-Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation. You do NOT need to log entries when the office is closed for a Holiday.
+Employees are not encouraged to work on holidays; however, if you feel it's necessary for your own peace of mind, hourly employees will be compensated at their normal hourly rate. Full-time employees who voluntarily work on designated holidays will not receive additional compensation. The rule of thumb is that if a holiday falls on a Saturday, we et Friday off and if it falls on a Sunday we get Monday off. Typically, if a holiday falls on a Saturday, the office is closed the observing Friday off and if it falls on a Sunday the office is closed the observing Monday. You do NOT need to log entries when the office is closed for a Holiday.
 
 ## Time Off
 
