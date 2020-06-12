@@ -18,7 +18,7 @@ Badges are shipped to your local GSA office. You will receive an email once your
 
 ## Laptop
 
-TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA. See [information about using PIV card readers](https://docs.google.com/document/d/16bXKMpjHk4mtMbYim3Zf9EIriobdB75EIDKZPPmPIvs/edit).
+TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA. See [information about using PIV card readers]({{site.baseurl}}/piv/).
 
 ### Operating System
 
