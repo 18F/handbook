@@ -2,9 +2,21 @@
 title: PIV card
 ---
 
-All personal computers at GSA need to use PIV (a.k.a. Smart) cards to log in. This means you'll use a PIN when logging into your Mac, as well as when you perform other actions on your Mac that require a password. It is not a replacement for your ENT password. Here are some common questions (and answers) that may help.
+_a.k.a. your "Smart Card" or "GSA badge"._
 
-## Password vs. PIN
+## Getting issued a card
+
+Your PIV allows you to get in and out of GSA buildings and avoid security lines.
+
+Although some of our employees are based out of a specific office, your badge can be permissioned for multiple GSA buildings. Email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to start this process, which usually takes a few days. After you receive an email confirmation, you'll need to visit the security office in each new building to activate your card.
+
+GSA processes new badges every Wednesday. When your badge is ready, you’ll receive an email (in both your personal and GSA emails) from `HSPD12Admin@usaccess.gsa.gov` containing four steps. Please skip to step four, which details how to schedule an appointment and pick up your badge, and bring the password in step three. To check on the status of your GSA badge, you can email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov).
+
+## Use with a GSA Mac
+
+### Password vs. PIN
+
+All personal computers at GSA need to use PIV cards to log in. This means you'll use a PIN when logging into your Mac, as well as when you perform other actions on your Mac that require a password. It is not a replacement for your ENT password. Here are some common questions (and answers) that may help.
 
 When the computer first turns on from off/restart, you will use your Mac password. Past that, the PIV+PIN should be used. When the card reader is connected (and working properly), the prompt will change from "password" to "PIN". PIV + PIN authentication will be required:
 
@@ -19,9 +31,17 @@ If you are prompted on your laptop to "reset your password", it is referring to 
 
 The GSA Self Service app uses your ENT credentials.
 
-## PIV readers
+### Certificate prompt
 
-### Types
+When logging into some systems, you will be asked to choose a digital certificate. If your PIV card is inserted, there will be two certificates listed with your name on them.
+
+- The right choice generally seems to be the first option.
+- If you want to be certain, on Macs you can look at the digital certificate's "Usage" field. Choose the one that is **_only_** "Digital Signature"
+- If you choose the wrong certificate the first time, you might still be able to log in with another using an incognito window
+
+### PIV readers
+
+#### Types
 
 GSA has a few different types of USB-C readers:
 
@@ -47,6 +67,6 @@ Everyone should have two readers (so they have a backup) --- [request a backup a
 
 If this error message appears after a period of working, functional PIV login and authentication, it could be a poor connection between the PIV and the reader. Try cleaning the contact pad on the PIV with a pencil eraser. Wipe any eraser debris off afterwards, and reinsert the card into the reader and try again.
 
-## Forgot your card
+#### Forgot your card
 
-Please [contact the Help Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk) and they will assist you in logging into your Mac by temporarily enabling your computer to use a username and password. This can be done remotely, as long as you are connected to the internet. They can also help get a new card reader mailed to you.
+Please [contact the Help Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk) and they will assist you by temporarily enabling your computer to use a username and password. This can be done remotely, as long as you are connected to the internet.
