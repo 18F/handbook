@@ -4,21 +4,13 @@ title: Equipment
 
 GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Operations Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
 
-## Badge
-
-Your GSA badge, also known as a PIV card, allows you to get in and out of GSA buildings and avoid security lines.
-
-Although some of our employees are based out of a specific office, your badge can be permissioned for multiple GSA buildings. Email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to start this process, which usually takes a few days. After you receive an email confirmation, you'll need to visit the security office in each new building to activate your card.
-
-GSA processes new badges every Wednesday. When your badge is ready, you’ll receive an email (in both your personal and GSA emails) from `HSPD12Admin@usaccess.gsa.gov` containing four steps. Please skip to step four, which details how to schedule an appointment and pick up your badge, and bring the password in step three. To check on the status of your GSA badge, you can email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov).
-
 ### Distributed employees
 
 Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
 
 ## Laptop
 
-TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA. See [information about using PIV card readers](https://docs.google.com/document/d/16bXKMpjHk4mtMbYim3Zf9EIriobdB75EIDKZPPmPIvs/edit).
+TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA. See [information about using PIV card readers]({{site.baseurl}}/piv/).
 
 ### Operating System
 
