@@ -60,7 +60,7 @@ The majority of our conversations take place on Slack and video.  There are a nu
 
 #### Sign
 
-The first order of business is to read and sign the linked [NDA](https://docs.google.com/document/d/14WdpMB-PqDPyIFEZNKioCS_1JqYPDjrPEHdhNure6TQ/edit#).  If you want to more more about what these are to protect, review the Federal Acquisition Regulation (FAR) Parts [3](https://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/03.htm) and [9](https://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/09.htm) (we can wait and general tradecraft tip -- use the [US Air Force FAR](https://farsite.hill.af.mil/) website because acquisition.gov is less reliable). When you are done please let us know in the [#18f-acquisitions](https://gsa-tts.slack.com/messages/18f-acquisitions/) channel and we’ll put it in the folder. 
+The first order of business is to read and sign the linked [NDA](https://docs.google.com/document/d/14WdpMB-PqDPyIFEZNKioCS_1JqYPDjrPEHdhNure6TQ/edit#).  If you want to more more about what these are to protect, review the Federal Acquisition Regulation (FAR) Parts [3](https://www.acquisition.gov/content/part-3-improper-business-practices-and-personal-conflicts-interest) and [9](https://www.acquisition.gov/content/part-9-contractor-qualifications). When you are done please let us know in the [#18f-acquisitions](https://gsa-tts.slack.com/messages/18f-acquisitions/) channel and we’ll put it in the folder.
 
 #### Read
 These are a couple of suggested reading materials meant to give you a better sense of our approach to acquisition consulting and modular procurement.  
