@@ -39,7 +39,7 @@ Buying something over $10,000 means that the Office of Acquisition (OA) needs to
 ### 5. Posting the solicitation
   
 - We documented what we need and what is required per federal and agency regulations, so now we can post it to the public and see who can deliver!
-- The COs have several venues where we can post our RFQ and supporting documentation: [GSA ebuy](https://www.ebuy.gsa.gov/advantage/ebuy/start_page.do), [FedBizOpps](https://www.fbo.gov/), and/or [Github](https://github.com/). The CO will be responsible for this action. 
+- The COs have several venues where we can post our RFQ and supporting documentation: [GSA ebuy](https://www.ebuy.gsa.gov/), [FedBizOpps](https://www.fbo.gov/), and/or [Github](https://github.com/). The CO will be responsible for this action. 
 
 ### 6. Evaluations
 
@@ -81,7 +81,7 @@ Buying something over $10,000 means that the Office of Acquisition (OA) needs to
 
 ### Contractor Performance Assessment Report (CPARS)
 
-- For contracts over the simplified acquisition threshold (currently $250,000), the government is obligated to evaluate contractor performance. This evaluation will happen at the end of each Period of Performance (PoP). The CO will initiate the CPARS form and route it to you to evaluate the work of your contractor. Performance information should be entered directly into the CPARS, the Governmentwide evaluation reporting tool. Instructions for submitting evaluations into CPARS are available at [http://www.cpars.gov](http://www.cpars.gov/). After you submit the evaluation, it will go to your contractor POC for review. The evaluations are automatically finalized after 14 days, including any comments the contractor add to the review. This may sound overwhelming, but kindly note that your CO will guide you through the entire process. Please contact your CO if you have any questions. 
+- For contracts over the simplified acquisition threshold (currently $250,000), the government is obligated to evaluate contractor performance. This evaluation will happen at the end of each Period of Performance (PoP). The CO will initiate the CPARS form and route it to you to evaluate the work of your contractor. Performance information should be entered directly into the CPARS, the Governmentwide evaluation reporting tool. Instructions for submitting evaluations into CPARS are available at [https://www.cpars.gov](https://www.cpars.gov/). After you submit the evaluation, it will go to your contractor POC for review. The evaluations are automatically finalized after 14 days, including any comments the contractor add to the review. This may sound overwhelming, but kindly note that your CO will guide you through the entire process. Please contact your CO if you have any questions. 
 
 ### Contract close out
 

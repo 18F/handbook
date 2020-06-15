@@ -60,7 +60,7 @@ The majority of our conversations take place on Slack and video.  There are a nu
 
 #### Sign
 
-The first order of business is to read and sign the linked [NDA](https://docs.google.com/document/d/14WdpMB-PqDPyIFEZNKioCS_1JqYPDjrPEHdhNure6TQ/edit#).  If you want to more more about what these are to protect, review the Federal Acquisition Regulation (FAR) Parts [3](http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/03.htm) and [9](http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/09.htm) (we can wait and general tradecraft tip -- use the [US Air Force FAR](http://farsite.hill.af.mil/) website because acquisition.gov is less reliable). When you are done please let us know in the [#18f-acquisitions](https://gsa-tts.slack.com/messages/18f-acquisitions/) channel and we’ll put it in the folder. 
+The first order of business is to read and sign the linked [NDA](https://docs.google.com/document/d/14WdpMB-PqDPyIFEZNKioCS_1JqYPDjrPEHdhNure6TQ/edit#).  If you want to more more about what these are to protect, review the Federal Acquisition Regulation (FAR) Parts [3](https://www.acquisition.gov/content/part-3-improper-business-practices-and-personal-conflicts-interest) and [9](https://www.acquisition.gov/content/part-9-contractor-qualifications). When you are done please let us know in the [#18f-acquisitions](https://gsa-tts.slack.com/messages/18f-acquisitions/) channel and we’ll put it in the folder.
 
 #### Read
 These are a couple of suggested reading materials meant to give you a better sense of our approach to acquisition consulting and modular procurement.  
@@ -81,7 +81,7 @@ These are a couple of suggested reading materials meant to give you a better sen
   * [Using RFPs Make Every Dollar Count](https://18f.gsa.gov/2016/10/03/using-rfps-make-every-dollar-count/) 
 * Brief descriptions of the Acquisition Chapters’ [most successful projects](https://docs.google.com/document/d/1MPBSUYw3jOVMdMlOZ4afmcVLzGb6QS-nRn7kf2IuFeg/edit#heading=h.dlahkkoneeur)
 * [Intro to Acquisition Consulting](https://docs.google.com/presentation/d/1_SP25AV8CB2-2nxyFPSk3V0t6SClafwZmDs9jQRvHzo/edit?pli=1#slide=id.g4be6f7f337_0_12)
-* Keep this for later, but if you ever need to know the answer to the question “Can you…” when it comes to a contract save yourself the time and use the [Government Attorney’s Desk Reference](http://www.loc.gov/rr/frd/Military_Law/Contract-Fiscal-Law-Department.html) (called the “Blue Book”, whereas the fiscal law guide is the “Red Book”).
+* Keep this for later, but if you ever need to know the answer to the question “Can you…” when it comes to a contract save yourself the time and use the [Government Attorney’s Desk Reference](https://www.loc.gov/rr/frd/Military_Law/Contract-Fiscal-Law-Department.html) (called the “Blue Book”, whereas the fiscal law guide is the “Red Book”).
 
 ### Pro-tips for working with our partners
 

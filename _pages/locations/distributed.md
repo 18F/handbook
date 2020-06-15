@@ -29,7 +29,7 @@ title: Distributed
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value"><a href="http://www.gsa.gov/portal/category/22227">Find your GSA region</a>.</td>
+        <td class="col-value"><a href="https://www.gsa.gov/portal/category/22227">Find your GSA region</a>.</td>
       </tr>
     </tbody>
   </table>

@@ -12,7 +12,7 @@ VMware Horizon is a Windows virtual desktop client that can be used to connect t
 
 New employees should have a GSA VMware myView/Horizon account, but if not:
 
-1. Go to [servicedesk.gsa.gov](http://servicedesk.gsa.gov/).
+1. Go to [servicedesk.gsa.gov](https://servicedesk.gsa.gov/).
 1. Sign in with your ENT username and password.
 1. Click **Order Something**.
 1. Click **Horizon(VDI)**.
@@ -25,7 +25,7 @@ New employees should have a GSA VMware myView/Horizon account, but if not:
 1. Click on the VMware Horizon icon (on your desktop)
 2. Enter `horizon.gsa.gov` for server
 3. Use ENT info for initial VMware Horizon login-in screen
-4. Go to [otp.gsa.gov](http://otp.gsa.gov) and enter your ENT info to get the Tokencode
+4. Go to [otp.gsa.gov](https://otp.gsa.gov) and enter your ENT info to get the Tokencode
    - You can also obtain a Tokencode by installing SecureAuth OTP on your
      phone, as described in the [Get a one-time password?]({{site.baseurl}}/distributed/#get-a-one-time-password)
      handbook section

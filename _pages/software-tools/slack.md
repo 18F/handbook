@@ -13,7 +13,7 @@ This page overviews how to get setup with Slack at TTS and covers some best prac
 
 ## Getting started
 
-- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
+- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal](https://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
 - **[Add yourself to our custom emojis](https://gsa-tts.slack.com/customize/emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Post your emoji (and any other custom emojis you add) to the [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY) channel.
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
@@ -22,10 +22,10 @@ This page overviews how to get setup with Slack at TTS and covers some best prac
 
 ## Usage of TTS's Slack
 
-Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff. Some things you'll want to remember, especially if you're new to Slack:
+Slack is required for all [TTS](https://www.gsa.gov/portal/category/25729) staff. Some things you'll want to remember, especially if you're new to Slack:
 
 - **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don't say something on Slack that you wouldn't feel comfortable appearing on the news.
-- **Customizing your profile** by adding your location and [personal pronouns](http://pronoun.is/) to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Remember to add other helpful info in your profile while you're in there.
+- **Customizing your profile** by adding your location and [personal pronouns](https://pronoun.is/) to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Remember to add other helpful info in your profile while you're in there.
 - **The advanced settings section** provides an option for _only showing channels that have unread messages._ This is useful if you're a member of a lot of channels.
 - **Click the timestamp** on any post to go to the archival view of it. This is helpful if you'd like to cross-post a link to a message in another channel.
 - **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
@@ -72,7 +72,7 @@ When you are interested in a shared channel, please drop into [#admins-slack](ht
 
 ## Public channels
 
-[TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. However, when we say "public channels" on this page, we mean channels open to all members of the public.)
+[TTS](https://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. However, when we say "public channels" on this page, we mean channels open to all members of the public.)
 
 Friends with `.gov`/`.mil` email addresses who aren't collaborating on a project can be invited into public channels. Fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link).
 
@@ -158,7 +158,7 @@ Some channels may have particular guidance for getting help, which you can usual
 | `:plus:`                 | "I agree"                                                                                                                                                 |                                                                                                                                        |
 | `:point_up:`             | "I would also say this." Can mean "this is correct" if you are the decider.                                                                               |                                                                                                                                        |
 | `:question:`             | "I don't understand this" or "this needs follow-up"                                                                                                       |                                                                                                                                        |
-| `:raccoon: ==> #channel` | "Please consider moving this conversation to a different channel."                                                                                        | [Slack](http://www.slate.com/articles/technology/users/2015/04/slack_and_the_office_chat_several_people_are_typing_who_s_working.html) |
+| `:raccoon: ==> #channel` | "Please consider moving this conversation to a different channel."                                                                                        | [Slack](https://www.slate.com/articles/technology/users/2015/04/slack_and_the_office_chat_several_people_are_typing_who_s_working.html) |
 | `:raised_hand:`          | "I volunteer"                                                                                                                                             |                                                                                                                                        |
 | `:raising_hand:`         | "Have time for a question?" Keep in mind that many folks strongly prefer that you also add what your question is about so they can determine its urgency. |                                                                                                                                        |
 | `:shipit:`               | "Ship it", "this is ready to go", etc.                                                                                                                    | [GitHub](https://www.quora.com/On-GitHub-what-is-the-significance-of-the-Ship-It-squirrel)                                             |
@@ -189,7 +189,7 @@ Note this is only necessary for new bots or _types_ of integrations—approval i
 
 Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-tts.slack.com/help/requests/new) for help.
 
-New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the [TTS](http://www.gsa.gov/portal/category/25729) Slack, fill out the form.
+New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the [TTS](https://www.gsa.gov/portal/category/25729) Slack, fill out the form.
 
 Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreadsheets/d/1karb4OJPFga493-3bnuWFvhFuk18iFlvz-xWC8ZedSQ/edit#gid=161327310). [Edit the form](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit).
 
@@ -230,15 +230,9 @@ You may be invited to other Slack workspaces operated by government entities, or
 - **If you would like documents or materials, you can either use publicly available methods to request that we publish them publicly, or you can file a FOIA request for GSA to release them.** Don't request materials that aren't already public to be sent to you — even if they were non-sensitive or documents that you personally authored while you were here. Note that people formerly in the Senior Executive Service have additional restrictions about what FOIA requests they can make.
 - **Don't share job postings.** This is especially true for your own employer, but applies to postings generally. We don't want our #alumni channel to be providing advantages to any particular company due to someone's access to it. You can use email or other publicly accessible methods to share job postings.
 
-## Infrastructure security
+## Security
 
-Slack is currently built on Amazon Web Services (AWS), which from a federal security perspective, already has a host of protections verified through GSA's [FedRAMP program](https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-eastwest-us-public-cloud/). GSA IT and 18F have also conducted a review of Slack's security operations and vulnerability scanning.
-
-However, there are currently _no_ assurances that Slack employees can't read any and all of the messages sent via Slack. In fact, Slack [makes it clear](https://slack.com/security) that its employees _do_ have this ability, and just don't use it without customer permission:
-
-> All of our employees are bound to our policies regarding customer data and we treat these issues as matters of the highest importance within our company. If, in order to diagnose a problem you are having with the service, we would need to do something which would expose your data to one of our employees in a readable form, we will always ask you prior to taking action and will not proceed without your permission. Our platform will automatically generate an audit entry of any such access.
-
-This is the case with most software as a service offerings. Slack has multiple mechanisms in place to audit this access, and ensure it is only done with the appropriate authorizations. Regardless, we currently do not, and may never, authorize Slack to handle [sensitive information](../sensitive-information/)).
+[Slack is FedRAMP Authorized.](https://marketplace.fedramp.gov/#/product/slack?sort=productName&productNameSearch=slack)
 
 ## Connectivity issues
 

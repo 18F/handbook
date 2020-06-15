@@ -19,7 +19,7 @@ STANDARD OPERATING PROCEDURE: TC-18-CS1-001
 
 + **Iteration 1.3 Purpose:** Add process for notification of FBO actions to management and update OGP review process.
 
-**2.0 Applicability:** This SOP applies only to TTS OA procurement actions over the micro-purchase threshold (see [Federal Acquisition Regulation [FAR] Subpart 2.101](https://www.acquisition.gov/far/html/Subpart%202_1.html)) that will be executed by warranted Contracting Officers (COs) within the TTS OA. Note that there are additional reviews required by Office of General Counsel (OGC), Federal Acquisition Regulations (FAR), General Services Administration Acquisition Manual (GSAM), and/or GSA acquisition guidance that are not addressed here but must be followed.
+**2.0 Applicability:** This SOP applies only to TTS OA procurement actions over the micro-purchase threshold (see [Federal Acquisition Regulation [FAR] Subpart 2.101](https://www.acquisition.gov/content/part-2-definitions-words-and-terms#i1125359)) that will be executed by warranted Contracting Officers (COs) within the TTS OA. Note that there are additional reviews required by Office of General Counsel (OGC), Federal Acquisition Regulations (FAR), General Services Administration Acquisition Manual (GSAM), and/or GSA acquisition guidance that are not addressed here but must be followed.
 
 **3.0 Background:** On November 2, 2017, the FAS Commissioner re-delegated limited [Procurement Authority](https://drive.google.com/a/gsa.gov/file/d/1-P5KyFuv-XpoSgbOwQywSgZOJTJXYxnB/view?usp=sharing) to TTS. One condition of that authority was for TTS to develop a process to review procurement actions to ensure compliance with applicable policies and regulations.
 

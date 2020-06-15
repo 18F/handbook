@@ -63,13 +63,13 @@ tags:
 
 * **Full stack developer** - Someone who does both front end and back end development.
 
-* **GCIMS** – [GSA Credential and Identity Management System](http://gcims.gsa.gov), a GSA internal web database that provides authoritative information on GSA personnel, work locations and credentials. GCIMS also stores your contact information, so you may need to update that from time to time.
+* **GCIMS** – [GSA Credential and Identity Management System](https://gcims.gsa.gov), a GSA internal web database that provides authoritative information on GSA personnel, work locations and credentials. GCIMS also stores your contact information, so you may need to update that from time to time.
 
 * **GDS** - the [UK's Government Digital Services](https://gds.blog.gov.uk/) are government pioneers and fellow technologists across the pond.
 
 * **GitHub** - A website to help people collaborate to build software. It's a tool that can be used for finding projects, proposing fixes, having discussions, and more.
 
-* **Grok** - To fully [understand](http://www.urbandictionary.com/define.php?term=grok) something.
+* **Grok** - To fully [understand](https://www.urbandictionary.com/define.php?term=grok) something.
 
 * **GSA** - The [General Services Administration](https://www.gsa.gov/) is an independent agency whose mission is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across government. TTS is part of FAS, which is part of GSA.
 
@@ -139,7 +139,7 @@ tags:
 
 ## More
 
-* [This Ars Technica article](http://arstechnica.com/uncategorized/2012/03/cracking-the-cloud-an-amazon-web-services-primer/) is a good primer on Amazon Web Services jargon.
-* [See a list of federal agency name acronyms](http://api.data.gov/docs/regulations/federalagencies/).
+* [This Ars Technica article](https://arstechnica.com/uncategorized/2012/03/cracking-the-cloud-an-amazon-web-services-primer/) is a good primer on Amazon Web Services jargon.
+* [See a list of federal agency name acronyms](https://api.data.gov/docs/regulations/federalagencies/).
 * [Here's an additional library of government acronyms](https://github.com/unitedstates/acronym).
 * [This is GitHub's glossary](https://help.github.com/articles/github-glossary/)

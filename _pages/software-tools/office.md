@@ -4,7 +4,7 @@ title: Microsoft Office
 
 At TTS, [Google Docs/Sheets/Slides]({{site.baseurl}}/google-drive/) is our preferred tool for documents/spreadsheets/presentations, since it has built-in records retention, collaboration, sharing, importing and exporting of Office files, etc.
 
-In normal day-to-day operations, working on projects for GSA, you will probably never need Microsoft Office. However, if you should encounter an edge situation where Google productivity tools aren't sufficient, the preferred work around is to use Microsoft Office through the [VDI](http://vdi.anywhere.gsa.gov).
+In normal day-to-day operations, working on projects for GSA, you will probably never need Microsoft Office. However, if you should encounter an edge situation where Google productivity tools aren't sufficient, the preferred work around is to use Microsoft Office through the [VDI](https://vdi.anywhere.gsa.gov).
 
 The offering of Office for Mac 2016 licenses from GSA has been on-again-off-again—see [some of the history and considerations](https://docs.google.com/document/d/1ocBJYXv-JblqKSBZYEGVPF3iSAwxtlqEcvW3p6Xd4Mg/edit).
 

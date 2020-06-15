@@ -24,11 +24,11 @@ Include the following:
 ### 2. Set up local Git configuration
 
 - [Use your work email](https://help.github.com/articles/setting-your-email-in-git) rather than your personal email for work-related commits. This only applies to people with more than one email address tied to their GitHub account. Note that this is different than [setting notifications to go to a specific email address](https://help.github.com/articles/choosing-the-delivery-method-for-your-notifications/).
-- If you're using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email, or use a tool like [karn](https://github.com/prydonius/karn). If you have both emails in your [GitHub settings](https://github.com/settings/emails), they will both be tied to your GitHub account anyway.
+- If you're using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email, or use a tool like [karn](https://github.com/prydonius/karn). If you have both emails in your [GitHub settings](https://github.com/settings/emails), they will both be tied to your GitHub account anyway.
 
 ### 3. Adjust notification settings
 
-Take a look at [your notification settings](https://github.com/settings/notifications). In particular, it's suggested that you turn off `Automatically watch repositories`. You may also want to take a look at [tips for filtering GitHub notifications in email](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/about-email-notifications#filtering-email-notifications).
+Take a look at [your notification settings](https://github.com/settings/notifications). In particular, it's suggested that you turn off `Automatically watch repositories`. You may also want to take a look at [tips for filtering GitHub notifications in email](https://help.github.com/en/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications).
 
 ### 4. Join the 18F organization
 

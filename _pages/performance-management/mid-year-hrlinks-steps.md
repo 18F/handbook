@@ -16,7 +16,7 @@ If you're having issues with logging into HR Links while using Google Chrome, pl
 
 ## HR Links performance management steps
 
-### Submitting a performance plan for employee acknowledgment 
+### Submitting a performance plan for employee acknowledgment
 
 * Step-by-step instructions:
   * No action required by employee
@@ -35,7 +35,7 @@ If you're having issues with logging into HR Links while using Google Chrome, pl
 * HR Links in-depth guide (with screenshots):
   * [Employee (Section 1, Topic 1.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
-  
+
 ### Overriding an employee performance plan acknowledgment
 
 A supervisor can acknowledge an employee performance plan on behalf of their employee if the employee is unable to (i.e. on vacation) or refuses to do so (i.e. does not agree with the evaluation).
@@ -48,7 +48,7 @@ A supervisor can acknowledge an employee performance plan on behalf of their emp
 
 If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-a-performance-plan-for-employee-approval).
 
-***NOTE: 120 days must pass from the date the employee acknowledges the updated plan before they can be rated against it.  Please refer to the ["Who can participate in end of year performance reviews?"](https://handbook.tts.gsa.gov/performance-management/#who-participates-in-the-end-of-year-performance-review) section for more information.***
+***NOTE: 120 days must pass from the date the employee acknowledges the updated plan before they can be rated against it.  Please refer to the ["Who can participate in end of year performance reviews?"]({{site.baseurl}}/performance-management/#who-participates-in-the-end-of-year-performance-review) section for more information.***
 
 * Step-by-step instructions:
   * No action required by employee
@@ -67,7 +67,7 @@ Self-assessments are **not required** for the mid year review; however, Supervis
 
 * Additional resource guide:
   * [GSA Employee Guide to Writing an Effective Self-Assessment](https://drive.google.com/open?id=1EFwZLMB4qZLZdz98NKGV-TLnJrquLiqo)
-  
+
 ### Reviewing an employee mid year self-assessment
 
 Self-assessments are **not required** for the mid year review; however, Supervisors can request that their direct reports submit one.
@@ -81,7 +81,7 @@ Self-assessments are **not required** for the mid year review; however, Supervis
 * Step-by-step instructions:
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.c3fz56zdlqf2)
- 
+
 ### Submitting a mid year progress review
 
 * Step-by-step instructions:
@@ -101,7 +101,7 @@ It is critical that all mid-year performance plan evaluations are acknowledged b
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.6ykmn1ge2hlk)
   * No action required by supervisor
-  
+
 ### Overriding an employee acknowledgment
 
 A supervisor can acknowledge an employee evaluation if the employee is unable to (i.e. on vacation) or refuses to do so (i.e. does not agree with the evaluation).

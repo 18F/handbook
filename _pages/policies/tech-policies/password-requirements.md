@@ -24,7 +24,7 @@ You can use your password manager to generate a random unique password for each 
 
 You can use your password manager to store answers to security questions. Instead of setting up real answers (which could be guessable by somebody with information about you), consider setting up random nonsense answers and storing those answers in your password manager.
 
-Here's an interesting comparison of non-expert and expert security practices, from [a study done by Google](http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html):
+Here's an interesting comparison of non-expert and expert security practices, from [a study done by Google](https://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html):
 
 <img src="{{site.baseurl}}/images/equipment/1.png" alt="secure password tips" />
 
@@ -39,12 +39,12 @@ Even if you use a password manager, you'll still need to memorize a few unique p
 This opens up a few risks: A person could try to guess your password based on information about you, or a computer program could try to find your password by "brute forcing" it (making a zillion guesses based on common types and patterns of passwords). To limit these risks:
 
 - Use passwords that are hard to guess even for people who know you -- not your birthday, university, pet's name, favorite TV show, or similar.
-- Use passwords that probably nobody else uses. For some interesting examples of common passwords, check out [this list](https://web.archive.org/web/20151005001104/http://stricture-group.com/files/adobe-top100.txt) based on a real Adobe account dump; you can see dictionary words, names of favorite people/pets/characters/teams, words related to the service, and simple patterns of numbers and letters.
+- Use passwords that probably nobody else uses. For some interesting examples of common passwords, check out [this list](https://web.archive.org/web/20151005001104/https://stricture-group.com/files/adobe-top100.txt) based on a real Adobe account dump; you can see dictionary words, names of favorite people/pets/characters/teams, words related to the service, and simple patterns of numbers and letters.
 - Use longer passwords rather than shorter passwords, since that makes "brute forcing" harder.
 
 [This XKCD comic](https://xkcd.com/936/) explains a common password pattern and one strategy for making stronger passwords:
 
-<img src="http://imgs.xkcd.com/comics/password_strength.png" alt="password strength comic from XKCD" />
+<img src="https://imgs.xkcd.com/comics/password_strength.png" alt="password strength comic from XKCD" />
 
 In other words, you could use a series of random words, plus a few numbers, capital letters, or symbols, if you like.
 

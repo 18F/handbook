@@ -50,7 +50,7 @@ When choosing flights, you may notice they fall into four different categories:
 
 If you need to take a flight which indicates a policy violation, the type of violation will inform what steps you need to take next. Click on "View Fares" to pull up additional details about your flight selection.
 
-If any part of the fare that you chose is nonrefundable, or exceeds the [City Pair rate](http://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email approving the risk of nonrefundable airfare and/or additional costs from [your authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) sent to tts-travelauths@gsa.gov.
+If any part of the fare that you chose is nonrefundable, or exceeds the [City Pair rate](https://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter) (note that lookup values here are for one-way fares), you will need an additional email approving the risk of nonrefundable airfare and/or additional costs from [your authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) sent to tts-travelauths@gsa.gov.
 
 [What justifies using a non-contract fare?](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#i1204997)
 

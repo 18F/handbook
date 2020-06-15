@@ -38,7 +38,7 @@ Generally, treat remote meetings the same way you would treat in-person meetings
 * **Occasionally** you may need to take a meeting from transit or from a non-workspace; that should be rare, and only for meetings that don’t involve screen-sharing, remote collaboration, or presentations.
 
 ### Project rituals and meetings
-We use agile rituals to hold ourselves accountable, build momentum, and get comfortable working iteratively and changing processes. If you’re new to agile, start with the [Agile Manifesto](http://agilemanifesto.org/) or drop by [#agile](https://gsa-tts.slack.com/messages/agile/).
+We use agile rituals to hold ourselves accountable, build momentum, and get comfortable working iteratively and changing processes. If you’re new to agile, start with the [Agile Manifesto](https://agilemanifesto.org/) or drop by [#agile](https://gsa-tts.slack.com/messages/agile/).
 
 Project teams at 18F tend to use a “best of both” hybrid of lightweight [Scrum](https://www.scrum.org/resources/what-is-scrum) (planning, standups, and retros) and [Kanban](https://drive.google.com/file/d/0B0Qfvc1P_XBFVk5rM2tGcDBoUjQ/view) (project boards and continuous prioritization). Most teams default to two-week sprints, but might try shorter or longer sprints if the team thinks they’d be more effective.
 

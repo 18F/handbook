@@ -62,7 +62,7 @@ It’s simple, but slightly counter-intuitive. Here’s how:
 - Court leave can be requested in HR Links; this was not a feature in Aloha
 - Clicking Absence/OT history shows all requests
 - Aloha is now in read-only mode; your time off history can be found there
-- HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. [Federalretirement.net](http://www.federalretirement.net/leave-record.htm) has an easy to use spreadsheet that employees may use as a back up to HRLinks.
+- HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. [Federalretirement.net](https://www.federalretirement.net/leave-record.htm) has an easy to use spreadsheet that employees may use as a back up to HRLinks.
 
 ## Leave
 
@@ -78,7 +78,7 @@ Before taking leave, be sure to:
 - Mark your out of office time on your calendar and any applicable team or project calendars. Remember to set the permissions of the event to "public" so that people can see it's OOO time, rather than just seeing "busy."
 - Tell team members or partners via Slack or email, and make sure work is covered
 - Set up an email autoresponder as appropriate. This should include both when you’ll be back and a point of contact/team email for while you’re out. For example: `I am out of the office on Wednesday January 2nd and will respond to your request when I return on Thursday the 3rd. If you need immediate assistance please email 18F-PartnerSolutions@gsa.gov and your request will be directed to the appropriate party.`
-- Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per https://handbook.18f.gov/leave/#returning-from-leave” on [date you return]`
+- Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per https://handbook.tts.gsa.gov/leave/#returning-from-leave” on [date you return]`
 
 - 18F team members should also:
     - Submit [correct Tock entries]({{site.baseurl}}/tock/#tocking-for-out-of-office-time)
@@ -138,9 +138,9 @@ The Family and Medical Leave Act (FMLA) allows most federal employees to take up
 
 Former members of the military and/or a military service academy can receive credit for their time. They’ll need to fill out form [FERS 3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf). An employee who has transferred from another agency can use their time to count toward the 12-month restriction.
 
-The Department of Labor has a [detailed guide to FMLA](http://www.dol.gov/whd/fmla/), including this [FMLA FAQ](http://www.dol.gov/whd/fmla/fmla-faqs.htm).
+The Department of Labor has a [detailed guide to FMLA](https://www.dol.gov/agencies/whd/fmla).
 
-For complete details, see [this recent guidance](http://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
+For complete details, see [this recent guidance](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
 
 Both parents may use their annual or sick leave after the birth of a child, for the period of the mother’s incapacitation. The length of the medically necessary leave is ultimately determined by a doctor’s note, but six weeks for a vaginal birth and eight weeks for a cesarean birth is common. After parents exhaust their annual and sick leave, they can run a sick leave deficit of up to the amount they will accrue during their tenure.
 

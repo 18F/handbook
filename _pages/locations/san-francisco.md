@@ -16,7 +16,7 @@ title: San Francisco
         <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
           Your best bet is the <a href="https://gsa-tts.slack.com/archives/sf">#sf</a> Slack channel<br />
-          <a href="http://www.gsa.gov/portal/category/107015">Building Services contact info</a>
+          <a href="https://www.gsa.gov/portal/category/107015">Building Services contact info</a>
         </td>
       </tr>
       <tr>
@@ -39,7 +39,7 @@ title: San Francisco
       <tr>
         <td class="col-key"><strong>Region</strong></td>
         <td class="col-value">
-            Pacific Rim Region (<a href="http://www.gsa.gov/portal/content/104695">region 9</a>)
+            Pacific Rim Region (<a href="https://www.gsa.gov/about-us/regions/welcome-to-the-pacific-rim-region-9">region 9</a>)
         </td>
       </tr>
       <tr>
@@ -55,7 +55,7 @@ title: San Francisco
 
 ## The building
 
-[50 UN Plaza](http://www.gsa.gov/portal/category/107031) is on historic Market Street between 6th and 7th streets, in the Civic Center neighborhood. The Bay Area Rapid Transit authority (BART) and MUNI both have underground stops at this location, and the historic F Market streetcar line has two local stops at 6th and 7th Streets.
+[50 UN Plaza](https://www.gsa.gov/portal/category/107031) is on historic Market Street between 6th and 7th streets, in the Civic Center neighborhood. The Bay Area Rapid Transit authority (BART) and MUNI both have underground stops at this location, and the historic F Market streetcar line has two local stops at 6th and 7th Streets.
 
 TTS SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
 
@@ -84,7 +84,7 @@ San Francisco is a very walkable city; there are plenty of hotels, coffee shops,
 
 ### Biking
 
-There is a developing [bikeshare program](http://www.bayareabikeshare.com) in the city of San Francisco.
+There is a developing [bikeshare program](https://www.bayareabikeshare.com) in the city of San Francisco.
 
 Bike parking is next to the loading dock, entered from the far corner at McAllister and Leavenworth. Before you can park your bike, though, you need to print and fill out [this form](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view), and then activate your credential. This means you need to return to the credentialing location where you first initiated the process for your card. (This is probably the federal building at 450 Golden Gate). There are drop-in hours all day on Monday from 9 a.m. to 4 p.m. You can also make an appointment. The card also requires you to come up with a six-digit PIN, so have that ready to go.
 
@@ -93,9 +93,9 @@ If you have any questions about this, contact the [#SF Slack Channel](https://gs
 
 ### Public transit
 
-San Francisco is very accessible by its public transportation system, [SFMTA](https://www.sfmta.com/). The larger Bay Area is also accessible via [BART](http://www.bart.gov/). Taxis, while available, aren't generally necessary for getting around the city, which is only approximately 7 square miles.
+San Francisco is very accessible by its public transportation system, [SFMTA](https://www.sfmta.com/). The larger Bay Area is also accessible via [BART](https://www.bart.gov/). Taxis, while available, aren't generally necessary for getting around the city, which is only approximately 7 square miles.
 
-[Clipper Card](https://www.clippercard.com/ClipperWeb/) is the Bay Area's transit pass. It works on many of the different public transit systems, including SFMTA and BART. SFMTA one-way fare is $2.25 with a 90-minute transfer (although sometimes you get a bit lengthier time for your transfer). BART fares are based on distance. SFO to Civic Center Station is $8.65; OAK to Civic Center Station is $10.05. See [BART's website](http://www.bart.gov/) for further fare prices.
+[Clipper Card](https://www.clippercard.com/ClipperWeb/) is the Bay Area's transit pass. It works on many of the different public transit systems, including SFMTA and BART. SFMTA one-way fare is $2.25 with a 90-minute transfer (although sometimes you get a bit lengthier time for your transfer). BART fares are based on distance. SFO to Civic Center Station is $8.65; OAK to Civic Center Station is $10.05. See [BART's website](https://www.bart.gov/) for further fare prices.
 
 
 ### Parking
@@ -196,7 +196,7 @@ If you're the last to leave your side of the office (north or south side), take 
 
 Men's and women’s bathrooms are just down the hall from the TTS office — walking away from the elevator bays of the building, the men’s room is on the left, and for the women’s keep going down the hall to just past the stairwell on the left.
 
-There is an all-gender bathroom in the Nimitz Suite on the third floor (room 3198), [at the southwest corner of the third floor map here](https://insite.gsa.gov/portal/category/532018). The Nimitz Suite is [a set of conference rooms named after an admiral](http://gsablogs.gsa.gov/gsablog/2014/05/16/a-closer-look-the-nimitz-suite/).
+There is an all-gender bathroom in the Nimitz Suite on the third floor (room 3198), [at the southwest corner of the third floor map here](https://insite.gsa.gov/portal/category/532018). The Nimitz Suite is [a set of conference rooms named after an admiral](https://gsablogs.gsa.gov/gsablog/2014/05/16/a-closer-look-the-nimitz-suite/).
 
 An all-gender bathroom is also available for limited hours on Tuesday through Thursday in the Health Unit, which is in the basement. See the <a href="#health-center">health center</a> section for further details.
 
@@ -210,7 +210,7 @@ There are rechargeable batteries throughout the office space. You will find them
 
 ### Cafeteria and snacks
 
-There's a cafeteria located on the first floor, serving breakfast and lunch. [Official hours](http://www.gsa.gov/portal/content/200155) (they say they close at 2 pm, but they usually close down around 1:50 pm). The cafeteria has a good salad bar.
+There's a cafeteria located on the first floor, serving breakfast and lunch. [Official hours](https://www.gsa.gov/portal/content/200155) (they say they close at 2 pm, but they usually close down around 1:50 pm). The cafeteria has a good salad bar.
 
 There are machines in the basement area with snacks as well as soft drinks.
 
@@ -220,7 +220,7 @@ To find silverware and dishes: go to the kitchen down the hall (the one with the
 
 To find the refrigerators: There's one in the little kitchen room. There's also one in the little "break room" behind the orange wall within our office area (on the UN Plaza side).
 
-What goes in the recycling, composting, and trash bins: The building's default brown paper towels go in compost. For details on other items, see [the recycle/compost/trash lists provided by SF's waste handling company](http://www.recologysf.com/index.php/for-businesses/commercial-recycling-compost-trash).
+What goes in the recycling, composting, and trash bins: The building's default brown paper towels go in compost. For details on other items, see [the recycle/compost/trash lists provided by SF's waste handling company](https://www.recology.com/recology-san-francisco/what-goes-where/).
 
 ### Postal mail
 
@@ -243,7 +243,7 @@ For FedEx and UPS, please use the address as usual:
 
 ### Gym
 
-There is a gym in the basement area ([Federal Fitness Center](http://www.federalfitnesscenter.com/)). To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
+There is a gym in the basement area ([Federal Fitness Center](https://www.federalfitnesscenter.com/)). To gain access, you will need to sign up at 450 Golden Gate — there are drop-in hours all day on Monday from 9 a.m. to 4 p.m., or you can make an appointment.
 
 There are men's and women's locker rooms with lockers and showers. You do not need a gym membership to access these; they are available for day use (not overnight) for everyone in the building. Ask a coworker for the code to the locker room of your choice or [contact Building Services](mailto:50UNPBuildingServices@gsa.gov).
 
@@ -271,10 +271,10 @@ The Health Unit also includes an all-gender bathroom.
 
 ### Helpful contacts
 
-* [50 UN Plaza Building Management](http://www.gsa.gov/portal/content/200391), including how to contact our Building Manager and Building Service Desk.
-* [50 UN Plaza Building Directory](http://www.gsa.gov/portal/category/107011), including additional helpful phone numbers.
+* [50 UN Plaza Building Management](https://www.gsa.gov/portal/content/200391), including how to contact our Building Manager and Building Service Desk.
+* [50 UN Plaza Building Directory](https://www.gsa.gov/portal/category/107011), including additional helpful phone numbers.
 * [Lyvette Jones](mailto:lyvette.jones@gsa.gov), handles transit benefits in SF.
-* [Public Health Clinic](http://www.sfcdcp.org/aitc.html) - 101 Grove St.
+* [Public Health Clinic](https://www.sfcdcp.org/aitc.html) - 101 Grove St.
 * [18F SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-sf)
 * [50 UN Plaza Mailing list](https://groups.google.com/a/gsa.gov/forum/#!forum/50unp)
 

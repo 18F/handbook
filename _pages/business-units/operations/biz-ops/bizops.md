@@ -36,17 +36,17 @@ policy, regulations and bureaucratic requirements.
 - [Events & Training Management]({{site.baseurl}}/conferences-events-training/)
   - Contact: tts-events@gsa.gov; [#training-conferences](https://gsa-tts.slack.com/messages/training-conferences)
 - [Travel]({{site.baseurl}}/travel-guide-table-of-contents/)
-  - Contact: tts-travel@gsa.gov; [#travel](https://gsa-tts.slack.com/message/travel); [office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/)
+  - Contact: tts-travel@gsa.gov; [#travel](https://gsa-tts.slack.com/messages/travel); [office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/)
 - Personnel Actions
   - moving within the org
   - [requesting a higher security clearance]({{site.baseurl}}/top-secret/)
   - [detailing within, to, and from an agency]({{site.baseurl}}/assignee-detail/)
   - [moving to a new duty station]({{site.baseurl}}/moving/)
-  - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
+  - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/messages/people-ops)
 - [Leave & Time Management]({{site.baseurl}}/leave/)
-  - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
+  - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/messages/people-ops)
 - [Benefits help]({{site.baseurl}}/benefits/)
-  - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/message/people-ops)
+  - Contact: TTS-PeopleOps@gsa.gov; [#people-ops](https://gsa-tts.slack.com/messages/people-ops)
 
 # Talent
 
@@ -54,7 +54,7 @@ The Talent team is dedicated to finding the best and the brightest. We partner c
 managers, helping them to make better decisions and to solve their strategic talent acquisition issues. We will deliver an
 incredible candidate experience from the first time a candidate sees a job posting through their days onboarding at TTS.
 
-- Contact: jointts@gsa.gov; [#hiring](https://gsa-tts.slack.com/message/hiring)
+- Contact: jointts@gsa.gov; [#hiring](https://gsa-tts.slack.com/messages/hiring)
 
 ### Talent Areas of Focus
 
