@@ -78,11 +78,12 @@ You **must** bill for the below activities because these are direct costs. This 
     - Time onboarding to a project, which includes reading documentation and learning about the agency
     - Time offboarding from a project. This includes post-mortems, writing documentation, and organizing your working files so that other people could pick it up later and continue your work
     - Business development and IAA work (for continuing projects only)
+    - Conferences and trainings that are in service of project work
 
 You must not bill for the following activities because these are indirect costs and are not inherently valuable to any one single partner. As a result, we distribute the costs for these amongst all our partners via our hourly rate. Recording these as billable would mean we're billing for them twice.
 
 - [Out of office (Award leave, sick leave, PTO)](../leave/#time-tracking)
-- Conferences and trainings that come out of your chapter's training budget
+- Conferences and trainings that are not in service of project work
 - OLU trainings that are not in service of project work
 - Internal organization meetings (Team Coffees, TTS Town Hall)
 - Business development for new projects (on non-live projects). Developing continuation work plan is okay to bill)
