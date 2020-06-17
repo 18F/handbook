@@ -59,7 +59,7 @@ Account managers can request the creation of a project in [#tock](https://gsa-tt
 You **must** bill for the below activities because these are direct costs. This means they are directly bringing value to the partner agency you are working for. We have a legal obligation to bill for them. They include:
 
 - Work that enables project delivery, such as:
-    - Any activity that develops skills or knowledge used in project work
+    - Any activity that develops skills or knowledge necessary to perform work on an assigned project
         - Examples: guild meetings, guild work, working groups and communities, project related skill development like reading, studying, online searches, or fixing an issue on your project - basically if it applies to your project's work you should bill it
     - 1:1 with supervisor/facilitator (both individual and supervisor/facilitator should bill to the project)
     - Critique groups
