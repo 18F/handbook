@@ -39,6 +39,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Friday, July 17th
 
+- [OA Director/Supervisory Contracting Specialist (1102)](https://www.usajobs.gov/GetJob/ViewDetails/571447600) - open Friday, June 19th through Monday, June 29th
+
 ### Internal only competitions
 
 - [18F Human Services Portfolio Designer](https://docs.google.com/document/d/1L0VnWn5GTgoIq6kysSs5TzKQcHWlrFFSoinNGeShveQ/edit?ts=5ee4252f)  - open Friday, June 19th through Friday, June 26th
