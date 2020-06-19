@@ -150,6 +150,8 @@ Typically guilds follow a lightweight leadership selection process:
 ## 18F Collectives
 18F has developed Collectives, with "Collective Leads" guiding them. These collectives are an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization.
 
+ A collective is a group of people that share or are motivated by at least one common issue or interest, or work together to achieve a common objective.
+
 These collectives should all have Slack channels with a `c-` prefix. Since their channels are one of their best ways of promoting best practices, you're encouraged to join any you find interesting.
 
 Current 18F Collectives (and Leads) include:
