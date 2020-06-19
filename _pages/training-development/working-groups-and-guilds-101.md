@@ -147,12 +147,12 @@ Typically guilds follow a lightweight leadership selection process:
 1. A panel of one-three people made up of guild leadership, other guild members and/or leadership from other guilds conduct brief (no more than 30 minute) interviews of candidates and makes a selection.
 1. A current guild leader announces the new leader, who takes up the position immediately.
 
-## 18F Communities
-18F has developed Communities, with "Community Leads" guiding them. These communities are an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization.
+## 18F Collectives
+18F has developed Collectives, with "Collective Leads" guiding them. These collectives are an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization.
 
-These communities should all have Slack channels with a `c-` prefix. Since their channels are one of their best ways of promoting best practices, you're encouraged to join any you find interesting.
+These collectives should all have Slack channels with a `c-` prefix. Since their channels are one of their best ways of promoting best practices, you're encouraged to join any you find interesting.
 
-Current 18F Communities (and their Community Leads) include:
+Current 18F Collectives (and Leads) include:
 
 <div class="table-wrapper">
   <table class="table-existing-grouplets">
@@ -202,6 +202,7 @@ Current 18F Communities (and their Community Leads) include:
     </tbody>
   </table>
 </div>
+
 
 ## Communities of Practice
 A Community of Practice (CoP) provides for government-wide knowledge-sharing. They attract members from across government agencies, and provide a good opportunity for Guilds to connect with others in government and influence best practices beyond TTS.
