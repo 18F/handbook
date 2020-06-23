@@ -110,7 +110,7 @@ Social engineering is the most common attack vector used to compromise computer 
     - Watch out for an "Evil Twin" - a hotspot that looks good but could be an access point set up by an attacker (e.g., "StarbucksGuest" or "DeltaFreeWifi")
   - Turn on your local firewall
   - Use a VPN if possible
-    - CivicActions has an [internal company VPN](https://git.civicactions.net/devops/internal-it-wireguard-vpn/tree/master) that has a static exit IP that can be whitelisted to CivicActions' client sservices
+    - CivicActions has an [internal company VPN](https://git.civicactions.net/devops/internal-it-wireguard-vpn/tree/master) that has a static exit IP that can be whitelisted to CivicActions' client services
     - If you always use HTTPS and SSH for connectivity, you are essentially creating a trusted VPN tunnel with every connection. There could still be metadata collection and local DNS spoofing, but [public Wi-Fi is now reasonably safe](https://www.eff.org/deeplinks/2020/01/why-public-wi-fi-lot-safer-you-think)
   - As usual, never enter your name or password information:
     - when on an insecure (non-HTTPS or SSL encrypted) connection, or
