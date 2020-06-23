@@ -130,11 +130,11 @@ Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds li
 * **TTS Process for requesting LWOP**
 Employee must get written approval from the following chain of command:
 
-1. Immediate Supervisor<br>
-2. Business Unit Director<br>
-3. Assistant Commissioner<br>
+1. Immediate Supervisor
+1. Business Unit Director
+1. Assistant Commissioner
 
-Once approvals received, submit email thread to [TTS-peopleops@gsa.gov](mailto:tts-peopleops@gsa.gov)
+Once approvals are received, please submit a copy of the email thread to [TTS-peopleops@gsa.gov](mailto:tts-peopleops@gsa.gov)
 
 
 ### Parental leave
