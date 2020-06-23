@@ -58,6 +58,18 @@ Some things they’ll help you navigate, find, and use:
 * If you need advice or coaching, look to the chapters ([#product](https://gsa-tts.slack.com/messages/product/), [#design](https://gsa-tts.slack.com/messages/design/), [#acquisition](https://gsa-tts.slack.com/messages/acquisition/), and [#dev](https://gsa-tts.slack.com/messages/dev/) as well as our [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/). Each of them have a corresponding Slack channel you can jump into any time.
 
 
+### Escalation paths for issues that may arise
+
+| Issue type | First line | Informed (please make these folks aware, even if you don’t need them to take action) | Escalation path (if you need someone to take action) |
+|-|-|-|-|
+| **Pre-flight issues, e.g. agreements timelines** | AM working with agreements team | Portfolio Director, Chief of Projects | Portfolio Director (if applicable), Director of Account Management otherwise |
+| **Team dynamics/team performance** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Director, Supervisor | Portfolio Director (if applicable), Chief of Projects or Chief of Staff otherwise |
+| **Changes to project timeline (including stopping the project early)** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Directors, Staffing Leads, Supervisors | Permanent or semi-permanent changes to someone’s project billings expectations need to be approved in advance by Portfolio Director or Chief of Projects, in coordination with the partner |
+| **Partner dissatisfaction** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio Director, Chief of Projects | Portfolio Director (if applicable), Chief of Projects otherwise; Executive Director if needed |
+| **Staffing misalignment** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Director, Supervisor | Chief of Projects and Staffing Leads  |
+| **Team is being mistreated (disrespected, or any other inappropriate behaviors or attitudes) by partner or vendor** | Team can try to resolve themselves, but can escalate immediately if they’d like | Portfolio/Chapter Director, Supervisor | Portfolio Director (if applicable), Chief of Projects or Chief of Staff otherwise; Executive Director, if needed |
+
+
 ### What if a project lead is struggling to fulfill the role?
 
 First, we try to support them better. This may include giving them feedback about what is and isn’t working, shifting other staff on the team, taking other things off their plate, or coaching. (Also, all of those things might happen when a project lead is doing great — those are all healthy ways to grow, and okay things to ask for!)
