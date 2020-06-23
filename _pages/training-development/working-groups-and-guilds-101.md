@@ -122,8 +122,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://gsa-tts.slack.com/messages/g-devops">#g-devops</a>
         </td>
         <td>
-          Peter Burkholder (SOL)<br>
-          Brian Fox (18F)
+          Peter Burkholder - SOL<br>
+          Brian Fox - 18F
         </td>
       </tr>
       <tr>
@@ -133,8 +133,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://gsa-tts.slack.com/messages/g-diversity">#g-diversity</a>
         </td>
         <td>
-          Victoria Wales (COE)<br>
-          Austin Hernandez (18F)
+          Victoria Wales - COE<br>
+          Austin Hernandez - 18F
         </td>
       </tr>
       <tr>
@@ -144,8 +144,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://github.com/18F/development-guide">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/C02CD5VUQ">#dev</a>
         </td>
         <td>
-          Ryan Hofschneider (18F)<br>
-          Dave Corwin (SOL)
+          Ryan Hofschneider - 18F<br>
+          Dave Corwin - SOL
         </td>
       </tr>
       <tr>
@@ -155,8 +155,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://gsa-tts.slack.com/messages/g-security-compliance">#g-security-compliance</a>
         </td>
         <td>
-          Ryan Ahearn (18F)<br>
-          Mossadeq Zia (SOL)
+          Ryan Ahearn - 18F<br>
+          Mossadeq Zia - SOL
         </td>
       </tr>
     </tbody>
