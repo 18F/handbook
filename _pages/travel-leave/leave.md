@@ -127,6 +127,16 @@ Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds li
 
 * [Fact Sheet: Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status) on Federal Benefits and Programs](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/)
 
+* **TTS Process for requesting LWOP**
+Employee must get written approval from the following chain of command:
+
+1. Immediate Supervisor
+1. Business Unit Director
+1. Assistant Commissioner
+
+Once approvals are received, please submit a copy of the email thread to [TTS-peopleops@gsa.gov](mailto:tts-peopleops@gsa.gov)
+
+
 ### Parental leave
 
 Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for more information.
