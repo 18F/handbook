@@ -9,6 +9,7 @@ The Management/Operations Team at CivicActions consists of these members:
 - Alaine Karoleff, Director of Agile Digital Services
 - Owen Barton, Chief Technology Officer
 - Shira Kates, Chief Design Officer
+- Marc Jones, General Counsel
 
 ## Purpose and Goals
 
