@@ -12,8 +12,8 @@
 - Slack organizes communication into **channels**. A channel can be public, so that everyone can join, or private, so that messages are shared with only select individuals. Most project channels are private by default.
 - We default to open, so when in doubt, message the group in a public channel instead of a direct message, or one-on-one.
 - There are a wide variety of different channels you can join, from work-related to topic-related.
-- Mandatory channels include: General, Announcements, Engineering or PM, your Pod, your project channels
-- Recommended channels: how-we-work, random, sotd, qotd, gold-star, prodev
+- Mandatory channels include: General, Announcements, How We Work, your Pod, your project channels, your domain area channels (Engineering, UX, PM, etc).
+- Optional channels: You are welcome to poke around Slack and join any open channels that you would like to (#pets, #gardening, #parenting, #sotd, #books, etc) - go to the "Channel Browser" and look around!
 - The [Announcements channel](https://civicactions.slack.com/messages/announcements/details/) is for **announcements only**. All replies or conversation regarding announcements can transpire in the [General channel](https://civicactions.slack.com/messages/general/). Keeping announcements chatter to a minimum ensures that anyone who hasn't been paying attention to the General or other channels will be able to quickly locate important or not-to-be-missed information.
 
 ## Notifications
@@ -37,7 +37,7 @@
 ## Tips
 
 - Consider using the word "ping" to check on the availability of someone
-- Create a Google Hangout from Slack: type **/hangout** (will need to authorize the slack app in hangout too)
+- Create a Google Meet from Slack: type **/hangout** (will need to authorize the slack app in Meet/Hangout too)
 - To quickly bring back the last message you sent back to the text box, just press the Up arrow key.
 - You can adjust notification preferences:
   ![Slack Notifications](../../images/slack-notifications.png)

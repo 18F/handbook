@@ -21,7 +21,7 @@ A buddy typically has been with CivicActions for at least six months to one year
   - In what areas do you feel strong/confident?
   - In what areas do you feel unsure?
   - How is your project going? Are you able to apply your onboarding learnings there?
-- Share some "pro-tips" with your new hire. These are typically work shortcuts and tools that make life easier. Example: Ctrl+D in Hangouts is a mute/unmute button.
+- Share some "pro-tips" with your new hire. These are typically work shortcuts and tools that make life easier. Example: pressing the space bar in Zoom is an unmute button if you need to say something and are muted.
 
 ## Buddy To-Do Checklist
 
