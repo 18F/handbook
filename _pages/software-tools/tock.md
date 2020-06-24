@@ -101,7 +101,7 @@ That leaves up to 20% of your time to be spent on non-billable work. There are a
 
 GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers), and so forth. These are the things we don’t have a choice but to spend time on.
 
-18F/CoE/PIF non-billable work includes time spent on hiring, in guilds and working groups, team coffees, chapter meetings, approved internal projects, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
+18F/CoE/PIF non-billable work includes time spent on hiring, in guilds and working groups (that are not in service of project work), team coffees, chapter meetings, approved internal projects, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
 
 However, time within those activities spent discussing a billable project may also be billable. For example, if you're in a 1:1 or guild meeting working through a difficult project issue, that's billable.
 
