@@ -88,12 +88,20 @@ Remember, you're asking for a substantial commitment of organizational resources
           &bull;
           <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
         </td>
+        <td>
+          Robert Jolly - 18F<br>
+          Alexandra Porter - COE
+        </td>
       </tr>
       <tr>
         <th class="col-grouplet" id="content">Content</th>
         <td class="col-description">
           We promote concise, elegant, user-centered writing. We plan for the creation, publication, and governance of useful, usable content. <br />
           <a href="https://content-guide.18f.gov/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-content">#g-content</a>
+        </td>
+        <td>
+          Jeff Durland - 18F<br>
+          [ VACANT ]
         </td>
       </tr>
       <tr>
@@ -102,12 +110,20 @@ Remember, you're asking for a substantial commitment of organizational resources
           We envision a world where government agencies use research to shape their decision making processes. <br />
           <a href="https://github.com/18F/g-research/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
         </td>
+        <td>
+          Matt Dobson - 18F<br>
+          Aditi Rao - 18F
+        </td>
       </tr>
       <tr>
         <th class="col-grouplet" id="devops">Devops</th>
         <td class="col-description">
           Our mission is to ensure great devops for our projects. <br />
           <a href="https://gsa-tts.slack.com/messages/g-devops">#g-devops</a>
+        </td>
+        <td>
+          Peter Burkholder - SOL<br>
+          Brian Fox - 18F
         </td>
       </tr>
       <tr>
@@ -116,6 +132,10 @@ Remember, you're asking for a substantial commitment of organizational resources
           We help make TTS a great place to work for people of all backgrounds. <br />
           <a href="https://gsa-tts.slack.com/messages/g-diversity">#g-diversity</a>
         </td>
+        <td>
+          Victoria Wales - COE<br>
+          Austin Hernandez - 18F
+        </td>
       </tr>
       <tr>
         <th id="engineering">Engineering Practices</th>
@@ -123,12 +143,20 @@ Remember, you're asking for a substantial commitment of organizational resources
           Promoting smart and scalable engineering practices across the frontend and backend. <br />
           <a href="https://github.com/18F/development-guide">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/C02CD5VUQ">#dev</a>
         </td>
+        <td>
+          Ryan Hofschneider - 18F<br>
+          Dave Corwin - SOL
+        </td>
       </tr>
       <tr>
         <th id="security">Security &amp; Compliance</th>
         <td class="col-description">
           Our mission is to reduce the security and compliance barrier for all Federal and State government projects. <br />
           <a href="https://gsa-tts.slack.com/messages/g-security-compliance">#g-security-compliance</a>
+        </td>
+        <td>
+          Ryan Ahearn - 18F<br>
+          Mossadeq Zia - SOL
         </td>
       </tr>
     </tbody>
