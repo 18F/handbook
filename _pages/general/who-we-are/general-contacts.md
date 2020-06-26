@@ -26,12 +26,23 @@ Location | Address | GSA region | Office guide
 
 ### General
 
-- General inbox: [18f@gsa.gov](mailto:18f@gsa.gov)
 - Join TTS: [jointts@gsa.gov](mailto:jointts@gsa.gov)
+
+### 18F
+- General inbox: [18f@gsa.gov](mailto:18f@gsa.gov)
 - 18F supervisors: [18f-supervisors@gsa.gov](mailto:18f-supervisors@gsa.gov)
+- Agencies inquiring about working with 18F: [inquiries18f@gsa.gov](mailto:inquiries18f@gsa.gov)
+- Development team: [18fdev@gsa.gov](mailto:18fdev@gsa.gov)
+- Experience Design team: [18f-xd@gsa.gov](mailto:18f-xd@gsa.gov)
+- Product team: [18f-product@gsa.gov](mailto:18f-product@gsa.gov)
+
+#### Offices
+
+- New York City: [18f-nyc@gsa.gov](mailto:18f-nyc@gsa.gov)
+- San Francisco: [18f-sf@gsa.gov](mailto:18f-sf@gsa.gov)
+- Washington D.C.: [18f-dc@gsa.gov](mailto:18f-dc@gsa.gov)
 
 ### Business Inquiries
-- Agencies inquiring about working with 18F: [inquiries18f@gsa.gov](mailto:inquiries18f@gsa.gov)
 - For Agile BPA vendors: [agilebpa@gsa.gov](mailto:agilebpa@gsa.gov)
 - cloud.gov-specific inquiries: [cloud-gov-inquiries@gsa.gov](mailto:cloud-gov-inquiries@gsa.gov)
 
@@ -39,29 +50,10 @@ Location | Address | GSA region | Office guide
  - Custom Partner Solutions: [18f-partnersolutions@gsa.gov](mailto:18f-partnersolutions@gsa.gov)
  - Products and Platforms: [18f-productsplatforms@gsa.gov](mailto:18f-productsplatforms@gsa.gov)
 
-### Chapters and PIF
+### PIF
 
-- Development team: [18fdev@gsa.gov](mailto:18fdev@gsa.gov)
-- Experience Design team: [18f-xd@gsa.gov](mailto:18f-xd@gsa.gov)
 - Presidential Innovation Fellows: [pif-team@pif.gov](mailto:pif-team@pif.gov)
-- Product team: [18f-product@gsa.gov](mailto:18f-product@gsa.gov)
 
-### Offices
-
-- New York City: [18f-nyc@gsa.gov](mailto:18f-nyc@gsa.gov)
-- San Francisco: [18f-sf@gsa.gov](mailto:18f-sf@gsa.gov)
-- Washington D.C.: [18f-dc@gsa.gov](mailto:18f-dc@gsa.gov)
-
-### Projects
-
-- CALC: [calc-18f@gsa.gov](mailto:calc-18f@gsa.gov)
-- cloud.gov support: [cloud-gov-support@gsa.gov](mailto:cloud-gov-support@gsa.gov)
-- DATA.gov APIs: [api.data.gov@gsa.gov](mailto:api.data.gov@gsa.gov)
-- Digital Analytics Program: [dap@gsa.gov](mailto:dap@gsa.gov)
-- FBOpen project: [fbopen@gsa.gov](mailto:fbopen@gsa.gov)
-- Open Opportunities project: [openopps@gsa.gov](mailto:openopps@gsa.gov)
-- MyUSA project: [myusa@gsa.gov](mailto:myusa@gsa.gov)
-- U.S. Web Design System: [uswds@support.digitalgov.gov](mailto:uswds@support.digitalgov.gov)
 
 ### Contacting OPP outside of TTS
 

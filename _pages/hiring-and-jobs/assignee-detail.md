@@ -12,7 +12,7 @@ A detail is when a person in one agency goes to work at another agency on a temp
 ## Definitions
 
 - ***A Detail***: The temporary assignment of an employee to another person, within or outside GSA, for a specified time period.
-- ***An Assignee***: someone coming into 18F that does not require an MOA (USDS)
+- ***An Assignee***: someone coming into TTS that does not require an MOA (USDS)
 - ***Servicing Agency***: Agency who is providing the employee
 - ***Receiving Agency***: Agency who is gaining the employee/where employee is being detailed to
 - ***Non-reimbursable detail***: An agreement whereby one organization temporarily loans an employee/detailee to another organization without requiring repayment for the costs of the services rendered
@@ -46,7 +46,7 @@ It is the **responsibility of the TTS employee supervising the detailee** to ens
    * Reimbursable or Non-reimbursable
    * Detail Supervisor
    * Detail PD or “Unclassified Set of Duties”
-   * Effective Date 
+   * Effective Date
 
 3. People Ops will submit the personnel action to HR and the employee will begin their detail on the effective date
 
@@ -108,7 +108,7 @@ Detail able to onboard | Talent Onboarding Lead | As soon as all of the necessar
 
 ## Posting a Detail Opportunity within GSA
 * If you are considering posting a detail opportunity you should first get approval from your supervisor and Business Unit Director
-* If you plan to pay for this detail, then you must have a vacant position number available on your team 
+* If you plan to pay for this detail, then you must have a vacant position number available on your team
 * To post a detail opportunity, available to all of GSA, you will have to complete [this form](https://insite.gsa.gov/topics/training-and-development/opportunity-network/post-an-opportunity)
   * If the detail opportunity has a PD (series-title-grade) associated with it, then only applicants who are at or above that grade level are eligible to apply (Project network does not allow for details to a higher grade)
   * If the opportunity does not have a PD then you will need to create and post a list of “unclassified set of duties”. Employees at any GS level will be able to apply
@@ -128,7 +128,7 @@ To learn about this process please visit the [Hiring page]({{site.baseurl}}/hiri
 
 ## Posting a Detail Opportunity on USAJobs
 
-USA Jobs has an [Open Opportunity](https://openopps.usajobs.gov/) section where you can post or apply to detail opportunties at other federal agencies. You must create a USAJobs account to do either. 
+USA Jobs has an [Open Opportunity](https://openopps.usajobs.gov/) section where you can post or apply to detail opportunties at other federal agencies. You must create a USAJobs account to do either.
 
 --------------------------------------------------------------------------------
 
