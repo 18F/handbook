@@ -43,7 +43,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only competitions
 
-- [18F Human Services Portfolio Designer](https://docs.google.com/document/d/1L0VnWn5GTgoIq6kysSs5TzKQcHWlrFFSoinNGeShveQ/edit?ts=5ee4252f)  - open Friday, June 19th through Friday, June 26th
 
 ## Opportunities with partners
 
