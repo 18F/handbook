@@ -12,6 +12,8 @@ To empower the organization with the means and information to fully utilize the 
 
 ## Referring a person
 
+Many leads for great candidates come through our current employees. Ideally, these referrals should come directly to Talent rather than to the team/managers/supervisors. We try to keep all mentions of who knows who and who recommends who away from the team/managers/supervisors who are involved in hiring so they can stay impartial. This helps ensure that candidates make it through the process on their own merits.
+
 We accept varying levels of leads including: 
 
 * Referrals: You know them really well (e.g. someone you worked closely with or a good friend)
