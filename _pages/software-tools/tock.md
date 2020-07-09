@@ -12,7 +12,7 @@ title: Tock
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
 - **Out of Office - #670:** Vacation time, federal holidays, or sick time
 - **18F Project work - project ID varies:** The specific projects you're working on.
-- **(Coming Soon!) 18F Project Management Support - project ID varies:** This code is used for non-primary project team members (i.e. staffing leads, supervisors, etc.) who are participating in staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, etc. 
+- **(Coming Soon!) 18F Engagement Management - project ID varies:** This code is used for non-primary project team members (i.e. staffing leads, supervisors, etc.) who are participating in staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, etc. 
 
 **Cloud.gov**
 - Tock your usual 40 hours to the cloud.gov P&L (#955) generally unless you’re doing billable work for something in 18F.  More specific Tock instructions for Cloud team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
