@@ -39,6 +39,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Friday, July 17th
 
+- [Director, Centers of Excellence](https://www.usajobs.gov/GetJob/ViewDetails/573027000) - open Thursday, July 9th through Thursday, July 30th 
+
 ### Internal only competitions
 
 - [Search.gov Index Manager](https://docs.google.com/document/d/1g18tHzVxGfDoGvpj0DFK2V1CMkukEz7FLHNhddUAHOQ/edit) - open Monday July 6th through Monday, July 13th, 11:59 PM PT
