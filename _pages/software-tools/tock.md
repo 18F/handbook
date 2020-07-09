@@ -96,13 +96,13 @@ You must not bill for the following activities because these are indirect costs 
 
 ### Weekly Billable Hour Expectations
 
-If you’re an individual contributor or a lead, you’re expected to spend at least 90% of your time on billable project work. Directors and supervisors have different billability expectations.
+For 18F, if you’re an individual contributor or a lead, you’re expected to spend at least 90% of your time on billable project work. Directors and supervisors have different billability expectations.
 
-That leaves up to 10% of your time to be spent on non-billable work. There are a few types of non-billable work, used to manage the running of TTS and your part of TTS itself: GSA-mandated non-billable work, 18F business development, and 18F/CoE/etc. non-billable work.
+That leaves up to 10% of your time to be spent on non-billable work. There are a few types of non-billable work, used to manage the running of the organization: GSA-mandated non-billable work, 18F business development, hiring and non-billable work.
 
 GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers), and so forth. These are the things we don’t have a choice but to spend time on.
 
-18F/CoE/PIF non-billable work includes time spent on hiring, in guilds and working groups (that are not in service of project work), team coffees, chapter meetings, approved internal projects, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
+18F non-billable work includes time spent on hiring, in guilds and working groups (that are not in service of project work), team coffees, chapter meetings, approved internal projects, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
 
 However, time within those activities spent discussing a billable project may also be billable. For example, if you're in a 1:1 or guild meeting working through a difficult project issue, that's billable.
 
