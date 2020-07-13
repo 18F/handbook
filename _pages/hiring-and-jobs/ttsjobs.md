@@ -37,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/)  - open Monday, December 2nd through Wednesday, July 15th
 
-- [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Friday, July 17th
+- [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Monday, August 31st
 
 - [Director, Centers of Excellence](https://www.usajobs.gov/GetJob/ViewDetails/573027000) - open Thursday, July 9th through Thursday, July 30th 
 
