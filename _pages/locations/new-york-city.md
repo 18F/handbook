@@ -38,10 +38,7 @@ title: New York City
         <td class="col-key">
           <strong>Listserv</strong>
         </td>
-        <td class="col-value">
-        <a href="mailto:18f-nyc@gsa.gov">18f-nyc@gsa.gov</a><br/>
-        (Admins can add people to the group <a href="https://groups.google.com/a/gsa.gov/forum/#!managemembers/18f-nyc/add">here</a>)
-        </td>
+        <td class="col-value"><a href="mailto:18f-nyc@gsa.gov">18f-nyc@gsa.gov</a></td>
        </tr>
     </tbody>
   </table>
@@ -126,3 +123,10 @@ You can find everyone who works in the [#nyc](https://gsa-tts.slack.com/messages
 
 TTS folx in the office usually range from casual t-shirts to business casual (jeans and a collared shirts, or blouse). Suits would not be out of place, but are not universal (and pretty rare for TTS folks when we come into the office). The office can be a little cold so cardigans, blazers, or sportscoats (sweaters and hoodies are pretty common, too). On your first day, folks from other parts of GSA will mostly be dressed business casual. Your first step onboarding includes being sworn in as a civil servant, which in the New York office likely takes place while looking over New York Harbor with a view of the Statue of Liberty. Some felt it was hokey, others were moved, many felt both. Several were glad they dressed for the occasion. We care more that you are comfortable and confident as yourself rather than following someone’s particular rules of formality.
 And yes, you should totally feel free to dye your hair in rainbow colors and rock that undercut. You be you.
+
+## Onboarding
+
+- Join the [#nyc](https://gsa-tts.slack.com/messages/nyc/) channel in Slack.
+- Ask to be added to the [TTS NYC Google Group](https://groups.google.com/a/gsa.gov/g/TTS-nyc).
+- If you are an NYC resident, confirm that [local tax](https://www.tax.ny.gov/pit/file/tax_tables.htm) is being withheld from your paycheck.
+   - If not, contact kc-payroll.finance@gsa.gov
