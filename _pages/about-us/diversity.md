@@ -65,7 +65,7 @@ We believe there are four sources of inclusiveness at every organization, and we
 
 ## Diversity Guild
 
-The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/ Slack channel))🔒. 
+The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/ Slack channel))🔒. The Guild is currently led by [Austin Hernandez](https://gsa-tts.slack.com/messages/@austinhernandez)🔒 and [Victoria Wales](https://gsa-tts.slack.com/messages/@v)🔒.
 
 
 ### How to get involved
