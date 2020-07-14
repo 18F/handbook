@@ -5,16 +5,16 @@ redirect_from:
   - /infrastructure/
 ---
 
-The goal of the Tech Portfolio is to oversee/manage/coordinate everything technology-related that cuts across TTS, or anything technology-related that will affect TTS from the outside: particularly security, compliance, infrastructure, and tech policy. We provide all the things that allow you to get your job done, at the highest quality level.
+The goal of the Tech Portfolio is to oversee/manage/coordinate everything technology-related that cuts across TTS, and anything technology-related that will affect TTS from the outside: particularly security, compliance, infrastructure, and tech policy. We provide all the things that allow you to get your job done, at the highest quality level.
 
 Rather than trying to exert control over everything technology at TTS, we focus instead on protecting, streamlining, and enabling our staff and systems, and doing so in an empathetic, transparent way. The Tech Portfolio’s work applies to much more than technology; it applies to our entire operation, including how we work inside the law, how we secure our systems, and how we spend money.
 
-Tech Portfolio Vision:
+## Vision
 
 - Find where we may be duplicating effort or have gaps around technology, and if those are opportunities for TTS/GSA/government-wide shared services
 - Serve as the primary liaison between [GSA IT](https://www.gsa.gov/about-us/organization/gsa-it) and TTS, ensuring high levels of service, finding compromise, and generally keeping a good relationship between the teams
 
-We also do things like:
+## Areas of work
 
 - **Policy:** Represent TTS on the [FAS Systems Governance Committee (FSGC)](https://drive.google.com/file/d/18zOMBK5bhmqt-Y3yGTKQ_QiiC_x9i5va/view?usp=sharing), i.e. vote on what technology projects get money from the [Acquisition Services Fund (ASF)](https://www.gsa.gov/reference/reports/budget-performance/annual-reports/agency-financial-report-2012/managements-discussion-and-analysis/financial-statements-analysis-and-summary/financial-results-by-major-fund-acquisition-services-fund)
 - **Compliance:** Assist in [authorization](https://atos.open-control.org/steps/#step-5-authorize-information-system) of TTS systems to get their ATOs, improving that process along the way
@@ -25,7 +25,7 @@ We also do things like:
 - **Customer Service:** Generally support TTS on any technology-related matters
 - **Administration:** Perform operational activities like access, account and license management.
 
-Things not within our scope:
+## Out of scope
 
 - Purchasing office equipment for individuals (rather than the project the individual supports)
 - Picking up software development tasks for TTS programs
