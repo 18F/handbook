@@ -5,6 +5,7 @@
     "gulp-options": "^1",
     "gulp-remark": "^7",
     "mdast-util-to-nlcst": "^4",
+    "prettier": "^1",
     "quality-docs": "^3",
     "remark-cli": "^7",
     "remark-comment-config": "^5",
@@ -78,7 +79,6 @@
     "retext-quotes": "^4",
     "retext-repeated-words": "^3",
     "retext-sentence-spacing": "^4",
-    "retext-usage": "^0",
-    "prettier": "^1"
+    "retext-usage": "^0"
   }
 }
