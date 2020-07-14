@@ -39,7 +39,7 @@ gulp.task("errors", function() {
   }
   return (
     gulp
-      .src(path)
+      .src(path, { allowEmpty: true })
       // Main run against the "error" configuration.
       .on("end", function() {
         log("\x1b[31mFailing issues:\x1b[0m");
@@ -49,7 +49,7 @@ gulp.task("errors", function() {
           quiet: true,
           streamError: errorStream,
           color: true,
-          rcPath: ".remarkrc.error"
+          rcPath: ".remarkrc.error",
         })
       )
   );
@@ -75,16 +75,17 @@ gulp.task("suggestions", function() {
       }
     }
   }
-  if (path == []) {
-    // If no changed files, default to all md files in root and in docs directory.
-    var path = ["**/*.md", "!node_modules/**"];
+  if (path.length == 0) {
+    return gulp.src("README.md").on("end", function() {
+      log("\x1b[32mNo changes, suggestions skipped.\x1b[0m");
+    });
   }
   // Support an optional --path argument.
   if (options.has("path")) {
     path = options.get("path");
   }
   return gulp
-    .src(path)
+    .src(path, { allowEmpty: true })
     .on("end", function() {
       log("\x1b[32mSuggestion for changed file:\x1b[0m");
     })
@@ -93,7 +94,7 @@ gulp.task("suggestions", function() {
         quiet: true,
         streamError: suggestionStream,
         color: true,
-        rcPath: ".remarkrc.suggestion"
+        rcPath: ".remarkrc.suggestion",
       })
     );
 });
