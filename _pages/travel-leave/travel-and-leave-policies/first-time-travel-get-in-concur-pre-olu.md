@@ -41,7 +41,7 @@ Your access to the EFT form linked above may be restricted, so you should have r
 
 The easiest option is to have your airline reschedule you. If that's not possible or timely, you may also call Ad-Trav at *(877) 472-6716* to be rebooked on any airline.
 
-If you are traveling to orientation and are worried that you will miss it because of delays or cancellations, please email the [TTS Talent team](mailto:tts-jointts@gsa.gov) and copy anyone who helped you set up travel.  We will make arrangements for you to swear in when you expect to arrive. You may have to attend GSA orientation in your home city 2 weeks later, but please continue to travel to the office where your orientation was scheduled to be for 18F onboarding.
+If you are traveling to orientation and are worried that you will miss it because of delays or cancellations, please email the [TTS Talent team](mailto:tts-jointts@gsa.gov) and copy anyone who helped you set up travel.  We will make arrangements for you to swear in when you expect to arrive. You may have to attend GSA orientation in your home city 2 weeks later, but please continue to travel to the office where your orientation was scheduled to be for onboarding.
 
 While the Talent and Travel Teams won't be available until Monday if your cancellation occurs over the weekend, please feel comfortable rebooking your travel either though the airline or via Ad-Trav, and rest assured that you will be in good hands when you arrive at TTS.
 

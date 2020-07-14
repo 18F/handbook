@@ -7,7 +7,7 @@ title: Get access to Concur
 
 There are four required steps to gain access to [Concur](https://travel.gsa.gov/). Please be aware, you cannot access the Cybersecurity & Privacy Training in OLU until after you are set up in HRLinks, which can take up to a week.  If immediate travel is required, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) can assist until your account is active.
 
-1. To access [Concur](https://travel.gsa.gov/), you will need a **“travel vendor ID”**. Use the [Vendor Request Management site](https://finance.ocfo.gsa.gov/VendorRequest/co/Stepd.aspx) to request a new vendor ID. Please note that you'll need to be on the VPN to access this site. 
+1. To access [Concur](https://travel.gsa.gov/), you will need a **“travel vendor ID”**. Use the [Vendor Request Management site](https://finance.ocfo.gsa.gov/VendorRequest/co/Stepd.aspx) to request a new vendor ID. Please note that you'll need to be on the VPN to access this site.
   * In case the travel finance team is unable to locate your payroll banking information, they may request that you complete [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing) and will provide instructions on how you can send this information to them securely.
   * While you wait for the ID number to be generated and sent to you via email (which can take up to 1 business day), you may get started on [applying for the GSA travel card]({{site.baseurl}}/first-time-travel-travel-card).
 
@@ -26,7 +26,7 @@ There are four required steps to gain access to [Concur](https://travel.gsa.gov/
 For the purposes of Concur, use "TTS".
 
 #### What are my user roles?
-Only traveler, unless you have already been instructed otherwise by the 18F travel team.
+Only traveler, unless you have already been instructed otherwise by the travel team.
 
 #### What is my user type?
 GSA employee (Regular) if based in a city which has a TTS office which you report to.

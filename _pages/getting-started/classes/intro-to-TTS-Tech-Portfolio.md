@@ -4,7 +4,7 @@ navtitle: Infrastructure
 outdated: true
 ---
 
-This page provides an overview of the TTS Tech Portfolio team (formally known as the "Infrastructure" team). 
+This page provides an overview of the TTS Tech Portfolio team (formally known as the "Infrastructure" team).
 
 Our team helps other TTS teams with security, compliance, and technology best practices. As a part of TTS Classes, you will review [this document](https://docs.google.com/document/d/1iQP1S_PbJyOaeTlPEpD9oxal3kgA0bb2YNYbN56fJSk/edit#) and then complete this [confirmation survey](https://goo.gl/forms/VP4Ci9Ed3r6UxG6H3).
 
@@ -32,7 +32,7 @@ You've probably heard about the [Office of Personnel Management (OPM) data breac
 
 The most important part of your job is security. 18F has its own [security standards](https://pages.18f.gov/before-you-ship/security/) around the software we develop. Be sure to [secure your Macbook]({{site.baseurl}}/equipment/#laptop) and be sure [FileVault](https://support.apple.com/en-us/HT204837) is turned on.
 
-Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please use the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) to submit a _3rd Party Integration Approval (Slack/Github)_ request. 
+Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please use the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) to submit a _3rd Party Integration Approval (Slack/Github)_ request.
 
 ### The public interest
 
@@ -59,11 +59,6 @@ The three rules of Infrastructure are:
 3. You cannot spend a single penny, or or create the expectation for a single penny to be spent, without prior approval.
 
 ## Questions
-
-### I create a Chrome profile on my work laptop that is my personal account, and so far have only used it to: (1) use my Google Play Music account (2) check email one time to get my GitHub 18F invitation (3) access my LastPass account for my GitHub password. How much of my personal information has been made available to you (or anyone else who can see my account stuff) by doing this?
-
-Consider maintaining two separate Chrome profiles (18F and Personal) and segregate sessions, extensions, data, etc that way. In general, most HTTPS connections ensure that no one in the Gov, including the network owners, has access to those packets. At GSA, that's true, at least for TTS-issued laptops. That is not true for employees on all Gov networks. Those agencies give their employees work computers specially configured to allow intercepting and MITM of all internet activity, whether it's HTTP or HTTPS.
-
 
 ### Am I violating federal records law if I delete a project from my personal computer?
 
