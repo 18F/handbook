@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Director, Centers of Excellence](https://www.usajobs.gov/GetJob/ViewDetails/573027000) - open Thursday, July 9th through Thursday, July 30th 
 
-### Internal only competitions
+### Internal only opportunities
 
 - [18F - Interim Business Development Lead](https://docs.google.com/document/d/1g2RZ3b8IN-11yW6xsVBeTR3SZyFRJ6C0KzQRw18oF6w/edit?usp=sharing) - open Wednesday, July 8th through Wednesday, July 15th
 - [18F - User Experience Supervisor](https://docs.google.com/document/d/1RrzRHrP2Ml4G_XWJdhmLAw1re7u0biDfUC9usW7MnuI/edit#) - open Friday, July 10th through Friday, July 17th
