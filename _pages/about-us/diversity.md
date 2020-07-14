@@ -65,7 +65,7 @@ We believe there are four sources of inclusiveness at every organization, and we
 
 ## Diversity Guild
 
-The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/ Slack channel))🔒. The Guild is currently led by [Austin Hernandez](https://gsa-tts.slack.com/messages/@austinhernandez)🔒 and [Victoria Wales](https://gsa-tts.slack.com/messages/@v)🔒.
+The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and the [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/)🔒 Slack channel. The Guild is currently led by [Austin Hernandez](https://gsa-tts.slack.com/messages/@austinhernandez)🔒 and [Victoria Wales](https://gsa-tts.slack.com/messages/@v)🔒.
 
 
 ### How to get involved
@@ -74,4 +74,4 @@ Not only does the Diversity Guild provide a space for learning, it also promotes
 
 - Join our Slack channel, [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/). 
   -  Read the [Guidelines for the #G-Diversity Channel](https://docs.google.com/document/d/1IP0GERswH8t5nQxH0VyYPidj5TrkNtfJEmaPz3_y-go/edit)
-- Come to our meetings. We meet weekly, every Friday at 12:30-1pm EST. We also have open coworking sessions every Friday at 1pm EST, or the option to extend meeting topics to one hour. The meetings currently show up on the [TTS Working Groups and Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com)🔒 If you would like to be added to the invites directly, please [message Austin Hernandez](https://gsa-tts.slack.com/messages/@austinhernandez)🔒.
+- Come to our meetings. We meet weekly, every Friday at 12:30-1pm EST. We also have open coworking sessions every Friday at 1pm EST, or the option to extend meeting topics to one hour. The meetings currently show up on the [TTS Working Groups and Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com)🔒 If you would like to be added to the invites directly, please [message Austin Hernandez](https://gsa-tts.slack.com/messages/@austinhernandez)🔒 or [Victoria Wales](https://gsa-tts.slack.com/messages/@v)🔒.
