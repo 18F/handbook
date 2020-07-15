@@ -16,13 +16,9 @@ Temporary teams initiated to achieve a specific goal - for example delivering a 
 
 Client specific projects and service specific teams that deliver value to clients and generate revenue.
 
-## [Service areas](service-areas/README.md)
+## [Practice areas](practice-areas/README.md)
 
-Client facing: works across departments and delivery to develop, market, sell, deliver and grow a set of related services and build the team that delivers those services.
-
-## Practice areas
-
-Internal facing: self-organized group oriented around a specific practice or craft - oriented towards learning, continuous improvement and cross-pollination of ideas and best practice across the company.
+Self-organized group oriented around a specific practice, service or craft.
 
 ## Pods
 

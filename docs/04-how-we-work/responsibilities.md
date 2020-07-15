@@ -6,7 +6,7 @@ This allows us to see what we are doing and what can be distributed across the t
 
 The other thing we identified are the responsibilities that may experience big impacts or challenges with rapid growth. We will identify where the gaps are in the teams and across the organization which will inform hiring needs, professional development, and/or responsibility swapping.
 
-The next iteration of this exercise will be to look at the responsibilities within a certain team or service area and how that group interfaces with other groups (such as marketing) to better define how we can best collaborate and what each service area/group is responsible for.
+The next iteration of this exercise will be to look at the responsibilities within a certain team or practice area and how that group interfaces with other groups (such as marketing) to better define how we can best collaborate and what each practice area/group is responsible for.
 
 # Responsibilities Boards
 

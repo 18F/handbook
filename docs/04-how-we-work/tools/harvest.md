@@ -35,9 +35,9 @@ Then:
 - Fixed price projects: 100% (40 hours / week - this means you can bill your internal meetings, like pod calls, to the project)
 - Time and Materials: 85-95% (34-38 hours / week)
 
-### Projects with Service Area-Based Tasks
+### Projects with Practice Area-Based Tasks
 
-A lot of our internal time represents an investment in a service area, so we're going to track that time accordingly.
+A lot of our internal time represents an investment in a practice area, so we're going to track that time accordingly.
 
 - CA > Practice Area Calls - use this for Engineering, UX, PM, DevOps, Diversity & Inclusion calls, etc.
 - CA > Check-in Calls - use this for one-on-ones, like with your manager, or onboarding/mentoring
@@ -49,7 +49,7 @@ A lot of our internal time represents an investment in a service area, so we're 
 
 ### Onboarding Time Entries
 
-Log your time in the CivicActions project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description like the below examples in the task description that includes the word _onboarding_.
+Log your time in the CivicActions project: CA > Onboarding > select your practice area or "Company-wide" for areas like Sales > then enter a description like the below examples in the task description that includes the word _onboarding_.
 
 - Onboarding Meeting
 - Onboarding handbook and/or Trello board cards review
@@ -58,7 +58,7 @@ Log your time in the CivicActions project: CA > Onboarding > select your service
 
 ### Projects with Generic Tasks
 
-For some internal projects, we don't care about tracking our time by service area, and you won't see service area based tasks there.
+For some internal projects, we don't care about tracking our time by practice area, and you won't see practice area based tasks there.
 
 - CA > All hands calls
 - CA > Pod calls

@@ -53,7 +53,7 @@
 - Read the [expense policy](../../03-policies/expenses.md)
 
 - How to log onboarding time:
-  - Log your time in the CivicActions Harvest project: CA > Onboarding > select your service area or "Company-wide" for areas like Sales > then enter a description
+  - Log your time in the CivicActions Harvest project: CA > Onboarding > select your practice area or "Company-wide" for areas like Sales > then enter a description
   - Please use a description like "Onboarding meeting," "Onboarding documentation review," "Onboarding watching scrum videos," "Onboarding resume & bio work," etc.
 
 ### Communication Tools

@@ -1,4 +1,4 @@
-# UX service area
+# UX practice area
 
 ## Vision
 

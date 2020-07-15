@@ -4,8 +4,8 @@ All internal engineering meetings should be logged as "\[CA\] Practice Area Call
 
 ## Engineering call
 
-This covers various service areas in scope, so select the service area you have mainly been working in at the time of the call.
+This covers various practice areas in scope, so select the practice area you have mainly been working in at the time of the call.
 
 ## Specific practice area calls (Frontend, DevOps etc.)
 
-If these align to a service area (e.g. DevOps) track the hours against that service area - otherwise (e.g. select the service area you have mainly been working in at the time of the call.
+If these align to a practice area (e.g. DevOps) track the hours against that practice area - otherwise (e.g. select the practice area you have mainly been working in at the time of the call.

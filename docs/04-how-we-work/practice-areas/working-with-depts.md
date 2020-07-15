@@ -1,16 +1,14 @@
-# Service Area Lead Role Description
+# Practice Areas Working with Departments
 
-## Summary
-
-The lead is responsible for guiding the overall vision and strategy of the service area, ensuring marketing, sales, recruiting and delivery achieve quality, revenue, margin, team and client satisfaction targets.
+There are a variety of ways that practice areas can engage across the company to grow and integrate their practice. These activies are sometimes undertaken by practice area leads, but can often be picked up by anyone in the practice area.
 
 ## Overall
 
-- Manage the service area as a whole to meet KPI targets.
+- Manage the practice area as a whole to set and meet goals.
 - Seeks to understand client needs, technical trends, sales/recruiting market trends and competitive strengths and weaknesses.
-- Establishes and socializes a vision for service area.
+- Establishes and socializes a vision for practice area.
 - Cultivates a culture of balance, learning and continuous improvement.
-- Works across the team to develop, select and implement strategies that increase quality and profitability for the service area.
+- Works across the team to develop, select and implement strategies that increase quality and profitability for the practice area.
 - Participate in delivery management and operations calls as needed.
 
 ## Marketing
@@ -41,6 +39,6 @@ The lead is responsible for guiding the overall vision and strategy of the servi
 ## Other
 
 - Works with IT to plan and resource any internal infrastructure needs.
-- Works with Legal and Compliance to identify legal and compliance risks across service area projects and implement policies and tools to mitigate.
+- Works with Legal and Compliance to identify legal and compliance risks across practice area projects and implement policies and tools to mitigate.
 - Works with Administration as needed (e.g. software licenses).
 - Works with ProDev to identify training and certification needs and opportunities.
