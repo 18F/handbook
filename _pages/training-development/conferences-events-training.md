@@ -19,7 +19,7 @@ tags:
 
 TTS encourages all staff to attend conferences, speak at events, and focus on professional development and training opportunities. Check out the [TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646) to see what conferences and trainings your colleagues have attended.
 
-Any media requests (like news or podcast interviews) are a separate process—forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov).
+Any media requests (like news or podcast interviews) are a separate process — please forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov).
 
 ## Getting approval for a conference, event, or training
 
@@ -30,6 +30,10 @@ Any media requests (like news or podcast interviews) are a separate process—fo
 1. You will receive an automated email when your request has been fully approved and paid for or if additional information is needed to complete your registration. You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
 
 *Important note about conference travel:* If you are traveling to a conference on behalf of a partner who is paying for the travel and the registration and you will be billing the partner for your time, an IDP and SF-182 approval is not needed. Also an SF-182 isn't needed if the conference is NOT deemed a training activity.
+
+### Attending a virtual event
+
+If the event that you're attending is being hosted virtually, please review the [TTS Virtual Events guidance](https://docs.google.com/document/d/1YrDs9PA8HkfLkhSfOfyJnLjAYcTkV6_vHlU7HBoyi0k/edit#heading=h.d6kk6wkyrvzf) for important considerations and tips.
 
 ## Approval timelines
 
