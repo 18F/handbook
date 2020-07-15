@@ -2,28 +2,28 @@
 
 ## What is an affinity channel?
 
-Affinity channels are intentional spaces for people who share a common identity or affinity to build community and have conversations that are harder to protect in a general space. For example, the #ca-womxn affinity channel is a space for CivicActioners who identify as female, trans, or gender non-conforming.
+Affinity channels are intentional spaces for people who share a common identity or affinity to build community and have conversations that are harder to protect in a general space. For example, the `#ca-womxn` affinity channel is a space for CivicActioners who identify as female, trans, or gender non-conforming.
 
 ## Affinity channels directory
 
 List of all affinity channels and who the moderator is for each channel are below.
 
-- #parenting (open): Parents and caregivers of children share joy and resources. All welcome.
-- #ca-womxn (open): Networking, supporting, and celebrating them/they/she/her. All welcome.
-- #ca-lgbtq2aplus (private, Grace): A space for members of the queer community to have connect!
-- #rainbow (open): A space to have conversations related to the LGBTQ2+ community. Allies welcome!
-- #blackpeopleinaction (private, Winifred): A safe space for Black people to have conversations that are open, frequent, authentic, and relevant.
+- `#parenting` (open): Parents and caregivers of children share joy and resources. All welcome.
+- `#ca-womxn` (open): Networking, supporting, and celebrating them/they/she/her. All welcome.
+- `#ca-lgbtq2aplus` (private, Grace): A space for members of the queer community to have connect!
+- `#rainbow` (open): A space to have conversations related to the LGBTQ2+ community. Allies welcome!
+- `#blackpeopleinaction` (private, Winifred): A safe space for Black people to have conversations that are open, frequent, authentic, and relevant.
 
 Regional Groups:
 
-- #ca-bayarea (open): For team members located in the Bay Area or traveling to the Bay for work
-- #ca-co (open): For team members located in Colorado
-- #ca-dc (open): For team members located in DC or traveling to DC for work
-- #ca-florida (open): For team members located in Florida
-- #ca-new-england (open): For team members located in the New England area
-- #ca-or (open): For team members located in Oregon
-- #canada (private) - Kev: For employees located in Canada; mostly operational, PEO Canada
-- #sacramento-things (open): For team members located in the Sacramento area or traveling to Sacramento for work
+- `#ca-bayarea` (open): For team members located in the Bay Area or traveling to the Bay for work
+- `#ca-co` (open): For team members located in Colorado
+- `#ca-dc` (open): For team members located in DC or traveling to DC for work
+- `#ca-florida` (open): For team members located in Florida
+- `#ca-new-england` (open): For team members located in the New England area
+- `#ca-or` (open): For team members located in Oregon
+- `#canada` (private, Kev): For employees located in Canada; mostly operational, PEO Canada
+- `#sacramento-things` (open): For team members located in the Sacramento area or traveling to Sacramento for work
 
 ## Who can join an affinity channel
 
