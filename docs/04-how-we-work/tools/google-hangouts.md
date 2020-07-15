@@ -2,7 +2,7 @@
 
 ## Google Meet v Zoom
 
-While Zoom is out default video meeting zoom, there are a few use cases for using Google Meet.
+While Zoom is our default video meeting zoom, there are a few use cases for using Google Meet.
 
 - If your Zoom meeting is being used by another team member when you want to video meet with someone else, you can create a Google Meet call
 - Some clients can access Google products but cannot use Zoom, so your team may default to Google Meet in those cases
