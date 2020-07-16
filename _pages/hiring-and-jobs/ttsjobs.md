@@ -46,6 +46,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 - [18F - Interim Business Development Lead](https://docs.google.com/document/d/1g2RZ3b8IN-11yW6xsVBeTR3SZyFRJ6C0KzQRw18oF6w/edit?usp=sharing) - open Wednesday, July 8th through Friday, July 17th
 - [18F - User Experience Supervisor](https://docs.google.com/document/d/1RrzRHrP2Ml4G_XWJdhmLAw1re7u0biDfUC9usW7MnuI/edit#) - open Friday, July 10th through Friday, July 17th
 - [18F - Product Supervisor](https://docs.google.com/document/d/1uCjxnpOmTZ_fDpV6jQtBwoD94bg7fr63jC1O5WGXZ6I/edit) - open Wednesday, July 15th through Wednesday, July 22nd
+- [18F - Acting Executive Director](https://docs.google.com/document/d/1uaVbRZh8hQ1b9ustOG15eQCoqGyRo_lradcwkbY_aMs/edit) - open Thursday, July 16th through Thursday, July 23rd
 
 ## Opportunities with partners
 
