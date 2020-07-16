@@ -12,7 +12,7 @@ The sprint planning meeting should be attended by the Product Owner, members of 
 
 ## How to do it:
 
-For best Sprint Planning results, it is recommended that you have a [Backlog Refinement Session](backlog-grooming.md) before the Sprint Planning Meeting. This will prepare the backlog for more informed team discussions and will shorten the length of the SPM. It is highly recommended to start there.
+For best Sprint Planning results, it is recommended that you have a [Backlog Refinement Session](backlog-refinement.md) before the Sprint Planning Meeting. This will prepare the backlog for more informed team discussions and will shorten the length of the SPM. It is highly recommended to start there.
 
 Once the product backlog has been prioritized by the Product Owner and those stories and tasks have enough detail to be considered "ready" by the project team, a Sprint Planning Meeting should commence.
 

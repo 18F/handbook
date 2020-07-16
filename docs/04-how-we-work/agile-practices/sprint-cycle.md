@@ -18,7 +18,7 @@ The process details included below are especially useful for complex projects wi
 
 ### Practices (aka Ceremonies)
 
-- [Backlog Refinement](backlog-grooming.md)
+- [Backlog Refinement](backlog-refinement.md)
 - [Sprint Planning Meetings](sprint-planning-meetings.md)
 - [Daily Scrum Calls](daily-scrum-calls.md)
 - [Sprint Demo (Review)](sprint-demo.md)

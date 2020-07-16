@@ -92,7 +92,7 @@
 
 - [CivicActions Agile](../../04-how-we-work/agile-overview.md)
 - Introduction to the [Daily Standup call structure](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
-- Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog grooming](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
+- Overview of Scrum ceremonies: [retrospectives, sprint planning, backlog refinement](../../01-welcome-to-civicactions/training/meetings-and-meeting-tools.md#project-specific-meetings)
 - Watch these [Scrum training series videos](http://scrumtrainingseries.com/) for an introduction to Scrum or refresher.
 - Introduction to [Jira](../../04-how-we-work/tools/jira.md) and [Trello](../../04-how-we-work/tools/trello.md)
 

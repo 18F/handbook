@@ -22,7 +22,7 @@ For more detail, see [Sprint Planning Meetings](../../04-how-we-work/agile-pract
 
 Backlog Refinement meetings are a chance to update and prioritize stories in the product backlog so that we know what's available for upcoming sprints.
 
-For more detail, see [Backlog Refinement](../../04-how-we-work/agile-practices/backlog-grooming.md).
+For more detail, see [Backlog Refinement](../../04-how-we-work/agile-practices/backlog-refinement.md).
 
 ## Sprint Demo
 

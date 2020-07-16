@@ -41,7 +41,7 @@ Weekly pod calls help us stay in touch and in tune with each other. These are lo
 
 - [Daily Scrum Call](../../04-how-we-work/agile-practices/daily-scrum-calls.md)
 - [Sprint Planning Meeting](../../04-how-we-work/agile-practices/sprint-planning-meetings.md)
-- [Backlog Refinement](../../04-how-we-work/agile-practices/backlog-grooming.md)
+- [Backlog Refinement](../../04-how-we-work/agile-practices/backlog-refinement.md)
 - [Sprint Demo](../../04-how-we-work/agile-practices/sprint-demo.md)
 - [Sprint Retrospective](../../04-how-we-work/agile-practices/sprint-retrospectives.md)
 
