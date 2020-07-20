@@ -18,7 +18,7 @@ Practice area meetings should be added to the main "CivicActions" calendar for v
 
 | Name                          | Code | Leads                     | Slack                 | Meets                            |
 | ----------------------------- | ---- | ------------------------- | --------------------- | -------------------------------- |
-| Accessibility                 | AX   | TBD                       | #a11y                 |                                  |
+| Accessibility                 | AX   | TBD                       | #accessibility        |                                  |
 | DevSecOps                     | DV   | Owen Barton & Fen Labalme | #devsecops            | Biweekly                         |
 | Diversity, Equity & Inclusion |      | Rotating                  | #dei-ops              | Weekly (Ops), Monthly (Brownbag) |
 | Drupal                        | DR   | Bob Schmitt               | #engineering-drupal   | Biweekly                         |
