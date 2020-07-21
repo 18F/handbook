@@ -41,6 +41,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Director, Centers of Excellence](https://www.usajobs.gov/GetJob/ViewDetails/573027000) - open Thursday, July 9th through Thursday, July 30th 
 
+- [USAGov Contact Center Team Lead/Lead Federal Information Specialist](https://www.usajobs.gov/GetJob/ViewDetails/573981900) - open Tuesday, July 21st through Thursday, July 30th
+
 ### Internal only opportunities
 
 - [18F - Interim Business Development Lead](https://docs.google.com/document/d/1g2RZ3b8IN-11yW6xsVBeTR3SZyFRJ6C0KzQRw18oF6w/edit?usp=sharing) - open Wednesday, July 8th through Friday, July 17th
