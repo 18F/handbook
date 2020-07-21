@@ -72,6 +72,8 @@ You can view those slides [here](https://docs.google.com/presentation/d/1swxbFAi
 
 In this example, the company's management team felt a responsibility to be transparent about the health of the company to everyone working at the company.
 
+You can find more examples of our transparent practices and how they can help transform government in this blog post from a CivicActions team member: [What "fierce openness" can do for government](https://medium.com/civicactions/what-fierce-openness-can-do-for-government-b67749bfb328)
+
 ### How does Radical Transparency NOT Work at CivicActions?
 
 Radical transparency can sound pretty uncomfortable. Some companies take it to mean sharing of salaries, etc. to increase competitiveness. This is not the CivicActions definition of radical transparency. We believe radical transparency is the company, board, and management team's responsibility to be open and transparent with employees, clients, and one another. We believe everyone in the company is responsible for being direct and transparent when they have a challenge with someone. We believe that whenever possible, work should be carried out in public slack channels, problems should be shared with product owners, and issues should be talked out openly and honestly. This does not mean that you cannot ever speak privately to other people. This simply means that CivicActions feels that as a team, it is our responsibility to be as transparent as possible about the work we do, and how we do it.
