@@ -203,3 +203,6 @@ restylers:
         - "mkdocs.yml"
         - ".retext.problem.js"
         - ".retext.suggestion.js"
+
+# NOTE: If updating prettier, see if the \$ issue at https://github.com/prettier/prettier/issues/6213 is resolved.
+# if so, remove the prettier-ignore tags that work-around this issue.

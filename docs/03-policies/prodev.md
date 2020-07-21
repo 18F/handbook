@@ -11,9 +11,11 @@ CivicActions recognizes the importance of individual Professional Development fo
   - Having the courage to be vulnerable, which leads to authentic communications and connection
   - Open-minded thinking, which leads to increased tolerance of others ideas and personality styles
 
-CivicActions supports and encourages the Professional Development (prodev) of each team member by providing an annual budget of \$1,200 per person to be used for prodev-related expenses. Note: If you are a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
+<!-- prettier-ignore-start -->
+CivicActions supports and encourages the Professional Development (prodev) of each team member by providing an annual budget of $1,200 per person to be used for prodev-related expenses. Note: If you are a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
 
-In addition to the \$1,200 annual budget, each team member is encouraged to use a "take what you need" approach to using time for prodev pursuits during business hours, within the bounds of any billable hours goals you may have. If you need guidance on what amount of time is appropriate to spend on prodev in a given year, consult with your manager or refer to the historical data table below.
+In addition to the $1,200 annual budget, each team member is encouraged to use a "take what you need" approach to using time for prodev pursuits during business hours, within the bounds of any billable hours goals you may have. If you need guidance on what amount of time is appropriate to spend on prodev in a given year, consult with your manager or refer to the historical data table below.
+<!-- prettier-ignore-end -->
 
 Historical Prodev Hours Spent:
 
@@ -29,7 +31,8 @@ _\*As of February 12, 2020. All data was pulled from Harvest._
 
 ## Your Prodev Budget
 
-Each full-time team member is provided an annual prodev budget of \$1,200. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
+<!-- prettier-ignore -->
+Each full-time team member is provided an annual prodev budget of $1,200. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
 
 This budget can be used a number of things:
 

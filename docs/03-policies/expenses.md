@@ -9,7 +9,8 @@ CivicActions will timely reimburse approved business-related out-of-pocket expen
 
 ## Requesting approval for an expense
 
-_Before incurring an expense_ the cost should be estimated and approved by the budget owner. The exception to this is [prodev expenses of less than \$50](prodev.md#your-prodev-budget), which do not require approval.
+<!-- prettier-ignore -->
+_Before incurring an expense_ the cost should be estimated and approved by the budget owner. The exception to this is [prodev expenses of less than $50](prodev.md#your-prodev-budget), which do not require approval.
 
 To request approval:
 

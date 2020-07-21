@@ -25,9 +25,11 @@ _See also: [How to Secure Your Google, Dropbox, and GitHub Accounts With a U2F K
 
 This requires a YubiKey token (cover the button for approximately one second) on laptop/desktop to unlock LastPass.
 
+<!-- prettier-ignore-start -->
+
 - My Vault -> Account Settings -> Multifactor Options
   - Set up one free option (e.g., [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)) - this is a useful backup
-  - YubiKey (an easier option) is available when using [LastPass Premium](https://lastpass.com/yubico/) (\$12/year)
+  - YubiKey (an easier option) is available when using [LastPass Premium](https://lastpass.com/yubico/) ($12/year)
     - Select the YubiKey option.
     - Insert the YubiKey device into a USB port on your computer.
     - Focus your cursor on the "YubiKey #1" field.
@@ -40,6 +42,8 @@ This requires a YubiKey token (cover the button for approximately one second) on
     - Enter your LastPass master password and press Confirm.
     - YubiKey is now enabled for your LastPass account.
 - If you have a _YubiKey Neo_ (CivicActions uses the _YubiKey 4_ model) and your phone supports NFC, you can touch the Neo against your phone to unlock on mobile.
+
+<!-- prettier-ignore-end -->
 
 ### Google
 

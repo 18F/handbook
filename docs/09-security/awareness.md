@@ -159,7 +159,8 @@ While it's preferable that you _not_ backup any company or client sensitive file
 
 If you use any backup mechanism more complicated than simply copying the files to another medium, ensure that you know how to restore the files, too, as backups are worthless if you can't retrieve them.
 
-Finally, there is no good reason not to be making backups: a one _terabyte_ external USB drive costs less than \$60 on Amazon.
+<!-- prettier-ignore -->
+Finally, there is no good reason not to be making backups: a one _terabyte_ external USB drive costs less than $60 on Amazon.
 
 ### Securely Delete Files and Wipe Disks
 

@@ -17,7 +17,8 @@ We ask that folks arriving and departing the retreat destination coordinate taki
 
 ### Food
 
-We provide a travel day per diem budget of \$25/ travel day. We usually choose a hotel that serves an inclusive breakfast and we provide coffee and snacks on location. Lunch is usually catered, and team dinners are planned for ahead of time and are paid for by someone who will expense it outside of the stipend amount. You will be required to use the expense process for any food that you pay for while traveling for the retreat (up to the allocated stipend).
+<!-- prettier-ignore -->
+We provide a travel day per diem budget of $25/ travel day. We usually choose a hotel that serves an inclusive breakfast and we provide coffee and snacks on location. Lunch is usually catered, and team dinners are planned for ahead of time and are paid for by someone who will expense it outside of the stipend amount. You will be required to use the expense process for any food that you pay for while traveling for the retreat (up to the allocated stipend).
 
 ### Lodging
 
@@ -29,7 +30,8 @@ We're in the conference-style sessions all day from 9-5 and then usually do team
 
 ### Staying to cowork
 
-Some team members decide to stay one extra day to cowork with each other on their project work (internal or client). The expectation is that those who stay are working a near full day together because it's prodcutive and fun! These team members will get one additional hotel night and an extra meal stiped of \$50 for meals on the coworking day.
+<!-- prettier-ignore -->
+Some team members decide to stay one extra day to cowork with each other on their project work (internal or client). The expectation is that those who stay are working a near full day together because it's prodcutive and fun! These team members will get one additional hotel night and an extra meal stiped of $50 for meals on the coworking day.
 
 ### Extended stay for fun
 

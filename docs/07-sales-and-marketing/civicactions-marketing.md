@@ -36,13 +36,15 @@ We highly encourage team members to share knowledge at conferences and have a nu
 
 CivicActions will pay all costs for travel, registration, attendance, etc., for any team member that has conference presentation accepted at a Core Event. (Marketing > Core Events budget)
 
-CivicActions will pay all costs up to \$1200/year per person to be used for travel, registration, attendance, etc. for any team member that has conference presentation accepted at a Non-Core Event. (Community Participation > Speaking Stipend)
+<!-- prettier-ignore -->
+CivicActions will pay all costs up to $1200/year per person to be used for travel, registration, attendance, etc. for any team member that has conference presentation accepted at a Non-Core Event. (Community Participation > Speaking Stipend)
 
 The Stipend is available three months after the beginning of employment and is reset at the calendar year. Speaking submissions and participation at non-core events are completely at the discretion of every team member, but we request you take into account your project delivery's schedule and check-in with your Project Manager to make sure it won't negatively impact your client delivery expectations.
 
 ### Professional Development Stipend
 
-Every team member has an annual \$1,200 ProDev Stipend they can use to attend any conference or event to support their own professional learning. There is no requirement on the type of event a team member can attend, and it is not required or expected they would speak at a ProDev event.
+<!-- prettier-ignore -->
+Every team member has an annual $1,200 ProDev Stipend they can use to attend any conference or event to support their own professional learning. There is no requirement on the type of event a team member can attend, and it is not required or expected they would speak at a ProDev event.
 
 The ProDev stipend is not limited to events, and can also be used for books, webinars, online classes, apps, or any other ways of improving one's skills.
 

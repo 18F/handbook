@@ -171,11 +171,15 @@ Follow the standard process for tracking expenses for travel, food, and other ap
 
 ##### Reimbursable expenses
 
+<!-- prettier-ignore-start -->
+
 - Flights
-- Food up to \$25/day travel days
-- Food up to \$50 for Saturday coworking
+- Food up to $25/day travel days
+- Food up to $50 for Saturday coworking
 - Travel to/from airports (please consider public transportation)
 - Materials you've been asked to purchase by the Summit planning team
+
+<!-- prettier-ignore-end -->
 
 ##### Already covered by CivicActions
 

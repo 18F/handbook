@@ -51,7 +51,8 @@ then
 fi
 ```
 
-The "cron" or launchctl file located at \$HOME/Library/LaunchAgents/com.dan.outlock.plist might look like this to run every 15 minutes:
+<!-- prettier-ignore -->
+The "cron" or launchctl file located at $HOME/Library/LaunchAgents/com.dan.outlock.plist might look like this to run every 15 minutes:
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
