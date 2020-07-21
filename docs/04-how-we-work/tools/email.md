@@ -2,15 +2,15 @@
 
 ## Internal lists
 
-- We use ca-team@lists.civicactions.net for all team wide communication, and important announcements (slack #announcements used often too)
-- We use ca-employees@lists.civicactions.net for HR notices, etc. (it is generally low traffic)
+- We use <mailto:ca-team@lists.civicactions.net> occasionally for team wide communication, and important announcements (Slack #announcements used more often, however)
+- We use <mailto:ca-employees@lists.civicactions.net> for HR notices, etc. (it is generally low traffic)
 - Other email lists: ca-\[functionalgroup] -sales, -dev, -team, etc.
 - Every project has its own list as a way to overhear each other
 
 ## Client and staff lists
 
-- projectname@lists.civicactions.net (includes clients)
-- projectname-int@lists.civicactions.net (just for CivicActions staff)
+- <mailto:projectname@lists.civicactions.net> (includes clients)
+- <mailto:projectname-int@lists.civicactions.net> (just for CivicActions staff)
 
 ## Protocol
 

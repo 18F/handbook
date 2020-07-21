@@ -48,6 +48,6 @@
       ["remark-lint-table-cell-padding", "consistent"],
       ["remark-lint-table-cell-padding", "consistent"],
       ["remark-lint-unordered-list-marker-style", "-"],
-      "./.retext.error"
+      "./.retext.problem"
     ]
 }

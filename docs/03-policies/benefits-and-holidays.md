@@ -42,7 +42,7 @@ Time off will be recorded simply to easily see any patterns that might otherwise
 If you find yourself needing to adjust your schedule a certain day or week, it is best practice to follow a similar process as requesting time off. A schedule shift does not mean you are taking time off, but rather you have an interrupted or different schedule from your normal work week. An example could be your team is traveling for a project/sales meeting, your attending a conference, you need a Tuesday off but plan to make up the hours over the weekend.
 
 1.  You should first make sure you understand the impact of your schedule shift to your (project) team and get coverage or move meetings as appropriate.
-2.  Email the ca-schedule@civicactions.net list describing your schedule change and note that you've already worked out plans with your team for coverage, etc.
+2.  Email the <mailto:ca-schedule@civicactions.net> list describing your schedule change and note that you've already worked out plans with your team for coverage, etc.
 3.  The schedule change will be acknowledged in an email reply.
 4.  The admin will add this schedule change to the OOO calendar so that it appears in Slack with other requests like time off.
 

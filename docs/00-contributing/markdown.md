@@ -21,11 +21,12 @@ There's a great tutorial [on the Commonmark website](http://commonmark.org/help/
 
 ## Markdown linter
 
-We are using <http://remark.js.org/> for additional linting/checking our markdown syntax. The [.remarkrc.error file](https://github.com/CivicActions/handbook/blob/master/.remarkrc.error) shows a list of all the rules being enforced.
+We are using <http://remark.js.org/> for additional linting/checking our markdown syntax as well as making suggestions around common readbility, language and grammar issues.
 
-This linter is run by [Gitlab CI](gitlab-ci.md) with each pull request and code merge, and will fail if it finds errors.
+- The [.remarkrc.problem file](https://github.com/CivicActions/handbook/blob/master/.remarkrc.problem) shows a list of all the rules being enforced.
+- The [.remarkrc.suggestion file](https://github.com/CivicActions/handbook/blob/master/.remarkrc.suggestion) shows a list of all rules used to give suggestions.
 
-This also outputs a list of suggestions to improve the readbility, language and grammar of the file(s) your pull requests touches. You are encouraged to review and incorporate these.
+This linter is run by [Gitlab CI](gitlab-ci.md) with each pull request and code merge, and will automatically post a pull request review to GitHub indicating problems and suggestions. You can also access the log of problems and suggestions from the Gitlab CI check details link.
 
 Finally, the mkdocs command (which is what Readthedocs) uses to build the web version of the documentation is run - this may identify broken links or other issues in your pull request.
 

@@ -5,12 +5,17 @@ cache:
 lint:
   image: node:13
   script:
-    - yarn install --frozen-lockfile
-    # We fetch the branches, since suggestions are limited to files changed relative to the master branch.
+    # We fetch the master branche, since suggestions are limited to files changed relative to the master branch.
     - git fetch origin master
+    # Set up variable for commit range for unified-diff support (faking Travis CI variable).
+    - export TRAVIS_COMMIT_RANGE="$(git merge-base HEAD origin/master)...$(git rev-parse HEAD)"
+    # Install packages.
+    - yarn install --frozen-lockfile
+    # Lint the gulpfile with eslint.
+    - ./node_modules/.bin/eslint gulpfile.js
     # This runs a gulp job which runs remark lint checks, both suggestions and errors.
-    - ./node_modules/.bin/gulp | tee output.log
-    - bash -c '! egrep -q "(error\W)" output.log'
+    - ./node_modules/.bin/gulp ci | tee output.log
+    - bash -c '! egrep -q "(problem\W)" output.log'
   only:
     - external_pull_requests
 
@@ -19,8 +24,8 @@ lint-master:
   script:
     - yarn install --frozen-lockfile
     # This runs a gulp job which runs remark lint checks, only errors.
-    - ./node_modules/.bin/gulp errors | tee output.log
-    - bash -c '! egrep -q "(error\W)" output.log'
+    - ./node_modules/.bin/gulp problems | tee output.log
+    - bash -c '! egrep -q "(problem\W)" output.log'
   only:
     - master
 

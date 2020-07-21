@@ -7,7 +7,7 @@ There are many different things that can happen to a contract that would require
 ## Common steps to take when you have a contract MOD
 
 - File the MOD in the Shared Google drive "Contracts" folder - this is the single source of contract truth
-- Notify ca-management, the Office Manager, and Marc of MOD file location via the contracts@civicactions.com mailing list with Subject line: "NSF new contract MOD 0004"
+- Notify ca-management, the Office Manager, and Marc of MOD file location via the <mailto:contracts@civicactions.com> mailing list with Subject line: "NSF new contract MOD 0004"
 - Notify the sales team of increased/decreased funds in the Slack channel #sales
 - Update your Harvest project budget to include the new funding
 - Update your budget tracking tool/spreadsheet (if you have one separate from Harvest)

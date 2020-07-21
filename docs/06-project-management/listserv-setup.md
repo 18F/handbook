@@ -6,8 +6,8 @@ We use internal and client-facing listservs for email communication. PMs are res
 
 ## Naming conventions
 
-- project@civicactions.com (includes clients)
-- project-int@civicactions.com (just for CivicActions staff)
+- <mailto:project@civicactions.com> (includes clients)
+- <mailto:project-int@civicactions.com> (just for CivicActions staff)
 
 ## Create a new project email list
 
@@ -28,6 +28,6 @@ We use internal and client-facing listservs for email communication. PMs are res
 
 - In most cases, you'll want to use "Direct add members" instead of "Invite members", so that invitees don't need to take any action.
 - You can set a welcome message that should be sticky for future members that get added.
-- Add elizabeth.raley@civicactions.com and owen.barton@civicactions.com to every list you create.
+- Add <mailto:elizabeth.raley@civicactions.com> and <mailto:owen.barton@civicactions.com> to every list you create.
 
 ![alt text](../images/create-google-group-listserv.png "PM listserv setup")
