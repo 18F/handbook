@@ -2,14 +2,14 @@ site_name: CivicActions Handbook
 repo_url: https://github.com/CivicActions/handbook/
 site_url: https://handbook.civicactions.com/en/latest/
 theme:
-    name: readthedocs
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
 plugins:
-    - search
+  - search
 extra_css:
-    - css/extra.css
+  - css/extra.css
 markdown_extensions:
-    - mdx_truly_sane_lists
+  - mdx_truly_sane_lists

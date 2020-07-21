@@ -26,7 +26,6 @@ function attacher() {
         minWords: 7,
         severity: "fatal",
       })
-      .use(simplify, { ignore: ignoreWords || [] })
       .use(equality, { ignore: ignoreWords || [] })
       .use(diff)
   );
