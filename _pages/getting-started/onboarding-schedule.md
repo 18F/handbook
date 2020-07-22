@@ -4,7 +4,7 @@ title: Onboarding schedule
 
 _This series of onboarding classes is designed to explain how we work and introduce you to organizational best practices. Some of these trainings take place in [#TTS-classes](https://gsa-tts.slack.com/messages/TTS-classes/), some are self-guided, and others are live (hangouts-based)._
 
-Most of these trainings are optional (with the exception of the [Tech Portfolio class]({{site.baseurl}}/intro-to-tts-tech-portfolio), which is required since it has critical legal, regulatory, and policy implications for your work). For the optional ones, if you have a conflicting team meeting or another commitment, prioritize that first! You can easily read a class chat log later.
+Most of these trainings are optional, and there are two required classes: the [Tech Portfolio class]({{site.baseurl}}/intro-to-tts-tech-portfolio), and the [Introduction to Diversity, Equity, and Inclusion at TTS]({{site.baseurl}}/diversity) class. For the optional ones, if you have a conflicting team meeting or another commitment, prioritize that first! You can easily read a class chat log later.
 
 ## About the schedule
 
@@ -42,7 +42,7 @@ In your second week, you’ll learn about privacy best practices, how to get mor
 
 ### Tuesday
 
-* [**Intro to Diversity Guild**]({{site.baseurl}}/diversity): Text-based class in #tts-classes that introduces the Diversity and Inclusion Guild (#g-diversity)
+* [**Introduction to Diversity, Equity, and Inclusion at TTS**]({{site.baseurl}}/diversity): Hangouts-based class hosted by the Diversity Guild (#g-diversity) that introduces our organization's apporach to diversity, equity, and inclusion. ***This is a required course.***
 
 * **Accessibility 101**: Hangouts-based class hosted by the Accessibility Guild (#g-accessibility) that introduces accessibility as it relates to our work, with resources
 
