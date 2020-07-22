@@ -14,7 +14,7 @@ primary:
         url: code-of-conduct
         internal: true
       - text: Org chart
-        url: org-chart
+        url: org-chart/
         internal: true
   - text: Getting started
     href: /#getting-started
