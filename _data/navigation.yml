@@ -14,7 +14,7 @@ primary:
         url: code-of-conduct
         internal: true
       - text: Org chart
-        url: tts-org-chart
+        url: org-chart
         internal: true
   - text: Getting started
     href: /#getting-started
@@ -68,7 +68,6 @@ primary:
       - text: Working groups, Guilds, Communities of Practice and mailing lists
         url: working-groups-and-guilds-101/
         internal: true
-        
   - text: Travel and leave
     href: /#travel-and-leave
     blurb: |
@@ -112,7 +111,6 @@ primary:
       - text: Supervisor resources
         url: performance-management-supervisor-resources/
         internal: true
-
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
