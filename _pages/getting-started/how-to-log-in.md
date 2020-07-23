@@ -46,9 +46,9 @@ Some applications can be logged into using your GSA Google account. Just make su
 
 You can check your account permissions [here](https://myaccount.google.com/permissions).
 
-## VMware Horizon (virtual desktop client) login
+## Citrix (virtual desktop client) login
 
-[Instructions.]({{site.baseurl}}/vmware-horizon/)
+[Instructions.]({{site.baseurl}}/citrix/)
 
 ## Cisco AnyConnect login
 
