@@ -36,7 +36,7 @@ Note: The titles below are linked to our handbook pages for each subject. Descri
 In your second week, you’ll learn about privacy best practices, how to get more involved, the culture of our org, and how we build websites.
 
 ### Monday
-* [**Hatch Act, FOIA, Ethics, and Code of Conduct**](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md): Text-based class in #tts-classes that provides an overview of important governance compliance topics
+* [**Hatch Act, FOIA, Ethics, and Code of Conduct**]({{site.baseurl}}/code-of-conduct/): Text-based class in #tts-classes that provides an overview of important governance compliance topics
 
 * [**Working groups and guilds**]({{site.baseurl}}/working-groups-and-guilds-101): Text-based class in #tts-classes that introduces Working Groups and Guilds, how to join, and ways to get involved
 
