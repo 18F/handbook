@@ -9,7 +9,7 @@ In many parts of government, hierarchical processes and communication patterns m
 Hierarchy can be a good tool for specialization and focus — but **it takes healthy multidisciplinary collaboration to build effective, resilient technology products** in a rapidly changing environment. Our hope is that working with 18F will equip our partners to build (and hire) healthy, high-functioning teams for the long term.
 
 ## Creating inclusive teams and meetings
-The foundation and principles of our approach to inclusion are outlined in the [TTS Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md); we also expect project teams to be **proactive about creating inclusive environments** for collaboration in everything they do.
+The foundation and principles of our approach to inclusion are outlined in the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct/); we also expect project teams to be **proactive about creating inclusive environments** for collaboration in everything they do.
 
 ### Be intentional about forging new teams
 Each time a new team forms—or anytime someone joins an existing team—is a chance to set an inclusive tone and re-establish team norms.
