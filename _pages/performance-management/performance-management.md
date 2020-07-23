@@ -35,19 +35,13 @@ Resource | Use
 ## Who participates in the end of year performance review?
 
 A GSA employee is eligible to be rated by their official Supervisor if they have been on an established Performance Plan for 120 days, beginning with the date that the employee acknowledged the performance plan that was signed by their Supervisor.
-  * ***Note:*** TTS employees who have established a performance plan **before July 17** are eligible to close out their Performance Plan during the October 1 - November 14 end-of-year performance review cycle.
+
+TTS employees who have established a performance plan **before July 17** are eligible to participate in the October 1 - November 14 end-of-year performance review cycle. For employees who start **after July 17 and before September 1**, the performance plan can be closed out 120 days after the performance plan is acknowledged by the employee.  Employees who start **after September 1** are not eligible to participate in the end-of-year performance review cycle.
 
 ### Who is eligible for the end of year performance bonus?
 
-Employees who occupy eligible positions as of September 30, 2019, and who receive an eligible rating of record, will receive an Individual Performance Award (IPA) or can [opt for a Time Off Award in lieu of cash by selecting that option in HR Links]({{site.baseurl}}/performance-management-hrlinks-steps/#selecting-time-off-award-in-lieu-of-cash-performance-award) no later than November 14, 2019.
-  * FY19 IPAs are targeted to be paid out in December 2019, as in previous years. However, the IPA payout date depends upon the status of the Continuing Resolution and FY20 funding.
-
-Subject to the availability of funds, OCFO and OHRM plan to distribute FY19 IPAs as follows:
-
-* **Level 5 summary ratings:** Up to 2.5% of adjusted basic pay, or up to 52 hours of time off, subject to budget availability.
-* **Level 4 summary ratings:** Up to 1.5% of adjusted basic pay, or up to 31 hours of time off subject to budget availability.
-* **"High 3" summary ratings:** Up to .25% of adjusted basic pay, or up to 5 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5.
-
+Information will be updated pending guidance from GSA.
+  
 ### Training
 
 * Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:
