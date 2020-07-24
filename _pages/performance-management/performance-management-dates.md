@@ -33,9 +33,8 @@ October 22, 2020 | Self-assessment submittal due date
 October 23, 2020 | Audit of Employee self-assessment completion
 Oct 23 - Nov 7, 2020 | Supervisors hold 1:1 performance review meetings with their direct reports
 October 30, 2020 | Audit of Supervisor review completion
-November 7, 2020 | TTS Internal ask due date to close out FY20 performance plans
-November 26, 2020 | Official GSA end of year close out due date for FY20 performance plans in HR Links
-December 2020 | FY20 Individual Performance Awards are targeted to be paid out in December 2020
+November 9, 2020 | TTS Internal ask due date to close out FY20 performance plans
+November 16, 2020 | Official GSA end of year close out due date for FY20 performance plans in HR Links
 
 --------------------------------------------------------------------------------
 
