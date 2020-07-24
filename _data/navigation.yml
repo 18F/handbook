@@ -10,6 +10,9 @@ primary:
       - text: Diversity, equity & inclusion
         url: diversity/
         internal: true
+      - text: One TTS
+        url: one-tts/
+        internal: true
       - text: Code of Conduct
         url: code-of-conduct/
         internal: true
