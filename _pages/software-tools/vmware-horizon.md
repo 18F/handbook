@@ -1,4 +1,4 @@
 ---
 title: VMWare Horizon
-redirect_to: ../citrix
+redirect_to: ../virtual-desktop/
 ---

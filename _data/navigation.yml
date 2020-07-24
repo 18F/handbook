@@ -477,7 +477,7 @@ primary:
             url: https://engineering.18f.gov/browser-testing/#windows
             internal: false
           - text: Citrix (Workspace)
-            url: vmware-horizon/
+            url: virtual-desktop/
             internal: true
       - text: Other tools
         children:
