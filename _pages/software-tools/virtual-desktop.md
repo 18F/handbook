@@ -14,9 +14,11 @@ If you are connecting from a GSA Laptop you will already have the Citrix Client 
 If this is a non-GSA Device you should install the Citrix Workspace App before moving to the next step. The Citrix Workspace App can be downloaded from Citrix at the below links for Windows or Apple Mac respectively:
 
 [Citrix Workspace app for Windows](https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html)
+
 [Citrix Workspace app for Mac](https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html)
 
 ## Logging into the Citrix VDI
+These instructions are pulled from the [InSite page](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/citrix/citrix-and-citrix-workspace)
 
 1. Access the Citrix VDI at [vdi.anywhere.gsa.gov](https://vdi.anywhere.gsa.gov).
    -  Alternatively, if you don't want to launch the virtual desktop, and would rather launch individual apps through Citrix (such as Chrome or Internet Explorer), you can go to [anywhere.gsa.gov](https://anywhere.gsa.gov/)
@@ -37,7 +39,7 @@ You may be prompted with a Welcome to Citrix window. If so:
 
 ## Usage
 
-See [the InSite page](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-and-remote-access/citrix/citrix-web-interface).
+See the [InSite page](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-and-remote-access/citrix/citrix-web-interface).
 
 ## Software
 
