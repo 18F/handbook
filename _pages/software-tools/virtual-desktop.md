@@ -2,8 +2,6 @@
 title: Citrix
 ---
 
----
-
 Citrix is a Windows virtual desktop client that can be used to connect to GSA’s intranet, or test something in Internet Explorer.
 
 ## Setup

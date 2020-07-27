@@ -48,7 +48,7 @@ You can check your account permissions [here](https://myaccount.google.com/permi
 
 ## Citrix (virtual desktop client) login
 
-[Instructions.]({{site.baseurl}}/citrix/)
+[Instructions.]({{site.baseurl}}/virtual-desktop/)
 
 ## Cisco AnyConnect login
 

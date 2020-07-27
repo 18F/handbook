@@ -14,7 +14,7 @@ Required classes will be assigned in OLU and pushed individually to the OLU home
 
 Time spent taking OLU trainings should be coded as `969 - GSA-mandated Non-Billable Work` in [Tock]({{site.baseurl}}/tock).
 
-_GSA OLU training material sometimes has trouble with certain browsers. We recommend using [Citrix]({{site.baseurl}}/citrix) and Internet Explorer or, on Mac, Safari, to ensure successful course completion and documentation._
+_GSA OLU training material sometimes has trouble with certain browsers. We recommend using [Citrix]({{site.baseurl}}/virtual-desktop) and Internet Explorer or, on Mac, Safari, to ensure successful course completion and documentation._
 
 ### Mandatory annual trainings for all employees
 
