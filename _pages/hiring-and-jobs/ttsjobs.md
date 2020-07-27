@@ -47,7 +47,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Cloud.gov - GS 12 Account Manager](https://docs.google.com/document/d/1HcKMOiv2-uZbf04VI4M-Hxwl6TPzMXD6zhx5n_RjNKc/edit#) - open Monday, July 27th through Friday, July 31st
 
-- [Login.gov - Deputy Director](https://docs.google.com/document/d/1ydSevfLsYSviAR2GjqdC9NRUqOaTdx2Eay3oPNjBdqY/edit?usp=sharing) - open Monday, July 27th through Friday, July 31st
 
 ## Opportunities with partners
 
