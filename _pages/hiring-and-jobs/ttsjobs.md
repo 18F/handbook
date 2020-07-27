@@ -45,7 +45,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-- [18F - Acting Executive Director](https://docs.google.com/document/d/1uaVbRZh8hQ1b9ustOG15eQCoqGyRo_lradcwkbY_aMs/edit) - open Thursday, July 16th through Thursday, July 23rd
+- [Cloud.gov - GS 12 Account Manager](https://docs.google.com/document/d/1HcKMOiv2-uZbf04VI4M-Hxwl6TPzMXD6zhx5n_RjNKc/edit#) - open Monday, July 27th through Friday, July 31st
 
 ## Opportunities with partners
 
