@@ -10,7 +10,7 @@ There are topics in this document that require more detail on how we implement p
 
 ### Learn more about CivicActions
 
-- [Mission, Values, and Operating Principles](../02-about-us/mission-values-operating-principles.md)
+- [Mission and Values](../02-about-us/mission-values.md)
 - [Background and History](../02-about-us/background-and-history.md)
 
 ## Onboarding Process
