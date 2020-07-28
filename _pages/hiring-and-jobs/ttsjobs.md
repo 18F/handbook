@@ -43,6 +43,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [USAGov Contact Center Team Lead/Lead Federal Information Specialist](https://www.usajobs.gov/GetJob/ViewDetails/573981900) - open Tuesday, July 21st through Thursday, July 30th
 
+- [18F Account Manager](https://www.usajobs.gov/GetJob/ViewDetails/574773400) - open Wednesday, July 29th through Tuesday, August 11th
+
 ### Internal only opportunities
 
 - [Cloud.gov - GS 12 Account Manager](https://docs.google.com/document/d/1HcKMOiv2-uZbf04VI4M-Hxwl6TPzMXD6zhx5n_RjNKc/edit#) - open Monday, July 27th through Friday, July 31st
