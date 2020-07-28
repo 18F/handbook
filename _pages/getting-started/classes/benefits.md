@@ -188,7 +188,7 @@ If you ever move, you can update your address for TSP by emailing it to both the
 
 To transfer your previous retirement account into your TSP, you'll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
 
-If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans cannot be higher than [the annual limit](https://www.tsp.gov/PDF/bulletins/18-04.html).
+If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans cannot be higher than [the annual limit](https://www.tsp.gov/bulletins/19-u-11/).
 
 You may need to include a special additional statement with your tax return explaining you rolled over your IRA to the TSP. For guidance on this, see the [IRS interactive guide to "Do I Need to Report the Transfer or Rollover of an IRA or Retirement Plan on My Tax Return?"](https://www.irs.gov/help/ita/do-i-need-to-report-the-transfer-or-rollover-of-an-ira-or-retirement-plan-on-my-tax-return).
 
