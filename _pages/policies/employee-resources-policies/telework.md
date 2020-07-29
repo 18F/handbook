@@ -12,7 +12,7 @@ A core belief of TTS is, “Work is what we do, not where we are.”  The goal o
 ## GSA Telework links
 
 * [GSA's Workforce Mobility and Telework Policy](https://www.gsa.gov/directive/gsa-workforce-mobility-and-telework-policy)
-* [How to Create a Telework Agreement in HR Links (PDF)](https://corporateapps.gsa.gov/corporateapps/files/Create_Submit_Regular_AgreementEmployees.pdf)
+* [How to Create a Telework Agreement in HR Links (PDF)](https://corporateapps.gsa.gov/files/Create-Submit-Telework-Agreement-Employees.pdf)
 * For new hires in FT telework roles, [a simplified guide to submit your Telework Agreement in HR Links]({{site.baseurl}}/telework-agreement-new-ft/).
 * [How to check the status of your telework agreement](https://youtu.be/z3DKp8t4B6w)
 
