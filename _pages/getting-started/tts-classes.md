@@ -96,8 +96,8 @@ Check out the [TTS Classes Schedule in Google Calendar](https://calendar.google.
 
 Monday | Tuesday | Wednesday | Thursday | Friday
 -------|-------|-------|-------
- &nbsp; | Day 2 @ TTS<br/><br/>GSA Internal Tools<br/><br/>Handbook 101 | Travel 101  | Tock 101 | Tech Portfolio @ TTS
- Working Groups & Guilds<br/><br/>Hatch Act, FOIA, Ethics, and Code of Conduct | Intro to Diversity Guild<br/><br/>Accessibility 101<br/><br/>**Brown Bag w/ TTS Leadership (1x / month)** | Intro to HCD & Agile | 18F Business Opps<br/><br/>Federalist 101 | &nbsp;
+ &nbsp; | Day 2 @ TTS<br/><br/>GSA Internal Tools<br/><br/>Handbook 101 | Travel 101  | Tock 101 | **Tech Portfolio @ TTS**
+ Working Groups & Guilds<br/><br/>Hatch Act, FOIA, Ethics, and Code of Conduct | **Intro to Diversity Guild**<br/><br/>Accessibility 101<br/><br/>**Brown Bag w/ TTS Leadership (1x / month)** | Intro to HCD & Agile | Federalist 101 | &nbsp;
 
 ## Additional Resources
 If you have any questions in regard to the class schedule
