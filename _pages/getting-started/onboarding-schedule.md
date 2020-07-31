@@ -55,8 +55,7 @@ Name | Description | Format | Guidance
 -------|-------|-------|-------
 **Day 2 @ TTS** | Organizational information and account set-up [Day 2 @ TTS deck](https://docs.google.com/presentation/d/16RLmVDueUUJ4NFgc4hYBWCQoeufIQrRVK11x1EaJFNg/edit#slide=id.p) | Video Conference | **Required**
 **Tech Portfolio @ TTS** | Introduction to the Tech Portfolio team, important compliance topics, and technology best practices at TTS [Tech Portfolio @ TTS page](https://handbook.18f.gov/tech-portfolio/)<br/><br/>[Mandatory – take this quiz upon completion](https://docs.google.com/forms/d/e/1FAIpQLSeyTWbNU8_cdeBJVZXQG-aY8ciqgZVVvUopU9XOkCpQSUmiJA/viewform?usp=sf_link) | Self-guided | **Required<br/><br/>+ a mandatory confirmation survey**
-Travel 101 | Intro to setting up a travel account, booking travel, and getting reimbursed
-[Travel 101 page](https://handbook.tts.gsa.gov/travel-101/) | Self-guided | Recommended
+Travel 101 | Intro to setting up a travel account, booking travel, and getting reimbursed [Travel 101 page](https://handbook.tts.gsa.gov/travel-101/) | Self-guided | Recommended
 Tock 101 | Overview of the Tock system and how to track work time [Tock 101 page](https://handbook.18f.gov/tock/) | Slack | Recommended
 Handbook 101 | Overview of how to navigate the handbook and make updates (create pull requests) [TTS Handbook](http://handbook.18f.gov) | Video Conference | Recommended
 GSA Tools and Equipment | Overview of the tools, requests, and support for:<br/>[GSA Operational Tools page](https://handbook.tts.gsa.gov/gsa-internal-tools/)<br/>[Equipment page](https://handbook.tts.gsa.gov/equipment/) | Self-guided | Recommended
