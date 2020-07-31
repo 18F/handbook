@@ -10,9 +10,9 @@ We’ve put together a curriculum of classes we encourage you to take during you
 
 These classes will expose you to a variety of aspects of our organization, introduce you to the people involved, and create opportunities to ask questions.
 
-*Most of these classes are recommended, but optional* (with a few exceptions). If you have a conflicting team meeting or another commitment, prioritize that first! You can read the materials at your convenience or join the classes 2 weeks later.
+**Most of these classes are recommended, but optional** (with a few exceptions). If you have a conflicting team meeting or another commitment, prioritize that first! You can read the materials at your convenience or join the classes 2 weeks later.
 
-*There is A LOT to take in over your first 1-3 months.* So take it all at your own pace, ask questions, and feel free to follow up with your class leads at any point — they’re happy to help.
+**There is A LOT to take in over your first 1-3 months.** So take it all at your own pace, ask questions, and feel free to follow up with your class leads at any point — they’re happy to help.
 
 ## Curriculum
 
@@ -30,14 +30,14 @@ This section provides an overview of each of the classes, broken into topics, fo
 ### Class Formats
 
 Curricula like this can feel a bit overwhelming and exhausting, so we have varied the class format in order to best suit the content and your schedules. The formats include:
-* *Video Conference* – (sometimes with a presentation) – TTS leads will talk you through the content and ask questions. _Sharing your video is highly encouraged but not required._
-* *Self-guided Doc / Video* – You will be directed to a handbook page, a document, deck, or video to review on your own. _No quiz or test after – we swear._ We set up calendar invites for these, only as reminders — nothing more.
-* *Slack* – Hosted in the #TTS-Classes slack channel at a scheduled time, a lead will post messages overviewing a topic and resources and make space for questions. _Emoji reactions are welcome._
-* *Beta Coffee* – Similar to video conference but more conversational, including an overview of a topic and making space for discussion. A summary of the content shared is then also posted in the #TTS-Classes slack channel for posterity. _Sharing your video is highly encouraged but not required._
+* **Video Conference** – (sometimes with a presentation) – TTS leads will talk you through the content and ask questions. _Sharing your video is highly encouraged but not required._
+* **Self-guided Doc / Video** – You will be directed to a handbook page, a document, deck, or video to review on your own. _No quiz or test after – we swear._ We set up calendar invites for these, only as reminders — nothing more.
+* **Slack** – Hosted in the #TTS-Classes slack channel at a scheduled time, a lead will post messages overviewing a topic and resources and make space for questions. _Emoji reactions are welcome._
+* **Beta Coffee** – Similar to video conference but more conversational, including an overview of a topic and making space for discussion. A summary of the content shared is then also posted in the #TTS-Classes slack channel for posterity. _Sharing your video is highly encouraged but not required._
 
 ### Guidance to help you prioritize:
 
-* *Required (and in bold)* - Critical for your onboarding and employment
+* **Required (and in bold)** - Critical for your onboarding and employment
 * Recommended - Suggested for better understanding TTS
 * As Needed – Additional and valuable context depending on your interests or office
 
@@ -53,8 +53,8 @@ Hatch Act, FOIA, Ethics, and Code of Conduct | An overview of important governan
 
 Name | Description | Format | Guidance
 -------|-------|-------|-------
-*Day 2 @ TTS* | Organizational information and account set-up [Day 2 @ TTS deck](https://docs.google.com/presentation/d/16RLmVDueUUJ4NFgc4hYBWCQoeufIQrRVK11x1EaJFNg/edit#slide=id.p) | Video Conference | *Required*
-*Tech Portfolio @ TTS* | Introduction to the Tech Portfolio team, important compliance topics, and technology best practices at TTS [Tech Portfolio @ TTS page](https://handbook.18f.gov/tech-portfolio/)<br/><br/>[Mandatory – take this quiz upon completion](https://docs.google.com/forms/d/e/1FAIpQLSeyTWbNU8_cdeBJVZXQG-aY8ciqgZVVvUopU9XOkCpQSUmiJA/viewform?usp=sf_link) | Self-guided | *Required<br/><br/>+ a mandatory confirmation survey*
+**Day 2 @ TTS** | Organizational information and account set-up [Day 2 @ TTS deck](https://docs.google.com/presentation/d/16RLmVDueUUJ4NFgc4hYBWCQoeufIQrRVK11x1EaJFNg/edit#slide=id.p) | Video Conference | **Required**
+**Tech Portfolio @ TTS** | Introduction to the Tech Portfolio team, important compliance topics, and technology best practices at TTS [Tech Portfolio @ TTS page](https://handbook.18f.gov/tech-portfolio/)<br/><br/>[Mandatory – take this quiz upon completion](https://docs.google.com/forms/d/e/1FAIpQLSeyTWbNU8_cdeBJVZXQG-aY8ciqgZVVvUopU9XOkCpQSUmiJA/viewform?usp=sf_link) | Self-guided | **Required<br/><br/>+ a mandatory confirmation survey**
 Travel 101 | Intro to setting up a travel account, booking travel, and getting reimbursed
 [Travel 101 page](https://handbook.tts.gsa.gov/travel-101/) | Self-guided | Recommended
 Tock 101 | Overview of the Tock system and how to track work time [Tock 101 page](https://handbook.18f.gov/tock/) | Slack | Recommended
@@ -67,7 +67,7 @@ DocuSign Training | Overview of how to use DocuSign [DocuSign Training deck](htt
 
 Name | Description | Format | Guidance
 -------|-------|-------|-------
-*Intro to the Diversity Guild* | Introduction to the Diversity Guild (#g-diversity) [Intro to the Diversity Guild 'deck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit#slide=id.g86f01f88a5_1_0) | Video Conference | *Required*
+**Intro to the Diversity Guild** | Introduction to the Diversity Guild (#g-diversity) [Intro to the Diversity Guild 'deck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit#slide=id.g86f01f88a5_1_0) | Video Conference | **Required**
 Accessibility 101 | Introduction to accessibility as it relates to our work, hosted by the Accessibility Guild (#g-accessibility) | Video Conference | Recommended
 Human-Centered Design (HCD) & Agile | Discussion of our core values: Human-Centered Design (HCD) and Agile, and how they impact our day-to-day work [HCD & Agile script](https://docs.google.com/document/d/1B2epdYJPdVDvxQ3aYh1R7He7UaGrKsul3oJXK0z3Fv0/edit) | Coffee | Recommended
 Working Groups and Guilds | Introduction to Working Groups and Guilds, how to join, and ways to get involved [Working Groups and Guilds page](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/) | Slack | Recommended
@@ -76,7 +76,7 @@ Working Groups and Guilds | Introduction to Working Groups and Guilds, how to jo
 
 Name | Description | Format | Guidance
 -------|-------|-------|-------
-*Brown Bag AMA with TTS Leadership* | Introduction of new employees to TTS senior leadership:an opportunity to meet TTS Directors and ask them anything | Video Conference | *Required*
+**Brown Bag AMA with TTS Leadership** | Introduction of new employees to TTS senior leadership:an opportunity to meet TTS Directors and ask them anything | Video Conference | **Required**
 Federalist 101 | Introduction to Federalist, a service that makes it easy to launch websites using the U.S Web Design System, and Cloud.gov, a secure and compliant way to access cloud services, like compute and storage [Federalist 101 deck](https://docs.google.com/presentation/d/10yBP1vcZrztcYTgU855dlQ55ajHaKlVWorJYdNzvzbA/edit#slide=id.g423a63572c_0_0) | Video Conference | Recommended
 18F Business Operations 101 | Introduction to 18F financial health, cost recovery, and our business operations [18F Business Operations 101 deck](https://docs.google.com/presentation/d/1PeTdtNIJhnNIl00ozmyLRKHKHvd8DZcfo3tXW2YccXY/edit#slide=id.g7d6ab9b05f_0_0) | Video Conference | As Needed
 
@@ -97,7 +97,7 @@ Check out the [TTS Classes Schedule in Google Calendar](https://calendar.google.
 Monday | Tuesday | Wednesday | Thursday | Friday
 -------|-------|-------|-------
  &nbsp; | Day 2 @ TTS<br/><br/>GSA Internal Tools<br/><br/>Handbook 101 | Travel 101  | Tock 101 | Tech Portfolio @ TTS
- Working Groups & Guilds<br/><br/>Hatch Act, FOIA, Ethics, and Code of Conduct | Intro to Diversity Guild<br/><br/>Accessibility 101<br/><br/>*Brown Bag w/ TTS Leadership (*1x / month)* | Intro to HCD & Agile | 18F Business Opps<br/><br/>Federalist 101 | &nbsp;
+ Working Groups & Guilds<br/><br/>Hatch Act, FOIA, Ethics, and Code of Conduct | Intro to Diversity Guild<br/><br/>Accessibility 101<br/><br/>**Brown Bag w/ TTS Leadership (1x / month)** | Intro to HCD & Agile | 18F Business Opps<br/><br/>Federalist 101 | &nbsp;
 
 ## Additional Resources
 If you have any questions in regard to the class schedule
