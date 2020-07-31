@@ -49,7 +49,7 @@ Name | Description | Format | Guidance
 -------|-------|-------|-------
 Hatch Act, FOIA, Ethics, and Code of Conduct | An overview of important governance compliance topics | Slack | Recommended
 
-#### Background & Operations @ TTS
+#### Background and Operations at TTS
 
 Name | Description | Format | Guidance
 -------|-------|-------|-------
@@ -63,7 +63,7 @@ GSA Tools and Equipment | Overview of the tools, requests, and support for:<br/>
 Collaboration Tools @ TTS | Overview of the tools we typically use for project work across [TTS Collaboration Tools @ TTS page](https://handbook.tts.gsa.gov/collaboration-tools/) | Self-guided | As Needed
 DocuSign Training | Overview of how to use DocuSign [DocuSign Training deck](https://docs.google.com/presentation/d/1ZbilFPz29utR4GUu3sHfMR_yeu3NYT6rnRr_vFLaJf4/edit?usp=sharing) | Self-guided | As Needed
 
-#### Our Values + Principles @ TTS
+#### Our Values and Principles at TTS
 
 Name | Description | Format | Guidance
 -------|-------|-------|-------
