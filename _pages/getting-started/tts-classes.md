@@ -35,7 +35,7 @@ Curricula like this can feel a bit overwhelming and exhausting, so we have varie
 * **Video Conference** – (sometimes with a presentation) – TTS leads will talk you through the content and ask questions. _Turning on your camera is highly encouraged but not required._
 * **Self-guided Doc / Video** – You will be directed to a handbook page, a document, deck, or video to review on your own. _No quiz or test after – we swear._ We set up calendar invites for these, only as reminders — nothing more.
 * **Slack** – Hosted in the #TTS-Classes slack channel at a scheduled time, a lead will post messages overviewing a topic and resources and make space for questions. _Emoji reactions are welcome._
-* **Coffee (Beta)** – Similar to video conference but more conversational, including an overview of a topic and making space for discussion. A summary of the content shared is then also posted in the #TTS-Classes slack channel for posterity. _Turning on your camera is highly encouraged but not required._
+* **Coffee (Beta)** – A hybrid of a video conference and slack class, a lead will overview and casually discuss a topic via video conference. A summary and links are shared in the #TTS-Classes slack channel for posterity. _Turning on your camera is highly encouraged but not required._
 
 ### Guidance to help you prioritize:
 
