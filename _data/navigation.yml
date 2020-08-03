@@ -27,7 +27,7 @@ primary:
       - text: Getting Started at TTS
         url: getting-started/
         internal: true
-      - text: TTS Classes for TTS Onboarding
+      - text: TTS Classes for Onboarding
         url: tts-classes/
         internal: true
       - text: Logging in &amp; Networks

@@ -1,9 +1,11 @@
 ---
-title: 'TTS Classes for TTS Onboarding'
+title: 'TTS Classes for Onboarding'
 tags:
 - onboarding
 - getting started
 - tts classes
+redirect_from:
+  - /onboarding-schedule/
 ---
 
 We’ve put together a curriculum of classes we encourage you to take during your [first 90 days](https://handbook.tts.gsa.gov/getting-started/).
@@ -20,9 +22,9 @@ This section provides an overview of each of the classes, broken into topics, fo
 
 ### Topics
 
+* [Our Values and Principles at TTS]({{site.baseurl}}/tts-classes/#our-values-and-principles-at-tts)
 * [Working in the Government]({{site.baseurl}}/tts-classes/#working-in-the-government)
 * [Background and Operations at TTS]({{site.baseurl}}/tts-classes/#background-and-operations-at-tts)
-* [Our Values and Principles at TTS]({{site.baseurl}}/tts-classes/#our-values-and-principles-at-tts)
 * [Divisions of TTS]({{site.baseurl}}/tts-classes/#divisions-of-tts)
 * [Online Learning University (OLU) Mandatory Training](https://docs.google.com/document/d/1K88-W9fkkg3huh-LmCL5B9bpo1oWax-RdczL5cfJ3Z8/edit#heading=h.dsvndf23r6u5)
 
@@ -43,6 +45,15 @@ Curricula like this can feel a bit overwhelming and exhausting, so we have varie
 
 ## Classes
 
+### Our Values and Principles at TTS
+
+Name | Description | Format | Guidance
+-------|-------|-------|-------
+**Intro to the Diversity Guild** | Introduction to the Diversity Guild (#g-diversity) [Intro to the Diversity Guild 'deck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit#slide=id.g86f01f88a5_1_0) | Video Conference | **Required**
+Accessibility 101 | Introduction to accessibility as it relates to our work, hosted by the Accessibility Guild (#g-accessibility) | Video Conference | Recommended
+Human-Centered Design (HCD) & Agile | Discussion of our core values: Human-Centered Design (HCD) and Agile, and how they impact our day-to-day work [HCD & Agile script](https://docs.google.com/document/d/1B2epdYJPdVDvxQ3aYh1R7He7UaGrKsul3oJXK0z3Fv0/edit) | Coffee | Recommended
+Working Groups and Guilds | Introduction to Working Groups and Guilds, how to join, and ways to get involved [Working Groups and Guilds page](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/) | Slack | Recommended
+
 ### Working in the Government
 
 Name | Description | Format | Guidance
@@ -62,15 +73,6 @@ Handbook 101 | Overview of how to navigate the handbook and make updates (create
 GSA Tools and Equipment | Overview of the tools, requests, and support for:<br/>[GSA Operational Tools page](https://handbook.tts.gsa.gov/gsa-internal-tools/)<br/>[Equipment page](https://handbook.tts.gsa.gov/equipment/) | Self-guided | Recommended
 Collaboration Tools @ TTS | Overview of the tools we typically use for project work across [TTS Collaboration Tools @ TTS page](https://handbook.tts.gsa.gov/collaboration-tools/) | Self-guided | As Needed
 DocuSign Training | Overview of how to use DocuSign [DocuSign Training deck](https://docs.google.com/presentation/d/1ZbilFPz29utR4GUu3sHfMR_yeu3NYT6rnRr_vFLaJf4/edit?usp=sharing) | Self-guided | As Needed
-
-### Our Values and Principles at TTS
-
-Name | Description | Format | Guidance
--------|-------|-------|-------
-**Intro to the Diversity Guild** | Introduction to the Diversity Guild (#g-diversity) [Intro to the Diversity Guild 'deck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit#slide=id.g86f01f88a5_1_0) | Video Conference | **Required**
-Accessibility 101 | Introduction to accessibility as it relates to our work, hosted by the Accessibility Guild (#g-accessibility) | Video Conference | Recommended
-Human-Centered Design (HCD) & Agile | Discussion of our core values: Human-Centered Design (HCD) and Agile, and how they impact our day-to-day work [HCD & Agile script](https://docs.google.com/document/d/1B2epdYJPdVDvxQ3aYh1R7He7UaGrKsul3oJXK0z3Fv0/edit) | Coffee | Recommended
-Working Groups and Guilds | Introduction to Working Groups and Guilds, how to join, and ways to get involved [Working Groups and Guilds page](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/) | Slack | Recommended
 
 ### Divisions of TTS
 
