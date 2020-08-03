@@ -26,7 +26,7 @@ This section provides an overview of each of the classes, broken into topics, fo
 * [Working in the Government]({{site.baseurl}}/tts-classes/#working-in-the-government)
 * [Background and Operations at TTS]({{site.baseurl}}/tts-classes/#background-and-operations-at-tts)
 * [Divisions of TTS]({{site.baseurl}}/tts-classes/#divisions-of-tts)
-* [Online Learning University (OLU) Mandatory Training](https://docs.google.com/document/d/1K88-W9fkkg3huh-LmCL5B9bpo1oWax-RdczL5cfJ3Z8/edit#heading=h.dsvndf23r6u5)
+* [Online Learning University (OLU) Mandatory Training]({{site.baseurl}}/tts-classes/#online-learning-university-olu-mandatory-training)
 
 
 ### Class Formats
@@ -66,8 +66,7 @@ Name | Description | Format | Guidance
 -------|-------|-------|-------
 **Day 2 @ TTS** | Organizational information and account set-up [Day 2 @ TTS deck](https://docs.google.com/presentation/d/16RLmVDueUUJ4NFgc4hYBWCQoeufIQrRVK11x1EaJFNg/edit#slide=id.p) | Video Conference | **Required**
 **Tech Portfolio @ TTS** | Introduction to the Tech Portfolio team, important compliance topics, and technology best practices at TTS [Tech Portfolio @ TTS page](https://handbook.18f.gov/tech-portfolio/)<br/><br/>[Mandatory – take this quiz upon completion](https://docs.google.com/forms/d/e/1FAIpQLSeyTWbNU8_cdeBJVZXQG-aY8ciqgZVVvUopU9XOkCpQSUmiJA/viewform?usp=sf_link) | Self-guided | **Required<br/><br/>+ a mandatory confirmation survey**
-Travel 101 | Intro to setting up a travel account, booking travel, and getting reimbursed
-[Travel 101 page](https://handbook.tts.gsa.gov/travel-101/) | Self-guided | Recommended
+Travel 101 | Intro to setting up a travel account, booking travel, and getting reimbursed [Travel 101 page](https://handbook.tts.gsa.gov/travel-101/) | Self-guided | Recommended
 Tock 101 | Overview of the Tock system and how to track work time [Tock 101 page](https://handbook.18f.gov/tock/) | Slack | Recommended
 Handbook 101 | Overview of how to navigate the handbook and make updates (create pull requests) [TTS Handbook](http://handbook.18f.gov) | Video Conference | Recommended
 GSA Tools and Equipment | Overview of the tools, requests, and support for:<br/>[GSA Operational Tools page](https://handbook.tts.gsa.gov/gsa-internal-tools/)<br/>[Equipment page](https://handbook.tts.gsa.gov/equipment/) | Self-guided | Recommended
@@ -92,7 +91,7 @@ We suggest logging in to OLU monthly to check whether you have any mandatory or 
 
 Below is an onboarding calendar of all Required and Recommended classes for your first two weeks.
 
-As a newcomer, we automatically invite you to all Required and Recommended classes, regardless if they’re a live dialogue or self-guided. It’s up to you to review or attend the additional “As Needed” classes.
+As a newcomer, we automatically invite you to all Required and Recommended classes, whether they’re a live dialogue or self-guided. It’s up to you to review or attend the additional “As Needed” classes.
 
 Check out the [TTS Classes Schedule in Google Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_gi2e1fc66fh4v5in8ogsm0v8oo%40group.calendar.google.com&ctz=America%2FChicago) for a full calendar of events, exact dates and times, as they may shift based on when you’re hired and federal holidays.
 
@@ -102,6 +101,6 @@ Monday | Tuesday | Wednesday | Thursday | Friday
  Working Groups & Guilds<br/><br/>Hatch Act, FOIA, Ethics, and Code of Conduct | **Intro to Diversity Guild**<br/><br/>Accessibility 101<br/><br/>**Brown Bag w/ TTS Leadership (1x / month)** | Intro to HCD & Agile | Federalist 101 | &nbsp;
 
 ## Additional Resources
-If you have any questions in regard to the class schedule
+If you have any questions about the class schedule
 * Your #newhire channel or #newcomers
 * Ask your onboarding buddy
