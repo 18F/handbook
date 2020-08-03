@@ -12,13 +12,13 @@ We’ve put together a curriculum of classes we encourage you to take during you
 
 These classes will expose you to a variety of aspects of our organization, introduce you to the people involved, and create opportunities to ask questions.
 
-**Most of these classes are recommended, but optional** (with a few exceptions). If you have a conflicting team meeting or another commitment, prioritize that first! You can read the materials at your convenience or join the classes 2 weeks later.
+**Most of these classes are recommended, but optional** (with a few exceptions). If you have a conflicting team meeting or another commitment, prioritize that first! Most classes recur on a two-week cycle so you can always join the class 2 weeks later or read the materials at your convenience.
 
 **There is A LOT to take in over your first 1-3 months.** So take it all at your own pace, ask questions, and feel free to follow up with your class leads at any point — they’re happy to help.
 
 ## Curriculum
 
-This section provides an overview of each of the classes, broken into topics, followed by a [a calendar of the first two weeks of classes]({{site.baseurl}}/tts-classes/#calendar).
+This section provides an overview of each of the classes, broken into topics, followed by [a calendar]({{site.baseurl}}/tts-classes/#calendar) showing when classes are scheduled during each two-week cycle.
 
 ### Topics
 
@@ -31,11 +31,11 @@ This section provides an overview of each of the classes, broken into topics, fo
 
 ### Class Formats
 
-Curricula like this can feel a bit overwhelming and exhausting, so we have varied the class format in order to best suit the content and your schedules. The formats include:
-* **Video Conference** – (sometimes with a presentation) – TTS leads will talk you through the content and ask questions. _Sharing your video is highly encouraged but not required._
+Curricula like this can feel a bit overwhelming and exhausting, so we have varied the class format in order to best suit the content and your schedule. The formats include:
+* **Video Conference** – (sometimes with a presentation) – TTS leads will talk you through the content and ask questions. _Turning on your camera is highly encouraged but not required._
 * **Self-guided Doc / Video** – You will be directed to a handbook page, a document, deck, or video to review on your own. _No quiz or test after – we swear._ We set up calendar invites for these, only as reminders — nothing more.
 * **Slack** – Hosted in the #TTS-Classes slack channel at a scheduled time, a lead will post messages overviewing a topic and resources and make space for questions. _Emoji reactions are welcome._
-* **Beta Coffee** – Similar to video conference but more conversational, including an overview of a topic and making space for discussion. A summary of the content shared is then also posted in the #TTS-Classes slack channel for posterity. _Sharing your video is highly encouraged but not required._
+* **Coffee (Beta)** – Similar to video conference but more conversational, including an overview of a topic and making space for discussion. A summary of the content shared is then also posted in the #TTS-Classes slack channel for posterity. _Turning on your camera is highly encouraged but not required._
 
 ### Guidance to help you prioritize:
 
@@ -49,7 +49,7 @@ Curricula like this can feel a bit overwhelming and exhausting, so we have varie
 
 Name | Description | Format | Guidance
 -------|-------|-------|-------
-**Intro to the Diversity Guild** | Introduction to the Diversity Guild (#g-diversity) [Intro to the Diversity Guild 'deck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit#slide=id.g86f01f88a5_1_0) | Video Conference | **Required**
+**Intro to the Diversity Guild** | Introduction to the Diversity Guild (#g-diversity) [Intro to the Diversity Guild deck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit#slide=id.g86f01f88a5_1_0) | Video Conference | **Required**
 Accessibility 101 | Introduction to accessibility as it relates to our work, hosted by the Accessibility Guild (#g-accessibility) | Video Conference | Recommended
 Human-Centered Design (HCD) & Agile | Discussion of our core values: Human-Centered Design (HCD) and Agile, and how they impact our day-to-day work [HCD & Agile script](https://docs.google.com/document/d/1B2epdYJPdVDvxQ3aYh1R7He7UaGrKsul3oJXK0z3Fv0/edit) | Coffee | Recommended
 Working Groups and Guilds | Introduction to Working Groups and Guilds, how to join, and ways to get involved [Working Groups and Guilds page](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/) | Slack | Recommended
