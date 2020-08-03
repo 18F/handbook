@@ -35,21 +35,14 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/)  - open Monday, December 2nd through Friday, July 31st
-
 - [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Monday, August 31st
 
-- [Director, Centers of Excellence](https://www.usajobs.gov/GetJob/ViewDetails/573027000) - open Thursday, July 9th through Thursday, July 30th 
+- [Biz-Ops Agreements Supervisor](https://docs.google.com/document/d/1mt0xd6hjl6roV4zfUoEn9r77wG3N6FYwssBzOFnPRs0/edit?usp=sharing) - open Monday, August 3rd through Friday, August 7th
 
-- [USAGov Contact Center Team Lead/Lead Federal Information Specialist](https://www.usajobs.gov/GetJob/ViewDetails/573981900) - open Tuesday, July 21st through Thursday, July 30th
-
-- [18F Account Manager](https://www.usajobs.gov/GetJob/ViewDetails/574773400) - open Wednesday, July 29th through Tuesday, August 11th
 
 ### Internal only opportunities
 
-- [Cloud.gov - GS 12 Account Manager](https://docs.google.com/document/d/1HcKMOiv2-uZbf04VI4M-Hxwl6TPzMXD6zhx5n_RjNKc/edit#) - open Monday, July 27th through Friday, July 31st
-
-- [Login.gov - Deputy Director](https://docs.google.com/document/d/1ydSevfLsYSviAR2GjqdC9NRUqOaTdx2Eay3oPNjBdqY/edit?usp=sharing) - open Monday, July 27th through Friday, July 31st
+- [18F Account Manager](https://www.usajobs.gov/GetJob/ViewDetails/574773400) - open Wednesday, July 29th through Tuesday, August 11th
 
 ## Opportunities with partners
 
