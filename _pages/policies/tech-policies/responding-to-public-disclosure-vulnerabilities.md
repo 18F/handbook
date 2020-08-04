@@ -5,6 +5,7 @@ title: Public disclosures of vulnerabilities
 When someone in the public alerts you to a potential vulnerability in our systems, you need to act quickly. There are four steps in this process:
 
 1. [Triage the vulnerability](#triage-the-vulnerability)
+1. [Determine an incident](#determine-an-incident)
 1. [Respond to reporter](#reply-to-the-reporter)
 1. [Remediate](#remediate)
 
