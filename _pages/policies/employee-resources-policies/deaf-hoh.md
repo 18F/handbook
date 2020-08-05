@@ -67,6 +67,7 @@ In order to use video relay services in combination with video meeting tools lik
  4. Begin your conversation
 
 #### Video relay tips
+
  * Add (877) 709-5797 to your Z5 contact list for a quick dial
  * Interpreters can facilitate information in both directions. Deaf/HoH individuals using their own voice in conversation (instead of the interpreter voicing for them) should inform the interpreter at the beginning that they’ll be using Voice Carry Over (VCO). Alternatively, they should ask the interpreter to convert the individual’s conversation from sign language to voice.
  * If you are using Voice Carry Over (VCO) and the interpreter is not expected to use their voice, mute the interpreter’s phone line from the Google Meet or Zoom meeting to reduce background noises and microphone echos.
@@ -83,8 +84,9 @@ In order to use video relay services in combination with video meeting tools lik
  * When the booking is confirmed, you will receive a link for accessing the transcript at the time of the event
  * Add the link for accessing the live transcript to the meeting invitation, so that individuals using it can find it easily when they join the meeting
  
- #### Relay Conference captioning tips
- * For the Federal Agency Name field, GSA is **4700**
+#### Relay Conference captioning tips
+
+* For the Federal Agency Name field, GSA is **4700**
  * Join the meeting early if you can so that you can make sure the captioner is set up properly. 
  * Include a good discription of the event so they know what words or acryonms to expect. For example, if you're giving a technical talk the captioner might not be familiar with some of the words you expect to use, so including them will help the captions be more accurate.
  * Consider also including the phonetic pronunciation for words or you expect to use alot. (Use your judgement, you don't want to overwhelm them either!)
