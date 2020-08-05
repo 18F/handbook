@@ -5,16 +5,19 @@ primary:
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
     children:
       - text: Mission, history, and values
-        url: tts-history
+        url: tts-history/
         internal: true
       - text: Diversity, equity & inclusion
-        url: diversity
+        url: diversity/
+        internal: true
+      - text: One TTS
+        url: one-tts/
         internal: true
       - text: Code of Conduct
-        url: code-of-conduct
+        url: code-of-conduct/
         internal: true
       - text: Org chart
-        url: tts-org-chart
+        url: org-chart/
         internal: true
   - text: Getting started
     href: /#getting-started
@@ -22,25 +25,25 @@ primary:
       Here's what you probably want to know in your first weeks at TTS.
     children:
       - text: Welcome
-        url: welcome-letter
+        url: welcome-letter/
         internal: true
       - text: Getting Started at TTS
-        url: getting-started
+        url: getting-started/
         internal: true
-      - text: Onboarding class schedule
-        url: onboarding-schedule
+      - text: TTS Classes for Onboarding
+        url: tts-classes/
         internal: true
       - text: Logging in &amp; Networks
-        url: how-to-log-in
+        url: how-to-log-in/
         internal: true
       - text: Equipment
-        url: equipment
+        url: equipment/
         internal: true
       - text: Benefits
-        url: benefits
+        url: benefits/
         internal: true
       - text: Travel 101
-        url: travel-101
+        url: travel-101/
         internal: true
       - text: TTS Supervisor Guide
         url: https://docs.google.com/document/d/1QAivrwzf-FX2IN20XsZVeMsmXkCvZ5oE0Z9O68a3PeM/edit?ts=5ebd541a#heading=h.pxc6vhgwjmms
@@ -51,7 +54,7 @@ primary:
       Classes, coaching and ongoing professional development
     children:
       - text: Coaching, mentoring and professional development
-        url: development-and-training
+        url: development-and-training/
         internal: true
       - text: Conferences and events
         url: conferences-events-training/
@@ -68,7 +71,6 @@ primary:
       - text: Working groups, Guilds, Communities of Practice and mailing lists
         url: working-groups-and-guilds-101/
         internal: true
-
   - text: Travel and leave
     href: /#travel-and-leave
     blurb: |
@@ -94,25 +96,25 @@ primary:
       - text: Performance management overview
         url: performance-management/
         internal: true
+      - text: Important dates
+        url: performance-management-dates//#end-of-year-performance-review-important-dates
+        internal: true
       - text: End of year HRLinks steps
         url: performance-management-hrlinks-steps/
         interal: true
-      - text: Mid year review overview
-        url: mid-year/
-        internal: true
-      - text: Mid year HRLinks steps
-        url: mid-year-hrlinks-steps/
-        internal: true
-      - text: Important dates
-        url: performance-management-dates/
-        internal: true
       - text: Employee resources
         url: performance-management-employee-resources/
         internal: true
       - text: Supervisor resources
         url: performance-management-supervisor-resources/
         internal: true
-
+      - text: Mid year review overview
+        url: mid-year/
+        internal: true
+      - text: Mid year HRLinks steps
+        url: mid-year-hrlinks-steps/
+        internal: true
+     
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
@@ -141,7 +143,7 @@ primary:
         url: hiring-authorities/
         internal: true
       - text: Federal resume guide
-        url: resume
+        url: resume/
         internal: true
       - text: Referring a person
         url: talent/#referring-a-person

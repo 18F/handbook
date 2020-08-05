@@ -35,18 +35,14 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/)  - open Monday, December 2nd through Friday, July 31st
-
 - [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Monday, August 31st
 
-- [Director, Centers of Excellence](https://www.usajobs.gov/GetJob/ViewDetails/573027000) - open Thursday, July 9th through Thursday, July 30th 
+- [18F Account Manager](https://www.usajobs.gov/GetJob/ViewDetails/574773400) - open Wednesday, July 29th through Tuesday, August 11th
+
 
 ### Internal only opportunities
 
-- [18F - Interim Business Development Lead](https://docs.google.com/document/d/1g2RZ3b8IN-11yW6xsVBeTR3SZyFRJ6C0KzQRw18oF6w/edit?usp=sharing) - open Wednesday, July 8th through Friday, July 17th
-- [18F - User Experience Supervisor](https://docs.google.com/document/d/1RrzRHrP2Ml4G_XWJdhmLAw1re7u0biDfUC9usW7MnuI/edit#) - open Friday, July 10th through Friday, July 17th
-- [18F - Product Supervisor](https://docs.google.com/document/d/1uCjxnpOmTZ_fDpV6jQtBwoD94bg7fr63jC1O5WGXZ6I/edit) - open Wednesday, July 15th through Wednesday, July 22nd
-- [18F - Acting Executive Director](https://docs.google.com/document/d/1uaVbRZh8hQ1b9ustOG15eQCoqGyRo_lradcwkbY_aMs/edit) - open Thursday, July 16th through Thursday, July 23rd
+- [Biz-Ops Agreements Supervisor](https://docs.google.com/document/d/1mt0xd6hjl6roV4zfUoEn9r77wG3N6FYwssBzOFnPRs0/edit?usp=sharing) - open Monday, August 3rd through Friday, August 7th
 
 ## Opportunities with partners
 

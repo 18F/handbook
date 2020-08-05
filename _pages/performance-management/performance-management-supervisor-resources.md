@@ -84,9 +84,9 @@ All supervisors should complete the FY20 audit by COB September 24th, so please 
 
 #### 1 on 1 performance discussion
 
-This meeting is an opportunity to rate, recognize and give your direct report constructive feedback (formal or informal) regarding the results of their work within the established expectations, goals, and objectives outlined in the performance plan.  If your direct report has filled out a [performance rating tool](https://drive.google.com/open?id=1ayWnEowb8b9KT6rlQC9BwLLeV4ZkVVLRk4BBaY0LvGA), this meeting would be a good time to review it with them.
+This meeting is an opportunity to rate, recognize and give your direct report constructive feedback (formal or informal) regarding the results of their work within the established expectations, goals, and objectives outlined in the performance plan.  
 
-See below for how to prepare for this meeting.
+***See below for how to prepare for this meeting.***
 
 #### Preparing for 1 on 1 performance discussion
 

@@ -7,7 +7,7 @@ The federal government is accountable for making all of its products 508 complia
 
 ## Leadership
 
-[Jacklynn Pham, 18F](https://gsa-tts.slack.com/messages/@Jacklynn) and [Toni Bonitto, TTS Solutions/DigitalGov](https://gsa-tts.slack.com/messages/@Toni) lead the [accessibility guild](https://github.com/18F/accessibility).
+[Robert Jolly, 18F](https://gsa-tts.slack.com/messages/@robertjolly) and Alexandra Porter, Data Analytics Centers of Excellence lead the [accessibility guild](https://github.com/18F/accessibility).
 
 ## Communication
 

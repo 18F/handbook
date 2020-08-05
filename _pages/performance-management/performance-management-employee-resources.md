@@ -48,15 +48,6 @@ Supporting documentation that aligns with your Performance Management Plan is **
 
 This information can be shared with your Supervisor during your mid-year and end-of-year 1:1 performance review conversation.
 
-#### TTS performance rating tool
-Use of this tool is optional but can be helpful in determining what your end-of-year rating may be once the performance review is complete. This tool can be used as a reference during your 1:1 performance review conversation with your supervisor. Note that your supervisor will make final rating determinations on all specific measures associated with your performance plan.
-
-* [Performance rating tool](https://drive.google.com/open?id=1ayWnEowb8b9KT6rlQC9BwLLeV4ZkVVLRk4BBaY0LvGA)
-  1. Make a copy of the tool
-  1. Personalize the template corresponding to your performance plan structure and weight distribution
-  1. Assign a performance rating to your specific measures within each of the five critical elements
-    * The tool will calculate your overall rating for each critical element and automatically populate the summary tab to produce an overall performance rating.  
-
 ### Training
 
 * Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:
