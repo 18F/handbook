@@ -7,7 +7,7 @@ GSA offers [Zoom for Government](https://zoomgov.com/).
 ## Setup
 
 1. Install the Zoom application through the Self Service app.
-1. When signing in, select `.zoomgov.com`.
+1. When signing in, select `gsa.zoomgov.com`.
 1. Click `Sign in with SSO`.
 1. Consider [adding a profile picture and your location and pronouns to your display name](https://www.zoomgov.com/profile).
 

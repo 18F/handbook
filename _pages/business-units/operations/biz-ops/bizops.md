@@ -62,4 +62,4 @@ incredible candidate experience from the first time a candidate sees a job posti
   - [Refer someone]({{site.baseurl}}/talent/#referring-a-person)
 - [Promotions]({{site.baseurl}}/promotions/)
 - [Internal Competitions]({{site.baseurl}}/ttsjobs/)
-- [Onboarding]({{site.baseurl}}/onboarding-schedule/)
+- [Onboarding]({{site.baseurl}}/tts-classes/)
