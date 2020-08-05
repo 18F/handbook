@@ -93,12 +93,12 @@ primary:
       - text: Performance management overview
         url: performance-management/
         internal: true
-      - text: End of year HRLinks steps
-        url: performance-management-hrlinks-steps/
-        interal: true
       - text: Important dates
         url: performance-management-dates//#end-of-year-performance-review-important-dates
         internal: true
+      - text: End of year HRLinks steps
+        url: performance-management-hrlinks-steps/
+        interal: true
       - text: Employee resources
         url: performance-management-employee-resources/
         internal: true
