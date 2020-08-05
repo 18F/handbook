@@ -88,9 +88,9 @@ In order to use video relay services in combination with video meeting tools lik
 
 * For the Federal Agency Name field, GSA is **4700**
  * Join the meeting early if you can so that you can make sure the captioner is set up properly. 
- * Include a good discription of the event so they know what words or acryonms to expect. For example, if you're giving a technical talk the captioner might not be familiar with some of the words you expect to use, so including them will help the captions be more accurate.
+ * Include a good description of the event so they know what words or acryonms to expect. For example, if you're giving a technical talk the captioner might not be familiar with some of the words you expect to use, so including them will help the captions be more accurate.
  * Consider also including the phonetic pronunciation for words or you expect to use alot. (Use your judgement, you don't want to overwhelm them either!)
- * You are also able to chat through the captioning interface. You can use this to coorrect or supplement captions if necessary.
+ * You are also able to chat through the captioning interface. You can use this to correct or supplement captions if necessary.
  
 ### Other software
 
