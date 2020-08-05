@@ -36,12 +36,13 @@ The hiring action owner is responsible for developing job materials and interact
 Talent will assist with the following:
 
 - Reviewing the job announcement
+- Reviewing the interview guide
 - Posting the announcement
 - Submitting the PAR action to HR
 
 **Internal Hiring Actions - Best Practices & Recommendations**
 
-- When conducting interviews, you may want to consider building a short [hiring guide](https://docs.google.com/document/d/1JNEMDfUjIpgK5mOl619XVVsxrXn7l9Vzcv-wKOnuwh4/edit) to help ensure that you are covering all of the areas necessary for the role and also to ensure a consistent candidate experience.
+- When conducting interviews, you should build a short [interview guide](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit#heading=h.6jehpcfzn58u) to help ensure that you are covering all of the areas necessary for the role and also to ensure a consistent candidate experience.
 - When selecting an internal candidate you will need to have a discussion with their current supervisor regarding the following:
     - If they will allow their employee to leave the team (they are not obligated to say yes)
     - If yes, what will the release date be (note that the effective date must fall on a [payroll period](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars))
@@ -55,6 +56,7 @@ Use the following templates to prepare the posting (make sure to make a copy of 
 
   - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing)
   - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
+  - [Template - TTS Interview Guide](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit#heading=h.6jehpcfzn58u)
 
 Once the TTSJobs Announcement is ready, Talent will:
 
