@@ -229,6 +229,13 @@ Current 18F Collectives (and Leads) include:
           <a href="https://gsa-tts.slack.com/messages/c-consulting">#c-consulting</a>
         </td>
       </tr>
+      <tr>
+        <th class="col-grouplet">Agile</th>
+        <td>Julia Allen & Alex Bielen</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/agile">#agile</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
