@@ -1,5 +1,7 @@
 # CivicActions Help Desk Support
 
+Note: this is the help desk practice area. We have separate documentation that describes [how to request internal support](../04-how-we-work/support.md).
+
 ## Mission
 
 The CivicActions Help Desk provides helpful, timely and kind support to users, clients and other stakeholders by answering questions, providing resources, and enabling access.

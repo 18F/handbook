@@ -22,21 +22,11 @@
 - If you want to call attention to everyone subscribed to channel, write **@channel** or **@group**.
 - To alert only those in a channel/group who are online, write **@here**.
 
-## IT Support / Halp
-
-- Halp is a Slack bot that we use to submit requests to our internal support team, responsible for supporting:
-  - Internal systems and services (Slack, Zoom, Google Groups, GitLab, CI server, etc.)
-  - Project sandbox / CI escalations
-- To request support, do one of the following:
-  - Ping the internal support team directly using the @it-help handle in the relevant Slack channel
-  - Use the `/halp` slash command in the relevant Slack channel to create a support ticket yourself
-  - To quickly create a ticket directly from a Slack message, click "More actions" and select "Create Halp Ticket". Alternatively, react to the message using the :ticket: emoji.
-  - DM any of the support team directly (@zoe, @daven, and @grugnog)
-- Halp will create a Slack thread representing the ticket to track its status and document further discussion
-
 ## Tips
 
+- Did you know you can [request support](../support.md) using Slack?
 - Consider using the word "ping" to check on the availability of someone
+- Create a Zoom from Slack: type **/zoom** (will need to authorize)
 - Create a Google Meet from Slack: type **/hangout** (will need to authorize the slack app in Meet/Hangout too)
 - To quickly bring back the last message you sent back to the text box, just press the Up arrow key.
 - You can adjust notification preferences:
