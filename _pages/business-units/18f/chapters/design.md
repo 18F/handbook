@@ -104,7 +104,7 @@ Unless otherwise specified, **see [Software](../software/#get-access-to-software
 - [**InVision**]({{site.baseurl}}/invision/)
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
 - [**Adobe Creative Cloud**]({{site.baseurl}}/adobe/)
-- [**Microsoft Visio**](https://products.office.com/en-us/visio/flowchart-software) - Visio isn't available for Mac, but you can [request it get added to your Horizon VDI instance]({{site.baseurl}}/vmware-horizon/#software).
+- [**Microsoft Visio**](https://products.office.com/en-us/visio/flowchart-software) - Visio isn't available for Mac, but you can [request it get added to your Citrix VDI instance]({{site.baseurl}}/virtual-desktop/#software).
 
 #### Project management
 

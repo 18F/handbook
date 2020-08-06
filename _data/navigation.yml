@@ -475,11 +475,11 @@ primary:
           - text: AnyConnect (VPN client)
             url: anyconnect/
             internal: true
-          - text: VMware Fusion (hypervisor)
-            url: vmware-fusion/
-            internal: true
-          - text: VMware Horizon (virtual desktop client)
-            url: vmware-horizon/
+          - text: VirtualBox (hypervisor)
+            url: https://engineering.18f.gov/browser-testing/#windows
+            internal: false
+          - text: Citrix (Workspace)
+            url: virtual-desktop/
             internal: true
       - text: Other tools
         children:
