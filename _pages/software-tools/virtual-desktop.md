@@ -2,12 +2,11 @@
 title: Citrix
 ---
 
-Citrix is a Windows virtual desktop client that can be used to connect to GSA’s intranet, or test something in Internet Explorer.
+Citrix is a Windows virtual desktop client that can be used to connect to GSA's intranet, or test something in Internet Explorer.
 
 ## Setup
-In order to launch Citrix , you will need to have the Citrix Client installed on your device.
 
-If you are connecting from a GSA Laptop you will already have the Citrix Client installed.
+In order to launch Citrix, you will need to have the Citrix Client installed on your device. If you are connecting from a GSA Laptop you will already have the Citrix Client installed.
 
 If this is a non-GSA Device you should install the Citrix Workspace App before moving to the next step. The Citrix Workspace App can be downloaded from Citrix at the below links for Windows or Apple Mac respectively:
 
@@ -16,10 +15,11 @@ If this is a non-GSA Device you should install the Citrix Workspace App before m
 [Citrix Workspace app for Mac](https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html)
 
 ## Logging into the Citrix VDI
-These instructions are pulled from the [InSite page](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/citrix/citrix-and-citrix-workspace)
+
+These instructions are pulled from the [InSite page](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/citrix/citrix-and-citrix-workspace):
 
 1. Access the Citrix VDI at [vdi.anywhere.gsa.gov](https://vdi.anywhere.gsa.gov).
-   -  Alternatively, if you don't want to launch the virtual desktop, and would rather launch individual apps through Citrix (such as Chrome or Internet Explorer), you can go to [anywhere.gsa.gov](https://anywhere.gsa.gov/)
+   - Alternatively, if you don't want to launch the virtual desktop, and would rather launch individual apps through Citrix (such as Chrome or Internet Explorer), you can go to [anywhere.gsa.gov](https://anywhere.gsa.gov/)
 1. Go to [otp.gsa.gov](https://otp.gsa.gov) and enter your ENT info to get the Tokencode
    - You can also obtain a Tokencode by installing SecureAuth OTP on your
      phone, as described in the [Get a one-time password?]({{site.baseurl}}/distributed/#get-a-one-time-password)
@@ -27,13 +27,15 @@ These instructions are pulled from the [InSite page](https://insite.gsa.gov/empl
 1. Enter your ENT info and the Tokencode back into Citrix login-in screen
 
 #### If this is the first time connecting in from your Web Browser:
+
 You may be prompted with a Welcome to Citrix window. If so:
-1. Select Detect Receiver
-1. When prompted to Open in Citrix Workspace Launcher click Cancel
-1. Click the Already Installed hyperlink
+
+1. Select `Detect Receiver`.
+1. When prompted to Open in Citrix Workspace Launcher click `Cancel`.
+1. Click the `Already Installed` hyperlink.
 1. The Citrix VDI Desktops you have available will be presented to you (these vary by person). Click on the monitor icon for the VDI desktop you wish to launch.
-1. You will notice a file downloaded in your browser. Click on the “^” to the right of the file name and select Always open files of this type
-1.  Click on the monitor icon for the Desktop you want to launch. This time (and going forward) the Desktop should launch without showing a downloaded file.
+1. You will notice a file downloaded in your browser. Click on the `^` to the right of the file name and select Always open files of this type.
+1. Click on the monitor icon for the Desktop you want to launch. This time (and going forward) the Desktop should launch without showing a downloaded file.
 
 ## Usage
 
