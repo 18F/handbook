@@ -7,7 +7,7 @@ ruby '2.7.0'
 gem 'jekyll', github: 'jekyll/jekyll'
 gem 'json'
 gem 'hash-joiner'
-gem 'uswds-jekyll'
+gem 'uswds-jekyll', '~> 5.0'
 gem 'jekyll-sitemap'
 
 group :development do
