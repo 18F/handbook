@@ -43,7 +43,7 @@ Rather than trying to exert control over everything technology at TTS, we focus 
 
 ## Feedback?
 
-We're open and excited to hear [(anonymous) feedback](https://docs.google.com/forms/d/1Z9ozErUeMW2mmo4VW-0wfYXD7GllbvCuuZ9AVNAyS_s/edit) to hear how we're doing!
+We're open and excited to hear [(anonymous) feedback](https://docs.google.com/forms/d/e/1FAIpQLSeVEH_l46flYCCQRl351KhID77XPCw5ulsQPh0iFqfRig2hxA/viewform) to hear how we're doing!
 
 ## Questions
 
