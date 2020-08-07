@@ -62,17 +62,11 @@ Other teams or offices who have a hiring need may ask to view the qualified cand
 
 ### Filling a vacancy via the Excepted Service version of the Merit Promotion Process
 
-Although Excepted Service actions are governed by a slightly different set of requirements, TTS has elected to align Excepted Service with the Competitive Service Merit Promotion process; this will create parity between the two processes and the offices that are affected by them. We want all staff to feel like they have the same opportunities. Aligning the processes provides all of the same benefits of transparency, visibility, diversity, etc.
+Although Excepted Service actions are governed by a slightly different set of requirements, TTS has elected to align Excepted Service with our [internal competitions process](https://handbook.tts.gsa.gov/hiring/#tts-internal-competitions-and-developmental-opportunities); this will create parity between the two processes and the offices that are affected by them. We want all staff to feel like they have the same opportunities. Aligning the processes provides all of the same benefits of transparency, visibility, diversity, etc.
 
-The prioritization of the Excepted Service Promotion process will be identical to the Competitive Service Merit Promotion process. The only difference between them will be that USAJobs and any associated steps will not be used.
-
--  [Prioritization Process](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit?usp=sharing)
+-  The role needs to be prioritized by the Business Unit Lead
 
 - The office requesting the Excepted Service Promotion action will need to have a vacant position available on the CFO-approved staffing plan that can accommodate the required GS level.
-
-- Talent will initiate the hiring action once it reaches the top of the backlog or once the applicable Business Unit and TTS Front Office have given the hiring action priority.
-
-This is where the process diverges from the Competitive Service Merit Promotion process as this isn’t an “official” job announcement.
 
 - The Excepted Service Promotion opportunity will be posted internally and will be open to anyone in TTS.
 
