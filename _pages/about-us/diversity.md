@@ -1,6 +1,8 @@
 ---
 title: Diversity, Equity, and Inclusion at TTS
 navtitle: Diversity, Equity, and Inclusion at TTS
+redirect_from:
+  - /intro-to-the-diversity-guild/
 ---
 
 A diverse organization creates a spectrum of solutions and ideas, and helps us challenge status quo thinking. Inside TTS, the work of diversity, equity, and inclusion (DEI or DE&I) is a collective effort: every employee makes a difference.
@@ -18,7 +20,7 @@ We strive to create a community where everyone feels empowered to speak up. Howe
 We actively work to eliminate bigotry and subtle forms of disrespect (e.g. [microaggressions](https://en.wikipedia.org/wiki/Microaggression), microinvalidations,  etc.) from our workplace. We also understand that in order to address [unconscious bias](https://diversity.ucsf.edu/resources/unconscious-bias) you have to start somewhere. Below are resources for anyone to learn more about diversity and inclusion principles and best-practices.
 
 - [18F Inclusive Language Guide](https://content-guide.18f.gov/inclusive-language/) - principles, resources, and suggestions for writing and talking about diverse groups of people.
-- Preference, Tradition, or Requirement? [“Here’s EY’s Simple But Effective Strategy For Increasing Diversity”](http://fortune.com/2017/02/10/ey-simple-effective-diversity-inclusiveness-strategy/) - Is something a preference, tradition, or requirement? This article covers how Ernst and Young used the “PTR” framework to hire a more diverse workforce. It can be used widely to critically assess all aspects of a work culture.
+- Preference, Tradition, or Requirement? [“Here’s EY’s Simple But Effective Strategy For Increasing Diversity”](https://fortune.com/2017/02/10/ey-simple-effective-diversity-inclusiveness-strategy/) - Is something a preference, tradition, or requirement? This article covers how Ernst and Young used the “PTR” framework to hire a more diverse workforce. It can be used widely to critically assess all aspects of a work culture.
 - [One on One Meeting Framework](https://docs.google.com/document/d/1GAhgY2y1usPhU7UN-w08ZDNXFTC6aWBKFBYRRxgjvWk/edit) - This GSA resource - though not explicitly written with a diversity and inclusion lens - contains useful guidelines that supervisors can use to provide equitable feedback experiences with each employee on a regular basis.
 - [Management Tools list from The Management Center](http://www.managementcenter.org/tools/) - includes resources on delegation, roles & goals, performance problems, managing up, and much more. They include equity and inclusion considerations in their tools.
 - Got a question for #g-diversity? [This is an anonymous form for questions or issues regarding diversity, equity, and inclusion](https://docs.google.com/forms/d/1xIaxaHD957MtfDwHy7Ec_Xf4C4VXbOy_bpwWL7f6e94/edit?ts=5d52ff9b).
@@ -63,7 +65,7 @@ We believe there are four sources of inclusiveness at every organization, and we
 
 ## Diversity Guild
 
-The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/ Slack channel))🔒. 
+The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and the [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/)🔒 Slack channel. The Guild is currently led by [Austin Hernandez](https://gsa-tts.slack.com/messages/@austinhernandez)🔒 and [Victoria Wales](https://gsa-tts.slack.com/messages/@v)🔒.
 
 
 ### How to get involved
@@ -72,4 +74,4 @@ Not only does the Diversity Guild provide a space for learning, it also promotes
 
 - Join our Slack channel, [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/). 
   -  Read the [Guidelines for the #G-Diversity Channel](https://docs.google.com/document/d/1IP0GERswH8t5nQxH0VyYPidj5TrkNtfJEmaPz3_y-go/edit)
-- Come to our meetings. We meet weekly, every Friday at 12:30-1pm EST. We also have open coworking sessions every Friday at 1pm EST, or the option to extend meeting topics to one hour. The meetings currently show up on the [TTS Working Groups and Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com)🔒 If you would like to be added to the invites directly, please [message Austin Hernandez](https://gsa-tts.slack.com/messages/@austinhernandez)🔒.
+- Come to our meetings. We meet weekly, every Friday at 12:30-1pm EST. We also have open coworking sessions every Friday at 1pm EST, or the option to extend meeting topics to one hour. The meetings currently show up on the [TTS Working Groups and Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com)🔒 If you would like to be added to the invites directly, please [message Austin Hernandez](https://gsa-tts.slack.com/messages/@austinhernandez)🔒 or [Victoria Wales](https://gsa-tts.slack.com/messages/@v)🔒.

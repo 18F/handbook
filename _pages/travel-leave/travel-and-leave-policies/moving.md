@@ -97,7 +97,7 @@ Part J. Concurrences
  * "Supervisor Name": Your second level Supervisor (your Supervisor's supervisor)
  * "Second Level Supervisor": Your third level Supervisor (Supervisor's supervisor's supervisor; if this is Anil, then skip)
  * "Third Level Supervisor": OCFO
-   * Roles funded by ASF (Siri Nankin)
+   * Roles funded by ASF (Natasha Booth)
     * EX: 18F, IT Portfolio, login.gov, cloud.gov
   * Roles funded by FSCSF (Sara Twyman)
     * EX: OPP, search.gov
@@ -114,7 +114,7 @@ Part J. Concurrences
 
 ## Effective date
 
-Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](http://www.gsa.gov/portal/content/102507).
+Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](https://www.gsa.gov/portal/content/102507).
 
 A member of the People Ops Team will complete a Personnel Action Request (PAR) and submit to OHRM for processing.  If a Full-time Telework Agreement is required, the PAR is generated after the FTTA has been filled out and signed by TTS leadership, as directed in the FTTA [instructions](https://docs.google.com/document/d/1JCDZbABzjPWD7QPqA2tBnmvK1rs4QNFu_AUvTgjwqu4/edit).  Then the PAR and FTTA are submitted to OHRM for processing.  
 
@@ -126,7 +126,7 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 1. If you are relocating to a different city, where your rate of pay will change, please email [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) to confirm that the TTS People Ops has created a PAR (Personnel Action Request) for your relocation so that payroll is able to process any pay adjustments in a timely manner. If you are moving within the same city (pay does not change), please jump to step 2.   
 
-2. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/05/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).***
+2. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/corporateapps/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).***
 
   - After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options, select this one).
   - In the upper right corner of your HR Links screen is a compass icon. That is your NavBar. Click that.

@@ -18,8 +18,8 @@ We have a wide range of skills, including:
 
 ## Documentation
 
-- Our [Product Management guide](https://product-guide.18f.gov/) outlines the major outcomes an 18F product manager drives towards in different phases and elements of our work: discovery, delivering a product, consulting with partners, and coaching partners on product management. 
- 
+- Our [Product Management guide](https://product-guide.18f.gov/) outlines the major outcomes an 18F product manager drives towards in different phases and elements of our work: discovery, delivering a product, consulting with partners, and coaching partners on product management.
+
 - [Product management knowledge base](https://docs.google.com/document/d/1LfeaTeBCfxAOq5WHMd6ZK-LztcZk6y451hmvz8vGJ7w/edit#)
 
 ## Communication
@@ -90,6 +90,6 @@ Here are a few particularly useful essentials:
 
 - [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
 - [18F Before You Ship guide](https://before-you-ship.18f.gov/)
-- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://pages.18f.gov/accessibility/)
+- [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://accessibility.18f.gov/)
 - [18F design methods](https://methods.18f.gov/)
 - [18F content guide](https://content-guide.18f.gov/)

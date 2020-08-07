@@ -29,10 +29,9 @@ $(document).ready(function() {
     if ( numHeadings > 2 ) {
 
       var inlineNavigation =
-        "<div class='inline-navigation-wrapper'>" +
-          "<nav role='navigation' class='inline-navigation'>" +
-            "<h1>On this page:</h1>" +
-            "<ul>";
+        "<nav role='navigation' class='inline-navigation'>" +
+          "<h1>On this page:</h1>" +
+          "<ul>";
 
       var inlineNavigationSelect = $('<select>');
 
@@ -85,8 +84,7 @@ $(document).ready(function() {
 
       inlineNavigation +=
           "</ul>" +
-          "</nav>" +
-        "</div>";
+        "</nav>";
 
       $('body').addClass('with-inline-navigation');
       var $table = $(".usa-layout-docs-main_content h1:first-child+.table-wrapper");
@@ -128,6 +126,7 @@ document.addEventListener('DOMContentLoaded', function() {
       'drive.google.com',
       'ea.gsa.gov',
       'email.gsa.gov',
+      'eopf.opm.gov',
       'gcims.gsa.gov',
       'github.com/18F/Accessibility_Reviews',
       'github.com/18F/blog-drafts',
@@ -135,18 +134,19 @@ document.addEventListener('DOMContentLoaded', function() {
       'github.com/18F/DevOps',
       'github.com/18F/Infrastructure',
       'github.com/18F/security-incidents',
-      'github.com/18F/staffing-and-resources',
+      'github.com/18F/staffing',
       'github.com/18F/team-api.18f.gov',
       'github.com/18F/writing-lab',
       'gkey.gsa.gov',
       'gsa-tts.slack.com',
       'gsa.my.salesforce.com',
       'gsaolu.gsa.gov',
+      'hrlinks.gsa.gov',
       'hrprod.hr.gsa.gov',
       'insite.gsa.gov',
       'mail.gsa.gov',
       'meet.gsa.gov',
-      'pages-internal.18f.gov',
+      'sign.gsa.gov',
       'tock.18f.gov'
     ]
   });

@@ -12,7 +12,7 @@ STANDARD OPERATING PROCEDURE: TC-17-CS4-001
 <br>
 *TTS OA aims to redefine the culture of government acquisition of information technology by bringing agile practices to government procurement and related service level policy. One of the principles of agile is to enable change management in a way that promotes continuous improvement. In keeping with this principle, this SOP is subject to change to keep TTS procurement practices current, applicable and in compliance at the Federal, Agency and Service levels. TTS OA will accomplish this by soliciting feedback in quarterly iterations and updating this SOP accordingly.*
 
-**1.0 Purpose:** The purpose of SOP TC-17-CS4-001 is to establish uniform requirements for TTS OA official contract file content, organization, and storage, while supplementing existing Federal Acquisition Regulation ([FAR Subpart 4.8](https://www.acquisition.gov/far/html/Subpart%204_8.html)) and General Services Administration Acquisition Manual ([GSAM Subpart 504.8](https://www.acquisition.gov/sites/default/files/current/gsam/html/Part504.html#wp1863182)).
+**1.0 Purpose:** The purpose of SOP TC-17-CS4-001 is to establish uniform requirements for TTS OA official contract file content, organization, and storage, while supplementing existing Federal Acquisition Regulation ([FAR Subpart 4.8](https://www.acquisition.gov/content/part-4-administrative-and-information-matters#i1122313)) and General Services Administration Acquisition Manual ([GSAM Subpart 504.8](https://www.acquisition.gov/content/subpart-5048-government-contract-files)).
 
 + **Iteration 1.1 Purpose:** Update SOP TC-17-CS4-001 to include a modification checklist.
 
@@ -22,7 +22,7 @@ STANDARD OPERATING PROCEDURE: TC-17-CS4-001
 
 + **Iteration 1.4 Purpose:** Update SOP TC-17-CS4-001 to revise Micro-Purchase Threshold on contract file checklist, add notification of FBO postings to management under Tab #8, move Conflict of Interest / Non-disclosure Agreements from Tab #15 to Tab #25, add FAR/GSAM reference to EEO documents on checklist, remove redundant documents listed under Tab #26, add examples to Tab #31, add system closeout checklist to Tab #33, add GSAM reference sustainability reporting, move Commercial Supplier Agreements from Tab #029 to Tab #023, and add “if applicable” for memo to files on modifications in response to TTS OA’s Quality Review (QR).
 
-**2.0 Applicability:** This SOP applies only to TTS OA procurement actions over the micro-purchase threshold (see [Federal Acquisition Regulation [FAR] Subpart 2.101](https://www.acquisition.gov/far/html/Subpart%202_1.html)) that will be executed by warranted TTS OA Contracting Officers (COs).  **This SOP does not apply to any working files.**
+**2.0 Applicability:** This SOP applies only to TTS OA procurement actions over the micro-purchase threshold (see [Federal Acquisition Regulation [FAR] Subpart 2.101](https://www.acquisition.gov/content/part-2-definitions-words-and-terms#i1125359)) that will be executed by warranted TTS OA Contracting Officers (COs).  **This SOP does not apply to any working files.**
 
 **3.0 Instructions and Procedures:** TTS OA employees are required to apply the contract file documentation requirements:
 

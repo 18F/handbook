@@ -8,15 +8,18 @@ tags:
 ---
 This page explains the [different hiring paths within the federal government](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/) available to TTS
 
+Here is a helpful visualization of the different [Hiring Methods](https://docs.google.com/spreadsheets/d/1ysL0lcrXzpvgCmiz6lhAZlggEVbMPr727hR1V6gs7Jk/edit#gid=0) we use at TTS as well (courtesy of Ashley Wichman).
+
 ## Competitive
 Roles that are posted on USA Jobs that do not have term limits. These roles allow you to obtain competitive status 
 * In the competitive service, individuals must go through a competitive hiring process (i.e., [competitive examining](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/)) before being appointed. This is open to all applicants
 	* current or former federal employees who have worked in the competitive service, in a permanent appointment for a total of three years of qualifying service. Sometimes this is also called having 'status' or a 'career appointment'.
 	
-* There are three ways we hire using the Competitive hiring authority:
+* There are four ways we hire using the Competitive hiring authority:
   * **Delegated Examining**  allows applicants from outside the federal government to apply to career roles. These roles must be posted on USA Jobs and Veterans’ Preference applies.
   * Employees who have applied and become competitive (are current career feds) are eligible to apply to **Merit Promotions**. This lets a current or former federal employee apply for a job without having to compete with the general public or people with Veterans’ Preference. Instead, you compete with other competitive service employees. These roles must be posted on USA Jobs.
   * If you have served in the **Peace Corps** for two years you are eligible to apply non-competitively. This means you are only competing against other peace corp applicants, not the general public and veterans’ preference does not apply. 
+  * **Senior Executive Service (SES)** The SES includes most managerial, supervisory, and policy positions classified above General Schedule (GS) grade 15 or equivalent positions in the Executive Branch of the Federal Government. These roles must be posted on USA Jobs and Veterans' Preference does not apply. TTS does not often hire for SES roles, but when we do we use the [Resume-Based process.](https://www.opm.gov/policy-data-oversight/senior-executive-service/selection-process/#url=Process)There is no 'minimum time in grade' requirement for SES positions, but candidates are required to demonstrate the Executive Core Qualifications (ECQ's) in their resume and address any Minimum Technical Competencies (MTC's). 
 
 ## Excepted Service 
 ### Schedule A(r)

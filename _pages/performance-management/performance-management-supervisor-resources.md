@@ -15,7 +15,7 @@ This page contains additional resources and trainings for supervisors who are go
 
 ### [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250)
 
-* Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of FY19 performance reviews and to help establish FY20 performance plans.
+* Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of FY20 performance reviews and to help establish FY21 performance plans.
   * *NOTE: Items highlighted in green are particularly important steps*
 
 ### Guidance
@@ -47,7 +47,7 @@ This page contains additional resources and trainings for supervisors who are go
 * Instructions if you receive the error message "The document could not be created as the employee is not hired yet. Please contact your system administrator to check the Job record to make sure employee is hired before period begin date of the document.":
   *The rating period begin must be set after the hire date in HR Links.  It is recommended that the supervisor copy the overall performance comments into HR Links because the comments will then populate on Form 3440 to support the overall rating*
 
-* [HR Links](http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-24-Performance-Management-for-Supervisors_FINAL_v2.docx): Guide for entering all components of a performance review into HR Links
+* [HR Links](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-24-Performance-Management-for-Supervisors_FINAL_v2.docx): Guide for entering all components of a performance review into HR Links
 * To learn more about the specifics of the bargaining agreements, refer to [AFGE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/american-federation-of-government-employees-national-agreement) or the [NFFE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/national-federation-of-federal-employees-national-agreement).
 
 #### Discussing performance expectations with a new direct report
@@ -70,23 +70,23 @@ When an employee joins TTS or changes supervisors within TTS, it is important th
 
 #### Performance improvement plans
 
-Employees who will be rated at Level 1 or 2 in any category on their FY19 Performance Plan must be issued a Performance Improvement Plan (PIP)[Level 1 rating] or Performance Action Plan (PAP)[Level 2 rating].  To initiate this process, reach out to [Jim Mulvaney](mailto:james.mulvaney@gsa.gov), TTS’s Employee & Labor Relations Specialist.  Jim will work directly with you to create the PIP/PAP for your team member; supporting [documentation](https://drive.google.com/open?id=1A0V_EX5dFwtmMVrfGKJ9DxPM9_3vF49MRD5LKImIkb8) will need to be submitted to Jim for review when creating the PIP/PAP.
+Performance not at Level 3 in any Critical Element needs to be addressed formally. While this can be issued at any time, an employee who will be rated at Level 1 or 2 in any category on their FY20 Performance Plan *must be issued* either a Performance Improvement Plan (PIP) for a Level 1 rating or a Performance Action Plan (PAP) for a Level 2 rating.  
 
-The fully vetted PIP/PAP must be issued to the employee **by the last working day of the FY19 performance cycle, September 30, 2019**.  Please note that PIP/PAPs must be reviewed by Legal, which takes a few days, before those plans can be presented to the employee.
+To initiate either plan, reach out to [Jim Mulvaney](mailto:james.mulvaney@gsa.gov), TTS’s Employee & Labor Relations Specialist. Jim will work directly with you to create the PIP/PAP for your team member; supporting documentation will need to be submitted to Jim for review when creating the PIP/PAP.
 
 #### Verifying your direct reports
 
-**FY19 Audit:** In preparation for the FY19 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in the [FY19 Direct Report Audit Survey](https://forms.gle/oLJJcZ4Cf3DdUGHy8).
-
-All supervisors should complete the FY19 audit by **COB September 24th**, so please fill out the above survey if you have not yet.
-
 **FY20 Audit:** Once the TTS reorg has been completed, the Performance Management team will communicate to Supervisors to do a new audit of their Direct Reports in HR Links by following the instructions in the [FY20 Direct Report Audit Survey](https://forms.gle/oLtit3o2MLsSUonx5).
+
+In preparation for the FY20 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in the FY20 Direct Report Audit Survey.
+
+All supervisors should complete the FY20 audit by COB September 24th, so please fill out the above survey if you have not yet.
 
 #### 1 on 1 performance discussion
 
-This meeting is an opportunity to rate, recognize and give your direct report constructive feedback (formal or informal) regarding the results of their work within the established expectations, goals, and objectives outlined in the performance plan.  If your direct report has filled out a [performance rating tool](https://drive.google.com/open?id=1ayWnEowb8b9KT6rlQC9BwLLeV4ZkVVLRk4BBaY0LvGA), this meeting would be a good time to review it with them.
+This meeting is an opportunity to rate, recognize and give your direct report constructive feedback (formal or informal) regarding the results of their work within the established expectations, goals, and objectives outlined in the performance plan.  
 
-See below for how to prepare for this meeting.
+***See below for how to prepare for this meeting.***
 
 #### Preparing for 1 on 1 performance discussion
 

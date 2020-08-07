@@ -4,15 +4,6 @@
     overflow: visible;
   }
 
-  .inline-navigation-wrapper {
-    @include at-media("tablet-lg") {
-      position: absolute;
-      right: 0;
-      height: 100%;
-      width: units("card-lg");
-    }
-  }
-
   .inline-navigation {
     @include typeset("body", "xs", 4);
     background: none;
@@ -69,6 +60,12 @@
       background: #297f00;
       color: white;
       text-decoration: none;
+    }
+
+    @media screen and (min-width: 895px) {
+      position: absolute;
+      right: 0;
+      width: 256px;
     }
   }
 }

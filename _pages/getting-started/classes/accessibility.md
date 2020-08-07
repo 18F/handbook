@@ -7,7 +7,7 @@ The federal government is accountable for making all of its products 508 complia
 
 ## Leadership
 
-[Jacklynn Pham, 18F](https://gsa-tts.slack.com/messages/@Jacklynn) and [Toni Bonitto, TTS Solutions/DigitalGov](https://gsa-tts.slack.com/messages/@Toni) lead the [accessibility guild](https://github.com/18F/accessibility).
+[Robert Jolly, 18F](https://gsa-tts.slack.com/messages/@robertjolly) and Alexandra Porter, Data Analytics Centers of Excellence lead the [accessibility guild](https://github.com/18F/accessibility).
 
 ## Communication
 
@@ -21,7 +21,7 @@ The federal government is accountable for making all of its products 508 complia
 
 ### Documentation
 
-- [Accessibility Guide](https://pages.18f.gov/accessibility/)
+- [Accessibility Guide](https://accessibility.18f.gov/)
 - [Working Groups and Guilds]({{site.baseurl}}/working-groups-and-guilds-101)
 
 ## Training
@@ -40,4 +40,4 @@ As you think about accessibility, here are some good rules to follow:
 
 If you remember these three things, you'll avoid 90% of accessibility issues right off the bat.
 
-Everything else in 508 is about improving the user experience. To learn more, sign up for our monthly training session, review the [Accessibility Guide](https://pages.18f.gov/accessibility/), and come to one of our meetings.
+Everything else in 508 is about improving the user experience. To learn more, sign up for our monthly training session, review the [Accessibility Guide](https://accessibility.18f.gov/), and come to one of our meetings.

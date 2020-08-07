@@ -6,7 +6,7 @@ Here's what you need to know about sensitive information at TTS.
 
 ## What is considered sensitive?
 
-To learn what information we consider sensitive, see [our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information).
+To learn what information we consider sensitive, see [our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information). See also: [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
 
 ## Tools
 
@@ -44,6 +44,7 @@ You can create an S3 service instance on cloud.gov and issue credentials for par
 Follow the linked instructions to password-protect a:
 
 * [PDF](https://support.apple.com/guide/preview/password-protect-a-pdf-prvw587dd90f/mac)
-* [ZIP](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can be a folder full of files)
+* [ZIP](https://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can be a folder full of files)
+   - [Information from GSA IT](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/how-to-create-fipscompliant-zip-files)
 
 Send the encrypted file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.

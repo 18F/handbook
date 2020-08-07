@@ -9,7 +9,7 @@ In many parts of government, hierarchical processes and communication patterns m
 Hierarchy can be a good tool for specialization and focus — but **it takes healthy multidisciplinary collaboration to build effective, resilient technology products** in a rapidly changing environment. Our hope is that working with 18F will equip our partners to build (and hire) healthy, high-functioning teams for the long term.
 
 ## Creating inclusive teams and meetings
-The foundation and principles of our approach to inclusion are outlined in the [TTS Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md); we also expect project teams to be **proactive about creating inclusive environments** for collaboration in everything they do.
+The foundation and principles of our approach to inclusion are outlined in the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct/); we also expect project teams to be **proactive about creating inclusive environments** for collaboration in everything they do.
 
 ### Be intentional about forging new teams
 Each time a new team forms—or anytime someone joins an existing team—is a chance to set an inclusive tone and re-establish team norms.
@@ -38,7 +38,7 @@ Generally, treat remote meetings the same way you would treat in-person meetings
 * **Occasionally** you may need to take a meeting from transit or from a non-workspace; that should be rare, and only for meetings that don’t involve screen-sharing, remote collaboration, or presentations.
 
 ### Project rituals and meetings
-We use agile rituals to hold ourselves accountable, build momentum, and get comfortable working iteratively and changing processes. If you’re new to agile, start with the [Agile Manifesto](http://agilemanifesto.org/) or drop by [#agile](https://gsa-tts.slack.com/messages/agile/).
+We use agile rituals to hold ourselves accountable, build momentum, and get comfortable working iteratively and changing processes. If you’re new to agile, start with the [Agile Manifesto](https://agilemanifesto.org/) or drop by [#agile](https://gsa-tts.slack.com/messages/agile/).
 
 Project teams at 18F tend to use a “best of both” hybrid of lightweight [Scrum](https://www.scrum.org/resources/what-is-scrum) (planning, standups, and retros) and [Kanban](https://drive.google.com/file/d/0B0Qfvc1P_XBFVk5rM2tGcDBoUjQ/view) (project boards and continuous prioritization). Most teams default to two-week sprints, but might try shorter or longer sprints if the team thinks they’d be more effective.
 

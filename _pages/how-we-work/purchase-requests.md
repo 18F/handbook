@@ -22,7 +22,7 @@ To make best use of our resources, we use business cards sparingly. However, if 
 
 To initiate your request,
 
-1. Head to [envisionprintservices.com](http://envisionprintservices.com/). Verify your email, then create an account for yourself. Use a password that you are comfortable sharing with a member of the TTS Ops team, as they will need to later log in as you and make the purchase.
+1. Head to [envisionprintservices.com](https://envisionprintservices.com/). Verify your email, then create an account for yourself. Use a password that you are comfortable sharing with a member of the TTS Ops team, as they will need to later log in as you and make the purchase.
 1. After your account is set up, fill in the required information, finalize the design of your cards, and review your proof. Continue to checkout, choosing the quantity you'd like and adding the address that you'd like your business cards mailed to.
 1. Once you are on the final step of the order and credit card information is requested, it's time to request approval through the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). Your order will be reviewed by the TTS Director of Operations, and once approved, a member of the TTS Ops team will log into your Envision account and release payment. Your business cards will arrive 7-10 business days after that.
 

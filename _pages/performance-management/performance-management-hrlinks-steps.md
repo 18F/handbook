@@ -1,5 +1,5 @@
 ---
-title: Performance Management HRLinks Steps
+title: End of Year Performance Management HRLinks Steps
 tags:
 - Performance
 - Performance
@@ -10,7 +10,9 @@ tags:
 - HRLinks steps
 ---
 
-This page contains step-by-step instructions for employees and supervisors on how to process and approve performance plans in HR Links.
+This page contains step-by-step instructions for employees and supervisors on how to process and approve performance plans in HR Links for the end of year performance review cycle.
+
+If you're having issues with logging into HR Links while using Google Chrome, please use these [instructions to clear your site cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
 
 ## HR Links performance management steps
 
@@ -102,7 +104,7 @@ Submitting a participant review in HR Links is the same process for all nominate
 
 * Step-by-step instructions:
   * No action required by employee
-  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.d8jbm2v7961l)
+  * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.f8d49rcsfbmz)
 
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
@@ -115,7 +117,7 @@ Submitting a participant review in HR Links is the same process for all nominate
   * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.6d9lhrhrk60)
 
  * HR Links in-depth guide (with screenshots):
-  * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)  
+  * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
 ### Submitting an evaluation
 
@@ -136,22 +138,19 @@ Submitting a participant review in HR Links is the same process for all nominate
   * [Employee (Section 3, Topic 3.4)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
 
 ### Establishing a performance plan for the new fiscal year
-Employees have the option to update duty specific measures and/or weights -with supervisor approval- when establishing their FY20 performance plans in HR Links:
+Employees have the option to update critical elements and/or weights -with supervisor approval- when establishing their FY21 performance plans in HR Links:
 
-* Employee needs to review their FY19 performance plan that's been in place 120+ days and decide if/how they want to update measures and category weights
-* During 1:1 performance review session (in addition to finalizing the FY19 performance review):
-  * Supervisor clones employee's FY19 plan to create a template for the FY20 plan
-    * ***NOTE: FY19 Supervisors should clone all of their direct reports' performance plans to create, sign, and submit the FY20 plan even if an empoloyee will not be reporting into them in FY20 (i.e. post TTS reorg). If updates need to be made to the FY20 performance plan, the FY20 Supervisor will need to [re-open the FY20 performance plan in HR Links]({{site.baseurl}}/performance-management-hrlinks-steps/#re-opening-a-performance-plan) (Supervisors will be notified via email when an employee has been reassigned to them). The FY20 supervisor should connect with new direct report(s) to discuss any potential changes to their FY20 performance plan.***
-  * Employee discusses FY20 performance plan updates with their supervisor
-  * Employee works with their Supervisor to make updates to the FY20 performance plan in HR Links
-  * Supervisor ["signs and submits"]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-a-performance-plan-for-employee-approval) the FY20 performance plan in HR Links
-* Employee should [“acknowledge”]({{site.baseurl}}/performance-management-hrlinks-steps/#acknowledging-a-performance-plan) their FY20 performance plan by November 14
-
-*Note: FY20 performance plans may be further modified in the first few months of the new fiscal year to account for any updates to TTS and/or Business Unit level specific measure that leadership determines necessary. If this takes place, performance plans will need to be updated and re-established so that employees can be rated against those updated performance plans.*
+* Employee needs to review their FY20 performance plan that's been in place 120+ days and decide if/how they want to update critical elements and percentage weights
+* During 1:1 performance review session (in addition to finalizing the FY20 performance review):
+  * Supervisor clones employee's FY20 plan to create a template for the FY21 plan
+  * Employee discusses FY21 performance plan updates with their supervisor
+  * Employee works with their Supervisor to make updates to the FY21 performance plan in HR Links
+  * Supervisor ["signs and submits"]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-a-performance-plan-for-employee-approval) the FY21 performance plan in HR Links
+* Employee should [“acknowledge”]({{site.baseurl}}/performance-management-hrlinks-steps/#acknowledging-a-performance-plan) their FY21 performance plan by November 26
 
 ### Confirming that performance plans have been established
 
-It is critical that all FY19 performance plan evaluations are acknowledged by employees before November 14 and all FY20 performance plans are acknowledged by employees before November 29. The status of employee performance management can be checked in the *Team Performance Supervisor dashboard*:
+It is critical that all FY20 performance plan evaluations are acknowledged by employees before November 16 and all FY21 performance plans are acknowledged by employees before November 30. The status of employee performance management can be checked in the *Team Performance Supervisor dashboard*:
 
 * Step-by-step instructions:
   * No action required by employee
@@ -162,12 +161,7 @@ It is critical that all FY19 performance plan evaluations are acknowledged by em
 
 ### Selecting Time Off Award in lieu of cash performance award
 
-For the FY19 performance review cycle, employees who would like a time off award ***in lieu of cash*** must select their award type preference in HR Links no later than November 14, 2019. If time-off is not indicated in HR Links, then the default will be a cash award.  If you've selected a time off award in previous performance review cycles, this may still be active in HR Links; make sure to delete that selection if you would like to receive the cash individual performance reward instead.
-
-***Note: Award time off must be used within one year of issuance and does not get paid out (like annual leave) if you leave GSA.***
-
-* HR Links in-depth guide (with screenshots):
-  * [HR Links: Time Off Award Preference](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/09/TimeOffAwardPreference_JobAid.pdf)
+Information will be updated pending guidance from GSA.
 
 --------------------------------------------------------------------------------
 

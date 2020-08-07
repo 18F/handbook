@@ -5,16 +5,19 @@ primary:
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
     children:
       - text: Mission, history, and values
-        url: tts-history
+        url: tts-history/
         internal: true
       - text: Diversity, equity & inclusion
-        url: diversity
+        url: diversity/
+        internal: true
+      - text: One TTS
+        url: one-tts/
         internal: true
       - text: Code of Conduct
-        url: code-of-conduct
+        url: code-of-conduct/
         internal: true
       - text: Org chart
-        url: tts-org-chart
+        url: org-chart/
         internal: true
   - text: Getting started
     href: /#getting-started
@@ -22,45 +25,51 @@ primary:
       Here's what you probably want to know in your first weeks at TTS.
     children:
       - text: Welcome
-        url: welcome-letter
+        url: welcome-letter/
         internal: true
       - text: Getting Started at TTS
-        url: getting-started
+        url: getting-started/
         internal: true
-      - text: Onboarding class schedule
-        url: onboarding-schedule
+      - text: TTS Classes for Onboarding
+        url: tts-classes/
         internal: true
       - text: Logging in &amp; Networks
-        url: how-to-log-in
+        url: how-to-log-in/
         internal: true
       - text: Equipment
-        url: equipment
+        url: equipment/
         internal: true
       - text: Benefits
-        url: benefits
+        url: benefits/
         internal: true
       - text: Travel 101
-        url: travel-101
+        url: travel-101/
         internal: true
+      - text: TTS Supervisor Guide
+        url: https://docs.google.com/document/d/1QAivrwzf-FX2IN20XsZVeMsmXkCvZ5oE0Z9O68a3PeM/edit?ts=5ebd541a#heading=h.pxc6vhgwjmms
+        internal: false
   - text: Training &amp; Development
     href: /#training-amp-development
     blurb: |
       Classes, coaching and ongoing professional development
     children:
-      - text: Online Learning University (OLU)
-        url: olu/
+      - text: Coaching, mentoring and professional development
+        url: development-and-training/
         internal: true
       - text: Conferences and events
         url: conferences-events-training/
         internal: true
-      - text: Coaching, mentoring and professional development
-        url: development-and-training
+      - text: GitHub 101
+        url: intro-to-github/
+        internal: true
+      - text: Individual development plans
+        url: idp/
+        internal: true
+      - text: Online Learning University (OLU)
+        url: olu/
         internal: true
       - text: Working groups, Guilds, Communities of Practice and mailing lists
         url: working-groups-and-guilds-101/
-        internal: true
-      - text: GitHub 101
-        url: intro-to-github/
         internal: true
   - text: Travel and leave
     href: /#travel-and-leave
@@ -70,11 +79,14 @@ primary:
       - text: Leave (HR Links)
         url: leave/
         internal: true
-      - text: Travel guide (table of contents)
-        url: travel-guide-table-of-contents/
-        internal: true
+      - text: Covid leave guidance
+        url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
+        internal: false
       - text: Out of office expectations
         url: leave/#leave-checklist
+        internal: true
+      - text: Travel guide (table of contents)
+        url: travel-guide-table-of-contents/
         internal: true
   - text: Performance management
     href: /#performance-management
@@ -82,12 +94,12 @@ primary:
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
       - text: Performance management overview
-        url: performance-management
+        url: performance-management/
         internal: true
       - text: Important dates
-        url: performance-management-dates/
+        url: performance-management-dates/#end-of-year-performance-review-important-dates
         internal: true
-      - text: HRLinks steps
+      - text: End of year HRLinks steps
         url: performance-management-hrlinks-steps/
         interal: true
       - text: Employee resources
@@ -96,8 +108,13 @@ primary:
       - text: Supervisor resources
         url: performance-management-supervisor-resources/
         internal: true
-
-
+      - text: Mid year review overview
+        url: mid-year/
+        internal: true
+      - text: Mid year HRLinks steps
+        url: mid-year-hrlinks-steps/
+        internal: true
+     
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
@@ -126,7 +143,7 @@ primary:
         url: hiring-authorities/
         internal: true
       - text: Federal resume guide
-        url: resume
+        url: resume/
         internal: true
       - text: Referring a person
         url: talent/#referring-a-person
@@ -199,6 +216,9 @@ primary:
               - text: Benefits links and resources
                 url: benefits-links/
                 internal: true
+              - text: Covid leave guidance
+                url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
+                internal: false
               - text: Emergency procedures
                 url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
                 internal: false
@@ -234,6 +254,9 @@ primary:
               - text: Transit benefit
                 url: transit-benefit/
                 internal: true
+              - text: Within Grade Increases (opm.gov)
+                url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
+                internal: false
   - text: TTS Offices
     href: /#tts-offices
     blurb: |
@@ -279,9 +302,6 @@ primary:
         children:
           - text: Overview of OA
             url: oa/
-            internal: true
-          - text: OA Operational Guidance
-            url: acquisition/
             internal: true
       - text: 18F
         children:
@@ -371,17 +391,17 @@ primary:
               - text: Accessing DoD Systems
                 url: accessing-dod-systems/
                 internal: true
-      - text: Office of Products and Programs (OPP)
+      - text: TTS Solutions
         children:
-          - text: About OPP
+          - text: About TTS Solutions
             children:
-              - text: Overview of OPP
+              - text: Overview of TTS Solutions
                 url: office-of-products-and-programs/
                 internal: true
-              - text: OPP history
-                url: opp-history/
+              - text: Solutions history
+                url: solutions-history/
                 internal: true
-              - text: OPP org chart
+              - text: Solutions org chart
                 url: opp-org-chart/
                 internal: true
           - text: Portfolios
@@ -390,16 +410,16 @@ primary:
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#DSP
                 internal: false
               - text: Innovation
-                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#IP
-                internal: false
+                url: innovation-portfolio/
+                internal: true
               - text: Public Experience
-                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#CEP
-                internal: false
+                url: public-experience-portfolio/
+                internal: true
               - text: Smarter IT
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SmarterITDelivery
                 internal: false
               - text: Secure Cloud
-                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SecureCloud
+                url: https://www.fedramp.gov/
                 internal: false
               - text: 10x
                 url: https://10x.gsa.gov
@@ -455,11 +475,11 @@ primary:
           - text: AnyConnect (VPN client)
             url: anyconnect/
             internal: true
-          - text: VMware Fusion (hypervisor)
-            url: vmware-fusion/
-            internal: true
-          - text: VMware Horizon (virtual desktop client)
-            url: vmware-horizon/
+          - text: VirtualBox (hypervisor)
+            url: https://engineering.18f.gov/browser-testing/#windows
+            internal: false
+          - text: Citrix (Workspace)
+            url: virtual-desktop/
             internal: true
       - text: Other tools
         children:

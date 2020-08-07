@@ -377,18 +377,18 @@ them that other people at TTS have found useful in learning more:
     similar ground to this guide.
 
 -   [*The Update, The Vent, and The
-    Disaster*](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/)
+    Disaster*](https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/)
     (Rands in Repose) — another short introduction to 1:1s, by Rands
     (a well-regarded writer about engineering leadership).
 
 -   [*One on One
-    Meetings*](http://www.wearecto2.com/blog/2015/9/9/one-on-one-meetings)
+    Meetings*](https://www.wearecto2.com/blog/2015/9/9/one-on-one-meetings)
     (Doc Norton) — yet another short introduction to 1:1s overall.
     This one has a somewhat different suggested agenda, and some good
     potential questions to ask.
 
 -   [*Questions for our first
-    1:1*](http://larahogan.me/blog/first-one-on-one-questions/)
+    1:1*](https://larahogan.me/blog/first-one-on-one-questions/)
     (Lara Hogan) — some really great questions to ask in a first 1:1
     with a new team member. Or at any time, really: they’re good
     conversation starters.

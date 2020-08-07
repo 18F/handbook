@@ -40,9 +40,10 @@ To access remote interpreting or captioning services:
 ### Video relay services (VRS)
 
 #### Dependencies for [video relay](https://www.federalrelay.us/vrs)
-In order to use video relay services in combination with video meeting tools like Google Meet or Zoom, the Deaf/HoH individual will need to install GSA-approved software called Z5 app that connects them by video to a sign language interpreter. To get this software:
 
- 1. The individual’s Supervisor should submit a software request on behalf of the individual using [Service Now](https://gsa.service-now.com/sp/?id=cs_home). Individuals can also submit their own request, but it will then immediately get routed to their supervisor for approval.   
+In order to use video relay services in combination with video meeting tools like Google Meet, the Deaf/HoH individual will need to install GSA-approved software called Z5 app that connects them by video to a sign language interpreter. To get this software:
+
+ 1. The individual’s Supervisor should [submit a software request](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b) on behalf of the individual. Individuals can also submit their own request, but it will then immediately get routed to their supervisor for approval.   
     1. Pending the individual’s specific communication needs, in the software request Comments field, note that GSA IT should contact the individual for setup instructions by email, and not by phone.
  2. Install the VRS software app. GSA IT will contact the individual for setup and installation.  
     1. Download Z5 app for mobile and/or desktop, which is GSA-approved. If Z5 cannot be downloaded or installed, contact your supervisor/manager and GSA IT to make it available in GSA Self Service application  
@@ -66,6 +67,7 @@ In order to use video relay services in combination with video meeting tools lik
  4. Begin your conversation
 
 #### Video relay tips
+
  * Add (877) 709-5797 to your Z5 contact list for a quick dial
  * Interpreters can facilitate information in both directions. Deaf/HoH individuals using their own voice in conversation (instead of the interpreter voicing for them) should inform the interpreter at the beginning that they’ll be using Voice Carry Over (VCO). Alternatively, they should ask the interpreter to convert the individual’s conversation from sign language to voice.
  * If you are using Voice Carry Over (VCO) and the interpreter is not expected to use their voice, mute the interpreter’s phone line from the Google Meet or Zoom meeting to reduce background noises and microphone echos.
@@ -81,7 +83,15 @@ In order to use video relay services in combination with video meeting tools lik
  * Follow the instructions on the [FedRelay RCC page](https://www.federalrelay.us/rcc)
  * When the booking is confirmed, you will receive a link for accessing the transcript at the time of the event
  * Add the link for accessing the live transcript to the meeting invitation, so that individuals using it can find it easily when they join the meeting
+ 
+#### Relay Conference captioning tips
 
+* For the Federal Agency Name field, GSA is **4700**
+ * Join the meeting early if you can so that you can make sure the captioner is set up properly. 
+ * Include a good description of the event so they know what words or acryonms to expect. For example, if you're giving a technical talk the captioner might not be familiar with some of the words you expect to use, so including them will help the captions be more accurate.
+ * Consider also including the phonetic pronunciation for words or you expect to use alot. (Use your judgement, you don't want to overwhelm them either!)
+ * You are also able to chat through the captioning interface. You can use this to correct or supplement captions if necessary.
+ 
 ### Other software
 
 If an individual has used other software that isn’t included in the FedRelay package, follow the instructions on the [Software]({{site.baseurl}}/software/) page to check whether it is already approved by GSA, and how to request it.
@@ -149,7 +159,7 @@ Contact the Office of Civil Rights to:
  * File an administrative complaint requesting that existing electronic and information technology (E&IT), such as a GSA branded website or non-accessible document that does not conform to the Section 508 standards, be reviewed and brought into compliance with the provisions of Section 508.
 
 #### Equal Employment Opportunity Program
-Work with this program within the Office of Civil Rights to get assistive technology solutions through the [Department of Defense's Computer Accommodation Program](http://www.cap.mil/)
+Work with this program within the Office of Civil Rights to get assistive technology solutions through the [Department of Defense's Computer Accommodation Program](https://www.cap.mil/)
 
 **Contact**  
 

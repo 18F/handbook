@@ -8,7 +8,7 @@ title: New York City
       <tr>
         <td class="col-key"><strong>Location</strong></td>
         <td class="col-value">
-          One World Trade Center (<a href="http://onewtc.durst.org/">management company page</a>, <a href="https://insite.gsa.gov/portal/category/540422">GSA page</a>)<br/>
+          One World Trade Center (<a href="https://onewtc.durst.org/">management company page</a>, <a href="https://insite.gsa.gov/portal/category/540422">GSA page</a>)<br/>
           Floor 55<br/>
           New York, NY 10007<br/>
           <br/>
@@ -32,16 +32,13 @@ title: New York City
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value">Northeast and Caribbean (<a href="http://www.gsa.gov/portal/category/22227">region 2</a>)</td>
+        <td class="col-value">Northeast and Caribbean (<a href="https://www.gsa.gov/portal/category/22227">region 2</a>)</td>
       </tr>
       <tr>
         <td class="col-key">
           <strong>Listserv</strong>
         </td>
-        <td class="col-value">
-        <a href="mailto:18f-nyc@gsa.gov">18f-nyc@gsa.gov</a><br/>
-        (Admins can add people to the group <a href="https://groups.google.com/a/gsa.gov/forum/#!managemembers/18f-nyc/add">here</a>)
-        </td>
+        <td class="col-value"><a href="mailto:18f-nyc@gsa.gov">18f-nyc@gsa.gov</a></td>
        </tr>
     </tbody>
   </table>
@@ -67,7 +64,7 @@ Building hours are 6am - 7pm. While you can stay in the space later, you won't b
 
 ### Book rooms for meetings?
 
-Use [BookIT](http://bookit.gsa.gov/).
+Use [BookIT](https://bookit.gsa.gov/).
 
 ### Use the monitors/docks?
 
@@ -98,7 +95,7 @@ There's a mother's (aka lactation) room on the 54th floor on the southeast side.
 
 ### Snacks and drinks
 
-There is [a coffee shop on the 64th floor](http://forfivecoffee.com/). You need to go back down to the 1st floor to go back up to it. There are also many options in [the Oculus mall](https://www.westfield.com/westfieldworldtradecenter/entertainment/dining), or across the street at [Brookfield Place](https://brookfieldplaceny.com/directory/food/all).
+There is [a coffee shop on the 64th floor](https://forfivecoffee.com/). You need to go back down to the 1st floor to go back up to it. There are also many options in [the Oculus mall](https://www.westfield.com/westfieldworldtradecenter/entertainment/dining), or across the street at [Brookfield Place](https://bfplny.com/food).
 
 ### Spare keyboards and mice
 
@@ -126,3 +123,10 @@ You can find everyone who works in the [#nyc](https://gsa-tts.slack.com/messages
 
 TTS folx in the office usually range from casual t-shirts to business casual (jeans and a collared shirts, or blouse). Suits would not be out of place, but are not universal (and pretty rare for TTS folks when we come into the office). The office can be a little cold so cardigans, blazers, or sportscoats (sweaters and hoodies are pretty common, too). On your first day, folks from other parts of GSA will mostly be dressed business casual. Your first step onboarding includes being sworn in as a civil servant, which in the New York office likely takes place while looking over New York Harbor with a view of the Statue of Liberty. Some felt it was hokey, others were moved, many felt both. Several were glad they dressed for the occasion. We care more that you are comfortable and confident as yourself rather than following someone’s particular rules of formality.
 And yes, you should totally feel free to dye your hair in rainbow colors and rock that undercut. You be you.
+
+## Onboarding
+
+- Join the [#nyc](https://gsa-tts.slack.com/messages/nyc/) channel in Slack.
+- Ask to be added to the [TTS NYC Google Group](https://groups.google.com/a/gsa.gov/g/TTS-nyc).
+- If you are an NYC resident, confirm that [local tax](https://www.tax.ny.gov/pit/file/tax_tables.htm) is being withheld from [your paycheck]({{site.baseurl}}/gsa-internal-tools/#employee-express).
+   - If not, contact kc-payroll.finance@gsa.gov

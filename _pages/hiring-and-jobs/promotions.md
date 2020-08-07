@@ -86,12 +86,12 @@ For an overview on the process for advertising an excepted service promotion go 
 
 Virtual trainings and information on writing a resume, navigating USAJobs, and generally working in the federal government.
 
-- https://www.usajobs.gov/Notification/Events/
-- https://www.usajobs.gov/Help/working-in-government/
-- https://www.usajobs.gov/Help/how-to/
-- https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/
-- https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/promotions/
-- https://insite.gsa.gov/topics/hr-pay-and-leave/hiring-and-staffing/supervisor-staffing-guide
+- <https://www.usajobs.gov/Notification/Events/>
+- <https://www.usajobs.gov/Help/working-in-government/>
+- <https://www.usajobs.gov/Help/how-to/>
+- <https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/>
+- <https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/promotions/>
+- <https://insite.gsa.gov/topics/hr-pay-and-leave/hiring-and-staffing/supervisor-staffing-guide>
 
 --------------------------------------------------------------------------------
 

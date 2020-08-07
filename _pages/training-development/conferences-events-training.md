@@ -19,7 +19,7 @@ tags:
 
 TTS encourages all staff to attend conferences, speak at events, and focus on professional development and training opportunities. Check out the [TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646) to see what conferences and trainings your colleagues have attended.
 
-Any media requests (like news or podcast interviews) are a separate process—forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov).
+Any media requests (like news or podcast interviews) are a separate process — please forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov).
 
 ## Getting approval for a conference, event, or training
 
@@ -30,6 +30,10 @@ Any media requests (like news or podcast interviews) are a separate process—fo
 1. You will receive an automated email when your request has been fully approved and paid for or if additional information is needed to complete your registration. You can [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email.
 
 *Important note about conference travel:* If you are traveling to a conference on behalf of a partner who is paying for the travel and the registration and you will be billing the partner for your time, an IDP and SF-182 approval is not needed. Also an SF-182 isn't needed if the conference is NOT deemed a training activity.
+
+### Attending a virtual event
+
+If the event that you're attending is being hosted virtually, please review the [TTS Virtual Events guidance](https://docs.google.com/document/d/1YrDs9PA8HkfLkhSfOfyJnLjAYcTkV6_vHlU7HBoyi0k/edit#heading=h.d6kk6wkyrvzf) for important considerations and tips.
 
 ## Approval timelines
 
@@ -61,6 +65,7 @@ The automated email that you will receive outlines the step(s) below that you wi
 1. [Create a Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
 
 - Start this process by adding this event to your [Individual Development Plan (IDP)](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) in Salesforce and have your supervisor approve.
+  - For IDP information and instructions on how to create one, head to the [IPD handbook page]({{site.baseurl}}/idp/)
 - After your IDP is approved by your supervisor, you can then generate a Standard Form 182 (SF-182) in Salesforce.
 - Once you have generated an SF-182, you will select approvers based on the email instructions that you've sent.  
     - Most trainings require **supervisor**, then **Keith Wilson** as Approver 1, then your **business unit lead** as Approver 2, and then your TTS Assistant Commissioner, **Dominic Sale** or **Harry Lee**, as Approver 4.

@@ -40,9 +40,9 @@ People use Trello to track ideas from conception through execution. It's common 
 
 - Doing prioritization within a labeled set of cards (an epic)? Use the filter (keyboard shortcut 'F') to show just that label, then sort cards, then turn the filter back off.
 
-- Are there GitHub issues or pull-requests associated with the work you're doing for certain cards? Check out the [GitHub power-up](http://blog.trello.com/github-and-trello-integrate-your-commits/) in Trello's (paid) Business Class plan. It allows you to "attach" Issues, PRs, and Commits to a card. Summarized details from the GitHub side will be surfaced on the Trello card. (Sadly, there is no way to map GitHub issues and status directly to Trello cards and vice-versa.
+- Are there GitHub issues or pull-requests associated with the work you're doing for certain cards? Check out the [GitHub power-up](https://blog.trello.com/github-and-trello-integrate-your-commits/) in Trello's (paid) Business Class plan. It allows you to "attach" Issues, PRs, and Commits to a card. Summarized details from the GitHub side will be surfaced on the Trello card. (Sadly, there is no way to map GitHub issues and status directly to Trello cards and vice-versa.
 
-- Looking for feedback on card priority? [Turn on the card-voting power-up](http://help.trello.com/article/788-voting-on-cards) and set the voting permissions appropriately (eg to allow non-members to vote on a public-facing roadmap board). Note that there's no easy way to clear votes, so only use this for collecting long-lived data, eg votes on items in your backlog. Also sadly, there's no way to sort by votes; you have to do that by hand.
+- Looking for feedback on card priority? [Turn on the card-voting power-up](https://help.trello.com/article/788-voting-on-cards) and set the voting permissions appropriately (eg to allow non-members to vote on a public-facing roadmap board). Note that there's no easy way to clear votes, so only use this for collecting long-lived data, eg votes on items in your backlog. Also sadly, there's no way to sort by votes; you have to do that by hand.
 
 - Want to create a bunch of similar cards easily? Make one "template" card and label it clearly. When you want to make a new one, copy that card to the appropriate location. Want to do it quickly? See the "Shortcuts for Trello" Chrome extensions tip below.
 

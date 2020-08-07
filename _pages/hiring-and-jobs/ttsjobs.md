@@ -35,15 +35,18 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Consulting Software Engineer/IT Specialist (APPSW) (2210)](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Monday, December 2nd through Friday May 15th
+- [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Monday, August 31st
 
-- [PIF - Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow/) - open Wednesday, January 29th through Monday, May 4th
-
-### Internal only competitions
+- [18F Account Manager](https://www.usajobs.gov/GetJob/ViewDetails/574773400) - open Wednesday, July 29th through Tuesday, August 11th
 
 
+### Internal only opportunities
+
+- [Biz-Ops Agreements Supervisor](https://docs.google.com/document/d/1mt0xd6hjl6roV4zfUoEn9r77wG3N6FYwssBzOFnPRs0/edit?usp=sharing) - open Monday, August 3rd through Friday, August 7th
 
 ## Opportunities with partners
+
+
 
 **United States Digital Service (USDS)**
 
@@ -51,11 +54,9 @@ For any TTS staff interested in learning what it’s like to transition from TTS
 
 Be sure to stay informed of current job postings relevant to technology transformation in TTS and with other agencies by joining the #TTS-jobs slack channel. If you want to be notifed about opportunities with other federal agencies please join the and #wg-govcareer slack channels.  We encourage TTS staff to post external federal career opportunities on the #wg-govcareer slack channel se channels to help others be aware of permanent, career opportunities.  TTS staff can post opportunities advertised by our federal partners to help them attract the engineering, product management, leadership talent they may require to further facilitate their technical transformation.  
 
-**Office of Personnel Management (OPM)**
+**Various Federal Agencies**
 
-[GS 13 UX/UI Designer](https://www.usajobs.gov/GetJob/ViewDetails/562675400) Applications being accepted until 4/6/2020
 
-[GS 14 UX/UI Designer](https://www.usajobs.gov/GetJob/ViewDetails/562674400)  Applications being accepted until 4/6/2020
 
 ---------------------------------------------------------------------
 

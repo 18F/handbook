@@ -9,7 +9,7 @@ The hypothesis was simple: the U.S. government could attract talented technologi
 
 ## The Presidential Innovation Fellows
 
-In 2012, the White House established the [Presidential Innovation Fellows](https://www.whitehouse.gov/innovationfellows) (PIF) program to bring the principles, values, and practices of the innovation economy into government through the most effective agents of change we know: our people. This highly competitive program pairs talented, diverse technologists and innovators with top civil servants and change-makers working at the highest levels of the federal government to tackle some of our nation’s biggest challenges. These teams of government experts and private-sector doers take a user-centric approach to issues at the intersection of people, processes, products, and policy to achieve lasting impact.
+In 2012, the White House established the [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) (PIF) program to bring the principles, values, and practices of the innovation economy into government through the most effective agents of change we know: our people. This highly competitive program pairs talented, diverse technologists and innovators with top civil servants and change-makers working at the highest levels of the federal government to tackle some of our nation’s biggest challenges. These teams of government experts and private-sector doers take a user-centric approach to issues at the intersection of people, processes, products, and policy to achieve lasting impact.
 
 The PIF program is administered as a partnership between the White House Office of Science and Technology Policy (OSTP), the White House Office of Management and Budget (OMB), and the General Services Administration (GSA). In 2013, the PIF program established a permanent home and program office within GSA. Housing PIF inside GSA gave it the resources necessary to grow.
 
@@ -31,7 +31,7 @@ GSA officially launched 18F on March 19, 2014. The name is an abbreviation for t
 
 18F is a cost-recoverable organization. We rely mostly on the following two channels for funding our work:
 
-GSA funds 18F through the [Acquisition Services Fund](http://www.gsa.gov/portal/content/182815) (ASF), which allows for investment in the development and delivery of products and tools that will be used by other agencies on a reimbursable basis.
+GSA funds 18F through the [Acquisition Services Fund](https://www.gsa.gov/portal/content/182815) (ASF), which allows for investment in the development and delivery of products and tools that will be used by other agencies on a reimbursable basis.
 
 The Economy Act allows 18F to be reimbursed for services provided to other agencies. Once an agreement is in place, we bill on a quarterly basis through [IPACS](https://www.fiscal.treasury.gov/fsservices/gov/acctg/ipac/ipac_home.htm).
 
@@ -43,7 +43,7 @@ You can read more about funding and IAA details on 18F’s [Intake Information p
 
 We launched not only a new team, but also the promise of a new way of working with and for the federal government. The first 15 of us committed to making government services simpler and easier to use — a mission that continues to guide us. We set out to do this by drawing on principles of user-centered design, developing in the open, and incorporating agile and lean development practices.
 
-With our mission and approach established, we rolled up our sleeves and got to work. With each new project that we take on, we know the long tail of our impact will be the education and empowerment we share with our partner agencies. Following in the footsteps of the UK’s Government Digital Service, we’ve been capturing, [documenting](https://pages.18f.gov/), and [blogging](https://18f.gsa.gov/blog/) about our process as much as possible — not simply for the purpose of recording our history, but so we can share our process and progress with the public.
+With our mission and approach established, we rolled up our sleeves and got to work. With each new project that we take on, we know the long tail of our impact will be the education and empowerment we share with our partner agencies. Following in the footsteps of the UK’s Government Digital Service, we’ve been capturing, documenting, and [blogging](https://18f.gsa.gov/blog/) about our process as much as possible — not simply for the purpose of recording our history, but so we can share our process and progress with the public.
 
 “Just Start” was our mantra in the early days of 18F, and we did. Sometimes we stumbled, but each time we practiced what we preach — build, measure, learn, and do it again.
 

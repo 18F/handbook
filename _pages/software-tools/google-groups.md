@@ -6,7 +6,7 @@ We use Google Groups to manage team and interest-based email distribution lists 
 
 ## Create a Google Group
 
-See [the instructions in the GSA Knowledge Base](https://gsa.service-now.com/kb_view.do?sysparm_article=KB0024704).
+See [the instructions in the GSA Knowledge Base](https://gsa.servicenowservices.com/kb_view.do?sysparm_article=KB0024704).
 
 ## Manage a Google Group
 

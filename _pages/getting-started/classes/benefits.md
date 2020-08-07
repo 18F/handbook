@@ -38,7 +38,7 @@ GSA has a [credit union](https://www.gsafcu.gsa.gov/). It is free and easy to jo
 
 ## Discounts
 
-Organizations across the United States offer a number of discounts to federal employees. Specific discounts are covered in [govexec.com](http://www.govexec.com/federal-news/2013/10/gimme-my-discount/29165/) and [govloop.com](https://www.govloop.com/top-50-discounts-for-government-employees/), but some highlights include:
+Organizations across the United States offer a number of discounts to federal employees. Specific discounts are covered in [govexec.com](https://www.govexec.com/federal-news/2013/10/gimme-my-discount/29165/) and [govloop.com](https://www.govloop.com/top-50-discounts-for-government-employees/), but some highlights include:
 
 * Members of the military and government employees with verified email addresses are eligible for [free digital access to The Washington Post](https://subscribe.washingtonpost.com/specialoffer/#/gov-mil).
 * Major cell phone carriers offer a 15% discount on cell plans to all federal employees---just ask!
@@ -134,7 +134,7 @@ You get two 15-minute breaks per day. These breaks do not extend the work day, s
 
 ## Paychecks
 
-We are paid biweekly. You’ll receive your first paycheck about three weeks after your start date. This is because every TTS employee starts work at the beginning of a pay period. It takes a week after the end of a pay period for a direct deposit to be made. See the [GSA Payroll Calendar](http://www.gsa.gov/portal/content/102507) to determine future pay cycles.
+We are paid biweekly. You’ll receive your first paycheck about three weeks after your start date. This is because every TTS employee starts work at the beginning of a pay period. It takes a week after the end of a pay period for a direct deposit to be made. See the [GSA Payroll Calendar](https://www.gsa.gov/portal/content/102507) to determine future pay cycles.
 
 Please direct questions to the payroll help desk: **1-844-303-6515** or [email them](mailto:kc-payroll.finance@gsa.gov).
 
@@ -144,11 +144,11 @@ To see your recent pay stubs:
 2. Click the "View Your Earnings and Leave Statement" link in the middle of the page.
 3. Choose the appropriate pay period in the drop-down menu.
 
-For help interpreting the many boxes on your paystub, see [How to Read Your Leave and Earnings Statement](http://www.usbr.gov/gp/employment/neo/tab6/ELS2012.pdf).
+For help interpreting the many boxes on your paystub, see [How to Read Your Leave and Earnings Statement](https://www.usbr.gov/gp/employment/neo/tab6/ELS2012.pdf).
 
 Note that the gross income in your paycheck is a little less than your annual income / 26 paychecks. The difference lies in the way the federal government calculates hourly rates from annual salary. The federal government divides the annual salary by 2087 hours rather than 2080 hours (26 pay periods x 80 hours) to determine hourly rates.
 
-This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an article that explains this: [Why your paychecks don't always add up](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/).
+This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an article that explains this: [Why your paychecks don't always add up](https://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/).
 
 ## Retirement
 
@@ -188,7 +188,7 @@ If you ever move, you can update your address for TSP by emailing it to both the
 
 To transfer your previous retirement account into your TSP, you'll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
 
-If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans cannot be higher than [the annual limit](https://www.tsp.gov/PDF/bulletins/18-04.html).
+If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans cannot be higher than [the annual limit](https://www.tsp.gov/bulletins/19-u-11/).
 
 You may need to include a special additional statement with your tax return explaining you rolled over your IRA to the TSP. For guidance on this, see the [IRS interactive guide to "Do I Need to Report the Transfer or Rollover of an IRA or Retirement Plan on My Tax Return?"](https://www.irs.gov/help/ita/do-i-need-to-report-the-transfer-or-rollover-of-an-ira-or-retirement-plan-on-my-tax-return).
 

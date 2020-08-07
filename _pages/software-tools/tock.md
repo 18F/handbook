@@ -6,10 +6,13 @@ title: Tock
 
 **18F staff should only enter time in the following categories:**
 
-- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F. **18F Business Ops - #1195:** Time specifically spent working on 18F business development efforts.
+- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F. 
+- **18F Business Ops - #1195:** Time specifically spent working on 18F business development efforts. 
+- **18F Hiring - #1241:** Time specifically spent working on 18F hiring (such as preparing interview guides, reading resumes, interviews and debriefs).
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
 - **Out of Office - #670:** Vacation time, federal holidays, or sick time
 - **18F Project work - project ID varies:** The specific projects you're working on.
+- **(Coming Soon!) 18F Engagement Management - project ID varies:** This code is used for non-primary project team members (i.e. staffing leads, supervisors, etc.) who are participating in staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, etc. 
 
 **Cloud.gov**
 - Tock your usual 40 hours to the cloud.gov P&L (#955) generally unless you’re doing billable work for something in 18F.  More specific Tock instructions for Cloud team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
@@ -59,7 +62,7 @@ Account managers can request the creation of a project in [#tock](https://gsa-tt
 You **must** bill for the below activities because these are direct costs. This means they are directly bringing value to the partner agency you are working for. We have a legal obligation to bill for them. They include:
 
 - Work that enables project delivery, such as:
-    - Any activity that develops skills or knowledge used in project work
+    - Any activity that develops skills or knowledge necessary to perform work on an assigned project
         - Examples: guild meetings, guild work, working groups and communities, project related skill development like reading, studying, online searches, or fixing an issue on your project - basically if it applies to your project's work you should bill it
     - 1:1 with supervisor/facilitator (both individual and supervisor/facilitator should bill to the project)
     - Critique groups
@@ -78,11 +81,12 @@ You **must** bill for the below activities because these are direct costs. This 
     - Time onboarding to a project, which includes reading documentation and learning about the agency
     - Time offboarding from a project. This includes post-mortems, writing documentation, and organizing your working files so that other people could pick it up later and continue your work
     - Business development and IAA work (for continuing projects only)
+    - Conferences, training and meetings that are in service of project work
 
 You must not bill for the following activities because these are indirect costs and are not inherently valuable to any one single partner. As a result, we distribute the costs for these amongst all our partners via our hourly rate. Recording these as billable would mean we're billing for them twice.
 
 - [Out of office (Award leave, sick leave, PTO)](../leave/#time-tracking)
-- Conferences and trainings that come out of your chapter's training budget
+- Conferences, trainings and meetings that are not in service of project work
 - OLU trainings that are not in service of project work
 - Internal organization meetings (Team Coffees, TTS Town Hall)
 - Business development for new projects (on non-live projects). Developing continuation work plan is okay to bill)
@@ -92,27 +96,29 @@ You must not bill for the following activities because these are indirect costs 
 
 ### Weekly Billable Hour Expectations
 
-If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. Directors and supervisors have different billability expectations.
+For 18F, if you’re an individual contributor or a lead, you’re expected to spend at least 90% of your time on billable project work. Directors and supervisors have different billability expectations.
 
-That leaves up to 20% of your time to be spent on non-billable work. There are a few types of non-billable work, used to manage the running of TTS and your part of TTS itself: GSA-mandated non-billable work, 18F business development, and 18F/CoE/etc. non-billable work.
+That leaves up to 10% of your time to be spent on non-billable work. There are a few types of non-billable work, used to manage the running of the organization: GSA-mandated non-billable work, 18F business development, hiring and non-billable work.
 
 GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers), and so forth. These are the things we don’t have a choice but to spend time on.
 
-18F/CoE/PIF non-billable work includes time spent on hiring, in guilds and working groups, team coffees, chapter meetings, approved internal projects, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
+18F non-billable work includes time spent on hiring, in guilds and working groups (that are not in service of project work), team coffees, chapter meetings, approved internal projects, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
 
 However, time within those activities spent discussing a billable project may also be billable. For example, if you're in a 1:1 or guild meeting working through a difficult project issue, that's billable.
 
 Not sure whether work you’re doing is billable? If it’s not explicitly an indirect cost, it’s project work.
 
-So for most people in a given 40-hour week, the expectation is to bill at least 32 hours to project work. But what about holidays or leave time? Then you’ll need to spend 80% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
+Effective July 6, 2020 for 18F: 
 
-Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed)
+So for most people in a given 40-hour week, the expectation is to bill at least 36 hours to project work. But what about holidays or leave time? Then you’ll need to spend 90% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
+
+Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed) 
 --- | --- | ---
-5 days | 32 hours (80% of 40 hours) | 8 hours
-4 days | 26 hours (80% of 32 hours) | 6 hours
-3 days | 19.5 hours (80% of 24 hours) | 4.5 hours
-2 days | 13 hours (80% of 16 hours) | 3 hours
-1 days | 6.5 hours (80% of 8 hours) | 1.5 hours
+5 days | 36 hours (90% of 40 hours) | 4 hours
+4 days | 29 hours (90% of 32 hours) | 3 hours
+3 days | 21.5 hours (90% of 24 hours) | 2.5 hours
+2 days | 14.5 hours (90% of 16 hours) | 1.5 hours
+1 days | 7 hours (90% of 8 hours) | 1 hours
 
 ### Issues hitting your billable hour target
 
@@ -122,7 +128,7 @@ If you still find that you don't have enough work to bill to the hour expectatio
 
 ### Working more than the minimum hours
 
-Working more than 32 billable hours is just fine! 32 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
+Working more than 36 billable hours is just fine! 36 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
 
 - Before you work those extra hours, talk to your Account Manager and supervisor to figure out if and how much over 40 you can work. The Account Manager will need to check and then adjust the project's financial accounting.
 - Get your supervisor's approval in writing

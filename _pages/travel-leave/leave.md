@@ -27,7 +27,7 @@ You can also see your remaining leave balances in HR Links (shows up to the righ
 ## Submitting leave in HR Links
 
 ### Logging into HR Links
-You must be on the GSA wireless network or on the Windows virtual desktop (accessible through VMWare Horizon or Cisco AnyConnect) to log into HR Links.  For instructions on accessing your virtual desktop through VMware Horizon, go [here]({{site.baseurl}}/vmware-horizon).  For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).
+You must be on the GSA wireless network or on the Windows virtual desktop (accessible through Citrix Workspace or Cisco AnyConnect) to log into HR Links.  For instructions on accessing your virtual desktop through Citrix Workspace, go [here]({{site.baseurl}}/virtual-desktop).  For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).
 
   1. Open your web browser (Safari is preferred for HR Links)
   1. Go to [HR Links](https://corporateapps.gsa.gov/hr-links/) or find it under "Tools" on the [InSite home page](https://insite.gsa.gov)
@@ -54,6 +54,7 @@ It’s simple, but slightly counter-intuitive. Here’s how:
 
 ### HR Links tips
 
+- If you're having issues with logging into HR Links while using Google Chrome, please use these [instructions to clear your site cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing)
 - Partial day requests cannot be made in the middle of a multi-day request; more than one request will need to be made
 - AWS schedules are automatically factored into HR Links timekeeping
 - ETAMS/reconciliation is no longer needed because time off requests and time cards are linked in HR Links
@@ -61,7 +62,7 @@ It’s simple, but slightly counter-intuitive. Here’s how:
 - Court leave can be requested in HR Links; this was not a feature in Aloha
 - Clicking Absence/OT history shows all requests
 - Aloha is now in read-only mode; your time off history can be found there
-- HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. [Federalretirement.net](http://www.federalretirement.net/leave-record.htm) has an easy to use spreadsheet that employees may use as a back up to HRLinks.
+- HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. [Federalretirement.net](https://www.federalretirement.net/leave-record.htm) has an easy to use spreadsheet that employees may use as a back up to HRLinks.
 
 ## Leave
 
@@ -77,7 +78,7 @@ Before taking leave, be sure to:
 - Mark your out of office time on your calendar and any applicable team or project calendars. Remember to set the permissions of the event to "public" so that people can see it's OOO time, rather than just seeing "busy."
 - Tell team members or partners via Slack or email, and make sure work is covered
 - Set up an email autoresponder as appropriate. This should include both when you’ll be back and a point of contact/team email for while you’re out. For example: `I am out of the office on Wednesday January 2nd and will respond to your request when I return on Thursday the 3rd. If you need immediate assistance please email 18F-PartnerSolutions@gsa.gov and your request will be directed to the appropriate party.`
-- Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per https://handbook.18f.gov/leave/#returning-from-leave” on [date you return]`
+- Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per https://handbook.tts.gsa.gov/leave/#returning-from-leave” on [date you return]`
 
 - 18F team members should also:
     - Submit [correct Tock entries]({{site.baseurl}}/tock/#tocking-for-out-of-office-time)
@@ -126,6 +127,16 @@ Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds li
 
 * [Fact Sheet: Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status) on Federal Benefits and Programs](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/)
 
+* **TTS Process for requesting LWOP**
+Employee must get written approval from the following chain of command:
+
+1. Immediate Supervisor
+1. Business Unit Director
+1. Assistant Commissioner
+
+Once approvals are received, please submit a copy of the email thread to [TTS-peopleops@gsa.gov](mailto:tts-peopleops@gsa.gov)
+
+
 ### Parental leave
 
 Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for more information.
@@ -137,9 +148,9 @@ The Family and Medical Leave Act (FMLA) allows most federal employees to take up
 
 Former members of the military and/or a military service academy can receive credit for their time. They’ll need to fill out form [FERS 3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf). An employee who has transferred from another agency can use their time to count toward the 12-month restriction.
 
-The Department of Labor has a [detailed guide to FMLA](http://www.dol.gov/whd/fmla/), including this [FMLA FAQ](http://www.dol.gov/whd/fmla/fmla-faqs.htm).
+The Department of Labor has a [detailed guide to FMLA](https://www.dol.gov/agencies/whd/fmla).
 
-For complete details, see [this recent guidance](http://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
+For complete details, see [this recent guidance](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
 
 Both parents may use their annual or sick leave after the birth of a child, for the period of the mother’s incapacitation. The length of the medically necessary leave is ultimately determined by a doctor’s note, but six weeks for a vaginal birth and eight weeks for a cesarean birth is common. After parents exhaust their annual and sick leave, they can run a sick leave deficit of up to the amount they will accrue during their tenure.
 
