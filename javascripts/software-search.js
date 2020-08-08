@@ -27,18 +27,29 @@ const arrayToObject = (array, keyField) =>
     return obj;
   }, {});
 
-const addRow = (tBody, entry) => {
-  const row = tBody.insertRow();
+const toClassStr = (str) => str.replace(/[^\w]+/, "-").toLowerCase();
 
-  const status = entry["Status"].replace(/[^\w]/, "-").toLowerCase();
-  row.classList.add(`status-${status}`);
-
-  // the <th> needs to be added in a different way
+const addNameCell = (row, entry) => {
   const th = document.createElement("th");
   th.setAttribute("scope", "row");
   const text = document.createTextNode(entry["Standard Name"]);
   th.appendChild(text);
   row.appendChild(th);
+};
+
+const addCell = (row, entry, field) => {
+  const cell = row.insertCell();
+  const text = document.createTextNode(entry[field]);
+  cell.appendChild(text);
+};
+
+const addRow = (tBody, entry) => {
+  const row = tBody.insertRow();
+
+  const status = toClassStr(entry["Status"]);
+  row.classList.add(`status-${status}`);
+
+  addNameCell(row, entry);
 
   const fields = [
     "Description",
@@ -47,18 +58,14 @@ const addRow = (tBody, entry) => {
     "Deployment Type",
     "Approval Expiration Date",
   ];
-  fields.forEach((field) => {
-    const cell = row.insertCell();
-    const text = document.createTextNode(entry[field]);
-    cell.appendChild(text);
-  });
+  fields.forEach((field) => addCell(row, entry, field));
 };
 
 const displayResults = (software) => {
   const table = document.getElementById("software-search-results");
   const tBody = table.tBodies[0];
 
-  // empty it
+  // remove existing results
   tBody.innerHTML = "";
 
   software.forEach((entry) => addRow(tBody, entry));
