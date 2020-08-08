@@ -86,4 +86,6 @@ getSoftware().then((software) => {
     const query = event.target.value;
     doSearch(query, index, softwareByName);
   });
+
+  doSearch(input.value, index, softwareByName);
 });
