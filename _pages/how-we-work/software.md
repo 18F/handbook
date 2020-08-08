@@ -10,6 +10,8 @@ If you need to purchase more expensive software, see [procurements over $10,000]
 
 Check the [GEAR, IT Standards list](https://ea.gsa.gov/#!/applications) (must be on GSA wireless or [VPN]({{site.baseurl}}/virtual-desktop)) to ensure the software you need is currently approved by GSA IT.
 
+{% include software-search.html %}
+
 If the software you are looking for is in the [TTS inventory](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), send an email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) requesting a license for the software you need. The TTS Saas Project Manager will contact you within 1-2 business days.
 
 If TTS does not have licenses, GSA might. In order to check the GSA IT Catalog:
