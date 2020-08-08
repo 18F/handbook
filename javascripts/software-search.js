@@ -28,8 +28,12 @@ const arrayToObject = (array, keyField) =>
   }, {});
 
 const addRow = (tBody, entry) => {
-  // the <th> needs to be added in a different way
   const row = tBody.insertRow();
+
+  const status = entry["Status"].replace(/[^\w]/, "-").toLowerCase();
+  row.classList.add(`status-${status}`);
+
+  // the <th> needs to be added in a different way
   const th = document.createElement("th");
   th.setAttribute("scope", "row");
   const text = document.createTextNode(entry["Standard Name"]);
