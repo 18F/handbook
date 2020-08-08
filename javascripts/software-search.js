@@ -27,14 +27,14 @@ const arrayToObject = (array, keyField) =>
   }, {});
 
 const displayResults = (software) => {
-  console.log(software);
-  const table = document.querySelector("#software-search-results tbody");
+  const table = document.getElementById("software-search-results");
+  const tBody = table.tBodies[0];
 
   // empty it
-  table.innerHTML = "";
+  tBody.innerHTML = "";
 
   software.forEach((entry) => {
-    const row = table.insertRow();
+    const row = tBody.insertRow();
     const th = document.createElement("th");
     th.setAttribute("scope", "row");
     const text = document.createTextNode(entry["Standard Name"]);
@@ -54,6 +54,9 @@ const displayResults = (software) => {
       cell.appendChild(text);
     });
   });
+
+  // only show table if there are results
+  table.style.display = software.length == 0 ? "none" : null;
 };
 
 const doSearch = (query, index, softwareByName) => {
