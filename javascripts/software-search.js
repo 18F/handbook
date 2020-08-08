@@ -27,6 +27,29 @@ const arrayToObject = (array, keyField) =>
     return obj;
   }, {});
 
+const addRow = (tBody, entry) => {
+  // the <th> needs to be added in a different way
+  const row = tBody.insertRow();
+  const th = document.createElement("th");
+  th.setAttribute("scope", "row");
+  const text = document.createTextNode(entry["Standard Name"]);
+  th.appendChild(text);
+  row.appendChild(th);
+
+  const fields = [
+    "Description",
+    "Category",
+    "Status",
+    "Deployment Type",
+    "Approval Expiration Date",
+  ];
+  fields.forEach((field) => {
+    const cell = row.insertCell();
+    const text = document.createTextNode(entry[field]);
+    cell.appendChild(text);
+  });
+};
+
 const displayResults = (software) => {
   const table = document.getElementById("software-search-results");
   const tBody = table.tBodies[0];
@@ -34,27 +57,7 @@ const displayResults = (software) => {
   // empty it
   tBody.innerHTML = "";
 
-  software.forEach((entry) => {
-    const row = tBody.insertRow();
-    const th = document.createElement("th");
-    th.setAttribute("scope", "row");
-    const text = document.createTextNode(entry["Standard Name"]);
-    th.appendChild(text);
-    row.appendChild(th);
-
-    const fields = [
-      "Description",
-      "Category",
-      "Status",
-      "Deployment Type",
-      "Approval Expiration Date",
-    ];
-    fields.forEach((field) => {
-      const cell = row.insertCell();
-      const text = document.createTextNode(entry[field]);
-      cell.appendChild(text);
-    });
-  });
+  software.forEach((entry) => addRow(tBody, entry));
 
   // only show table if there are results
   table.style.display = software.length == 0 ? "none" : null;
