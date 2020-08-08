@@ -8,8 +8,6 @@
     @include typeset("body", "xs", 4);
     background: none;
     padding: units(2);
-    position: sticky;
-    top: units(1);
     border: units(1px) solid color("gray-5");
     border-radius: radius("lg");
     margin: 0 auto units(2);
