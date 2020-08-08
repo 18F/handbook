@@ -84,15 +84,25 @@ const doSearch = (query, index, softwareByName) => {
   displayResults(softwareResults);
 };
 
-getSoftware().then((software) => {
+const init = async () => {
+  const input = document.querySelector('#software-search input[name="search"]');
+  if (location.hash) {
+    // use the search value from the URL
+    const hash = location.hash.replace(/^#/, "");
+    input.value = decodeURIComponent(hash);
+  }
+
+  const software = await getSoftware();
   const index = buildIndex(software);
   const softwareByName = arrayToObject(software, "Standard Name");
 
-  const input = document.querySelector('#software-search input[name="search"]');
   input.addEventListener("input", async (event) => {
     const query = event.target.value;
     doSearch(query, index, softwareByName);
+    window.location = `#${encodeURIComponent(query)}`;
   });
 
   doSearch(input.value, index, softwareByName);
-});
+};
+
+init();
