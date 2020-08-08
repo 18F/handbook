@@ -11,6 +11,7 @@ const buildIndex = (software) => {
   return lunr(function () {
     const idx = this;
     idx.ref("Standard Name");
+    idx.field("Standard Name", { boost: 2 });
     idx.field("Description");
 
     software.forEach((item) => {
