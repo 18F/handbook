@@ -39,6 +39,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Account Manager](https://www.usajobs.gov/GetJob/ViewDetails/574773400) - open Wednesday, July 29th through Tuesday, August 11th
 
+- [OA Procurement Analyst](https://www.usajobs.gov/GetJob/ViewDetails/575852300) - open Tuesday, August 11th through Monday, August 17th
+
 
 ### Internal only opportunities
 
