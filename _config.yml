@@ -32,6 +32,7 @@ defaults:
     values:
       layout: "handbook_page"
 
+permalink: pretty
 collections:
   pages:
     output: true
