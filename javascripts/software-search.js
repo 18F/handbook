@@ -80,13 +80,17 @@ const displayResults = (software) => {
   table.style.display = software.length == 0 ? "none" : null;
 };
 
-// treat all words with trailing wildcard
-const transformQuery = (query) => query.replace(/(\w)\b/g, "$1*");
-
 const getResults = (query, index) => {
-  const newQuery = transformQuery(query);
   const nResults = 5;
-  return index.search(newQuery).slice(0, nResults);
+  return index
+    .query((q) => {
+      // treat all words with trailing wildcard
+      const tokens = lunr.tokenizer(query);
+      q.term(tokens, {
+        wildcard: lunr.Query.wildcard.TRAILING,
+      });
+    })
+    .slice(0, nResults);
 };
 
 const doSearch = (query, index, softwareByName) => {
