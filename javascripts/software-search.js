@@ -1,3 +1,9 @@
+// if running in Node
+if (typeof require === "function") {
+  Papa = require("./papaparse.min");
+  lunr = require("./lunr");
+}
+
 const getSoftware = async () => {
   const source =
     "https://raw.githubusercontent.com/GSA/data/master/enterprise-architecture/it-standards.csv";
@@ -105,4 +111,12 @@ const init = async () => {
   doSearch(input.value, index, softwareByName);
 };
 
-init();
+if (typeof module === "object") {
+  // export functions for testing
+  module.exports = {
+    getSoftware,
+    buildIndex,
+  };
+} else {
+  init();
+}
