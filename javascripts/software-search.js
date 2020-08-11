@@ -80,9 +80,17 @@ const displayResults = (software) => {
   table.style.display = software.length == 0 ? "none" : null;
 };
 
-const doSearch = (query, index, softwareByName) => {
+// treat all words with trailing wildcard
+const transformQuery = (query) => query.replace(/(\w)\b/g, "$1*");
+
+const getResults = (query, index) => {
+  const newQuery = transformQuery(query);
   const nResults = 5;
-  const searchResults = index.search(query).slice(0, nResults);
+  return index.search(newQuery).slice(0, nResults);
+};
+
+const doSearch = (query, index, softwareByName) => {
+  const searchResults = getResults(query, index);
   // retrieve the matching software entries
   const softwareResults = searchResults.map(
     (result) => softwareByName[result.ref]
@@ -114,8 +122,8 @@ const init = async () => {
 if (typeof module === "object") {
   // export functions for testing
   module.exports = {
-    getSoftware,
     buildIndex,
+    getResults,
   };
 } else {
   init();

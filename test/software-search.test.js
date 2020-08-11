@@ -8,7 +8,7 @@ test("matches a single result", () => {
     },
   ]);
 
-  const results = index.search("github");
+  const results = search.getResults("github", index);
   expect(results.length).toBe(1);
 });
 
@@ -20,7 +20,19 @@ test("matches a partial word", () => {
     },
   ]);
 
-  const results = index.search("git");
+  const results = search.getResults("git", index);
+  expect(results.length).toBe(1);
+});
+
+test("matches multiple partial words", () => {
+  const index = search.buildIndex([
+    {
+      "Standard Name": "GitHub Desktop",
+      Description: "foo bar",
+    },
+  ]);
+
+  const results = search.getResults("git desk", index);
   expect(results.length).toBe(1);
 });
 
@@ -36,7 +48,7 @@ test("results are in descending order", () => {
     },
   ]);
 
-  const results = index.search("git");
+  const results = search.getResults("git", index);
   expect(results.length).toBe(2);
   expect(results[0].score).toBeGreaterThan(results[1].score);
 });
@@ -53,6 +65,6 @@ test("matches a single word within the name", () => {
     },
   ]);
 
-  const results = index.search("git");
+  const results = search.getResults("git", index);
   expect(results[0].ref).toBe("something something Git");
 });
