@@ -137,17 +137,6 @@ Submitting a participant review in HR Links is the same process for all nominate
 * HR Links in-depth guide (with screenshots):
   * [Employee (Section 3, Topic 3.4)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
 
-### Establishing a performance plan for the new fiscal year
-Employees have the option to update critical elements and/or weights -with supervisor approval- when establishing their FY21 performance plans in HR Links:
-
-* Employee needs to review their FY20 performance plan that's been in place 120+ days and decide if/how they want to update critical elements and percentage weights
-* During 1:1 performance review session (in addition to finalizing the FY20 performance review):
-  * Supervisor clones employee's FY20 plan to create a template for the FY21 plan
-  * Employee discusses FY21 performance plan updates with their supervisor
-  * Employee works with their Supervisor to make updates to the FY21 performance plan in HR Links
-  * Supervisor ["signs and submits"]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-a-performance-plan-for-employee-approval) the FY21 performance plan in HR Links
-* Employee should [“acknowledge”]({{site.baseurl}}/performance-management-hrlinks-steps/#acknowledging-a-performance-plan) their FY21 performance plan by November 26
-
 ### Confirming that performance plans have been established
 
 It is critical that all FY20 performance plan evaluations are acknowledged by employees before November 16 and all FY21 performance plans are acknowledged by employees before November 30. The status of employee performance management can be checked in the *Team Performance Supervisor dashboard*:
