@@ -133,21 +133,13 @@ A supervisor may need to approve an employee performance plan or employee evalua
 
 #### Leveraging diversity performance measure
 
-All FY20 **supervisory performance plans** must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/11U0zRK8_o2bA7dRSC9AhabBd8Qpwpr0o7gudzdCJKsE/edit?ts=5db85e63) and/or attend a Supervisor's Lounge session (see below).
+All FY21 **supervisory performance plans** must include the “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit#heading=h.7ki5n23m5zhy).
 
 ### Additional training
 
 #### Supervisors’ Lounge Question and Answer Sessions
 
-These sessions will feature a demo showing how to incorporate organizational measures into the performance plan. Both sessions will go over the same content, so Supervisors can attend either one.  The links below lead to OLU where you can sign up for a session:
-
-[Thursday, October 3rd, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394131%26fromSF%3dY&company=GSAHCM03)
-
-[Thursday, October 31st, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394132%26fromSF%3dY&company=GSAHCM03)
-
-* Engage and share knowledge with peers in the [Supervisors’ Lounge Private Chatter Group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93000000016Zo).
-
-* Watch previously recorded Supervisors’ Lounge Question & Answer Sessions, located in the [Group Files](https://gsa.my.salesforce.com/_ui/core/chatter/content/GroupFileListPage?g=0F93000000016Zo).
+Information will be updated when sessions are set.
 
 #### [HR Links Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems)
 
