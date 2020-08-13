@@ -82,13 +82,13 @@ In preparation for the FY20 End-of-Year Employee Performance Review Cycle, pleas
 
 All supervisors should complete the FY20 audit by COB September 24th, so please fill out the above survey if you have not yet.
 
-#### 1 on 1 performance discussion
+#### 1 on 1 performance conversation
 
 This meeting is an opportunity to rate, recognize and give your direct report constructive feedback (formal or informal) regarding the results of their work within the established expectations, goals, and objectives outlined in the performance plan.  
 
 ***See below for how to prepare for this meeting.***
 
-#### Preparing for 1 on 1 performance discussion
+#### Preparing for 1 on 1 performance conversation
 
 Gather emails, written performance counseling, customer feedback, survey results, supervisory notes, database/spreadsheets, and/or work samples about the employee’s performance that you observed within the current rating cycle. Prepare feedback for your direct reports that's backed with specific data points and examples, regardless of whether it will be constructive criticism or praise. When providing constructive criticism, it is recommended that you have clear examples of the desired behavior.
 
@@ -107,10 +107,10 @@ Here’s a pre-feedback checklist you may want to consider:
 
 For instances when a direct report is not assigned to their first line supervisor in HR Links or their supervisor doesn't have HR Links manager access, there are two primary options for the first line supervisor to be able to contribute to the evaluation:
 
-1. The first line supervisor should have a 1:1 performance discussion with their direct report and then email their evaluation to the second line supervisor who will [submit the evaluation]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-an-evaluation) in HR Links on the first line supervisor's behalf.
+1. The first line supervisor should have a 1:1 performance conversation with their direct report and then email their evaluation to the second line supervisor who will [submit the evaluation]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-an-evaluation) in HR Links on the first line supervisor's behalf.
   * ***NOTE: If the employee has submitted a self-assessment in HR Links, the second line supervisor should email or print a copy for the first line supervisor to review prior to the 1:1 meeting.***
 
-1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management-hrlinks-steps/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 discussion.
+1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management-hrlinks-steps/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 conversation.
   * ***NOTE: The nominated supervisor's feedback is not automatically included as a comment in the employees performance review. HR Links creates a separate document, so it is recommended that the second line supervisor cuts and paste the feedback into the summary comments.***  
 
 #### Approving/Denying a level 1 or level 5 summary performance rating
