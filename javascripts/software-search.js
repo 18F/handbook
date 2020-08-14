@@ -26,6 +26,21 @@ const buildIndex = (software) => {
   });
 };
 
+// https://levelup.gitconnected.com/debounce-in-javascript-improve-your-applications-performance-5b01855e086
+const debounce = (func, wait) => {
+  let timeout;
+
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+};
+
 // https://medium.com/dailyjs/rewriting-javascript-converting-an-array-of-objects-to-an-object-ec579cafbfc7
 const arrayToObject = (array, keyField) =>
   array.reduce((obj, item) => {
@@ -117,11 +132,15 @@ const init = async () => {
   const index = buildIndex(software);
   const softwareByName = arrayToObject(software, "Standard Name");
 
-  input.addEventListener("input", async (event) => {
-    const query = event.target.value;
-    doSearch(query, index, softwareByName);
-    window.location = `#${encodeURIComponent(query)}`;
-  });
+  input.addEventListener(
+    "input",
+    // perform search once the user has paused typing
+    debounce(async (event) => {
+      const query = event.target.value;
+      doSearch(query, index, softwareByName);
+      window.location = `#${encodeURIComponent(query)}`;
+    }, 1000)
+  );
 
   doSearch(input.value, index, softwareByName);
 };
