@@ -76,8 +76,10 @@ const displayResults = (software) => {
 
   software.forEach((entry) => addRow(tBody, entry));
 
+  const noResults = document.getElementById("no-results");
   // only show table if there are results
   table.style.display = software.length == 0 ? "none" : null;
+  noResults.style.display = software.length == 0 ? null : "none";
 };
 
 const getResults = (query, index) => {
