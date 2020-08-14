@@ -118,10 +118,14 @@ const doSearch = (query, index, softwareByName) => {
     (result) => softwareByName[result.ref]
   );
   displayResults(softwareResults);
+
+  window.location = `#${encodeURIComponent(query)}`;
 };
 
 const init = async () => {
-  const input = document.querySelector('#software-search input[name="search"]');
+  const form = document.getElementById("software-search");
+  const input = form.querySelector('input[name="search"]');
+
   if (location.hash) {
     // use the search value from the URL
     const hash = location.hash.replace(/^#/, "");
@@ -132,14 +136,15 @@ const init = async () => {
   const index = buildIndex(software);
   const softwareByName = arrayToObject(software, "Standard Name");
 
+  form.addEventListener("submit", (event) => {
+    doSearch(input.value, index, softwareByName);
+    event.preventDefault();
+  });
+
   input.addEventListener(
     "input",
     // perform search once the user has paused typing
-    debounce(async (event) => {
-      const query = event.target.value;
-      doSearch(query, index, softwareByName);
-      window.location = `#${encodeURIComponent(query)}`;
-    }, 1000)
+    debounce(async () => doSearch(input.value, index, softwareByName), 1000)
   );
 
   doSearch(input.value, index, softwareByName);
