@@ -17,7 +17,7 @@ const buildIndex = (software) => {
   return lunr(function () {
     const idx = this;
     idx.ref("Standard Name");
-    idx.field("Standard Name", { boost: 2 });
+    idx.field("Standard Name", { boost: 20 });
     idx.field("Description");
 
     software.forEach((item) => {
@@ -87,6 +87,7 @@ const getResults = (query, index) => {
       // treat all words with trailing wildcard
       const tokens = lunr.tokenizer(query);
       q.term(tokens, {
+        editDistance: 2,
         wildcard: lunr.Query.wildcard.TRAILING,
       });
     })
