@@ -12,6 +12,30 @@ test("matches a single result", () => {
   expect(results.length).toBe(1);
 });
 
+test("fuzzy matches", () => {
+  const index = search.buildIndex([
+    {
+      "Standard Name": "GitHub",
+      Description: "foo bar",
+    },
+  ]);
+
+  const results = search.getResults("githb", index);
+  expect(results.length).toBe(1);
+});
+
+test("matches a word within the name", () => {
+  const index = search.buildIndex([
+    {
+      "Standard Name": "Microsft Office",
+      Description: "foo bar",
+    },
+  ]);
+
+  const results = search.getResults("office", index);
+  expect(results.length).toBe(1);
+});
+
 test("matches a partial word", () => {
   const index = search.buildIndex([
     {
