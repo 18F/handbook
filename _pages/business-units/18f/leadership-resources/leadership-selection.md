@@ -70,7 +70,7 @@ If you want to nominate or “nudge” someone to apply, first think carefully a
 
 For candidates who did not self-nominate, first ask them if they're interested in the role. Then let them and self-nominators know that you’re moving to the next step, which will be sending interview meeting invites.
 
-At this point, you can replace your calendar holds with actual invites with the interview panel and the people you'll be talking to. Include links to the position description and interview question bank in the calendar invite so it’s easy to find. Also include a general description of the role in the invite description. **Make these invites private**: that is, not viewable to everyone. Those participating may not want others outside the panel to know they’re interviewing.
+At this point, you can replace your calendar holds with actual invites with the interview panel and the people you'll be talking to. Include links to the position description and interview question bank in the calendar invite so it’s easy to find. Also include a general description of the role and a link to the [leadership candidate guide](leadership-candidate-guide) in the invite description. **Make these invites private**: that is, not viewable to everyone. Those participating may not want others outside the panel to know they’re interviewing.
 
 Be sure all candidates and all interviewers have a copy of the Position Description, a general description of the role, and a copy of the questions they may be asked. These are all in Google Drive somewhere. Hopefully you already know where. If not, go find it now.
 
