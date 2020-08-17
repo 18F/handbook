@@ -91,9 +91,14 @@ const displayResults = (software) => {
 
   software.forEach((entry) => addRow(tBody, entry));
 
-  const noResults = document.getElementById("no-results");
+  // display the number of results
+  const caption = table.querySelector("caption");
+  const word = software.length === 1 ? "result" : "results";
+  caption.innerText = `${software.length} software ${word}`;
+
   // only show table if there are results
   table.style.display = software.length == 0 ? "none" : null;
+  const noResults = document.getElementById("no-results");
   noResults.style.display = software.length == 0 ? null : "none";
 };
 
