@@ -8,7 +8,13 @@ layout: page
 <section aria-label="Big search component">
   <form id="software-search" class="usa-search usa-search--big" role="search">
     <label class="usa-sr-only" for="search-field-big">Search</label>
-    <input class="usa-input" type="search" id="search-field-big" name="search" value="office" />
+    <input
+      class="usa-input"
+      type="search"
+      id="search-field-big"
+      name="search"
+      value="office"
+    />
     <button class="usa-button" type="submit">
       <span class="usa-search__submit-text">Search</span>
     </button>
@@ -16,7 +22,7 @@ layout: page
 </section>
 <section>
   <table id="software-search-results" class="usa-table" style="display: none;">
-    <caption>
+    <caption role="alert">
       Search results
     </caption>
     <thead>
