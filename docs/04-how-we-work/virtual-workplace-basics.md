@@ -34,7 +34,7 @@ Check out this blog post: [How Remote Working Helps Us Live Our Dreams (And Get 
 
 ## Talking Time Zones
 
-As a company, we usually reference time using Pacific Standard Time (PST, or PT for short). If you're chatting with your whole team or even just a few members, it's best practice to reference time in PT.
+As a company, we usually reference time using Pacific Time (or PT for short). If you're chatting with your whole team or even just a few members, it's best practice to reference time in PT.
 
 There are some cases in which we reference other time zones, usually because of a client's location. In these cases we may refer to meeting times in ET _and_ PT. We may say something like, "The scrum call is at 9:00PT/12:00ET."
 
