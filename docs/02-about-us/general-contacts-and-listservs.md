@@ -11,10 +11,9 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 - Company Goals: Aaron Pava, Henry Poole
 - Sales related questions or ideas: Bill Ogilvie, Di Hussey
 - Marketing related questions or ideas: Aaron Pava
-- Professional development and pro dev stipend: Elizabeth Raley
-- Time-off, vacation, leave of absence: Your PM first, Elizabeth Raley
+- Professional development and pro dev stipend: Your check-in person
+- Time-off, vacation, leave of absence: Your project manager first, then project team
 - Personal, company or client security/compliance questions: Fen Labalme
-- Pod Leads: Steve Curtis (Hydra), Susie Bird (Vela), Jason Heaster (Pyxis), Ero Gray (Ursa), John O'Duinn (Aries)
 
 ## Main Listservs
 
