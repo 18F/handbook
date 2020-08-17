@@ -42,7 +42,7 @@ Users must follow security requirements:
 
 ## Logging into apps with your GSA Google account
 
-Some applications can be logged into using your GSA Google account. Just make sure that you don't grant Google access to anything beyond basic data; "Basic Info" or "Limited Access to Data and Files" are both approved options that are considered basic data. Any integration beyond basic requires use the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) to submit a _3rd Party Integration Approval (Slack/Github)_ request.
+Some applications can be logged into using your GSA Google account. Just make sure that you don't grant Google access to anything beyond basic data; "Basic Info" or "Limited Access to Data and Files" are both approved options that are considered basic data. Any integration beyond basic requires a [GSA IT Help Desk ticket](https://servicedesk.gsa.gov), you can also start a ticket by emailing `itservicedesk@gsa.gov`.
 
 You can check your account permissions [here](https://myaccount.google.com/permissions).
 

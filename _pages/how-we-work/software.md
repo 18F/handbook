@@ -24,7 +24,7 @@ _Note: If you're looking for MS Office, see [this page]({{site.baseurl}}/office/
 
 ## Purchase new software
 
-If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio requests that you use the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) for a _New Software (consult)_.
+If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio requests that you first submit a [GSA IT Help Desk ticket](https://servicedesk.gsa.gov), you can also start a ticket by emailing `itservicedesk@gsa.gov` and provide us with the ticket number in Slack [#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S) or by email `devops@gsa.gov`.
 
 ### Step 1: find or get an ATO
 
@@ -34,9 +34,7 @@ If the software you are purchasing has a valid ATO listed in GEAR, then you can 
 
 If the ATO is expired or you cannot find it in GEAR, you can post in the Slack channel [#gsait-shared](https://gsa-tts.slack.com/messages/gsait-shared/) to ask if there is an updated ATO. If there is no ATO or the ATO is expired, you will need to go through the ATO process to ensure your software is approved by security. You can follow these steps to [submit a new software for ATO](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/software-and-applications/software-downloads-and-requests/it-standards). The ATO process can take 4-6 weeks and [costs money](https://docs.google.com/spreadsheets/d/1PokRIGaGl04sxMxEHGwMIRaJDx4OPEXpJ7g69ekDdz8/edit#gid=1451563242z) and there is no guarantee it will be approved. If your need is urgent, try to find something in [GEAR, IT Standards](https://ea.gsa.gov/#!/itstandards) list that is already approved and meets your needs.
 
-### Step 2: If you haven't already used the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) to get a _New Software (consult)_ please do so.
-
-Please ensure that your justification in the Google Form is detailed, so it can be used to request FITARA approval.
+### Step 2: If you haven't already submit a [GSA IT Help Desk ticket](https://servicedesk.gsa.gov) and provide the Tech Portfolio with the ticket number in Slack [#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S) or by email `devops@gsa.gov`.
 
 ### Step 3: [Submit a micropurchase request.]({{site.baseurl}}/purchase-requests/)
 

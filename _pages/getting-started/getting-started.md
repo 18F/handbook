@@ -116,8 +116,8 @@ Maybe you've identified a good way to update the script!
 If you are running a project locally, you may also find yourself needing to know
 [some basics of the Mac OS X command line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line).
 
-And remember, if you can't figure out how to get it running, that's probably not your fault --- there is likely something that needs to be updated, and that can be accomplished by filling out the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) and selecting the option for a _Generic Request_.
-You can file an issue in the repository or contact one of the project owners or contributors and ask them to update their README and any other relevant documentation.
+And remember, if you can't figure out how to get it running, that's probably not your fault --- there is likely something that needs to be updated, and that can be accomplished by reaching out in the [#dev channel](https://gsa-tts.slack.com/messages/C02CD5VUQ).
+Also you can file an issue in the repository or contact one of the project owners or contributors and ask them to update their README and any other relevant documentation.
 
 
 ### Markdown
@@ -146,7 +146,7 @@ especially if you haven't worked on information security before. Read the ["Secu
 If you're looking to go into greater detail,
 18F's [Before You Ship](https://before-you-ship.18f.gov/) guide is definitive and should answer any questions you have,
 but it can also be a little overwhelming.
-If you ever need a quick answer, clarification or just general Security and Compliance help, fill out the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) and selecting the option for a _New System (ATO/Architecture consult)_.
+If you ever need a quick answer, clarification or just general Security and Compliance help, reach out to the TTS Tech Portfolio in [#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S).
 
 If you hear "ATO" or "Authority to Operate" and are wondering what that's about,
 [Before You Ship](https://before-you-ship.18f.gov/) and the Security and Compliance

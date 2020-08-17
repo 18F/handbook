@@ -24,7 +24,7 @@ Our team helps other TTS teams with security, compliance, and technology best pr
 
 ### Obeying the law
 
-Rule #1 is if you don't see us doing something already, and you can't find express authorization to do it, please ask first as a _Generic Request_ in the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8). We promise to get you an answer quickly. For example, if there is software or hardware that chapters need to accomplish their mission or don't know how to get, hop into [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) and ask.
+Rule #1 is if you don't see us doing something already, and you can't find express authorization to do it, please ask first in Slack [#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S) or by email `devops@gsa.gov`. We promise to get you an answer quickly. For example, if there is software or hardware that chapters need to accomplish their mission or don't know how to get, hop into [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) and ask.
 
 ### Security
 
