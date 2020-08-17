@@ -1,68 +1,93 @@
 ---
-title: 18F Leadership Selection Playbook
+title: 18F Leadership Selection Guide
 ---
-This playbook is intended to capture what we've learned from selecting past 18F Supervisors and Team Leads and help you, future reader, avoid some pitfalls and remember some easy-to-forget nuances. Please feel free to iterate and experiment, but capture the results of those experiments for future selection rounds.
 
-##Week one
+This guide is meant to help us create an inclusive and equitable process for selecting 18F Supervisors and Team Leads.
 
-Create a nomination form in Google Forms. You can [copy an older example](https://docs.google.com/document/d/1LPQo-yuiabmRGxGtIPKbkq5jevDs8WUPvBuLqB5VQA4/edit) or just create one from scratch. Typically, this form has been very short and simple with just a few pieces of information:
+## Getting started
 
-* What position are you taking nominations for?
-* When do nominations close?
+1. Make sure you've gathered all the relevant information about the role: position description, a plain language version of the position description, specific tasks that will be required, what skills and mindsets are necessary for success in the role, how long the role is expected to last, and so on. The goal is to make sure everyone has a good idea of what you're asking for so they can understand whether they or their colleagues would be a good fit.
 
-With these form fields: 
+   Talent has a [template posting form](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit) for all internal opportunities. They can assist with any questions you might have.
 
-* Who is being nominated?
-* Why would they be good in the role?
-* Anything else to add (optional)
+2. Create a nomination form in Google Forms. You can [copy a template example](https://docs.google.com/forms/d/e/1FAIpQLSe69wRKtbqqG1sxilpfTN7MVSZU5JOOP_rT_AVmMOfBpAy74A/viewform) or just create one from scratch. Typically, this form has been very short and simple with just a few pieces of information:
 
-Be sure that the form is set to capture the email address of the nominator in case you need to follow up.
+   * What position are you taking nominations for?
+   * When do nominations close?
 
+   With these form fields:
 
-You'll want your deadline to be at least five days out. Longer is OK. Don't do anything shorter. Wrapping up nominations on end-of-day Friday is pretty convenient and easy to remember for everyone.
+   * Who is being nominated?
+   * Why would they be good in the role?
+   * Anything else to add (optional)
 
-Publicize the nomination form on Slack, to the appropriate email distribution list for your chapter or portfolio, and, if timing allows, any relevant newsletters or other communications media you can think of.
+   Be sure that the form is set to capture the email address of the nominator in case you need to follow up.
 
-Go ahead and create calendar holds now for several interviews the following week. You want to create these blocks now. Finding time on everyone's calendars will be tough. The sooner you have a hold in place, the easier it will be to find time convenient for everyone. Now's also a great time to schedule a calendar hold for the interview panel members to debrief and make their selection after interviews are complete.
+3. Set your deadline. Your deadline should be at least five business days out, preferably longer. For roles with formal applications (e.g., supervisors, chapter leads, etc.), your deadline should include a weekend. For roles that require submitting a government style resume, extend the deadline to allow people time to update their resumes and get feedback from friends. Scheduling deadlines for end-of-day Pacific Time Friday is pretty convenient and easy to remember for everyone.
 
-Remember time zones are a thing, and the open space on your calendar may be at 7 a.m. for your candidate. You don't know yet, so plan accordingly.
+   Submit [materials to Talent](https://handbook.tts.gsa.gov/hiring/#job-prep).
 
-You'll want at least three holds. You may need more, but three will be enough most times, and if you do need more, interviewing will probably go into the next week anyway.
+   Publicize the open position and nomination form on Slack in any relevant channels, to the appropriate email distribution list for your chapter or portfolio, and, if timing allows, any relevant newsletters or other communications media you can think of. Chapter all-hands meetings, guild office hours, and Team Coffee are great venues! Encourage people to nominate themselves or their colleagues.
 
-The calendar hold should be for at least 45 minutes (preferably an hour) and should usually include:
+4. Assemble an interview panel. Your interviewers should be present for each interview. The interview panel should usually include:
 
--   At least one, preferably two, Chapter Supervisors
+   * At least one, preferable two, chapter supervisors
+   * If you’re hiring a supervisor position, the chapter lead
+   * A representative from the diversity guild or a chapter diversity representative
 
--   If you're interviewing for a supervisor position, the chapter head
+   In some cases, you may also want to include a supervisor or director from another chapter. Reach out to people with relevant expertise to be on the interview panel.
+ 
+5. Go ahead and create calendar holds now for several interviews the following week. You want to create these blocks now. Finding time on everyone's calendars will be tough. The sooner you have a hold in place, the easier it will be to find time convenient for everyone. Now's also a great time to schedule a calendar hold for the interview panel members to debrief and make their selection after interviews are complete.
 
--   A representative from the diversity guild or a chapter diversity lead
+   Remember time zones are a thing, and the open space on your calendar may be at 7 a.m. for your candidate. You don't know yet, so plan accordingly.
 
-In some cases, you may want to include a supervisor or director from another chapter as well.
+   You'll want at least three holds. You may need more, but three will be enough most times, and if you do need more, interviewing will probably go into the next week anyway.
 
-Whoever you include, be sure to have the same interviewers present for each interview, and to keep all the interview times equal.
+   The calendar hold should be for at least 45 minutes (preferably an hour) and be sure to keep all the interview times equal.
 
-Toward the end of the week, make sure to make at least one additional call for nominations. You cannot over-publicize.
+   Toward the end of the week, make sure to make at least one additional call for nominations. You cannot over-publicize.
 
-##Week two
+6. Put together the questions your panelists will cover in interviews. We already have question banks for most roles, so look there first.
 
-As you learn who the candidates are, send out the actual calendar invites to replace the holds.
+### What you have now
 
-Be sure all candidates and interviewers have a copy of the Position Description, a general description of the role, and a copy of the questions they may be asked. These are all in Google Drive somewhere. Hopefully you already know where.
+When you’ve finished all of the above steps, here’s what you should have at your fingertips:
 
-Before the interviews, create a private Slack channel or DM group for the interview panel to capture quick thoughts, and a Google doc to collaboratively capture notes in. Be sure to share both with all the interviewers.
+* Position description and plain-language description of the role
+* A nomination form
+* A deadline
+* An interview panel
+* Calendar holds for interviews
+* A question bank
 
-##Making the selection
+## Nominating people
 
-After completing all the interviews, convene your interview panel one more time to make the selection. You should have consensus. If you don't, listen to the minority voice in the conversation, especially if they're saying "no".
+Self-nomination is great for people who don’t mind promoting themselves, but not everyone feels comfortable with self-promotion. Relying solely on self-nomination is inequitable because it disadvantages people who come from cultural backgrounds that promote modesty or only receiving recognition through the work done rather than self-promotion. To help ensure leadership roles are accessible to everyone, we must also nominate or encourage people to apply.
 
-As your going over the candidates, go ahead and fill out the [Talent Selection Spreadsheet](https://docs.google.com/spreadsheets/d/1EN3iLUmmDQ4iX5k-AsDsUPUd_igrEy3BEtlIs5KM59w/edit#gid=0). You'll need it once you've made your selection.
+If you want to nominate or “nudge” someone to apply, first think carefully about why you want to nominate them. Look at the position description and role responsibilities, and think about specific, concrete ways you believe the person will be successful. If someone is not well-suited for a particular role, don’t nominate them just because they’re your friend or you admire them, and certainly not just because they are from a community that is currently underrepresented in leadership.
 
-###Once you've made your selection:
+## Evaluating candidates
 
-1.  If you're selecting a supervisor or director, you should let the Chief of Practices and the Talent team know who you've selected. In both cases, most times it's just a courtesy, but if there are any problems with the selection, they can tell you before you proceed.  Talent is going to want the selection spreadsheet you created. And remember, **the Talent team must be notified as soon as possible whenever a person is moving onto a supervisory PD**.
+For candidates who did not self-nominate, first ask them if they're interested in the role. Then let them and self-nominators know that you’re moving to the next step, which will be sending interview meeting invites.
 
-2.  Notify the people who were not selected.
+At this point, you can replace your calendar holds with actual invites with the interview panel and the people you'll be talking to. Include links to the position description and interview question bank in the calendar invite so it’s easy to find. Also include a general description of the role in the invite description. **Make these invites private**: that is, not viewable to everyone. Those participating may not want others outside the panel to know they’re interviewing.
 
-3.  Notify the person who was selected.
+Be sure all candidates and all interviewers have a copy of the Position Description, a general description of the role, and a copy of the questions they may be asked. These are all in Google Drive somewhere. Hopefully you already know where. If not, go find it now.
 
-4.  Make public announcements.
+Before talking to candidates, create a private Slack channel or DM group for the interview panel to capture quick thoughts, and a Google doc to collaboratively capture notes in. A private Slack channel is a good choice because you can add folks later if necessary and they can see the historical context (e.g., if someone from Talent needs to be included). Be sure to share both with all the interviewers.
+
+## Making the selection
+
+After completing all the interviews, let candidates know interviews have finished and tell them when they should expect a decision. Convene your interview panel one more time to make the selection. You should strive for consensus. If you don’t have consensus, pay extra attention to the voices who are “no-hire” because they may be picking up on something no one else is. Also make sure voices from underrepresented communities are being heard – having panelists do an [unconscious bias refresher](https://handbook.tts.gsa.gov/unconscious-bias/) prior to the panel meeting may help to make sure everyone has an equal voice. 
+
+As you’re going over the candidates, go ahead and fill out the [Talent Selection Spreadsheet](https://docs.google.com/spreadsheets/d/1EN3iLUmmDQ4iX5k-AsDsUPUd_igrEy3BEtlIs5KM59w/edit#gid=0). You'll need it once you've made your selection.
+
+### Once you've made your selection:
+
+1. Connect with the Talent team and let them know who you've selected. Talent is also going to want the selection spreadsheet you created and pool of people you selected from. And remember, **the Talent team must be notified as soon as possible whenever a person is moving onto a supervisory PD**.
+
+2. Notify the person who was selected and give them a chance to accept or decline. If they decline, the panel should reconvene to select someone else or reopen the competition. Also let the Talent team know that your selection has declined.
+
+3. Notify the people who were not selected and offer a debrief session with the interview panel or a representative to discuss what areas they may have been lacking in or areas for future growth so they could grow into the role. Encourage them to apply again and let them know that not getting the role is not a personal failure nor will it be held against them in the future. And thank them for applying! It’s stressful and vulnerable and we appreciate people putting themselves through that to take on leadership roles.
+
+4. Make public announcements.
