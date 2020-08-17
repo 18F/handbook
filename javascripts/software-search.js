@@ -135,6 +135,7 @@ const init = async () => {
     // use the search value from the URL
     const hash = location.hash.replace(/^#/, "");
     input.value = decodeURIComponent(hash);
+    doSearch(input.value, index, softwareByName);
   }
 
   const software = await getSoftware();
@@ -151,8 +152,6 @@ const init = async () => {
     // perform search once the user has paused typing
     debounce(async () => doSearch(input.value, index, softwareByName), 1000)
   );
-
-  doSearch(input.value, index, softwareByName);
 };
 
 if (typeof module === "object") {
