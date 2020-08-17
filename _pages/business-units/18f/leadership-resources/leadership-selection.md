@@ -19,7 +19,7 @@ This guide is meant to help us create an inclusive and equitable process for sel
 
    * Who is being nominated?
    * Why would they be good in the role?
-   * Anything else to add (optional)?
+   * Anything else to add? (optional)
 
    Be sure that the form is set to capture the email address of the nominator in case you need to follow up.
 
