@@ -382,6 +382,10 @@ primary:
                 internal: true
           - text: 18F team resources
             children:
+              - text: Leadership Selection Guide
+                url: leadership-selection/
+              - text: Leadership Candidate Guide
+                url: leadership-candidate-guide/
               - text: Before you ship
                 url: https://before-you-ship.18f.gov/infrastructure/aws/
                 internal: false
