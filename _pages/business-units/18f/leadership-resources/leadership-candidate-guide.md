@@ -24,7 +24,7 @@ Before nominating someone, first think carefully about why you want to nominate 
 
 ## Evaluation
 
-You should get a message shortly after the competition closes. It could take a couple of days! If you were nominated by someone else, you’ll be asked if you’re interested in the role. You’re not obligated to interview just because someone nominated you, but if your colleagues believe you’ll be good for the rold, you are more than welcome to continue if you want! The evaluation process of an interview and looking at your nomination form. Everyone who applies or is nominated and wishes to be considered will be interviewed before a decision is made.
+You should get a message shortly after the competition closes. It could take a couple of days! If you were nominated by someone else, you’ll be asked if you’re interested in the role. You’re not obligated to interview just because someone nominated you, but if your colleagues believe you’ll be good for the role, you are more than welcome to continue if you want! The evaluation process of an interview and looking at your nomination form. Everyone who applies or is nominated and wishes to be considered will be interviewed before a decision is made.
 
 ## Selection
 
