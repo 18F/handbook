@@ -90,4 +90,6 @@ As you’re going over the candidates, go ahead and fill out the [Talent Selecti
 
 3. Notify the people who were not selected and offer a debrief session with the interview panel or a representative to discuss what areas they may have been lacking in or areas for future growth so they could grow into the role. Encourage them to apply again and let them know that not getting the role is not a personal failure nor will it be held against them in the future. And thank them for applying! It’s stressful and vulnerable and we appreciate people putting themselves through that to take on leadership roles.
 
-4. Make public announcements.
+4. If it's a supervisory PD (supervisors, directors), make sure Talent's ready for the announcement to go public. This ensures all coordination with GSA HR is complete.
+
+5. Make public announcements.
