@@ -28,7 +28,7 @@ This page contains additional resources and trainings for employees who are goin
     * How To Set Effective Goals
     * Aligning Individual and Organizational Goals
     * Managers Guide For Developing Effective Performance Plans
-    * Preparing for an Effective Midyear & End of Year Performance Discussion with Your Supervisor
+    * Preparing for an Effective Midyear & End of Year Performance Conversation with Your Supervisor
     * Soliciting Feedback From Your Manager and Peers
     * Employee Guide for Writing a Self-Assessment
     * Supervisors Award Guide

@@ -19,9 +19,6 @@ exclude:
   - test
   - vendor
 
-styles:
-  - stylesheets/screen.css
-
 scripts:
   - assets/uswds/js/uswds.min.js
   - javascripts/jquery-3.5.1.min.js

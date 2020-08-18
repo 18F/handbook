@@ -37,12 +37,11 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Monday, August 31st
 
-- [18F Account Manager](https://www.usajobs.gov/GetJob/ViewDetails/574773400) - open Wednesday, July 29th through Tuesday, August 11th
+- [CoE Innovation Adoption Lead](https://join.tts.gsa.gov/join/innovation-adoption-lead/) - open Monday, August 17th through Friday, August 28th
 
 
 ### Internal only opportunities
 
-- [Biz-Ops Agreements Supervisor](https://docs.google.com/document/d/1mt0xd6hjl6roV4zfUoEn9r77wG3N6FYwssBzOFnPRs0/edit?usp=sharing) - open Monday, August 3rd through Friday, August 7th
 
 ## Opportunities with partners
 

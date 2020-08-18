@@ -76,19 +76,17 @@ To initiate either plan, reach out to [Jim Mulvaney](mailto:james.mulvaney@gsa.g
 
 #### Verifying your direct reports
 
-**FY20 Audit:** Once the TTS reorg has been completed, the Performance Management team will communicate to Supervisors to do a new audit of their Direct Reports in HR Links by following the instructions in the [FY20 Direct Report Audit Survey](https://forms.gle/oLtit3o2MLsSUonx5).
+In preparation for the FY20 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in the [FY20 Direct Report Audit Survey](https://forms.gle/oLtit3o2MLsSUonx5).
 
-In preparation for the FY20 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in the FY20 Direct Report Audit Survey.
+All supervisors should complete the FY20 audit by COB September 25th, so please fill out the above survey if you have not yet.
 
-All supervisors should complete the FY20 audit by COB September 24th, so please fill out the above survey if you have not yet.
-
-#### 1 on 1 performance discussion
+#### 1 on 1 performance conversation
 
 This meeting is an opportunity to rate, recognize and give your direct report constructive feedback (formal or informal) regarding the results of their work within the established expectations, goals, and objectives outlined in the performance plan.  
 
 ***See below for how to prepare for this meeting.***
 
-#### Preparing for 1 on 1 performance discussion
+#### Preparing for 1 on 1 performance conversation
 
 Gather emails, written performance counseling, customer feedback, survey results, supervisory notes, database/spreadsheets, and/or work samples about the employee’s performance that you observed within the current rating cycle. Prepare feedback for your direct reports that's backed with specific data points and examples, regardless of whether it will be constructive criticism or praise. When providing constructive criticism, it is recommended that you have clear examples of the desired behavior.
 
@@ -107,10 +105,10 @@ Here’s a pre-feedback checklist you may want to consider:
 
 For instances when a direct report is not assigned to their first line supervisor in HR Links or their supervisor doesn't have HR Links manager access, there are two primary options for the first line supervisor to be able to contribute to the evaluation:
 
-1. The first line supervisor should have a 1:1 performance discussion with their direct report and then email their evaluation to the second line supervisor who will [submit the evaluation]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-an-evaluation) in HR Links on the first line supervisor's behalf.
+1. The first line supervisor should have a 1:1 performance conversation with their direct report and then email their evaluation to the second line supervisor who will [submit the evaluation]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-an-evaluation) in HR Links on the first line supervisor's behalf.
   * ***NOTE: If the employee has submitted a self-assessment in HR Links, the second line supervisor should email or print a copy for the first line supervisor to review prior to the 1:1 meeting.***
 
-1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management-hrlinks-steps/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 discussion.
+1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management-hrlinks-steps/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 conversation.
   * ***NOTE: The nominated supervisor's feedback is not automatically included as a comment in the employees performance review. HR Links creates a separate document, so it is recommended that the second line supervisor cuts and paste the feedback into the summary comments.***  
 
 #### Approving/Denying a level 1 or level 5 summary performance rating
@@ -133,21 +131,13 @@ A supervisor may need to approve an employee performance plan or employee evalua
 
 #### Leveraging diversity performance measure
 
-All FY20 **supervisory performance plans** must include a new “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/11U0zRK8_o2bA7dRSC9AhabBd8Qpwpr0o7gudzdCJKsE/edit?ts=5db85e63) and/or attend a Supervisor's Lounge session (see below).
+All FY21 **supervisory performance plans** must include the “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit#heading=h.7ki5n23m5zhy).
 
 ### Additional training
 
 #### Supervisors’ Lounge Question and Answer Sessions
 
-These sessions will feature a demo showing how to incorporate organizational measures into the performance plan. Both sessions will go over the same content, so Supervisors can attend either one.  The links below lead to OLU where you can sign up for a session:
-
-[Thursday, October 3rd, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394131%26fromSF%3dY&company=GSAHCM03)
-
-[Thursday, October 31st, 1-2pm EST](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dSCHEDULED%5fOFFERING%5fDETAILS%26scheduleID%3d394132%26fromSF%3dY&company=GSAHCM03)
-
-* Engage and share knowledge with peers in the [Supervisors’ Lounge Private Chatter Group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93000000016Zo).
-
-* Watch previously recorded Supervisors’ Lounge Question & Answer Sessions, located in the [Group Files](https://gsa.my.salesforce.com/_ui/core/chatter/content/GroupFileListPage?g=0F93000000016Zo).
+Information will be updated when sessions are set.
 
 #### [HR Links Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems)
 

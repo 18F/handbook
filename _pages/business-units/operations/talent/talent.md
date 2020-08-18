@@ -4,15 +4,34 @@ title: Talent
 
 TTS Talent attracts the most passionate, talented individuals from across the public and private sectors, offering them unique professional development opportunities, top-notch customer service, and fulfilling, impactful work that transforms how the public interacts with the government.
 
-## Talent Team Mission
+While the name might be misleading, the Talent Team is primarily focused on talent acquisition/hiring and onboarding, whereas the People Ops team is focused on assisting current employees with issues related to benefits, performance management, and learning and development opportunities.
 
-To cultivate an organization full of highly talented and engaged staff who are provided the opportunity to deliver high impact public service.
+## Talent Team Overview
+**Our Mission** <br>
+To cultivate an organization full of highly talented and diverse staff who are provided the opportunity to deliver high impact public service.
+How We Work
+We are a team that works collaboratively, transparently and vulnerably. Where everyone has a role to play but success is not determined by an individual’s output, it is determined by the whole team delivering on the mission.  
 
-To empower the organization with the means and information to fully utilize the capabilities of its people to help government agencies meet their mission and better serve the public.
+**Team Values**
+- Teamwork
+- User-Centric, iterative & agile
+- Measureable & data driven
+- Open by default
+- Be great to work with
+- Innovative Solutions
+
+**FY2020 Key Objectives**
+1. Acquire the people that TTS needs to deliver on the work to transform the Federal Government
+2. Set the bar for candidate experience within the Federal Government
+3. Attract and hire well-qualified candidates who reflect the diversity of the general public 
+
+**Our Commitment to DE&I** <br>
+We acknowledge that we can do better as a team and as an organization when it comes to attracting and hiring talent from underrepresented backgrounds. In Summer 2020, we launched a [MVP for Improving Diversity, Equity and Inclusion](https://docs.google.com/document/d/1E1F84W8werC12RVdLp4-8OLZFgI0d2sVDIo7SYe3Z_I/edit#) in our hiring process. We are committed to continuing to iterate and improve on our strategy.
+
 
 ## Referring a person
 
-Many leads for great candidates come through our current employees. Ideally, these referrals should come directly to Talent rather than to the team/managers/supervisors. We try to keep all mentions of who knows who and who recommends who away from the team/managers/supervisors who are involved in hiring so they can stay impartial. This helps ensure that candidates make it through the process on their own merits.
+Many leads for great candidates come through our current employees. Ideally, **these referrals should come directly to Talent rather than to the team/managers/supervisors**. We try to keep all mentions of who knows who and who recommends who away from the team/managers/supervisors who are involved in hiring so they can stay impartial. This helps ensure that candidates make it through the process on their own merits.
 
 We accept varying levels of leads including: 
 
@@ -34,7 +53,9 @@ To see what positions we're hiring for, take a look at our [Join TTS](https://jo
 
 ## Applying to open positions
 
-Candidates should apply to open positions [here](https://join.tts.gsa.gov/).
+External candidates should apply to open positions [here](https://join.tts.gsa.gov/).
+
+Internal candidates can find opportunities via #tts-jobs in Slack or in the Handbook on the [Announcements page](https://handbook.tts.gsa.gov/ttsjobs/#announcements).
 
 ## How to get in touch
 
@@ -42,17 +63,6 @@ Candidates should apply to open positions [here](https://join.tts.gsa.gov/).
   * [#hiring](https://gsa-tts.slack.com/messages/hiring/)
 * Email:
   * [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team. Also use this email if you'd like to submit an internal competition announcement for our review and for all hiring and onboarding related questions.
-
-## What we do
-
-* **Talent Acquisition:** We help identify, target, and attract talented, diverse candidates to apply to TTS.
-* **Talent Engagement:** We partner with our hiring managers to execute hiring actions and guide candidates from job preparation through selection.
-* **Talent Analytics and Strategy:** We utilize data to continuously improve the Talent Team’s work-systems and ensure that we are doing so in an agile and sustainable way.
-* **Talent Onboarding:** We are responsible for the development, management, and implementation of the TTS Onboarding program.
-
-
-
-
 
 
 ---
