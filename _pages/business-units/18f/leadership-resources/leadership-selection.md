@@ -23,7 +23,7 @@ This guide is meant to help us create an inclusive and equitable process for sel
 
    Be sure that the form is set to capture the email address of the nominator in case you need to follow up.
 
-3. Set your deadline. Your deadline should be at least five business days out, preferably longer. For roles with formal applications (e.g., supervisors, chapter leads, etc.), your deadline should include a weekend. For roles that require submitting a government-style résumé, extend the deadline to allow people time to update their résumés and get feedback from friends. Scheduling deadlines for end-of-day Friday (Pacific Time) is convenient and easy to remember.
+3. Set your deadline. Your deadline should be at least five business days out, preferably longer. For roles with formal applications (e.g., supervisors, chapter leads, etc.), your deadline should include a weekend. For roles that require submitting a government-style résumé, extend the deadline to allow people time to update their résumés and get feedback from friends/colleagues/mentors. Scheduling deadlines for end-of-day Friday (Pacific Time) is convenient and easy to remember.
 
    Submit [materials to Talent](https://handbook.tts.gsa.gov/hiring/#job-prep).
 
