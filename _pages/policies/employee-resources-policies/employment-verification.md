@@ -22,7 +22,7 @@ Employment can be verified by calling GSA Payroll at Customer Service Help Desk 
 
 All GSA employees that need employment verification must go through "The Work Number" by following the steps in [this document](https://www.gsa.gov/cdnstatic/Work_Number_Employment_Verification_Instructions.pdf).  For the [Agency Employer Code](https://www.gsa.gov/cdnstatic/Listing_of_The_Work_Number_Company_Codes_for_GSA_and_Client_Agencies.pdf), use **10536** for GSA.
 
-Requests for employment verification are often made during the home buying process. -->
+Requests for employment verification are often made during the home buying process.
 
 ## Income verification
 
