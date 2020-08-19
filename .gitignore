@@ -4,3 +4,4 @@
 .jekyll*
 .sass-cache/
 _site/
+node_modules/

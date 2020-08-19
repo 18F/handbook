@@ -1,5 +1,17 @@
 version: 2.1
 jobs:
+  js_test:
+    docker:
+      - image: node:14
+    steps:
+      - checkout
+      - run:
+          name: Install dependencies
+          command: npm install
+      - run:
+          name: Run tests
+          command: npm test
+
   build:
     working_directory: ~/handbook
     docker:
@@ -46,3 +58,10 @@ jobs:
       - run:
           name: check for broken links
           command: bundle exec htmlproofer ./_site htmlproofer --disable-external
+
+workflows:
+  version: 2
+  all:
+    jobs:
+      - js_test
+      - build
