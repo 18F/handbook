@@ -29,7 +29,8 @@ You do not need to justify time off, but (except for unexpected events or emerge
 2.  Email <mailto:ca-schedule@civicactions.net> requesting the time and explain your plan for coverage as discussed with your PM & team.
 3.  When the time off is approved, your manager will simply "reply-all" to your original email and add it to Harvest's Forecast tool.
 4.  Then the admin will put it on the Master Out of Office Calendar.
-5.  Lastly, follow the [procedure for logging time off](../04-how-we-work/tools/harvest.md).
+5.  Remind your team members about your upcoming time off during your daily stand ups leading up to your out of office time.
+6.  Lastly, follow the [procedure for logging time off](../04-how-we-work/tools/harvest.md).
 
 ## Sick Time Off
 
