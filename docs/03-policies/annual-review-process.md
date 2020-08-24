@@ -18,3 +18,7 @@ After the retrospective is done, the reviewee chooses 1-2 Improvements and 1-2 R
 If a team member is feeling uncomfortable about this process we encourage them (and everyone) to prioritize going to the reviews they are invited to, in order to see first hand how it works, and to get practice on giving feedback. We also will do coaching on giving and receiving feedback in an open way.
 
 [> Annual Retrospective Template](https://trello.com/b/Lpz7sc8d/template-name-annual-retrospective)
+
+## When it happens
+
+This retrospective is conducted once per year near the team member's initial start date.
