@@ -76,7 +76,7 @@ CivicActions IT services provide a number of general user accounts. This include
 
 Usage of CivicActions user accounts should be as follows:
 
-- Usage must be directly related to your work with CivicActions - personal use (including personal projects) must be approved in advance by the CIO.
+- Usage must be directly related to your work with CivicActions - personal use (including personal projects) must be approved in advance by the CTO.
 - Use in any way harmful to CivicActions or our clients is forbidden.
 - Storing confidential personal information from client website users (for example CSV exports from CiviCRM) on internal collaboration systems should be avoided wherever possible, especially on 3rd party services such as Google Docs.
 - Confidential information (other than personal information) should only be stored in areas restricted by access control, such as the project management area.
@@ -161,7 +161,7 @@ Web administrator access to websites, working on source code, and access to serv
 
 Usage of CivicActions developer accounts should be as follows:
 
-- Usage must be directly related to your work with CivicActions - personal use (including personal projects) must be approved in advance by the CIO.
+- Usage must be directly related to your work with CivicActions - personal use (including personal projects) must be approved in advance by the CTO.
 - Use in any way harmful to CivicActions or our clients is forbidden.
 
 Web administrator account holders (Drupal, CiviCRM or other) must also:
@@ -188,7 +188,7 @@ Developers and themers working on the site codebase (and committing code to Git)
   - Session hijacking, prevented by using SSL and correct site/session settings.
   - Data disclosure, prevented by carefully setting and testing access control, as well as using SSL as needed.
   - Password guessing attacks, mitigated by using strong passwords.
-- Avoid inclusion of any software not licensed under an approved CivicActions open source license on a project without prior approval from the legal team.
+- Software that is not licensed under an approved CivicActions open source license may not be used on a project without prior approval from the legal team.
 
 The project technical lead (or a designated lead engineer/lead themer or peer-review process) is responsible for reviewing all new/modified code each sprint, and ensuring it meets a high standard of quality.
 
@@ -198,15 +198,15 @@ Developers and themers maintaining local sandbox copies of client sites must als
 - Ensure that unsanitized mysql data (extracted via mysqldump or phpmyadmin) is not downloaded from the server to a local sandbox.
 - Ensure that all confidential data associated with a project (such as databases, database dumps and other files) are securely deleted from their system(s) when leaving or completing a project.
 
-Developers and themers working on the site vhost (SSH/shell, file system, database) must also:
+Developers and themers working on the site server instance (SSH/shell, file system, database) must also:
 
 - Follow best practices with respect to SSH keys, passphrases and passphrase caching (see above).
-- Access the server only by routes (e.g. SSH, SFTP, SCP) configured by designated admins. Access by password, manually installed SSH keys (other than by admins), web based "shell" script, port forwarding to 3rd parties or other methods are forbidden, unless authorized in advance by the CIO.
+- Access the server only by methods (e.g. SSH, SFTP, SCP) configured by designated admins. Access by password, manually installed SSH keys (other than by admins), web based "shell" script, port forwarding to 3rd parties or other methods are forbidden, unless authorized in advance by the CTO.
 - Restrict SSH port forwarding to temporary use for the purpose of accessing the server MySQL from your own desktop.
 - Prefer the initiation of SSH connnections from CivicActions servers to 3rd party servers, avoiding the reverse as much as possible.
-- Obtain prior approval from a member of the IT team before running non-standard software on a vhost. This includes:
+- Obtain prior approval from a member of the IT team before running non-standard software on a server instance. This includes:
   - Daemons (persistent, long running processes)
-  - Binary software (compiled on the vhost or elsewhere)
+  - Binary software (compiled on the server instance or elsewhere)
   - Web accessible scripts/CGIs that do not use solely an established framework
 - Inform the IT team as soon as possible if unusual resource usage is anticipated, so that we can monitor resource utilization and ensure backup processes run correctly. This can include high traffic events, large data/media file uploads or high CPU/RAM usage (e.g. during large imports).
 
