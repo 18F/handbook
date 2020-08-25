@@ -6,7 +6,7 @@ This guide is meant to help us create an inclusive and equitable process for sel
 
 ## Getting started
 
-1. Make sure you've gathered all the relevant information about the role: position description, a plain language version of the position description, specific tasks that will be required, what skills and mindsets are necessary for success in the role, how long the role is expected to last, and so on. The goal is to make sure everyone has a good idea of what you're asking for so they can understand whether they or their colleagues would be a good fit.
+1. Make sure you've gathered all the relevant information about the role: job description, a plain language version of the position description, specific tasks that will be required, what skills and mindsets are necessary for success in the role, how long the role is expected to last, and so on. The goal is to make sure everyone has a good idea of what you're asking for so they can understand whether they or their colleagues would be a good fit.
 
    Talent has a [template posting form](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit) for all internal opportunities. They can assist with any questions you might have.
 
@@ -26,7 +26,8 @@ This guide is meant to help us create an inclusive and equitable process for sel
 3. Set your deadline. Your deadline should be at least five business days out, preferably longer. For roles with formal applications (e.g., supervisors, chapter leads, etc.), your deadline should include a weekend. For roles that require submitting a government-style résumé, extend the deadline to allow people time to update their résumés and get feedback from friends/colleagues/mentors. Scheduling deadlines for end-of-day Friday (Pacific Time) is convenient and easy to remember.
 
    Submit [materials to Talent](https://handbook.tts.gsa.gov/hiring/#job-prep).
-
+    *Note Talent will publicize the position on #tts-jobs and on the [TTS Jobs Hanbook page](https://handbook.tts.gsa.gov/ttsjobs/)
+    
    Publicize the open position and nomination form on Slack in any relevant channels, to the appropriate email distribution list for your chapter or portfolio, and, if time allows, any relevant newsletters or other communications media you can think of. Chapter all-hands meetings, guild office hours, and Team Coffee are great venues! Encourage people to nominate themselves or their colleagues.
 
 4. Assemble an interview panel. Your interviewers should be present for each interview. The interview panel should usually include:
@@ -48,6 +49,7 @@ This guide is meant to help us create an inclusive and equitable process for sel
    Toward the end of the week, be sure to make at least one additional call for nominations. You cannot over-publicize.
 
 6. Put together the questions your panelists will cover in interviews. We already have question banks for most roles, so look there first.
+  * Talent is putting together a Supervisory Interview Guide that all should be used for all Supevisory roles. That will be finalized soon.
 
 ### What you have now
 
