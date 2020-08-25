@@ -101,7 +101,7 @@ Remember, you're asking for a substantial commitment of organizational resources
         </td>
         <td>
           Jeff Durland - 18F<br>
-          [ VACANT ]
+          Ryan Johnson - 18F
         </td>
       </tr>
       <tr>
