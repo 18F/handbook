@@ -24,7 +24,7 @@ Our team helps other TTS teams with security, compliance, and technology best pr
 
 ### Obeying the law
 
-Rule #1 is if you don't see us doing something already, and you can't find express authorization to do it, please ask first in Slack [#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S) or by emailing `devops@gsa.gov`. We promise to get you an answer quickly. For example, if there is software or hardware that chapters need to accomplish their mission or don't know how to get, hop into [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) and ask.
+Rule #1 is if you don't see us doing something already, and you can't find express authorization to do it, please [ask the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions). We promise to get you an answer quickly. If there is software that chapters need to accomplish their mission or don't know how to get, see the [Software]({{site.baseurl}}/software/) page.
 
 ### Security
 
@@ -48,7 +48,7 @@ This brings us to Rule #3: You cannot spend a single penny, or create the expect
 
 There are some things that you might have been used to doing outside of government that you cannot do now.
 
-You cannot use or deploy to whatever third party tool you want without asking in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) or by submitting a [Google App Script Approval Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdOCtxCaSKJC87CedZW1FKGspMvnRzyOauMvKIOfrSV7PBdag/viewform) .
+You cannot use or deploy to whatever third party tool you want without [asking the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions) or by submitting a [Google App Script Approval Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdOCtxCaSKJC87CedZW1FKGspMvnRzyOauMvKIOfrSV7PBdag/viewform) .
 
 If you're an engineer of any kind, the most important part of your job in the government at the moment is **security.** If you're building anything, a good place to start is [18F's security standards](https://pages.18f.gov/before-you-ship/security/).
 
@@ -70,4 +70,4 @@ TTS Ops focuses on what would normally be considered the "back office" financial
 
 ---
 
-Ask in Slack: [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)
+[Get in touch]({{site.baseurl}}/tech-portfolio/#questions)

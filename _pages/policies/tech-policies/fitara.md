@@ -68,4 +68,4 @@ TTS issued policy effective February 28, 2017, implementing the policy and proce
 
 #### Still have questions?
 
-Ask in Slack: [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)
+[Ask the Tech Portfolio.]({{site.baseurl}}/tech-portfolio/#questions)

@@ -46,4 +46,4 @@ We're open and excited to hear [(anonymous) feedback](https://docs.google.com/fo
 
 ## Questions
 
-Find us in Slack in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/), email us at [devops@gsa.gov](mailto:devops@gsa.gov), or [file an issue](https://github.com/18F/tts-tech-portfolio/issues/new).
+Find us in Slack in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) or email us at [devops@gsa.gov](mailto:devops@gsa.gov).
