@@ -9,16 +9,16 @@ tags:
 - supervisor resources
 ---
 
-This page contains additional resources and trainings for supervisors who are going through the performance management process.  Visit the Quick Links section of the [Performance Management Overview]({{site.baseurl}}/performance-management/) page for the Performance Management Employee Checklist.  
+This page contains additional resources and trainings for supervisors who are going through the performance management process.  Visit the Quick Links section of the [Performance Management Overview]({{site.baseurl}}/performance-management/) page for additional resources, including the [Performance Management Employee Checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=160010559) which Supervisors can use to track the progress of their own performance reviews.  
 
 ## Supervisor resources
 
-### [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250)
+### Supervisor performance management checklist
 
 * Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of FY20 performance reviews and to help establish FY21 performance plans.
   * *NOTE: Items highlighted in green are particularly important steps*
 
-### Guidance
+### GSA Performance Management Resources
 
 #### [InSite](https://insite.gsa.gov)
 
@@ -36,19 +36,12 @@ This page contains additional resources and trainings for supervisors who are go
     * Additional Guidance For Special Acts
     * Supervisors Award Guide
     * A Guide To Provide Meaningful Recognition
-* [Support for developing the employee's performance plan](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/resources/performance-plans)
-    * [Standard performance plan templates](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/resources/performance-plans) are available for some occupations/grades.  
-    * For entry level positions (GS-5 through GS-9) not covered by the standard plans, follow the instructions to incorporate GSA's common core critical elements into the plan.  
 
 #### [HR Links](https://hrlinks.gsa.gov/)
 
 * [Technical HR Links assistance](https://corporateapps.gsa.gov/hr-links/support/)
-
-* Instructions if you receive the error message "The document could not be created as the employee is not hired yet. Please contact your system administrator to check the Job record to make sure employee is hired before period begin date of the document.":
-  *The rating period begin must be set after the hire date in HR Links.  It is recommended that the supervisor copy the overall performance comments into HR Links because the comments will then populate on Form 3440 to support the overall rating*
-
-* [HR Links](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2018/05/HRT2T-HR-Links-Module-24-Performance-Management-for-Supervisors_FINAL_v2.docx): Guide for entering all components of a performance review into HR Links
-* To learn more about the specifics of the bargaining agreements, refer to [AFGE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/american-federation-of-government-employees-national-agreement) or the [NFFE bargaining unit contract](https://insite.gsa.gov/topics/hr-pay-and-leave/labormanagement-relations/national-federation-of-federal-employees-national-agreement).
+  * Instructions if you receive the error message "The document could not be created as the employee is not hired yet. Please contact your system administrator to check the Job record to make sure employee is hired before period begin date of the document."
+    * *Note: The rating period begin must be set after the hire date in HR Links.  It is recommended that the supervisor copy the overall performance comments into HR Links because the comments will then populate on Form 3440 to support the overall rating*
 
 #### Discussing performance expectations with a new direct report
 
