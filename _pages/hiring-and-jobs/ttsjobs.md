@@ -39,6 +39,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [CoE Innovation Adoption Lead](https://join.tts.gsa.gov/join/innovation-adoption-lead/) - open Monday, August 17th through Friday, August 28th
 
+- [OA Procurement Analyst](https://www.usajobs.gov/GetJob/ViewDetails/575852300) - open Tuesday, August 11th through Monday, August 17th
+
 
 ### Internal only opportunities
 
