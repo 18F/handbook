@@ -12,7 +12,7 @@ Our team helps other TTS teams with security, compliance, and technology best pr
 
 - TTS Tech Portfolio is not just for engineers; it fundamentally shapes how we work.
 - If you're an engineer of any kind, the most important part of your job in the government is security. Start here.
-- If you're not sure you can do something, please ask first as a _Generic Request_ in the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8). We promise to get you an answer quickly.
+- If you're not sure you can do something, please ask first. We promise to get you an answer quickly.
 
 ### What you’ll learn
 
@@ -32,7 +32,7 @@ You've probably heard about the [Office of Personnel Management (OPM) data breac
 
 The most important part of your job is security. 18F has its own [security standards](https://pages.18f.gov/before-you-ship/security/) around the software we develop. Be sure to [secure your Macbook]({{site.baseurl}}/equipment/#laptop) and be sure [FileVault](https://support.apple.com/en-us/HT204837) is turned on.
 
-Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please use the [TTS Tech Portfolio General Request Form](https://forms.gle/wPrCXJqDgaksXRwV8) to submit a _3rd Party Integration Approval (Slack/Github)_ request.
+Take care when connecting applications to each other. While such connections can provide workflow conveniences, they also open us up to security violations. Often times this is an OAuth integration. Before connecting applications together, for example enabling a Slack-to-Google Docs plugin, please contact the Tech Portfolio.
 
 ### The public interest
 
