@@ -16,7 +16,7 @@ All leadership role searches will have a deadline. That deadline should be a min
 
 When a role is announced, it should be accompanied by a nomination form that will include asking for your name, a few words about why you think you’d be successful in the role, and any additional notes you may want to add. If you can’t find the nomination form, reach out to the hiring manager or guild leaders (depending on the sort of role), or the 18F Chief of Staff.
 
-When describing why you’d be successful in the role, try to link your experiences with the position description, required tasks, skills and mindset, and so on that are included in the role description. Be kind to and generous with yourself when considering your experiences, and don’t sell yourself short! We’d prefer you overestimate the relevance of your experiences for a particular role than to underestimate yourself and deprive us of your leadership!
+When describing why you’d be successful in the role, try to link your experiences with the job description, required tasks, skills and mindset, and so on that are included in the role description. Be kind to and generous with yourself when considering your experiences, and don’t sell yourself short! We’d prefer you overestimate the relevance of your experiences for a particular role than to underestimate yourself and deprive us of your leadership!
 
 ### Nominating someone else
 
