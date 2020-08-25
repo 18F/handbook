@@ -5,7 +5,10 @@ navtitle: Microrequests
 
 ## What is a microrequest?
 
-A microrequest is a piece of carefully scoped work that can be completed quickly and without impacting the ability to complete other assigned work. This typically translates to fewer than eight hours of work in a week, and requests that should take no more than three weeks. Requests which require more resources than this will be handled on a case-by-case basis and may be handed off to the 18F staffing team or Business Development pipeline.
+A microrequest is a piece of carefully scoped work that can be completed quickly and without impacting the ability to complete other assigned work. This typically translates to fewer than eight hours of work in a week, and requests that should take no more than three weeks. Requests which require more resources than this will be handled on a case-by-case basis and may be handed off to the 18F staffing team or Business Development pipeline. 
+
+## Is your request billable?
+If so, direct your request to #microrequests channel. If your tasks is non-billable, post it in #helpwanted.
 
 ## What capabilities can be extended through the microrequest process?
 
