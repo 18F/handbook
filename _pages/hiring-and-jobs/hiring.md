@@ -30,7 +30,7 @@ Please note:
 
 - There must be a vacant Position Number available for your team (or PN that will soon become vacant - if this is replacing a current employee in the position being advertised)
   - If you do not know how many vacancies your team has, please reach out to the Finance team
-- The role must be prioritized by the Director of your office 
+- The role must be prioritized by the Director of your office
 
 The hiring action owner is responsible for developing job materials and interacting with applicants (employees).
 Talent will assist with the following:
@@ -80,7 +80,6 @@ The hiring team is responsible for confirming that applicants meet the qualifica
 - been on their current PD for at least 90 days
 - must hold the same grade level as the PD or have at least one year of specialized experience at the next grade below
   - if applicant is at the grade below, they will need to provide an updated resume and HR will need to qualify them. **This means Supervisors should NOT announce who they have selected until HR approves the selection**
-- if the role being advertised is a detail and does not have a PD associated with it, then any GS level can apply, unless the hiring manager specifies which GS levels they are accepting.
 
 #### Selection
 
@@ -89,7 +88,7 @@ When the team has determined who they would like to place in the role, they must
 - First confirm with the employee’s supervisor that they are OK with this employee moving to their team
 - Forward the supervisor's approval to Talent at this email: [jointts@gsa.gov](mailto:jointts@gsa.gov). Talent will need to submit a Reassignment PAR to HR.
 
-It is the responsibility of the hiring manager provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
+It is the responsibility of the hiring manager to provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
 
 **If you are advertising a detail:** the action can only be submitted for a time period of no more than 120 days. The detail can then be extended for another 120 days if the hiring manager and the employee’s supervisor agree to extend.
 
