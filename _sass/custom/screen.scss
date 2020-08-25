@@ -5,7 +5,8 @@ blockquote {
   font-style: italic;
 }
 
-a.button[href^="https://gsa-tts.slack.com"]::before {
+a.button[href^="https://gsa-tts.slack.com"]::before
+{
   display: none;
 }
 
@@ -104,3 +105,45 @@ img.travel-guide-hide {
 /* @end */
 
 /* @end */
+
+.usa-table tbody {
+  font-size: 1rem;
+
+  th {
+    font-weight: bold;
+  }
+
+  // corresponding to USWDS alert colors
+  // https://github.com/uswds/uswds/blob/f761763c66399fe63800f22cc17c228b2c46b097/src/stylesheets/components/_alerts.scss#L7-L12
+  .status-proposed,
+  .status-pilot,
+  .status-exception {
+    th,
+    td {
+      background-color: color("info-lighter");
+    }
+  }
+  .status-approved {
+    th,
+    td {
+      background-color: color("success-lighter");
+    }
+  }
+  .status-denied {
+    th,
+    td {
+      background-color: color("error-lighter");
+    }
+  }
+  .status-sunsetting {
+    th,
+    td {
+      background-color: color("warning-lighter");
+    }
+  }
+}
+
+// ensure tables are horizontally scrollable
+section {
+  overflow-x: scroll;
+}

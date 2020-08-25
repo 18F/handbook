@@ -144,8 +144,8 @@ GSA HR is helpful from an overall GSA policy standpoint, and can help point you 
 
 **Contact**  
 
- > Octavia Johnson  
- > octavia.johnson@gsa.gov
+ > James Mulvaney  
+ > james.mulvaney@gsa.gov
 
 ### Office of Civil Rights
 

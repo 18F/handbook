@@ -8,7 +8,7 @@ If you need to purchase more expensive software, see [procurements over $10,000]
 
 ## Get access to software we already have
 
-Check the [GEAR, IT Standards list](https://ea.gsa.gov/#!/applications) (must be on GSA wireless or [VPN]({{site.baseurl}}/virtual-desktop)) to ensure the software you need is currently approved by GSA IT.
+[**Search the IT Standards list.**]({{site.baseurl}}/software/search/)
 
 If the software you are looking for is in the [TTS inventory](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), send an email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) requesting a license for the software you need. The TTS Saas Project Manager will contact you within 1-2 business days.
 
@@ -24,17 +24,21 @@ _Note: If you're looking for MS Office, see [this page]({{site.baseurl}}/office/
 
 ## Purchase new software
 
-If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio requests that you first submit a [GSA IT Help Desk ticket](https://servicedesk.gsa.gov), you can also start a ticket by emailing `itservicedesk@gsa.gov` and provide us with the ticket number in Slack [#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S) or by email `devops@gsa.gov`.
+Here at TTS, we want to stay current and take advantage of as many emergign technologies as possible. We believe that getting the software you need to do your job should be difficult, time-consuming or stressful. If the software is not in the TTS inventory or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio will work with you to meet your needs as best as possible
 
-### Step 1: find or get an ATO
+### Step 1: Request within TTS
 
-An Authority to Operate (ATO) is similar to an expiration date. It describes the date through which software is approved to use and is issued by GSA IT. An ATO is needed to ensure the software you are requesting is secure and meets the Government’s security standards. To check for an ATO, you need to go to [GEAR, IT Standards list](https://ea.gsa.gov/#!/itstandards) (aka Salesforce). _Note: you will need VPN to view the list._
+If you haven't already used the [TTS Tech Portfolio Software Request Form](https://forms.gle/w3MqKNMmLj1vbpWv8) to get a _New Software (consult)_ please do so.
 
-If the software you are purchasing has a valid ATO listed in GEAR, then you can proceed with the rest of the process. You should save a copy of the ATO to your desktop so you can attach it to the request later.
+Please ensure that your justification in the Google Form is detailed, so it can be used to request FITARA approval.
 
-If the ATO is expired or you cannot find it in GEAR, you can post in the Slack channel [#gsait-shared](https://gsa-tts.slack.com/messages/gsait-shared/) to ask if there is an updated ATO. If there is no ATO or the ATO is expired, you will need to go through the ATO process to ensure your software is approved by security. You can follow these steps to [submit a new software for ATO](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/software-and-applications/software-downloads-and-requests/it-standards). The ATO process can take 4-6 weeks and [costs money](https://docs.google.com/spreadsheets/d/1PokRIGaGl04sxMxEHGwMIRaJDx4OPEXpJ7g69ekDdz8/edit#gid=1451563242z) and there is no guarantee it will be approved. If your need is urgent, try to find something in [GEAR, IT Standards](https://ea.gsa.gov/#!/itstandards) list that is already approved and meets your needs.
+### Step 2: find or get an ATO
 
-### Step 2: If you haven't already submit a [GSA IT Help Desk ticket](https://servicedesk.gsa.gov) and provide the Tech Portfolio with the ticket number in Slack [#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S) or by email `devops@gsa.gov`.
+An Authority to Operate (ATO) is the result of the Assessment and Authorization process where someone (the Authorizing Official) accepts the risk as it pertains to cybersecurity. The ATO typically has certain conditions (such limiting use of certain data, needing to be on a VPN, etc) and as long as the software is used under those conditions, the Authorizing Official accepts the risk. Based on the nature of changing threat landscap, ATOs have an expiration date and will need to be assessed again before a new authorization is issued.
+
+To check for an ATO, you need to go to [GEAR, IT Standards list](https://ea.gsa.gov/#!/itstandards) (aka Salesforce). _Note: you will need VPN to view the list._ If the software you are purchasing has a valid ATO listed in GEAR, then you can proceed with the rest of the process. You should save a copy of the ATO to your desktop so you can attach it to the request later.
+
+If the ATO is expired or you cannot find it in GEAR, you can post in the Slack channel [#tts-tech-portfolio](https://gsa-tts.slack.com/messages/tts-tech-portfolio/) to ask if there is an updated ATO. If there is no ATO or the ATO is expired, you will need to go through the ATO process to ensure your software is approved by security. The ATO process can take 4-6 weeks and [costs money](https://docs.google.com/spreadsheets/d/1PokRIGaGl04sxMxEHGwMIRaJDx4OPEXpJ7g69ekDdz8/edit#gid=1451563242z) and there is no guarantee it will be approved. If your need is urgent, try to find something in [GEAR, IT Standards](https://ea.gsa.gov/#!/itstandards) list that is already approved and meets your needs.
 
 ### Step 3: [Submit a micropurchase request.]({{site.baseurl}}/purchase-requests/)
 
