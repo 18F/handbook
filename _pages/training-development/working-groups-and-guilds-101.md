@@ -14,7 +14,7 @@ A working group is a group of people working together to investigate a particula
 
 Working groups are usually started by a handful group of people who recognize a problem, then recruit like-minded souls willing to help find a solution. Usually, but not always, the problem is localized to just one part of TTS. Once solved, the working group winds down.
 
-Because working groups are typically trying to solve a problem *right now* starting a working group is relatively simple: Just be able to articulate the problem you want to solve, then have a chat with your org leadership. Typically, that will be your Chief of Staff, Chief of Practices or Deputy Director, depending on which part of TTS you're in. They'll want to talk to you about whether it's a problem the organization is willing to commit resources to solving right now, and may connect you with other people already working on similar issues.
+Because working groups are typically trying to solve a problem *right now* starting a working group is relatively simple: Just be able to articulate the problem you want to solve, then have a chat with your org leadership. Typically, that will be your Chief of Staff or Deputy Director, depending on which part of TTS you're in. They'll want to talk to you about whether it's a problem the organization is willing to commit resources to solving right now, and may connect you with other people already working on similar issues.
 
 Most working groups will create a Slack channel to coordinate efforts. These channels should have a `wg-` prefix. Feel free to jump into any of these channels you see to participate or ask questions.
 
