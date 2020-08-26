@@ -16,6 +16,6 @@ You can change your name by following these steps:
 1. Select Navigator > Self Service > Personal Information
 1. Select Name Change (USF)
 1. Enter your preferred name and attach the necessary document.
-1. Wait up to 24 hours for the changes to take effect.
+1. Wait up to 5 business days for the changes to take effect. You will receive an automated email from HR links stating that it has been submitted.
 
 If you have trouble with this process, you can open a [GSA IT Help Desk]({{ site.baseurl }}/gsa-internal-tools/#it-service-desk) ticket for assistance.
