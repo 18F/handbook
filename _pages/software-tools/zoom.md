@@ -46,4 +46,4 @@ Per the `User Action Required for Zoom Usage` email on 4/13/20:
 
 ## Questions?
 
-[Reach out to paul.h.powell@gsa.gov, tennille.spence@gsa.gov, and joseph.augustino@gsa.gov](mailto:paul.h.powell@gsa.gov,tennille.spence@gsa.gov,joseph.augustino@gsa.gov) for help.
+[Reach out to webmeetings@gsa.gov](mailto:webmeetings@gsa.gov) for help.
