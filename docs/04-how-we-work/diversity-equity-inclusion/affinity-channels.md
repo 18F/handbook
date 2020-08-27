@@ -13,6 +13,7 @@ List of all affinity channels and who the moderator is for each channel are belo
 - `#ca-lgbtq2aplus` (private, Grace): A space for members of the queer community to have connect!
 - `#rainbow` (open): A space to have conversations related to the LGBTQ2+ community. Allies welcome!
 - `#blackpeopleinaction` (private, Winifred): A safe space for Black people to have conversations that are open, frequent, authentic, and relevant.
+- `#civicasians (private, Kim): A space for team members who identify as Asian to connect
 
 Regional Groups:
 
