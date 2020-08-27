@@ -18,7 +18,7 @@ That project became [18F](https://18f.gsa.gov/) when the office officially launc
 TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offices:  
 
 - **18F** provides digital development and consulting services for any government agency or program, with a focus on cultural transformation and empowerment of the agencies they work with. A critical part of 18F’s mission is to teach agencies new digital skills during projects so that the agencies can take over continued development.
-- **The Office of Products and Programs (OPP)** helps agencies improve delivery of information and services to the public. Responsible for operations, evolution, and scaling of mature products and services such as USA.gov, Data.gov, Challenge.gov and the Digital Analytics Program.
+- **Solutions** helps agencies improve delivery of information and services to the public. Responsible for operations, evolution, and scaling of mature products and services such as USA.gov, Data.gov, Challenge.gov and the Digital Analytics Program.
 - **The Centers of Excellence (CoEs)** implements IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation. 
 - **The Presidential Innovation Fellowship (PIF)**  is a year-long fellowship that pairs talented, diverse technologists and innovators with top civil-servants and change-makers in the federal government to tackle some of our nation’s most pressing technology challenges.
 - **Office of Acquisition** drives smarter technology procurement through technical procurement consultations, new procurement vehicle creation, and the development of experimental procurement platforms and methodologies.
