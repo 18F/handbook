@@ -9,7 +9,7 @@ tags:
 
 ## Certificate errors
 
-When trying to access various `.mil` sites, you will get a certificate error. Follow [these instructions](https://www.gsa.gov/cdnstatic/SecurityCertificateError_FAITAS.pdf) to solve the issue.
+When trying to access various `.mil` sites, you will get a certificate error. Follow [these instructions](https://public.cyber.mil/pki-pke/end-users/getting-started/cross-cert-chaining/) to solve the issue.
 
 ## System Authorization Access Request (SAAR)
 
