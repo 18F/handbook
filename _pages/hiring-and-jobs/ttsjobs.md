@@ -44,7 +44,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-- [18F Executive Director](https://docs.google.com/document/d/1XkFCOVzPTRzaPHzVGLIP51OxwJPqXcjbrj2UkMHuSaM/edit#heading=h.h91fwyiygl4s) - open Friday, August 21st through Friday, August 28th
+
 
 ## Opportunities with partners
 
