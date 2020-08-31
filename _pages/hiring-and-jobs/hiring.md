@@ -13,7 +13,7 @@ To learn about the different hiring authorities we use please visit our [hiring 
 
 ## Hiring Manager Guide
 
-Hiring Managers at crucial to filling workforce needs within TTS and to ensuring that diversity, equity and inclusion are top of mind throughout the hiring process.  A [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit) was created to outline the hiring process from role prioritization through onboarding, with information from the Talent team as well as tips and best practices from seasoned TTS hiring managers. 
+Hiring Managers are crucial to filling workforce needs within TTS and to ensuring that diversity, equity and inclusion are top of mind throughout the hiring process.  A [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit) was created to outline the hiring process from role prioritization through onboarding, with information from the Talent team as well as tips and best practices from seasoned TTS hiring managers. 
 
 ## Types of hiring actions at TTS
 
