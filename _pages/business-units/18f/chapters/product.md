@@ -77,7 +77,7 @@ The product chapter communicates primarily in Slack. 18f-product@gsa.gov is a lo
 ### Tools
 [The TTS handbook lists the tools we use the most.]({{site.baseurl}}/#software-and-tools) If you can’t find what you need, reach out in the [#product](https://slack.com/app_redirect?channel=product) or talk to your supervisor.
 
-Before you start using any new tool, please see the [Software]({{base.baseurl}}/software/) page.
+And one more thing: before you start using any new tool that asks for access to files/browser data, see the [Software]({{base.baseurl}}/software/) page and assure the tool is approved. If what you want to use isn’t there or not approved, you’ll need to ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. 
 
 Here are a few particularly useful essentials:
 
