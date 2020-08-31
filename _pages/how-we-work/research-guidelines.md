@@ -63,7 +63,7 @@ Be especially mindful about using Slack during interviews for sidebar conversati
 Carefully restricting access to personally identifiable information is a matter not just of people's right to respect but of their right to [privacy](https://methods.18f.gov/privacy/). For more information, please see the [Design research privacy impact assessment (PIA)](https://www.gsa.gov/cdnstatic/20200401_-_Design_Research_PIA_for%20posting.pdf), or [this 30-minute overview of privacy as it relates to research](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4) narrated by the GSA Privacy Office.
 
 
-**Bottom line: If you have questions about sharing information, just ask.** If you're not sure if you're collecting PII or need help with policy guidance, you can ask on Slack in [#g-research](https://gsa-tts.slack.com/archives/g-research). If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can post a question to [#infrastructure](https://gsa-tts.slack.com/archives/infrastructure).
+**Bottom line: If you have questions about sharing information, just ask.** See the page on [sensitive information]({{site.baseurl}}/sensitive-information/). If you're not sure if you're collecting PII or need help with policy guidance, you can ask on Slack in [#g-research](https://gsa-tts.slack.com/archives/g-research). If you are not sure where the right place might be to store any given file, or what access permissions to grant, you can [ask the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions).
 
 
 ## Join the research guild!

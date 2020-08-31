@@ -30,4 +30,4 @@ You should receive a reply from the SaaS (Software as a Service) Manager after y
 
 **If you cannot find Microsoft Office on your computer after you download:** Click on each link separately for Microsoft Word, Excel, Powerpoint, and they will download individually. You will have to sign in or create an account each time you download. This should install the applications you need on your computer.
 
-If you have any questions, please ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure).
+If you have any questions, please [ask the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions).

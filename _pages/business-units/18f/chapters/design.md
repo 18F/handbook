@@ -94,7 +94,7 @@ Most of the design team works on a mix of partner-agency projects and internal i
 
 Here are some common tools we use, how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
-And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. If what you want to use isn’t there, you’ll need to ask in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
+And one more thing: before you start using any new tool that asks for access to files/browser data, see the [Software]({{base.baseurl}}/software/) page and assure the tool is approved.
 
 #### Drawing lines on a screen
 

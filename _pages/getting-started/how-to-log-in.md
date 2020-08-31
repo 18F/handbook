@@ -62,4 +62,4 @@ To learn how to connect to the GSA network on campus and remotely, take a look a
 
 #### Still have questions?
 
-Ask in [#it-issues](https://gsa-tts.slack.com/messages/questions/), [#distributed](https://gsa-tts.slack.com/messages/distributed/) or ping [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure)
+Ask the [Service Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk).
