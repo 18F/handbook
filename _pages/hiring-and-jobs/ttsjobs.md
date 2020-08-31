@@ -44,9 +44,9 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-- [CoE Cloud and Infrastructure Optimization Supervisor](https://docs.google.com/document/d/1DcH08gKK1o2XDo1wsWPGev9R2bo5lpjq_EXuD4EQgEw/edit#) - open Monday, August 31st through Friday, September 11th
+- [CoE Cloud and Infrastructure Optimization Supervisor](https://docs.google.com/document/d/1LI1J3YWmgw_lbp2h2eUIqYFrFL7tj7Ee-Sy2GjJjUJU/edit) - open Monday, August 31st through Friday, September 11th
 
-- [CoE Data/Analytics/Artificial Intelligence Supervisor](https://docs.google.com/document/d/1cr-vBJANGtZbBRJMuabz3YKy1_7wdPsncUUSqnyeB1I/edit#) - open Monday, August 31st through Friday, September 11th
+- [CoE Data/Analytics/Artificial Intelligence Supervisor](https://docs.google.com/document/d/14rIGD9FnMg7nJM5dLdGcqRjZuXjSyGN7NL8I11KCqAk/edit#) - open Monday, August 31st through Friday, September 11th
 
 ## Opportunities with partners
 
