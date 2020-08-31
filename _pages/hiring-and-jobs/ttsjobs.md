@@ -48,6 +48,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [CoE Data/Analytics/Artificial Intelligence Supervisor](https://docs.google.com/document/d/1cr-vBJANGtZbBRJMuabz3YKy1_7wdPsncUUSqnyeB1I/edit#) - open Monday, August 31st through Friday, September 11th
 
+- [USWDS Accelerator Detail Opportunity Announcement](https://docs.google.com/document/d/1LabVf89fnCf4sTzoay1vaz9-2MgXKkfiZZaSelTJXh0/edit#) - open Monday, August 31st through Thursday, September 10th
+
 ## Opportunities with partners
 
 
