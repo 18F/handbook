@@ -10,7 +10,7 @@ The offering of Office for Mac 2016 licenses from GSA has been on-again-off-agai
 
 ## Requesting a license
 
-**_It is not currently possible to install Office for Mac 2016 on machines without admin rights. The Tech Portfolio is looking into paths forward._**
+**_It is not currently possible to install Office for Mac 2016 on machines without [admin rights]({{site.baseurl}}/equipment/#admin-rights). The Tech Portfolio is looking into paths forward._**
 
 To request a Microsoft Office license for your Mac, please **send an email to <tts-software@gsa.gov> with a short explanation of why you need Office rather than using G Suite**.
 

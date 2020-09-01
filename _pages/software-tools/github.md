@@ -106,7 +106,7 @@ Here's our current process to address both operational and security concerns:
 1. In the "Description" of the team, put something reasonable plus a point-of-contact email address for the collaborators.
    - Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops.
 1. (Ask #admins-github to) [add the members to the team](https://help.github.com/articles/maintaining-teams/).
-1. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
+1. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to TTS staff.
 
 When the engagement is over, you must let [#admins-github](https://gsa-tts.slack.com/messages/admins-github) know so the team can be deleted and access removed.
 
