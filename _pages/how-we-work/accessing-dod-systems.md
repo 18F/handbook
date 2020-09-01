@@ -7,13 +7,15 @@ tags:
 - system-access
 ---
 
-## Overview
+## Certificate errors
+
+When trying to access various `.mil` sites, you will get a certificate error. Follow [these instructions](https://public.cyber.mil/pki-pke/end-users/getting-started/cross-cert-chaining/) to solve the issue.
+
+## System Authorization Access Request (SAAR)
 
 For TTS staff working on an engagement with a Department of Defense (DoD) or Intelligence Community (IC) partner, you will likely need to complete a [System Authorization Access Request (SAAR) form](https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2875.pdf) to gain access to the partner's network and systems.
 
 This form will need to be e-signed by both you and your supervisor using either a DOD CAC (preferred), PIV provided by GSA, or as a last resort with [Docusign]({{site.baseurl}}/digital-signatures/), but you will need to ensure fields #21 and #22 remain editable for DOD to edit by assigning someone to update the fields.
-
-## Steps for completing a SAAR Form
 
 You will indicate on this form the date when you your completed annual cybersecurity training. Since the form is not specific, you should indicate the date of your most recent [GSA cybersecurity training]({{site.baseurl}}/olu/). 
 
