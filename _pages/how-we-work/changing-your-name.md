@@ -4,7 +4,7 @@ title: Changing your name
 
 TTS does our best to make everyone feel welcome. During the onboarding process, we can't always ensure that your preferred name is reflected in all of GSA's systems. You can update your records so that people who look at your name on emails and in Google Meet are reminded to use the name that makes you most comfortable.
 
-## Changing your name in across GSA
+## Changing your name across GSA
 
 You can change your name by following these steps:
 
@@ -17,5 +17,7 @@ You can change your name by following these steps:
 1. Select Name Change (USF)
 1. Enter your preferred name and attach the necessary document.
 1. Wait up to 5 business days for the changes to take effect. You will receive an automated email from HR links stating that it has been submitted.
+1. Once your name has been updated in GCIMS via HRLinks, you can submit a GSA IT Help Desk to update your google account.
 
 If you have trouble with this process, you can open a [GSA IT Help Desk]({{ site.baseurl }}/gsa-internal-tools/#it-service-desk) ticket for assistance.
+
