@@ -106,30 +106,18 @@ If TTS-issued equipment is lost or stolen, follow these mandatory steps. Employe
 
 ### Access card
 
-Cross-posting from [InSite](https://insite.gsa.gov/topics/safety-and-security/access-cards-and-real-id/access-cards-new-lost-or-stolen-cards):
-
-> 1. _Immediately_ report the lost or stolen card to the [IT Service Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk) to complete a security incident report.
-> 1. Report the loss to your supervisor (employees) or Contracting Officer/COR (contractors).
-> 1. [Complete the Lost Card Form](https://insite.gsa.gov/cdnstatic/insite/Lost_and_or_Stolen_GSA_PIV_Card_Form.docx) and have signed by Branch Chief or Division Director (employees) or CO/COR (contractors)
-> 1. Send the completed form to Regional OMA POC or Central Office HSSO POC.
-> 1. Await your replacement card
+See [InSite page](https://insite.gsa.gov/employee-resources/safety-and-security/background-investigation-access-card-process/gsa-access-card/report-lost-or-stolen-gsa-access-card).
 
 ### Other
 
-_Adapted from the [GSA-wide steps](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/report-stolen-equipment)._
-
 For lost work laptops, phones, etc., do the following as quickly as possible:
 
-1. Contact the [IT Service Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk).
-   - An agent will create a ticket and initiate the process of wiping data off any stolen mobile device or laptop.
-1. Call 911 or a local police station when you suspect theft has occurred. Provide as much information as possible.
-   - Keep a copy of the police report.
+1. Follow the [GSA-wide steps](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/report-stolen-equipment).
 1. Inform your team.
    - Your access to various systems may need to be temporarily removed.
 1. Inform [#equipment](https://gsa-tts.slack.com/messages/equipment).
-1. Contact the [Federal Protective Service (FPS)](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/report-stolen-equipment#FPS%20Contacts).
-1. Contact your [Regional Information Systems Security Officer (ISSO)](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/report-stolen-equipment#RISSO%20Contacts).
-1. If your equipment is returned to you, it may have been tampered with and should not be used. Return the equipment to GSA IT so they can inspect it, and if necessary, re-image it.
+
+If your equipment is returned to you, it may have been tampered with and should not be used. Return the equipment to GSA IT so they can inspect it, and if necessary, re-image it.
 
 ## Requirements for passwords
 
