@@ -17,14 +17,14 @@ We have a fairly flat structure, so feel free to contact anyone who you think ca
 
 ## Main Listservs
 
-- Team-wide communication: <mailto:ca-team@civicactions.net>
-- Request time off: <mailto:ca-schedule@civicactions.net>
-- HR Notices: <mailto:ca-employees@civicactions.net>
-- Engineering: <mailto:ca-dev@civicactions.net>
-- Project Management: <mailto:ca-pm@civicactions.net>
-- Sales: <mailto:ca-bizdev@civicactions.net>
-- Marketing: <mailto:ca-marketing@civicactions.net>
-- Events: <mailto:ca-events@civicactions.net>
+- Team-wide communication: <mailto:ca-team@civicactions.com>
+- Request time off: <mailto:ca-schedule@civicactions.com>
+- HR Notices: <mailto:ca-employees@civicactions.com>
+- Engineering: <mailto:ca-dev@civicactions.com>
+- Project Management: <mailto:ca-pm@civicactions.com>
+- Sales: <mailto:ca-bizdev@civicactions.com>
+- Marketing: <mailto:ca-marketing@civicactions.com>
+- Events: <mailto:ca-events@civicactions.com>
 - Every project has its own listserv, for example:
-  - <mailto:projectname@civicactions.net> (includes clients)
-  - <mailto:projectname-int@civicactions.net> (includes only CivicActions staff)
+  - <mailto:projectname@civicactions.com> (includes clients)
+  - <mailto:projectname-int@civicactions.com> (includes only CivicActions staff)
