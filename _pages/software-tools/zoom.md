@@ -17,7 +17,7 @@ GSA offers [Zoom for Government](https://zoomgov.com/).
 
 ### For meetings longer than 40 minutes
 
-You can check [your Zoom profile](https://gsa.zoomgov.com/profile) to see your user type and meeting capacity. [Ask](#questions) to be upgraded to a [Licensed user](https://support.zoom.us/hc/en-us/articles/201363173-Account-Types#usertype).
+You can check [your Zoom profile](https://gsa.zoomgov.com/profile) to see your user type and meeting capacity. [Submit a Service Now request](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=ee54c0881b665410b1f620eae54bcbc7) to be upgraded to a [Licensed user](https://support.zoom.us/hc/en-us/articles/201363173-Account-Types#usertype).
 
 ## Rules
 
