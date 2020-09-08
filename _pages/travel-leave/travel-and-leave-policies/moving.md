@@ -129,16 +129,14 @@ If you’re changing regions, your pay will likely change. Look up your new pay 
 ***Do not proceed to Step 2 until you have confirmed with TTS People Ops that you are moving within the same city and your pay will not be changing***
 
 2. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/corporateapps/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).***
-
-  - After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options, select this one).
-  - In the upper right corner of your HR Links screen is a compass icon. That is your NavBar. Click that.
-  - Select Navigator > Self Service > Personal Information > Address Change
-  - Click edit address, make your change, and submit
-  - Click submit on main address page and you'll see a confirmation page pending approval of your address change
+   * After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options, select this one).
+   * In the upper right corner of your HR Links screen is a compass icon. That is your NavBar. Click that.
+   * Select Navigator > Self Service > Personal Information > Address Change
+   * Click edit address, make your change, and submit
+   * Click submit on main address page and you'll see a confirmation page pending approval of your address change
     
 3. Once you submit the request in HR links, please email marya.robinson@gsa.gov who will confirm your submission went through.  Please also work with Mary to ***update any necessary tax documents***.
-
-  - If your duty location change is to a new state, or to a city with locality tax, Mary will guide you to fill out the appropriate forms ([IRS Tax Documents](https://www.irs.gov/tax-professionals/government-sites)), and submit them to the National Payroll Branch at kc-payroll.finance@gsa.gov.
+   * If your duty location change is to a new state, or to a city with locality tax, Mary will guide you to fill out the appropriate forms ([IRS Tax Documents](https://www.irs.gov/tax-professionals/government-sites)), and submit them to the National Payroll Branch at kc-payroll.finance@gsa.gov.
 
 4. Contact your health insurance, dental insurance, and any other insurances you may have and let them know about your address change. You will also need to verify that your insurance will be valid in your new location or you will need to change it. Contact GSA HR at [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) if you have any questions.  
 
