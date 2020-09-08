@@ -19,7 +19,6 @@ Most of GSA's internal tools are accessible via our Agency's intranet [Insite](h
 | [Employee Express](#employee-express)            | To view your paystub, change your withholdings, or change your address                                                                                     | Employee Express username and password |
 | [HR Links](#hr-links)                            | To request/document leave and access your personnel file online                                                                                            | ENT on GSA Wireless or VPN             |
 | [IT Service Desk](#it-service-desk)              | General IT questions about Employee Express and other passwords (Note: They may not support requests for Macs, but will support requests for GSA websites) | ENT username and password              |
-| [Meeting Space](#meeting-space)                  | To reserve your own conference call line                                                                                                                   | ENT username and password              |
 | [Online University (OLU)]({{site.baseurl}}/olu/) | To take mandatory trainings for federal employees                                                                                                          | ENT username and password              |
 
 ### Browser requirements
@@ -84,18 +83,6 @@ If you have any issues with a GSA-maintained system or website, you'll need to c
 - Email them at [itservicedesk@gsa.gov](mailto:itservicedesk@gsa.gov)
 
 They are available 6am-9pm ET. If you need to reset your ENT password, follow [these instructions]({{ "/how-to-log-in/#changing-your-ent-password" | relative_url }}).
-
-## Meeting Space
-
-[GSA Meeting Space (a.k.a. Adobe Connect)](https://insite.gsa.gov/topics/information-technology/do-it-yourself-self-help/online-meetings/meeting-space-adobe-connect) can be used to create an online conference or a conference line. To create a call line:
-
-1. Go to [`My Profile → My Audio Profiles`](https://meet.gsa.gov/admin/my-profile/tele-profiles).
-2. On the left hand side click `Intercall Audio Profile` to select it.
-3. The right hand side of the screen will display the Intercall Audio Profile information that includes the conference code, leader pin, and conference phone number information. It'll look greyed out, but that's okay unless you want to edit it---for example, to change the PIN---if so, the edit button is at top right of that panel.
-
-`My Audio Profile` is the only place that you will find the PIN needed to start any audio call outside of the meeting room.
-
-That's it: your conference number is permanent! Yours to keep, forever. And when you need to use your conference number, you _do not_ need to schedule a meeting in Meeting Space. You just dial in with the leader code, and the number will be active for others using the participant code.
 
 ## Office supplies
 

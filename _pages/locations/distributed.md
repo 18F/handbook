@@ -86,7 +86,6 @@ From Peter Karman and Becky Sweger:
 - **GSA can also provide a wireless keyboard and a mouse.** If you're in need of extra equipment, just ask. Hop into [#equipment](https://gsa-tts.slack.com/messages/equipment/) on Slack.
 - **A standing desk is critical for your health.** Folks in the [#distributed](https://gsa-tts.slack.com/messages/distributed/) channel are always happy to discuss their various standing desk hacks or purchases.
 - **Make sure you can connect to the GSA network remotely.**
-- **GSA's Meeting Space isn't blocked by [most] firewalls.** I've (Becky) had trouble with other tools in the past, and GSA Meeting Space (powered by Adobe Connect) has universally worked for calls and screen sharing with clients.
 
 ## Keeping in touch
 
