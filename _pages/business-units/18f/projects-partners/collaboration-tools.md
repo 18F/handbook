@@ -46,10 +46,7 @@ Here are some common barriers to using Slack with partners and workarounds to tr
 
 ### Video conferencing
 
-Video conferencing tools enable staff all over the country to video chat and screenshare in remote meetings. We've found that video calls help teams stay connected and are easier to manage than conference calls for large groups. [Options offered by TTS.]({{site.baseurl}}/meetings-and-meeting-tools/)
-
-- [Meeting Tools handbook page]({{site.baseurl}}/meetings-and-meeting-tools/)
-- Video Conferencing @ TTS – Internal Guide _(coming soon)_
+Video conferencing tools enable staff all over the country to video chat and screenshare in remote meetings. We've found that video calls help teams stay connected and are easier to manage than conference calls for large groups. [Options.]({{site.baseurl}}/meetings-and-meeting-tools/#videoconferencing)
 
 <details markdown="block">
 <summary>Compliance and records considerations</summary>
@@ -62,16 +59,7 @@ Video conferencing tools enable staff all over the country to video chat and scr
 Here are some common barriers to using these tools with partners and some workarounds to try:
 
 - **IF** partners don't have access to video/cameras, **THEN** use audio only with screen-sharing.
-- **IF** blocked by firewall/security issues, **THEN** see if they have access to Skype, Webex, Adobe Connect, or Whereby.com.
-- **IF** all videoconferencing tools are blocked, **THEN** [create a conference call line using GSA Meeting Space]({{site.baseurl}}/gsa-internal-tools/#meeting-space).
-
-<details markdown="block">
-<summary>Other video teleconferencing services to consider or ask your partner about</summary>
-
-- **Cisco Webex**
-- **Skype**
-- **BlueJeans**
-</details>
+- **IF** blocked by firewall/security issues, **THEN** see if they have access to a different tool. See [using partners' tools](#using-partners-tools).
 
 ### Sharing files
 
@@ -226,7 +214,7 @@ Here are some recommendations for how to level up our partners' skills:
 
 ## Using partners' tools
 
-Per the [IT Standards policy](https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile), section 2(e):
+Per the [IT Standards policy](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>), section 2(e):
 
 > Collaboration with another agency through software or cloud services which they use for managing non-GSA data (either data owned by that agency or public data) does not require security or Section 508 compliance review, as that responsibility is assumed by the providing agency.  Other policies which may restrict the use of GSA Enterprise Accounts or the release of GSA-owned data may still apply.
 
