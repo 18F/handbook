@@ -47,6 +47,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [USWDS Accelerator Detail Opportunity Announcement](https://docs.google.com/document/d/1LabVf89fnCf4sTzoay1vaz9-2MgXKkfiZZaSelTJXh0/edit#) - open Monday, August 31st through Thursday, September 10th
 
+- [18F Director of Business Development Detail Opportunity](https://docs.google.com/document/d/1nujtD6jtf5YEDRFIEdOfh40SdluLgs5zXe0Ug1fHsWs/edit#) - open Thursday, September 10th through Friday, September 25th
+
 ## Opportunities with partners
 
 
