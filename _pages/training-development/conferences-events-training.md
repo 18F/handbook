@@ -35,6 +35,8 @@ Any media requests (like news or podcast interviews) are a separate process — 
 
 If the event that you're attending is being hosted virtually, please review the [TTS Virtual Events guidance](https://docs.google.com/document/d/1YrDs9PA8HkfLkhSfOfyJnLjAYcTkV6_vHlU7HBoyi0k/edit#heading=h.d6kk6wkyrvzf) for important considerations and tips.
 
+***NOTE: If you are attending a free virtual event and will NOT be speaking, you do not need to fill out the Event Request Google Form above.  Please just discuss in advance with your Supervisor if you will be attending during work hours.***  
+
 ## Approval timelines
 
 The review and approval process times vary by the type of request and the layers of approval required.  It is best to submit your [training request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) as early as possible.
