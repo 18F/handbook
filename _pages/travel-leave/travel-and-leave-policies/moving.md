@@ -18,11 +18,15 @@ tags:
 - FTT
 ---
 
-Full-time Telework Arrangements are required for TTS employees who do not work at least 2 days a pay period in one of the TTS Offices (DC, Chicago, NYC, or San Francisco) or, in rare cases, an approved GSA office.  The instructions below will help guide you through determining if/when you need a full-time telework arrangement (FTTA), how to fill out the analysis tool and get the necessary signatures, and then how to submit it in HR Links for Supervisor approval.  
+Full-time Telework Arrangements are required for TTS employees who do not work at least 2 days a pay period in one of the TTS Offices (DC, Chicago, NYC, or San Francisco) or, in rare cases, an approved GSA office.  The instructions below will help guide you through how to initiate the moving process, determining if/when you need a full-time telework arrangement (FTTA), how to fill out the analysis tool and get the necessary signatures, and then how to submit it in HR Links for Supervisor approval.  
 
 ***Full-time telework arrangements will need to be re-submitted in HR Links annually for approval and will need to be updated to account for any significant changes***
 
-## What you need to do based on where you're moving 
+## How to start the process if you plan to move
+
+If you are thinking about moving, please get approval from your Supervisor via email and forward it to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) as soon as possible.  TTS People Ops will provide guidance on how to proceed.  The information below provides supporting guidance on how to fill out paperwork and make critical updates that may or may not apply to you based on your situation. 
+
+## What you need to do based on where you're moving   
 
 If you need to move or submit a new full-time telework arrangement, follow the guidance for your situation:
 
@@ -56,9 +60,9 @@ Here are step-by-step [instructions](https://docs.google.com/document/d/1JCDZbAB
 * Supervisors will need to provide the number of trips an employee will have to make to DC annually and how long those trips will be (do not include billable trips).
 * Existing staff FTTAs can just have the city and state listed (noting on the form that the person is asking for approval to move prior to having a new full address); this should be updated in HR Links once the official address has been confirmed
 
-### TTS approval signatures required for FTTA
+### Approval signatures required for FTTA
 
-Please gather the following apprapriate signatures using [DocuSign]({{site.baseurl}}/digital-signatures/).  Make sure to select KEEP PDF FORM DATA when adding signature fields.
+When your FTTA has been fully filled out and is ready for approval signatures (Part I and Part J), please email the FTTA PDF file to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) who will gather signatures via [DocuSign]({{site.baseurl}}/digital-signatures/).  
 
 **For the Annual Review when there are no major changes to your full-time telework arrangement:**
 
@@ -69,43 +73,11 @@ Part J. Concurrences
  * "Supervisor Name": Your Supervisor's supervisor
  * No other signatures are required
  
+ ***NOTE: When gathering signatures via [DocuSign]({{site.baseurl}}/digital-signatures/), make sure to select KEEP PDF FORM DATA when adding signature fields.***
+ 
 **For the Annual Review when there are one or more major changes to your full-time telework arrangement but there is still an overall cost savings to GSA:**
 
 *Examples of major changes include moving from non-supervisory to supervisory, changing locality pay region, and changing pay grade*
-
-***Note: You can reach out to Keith Wilson to get help gathering this signatures***
-
-Part I. Concurring Supervisor
- * "Name": Your direct Supervisor
- 
-Part J. Concurrences
- * "Supervisor Name": Your Supervisor's supervisor
- * "Office of Human Resource Management (OHRM) Name: *leave blank* (People Ops will collect this signature)  
- * "Regional Commissioner (RC), Assistant Commissioner, or equivalent (SES Level) Name": Anil, Harry, or Dom
- * No other signatures are required
- 
-* Send form to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) who will be responsible for obtaining the **Office of Human Resource Management** and **Deputy Administrator** signature
- 
-**For new full-time telework arrangements or when there is a major modification to an existing FTTA that results in a cost burden to GSA:**
-
-***Note: You can reach out to Keith Wilson to get help gathering this signatures***
-
-Part I. Concurring Supervisor
- * "Name": Your direct Supervisor 
- 
-Part J. Concurrences
- * "Supervisor Name": Your second level Supervisor (your Supervisor's supervisor)
- * "Second Level Supervisor": Your third level Supervisor (Supervisor's supervisor's supervisor; if this is Anil, then skip)
- * "Third Level Supervisor": OCFO
-   * Roles funded by ASF (Natasha Booth)
-    * EX: 18F, IT Portfolio, login.gov, cloud.gov
-  * Roles funded by FSCSF (Sara Twyman)
-    * EX: OPP, search.gov
-* "Office of Human Resource Management (OHRM) Name: *leave blank* (People Ops will collect this signature) 
-* "Regional Commissioner (RC), Assistant Commissioner, or equivalent (SES Level) Name": Anil, Harry, or Dom
-
-* Send form to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) who will be responsible for obtaining the **Office of Human Resource Management** and **Deputy Administrator** signature
-  * People Ops sends the FTTAs to the FAS Commissioner’s office (Tricia Sieveke, Karen Link, and Alex Mobeka)
 
 ### Approved FTTAs
 
@@ -124,7 +96,7 @@ If you’re changing regions, your pay will likely change. Look up your new pay 
 
 ## Change your address
 
-1. If you plan to relocate to a different city, please email [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) to notify them of your plans.  Depending on where you're moving to, TTS People Ops may need to sumbit a PAR (Personnel Action Request) so that payroll is able to process any pay adjustments in a timely manner. 
+1. Depending on where you're moving to, TTS People Ops may need to sumbit a PAR (Personnel Action Request) so that payroll is able to process any pay adjustments in a timely manner. 
    * ***Do not proceed to Step 2 until you have confirmed with TTS People Ops that you are moving within the same city and your pay will not be changing***
 
 2. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. ***For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/corporateapps/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).***
