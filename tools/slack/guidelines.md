@@ -1,7 +1,5 @@
 ---
 title: Slack guidelines
-redirect_from:
-  - /slack/
 ---
 
 Slack is a chat client that provides us with a centralized way to communicate without overloading our inboxes. You can [login online](https://gsa-tts.slack.com/) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.

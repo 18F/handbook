@@ -1,5 +1,7 @@
 ---
 title: Slack
+redirect_from:
+  - /slack/
 ---
 
 See the following sub-pages for information about Slack at TTS:
@@ -8,5 +10,5 @@ See the following sub-pages for information about Slack at TTS:
 - [Guidelines](guidelines/)
 - [User management](user-management/)
 - [Integrations (apps, bots)](integrations/)
-- [Using with partners](partners/)
+- [External collaboration](external-collaboration/)
 - [Records management](records/)
