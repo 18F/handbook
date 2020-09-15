@@ -36,8 +36,8 @@ Slack is required for all [TTS](https://www.gsa.gov/portal/category/25729) staff
 ## Channel names
 
 - Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
-- [Channels that end with `-partner`](../external-collaboration/#partner-specific-channels) include partners from other agencies.
-- [Channels that end with `-public`](../external-collaboration/#public-channels) may include members of the public.
+- [Channels that end with `-partner`](../external-collaboration/#partners) include partners from other agencies.
+- [Channels that end with `-public`](../external-collaboration/#the-public) may include members of the public.
 
 Channels focused on TTS practices have their own conventions:
 

@@ -4,7 +4,14 @@ title: External collaboration through Slack
 
 [_Back to Slack page_](../)
 
-## External collaborators
+Collaboration with people outside of TTS falls into one of two categories:
+
+- [Partners](#partners)
+- [The public](#the-public)
+
+We use different setups for each.
+
+## Partners
 
 Collaborators may include:
 
@@ -14,25 +21,37 @@ Collaborators may include:
 
 Note this does _not_ include:
 
-- The general public, for which we have [dedicated channels](#public-channels)
+- The general public, for which we have [dedicated channels](#the-public)
 - Other feds who we are not working with directly
 
 Contractors' level of access will be determined by the Contracting Officer (CO). By default, **contractors who are "embedded" in TTS (working on TTS projects most or full-time) can be added as full members, while other collaborators should be added as single or multi-channel guests**, as appropriate.
 
 Additonal exceptions, including a small number of close TTS collaborators at GSA, may be added as full Slack members at the discretion of the Technology Director. Examples might include the Chief Information Officer or FAS Commissioner. Ask in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) if you'd like to add someone to this category.
 
-### Partner-specific channels
+### Dedicated channels
 
 You may want to invite partners, contractors, etc. to specific project channels to foster collaboration and asynchronous communication with the team. Projects often [create](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`.
 
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
 1. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
-## Slack Connect
+### Slack Connect
 
-Slack offers a feature to create [shared channels with other workspaces](https://get.slack.help/hc/en-us/articles/115004151203-Create-shared-channels-on-a-workspace-beta-). Shared channels are a more efficient and economic way to work with people in other Slack workspaces than managing them in our Slack workspace as guests, especially when using multiple channels for a project. All records in shared channels are [retained and available for Corporate Exports](https://get.slack.help/hc/en-us/articles/204897248-Guide-to-Slack-import-and-export-tools).
+Slack offers [this mechanism](https://slack.com/help/articles/115004151203-Guide-to-sharing-channels-with-external-organizations) to connect channels between different workspaces. If our partner has their own Slack workspace, this is the preferred method for collaborating with them from TTS Slack, since:
 
-### Guidance for using shared channels
+- It offloads user management to the partner
+- The partners can use their existing Slack accounts
+- The partner is able to retain the history
+- The history shows up in searches of their Slack workspace
+- It saves TTS money
+
+All shared channels are treated as [records](../records/), the same as other channels.
+
+#### Requesting a new shared channel
+
+When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it. Please specify if you want to use a new channel or want us to share an existing channel. Please also give us a heads up before partners send us a sharing request.
+
+#### Guidance
 
 When participating in shared channels, please keep in mind:
 
@@ -54,11 +73,7 @@ Likewise, when setting up shared channels, we will look to set these expectation
 
 If a shared channel does not produce good results, or causes a burden, we don't need to continue it. That won't be the end of our collaboration - just recognizing that a particular tool isn't effective for achieving the results that we want. If the shared channel is with a private entity (contractor or vendor) we will not continue sharing a channel after the agreement covering our work elapses.
 
-### Requesting a new shared channel
-
-When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it. Please specify if you want to use a new channel or want us to share an existing channel. Please also give us a heads up before partners send us a sharing request.
-
-## Public channels
+## The public
 
 [TTS](https://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. However, when we say "public channels" on this page, we mean channels open to all members of the public.)
 
