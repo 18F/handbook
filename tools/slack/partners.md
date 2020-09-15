@@ -73,3 +73,7 @@ To invite people to a public Slack channel, send them to [chat.18f.gov](https://
 ### Add a new public channel
 
 See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
+
+## Usage of other Slack workspaces
+
+You may be invited to other Slack workspaces operated by government entities, or entities under contract to the government. You're allowed to join those workspaces as necessary for your work. You should join those workspaces with your **government email address** and ensure your avatar and profile information are consistent across Slack workspaces. If you're invited to Slack workspaces unrelated to your job, you must join those workspaces with a personal email address.
