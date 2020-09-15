@@ -2,6 +2,8 @@
 title: Slack records
 ---
 
+[_Back to Slack page_](../)
+
 ## Records policy
 
 Per the mandatory [General Records Schedule 3.1](https://www.archives.gov/records-mgmt/memos/ac33-2014.html) issued by the National Archives and Records Administration (NARA), everything in Slack channels and groups is considered at minimum a temporary record.

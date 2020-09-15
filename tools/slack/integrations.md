@@ -2,6 +2,8 @@
 title: Slack integrations
 ---
 
+[_Back to Slack page_](../)
+
 We have a few different Slack Apps and bots you'll see in Slack:
 
 - [Angry Tock](https://gsa-tts.slack.com/team/angrytock): our fierce timesheet reminder.

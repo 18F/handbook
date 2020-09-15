@@ -4,6 +4,8 @@ redirect_from:
   - /slack-admin/
 ---
 
+[_Back to Slack page_](../)
+
 This page overviews the administrative tasks done to manage our Slack account at TTS.
 
 ## Adding TTS staff

@@ -2,6 +2,8 @@
 title: External collaboration through Slack
 ---
 
+[_Back to Slack page_](../)
+
 ## External collaborators
 
 Collaborators may include:

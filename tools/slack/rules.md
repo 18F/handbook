@@ -2,6 +2,8 @@
 title: Slack rules
 ---
 
+[_Back to Slack page_](../)
+
 ## Getting started
 
 - **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal](https://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
