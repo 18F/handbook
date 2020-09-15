@@ -47,10 +47,6 @@ Slack offers [this mechanism](https://slack.com/help/articles/115004151203-Guide
 
 All shared channels are treated as [records](../records/), the same as other channels.
 
-#### Requesting a new shared channel
-
-When you are interested in a shared channel, please drop into [#admins-slack](https://gsa-tts.slack.com/messages/C02KW46DP) to request it. Please specify if you want to use a new channel or want us to share an existing channel. Please also give us a heads up before partners send us a sharing request.
-
 #### Guidance
 
 When participating in shared channels, please keep in mind:
