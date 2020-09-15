@@ -40,28 +40,6 @@ Slack is required for all [TTS](https://www.gsa.gov/portal/category/25729) staff
 - **Change your color scheme.** You can change your color scheme by going to Preferences --> Theme --> Custom Theme. Paste the following for the US Design Standards theme: `#112E51,#205493,#0071BC,#FFFFFF,#323A45,#FFFFFF,#4AA564,#981B1E`
 - **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
 
-## Shared channels
-
-See [Slack Connect]({{site.baseurl}}/slack/connect/).
-
-## Public channels
-
-[TTS](https://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public to join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. However, when we say "public channels" on this page, we mean channels open to all members of the public.)
-
-Friends with `.gov`/`.mil` email addresses who aren't collaborating on a project can be invited into public channels. Fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link).
-
-Treat these public channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document.
-
-Members of the public must also comply with GSA standards and the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).
-
-For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there without a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
-
-To invite people to a public Slack channel, send them to [chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
-
-### Add a new public channel
-
-See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
-
 ## Channel names
 
 - Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
