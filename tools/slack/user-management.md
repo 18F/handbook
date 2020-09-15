@@ -1,13 +1,10 @@
 ---
-title: Slack for TTS Admins
+title: Slack user management
 redirect_from:
   - /slack-admin/
 ---
 
 This page overviews the administrative tasks done to manage our Slack account at TTS.
-
-- See the [Slack Handbook Page]({{site.baseurl}}/slack/) for an introduction and setup
-- See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp) internal how-to guide
 
 ## Adding TTS staff
 
