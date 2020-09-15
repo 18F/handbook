@@ -1,7 +1,7 @@
 ---
 title: Slack for TTS Admins
-tags:
-  - TTS legend
+redirect_from:
+  - /slack-admin/
 ---
 
 This page overviews the administrative tasks done to manage our Slack account at TTS.
