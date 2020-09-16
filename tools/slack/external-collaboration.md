@@ -47,7 +47,7 @@ Slack offers [this mechanism](https://slack.com/help/articles/115004151203-Guide
 - The history shows up in searches of their Slack workspace
 - It saves TTS money
 
-The contents of shared channels are treated the same as normal channels—see [rules](../rules/) and [records](../records/).
+The contents of shared channels are treated the same as normal channels — see [rules](../rules/) and [records](../records/).
 
 ## The public
 
@@ -55,11 +55,9 @@ The contents of shared channels are treated the same as normal channels—see [r
 
 Friends with `.gov`/`.mil` email addresses who aren't collaborating on a project can be invited into public channels. Fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link).
 
-Treat these public channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document.
+Treat these public channels like you would a livestreamed event on GSA's YouTube page or other type of public meeting open to guests. Materials and documents that are not otherwise public should not be shared only in public channels; instead, they should be published on TTS websites and then linked to from the public channels so that access to Slack isn't required to see the document.
 
 Members of the public must also comply with GSA standards and the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).
-
-For all shared and public channels, it's not a good idea to invite people into a shared channel that aren't there without a heads up. Instead, please DM them the link to an interesting message. Pulling them in without their consent (where others can @ or DM them) may not be fair to their schedule if they need to be heads down.
 
 To invite people to a public Slack channel, send them to [chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
 

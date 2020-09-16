@@ -21,7 +21,7 @@ You can add new "configurations" of [pre-approved integrations](https://gsa-tts.
 
 **[Integration request form](https://goo.gl/forms/pgxtz7xwIWubF0go1)**
 
-Note this is only necessary for new bots or _types_ of integrations—approval is not needed for new “configurations” of a previously-approved App. The form should be filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
+Note this is only necessary for new bots or _types_ of integrations — approval is not needed for new “configurations” of a previously-approved App. The form should be filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
 
 Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-tts.slack.com/help/requests/new) for help.
 
@@ -32,9 +32,9 @@ Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreads
 New integrations/bots need approval from the following:
 
 - TTS Slack admins
-- Security Engineering (ISE) (Bo Berlas)
+- Security Engineering (ISE)
 - OCTO
-- GSA IT (Amar Singh, Chris McFerren, or Derrick Rogers)
+- GSA IT Slack admins
 
 Considerations:
 

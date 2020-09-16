@@ -12,7 +12,7 @@ See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-
 
 - Teams
   - 18F - [#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
-  - [OPP](https://gsa-tts.slack.com/messages/opp/)
+  - [Solutions](https://gsa-tts.slack.com/messages/solutions/)
   - [PIFs](https://gsa-tts.slack.com/messages/pifs/)
   - [Office of Acquisition](https://gsa-tts.slack.com/messages/tts-oa/)
 - Locations
@@ -26,12 +26,7 @@ See a list of other popular channels in the [Slack @ TTS](https://docs.google.co
 
 ## How to make an announcement in #news
 
-Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you'd like to go up in #news:
-
-- **18F employees** ping @commsquad or post in [#outreach](https://gsa-tts.slack.com/archives/news) to get a review of the language. Once it's ready, Dahianna Salazar Foreman can post it.
-- **Acquisitions employees** review your post with Stephen Reilly, and he can post it when it's ready.
-- **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
-- **PIF employees** review your post with Joshua Di Frances, and he can post it when it's ready.
+Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you'd like to go up in #news, ask in [#outreach](https://gsa-tts.slack.com/archives/news).
 
 Please keep #news posts limited to information that the entire team needs to know. This includes things like:
 
@@ -69,7 +64,6 @@ Please keep #news posts limited to information that the entire team needs to kno
 - [Keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)
 - [Slash commands](https://slack.com/help/articles/201259356-Use-built-in-slash-commands)
 - Type `/hangout` to start a Google Hangout in the current channel.
-- Type `[message XPOST #channel-name]` to cross-post a message to a different channel while posting it.
 
 ## Groups
 
