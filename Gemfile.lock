@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/ryanwoldatwork/uswds-jekyll.git
+  revision: 13ac63c4640c2a88b6e158ff9a72643ec302b02c
+  ref: update-uswds
+  specs:
+    uswds-jekyll (5.0.1)
+      jekyll (>= 4.0, < 5)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -87,8 +95,6 @@ GEM
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     unicode-display_width (1.7.0)
-    uswds-jekyll (5.0.1)
-      jekyll (>= 4.0, < 5)
     yell (2.2.2)
 
 PLATFORMS
@@ -103,7 +109,7 @@ DEPENDENCIES
   json
   rerun
   test-unit
-  uswds-jekyll (~> 5.0)
+  uswds-jekyll!
 
 RUBY VERSION
    ruby 2.7.0p0

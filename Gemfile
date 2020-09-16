@@ -5,7 +5,7 @@ ruby '2.7.0'
 gem 'jekyll'
 gem 'json'
 gem 'hash-joiner'
-gem 'uswds-jekyll', '~> 5.0'
+gem 'uswds-jekyll', github: 'ryanwoldatwork/uswds-jekyll', ref: 'update-uswds'
 gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
 
