@@ -1,5 +1,19 @@
 # Contributing to the TTS Handbook
 
+## Front matter
+
+The Handbook has a special `contacts` [front matter](https://jekyllrb.com/docs/front-matter/) variable for pages:
+
+```yaml
+questions:
+  - name-of-slack-channel
+  - some@email.gov
+  - text: The text to display
+    url: https://somesite.gov
+```
+
+It is optional, and can contain one or more Slack channel name, email address, and/or link.
+
 ## What Cannot Be Included
 
 - TTS Staff should not include information that shouldn't be public.
@@ -39,7 +53,7 @@ Everyone, inside and outside TTS, can submit contributions to https://github.com
 
 There is no dedicated staff for the handbook; maintenance is done by TTS staff who are interested in helping.
 
-For long or important chunks of writing, consider asking the [18F Writing Lab](https://github.com/18F/writing-lab) to review and edit  before you propose significant changes to the handbook.
+For long or important chunks of writing, consider asking the [18F Writing Lab](https://github.com/18F/writing-lab) to review and edit before you propose significant changes to the handbook.
 
 Use of [Prettier](https://prettier.io/) is encouraged for formatting files, though formatting is not a blocker for merging changes.
 
