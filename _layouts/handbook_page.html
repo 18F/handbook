@@ -4,3 +4,18 @@ layout: page
 
 {% include page-outdated.html %}
 {{ content | smartify }}
+
+{% if page.contacts %}
+<h2>Questions?</h2>
+<ul>
+  {% for contact in page.contacts %}
+  <li>
+    {% if contact contains "@" %}
+      <a href="mailto:{{contact}}">{{contact}}</a>
+    {% else %}
+      <a href="https://gsa-tts.slack.com/messages/{{contact}}/">{{contact}}</a>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}

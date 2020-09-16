@@ -3,6 +3,9 @@ title: TTS Technology Portfolio
 navtitle: Tech Portfolio
 redirect_from:
   - /infrastructure/
+contacts:
+  - "#infrastructure"
+  - devops@gsa.gov
 ---
 
 The goal of the Tech Portfolio is to oversee/manage/coordinate everything technology-related that cuts across TTS, and anything technology-related that will affect TTS from the outside: particularly security, compliance, infrastructure, and tech policy. We provide all the things that allow you to get your job done, at the highest quality level.
@@ -35,7 +38,7 @@ Rather than trying to exert control over everything technology at TTS, we focus 
 
 - [The Tech Portfolio Kanban board](https://github.com/orgs/18F/projects/11?fullscreen=true) - what we're working on
 - [Before You Ship](https://before-you-ship.18f.gov/) - TTS's internal documentation about security, compliance, and infrastructure
-- Maintaining the authoritative source documentation for components used across TTS  [Software-as-a-service (SaaS) ](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), [Systems](https://docs.google.com/spreadsheets/u/1/d/1LGn9kZCphzf14V5HpBfV3aYjflu-k9GtHS5LmFvDywM/edit?usp=drive_web&ouid=114492559070606542558), and [Accounts](https://docs.google.com/spreadsheets/d/1DedSCiU9AsCAAVvAFZT0_Ii7AFIKlI-JNifzlpHNbDg/edit#gid=0)
+- Maintaining the authoritative source documentation for components used across TTS [Software-as-a-service (SaaS) ](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), [Systems](https://docs.google.com/spreadsheets/u/1/d/1LGn9kZCphzf14V5HpBfV3aYjflu-k9GtHS5LmFvDywM/edit?usp=drive_web&ouid=114492559070606542558), and [Accounts](https://docs.google.com/spreadsheets/d/1DedSCiU9AsCAAVvAFZT0_Ii7AFIKlI-JNifzlpHNbDg/edit#gid=0)
 - [More internal documentation](https://github.com/18F/tts-tech-portfolio/wiki/Documents-for-TTS-Tech-Porfolio)
 - [Read more about us](https://github.com/18F/tts-tech-portfolio/blob/master/README.md)
 - The Technology Portfolio team is new as of July 2019, though, is the evolution of 18F/TTS Infrastructure.
@@ -43,7 +46,3 @@ Rather than trying to exert control over everything technology at TTS, we focus 
 ## Feedback?
 
 We're open and excited to hear [(anonymous) feedback](https://docs.google.com/forms/d/e/1FAIpQLSeVEH_l46flYCCQRl351KhID77XPCw5ulsQPh0iFqfRig2hxA/viewform) to hear how we're doing!
-
-## Questions
-
-Find us in Slack in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/) or email us at [devops@gsa.gov](mailto:devops@gsa.gov).
