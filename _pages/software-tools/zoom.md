@@ -1,6 +1,6 @@
 ---
 title: Zoom
-contacts:
+questions:
   - webmeetings@gsa.gov
 ---
 

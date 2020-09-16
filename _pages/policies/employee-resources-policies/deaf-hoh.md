@@ -1,8 +1,8 @@
 ---
 title: Resources for Deaf and Hard of Hearing individuals in TTS
-contacts:
-   - g-accessibility
-   - g-diversity
+questions:
+  - g-accessibility
+  - g-diversity
 ---
 
 Tools, services, points of contact, and tips for navigating the resources available to individuals and teams.

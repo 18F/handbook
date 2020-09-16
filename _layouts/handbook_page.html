@@ -5,10 +5,10 @@ layout: page
 {% include page-outdated.html %}
 {{ content | smartify }}
 
-{% if page.contacts %}
+{% if page.questions %}
 <h2 id="questions">Questions?</h2>
 <ul>
-  {% for contact in page.contacts %}
+  {% for contact in page.questions %}
   <li>
     {% if contact contains "@" %}
       <a href="mailto:{{contact}}">{{contact}}</a>

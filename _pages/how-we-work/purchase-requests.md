@@ -1,6 +1,6 @@
 ---
 title: Purchase requests
-contacts:
+questions:
   - micropurchase
   - tts-purchasers@gsa.gov
   - text: Book office hours

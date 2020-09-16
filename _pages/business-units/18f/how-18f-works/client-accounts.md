@@ -1,6 +1,6 @@
 ---
 title: Account management policy
-contacts:
+questions:
   - iaa
   - legalstuff
 ---

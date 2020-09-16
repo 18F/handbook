@@ -1,6 +1,6 @@
 ---
 title: Travel Guide FAQ
-contacts:
+questions:
   - travel
   - tts-travel@gsa.gov
   - text: Book office hours

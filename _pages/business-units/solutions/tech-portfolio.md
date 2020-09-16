@@ -3,7 +3,7 @@ title: TTS Technology Portfolio
 navtitle: Tech Portfolio
 redirect_from:
   - /infrastructure/
-contacts:
+questions:
   - infrastructure
   - devops@gsa.gov
 ---

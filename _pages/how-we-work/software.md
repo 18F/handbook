@@ -1,6 +1,6 @@
 ---
 title: Software Under $10,000
-contacts:
+questions:
   - infrastructure
 ---
 
