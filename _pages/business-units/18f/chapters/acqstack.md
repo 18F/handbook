@@ -1,5 +1,7 @@
 ---
 title: Acquisition
+contacts:
+  - acquisition
 ---
 
 Making procurement joyful
@@ -119,9 +121,3 @@ These are a couple of suggested reading materials meant to give you a better sen
 * **Ask for help.** Know there is a powerful ecosystem of 18Fers who are on-call to help with any areas where you need more assistance, whether it’s design, security practices, or product management best practices. We see new things every day, but it’s unlikely that someone hasn’t seen something like what you’re experiencing before and can offer a hand, ear, or whatever other body part you may need given the circumstances.
 
 * **Not everyone is ready for the 18F way on day one.** Our prinicples mirror agile software development and we are committed to modern procurement practices (ie. modular contracting). It’s ok to recognize that implementing new practices can be difficult and challenging.  What’s worse would be to force it onto someone not ready and see them stumble in [very predictable ways](https://18f.gsa.gov/2018/09/27/antipatterns-in-agile-contracting/). 
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#acquisition](https://gsa-tts.slack.com/messages/acquisition)

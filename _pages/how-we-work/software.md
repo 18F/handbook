@@ -1,5 +1,7 @@
 ---
 title: Software Under $10,000
+contacts:
+  - infrastructure
 ---
 
 Do you need software to do your job or make sure TTS is running smoothly? Follow the steps below to access software we own or request a software purchase of under $10,000.
@@ -52,7 +54,3 @@ The process on this page is for buying software. In general, open source develop
 
 **TTS SaaS Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov)
 **TTS Office of Acquisition Director:** Esther Praske [esther.praske@gsa.gov](mailto:esther.praske@gsa.gov)
-
-## Questions?
-
-Find us in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/).

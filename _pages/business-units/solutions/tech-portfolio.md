@@ -4,7 +4,7 @@ navtitle: Tech Portfolio
 redirect_from:
   - /infrastructure/
 contacts:
-  - "#infrastructure"
+  - infrastructure
   - devops@gsa.gov
 ---
 

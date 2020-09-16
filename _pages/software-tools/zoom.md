@@ -1,5 +1,7 @@
 ---
 title: Zoom
+contacts:
+  - webmeetings@gsa.gov
 ---
 
 GSA offers [Zoom for Government](https://zoomgov.com/).
@@ -43,7 +45,3 @@ Per the `User Action Required for Zoom Usage` email on 4/13/20:
 > - Do not use a Personal Meeting ID (PMI) for Zoom meetings hosted by GSA.
 > - Do not share links to Zoom meetings or classrooms via publicly available social media outlets. Provide the links directly to specific invitees.
 > - For public meetings hosted by GSA, limit screen sharing to "Host Only".
-
-## Questions?
-
-[Reach out to webmeetings@gsa.gov](mailto:webmeetings@gsa.gov) for help.

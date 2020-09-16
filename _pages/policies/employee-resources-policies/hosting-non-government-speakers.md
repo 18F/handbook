@@ -1,5 +1,8 @@
 ---
 title: Guidance on hosting non-government speakers
+contacts:
+   - training-conferences
+   - outreach
 ---
 
 TTS teams, [Guilds]({{site.baseurl}}/working-groups-and-guilds-101/), and [Working Groups]({{site.baseurl}}/working-groups-and-guilds-101/) have the opportunity to invite individuals outside of the government to speak to our teams. Guest speakers provide a unique opportunity for federal employees to learn from industry professionals on modern practices. Hearing new perspectives provide employees not only with different points-of-view, but also with knowledge they can apply in their careers at TTS.
@@ -38,7 +41,3 @@ In addition to those steps, there are a couple important things to keep in mind 
 ## Accessibility
 
 Be sure to check out the resources on the [Deaf-HOH]({{site.baseurl}}/deaf-hoh/) page to provide the most accessible telecommunications services for Deaf/HoH and speech-disabled employees.
-
-## Questions
-
-Any questions? Ask the [#training-conferences](https://gsa-tts.slack.com/messages/training-conferences/) and/or [#outreach](https://gsa-tts.slack.com/messages/outreach/) channels on Slack.
