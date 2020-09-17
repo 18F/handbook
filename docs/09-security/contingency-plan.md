@@ -18,7 +18,6 @@
   - [OpsGenie](#opsgenie)
   - [JIRA](#jira)
   - [Slack](#slack)
-  - [CPM](#cpm)
   - [AWS](#aws)
   - [Acquia Cloud Enterprise (ACE) Platform as a Service (PaaS)](#acquia-cloud-enterprise-ace-platform-as-a-service-paas)
 - [How this document works](#how-this-document-works)
@@ -96,15 +95,15 @@ CivicActions managed systems often depend on several external services. In the e
 - **Status:** <https://status.github.com/>
 - **Status:** <https://twitter.com/githubstatus>
 
-If GitHub becomes unavailable, DKAN/HDG will continue to operate in its current state. The
+If GitHub becomes unavailable, systems will continue to operate in its current state. The
 disruption would only impact the team's ability to update code on the instances.
 
 #### GitLab
 
-- **Service:** <https://git.civicactions.net/dsca/>
+- **Service:** <https://git.civicactions.net/>
 - **Status:** <https://app.statuscake.com/AllStatus.php?tid=1702974>
 
-If GitLab becomes unavailable, GlobalNET will continue to operate in its current state. The disruption would only impact the team's ability to update code on the instances.
+If GitLab becomes unavailable, systems will continue to operate in their current state. The disruption would impact the team's ability to update code on the instances, which could have significant impact.
 
 #### StatusCake
 
@@ -123,35 +122,27 @@ If there is a disruption in the OpsGenie service, all alerts automatically get d
 
 #### JIRA
 
-- **Service:** <https://globalnet.atlassian.net/>
+- **Service:** <https://PROJECT.atlassian.net/>
 - **Status:** <https://twitter.com/JIRA>
 
-There is no direct impact to the platform if a disruption occurs. Primary incident communications will move to the [`#globalnet`](https://civicactions.slack.com/messages/globalnet/) Slack channel.
+There is no direct impact to the platform if a disruption occurs. Primary incident communications will move to the [CivicActions `#general`](https://civicactions.slack.com/) Slack channel.
 
 #### Slack
 
-- **Service:** <https://civicactions.slack.com/messages/globalnet/>
+- **Service:** <https://civicactions.slack.com/>
 - **Status:** <https://status.slack.com/>
 - **Status:** <https://twitter.com/SlackStatus>
-- **Backup:** <https://chat.google.com/> - useful for realtime comms if Slack is down
 
 There is no direct impact to the platform if a disruption occurs.
-Primary incident communications will move to one of (try in order):
+Primary incident communications will move to one of:
 
-- GlobalNET Maintenance Scrum Hangout <https://hangouts.google.com/hangouts/_/civicactions.net/maintenance>
+- IT Zoom: <https://zoom.us/>
+- Google Meet: <https://meet.google.com/>
 - Google Chat: <https://chat.google.com/>
-- IT Zoom: <https://zoom.us/j/865708118> Meeting ID: 865 708 118
-- IT Google Hangout: <https://hangouts.google.com/hangouts/_/civicactions.net/it_is>
-
-#### CPM
-
-- **Service:** <https://gnet-cpm.civicactions.net/signin/>
-
-The Cloud Protection Manager (CPM) provides backup and restore services. There is no direct impact to the platform if a disruption occurs.
 
 #### AWS
 
-- **Service:** <https://globalnet.signin.aws.amazon.com/console>
+- **Service:** <https://signin.aws.amazon.com/console>
 - **Status:** <http://status.aws.amazon.com/>
 
 If needed, you can [manage and create new servers](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1).
@@ -163,7 +154,7 @@ In case of a **significant** disruption, after receiving approval from our Autho
 - **Service:** <https://docs.acquia.com/en/stable/support/status/>
 - **Status:** <https://status.acquia.com/>
 
-DKAN/HDG is hosted on the Acquia Cloud Enterprise (ACE) PaaS
+Some sites are hosted on the Acquia Cloud Enterprise (ACE) PaaS
 <https://cloud.acquia.com/app/develop> which is layered on top of the Amazon Web Services
 (AWS) FedRAMP-certified cloud in the us-east region. See [ACE
 Status](https://status.acquia.com/) and [AWS status](http://status.aws.amazon.com/).
