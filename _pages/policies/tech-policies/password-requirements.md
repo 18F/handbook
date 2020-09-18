@@ -1,5 +1,7 @@
 ---
 title: Requirements for Passwords
+questions:
+  - it-issues
 ---
 
 Follow the steps below to create and maintain secure passwords.
@@ -49,9 +51,3 @@ This opens up a few risks: A person could try to guess your password based on in
 In other words, you could use a series of random words, plus a few numbers, capital letters, or symbols, if you like.
 
 Or try thinking of a sentence or line from a book, song, speech, poem, or other memorable source, then build a many-character password using the first letter of each word, with some capitalization, numbers, and symbols thrown in. Or just use the whole line or sentence as your password! (You'd need to pick a phrase that nobody would guess based on knowing you.)
-
----
-
-## Questions?
-
-Ask in [#it-issues](https://gsa-tts.slack.com/messages/questions/).

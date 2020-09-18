@@ -1,5 +1,10 @@
 ---
 title: Purchase requests
+questions:
+  - micropurchase
+  - tts-purchasers@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 **Short version:** Use the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) for requesting purchases under $10,000.
@@ -105,7 +110,3 @@ Note: it is good practice to set this a few days in advance, as updates here onl
 For issues related to the Micropurchase request sheet and requests to update the logic of the script, reach out to TTS Micropurchase Sheet system owner ethan.heppner@gsa.gov.
 For issues related to Pegasys, reach out to the Business Applications Service Desk at (866) 450-6588.
 For issues related to automated logs not showing up as expected, reach out to GSA Micropurchase Bot system owner matthew.taylor@gsa.gov.
-
-## Questions
-
-Any questions? [#micropurchase](https://gsa-tts.slack.com/messages/micropurchase/), email [tts-purchasers@gsa.gov](mailto:tts-purchasers@gsa.gov), or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).

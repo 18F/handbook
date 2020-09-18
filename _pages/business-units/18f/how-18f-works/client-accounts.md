@@ -1,5 +1,8 @@
 ---
 title: Account management policy
+questions:
+  - iaa
+  - legalstuff
 ---
 
 _This control document outlines how 18F conducts business._
@@ -56,9 +59,3 @@ This document will be reviewed at least annually, as appropriate, by the 18F Exe
 ### How and when are 18F employees instructed on these procedures?
 
 This document is distributed to all new hires as part of our regular onboarding process.
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#iaa](https://gsa-tts.slack.com/messages/iaa/) or [#legalstuff](https://gsa-tts.slack.com/messages/legalstuff/)

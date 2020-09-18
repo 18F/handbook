@@ -1,5 +1,10 @@
 ---
 title: Travel Guide FAQ
+questions:
+  - travel
+  - tts-travel@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
@@ -504,5 +509,3 @@ Attn:  Bryan DeLeve - 2SE
 Kansas City, MO 64108
 
 Reference the authorization and voucher number along with the payment.
-
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
