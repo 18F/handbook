@@ -1,6 +1,5 @@
 ---
 title: Appendix B - After-hours emergency travel authorizations
-navtitle: After-hours emergency travel authorizations
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>

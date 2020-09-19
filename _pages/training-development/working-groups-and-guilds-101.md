@@ -1,6 +1,5 @@
 ---
 title: Working groups, guilds, and other communities
-navtitle: Working groups and guilds
 redirect_from:
   - /general-contacts-and-listservs/
 ---
@@ -53,8 +52,8 @@ Most working groups will create a Slack channel to coordinate efforts. These cha
 
 The [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) can help you find working group meeting times.
 
-
 ## Guilds
+
 Guilds are long-running groups sponsored by the TTS Chief of Staff, and as such are expected to coordinate practices and solve problems across TTS. Because they are cross-TTS structures, their leadership should come from more than one part of TTS and they should provide clear value to a broad cross-section of TTS through training and promotion of best practices in their subject area.
 
 18F provides non-billable hours to guild leads to help them meet those expectations.
@@ -176,9 +175,10 @@ Typically guilds follow a lightweight leadership selection process:
 1. A current guild leader announces the new leader, who takes up the position immediately.
 
 ## 18F Collectives
+
 18F has developed Collectives, with "Collective Leads" guiding them. These collectives are an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization.
 
- A collective is a group of people that share or are motivated by at least one common issue or interest, or work together to achieve a common objective.
+A collective is a group of people that share or are motivated by at least one common issue or interest, or work together to achieve a common objective.
 
 These collectives should all have Slack channels with a `c-` prefix. Since their channels are one of their best ways of promoting best practices, you're encouraged to join any you find interesting.
 
@@ -240,12 +240,11 @@ Current 18F Collectives (and Leads) include:
   </table>
 </div>
 
-
 ## Communities of Practice
+
 A Community of Practice (CoP) provides for government-wide knowledge-sharing. They attract members from across government agencies, and provide a good opportunity for Guilds to connect with others in government and influence best practices beyond TTS.
 
 Digital.gov [hosts the Communities of Practice](https://digital.gov/communities/).
-
 
 ## Listservs, Google Groups and mailing lists
 

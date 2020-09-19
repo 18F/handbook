@@ -1,6 +1,5 @@
 ---
 title: Writing Lab 101
-navtitle: Writing Lab
 ---
 
 The Writing Lab team knows that writing is hard: It can be time consuming and stress inducing, and can sometimes seem like a blocker to a project that’s humming along. That's why the Writing Lab came into being. The Lab is a virtual writing center where you can get personalized help from members of the 18F editorial team. (And, if you’re a writerly type yourself, you can join the Lab team and volunteer to help other folks with their writing and editing projects!)

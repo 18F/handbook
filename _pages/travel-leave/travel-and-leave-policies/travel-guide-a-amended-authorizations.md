@@ -1,6 +1,5 @@
 ---
 title: Appendix A - Amended authorizations
-navtitle: Amended Authorizations
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>

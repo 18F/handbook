@@ -1,6 +1,5 @@
 ---
 title: Text editors
-navtitle: Text editors
 ---
 
 We use text editors to write documentation in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and to develop code.

@@ -1,6 +1,5 @@
 ---
 title: First-Time Travel Get a Travel Card
-navtitle: First-Time Travel Get a Travel Card
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
@@ -74,4 +73,4 @@ After you have registered and signed into the U.S. Bank Access Online website wi
 
 #### Having trouble?
 
-*Reach out to ronnail.rawls@gsa.gov
+Reach out to ronnail.rawls@gsa.gov

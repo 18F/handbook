@@ -1,6 +1,5 @@
 ---
 title: Intro to TTS Tech Portfolio
-navtitle: Infrastructure
 outdated: true
 ---
 
