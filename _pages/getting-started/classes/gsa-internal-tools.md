@@ -1,12 +1,11 @@
 ---
 title: GSA internal tools
+questions:
+  - people-ops
+  - it-issues
 ---
 
 _This post provides information on how to work with GSA's web tools and your GSA-issued equipment._
-
-## Communication
-
-If you have any questions, please ping [#teamops](https://gsa-tts.slack.com/archives/teamops) or [#it-issues](https://gsa-tts.slack.com/archives/it-issues).
 
 ## GSA tools
 

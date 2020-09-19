@@ -86,14 +86,3 @@ Buying something over $10,000 means that the Office of Acquisition (OA) needs to
 ### Contract close out
 
 After all work under a contract has been delivered, it is time to close out the contract. To initiate the contract closeout process, your CO will ask you for a final report of the services and/or products received and the contractor’s final invoice. The CO will also confirm with the OCFO that all payment has been made to the contractor. Generally, a contract will be considered complete after the CO receives this information and your CO prepares a contract completion statement. After your CO marks the contract closed in the contract writing system, the contract is officially closed and you are finished. On to the next!
-
-## Still have questions?
-
-Ask in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa)
-
-
-
-
-
-
-

@@ -1,9 +1,12 @@
 ---
 title: Unconscious Bias
 tags:
-- Unconscious Bias
-- unconscious
-- bias
+  - Unconscious Bias
+  - unconscious
+  - bias
+questions:
+  - hiring
+  - joinTTS@gsa.gov
 ---
 
 Remember that we all have unconscious bias, and that hiring is especially susceptible to bias. However, when we recognize and accept bias we can be on the lookout and it’ll be less likely to unconsciously guide our decisions.

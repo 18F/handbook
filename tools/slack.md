@@ -2,6 +2,8 @@
 title: Slack
 redirect_from:
   - /slack/
+questions:
+  - admins-slack
 ---
 
 See the following sub-pages for information about Slack at TTS:

@@ -63,10 +63,3 @@ Internal candidates can find opportunities via #tts-jobs in Slack or in the Hand
   * [#hiring](https://gsa-tts.slack.com/messages/hiring/)
 * Email:
   * [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team. Also use this email if you'd like to submit an internal competition announcement for our review and for all hiring and onboarding related questions.
-
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#hiring](https://gsa-tts.slack.com/messages/hiring/)

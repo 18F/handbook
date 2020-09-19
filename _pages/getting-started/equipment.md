@@ -1,5 +1,8 @@
 ---
 title: Equipment
+questions:
+  - equipment
+  - tts-equipment@gsa.gov
 ---
 
 GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Operations Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
@@ -122,9 +125,3 @@ If your equipment is returned to you, it may have been tampered with and should 
 ## Requirements for passwords
 
 Read the guide on [setting and managing passwords](../password-requirements/).
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#equipment](https://gsa-tts.slack.com/messages/equipment), [#teamops](https://gsa-tts.slack.com/messages/teamops), or [tts-equipment@gsa.gov](mailto:tts-equipment@gsa.gov)

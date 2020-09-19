@@ -1,7 +1,7 @@
 ---
 title: How we relate to partners
 tags:
-- consulting
+  - consulting
 ---
 
 18F's fundamental goal isn’t to implement agile, replace legacy systems, or change procurement. Our real goal is to **help each partner fulfill the mission of their agency and serve the public**.

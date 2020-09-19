@@ -1,5 +1,7 @@
 ---
 title: Trello
+questions:
+  - admins-trello
 ---
 
 [Trello](https://trello.com/18f3/) is a collaborative task and project-management tool.
@@ -8,7 +10,7 @@ title: Trello
 
 ### Account creation
 
-[Trello](https://trello.com) accounts support multiple email addresses, so you can use an existing account (if you have one) by adding your GSA email address. 
+[Trello](https://trello.com) accounts support multiple email addresses, so you can use an existing account (if you have one) by adding your GSA email address.
 
 If you **do not have an existing Trello account**, go to [Trello](https://trello.com), click the green "Sign Up" button, and create a Trello account by signing up with your GSA Google account.
 
@@ -49,9 +51,3 @@ People use Trello to track ideas from conception through execution. It's common 
 ### Chrome extensions
 
 See [general info]({{site.baseurl}}/software/#chrome-extensions).
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello/)

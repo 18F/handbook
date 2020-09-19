@@ -1,5 +1,10 @@
 ---
 title: Travel Guide Table of Contents
+questions:
+  - travel
+  - tts-travel@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 * [Travel 101]({{site.baseurl}}/travel-101/)
@@ -64,6 +69,3 @@ title: Travel Guide Table of Contents
 * [GSA conference and event policy](https://www.gsa.gov/cdnstatic/OAS_5785.1_Conference_and_Event_Management_%28Signed_on_January_28__2015%29.pdf)
 * [GSA official guide to Concur](https://seags1tmwp05.concursolutions.com/tm/help508/GTMWebHelp.htm)
 * Business Applications Service Desk (Concur Helpdesk): (866) 450-6588, press 2 or businessapps@gsa.gov
-
-
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

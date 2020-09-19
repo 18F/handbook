@@ -1,5 +1,7 @@
 ---
 title: Google Groups
+questions:
+  - it-issues
 ---
 
 We use Google Groups to manage team and interest-based email distribution lists and listservs. A list of listservs and groups TTS uses is [here]({{site.baseurl}}/working-groups-and-guilds-101/).
@@ -21,9 +23,3 @@ To find the groups that you are in and manage any groups where you are an admin,
 - People outside GSA can't access GSA Google groups via the Google Groups website, but email still works depending on the permissions. To adjust those permissions so non-GSA people can email your listserv, click on your listserv, then the "Settings" gear. Then "Group Settings." On the left menu of that screen, go to "Permissions" then "Basic Permissions." Click the dropdown box labeled "Post" and select "Public." Save your changes.
 
 You can subscribe to Google Groups with the following RSS feed URL: `https://groups.google.com/forum/feed/<GROUP_NAME>/msgs/rss.xml`
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops), or [#it-issues](https://gsa-tts.slack.com/messages/it-issues)

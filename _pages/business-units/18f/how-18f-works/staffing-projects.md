@@ -1,5 +1,7 @@
 ---
 title: How We Staff Projects
+questions:
+  - 18f-staffing
 ---
 
 18F partner projects and 10x projects are staffed using a process outlined in the [staffing repo](https://github.com/18F/staffing).

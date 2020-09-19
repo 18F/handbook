@@ -1,5 +1,7 @@
 ---
 title: Slack guidelines
+questions:
+  - admins-slack
 ---
 
 [_Back to Slack page_](../)
@@ -74,9 +76,3 @@ Groups are a great way to alert people who might not be in a channel about somet
 ## Connectivity issues
 
 If you are having connectivity issues with Slack, see the [Slack status site](https://status.slack.com/) for more information, and move to [Hangouts Chat](https://support.google.com/a/users/answer/9300511?hl=en) or email.
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack), [#it-issues](https://gsa-tts.slack.com/messages/it-issues), [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops)

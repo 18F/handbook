@@ -1,5 +1,7 @@
 ---
 title: Term extensions
+questions:
+  - people-ops
 ---
 
 Many TTS employees are hired on term appointments (under the Schedule A direct hiring authority), which sets a limit of 2 years for the initial period of employment with the option to renew for up to 2 additional years for a maximum term of 4 years.
@@ -47,9 +49,3 @@ Term renewals are not automatic. They require a lot of thought and deliberation 
 - HR reviews and confirms the PAR, checking that all information is accurate (employee has another term left, correct extension dates, etc.). HR is not "approving" the extension request at this step of the process. The extension has already been approved; this is just a matter of processing.
 - HR sends the approved PAR to CPC (Consolidated Processing Center in Kansas City, MO) to have it processed.
 - CPC processes the PAR. They process all approved personnel actions in GSA systems and complete the SF50, which is attached to your personnel record and can be viewed in HR Links. They process PARs based on action date, which is why you will not see the updates in HR Links or our internal systems until the extension date.
-
----
-
-### Still have questions?
-
-Please contact [#people-ops](https://gsa-tts.slack.com/messages/people-ops).

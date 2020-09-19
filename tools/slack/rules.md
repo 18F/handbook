@@ -1,5 +1,7 @@
 ---
 title: Slack rules
+questions:
+  - admins-slack
 ---
 
 [_Back to Slack page_](../)

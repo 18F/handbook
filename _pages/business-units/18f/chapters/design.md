@@ -2,6 +2,8 @@
 title: Design
 tags:
   - design
+questions:
+  - design
 ---
 
 The Design team at 18F includes content, user experience, front end, and visual designers as well as researchers, editors, prototypers, illustrators, and wordsmiths.

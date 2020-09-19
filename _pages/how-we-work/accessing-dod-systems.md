@@ -1,10 +1,12 @@
 ---
 title: Accessing DoD Systems
 tags:
-- dod
-- intelligence
-- security
-- system-access
+  - dod
+  - intelligence
+  - security
+  - system-access
+questions:
+  - portfolio-nat-security
 ---
 
 ## Certificate errors
@@ -29,7 +31,4 @@ When filling out the specific fields on the SAAR form:
 * Part II / Section 13: Justification for access should be the simplest, most straight forward way of expressing your need.
 * You may attempt to submit the form without filling out Part III. DoD agencies typically don't care that we have [public trust (moderate risk) investigations]({{site.baseurl}}/top-secret/). If they do care, then you'll need to get the SAAR form signed by the GSA security manager's team. Take a look at the [PERSEC insite page](https://insite.gsa.gov/organizations/staff-offices/office-of-mission-assurance/divisions-program-offices/personnel-security-division) and contact the branch deputy.
 
-
-## Questions / Problems
-
-If you run into issues getting your SAAR form approved, please contact your Account Manager, or the National Security & Intelligence Portfolio manager. You can also post questions about this process to the #portfolio-nat-security channel in Slack.
+If you run into issues getting your SAAR form approved, please contact your Account Manager, or the National Security & Intelligence Portfolio manager.

@@ -1,10 +1,12 @@
 ---
 title: Glossary
 tags:
-- Acronyms
-- Definitions
-- Jargon
-- Words
+  - Acronyms
+  - Definitions
+  - Jargon
+  - Words
+questions:
+  - questions
 ---
 
 * **[18F](https://18f.gsa.gov/)** - 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships. 18F is an office within TTS.

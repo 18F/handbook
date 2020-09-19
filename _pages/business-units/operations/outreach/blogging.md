@@ -1,8 +1,10 @@
 ---
 title: Blogging Guide
 tag:
-- blogging
-- guide
+  - blogging
+  - guide
+questions:
+  - outreach
 ---
 
 This guide helps 18F employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. If you have any questions, ask them in \#blog or by email to [18f-outreach@gsa.gov](mailto:18f-outreach@gsa.gov).
@@ -214,9 +216,3 @@ The 18F blog welcomes guest authors from other government agencies. They're espe
 ### No authors
 
 On occasion, it can be useful to have posts written by 18F as an organization rather than as an individual. We may use this for posts that explain fundamental concepts of our business or culture where many team members contributed writing and editing. Posts with 18F as an author have a more formal and authoritative tone and are about statements of policy or fact rather than opinions.
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#outreach](https://gsa-tts.slack.com/messages/outreach)

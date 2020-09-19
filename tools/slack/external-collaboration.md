@@ -1,5 +1,7 @@
 ---
 title: External collaboration through Slack
+questions:
+  - admins-slack
 ---
 
 [_Back to Slack page_](../)

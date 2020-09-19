@@ -1,5 +1,7 @@
 ---
 title: Collaboration tools
+questions:
+  - questions
 ---
 
 Collaboration is a critical part of our work and organizational philosophy. There are a variety of tools to support our teams' collaboration and communication needs. While some tools are used often within TTS, working with an external partner may necessitate the use of a different tool that's best for the partner team and their internal IT policies.
@@ -217,4 +219,4 @@ Per the [IT Standards policy](<https://www.gsa.gov/directive/gsa-information-te
 
 > Collaboration with another agency through software or cloud services which they use for managing non-GSA data (either data owned by that agency or public data) does not require security or Section 508 compliance review, as that responsibility is assumed by the providing agency.  Other policies which may restrict the use of GSA Enterprise Accounts or the release of GSA-owned data may still apply.
 
-In other words, it is generally fine to use a tool authorized and maintained by a partner agency. If you're not sure, reach out to [ispcompliance@gsa.gov](mailto:ispcompliance@gsa.gov) and [devops@gsa.gov](mailto:devops@gsa.gov).
+In other words, it is generally fine to use a tool authorized and maintained by a partner agency. If you're not sure, ask.

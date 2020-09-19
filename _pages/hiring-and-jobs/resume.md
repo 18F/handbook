@@ -1,7 +1,9 @@
 ---
 title: Writing a federal government resume
 tags:
-- resume
+  - resume
+questions:
+  - joinTTS@gsa.gov
 ---
 
 This page provides an overview with examples of how to write a federal government resume, which have content and formatting that differ from most private sector resumes.  
@@ -190,9 +192,3 @@ Title: The Best Boss
 Email: teamlead@awesomeboss.com  
 
 `While I listed references on my resume, it’s not required. The hiring folks wouldn’t cold call your references, they’d ask you for their contact information later on in the process.`
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Please reach out to the TTS Talent Team by emailing [jointts@gsa.gov](mailto:jointts@gsa.gov).

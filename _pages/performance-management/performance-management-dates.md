@@ -1,11 +1,13 @@
 ---
 title: Performance Management Important Dates
 tags:
-- Performance
-- Performance
-- Performance management
-- Performance review
-- review
+  - Performance
+  - Performance
+  - Performance management
+  - Performance review
+  - review
+questions:
+  - people-ops
 ---
 
 This page contains important dates for the mid year and end of year performance review cycles.
@@ -34,9 +36,3 @@ October 23, 2020 | Audit of Employee self-assessment completion
 Oct 23 - Nov 6, 2020 | Supervisors hold 1:1 performance review meetings with their direct reports
 November 9, 2020 | TTS Internal ask due date to close out FY20 performance plans if not completed during 1:1s
 November 16, 2020 | Official GSA end of year close out due date for FY20 performance plans in HR Links
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops)

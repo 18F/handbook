@@ -1,5 +1,7 @@
 ---
 title: Writing Lab 101
+questions:
+  - writing-lab
 ---
 
 The Writing Lab team knows that writing is hard: It can be time consuming and stress inducing, and can sometimes seem like a blocker to a project that’s humming along. That's why the Writing Lab came into being. The Lab is a virtual writing center where you can get personalized help from members of the 18F editorial team. (And, if you’re a writerly type yourself, you can join the Lab team and volunteer to help other folks with their writing and editing projects!)
@@ -11,13 +13,6 @@ The 18F Writing Lab is run by members of 18F’s editorial team, which includes 
 All Lab members volunteer their services and base their contributions on their availability at a given time. When you file an issue or ask for help in Slack, one of the Writing Lab members will offer to help and assign themselves the issue you create.
 
 The team’s collective experience is vast. Lab members hail from backgrounds in journalism, instructional design, creative writing, public media, and more. Whether you’re thinking about creating site copy or a conference presentation, someone from the Lab has the expertise to scrub in and help.
-
-## Communication
-
-Find us in Slack:
-
-- [#writing-lab](https://gsa-tts.slack.com/messages/writing-lab)
-- [#g-content](https://gsa-tts.slack.com/messages/g-content)
 
 ## Frequently asked questions
 

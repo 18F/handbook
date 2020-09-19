@@ -1,18 +1,21 @@
 ---
 title: Promotions
 tags:
-- Promotions
-- Promotions
-- promotion
-- promotion
-- raise
-- increase
-- Merit Promotion
-- merit promotion
-- Merit Promotions
-- merit promotions
-- Merit
-- merit
+  - Promotions
+  - Promotions
+  - promotion
+  - promotion
+  - raise
+  - increase
+  - Merit Promotion
+  - merit promotion
+  - Merit Promotions
+  - merit promotions
+  - Merit
+  - merit
+questions:
+  - hiring
+  - joinTTS@gsa.gov
 ---
 
 This page provides an overview of the Merit Promotion Process for both Competitive Service (Career) and Excepted Service positions.
@@ -86,9 +89,3 @@ Virtual trainings and information on writing a resume, navigating USAJobs, and g
 - <https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/>
 - <https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/promotions/>
 - <https://insite.gsa.gov/topics/hr-pay-and-leave/hiring-and-staffing/supervisor-staffing-guide>
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Please reach out to TTS Talent via [#hiring](https://gsa-tts.slack.com/messages/hiring/) or [email](mailto:jointts@gsa.gov) for information regarding promotions.

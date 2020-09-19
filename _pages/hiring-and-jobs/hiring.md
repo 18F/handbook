@@ -1,8 +1,11 @@
 ---
 title: Hiring
 tags:
-- Hiring
-- hiring
+  - Hiring
+  - hiring
+questions:
+  - hiring
+  - joinTTS@gsa.gov
 ---
 
 This section provides a brief overview of the types of hiring actions along with any related process information.
@@ -100,9 +103,3 @@ It is the responsibility of the hiring manager to provide applications with the 
 ### TTS Hiring - Prioritization process
 
 For an overview of the way in which hiring actions are collected, prioritized and managed read our [TTS Hiring - Prioritization Process](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit?usp=sharing)
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-**General questions** Please reach out to TTS Talent via [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) or [email](mailto:jointts@gsa.gov) for information regarding hiring.

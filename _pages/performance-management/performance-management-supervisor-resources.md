@@ -1,12 +1,14 @@
 ---
 title: Performance Management Supervisor Resources
 tags:
-- Performance
-- Performance
-- Performance management
-- Performance review
-- review
-- supervisor resources
+  - Performance
+  - Performance
+  - Performance management
+  - Performance review
+  - review
+  - supervisor resources
+questions:
+  - people-ops
 ---
 
 This page contains additional resources and trainings for supervisors who are going through the performance management process.  Visit the Quick Links section of the [Performance Management Overview]({{site.baseurl}}/performance-management/) page for additional resources, including the [Performance Management Employee Checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=160010559) which Supervisors can use to track the progress of their own performance reviews.  
@@ -153,9 +155,3 @@ Courses include, but is not limited to the following:
   * Recognizing and Diagnosing a Performance Problem – Learn the importance of recognizing and managing poor performance timely.
   * Planning an Effective Appraisal - “Newly added” Learn to how to prepare and conduct an effective appraisal of performance.
   * Awards – Learn about the available awards within GSA.
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops)

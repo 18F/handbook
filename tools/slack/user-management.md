@@ -2,6 +2,8 @@
 title: Slack user management
 redirect_from:
   - /slack-admin/
+questions:
+  - admins-slack
 ---
 
 [_Back to Slack page_](../)
@@ -48,9 +50,3 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
   - [New public user requests (external)](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link)
   - [Integration requests](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit#responses)
 - [Delegation of functionality](https://docs.google.com/a/gsa.gov/document/d/1gDuScce7R6q6NqQPPS3cFe3dZFYO_ZEp60dmuzVDYwg/edit?usp=sharing)
-
----
-
-## Still have questions?
-
-Ask in Slack: [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack)

@@ -1,5 +1,10 @@
 ---
 title: First Time Travel Complete Concur Profile
+questions:
+  - travel
+  - tts-travel@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 [TTS Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
@@ -26,5 +31,3 @@ It will make booking hotels in Concur easier, and allow you to personally redeem
 
 #### Having Trouble
 Check out the screen shots [here](https://docs.google.com/drawings/d/1eP5E7Tq1K4Iva7aNSHjLukJcZzD2Cdkf6LCoEDRzsFM/edit)
-
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

@@ -1,5 +1,7 @@
 ---
 title: Slack integrations
+questions:
+  - admins-slack
 ---
 
 [_Back to Slack page_](../)

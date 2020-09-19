@@ -1,5 +1,7 @@
 ---
 title: First-Time Travel Get a Travel Card
+questions:
+  - ronnail.rawls@gsa.gov
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
@@ -70,7 +72,3 @@ After you have registered and signed into the U.S. Bank Access Online website wi
 [Visit the GSA SmartPay 3 purchase card page on InSite for more information](https://insite.gsa.gov/topics/acquisition-purchases-and-payments/gsa-purchase-card/preparing-and-implementing-gsa-smartpay-3-sp3).
 
 [Next Step: Complete Your Concur Profile]({{site.baseurl}}/first-time-travel-complete-concur-profile)
-
-#### Having trouble?
-
-Reach out to ronnail.rawls@gsa.gov

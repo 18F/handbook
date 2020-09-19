@@ -1,5 +1,10 @@
 ---
 title: Step 2 - Travel
+questions:
+  - travel
+  - tts-travel@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
@@ -97,5 +102,3 @@ Why the rush? Filling out a voucher correctly allows you to:
 On the other side, when travel expenses are submitted late, it’s a major drain on resources for the finance and agreements teams, which sometimes have to reopen billing and even modify agreements in order to recover our costs for the trip, which the Economy Act requires us to do. So, **future travel may not be approved for anyone with travel expenses that are more than 5 business days outstanding.**
 
 [Back from your trip? Head on over to get reimbursed!]({{site.baseurl}}/travel-guide-3-reimbursement)
-
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
