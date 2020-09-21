@@ -17,6 +17,7 @@ An Individual Development Plan (IDPs) is a tool to help an employee enhance thei
 Site | Description
 -------|-------
 [Salesforce](https://gsa.my.salesforce.com/) | Site where IDPs are created
+[Switch to Salesforce Classic](https://help.salesforce.com/articleView?id=000337767&type=1&mode=1) | Always make sure that you're in Salesforce Classic when creating a new IDP
 [IDP Salesforce Guide](https://insite.gsa.gov/cdnstatic/insite/Individual_Development_Plan_%28IDP%29_Application_Employee_User_Guide.pdf) | Step-by-step guide for creating and accessing IDPs in Salesforce
 [IDP Overview](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan) | Provides info on common goals for IDPs and why they are important
 [IDP Employee Tool Kit](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan/idp-employee-tool-kit) | Provides video guides for entering IDPs
