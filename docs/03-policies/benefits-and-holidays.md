@@ -38,6 +38,27 @@ If you are unexpectedly unable to work for any reason (e.g., illness, emergency,
 
 Time off will be recorded simply to easily see any patterns that might otherwise be overlooked, including non-use. Unless it will cause an extreme hardship on the company and your team, no request for time off under two weeks will be turned down.
 
+## Personal Tech Issues
+
+At CivicActions, we understand that tech support problems are a normal part of working from home.
+
+### Communication
+
+Communicate early and often.
+
+1. Ping your team in Slack to let them know you aren't available.
+2. Set a Slack status (if you can,) so people know you aren't available.
+3. If you aren't able to access Slack, deputize your work contact to let your PM(s) and team know.
+4. If the problem lasts longer than 2 hours, email <mailto:ca-schedule@civicactions.net> and follow our sick leave policy and follow the procedure for [logging sick time off](../04-how-we-work/tools/harvest.md) in Harvest with CivicActions and then write "tech support" in when you log your time.
+5. If it's persistent, set an out of office message.
+
+### Slack Channels
+
+You can go to the following Slack channels for support:
+#windows
+#osx
+#gnu-linux
+
 ## Schedule Shifts
 
 If you find yourself needing to adjust your schedule a certain day or week, it is best practice to follow a similar process as requesting time off. A schedule shift does not mean you are taking time off, but rather you have an interrupted or different schedule from your normal work week. An example could be your team is traveling for a project/sales meeting, your attending a conference, you need a Tuesday off but plan to make up the hours over the weekend.
