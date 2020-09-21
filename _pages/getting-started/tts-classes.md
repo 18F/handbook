@@ -27,6 +27,7 @@ This section provides an overview of each of the classes, broken into topics, fo
 * [Background and Operations at TTS]({{site.baseurl}}/tts-classes/#background-and-operations-at-tts)
 * [Divisions of TTS]({{site.baseurl}}/tts-classes/#divisions-of-tts)
 * [Online Learning University (OLU) Mandatory Training]({{site.baseurl}}/tts-classes/#online-learning-university-olu-mandatory-training)
+* [Methods, Tidbits, and Case Studies]({{site.baseurl}}/tts-classes/#methods-tidbits-and-case-studies)
 
 
 ### Class Formats
@@ -58,7 +59,8 @@ Working Groups and Guilds | Introduction to Working Groups and Guilds, how to jo
 
 Name | Description | Format | Guidance
 -------|-------|-------|-------
-Hatch Act, FOIA, Ethics, and Code of Conduct | An overview of important governance compliance topics | Slack | Recommended
+**Hatch Act, FOIA, Ethics, and Code of Conduct** | An overview of important governance compliance topics | Slack | Recommended
+**Hatch Act Training** | [A training](https://insite.gsa.gov/about-us/agency-news/feature-stories/hatch-act-training-video-now-available) from OSC’s Hatch Act Unit. Must be on the GSA network to watch it. | Self-guided video | As needed
 
 ### Background and Operations at TTS
 
@@ -86,6 +88,16 @@ Federalist 101 | Introduction to Federalist, a service that makes it easy to lau
 See our [Online Learning University handbook page](https://handbook.tts.gsa.gov/olu/) for a list of mandatory annual training certifications.
 
 We suggest logging in to OLU monthly to check whether you have any mandatory or suggested classes assigned to you. Please be aware that mandatory classes will have ‘due dates’ and must be completed on time.
+
+### Methods, Tidbits, and Case Studies
+A collection of resources and meeting recordings from 18F Team Coffees, TTS AMAs, and elsewhere.
+
+Name | Description | Format | Guidance
+-------|-------|-------|-------
+[Acquisition 101](https://drive.google.com/file/d/1r0TlwEF-Z1Ok0r2YigSa2VLbPSnZfYhG/view?t=23m09s) | Acquisition at 18F: history, crash course, why it matters to you (18f-specific) | Self-guided video | As needed
+[Vendor Transition and Sustainability planning](https://drive.google.com/file/d/1dKlUVH7aVCyu7TI2oo413-CT2z4yln3J/view?t=23m30s) | Lessons learned from vendor transitions and planning for sustainability throughout a project. (18f-specific) | Self-guided video | As needed
+[How Staffing Works Now](https://drive.google.com/file/d/13j_wFY7ewvyEoPfK4p0gr9L2Bv1Q65yD/view?t=36m34s) | A primer on how people get staffed to partner projects.  (18f-specific) | Self-guided video | As needed
+ 
 
 ## Calendar
 
