@@ -18,6 +18,15 @@ To learn about the different hiring authorities we use please visit our [hiring 
 
 Hiring Managers are crucial to filling workforce needs within TTS and to ensuring that diversity, equity and inclusion are top of mind throughout the hiring process.  A [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit) was created to outline the hiring process from role prioritization through onboarding, with information from the Talent team as well as tips and best practices from seasoned TTS hiring managers. 
 
+## Interviewer Resources
+
+Interviewers are a vital part of vetting incoming talent, as well as creating a positive experience for our candidates. 
+
+Below are some resources that cover expectations around interviews, best practices for remote interviewing and slack usage, and tips for recognizing and correcting for unconscious bias. 
+- [TTS Interviewer Training slides](https://docs.google.com/presentation/d/1B6KoiOX2QVigF6KTnaldjFwY6GG5V7UV27LchRL27cE/edit#slide=id.g6d9ab3b2cf_0_404)
+- [Interviewing for TTS 101](https://docs.google.com/document/d/13MdNbFeWgKWMycdlAhkNSG6Eet3_NAVETnpuIweuMrU/edit#heading=h.arj274vgsryn)
+- [Recognizing Unconscious Bias](https://handbook.tts.gsa.gov/unconscious-bias/)
+
 ## Types of hiring actions at TTS
 
 ### Competitive (Career) and Excepted Service hiring actions via the Merit Promotion Process
