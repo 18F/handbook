@@ -5,6 +5,8 @@ tags:
    - sound
 redirect_from:
    - /google-hangouts/
+questions:
+  - it-issues
 ---
 
 Google Meet (which has mostly replaced Google Hangouts) is an online video conferencing tool that integrates with Google calendar.
@@ -55,9 +57,3 @@ If you're doing a virtual presentation it can be a bit tricky, so here are some 
 2. Resize the browser window with the active Meet (C) to be half of your screen.
 4. Select "present window" and choose the window (A) with your presentation slides.
 5. Align your presenter view (B) with the meet on half your screen - now you can see your notes, the folks you are presenting to, _and_ a thumbnail of your presentation all on your monitor!
-
----
-
-## Still have questions?
-
-Ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops), [#it-issues](https://gsa-tts.slack.com/messages/it-issues)

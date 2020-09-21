@@ -1,5 +1,10 @@
 ---
 title: Get set up to travel for TTS <em>before</em> GSA onboarding
+questions:
+  - travel
+  - tts-travel@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 [TTS Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
@@ -10,7 +15,7 @@ Steps to take after onboarding <br>
 
 If you're traveling for TTS during your first two weeks (normally for orientation, if you're based in a city that doesn't have a TTS office), you'll need to follow special procedures to get your account set up, which will allow you to make your flight and hotel reservations via AdTrav by calling (877) 472-6716. Here's what you need to do:
 
-1. First thing to get is a **“travel vendor ID”**, which you can request by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing) and sending it to:  
+1. First thing to get is a **“travel vendor ID”**, which you can request by filling out [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing) and sending it to:
 [kc-vendor.number.requests@gsa.gov](mailto:kc-vendor.number.requests@gsa.gov).
 
    _Note if you haven't started and don't have your GSA email address yet_:
@@ -44,5 +49,3 @@ The easiest option is to have your airline reschedule you. If that's not possibl
 If you are traveling to orientation and are worried that you will miss it because of delays or cancellations, please email the [TTS Talent team](mailto:tts-jointts@gsa.gov) and copy anyone who helped you set up travel.  We will make arrangements for you to swear in when you expect to arrive. You may have to attend GSA orientation in your home city 2 weeks later, but please continue to travel to the office where your orientation was scheduled to be for onboarding.
 
 While the Talent and Travel Teams won't be available until Monday if your cancellation occurs over the weekend, please feel comfortable rebooking your travel either though the airline or via Ad-Trav, and rest assured that you will be in good hands when you arrive at TTS.
-
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or [book office hours here](https://sites.google.com/a/gsa.gov/tts-office-hours/).

@@ -1,6 +1,5 @@
 ---
 title: Diversity, Equity, and Inclusion at TTS
-navtitle: Diversity, Equity, and Inclusion at TTS
 redirect_from:
   - /intro-to-the-diversity-guild/
 ---

@@ -1,5 +1,10 @@
 ---
 title: Travel Approval Email Templates
+questions:
+  - travel
+  - tts-travel@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101) <br>
@@ -44,6 +49,3 @@ Below is the travel cost break out for [ work to be performed ] for [ Budget nam
 Many thanks,
 
 [ requestor_name ]
-
-
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

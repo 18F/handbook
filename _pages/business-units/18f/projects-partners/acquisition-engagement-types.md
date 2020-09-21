@@ -1,10 +1,12 @@
 ---
 title: Acquisition Engagements Types
 tags:
-- procurement
-- acquisitions
-- engagements
-- consulting
+  - procurement
+  - acquisitions
+  - engagements
+  - consulting
+questions:
+  - acquisition
 ---
 
 Generally speaking, there are two ways that 18F can work with a partner on a procurement - an *Acquisition Consulting Engagement* and an *Assisted Acquisition Engagement*.

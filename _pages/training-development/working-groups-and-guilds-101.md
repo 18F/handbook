@@ -1,6 +1,5 @@
 ---
 title: Working groups, guilds, and other communities
-navtitle: Working groups and guilds
 redirect_from:
   - /general-contacts-and-listservs/
 ---

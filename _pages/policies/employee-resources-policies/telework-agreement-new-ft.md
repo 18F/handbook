@@ -1,10 +1,13 @@
 ---
 title: TTS Telework - How to submit Full Time Telework Agreement for new hires
 tags:
-- remote
-- telework
-- virtual
-- home
+  - remote
+  - telework
+  - virtual
+  - home
+questions:
+  - people-ops
+  - hrlinks@gsa.gov
 ---
 
 This is a short How-To guide for new employees in full time telework positions to quickly and easily submit your Telework Agreement through HR Links. In most, if not all cases, new employees that are “Virtual” in the final job offer have had initial telework documentation completed by their supervisors or the talent team. The Telework Agreement is still needed, but with those pre-approvals in place, the following steps should work for you.
@@ -55,10 +58,3 @@ Fill out the form using the following information for Part A:
 2. Save/Submit the form. 
 
 <img src="{{site.baseurl}}/images/hrlinks/ft-telework-3.png" alt="Screenshot of Employee Signature form section" />
-
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Please ping: [People Ops](https://gsa-tts.slack.com/messages/people-ops) or send an email to [hrlinks@gsa.gov](mailto:hrlinks@gsa.gov)

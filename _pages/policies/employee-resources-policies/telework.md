@@ -1,10 +1,13 @@
 ---
 title: TTS Telework Guidance
 tags:
-- remote
-- telework
-- virtual
-- home
+  - remote
+  - telework
+  - virtual
+  - home
+questions:
+  - people-ops
+  - TTS-PeopleOps@gsa.gov
 ---
 
 A core belief of TTS is, “Work is what we do, not where we are.”  The goal of this TTS telework guidance is not to recreate or augment GSA policy but to answer the top telework questions and provide clarity around how often TTS employees can telework.  
@@ -77,9 +80,3 @@ Employees and supervisors must discuss pros and cons of becoming a full-time tel
   * Agency Impact:   Does TTS or GSA benefit from you being a full-time teleworker?  
 
   * Position:  Does your position description have any restrictions?  For example Administrative Support Specialists must report to an office and cannot be full-time teleworkers.
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Please ping: [Talent](https://gsa-tts.slack.com/messages/people-ops) or send an email to [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov)

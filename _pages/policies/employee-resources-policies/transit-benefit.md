@@ -1,11 +1,13 @@
 ---
 title: Transit Benefit
 tags:
-- transit
-- benefit
-- subsidy
-- transportation
-- public
+  - transit
+  - benefit
+  - subsidy
+  - transportation
+  - public
+questions:
+  - co-transit-subsidy@gsa.gov
 ---
 This page outlines how to sign up for and how to cancel the transit benefit.
 
@@ -55,7 +57,3 @@ Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to s
 - Click on **Withdraw from the program**
 - Click **Continue**
 - Fill out and submit the form
-
-## Contact
-
-GSA's new Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).

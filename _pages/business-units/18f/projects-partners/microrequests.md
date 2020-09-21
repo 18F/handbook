@@ -1,6 +1,7 @@
 ---
 title: Microrequests
-navtitle: Microrequests
+questions:
+  - microrequests
 ---
 
 ## What is a microrequest?

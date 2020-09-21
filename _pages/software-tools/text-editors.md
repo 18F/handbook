@@ -1,6 +1,7 @@
 ---
 title: Text editors
-navtitle: Text editors
+questions:
+  - questions
 ---
 
 We use text editors to write documentation in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and to develop code.
@@ -27,9 +28,3 @@ We use text editors to write documentation in [Markdown](https://github.com/adam
     - WordCount
     - EditorConfig
     - Markdown Preview
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions/) or [#teamops](https://gsa-tts.slack.com/messages/teamops/)

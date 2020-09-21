@@ -1,13 +1,15 @@
 ---
 title: Mid Year Performance Management HRLinks Steps
 tags:
-- Performance
-- Performance
-- Performance management
-- Performance review
-- review
-- HR links
-- HRLinks steps
+  - Performance
+  - Performance
+  - Performance management
+  - Performance review
+  - review
+  - HR links
+  - HRLinks steps
+questions:
+  - people-ops
 ---
 
 This page contains step-by-step instructions for employees and supervisors on how to complete the mid-year performance review cycle in HR Links.
@@ -109,10 +111,3 @@ A supervisor can acknowledge an employee evaluation if the employee is unable to
 * Step-by-step instructions:
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.u17jlta6re6m)
-
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops)

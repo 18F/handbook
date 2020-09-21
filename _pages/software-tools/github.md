@@ -2,6 +2,10 @@
 title: GitHub
 tag:
   - Git
+questions:
+  - git
+  - admins-github
+  - dev
 ---
 
 GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience.
@@ -193,9 +197,3 @@ We automate some administration of our repositories - see [`ghad`](https://githu
 - [Githug](https://github.com/Gazler/githug) is designed to give you a practical way of learning git. It has a series of levels, each requiring you to use git commands to arrive at a correct answer.
 
 - [Try Git](https://try.github.io/levels/1/challenges/1)
-
----
-
-#### Still have questions?
-
-Ask in Slack: [#git](https://gsa-tts.slack.com/messages/git), [#admins-github](https://gsa-tts.slack.com/messages/admins-github), [#dev](https://gsa-tts.slack.com/messages/dev)

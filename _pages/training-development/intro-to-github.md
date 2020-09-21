@@ -1,6 +1,5 @@
 ---
 title: Intro to GitHub
-navtitle: Intro to GitHub
 tags:
   - github
 ---

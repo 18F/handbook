@@ -1,6 +1,5 @@
 ---
 title: One TTS
-navtitle: One TTS
 ---
 
 Government leaders are challenged to provide effective and efficient services using outdated technology, processes, and thinking. Government employees and the American public deserve better, and TTS has the expertise and experience to help federal agencies better serve their customers.

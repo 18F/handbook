@@ -1,10 +1,13 @@
 ---
 title: Detail Process
 tags:
-- assignees
-- detailees
-- details
-- assignee
+  - assignees
+  - detailees
+  - details
+  - assignee
+questions:
+  - people-ops
+  - PeopleOperations@gsa.gov
 ---
 
 A detail is when a person in one agency goes to work at another agency on a temporary, time-specific, and limited basis.
@@ -129,9 +132,3 @@ To learn about this process please visit the [Hiring page]({{site.baseurl}}/hiri
 ## Posting a Detail Opportunity on USAJobs
 
 USA Jobs has an [Open Opportunity](https://openopps.usajobs.gov/) section where you can post or apply to detail opportunties at other federal agencies. You must create a USAJobs account to do either.
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Please ping: [People-Ops](mailto:PeopleOperations@gsa.gov)

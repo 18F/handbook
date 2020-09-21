@@ -1,12 +1,14 @@
 ---
 title: Performance Management Employee Resources
 tags:
-- Performance
-- Performance
-- Performance management
-- Performance review
-- review
-- employee resources
+  - Performance
+  - Performance
+  - Performance management
+  - Performance review
+  - review
+  - employee resources
+questions:
+  - people-ops
 ---
 
 This page contains additional resources and trainings for employees who are going through the performance management process.  Visit the Quick Links section of the [Performance Management Overview]({{site.baseurl}}/performance-management/) page for the Performance Management Employee Checklist.  
@@ -76,9 +78,3 @@ Courses include, but is not limited to the following:
 * Recognizing and Diagnosing a Performance Problem – Learn the importance of recognizing and managing poor performance timely.
 * Planning an Effective Appraisal - “Newly added” Learn to how to prepare and conduct an effective appraisal of performance.
 * Awards – Learn about the available awards within GSA.
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops)

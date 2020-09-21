@@ -1,18 +1,20 @@
 ---
 title: Tock
+questions:
+  - tock
 ---
 
 ## Quick reference
 
 **18F staff should only enter time in the following categories:**
 
-- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F. 
-- **18F Business Ops - #1195:** Time specifically spent working on 18F business development efforts. 
+- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F.
+- **18F Business Ops - #1195:** Time specifically spent working on 18F business development efforts.
 - **18F Hiring - #1241:** Time specifically spent working on 18F hiring (such as preparing interview guides, reading resumes, interviews and debriefs).
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
 - **Out of Office - #670:** Vacation time, federal holidays, or sick time
 - **18F Project work - project ID varies:** The specific projects you're working on.
-- **(Coming Soon!) 18F Engagement Management - project ID varies:** This code is used for non-primary project team members (i.e. staffing leads, supervisors, etc.) who are participating in staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, etc. 
+- **(Coming Soon!) 18F Engagement Management - project ID varies:** This code is used for non-primary project team members (i.e. staffing leads, supervisors, etc.) who are participating in staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, etc.
 
 **Cloud.gov**
 - Tock your usual 40 hours to the cloud.gov P&L (#955) generally unless you’re doing billable work for something in 18F.  More specific Tock instructions for Cloud team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
@@ -36,12 +38,12 @@ Timecards for the current week should be available no later than Monday at 9AM P
 
 ## Tock and HR Links
 
-Tock is a different tool than HR Links and is used for a different purpose: 
+Tock is a different tool than HR Links and is used for a different purpose:
 
-- Tock is an internal TTS tool that tracks our billable hours on projects; we often use that data to bill our agency partners. 
+- Tock is an internal TTS tool that tracks our billable hours on projects; we often use that data to bill our agency partners.
 - HR Links is a GSA-level tool that records how much and what kind of leave (sick, annual, family) an employee takes during a given two-week pay period.
 
-It can be confusing because out of office time IS tracked in Tock. But that’s only so we can understand that you weren’t billing to a project because you were out of the office. Leave can only be officially requested via HR Links. 
+It can be confusing because out of office time IS tracked in Tock. But that’s only so we can understand that you weren’t billing to a project because you were out of the office. Leave can only be officially requested via HR Links.
 
 Supervisors approve and submit HR Links timesheets every two weeks (during the week following the end of a pay period), and while out of office time in Tock should match what’s in the official record of HR Links, any emails you receive about timesheet errors are related to HR Links, not Tock. Forward those to your supervisor for assistance.
 
@@ -102,17 +104,17 @@ That leaves up to 10% of your time to be spent on non-billable work. There are a
 
 GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers), and so forth. These are the things we don’t have a choice but to spend time on.
 
-18F non-billable work includes time spent on hiring, in guilds and working groups (that are not in service of project work), team coffees, chapter meetings, approved internal projects, conference attendance, training events, and anything else that contributes to the running of TTS as an organization. 
+18F non-billable work includes time spent on hiring, in guilds and working groups (that are not in service of project work), team coffees, chapter meetings, approved internal projects, conference attendance, training events, and anything else that contributes to the running of TTS as an organization.
 
 However, time within those activities spent discussing a billable project may also be billable. For example, if you're in a 1:1 or guild meeting working through a difficult project issue, that's billable.
 
 Not sure whether work you’re doing is billable? If it’s not explicitly an indirect cost, it’s project work.
 
-Effective July 6, 2020 for 18F: 
+Effective July 6, 2020 for 18F:
 
 So for most people in a given 40-hour week, the expectation is to bill at least 36 hours to project work. But what about holidays or leave time? Then you’ll need to spend 90% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
 
-Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed) 
+Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed)
 --- | --- | ---
 5 days | 36 hours (90% of 40 hours) | 4 hours
 4 days | 29 hours (90% of 32 hours) | 3 hours
@@ -149,7 +151,7 @@ In short, we need to know if our scoping is accurate. We'd rather be over budget
 
 ### Tocking for Out of Office Time
 
-You cannot request paid time off in Tock (see the [Leave](../leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly Tock. Staff should Tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to Tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office. 
+You cannot request paid time off in Tock (see the [Leave](../leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly Tock. Staff should Tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to Tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office.
 
 If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your Tock hours for you during your out of office period. Example:
 
@@ -171,7 +173,3 @@ Tock likely doesn't have your start date listed correctly. To fix this:
 ### How do I change a reporting period I already filled out?
 
 Submit a Tock change request using [this form](https://docs.google.com/forms/d/1EpVTxXgRNgYfoSA2J8Oi-csjhFKqFm5DT542vIlahpU/viewform?edit_requested=true). You can also ping us in [#tock](https://gsa-tts.slack.com/messages/tock) and we'll help you out.
-
-## Still have questions?
-
-Ask in Slack: [#tock](https://gsa-tts.slack.com/messages/tock)

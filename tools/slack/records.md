@@ -1,5 +1,7 @@
 ---
 title: Slack records
+questions:
+  - admins-slack
 ---
 
 [_Back to Slack page_](../)

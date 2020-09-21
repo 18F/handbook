@@ -1,8 +1,10 @@
 ---
 title: Product
 tags:
-- product guide
-- product manager
+  - product guide
+  - product manager
+questions:
+  - product
 ---
 
 We use product management best practices to help teams deliver sustainable outcomes.

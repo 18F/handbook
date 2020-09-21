@@ -1,13 +1,15 @@
 ---
 title: End of Year Performance Management HRLinks Steps
 tags:
-- Performance
-- Performance
-- Performance management
-- Performance review
-- review
-- HR links
-- HRLinks steps
+  - Performance
+  - Performance
+  - Performance management
+  - Performance review
+  - review
+  - HR links
+  - HRLinks steps
+questions:
+  - people-ops
 ---
 
 This page contains step-by-step instructions for employees and supervisors on how to process and approve performance plans in HR Links for the end of year performance review cycle.
@@ -151,9 +153,3 @@ It is critical that all FY20 performance plan evaluations are acknowledged by em
 ### Selecting Time Off Award in lieu of cash performance award
 
 Information will be updated pending guidance from GSA.
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops)

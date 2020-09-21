@@ -2,6 +2,8 @@
 title: Google Drive
 redirect_from:
   - /google-docs/
+questions:
+  - it-issues
 ---
 
 _a.k.a. G Suite_
@@ -58,9 +60,3 @@ If you're using a non-Google service and it requests access to your GSA Google D
 ## Local editing
 
 [Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en) can be used for local editing of files on Drive, though offline editing is not yet supported for Macs at GSA. [InSite page.](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-drive-and-shared-drive?term=drive%20file%20stream#Drive%20File%20Stream)
-
----
-
-## Still have questions?
-
-Ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops), [#it-issues](https://gsa-tts.slack.com/messages/it-issues)

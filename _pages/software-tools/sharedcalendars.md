@@ -1,7 +1,9 @@
 ---
 title: Sharing calendars with partners
 tags:
-- calendars
+  - calendars
+questions:
+  - it-issues
 ---
 If you’re running a project with a partner, gaining ready visibility into team member calendars can make life (or at least scheduling meetings) a bit easier so you know when people may be available to meet.
 
@@ -67,10 +69,3 @@ Sharing non-GSA federal calendars from Outlook using MAX.gov (depends on agency)
 
  - https://community.max.gov/pages/viewpage.action?pageId=658899186
  - https://community.max.gov/display/Help/Feedback+for+Synching+to+MAX+Calendar
-
-
----
-
-## Still have questions?
-
-Ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops), [#it-issues](https://gsa-tts.slack.com/messages/it-issues)

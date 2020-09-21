@@ -1,5 +1,10 @@
 ---
 title: Get access to Concur
+questions:
+  - travel
+  - tts-travel@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 [TTS Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br />
@@ -13,7 +18,7 @@ There are four required steps to gain access to [Concur](https://travel.gsa.gov/
 
 2. Take the 2019 GSA Mandatory Cyber Security and Privacy Training in [OLU](https://gsaolu.gsa.gov). This can take several hours. Follow the instructions [here]({{site.baseurl}}/olu/#help-with-olu) if you need help.
 
-3. Complete the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing), minus the EFT enrollment form. Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well!  
+3. Complete the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing), minus the EFT enrollment form. Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well!
 *_Not sure about a particular field? Get help by reading the_ [_FAQ below_](#frequently-asked-questions)
 
 4. Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). _Do not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only email it to tts-travel@gsa.gov. Your account will be set up before [the next travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/), which you can also book any time if you have questions.
@@ -35,7 +40,3 @@ GSA employee (Virtual) if based anywhere else.
 
 #### Whose signature should I get for the supervisor field?
 That of your functional supervisor.
-
-### Got other questions?
-
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)

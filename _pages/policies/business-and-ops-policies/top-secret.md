@@ -1,12 +1,17 @@
 ---
 title: Top Secret / Sensitive Compartmented Information (TS/SCI) Clearance
 tags:
-- secret
-- clearance
-- top
-- security
+  - secret
+  - clearance
+  - top
+  - security
+questions:
+  - people-ops
+  - TTS-PeopleOps@gsa.gov
 ---
 Most TTS employees hold moderate risk Public Trust positions. However, for certain projects, partners need TTS employees to have access to classified national security information. These employees need to be granted security clearance eligibility (a.k.a a security clearance) to be able to view this information. This page covers the basics like clearance levels, your clearance status, your clearance obligations, and clearance upgrade requests.
+
+The Center for Development of Security Excellence's [Personnel Security page](https://www.cdse.edu/catalog/personnel-security.html) is GSA's recommended go-to source to learn about security clearances in depth.
 
 ## Clearance Levels
 There are [three national security clearance levels](https://en.wikipedia.org/wiki/List_of_U.S._security_clearance_terms): Confidential, Secret, and Top Secret. Work deemed Critical Sensitive requires a Top Secret clearance. Special Sensitive work requires access to Sensitive Compartmented Information and therefore a Top Secret / Sensitive Compartmented Information (TS/SCI) clearance. When TTS employees need a clearance, it is typically a TS/SCI.
@@ -63,10 +68,3 @@ The People Ops Team will contact GSA HR Classification and work with HR and the 
   * This delay is due to the backlogs at OPM. The SCI portion is controlled by the Central Intelligence Agency (CIA) and can only be requested after the TS is complete.  You should plan an additional 4-6 weeks for that process.
   
 ### 7. When a clearance has been approved, the assigned adjudicator from the Security Office will inform you directly and provide you further instructions. 
-
-
---------------------------------------------------------------------------------
-
-## Have questions?
-
-The Center for Development of Security Excellence's [Personnel Security page](https://www.cdse.edu/catalog/personnel-security.html) is GSA's recommended go-to source to learn about security clearances in depth. Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops) or [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov)

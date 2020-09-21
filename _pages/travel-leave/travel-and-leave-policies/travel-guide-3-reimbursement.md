@@ -1,5 +1,10 @@
 ---
 title: Step 3 - Get Reimbursed
+questions:
+  - travel
+  - tts-travel@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101) <br>
@@ -28,5 +33,3 @@ Finally, don't forget to [stamp and submit for travel team approval!]({{site.bas
 [Confused by error messages?](https://docs.google.com/document/d/1zD020XAXRIpuXPKgY0zadLBNJmBaRj_29-DhClrkZAo/edit)
 
 [Have issues with reimbursements or outstanding travel card balances?]({{site.baseurl}}/travel-guide-faq/#issues-with-reimbursement)
-
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)*, [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or [book office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).

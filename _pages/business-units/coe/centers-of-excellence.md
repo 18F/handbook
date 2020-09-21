@@ -1,5 +1,7 @@
 ---
 title: IT Modernization Centers of Excellence
+questions:
+  - centers-of-excellence
 ---
 
 ## Our Story

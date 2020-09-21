@@ -1,6 +1,5 @@
 ---
 title: TTS Technology Portfolio
-navtitle: Tech Portfolio
 redirect_from:
   - /infrastructure/
 questions:

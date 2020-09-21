@@ -1,11 +1,13 @@
 ---
 title: Work on an Acquisition Engagement
 tags:
-- procurement
-- acquisitions
-- engagements
-- consulting
-- staffing
+  - procurement
+  - acquisitions
+  - engagements
+  - consulting
+  - staffing
+questions:
+  - acquisition
 ---
 
 So you’ve been staffed to a procurement project. Here are some common questions that may come up.
@@ -48,9 +50,7 @@ However, no matter how well-versed our partners become in these practices, the r
 * **Award**: When an agency has completed the vetting and selection process for a procurement and identifies a specific vendor to work with. 
 * **Post-award**: The period after an award has been made, when the agency begins working with a specific vendor to take delivery of specific materials and artifacts as spelled out in the contract.
 
-## Where can I learn more? 
+## Where can I learn more?
 
-* Check out [related blog posts](https://18f.gsa.gov/tags/procurement/) 
-* Learn about the [two types of procurement support]({{site.baseurl}}/acquisition-engagement-types/) we can provide. 
-* Join the #acquisitions Slack channel
-
+* Check out [related blog posts](https://18f.gsa.gov/tags/procurement/)
+* Learn about the [two types of procurement support]({{site.baseurl}}/acquisition-engagement-types/) we can provide.

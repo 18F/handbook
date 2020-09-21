@@ -1,5 +1,10 @@
 ---
 title: Step 1 - Book Travel in Concur and Secure Approvals
+questions:
+  - travel
+  - tts-travel@gsa.gov
+  - text: Book office hours
+    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101) <br>
@@ -33,5 +38,3 @@ Once you have finalized your reservations, there are still a few more steps to f
 Ensure all of the above steps are completed no later than 3:30 PM ET the last business day before travel to give the travel team sufficient time to review. After-hours or emergency travel requests may be made in coordination with your supervisor and AdTrav via the process outlined [here]({{site.baseurl}}/travel-guide-b-after-hours-emergency-travel-authorizations).<br>
 <br>
 Should you need to rebook your travel at any point in the process, read the instructions [here]({{site.baseurl}}/travel-guide-a-amended-authorizations).
-
-*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel), [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), or book office hours [here](https://sites.google.com/a/gsa.gov/tts-office-hours/)*

@@ -1,11 +1,13 @@
 ---
 title: Performance Management Mid Year Review
 tags:
-- Performance
-- Performance management
-- Performance review
-- review
-- mid year
+  - Performance
+  - Performance management
+  - Performance review
+  - review
+  - mid year
+questions:
+  - people-ops
 ---
 
 This page contains important dates, links, and information for the mid year performance review cycle.  Please see the [Mid Year Performance Management HRLinks Steps page]({{site.baseurl}}/mid-year-hrlinks-steps/) for guided instructions.
@@ -41,9 +43,3 @@ Resource | Use
   * **AFGE Union members:** a rating is required for each critical element of the performance plan and you must also inform the employee whether his/her overall performance to date remains consistent with the summary rating received on the last annual rating of record.
   * **NFFE Union members:** a rating is NOT required for each critical element but you must inform the employee whether his/her overall performance to date remains consistent with the summary rating received on the last annual rating of record. It is recommended that manager comments are documented in the GSA Elements Summary section in HR Links.
   * **Non-union employees:** a rating and/or comments is not required.
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops)

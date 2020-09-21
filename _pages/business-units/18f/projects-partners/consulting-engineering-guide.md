@@ -1,8 +1,8 @@
 ---
-title: Consulting engineering guide
-tag:
+title: 18F guide to consulting engineering
+questions:
+  - dev
 ---
-# 18F guide to consulting engineering
 
 Over the past few years, 18F has moved from a product organization (“we’ll build a thing for you”) to a consulting organization (“we’ll teach you to build, buy, and maintain a thing yourself”). We’ve found this to be a better fit for us and for our partners; it lets us consider not just tech but the systems in which tech operates, and it helps our partners practice the skills they need to keep building on our work long after we’re gone.
 

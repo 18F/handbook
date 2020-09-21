@@ -1,15 +1,17 @@
 ---
 title: Performance Management Overview
 tags:
-- Performance
-- Performance
-- Performance
-- Performance
-- Performance
-- Performance
-- Performance management
-- Performance review
-- review
+  - Performance
+  - Performance
+  - Performance
+  - Performance
+  - Performance
+  - Performance
+  - Performance management
+  - Performance review
+  - review
+questions:
+  - people-ops
 ---
 
 This page contains performance management quicklinks, important dates, and guidance for employees and supervisors.  Visit the [development and training]({{site.baseurl}}/development-and-training/) page for opportunities within GSA that are available to TTS employees
@@ -57,9 +59,3 @@ Information will be updated pending guidance from GSA.
     * Mid-Year Self-Assessment
     * Acknowledge a Mid-Year Progress Review
     * Acknowledge an Evaluation
-
---------------------------------------------------------------------------------
-
-### Still have questions?
-
-Ask [#people-ops](https://gsa-tts.slack.com/messages/people-ops)

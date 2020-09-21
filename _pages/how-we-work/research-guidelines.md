@@ -1,6 +1,7 @@
 ---
 title: Doing research at TTS
-navtitle: Research guidelines
+questions:
+  - g-research
 ---
 
 Research isn’t only usability testing. Testing our assumptions by actively engaging with the world around us is at the heart of how TTS works. We do research when we meet with stakeholders to learn about a project, when we investigate and compare tools and systems, and when we find members of the public to tell us about their experiences with the federal government. Research can include questionnaires and surveys, as well as analytics.
@@ -68,4 +69,4 @@ Carefully restricting access to personally identifiable information is a matter 
 
 ## Join the research guild!
 
-The Guild talks in [#g-research](https://gsa-tts.slack.com/archives/g-research) and meets once a week to discuss the theory and practice of asking questions.
+The Guild meets once a week to discuss the theory and practice of asking questions.
