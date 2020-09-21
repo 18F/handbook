@@ -20,7 +20,7 @@ Hiring Managers are crucial to filling workforce needs within TTS and to ensurin
 
 ## Interviewer Resources
 
-Interviewers are a vital part of vetting incoming talent, as well as creating a positive experience for our candidates. 
+Interviewers play a fundamental role in vetting incoming talent, as well as creating a positive experience for our candidates. Moreover, they are critical in ensuring a fair and equitable hiring experience.
 
 Below are some resources that cover expectations around interviews, best practices for remote interviewing and slack usage, and tips for recognizing and correcting for unconscious bias. 
 - [TTS Interviewer Training slides](https://docs.google.com/presentation/d/1B6KoiOX2QVigF6KTnaldjFwY6GG5V7UV27LchRL27cE/edit#slide=id.g6d9ab3b2cf_0_404)
