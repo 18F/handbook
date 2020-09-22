@@ -16,6 +16,8 @@ All GSA employees who take mass/public transit to work are eligible for transit 
 
 ## Enrolling in transit benefit
 
+The [GSA FY20 Guide to Registration](https://www.transportation.gov/transerve/participants/gsa-fy20-guide-registration) has instructions and images that can help walk you through the TranServe registration process.  The step-by-step guidance below has information that is specific to TTS employees:
+
 Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to select the **Transit Coordinator in the Region in which you reside** - this information is listed in the online form.
 
 - Go to [https://www.transportation.gov/transerve/participants/gsa](https://www.transportation.gov/transerve/participants/gsa)
@@ -38,8 +40,8 @@ Use `T-TECH TRANSFORMATION SERVICE` as your organizational code.  Make sure to s
         * Common identifier: **TRANSIT**
     * Fill out "Approver Information Section"
         * Select your Supervisor - If your supervisor is not listed, have your supervisor follow these steps:      
-            - Fill out this [form](https://www.transportation.gov/sites/dot.gov/files/docs/GSA_Guide_to_Regristration_0.pdf)
-            - Send an email to [gsa-transit-subsidy@gsa.gov](mailto:gsa-transit-subsidy@gsa.gov) requesting elevation to supervisor status
+            - If the Supervisor is not currently enrolled in the TranServe system, they will need to follow all of the steps above to enroll as a "participant"
+            - Once enrolled, the Supervisor needs to send an email to Alexandra Sabbers at [gsa-transit-subsidy@gsa.gov](mailto:gsa-transit-subsidy@gsa.gov) requesting elevation to "Supervisor" status
         * Transit Coordinator: 
             * DC employees: **FAS-Transit Subsidy** 
             * Other regions: consult the [transit subsidy coordinators list](https://insite.gsa.gov/topics/hr-pay-and-leave/benefits/transit-subsidy/transit-subsidy-coordinators)
