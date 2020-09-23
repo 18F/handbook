@@ -40,11 +40,11 @@ Time off will be recorded simply to easily see any patterns that might otherwise
 
 ## Personal Tech Issues
 
-At CivicActions, we understand that tech support problems are a normal part of working from home.
+At CivicActions, we understand that having occasional issues with your home network, power and personal equipment are a normal part of working from home.
 
 ### Communication
 
-Communicate early and often.
+When you have a technical issue with your home network, power and personal equipment that stops you from being able to work at all, communicate early and often:
 
 1. Ping your team in Slack to let them know you aren't available.
 2. Set a Slack status (if you can,) so people know you aren't available.
