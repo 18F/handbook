@@ -26,3 +26,7 @@ There is not an easy way to export the contents of a single channel, for partner
 1. Repeat
 
 These, of course, will be images, so they unfortunately won't be searchable.
+
+## Working with records
+
+When GSA gets audit or [FOIA](https://www.foia.gov/) requests for Slack messages, the [slack-export-handling](https://github.com/18F/slack-export-handling) tool is used for searching/filtering.
