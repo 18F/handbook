@@ -44,7 +44,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Director of Business Development Detail Opportunity](https://docs.google.com/document/d/1nujtD6jtf5YEDRFIEdOfh40SdluLgs5zXe0Ug1fHsWs/edit#) - open Thursday, September 10th through Friday, September 25th
 - [MAX.gov Project Manager](https://docs.google.com/document/d/1SkF8gaWKEGmDU0aSOx-TJ1t_Yj3mC7b8jESPHdv79N8/edit?usp=sharing) - open Tuesday, September 15th through Monday, September 21st
-- [Solutions Innovation Portfolio Director detail ](https://docs.google.com/document/d/1sCdDKAWr45SpYMmhXpYjK2JVyXi-piUWVi0FxVrF8CI/edit?ts=5f5fb6b7#) - open Wednesday, September 16th through Monday, September 28th
+- [Solutions Innovation Portfolio Director detail ](https://docs.google.com/document/d/1sCdDKAWr45SpYMmhXpYjK2JVyXi-piUWVi0FxVrF8CI/edit?ts=5f5fb6b7#) - open Wednesday, September 16th through Tuesday, September 29th
 
 ## Opportunities with partners
 
