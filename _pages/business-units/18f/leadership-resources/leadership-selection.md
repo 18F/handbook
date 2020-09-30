@@ -64,9 +64,9 @@ When you’ve finished all of the above steps, here’s what you should have at 
 
 ## Nominating people
 
-Self-nomination is great for people who don’t mind promoting themselves, but not everyone feels comfortable with self-promotion. Relying solely on self-nomination is inequitable because it disadvantages people who come from cultural backgrounds that promote modesty or only receiving recognition through the work done rather than self-promotion. To help ensure leadership roles are accessible to everyone, we must also nominate or encourage people to apply.
+Self-nomination is great for some, but not everyone is comfortable doing so. And that’s okay! This is why, in addition to self-nominations, we also accept and encourage peer nominations.
 
-If you want to nominate or “nudge” someone to apply, first think carefully about why you want to nominate them. Look at the position description and role responsibilities, and think about specific, concrete ways you believe the person will be successful. If someone is not well suited for a particular role, don’t nominate them just because they’re your friend or you admire them, and certainly not just because they are from a community that is currently underrepresented in leadership.
+If you plan to nominate someone, consider the specific ways you believe the person will be successful. You’ll also want to carefully review the role requirements. You’re encouraged to tell the person you nominated them, and why you believe they'd have a strong application. Even if they decide not to pursue the role, people often find thoughtful nominations to be affirming. 
 
 ## Evaluating candidates
 
