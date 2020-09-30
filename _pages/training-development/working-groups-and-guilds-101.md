@@ -132,8 +132,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://gsa-tts.slack.com/messages/g-diversity">#g-diversity</a>
         </td>
         <td>
-          Victoria Wales - COE<br>
-          Austin Hernandez - 18F
+          Aileen McGraw - PIF<br>
+          Jessyka Castillo - SOL
         </td>
       </tr>
       <tr>
