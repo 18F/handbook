@@ -22,7 +22,7 @@ When describing why you’d be successful in the role, try to link your experien
 
 When a role is announced, it should be accompanied by a nomination form in Google Forms. That will ask for your nominee’s name, a few words about why you think they’d be successful in the role, and any additional notes you may want to add. If you can’t find the nomination form, reach out to the hiring manager or guild leaders (depending on the sort of role), or the 18F Chief of Staff.
 
-Before nominating someone, first think carefully about why you want to nominate them. Look at the role description and responsibilities again, and think about specific, concrete ways you believe the person will be successful. If someone is not well suited for a particular role, don't nominate them just because they're your friend or you admire them, and certainly not just because they are from a community that is underrepresented in leadership.
+If you plan to nominate someone, consider the specific ways you believe the person will be successful. You’ll also want to carefully review the role requirements. You’re encouraged to tell the person you nominated them, and why you believe they'd have a strong application. Even if they decide not to pursue the role, people often find thoughtful nominations to be affirming.
 
 ## Evaluation
 
