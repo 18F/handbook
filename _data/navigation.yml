@@ -114,7 +114,7 @@ primary:
       - text: Mid year HRLinks steps
         url: mid-year-hrlinks-steps/
         internal: true
-     
+
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
@@ -525,3 +525,5 @@ footer:
   - text: File an issue
     href: https://github.com/18F/handbook/issues/
     external: true
+  - text: Contributing
+    href: /contributing/

@@ -49,7 +49,7 @@ For internal links, use `{{site.baseurl}}` in the URL (in place of `https://http
 
 ### Public domain
 
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
+This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](https://handbook.tts.gsa.gov/contributing/):
 
 > This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 >
