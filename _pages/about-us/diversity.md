@@ -16,7 +16,7 @@ We strive to create a community where everyone feels empowered to speak up. Howe
 
 ## Resources
 
-We actively work to eliminate bigotry and subtle forms of disrespect (e.g. [microaggressions](https://en.wikipedia.org/wiki/Microaggression), microinvalidations, etc.) from our workplace. We also understand that in order to address [unconscious bias](https://diversity.ucsf.edu/resources/unconscious-bias) you have to start somewhere. Below are resources for anyone to learn more about diversity and inclusion principles and best-practices.
+We actively work to eliminate bigotry and subtle forms of disrespect (e.g. microaggressions, microinvalidations, etc.) from our workplace. We also understand that in order to address [unconscious bias](https://diversity.ucsf.edu/resources/unconscious-bias) you have to start somewhere. Below are resources for anyone to learn more about diversity and inclusion principles and best-practices.
 
 - [18F Inclusive Language Guide](https://content-guide.18f.gov/inclusive-language/) - principles, resources, and suggestions for writing and talking about diverse groups of people.
 - Preference, Tradition, or Requirement? [“Here’s EY’s Simple But Effective Strategy For Increasing Diversity”](https://fortune.com/2017/02/10/ey-simple-effective-diversity-inclusiveness-strategy/) - Is something a preference, tradition, or requirement? This article covers how Ernst and Young used the “PTR” framework to hire a more diverse workforce. It can be used widely to critically assess all aspects of a work culture.
