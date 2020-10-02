@@ -28,15 +28,15 @@ Public Service Student Loan Forgiveness Program | <https://studentaid.ed.gov/sa/
 
 ### Benefits and retirement-related questions
 
-Contact [Mary Robinson](mailto:marya.robinson@gsa.gov)
+Please reference the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document for contact information
 
 ### Leave policies and questions
 
-Contact [Jim Mulvaney](mailto:james.mulvaney@gsa.gov) for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
+Please reference the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document for contact information
 
 ## Support services
 
 GSA offers a number of support services and contacts for employees. The [Employee Support Services Matrix](https://docs.google.com/document/d/1WUCgB5Ukez-BFEHlsWZ5bTMrqySIvOAxIRGitarQZ10/edit) outlines the options.
 
 ### Legal contacts 
-For any legal questions about Hatch Act, Ethics, or anything, email our OGC contact [John Peters](mailto:john.h.peters@gsa.gov). 
+Please reference the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document for contact information 
