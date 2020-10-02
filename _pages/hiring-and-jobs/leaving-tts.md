@@ -44,7 +44,7 @@ If you are a supervisor and you are leaving within 120 days of the next review p
 - Review the [FERS refund information](https://docs.google.com/document/d/1TiFdQ-2pyrmib3Zsh1GDGeWorM7F-cbxk1u-82zX0Aw/edit) and [Form SF 3106](https://drive.google.com/a/gsa.gov/file/d/0B4J4Dpr2HVDsMnpEQnc1ZHI0RkVadjVOZGZhOTVKMVZyUktN/view) before your last day.
 - You may be entitled to [unemployment insurance](https://oui.doleta.gov/unemploy/unemcomp.asp) if you lose your job, as long as it's not due to misconduct. The amount is small.
 
-If you have any questions, please contact [Mary Robinson (GSA HR)](mailto:marya.robinson@gsa.gov).
+If you have any questions, please email the GSA HR Benefits Contact found in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document.
 
 ### 4. Download copies of important personal documents
 
