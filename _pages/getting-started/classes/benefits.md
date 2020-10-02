@@ -9,7 +9,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 ## Submitting benefit forms
 
 ### New hires
-Follow [these instructions](https://docs.google.com/presentation/d/151w2MOgtbiskmN7I13UgjiHZk2VZuJmAPotwixpHTFQ/edit#slide=id.p) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) and reach out to [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) with any questions.
+Follow [these instructions](https://docs.google.com/presentation/d/151w2MOgtbiskmN7I13UgjiHZk2VZuJmAPotwixpHTFQ/edit#slide=id.p) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) and email the GSA HR Benefits contact referenced in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document.
 
 ### Current employees
 Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) when you're submitting documents due to a change in life event (such as getting married or having a child).
@@ -26,7 +26,9 @@ You can find these documents by logging onto HR Links and selecting the followin
 
 ## Benefits contacts
 
-Contact [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) for questions related to benefits, retirement, and leave policies (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
+Email the GSA HR Benefits contact referenced in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document for questions related to benefits and retirement
+
+For leave policies (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act), please reach out to the Leave Policies contact in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document.
 
 Slack channel for TTS staff to discuss GSA benefits:
 
@@ -164,7 +166,7 @@ If you served as an AmeriCorps VISTA volunteer, a Peace Corps Volunteer, and/or 
 
 As an example, if you served in the Peace Corps for 2 years and buy back your service, that amount of time would be considered creditable service and would increase your “length of service” [FERS payment calculation](https://www.opm.gov/retirement-services/fers-information/computation/).
 
-The calculations for FERS retirement can be complex, and there is paperwork to complete. We recommend carefully reviewing all information and talking to HR personnel as needed. Visit the following websites, Slack channels, and contact [Mary Robinson (GSA HR)](mailto:marya.robinson@gsa.gov).
+The calculations for FERS retirement can be complex, and there is paperwork to complete. We recommend carefully reviewing all information and talking to HR personnel as needed. Visit the following websites, Slack channels, and email the GSA HR Benefits contact listed in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document.
 
 * [AmeriCorps VISTA](https://www.vistacampus.gov/resources/federal-jobs-and-noncompetitive-eligibility)
 * [Military service](https://www.dfas.mil/civilianemployees/militaryservice/militaryservicedeposits.html) and [#vets](https://gsa-tts.slack.com/messages/vets)
