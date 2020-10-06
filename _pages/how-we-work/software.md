@@ -4,7 +4,7 @@ questions:
   - infrastructure
 ---
 
-Do you need software to do your job or make sure TTS is running smoothly? Follow the steps below to access software we own or request a software purchase of under $10,000.
+Do you need software to do your job or make sure TTS is running smoothly? Follow the steps below to access software we own or request a software purchase of under \$10,000.
 
 If you need to purchase more expensive software, see [procurements over $10,000]({{ site.baseurl }}/procurements-over-10000/).
 
@@ -42,9 +42,13 @@ If the ATO is expired or you cannot find it in GEAR, you can post in the Slack c
 
 ### Step 3: [Submit a micropurchase request.]({{site.baseurl}}/purchase-requests/)
 
-## Chrome extensions
+## Other lists and approval processes
 
-Only use browser extensions approved by GSA IT. See [IT Service Catalog: Google Chrome Extension Request](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions) for the list of approved or rejected extensions, as well as how to request approval for a new extension.
+- [Amazon Web Services (AWS) services](https://before-you-ship.18f.gov/infrastructure/aws/#building-systems-that-will-be-deployed-directly-to-aws)
+- [Chrome extensions](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions)
+- [GitHub integrations]({{site.baseurl}}/github/#rules)
+- [Google Cloud / G Suite services, including APIs](https://docs.google.com/spreadsheets/d/1h0338doPlHIfslS7Huypzs7TlJTFVw_-98oPnum0Cvo/edit#gid=467863101)
+- [Slack integrations]({{site.baseurl}}/tools/slack/integrations/)
 
 ## Free and open source development packages
 
