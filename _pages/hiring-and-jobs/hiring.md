@@ -38,9 +38,9 @@ These actions are the most common type of actions across TTS. Information about 
 
 ### TTS internal competitions and developmental opportunities
 
-The following explains the process for initiating TTS internal competitions and developmental opportunities (e.g. details, leads).
+The following explains the process for initiating TTS internal competitions and developmental opportunities. All opportunities within TTS, including details, must be openly competed. 
 
-For detailed information specific to initiating an internal or external detail, please review the [details page]({{site.baseurl}}/assignee-detail) of the handbook.
+For information specific to initiating an internal or external detail once a selection has been made after competition, please review the [details page]({{site.baseurl}}/assignee-detail) of the handbook.
 
 Please note:
 
