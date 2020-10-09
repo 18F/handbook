@@ -39,6 +39,8 @@ In most cases, supervisors should own the creation of performance plans for dire
 ### Updating a performance plan
 After copying (cloning) a prior year performance plan, updates to the critical elements will likely be needed to align with current fiscal year goals.  This section provides instructions for how to update a plan and suggestions on what should be updated.
 
+* [FY20 Performance Plan Critical Elements Examples](https://docs.google.com/document/d/1stzNzIYVqSUX8bo7Zy798L9lU8tR78CyEYIypmBrm-M/edit?usp=sharing)
+
 ### Submitting a performance plan for employee approval
 
 * Step-by-step instructions:
