@@ -35,6 +35,9 @@ In most cases, supervisors should own the creation of performance plans for dire
 * Step-by-step instructions:
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.4ov23tpb7l01)
+  
+### Updating a performance plan
+After copying (cloning) a prior year performance plan, updates to the critical elements will likely be needed to align with current fiscal year goals.  This step provides instructions for how to update a plan and suggestions on what should be updated.
 
 ### Submitting a performance plan for employee approval
 
