@@ -25,7 +25,7 @@ Resource | Use
 [Employee Step-by-Step HR Links Guide](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#) | Entering performance review steps into HR Links
 [Supervisor Step-by-Step HR Links Guide](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.rjbyuflzo0ct) | Entering and processing performance review steps in HR Links
 [FY21 TTS Stretch Goals and Critical Elements](https://docs.google.com/document/d/10yyvnMQYIq4EHaf86MXbq7h9gnFmq4FGOzniwvLWFTI/edit#heading=h.45ory7z3ha2q) | Updated TTS Stretch Goals and metrics that should be included on FY21 performance plans
-[FY20 Performance Plan Critical Elements Examples](https://docs.google.com/document/d/1stzNzIYVqSUX8bo7Zy798L9lU8tR78CyEYIypmBrm-M/edit#heading=h.ckkiv8p2op1f) | Examples of FY20 performance plans critical elements used by TTS Business Units
+[FY20 Performance Plan Critical Elements Examples](https://docs.google.com/document/d/1stzNzIYVqSUX8bo7Zy798L9lU8tR78CyEYIypmBrm-M/edit?usp=sharing) | Examples of FY20 performance plans critical elements used by TTS Business Units
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
 [Fix HR Links Google Chrome Login Issue](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing) | Instructions for clearing HR Links site cache
 [HR Links Employee Guide](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view) | Visual guide for employees to enter components of a performance review into HR Links
