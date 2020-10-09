@@ -25,7 +25,7 @@ Interviewers play a fundamental role in vetting incoming talent, as well as crea
 Below are some resources that cover expectations around interviews, best practices for remote interviewing and slack usage, and tips for recognizing and correcting for unconscious bias. 
 - [TTS Interviewer Training slides](https://docs.google.com/presentation/d/1B6KoiOX2QVigF6KTnaldjFwY6GG5V7UV27LchRL27cE/edit#slide=id.g6d9ab3b2cf_0_404)
 - [Interviewing for TTS 101](https://docs.google.com/document/d/13MdNbFeWgKWMycdlAhkNSG6Eet3_NAVETnpuIweuMrU/edit#heading=h.arj274vgsryn)
-- [Recognizing Unconscious Bias](https://handbook.tts.gsa.gov/unconscious-bias/)
+- [Fair & Equitable Hiring Practices](https://handbook.tts.gsa.gov/fair-and-equitable-hiring-practices/)
 
 ## Types of hiring actions at TTS
 
