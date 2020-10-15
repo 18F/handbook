@@ -27,7 +27,7 @@ This guide is meant to help us create an inclusive and equitable process for sel
 
    Submit [materials to Talent](https://handbook.tts.gsa.gov/hiring/#job-prep).
     *Note Talent will publicize the position on #tts-jobs and on the [TTS Jobs Hanbook page](https://handbook.tts.gsa.gov/ttsjobs/)
-    
+
    Publicize the open position and nomination form on Slack in any relevant channels, to the appropriate email distribution list for your chapter or portfolio, and, if time allows, any relevant newsletters or other communications media you can think of. Chapter all-hands meetings, guild office hours, and Team Coffee are great venues! Encourage people to nominate themselves or their colleagues.
 
 4. Assemble an interview panel. Your interviewers should be present for each interview. The interview panel should usually include:
@@ -37,7 +37,7 @@ This guide is meant to help us create an inclusive and equitable process for sel
    * A representative from the diversity guild or a chapter diversity representative
 
    In some cases, you may also want to include a supervisor or director from another chapter. Reach out to people with relevant expertise to be on the interview panel.
- 
+
 5. Create calendar holds for several interviews the following week. You want to create these blocks now. Finding time on everyone's calendars will be tough. The sooner you have a hold in place, the easier it will be to find a convenient time for everyone. Now's also a great time to schedule a calendar hold for the interview panel members to debrief and make their selection after interviews are complete.
 
    Remember, time zones are a thing, and the open space on your calendar may be at 7 a.m. for your candidate. You don't know yet, so plan accordingly.
@@ -66,7 +66,7 @@ When you’ve finished all of the above steps, here’s what you should have at 
 
 Self-nomination is great for some, but not everyone is comfortable doing so. And that’s okay! This is why, in addition to self-nominations, we also accept and encourage peer nominations.
 
-If you plan to nominate someone, consider the specific ways you believe the person will be successful. You’ll also want to carefully review the role requirements. You’re encouraged to tell the person you nominated them, and why you believe they'd have a strong application. Even if they decide not to pursue the role, people often find thoughtful nominations to be affirming. 
+If you plan to nominate someone, consider the specific ways you believe the person will be successful. You’ll also want to carefully review the role requirements. You’re encouraged to tell the person you nominated them, and why you believe they'd have a strong application. Even if they decide not to pursue the role, people often find thoughtful nominations to be affirming.
 
 ## Evaluating candidates
 
@@ -80,7 +80,7 @@ Before talking to candidates, create a private Slack channel or DM group for the
 
 ## Making the selection
 
-After completing all the interviews, let candidates know interviews have finished and tell them when they should expect a decision. Convene your interview panel one more time to make the selection. You should strive for consensus. If you don’t have consensus, pay extra attention to the voices who are “no-hire,” because they may be picking up on something no one else is. Also make sure voices from underrepresented communities are being heard – having panelists do an [unconscious bias refresher](https://diversity.ucsf.edu/resources/unconscious-bias) prior to the panel meeting may help to make sure everyone has an equal voice. 
+After completing all the interviews, let candidates know interviews have finished and tell them when they should expect a decision. Convene your interview panel one more time to make the selection. You should strive for consensus. If you don’t have consensus, pay extra attention to the voices who are “no-hire,” because they may be picking up on something no one else is. Also make sure voices from underrepresented communities are being heard – having panelists do an [unconscious bias refresher](https://diversity.ucsf.edu/resources/unconscious-bias) prior to the panel meeting may help to make sure everyone has an equal voice.
 
 As you’re reviewing the candidates, go ahead and fill out the [Talent Selection Spreadsheet](https://docs.google.com/spreadsheets/d/1EN3iLUmmDQ4iX5k-AsDsUPUd_igrEy3BEtlIs5KM59w/edit#gid=0). You'll need it once you've made your selection.
 
