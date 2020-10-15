@@ -24,6 +24,7 @@ Resource | Use
 [Supervisor checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) | Supervisor performance management steps
 [Employee Step-by-Step HR Links Guide](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#) | Entering performance review steps into HR Links
 [Supervisor Step-by-Step HR Links Guide](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.rjbyuflzo0ct) | Entering and processing performance review steps in HR Links
+[FY21 Performance Plan Framework](https://docs.google.com/document/d/1Hxj17-hm9GaAKRRZRPA0_f1RPqswIlmuN6yQknWgba8/edit) | TTS Performance Plan framework with 3 tiers and recommended percentage weights
 [FY21 TTS Stretch Goals and Critical Elements](https://docs.google.com/document/d/10yyvnMQYIq4EHaf86MXbq7h9gnFmq4FGOzniwvLWFTI/edit#heading=h.45ory7z3ha2q) | Updated TTS Stretch Goals and metrics that should be included on FY21 performance plans
 [FY20 Performance Plan Critical Elements Examples](https://docs.google.com/document/d/1stzNzIYVqSUX8bo7Zy798L9lU8tR78CyEYIypmBrm-M/edit?usp=sharing) | Examples of FY20 performance plans critical elements used by TTS Business Units
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Submitting performance reviews
