@@ -163,12 +163,16 @@ See [GPGTools](https://gpgtools.org/) _(not yet fully integrated with Sierra)_
 
 Using [Tor](https://www.torproject.org/), the [CivicActions VPN](https://git.civicactions.net/devops/internal-it-wireguard-vpn/tree/master) (for CivicActions business) or a paid VPN (such as [PIA](https://www.privateinternetaccess.com/) and there are others; be sure to choose an exit node that is not in the U.S.) is the best route, but the two simple and free services below will have little impact on your browsing experience and can go a long way to minimizing the data others collect about you:
 
-- [Privacy Badger](https://www.eff.org/privacybadger) to disable most ads and cookie collectors
-- [DuckDuckGo](https://duckduckgo.com/) search that protects privacy and avoids the filter bubble
+We recommend using both of these browser add-ons.
+
+- [Privacy Badger](https://www.eff.org/privacybadger) blocks most ads and cookie collectors. Open source and free.
+- [uBlock Origin](https://ublockorigin.com) is an ad content blocker. Open source and free.
+
+For search, we recommend changing your browser "default search" to [DuckDuckGo](https://duckduckgo.com/) as it protects privacy and avoids the filter bubble.
 
 ## Private Messaging and Calling
 
-We recommend [Open Whisper Systems](https://whispersystems.org/). We like that their primary "forward secrecy" algorithm, along with the rest of their code, is GPL licensed on [GitHub](https://github.com/whispersystems/).
+We recommend [Signal.org](https://signal.org/), which is free. We like that their primary "forward secrecy" algorithm, along with the rest of their code, is GPL licensed on [GitHub](https://github.com/signalapp/).
 
 ## More Links
 
