@@ -37,9 +37,14 @@ In most cases, supervisors should own the creation of performance plans for dire
   * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.4ov23tpb7l01)
   
 ### Updating a performance plan
-After copying (cloning) a prior year performance plan, updates to the critical elements will likely be needed to align with current fiscal year goals.  This section provides instructions for how to update a plan and suggestions on what should be updated.
+After copying (cloning) a prior year performance plan, updates to the critical elements will likely be needed to align with current fiscal year goals.  This section provides resources, including prior year examples, for updating performance plans.
 
+* [FY21 TTS Performance Plan Framework](https://docs.google.com/document/d/1Hxj17-hm9GaAKRRZRPA0_f1RPqswIlmuN6yQknWgba8/edit)
+  * Includes the three tiers of critical elements and suggested percentage weights
 * [FY20 Performance Plan Critical Elements Examples](https://docs.google.com/document/d/1stzNzIYVqSUX8bo7Zy798L9lU8tR78CyEYIypmBrm-M/edit?usp=sharing)
+  * Provides prior year examples of performance plans for Business Units across TTS
+* [FY21 Business Unit Critical Elements Builder](https://docs.google.com/spreadsheets/d/1mWpN4mSYUaFxYUP8QmcQPMUwVzki-0-0vz1R70-uNkQ/edit#gid=612468956)
+  * Provides a template to write out critical elements, definitions of the critical elements, and links to prior year examples
 
 ### Submitting a performance plan for employee approval
 
