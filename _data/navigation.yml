@@ -522,3 +522,5 @@ footer:
   - text: File an issue
     href: https://github.com/18F/handbook/issues/
     external: true
+  - text: Contributing
+    href: /contributing/

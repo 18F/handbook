@@ -1,4 +1,7 @@
-# Contributing to the TTS Handbook
+---
+title: Contributing to the Handbook
+permalink: /contributing/
+---
 
 ## Front matter
 
@@ -73,14 +76,14 @@ If you're not sure, ask for a second opinion in #tts-handbook first.
 
 ### Using repo specific labels
 
-_do not merge yet:_ Delay merging this pull request until the label has been removed
-_help wanted:_ Need additional assistance
-_In Porgress:_ Currently being worked on
-_Into is incorrect/outdated:_ The current information that is there needs tending to
-_Need new Content:_ There is information that is not present that should exist
-_< 2 hours:_ Easy peazy, lemon squeezy
-_2-4 hours:_ Hold my callz
-_>4 hours:_ Ooph, its a doozy!
+- _do not merge yet:_ Delay merging this pull request until the label has been removed
+- _help wanted:_ Need additional assistance
+- _In Porgress:_ Currently being worked on
+- _Into is incorrect/outdated:_ The current information that is there needs tending to
+- _Need new Content:_ There is information that is not present that should exist
+- _< 2 hours:_ Easy peazy, lemon squeezy
+- _2-4 hours:_ Hold my callz
+- _>4 hours:_ Ooph, its a doozy!
 
 ## Content and accessibility
 

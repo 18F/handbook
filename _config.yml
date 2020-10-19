@@ -9,7 +9,6 @@ github_info:
   default_branch: master
 
 exclude:
-  - CONTRIBUTING.md
   - Dockerfile
   - docker-compose.yml
   - Gemfile
