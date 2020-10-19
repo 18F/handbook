@@ -502,8 +502,8 @@ primary:
           - text: InVision (simple prototyping)
             url: invision/
             internal: true
-          - text: Mural.ly (collaborative whiteboard tool)
-            url: murally/
+          - text: Mural (collaborative whiteboard tool)
+            url: tools/mural/
             internal: true
           - text: Sketch
             url: sketch/

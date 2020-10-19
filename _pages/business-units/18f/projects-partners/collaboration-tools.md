@@ -155,9 +155,9 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 
 ### Remote Whiteboarding
 
-**[Mural]({{site.baseurl}}/murally/)** is an online collaborative whiteboard tool. It allows teams to collectively generate ideas with sticky notes and sorting them around as if they were in the same room. You don't need an account to participate and you can access the tool from any browser.
+**[Mural]({{site.baseurl}}/tools/mural/)** is an online collaborative whiteboard tool. It allows teams to collectively generate ideas with sticky notes and sorting them around as if they were in the same room. You don't need an account to participate and you can access the tool from any browser.
 
-- [Mural handbook page]({{site.baseurl}}/murally/)
+- [Mural handbook page]({{site.baseurl}}/tools/mural/)
 - Mural @ TTS – Internal Guide _(coming soon)_
 
 <details markdown="block">

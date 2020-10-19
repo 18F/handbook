@@ -120,7 +120,7 @@ Every project and team has a different mix of project management tools based on 
 
 #### Workshops / virtual workspaces
 
-- **Mural:** Research analysis and workshops. Get more info [here]({{site.baseurl}}/murally/). Access is immediate.
+- **Mural:** Research analysis and workshops. Get more info [here]({{site.baseurl}}/tools/mural/). Access is immediate.
 
 #### Word processing
 
@@ -173,4 +173,4 @@ The Freedom of Information Act (FOIA) guarantees that, as federal employees, all
 - 18F plus invited guests: Slack channels labelled XXX-otheragencyhere or XXX-partners
 - GSA only: Google Drive- you can share files outside GSA, but exercise caution!
 - Across the government: mailing lists
-- The entire Internet: Slack channels labelled -public, Invision and Mural.ly (if linked via GitHub), and GitHub (with the exception of private repos)
+- The entire Internet: Slack channels labelled -public, Invision and Mural (if linked via GitHub), and GitHub (with the exception of private repos)
