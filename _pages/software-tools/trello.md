@@ -20,13 +20,13 @@ Make sure to [set up two-factor authentication](https://trello.com/2fa).
 
 ### Requesting access
 
-To get access to the TTS Trello team, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite my Trello account "YOUR_USERNAME" to Trello at https://trello.com/18f3/members." ***NOTE: If you don't have a Trello account, feel free to ask us to invite your GSA e-mail address to create one.***
+To get access to the TTS Trello team, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite my Trello account "YOUR_USERNAME" to Trello at https://trello.com/18f3/members." **_NOTE: If you don't have a Trello account, feel free to ask us to invite your GSA e-mail address to create one._**
 
 There is no TTS-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
 
 ## Rules
 
-**Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
+**Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
 
 ## Usage
 
@@ -50,4 +50,4 @@ People use Trello to track ideas from conception through execution. It's common 
 
 ### Chrome extensions
 
-See [general info]({{site.baseurl}}/software/#chrome-extensions).
+See [general info]({{site.baseurl}}/software/#other-lists-and-approval-processes).
