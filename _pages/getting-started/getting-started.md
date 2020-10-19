@@ -100,19 +100,7 @@ If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack
 
 ### Setting up your Mac for success
 
-For most people at TTS, sooner or later you'll probably find yourself wanting to work with a
-project locally on your Mac.
-We recommend using our [laptop script](https://github.com/18F/laptop#what-it-sets-up)
-as a quick way to set your Mac up and use our technology stack properly.
-
-If you're not an engineer, it's possible you may not need it, but when you do you'll be glad to know where it is.
-Just follow the steps: everything will be set up correctly and you'll minimize weird conflicts and problems later.
-
-If you are an engineer, we understand that your preferences about optimal development environments may differ from the laptop script.
-In that case, please come talk to us first in the [#dev channel](https://gsa-tts.slack.com/messages/C02CD5VUQ) before setting up your own environment.
-Maybe you've identified a good way to update the script!
-
-If you are running a project locally, you may also find yourself needing to know
+If you are running a project locally, you may find yourself needing to know
 [some basics of the Mac OS X command line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line).
 
 And remember, if you can't figure out how to get it running, that's probably not your fault --- there is likely something that needs to be updated, and that can be accomplished by reaching out in the [#dev channel](https://gsa-tts.slack.com/messages/C02CD5VUQ).
