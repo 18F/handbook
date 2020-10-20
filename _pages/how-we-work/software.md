@@ -44,6 +44,8 @@ If the ATO is expired or you cannot find it in GEAR, you can post in the Slack c
 
 ## Other lists and approval processes
 
+Typically, ATOs are for data and systems. They are required for any GSA information system that hosts GSA data. Not everything falls into that category, but they still need approval. Rather than being given the approval to Operate, they are given an Approval to Use (ATU). An ATU is a risk-based approval process for usage of services, features or funcstion on already ATO'd information systems or platforms. Both of these processes are explained in the [ATO & ATU Tech Talk Briefing](https://drive.google.com/file/d/1rjv7eiPSpjv4imX8Pi4ghRyS-aYb48ln/view?usp=sharing). 
+
 - [Amazon Web Services (AWS) services](https://before-you-ship.18f.gov/infrastructure/aws/#building-systems-that-will-be-deployed-directly-to-aws)
 - [Chrome extensions](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions)
 - [GitHub integrations]({{site.baseurl}}/github/#rules)
