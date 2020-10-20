@@ -144,7 +144,7 @@ Remember, you're asking for a substantial commitment of organizational resources
         </td>
         <td>
           Ryan Hofschneider - 18F<br>
-          Dave Corwin - SOL
+          Kenny Daniel - SOL
         </td>
       </tr>
       <tr>
