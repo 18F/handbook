@@ -19,6 +19,9 @@ primary:
       - text: Org chart
         url: org-chart/
         internal: true
+      - text: Digital Council
+        url: digital-council/
+        internal: true
   - text: Getting started
     href: /#getting-started
     blurb: |
