@@ -153,3 +153,15 @@ The Council convenes working groups for specific projects. Working groups are es
 - A more experienced TTS workforce that has learned by putting theory into practice.
 - Partners who appreciate and recognize the value that TTS provides.
 - Happy customers!
+
+## Links
+
+- [Meeting agendas/notes](https://docs.google.com/document/d/1Nt4EBHFVRtEfQ1h1eqkmpZ6nGQkMFYPVkKfMsXFVQLA/edit)
+- [Trello board](https://trello.com/b/nmYlvlhu/tts-digital-council)
+- [Member list](https://docs.google.com/document/d/1ThnG0RsZtDGOX0joJTMYdqEXbeLLO0eWn43Qw5PpPa0/edit)
+- [Guidance and reference sources](https://docs.google.com/document/d/1qy5G61Dc8jVbL1SkHPAYIhCoBb4ED2O4n_gRI0d6CwI/edit)
+- GSA-wide resources
+  - [Content Managers listserv](https://groups.google.com/a/gsa.gov/forum/#!forum/gsacontentmanagers)
+    - Message the group via <GSAContentManagers@gsa.gov>
+  - [Websites list](https://docs.google.com/spreadsheets/d/1OBO6g7_OsVBv0vG8WSCI6L2FD_iRh3A7a_6eQWj2zLE/edit#gid=2013137748)
+- [Web Content Managers Community](https://digital.gov/communities/web-content-managers/)
