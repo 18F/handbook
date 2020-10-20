@@ -41,6 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 ### Internal only opportunities
 - [Detail - Innovation Portfolio Director](https://docs.google.com/document/d/1sCdDKAWr45SpYMmhXpYjK2JVyXi-piUWVi0FxVrF8CI/edit) - open through Friday, October 23rd
 
+- [18F National Security and Defense Portfolio Director](https://docs.google.com/document/d/1TyyOVBaJVF9soFmg8iH5r6q0C_fHRpYRHRIpoT0w2r8/edit#) - open through Friday, October 23rd
 
 ## Opportunities with partners
 
