@@ -5,9 +5,7 @@ questions:
   - tts-digital-council@gsa.gov
 ---
 
-## History
-
-The Technology Transformation Service (TTS) Digital Council, formerly the Office of Programs and Products (OPP) Web Council, was formed in August 2019. Then acting Assistant Commissioner for OPP, Jay Huie, established the advisory body to improve the experience of customers and other stakeholders, to better integrate the work of OPP teams, to amplify teams' work, as well as to streamline administrative processes and overhead.
+The Technology Transformation Service (TTS) Digital Council, formerly the [Office of Programs and Products (OPP)]({{site.baseurl}}/solutions-history/) Web Council, was formed in August 2019. Then acting Assistant Commissioner for OPP, Jay Huie, established the advisory body to improve the experience of customers and other stakeholders, to better integrate the work of OPP teams, to amplify teams' work, as well as to streamline administrative processes and overhead.
 
 ## Purpose
 
@@ -46,10 +44,10 @@ Benefits to TTS:
 Benefits to our customers and stakeholders:
 
 - Experiences using TTS digital products meet or exceed expectations, no matter the device.
-- Content is accessible, current, accurate, authoritative, useful, usable, and presented in plain language.
-- Products are easy to find and easy to use.
-- Processes are transparent.
-- Touchpoints are pleasant, responsive, and productive.
+  - Content is accessible, current, accurate, authoritative, useful, usable, and presented in plain language.
+  - Products are easy to find and easy to use.
+  - Processes are transparent.
+  - Touchpoints are pleasant, responsive, and productive.
 - Actual needs, rather than perceived needs, are reflected in product and service offerings.
 - Products are similar in look and feel and recognizable as TTS products.
 - Increased confidence and trust in TTS products and services.
@@ -65,8 +63,8 @@ Benefits to our customers and stakeholders:
 ### Support GSA and Other Federal Agencies
 
 - Support GSA implementation of laws and policies related to digital government and customer experience, including but not limited to:
-- 21st Century IDEA ([Public Law 115-336](https://www.congress.gov/bill/115th-congress/house-bill/5759/text)), including the website standards
-- OMB guidance (for example, [OMB A-11 Guidance](https://www.performance.gov/cx/a11-280.pdf), Section 280 - Managing Customer Experience and Improving Service Delivery)
+  - 21st Century IDEA ([Public Law 115-336](https://www.congress.gov/bill/115th-congress/house-bill/5759/text)), including the website standards
+  - OMB guidance (for example, [OMB A-11 Guidance](https://www.performance.gov/cx/a11-280.pdf), Section 280 - Managing Customer Experience and Improving Service Delivery)
 - GSA orders and Office of Strategic Communication guidelines
 - Align with GSA initiatives.
 - Coordinate communications products with the GSA Office of Strategic Communication.
@@ -76,8 +74,8 @@ Benefits to our customers and stakeholders:
 ### Support TTS
 
 - Respect the role and authority of colleagues. For example, we:
-- Coordinate with the TTS Technology Portfolio and the TTS Outreach teams when updating domains or creating digital products.
-- Coordinate with the TTS Outreach team for message alignment and approval.
+  - Coordinate with the [TTS Technology Portfolio]({{site.baseurl}}/tech-portfolio/) and the [TTS Outreach]({{site.baseurl}}/outreach/) teams when updating domains or creating digital products.
+  - Coordinate with the TTS Outreach team for message alignment and approval.
 - Adhere to TTS communication guidelines.
 - Support TTS business goals and objectives.
 - Use and promote the use of TTS products and tools, where appropriate.
@@ -93,12 +91,14 @@ Benefits to our customers and stakeholders:
 
 ## Membership
 
+[Member list](https://docs.google.com/document/d/1ThnG0RsZtDGOX0joJTMYdqEXbeLLO0eWn43Qw5PpPa0/edit)
+
 - Membership in the TTS Digital Council is voluntary.
 - Ideally, each TTS team that manages or produces a TTS digital product (digital team) is represented on the Council.
 - Teams can choose a teammate to participate. That person should be:
-- Empowered to make content changes to the website/digital product (or see that they get made).
-- Knowledgeable about the workflows of the website/digital product.
-- Prepared to commit time and follow through on those commitments, expecting to be held accountable by Council members.
+  - Empowered to make content changes to the website/digital product (or see that they get made).
+  - Knowledgeable about the workflows of the website/digital product.
+  - Prepared to commit time and follow through on those commitments, expecting to be held accountable by Council members.
 
 ## Roles & Responsibilities
 
@@ -126,7 +126,11 @@ The Council's executive sponsor is appointed by the Director of the Technology T
 
 ## General Procedures
 
+[Trello board](https://trello.com/b/nmYlvlhu/tts-digital-council)
+
 ### Meetings
+
+[Meeting agendas/notes](https://docs.google.com/document/d/1Nt4EBHFVRtEfQ1h1eqkmpZ6nGQkMFYPVkKfMsXFVQLA/edit)
 
 The TTS Digital Council meets weekly for an hour. Council members working on projects and tasks expend additional time.
 
@@ -156,9 +160,6 @@ The Council convenes working groups for specific projects. Working groups are es
 
 ## Links
 
-- [Meeting agendas/notes](https://docs.google.com/document/d/1Nt4EBHFVRtEfQ1h1eqkmpZ6nGQkMFYPVkKfMsXFVQLA/edit)
-- [Trello board](https://trello.com/b/nmYlvlhu/tts-digital-council)
-- [Member list](https://docs.google.com/document/d/1ThnG0RsZtDGOX0joJTMYdqEXbeLLO0eWn43Qw5PpPa0/edit)
 - [Guidance and reference sources](https://docs.google.com/document/d/1qy5G61Dc8jVbL1SkHPAYIhCoBb4ED2O4n_gRI0d6CwI/edit)
 - GSA-wide resources
   - [Content Managers listserv](https://groups.google.com/a/gsa.gov/forum/#!forum/gsacontentmanagers)
