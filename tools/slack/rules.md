@@ -11,9 +11,10 @@ questions:
 - **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal](https://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
-- **Assume everything you share will be made public, and attributed back to you.** Treat Slack as a public forum — you have _no_ privacy. This includes:
+- **Assume everything you share/do in Slack will be made public, and attributed back to you.** Treat Slack as a public forum — you have _no_ privacy. This includes:
   - File uploads to Slack
   - Any audio or video transmitted using a [Slack Call](https://slack.com/help/articles/115003498363-Slack-calls--the-basics)
+  - Channel names
   - [Custom emoji](https://slack.com/help/articles/206870177-Add-custom-emoji-to-your-workspace)
   - [Emoji reactions](https://slack.com/help/articles/206870317-Use-emoji-reactions)
 - **Do not post any [sensitive information]({{site.baseurl}}/sensitive-information/).** See the [list of alternatives]({{site.baseurl}}/sensitive-information/#tools).
