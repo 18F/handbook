@@ -1,9 +1,9 @@
 ---
-title: 'Getting started at TTS: Your first 90 days'
+title: "Getting started at TTS: Your first 90 days"
 tags:
-- welcome
-- onboarding
-- getting started
+  - welcome
+  - onboarding
+  - getting started
 ---
 
 There's a rule of thumb that says it takes at least three months to understand a new job,
@@ -98,33 +98,19 @@ on how to be a good code review partner, but the main thing to remember is simpl
 And remember: you can be fearless in your pull requests. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control.
 If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack.com/app_redirect?channel=tts-handbook) Slack channel and someone will quickly help you.
 
-
 ### Setting up your Mac for success
 
-For most people at TTS, sooner or later you'll probably find yourself wanting to work with a
-project locally on your Mac.
-We recommend using our [laptop script](https://github.com/18F/laptop#what-it-sets-up)
-as a quick way to set your Mac up and use our technology stack properly.
-
-If you're not an engineer, it's possible you may not need it, but when you do you'll be glad to know where it is.
-Just follow the steps: everything will be set up correctly and you'll minimize weird conflicts and problems later.
-
-If you are an engineer, we understand that your preferences about optimal development environments may differ from the laptop script.
-In that case, please come talk to us first in the [#dev channel](https://gsa-tts.slack.com/messages/C02CD5VUQ) before setting up your own environment.
-Maybe you've identified a good way to update the script!
-
-If you are running a project locally, you may also find yourself needing to know
+If you are running a project locally, you may find yourself needing to know
 [some basics of the Mac OS X command line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line).
 
 And remember, if you can't figure out how to get it running, that's probably not your fault --- there is likely something that needs to be updated, and that can be accomplished by reaching out in the [#dev channel](https://gsa-tts.slack.com/messages/C02CD5VUQ).
 Also you can file an issue in the repository or contact one of the project owners or contributors and ask them to update their README and any other relevant documentation.
 
-
 ### Markdown
 
 [Markdown](https://www.markdownguide.org/cheat-sheet/) is probably the most commonly used way to
 style text at TTS. It's used in GitHub, in Slack, and in many other systems.
-If you see things that mostly look like plain text but have some semi-random * and # littered through them,
+If you see things that mostly look like plain text but have some semi-random `*` and `#` littered through them,
 that's probably Markdown. It was designed to mimic how one might write a text-only email.
 
 There are quite a few online Markdown editors you can use, but after just a little practice you won't need them.
@@ -134,7 +120,6 @@ Headers don't work in Slack, but most other Markdown commands do.
 While you're DM-ing with yourself, you can also click the plus button on the left side of the input box,
 click "Post", and practice your Markdown in there.
 Slack's posts support more markdown than messages do, and it renders live. Which is pretty neat.
-
 
 ### Security, Compliance, and ATOs
 
@@ -157,7 +142,6 @@ If you are in 18F and staffed to a project that needs clearance,
 your account manager and staffing rep should make sure that any clearance needs are taken into account.
 Still, it's never a bad idea to ask if you're wondering.
 
-
 ## TTS Products and Platforms
 
 TTS offers many [products and platforms](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit) to federal agencies, and we are strong proponents of using those products and platforms ourselves, too. Here are three TTS offerings that you will likely interact with early on (and often) during your tenure here.
@@ -176,23 +160,22 @@ USWDS --- the [United States Web Design System](https://designsystem.digital.gov
 
 Those are just three of the products TTS is working on, but [there are many more](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit).
 
-
 ## Acquisitions and Procurement
 
 18F alumni Sasha Magee memorably summed up the progression through government digital service [like this](https://twitter.com/sashax/status/941036458307076097):
-   Year 1: "Why y'all talk about procurement so much? How boring."
-   Year 2: "Man, procurement's a pain."
-   Year 3: "We should really consider doing something about procurement"
-   Year 4: "Holy crap there's nothing more important than solving procurement!"
+
+- Year 1: "Why y'all talk about procurement so much? How boring."
+- Year 2: "Man, procurement's a pain."
+- Year 3: "We should really consider doing something about procurement"
+- Year 4: "Holy crap there's nothing more important than solving procurement!"
 
 You're going to hear a lot about acquisitions and procurement. For a quick dive, [start with this simple introductory presentation](https://docs.google.com/presentation/d/1FjJWwXrTbXexdTGeZKP6OjQ8i5B3GmOAj5MQTF_arLg/edit?disco=AAAADFGLhBo&ts=5cf90ee6&usp_dm=false#slide=id.g4eb21fd7af_0_178).You may also want to view these relevant decks presented during past 18F Team Coffees:
 
--   [Pre-award management](https://docs.google.com/presentation/d/1uOuzFibFCvgW3I0XL54w2sKl7ObSBxk9cUlyTchJ8Gk/edit#slide=id.g57d5603040_0_23)
+- [Pre-award management](https://docs.google.com/presentation/d/1uOuzFibFCvgW3I0XL54w2sKl7ObSBxk9cUlyTchJ8Gk/edit#slide=id.g57d5603040_0_23)
 
--   [Post-award management](https://docs.google.com/presentation/d/1pBm3jTlkvPJyOX3KtbjZVcFkKrEwCyqJ9jdOXh0PPuA/edit#slide=id.g57d5603040_0_23)
+- [Post-award management](https://docs.google.com/presentation/d/1pBm3jTlkvPJyOX3KtbjZVcFkKrEwCyqJ9jdOXh0PPuA/edit#slide=id.g57d5603040_0_23)
 
 After that, dive into the relevant handbook pages --- [this is a good starting point]({{site.baseurl}}/working-on-an-acquisition-engagement/) -- or ask any questions you may have in [#acquisition](https://gsa-tts.slack.com/messages/C054NH1FW). If you want to go really deep there are [free courses available](https://www.fai.gov/certification/contracting-fac-c) from the Federal Acquisition Institute.
-
 
 ## Government budgeting
 
@@ -200,21 +183,19 @@ Government budgets have a big impact on what TTS works on and when. You may hear
 
 Most of TTS is funded from the [Acquisition Services Fund](https://www.law.cornell.edu/uscode/text/40/321) (ASF). This fund does not receive annual appropriations from Congress, but instead collects fees from the government agencies the fund serves. 18F, PIF, and Centers of Excellence are "cost-recoverable," meaning that we must replace the money we use from the ASF. So we take money from the fund to operate it, then replenish it by charging our clients for our time.
 
-Since the ASF is not subject to annual appropriations and has a sizeable balance, 18F employees are typically allowed to continue to work and get paid in the event of a government shutdown, although project work may be severely limited. 
+Since the ASF is not subject to annual appropriations and has a sizeable balance, 18F employees are typically allowed to continue to work and get paid in the event of a government shutdown, although project work may be severely limited.
 
 OPP and 10x are the exceptions. They are funded from the Federal Citizen Services Fund (FCSF), which means they get an annual appropriation from Congress.
 
 For more details on the federal budget process, government shutdowns, our funding sources, and types of funding in agreements we enter, read [All Things Money](https://docs.google.com/document/d/1bnySzQ8xX3-Q7PHJUDysslwaggoXvDTMlUuRlnI8j0w/edit#).
 
-
 ### Billability
 
 You will hear about "billability" in TTS, and if you are in 18F, it will be a regular conversation. In order to recover costs, the ASF-funded offices need to bill their clients. Because 18F rotates projects frequently, billing is on-going and tracked through Tock. Your project commitments should be captured by the [#18f-staffing](https://gsa-tts.slack.com/messages/18f-staffing/) team in the [staffing GitHub repo](https://github.com/18f/staffing/issues).
 
-Not everything 18F does is a billable project, and that's okay. Most people are expected to bill a minimum of 32 hours a week, leaving up to 8 hours for things that aren't related to a partner or a project. This "non-billable" work is often the glue that holds the organization together: guilds, working groups, internal tools and documentation. 
+Not everything 18F does is a billable project, and that's okay. Most people are expected to bill a minimum of 32 hours a week, leaving up to 8 hours for things that aren't related to a partner or a project. This "non-billable" work is often the glue that holds the organization together: guilds, working groups, internal tools and documentation.
 
 You can learn more about billing expectations and time tracking in the [Tock Handbook pages]({{site.baseurl}}/tock/).
-
 
 ## 18F projects
 
@@ -231,7 +212,8 @@ The short version is that projects are staffed through the [18F Staffing repo](h
 ### Our approach to Agile
 
 We are known for our Agile approach to both software development and procurement (sometimes called “modular procurement”). In fact, many of our partners come to us because they want to learn how to “be more Agile.” If you take away nothing else from this page, take this:
-> Agile is not something you *do*. Agile is something you *are*.
+
+> Agile is not something you _do_. Agile is something you _are_.
 
 Of course there are many ways to “be Agile,” and everyone at 18F will have their own take. This is great, and we encourage healthy debate about Agile best practices. In order to ensure a consistent experience for our partners, we do ask everyone to adhere to these basic principles:
 
@@ -240,7 +222,6 @@ Of course there are many ways to “be Agile,” and everyone at 18F will have t
 - We want to model an Agile approach for our partners as much as possible, in all of our disciplines. This may mean helping them to build a devOps pipeline to allow for an Agile release schedule, creating rough prototypes and testing them with users before we’re “sure” of an approach, recommending a series of small procurements rather than a single large one, recommending a short experiment around a business process, or even suggesting a major pivot in our strategy. Again: Agile is a way of approaching problem-solving, not a methodology with inflexible boundaries.
 - One caveat: though we believe employing Agile practices is an essential part of delivering high-quality user-centered services to the public, we also recognize that many of the projects we have the privilege of working on play a critical role in people’s daily lives. It may not always be appropriate to “experiment” when it comes to people’s access to critical government services. We always keep this in mind as we work to build our partner’s capacity for more Agile workflows.
 
-
 ### Working with partners
 
 Partners come to 18F because they want help with hard technical problems, often involving creaky legacy systems and processes. We're not going to help them be successful by shoving them out of the way and implementing the "right" way. We will be successful by helping them be successful -- by teaching them repeatable, useful modern development practices that help them fulfill the mission and serve the public.
@@ -248,12 +229,12 @@ Partners come to 18F because they want help with hard technical problems, often 
 [Consulting and communicating effectively with partners]({{site.baseurl}}/how-we-relate-to-partners/) is how 18F is successful, and it's how we help our partners be successful, too. You'll also want to read up on [how we collaborate with partners]({{site.baseurl}}/how-we-collaborate/), which includes how we make remote collaboration work, how we model agile practices, and a lot more.
 
 ## Diversity, accessibility, ethics and culture at TTS
+
 TTS strives to thoughtfully and intentionally represent the broad American populace we serve. We also believe in inclusive design — creating products and environments that are accessible to all people, regardless of age, disability, or other factors.
 
 To that end, we strongly encourage reading over the [Diversity, equity, and inclusion]({{site.baseurl}}/diversity) materials in the handbook, and consider joining the #diversity and #accessibility guilds.
 
 We also strive to be intentional when interacting with one another and with partners. One useful tip to start with today is to be sure that your location, agency and pronouns are [represented in your Slack profile]({{site.baseurl}}/tools/slack/rules/#getting-started).
-
 
 ## Terming out
 

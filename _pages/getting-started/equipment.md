@@ -49,10 +49,6 @@ A user can be granted administrative rights on a GSA-issued Mac if they need to 
 
 See the [**procedures to request admin rights**](https://docs.google.com/document/d/1xepZsh83lxPDykrb1NXoeHxj8m78qsdW-9KqzO_CHOQ/edit).
 
-### Tips
-
-- Run the [laptop script](https://github.com/18F/laptop) which will turn your Mac into an awesome web development machine.
-
 ## Phone
 
 TTS employees are issued an Apple iPhone. The TTS Talent Team will already have submitted a request to GSA IT for your work phone before you join TTS. Within a few weeks of starting at TTS, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
