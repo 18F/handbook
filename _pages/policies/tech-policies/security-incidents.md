@@ -70,7 +70,7 @@ Responders to an incident (as defined above) are entitled to take steps to remed
 
 ### Preventing future incidents with Git Seekrets
 
-If an incident involved exposing environment variables or private configuration data, consider [adding a rule](https://github.com/18F/laptop#git-seekret) to the Git Seekrets installation to prevent further incidents across TTS.
+If an incident involved exposing environment variables or private configuration data, consider adding a [rule](https://github.com/cloud-gov/caulking#rule-sets) to [Caulking](https://github.com/cloud-gov/caulking) to prevent further incidents across TTS.
 
 ### Setting up My Drive for sensitive information sharing
 

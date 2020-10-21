@@ -14,22 +14,13 @@ To learn what information we consider sensitive, see [our Open Source Policy pra
 
 TTS offers a few different tools for protecting sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
 
-### Git Seekret
+### Git secrets
 
-To prevent committing sensitive data to your Git repository, install
-`git-seekrets` and pre-commit hooks. Please install the `git-seekrets` binary,
-which prevents the committing of certain sensitive information to your Git
-repository. Examples include environment variables and private configuration data.
-
-Refer to [the official installation guide for Git Seekrets](https://github.com/18F/laptop#want-to-install-just-git-seekret). You can use the installed binary with either the command-line or with the GitHub Desktop interface.
-
-Git Seekret does verification of the current files that will be committed to your repository using the git `precommit-hook`. This runs for every commit and will not allow you to commit your changes if any secrets are found.
-
-To contribute regular-expressions to match new rules, [see the documentation](https://github.com/18F/laptop#git-seekret).
+To prevent committing sensitive data to your Git repository, install [Caulking](https://github.com/cloud-gov/caulking).
 
 ### Google Drive
 
-You can use [GSA Google Drive](../google-drive/) to share sensitive files, spreadsheets, and documents. This includes personally identifiable information (PII) of either federal staff or the public, but it *does not* include classified information of any kind. If you're handling PII, be absolutely sure you are only sharing Drive files with GSA staff and that those staff members have a direct need for the information.
+You can use [GSA Google Drive](../google-drive/) to share sensitive files, spreadsheets, and documents. This includes personally identifiable information (PII) of either federal staff or the public, but it _does not_ include classified information of any kind. If you're handling PII, be absolutely sure you are only sharing Drive files with GSA staff and that those staff members have a direct need for the information.
 
 ### OMB MAX
 
@@ -45,8 +36,8 @@ You can create an S3 service instance on cloud.gov and issue credentials for par
 
 Follow the linked instructions to password-protect a:
 
-* [PDF](https://support.apple.com/guide/preview/password-protect-a-pdf-prvw587dd90f/mac)
-* [ZIP](https://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can be a folder full of files)
-   - [Information from GSA IT](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/how-to-create-fipscompliant-zip-files)
+- [PDF](https://support.apple.com/guide/preview/password-protect-a-pdf-prvw587dd90f/mac)
+- [ZIP](https://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can be a folder full of files)
+  - [Information from GSA IT](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/how-to-create-fipscompliant-zip-files)
 
 Send the encrypted file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.
