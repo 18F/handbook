@@ -8,6 +8,8 @@ Do you need software to do your job or make sure TTS is running smoothly? Follow
 
 If you need to purchase more expensive software, see [procurements over $10,000]({{ site.baseurl }}/procurements-over-10000/).
 
+{% include software-warning.html %}
+
 ## Get access to software we already have
 
 [**Search the IT Standards list.**]({{site.baseurl}}/software/search/)
@@ -24,9 +26,17 @@ If the name pops up, it means GSA has already purchased it. If your software is 
 
 _Note: If you're looking for MS Office, see [this page]({{site.baseurl}}/office/)._
 
-## Purchase new software
+## Approvals
 
-{% include software-warning.html %}
+All software in use at GSA needs to be approved through the IT Standards process. There are a few exceptions:
+
+- Free and open source development packages
+  - In general, open source development libraries are exempt from IT Standards review.
+  - See the [CIO GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>) (section 2c) for more details.
+- [Social media](https://www.gsa.gov/about-us/newsroom/social-media/gsa-social-media-policy)
+- [Tools from partner agencies]({{site.baseurl}}/collaboration-tools/#using-partners-tools)
+
+## Purchase new software
 
 Here at TTS, we want to stay current and take advantage of as many emerging technologies as possible. We believe that getting the software you need to do your job should not be difficult, time-consuming or stressful. If the software is not in the [TTS inventory](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0) or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio will work with you to meet your needs as best as possible.
 
@@ -53,10 +63,6 @@ Typically, ATOs are for data and systems. They are required for any GSA informat
 - [GitHub integrations]({{site.baseurl}}/github/#rules)
 - [Google Cloud / G Suite services, including APIs](https://docs.google.com/spreadsheets/d/1h0338doPlHIfslS7Huypzs7TlJTFVw_-98oPnum0Cvo/edit#gid=467863101)
 - [Slack integrations]({{site.baseurl}}/tools/slack/integrations/)
-
-## Free and open source development packages
-
-The process on this page is for buying software. In general, open source development libraries are exempt from IT Standards review. See the [CIO GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>) (section 2c) for more detail.
 
 ## Contacts
 
