@@ -26,6 +26,8 @@ _Note: If you're looking for MS Office, see [this page]({{site.baseurl}}/office/
 
 ## Purchase new software
 
+{% include software-warning.html %}
+
 Here at TTS, we want to stay current and take advantage of as many emerging technologies as possible. We believe that getting the software you need to do your job should not be difficult, time-consuming or stressful. If the software is not in the [TTS inventory](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0) or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio will work with you to meet your needs as best as possible.
 
 ### Step 1: Request within TTS
@@ -44,7 +46,7 @@ If the ATO is expired or you cannot find it in GEAR, you can post in the Slack c
 
 ## Other lists and approval processes
 
-Typically, ATOs are for data and systems. They are required for any GSA information system that hosts GSA data. Not everything falls into that category, but they still need approval. Rather than being given the approval to Operate, they are given an Approval to Use (ATU). An ATU is a risk-based approval process for usage of services, features or funcstion on already ATO'd information systems or platforms. Both of these processes are explained in the [ATO & ATU Tech Talk Briefing](https://drive.google.com/file/d/1rjv7eiPSpjv4imX8Pi4ghRyS-aYb48ln/view?usp=sharing). 
+Typically, ATOs are for data and systems. They are required for any GSA information system that hosts GSA data. Not everything falls into that category, but they still need approval. Rather than being given the approval to Operate, they are given an Approval to Use (ATU). An ATU is a risk-based approval process for usage of services, features or funcstion on already ATO'd information systems or platforms. Both of these processes are explained in the [ATO & ATU Tech Talk Briefing](https://drive.google.com/file/d/1rjv7eiPSpjv4imX8Pi4ghRyS-aYb48ln/view?usp=sharing).
 
 - [Amazon Web Services (AWS) services](https://before-you-ship.18f.gov/infrastructure/aws/#building-systems-that-will-be-deployed-directly-to-aws)
 - [Chrome extensions](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions)

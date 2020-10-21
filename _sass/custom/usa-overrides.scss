@@ -1,6 +1,7 @@
 @include at-media("tablet-lg") {
   .with-inline-navigation .usa-prose {
-    // keep headings and tables from overlapping in-page navigation
+    // keep other elements from overlapping in-page navigation
+    .usa-alert,
     table,
     h2,
     h3,
