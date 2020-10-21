@@ -8,7 +8,7 @@ Here's what you need to know about sensitive information at TTS.
 
 ## What is considered sensitive?
 
-To learn what information we consider sensitive, see [our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information). See also: [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
+Anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands. To learn what information we consider sensitive, see [our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information). See also: [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
 
 ## Tools
 
@@ -29,7 +29,7 @@ To contribute regular-expressions to match new rules, [see the documentation](ht
 
 ### Google Drive
 
-You can use [GSA Google Drive](../google-drive/) to share sensitive files, spreadsheets, and documents. This includes personally identifiable information (PII) of either federal staff or the public, but it *does not* include classified information of any kind. If you're handling PII, be absolutely sure you are only sharing Drive files with GSA staff and that those staff members have a direct need for the information.
+You can use [GSA Google Drive](../google-drive/) to share sensitive files, spreadsheets, and documents. This includes personally identifiable information (PII) of either federal staff or the public, but it _does not_ include classified information of any kind. If you're handling PII, be absolutely sure you are only sharing Drive files with GSA staff and that those staff members have a direct need for the information.
 
 ### OMB MAX
 
@@ -45,8 +45,8 @@ You can create an S3 service instance on cloud.gov and issue credentials for par
 
 Follow the linked instructions to password-protect a:
 
-* [PDF](https://support.apple.com/guide/preview/password-protect-a-pdf-prvw587dd90f/mac)
-* [ZIP](https://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can be a folder full of files)
-   - [Information from GSA IT](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/how-to-create-fipscompliant-zip-files)
+- [PDF](https://support.apple.com/guide/preview/password-protect-a-pdf-prvw587dd90f/mac)
+- [ZIP](https://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can be a folder full of files)
+  - [Information from GSA IT](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/how-to-create-fipscompliant-zip-files)
 
 Send the encrypted file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.

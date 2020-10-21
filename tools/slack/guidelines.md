@@ -73,6 +73,10 @@ Slack Groups allow you to direct messages to a specific list of people in a more
 
 Groups are a great way to alert people who might not be in a channel about something that needs their attention or make sure urgent incidents are directed to the right people and not an entire channel. For example, you can ping **@github-admins** in #admins-github if you have an urgent issue instead of using an **@channel** or use **@federalist-team** to alert that group of a conversation in another channel that we should see immediately.
 
+## Add yourself to [our custom emoji](https://gsa-tts.slack.com/customize/emoji)
+
+Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Post your emoji (and any other custom emojis you add) to the [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY) channel.
+
 ## Connectivity issues
 
 If you are having connectivity issues with Slack, see the [Slack status site](https://status.slack.com/) for more information, and move to [Hangouts Chat](https://support.google.com/a/users/answer/9300511?hl=en) or email.
