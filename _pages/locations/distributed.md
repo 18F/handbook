@@ -86,6 +86,7 @@ From Peter Karman and Becky Sweger:
 - **GSA can also provide a wireless keyboard and a mouse.** If you're in need of extra equipment, just ask. Hop into [#equipment](https://gsa-tts.slack.com/messages/equipment/) on Slack.
 - **A standing desk is critical for your health.** Folks in the [#distributed](https://gsa-tts.slack.com/messages/distributed/) channel are always happy to discuss their various standing desk hacks or purchases.
 - **Make sure you can connect to the GSA network remotely.**
+- **Assume people are working asynchronously.** We never assume that people are available the minute that we need them. We use the collaborative tools to communicate, which ensures all of our communication is documented and searchable for coworkers who might be checking on things later in the day. Writing everything down — even conversations we have verbally — ensures all team members are informed and up-to-date.
 
 ## Keeping in touch
 
