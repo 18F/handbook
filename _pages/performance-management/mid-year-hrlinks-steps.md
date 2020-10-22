@@ -16,9 +16,7 @@ This page contains step-by-step instructions for employees and supervisors on ho
 
 If you're having issues with logging into HR Links while using Google Chrome, please use these [instructions to clear your site cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
 
-## HR Links performance management steps
-
-### Submitting a performance plan for employee acknowledgment
+## Submitting a performance plan for employee acknowledgment
 
 * Step-by-step instructions:
   * No action required by employee
@@ -27,7 +25,7 @@ If you're having issues with logging into HR Links while using Google Chrome, pl
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Acknowledging a performance plan
+## Acknowledging a performance plan
 
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.u5b15qifcg0q)
@@ -38,7 +36,7 @@ If you're having issues with logging into HR Links while using Google Chrome, pl
   * [Employee (Section 1, Topic 1.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Overriding an employee performance plan acknowledgment
+## Overriding an employee performance plan acknowledgment
 
 A supervisor can acknowledge an employee performance plan on behalf of their employee if the employee is unable to (i.e. on vacation) or refuses to do so (i.e. does not agree with the evaluation).
 
@@ -46,7 +44,7 @@ A supervisor can acknowledge an employee performance plan on behalf of their emp
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.g8d9qupcsxiz)
 
-### Re-opening a performance plan
+## Re-opening a performance plan
 
 If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-a-performance-plan-for-employee-approval).
 
@@ -56,7 +54,7 @@ If modifications need to be made to an existing performance plan, a plan can be 
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.hf3nfjxrhb8h)
 
-### Entering a self-assessment
+## Entering a self-assessment
 
 Self-assessments are **not required** for the mid year review; however, Supervisors can request that their direct reports submit one.
 
@@ -70,7 +68,7 @@ Self-assessments are **not required** for the mid year review; however, Supervis
 * Additional resource guide:
   * [GSA Employee Guide to Writing an Effective Self-Assessment](https://drive.google.com/open?id=1EFwZLMB4qZLZdz98NKGV-TLnJrquLiqo)
 
-### Reviewing an employee mid year self-assessment
+## Reviewing an employee mid year self-assessment
 
 Self-assessments are **not required** for the mid year review; however, Supervisors can request that their direct reports submit one.
 
@@ -78,19 +76,19 @@ Self-assessments are **not required** for the mid year review; however, Supervis
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.dc4dfn7ht52u)
 
-### Submitting mid year assessment comments
+## Submitting mid year assessment comments
 
 * Step-by-step instructions:
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.c3fz56zdlqf2)
 
-### Submitting a mid year progress review
+## Submitting a mid year progress review
 
 * Step-by-step instructions:
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.htn3ziu4jxow)
 
-### Tracking employee progress
+## Tracking employee progress
 
 It is critical that all mid-year performance plan evaluations are acknowledged by employees before June 1.
 
@@ -98,13 +96,13 @@ It is critical that all mid-year performance plan evaluations are acknowledged b
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.34676ir5s3g8)
 
-### Acknowledging a review
+## Acknowledging a review
 
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.6ykmn1ge2hlk)
   * No action required by supervisor
 
-### Overriding an employee acknowledgment
+## Overriding an employee acknowledgment
 
 A supervisor can acknowledge an employee evaluation if the employee is unable to (i.e. on vacation) or refuses to do so (i.e. does not agree with the evaluation).
 
