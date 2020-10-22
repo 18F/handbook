@@ -69,7 +69,7 @@ If you're coming from **Thurgood Marshall Baltimore-Washington Airport (BWI)**, 
 
 ### Walking
 
-TTS's Washington office is located two blocks from the White House, six blocks from the Farragut North station, and three blocks from the Farragut West Metro Station.
+TTS' Washington office is located two blocks from the White House, six blocks from the Farragut North station, and three blocks from the Farragut West Metro Station.
 
 ### Biking
 

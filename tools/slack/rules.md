@@ -19,7 +19,7 @@ questions:
   - [Emoji reactions](https://slack.com/help/articles/206870317-Use-emoji-reactions)
 - **Do not post any [sensitive information]({{site.baseurl}}/sensitive-information/).** See the [list of alternatives]({{site.baseurl}}/sensitive-information/#tools).
 
-## Usage of TTS's Slack
+## Usage of TTS' Slack
 
 Slack is required for all [TTS](https://www.gsa.gov/portal/category/25729) staff. Some things you'll want to remember, especially if you're new to Slack:
 
