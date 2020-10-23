@@ -14,18 +14,9 @@ Anything that would make our systems vulnerable or would impact the privacy of o
 
 TTS offers a few different tools for protecting sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
 
-### Git Seekret
+### Git secrets
 
-To prevent committing sensitive data to your Git repository, install
-`git-seekrets` and pre-commit hooks. Please install the `git-seekrets` binary,
-which prevents the committing of certain sensitive information to your Git
-repository. Examples include environment variables and private configuration data.
-
-Refer to [the official installation guide for Git Seekrets](https://github.com/18F/laptop#want-to-install-just-git-seekret). You can use the installed binary with either the command-line or with the GitHub Desktop interface.
-
-Git Seekret does verification of the current files that will be committed to your repository using the git `precommit-hook`. This runs for every commit and will not allow you to commit your changes if any secrets are found.
-
-To contribute regular-expressions to match new rules, [see the documentation](https://github.com/18F/laptop#git-seekret).
+To prevent committing sensitive data to your Git repository, install [Caulking](https://github.com/cloud-gov/caulking).
 
 ### Google Drive
 
