@@ -19,6 +19,9 @@ primary:
       - text: Org chart
         url: org-chart/
         internal: true
+      - text: 2020 Strategy
+        url: https://docs.google.com/document/d/1uidmcUfdxOeCt23nJ4VI1M10HV3W44ImMPLgwbx1QJM/edit
+        internal: false
       - text: Digital Council
         url: digital-council/
         internal: true
