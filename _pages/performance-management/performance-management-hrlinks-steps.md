@@ -16,9 +16,7 @@ This page contains step-by-step instructions for employees and supervisors on ho
 
 If you're having issues with logging into HR Links while using Google Chrome, please use these [instructions to clear your site cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
 
-## HR Links performance management steps
-
-### Creating a new performance plan
+## Creating a new performance plan
 In most cases, supervisors should own the creation of performance plans for direct reports.  This step applies to employees who require a new performance plan such as new employees and existing employees who have recently changed roles.
 
 * Step-by-step instructions:
@@ -29,14 +27,14 @@ In most cases, supervisors should own the creation of performance plans for dire
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 1, Topic 1.1)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Copying an existing performance plan
+## Copying an existing performance plan
 In most cases, supervisors should own the creation of performance plans for direct reports.  This step applies to employees that will be on a performance plan that is consistent with their prior year.
 
 * Step-by-step instructions:
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.4ov23tpb7l01)
   
-### Updating a performance plan
+## Updating a performance plan
 After copying (cloning) a prior year performance plan, updates to the critical elements will likely be needed to align with current fiscal year goals.  This section provides resources, including prior year examples, for updating performance plans.
 
 * [FY21 TTS Performance Plan Framework](https://docs.google.com/document/d/1Hxj17-hm9GaAKRRZRPA0_f1RPqswIlmuN6yQknWgba8/edit)
@@ -46,7 +44,7 @@ After copying (cloning) a prior year performance plan, updates to the critical e
 * [FY21 Business Unit Critical Elements Builder](https://docs.google.com/spreadsheets/d/1mWpN4mSYUaFxYUP8QmcQPMUwVzki-0-0vz1R70-uNkQ/edit#gid=612468956)
   * Provides a template to write out critical elements, definitions of the critical elements, and links to prior year examples
 
-### Submitting a performance plan for employee approval
+## Submitting a performance plan for employee approval
 
 * Step-by-step instructions:
   * No action required by employee
@@ -55,7 +53,7 @@ After copying (cloning) a prior year performance plan, updates to the critical e
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Acknowledging a performance plan
+## Acknowledging a performance plan
 
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.u5b15qifcg0q)
@@ -66,7 +64,7 @@ After copying (cloning) a prior year performance plan, updates to the critical e
   * [Employee (Section 1, Topic 1.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   * [Supervisor (Section 1, Topic 1.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Re-opening a performance plan
+## Re-opening a performance plan
 
 If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-a-performance-plan-for-employee-approval).
 
@@ -76,7 +74,7 @@ If modifications need to be made to an existing performance plan, a plan can be 
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.hf3nfjxrhb8h)
 
-### Entering a self-assessment
+## Entering a self-assessment
 
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.2bzg793t31vu)
@@ -88,7 +86,7 @@ If modifications need to be made to an existing performance plan, a plan can be 
 * Additional resource guide:
   * [GSA Employee Guide to Writing an Effective Self-Assessment](https://drive.google.com/open?id=1EFwZLMB4qZLZdz98NKGV-TLnJrquLiqo)
 
-### Nominating participant reviewer(s)
+## Nominating participant reviewer(s)
 
 This process allows supervisors and employees to [solicit feedback](https://drive.google.com/open?id=1O3G3fa2ezbz_SUqBRT3OZRt0QPrLapl6) from other supervisors or colleagues regarding their Performance Plan. HR Links allows both employees and supervisors to nominate and track participant reviews; however, only supervisors can officially submit a nomination.  If an employee nominates another employee for feedback on their performance, the nomination is submitted to the supervisor for approval.
 
@@ -102,7 +100,7 @@ Once nominated, participant reviewers receive a notification alerting them of th
   * [Employee (Section 3, Topic 3.1)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
   * [Supervisor (Section 3, Topic 3.2)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Submitting a participant review
+## Submitting a participant review
 Submitting a participant review in HR Links is the same process for all nominated colleagues regardless of their reporting relationship to the employee.  TTS Supervisors will have to review and approve all participant reviews for their direct reports in HR Links as part of the final employee evaluation submittal process.
 
 * Step-by-step instructions:
@@ -112,7 +110,7 @@ Submitting a participant review in HR Links is the same process for all nominate
 * HR Links in-depth guide:
   * [Employee (Section 3, Topic 3.2)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
 
-### Reviewing an employee self-assessment
+## Reviewing an employee self-assessment
 
 * Step-by-step instructions:
   * No action required by employee
@@ -121,7 +119,7 @@ Submitting a participant review in HR Links is the same process for all nominate
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Reviewing evaluations from participant reviewer(s)
+## Reviewing evaluations from participant reviewer(s)
 
 * Step-by-step instructions:
   * No action required by employee
@@ -131,7 +129,7 @@ Submitting a participant review in HR Links is the same process for all nominate
  * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Submitting an evaluation
+## Submitting an evaluation
 
 * Step-by-step instructions:
   * No action required by employee
@@ -140,7 +138,7 @@ Submitting a participant review in HR Links is the same process for all nominate
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 3, Topic 3.4)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
-### Acknowledging an evaluation
+## Acknowledging an evaluation
 
 * Step-by-step instructions:
   * [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.6ykmn1ge2hlk)
@@ -149,7 +147,7 @@ Submitting a participant review in HR Links is the same process for all nominate
 * HR Links in-depth guide (with screenshots):
   * [Employee (Section 3, Topic 3.4)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
 
-### Confirming that performance plans have been established
+## Confirming that performance plans have been established
 
 It is critical that all FY20 performance plan evaluations are acknowledged by employees before November 16 and all FY21 performance plans are acknowledged by employees before November 30. The status of employee performance management can be checked in the *Team Performance Supervisor dashboard*:
 
@@ -160,7 +158,7 @@ It is critical that all FY20 performance plan evaluations are acknowledged by em
 * HR Links in-depth guide (with screenshots):
   * [Supervisor (Section 3, Topic 3.1)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
   
-### Closing out an interim performance plan (the plan will not factor into the end of year performance award)
+## Closing out an interim performance plan (the plan will not factor into the end of year performance award)
 
 If a TTS employees has two performance plans of record for FY20, both plans need to be closed out; however, only the most recent plan will factor into the end of year performance award if the other plan is closed out properly.  Supervisors should discuss both plans with their direct reports and provide ratings that are as accurate as possible because both plans will still be visible in the employee's record.  The step-by-step instructions below show how to rate and submit the "old" plan properly.
 
@@ -168,6 +166,6 @@ If a TTS employees has two performance plans of record for FY20, both plans need
   * No action required by employee
   * Supervisor will need to [follow these instructions](https://docs.google.com/document/d/10WP9J0MeH-PovXlZqXvkAH_ePQuHaPnXZnou2FEq0_I/edit)
 
-### Selecting Time Off Award in lieu of cash performance award
+## Selecting Time Off Award in lieu of cash performance award
 
 Information will be updated pending guidance from GSA.

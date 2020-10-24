@@ -13,16 +13,14 @@ questions:
 
 This page contains additional resources and trainings for employees who are going through the performance management process.  Visit the Quick Links section of the [Performance Management Overview]({{site.baseurl}}/performance-management/) page for the Performance Management Employee Checklist.  
 
-## Employee resources
-
-### [Employee performance management checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538)
+## [Employee performance management checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538)
 
 * Use the [Employee performance management checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) (please make a copy!) to guide you through the end of FY19 performance review process
   * *NOTE: Items highlighted in green are particularly important steps*
 
-### Guidance
+## Guidance
 
-#### [InSite](https://insite.gsa.gov)
+### [InSite](https://insite.gsa.gov)
 
 * [InSite Performance Plan FAQ](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/policies/associate-performance-plan-and-appraisal-system-appas-faqs)
 
@@ -35,7 +33,7 @@ This page contains additional resources and trainings for employees who are goin
     * Employee Guide for Writing a Self-Assessment
     * Supervisors Award Guide
 
-#### [HR Links](https://hrlinks.gsa.gov/)
+### [HR Links](https://hrlinks.gsa.gov/)
 
 * [HR Links Performance Management Guide](https://drive.google.com/file/d/1mn-3yC3tN5dC4ppDSoRFi41W1vWSZzGX/view): Guide for entering all components of a performance review into HR Links
     * Establishing a performance plan
@@ -44,13 +42,13 @@ This page contains additional resources and trainings for employees who are goin
     * Acknowledging a performance plan
     * Entering a self-assessment (Page 7, Section 3.3)
 
-#### Gather supporting documentation
+### Gather supporting documentation
 
 Supporting documentation that aligns with your Performance Management Plan is ***optional*** for the performance review process. Examples of supporting documentation include emails, written performance counseling, customer feedback, survey results, supervisory notes, database/spreadsheets, and/or work samples within the current rating cycle.
 
 This information can be shared with your Supervisor during your mid-year and end-of-year 1:1 performance review conversation.
 
-### Training
+## Training
 
 * Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:
     * Performance Management Overview – Refresher and introduction of the performance management program.
@@ -66,7 +64,7 @@ This information can be shared with your Supervisor during your mid-year and end
     * Acknowledge a Mid-Year Progress Review
     * Acknowledge an Evaluation
 
-#### [OLU Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03)
+### [OLU Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03)
 
 Courses include, but is not limited to the following:
 
