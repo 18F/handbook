@@ -10,7 +10,7 @@ GSA does not provide Microsoft Teams to staff, but [as an authorized tool at a p
 
 ## Rules
 
-- [Use the web client](https://support.microsoft.com/en-us/office/use-teams-on-the-web-33f84aa9-2e8b-47ac-8676-02033454e385) to access Teams from GSA devices. Do not install the desktop/mobile apps.
+- [Use the web client](https://support.microsoft.com/en-us/office/use-teams-on-the-web-33f84aa9-2e8b-47ac-8676-02033454e385) to access Teams from GSA devices. Do not install the desktop app.
 - Follow any additional rules specified by the partner agency.
 
 ## How to access
