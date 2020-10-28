@@ -42,7 +42,7 @@ Here are some common barriers to using Slack with partners and workarounds to tr
 
 - **Skype:** Skype provides instant messaging and video teleconferencing capabilities within a partner network.
 - **Google Hangouts Chat:** Google Hangouts Chat is the instant messaging service within the Google G Suite, and typically integrated with Gmail, Calendar, Drive, and Sites.
-- **Microsoft Teams:** Microsoft Teams provides chat capabilities similar to Slack, with the ability to collaborate around themed channels, direct messaging to multiple individuals, etc. Microsoft Teams may be the collaborative tool of choice for partners that have adopted Microsoft services.
+- [**Microsoft Teams**]({{site.baseurl}}/tools/teams/)
 </details>
 
 ### Video conferencing
