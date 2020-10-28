@@ -471,6 +471,9 @@ primary:
           - text: Meetings and meeting tools
             url: meetings-and-meeting-tools/
             internal: true
+          - text: Microsoft Teams
+            url: tools/teams/
+            internal: true
           - text: Slack (chat client)
             url: slack/
             internal: true
