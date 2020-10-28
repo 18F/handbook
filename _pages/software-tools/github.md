@@ -57,8 +57,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Do not store sensitive information in GitHub**, including environment variables, private configuration data, or sensitive information about the public (including but not limited to PII). In the event that such variables or configuration data is pushed to a GitHub repository accidentally, even momentarily, consider it compromised and revoke or change the credentials immediately. Do not delete the commit itself. Then immediately follow the directions on the [incident response handbook page]({{site.baseurl}}/security-incidents). If you're unsure how to protect this information, consult with Infrastructure on GitHub or in the [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) channel in Slack. Some projects use [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to the [TTS Handbook page on sensitive information]({{site.baseurl}}/sensitive-information) and [guidance on sensitive information in our open source policy.](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
 
-  - To help you not commit sensitive information to Github, [please read about Git
-    Seekrets]({{site.baseurl}}/sensitive-information#git-seekret).
+  - [How to avoid accidentally committing secrets]({{site.baseurl}}/sensitive-information/#git-secrets).
 
 - **Ask TTS Tech Portfolio before integrating a service with GitHub.** Many websites offer the option to "Sign in with GitHub" and may further request permission to access your "personal user data." Providing this level of access can not only share your public or private email address, but it can also grant the ability to access TTS private repositories. For this reason, we ask that all organization members refrain from authorizing integrations and request any desired integrations through an TTS Tech Portfolio issue.
 
