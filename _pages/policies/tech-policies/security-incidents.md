@@ -68,7 +68,7 @@ Responders to an incident (as defined above) are entitled to take steps to remed
 - Putting sensitive data in a public Slack channel
 - Exposing a secret token in a GitHub repository
 
-### Preventing future incidents with Git Seekrets
+### Preventing future incidents
 
 If an incident involved exposing environment variables or private configuration data, consider adding a [rule](https://github.com/cloud-gov/caulking#rule-sets) to [Caulking](https://github.com/cloud-gov/caulking) to prevent further incidents across TTS.
 
