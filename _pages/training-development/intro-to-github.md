@@ -94,7 +94,7 @@ Final pro tip: If your project wants issues formatted in a specific way, you can
 
 ### 7. Transferring a repository
 
-Often during the course of working with and transitioning projects to partners, an `18F`-owned Github repository will need to be transferred to the ownership of the partner. A "Transfer" is the recommended approach since it will include Issues, Pull Requests, and other Github metadata and history that won't be captured by just cloning the `git` respository which only contains the code.
+Often during the course of working with and transitioning projects to partners, an `18F`-owned Github repository will need to be transferred to the ownership of the partner. A "Transfer" is the recommended approach since it will include Issues, Pull Requests, and other Github metadata and history that won't be captured by just cloning the `git` repository which only contains the code.
 
 #### Transferring to another organization on Github.com
 
