@@ -10,34 +10,15 @@ questions:
 
 - **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal](https://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
-- **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
-- **Assume everything you share/do in Slack will be made public, and attributed back to you.** Treat Slack as a public forum — you have _no_ privacy. This includes:
-  - File uploads to Slack
-  - Any audio or video transmitted using a [Slack Call](https://slack.com/help/articles/115003498363-Slack-calls--the-basics)
-  - Channel names
-  - [Custom emoji](https://slack.com/help/articles/206870177-Add-custom-emoji-to-your-workspace)
-  - [Emoji reactions](https://slack.com/help/articles/206870317-Use-emoji-reactions)
-- **Do not post any [sensitive information]({{site.baseurl}}/sensitive-information/).** See the [list of alternatives]({{site.baseurl}}/sensitive-information/#tools).
+- **Customize your profile** by adding your location and [personal pronouns](https://pronoun.is/) to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Remember to add other helpful info in your profile while you're in there.
 
-## Usage of TTS' Slack
+## Usage
 
 Slack is required for all [TTS](https://www.gsa.gov/portal/category/25729) staff. Some things you'll want to remember, especially if you're new to Slack:
 
-- **Everything in Slack is subject to FOIA** and is therefore potentially part of the public record (written words that are attributable back to you). Don't say something on Slack that you wouldn't feel comfortable appearing on the news.
-- **Customizing your profile** by adding your location and [personal pronouns](https://pronoun.is/) to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Remember to add other helpful info in your profile while you're in there.
-- **The advanced settings section** provides an option for _only showing channels that have unread messages._ This is useful if you're a member of a lot of channels.
-- **Click the timestamp** on any post to go to the archival view of it. This is helpful if you'd like to cross-post a link to a message in another channel.
-- **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
-- **If you're interested in tracking specific keywords across Slack,** set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
-- **To add an RSS feed to any channel**, type `/feed subscribe <RSS URL>`.
-- **Never use Slack to share secure information.** If you want to say something private, it's easy to ask someone to hop on a call.
-- **You can use Slack as an archival system.** It has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for that in Slack before asking.
-- You can also search by tagged emoji. To see all messages tagged with a particular emoji, search Slack for `has:{{emoji_name}}` (for example `has::evergreen_tree:`).
-- **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.
-- **Praise your coworkers.** If you'd like to praise someone for doing good work, start a message with `love @username` or `:heart: @username` in [#general-talk](https://gsa-tts.slack.com/archives/general-talk), or any channel in which [Charlie](https://gsa-tts.slack.com/team/charlie) is present. You can also see recent praise in [#love](https://gsa-tts.slack.com/archives/love).
-- **Use text encoding when pasting a large chunk of text.** Use the + sign to the left of the text box to create a snippet. There will be an option to select how you would like to encode the text; select plain text to avoid smart quotes, if you're pasting code.
-- **Change your color scheme.** You can change your color scheme by going to Preferences --> Theme --> Custom Theme. Paste the following for the US Design Standards theme: `#112E51,#205493,#0071BC,#FFFFFF,#323A45,#FFFFFF,#4AA564,#981B1E`
-- **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
+- **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
+- [**Assume everything you share/do in Slack will be made public, and attributed back to you.**](../records/)
+- **Do not post any [sensitive information]({{site.baseurl}}/sensitive-information/).** See the [list of alternatives]({{site.baseurl}}/sensitive-information/#tools).
 
 ## Channel names
 

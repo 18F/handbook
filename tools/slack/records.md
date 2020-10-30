@@ -6,6 +6,14 @@ questions:
 
 [_Back to Slack page_](../)
 
+All Slack messages are potentially [records]({{site.baseurl}}/records-management/), and are subject to FOIA. Therefore, **assume everything you share/do in Slack will be made public, and attributed back to you**. Treat Slack as a public forum — you have _no_ privacy. Don't say something on Slack that you wouldn't feel comfortable appearing on the news. This includes:
+
+- File uploads to Slack
+- Any audio or video transmitted using a [Slack Call](https://slack.com/help/articles/115003498363-Slack-calls--the-basics)
+- Channel names
+- [Custom emoji](https://slack.com/help/articles/206870177-Add-custom-emoji-to-your-workspace)
+- [Emoji reactions](https://slack.com/help/articles/206870317-Use-emoji-reactions)
+
 ## Records policy
 
 Per the mandatory [General Records Schedule 3.1](https://www.archives.gov/records-mgmt/memos/ac33-2014.html) issued by the National Archives and Records Administration (NARA), everything in Slack channels and groups is considered at minimum a temporary record.
