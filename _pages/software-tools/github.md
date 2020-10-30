@@ -144,6 +144,8 @@ If the repository is published as a package, please also mark it as deprecated.
 
 No approval is needed to archive/unarchive a repository. Feel free to do so yourself, or ask [#admins-github](https://gsa-tts.slack.com/messages/admins-github) for help. Note that archiving a repository is _not_ the same as deleting it.
 
+Once the repository is active, it will need to be maintained, including all security tasks.
+
 ### Creating a new GitHub organization
 
 [Create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=github-org.md) and follow the steps.
