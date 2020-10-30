@@ -65,7 +65,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **You do not need approval to create public repositories.**
 
-- **Ask TTS Tech Portfolio before deleting repositories.** As a government team, we can’t delete repositories without TTS Tech Portfolio first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you'd like to do and why, and wait for approval before deleting it.
+- **Ask TTS Tech Portfolio before deleting repositories.** As a government team, we can’t delete repositories without TTS Tech Portfolio first reviewing them for information that they may need to retain (including issues, pull request comments, commit history, and other information). [Archiving](#archiving) is preferred in most cases. If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you'd like to do and why, and wait for approval before deleting it.
 
 - **You are welcome to [transfer repositories](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository#transferring-a-repository-owned-by-your-organization) to partner agencies.** [#admins-github](https://gsa-tts.slack.com/messages/admins-github) will need to do it for you, so ask there. The person performing the transfer will need admin permissions in both the 18F GitHub organization as well as the partner's GitHub organization, so it would be helpful to let your partners know so they can be prepared to assist. After transferring the repository to the client's organization, create a fork of it in [one of our organizations](#organizations). This is so that:
   - We have a record of the repository
@@ -131,13 +131,19 @@ Contractors or external government collaborators should only be added to teams w
 
 ### Archiving
 
-As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), we [archive](https://help.github.com/articles/archiving-repositories/) repositories to deprecate them. In short, that means we are no longer maintaining them, including keeping dependencies up-to-date. No approval is needed to archive/unarchive a repository. Feel free to do so yourself, or ask [#admins-github](https://gsa-tts.slack.com/messages/admins-github) for help. Note that archiving a repository is _not_ the same as deleting it.
+As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), we [archive](https://help.github.com/articles/archiving-repositories/) repositories to deprecate them. In short, that means we are no longer maintaining them, including keeping dependencies up-to-date. Inactive repositories are automatically archived via [ghad](https://github.com/18F/ghad).
 
 If the repository is published as a package, please also mark it as deprecated.
 
 - NPM: Use [`npm deprecate`](https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions)
 - PyPI: Publish with a `Development Status :: 7 - Inactive` [classifier](https://pypi.org/classifiers/)
 - Ruby gem: Publish with a [post-install message](https://guides.rubygems.org/specification-reference/#post_install_message)
+
+#### Unarchiving
+
+No approval is needed to archive/unarchive a repository. Feel free to do so yourself, or ask [#admins-github](https://gsa-tts.slack.com/messages/admins-github) for help. Note that archiving a repository is _not_ the same as deleting it.
+
+Once the repository is active, it will need to be maintained, including all security tasks.
 
 ### Creating a new GitHub organization
 
