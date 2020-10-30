@@ -10,6 +10,8 @@ _References to specific products or organizations are for information only and d
 
 ## Using TTS tools
 
+{% include software-warning.html %}
+
 Below are our the tools we use internally at TTS and potential tools to help your team and partner collaborate.
 
 For each tool mentioned below, we include links to:

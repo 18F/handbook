@@ -8,6 +8,8 @@ Do you need software to do your job or make sure TTS is running smoothly? Follow
 
 If you need to purchase more expensive software, see [procurements over $10,000]({{ site.baseurl }}/procurements-over-10000/).
 
+{% include software-warning.html %}
+
 ## Get access to software we already have
 
 [**Search the IT Standards list.**]({{site.baseurl}}/software/search/)
@@ -23,6 +25,15 @@ If TTS does not have licenses, GSA might. In order to check the GSA IT Catalog:
 If the name pops up, it means GSA has already purchased it. If your software is in the Catalog, fill out the rest of the form to request a license.
 
 _Note: If you're looking for MS Office, see [this page]({{site.baseurl}}/office/)._
+
+## Approvals
+
+All software in use at GSA needs to be approved through the IT Standards process. There are a few exceptions:
+
+- Free and open source development packages
+  - In general, open source development libraries are exempt from IT Standards review.
+  - See the [CIO GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>) (section 2c) for more details.
+- [Tools from partner agencies]({{site.baseurl}}/collaboration-tools/#using-partners-tools)
 
 ## Purchase new software
 
@@ -44,17 +55,13 @@ If the ATO is expired or you cannot find it in GEAR, you can post in the Slack c
 
 ## Other lists and approval processes
 
-Typically, ATOs are for data and systems. They are required for any GSA information system that hosts GSA data. Not everything falls into that category, but they still need approval. Rather than being given the approval to Operate, they are given an Approval to Use (ATU). An ATU is a risk-based approval process for usage of services, features or funcstion on already ATO'd information systems or platforms. Both of these processes are explained in the [ATO & ATU Tech Talk Briefing](https://drive.google.com/file/d/1rjv7eiPSpjv4imX8Pi4ghRyS-aYb48ln/view?usp=sharing). 
+Typically, ATOs are for data and systems. They are required for any GSA information system that hosts GSA data. Not everything falls into that category, but they still need approval. Rather than being given the approval to Operate, they are given an Approval to Use (ATU). An ATU is a risk-based approval process for usage of services, features or funcstion on already ATO'd information systems or platforms. Both of these processes are explained in the [ATO & ATU Tech Talk Briefing](https://drive.google.com/file/d/1rjv7eiPSpjv4imX8Pi4ghRyS-aYb48ln/view?usp=sharing).
 
 - [Amazon Web Services (AWS) services](https://before-you-ship.18f.gov/infrastructure/aws/#building-systems-that-will-be-deployed-directly-to-aws)
 - [Chrome extensions](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions)
 - [GitHub integrations]({{site.baseurl}}/github/#rules)
 - [Google Cloud / G Suite services, including APIs](https://docs.google.com/spreadsheets/d/1h0338doPlHIfslS7Huypzs7TlJTFVw_-98oPnum0Cvo/edit#gid=467863101)
 - [Slack integrations]({{site.baseurl}}/tools/slack/integrations/)
-
-## Free and open source development packages
-
-The process on this page is for buying software. In general, open source development libraries are exempt from IT Standards review. See the [CIO GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>) (section 2c) for more detail.
 
 ## Contacts
 
