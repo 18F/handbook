@@ -40,6 +40,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
+- [OA Operations Branch Chief Detail (1102)](https://docs.google.com/document/d/1VbZFrl6qhVf2wlSgcFgFn-NcZQKcgNR1vg8i4X3fL4w/edit?ts=5f98882f#) - open Friday, October 30th through Tuesday, November 3rd
 
 ## Opportunities with partners
 
