@@ -6,10 +6,10 @@ questions:
 
 ## What is a microrequest?
 
-A microrequest is a piece of carefully scoped work that can be completed quickly and without impacting the ability to complete other assigned work. This typically translates to fewer than eight hours of work in a week, and requests that should take no more than three weeks. Requests which require more resources than this will be handled on a case-by-case basis and may be handed off to the 18F staffing team or Business Development pipeline. 
+A microrequest is a piece of carefully scoped work that can be completed quickly and without impacting the ability to complete other assigned work. This typically translates to fewer than four hours of work in a week, and requests that should take no more than three weeks. Requests which require more resources than this will be handled on a case-by-case basis and may be handed off to the 18F staffing team. 
 
 ## Is your request billable?
-If so, direct your request to #microrequests channel. If your tasks is non-billable, post it in #helpwanted.
+If so, direct your request to #microrequests channel. If your tasks is non-billable, post it in #helpwanted. If you are unsure, post in #microrequests and a channel manager will let you know.
 
 ## What capabilities can be extended through the microrequest process?
 
@@ -22,9 +22,9 @@ If so, direct your request to #microrequests channel. If your tasks is non-billa
 
 Describe your need in the #microrequests channel, where one of our channel managers will help to scope it and will then submit a [staffing request](https://github.com/18F/staffing/issues). Please do not request specific people when making your requests. The staffing leads will work to identify the right people to help you.
 
-The microrequest channel managers will make the determination about whether the description of the work matches the definition of a microrequest above. If the work is beyond the scope of a microrequest, we will make our best effort to complete the work, but will not put existing project work at risk. 
+The microrequest channel managers will make the determination about whether the description of the work matches the definition of a microrequest above. If the work is beyond the scope of a microrequest, we will make our best effort to complete the work, but will not put existing project work at risk. Typically, requests larger than 4 hours a week will be put through 18F's standard staffing process.
 
-Requests for billable projects (including requests from CoE, PIF, Login, and Cloud) may be prioritized over non-billable work. Otherwise, microrequests will be handled on a first-come, first-served basis and according to the available resources. For example, if two requests for visual design support are made, the work will be completed in the order the request was made. 
+Requests for billable projects (including requests from other TTS offices) may be prioritized over non-billable work. Otherwise, microrequests will be handled on a first-come, first-served basis and according to the available resources. For example, if two requests for visual design support are made, the work will be completed in the order the request was made. 
 
 ## Will microrequests always be fulfilled?
 
@@ -34,6 +34,8 @@ Not necessarily. We’ll try to fulfill requests as soon as we reasonably can. I
 
 If there is a project associated with the microrequest, the person completing the work will Tock to that project line. The person submitting the request should provide the Tock line to use.
 
-18F has an agreement with Login, Cloud, PIF, and CoE that allows for 141 hours of microrequests to be completed on behalf of each organization in FY20. The agreement covers the costs associated with the 18F labor, but the requests must still adhere to the definitions above. That is, microrequests will be fulfilled when they don’t impact 18F’s ability to deliver on other partner projects to which people are staffed. Tock lines for each of these orgs are listed in the #microrequests channel description, and remaining hours are updated on a weekly basis.
+18F has individual agreements with TTS Solutions, Login, PIF, TTS Front Office and CoE. The necessary tock line and approver (if applicable) is documented in the #microrequests channel topic . The agreements covers the costs associated with the 18F labor, but the requests must still adhere to the definitions above. That is, microrequests will be fulfilled when they don’t impact 18F’s ability to deliver on other partner projects to which people are staffed. 
 
-If you’re working on a microrequest, remember that microrequests that are related to billable projects or that fall within the TTS sibling org agreement contribute to your overall billable hours expectations. So if you work for eight hours on a microrequest, you would be expected to work at least 24 hours on other projects, rather than the usual minimum of 32 hours.
+If you’re working on a microrequest, remember that microrequests that are related to billable projects or that fall within the TTS sibling org agreement contribute to your overall billable hours expectations. This work should contribute to your overall billable target for the week.
+
+If your office does not have a signed MOU with 18F, work cannot be completed by 18F staff. These requests will be routed through 18F's Business Development process.
