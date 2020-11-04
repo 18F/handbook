@@ -44,3 +44,10 @@ Links to websites we use regularly.
 - [OpsGenie](https://app.opsgenie.com/alert)
 - [MxToolbox](https://mxtoolbox.com/SuperTool.aspx)
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) (Qualys)
+
+### Useful Accessibility Extensions to Install
+
+- [WAVE Toolbar](https://wave.webaim.org/) - FF & Chrome
+- [Accessibility Insights](https://accessibilityinsights.io/) - Edge & Chrome
+- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Chrome
+- [Accessible Color Picker](https://chrome.google.com/webstore/detail/accessible-color-picker/bgfhbflmeekopanooidljpnmnljdihld) - Chrome
