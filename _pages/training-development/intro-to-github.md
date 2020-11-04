@@ -4,9 +4,15 @@ tags:
   - github
 ---
 
-_This section provides a brief overview of GitHub._
+_This section provides a brief overview of GitHub. There are different sections provided for different functions in Github. Use the sections that are relevant to the work you will be doing._
 
-### Documentation
+## Github 
+
+[GitHub](https://github.com) is a publicly accessible place to share and collaborate on (primarily) open source software projects. GitHub interacts with a program on your computer called Git that tracks every change ever made in a software project.
+
+You've probably already noticed there's a lot happening on GitHub at TTS. That's because it's so useful! In fact, it's very likely you'll interact with GitHub in _some_ way, even if you're not writing code. The remainder of this post will help you familiarize yourself with Github, get squared away with creating your GitHub account, setting up some basic stuff, and will show you some of the ways you might use GitHub, even if it's not committing code.
+
+### Introduction
 
 - [GitHub]({{site.baseurl}}/github/) - A detailed guide on how we use GitHub at TTS.
 
@@ -14,21 +20,19 @@ _This section provides a brief overview of GitHub._
 
 - [How to use GitHub, the terminal, and the 18F site](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) - This tutorial from Melody Kramer and Greg Boone walks you through using GitHub to contribute to our blog. It's intended for beginners, but includes tips for intermediate GitHub users, too.
 
-## GitHub
+- [“Git what?” Extolling Github’s virtues to non-coders](https://medium.com/nyc-planning-digital/git-what-extolling-githubs-virtues-to-non-coders-6cc11f1a5fd2) - In this article, learn from a high level view how Github works. It’s a great article for those of you worried about how complicated Github can be and explains what it’s like for non-coders.
 
-[GitHub](https://github.com) is a publicly accessible place to share and collaborate on (primarily) open source software projects. GitHub interacts with a program on your computer called Git that tracks every change ever made in a software project.
+- [Github for Non-Coders](https://brennan.io/2015/08/07/github-noncoders/) - This blog branches off from the previous article. It goes into more detail about how Github can be used by non-coders. Share this with any team members who are hesitant about how Github can be used by  them.
 
-You've probably already noticed there's a lot happening on GitHub at TTS. That's because it's so useful! In fact, it's very likely you'll interact with GitHub in _some_ way, even if you're not writing code. The remainder of this post will help you get squared away with creating your GitHub account, setting up some basic stuff, and will show you some of the ways you might use GitHub, even if it's not committing code.
+### Set up your account
 
-### 1. Set up your account
+Follow the instructions [here]({{site.baseurl}}/github/)
 
-Follow the instructions [here]({{site.baseurl}}/github/).
+### Basics
 
-### 2. Basics
+The following resources will help you with learning Github. They are organized by different categories. Read the ones that will be most useful to you.
 
-If you're a developer, you might have very strong feelings about The Right Way to Use Git, but TTS doesn't (yet) have One Way of Using Git, so ask your teammates how they work with GitHub.
-
-If you're not a developer or came from a place that didn't use Git, here are some GitHub-related terms you should be familiar with:
+### 1. Repository Basics
 
 - **Repo** is short for repository, or a project on GitHub. Anybody at TTS can create repos in the 18F organization and you should _always_ create new projects as 18F, not as yourself. You can create new repos in GitHub by clicking the + next to your profile picture. Then, choose New Repository and change the owner to 18F.
 
@@ -36,15 +40,43 @@ If you're not a developer or came from a place that didn't use Git, here are som
 
 Once you're a member of the 18F organization, you'll have access to many of our repos. You'll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
 
+Repositories are where everything is stored in Github. Understanding what a repository is will help you understand where your information is stored in Github and who can access it. [Github Docs - About reopsitories](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-repositories) starts you out on understanding repositories.
+
+### 2. Project Management
+
+Developer, designer, editor, manager: Whatever your role is, you’ll want to get used to filing issues on GitHub. Issues are a common way of submitting feedback on projects at 18F. For example, if you want to write a blog post, you’ll be asked to submit an issue to the blog repo. If filing an issue seems more difficult for some reason, head to Slack. Or vice versa.
+
+Github can be used for project management purposes. Each issue created will show up on the project board and can be managed by the team. [Github Docs - About project boards](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards) explains how to set up a project board using a Kanban template in Github. 
+
+If you’re trying to learn how to become an expert in issues, this article, [Mastering Issues](https://guides.github.com/features/issues/), is a great place to start. It’s a short read with all of the basics about issues.
+
+### 3. Web-based Editing
+
+[Digital.gov: An Introduction to Github](https://digital.gov/resources/an-introduction-github/) is a video that includes a lot of the Github basics you could want. It’s about a 30 minute video that shows you how to manage and publish website content. 
+
+Pull requests are important for editing content and making changes in Github. [Github Docs - About pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) explains what a pull request is and how it works. Make sure you are making a pull request from a [branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch) and not directly in Master. 
+
+[Introduction to GitHub for Newcomers](https://www.youtube.com/watch?v=uNa9GOtM6NE) is a longer video that will teach you how to file issues and issue pull requests.
+
+A fork is a copy of the main project that is fully separate from 18F’s. You might be asked to fork a repo and work off your own copy, or you might be asked to commit directly to your team’s original repo. This is the kind of thing you should ask your teammates about — don’t make assumptions!
+
+There are a few exceptions to this, but generally speaking, you will submit any changes to a project through a pull request. A pull request, or PR, is a way of saying “here are some changes I’d like to contribute “ and letting the repo’s owner decide whether to accept (or merge) them or give feedback. Sometimes your pull request will go from your fork to the main project, sometimes from a branch. Again, make sure you understand your team’s Git workflow. On #18f-site, nobody forks and everybody works off of branches; we submit pull requests to the staging branch.
+
+A few clarifying definitions:
+
 - A **fork** is a copy of the main project that is fully separate from 18F's. You might be asked to fork a repo and work off your own copy, or you might be asked to commit directly to your team's original repo. This is the kind of thing you should ask your teammates about — don't make assumptions!
 
 - There are a few exceptions to this, but generally speaking, you will submit any changes to a project through a pull request. A **pull request,** or **PR,** is a way of saying "here are some changes I'd like to contribute " and letting the repo's owner decide whether to accept (or merge) them or give feedback. Sometimes your pull request will go from your fork to the main project, sometimes from a _branch._ Again, make sure you understand your team's Git workflow. On [#18f-site](), nobody forks and everybody works off of branches; we submit pull requests to the staging branch.
 
-- Developer, designer, editor, manager: Whatever your role is, you'll want to get used to **filing issues on GitHub.** Issues are a common way of submitting feedback on projects at 18F. For example, if you want to write a blog post, you'll be asked to submit an issue to the blog repo. If filing an issue seems more difficult for some reason, head to Slack. Or vice versa.
+### 4. Mastering Markdown
 
-- You may find it helpful to bookmark the repos, issues, and pull request pages you access frequently.
+Markdown is how you will format and edit content in Github. [Github Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/) will teach you the basics of markdown. Look for the eye icon and text that says “Preview changes” and you’ll be able to see what the markdown will look like once it is displayed. If you notice that your text is not converting to the styles, go back to the file and make sure it ends with the .md file extension. 
 
-### 3. Working with GitHub
+### 5. Practice in Github
+
+When you’re ready to start practicing with Github, the [TTS Handbook repository](https://github.com/18F/handbook) is a good place to start. If you see something in the handbook that is out of date or there is at typo that needs to be fixed, you can create a pull request and make the changes. At least one review is required for it to be merged into the handbook, so someone will check your work. If you need help, you can ask in the #tts-handbook Slack channel.
+
+### 6. Working with GitHub
 
 If you're working with an agency, you'll need to find ways to collaborate with them on the project you're tasked with. Typically, the way we give outside agencies and contractors access to GitHub repos is by making those repositories public. Once they're public, anybody can access them; we just need to add people as a collaborators. [#admins-github](https://gsa-tts.slack.com/archives/admins-github) can help you with that.
 
@@ -60,9 +92,9 @@ To submit an issue, Log in, find the appropriate repo on GitHub, and click the I
 
 Final pro tip: If your project wants issues formatted in a specific way, you can add an issue template file. [This is the one we have for filing new blog post ideas](https://github.com/18F/blog-drafts/blob/master/ISSUE_TEMPLATE.md). Every new post auto-fills with that information.
 
-### 4. Transferring a repository
+### 7. Transferring a repository
 
-Often during the course of working with and transitioning projects to partners, an `18F`-owned Github repository will need to be transferred to the ownership of the partner. A "Transfer" is the recommended approach since it will include Issues, Pull Requests, and other Github metadata and history that won't be captured by just cloning the `git` respository which only contains the code.
+Often during the course of working with and transitioning projects to partners, an `18F`-owned Github repository will need to be transferred to the ownership of the partner. A "Transfer" is the recommended approach since it will include Issues, Pull Requests, and other Github metadata and history that won't be captured by just cloning the `git` repository which only contains the code.
 
 #### Transferring to another organization on Github.com
 
