@@ -2,7 +2,7 @@
 
 ## Diversity
 
-Diversity describes the range of differences within a group with regard to social identity, such as race, gender identity, age, religion, sexual orientation, class, physical ability, and nation of origin. Diversity isn't limited to legally protected classes: other characteristics such as personality and political affiliation also contribute to the variety of our working styles, experiences, and types of privileged status. It's important to note that diversity isn't a synonym for "otherness" (see the section on inclusion), so we only use it to describe groups of people, not individuals.
+Diversity describes the range of differences within a group with regard to social identity, such as race, gender identity, age, religion, sexual orientation, class, ability, and nation of origin. Diversity isn't limited to legally protected classes: other characteristics such as personality and political affiliation also contribute to the variety of our working styles, experiences, and types of privileged status. It's important to note that diversity isn't a synonym for "otherness" (see the section on inclusion), so we only use it to describe groups of people, not individuals.
 
 ### What we're doing to support diversity
 
