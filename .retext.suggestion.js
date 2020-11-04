@@ -23,8 +23,9 @@ function attacher() {
       .use(contractions, { straight: true })
       .use(readability, {
         age: 18,
-        minWords: 7,
+        minWords: 15,
         severity: "fatal",
+        threshold: 5 / 7,
       })
       .use(equality, { ignore: ignoreWords || [] })
       .use(diff)

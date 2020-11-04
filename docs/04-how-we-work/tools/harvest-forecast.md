@@ -8,4 +8,4 @@ We use [Harvest Forecast](https://forecastapp.com/615047/schedule/projects) for 
 
 We discourage any employee from entering scheduled time off in Forecast without first confirming it with their delivery manager and PM. After time off is approved, employees are welcome to update their own Forecast schedules.
 
-Questions about time off may be answered [here](../../03-policies/benefits-and-holidays.md#time-off).
+Questions about time off may be answered [here](../../03-policies/benefits-and-holidays.md).

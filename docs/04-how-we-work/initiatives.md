@@ -28,7 +28,7 @@ If you have begun an initiative, you should create a card for it so others in th
 
 ### Anyone at CivicActions
 
-If you hear about an initiative at CivicActions, and you notice it is missing from this board, then please draft a stub card. You can create the the skeleton card, and then ask someone else to own filling out more details. If you're not sure who owns the initiative, just ping the stub card to the person you heard about the initiative from and ask them if they can support filling out the card.
+If you hear about an initiative at CivicActions, and you notice it is missing from this board, then please draft a stub card. You can create the skeleton card, and then ask someone else to own filling out more details. If you're not sure who owns the initiative, just ping the stub card to the person you heard about the initiative from and ask them if they can support filling out the card.
 
 ## How often is the Trello board updated?
 

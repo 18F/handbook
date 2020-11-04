@@ -81,9 +81,9 @@
 
 ### Time Off and Scheduling
 
-- Review vacation time / requests [policies](../../03-policies/benefits-and-holidays.md#time-off)
+- Review vacation time / requests [policies](../../03-policies/benefits-and-holidays.md)
 - Do you have any pre-approved time off requests?
-- The [formal request off procedure](../../03-policies/benefits-and-holidays.md#time-off)
+- The [formal request off procedure](../../03-policies/benefits-and-holidays.md#notice-scheduling-and-approval-of-time-off)
 - We use [Harvest Forecast](../../04-how-we-work/tools/harvest-forecast.md) for keeping track of team member availability and projects.
 - Review [CivicActions holiday schedule](../../03-policies/benefits-and-holidays.md#holidays)
 - Review [professional development](../../03-policies/prodev.md) & [community participation](../../03-policies/community-participation.md)
