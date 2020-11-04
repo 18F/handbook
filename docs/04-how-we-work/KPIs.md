@@ -2,13 +2,6 @@
 
 CivicActions tracks and reports on company Key Performance Indicators (KPIs) monthly. These KPIs are presented to the whole company at the monthly All Hands Calls (AHC).
 
-## How to read this chart
-
-- The first column is the KPI and the second column is the target
-- A green cell indicates the highest level of KPI health and aligns with the target
-- A yellow cell indicates a KPI that is trending towards or away from healthiest
-- A red cell indicates the KPI is below the desired health standard
-
 ## Definition of terms
 
 - **Key Performance Indicator (KPI):** A numerical and measurable signal that demonstrates the health of the organization and how effective we are at achieving key business objectives.
@@ -19,8 +12,15 @@ CivicActions tracks and reports on company Key Performance Indicators (KPIs) mon
 - **Utilization Percent (Delivery):** The target percentage of the delivery team’s average billable time is 80% utilization (this is also an industry standard). The data for this KPI is collected from Harvest, but is filtered by only the delivery team members. The delivery team members utilization is averaged to compare to the 80% target. It is expected that some delivery team groups will be higher and some will be lower, with the anticipated goal that it evens out to the target. Also, certain individuals in the delivery team may have higher and lower targets due to other objectives they may have, or other roles they play in the company.
 - **Utilization Percent (Company-wide):** The target percentage of the whole company’s time that should be billable is 60% utilization. This is also an industry standard number. The data for this KPI is collected from Harvest, and includes all team members (billable and non-billable). The delivery team and non-billable team members utilization is averaged to compare to the 60% target. The target is industry standard.
 - **Overall Health Score:** Each month after the six KPIs are calculated, the CEO indicates an overall health score of red, yellow, green for the month.
-- **Profit and Loss (P&L):** A financial statement that summarizes the revenues, costs, and expenses incurred during a specified period
+- **Profit and Loss (P&L):** A financial statement that summarizes the revenues, costs, and expenses incurred during a specified period.
 
 ## How the KPI data may be used
 
 The monthly KPIs provide high level health indicators, and could raise a red flag or help understand that things are stable. These temperature checks with the data may trigger conversations to help determine what might need to be shifted. These KPIs are also used in conversations throughout company service areas as a basis for business plans (to know if the managing that part of the business is doing well).
+
+## How to read the data
+
+- All KPIs will have a target value
+- Green indicates the highest level of KPI health and aligns with the target
+- Yellow indicates a KPI that is trending towards or away from healthiest
+- Red indicates the KPI is below the desired health standard
