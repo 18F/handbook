@@ -125,7 +125,7 @@ Every project and team has a different mix of project management tools based on 
 #### Word processing
 
 - **Google Drive / Docs / Slides:** This is our primary tool for documents of various sorts.
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions]({{site.baseurl}}/office/) to get a license if your project work requires it.
+- [**Microsoft Office**]({{site.baseurl}}/office/)
 
 ### Assets
 
