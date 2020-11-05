@@ -47,11 +47,4 @@ Weekly pod calls help us stay in touch and in tune with each other. These are lo
 
 ## Practice Area Meetings
 
-These meetings happen at regular interval and you will be invited to attend the ones that are most appropriate for your practice area.
-
-- Engineering
-- Project Management
-- DevOps
-- User Experience
-- Diversity, Equity, and Inclusion
-- Hiring
+These meetings happen at regular interval and you will be invited to attend the ones that are most appropriate for your practice area. For details, see the CivicActions Primary Google Calendar and the [practice area page](../../04-how-we-work/practice-areas/README.md).
