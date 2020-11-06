@@ -6,6 +6,8 @@ tags:
   - Performance review
   - review
   - mid year
+redirect_from:
+  - /mid-year/
 questions:
   - people-ops
 ---
@@ -14,16 +16,7 @@ This page contains important dates, links, and information for the mid year perf
 
 ## Mid year performance review important dates
 
-Date | Item
--------|-------
-October 1, 2019 | FY2020 performance cycle begins
-March 27, 2020 | Complete Draft of BU Level Specific Measures & Expectation Levels
-April 3, 2020 | Complete Draft of Duty Specific Measures & Expectation Levels
-April 10, 2020 | Finalize BU & Duty Specific Measures & Expectation Levels
-April 27, 2020 | OHRM Guidance on FY2020 Mid-year Review emailed to Supervisors and Employees
-April 30, 2020 | Finish updating Performance Plans in HR Links
-May 18, 2020 | Supervisor shares Midyear evaluation for employee review and acknowledgement
-June 1, 2020 | Mid-year Due Date FY2020. Supervisors and employees complete midyear in HRLINKs.  Employees Acknowledge or Supervisor overrides.
+See [dates](../dates/#mid-year-performance-review-important-dates).
 
 ## Mid year performance review quick links
 
