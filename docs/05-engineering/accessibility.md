@@ -30,7 +30,7 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 
 ## Making Accessible Links
 
-- Don't use the word "link" in your links or the term "click here".
+- Links should be meaningful on their own. Don't use words like: "link", "click here" or "read more".
 - Don't capitalize links: Some screen readers read capitalized text letter by letter.
 - Avoid ASCII characters. Text alternatives are recommended for ASCII smiley faces. If a link involves dashes (17 - 18 years), it is better to replace the hyphen with "to". Screen-readers do not read ASCII characters.
 - Avoid using URLs as link text. Screen readers read URLs letter by letter. Use descriptive link text.
