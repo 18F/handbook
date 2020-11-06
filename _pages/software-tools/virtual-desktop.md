@@ -43,7 +43,9 @@ See the [InSite page](https://insite.gsa.gov/employee-resources/information-tech
 
 ## Software
 
-Citrix is the easiest way to use software that's available for Windows but not Mac. If the software you need isn't already pre-installed, you can request installation by [opening a Software request with the GSA IT Service Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b). Make sure to note that you are requesting installation in VDI, not your laptop.
+Citrix is the easiest way to use software that's available for Windows but not Mac. If the software you need isn't already pre-installed, you can request installation by [opening a Software request with the GSA IT Service Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b).
+
+On that form, the answer for "Where is the Software going to be installed?" is `VDI`, even though you might think Citrix would be correct. The answer for "Enter VDI or Citrix here" is `Standard Desktop`.
 
 ## Tips
 
