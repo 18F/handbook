@@ -32,7 +32,7 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 
 - Links should be meaningful on their own. Don't use words like: "link", "click here" or "read more".
 - Don't capitalize links: Some screen readers read capitalized text letter by letter.
-- Avoid ASCII characters. Text alternatives are recommended for ASCII smiley faces. If a link involves dashes (17 - 18 years), it is better to replace the hyphen with "to". Screen-readers do not read ASCII characters.
+- Avoid ASCII characters. Text alternatives are recommended for ASCII smiley faces. If a link involves dashes (17 - 18 years), it is better to replace the hyphen with "to". Screen-readers do not read all ASCII characters.
 - Avoid using URLs as link text. Screen readers read URLs letter by letter. Use descriptive link text.
 - Keep link text concise.
 - Generally, restrict the number of text links on a page. An exception to this rule is pagination/alphabetized links and these should include further contextual information/link text.
