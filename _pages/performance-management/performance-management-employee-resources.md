@@ -7,8 +7,6 @@ tags:
   - Performance review
   - review
   - employee resources
-redirect_from:
-  - /performance-management-employee-resources/
 questions:
   - people-ops
 ---

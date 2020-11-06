@@ -6,8 +6,6 @@ tags:
   - Performance management
   - Performance review
   - review
-redirect_from:
-  - /performance-management-dates/
 questions:
   - people-ops
 ---

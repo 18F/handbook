@@ -8,8 +8,6 @@ tags:
   - review
   - HR links
   - HRLinks steps
-redirect_from:
-  - /mid-year-hrlinks-steps/
 questions:
   - people-ops
 ---
@@ -48,7 +46,7 @@ A supervisor can acknowledge an employee performance plan on behalf of their emp
 
 ## Re-opening a performance plan
 
-If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management/end-of-year/hrlinks-steps/#submitting-a-performance-plan-for-employee-approval).
+If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-a-performance-plan-for-employee-approval).
 
 ***NOTE: 120 days must pass from the date the employee acknowledges the updated plan before they can be rated against it.  Please refer to the ["Who can participate in end of year performance reviews?"]({{site.baseurl}}/performance-management/#who-participates-in-the-end-of-year-performance-review) section for more information.***
 

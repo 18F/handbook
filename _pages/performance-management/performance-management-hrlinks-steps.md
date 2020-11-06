@@ -8,8 +8,6 @@ tags:
   - review
   - HR links
   - HRLinks steps
-redirect_from:
-  - /performance-management-hrlinks-steps/
 questions:
   - people-ops
 ---
@@ -68,7 +66,7 @@ After copying (cloning) a prior year performance plan, updates to the critical e
 
 ## Re-opening a performance plan
 
-If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management/end-of-year/hrlinks-steps/#submitting-a-performance-plan-for-employee-approval).
+If modifications need to be made to an existing performance plan, a plan can be re-opened by the Supervisor and [resubmitted to the employee to acknowledge]({{site.baseurl}}/performance-management-hrlinks-steps/#submitting-a-performance-plan-for-employee-approval).
 
 ***NOTE: 120 days must pass from the date the employee acknowledges the updated plan before they can be rated against it.***
 

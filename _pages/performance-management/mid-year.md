@@ -6,8 +6,6 @@ tags:
   - Performance review
   - review
   - mid year
-redirect_from:
-  - /mid-year/
 questions:
   - people-ops
 ---
@@ -16,7 +14,7 @@ This page contains important dates, links, and information for the mid year perf
 
 ## Mid year performance review important dates
 
-See [dates](../dates/#mid-year-performance-review-important-dates).
+See [dates]({{site.baseurl}}/performance-management-dates/).
 
 ## Mid year performance review quick links
 
