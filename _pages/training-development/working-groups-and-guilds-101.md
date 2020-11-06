@@ -155,7 +155,7 @@ Remember, you're asking for a substantial commitment of organizational resources
         </td>
         <td>
           Ryan Ahearn - 18F<br>
-          Mossadeq Zia - SOL
+          Peter Burkholder - SOL
         </td>
       </tr>
     </tbody>
