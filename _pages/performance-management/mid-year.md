@@ -6,6 +6,8 @@ tags:
   - Performance review
   - review
   - mid year
+redirect_from:
+  - /performance-management/mid-year/
 questions:
   - people-ops
 ---

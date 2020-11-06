@@ -8,6 +8,8 @@ tags:
   - review
   - HR links
   - HRLinks steps
+redirect_from:
+  - /performance-management/mid-year/hrlinks-steps/
 questions:
   - people-ops
 ---

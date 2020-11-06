@@ -7,6 +7,8 @@ tags:
   - Performance review
   - review
   - supervisor resources
+redirect_from:
+  - /performance-management/supervisor-resources/
 questions:
   - people-ops
 ---
