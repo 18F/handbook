@@ -19,10 +19,9 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 
 ## General Accessibility Guidelines
 
-- Form elements should have labels.
+- Form elements are built with meaningful labels and form buttons include descriptive values.
 - Images should have meaningful alternative text (alt tag) by default. We recommend making alt tags manditory for content editors.
 - Decorative images or images with no content use should either have a null alt tag (alt="") or rendered as CSS background images.
-- Form buttons should have descriptive values.
 - Color should not be used as the sole method of conveying content or distinguishing visual elements.
 - Color alone is not used to distinguish links from surrounding text unless the luminance contrast between the link and the surrounding text is at least 3:1 and an additional differentiation (e.g., it becomes underlined) is provided when the link is hovered over or receives focus.
 - The page should be readable and functional when the text size is doubled. We need to use rem font-sizing to make the text scales as expected when the web-page is zoomed-in. Also provides reliable text-resizing in smaller browser widths.
