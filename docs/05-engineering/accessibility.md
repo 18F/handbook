@@ -13,7 +13,7 @@ We implement 508 and WCAG compliant websites so that people with all types of di
 
 ## When we do this
 
-- We always produce work that is accessible to people of all abilities, regardless of client. However, we recognize that the level of accessibility compliance and prioritization can be influenced by budgetary and contractual implications.
+- We strive to produce work that is accessible to people of all abilities, regardless of client. However, we recognize that the level of accessibility compliance and prioritization can be influenced by budgetary and contractual implications.
 - We aim to do accessibility work continuously, as part of our agile process. Accessibility scans should be performed on a per-ticket basis and signed off on before work is considered complete.
 - Accessibility should NOT BE left until the end of a project.
 
