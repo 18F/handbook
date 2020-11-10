@@ -2,7 +2,7 @@
 title: TTS mission, history, and values
 ---
 
-Our mission is to improve the lives of the public and public servants by transforming how government uses technology.
+Our mission is to design and deliver a digital government with and for the American public.
 
 ## Our history
 
