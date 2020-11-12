@@ -49,6 +49,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [CoE Acting Director Detail](https://docs.google.com/document/d/1TgQvlVpVRex1KxE4tc3msZiCAWDuWsV4NTDYqe2s5Cc/edit?ts=5fad42cd#) - open Thursday, November 12th through Thursday, November 19th
 
+- [Solutions: Innovation Portfolio Director Detail](https://docs.google.com/document/d/1sCdDKAWr45SpYMmhXpYjK2JVyXi-piUWVi0FxVrF8CI/edit) - open Thursday, November 12th through Wednesday, November 18th
+
 
 ## Opportunities with partners
 
