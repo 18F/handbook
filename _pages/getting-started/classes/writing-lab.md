@@ -44,9 +44,7 @@ The Writing Lab is designed for short engagements. If you need more than 10 hour
 
 ### How do I ask for help?
 
-Standard practice is to file an issue in our [GitHub repo](https://github.com/18F/writing-lab). If you don’t feel comfortable filing an issue, reach out to us on our Slack channel, [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab). Provide us with the basic details of your project and we’ll create an issue for you (and tag you in it). Lab members will reach out to schedule a 15-30 minute consult with you and make edits and specific comments in Google Docs. They may also discuss larger questions in comments on the GitHub issue. Whenever possible, Lab members try to pick up and close issues within a week.
-
-This is a lot to digest, so we’ve created this [Writing Lab One Sheet](https://docs.google.com/document/d/1pyP501N6L-mJStTUIhsZ9UQoxy7quzoKND9iibS51ls/edit) for you to keep.
+If your request is billable, you can post your request in [#microrequests](https://app.slack.com/client/T025AQGAN/CNFHBCXDW). If you do not have a budget for this work, please post in [#helpwanted](https://app.slack.com/client/T025AQGAN/C018QJ2L44X). If you are not sure, you can post in #microrequests and someone will point you in the  right direction. 
 
 ### What should I do if my issue isn't picked up?
 
