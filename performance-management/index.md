@@ -47,8 +47,8 @@ TTS employees who have established a performance plan **before July 17** are eli
 
 Depending on your overall performance rating, you may be eligible for an Individual Performance Award (IPA). The projected IPA distribution is as follows: 
   * **Level 5 summary ratings**: Up to **3.85%** of adjusted basic pay, or up to **80** hours of time off, subject to budget availability.
-  * **Level 4 summary ratings**: Up to **2.1%** of adjusted basic pay, or up to 44 hours of time off subject to budget availability.
-  * **"High 3" summary ratings**: Up to **0.385%** of adjusted basic pay, or up to 8 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5. 
+  * **Level 4 summary ratings**: Up to **2.1%** of adjusted basic pay, or up to **44** hours of time off subject to budget availability.
+  * **"High 3" summary ratings**: Up to **0.385%** of adjusted basic pay, or up to **8** hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5. 
   
 The final award percentages for Level 5, Level 4 and Level 3 summary ratings will be determined when all performance reviews are complete. In the event the above targets for the Level 3, Level 4 and Level 5 summary ratings cannot be met due to budget constraints, the percentage payouts for awards will be decreased proportionally.
 
@@ -58,7 +58,7 @@ If you are elegible for a performance award and would like to select award time 
 
 For the monetary award, no action is needed in HR Links **unless you specified award time off for the prior review cycle**.
   
-### Training
+## Training
 
 * Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:
     * Performance Management Overview – Refresher and introduction of the performance management program.
