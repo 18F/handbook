@@ -45,7 +45,18 @@ TTS employees who have established a performance plan **before July 17** are eli
 
 ### Who is eligible for the end of year performance bonus?
 
-Information will be updated pending guidance from GSA.
+Depending on your overall performance rating, you may be eligible for an Individual Performance Award (IPA). The projected IPA distribution is as follows: 
+  * **Level 5 summary ratings**: Up to **3.85%** of adjusted basic pay, or up to **80** hours of time off, subject to budget availability.
+  * **Level 4 summary ratings**: Up to **2.1%** of adjusted basic pay, or up to 44 hours of time off subject to budget availability.
+  * **"High 3" summary ratings**: Up to **0.385%** of adjusted basic pay, or up to 8 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5. 
+  
+The final award percentages for Level 5, Level 4 and Level 3 summary ratings will be determined when all performance reviews are complete. In the event the above targets for the Level 3, Level 4 and Level 5 summary ratings cannot be met due to budget constraints, the percentage payouts for awards will be decreased proportionally.
+
+### Selecting award preference in HR Links
+
+If you are elegible for a performance award and would like to select award time off in lieu of a monetary award, please follow [these instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf).  
+
+For the monetary award, no action is needed in HR Links **unless you specified award time off for the prior review cycle**.
   
 ### Training
 
