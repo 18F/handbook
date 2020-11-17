@@ -51,7 +51,7 @@ See the [Equipment page]({{site.baseurl}}/equipment/#phone) for more about how t
 
 To get a one time password (OTP, required for logging in to some systems), you can either:
 
-- Setup a [SecureAuth Authenticate](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/secureauth).
+- Setup a [SecureAuth OTP Application](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/secureauth).
 - Visit [otp.gsa.gov](https://otp.gsa.gov).
 
 ### Listen to and participate in the weekly Tuesday all-hands meeting?
