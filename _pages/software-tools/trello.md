@@ -22,6 +22,7 @@ There is no TTS-wide access to paid Trello features or add-on services yet. If y
 
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
 - Only use [approved Power-Ups](#power-ups)
+- Create boards under GSA-managed Teams, not under your individual account
 
 ## Usage
 
