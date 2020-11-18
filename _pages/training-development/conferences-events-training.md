@@ -37,7 +37,7 @@ Any media requests (like news or podcast interviews) are a separate process — 
 
 If the event that you're attending is being hosted virtually, please review the [TTS Virtual Events guidance](https://docs.google.com/document/d/1YrDs9PA8HkfLkhSfOfyJnLjAYcTkV6_vHlU7HBoyi0k/edit#heading=h.d6kk6wkyrvzf) for important considerations and tips.
 
-***NOTE: If you are attending a free virtual event and will NOT be speaking, you do not need to fill out the Event Request Google Form above.  Please just discuss in advance with your Supervisor if you will be attending during work hours.***  
+***NOTE: If you are attending a free virtual event and will NOT be speaking, you do not need to fill out the Event Request Google Form above.  Please just discuss in advance with your Supervisor if you will be attending during work hours.***
 
 ## Approval timelines
 
@@ -74,7 +74,7 @@ The automated email that you will receive outlines the step(s) below that you wi
 - Once you have generated an SF-182, you will select approvers based on the email instructions that you've sent.  
     - Most trainings require **supervisor**, then **Keith Wilson** as Approver 1, then your **business unit lead** as Approver 2, and then your TTS Assistant Commissioner, **Dominic Sale** or **Harry Lee**, as Approver 4.
     - Most events require **supervisor**, then **Keith Wilson** as Approver 1.
-- You will add **Matthew Ryan** as your purchase card holder, then hit the 'submit for approval' button which is located at the bottom of the screen of the SF-182 form.
+- You will add **Djemila McCray** as your purchase card holder, then hit the 'submit for approval' button which is located at the bottom of the screen of the SF-182 form.
 
 The SF-182 must be fully approved before any final actions such as paying for registration or approval of travel in Concur can be taken. Once your SF-182 has been fully approved, download a PDF copy and send it to [tts-events@gsa.gov](mailto:tts-events@gsa.gov). Ensure your SF-182 is completed and sent over at least two business days before your registration would need to be completed to give the purchasing team sufficient time to process.
 
