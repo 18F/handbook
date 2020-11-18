@@ -8,19 +8,13 @@ questions:
 
 ## Setup
 
-### Account creation
+To get access to [the TTS Trello Team](https://trello.com/18f3/):
 
-[Trello](https://trello.com) accounts support multiple email addresses, so you can use an existing account (if you have one) by adding your GSA email address.
+1. Ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite me to https://trello.com/18f3/members."
+1. You will get an invite to your GSA email address.
+1. [Set up two-factor authentication](https://trello.com/2fa)
 
-If you **do not have an existing Trello account**, go to [Trello](https://trello.com), click the green "Sign Up" button, and create a Trello account by signing up with your GSA Google account.
-
-Because [Trello](https://trello.com) is a web application, there's no installation necessary. You will just need to sign in or set up an account.
-
-Make sure to [set up two-factor authentication](https://trello.com/2fa).
-
-### Requesting access
-
-To get access to the TTS Trello team, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite my Trello account [YOUR USERNAME] to Trello at https://trello.com/18f3/members." _NOTE: If you don't have a Trello account, feel free to ask us to invite your GSA e-mail address to create one._
+There are some other Trello Teams in TTS; speak with your office to find out if there's one you should be added to.
 
 There is no TTS-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
 
