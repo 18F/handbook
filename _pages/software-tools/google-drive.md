@@ -14,7 +14,7 @@ Google Drive is a cloud storage and file backup system. We use Google Drive to k
 
 * Everything in Google Drive can be FOIA’ed.
 * You can share files with the entire TTS team by adding <mailto:tts@gsa.gov>, <mailto:opp-team@gsa.gov>, or <mailto:18f-team@gsa.gov> in the Share menu.
-* You can share files with any GSA employee — but don't default to sharing with _all_ of GSA. GSA will change your permissions if they are too open, and files that contain sensitive information will also be blocked via Cloudlock.
+* You can share files with any GSA employee — but don't default to sharing with _all_ of GSA. GSA will change your permissions if they are too open, and files that contain sensitive information will also be blocked via [Cloudlock](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/cloudlock).
 * Disable the notification email if you don’t wish to bring it to the team’s attention right away.
 * You can create and share whole folders; new files in a folder auto-inherit the sharing settings.
 * Most business units have a team folder in Drive to faciliate collaboration.

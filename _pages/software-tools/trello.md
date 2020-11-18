@@ -20,13 +20,14 @@ Make sure to [set up two-factor authentication](https://trello.com/2fa).
 
 ### Requesting access
 
-To get access to the TTS Trello team, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite my Trello account "YOUR_USERNAME" to Trello at https://trello.com/18f3/members." **_NOTE: If you don't have a Trello account, feel free to ask us to invite your GSA e-mail address to create one._**
+To get access to the TTS Trello team, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite my Trello account [YOUR USERNAME] to Trello at https://trello.com/18f3/members." _NOTE: If you don't have a Trello account, feel free to ask us to invite your GSA e-mail address to create one._
 
 There is no TTS-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
 
 ## Rules
 
-**Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
+- **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
+- Only use [approved Power-Ups](#power-ups)
 
 ## Usage
 
@@ -42,12 +43,21 @@ People use Trello to track ideas from conception through execution. It's common 
 
 - Doing prioritization within a labeled set of cards (an epic)? Use the filter (keyboard shortcut 'F') to show just that label, then sort cards, then turn the filter back off.
 
-- Are there GitHub issues or pull-requests associated with the work you're doing for certain cards? Check out the [GitHub power-up](https://blog.trello.com/github-and-trello-integrate-your-commits/) in Trello's (paid) Business Class plan. It allows you to "attach" Issues, PRs, and Commits to a card. Summarized details from the GitHub side will be surfaced on the Trello card. (Sadly, there is no way to map GitHub issues and status directly to Trello cards and vice-versa.
-
 - Looking for feedback on card priority? [Turn on the card-voting power-up](https://help.trello.com/article/788-voting-on-cards) and set the voting permissions appropriately (eg to allow non-members to vote on a public-facing roadmap board). Note that there's no easy way to clear votes, so only use this for collecting long-lived data, eg votes on items in your backlog. Also sadly, there's no way to sort by votes; you have to do that by hand.
 
 - Want to create a bunch of similar cards easily? Make one "template" card and label it clearly. When you want to make a new one, copy that card to the appropriate location. Want to do it quickly? See the "Shortcuts for Trello" Chrome extensions tip below.
 
-### Chrome extensions
+## Power-Ups
+
+The [Power-Ups](https://trello.com/power-ups) approved for use are:
+
+- [Card Aging](https://trello.com/power-ups/55a5d917446f517774210012/card-aging)
+- [GitHub](https://trello.com/power-ups/55a5d916446f517774210004)
+
+[Contact the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions) to have others reviewed.
+
+If you get a `Manually Banned Apps Policy` email from [Cloudlock](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/cloudlock), it's likely because you signed into Trello with Google (via OAuth), and one of the Trello Teams you're part of has the [Google Drive Power-Up](https://trello.com/power-ups/55a5d916446f517774210006) enabled. That Power-Up should be removed, but this warning can otherwise be ignored.
+
+## Chrome extensions
 
 See [general info]({{site.baseurl}}/software/#other-lists-and-approval-processes).
