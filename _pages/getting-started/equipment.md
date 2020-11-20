@@ -33,20 +33,6 @@ You can [request a loaner PC through the IT Service Desk](https://gsa.servicenow
 
 ### Admin rights
 
-People doing technical work often have a need to install software dependencies and utilities like command line tools. These vary greatly from task to task and developer to developer and change frequently, and thus it is not realistic to have them packaged by GSA IT for installation. Similarly, there are occasions where a developer may need to make modifications to their operating system that require `sudo`, such as modifying the `/etc/hosts` file. For these reasons, people doing technical work at GSA have a need for administrative rights.
-
-A user can be granted administrative rights on a GSA-issued Mac if they need to run/edit any custom software locally. This custom software can be web applications, static site generators, scripts, etc. for things like:
-
-- Software development
-- Infrastructure maintenance
-- Prototyping
-- Content auditing
-- Testing
-- Data science
-- etc.
-
-"Engineer" (or similar) being part of their title is not required.
-
 See the [**procedures to request admin rights**](https://docs.google.com/document/d/1xepZsh83lxPDykrb1NXoeHxj8m78qsdW-9KqzO_CHOQ/edit).
 
 ## Phone
