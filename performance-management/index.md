@@ -54,9 +54,10 @@ The final award percentages for Level 5, Level 4 and Level 3 summary ratings wil
 
 ### Selecting award preference in HR Links
 
-If you are elegible for a performance award and would like to select award time off in lieu of a monetary award, please follow [these instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf).  
-
-For the monetary award, no action is needed in HR Links **unless you specified award time off for the prior review cycle**.
+  * **Monetary award:** If you are elegible for a performance award, this is the default option in HR Links. No action is needed in HR Links **unless you specified award time off for the prior review cycle**
+    * To change from **LEAVE** to **CASH**, you need to change your “Time Off Award Preference” to **“Inactive”** and you must then use the **“Save”** button. 
+    * ***Note:*** These [instructions]((https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf) show where to make the change in HR Links, but they are missing the critical "Inactive" and "Save" steps.
+  * **Award leave:** If you are elegible for a performance award and would like to select award time off in lieu of a monetary award, please follow [these instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf).
   
 ## Training
 
