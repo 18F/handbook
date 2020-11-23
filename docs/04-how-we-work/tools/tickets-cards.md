@@ -25,12 +25,14 @@ Description: An epic often starts as the big picture and then the user stories f
 - Notes that explain how/where to start
 - Helps if another engineer has to pick up your ticket
 
-## Acceptance Tests
+## User Acceptance Tests (UAT)
 
 - Explains how we validate that this card works
 - Written in a language anyone can understand
 - Explains what the ticket will not do as well
 - Acceptance Testing is the process that verifies if the installed piece of code or software works as designed for the user
+- Ideally the Product Owner (PO) writes the Acceptance Test for a piece of work
+- Testing with users is an important factor in ensuring the work is performing/created as expected
 
 ## QA Tests
 
