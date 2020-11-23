@@ -71,7 +71,8 @@ Talent will assist with the following:
 Use the following templates to prepare the posting (make sure to make a copy of each template):
 
   - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing)
-  - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
+  - [TTSJobs Direct Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
+  - [TTSJobs Application & Nomination Form Template](https://docs.google.com/forms/d/1C8OVwj-yvuHicDwPbtFTLxPLn8zZA6WK6HC-0uIzHwk/edit)
   - [Template - TTS Interview Guide](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit#heading=h.6jehpcfzn58u)
     - An interview guide for the role being advertised may alredy exist if the role was previously posted externally.  Reach out to jointts@gsa.gov and they can check for you.
 
