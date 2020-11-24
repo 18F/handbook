@@ -7,12 +7,12 @@
 
 # These will automatically assign PRs that touch files in these directories to their respective teams for review.
 docs/00-contributing/* @CivicActions/docs
-docs/01-welcome-to-civicactions/* @CivicActions/civicactions-team
+docs/010-welcome-to-civicactions/* @CivicActions/civicactions-team
 docs/02-about-us/* @CivicActions/civicactions-team
-docs/03-policies/* @CivicActions/management  @CivicActions/docs
-docs/03-policies/security.md @CivicActions/management  @CivicActions/docs @openprivacy
+docs/030-policies/* @CivicActions/management  @CivicActions/docs
+docs/030-policies/security.md @CivicActions/management  @CivicActions/docs @openprivacy
 docs/05-engineering/* @CivicActions/engineering  @CivicActions/docs
 docs/06-project-management/* @CivicActions/pm  @CivicActions/docs
 docs/07-sales-and-marketing/* @CivicActions/civicactions-team  @CivicActions/docs
 docs/08-hr-admin/* @CivicActions/management  @CivicActions/docs
-docs/09-security/* @CivicActions/security  @CivicActions/docs
+docs/100-security/* @CivicActions/security  @CivicActions/docs

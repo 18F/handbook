@@ -1,4 +1,4 @@
-# EMPLOYEE HANDBOOK
+# CivicActions Handbook
 
 [![Pipeline status](https://gitlab.com/civicactions/handbook/badges/master/pipeline.svg)](https://gitlab.com/civicactions/handbook/-/commits/master) [![Documentation Status](https://readthedocs.org/projects/civicactions-handbook/badge/?version=latest)](https://handbook.civicactions.com/en/latest/?badge=latest)
 
