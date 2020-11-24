@@ -65,9 +65,9 @@ When an employee joins TTS or changes supervisors within TTS, it is important th
 
 ### Performance improvement and performance action plans
 
-Performance not at Level 3 in any Critical Element needs to be addressed formally. While this can be issued at any time, an employee who will be rated at Level 1 or 2 in any category on their FY20 Performance Plan *must be issued* either a Performance Improvement Plan (PIP) for a Level 1 rating or a Performance Action Plan (PAP) for a Level 2 rating.  
+Performance not at Level 3 in any Critical Element needs to be addressed formally. While this can be issued at any time, an employee who will be rated at Level 1 or 2 on any Critical Element on a Performance Plan *must be issued* either a Performance Improvement Plan (PIP) for a Level 1 rating or a Performance Action Plan (PAP) for a Level 2 rating.  
 
-***NOTE: To issue a Level 1 or 2 rating on a Critical Element, those performance levels must be defined and established on the performance plan for at least 120 days.
+***NOTE: To issue a Level 1 or 2 rating on a Critical Element, those performance levels must be defined and established on the performance plan for at least 120 days***
 
 To initiate either plan, reach out to [Mei Goon](mailto:mei.goon@gsa.gov), TTS’s Employee & Labor Relations Specialist. Mei will work directly with you to create the PIP/PAP for your team member; supporting documentation will need to be submitted to Jim for review when creating the PIP/PAP.
 
