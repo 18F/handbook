@@ -3,7 +3,6 @@ title: GitHub
 tag:
   - Git
 questions:
-  - git
   - admins-github
   - dev
 ---
@@ -35,11 +34,6 @@ Include the following:
 Take a look at [your notification settings](https://github.com/settings/notifications). In particular, it's suggested that you turn off `Automatically watch repositories`. You may also want to take a look at [tips for filtering GitHub notifications in email](https://help.github.com/en/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications).
 
 ### 4. Join the 18F organization
-
-All TTS staff should be added here. Ask in [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) to "please add me (`https://github.com/username`) to [team]," which will be one of the following:
-
-- [`18f-staff`](https://github.com/orgs/18F/teams/18f-staff)
-- One of the [TTS teams](https://github.com/orgs/18F/teams/tts-gsa-partners/teams)
 
 An admin will add you, after which you'll need to accept their invite from the email or by going [here](https://github.com/orgs/18F/invitation?via_email=1).
 
@@ -201,6 +195,19 @@ TTS is heavily involved in the following GitHub organizations:
 <sup>2</sup>: For the ones that are TTS-managed, get help in [#admins-github](https://gsa-tts.slack.com/messages/admins-github).
 
 We automate some administration of our repositories - see [`ghad`](https://github.com/18F/ghad) for more info.
+
+### Onboarding
+
+When people join TTS, they get added to [the 18F org](https://github.com/18F), and possibly others (in list above). Not everyone will end up using GitHub, but they are granted access by default. The following GitHub teams correspond to the different business units:
+
+- [18f-staff](https://github.com/orgs/18F/teams/18f-staff/members)
+- [COEs](https://github.com/orgs/18F/teams/coes/members) (Centers of Excellence)
+- [Outreach](https://github.com/orgs/18F/teams/outreach/members)
+- [PIF](https://github.com/orgs/18F/teams/pif/members) (Presidential Innovation Fellows)
+- [OA](https://github.com/orgs/18F/teams/oa/members) (Office of Acquisition)
+- [solutions](https://github.com/orgs/18F/teams/solutions/members) - portfolios will handle adding them to the appropriate team(s) within there
+- [strategic-partnerships](https://github.com/orgs/18F/teams/strategic-partnerships/members)
+- [tts-bizops](https://github.com/orgs/18F/teams/tts-bizops/members)
 
 ## Resources
 
