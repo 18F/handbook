@@ -70,7 +70,7 @@ Use [BookIT](https://bookit.gsa.gov/).
 
 [The DisplayLink docks](https://www.targus.com/us/universal-usb-3-0-dv4k-docking-station-with-power-dock177usz) can be used with Macs over USB, though will need to install the drivers.
 
-1. From `Applications`, open the `GSA Self Service` app
+1. Open [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service)
 1. `Install` the `Display Link` driver
 
 If that doesn't work, we have a couple of DVI to HDMI cords sitting by the 18F desks that can connect to the monitors directly.
@@ -129,4 +129,4 @@ And yes, you should totally feel free to dye your hair in rainbow colors and roc
 - Join the [#nyc](https://gsa-tts.slack.com/messages/nyc/) channel in Slack.
 - Ask to be added to the [TTS NYC Google Group](https://groups.google.com/a/gsa.gov/g/TTS-nyc).
 - If you are an NYC resident, confirm that [local tax](https://www.tax.ny.gov/pit/file/tax_tables.htm) is being withheld from [your paycheck]({{site.baseurl}}/gsa-internal-tools/#employee-express).
-   - If not, contact kc-payroll.finance@gsa.gov
+  - If not, contact kc-payroll.finance@gsa.gov
