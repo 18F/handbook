@@ -10,7 +10,7 @@ tags:
 - training and development
 ---
 
-An Individual Development Plan (IDPs) is a tool to help an employee enhance their professional skills so thaty they can better meet the evolving challenges of their job. 
+An Individual Development Plan (IDPs) is a tool to help an employee enhance their professional skills so that they can better meet the evolving challenges of their job. 
 
 ## IDP Resources
 
