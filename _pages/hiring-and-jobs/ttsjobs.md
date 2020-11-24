@@ -45,7 +45,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-
+-[CoE Contact Center and Customer Experience Acting Team Lead](https://docs.google.com/document/d/1LTfSppoyfsSS9EZDhxKS3xKUw3JK0CvbxUzEpWwxOzE/edit#) - open Tuesday, November 24th through Friday, December 4th
 
 
 ## Opportunities with partners
