@@ -47,7 +47,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [CoE Contact Center and Customer Experience Acting Team Lead](https://docs.google.com/document/d/1LTfSppoyfsSS9EZDhxKS3xKUw3JK0CvbxUzEpWwxOzE/edit#) - open Tuesday, November 24th through Friday, December 4th
 
-- [18F Acting Deputy Director Detail Center](https://docs.google.com/document/d/1fly0USg3igCdvTgBKCbNw7y4euucTdMQPlmznypUJ1Y/edit?ts=5fbd26b2#) - open Tuesday, November 24th through Friday, December 4th
+- [18F Acting Deputy Director Detail](https://docs.google.com/document/d/1fly0USg3igCdvTgBKCbNw7y4euucTdMQPlmznypUJ1Y/edit?ts=5fbd26b2#) - open Tuesday, November 24th through Friday, December 4th
 
 
 ## Opportunities with partners
