@@ -8,11 +8,7 @@ questions:
 
 ## Setup
 
-To get access to [the TTS Trello Team](https://trello.com/18f3/):
-
-1. Ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello) with the following script: "Please invite me to https://trello.com/18f3/members."
-1. You will get an invite to your GSA email address.
-1. [Set up two-factor authentication](https://trello.com/2fa)
+You should have gotten an invite to [the TTS Trello Team](https://trello.com/18f3/). Once your account is created, please [set up two-factor authentication](https://trello.com/2fa).
 
 There are some other Trello Teams in TTS; speak with your office to find out if there's one you should be added to.
 
