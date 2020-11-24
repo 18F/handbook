@@ -2,13 +2,15 @@
 title: Mural
 redirect_from:
   - /murally/
+questions:
+  - admins-mural
 ---
 
 [Mural](https://mural.co/) is a collaborative whiteboard and sticky note tool. Formerly known as Mural.ly.
 
 ## Setup
 
-Because Mural is a web application, there’s no installation necessary. You will need to set up an account, however. If you don’t already have a Mural account, ask in Slack in the [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural) channel for the invitation link, and from there, create an account with your GSA email address. In order to have access to all TTS public rooms and create your own rooms, you need an admin to give you those permissions. Post a link the [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural) channel to get access.
+Because Mural is a web application, there’s no installation necessary. You will need to set up an account, however. If you don’t already have a Mural account, ask in Slack in the [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural) channel for an invite, and from there, create an account with your GSA email address. In order to have access to all TTS public rooms and create your own rooms, you need an admin to give you those permissions.
 
 ## Usage
 
