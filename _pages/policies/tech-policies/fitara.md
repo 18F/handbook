@@ -43,7 +43,7 @@ The Office of Management and Budget (OMB) has drafted guidance to implement FITA
 
 ## OCIO guidance
 
-Reference the [FITARA Rules Matrix](https://docs.google.com/spreadsheets/d/1qFH5UJyAtxgylZcvIODnGYtI66p6qekXiQ95JOtOnMI/edit#gid=912065849). Note: this matrix does not represent all possible scenarios. When necessary, consult with your oganization's FITARA representative accordingly for further guidance.
+Reference the [FITARA Rules Matrix](https://docs.google.com/spreadsheets/d/1v0gnWT1V9SBaiwI3Mu-oiVk2-u26No7OTPJCTNJwZvo/edit?ts=5fbd1e3a#gid=912065849). Note: this matrix does not represent all possible scenarios. When necessary, consult with your oganization's FITARA representative accordingly for further guidance.
 
 ## TTS guidance
 
