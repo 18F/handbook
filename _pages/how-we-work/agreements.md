@@ -54,7 +54,7 @@ A detailed description of the steps in the IAA and MOU process is available [her
 
 ## Agreements Status
 
-The Agreements Team maintains a [Master Agreements Pipeline](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1839486133) in the the linked spreadsheet. The Agreements Team updates the agreements pipeline daily. 
+The Agreements Team maintains the [TTS Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1839486133)  and updates it daily. 
 
 The Agreements Team also holds regular [Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU14aUtwd09zYzJ1fGRlZmF1bHR8NWMwZThjZGRjOGVhZjkxNWU2MGY3YTZhMmFiZGRmMDk) to provide status updates and answer questions. Schedule a time [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU14aUtwd09zYzJ1fGRlZmF1bHR8NWMwZThjZGRjOGVhZjkxNWU2MGY3YTZhMmFiZGRmMDk).
 
