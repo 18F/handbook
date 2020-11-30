@@ -16,20 +16,10 @@ tags:
 
 Providing verification of GSA employment and salary.
 
-## Employment verification
+## Employment and income verification
 
-Employment can be verified by calling GSA Payroll at Customer Service Help Desk at (844) 303-6515.
+GSA employees who need income/employment verification should direct their apartment manager/lender/potential new employer to contact Payroll at [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) or toll free at 844-303-6515.
 
-All GSA employees that need employment verification must go through "The Work Number" by following the steps in [this document](https://www.gsa.gov/cdnstatic/Work_Number_Employment_Verification_Instructions.pdf).  For the [Agency Employer Code](https://www.gsa.gov/cdnstatic/Listing_of_The_Work_Number_Company_Codes_for_GSA_and_Client_Agencies.pdf), use **10536** for GSA.
+For additional payroll information and services go to www.gsa.gov/payroll.
 
-Requests for employment verification are often made during the home buying process.
-
-## Income verification
-
-"The Work Number" is also able to provide income verification (including the options listed below).  Follow the steps in [this document](https://www.gsa.gov/cdnstatic/Work_Number_Employment_Verification_Instructions.pdf) to authorize the system for a verifier.
-
-* Total salary,
-* Gross earnings year-to-date,
-* Overtime
-* Bonuses
-* Gross earnings for the prior 2 years
+The information above was sourced from the [HR, Pay and Leave: Employment/Income Verification Insite page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/policies-and-resources/hr-pay-and-leave-employment-income-verification?term=the%20Work%20Number).
