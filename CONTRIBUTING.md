@@ -17,9 +17,9 @@ questions:
 
 It is optional, and can contain one or more Slack channel name, email address, and/or link.
 
-## What Cannot Be Included
+## What cannot be included
 
-- TTS Staff should not include information that shouldn't be public.
+- TTS staff should not include information that shouldn't be public.
   - We already get training on this, but here are a few reminders about things we shouldn't include here:
   - [Sensitive information, as described in our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
   - Comments that can be easily interpreted as [endorsements](https://www.oge.gov/web/oge.nsf/Use%20of%20Government%20Position%20and%20Resources/17593AE8B3A597C685257E96006364E4?opendocument) (or other potential ethical issues)
@@ -28,7 +28,7 @@ It is optional, and can contain one or more Slack channel name, email address, a
   - Information that is already well-covered on GSA InSite - link there instead of reproducing it
   - Specific TTS org chart info (such as lists of names of supervisors and facilitators). Link to the [TTS org chart](https://handbook.18f.gov/tts-org-chart/), the internal [18F org chart](https://handbook.18f.gov/org-chart/), or the internal [Office of Solutions org chart](https://handbook.18f.gov/opp-org-chart/) instead
 
-## A Few Things to Remember
+## A few things to remember
 
 - This handbook website and repository are public
 - We're careful about publishing [information collected during research](https://handbook.18f.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#g-research](https://gsa-tts.slack.com/archives/g-research) for guidance first
@@ -78,10 +78,10 @@ If you're not sure, ask for a second opinion in #tts-handbook first.
 
 - _do not merge yet:_ Delay merging this pull request until the label has been removed
 - _help wanted:_ Need additional assistance
-- _In Porgress:_ Currently being worked on
-- _Into is incorrect/outdated:_ The current information that is there needs tending to
-- _Need new Content:_ There is information that is not present that should exist
-- _< 2 hours:_ Easy peazy, lemon squeezy
+- _In progress:_ Currently being worked on
+- _info is incorrect/outdated:_ The current information that is there needs tending to
+- _new content needed:_ There is information that is not present that should exist
+- _<2 hours:_ Easy peazy, lemon squeezy
 - _2-4 hours:_ Hold my callz
 - _>4 hours:_ Ooph, its a doozy!
 
