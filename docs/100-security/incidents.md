@@ -9,9 +9,9 @@ If you receive a phishing email, follow these steps to report to CivicActions IT
 _Note: the menus and links described below refer to the standard GMail interface which is the most commonly used at CivicActions. Please "translate" these to your mail reader UI if using another system, or ask for help on [slack](https://civicactions.slack.com/messages/general/) or via [email](mailto:security@civicactions.com)._
 
 1.  Do not click any links in the email. Do not delete it yet. You may mark it as spam.
-2.  If you can, click the `Show Original` option in the "triangle" menu associated with the email. This will open a new window with the Original Message above and the raw text of the email below.
+2.  If you can, click the `Show Original` option in the menu associated with the email, which may appear as a triangle or three little dots. This will open a new window with the Original Message above and the raw text of the email below.
 3.  Click on the `Download Original` link halfway down the page and it will save text of the email to your hard drive.
-4.  Mark the email as a phishing email by selecting the `Report phishing` option in the same "triangle" menu associated with the email.
+4.  Mark the email as a phishing email by selecting the `Report phishing` option in the same "triangle/three dots" menu associated with the email.
 5.  Forward the email to `security@civicactions.com`. As long as you haven't clicked on link or downloaded the file, you may stop here.
     - If you suspect that the email has compromised your system with a download or link, attach the original text you downloaded. Please include _Security Incident_ in the subject line, along with a brief description of the issue (Ex. Clicked on link in phishing email).
 6.  Report the phishing email in the [#general](https://civicactions.slack.com/messages/general/) (attention: `@security`) Slack channel. (The `general` channel is used as everyone has access to it.)
