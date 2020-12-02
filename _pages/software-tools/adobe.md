@@ -2,9 +2,13 @@
 title: Adobe Acrobat and Creative Cloud (CC)
 ---
 
-Visual designers often need Creative Cloud (CC) for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. Creative Cloud licenses are limited, so please don't request access unless you really do need it for your work.
+Visual designers often need [Creative Cloud (CC)](https://www.adobe.com/creativecloud.html) for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. You can request either:
 
-You can request Acrobat Pro or Creative Cloud by submitting [a Software Request through the GSA IT Help Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b). Make sure to specify that you are on a Mac.
+- Acrobat Pro
+- Photoshop
+- The full Creative Cloud Suite
+
+by submitting [a Software Request through the GSA IT Help Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b). Make sure to specify that you are on a Mac. Note that licenses are limited, so please don't request access unless you really do need it for your work.
 
 Other information from GSA:
 
