@@ -222,3 +222,5 @@ Per the [IT Standards policy](<https://www.gsa.gov/directive/gsa-information-te
 > Collaboration with another agency through software or cloud services which they use for managing non-GSA data (either data owned by that agency or public data) does not require security or Section 508 compliance review, as that responsibility is assumed by the providing agency.  Other policies which may restrict the use of GSA Enterprise Accounts or the release of GSA-owned data may still apply.
 
 In other words, it is generally fine to use a tool authorized and maintained by a partner agency. If you're not sure, ask.
+
+That said, only [approved software]({{site.baseurl}}/software/#approvals) can be installed on GSA machines. This often means using web-based versions, where possible.
