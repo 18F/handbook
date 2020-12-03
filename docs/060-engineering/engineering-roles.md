@@ -30,7 +30,7 @@ Project responsibilities through the project process:
   - Kickoff
 - Architecture
   - Reviewing and supporting IA and design
-  - Liason with 3rd parties
+  - Liaison with 3rd parties
   - Tech architecture
   - Reestimating
 - Build

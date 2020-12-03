@@ -203,7 +203,7 @@ Developers and themers working on the site server instance (SSH/shell, file syst
 - Follow best practices with respect to SSH keys, passphrases and passphrase caching (see above).
 - Access the server only by methods (e.g. SSH, SFTP, SCP) configured by designated admins. Access by password, manually installed SSH keys (other than by admins), web based "shell" script, port forwarding to 3rd parties or other methods are forbidden, unless authorized in advance by the CTO.
 - Restrict SSH port forwarding to temporary use for the purpose of accessing the server MySQL from your own desktop.
-- Prefer the initiation of SSH connnections from CivicActions servers to 3rd party servers, avoiding the reverse as much as possible.
+- Prefer the initiation of SSH connections from CivicActions servers to 3rd party servers, avoiding the reverse as much as possible.
 - Obtain prior approval from a member of the IT team before running non-standard software on a server instance. This includes:
   - Daemons (persistent, long running processes)
   - Binary software (compiled on the server instance or elsewhere)

@@ -63,7 +63,7 @@ We highly encourage team members to share knowledge at conferences and have a nu
 
 CivicActions will pay all costs for travel, registration, attendance, etc., for any team member that has conference presentation accepted at a Core Event. (Marketing > Core Events budget)
 
-Here's a [running list of public presentations](https://airtable.com/shrwEraiWKvbAScC7) by CivicActions folks.  
+Here's a [running list of public presentations](https://airtable.com/shrwEraiWKvbAScC7) by CivicActions folks.
 To get started or share idea about attending or speaking at events, head over to the Slack channel #events.
 
 <!-- prettier-ignore -->

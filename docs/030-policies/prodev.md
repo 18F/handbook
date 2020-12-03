@@ -40,7 +40,7 @@ This budget can be used a number of things:
 - Testing fees & renewal costs associated with professional certifications
 - Books
 - Online courses
-- Travel and accomodation for attending conferences
+- Travel and accommodation for attending conferences
 - Other costs incurred from you becoming a smarter, more awesomer version of you
 
 There are some limitations on the prodev budget usage. For spending amounts over $50, you'll need to get [approval in advance](expenses.md). Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be [submitted in the usual way](../050-how-we-work/tools/harvest.md#tracking-expenses) through Harvest, under the "CivicActions -> Professional development" project.

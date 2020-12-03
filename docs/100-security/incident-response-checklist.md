@@ -54,7 +54,7 @@ The _Incident Commander_:
 The _Responders_ work to determine cause, find resolution and return the system(s) to normal operations.
 
 - If **_suspicious activity_** is suspected or other unanswered questions exist, create database dumps, take disk snapshots of relevant volumes, get screen captures of anomalous activity **_before making changes_** such that post-remediation forensic analysis is supported.
-- Determining the cause can drive follow-up measures to prevent incident reoccurrence.
+- Determining the cause can drive follow-up measures to prevent incident recurrence.
   - A _containment_ strategy may be implemented by the Information Security Group for the instance to drop all ingress and egress traffic except from specific IPs (like yours) until forensics can be performed.
 
 The _Incident Commander_ coordinates activity:
@@ -70,7 +70,7 @@ Once the incident is resolved:
 
 - Update the ticket, set status → "Ready for QA".
 - Schedule a retrospective.
-- Send a final sitrep vie email to stakeholders.
+- Send a final sitrep via email to stakeholders.
 - Thank everyone involved for their service!
 
 ## Special situations

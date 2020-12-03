@@ -6,6 +6,6 @@ Within the docs folder, the folder and file structure loosely maps to our practi
 
 Each folder should contain a README.md file with some introduction text for that section. We don't need tables of contents, because that is provided by Read The Docs.
 
-Folders and file names should all be lowercase and avoid special characters, except for hypens (in place of spaces).
+Folders and file names should all be lowercase and avoid special characters, except for hyphens (in place of spaces).
 
 Top level folders are given a 3 digit prefix to ensure they are sorted in a sensible way in both Read The Docs and Github. Sections should increment by 10 by default to allow for adding additional sections in between others without requiring many link updates.
