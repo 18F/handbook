@@ -55,7 +55,7 @@ You must be on the GSA wireless network or on the Windows virtual desktop (acces
   1. Select **Reason**
   1. Enter **Start Date** and **End Date**
   1. Enter **Requested Hours**
-  1. Enter **Comments**
+  1. Click on **Comments/History** and then enter **Comments**
   1. Click **Submit**
 
 ### Modifying a leave request
