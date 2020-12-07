@@ -179,12 +179,12 @@ Employees at TTS are eligible to participate in the [Thrift Savings Plan](https:
 
 You can also update TSP directly in [HR Links]({{site.baseurl}}/leave/#logging-into-hr-links) by following these steps:
 
-1. After you sign into HR Links, click on "Personal Details"
-1. Click on the green circle next to your name
-1. Click "Benefits"
-1. Click "Benefits Summary"
-1. Click on far right column on TSP row
-1. Click on "Edit"
+1. Sign into HR Links
+1. Make sure that you're on the "Employee Self Service" page
+1. Click on the **Benefits Summary** tile
+1. Click on the large **TSP Traditional** tile
+1. Under the "New Savings Contribution" section, change your contribution flat rate or percentage
+1. Click **Save**
 
 If you ever move, you can update your address for TSP by emailing it to both the [Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the [GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the TSP office of your new address.
 
