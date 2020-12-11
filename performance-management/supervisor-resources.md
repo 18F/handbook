@@ -130,6 +130,10 @@ A supervisor may need to approve an employee performance plan or employee evalua
 
 All FY21 **supervisory performance plans** must include the “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit#heading=h.7ki5n23m5zhy).
 
+### Acquisition Critical Element
+
+All CORs on active delegation must have the new Acquisition Critical Element on their FY21 Performance Plan.  For guidance on adding this critical element to performance plans [click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
+
 ## Additional training
 
 ### Supervisors’ Lounge Question and Answer Sessions
