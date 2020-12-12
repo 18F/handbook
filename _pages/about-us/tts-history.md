@@ -22,26 +22,17 @@ TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offi
 - **18F** provides digital development and consulting services for any government agency or program, with a focus on cultural transformation and empowerment of the agencies they work with. A critical part of 18F’s mission is to teach agencies new digital skills during projects so that the agencies can take over continued development.
 - **Solutions** helps agencies improve delivery of information and services to the public. Responsible for operations, evolution, and scaling of mature products and services such as USA.gov, Data.gov, Challenge.gov and the Digital Analytics Program.
 - **The Centers of Excellence (CoEs)** implements IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation. 
-- **The Presidential Innovation Fellowship (PIF)**  is a year-long fellowship that pairs talented, diverse technologists and innovators with top civil-servants and change-makers in the federal government to tackle some of our nation’s most pressing technology challenges.
+- **Presidential Innovation Fellows (PIF)**  is a fellowship that embeds talented, diverse technologists and innovators within federal agencies as yearlong entrerpreneurs in residence. Together with agency leaders, PIFs improve the way our government designs, develops, and delivers services for the public.
 - **Office of Acquisition** drives smarter technology procurement through technical procurement consultations, new procurement vehicle creation, and the development of experimental procurement platforms and methodologies.
 
 
 ## Our values
 
-* **Listen, understand, and then act**  
-    We listen before acting. We ask questions, keep an open mind, and are conscious of assumptions. We consider all decisions in the context of the larger environment and think strategically. Then, act.
+* **Inclusion**  
+    We put people first and celebrate what bring us together and makes each of us unique to meet the public’s needs. 
 
-* **Be authentic and collaborative**  
-    We are honest and forthright with our colleagues, partners, users and customers. We assume competence and good intentions and believe respectful candor leads to more productive collaboration.
+* **Integrity**  
+    We are present, transparent, and honest to enable accessible and trustworthy innovation.
 
-* **Design for users**  
-    Before making decisions on form and function, we seek to understand how they will impact those who will have to live with those decisions every day. We talk with and observe users, test our ideas with them, and design for and with them.
-
-* **Deliver results**  
-    We are outcome-focused and demand-driven. We work with intent to achieve meaningful results and our work is directed by market demand.
-
-* **Learn, iterate, improve**  
-    We are constantly learning and improving as individuals and as an organization. We collect data and feedback on everything we do, and we use that information to inform better ways to work.
-
-* **Reflect the diversity of the public we serve**  
-    A more diverse organization creates a broader spectrum of solutions and ideas, and helps us challenge status quo thinking.
+* **Impact**  
+    We grow together and create lasting change for the good of the public and public servants.
