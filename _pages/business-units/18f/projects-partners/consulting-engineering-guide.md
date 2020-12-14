@@ -64,16 +64,15 @@ On a consulting engagement, you may often find yourself operating on the edges o
 
 Everyone at 18F who works with partners can consider themselves “in consulting.” This means there’s a lot of value to be found in project or chapter discussions across the whole organization. Don’t hesitate to join Slack channels or attend meetings that will help you broaden your experience with 18F projects. The below resources will offer a lot of context for the partner-facing and organizational challenges of consulting projects:
 
-* [#path-analysis](https://app.slack.com/client/T025AQGAN/C3J7P5MMK)
+* [#path-analysis](https://app.slack.com/client/T025AQGAN/C3J7P5MMK) (archived, but still has valuable history)
 * [Project Artifacts repo](https://github.com/18F/path-analysis)
-* [#project-resources](https://app.slack.com/client/T025AQGAN/CHZLJBWCV)
-* [#wg-consulting](https://app.slack.com/client/T025AQGAN/CDVJ9U4K1) (and its regular meeting)
+* [#c-project-resources](https://app.slack.com/client/T025AQGAN/CHZLJBWCV)
+* [#c-consulting](https://app.slack.com/client/T025AQGAN/CDVJ9U4K1) (and its regular meeting)
 
 ### Technical support
 If it’s a technical issue outside your wheelhouse, talk with our specialists. They’ll be happy to help you find a solution:
 
 * Engineering Practices Guild: Ask in [#dev](https://app.slack.com/client/T025AQGAN/C02CD5VUQ)
-* DevOps Guild: Ask in [#g-devops](https://app.slack.com/client/T025AQGAN/C029KQMBZ)
 * Security & Compliance Guild: Ask in [#g-security-compliance](https://app.slack.com/client/T025AQGAN/CG8SNAEQM)
 
 Don’t hesitate to call on the Acquisitions, Content and Design Chapters as needed, either. They have guilds and labs specifically aimed at helping you.
