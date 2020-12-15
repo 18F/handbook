@@ -11,14 +11,14 @@ questions:
 
 Please click the link below for specific instructions on how to request a micropurchase that fits your need:
 
-- [Business cards]({{site.baseurl/purchase-requests/#business-cards}})
-- [Certificates]({{site.baseurl/purchase-requests/#certificates}})
+- [Business cards]({{site.baseurl/#business-cards}})
+- [Certificates]({{site.baseurl/#certificates}})
   - SSL, TLS, ECA Certificates
 - [Conferences, events, and training]({{site.baseurl}}/conferences-events-training/)
-- [Domain renewals]({{site.baseurl/purchase-requests/#domain-renewals}})
+- [Domain renewals]({{site.baseurl/#domain-renewals}})
 - [Equipment]({{site.baseurl}}/equipment)
-- [Office supplies]({{site.baseurl/purchase-requests/#office-supplies}})
-- [Services]({{site.baseurl/purchase-requests/#services}})
+- [Office supplies]({{site.baseurl/#office-supplies}})
+- [Services]({{site.baseurl/#services}})
 - [Software]({{site.baseurl}}/software)
 
 ### Business cards
