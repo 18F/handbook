@@ -18,6 +18,7 @@ Most of GSA's internal tools are accessible via our Agency's intranet [Insite](h
 | [Employee Express](#employee-express)            | To view your paystub, change your withholdings, or change your address                                                                                     | Employee Express username and password |
 | [HR Links](#hr-links)                            | To request/document leave and access your personnel file online                                                                                            | ENT on GSA Wireless or VPN             |
 | [IT Service Desk](#it-service-desk)              | General IT questions about Employee Express and other passwords (Note: They may not support requests for Macs, but will support requests for GSA websites) | ENT username and password              |
+| [Self Service](#self-service)                    | Used to install desktop software on Macs                                                                                                                   | ENT username and password              |
 | [Online University (OLU)]({{site.baseurl}}/olu/) | To take mandatory trainings for federal employees                                                                                                          | ENT username and password              |
 
 ### Browser requirements
@@ -82,6 +83,10 @@ If you have any issues with a GSA-maintained system or website, you'll need to c
 - Email them at [itservicedesk@gsa.gov](mailto:itservicedesk@gsa.gov)
 
 They are available 6am-9pm ET. If you need to reset your ENT password, follow [these instructions]({{ "/how-to-log-in/#changing-your-ent-password" | relative_url }}).
+
+## Self Service
+
+The [Self Service](https://gsa.servicenowservices.com/sp/?id=kb_article&sys_id=8ce331fcdb3c7f842b02388d7c961933) application is used to install desktop software on Macs. It can be found under `Applications` on your Mac. If a piece of desktop software you want isn't appearing there, you'll need to [request it]({{site.baseurl}}/software/).
 
 ## Office supplies
 

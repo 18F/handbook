@@ -50,6 +50,10 @@ Supporting documentation that aligns with your Performance Management Plan is **
 
 This information can be shared with your Supervisor during your mid-year and end-of-year 1:1 performance review conversation.
 
+### Acquisition Critical Element
+
+All CORs on active delegation must have the new Acquisition Critical Element on their FY21 Performance Plan.  For guidance on adding this critical element to performance plans [click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
+
 ## Training
 
 * Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:

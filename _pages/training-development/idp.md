@@ -1,16 +1,19 @@
 ---
 title: Individual Development Plan
 tags:
-- IDP
-- Individual Development Plan
-- development
-- development & training
-- development and training
-- training & development
-- training and development
+  - IDP
+  - Individual Development Plan
+  - development
+  - development & training
+  - development and training
+  - training & development
+  - training and development
+questions:
+  - people-ops
+  - TTS-PeopleOps@gsa.gov
 ---
 
-An Individual Development Plan (IDPs) is a tool to help an employee enhance their professional skills so thaty they can better meet the evolving challenges of their job. 
+An Individual Development Plan (IDPs) is a tool to help an employee enhance their professional skills so that they can better meet the evolving challenges of their job. 
 
 ## IDP Resources
 

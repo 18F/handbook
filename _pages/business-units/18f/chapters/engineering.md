@@ -73,6 +73,8 @@ See [the org chart]({{site.baseurl}}/org-chart).
 
 Your facilitator and the engineering staffing lead are responsible for making sure you have the right amount and kind of project work. However, you're encouraged to get involved in finding projects you're interested in. To do this, review projects in the [staffing repository](https://github.com/18F/staffing/issues). The issue threads will have lots of extraneous information, but look for issues tagged with the Engineering chapter. If you find a project you're interested in, let the engineering staffing lead know or talk to your facilitator.
 
+If you're looking for some engineering work to do during your non-billable hours, [this document](https://docs.google.com/document/d/1XqhkVs7k7lHqKRwkkJjDMPpB4p18SVn5nQ1xbZ4-knM/edit?usp=sharing) has some suggestions that might get you started. Always feel free to bring it up with your facilitator!
+
 ### How can I become an interviewer or resume reviewer?
 
 Thanks for wanting to participate in hiring! In order to review resumes, GSA requires that you be a Subject Matter Expert (SME), which involves a small amount of training. You don't need to be a SME to be an interviewer.

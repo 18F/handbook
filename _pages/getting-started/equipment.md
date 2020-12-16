@@ -17,7 +17,7 @@ TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is no
 
 ### Operating System
 
-Your laptop will come preloaded with the latest, GSA-approved Mac operating system. At this time, GSA is not ready to upgrade to the [Catalina macOS](https://www.apple.com/macos/catalina/). The TTS Tech Portfolio will send out a TTS-wide email and update the most recent [notification](https://gsa-tts.slack.com/files/T025AQGAN/FP49NEXMY?origin_team=T025AQGAN) in Slack when it is appropriate to upgrade.
+Your laptop will come preloaded with the latest, GSA-approved/supported Mac operating system. Please wait to do any operating system upgrades (including patches) until notified by GSA IT.
 
 ### Rules
 
@@ -32,20 +32,6 @@ Your laptop will come preloaded with the latest, GSA-approved Mac operating syst
 You can [request a loaner PC through the IT Service Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
 
 ### Admin rights
-
-People doing technical work often have a need to install software dependencies and utilities like command line tools. These vary greatly from task to task and developer to developer and change frequently, and thus it is not realistic to have them packaged by GSA IT for installation. Similarly, there are occasions where a developer may need to make modifications to their operating system that require `sudo`, such as modifying the `/etc/hosts` file. For these reasons, people doing technical work at GSA have a need for administrative rights.
-
-A user can be granted administrative rights on a GSA-issued Mac if they need to run/edit any custom software locally. This custom software can be web applications, static site generators, scripts, etc. for things like:
-
-- Software development
-- Infrastructure maintenance
-- Prototyping
-- Content auditing
-- Testing
-- Data science
-- etc.
-
-"Engineer" (or similar) being part of their title is not required.
 
 See the [**procedures to request admin rights**](https://docs.google.com/document/d/1xepZsh83lxPDykrb1NXoeHxj8m78qsdW-9KqzO_CHOQ/edit).
 

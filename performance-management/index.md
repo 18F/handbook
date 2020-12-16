@@ -30,6 +30,7 @@ Resource | Use
 [Fix HR Links Google Chrome Login Issue](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing) | Instructions for clearing HR Links site cache
 [HR Links Employee Guide](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view) | Visual guide for employees to enter components of a performance review into HR Links
 [HR Links Supervisor Guide](https://drive.google.com/file/d/15Xm9NF_KfcWN-ZxPomooowEAq51073Xi/view) | Visual guide for supervisors to enter components of a performance review into HR Links
+[Acquistion Critical Element Guide](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view) | Instructions for adding the Acquisition Critical Element, which is required for all CORs on active delegation
 [Closing out an Interim Performance Plan](https://docs.google.com/document/d/10WP9J0MeH-PovXlZqXvkAH_ePQuHaPnXZnou2FEq0_I/edit) | Use to close out performance plans that will not factor into the end of year performance award
 [FY20 Performance Management Planning & Appraisal Master Schedule](https://docs.google.com/document/d/1uVbumuiMHLbvmdn5jbAkrvl6f4yD7h2jMbD_pbst8TQ/edit?ts=5ccc6b8f) | All estimated FY19-FY21 Performance dates
 [Online Learning University (OLU) Non-supervisor](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dGSA%2dHRLINKS%2dPERF%2dMGMT%2dEMPLOYEE%26componentTypeID%3dWBT%26revisionDate%3d1533096000000%26fromSF%3dY&company=GSAHCM03) | Performance management trainings (Non-supervisory employees)
@@ -45,9 +46,21 @@ TTS employees who have established a performance plan **before July 17** are eli
 
 ### Who is eligible for the end of year performance bonus?
 
-Information will be updated pending guidance from GSA.
+Depending on your overall performance rating, you may be eligible for an Individual Performance Award (IPA). The projected IPA distribution is as follows: 
+  * **Level 5 summary ratings**: Up to **3.85%** of adjusted basic pay, or up to **80** hours of time off, subject to budget availability.
+  * **Level 4 summary ratings**: Up to **2.1%** of adjusted basic pay, or up to **44** hours of time off subject to budget availability.
+  * **"High 3" summary ratings**: Up to **0.385%** of adjusted basic pay, or up to **8** hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5. 
   
-### Training
+The final award percentages for Level 5, Level 4 and Level 3 summary ratings will be determined when all performance reviews are complete. In the event the above targets for the Level 3, Level 4 and Level 5 summary ratings cannot be met due to budget constraints, the percentage payouts for awards will be decreased proportionally.
+
+### Selecting award preference in HR Links
+
+  * **Monetary award:** If you are elegible for a performance award, this is the default option in HR Links. No action is needed in HR Links **unless you specified award time off for the prior review cycle**
+    * To change from **LEAVE** to **CASH**, you need to change your “Time Off Award Preference” to **“Inactive”** and you must then use the **“Save”** button. 
+    * ***Note:*** These [instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf) show where to make the change in HR Links, but they are missing the critical "Inactive" and "Save" steps.
+  * **Award leave:** If you are elegible for a performance award and would like to select award time off in lieu of a monetary award, please follow [these instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf).
+  
+## Training
 
 * Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids.  Courses include, but is not limited to the following:
     * Performance Management Overview – Refresher and introduction of the performance management program.

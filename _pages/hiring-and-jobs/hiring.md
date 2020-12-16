@@ -23,7 +23,7 @@ Hiring Managers are crucial to filling workforce needs within TTS and to ensurin
 Interviewers play a fundamental role in vetting incoming talent, as well as creating a positive experience for our candidates. Moreover, they are critical in ensuring a fair and equitable hiring experience.
 
 Below are some resources that cover expectations around interviews, best practices for remote interviewing and slack usage, and tips for recognizing and correcting for unconscious bias. 
-- [TTS Interviewer Training slides](https://docs.google.com/presentation/d/1B6KoiOX2QVigF6KTnaldjFwY6GG5V7UV27LchRL27cE/edit#slide=id.g6d9ab3b2cf_0_404)
+- [TTS Interviewer Training slides](https://docs.google.com/presentation/d/1IvFawhU2lUPIQexUgCgCcRgxjaD5D9BGnRJYkAyM3JY/edit#slide=id.g6d9ab3b2cf_0_404)
 - [Interviewing for TTS 101](https://docs.google.com/document/d/13MdNbFeWgKWMycdlAhkNSG6Eet3_NAVETnpuIweuMrU/edit#heading=h.arj274vgsryn)
 - [Fair & Equitable Hiring Practices](https://handbook.tts.gsa.gov/fair-and-equitable-hiring-practices/)
 
@@ -71,7 +71,8 @@ Talent will assist with the following:
 Use the following templates to prepare the posting (make sure to make a copy of each template):
 
   - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing)
-  - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
+  - [TTSJobs Direct Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
+  - [TTSJobs Application & Nomination Form Template](https://docs.google.com/forms/d/1C8OVwj-yvuHicDwPbtFTLxPLn8zZA6WK6HC-0uIzHwk/edit)
   - [Template - TTS Interview Guide](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit#heading=h.6jehpcfzn58u)
     - An interview guide for the role being advertised may alredy exist if the role was previously posted externally.  Reach out to jointts@gsa.gov and they can check for you.
 

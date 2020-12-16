@@ -3,7 +3,6 @@ title: GitHub
 tag:
   - Git
 questions:
-  - git
   - admins-github
   - dev
 ---
@@ -12,7 +11,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 ## Setup
 
-GitHub is a web application, and you may be able to do all of your work within the [github.com](https://github.com) website. Optionally, you may also install the GitHub [desktop application](https://desktop.github.com/).
+GitHub is a web application, and you may be able to do all of your work within the [github.com](https://github.com) website. Optionally, you may also install [GitHub Desktop](https://desktop.github.com/) through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service).
 
 If you don't have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention]({{site.baseurl}}/records-management) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email.
 
@@ -35,11 +34,6 @@ Include the following:
 Take a look at [your notification settings](https://github.com/settings/notifications). In particular, it's suggested that you turn off `Automatically watch repositories`. You may also want to take a look at [tips for filtering GitHub notifications in email](https://help.github.com/en/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications).
 
 ### 4. Join the 18F organization
-
-All TTS staff should be added here. Ask in [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) to "please add me (`https://github.com/username`) to [team]," which will be one of the following:
-
-- [`18f-staff`](https://github.com/orgs/18F/teams/18f-staff)
-- One of the [TTS teams](https://github.com/orgs/18F/teams/tts-gsa-partners/teams)
 
 An admin will add you, after which you'll need to accept their invite from the email or by going [here](https://github.com/orgs/18F/invitation?via_email=1).
 
@@ -67,9 +61,14 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Ask TTS Tech Portfolio before deleting repositories.** As a government team, we can’t delete repositories without TTS Tech Portfolio first reviewing them for information that they may need to retain (including issues, pull request comments, commit history, and other information). [Archiving](#archiving) is preferred in most cases. If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you'd like to do and why, and wait for approval before deleting it.
 
-- **You are welcome to [transfer repositories](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository#transferring-a-repository-owned-by-your-organization) to partner agencies.** [#admins-github](https://gsa-tts.slack.com/messages/admins-github) will need to do it for you, so ask there. The person performing the transfer will need admin permissions in both the 18F GitHub organization as well as the partner's GitHub organization, so it would be helpful to let your partners know so they can be prepared to assist. After transferring the repository to the client's organization, create a fork of it in [one of our organizations](#organizations). This is so that:
-  - We have a record of the repository
-  - We have a copy of the code, should the decide to delete the transferred repository, make it private, etc.
+### Handoff to partner agencies
+
+By the time engagements end, **repositories developed for another agency should be [transferred](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository#transferring-a-repository-owned-by-your-organization)**. [#admins-github](https://gsa-tts.slack.com/messages/admins-github) will need to do it for you, so ask there. The person performing the transfer will need admin permissions in both the 18F GitHub organization as well as the partner's GitHub organization, so it would be helpful to let your partners know so they can be prepared to assist. After transferring the repository to the client's organization, create a fork of it in [one of our organizations](#organizations). This is so that:
+
+- We have a record of the repository
+- We have a copy of the code, should the decide to delete the transferred repository, make it private, etc.
+
+If the repository is no longer in use, it should be [archived](#archiving).
 
 ## How-to
 
@@ -196,6 +195,19 @@ TTS is heavily involved in the following GitHub organizations:
 <sup>2</sup>: For the ones that are TTS-managed, get help in [#admins-github](https://gsa-tts.slack.com/messages/admins-github).
 
 We automate some administration of our repositories - see [`ghad`](https://github.com/18F/ghad) for more info.
+
+### Onboarding
+
+When people join TTS, they get added to [the 18F org](https://github.com/18F), and possibly others (in list above). Not everyone will end up using GitHub, but they are granted access by default. The following GitHub teams correspond to the different business units:
+
+- [18f-staff](https://github.com/orgs/18F/teams/18f-staff/members)
+- [COEs](https://github.com/orgs/18F/teams/coes/members) (Centers of Excellence)
+- [Outreach](https://github.com/orgs/18F/teams/outreach/members)
+- [PIF](https://github.com/orgs/18F/teams/pif/members) (Presidential Innovation Fellows)
+- [OA](https://github.com/orgs/18F/teams/oa/members) (Office of Acquisition)
+- [solutions](https://github.com/orgs/18F/teams/solutions/members) - portfolios will handle adding them to the appropriate team(s) within there
+- [strategic-partnerships](https://github.com/orgs/18F/teams/strategic-partnerships/members)
+- [tts-bizops](https://github.com/orgs/18F/teams/tts-bizops/members)
 
 ## Resources
 

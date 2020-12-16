@@ -29,8 +29,6 @@ When the computer first turns on from off/restart, you will use your Mac passwor
 
 If you are prompted on your laptop to "reset your password", it is referring to your "local" Mac password, not your ENT or PIN. Please complete those steps right away, as there's a timeout.
 
-The GSA Self Service app uses your ENT credentials.
-
 ### Certificate prompt
 
 When logging into some systems, you will be asked to choose a digital certificate. If your PIV card is inserted, there will be two certificates listed with your name on them.

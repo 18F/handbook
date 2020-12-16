@@ -65,7 +65,9 @@ When an employee joins TTS or changes supervisors within TTS, it is important th
 
 ### Performance improvement and performance action plans
 
-Performance not at Level 3 in any Critical Element needs to be addressed formally. While this can be issued at any time, an employee who will be rated at Level 1 or 2 in any category on their FY20 Performance Plan *must be issued* either a Performance Improvement Plan (PIP) for a Level 1 rating or a Performance Action Plan (PAP) for a Level 2 rating.  
+Performance not at Level 3 in any Critical Element needs to be addressed formally. While this can be issued at any time, an employee who will be rated at Level 1 or 2 on any Critical Element on a Performance Plan *must be issued* either a Performance Improvement Plan (PIP) for a Level 1 rating or a Performance Action Plan (PAP) for a Level 2 rating.  
+
+***NOTE: To issue a Level 1 or 2 rating on a Critical Element, those performance levels must be defined and established on the performance plan for at least 120 days***
 
 To initiate either plan, reach out to [Mei Goon](mailto:mei.goon@gsa.gov), TTS’s Employee & Labor Relations Specialist. Mei will work directly with you to create the PIP/PAP for your team member; supporting documentation will need to be submitted to Jim for review when creating the PIP/PAP.
 
@@ -127,6 +129,10 @@ A supervisor may need to approve an employee performance plan or employee evalua
 ### Leveraging diversity performance measure
 
 All FY21 **supervisory performance plans** must include the “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit#heading=h.7ki5n23m5zhy).
+
+### Acquisition Critical Element
+
+All CORs on active delegation must have the new Acquisition Critical Element on their FY21 Performance Plan.  For guidance on adding this critical element to performance plans [click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
 
 ## Additional training
 
