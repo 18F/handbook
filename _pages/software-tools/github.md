@@ -65,8 +65,8 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 By the time engagements end, **repositories developed for another agency should be [transferred](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository#transferring-a-repository-owned-by-your-organization)**. [#admins-github](https://gsa-tts.slack.com/messages/admins-github) will need to do it for you, so ask there. The person performing the transfer will need admin permissions in both the 18F GitHub organization as well as the partner's GitHub organization, so it would be helpful to let your partners know so they can be prepared to assist. After transferring the repository to the client's organization, create a fork of it in [one of our organizations](#organizations). This is so that:
 
-- We have a record of the repository
-- We have a copy of the code, should the decide to delete the transferred repository, make it private, etc.
+- We have a record of the repository and the work done for that partner.
+- We have a copy of the code, should they decide to delete the transferred repository, make it private, etc.
 
 If the repository is no longer in use, it should be [archived](#archiving).
 
