@@ -505,6 +505,9 @@ primary:
           - text: DocuSign (digital signatures; replaced eSign)
             url: digital-signatures/
             internal: true
+          - text: Eventbrite
+            url: tools/eventbrite/
+            internal: true
           - text: GitHub (code repos and versioning)
             url: github/
             internal: true
