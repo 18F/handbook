@@ -18,6 +18,8 @@ We are a group of 1102 Contracting Officers, Procurement Analysts and acquisitio
 
 TTS Office of Acquisition (OA) is uniquely focused on helping government buy modern digital technologies for internal and external clients. We specialize in procuring Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and IT professional services. 
 
+If you are interested in learning more about which existing TTS vehicles you can use, please see the [OA TTS Wide Contract Vehicles](https://docs.google.com/spreadsheets/d/1SfgL5tOh0ez-dT4VTSO7e3q-x8oAgWcYXnbqOA9M7zQ/edit#gid=0). 
+
 ## Clients
 
 ### TTS internal procurement
