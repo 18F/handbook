@@ -59,7 +59,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **You do not need approval to create public repositories.**
 
-- **Ask TTS Tech Portfolio before deleting repositories.** As a government team, we can’t delete repositories without TTS Tech Portfolio first reviewing them for information that they may need to retain (including issues, pull request comments, commit history, and other information). [Archiving](#archiving) is preferred in most cases. If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you'd like to do and why, and wait for approval before deleting it.
+- **Ask TTS Tech Portfolio before deleting repositories.** As a government team, we can’t delete repositories without TTS Tech Portfolio first reviewing them for information that they may need to retain (including issues, pull request comments, commit history, and other information). [Archiving](#archiving) is preferred in most cases. If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you'd like to do and why, and wait for approval before deleting it.  This approval is generally contingent on no substantive content having been created within the repository (e.g. new issues, commits, substantive comments).  In cases where the content of a repository is no different than that of another repository, it may be considered for deletion.
 
 ### Handoff to partner agencies
 
