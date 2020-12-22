@@ -7,11 +7,13 @@ questions:
   - devops@gsa.gov
 ---
 
-The goal of the Tech Portfolio is to oversee/manage/coordinate everything technology-related that cuts across TTS, and anything technology-related that will affect TTS from the outside: particularly security, compliance, infrastructure, and tech policy. We provide all the things that allow you to get your job done, at the highest quality level.
+**Mission:** We exist to make TTS more productive and secure, empowering our staff and programs to better deliver on their missions.
 
-Rather than trying to exert control over everything technology at TTS, we focus instead on protecting, streamlining, and enabling our staff and systems, and doing so in an empathetic, transparent way. The Tech Portfolio’s work applies to much more than technology; it applies to our entire operation, including how we work inside the law, how we secure our systems, and how we spend money.
+**Vision:** We strive to make TTS the model for how to do IT in government: human-centered, transparent, and as a force-multiplier for the organization(s) we serve.
 
-## Vision
+We oversee/manage/coordinate everything technology-related that cuts across TTS, and anything technology-related that will affect TTS from the outside: particularly security, compliance, infrastructure, and tech policy. We provide all the things that allow you to get your job done, at the highest quality level.
+
+Rather than trying to exert control over everything technology at TTS, we focus instead on protecting, streamlining, and enabling our staff and systems, and doing so in an empathetic, transparent way. The Tech Portfolio’s work applies to much more than technology; it applies to our entire operation, including how we work inside the law, how we secure our systems, and how we spend money. We also:
 
 - Find where we may be duplicating effort or have gaps around technology, and if those are opportunities for TTS/GSA/government-wide shared services
 - Serve as the primary liaison between [GSA IT](https://www.gsa.gov/about-us/organization/gsa-it) and TTS, ensuring high levels of service, finding compromise, and generally keeping a good relationship between the teams
