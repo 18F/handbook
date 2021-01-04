@@ -44,7 +44,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 
 ### Internal only opportunities
-- [Login Product Manager/IT Specialist](https://docs.google.com/document/d/1BMOt7k3h7qaFmphDTZXE_oymdLTXEt4VIj1DHXaxhOs/edit?ts=5fd03957#) - open Wednesday, December 16th through Monday, Decemeber 21st
+
 
 ## Opportunities with partners
 
