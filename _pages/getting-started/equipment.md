@@ -7,7 +7,7 @@ questions:
 
 GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Operations Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
 
-### Distributed employees
+## Distributed employees
 
 Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
 
@@ -34,6 +34,10 @@ You can [request a loaner PC through the IT Service Desk](https://gsa.servicenow
 ### Admin rights
 
 See the [**procedures to request admin rights**](https://docs.google.com/document/d/1xepZsh83lxPDykrb1NXoeHxj8m78qsdW-9KqzO_CHOQ/edit).
+
+### XCode command line tools
+
+XCode command line tools can be installed or upgraded through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service). If already installed and up to date, it won't show up. Note this doesn't install the XCode application.
 
 ## Phone
 
