@@ -23,8 +23,6 @@ Your laptop will come preloaded with the latest, GSA-approved/supported Mac oper
 
 **Lock your computer before leaving it.** Press the **Control + Shift + Power** keys on newer MacBooks or **Control + Shift + Eject** on older MacBooks with optical drives. If you use Alfred, you can open Alfred and type lock.
 
-**Back up your machine.** Make a copy of your startup disk before you encrypt it. Your Mac has a built-in backup system called Time Machine (accessible from System Preferences) that will regularly back up the main disk to any compatible network server, connected hard drive, or partition you choose. Please ensure Time Machine backups are encrypted by selecting the **Encrypt backups** checkbox when you choose the destination disk.
-
 **Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
 ### Loaners
