@@ -15,6 +15,7 @@ tags:
 - jury
 - duty
 - court
+- military
 - leave
 - request
 
@@ -129,6 +130,9 @@ Further funeral leave information can be found in OPM's Fact Sheets:
 * [Leave for funerals and bereavement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-for-funerals-and-bereavement/)
 * [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
 * [Definitions related to family member and immediate relative for purposes of sick leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
+
+### Military leave
+Refer to the GSA [Time and Leave Policy](https://insite.gsa.gov/cdnstatic/insite/HRM_60101_Time_and_Leave_Administration_Policy_%28Posted_Version_-_March_23%2C_2020%29.pdf) and contact your Benefits Specialist to let them know you have military orders. If you do not know who your Benefits Specialist is, ask [TTS-peopleops@gsa.gov](mailto:tts-peopleops@gsa.gov).
 
 
 ## Extended leave
