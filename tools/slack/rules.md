@@ -8,6 +8,7 @@ questions:
 
 ## Getting started
 
+- See the [**official Slack documentation**](https://slack.com/help/articles/218080037-Getting-started-for-new-members) for how to use Slack
 - **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal](https://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
 - **Customize your profile** by adding your location and [personal pronouns](https://pronoun.is/) to the Last Name field so they appear alongside your messages. This is a great way to be remote-friendly and gender inclusive. Otherwise, your colleagues need to view your profile to see that information. Remember to add other helpful info in your profile while you're in there.
