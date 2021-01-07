@@ -7,13 +7,15 @@ questions:
 
 GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Operations Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
 
+This page is generally about Macs. If you have a Windows device, see [InSite](https://insite.gsa.gov/) / [Service Now](https://gsa.servicenowservices.com/) for more information.
+
 ## Distributed employees
 
 Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
 
 ## Laptop
 
-TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA. See [information about using PIV card readers]({{site.baseurl}}/piv/).
+Most TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA. See [information about using PIV card readers]({{site.baseurl}}/piv/).
 
 ### Operating System
 
@@ -32,6 +34,10 @@ You can [request a loaner PC through the IT Service Desk](https://gsa.servicenow
 ### Admin rights
 
 See the [**procedures to request admin rights**](https://docs.google.com/document/d/1xepZsh83lxPDykrb1NXoeHxj8m78qsdW-9KqzO_CHOQ/edit).
+
+#### Prompts
+
+If you are getting a prompt to upgrade desktop software (`<software> wants to make changes`), try reinstalling the given piece of software through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service). If not available there or if not related to updating software, [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
 
 ### XCode command line tools
 
