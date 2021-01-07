@@ -88,6 +88,8 @@ They are available 6am-9pm ET. If you need to reset your ENT password, follow [t
 
 The [Self Service](https://gsa.servicenowservices.com/sp/?id=kb_article&sys_id=8ce331fcdb3c7f842b02388d7c961933) application is used to install desktop software on Macs. It can be found under `Applications` on your Mac. If a piece of desktop software you want isn't appearing there, you'll need to [request it]({{site.baseurl}}/software/).
 
+For Windows, see [these instructions](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/software-and-applications/software-requests-and-software-updates).
+
 ## Office supplies
 
 TTS has an inventory of computer supplies, such a mice, keyboards, and trackpads on hand. If you’d like to check out Apple peripherals (for example, a Magic Mouse or wireless keyboard), make your request [here](https://docs.google.com/a/gsa.gov/forms/d/1d2Qa1KpjTGkn8yK_2cTY5UgMAtsJKQkNgQsqU_WBFKs/viewform).
