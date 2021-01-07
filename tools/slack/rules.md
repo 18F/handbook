@@ -23,17 +23,18 @@ Slack is required for all [TTS](https://www.gsa.gov/portal/category/25729) staff
 
 ## Channel names
 
-- Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
-- [Channels that end with `-partner`](../external-collaboration/#partners) include partners from other agencies.
-- [Channels that end with `-public`](../external-collaboration/#the-public) may include members of the public.
+Here's what various prefixes and suffixes mean:
 
-Channels focused on TTS practices have their own conventions:
+| prefix/suffix | description                                                                                                                                                                                                                                                                |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `admin-`      | Administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to [request invites to Slack](../user-management/), expunge a particularly offensive/off-topic message, change the name of a channel, and so on. |
+| `-partner`    | Channels that include [partners](../external-collaboration/#partners) from other agencies.                                                                                                                                                                                 |
+| `-public`     | [Channels that include members of the public.](../external-collaboration/#the-public)                                                                                                                                                                                      |
+| `wg-`         | [Working groups]({{site.baseurl}}/working-groups-and-guilds-101/#working-groups)                                                                                                                                                                                           |
+| `g-`          | [Guilds]({{site.baseurl}}/working-groups-and-guilds-101/#guilds)                                                                                                                                                                                                           |
+| `c-`          | [18F Collectives]({{site.baseurl}}/working-groups-and-guilds-101/#18f-collectives)                                                                                                                                                                                         |
 
-- Channels that begin with `wg-` are for working groups.
-- Channels that begin with `g-` are for guilds.
-- Channels that begin with `c-` are for 18F communities.
-
-Feel free to join any of these practice-focused groups even if you are not actively part of the group and are just interested.
+Feel free to join any of these channels even if you are not actively part of the group and are just interested.
 
 ## When to use @channel and @here
 
