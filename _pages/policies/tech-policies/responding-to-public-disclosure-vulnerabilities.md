@@ -70,6 +70,8 @@ Valid vulnerabilities need to be resolved in the following timeline:
 
 Source: [GSA Vulnerability Management Process guide](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/it-security-procedural-guides), Appendix B. These values will also appear in the [RA-5(d)](https://nvd.nist.gov/800-53/Rev4/control/RA-5#Rev4Statements) control of your System Security Plan (SSP).
 
+Set an email alert via Google Calendar at the 77-day (11 weeks) mark from the date the reporter sent the email, so that, if no response or resolution has yet been made, the team has about 2 weeks to bring the issue to resolution and close out the issue with the reporter.
+
 ### Reports for non-TTS Systems
 
 If you know the alert applies to a system TTS doesn't have responsibility over, please either submit the report to [US-CERT](https://vulcoord.cert.org/VulReport/) if there is helpful context you can add to it, or direct the public contact to submit the report to [US-CERT](https://vulcoord.cert.org/VulReport/) themselves.
