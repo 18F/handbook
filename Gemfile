@@ -10,7 +10,7 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
 
 group :development do
-  gem 'html-proofer'
+  gem 'html-proofer', '>= 3.16.0'
   gem 'rerun'
   gem 'test-unit'
 end
