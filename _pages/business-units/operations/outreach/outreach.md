@@ -44,3 +44,22 @@ You can also reach the whole team at tts-outreach@gsa.gov.
 - [#tweet-this](https://gsa-tts.slack.com/archives/tweet-this) is where we coordinate activity for TTS Twitter accounts. Hop in here if you’d like an official account to tweet something or respond to a tweet.
 - [#press](https://gsa-tts.slack.com/archives/press) is for collecting press mentions of TTS. If you see something inaccurate in a story posted in press, you can contact the Outreach team to see if we can get it corrected.
 - [#training-conferences](https://gsa-tts.slack.com/archives/training-conferences): This channel is not managed by the Outreach team, but this is where you go if you’ve been asked to speak at an event, or if you want to speak at an event and may need approval. Outreach can help you with content for a talk, but the Governance and Compliance team handles approvals.
+
+## How to make TTS-wide announcements
+
+You might have a need to get a message to all of TTS, such as:
+
+- Major events impacting all of TTS or a TTS Business unit
+- Required trainings
+- Necessary security and compliance actions
+- Policy changes or reminders
+- All-team events
+- Senior management team meeting notes
+- Changes or actions that impact the entire team
+
+To send, **reach out to us in [#outreach](https://gsa-tts.slack.com/archives/news)**. We will:
+
+1. Copyedit the message
+1. Get approvals (if needed)
+1. Email to all of TTS
+1. Cross-post in [#news](https://gsa-tts.slack.com/archives/news)
