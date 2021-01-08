@@ -222,7 +222,7 @@ primary:
               - text: Covid leave guidance
                 url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
                 internal: false
-              - text: Daily Check-in
+              - text: Daily Checkin
                 url: daily-checkin/
                 internal: true
               - text: Emergency procedures
