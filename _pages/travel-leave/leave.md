@@ -155,7 +155,28 @@ Parents can use any combination of sick leave, annual leave, and/or leave withou
 
 For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) chanel
 
-### Family and Medical Leave Act
+#### Federal Employee Paid Leave Act (Paid Parental Leave)
+The Federal Employee Paid Leave Act (FEPLA) gives workers access to up to 12 weeks of paid time off for the birth, adoption or placement of a new child. 
+Paid Parental Leave (PPL) provides that an employee may substitute 12 administrative workweeks (480 hours) of paid parental leave for Family and Medical Leave Act leave. Employees need to fill out the:
+
+1. [Paid Parental Leave Request form](https://drive.google.com/file/d/1rifxKW_H5D8cgksm-w6EUgfNvNeGGVf8/view?usp=sharing)
+2. [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1Q3AMW_gnwWTy2IRR4l6gmaV7Zkvq7InJ/view?usp=sharing), and
+3. Either a completed [WH-380-E](https://drive.google.com/file/d/1rifxKW_H5D8cgksm-w6EUgfNvNeGGVf8/view?usp=sharing), or a medical certificate from their provider
+
+The three forms should be returned to the employee's [servicing ER/LR Specialist](https://docs.google.com/spreadsheets/d/1w1K15Un1hEzvFifncLD1Oa_goqOrwuUY4YzAx6LVjOI/edit?usp=sharing]. That Specialist can coordinate with the supervisor and recommend approval or not of the PPL. 
+
+Please note: The Paid Parental Leave (PPL) code is not yet available in HR Links. Therefore, in order to ensure an employee is paid during their time off, they should substitute their accrued annual leave or sick leave into FMLA leave by using the following options in HR Links: 
+  - Annual Leave - FMLA- Employee
+  - Sick Leave - FMLA- Employee
+  - Leave Without Pay - FMLA- Employee
+  
+Once the PPL codes are available in HR Links, HR will notify the employee. Their timekeeper and the employee/supervisor can amend the time cards retroactively to apply Paid Parental Leave to the employee's time card(s), and they will be credited for the leave they have taken under PPL-FMLA.  FMLA must be in the initial leave category requested, or else PPL cannot be retroactively applied to this leave. 
+
+ *An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period.  If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement.*
+ 
+Annual Leave + Sick Leave: Employees are entitled to use their earned annual and sick leave for parental/maternity leave reasons.  This would be regular Annual Leave and regular Sick Leave.  Please note, though, that if these regular leave options are used (without the FMLA extension), the PPL cannot be retroactively applied towards the parental/maternity leave.
+
+#### Family and Medical Leave Act
 The Family and Medical Leave Act (FMLA) allows most federal employees to take up to 12 weeks of **unpaid** leave per 12-month period for: the birth or care of a child, an adoption or placement of child for foster care, the care of a spouse/son/daughter/parent with a serious health condition, a serious health condition of an employee, or a qualifying exigency from spouse, child or parent of an employee on covered active duty in the Armed Forces. An employee is entitled to taking FMLA when they have been an employee of the federal government for **at least 12 months.**
 
 Former members of the military and/or a military service academy can receive credit for their time. They’ll need to fill out form [FERS 3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf). An employee who has transferred from another agency can use their time to count toward the 12-month restriction.
