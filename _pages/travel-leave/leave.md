@@ -155,7 +155,8 @@ Parents can use any combination of sick leave, annual leave, and/or leave withou
 
 For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) chanel
 
-#### Federal Employee Paid Leave Act (Paid Parental Leave)
+### Federal Employee Paid Leave Act (Paid Parental Leave)
+
 The Federal Employee Paid Leave Act (FEPLA) gives workers access to up to 12 weeks of paid time off for the birth, adoption or placement of a new child. 
 Paid Parental Leave (PPL) provides that an employee may substitute 12 administrative workweeks (480 hours) of paid parental leave for Family and Medical Leave Act leave. Employees need to fill out the:
 
@@ -172,18 +173,29 @@ Please note: The Paid Parental Leave (PPL) code is not yet available in HR Links
   
 Once the PPL codes are available in HR Links, HR will notify the employee. Their timekeeper and the employee/supervisor can amend the time cards retroactively to apply Paid Parental Leave to the employee's time card(s), and they will be credited for the leave they have taken under PPL-FMLA.  FMLA must be in the initial leave category requested, or else PPL cannot be retroactively applied to this leave. 
 
- *An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period.  If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement.*
+*An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period.  If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement.*
  
 Annual Leave + Sick Leave: Employees are entitled to use their earned annual and sick leave for parental/maternity leave reasons.  This would be regular Annual Leave and regular Sick Leave.  Please note, though, that if these regular leave options are used (without the FMLA extension), the PPL cannot be retroactively applied towards the parental/maternity leave.
 
-#### Family and Medical Leave Act
-The Family and Medical Leave Act (FMLA) allows most federal employees to take up to 12 weeks of **unpaid** leave per 12-month period for: the birth or care of a child, an adoption or placement of child for foster care, the care of a spouse/son/daughter/parent with a serious health condition, a serious health condition of an employee, or a qualifying exigency from spouse, child or parent of an employee on covered active duty in the Armed Forces. An employee is entitled to taking FMLA when they have been an employee of the federal government for **at least 12 months.**
+### Family and Medical Leave Act
+
+The Family and Medical Leave Act (FMLA) allows most federal employees to take up to 12 weeks of **unpaid** leave per 12-month period for the following:
+
+* The birth or care of a child
+* An adoption or placement of child for foster care
+* The care of a spouse/son/daughter/parent with a serious health condition
+* A serious health condition of an employee
+* A qualifying exigency from spouse, child or parent of an employee on covered active duty in the Armed Forces
+
+An employee is entitled to taking FMLA when they have been an employee of the federal government for **at least 12 months.**
 
 Former members of the military and/or a military service academy can receive credit for their time. They’ll need to fill out form [FERS 3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf). An employee who has transferred from another agency can use their time to count toward the 12-month restriction.
 
 The Department of Labor has a [detailed guide to FMLA](https://www.dol.gov/agencies/whd/fmla).
 
-For complete details, see [this recent guidance](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
+For complete details, see [this recent guidance](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). 
+
+For a human, readable summary:
 
 Both parents may use their annual or sick leave after the birth of a child, for the period of the mother’s incapacitation. The length of the medically necessary leave is ultimately determined by a doctor’s note, but six weeks for a vaginal birth and eight weeks for a cesarean birth is common. After parents exhaust their annual and sick leave, they can run a sick leave deficit of up to the amount they will accrue during their tenure.
 
@@ -193,7 +205,7 @@ If you'd like TTS to send out an email notifying your colleagues about your requ
 
 In addition to the paid leave described above, employees can take leave without pay (under the Family and Medical Leave Act (FMLA)) for up to 12 weeks per calendar year. Once you've been an employee of the federal government for at least 12 months, you're eligible to take FMLA, provided your supervisor approves it. You can take this leave within one year of the birth of your child. You do not need to take it all at once. Employees are eligible to take intermittent leave within the first year of their child’s birth. For instance, you could take unpaid leave on Tuesdays and Thursdays for several weeks in a row.
 
-### Donating leave
+## Donating leave
 
 Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) (VLTP), a covered employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave. If you wish to donate annual leave, you will need to use MAX.gov to access the [VLTP](https://vltp.gsa.gov/) system following the steps below:
 
