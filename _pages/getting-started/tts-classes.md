@@ -8,7 +8,7 @@ redirect_from:
   - /onboarding-schedule/
 ---
 
-We’ve put together a curriculum of classes we encourage you to take during your [first 90 days](https://handbook.tts.gsa.gov/getting-started/).
+We’ve put together a curriculum of classes we encourage you to take during your [first 90 days]({{site.baseurl}}/getting-started/).
 
 These classes will expose you to a variety of aspects of our organization, introduce you to the people involved, and create opportunities to ask questions.
 
@@ -53,7 +53,7 @@ Name | Description | Format | Guidance
 **Intro to the Diversity Guild** | Introduction to the Diversity Guild (#g-diversity) [Intro to the Diversity Guild deck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit#slide=id.g86f01f88a5_1_0) | Video Conference | **Required**
 Accessibility 101 | Introduction to accessibility as it relates to our work, hosted by the Accessibility Guild (#g-accessibility) | Video Conference | Recommended
 Human-Centered Design (HCD) & Agile | Discussion of our core values: Human-Centered Design (HCD) and Agile, and how they impact our day-to-day work [HCD & Agile script](https://docs.google.com/document/d/1B2epdYJPdVDvxQ3aYh1R7He7UaGrKsul3oJXK0z3Fv0/edit) | Coffee | Recommended
-Working Groups and Guilds | Introduction to Working Groups and Guilds, how to join, and ways to get involved [Working Groups and Guilds page](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/) | Slack | Recommended
+Working Groups and Guilds | Introduction to Working Groups and Guilds, how to join, and ways to get involved [Working Groups and Guilds page]({{site.baseurl}}/working-groups-and-guilds-101/) | Slack | Recommended
 
 ### Working in the Government
 
@@ -67,12 +67,12 @@ Name | Description | Format | Guidance
 Name | Description | Format | Guidance
 -------|-------|-------|-------
 **Day 2 @ TTS** | Organizational information and account set-up [Day 2 @ TTS deck](https://docs.google.com/presentation/d/16RLmVDueUUJ4NFgc4hYBWCQoeufIQrRVK11x1EaJFNg/edit#slide=id.p) | Video Conference | **Required**
-**Tech Portfolio @ TTS** | Introduction to the Tech Portfolio team, important compliance topics, and technology best practices at TTS [Tech Portfolio @ TTS page](https://handbook.18f.gov/tech-portfolio/)<br/><br/>[Mandatory – take this quiz upon completion](https://docs.google.com/forms/d/e/1FAIpQLSeyTWbNU8_cdeBJVZXQG-aY8ciqgZVVvUopU9XOkCpQSUmiJA/viewform?usp=sf_link) | Self-guided | **Required<br/><br/>+ a mandatory confirmation survey**
-Travel 101 | Intro to setting up a travel account, booking travel, and getting reimbursed [Travel 101 page](https://handbook.tts.gsa.gov/travel-101/) | Self-guided | Recommended
-Tock 101 | Overview of the Tock system and how to track work time [Tock 101 page](https://handbook.18f.gov/tock/) | Slack | Recommended
-Handbook 101 | Overview of how to navigate the handbook and make updates (create pull requests) [TTS Handbook](http://handbook.18f.gov) | Video Conference | Recommended
-GSA Tools and Equipment | Overview of the tools, requests, and support for:<br/>[GSA Operational Tools page](https://handbook.tts.gsa.gov/gsa-internal-tools/)<br/>[Equipment page](https://handbook.tts.gsa.gov/equipment/) | Self-guided | Recommended
-Collaboration Tools @ TTS | Overview of the tools we typically use for project work across [TTS Collaboration Tools @ TTS page](https://handbook.tts.gsa.gov/collaboration-tools/) | Self-guided | As Needed
+**Tech Portfolio @ TTS** | Introduction to the Tech Portfolio team, important compliance topics, and technology best practices at TTS [Tech Portfolio @ TTS page]({{site.baseurl}}/tech-portfolio/)<br/><br/>[Mandatory – take this quiz upon completion](https://docs.google.com/forms/d/e/1FAIpQLSeyTWbNU8_cdeBJVZXQG-aY8ciqgZVVvUopU9XOkCpQSUmiJA/viewform?usp=sf_link) | Self-guided | **Required<br/><br/>+ a mandatory confirmation survey**
+Travel 101 | Intro to setting up a travel account, booking travel, and getting reimbursed [Travel 101 page]({{site.baseurl}}/travel-101/) | Self-guided | Recommended
+Tock 101 | Overview of the Tock system and how to track work time [Tock 101 page]({{site.baseurl}}/tock/) | Slack | Recommended
+Handbook 101 | Overview of how to navigate the handbook and make updates (create pull requests) [TTS Handbook](http://handbook.tts.gsa.gov) | Video Conference | Recommended
+GSA Tools and Equipment | Overview of the tools, requests, and support for:<br/>[GSA Operational Tools page]({{site.baseurl}}/gsa-internal-tools/)<br/>[Equipment page]({{site.baseurl}}/equipment/) | Self-guided | Recommended
+Collaboration Tools @ TTS | Overview of the tools we typically use for project work across [TTS Collaboration Tools @ TTS page]({{site.baseurl}}/collaboration-tools/) | Self-guided | As Needed
 DocuSign Training | Overview of how to use DocuSign [DocuSign Training deck](https://docs.google.com/presentation/d/1ZbilFPz29utR4GUu3sHfMR_yeu3NYT6rnRr_vFLaJf4/edit?usp=sharing) | Self-guided | As Needed
 
 ### Divisions of TTS
@@ -85,7 +85,7 @@ Federalist 101 | Introduction to Federalist, a service that makes it easy to lau
 
 ### Online Learning University (OLU) Mandatory Training
 
-See our [Online Learning University handbook page](https://handbook.tts.gsa.gov/olu/) for a list of mandatory annual training certifications.
+See our [Online Learning University handbook page]({{site.baseurl}}/olu/) for a list of mandatory annual training certifications.
 
 We suggest logging in to OLU monthly to check whether you have any mandatory or suggested classes assigned to you. Please be aware that mandatory classes will have ‘due dates’ and must be completed on time.
 
@@ -97,7 +97,7 @@ Name | Description | Format | Guidance
 [Acquisition 101](https://drive.google.com/file/d/1r0TlwEF-Z1Ok0r2YigSa2VLbPSnZfYhG/view?t=23m09s) | Acquisition at 18F: history, crash course, why it matters to you (18f-specific) | Self-guided video | As needed
 [Vendor Transition and Sustainability planning](https://drive.google.com/file/d/1dKlUVH7aVCyu7TI2oo413-CT2z4yln3J/view?t=23m30s) | Lessons learned from vendor transitions and planning for sustainability throughout a project. (18f-specific) | Self-guided video | As needed
 [How Staffing Works Now](https://drive.google.com/file/d/13j_wFY7ewvyEoPfK4p0gr9L2Bv1Q65yD/view?t=36m34s) | A primer on how people get staffed to partner projects.  (18f-specific) | Self-guided video | As needed
- 
+
 
 ## Calendar
 

@@ -16,16 +16,17 @@ To learn about the different hiring authorities we use please visit our [hiring 
 
 ## Hiring Manager Guide
 
-Hiring Managers are crucial to filling workforce needs within TTS and to ensuring that diversity, equity and inclusion are top of mind throughout the hiring process.  A [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit) was created to outline the hiring process from role prioritization through onboarding, with information from the Talent team as well as tips and best practices from seasoned TTS hiring managers. 
+Hiring Managers are crucial to filling workforce needs within TTS and to ensuring that diversity, equity and inclusion are top of mind throughout the hiring process. A [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit) was created to outline the hiring process from role prioritization through onboarding, with information from the Talent team as well as tips and best practices from seasoned TTS hiring managers.
 
 ## Interviewer Resources
 
 Interviewers play a fundamental role in vetting incoming talent, as well as creating a positive experience for our candidates. Moreover, they are critical in ensuring a fair and equitable hiring experience.
 
-Below are some resources that cover expectations around interviews, best practices for remote interviewing and slack usage, and tips for recognizing and correcting for unconscious bias. 
+Below are some resources that cover expectations around interviews, best practices for remote interviewing and slack usage, and tips for recognizing and correcting for unconscious bias.
+
 - [TTS Interviewer Training slides](https://docs.google.com/presentation/d/1IvFawhU2lUPIQexUgCgCcRgxjaD5D9BGnRJYkAyM3JY/edit#slide=id.g6d9ab3b2cf_0_404)
 - [Interviewing for TTS 101](https://docs.google.com/document/d/13MdNbFeWgKWMycdlAhkNSG6Eet3_NAVETnpuIweuMrU/edit#heading=h.arj274vgsryn)
-- [Fair & Equitable Hiring Practices](https://handbook.tts.gsa.gov/fair-and-equitable-hiring-practices/)
+- [Fair & Equitable Hiring Practices]({{site.baseurl}}/fair-and-equitable-hiring-practices/)
 
 ## Types of hiring actions at TTS
 
@@ -34,11 +35,12 @@ Below are some resources that cover expectations around interviews, best practic
 For more information on hiring via the Competitive Service (Career) Merit Promotion Process or the Excepted Service version of the Merit Promotion Process, please visit the [Promotions]({{site.baseurl}}/promotions/) page of the handbook.
 
 ### Excepted Service or Competitive Service Hiring Actions filled via open and public competition
+
 These actions are the most common type of actions across TTS. Information about the process related to these actions can be found in the guide to the [Talent Acquisition Work System](https://docs.google.com/document/d/1LBEpOnJWiSk-4bQ23lGkPPGzAMPWko8Zr2PtFJ9t29w/edit)
 
 ### TTS internal competitions and developmental opportunities
 
-The following explains the process for initiating TTS internal competitions and developmental opportunities. All opportunities within TTS, including details, must be openly competed. 
+The following explains the process for initiating TTS internal competitions and developmental opportunities. All opportunities within TTS, including details, must be openly competed.
 
 For information specific to initiating an internal or external detail once a selection has been made after competition, please review the [details page]({{site.baseurl}}/assignee-detail) of the handbook.
 
@@ -60,21 +62,20 @@ Talent will assist with the following:
 
 - When conducting interviews, you should build a short [interview guide](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit#heading=h.6jehpcfzn58u) to help ensure that you are covering all of the areas necessary for the role and also to ensure a consistent candidate experience.
 - When selecting an internal candidate you will need to have a discussion with their current supervisor regarding the following:
-    - If they will allow their employee to leave the team (they are not obligated to say yes)
-    - If yes, what will the release date be (note that the effective date must fall on a [payroll period](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars))
-    - Be aware that the candidate may be on a project and have to finish out/reassign their work so may not be able to start on your team as soon as you’d like.  It is up to their current supervisor when they are willing to let them move to your team.
+  - If they will allow their employee to leave the team (they are not obligated to say yes)
+  - If yes, what will the release date be (note that the effective date must fall on a [payroll period](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars))
+  - Be aware that the candidate may be on a project and have to finish out/reassign their work so may not be able to start on your team as soon as you’d like. It is up to their current supervisor when they are willing to let them move to your team.
 - Before moving forward with a selection, Talent recommends conducting internal reference checks. Feel free to refer to [this template](https://docs.google.com/document/d/1QL6711NSv3nsIlN_3Rc7DFk8Apubyy8ugQHAAEWRWgc/edit) for guidance.
-
 
 #### Job prep
 
 Use the following templates to prepare the posting (make sure to make a copy of each template):
 
-  - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing)
-  - [TTSJobs Direct Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
-  - [TTSJobs Application & Nomination Form Template](https://docs.google.com/forms/d/1C8OVwj-yvuHicDwPbtFTLxPLn8zZA6WK6HC-0uIzHwk/edit)
-  - [Template - TTS Interview Guide](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit#heading=h.6jehpcfzn58u)
-    - An interview guide for the role being advertised may alredy exist if the role was previously posted externally.  Reach out to jointts@gsa.gov and they can check for you.
+- [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit?usp=sharing)
+- [TTSJobs Direct Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
+- [TTSJobs Application & Nomination Form Template](https://docs.google.com/forms/d/1C8OVwj-yvuHicDwPbtFTLxPLn8zZA6WK6HC-0uIzHwk/edit)
+- [Template - TTS Interview Guide](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit#heading=h.6jehpcfzn58u)
+  - An interview guide for the role being advertised may alredy exist if the role was previously posted externally. Reach out to jointts@gsa.gov and they can check for you.
 
 Once the TTSJobs Announcement is ready, Talent will:
 
@@ -108,7 +109,6 @@ When the team has determined who they would like to place in the role, they must
 It is the responsibility of the hiring manager to provide applications with the applicable feedback, whether that is letting the applicant know they are moving forward in the process, that they have been selected or that they have been rejected (including providing feedback why if applicable). Talent will not notify nor offer feedback to applicants.
 
 **If you are advertising a detail:** the action can only be submitted for a time period of no more than 120 days. The detail can then be extended for another 120 days if the hiring manager and the employee’s supervisor agree to extend.
-
 
 ### TTS Hiring - Prioritization process
 

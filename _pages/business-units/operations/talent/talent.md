@@ -53,7 +53,7 @@ To see what positions we're hiring for, take a look at our [Join TTS](https://jo
 
 External candidates should apply to open positions [here](https://join.tts.gsa.gov/).
 
-Internal candidates can find opportunities via #tts-jobs in Slack or in the Handbook on the [Announcements page](https://handbook.tts.gsa.gov/ttsjobs/#announcements).
+Internal candidates can find opportunities via #tts-jobs in Slack or in the Handbook on the [Announcements page]({{site.baseurl}}/ttsjobs/#announcements).
 
 ## How to get in touch
 
