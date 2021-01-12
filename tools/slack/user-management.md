@@ -12,7 +12,7 @@ This page overviews the administrative tasks done to manage our Slack account at
 
 ## Adding TTS staff
 
-Fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link).
+The Talent team will fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link) for people when they join TTS.
 
 ## Offboarding
 
