@@ -72,7 +72,7 @@ The automated email that you will receive outlines the step(s) below that you wi
   - For IDP information and instructions on how to create one, head to the [IDP handbook page]({{site.baseurl}}/idp/)
 - After your IDP is approved by your supervisor, you can then generate a Standard Form 182 (SF-182) in Salesforce.
 - Once you have generated an SF-182, you will select approvers based on the email instructions that you've sent.  
-    - Most trainings require **supervisor**, then **Keith Wilson** as Approver 1, then your **business unit lead** as Approver 2, and then your TTS Assistant Commissioner, **Dominic Sale** or **Harry Lee**, as Approver 4.
+    - Most trainings require **supervisor**, then **Keith Wilson** as Approver 1, then your **business unit lead** as Approver 2, and then your TTS Assistant Commissioner, **Ashley Mahan** or **Harry Lee**, as Approver 3.
     - Most events require **supervisor**, then **Keith Wilson** as Approver 1.
 - You will add **Djemila McCray** as your purchase card holder, then hit the 'submit for approval' button which is located at the bottom of the screen of the SF-182 form.
 
