@@ -52,4 +52,4 @@ Some channels may have particular guidance for getting help, which you can usual
 
 ## Security
 
-[Slack is FedRAMP Authorized.](https://marketplace.fedramp.gov/#/product/slack?sort=productName&productNameSearch=slack)
+GSA's Slack Enterprise Grid is authorized at the [Moderate](https://atos.open-control.org/categorization/#selecting-the-overall-impact-level) level via a [FedRAMP authorization](https://marketplace.fedramp.gov/#/product/slack?sort=productName&productNameSearch=slack).
