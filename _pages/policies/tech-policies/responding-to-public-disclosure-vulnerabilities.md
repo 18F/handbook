@@ -32,7 +32,7 @@ This document outlines TTS' Vulnerability Disclosure triage process, and provide
   # What TTS Does
 
 1. [Route the vulnerability](#route-the-vulnerability)
-1. [Communicate with reporter](#communicate-with-reporter)
+1. [Communicate with reporter](#communicate-with-vulnerability-reporter)
 1. [Award the bounty](#award-the-bounty)
 1. [Remediate](#remediate)
 1. [Close Report](#close-report)
@@ -137,7 +137,7 @@ Each metric above receives a single score on potential impact from the following
 | High     | 7.0 - 8.9  |
 | Critical | 9.0 - 10.0 |
 
-A score of `none` means that the report falls outside of scope, or is negligible, or doesn't contain enough information. If the report is `none`, [jump to the response step](#reply-to-the-reporter).
+A score of `none` means that the report falls outside of scope, or is negligible, or doesn't contain enough information. If the report is `none`, [jump to the response step](#close-report).
 
 ## Resolution Timeline
 
