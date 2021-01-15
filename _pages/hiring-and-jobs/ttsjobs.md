@@ -44,6 +44,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 
 ### Internal only opportunities
+- [Biz-Ops Agreements Lead](https://docs.google.com/document/d/1GwfFPiuhYg3-rP5Q8hjvXPdALXKvdc3X7RQQDFaMQMc/edit) - open Friday, January 15th through Friday, February 5th
 
 
 ## Opportunities with partners
