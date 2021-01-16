@@ -139,6 +139,19 @@ Each metric above receives a single score on potential impact from the following
 
 A score of `none` means that the report falls outside of scope, or is negligible, or doesn't contain enough information. If the report is `none`, [jump to the response step](#close-report).
 
+|Severity¹ |	Initial²|	Standard³	|Login.gov Only|
+| -------- | -------- | -------- | -------- |
+|Critical |	$2,000 |	$5,000 |	$5,000|
+|High |	$750|	$2,000|	$2,000|
+|Medium	|$300	|$750|	$300|
+|Low|	$150|	$250|	$150|
+
+¹ By default, Severity will be assessed according to CVSS v3.
+
+² The initial bounty amounts for newly included services targets the 75th percentile award level based on current HackerOne platform data.
+
+³ Services that have been in scope for a reasonable period of time graduate to higher award levels.
+
 ## Resolution Timeline
 
 

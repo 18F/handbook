@@ -17,8 +17,8 @@ primary:
         url: code-of-conduct/
         internal: true
       - text: Org chart
-        url: org-chart/
-        internal: true
+        url: https://docs.google.com/presentation/d/1otRbhoGRN4LfDnWpN6zZ0ymjPpTBW3t79pIiuBREkCY/edit
+        internal: false
       - text: 2020 Strategy
         url: https://docs.google.com/document/d/1uidmcUfdxOeCt23nJ4VI1M10HV3W44ImMPLgwbx1QJM/edit
         internal: false
