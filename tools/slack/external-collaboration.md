@@ -39,9 +39,13 @@ You may want to invite partners, contractors, etc. to specific project channels 
    - Through Slack Connect (preferred; see below)
    - Individually, through the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform)
 
-#### Slack Connect
+#### Shared channels
 
-Slack offers [this mechanism](https://slack.com/help/articles/115004151203-Guide-to-sharing-channels-with-external-organizations) to connect channels between different workspaces. If our partner has their own Slack workspace, this is the preferred method for collaborating with them from TTS Slack, since:
+Slack offers a couple of mechanisms for sharing channels with partners that use Slack:
+
+[**Multi-workspace channels**](https://slack.com/help/articles/115001399587-Create-multi-workspace-channels-on-Enterprise-Grid) can be used between [workspaces in the GSA Slack Enterprise Grid](https://gsa.enterprise.slack.com/).
+
+Use [**Slack Connect**](https://slack.com/help/articles/115004151203-Guide-to-sharing-channels-with-external-organizations) to share channels with partners outside of GSA. This is the preferred over adding them as Guests, since:
 
 - It offloads user management to the partner
 - The partners can use their existing Slack accounts
