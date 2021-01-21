@@ -50,7 +50,7 @@ You must be on the GSA wireless network or on the Windows virtual desktop (acces
 
 ### Entering additional time
   1. Click on the **Employee Time Requests** tile
-  1. Select **Additional Time Requests** 
+  1. Select **Additional Time Requests**
   1. Click time request type (**Overtime**, **Comp Time**, or **Credit Time**)
   1. Select **Additional Time Type**
   1. Enter **Start Date** and **End Date**
@@ -91,7 +91,7 @@ Before taking leave, be sure to:
 - Mark your out of office time on your calendar and any applicable team or project calendars. Remember to set the permissions of the event to "public" so that people can see it's OOO time, rather than just seeing "busy."
 - Tell team members or partners via Slack or email, and make sure work is covered
 - Set up an email autoresponder as appropriate. This should include both when you’ll be back and a point of contact/team email for while you’re out. For example: `I am out of the office on Wednesday January 2nd and will respond to your request when I return on Thursday the 3rd. If you need immediate assistance please email 18F-PartnerSolutions@gsa.gov and your request will be directed to the appropriate party.`
-- Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per https://handbook.tts.gsa.gov/leave/#returning-from-leave” on [date you return]`
+- Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per {{site.baseurl}}/leave/#returning-from-leave” on [date you return]`
 
 - 18F team members should also:
     - Submit [correct Tock entries]({{site.baseurl}}/tock/#tocking-for-out-of-office-time)
@@ -161,24 +161,24 @@ For more assistance with parental leave, reach out in the [#parental-leave](http
 
 ### Federal Employee Paid Leave Act (Paid Parental Leave)
 
-The Federal Employee Paid Leave Act (FEPLA) gives workers access to up to 12 weeks of paid time off for the birth, adoption or placement of a new child. 
+The Federal Employee Paid Leave Act (FEPLA) gives workers access to up to 12 weeks of paid time off for the birth, adoption or placement of a new child.
 Paid Parental Leave (PPL) provides that an employee may substitute 12 administrative workweeks (480 hours) of paid parental leave for Family and Medical Leave Act leave. Employees need to fill out the:
 
 1. [Paid Parental Leave Request form](https://drive.google.com/file/d/1rifxKW_H5D8cgksm-w6EUgfNvNeGGVf8/view?usp=sharing)
 2. [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1Q3AMW_gnwWTy2IRR4l6gmaV7Zkvq7InJ/view?usp=sharing), and
 3. Either a completed [WH-380-E](https://drive.google.com/file/d/1rifxKW_H5D8cgksm-w6EUgfNvNeGGVf8/view?usp=sharing), or a medical certificate from their provider
 
-The three forms should be returned to the employee's [servicing ER/LR Specialist](https://docs.google.com/spreadsheets/d/1w1K15Un1hEzvFifncLD1Oa_goqOrwuUY4YzAx6LVjOI/edit?usp=sharing]. That Specialist can coordinate with the supervisor and recommend approval or not of the PPL. 
+The three forms should be returned to the employee's [servicing ER/LR Specialist](https://docs.google.com/spreadsheets/d/1w1K15Un1hEzvFifncLD1Oa_goqOrwuUY4YzAx6LVjOI/edit?usp=sharing]. That Specialist can coordinate with the supervisor and recommend approval or not of the PPL.
 
-Please note: The Paid Parental Leave (PPL) code is not yet available in HR Links. Therefore, in order to ensure an employee is paid during their time off, they should substitute their accrued annual leave or sick leave into FMLA leave by using the following options in HR Links: 
+Please note: The Paid Parental Leave (PPL) code is not yet available in HR Links. Therefore, in order to ensure an employee is paid during their time off, they should substitute their accrued annual leave or sick leave into FMLA leave by using the following options in HR Links:
   - Annual Leave - FMLA- Employee
   - Sick Leave - FMLA- Employee
   - Leave Without Pay - FMLA- Employee
-  
-Once the PPL codes are available in HR Links, HR will notify the employee. Their timekeeper and the employee/supervisor can amend the time cards retroactively to apply Paid Parental Leave to the employee's time card(s), and they will be credited for the leave they have taken under PPL-FMLA.  FMLA must be in the initial leave category requested, or else PPL cannot be retroactively applied to this leave. 
+
+Once the PPL codes are available in HR Links, HR will notify the employee. Their timekeeper and the employee/supervisor can amend the time cards retroactively to apply Paid Parental Leave to the employee's time card(s), and they will be credited for the leave they have taken under PPL-FMLA.  FMLA must be in the initial leave category requested, or else PPL cannot be retroactively applied to this leave.
 
 *An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period.  If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement.*
- 
+
 Annual Leave + Sick Leave: Employees are entitled to use their earned annual and sick leave for parental/maternity leave reasons.  This would be regular Annual Leave and regular Sick Leave.  Please note, though, that if these regular leave options are used (without the FMLA extension), the PPL cannot be retroactively applied towards the parental/maternity leave.
 
 ### Family and Medical Leave Act
@@ -197,7 +197,7 @@ Former members of the military and/or a military service academy can receive cre
 
 The Department of Labor has a [detailed guide to FMLA](https://www.dol.gov/agencies/whd/fmla).
 
-For complete details, see [this recent guidance](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). 
+For complete details, see [this recent guidance](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf).
 
 For a human, readable summary:
 
@@ -225,7 +225,7 @@ If you are a registered MAX.gov user:
 
 If you have any questions, contact Mei Goon (mei.goon@gsa.gov) in the Office of Human Resources Management. Also, don’t hesitate to ask in #parental-leave in Slack.
 
-If the system gives you an error, try submitting through the [Citrix VDI](https://handbook.tts.gsa.gov/virtual-desktop/#logging-into-the-citrix-vdi) using Internet Explorer.
+If the system gives you an error, try submitting through the [Citrix VDI]({{site.baseurl}}/virtual-desktop/#logging-into-the-citrix-vdi) using Internet Explorer.
 
 If the system is down, you can submit donation requests directly to Lakita Rivero (lakita.rivero@gsa.gov).
 
