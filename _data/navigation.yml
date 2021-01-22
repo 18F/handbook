@@ -520,6 +520,9 @@ primary:
           - text: Mural (collaborative whiteboard tool)
             url: tools/mural/
             internal: true
+          - text: Smartsheet
+            url: tools/smartsheet/
+            internal: true
           - text: Sketch
             url: sketch/
             internal: true
