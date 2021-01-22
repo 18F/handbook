@@ -40,7 +40,7 @@ If a DHA role was posted on USAJobs within the last 120 days, resumes can contin
 ## Excepted Service 
 ### Schedule A(r)
 The Schedule A(r) hiring authority is used for term appointments between one and four years. Employees who are appointed under Excepted Service term appointments do not earn competitive status, and the roles do not have to be posted on USAJobs. 
-There are two ways we hire using Schedule A(r): via posting a job on [JoinTTS](https://join.tts.gsa.gov/)or via [Reserved Hire](https://drive.google.com/file/d/0B4J4Dpr2HVDsX2RKMjhtU1NuU2ZEUWoxU0NJWkhLbFVXejlv/view?usp=sharing).
+There are two ways we hire using Schedule A(r): via posting a job on [JoinTTS](https://join.tts.gsa.gov/) or via [Reserved Hire](https://drive.google.com/file/d/0B4J4Dpr2HVDsX2RKMjhtU1NuU2ZEUWoxU0NJWkhLbFVXejlv/view?usp=sharing).
 
 ### Schedule A(u)
 This hiring mechanism is used for hiring people with severe physical disabilities, psychiatric disabilities, and intellectual disabilities. Schedule A(u) can be used to hire employees for term or permanent appointments. Employees qualify for conversion to competitive status after two years of satisfactory service. Read more about the [Schedule A(u) Hiring Authority](https://docs.google.com/document/d/1WnvPtg6QxcrX8UQZWBZhGiRfxWphl7Nd7oy5gPXrVaQ/edit?usp=sharing).
