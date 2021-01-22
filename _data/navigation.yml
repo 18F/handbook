@@ -502,6 +502,9 @@ primary:
           - text: Adobe Acrobat and Creative Cloud (CC)
             url: adobe/
             internal: true
+          - text: Airtable
+            url: tools/airtable/
+            internal: true
           - text: Analytics
             url: analytics/
             internal: true
@@ -519,6 +522,9 @@ primary:
             internal: true
           - text: Mural (collaborative whiteboard tool)
             url: tools/mural/
+            internal: true
+          - text: Smartsheet
+            url: tools/smartsheet/
             internal: true
           - text: Sketch
             url: sketch/
