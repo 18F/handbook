@@ -10,7 +10,7 @@ questions:
   - PeopleOperations@gsa.gov
 ---
 
-*This section is about details to or from another GSA office. If you are looking for [Details within TTS]({{site.baseurl}}/assignee-detail/) or details to/from another agency, please review those respective Handbook pages.*
+*This section is about details to or from another GSA office. If you are looking for [Details within TTS]({{site.baseurl}}/assignee-detail/) or [details to/from another agency](({{site.baseurl}}/external-details/), please review those respective Handbook pages.*
 
 GSA manages intra-agency details via the GSA Opportunity Network. GSA employees can view the [Open Opportunities listings](https://docs.google.com/spreadsheets/d/1tvUDjm9bV42kHF7M7C7ZqA1PnI5qICnI4WBqZOMvDbU/edit) at any time and can subscribe to receive weekly emails about new and existing opportunities by going to the [GSA InSite Email Updates Subscriber Page](https://public.govdelivery.com/accounts/USGSAIN/subscriber/topics). Review GSA InSite for [more information about the GSA Opportunity Network](https://insite.gsa.gov/employee-resources/training-and-development/opportunity-network).
 
