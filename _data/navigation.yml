@@ -502,6 +502,9 @@ primary:
           - text: Adobe Acrobat and Creative Cloud (CC)
             url: adobe/
             internal: true
+          - text: Airtable
+            url: tools/airtable/
+            internal: true
           - text: Analytics
             url: analytics/
             internal: true
