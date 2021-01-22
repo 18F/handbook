@@ -108,10 +108,10 @@ Here are some common barriers to using Drive with partners and some workarounds 
 <details markdown="block">
 <summary>Trello alternatives</summary>
 
-- [**ZenHub:**](https://www.zenhub.com/) Works within GitHub and provides higher-level scoping and linking (e.g., epics and dependencies). Unfortunately, [we cannot expand use at GSA](https://github.com/18F/tts-tech-portfolio/issues/1040).
 - [**GitHub Project Boards:**](https://docs.github.com/en/github/managing-your-work-on-github/managing-project-boards) Not recommended from usability/UI perspective, as the interface is basic without the richness of other planning systems or the simplicity of Trello. Compliance/records considerations are the same as for [GitHub]({{site.baseurl}}/github/).
 - **Jira:** The GSA IT Jira instance is not recommended. Like ZenHub, it integrates with GitHub and provides higher-level scoping and linking (e.g., epics and dependencies). It's pretty difficult to grant access to outsiders, and it's pretty heavyweight and difficult to configure. Contact <gsa-jira.support@gsa.gov> for more information.
 - **Microsoft Azure Devops Boards:** Bundled with Azure, but not within [FedRAMP services in scope](https://docs.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope).
+- [**ZenHub:**](https://www.zenhub.com/) Works within GitHub and provides higher-level scoping and linking (e.g., epics and dependencies). Unfortunately, [we cannot expand use at GSA](https://github.com/18F/tts-tech-portfolio/issues/1040).
 </details>
 
 Here are some common barriers to using Trello with partners and some workarounds to try:
