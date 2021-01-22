@@ -12,7 +12,7 @@ This page contains links to all TTS hiring resources.
 
 ## TTS Open Positions
 
-The [TTSJobs Handbook page]({{site.baseurl}}/ttsjobs/) lists all open hiring actions across TTS.
+The [TTSJobs Handbook page]({{site.baseurl}}/ttsjobs) lists all open hiring actions across TTS.
 
 ## TTS Hiring Managers Guide
 
@@ -28,11 +28,11 @@ Below are some resources that cover expectations around interviews, best practic
 
 - [TTS Interviewer Training slides](https://docs.google.com/presentation/d/1IvFawhU2lUPIQexUgCgCcRgxjaD5D9BGnRJYkAyM3JY/edit#slide=id.g6d9ab3b2cf_0_404)
 - [Interviewing for TTS 101](https://docs.google.com/document/d/13MdNbFeWgKWMycdlAhkNSG6Eet3_NAVETnpuIweuMrU/edit#heading=h.arj274vgsryn)
-- [Fair & Equitable Hiring Practices]({{site.baseurl}}/fair-and-equitable-hiring-practices/)
+- [Fair & Equitable Hiring Practices]({{site.baseurl}}/fair-and-equitable-hiring-practices)
 
 ## Promotions
 
-“Promotions” in the traditional, private sector sense do not exist within the federal government. The [Promotions Handbook page]({{site.baseurl}}/promotions/) explains Merit Promotions for both Competitive Service (Career) and Excepted Service positions.
+“Promotions” in the traditional, private sector sense do not exist within the federal government. The [Promotions Handbook page]({{site.baseurl}}/promotions) explains Merit Promotions for both Competitive Service (Career) and Excepted Service positions.
 
 ## TTS Hiring Process
 
@@ -48,7 +48,7 @@ Once a need has been identified, it enters Talent’s work queue. For an overvie
 
 ### Hiring Authorities 
 
-Once a need has been identified and the role has been prioritized, TTS uses many [hiring authorities]({{site.baseurl}}/hiring-authorities/) available within the federal government. 
+Once a need has been identified and the role has been prioritized, TTS uses many [hiring authorities]({{site.baseurl}}/hiring-authorities) available within the federal government. 
 
 ### Internal Hiring and Details
-All [internal opportunities]({{site.baseurl}}/assignee-detail/) within TTS, including details, must be openly shared and competed.
+All [internal opportunities]({{site.baseurl}}/assignee-detail) within TTS, including details, must be openly shared and competed.
