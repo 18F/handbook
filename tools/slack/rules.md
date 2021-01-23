@@ -10,7 +10,8 @@ questions:
 
 - Sign in at [gsa-tts.slack.com](https://gsa-tts.slack.com).
 - See the [**official Slack documentation**](https://slack.com/help/articles/218080037-Getting-started-for-new-members) for how to use Slack
-- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. Add your location and [personal pronouns](https://pronoun.is/) to the `Last Name` field (example: `Feldman (NYC, he/him`) so they appear alongside your messages, keeping TTS remote-friendly and gender inclusive.
+- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. Add your location and [personal pronouns](https://pronoun.is/) to the `Display name` field (example: `Aidan Feldman (NYC, he/him`) so they appear alongside your messages, keeping TTS remote-friendly and gender inclusive.
+  - For people with GSA emails, the `Full name` and `Phone number` are overwritten with your information from HRLinks every time you sign in, so don't bother changing those.
 
 ## Usage
 
