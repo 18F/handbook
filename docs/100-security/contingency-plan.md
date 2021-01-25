@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+<!--ts-->
+
 - [Applicability](#applicability)
 - [Overview](#overview)
 - [Recovery objective](#recovery-objective)
@@ -22,11 +24,15 @@
   - [Acquia Cloud Enterprise (ACE) Platform as a Service (PaaS)](#acquia-cloud-enterprise-ace-platform-as-a-service-paas)
 - [How this document works](#how-this-document-works)
 
-### Applicability
+<!-- Added by: fen, at: Fri Jan 22 10:51:18 PM EST 2021 -->
+
+<!--te-->
+
+## Applicability
 
 **Note:** This Contingency Plan applies only to systems for which CivicActions has negotiated and defined Incident Response/Contingency Plan (IRCP) operations. Each IRCP-managed system will have a specific, tailored version of this Contingency Plan or in some cases a completely unique Contingency Plan will be developed. All CivicActions employees are aware of the procedures outlined herein.
 
-### Overview
+## Overview
 
 This Contingency Plan provides baseline guidance for the CivicActions Team when managing the disruption, compromise, or failure of any component of a CivicActions IRCP managed system, product or service ("system"). As a general guideline, we consider "disruption" to mean unexpected downtime or significantly reduced service lasting longer than:
 
@@ -37,23 +43,23 @@ Scenarios where that could happen include unexpected downtime of key services, s
 
 Some clients will create and maintain a Contingency Plan defining procedures specific to their system. In such a case, the client-specific Contingency Plan takes precedence.
 
-### Recovery objective
+## Recovery objective
 
 Short-term disruptions lasting less than 30 minutes are outside the scope of this plan.
 
 More than 3 hours of any system being offline during standard U.S. business hours (0900 - 2100 Eastern Time) is considered unacceptable. Our objective is to recover from any significant problem (disruption, compromise, or failure) within that span of time.
 
-### Incident Response Team information
+## Incident Response Team information
 
-#### Contact information
+### Contact information
 
 Team contact information is available in the Google Drive:
 
 - [CivicActions Incident Response Team contact sheet](https://drive.google.com/open?id=1P9TePYm2Gkly8EjxCzA2EmlTjUIBypE7-CbCZrRN1EA) with names and roles for CivicActions' Incident Response Team members. All CivicActions employees have access to this sheet.
 
-### Contingency plan outline
+## Contingency plan outline
 
-#### Activation and notification
+### Activation and notification
 
 The first Incident Response Team member who notices or reports a potential contingency-plan-level problem becomes the **Incident Commander** (IC) until recovery efforts are complete or the Incident Commander role is explicitly reassigned.
 
@@ -69,27 +75,27 @@ The IC first notifies and coordinates with the people who are authorized to deci
   - Product Owner
   - Users, when applicable
 
-The IC keeps a log of the situation in the [`#general`](https://civicactions.slack.com/messages/general/) Slack channel or within a client-specific Slack channel, JIRA ticket, or GitHub issue. If this is also a security incident, the IC also follows the [security incident communications process](incident-response-plan.md#initiate). The IC should delegate assistant ICs for aspects of the situation as necessary.
+The IC keeps a log of the situation in the [`#general`](https://civicactions.slack.com/messages/general/) Slack channel or within a client-specific Slack channel, JIRA ticket, or GitHub issue. If this is also a security incident, the IC also follows the [security incident communications process](incident-response-plan.md#3-initiate-the-response). The IC should delegate assistant ICs for aspects of the situation as necessary.
 
-#### Recovery
+### Recovery
 
 The Incident Response Team assesses the situation and works to recover the system. See the list of [external dependencies](#external-dependencies) for procedures for recovery from problems with external services.
 
-If this is also a security incident, the IC also follows the [security incident assessment](incident-response-plan.md#assess) and [remediation](incident-response-plan.md#remediate) processes.
+If this is also a security incident, the IC also follows the [security incident assessment](incident-response-plan.md#4-assess-the-incident) and [remediation](incident-response-plan.md#5-remediate) processes.
 
 If the IC assesses that the overall response process is likely to last longer than 3 hours, the IC should organize shifts so that each responder works on response for no longer than 3 hours at a time, including handing off their own responsibility to a new IC after 3 hours.
 
-#### Reconstitution
+### Reconstitution
 
 The Incident Response Team tests and validates the system as operational.
 
-The Incident Commander declares that recovery efforts are complete and notifies all relevant people. The last step is to schedule a postmortem to discuss the event. This is the same as the [security incident retrospective process](incident-response-plan.md#retrospective).
+The Incident Commander declares that recovery efforts are complete and notifies all relevant people. The last step is to schedule a postmortem to discuss the event. This is the same as the [security incident retrospective process](incident-response-plan.md#conducting-a-retrospective).
 
-### External dependencies
+## External dependencies
 
 CivicActions managed systems often depend on several external services. In the event one or more of these services has a long-term disruption, the team will mitigate impact by following this plan. Zero or more of the following services may be involved:
 
-#### GitHub
+### GitHub
 
 - **Service:** <https://github.com>
 - **Status:** <https://status.github.com/>
@@ -98,21 +104,21 @@ CivicActions managed systems often depend on several external services. In the e
 If GitHub becomes unavailable, systems will continue to operate in its current state. The
 disruption would only impact the team's ability to update code on the instances.
 
-#### GitLab
+### GitLab
 
 - **Service:** <https://git.civicactions.net/>
 - **Status:** <https://app.statuscake.com/AllStatus.php?tid=1702974>
 
 If GitLab becomes unavailable, systems will continue to operate in their current state. The disruption would impact the team's ability to update code on the instances, which could have significant impact.
 
-#### StatusCake
+### StatusCake
 
 - **Service:** <https://app.statuscake.com/>
 - **Status:** <https://twitter.com/StatusCakeTeam>
 
 If there is a disruption in the StatusCake service, the Incident Response team will be notified by email.
 
-#### OpsGenie
+### OpsGenie
 
 - **Service:** <https://app.opsgenie.com/alert/>
 - **Status:** <https://status.opsgenie.com/>
@@ -120,14 +126,14 @@ If there is a disruption in the StatusCake service, the Incident Response team w
 
 If there is a disruption in the OpsGenie service, all alerts automatically get delivered to the team via email.
 
-#### JIRA
+### JIRA
 
 - **Service:** <https://PROJECT.atlassian.net/>
 - **Status:** <https://twitter.com/JIRA>
 
 There is no direct impact to the platform if a disruption occurs. Primary incident communications will move to the [CivicActions `#general`](https://civicactions.slack.com/) Slack channel.
 
-#### Slack
+### Slack
 
 - **Service:** <https://civicactions.slack.com/>
 - **Status:** <https://status.slack.com/>
@@ -140,7 +146,7 @@ Primary incident communications will move to one of:
 - Google Meet: <https://meet.google.com/>
 - Google Chat: <https://chat.google.com/>
 
-#### AWS
+### AWS
 
 - **Service:** <https://signin.aws.amazon.com/console>
 - **Status:** <http://status.aws.amazon.com/>
@@ -149,7 +155,7 @@ If needed, you can [manage and create new servers](https://console.aws.amazon.co
 
 In case of a **significant** disruption, after receiving approval from our Authorizing Official, the CivicActions team will deploy a new instance of the entire system to a [different region](https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1).
 
-#### Acquia Cloud Enterprise (ACE) Platform as a Service (PaaS)
+### Acquia Cloud Enterprise (ACE) Platform as a Service (PaaS)
 
 - **Service:** <https://docs.acquia.com/en/stable/support/status/>
 - **Status:** <https://status.acquia.com/>
@@ -171,7 +177,7 @@ In case of a significant disruption, after receiving approval from our Authorizi
 Official, the CivicActions and Acquia teams will deploy a new instance of the entire
 system to a different region.
 
-### How this document works
+## How this document works
 
 This plan is most effective if all CivicActions team members know about it, remember that it exists, have the ongoing opportunity to give input based on their expertise, and keep it up to date.
 
