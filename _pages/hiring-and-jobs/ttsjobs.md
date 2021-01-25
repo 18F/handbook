@@ -48,6 +48,9 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [OA Operations Branch Chief](https://docs.google.com/document/d/1Hggtp53ga8kq2JaoMehA9MIrxSeGsGLGgO_kQ7smaeM/edit?ts=600ec6a1) - open Monday, January 25th through Friday, January 29th
 
+- [CoE Acting Chief of Staff Non-Reimbursable Detail](https://docs.google.com/document/d/1IMFS65BZaD_q3lIOzae5LliWOr64CgdmGO-z7bELfiU/edit#) - open Monday, January 25th through Wednesday, February 3rd. 
+
+
 ## Opportunities with partners
 
 
