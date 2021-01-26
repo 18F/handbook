@@ -30,7 +30,7 @@
   - [CSS](https://www.drupal.org/docs/develop/standards/css)
   - [JS](https://www.drupal.org/docs/develop/standards/javascript) coding standards.
   - [Writing Secure Code in Drupal 7](https://www.drupal.org/docs/7/security/writing-secure-code)
-  - [Writing Secure Code in Drupal 8](https://www.drupal.org/docs/8/security/writing-secure-code-for-drupal-8)
+  - [Writing Secure Code in Drupal 8+](https://www.drupal.org/docs/security-in-drupal/writing-secure-code-for-drupal)
 - We ensure [Code Quality with DCQ](https://www.drupal.org/project/dcq) which includes the [Coder module](https://www.drupal.org/project/coder) to ensure code meets Drupal standards.
 - We use namespaces so that we avoid namespace collisions.
   - All module functions (even little helper functions) should have the module prefix.
