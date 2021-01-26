@@ -168,7 +168,7 @@ We recommend using both of these browser add-ons.
 - [Privacy Badger](https://www.eff.org/privacybadger) blocks most ads and cookie collectors. Open source and free.
 - [uBlock Origin](https://ublockorigin.com) is an ad content blocker. Open source and free.
 
-For search, we recommend changing your browser "default search" to [DuckDuckGo](https://duckduckgo.com/) as it protects privacy and avoids the filter bubble.
+For search, we recommend changing your browser "default search" to [DuckDuckGo](https://duckduckgo.com/) or [Ecosia](https://www.ecosia.org/) as they protects privacy and avoids the filter bubble.
 
 ## Private Messaging and Calling
 
@@ -177,6 +177,7 @@ We recommend [Signal.org](https://signal.org/), which is free. We like that thei
 ## More Links
 
 - [Protecting Your Privacy Online](https://duckduckgo.com/?q=protecting+your+privacy+online) (a DuckDuckGo search)
+- [Privacy Friendly Search](https://info.ecosia.org/privacy)
 - [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3) (includes [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and [DuckDuckGo](https://duckduckgo.com/))
 - [The Privacy Enthusiast's Guide to Using Android](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-android-1792432725)
 - [The Privacy Enthusiast's Guide to Using an iPhone](http://lifehacker.com/the-privacy-enthusiasts-guide-to-using-an-iphone-1792386831)
