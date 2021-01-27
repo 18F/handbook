@@ -1,8 +1,20 @@
+GIT
+  remote: https://github.com/18F/uswds-jekyll.git
+  revision: 5e59e28e5b6bdda06e946b6175c7ff736f66f951
+  ref: private-eye
+  specs:
+    uswds-jekyll (5.3.0)
+      jekyll (>= 4.0, < 5)
+      jekyll-autoprefixer
+      mini_racer
+
 GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    autoprefixer-rails (9.8.6.5)
+      execjs
     colorator (1.1.0)
     concurrent-ruby (1.1.7)
     em-websocket (0.5.1)
@@ -11,6 +23,7 @@ GEM
     ethon (0.12.0)
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
+    execjs (2.7.0)
     ffi (1.13.1)
     forwardable-extended (2.6.0)
     hash-joiner (0.0.7)
@@ -41,6 +54,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
+    jekyll-autoprefixer (1.0.2)
+      autoprefixer-rails (~> 9.3)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (2.1.0)
@@ -54,12 +69,15 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    libv8 (8.4.255.0)
     liquid (4.0.3)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     mini_portile2 (2.4.0)
+    mini_racer (0.3.1)
+      libv8 (~> 8.4.255)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     nokogumbo (2.0.2)
@@ -87,8 +105,6 @@ GEM
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     unicode-display_width (1.7.0)
-    uswds-jekyll (5.0.1)
-      jekyll (>= 4.0, < 5)
     yell (2.2.2)
 
 PLATFORMS
@@ -96,14 +112,14 @@ PLATFORMS
 
 DEPENDENCIES
   hash-joiner
-  html-proofer (>= 3.16.0)
+  html-proofer
   jekyll
   jekyll-redirect-from
   jekyll-sitemap
   json
   rerun
   test-unit
-  uswds-jekyll (~> 5.0)
+  uswds-jekyll!
 
 RUBY VERSION
    ruby 2.7.0p0
