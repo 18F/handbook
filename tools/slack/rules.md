@@ -6,11 +6,6 @@ questions:
 
 [_Back to Slack page_](../)
 
-## Getting started
-
-- Sign in at [gsa-tts.slack.com](https://gsa-tts.slack.com).
-- See the [**official Slack documentation**](https://slack.com/help/articles/218080037-Getting-started-for-new-members) for how to use Slack
-
 ## Profile
 
 **[Fill in your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. **For the `Display name`, use the format `<name> (<team>, <location>, <pronouns>)`.**

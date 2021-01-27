@@ -6,7 +6,7 @@ questions:
   - admins-slack
 ---
 
-See the following sub-pages for information about Slack at TTS:
+To get started, **sign in at [gsa-tts.slack.com](https://gsa-tts.slack.com)**. See the [official documentation](https://slack.com/help/articles/218080037-Getting-started-for-new-members) for how to use Slack generally, and the following sub-pages for information about Slack at TTS:
 
 - [Getting started & rules](rules/)
 - [Guidelines](guidelines/)
