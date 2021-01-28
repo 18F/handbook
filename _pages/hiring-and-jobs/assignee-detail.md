@@ -52,7 +52,7 @@ For HR to approve a candidate, they must meet the following qualifications:
 * If an applicant is changing GS levels or if they will be moving to a different PD, they will need to provide an updated resume.
   * Applicants for supervisory roles must demonstrate past people management experience in their resume. This can include team lead experience, supervisory experience, or other types of people leadership. 
 
-Please double-check with candidates before you interview them that they meet the 3 qualifications listed above.
+Please double-check with candidates before you interview them that they meet the three qualifications listed above.
 
 ## Internal Approval for Details
 
