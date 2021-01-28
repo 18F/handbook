@@ -32,7 +32,7 @@ Below are some resources that cover expectations around interviews, best practic
 
 ## Promotions
 
-“Promotions” in the traditional, private sector sense do not exist within the federal government. The [Promotions Handbook page]({{site.baseurl}}/promotions) explains Merit Promotions for both Competitive Service (Career) and Excepted Service positions.
+"Promotions" in the traditional, private sector sense do not exist within the federal government. The [Promotions Handbook page]({{site.baseurl}}/promotions) explains Merit Promotions for both Competitive Service (Career) and Excepted Service positions.
 
 ## TTS Hiring Process
 
