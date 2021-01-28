@@ -29,7 +29,7 @@ Instead, the organization identifies a need for a higher level position due to t
 
 > “One avenue of recruitment is through GSA’s merit staffing process. GSA’s Merit Promotion Plan contains the requirements for filling vacancies through internal competition, i.e., filling from existing GSA and other eligible staff (i.e. federal employees in other agencies). Merit promotion procedures provide a fair and systematic means of identifying, considering, and selecting GSA and other eligible candidates for promotions and career opportunities based on the Merit Principles.”
 
-As you can see from the above excerpt from GSA’s policy, the Merit Promotion process is for “filling vacancies through internal competition”. The Merit Promotion process increases visibility of opportunities within TTS and creates an avenue for other competitive service federal employees to join TTS.
+As you can see from the above excerpt from GSA’s policy, the Merit Promotion process is for "filling vacancies through internal competition". The Merit Promotion process increases visibility of opportunities within TTS and creates an avenue for other competitive service federal employees to join TTS.
 
 For all Merit Promotion roles: employees must be at their current GS level for one year in order to apply for a position at the next highest GS level. This is called the “time-in-grade” requirement, and an applicant must meet time-in-grade within 30 days of an application’s closing date. 
 
