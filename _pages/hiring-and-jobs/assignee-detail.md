@@ -73,7 +73,7 @@ Once Talent has confirmed HR approval, email [TTS-PeopleOps@gsa.gov](mailto:TTS-
 * Office Symbol the employee is being detailed or transferred to.
 * For details: if it is a reimbursable or non-reimbursable detail (i.e. who is paying the detailee’s salary) 
 * The name of the new supervisor
-* The Position Description number. If it is a detail without a PD, use “Detail to Unclassified Duties” and provide a list of duties that the selected employee will be expected to perform.
+* The Position Description number. If it is a detail without a PD, use "Detail to Unclassified Duties" and provide a list of duties that the selected employee will be expected to perform.
 * Effective date and length of the detail (for example: 120 days)
 
 ## Notifying Internal Candidates
