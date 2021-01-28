@@ -39,6 +39,6 @@ Competitive Service Merit Promotions are open to current or former Competitive S
 
 ### Filling a vacancy via the Excepted Service version of the Merit Promotion Process
 
-TTS has chosen to run Excepted Service Merit Promotions as [internal competitions]({{site.baseurl}}/hiring/#tts-internal-competitions-and-developmental-opportunities), mirroring the Competitive Service process. This creates parity between the two processes and the offices that are affected by them. All staff should feel that they have the same opportunities.
+TTS has chosen to run Excepted Service Merit Promotions as [internal competitions]({{site.baseurl}}/assignee-detail), mirroring the Competitive Service process. This creates parity between the two processes and the offices that are affected by them. All staff should feel that they have the same opportunities.
 
 An Excepted Service Merit Promotion opportunity is posted internally and will be open to any Excepted Service employee in TTS. 
