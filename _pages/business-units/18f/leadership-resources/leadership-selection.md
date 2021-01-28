@@ -25,8 +25,7 @@ This guide is meant to help us create an inclusive and equitable process for sel
 
 3. Set your deadline. Your deadline should be at least five business days out, preferably longer. For roles with formal applications (e.g., supervisors, chapter leads, etc.), your deadline should include a weekend. For roles that require submitting a government-style résumé, extend the deadline to allow people time to update their résumés and get feedback from friends/colleagues/mentors. Scheduling deadlines for end-of-day Friday (Pacific Time) is convenient and easy to remember.
 
-   Submit [materials to Talent]({{site.baseurl}}/hiring/#job-prep).
-    *Note Talent will publicize the position on #tts-jobs and on the [TTS Jobs Hanbook page]({{site.baseurl}}/ttsjobs/)
+   Submit materials to Talent. Talent will publicize the position on #tts-jobs and on the [TTS Jobs Handbook page]({{site.baseurl}}/ttsjobs/).
 
    Publicize the open position and nomination form on Slack in any relevant channels, to the appropriate email distribution list for your chapter or portfolio, and, if time allows, any relevant newsletters or other communications media you can think of. Chapter all-hands meetings, guild office hours, and Team Coffee are great venues! Encourage people to nominate themselves or their colleagues.
 
