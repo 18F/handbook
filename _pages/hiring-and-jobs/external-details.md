@@ -25,7 +25,7 @@ If a TTS office plans to pay the detailee’s salary, then they must have a vaca
 
 The agreement is between agencies, not between staff and the receiving agency. Employees can refer to [GSA Order HRM 9334.2 Detail of Employees](https://drive.google.com/a/gsa.gov/file/d/1pCfXxK3vnPZOKaXxlyOC9EozXLRvHw4L/view) for more information. Most agencies use the standard [7600A](https://fiscal.treasury.gov/files/forms/fs-form-7600a.pdf) and [7600B](https://fiscal.treasury.gov/files/forms/fs-form-7600b.pdf) forms, but some may require a memorandum of understanding (MOU), a memorandum of agreement (MOA), and/or additional supporting documentation. Regardless of the format, the same information will need to be captured within the documentation (see [HRM 9334.2](https://drive.google.com/a/gsa.gov/file/d/1pCfXxK3vnPZOKaXxlyOC9EozXLRvHw4L/view) for specific detail requirements). 
 
-The Agreements Team coordinates detail IAA’s, looping in TTS People Ops and the Hiring Manager.
+The Agreements Team coordinates detail IAAs, looping in TTS People Ops and the Hiring Manager.
 
 Details typically last for 120 days. The detail can be extended for another 120 days (240 days total), provided that:
 * The detailee, the TTS supervisor, the  Business Unit Director, and the AC agree, as well as the employee’s permanent supervisor.
