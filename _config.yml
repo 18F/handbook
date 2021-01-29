@@ -22,7 +22,6 @@ exclude:
 scripts:
   - assets/uswds/js/uswds.min.js
   - javascripts/jquery-3.5.1.min.js
-  - javascripts/private-eye.js
   - javascripts/application.js
 
 defaults:
@@ -49,6 +48,8 @@ dap_subagency: TTS
 
 # search.gov
 search_site_handle: tts-handbook
+
+private_eye: true
 
 jekyll_get:
   - data: dgcommunities
