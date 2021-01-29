@@ -49,6 +49,8 @@ dap_subagency: TTS
 # search.gov
 search_site_handle: tts-handbook
 
+private_eye: true
+
 jekyll_get:
   - data: dgcommunities
     json: "https://digital.gov/communities/index.json"
