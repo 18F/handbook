@@ -12,7 +12,7 @@ questions:
 
 - Example: `Aidan Feldman (Tech Portfolio, NYC, he/him)`
 - Name, team, and location are required. [Personal pronouns](https://pronoun.is/) are optional but strongly encouraged. Having these visible helps be TTS gender inclusive.
-- For people with GSA emails, the `Full name` and `Phone number` are overwritten with your information from HRLinks every time you sign in, so don't bother changing those.
+- For people with GSA emails, the `Full name` and `Phone number` are overwritten with [your information from GCIMS]({{site.baseurl}}/changing-your-name/) every time you sign in, so don't bother changing those.
 
 ## Usage
 
