@@ -48,6 +48,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [CoE Acting Chief of Staff Non-Reimbursable Detail](https://docs.google.com/document/d/1IMFS65BZaD_q3lIOzae5LliWOr64CgdmGO-z7bELfiU/edit#) - open Monday, January 25th through Wednesday, February 3rd. 
 
+- [CoE Director of Agency Partnerships Non-Reimbursable Detail](https://docs.google.com/document/d/1qhrp-6dPgWXEASLxwNjhQyhmkrxyluXh894NCj0Qso4/edit) - open Monday, February 1rst through Tuesday, February 9th. 
+
 
 ## Opportunities with partners
 
