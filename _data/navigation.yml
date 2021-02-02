@@ -127,7 +127,7 @@ primary:
       Everything you need to know about getting a job at TTS,
       changing jobs at TTS, or leaving TTS.
     children:
-      - text: Hiring
+      - text: TTS Hiring Overview
         url: hiring/
         internal: true
       - text: TTSJobs
@@ -136,9 +136,15 @@ primary:
       - text: Term extensions
         url: term-extensions/
         internal: true
-      - text: Assignments and details
+      - text: Internal hiring and internal TTS details
         url: assignee-detail/
         internal: true
+      - text: Details within GSA
+        url: gsa-details/
+        internal: true
+      - text: Details with other agencies
+        url: external-details/
+        internal: true   
       - text: Promotions
         url: promotions/
         internal: true
@@ -154,9 +160,6 @@ primary:
       - text: Referring a person
         url: talent/#referring-a-person
         internal: true
-      - text: Internal TTS Opportunities
-        url: https://docs.google.com/spreadsheets/d/120cF2PhzbTcCfoJ8n9L3o9brn30jOcfP5LZdZy6bElk/edit#gid=0
-        internal: false
   - text: General information and resources
     href: /#general-information-and-resources
     children:
