@@ -12,6 +12,7 @@ See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-
 
 ## Channels
 
+- [#news](https://gsa-tts.slack.com/messages/news/) - [TTS-wide announcements]({{site.baseurl}}/outreach/#how-to-make-tts-wide-announcements)
 - Teams
   - 18F - [#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
   - [Solutions](https://gsa-tts.slack.com/messages/solutions/)
@@ -25,20 +26,6 @@ See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-
   - [distributed](https://gsa-tts.slack.com/messages/distributed/)
 
 See a list of other popular channels in the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.b0dsxkh3r8wi) guide.
-
-## How to make an announcement in #news
-
-Use #news for vital team announcements. [#news](https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you'd like to go up in #news, ask in [#outreach](https://gsa-tts.slack.com/archives/news).
-
-Please keep #news posts limited to information that the entire team needs to know. This includes things like:
-
-- Major events impacting all of TTS or a TTS Business unit
-- Required trainings
-- Necessary security and compliance actions
-- Policy changes or reminders
-- All-team events
-- Senior management team meeting notes
-- Changes or actions that impact the entire team
 
 ## Frequently-used emoji
 
