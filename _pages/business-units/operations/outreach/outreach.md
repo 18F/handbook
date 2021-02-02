@@ -57,7 +57,7 @@ You might have a need to get a message to all of TTS, such as:
 - Senior management team meeting notes
 - Changes or actions that impact the entire team
 
-To send, **reach out to us in [#outreach](https://gsa-tts.slack.com/archives/news)**. We will:
+To send, **reach out to us in [#outreach](https://gsa-tts.slack.com/archives/outreach)**. We will:
 
 1. Copyedit the message
 1. Get approvals (if needed)
