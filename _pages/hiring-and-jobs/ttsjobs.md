@@ -39,8 +39,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Consulting Software Engineer](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Monday, March 1st 
 
-- [Login.gov DevOps/Site Reliability Engineer](https://join.tts.gsa.gov/join/devops-engineer/) - open Wednesday, November 11th through Monday, March 1st  
-
 
 
 ### Internal only opportunities
