@@ -51,4 +51,4 @@ Once a need has been identified, it enters Talent’s work queue. For an overvie
 Once a need has been identified and the role has been prioritized, TTS uses many [hiring authorities]({{site.baseurl}}/hiring-authorities) available within the federal government. 
 
 ### Internal Hiring and Details
-All [internal opportunities]({{site.baseurl}}/assignee-detail) within TTS, including details, must be openly shared and competed.
+All [internal opportunities]({{site.baseurl}}/assignee-detail) within TTS, including details, must be openly shared and competed. [Details within GSA]({{site.baseurl}}/gsa-details) and [details with other agencies]({{site.baseurl}}/external-details) require additional considerations. 
