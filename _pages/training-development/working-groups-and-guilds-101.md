@@ -110,8 +110,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://github.com/18F/g-research/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
         </td>
         <td>
-          Matt Dobson - 18F<br>
-          Aditi Rao - 18F
+          Ben Peterson - 18F<br>
+          Scott Weiss - PIF
         </td>
       </tr>
       <tr>
