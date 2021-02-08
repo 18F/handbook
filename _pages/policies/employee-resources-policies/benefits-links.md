@@ -38,5 +38,5 @@ Please reference the [Benefits & Support Contacts for TTS Employees](https://doc
 
 GSA offers a number of support services and contacts for employees. The [Employee Support Services Matrix](https://docs.google.com/document/d/1WUCgB5Ukez-BFEHlsWZ5bTMrqySIvOAxIRGitarQZ10/edit) outlines the options.
 
-### Legal contacts 
+### Legal and ethics contacts 
 Please reference the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document for contact information 
