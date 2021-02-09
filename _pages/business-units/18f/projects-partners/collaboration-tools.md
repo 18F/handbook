@@ -176,7 +176,6 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 
 **Qualtrics** is a feedback collection tool that helps with creating surveys. These surveys can be distributed in a variety of ways including on websites like [usa.gov](https://www.usa.gov/); and used to create data dashboards. Any TTS employee may use this tool for free. Licenses may be aquired by contacting GSA's Office of Customer Experience (OCE) at customerexperience@gsa.gov. Please make sure to state your business case in your request. 
 
-- [Qualtrics handbook page]
 
 <details markdown="block">
 <summary> Compliance and records considerations</summary>
