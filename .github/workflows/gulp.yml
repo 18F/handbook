@@ -1,0 +1,15 @@
+name: gulp
+
+on:
+  pull_request:
+
+jobs:
+  pre-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@v2
+      - run: ./.pre-commit-gulp.sh

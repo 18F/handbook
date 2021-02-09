@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This installs and runs mkdocs and will output any warning messages.
+# This installs and runs gulp and will output any warning messages.
 # It is quiet by default to simplify output, passing an argument will show debug output.
 DEBUG=/dev/null
 if [[ "$1" != "" ]]; then
@@ -7,4 +7,4 @@ if [[ "$1" != "" ]]; then
 fi
 yarn install --frozen-lockfile &> $DEBUG
 ./node_modules/.bin/gulp ci 2>&1 | tee gulp.log &> $DEBUG
-! grep -e "(problem\W)" gulp.log
+! grep -e "problem\W" gulp.log

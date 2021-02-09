@@ -15,7 +15,7 @@ const remarkBase = "https://github.com/remarkjs/";
 const remarkLint = "remark-lint/tree/main/packages/remark-lint-";
 const retextBase = "https://github.com/retextjs/";
 
-const githubKey = process.env.GITHUB_APP_PRIVATE_KEY;
+const githubKey = process.env.GULP_KEY;
 const githubPR = process.env.CI_EXTERNAL_PULL_REQUEST_IID;
 const doCodeReview = branch && githubKey && githubPR;
 var codeReviewResults = {};
