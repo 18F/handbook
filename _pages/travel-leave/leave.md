@@ -132,7 +132,7 @@ Further funeral leave information can be found in OPM's Fact Sheets:
 * [Definitions related to family member and immediate relative for purposes of sick leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
 
 ### Military leave
-Refer to the GSA [Time and Leave Policy](https://insite.gsa.gov/cdnstatic/insite/HRM_60101_Time_and_Leave_Administration_Policy_%28Posted_Version_-_March_23%2C_2020%29.pdf) and contact your Benefits Specialist to let them know you have military orders. If you do not know who your Benefits Specialist is, ask [TTS-peopleops@gsa.gov](mailto:tts-peopleops@gsa.gov).
+Refer to the GSA [Time and Leave Policy](https://insite.gsa.gov/cdnstatic/insite/HRM_60101_Time_and_Leave_Administration_Policy_%28Posted_Version_-_March_23%2C_2020%29.pdf) and contact the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name to let them know you have military orders.
 
 
 ## Extended leave
