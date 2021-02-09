@@ -15,6 +15,26 @@ questions:
 
 This page contains additional resources and trainings for supervisors who are going through the performance management process.  Visit the Quick Links section of the [Performance Management Overview]({{site.baseurl}}/performance-management/) page for additional resources, including the [Performance Management Employee Checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=160010559) which Supervisors can use to track the progress of their own performance reviews.  
 
+## Mandatory New Supervisor Training Program 
+### Why?
+(1) Meet mandatory training requirements for new supervisors to ensure compliance with congressional mandates
+(2) ensure a consistent level of training on critical skills that are key to the success of all GSA supervisors;
+and 
+(3) provide opportunities for supervisors to engage with one another by attending live, interactive, virtual trainings that are equivalent to the online courses.
+
+### Who?
+New supervisors are defined as individuals who have transitioned from non-supervisory to supervisory status within the previous year, not including
+team leads and management officials.
+Please note: ALL new supervisors must complete the Mandatory New Supervisor Training Program, INCLUDING all SES and political appointees, regardless of grade or SES status.
+
+### What?
+*Comprehensive Supervisory Training Curriculum* - Comprised of 11 hours of a mix of live, instructor led and web based trainings. New Supervisors will earn 8 Continuous Learning Points by completing the Program. New Supervisors are assigned the Mandatory New Supervisor Training Program in Online University. Employees can not search and self enroll into the program as it is a private program.
+
+### When
+
+All new supervisors must complete the mandatory trainings within 1 year of becoming a supervisor. Admission into Program occurs on an ongoing basis.
+
+
 ## Supervisor performance management checklist
 
 * Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of FY20 performance reviews and to help establish FY21 performance plans.
