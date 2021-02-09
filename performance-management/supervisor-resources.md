@@ -34,6 +34,8 @@ Please note: ALL new supervisors must complete the Mandatory New Supervisor Trai
 
 All new supervisors must complete the mandatory trainings within 1 year of becoming a supervisor. Admission into Program occurs on an ongoing basis.
 
+See the [New Supervisors Insite Page](https://insite.gsa.gov/topics/training-and-development/supervisor-resources/new-supervisors?term=supervisor%20training) for more information. 
+
 
 ## Supervisor performance management checklist
 
