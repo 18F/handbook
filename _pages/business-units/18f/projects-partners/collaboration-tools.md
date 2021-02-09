@@ -181,7 +181,7 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 <summary> Compliance and records considerations</summary>
 
 - Qualtrics has a GSA ATO and FedRAMP authorized. 
-- Qualtrics is covered under SORN GSA-CIO-3. A System of Records Notice (SORN) is related to the  Privacy Act. SORNs are under the Chief Privacy Officer's jurisdiction and are posted in the Federal Register for review. More info here on [GSA.gov](https://www.gsa.gov/reference/gsa-privacy-program/systems-of-records-privacy-act)]
+- A System of Records Notice (SORN) is related to the Privacy Act. [SORNs are under the Chief Privacy Officer's jurisdiction](https://www.gsa.gov/reference/gsa-privacy-program/systems-of-records-privacy-act) and are posted in the Federal Register for review. Qualtrics is covered under SORN GSA-CIO-3.
 - Qualtrics should be used if you're collecting feedback that is directly helping GSA; not another agency. For example: if you're working with NIH, you cannot collect data for NIH using GSA's Qualtrics account. 
 - Please use Google Forms if you're collecting feedback from stickly internal-GSA employees. 
 - Per [GSA's Survey Order](https://insite.gsa.gov/directives-library/gsa-customer-supplier-surveys-), OCE is “responsible for ensuring survey materials distributed to recipients outside of GSA and/or across all of GSA meet agency standards.” Meaning that all Qualtrics surveys need to be approved by OCE before distribution.
