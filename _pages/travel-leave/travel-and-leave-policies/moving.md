@@ -106,8 +106,8 @@ If you’re changing regions, your pay will likely change. Look up your new pay 
    * Click edit address, make your change, and submit
    * Click submit on main address page and you'll see a confirmation page pending approval of your address change
     
-3. Once you submit the request in HR links, please email marya.robinson@gsa.gov who will confirm your submission went through.  Please also work with Mary to ***update any necessary tax documents***.
-   * If your duty location change is to a new state, or to a city with locality tax, Mary will guide you to fill out the appropriate forms ([IRS Tax Documents](https://www.irs.gov/tax-professionals/government-sites)), and submit them to the National Payroll Branch at kc-payroll.finance@gsa.gov.
+3. Please work with the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name to ***update any necessary tax documents***.
+   * If your duty location change is to a new state, or to a city with locality tax, your [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) will guide you to fill out the appropriate forms ([IRS Tax Documents](https://www.irs.gov/tax-professionals/government-sites)), and submit them to the National Payroll Branch at kc-payroll.finance@gsa.gov.
 
 4. Contact your health insurance, dental insurance, and any other insurances you may have and let them know about your address change. You will also need to verify that your insurance will be valid in your new location or you will need to change it. Contact GSA HR at [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) if you have any questions.  
 
