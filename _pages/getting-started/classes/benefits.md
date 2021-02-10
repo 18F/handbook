@@ -94,9 +94,8 @@ To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollme
 - Select "Health Benefits Election Form"
   - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes..."
 - Once you click "Submit" the documents get sent to the cpc benefits team where they can review and process these actions.
-- Email [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov) letting her know you have submitted these documents so that she can confirm with CPC that they have received them.  You can email Mary any time with benefits questions or issues.
 
-The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Contact [marya.robinson@gsa.gov](mailto:marya.robinson@gsa.gov).
+The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Contact the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name.
 
 ### Dental
 
