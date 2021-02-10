@@ -520,12 +520,18 @@ primary:
           - text: GitHub (code repos and versioning)
             url: github/
             internal: true
+          - text: Infrastructure (cloud.gov, AWS, etc.)
+            url: https://before-you-ship.18f.gov/infrastructure/
+            internal: false
           - text: InVision (simple prototyping)
             url: invision/
             internal: true
           - text: Mural (collaborative whiteboard tool)
             url: tools/mural/
             internal: true
+          - text: Security scanning
+            url: https://before-you-ship.18f.gov/security/scanning/
+            internal: false
           - text: Smartsheet
             url: tools/smartsheet/
             internal: true
