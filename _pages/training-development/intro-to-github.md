@@ -40,7 +40,7 @@ The following resources will help you with learning Github. They are organized b
 
 Once you're a member of the 18F organization, you'll have access to many of our repos. You'll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
 
-Repositories are where everything is stored in Github. Understanding what a repository is will help you understand where your information is stored in Github and who can access it. [Github Docs - About reopsitories](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-repositories) starts you out on understanding repositories.
+Repositories are where everything is stored in Github. Understanding what a repository is will help you understand where your information is stored in Github and who can access it. [Github Docs - About repositories](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-repositories) starts you out on understanding repositories.
 
 ### 2. Project Management
 
