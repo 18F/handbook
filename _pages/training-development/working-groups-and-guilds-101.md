@@ -143,7 +143,7 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://github.com/18F/development-guide">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/C02CD5VUQ">#dev</a>
         </td>
         <td>
-          Ryan Hofschneider - 18F<br>
+          Davida Marion - 18F<br>
           Kenny Daniel - SOL
         </td>
       </tr>
