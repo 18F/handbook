@@ -43,6 +43,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
+- [18F Product Manager Supervisor](https://docs.google.com/document/d/1VbRHDCJm3GzVHTZfUYZyn2T8vKKdbYR1pf5xzgB-aYc/edit?userstoinvite=tiffanyj.andrews@gsa.gov&ts=6026d1b0) - open Tuesday, February 16th through Monday, February 22nd 
 
 ## Opportunities with partners
 
