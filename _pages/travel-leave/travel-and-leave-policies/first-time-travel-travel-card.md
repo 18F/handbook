@@ -54,6 +54,8 @@ This may take 1-2 business days to process.
 
 Once you’ve gotten the go-ahead, you’ll receive two emails: one with a link to fill out a US Bank signup form, and the second with an access code which will be required to see the form. Follow the instructions attached with the email. Use your **home** address, not your office address. Ronnail and her team can assist with any questions; the TTS Travel Team isn't involved in this process.
 
+Please note that you will be asked to authorize US Bank to obtain your credit information. This is only a soft credit pull and will not affect your credit score, but it is required in order to receive a travel card.
+
 ### 4. Receive and activate your card in 7-10 business days.
 
 Once you receive your new GSA SmartPay 3 travel card, call U.S. Bank at 888-994-6722 to confirm your account and create your personal identification number (PIN). Be sure to remember your PIN. It will be required to complete chip enabled transactions.
