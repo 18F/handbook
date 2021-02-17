@@ -145,7 +145,7 @@ To see your recent pay stubs:
 2. Click the "View Your Earnings and Leave Statement" link in the middle of the page.
 3. Choose the appropriate pay period in the drop-down menu.
 
-For help interpreting the many boxes on your paystub, see [How to Read Your Leave and Earnings Statement](https://www.usbr.gov/gp/employment/neo/tab6/ELS2012.pdf). You can also watch [the recording of 'Beginner's Guide to Your Earnings and Leave Statement](https://drive.google.com/file/d/1p3XRDPkEhqjKBI9UV3wQsWGLWLaf-Cnv/view),' a session that a TTS teammate offered.  
+For help interpreting the many boxes on your paystub, see [How to Read Your Leave and Earnings Statement](https://www.usbr.gov/gp/employment/neo/tab6/ELS2012.pdf). You can also watch [the recording of 'A Beginner's Guide to Your Earnings and Leave Statement](https://drive.google.com/file/d/1p3XRDPkEhqjKBI9UV3wQsWGLWLaf-Cnv/view),' a session that a TTS teammate offered.  
 
 Note that the gross income in your paycheck is a little less than your annual income / 26 paychecks. The difference lies in the way the federal government calculates hourly rates from annual salary. The federal government divides the annual salary by 2087 hours rather than 2080 hours (26 pay periods x 80 hours) to determine hourly rates.
 
