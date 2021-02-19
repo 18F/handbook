@@ -10,6 +10,9 @@ Here's what you need to know about sensitive information at TTS.
 
 Anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands. To learn what information we consider sensitive, see [our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information). See also: [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
 
+## What to do if you find or expose sensitive information
+Immediately notify us in Slack channel [#incident-response](https://gsa-tts.slack.com/archives/C0G6G1UNM) and by email [gsa-ir@gsa.gov](mailto:gsa-ir@gsa.gov). Also review our [vulnerability disclosure policy and procedures](../responding-to-public-disclosure-vulnerabilities/)
+
 ## Tools
 TTS offers a few different tools for protecting sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
 
@@ -52,4 +55,4 @@ CircleCI has a [Build Pull Request from Forked repos setting](https://circleci.c
 GitHub has a [pull_request_target workflow trigger that can be misused by any repo owner](https://securitylab.github.com/research/github-actions-preventing-pwn-requests).
 
 #### Other references for protecting Sensitive Information in CI/CD
-* https://sprocketfox.io/xssfox/2021/01/18/pipeline/
+* [Build Pipeline Security](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
