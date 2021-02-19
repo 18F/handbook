@@ -37,7 +37,7 @@ Internal postings are created using the following templates:
   * An interview guide for the role may already exist if the role was previously posted; the Talent Team can check.
   
 ## Posting an Internal Role
-When the templates are ready for review, the Hiring Manager sends the announcement, application form, and interview guide to Talent at [jointts@gsa.gov](mailto:jointts@gsa.gov). A Talent team member will review. Once materials have been approved by Talent, they will add the posting to #tts-jobs on Slack and the [TTSJobs handbook page]({{site.baseurl}}/ttsjobs/). 
+When the templates are ready for review, the Hiring Manager sends the announcement, application form, and interview guide to Talent at [jointts@gsa.gov](mailto:jointts@gsa.gov). A Talent team member will review. Once materials have been approved by Talent, they will add the posting to [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack and the [TTSJobs handbook page]({{site.baseurl}}/ttsjobs/).
 
 ## Internal Interviews 
 Hiring Managers select an interview panel and schedule interviews, the same as would happen for an external hire. Best practices are available in the [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit).
@@ -77,4 +77,4 @@ Once Talent has confirmed HR approval, email [TTS-PeopleOps@gsa.gov](mailto:TTS-
 * Effective date and length of the detail (for example: 120 days)
 
 ## Notifying Internal Candidates
-It is the Hiring Manager’s duty and responsibility to provide applicants with feedback, letting the applicant know if they have been selected or that they were not selected. Hiring Managers should offer feedback to every candidate. Talent will not notify nor offer feedback to applicants.
+It is the Hiring Manager’s duty and responsibility to provide applicants with feedback, letting the applicant know if they have been selected or that they were not selected. Hiring Managers should offer feedback to every candidate. Talent will neither notify nor offer feedback to applicants.

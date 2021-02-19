@@ -19,8 +19,9 @@ Term renewals are not automatic. They require a lot of thought and deliberation 
 2. Directors will provide their recommendation to People Ops, along with the following info:
 
     * How long will the employee's term be renewed for? (6 months, 1 year, or 2 years)
-    * Justification (type of work employee does, how billable they are, are they currently on a project, and will they remain billable?
-    * If not billable, what work are they doing and why is it necessary?)
+    * Justification
+      * Type of work employee does, how billable they are, are they currently on a project, and will they remain billable?
+      * If not billable, what work are they doing and why is it necessary?
   
 3. People Ops will send the list of renewal requests to the TTS Front Office for approval.
 
