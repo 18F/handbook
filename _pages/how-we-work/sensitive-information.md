@@ -11,7 +11,6 @@ Here's what you need to know about sensitive information at TTS.
 Anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands. To learn what information we consider sensitive, see [our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information). See also: [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
 
 ## Tools
-
 TTS offers a few different tools for protecting sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
 
 ### Git secrets
@@ -41,3 +40,16 @@ Follow the linked instructions to password-protect a:
   - [Information from GSA IT](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/how-to-create-fipscompliant-zip-files)
 
 Send the encrypted file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.
+
+### Git-based workflows and Continous Integration and Deployment (CI/CD)
+
+Preventing the leak/exposure of secrets and sensitive information must always be our top priority. For TTS Engineers and Developers, `Sensitive Information` also includes protecting the development and operations of TTS Systems. TTS strongly encourages Continous Integration and Deployment (CI/CD). However, when using a git-based workflow, it is most important to protect branches and enforce reviewer approval before any automation of code changes 
+
+#### CircleCI
+CircleCI has a [Build Pull Request from Forked repos setting](https://circleci.com/docs/2.0/oss/#build-pull-requests-from-forked-repositories) and a [Pass Secrets to Builds from Forked Pull request setting](https://circleci.com/docs/2.0/oss/#pass-secrets-to-builds-from-forked-pull-requests). Both are disabled by default, but any repo owner can enable them.
+
+#### Github Actions
+GitHub has a [pull_request_target workflow trigger that can be misused by any repo owner](https://securitylab.github.com/research/github-actions-preventing-pwn-requests).
+
+#### Other references for protecting Sensitive Information in CI/CD
+* https://sprocketfox.io/xssfox/2021/01/18/pipeline/
