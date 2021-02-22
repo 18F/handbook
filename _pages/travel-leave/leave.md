@@ -18,6 +18,9 @@ tags:
 - military
 - leave
 - request
+- parental
+- parent
+- parental leave
 
 ---
 
@@ -155,9 +158,11 @@ Once approvals are received, please submit a copy of the email thread to [TTS-pe
 
 ### Parental leave
 
-Parents can use any combination of sick leave, annual leave, and/or leave without pay for up to 12 weeks a year. Please note that leave without pay requires prior approval. Please contact [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov) for more information.
+Paid Parental Leave (PPL) provides that an employee may substitute 12 administrative workweeks (480 hours) of paid parental leave for Family and Medical Leave Act leave. Please refer to the [parental leave guidance doc](https://docs.google.com/document/d/1lEXZXqr-1YOP2Py6tBFZkNtDAsv8zbgio8vbEMYly5o/edit?usp=sharing) for instructions on how to request PPL and enter it into HR Links. 
 
-For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) chanel
+***NOTE: An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period.  If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement.***
+
+For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) channel.
 
 ### Federal Employee Paid Leave Act (Paid Parental Leave)
 
