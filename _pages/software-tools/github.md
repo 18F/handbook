@@ -47,8 +47,6 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
 
-- **Do not grant Admin rights to anyone but TTS staff.**
-
 - **Do not store sensitive information in GitHub**, including environment variables, private configuration data, or sensitive information about the public (including but not limited to PII). In the event that such variables or configuration data is pushed to a GitHub repository accidentally, even momentarily, consider it compromised and revoke or change the credentials immediately. Do not delete the commit itself. Then immediately follow the directions on the [incident response handbook page]({{site.baseurl}}/security-incidents). If you're unsure how to protect this information, consult with Infrastructure on GitHub or in the [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) channel in Slack. Some projects use [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to the [TTS Handbook page on sensitive information]({{site.baseurl}}/sensitive-information) and [guidance on sensitive information in our open source policy.](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
 
   - [How to avoid accidentally committing secrets]({{site.baseurl}}/sensitive-information/#git-secrets).
@@ -59,7 +57,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **You do not need approval to create public repositories.**
 
-- **Ask TTS Tech Portfolio before deleting repositories.** As a government team, we can’t delete repositories without TTS Tech Portfolio first reviewing them for information that they may need to retain (including issues, pull request comments, commit history, and other information). [Archiving](#archiving) is preferred in most cases. If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you'd like to do and why, and wait for approval before deleting it.  This approval is generally contingent on no substantive content having been created within the repository (e.g. new issues, commits, substantive comments).  In cases where the content of a repository is no different than that of another repository, it may be considered for deletion.
+- **Ask TTS Tech Portfolio before deleting repositories.** As a government team, we can’t delete repositories without TTS Tech Portfolio first reviewing them for information that they may need to retain (including issues, pull request comments, commit history, and other information). [Archiving](#archiving) is preferred in most cases. If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you'd like to do and why, and wait for approval before deleting it. This approval is generally contingent on no substantive content having been created within the repository (e.g. new issues, commits, substantive comments). In cases where the content of a repository is no different than that of another repository, it may be considered for deletion.
 
 ### Handoff to partner agencies
 
@@ -92,7 +90,7 @@ In other words, you'll probably use GitHub a lot at TTS. We recommend you get fa
 
 ### Working with outside collaborators
 
-Giving contractors and federal partners read or write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community.
+Giving contractors and federal partners access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community.
 
 Confusingly, no one should be an "outside collaborator" in GitHub parlance. Instead, we should manage repo access exclusively via teams.
 
@@ -126,7 +124,7 @@ If you want to make a suggestion to an TTS project without making a specific cha
 
 Teams can give groups of people administrative, write, or read permissions to TTS repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see "we prefer branching to forking when we're working together on TTS projects," above).
 
-Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
+Contractors or external government collaborators should only be added to teams with permissions to the repositories they're working on. You can create `<project>-feds` and `<project>-partners` teams, if necessary.
 
 ### Archiving
 
