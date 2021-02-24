@@ -63,7 +63,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 ### Handoff to partner agencies
 
-By the time engagements end, **repositories developed for another agency should be [transferred](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository#transferring-a-repository-owned-by-your-organization)**. [#admins-github](https://gsa-tts.slack.com/messages/admins-github) will need to do it for you, so ask there. The person performing the transfer will need admin permissions in both the 18F GitHub organization as well as the partner's GitHub organization, so it would be helpful to let your partners know so they can be prepared to assist. After transferring the repository to the client's organization, create a fork of it in [one of our organizations](#organizations). This is so that:
+By the time engagements end, **repositories developed for another agency should be [transferred](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository#transferring-a-repository-owned-by-your-organization)**. After transferring the repository to the client's organization, create a fork of it in [one of our organizations](#organizations). This is so that:
 
 - We have a record of the repository and the work done for that partner.
 - We have a copy of the code, should they decide to delete the transferred repository, make it private, etc.
@@ -72,23 +72,7 @@ If the repository is no longer in use, it should be [archived](#archiving).
 
 ## How-to
 
-### Documentation
-
-- [Brief onboarding class about GitHub]({{site.baseurl}}/intro-to-github).
-
-- The 18F [Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) and accompanying [practice guide](https://github.com/18F/open-source-policy/blob/master/practice.md) explain why and how we write code and documentation in the open.
-
-- [A guide to using GitHub and the Terminal from 18F's blog](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
-
-- Will Slack [explains the basics](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit) of version control and GitHub. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18); course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit). It's also available [in video form](https://www.youtube.com/watch?v=uNa9GOtM6NE).
-
-- The [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/) covers conventions and best practices.
-
-### Git and GitHub Usage
-
-[Git and GitHub]({{site.baseurl}}/github/) are the standard tools for revision control at TTS. We use GitHub to author blog posts, manage documentation, and comment on one another's work.
-
-In other words, you'll probably use GitHub a lot at TTS. We recommend you get familiar with the basics. If you're new to GitHub and feel confused at first, that's normal. Try a few guides, review our documentation, and ask your teammates for help. GitHub also has a handy document that explains the typical [GitHub Workflow](https://guides.github.com/introduction/flow/).
+See [Intro to GitHub]({{site.baseurl}}/intro-to-github/).
 
 ### Working with outside collaborators
 

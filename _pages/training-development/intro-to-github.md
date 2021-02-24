@@ -6,11 +6,13 @@ tags:
 
 _This section provides a brief overview of GitHub. There are different sections provided for different functions in Github. Use the sections that are relevant to the work you will be doing._
 
-## Github 
-
 [GitHub](https://github.com) is a publicly accessible place to share and collaborate on (primarily) open source software projects. GitHub interacts with a program on your computer called Git that tracks every change ever made in a software project.
 
-You've probably already noticed there's a lot happening on GitHub at TTS. That's because it's so useful! In fact, it's very likely you'll interact with GitHub in _some_ way, even if you're not writing code. The remainder of this post will help you familiarize yourself with Github, get squared away with creating your GitHub account, setting up some basic stuff, and will show you some of the ways you might use GitHub, even if it's not committing code.
+[Git and GitHub]({{site.baseurl}}/github/) are the standard tools for revision control at TTS. We use GitHub to author blog posts, manage documentation, and comment on one another's work. In fact, it's very likely you'll interact with GitHub in _some_ way, even if you're not writing code.
+
+We recommend you get familiar with the basics. If you're new to GitHub and feel confused at first, that's normal. Try a few guides, review our documentation, and ask your teammates for help.
+
+The remainder of this post will help you familiarize yourself with Github, get squared away with creating your GitHub account, setting up some basic stuff, and will show you some of the ways you might use GitHub, even if it's not committing code.
 
 ### Introduction
 
@@ -22,7 +24,9 @@ You've probably already noticed there's a lot happening on GitHub at TTS. That's
 
 - [“Git what?” Extolling Github’s virtues to non-coders](https://medium.com/nyc-planning-digital/git-what-extolling-githubs-virtues-to-non-coders-6cc11f1a5fd2) - In this article, learn from a high level view how Github works. It’s a great article for those of you worried about how complicated Github can be and explains what it’s like for non-coders.
 
-- [Github for Non-Coders](https://brennan.io/2015/08/07/github-noncoders/) - This blog branches off from the previous article. It goes into more detail about how Github can be used by non-coders. Share this with any team members who are hesitant about how Github can be used by  them.
+- [Github for Non-Coders](https://brennan.io/2015/08/07/github-noncoders/) - This blog branches off from the previous article. It goes into more detail about how Github can be used by non-coders. Share this with any team members who are hesitant about how Github can be used by them.
+
+- GitHub has a handy document that explains the typical [GitHub Workflow](https://guides.github.com/introduction/flow/).
 
 ### Set up your account
 
@@ -46,15 +50,15 @@ Repositories are where everything is stored in Github. Understanding what a repo
 
 Developer, designer, editor, manager: Whatever your role is, you’ll want to get used to filing issues on GitHub. Issues are a common way of submitting feedback on projects at 18F. For example, if you want to write a blog post, you’ll be asked to submit an issue to the blog repo. If filing an issue seems more difficult for some reason, head to Slack. Or vice versa.
 
-Github can be used for project management purposes. Each issue created will show up on the project board and can be managed by the team. [Github Docs - About project boards](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards) explains how to set up a project board using a Kanban template in Github. 
+Github can be used for project management purposes. Each issue created will show up on the project board and can be managed by the team. [Github Docs - About project boards](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards) explains how to set up a project board using a Kanban template in Github.
 
 If you’re trying to learn how to become an expert in issues, this article, [Mastering Issues](https://guides.github.com/features/issues/), is a great place to start. It’s a short read with all of the basics about issues.
 
 ### 3. Web-based Editing
 
-[Digital.gov: An Introduction to Github](https://digital.gov/resources/an-introduction-github/) is a video that includes a lot of the Github basics you could want. It’s about a 30 minute video that shows you how to manage and publish website content. 
+[Digital.gov: An Introduction to Github](https://digital.gov/resources/an-introduction-github/) is a video that includes a lot of the Github basics you could want. It’s about a 30 minute video that shows you how to manage and publish website content.
 
-Pull requests are important for editing content and making changes in Github. [Github Docs - About pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) explains what a pull request is and how it works. Make sure you are making a pull request from a [branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch) and not directly in Master. 
+Pull requests are important for editing content and making changes in Github. [Github Docs - About pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) explains what a pull request is and how it works. Make sure you are making a pull request from a [branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch) and not directly in Master.
 
 [Introduction to GitHub for Newcomers](https://www.youtube.com/watch?v=uNa9GOtM6NE) is a longer video that will teach you how to file issues and issue pull requests.
 
@@ -70,7 +74,7 @@ A few clarifying definitions:
 
 ### 4. Mastering Markdown
 
-Markdown is how you will format and edit content in Github. [Github Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/) will teach you the basics of markdown. Look for the eye icon and text that says “Preview changes” and you’ll be able to see what the markdown will look like once it is displayed. If you notice that your text is not converting to the styles, go back to the file and make sure it ends with the .md file extension. 
+Markdown is how you will format and edit content in Github. [Github Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/) will teach you the basics of markdown. Look for the eye icon and text that says “Preview changes” and you’ll be able to see what the markdown will look like once it is displayed. If you notice that your text is not converting to the styles, go back to the file and make sure it ends with the .md file extension.
 
 ### 5. Practice in Github
 
