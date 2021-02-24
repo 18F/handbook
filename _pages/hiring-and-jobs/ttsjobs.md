@@ -37,13 +37,11 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Friday, June 11th
 
-- [18F Consulting Software Engineer](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Monday, March 1st 
+- [18F Consulting Software Engineer](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Monday, May 31st 
 
 
 
 ### Internal only opportunities
-
-- [18F Product Manager Supervisor](https://docs.google.com/document/d/1VbRHDCJm3GzVHTZfUYZyn2T8vKKdbYR1pf5xzgB-aYc/edit?userstoinvite=tiffanyj.andrews@gsa.gov&ts=6026d1b0) - open Tuesday, February 16th through Monday, February 22nd 
 
 ## Opportunities with partners
 
