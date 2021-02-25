@@ -39,6 +39,8 @@ We acknowledge that we can do better as a team and as an organization when it co
 
 Many leads for great candidates come through our current employees. Ideally, **these referrals should come directly to Talent rather than to the team/managers/supervisors**. We try to keep all mentions of who knows who and who recommends who away from the team/managers/supervisors who are involved in hiring so they can stay impartial. This helps ensure that candidates make it through the process on their own merits.
 
+Once you have submitted a referral, a talent team member will reach out and invite the person to our monthly general TTS Info Session. We share information about TTS and each BU at the Info Session as well as provide guidance on the application process. If we have a specialized Info Session scheduled (i.e. for Product or Engineering) we will invite your referral to a role specific Info Session if it's applicable. Talent doesn't have individual conversations with referrals. 
+
 We accept varying levels of leads including:
 
 - Referrals: You know them really well (e.g. someone you worked closely with or a good friend)
