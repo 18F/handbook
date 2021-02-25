@@ -32,6 +32,7 @@ Internal roles do not need to be prioritized through Talent’s [formal prioriti
 Internal postings are created using the following templates:
 * [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit)
 * [TTSJobs Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
+* [TTSJobs Application & Nomination Form Template](https://docs.google.com/forms/d/1C8OVwj-yvuHicDwPbtFTLxPLn8zZA6WK6HC-0uIzHwk/edit)
 * [TTS Interview Guide Template](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit)
   * Best practices for developing an interview guide are available in the [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit#).
   * An interview guide for the role may already exist if the role was previously posted; the Talent Team can check.
