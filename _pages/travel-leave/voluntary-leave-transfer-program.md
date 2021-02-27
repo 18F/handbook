@@ -14,12 +14,12 @@ Under the VLTP, a covered employee may donate annual leave directly to another e
 ## Enrolling in VLTP to receive donated hours
 
 1. Employee requesting donated hours completes the VLTP application [OPM Form 630](https://www.opm.gov/forms/pdf_fill/opm630.pdf) and emails it to their immediate supervisor along with supporting medical documentation (i.e. doctor’s note)
-* Immediate supervisor or authorized representative can fill out the form on behalf of the employee
-* ***NOTE:*** Form can only be saved by clicking the "Save Form" button at the bottom of the PDF
-1. The immediate supervisor reviews the applicant’s OPM Form 630, completes sections 12, 13 & 17 of the form and submits the Form 630 and supporting documentation to the FAS NCR/CO [Leave Transfer Program Administrator](https://insite.gsa.gov/topics/hr-pay-and-leave/pay-and-leave/leave/leave-transfer-contacts)
-* If eligibility is not met, the OPM Form 630 is returned to the applicant within 10 work days with a statement of why the requirements have not been met
-1. If the VLTP application has been approved, the VLTP Administrator notifies the applicant and returns a copy of the approved Form 630
-1. Supervisor follows the announcement guidance below to send out an email TTS-wide on behalf of the employee  
+ * Immediate supervisor or authorized representative can fill out the form on behalf of the employee
+ * ***NOTE:*** Form can only be saved by clicking the "Save Form" button at the bottom of the PDF
+2. The immediate supervisor reviews the applicant’s OPM Form 630, completes sections 12, 13 & 17 of the form and submits the Form 630 and supporting documentation to the FAS NCR/CO [Leave Transfer Program Administrator](https://insite.gsa.gov/topics/hr-pay-and-leave/pay-and-leave/leave/leave-transfer-contacts)
+ * If eligibility is not met, the OPM Form 630 is returned to the applicant within 10 work days with a statement of why the requirements have not been met
+3. If the VLTP application has been approved, the VLTP Administrator notifies the applicant and returns a copy of the approved Form 630
+4. Supervisor follows the announcement guidance below to send out an email TTS-wide on behalf of the employee  
 
 ## VLTP Announcement Guidance
 
@@ -38,6 +38,5 @@ When the medical emergency is over, the employee should remove themself from the
 
 1. Check leave balance in [HR Links](https://hrlinks.gsa.gov/) to make sure that annual and/or sick leave balance isn't negative
  * If a leave balance is negative, work with #people-ops to amend old time cards with donated leave hours
-1. Employee emails the FAS NCR/CO [Leave Transfer Program Administrator](https://insite.gsa.gov/topics/hr-pay-and-leave/pay-and-leave/leave/leave-transfer-contacts) to inform them to remove employee from the program
-1. All unused VLTP hours will be returned to the individuals that donated to the employee
-
+2. Employee emails the FAS NCR/CO [Leave Transfer Program Administrator](https://insite.gsa.gov/topics/hr-pay-and-leave/pay-and-leave/leave/leave-transfer-contacts) to inform them to remove employee from the program
+3. 1. All unused VLTP hours will be returned to the individuals that donated to the employee
