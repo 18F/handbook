@@ -173,7 +173,7 @@ Paid Parental Leave (PPL) provides that an employee may substitute 12 administra
 2. [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1Q3AMW_gnwWTy2IRR4l6gmaV7Zkvq7InJ/view?usp=sharing), and
 3. Either a completed [WH-380-E](https://drive.google.com/file/d/1rifxKW_H5D8cgksm-w6EUgfNvNeGGVf8/view?usp=sharing), or a medical certificate from their provider
 
-The three forms should be returned to the employee's [servicing ER/LR Specialist](https://docs.google.com/spreadsheets/d/1w1K15Un1hEzvFifncLD1Oa_goqOrwuUY4YzAx6LVjOI/edit?usp=sharing]. That Specialist can coordinate with the supervisor and recommend approval or not of the PPL.
+The three forms should be returned to the employee's [servicing ER/LR Specialist](https://docs.google.com/spreadsheets/d/1w1K15Un1hEzvFifncLD1Oa_goqOrwuUY4YzAx6LVjOI/edit?usp=sharing). That Specialist can coordinate with the supervisor and recommend approval or not of the PPL.
 
 Please note: The Paid Parental Leave (PPL) code is not yet available in HR Links. Therefore, in order to ensure an employee is paid during their time off, they should substitute their accrued annual leave or sick leave into FMLA leave by using the following options in HR Links:
   - Annual Leave - FMLA- Employee
