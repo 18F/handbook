@@ -39,4 +39,4 @@ When the medical emergency is over, the employee should remove themself from the
 1. Check leave balance in [HR Links](https://hrlinks.gsa.gov/) to make sure that annual and/or sick leave balance isn't negative
  * If a leave balance is negative, work with #people-ops to amend old time cards with donated leave hours
 2. Employee emails the FAS NCR/CO [Leave Transfer Program Administrator](https://insite.gsa.gov/topics/hr-pay-and-leave/pay-and-leave/leave/leave-transfer-contacts) to inform them to remove employee from the program
-3. 1. All unused VLTP hours will be returned to the individuals that donated to the employee
+3. All unused VLTP hours will be returned to the individuals that donated to the employee
