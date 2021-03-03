@@ -94,6 +94,9 @@ primary:
       - text: Travel guide (table of contents)
         url: travel-guide-table-of-contents/
         internal: true
+      - text: Voluntary Leave Transfer Program (VLTP)
+        url: voluntary-leave-transfer-program/
+        internal: true
   - text: Performance management
     href: /#performance-management
     blurb: |
@@ -144,7 +147,7 @@ primary:
         internal: true
       - text: Details with other agencies
         url: external-details/
-        internal: true   
+        internal: true
       - text: Promotions
         url: promotions/
         internal: true
