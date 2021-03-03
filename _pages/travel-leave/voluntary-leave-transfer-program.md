@@ -9,7 +9,7 @@ tags:
 
 This page provides instructions for enrolling in and donating to the Voluntary Leave Transfer Program (VLTP).  Please reference the [OPM VLTP page](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) for more information.
 
-Under the VLTP, a covered employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted his or her available paid leave.
+Under the VLTP, an employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave.
 
 ## Enrolling in VLTP to receive donated hours
 
@@ -30,7 +30,7 @@ Under the VLTP, a covered employee may donate annual leave directly to another e
 
 ## How to donate hours
 
-The [VLTP User Guide](https://vltp.gsa.gov/pdf/UserGuide.pdf) has instructions for setting up a MAX.gov account to access the VLTP donation site and instructions for donating leave 
+The [VLTP User Guide](https://vltp.gsa.gov/pdf/UserGuide.pdf) has instructions for setting up a MAX.gov account to access the VLTP donation site and instructions for donating leave. 
 
 ## Unenrolling from VLTP
 
