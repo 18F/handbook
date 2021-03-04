@@ -533,7 +533,7 @@ primary:
             url: tools/mural/
             internal: true
           - text: Qualtrics (survey management tool)
-            url: software-tools/qualtrics/
+            url: qualtrics/
             internal: true
           - text: Security scanning
             url: https://before-you-ship.18f.gov/security/scanning/
