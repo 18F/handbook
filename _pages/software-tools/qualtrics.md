@@ -14,7 +14,7 @@ Please use Google Forms if you’re only collecting feedback from people with GS
 
 ## Logging into Qualtrics
 
-Qualtrics can be accessed at [feedback.gsa.gov](feedback.gsa.gov) via single sign-on on the GSA network or 2-factor authentication using your ENT credentials.
+Qualtrics can be accessed at [feedback.gsa.gov](https://feedback.gsa.gov) via single sign-on on the GSA network or 2-factor authentication using your ENT credentials.
 
 OCE requires new license holders to **attend their weekly office hours within a month of getting a license**, to get an overview on how to work the platform and requirements for usage. Office Hours are held every Wednesday at 12 PM ET. [Email OCE](mailto:customerexperience@gsa.gov) to get a calendar invite.
 
@@ -45,7 +45,7 @@ Follow the [Survey Checklist](https://docs.google.com/document/d/1f5wkHrw5UPsZGK
 Please note that all Qualtrics projects must be reviewed and approved by OCE before being distributed. Please use [this form](https://feedback.gsa.gov/jfe/form/SV_bw48jGEVifGRXjT) to submit a survey request. OCE requires 5 business days for the initial review. Depending on the size and scope of the survey, an additional review may be necessary.
 
 ## Paperwork Reduction Act (PRA)
-If you’re collecting feedback from more than 10 people outside of the Federal Government, your survey will need to go through PRA approval. The whole process takes 3-4 weeks with approvals from not only OCE, but also GSA’s Office of Government-Wide Policy (OGP), Legal, and finally The Office of Information and Regulatory Affairs (OIRA) at the Office of Management and Budget (OMB). More information can be found in the [PRA Digital Guide](pra.digital.gov).
+If you’re collecting feedback from more than 10 people outside of the Federal Government, your survey will need to go through PRA approval. The whole process takes 3-4 weeks with approvals from not only OCE, but also GSA’s Office of Government-Wide Policy (OGP), Legal, and finally The Office of Information and Regulatory Affairs (OIRA) at the Office of Management and Budget (OMB). More information can be found in the [PRA Digital Guide](https://pra.digital.gov/).
 
 ## Offboarding
 Please [email OCE](mailto:customerexperience@gsa.gov) if you need to transfer your account to someone else, if you’re leaving GSA, or if you no longer need your account.
