@@ -6,13 +6,13 @@ redirect_from:
 
 A diverse organization creates a spectrum of solutions and ideas, and helps us challenge status quo thinking. Inside TTS, the work of diversity, equity, and inclusion (DEI or DE&I) is a collective effort: every employee makes a difference.
 
-The TTS Diversity Guild has collaboratively drafted this handbook page to outline how we approach DEI in TTS. We believe that diversity is vital to a successful organization and that it is crucial to reflect the diversity of the public we serve. We also recognize that [a diverse workforce is not enough](https://www.opm.gov/policy-data-oversight/diversity-and-inclusion/). We are committed to promoting an inclusive environment where all individuals feel like they can bring their whole selves, their uniqueness is valued, and they are an integral part of [TTS’s mission](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) to improve the public’s experience with the government.
+The TTS Diversity Guild has collaboratively drafted this handbook page to outline how we approach DEI in TTS. We believe that diversity is vital to a successful organization and that it is crucial to reflect the diversity of the public we serve. We also recognize that [a diverse workforce is not enough](https://www.opm.gov/policy-data-oversight/diversity-and-inclusion/). We are committed to promoting an inclusive environment where all individuals feel like they can bring their whole selves, their uniqueness is valued, and they are an integral part of [TTS’s mission]({{site.baseurl}}/tts-history/) to improve the public’s experience with the government.
 
 ## Code of Conduct
 
 The foundation for the Diversity Guild’s work is based on the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct/).
 
-We strive to create a community where everyone feels empowered to speak up. However, we recognize that there are always power dynamics at play and that each of us has personal preferences when discussing sensitive information. If you would like to discuss an issue without disclosing your name, [please use this anonymous form](https://docs.google.com/forms/d/1xIaxaHD957MtfDwHy7Ec_Xf4C4VXbOy_bpwWL7f6e94/edit?ts=5d52ff9b).
+We strive to create a community where everyone feels empowered to speak up. However, we recognize that there are always power dynamics at play and that each of us has personal preferences when discussing sensitive information. If you would like to discuss an issue without disclosing your name, [please use this anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSe9OrJBE19gzeAA42lOF3GmEkXrcXuf0g6KqXeP-wCZRO0_Vw/viewform).
 
 ## Resources
 
@@ -67,7 +67,11 @@ We believe there are four sources of inclusiveness at every organization, and we
 
 ## Diversity Guild
 
-The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and the [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/) Slack channel. The Guild is currently led by Aileen McGraw and Jessyka Castillo.
+The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and the [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/) Slack channel. 
+
+The Guild is currently led by Aileen McGraw and Jessyka Castillo. 
+
+We also have [DE&I Reps](https://docs.google.com/document/d/1g7bpwFBfpHMy0guu5nUaF0HhBLvu42pF0nCiBdb92M4/edit) from each part of the organization.
 
 ### How to get involved
 
@@ -75,4 +79,4 @@ Not only does the Diversity Guild provide a space for learning, it also promotes
 
 - Join our Slack channel, [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/).
   - Read the [Guidelines for the #G-Diversity Channel](https://docs.google.com/document/d/1IP0GERswH8t5nQxH0VyYPidj5TrkNtfJEmaPz3_y-go/edit)
-- Come to our meetings. We meet weekly, every Friday at 12:30-1pm EST. We also have open coworking sessions every Friday at 1pm EST, or the option to extend meeting topics to one hour. The meetings currently show up on the [TTS Working Groups and Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) If you would like to be added to the invites directly, please message Jessyka Castillo or Aileen McGraw.
+- Come to our meetings. We meet weekly, every Friday at 12:30-1pm EST. The meetings show up on the [TTS Working Groups and Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) If you would like to be added to the invites directly, please message Jessyka Castillo or Aileen McGraw.
