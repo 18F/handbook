@@ -80,7 +80,7 @@ A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding
 - Work with the employee to transition the employee's workload to other team members.
 - Ensure they complete their last timesheet in Tock.
 
-### Talent Team
+### People-Ops Team
 
 - Provide [TTS Exit Interview Questionnaire](https://forms.gle/PrHtjvkMy6jiMEtW9) to offboarding employee.
   - For offboarding interns, use [this survey](https://goo.gl/forms/XOy7QO4zcnz6LyLh1).
