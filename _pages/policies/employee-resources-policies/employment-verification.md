@@ -18,8 +18,15 @@ Providing verification of GSA employment and salary.
 
 ## Employment and income verification
 
-GSA employees who need income/employment verification should direct their apartment manager/lender/potential new employer to contact Payroll at [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) or toll free at 844-303-6515.
+GSA employees who need employment and/or income verification should utilize The Work Number® (TWN) provided by Equifax, available 24 hours a day, 7 days a week.
 
-For additional payroll information and services go to www.gsa.gov/payroll.
+If an approved party (such as mortgage lenders, property managers, car dealers, caseworkers, etc) needs to verify your income or employment, they can contact TWN via the options below:
 
-The information above was sourced from the [HR, Pay and Leave: Employment/Income Verification Insite page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/policies-and-resources/hr-pay-and-leave-employment-income-verification?term=the%20Work%20Number).
+  * [The Work Number website](http://www.theworknumber.com/)
+  * 800-367-5690 (Monday through Friday, 8:00 AM to 8:00 PM EST)
+  * Email [member@equifax.com](mailto:member@equifax.com)
+  * GSA's TWN Employer Code is 10536
+
+For additional information about the TWN program, please refer to the [TWN Employee Guide [DOCX - 61 KB]](https://www.gsa.gov/cdnstatic/Employee_Guide_to_The_Work_Number_GSA.docx) or the [TWN Employee FAQ [DOCX - 38 KB]](https://www.gsa.gov/cdnstatic/Employee_FAQ_GSA.docx).
+
+The information above was sourced from the [GSA.gov's "The Work Number" page](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/gsa-and-the-work-number).
