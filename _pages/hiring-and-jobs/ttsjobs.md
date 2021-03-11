@@ -43,9 +43,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-- [18F Director of Design](https://docs.google.com/document/d/1GnNE99f_GKTIqKhTXfi2TqOScOv0z2Kya4jVe7O8gf4/edit?ts=603d0bde#) - open Monday, March 1st through Wednesday, March 10th 
-
-- [18F Director of Justice Portfolio](https://docs.google.com/document/d/10UTlQCElEkQ8p04nZmtJ1Z5QJ6-2LUf1YLpjFUbARUk/edit#) - open Monday, March 1st through Wednesday, March 10th 
 
 - [18F Product Design Supervisor](https://docs.google.com/document/d/1cC4wFWRecj7WzegR4zp8DRo7UOaXnXKECcewXh11cjU/edit?ts=603d506f#) - open Friday, March 5th through Wednesday, March 17th 
 
