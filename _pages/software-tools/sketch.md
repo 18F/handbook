@@ -18,7 +18,7 @@ Note Sketch is registered to the machine, so this needs to be done if you get a 
 
 Once you get the email above:
 
-1. [Request an access code](https://www.sketch.com/support/license-manager/) for [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov).
+1. [Request an access code](https://www.sketch.com/support/license-manager/) for [tts-software@gsa.gov](mailto:tts-software@gsa.gov).
 1. You should get an email from Sketch. Click through to log into the License Manager.
    - If it doesn't come through, check [pending messages](https://groups.google.com/a/gsa.gov/forum/#!pendingmsg/18fsoftware), because [reasons](https://www.sketch.com/support/licensing-and-sales/license-manager-email-issue/).
 1. Add to the [user list](https://docs.google.com/spreadsheets/d/1SCkLr0GXgoeqmIMPLic8QnX1INkyoP1YCNp17Sarx9s/edit?usp=drive_web&ouid=110177769858789799592). Delete their old one, if it’s in there.
