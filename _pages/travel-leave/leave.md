@@ -160,9 +160,9 @@ Once approvals are received, please submit a copy of the email thread to [TTS-pe
 The Federal Employee Paid Leave Act (FEPLA) gives workers access to up to 12 weeks of paid time off for the birth, adoption or placement of a new child.
 Paid Parental Leave (PPL) provides that an employee may substitute 12 administrative workweeks (480 hours) of paid parental leave for Family and Medical Leave Act leave. Employees need to fill out the:
 
-1. [Paid Parental Leave Request form](https://drive.google.com/file/d/1rifxKW_H5D8cgksm-w6EUgfNvNeGGVf8/view?usp=sharing)
-2. [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1Q3AMW_gnwWTy2IRR4l6gmaV7Zkvq7InJ/view?usp=sharing), and
-3. Either a completed [WH-380-E](https://drive.google.com/file/d/1rifxKW_H5D8cgksm-w6EUgfNvNeGGVf8/view?usp=sharing), or a medical certificate from their provider
+1. [Paid Parental Leave Request form](https://drive.google.com/file/d/1fKcnu4idW2BTpdb9GIXw8rlYySHoGzRf/view)
+2. [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view), and
+3. Either a completed [WH-380-E](https://drive.google.com/file/d/1B1OINFkmxroMlgS-WVwyuf6wsBx7aRF8/view), or a medical certificate from their provider
 
 The three forms should be returned to the [Leave Policies HR specialist for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit). That Specialist can coordinate with the supervisor and recommend approval or not of the PPL.
 
