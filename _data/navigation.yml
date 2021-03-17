@@ -91,6 +91,9 @@ primary:
       - text: Out of office expectations
         url: leave/#leave-checklist
         internal: true
+      - text: Paid Parental Leave
+        url: leave/#federal-employee-paid-leave-act-paid-parental-leave
+        internal: true
       - text: Travel guide (table of contents)
         url: travel-guide-table-of-contents/
         internal: true
