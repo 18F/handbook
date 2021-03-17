@@ -155,15 +155,6 @@ Employee must get written approval from the following chain of command:
 
 Once approvals are received, please submit a copy of the email thread to [TTS-peopleops@gsa.gov](mailto:tts-peopleops@gsa.gov)
 
-
-### Parental leave
-
-Paid Parental Leave (PPL) provides that an employee may substitute 12 administrative workweeks (480 hours) of paid parental leave for Family and Medical Leave Act leave. Please refer to the [parental leave guidance doc](https://docs.google.com/document/d/1lEXZXqr-1YOP2Py6tBFZkNtDAsv8zbgio8vbEMYly5o/edit?usp=sharing) for instructions on how to request PPL and enter it into HR Links. 
-
-***NOTE: An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period.  If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement.***
-
-For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) channel.
-
 ### Federal Employee Paid Leave Act (Paid Parental Leave)
 
 The Federal Employee Paid Leave Act (FEPLA) gives workers access to up to 12 weeks of paid time off for the birth, adoption or placement of a new child.
@@ -173,18 +164,20 @@ Paid Parental Leave (PPL) provides that an employee may substitute 12 administra
 2. [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1Q3AMW_gnwWTy2IRR4l6gmaV7Zkvq7InJ/view?usp=sharing), and
 3. Either a completed [WH-380-E](https://drive.google.com/file/d/1rifxKW_H5D8cgksm-w6EUgfNvNeGGVf8/view?usp=sharing), or a medical certificate from their provider
 
-The three forms should be returned to the employee's [servicing ER/LR Specialist](https://docs.google.com/spreadsheets/d/1w1K15Un1hEzvFifncLD1Oa_goqOrwuUY4YzAx6LVjOI/edit?usp=sharing). That Specialist can coordinate with the supervisor and recommend approval or not of the PPL.
+The three forms should be returned to the [Leave Policies HR specialist for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit). That Specialist can coordinate with the supervisor and recommend approval or not of the PPL.
 
-Please note: The Paid Parental Leave (PPL) code is not yet available in HR Links. Therefore, in order to ensure an employee is paid during their time off, they should substitute their accrued annual leave or sick leave into FMLA leave by using the following options in HR Links:
-  - Annual Leave - FMLA- Employee
-  - Sick Leave - FMLA- Employee
-  - Leave Without Pay - FMLA- Employee
+**Please note:** HR Links now has temporary Paid Parental Leave (PPL) Codes in the system that are effective as of 10/1/2020 for amendments.  As a reminder, employees need to be approved for PPL by their servicing ER specialist before using PPL.  Once approved, an employee will select Other Paid Absence in Absence Type and select one of the three following reason codes:
+  - Paid Parental Leave Adoption
+  - Paid Parental Leave Child
+  - Paid Parental Leave Foster
 
-Once the PPL codes are available in HR Links, HR will notify the employee. Their timekeeper and the employee/supervisor can amend the time cards retroactively to apply Paid Parental Leave to the employee's time card(s), and they will be credited for the leave they have taken under PPL-FMLA.  FMLA must be in the initial leave category requested, or else PPL cannot be retroactively applied to this leave.
+Once the PPL codes are available in HR Links, HR will notify the employee. Their timekeeper and the employee/supervisor can amend the time cards retroactively to apply Paid Parental Leave to the employee's time card(s), and they will be credited for the leave they have taken under PPL-FMLA.  FMLA **must** be in the initial leave category requested, or else PPL **cannot** be retroactively applied to this leave. 
 
-*An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period.  If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement.*
+***An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period.  If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement.***
 
-Annual Leave + Sick Leave: Employees are entitled to use their earned annual and sick leave for parental/maternity leave reasons.  This would be regular Annual Leave and regular Sick Leave.  Please note, though, that if these regular leave options are used (without the FMLA extension), the PPL cannot be retroactively applied towards the parental/maternity leave.
+Annual Leave + Sick Leave: Employees are entitled to use their earned annual and sick leave for parental/maternity leave reasons.  This would be *regular* Annual Leave and *regular* Sick Leave.  Please note, though, that if these *regular* leave options are used (without the FMLA extension), the PPL **cannot** be retroactively applied towards the parental/maternity leave.
+
+For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) channel.
 
 ### Family and Medical Leave Act
 
