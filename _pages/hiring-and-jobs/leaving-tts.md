@@ -65,7 +65,7 @@ If you have any questions, please email the GSA HR Benefits Contact found in the
 
 ### 6. Complete the clearance checklist
 
-Keith Wilson from the TTS Talent Team ([#talent](https://gsa-tts.slack.com/messages/talent/)) will set time with you to complete the [GSA Pre-exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist).
+Keith Wilson from the TTS People Ops Team ([#people-ops](https://gsa-tts.slack.com/archives/C047LSLTU) will set time with you to complete the [GSA Pre-exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist).
 
 ### 7. Return your equipment
 
@@ -73,7 +73,7 @@ When you leave TTS, you are responsible for returning all TTS-issued equipment. 
 
 ## Offboarding process
 
-A member of the Talent Team will `Duplicate` the `Template` in the [Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1IlFY5AAvTyuS7yDHk5_odJGHYZDU_MN9HNGKJ2zXwi0/edit#gid=0) to make a new checklist once **leavingTTS@gsa.gov** has been notified that a team member is leaving. If the checklist hasn't been created, please email [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov) or ping #talent for help. More detail for certain tasks is below. Note that, per GSA policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at GSA.
+A member of the People Ops Team will `Duplicate` the `Template` in the [Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1IlFY5AAvTyuS7yDHk5_odJGHYZDU_MN9HNGKJ2zXwi0/edit#gid=0) to make a new checklist once **leavingTTS@gsa.gov** has been notified that a team member is leaving. If the checklist hasn't been created, please email [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov) or ping #people-ops for help. More detail for certain tasks is below. Note that, per GSA policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at GSA.
 
 ### Supervisor
 
