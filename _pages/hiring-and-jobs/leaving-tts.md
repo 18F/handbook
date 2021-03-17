@@ -65,7 +65,7 @@ If you have any questions, please email the GSA HR Benefits Contact found in the
 
 ### 6. Complete the clearance checklist
 
-Keith Wilson from the TTS People Ops Team ([#people-ops](https://gsa-tts.slack.com/archives/C047LSLTU) will set time with you to complete the [GSA Pre-exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist).
+Keith Wilson from the TTS People Ops Team ([#people-ops](https://gsa-tts.slack.com/messages/people-ops) will set time with you to complete the [GSA Pre-exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist).
 
 ### 7. Return your equipment
 
