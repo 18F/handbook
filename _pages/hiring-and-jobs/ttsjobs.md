@@ -41,15 +41,15 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/) - open Friday, March 5th through Friday, May 14th
 
-- [TTS Talent Team GS-14 Recruiter](https://www.usajobs.gov/GetJob/ViewDetails/595798600) - open Monday, March 22nd through Friday, March 29th
+- [TTS Talent Team GS-14 Recruiter](https://www.usajobs.gov/GetJob/ViewDetails/595798600) - open Monday, March 22nd through Friday, March 26th
 
-- [TTS Talent Team GS-15 Recruiter](https://www.usajobs.gov/GetJob/ViewDetails/595696900) - open Monday, March 22nd through Friday, March 29th
+- [TTS Talent Team GS-15 Recruiter](https://www.usajobs.gov/GetJob/ViewDetails/595696900) - open Monday, March 22nd through Friday, March 26th
 
 ### Internal only opportunities
 
-- [MAX.gov Collaboration Project Manager Detail ](https://docs.google.com/document/d/1XG1JCH6e_xh5FoJ01USjS6jc4uRlqHxD3YHk-RCIvb8/edit?ts=6050ce3e) - open Monday, March 22nd through Friday, March 29th 
+- [MAX.gov Collaboration Project Manager Detail ](https://docs.google.com/document/d/1XG1JCH6e_xh5FoJ01USjS6jc4uRlqHxD3YHk-RCIvb8/edit?ts=6050ce3e) - open Monday, March 22nd through Friday, March 26th 
 
-- [Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit#) - open Monday, March 22nd through Friday, March 29th 
+- [Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit#) - open Monday, March 22nd through Friday, March 26th 
 
 ## Opportunities with partners
 
