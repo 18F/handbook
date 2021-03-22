@@ -47,7 +47,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-- [MAX.gov Authentication Product Line Lead Detail ](https://docs.google.com/document/d/1XG1JCH6e_xh5FoJ01USjS6jc4uRlqHxD3YHk-RCIvb8/edit?ts=6050ce3e) - open Monday, March 22nd through Friday, March 29th 
+- [MAX.gov Collaboration Project Manager Detail ](https://docs.google.com/document/d/1XG1JCH6e_xh5FoJ01USjS6jc4uRlqHxD3YHk-RCIvb8/edit?ts=6050ce3e) - open Monday, March 22nd through Friday, March 29th 
 
 - [Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit#) - open Monday, March 22nd through Friday, March 29th 
 
