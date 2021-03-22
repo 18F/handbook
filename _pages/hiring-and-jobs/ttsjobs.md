@@ -41,6 +41,10 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/) - open Friday, March 5th through Friday, May 14th
 
+- [Talent Team GS 15 Program Analyst](https://www.usajobs.gov/GetJob/ViewDetails/595696900) - open Monday March 22nd through Friday, March 26
+
+- [Talent Team GS 14 Program Analyst](https://www.usajobs.gov/GetJob/ViewDetails/595798600) - open Monday March 22nd through Friday, March 26
+
 ### Internal only opportunities
 
 
