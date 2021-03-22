@@ -41,14 +41,15 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/) - open Friday, March 5th through Friday, May 14th
 
+- [TTS Talent Team GS-14 Recruiter](https://www.usajobs.gov/GetJob/ViewDetails/595798600) - open Monday, March 22nd through Friday, March 29th
+
+- [TTS Talent Team GS-15 Recruiter](https://www.usajobs.gov/GetJob/ViewDetails/595696900) - open Monday, March 22nd through Friday, March 29th
+
 ### Internal only opportunities
-
-
-- [18F Product Design Supervisor](https://docs.google.com/document/d/1cC4wFWRecj7WzegR4zp8DRo7UOaXnXKECcewXh11cjU/edit?ts=603d506f#) - open Friday, March 5th through Wednesday, March 17th 
 
 - [MAX.gov Authentication Product Line Lead Detail ](https://docs.google.com/document/d/1XG1JCH6e_xh5FoJ01USjS6jc4uRlqHxD3YHk-RCIvb8/edit?ts=6050ce3e) - open Monday, March 22nd through Friday, March 29th 
 
-- [Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit#) - open Monday, March 22nd through Friday, March 29th ) - open Monday, March 22nd through Friday, March 29th 
+- [Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit#) - open Monday, March 22nd through Friday, March 29th 
 
 ## Opportunities with partners
 
