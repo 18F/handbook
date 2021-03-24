@@ -33,7 +33,7 @@ digital publication, data management, and accessibility.
 # What we're trying to accomplish
 
 The EDX team is seeking to support the evolution of all GSA websites toward a set of identified standards.
-The standards are described [here:](/another-page-about-what-we-track-for-websites).
+The standards are described [here:]({{site.baseurl}}/TBD-TBD-TBD-another-page-about-what-we-track-for-websites).
 
 If we do this, we will be in compliance with the letter and the spirit of guidance
 like 21st Century IDEA, we will provide more consistent experiences, less duplicative experiences,
