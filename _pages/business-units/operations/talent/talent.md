@@ -18,18 +18,24 @@ We are a team that works collaboratively, transparently and vulnerably. Where ev
 
 ### Team Values
 
-- Teamwork
-- User-Centric, iterative & agile
+- Attentiveness
+- Inclusion
+- Empathy
+- User-Centric, Iterative and Agile
 - Measureable & data driven
-- Open by default
-- Be great to work with
-- Innovative Solutions
+- Transparency
+- Collaboration
+- Strategic Thinking
 
-### FY2020 Key Objectives
 
-1. Acquire the people that TTS needs to deliver on the work to transform the Federal Government
-2. Set the bar for candidate experience within the Federal Government
-3. Attract and hire well-qualified candidates who reflect the diversity of the general public
+
+### FY2021 Key Objectives
+
+1. Atttract and hire well-qualified candidates who reflect the diversity of the general public
+2. Strategically partner with leaderdhip to understand and advise on the people needs of the organization 
+3. Use data to make well informed decisions about the recruitment and onboarding process
+4. Foster relationships internally and externally
+
 
 ### Our Commitment to DE&I
 
@@ -37,7 +43,7 @@ We acknowledge that we can do better as a team and as an organization when it co
 
 ## Referring a person
 
-Many leads for great candidates come through our current employees. Ideally, **these referrals should come directly to Talent rather than to the team/managers/supervisors**. We try to keep all mentions of who knows who and who recommends who away from the team/managers/supervisors who are involved in hiring so they can stay impartial. This helps ensure that candidates make it through the process on their own merits.
+Many leads for great candidates come through our current employees. Ideally, **these referrals should come directly to Talent rather than to the team/managers/supervisors**. We work to keep all mentions of who knows who and who recommends who away from the team/managers/supervisors who are involved in hiring so they can stay impartial. This helps ensure that candidates make it through the process on their own merits.
 
 Once you have submitted a referral, a talent team member will reach out and invite the person to our monthly general TTS Info Session. We share information about TTS and each BU at the Info Session as well as provide guidance on the application process. If we have a specialized Info Session scheduled (i.e. for Product or Engineering) we will invite your referral to a role specific Info Session if it's applicable. Talent doesn't have individual conversations with referrals. 
 
