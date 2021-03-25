@@ -4,7 +4,7 @@ title: Microsoft Office
 
 At TTS, [Google Docs/Sheets/Slides]({{site.baseurl}}/google-drive/) is our preferred tool for documents/spreadsheets/presentations, since it has built-in records retention, collaboration, sharing, importing and exporting of Office files, etc.
 
-In normal day-to-day operations, working on projects for GSA, you will probably never need Microsoft Office. The most common case for needing Office is if another agency is if another agency is unable to use web-based productivity tools like GSA's G Suite.
+In normal day-to-day operations, working on projects for GSA, you will probably never need Microsoft Office. The most common case for needing Office is if another agency is unable to use web-based productivity tools like GSA's G Suite.
 
 If you only need Office temporarily, you can access it right away through [VDI](https://vdi.anywhere.gsa.gov). To get a license on your machine, you will need to put in a request.
 
