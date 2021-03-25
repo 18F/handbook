@@ -55,6 +55,8 @@ We accept varying levels of leads including:
 
 Submit leads and referrals using the [Referral Submission Form](https://goo.gl/forms/I6cOnRNdh21aP5e63). [More information on the referral program.](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit) Leads and referrals are welcome any time, not just during times when positions are open.
 
+Please note: In accordance to GSA Order 9310.2, Restrictions on Employment of Relatives, no public official shall refer a relative to another public official for consideration for appointment, employment, promotion, or advancement to any position in GSA. 
+
 To see what positions we're hiring for, take a look at our [Join TTS](https://join.tts.gsa.gov/) website.
 
 ## Applying to open positions
