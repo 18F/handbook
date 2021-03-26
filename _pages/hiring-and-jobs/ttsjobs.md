@@ -51,6 +51,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit#) - open Monday, March 22nd through Friday, March 26th 
 
+- [18F Account Director Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit?userstoinvite=victoria.mcfadden%40gsa.gov&ts=605cc721&actionButton=1) - open Friday, March 26th through Thursday, April 1 
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
