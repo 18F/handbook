@@ -47,11 +47,9 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-- [MAX.gov Collaboration Project Manager Detail ](https://docs.google.com/document/d/1XG1JCH6e_xh5FoJ01USjS6jc4uRlqHxD3YHk-RCIvb8/edit?ts=6050ce3e) - open Monday, March 22nd through Friday, March 26th 
-
-- [Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit#) - open Monday, March 22nd through Friday, March 26th 
-
 - [18F Account Director Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit?userstoinvite=victoria.mcfadden%40gsa.gov&ts=605cc721&actionButton=1) - open Friday, March 26th through Thursday, April 1 
+
+- [18F Engineering Supevisor Detail](https://docs.google.com/document/d/1lKhfQXdWDDQO_jxQ3_TgTXnWnPr_W2l20gu84PwLTr8/edit#heading=h.97rh47a6ro9) - open Monday, March 29th through Monday, April 5 
 
 ## Opportunities with partners
 
