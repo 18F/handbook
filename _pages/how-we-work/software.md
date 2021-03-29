@@ -2,6 +2,7 @@
 title: Software Under $10,000
 questions:
   - infrastructure
+  - tts-software@gsa.gov
 ---
 
 Do you need software to do your job or make sure TTS is running smoothly? Follow the steps below to access software we own or request a software purchase of under \$10,000.
@@ -63,7 +64,7 @@ Typically, ATOs are for data and systems. They are required for any GSA informat
 - [Google Cloud / G Suite services, including APIs](https://docs.google.com/spreadsheets/d/1h0338doPlHIfslS7Huypzs7TlJTFVw_-98oPnum0Cvo/edit#gid=467863101)
 - [Slack integrations]({{site.baseurl}}/tools/slack/integrations/)
 
-## Contacts
+## Relevant policies
 
-**TTS SaaS Project Manager:** Melanie Leopold [melanie.leopold@gsa.gov](mailto:melanie.leopold@gsa.gov)
-**TTS Office of Acquisition Director:** Esther Praske [esther.praske@gsa.gov](mailto:esther.praske@gsa.gov)
+- [GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>)
+- [GSA IT Security Policies](https://www.gsa.gov/policy-regulations/policy/information-integrity-and-access/gsa-it-security-policies)
