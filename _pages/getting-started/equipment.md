@@ -79,7 +79,7 @@ If you are based in an office, you can check out mice, keyboards, and trackpads 
 
 GSA IT will provide peripherals such as: Wired keyboard, Wired mouse, and monitors ONLY if the users are using them in the office. Note: GSA IT does not provide wireless peripherals. Wireless peripherals can be purchased by the business unit. 
 
-In order to obtain standard issued hardware, the requestor must contact the IT Service Desk or open a ServiceNow ticket. For non-standard IT equipment, requestors must complete and submit an Exception Waiver Form for review and approval.
+In order to obtain standard issued hardware, the requestor must contact the IT Service Desk or open a ServiceNow ticket. For non-standard IT equipment, requestors must complete and submit an [Exception Waiver](https://insite.gsa.gov/employee-resources/information-technology/it-assistance-and-help-desk/service-catalog/exception-waiver-request-process-for-nonstandard-equipment-and-macintosh?term=exception%20waiver) for review and approval.
 
 GSA IT will NOT provide peripherals to telework users that are using them at home or at a remote location. However, the users can purchase that on their own or provided by the business unit. There are no specific brands that GSA recommends.
 
