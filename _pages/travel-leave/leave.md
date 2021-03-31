@@ -257,6 +257,10 @@ In cases of serious disability or ailment, and when the exigencies of the situat
 * Must be officially requested to serve in a judicial proceeding to which the Federal, a state, or local government is party
 * Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/); this option was not previously available in Aloha.
 
+## Administrative leave
+
+There are several other types of short-term leave available for reasons such as voting or blood donation. A more complete list of administrative leave reasons can be found [on Insite](https://insite.gsa.gov/topics/hr-pay-and-leave/pay-and-leave/leave/types-of-paid-leave#Other%20Types)
+
 ## Religious observance
 
 Adjusting work schedules for religious observances is handled differently than leave. If you need to miss regular work hours for religious observance, you should notify your supervisor in writing in advance of the time you'll need to miss, along with the schedule of the time you will work outside of normal hours to compensate. For details, please see the relevant [OPM policy](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/).
