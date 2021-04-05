@@ -34,7 +34,7 @@ TTS sits within the [Federal Acquisition Service (FAS)](https://www.gsa.gov/abou
 
 #### Voting considerations
 
-TTS' votes mainly focusing on technology/product aspects, following the [18F De-Risking Guide](https://derisking-guide.18f.gov/federal-field-guide/). We will generally defer to other voting members on alignment with other initiatives, etc.
+TTS' votes mainly focus on technology/product aspects, following the [18F De-Risking Guide](https://derisking-guide.18f.gov/federal-field-guide/). We will generally defer to other voting members on alignment with other initiatives, etc.
 
 - If this is a `New Investment`:
   - Cost should be under $10M, ideally under $5M
