@@ -20,7 +20,6 @@ Rather than trying to exert control over everything technology at TTS, we focus 
 
 ## Areas of work
 
-- **Policy:** Represent TTS on the [FAS Systems Governance Committee (FSGC)](https://drive.google.com/file/d/18zOMBK5bhmqt-Y3yGTKQ_QiiC_x9i5va/view?usp=sharing), i.e. vote on what technology projects get money from the [Acquisition Services Fund (ASF)](https://www.gsa.gov/reference/reports/budget-performance/annual-reports/agency-financial-report-2012/managements-discussion-and-analysis/financial-statements-analysis-and-summary/financial-results-by-major-fund-acquisition-services-fund)
 - **Compliance:** Assist in [authorization](https://atos.open-control.org/steps/#step-5-authorize-information-system) of TTS systems to get their ATOs, improving that process along the way
 - **IT Security:** Involved in [security incidents]({{site.baseurl}}/security-incidents/) triage and reporting
 - **Requirements:** In coordination with GSA IT, manage and support procurements, approvals, and licenses (with Acquisition and Finance teams) for [hardware]({{site.baseurl}}/equipment/) and [software]({{site.baseurl}}/software/) that chapters need to accomplish their mission
@@ -28,6 +27,24 @@ Rather than trying to exert control over everything technology at TTS, we focus 
 - **Relationships:** Advise TTS leadership and interface with the rest of GSA (FAS, OGP, GSA IT Security, etc) on technology-related matters.
 - **Customer Service:** Generally support TTS on any technology-related matters
 - **Administration:** Perform operational activities like access, account and license management.
+
+### FSGC
+
+TTS sits within the [Federal Acquisition Service (FAS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service), and the Tech Portfolio Director represents TTS as the voting member on the [FAS Systems Governance Committee (FSGC)](https://sites.google.com/a/gsa.gov/fas-systems-governance/). This body decides on what groups in FAS get funding from the [Acquisition Services Fund (ASF)](https://www.gsa.gov/reference/reports/budget-performance/annual-reports/agency-financial-report-2012/managements-discussion-and-analysis/financial-statements-analysis-and-summary/financial-results-by-major-fund-acquisition-services-fund) for new/expanded technology initiatives.
+
+#### Voting considerations
+
+TTS' votes mainly focus on technology/product aspects, following the [18F De-Risking Guide](https://derisking-guide.18f.gov/federal-field-guide/). We will generally defer to other voting members on alignment with other initiatives, etc.
+
+- If this is a `New Investment`:
+  - Cost should be under $10M, ideally under $5M
+    - Based on [Standish Group report](https://www.brookings.edu/blog/techtank/2015/08/25/doomed-challenges-and-solutions-to-government-it-projects/) that only 6.4% of federal IT projects with labor costs > $10 million were "successful" (on time, in budget, satisfactory, and ultimately used)
+- If this is an `Amendment`, looking for:
+  - Evidence that users (outside the team) have deemed the previous phase(s) a success
+    - E.g. quotes from usability research participants
+  - A demo
+- Should plan for and then show live, usable deliverables every six months (incremental delivery)
+- Showing reasonable options for what could be done for lower cost
 
 ## Out of scope
 
