@@ -9,7 +9,7 @@ Buying something over $10,000 means that the Office of Acquisition (OA) needs to
 
 ## Acquisition guide
 
-### 1. Submit an [Intake Form](https://docs.google.com/forms/d/1SGtfqzHSdSOfFpk21hbLrv1vXVIHYGr3Hew5qhyCnq4/edit) 
+### 1. Submit an [Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSdqd8GVxwJAGqwtEUJJ5rXtHZDMc9yLdGRUkp0tSkc4lwHhqw/viewform) 
 
 - Things you should know before submitting the Intake Form:
   - We will need funding for the buy in the form of a PR or a [memo](https://docs.google.com/document/d/1tayJSTcge_jUEM7BWQvX2Tw_oexv6XhecTkJsawGknw/edit) stating funds are available.
