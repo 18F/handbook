@@ -43,7 +43,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-- [18F Engineering Supervisor Detail](https://docs.google.com/document/d/1lKhfQXdWDDQO_jxQ3_TgTXnWnPr_W2l20gu84PwLTr8/edit#heading=h.97rh47a6ro9) - open Monday, March 29th through Monday, April 5 
 
 - [GSA WIDE: TTS Tech Portfolio Detail](https://docs.google.com/document/d/1pXOg7iz2mRjTlP00DqjLnAgQqxYJP8EyGb0QIYiZom0/edit#) - open Tuesday, March 30th until filled
 
