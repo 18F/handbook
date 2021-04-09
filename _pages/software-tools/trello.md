@@ -15,8 +15,11 @@ People use Trello to track ideas from conception through execution. It's common 
 - Use your `@gsa.gov` email to sign in, if you have one.
   - Signing in via Google is recommended.
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
-- Only use [approved Power-Ups](#power-ups)
-- Create boards under GSA-managed Workspaces, not under your individual account
+- Only use [approved Power-Ups](#power-ups).
+- Invite people to boards via email.
+  - It's easy to invite the wrong user otherwise.
+- [Close boards](https://help.trello.com/article/777-closing-a-board) rather than [deleting](https://help.trello.com/article/801-deleting-a-board) them.
+  - This ensures records are retained.
 
 ## Setup
 
@@ -52,3 +55,8 @@ If you get a `Manually Banned Apps Policy` email from [Cloudlock](https://insite
 ## Chrome extensions
 
 See [general info]({{site.baseurl}}/software/#other-lists-and-approval-processes).
+
+## For admins
+
+- [Add general users to boards as guests](https://help.trello.com/article/1236-board-guests); don't add them as members of the Workspace(s).
+- Create boards under `GSA IT - IDT` Enterprise Workspaces, not under independent Workspaces or individual accounts.
