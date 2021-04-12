@@ -22,8 +22,8 @@ October 1, 2020 | FY21 performance cycle begins
 April 8, 2021 | OHRM Guidance on FY21 Mid-year Review emailed to Supervisors and Employees
 April 30, 2021 | All F21 Performance Plans should be acknowledged in HR Links
 May 10-28, 2021 | Supervisor schedules the 1:1 performance conversation with their direct reports
-May 28, 2021 | Supervisor [signs & submits](https://handbook.tts.gsa.gov/performance-management/mid-year/hrlinks-steps/#submitting-a-mid-year-progress-review) mid-year evaluation in HR Links for direct reports to review and acknowledge
-June 1, 2021 | Mid-year Due Date for FY21: Employees [Acknowledge](https://handbook.tts.gsa.gov/performance-management/mid-year/hrlinks-steps/#acknowledging-a-review) or Supervisor [overrides](https://handbook.tts.gsa.gov/performance-management/mid-year/hrlinks-steps/#overriding-an-employee-acknowledgment).
+May 28, 2021 | Supervisor [signs & submits](https://handbook.tts.gsa.gov/performance-management/mid-year/hrlinks-steps/#submitting-a-mid-year-progress-review) mid-year evaluation in HR Links for direct reports to review and [acknowledge](https://handbook.tts.gsa.gov/performance-management/mid-year/hrlinks-steps/#acknowledging-a-review)
+June 1, 2021 | Mid-year Due Date for FY21: Supervisor [overrides](https://handbook.tts.gsa.gov/performance-management/mid-year/hrlinks-steps/#overriding-an-employee-acknowledgment) mid-year review if employee is unable to [acknowledge](https://handbook.tts.gsa.gov/performance-management/mid-year/hrlinks-steps/#acknowledging-a-review)
 June 4, 2021 | Complete [supervisor](https://forms.gle/cUeMQGdUQ3BDn6qm7)/[employee](https://forms.gle/n4zNHdBEvX2DQvdz9) performance management feedback survey
 
 ## End of year performance review important dates
