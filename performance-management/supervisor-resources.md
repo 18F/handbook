@@ -69,7 +69,7 @@ Performance not at Level 3 in any Critical Element needs to be addressed formall
 
 ***NOTE: To issue a Level 1 or 2 rating on a Critical Element, those performance levels must be defined and established on the performance plan for at least 120 days***
 
-To initiate either plan, reach out to [Mei Goon](mailto:mei.goon@gsa.gov), TTS’s Employee & Labor Relations Specialist. Mei will work directly with you to create the PIP/PAP for your team member; supporting documentation will need to be submitted to Jim for review when creating the PIP/PAP.
+To initiate either plan, email our [Employee Relations contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) in the Office of Human Resources Management. She will work directly with you to create the PIP/PAP for your team member; supporting documentation will need to be submitted to her for review when creating the PIP/PAP.
 
 ### Verifying your direct reports
 
@@ -117,7 +117,7 @@ If an employee has received a Summary Rating of Level 1 or 5, the evaluation wil
 
 ### Cancelling an HR Links evaluation
 
-The only time a supervisor may want to cancel an evaluation is when an employee separates and evaluation cannot be completed or it’s not necessary.  Only and HR Admin can cancel “submitted” evaluations.  Please reach out to [Jim Mulvaney](mailto:james.mulvaney@gsa.gov) to initiate this process.
+The only time a supervisor may want to cancel an evaluation is when an employee separates and evaluation cannot be completed or it’s not necessary.  Only and HR Admin can cancel “submitted” evaluations.  Please email our [Employee Relations contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) in the Office of Human Resources Management to initiate this process.
 
 ### Overriding an HR Links employee acknowledgement
 
