@@ -221,7 +221,7 @@ If you are a registered MAX.gov user:
 * Click the button on the bottom to “Donate Annual Leave Hours To A Shared Leave Recipient”
 * Follow the system prompts to donate leave (select "General Services Administration" as the agency and "0 - Central Office" as the region)
 
-If you have any questions, contact Mei Goon (mei.goon@gsa.gov) in the Office of Human Resources Management. Also, don’t hesitate to ask in #parental-leave in Slack.
+If you have any questions, please email our [Leave Policies contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) in the Office of Human Resources Management. Also, don’t hesitate to ask in #parental-leave in Slack.
 
 If the system gives you an error, try submitting through the [Citrix VDI]({{site.baseurl}}/virtual-desktop/#logging-into-the-citrix-vdi) using Internet Explorer.
 
