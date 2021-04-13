@@ -29,7 +29,7 @@ TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offi
 ## Our values
 
 * **Inclusion**  
-    We put people first and celebrate what bring us together and makes each of us unique to meet the public’s needs. 
+    We put people first and celebrate what brings us together and makes each of us unique to meet the public’s needs. 
 
 * **Integrity**  
     We are present, transparent, and honest to enable accessible and trustworthy innovation.
