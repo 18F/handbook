@@ -22,7 +22,6 @@ See [dates](../dates/#mid-year-performance-review-important-dates).
 
 Resource | Use
 -------|--------
-
 [Employee checklist](https://docs.google.com/spreadsheets/d/1ENBLAFa2Chkdd5-31xl4oA5Wk5bbtJtsJNWv9WGeLYU/edit#gid=48334538) | Employee mid year performance management steps
 [Supervisor checklist](https://docs.google.com/spreadsheets/d/1PaEV7xoTc3Y-STpp6z4iqaSVf-QY8-Cmn-ciSS9qhKo/edit#gid=884911250) | Supervisor mid year performance management steps.  The "Direct Report Name" tab can be duplicated for each of your employees to help track review progress
 [HR Links](https://corporateapps.gsa.gov/hr-links/) | Website for submitting performance reviews (requires VPN). Click "login" to redirect to hrlinks.gsa.gov
