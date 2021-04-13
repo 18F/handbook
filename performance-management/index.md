@@ -20,8 +20,10 @@ This page contains performance management quicklinks, important dates, and guida
 
 Resource | Use
 -------|--------
-[Employee checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) | Employee performance management steps
-[Supervisor checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) | Supervisor performance management steps
+[Mid-Year Employee checklist](https://docs.google.com/spreadsheets/d/1ENBLAFa2Chkdd5-31xl4oA5Wk5bbtJtsJNWv9WGeLYU/edit#gid=48334538) | Mid-Year Employee performance management steps
+[Mid-Year Supervisor checklist](https://docs.google.com/spreadsheets/d/1PaEV7xoTc3Y-STpp6z4iqaSVf-QY8-Cmn-ciSS9qhKo/edit#gid=884911250) | Mid-Year Supervisor performance management steps
+[End-of-Year Employee checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) | End-of-Year Employee performance management steps
+[End-of-Year Supervisor checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) | End-of-year Supervisor performance management steps
 [Employee Step-by-Step HR Links Guide](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#) | Entering performance review steps into HR Links
 [Supervisor Step-by-Step HR Links Guide](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.rjbyuflzo0ct) | Entering and processing performance review steps in HR Links
 [FY21 Performance Plan Framework](https://docs.google.com/document/d/1Hxj17-hm9GaAKRRZRPA0_f1RPqswIlmuN6yQknWgba8/edit?usp=sharing) | TTS Performance Plan framework with 3 tiers and recommended percentage weights
