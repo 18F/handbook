@@ -24,6 +24,7 @@ People use Trello to track ideas from conception through execution. It's common 
 
 ## Setup
 
+- To be able to see a board, either the board needs to be [public](https://help.trello.com/article/789-changing-the-visibility-of-a-board-to-public-private-or-team) or people need to be added to the board explicitly.
 - To get added to an existing board, ask your team (at least one of whom should be a [Board Admin](https://help.trello.com/article/791-changing-permissions-on-a-board)) to add you. They will add you as a [Board Guest](https://help.trello.com/article/1236-board-guests).
   - Same goes for adding partners.
 - To have a new board created, ask in #admins-trello.
