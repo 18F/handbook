@@ -46,10 +46,18 @@ People use Trello to track ideas from conception through execution. It's common 
 
 The [Power-Ups](https://trello.com/power-ups) approved for use are:
 
-- [Card Aging](https://trello.com/power-ups/55a5d917446f517774210012/card-aging)
+- Any [`Made by Trello`](https://trello.com/power-ups/made-by-trello) that don't integrate with a third-party service, e.g.
+  - [Card Aging](https://trello.com/power-ups/55a5d917446f517774210012/card-aging)
+  - [Voting](https://trello.com/power-ups/55a5d917446f517774210013/voting)
 - [GitHub](https://trello.com/power-ups/55a5d916446f517774210004)
 
-[Contact the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions) to have others reviewed.
+Power-Ups that _cannot_ be used:
+
+- [Google Drive](https://trello.com/power-ups/55a5d916446f517774210006)
+
+If you aren't sure or want others reviewed, ask in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello/).
+
+### Cloudlock warning
 
 If you get a `Manually Banned Apps Policy` email from [Cloudlock](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/cloudlock), it's likely because you signed into Trello with Google (via OAuth), and one of the Trello Teams you're part of has the [Google Drive Power-Up](https://trello.com/power-ups/55a5d916446f517774210006) enabled. That Power-Up should be removed, but this warning can otherwise be ignored.
 
