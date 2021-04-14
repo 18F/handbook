@@ -29,7 +29,7 @@ The objective of FITARA is to improve the management of IT within an agency and 
 
 Want to know if your software request requires FITARA? That’s easy, almost all of them do! According to the CTO, at GSA we require FITARA approval for every single purchase you make.
 
-For all TTS acquisitions, it is critical to obtain FITARA approval prior to releasing the solicitation and when exercising option years on existing contracts. When the acquisition plan and Statement of Work (SOW) has been finalized, please send an email to devops@gsa.gov. The TTS Tech Portfolio will conduct their initial review of the acquisition and initiate the FITARA review with the CTO office.
+For all TTS acquisitions, it is critical to obtain FITARA approval prior to releasing the solicitation and when exercising option years on existing contracts. Note: For Non-OA (Office of Acquisitions), when the acquisition plan and Statement of Work (SOW) have been finalized, please send an email to devops@gsa.gov. The TTS Tech Portfolio will conduct their initial review of the acquisition and initiate the FITARA review with the CTO office.
 
 **Note:** There are some exceptions and blanket approvals, such as Dotgov domains or Professional Services (ex. Gengo Translation Services is an online subscription that bills monthly but is essentially a professional services). But **it is up to the CTO to determine on a case-by-case basis if it is necessary and CIO to ultimately agree**.
 
