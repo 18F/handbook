@@ -15,6 +15,7 @@ People use Trello to track ideas from conception through execution. It's common 
 - Use your `@gsa.gov` email to sign in, if you have one.
   - Signing in via Google is recommended.
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
+- All boards used for work should be created under an Enterprise Workspace, not as a "personal board".
 - Only use [approved Power-Ups](#power-ups).
 - Invite people to boards via email.
   - It's easy to invite the wrong user otherwise.
@@ -59,4 +60,4 @@ See [general info]({{site.baseurl}}/software/#other-lists-and-approval-processes
 ## For admins
 
 - [Add general users to boards as guests](https://help.trello.com/article/1236-board-guests); don't add them as members of the Workspace(s).
-- Create boards under `GSA IT - IDT` Enterprise Workspaces, not under independent Workspaces or individual accounts.
+- All Workspaces used for work at TTS should exist under the `GSA IT - IDT` Enterprise instance.
