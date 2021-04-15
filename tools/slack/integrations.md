@@ -22,26 +22,20 @@ If you're interested in learning more about the bots, or perhaps contributing to
 
 You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. You can also freely add new configurations for "Incoming WebHooks," which is on a [different page](https://gsa-tts.slack.com/apps/manage/custom-integrations). For any new integration types, please follow the process below.
 
-**[Integration request form](https://goo.gl/forms/pgxtz7xwIWubF0go1)**
+**[Integration request form](https://docs.google.com/forms/d/e/1FAIpQLSfo6M9aFT_UvUng9pl-Tti9RsHedqXfQ773btIdxoVxwEuoAg/viewform?gxids=7628)**
 
 Note this is only necessary for new bots or _types_ of integrations — approval is not needed for new “configurations” of a previously-approved App. The form should be filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
 
-Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-tts.slack.com/help/requests/new) for help.
-
-New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the [TTS](https://www.gsa.gov/portal/category/25729) Slack, fill out the form.
-
-Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreadsheets/d/1karb4OJPFga493-3bnuWFvhFuk18iFlvz-xWC8ZedSQ/edit#gid=161327310). [Edit the form](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit).
+New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access.
 
 New integrations/bots need approval from the following:
 
-- TTS Slack admins
 - Security Engineering (ISE)
 - OCTO
 - GSA IT Slack admins
 
-Considerations:
+Those that are approved will be approved across the GSA Slack Enterprise Grid. Considerations:
 
 - Read access from Slack (e.g. RSS) will almost definitely be approved.
 - One-way integrations into Slack (e.g. via webhooks) are almost always fine.
-- Integrations from higher-risk systems (Moderate or High) into Slack will generally not be approved.
-- TTS Tech Portfolio will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
+- Integrations from higher-risk systems into Slack will generally not be approved.
