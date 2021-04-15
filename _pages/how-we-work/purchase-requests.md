@@ -45,7 +45,7 @@ When a dotgov domain is up for renewal, submit a [micropurchase request form](ht
 
 ### Office supplies
 
-If you have access to a GSA office, check the supply rooms for what you need.If not available, fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).The designated TTS Ops team member will determine whether or not to recommend your request for approval by the TTS Director of Operations. Please note that most office supplies are not able to be sent to teleworkers.
+If you have access to a GSA office, check the supply rooms for what you need. If not available, fill out the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). The designated TTS Ops team member will determine whether or not to recommend your request for approval by the TTS Director of Operations. Please note that most office supplies are not able to be sent to teleworkers.
 
 ### Services
 
