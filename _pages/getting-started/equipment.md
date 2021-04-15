@@ -83,7 +83,7 @@ In order to obtain standard issued hardware, the requestor must contact the IT S
 
 GSA IT will NOT provide peripherals to telework users that are using them at home or at a remote location. However, the users can purchase that on their own or provided by the business unit. There are no specific brands that GSA recommends.
 
-If you need wireless peripherals for the office or your business unit is willing to pay for peripherals, submit a [micropurchase request]({{site.baseurl}}/purchase-requests/) and it will be reviewed by the TTS purchase card holder.
+If you need wireless peripherals for the office or your business unit is willing to pay for peripherals, submit a [micropurchase request]({{site.baseurl}}/purchase-requests/) and it will be reviewed by the TTS purchase card holder. Please note that you will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form. 
 
 ## Equipment to accommodate disability
 
