@@ -45,7 +45,7 @@ Hiring Managers select an interview panel and schedule interviews, the same as w
 
 Internal reference checks are optional. Refer to the [Reference Check template](https://docs.google.com/document/d/1QL6711NSv3nsIlN_3Rc7DFk8Apubyy8ugQHAAEWRWgc/edit) for guidance.
 
-Hiring Managers are responsible for completing the [Internal Candidate Pool template](https://docs.google.com/spreadsheets/d/1EN3iLUmmDQ4iX5k-AsDsUPUd_igrEy3BEtlIs5KM59w/edit); this documents who was interviewed, and a few sentences about why each candidate was/was not selected.
+Hiring Managers are responsible for completing the [Internal Candidate Pool template](https://docs.google.com/spreadsheets/d/1EN3iLUmmDQ4iX5k-AsDsUPUd_igrEy3BEtlIs5KM59w/edit); this documents who was interviewed, and a few sentences about why each candidate was/was not selected. Upon completion of this document, please email it to JoinTTS@gsa.gov or ping @AmandaSchonfeld on slack with the link. 
 
 For HR to approve a candidate, they must meet the following qualifications:
 * Be on their current position description for at least 90 days
@@ -67,15 +67,24 @@ The Hiring Manager forwards the supervisor’s approval to Talent at [jointts@gs
 ## Internal Final Qualification
 The Hiring Manager needs to provide the selected candidate's resume to TTS Talent for reassigments or to PeopleOps for details. Talent or PeopleOops will work with GSA HR to confirm that the selected candidate meets the qualifications outlined in the posting (i.e. GS level, required experience in the PD), based on their resume. Hiring managers and current supervisors should not announce any selection information until HR has given final approval. The hiring manager will be notified of approval from Talent or PeopleOps.
 
-## Notifying TTS People Operations
+## Notifying TTS People Operations for Detail Opportunities 
 
-Once Talent has confirmed HR approval, email [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and [Finance](mailto:18F-Finance-CS@gsa.gov) with the following information:
+Once Talent or PeopleOps has confirmed HR approval, email [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and [Finance](mailto:18F-Finance-CS@gsa.gov) with the following information for detail opportunities:
 * Employee Name
 * Office Symbol the employee is being detailed or transferred to.
 * For details: if it is a reimbursable or non-reimbursable detail (i.e. who is paying the detailee’s salary) 
 * The name of the new supervisor
 * The Position Description number. If it is a detail without a PD, use "Detail to Unclassified Duties" and provide a list of duties that the selected employee will be expected to perform.
 * Effective date and length of the detail (for example: 120 days)
+
+## Notifying TTS Talent for Permanent Reassignment
+
+Once Talent or PeopleOps has confirmed HR approval, email [JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) with the following information for permanent reassignment opportunities:
+* Employee Name
+* The name of the new supervisor (if applicable)
+* The Position Description number for the new reassignment. 
+* Link to the copleted Internal Candidate Pool spreadsheet 
+* Effective date for reassignment (Note, this has to take place on a pay period)
 
 ## Notifying Internal Candidates
 It is the Hiring Manager’s duty and responsibility to provide applicants with feedback, letting the applicant know if they have been selected or that they were not selected. Hiring Managers should offer feedback to every candidate. Talent will neither notify nor offer feedback to applicants.
