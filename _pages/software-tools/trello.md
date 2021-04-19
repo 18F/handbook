@@ -15,6 +15,7 @@ People use Trello to track ideas from conception through execution. It's common 
 - Use your `@gsa.gov` email to sign in, if you have one.
   - Signing in via Google is recommended.
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
+- All boards used for work should be created under an Enterprise Workspace, not as a "personal board".
 - Only use [approved Power-Ups](#power-ups).
 - Invite people to boards via email.
   - It's easy to invite the wrong user otherwise.
@@ -23,6 +24,7 @@ People use Trello to track ideas from conception through execution. It's common 
 
 ## Setup
 
+- To be able to see a board, either the board needs to be [public](https://help.trello.com/article/789-changing-the-visibility-of-a-board-to-public-private-or-team) or people need to be added to the board explicitly.
 - To get added to an existing board, ask your team (at least one of whom should be a [Board Admin](https://help.trello.com/article/791-changing-permissions-on-a-board)) to add you. They will add you as a [Board Guest](https://help.trello.com/article/1236-board-guests).
   - Same goes for adding partners.
 - To have a new board created, ask in #admins-trello.
@@ -45,10 +47,18 @@ People use Trello to track ideas from conception through execution. It's common 
 
 The [Power-Ups](https://trello.com/power-ups) approved for use are:
 
-- [Card Aging](https://trello.com/power-ups/55a5d917446f517774210012/card-aging)
+- Any [`Made by Trello`](https://trello.com/power-ups/made-by-trello) that don't integrate with a third-party service, e.g.
+  - [Card Aging](https://trello.com/power-ups/55a5d917446f517774210012/card-aging)
+  - [Voting](https://trello.com/power-ups/55a5d917446f517774210013/voting)
 - [GitHub](https://trello.com/power-ups/55a5d916446f517774210004)
 
-[Contact the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions) to have others reviewed.
+Power-Ups that _cannot_ be used:
+
+- [Google Drive](https://trello.com/power-ups/55a5d916446f517774210006)
+
+If you aren't sure or want others reviewed, ask in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello/).
+
+### Cloudlock warning
 
 If you get a `Manually Banned Apps Policy` email from [Cloudlock](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/cloudlock), it's likely because you signed into Trello with Google (via OAuth), and one of the Trello Teams you're part of has the [Google Drive Power-Up](https://trello.com/power-ups/55a5d916446f517774210006) enabled. That Power-Up should be removed, but this warning can otherwise be ignored.
 
@@ -59,4 +69,4 @@ See [general info]({{site.baseurl}}/software/#other-lists-and-approval-processes
 ## For admins
 
 - [Add general users to boards as guests](https://help.trello.com/article/1236-board-guests); don't add them as members of the Workspace(s).
-- Create boards under `GSA IT - IDT` Enterprise Workspaces, not under independent Workspaces or individual accounts.
+- All Workspaces used for work at TTS should exist under the `GSA IT - IDT` Enterprise instance.
