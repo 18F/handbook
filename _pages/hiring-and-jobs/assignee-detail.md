@@ -65,7 +65,7 @@ Please double-check with candidates before you interview them that they meet the
 The Hiring Manager forwards the supervisor’s approval to Talent at [jointts@gsa.gov](mailto:jointts@gsa.gov).
 
 ## Internal Final Qualification
-Talent will work with GSA HR to confirm that the selected candidate meets the qualifications outlined in the posting (i.e. GS level, required experience), based on their resume. Hiring managers and current supervisors should not announce any selection information until HR has given final approval. 
+The Hiring Manager needs to provide the selected candidate's resume to TTS Talent for reassigments or to PeopleOps for details. Talent or PeopleOops will work with GSA HR to confirm that the selected candidate meets the qualifications outlined in the posting (i.e. GS level, required experience in the PD), based on their resume. Hiring managers and current supervisors should not announce any selection information until HR has given final approval. The hiring manager will be notified of approval from Talent or PeopleOps.
 
 ## Notifying TTS People Operations
 
