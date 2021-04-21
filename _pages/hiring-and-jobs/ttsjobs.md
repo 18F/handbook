@@ -47,6 +47,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 - [GSA WIDE: TTS Tech Portfolio Detail](https://docs.google.com/document/d/1pXOg7iz2mRjTlP00DqjLnAgQqxYJP8EyGb0QIYiZom0/edit#) - open Tuesday, March 30th until filled
 
 
+- [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
