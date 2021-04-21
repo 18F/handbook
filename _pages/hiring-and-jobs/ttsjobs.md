@@ -46,7 +46,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA WIDE: TTS Tech Portfolio Detail](https://docs.google.com/document/d/1pXOg7iz2mRjTlP00DqjLnAgQqxYJP8EyGb0QIYiZom0/edit#) - open Tuesday, March 30th until filled
 
-- [18F Acting Director of Operations Detail](https://docs.google.com/document/d/1UYDnTDAs0J2NS2W7rZ93joI0VhsfaD5LoZv2Vd9gaws/edit#) - open Tuesday, April 13 until Tuesday, April 20
 
 ## Opportunities with partners
 
