@@ -48,6 +48,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Acting Director of Operations Detail](https://docs.google.com/document/d/1UYDnTDAs0J2NS2W7rZ93joI0VhsfaD5LoZv2Vd9gaws/edit#) - open Tuesday, April 13 until Tuesday, April 20
 
+- [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
