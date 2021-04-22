@@ -54,7 +54,7 @@ If modifications need to be made to an existing performance plan, a plan can be 
 
 * Step-by-step instructions:
   * No action required by employee
-  * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.hf3nfjxrhb8h)
+  * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.crvn3012hsrk)
 
 ## Entering a self-assessment
 
@@ -80,15 +80,19 @@ Self-assessments are **not required** for the mid year review; however, Supervis
 
 ## Submitting mid year assessment comments
 
+Mid-year review comments **may be required** for employees that are in a Union.  Please see the [Union requirements for mid year performance reviews]({{site.baseurl}}/mid-year/#union-requirements-for-mid-year-performance-reviews) section in handbook for more info. 
+
 * Step-by-step instructions:
   * No action required by employee
   * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.c3fz56zdlqf2)
+
+***NOTE:*** Supervisors can enter comments into the "Manager Comments" section of critical elements in a performance plan at any point during the year. 
 
 ## Submitting a mid year progress review
 
 * Step-by-step instructions:
   * No action required by employee
-  * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.htn3ziu4jxow)
+  * [Supervisor](https://docs.google.com/document/d/1iduOW_V1NNqGnZkm7TAwzzr4oIZPZW3UG-f1QdaLD-w/edit#heading=h.b571filp3lyz)
 
 ## Tracking employee progress
 
