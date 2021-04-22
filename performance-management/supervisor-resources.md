@@ -17,7 +17,7 @@ This page contains additional resources and trainings for supervisors who are go
 
 ## Supervisor performance management checklist
 
-* Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of FY20 performance reviews and to help establish FY21 performance plans.
+* Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of year performance reviews and to help establish performance plans for the new fiscal year.
   * *NOTE: Items highlighted in green are particularly important steps*
 
 ## GSA Performance Management Resources
@@ -73,9 +73,7 @@ To initiate either plan, email our [Employee Relations contact](https://docs.goo
 
 ### Verifying your direct reports
 
-In preparation for the FY20 End-of-Year Employee Performance Review Cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in the [FY20 Direct Report Audit Survey](https://forms.gle/oLtit3o2MLsSUonx5).
-
-All supervisors should complete the FY20 audit by COB September 25th, so please fill out the above survey if you have not yet.
+In preparation for an upcoming Employee Performance Review cycle, please conduct an audit of your Direct Reports in HR Links by following the instructions in the [Direct Report Audit Survey](https://forms.gle/oLtit3o2MLsSUonx5).
 
 ### 1 on 1 performance conversation
 
