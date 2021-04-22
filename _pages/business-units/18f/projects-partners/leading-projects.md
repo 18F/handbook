@@ -30,6 +30,43 @@ Someone (the partner, 18F leadership, or others) might ask you about how the pro
 
 Teams are more resilient and equitable when administrative tasks like scheduling meetings or taking notes are shared. It can help to proactively set up systems to rotate this work (for example: a schedule for who will send weekly ship emails each week).
 
+### Project coordination checklist
+For most 18F projects, these are generally the tasks that need to be done. **Typically, the team will share the load on doing this work** — it’s the project lead’s role to ensure these things are happening.
+
+#### Beginning of Project
+* Facilitate creation of a [team charter](https://docs.google.com/document/d/1J8MqOA-JkLKzSFTVxeXDQub7ZTsWuNq5nOZ_ACICdig/edit?usp=sharing) that includes how decisions will be made and how the team will navigate disagreement
+  * Recommended: Discuss how the team will navigate disagreement
+* Identify stakeholder accessibility needs for project work (in collaboration tools and deliverables)
+* Ensure sprint planning, review, and other recurring meetings are scheduled
+* Facilitate identification of project management tracking tools
+* Facilitate identification of how administrative tasks will be rotated
+* Create and maintain a [Project Readme](https://docs.google.com/document/d/1_vL462nws0l1WXMTyTdWcmU2GyjHzF88dHvnLIvYeq4/edit?usp=sharing) in the project’s Drive folder (Account Manager will establish project folder)
+
+#### Ongoing
+* Foster a safe and inclusive environment
+* Identify the team’s approach to stakeholder management and who serves as primary contact for whom
+* Facilitate review of whether promised deliverable are feasible
+* Facilitate scheduling of the work the team decides needs to be done
+* Assess progress against plan
+* Identify the level of fidelity/polish stakeholders need in deliverables (who are they sharing with, what's the intended shelf-life)
+* Weekly:
+  * Meet with account manager
+  * Monitor project burn doc with account manager
+  * Compile and post a Weekly Ship; send to partner and post in [#the-shipping-news](https://gsa-tts.slack.com/archives/C4HGPF9QA)
+* Every two weeks: Complete [Project Health Assessment](https://airtable.com/shrvaV9rDyifdSUbA) with team
+* Ensure midpoint and other higher-profile presentations are rehearsed or otherwise well prepared
+* Monthly: Conduct an internal team retrospective
+* Work with account manager and staffing team when project team identifies a need for a shift in staffing
+* Onboard new team members to the project, as needed, including revisiting team charter with full team
+* Periodically: Check in on equitable distribution of administrative tasks among team members: re-balance as necessary
+* Add to and organize the project’s Drive folder
+* [Get support]((#escalation-paths-for-issues-that-may-arise)) in cases where team has trouble resolving disagreement or with other project issues
+* Participate in the Project Leadership Collective! Read the [PLC wiki](https://github.com/18F/Project-Leadership-Collective/wiki/Project-Leadership-Collective) and [join the PLC conversation](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
+
+#### End of project
+* Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ)
+* Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) so everyone on the project team can fully participate.
+
 ## How do we decide who leads each project?
 
 Every project needs a lead to be the primary point-person. Which person fills that role should be decided based on project needs and staff available. This happens as part of our normal staffing process, and should follow these steps:
