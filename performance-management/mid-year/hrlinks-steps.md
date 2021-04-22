@@ -80,7 +80,7 @@ Self-assessments are **not required** for the mid year review; however, Supervis
 
 ## Submitting mid year assessment comments
 
-Mid-year review comments **may be required** for employees that are in a Union.  Please see the [Union requirements for mid year performance reviews]({{site.baseurl}}/mid-year/#union-requirements-for-mid-year-performance-reviews) section in handbook for more info. 
+Mid-year review comments **may be required** for employees that are in a Union.  Please see the [Union requirements for mid year performance reviews]({{site.baseurl}}/performance-management/mid-year/#union-requirements-for-mid-year-performance-reviews) section in handbook for more info. 
 
 * Step-by-step instructions:
   * No action required by employee
