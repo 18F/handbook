@@ -111,7 +111,7 @@ primary:
       - text: Mid year HRLinks steps
         url: performance-management/mid-year/hrlinks-steps/
         internal: true
-       - text: Important dates
+      - text: Important dates
         url: performance-management/dates/#mid-year-performance-review-important-dates
         internal: true
       - text: Performance management overview
@@ -126,7 +126,6 @@ primary:
       - text: End of year HRLinks steps
         url: performance-management/end-of-year/hrlinks-steps/
         interal: true
-
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
