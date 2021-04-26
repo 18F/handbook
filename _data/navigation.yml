@@ -105,28 +105,27 @@ primary:
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
-      - text: Performance management overview
-        url: performance-management/
-        internal: true
-      - text: Important dates
-        url: performance-management/dates/#mid-year-performance-review-important-dates
-        internal: true
-      - text: End of year HRLinks steps
-        url: performance-management/end-of-year/hrlinks-steps/
-        interal: true
-      - text: Employee resources
-        url: performance-management/employee-resources/
-        internal: true
-      - text: Supervisor resources
-        url: performance-management/supervisor-resources/
-        internal: true
       - text: Mid year review overview
         url: performance-management/mid-year/
         internal: true
       - text: Mid year HRLinks steps
         url: performance-management/mid-year/hrlinks-steps/
         internal: true
-
+      - text: Important dates
+        url: performance-management/dates/#mid-year-performance-review-important-dates
+        internal: true
+      - text: Performance management overview
+        url: performance-management/
+        internal: true
+      - text: Employee resources
+        url: performance-management/employee-resources/
+        internal: true
+      - text: Supervisor resources
+        url: performance-management/supervisor-resources/
+        internal: true
+      - text: End of year HRLinks steps
+        url: performance-management/end-of-year/hrlinks-steps/
+        interal: true
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
