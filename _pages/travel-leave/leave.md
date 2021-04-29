@@ -135,7 +135,11 @@ Further funeral leave information can be found in OPM's Fact Sheets:
 * [Definitions related to family member and immediate relative for purposes of sick leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
 
 ### Military leave
-Refer to the GSA [Time and Leave Policy](https://insite.gsa.gov/cdnstatic/insite/HRM_60101_Time_and_Leave_Administration_Policy_%28Posted_Version_-_March_23%2C_2020%29.pdf) and contact the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name to let them know you have military orders.
+The [OPM military leave fact sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/military-leave/) states that any full-time Federal civilian employee whose appointment is not limited to one year is entitled to military leave. Military leave under 5 U.S.C. 6323(a) is prorated for part-time career employees and employees on an uncommon tour of duty. 5 U.S.C. 6323 (a) provides 15 days per fiscal year for active duty, active duty training, and inactive duty training. An employee can carry over a maximum of 15 days into the next fiscal year.
+
+Refer to the GSA [Time and Leave Policy](https://insite.gsa.gov/cdnstatic/insite/HRM_60101_Time_and_Leave_Administration_Policy_%28Posted_Version_-_March_23%2C_2020%29.pdf) and contact the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name to let them know if you have military orders.
+
+
 
 
 ## Extended leave
