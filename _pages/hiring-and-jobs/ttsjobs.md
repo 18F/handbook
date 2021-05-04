@@ -43,6 +43,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F User Experience Designer/IT Specialist (2210)](https://join.tts.gsa.gov/join/18f-user-experience-designer/) - open Monday, May 3rd through Friday, May 14th
 
+- [Office of Acquisition - Contract Specialist](https://join.tts.gsa.gov/join/contract-specialist/) - open Wednesday, February 3rd through Wednesday, February 2nd 2021
+
 ### Internal only opportunities
 
 
