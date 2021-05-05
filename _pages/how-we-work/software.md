@@ -36,6 +36,8 @@ All software in use at GSA needs to be approved through the IT Standards process
   - See the [CIO GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>) (section 2c) for more details.
 - [Tools from partner agencies]({{site.baseurl}}/collaboration-tools/#using-partners-tools)
 
+If it is not one of these, please submit an [IT Standard Request](https://gsa--c.na21.visual.force.com/apex/TechnologyRequestForm). Consult the [GSA IT Standards Software Approval Process documentation](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/software-and-applications/software-approval-process?term=it%20standards). Please include [tts-software@gsa.gov](mailto:tts-software@gsa.gov) in any communications involving your request.
+
 ## Purchase new software
 
 Here at TTS, we want to stay current and take advantage of as many emerging technologies as possible. We believe that getting the software you need to do your job should not be difficult, time-consuming or stressful. If the software is not in the [TTS inventory](https://app.smartsheet.com/b/publish?EQBCT=cf3124067fda44bbbe1471fe985d96b7) or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio will work with you to meet your needs as best as possible.
