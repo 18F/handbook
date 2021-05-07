@@ -30,17 +30,54 @@ Someone (the partner, 18F leadership, or others) might ask you about how the pro
 
 Teams are more resilient and equitable when administrative tasks like scheduling meetings or taking notes are shared. It can help to proactively set up systems to rotate this work (for example: a schedule for who will send weekly ship emails each week).
 
+### Project coordination checklist
+For most 18F projects, these are generally the tasks that need to be done. **Typically, the team will share the load on doing this work** — it’s the project lead’s role to ensure these things are happening.
+
+#### Beginning of Project
+* Facilitate creation of a [team charter](https://docs.google.com/document/d/1J8MqOA-JkLKzSFTVxeXDQub7ZTsWuNq5nOZ_ACICdig/edit?usp=sharing) that includes how decisions will be made and how the team will navigate disagreement
+  * Recommended: Discuss how the team will navigate disagreement
+* Identify stakeholder accessibility needs for project work (in collaboration tools and deliverables)
+* Ensure sprint planning, review, and other recurring meetings are scheduled
+* Facilitate identification of project management tracking tools
+* Facilitate identification of how administrative tasks will be rotated
+* Create and maintain a [Project Readme](https://docs.google.com/document/d/1_vL462nws0l1WXMTyTdWcmU2GyjHzF88dHvnLIvYeq4/edit?usp=sharing) in the project’s Drive folder (Account Manager will establish project folder)
+
+#### Ongoing
+* Foster a safe and inclusive environment
+* Identify the team’s approach to stakeholder management and who serves as primary contact for whom
+* Facilitate review of whether promised deliverable are feasible
+* Facilitate scheduling of the work the team decides needs to be done
+* Assess progress against plan
+* Identify the level of fidelity/polish stakeholders need in deliverables (who are they sharing with, what's the intended shelf-life)
+* Weekly:
+  * Meet with account manager
+  * Monitor project burn doc with account manager
+  * Compile and post a Weekly Ship; send to partner and post in [#the-shipping-news](https://gsa-tts.slack.com/archives/C4HGPF9QA)
+* Every two weeks: Complete [Project Health Assessment](https://airtable.com/shrvaV9rDyifdSUbA) with team
+* Ensure midpoint and other higher-profile presentations are rehearsed or otherwise well prepared
+* Monthly: Conduct an internal team retrospective
+* Work with account manager and staffing team when project team identifies a need for a shift in staffing
+* Onboard new team members to the project, as needed, including revisiting team charter with full team
+* Periodically: Check in on equitable distribution of administrative tasks among team members: re-balance as necessary
+* Add to and organize the project’s Drive folder
+* [Get support](#support) in cases where team has trouble resolving disagreement or with other project issues
+* Participate in the Project Leadership Collective! Read the [PLC wiki](https://github.com/18F/Project-Leadership-Collective/wiki/Project-Leadership-Collective) and [join the PLC conversation](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
+
+#### End of project
+* Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ)
+* Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) so everyone on the project team can fully participate.
+
 ## How do we decide who leads each project?
 
 Every project needs a lead to be the primary point-person. Which person fills that role should be decided based on project needs and staff available. This happens as part of our normal staffing process, and should follow these steps:
 
-1. The Account Manager/Portfolio Director (and/or Chief of Projects) find out from chapter staffing representatives which potential team members are interested in leading.
-2. If only one person is interested, the AM/PD/CoP is responsible for making sure everyone involved is comfortable with that person leading, based on past skills and experience.
-3. If no one is interested (or if the interested person doesn't have the appropriate skills/experience), we need to rework staffing to make sure we have at least one willing-and-able project lead on the team.
+1. The Account Manager/Portfolio Director find out from chapter staffing representatives which potential team members are interested in leading
+2. If only one person is interested, the AM/PD is responsible for making sure everyone involved is comfortable with that person leading, based on past skills and experience
+3. If no one is interested (or if the interested person doesn't have the appropriate skills/experience), we need to rework staffing to make sure we have at least one willing-and-able project lead on the team
 4. If multiple people are interested:
-   - Once the team is assigned (in repo), the Portfolio Director (or Chief of Projects) and Account Manager lead a conversation among interested folks about project leadership expectations and options.
+   - Once the team is assigned (in repo), the Portfolio Director (if applicable) and Account Manager lead a conversation among interested folks about project leadership expectations and options
    - We aim to either leave that meeting with consensus or have follow-up conversations if needed.
-   - The final decision, _if needed_, is made by the Portfolio Director (or Chief of Projects).
+   - The final decision, _if needed_, is made by the Portfolio Director or the staffing team.
 
 In most cases, there's one full-time person who's willing to lead, they have experience leading, and this is a very very short process. In other cases, our goal is to ensure that everyone on the team has shared expectations about what roles need to be filled, *and* that the team is part of intentionally navigating these decisions.
 
@@ -62,12 +99,12 @@ Some things they’ll help you navigate, find, and use:
 
 | Issue type | First line | Informed (please make these folks aware, even if you don’t need them to take action) | Escalation path (if you need someone to take action) |
 |-|-|-|-|
-| **Pre-flight issues, e.g. agreements timelines** | AM working with agreements team | Portfolio Director, Chief of Projects | Portfolio Director (if applicable), Director of Account Management otherwise |
-| **Team dynamics/team performance** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Director, Supervisor | Portfolio Director (if applicable), Chief of Projects or Chief of Staff otherwise |
-| **Changes to project timeline (including stopping the project early)** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Directors, Staffing Leads, Supervisors | Permanent or semi-permanent changes to someone’s project billings expectations need to be approved in advance by Portfolio Director or Chief of Projects, in coordination with the partner |
-| **Partner dissatisfaction** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio Director, Chief of Projects | Portfolio Director (if applicable), Chief of Projects otherwise; Executive Director if needed |
-| **Staffing misalignment** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Director, Supervisor | Chief of Projects and Staffing Leads  |
-| **Team is being mistreated (disrespected, or any other inappropriate behaviors or attitudes) by partner or vendor** | Team can try to resolve themselves, but can escalate immediately if they’d like | Portfolio/Chapter Director, Supervisor | Portfolio Director (if applicable), Chief of Projects or Chief of Staff otherwise; Executive Director, if needed |
+| **Pre-flight issues, e.g. agreements timelines** | AM working with agreements team | Director of Account Management | Portfolio Director (if applicable), Director of Account Management otherwise |
+| **Team dynamics/team performance** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Director, Supervisor | Portfolio Director (if applicable), Chief of Staff |
+| **Changes to project timeline (including stopping the project early)** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Directors, Staffing Leads, Supervisors | Permanent or semi-permanent changes to someone’s project billings expectations need to be approved in advance by Portfolio or Chapter Director, in coordination with the partner |
+| **Partner dissatisfaction** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio or Chapter Director | Portfolio or Chapter Director; 18F Director if needed |
+| **Staffing misalignment** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio or Chapter Director, Supervisor | Staffing Leads  |
+| **Team is being mistreated (disrespected, or any other inappropriate behaviors or attitudes) by partner or vendor** | Team can try to resolve themselves, but can escalate immediately if they’d like | Portfolio or Chapter Director, Supervisor | Portfolio Director (if applicable), Chief of Staff otherwise; 18F Director, if needed |
 
 
 ### What if a project lead is struggling to fulfill the role?
@@ -90,6 +127,5 @@ If you aren’t sure how to approach those conversations, work with _your_ lead 
 If the above channels aren’t an option (for instance, if you don’t trust your lead, supervisor, and account manager, if they themselves are the issue, or if they don’t help), make time to talk with one of the following folks, each of whom can help you strategize about how to improve the situation:
 
 * Portfolio director, if you have one
-* Chief of Projects
 * Chief of Staff
 * Director of Account Management chapter
