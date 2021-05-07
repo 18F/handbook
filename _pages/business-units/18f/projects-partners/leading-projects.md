@@ -60,7 +60,7 @@ For most 18F projects, these are generally the tasks that need to be done. **Typ
 * Onboard new team members to the project, as needed, including revisiting team charter with full team
 * Periodically: Check in on equitable distribution of administrative tasks among team members: re-balance as necessary
 * Add to and organize the project’s Drive folder
-* [Get support]((#escalation-paths-for-issues-that-may-arise)) in cases where team has trouble resolving disagreement or with other project issues
+* [Get support]((#support)) in cases where team has trouble resolving disagreement or with other project issues
 * Participate in the Project Leadership Collective! Read the [PLC wiki](https://github.com/18F/Project-Leadership-Collective/wiki/Project-Leadership-Collective) and [join the PLC conversation](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
 
 #### End of project
