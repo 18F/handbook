@@ -55,6 +55,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA WIDE: TTS Talent Acquisiton Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 
+- [10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit#) - open Monday May 10 until Monday May 17
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
