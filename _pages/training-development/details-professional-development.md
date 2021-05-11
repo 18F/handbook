@@ -10,7 +10,7 @@ A detail is a temporary assignment from one position within the federal governme
 
 A detail can be a great way to develop and grow your skills while expanding your professional network. It can also be a way to learn more about a different area of government without permanently switching jobs. Generally, details are from 30 - 120 days, though some may be extended on a case-by-case basis.
 
-Detail opportunities can be found through formal channels or can be crafted by leveraging professional relationships. This [spreadsheet] (https://docs.google.com/spreadsheets/d/1cF8SdNhZSBcZXQy566-ZLO5PWK_nVUYmgUGLGzlfq9k/edit#gid=0) includes the names of employees across TTS who have gone on detail.
+Detail opportunities can be found through formal channels or can be crafted by leveraging professional relationships. 
 
 Within GSA, the [GSA Opportunity Network](https://docs.google.com/spreadsheets/d/1tvUDjm9bV42kHF7M7C7ZqA1PnI5qICnI4WBqZOMvDbU/edit) is where details within various parts of the agency are posted; outside of GSA, [Open Opportunities](https://openopps.usajobs.gov/) lists small tasks, projects and details across the federal government. 
 
