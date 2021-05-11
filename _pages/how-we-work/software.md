@@ -40,29 +40,34 @@ All software in use at GSA needs to be approved through the IT Standards process
 
 Here at TTS, we want to stay current and take advantage of as many emerging technologies as possible. We believe that getting the software you need to do your job should not be difficult, time-consuming or stressful. If the software is not in the [TTS inventory](https://app.smartsheet.com/b/publish?EQBCT=cf3124067fda44bbbe1471fe985d96b7) or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio will work with you to meet your needs as best as possible.
 
-### Step 1: Request within TTS
+### Step 1: Submit TTS Software Request
 
-Use the [TTS Tech Portfolio Software Request Form](https://forms.gle/w3MqKNMmLj1vbpWv8) to get a _New Software (consult)_. Please ensure that your justification in the Google Form is detailed, so it can be used to request FITARA approval.
+Use the [TTS Tech Portfolio Software Request Form](https://forms.gle/w3MqKNMmLj1vbpWv8) to get a _New Software (consult)_. When jusifying your needs, ensure that you provide as much detail as possible.
 
-### Step 2: Find or get an ATO
+Once the form has been submitted, it will be added to the exisiting queue of software requests. Please be patient and wait for the TTS Software Concierge to reach out to you.
 
-An Authority to Operate (ATO) is the result of the Assessment and Authorization process where someone (the Authorizing Official) accepts the risk as it pertains to cybersecurity. The ATO typically has certain conditions (such limiting use of certain data, needing to be on a VPN, etc) and as long as the software is used under those conditions, the Authorizing Official accepts the risk. Based on the nature of changing threat landscap, ATOs have an expiration date and will need to be assessed again before a new authorization is issued.
+### Step 2: Meet with TTS Software Concierge
 
-To check for an ATO, you need to go to [check the IT Standards list]({{site.baseurl}}/software/search/). If the software you are purchasing has a valid ATO listed in GEAR, then you can proceed with the rest of the process. You should save a copy of the ATO to your desktop so you can attach it to the request later.
+The TTS Software Concierge will review the request submitted and will contact you in order to ask further questions regarding your specific needs. This meeting is intended to gather further information, propose possible alternatives, and to determine the best approach to meet your needs.
 
-If the ATO is expired or you cannot find it in GEAR, you can post in the Slack channel [#tts-tech-portfolio](https://gsa-tts.slack.com/messages/tts-tech-portfolio/) to ask if there is an updated ATO. If there is no ATO or the ATO is expired, you will need to go through the ATO process to ensure your software is approved by security. The ATO process can take 4-6 weeks and [costs money](https://docs.google.com/spreadsheets/d/1PokRIGaGl04sxMxEHGwMIRaJDx4OPEXpJ7g69ekDdz8/edit#gid=1451563242z) and there is no guarantee it will be approved. If your need is urgent, try to find something in the [IT Standards]({{site.baseurl}}/software/search/) list that is already approved and meets your needs.
+### Step 3: Analysis
 
-### Step 3: [Submit a micropurchase request.]({{site.baseurl}}/purchase-requests/)
+After the initial meeting has been conducted, the Software Concierge will:
 
-## Other lists and approval processes
+- Reach out to other parts of TTS to find out if others are experiencing the same problem
+- Explore GEAR and the TTS inventory to see what options are already available
+- Look at pricing
+- Determine what kind of ATO would be needed/acquisition would need to happen if the current tools don’t meet the need
 
-Typically, ATOs are for data and systems. They are required for any GSA information system that hosts GSA data. Not everything falls into that category, but they still need approval. Rather than being given the approval to Operate, they are given an Approval to Use (ATU). An ATU is a risk-based approval process for usage of services, features or funcstion on already ATO'd information systems or platforms. Both of these processes are explained in the [ATO & ATU Tech Talk Briefing](https://drive.google.com/file/d/1rjv7eiPSpjv4imX8Pi4ghRyS-aYb48ln/view?usp=sharing).
+Please be patient as the Software Concierge conducts their analysis. You may be asked to participate in a follow-up meeting to discuss any new concerns and/or possible alternatives that may be discovered.
 
-- [Amazon Web Services (AWS) services](https://before-you-ship.18f.gov/infrastructure/aws/#building-systems-that-will-be-deployed-directly-to-aws)
-- [Chrome extensions](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions)
-- [GitHub integrations]({{site.baseurl}}/github/#rules)
-- [Google Cloud / G Suite services, including APIs](https://docs.google.com/spreadsheets/d/1h0338doPlHIfslS7Huypzs7TlJTFVw_-98oPnum0Cvo/edit#gid=467863101)
-- [Slack integrations]({{site.baseurl}}/tools/slack/integrations/)
+## Step 4: Obtain ATO & FITARA Approval
+
+Once all analysis has been completed, the Software Conceirge will contact you to discuss the outcome of your software request. Justification will be provided if either your request is approved or disapproved. 
+
+If your request has been approved to move forward, an IT Standard request will be submitted in order to obtain an ATO and FITARA approval from the GSA-CIO.
+
+Once the ATO has been granted, the tool will be listed in GEAR and you will then be able to conduct the procurement for the required licenses.
 
 ## Relevant policies
 
