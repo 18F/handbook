@@ -65,6 +65,9 @@ primary:
       - text: Conferences and events
         url: conferences-events-training/
         internal: true
+      - text: Detailing for professional growth
+        url: details-professional-development/
+        internal: true
       - text: GitHub 101
         url: intro-to-github/
         internal: true
