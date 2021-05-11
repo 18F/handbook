@@ -57,6 +57,9 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit#) - open Monday May 10 until Monday May 17
 
+- [18F Director of Business Development Detail](https://docs.google.com/document/d/1Z7e_n0oS14XhBRIjw8xgA15aX7hRwMpm-Na3bupEDxQ/edit#) - open Tuesday May 11 until Tuesday May 18
+
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
