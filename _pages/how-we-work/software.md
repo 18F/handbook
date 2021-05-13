@@ -64,7 +64,7 @@ Please be patient as the Software Concierge conducts their analysis. You may be 
 
 ## Step 4: Obtain ATO & FITARA Approval
 
-Once all analysis has been completed, the Software Conceirge will contact you to discuss the outcome of your software request. Justification will be provided if either your request is approved or disapproved. 
+Once all analysis has been completed, the Software Conceirge will contact you to discuss the outcome of your software request. Justification will be provided if either your request will be moved forward or not.
 
 An IT Standard and [FITARA]({{site.baseurl}}/fitara/) request will be submitted to have the tool approved for use.
 
