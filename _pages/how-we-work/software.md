@@ -19,7 +19,8 @@ If the software you are looking for is in the [TTS inventory](https://docs.googl
 
 If TTS does not have licenses, GSA might. In order to check the GSA IT Catalog:
 
-1. [Start a Software request](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
+1. First, check if the approved software is in the Self Service catalog app from your Macbook
+1. If the tool is not in the Self Service catalog, [Start a Software request](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
 1. Scroll toward the bottom of the page to where it says “Enter Software Name Here”.
 1. In the dropdown menu, start to type the name of the software you need.
 
