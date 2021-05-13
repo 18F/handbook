@@ -66,7 +66,7 @@ Please be patient as the Software Concierge conducts their analysis. You may be 
 
 Once all analysis has been completed, the Software Conceirge will contact you to discuss the outcome of your software request. Justification will be provided if either your request is approved or disapproved. 
 
-If your request has been approved to move forward, an IT Standard request will be submitted in order to obtain an ATO and FITARA approval from the GSA-CIO.
+An IT Standard and [FITARA]({{site.baseurl}}/fitara/) request will be submitted to have the tool approved for use.
 
 Once the ATO has been granted, the tool will be listed in GEAR and you will then be able to conduct the procurement for the required licenses.
 
