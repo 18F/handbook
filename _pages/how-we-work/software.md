@@ -53,7 +53,7 @@ The TTS Software Concierge will review the request submitted and will contact yo
 
 ### Step 3: Analysis
 
-After the initial meeting has been conducted, the Software Concierge will:
+After the initial meeting has been conducted, the Software Concierge will work with you to:
 
 - Reach out to other parts of TTS to find out if others are experiencing the same problem
 - Explore GEAR and the TTS inventory to see what options are already available
