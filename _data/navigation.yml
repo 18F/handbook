@@ -65,6 +65,9 @@ primary:
       - text: Conferences and events
         url: conferences-events-training/
         internal: true
+      - text: Detailing for professional growth
+        url: details-professional-development/
+        internal: true
       - text: GitHub 101
         url: intro-to-github/
         internal: true
@@ -105,28 +108,27 @@ primary:
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
-      - text: Performance management overview
-        url: performance-management/
-        internal: true
-      - text: Important dates
-        url: performance-management/dates/#mid-year-performance-review-important-dates
-        internal: true
-      - text: End of year HRLinks steps
-        url: performance-management/end-of-year/hrlinks-steps/
-        interal: true
-      - text: Employee resources
-        url: performance-management/employee-resources/
-        internal: true
-      - text: Supervisor resources
-        url: performance-management/supervisor-resources/
-        internal: true
       - text: Mid year review overview
         url: performance-management/mid-year/
         internal: true
       - text: Mid year HRLinks steps
         url: performance-management/mid-year/hrlinks-steps/
         internal: true
-
+      - text: Important dates
+        url: performance-management/dates/#mid-year-performance-review-important-dates
+        internal: true
+      - text: Performance management overview
+        url: performance-management/
+        internal: true
+      - text: Employee resources
+        url: performance-management/employee-resources/
+        internal: true
+      - text: Supervisor resources
+        url: performance-management/supervisor-resources/
+        internal: true
+      - text: End of year HRLinks steps
+        url: performance-management/end-of-year/hrlinks-steps/
+        interal: true
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
     blurb: |
@@ -364,6 +366,9 @@ primary:
                 internal: true
               - text: Leading projects
                 url: leading-projects/
+                internal: true
+              - text: Successful project teams
+                url: project-teams/
                 internal: true
               - text: Working on an acquisition engagement
                 url: working-on-an-acquisition-engagement/

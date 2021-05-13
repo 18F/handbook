@@ -35,11 +35,15 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Product Manager/IT Specialist (PLCYPLAN) (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Friday, June 11th
+- [18F Product Manager/IT Specialist (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Friday, June 11th
 
-- [18F Consulting Software Engineer](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Monday, May 31st 
+- [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Monday, May 31st 
 
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/) - open Friday, March 5th through Friday, May 14th
+
+- [18F User Experience Designer/IT Specialist (2210)](https://join.tts.gsa.gov/join/18f-user-experience-designer/) - open Monday, May 3rd through Friday, May 14th
+
+- [Office of Acquisition - Contract Specialist](https://join.tts.gsa.gov/join/contract-specialist/) - open Wednesday, February 3rd through Wednesday, February 2nd 2021
 
 ### Internal only opportunities
 
@@ -48,6 +52,13 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 
 - [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
+
+- [GSA WIDE: TTS Talent Acquisiton Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
+
+- [10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit#) - open Monday May 10 until Monday May 17
+
+- [18F Director of Business Development Detail](https://docs.google.com/document/d/1Z7e_n0oS14XhBRIjw8xgA15aX7hRwMpm-Na3bupEDxQ/edit#) - open Tuesday May 11 until Tuesday May 18
+
 
 ## Opportunities with partners
 

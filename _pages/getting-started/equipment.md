@@ -85,6 +85,9 @@ GSA IT will NOT provide peripherals to telework users that are using them at hom
 
 If you need wireless peripherals for the office or your business unit is willing to pay for peripherals, submit a [micropurchase request]({{site.baseurl}}/purchase-requests/) and it will be reviewed by the TTS purchase card holder. Please note that you will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form. 
 
+### Printers
+If you need to setup a printer follow the instructions [here](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology?term=printer%20driver#Print).
+
 ## Equipment to accommodate disability
 
 GSA provides equipment to accommodate an injury or disability under these conditions:
