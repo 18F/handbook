@@ -55,6 +55,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Director of Business Development Detail](https://docs.google.com/document/d/1Z7e_n0oS14XhBRIjw8xgA15aX7hRwMpm-Na3bupEDxQ/edit#) - open Tuesday May 11 until Friday May 21
 
+- [Solutions Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit) - open Monday, May 17 until Monday May 24
+
 
 ## Opportunities with partners
 
