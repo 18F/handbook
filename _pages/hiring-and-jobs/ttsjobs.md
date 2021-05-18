@@ -55,6 +55,10 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Solutions Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit) - open Monday, May 17 until Monday May 24
 
+- [18F Chief of Practices Detail](https://docs.google.com/document/d/1RLcw-OkcwNaOFx_Irh26d9DDLJhp7DFzuAJtU_Y35Us/edit) - open Tuesday May 18 until Friday May 28
+
+- [18F Chief of Projects Detail](https://docs.google.com/document/d/1qW_VLJxxMqb9ShRJv5wv3RiZoT4FOirbVcBGNYtMe-8/edit) - open Tuesday May 18 until Friday May 28
+
 
 ## Opportunities with partners
 
