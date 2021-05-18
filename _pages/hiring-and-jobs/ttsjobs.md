@@ -51,8 +51,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA WIDE: TTS Talent Acquisiton Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 
-- [10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit#) - open Monday May 10 until Monday May 17
-
 - [18F Director of Business Development Detail](https://docs.google.com/document/d/1Z7e_n0oS14XhBRIjw8xgA15aX7hRwMpm-Na3bupEDxQ/edit#) - open Tuesday May 11 until Friday May 21
 
 - [Solutions Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit) - open Monday, May 17 until Monday May 24
