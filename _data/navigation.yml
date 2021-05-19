@@ -370,6 +370,9 @@ primary:
               - text: Successful project teams
                 url: project-teams/
                 internal: true
+              - text: Managing projects in distress
+                url: projects-in-distress/
+                internal: true
               - text: Working on an acquisition engagement
                 url: working-on-an-acquisition-engagement/
                 internal: true
