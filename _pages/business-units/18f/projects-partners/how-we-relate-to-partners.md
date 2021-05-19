@@ -1,5 +1,5 @@
 ---
-title: How we relate to partners
+title: Consulting with partners
 tags:
   - consulting
 ---
