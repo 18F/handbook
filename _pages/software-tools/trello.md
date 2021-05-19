@@ -62,10 +62,6 @@ If you aren't sure or want others reviewed, ask in [#admins-trello](https://gsa-
 
 If you get a `Manually Banned Apps Policy` email from [Cloudlock](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/cloudlock), it's likely because you signed into Trello with Google (via OAuth), and one of the Trello Teams you're part of has the [Google Drive Power-Up](https://trello.com/power-ups/55a5d916446f517774210006) enabled. That Power-Up should be removed, but this warning can otherwise be ignored.
 
-## Chrome extensions
-
-See [general info]({{site.baseurl}}/software/#other-lists-and-approval-processes).
-
 ## For admins
 
 - [Add general users to boards as guests](https://help.trello.com/article/1236-board-guests); don't add them as members of the Workspace(s).

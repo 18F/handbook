@@ -39,10 +39,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Monday, May 31st 
 
-- [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/) - open Friday, March 5th through Friday, May 14th
-
-- [18F User Experience Designer/IT Specialist (2210)](https://join.tts.gsa.gov/join/18f-user-experience-designer/) - open Monday, May 3rd through Friday, May 14th
-
 - [Office of Acquisition - Contract Specialist](https://join.tts.gsa.gov/join/contract-specialist/) - open Wednesday, February 3rd through Wednesday, February 2nd 2021
 
 ### Internal only opportunities
@@ -55,9 +51,13 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA WIDE: TTS Talent Acquisiton Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 
-- [10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit#) - open Monday May 10 until Monday May 17
+- [18F Director of Business Development Detail](https://docs.google.com/document/d/1Z7e_n0oS14XhBRIjw8xgA15aX7hRwMpm-Na3bupEDxQ/edit#) - open Tuesday May 11 until Friday May 21
 
-- [18F Director of Business Development Detail](https://docs.google.com/document/d/1Z7e_n0oS14XhBRIjw8xgA15aX7hRwMpm-Na3bupEDxQ/edit#) - open Tuesday May 11 until Tuesday May 18
+- [Solutions Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit) - open Monday, May 17 until Monday May 24
+
+- [18F Chief of Practices Detail](https://docs.google.com/document/d/1RLcw-OkcwNaOFx_Irh26d9DDLJhp7DFzuAJtU_Y35Us/edit) - open Tuesday May 18 until Friday May 28
+
+- [18F Chief of Projects Detail](https://docs.google.com/document/d/1qW_VLJxxMqb9ShRJv5wv3RiZoT4FOirbVcBGNYtMe-8/edit) - open Tuesday May 18 until Friday May 28
 
 
 ## Opportunities with partners
