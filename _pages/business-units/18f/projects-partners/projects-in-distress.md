@@ -30,11 +30,6 @@ Teams may find this [pivot, pause, stop mural template](https://app.mural.co/t/g
 2. **Portfolio Directors** or the **Director of Account Management** can be an escalation path for teams or for partners, and can provide the support teams may need to have difficult conversations with partners.
 3. The **Deputy** and **Executive Director** can provide another layer of top cover. This is especially useful when executive level stakeholders are dissatisfied.
 
-### Sources for organizational learning
-1. [Project Resources Library](https://airtable.com/tbltYxrUpM4Ai7iGp/viwtArfcTfh9KJqcV?blocks=hide)
-2. [Project Reflections analysis database](https://airtable.com/tblecbLzYvQFF9shK/viwOeck9dYD2dTtNh?blocks=hide)
-3. [Project Leadership Collective](https://github.com/18F/Project-Leadership-Collective/wiki/Project-Leadership-Collective)
-
 ### Staffing changes
 In some cases, a staffing change may be a necessary strategy for managing distressed projects. The options for changing project staffing are [documented in the Staffing repo README](https://github.com/18F/staffing/blob/master/README.md#on-the-subject-of-inflight-staffing-changes).
 
