@@ -26,6 +26,9 @@ In general, contractors "embedded" in TTS (working on TTS projects most or full-
 
 ## See also
 
+- TTS-specific materials:
+  - [Contracting Officer's Representative (COR) Playbook](https://docs.google.com/document/d/14xOFvIGwlG0Gbd52o1D4AyJ52RqzHpX91nfEYJKu5qQ/edit)
+  - [Contractor onboarding checklist](https://docs.google.com/spreadsheets/d/1w0WSTUT0l7q19mAI6c2QCIpCFs0Cei4eukaiiRBTbRA/edit#gid=710529923)
 - [Region 10's information on Contractor Onboarding](https://insite.gsa.gov/locations/region-10/about-us/regional-staff-offices/office-of-mission-assurance-oma/contractor-hspd12-processing/contractor-onboarding-oma-r10)
 - [Requesting Officials Roles & Responsibilities](https://insite.gsa.gov/employee-resources/safety-and-security/background-investigation-access-card-process/requesting-officials-roles-responsibilities)
 - [How Contractors Obtain a GSA Access Card](https://www.gsa.gov/technology/government-it-initiatives/identity-credentials-and-access-manage/how-contractors-obtain-a-gsa-access-card)
