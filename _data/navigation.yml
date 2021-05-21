@@ -19,8 +19,11 @@ primary:
       - text: Org chart
         url: https://docs.google.com/presentation/d/1otRbhoGRN4LfDnWpN6zZ0ymjPpTBW3t79pIiuBREkCY/edit
         internal: false
-      - text: 2020 Strategy
-        url: https://docs.google.com/document/d/1uidmcUfdxOeCt23nJ4VI1M10HV3W44ImMPLgwbx1QJM/edit
+      - text: Strategy
+        url: https://docs.google.com/presentation/d/10Y39kVm6Wrl-V1D55msMwt1yWdkCOWJBcPqnqhg-NMA/edit
+        internal: false
+      - text: FY20 Accomplishments
+        url: https://docs.google.com/document/d/1CJX97zBukyJcZxS1KIw1hUdMzvor8RX5HhKIZSOn-Ho/edit
         internal: false
       - text: Digital Council
         url: digital-council/
