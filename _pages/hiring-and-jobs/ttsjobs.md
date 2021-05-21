@@ -59,7 +59,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Chief of Projects Detail](https://docs.google.com/document/d/1qW_VLJxxMqb9ShRJv5wv3RiZoT4FOirbVcBGNYtMe-8/edit) - open Tuesday May 18 until Friday May 28
 
-- [Solutions Digital.gov Product Manager Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit) - open Friday, May 21 until Friday, June 4 
+- [Solutions Digital.gov Product Manager Detail](https://docs.google.com/document/d/16BXYFj0NunyPk8EsQOzpPfE32osjPvQnkKted8VxDG0/edit#heading=h.ug9ig2kgf0mm) - open Friday, May 21 until Friday, June 4 
 
 
 ## Opportunities with partners
