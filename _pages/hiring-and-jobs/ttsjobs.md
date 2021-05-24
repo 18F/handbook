@@ -37,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Product Manager/IT Specialist (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Friday, June 11th
 
-- [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Monday, May 31st 
+- [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Friday, July 2nd 
 
 - [Office of Acquisition - Contract Specialist](https://join.tts.gsa.gov/join/contract-specialist/) - open Wednesday, February 3rd through Wednesday, February 2nd 2021
 
@@ -50,8 +50,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 - [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
 
 - [GSA WIDE: TTS Talent Acquisiton Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
-
-- [18F Director of Business Development Detail](https://docs.google.com/document/d/1Z7e_n0oS14XhBRIjw8xgA15aX7hRwMpm-Na3bupEDxQ/edit#) - open Tuesday May 11 until Friday May 21
 
 - [Solutions Innovation Portfolio Director Detail](https://docs.google.com/document/d/1lK41t7LbMoHTb3EGbaRA4aGRG4vx01Zr1V9cnM55r8w/edit) - open Monday, May 17 until Monday May 24
 
