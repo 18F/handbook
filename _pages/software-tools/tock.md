@@ -98,9 +98,12 @@ You must not bill for the following activities because these are indirect costs 
 
 ### Weekly Billable Hour Expectations
 
-For 18F, if you’re an individual contributor or a lead, you’re expected to spend at least 90% of your time on billable project work. Directors and supervisors have different billability expectations.
+For 18F, if you’re an individual contributor or a lead, you’re expected to spend at least 90% of your time on billable project work. That leaves up to 10% of your time to be spent on non-billable work. 
 
-That leaves up to 10% of your time to be spent on non-billable work. There are a few types of non-billable work, used to manage the running of the organization: GSA-mandated non-billable work, 18F business development, hiring and non-billable work.
+- Directors and supervisors have different billability expectations.
+- Guilds are given 4 hours of non-billable time weekly to support its leaders. If your guild is lead by co-leads, it is up to you to decide how you’d like to split that time between yourselves. If you anticipate any change to your billing levels for a project, please discuss with your project’s account manager.
+
+There are a few types of non-billable work, used to manage the running of the organization: GSA-mandated non-billable work, 18F business development, hiring and non-billable work.
 
 GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware (like PIV readers), and so forth. These are the things we don’t have a choice but to spend time on.
 
