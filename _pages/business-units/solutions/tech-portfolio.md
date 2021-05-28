@@ -23,7 +23,7 @@ Rather than trying to exert control over everything technology at TTS, we focus 
 - **Compliance:** Assist in [authorization](https://atos.open-control.org/steps/#step-5-authorize-information-system) of TTS systems to get their ATOs, improving that process along the way
 - **IT Security:** Involved in [security incidents]({{site.baseurl}}/security-incidents/) triage and reporting
 - **Requirements:** In coordination with GSA IT, manage and support procurements, approvals, and licenses (with Acquisition and Finance teams) for [hardware]({{site.baseurl}}/equipment/) and [software]({{site.baseurl}}/software/) that chapters need to accomplish their mission
-- **Assets:** Manage major [TTS infrastructure](https://before-you-ship.18f.gov/infrastructure/) and programs such as [Bug Bounty](https://hackerone.com/tts), [AWS](https://before-you-ship.18f.gov/infrastructure/aws/), New Relic, Twilio, etc.
+- **Assets:** Manage major [TTS infrastructure](https://before-you-ship.18f.gov/infrastructure/) and programs such as [Bug Bounty](https://hackerone.com/tts).
 - **Relationships:** Advise TTS leadership and interface with the rest of GSA (FAS, OGP, GSA IT Security, etc) on technology-related matters.
 - **Customer Service:** Generally support TTS on any technology-related matters
 - **Administration:** Perform operational activities like access, account and license management.
