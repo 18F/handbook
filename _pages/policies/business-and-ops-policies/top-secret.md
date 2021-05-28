@@ -21,9 +21,8 @@ There are [three national security clearance levels](https://en.wikipedia.org/wi
 ## Your clearance status
 Find out your clearance status in [HRLinks]({{site.baseurl}}/leave/#logging-into-hr-links)
 1. Click on the **Navigator** icon in the top right hand corner
-2. Click on "Self Service"
-3. Click on "Personal Information"
-4. Click on "Employee Security Clearance"
+2. Click on "Click View/Update My Personal Info" icon
+3. Click on "Employee Security Clearance" tab on the left menu
 
 You can also email [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov) to check your status.
 
