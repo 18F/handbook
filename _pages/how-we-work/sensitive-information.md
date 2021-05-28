@@ -11,7 +11,7 @@ Here's what you need to know about sensitive information at TTS.
 Anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands. To learn what information we consider sensitive, see [our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information). See also: [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
 
 ## What to do if you find or expose sensitive information
-See [Reporting other incidents](https://handbook.tts.gsa.gov/security-incidents/#reporting-other-incidents)
+See [Reporting other incidents]({{site.baseurl}}/security-incidents/#reporting-other-incidents)
 
 ## Tools
 TTS offers a few different tools for protecting sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
