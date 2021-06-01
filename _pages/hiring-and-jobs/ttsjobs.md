@@ -47,7 +47,9 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA WIDE: TTS Talent Acquisiton Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 
-- [Solutions Digital.gov Product Manager Detail](https://docs.google.com/document/d/16BXYFj0NunyPk8EsQOzpPfE32osjPvQnkKted8VxDG0/edit#heading=h.ug9ig2kgf0mm) - open Friday, May 21 until Friday, June 4 
+- [Solutions Digital.gov Product Manager Detail](https://docs.google.com/document/d/16BXYFj0NunyPk8EsQOzpPfE32osjPvQnkKted8VxDG0/edit#heading=h.ug9ig2kgf0mm) - open Friday, May 21st until Friday, June 4th
+
+- [Cloud.gov Director Detail](https://docs.google.com/document/d/1RTJWb9lM1LuGemjKLh8PhXgRfL4Hux3wQPCrq9J5yi8/edit#) - open Tuesday, June 1st until Friday, June 11th 
 
 
 ## Opportunities with partners
