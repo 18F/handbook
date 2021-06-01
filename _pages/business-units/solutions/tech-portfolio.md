@@ -54,7 +54,9 @@ TTS' votes mainly focus on technology/product aspects, following the [18F De-Ris
 
 ## Important links
 
-- [The Tech Portfolio Kanban board](https://github.com/orgs/18F/projects/11?fullscreen=true) - what we're working on
+- What we're working on
+  - [FY21-22 Business Plan](https://docs.google.com/document/d/1D8NjruISqW6A9rXu6EBN28JWyHyjHjGM/edit)
+  - [Kanban board](https://github.com/orgs/18F/projects/11?fullscreen=true)
 - [Before You Ship](https://before-you-ship.18f.gov/) - TTS' internal documentation about security, compliance, and infrastructure
 - Maintaining the authoritative source documentation for components used across TTS [Software-as-a-service (SaaS) ](https://app.smartsheet.com/b/publish?EQBCT=cf3124067fda44bbbe1471fe985d96b7), [Systems](https://docs.google.com/spreadsheets/u/1/d/1LGn9kZCphzf14V5HpBfV3aYjflu-k9GtHS5LmFvDywM/edit?usp=drive_web&ouid=114492559070606542558), and [Accounts](https://docs.google.com/spreadsheets/d/1DedSCiU9AsCAAVvAFZT0_Ii7AFIKlI-JNifzlpHNbDg/edit#gid=0)
 - [More internal documentation](https://github.com/18F/tts-tech-portfolio/wiki/Documents-for-TTS-Tech-Porfolio)
