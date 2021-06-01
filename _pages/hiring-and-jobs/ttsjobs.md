@@ -49,6 +49,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Solutions Digital.gov Product Manager Detail](https://docs.google.com/document/d/16BXYFj0NunyPk8EsQOzpPfE32osjPvQnkKted8VxDG0/edit#heading=h.ug9ig2kgf0mm) - open Friday, May 21 until Friday, June 4 
 
+- [Cloud.gov Director Detail](https://docs.google.com/document/d/1RTJWb9lM1LuGemjKLh8PhXgRfL4Hux3wQPCrq9J5yi8/edit#) - open Tuesday, June 8 until Friday, June 18 
+
 
 ## Opportunities with partners
 
