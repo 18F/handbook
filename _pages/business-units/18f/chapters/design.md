@@ -12,7 +12,7 @@ The Design team at 18F provides design services in our projects and to the organ
 - **Content strategy.** We help people clarify their tone and voice, and explore the breadth and depth of their content.
 - **Information architecture.** We help people state their intent and disclose information in an intuitive way.
 - **Interaction design.** We work with people to wireframe and prototype simple, beautiful, usable interactions.
-- **Visual design.** We help people communicate clearly through visualizations and illustrations.
+- **Product design.** We help people communicate clearly through visualizations and illustrations.
 - **Service design.** We work with partners to map their customers' experiences and business processes in order to design interactions across systems and over time.
 
 ## Documentation
@@ -58,7 +58,7 @@ You might not have much assigned work during your first two weeks here. That’s
 
 ## Who we are
 
-The Design team at 18F includes content, user experience, front-end, visual, and service designers. We are researchers, editors, prototypers, illustrators, and wordsmiths. We come from a variety of backgrounds, including government, non-profits, consultancies, corporations, and academia.
+The Design team at 18F includes content, user experience, front-end, product, and service designers. We are researchers, editors, prototypers, illustrators, and wordsmiths. We come from a variety of backgrounds, including government, non-profits, consultancies, corporations, and academia.
 
 ### Structure
 
@@ -76,7 +76,7 @@ The Design team at 18F provides design services in our projects and to the organ
 - **Content strategy.** We help people clarify their tone and voice, and explore the breadth and depth of their content.
 - **Information architecture.** We help people state their intent and disclose information in an intuitive way.
 - **Interaction design.** We work with people to wireframe and prototype simple, beautiful, usable interactions.
-- **Visual design.** We help people communicate clearly through visualizations and illustrations.
+- **Product design.** We help people communicate clearly through visualizations and illustrations.
 - **Service design.** We work with partners to map their customers' experiences and business processes in order to design interactions across systems and over time.
 
 ## How we work
@@ -132,10 +132,10 @@ We default to free and open-source assets, unless there is a very good reason to
 - **18F-themed templates:** Access document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Unless your project has its own branded communication materials, like login.gov or cloud.gov, use these styles and templates for communicating about all of your work at 18F. It's often beneficial for partners when we present deliverables with our brand styling, which shows the outside expertise they brought in. It also helps 18F present itself with a unified voice, tone, and look.
 - **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. Come chat in [#dev-frontend](https://gsa-tts.slack.com/archives/C02CZB4G5) if you are choosing a framework for something.
 - **Icons:**
-  - The visual design team maintains guidance on [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
+  - The product design team maintains guidance on [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
   - If you want to start using non-free ones, you’ll need to jump through some hoops — even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check [#teamops](https://gsa-tts.slack.com/archives/C02861A7L) for further instructions.
 - **Images:** Most images published by government agencies are in the public domain and thus free to use.
-  - The visual design team maintains guidance on [government photography resources](https://github.com/18F/visual-design/wiki/Government-photography).
+  - The product design team maintains guidance on [government photography resources](https://github.com/18F/visual-design/wiki/Government-photography).
   - You can use `incategory:PD_US_Government` as part of a search query on Wikimedia Commons: [example](https://commons.wikimedia.org/w/index.php?title=Special:Search&profile=default&fulltext=Search&search=incategory%3APD_US_Government+example&uselang=en&searchToken=5902rmnmjz5fivko9172xs74c).
   - While you’re at it, visit the [Department of the Interior’s Instagram](https://instagram.com/usinterior/) stream. You’ll be glad you did.
 - **Typography:** Partner agencies often have their own style guidance that we follow in our work with them. 18F-branded materials should follow typography guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For needs outside these scenarios, typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/) are a safe starting choice. Come chat in [#visual-design](https://gsa-tts.slack.com/archives/C054CHWSJ) if you are choosing fonts for something.
