@@ -6,15 +6,14 @@ questions:
   - design
 ---
 
-The Design team at 18F includes content, user experience, front end, and visual designers as well as researchers, editors, prototypers, illustrators, and wordsmiths.
+The Design team at 18F provides design services in our projects and to the organization, including:
 
-18F Design provides design as a service to the rest of the organization, including:
-
-- **Research.** We help people to identify, target, and solicit feedback from real users, stakeholders, subject-matter experts, etc.
+- **Research.** We test assumptions by gathering feedback from real users, stakeholders, subject-matter experts, etc.
 - **Content strategy.** We help people clarify their tone and voice, and explore the breadth and depth of their content.
 - **Information architecture.** We help people state their intent and disclose information in an intuitive way.
-- **Interaction design and front end development.** We work with people to wireframe and prototype simple, beautiful, usable interactions.
-- **Visual design.** We help people more clearly communicate through visualizations and illustrations as well as solid graphic design knowhow.
+- **Interaction design.** We work with people to wireframe and prototype simple, beautiful, usable interactions.
+- **Visual design.** We help people communicate clearly through visualizations and illustrations.
+- **Service design.** We work with partners to map their customers' experiences and business processes in order to design interactions across systems and over time.
 
 ## Documentation
 
@@ -22,27 +21,30 @@ The Design team at 18F includes content, user experience, front end, and visual 
 - [18F Visual Identity Guide](https://brand.18f.gov/)
 - [18F Content Guide](https://content-guide.18f.gov/)
 - [18F Frontend Style Guide](https://engineering.18f.gov/frontend/)
+- [18F UX Guide](https://ux-guide.18f.gov)
 - [Design Methods](https://methods.18f.gov/)
-- [Design Wiki](https://github.com/18F/Design-Wiki)
 
 ### Suggested reading
 
 - [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/)
 - [Accessibility for Teams](https://accessibility.digital.gov/) and [18F Accessibility Guide](https://accessibility.18f.gov/)
+- [18F De-risking Guide](https://derisking-guide.18f.gov/)
 
 ## Communication
 
 Find us on Slack:
 
-- [#design](https://gsa-tts.slack.com/messages/design)
-- [#g-content](https://gsa-tts.slack.com/messages/g-content)
-- [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend)
-- [#g-research](https://gsa-tts.slack.com/messages/g-research)
-- [#design-lab](https://gsa-tts.slack.com/messages/design-lab)
-- [#writing-lab](https://gsa-tts.slack.com/messages/writing-lab)
-- [#content-design](https://gsa-tts.slack.com/messages/content-design)
-- [#ux](https://gsa-tts.slack.com/messages/ux)
-- [#visual-design](https://gsa-tts.slack.com/messages/visual-design)
+- [#design](https://gsa-tts.slack.com/archives/C02AUUQ8R)
+- [#content-design](https://gsa-tts.slack.com/archives/CB70X5BK2)
+- [#service-design](https://gsa-tts.slack.com/archives/C0KB576KH)
+- [#ux](https://gsa-tts.slack.com/archives/C7PU0BL6R)
+- [#visual-design](https://gsa-tts.slack.com/archives/C054CHWSJ)
+- [#g-content](https://gsa-tts.slack.com/archives/C06RFLK9U)
+- [#g-research](https://gsa-tts.slack.com/archives/C03JK2KH8)
+- [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW)
+- [#helpwanted](https://gsa-tts.slack.com/archives/C018QJ2L44X)
+- [#dev-frontend](https://gsa-tts.slack.com/archives/C02CZB4G5)
+- [#18f-methods](https://gsa-tts.slack.com/archives/C04H0S4M2)
 
 ---
 
@@ -56,25 +58,26 @@ You might not have much assigned work during your first two weeks here. That’s
 
 ## Who we are
 
-The Design team at 18F includes content, user experience, front-end, and visual designers. We are researchers, editors, prototypers, illustrators, and wordsmiths. We come from a variety of backgrounds, including government, non-profits, consultancies, corporations, and academia.
+The Design team at 18F includes content, user experience, front-end, visual, and service designers. We are researchers, editors, prototypers, illustrators, and wordsmiths. We come from a variety of backgrounds, including government, non-profits, consultancies, corporations, and academia.
 
 ### Structure
 
-As per the [org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?usp=sharing), 18F Design is itself composed of the content design, user experience (UX) design + frontend design, and visual design teams. Members of the Design team are active participants in the content, frontend, and research [guilds]({{site.baseurl}}/working-groups-and-guilds-101).
+As per the [org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?usp=sharing), 18F Design is itself composed of product design, content strategy, change strategy, and user experience teams. Members of the Design team are active participants in the content and research [guilds]({{site.baseurl}}/working-groups-and-guilds-101).
 
-As these teams have grown in size, we’ve introduced **leads** and **supervisors**. In your first week, you’ll be assigned a lead. Leads concentrate on project work while providing a first level of practical support and project advice to 2-3 people. Supervisors carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. Leads and supervisors are selected through nominations and interviews according to team needs. These competitions will be announced ahead of time. More detail on [Design team roles and responsibilites](https://docs.google.com/document/d/1XqgwiUItzRZu4I8KcpQlkCCd5iXM_EbTwsUzXwy-L-w/edit#heading=h.bc6vwqoy0xk4) is provided internally.
+As these teams have grown in size, we’ve introduced **leads** and **supervisors**. In your first week, you’ll be assigned a lead. Leads concentrate on project work while providing a first level of practical support and project advice to 2-3 people. Supervisors carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. Leads and supervisors are selected through nominations and interviews according to team needs. These competitions will be announced ahead of time. More detail on [Design team roles and responsibilities](https://docs.google.com/document/d/1XqgwiUItzRZu4I8KcpQlkCCd5iXM_EbTwsUzXwy-L-w/edit#heading=h.bc6vwqoy0xk4) is provided internally.
 
-Members of the Design team are also assigned to **critique groups.** These groups meet regularly (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. These rotations are announced ahead of time, and if you're interested in taking a turn as a critique lead, you can raise your hand as a candidate at that time.
+Members of the Design team are also assigned to **critique groups.** These groups meet regularly (barring more urgent project activities) to discuss work in progress and help the Design team maintain its storytelling and presentation skills. Critique groups also have leaders, and their groupings change periodically. These rotations are announced ahead of time. If you're interested in taking a turn as a critique lead, you can raise your hand as a candidate at that time.
 
 ## What we do
 
-18F Design provides design as a service to the rest of the organization, including:
+The Design team at 18F provides design services in our projects and to the organization, including:
 
-- **Research.** We help people to identify, target, and solicit feedback from real users, stakeholders, subject-matter experts, etc.
+- **Research.** We test assumptions by gathering feedback from real users, stakeholders, subject-matter experts, etc.
 - **Content strategy.** We help people clarify their tone and voice, and explore the breadth and depth of their content.
 - **Information architecture.** We help people state their intent and disclose information in an intuitive way.
-- **Interaction design and frontend development.** We work with people to develop prototypes and wireframes, discover and implement new technologies to produce simple, beautiful, usable, interactions.
-- **Visual design.** We help people more clearly communicate through visualizations and illustrations as well as solid graphic design knowhow.
+- **Interaction design.** We work with people to wireframe and prototype simple, beautiful, usable interactions.
+- **Visual design.** We help people communicate clearly through visualizations and illustrations.
+- **Service design.** We work with partners to map their customers' experiences and business processes in order to design interactions across systems and over time.
 
 ## How we work
 
@@ -82,15 +85,9 @@ Members of the Design team are also assigned to **critique groups.** These group
 
 Most of the design team works on a mix of partner-agency projects and internal initiatives. As you’d guess, everyone’s weeks look a little different. That said, there are recurring weekly meetings and commitments we all have on our calendars.
 
-- **Mondays:** every other week for 45 minutes at 3pm ET (12:00pm PT) design team huddle. The whole team meets to discuss project status, policy updates, and general design-specific news. Our huddles typically follow the same format: the Director of Design will start off with general announcements and a reminder about completing timesheets. The rest of the huddle features a presentation or conversation about a topic of current interest to the team. Past topics have included: how other chapters work, our collaborative work practices, and recent organizational changes within 18F or TTS.
+- **Wednesdays:** every other week for 45 minutes at 2:30pm ET (11:30am PT) design team huddle. The whole team meets to discuss project status, policy updates, and general design-specific news. Our huddles typically follow the same format: the Design Director provides general announcements. The rest of the huddle features a presentation or conversation about a topic of current interest to the team. Past topics have included: how other chapters work, our collaborative work practices, and recent organizational changes within 18F or TTS.
 - **Once a week:** meet with your lead. Once a week, you’ll have a short check-in with your Design lead at a time that’s convenient for both of you. The purpose of this meeting is both administrative and personal. It’s how the team leadership keeps on top of project timelines and activities to coordinate resourcing. It’s also a time to talk through any project concerns, figure out how to wrangle the federal bureaucracy, and talk about how to make 18F work better for you.
-- **Once a week:** meet with your critique group. Once a week, you’ll meet with your critique group to talk about creative questions and share work. Critique teams decide internally how often and how long they want to meet.
-
-### Communication channels
-
-- **Mailing lists**
-  - 18F-xd@gsa.gov is a Google group for all members of the design chapter. Your supervisor is responsible for adding you to this list — no need to worry about registering.
-  - [Other mailing lists are listed here]({{site.baseurl}}/working-groups-and-guilds-101/).
+- **Once a week:** meet with your critique group. Crit groups discuss creative questions and share work. We re-form the groups periodically so we have opportunities to learn from the whole group.
 
 ### Tools
 
@@ -102,6 +99,7 @@ And one more thing: before you start using any new tool that asks for access to 
 
 Unless otherwise specified, **see [Software](../software/#get-access-to-software-we-already-have) to get a license** for any of these.
 
+- **Figma** Talk with your supervisor to request a license
 - [**Sketch**]({{site.baseurl}}/sketch/)
 - [**InVision**]({{site.baseurl}}/invision/)
 - **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
@@ -115,12 +113,12 @@ Every project and team has a different mix of project management tools based on 
 #### Research
 
 - Please read [Doing Research at 18F]({{site.baseurl}}/research-guidelines) for more information on the tools and techniques.
-- **Analytics:** We recommend leveraging the [Digital Analytics Program](https://digital.gov/services/dap/) whenever possible.
-- **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#g-research](https://gsa-tts.slack.com/messages/g-research) for recommendations.
+- **Analytics:** We recommend leveraging the [Digital Analytics Program](https://digital.gov/services/dap/) whenever possible. We augment DAP with site-specific Google analytics tracking. Ask your lead or post in [#analytics](https://gsa-tts.slack.com/archives/C02AK9NKP) to ask to chat with someone to learn more.
+- **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options, such as [Touchpoints](https://touchpoints.digital.gov/) — being careful, of course, to avoid asking for personally identifiable information (PII) and meet requirements of the [Paperwork Reduction Act (PRA)](https://pra.digital.gov/). Ask [#g-research](https://gsa-tts.slack.com/messages/g-research) for recommendations.
 
 #### Workshops / virtual workspaces
 
-- **Mural:** Research analysis and workshops. Get more info [here]({{site.baseurl}}/tools/mural/). Access is immediate.
+- **Mural:** Research analysis and workshops. Check out the [Handbook Mural page]({{site.baseurl}}/tools/mural/) for more information. Access is immediate.
 
 #### Word processing
 
@@ -129,18 +127,18 @@ Every project and team has a different mix of project management tools based on 
 
 ### Assets
 
-We default to free and open-source assets, unless there is a very, very good reason to do otherwise (and you’d better be prepared to defend that reason). Luckily, there are a lot of great resources for us to choose from.
+We default to free and open-source assets, unless there is a very good reason to do otherwise. (You would need to document the reason and get approval). Fortunately, there are many great resources for us to choose from.
 
 - **18F-themed templates:** Access document and slide templates through [18F's Visual Identity Guide](https://brand.18f.gov/templates). Unless your project has its own branded communication materials, like login.gov or cloud.gov, use these styles and templates for communicating about all of your work at 18F. It's often beneficial for partners when we present deliverables with our brand styling, which shows the outside expertise they brought in. It also helps 18F present itself with a unified voice, tone, and look.
-- **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. Come chat in [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend) on slack if you are choosing a framework for something.
+- **Frameworks:** the [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. Come chat in [#dev-frontend](https://gsa-tts.slack.com/archives/C02CZB4G5) if you are choosing a framework for something.
 - **Icons:**
   - The visual design team maintains guidance on [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
-  - If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
+  - If you want to start using non-free ones, you’ll need to jump through some hoops — even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check [#teamops](https://gsa-tts.slack.com/archives/C02861A7L) for further instructions.
 - **Images:** Most images published by government agencies are in the public domain and thus free to use.
   - The visual design team maintains guidance on [government photography resources](https://github.com/18F/visual-design/wiki/Government-photography).
   - You can use `incategory:PD_US_Government` as part of a search query on Wikimedia Commons: [example](https://commons.wikimedia.org/w/index.php?title=Special:Search&profile=default&fulltext=Search&search=incategory%3APD_US_Government+example&uselang=en&searchToken=5902rmnmjz5fivko9172xs74c).
   - While you’re at it, visit the [Department of the Interior’s Instagram](https://instagram.com/usinterior/) stream. You’ll be glad you did.
-- **Typography:** Partner agencies often have their own style guidance that we follow in our work with them. 18F-branded materials should follow typography guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For needs outside these scenarios, typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/) are a safe starting choice. Come chat in [#visual-design](https://gsa-tts.slack.com/messages/visual-design) on slack if you are choosing fonts for something.
+- **Typography:** Partner agencies often have their own style guidance that we follow in our work with them. 18F-branded materials should follow typography guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For needs outside these scenarios, typefaces from the [U.S. Web Design System](https://designsystem.digital.gov/) are a safe starting choice. Come chat in [#visual-design](https://gsa-tts.slack.com/archives/C054CHWSJ) if you are choosing fonts for something.
 
 ---
 
@@ -156,7 +154,7 @@ Here are some of our rules of thumb:
 
 Sharing your in-progress work with team members and stakeholders is one of the most powerful techniques we have — it’s central to building trust with stakeholders. At 18F, we like to team up and work a problem through multiple angles to get to the best solution swiftly.
 
-Since GitHub is one tool we’ve chosen to facilitate public dialogue, consider also making your work available to the public (if project appropriate) by posting work-in-progress there. Before creating a public GitHub repo or otherwise sharing project-specific information, check with your project lead; they’ll let you know what information can be shared publicly.
+Since GitHub is a tool we’ve chosen for facilitating public dialogue, consider also making your work available to the public (if appropriate for the project) by posting work-in-progress there. Before creating a public GitHub repo or otherwise sharing project-specific information, check with your project lead; they’ll let you know what information can be shared publicly.
 
 ### 2. Be mindful of Personally Identifiable Information (PII)
 
@@ -166,7 +164,7 @@ Bottom line: If you have questions about sharing information, ask.
 
 ### 3. Not everything has to happen in public
 
-The Freedom of Information Act (FOIA) guarantees that, as federal employees, all of our communication via government email, Slack, and chat can be made available to the public at some point in the future. You should assume that, at some point in the future, anyone might be reading what you wrote in any of these channels. However, in the context of day-to-day work, different tools offer different levels of access. Here’s a quick reference to who can see what, when.
+The Freedom of Information Act (FOIA) guarantees that, as federal employees, all of our communication via government email, Slack, and chat can be made available to the public at some point in the future. You should assume that, at some point in the future, anyone might be reading what you wrote in any of these channels. Meanwhile, in the context of day-to-day work, different tools offer different levels of access. Here’s a quick reference to who can see what, when:
 
 - Only viewable by addresses: Slack DMs, Slack private groups, Email
 - 18F only: open Slack channels
