@@ -108,7 +108,7 @@ PLATFORMS
 
 DEPENDENCIES
   hash-joiner
-  html-proofer
+  html-proofer (>= 3.19.0)
   jekyll
   jekyll-redirect-from
   jekyll-sitemap

@@ -11,7 +11,7 @@ All Slack messages are potentially [records]({{site.baseurl}}/records-management
 - File uploads to Slack
 - Any audio or video transmitted using a [Slack Call](https://slack.com/help/articles/115003498363-Slack-calls--the-basics)
 - Channel names
-- [Custom emoji](https://slack.com/help/articles/206870177-Add-custom-emoji-to-your-workspace)
+- [Custom emoji]({% link tools/slack/guidelines.md %}#custom-emoji)
 - [Emoji reactions](https://slack.com/help/articles/206870317-Use-emoji-reactions)
 
 ## Records policy
