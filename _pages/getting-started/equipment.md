@@ -29,7 +29,18 @@ Your laptop will come preloaded with the latest, GSA-approved/supported Mac oper
 
 ### Loaners
 
+Although GSA-IT does not currently have a Mac Loaner Program, if there are any spares available, GSA-IT should be able to issue a loaner.
+
 You can [request a loaner PC through the IT Service Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
+
+
+1. Open a service now ticket requesting "GSA Hardware Request - Loaner".
+2. Provide rationale for request. Example: "ProjectX.gov needs a GSA hardened with the latest approved MacOSX with TTS users permission for 3PAO penetration testing. This is part of an (annual) assessment for FedRAMP Low/Moderate/High FISMA A&A... "
+3. Include the contact and shipping information.
+4. Provide a user name on the device example: 3PAOtester01.
+5. Help desk will create a shipping label and mail out loaner to the receiving party.
+
+If GSA-IT does not have any availble inventory to issue a loaner, please email [TTS Tech Portfolio](mailto:devops@gsa.gov) and they will work with you to determine a suitable alternative.
 
 ### Admin rights
 
