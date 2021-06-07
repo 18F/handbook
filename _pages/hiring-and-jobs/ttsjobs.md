@@ -51,7 +51,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Cloud.gov Director Detail](https://docs.google.com/document/d/1RTJWb9lM1LuGemjKLh8PhXgRfL4Hux3wQPCrq9J5yi8/edit#) - open Tuesday, June 1st until Friday, June 11th 
 
-- [GSA FAS WIDE: Program Analyst 343-13](https://www.usajobs.gov/GetJob/ViewDetails/602447700#) - open Wednesday, May 26th until Friday, June 4th
+- [GSA FAS WIDE: Program Analyst 343-13](https://www.usajobs.gov/GetJob/ViewDetails/602447700#) - open Wednesday, May 26th until Tuesday, July 6th
 
 
 ## Opportunities with partners
