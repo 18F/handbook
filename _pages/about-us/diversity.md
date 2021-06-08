@@ -55,7 +55,7 @@ We believe there are four sources of inclusiveness at every organization, and we
 **4. Individual level: The contributions you make that affect inclusion and awareness of diversity.**
 
 - You share decision-making and power with your colleagues.
-- You take the time to build relationships with colleagues on a personal level
+- You take the time to build relationships with colleagues on a personal level.
 - You are mindful of your actions and words and take responsibility for the impact they have on others.
 - You put in the work to educate yourself around subjects you are unfamiliar with before asking someone to educate you.
 - You acknowledge your privilege and balance listening and supporting colleagues.
