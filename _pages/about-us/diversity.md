@@ -41,7 +41,7 @@ We believe there are four sources of inclusiveness at every organization, and we
 - Your manager is reliable, ethical, and transparent.
 - Your manager includes you in discussions, and you feel like an invaluable member of the team.
 - Your manager models the importance of creating strong, supportive teams.
-- Your manager acknowledges the power dynamics that are created with managerial titles does their best to make interactions more fair and balanced.
+- Your manager acknowledges the power dynamics that are created with managerial titles and does their best to make interactions more fair and balanced.
 - Your manager creates an environment that feels safe for you to bring your whole self to work and upholds strong expectations that everyone else does the same.
 - Your manager serves as an advocate and supports you in your professional growth.
 - Your manager has challenging conversations when needed, and approaches them with respect and empathy.
