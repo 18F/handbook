@@ -45,7 +45,6 @@ We believe there are four sources of inclusiveness at every organization, and we
 - Your manager creates an environment that feels safe for you to bring your whole self to work and upholds strong expectations that everyone else does the same.
 - Your manager serves as an advocate and supports you in your professional growth.
 - Your manager has challenging conversations when needed and approaches them with respect and empathy.
-- Leveraging Diversity is a new metric for evaluating supervisors across GSA. It will go into effect FY20.
 
 **3. Work-group level: Day-to-day interpersonal relationships and the team climate.**
 
