@@ -39,8 +39,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Friday, July 2nd 
 
-- [Office of Acquisition - Contract Specialist](https://join.tts.gsa.gov/join/contract-specialist/) - open Wednesday, February 3rd through Wednesday, February 2nd 2021
-
 ### Internal only opportunities
 
 - [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
