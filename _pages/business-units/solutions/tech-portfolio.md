@@ -24,7 +24,11 @@ Rather than try to exert control over everything technology at TTS, we focus ins
 - Find where we may be duplicating effort or have gaps around technology, and if those are opportunities for TTS/GSA/government-wide shared services
 - Serve as the primary liaison between GSA IT and TTS, ensuring high levels of service, finding compromise, and generally keeping a good relationship between the teams
 
-**Take a look at [our Kanban board](https://github.com/orgs/18F/projects/11?fullscreen=true) and [our Initiatives (areas of work)](https://github.com/18F/tts-tech-portfolio/labels?q=i%3A)** for more specifics.
+**Take a look at the following for more specifics:**
+
+- [Our Kanban board](https://github.com/orgs/18F/projects/11?fullscreen=true)
+- [Our Initiatives (areas of work)](https://github.com/18F/tts-tech-portfolio/labels?q=i%3A)
+- [Our roles](https://github.com/18F/tts-tech-portfolio/blob/master/how_we_work/roles.md#readme)
 
 ### FSGC
 
