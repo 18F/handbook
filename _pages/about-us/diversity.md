@@ -61,7 +61,7 @@ We believe there are four sources of inclusiveness at every organization, and we
 - You acknowledge your privilege and balance listening and supporting colleagues.
 - You are an ally and use your voice to advocate for those who are overlooked or interrupted.
 - You practice empathy and approach situations with curiosity rather than defensiveness — you try to understand where someone else is coming from.
-- You recognize that it’s ok to disagree with others, but practice respectful discourse.
+- You recognize that it’s ok to disagree with others, and you practice respectful discourse.
 - You treat yourself with kindness. Mistakes happen; you apologize and grow from them.
 
 ## Diversity Guild
