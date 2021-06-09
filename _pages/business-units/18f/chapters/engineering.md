@@ -106,19 +106,15 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### Tools
 
-[#django](https://gsa-tts.slack.com/messages/django), [#containers](https://gsa-tts.slack.com/messages/containers), [#elk](https://gsa-tts.slack.com/messages/elk), [#git](https://gsa-tts.slack.com/messages/git), [#go](https://gsa-tts.slack.com/messages/go), [#javascript](https://gsa-tts.slack.com/messages/javascript), [#mac](https://gsa-tts.slack.com/messages/mac), [#meteorjs](https://gsa-tts.slack.com/messages/meteorjs), [#python](https://gsa-tts.slack.com/messages/python) (and [#learnpython](https://gsa-tts.slack.com/messages/learnpython)), [#ruby](https://gsa-tts.slack.com/messages/ruby).
+[#django](https://gsa-tts.slack.com/messages/django), [#elk](https://gsa-tts.slack.com/messages/elk), [#go](https://gsa-tts.slack.com/messages/go), [#javascript](https://gsa-tts.slack.com/messages/javascript), [#python](https://gsa-tts.slack.com/messages/python) (and [#learnpython](https://gsa-tts.slack.com/messages/learnpython)), [#ruby](https://gsa-tts.slack.com/messages/ruby).
 
 ### Guilds and working groups
 
-[#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility), [#g-frontend](https://gsa-tts.slack.com/messages/g-frontend), [#wg-api](https://gsa-tts.slack.com/messages/wg-api), [#wg-code-reviews](https://gsa-tts.slack.com/messages/wg-code-reviews), [#wg-cybersec](https://gsa-tts.slack.com/messages/wg-cybersec), [#wg-opensource](https://gsa-tts.slack.com/messages/wg-opensource), [#wg-testing](https://gsa-tts.slack.com/messages/wg-testing).
+See current [guilds](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/#current-guilds) and [working groups](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/#a-sampling-of-current-working-groups).
 
 ### Facilitator groups
 
 [#eng-ephemere](https://gsa-tts.slack.com/messages/eng-ephemere), [#eng-chumanjalaal](https://gsa-tts.slack.com/messages/eng-chumanjalaal), [#eng-space-goats](https://gsa-tts.slack.com/messages/eng-space-goats), [#eng-bellatrix](https://gsa-tts.slack.com/messages/eng-bellatrix), [#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership).
-
-### Everything else
-
-[#bdd](https://gsa-tts.slack.com/messages/bdd).
 
 ## Mailing lists
 
