@@ -41,11 +41,10 @@ We believe there are four sources of inclusiveness at every organization, and we
 - Your manager is reliable, ethical, and transparent.
 - Your manager includes you in discussions, and you feel like an invaluable member of the team.
 - Your manager models the importance of creating strong, supportive teams.
-- Your manager acknowledges the power dynamics that are created with managerial titles does their best to make interactions more fair and balanced.
+- Your manager acknowledges the power dynamics that are created with managerial titles and does their best to make interactions more fair and balanced.
 - Your manager creates an environment that feels safe for you to bring your whole self to work and upholds strong expectations that everyone else does the same.
 - Your manager serves as an advocate and supports you in your professional growth.
-- Your manager has challenging conversations when needed, and approaches them with respect and empathy.
-- Leveraging Diversity is a new metric for evaluating supervisors across GSA. It will go into effect FY20.
+- Your manager has challenging conversations when needed and approaches them with respect and empathy.
 
 **3. Work-group level: Day-to-day interpersonal relationships and the team climate.**
 
@@ -56,13 +55,13 @@ We believe there are four sources of inclusiveness at every organization, and we
 **4. Individual level: The contributions you make that affect inclusion and awareness of diversity.**
 
 - You share decision-making and power with your colleagues.
-- You take the time to build relationships with colleagues on a personal level
+- You take the time to build relationships with colleagues on a personal level.
 - You are mindful of your actions and words and take responsibility for the impact they have on others.
 - You put in the work to educate yourself around subjects you are unfamiliar with before asking someone to educate you.
 - You acknowledge your privilege and balance listening and supporting colleagues.
 - You are an ally and use your voice to advocate for those who are overlooked or interrupted.
 - You practice empathy and approach situations with curiosity rather than defensiveness — you try to understand where someone else is coming from.
-- You recognize that it’s ok to disagree with others, but practice respectful discourse.
+- You recognize that it’s ok to disagree with others, and you practice respectful discourse.
 - You treat yourself with kindness. Mistakes happen; you apologize and grow from them.
 
 ## Diversity Guild
