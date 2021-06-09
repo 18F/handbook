@@ -88,8 +88,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
         </td>
         <td>
-          Robert Jolly - 18F<br>
-          Alexandra Porter - COE
+          Claire Annan - 18F<br>
+          Pia Zaragoza - PIF
         </td>
       </tr>
       <tr>
