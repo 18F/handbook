@@ -95,8 +95,10 @@ Services](https://www.gsa.gov/directive/gsa-electronic-messaging-and-related-ser
 new emoji must be reviewed before use. You'll receive a notification once your
 emoji is reviewed and published.
 
-If you'd like to help review and publish emoji, reach out to
-[#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S).
+If you'd like to help review emoji, reach out to
+[#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S). The
+complete details of how this process works are covered under the [Slack admin
+documentation]({% link tools/slack/user-management.md %}#custom-emoji).
 
 
 ## Connectivity issues

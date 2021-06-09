@@ -50,3 +50,59 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
   - [New public user requests (external)](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link)
   - [Integration requests](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit#responses)
 - [Delegation of functionality](https://docs.google.com/a/gsa.gov/document/d/1gDuScce7R6q6NqQPPS3cFe3dZFYO_ZEp60dmuzVDYwg/edit?usp=sharing)
+- Requests for approved emoji are fulfilled from [#approved-emoji](https://gsa-tts.slack.com/archives/C024G4VLWGM)
+
+
+## Custom emoji
+
+All custom emoji added to Slack must be
+[reviewed](https://github.com/18f/tts-tech-portfolio/issues/1077) by TTS staff.
+Users can request custom emoji following the process described [here]({% link tools/slack/guidelines.md %}#custom-emoji).
+The overall process looks like this.
+
+1. Users request new emoji from [#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY)
+1. TTS reviews the request in [#admins-emoji](https://gsa-tts.slack.com/archives/C024EBDS1NC)
+1. Approved emoji are routed to [#approved-emoji](https://gsa-tts.slack.com/archives/C024G4VLWGM) for Slack admins
+1. Slack admins [create the approved emoji](https://gsa-tts.slack.com/customize/emoji) in the Slack workspace
+1. Users are notified the new emoji is ready for use
+
+Ideas for automating the creation of approved emoji are discussed in
+[18f/tts-tech-portfolio#1077](https://github.com/18f/tts-tech-portfolio/issues/1077).
+
+
+### Approval criteria
+
+TTS staff in [#admins-emoji](https://gsa-tts.slack.com/archives/C024EBDS1NC) are
+responsible for reviewing new emoji. Emoji are covered by the GSA IT Rules of
+Behavior and the [TTS Code of Conduct]({% link _pages/policies/conduct-policies/code-of-conduct.md %}).
+TTS staff should review emoji requests with these rules in mind.
+
+Here are some examples of emoji that are not allowed.
+
+- profanity
+- current political figures
+- expressing a partisan political view
+
+If you'd like to help review emoji requests, please reach out to
+[#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S).
+
+
+### Slack admins
+
+Creation of emoji requires admin permissions. Once emoji are approved by TTS,
+the request is handed-off to the Slack admins for creation. Once Slack admins
+[create the approved emoji](https://gsa-tts.slack.com/customize/emoji), they
+should click "I have created the emoji" to complete the request.
+
+
+### Slack Workflow
+
+Requests for new emoji use Slack's [Workflow Builder](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder)
+feature. You can download the Workflow to share with other Slack workspaces. As
+a Workflow Collaborator in Slack, click TTS > Tools > Workflow Builder. In the
+Workflow Builder, select the menu from the Workflow you want to download. Click
+"Download workflow file".  This JSON file can be uploaded into another workspace
+by clicking the "Import" button from the Workflow Builder.
+
+Reach out to [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S)
+for Collaborator access to the Custom Emoji Request workflow.
