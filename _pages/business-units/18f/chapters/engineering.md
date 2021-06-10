@@ -122,12 +122,11 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ## Mailing lists
 
-  - [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership). Someone there will get you set up.
-  - [18f-eng-leadership@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18f-eng-leadership). This is a good way to write to the entire engineering leadership team at once.
-
+- [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership). Someone there will get you set up.
+- [18f-eng-leadership@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18f-eng-leadership). This is a good way to write to the entire engineering leadership team at once.
 
 ## Before you use a new tool...
 
 Here are some [common tools we use]({{site.baseurl}}/#software-and-tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
-And one more thing: before you start using any new tool that asks for access to files/browser data, see the [Software]({{base.baseurl}}/software/) page and assure the tool is approved. If what you want to use isn’t there or not approved, you’ll need to ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. 
+And one more thing: before you start using any new tool that asks for access to files/browser data, see the [Software]({{base.baseurl}}/software/) page and assure the tool is approved. If what you want to use isn’t there or not approved, you’ll need to ask [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first.

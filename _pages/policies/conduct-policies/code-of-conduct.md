@@ -1,6 +1,7 @@
 ---
 title: Code of conduct
 ---
+
 ## Introduction
 
 TTS is committed to building a safe, welcoming, harassment-free culture for everyone. We do not merely want a work environment that is free from hostility; we want one that is actively welcoming and inclusive. We want our team and our workplace culture to reflect and celebrate the diversity of the communities we serve.
@@ -35,6 +36,7 @@ It would be impossible to list everything staff can do to create a more welcomin
 To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, we&#39;ve listed below actions that violate federal law and GSA policy. We&#39;ve also included steps to take if you encounter behavior that runs contrary to this policy.
 
 ### Sexual and Non-Sexual Harassment
+
 The [GSA Policy](https://www.gsa.gov/portal/directive/d0/content/512516) Statement on Sexual and Non-Sexual Harassment forbids:
 
 - Sexual and non-sexual harassment and misconduct, as defined in [GSA Order ADM 2325.8 Section 3(a), (b) and (c)](https://www.gsa.gov/portal/directive/d0/content/512516).
@@ -56,9 +58,10 @@ The [GSA Policy](https://www.gsa.gov/portal/directive/d0/content/512516) Stateme
 
 ### Conduct Unbecoming a Federal Employee
 
-Federal employees can be subject to appropriate discipline, up to and including removal, for conduct unbecoming a federal employee, which is conduct which is unattractive; unsuitable; detracting from one&#39;s character or reputation; or creates an unfavorable impression.  Abusive and demeaning remarks to and about others in the workplace, and sexual remarks, which do not rise to the level of sexual harassment under the employment discrimination laws, nonetheless can be considered conduct unbecoming a federal employee.
+Federal employees can be subject to appropriate discipline, up to and including removal, for conduct unbecoming a federal employee, which is conduct which is unattractive; unsuitable; detracting from one&#39;s character or reputation; or creates an unfavorable impression. Abusive and demeaning remarks to and about others in the workplace, and sexual remarks, which do not rise to the level of sexual harassment under the employment discrimination laws, nonetheless can be considered conduct unbecoming a federal employee.
 
 ### Other Unacceptable Behavior
+
 In addition, the following behaviors violate applicable laws and policies, or otherwise undermine the culture of respect and inclusion we seek to build within TTS:
 
 - Touching people without their affirmative consent.

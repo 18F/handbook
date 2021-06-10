@@ -4,7 +4,7 @@ title: 18F Corrective Action Plan for the October 2016 GSA Inspector General Eva
 
 ## Background
 
-In October of 2016, the GSA Inspector General (IG) released an [Evaluation of 18F](https://www.gsaig.gov/sites/default/files/ipa-reports/OIG%20EVALUATION%20REPORT_Evaluation%20of%2018F_%20JE17-001_October%2024%202016.pdf) about 18F’s management and operations practices. 18F is required to respond with a Corrective Action Plan (CAP). This provides the IG with 18F's plan to correct any issues the IG highlighted in their report. 
+In October of 2016, the GSA Inspector General (IG) released an [Evaluation of 18F](https://www.gsaig.gov/sites/default/files/ipa-reports/OIG%20EVALUATION%20REPORT_Evaluation%20of%2018F_%20JE17-001_October%2024%202016.pdf) about 18F’s management and operations practices. 18F is required to respond with a Corrective Action Plan (CAP). This provides the IG with 18F's plan to correct any issues the IG highlighted in their report.
 
 18F submitted the first deliverables of the CAP on February 28, 2017. There are additional deliverables due througout 2017, and those items will be added as they are completed.
 

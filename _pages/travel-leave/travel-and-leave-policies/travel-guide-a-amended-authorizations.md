@@ -16,15 +16,15 @@ Sometimes, travel plans change. Fortunately, Concur, AdTrav, your carriers, your
 
 How changes can be accommodated depends on when and how the changes occurred:
 
-* **[!]** [Changes made at the airport or train station](#changes-made-at-the-airport-or-train-station)
+- **[!]** [Changes made at the airport or train station](#changes-made-at-the-airport-or-train-station)
 
-* [Changes made before going to the airport or train station, but after the flight has been ticketed (usually within 4-72 hours of departure)](#changes-made-before-going-to-the-airport-or-train-station-but-after-the-flight-has-been-ticketed)
+- [Changes made before going to the airport or train station, but after the flight has been ticketed (usually within 4-72 hours of departure)](#changes-made-before-going-to-the-airport-or-train-station-but-after-the-flight-has-been-ticketed)
 
-* [Changes made after an authorization is approved in Concur, but before ticketing](#changes-made-after-an-authorization-is-approved-in-concur-but-before-ticketing)
+- [Changes made after an authorization is approved in Concur, but before ticketing](#changes-made-after-an-authorization-is-approved-in-concur-but-before-ticketing)
 
-* [Changes made prior to an authorization's approval in Concur](#changes-made-prior-to-an-authorizations-approval-in-concur)
+- [Changes made prior to an authorization's approval in Concur](#changes-made-prior-to-an-authorizations-approval-in-concur)
 
-* [Making a change to a blank authorization in Concur (with no flights, rail, hotel, or rental car)](#manually-amending-an-authorization-in-concur)
+- [Making a change to a blank authorization in Concur (with no flights, rail, hotel, or rental car)](#manually-amending-an-authorization-in-concur)
 
 #### Changes made at the airport or train station
 
@@ -74,7 +74,7 @@ If the changes you are making to a trip involve:
 
 1. A change in dates or times within the date range that was originally approved.
 2. Changing to another fully refundable flight within [the city pair rate](https://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter)
-3. An increase in overall trip cost that is within 120% of the originally authorized amount.*
+3. An increase in overall trip cost that is within 120% of the originally authorized amount.\*
 
 As long as all lodging and meals expenses are within the [maximum per diem rate for the location](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-lookup), and direct rental car costs (not including gas/tolls) are not more than $10 over the authorized amount...
 

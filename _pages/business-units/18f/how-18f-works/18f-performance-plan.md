@@ -10,7 +10,7 @@ All TTS staff are evaluated according to TTS-level measures in addition to the 1
 
 ### Results Driven
 
-*Deliver good project work and define success.*
+_Deliver good project work and define success._
 
 Level 3:
 
@@ -18,7 +18,7 @@ Level 3:
 - Includes best practices (including user research, accessibility, performance, and security) in strategic decision-making and project execution decisions AND
 - Follows 18F norms and expectations as defined in the TTS Handbook AND
 - Defines success and consistently executes against priorities AND
-- Identifies and works to mitigate risks to project objectives 
+- Identifies and works to mitigate risks to project objectives
 
 Level 4:
 
@@ -32,7 +32,7 @@ Level 5:
 
 ### Leading People
 
-*Share expertise in order to drive technology transformation in partner agencies.*
+_Share expertise in order to drive technology transformation in partner agencies._
 
 Level 3:
 
@@ -51,7 +51,7 @@ Level 5:
 
 ### Business Acumen
 
-*Support 18F's cost recovery and financial stability.*
+_Support 18F's cost recovery and financial stability._
 
 Level 3:
 
@@ -69,7 +69,7 @@ Level 5:
 
 ### Leading Change
 
-*Proactively improve our practices and problem-solve organizational issues.*
+_Proactively improve our practices and problem-solve organizational issues._
 
 Level 3:
 
@@ -89,14 +89,14 @@ Level 5:
 
 ### Building Coalitions
 
-*Works to create and participate in agile, cross-functional, and inclusive teams.*
+_Works to create and participate in agile, cross-functional, and inclusive teams._
 
 Level 3:
 
 - Makes progress visible to the full team, communicates blockers and challenges, asks for help when necessary, accepts responsibility for mistakes AND
 - Collaborates effectively in multidisciplinary teams by practicing active listening, seeking input from others, and valuing others’ perspectives AND
 - Anticipates and takes steps to proactively resolve conflict in a constructive way AND
-- Models actively inclusive practices both within 18F and externally 
+- Models actively inclusive practices both within 18F and externally
 
 Level 4:
 
@@ -111,4 +111,3 @@ Level 5:
 ## What about levels 1 and 2?
 
 For all critical elements, the level 2 criteria is: _Partially meets performance expectations as defined in Level 3_. The level 1 criteria is: _Does not meet performance expectations as defined in Level 3_.
-

@@ -1,6 +1,7 @@
 ---
 title: San Francisco
 ---
+
 <div class="table-wrapper">
   <table class="table-office-metadata">
     <tbody>
@@ -52,7 +53,6 @@ title: San Francisco
   </table>
 </div>
 
-
 ## The building
 
 [50 UN Plaza](https://www.gsa.gov/portal/category/107031) is on historic Market Street between 6th and 7th streets, in the Civic Center neighborhood. The Bay Area Rapid Transit authority (BART) and MUNI both have underground stops at this location, and the historic F Market streetcar line has two local stops at 6th and 7th Streets.
@@ -60,7 +60,6 @@ title: San Francisco
 TTS SF office is in room #5685 on the fifth floor. When you get off the elevator, go to the left.
 
 There is a lively farmers market literally out our door every Wednesday. There are many historic buildings within walking distance---San Francisco City Hall and the Asian Art Museum are but two of them!
-
 
 ## Getting here
 
@@ -76,11 +75,9 @@ The smaller of the two San Francisco area airports, OAK is just across the bay f
 
 BART Service is M–F, 4 a.m. to midnight; the last train is generally 10 to 15 minutes after the hour. Saturday service is 6 a.m. to midnight. Sunday service is 8 a.m. to midnight.
 
-
 ### Walking
 
 San Francisco is a very walkable city; there are plenty of hotels, coffee shops, restaurants, and bars within walking distance of the office. Via the F Market streetcar, you can get to the Castro in one direction, or hop on the other direction to the Ferry Building and the piers overlooking the Bay.
-
 
 ### Biking
 
@@ -90,18 +87,15 @@ Bike parking is next to the loading dock, entered from the far corner at McAllis
 
 If you have any questions about this, contact the [#SF Slack Channel](https://gsa-tts.slack.com/archives/sf).
 
-
 ### Public transit
 
 San Francisco is very accessible by its public transportation system, [SFMTA](https://www.sfmta.com/). The larger Bay Area is also accessible via [BART](https://www.bart.gov/). Taxis, while available, aren't generally necessary for getting around the city, which is only approximately 7 square miles.
 
 [Clipper Card](https://www.clippercard.com/ClipperWeb/) is the Bay Area's transit pass. It works on many of the different public transit systems, including SFMTA and BART. SFMTA one-way fare is $2.25 with a 90-minute transfer (although sometimes you get a bit lengthier time for your transfer). BART fares are based on distance. SFO to Civic Center Station is $8.65; OAK to Civic Center Station is $10.05. See [BART's website](https://www.bart.gov/) for further fare prices.
 
-
 ### Parking
 
 Don't do it! Your best bet is public transit and/or walking; downtown streets have one ways and can be very confusing. Street parking is horrible, and paid parking is way expensive. But if you do drive, you may park at 355 McAllister Street. The hours for this underground parking structure are 6 a.m. to midnight M–F. Fees vary but $4.50 to $2.00 per hour depending on when you enter garage.
-
 
 ## How do I...
 
@@ -125,12 +119,12 @@ GSA onboarding is typically conducted on Mondays at 50 UN Plaza. TTS SF onboardi
 
 Whether you're new at TTS and are joining the SF office or you're a long-time TTS member relocating to SF, here's an office onboarding checklist for you:
 
-* If you would like a locker, or if you need a keyboard and mouse/trackpad for working with the office monitors, please email <mailto:peter.rowland@gsa.gov>.
-* Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
-* Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
-* If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel for the link.
-* If you use public transit to/from work, [set up your TRANServe card](#transit-subsidy).
-* If you want to get notified about coffee/tea/lunch outings, [set up a `sfeats` Slack highlight](#food-and-coffee).
+- If you would like a locker, or if you need a keyboard and mouse/trackpad for working with the office monitors, please email <mailto:peter.rowland@gsa.gov>.
+- Ask in the #sf channel for a person to give you a tour of the office so you know where to find the printer, kitchen, etc.
+- Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF calendar.
+- If you'd like to get the GSA Region 9 email newsletter (such as notes about optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel for the link.
+- If you use public transit to/from work, [set up your TRANServe card](#transit-subsidy).
+- If you want to get notified about coffee/tea/lunch outings, [set up a `sfeats` Slack highlight](#food-and-coffee).
 
 ### Bring in one-time guests?
 
@@ -174,23 +168,22 @@ First, make sure you’re on the gsa-wireless network, per the previous section.
 
 ### Charge my laptop or phone?
 
-Many of the power strips turn off automatically, so if you plug in your device but it doesn’t start charging, look for the small power button *next* to the power strip (it’s a little rounded rectangular switch).
+Many of the power strips turn off automatically, so if you plug in your device but it doesn’t start charging, look for the small power button _next_ to the power strip (it’s a little rounded rectangular switch).
 
 ### Adjust a standing desk?
 
-Under the keyboard platform, you’ll find two levers. Compressing the right-side lever allows you to modify the tilt and height of the keyboard platform. Compressing the left-side lever causes the *entire* desk to immediately drop, so it’s wise to keep a hand on the rest of it and remove hot liquids and anything valuable first.
+Under the keyboard platform, you’ll find two levers. Compressing the right-side lever allows you to modify the tilt and height of the keyboard platform. Compressing the left-side lever causes the _entire_ desk to immediately drop, so it’s wise to keep a hand on the rest of it and remove hot liquids and anything valuable first.
 
 ### Close up if I'm the last to leave for the day?
 
 If you're the last to leave your side of the office (north or south side), take care of these things on your side:
 
-* The fans are set to stay on until 6 pm. If you're leaving after 6 pm and the fans are still on, turn them off.
-* Close the windows.
-* Turn off the lights. (You just have to turn off the big overhead lights; there are some small lights along the walls and in the team rooms that we can't turn off.)
-* Check the other side of the office if you have time.
+- The fans are set to stay on until 6 pm. If you're leaving after 6 pm and the fans are still on, turn them off.
+- Close the windows.
+- Turn off the lights. (You just have to turn off the big overhead lights; there are some small lights along the walls and in the team rooms that we can't turn off.)
+- Check the other side of the office if you have time.
 
 ## Where are the...
-
 
 ### Bathrooms
 
@@ -253,17 +246,17 @@ The interior courtyard has Wi-Fi access so you can work outside!
 
 ### Transit subsidy
 
-All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel.  You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
+All GSA employees are eligible for transit subsidies which cover the cost of your Clipper travel. You will get a debit card (called a “TRANServe card”) which you use to load your Clipper card each month.
 
-See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/benefits/transit-subsidy/transit-subsidy-program) has additional information.
+See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation. This [page on InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/benefits/transit-subsidy/transit-subsidy-program) has additional information.
 
 ### Health center
 
 The health unit is located in the basement. Hours are:
 
-* Tuesday   9:00 a.m. to 3:30 p.m.
-* Wednesday 9:00 a.m. to 4:00 p.m.
-* Thursday  9:00 a.m. to 3:30 p.m.
+- Tuesday 9:00 a.m. to 3:30 p.m.
+- Wednesday 9:00 a.m. to 4:00 p.m.
+- Thursday 9:00 a.m. to 3:30 p.m.
 
 You can receive basic first aid, screenings, and flu shots. The phone number for the health unit is 415-556-2766.
 
@@ -271,12 +264,12 @@ The Health Unit also includes an all-gender bathroom.
 
 ### Helpful contacts
 
-* [50 UN Plaza Building Management](https://www.gsa.gov/portal/content/200391), including how to contact our Building Manager and Building Service Desk.
-* [50 UN Plaza Building Directory](https://www.gsa.gov/portal/category/107011), including additional helpful phone numbers.
-* [Lyvette Jones](mailto:lyvette.jones@gsa.gov), handles transit benefits in SF.
-* [Public Health Clinic](https://www.sfcdcp.org/aitc.html) - 101 Grove St.
-* [18F SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-sf)
-* [50 UN Plaza Mailing list](https://groups.google.com/a/gsa.gov/forum/#!forum/50unp)
+- [50 UN Plaza Building Management](https://www.gsa.gov/portal/content/200391), including how to contact our Building Manager and Building Service Desk.
+- [50 UN Plaza Building Directory](https://www.gsa.gov/portal/category/107011), including additional helpful phone numbers.
+- [Lyvette Jones](mailto:lyvette.jones@gsa.gov), handles transit benefits in SF.
+- [Public Health Clinic](https://www.sfcdcp.org/aitc.html) - 101 Grove St.
+- [18F SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-sf)
+- [50 UN Plaza Mailing list](https://groups.google.com/a/gsa.gov/forum/#!forum/50unp)
 
 ## Food and coffee
 

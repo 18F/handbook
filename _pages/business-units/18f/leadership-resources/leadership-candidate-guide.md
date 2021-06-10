@@ -4,7 +4,7 @@ title: 18F Leadership Candidate Guide
 
 This guide is meant to help anyone interested in applying for a leadership role at 18F know what to expect and how to navigate the process.
 
-So a new leadership opportunity has popped up and caught your attention? Great! Or you see it and think one of your colleagues would be a great fit? Also great! Read on for how to proceed. 
+So a new leadership opportunity has popped up and caught your attention? Great! Or you see it and think one of your colleagues would be a great fit? Also great! Read on for how to proceed.
 
 Most of this document is geared towards people who apply or are nominated, but hopefully this can help everyone understand the process. So maybe next time, you’ll be the one applying!
 
@@ -35,4 +35,3 @@ After all of the interviews are finished, the interview panel will convene to ma
 People who are not selected will be contacted and offered a debrief session with the panel or a representative to discuss the areas for growth they identified. You are not required to accept the debrief session, but you are encouraged! Not being selected is not a personal failure, but a chance to get targeted feedback on how to grow into a particular role.
 
 Once everyone has been notified, there will be a public announcement from the hiring manager or guild leaders.
-

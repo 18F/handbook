@@ -50,11 +50,11 @@ title: Washington, D.C.
 
 **Reagan Washington National Airport (DCA)** is the closest airport to D.C. (and GSA). If you're coming from DCA, you can take a cab (~$20) or ride the Metro, which is likely faster. Take the Blue line from the Ronald Reagan Washington National Airport station to Farragut West station. It should take approximately 15 minutes and cost ~$2.15. Once outside the Metro station, follow the directions under "Public Transit."
 
-If you're coming from **Dulles International Airport (IAD)**, you can take a cab (~$80) or ride public transit, which will take about an hour and cost between $4.25 and $11. 
+If you're coming from **Dulles International Airport (IAD)**, you can take a cab (~$80) or ride public transit, which will take about an hour and cost between $4.25 and $11.
 
-There are two public transit options: 
+There are two public transit options:
 
-- You can take the 5A bus from Dulles Main Terminal to the Rosslyn station on the Blue/Orange/Silver Line. The bus costs $2. You can then hop on a Metro to the Farragut West station. The Metro fare from Rosslyn to Farragut West costs $2 - $2.25, depending on time of day. More information is available on the [Metro site](https://www.wmata.com/service/rail/#main-content). 
+- You can take the 5A bus from Dulles Main Terminal to the Rosslyn station on the Blue/Orange/Silver Line. The bus costs $2. You can then hop on a Metro to the Farragut West station. The Metro fare from Rosslyn to Farragut West costs $2 - $2.25, depending on time of day. More information is available on the [Metro site](https://www.wmata.com/service/rail/#main-content).
 
 - Alternatively, you can take the [Silver Line Express Bus](https://www.flydulles.com/iad/silver-line-express-bus-metrorail-station) from Dulles Main Terminal to the Wiehle-Reston East Metro Station on the Silver Line. The Express Bus costs $5, payable by cash or credit card, and runs every 15-20 minutes. Signs in the airport will direct you to the Express Bus boarding area. You can then take the Silver Line to Farragut West station. The Metro fare from Wiehle-Reston East to Farragut West costs $3.85 - $6, depending on time of day.
 
@@ -89,7 +89,7 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21 fo
 
 ### Once inside GSA
 
-TTS is located on floor three, wing one. When entering from the F Street entrance, go left once you pass through security. Walk down the hallway to the set of elevators or stairs. Take the elevators or stairs up to floor three. Once out of the elevators, take a right turn. If you use the stairs, take a left turn out of the stairwell. 
+TTS is located on floor three, wing one. When entering from the F Street entrance, go left once you pass through security. Walk down the hallway to the set of elevators or stairs. Take the elevators or stairs up to floor three. Once out of the elevators, take a right turn. If you use the stairs, take a left turn out of the stairwell.
 
 ## How do I...
 
@@ -127,9 +127,9 @@ Go to the F Street entrance, where 24/7 access is available.
 
 Use [BookIt](https://bookit.gsa.gov) to reserve rooms.
 
-* The TTS quiet rooms are 3117 and 3119B. These are unreservable but are first-come, first served.
-* The reservable team rooms are 3116A&B, 3119A, 3128A&B, and 3143.
-* The tables and open space at the southern end of the 3100 hallway - the "3150 Space" - are unreservable through BookIT. TTS self-manages the space through a Google Calendar. If you want to host an event in the space, search for "3150 Space" in Google Calendar, check the availability, and add your event. If you need the entire space and your colleagues will not be able to sit there for the duration of your event, post advance notice in #dc and write a message on one of the space's whiteboards. Note: there will be foot traffic at the nearby stairwell and to conference room 3148, so prepare for some background noise during your event.
+- The TTS quiet rooms are 3117 and 3119B. These are unreservable but are first-come, first served.
+- The reservable team rooms are 3116A&B, 3119A, 3128A&B, and 3143.
+- The tables and open space at the southern end of the 3100 hallway - the "3150 Space" - are unreservable through BookIT. TTS self-manages the space through a Google Calendar. If you want to host an event in the space, search for "3150 Space" in Google Calendar, check the availability, and add your event. If you need the entire space and your colleagues will not be able to sit there for the duration of your event, post advance notice in #dc and write a message on one of the space's whiteboards. Note: there will be foot traffic at the nearby stairwell and to conference room 3148, so prepare for some background noise during your event.
 
 Avoid booking rooms:
 
@@ -181,7 +181,7 @@ There is a fridge inside the room and one outside the room, in the health clinic
 
 ### Batteries
 
-If you need batteries for your keyboard or trackpad, there is a consolidated supply closet on the first floor of the building, in the 200 wing. 
+If you need batteries for your keyboard or trackpad, there is a consolidated supply closet on the first floor of the building, in the 200 wing.
 
 ### Spare keyboards and mice
 
@@ -195,7 +195,7 @@ If you work in DC and do not have a locker assigned to you, email 1800ftenantsup
 
 GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Hours are: Monday, 7am-2pm; Tuesday-Thursday, 7am-3pm; Friday, 7am-2pm.
 
-There is a vending machine in the kitchen that is located near 3150. 
+There is a vending machine in the kitchen that is located near 3150.
 
 The DC fridge is cleaned out bi-monthly on Fridays (dates are posted on the fridge), and all food (including containers) is thrown out.
 

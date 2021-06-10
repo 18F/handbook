@@ -14,25 +14,23 @@ While OPP was paving the way for government shared services and open data, there
 
 That project became [18F](https://18f.gsa.gov/) when the office officially launched in March 2014. 18F quickly grew in size to help federal agencies work on technology projects while learning new skills. In 2016, 18F, PIF, and OPP came together under the newly-formed Technology Transformation Service office. In 2017, TTS added the [IT Modernization Centers of Excellence (CoEs)](https://coe.gsa.gov/) to focus on whole-agency technology modernization, and all of TTS moved into GSA’s existing Federal Acquisition Service.
 
-
 ## TTS Today
 
-TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offices:  
+TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offices:
 
 - **18F** provides digital development and consulting services for any government agency or program, with a focus on cultural transformation and empowerment of the agencies they work with. A critical part of 18F’s mission is to teach agencies new digital skills during projects so that the agencies can take over continued development.
 - **Solutions** helps agencies improve delivery of information and services to the public. Responsible for operations, evolution, and scaling of mature products and services such as USA.gov, Data.gov, Challenge.gov and the Digital Analytics Program.
-- **The Centers of Excellence (CoEs)** implements IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation. 
-- **Presidential Innovation Fellows (PIF)**  is a fellowship that embeds talented, diverse technologists and innovators within federal agencies as yearlong entrerpreneurs in residence. Together with agency leaders, PIFs improve the way our government designs, develops, and delivers services for the public.
+- **The Centers of Excellence (CoEs)** implements IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation.
+- **Presidential Innovation Fellows (PIF)** is a fellowship that embeds talented, diverse technologists and innovators within federal agencies as yearlong entrerpreneurs in residence. Together with agency leaders, PIFs improve the way our government designs, develops, and delivers services for the public.
 - **Office of Acquisition** drives smarter technology procurement through technical procurement consultations, new procurement vehicle creation, and the development of experimental procurement platforms and methodologies.
-
 
 ## Our values
 
-* **Inclusion**  
-    We put people first and celebrate what brings us together and makes each of us unique to meet the public’s needs. 
+- **Inclusion**  
+   We put people first and celebrate what brings us together and makes each of us unique to meet the public’s needs.
 
-* **Integrity**  
-    We are present, transparent, and honest to enable accessible and trustworthy innovation.
+- **Integrity**  
+   We are present, transparent, and honest to enable accessible and trustworthy innovation.
 
-* **Impact**  
-    We grow together and create lasting change for the good of the public and public servants.
+- **Impact**  
+   We grow together and create lasting change for the good of the public and public servants.

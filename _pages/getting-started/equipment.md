@@ -88,17 +88,19 @@ TTS employees are issued an Apple iPhone. The TTS Talent Team will already have 
 See the [software](../software/) page.
 
 ## Peripherals
+
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request. Ask in the Slack channel corresponding to your office.
 
-GSA IT will provide peripherals such as: Wired keyboard, Wired mouse, and monitors ONLY if the users are using them in the office. Note: GSA IT does not provide wireless peripherals. Wireless peripherals can be purchased by the business unit. 
+GSA IT will provide peripherals such as: Wired keyboard, Wired mouse, and monitors ONLY if the users are using them in the office. Note: GSA IT does not provide wireless peripherals. Wireless peripherals can be purchased by the business unit.
 
 In order to obtain standard issued hardware, the requestor must contact the IT Service Desk or open a ServiceNow ticket. For non-standard IT equipment, requestors must complete and submit an [Exception Waiver](https://insite.gsa.gov/employee-resources/information-technology/it-assistance-and-help-desk/service-catalog/exception-waiver-request-process-for-nonstandard-equipment-and-macintosh?term=exception%20waiver) for review and approval.
 
 GSA IT will NOT provide peripherals to telework users that are using them at home or at a remote location. However, the users can purchase that on their own or provided by the business unit. There are no specific brands that GSA recommends.
 
-If you need wireless peripherals for the office or your business unit is willing to pay for peripherals, submit a [micropurchase request]({{site.baseurl}}/purchase-requests/) and it will be reviewed by the TTS purchase card holder. Please note that you will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form. 
+If you need wireless peripherals for the office or your business unit is willing to pay for peripherals, submit a [micropurchase request]({{site.baseurl}}/purchase-requests/) and it will be reviewed by the TTS purchase card holder. Please note that you will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form.
 
 ### Printers
+
 If you need to setup a printer follow the instructions [here](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology?term=printer%20driver#Print).
 
 ## Equipment to accommodate disability

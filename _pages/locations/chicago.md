@@ -103,7 +103,7 @@ In Chicago, you can book rooms using [BookIt](https://bookit.gsa.gov/mobile/menu
 
 If the room that you want isn't coming up, that means it's probably been booked already. Feel free to [ping Ethan]() if you have any difficulties.
 
-**Recommended rooms:**  3380: room used for All-Hands on the NE corner of floor 33; it seats up to ten people.
+**Recommended rooms:** 3380: room used for All-Hands on the NE corner of floor 33; it seats up to ten people.
 
 ### <a id="wi-fi"></a>Connect to the Wi-Fi
 
@@ -118,7 +118,6 @@ Bathrooms are just down the hall from the TTS office.
 ### <a id="mail"></a>Mail
 
 Incoming mail is delivered to and outgoing mail is collected from the office twice daily.
-
 
 ### <a id="lockers"></a>Lockers
 
@@ -142,7 +141,7 @@ Refer to [our printer information document](https://docs.google.com/document/d/1
 
 All GSA employees are eligible for transit subsidies which cover the cost of your Metro travel.
 
-See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation.  This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
+See the [Transit Benefit]({{site.baseurl}}/transit-benefit) page for information on enrollment and deactivation. This [page on InSite](https://insite.gsa.gov/portal/content/500219) has additional information.
 
 ### <a id="bike-parking"></a>Bike parking
 

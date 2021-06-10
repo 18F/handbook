@@ -9,11 +9,12 @@ TTS has a collection of communities to help develop best practices, provide trai
 These volunteer groups decide how and where to focus their efforts and conversations, in coordination with TTS leadership. Anyone may participate in any of these groups.
 
 ## Working groups
+
 A working group is a group of people working together to investigate a particular problem and achieve specified goals. They are usually self-organized, and are expected to short-lived and spin up or down depending on organizational needs. The best possible outcome for a working group is to no longer be needed, because it has solved the problem it was formed to solve.
 
 Working groups are usually started by a handful group of people who recognize a problem, then recruit like-minded souls willing to help find a solution. Usually, but not always, the problem is localized to just one part of TTS. Once solved, the working group winds down.
 
-Because working groups are typically trying to solve a problem *right now* starting a working group is relatively simple: Just be able to articulate the problem you want to solve, then have a chat with your org leadership. Typically, that will be your Chief of Staff or Deputy Director, depending on which part of TTS you're in. They'll want to talk to you about whether it's a problem the organization is willing to commit resources to solving right now, and may connect you with other people already working on similar issues.
+Because working groups are typically trying to solve a problem _right now_ starting a working group is relatively simple: Just be able to articulate the problem you want to solve, then have a chat with your org leadership. Typically, that will be your Chief of Staff or Deputy Director, depending on which part of TTS you're in. They'll want to talk to you about whether it's a problem the organization is willing to commit resources to solving right now, and may connect you with other people already working on similar issues.
 
 Most working groups will create a Slack channel to coordinate efforts. These channels should have a `wg-` prefix. Feel free to jump into any of these channels you see to participate or ask questions.
 
@@ -52,8 +53,8 @@ Most working groups will create a Slack channel to coordinate efforts. These cha
 
 The [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) can help you find working group meeting times.
 
-
 ## Guilds
+
 Guilds are long-running groups sponsored by the TTS Chief of Staff, and as such are expected to coordinate practices and solve problems across TTS. Because they are cross-TTS structures, their leadership should come from more than one part of TTS and they should provide clear value to a broad cross-section of TTS through training and promotion of best practices in their subject area.
 
 18F provides non-billable hours to guild leads to help them meet those expectations.
@@ -68,11 +69,10 @@ Because guilds are intended to work across TTS, and because they require substan
 
 Remember, you're asking for a substantial commitment of organizational resources. At a minimum, they'll want to know:
 
-* How will this guild be beneficial to all of TTS? How does it provide organizational value?
-* Who do you expect to start and lead the guild, and what parts of TTS are they coming from?
-* What does the guild intend to do? What are the expected deliverables?
-* If there are groups working on similar problems, how does the proposed guild differ?
-
+- How will this guild be beneficial to all of TTS? How does it provide organizational value?
+- Who do you expect to start and lead the guild, and what parts of TTS are they coming from?
+- What does the guild intend to do? What are the expected deliverables?
+- If there are groups working on similar problems, how does the proposed guild differ?
 
 ### Current Guilds
 
@@ -175,9 +175,10 @@ Typically guilds follow a lightweight leadership selection process:
 1. A current guild leader announces the new leader, who takes up the position immediately.
 
 ## 18F Collectives
+
 18F has developed Collectives, with "Collective Leads" guiding them. These collectives are an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization.
 
- A collective is a group of people that share or are motivated by at least one common issue or interest, or work together to achieve a common objective.
+A collective is a group of people that share or are motivated by at least one common issue or interest, or work together to achieve a common objective.
 
 These collectives should all have Slack channels with a `c-` prefix. Since their channels are one of their best ways of promoting best practices, you're encouraged to join any you find interesting.
 
@@ -239,12 +240,11 @@ Current 18F Collectives (and Leads) include:
   </table>
 </div>
 
-
 ## Communities of Practice
+
 A Community of Practice (CoP) provides for government-wide knowledge-sharing. They attract members from across government agencies, and provide a good opportunity for Guilds to connect with others in government and influence best practices beyond TTS.
 
 Digital.gov [hosts the Communities of Practice](https://digital.gov/communities/).
-
 
 ## Listservs, Google Groups and mailing lists
 

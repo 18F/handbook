@@ -35,19 +35,19 @@ Receipts are required for lodging, rental cars, gas purchases when using a renta
 
 In addition to receiving round trip tickets to your destination and lodging for the nights that you need to stay there, you also get a flat-rate per diem for **Meals and Incidental Expenses (M&IE)**. A few things to remember:
 
-* M&IE is given to you to cover the additional expenses you might incur while traveling that you might not normally have at home, like dining out instead of eating home-cooked meals, forgetting toothpaste, tipping hotel porters, etc.
+- M&IE is given to you to cover the additional expenses you might incur while traveling that you might not normally have at home, like dining out instead of eating home-cooked meals, forgetting toothpaste, tipping hotel porters, etc.
 
-* This allowance is at your discretion to spend and **you don’t need to provide receipts** for it.
+- This allowance is at your discretion to spend and **you don’t need to provide receipts** for it.
 
-* The amount that is given is based on your location, not your actual expenses. If you spent less than the allowance, you get to keep the difference, and if you spend more, you must pay the difference.
+- The amount that is given is based on your location, not your actual expenses. If you spent less than the allowance, you get to keep the difference, and if you spend more, you must pay the difference.
 
-* M&IE is given at a reduced rate on “travel days”-- i.e. days where part of the normal work day was spent traveling. This reduced rate is always 75% of normal M&IE, regardless of how much of the day was actually spent traveling.
+- M&IE is given at a reduced rate on “travel days”-- i.e. days where part of the normal work day was spent traveling. This reduced rate is always 75% of normal M&IE, regardless of how much of the day was actually spent traveling.
 
 Note that if your travel extends past midnight, you get the full meal allowance for the long day of travel plus the 75% of the meal allowance for the following day (even if you arrived just after midnight local time). If you anticipate traveling past midnight, ensure your authorization reflects this in advance, otherwise, you will need to create an [amended authorization]({{site.baseurl}}/travel-guide-a-amended-authorizations) upon your return.
 
-* M&IE is given as a reimbursement after submitting a voucher, which is done after you return from a trip. How this reimbursement is disbursed depends on how much you used the GSA travel card.
+- M&IE is given as a reimbursement after submitting a voucher, which is done after you return from a trip. How this reimbursement is disbursed depends on how much you used the GSA travel card.
 
-* You may use your travel card to get a [cash advance from an ATM](https://insite.gsa.gov/cdnstatic/OAS_5735.1_Travel_Advances_%28Policy%29_%28Signed_on_October_2__2015%29.pdf), but only if your authorization to travel has been approved, and only for expenses you wouldn't expect to be able to pay for using the travel card.
+- You may use your travel card to get a [cash advance from an ATM](https://insite.gsa.gov/cdnstatic/OAS_5735.1_Travel_Advances_%28Policy%29_%28Signed_on_October_2__2015%29.pdf), but only if your authorization to travel has been approved, and only for expenses you wouldn't expect to be able to pay for using the travel card.
 
 #### M&IE and use of the GSA travel card
 
@@ -61,17 +61,17 @@ Follow the guidance above for keeping receipts, and also be mindful of budget-- 
 
 Reasonable local transit costs may be authorized in the following situations:
 
-* From the airport or train station to the residence or office
-* Between a place of lodging and a place of business, or between two or more places of business
-* To obtain meals only when the nature and location of the work is such that meals cannot be obtained within reasonable walking distance. Expenses claimed to obtain a meal for personal convenience or preference, however, will not be reimbursed.
+- From the airport or train station to the residence or office
+- Between a place of lodging and a place of business, or between two or more places of business
+- To obtain meals only when the nature and location of the work is such that meals cannot be obtained within reasonable walking distance. Expenses claimed to obtain a meal for personal convenience or preference, however, will not be reimbursed.
 
 #### Baggage fees
 
-* Baggage fees for one bag may reimbursed per leg without further justification. Fees for 2 or more bags requires additional justification.
+- Baggage fees for one bag may reimbursed per leg without further justification. Fees for 2 or more bags requires additional justification.
 
 #### Mileage, Parking, and Tolls
 
-* Reimbursement for privately-owned (not rented) vehicle mileage at the [POV mileage rates](https://www.gsa.gov/travel/plan-book/transportation-airfare-rates-pov-rates/privately-owned-vehicle-pov-mileage-reimbursement-rates) can be approved if considered advantageous to the Government. POV mileage is advantageous when it is the least costly method (taking into account the cost of additional travel time) of all options including a government car, public transportation, ride-share, taxi, rental car.
+- Reimbursement for privately-owned (not rented) vehicle mileage at the [POV mileage rates](https://www.gsa.gov/travel/plan-book/transportation-airfare-rates-pov-rates/privately-owned-vehicle-pov-mileage-reimbursement-rates) can be approved if considered advantageous to the Government. POV mileage is advantageous when it is the least costly method (taking into account the cost of additional travel time) of all options including a government car, public transportation, ride-share, taxi, rental car.
 
 For example, it is typically advantageous to use a POV to go to the airport for instance, where reasonable public transit is not available, and the costs of the mileage reimbursement and parking are less than round trip taxi fare from home to the airport.
 
@@ -79,11 +79,11 @@ Parking at the airport is only reimbursable when the conditions in the above exa
 
 #### Internet service
 
-* May be expensed when government-provided internet service (i.e. the data plan and hotspot on your government phone) is not available. Wifi on an airplane is generally reimbursable, but wifi charges at a hotel or other areas where cell signal is generally available require justification specifying why you weren't able to use your government phone connection.
+- May be expensed when government-provided internet service (i.e. the data plan and hotspot on your government phone) is not available. Wifi on an airplane is generally reimbursable, but wifi charges at a hotel or other areas where cell signal is generally available require justification specifying why you weren't able to use your government phone connection.
 
 #### Laundry expenses
 
-* May only be reimbursable if travel involves at least 4 consecutive nights.
+- May only be reimbursable if travel involves at least 4 consecutive nights.
 
 ### Remote working guidance
 
