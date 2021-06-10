@@ -55,13 +55,10 @@ Examples of services TTS has procured:
 - Design services
 - 3PAO service
 
-
 Please follow the recommended steps below when ordering services under $10,000:
 
 1. For all requests, submit the [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform) to initiate the request process. It will instruct you on next steps.
 2. If your services are IT related, you will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form. You will also need to have a vendor quote for the services you are requesting.
 3. After you submit the form, the Office of Acquisition will review your request. Please be ready to address any questions, comments, or feedback at your earliest convenience.
-4. Once OA has reviewed your request, they will send it through the approval process in the micropurchase request sheet. Your supervisor will approve via a link in their email. 
+4. Once OA has reviewed your request, they will send it through the approval process in the micropurchase request sheet. Your supervisor will approve via a link in their email.
 5. Once the purchase is approved, the purchase card holder will reach out to you to complete the purchase.
-
-

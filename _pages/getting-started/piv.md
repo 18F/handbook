@@ -14,6 +14,16 @@ GSA processes new badges every Wednesday. When your badge is ready, you’ll rec
 
 ## Use with a GSA Mac
 
+### Setup
+
+Once you have your PIV card and PIN, you should be able to set up your computer for [logging in and other activities](#password-vs-pin). You may wish to contact a representative from IT to walk you through this process. Make sure you mention in your ticket that this is for a MacBook.
+
+1. Open the GSA Self Service application on your MacBook and select "SmartCard/PIV" from the lefthand filter. You should see two applications: `Smart Card Certificate Validation` and `Map Smartcard - Catalina`
+2. Plug a card reader into your laptop and insert your card
+3. Click "Test" on the `Smart Card Certificate Validation` application in Self Service. Wait for a moment while it confirms your card is good to go. **Contact IT if your certificate does not validate**
+4. Click "Install" on `Map Smartcard - Catalina`. Wait until this finishes installing. Do not remove your card.
+5. Now you can remove your card and restart your computer. You are all set up to follow the login steps below.
+
 ### Password vs. PIN
 
 All personal computers at GSA need to use PIV cards to log in. This means you'll use a PIN when logging into your Mac, as well as when you perform other actions on your Mac that require a password. It is not a replacement for your ENT password. Here are some common questions (and answers) that may help.

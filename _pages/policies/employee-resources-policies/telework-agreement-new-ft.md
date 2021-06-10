@@ -12,14 +12,16 @@ questions:
 
 This is a short How-To guide for new employees in full time telework positions to quickly and easily submit your Telework Agreement through HR Links. In most, if not all cases, new employees that are “Virtual” in the final job offer have had initial telework documentation completed by their supervisors or the talent team. The Telework Agreement is still needed, but with those pre-approvals in place, the following steps should work for you.
 
-Note: This process is different from the vendor-supplied how-to PDF, as the form sections and fields are _not quite the same_ as what that document states. 
+Note: This process is different from the vendor-supplied how-to PDF, as the form sections and fields are _not quite the same_ as what that document states.
 
 ## HR Links - Start a Telework Agreement
 
 1. Log in to [HR Links](https://hrlinks.gsa.gov/)
 2. Find the GSA Regular Telework Agreement via either:
-  * on your HR Links Home Page
-  * or, by following this path: Navigator > Self-Service > Personal Information > GSA Regular Telework
+
+- on your HR Links Home Page
+- or, by following this path: Navigator > Self-Service > Personal Information > GSA Regular Telework
+
 3. On the GSA Telework Agreement page, select the “Add a New Value” tab to get started.
 
 **Note:** If you’re joining as a new, full-time telework (remote) employee, the Talent Team will have already completed and approved the GSA Form 3703 Full-Time Telework Arrangement Analysis Tool, so you can ignore the instructions abut filling that form out.
@@ -30,7 +32,7 @@ Fill out the form using the following information for Part A:
 
 1. 1st “Select” dropdown: **Full Time Telework**
 2. 2nd “Select” dropdown: **New Arrangement**
-2. 3rd “Select” dropdown: **Long-Term Arrangement**
+3. 3rd “Select” dropdown: **Long-Term Arrangement**
 
 <img src="{{site.baseurl}}/images/hrlinks/ft-telework-1.png" alt="Screenshot of Part A form selections" />
 
@@ -55,6 +57,6 @@ Fill out the form using the following information for Part A:
 ## Employee Signature
 
 1. Employee Full-Time Telework Agreement Certification: **Y** (Note: Only put a Y here.)
-2. Save/Submit the form. 
+2. Save/Submit the form.
 
 <img src="{{site.baseurl}}/images/hrlinks/ft-telework-3.png" alt="Screenshot of Employee Signature form section" />

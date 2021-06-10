@@ -22,18 +22,18 @@ questions:
 
 3. Click on the **Air/Rail** icon (this should be already selected). If you need to travel by train only, choose the **Rail** icon instead.
 
-***Note:** If you need to travel by both air and rail, call AdTrav at (877) 472-6716 and they will make your reservations for you. An hour after your call, skip ahead to [this step](#completing-trip-information) to submit your AdTrav reservation for approval.
+**\*Note:** If you need to travel by both air and rail, call AdTrav at (877) 472-6716 and they will make your reservations for you. An hour after your call, skip ahead to [this step](#completing-trip-information) to submit your AdTrav reservation for approval.
 
-4. Type in the name of your destination city in *Temporary Duty Location* search field, and click on the search icon. You must search by city, not address. Select the correct location from the drop-down.
-<img src="/images/travel/2-choose-departure.png" class="travel-guide-hide" alt="choosing destination city">
+4. Type in the name of your destination city in _Temporary Duty Location_ search field, and click on the search icon. You must search by city, not address. Select the correct location from the drop-down.
+   <img src="/images/travel/2-choose-departure.png" class="travel-guide-hide" alt="choosing destination city">
 
-***Note:** The destination city is entered before the departure city
+**\*Note:** The destination city is entered before the departure city
 
 6. When selecting your location it will auto-populate ‘TDY Per Diem Location’. This is the Per Diem allowance amount for that location.
-<img src="/images/travel/3-autofil-per-diem.png" class="travel-guide-hide" alt="auto-fill of Per Diem Location">
+   <img src="/images/travel/3-autofil-per-diem.png" class="travel-guide-hide" alt="auto-fill of Per Diem Location">
 
 7. Choose your departure city and airport
-<img src="/images/travel/4-choose-origin-city.png" class="travel-guide-hide" alt="choosing origin city">
+   <img src="/images/travel/4-choose-origin-city.png" class="travel-guide-hide" alt="choosing origin city">
 
 8. Click **Search** to move onto the next screen.
 
@@ -43,15 +43,15 @@ When choosing flights, you may notice they fall into four different categories:
 
 <img src="/images/travel/5-view-select-flights.png" class="travel-guide-hide" alt="Concur flight selection screen">
 
-* **Govt. Contract Discounted:** the preferred option. In general, these fares are only available 15 or more days in advance, so try to book your travel as early as possible.
+- **Govt. Contract Discounted:** the preferred option. In general, these fares are only available 15 or more days in advance, so try to book your travel as early as possible.
 
-* **Govt. Contract:** the standard option, based on the [city pair rate](https://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter), the agreed upon rate for government flights between two cities. These are preferred if no govt. contract discounted fares are available.
+- **Govt. Contract:** the standard option, based on the [city pair rate](https://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter), the agreed upon rate for government flights between two cities. These are preferred if no govt. contract discounted fares are available.
 
-* **Non-contract Government:** these fares are also acceptable to book if the timing is more advantageous. All these fares are within the City Pair rate and are fully refundable. No additional approvals are required to book a non-contract government fare.
+- **Non-contract Government:** these fares are also acceptable to book if the timing is more advantageous. All these fares are within the City Pair rate and are fully refundable. No additional approvals are required to book a non-contract government fare.
 
-* **Lowest published:** while these fares may come at a lower cost than the contract options, they also come at increased risk to the government because many of these fares are nonrefundable. Any flight that is nonrefundable must be explicitly approved by the authorizing official before the TTS travel team can approve. If you think that choosing a "Lowest published" nonrefundable fare is your best option, skip ahead to [securing your approval email now](#how-to-secure-authorizing-official-approval), and then come back to book later. You'll want to ensure you secure the approval before you book because these fares expire quickly, often before authorizing official and travel team approval can be reasonably obtained.
+- **Lowest published:** while these fares may come at a lower cost than the contract options, they also come at increased risk to the government because many of these fares are nonrefundable. Any flight that is nonrefundable must be explicitly approved by the authorizing official before the TTS travel team can approve. If you think that choosing a "Lowest published" nonrefundable fare is your best option, skip ahead to [securing your approval email now](#how-to-secure-authorizing-official-approval), and then come back to book later. You'll want to ensure you secure the approval before you book because these fares expire quickly, often before authorizing official and travel team approval can be reasonably obtained.
 
-***Note about flights with policy violations:**
+**\*Note about flights with policy violations:**
 
 If you need to take a flight which indicates a policy violation, the type of violation will inform what steps you need to take next. Click on "View Fares" to pull up additional details about your flight selection.
 
@@ -60,40 +60,40 @@ If any part of the fare that you chose is nonrefundable, or exceeds the [City Pa
 [What justifies using a non-contract fare?](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#i1204997)
 
 1. Select **View Fares** to view additional itinerary details
-<img src="/images/travel/6-view-fares.png" class="travel-guide-hide" alt="viewing fares">
+   <img src="/images/travel/6-view-fares.png" class="travel-guide-hide" alt="viewing fares">
 
 2. Select the lowest cost, most compliant fare available by clicking on the blue button at right with the price. This will take you onto the confirmation page.
 
 <img src="/images/travel/7-flight-details.png" class="travel-guide-hide" alt="selecting a flight">
 
 3. **Review and Reserve Flight:** Review your flight itinerary, passenger information, frequent flyer information.
-<img src="/images/travel/8-passenger-info.png" class="travel-guide-hide" alt="reviewing the flight">
+   <img src="/images/travel/8-passenger-info.png" class="travel-guide-hide" alt="reviewing the flight">
 
 4. Click **Reserve Flight and Continue.** _Note that your itinerary will not be confirmed until you actually submit your authorization for approval-- don't stop here!_
-<img src="/images/travel/8a-reserve-flight.png" class="travel-guide-hide" alt="reserving the flight">
+   <img src="/images/travel/8a-reserve-flight.png" class="travel-guide-hide" alt="reserving the flight">
 
 5. This will take you to the **Trip Overview**. This page also lists your current reservations.
 
-***Note:** the deadline on the confirmation page. Ensure that you have approval from the TTS Travel Team before this date. Your tickets are booked, but are not purchased until one of them approves.
+**\*Note:** the deadline on the confirmation page. Ensure that you have approval from the TTS Travel Team before this date. Your tickets are booked, but are not purchased until one of them approves.
 <img src="/images/travel/9-trip-details.png" class="travel-guide-hide" alt="viewing the Trip Overview">
 
 6. Scroll to the bottom of this page and click **Next**. This message will pop up, prompting you to book a hotel.
-<img src="/images/travel/10-trip-details-bottom.png" class="travel-guide-hide" alt="pending reservation warning">
+   <img src="/images/travel/10-trip-details-bottom.png" class="travel-guide-hide" alt="pending reservation warning">
 
 By choosing **"I will book a hotel now."** you will be allowed to book your hotel directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile).
 
 ### Book lodging
 
-***Note**: If you don't have a travel card yet, make sure that you've [applied for one]({{site.baseurl}}/first-time-travel-travel-card) (it is required by GSA policy), then choose "I will book a hotel later". Call AdTrav at (877) 472-6716 to reserve your hotel (and rental car if needed) on your personal card in the meantime. Assuming you've already booked your flight or train in Concur, **mention the authorization number associated with your itinerary** so you don't get a second overlapping authorization for your hotel and/or rental car. You can verify your authorization number by going to the "Authorizations" tab in Concur and finding the number in blue on the left side associated with your travel dates. An hour after you call with AdTrav, proceed on to [completing trip information](#completing-trip-information).
+**\*Note**: If you don't have a travel card yet, make sure that you've [applied for one]({{site.baseurl}}/first-time-travel-travel-card) (it is required by GSA policy), then choose "I will book a hotel later". Call AdTrav at (877) 472-6716 to reserve your hotel (and rental car if needed) on your personal card in the meantime. Assuming you've already booked your flight or train in Concur, **mention the authorization number associated with your itinerary** so you don't get a second overlapping authorization for your hotel and/or rental car. You can verify your authorization number by going to the "Authorizations" tab in Concur and finding the number in blue on the left side associated with your travel dates. An hour after you call with AdTrav, proceed on to [completing trip information](#completing-trip-information).
 
 #### How to Book a hotel in Concur
 
 1. When you click on the **Next** button after confirming your flights, a popup will appear asking if you'd like to book a hotel now. Select **I will book a hotel now** and click **OK**.
-<img src="/images/travel/11-book-hotel-now.png" class="travel-guide-hide" alt="selecting hotel booking option">
+   <img src="/images/travel/11-book-hotel-now.png" class="travel-guide-hide" alt="selecting hotel booking option">
 
-***Note:** if you are coming back to this step after going back to the main menu of Concur, make sure your saved authorization is selected, go to **Travel Home**, reopen your itinerary, and then choose "Hotel" under "Add to your Itinerary".
+**\*Note:** if you are coming back to this step after going back to the main menu of Concur, make sure your saved authorization is selected, go to **Travel Home**, reopen your itinerary, and then choose "Hotel" under "Add to your Itinerary".
 
-*If you didn't need to book flights or rail, you can go to the **Travel** tab of Concur and make your reservations selecting the "hotel only" option.
+\*If you didn't need to book flights or rail, you can go to the **Travel** tab of Concur and make your reservations selecting the "hotel only" option.
 
 2. Enter check-in and check-out dates, location, any preferred hotels, and then click next.
 
@@ -101,13 +101,14 @@ By choosing **"I will book a hotel now."** you will be allowed to book your hote
 
 4. Choose a hotel from the list of search results. Unless you have approval otherwise, or intend to pay for the difference in price personally, sure that you pick a hotel with a nightly rate **equal to or less than the government maximum for the area listed [here](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-lookup).** In the side bar you can filter your search results to only those under the Per diem rate by checking **Hide hotels over Per Diem limit ($XXX.00)**.
 
-5. Click on  **View Rooms**, to view a detailed list of rooms within the hotel and select the room by clicking on the listed price at right.
+5. Click on **View Rooms**, to view a detailed list of rooms within the hotel and select the room by clicking on the listed price at right.
 
 6. **Review and Reserve Hotel** On the review screen:
-    * Select your hotel room preferences
-    * Choose a credit card
-    * Agree to the hotel's rate policies.
-    * Click on **Reserve Hotel and Continue**
+
+   - Select your hotel room preferences
+   - Choose a credit card
+   - Agree to the hotel's rate policies.
+   - Click on **Reserve Hotel and Continue**
 
 7. You will now be taken back to your trip itinerary. Note that the hotel has been added to the flight.
 
@@ -131,7 +132,7 @@ When you are finished booking your hotel, proceed on to [complete trip informati
 
 **Before booking a rental car** ensure that manager or client who approved your travel explicitly approved budget for a rental car-- in certain situations, rental cars and parking charges are not as advantageous to the government as common carriers such as taxis and/or public transit. Government vehicles may also be available-- check out the guide [here](https://docs.google.com/document/d/19D9YBPELZav3Y-gNUxEVS4wBbV89iUTUeirH46rE378/edit) for more details.
 
-*If you didn't need to book flights, rail, or hotel, you can go to the **Travel** tab of Concur and make your reservations selecting the "rental car only" option.
+\*If you didn't need to book flights, rail, or hotel, you can go to the **Travel** tab of Concur and make your reservations selecting the "rental car only" option.
 
 ### How to Book A Rental Car in Concur
 
@@ -139,7 +140,7 @@ When you are finished booking your hotel, proceed on to [complete trip informati
 
 2. Indicate pick-up and drop-off dates, location(s), car type, and preferred vendor(s).
 
-***Note** GSA employees are required to use the lowest cost compact car unless approved for a larger vehicle based on meeting one or more of the justifications listed in [FTR §301-10.450(c)](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#i1205588).
+**\*Note** GSA employees are required to use the lowest cost compact car unless approved for a larger vehicle based on meeting one or more of the justifications listed in [FTR §301-10.450(c)](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#i1205588).
 
 3. Confirm your email address and travel card information, and then **Reserve Car and Continue.**
 
@@ -158,28 +159,28 @@ Once you have reserved your rental car, continue on to [complete trip informatio
 
 On the **Trip Booking Information** page you must enter some general information in order to ensure that your trip gets billed to the right client and/or budget.
 
-***Note:** If you called Ad Trav to book travel, you'll need to open [Concur](https://travel.gsa.gov) about an hour after your initial call to AdTrav, going to the **Authorizations** tab, clicking on your authorization, and selecting **Edit Authorization**. This will open up the document, where you can go to the **General** tab and see the fields that are presented below:
+**\*Note:** If you called Ad Trav to book travel, you'll need to open [Concur](https://travel.gsa.gov) about an hour after your initial call to AdTrav, going to the **Authorizations** tab, clicking on your authorization, and selecting **Edit Authorization**. This will open up the document, where you can go to the **General** tab and see the fields that are presented below:
 
 ### How to Complete Your Trip Information
 
 1. Enter the following trip information on this page:
-<img src="/images/travel/12-trip-name.png" class="travel-guide-hide" alt="Trip Booking Information screen">
+   <img src="/images/travel/12-trip-name.png" class="travel-guide-hide" alt="Trip Booking Information screen">
 
 **Trip name:** Identify the budget of your trip here, based on the type of project you are traveling for:
 
-* _Billable projects:_ for 18F and CoE, include the exact name and number of the project as it appears in [Tock](https://tock.18f.gov/projects). For PIF billable travel, simply indicate the project is billable.
-* _All other projects:_ include the name of the team budget that is paying for this travel (a list of options is in cell C5 of the [TTS Budget and Accounting Lookup](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
+- _Billable projects:_ for 18F and CoE, include the exact name and number of the project as it appears in [Tock](https://tock.18f.gov/projects). For PIF billable travel, simply indicate the project is billable.
+- _All other projects:_ include the name of the team budget that is paying for this travel (a list of options is in cell C5 of the [TTS Budget and Accounting Lookup](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
 
-***Note:** If you are traveling for multiple projects (whether billable or not), list all of the relevant Tock name and numbers and budget names as appropriate.
+**\*Note:** If you are traveling for multiple projects (whether billable or not), list all of the relevant Tock name and numbers and budget names as appropriate.
 
 Examples:
 
-* `BILLABLE: 18F / HHS / CMS FY19 #997`
-* `BILLABLE: CoE / USDA Phase 2 / Cloud Adoption #980`
-* `BILLABLE: PIF - DHS`
-* `NONBILLABLE: OPP Smarter IT Solutions Division (QXD)`
-* `NONBILLABLE: 18F Strategy Branch (QEAD)`
-* `NONBILLABLE: Cloud Adoption CoE`
+- `BILLABLE: 18F / HHS / CMS FY19 #997`
+- `BILLABLE: CoE / USDA Phase 2 / Cloud Adoption #980`
+- `BILLABLE: PIF - DHS`
+- `NONBILLABLE: OPP Smarter IT Solutions Division (QXD)`
+- `NONBILLABLE: 18F Strategy Branch (QEAD)`
+- `NONBILLABLE: Cloud Adoption CoE`
 
 **Type Code:** "SINGLE TRIP".
 **Trip Purpose:** “Mission (Operational)” in most cases, unless attending a conference or training.
@@ -188,11 +189,12 @@ Examples:
 
 2. Proceed by clicking **Next** to finalize the reservation.
 
-***Note:** You will now see the final reservation. Review all of the details and hit **“Confirm booking”** when done.
+**\*Note:** You will now see the final reservation. Review all of the details and hit **“Confirm booking”** when done.
 <img src="/images/travel/13-confirm-booking.png" class="travel-guide-hide" alt="confirming the booking">
 
 #### Additional step if you booked your hotel outside of Concur or Ad Trav
-***Note:** If you did not book a hotel from Concur, a policy violation will be flagged. If this applies to you, [briefly justify your hotel choice](#can-i-book-outside-of-concur).
+
+**\*Note:** If you did not book a hotel from Concur, a policy violation will be flagged. If this applies to you, [briefly justify your hotel choice](#can-i-book-outside-of-concur).
 
 #### Additional step if you are extending travel for personal reasons
 
@@ -202,9 +204,9 @@ Examples:
 
 In most cases, you can proceed straight on to [stamping and submitting for travel team approval at this point](#how-to-stamp-and-submit-for-travel-team-approval). However, since "common carrier" transit (e.g. public transit, flights, trains, buses, shuttles, taxis, etc) or a [government car](https://docs.google.com/document/d/19D9YBPELZav3Y-gNUxEVS4wBbV89iUTUeirH46rE378/edit#) are the preferred modes of transit for official GSA travel, additional justification is required if you intend to incur the following expenses:
 
-* **Rental Cars:** You must [add a comment](#how-should-i-claim-local-transportation-expenses) on the  "Expenses and Receipts" page justifying the use of a rental car as advantageous to the government (considering both cost and time) compared to common carrier transit or a government car.
+- **Rental Cars:** You must [add a comment](#how-should-i-claim-local-transportation-expenses) on the "Expenses and Receipts" page justifying the use of a rental car as advantageous to the government (considering both cost and time) compared to common carrier transit or a government car.
 
-* **Mileage:** You must [add this in as an expense](#adding-expenses) on the "Expenses and Receipts" page and then [justify the mileage claim as advantageous to the govenment](#how-should-i-claim-local-transportation-expenses) (considering both cost and time) compared to common carrier transit, government car, and rental car. Mileage from your home to the airport (plus associated parking fees or round-trip travel in case of a drop-off) need only be justified as advantageous compared to taxi and public transit, as it is understood that obtaining a government car or rental car is impractical over such a short distance.
+- **Mileage:** You must [add this in as an expense](#adding-expenses) on the "Expenses and Receipts" page and then [justify the mileage claim as advantageous to the govenment](#how-should-i-claim-local-transportation-expenses) (considering both cost and time) compared to common carrier transit, government car, and rental car. Mileage from your home to the airport (plus associated parking fees or round-trip travel in case of a drop-off) need only be justified as advantageous compared to taxi and public transit, as it is understood that obtaining a government car or rental car is impractical over such a short distance.
 
 ### How to Stamp and Submit for Travel Team Approval
 
@@ -220,30 +222,30 @@ Following this step will ensure your authorization or voucher is in SUBMIT TO AP
 
 5. In the case of authorizations, your travel will be approved by the TTS travel team once you have [secured approval from your authorizing official](#how-to-secure-authorizing-official-approval). Ensure this is complete by 3:30 PM Eastern, else your travel will not be approved until the next business day. If you require approval after business hours, see the guide for after-hours and emergency travel [here]({{site.baseurl}}/travel-guide-b-after-hours-emergency-travel-authorizations).
 
-*For vouchers, your travel will be approved within 3-5 business days.
+\*For vouchers, your travel will be approved within 3-5 business days.
 
 6. Once you have been approved by the TTS travel team, you should recieve a notification from Concur. Please note that in most cases, **government contract airfare does not ticket until 72 hours before departure**, so you may not recieve official confirmation of your itinerary until then. Don't worry about this, the TTS travel team is not aware of any situations where approved travelers have not been issued tickets :)
 
-*For vouchers, reimbursement will be issued to your personal account and travel card 3-5 business days after travel team approval. For issues with reimbursement, read on more [here](#issues-with-reimbursement)
+\*For vouchers, reimbursement will be issued to your personal account and travel card 3-5 business days after travel team approval. For issues with reimbursement, read on more [here](#issues-with-reimbursement)
 
 Once your authorization is approved and ticketed, you might want to take a look at [what to expect while traveling]({{site.baseurl}}/travel-guide-2-travel/)!
 
 ### How to secure authorizing official approval
 
-You must formally request your authorizing official's approval* via email and forward it to tts-travelauths@gsa.gov, unless you are traveling to a training, conference, speaking event, or other "IRL" or large team gathering, in which case you must follow [the event request process instead](#how-can-i-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-irl-or-large-team-gathering).          **[Who is my authorizing official?](#who-is-my-authorizing-official-and-what-is-my-budget)**
+You must formally request your authorizing official's approval\* via email and forward it to tts-travelauths@gsa.gov, unless you are traveling to a training, conference, speaking event, or other "IRL" or large team gathering, in which case you must follow [the event request process instead](#how-can-i-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-irl-or-large-team-gathering). **[Who is my authorizing official?](#who-is-my-authorizing-official-and-what-is-my-budget)**
 <br>
 <br>
-The body of the email must include the following:     [See an individual template here]({{site.baseurl}}/travel-guide-email-templates/#email-template-for-individual-travel) and [a group template here]({{site.baseurl}}/travel-guide-email-templates/#email-template-for-group-travel)
+The body of the email must include the following: [See an individual template here]({{site.baseurl}}/travel-guide-email-templates/#email-template-for-individual-travel) and [a group template here]({{site.baseurl}}/travel-guide-email-templates/#email-template-for-group-travel)
 
-* Names of individuals traveling    [What if this changes?](#what-if-who-is-traveling-changes)
-* Start and end dates of travel    [What if I am extending travel for personal reasons?](#what-if-i-am-extending-travel-for-personal-reasons)
-* A brief description of work to be done on the trip
-* Identified budget that will be paying for the trip    [How do I identify my budget?](#who-is-my-authorizing-official-and-what-is-my-budget)
-* Origin and destinations for each individual    [What if I am returning to or traveling from a location other than home?](#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home)
-* Estimated expenses for each individual, including a sufficient budget for local travel and miscellaneous expenses such baggage fees   [How should I estimate my expenses?](#how-should-i-estimate-my-expenses)
-* Include the travel expenses estimator as an image in the body of the email to make the travel approver's life easier.
+- Names of individuals traveling [What if this changes?](#what-if-who-is-traveling-changes)
+- Start and end dates of travel [What if I am extending travel for personal reasons?](#what-if-i-am-extending-travel-for-personal-reasons)
+- A brief description of work to be done on the trip
+- Identified budget that will be paying for the trip [How do I identify my budget?](#who-is-my-authorizing-official-and-what-is-my-budget)
+- Origin and destinations for each individual [What if I am returning to or traveling from a location other than home?](#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home)
+- Estimated expenses for each individual, including a sufficient budget for local travel and miscellaneous expenses such baggage fees [How should I estimate my expenses?](#how-should-i-estimate-my-expenses)
+- Include the travel expenses estimator as an image in the body of the email to make the travel approver's life easier.
 
-*_Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official._
+\*_Note that in many cases, your engagement manager or team lead may request approval on behalf of the group-- reach out to them before emailing your authorizing official._
 
 #### Who is my authorizing official and what is my budget?
 
@@ -253,11 +255,11 @@ If your travel is **nonbillable**, and coming from your team's budget, your auth
 
 If your travel is **billable** you will need to get approval from the director of the team who oversees the type of project you are working on:
 
-* 18F Custom Partner Solutions: Alex Bisker
-* 10x : Nico Papafil
-* cloud.gov: Carlo Costino
-* login.gov: Alex Dalessio
-* Centers of Excellence: Bob DeLuca or Brian Whittaker
+- 18F Custom Partner Solutions: Alex Bisker
+- 10x : Nico Papafil
+- cloud.gov: Carlo Costino
+- login.gov: Alex Dalessio
+- Centers of Excellence: Bob DeLuca or Brian Whittaker
 
 #### What if I am traveling for multiple projects?
 
@@ -265,19 +267,19 @@ Secure approval from each authorizing official as you would normally, but with a
 
 Another common situation which arises when splitting travel across multiple projects is having days in between, such as a weekend in between travel for two projects. Having official travel approved for the days in between, including weekends or leave is possible as long as the following conditions are met:
 
-* It is not possible to reschedule one of the meetings or events to avoid having days in between.
-* Considering both the travel time and overall cost, it is advantageous to the government to pay for the hotel and meals for the time in betwen rather than the round trip travel cost of having the employee return home.
-* One or both [authorizing officials](#who-is-my-authorizing-official-and-what-is-my-budget) agree to cover the costs of the time in between.
+- It is not possible to reschedule one of the meetings or events to avoid having days in between.
+- Considering both the travel time and overall cost, it is advantageous to the government to pay for the hotel and meals for the time in betwen rather than the round trip travel cost of having the employee return home.
+- One or both [authorizing officials](#who-is-my-authorizing-official-and-what-is-my-budget) agree to cover the costs of the time in between.
 
-*_Note that this same situation may arise when travel is required for one project on both sides of a weekend-- the same considerations apply._
+\*_Note that this same situation may arise when travel is required for one project on both sides of a weekend-- the same considerations apply._
 
-#### How can I get my travel approved to attend a training, conference, speaking event, or other "IRL" or large team gathering*?
+#### How can I get my travel approved to attend a training, conference, speaking event, or other "IRL" or large team gathering\*?
 
 Instead of obtaining an email of approval, you must follow the [event request process]({{site.baseurl}}/conferences-events-training/). You may [book your travel]({{site.baseurl}}/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
 <br>
 However, if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason, you must secure an email from your [authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) approving of the revised itinerary.
 
-*The threshold for a large team gathering is over 6 employees traveling for an internal management meeting (not day-to-day business) and/or more than $10,000 in estimated travel expenses for the group. Requests for approval of these events is typically handled by the organizer of the meeting.
+\*The threshold for a large team gathering is over 6 employees traveling for an internal management meeting (not day-to-day business) and/or more than $10,000 in estimated travel expenses for the group. Requests for approval of these events is typically handled by the organizer of the meeting.
 
 #### What if who is traveling changes?
 
@@ -291,11 +293,11 @@ Alternatively, you may book your official travel and have it approved as normal.
 
 #### What if I am returning to or traveling from a location other than home?
 
-If you were previously scheduled to be on leave or telework at the other location*, the full cost of travel from or to that location can be approved at the discretion of your authorizing official. Ensure that there is language in the email that reflects your itinerary.
+If you were previously scheduled to be on leave or telework at the other location\*, the full cost of travel from or to that location can be approved at the discretion of your authorizing official. Ensure that there is language in the email that reflects your itinerary.
 
 If you'd like to schedule personal travel that's incidental to your work trip (i.e. planned after the work trip), after your official work itinerary has been approved in Concur, you can give AdTrav a call at (877) 472-6716 and request that your itinerary be changed for personal reasons, with you covering any difference in cost that may arise.
 
-*Note that while GSA travel policy doesn't explicitly forbid being approved to travel from a foreign location, [travel to or from foreign locations](#international-travel) must be requested in Event Tracker for GSA Administrator approval at least 7 weeks in advance, making approval in these circumstances extremely unlikely.
+\*Note that while GSA travel policy doesn't explicitly forbid being approved to travel from a foreign location, [travel to or from foreign locations](#international-travel) must be requested in Event Tracker for GSA Administrator approval at least 7 weeks in advance, making approval in these circumstances extremely unlikely.
 
 #### International travel
 
@@ -315,11 +317,11 @@ For larger group travel, it is recommended to use this [travel expenses estimato
 
 After selecting **Voucher from authorization**, you will be led through creating a voucher from your authorization that you got approved prior to traveling.
 
-* Under Document Search, you’ll see a list of your “open” authorizations (i.e. your authorizations that don’t have vouchers yet).
+- Under Document Search, you’ll see a list of your “open” authorizations (i.e. your authorizations that don’t have vouchers yet).
 
-* Hit the pencil button to select the authorization you’d like to be reimbursed for. You will be moved onto the next step, [Reviewing and completing trip information](#completing-trip-information) on the **Document Information** screen.
+- Hit the pencil button to select the authorization you’d like to be reimbursed for. You will be moved onto the next step, [Reviewing and completing trip information](#completing-trip-information) on the **Document Information** screen.
 
-* **TIP**: If you can't figure out which authorization is your recent trip by name, look at the departure date column.
+- **TIP**: If you can't figure out which authorization is your recent trip by name, look at the departure date column.
 
 Once you've selected your authorization and continue, you'll be taken to the **Document Information** page. This should all be autopopulated, so unless some of the details of your trip changed, no further action is required here and you may continue on to **Create Document** and start [adding your expenses](#how-to-add-edit-or-delete-expenses). More guidance on what receipts or justifications are required can be found [here](#when-are-receipts-or-further-justifications-required-to-claim-expenses)
 
@@ -333,13 +335,13 @@ However, in some cases, Concur will generate an amendement in error. If you susp
 
 Upon selecting the **Local voucher** option, you will be taken to a blank **Document Information** page. Here's what you need to include for each field:
 
-* **Trip Name** This should follow [the same naming conventions you would use for a travel authorization](#how-to-complete-your-trip-information). Ensure you have [an email from your authorizing official](#how-to-secure-authorizing-official-approval) approving all of the expenses you'd like to claim sent to tts-travelauths@gsa.gov.
+- **Trip Name** This should follow [the same naming conventions you would use for a travel authorization](#how-to-complete-your-trip-information). Ensure you have [an email from your authorizing official](#how-to-secure-authorizing-official-approval) approving all of the expenses you'd like to claim sent to tts-travelauths@gsa.gov.
 
-* **Type code** and **Trip purpose** If the voucher is for local travel (taxis, mileage, etc.), choose **Local travel**. For any other sort of reimbursement, choose **Misc voucher**.
+- **Type code** and **Trip purpose** If the voucher is for local travel (taxis, mileage, etc.), choose **Local travel**. For any other sort of reimbursement, choose **Misc voucher**.
 
-* **Document detail** Enter a brief description of what the reimbursement is for here.
+- **Document detail** Enter a brief description of what the reimbursement is for here.
 
-* Click on **Create Document**
+- Click on **Create Document**
 
 Proceed on to [entering your expenses](#how-to-add-edit-or-delete-expenses). Note that any local transit over $25 requires a receipt, and all expenses claimed on a miscellaneous voucher require receipts.
 
@@ -357,9 +359,9 @@ Expenses can be edited by clicking the pencil button and then making changes on 
 
 Make sure you correctly indicate what was paid on the travel card vs personal means of payment to avoid [issues with reimbursement](#issues-with-reimbursement).
 
-* Use **IBA** for anything paid for on the travel card. Not seeing this option? [Add your travel card to your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile)
-* Use **CASH** for anything paid for using cash or a personal card.
-* **CBA** is only used for air and rail expenses paid through Concur directly.
+- Use **IBA** for anything paid for on the travel card. Not seeing this option? [Add your travel card to your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile)
+- Use **CASH** for anything paid for using cash or a personal card.
+- **CBA** is only used for air and rail expenses paid through Concur directly.
 
 ##### Attaching receipts
 
@@ -375,55 +377,55 @@ Expenses can be deleted by clicking the checkbox next to the expense and then cl
 
 The following expenses can be entered as-is without further receipts, written justifications, or other considerations, provided that each expense is under $75:
 
-* Airfare or Amtrak tickets booked through Concur or AdTrav
-* Airplane wifi
-* Fees for one checked bag per leg of itinerary
-* Laundry expenses, if official travel is at least 4 nights
-* Tolls, if government car, POV mileage or rental car is pre-approved
-* [Meals and Incidental Expenses](#how-should-i-claim-meals-and-incidental-expenses)
-* Public transit expenses of $25 or less.
+- Airfare or Amtrak tickets booked through Concur or AdTrav
+- Airplane wifi
+- Fees for one checked bag per leg of itinerary
+- Laundry expenses, if official travel is at least 4 nights
+- Tolls, if government car, POV mileage or rental car is pre-approved
+- [Meals and Incidental Expenses](#how-should-i-claim-meals-and-incidental-expenses)
+- Public transit expenses of $25 or less.
 
 ##### Expenses requiring receipts
 
 The following expenses require receipts:
 
-* [Hotels](#how-should-i-claim-hotels-and-lodging-taxes)
-* [Flights or Amtrak booked outside of Concur](#how-should-i-claim-air-or-amtrak-booked-outside-of-concur) (Requires additional justification and is only approved on a case-by-case basis)
-* Rental cars and gas for rental cars (also requires [additional justification](#how-should-i-claim-local-transportation-expenses)
-* Any other expense exceeding $75, including local transportation (This threshold is $25 for local vouchers)
-* Any expenses claimed on a miscellaneous voucher.
-* [Professional liability insurance](#how-can-i-get-reimbursed-for-professional-liability-insurance)
+- [Hotels](#how-should-i-claim-hotels-and-lodging-taxes)
+- [Flights or Amtrak booked outside of Concur](#how-should-i-claim-air-or-amtrak-booked-outside-of-concur) (Requires additional justification and is only approved on a case-by-case basis)
+- Rental cars and gas for rental cars (also requires [additional justification](#how-should-i-claim-local-transportation-expenses)
+- Any other expense exceeding $75, including local transportation (This threshold is $25 for local vouchers)
+- Any expenses claimed on a miscellaneous voucher.
+- [Professional liability insurance](#how-can-i-get-reimbursed-for-professional-liability-insurance)
 
 ##### Expenses requiring further justification:
 
 The following expenses don't require receipts, but do require brief descriptions to justify claiming them:
 
-* [Local transportation expenses of $75 or less per trip (Metro, taxis, personal vehicle mileage, etc.)](#how-should-i-claim-local-transportation-expenses)
-* Checked baggage fees for more than one piece of luggage per leg of your trip.
+- [Local transportation expenses of $75 or less per trip (Metro, taxis, personal vehicle mileage, etc.)](#how-should-i-claim-local-transportation-expenses)
+- Checked baggage fees for more than one piece of luggage per leg of your trip.
 
 #### Questions about entering specific expenses
 
 ##### How should I claim meals and incidental expenses?
 
-* **The allowance for Meals and Incidental Expenses (M&IE) is a flat rate given to a traveler regardless of what they actually spent.** No receipts or justification is needed to receive M&IE.
+- **The allowance for Meals and Incidental Expenses (M&IE) is a flat rate given to a traveler regardless of what they actually spent.** No receipts or justification is needed to receive M&IE.
 
-* **For example**: Consider a trip taken between 9/16 and 9/18. M&IE is $69 per day in DC, and is 75% of $69 ($51.75) on the first and last days of a trip. We see that the three days of M&IE has been added automatically.
+- **For example**: Consider a trip taken between 9/16 and 9/18. M&IE is $69 per day in DC, and is 75% of $69 ($51.75) on the first and last days of a trip. We see that the three days of M&IE has been added automatically.
 
 ##### How should I claim meals paid on the travel card?
 
 When meals are paid on the travel card, there are a few different ways of documenting it:
 
-* One can create a new M&IE expense with expense method **IBA** in the amount spent on meals per day. The amount of M&IE reimbursed to your personal account will be automatically reduced accordingly (you will see negative charges appear that correspond with this). If you document all expenses correctly, your travel card bill will be paid off exactly.
+- One can create a new M&IE expense with expense method **IBA** in the amount spent on meals per day. The amount of M&IE reimbursed to your personal account will be automatically reduced accordingly (you will see negative charges appear that correspond with this). If you document all expenses correctly, your travel card bill will be paid off exactly.
 
-* One can change the payment method of M&IE expenses to **IBA** so that all reimbursement is routed to the travel card. If the entire allowance was not used, any amount left over will show up as a positive balance. You may call the customer service number on the back of the card and request that a check be mailed for that remaining amount.
+- One can change the payment method of M&IE expenses to **IBA** so that all reimbursement is routed to the travel card. If the entire allowance was not used, any amount left over will show up as a positive balance. You may call the customer service number on the back of the card and request that a check be mailed for that remaining amount.
 
-* One can leave the payment method of M&IE expenses as the default, **CASH**. After the voucher is processed, there will be an outstanding balance remaining. This will need to be paid-- call the customer service number on the back of the card for more details on making a payment.
+- One can leave the payment method of M&IE expenses as the default, **CASH**. After the voucher is processed, there will be an outstanding balance remaining. This will need to be paid-- call the customer service number on the back of the card for more details on making a payment.
 
 ##### How can I remove extra days at personal expense from my authorization or voucher?
 
 If you were authorized to extend your trip at your own expense and need to delete M&IE, there are some special instructions that you should follow:
 
-1. Edit your first *full* day of travel at your own expense by clicking on the pencil icon.
+1. Edit your first _full_ day of travel at your own expense by clicking on the pencil icon.
 
 2. Click on the **View Per Diem Conditions**. You should see a menu expand below.
 
@@ -431,9 +433,9 @@ If you were authorized to extend your trip at your own expense and need to delet
 
 4. Check **On leave**. Use **Other leave**, **8 hours**.
 
-5. If you are requesting leave for multiple days, return to the top and enter in the last *full* day you are traveling at personal expense.
+5. If you are requesting leave for multiple days, return to the top and enter in the last _full_ day you are traveling at personal expense.
 
-5. Save. Your M&IE should show as zero for the day. If it didn't work, just go ahead an add in a comment about the days you would like to zero out in the comments field, and the travel team will take that into account when they review your voucher for approval.
+6. Save. Your M&IE should show as zero for the day. If it didn't work, just go ahead an add in a comment about the days you would like to zero out in the comments field, and the travel team will take that into account when they review your voucher for approval.
 
 #### How should I claim hotels and lodging taxes?
 
@@ -445,20 +447,21 @@ Then, [correct the lodging expenses](#editing-expenses) so they reflect the actu
 
 Finally, [add a new expense for lodging taxes in](#adding-expenses), keeping in mind the following:
 
-* **Create Expenses Through:** Enter the last night you were checked into the hotel, and each night’s lodging tax will be copied through.
+- **Create Expenses Through:** Enter the last night you were checked into the hotel, and each night’s lodging tax will be copied through.
 
-* **Expense Date:** The night that you checked in.
+- **Expense Date:** The night that you checked in.
 
-* **Expense Description:** Lodging Tax
+- **Expense Description:** Lodging Tax
 
-* **Cost:** Tax per night (tax can also be reported as a lump sum, though lodging itself must be broken out per night)
+- **Cost:** Tax per night (tax can also be reported as a lump sum, though lodging itself must be broken out per night)
 
-* **Payment Method:** Travel card -> **IBA**, and other form of payment -> **CASH**
+- **Payment Method:** Travel card -> **IBA**, and other form of payment -> **CASH**
 
 Don't forget to **Save!**
 
 #### How should I claim air or Amtrak booked outside of Concur
-Any airfare or Amtrak tickets booked outside of Concur are *at your own risk* and may not be approved. If you are seeking reimbursement for personally booked airfare or Amtrak, you must choose **Other - Miscellaneous** as the expense description, and in the comments section under **Show other details**, you must provide a justification as to why it was not possible for you to book your travel via Concur or AdTrav.
+
+Any airfare or Amtrak tickets booked outside of Concur are _at your own risk_ and may not be approved. If you are seeking reimbursement for personally booked airfare or Amtrak, you must choose **Other - Miscellaneous** as the expense description, and in the comments section under **Show other details**, you must provide a justification as to why it was not possible for you to book your travel via Concur or AdTrav.
 
 #### How can I get reimbursed for professional liability insurance?
 
@@ -504,7 +507,7 @@ To amend a voucher, go to the **Vouchers** tab of Concur, then click on the vouc
 
 USDA-OCFO
 Financial Operations & Disbursement Branch
-Attn:  Bryan DeLeve - 2SE
+Attn: Bryan DeLeve - 2SE
 2300 Main Street
 Kansas City, MO 64108
 

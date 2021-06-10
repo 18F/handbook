@@ -5,16 +5,17 @@ title: Leading projects at 18F
 Each team has a project lead who coordinates and represents the project, both to the partner and within 18F.
 
 ## Project leads play the role of conductor on 18F projects
-* Serve as primary contact for 18F and for partner stakeholders
-* Establish a healthy team with positive working relationships
-* Manage work so it’s equitably distributed
-* Ensure that project management tasks are handled
-* Ensure we are on track to meet the terms of the Statement of Work
-* Ensure the team delivers value to the partner
-* Ensure that team members understand the responsibilities of each member of the team
-* Ensure the team identifies metrics to understand project impact
-* Identify project adjustment needs (e.g. staffing or budget changes)
-* Identify ways we could potentially help the partner more, given more time, in future engagements
+
+- Serve as primary contact for 18F and for partner stakeholders
+- Establish a healthy team with positive working relationships
+- Manage work so it’s equitably distributed
+- Ensure that project management tasks are handled
+- Ensure we are on track to meet the terms of the Statement of Work
+- Ensure the team delivers value to the partner
+- Ensure that team members understand the responsibilities of each member of the team
+- Ensure the team identifies metrics to understand project impact
+- Identify project adjustment needs (e.g. staffing or budget changes)
+- Identify ways we could potentially help the partner more, given more time, in future engagements
 
 In all this, your closest collaborators are your account manager and the rest of your project team. Account managers play a critical role in ensuring the success of the project. It’s important for the Project Lead to collaborate with the Account Manager to ensure success.
 
@@ -45,78 +46,89 @@ If the team identifies that new or different skills are needed on the project te
 Project leads are not expected to do all of the project management tasks themselves, but they are responsible to make sure tasks are addressed and equitably distributed. Teams are more resilient and equitable when administrative tasks like scheduling meetings or taking notes are shared. It can help to proactively set up systems to rotate this work (for example: a schedule for who will send weekly ship emails each week).
 
 ### Project coordination checklist
+
 For most 18F projects, these tasks, when completed, help ensure successful projects and healthy teams. Typically, **the team will share the load on doing this work** — it’s the role of the project lead to ensure these things are happening.
 
 #### Beginning of Project
-* Facilitate creation of a [team charter](https://docs.google.com/document/d/1Sv88PKdsfd0riLpfF1kB2oNn7f330eXcgXuG2ZSVoAs/edit), including how decisions will be made and how the team will navigate disagreement
-* Identify stakeholder accessibility needs for project work (in collaboration tools and deliverables)
-  * If artifacts (e.g. RFQs, final reports, decks) should be durable over time, consider budgeting time to make them accessible (use [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) if the team doesn't have this ability)
-* Ensure sprint planning, review, and other recurring meetings are scheduled
-* Facilitate identification of project management tracking tools
-* Facilitate identification of how administrative tasks will be rotated
-* Create and maintain a [Project Readme](https://docs.google.com/document/d/1_vL462nws0l1WXMTyTdWcmU2GyjHzF88dHvnLIvYeq4/edit?usp=sharing) in the project’s Drive folder (Account Manager will establish project folder)
+
+- Facilitate creation of a [team charter](https://docs.google.com/document/d/1Sv88PKdsfd0riLpfF1kB2oNn7f330eXcgXuG2ZSVoAs/edit), including how decisions will be made and how the team will navigate disagreement
+- Identify stakeholder accessibility needs for project work (in collaboration tools and deliverables)
+  - If artifacts (e.g. RFQs, final reports, decks) should be durable over time, consider budgeting time to make them accessible (use [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) if the team doesn't have this ability)
+- Ensure sprint planning, review, and other recurring meetings are scheduled
+- Facilitate identification of project management tracking tools
+- Facilitate identification of how administrative tasks will be rotated
+- Create and maintain a [Project Readme](https://docs.google.com/document/d/1_vL462nws0l1WXMTyTdWcmU2GyjHzF88dHvnLIvYeq4/edit?usp=sharing) in the project’s Drive folder (Account Manager will establish project folder)
 
 #### Ongoing
-* Foster a safe and inclusive environment (entire team’s responsibility)
-* Identify the team’s approach to stakeholder management (who on the team is the primary contact, cadence, tools, ceremonies for communicating with stakeholders)
-* Prioritize potential deliverables based on value and feasibility, and regularly reassess priority
-* Facilitate scheduling of the work the team decides needs to be done
-* Assess progress against plan
-* Identify the level of fidelity/polish stakeholders need in deliverables (Who does partner share these with? What’s the intended shelf-life?)
-* Build team alignment
-* Create space for experimentation so team members can propose bold ideas and test them
-* Ensure that [project impact](https://docs.google.com/document/d/1XHYJ8MTauUnwX7pDwcb8Pw0H2CftRDekJFa0CV6kanY/edit?usp=sharing) metrics are gathered throughout the project
-* Weekly:
-  * Meet with account manager
-  * Monitor project burn doc with account manager
-  * Compile and post a Weekly Ship; send to partner and post in [#the-shipping-news](https://gsa-tts.slack.com/archives/C4HGPF9QA)
-* Every two weeks: Conduct an internal team retrospective & complete [Project Health Assessment](https://airtable.com/shrvaV9rDyifdSUbA) with team
-* Ensure midpoint and other higher-profile presentations are rehearsed or otherwise well prepared
-* Work with account manager and staffing team when project team identifies a need for a shift in staffing
-* Onboard new team members to the project, as needed, including revisiting team charter with full team
-* Periodically: Check in on equitable distribution of administrative tasks among team members: re-balance as necessary
-* Add to and organize the project’s Drive folder
-* [Get support](#how-do-project-leads-and-team-members-get-support) in cases where team has trouble resolving disagreement or with other project issues
-* Participate in the Project Leadership Collective! Read the [PLC wiki](https://github.com/18F/Project-Leadership-Collective/wiki/Project-Leadership-Collective) and [join the PLC conversation — #c-18f-project-leadership](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
+
+- Foster a safe and inclusive environment (entire team’s responsibility)
+- Identify the team’s approach to stakeholder management (who on the team is the primary contact, cadence, tools, ceremonies for communicating with stakeholders)
+- Prioritize potential deliverables based on value and feasibility, and regularly reassess priority
+- Facilitate scheduling of the work the team decides needs to be done
+- Assess progress against plan
+- Identify the level of fidelity/polish stakeholders need in deliverables (Who does partner share these with? What’s the intended shelf-life?)
+- Build team alignment
+- Create space for experimentation so team members can propose bold ideas and test them
+- Ensure that [project impact](https://docs.google.com/document/d/1XHYJ8MTauUnwX7pDwcb8Pw0H2CftRDekJFa0CV6kanY/edit?usp=sharing) metrics are gathered throughout the project
+- Weekly:
+  - Meet with account manager
+  - Monitor project burn doc with account manager
+  - Compile and post a Weekly Ship; send to partner and post in [#the-shipping-news](https://gsa-tts.slack.com/archives/C4HGPF9QA)
+- Every two weeks: Conduct an internal team retrospective & complete [Project Health Assessment](https://airtable.com/shrvaV9rDyifdSUbA) with team
+- Ensure midpoint and other higher-profile presentations are rehearsed or otherwise well prepared
+- Work with account manager and staffing team when project team identifies a need for a shift in staffing
+- Onboard new team members to the project, as needed, including revisiting team charter with full team
+- Periodically: Check in on equitable distribution of administrative tasks among team members: re-balance as necessary
+- Add to and organize the project’s Drive folder
+- [Get support](#how-do-project-leads-and-team-members-get-support) in cases where team has trouble resolving disagreement or with other project issues
+- Participate in the Project Leadership Collective! Read the [PLC wiki](https://github.com/18F/Project-Leadership-Collective/wiki/Project-Leadership-Collective) and [join the PLC conversation — #c-18f-project-leadership](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
 
 #### End of project
-* Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ)
-* Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) so everyone on the project team can fully participate.
+
+- Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ)
+- Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) so everyone on the project team can fully participate.
 
 ## Why you might want to lead a project
+
 Being a project lead is an opportunity for career growth and visibility. It is an opportunity to foster people and to be responsible for a team’s success. You can practice leadership and facilitation skills and get insight into how we manage project budgets.
 
 ### Interested but unsure?
+
 If you’re interested but are unsure about what’s involved or whether you could lead successfully:
 
-* Talk with your supervisor and your staffing representative so they can keep an eye out for opportunities for you to grow these skills
-* Participate in the Project Leadership Collective (PLC) — you’ll hear about common project leadership challenges and how people are handling them
-* Ask a PLC co-lead to find you a project lead buddy, i.e. someone you might be able to shadow for a few hours on another project, or who could give you a tour of their project and how they approach the role
+- Talk with your supervisor and your staffing representative so they can keep an eye out for opportunities for you to grow these skills
+- Participate in the Project Leadership Collective (PLC) — you’ll hear about common project leadership challenges and how people are handling them
+- Ask a PLC co-lead to find you a project lead buddy, i.e. someone you might be able to shadow for a few hours on another project, or who could give you a tour of their project and how they approach the role
 
 ## What skills are needed to lead projects?
+
 Project leadership requires strong consulting skills:
-* Active listening
-* Clear communication
-* Group facilitation
-* Collaboration
-* Ability to recognize power dynamics and facilitate alignment despite power distance
-* Problem solving
-* Systems thinking
-* Change strategy
+
+- Active listening
+- Clear communication
+- Group facilitation
+- Collaboration
+- Ability to recognize power dynamics and facilitate alignment despite power distance
+- Problem solving
+- Systems thinking
+- Change strategy
 
 ## How do we decide who leads each project?
 
 Project leads are identified as part of the staffing process. The staffing team, in collaboration with the account manager and supervisors, identify potential leads on the team. In addition to the skills listed above, the account manager, supervisors, and project team members collaboratively consider the following:
 
-* Does the project have disproportionate needs in one of our disciplines? (e.g. If it’s a content strategy-focused project with only one content strategist, that person probably should not also be the project lead)
-* Does the project’s context require the project lead to manage political complexities and/or require direct communication with high-level executives or political appointees? Project context should be shared with the team, and potential leads can identify experience and comfort level with potentially high-pressure, high-visibility contexts.
-* Are there people on the team who haven’t had many opportunities to lead? Is it a project that has particular likelihood for career growth (e.g. will result in public-facing opportunities)? Project lead roles are highly visible and provide leadership development opportunities. As such, they should be equitably offered to our staff.
+- Does the project have disproportionate needs in one of our disciplines? (e.g. If it’s a content strategy-focused project with only one content strategist, that person probably should not also be the project lead)
+- Does the project’s context require the project lead to manage political complexities and/or require direct communication with high-level executives or political appointees? Project context should be shared with the team, and potential leads can identify experience and comfort level with potentially high-pressure, high-visibility contexts.
+- Are there people on the team who haven’t had many opportunities to lead? Is it a project that has particular likelihood for career growth (e.g. will result in public-facing opportunities)? Project lead roles are highly visible and provide leadership development opportunities. As such, they should be equitably offered to our staff.
 
 ### The selection process
+
 1. Chapter staffing representatives ask potential team members if they’re interested in leading the project. (If they’re interested but there’s concern from chapter or portfolio leadership or the staffing team that they don’t have the skills listed above, the staffing representative should advise the team member and their supervisor about the perceived areas for growth so they can work on those skills or demonstrate capability to their chapter/portfolio leadership.)
 2. The Account Manager (AM) finds out from chapter staffing representatives which potential team members are interested in leading
- - If anyone is interested, the AM checks in with each team member privately to learn about their past experiences with the potential lead(s), if applicable.
- - If multiple people are interested, the AM leads a conversation with the interested team members and their staffing representatives about project leadership expectations and options. The final decision is made by the staffing team.
+
+- If anyone is interested, the AM checks in with each team member privately to learn about their past experiences with the potential lead(s), if applicable.
+- If multiple people are interested, the AM leads a conversation with the interested team members and their staffing representatives about project leadership expectations and options. The final decision is made by the staffing team.
+
 3. If no one is interested or able to fill the role, the staffing team works to restaff the project to make sure we have at least one willing-and-able project lead on the team.
 
 ## How do project leads and team members get support?
@@ -127,27 +139,25 @@ Your first lines of support are the folks you have 1:1s with weekly: the project
 
 ### Some resources:
 
-* If you need documentation, look to this handbook and our [guides](https://18f.gsa.gov/guides/).
-* If you need support in a specific skill set, help with deliverables, or would like to have someone facilitate a session, get help by using [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW).
-* If your project is part of a portfolio, the portfolio director and your colleagues in the portfolio can be a great resource.
-* If you need advice or coaching, look to the chapters ([#product](https://gsa-tts.slack.com/archives/C02ABDXUN), [#design](https://gsa-tts.slack.com/archives/C02AUUQ8R), [#acquisition](https://gsa-tts.slack.com/archives/C054NH1FW), and [#dev](https://gsa-tts.slack.com/archives/C02CD5VUQ) as well as our [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/). Each of them have a corresponding Slack channel you can jump into any time. There's also:
+- If you need documentation, look to this handbook and our [guides](https://18f.gsa.gov/guides/).
+- If you need support in a specific skill set, help with deliverables, or would like to have someone facilitate a session, get help by using [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW).
+- If your project is part of a portfolio, the portfolio director and your colleagues in the portfolio can be a great resource.
+- If you need advice or coaching, look to the chapters ([#product](https://gsa-tts.slack.com/archives/C02ABDXUN), [#design](https://gsa-tts.slack.com/archives/C02AUUQ8R), [#acquisition](https://gsa-tts.slack.com/archives/C054NH1FW), and [#dev](https://gsa-tts.slack.com/archives/C02CD5VUQ) as well as our [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/). Each of them have a corresponding Slack channel you can jump into any time. There's also:
   - [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5)
   - [#c-consulting](https://gsa-tts.slack.com/archives/CDVJ9U4K1)
   - [#c-project-resources](https://gsa-tts.slack.com/archives/CHZLJBWCV)
   - [#c-18f-project-leadership](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
 
-
 ### Escalation paths for issues that may arise
 
-| Issue type | First line | Informed (please make these folks aware, even if you don’t need them to take action) | Escalation path (if you need someone to take action) |
-|-|-|-|-|
-| **Pre-flight issues, e.g. agreements timelines** | AM working with agreements team | Director of Account Management, Portfolio Director (if applicable) | Portfolio Director (if applicable), Director of Account Management otherwise |
-| **Team dynamics/team performance** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Director, Supervisor | Portfolio Director (if applicable), Chief of Staff |
-| **Changes to project timeline (including stopping the project early)** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio Director and Director of Account Management will make a final decision about stopping a project early, at the team’s recommendation | Permanent or semi-permanent changes to someone’s project billing expectations need to be approved in advance by Portfolio or Chapter Director, in coordination with the partner |
-| **Partner dissatisfaction** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio or Chapter Director | Portfolio Director or Director of Account Management; 18F Director if needed |
-| **Staffing misalignment** | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio or Chapter Director, Supervisor | Staffing Leads  |
-| **Team is being mistreated (disrespected, or any other inappropriate behaviors or attitudes) by partner or vendor* | Team can try to resolve themselves, but can escalate immediately if they’d like | Portfolio or Chapter Director, Supervisor | Portfolio Director (if applicable), Chief of Staff otherwise; 18F Director, if needed |
-
+| Issue type                                                                                                          | First line                                                                            | Informed (please make these folks aware, even if you don’t need them to take action)                                                          | Escalation path (if you need someone to take action)                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pre-flight issues, e.g. agreements timelines**                                                                    | AM working with agreements team                                                       | Director of Account Management, Portfolio Director (if applicable)                                                                            | Portfolio Director (if applicable), Director of Account Management otherwise                                                                                                    |
+| **Team dynamics/team performance**                                                                                  | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio/Chapter Director, Supervisor                                                                                                        | Portfolio Director (if applicable), Chief of Staff                                                                                                                              |
+| **Changes to project timeline (including stopping the project early)**                                              | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio Director and Director of Account Management will make a final decision about stopping a project early, at the team’s recommendation | Permanent or semi-permanent changes to someone’s project billing expectations need to be approved in advance by Portfolio or Chapter Director, in coordination with the partner |
+| **Partner dissatisfaction**                                                                                         | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio or Chapter Director                                                                                                                 | Portfolio Director or Director of Account Management; 18F Director if needed                                                                                                    |
+| **Staffing misalignment**                                                                                           | Team solves themselves (e.g. through team retros, 1:1s, etc.); coached by supervisors | Portfolio or Chapter Director, Supervisor                                                                                                     | Staffing Leads                                                                                                                                                                  |
+| \*_Team is being mistreated (disrespected, or any other inappropriate behaviors or attitudes) by partner or vendor_ | Team can try to resolve themselves, but can escalate immediately if they’d like       | Portfolio or Chapter Director, Supervisor                                                                                                     | Portfolio Director (if applicable), Chief of Staff otherwise; 18F Director, if needed                                                                                           |
 
 ### What if a project lead is struggling to fulfill the role?
 
@@ -161,15 +171,15 @@ Everyone who works on a project, or who sees their work, should feel empowered t
 
 Here’s what you should do if you are worried that a project lead is not set up for success, or is not steering a project appropriately, use your best judgement on the following options:
 
-* Talk to the project lead directly about what gaps you’re seeing and how to address them
-* Raise it with the account manager
-* Talk with your staffing representative
-* Talk with the project lead’s supervisor
+- Talk to the project lead directly about what gaps you’re seeing and how to address them
+- Raise it with the account manager
+- Talk with your staffing representative
+- Talk with the project lead’s supervisor
 
 If you aren’t sure how to approach those conversations, work with your lead or supervisor to strategize about how to address it. Remember, no one is punished for “raising a flag,” even if it proves to be unnecessary. They can also help you decide whether to pull in the project lead’s supervisor. In most cases, the next steps will still be to talk to the project lead directly and raise it with the account manager, but your lead or supervisor can help you prepare for those conversations.
 
 If the above channels aren’t an option, set up time to speak with one of the following folks, each of whom can help you strategize about how to improve the situation:
 
-* Portfolio director related to the project or your Chapter director
-* Chief of Staff
-* Director of Account Management chapter
+- Portfolio director related to the project or your Chapter director
+- Chief of Staff
+- Director of Account Management chapter

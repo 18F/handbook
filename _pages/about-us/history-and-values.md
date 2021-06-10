@@ -14,17 +14,15 @@ In 2012, the White House established the [Presidential Innovation Fellows](https
 
 The PIF program is administered as a partnership between the White House Office of Science and Technology Policy (OSTP), the White House Office of Management and Budget (OMB), and the General Services Administration (GSA). In 2013, the PIF program established a permanent home and program office within GSA. Housing PIF inside GSA gave it the resources necessary to grow.
 
-
 ## 18F: a civic consultancy
 
-18F grew directly out of the PIF program. During the second year of the program there was increasing chatter about wanting to create a permanent team of technologists, and the hypothesis was clearly proven — thousands of people applied for the first two classes of PIFs. But while there was talk of hiring "perma-PIFs"  and a lot of talk about trying to create a GDS equivalent (the Government Digital Service in the UK) in the U.S., various bureaucratic hurdles kept getting in the way.
+18F grew directly out of the PIF program. During the second year of the program there was increasing chatter about wanting to create a permanent team of technologists, and the hypothesis was clearly proven — thousands of people applied for the first two classes of PIFs. But while there was talk of hiring "perma-PIFs" and a lot of talk about trying to create a GDS equivalent (the Government Digital Service in the UK) in the U.S., various bureaucratic hurdles kept getting in the way.
 
 In October of 2013 (during the second class of PIFs), two rather big things happened: a certain government website failed, and the government shut down. There were several of us already chatting and scheming about how we could stay beyond our six-month fellowships, and these two events ramped up those discussions quite a bit. Two critical discoveries happened: we found a budget, and we realized that the PIFs were already GSA employees (which wasn't the case the year before), so extending our employment contracts was easy.
 
 On December 17th eight of us came to work as PIFs and the next day we came to work as GSA employees on an as-yet unnamed team who figured we would be prototyping, continuing fellowship projects, and generally looking for work that would help us move things forward. We partnered with a couple of amazing bureaucracy hackers inside GSA and quickly realized that there was broad support and enthusiasm for our mere existence. :) We were given the latitude to do what we needed to do to grow: to figure out what we needed to work as an agile, user-focused product team inside the government.
 
 We quickly hired a few folks from those organizations mentioned above (specifically CFPB and Sunlight), and we got to work hacking the bureaucracy around the two things we knew we be the ultimate blockers to a team like ours: ​*hiring*​ and ​*deployment*​ — we're still working on them! But the team's [early work](https://18f.gsa.gov/2014/05/14/hacking-bureaucracy-improving-hiring-and-software/) set the stage for our independence in these areas.
-
 
 GSA officially launched 18F on March 19, 2014. The name is an abbreviation for the intersection of 18th and F Streets in Washington, D.C., where GSA headquarters is located. In March 2014, the 18F team had 15 full-time staff. We've grown 10x in the last 18 months! :bow: to team <a href="https://gsa-tts.slack.com/messages/talent/">#talent</a> and <a href="https://gsa-tts.slack.com/messages/teamops/">#teamops</a>!
 

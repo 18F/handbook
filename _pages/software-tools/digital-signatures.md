@@ -24,7 +24,4 @@ You can find answers to many of your questions in the [DocuSign FAQ document](ht
 1. Select the type of request/issue
 1. Describe the process you are attempting and observed issues and/or errors
 
-For ***detailed instructions*** on how to submit a DocuSign ticket, refer to [this guidance document](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMDEyMTUuMzIwNDc2MjEiLCJ1cmwiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9kb2N1bWVudC9kLzFJOFMzTWlFZmpIRkhweTJ4WFA5NnplbFBTTElpekd5YjVzREtBbGZTaWlvL2VkaXQifQ.biYjzKEn10IgiMVzyPBzAAY3Aw6cSyLI2v32IwWYmKQ/s/642947709/br/91868836867-l).
-
-
-
+For **_detailed instructions_** on how to submit a DocuSign ticket, refer to [this guidance document](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMDEyMTUuMzIwNDc2MjEiLCJ1cmwiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9kb2N1bWVudC9kLzFJOFMzTWlFZmpIRkhweTJ4WFA5NnplbFBTTElpekd5YjVzREtBbGZTaWlvL2VkaXQifQ.biYjzKEn10IgiMVzyPBzAAY3Aw6cSyLI2v32IwWYmKQ/s/642947709/br/91868836867-l).
