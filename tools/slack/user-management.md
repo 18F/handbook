@@ -56,7 +56,7 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
 ## Custom emoji
 
 All custom emoji added to Slack must be
-[reviewed](https://github.com/18f/tts-tech-portfolio/issues/1077) by TTS staff.
+[All custom emoji must be reviewed](https://github.com/18f/tts-tech-portfolio/issues/1077) by TTS staff.
 Users can request custom emoji following the process described [here]({% link tools/slack/guidelines.md %}#custom-emoji).
 The overall process looks like this.
 
