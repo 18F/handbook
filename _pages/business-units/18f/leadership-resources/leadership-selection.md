@@ -12,14 +12,14 @@ This guide is meant to help us create an inclusive and equitable process for sel
 
 2. Create a nomination form in Google Forms. You can [copy a template example](https://docs.google.com/forms/d/e/1FAIpQLSe69wRKtbqqG1sxilpfTN7MVSZU5JOOP_rT_AVmMOfBpAy74A/viewform) or just create one from scratch. Typically, this form has been very short and simple with just a few pieces of information:
 
-   * What position are you taking nominations for?
-   * When do nominations close?
+   - What position are you taking nominations for?
+   - When do nominations close?
 
    With these form fields:
 
-   * Who is being nominated?
-   * Why would they be good in the role?
-   * Anything else to add? (optional)
+   - Who is being nominated?
+   - Why would they be good in the role?
+   - Anything else to add? (optional)
 
    Be sure that the form is set to capture the email address of the nominator in case you need to follow up.
 
@@ -31,9 +31,9 @@ This guide is meant to help us create an inclusive and equitable process for sel
 
 4. Assemble an interview panel. Your interviewers should be present for each interview. The interview panel should usually include:
 
-   * At least one—preferably two—chapter supervisors
-   * If you’re hiring a supervisor position, the chapter lead
-   * A representative from the diversity guild or a chapter diversity representative
+   - At least one—preferably two—chapter supervisors
+   - If you’re hiring a supervisor position, the chapter lead
+   - A representative from the diversity guild or a chapter diversity representative
 
    In some cases, you may also want to include a supervisor or director from another chapter. Reach out to people with relevant expertise to be on the interview panel.
 
@@ -48,18 +48,19 @@ This guide is meant to help us create an inclusive and equitable process for sel
    Toward the end of the week, be sure to make at least one additional call for nominations. You cannot over-publicize.
 
 6. Put together the questions your panelists will cover in interviews. We already have question banks for most roles, so look there first.
-  * Talent is putting together a Supervisory Interview Guide that all should be used for all Supevisory roles. That will be finalized soon.
+
+- Talent is putting together a Supervisory Interview Guide that all should be used for all Supevisory roles. That will be finalized soon.
 
 ### What you have now
 
 When you’ve finished all of the above steps, here’s what you should have at your fingertips:
 
-* Position description and plain-language description of the role
-* A nomination form
-* A deadline
-* An interview panel
-* Calendar holds for interviews
-* A question bank
+- Position description and plain-language description of the role
+- A nomination form
+- A deadline
+- An interview panel
+- Calendar holds for interviews
+- A question bank
 
 ## Nominating people
 

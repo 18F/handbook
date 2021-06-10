@@ -44,11 +44,12 @@ Hiring managers work with the head of their Business Unit to determine if a posi
 
 ### Role Prioritization
 
-Once a need has been identified, it enters Talent’s work queue. For an overview of how hiring actions are prioritized and managed across TTS, read the [Prioritization Process document](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit). 
+Once a need has been identified, it enters Talent’s work queue. For an overview of how hiring actions are prioritized and managed across TTS, read the [Prioritization Process document](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit).
 
-### Hiring Authorities 
+### Hiring Authorities
 
-Once a need has been identified and the role has been prioritized, TTS uses many [hiring authorities]({{site.baseurl}}/hiring-authorities) available within the federal government. 
+Once a need has been identified and the role has been prioritized, TTS uses many [hiring authorities]({{site.baseurl}}/hiring-authorities) available within the federal government.
 
 ### Internal Hiring and Details
-All [internal opportunities]({{site.baseurl}}/assignee-detail) within TTS, including details, must be openly shared and competed. [Details within GSA]({{site.baseurl}}/gsa-details) and [details with other agencies]({{site.baseurl}}/external-details) require additional considerations. 
+
+All [internal opportunities]({{site.baseurl}}/assignee-detail) within TTS, including details, must be openly shared and competed. [Details within GSA]({{site.baseurl}}/gsa-details) and [details with other agencies]({{site.baseurl}}/external-details) require additional considerations.

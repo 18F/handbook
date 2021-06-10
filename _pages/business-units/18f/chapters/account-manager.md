@@ -20,13 +20,13 @@ Once the subject matter experts (SMEs) and business development team agree that 
 
 During discussion(s) with the partner, the AM will:
 
-* Revisit the work initially discussed and gather additional detail
-* Introduce the partner to the TTS agreements process, including timeline expectations, forms, signatures, and funding constraints
-* Request background materials (including prior research, repos, org charts, or lists of stakeholders)
-* Provide information about pre-agreement work (such as identifying users for research)
-* Identify potential barriers to accessing partner systems and using collaborative tools
-* Gather and synthesize information about measures that matter so the 18F team has more context about the partner environment (including the partner's relationship with IT/security, procurement shop, any current vendors, our ability to access systems/data, and relevant oversight/governance bodies)
-* Align on expectations for working with 18F (including reviewing roles, responsibilities, time expectations, and how we're different from other vendors).
+- Revisit the work initially discussed and gather additional detail
+- Introduce the partner to the TTS agreements process, including timeline expectations, forms, signatures, and funding constraints
+- Request background materials (including prior research, repos, org charts, or lists of stakeholders)
+- Provide information about pre-agreement work (such as identifying users for research)
+- Identify potential barriers to accessing partner systems and using collaborative tools
+- Gather and synthesize information about measures that matter so the 18F team has more context about the partner environment (including the partner's relationship with IT/security, procurement shop, any current vendors, our ability to access systems/data, and relevant oversight/governance bodies)
+- Align on expectations for working with 18F (including reviewing roles, responsibilities, time expectations, and how we're different from other vendors).
 
 The AM then works with the partner to draft the statement of work (SOW). Once there’s agreement on the SOW, the AM submits the partner’s information to the TTS agreements team so they can prepare the IAA package and route it to the partner for signature.
 
@@ -84,24 +84,27 @@ If you’re worried about your project, bring up any concerns or blockers with y
 ## Resources for Account Managers
 
 ### General
+
 - [Custom Partnerships Tracker Trello board](https://trello.com/b/kZ7PUggv/custom-partnerships-tracker)
 - [Project resources Drive folder](https://drive.google.com/drive/u/0/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361)
 - [IAA/Appropriations law class materials](https://docs.google.com/document/d/1HHWaKrpzFtypk4Ymg7ZQAgpyfw4-U_1YwdWsYC74O_c/edit)
 - [Design your weekly sync meetings](https://docs.google.com/document/d/1grOSdOcuvd9O6yNIykCGNwk2Dxs10GXR8hAU_-uET1I/edit)
 
 ### Business Development
-- [SME calls](https://docs.google.com/document/d/1vP4H9X1jMN0feuNHrw_vuAwtxBGQX7R56-sRl3UGFQk)  
-- [Proposal writing](https://docs.google.com/document/d/1U-TTrYTFW-UYkgs_gdhPxifi9ExW-9NyTCG-AfbO-6I) 
-- [SOW templates](https://drive.google.com/drive/u/0/folders/1tDBr9Evh4ZGPqlJUxirlzyGtnoXtf6wS) 
-- [Cost estimator templates](https://docs.google.com/spreadsheets/d/11yeM0k6bLKVmvkmN2JM-a26a0S-7QwSwImM7saaV1EY) 
-- [Generating follow-on work](https://docs.google.com/document/d/1cK5lapUzuf4KX4VTVpV22TvRjCHH86phoLiyXzFO3Ss)  
 
-### Pre-flight 
-- [Partner Meeting Agenda and Notes](https://docs.google.com/document/d/1D_MZ7MTGjbifO_H9zb8-kK8TBgk0-Z76s7xDW7SO9y8/edit#)   
-- [SOW talking points for AMs](https://docs.google.com/document/d/1wQZZybx3bgRRs3bsDCeSqC6LTKRqNufuqQZlGCqoa9I/edit) 
+- [SME calls](https://docs.google.com/document/d/1vP4H9X1jMN0feuNHrw_vuAwtxBGQX7R56-sRl3UGFQk)
+- [Proposal writing](https://docs.google.com/document/d/1U-TTrYTFW-UYkgs_gdhPxifi9ExW-9NyTCG-AfbO-6I)
+- [SOW templates](https://drive.google.com/drive/u/0/folders/1tDBr9Evh4ZGPqlJUxirlzyGtnoXtf6wS)
+- [Cost estimator templates](https://docs.google.com/spreadsheets/d/11yeM0k6bLKVmvkmN2JM-a26a0S-7QwSwImM7saaV1EY)
+- [Generating follow-on work](https://docs.google.com/document/d/1cK5lapUzuf4KX4VTVpV22TvRjCHH86phoLiyXzFO3Ss)
+
+### Pre-flight
+
+- [Partner Meeting Agenda and Notes](https://docs.google.com/document/d/1D_MZ7MTGjbifO_H9zb8-kK8TBgk0-Z76s7xDW7SO9y8/edit#)
+- [SOW talking points for AMs](https://docs.google.com/document/d/1wQZZybx3bgRRs3bsDCeSqC6LTKRqNufuqQZlGCqoa9I/edit)
 
 ### Staffing requests
-- [How staffing works](https://github.com/18F/staffing) 
-- [Staffing skills decoder](https://docs.google.com/document/d/1PzQGM1QrJ6bzIkzKUDd2oUWks3_9_j-jjbvhzdrTOuY/edit?folder=14Et2Gni7q8VhqsKljbMQHtMFlnxlE80d#) 
-- [Choosing a project lead]({{site.baseurl}}/leading-projects/#how-do-we-decide-who-leads-each-project)  
 
+- [How staffing works](https://github.com/18F/staffing)
+- [Staffing skills decoder](https://docs.google.com/document/d/1PzQGM1QrJ6bzIkzKUDd2oUWks3_9_j-jjbvhzdrTOuY/edit?folder=14Et2Gni7q8VhqsKljbMQHtMFlnxlE80d#)
+- [Choosing a project lead]({{site.baseurl}}/leading-projects/#how-do-we-decide-who-leads-each-project)

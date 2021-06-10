@@ -8,7 +8,7 @@ Welcome to TTS Office of Acquisition (OA) team page!
 
 ## Our mission
 
-Buy technology products and services for TTS and our partners in an effective and efficient way. 
+Buy technology products and services for TTS and our partners in an effective and efficient way.
 
 ## Who we are
 
@@ -16,9 +16,9 @@ We are a group of 1102 Contracting Officers, Procurement Analysts and acquisitio
 
 ## What we offer
 
-TTS Office of Acquisition (OA) is uniquely focused on helping government buy modern digital technologies for internal and external clients. We specialize in procuring Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and IT professional services. 
+TTS Office of Acquisition (OA) is uniquely focused on helping government buy modern digital technologies for internal and external clients. We specialize in procuring Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and IT professional services.
 
-If you are interested in learning more about which existing TTS vehicles you can use, please see the [OA TTS Wide Contract Vehicles](https://docs.google.com/spreadsheets/d/1SfgL5tOh0ez-dT4VTSO7e3q-x8oAgWcYXnbqOA9M7zQ/edit#gid=0). 
+If you are interested in learning more about which existing TTS vehicles you can use, please see the [OA TTS Wide Contract Vehicles](https://docs.google.com/spreadsheets/d/1SfgL5tOh0ez-dT4VTSO7e3q-x8oAgWcYXnbqOA9M7zQ/edit#gid=0).
 
 ## Clients
 
@@ -30,7 +30,7 @@ If you are within TTS and your procurement need costs more than the micro-purcha
 
 ### TTS assisted acquisition
 
-In partnership with 18F, we procure modern, digital technologies for TTS’ partner agencies.  Procurement of services and/or products over $10k that will partially or fully support your partner(s) outside of TTS (including other GSA offices and partner agencies), paid partially or fully by your partner(s), will be considered an assisted acquisition. 
+In partnership with 18F, we procure modern, digital technologies for TTS’ partner agencies. Procurement of services and/or products over $10k that will partially or fully support your partner(s) outside of TTS (including other GSA offices and partner agencies), paid partially or fully by your partner(s), will be considered an assisted acquisition.
 
 However, OA is currently set up as a shared service, so please keep in mind that we cannot work directly with outside partners. In order for us to do an assisted acquisition, the request must come through one of the following TTS Business Units (BU). Also note that each BU has its own assisted acquisition process as well as vetting criteria. Please contact the following BUs for more information and/or to get started:
 
@@ -40,7 +40,7 @@ However, OA is currently set up as a shared service, so please keep in mind that
 
 ## How we work
 
-- We strive to procure technology in a transparent and cost-effective way. We collaborate directly with our internal clients to create the acquisition strategy and build the acquisition package together. We focus on procurements under $10 million to prevent vendor lock-in. We use low dollar amounts and option periods so that we can assess the results of our acquisitions, and refine our approaches over time to find the best value solution. 
+- We strive to procure technology in a transparent and cost-effective way. We collaborate directly with our internal clients to create the acquisition strategy and build the acquisition package together. We focus on procurements under $10 million to prevent vendor lock-in. We use low dollar amounts and option periods so that we can assess the results of our acquisitions, and refine our approaches over time to find the best value solution.
 - In the spirit of innovation, we continue to experiment with new, collaborative ways of doing procurement while adhering to the various regulations and policies governing our work.
 
 ## Communication
@@ -55,9 +55,9 @@ The Contracting Officer’s Representative (COR) helps the Contracting Officer (
 
 ### How do I become certified as a COR?
 
-The Federal Acquisition Certification for Contracting Officer’s Representatives (FAC-COR) contains three levels of certification that allows for appropriate training and experience for CORs managing a range of various contracts from low-risk to high-risk and complex acquisitions. 
+The Federal Acquisition Certification for Contracting Officer’s Representatives (FAC-COR) contains three levels of certification that allows for appropriate training and experience for CORs managing a range of various contracts from low-risk to high-risk and complex acquisitions.
 
-CORs: Review [FAC-COR Requirements](https://docs.google.com/document/d/1HzbEv6yQn6pWYl1MDImeLW6ShedcRsekSCBe54Nsnc8/edit#heading=h.aizxbe137goh) for education, experience, training requirements for each FAC-COR level. Refer to [FAITAS Frequently Asked Questions](https://drive.google.com/file/d/185q29ESV_h8zj4U2UscdH0rVxoSGnpSJ/view) to learn how to apply for training. If you have questions, please Slack [#fac-cor](https://gsa-tts.slack.com/messages/fac-cor) and tag @michellepet, TTS-Bureau Certification Manager for further assistance.  
+CORs: Review [FAC-COR Requirements](https://docs.google.com/document/d/1HzbEv6yQn6pWYl1MDImeLW6ShedcRsekSCBe54Nsnc8/edit#heading=h.aizxbe137goh) for education, experience, training requirements for each FAC-COR level. Refer to [FAITAS Frequently Asked Questions](https://drive.google.com/file/d/185q29ESV_h8zj4U2UscdH0rVxoSGnpSJ/view) to learn how to apply for training. If you have questions, please Slack [#fac-cor](https://gsa-tts.slack.com/messages/fac-cor) and tag @michellepet, TTS-Bureau Certification Manager for further assistance.
 
 ### I’ve taken the FAC-COR training and received a COR designation letter, now what?
 

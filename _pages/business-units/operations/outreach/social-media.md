@@ -17,7 +17,7 @@ If you or someone is speaking at an event, it is okay to pre-plan or post live t
 
 Be careful to limit your tweet or retweet to only sharing facts rather than encouraging people or GSA employees to attend a conference. For example:
 
-- Don't: @18F's Angela Colter is speaking at this event - make sure to sign up and go!  
+- Don't: @18F's Angela Colter is speaking at this event - make sure to sign up and go!
 - Do: @18F's Angela Colter is speaking about GSA priorities @GovMatters.
 
 Also, avoid making any personalized statements as they would be considered an endorsement. For example:

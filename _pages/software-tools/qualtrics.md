@@ -2,7 +2,7 @@
 title: Qualtrics
 ---
 
-Qualtrics is GSA’s enterprise survey management tool and is the only approved application for external feedback collection projects. 
+Qualtrics is GSA’s enterprise survey management tool and is the only approved application for external feedback collection projects.
 
 ## Getting a Qualtrics license
 
@@ -31,21 +31,27 @@ OCE’s [Survey Checklist](https://docs.google.com/document/d/1f5wkHrw5UPsZGKbPJ
 Information on feedback collection at GSA can be found on [OCE’s insite page](https://insite.gsa.gov/services-and-offices/staff-offices/office-of-customer-experience/surveys-and-feedback-collection).
 
 ## Website Intercept Technical Documentation
+
 If you’re planning to add a site-intercept onto your website, Qualtrics has [supporting documentation](https://www.qualtrics.com/support/website-app-feedback/getting-started-with-website-app-feedback/website-app-feedback-technical-documentation/).
 
 ## Getting help
+
 If you run into technical issues or need help, come to OCE Office Hours. Otherwise, you can contact Qualtrics Support by clicking on the "Help" tab in the top right corner of your account. When prompted to sign in, choose the "Sign in with SSO" option, and enter GSA's organization ID as CEMGSA.
 
 ## Best practices
-While you’re testing your survey for accessibility and usability, use the [preview link](https://www.qualtrics.com/support/survey-platform/survey-module/preview-survey/). This is because GSA’s Qualtrics contract has a max number of audible responses. Responses received from the preview link are not audible responses, and thus don’t affect the Qualtrics contract. 
 
-Follow the [Survey Checklist](https://docs.google.com/document/d/1f5wkHrw5UPsZGKbPJbXOzysvDMeDr5RvzHLjoFOnX1U/edit). It’ll cover most of the grounds to get through OCE approval and making sure your survey is as accessible as possible. 
+While you’re testing your survey for accessibility and usability, use the [preview link](https://www.qualtrics.com/support/survey-platform/survey-module/preview-survey/). This is because GSA’s Qualtrics contract has a max number of audible responses. Responses received from the preview link are not audible responses, and thus don’t affect the Qualtrics contract.
+
+Follow the [Survey Checklist](https://docs.google.com/document/d/1f5wkHrw5UPsZGKbPJbXOzysvDMeDr5RvzHLjoFOnX1U/edit). It’ll cover most of the grounds to get through OCE approval and making sure your survey is as accessible as possible.
 
 ## Survey approval
+
 Please note that all Qualtrics projects must be reviewed and approved by OCE before being distributed. Please use [this form](https://feedback.gsa.gov/jfe/form/SV_bw48jGEVifGRXjT) to submit a survey request. OCE requires 5 business days for the initial review. Depending on the size and scope of the survey, an additional review may be necessary.
 
 ## Paperwork Reduction Act (PRA)
+
 If you’re collecting feedback from more than 10 people outside of the Federal Government, your survey will need to go through PRA approval. The whole process takes 3-4 weeks with approvals from not only OCE, but also GSA’s Office of Government-Wide Policy (OGP), Legal, and finally The Office of Information and Regulatory Affairs (OIRA) at the Office of Management and Budget (OMB). More information can be found in the [PRA Digital Guide](https://pra.digital.gov/).
 
 ## Offboarding
+
 Please [email OCE](mailto:customerexperience@gsa.gov) if you need to transfer your account to someone else, if you’re leaving GSA, or if you no longer need your account.

@@ -27,15 +27,12 @@ We are a team that works collaboratively, transparently and vulnerably. Where ev
 - Collaboration
 - Strategic Thinking
 
-
-
 ### FY2021 Key Objectives
 
 1. Atttract and hire well-qualified candidates who reflect the diversity of the general public
-2. Strategically partner with leaderdhip to understand and advise on the people needs of the organization 
+2. Strategically partner with leaderdhip to understand and advise on the people needs of the organization
 3. Use data to make well informed decisions about the recruitment and onboarding process
 4. Foster relationships internally and externally
-
 
 ### Our Commitment to DE&I
 
@@ -45,7 +42,7 @@ We acknowledge that we can do better as a team and as an organization when it co
 
 Many leads for great candidates come through our current employees. Ideally, **these referrals should come directly to Talent rather than to the team/managers/supervisors**. We work to keep all mentions of who knows who and who recommends who away from the team/managers/supervisors who are involved in hiring so they can stay impartial. This helps ensure that candidates make it through the process on their own merits.
 
-Once you have submitted a referral, a talent team member will reach out and invite the person to our monthly general TTS Info Session. We share information about TTS and each BU at the Info Session as well as provide guidance on the application process. If we have a specialized Info Session scheduled (i.e. for Product or Engineering) we will invite your referral to a role specific Info Session if it's applicable. Talent doesn't have individual conversations with referrals. 
+Once you have submitted a referral, a talent team member will reach out and invite the person to our monthly general TTS Info Session. We share information about TTS and each BU at the Info Session as well as provide guidance on the application process. If we have a specialized Info Session scheduled (i.e. for Product or Engineering) we will invite your referral to a role specific Info Session if it's applicable. Talent doesn't have individual conversations with referrals.
 
 We accept varying levels of leads including:
 
@@ -55,7 +52,7 @@ We accept varying levels of leads including:
 
 Submit leads and referrals using the [Referral Submission Form](https://goo.gl/forms/I6cOnRNdh21aP5e63). [More information on the referral program.](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit) Leads and referrals are welcome any time, not just during times when positions are open.
 
-Please note: In accordance to GSA Order 9310.2, Restrictions on Employment of Relatives, no public official shall refer a relative to another public official for consideration for appointment, employment, promotion, or advancement to any position in GSA. 
+Please note: In accordance to GSA Order 9310.2, Restrictions on Employment of Relatives, no public official shall refer a relative to another public official for consideration for appointment, employment, promotion, or advancement to any position in GSA.
 
 To see what positions we're hiring for, take a look at our [Join TTS](https://join.tts.gsa.gov/) website.
 
@@ -67,7 +64,7 @@ Internal candidates can find opportunities via #tts-jobs in Slack or in the Hand
 
 ## How to get in touch
 
-* Slack:
-  * [#hiring](https://gsa-tts.slack.com/messages/hiring/)
-* Email:
-  * [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team. Also use this email if you'd like to submit an internal competition announcement for our review and for all hiring and onboarding related questions.
+- Slack:
+  - [#hiring](https://gsa-tts.slack.com/messages/hiring/)
+- Email:
+  - [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team. Also use this email if you'd like to submit an internal competition announcement for our review and for all hiring and onboarding related questions.

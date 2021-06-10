@@ -6,13 +6,13 @@ questions:
   - joinTTS@gsa.gov
 ---
 
-This page provides an overview with examples of how to write a federal government resume, which have content and formatting that differ from most private sector resumes.  
+This page provides an overview with examples of how to write a federal government resume, which have content and formatting that differ from most private sector resumes.
 
 ## How to write a Federal resume
 
-*Written by [Amanda Costello](https://github.com/amandacostello), 18F content designer and gummi bear enthusiast, July 10, 2019.*
+_Written by [Amanda Costello](https://github.com/amandacostello), 18F content designer and gummi bear enthusiast, July 10, 2019._
 
-**Writing a US federal resume is hard.** When I started writing mine, all I wanted was a solid example. What needs to be there, in what order, and what would it look like with real information. This is that example. (***Law and Order chimes***)
+**Writing a US federal resume is hard.** When I started writing mine, all I wanted was a solid example. What needs to be there, in what order, and what would it look like with real information. This is that example. (**_Law and Order chimes_**)
 
 Below are excerpts from my federal resume, along with details and notes about how it’s written and formatted. I want more awesome folks from all backgrounds and experiences as colleagues. I don’t want the resume formatting or particulars to be a mystery; it’s already a very challenging piece of writing.
 
@@ -28,7 +28,7 @@ Want to chat more about this? I’m on Twitter: [@amandaesque](https://www.twitt
 
 My comments below will all be in `code demo backticks`.
 
---------
+---
 
 ### And now, the resume!
 
@@ -37,21 +37,22 @@ My comments below will all be in `code demo backticks`.
 AMANDA COSTELLO  
 123 Lutefisk Street  
 You Betcha, MN 55555  
-Mobile: 555-555-5555  
+Mobile: 555-555-5555
 
-Email:   
-Availability: April 1, 2020   
+Email:  
+Availability: April 1, 2020  
 Job Type: Permanent, Telework
 Work Schedule: Full-Time
 
 Desired locations:  
-United States - MN  
+United States - MN
 
 #### WORK EXPERIENCE
+
 `Below is an example of one job, and how I talked about it. I recommend listing as complete of a job history as you can for at least the last 7 years, more ideally the last 10 years. Here's a formatting example!`
 
 Workplace name, Unit name if relevant - City, State, Country  
-Your job title - MM/YYYY to MM/YYYY - Hours per week: xx  
+Your job title - MM/YYYY to MM/YYYY - Hours per week: xx
 
 _Mission statement(s) of the workplace, or summary of the company’s work on a larger scale._
 
@@ -60,9 +61,9 @@ A paragraph-long description of what the work was overall. Describe your work us
 
 SPECIFIC TOPIC (e.g. CONTENT STRATEGY)
 
-* Examples are in a bulleted list, each point describing a project or part of a project, or a piece of work that fits the heading, plus matches up with the qualifications/reqs.
-* I chose to start each bullet with a past tense verb (Collaborated, Wrote, Managed, Edited), because that’s how I usually write resumes.
-* Some of these bullets reference specific things I wrote, and those were included as writing samples with my application.
+- Examples are in a bulleted list, each point describing a project or part of a project, or a piece of work that fits the heading, plus matches up with the qualifications/reqs.
+- I chose to start each bullet with a past tense verb (Collaborated, Wrote, Managed, Edited), because that’s how I usually write resumes.
+- Some of these bullets reference specific things I wrote, and those were included as writing samples with my application.
 
 TECHNICAL SKILLS:
 
@@ -70,15 +71,14 @@ Software you know, tools you use, best practices and methods. This can’t just 
 
 SELECTED WORK:
 
-* Another bulleted list, this time of URLs related to work I did.
-* They had quick little blurbs underneath about what they were, and what I did.
-* Photos won’t come through on this resume, so no screenshots or anything.
+- Another bulleted list, this time of URLs related to work I did.
+- They had quick little blurbs underneath about what they were, and what I did.
+- Photos won’t come through on this resume, so no screenshots or anything.
 
 `End of formatting example!`
 
-
 University of Minnesota, College of Education and Human Development - Minneapolis, MN  
-Lead Content Strategist - 07/2012 to Present - Hours per week: 40  
+Lead Content Strategist - 07/2012 to Present - Hours per week: 40
 
 _The mission of the College of Education and Human Development is to contribute to a just and sustainable future through engagement with the local and global communities to enhance human learning and development at all stages of the life span. The college is part of the University of Minnesota - Twin Cities, a land-grant high-level research institution, dedicated to generating and preserving knowledge through research, sharing that knowledge through teaching and learning, and apply that knowledge through outreach and public service._
 
@@ -87,33 +87,33 @@ Developed and led college-wide content strategy combining current and prospectiv
 
 CONTENT STRATEGY:
 
-* Collaborated with college academic departments, research centers, student support offices, and senior leadership to develop a “bottom up” content strategy, prioritizing student needs based on their relationships with academic programs. Assessed content through the lens of recruitment and retention.
-* Wrote “Stakeholder’s Guide To Launch,” a two-page reference for the launch of a new college website. By anticipating the top questions stakeholders might field, this guide gave talking points surrounding new features, along with contacts for further questions.
-* Served as strategist, editor, and project manager for regular essay series on college diversity and inclusion work, written by academic leadership. This generated authentic, meaningful content and helped stakeholders better understand the time commitment involved in content production.
-* Established user-centered college voice and tone guidelines, using “A, but not B” format. This was informed by close work with students in formal and informal usability testing, and brand sort activities with college leadership and key stakeholders.
+- Collaborated with college academic departments, research centers, student support offices, and senior leadership to develop a “bottom up” content strategy, prioritizing student needs based on their relationships with academic programs. Assessed content through the lens of recruitment and retention.
+- Wrote “Stakeholder’s Guide To Launch,” a two-page reference for the launch of a new college website. By anticipating the top questions stakeholders might field, this guide gave talking points surrounding new features, along with contacts for further questions.
+- Served as strategist, editor, and project manager for regular essay series on college diversity and inclusion work, written by academic leadership. This generated authentic, meaningful content and helped stakeholders better understand the time commitment involved in content production.
+- Established user-centered college voice and tone guidelines, using “A, but not B” format. This was informed by close work with students in formal and informal usability testing, and brand sort activities with college leadership and key stakeholders.
 
 USER EXPERIENCE (UX) WRITING:
 
-* Combined findings from user research, new graduate student interviews, faculty and researcher focus groups, higher ed industry trends, and analytics to consolidate more than 600 areas of academic research expertise into 111 categories. Categories were deployed across the college for consistent organization and increased findability of research work.
-* Developed strategy and standards to categorize and sort 127 academic programs and 111 areas of research expertise. This was incorporated into two web-based tools developed in-house and allowed students to explore college offerings and expertise independent of department. Wrote and edited descriptions for each area, capped at 25 words to promote ease of reading and top-level understanding.
-* Planned, edited, and delivered a “Web Writing Best Practices” guide for college content strategists. Formatted as a “one-pager” for printing and pinning up as a reference, this collected links to and recommendations from external tools and guides (Hemingway, 18F, King County Editorial Guide), internal editorial recommendations from the university and college, and voice and tone particulars. Strategists often felt intimidated and overwhelmed by the sheer amount of recommendations connected to good web content; this guide promoted four starting points to improve content: addressing the user (you/your/yours and we/our/ours), employing structured content, concise writing, and using plain language.
+- Combined findings from user research, new graduate student interviews, faculty and researcher focus groups, higher ed industry trends, and analytics to consolidate more than 600 areas of academic research expertise into 111 categories. Categories were deployed across the college for consistent organization and increased findability of research work.
+- Developed strategy and standards to categorize and sort 127 academic programs and 111 areas of research expertise. This was incorporated into two web-based tools developed in-house and allowed students to explore college offerings and expertise independent of department. Wrote and edited descriptions for each area, capped at 25 words to promote ease of reading and top-level understanding.
+- Planned, edited, and delivered a “Web Writing Best Practices” guide for college content strategists. Formatted as a “one-pager” for printing and pinning up as a reference, this collected links to and recommendations from external tools and guides (Hemingway, 18F, King County Editorial Guide), internal editorial recommendations from the university and college, and voice and tone particulars. Strategists often felt intimidated and overwhelmed by the sheer amount of recommendations connected to good web content; this guide promoted four starting points to improve content: addressing the user (you/your/yours and we/our/ours), employing structured content, concise writing, and using plain language.
 
 USABILITY TESTING AND USER RESEARCH:
 
-* Led and managed annual process of web usability testing, including project kick-offs, stakeholder workshops, scenario development, task analysis, lab and field-based testing, issues analysis, research and recommendation presentations to project team members, key stakeholders and college senior leadership.
-* Helped subject-matter expert teams and stakeholders understand their users through research and usability testing methods, defining problems and crafting effective solutions based on both quantitative and qualitative data.
+- Led and managed annual process of web usability testing, including project kick-offs, stakeholder workshops, scenario development, task analysis, lab and field-based testing, issues analysis, research and recommendation presentations to project team members, key stakeholders and college senior leadership.
+- Helped subject-matter expert teams and stakeholders understand their users through research and usability testing methods, defining problems and crafting effective solutions based on both quantitative and qualitative data.
 
 COLLABORATION ON CROSS-FUNCTIONAL TEAMS:
 
-* Contributed to responsive redesign of college website by conducting a content audit, editing student-facing content for an overall 75% file reduction, and migrating updated content to custom-built CMS. Collaborated with design and development teams to create comprehensive style guides, pattern library interface copy.
-* Convened monthly “coworking days” among all college web professionals, bringing us together as a team of peers for a day of training, collaborative problem solving, idea sharing, and camaraderie. Set programming, mentored colleagues on presentations, and collected feedback to regularly adjust how our central content strategy was best supporting the specific work of the departments.
+- Contributed to responsive redesign of college website by conducting a content audit, editing student-facing content for an overall 75% file reduction, and migrating updated content to custom-built CMS. Collaborated with design and development teams to create comprehensive style guides, pattern library interface copy.
+- Convened monthly “coworking days” among all college web professionals, bringing us together as a team of peers for a day of training, collaborative problem solving, idea sharing, and camaraderie. Set programming, mentored colleagues on presentations, and collected feedback to regularly adjust how our central content strategy was best supporting the specific work of the departments.
 
 ADVOCACY AND OUTREACH:
 
-* Advocated for content strategy best practices to over 30 University departments by regularly meeting with peers and presenting to leadership stakeholder groups. Promoted clear, consistent, user-centered writing from all contributors, even those who don’t identify as “web people,” and facilitated collaboration across organizational silos to increase efficiency and support.
-* Consulted with faculty and staff in academic departments outside the college that frequently contributed to content strategy. Regular guest lecturer and student mentor in the Writing Studies program.
-* Contributed as one of four subject matter experts to the University of Minnesota’s Content Strategy Self-Help Guide, recommending resources and structuring process for the centrally-maintained system to help contributors at all levels improve content writing and strategic thinking for the web.
-* Frequently presented at local Twin Cities-based tech meetups, translating content strategy best practices to adjacent fields such as front- and back-end development, UX research, accessibility, interactive design, and marketing.
+- Advocated for content strategy best practices to over 30 University departments by regularly meeting with peers and presenting to leadership stakeholder groups. Promoted clear, consistent, user-centered writing from all contributors, even those who don’t identify as “web people,” and facilitated collaboration across organizational silos to increase efficiency and support.
+- Consulted with faculty and staff in academic departments outside the college that frequently contributed to content strategy. Regular guest lecturer and student mentor in the Writing Studies program.
+- Contributed as one of four subject matter experts to the University of Minnesota’s Content Strategy Self-Help Guide, recommending resources and structuring process for the centrally-maintained system to help contributors at all levels improve content writing and strategic thinking for the web.
+- Frequently presented at local Twin Cities-based tech meetups, translating content strategy best practices to adjacent fields such as front- and back-end development, UX research, accessibility, interactive design, and marketing.
 
 TECHNICAL SKILLS:
 
@@ -121,27 +121,28 @@ Provided strategic content design with skills in copywriting, style guides, plai
 
 SELECTED WORK:
 
-* CEHD Academic Programs, www.cehd.umn.edu/programs  
-  Developed content and structure for directory/sorting tool  
-* CEHD Research & Expertise, www.cehd.umn.edu/topics/  
-  Created new content structure around college research, including categories and descriptions  
-* UMN Content Strategy Self-Help Guide, [z.umn.edu/csmap](https://z.umn.edu/csmap)  
-  Subject matter expert for update to university-wide guide  
+- CEHD Academic Programs, www.cehd.umn.edu/programs  
+  Developed content and structure for directory/sorting tool
+- CEHD Research & Expertise, www.cehd.umn.edu/topics/  
+  Created new content structure around college research, including categories and descriptions
+- UMN Content Strategy Self-Help Guide, [z.umn.edu/csmap](https://z.umn.edu/csmap)  
+  Subject matter expert for update to university-wide guide
 
 #### VOLUNTEER WORK
+
 `Your volunteer work doesn’t count as experience for scoring, but is still good to include. I used a format similar to the work experience job entry above, though used the bulleted list format for duties and responsibilities, and shortened everything up.`
 
 MinneWebCon Annual Conference - Minneapolis, MN - www.minnewebcon.org  
-Conference Director - 10/2011 - 06/2015  
+Conference Director - 10/2011 - 06/2015
 
 _MinneWebCon is a two-day web conference in Minneapolis that encourages inclusive grassroots knowledge-sharing. In addition to keynote speakers, breakout sessions, and half-day workshops, our annual conference is a space for speakers and attendees to collaborate, talk, learn, ask, test, and grow._
 
 DUTIES AND RESPONSIBILITIES
-* Directed volunteer-run tech conference for 200+ annual attendees, bringing local and national speakers to the Twin Cities web community.
-* Oversaw event logistics, speaker recruitment and support, partnerships and sponsorships, promotion, and attendee experience with conference committee support and input.
-* Introduced speaker mentoring program, pairing conference speakers with an experienced mentor to review slides, practice presentations, and provide support.
-* Expanded conference to two-day event in 2012, adding half-day workshops to meet attendee demand for deeper learning.
 
+- Directed volunteer-run tech conference for 200+ annual attendees, bringing local and national speakers to the Twin Cities web community.
+- Oversaw event logistics, speaker recruitment and support, partnerships and sponsorships, promotion, and attendee experience with conference committee support and input.
+- Introduced speaker mentoring program, pairing conference speakers with an experienced mentor to review slides, practice presentations, and provide support.
+- Expanded conference to two-day event in 2012, adding half-day workshops to meet attendee demand for deeper learning.
 
 #### SELECTED SPEAKING AND PRESENTATIONS
 
@@ -149,38 +150,37 @@ DUTIES AND RESPONSIBILITIES
 
 `My resume listed about 15 sessions that I thought were particularly relevant to this job. I also had sections on selected publications and selected podcast guest appearances, because those are cool too!`
 
-````
-“Title of the Presentation,” what kind of session - MM/YYYY  
+```
+“Title of the Presentation,” what kind of session - MM/YYYY
 Conference Name - City, State, Country
-````
+```
 
-* “How Silos Learn: Working in the Idea Factory,” closing keynote address - 08/2018 (scheduled)  
-PSEWEB Conference - London, ON, Canada
-* “Better Stakeholder Wrangling,” half-day workshop - 10/2018 (scheduled)  
-edUi Conference - Charlottesville, VA
-* “Better Stakeholder Wrangling,” half-day workshop - 05/2018  
-Confab: The Content Strategy Conference - Minneapolis, MN
-* “Explain Anything to Your Boss & Grandboss,” closing keynote address - 05/2018  
-Manage Digital Conference - Minneapolis, MN
-* “How Silos Learn,” opening keynote address - 10/2017  
-Digital Project Management Summit - Las Vegas, NV
-
+- “How Silos Learn: Working in the Idea Factory,” closing keynote address - 08/2018 (scheduled)  
+  PSEWEB Conference - London, ON, Canada
+- “Better Stakeholder Wrangling,” half-day workshop - 10/2018 (scheduled)  
+  edUi Conference - Charlottesville, VA
+- “Better Stakeholder Wrangling,” half-day workshop - 05/2018  
+  Confab: The Content Strategy Conference - Minneapolis, MN
+- “Explain Anything to Your Boss & Grandboss,” closing keynote address - 05/2018  
+  Manage Digital Conference - Minneapolis, MN
+- “How Silos Learn,” opening keynote address - 10/2017  
+  Digital Project Management Summit - Las Vegas, NV
 
 #### EDUCATION
-University of Minnesota - Twin Cities Minneapolis, MN  United States  
+
+University of Minnesota - Twin Cities Minneapolis, MN United States  
 Bachelor's Degree MM/YYYY  
-Major: English   
-Minor: Japanese  
+Major: English  
+Minor: Japanese
 
 `You can add in particular awards or distinctions here too. I was not a particularly distinguished student. :) `
-
 
 #### LANGUAGE SKILLS
 
 Language: Japanese  
 Spoken Level: Novice  
 Written Level: Novice  
-Reading Level: Novice  
+Reading Level: Novice
 
 `This is totally optional. For each language you speak in addition to English, list the levels at which you speak, write, and read. More details: https://www.usajobs.gov/Help/how-to/account/profile/languages/ `
 
@@ -189,6 +189,6 @@ Reading Level: Novice
 Name: Super Awesomeboss  
 Employer: University of Minnesota  
 Title: The Best Boss  
-Email: teamlead@awesomeboss.com  
+Email: teamlead@awesomeboss.com
 
 `While I listed references on my resume, it’s not required. The hiring folks wouldn’t cold call your references, they’d ask you for their contact information later on in the process.`
