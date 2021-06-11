@@ -102,7 +102,6 @@ If you'd like to help review emoji, reach out to
 complete details of how this process works are covered under the [Slack admin
 documentation]({% link tools/slack/user-management.md %}#custom-emoji).
 
-
 ## Connectivity issues
 
 If you are having connectivity issues with Slack, see the [Slack status site](https://status.slack.com/) for more information, and move to [Hangouts Chat](https://support.google.com/a/users/answer/9300511?hl=en) or email.

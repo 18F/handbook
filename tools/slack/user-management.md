@@ -52,7 +52,6 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
 - [Delegation of functionality](https://docs.google.com/a/gsa.gov/document/d/1gDuScce7R6q6NqQPPS3cFe3dZFYO_ZEp60dmuzVDYwg/edit?usp=sharing)
 - Requests for approved emoji are fulfilled from [#approved-emoji](https://gsa-tts.slack.com/archives/C024G4VLWGM)
 
-
 ## Custom emoji
 
 [All custom emoji must be reviewed](https://github.com/18f/tts-tech-portfolio/issues/1077) by TTS staff.
@@ -68,15 +67,14 @@ The overall process looks like this.
 Ideas for automating the creation of approved emoji are discussed in
 [18f/tts-tech-portfolio#1077](https://github.com/18f/tts-tech-portfolio/issues/1077).
 
-
 ### Approval criteria
 
 TTS staff in [#admins-emoji](https://gsa-tts.slack.com/archives/C024EBDS1NC) are
 responsible for reviewing new emoji. Emoji are covered by the same rules that
 govern our behavior at work, including the [GSA IT Rules of
-Behavior](https://www.gsa.gov/directive/gsa-information-technology-(it)-general-rules-of-behavior-),
+Behavior](<https://www.gsa.gov/directive/gsa-information-technology-(it)-general-rules-of-behavior->),
 [GSA Policy Statement on Harassment, Including Sexual and
-Non-sexual](https://www.gsa.gov/directive/general-services-administration-(gsa)-policy-statement-on-harassment,-including-sexual-and-non-sexual-),
+Non-sexual](<https://www.gsa.gov/directive/general-services-administration-(gsa)-policy-statement-on-harassment,-including-sexual-and-non-sexual->),
 [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/), and ethics
 rules. TTS staff should review emoji requests with these rules in mind.
 Submitters should be thoughtful and mindful about emoji submissions, and try to
@@ -91,7 +89,6 @@ Here are some examples of emoji that are not allowed.
 If you'd like to help review emoji requests, please reach out to
 [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S).
 
-
 ### Slack admins
 
 Creation of emoji requires admin permissions. Once emoji are approved by TTS,
@@ -99,14 +96,13 @@ the request is handed-off to the Slack admins for creation. Once Slack admins
 [create the approved emoji](https://gsa-tts.slack.com/customize/emoji), they
 should click "I have created the emoji" to complete the request.
 
-
 ### Slack Workflow
 
 Requests for new emoji use Slack's [Workflow Builder](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder)
 feature. You can download the Workflow to share with other Slack workspaces. As
 a Workflow Collaborator in Slack, click TTS > Tools > Workflow Builder. In the
 Workflow Builder, select the menu from the Workflow you want to download. Click
-"Download workflow file".  This JSON file can be uploaded into another workspace
+"Download workflow file". This JSON file can be uploaded into another workspace
 by clicking the "Import" button from the Workflow Builder.
 
 Reach out to [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S)
