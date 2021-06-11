@@ -12,7 +12,6 @@ questions:
 [FAQ]({{site.baseurl}}/travel-guide-faq) <br>
 [Back to Step 2: What to Consider While Traveling]({{site.baseurl}}/travel-guide-2-travel)
 
-
 ## Brief overview of vouchers
 
 You may be reimbursed for your expenses from official travel, or any other approved expense paid for via personal funds (such as reimbursement for [local travel]({{site.baseurl}}/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher), or [professional liability insurance]({{site.baseurl}}/travel-guide-faq/#how-can-i-get-reimbursed-for-professional-liability-insurance) for supervisors) by creating a voucher in [Concur](https://travel.gsa.gov).
@@ -21,8 +20,8 @@ You can get started by navigating to the **Vouchers** tab on top and selecting *
 
 BEFORE YOU BEGIN: _did your dates of travel change such that they are in any way outside of the original dates of your trip? If yes, STOP, and create an [amended authorization]({{site.baseurl}}/travel-guide-a-amended-authorizations) for the new dates._
 
-* Any travel that involves a flight, Amtrak, or is otherwise over 12 hours in duration is considered a **[Voucher From Authorization]({{site.baseurl}}/travel-guide-faq/#how-do-i-create-a-voucher-from-authorization)**.
-* For any other reimbursement, including local travel, or reimbursement of expenses unrelated to travel, such as professional liability insurance, choose the **[Local voucher]({{site.baseurl}}/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher)** option. Ensure that [an email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval) approving the expenses you intend to get reimbursed has been sent to tts-travelauths@gsa.gov.
+- Any travel that involves a flight, Amtrak, or is otherwise over 12 hours in duration is considered a **[Voucher From Authorization]({{site.baseurl}}/travel-guide-faq/#how-do-i-create-a-voucher-from-authorization)**.
+- For any other reimbursement, including local travel, or reimbursement of expenses unrelated to travel, such as professional liability insurance, choose the **[Local voucher]({{site.baseurl}}/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher)** option. Ensure that [an email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval) approving the expenses you intend to get reimbursed has been sent to tts-travelauths@gsa.gov.
 
 Once the voucher is created, the next step is to enter and edit expenses in the **Expenses and Receipts** tab of the voucher. [Find out how to add, edit, and delete expenses]({{site.baseurl}}/travel-guide-faq/#how-to-add-edit-or-delete-expenses)
 

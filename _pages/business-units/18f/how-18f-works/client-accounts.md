@@ -8,6 +8,7 @@ questions:
 _This control document outlines how 18F conducts business._
 
 ## Why we enter into Interagency Agreements
+
 18F provides digital and digital-related services to federal agencies. 18F is funded by the [Acquisition Services Fund](https://www.gsa.gov/portal/content/150047), which requires reimbursement in full. We therefore charge our clients — the federal agencies who engage us for project work — for our actual time and material costs, plus a fixed overhead amount. To do so, we enter into an [interagency agreement]({{site.baseurl}}/agreements) (IAA), with each of our clients.
 
 ## Roles and responsibilities

@@ -1,0 +1,54 @@
+name: Format Pull Request via Prettier
+# Source: https://github.com/dylanirlbeck/tailwind-ppx/blob/master/.github/workflows/lint_pr.yml
+
+on: [pull_request]
+
+jobs:
+  lint:
+    name: format code
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+
+      - uses: actions/checkout@v1
+
+      - name: Install prettier
+        run: npm install -g prettier
+
+      - name: format sources files
+        run: |
+          prettier --write "**/*.md"
+          git add "*.md"
+
+      - name: Check that all the code is formatted.
+        run: git diff --exit-code --cached
+
+      - name: Push if it is not
+        if: failure()
+        run: |
+          git remote set-url --push origin https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY
+          git config user.name "Github Runner"
+          git config user.email "runner@runner.github.com"
+          git commit -am "Format code"
+          git status
+          git push origin HEAD:$GITHUB_HEAD_REF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Display status should be clean
+        if: success()
+        run: git status
+
+      - uses: actions/github-script@0.3.0
+        if: failure()
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `I have formatted the code. Please @${context.actor} pull the last commit before pushing any more changes.`
+            });

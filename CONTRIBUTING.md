@@ -58,7 +58,11 @@ There is no dedicated staff for the handbook; maintenance is done by TTS staff w
 
 For long or important chunks of writing, consider asking the [18F Writing Lab](https://github.com/18F/writing-lab) to review and edit before you propose significant changes to the handbook.
 
-Use of [Prettier](https://prettier.io/) is encouraged for formatting files, though formatting is not a blocker for merging changes.
+We use [Prettier](https://prettier.io/) to enforce a standard formatting for all
+Markdown files. If code is pushed to GitHub and is not well-formatted via
+Prettier, it will automatically be fixed by a bot; you have the option to run
+Prettier locally before pushing to avoid this extra commit, but it is not
+required.
 
 ### Pull requests (PRs)
 

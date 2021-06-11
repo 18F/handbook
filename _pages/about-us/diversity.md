@@ -66,9 +66,9 @@ We believe there are four sources of inclusiveness at every organization, and we
 
 ## Diversity Guild
 
-The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and the [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/) Slack channel. 
+The Diversity [Guild]({{site.baseurl}}/working-groups-and-guilds-101/) is a formal, on-going way for employees to share experiences, resources, and learn from one another via weekly meetings and the [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/) Slack channel.
 
-The Guild is currently led by Aileen McGraw and Jessyka Castillo. 
+The Guild is currently led by Aileen McGraw and Jessyka Castillo.
 
 We also have [DE&I Reps](https://docs.google.com/document/d/1g7bpwFBfpHMy0guu5nUaF0HhBLvu42pF0nCiBdb92M4/edit) from each part of the organization.
 

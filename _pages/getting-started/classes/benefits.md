@@ -9,9 +9,11 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 ## Submitting benefit forms
 
 ### New hires
-Follow [these instructions](https://docs.google.com/presentation/d/151w2MOgtbiskmN7I13UgjiHZk2VZuJmAPotwixpHTFQ/edit#slide=id.p) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form).  You can email your GSA HR Benefits contact listed in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document if you have any questions.
+
+Follow [these instructions](https://docs.google.com/presentation/d/151w2MOgtbiskmN7I13UgjiHZk2VZuJmAPotwixpHTFQ/edit#slide=id.p) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form). You can email your GSA HR Benefits contact listed in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document if you have any questions.
 
 ### Current employees
+
 Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) when you're submitting documents due to a change in life event (such as getting married or having a child).
 
 You can find these documents by logging onto HR Links and selecting the following:
@@ -22,7 +24,7 @@ You can find these documents by logging onto HR Links and selecting the followin
   - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissible Changes."
 - Once you click "Submit," the documents get sent to the cpc benefits team where they can review and process these actions
 
-*NOTE:* When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).
+_NOTE:_ When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).
 
 ## Benefits contacts
 
@@ -42,10 +44,10 @@ GSA has a [credit union](https://www.gsafcu.gsa.gov/). It is free and easy to jo
 
 Organizations across the United States offer a number of discounts to federal employees. Specific discounts are covered in [govexec.com](https://www.govexec.com/federal-news/2013/10/gimme-my-discount/29165/) and [govloop.com](https://www.govloop.com/top-50-discounts-for-government-employees/), but some highlights include:
 
-* Members of the military and government employees with verified email addresses are eligible for [free digital access to The Washington Post](https://subscribe.washingtonpost.com/specialoffer/#/gov-mil).
-* Major cell phone carriers offer a 15% discount on cell plans to all federal employees---just ask!
-* Apple offers a discount (~10%) to feds when they buy personal equipment.
-* General Assembly offers a discount to federal employees.
+- Members of the military and government employees with verified email addresses are eligible for [free digital access to The Washington Post](https://subscribe.washingtonpost.com/specialoffer/#/gov-mil).
+- Major cell phone carriers offer a 15% discount on cell plans to all federal employees---just ask!
+- Apple offers a discount (~10%) to feds when they buy personal equipment.
+- General Assembly offers a discount to federal employees.
 
 ## Employee assistance program
 
@@ -59,11 +61,11 @@ Common reimbursements include gym memberships (with a doctor's note), over-the-c
 
 There are three kinds of FSA:
 
-* **Health Care Flexible Spending Accounts** are used to pay for qualified medical costs and health care expenses not covered by your Federal Employees Health Benefits
+- **Health Care Flexible Spending Accounts** are used to pay for qualified medical costs and health care expenses not covered by your Federal Employees Health Benefits
 
-* **Limited Expense Health Care Flexible Spending Account (LEXHCFSA)** is only available to employees who enroll in a FEHB program or under a High Deductible Health Plan (HDHP) with a Health Savings Account (HSA). Expenses are limited to dental and vision care services and products that meet the IRS definition of medical care.
+- **Limited Expense Health Care Flexible Spending Account (LEXHCFSA)** is only available to employees who enroll in a FEHB program or under a High Deductible Health Plan (HDHP) with a Health Savings Account (HSA). Expenses are limited to dental and vision care services and products that meet the IRS definition of medical care.
 
-* **Dependent Care Flexible Spending Accounts** are used to pay for eligible dependent care expenses such as child care for children under age 13 or children who are physically or mentally incapable of self-care. In some cases, they're also used to pay for elder care.
+- **Dependent Care Flexible Spending Accounts** are used to pay for eligible dependent care expenses such as child care for children under age 13 or children who are physically or mentally incapable of self-care. In some cases, they're also used to pay for elder care.
 
 Flexible Spending Accounts run on a calendar year and enrollment into the program is closed on October 1 of each year. New and newly eligible employees who wish to [enroll in this program](https://www.fsafeds.com/GEM) must do so within 60 days of their start date and prior to October 1. If you miss this deadline, you must wait until Open Season (mid-November) to enroll for the following calendar year.
 
@@ -77,11 +79,11 @@ The [Federal Employees Health Benefits (FEHB)](https://www.opm.gov/healthcare-in
 
 Eligible employees may choose from:
 
-* Fee-for-Service plans and their Preferred Provider Organizations (PPOs);
+- Fee-for-Service plans and their Preferred Provider Organizations (PPOs);
 
-* Health Maintenance Organizations (HMOs) for those who live within the geographic area serviced by the plan; and
+- Health Maintenance Organizations (HMOs) for those who live within the geographic area serviced by the plan; and
 
-* Consumer-Drive and High-Deductible health plans that offer catastrophic risk protection with higher deductibles, health savings and reimbursement accounts, and lower premiums.
+- Consumer-Drive and High-Deductible health plans that offer catastrophic risk protection with higher deductibles, health savings and reimbursement accounts, and lower premiums.
 
 The Office of Personnel Management lists the [plans available in each state](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/).
 
@@ -107,18 +109,17 @@ To qualify for [vision insurance](https://www.opm.gov/healthcare-insurance/denta
 
 If you have an eye appointment but have yet to receive your card(s), you can look up your Vision Care subscriber ID online. To do so, log on to [Benefeds](https://www.benefeds.com/).
 
-
 ### Filing an insurance complaint
 
 If you're having difficulty resolving an issue or getting clarification from your insurer, follow these steps:
 
 1. Email [FEHB@opm.gov](mailto:FEHB@opm.gov) and make sure to include:
-   * Name of the insurer
-   * Issue that you need resolved
-   * What outcome you would like
-   * A huge thanks to the team that wrangles these complaints
+   - Name of the insurer
+   - Issue that you need resolved
+   - What outcome you would like
+   - A huge thanks to the team that wrangles these complaints
 2. They forward the issue to the company and use the complaint to see if there's a pattern of abuse by the company
-   * The company fixes the issue at this point
+   - The company fixes the issue at this point
 3. If you do not hear back within a reasonable timeframe, follow up with FEHB@opm.gov
 
 ## Leave
@@ -145,7 +146,7 @@ To see your recent pay stubs:
 2. Click the "View Your Earnings and Leave Statement" link in the middle of the page.
 3. Choose the appropriate pay period in the drop-down menu.
 
-For help interpreting the many boxes on your paystub, see [How to Read Your Leave and Earnings Statement](https://www.usbr.gov/gp/employment/neo/tab6/ELS2012.pdf). You can also watch [the recording of 'A Beginner's Guide to Your Earnings and Leave Statement](https://drive.google.com/file/d/1p3XRDPkEhqjKBI9UV3wQsWGLWLaf-Cnv/view),' a session that a TTS teammate offered.  
+For help interpreting the many boxes on your paystub, see [How to Read Your Leave and Earnings Statement](https://www.usbr.gov/gp/employment/neo/tab6/ELS2012.pdf). You can also watch [the recording of 'A Beginner's Guide to Your Earnings and Leave Statement](https://drive.google.com/file/d/1p3XRDPkEhqjKBI9UV3wQsWGLWLaf-Cnv/view),' a session that a TTS teammate offered.
 
 Note that the gross income in your paycheck is a little less than your annual income / 26 paychecks. The difference lies in the way the federal government calculates hourly rates from annual salary. The federal government divides the annual salary by 2087 hours rather than 2080 hours (26 pay periods x 80 hours) to determine hourly rates.
 
@@ -167,26 +168,25 @@ As an example, if you served in the Peace Corps for 2 years and buy back your se
 
 The calculations for FERS retirement can be complex, and there is paperwork to complete. We recommend carefully reviewing all information and talking to HR personnel as needed. Visit the following websites, Slack channels, and email the GSA HR Benefits contact listed in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document.
 
-* [AmeriCorps VISTA](https://www.vistacampus.gov/resources/federal-jobs-and-noncompetitive-eligibility)
-* [Military service](https://www.dfas.mil/civilianemployees/militaryservice/militaryservicedeposits.html) and [#vets](https://gsa-tts.slack.com/messages/vets)
-* [Peace Corps](https://www.peacecorps.gov/returned-volunteers/support-services/federal-retirement/) and [#rpcvs](https://gsa-tts.slack.com/messages/rpcvs)
-
+- [AmeriCorps VISTA](https://www.vistacampus.gov/resources/federal-jobs-and-noncompetitive-eligibility)
+- [Military service](https://www.dfas.mil/civilianemployees/militaryservice/militaryservicedeposits.html) and [#vets](https://gsa-tts.slack.com/messages/vets)
+- [Peace Corps](https://www.peacecorps.gov/returned-volunteers/support-services/federal-retirement/) and [#rpcvs](https://gsa-tts.slack.com/messages/rpcvs)
 
 ### TSP (Thrift Savings Plan)
 
-Employees at TTS are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/index.html) (TSP). For more information on TSP, please refer to the [TSP Insite page](https://insite.gsa.gov/topics/hr-pay-and-leave/benefits/thrift-savings-plan?term=tsp). 
+Employees at TTS are eligible to participate in the [Thrift Savings Plan](https://www.tsp.gov/index.html) (TSP). For more information on TSP, please refer to the [TSP Insite page](https://insite.gsa.gov/topics/hr-pay-and-leave/benefits/thrift-savings-plan?term=tsp).
 
 To start, change, or stop your contributions, you'll need to fill out [Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
 
 You can also update TSP directly in [HR Links]({{site.baseurl}}/leave/#logging-into-hr-links) by following this [visual guide](https://corporateapps.gsa.gov/corporateapps/files/Updating-TSP-Traditional-or-Roth.pdf) or these steps:
 
-1. After you sign into HR Links, click "Benefits Summary" 
+1. After you sign into HR Links, click "Benefits Summary"
 1. Click on the **TSP** tile/row to view and edit your contribution amounts
 1. Click **Save**
 
 If you ever move, you can update your address for TSP by emailing it to both the [Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the [GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the TSP office of your new address.
 
-To transfer your previous retirement account into your TSP, you'll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**.  Be sure to have your TSP account number and your SSN and mailing address handy.
+To transfer your previous retirement account into your TSP, you'll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing **1-877-968-3778**. Be sure to have your TSP account number and your SSN and mailing address handy.
 
 If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans cannot be higher than [the annual limit](https://www.tsp.gov/bulletins/19-u-11/).
 
