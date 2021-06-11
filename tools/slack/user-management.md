@@ -72,9 +72,15 @@ Ideas for automating the creation of approved emoji are discussed in
 ### Approval criteria
 
 TTS staff in [#admins-emoji](https://gsa-tts.slack.com/archives/C024EBDS1NC) are
-responsible for reviewing new emoji. Emoji are covered by the GSA IT Rules of
-Behavior and the [TTS Code of Conduct]({% link _pages/policies/conduct-policies/code-of-conduct.md %}).
-TTS staff should review emoji requests with these rules in mind. Submitters should be thoughtful and mindful about emoji submissions, and try to ensure they're in line with our values of diversity and inclusion.
+responsible for reviewing new emoji. Emoji are covered by the same rules that
+govern our behavior at work, including the [GSA IT Rules of
+Behavior](https://www.gsa.gov/directive/gsa-information-technology-(it)-general-rules-of-behavior-),
+[GSA Policy Statement on Harassment, Including Sexual and
+Non-sexual](https://www.gsa.gov/directive/general-services-administration-(gsa)-policy-statement-on-harassment,-including-sexual-and-non-sexual-),
+[TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/), and ethics
+rules. TTS staff should review emoji requests with these rules in mind.
+Submitters should be thoughtful and mindful about emoji submissions, and try to
+ensure they're in line with our values of diversity and inclusion.
 
 Here are some examples of emoji that are not allowed.
 
