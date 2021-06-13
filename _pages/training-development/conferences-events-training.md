@@ -67,25 +67,17 @@ The automated email that you will receive outlines the step(s) below that you wi
 ### Creating an SF-182 (required for most conference, event, and training requests that have registration and/or travel costs)
 
 1. You must [generate a Standard Form 182 (SF-182)](https://corporateapps.gsa.gov/files/SF-182-Job-Aid.pdf) in [Online Learning University (OLU)](https://gsaolu.gsa.gov/), and fill-in the required fields with the most relevant responses corresponding to your request type.
-
-- It is optional, but recommended, that you [update your Individual Development Plan (IDP)](https://corporateapps.gsa.gov/files/IDP-Job-Aid-for-Employees.pdf) in [OLU](https://gsaolu.gsa.gov/) to account for the requested activity.
-
-2. Once you have generated the SF-182, you will need to enter the routing approval queue.
-
-- Your **supervisor’s name will auto-populate** in the first approver field. Please verify who the system chose by selecting “Show All” next to “Manager Level 1” in the approvers column.
-  - If the supervisor needs to be modified, you will have to email [HRlinks@gsa.gov](mailto:HRlinks@gsa.gov) to edit this locked field on the SF-182.
-- Next, search and insert **Steven J Williams** for the “Budget Verifier/Appropriator” column.
-- Finally, you will add **Djemila McCray** as your “Purchaser/Purchase Card Holder” and then submit the SF-182 for approval.
-
-3. Once approved, save a PDF copy of your SF-182.
-
-- Click the “Printable Version” link at the top of the SF-182, then click “Print this request” to save as a PDF.
-
-4. Email [tts-events@gsa.gov](mailto:tts-events@gsa.gov] with your SF-182 PDF attached.
-
-5. The Training & Events Lead (Keith Wilson) will provide a final review within 2 business days of receiving the SF-182 and any other required information that's applicable.
-
-6. Within 2 business days of the Training & Events Lead's approval, a TTS purchase card holder will complete the payment of your registration and the TTS travel team will approve your travel in Concur, if applicable.
+  * It is optional, but recommended, that you [update your Individual Development Plan (IDP)](https://corporateapps.gsa.gov/files/IDP-Job-Aid-for-Employees.pdf) in [OLU](https://gsaolu.gsa.gov/) to account for the requested activity.
+1. Once you have generated the SF-182, you will need to enter the routing approval queue.
+  * Your **supervisor’s name will auto-populate** in the first approver field. Please verify who the system chose by selecting “Show All” next to “Manager Level 1” in the approvers column.
+    *If the supervisor needs to be modified, you will have to email [HRlinks@gsa.gov](mailto:HRlinks@gsa.gov) to edit this locked field on the SF-182.
+  * Next, search and insert **Steven J Williams** for the “Budget Verifier/Appropriator” column.
+  * Finally, you will add **Djemila McCray** as your “Purchaser/Purchase Card Holder” and then submit the SF-182 for approval.
+1. Once approved, save a PDF copy of your SF-182.
+  * Click the “Printable Version” link at the top of the SF-182, then click “Print this request” to save as a PDF.
+1. Email [tts-events@gsa.gov](mailto:tts-events@gsa.gov] with your SF-182 PDF attached.
+1. The Training & Events Lead (Keith Wilson) will provide a final review within 2 business days of receiving the SF-182 and any other required information that's applicable.
+1. Within 2 business days of the Training & Events Lead's approval, a TTS purchase card holder will complete the payment of your registration and the TTS travel team will approve your travel in Concur, if applicable.
 
 ### Booking travel
 
