@@ -75,7 +75,7 @@ The automated email that you will receive outlines the step(s) below that you wi
    - Finally, you will add **Djemila McCray** as your “Purchaser/Purchase Card Holder” and then submit the SF-182 for approval.
 3. Once approved, save a PDF copy of your SF-182.
    - Click the “Printable Version” link at the top of the SF-182, then click “Print this request” to save as a PDF.
-4. Email [tts-events@gsa.gov](mailto:tts-events@gsa.gov] with your SF-182 PDF attached.
+4. Email [tts-events@gsa.gov](mailto:tts-events@gsa.gov) with your SF-182 PDF attached.
 5. The Training & Events Lead (Keith Wilson) will provide a final review within 2 business days of receiving the SF-182 and any other required information that's applicable.
 6. Within 2 business days of the Training & Events Lead's approval, a TTS purchase card holder will complete the payment of your registration and the TTS travel team will approve your travel in Concur, if applicable.
 
