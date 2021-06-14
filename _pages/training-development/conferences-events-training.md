@@ -64,7 +64,7 @@ You can [track the status of your request here](https://docs.google.com/spreadsh
 
 The automated email that you will receive outlines the step(s) below that you will need to complete for your request.
 
-### Creating an SF-182 (required for most conference, event, and training requests that have a cost)
+### Creating an SF-182 (required for most conference, event, and training requests that have registration and/or travel costs)
 
 1. You must [generate a Standard Form 182 (SF-182)](https://corporateapps.gsa.gov/files/SF-182-Job-Aid.pdf) in [Online University (OLU)](https://gsaolu.gsa.gov/), and fill-in the required fields with the most relevant responses corresponding to your request type.
    - It is optional, but recommended, that you [update your Individual Development Plan (IDP)](https://corporateapps.gsa.gov/files/IDP-Job-Aid-for-Employees.pdf) in [OLU](https://gsaolu.gsa.gov/) to account for the requested activity.
