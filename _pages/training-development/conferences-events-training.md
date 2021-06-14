@@ -64,7 +64,7 @@ You can [track the status of your request here](https://docs.google.com/spreadsh
 
 The automated email that you will receive outlines the step(s) below that you will need to complete for your request.
 
-### Creating an SF-182 (required for most conference, event, and training requests that have registration and/or travel costs)
+### Creating an SF-182 (required for most conference, event, and training requests that have a cost)
 
 1. [Create a Salesforce SF-182 form](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage)
 
