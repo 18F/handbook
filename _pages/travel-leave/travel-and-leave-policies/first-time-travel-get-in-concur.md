@@ -14,9 +14,9 @@ There are four required steps to gain access to [Concur](https://travel.gsa.gov/
 
 1. To access [Concur](https://travel.gsa.gov/), you will need a **“travel vendor ID”**. Use the [Vendor Request Management site](https://finance.ocfo.gsa.gov/VendorRequest/co/Stepd.aspx) to request a new vendor ID. Please note that you'll need to be on the VPN to access this site.
 
-__Vendor Request Instructions__
+**Vendor Request Instructions**
 
-*You may experience slow page loads of about 30–60 seconds. This is not likely an issue with your internet.*
+_You may experience slow page loads of about 30–60 seconds. This is not likely an issue with your internet._
 
 - To get started, in the radio buttons under "Service Office", select "Traveler". Then, under "ADD VENDOR/ADDR CODE", click the "CLICK HERE" button.
 - For Point of Contact / POC fields, enter the contact information for your supervisor.
