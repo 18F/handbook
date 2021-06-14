@@ -1,6 +1,5 @@
 ---
 title: Lifecycle of a Launch
-permalink: "/before-you-ship/lifecycle"
 ---
 
 ## ATOs
