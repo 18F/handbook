@@ -424,6 +424,8 @@ primary:
             children: 
               - text: Lifecycle of a Launch 
                 url: before-you-ship/lifecycle/
+              - text: Security
+                url: before-you-ship/security/
 
       - text: TTS Solutions
         children:
