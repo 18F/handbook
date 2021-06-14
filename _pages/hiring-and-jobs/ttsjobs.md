@@ -35,8 +35,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Product Manager/IT Specialist (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Friday, June 11th
-
 - [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Friday, July 2nd
 
 - [TTS Talent Team - Sourcing Strategist](https://join.tts.gsa.gov/join/sourcing-strategist/) - open Monday, June 14th through Monday, June 21st
