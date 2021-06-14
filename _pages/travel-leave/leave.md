@@ -277,8 +277,12 @@ Adjusting work schedules for religious observances is handled differently than l
 
 ## Time tracking
 
-18F employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
+Billable TTS employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
 
 [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock]({{ site.baseurl }}/tock), which is TTS' own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
 
 For more information on leave, see the [Benefits class](../benefits#leave) and the [GSA Tools and Equipment class](../gsa-internal-tools).
+
+## Transferring leave from another federal agency
+
+Annual Leave and Sick Balances can take up to 3 pay periods to transfer to GSA depending on the speed of your previous payroll provider. If you have your final Earnings and Leave Statement available from your previous agency, you can send a copy to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) to expedite the process.
