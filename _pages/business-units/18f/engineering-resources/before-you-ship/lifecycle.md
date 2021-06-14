@@ -1,7 +1,9 @@
 ---
-title: Lifecycle
+title: Lifecycle of a Launch
 permalink: "/before-you-ship/lifecycle"
 ---
+
+## ATOs
 
 <a href="https://atos.open-control.org/" class="usa-button">Learn about ATOs</a>
 
@@ -82,3 +84,125 @@ See also: **site redesign [Concept form](https://forms.gle/mdHCktKLso8UFxMz9) an
 ### ATO renewal
 
 Beyond the [**general information**](https://atos.open-control.org/overview/#ato-renewal), follow the usual steps for getting an ATO, starting with [the checklist](checklist/).
+
+## ATO Checklist
+
+The ATO checklist helps you track progress towards a successful launch throughout your project. It is a formatted issue on GitHub, and is the canonical source of information for your path to launch.
+
+To start the security authorization process, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=ato.md&title=ATO+for+%5Bsystem%5D+-+due+%5Bdate%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/ato.md)). Make sure to replace the placeholders (the things in `[square brackets]`). Feel free to add a username after each task to assign it, and/or make corresponding items in your issue tracker. Unless otherwise specified, all tasks are the responsibility of the project team.
+
+The tasks are in suggested order of priority, though they can often be done in parallel. Note that **all of the prerequisite tasks need to be completed before your project will be scheduled for a sprint**.
+
+Make sure to leave a comment in the ATO issue when the `Project team` section of the checklist is complete and ready for review.
+
+You are welcome to ask any questions as comments in the issue or [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure).
+
+## Types of ATO
+
+There are several different methods in obtaining a GSA Authorization as described in the policy IT Security Procedural Guide: Managing Enterprise Risk CIO-IT Security-06-30 in [Insite](https://insite.gsa.gov/cdnstatic/insite/Managing_Enterprise_Risk_%5BCIO_IT_Security_06-30_Rev_16%5D_10-03-2019docx.pdf)
+
+- GSA Standard A&A Process
+- Lightweight Security Authorization Process
+- GSA Salesforce Platform Process
+- Security Reviews for Low Impact Software as a Service Process
+- FedRAMP Process
+- GSA Moderate Impact Software as a Service (MiSaaS) Security Authorization Process
+- GSA Subsystem Process
+- GSA Information System Continuous Monitoring Program
+
+In most cases, the types of ATO that will be pursued for TTS custom software systems are the _GSA Lightweight ATO (LATO)_. The GSA LATO process is described in a guide on [Insite](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/it-security-procedural-guides) (search for "Lightweight Security Authorization Guide" on that page). Systems that are under development must fulfill the requirements for [pre-assessment for internal government use](#conditions-for-pre-assessment).
+
+## System categorization
+
+The GSA LATO is designed for **Low** and **Moderate** _impact_ [level](../levels/) systems built using agile methods that run on top of cloud infrastructure which has already received an ATO (such as AWS, Azure, and [cloud.gov](https://cloud.gov)).
+
+## Control selection
+
+The GSA LATO is "lightweight" because it represents a tailored subset of the hundreds of controls in NIST Special Publication (SP) 800-53.
+
+## System authorization
+
+The GSA LATO **Low** _risk_ system ATOs are valid for 3 years. he GSA LATO **Moderate** _risk_ system ATOs are valid for 1 year. The Authorizing Official (AO) and Chief Information Security Officer (CISO) may sometimes grant a 90-day ATO, on a case by case basis. The default expectation is to avoid 90-day ATOs whenever possible, since they make more work for everyone.
+
+### Conditions for pre-assessment
+
+_Previously known as "pre-authorization"._
+
+You may operate without further authorization, based on our approved pre-existing security authorization, if all of the following conditions are met:
+
+- The system is deployed to [cloud.gov](https://cloud.gov) or [TTS-managed infrastructure-as-a-service (IaaS)](../../infrastructure/#infrastructure-as-a-service-iaas).
+- The system does _not_:
+  - interact with or change the state of any production Federal information system, whether it is operated by TTS or our Federal partners
+  - collect or store any sensitive [personally identifiable information (PII)](../../privacy/)
+  - is not the canonical source of any "production" data
+- The system is _only_ available to:
+  - staff of the General Services Administration
+  - other Federal staff / agencies, by one of:
+    - IP CIDR block
+    - some kind of auth mechanism
+      - HTTP Basic Auth (one set of credentials shared amonst the team is fine)
+      - OAuth ([cloud.gov authentication](https://docs.cloud.gov/apps/leveraging-authentication/), or [GitHub authentication](https://developer.github.com/v3/oauth/) limited to a particular organization)
+      - etc.
+
+For systems where _all_ of the information in the system is already publicly available and is non-confidential, the last step can be skipped once you have begun your ATO assesment with GSA IT.
+
+## System Security Plan
+
+As described in [the NIST guide](http://csrc.nist.gov/publications/nistpubs/800-18-Rev1/sp800-18-Rev1-final.pdf#page=7):
+
+> The purpose of the system security plan is to provide an overview of the security requirements of the system and describe the controls in place or planned for meeting those requirements.
+
+At TTS, the system security plan (SSP) is a long Google Doc.
+
+<a href="https://atos.open-control.org/tips/#system-security-plans-ssps" class="usa-button">Tips</a>
+
+## Diagrams
+
+<a href="https://atos.open-control.org/tips/#systemnetwork-diagrams" class="usa-button">General info</a>
+
+### Examples within TTS
+
+- A simple application running on cloud.gov: [FBI Crime Data Explorer](https://docs.google.com/drawings/d/1nwclBJQfbuzsnGOqe88VukQl3uiH1Jfa4c0FT1Cq43I/edit)
+- A more complex application running on cloud.gov: [CALC](https://docs.google.com/drawings/d/1k1wykk5PbLKSNJj8FyZbIlpX0D8r1q3-w-uRK_WWt9g/edit)
+- Another complex application running on cloud.gov: [data.gov](https://github.com/GSA/datagov-compliance/blob/2e07827/datagov-components-scratchpad.md#boundary-traversal) (drawn with [PlantUML](https://plantuml.com/))
+- [A complex application not running on cloud.gov](https://docs.google.com/drawings/d/10cH-OUB1NWzCI0v9LPzm7AXCfrHXNkDgnae-7hcUFu8/edit)
+- [cloud.gov itself](https://diagrams.fr.cloud.gov/) (drawn with [Mermaid](http://mermaid-js.github.io/mermaid/))
+
+### Tools
+
+The following have been used / are available for use in TTS:
+
+- Google Drawings
+- [Mermaid](http://mermaid-js.github.io/mermaid/)
+- [OmniGraffle](https://handbook.tts.gsa.gov/design/#drawing-lines-on-a-screen)
+- [PlantUML](https://plantuml.com/)
+- [Visio](https://handbook.tts.gsa.gov/design/#drawing-lines-on-a-screen)
+
+## FedRAMP packages
+
+Often you'll be building on top of services that have FedRAMP authorizations. When writing your SSP, you'll need to mark certain controls as "inherited", based on the Customer Responsibility Matrices (CRMs) of the Cloud Service Providers (CSPs).
+
+- For cloud.gov, you can download the CRM from [their website](https://cloud.gov/docs/overview/fedramp-tracker/#how-you-can-use-this-p-ato).
+- For others, you'll need to [put in a package request](https://app.docusign.com/templates/details/434e60cc-fbd1-4708-9373-aef41439ff05).
+
+## RSA Archer
+
+[RSA Archer](https://www.rsa.com/en-us/products/integrated-risk-management) is the canonical home for system compliance info at GSA. System Owners and Authorizing Officials should automatically have access, but additional read-only access can be [requested for "support staff"](https://docs.google.com/forms/d/e/1FAIpQLSccaOu1DpvnjQjw481iNsLDLEZp0hq3tovZv0xPjYNwnAbnlA/viewform).
+
+## Signing in
+
+1. [Get on the GSA network](https://handbook.18f.gov/how-to-log-in/#connecting-to-gsa-networks)
+1. Visit [archer.gsa.gov](https://archer.gsa.gov)
+1. Sign in with your ENT credentials
+1. Check your email for the one-time password
+
+Contact ispcompliance@gsa.gov for any issues.
+
+## Tips
+
+- Is your project accessible and [Section 508](../../laws/508/) compliant? The team will need to incorporate this throughout the project, but you'll also need to set up a review at least two weeks before launch.
+- How good is your code test coverage? Before shipping, you should have codecov badges on your GitHub repo READMEs and coverage should be above 90 percent (green). (This is not a perfect measure for code quality, but a helpful check.) The testing working group recommends reviewing your status early and often. _Ask #wg-testing if you have questions._
+- Are your APIs up to [18F's API Standards](https://github.com/18f/api-standards)? _Ask the #wg-api if you have questions._
+- Make sure you have all the social media metadata and preview images.
+
+<a href="https://atos.open-control.org/tips/" class="usa-button">More</a>
