@@ -39,6 +39,10 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Friday, July 2nd
 
+- [TTS Talent Team - Sourcing Strategist](https://join.tts.gsa.gov/join/sourcing-strategist/) - open Monday, June 14th through Monday, June 21st
+
+- [TTS Talent Team - Talent Acquisition Partner](https://join.tts.gsa.gov/join/talent-acquisition-partner/) - open Monday, June 14th through Monday, June 21st
+
 ### Internal only opportunities
 
 - [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
