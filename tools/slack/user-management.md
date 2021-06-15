@@ -80,12 +80,6 @@ rules. TTS staff should review emoji requests with these rules in mind.
 Submitters should be thoughtful and mindful about emoji submissions, and try to
 ensure they're in line with our values of diversity and inclusion.
 
-Here are some examples of emoji that are not allowed.
-
-- profanity
-- current political figures
-- expressing a partisan political view
-
 If you'd like to help review emoji requests, please reach out to
 [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S).
 
