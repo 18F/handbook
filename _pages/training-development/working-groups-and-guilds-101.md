@@ -186,7 +186,7 @@ Don't say:
 
 > This Friday, the Accessibility Guild welcomes Jane Doe, author of my favorite book _ABCD Framework for Inclusive Design_. Everyone should read it!
 
-We also avoid giving an unfair advantage to someone involved in a bid in progress with GSA. To avoid any ethical or legal conflict, please check with the (Office of General Counsel)[https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview] before booking a speaker. We kindly remind our speakers not to endorse their product by saying where it can be purchased or by offering discounts to government employees.
+We also avoid giving an unfair advantage to someone involved in a bid in progress with GSA. To avoid any ethical or legal conflict, please check with the [Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview) before booking a speaker. We kindly remind our speakers not to endorse their product by saying where it can be purchased or by offering discounts to government employees.
 
 
 ## 18F Collectives
