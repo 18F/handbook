@@ -50,7 +50,7 @@ See a list of other popular channels in the [Slack @ TTS](https://docs.google.co
 
 ## Usage tips
 
-- **[Add yourself to our custom emoji](#custom-emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Post your emoji (and any other custom emoji you add) to the [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY) channel.
+- **[Add yourself to our custom emoji](#custom-emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Once reviewed, your new emoji will be posted to [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY).
 - The advanced settings section provides an option to [**only show channels that have unread messages**](https://slack.com/help/articles/212596808-Manage-your-sidebar-preferences#manage-your-sidebar-items). This is useful if you're a member of a lot of channels.
 - Click the timestamp on any message to go to the archival view of it. This is helpful if you'd like to **cross-post a link to a message in another channel**.
 - If you're interested in **tracking specific keywords across Slack**, set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
@@ -94,8 +94,8 @@ To create custom emoji:
 
 As part of [2160.2B CIO CHGE 3 GSA Electronic Messaging and Related
 Services](https://www.gsa.gov/directive/gsa-electronic-messaging-and-related-services-),
-new emoji must be reviewed before use. You'll receive a notification once your
-emoji is reviewed and published.
+new emoji must be reviewed before use. Once approved, your new emoji will be
+published to [#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY).
 
 If you'd like to help review emoji, reach out to
 [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S). The
