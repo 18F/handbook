@@ -13,19 +13,18 @@ questions:
   - TTS-PeopleOps@gsa.gov
 ---
 
-An Individual Development Plan (IDPs) is a tool to help an employee enhance their professional skills so that they can better meet the evolving challenges of their job.
+An Individual Development Plan (IDPs) is a tool created in [Online University (OLU)](https://gsaolu.gsa.gov/) to help GSA employees enhance their professional skills so that they can better meet the evolving challenges of their job.
 
 ## IDP Resources
 
-| Site                                                                                                                                                      | Description                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Salesforce](https://gsa.my.salesforce.com/)                                                                                                              | Site where IDPs are created                                                |
-| [Switch to Salesforce Classic](https://help.salesforce.com/articleView?id=000337767&type=1&mode=1)                                                        | Always make sure that you're in Salesforce Classic when creating a new IDP |
-| [IDP Salesforce Guide](https://insite.gsa.gov/cdnstatic/insite/Individual_Development_Plan_%28IDP%29_Application_Employee_User_Guide.pdf)                 | Step-by-step guide for creating and accessing IDPs in Salesforce           |
-| [IDP Overview](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan)                                    | Provides info on common goals for IDPs and why they are important          |
-| [IDP Employee Tool Kit](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan/idp-employee-tool-kit)     | Provides video guides for entering IDPs                                    |
-| [IDP Supervisor Tool Kit](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan/idp-supervisor-tool-kit) | Provides video guides for approving IDPs                                   |
-| [IDP OLU Training](https://gsa-hcm03.ns2cloud.com/learning/user/catalogsearch/catalogSearchDispatchAction.do?searchType=filteredSearch&keywords=idp#)     | OLU course on how to develop and manage an IDP                             |
+| Site                                                                                                                                                      | Description                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Online University (OLU)](https://gsaolu.gsa.gov/)                                                                                                        | Site where IDPs are created                                       |
+| [IDP OLU Guide](https://corporateapps.gsa.gov/files/IDP-Job-Aid-for-Employees.pdf)                                                                        | Step-by-step guide for creating and accessing IDPs in Salesforce  |
+| [IDP Overview](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan)                                    | Provides info on common goals for IDPs and why they are important |
+| [IDP Employee Tool Kit](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan/idp-employee-tool-kit)     | Provides video guides for entering IDPs                           |
+| [IDP Supervisor Tool Kit](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan/idp-supervisor-tool-kit) | Provides video guides for approving IDPs                          |
+| [IDP OLU Training](https://gsa-hcm03.ns2cloud.com/learning/user/catalogsearch/catalogSearchDispatchAction.do?searchType=filteredSearch&keywords=idp#)     | OLU course on how to develop and manage an IDP                    |
 
 ## Common goals of an IDP
 
@@ -37,9 +36,9 @@ An Individual Development Plan (IDPs) is a tool to help an employee enhance thei
 
 ## IDPs and conference, event, and training requests
 
-An SF-182 is required for most conference, event, and training requests that have registration and/or travel costs. The SF-182 will need to be linked to an IDP that is updated with the conference, event, or training that you're attending and is approved by your supervisor.
+An IDP is no longer required for requests, but an SF-182 is required for most conference, event, and training requests that have a cost.
 
-For more information on the SF-182 process, head over to the [Conferences, events, and training handbook page]({{site.baseurl}}/conferences-events-training/#creating-an-sf-182-required-for-most-conference-event-and-training-requests-that-have-registration-andor-travel-costs).
+For more information on the SF-182 process, head over to the [Conferences, events, and training handbook page]({{site.baseurl}}/conferences-events-training/#creating-an-sf-182-required-for-most-conference-event-and-training-requests-that-have-a-cost).
 
 ## More resources
 
