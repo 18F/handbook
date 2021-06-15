@@ -39,7 +39,7 @@ Any false positives should be documented as such, through an "ignore" file (e.g.
 
 ### ATO Scanning
 
-#### Getting ready to scan
+**Getting ready to scan**
 
 The system's technical stack needs to be relatively stable before authorization.
 
@@ -55,7 +55,7 @@ Ensure that your site is scannable by automated tools. For example, if you have 
 
 Lastly, make sure the `README` file in your repo is fully up to date and clearly explains what the system does and why at a high level. You should also include the above information in your `README`.
 
-#### Greybox testing
+**Greybox testing**
 
 Once you are ready, the [GSA OCISO](https://insite.gsa.gov/portal/content/527517) team will start both automated and manual scanning and testing. This includes:
 
@@ -67,7 +67,7 @@ For greybox testing, the testing team has significant (but not necessarily compl
 
 All of these tests must be conducted on an environment that is _identical to production_ and ideally is set up specifically for this scanning process. This also requires creating a stable `release` branch. You can continue working on `main` and deploy builds from `main` to a development environment.
 
-#### Expectation management
+**Expectation management**
 
 Overall, if _no_ vulnerabilities are found, this process has been taking approximately 2 weeks for test preparation and [System Security Plan]({{site.baseurl}}/lifecycle/#system-security-plan) writing and 2 weeks for [greybox testing](#greybox-testing) and [signature](https://atos.open-control.org/steps/#step-5-authorize-information-system). FISMA Moderate and FISMA High will require additional time.
 
@@ -99,7 +99,7 @@ There are tools for JS, Ruby, and Python, and you are encouraged to set up this 
 
 Use one of the services above, which should support adding public repositories yourself. If you need scanning on a private repository, [file an issue in the Infrastructure repo](https://github.com/18F/Infrastructure/issues/new).
 
-#### Snyk
+**Snyk**
 
 When starting a new project for an agency partner, consider [creating a new Snyk organization](https://snyk.io/docs/orgs#creating-a-new-organisation) for your project and [invite the agency partners (in addition to the TTS team)](https://snyk.io/docs/orgs#collaborating-with-team-members). This will facilitate the project's hand-off in the future.
 
@@ -109,7 +109,7 @@ For repositories which include multiple dependency manifests (e.g. due to multip
 
 This is commonly referred to as "static analysis". Code analysis can be done by a [service](#recommendations-by-language) (recommended), or within your existing continuous integration tool. Additional configuration information available below.
 
-#### Config files
+**Config files**
 
 Basic config files for some static analysis tools can be found in the [compliance-toolkit repo](https://github.com/18F/compliance-toolkit). These currently are little more than the default settings, but the recommendations may change. If you find a test that you believe is invalid, file an issue in the repo.
 
@@ -174,13 +174,13 @@ Using the the [Quick Start](https://github.com/zaproxy/zap-core-help/wiki/HelpAd
 
 ### Examining the Results
 
-#### The Spider
+**The Spider**
 
 ![spider results]({{site.baseurl}}/images/before-you-ship/spider_results.png)
 
 As configured, the Spider does not follow links to other domains or subdomains. If your project uses either (for example, you use S3 for assets, or the api is at a different sub domain), you will want to click <img class="inline" src="{{site.baseurl}}/images/before-you-ship/zap_options.png" alt="small options icon"/> and update the options to include the domains & subdomains within the scope. There is a guide available for those options [here](https://github.com/zaproxy/zap-core-help/wiki/HelpUiDialogsOptionsSpider).
 
-#### Alerts
+**Alerts**
 
 ![alert results]({{site.baseurl}}/images/before-you-ship/alert_results.png)
 
@@ -192,7 +192,7 @@ If you're running the attack against a local server you may see some alerts that
 
 ### Other Tools Within ZAP
 
-#### Fuzzing
+**Fuzzing**
 
 ["Fuzzing"](https://en.wikipedia.org/wiki/Fuzz_testing) refers to feeding a large amount of random (and/or potentially malicious) data to an application with the intention of finding vulnerabilities related to poor error handling or incomplete input validation. Typically, fuzzing is used on query parameters and form fields.
 
@@ -216,17 +216,17 @@ Organized by language.
 
 - See info on JavaScript [static security analysis](#recommendations-by-language)
 
-#### [Express](https://expressjs.com/)
+**[Express](https://expressjs.com/)**
 
 - [Express Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
 
-#### [Sails](http://sailsjs.org/)
+**[Sails](http://sailsjs.org/)**
 
 - [Sails Security](http://sailsjs.org/documentation/concepts/security)
 
 ### [Python](https://www.python.org/)
 
-#### [Django](https://www.djangoproject.com/)
+**[Django](https://www.djangoproject.com/)**
 
 - Set up [static security analysis](#recommendations-by-language).
 - Read through the official [deployment checklist](https://docs.djangoproject.com/en/stable/howto/deployment/checklist/).
@@ -238,7 +238,7 @@ See also:
 - Jacob Kaplan-Moss' talk: [Python vs. the OWASP Top 10](https://www.youtube.com/watch?v=sra9x44lXgU) ([slides](https://speakerdeck.com/jacobian/python-vs-the-owasp-top-10))
 - [Security in Django](https://docs.djangoproject.com/en/1.10/topics/security/)
 
-#### [Flask](http://flask.pocoo.org/)
+**[Flask](http://flask.pocoo.org/)**
 
 - Set up [static security analysis](#recommendations-by-language)
 - Read through the [official security docs](http://flask.pocoo.org/docs/security/)
@@ -251,7 +251,7 @@ See also:
 
 ### [Ruby](https://www.ruby-lang.org/)
 
-#### [Rails](http://rubyonrails.org/)
+**[Rails](http://rubyonrails.org/)**
 
 - Set up [static security analysis](#recommendations-by-language).
 - Read through [Secure Rails](https://github.com/ankane/secure_rails).
@@ -264,7 +264,7 @@ More info:
 - [Rails Security Guide](http://guides.rubyonrails.org/security.html)
 - [OWASP Rails Cheatsheet](https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet)
 
-#### [Sinatra](http://www.sinatrarb.com/)/[Padrino](http://padrinorb.com/)
+**[Sinatra](http://www.sinatrarb.com/)/[Padrino](http://padrinorb.com/)**
 
 - Set up [static security analysis](#recommendations-by-language). We are currently seeking recommendations for this configuration.
 - Ensure that [rack-protection](https://github.com/sinatra/rack-protection) and/or [SecureHeaders](https://github.com/twitter/secureheaders) is enabled and configured.
