@@ -1,13 +1,12 @@
 ---
 title: Security
-permalink: "/before-you-ship/security"
 ---
 
 ## General Security Standards
 
 In the Federal government, the principal law governing the security of information systems is the Federal Information Security Modernization Act (FISMA). For more information on FISMA, check out the [FISMA Implementation Project ](https://csrc.nist.gov/projects/risk-management), which will help you stay up to date and in the know about all things FISMA. If you're inclined to see TTS' intepretation of FISMA from a user-center approach, take a look at a previous project from the TTS Tech Portfolio and cloud.gov known as [FISMA Ready](https://github.com/fisma-ready/introduction).
 
-Most of the security practices have been integrated into the [ATO](../ato) portion of this guide and summarized in this [slide deck](https://docs.google.com/presentation/d/1IJurX7Jc5XAQqmJSZtGZeJ8pk3IMfEIMRh1frmCpHlA/edit#slide=id.g601ed6ebc1_0_496) from one of the 18F engineers. Here are a few pointers to get you started:
+Most of the security practices have been integrated into the [ATO](/lifecycle/atos) portion of this guide and summarized in this [slide deck](https://docs.google.com/presentation/d/1IJurX7Jc5XAQqmJSZtGZeJ8pk3IMfEIMRh1frmCpHlA/edit#slide=id.g601ed6ebc1_0_496) from one of the 18F engineers. Here are a few pointers to get you started:
 
 - DevOps isn't a team at TTS, but a skillset. We are all responsible for the security and operations of our systems.
 - The security of our users' information is paramount, even moreso when it is [personally identifiable information (PII)](../privacy/). The types of information your system may process helps determine the type of ATOs available to you and [whether or not you will need to conduct a Privacy Impact Assessment (PIA)](../privacy/).
@@ -21,8 +20,8 @@ Most of the security practices have been integrated into the [ATO](../ato) porti
 
 Security scanning is separated into a few categories:
 
-- [Static](../static-analysis/): Static Code Analysis (SCA) is similar to the [linters](<https://en.wikipedia.org/wiki/Lint_(software)>) that many developers use on a day-to-day basis. While many linters focus on stylistic concerns, we are interested in those tools that target security flaws.
-- [Dynamic](../dynamic-scanning/)
+- [Static](#static-analysis/): Static Code Analysis (SCA) is similar to the [linters](<https://en.wikipedia.org/wiki/Lint_(software)>) that many developers use on a day-to-day basis. While many linters focus on stylistic concerns, we are interested in those tools that target security flaws.
+- [Dynamic](#dynamic-scanning)
   - Active
     - Antivirus and malware scanning
     - Infrastructure-level scan (done at the cloud.gov level)
@@ -70,7 +69,7 @@ All of these tests must be conducted on an environment that is _identical to pro
 
 #### Expectation management
 
-Overall, if _no_ vulnerabilities are found, this process has been taking approximately 2 weeks for test preparation and [System Security Plan](../../ato/ssp/) writing and 2 weeks for [greybox testing](#greybox-testing) and [signature](https://atos.open-control.org/steps/#step-5-authorize-information-system). FISMA Moderate and FISMA High will require additional time.
+Overall, if _no_ vulnerabilities are found, this process has been taking approximately 2 weeks for test preparation and [System Security Plan](/lifecycle/#system-security-plan) writing and 2 weeks for [greybox testing](#greybox-testing) and [signature](https://atos.open-control.org/steps/#step-5-authorize-information-system). FISMA Moderate and FISMA High will require additional time.
 
 Since the time it would take to resolve vulnerabilities is not known until a vulnerability is identified, it is **strongly recommended** that no expectations are set with Federal partners or GSA stakeholders when public testing will begin. Instead, we recommend that the authorization process is seen as part of the delivery process and your definition of "done".
 
@@ -127,7 +126,7 @@ In order for an application to get ATO, it needs to meet more than a minimum lev
 
 As part of the process of getting an ATO at TTS, **your application team will need to set up [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) to do dynamic vulnerability scanning of your application**. ZAP can function as either an active (Spider & Attack options) or a passive (man-in-the-middle/proxy) scanner, but is usually used as a combination of both. If you (or another person on your application team) has questions about setting this up, ask #infrastructure for help.
 
-![ZAP home screen](../../assets/images/zap_home.png)
+![ZAP home screen]({{site.baseurl}}/images/before-you-ship/zap_home.png)
 
 ### Preface
 
@@ -168,7 +167,7 @@ Using the the [Quick Start](https://github.com/zaproxy/zap-core-help/wiki/HelpAd
    1. In the `Active Scan` window, follow the same `Starting point` steps as above.
 1. View the alerts.
    1. Click the `Alerts` tab.
-   1. Above the `Alerts` list, click the ![target icon](../../assets/images/zap_target.png) (so that it turns red) to `Show only URLs in scope`.
+   1. Above the `Alerts` list, click the ![target icon]({{site.baseurl}}/images/before-you-ship/zap_target.png) (so that it turns red) to `Show only URLs in scope`.
 1. [Investigate the listed alerts.](#alerts)
 1. Export the results.
    1. In the menu bar, go to `Report` -> `Generate HTML Report`.
@@ -177,13 +176,13 @@ Using the the [Quick Start](https://github.com/zaproxy/zap-core-help/wiki/HelpAd
 
 #### The Spider
 
-![spider results](../../assets/images/spider_results.png)
+![spider results]({{site.baseurl}}/images/before-you-ship/spider_results.png)
 
-As configured, the Spider does not follow links to other domains or subdomains. If your project uses either (for example, you use S3 for assets, or the api is at a different sub domain), you will want to click <img class="inline" src="../../assets/images/zap_options.png" alt="small options icon"/> and update the options to include the domains & subdomains within the scope. There is a guide available for those options [here](https://github.com/zaproxy/zap-core-help/wiki/HelpUiDialogsOptionsSpider).
+As configured, the Spider does not follow links to other domains or subdomains. If your project uses either (for example, you use S3 for assets, or the api is at a different sub domain), you will want to click <img class="inline" src="{{site.baseurl}}/images/before-you-ship/zap_options.png" alt="small options icon"/> and update the options to include the domains & subdomains within the scope. There is a guide available for those options [here](https://github.com/zaproxy/zap-core-help/wiki/HelpUiDialogsOptionsSpider).
 
 #### Alerts
 
-![alert results](../../assets/images/alert_results.png)
+![alert results]({{site.baseurl}}/images/before-you-ship/alert_results.png)
 
 The Alerts pane lists all alerts discovered while scanning the site. As described on the [alerts page](../scanning#alerts), the red and orange-flagged alerts must be taken care of before the application can be ATO'd. You have a little more flexibility when dealing with the yellow and blue flags, but all of them must be either corrected or, in the case of false positives, documented.
 
@@ -287,4 +286,4 @@ All TTS systems requiring authentication **must** use multiple factors. Examples
 - [**OMB Max**](https://max.gov/) - requires an Inter-Agency Agreement
 - [**Login.gov**](https://login.gov) - requires an Memorandum of Understanding for new agencies
 
-Systems in the [pre-assessment](../../ato/types/#conditions-for-pre-assessment) phase do not require MFA.
+Systems in the [pre-assessment](/lifecycle/#conditions-for-pre-assessment) phase do not require MFA.
