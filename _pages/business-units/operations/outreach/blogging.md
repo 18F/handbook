@@ -17,10 +17,10 @@ The 18F blog is a place where we share what we’ve learned, what we’ve made, 
 
 In sum, our goals are:
 
--   To support and highlight the operational excellence our employees’ daily work provides to GSA, the federal government, and the public
--   To strengthen our partnership with other federal agencies
--   To strengthen our relationship with the public and people who might want to join 18F
--   To actively promote innovation in government, wherever it’s happening
+- To support and highlight the operational excellence our employees’ daily work provides to GSA, the federal government, and the public
+- To strengthen our partnership with other federal agencies
+- To strengthen our relationship with the public and people who might want to join 18F
+- To actively promote innovation in government, wherever it’s happening
 
 ### Execution
 
@@ -32,13 +32,13 @@ The blog is further supported by volunteer writers across 18F. Team contribution
 
 We assess every post to ensure it adheres to our mission, as outlined above. Being this open about all aspects of our work is atypical for a government agency, and, accordingly, we expect to proactively share our reasoning for why we make certain editorial decisions. We acknowledge the need to show strategy and data that supports our ambition.
 
-
 ## Blog management
+
 We use a combination of a [private GitHub repo](https://github.com/18f/blog-drafts), a [private kanban board](https://github.com/18F/blog-drafts/projects/1), and an [editorial calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_pkkbf53u1m6is9gi76v1l8i5j8%40group.calendar.google.com&ctz=America/New_York) to manage the blog editing and approval process. Blog posts are drafted in Google Docs, editing is managed in GitHub, the process is tracked with the kanban board, and posts are scheduled on the calendar. We discuss all of this in the #blog Slack channel.
 
 Head over to the [blog-drafts README](https://github.com/18F/blog-drafts/blob/master/README.md) for detailed instructions on how to get your blog post published, correctly fill out blog post metadata, and rules for tagging.
 
-##  Writing a great post
+## Writing a great post
 
 ### Keep it user centered
 
@@ -56,17 +56,17 @@ It’s crucial to decide on your target audience before you start drafting a blo
 
 For this type of user story, you can use this simple format:
 
->As a *type of audience*, I want *to learn something*, so that *some benefit is had*.
+> As a _type of audience_, I want _to learn something_, so that _some benefit is had_.
 
 If you’re writing about a new service that 18F is offering, your user story might be:
 
->“As a *Chief Information Officer*, I want *to learn about the specifics of 18F’s new service*, so that *I can see if it will help me modernize my agency’s technology*.”
+> “As a _Chief Information Officer_, I want _to learn about the specifics of 18F’s new service_, so that _I can see if it will help me modernize my agency’s technology_.”
 
 This narrow focus will help you decide a number of things. Because your audience is federal technologists, you can assume a certain familiarity with government processes and terms. This allows you to go a little deeper into government procedure and some of the nitty-gritty of how this product works. You might also choose to use a slightly more formal tone for this post since this could be the opening message in a businesses conversation.
 
 If you’re writing about a new little tool you built while working on a larger project, your user story might be:
 
->“As a *member of the open source community*, I want *to know what this tool does*, so that *I can contribute back to the code*.”
+> “As a _member of the open source community_, I want _to know what this tool does_, so that _I can contribute back to the code_.”
 
 Using this framework for your post, you can be more technical, more enthusiastic about your small solution, and use a more informal tone appropriate for the open source community. You would also be sure to include links for readers who want to dive into the code and get involved.
 
@@ -80,122 +80,122 @@ Below are a number of outlines for the types of blog posts we typically write at
 
 #### Grand idea project launch — [example](https://18f.gsa.gov/2015/10/29/welcome-to-betafec/)
 
-  -   What we launched
-  -   The problem we addressed
-      -   Include brief background information on partner
-  -   How we solved the problem
-  -   One interesting fact about the development process
-      -   Or, how this project fits into larger 18F values
-  -   What’s next
-  -   Call to action
+- What we launched
+- The problem we addressed
+  - Include brief background information on partner
+- How we solved the problem
+- One interesting fact about the development process
+  - Or, how this project fits into larger 18F values
+- What’s next
+- Call to action
 
 #### One detail product launch — [example](https://18f.gsa.gov/2016/04/20/a-clear-audience-makes-for-a-good-blog-post/)
 
--   What we launched
-    -   But I want to focus on this one detail
--   Explanation of detail and why it’s interesting
--   Connection to larger 18F values or methods
--   Summary of other things people can find in the product
--   Call to action to explore product or otherwise engage
+- What we launched
+  - But I want to focus on this one detail
+- Explanation of detail and why it’s interesting
+- Connection to larger 18F values or methods
+- Summary of other things people can find in the product
+- Call to action to explore product or otherwise engage
 
 #### Product update — [example](https://18f.gsa.gov/2017/02/02/cloud-gov-is-now-fedramp-authorized/)
 
--   What’s the new feature
--   Link and summary of previous work
--   Deeper explanation of the feature
--   Explanation of either an interesting technical detail of the feature or an important step in the development of the feature
--   Connect the feature back to the central mission of the partner or product
--   Next steps for the team
+- What’s the new feature
+- Link and summary of previous work
+- Deeper explanation of the feature
+- Explanation of either an interesting technical detail of the feature or an important step in the development of the feature
+- Connect the feature back to the central mission of the partner or product
+- Next steps for the team
 
 #### One thing I learned — [example](https://18f.gsa.gov/2016/08/29/data-act-prototype-simplicty-is-key/)
 
--   Brief explanation of your project and your work on that project
--   Introduction of interesting thing you learned
--   Further explanation of what you learned
--   The impact this thing had on your work
--   How this is relevant to other projects/teams
--   Point to documentation or artifact if it exists
--   Question or call to action
+- Brief explanation of your project and your work on that project
+- Introduction of interesting thing you learned
+- Further explanation of what you learned
+- The impact this thing had on your work
+- How this is relevant to other projects/teams
+- Point to documentation or artifact if it exists
+- Question or call to action
 
 #### Retrospective — [example](https://18f.gsa.gov/2016/07/07/when-a-micropurchase-doesnt-work-out-we-try-to-learn-from-it/)
 
--   Explanation of agile retrospectives and why this was a notable one
--   Background on product/team/process that was being retroed
--   What we did in the retro
--   What we learned
--   How we’ve used that to change something
--   Next steps
+- Explanation of agile retrospectives and why this was a notable one
+- Background on product/team/process that was being retroed
+- What we did in the retro
+- What we learned
+- How we’ve used that to change something
+- Next steps
 
 #### Technical explanation — [example](https://18f.gsa.gov/2016/04/08/how-we-get-high-availability-with-elasticsearch-and-ruby-on-rails/)
 
--   Explanation of the product or feature this technical explanation applies to
--   Your goal in developing this technical fix
--   What you did
--   Why you did it
--   How this has positively impacted your project
--   Connection to 18F value
--   How this can be reused outside your project
--   Call to reuse/adapt
+- Explanation of the product or feature this technical explanation applies to
+- Your goal in developing this technical fix
+- What you did
+- Why you did it
+- How this has positively impacted your project
+- Connection to 18F value
+- How this can be reused outside your project
+- Call to reuse/adapt
 
 ### Writing about non-18F work
 
 #### Highlight of federal innovation separate from 18F work — [example](https://18f.gsa.gov/2016/05/24/the-user-centered-redesign-of-identitytheft-gov/)
 
--   Brief introduction on the work
-    -   If 18F has worked with this agency on a separate project, mention our previous work
--   Explanation of the problem they were trying to solve
--   Explanation of how they solved it
--   Connection to how 18F uses similar techniques or developed similar projects
--   Concluding paragraph on general trend/innovation in government
+- Brief introduction on the work
+  - If 18F has worked with this agency on a separate project, mention our previous work
+- Explanation of the problem they were trying to solve
+- Explanation of how they solved it
+- Connection to how 18F uses similar techniques or developed similar projects
+- Concluding paragraph on general trend/innovation in government
 
 #### Highlight of innovative work elsewhere in TTS or GSA — [example](https://18f.gsa.gov/2016/10/14/iterative-workplace-design-denver-federal-center/)
 
--   Explanation of what happened
--   Why this is great and connects to 18F principles or projects
--   Further explanation of what happened
--   Hopes for positive outcome from this work
--   Call to action or link to additional work by TTS/GSA
+- Explanation of what happened
+- Why this is great and connects to 18F principles or projects
+- Further explanation of what happened
+- Hopes for positive outcome from this work
+- Call to action or link to additional work by TTS/GSA
 
 #### Outside adaptation or use of an 18F product — [example](https://18f.gsa.gov/2015/11/10/boston-is-using-gsa-calc-tool/)
 
--   Who, what, when of someone reusing or adapting an 18F product
--   Original reason for this product. How it’s being reused/adapted
--   Quote from outside organization
--   Connection to 18F value or principle
--   Excitement about adoption or opportunities
--   Link to additional blog posts on reuse (even if about other products)
+- Who, what, when of someone reusing or adapting an 18F product
+- Original reason for this product. How it’s being reused/adapted
+- Quote from outside organization
+- Connection to 18F value or principle
+- Excitement about adoption or opportunities
+- Link to additional blog posts on reuse (even if about other products)
 
 ### Writing about ideas and policies
 
 #### How to/Guide — [example](https://18f.gsa.gov/2015/11/20/how-we-use-a-lean-approach-to-product-design/)
 
--   What this guide will teach you
--   Who this guide is useful for
--   Summary of guide content
-    -   Multiple headings, paragraphs with bolded intros, or a bulleted list are best
-    -   Concise explanations with code samples if applicable
-    -   Downloadable artifacts if applicable
--   Why we think this type of information is useful
-    -   And how it’s improved our projects
--   Call to action and links to additional resources
+- What this guide will teach you
+- Who this guide is useful for
+- Summary of guide content
+  - Multiple headings, paragraphs with bolded intros, or a bulleted list are best
+  - Concise explanations with code samples if applicable
+  - Downloadable artifacts if applicable
+- Why we think this type of information is useful
+  - And how it’s improved our projects
+- Call to action and links to additional resources
 
 #### Culture or principle explanation — [example](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)
 
--   Brief explanation of cultural value and why it’s good
--   The cultural idea or practice you want to talk about
--   How this came about
--   How we do this in practice
--   The positive effects we’ve seen
--   Next steps or ways we want to refine this practice
--   Question for readers
+- Brief explanation of cultural value and why it’s good
+- The cultural idea or practice you want to talk about
+- How this came about
+- How we do this in practice
+- The positive effects we’ve seen
+- Next steps or ways we want to refine this practice
+- Question for readers
 
 #### Announcement of large changes or new policies — [example](https://18f.gsa.gov/2016/11/22/a-vulnerability-disclosure-policy-for-the-technology-transformation-service/)
 
--   Announcement of new change
--   2 additional important details
--   How this change fits into larger 18F principles or goals
--   Additional small or technical details
--   Thanks, connection back to policy and moving forward
+- Announcement of new change
+- 2 additional important details
+- How this change fits into larger 18F principles or goals
+- Additional small or technical details
+- Thanks, connection back to policy and moving forward
 
 ## Authorship
 

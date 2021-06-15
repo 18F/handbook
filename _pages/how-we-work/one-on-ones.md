@@ -11,7 +11,7 @@ tweaks, to other situations.
 The fundamental purpose of 1:1s is **to build a relationship**. Strong
 relationships are the cornerstone of leadership: everything else we do
 becomes easier when we have strong relationships. At TTS, 1:1s help
-managers fulfill our mission of *servant leadership*: we can better help
+managers fulfill our mission of _servant leadership_: we can better help
 the people on our team when we have a strong enough relationship that
 they feel comfortable asking for help.
 
@@ -21,24 +21,24 @@ getting starting holding 1:1s can be daunting to people who haven’t done
 it before, this document provides a model as a starting point. Here’s
 the basic model:
 
--   Hold **half-hour 1:1s weekly**, and **never miss them**
-    (rescheduling is OK).
+- Hold **half-hour 1:1s weekly**, and **never miss them**
+  (rescheduling is OK).
 
--   1:1s are work meetings, so **have a consistent agenda**. A good one
-    is: ten minutes for them, ten minutes for you, ten minutes to talk
-    about the future.
+- 1:1s are work meetings, so **have a consistent agenda**. A good one
+  is: ten minutes for them, ten minutes for you, ten minutes to talk
+  about the future.
 
--   **The most important part of the agenda is your partner’s**. Let
-    them lead the conversation, even if it means skipping whatever
-    you’ve got on your agenda.
+- **The most important part of the agenda is your partner’s**. Let
+  them lead the conversation, even if it means skipping whatever
+  you’ve got on your agenda.
 
 That’s the summary; the rest of this document goes into (much) more
-detail on the [mechanics](#basic-mechanics), 
+detail on the [mechanics](#basic-mechanics),
 [specifics of the agenda](#what-should-i-say-or-do-during-their-part), and
 [further reading](#further-reading).
 
 Finally, note that 1:1s are a tool, not the point in their own right. At
-the end of this document there are few notes on [alternate strategies](#alternate-strategies) 
+the end of this document there are few notes on [alternate strategies](#alternate-strategies)
 for fulfilling the relationship-building goals of 1:1s. Experimentation is
 in our DNA; please feel free to use this as a starting point to find
 what works!
@@ -105,7 +105,7 @@ effective:
 One-to-ones are meetings, and **effective meetings have agendas**. A
 common mistake is to schedule 1:1s regularly, but not use the time
 effectively. Talking about sports or the weather every week might help
-build a relationship, but probably not a good *working* relationship --
+build a relationship, but probably not a good _working_ relationship --
 and, more importantly, it’s not a valuable use of anyone’s time.
 
 So, effective 1:1s should have an agenda. There are probably many
@@ -130,12 +130,12 @@ first a few principles:
     about how your team is doing, and if you follow a consistent
     agenda it’ll be easier to notice when things change (and ask about
     it).
-    
+
     Some managers (I’m one) like to kick off the 1:1 with the same
     exact words each week, just to sort of signal the entrance to the
     1:1 space. Some examples: “How are you?” “How’s it going?” “What’s
     on your mind?” “How’d last week go?”
-    
+
     Along the same lines, you may want to end each meeting with a
     similar, consistent question. For example, Holly ends every 1:1
     I’ve had with her with “How can I help you this week?” Questions
@@ -159,23 +159,23 @@ each is a fine rough guideline, though holding to this rigidly isn’t
 important -- it’d be weird to say “OK, your ten minutes are up, moving
 on”. This is a good template for a few reasons:
 
--  It puts the partner’s agenda first, which emphasizes the importance
-   of their items, and ensures that if anything is especially “meaty”
-   you can spend more than the suggested ten minutes talking through
-   their stuff. In practice you’ll probably find that many weeks you
-   spend the entire time on their agenda -- and that’s OK. That’s why
-   we put it first!
+- It puts the partner’s agenda first, which emphasizes the importance
+  of their items, and ensures that if anything is especially “meaty”
+  you can spend more than the suggested ten minutes talking through
+  their stuff. In practice you’ll probably find that many weeks you
+  spend the entire time on their agenda -- and that’s OK. That’s why
+  we put it first!
 
--  It speaks to the “shared” nature of the meeting: it’s primarily your
-   partner’s agenda, but you’ll typically have some things to cover,
-   too, so it reminds both of you to move on to that.
+- It speaks to the “shared” nature of the meeting: it’s primarily your
+  partner’s agenda, but you’ll typically have some things to cover,
+  too, so it reminds both of you to move on to that.
 
--  It reminds you to spend some time on the long view, rather than just
-   the day-to-day. In practice, it’s rare to talk long-term goals
-   every week -- long term work takes time, and doesn’t often
-   change week-to-week. So, most weeks, you can end early. But,
-   having the long-term on the standing agenda helps remind both of
-   you to revisit it when needed.
+- It reminds you to spend some time on the long view, rather than just
+  the day-to-day. In practice, it’s rare to talk long-term goals
+  every week -- long term work takes time, and doesn’t often
+  change week-to-week. So, most weeks, you can end early. But,
+  having the long-term on the standing agenda helps remind both of
+  you to revisit it when needed.
 
 Again, there are probably many different effective agendas for a 1:1,
 but this format is simple, flexible, and hits all the goals laid out
@@ -189,8 +189,8 @@ More details on each of those “three parts” follows:
 Generally: not much! Most of the time, you’ll just want to **listen
 and [take notes](#taking-notes)**. This doesn’t mean be completely
 quiet: you’ll want to ask follow-ups, make sure you understand, and
-signal that you’re following along (a.k.a. [*active
-listening*](https://en.wikipedia.org/wiki/Active_listening)). But most
+signal that you’re following along (a.k.a. [_active
+listening_](https://en.wikipedia.org/wiki/Active_listening)). But most
 of the time during this part you should be listening, not talking.
 
 You do want to try to steer things towards work. Small talk is fine:
@@ -222,47 +222,47 @@ idea of what you need to discuss based on whatever’s going on for you
 and your partner. That said, here are a few ideas of things you might
 want to think about discussing:
 
--   **Follow-ups** on actions/tasks from previous 1:1s: if either of you
-    had actions/tasks that came out of your previous 1:1(s), it’s a
-    good idea to follow-up on them and see where they stand. This is
-    another reason why [taking notes](#taking-notes) is useful:
-    it’ll help you remember to check in on actions as appropriate.
+- **Follow-ups** on actions/tasks from previous 1:1s: if either of you
+  had actions/tasks that came out of your previous 1:1(s), it’s a
+  good idea to follow-up on them and see where they stand. This is
+  another reason why [taking notes](#taking-notes) is useful:
+  it’ll help you remember to check in on actions as appropriate.
 
--   **“Current Events”**: after major announcements, or big changes, or
-    any sort of “large” event in the organization at large, following
-    up at the next 1:1 is a good idea. Most people need a bit of time
-    to process change, and they’ll appreciate being able to talk
-    through how it affects them in a private setting. If you’ve built
-    a good relationship, it can be the only place where someone feels
-    comfortable raising concerns. And, if there’s some action people
-    need to take, they’re going to be much more likely to get it done
-    if you reinforce the request by following up individually.
+- **“Current Events”**: after major announcements, or big changes, or
+  any sort of “large” event in the organization at large, following
+  up at the next 1:1 is a good idea. Most people need a bit of time
+  to process change, and they’ll appreciate being able to talk
+  through how it affects them in a private setting. If you’ve built
+  a good relationship, it can be the only place where someone feels
+  comfortable raising concerns. And, if there’s some action people
+  need to take, they’re going to be much more likely to get it done
+  if you reinforce the request by following up individually.
 
--   **Feedback**: this is a big topic, more than can be covered here.
-    That said, 1:1s are a great time to deliver feedback. Indeed, a
-    major reason to have regular 1:1s is to build the relationship and
-    space where delivering feedback is easier.
+- **Feedback**: this is a big topic, more than can be covered here.
+  That said, 1:1s are a great time to deliver feedback. Indeed, a
+  major reason to have regular 1:1s is to build the relationship and
+  space where delivering feedback is easier.
 
--   **Coaching/mentoring**: if you’re working with someone on an ongoing
-    basis, helping them learn or work on new skills, your weekly 1:1
-    is a great time to check in on goals, discuss progress, provide
-    pointers on direction, etc.
+- **Coaching/mentoring**: if you’re working with someone on an ongoing
+  basis, helping them learn or work on new skills, your weekly 1:1
+  is a great time to check in on goals, discuss progress, provide
+  pointers on direction, etc.
 
--   **Conversations about Diversity and Inclusion**: TTS highly values
-    diversity and inclusion, but talking about these topics can be
-    difficult -- especially for those to whom these are new topics.
-    For example, some people new to TTS are confused by the “guysbot”
-    in Slack, but may not feel comfortable asking about it publically.
-    Once you’ve spent some time building the relationship, your 1:1
-    can become an excellent place to talk with people about diversity
-    and inclusion in a friendly, non-judgemental way.
+- **Conversations about Diversity and Inclusion**: TTS highly values
+  diversity and inclusion, but talking about these topics can be
+  difficult -- especially for those to whom these are new topics.
+  For example, some people new to TTS are confused by the “guysbot”
+  in Slack, but may not feel comfortable asking about it publically.
+  Once you’ve spent some time building the relationship, your 1:1
+  can become an excellent place to talk with people about diversity
+  and inclusion in a friendly, non-judgemental way.
 
--   **Question of the Week**: some managers like to have prepare a
-    “question of the week” that they ask in all their 1:1s. Sometimes
-    this can help with the “data collection” part of management, or it
-    can just prompt discussion. There are some great resources in the
-    [*Further Reading*](#further-reading) section below that can help
-    provide potential topics, or you can of course bring your own.
+- **Question of the Week**: some managers like to have prepare a
+  “question of the week” that they ask in all their 1:1s. Sometimes
+  this can help with the “data collection” part of management, or it
+  can just prompt discussion. There are some great resources in the
+  [_Further Reading_](#further-reading) section below that can help
+  provide potential topics, or you can of course bring your own.
 
 Of course, these are just starting points. As you practice and build
 your relationships, you’ll find what works best for you and the folks
@@ -302,7 +302,7 @@ in learning Go. The discussion might go something like this:
 > You: Great, good luck! I’m sure if you run into trouble you could ask
 > someone in \#go for help.
 
-*\[two weeks later\]*
+_\[two weeks later\]_
 
 > You: Hey, how’d the Tour of Go exercise go?
 >
@@ -314,14 +314,13 @@ in learning Go. The discussion might go something like this:
 >
 > You: Great, do you have any projects yet?
 
-
-*\[and so forth...\]*
+_\[and so forth...\]_
 
 The thing about long-term goals is that it’s easy to not make any
 progress on them. It’s far too easy to push off long-term personal
 improvement when faced with the day-today. So -- somewhat
 counterintuitively -- in order to be really supportive you do need to
-push a bit. Of course, you don’t want to be *too* pushy, but it’s
+push a bit. Of course, you don’t want to be _too_ pushy, but it’s
 completely fine to ask for goals and gently hold people accountable to
 the goals they set.
 
@@ -369,84 +368,85 @@ anything that you decide during the meetings.
 There is a **ton** of material out there on 1:1s! Here are just some of
 them that other people at TTS have found useful in learning more:
 
--   [*Experience Design's 1:1
-    guide*](https://docs.google.com/document/d/1rghReSVYoWSnYvfo8ZP_Fr9xJRznEuGXw3rsc-Z58v0/edit)
-    and [*one-page
-    version*](https://drive.google.com/a/gsa.gov/file/d/0B_NVRFrsefnvaDdRRTh3ZnFGeDg/view) (18F)
-    — the guide that the XD chapter developed for 1:1s. It covers
-    similar ground to this guide.
+- [_Experience Design's 1:1
+  guide_](https://docs.google.com/document/d/1rghReSVYoWSnYvfo8ZP_Fr9xJRznEuGXw3rsc-Z58v0/edit)
+  and [_one-page
+  version_](https://drive.google.com/a/gsa.gov/file/d/0B_NVRFrsefnvaDdRRTh3ZnFGeDg/view) (18F)
+  — the guide that the XD chapter developed for 1:1s. It covers
+  similar ground to this guide.
 
--   [*The Update, The Vent, and The
-    Disaster*](https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/)
-    (Rands in Repose) — another short introduction to 1:1s, by Rands
-    (a well-regarded writer about engineering leadership).
+- [_The Update, The Vent, and The
+  Disaster_](https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/)
+  (Rands in Repose) — another short introduction to 1:1s, by Rands
+  (a well-regarded writer about engineering leadership).
 
--   [*One on One
-    Meetings*](https://www.wearecto2.com/blog/2015/9/9/one-on-one-meetings)
-    (Doc Norton) — yet another short introduction to 1:1s overall.
-    This one has a somewhat different suggested agenda, and some good
-    potential questions to ask.
+- [_One on One
+  Meetings_](https://www.wearecto2.com/blog/2015/9/9/one-on-one-meetings)
+  (Doc Norton) — yet another short introduction to 1:1s overall.
+  This one has a somewhat different suggested agenda, and some good
+  potential questions to ask.
 
--   [*Questions for our first
-    1:1*](https://larahogan.me/blog/first-one-on-one-questions/)
-    (Lara Hogan) — some really great questions to ask in a first 1:1
-    with a new team member. Or at any time, really: they’re good
-    conversation starters.
+- [_Questions for our first
+  1:1_](https://larahogan.me/blog/first-one-on-one-questions/)
+  (Lara Hogan) — some really great questions to ask in a first 1:1
+  with a new team member. Or at any time, really: they’re good
+  conversation starters.
 
--   [*Safari Books Better
-    1-1s*](https://www.safaribooksonline.com/blog/better-1-1s/)
-    (O’Reilly Media) — automated weekly emails with suggested
-    O3 topics.
+- [_Safari Books Better
+  1-1s_](https://www.safaribooksonline.com/blog/better-1-1s/)
+  (O’Reilly Media) — automated weekly emails with suggested
+  O3 topics.
 
--   Manager Tools’ [*One-on-Ones
-    podcast*](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1)
-    (first of 3 parts) — introduction to One-on-Ones from the Manager
-    Tools empire. The “10/10/10” format suggested above comes from
-    them, for example. If you like Managers Tools’ style, they have
-    [*many more podcasts on
-    1:1s*](https://www.manager-tools.com/map-universe/trinity-one-ones)
-    to listen to.
+- Manager Tools’ [_One-on-Ones
+  podcast_](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1)
+  (first of 3 parts) — introduction to One-on-Ones from the Manager
+  Tools empire. The “10/10/10” format suggested above comes from
+  them, for example. If you like Managers Tools’ style, they have
+  [_many more podcasts on
+  1:1s_](https://www.manager-tools.com/map-universe/trinity-one-ones)
+  to listen to.
 
--   [*Topics for Engineering Facilitator
-    Meetings*](https://docs.google.com/document/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit#heading=h.oqzmgpl64nct)
-    — suggested conversation starters for 1:1s (and group meetings,
-    too), collected by the Engineering chapter.
+- [_Topics for Engineering Facilitator
+  Meetings_](https://docs.google.com/document/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit#heading=h.oqzmgpl64nct)
+  — suggested conversation starters for 1:1s (and group meetings,
+  too), collected by the Engineering chapter.
 
 ## Alternate strategies
 
-As noted in the introduction, 1:1s are *a* tool (and a common one), but
-not necessarily the *only* tool. If they’re not working for you or your
+As noted in the introduction, 1:1s are _a_ tool (and a common one), but
+not necessarily the _only_ tool. If they’re not working for you or your
 partner, you should feel free to explore alternate strategies. Exploring
 alternate strategies completely is beyond the scope of this already-long
 document, but here are a couple of quick “sketches” about some
 alternatives that might be worth trying:
 
--   Small group meetings, such as the facilitation groups, can be more
-    effective support structures for certain kinds of problems (you
-    can see this overlap in the [*Topics for Engineering Facilitator
-    Meetings*](https://docs.google.com/document/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit#heading=h.oqzmgpl64nct)
-    document linked above). They can encourage the creation of a wider
-    relationship support network than just 1:1, and can provide a more
-    diverse set of options than a single person can. Conversely, it
-    can be harder to share certain kinds of problems with a larger
-    group than with a single person -- it’s probably harder to build
-    the same level of trust with 5-7 people as with a single one.
+- Small group meetings, such as the facilitation groups, can be more
+  effective support structures for certain kinds of problems (you
+  can see this overlap in the [_Topics for Engineering Facilitator
+  Meetings_](https://docs.google.com/document/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit#heading=h.oqzmgpl64nct)
+  document linked above). They can encourage the creation of a wider
+  relationship support network than just 1:1, and can provide a more
+  diverse set of options than a single person can. Conversely, it
+  can be harder to share certain kinds of problems with a larger
+  group than with a single person -- it’s probably harder to build
+  the same level of trust with 5-7 people as with a single one.
 
--   I have a friend who’s a VP at a manufacturing plant. She doesn’t
-    hold 1:1s with her staff, but instead “walks the floor” every day
-    and meets with each of them, quickly, to discuss the day’s goals,
-    problems on the floor, and such. If something big comes up,
-    they’ll schedule more time later in the day/week. In effect, she
-    replaces a longer weekly 1:1 with usually much shorter
-    (3-5 minute) daily individual check-ins.
-    
-    The mechanics of a “walk the floor” model would be different on a
-    distributed team, but it seems likely that a similar model could
-    be replicated with Slack taking the place of “walking the floor”.
+- I have a friend who’s a VP at a manufacturing plant. She doesn’t
+  hold 1:1s with her staff, but instead “walks the floor” every day
+  and meets with each of them, quickly, to discuss the day’s goals,
+  problems on the floor, and such. If something big comes up,
+  they’ll schedule more time later in the day/week. In effect, she
+  replaces a longer weekly 1:1 with usually much shorter
+  (3-5 minute) daily individual check-ins.
+
+  The mechanics of a “walk the floor” model would be different on a
+  distributed team, but it seems likely that a similar model could
+  be replicated with Slack taking the place of “walking the floor”.
 
 ---
 
-[^1]: Throughout this document I use the term “partner” to mean “the
+[^1]:
+    Throughout this document I use the term “partner” to mean “the
     person with whom you’re holding the 1:1”. This replaces the stuffy
     and more Management-ese term “direct” that many 1:1 guides use, and
     emphasizes that at TTS, the person you’re holding 1:1s with may not
@@ -454,7 +454,8 @@ alternatives that might be worth trying:
     be in a servant-leadership role than in a command-and-control
     settings.
 
-[^2]: Vacations are an exception: if one of you is going to be gone for
+[^2]:
+    Vacations are an exception: if one of you is going to be gone for
     a week, obviously don’t intrude on vacation to hold meetings! But
     they’re basically the only good reason to completely cancel (rather
     than reschedule) a 1:1.

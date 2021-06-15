@@ -1,13 +1,13 @@
 ---
 title: Development and training
 tags:
-- classes
-- training
-- development
-- development & training
-- development and training
-- training & development
-- training and development
+  - classes
+  - training
+  - development
+  - development & training
+  - development and training
+  - training & development
+  - training and development
 ---
 
 There are many development and training opportunities within GSA that are available to TTS employees.
@@ -68,8 +68,8 @@ The [Virtual Lunch & Learn Series](https://insite.gsa.gov/employee-resources/tra
 
 ## More resources
 
-* [Office of Human Resources Management (OHRM) Talent Development Catalog of Offerings & Services](https://docs.google.com/document/d/1iYLvZn2XLAmdF7FDvujjK9xCsGOtWTlb1RlWlNKPtxE/edit)
-* Join the GSA [Training & Development Chatter group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9t0000000H1uQ)
-to stay up-to-date on all the training and development opportunities
-* [Training & Development InSite page](https://insite.gsa.gov/employee-resources/training-and-development/)
-* [Conferences, events, and other professional development trainings]({{site.baseurl}}/conferences-events-training/)
+- [Office of Human Resources Management (OHRM) Talent Development Catalog of Offerings & Services](https://docs.google.com/document/d/1iYLvZn2XLAmdF7FDvujjK9xCsGOtWTlb1RlWlNKPtxE/edit)
+- Join the GSA [Training & Development Chatter group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9t0000000H1uQ)
+  to stay up-to-date on all the training and development opportunities
+- [Training & Development InSite page](https://insite.gsa.gov/employee-resources/training-and-development/)
+- [Conferences, events, and other professional development trainings]({{site.baseurl}}/conferences-events-training/)

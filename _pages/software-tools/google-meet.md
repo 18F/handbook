@@ -1,10 +1,10 @@
 ---
 title: Google Meet
 tags:
-   - audio
-   - sound
+  - audio
+  - sound
 redirect_from:
-   - /google-hangouts/
+  - /google-hangouts/
 questions:
   - it-issues
 ---
@@ -15,7 +15,7 @@ We use Google Meet to conference call, video conference, screen share, and bridg
 
 ## Rules
 
-**Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
+**Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
 
 ## Setup
 
@@ -23,11 +23,11 @@ Because Google Meet is a web application, there’s no installation necessary.
 
 You can change your avatar across Google Apps even though Google+ profile editing is restricted. Here's how:
 
- 1. Open [Google Drive](https://drive.google.com).
- 2. Click the circular account icon in the upper right corner.
- 3. Click the **Change** link over your avatar.
- 4. Update your profile photo.
- 5. Click **Set as profile photo**.
+1.  Open [Google Drive](https://drive.google.com).
+2.  Click the circular account icon in the upper right corner.
+3.  Click the **Change** link over your avatar.
+4.  Update your profile photo.
+5.  Click **Set as profile photo**.
 
 ## Tips
 
@@ -36,7 +36,7 @@ You can change your avatar across Google Apps even though Google+ profile editin
 - You can start a Google Hangout from Slack by typing `/hangout`.
 - You can make and receive free domestic phone calls from within Gmail or Google Hangouts. Just create a new number with your GSA account at google.com/voice
 - Use the [Google Meet Grid View](https://chrome.google.com/webstore/detail/google-meet-grid-view/ecmogldeoigldjmgieekjifmhaboipmc/related) extension to be able to see a large number of participants at once
-   - Note this is a GSA-pakaged version of [the open source extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension)
+  - Note this is a GSA-pakaged version of [the open source extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension)
 
 ### Fix audio issues
 
@@ -49,11 +49,12 @@ If the audio for Hangouts has stopped working, you can either reset your compute
 5. Audio should now work, but if it doesn't, try re-starting your computer
 
 ### Presenting a deck in hangouts
+
 If you're doing a virtual presentation it can be a bit tricky, so here are some tips to both see what you are presenting and who you are presenting to.
 
 1. In your browser, open up your Google Slides presentation (we'll call this window A).
 2. Click on "present with presenter view" and a new window will pop up for you to see a thumbnail of your slides and your notes (window B).
-2. Fire up your Meet meeting in a new browser window (window C).
-2. Resize the browser window with the active Meet (C) to be half of your screen.
-4. Select "present window" and choose the window (A) with your presentation slides.
-5. Align your presenter view (B) with the meet on half your screen - now you can see your notes, the folks you are presenting to, _and_ a thumbnail of your presentation all on your monitor!
+3. Fire up your Meet meeting in a new browser window (window C).
+4. Resize the browser window with the active Meet (C) to be half of your screen.
+5. Select "present window" and choose the window (A) with your presentation slides.
+6. Align your presenter view (B) with the meet on half your screen - now you can see your notes, the folks you are presenting to, _and_ a thumbnail of your presentation all on your monitor!

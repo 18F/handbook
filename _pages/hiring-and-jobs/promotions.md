@@ -23,7 +23,7 @@ This page provides an overview of the Merit Promotion process for both Competiti
 ## Introduction to the Merit Promotion process
 
 Before going into the process, it’s important to note that “promotions” in the traditional sense (private sector) do not exist within the federal government.
-Government has a position-driven view; everything begins with the need, not the person. This means that a position is not created and filled for the purpose of someone attaining a higher GS level. 
+Government has a position-driven view; everything begins with the need, not the person. This means that a position is not created and filled for the purpose of someone attaining a higher GS level.
 
 Instead, the organization identifies a need for a higher level position due to the type of work that must be accomplished and can choose to fill that need through multiple recruitment or staffing methods, including the Merit Promotion process.
 
@@ -31,7 +31,7 @@ Instead, the organization identifies a need for a higher level position due to t
 
 As you can see from the above excerpt from GSA’s policy, the Merit Promotion process is for "filling vacancies through internal competition". The Merit Promotion process increases visibility of opportunities within TTS and creates an avenue for other competitive service federal employees to join TTS.
 
-For all Merit Promotion roles: employees must be at their current GS level for one year in order to apply for a position at the next highest GS level. This is called the “time-in-grade” requirement, and an applicant must meet time-in-grade within 30 days of an application’s closing date. 
+For all Merit Promotion roles: employees must be at their current GS level for one year in order to apply for a position at the next highest GS level. This is called the “time-in-grade” requirement, and an applicant must meet time-in-grade within 30 days of an application’s closing date.
 
 ### Filling a vacancy via Competitive Service (Career) Merit Promotion Process
 
@@ -41,4 +41,4 @@ Competitive Service Merit Promotions are open to current or former Competitive S
 
 TTS has chosen to run Excepted Service Merit Promotions as [internal competitions]({{site.baseurl}}/assignee-detail), mirroring the Competitive Service process. This creates parity between the two processes and the offices that are affected by them. All staff should feel that they have the same opportunities.
 
-An Excepted Service Merit Promotion opportunity is posted internally and will be open to any Excepted Service employee in TTS. 
+An Excepted Service Merit Promotion opportunity is posted internally and will be open to any Excepted Service employee in TTS.

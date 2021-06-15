@@ -1,22 +1,22 @@
 ---
 title: TTSJobs
 tags:
-- TTS Jobs
-- tts jobs
-- TTSJobs
-- ttsjobs
-- details
-- Details
-- jobs 
-- Jobs
-- job
-- Promotion
-- Promotions
-- promotion
-- promotions
-- staffing plan
-- Staffing Plan
-- staffing plans
+  - TTS Jobs
+  - tts jobs
+  - TTSJobs
+  - ttsjobs
+  - details
+  - Details
+  - jobs
+  - Jobs
+  - job
+  - Promotion
+  - Promotions
+  - promotion
+  - promotions
+  - staffing plan
+  - Staffing Plan
+  - staffing plans
 ---
 
 This page serves as a central listing for:
@@ -25,7 +25,7 @@ This page serves as a central listing for:
 - Hiring actions using the Excepted Service version of the Merit Promotion Process
 - Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
 - Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies 
+- Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -35,9 +35,11 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Product Manager/IT Specialist (2210)](https://join.tts.gsa.gov/join/product-manager/) - open Tuesday, June 16th through Friday, June 11th
+- [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Friday, July 2nd
 
-- [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Friday, July 2nd 
+- [TTS Talent Team - Sourcing Strategist](https://join.tts.gsa.gov/join/sourcing-strategist/) - open Monday, June 14th through Monday, June 21st
+
+- [TTS Talent Team - Talent Acquisition Partner](https://join.tts.gsa.gov/join/talent-acquisition-partner/) - open Monday, June 14th through Monday, June 21st
 
 ### Internal only opportunities
 
@@ -45,10 +47,9 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA WIDE: TTS Talent Acquisiton Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 
-- [Cloud.gov Director Detail](https://docs.google.com/document/d/1RTJWb9lM1LuGemjKLh8PhXgRfL4Hux3wQPCrq9J5yi8/edit#) - open Tuesday, June 1st until Friday, June 11th 
-
 - [GSA FAS WIDE: Program Analyst 343-13](https://www.usajobs.gov/GetJob/ViewDetails/602447700#) - open Wednesday, May 26th until Tuesday, July 6th
 
+- [TTS WIDE: Design Supervisor (acting)](https://docs.google.com/document/d/1ZeyjO971H53y9K69533Nc1rX1gNRZvmqkwhCL8o1QNM/edit?usp=sharing) - open Thursday, June 11th until Wednesday, June 23rd
 
 ## Opportunities with partners
 
@@ -60,9 +61,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
-
-
----------------------------------------------------------------------
+---
 
 ### Still have questions?
 

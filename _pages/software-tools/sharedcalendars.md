@@ -5,9 +5,10 @@ tags:
 questions:
   - it-issues
 ---
+
 If you’re running a project with a partner, gaining ready visibility into team member calendars can make life (or at least scheduling meetings) a bit easier so you know when people may be available to meet.
 
-While we can easily view personal calendar events for others at GSA (or at least free/busy status, depending on the settings users select) as well as team calendars we have configured (for example, project calendars), it can take more work for our partners at other agencies to view these personal and team calendars,  (and for us to view their calendars).
+While we can easily view personal calendar events for others at GSA (or at least free/busy status, depending on the settings users select) as well as team calendars we have configured (for example, project calendars), it can take more work for our partners at other agencies to view these personal and team calendars, (and for us to view their calendars).
 
 Whether or not, and how readily, you can share calendars will depend on IT policy and settings for each given agency. But, sharing calendars is possible. Here are some different ways to do this:
 
@@ -21,8 +22,10 @@ As a first step, see if you can directly share and view your calendar availabili
 4. Ask your partner to import that link into the calendar program they use (often Microsoft Outlook for agency partners)
 5. See if your partner is able to view your calendar events. If they can do that, make sure they also see updates to events when they are created or modified.
 6. If the above works, ask your partner to share their calendar with you:
- - Partners using Google Calendar can share their calendars using the process above.
- - Partners using Microsoft Outlook can use this “Share your calendar with everyone” instructions [here](https://www.bettercloud.com/monitor/the-academy/3-ways-to-share-your-outlook-calendar-with-others/).
+
+- Partners using Google Calendar can share their calendars using the process above.
+- Partners using Microsoft Outlook can use this “Share your calendar with everyone” instructions [here](https://www.bettercloud.com/monitor/the-academy/3-ways-to-share-your-outlook-calendar-with-others/).
+
 7. Finally, import the partner calendar link into Google Calendar and see if you are able to view calendar events, including updates.
 
 If this process does not work for your team, you can try sharing your calendars through MAX.gov.
@@ -45,7 +48,7 @@ To share calendars through MAX, team members (TTS and partners) will need to cre
 2. In the `Access permissions` pane, check `Make available to public` and select the appropriate level of access (`See only free/busy` or `See all event details`) in the adjacent dropdown menu. Note: GSA personal calendars are configured to `See only free/busy` and cannot share event details.
 3. Copy the `Public address in iCal format` (this link should end in .ics) and keep it someplace handy.
 4. If you do not already have one, register for a MAX.gov account using your GSA email address: https://portal.max.gov/portal/home
-5. Under the `Personal Calendars` heading, go to your default calendar, which is listed as `My Calendar`. Click on the down arrow to the right of this and select  `Manage calendar synchronization`. Paste the link you copied into the `The URL you are using to synchronize your MAX Calendar is:` text field and click `Done`.
+5. Under the `Personal Calendars` heading, go to your default calendar, which is listed as `My Calendar`. Click on the down arrow to the right of this and select `Manage calendar synchronization`. Paste the link you copied into the `The URL you are using to synchronize your MAX Calendar is:` text field and click `Done`.
 6. At this point, your calendar will start syncing to MAX.
 
 ### Configure partner calendar (non-GSA, non-Google Calendar) using Outlook
@@ -67,5 +70,5 @@ Sharing non-GSA federal calendars from Outlook using MAX.gov (depends on agency)
 
 ## Additional reference
 
- - https://community.max.gov/pages/viewpage.action?pageId=658899186
- - https://community.max.gov/display/Help/Feedback+for+Synching+to+MAX+Calendar
+- https://community.max.gov/pages/viewpage.action?pageId=658899186
+- https://community.max.gov/display/Help/Feedback+for+Synching+to+MAX+Calendar

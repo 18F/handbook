@@ -1,27 +1,26 @@
 ---
 title: Leave (HR Links)
 tags:
-- hrlinks
-- hrlinks
-- hr links
-- hr links
-- aloha
-- vacation
-- funeral
-- death
-- bereavement
-- religion
-- religious
-- jury
-- duty
-- court
-- military
-- leave
-- request
-- parental
-- parent
-- parental leave
-
+  - hrlinks
+  - hrlinks
+  - hr links
+  - hr links
+  - aloha
+  - vacation
+  - funeral
+  - death
+  - bereavement
+  - religion
+  - religious
+  - jury
+  - duty
+  - court
+  - military
+  - leave
+  - request
+  - parental
+  - parent
+  - parental leave
 ---
 
 This page provides instructions for entering leave requests (also known as absence requests) in <a href="https://corporateapps.gsa.gov/hr-links/">HR Links</a> and information on the various types of leave.
@@ -31,42 +30,46 @@ You can also see your remaining leave balances in HR Links (shows up to the righ
 ## Submitting leave in HR Links
 
 ### Logging into HR Links
-You must be on the GSA wireless network or on the Windows virtual desktop (accessible through Citrix Workspace or Cisco AnyConnect) to log into HR Links.  For instructions on accessing your virtual desktop through Citrix Workspace, go [here]({{site.baseurl}}/virtual-desktop).  For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).
 
-  1. Open your web browser (Safari is preferred for HR Links)
-  1. Go to [HR Links](https://corporateapps.gsa.gov/hr-links/) or find it under "Tools" on the [InSite home page](https://insite.gsa.gov)
-  1. Click **login** icon (a new tab will open)
-  1. Click on **GSA and GSA CABS**
+You must be on the GSA wireless network or on the Windows virtual desktop (accessible through Citrix Workspace or Cisco AnyConnect) to log into HR Links. For instructions on accessing your virtual desktop through Citrix Workspace, go [here]({{site.baseurl}}/virtual-desktop). For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).
+
+1. Open your web browser (Safari is preferred for HR Links)
+1. Go to [HR Links](https://corporateapps.gsa.gov/hr-links/) or find it under "Tools" on the [InSite home page](https://insite.gsa.gov)
+1. Click **login** icon (a new tab will open)
+1. Click on **GSA and GSA CABS**
 
 ### Entering a leave request
-  1. Click on the **Employee Time** tile
-  1. Click **Absence Requests**
-  1. Select **Request Absence**
-  1. Choose **Absence Name** then **Request**
-  1. Click **Absence Type** and choose type
-  1. Enter **Start Date** and **End Date**
-  1. Select **Full Days** or **Partial Days**
-  1. Click on **Comments/History** and then enter **Comments**
-  1. Click **Submit**
 
-***Note:*** *When your leave request is approved, you’ll receive a “The absence request has been approved…” email*
+1. Click on the **Employee Time** tile
+1. Click **Absence Requests**
+1. Select **Request Absence**
+1. Choose **Absence Name** then **Request**
+1. Click **Absence Type** and choose type
+1. Enter **Start Date** and **End Date**
+1. Select **Full Days** or **Partial Days**
+1. Click on **Comments/History** and then enter **Comments**
+1. Click **Submit**
+
+**_Note:_** _When your leave request is approved, you’ll receive a “The absence request has been approved…” email_
 
 ### Entering additional time
-  1. Click on the **Employee Time Requests** tile
-  1. Select **Additional Time Requests**
-  1. Click time request type (**Overtime**, **Comp Time**, or **Credit Time**)
-  1. Select **Additional Time Type**
-  1. Enter **Start Date** and **End Date**
-  1. Enter **Requested Hours**
-  1. Enter **Comments**
-  1. Click **Submit**
+
+1. Click on the **Employee Time Requests** tile
+1. Select **Additional Time Requests**
+1. Click time request type (**Overtime**, **Comp Time**, or **Credit Time**)
+1. Select **Additional Time Type**
+1. Enter **Start Date** and **End Date**
+1. Enter **Requested Hours**
+1. Enter **Comments**
+1. Click **Submit**
 
 ### Modifying a leave request
+
 It’s simple, but slightly counter-intuitive. Here’s how:
 
-  1. *Cancel* the initial request you’re trying to edit.
-  2. *Edit* the _canceled_ request.
-  3. Resubmit the canceled-and-edited request.
+1. _Cancel_ the initial request you’re trying to edit.
+2. _Edit_ the _canceled_ request.
+3. Resubmit the canceled-and-edited request.
 
 ### HR Links tips
 
@@ -87,6 +90,7 @@ Employees must report to work or have leave approved every scheduled work day. L
 Should an unforeseen emergency or illness arise requiring the use of leave not previously approved, contact your supervisor no later than two hours after the start of your typical work day to request permission for the absence. Unless other arrangements were made, requests for annual or sick leave must be made on each day of absence. Failure to properly request leave in accordance with this procedure may result in the denial of leave and a charge of absence without leave (AWOL), and may be the basis for disciplinary action. Absence without leave is an absence from duty that is not authorized or approved.
 
 ### Leave checklist
+
 Before taking leave, be sure to:
 
 - Submit leave through [HR Links](https://corporateapps.gsa.gov/hr-links/)
@@ -97,14 +101,16 @@ Before taking leave, be sure to:
 - Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per {{site.baseurl}}/leave/#returning-from-leave” on [date you return]`
 
 - 18F team members should also:
-    - Submit [correct Tock entries]({{site.baseurl}}/tock/#tocking-for-out-of-office-time)
-    - Update your Slack username and profile (ex: `@username | OOO until 7/12 | she`)
-    - Create an event on the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com) (TTS Ops uses it to support on-time Tocking)
-    - Decline, cancel, or reschedule any meetings you'll miss
-    - Product chapter members: add an event to the [All Things Product](https://calendar.google.com/calendar/embed?src=gsa.gov_dkgkep8b6fj5ge1s2m0cn4srog%40group.calendar.google.com) calendar.
+  - Submit [correct Tock entries]({{site.baseurl}}/tock/#tocking-for-out-of-office-time)
+  - Update your Slack username and profile (ex: `@username | OOO until 7/12 | she`)
+  - Create an event on the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com) (TTS Ops uses it to support on-time Tocking)
+  - Decline, cancel, or reschedule any meetings you'll miss
+  - Product chapter members: add an event to the [All Things Product](https://calendar.google.com/calendar/embed?src=gsa.gov_dkgkep8b6fj5ge1s2m0cn4srog%40group.calendar.google.com) calendar.
 
 ### Returning from leave
+
 Upon returning from leave, remember to:
+
 - Change your Slack name/status back to normal
 - Turn off your email auto-response
 
@@ -112,15 +118,15 @@ Upon returning from leave, remember to:
 
 An employee may use annual leave for vacations, rest and relaxation, and personal business or emergencies. Annual leave accrues based on how long you've worked for the government:
 
-* Fewer than 3 years: 4 hours per pay period
-* Between 3 and 15 years: 6 hours per pay period
-* 15+ years: 8 hours per pay period
+- Fewer than 3 years: 4 hours per pay period
+- Between 3 and 15 years: 6 hours per pay period
+- 15+ years: 8 hours per pay period
 
 The maximum annual leave that can be carried over is 240 hours, and if you've transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM's Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
 ### Sick leave
 
-All federal employees, no matter how long they have worked, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if you've transferred to TTS from another federal agency, your accrued sick leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued sick leave.)  More information is available on [OPM's Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
+All federal employees, no matter how long they have worked, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if you've transferred to TTS from another federal agency, your accrued sick leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued sick leave.) More information is available on [OPM's Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
 ### Funeral leave
 
@@ -130,28 +136,34 @@ Employees can take up to 13 days (104 hours) per year of sick leave for bereavem
 
 Further funeral leave information can be found in OPM's Fact Sheets:
 
-* [Leave for funerals and bereavement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-for-funerals-and-bereavement/)
-* [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
-* [Definitions related to family member and immediate relative for purposes of sick leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
+- [Leave for funerals and bereavement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-for-funerals-and-bereavement/)
+- [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
+- [Definitions related to family member and immediate relative for purposes of sick leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
 
 ### Military leave
+
 The [OPM military leave fact sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/military-leave/) states that any full-time Federal civilian employee whose appointment is not limited to one year is entitled to military leave. Military leave under 5 U.S.C. 6323(a) is prorated for part-time career employees and employees on an uncommon tour of duty. 5 U.S.C. 6323 (a) provides 15 days per fiscal year for active duty, active duty training, and inactive duty training. An employee can carry over a maximum of 15 days into the next fiscal year.
 
 Refer to the GSA [Time and Leave Policy](https://insite.gsa.gov/cdnstatic/insite/HRM_60101_Time_and_Leave_Administration_Policy_%28Posted_Version_-_March_23%2C_2020%29.pdf) and contact the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name to let them know if you have military orders.
 
+### Disabled veteran leave (DVL)
 
+A veteran with a service-connected disability rating of 30 percent or more from the Veterans Benefits Administration (VBA) of the Department of Veterans Affairs is entitled to up to 104 hours of disabled veteran leave for the purposes of undergoing medical treatment for such disability.
 
+The employee will have a single, continuous 12-month eligibility period, beginning on the “first day of employment” in which to use the leave or it will be **forfeited with no opportunity to carry over** the leave into subsequent years.
+
+For additional information, please reference the [Disabled Veteran Fact Sheet on opm.gov](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/disabled-veteran-leave/).
 
 ## Extended leave
 
 ### Unpaid leave
 
-Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds like.  Employees can request unpaid leave of less than four weeks at any time.  To take a leave of absence without pay, you'll need justification, supervisory oversight, and, for longer terms, supervisory approval.
+Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds like. Employees can request unpaid leave of less than four weeks at any time. To take a leave of absence without pay, you'll need justification, supervisory oversight, and, for longer terms, supervisory approval.
 
-* [Fact Sheet: Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status) on Federal Benefits and Programs](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/)
+- [Fact Sheet: Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status) on Federal Benefits and Programs](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/)
 
-* **TTS Process for requesting LWOP**
-Employee must get written approval from the following chain of command:
+- **TTS Process for requesting LWOP**
+  Employee must get written approval from the following chain of command:
 
 1. Immediate Supervisor
 1. Business Unit Director
@@ -170,16 +182,17 @@ Paid Parental Leave (PPL) provides that an employee may substitute 12 administra
 
 The three forms should be returned to the [Leave Policies HR specialist for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit). That Specialist can coordinate with the supervisor and recommend approval or not of the PPL.
 
-**Please note:** HR Links now has temporary Paid Parental Leave (PPL) Codes in the system that are effective as of 10/1/2020 for amendments.  As a reminder, employees need to be approved for PPL by their servicing ER specialist before using PPL.  Once approved, an employee will select Other Paid Absence in Absence Type and select one of the three following reason codes:
-  - Paid Parental Leave Adoption
-  - Paid Parental Leave Child
-  - Paid Parental Leave Foster
+**Please note:** HR Links now has temporary Paid Parental Leave (PPL) Codes in the system that are effective as of 10/1/2020 for amendments. As a reminder, employees need to be approved for PPL by their servicing ER specialist before using PPL. Once approved, an employee will select Other Paid Absence in Absence Type and select one of the three following reason codes:
 
-Once the PPL codes are available in HR Links, HR will notify the employee. Their timekeeper and the employee/supervisor can amend the time cards retroactively to apply Paid Parental Leave to the employee's time card(s), and they will be credited for the leave they have taken under PPL-FMLA.  FMLA **must** be in the initial leave category requested, or else PPL **cannot** be retroactively applied to this leave. 
+- Paid Parental Leave Adoption
+- Paid Parental Leave Child
+- Paid Parental Leave Foster
 
-***An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period.  If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement.***
+Once the PPL codes are available in HR Links, HR will notify the employee. Their timekeeper and the employee/supervisor can amend the time cards retroactively to apply Paid Parental Leave to the employee's time card(s), and they will be credited for the leave they have taken under PPL-FMLA. FMLA **must** be in the initial leave category requested, or else PPL **cannot** be retroactively applied to this leave.
 
-Annual Leave + Sick Leave: Employees are entitled to use their earned annual and sick leave for parental/maternity leave reasons.  This would be *regular* Annual Leave and *regular* Sick Leave.  Please note, though, that if these *regular* leave options are used (without the FMLA extension), the PPL **cannot** be retroactively applied towards the parental/maternity leave.
+**_An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period. If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement._**
+
+Annual Leave + Sick Leave: Employees are entitled to use their earned annual and sick leave for parental/maternity leave reasons. This would be _regular_ Annual Leave and _regular_ Sick Leave. Please note, though, that if these _regular_ leave options are used (without the FMLA extension), the PPL **cannot** be retroactively applied towards the parental/maternity leave.
 
 For more assistance with parental leave, reach out in the [#parental-leave](https://gsa-tts.slack.com/messages/C1AA9J7B8/) channel.
 
@@ -187,11 +200,11 @@ For more assistance with parental leave, reach out in the [#parental-leave](http
 
 The Family and Medical Leave Act (FMLA) allows most federal employees to take up to 12 weeks of **unpaid** leave per 12-month period for the following:
 
-* The birth or care of a child
-* An adoption or placement of child for foster care
-* The care of a spouse/son/daughter/parent with a serious health condition
-* A serious health condition of an employee
-* A qualifying exigency from spouse, child or parent of an employee on covered active duty in the Armed Forces
+- The birth or care of a child
+- An adoption or placement of child for foster care
+- The care of a spouse/son/daughter/parent with a serious health condition
+- A serious health condition of an employee
+- A qualifying exigency from spouse, child or parent of an employee on covered active duty in the Armed Forces
 
 An employee is entitled to taking FMLA when they have been an employee of the federal government for **at least 12 months.**
 
@@ -216,21 +229,22 @@ In addition to the paid leave described above, employees can take leave without 
 Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) (VLTP), a covered employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave. If you wish to donate annual leave, you will need to use MAX.gov to access the [VLTP](https://vltp.gsa.gov/) system following the steps below:
 
 If your gsa.gov email address is not registered with MAX.gov, you will need to register at the OMB MAX.gov homepage:
-* Select the "Register Now" button at the top right of that homepage and follow [these instructions](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/08/VLTP_AccessLogin_2019.pdf) to register your PIV card and enable login (or use the email option if you don't yet have a PIV card reader)
-* Go to [https://vltp.gsa.gov/](https://vltp.gsa.gov/) and follow the instructions below for registered users
+
+- Select the "Register Now" button at the top right of that homepage and follow [these instructions](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/08/VLTP_AccessLogin_2019.pdf) to register your PIV card and enable login (or use the email option if you don't yet have a PIV card reader)
+- Go to [https://vltp.gsa.gov/](https://vltp.gsa.gov/) and follow the instructions below for registered users
 
 If you are a registered MAX.gov user:
-* Go to [https://vltp.gsa.gov/](https://vltp.gsa.gov/) and log in using your PIV card or GSA email with 2-factor authentication
-* You will be taken to the GSA Payroll System VLTP page
-* Click the button on the bottom to “Donate Annual Leave Hours To A Shared Leave Recipient”
-* Follow the system prompts to donate leave (select "General Services Administration" as the agency and "0 - Central Office" as the region)
+
+- Go to [https://vltp.gsa.gov/](https://vltp.gsa.gov/) and log in using your PIV card or GSA email with 2-factor authentication
+- You will be taken to the GSA Payroll System VLTP page
+- Click the button on the bottom to “Donate Annual Leave Hours To A Shared Leave Recipient”
+- Follow the system prompts to donate leave (select "General Services Administration" as the agency and "0 - Central Office" as the region)
 
 If you have any questions, please email our [Leave Policies contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) in the Office of Human Resources Management. Also, don’t hesitate to ask in #parental-leave in Slack.
 
 If the system gives you an error, try submitting through the [Citrix VDI]({{site.baseurl}}/virtual-desktop/#logging-into-the-citrix-vdi) using Internet Explorer.
 
 If the system is down, you can submit donation requests directly to Lakita Rivero (lakita.rivero@gsa.gov).
-
 
 ## Advanced leave
 
@@ -252,14 +266,14 @@ In cases of serious disability or ailment, and when the exigencies of the situat
 
 ### Additional advanced leave resources
 
-* [Fact Sheet: Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)
-* [Insite: Advanced Sick Leave](https://insite.gsa.gov/portal/category/510090)
+- [Fact Sheet: Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)
+- [Insite: Advanced Sick Leave](https://insite.gsa.gov/portal/category/510090)
 
 ## Court leave (including jury duty)
 
-* Authorized absence without charge to leave or pay
-* Must be officially requested to serve in a judicial proceeding to which the Federal, a state, or local government is party
-* Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/); this option was not previously available in Aloha.
+- Authorized absence without charge to leave or pay
+- Must be officially requested to serve in a judicial proceeding to which the Federal, a state, or local government is party
+- Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/); this option was not previously available in Aloha.
 
 ## Administrative leave
 
@@ -271,8 +285,12 @@ Adjusting work schedules for religious observances is handled differently than l
 
 ## Time tracking
 
-18F employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
+Billable TTS employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
 
 [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock]({{ site.baseurl }}/tock), which is TTS' own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
 
 For more information on leave, see the [Benefits class](../benefits#leave) and the [GSA Tools and Equipment class](../gsa-internal-tools).
+
+## Transferring leave from another federal agency
+
+Annual Leave and Sick Balances can take up to 3 pay periods to transfer to GSA depending on the speed of your previous payroll provider. If you have your final Earnings and Leave Statement available from your previous agency, you can send a copy to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) to expedite the process.

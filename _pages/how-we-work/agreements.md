@@ -45,8 +45,9 @@ Follow the steps below. The process largely depends on how quickly the client pr
 
 1. The project lead submits the [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdRQerRDxl4hPX_zTQJcY9fR9i0z3LI3dLQiKE0uyJ5fF666g/viewform), which includes a link to the [cost estimate](https://drive.google.com/open?id=0BwzPQaT19ZdofjhPRGRhLW1BWGNQc1kzTHhZbDA2YW15UzhMd05jWDYxdEtob18yTEJkbTQ) and statement of work, along with the period of performance and basic client data.
 2. The Agreements Team receives the form and:
- - Creates a file folder with all appropriate templates
- - Emails the client lead specified to start collecting any additional information required.
+
+- Creates a file folder with all appropriate templates
+- Emails the client lead specified to start collecting any additional information required.
 
 ### Agreements Team Responsibilities
 
@@ -54,9 +55,8 @@ A detailed description of the steps in the IAA and MOU process is available [her
 
 ## Agreements Status
 
-The Agreements Team maintains the [TTS Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1839486133)  and updates it daily. 
+The Agreements Team maintains the [TTS Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=1839486133) and updates it daily.
 
 The Agreements Team also holds regular [Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU14aUtwd09zYzJ1fGRlZmF1bHR8NWMwZThjZGRjOGVhZjkxNWU2MGY3YTZhMmFiZGRmMDk) to provide status updates and answer questions. Schedule a time [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU14aUtwd09zYzJ1fGRlZmF1bHR8NWMwZThjZGRjOGVhZjkxNWU2MGY3YTZhMmFiZGRmMDk).
 
 Questions on agreements can be posted anytime to [#iaa](https://gsa-tts.slack.com/messages/iaa) in Slack or by sending a message to @tts-agreements-team or tts.agreements@gsa.gov.
-
