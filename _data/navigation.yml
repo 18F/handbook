@@ -423,7 +423,7 @@ primary:
           - text: Before you ship
             children: 
               - text: Lifecycle of a Launch 
-                url: /lifecycle/
+                url: lifecycle/
 
       - text: TTS Solutions
         children:
