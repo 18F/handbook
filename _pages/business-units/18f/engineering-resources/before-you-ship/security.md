@@ -9,7 +9,7 @@ In the Federal government, the principal law governing the security of informati
 Most of the security practices have been integrated into the [ATO]({{site.baseurl}}/lifecycle/atos) portion of this guide and summarized in this [slide deck](https://docs.google.com/presentation/d/1IJurX7Jc5XAQqmJSZtGZeJ8pk3IMfEIMRh1frmCpHlA/edit#slide=id.g601ed6ebc1_0_496) from one of the 18F engineers. Here are a few pointers to get you started:
 
 - DevOps isn't a team at TTS, but a skillset. We are all responsible for the security and operations of our systems.
-- The security of our users' information is paramount, even moreso when it is [personally identifiable information (PII)](../privacy/). The types of information your system may process helps determine the type of ATOs available to you and [whether or not you will need to conduct a Privacy Impact Assessment (PIA)](../privacy/).
+- The security of our users' information is paramount, even moreso when it is [personally identifiable information (PII)](https://before-you-ship.18f.gov/privacy/). The types of information your system may process helps determine the type of ATOs available to you and [whether or not you will need to conduct a Privacy Impact Assessment (PIA)](https://before-you-ship.18f.gov/privacy/).
 - Be wary of systems that:
   - trust unsanitized information from the internet
   - do not encrypt data, both at rest and in transit
@@ -59,8 +59,8 @@ Lastly, make sure the `README` file in your repo is fully up to date and clearly
 
 Once you are ready, the [GSA OCISO](https://insite.gsa.gov/portal/content/527517) team will start both automated and manual scanning and testing. This includes:
 
-- [web vulnerability scanning](../../security/dynamic-scanning/) on the front-end
-- [static code analysis](../../security/static-analysis/) on the `main` or `master` branch of your repo
+- [web vulnerability scanning](#dynamic-scanning/) on the front-end
+- [static code analysis](#static-analysis/) on the `main` or `master` branch of your repo
 - for higher FISMA levels, penetration testing by third party security consultants.
 
 For greybox testing, the testing team has significant (but not necessarily complete) knowledge of how the system works, as opposed to black box testing, where they have zero knowledge, or white box testing, where they have complete knowledge.
@@ -122,7 +122,7 @@ More advanced configuration options for all the tools can be found in their resp
 
 ## Dynamic Scanning
 
-In order for an application to get ATO, it needs to meet more than a minimum level of application security, so the application team needs to run [both static and dynamic security scans](../scanning/) and document good results. Running a "dynamic" scan means running a program that analyzes a live running application for common vulnerabilities.
+In order for an application to get ATO, it needs to meet more than a minimum level of application security, so the application team needs to run [both static and dynamic security scans](#scanning) and document good results. Running a "dynamic" scan means running a program that analyzes a live running application for common vulnerabilities.
 
 As part of the process of getting an ATO at TTS, **your application team will need to set up [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) to do dynamic vulnerability scanning of your application**. ZAP can function as either an active (Spider & Attack options) or a passive (man-in-the-middle/proxy) scanner, but is usually used as a combination of both. If you (or another person on your application team) has questions about setting this up, ask #infrastructure for help.
 
@@ -184,7 +184,7 @@ As configured, the Spider does not follow links to other domains or subdomains. 
 
 ![alert results]({{site.baseurl}}/images/before-you-ship/alert_results.png)
 
-The Alerts pane lists all alerts discovered while scanning the site. As described on the [alerts page](../scanning#alerts), the red and orange-flagged alerts must be taken care of before the application can be ATO'd. You have a little more flexibility when dealing with the yellow and blue flags, but all of them must be either corrected or, in the case of false positives, documented.
+The Alerts pane lists all alerts discovered while scanning the site. As described on the [alerts page](#alerts), the red and orange-flagged alerts must be taken care of before the application can be ATO'd. You have a little more flexibility when dealing with the yellow and blue flags, but all of them must be either corrected or, in the case of false positives, documented.
 
 Optional: When you get false positives, you can [file issues with the ZAP project](https://github.com/zaproxy/zaproxy/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+false+positive) to help them improve the alerting rules to prevent false positives.
 
@@ -214,7 +214,7 @@ Organized by language.
 
 ### [Node.js](https://nodejs.org/)
 
-- See info on JavaScript [static security analysis](../static-analysis/#recommendations-by-language)
+- See info on JavaScript [static security analysis](#recommendations-by-language)
 
 #### [Express](https://expressjs.com/)
 
@@ -228,7 +228,7 @@ Organized by language.
 
 #### [Django](https://www.djangoproject.com/)
 
-- Set up [static security analysis](../static-analysis/#recommendations-by-language).
+- Set up [static security analysis](#recommendations-by-language).
 - Read through the official [deployment checklist](https://docs.djangoproject.com/en/stable/howto/deployment/checklist/).
 
 See also:
@@ -240,7 +240,7 @@ See also:
 
 #### [Flask](http://flask.pocoo.org/)
 
-- Set up [static security analysis](../static-analysis/#recommendations-by-language)
+- Set up [static security analysis](#recommendations-by-language)
 - Read through the [official security docs](http://flask.pocoo.org/docs/security/)
 - Consider using [Flask-Security](https://pythonhosted.org/Flask-Security/)
 
@@ -253,7 +253,7 @@ See also:
 
 #### [Rails](http://rubyonrails.org/)
 
-- Set up [static security analysis](../static-analysis/#recommendations-by-language).
+- Set up [static security analysis](#recommendations-by-language).
 - Read through [Secure Rails](https://github.com/ankane/secure_rails).
 - If you need authorization, consider using the gems listed below. Use the linked instructions to ensure you have authorization applied to all appropriate controller actions.
   - [CanCanCan](https://github.com/CanCanCommunity/cancancan#4-lock-it-down)
@@ -266,7 +266,7 @@ More info:
 
 #### [Sinatra](http://www.sinatrarb.com/)/[Padrino](http://padrinorb.com/)
 
-- Set up [static security analysis](../static-analysis/#recommendations-by-language). We are currently seeking recommendations for this configuration.
+- Set up [static security analysis](#recommendations-by-language). We are currently seeking recommendations for this configuration.
 - Ensure that [rack-protection](https://github.com/sinatra/rack-protection) and/or [SecureHeaders](https://github.com/twitter/secureheaders) is enabled and configured.
 
 More info:
