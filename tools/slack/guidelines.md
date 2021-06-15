@@ -50,7 +50,6 @@ See a list of other popular channels in the [Slack @ TTS](https://docs.google.co
 
 ## Usage tips
 
-- **[Add yourself to our custom emoji](https://gsa-tts.slack.com/customize/emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Post your emoji (and any other custom emoji you add) to the [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY) channel.
 - The advanced settings section provides an option to [**only show channels that have unread messages**](https://slack.com/help/articles/212596808-Manage-your-sidebar-preferences#manage-your-sidebar-items). This is useful if you're a member of a lot of channels.
 - Click the timestamp on any message to go to the archival view of it. This is helpful if you'd like to **cross-post a link to a message in another channel**.
 - If you're interested in **tracking specific keywords across Slack**, set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
