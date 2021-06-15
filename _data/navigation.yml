@@ -420,7 +420,7 @@ primary:
               - text: Accessing DoD Systems
                 url: accessing-dod-systems/
                 internal: true
-          - text: Before you ship
+          - text: Launching software
             children: 
               - text: Lifecycle of a Launch 
                 url: lifecycle/
