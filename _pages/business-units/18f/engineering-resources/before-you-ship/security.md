@@ -6,7 +6,7 @@ title: Security
 
 In the Federal government, the principal law governing the security of information systems is the Federal Information Security Modernization Act (FISMA). For more information on FISMA, check out the [FISMA Implementation Project ](https://csrc.nist.gov/projects/risk-management), which will help you stay up to date and in the know about all things FISMA. If you're inclined to see TTS' intepretation of FISMA from a user-center approach, take a look at a previous project from the TTS Tech Portfolio and cloud.gov known as [FISMA Ready](https://github.com/fisma-ready/introduction).
 
-Most of the security practices have been integrated into the [ATO]({{site.baseurl}}/lifecycle/atos) portion of this guide and summarized in this [slide deck](https://docs.google.com/presentation/d/1IJurX7Jc5XAQqmJSZtGZeJ8pk3IMfEIMRh1frmCpHlA/edit#slide=id.g601ed6ebc1_0_496) from one of the 18F engineers. Here are a few pointers to get you started:
+Most of the security practices have been integrated into the [ATO]({{site.baseurl}}/lifecycle/#atos) portion of this guide and summarized in this [slide deck](https://docs.google.com/presentation/d/1IJurX7Jc5XAQqmJSZtGZeJ8pk3IMfEIMRh1frmCpHlA/edit#slide=id.g601ed6ebc1_0_496) from one of the 18F engineers. Here are a few pointers to get you started:
 
 - DevOps isn't a team at TTS, but a skillset. We are all responsible for the security and operations of our systems.
 - The security of our users' information is paramount, even moreso when it is [personally identifiable information (PII)](https://before-you-ship.18f.gov/privacy/). The types of information your system may process helps determine the type of ATOs available to you and [whether or not you will need to conduct a Privacy Impact Assessment (PIA)](https://before-you-ship.18f.gov/privacy/).
@@ -20,7 +20,7 @@ Most of the security practices have been integrated into the [ATO]({{site.baseur
 
 Security scanning is separated into a few categories:
 
-- [Static](#static-analysis/): Static Code Analysis (SCA) is similar to the [linters](<https://en.wikipedia.org/wiki/Lint_(software)>) that many developers use on a day-to-day basis. While many linters focus on stylistic concerns, we are interested in those tools that target security flaws.
+- [Static](#static-analysis): Static Code Analysis (SCA) is similar to the [linters](<https://en.wikipedia.org/wiki/Lint_(software)>) that many developers use on a day-to-day basis. While many linters focus on stylistic concerns, we are interested in those tools that target security flaws.
 - [Dynamic](#dynamic-scanning)
   - Active
     - Antivirus and malware scanning
@@ -59,8 +59,8 @@ Lastly, make sure the `README` file in your repo is fully up to date and clearly
 
 Once you are ready, the [GSA OCISO](https://insite.gsa.gov/portal/content/527517) team will start both automated and manual scanning and testing. This includes:
 
-- [web vulnerability scanning](#dynamic-scanning/) on the front-end
-- [static code analysis](#static-analysis/) on the `main` or `master` branch of your repo
+- [web vulnerability scanning](#dynamic-scanning) on the front-end
+- [static code analysis](#static-analysis) on the `main` or `master` branch of your repo
 - for higher FISMA levels, penetration testing by third party security consultants.
 
 For greybox testing, the testing team has significant (but not necessarily complete) knowledge of how the system works, as opposed to black box testing, where they have zero knowledge, or white box testing, where they have complete knowledge.
