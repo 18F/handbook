@@ -88,8 +88,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
         </td>
         <td>
-          Robert Jolly - 18F<br>
-          Alexandra Porter - COE
+          Claire Annan - 18F<br>
+          Pia Zaragoza - PIF
         </td>
       </tr>
       <tr>
@@ -173,6 +173,20 @@ Typically guilds follow a lightweight leadership selection process:
 1. The guild asks for nominations via email and Slack posting. Guilds can choose to allow self-nomination only, or accept nominations by other people with confirmation of interest by the nominee. Nominees should have the verbal approval of their supervisor. Written nominations totalling no more than 400 words are recommended; guilds choose nomination questions.
 1. A panel of one-three people made up of guild leadership, other guild members and/or leadership from other guilds conduct brief (no more than 30 minute) interviews of candidates and makes a selection.
 1. A current guild leader announces the new leader, who takes up the position immediately.
+
+### Organizing guild speakers
+
+At times, guilds may invite speakers that are subject matter experts in providing digital services or best practices that can help improve the lives of the public and public servants. We may reach out to them through our personal network, including non-government employees. In such a case, we make sure not to endorse their publication, product or service, as a GSA employee. This would give the appearance of preferential treatment, about which government has strict policies.
+
+Do say:
+
+> This Friday, the Accessibility Guild welcomes Jane Doe, who will present how research frameworks can help implement Inclusive Design in our digital projects...
+
+Don't say:
+
+> This Friday, the Accessibility Guild welcomes Jane Doe, author of my favorite book _ABCD Framework for Inclusive Design_. Everyone should read it!
+
+We also avoid giving an unfair advantage to someone involved in a bid in progress with GSA. To avoid any ethical or legal conflict, please check with the [Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview) before booking a speaker. We kindly remind our speakers not to endorse their product by saying where it can be purchased or by offering discounts to government employees.
 
 ## 18F Collectives
 
