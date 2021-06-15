@@ -69,7 +69,7 @@ All of these tests must be conducted on an environment that is _identical to pro
 
 **Expectation management**
 
-Overall, if _no_ vulnerabilities are found, this process has been taking approximately 2 weeks for test preparation and [System Security Plan]({{site.baseurl}}/lifecycle/#system-security-plan) writing and 2 weeks for [greybox testing](#greybox-testing) and [signature](https://atos.open-control.org/steps/#step-5-authorize-information-system). FISMA Moderate and FISMA High will require additional time.
+Overall, if _no_ vulnerabilities are found, this process has been taking approximately 2 weeks for test preparation and [System Security Plan]({{site.baseurl}}/lifecycle/#system-security-plan) writing and 2 weeks for greybox testing and [signature](https://atos.open-control.org/steps/#step-5-authorize-information-system). FISMA Moderate and FISMA High will require additional time.
 
 Since the time it would take to resolve vulnerabilities is not known until a vulnerability is identified, it is **strongly recommended** that no expectations are set with Federal partners or GSA stakeholders when public testing will begin. Instead, we recommend that the authorization process is seen as part of the delivery process and your definition of "done".
 
