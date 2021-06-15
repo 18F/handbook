@@ -49,6 +49,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA FAS WIDE: Program Analyst 343-13](https://www.usajobs.gov/GetJob/ViewDetails/602447700#) - open Wednesday, May 26th until Tuesday, July 6th
 
+- [TTS WIDE: Design Supervisor (acting)](https://docs.google.com/document/d/1ZeyjO971H53y9K69533Nc1rX1gNRZvmqkwhCL8o1QNM/edit?usp=sharing) - open Thursday, June 11th until Wednesday, June 23rd
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
