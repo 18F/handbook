@@ -238,7 +238,7 @@ In order to make sure we are protecting the integrity of the public systems, **_
 
 **Tagging**
 
-Tagging resources in AWS is essential for identifying and tracking resources deployed. A tagged resource makes it easier for reasoning from a [billing perspective](#other-peoples-money) and aids in determining if a system is in a particular environment (ex. production). See the [sandbox](../sandbox) environment to see how tagged resources enables lifecycle management of resources in AWS.
+Tagging resources in AWS is essential for identifying and tracking resources deployed. A tagged resource makes it easier for reasoning from a [billing perspective](#other-peoples-money) and aids in determining if a system is in a particular environment (ex. production). See the [sandbox](#sandbox-accounts) environment to see how tagged resources enables lifecycle management of resources in AWS.
 
 At a minimum, an AWS resource must have a `Project` tag defined with enough information to be able to identify a project that the AWS resource is associated with.
 
@@ -404,7 +404,7 @@ HTTPS should be enforced on every public endpoint ([here's why](https://18f.gsa.
 
 - If using cloud.gov, obtain through the [CDN broker](https://cloud.gov/docs/services/cdn-route/).
 - If using [Federalist](https://federalist-docs.18f.gov/pages/how-federalist-works/custom-urls/##technical-steps-to-set-up-a-new-site), they are set up automatically.
-- If using [TTS-managed infrastructure as a service (IaaS)](../../infrastructure/##infrastructure-as-a-service-iaas), there are a few options:
+- If using [TTS-managed infrastructure as a service (IaaS)](#infrastructure-as-a-service-iaas), there are a few options:
   - [Let's Encrypt](https://letsencrypt.org/)
   - GSA IT [Service Desk](https://servicedesk.gsa.gov) > Service Catalog > Account Services > Internal/External Certificate Request
   - SSLMate through ##acquisition, via an approved [purchase request](https://handbook.18f.gov/purchase-requests/)
@@ -495,7 +495,7 @@ Deploy it with `cf push <app-name>`
 
 Ways to alert DevOps & project team members:
 
-- **Slack**, though you may not want all errors going to the project's main Slack channel. (See the section below on [grouping notification channels](##grouping-notification-channels))
+- **Slack**, though you may not want all errors going to the project's main Slack channel. (See the section below on grouping notification channels.)
 - **SMS**, which is only available through certain services - PagerDuty provides SMS, but New Relic doesn't; instead it has...
 - **Push Notifications**, for which team members need to have the mobile app installed and registered.
 - **Email**, which in practice isn't as useful since most people aren't immediately alerted by it.
