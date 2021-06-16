@@ -6,8 +6,8 @@ permalink: /launching-software/infrastructure/
 ## Overview
 
 At some point, you're going to want to deploy your system. You have a good idea of the final destination of your system early on
-in the project. **If you're building [a site that has no server-side code](##static-sites), aim to use [Federalist](#federalist). If you're
-going to host server-side code, aim to deploy to [cloud.gov](#cloudgov).** You can also deploy to [TTS-managed infrastructure as a service (IaaS)](##infrastructure-as-a-service-iaas) directly, but your life will be harder. For GSA systems, see [comparison of hosting options](https://docs.google.com/spreadsheets/d/1TTu6R9vKOR5eiyC0tjF5XfaM9ozVp0FMoKDn_ZJOxG8/edit##gid=0).
+in the project. **If you're building [a site that has no server-side code](#static-sites), aim to use [Federalist](#federalist). If you're
+going to host server-side code, aim to deploy to [cloud.gov](#cloudgov).** You can also deploy to [TTS-managed infrastructure as a service (IaaS)](#infrastructure-as-a-service-iaas) directly, but your life will be harder. For GSA systems, see [comparison of hosting options](https://docs.google.com/spreadsheets/d/1TTu6R9vKOR5eiyC0tjF5XfaM9ozVp0FMoKDn_ZJOxG8/edit##gid=0).
 
 Whichever option you choose, [you should start deploying to a production-like environment from early on in the development process](https://blog.thepete.net/blog/2019/10/04/hello-production/).
 
@@ -210,7 +210,7 @@ Occasionally, out-of-date documentation from third parties and Amazon itself may
 ** HTTPS Everywhere**
 
 Regardless of what your system does, we enforce [HTTPS
-Everywhere](#https-everywhere).
+Everywhere](#https-certificates).
 
 **Approved services for production use**
 
@@ -238,7 +238,7 @@ In order to make sure we are protecting the integrity of the public systems, **_
 
 **Tagging**
 
-Tagging resources in AWS is essential for identifying and tracking resources deployed. A tagged resource makes it easier for reasoning from a [billing perspective](../sandbox##other-peoples-money) and aids in determining if a system is in a particular environment (ex. production). See the [sandbox](../sandbox) environment to see how tagged resources enables lifecycle management of resources in AWS.
+Tagging resources in AWS is essential for identifying and tracking resources deployed. A tagged resource makes it easier for reasoning from a [billing perspective](#other-peoples-money) and aids in determining if a system is in a particular environment (ex. production). See the [sandbox](../sandbox) environment to see how tagged resources enables lifecycle management of resources in AWS.
 
 At a minimum, an AWS resource must have a `Project` tag defined with enough information to be able to identify a project that the AWS resource is associated with.
 
@@ -365,7 +365,7 @@ See [the page on monitoring](#monitoring).
 - **Third-party services are approved to hold the data being sent to them**
 - Automated pen-testing in a staging environment as part of continuous deployment
 - Automated vuln-scanning in production environment that is fed with newly-discovered vulns
-- Enable [HTTPS](#https-everywhere) for everything
+- Enable [HTTPS](#https-certificates) for everything
 - Redirect http to https (automatic with cloud.gov and federalist)
 
 **Load-testing**
