@@ -425,7 +425,7 @@ primary:
               - text: Lifecycle of a Launch 
                 url: lifecycle/
               - text: Infrastructure
-                url: infrastructure/
+                url: /launching-software/infrastructure/
       - text: TTS Solutions
         children:
           - text: About TTS Solutions
