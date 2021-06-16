@@ -3,6 +3,8 @@ title: Infrastructure
 permalink: "/launching-software/infrastructure/"
 ---
 
+## Overview
+
 At some point, you're going to want to deploy your system. You have a good idea of the final destination of your system early on
 in the project. **If you're building [a site that has no server-side code](##static-sites), aim to use [Federalist](##federalist). If you're
 going to host server-side code, aim to deploy to [cloud.gov](##cloudgov).** You can also deploy to [TTS-managed infrastructure as a service (IaaS)](##infrastructure-as-a-service-iaas) directly, but your life will be harder. For GSA systems, see [comparison of hosting options](https://docs.google.com/spreadsheets/d/1TTu6R9vKOR5eiyC0tjF5XfaM9ozVp0FMoKDn_ZJOxG8/edit##gid=0).
@@ -37,7 +39,7 @@ _Preferred_
 
 TTS uses AWS as the underlying IaaS, but spending effort at the IaaS level is not the best use of your team’s time. TTS has invested in developing [cloud.gov](https://cloud.gov/) to provide for the most common infrastructure needs. cloud.gov uses [Cloud Foundry](https://www.cloudfoundry.org/) – an open source Platform-as-a-Service (PaaS) – as a team-friendly abstraction above AWS, encapsulating good practice cloud hosting without having to worry about a lot of the details. For most of the products that TTS develops, deploying onto cloud.gov will:
 
-- Minimize [ATO](../ato/) compliance overhead (which is quite hefty) and reduce security concerns
+- Minimize [ATO](/lifecycle/#atos) compliance overhead (which is quite hefty) and reduce security concerns
 - Reduce TTS’s overhead for handling infrastructure billing, since it is fully self-service
 - Make it easier for teams to ensure high availability/scalability
 
@@ -47,7 +49,7 @@ Comprehensive [documentation](https://cloud.gov/docs/) for cloud.gov is availabl
 
 Cloud.gov has [a FedRAMP JAB Provisional ATO at the Moderate level](https://marketplace.fedramp.gov/##/product/18f-cloudgov?sort=productName).
 
-##### Compliance info
+**Compliance info**
 
 cloud.gov's
 
@@ -60,11 +62,11 @@ can be found on [cloud.gov's FedRAMP page](https://cloud.gov/docs/overview/fedra
 
 #### Infrastructure as a service (IaaS)
 
-##### Amazon Web Services (AWS)
+**Amazon Web Services (AWS)**
 
 If you do want to use AWS directly, see the [AWS](aws/) page.
 
-##### Microsoft Azure and Google Cloud Platform (GCP)
+**Microsoft Azure and Google Cloud Platform (GCP)**
 
 See [outstanding issue](https://github.com/18F/tts-tech-portfolio/issues/162).
 
@@ -97,9 +99,9 @@ Sandbox accounts - both cloud.gov and AWS - are available to all TTS staff for n
   purposes. Nobody outside the federal government should be given
   access details for systems running in the sandbox unless
   authentication is in place. Exposing systems to the public without
-  authentication requires an [ATO](../../ato/).
+  authentication requires an [ATO](/lifecycle/#atos).
 - Sandbox accounts _must_ be used when you are sending internet traffic to a non-production system: tools such as `ngrok` and `localtunnel` are strictly forbidden since they can allow your laptop to be compromised.
-- No sensitive or [personally identifiable information (PII)](../../privacy/) should be stored in sandbox accounts.
+- No sensitive or [personally identifiable information (PII)](https://before-you-ship.18f.gov/privacy/) should be stored in sandbox accounts.
 - Any system that becomes publicly routable (ex: for testing) must have a [robots.txt configuration](http://www.robotstxt.org/faq/prevent.html) that prevents indexing by all search engine robots.
 
 ### Cloud.gov sandbox accounts
@@ -186,7 +188,7 @@ Although cloud.gov is strongly preferred as the production environment for the s
 
 In order to ensure systems deployed to AWS are robust and reliable, and to ensure the integrity of information stored in AWS, we impose some additional restrictions on systems deployed to the TTS production AWS environment.
 
-#### Permissions
+**Permissions**
 
 Anyone in TTS can get access to the AWS [sandbox account](../sandbox). However only the TTS infrastructure team has login credentials to our production TTS account, and they are only used for debugging and incident management purposes. All systems are deployed using a continuous delivery service from scripts stored in version control, and registered with [##infrastructure](https://gsa-tts.slack.com/messages/C039MHHF8/).
 
@@ -195,29 +197,30 @@ This means:
 - All configuration of your production environment must be performed using Terraform scripts checked into version control.
 - There will be no "back channel" access to AWS resources for systems deployed into production. Any routine activities such as data management, import / export / archiving, must be performed through your system.
 
-#### Auto scale groups
+**Auto scale groups**
 
 In order to ensure that systems remain available even in the face of hardware failures within AWS leading to VMs being terminated, all EC2 instances must be launched within an [auto-scaling group](https://aws.amazon.com/autoscaling/) from an AMI.
 
-#### VPCs
+** VPCs**
 
 To ensure logical partitioning of systems running within the TTS production environment, every system must be hosted within its own [virtual private cloud](https://aws.amazon.com/vpc/) (VPC). Network security settings are set at the VPC level, including what ports IP addresses EC2 instances can communicate with each other and back out to the internet.
 
 Occasionally, out-of-date documentation from third parties and Amazon itself may reference _EC2 Classic_. We at TTS do not support this environment.
 
-#### HTTPS Everywhere
+** HTTPS Everywhere**
 
-Regardless of what your system does, we enforce [HTTPS Everywhere](../certs/).
+Regardless of what your system does, we enforce [HTTPS
+Everywhere](#https-everywhere).
 
-#### Approved services for production use
+**Approved services for production use**
 
 Not all AWS services are approved by GSA IT for production use. GSA IT maintains [a current list of approved services](https://docs.google.com/spreadsheets/d/1kJrPqu10x80LaGQ_oXFDuoPkBdnaXrXTQVF_uJ14-ok/edit##gid=0) (note: only visible to GSA employees and contractors).
 
-#### Operating system (OS) baseline
+**Operating system (OS) baseline**
 
 We use a pre-hardened version of [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29) as our baseline OS for all EC2 instances in AWS. These are created using the [FISMA Ready project on GitHub](https://github.com/fisma-ready/ubuntu-lts). In AWS, there are [Amazon Machine Images](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html) (AMIs) in each AWS Region with these controls already implemented. You should always launch new instances from this baseline. You can find them by searching for the most recent AMI with the name `FISMA Ready Baseline Ubuntu (TIMESTAMP - Packer)`, where `TIMESTAMP` will be a timestamp value.
 
-#### Other people's information
+**Other people's information**
 
 Any system in AWS might have the public's information (as opposed to _public_ data) at any time. Some systems use stronger measures to help protect the information if it is sensitive. For example, [MyUSA](https://github.com/18F/myusa) uses row-level encryption. If you are unsure of the sensitivity of the data you're going to be handling, consult with TTS Infrastructure first.
 
@@ -227,13 +230,13 @@ Use common sense when handling this information. Unless you have permission _and
 - Don't share information
 - Don't view information
 
-Regardless of your own norms around privacy, always assume the owner of that data has the most conservative requirements unless they have taken express action, either through a communication or the system itself, telling you otherwise. Take particular care in protecting sensitive [personally identifiable information (PII)](../../privacy/).
+Regardless of your own norms around privacy, always assume the owner of that data has the most conservative requirements unless they have taken express action, either through a communication or the system itself, telling you otherwise. Take particular care in protecting sensitive [personally identifiable information (PII)](https://before-you-ship.18f.gov/privacy/).
 
-#### Your information
+**Your information**
 
 In order to make sure we are protecting the integrity of the public systems, **_you_ have no expectation of privacy on any federal system**. Everything you do on these systems is subject to monitoring and auditing.
 
-#### Tagging
+**Tagging**
 
 Tagging resources in AWS is essential for identifying and tracking resources deployed. A tagged resource makes it easier for reasoning from a [billing perspective](../sandbox##other-peoples-money) and aids in determining if a system is in a particular environment (ex. production). See the [sandbox](../sandbox) environment to see how tagged resources enables lifecycle management of resources in AWS.
 
@@ -306,7 +309,7 @@ Below is a list of "good" production ops practices, which product and tech leads
 
 We will be adding more documentation about how to achieve these within TTS' infrastructure soon, but [docs.cloud.gov](https://docs.cloud.gov/) is a good place to start. It includes a [guide to production-ready apps on cloud.gov](https://docs.cloud.gov/apps/production-ready/) with tips about how to implement relevant practices.
 
-#### Backups
+**Backups**
 
 - **All volatile data storage is on redundant infrastructure**
 - **Periodic snapshots of volatile data storage are happening**
@@ -314,7 +317,7 @@ We will be adding more documentation about how to achieve these within TTS' infr
 - Recovery is documented in a testable procedure
 - Tests of the recovery path are part of the continuous deployment pipeline
 
-#### Deployment
+**Deployment**
 
 - Can push a new version with a single command
 - More than one person is able to do it
@@ -326,7 +329,7 @@ We will be adding more documentation about how to achieve these within TTS' infr
 - Download, build, and configuration limited to staging, not runtime
 - [Pin dependencies](../pinning-dependencies/)
 
-#### Support
+**Support**
 
 - Service-level targets are documented
 - Clear entry point for complaints
@@ -334,29 +337,29 @@ We will be adding more documentation about how to achieve these within TTS' infr
 - Support queue is public
 - Resources are appropriately tagged
 
-#### Logs
+**Logs**
 
 See [Logging](../logging/).
 
-#### Monitoring
+**Monitoring**
 
 See [the page on monitoring](../monitoring/).
 
-#### Alerting
+**Alerting**
 
 - **_Someone_ is alerted, somehow, if a monitor test is failing**
 - Flexible targets (for vacation, by component, etc), eg PagerDuty
 - Alerts triggered based on "out of the norm" thresholds
 - Flapping status does not result in excess/bouncing alerts
 
-#### Status communication
+**Status communication**
 
 - A status page is available to all users and downstream services
 - The status page is hosted off-infrastructure
 - The status page shows any planned and all previous outages
 - Users can subscribe to notices
 
-#### Security
+**Security**
 
 - **In-person discussion/audit around launch and major changes**
 - **Third-party services are approved to hold the data being sent to them**
@@ -365,31 +368,31 @@ See [the page on monitoring](../monitoring/).
 - Enable [HTTPS](../certs/) for everything
 - Redirect http to https (automatic with cloud.gov and federalist)
 
-#### Load-testing
+**Load-testing**
 
 - Periodic tests of in-scope components in a staging environment as part of continuous deployment pipeline
 - Upstream components are known to be load-tested up to max foreseeable pressure
 
-#### Capacity-planning
+**Capacity-planning**
 
 - **Planning around launch, significant news, and seasonal deadlines**
 - Analysis of similar service traffic in steady state
 - Ideally app-relevant elastic response to scale up as needed and back down to control costs
 
-#### Scalability
+**Scalability**
 
 - **Each component has at least two instances at all times**
 - Each component horizontally scalable with more instances
 - Must-be-vertical components do not pressure their hosts in even elevated traffic condition
 - Ideally must-be-vertical components do not share hosts
 
-#### Resilience
+**Resilience**
 
 - Instances are distributed across availability zones
 - No in-app dependencies on the number/distribution of upstream instances
 - Upstream is similarly resilient (multiple instances in multiple zones)
 
-#### Access Control
+**Access Control**
 
 - **Expected exposure for alpha/beta/blue-green environments is enforced**
 - Exposure is controlled via configurable non-bespoke proxy (eg not the app)
@@ -447,7 +450,7 @@ For custom events, DAP and/or [New Relic](https://docs.newrelic.com/docs/using-n
 
 Ask ##g-analytics if you have questions.
 
-#### Alert Conditions
+**Alert Conditions**
 
 Error & performance monitors can trigger alerts on a number of different conditions, including:
 
@@ -471,7 +474,7 @@ You will want to know if your site goes down. Options (as of 1/20):
 - [Statuspage](https://statuspage.io) - TBD
 - [New Relic Synthetics](http://newrelic.com/synthetics). -([Here's a walkthrough for setting up a simple ping with Synthetics, testing it and connecting it notification channels](https://docs.google.com/document/d/1pDya72sy37PUOMY5Th65LSqKa_tWYrX9kgtkys6WMm0/edit##)). In order to use this service you will need to consult with ##acquisitions in slack, in order to apply funds to make a call on TTS's existing New Relic procurement for this service.
 
-#### Status page
+**Status page**
 
 Projects can supplement their uptime/ping services together with a status, by embedded it as an `<iframe></iframe>` on their own sub-domain. This allows the team to provide one place for their customers to go for the system's about how you are responsing to the outage and/or annoucements of degraded services or maintainace periods.
 
@@ -497,7 +500,7 @@ Ways to alert DevOps & project team members:
 - **Push Notifications**, for which team members need to have the mobile app installed and registered.
 - **Email**, which in practice isn't as useful since most people aren't immediately alerted by it.
 
-#### Grouping Notification Channels
+**Grouping Notification Channels**
 
 New Relic (and possibly other monitoring tools) allows you to group notification targets - that is, individuals and Slack channels. This makes it easier to ensure that different kinds of alerts only go to team members who can act on them.
 
@@ -521,7 +524,7 @@ is to "freeze" dependencies so that deployments are repeatable. Without this,
 we run the risk of executing different software whenever servers are restaged,
 a new team-member joins the project, or between development and production
 environments. In addition to repeatability, pinning dependencies allows
-automatic notification of vulnerable dependencies via [static analysis](../../security/static-analysis/).
+automatic notification of vulnerable dependencies via [static analysis](/security/#static-analysis).
 
 As such, all deployed applications should be pinning their library (and where
 possible: language, OS, etc.) versions. Let's look at how to implement this in
@@ -547,21 +550,21 @@ libraries (including dependencies of dependencies) will be referenced in the
 Both the `package.json` and lock file should be
 committed to the project repo.
 
-###### npm 6.x
+**npm 6.x**
 
 In npm 6.x, the `npm ci` command was introduced. This command will clear out
 `node_modules` and install the exact dependency tree as defined in
 `package-lock.json`. This is now the preferred method of ensuring dependencies
 are pinned in CI/CD. npm 6 or greater is the default from Node.js 10.3.0.
 
-###### npm 5.x
+**npm 5.x**
 
 Be sure to use an up-to-date npm 5.x client, as the lockfile behavior was
 buggy in early versions. **_Use at least npm 5.4.2._** Running `npm install`
 with no arguments will install the versions of libraries defined in the
 lockfile.
 
-###### npm < 5
+**npm < 5**
 
 If using `npm` < 5, you may imitate some of the above behavior by creating a
 "shrinkwrap" file. As you install packages, use `npm install --save` to update
