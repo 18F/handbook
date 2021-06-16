@@ -1,6 +1,5 @@
 ---
 title: Infrastructure
-permalink: "/before-you-ship/infrastructure"
 ---
 
 At some point, you're going to want to deploy your system. You have a good idea of the final destination of your system early on

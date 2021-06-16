@@ -420,12 +420,12 @@ primary:
               - text: Accessing DoD Systems
                 url: accessing-dod-systems/
                 internal: true
-          - text: Before you ship
+          - text: Launching software
             children: 
               - text: Lifecycle of a Launch 
-                url: before-you-ship/lifecycle/
-              - text: Security
-                url: before-you-ship/security/
+                url: lifecycle/
+              - text: Infrastructure
+                url: infrastructure/
 
       - text: TTS Solutions
         children:
