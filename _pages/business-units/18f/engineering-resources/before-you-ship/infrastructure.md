@@ -72,7 +72,7 @@ See [outstanding issue](https://github.com/18F/tts-tech-portfolio/issues/162).
 
 #### FISMA High systems
 
-There are some specific cases where the product is [categorized](../ato/levels/) “FISMA High”. This would usually only happen due to your product handling extremely sensitive information or being critical to normal government function. AWS GovCloud has received a [FedRAMP JAB Provisional ATO at the High level](https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-government-community-cloud-govcloud/).
+There are some specific cases where the product is [categorized](https://atos.open-control.org/categorization/) “FISMA High”. This would usually only happen due to your product handling extremely sensitive information or being critical to normal government function. AWS GovCloud has received a [FedRAMP JAB Provisional ATO at the High level](https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-government-community-cloud-govcloud/).
 
 Note however that when partner agencies assert that **of course** their product will be FISMA High, TTS often finds upon examination that a product should really be judged FISMA Moderate or FISMA Low... So don’t discard cloud.gov or AWS as options before probing that point carefully!
 
@@ -339,11 +339,11 @@ We will be adding more documentation about how to achieve these within TTS' infr
 
 **Logs**
 
-See [Logging](../logging/).
+See [Logging](#logging).
 
 **Monitoring**
 
-See [the page on monitoring](../monitoring/).
+See [the page on monitoring](#monitoring).
 
 **Alerting**
 
@@ -365,7 +365,7 @@ See [the page on monitoring](../monitoring/).
 - **Third-party services are approved to hold the data being sent to them**
 - Automated pen-testing in a staging environment as part of continuous deployment
 - Automated vuln-scanning in production environment that is fed with newly-discovered vulns
-- Enable [HTTPS](../certs/) for everything
+- Enable [HTTPS](#https-everywhere) for everything
 - Redirect http to https (automatic with cloud.gov and federalist)
 
 **Load-testing**
@@ -524,7 +524,7 @@ is to "freeze" dependencies so that deployments are repeatable. Without this,
 we run the risk of executing different software whenever servers are restaged,
 a new team-member joins the project, or between development and production
 environments. In addition to repeatability, pinning dependencies allows
-automatic notification of vulnerable dependencies via [static analysis](/security/#static-analysis).
+automatic notification of vulnerable dependencies via [static analysis]({{site.baseurl}}/security/#static-analysis).
 
 As such, all deployed applications should be pinning their library (and where
 possible: language, OS, etc.) versions. Let's look at how to implement this in
