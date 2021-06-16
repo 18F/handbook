@@ -6,12 +6,12 @@ permalink: /launching-software/infrastructure/
 ## Overview
 
 At some point, you're going to want to deploy your system. You have a good idea of the final destination of your system early on
-in the project. **If you're building [a site that has no server-side code](##static-sites), aim to use [Federalist](##federalist). If you're
+in the project. **If you're building [a site that has no server-side code](##static-sites), aim to use [Federalist](#federalist). If you're
 going to host server-side code, aim to deploy to [cloud.gov](##cloudgov).** You can also deploy to [TTS-managed infrastructure as a service (IaaS)](##infrastructure-as-a-service-iaas) directly, but your life will be harder. For GSA systems, see [comparison of hosting options](https://docs.google.com/spreadsheets/d/1TTu6R9vKOR5eiyC0tjF5XfaM9ozVp0FMoKDn_ZJOxG8/edit##gid=0).
 
 Whichever option you choose, [you should start deploying to a production-like environment from early on in the development process](https://blog.thepete.net/blog/2019/10/04/hello-production/).
 
-Note that sending traffic from the internet to your local machine for _any_ testing purposes is not permitted. In order to enable testing, you can request [sandbox accounts](sandbox/) on both cloud.gov or AWS.
+Note that sending traffic from the internet to your local machine for _any_ testing purposes is not permitted. In order to enable testing, you can request [sandbox accounts](#sandbox-accounts) on both cloud.gov or AWS.
 
 ### Themes
 
@@ -64,7 +64,7 @@ can be found on [cloud.gov's FedRAMP page](https://cloud.gov/docs/overview/fedra
 
 **Amazon Web Services (AWS)**
 
-If you do want to use AWS directly, see the [AWS](aws/) page.
+If you do want to use AWS directly, see the [AWS](#amazon-web-services) page.
 
 **Microsoft Azure and Google Cloud Platform (GCP)**
 
@@ -78,13 +78,13 @@ Note however that when partner agencies assert that **of course** their product 
 
 ### Static sites
 
-#### Federalist
+**Federalist**
 
 _Preferred_
 
-[More information.](federalist/)
+[More information.](#federalist)
 
-#### cloud.gov
+**cloud.gov**
 
 See cloud.gov page on [deploying static sites](https://docs.cloud.gov/apps/static/).
 
@@ -166,7 +166,7 @@ If you are unfamiliar with how to protect these credentials, please consult with
 
 ### Amazon Web Services
 
-At TTS, we use [Amazon Web Services](https://aws.amazon.com/) (AWS) as our [infrastructure as a service](https://en.wikipedia.org/wiki/Cloud_computing##Infrastructure_as_a_service_.28IaaS.29) (IaaS). We have separate AWS accounts for our production systems and [sandboxes](../sandbox) for development and testing. If you're used to developing locally, you should feel empowered to do everything you'd like in an AWS [sandbox account](../sandbox). Note that AWS is currently the **only** IaaS provider we are able to use in TTS right now. You're free to develop purely locally as long as you'd like, but _if you want to get a system online, AWS and cloud.gov are your only options_, of which cloud.gov is preferred.
+At TTS, we use [Amazon Web Services](https://aws.amazon.com/) (AWS) as our [infrastructure as a service](https://en.wikipedia.org/wiki/Cloud_computing##Infrastructure_as_a_service_.28IaaS.29) (IaaS). We have separate AWS accounts for our production systems and [sandboxes](#sandbox-accounts) for development and testing. If you're used to developing locally, you should feel empowered to do everything you'd like in an AWS [sandbox account](../sandbox). Note that AWS is currently the **only** IaaS provider we are able to use in TTS right now. You're free to develop purely locally as long as you'd like, but _if you want to get a system online, AWS and cloud.gov are your only options_, of which cloud.gov is preferred.
 
 In particular, you _cannot_ send traffic from the internet to your local machine - you _must_ use a sandbox account for this purpose.
 
@@ -327,7 +327,7 @@ We will be adding more documentation about how to achieve these within TTS' infr
 - Deployment only includes production-necessary files
 - Secrets are retrieved securely (eg via credential service rather than setting environment variables)
 - Download, build, and configuration limited to staging, not runtime
-- [Pin dependencies](../pinning-dependencies/)
+- [Pin dependencies](#pinning-dependencies)
 
 **Support**
 
