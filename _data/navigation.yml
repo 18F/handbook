@@ -413,7 +413,7 @@ primary:
               - text: Leadership Candidate Guide
                 url: leadership-candidate-guide/
               - text: Before you ship
-                url: before-you-ship/
+                url: https://before-you-ship.18f.gov
               - text: Doing research at 18F
                 url: research-guidelines/
                 internal: true
@@ -426,7 +426,6 @@ primary:
                 url: lifecycle/
               - text: Infrastructure
                 url: infrastructure/
-
       - text: TTS Solutions
         children:
           - text: About TTS Solutions
