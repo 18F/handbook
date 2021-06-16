@@ -1,6 +1,6 @@
 ---
 title: Infrastructure
-permalink: "/launching-software/infrastructure/"
+permalink: /launching-software/infrastructure/
 ---
 
 ## Overview
@@ -524,7 +524,7 @@ is to "freeze" dependencies so that deployments are repeatable. Without this,
 we run the risk of executing different software whenever servers are restaged,
 a new team-member joins the project, or between development and production
 environments. In addition to repeatability, pinning dependencies allows
-automatic notification of vulnerable dependencies via [static analysis]({{site.baseurl}}/security/#static-analysis).
+automatic notification of vulnerable dependencies via [static analysis](https://before-you-ship.18f.gov/security/static-analysis/).
 
 As such, all deployed applications should be pinning their library (and where
 possible: language, OS, etc.) versions. Let's look at how to implement this in
