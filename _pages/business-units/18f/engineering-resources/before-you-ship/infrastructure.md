@@ -1,6 +1,6 @@
 ---
 title: Infrastructure
-permalink: /launching-software/infrastructure/
+permalink: launching-software/infrastructure/
 ---
 
 ## Overview
