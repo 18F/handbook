@@ -50,7 +50,7 @@ search the handbook for the items in your list. You'll find tons of extra inform
 
 Don't underestimate how helpful your teammates will be, either.
 Talk to them - in Slack, in Google Hangouts, or in person, if you are based in one of our offices.
-Set up coffees --- just say "Coffee me" in a Slack channel and our CoffeeMate script will pair you up with someone.
+Set up coffees --- just say "Coffee me" in a Slack channel that has our bot [Charlie](http://github.com/18f/charlie) in it (or in a DM to Charlie) and you will be paired up with someone.
 Don't hesitate to reach out for coffee with someone outside of your area, either.
 Everyone here is positively brimming with useful information to share.
 

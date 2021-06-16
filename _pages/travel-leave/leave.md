@@ -146,6 +146,14 @@ The [OPM military leave fact sheet](https://www.opm.gov/policy-data-oversight/pa
 
 Refer to the GSA [Time and Leave Policy](https://insite.gsa.gov/cdnstatic/insite/HRM_60101_Time_and_Leave_Administration_Policy_%28Posted_Version_-_March_23%2C_2020%29.pdf) and contact the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name to let them know if you have military orders.
 
+### Disabled veteran leave (DVL)
+
+A veteran with a service-connected disability rating of 30 percent or more from the Veterans Benefits Administration (VBA) of the Department of Veterans Affairs is entitled to up to 104 hours of disabled veteran leave for the purposes of undergoing medical treatment for such disability.
+
+The employee will have a single, continuous 12-month eligibility period, beginning on the “first day of employment” in which to use the leave or it will be **forfeited with no opportunity to carry over** the leave into subsequent years.
+
+For additional information, please reference the [Disabled Veteran Fact Sheet on opm.gov](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/disabled-veteran-leave/).
+
 ## Extended leave
 
 ### Unpaid leave
@@ -277,8 +285,12 @@ Adjusting work schedules for religious observances is handled differently than l
 
 ## Time tracking
 
-18F employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
+Billable TTS employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
 
 [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock]({{ site.baseurl }}/tock), which is TTS' own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
 
 For more information on leave, see the [Benefits class](../benefits#leave) and the [GSA Tools and Equipment class](../gsa-internal-tools).
+
+## Transferring leave from another federal agency
+
+Annual Leave and Sick Balances can take up to 3 pay periods to transfer to GSA depending on the speed of your previous payroll provider. If you have your final Earnings and Leave Statement available from your previous agency, you can send a copy to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) to expedite the process.
