@@ -64,6 +64,16 @@ Prettier, it will automatically be fixed by a bot; you have the option to run
 Prettier locally before pushing to avoid this extra commit, but it is not
 required.
 
+### File/folder structure
+
+By default, any Markdown file created in the `_pages` directory, regardless of its nesting, will have a URL at the top-level. For example, if you create some new content at `_pages/awesome-resources/pizza.md`, the URL will look like `https://handbook.tts.gsa.gov/pizza`. 
+
+If you do in fact want the nesting, you have two options. First, if you want the page nested under `_pages`, you can use the `permalink` Jekyll feature. In the [front matter](https://jekyllrb.com/docs/front-matter/) of the new Markdown file, you can include the following line: `permalink: /awesome-resources/pizza/`; when you configure the new page in the `_data/navigation.yml` file, just make sure to omit the first forward flash when you set the url: `url: awesome-resources/pizza`.
+
+An alternative, and perhaps more straightforward, method is to simply create the new directory at the top-level of the project (i.e. at the same level as `_pages`). In this example, you would create a new directory `awesome-resources` and place the new `pizza.md` file inside it. 
+
+The choice, as of 06/17/2021 is up to you, but the Tech Portfolio team hopes to determine a recommended approach soon.
+
 ### Pull requests (PRs)
 
 Each pull request should be reviewed by at least one other TTS staff member before merging. Once a PR is approved, anyone can merge it (including the original submitter).
