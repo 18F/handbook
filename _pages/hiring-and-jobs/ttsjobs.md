@@ -49,7 +49,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA FAS WIDE: Program Analyst 343-13](https://www.usajobs.gov/GetJob/ViewDetails/602447700#) - open Wednesday, May 26th until Tuesday, July 6th
 
-- [TTS WIDE: Design Team Lead](https://docs.google.com/document/d/1-9cKTdO2MaeYTaJvOtQ0yU0UJttYGM3gEpRakzOLAck/) - open Thursday, June 11th until Friday July 2nd
+- [TTS WIDE: Design Team Lead](https://docs.google.com/document/d/1tdZnBTWY6alMuvbLuLALxzChMdMZe1utXAMn_Cpf3uY/edit?ts=60cb6c73) - open Thursday, June 11th until Friday July 2nd
 
 ## Opportunities with partners
 
