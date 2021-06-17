@@ -201,7 +201,7 @@ This means:
 
 In order to ensure that systems remain available even in the face of hardware failures within AWS leading to VMs being terminated, all EC2 instances must be launched within an [auto-scaling group](https://aws.amazon.com/autoscaling/) from an AMI.
 
-** VPCs**
+**VPCs**
 
 To ensure logical partitioning of systems running within the TTS production environment, every system must be hosted within its own [virtual private cloud](https://aws.amazon.com/vpc/) (VPC). Network security settings are set at the VPC level, including what ports IP addresses EC2 instances can communicate with each other and back out to the internet.
 
