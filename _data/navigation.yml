@@ -428,6 +428,8 @@ primary:
                 url: security/
               - text: Infrastructure
                 url: launching-software/infrastructure/
+              - text: Laws
+                url: launching-software/laws/
       - text: TTS Solutions
         children:
           - text: About TTS Solutions
