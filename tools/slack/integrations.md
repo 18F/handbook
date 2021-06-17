@@ -20,7 +20,7 @@ If you're interested in learning more about the bots, or perhaps contributing to
 
 ### New integrations
 
-You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. You can also freely add new configurations for "Incoming WebHooks," which is on a [different page](https://gsa-tts.slack.com/apps/manage/custom-integrations). For any new integration types, please follow the process below.
+You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. For getting notifications into Slack with a custom integration, you can [create a new App for Incoming Webhooks](https://api.slack.com/messaging/webhooks), which will be approved. For any new integration types, please follow the process below.
 
 **[Integration request form](https://docs.google.com/forms/d/e/1FAIpQLSfo6M9aFT_UvUng9pl-Tti9RsHedqXfQ773btIdxoVxwEuoAg/viewform?gxids=7628)**
 
