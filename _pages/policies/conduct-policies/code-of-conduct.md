@@ -16,6 +16,7 @@ We expect everyone on the TTS team to exhibit these behaviors and abide by appli
   - Office chat rooms, like Slack
   - Mailing lists and email
   - Code repositories, like GitHub
+  - Emoji, avatars, and other expressive reactions
 
 ## What We Strive For
 
@@ -69,6 +70,7 @@ In addition, the following behaviors violate applicable laws and policies, or ot
 - Mocking someone&#39;s real or perceived accent or first language.
 - Repeatedly interrupting or talking over other people in meetings and discussions.
 - Negative or offensive remarks based on gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, or body size.
+- Using emoji or creation of custom emoji for unacceptable behavior.
 
 ## Reporting violations
 
