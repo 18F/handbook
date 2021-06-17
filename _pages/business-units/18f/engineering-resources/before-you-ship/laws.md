@@ -3,8 +3,6 @@ title: Laws
 permalink: /launching-software/laws/
 ---
 
-## Overview
-
 Government requirements for shipping projects fall into the following categories:
 
 - Information Collection
