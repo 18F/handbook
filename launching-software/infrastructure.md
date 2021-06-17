@@ -441,11 +441,11 @@ For a non-static site, you will want to know if exceptions are being thrown with
 
 ### Analytics
 
-[DAP](https://digital.gov/dap/) should be added to all public-facing pages.
+[DAP](https://digital.gov/dap/) should be added to all public-facing pages. [Request access.](https://docs.google.com/forms/d/e/1FAIpQLSc002Xp2hMjH0KxzilzfKG-ei8TzHLK-uady-qQbbAZms7jNQ/viewform)
 
 For custom events, DAP and/or [New Relic](https://docs.newrelic.com/docs/using-new-relic/metrics) can be used.
 
-Ask ##g-analytics if you have questions.
+Ask [#analytics](https://gsa-tts.slack.com/messages/analytics) if you have questions.
 
 **Alert Conditions**
 
