@@ -207,7 +207,7 @@ To ensure logical partitioning of systems running within the TTS production envi
 
 Occasionally, out-of-date documentation from third parties and Amazon itself may reference _EC2 Classic_. We at TTS do not support this environment.
 
-** HTTPS Everywhere**
+**HTTPS Everywhere**
 
 Regardless of what your system does, we enforce [HTTPS
 Everywhere](#https-certificates).
