@@ -429,7 +429,9 @@ primary:
               - text: Infrastructure
                 url: launching-software/infrastructure/
               - text: Laws
-                url: launching-software/laws/
+                url: launching-software/laws/                
+              - text: Privacy
+                url: launching-software/privacy/
       - text: TTS Solutions
         children:
           - text: About TTS Solutions
