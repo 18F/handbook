@@ -66,7 +66,7 @@ required.
 
 ### File/folder structure
 
-By default, any Markdown file created in the `_pages` directory, regardless of its nesting, will have a URL at the top-level. For example, if you create some new content at `_pages/awesome-resources/pizza.md`, the URL will look like `https://handbook.tts.gsa.gov/pizza`.
+By default, any Markdown file created in the `_pages` directory, regardless of its nesting, will have a URL at the top-level. For example, if you create some new content at `_pages/awesome-resources/pizza.md`, the URL will look like `https://handbook.tts.gsa.gov/pizza/`.
 
 If you do in fact want the nesting, you have two options. First, if you want the page nested under `_pages`, you can use the `permalink` Jekyll feature. In the [front matter](https://jekyllrb.com/docs/front-matter/) of the new Markdown file, you can include the following line: `permalink: /awesome-resources/pizza/`; when you configure the new page in the `_data/navigation.yml` file, just make sure to omit the first forward flash when you set the url: `url: awesome-resources/pizza`.
 
