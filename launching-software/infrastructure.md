@@ -1,6 +1,5 @@
 ---
 title: Infrastructure
-permalink: /launching-software/infrastructure/
 ---
 
 ## Overview
@@ -39,7 +38,7 @@ _Preferred_
 
 TTS uses AWS as the underlying IaaS, but spending effort at the IaaS level is not the best use of your team’s time. TTS has invested in developing [cloud.gov](https://cloud.gov/) to provide for the most common infrastructure needs. cloud.gov uses [Cloud Foundry](https://www.cloudfoundry.org/) – an open source Platform-as-a-Service (PaaS) – as a team-friendly abstraction above AWS, encapsulating good practice cloud hosting without having to worry about a lot of the details. For most of the products that TTS develops, deploying onto cloud.gov will:
 
-- Minimize [ATO]({{site.baseurl}}/lifecycle/#atos) compliance overhead (which is quite hefty) and reduce security concerns
+- Minimize [ATO]({{site.baseurl}}/launching-software/lifecycle/#atos) compliance overhead (which is quite hefty) and reduce security concerns
 - Reduce TTS’s overhead for handling infrastructure billing, since it is fully self-service
 - Make it easier for teams to ensure high availability/scalability
 
@@ -99,7 +98,7 @@ Sandbox accounts - both cloud.gov and AWS - are available to all TTS staff for n
   purposes. Nobody outside the federal government should be given
   access details for systems running in the sandbox unless
   authentication is in place. Exposing systems to the public without
-  authentication requires an [ATO]({{site.baseurl}}/lifecycle/#atos).
+  authentication requires an [ATO]({{site.baseurl}}/launching-software/lifecycle/#atos).
 - Sandbox accounts _must_ be used when you are sending internet traffic to a non-production system: tools such as `ngrok` and `localtunnel` are strictly forbidden since they can allow your laptop to be compromised.
 - No sensitive or [personally identifiable information (PII)](https://before-you-ship.18f.gov/privacy/) should be stored in sandbox accounts.
 - Any system that becomes publicly routable (ex: for testing) must have a [robots.txt configuration](http://www.robotstxt.org/faq/prevent.html) that prevents indexing by all search engine robots.

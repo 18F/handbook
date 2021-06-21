@@ -1,13 +1,12 @@
 ---
 title: Security
-permalink: security/
 ---
 
 ## General Security Standards
 
 In the Federal government, the principal law governing the security of information systems is the Federal Information Security Modernization Act (FISMA). For more information on FISMA, check out the [FISMA Implementation Project ](https://csrc.nist.gov/projects/risk-management), which will help you stay up to date and in the know about all things FISMA. If you're inclined to see TTS' intepretation of FISMA from a user-center approach, take a look at a previous project from the TTS Tech Portfolio and cloud.gov known as [FISMA Ready](https://github.com/fisma-ready/introduction).
 
-Most of the security practices have been integrated into the [ATO]({{site.baseurl}}/lifecycle/#atos) portion of this guide and summarized in this [slide deck](https://docs.google.com/presentation/d/1IJurX7Jc5XAQqmJSZtGZeJ8pk3IMfEIMRh1frmCpHlA/edit#slide=id.g601ed6ebc1_0_496) from one of the 18F engineers. Here are a few pointers to get you started:
+Most of the security practices have been integrated into the [ATO]({{site.baseurl}}/launching-software/lifecycle/#atos) portion of this guide and summarized in this [slide deck](https://docs.google.com/presentation/d/1IJurX7Jc5XAQqmJSZtGZeJ8pk3IMfEIMRh1frmCpHlA/edit#slide=id.g601ed6ebc1_0_496) from one of the 18F engineers. Here are a few pointers to get you started:
 
 - DevOps isn't a team at TTS, but a skillset. We are all responsible for the security and operations of our systems.
 - The security of our users' information is paramount, even moreso when it is [personally identifiable information (PII)](https://before-you-ship.18f.gov/privacy/). The types of information your system may process helps determine the type of ATOs available to you and [whether or not you will need to conduct a Privacy Impact Assessment (PIA)](https://before-you-ship.18f.gov/privacy/).
@@ -70,7 +69,7 @@ All of these tests must be conducted on an environment that is _identical to pro
 
 **Expectation management**
 
-Overall, if _no_ vulnerabilities are found, this process has been taking approximately 2 weeks for test preparation and [System Security Plan]({{site.baseurl}}/lifecycle/#system-security-plan) writing and 2 weeks for greybox testing and [signature](https://atos.open-control.org/steps/#step-5-authorize-information-system). FISMA Moderate and FISMA High will require additional time.
+Overall, if _no_ vulnerabilities are found, this process has been taking approximately 2 weeks for test preparation and [System Security Plan]({{site.baseurl}}/launching-software/lifecycle/#system-security-plan) writing and 2 weeks for greybox testing and [signature](https://atos.open-control.org/steps/#step-5-authorize-information-system). FISMA Moderate and FISMA High will require additional time.
 
 Since the time it would take to resolve vulnerabilities is not known until a vulnerability is identified, it is **strongly recommended** that no expectations are set with Federal partners or GSA stakeholders when public testing will begin. Instead, we recommend that the authorization process is seen as part of the delivery process and your definition of "done".
 
@@ -287,4 +286,4 @@ All TTS systems requiring authentication **must** use multiple factors. Examples
 - [**OMB Max**](https://max.gov/) - requires an Inter-Agency Agreement
 - [**Login.gov**](https://login.gov) - requires an Memorandum of Understanding for new agencies
 
-Systems in the [pre-assessment]({{site.baseurl}}/lifecycle/#conditions-for-pre-assessment) phase do not require MFA.
+Systems in the [pre-assessment]({{site.baseurl}}/launching-software/lifecycle/#conditions-for-pre-assessment) phase do not require MFA.
