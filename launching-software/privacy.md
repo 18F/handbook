@@ -1,6 +1,5 @@
 ---
 title: Privacy
-permalink: /launching-software/privacy/
 ---
 
 The GSA Privacy Office ([public](https://www.gsa.gov/privacygsa) and [internal](https://insite.gsa.gov/privacygsa) pages) preserves and evolves privacy protections for any individual whose personal information is handled by the agency. In practice, this requires the Office to [conduct periodic privacy threshold analyses (PTAs) and privacy impact assessments (PIAs)](https://gsa.gov/portal/getMediaData?mediaId=199855) for each of the GSA&rsquo;s programs and information systems. This helps the Office ensure legal compliance and mitigate privacy risks.

@@ -274,6 +274,18 @@ primary:
               - text: Within Grade Increases (opm.gov)
                 url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
                 internal: false
+          - text: Launching software
+            children: 
+              - text: Lifecycle of a Launch 
+                url: launching-software/lifecycle/
+              - text: Security
+                url: launching-software/security/
+              - text: Infrastructure
+                url: launching-software/infrastructure/
+              - text: Laws
+                url: launching-software/laws/
+              - text: Privacy
+                url: launching-software/privacy/
   - text: TTS Offices
     href: /#tts-offices
     blurb: |
@@ -420,18 +432,6 @@ primary:
               - text: Accessing DoD Systems
                 url: accessing-dod-systems/
                 internal: true
-          - text: Launching software
-            children: 
-              - text: Lifecycle of a Launch 
-                url: lifecycle/
-              - text: Security
-                url: security/
-              - text: Infrastructure
-                url: launching-software/infrastructure/
-              - text: Laws
-                url: launching-software/laws/                
-              - text: Privacy
-                url: launching-software/privacy/
       - text: TTS Solutions
         children:
           - text: About TTS Solutions

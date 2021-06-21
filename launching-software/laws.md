@@ -1,6 +1,5 @@
 ---
 title: Laws
-permalink: /launching-software/laws/
 ---
 
 Government requirements for shipping projects fall into the following categories:
