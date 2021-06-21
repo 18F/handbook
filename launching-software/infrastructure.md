@@ -100,7 +100,7 @@ Sandbox accounts - both cloud.gov and AWS - are available to all TTS staff for n
   authentication is in place. Exposing systems to the public without
   authentication requires an [ATO]({{site.baseurl}}/launching-software/lifecycle/#atos).
 - Sandbox accounts _must_ be used when you are sending internet traffic to a non-production system: tools such as `ngrok` and `localtunnel` are strictly forbidden since they can allow your laptop to be compromised.
-- No sensitive or [personally identifiable information (PII)](https://before-you-ship.18f.gov/privacy/) should be stored in sandbox accounts.
+- No sensitive or [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy) should be stored in sandbox accounts.
 - Any system that becomes publicly routable (ex: for testing) must have a [robots.txt configuration](http://www.robotstxt.org/faq/prevent.html) that prevents indexing by all search engine robots.
 
 ### Cloud.gov sandbox accounts
@@ -229,7 +229,7 @@ Use common sense when handling this information. Unless you have permission _and
 - Don't share information
 - Don't view information
 
-Regardless of your own norms around privacy, always assume the owner of that data has the most conservative requirements unless they have taken express action, either through a communication or the system itself, telling you otherwise. Take particular care in protecting sensitive [personally identifiable information (PII)](https://before-you-ship.18f.gov/privacy/).
+Regardless of your own norms around privacy, always assume the owner of that data has the most conservative requirements unless they have taken express action, either through a communication or the system itself, telling you otherwise. Take particular care in protecting sensitive [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy).
 
 **Your information**
 
@@ -523,7 +523,8 @@ is to "freeze" dependencies so that deployments are repeatable. Without this,
 we run the risk of executing different software whenever servers are restaged,
 a new team-member joins the project, or between development and production
 environments. In addition to repeatability, pinning dependencies allows
-automatic notification of vulnerable dependencies via [static analysis](https://before-you-ship.18f.gov/security/static-analysis/).
+automatic notification of vulnerable dependencies via [static
+analysis]({{site.baseurl}}/launching-software/security/#static-analysis).
 
 As such, all deployed applications should be pinning their library (and where
 possible: language, OS, etc.) versions. Let's look at how to implement this in

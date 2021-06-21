@@ -46,7 +46,7 @@ Work together with your Infrastructure Lead on this step. The documentation gene
 
 [General info](https://atos.open-control.org/steps/#step-4-assess-security-controls)
 
-The first step in doing so is to run the [security scans](https://before-you-ship.18f.gov/security/scanning/). This is a preliminary assessment, final assessment will be done in collaboration with GSA OCISO. You are encouraged to run scans yourself, so that there aren't big surprises during the ATO Sprint.
+The first step in doing so is to run the [security scans]({{site.baseurl}}/security/#scanning). This is a preliminary assessment, final assessment will be done in collaboration with GSA OCISO. You are encouraged to run scans yourself, so that there aren't big surprises during the ATO Sprint.
 
 In parallel, you will collaborate with a GSA OCISO assessor to verify all the controls in the SSP. The exact tests are given by this [assessment case template](https://docs.google.com/spreadsheets/d/1xYv9PHk6P1ePHSQcJWXSAYbAvmxzSsDOZrdS285DKYY/edit?ts=58eba80c#gid=1541480683).
 
@@ -66,9 +66,9 @@ Folks from OCISO will conduct a penetration test on the system. Any penetration 
 
 There are several ways to ensure that your system remains compliant:
 
-- Act on any security notifications from your [static analysis](https://before-you-ship.18f.gov/security/static-analysis/).
-- Perform and act on findings from [dynamic scanning](https://before-you-ship.18f.gov/security/dynamic-scanning/).
-- [Re-certify your Privacy Threshold Analysis (PTA).](https://before-you-ship.18f.gov/privacy/#re-certification)
+- Act on any security notifications from your [static analysis]({{site.baseurl}}/launching-software/security/#static-analysis).
+- Perform and act on findings from [dynamic scanning]({{site.baseurl}}/launching-software/security/#dynamic-scanning).
+- [Re-certify your Privacy Threshold Analysis (PTA).]({{site.baseurl}}/launching-software/privacy/#re-certification)
 
 ### Re-authorization
 
@@ -132,7 +132,7 @@ You may operate without further authorization, based on our approved pre-existin
 - The system is deployed to [cloud.gov](https://cloud.gov) or [TTS-managed infrastructure-as-a-service (IaaS)](https://before-you-ship.18f.gov/infrastructure/#infrastructure-as-a-service-iaas).
 - The system does _not_:
   - interact with or change the state of any production Federal information system, whether it is operated by TTS or our Federal partners
-  - collect or store any sensitive [personally identifiable information (PII)](https://before-you-ship.18f.gov/privacy/)
+  - collect or store any sensitive [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy)
   - is not the canonical source of any "production" data
 - The system is _only_ available to:
   - staff of the General Services Administration
