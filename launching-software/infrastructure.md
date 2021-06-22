@@ -28,7 +28,7 @@ In general:
   - GitHub Pages ([why](https://18f.gsa.gov/2015/05/14/18Fpages/))
   - Heroku and other platform services
   - Your personal AWS account
-- Any questions? Ask in [##infrastructure](https://18f.slack.com/messages/infrastructure/).
+- Any questions? Ask in [#infrastructure](https://18f.slack.com/messages/infrastructure/).
 
 ### Server-side code
 
@@ -77,9 +77,7 @@ Note however that when partner agencies assert that **of course** their product 
 
 ### Static sites
 
-**Federalist**
-
-_Preferred_
+**Federalist** (preferred)
 
 [More information.](#federalist)
 
@@ -119,7 +117,7 @@ except Identity and Access Management (IAM).
   - [COE](https://docs.google.com/forms/d/e/1FAIpQLSdn8Pjof5xWZSkopkEU6pumQlXGYfU4fMN9efmoDzffm2MW4A/viewform)
 - [Sign in to your sandbox account](https://tts-sandbox.signin.aws.amazon.com/console)
 
-#### Rules
+**Rules**
 
 - The sandbox is for testing and demonstration purposes only. Nobody outside the federal government should be given access details for systems running in the sandbox unless authentication is in place.
 - No [sensitive information](https://github.com/18F/open-source-policy/blob/master/practice.md##protecting-sensitive-information) can be stored in the sandbox accounts.
@@ -131,7 +129,7 @@ except Identity and Access Management (IAM).
 
 There are a few special notes on using any "Infrastructure as a Service" in the Federal context.
 
-#### Other people's money
+**Other people's money**
 
 The federal government cannot pay one penny more than it is authorized to spend. There is no retroactive justification for spends. When government exceeds these limits, a report and explanation is required to the GSA Administrator, General Counsel, and Congress. So tracking costs is a _big deal_.
 
@@ -145,11 +143,11 @@ Thus in order to keep our rates low, it's extremely important to bill
 infrastructure costs, including non-production costs, to agency partners
 wherever possible. If the work you are doing is in support of a project which
 has an inter-agency agreement (IAA), you _must_ register your system with
-[##infrastructure](https://gsa-tts.slack.com/messages/C039MHHF8/), including the
+[#infrastructure](https://gsa-tts.slack.com/messages/C039MHHF8/), including the
 Tock project code and the infrastructure tag you will be using, and tag any AWS
 resources accordingly so we can bill these costs to our partner agencies.
 
-#### Credentials
+**Credentials**
 
 These are things like your AWS password, secret API key, and the
 mobile device that generates your multi-factor authentication
@@ -189,7 +187,7 @@ In order to ensure systems deployed to AWS are robust and reliable, and to ensur
 
 **Permissions**
 
-Anyone in TTS can get access to the AWS [sandbox account](#sandbox-accounts). However only the TTS infrastructure team has login credentials to our production TTS account, and they are only used for debugging and incident management purposes. All systems are deployed using a continuous delivery service from scripts stored in version control, and registered with [##infrastructure](https://gsa-tts.slack.com/messages/C039MHHF8/).
+Anyone in TTS can get access to the AWS [sandbox account](#sandbox-accounts). However only the TTS infrastructure team has login credentials to our production TTS account, and they are only used for debugging and incident management purposes. All systems are deployed using a continuous delivery service from scripts stored in version control, and registered with [#infrastructure](https://gsa-tts.slack.com/messages/C039MHHF8/).
 
 This means:
 
@@ -237,7 +235,7 @@ In order to make sure we are protecting the integrity of the public systems, **_
 
 **Tagging**
 
-Tagging resources in AWS is essential for identifying and tracking resources deployed. A tagged resource makes it easier for reasoning from a [billing perspective](#other-peoples-money) and aids in determining if a system is in a particular environment (ex. production). See the [sandbox](#sandbox-accounts) environment to see how tagged resources enables lifecycle management of resources in AWS.
+Tagging resources in AWS is essential for identifying and tracking resources deployed. A tagged resource makes it easier for reasoning from a [billing perspective](#important-notes-for-aws-users) and aids in determining if a system is in a particular environment (ex. production). See the [sandbox](#sandbox-accounts) environment to see how tagged resources enables lifecycle management of resources in AWS.
 
 At a minimum, an AWS resource must have a `Project` tag defined with enough information to be able to identify a project that the AWS resource is associated with.
 
@@ -679,4 +677,4 @@ _This list comes from GSA’s [AU-2a](https://nvd.nist.gov/800-53/Rev4/control/a
 
 When taking down a production system, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=decommission.md&title=decommission+%5Bsystem%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/decommission.md)). Feel free to add/remove tasks as appropriate, add a username after each task to assign it, and/or make corresponding items in your issue tracker. [Here's a more extensive list](https://github.com/18F/myusa/issues/762). The [General Records Schedules 3.x](https://www.archives.gov/records-mgmt/grs.html) are relevant, as well.
 
-You are welcome to ask any questions as comments in the issue or [##infrastructure](https://gsa-tts.slack.com/messages/infrastructure).
+You are welcome to ask any questions as comments in the issue or [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure).
