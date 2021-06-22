@@ -1,5 +1,7 @@
 ---
 title: Public disclosures of vulnerabilities
+questions:
+  - vuln-disclosure
 ---
 
 When someone in the public alerts TTS to a potential vulnerability in our systems, we need to act quickly.
