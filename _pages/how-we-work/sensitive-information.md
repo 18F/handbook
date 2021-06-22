@@ -1,7 +1,7 @@
 ---
 title: Sensitive information
 questions:
-  - questions
+  - infrastructure
 ---
 
 Here's what you need to know about sensitive information at TTS.
@@ -10,9 +10,57 @@ Here's what you need to know about sensitive information at TTS.
 
 Anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands. To learn what information we consider sensitive, see [our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information). See also: [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
 
+Here are some [examples of sensitive information](https://github.com/18F/aws-admin/issues/92#issuecomment-768332113):
+
+- passwords
+- API Keys
+- private certificates and keys
+- usernames
+- email (messages)
+- IP addresses
+- subnets
+- resource IDs
+- account IDs
+- non-public security vulnerabilities
+- roles, policies, and group membership
+- Personally Identifiable Information (PII)
+- PCI
+- Controlled Unclassified Information (CUI)
+- FTI
+- ePHI/PHI
+- some kinds of acquisition information
+- emergency procedures, such as evacuation plans
+
+Not all sensitive information is treated the same. TTS categorizes sensitive
+information as **secrets**, **privacy**, and **other** sensitive information in
+order to help provide guidance for how to handle different types of sensitive
+information.
+
+**Secrets**, like passwords, API keys, and private keys should **NOT** be keep
+in source code repositories. Instead, use [alternative secret
+management](#tools) approaches and solutions.
+
+**Privacy** information, like PII, has [its own guidance](https://before-you-ship.18f.gov/privacy/).
+
+**Other** sensitive information, like IP addresses, subnets, and AWS account
+IDs, may be kept in a _private_ repository.
+
+It's okay to publish IAM roles, policies, and group names as long as _who_
+belongs to those is not attached to the information. This helps deter spear
+phishing. You may store this information in a _private_ repository.
+
+If you aren't sure whether something is sensitive information, ask
+[#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) for advice
+_first_. Please don't include the potentially sensitive information in Slack.
+
+If you inadvertently come into the possession of classified information (Secret,
+Top Secret, etc.), you should immediately follow our [security incident
+process](https://handbook.tts.gsa.gov/security-incidents/).
+
+
 ## What to do if you find or expose sensitive information
 
-See [Reporting other incidents]({{site.baseurl}}/security-incidents/#reporting-other-incidents)
+See [reporting other incidents]({{site.baseurl}}/security-incidents/#reporting-other-incidents).
 
 ## Tools
 
