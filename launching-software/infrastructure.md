@@ -100,7 +100,7 @@ Sandbox accounts - both cloud.gov and AWS - are available to all TTS staff for n
   authentication is in place. Exposing systems to the public without
   authentication requires an [ATO]({{site.baseurl}}/launching-software/lifecycle/#atos).
 - Sandbox accounts _must_ be used when you are sending internet traffic to a non-production system: tools such as `ngrok` and `localtunnel` are strictly forbidden since they can allow your laptop to be compromised.
-- No sensitive or [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy) should be stored in sandbox accounts.
+- No sensitive or [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy/) should be stored in sandbox accounts.
 - Any system that becomes publicly routable (ex: for testing) must have a [robots.txt configuration](http://www.robotstxt.org/faq/prevent.html) that prevents indexing by all search engine robots.
 
 ### Cloud.gov sandbox accounts
