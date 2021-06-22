@@ -57,7 +57,6 @@ If you inadvertently come into the possession of classified information (Secret,
 Top Secret, etc.), you should immediately follow our [security incident
 process](https://handbook.tts.gsa.gov/security-incidents/).
 
-
 ## What to do if you find or expose sensitive information
 
 See [reporting other incidents]({{site.baseurl}}/security-incidents/#reporting-other-incidents).
