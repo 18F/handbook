@@ -33,6 +33,7 @@ It is optional, and can contain one or more Slack channel name, email address, a
 - This handbook website and repository are public
 - We're careful about publishing [information collected during research](https://handbook.tts.gsa.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#g-research](https://gsa-tts.slack.com/archives/g-research) for guidance first
 - Try to avoid "click here" links. If necessary, be sure to follow the [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
+- TTS-wide information should be public by default and link to Google Docs for anything that shouldn't be publicly visible.
 
 ## Fork or branch?
 
