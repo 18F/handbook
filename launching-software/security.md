@@ -9,7 +9,7 @@ In the Federal government, the principal law governing the security of informati
 Most of the security practices have been integrated into the [ATO]({{site.baseurl}}/launching-software/lifecycle/#atos) portion of this guide and summarized in this [slide deck](https://docs.google.com/presentation/d/1IJurX7Jc5XAQqmJSZtGZeJ8pk3IMfEIMRh1frmCpHlA/edit#slide=id.g601ed6ebc1_0_496) from one of the 18F engineers. Here are a few pointers to get you started:
 
 - DevOps isn't a team at TTS, but a skillset. We are all responsible for the security and operations of our systems.
-- The security of our users' information is paramount, even moreso when it is personally identifiable information (PII). The types of information your system may process helps determine the type of ATOs available to you and [whether or not you will need to conduct a Privacy Impact Assessment (PIA)]({{site.baseurl}}/launching-software/privacy).
+- The security of our users' information is paramount, even moreso when it is personally identifiable information (PII). The types of information your system may process helps determine the type of ATOs available to you and [whether or not you will need to conduct a Privacy Impact Assessment (PIA)]({{site.baseurl}}/launching-software/privacy/).
 - Be wary of systems that:
   - trust unsanitized information from the internet
   - do not encrypt data, both at rest and in transit
