@@ -229,7 +229,7 @@ Use common sense when handling this information. Unless you have permission _and
 - Don't share information
 - Don't view information
 
-Regardless of your own norms around privacy, always assume the owner of that data has the most conservative requirements unless they have taken express action, either through a communication or the system itself, telling you otherwise. Take particular care in protecting sensitive [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy).
+Regardless of your own norms around privacy, always assume the owner of that data has the most conservative requirements unless they have taken express action, either through a communication or the system itself, telling you otherwise. Take particular care in protecting sensitive [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy/).
 
 **Your information**
 
