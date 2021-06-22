@@ -1,7 +1,7 @@
 ---
 title: Sensitive information
 questions:
-  - questions
+  - infrastructure
 ---
 
 Here's what you need to know about sensitive information at TTS.
@@ -28,6 +28,8 @@ Here are some [examples of sensitive information](https://github.com/18F/aws-adm
 - Controlled Unclassified Information (CUI)
 - FTI
 - ePHI/PHI
+- some kinds of acquisition information
+- emergency procedures, such as evacuation plans
 
 Not all sensitive information is treated the same. TTS categorizes sensitive
 information as **secrets**, **privacy**, and **other** sensitive information in
@@ -46,6 +48,15 @@ IDs, may be kept in a _private_ repository.
 It's okay to publish IAM roles, policies, and group names as long as _who_
 belongs to those is not attached to the information. This helps deter spear
 phishing. You may store this information in a _private_ repository.
+
+If you aren't sure whether something is sensitive information, ask
+[#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) for advice
+_first_. Please don't include the potentially sensitive information in Slack.
+
+If you inadvertently come into the possession of classified information (Secret,
+Top Secret, etc.), you should immediately follow our [security incident
+process](https://handbook.tts.gsa.gov/security-incidents/).
+
 
 ## What to do if you find or expose sensitive information
 
