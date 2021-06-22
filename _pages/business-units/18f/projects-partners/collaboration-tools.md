@@ -79,7 +79,7 @@ Here are some common barriers to using these tools with partners and some workar
 
 Here are some common barriers to using Drive with partners and some workarounds to try:
 
-- **IF** the partner doesn't have a government Google account, **THEN** create GACA accounts for partners, or share files via services below or via email.
+- **IF** the partner doesn't have a government Google account, **THEN** create [GACA](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/gsa-affiliated-customer-account-gaca) accounts for partners, or share files via services below or via email.
 - **IF** they're blocked by firewall/security issues, **THEN** try options below.
 
 <details markdown="block">
@@ -172,6 +172,8 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 - Truly low-impact: Mural shouldn't be used to store anything confidential or authoritative. Instead, use it for ephemeral organization of information and production visualizations. Non-GSA participants are invited to use the service anonymously.
 </details>
 
+- **IF** all the participants are on a Google Meet (or at least have Google/[GACA](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/gsa-affiliated-customer-account-gaca) accounts), **THEN** try [Google Jamboard](https://jamboard.google.com/): it's well-integrated and provides a simplified, touch-friendly interface.
+
 ### Feedback Collection
 
 **Qualtrics** is a feedback collection tool that helps with creating surveys. These surveys can be distributed in a variety of ways including on websites like [usa.gov](https://www.usa.gov/); and used to create data dashboards. Any TTS employee may use this tool for free. The [Qualtrics Handbook page]({{site.baseurl}}/qualtrics/) has detailed information on how to request a license and use the tool.
@@ -242,3 +244,7 @@ Per the [IT Standards policy](<https://www.gsa.gov/directive/gsa-information-te
 In other words, it is generally fine to use a tool authorized and maintained by a partner agency. If you're not sure, ask.
 
 That said, only [approved software]({{site.baseurl}}/software/#approvals) can be installed on GSA machines. This often means using web-based versions, where possible.
+
+## See also
+
+- [GSA's Future of Digital Work Collaboration Tool list](https://sites.google.com/a/gsa.gov/tech_toolkit/collaboration-tools)
