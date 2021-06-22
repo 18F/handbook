@@ -132,7 +132,7 @@ You may operate without further authorization, based on our approved pre-existin
 - The system is deployed to [cloud.gov](https://cloud.gov) or [TTS-managed infrastructure-as-a-service (IaaS)](https://before-you-ship.18f.gov/infrastructure/#infrastructure-as-a-service-iaas).
 - The system does _not_:
   - interact with or change the state of any production Federal information system, whether it is operated by TTS or our Federal partners
-  - collect or store any sensitive [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy)
+  - collect or store any sensitive [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy/)
   - is not the canonical source of any "production" data
 - The system is _only_ available to:
   - staff of the General Services Administration
