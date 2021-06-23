@@ -77,11 +77,11 @@ Note however that when partner agencies assert that **of course** their product 
 
 ### Static sites
 
-**Federalist** (preferred)
+#### Federalist (preferred)
 
 [More information.](#federalist)
 
-**cloud.gov**
+#### cloud.gov
 
 See cloud.gov page on [deploying static sites](https://docs.cloud.gov/apps/static/).
 
