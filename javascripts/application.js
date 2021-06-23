@@ -25,7 +25,10 @@ $(document).ready(function() {
   // $('nav.nav-main ol.breadcrumbs').before(tableOfContentsToggle);
 
   if ($(".layout-table-of-contents").length === 0){
-    numHeadings = $("main h2, main h3, main h4, main h5").length;
+    // TODO would be nice if you could specify `depth: 2` as a page parameter
+    // Only traverse down to h3 so the table of contents is not unwieldy (depth=2)
+    var headingSelector = "main h2, main h3";
+    numHeadings = $(headingSelector).length;
     if ( numHeadings > 2 ) {
 
       var inlineNavigation =
@@ -37,7 +40,7 @@ $(document).ready(function() {
 
       var newLine, el, title, link;
 
-      $("main h2, main h3, main h4, main h5").each(function(index) {
+      $(headingSelector).each(function(index) {
         console.log(index);
         // $(this).waypoint({
         //   handler: function(direction){
@@ -66,11 +69,10 @@ $(document).ready(function() {
           link = "#" + el.attr("id");
         }
 
-        var tocClass;
-        if (el.is('h2')) { tocClass = "h2" };
-        if (el.is('h3')) { tocClass = "h3" };
-        if (el.is('h4')) { tocClass = "h4" };
-        if (el.is('h5')) { tocClass = "h5" };
+        // Handle all headings, even if the input isn't including h7s.
+        var tocClass = ['h2', 'h3', 'h4', 'h5', 'h6', 'h7'].find(function(heading) {
+          return el.is(heading);
+        });
 
         newLine =
           "<li class='" + tocClass + "'>" +
