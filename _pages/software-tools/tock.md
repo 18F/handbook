@@ -26,7 +26,7 @@ questions:
 
 ## What is Tock, and why do we use it?
 
-To facilitate our fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/) that's now used by many of the teams across TTS. You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
+To facilitate their fee-for-service business model, 18F developed a timekeeping application called [Tock](https://tock.18f.gov/) that's now used by many of the teams across TTS. You can access Tock by visiting [tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy reference.
 
 Based on our business model, we have to account for time logged to a project. Every expense — salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on — is paid for by our billing, which is recorded by each person in Tock.
 
