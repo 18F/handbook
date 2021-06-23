@@ -1,6 +1,5 @@
 ---
 title: History and values of 18F
-permalink: /18f-history-and-values/
 questions:
   - why-did-we-do-that
 ---
