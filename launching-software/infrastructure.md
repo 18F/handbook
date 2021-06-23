@@ -117,7 +117,7 @@ except Identity and Access Management (IAM).
   - [COE](https://docs.google.com/forms/d/e/1FAIpQLSdn8Pjof5xWZSkopkEU6pumQlXGYfU4fMN9efmoDzffm2MW4A/viewform)
 - [Sign in to your sandbox account](https://tts-sandbox.signin.aws.amazon.com/console)
 
-**Rules**
+#### Rules
 
 - The sandbox is for testing and demonstration purposes only. Nobody outside the federal government should be given access details for systems running in the sandbox unless authentication is in place.
 - No [sensitive information](https://github.com/18F/open-source-policy/blob/master/practice.md##protecting-sensitive-information) can be stored in the sandbox accounts.
@@ -129,7 +129,7 @@ except Identity and Access Management (IAM).
 
 There are a few special notes on using any "Infrastructure as a Service" in the Federal context.
 
-**Other people's money**
+#### Other people's money
 
 The federal government cannot pay one penny more than it is authorized to spend. There is no retroactive justification for spends. When government exceeds these limits, a report and explanation is required to the GSA Administrator, General Counsel, and Congress. So tracking costs is a _big deal_.
 
@@ -147,7 +147,7 @@ has an inter-agency agreement (IAA), you _must_ register your system with
 Tock project code and the infrastructure tag you will be using, and tag any AWS
 resources accordingly so we can bill these costs to our partner agencies.
 
-**Credentials**
+#### Credentials
 
 These are things like your AWS password, secret API key, and the
 mobile device that generates your multi-factor authentication
@@ -235,7 +235,7 @@ In order to make sure we are protecting the integrity of the public systems, **_
 
 **Tagging**
 
-Tagging resources in AWS is essential for identifying and tracking resources deployed. A tagged resource makes it easier for reasoning from a [billing perspective](#important-notes-for-aws-users) and aids in determining if a system is in a particular environment (ex. production). See the [sandbox](#sandbox-accounts) environment to see how tagged resources enables lifecycle management of resources in AWS.
+Tagging resources in AWS is essential for identifying and tracking resources deployed. A tagged resource makes it easier for reasoning from a [billing perspective](#other-peoples-money) and aids in determining if a system is in a particular environment (ex. production). See the [sandbox](#sandbox-accounts) environment to see how tagged resources enables lifecycle management of resources in AWS.
 
 At a minimum, an AWS resource must have a `Project` tag defined with enough information to be able to identify a project that the AWS resource is associated with.
 
