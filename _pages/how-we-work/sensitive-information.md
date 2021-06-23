@@ -40,7 +40,7 @@ information.
 in source code repositories. Instead, use [alternative secret
 management](#tools) approaches and solutions.
 
-**Privacy** information, like PII, has [its own guidance](https://before-you-ship.18f.gov/privacy/).
+**Privacy** information, like PII, has [its own guidance]({% link launching-software/privacy.md %}).
 
 **Other** sensitive information, like IP addresses, subnets, and AWS account
 IDs, may be kept in a _private_ repository.
@@ -55,7 +55,7 @@ _first_. Please don't include the potentially sensitive information in Slack.
 
 If you inadvertently come into the possession of classified information (Secret,
 Top Secret, etc.), you should immediately follow our [security incident
-process](https://handbook.tts.gsa.gov/security-incidents/).
+process]({% link _pages/policies/tech-policies/security-incidents.md %}).
 
 ## What to do if you find or expose sensitive information
 
