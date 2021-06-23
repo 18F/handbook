@@ -8,7 +8,7 @@ Here's what you need to know about sensitive information at TTS.
 
 ## What is considered sensitive?
 
-Anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands. To learn what information we consider sensitive, see [our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information). See also: [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
+Anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands. See also: [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
 
 Here are some [examples of sensitive information](https://github.com/18F/aws-admin/issues/92#issuecomment-768332113):
 
