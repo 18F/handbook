@@ -26,7 +26,7 @@ Google Drive is a cloud storage and file backup system. We use Google Drive to k
 ## Usage
 
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
-- When you’re at work, make sure you're on the 18F Google Drive and not your private account, especially when working with outside partners. Official GSA documents must live in the Google shared drive for compliance reasons.
+- When you’re at work, make sure you're on the GSA Google Drive and not your private account, especially when working with outside partners. Official GSA documents must live in the Google shared drive for compliance reasons.
 - Visit [the 18F brand guide](https://brand.18f.gov/templates/) for default 18F document styles/templates.
 
 ### Google Drive Tips
