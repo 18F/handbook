@@ -24,10 +24,10 @@ Here are some [examples of sensitive information](https://github.com/18F/aws-adm
 - non-public security vulnerabilities
 - roles, policies, and group membership
 - Personally Identifiable Information (PII)
-- PCI
+- payment card industry (PCI) information
 - Controlled Unclassified Information (CUI)
-- FTI
-- ePHI/PHI
+- Federal Tax Information (FTI)
+- personal health information (PHI/ePHI)
 - some kinds of acquisition information
 - emergency procedures, such as evacuation plans
 
