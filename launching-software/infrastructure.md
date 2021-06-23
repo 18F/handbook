@@ -495,7 +495,7 @@ Deploy it with `cf push <app-name>`
 Ways to alert DevOps & project team members:
 
 - **Slack**, though you may not want all errors going to the project's main Slack channel. (See the section below on grouping notification channels.)
-- **SMS**, which is only available through certain services - PagerDuty provides SMS, but New Relic doesn't; instead it has...
+- **SMS**, which is only available through certain services - PagerDuty provides SMS, but New Relic doesn't; instead it is able to [push notifications to PagerDuty](https://docs.newrelic.com/docs/alerts-applied-intelligence/new-relic-alerts/alert-notifications/notification-channels-control-where-send-alerts/).
 - **Push Notifications**, for which team members need to have the mobile app installed and registered.
 - **Email**, which in practice isn't as useful since most people aren't immediately alerted by it.
 
