@@ -340,7 +340,7 @@ primary:
           - text: About 18F
             children:
               - text: 18F history and values
-                url: history-and-values/
+                url: 18f-history-and-values/
                 internal: true
               - text: 18F org chart
                 url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
