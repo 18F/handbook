@@ -679,5 +679,4 @@ When taking down a production system, [create an issue](https://github.com/18F/t
 
 You are welcome to ask any questions as comments in the issue or [#infrastructure][slack-infrastructure].
 
-
 [slack-infrastructure]: https://gsa-tts.slack.com/messages/C039MHHF8/
