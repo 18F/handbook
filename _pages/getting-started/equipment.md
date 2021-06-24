@@ -27,6 +27,16 @@ Your laptop will come preloaded with the latest, GSA-approved/supported Mac oper
 
 **Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
+### Bring Your Own Device (BYOD)
+
+GSA has implemented a BYOD policy that allows users to connect their non-GSA procured devices, which have been previously approved by IT security, to GSA resources in a native fashion, utilizing the GSA network. Please note, only approved smartphones and tablets can be connected to the GSA network. Personal laptops cannot be connected directly to the GSA network at any GSA facility. For more information, please reference Section 4.2 of the [IT Security Procedural Guide](https://www.gsa.gov/cdnstatic/Securing_Mobile_Devices_and_Applications_%5BCIO_IT_Security_12-67_Rev_4%5D_01-26-2018.pdf#page=11). 
+
+For users who work on a FISMA system that wish to use their personal laptop/computer (at a non-GSA facility), the assigned ISSO/ISSM for the application must accept the associated risk(s), obtain approval from the Authorizing Official, and document the use of the personally owned computer within the System Security Plan (SSP).
+
+For users who do not work directly on a FISMA system who wish to use their personal machine (at a non-GSA facility), approval will be granted on a case-by-case basis by GSA IT-Security. Post your questions in the [AskIT Chatter Page](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001I35) for guidance. **Controlled Unclassified Information (CUI) can never be stored on a personal machine and the best approach is to utilize the Government Furnised Equipment (GFE) to the maximum extent possible.** 
+
+For additional sofware needs, please visit [this page](https://handbook.tts.gsa.gov/software/).
+
 ### Loaners
 
 You can [request a loaner PC through the IT Service Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
