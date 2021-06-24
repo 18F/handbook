@@ -22,16 +22,13 @@ Once you get the email above:
 
 1. [Share the license key](https://docs.google.com/document/d/1Qrn4J7mOcpGv51krZOyxpz93mBDp22hzl2wtVLulhUU/edit) with the requester.
 
-
 ## Plugins
 
 [**List**](https://docs.google.com/spreadsheets/d/1NDA19R_j3WpueXNCedY1gAdL-mDhUyL7kWBhpIQrK7g/edit#gid=0)
 
 One thing that's different about using Sketch at GSA is that Sketch plugins are not impossible to obtain, but might be more time-consuming than time-saving. Each Sketch plugin is treated like a [new software request]({{site.baseurl}}/software/), and must undergo review by GSA IT review. So far, we haven't found much that we can't accomplish without plugins.
 
-
 ## For admins
-
 
 ### Sketch license admin
 
