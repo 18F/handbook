@@ -127,6 +127,8 @@ The GSA LATO **Low** _risk_ system ATOs are valid for 3 years. he GSA LATO **Mod
 
 _Previously known as "pre-authorization"._
 
+First, read [GSA's guidelines for staging sites](https://insite.gsa.gov/employee-resources/communications/digital-website-communication/policies-and-guidelines/guidelines-for-gsas-digital-presence/digital-presence-guidelines-security).
+
 You may operate without further authorization, based on our approved pre-existing security authorization, if all of the following conditions are met:
 
 - The system is deployed to [cloud.gov](https://cloud.gov) or [TTS-managed infrastructure-as-a-service (IaaS)](https://before-you-ship.18f.gov/infrastructure/#infrastructure-as-a-service-iaas).
