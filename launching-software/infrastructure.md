@@ -345,7 +345,7 @@ See [the page on monitoring](#monitoring).
 **Alerting**
 
 - **_Someone_ is alerted, somehow, if a monitor test is failing**
-- Flexible targets (for vacation, by component, etc), eg PagerDuty
+- Flexible targets (for vacation, by component, etc)
 - Alerts triggered based on "out of the norm" thresholds
 - Flapping status does not result in excess/bouncing alerts
 
@@ -493,7 +493,7 @@ Deploy it with `cf push <app-name>`
 Ways to alert DevOps & project team members:
 
 - **Slack**, though you may not want all errors going to the project's main Slack channel. (See the section below on grouping notification channels.)
-- **SMS**, which is only available through certain services - PagerDuty provides SMS, but New Relic doesn't; instead it has...
+- ~**SMS**, which is only available through certain services~ _Note: no GSA approved SMS options currently exist. Use Slack on mobile instead._
 - **Push Notifications**, for which team members need to have the mobile app installed and registered.
 - **Email**, which in practice isn't as useful since most people aren't immediately alerted by it.
 
