@@ -275,8 +275,8 @@ primary:
                 url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
                 internal: false
           - text: Launching software
-            children: 
-              - text: Lifecycle of a Launch 
+            children:
+              - text: Lifecycle of a Launch (ATOs, etc.)
                 url: launching-software/lifecycle/
               - text: Security
                 url: launching-software/security/
