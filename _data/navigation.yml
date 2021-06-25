@@ -301,10 +301,6 @@ primary:
               - text: Agreements
                 url: agreements/
                 internal: true
-                children:
-                  - text: State and local agreements
-                    url: state-local-agreements/
-                    internal: true
               - text: Technology Portfolio
                 url: tech-portfolio/
                 internal: true
@@ -365,6 +361,9 @@ primary:
               - text: Open source policy
                 url: https://github.com/18F/open-source-policy/blob/master/policy.md
                 internal: false
+              - text: State and local agreements
+                url: state-local-agreements/
+                internal: true
           - text: 18F projects
             children:
               - text: 18F business development
