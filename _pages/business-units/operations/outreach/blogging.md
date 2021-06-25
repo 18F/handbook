@@ -7,19 +7,37 @@ questions:
   - outreach
 ---
 
-This guide helps 18F employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. If you have any questions, ask them in \#blog or by email to [18f-outreach@gsa.gov](mailto:18f-outreach@gsa.gov).
+This guide helps TTS employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. If you have any questions, ask them in [#blog](https://18f.slack.com/messages/blog/) or by email to [18f-outreach@gsa.gov](mailto:18f-outreach@gsa.gov).
 
-Everyone at 18F is encouraged to contribute to [our blog](https://18f.gsa.gov/blog/). We value a diversity of voices and positions. You don’t have to be a project lead, be in management, or even be at 18F for a set amount of time to draft a post. If you’ve got an idea that you think will help advance 18F’s mission, we’d love to hear it.
+Everyone at TTS is encouraged to contribute to our blogs. We value a diversity of voices and positions. You don’t have to be a project lead, be in management, or even be at TTS for a set amount of time to draft a post. If you’ve got an idea that you think will help advance TTS’s mission, we’d love to hear it.
+
+## Choosing a blog
+
+TTS has a number of blogs that employees can publish to. Depending on the
+content, it is possible that you could publish to the blog of team that isn't
+your own. These are the blogs:
+
+- [18F blog](https://18f.gsa.gov/blog/)
+- [digital.gov blog](https://digital.gov/posts/)
+- [FedRAMP blog](https://www.fedramp.gov/blog/)
+- [data.gov blog](https://www.data.gov/meta/)
+- [USAGov blog](https://blog.usa.gov/)
+- [Citizen Science blog](https://www.citizenscience.gov/blog/)
+- [code.gov blog](https://medium.com/@CodeDotGov)
+- [challenge.gov blog](https://www.challenge.gov/blog/)
+
+The tips in this guide are applicable to every TTS blog, and the [approval
+process](https://docs.google.com/document/d/1drX3O-qvkxdptS4d8W4TEuRpx3sUHaasENzvT-clDOc/edit) for each is essentially the same: the only thing that differs is the approver.
 
 ## Blog mission brief
 
-The 18F blog is a place where we share what we’ve learned, what we’ve made, and what we do in an accessible, public way. We work in the open and share information that makes our work understandable and usable. We write frankly about the challenges we encounter and detail the lessons we learn when making tough decisions. We hope to lead by example, showing that government agencies can be straightforward and friendly in their communication.
+The TTS blogs are places where we share what we’ve learned, what we’ve made, and what we do in an accessible, public way. We work in the open and share information that makes our work understandable and usable. We write frankly about the challenges we encounter and detail the lessons we learn when making tough decisions. We hope to lead by example, showing that government agencies can be straightforward and friendly in their communication.
 
 In sum, our goals are:
 
 - To support and highlight the operational excellence our employees’ daily work provides to GSA, the federal government, and the public
 - To strengthen our partnership with other federal agencies
-- To strengthen our relationship with the public and people who might want to join 18F
+- To strengthen our relationship with the public and people who might want to join TTS
 - To actively promote innovation in government, wherever it’s happening
 
 ### Execution
@@ -58,9 +76,9 @@ For this type of user story, you can use this simple format:
 
 > As a _type of audience_, I want _to learn something_, so that _some benefit is had_.
 
-If you’re writing about a new service that 18F is offering, your user story might be:
+If you’re writing about a new service that TTS is offering, your user story might be:
 
-> “As a _Chief Information Officer_, I want _to learn about the specifics of 18F’s new service_, so that _I can see if it will help me modernize my agency’s technology_.”
+> “As a _Chief Information Officer_, I want _to learn about the specifics of TTS’s new service_, so that _I can see if it will help me modernize my agency’s technology_.”
 
 This narrow focus will help you decide a number of things. Because your audience is federal technologists, you can assume a certain familiarity with government processes and terms. This allows you to go a little deeper into government procedure and some of the nitty-gritty of how this product works. You might also choose to use a slightly more formal tone for this post since this could be the opening message in a businesses conversation.
 
@@ -74,7 +92,7 @@ Using this framework for your post, you can be more technical, more enthusiastic
 
 You’ll likely have half a dozen ideas for blog posts for every project you work on. Creating an outline is a great way to move from a jumble of ideas into something you can get down into text.
 
-Below are a number of outlines for the types of blog posts we typically write at 18F. Give it a read, and see if any of them match up with what you’d like to communicate. The goal of these templates is to help you refine your idea, not to fit your writing into a rigid format. Feel free to modify the structure and change the section headings to be specific to your writing. As you’ll see, many of the linked examples only loosely follow these formats.
+Below are a number of outlines for the types of blog posts we typically write at TTS. Give it a read, and see if any of them match up with what you’d like to communicate. The goal of these templates is to help you refine your idea, not to fit your writing into a rigid format. Feel free to modify the structure and change the section headings to be specific to your writing. As you’ll see, many of the linked examples only loosely follow these formats.
 
 ### Writing about products
 
@@ -85,7 +103,7 @@ Below are a number of outlines for the types of blog posts we typically write at
   - Include brief background information on partner
 - How we solved the problem
 - One interesting fact about the development process
-  - Or, how this project fits into larger 18F values
+  - Or, how this project fits into larger TTS values
 - What’s next
 - Call to action
 
@@ -94,7 +112,7 @@ Below are a number of outlines for the types of blog posts we typically write at
 - What we launched
   - But I want to focus on this one detail
 - Explanation of detail and why it’s interesting
-- Connection to larger 18F values or methods
+- Connection to larger TTS values or methods
 - Summary of other things people can find in the product
 - Call to action to explore product or otherwise engage
 
@@ -133,35 +151,35 @@ Below are a number of outlines for the types of blog posts we typically write at
 - What you did
 - Why you did it
 - How this has positively impacted your project
-- Connection to 18F value
+- Connection to TTS value
 - How this can be reused outside your project
 - Call to reuse/adapt
 
-### Writing about non-18F work
+### Writing about non-TTS work
 
-#### Highlight of federal innovation separate from 18F work — [example](https://18f.gsa.gov/2016/05/24/the-user-centered-redesign-of-identitytheft-gov/)
+#### Highlight of federal innovation separate from TTS work — [example](https://18f.gsa.gov/2016/05/24/the-user-centered-redesign-of-identitytheft-gov/)
 
 - Brief introduction on the work
-  - If 18F has worked with this agency on a separate project, mention our previous work
+  - If TTS has worked with this agency on a separate project, mention our previous work
 - Explanation of the problem they were trying to solve
 - Explanation of how they solved it
-- Connection to how 18F uses similar techniques or developed similar projects
+- Connection to how TTS uses similar techniques or developed similar projects
 - Concluding paragraph on general trend/innovation in government
 
 #### Highlight of innovative work elsewhere in TTS or GSA — [example](https://18f.gsa.gov/2016/10/14/iterative-workplace-design-denver-federal-center/)
 
 - Explanation of what happened
-- Why this is great and connects to 18F principles or projects
+- Why this is great and connects to TTS principles or projects
 - Further explanation of what happened
 - Hopes for positive outcome from this work
 - Call to action or link to additional work by TTS/GSA
 
-#### Outside adaptation or use of an 18F product — [example](https://18f.gsa.gov/2015/11/10/boston-is-using-gsa-calc-tool/)
+#### Outside adaptation or use of an TTS product — [example](https://18f.gsa.gov/2015/11/10/boston-is-using-gsa-calc-tool/)
 
-- Who, what, when of someone reusing or adapting an 18F product
+- Who, what, when of someone reusing or adapting an TTS product
 - Original reason for this product. How it’s being reused/adapted
 - Quote from outside organization
-- Connection to 18F value or principle
+- Connection to TTS value or principle
 - Excitement about adoption or opportunities
 - Link to additional blog posts on reuse (even if about other products)
 
@@ -193,7 +211,7 @@ Below are a number of outlines for the types of blog posts we typically write at
 
 - Announcement of new change
 - 2 additional important details
-- How this change fits into larger 18F principles or goals
+- How this change fits into larger TTS principles or goals
 - Additional small or technical details
 - Thanks, connection back to policy and moving forward
 
@@ -211,8 +229,8 @@ If a post has multiple authors, then it should only use plural pronouns (we, our
 
 ### Guest authors
 
-The 18F blog welcomes guest authors from other government agencies. They're especially good for highlighting the innovative work happening around the government, getting a different perspective on 18F projects, and for showing how agencies are adapting our tools for their own use. Our blog team is happy to work with guest authors to develop an idea and edit their writing. We'll work to support their tone and voice, but all posts on the 18F blog will follow our [Content Guide](https://content-guide.18f.gov/). Posts from guest authors will have to go through the communications approval process at their agency as well as at 18F and GSA.
+The TTS blogs welcome guest authors from other government agencies. They're especially good for highlighting the innovative work happening around the government, getting a different perspective on TTS projects, and for showing how agencies are adapting our tools for their own use. Our blog team is happy to work with guest authors to develop an idea and edit their writing. We'll work to support their tone and voice, but all posts on the TTS blogs will follow our [Content Guide](https://content-guide.18f.gov/). Posts from guest authors will have to go through the communications approval process at their agency as well as at TTS and GSA.
 
 ### No authors
 
-On occasion, it can be useful to have posts written by 18F as an organization rather than as an individual. We may use this for posts that explain fundamental concepts of our business or culture where many team members contributed writing and editing. Posts with 18F as an author have a more formal and authoritative tone and are about statements of policy or fact rather than opinions.
+On occasion, it can be useful to have posts written by TTS as an organization rather than as an individual. We may use this for posts that explain fundamental concepts of our business or culture where many team members contributed writing and editing. Posts with TTS as an author have a more formal and authoritative tone and are about statements of policy or fact rather than opinions.
