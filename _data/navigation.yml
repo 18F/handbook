@@ -435,13 +435,13 @@ primary:
           - text: About TTS Solutions
             children:
               - text: Overview of TTS Solutions
-                url: office-of-products-and-programs/
+                url: office-of-solutions/
                 internal: true
               - text: Solutions history
                 url: solutions-history/
                 internal: true
               - text: Solutions org chart
-                url: opp-org-chart/
+                url: solutions-org-chart/
                 internal: true
           - text: Portfolios
             children:
