@@ -13,9 +13,10 @@ Everyone at TTS is encouraged to contribute to our blogs. We value a diversity o
 
 ## Choosing a blog
 
-TTS has a number of blogs that employees can publish to. Depending on the
-content, it is possible that you could publish to the blog of team that isn't
-your own. These are the blogs:
+TTS has a number of blogs that employees can publish to. Normally folks will
+publish to their team's blog. Depending on the
+content, however, it is possible that you could publish to the blog of team that isn't
+your own. These are the TTS blogs:
 
 - [18F blog](https://18f.gsa.gov/blog/)
 - [digital.gov blog](https://digital.gov/posts/)
