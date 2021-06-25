@@ -27,8 +27,8 @@ your own. These are the TTS blogs:
 - [code.gov blog](https://medium.com/@CodeDotGov)
 - [challenge.gov blog](https://www.challenge.gov/blog/)
 
-The tips in this guide are applicable to every TTS blog, and the [approval
-process](https://docs.google.com/document/d/1drX3O-qvkxdptS4d8W4TEuRpx3sUHaasENzvT-clDOc/edit) for each is essentially the same: the only thing that differs is the approver.
+The tips in this guide are broadly applicable, and the [approval
+process](https://docs.google.com/document/d/1drX3O-qvkxdptS4d8W4TEuRpx3sUHaasENzvT-clDOc/edit) is essentially the same -- the only difference is that each blog has a different approver.
 
 ## Blog mission brief
 
