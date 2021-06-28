@@ -4,6 +4,7 @@ tag:
   - blogging
   - guide
 questions:
+  - blog
   - outreach
 ---
 
