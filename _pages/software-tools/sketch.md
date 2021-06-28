@@ -20,7 +20,6 @@ Note Sketch is registered to the machine, so this needs to be done if you get a 
 
 Once you get the email above:
 
-
 1. Check the seat count to make sure there is room
    1. [Request an access code](https://www.sketch.com/license/admin/) for [tts-software@gsa.gov](mailto:tts-software@gsa.gov).
    1. You should get an email from Sketch. Click through to log into the License Manager.
