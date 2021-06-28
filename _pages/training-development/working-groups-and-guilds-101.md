@@ -223,6 +223,13 @@ Current 18F Collectives (and Leads) include:
         </td>
       </tr>
       <tr>
+        <th class="col-grouplet">Project Leadership</th>
+        <td>Brian Fox</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/c-18f-project-leadership">#c-18f-project-leadership</a>
+        </td>
+      </tr>
+      <tr>
         <th class="col-grouplet">Partners Network</th>
         <td>Skippy Williams & Ben Peterson</td>
         <td>
