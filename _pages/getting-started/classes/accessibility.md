@@ -8,7 +8,7 @@ The federal government is accountable for making all of its products 508 complia
 
 ## Leadership
 
-[Robert Jolly, 18F](https://gsa-tts.slack.com/messages/@robertjolly) and Alexandra Porter, Data Analytics Centers of Excellence lead the [accessibility guild](https://github.com/18F/accessibility).
+Pia Zaragoza, PIF/CISA and Claire Annan, 18F lead the [accessibility guild](https://github.com/18F/accessibility).
 
 ## Communication
 
