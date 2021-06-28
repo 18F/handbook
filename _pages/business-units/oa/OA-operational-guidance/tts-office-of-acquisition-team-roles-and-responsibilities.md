@@ -69,11 +69,11 @@ The team lead serves as the Senior Management Team (SMT) representative and as t
 
 ## Engagement Manager
 
-The Engagement manager serves as client-facing liaison for the team. The Engagement manager on 18F Acquisitions projects empowers the project team to do their best work, advocates for the partner agency and ensures top-notch customer service.
+The Engagement manager serves as client-facing liaison for the team. The Engagement manager on TTS Acquisitions projects empowers the project team to do their best work, advocates for the partner agency and ensures top-notch customer service.
 
 - Owns logistics for project team, including staffing, agreements, scheduling of high level meetings, billing and invoices
 - Leads agency partner relationship, including:
-  - Sets and manages expectations on what 18F Acquisition is delivering at the project level
+  - Sets and manages expectations on what TTS Acquisition is delivering at the project level
   - Engages stakeholders
   - Gains understanding of who needs to be present (in coordination with the team) and advocate for them to be present
   - Manages communications of broader TTS changes and other important messaging opportunities
