@@ -28,7 +28,7 @@ Rather than try to exert control over everything technology at TTS, we focus ins
 
 - [Our Kanban board](https://github.com/orgs/18F/projects/11?fullscreen=true)
 - [Our Initiatives (areas of work)](https://github.com/18F/tts-tech-portfolio/labels?q=i%3A)
-- [Our roles](https://github.com/18F/tts-tech-portfolio/blob/master/how_we_work/roles.md#readme)
+- [Our roles](https://github.com/18F/tts-tech-portfolio/blob/main/how_we_work/roles.md#readme)
 
 ### FSGC
 
@@ -83,7 +83,7 @@ These are the groups we interact with heavily:
 - [Before You Ship](https://before-you-ship.18f.gov/) - TTS' internal documentation about security, compliance, and infrastructure
 - Maintaining the authoritative source documentation for components used across TTS [Software-as-a-service (SaaS) ](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), [Systems](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=1235102795), and [Accounts](https://docs.google.com/spreadsheets/d/1DedSCiU9AsCAAVvAFZT0_Ii7AFIKlI-JNifzlpHNbDg/edit#gid=0)
 - [More internal documentation](https://github.com/18F/tts-tech-portfolio/wiki/Documents-for-TTS-Tech-Porfolio)
-- [Read more about us](https://github.com/18F/tts-tech-portfolio/blob/master/README.md#readme)
+- [Read more about us](https://github.com/18F/tts-tech-portfolio/blob/main/README.md#readme)
 
 ## Feedback?
 

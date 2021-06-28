@@ -10,11 +10,11 @@ title: Lifecycle of a Launch
 
 ATO Sprints are staffed cross-divisionally by the GSA Office of the Chief Information Security Officer (OCISO) and TTS.
 
-There are a few factors that will determine how long it takes a project to get an ATO. These map to [the checklist](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/ato.md), so might be helpful to open that up in another window and follow along.
+There are a few factors that will determine how long it takes a project to get an ATO. These map to [the checklist](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md), so might be helpful to open that up in another window and follow along.
 
-- Everything in [Phase 1](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/ato.md#phase-1-ato-sprint-prerequisites) needs to be done before the project can enter the ATO Sprint. That responsibility is on the project team and the respective Infrastructure Lead. Completing Phase 1 could take 40 hours of work.
-- Your Infrastructure Lead conducts the documentation review of [Phase 2](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/ato.md#phase-2-documentation-review). Projects are scheduled for [Phase 3](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint) by the Infrastructure Leads as a group.
-- [Phase 3](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint) should take two weeks, assuming the previous Phases were done thoroughly.
+- Everything in [Phase 1](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-1-ato-sprint-prerequisites) needs to be done before the project can enter the ATO Sprint. That responsibility is on the project team and the respective Infrastructure Lead. Completing Phase 1 could take 40 hours of work.
+- Your Infrastructure Lead conducts the documentation review of [Phase 2](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-2-documentation-review). Projects are scheduled for [Phase 3](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint) by the Infrastructure Leads as a group.
+- [Phase 3](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint) should take two weeks, assuming the previous Phases were done thoroughly.
 
 **The ATO Sprinting Team makes no _guarantees_ regarding the timeline of ATOs.**
 
@@ -88,7 +88,7 @@ Beyond the [**general information**](https://atos.open-control.org/overview/#ato
 
 The ATO checklist helps you track progress towards a successful launch throughout your project. It is a formatted issue on GitHub, and is the canonical source of information for your path to launch.
 
-To start the security authorization process, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=ato.md&title=ATO+for+%5Bsystem%5D+-+due+%5Bdate%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/ato.md)). Make sure to replace the placeholders (the things in `[square brackets]`). Feel free to add a username after each task to assign it, and/or make corresponding items in your issue tracker. Unless otherwise specified, all tasks are the responsibility of the project team.
+To start the security authorization process, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=ato.md&title=ATO+for+%5Bsystem%5D+-+due+%5Bdate%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md)). Make sure to replace the placeholders (the things in `[square brackets]`). Feel free to add a username after each task to assign it, and/or make corresponding items in your issue tracker. Unless otherwise specified, all tasks are the responsibility of the project team.
 
 The tasks are in suggested order of priority, though they can often be done in parallel. Note that **all of the prerequisite tasks need to be completed before your project will be scheduled for a sprint**.
 

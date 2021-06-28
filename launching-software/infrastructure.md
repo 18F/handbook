@@ -120,7 +120,7 @@ except Identity and Access Management (IAM).
 #### Rules
 
 - The sandbox is for testing and demonstration purposes only. Nobody outside the federal government should be given access details for systems running in the sandbox unless authentication is in place.
-- No [sensitive information](https://github.com/18F/open-source-policy/blob/master/practice.md##protecting-sensitive-information) can be stored in the sandbox accounts.
+- No [sensitive information]({% link _pages/how-we-work/sensitive-information.md %}) can be stored in the sandbox accounts.
 - Creating resources that will cost more than $500 per month requires prior agreement from the Tech Portfolio team.
 - All resources must be tagged with a `Project`. Resources without this tag can be deleted at any time.
 - Any website that is publicly routable for more than one day must have a robots.txt configuration that prevents indexing by search engines.
@@ -659,7 +659,7 @@ Things you are required to log:
 
 _This list comes from GSA’s [AU-2a](https://nvd.nist.gov/800-53/Rev4/control/au-2##Rev4Statements) Parameter Requirement - see the “Audit and Accountability” doc on [this page](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/it-security-procedural-guides)._
 
-**Do not log [sensitive information](https://github.com/18F/open-source-policy/blob/master/practice.md##protecting-sensitive-information).**
+**Do not log [sensitive information]({% link _pages/how-we-work/sensitive-information.md %}).**
 
 ### Other notes
 
@@ -675,7 +675,7 @@ _This list comes from GSA’s [AU-2a](https://nvd.nist.gov/800-53/Rev4/control/a
 
 ## Decomissioning
 
-When taking down a production system, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=decommission.md&title=decommission+%5Bsystem%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/decommission.md)). Feel free to add/remove tasks as appropriate, add a username after each task to assign it, and/or make corresponding items in your issue tracker. [Here's a more extensive list](https://github.com/18F/myusa/issues/762). The [General Records Schedules 3.x](https://www.archives.gov/records-mgmt/grs.html) are relevant, as well.
+When taking down a production system, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=decommission.md&title=decommission+%5Bsystem%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/decommission.md)). Feel free to add/remove tasks as appropriate, add a username after each task to assign it, and/or make corresponding items in your issue tracker. [Here's a more extensive list](https://github.com/18F/myusa/issues/762). The [General Records Schedules 3.x](https://www.archives.gov/records-mgmt/grs.html) are relevant, as well.
 
 You are welcome to ask any questions as comments in the issue or [#infrastructure][slack-infrastructure].
 

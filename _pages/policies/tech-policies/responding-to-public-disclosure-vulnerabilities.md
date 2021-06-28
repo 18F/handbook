@@ -125,7 +125,7 @@ Notifications to partner agencies should do the following:
 
 1. Find a POC
    1. Look for security@[vendor.com] or VDP form
-   1. Using the list of [security contacts](https://github.com/GSA/data/blob/master/dotgov-domains/current-full.csv)
+   1. Using the list of [security contacts](https://github.com/cisagov/dotgov-data/blob/main/current-full.csv)
    1. Reach out through professional network
 1. Describe the potential harm
 1. Recommend a course of action
