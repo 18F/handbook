@@ -7,7 +7,7 @@ questions:
   - outreach
 ---
 
-This guide helps TTS employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. If you have any questions, ask them in [#blog](https://18f.slack.com/messages/blog/) or by email to [18f-outreach@gsa.gov](mailto:18f-outreach@gsa.gov).
+This guide helps TTS employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. If you have any questions, ask them in [#blog](https://gsa-tts.slack.com/messages/blog/) or by email to [tts-outreach@gsa.gov](mailto:tts-outreach@gsa.gov).
 
 Everyone at TTS is encouraged to contribute to our blogs. We value a diversity of voices and positions. You don’t have to be a project lead, be in management, or even be at TTS for a set amount of time to draft a post. If you’ve got an idea that you think will help advance TTS’s mission, we’d love to hear it.
 
@@ -18,14 +18,15 @@ publish to their team's blog. Depending on the
 content, however, it is possible that you could publish to the blog of a team that isn't
 your own. These are the TTS blogs:
 
-- [18F blog](https://18f.gsa.gov/blog/)
-- [digital.gov blog](https://digital.gov/posts/)
-- [FedRAMP blog](https://www.fedramp.gov/blog/)
-- [data.gov blog](https://www.data.gov/meta/)
-- [USAGov blog](https://blog.usa.gov/)
+- [challenge.gov blog](https://www.challenge.gov/blog/)
 - [Citizen Science blog](https://www.citizenscience.gov/blog/)
 - [code.gov blog](https://medium.com/@CodeDotGov)
-- [challenge.gov blog](https://www.challenge.gov/blog/)
+- [data.gov blog](https://www.data.gov/meta/)
+- [digital.gov blog](https://digital.gov/posts/)
+- [18F blog](https://18f.gsa.gov/blog/)
+- [FedRAMP blog](https://www.fedramp.gov/blog/)
+- [GSA blog](https://www.gsa.gov/blog/)
+- [USAGov blog](https://blog.usa.gov/)
 
 The tips in this guide are broadly applicable, and the [approval
 process](https://docs.google.com/document/d/1drX3O-qvkxdptS4d8W4TEuRpx3sUHaasENzvT-clDOc/edit) is essentially the same -- the only difference is that each blog has a different approver.
