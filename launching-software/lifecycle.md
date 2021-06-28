@@ -127,6 +127,8 @@ The GSA LATO **Low** _risk_ system ATOs are valid for 3 years. he GSA LATO **Mod
 
 _Previously known as "pre-authorization"._
 
+First, read [GSA's guidelines for staging sites](https://insite.gsa.gov/employee-resources/communications/digital-website-communication/policies-and-guidelines/guidelines-for-gsas-digital-presence/digital-presence-guidelines-security).
+
 You may operate without further authorization, based on our approved pre-existing security authorization, if all of the following conditions are met:
 
 - The system is deployed to [cloud.gov](https://cloud.gov) or [TTS-managed infrastructure-as-a-service (IaaS)](https://before-you-ship.18f.gov/infrastructure/#infrastructure-as-a-service-iaas).
@@ -201,7 +203,7 @@ Contact ispcompliance@gsa.gov for any issues.
 
 - Is your project accessible and [Section 508](https://before-you-ship.18f.gov/laws/508/) compliant? The team will need to incorporate this throughout the project, but you'll also need to set up a review at least two weeks before launch.
 - How good is your code test coverage? Before shipping, you should have codecov badges on your GitHub repo READMEs and coverage should be above 90 percent (green). (This is not a perfect measure for code quality, but a helpful check.) The testing working group recommends reviewing your status early and often. _Ask #wg-testing if you have questions._
-- Are your APIs up to the [API Standards](https://github.com/18f/api-standards)? _Ask the #wg-api if you have questions._
+- Are your APIs up to the [API Standards](https://github.com/18f/api-standards)? _Ask the [#api](https://gsa-tts.slack.com/archives/C6YGE5U74) if you have questions._
 - Make sure you have all the social media metadata and preview images.
 
 <a href="https://atos.open-control.org/tips/" class="usa-button">More</a>

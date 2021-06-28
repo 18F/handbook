@@ -28,7 +28,7 @@ In general:
   - GitHub Pages ([why](https://18f.gsa.gov/2015/05/14/18Fpages/))
   - Heroku and other platform services
   - Your personal AWS account
-- Any questions? Ask in [##infrastructure](https://18f.slack.com/messages/infrastructure/).
+- Any questions? Ask in [#infrastructure][slack-infrastructure].
 
 ### Server-side code
 
@@ -77,13 +77,11 @@ Note however that when partner agencies assert that **of course** their product 
 
 ### Static sites
 
-**Federalist**
-
-_Preferred_
+#### Federalist (preferred)
 
 [More information.](#federalist)
 
-**cloud.gov**
+#### cloud.gov
 
 See cloud.gov page on [deploying static sites](https://docs.cloud.gov/apps/static/).
 
@@ -145,7 +143,7 @@ Thus in order to keep our rates low, it's extremely important to bill
 infrastructure costs, including non-production costs, to agency partners
 wherever possible. If the work you are doing is in support of a project which
 has an inter-agency agreement (IAA), you _must_ register your system with
-[##infrastructure](https://gsa-tts.slack.com/messages/C039MHHF8/), including the
+[#infrastructure][slack-infrastructure], including the
 Tock project code and the infrastructure tag you will be using, and tag any AWS
 resources accordingly so we can bill these costs to our partner agencies.
 
@@ -189,7 +187,7 @@ In order to ensure systems deployed to AWS are robust and reliable, and to ensur
 
 **Permissions**
 
-Anyone in TTS can get access to the AWS [sandbox account](#sandbox-accounts). However only the TTS infrastructure team has login credentials to our production TTS account, and they are only used for debugging and incident management purposes. All systems are deployed using a continuous delivery service from scripts stored in version control, and registered with [##infrastructure](https://gsa-tts.slack.com/messages/C039MHHF8/).
+Anyone in TTS can get access to the AWS [sandbox account](#sandbox-accounts). However only the TTS infrastructure team has login credentials to our production TTS account, and they are only used for debugging and incident management purposes. All systems are deployed using a continuous delivery service from scripts stored in version control, and registered with [#infrastructure][slack-infrastructure].
 
 This means:
 
@@ -347,7 +345,7 @@ See [the page on monitoring](#monitoring).
 **Alerting**
 
 - **_Someone_ is alerted, somehow, if a monitor test is failing**
-- Flexible targets (for vacation, by component, etc), eg PagerDuty
+- Flexible targets (for vacation, by component, etc)
 - Alerts triggered based on "out of the norm" thresholds
 - Flapping status does not result in excess/bouncing alerts
 
@@ -495,7 +493,7 @@ Deploy it with `cf push <app-name>`
 Ways to alert DevOps & project team members:
 
 - **Slack**, though you may not want all errors going to the project's main Slack channel. (See the section below on grouping notification channels.)
-- **SMS**, which is only available through certain services - PagerDuty provides SMS, but New Relic doesn't; instead it has...
+- ~**SMS**, which is only available through certain services~ _Note: no GSA approved SMS options currently exist. Use Slack on mobile instead._
 - **Push Notifications**, for which team members need to have the mobile app installed and registered.
 - **Email**, which in practice isn't as useful since most people aren't immediately alerted by it.
 
@@ -679,4 +677,6 @@ _This list comes from GSA’s [AU-2a](https://nvd.nist.gov/800-53/Rev4/control/a
 
 When taking down a production system, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=decommission.md&title=decommission+%5Bsystem%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/decommission.md)). Feel free to add/remove tasks as appropriate, add a username after each task to assign it, and/or make corresponding items in your issue tracker. [Here's a more extensive list](https://github.com/18F/myusa/issues/762). The [General Records Schedules 3.x](https://www.archives.gov/records-mgmt/grs.html) are relevant, as well.
 
-You are welcome to ask any questions as comments in the issue or [##infrastructure](https://gsa-tts.slack.com/messages/infrastructure).
+You are welcome to ask any questions as comments in the issue or [#infrastructure][slack-infrastructure].
+
+[slack-infrastructure]: https://gsa-tts.slack.com/messages/C039MHHF8/

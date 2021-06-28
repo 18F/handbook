@@ -52,6 +52,7 @@ See a list of other popular channels in the [Slack @ TTS](https://docs.google.co
 
 - **[Add yourself to our custom emoji](#custom-emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Once reviewed, your new emoji will be posted to [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY).
 - The advanced settings section provides an option to [**only show channels that have unread messages**](https://slack.com/help/articles/212596808-Manage-your-sidebar-preferences#manage-your-sidebar-items). This is useful if you're a member of a lot of channels.
+- **[Organize your sidebar with custom sections](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections)** to group (and collapse) related channels together.
 - Click the timestamp on any message to go to the archival view of it. This is helpful if you'd like to **cross-post a link to a message in another channel**.
 - If you're interested in **tracking specific keywords across Slack**, set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
 - **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
