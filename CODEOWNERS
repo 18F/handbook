@@ -57,9 +57,9 @@ _pages/about-us/diversity.md                      @AileenMcGraw-PIF
 #_pages/general/who-we-are/*                      TODO
 #_pages/locations/*                               TODO 
 
-#################################################
+##################################################
 # Technology
-#################################################
+##################################################
 _pages/policies/tech-policies/*                   @18F/tts-tech-portfolio
 _pages/redirects/*                                @18F/tts-tech-portfolio
 _pages/software-tools/*                           @18F/tts-tech-portfolio
