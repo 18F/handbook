@@ -92,7 +92,7 @@ From Peter Karman and Becky Sweger:
 
 - **Log into the weekly all-hands meeting a few minutes early.** It's a good chance to see faces and chat before the meeting starts.
 - **Over communicate.** Working remote means you can't rely on your physical presence to communicate to everyone else whether or not you're "at work." For 18F team members, use the [18F Out of Office (OOO) calendar](https://www.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/New_York) if you're assigned to an office and working remotely or if you're working in a different place than usual. On phone calls, don't be afraid to jump in and tell people if you can't hear.
-- **Deliberately foster chats that aren't related to work.** People who work out of GSA offices will do this from time to time, and you should, too. Ask people out to virtual tea!
+- **Schedule (virtual) coffee with other TTSers.** People who work out of GSA offices will do this from time to time, and you should, too. Ask people out to virtual coffee/tea and get to know each other!
 
 ## Work-life balance
 
