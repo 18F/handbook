@@ -20,12 +20,14 @@ Note Sketch is registered to the machine, so this needs to be done if you get a 
 
 Once you get the email above:
 
-1. [Request an access code](https://www.sketch.com/license/admin/) for [tts-software@gsa.gov](mailto:tts-software@gsa.gov).
-1. You should get an email from Sketch. Click through to log into the License Manager.
-   - If it doesn't come through, check [pending messages](https://groups.google.com/a/gsa.gov/g/tts-software/pending-messages), because [reasons](https://www.sketch.com/support/licensing-and-sales/license-manager-email-issue/).
-1. Add to the [user list](https://docs.google.com/spreadsheets/d/1SCkLr0GXgoeqmIMPLic8QnX1INkyoP1YCNp17Sarx9s/edit#gid=243236610). Delete their old one, if it's in there.
-1. Use the last 7 numbers/letters to locate their Sketch number in the console.
+
+1. Check the seat count to make sure there is room
+   1. [Request an access code](https://www.sketch.com/license/admin/) for [tts-software@gsa.gov](mailto:tts-software@gsa.gov).
+   1. You should get an email from Sketch. Click through to log into the License Manager.
+      - If it doesn't come through, ask an admin to [review pending messages](https://groups.google.com/a/gsa.gov/forum/#!pendingmsg/18fsoftware).
+1. Check the existing [user list](https://docs.google.com/spreadsheets/d/1SCkLr0GXgoeqmIMPLic8QnX1INkyoP1YCNp17Sarx9s/edit#gid=243236610) to make sure they don't have an existing license. If it's in there, delete their old one from both the user list and the License Manager.
 1. [Share the license key](https://docs.google.com/document/d/1Qrn4J7mOcpGv51krZOyxpz93mBDp22hzl2wtVLulhUU/edit) with the requester.
+1. Add them to the user list.
 
 ## Plugins
 
