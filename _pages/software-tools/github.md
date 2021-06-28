@@ -98,7 +98,7 @@ When the engagement is over, you must let [#admins-github](https://gsa-tts.slack
 
 TTS defaults to using branches, though teams are welcome to decide they prefer using forks instead. Regardless of whether you branch or fork, changes happen via [pull requests](https://help.github.com/articles/using-pull-requests/).
 
-In the process of receiving feedback in a pull request, some individuals on some teams may choose to amend, reorder, or squash commits. This type of "re-writing history" is compliant with the Freedom of Information Act (FOIA) when it occurs on a pull request because git branches are considered a work in progress. These actions are not allowed on the master branch because that is considered the canonical source of information.
+In the process of receiving feedback in a pull request, some individuals on some teams may choose to amend, reorder, or squash commits. This type of "re-writing history" is compliant with the Freedom of Information Act (FOIA) when it occurs on a pull request because git branches are considered a work in progress. These actions are not allowed on the production branch because that is considered the canonical source of information.
 
 ### Issues
 
