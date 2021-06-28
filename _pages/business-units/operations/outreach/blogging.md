@@ -8,7 +8,7 @@ questions:
   - outreach
 ---
 
-This guide helps TTS employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. If you have any questions, ask them in [#blog](https://gsa-tts.slack.com/messages/blog/) or by email to [tts-outreach@gsa.gov](mailto:tts-outreach@gsa.gov).
+This guide helps TTS employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. If you have any questions, ask them in [#blog](https://gsa-tts.slack.com/archives/C02QNKTNK) or by email to [tts-outreach@gsa.gov](mailto:tts-outreach@gsa.gov).
 
 Everyone at TTS is encouraged to contribute to our blogs. We value a diversity of voices and positions. You don’t have to be a project lead, be in management, or even be at TTS for a set amount of time to draft a post. If you’ve got an idea that you think will help advance TTS’s mission, we’d love to hear it.
 
@@ -30,7 +30,7 @@ your own. These are the TTS blogs:
 - [USAGov blog](https://blog.usa.gov/)
 
 The tips in this guide are broadly applicable, and the [approval
-process](https://docs.google.com/document/d/1drX3O-qvkxdptS4d8W4TEuRpx3sUHaasENzvT-clDOc/edit) is essentially the same -- the only difference is that each blog has a different approver.
+process](https://docs.google.com/document/d/1drX3O-qvkxdptS4d8W4TEuRpx3sUHaasENzvT-clDOc/edit) is essentially the same -- the only difference is that each blog has its own approver.
 
 ## Blog mission brief
 
