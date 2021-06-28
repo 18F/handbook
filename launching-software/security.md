@@ -60,7 +60,7 @@ Lastly, make sure the `README` file in your repo is fully up to date and clearly
 Once you are ready, the [GSA OCISO](https://insite.gsa.gov/portal/content/527517) team will start both automated and manual scanning and testing. This includes:
 
 - [web vulnerability scanning](#dynamic-scanning) on the front-end
-- [static code analysis](#static-analysis) on the `main` or `master` branch of your repo
+- [static code analysis](#static-analysis) on the default branch of your repo
 - for higher FISMA levels, penetration testing by third party security consultants.
 
 For greybox testing, the testing team has significant (but not necessarily complete) knowledge of how the system works, as opposed to black box testing, where they have zero knowledge, or white box testing, where they have complete knowledge.
