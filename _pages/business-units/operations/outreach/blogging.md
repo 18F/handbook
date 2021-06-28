@@ -47,7 +47,7 @@ In sum, our goals are:
 
 Our publications adhere to [18F’s Content Guide](https://content-guide.18f.gov/), actively promoting a unified style and a multitude of voices. The Outreach Team determines editorial strategy; that team also oversees the drafting and editing processes.
 
-The blog is further supported by volunteer writers across 18F. Team contributions (idea generation, drafting, giving interviews) are key to its success. We accept pitches for blog ideas from everyone on the 18F team [in a working GitHub repository.](https://github.com/18f/blog-drafts)
+The blogs are further supported by volunteer writers across TTS/GSA. Team contributions (idea generation, drafting, giving interviews) are key to its success. We accept pitches for blog ideas from anyone in TTS.
 
 ### Risks and concerns
 
