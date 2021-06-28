@@ -3,11 +3,14 @@
 # future.
 # TODO how should GitHub teams be created for ownership?
 
+# Any changes to ownership should be approved by the Tech Portfolio.
+CODEOWNERS                                        @18F/tts-tech-portfolio
+
 # Every pull request to the Handbook should be seen by a member of the Tech
 # Portfolio. If it is a small change, then an approval from Tech Portfolio is
 # sufficient for merging. If the change is more structural, then an approval is
 # _required_ from the owning team.
-*                                                 @18F/tts-tech-portfolio
+_pages/*                                          @18F/tts-tech-portfolio
 
 ##################################################
 # Business units
@@ -52,7 +55,7 @@ _pages/about-us/diversity.md                      @AileenMcGraw-PIF
 #_pages/policies/employee-resources-policies      @18F/people-ops-handbook-reviewers
 #_pages/policies/business-and-ops-policies/*      TODO
 #_pages/general/who-we-are/*                      TODO
-#_pages/locations/*                               TODO
+#_pages/locations/*                               TODO 
 
 #################################################
 # Technology
