@@ -49,7 +49,7 @@ If, during testing, the system performs:
 - back-end administrative functions
 - encryption
 
-...then those features must be _complete_ before an authorization will be given. Note that the use of common web frameworks and [HTTPS standards](https://github.com/18F/https) resolves these issues in almost every case.
+...then those features must be _complete_ before an authorization will be given. Note that the use of common web frameworks and HTTPS resolves these issues in almost every case.
 
 Ensure that your site is scannable by automated tools. For example, if you have a single-page app use the pushState to make site URLs friendly to automated tools.
 
