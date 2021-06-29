@@ -283,7 +283,7 @@ TTS owns [a number of second-level domains](https://docs.google.com/spreadsheets
 
 ### DNS
 
-DNS for domains in TTS is managed one of a few ways—see [this diagram](https://docs.google.com/drawings/d/18POi-tbIqI7vzM2wnGKjOk4eC1fTAsnggGAeRK3Q3rk/edit?ts=5f4fea7a). For those that are managed within TTS, see [the DNS repository](https://github.com/18F/dns).
+DNS for domains in TTS is managed one of a few ways—see [this diagram](https://docs.google.com/drawings/d/18POi-tbIqI7vzM2wnGKjOk4eC1fTAsnggGAeRK3Q3rk/edit?ts=5f4fea7a). For those that are managed within TTS, see [the DNS repository](https://github.com/18F/dns). For domains managed by GSA IT, [put in a DNS ticket in ServiceNow](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=100180fd7813a400ce3ddff91a64941c).
 
 ### DNSSEC
 
