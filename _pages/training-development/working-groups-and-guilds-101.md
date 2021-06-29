@@ -209,13 +209,6 @@ Current 18F Collectives (and Leads) include:
         </td>
       </tr>
       <tr>
-        <th class="col-grouplet">Natural Language Processing & Machine Learning</th>
-        <td>James Tranovich & Tiffany Andrews</td>
-        <td>
-          <a href="https://gsa-tts.slack.com/messages/c-nlp-ml">#c-nlp-ml</a>
-        </td>
-      </tr>
-      <tr>
         <th class="col-grouplet">Project Resources</th>
         <td>Nina Mak & Malaika Carpenter</td>
         <td>
