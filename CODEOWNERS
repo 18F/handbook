@@ -1,0 +1,66 @@
+# This file represents the ownership schema for the TTS Handbook. At the moment,
+# only Markdown files are included, but other file types may be added in the
+# future.
+# TODO how should GitHub teams be created for ownership?
+
+# Any changes to ownership should be approved by the Tech Portfolio.
+CODEOWNERS                                        @18F/tts-tech-portfolio
+
+# Every pull request to the Handbook should be seen by a member of the Tech
+# Portfolio. If it is a small change, then an approval from Tech Portfolio is
+# sufficient for merging. If the change is more structural, then an approval is
+# _required_ from the owning team.
+_pages/*                                          @18F/tts-tech-portfolio
+
+##################################################
+# Business units
+##################################################
+## 18F
+#_pages/business-units/18f/*                      @18F/18F-handbook-reviewers
+#_pages/how-we-work/*                             @18F/18F-handbook-reviewers
+
+## Centers of Excellence (CoE)
+#_pages/business-units/coe/*                      @18F/coe-handbook-reviewers
+
+## Solutions
+#_pages/business-units/solutions/*                @18F/solutions-handbook-reviewers
+
+## Office of Operations
+#_pages/business-units/operations/*               @18F/operations-handbook-reviewers
+_pages/business-units/operations/outreach*        @18F/outreach
+
+## Office of Acquisition
+#_pages/business-units/oa/*                       @18F/oa-handbook-reviewers
+
+
+##################################################
+# Guilds, working groups, and councils
+##################################################
+_pages/about-us/diversity.md                      @AileenMcGraw-PIF
+#_pages/about-us/digital-council.md               TODO
+
+##################################################
+# People Ops
+##################################################
+#performance-management/*                         @18F/people-ops-handbook-reviewers
+#_pages/getting-started/*                         @18F/people-ops-handbook-reviewers
+#_pages/travel-leave/*                            @18F/people-ops-handbook-reviewers
+#_pages/hiring-and-jobs/*                         @18F/people-ops-handbook-reviewers
+#_pages/training-development/*                    @18F/people-ops-handbook-reviewers
+
+##################################################
+# General information and policies
+##################################################
+#_pages/about-us/tts-history.md                   TODO
+#_pages/policies/employee-resources-policies      @18F/people-ops-handbook-reviewers
+#_pages/policies/business-and-ops-policies/*      TODO
+#_pages/general/who-we-are/*                      TODO
+#_pages/locations/*                               TODO 
+
+##################################################
+# Technology
+##################################################
+_pages/policies/tech-policies/*                   @18F/tts-tech-portfolio
+_pages/redirects/*                                @18F/tts-tech-portfolio
+_pages/software-tools/*                           @18F/tts-tech-portfolio
+launching-software/*                              @18F/tts-tech-portfolio
