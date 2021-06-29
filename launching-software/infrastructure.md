@@ -120,7 +120,7 @@ except Identity and Access Management (IAM).
 #### Rules
 
 - The sandbox is for testing and demonstration purposes only. Nobody outside the federal government should be given access details for systems running in the sandbox unless authentication is in place.
-- No [sensitive information]({% link _pages/how-we-work/sensitive-information.md %}) can be stored in the sandbox accounts.
+- No [sensitive information]({{ site.baseurl }}/sensitive-information/) can be stored in the sandbox accounts.
 - Creating resources that will cost more than $500 per month requires prior agreement from the Tech Portfolio team.
 - All resources must be tagged with a `Project`. Resources without this tag can be deleted at any time.
 - Any website that is publicly routable for more than one day must have a robots.txt configuration that prevents indexing by search engines.
@@ -659,7 +659,7 @@ Things you are required to log:
 
 _This list comes from GSA’s [AU-2a](https://nvd.nist.gov/800-53/Rev4/control/au-2##Rev4Statements) Parameter Requirement - see the “Audit and Accountability” doc on [this page](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/it-security-procedural-guides)._
 
-**Do not log [sensitive information]({% link _pages/how-we-work/sensitive-information.md %}).**
+**Do not log [sensitive information]({{ site.baseurl }}/sensitive-information/).**
 
 ### Other notes
 

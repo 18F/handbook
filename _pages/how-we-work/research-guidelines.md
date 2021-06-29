@@ -38,7 +38,7 @@ We work in the open, but we need to be mindful of discussing agency partners, co
 
 PII is information that can be used to distinguish or trace an individual's identity, either alone or when combined with other information. Because there are many different types of information that can be used to distinguish or trace an individual's identity, the term PII is necessarily broad. The definition of PII is not anchored to any single category of information or technology. Rather, it requires a case-by-case assessment of the specific risk that an individual can be identified using information that is linked or linkable to said individual. For that reason, Social Security Numbers, Alien Registration Numbers, and driver's license numbers are always PII. Email addresses, phone numbers, and mailing addresses are sometimes PII, and when presented in combination with a first name, often become PII. Photos of people's faces are almost always PII, and that's why we always ask before taking photos and get explicit statements about if we can share them.
 
-[Sensitive PII]({% link launching-software/privacy.md %}) is information which, if shared, could seriously harm or embarrass someone. Unique identifying numbers and biometric data is always sensitive: In general, combining:
+[Sensitive PII]({{ site.baseurl }}/launching-software/privacy/) is information which, if shared, could seriously harm or embarrass someone. Unique identifying numbers and biometric data is always sensitive: In general, combining:
 
 - Citizenship or immigration status
 - Ethnic or religious affiliation
