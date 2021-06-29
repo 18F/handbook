@@ -169,7 +169,7 @@ Those are just three of the products TTS is working on, but [there are many more
 - Year 3: "We should really consider doing something about procurement"
 - Year 4: "Holy crap there's nothing more important than solving procurement!"
 
-You're going to hear a lot about acquisitions and procurement. For a quick dive, [start with this simple introductory presentation](https://docs.google.com/presentation/d/1FjJWwXrTbXexdTGeZKP6OjQ8i5B3GmOAj5MQTF_arLg/edit?disco=AAAADFGLhBo&ts=5cf90ee6&usp_dm=false#slide=id.g4eb21fd7af_0_178).You may also want to view these relevant decks presented during past 18F Team Coffees:
+You're going to hear a lot about acquisitions and procurement. For a quick dive, [start with this simple introductory presentation](https://docs.google.com/presentation/d/1FjJWwXrTbXexdTGeZKP6OjQ8i5B3GmOAj5MQTF_arLg/edit?disco=AAAADFGLhBo&ts=5cf90ee6&usp_dm=false#slide=id.g4eb21fd7af_0_178). 18F also gave a [great overview](https://www.youtube.com/watch?v=g-h6CtSwk30) to the Michigan Senate Appropriation Committee back in February 2020. You may also want to view these relevant decks presented during past 18F Team Coffees:
 
 - [Pre-award management](https://docs.google.com/presentation/d/1uOuzFibFCvgW3I0XL54w2sKl7ObSBxk9cUlyTchJ8Gk/edit#slide=id.g57d5603040_0_23)
 
