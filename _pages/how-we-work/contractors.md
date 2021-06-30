@@ -24,6 +24,14 @@ In general, contractors "embedded" in TTS (working on TTS projects most or full-
 
 [GSA HSPD-12 Personal Identity Verification and Credentialing Handbook](https://www.gsa.gov/cdnstatic/CIO_P_2181.1_Homeland_Security_Presidential_Directive-12_Personal_Identity_Verification_and_Credentialing_-_10-20-08%29_%28Revised_10-5-2015%29.pdf#page=5)
 
+## GSA Access Card
+
+The GSA Access Card ("badge", "PIV card") is part of the contractor's onboarding process. The sensitivity level of their work (i.e. manipulates data or system configurations, access to PII) and position will determine if a GSA Access Card is required.
+
+### Gov. Furnished Equipment (GFE)- Computers
+
+If the contractor needs access to applications that require VPN, they will need a GSA provided computer. If they can complete their work using VDI, they do not need a GSA provided computer and may use their company issued computer.
+
 ## See also
 
 - TTS-specific materials:
