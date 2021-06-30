@@ -9,8 +9,8 @@ CODEOWNERS                                        @18F/tts-tech-portfolio
 # Every pull request to the Handbook should be seen by a member of the Tech
 # Portfolio. If it is a small change, then an approval from Tech Portfolio is
 # sufficient for merging. If the change is more structural, then an approval is
-# _required_ from the owning team.
-*.md                                              @18F/tts-tech-portfolio
+# _required_ from the owning team, if applicable.
+*                                                 @18F/tts-tech-portfolio
 
 ##################################################
 # Business units
