@@ -28,7 +28,7 @@ In general, contractors "embedded" in TTS (working on TTS projects most or full-
 
 The GSA Access Card ("badge", "PIV card") is part of the contractor's onboarding process. The sensitivity level of their work (i.e. manipulates data or system configurations, access to PII) and position will determine if a GSA Access Card is required.
 
-**Gov. Furnished Equipment (GFE)- Computers **
+### Gov. Furnished Equipment (GFE)- Computers
 
 If the contractor needs access to applications that require VPN, they will need a GSA provided computer. If they can complete their work using VDI, they do not need a GSA provided computer and may use their company issued computer.
 
