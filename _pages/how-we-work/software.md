@@ -39,7 +39,7 @@ All software in use at GSA needs to be approved through the IT Standards process
 
 ## Purchase new software
 
-Here at TTS, we want to stay current and take advantage of as many emerging technologies as possible. We believe that getting the software you need to do your job should not be difficult, time-consuming or stressful. If the software is not in the [TTS inventory](https://app.smartsheet.com/b/publish?EQBCT=cf3124067fda44bbbe1471fe985d96b7) or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio will work with you to meet your needs as best as possible.
+Here at TTS, we want to stay current and take advantage of as many emerging technologies as possible. We believe that getting the software you need to do your job should not be difficult, time-consuming or stressful. If the software is not in the [TTS inventory](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0) or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio will work with you to meet your needs as best as possible.
 
 ### Step 1: Submit TTS Software Request
 
