@@ -3,7 +3,7 @@ title: Contributing to the Handbook
 permalink: /contributing/
 ---
 
-If you're not familiar with how to edit Markdown through GitHub, see [Intro to GitHub]({{site.baseurl}}/intro-to-github/), particularly [digital.gov's Using GitHub for Content Creation](https://digital.gov/resources/an-introduction-github/).
+If you're not familiar with how to edit Markdown through GitHub, see [Intro to GitHub]({{site.baseurl}}/intro-to-github/) and [digital.gov's Using GitHub for Content Creation](https://digital.gov/resources/an-introduction-github/).
 
 ## Front matter
 
