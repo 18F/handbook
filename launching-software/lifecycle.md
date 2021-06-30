@@ -4,7 +4,7 @@ title: Lifecycle of a Launch
 
 ## ATOs
 
-<a href="https://atos.open-control.org/" class="usa-button">Learn about ATOs</a>
+[Learn about ATOs](https://atos.open-control.org/){: .usa-button}
 
 ### Timeline
 
@@ -155,11 +155,11 @@ As described in [the NIST guide](http://csrc.nist.gov/publications/nistpubs/800-
 
 At TTS, the system security plan (SSP) is a long Google Doc.
 
-<a href="https://atos.open-control.org/tips/#system-security-plans-ssps" class="usa-button">Tips</a>
+[Tips](https://atos.open-control.org/tips/#system-security-plans-ssps){: .usa-button}
 
 ## Diagrams
 
-<a href="https://atos.open-control.org/tips/#systemnetwork-diagrams" class="usa-button">General info</a>
+[General info](https://atos.open-control.org/tips/#systemnetwork-diagrams){: .usa-button}
 
 ### Examples within TTS
 
@@ -206,4 +206,4 @@ Contact ispcompliance@gsa.gov for any issues.
 - Are your APIs up to the [API Standards](https://github.com/18f/api-standards)? _Ask the [#api](https://gsa-tts.slack.com/archives/C6YGE5U74) if you have questions._
 - Make sure you have all the social media metadata and preview images.
 
-<a href="https://atos.open-control.org/tips/" class="usa-button">More</a>
+[More](https://atos.open-control.org/tips/){: .usa-button}
