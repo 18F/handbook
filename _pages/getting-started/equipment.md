@@ -13,6 +13,12 @@ This page is generally about Macs. If you have a Windows device, see [InSite](ht
 
 Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
 
+## Contractors
+
+Depending on the work they will perform, contractors may receive GSA provided computers or equipment. If the contractor needs access to applications that require VPN, they are required to use a GSA provided computer. If they can complete their work using VDI, they do not need a GSA provided computer and may use their company issued computer.
+
+In order to request a GSA provided computer or other equipment, CORs or hiring manager should submit a [New Hire Request](https://gsa.servicenowservices.com/sp?id=sc_cat_item_guide&sys_id=e671d1cbf8d8f000ce3de67bda527188&sysparm_category=3b29165b7cec0100a6e757fe35f45f6c) and select the equipment that is needed.
+
 ## Laptop
 
 Most TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA. See [information about using PIV card readers]({{site.baseurl}}/piv/).
