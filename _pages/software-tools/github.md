@@ -7,7 +7,7 @@ questions:
   - dev
 ---
 
-GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience.
+GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience. If you're not familiar with how to use GitHub, see the [introduction]({{site.baseurl}}/intro-to-github/).
 
 ## Setup
 
@@ -67,10 +67,6 @@ By the time engagements end, **repositories developed for another agency should 
 - We have a copy of the code, should they decide to delete the transferred repository, make it private, etc.
 
 If the repository is no longer in use, it should be [archived](#archiving).
-
-## How-to
-
-See [Intro to GitHub]({{site.baseurl}}/intro-to-github/).
 
 ### Working with outside collaborators
 
