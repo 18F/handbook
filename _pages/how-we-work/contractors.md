@@ -30,13 +30,9 @@ The [GSA Access Card ("badge", "PIV card")]({{site.baseurl}}/piv/) is part of th
 
 ## Equipment
 
-Depending on the work they will perform, contractors may receive GSA provided computers or equipment. If the contractor needs access to applications that require VPN, they are required to use a GSA provided computer. If they can complete their work using VDI, they do not need a GSA provided computer and may use their company issued computer.
+Depending on the work they will perform, contractors may receive GSA provided computers or equipment. If the contractor needs access to applications that require VPN, they are required to use a [GSA provided computer]({{site.baseurl}}/equipment/#laptop). If they can complete their work using VDI, they do not need a GSA provided computer and may use their company issued computer.
 
 In order to request a GSA provided computer or other equipment, CORs or hiring manager should submit a [New Hire Request](https://gsa.servicenowservices.com/sp?id=sc_cat_item_guide&sys_id=e671d1cbf8d8f000ce3de67bda527188&sysparm_category=3b29165b7cec0100a6e757fe35f45f6c) and select the equipment that is needed.
-
-### Gov. Furnished Equipment (GFE)- Computers
-
-If the contractor needs access to applications that require VPN, they will need a [GSA-provided computer]({{site.baseurl}}/equipment/#laptop). If they can complete their work using VDI, they do not need a GSA provided computer and may use their company issued computer.
 
 ## See also
 
