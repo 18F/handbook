@@ -93,7 +93,7 @@ $(document).ready(function() {
       if ($table.length > 0){
         $table.after(inlineNavigation);
       } else {
-        $("main p").first().after(inlineNavigation);
+        $("main > p").first().after(inlineNavigation);
       }
 
     }
