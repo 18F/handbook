@@ -47,6 +47,12 @@ For internal links, use `{{site.baseurl}}` in the URL (in place of `https://http
 
 :no_entry_sign: **Instead of:** `(/code-of-conduct/)`
 
+### Linting
+
+We use prettier to format markdown. You can fix your files locally with:
+
+    $ npm run lint
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](https://handbook.tts.gsa.gov/contributing/):
