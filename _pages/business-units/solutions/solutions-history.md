@@ -6,7 +6,7 @@ questions:
   - solutions
 ---
 
-A brief history of TTS Solutions is hard to write: our work spans five decades and nine administrations! Moreover, before 2019 we weren't even called Solutions! Instead, we were known as the Office of Products and Programs (OPP).
+A brief history of TTS Solutions is hard to write: our work spans five decades and nine administrations! Moreover, we haven't even always been Solutions: pre-2019 we were known as the *Office of Products and Programs (OPP)*.
 
 What was established in 1970 as a place to coordinate and deliver information to consumers has evolved tremendously. Our audience has expanded to include every federal agency, government employees at all levels, the private sector, and people all over the world.
 
