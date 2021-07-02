@@ -6,17 +6,17 @@ questions:
   - solutions
 ---
 
-A brief history of TTS Solutions is hard to write: our work spans five decades and nine administrations!
+A brief history of TTS Solutions is hard to write: our work spans five decades and nine administrations! Moreover, we haven't even always been Solutions: pre-2019 we were known as the *Office of Products and Programs (OPP)*.
 
 What was established in 1970 as a place to coordinate and deliver information to consumers has evolved tremendously. Our audience has expanded to include every federal agency, government employees at all levels, the private sector, and people all over the world.
 
 Today, our [mission](https://docs.google.com/presentation/d/1DCtxpQgv89SRV_lpeXHNNOo1boIHmD2UpbsnV46WEik/edit#slide=id.g2fcf36f393_0_8) is to **help the public use and understand government**, and **help agencies understand and serve the public**. To achieve this, we **create, discover, connect and share practical solutions and products that transform government**.
 
-We offer cross-government products and programs that help agencies deliver modern services to the public. And we maintain the front door to the federal government via USA.gov, GobiernoUSA.gov, and the USAGov Contact Center.
+We offer cross-government products and programs that help agencies deliver modern services to the public. And we maintain the front door to the federal government via USA.gov, USAGov en Español, and the USAGov Contact Center.
 
 What we do today builds on the efforts of many dedicated employees who served before us. While we can only offer a glimpse of their work below, we appreciate all the ways in which they built the foundation.
 
-## Walk-In, Order, or Call: Providing Gov Information 1966 - 1990
+## Walk-In, Order, or Call -- Providing Information: 1966 - 1990
 
 In 1970, President Nixon’s [Executive Order 11566](https://www.archives.gov/federal-register/codification/executive-order/11566.html) created the Consumer Product Information Coordinating Center. The office was tasked with helping federal agencies get their consumer-friendly information in print and into the hands of the public.
 
@@ -62,19 +62,30 @@ And, we kept pace with the rise of smartphones: the [Mobile Testing Program](htt
 
 ## An Eye to the Future: 2015 - present
 
-In recent years, we’ve established and grown many crucial government-wide products and programs:
+### TTS is born: 2016
+
+In 2016, [18F]({{site.baseurl}}/18f-history-and-values/), [PIF](https://presidentialinnovationfellows.gov/), and the Office of Products and Programs (OPP, aka us) [came together](https://www.fedscoop.com/gsa-launches-technology-service-line/) under the newly-formed Technology Transformation Service (TTS) office. Ever since we became an office within TTS, we have played an essential role in helping it modernize and digitize the federal government.
+
+### Ramping up our portfolio: 2016-2019
+
+Following the expansion of our web presence and digital knowledge, we've remained hard at work. In the years since, we've built, grown, and maintained crucial government-wide products and programs:
 
 - [10x](https://10x.gsa.gov/): provides start-up funding for new technology projects and products across government (2016)
 - [Artificial Intelligence Portfolio](https://digital.gov/communities/artificial-intelligence/): supporting and coordinating the use of artificial intelligence technologies in federal agencies (2019)
 - [CitizenScience.gov](https://www.citizenscience.gov/): a hub for accelerating crowdsourcing and citizen science across the U.S. government (2016)
 - [Code.gov](https://code.gov/): a catalog of government developed code (2016)
-- [Cloud.gov](https://cloud.gov/): a Platform as a Service built specifically for government work. Created by 18F in 2015. Part of TTS Solutions since 2019.
 - [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges. The longest running community, the Web Content Managers Forum, dates back to 2000. New communities are created as new technologies and opportunities arise.
 - [Emerging Citizen Technology Office](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies (2017)
-- [Federalist](https://federalist.18f.gov/): a publishing platform for modern government websites. Created by 18F in 2015. Part of TTS Solutions since 2019.
 - Identity Program Management Office: supporting and promoting the use of secure identity management practices and tools (2019)
-- [Login.gov](https://login.gov/): a shared service that provides secure and private online access to participating government programs. Launched by 18F and the U.S. Digital Service in 2017. Part of TTS Solutions since 2019.
 - [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps (2016)
-- [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015. Part of TTS Solutions since 2019.
 
-Over the past 50 years, we’ve grown and expanded while remaining true to our mission. We’ll continue to evolve as we anticipate and meet future needs. We look forward to the next 50 years of serving the public and our partners!
+### OPP --> Solutions: 2019
+
+In 2019, we got a bit bigger. OPP was renamed to Solutions during a [TTS-wide re-organization](https://www.fedscoop.com/gsa-tts-restructuring-anil-cheriyan/). And as part of this change, a number of projects moved from 18F to Solutions, including:
+
+- [Cloud.gov](https://cloud.gov/): a Platform as a Service built specifically for government work. Created by 18F in 2015.
+- [Federalist](https://federalist.18f.gov/): a publishing platform for modern government websites. Created by 18F in 2015.
+- [Login.gov](https://login.gov/): a shared service that provides secure and private online access to participating government programs. Launched by 18F and the U.S. Digital Service in 2017.
+- [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015.
+
+Over the past 50 years, TTS Solutions has grown, expanded, and renamed all while remaining true to our mission. We’ll continue to evolve as we anticipate and meet future needs. We look forward to the next 50 years of serving the public and our partners!
