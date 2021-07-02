@@ -82,9 +82,10 @@ Following the expansion of our web presence and digital knowledge, we've remaine
 ### OPP --> Solutions: 2019
 
 In 2019, we got a bit bigger. OPP was renamed to Solutions during a [TTS-wide re-organization](https://www.fedscoop.com/gsa-tts-restructuring-anil-cheriyan/). And as part of this change, a number of projects moved from 18F to Solutions, including:
-  - [Cloud.gov](https://cloud.gov/): a Platform as a Service built specifically for government work. Created by 18F in 2015.
-  - [Federalist](https://federalist.18f.gov/): a publishing platform for modern government websites. Created by 18F in 2015.
-  - [Login.gov](https://login.gov/): a shared service that provides secure and private online access to participating government programs. Launched by 18F and the U.S. Digital Service in 2017.
-  - [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015.
+
+- [Cloud.gov](https://cloud.gov/): a Platform as a Service built specifically for government work. Created by 18F in 2015.
+- [Federalist](https://federalist.18f.gov/): a publishing platform for modern government websites. Created by 18F in 2015.
+- [Login.gov](https://login.gov/): a shared service that provides secure and private online access to participating government programs. Launched by 18F and the U.S. Digital Service in 2017.
+- [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015.
 
 Over the past 50 years, TTS Solutions has grown, expanded, and renamed all while remaining true to our mission. We’ll continue to evolve as we anticipate and meet future needs. We look forward to the next 50 years of serving the public and our partners!
