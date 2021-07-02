@@ -16,7 +16,7 @@ We offer cross-government products and programs that help agencies deliver moder
 
 What we do today builds on the efforts of many dedicated employees who served before us. While we can only offer a glimpse of their work below, we appreciate all the ways in which they built the foundation.
 
-## Walk-In, Order, or Call -- Providing Information: 1966 - 1990
+## 1966-1990: Walk-In, Order, or Call -- Providing Information
 
 In 1970, President Nixon’s [Executive Order 11566](https://www.archives.gov/federal-register/codification/executive-order/11566.html) created the Consumer Product Information Coordinating Center. The office was tasked with helping federal agencies get their consumer-friendly information in print and into the hands of the public.
 
@@ -28,7 +28,7 @@ Another primary vehicle to connect the public and government was the _Consumer I
 
 The _Catalog_ was crucial: imagine getting quality government information on those topics in the pre-Internet age! We published the first edition of the _Catalog_ in 1971, and the [final edition](https://drive.google.com/file/d/0B812FdtUF1KxbXVLakIzeHlYUVk/view) in 2016. In 45 years, we filled more than 76 million orders and distributed more than 1.2 billion publications.
 
-## Entering the Digital Age: 1990s - 2000
+## 1990s - 2000: Entering the Digital Age
 
 The _Catalog_ was our first foray into the online world: in 1992, we created an electronic bulletin board system to allow anyone with a modem to dial up and download the publications listed in the _Catalog_.
 
@@ -36,7 +36,7 @@ We launched our first website in 1994, also based on the _Catalog_: Pueblo.gsa.g
 
 In 1997, the White House gave us responsibility for one of the most helpful and popular federal publications: the _Consumer’s Resource Handbook_. Released biannually since 1979, it was renamed the [Consumer Action Handbook](https://www.usa.gov/handbook) in 2000 and was later joined by a Spanish version, the [Guía del Consumidor](https://gobierno.usa.gov/ordene-guia-consumidor). Both publications empower people to resolve their own consumer complaints.
 
-## Expanding Our Digital Presence: 2000 - 2010
+## 2000 - 2010: Expanding Our Digital Presence
 
 [USA.gov](https://www.usa.gov/) got its start as FirstGov.gov in June 2000 when President Clinton announced the gift of a powerful search engine from internet entrepreneur Eric Brewer. Clinton called for us to use it to create and launch an official U.S. web portal within 90 days.
 
@@ -46,7 +46,7 @@ Starting in 2002, we managed WebContent.gov, a one-stop resource for government 
 
 The home of the U.S. government’s open data, [Data.gov](https://www.data.gov/), launched in 2009, as did [Go.USA.gov](https://go.usa.gov/), a URL shortening service for government agencies.
 
-## Hitting 40 and Looking Beyond the Web: 2010 - 2015
+## 2010 - 2015: Hitting 40 and Looking Beyond the Web
 
 At the turn of the decade, our efforts began expanding beyond web content and information dissemination.
 
@@ -60,13 +60,13 @@ In 2012, the [Digital Analytics Program](https://digital.gov/dap/)’s website a
 
 And, we kept pace with the rise of smartphones: the [Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/), a compatibility testing service that agencies can use to test their websites for mobile-friendliness, began in 2013.
 
-## An Eye to the Future: 2015 - present
+## 2015 - present: An Eye to the Future
 
-### TTS is born: 2016
+### 2016: TTS is born
 
 In 2016, [18F]({{site.baseurl}}/18f-history-and-values/), [PIF](https://presidentialinnovationfellows.gov/), and the Office of Products and Programs (OPP, aka us) [came together](https://www.fedscoop.com/gsa-launches-technology-service-line/) under the newly-formed Technology Transformation Service (TTS) office. Ever since we became an office within TTS, we have played an essential role in helping it modernize and digitize the federal government.
 
-### Ramping up our portfolio: 2016-2019
+### 2016 - 2019: Ramping up our portfolio
 
 Following the expansion of our web presence and digital knowledge, we've remained hard at work. In the years since, we've built, grown, and maintained crucial government-wide products and programs:
 
@@ -79,7 +79,7 @@ Following the expansion of our web presence and digital knowledge, we've remaine
 - Identity Program Management Office: supporting and promoting the use of secure identity management practices and tools (2019)
 - [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps (2016)
 
-### OPP --> Solutions: 2019
+### 2019: OPP --> Solutions
 
 In 2019, we got a bit bigger. OPP was renamed to Solutions during a [TTS-wide re-organization](https://www.fedscoop.com/gsa-tts-restructuring-anil-cheriyan/). And as part of this change, a number of projects moved from 18F to Solutions, including:
 
