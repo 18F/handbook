@@ -77,6 +77,7 @@ Following the expansion of our web presence and digital knowledge, we've remaine
 - [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges. The longest running community, the Web Content Managers Forum, dates back to 2000. New communities are created as new technologies and opportunities arise.
 - Identity Program Management Office: supporting and promoting the use of secure identity management practices and tools (2019)
 - [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps (2016)
+- [Vote.gov](https://vote.gov): USAGov’s voter registration and election information website (2016)
 
 ### 2019: OPP --> Solutions
 
@@ -86,5 +87,6 @@ In 2019, we got a bit bigger. OPP was renamed to Solutions during a [TTS-wide re
 - [Federalist](https://federalist.18f.gov/): a publishing platform for modern government websites. Created by 18F in 2015.
 - [Login.gov](https://login.gov/): a shared service that provides secure and private online access to participating government programs. Launched by 18F and the U.S. Digital Service in 2017.
 - [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015.
+
 
 Over the past 50 years, TTS Solutions has grown, expanded, and renamed all while remaining true to our mission. We’ll continue to evolve as we anticipate and meet future needs. We look forward to the next 50 years of serving the public and our partners!
