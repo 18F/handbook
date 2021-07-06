@@ -49,7 +49,7 @@ For internal links, use `{{site.baseurl}}` in the URL (in place of `https://http
 
 ### Linting
 
-We use prettier to format markdown. You can fix your files locally with:
+We use [Prettier](https://prettier.io/) to format Markdown. You can fix your files locally with:
 
     $ npm run lint
 
