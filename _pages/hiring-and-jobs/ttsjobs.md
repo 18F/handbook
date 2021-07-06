@@ -35,7 +35,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Consulting Software Engineer/IT Specialist (2210) ](https://join.tts.gsa.gov/join/consulting-software-engineer/) - open Wednesday, November 11th through Friday, July 2nd
+We will share open positions as they are available.
 
 ### Internal only opportunities
 
@@ -45,7 +45,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA FAS WIDE: Program Analyst 343-13](https://www.usajobs.gov/GetJob/ViewDetails/602447700#) - open Wednesday, May 26th until Tuesday, July 6th
 
-- [TTS WIDE: Design Team Lead](https://docs.google.com/document/d/1tdZnBTWY6alMuvbLuLALxzChMdMZe1utXAMn_Cpf3uY/edit#) - open Wednesday, June 10th until Friday, July 2nd
 
 ## Opportunities with partners
 
