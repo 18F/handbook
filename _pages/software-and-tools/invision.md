@@ -11,3 +11,7 @@ If you are a member of the 18F Design team, once you have requested and received
 ## Offboarding
 
 [Transfer ownership of your prototypes](https://support.invisionapp.com/hc/en-us/articles/203730565-How-do-I-transfer-my-prototype-to-another-account-) to your supervisor or to another project team member so that they won't be lost once your account is deactivated.
+
+### For admins
+
+Search for the email address of the user in the [InVision People settings](https://gsa.invisionapp.com/teams/people/members?search=). Make sure the user has been removed.
