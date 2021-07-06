@@ -75,7 +75,6 @@ Following the expansion of our web presence and digital knowledge, we've remaine
 - [CitizenScience.gov](https://www.citizenscience.gov/): a hub for accelerating crowdsourcing and citizen science across the U.S. government (2016)
 - [Code.gov](https://code.gov/): a catalog of government developed code (2016)
 - [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges. The longest running community, the Web Content Managers Forum, dates back to 2000. New communities are created as new technologies and opportunities arise.
-- [Emerging Citizen Technology Office](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies (2017)
 - Identity Program Management Office: supporting and promoting the use of secure identity management practices and tools (2019)
 - [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps (2016)
 
