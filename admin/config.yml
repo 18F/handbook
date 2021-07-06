@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: 18f/handbook
+  branch: main # Branch to update (optional; defaults to master)
