@@ -45,7 +45,6 @@ We will share open positions as they are available.
 
 - [GSA FAS WIDE: Program Analyst 343-13](https://www.usajobs.gov/GetJob/ViewDetails/602447700#) - open Wednesday, May 26th until Tuesday, July 6th
 
-
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
