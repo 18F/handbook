@@ -88,5 +88,4 @@ In 2019, we got a bit bigger. OPP was renamed to Solutions during a [TTS-wide re
 - [Login.gov](https://login.gov/): a shared service that provides secure and private online access to participating government programs. Launched by 18F and the U.S. Digital Service in 2017.
 - [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015.
 
-
 Over the past 50 years, TTS Solutions has grown, expanded, and renamed all while remaining true to our mission. We’ll continue to evolve as we anticipate and meet future needs. We look forward to the next 50 years of serving the public and our partners!
