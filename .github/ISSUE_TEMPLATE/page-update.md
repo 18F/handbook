@@ -1,17 +1,16 @@
 ---
 name: Page update
 about: For general updates to existing Handbook pages
-title: 'X page: [Outdated/inaccurate/typos/confusing]'
+title: "X page: [Outdated/inaccurate/typos/confusing]"
 labels: page update
-assignees: ''
-
+assignees: ""
 ---
 
 ## Pages
 
 <!-- List all the pages affected by this issue. -->
 
-* https://handbook.tts.gsa.gov/[INSERT FULL URL HERE]
+- https://handbook.tts.gsa.gov/[INSERT FULL URL HERE]
 
 ## Background Information
 
