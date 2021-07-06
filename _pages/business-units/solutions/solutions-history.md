@@ -6,13 +6,13 @@ questions:
   - solutions
 ---
 
-A brief history of TTS Solutions is hard to write: our work spans five decades and nine administrations! Moreover, we haven't even always been Solutions: pre-2019 we were known as the _Office of Products and Programs (OPP)_.
+A brief history of TTS Solutions is hard to write: our work spans six decades and ten administrations! Moreover, we haven't even always been Solutions: pre-2019 we were known as the _Office of Products and Programs (OPP)_.
 
 What was established in 1970 as a place to coordinate and deliver information to consumers has evolved tremendously. Our audience has expanded to include every federal agency, government employees at all levels, the private sector, and people all over the world.
 
-Today, our [mission](https://docs.google.com/presentation/d/1DCtxpQgv89SRV_lpeXHNNOo1boIHmD2UpbsnV46WEik/edit#slide=id.g2fcf36f393_0_8) is to **help the public use and understand government**, and **help agencies understand and serve the public**. To achieve this, we **create, discover, connect and share practical solutions and products that transform government**.
+Today, our [mission]({{site.baseurl}}/office-of-solutions/#our-mission-and-purpose) is to **help the public use and understand government**, and **help agencies understand and serve the public**. To achieve this, we **create, discover, connect and share practical solutions and products that transform government**.
 
-We offer cross-government products and programs that help agencies deliver modern services to the public. And we maintain the front door to the federal government via USA.gov, USAGov en Español, and the USAGov Contact Center.
+We offer cross-government products and programs that help agencies deliver modern services to the public. And as we maintain the front door to the federal government via USA.gov, USAGov en Español, and the USAGov Contact Center, we equalize the government, making it inclusive and accessible for everyone.
 
 What we do today builds on the efforts of many dedicated employees who served before us. While we can only offer a glimpse of their work below, we appreciate all the ways in which they built the foundation.
 
@@ -22,7 +22,7 @@ In 1970, President Nixon’s [Executive Order 11566](https://www.archives.gov/fe
 
 But the roots of our work reach even further back. GSA was already the administrative home of a nationwide network of 26 Federal Information Centers which people could visit in person. These centers, generally located in the lobbies of federal buildings, answered government questions from the public. (Yes, you’ve read this correctly: once upon a time, you could show up to an assortment of government buildings to get your questions answered!)
 
-The centers were first established in 1966, were [formalized in 1978](https://www.gpo.gov/fdsys/pkg/STATUTE-92/pdf/STATUTE-92-Pg1641.pdf), and were merged with our office in 2000. They gradually moved from providing in-person service locally to [answering questions by telephone](https://www.usa.gov/phone) nationally—a bilingual service which still exists today as the USAGov Contact Center at 1-844-USA-GOV1 and via [chat and email](https://www.usa.gov/contact).
+The centers were first established in 1966, were [formalized in 1978](https://www.gpo.gov/fdsys/pkg/STATUTE-92/pdf/STATUTE-92-Pg1641.pdf), and were merged with our office in 2000. They gradually moved from providing in-person service locally to [answering questions by telephone](https://www.usa.gov/phone) nationally—a bilingual service which still exists today as the USAGov Contact Center at 1-844-USA-GOV1 and via [chat](https://www.usa.gov/chat).
 
 Another primary vehicle to connect the public and government was the _Consumer Information Catalog_. It listed more than 200 popular publications from across the federal government on diverse topics that are still relevant today: saving for college and retirement, avoiding fraud, staying healthy, and learning about federal laws and regulations that affect daily lives.
 
@@ -32,15 +32,15 @@ The _Catalog_ was crucial: imagine getting quality government information on tho
 
 The _Catalog_ was our first foray into the online world: in 1992, we created an electronic bulletin board system to allow anyone with a modem to dial up and download the publications listed in the _Catalog_.
 
-We launched our first website in 1994, also based on the _Catalog_: Pueblo.gsa.gov (which later became Publications.USA.gov). It was one of the first consumer information websites and received more than one million visits during its first year.
+We launched our first website in 1994, also based on the _Catalog_: [Pueblo.gsa.gov](https://web.archive.org/web/19970214004105/http://www.pueblo.gsa.gov/) (which later became Publications.USA.gov). It was one of the first consumer information websites and received more than one million visits during its first year.
 
-In 1997, the White House gave us responsibility for one of the most helpful and popular federal publications: the _Consumer’s Resource Handbook_. Released biannually since 1979, it was renamed the [Consumer Action Handbook](https://www.usa.gov/handbook) in 2000 and was later joined by a Spanish version, the [Guía del Consumidor](https://gobierno.usa.gov/ordene-guia-consumidor). Both publications empower people to resolve their own consumer complaints.
+In 1997, the White House gave us responsibility for one of the most helpful and popular federal publications: the _Consumer’s Resource Handbook_. Released biannually since 1979, it was renamed the [Consumer Action Handbook](https://web.archive.org/web/20190810233837/https://app_usa_prod_eqffnyamdzrb.s3.amazonaws.com/Consumer_Action_Handbook_2017.pdf?Rc37jX4tB8.5H.5oHzSSu_LcEYFcjzpC) in 2000 and was later joined by a Spanish version, the [Guía del Consumidor](https://drive.google.com/file/d/0B64-A1A3hX29ZERrV3cxQUhZcEE/view?usp=sharing&resourcekey=0-9P0D8xh9vdnsxBiRU4YO7w). Both publications empowered people to resolve their own consumer complaints.
 
 ## 2000 - 2010: Expanding Our Digital Presence
 
 [USA.gov](https://www.usa.gov/) got its start as FirstGov.gov in June 2000 when President Clinton announced the gift of a powerful search engine from internet entrepreneur Eric Brewer. Clinton called for us to use it to create and launch an official U.S. web portal within 90 days.
 
-In 2001 we added Kids.gov, filled with children’s content and lesson plans. And in 2003 we launched the official Spanish language portal, FirstGov en español. The FirstGov sites got more memorable names in 2007: USA.gov and [GobiernoUSA.gov](https://gobierno.usa.gov/). Both continue as the official guides to government information, benefits, and services.
+In 2001 we added [Kids.gov](https://web.archive.org/web/20160327075216/https://kids.usa.gov/), filled with children’s content and lesson plans. And in 2003 we launched the official Spanish language portal, FirstGov en español. The FirstGov sites got more memorable names in 2007: USA.gov and GobiernoUSA.gov (now known as [USAGov en Español](https://gobierno.usa.gov/)). Both continue as the official guides to government information, benefits, and services.
 
 Starting in 2002, we managed WebContent.gov, a one-stop resource for government web professionals who needed information about requirements, best practices, usability, and new technologies. Its training program, Web Manager University, offered practical training for managers of federal, state, and local government websites. These two services are the predecessors of today’s [DigitalGov](https://digital.gov/) and [DigitalGov University](https://digital.gov/digitalgov-university/).
 
