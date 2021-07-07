@@ -18,7 +18,7 @@ Our mission is to help the public use and understand government, and help agenci
 
 ## What We Do
 
-We offer cross-government products and programs that help agencies deliver modern services to the public. And we maintain the front door to the federal government via USA.gov, GobiernoUSA.gov, and the USAGov Contact Center.
+We offer cross-government products and programs that help agencies deliver modern services to the public. And we maintain the front door to the federal government via USA.gov, USA.gov en Español, and the USAGov Contact Center.
 
 ## Our Initiatives
 
@@ -33,22 +33,21 @@ We offer cross-government products and programs that help agencies deliver moder
 - [Digital Analytics Program (DAP)](https://www.digital.gov/guide/dap/): government-wide analytics tracking for agency websites
 - [Digital.gov](https://digital.gov/): a website that provides resources for agencies to create digital services
 - [DigitalGov University (DGU)](https://digital.gov/digitalgov-university/): hosts trainings and other events about agencies’ digital efforts.
-- [Emerging Citizen Technology Office (ECTO)](https://emerging.digital.gov/): coordinates interagency initiatives that evaluate, test, and develop emerging technologies including artificial intelligence, blockchain, virtual/augmented reality, and social technologies
 - [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/): provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services
 - [Go.USA.gov](https://go.usa.gov/): a URL shortening service for government agencies
-- [GobiernoUSA.gov](https://gobierno.usa.gov/): the “front door” to the federal government, offering government information and services by topic (in Spanish)
 - [Login.gov](https://login.gov): offers the public secure and private online access to participating government programs
 - [Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/): a compatibility testing service that agencies can use to test their websites for mobile-friendliness
 - [Search.gov](https://search.gov/): a service that powers search boxes on agency websites
 - [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps
 - [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites
 - [USA.gov](https://www.usa.gov/): the “front door” to the federal government, offering government information and services by topic (in English)
+- [USA.gov en Español](https://usa.gov/espanol/): USA.gov in Spanish
 - [USAGov Contact Center](https://www.usa.gov/contact): where the public can ask questions about any government agency
 - [USAGov Partnership Toolkit](https://usa.gov/partnerships): how agencies can partner with USAGov for outreach and engagement efforts
 
 ## Our History
 
-Check out our [brief history]({{site.baseurl}}/solutions-history/) and learn how our work spans nearly 5 decades!
+Check out our [brief history]({{site.baseurl}}/solutions-history/) and learn how our work spans nearly six decades!
 
 ## Our Org Structure
 
