@@ -43,6 +43,8 @@ We will share open positions as they are available.
 
 - [GSA WIDE: TTS Talent Acquisiton Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 
+- [TTS Talent Acquisiton SME Partner Detail](https://docs.google.com/document/d/1J6oFlpYpZBubZI9FV3sERcHH-0BDdQhD6k5MQTTObKY/edit?ts=60e4ced6#) - open Tuesday, July 6 until Wednesday July 14
+
 ### Competitive Service (Career) Merit Promotion
 
 - [GOVERNMENT WIDE: Contract Specialist 1102-13](https://www.usajobs.gov/GetJob/ViewDetails/605151700) - open Monday, June 28th until Monday July 12th

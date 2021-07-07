@@ -5,21 +5,21 @@ on: [pull_request]
 
 jobs:
   lint:
-    name: format code
+    name: Format code
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v1
+
       - uses: actions/setup-node@v1
         with:
           node-version: 12
 
-      - uses: actions/checkout@v1
+      - name: Install dependencies
+        run: npm install
 
-      - name: Install prettier
-        run: npm install -g prettier
-
-      - name: format sources files
+      - name: Format sources files
         run: |
-          prettier --write "**/*.md"
+          npm run lint
           git add "*.md"
 
       - name: Check that all the code is formatted.

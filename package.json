@@ -5,6 +5,7 @@
     "prettier": "2.3.1"
   },
   "scripts": {
+    "lint": "prettier --write \"**/*.md\"",
     "test": "jest"
   }
 }
