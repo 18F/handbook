@@ -60,3 +60,45 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 > This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 >
 > All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
+
+## Folder Structure
+
+The folder structure of the Handbook should correspond almost exactly with how
+the information is presented on the homepage. The current folder structure is as
+follows:
+
+_pages
+|-- about-us
+|-- business-units
+|   |-- 18f
+|   |   |-- chapters
+|   |   |-- how-18f-works
+|   |   |-- leadership-resources
+|   |   `-- projects-partners
+|   |-- coe
+|   |-- oa
+|   |   `-- OA-operational-guidance
+|   |-- operations
+|   |   |-- biz-ops
+|   |   |-- outreach
+|   |   `-- talent
+|   `-- solutions
+|-- general
+|   `-- who-we-are
+|-- getting-started
+|   `-- classes
+|-- hiring-and-jobs
+|-- how-we-work
+|-- locations
+|-- policies
+|   |-- business-and-ops-policies
+|   |-- conduct-policies
+|   |-- employee-resources-policies
+|   `-- tech-policies
+|-- redirects
+|-- software-tools
+|-- training-development
+`-- travel-leave
+    `-- travel-and-leave-policies
+
+32 directories
