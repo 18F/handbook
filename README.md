@@ -63,9 +63,9 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 
 ## Folder Structure
 
-The folder structure of the Handbook should correspond almost exactly with how
-the information is presented on the homepage. The current folder structure is as
-follows:
+The folder structure of `_pages` should correspond almost exactly with how
+the information is presented on the homepage. The current structure is as
+follows (with (TODO) brief descriptions of each folder):
 
 ```
 _pages
