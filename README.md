@@ -67,38 +67,28 @@ The folder structure of the Handbook should correspond almost exactly with how
 the information is presented on the homepage. The current folder structure is as
 follows:
 
-_pages
+\_pages
 |-- about-us
 |-- business-units
-|   |-- 18f
-|   |   |-- chapters
-|   |   |-- how-18f-works
-|   |   |-- leadership-resources
-|   |   `-- projects-partners
-|   |-- coe
-|   |-- oa
-|   |   `-- OA-operational-guidance
-|   |-- operations
-|   |   |-- biz-ops
-|   |   |-- outreach
-|   |   `-- talent
-|   `-- solutions
+| |-- 18f
+| | |-- chapters
+| | |-- how-18f-works
+| | |-- leadership-resources
+| | `-- projects-partners | |-- coe | |-- oa | | `-- OA-operational-guidance
+| |-- operations
+| | |-- biz-ops
+| | |-- outreach
+| | `-- talent | `-- solutions
 |-- general
-|   `-- who-we-are
-|-- getting-started
-|   `-- classes
+| `-- who-we-are |-- getting-started | `-- classes
 |-- hiring-and-jobs
 |-- how-we-work
 |-- locations
 |-- policies
-|   |-- business-and-ops-policies
-|   |-- conduct-policies
-|   |-- employee-resources-policies
-|   `-- tech-policies
-|-- redirects
-|-- software-tools
-|-- training-development
-`-- travel-leave
-    `-- travel-and-leave-policies
+| |-- business-and-ops-policies
+| |-- conduct-policies
+| |-- employee-resources-policies
+| `-- tech-policies |-- redirects |-- software-tools |-- training-development `-- travel-leave
+`-- travel-and-leave-policies
 
 32 directories
