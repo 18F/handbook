@@ -6,7 +6,7 @@ questions:
   - solutions
 ---
 
-A brief history of TTS Solutions is hard to write: our work spans six decades and ten administrations! Moreover, we haven't even always been Solutions: pre-2019 we were known as the _Office of Products and Programs (OPP)_.
+A brief history of TTS Solutions is hard to write: our work spans six decades and ten administrations! Moreover, we haven't always been Solutions: pre-2016, we were known as the Office of Citizen Services and Innovative Technologies (OCSIT), and from 2016-2019 we were known as the Office of Products and Programs (OPP).
 
 What was established in 1970 as a place to coordinate and deliver information to consumers has evolved tremendously. Our audience has expanded to include every federal agency, government employees at all levels, the private sector, and people all over the world.
 
@@ -42,7 +42,7 @@ In 1997, the White House gave us responsibility for one of the most helpful and 
 
 In 2001 we added [Kids.gov](https://web.archive.org/web/20160327075216/https://kids.usa.gov/), filled with children’s content and lesson plans. And in 2003 we launched the official Spanish language portal, FirstGov en español. The FirstGov sites got more memorable names in 2007: USA.gov and GobiernoUSA.gov (now known as [USAGov en Español](https://gobierno.usa.gov/)). Both continue as the official guides to government information, benefits, and services.
 
-Starting in 2002, we managed WebContent.gov, a one-stop resource for government web professionals who needed information about requirements, best practices, usability, and new technologies. Its training program, Web Manager University, offered practical training for managers of federal, state, and local government websites. These two services are the predecessors of today’s [DigitalGov](https://digital.gov/) and [DigitalGov University](https://digital.gov/digitalgov-university/).
+Starting in 2002, we managed WebContent.gov, a one-stop resource for government web professionals who needed information about requirements, best practices, usability, and new technologies. Its training program, Web Manager University, offered practical training for managers of federal, state, and local government websites. These two services are the predecessors of today’s [Digital.gov](https://digital.gov/) and [Digital.gov University](https://digital.gov/digitalgov-university/).
 
 The home of the U.S. government’s open data, [Data.gov](https://www.data.gov/), launched in 2009, as did [Go.USA.gov](https://go.usa.gov/), a URL shortening service for government agencies.
 
@@ -52,7 +52,7 @@ At the turn of the decade, our efforts began expanding beyond web content and in
 
 [Challenge.gov](https://www.challenge.gov/), the official site for federal prize and challenge competitions, launched in 2010. The same year, [Search.gov](https://search.gov/) expanded from powering the USA.gov search box to being offered as a government-wide shared service.
 
-In 2011, [FedRAMP](https://www.fedramp.gov/) began providing government a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services.
+In 2011, the [Federal Risk and Authorization Management Program](https://www.fedramp.gov/)(FedRAMP) began providing government a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services.
 
 The 2012 [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) asked agencies to “use modern tools and technologies to seize the digital opportunity and fundamentally change how the Federal Government serves both its internal and external customers – building a 21st century platform to better serve the American People.” This presidential strategy spurred the creation of more products and services.
 
@@ -64,11 +64,11 @@ And, we kept pace with the rise of smartphones: the [Mobile Testing Program](htt
 
 ### 2016: TTS is born
 
-In 2016, [18F]({{site.baseurl}}/18f-history-and-values/), [PIF](https://presidentialinnovationfellows.gov/), and the Office of Products and Programs (OPP, aka us) [came together](https://www.fedscoop.com/gsa-launches-technology-service-line/) under the newly-formed Technology Transformation Service (TTS) office. Ever since we became an office within TTS, we have played an essential role in helping it modernize and digitize the federal government.
+In 2016, [18F]({{site.baseurl}}/18f-history-and-values/), [PIF](https://presidentialinnovationfellows.gov/), and the Office of Citizen Services and Innovative Technologies (OCSIT, aka us) [came together](https://www.fedscoop.com/gsa-launches-technology-service-line/) under the newly-formed Technology Transformation Service (TTS) office. Following this merge, we were renamed to the Office of Products and Programs (OPP). Ever since we became an office within TTS, we have played an essential role in helping it modernize and digitize the federal government.
 
 ### 2016 - 2019: Ramping up our portfolio
 
-Following the expansion of our web presence and digital knowledge, we've remained hard at work. In the years since, we've built, grown, and maintained crucial government-wide products and programs:
+Following the expansion of our web presence and digital knowledge, OPP remained hard at work. In the years after, we built, grew, and maintained crucial government-wide products and programs:
 
 - [10x](https://10x.gsa.gov/): provides start-up funding for new technology projects and products across government (2016)
 - [Artificial Intelligence Portfolio](https://digital.gov/communities/artificial-intelligence/): supporting and coordinating the use of artificial intelligence technologies in federal agencies (2019)
@@ -81,7 +81,7 @@ Following the expansion of our web presence and digital knowledge, we've remaine
 
 ### 2019: OPP --> Solutions
 
-In 2019, we got a bit bigger. OPP was renamed to Solutions during a [TTS-wide re-organization](https://www.fedscoop.com/gsa-tts-restructuring-anil-cheriyan/). And as part of this change, a number of projects moved from 18F to Solutions, including:
+In 2019, we got a bit bigger. OPP was renamed to Solutions during a [TTS-wide re-organization](https://www.fedscoop.com/gsa-tts-restructuring-anil-cheriyan/). And as part of this change, we became responsible for a number of 18F projects, including:
 
 - [Cloud.gov](https://cloud.gov/): a Platform as a Service built specifically for government work. Created by 18F in 2015.
 - [Federalist](https://federalist.18f.gov/): a publishing platform for modern government websites. Created by 18F in 2015.
