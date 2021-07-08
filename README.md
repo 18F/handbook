@@ -67,85 +67,41 @@ The folder structure of `_pages` should correspond almost exactly with how
 the information is presented on the homepage. The current structure is as
 follows (with (TODO) brief descriptions of each folder):
 
-Current:
-
 ```
-tools
-performance-management
-launching-software
-_pages
+./
 ├── about-us
-├── business-units
-│   ├── 18f
-│   │   ├── chapters
-│   │   ├── how-18f-works
-│   │   ├── leadership-resources
-│   │   └── projects-partners
-│   ├── coe
-│   ├── oa
-│   │   └── OA-operational-guidance
-│   ├── operations
-│   │   ├── biz-ops
-│   │   ├── outreach
-│   │   └── talent
-│   └── solutions
-├── general
+├── general-information-and-resources
+│   ├── locations
+│   ├── policies
+│   │   ├── business-and-ops-policies
+│   │   ├── conduct-policies
+│   │   ├── employee-resources-policies
+│   │   └── tech-policies
 │   └── who-we-are
 ├── getting-started
 │   └── classes
-├── hiring-and-jobs
-├── how-we-work
-├── locations
-├── policies
-│   ├── business-and-ops-policies
-│   ├── conduct-policies
-│   ├── employee-resources-policies
-│   └── tech-policies
-├── redirects
-├── software-tools
-├── training-development
-└── travel-leave
-    └── travel-and-leave-policies
-
-32 directories
-```
-
-Proposed:
-
-```
-redirects
-_pages
-├── about-us: Who we are as an organization
-|-- general-information-and-resources
-    ├── how-we-work
-    |-- launching-software
-    ├── policies
-        ├── business-and-ops-policies
-        ├── conduct-policies
-        ├── employee-resources-policies
-        └── tech-policies
-├── getting-started: How to ramp up as a new TTSer
-│   └── classes
 ├── hiring-staying-or-changing-jobs
-|-- performance-management
-── software-and-tools
-├── training-*and*-development
-└── travel-leave
-    └── travel-and-leave-policies
-|-- tts-offices
-    |-- 18f
-        ├── chapters
-        ├── how-18f-works
-        ├── leadership-resources
-        └── projects-partners
-    |-- acquisition
-    |-- centers-of-excellence
-    |-- operations
-        ├── biz-ops
-        ├── outreach
-        └── talent
-    |-- presidential-innovation-fellows
-    |-- solutions
+├── redirects
+├── software-and-tools
+├── training-and-development
+├── travel-leave
+│   └── travel-and-leave-policies
+└── tts-offices
+    ├── 18f
+    │   ├── chapters
+    │   ├── how-18f-works
+    │   ├── leadership-resources
+    │   └── projects-partners
+    ├── coe
+    ├── oa
+    │   └── OA-operational-guidance
+    ├── operations
+    │   ├── biz-ops
+    │   ├── outreach
+    │   └── talent
+    └── solutions
+
+31 directories
 ```
 
 TODO (not explained by the tree):
