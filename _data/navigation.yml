@@ -347,7 +347,7 @@ primary:
                 url: tock/#time-tracking-and-billing
                 internal: true
               - text: High-level project lifecycle
-                url: project-lifecycle
+                url: project-lifecycle/
                 internal: true
               - text: How we staff projects
                 url: staffing-projects/
