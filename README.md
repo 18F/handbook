@@ -63,12 +63,16 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 
 ## Folder Structure
 
-The folder structure of `_pages` should correspond almost exactly with how
+The folder structure should correspond almost exactly with how
 the information is presented on the homepage. The current structure is as
-follows (with (TODO) brief descriptions of each folder):
+follows (top-level directories are included for now, though eventually they
+should be merged into `_pages`):
 
 ```
-./
+launching_software
+performance_management
+tools
+_pages
 ├── about-us
 ├── general-information-and-resources
 │   ├── locations
@@ -100,13 +104,4 @@ follows (with (TODO) brief descriptions of each folder):
     │   ├── outreach
     │   └── talent
     └── solutions
-
-31 directories
 ```
-
-TODO (not explained by the tree):
-- [ ] Move code of conduct in about-us
-- [ ] Move glossary to about-us section or elsewhere; remove General Contacts;
-  remove general director
-- [ ] Move redirects to top-level folder
-- [ ] Flatten out top-level `tools` directory into software-and-tools
