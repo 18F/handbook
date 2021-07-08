@@ -65,8 +65,8 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 
 The folder structure should correspond almost exactly with how
 the information is presented on the homepage. The current structure is as
-follows (top-level directories are included for now, though eventually they
-should be merged into `_pages`):
+follows (top-level directories like `tools` are included for now, though eventually they
+should all be merged into `_pages`):
 
 ```
 launching_software
