@@ -441,7 +441,7 @@ primary:
                 internal: true
               - text: Solutions org chart
                 url: solutions-org-chart/
-                internal: true
+                internal: false
           - text: Portfolios
             children:
               - text: Data
