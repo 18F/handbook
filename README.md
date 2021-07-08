@@ -67,6 +67,8 @@ The folder structure of `_pages` should correspond almost exactly with how
 the information is presented on the homepage. The current structure is as
 follows (with (TODO) brief descriptions of each folder):
 
+Current:
+
 ```
 _pages
 ├── about-us
@@ -104,3 +106,48 @@ _pages
 
 32 directories
 ```
+
+Proposed:
+
+```
+redirects
+_pages
+├── about-us: Who we are as an organization
+|-- general-information-and-resources
+    ├── how-we-work
+    |-- launching-software
+    ├── policies
+        ├── business-and-ops-policies
+        ├── conduct-policies
+        ├── employee-resources-policies
+        └── tech-policies
+├── getting-started: How to ramp up as a new TTSer
+│   └── classes
+├── hiring-staying-or-changing-jobs
+|-- performance-management
+── software-and-tools
+├── training-*and*-development
+└── travel-leave
+    └── travel-and-leave-policies
+|-- tts-offices
+    |-- 18f
+        ├── chapters
+        ├── how-18f-works
+        ├── leadership-resources
+        └── projects-partners
+    |-- acquisition
+    |-- centers-of-excellence
+    |-- operations
+        ├── biz-ops
+        ├── outreach
+        └── talent
+    |-- presidential-innovation-fellows
+    |-- solutions
+```
+
+TODO (not explained by the tree):
+- [ ] Move code of conduct in about-us
+- [ ] Move glossary to about-us section or elsewhere; remove General Contacts;
+  remove general director
+- [ ] Move redirects to top-level folder
+- [ ] Flatten out top-level `tools` directory into software-and-tools
