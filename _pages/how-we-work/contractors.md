@@ -8,7 +8,7 @@ In general, contractors "embedded" in TTS (working on TTS projects most or full-
 
 ## Policy highlights
 
-> Contractors with system access must utilize a gsa.gov e-mail account to conduct business with GSA.
+> Contractors with system access must utilize a gsa.gov email account to conduct business with GSA.
 
 [GSA Information Technology (IT) Security Policy](https://www.gsa.gov/cdnstatic/CIO_2100.1J_CHGE_1_GSA_Information_Technology_%28IT%29_Security_Policy_%28Posted_Version_4-28-2016%29.pdf#page=65)
 
