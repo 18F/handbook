@@ -37,19 +37,20 @@ meeting, if everyone on the 18F team agrees that we should move forward, the
 Dashboard is updated again to move the opportunity into the **Qualified** stage,
 meaning that we believe it's a good project that we should try to take on.
 
-Once an opportunity is qualified, the account manager writes up a scope of work,
-taking input from the BD lead and/or portfolio directors. The scope of work is
-our proposal for how 18F would help the partner agency. The account manager
-sends it off for their review, and there can be some back-and-forth ironing out
-all the details. Once both sides agree on the scope of work, the dashboard is
-updated. The opportunity gets moved into the **Scoped** stage. Additionally, a
+Once an opportunity is qualified, the account manager writes up a short proposal
+to get aligned on the partner need, desired outcomes, and general shape of the
+work. This proposal can include input from the BD lead and/or portfolio
+directors. They then send it off for the partner agency to review. There can be
+some back-and-forth ironing out all the details, but once both sides agree on
+the proposal, the dashboard is updated. The opportunity gets moved into the
+**Scoped** stage. Additionally, a
 [Project🔒](https://airtable.com/tblRHYBJtIZOxImMd/viw48sDuxG6HSKOhN?blocks=hide)
 is created in the Dashboard, also staged to **Scoped**. This reflects our
 optimism that the opportunity is going to turn into a real project that will
 need to be staffed.
 
 > **NOTE:** A project can be related to multiple opportunities, which means the
-> project is ultimately funded by multiple simultaneous IAAs. Similarly, an
+> project is ultimately funded by multiple consecutive IAAs. Similarly, an
 > opportunity can spawn multiple projects, depending on the partner agency's
 > needs.
 
