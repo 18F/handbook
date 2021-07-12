@@ -12,7 +12,7 @@ questions:
 
 TTS staff get [invited](https://support.mural.co/en/articles/2113755-invite-collaborators-to-your-workspace) as [Guests](https://support.mural.co/en/articles/2113719-types-of-users-in-mural) as part of onboarding. If you need to be upgraded to a Member, ask in [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural).
 
-As of 2/6/21, TTS has access to 240 Mural licenses. We can have an unlimited number of guests and inactive members in the workspace. 
+As of 2/6/21, TTS has access to 240 Mural licenses. We can have an unlimited number of guests and inactive members in the workspace.
 
 The number of active Mural members needs to stay under 240. In order to accomplish this, users that have been inactive for more than 90 days will be deactivated in order to make space for other TTS users that need a license. If an inactive user needs to be reactivated at a later date, they can request activation in [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural).
 
@@ -27,6 +27,8 @@ The number of active Mural members needs to stay under 240. In order to accompli
 - You can also share a Mural link with your partners and they can join as an anonymous user without having a Mural account of their own. They cannot access the rest of the TTS workspace, but you can invite them to view and edit your Mural.
 - The benefit of adding your partner as a guest and not an anonymous user is that you will be able to see what contributions they are making to a Mural. They will be called by name in the Mural, whereas anonymous users will be shown as an animal, not their name.
 - If you have any questions, please ask in [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural).
+
+{% include low-system.html %}
 
 ## Offboarding
 

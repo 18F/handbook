@@ -135,12 +135,15 @@ const init = async () => {
     // use the search value from the URL
     const hash = location.hash.replace(/^#/, "");
     input.value = decodeURIComponent(hash);
-    doSearch(input.value, index, softwareByName);
   }
 
   const software = await getSoftware();
   const index = buildIndex(software);
   const softwareByName = arrayToObject(software, "Standard Name");
+
+  if (location.hash) {
+    doSearch(input.value, index, softwareByName);
+  }
 
   form.addEventListener("submit", (event) => {
     doSearch(input.value, index, softwareByName);

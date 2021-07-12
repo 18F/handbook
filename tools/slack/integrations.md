@@ -12,7 +12,7 @@ We have a few different Slack Apps and bots you'll see in Slack:
 - [Charlie](https://app.slack.com/client/T025AQGAN/D01NBG7T3PF): our [Slack app](https://api.slack.com/). Knows all kinds of tricks. [Visit the repo](https://github.com/18F/charlie) to see what it can do.
 - [coffeemate](https://gsa-tts.slack.com/team/charlie): send a message with `coffee me` in a public channel or direct message @Charlie (El Hubot Real) with `coffee me` to set up a virtual coffee/tea with a random coworker.
 - [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-tts.slack.com/customize/emoji)). **Do not include private or sensitive information in Slackbot automatic responses.**
-- [TTS Inspector](https://github.com/18F/tts-tech-portfolio/tree/master/inspector): Our auditing bot
+- [TTS Inspector](https://github.com/18F/tts-tech-portfolio/tree/main/inspector): Our auditing bot
 
 Learn more about some of our unique channel customizations and auto-responses in the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.4l9k8pqdjzh1) guide.
 
@@ -20,7 +20,7 @@ If you're interested in learning more about the bots, or perhaps contributing to
 
 ### New integrations
 
-You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. You can also freely add new configurations for "Incoming WebHooks," which is on a [different page](https://gsa-tts.slack.com/apps/manage/custom-integrations). For any new integration types, please follow the process below.
+You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. For getting notifications into Slack with a custom integration, you can [create a new App for Incoming Webhooks](https://api.slack.com/messaging/webhooks), which will be approved. For any new integration types, please follow the process below.
 
 **[Integration request form](https://docs.google.com/forms/d/e/1FAIpQLSfo6M9aFT_UvUng9pl-Tti9RsHedqXfQ773btIdxoVxwEuoAg/viewform?gxids=7628)**
 

@@ -50,8 +50,9 @@ See a list of other popular channels in the [Slack @ TTS](https://docs.google.co
 
 ## Usage tips
 
-- **[Add yourself to our custom emoji](https://gsa-tts.slack.com/customize/emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Post your emoji (and any other custom emoji you add) to the [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY) channel.
+- **[Add yourself to our custom emoji](#custom-emoji).** Add your profile picture as a custom emoji with your name as the alias ("first-last"). This allows the whole TTS community to celebrate your contributions and serves as your introduction to our prolific custom emoji database. Once reviewed, your new emoji will be posted to [#emoji-showcase](https://gsa-tts.slack.com/messages/C0X2T36AY).
 - The advanced settings section provides an option to [**only show channels that have unread messages**](https://slack.com/help/articles/212596808-Manage-your-sidebar-preferences#manage-your-sidebar-items). This is useful if you're a member of a lot of channels.
+- **[Organize your sidebar with custom sections](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections)** to group (and collapse) related channels together.
 - Click the timestamp on any message to go to the archival view of it. This is helpful if you'd like to **cross-post a link to a message in another channel**.
 - If you're interested in **tracking specific keywords across Slack**, set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
 - **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
@@ -75,6 +76,32 @@ See a list of other popular channels in the [Slack @ TTS](https://docs.google.co
 Slack Groups allow you to direct messages to a specific list of people in a more precise way than [an **@-channel** or **@-here**](../rules/#channel-and-here). Any full member can [view, create, and edit Slack groups](https://get.slack.help/hc/en-us/articles/212906697-User-Groups) at will.
 
 Groups are a great way to alert people who might not be in a channel about something that needs their attention or make sure urgent incidents are directed to the right people and not an entire channel. For example, you can ping **@github-admins** in #admins-github if you have an urgent issue instead of using an **@channel** or use **@federalist-team** to alert that group of a conversation in another channel that we should see immediately.
+
+## Custom emoji
+
+Emoji are an important part of our communication within Slack. You are welcome
+to add custom emoji. Keep in mind that interactions in Slack are covered by our
+[Code of Conduct]({% link _pages/about-us/code-of-conduct.md %}),
+including emoji. Please be thoughtful and mindful about emoji submissions
+and ensure they're in line with our values of diversity and inclusion.
+
+To create custom emoji:
+
+1. Open [#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY) in Slack
+1. Use the Shortcuts button (lightning bolt) and select "Request new emoji"
+1. Fill out the form (name and URL) and click submit
+
+![Request new emoji form]({{site.baseurl}}/images/slack-and-social-media/request-new-emoji-form.png)
+
+As part of [2160.2B CIO CHGE 3 GSA Electronic Messaging and Related
+Services](https://www.gsa.gov/directive/gsa-electronic-messaging-and-related-services-),
+new emoji must be reviewed before use. Once approved, your new emoji will be
+published to [#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY).
+
+If you'd like to help review emoji, reach out to
+[#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S). The
+complete details of how this process works are covered under the [Slack admin
+documentation]({% link tools/slack/user-management.md %}#custom-emoji).
 
 ## Connectivity issues
 

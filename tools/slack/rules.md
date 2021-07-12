@@ -18,7 +18,7 @@ questions:
 
 Slack is required for all TTS staff. Some things you'll want to remember, especially if you're new to Slack:
 
-- **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
+- **Abide by the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** This includes use of avatars, emoji, files, and links. If you see anyone violating our Code of Conduct, see the reporting section.
 - [**Assume everything you share/do in Slack will be made public, and attributed back to you.**](../records/)
 - **Do not post any [sensitive information]({{site.baseurl}}/sensitive-information/).** See the [list of alternatives]({{site.baseurl}}/sensitive-information/#tools).
 
@@ -28,7 +28,7 @@ Here's what various prefixes and suffixes mean:
 
 | prefix/suffix | description                                                                                                                                                                                                                                                                |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `admin-`      | Administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to [request invites to Slack](../user-management/), expunge a particularly offensive/off-topic message, change the name of a channel, and so on. |
+| `admins-`     | Administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to [request invites to Slack](../user-management/), expunge a particularly offensive/off-topic message, change the name of a channel, and so on. |
 | `-partner`    | Channels that include [partners](../external-collaboration/#partners) from other agencies.                                                                                                                                                                                 |
 | `-public`     | [Channels that include members of the public.](../external-collaboration/#the-public)                                                                                                                                                                                      |
 | `wg-`         | [Working groups]({{site.baseurl}}/working-groups-and-guilds-101/#working-groups)                                                                                                                                                                                           |

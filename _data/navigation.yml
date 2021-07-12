@@ -10,17 +10,17 @@ primary:
       - text: Diversity, equity & inclusion
         url: diversity/
         internal: true
-      - text: One TTS
-        url: one-tts/
-        internal: true
       - text: Code of Conduct
         url: code-of-conduct/
         internal: true
       - text: Org chart
         url: https://docs.google.com/presentation/d/1otRbhoGRN4LfDnWpN6zZ0ymjPpTBW3t79pIiuBREkCY/edit
         internal: false
-      - text: 2020 Strategy
-        url: https://docs.google.com/document/d/1uidmcUfdxOeCt23nJ4VI1M10HV3W44ImMPLgwbx1QJM/edit
+      - text: Strategy
+        url: https://docs.google.com/presentation/d/10Y39kVm6Wrl-V1D55msMwt1yWdkCOWJBcPqnqhg-NMA/edit
+        internal: false
+      - text: FY20 Accomplishments
+        url: https://docs.google.com/document/d/1CJX97zBukyJcZxS1KIw1hUdMzvor8RX5HhKIZSOn-Ho/edit
         internal: false
       - text: Digital Council
         url: digital-council/
@@ -64,6 +64,9 @@ primary:
         internal: true
       - text: Conferences and events
         url: conferences-events-training/
+        internal: true
+      - text: Detailing for professional growth
+        url: details-professional-development/
         internal: true
       - text: GitHub 101
         url: intro-to-github/
@@ -271,6 +274,18 @@ primary:
               - text: Within Grade Increases (opm.gov)
                 url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
                 internal: false
+          - text: Launching software
+            children:
+              - text: Lifecycle of a Launch (ATOs, etc.)
+                url: launching-software/lifecycle/
+              - text: Security
+                url: launching-software/security/
+              - text: Infrastructure
+                url: launching-software/infrastructure/
+              - text: Laws
+                url: launching-software/laws/
+              - text: Privacy
+                url: launching-software/privacy/
   - text: TTS Offices
     href: /#tts-offices
     blurb: |
@@ -286,10 +301,6 @@ primary:
               - text: Agreements
                 url: agreements/
                 internal: true
-                children:
-                  - text: State and local agreements
-                    url: state-local-agreements/
-                    internal: true
               - text: Technology Portfolio
                 url: tech-portfolio/
                 internal: true
@@ -317,12 +328,15 @@ primary:
           - text: Overview of OA
             url: oa/
             internal: true
+          - text: Contractors
+            url: contractors/
+            internal: true
       - text: 18F
         children:
           - text: About 18F
             children:
               - text: 18F history and values
-                url: history-and-values/
+                url: 18f-history-and-values/
                 internal: true
               - text: 18F org chart
                 url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
@@ -347,6 +361,9 @@ primary:
               - text: Open source policy
                 url: https://github.com/18F/open-source-policy/blob/master/policy.md
                 internal: false
+              - text: State and local agreements
+                url: state-local-agreements/
+                internal: true
           - text: 18F projects
             children:
               - text: 18F business development
@@ -363,6 +380,12 @@ primary:
                 internal: true
               - text: Leading projects
                 url: leading-projects/
+                internal: true
+              - text: Successful project teams
+                url: project-teams/
+                internal: true
+              - text: Managing projects in distress
+                url: projects-in-distress/
                 internal: true
               - text: Working on an acquisition engagement
                 url: working-on-an-acquisition-engagement/
@@ -400,9 +423,6 @@ primary:
                 url: leadership-selection/
               - text: Leadership Candidate Guide
                 url: leadership-candidate-guide/
-              - text: Before you ship
-                url: https://before-you-ship.18f.gov/
-                internal: false
               - text: Doing research at 18F
                 url: research-guidelines/
                 internal: true
@@ -414,14 +434,14 @@ primary:
           - text: About TTS Solutions
             children:
               - text: Overview of TTS Solutions
-                url: office-of-products-and-programs/
+                url: office-of-solutions/
                 internal: true
               - text: Solutions history
                 url: solutions-history/
                 internal: true
               - text: Solutions org chart
-                url: opp-org-chart/
-                internal: true
+                url: solutions-org-chart/
+                internal: false
           - text: Portfolios
             children:
               - text: Data

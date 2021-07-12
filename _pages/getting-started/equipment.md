@@ -27,9 +27,32 @@ Your laptop will come preloaded with the latest, GSA-approved/supported Mac oper
 
 **Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
+### Bring Your Own Device (BYOD)
+
+[GSA has implemented a BYOD policy](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/mobile-devices-phones-tablets) that allows users to connect their non-GSA procured mobile devices, which have been previously approved by IT security, to GSA resources in a native fashion, utilizing the GSA network. Please note, only approved smartphones and tablets can be connected to the GSA network. Personal laptops cannot be connected directly to the GSA network at any GSA facility. For more information, please reference Section 4.2 of the [IT Security Procedural Guide](https://www.gsa.gov/cdnstatic/Securing_Mobile_Devices_and_Applications_%5BCIO_IT_Security_12-67_Rev_4%5D_01-26-2018.pdf#page=11).
+
+For users who work on a FISMA system that wish to use their personal laptop/computer (at a non-GSA facility), the assigned ISSO/ISSM for the application must accept the associated risk(s), obtain approval from the Authorizing Official, and document the use of the personally owned computer within the System Security Plan (SSP).
+
+For users who do not work directly on a FISMA system who wish to use their personal machine (at a non-GSA facility), please consult with ispcompliance@gsa.gov to review the BYOD policy with regards to your specific needs and use cases. You can also post geneeral questions in the [AskIT Chatter Page](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001I35).
+
+**Controlled Unclassified Information (CUI) can never be stored on a personal machine. Utilize Government Furnished Equipment (GFE) to the maximum extent possible.**
+
 ### Loaners
 
 You can [request a loaner PC through the IT Service Desk](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=403e07527897a400ce3ddff91a649427&sysparm_category=2318125b7cec0100a6e757fe35f45f9f).
+
+GSA IT does not currently have a Mac Loaner Program, but can provide loaners for exceptional cases like needing a machine for a [Third-Party Assessment Organization (3PAO)](https://www.fedramp.gov/assessors/) that needs to match the machines of developers on the team.
+
+1. Open a service now ticket requesting `GSA Hardware Request - Loaner`.
+1. Provide rationale for request. Example:
+
+   > ProjectX.gov needs a GSA hardened with the latest approved MacOSX with TTS users permission for 3PAO penetration testing. This is part of an (annual) assessment for FedRAMP Low/Moderate/High FISMA A&A...
+
+1. Include the contact and shipping information.
+1. Provide a user name on the device. Example: `3PAOtester01`.
+1. Help desk will create a shipping label and mail out loaner to the receiving party.
+
+If GSA IT doesn't have any availble inventory to issue a loaner, please [contact the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions) and they will work with you to determine a suitable alternative.
 
 ### Admin rights
 
@@ -75,17 +98,19 @@ TTS employees are issued an Apple iPhone. The TTS Talent Team will already have 
 See the [software](../software/) page.
 
 ## Peripherals
+
 If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request. Ask in the Slack channel corresponding to your office.
 
-GSA IT will provide peripherals such as: Wired keyboard, Wired mouse, and monitors ONLY if the users are using them in the office. Note: GSA IT does not provide wireless peripherals. Wireless peripherals can be purchased by the business unit. 
+GSA IT will provide peripherals such as: Wired keyboard, Wired mouse, and monitors ONLY if the users are using them in the office. Note: GSA IT does not provide wireless peripherals. Wireless peripherals can be purchased by the business unit.
 
 In order to obtain standard issued hardware, the requestor must contact the IT Service Desk or open a ServiceNow ticket. For non-standard IT equipment, requestors must complete and submit an [Exception Waiver](https://insite.gsa.gov/employee-resources/information-technology/it-assistance-and-help-desk/service-catalog/exception-waiver-request-process-for-nonstandard-equipment-and-macintosh?term=exception%20waiver) for review and approval.
 
 GSA IT will NOT provide peripherals to telework users that are using them at home or at a remote location. However, the users can purchase that on their own or provided by the business unit. There are no specific brands that GSA recommends.
 
-If you need wireless peripherals for the office or your business unit is willing to pay for peripherals, submit a [micropurchase request]({{site.baseurl}}/purchase-requests/) and it will be reviewed by the TTS purchase card holder. Please note that you will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form. 
+If you need wireless peripherals for the office or your business unit is willing to pay for peripherals, submit a [micropurchase request]({{site.baseurl}}/purchase-requests/) and it will be reviewed by the TTS purchase card holder. Please note that you will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form.
 
 ### Printers
+
 If you need to setup a printer follow the instructions [here](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology?term=printer%20driver#Print).
 
 ## Equipment to accommodate disability

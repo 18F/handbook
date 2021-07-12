@@ -50,7 +50,7 @@ search the handbook for the items in your list. You'll find tons of extra inform
 
 Don't underestimate how helpful your teammates will be, either.
 Talk to them - in Slack, in Google Hangouts, or in person, if you are based in one of our offices.
-Set up coffees --- just say "Coffee me" in a Slack channel and our CoffeeMate script will pair you up with someone.
+Set up coffees --- just say "Coffee me" in a Slack channel that has our bot [Charlie](http://github.com/18f/charlie) in it (or in a DM to Charlie) and you will be paired up with someone.
 Don't hesitate to reach out for coffee with someone outside of your area, either.
 Everyone here is positively brimming with useful information to share.
 
@@ -65,7 +65,7 @@ You don't need to have any specific expertise to join a guild or working group:
 just join their Slack channel and start attending their standing meetings.
 If you need an invite, post a message in the Slack channel or DM whoever organizes the group (who's often listed in a pinned post in that Slack channel).
 
-If you need support, can't find it here in the Handbook, and don't know where to start, [#questions](https://gsa-tts.slack.com/messages/questions/) is a good Slack channel to drop into if you think multiple people could direct you. But you can absolutely turn to your supervisor and/or lead/functional lead. For 18F folks, there's a bit more detail over here in [Support]({{site.baseurl}}/leading-projects/#support), much of which may also apply to other parts of TTS.
+If you need support, can't find it here in the Handbook, and don't know where to start, [#questions](https://gsa-tts.slack.com/messages/questions/) is a good Slack channel to drop into if you think multiple people could direct you. But you can absolutely turn to your supervisor and/or lead/functional lead. For 18F folks, there's a bit more detail over here in [Support]({{site.baseurl}}/leading-projects/#how-do-project-leads-and-team-members-get-support), much of which may also apply to other parts of TTS.
 
 ## Technical considerations
 
@@ -92,7 +92,7 @@ When you make the changes you want to see and open a pull request, someone will 
 If pull requests and code reviews feel a bit foreign to you, it
 might be helpful to think of it as similar to suggesting changes in a shared Google Doc. 
 In both cases, you're collaboratively trying to reach a final version.
-[The 18F Engineering Practices Guide has some great guidance](https://engineering.18f.gov/code-review/#tips-for-a-successful-review)
+[The TTS Engineering Practices Guide has some great guidance](https://engineering.18f.gov/code-review/#tips-for-a-successful-review)
 on how to be a good code review partner, but the main thing to remember is simply to be kind. We're all trying to improve things.
 
 And remember: you can be fearless in your pull requests. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control.
@@ -169,7 +169,7 @@ Those are just three of the products TTS is working on, but [there are many more
 - Year 3: "We should really consider doing something about procurement"
 - Year 4: "Holy crap there's nothing more important than solving procurement!"
 
-You're going to hear a lot about acquisitions and procurement. For a quick dive, [start with this simple introductory presentation](https://docs.google.com/presentation/d/1FjJWwXrTbXexdTGeZKP6OjQ8i5B3GmOAj5MQTF_arLg/edit?disco=AAAADFGLhBo&ts=5cf90ee6&usp_dm=false#slide=id.g4eb21fd7af_0_178).You may also want to view these relevant decks presented during past 18F Team Coffees:
+You're going to hear a lot about acquisitions and procurement. For a quick dive, [start with this simple introductory presentation](https://docs.google.com/presentation/d/1FjJWwXrTbXexdTGeZKP6OjQ8i5B3GmOAj5MQTF_arLg/edit?disco=AAAADFGLhBo&ts=5cf90ee6&usp_dm=false#slide=id.g4eb21fd7af_0_178). 18F also gave a [great overview](https://www.youtube.com/watch?v=g-h6CtSwk30) to the Michigan Senate Appropriation Committee back in February 2020. You may also want to view these relevant decks presented during past 18F Team Coffees:
 
 - [Pre-award management](https://docs.google.com/presentation/d/1uOuzFibFCvgW3I0XL54w2sKl7ObSBxk9cUlyTchJ8Gk/edit#slide=id.g57d5603040_0_23)
 
