@@ -35,7 +35,7 @@ For users who work on a FISMA system that wish to use their personal laptop/comp
 
 For users who do not work directly on a FISMA system who wish to use their personal machine (at a non-GSA facility), please consult with ispcompliance@gsa.gov to review the BYOD policy with regards to your specific needs and use cases. You can also post geneeral questions in the [AskIT Chatter Page](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001I35).
 
-**Controlled Unclassified Information (CUI) can never be stored on a personal machine and the best approach is to utilize the Government Furnised Equipment (GFE) to the maximum extent possible.**
+**Controlled Unclassified Information (CUI) can never be stored on a personal machine. Utilize Government Furnised Equipment (GFE) to the maximum extent possible.**
 
 ### Loaners
 
