@@ -8,7 +8,11 @@ jobs:
     name: Format code
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+        with:
+          # Use the branch commit instead of the PR merge commit
+          ref: ${{ github.event.pull_request.head.sha }}
+
 
       - uses: actions/setup-node@v1
         with:
@@ -28,10 +32,9 @@ jobs:
       - name: Push if it is not
         if: failure()
         run: |
-          git remote set-url --push origin https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY
           git config user.name "Github Runner"
           git config user.email "runner@runner.github.com"
-          git commit -am "Format code"
+          git commit -m "Format code"
           git status
           git push origin HEAD:$GITHUB_HEAD_REF
         env:
