@@ -13,25 +13,23 @@ CODEOWNERS                                        @18F/tts-tech-portfolio @dylan
 *                                                 @18F/tts-tech-portfolio @dylanirlbeck
 
 ##################################################
-# Business units
+# TTS Offices
 ##################################################
 ## 18F
-#_pages/business-units/18f/*                      @18F/18F-handbook-reviewers
-#_pages/how-we-work/*                             @18F/18F-handbook-reviewers
+#_pages/tts-offices/18f/*                         @18F/18F-handbook-reviewers
 
 ## Centers of Excellence (CoE)
-#_pages/business-units/coe/*                      @18F/coe-handbook-reviewers
-
-## Solutions
-#_pages/business-units/solutions/*                @18F/solutions-handbook-reviewers
-
-## Office of Operations
-#_pages/business-units/operations/*               @18F/operations-handbook-reviewers
-_pages/business-units/operations/outreach/*       @18F/outreach
+#_pages/tts-offices/coe/*                         @18F/coe-handbook-reviewers
 
 ## Office of Acquisition
 #_pages/business-units/oa/*                       @18F/oa-handbook-reviewers
 
+## Office of Operations
+#_pages/tts-offices/operations/*                  @18F/operations-handbook-reviewers
+_pages/tts-offices/operations/outreach/*          @18F/outreach
+
+## Solutions
+#_pages/tts-offices/solutions/*                   @18F/solutions-handbook-reviewers
 
 ##################################################
 # Guilds, working groups, and councils
@@ -45,22 +43,18 @@ _pages/about-us/diversity.md                      @AileenMcGraw-PIF
 #performance-management/*                         @18F/people-ops-handbook-reviewers
 #_pages/getting-started/*                         @18F/people-ops-handbook-reviewers
 #_pages/travel-leave/*                            @18F/people-ops-handbook-reviewers
-#_pages/hiring-and-jobs/*                         @18F/people-ops-handbook-reviewers
-#_pages/training-development/*                    @18F/people-ops-handbook-reviewers
+#_pages/hiring-staying-or-changing-jobs/*         @18F/people-ops-handbook-reviewers
+#_pages/training-and-development/*                @18F/people-ops-handbook-reviewers
 
 ##################################################
 # General information and policies
 ##################################################
-#_pages/about-us/tts-history.md                   TODO
-#_pages/policies/employee-resources-policies      @18F/people-ops-handbook-reviewers
-#_pages/policies/business-and-ops-policies/*      TODO
-#_pages/general/who-we-are/*                      TODO
-#_pages/locations/*                               TODO 
+#_pages/about-us/*                                @18F/general-information-reviewers
+#_pages/general-information-and-resources/*       @18F/general-information-reviewers
 
 ##################################################
-# Technology
+# Tech Portfolio
 ##################################################
-_pages/policies/tech-policies/*                   @18F/tts-tech-portfolio
-_pages/redirects/*                                @18F/tts-tech-portfolio
-_pages/software-tools/*                           @18F/tts-tech-portfolio
 launching-software/*                              @18F/tts-tech-portfolio
+_pages/redirects/*                                @18F/tts-tech-portfolio
+_pages/software-and-tools/*                       @18F/tts-tech-portfolio
