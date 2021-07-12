@@ -114,9 +114,10 @@ Information on cloud.gov sandboxes is available in the
 ### Cloud Service Provider (CSP) sandbox accounts
 
 Anyone in TTS can get an access to any of the three (3) Cloud Service Provider (CSP) sandbox account(s) that we currently have contractual access to in:
-* Google Cloud Platform (GCP)
-* Amazon Web Services (AWS)
-* Microsoft Azure (Azure) 
+
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
+- Microsoft Azure (Azure)
 
 Sandbox users have `power user` access, which means they have full privileges to all services except for Identity and Access Management (IAM). Program account requests will be isseued `administrator` access.
 
