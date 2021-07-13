@@ -47,6 +47,15 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "launching-software"
+      label: "Launching software"
+      label_singular: "Launching software page"
+      folder: "launching-software/"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
     - name: "locations"
       label: "Locations"
       label_singular: "Location page"
@@ -59,7 +68,9 @@ collections:
     - name: "outreach"
       label: "Outreach"
       label_singular: "Outreach page"
-      folder: "_pages/tts-offices/operations/outreach" create: true fields: 
+      folder: "_pages/tts-offices/operations/outreach"
+      create: true 
+      fields: 
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
