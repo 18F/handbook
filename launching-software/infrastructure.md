@@ -100,32 +100,32 @@ Sandbox accounts - both cloud.gov and AWS - are available to all TTS staff for n
 - Sandbox accounts _must_ be used when you are sending internet traffic to a non-production system: tools such as `ngrok` and `localtunnel` are strictly forbidden since they can allow your laptop to be compromised.
 - No sensitive or [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy/) should be stored in sandbox accounts.
 - Any system that becomes publicly routable (ex: for testing) must have a [robots.txt configuration](http://www.robotstxt.org/faq/prevent.html) that prevents indexing by all search engine robots.
-
-### Cloud.gov sandbox accounts
-
-Information on cloud.gov sandboxes is available in the
-[Getting Started section of the cloud.gov documentation](https://docs.cloud.gov/getting-started/accounts/).
-
-### AWS sandbox accounts
-
-Anybody in TTS can get an AWS sandbox account. Sandbox users have
-`power user` access, which means they have full privileges to all AWS services
-except Identity and Access Management (IAM).
-
-- Request a sandbox account:
-  - [18F](https://github.com/18F/aws-admin/issues/new?template=new_sandbox_user.md&title=sandbox+account+for+[your+email])
-  - [COE](https://docs.google.com/forms/d/e/1FAIpQLSdn8Pjof5xWZSkopkEU6pumQlXGYfU4fMN9efmoDzffm2MW4A/viewform)
-- [Sign in to your sandbox account](https://tts-sandbox.signin.aws.amazon.com/console)
-
-#### Rules
-
 - The sandbox is for testing and demonstration purposes only. Nobody outside the federal government should be given access details for systems running in the sandbox unless authentication is in place.
 - No [sensitive information]({{ site.baseurl }}/sensitive-information/) can be stored in the sandbox accounts.
 - Creating resources that will cost more than $500 per month requires prior agreement from the Tech Portfolio team.
 - All resources must be tagged with a `Project`. Resources without this tag can be deleted at any time.
 - Any website that is publicly routable for more than one day must have a robots.txt configuration that prevents indexing by search engines.
 
-### Important notes for AWS users
+### Cloud.gov sandbox accounts
+
+Information on cloud.gov sandboxes is available in the
+[Getting Started section of the cloud.gov documentation](https://docs.cloud.gov/getting-started/accounts/).
+
+### Cloud Service Provider (CSP) sandbox accounts
+
+Anyone in TTS can get an access to any of the three (3) Cloud Service Provider (CSP) sandbox account(s) that we currently have contractual access to in:
+
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
+- Microsoft Azure (Azure)
+
+Sandbox users have `power user` access, which means they have full privileges to all services except for Identity and Access Management (IAM). Program account requests will be isseued `administrator` access.
+
+- [Request an account](https://docs.google.com/forms/d/e/1FAIpQLSfK3jioq5BuZALB9dbWHDHaiwLteK1Aua3TspfWPjlMTBYVJg/viewform)
+
+Once you complete the form above, you will be contacted by a member of the TTS Tech Portfolio for the exchange of credentials. You can reach out to them direct by email `tts-tech-portfolio@gsa.gov` or in slack `#tts-tech-portfolio` [**once you've completed the form**](https://docs.google.com/forms/d/e/1FAIpQLSfK3jioq5BuZALB9dbWHDHaiwLteK1Aua3TspfWPjlMTBYVJg/viewform) to ask any questions or inquiry about the status of a request.
+
+### Important notes for Cloud Service Provider (CSP) users
 
 There are a few special notes on using any "Infrastructure as a Service" in the Federal context.
 

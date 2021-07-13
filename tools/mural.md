@@ -28,6 +28,8 @@ The number of active Mural members needs to stay under 240. In order to accompli
 - The benefit of adding your partner as a guest and not an anonymous user is that you will be able to see what contributions they are making to a Mural. They will be called by name in the Mural, whereas anonymous users will be shown as an animal, not their name.
 - If you have any questions, please ask in [#admins-mural](https://gsa-tts.slack.com/messages/admins-mural).
 
+{% include low-system.html %}
+
 ## Offboarding
 
 When someone [leaves TTS]({{site.baseurl}}/leaving-tts/), an admin will [deactivate](https://support.mural.co/en/articles/2145569-activate-and-deactivate-members) them from [the Members page](https://app.mural.co/t/gsa6/settings/members).

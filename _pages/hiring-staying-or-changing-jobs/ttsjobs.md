@@ -47,9 +47,7 @@ We will share open positions as they are available.
 
 ### Competitive Service (Career) Merit Promotion
 
-- [GOVERNMENT WIDE: Contract Specialist 1102-13](https://www.usajobs.gov/GetJob/ViewDetails/605151700) - open Monday, June 28th until Monday July 12th
-
-- [GSA FAS WIDE: Program Analyst 343-13](https://www.usajobs.gov/GetJob/ViewDetails/602447700#) - open Wednesday, May 26th until Tuesday, July 6th
+- [GOVERNMENT WIDE: Contract Specialist 1102-13](https://www.usajobs.gov/GetJob/ViewDetails/605151700) - open Monday, June 28th until Monday July 16th
 
 ## Opportunities with partners
 

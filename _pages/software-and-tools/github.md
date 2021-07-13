@@ -9,6 +9,8 @@ questions:
 
 GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience. If you're not familiar with how to use GitHub, see the [introduction]({{site.baseurl}}/intro-to-github/).
 
+{% include low-system.html %}
+
 ## Setup
 
 GitHub is a web application, and you may be able to do all of your work within the [github.com](https://github.com) website. Optionally, you may also install [GitHub Desktop](https://desktop.github.com/) through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service).
