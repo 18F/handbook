@@ -71,9 +71,7 @@ required.
 
 By default, any Markdown file created in the `_pages` directory, regardless of its internal nesting, will have a URL at the top-level. For example, if you create some new content at `_pages/awesome-resources/pizza.md`, the URL will look like `https://handbook.tts.gsa.gov/pizza/`.
 
-If you do in fact want the nesting to appear in the URL, you should create a new directory at the top-level of the project (i.e. at the same level as `_pages`). In this example, you would create a new directory `awesome-resources` and place the new `pizza.md` file inside it.
-
-In short: If you want nesting, make a top-level folder; if you don't, put the Markdown file under `_pages/`.
+If you do in fact want the nesting to appear in the URL, use `permalink` frontmatter to specify the URL.
 
 ### Pull requests (PRs)
 
