@@ -83,9 +83,7 @@ If you make a pull request that's best reviewed by a specific person, tag or ass
 
 ### CODEOWNERS
 
-The TTS Handbook uses the GitHub ["code owners" feature](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners) to enforce ownership of
-Handbook content. For certain pages, individuals or teams will be automatically
-added as a reviewer. This means that in most cases, you as a contributor should
+The TTS Handbook uses the GitHub ["code owners" feature](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners) to automatically add content owners as a reviewer. This means that in most cases, you as a contributor should
 not need to manually add anyone for a review.
 
 If you suspect that the wrong team was added as a reviewer, feel free to open a
