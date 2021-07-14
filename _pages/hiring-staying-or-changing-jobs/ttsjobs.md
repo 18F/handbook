@@ -47,7 +47,7 @@ We will share open positions as they are available.
 
 ### Competitive Service (Career) Merit Promotion
 
-- [GOVERNMENT WIDE: Contract Specialist 1102-13](https://www.usajobs.gov/GetJob/ViewDetails/605151700) - open Monday, June 28th until Monday July 16th
+- [GOVERNMENT WIDE: Contract Specialist 1102-13](https://www.usajobs.gov/GetJob/ViewDetails/605151700) - open Monday, June 28th until Friday, July 16th
 
 ## Opportunities with partners
 
