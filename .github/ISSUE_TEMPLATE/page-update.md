@@ -1,7 +1,6 @@
 ---
 name: Page update
 about: For general updates to existing Handbook pages
-title: "X page: [Outdated/inaccurate/typos/confusing]"
 labels: page update
 assignees: ""
 ---

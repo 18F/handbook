@@ -13,13 +13,99 @@ publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 
 collections:
-    - name: "pages"
-      label: "Pages"
-      label_singular: "Page"
-      description: "Basic Handbook page"
-      folder: "_pages/netlifycms"
+    - name: "about-us"
+      label: "About us"
+      label_singular: "About page"
+      folder: "_pages/about-us"
       create: true
-      slug: "{{slug}}"
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "getting-started"
+      label: "Getting started"
+      folder: "_pages/getting-started"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "classes"
+      label: "Classes"
+      folder: "_pages/getting-started/classes"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "hiring-staying-or-changing-jobs"
+      label: "Hiring, staying, or changing jobs"
+      label_singular: "Hiring page"
+      folder: "_pages/hiring-staying-or-changing-jobs"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "launching-software"
+      label: "Launching software"
+      label_singular: "Launching software page"
+      folder: "launching-software/"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "locations"
+      label: "Locations"
+      label_singular: "Location page"
+      folder: "_pages/general-information-and-resources/locations"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "outreach"
+      label: "Outreach"
+      label_singular: "Outreach page"
+      folder: "_pages/tts-offices/operations/outreach"
+      create: true 
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "software-and-tools"
+      label: "Software and tools"
+      label_singular: "Software page"
+      folder: "_pages/software-and-tools"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "solutions"
+      label: "Solutions"
+      label_singular: "Solutions page"
+      folder: "_pages/tts-offices/solutions"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "training-and-development"
+      label: "Training and development"
+      label_singular: "Training page"
+      folder: "_pages/training-and-development"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "travel-and-leave-policies"
+      label: "Travel and leave policies"
+      label_singular: "Travel policy"
+      folder: "_pages/travel-leave/travel-and-leave-policies"
+      create: true
       fields: 
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}

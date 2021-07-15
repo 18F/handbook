@@ -9,6 +9,8 @@ questions:
 
 GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience. If you're not familiar with how to use GitHub, see the [introduction]({{site.baseurl}}/intro-to-github/).
 
+{% include low-system.html %}
+
 ## Setup
 
 GitHub is a web application, and you may be able to do all of your work within the [github.com](https://github.com) website. Optionally, you may also install [GitHub Desktop](https://desktop.github.com/) through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service).
@@ -80,7 +82,7 @@ Here's our current process to address both operational and security concerns:
 1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
 1. Ask the collaborator(s) to go through [the first three setup steps](#setup).
    - They will need to confirm they've done this before you continue.
-   - They will also need to add an e-mail address to the GitHub profile so we can contact them later when doing clean-up in our org.
+   - They will also need to add an email address to the GitHub profile so we can contact them later when doing clean-up in our org.
    - Do not ask the admins to add the collaborator to the 18F or OPP teams as detailed in step 4.
 1. (Ask #admins-github to) [create a team](https://help.github.com/articles/setting-up-teams/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`. You only need to set a `parent team` for your new team if you need your team to inherit existing permissions from an existing team (for example, if this team should automatically have access to a base set of repos). If your new team is for external collaborators, you will generally not want to add a parent team.
 1. In the "Description" of the team, put something reasonable plus a point-of-contact email address for the collaborators.
