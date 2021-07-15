@@ -14,9 +14,6 @@ This page overviews the administrative tasks done to manage our Slack account at
 
 The Talent team will fill out a [user request ticket](https://gsa.servicenowservices.com/sp?id=sc_category&sys_id=f9874e76db5003400dc9ff621f96190d&catalog_id=e0d08b13c3330100c8b837659bba8fb4) for people when they join TTS.
 
-
-
-
 ## Offboarding
 
 Slack users need to be offboarded in the following situations:
