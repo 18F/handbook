@@ -12,7 +12,10 @@ This page overviews the administrative tasks done to manage our Slack account at
 
 ## Adding TTS staff
 
-The Talent team will fill out the [user request form](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link) for people when they join TTS.
+The Talent team will fill out a [user request ticket](https://gsa.servicenowservices.com/sp?id=sc_category&sys_id=f9874e76db5003400dc9ff621f96190d&catalog_id=e0d08b13c3330100c8b837659bba8fb4) for people when they join TTS.
+
+
+
 
 ## Offboarding
 
@@ -22,7 +25,7 @@ Slack users need to be offboarded in the following situations:
 - A partner who's employment/engagement is ending
 - A contractor who is no longer supporting TTS
 
-In all of these cases, [#people-ops](https://gsa-tts.slack.com/messages/people-ops/) / the engagement manager / the COR should **fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform)**.
+In all of these cases, [#people-ops](https://gsa-tts.slack.com/messages/people-ops/) / the engagement manager / the COR should **fill out [a user modification ticket](https://gsa.servicenowservices.com/sp?id=sc_category&sys_id=f9874e76db5003400dc9ff621f96190d&catalog_id=e0d08b13c3330100c8b837659bba8fb4)**.
 
 An admin will then do one of the following:
 
@@ -45,10 +48,7 @@ If they were a partner, the admin will also set their `Downgraded/disabled on` d
 Here are the resources used by Slack Admins to track and manage Slack accounts:
 
 - [GSA IT's Slack administration guide](https://docs.google.com/document/d/1ncHqriv2CnsZQ7brrZ3mlLCK_i-XuvW-kRpXb0fP0t4/edit)
-- Subscribe to responses for the following forms ([screen capture](https://cl.ly/03100Y0u2v2i))
-  - [New user requests (internal)](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link)
-  - [New public user requests (external)](https://docs.google.com/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform?usp=sf_link)
-  - [Integration requests](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit#responses)
+- [GSA IT's Slack ServiceNow tickets](https://gsa.servicenowservices.com/sp?id=sc_category&sys_id=f9874e76db5003400dc9ff621f96190d&catalog_id=e0d08b13c3330100c8b837659bba8fb4)
 - [Delegation of functionality](https://docs.google.com/a/gsa.gov/document/d/1gDuScce7R6q6NqQPPS3cFe3dZFYO_ZEp60dmuzVDYwg/edit?usp=sharing)
 - Requests for approved emoji are fulfilled from [#approved-emoji](https://gsa-tts.slack.com/archives/C024G4VLWGM)
 
