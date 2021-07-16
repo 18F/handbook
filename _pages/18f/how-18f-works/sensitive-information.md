@@ -55,7 +55,7 @@ _first_. Please don't include the potentially sensitive information in Slack.
 
 If you inadvertently come into the possession of classified information (Secret,
 Top Secret, etc.), you should immediately follow our [security incident
-process]({% link _pages/general-information-and-resources/policies/security-incidents.md %}).
+process]({{site.baseurl}}/security-incidents/).
 
 ## What to do if you find or expose sensitive information
 
