@@ -38,6 +38,15 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "general-information-and-resources"
+      label: "General information and resources"
+      label_singular: "General information page"
+      folder: "_pages/general-information-and-resources"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
     - name: "hiring-staying-or-changing-jobs"
       label: "Hiring, staying, or changing jobs"
       label_singular: "Hiring page"
@@ -56,19 +65,10 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
-    - name: "locations"
-      label: "Locations"
-      label_singular: "Location page"
-      folder: "_pages/general-information-and-resources/locations"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "outreach"
-      label: "Outreach"
-      label_singular: "Outreach page"
-      folder: "_pages/tts-offices/operations/outreach"
+   - name: "operations"
+      label: "Operations"
+      label_singular: "Operations page"
+      folder: "_pages/operations"
       create: true 
       fields: 
         - {label: "Title", name: "title", widget: "string"}
@@ -86,7 +86,7 @@ collections:
     - name: "solutions"
       label: "Solutions"
       label_singular: "Solutions page"
-      folder: "_pages/tts-offices/solutions"
+      folder: "_pages/solutions"
       create: true
       fields: 
         - {label: "Title", name: "title", widget: "string"}
