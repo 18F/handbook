@@ -22,6 +22,16 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "acquisition"
+      label: "Acquisition"
+      label_singular: "Acquisition page"
+      folder: "_pages/acquisition"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+ 
     - name: "getting-started"
       label: "Getting started"
       folder: "_pages/getting-started"
