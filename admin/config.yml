@@ -36,6 +36,7 @@ collections:
     - name: "performance-management"
       label: "Performance management"
       label_singular: "Performance management page"
+      nested: { depth: 4 }
       folder: "performance-management/"
       create: true
       fields: 
@@ -45,6 +46,7 @@ collections:
     - name: "tools"
       label: "Tools"
       label_singular: "Tools page"
+      nested: { depth: 4 }
       folder: "tools/"
       create: true
       fields: 
