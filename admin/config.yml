@@ -75,7 +75,7 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
-   - name: "operations"
+    - name: "operations"
       label: "Operations"
       label_singular: "Operations page"
       folder: "_pages/operations"
