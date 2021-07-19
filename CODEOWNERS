@@ -26,7 +26,7 @@ CODEOWNERS                                        @18F/tts-tech-portfolio @dylan
 
 ## Office of Operations
 #_pages/tts-offices/operations/*                  @18F/operations-handbook-reviewers
-_pages/tts-offices/operations/outreach/*          @18F/outreach
+_pages/operations/outreach/*          @18F/outreach
 
 ## Solutions
 #_pages/tts-offices/solutions/*                   @18F/solutions-handbook-reviewers
