@@ -16,7 +16,7 @@ collections:
     - name: "_pages"
       label: "Pages"
       label_singular: "page"
-      nested: { depth: 3 }
+      nested: { depth: 4 }
       folder: "_pages/"
       create: true
       meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
