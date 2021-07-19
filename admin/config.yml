@@ -13,55 +13,13 @@ publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 
 collections:
-    - name: "about-us"
-      label: "About us"
-      label_singular: "About page"
-      folder: "_pages/about-us"
+    - name: "_pages"
+      label: "Pages"
+      label_singular: "page"
+      nested: { depth: 3 }
+      folder: "_pages/"
       create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "acquisition"
-      label: "Acquisition"
-      label_singular: "Acquisition page"
-      folder: "_pages/acquisition"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
- 
-    - name: "getting-started"
-      label: "Getting started"
-      folder: "_pages/getting-started"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "classes"
-      label: "Classes"
-      folder: "_pages/getting-started/classes"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "general-information-and-resources"
-      label: "General information and resources"
-      label_singular: "General information page"
-      folder: "_pages/general-information-and-resources"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "hiring-staying-or-changing-jobs"
-      label: "Hiring, staying, or changing jobs"
-      label_singular: "Hiring page"
-      folder: "_pages/hiring-staying-or-changing-jobs"
-      create: true
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
       fields: 
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
@@ -75,46 +33,19 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
-    - name: "operations"
-      label: "Operations"
-      label_singular: "Operations page"
-      folder: "_pages/operations"
-      create: true 
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "software-and-tools"
-      label: "Software and tools"
-      label_singular: "Software page"
-      folder: "_pages/software-and-tools"
+    - name: "performance-management"
+      label: "Performance management"
+      label_singular: "Performance management page"
+      folder: "performance-management/"
       create: true
       fields: 
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
-    - name: "solutions"
-      label: "Solutions"
-      label_singular: "Solutions page"
-      folder: "_pages/solutions"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "training-and-development"
-      label: "Training and development"
-      label_singular: "Training page"
-      folder: "_pages/training-and-development"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "travel-and-leave-policies"
-      label: "Travel and leave policies"
-      label_singular: "Travel policy"
-      folder: "_pages/travel-leave/travel-and-leave-policies"
+    - name: "tools"
+      label: "Tools"
+      label_singular: "Tools page"
+      folder: "tools/"
       create: true
       fields: 
         - {label: "Title", name: "title", widget: "string"}
