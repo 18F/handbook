@@ -26,7 +26,7 @@ CODEOWNERS                                        @18F/tts-tech-portfolio @dylan
 
 ## Office of Operations
 #_pages/tts-offices/operations/*                  @18F/operations-handbook-reviewers
-_pages/operations/outreach/*          @18F/outreach
+_pages/operations/outreach/*                      @18F/outreach
 
 ## Solutions
 #_pages/tts-offices/solutions/*                   @18F/solutions-handbook-reviewers
@@ -43,7 +43,7 @@ _pages/about-us/diversity.md                      @AileenMcGraw-PIF
 #performance-management/*                         @18F/people-ops-handbook-reviewers
 #_pages/getting-started/*                         @18F/people-ops-handbook-reviewers
 #_pages/travel-leave/*                            @18F/people-ops-handbook-reviewers
-_pages/hiring-staying-or-changing-jobs/*         @18F/team-talent
+_pages/hiring-staying-or-changing-jobs/*          @18F/team-talent
 #_pages/training-and-development/*                @18F/people-ops-handbook-reviewers
 
 ##################################################
