@@ -48,7 +48,7 @@ The home of the U.S. government’s open data, [Data.gov](https://www.data.gov/)
 
 ## 2010 - 2015: Hitting 40 and Looking Beyond the Web
 
-At the turn of the decade, our efforts began expanding beyond web content and information dissemination.
+At the turn of the decade, our efforts began expanding beyond web content and information dissemination. In mid-2010, the GSA Office of Citizen Services and Communications was split into two separate offices: the Office of Citizen Services and Innovative Technologies (OCSIT, aka us) and the Office of Communications and Marketing.
 
 [Challenge.gov](https://www.challenge.gov/), the official site for federal prize and challenge competitions, launched in 2010. The same year, [Search.gov](https://search.gov/) expanded from powering the USA.gov search box to being offered as a government-wide shared service.
 
@@ -64,7 +64,7 @@ And, we kept pace with the rise of smartphones: the [Mobile Testing Program](htt
 
 ### 2016: TTS is born
 
-In 2016, [18F]({{site.baseurl}}/18f-history-and-values/), [PIF](https://presidentialinnovationfellows.gov/), and the Office of Citizen Services and Innovative Technologies (OCSIT, aka us) [came together](https://www.fedscoop.com/gsa-launches-technology-service-line/) under the newly-formed Technology Transformation Service (TTS) office. Following this merge, we were renamed to the Office of Products and Programs (OPP). Ever since we became an office within TTS, we have played an essential role in helping it modernize and digitize the federal government.
+In 2016, [18F]({{site.baseurl}}/18f-history-and-values/), [PIF](https://presidentialinnovationfellows.gov/), and OCSIT [came together](https://www.fedscoop.com/gsa-launches-technology-service-line/) under the newly-formed Technology Transformation Service (TTS) office. Following this merge, we were renamed to the Office of Products and Programs (OPP). Ever since we became an office within TTS, we have played an essential role in helping it modernize and digitize the federal government.
 
 ### 2016 - 2019: Ramping up our portfolio
 
