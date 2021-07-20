@@ -5,6 +5,7 @@ redirect_from:
 questions:
   - solutions
 ---
+
 A brief history of TTS Solutions is hard to write: our work spans six decades and ten administrations! The GSA Office of Citizen Services and Communications was split into two separate offices in mid-2010: the Office of Citizen Services and Innovative Technologies and the Office of Communications and Marketing. Moreover, we haven't always been Solutions: pre-2016, we were known as the Office of Citizen Services and Innovative Technologies (OCSIT), and from 2016-2019 we were known as the Office of Products and Programs (OPP).
 
 What was established in 1970 as a place to coordinate and deliver information to consumers has evolved tremendously. Our audience has expanded to include every federal agency, government employees at all levels, the private sector, and people all over the world.
@@ -23,17 +24,17 @@ But the roots of our work reach even further back. GSA was already the administr
 
 The centers were first established in 1966, were [formalized in 1978](https://www.gpo.gov/fdsys/pkg/STATUTE-92/pdf/STATUTE-92-Pg1641.pdf), and were merged with our office in 2000. They gradually moved from providing in-person service locally to [answering questions by telephone](https://www.usa.gov/phone) nationally—a bilingual service which still exists today as the USAGov Contact Center at 1-844-USA-GOV1 and via [chat](https://www.usa.gov/chat).
 
-Another primary vehicle to connect the public and government was the *Consumer Information Catalog*. It listed more than 200 popular publications from across the federal government on diverse topics that are still relevant today: saving for college and retirement, avoiding fraud, staying healthy, and learning about federal laws and regulations that affect daily lives.
+Another primary vehicle to connect the public and government was the _Consumer Information Catalog_. It listed more than 200 popular publications from across the federal government on diverse topics that are still relevant today: saving for college and retirement, avoiding fraud, staying healthy, and learning about federal laws and regulations that affect daily lives.
 
-The *Catalog* was crucial: imagine getting quality government information on those topics in the pre-Internet age! We published the first edition of the *Catalog* in 1971, and the [final edition](https://drive.google.com/file/d/0B812FdtUF1KxbXVLakIzeHlYUVk/view) in 2016. In 45 years, we filled more than 76 million orders and distributed more than 1.2 billion publications.
+The _Catalog_ was crucial: imagine getting quality government information on those topics in the pre-Internet age! We published the first edition of the _Catalog_ in 1971, and the [final edition](https://drive.google.com/file/d/0B812FdtUF1KxbXVLakIzeHlYUVk/view) in 2016. In 45 years, we filled more than 76 million orders and distributed more than 1.2 billion publications.
 
 ## 1990s - 2000: Entering the Digital Age
 
-The *Catalog* was our first foray into the online world: in 1992, we created an electronic bulletin board system to allow anyone with a modem to dial up and download the publications listed in the *Catalog*.
+The _Catalog_ was our first foray into the online world: in 1992, we created an electronic bulletin board system to allow anyone with a modem to dial up and download the publications listed in the _Catalog_.
 
-We launched our first website in 1994, also based on the *Catalog*: [Pueblo.gsa.gov](https://web.archive.org/web/19970214004105/http://www.pueblo.gsa.gov/) (which later became Publications.USA.gov). It was one of the first consumer information websites and received more than one million visits during its first year.
+We launched our first website in 1994, also based on the _Catalog_: [Pueblo.gsa.gov](https://web.archive.org/web/19970214004105/http://www.pueblo.gsa.gov/) (which later became Publications.USA.gov). It was one of the first consumer information websites and received more than one million visits during its first year.
 
-In 1997, the White House gave us responsibility for one of the most helpful and popular federal publications: the *Consumer’s Resource Handbook*. Released biannually since 1979, it was renamed the [Consumer Action Handbook](https://web.archive.org/web/20190810233837/https://app_usa_prod_eqffnyamdzrb.s3.amazonaws.com/Consumer_Action_Handbook_2017.pdf?Rc37jX4tB8.5H.5oHzSSu_LcEYFcjzpC) in 2000 and was later joined by a Spanish version, the [Guía del Consumidor](https://drive.google.com/file/d/0B64-A1A3hX29ZERrV3cxQUhZcEE/view?usp=sharing&resourcekey=0-9P0D8xh9vdnsxBiRU4YO7w). Both publications empowered people to resolve their own consumer complaints.
+In 1997, the White House gave us responsibility for one of the most helpful and popular federal publications: the _Consumer’s Resource Handbook_. Released biannually since 1979, it was renamed the [Consumer Action Handbook](https://web.archive.org/web/20190810233837/https://app_usa_prod_eqffnyamdzrb.s3.amazonaws.com/Consumer_Action_Handbook_2017.pdf?Rc37jX4tB8.5H.5oHzSSu_LcEYFcjzpC) in 2000 and was later joined by a Spanish version, the [Guía del Consumidor](https://drive.google.com/file/d/0B64-A1A3hX29ZERrV3cxQUhZcEE/view?usp=sharing&resourcekey=0-9P0D8xh9vdnsxBiRU4YO7w). Both publications empowered people to resolve their own consumer complaints.
 
 ## 2000 - 2010: Expanding Our Digital Presence
 
@@ -69,22 +70,22 @@ In 2016, [18F]({{site.baseurl}}/18f-history-and-values/), [PIF](https://presiden
 
 Following the expansion of our web presence and digital knowledge, OPP remained hard at work. In the years after, we built, grew, and maintained crucial government-wide products and programs:
 
-* [10x](https://10x.gsa.gov/): provides start-up funding for new technology projects and products across government (2016)
-* [Artificial Intelligence Portfolio](https://digital.gov/communities/artificial-intelligence/): supporting and coordinating the use of artificial intelligence technologies in federal agencies (2019)
-* [CitizenScience.gov](https://www.citizenscience.gov/): a hub for accelerating crowdsourcing and citizen science across the U.S. government (2016)
-* [Code.gov](https://code.gov/): a catalog of government developed code (2016)
-* [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges. The longest running community, the Web Content Managers Forum, dates back to 2000. New communities are created as new technologies and opportunities arise.
-* Identity Program Management Office: supporting and promoting the use of secure identity management practices and tools (2019)
-* [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps (2016)
-* [Vote.gov](https://vote.gov): USAGov’s voter registration and election information website (2016)
+- [10x](https://10x.gsa.gov/): provides start-up funding for new technology projects and products across government (2016)
+- [Artificial Intelligence Portfolio](https://digital.gov/communities/artificial-intelligence/): supporting and coordinating the use of artificial intelligence technologies in federal agencies (2019)
+- [CitizenScience.gov](https://www.citizenscience.gov/): a hub for accelerating crowdsourcing and citizen science across the U.S. government (2016)
+- [Code.gov](https://code.gov/): a catalog of government developed code (2016)
+- [Communities of Practice](https://digital.gov/communities/): where people in government come together to learn, share and collaborate to build solutions to common problems and challenges. The longest running community, the Web Content Managers Forum, dates back to 2000. New communities are created as new technologies and opportunities arise.
+- Identity Program Management Office: supporting and promoting the use of secure identity management practices and tools (2019)
+- [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/): an inventory of official government social media accounts, mobile websites and apps (2016)
+- [Vote.gov](https://vote.gov): USAGov’s voter registration and election information website (2016)
 
 ### 2019: OPP --> Solutions
 
 In 2019, we got a bit bigger. OPP was renamed to Solutions during a [TTS-wide re-organization](https://www.fedscoop.com/gsa-tts-restructuring-anil-cheriyan/). And as part of this change, we became responsible for a number of 18F projects, including:
 
-* [Cloud.gov](https://cloud.gov/): a Platform as a Service built specifically for government work. Created by 18F in 2015.
-* [Federalist](https://federalist.18f.gov/): a publishing platform for modern government websites. Created by 18F in 2015.
-* [Login.gov](https://login.gov/): a shared service that provides secure and private online access to participating government programs. Launched by 18F and the U.S. Digital Service in 2017.
-* [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015.
+- [Cloud.gov](https://cloud.gov/): a Platform as a Service built specifically for government work. Created by 18F in 2015.
+- [Federalist](https://federalist.18f.gov/): a publishing platform for modern government websites. Created by 18F in 2015.
+- [Login.gov](https://login.gov/): a shared service that provides secure and private online access to participating government programs. Launched by 18F and the U.S. Digital Service in 2017.
+- [U.S. Web Design System](https://designsystem.digital.gov/): set of guidelines and code for agencies to create fast, accessible, mobile-friendly websites. Created by 18F and the U.S. Digital Service in 2015.
 
 Over the past 50 years, TTS Solutions has grown, expanded, and renamed all while remaining true to our mission. We’ll continue to evolve as we anticipate and meet future needs. We look forward to the next 50 years of serving the public and our partners!
