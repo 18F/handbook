@@ -43,7 +43,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA WIDE: TTS Talent Acquisition Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 
-- [Strategic Partnerships Market Development Director Detail](https://docs.google.com/document/d/17YrispA5FGyxwKhnp8Sjq4UzYw_5_8Q0aMsLrSDBPP8/edit#) - open Wednesday, July 14 until Wednesday July 21
+- [Strategic Partnerships Market Development Director Detail](https://docs.google.com/document/d/17YrispA5FGyxwKhnp8Sjq4UzYw_5_8Q0aMsLrSDBPP8/edit#) - open Wednesday, July 14 until Wednesday July 28
 
 ## Opportunities with partners
 
