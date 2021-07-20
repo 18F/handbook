@@ -64,11 +64,12 @@ Internal candidates can find opportunities via #tts-jobs in Slack or in the Hand
 
 ## Stay connected to what Talent is working on
 
-There are many ways to stay connected to what Talent is working on including those below: 
+There are many ways to stay connected to what Talent is working on including those below:
+
 - Slack: We share a Weekly Ship message every Monday in #hiring, highlighting some of the things we are focused on for the week as well as Talent-related announcements.
 - Email: We send a Weekly Snapshot email every Tuesday to all of TTS, sharing the open internal, external and upcoming positions that we are hiring for.
 - Office Hours: We host bi-weekly office hours that provide a 1:1 opportunity for people to speak with a Talent team member. You can sign-up here for a [15 minute slot](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5IUExwSFZMRGV6fGRlZmF1bHR8NWMxMmNkNzU4NGRmYjFmOTc1OTgxZDRmZDE4YzU4MDI)
-- Talent Team Show & Tell Presentations: We host an hour-long presentation each quarter showcasing some of the initiatives we have been working on and diving a little more deeply into Talent topics of interest. We generally also have time for Q&A at the end of the presentation. These presentations are recorded. You can access previous recordings below. 
+- Talent Team Show & Tell Presentations: We host an hour-long presentation each quarter showcasing some of the initiatives we have been working on and diving a little more deeply into Talent topics of interest. We generally also have time for Q&A at the end of the presentation. These presentations are recorded. You can access previous recordings below.
 
 ## Talent Team Show & Tell recordings
 
