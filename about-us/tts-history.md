@@ -1,5 +1,7 @@
 ---
 title: TTS mission, history, and values
+redirect_from:
+  - /tts-history/
 ---
 
 **Mission:** Design and deliver a digital government with and for the American public.
