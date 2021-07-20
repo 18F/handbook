@@ -175,9 +175,9 @@ The following have been used / are available for use in TTS:
 
 - Google Drawings
 - [Mermaid](http://mermaid-js.github.io/mermaid/)
-- [OmniGraffle](https://handbook.tts.gsa.gov/design/#drawing-lines-on-a-screen)
+- [OmniGraffle]({{site.baseurl}}/design/#drawing-lines-on-a-screen)
 - [PlantUML](https://plantuml.com/)
-- [Visio](https://handbook.tts.gsa.gov/design/#drawing-lines-on-a-screen)
+- [Visio]({{site.baseurl}}/design/#drawing-lines-on-a-screen)
 
 ## FedRAMP packages
 

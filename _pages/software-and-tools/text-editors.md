@@ -14,7 +14,7 @@ We use text editors to write documentation in [Markdown](https://github.com/adam
   by default. Also available on OS X via [Homebrew](https://brew.sh/)
 - [Atom](https://atom.io/)
 - [Visual Studio Code](https://code.visualstudio.com/): VS Code is very extensible with lots plugins. One great plugin for pairing is [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare), which supports live editing of the same file, sharing a terminal session, port forwarding to the host's computer, and even audio.
-- [Sublime Text](https://www.sublimetext.com/): This is a paid app, but we have [licenses]({{site.baseurl}}/software/#get-access-to-software-we-already-have). If you use Sublime, you may wish to customize your packages. Feel free to ask others about their recommended packages. Notable mentions in past Slack discussions include:
+- [Sublime Text](https://www.sublimetext.com/): [Request a license.](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b) If you use Sublime, you may wish to customize your packages. Feel free to ask others about their recommended packages. Notable mentions in past Slack discussions include:
   - Color Highlighter (turns color codes into the actual color)
   - DocBlockr (generates clean comment blocks based on active language)
   - Emmet (simplify writing HTML - expands CSS selectors into HTML)
