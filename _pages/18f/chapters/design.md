@@ -102,7 +102,7 @@ Unless otherwise specified, **see [Software](../software/#get-access-to-software
 - **Figma** Talk with your supervisor to request a license
 - [**Sketch**]({{site.baseurl}}/sketch/)
 - [**InVision**]({{site.baseurl}}/invision/)
-- **OmniGraffle:** The wait is variable — it depends on whether our batch purchasing has caught up to our hiring.
+- **OmniGraffle:** [Request a license](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
 - [**Adobe Creative Cloud**]({{site.baseurl}}/adobe/)
 - [**Microsoft Visio**](https://products.office.com/en-us/visio/flowchart-software) - Visio isn't available for Mac, but you can [request it get added to your Citrix VDI instance]({{site.baseurl}}/virtual-desktop/#software).
 
