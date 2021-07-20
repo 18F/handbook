@@ -1,5 +1,6 @@
 ---
 title: TTS Travel 101
+travel: true
 ---
 
 ### Initial setup for travel
