@@ -144,7 +144,7 @@ Remember, you're asking for a substantial commitment of organizational resources
         </td>
         <td>
           Davida Marion - 18F<br>
-          Kenny Daniel - SOL
+          Eleni Chappen - 18F
         </td>
       </tr>
       <tr>
