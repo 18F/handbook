@@ -14,6 +14,20 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
 
 
+      - name: Replace absolute links to Handbook
+        uses: jacobtomlinson/gha-find-replace@0.1.4
+        with:
+          find: "\\]\\(https://handbook\\.tts\\.gsa\\.gov"
+          replace: "]({{site.baseurl}}"
+          include: "\\.md"
+          exclude: "\\.git/|(README|CONTRIBUTING)\\.md"
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: Replace absolute links to Handbook
+          push: false
+
       - uses: actions/setup-node@v1
         with:
           node-version: 12
@@ -29,9 +43,10 @@ jobs:
       - name: Check that all the code is formatted.
         run: git diff --exit-code --cached
 
-      - uses: EndBug/add-and-commit@v7
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
         with:
-          message: Format code
+          message: Format files
 
       - name: Display status should be clean
         if: success()
