@@ -29,16 +29,9 @@ jobs:
       - name: Check that all the code is formatted.
         run: git diff --exit-code --cached
 
-      - name: Push if it is not
-        if: failure()
-        run: |
-          git config user.name "Github Runner"
-          git config user.email "runner@runner.github.com"
-          git commit -m "Format code"
-          git status
-          git push origin HEAD:$GITHUB_HEAD_REF
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: EndBug/add-and-commit@v7
+        with:
+          message: Format code
 
       - name: Display status should be clean
         if: success()
