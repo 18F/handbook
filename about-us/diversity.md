@@ -2,6 +2,7 @@
 title: Diversity, Equity, and Inclusion at TTS
 redirect_from:
   - /intro-to-the-diversity-guild/
+  - /diversity/
 ---
 
 A diverse organization creates a spectrum of solutions and ideas, and helps us challenge status quo thinking. Inside TTS, the work of diversity, equity, and inclusion (DEI or DE&I) is a collective effort: every employee makes a difference.

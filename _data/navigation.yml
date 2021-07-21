@@ -5,13 +5,13 @@ primary:
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
     children:
       - text: Mission, history, and values
-        url: tts-history/
+        url: about-us/tts-history/
         internal: true
       - text: Diversity, equity & inclusion
-        url: diversity/
+        url: about-us/diversity/
         internal: true
       - text: Code of Conduct
-        url: code-of-conduct/
+        url: about-us/code-of-conduct/
         internal: true
       - text: Org chart
         url: https://docs.google.com/presentation/d/1otRbhoGRN4LfDnWpN6zZ0ymjPpTBW3t79pIiuBREkCY/edit
@@ -23,7 +23,7 @@ primary:
         url: https://docs.google.com/document/d/1CJX97zBukyJcZxS1KIw1hUdMzvor8RX5HhKIZSOn-Ho/edit
         internal: false
       - text: Digital Council
-        url: digital-council/
+        url: about-us/digital-council/
         internal: true
   - text: Getting started
     href: /#getting-started
