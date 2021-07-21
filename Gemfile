@@ -6,9 +6,11 @@ gem 'jekyll'
 gem 'json'
 gem 'hash-joiner'
 gem 'uswds-jekyll'
-gem 'jekyll-redirect-from'
-gem 'jekyll-sitemap'
-
+group :jekyll_plugins do
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-sitemap'
+  gem "jekyll-last-modified-at"
+end
 group :development do
   gem 'html-proofer', '>= 3.19.0'
   gem 'rerun'
