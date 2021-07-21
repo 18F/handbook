@@ -32,10 +32,10 @@ The BD lead will schedule a meeting with the potential partner agency, the
 business development reps from the chapters, an account manager, and appropriate
 portfolio directors. This meeting is about making sure 18F understands the
 agency's needs, that our offerings fit their needs, that we have the right
-expertise to help them, and that the project fits with what we value. After this
+expertise to help them in the right timeframe, and that the project fits with what we value. After this
 meeting, if everyone on the 18F team agrees that we should move forward, the
 Dashboard is updated again to move the opportunity into the **Qualified** stage,
-meaning that we believe it's a good project that we should try to take on.
+meaning that we believe it's a project that we should try to take on.
 
 Once an opportunity is qualified, the account manager writes up a short proposal
 to get aligned on the partner need, desired outcomes, and general shape of the
@@ -56,7 +56,7 @@ need to be staffed.
 
 In addition to updating the Dashboard, the account manager may also create a
 preliminary [staffing issue](https://github.com/18F/staffing/issues) at this
-point. It will tagged with **Needs IAA** so staffing leads know it can't be
+point. It will be tagged with **Needs IAA** so staffing leads know it can't be
 staffed yet, but it can give them a heads-up that a need may be coming and help
 them with other staffing decisions.
 
@@ -74,7 +74,7 @@ created and tagged with **Staffing Request**.
 The chapter staffing leads now look at the staffing issue to understand the more
 specific project needs and scope. They then consider the particular skills and
 availability of the people in their chapters to decide who will be able to work
-on the project and when it can start. Collectively, they staff the projet and
+on the project and when it can start. Collectively, they staff the project and
 set a tentative start date.
 
 Once the project team is all together and ready to start, the project is
