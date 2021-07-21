@@ -8,6 +8,7 @@ gem 'hash-joiner'
 gem 'uswds-jekyll'
 gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
+gem "jekyll-last-modified-at"
 
 group :development do
   gem 'html-proofer', '>= 3.19.0'
