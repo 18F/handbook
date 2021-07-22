@@ -172,7 +172,7 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 - Truly low-impact: Mural shouldn't be used to store anything confidential or authoritative. Instead, use it for ephemeral organization of information and production visualizations. Non-GSA participants are invited to use the service anonymously.
 </details>
 
-- **IF** all the participants are on a Google Meet (or at least have Google/[GACA](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/gsa-affiliated-customer-account-gaca) accounts), **THEN** try [Google Jamboard](https://jamboard.google.com/): it's well-integrated and provides a simplified, touch-friendly interface.
+- **IF** all the participants are on a Google Meet (or at least have Google/[GACA](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/gsa-affiliated-customer-account-gaca) accounts), **THEN** try [Google Jamboard](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/jamboard-digital-whiteboard).
 
 ### Feedback Collection
 
