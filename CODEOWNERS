@@ -3,7 +3,7 @@
 # future.
 # TODO how should GitHub teams be created for ownership?
 
-# Any changes to ownership should be approved by the Tech Portfolio.
+# Any changes to ownership should be approved by the Handbook owners.
 CODEOWNERS                                        @18F/handbook-owners
 
 # Every pull request to the Handbook should be seen by a member of the Tech
