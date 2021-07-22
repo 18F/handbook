@@ -18,4 +18,4 @@ membership or a token for publishing.
 
 ## For admins
 
-Log into the 18f-devops account. Remove the user from the group.
+Login with your npm account and remove the user from the [18f organization](https://www.npmjs.com/settings/18f/members).
