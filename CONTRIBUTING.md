@@ -39,7 +39,7 @@ It is optional, and can contain one or more Slack channel name, email address, a
 
 ## Last-modified-at
 
-At the footer of every page, you will see a "Last updated: [DATE]." This date is
+At the top of every page, you will see a "Last modified on [DATE]." This date is
 supposed to indicate when a page last underwent _significant_ changes that
 render it up-to-date. By itself, though, the feature is
 automated and thus naive: it simply looks at the last time the corresponding file was touched -- be that a typo fix, moving around content, or even changing the file name.
