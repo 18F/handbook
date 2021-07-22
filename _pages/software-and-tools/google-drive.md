@@ -46,7 +46,7 @@ Google forms handle a variety of use cases like account requests, sign ups, cont
 - Limit your form to 5-10 fields or 2-3 sections when possible to keep user burden low.
 - Reassure users your form is work-related by [using the organization's color scheme and logo](https://docs.google.com/forms/d/1xjiJCyJNFzWTieg8yUamntPeznADyfn8ZgIwHnM8PBg/viewform?edit_requested=true).
 - You can [limit your form to users with a .gov or .mil email address](https://docs.google.com/forms/d/e/1FAIpQLSePimoF0RkiCP62BSIL_yj0yMXEUePNJ9AabPJqq1Xzbp_GVg/viewform); see how in [these text validation instructions](https://support.google.com/docs/answer/3378864?hl=en).
-- There's a lot you can do with [Google Form's native capabilities](https://support.google.com/a/users/answer/9302965?hl=en) so try to avoid adding backend logic. If you need more, then [request permission here](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdOCtxCaSKJC87CedZW1FKGspMvnRzyOauMvKIOfrSV7PBdag/viewform) to use [Google scripts](https://developers.google.com/apps-script/).
+- There's a lot you can do with [Google Form's native capabilities](https://support.google.com/a/users/answer/9302965?hl=en) so try to avoid adding backend logic. If you need more, then use [Google Apps Script](#google-apps-script).
 - Create a form response spreadsheet before publishing your form, to ensure your data is in the format you need.
 - If you want users to select one response to your form question, format your question as a drop down rather than multiple choice, and your data will already be categorized for you in the response spreadsheet.
 - Avoid asking users for data you can otherwise match or derive from an existing field(s).
@@ -61,3 +61,11 @@ If you're using a non-Google service and it requests access to your GSA Google D
 ## Local editing
 
 [Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en) can be used for local editing of files on Drive, though offline editing is not yet supported for Macs at GSA. [InSite page.](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-drive-and-shared-drive?term=drive%20file%20stream#Drive%20File%20Stream)
+
+## API keys
+
+To access GSA's [Google Workspace APIs](https://developers.google.com/workspace), submit a [Generic Request in ServiceNow](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=7a09e6672b523000a6e7a73319da1554) explaining what you're trying to do. Since GSA Google Workspace is [categorized]({{site.baseurl}}/launching-software/lifecycle/#system-categorization) as a Moderate system, they may not allow access from a Low system.
+
+## Google Apps Script
+
+See [information on InSite](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-workspace/google-app-scripts).

@@ -47,7 +47,7 @@ This brings us to Rule #3: You cannot spend a single penny, or create the expect
 
 There are some things that you might have been used to doing outside of government that you cannot do now.
 
-You cannot use or deploy to whatever third party tool you want without [asking the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions) or by submitting a [Google App Script Approval Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdOCtxCaSKJC87CedZW1FKGspMvnRzyOauMvKIOfrSV7PBdag/viewform) .
+You cannot use or deploy to whatever third party tool you want without [asking the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions) or by submitting a [Google Apps Script]({{site.baseurl}}/google-drive/#google-apps-script) .
 
 If you're an engineer of any kind, the most important part of your job in the government at the moment is **security.** If you're building anything, a good place to start is [18F's security standards](https://pages.18f.gov/before-you-ship/security/).
 
