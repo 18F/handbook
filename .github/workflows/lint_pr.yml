@@ -16,7 +16,7 @@ jobs:
       - name: Replace absolute links to Handbook
         uses: jacobtomlinson/gha-find-replace@0.1.4
         with:
-          find: "\\]\\(https://handbook\\.tts\\.gsa\\.gov"
+          find: "\\]\\(https?://handbook\\.tts\\.gsa\\.gov"
           replace: "]({{site.baseurl}}"
           include: "\\.md"
           exclude: "\\.git/|(README|CONTRIBUTING)\\.md"
