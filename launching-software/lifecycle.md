@@ -28,9 +28,7 @@ As soon as you begin developing an [alpha](https://18f.gsa.gov/dashboard/stages/
 
 #### Step 1
 
-[General info](https://atos.open-control.org/steps/#step-1-categorize-information-system)
-
-Work with your Infrastructure Lead to categorize your system's impact levels, using the [ATO Levels](https://atos.open-control.org/categorization/) guide. GSA provides a "lightweight" ATO process designed for pilot systems running on GSA authorized infrastructure, for which fewer controls are in scope.
+Work with your Infrastructure Lead to [categorize](#system-categorization) your system's impact levels, using the [ATO Levels](https://atos.open-control.org/categorization/) guide. GSA provides a "lightweight" ATO process designed for pilot systems running on GSA authorized infrastructure, for which fewer controls are in scope.
 
 #### Step 2
 
@@ -112,6 +110,8 @@ There are several different methods in obtaining a GSA Authorization as describe
 In most cases, the types of ATO that will be pursued for TTS custom software systems are the _GSA Lightweight ATO (LATO)_. The GSA LATO process is described in a guide on [Insite](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/it-security-procedural-guides) (search for "Lightweight Security Authorization Guide" on that page). Systems that are under development must fulfill the requirements for [pre-assessment for internal government use](#conditions-for-pre-assessment).
 
 ## System categorization
+
+[General info](https://atos.open-control.org/steps/#step-1-categorize-information-system)
 
 The GSA LATO is designed for **Low** and **Moderate** _impact_ [level](https://atos.open-control.org/categorization/) systems built using agile methods that run on top of cloud infrastructure which has already received an ATO (such as AWS, Azure, and [cloud.gov](https://cloud.gov)).
 

@@ -61,3 +61,11 @@ If you're using a non-Google service and it requests access to your GSA Google D
 ## Local editing
 
 [Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en) can be used for local editing of files on Drive, though offline editing is not yet supported for Macs at GSA. [InSite page.](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-drive-and-shared-drive?term=drive%20file%20stream#Drive%20File%20Stream)
+
+## API keys
+
+To access GSA's [Google Workspace APIs](https://developers.google.com/workspace), submit a [Generic Request in ServiceNow](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=7a09e6672b523000a6e7a73319da1554) explaining what you're trying to do. Since GSA Google Workspace is [categorized]({{site.baseurl}}/launching-software/lifecycle/#system-categorization) as a Moderate system, they may not allow access from a Low system.
+
+## Google Apps Script
+
+To use [Apps Script](https://developers.google.com/apps-script), follow the instructions in the [Approval Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdOCtxCaSKJC87CedZW1FKGspMvnRzyOauMvKIOfrSV7PBdag/viewform).
