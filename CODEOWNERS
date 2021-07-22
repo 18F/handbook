@@ -3,33 +3,35 @@
 # future.
 # TODO how should GitHub teams be created for ownership?
 
-# Any changes to ownership should be approved by the Tech Portfolio.
-CODEOWNERS                                        @18F/tts-tech-portfolio @dylanirlbeck
+# Any changes to ownership should be approved by the Handbook owners.
+CODEOWNERS                                        @18F/handbook-owners
 
 # Every pull request to the Handbook should be seen by a member of the Tech
 # Portfolio. If it is a small change, then an approval from Tech Portfolio is
 # sufficient for merging. If the change is more structural, then an approval is
 # _required_ from the owning team, if applicable.
-*                                                 @18F/tts-tech-portfolio @dylanirlbeck
+*                                                 @18F/handbook-owners
 
 ##################################################
 # TTS Offices
 ##################################################
 ## 18F
-#_pages/tts-offices/18f/*                         @18F/18F-handbook-reviewers
+#_pages/18f/*                                     @18F/team-18f
 
 ## Centers of Excellence (CoE)
-#_pages/tts-offices/coe/*                         @18F/coe-handbook-reviewers
+#_pages/centers-of-excellence/*                   @18F/team-coe
 
 ## Office of Acquisition
-#_pages/business-units/oa/*                       @18F/oa-handbook-reviewers
+#_pages/acquisition/*                             @18F/team-acquisition
 
 ## Office of Operations
-#_pages/tts-offices/operations/*                  @18F/operations-handbook-reviewers
-_pages/operations/outreach/*                      @18F/outreach
+_pages/operations/outreach.md                     @18F/outreach
+_pages/operations/blogging.md                     @18F/outreach
+
+_pages/operations/talent.md                       @18F/team-talent
 
 ## Solutions
-#_pages/tts-offices/solutions/*                   @18F/solutions-handbook-reviewers
+#_pages/solutions/*                               @18F/solutions-handbook-reviewers
 
 ##################################################
 # Guilds, working groups, and councils
@@ -40,17 +42,17 @@ _pages/about-us/diversity.md                      @AileenMcGraw-PIF
 ##################################################
 # People Ops
 ##################################################
-#performance-management/*                         @18F/people-ops-handbook-reviewers
-#_pages/getting-started/*                         @18F/people-ops-handbook-reviewers
-#_pages/travel-leave/*                            @18F/people-ops-handbook-reviewers
+#performance-management/*                         @18F/people-ops
+#_pages/getting-started/*                         @18F/people-ops
+#_pages/travel-and-leave/*                        @18F/people-ops
 _pages/hiring-staying-or-changing-jobs/*          @18F/team-talent
-#_pages/training-and-development/*                @18F/people-ops-handbook-reviewers
+#_pages/training-and-development/*                @18F/people-ops
 
 ##################################################
 # General information and policies
 ##################################################
-#_pages/about-us/*                                @18F/general-information-reviewers
-#_pages/general-information-and-resources/*       @18F/general-information-reviewers
+_pages/about-us/*                                 @18F/handbook-owners
+_pages/general-information-and-resources/*        @18f/handbook-owners
 
 ##################################################
 # Tech Portfolio
