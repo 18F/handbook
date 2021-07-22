@@ -72,7 +72,7 @@ govern our behavior at work, including the [GSA IT Rules of
 Behavior](<https://www.gsa.gov/directive/gsa-information-technology-(it)-general-rules-of-behavior->),
 [GSA Policy Statement on Harassment, Including Sexual and
 Non-sexual](<https://www.gsa.gov/directive/general-services-administration-(gsa)-policy-statement-on-harassment,-including-sexual-and-non-sexual->),
-[TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/), and ethics
+[TTS Code of Conduct]({{site.baseurl}}/code-of-conduct/), and ethics
 rules. TTS staff should review emoji requests with these rules in mind.
 Submitters should be thoughtful and mindful about emoji submissions, and try to
 ensure they're in line with our values of diversity and inclusion.
