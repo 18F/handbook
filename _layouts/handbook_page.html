@@ -3,6 +3,7 @@ layout: page
 ---
 
 {% include page-outdated.html %}
+<i>Last modified on {{ page.last_modified_at | date: '%B %d, %Y'}}</i>
 {{ content | smartify }}
 
 {% if page.questions %}

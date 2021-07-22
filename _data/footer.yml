@@ -2,4 +2,3 @@ type: slim
 edit_page:
   text: Edit this page
 links: footer
-last_updated: true
