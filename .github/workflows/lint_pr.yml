@@ -44,6 +44,7 @@ jobs:
         run: git diff --exit-code --cached
 
       - name: Commit changes
+        if: failure()
         uses: EndBug/add-and-commit@v7
         with:
           message: Format files
