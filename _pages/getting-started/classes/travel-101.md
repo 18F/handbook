@@ -1,5 +1,6 @@
 ---
 title: TTS Travel 101
+travel_advisory: true
 ---
 
 ### Initial setup for travel

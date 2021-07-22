@@ -28,7 +28,7 @@ Note this does _not_ include:
 
 Contractors' level of access will be determined by the Contracting Officer (CO). By default, **contractors who are "embedded" in TTS (working on TTS projects most or full-time) can be added as full members using their GSA emails, while other collaborators should be added as single or multi-channel guests**, as appropriate. See [contractors]({{site.baseurl}}/contractors/) for general information.
 
-<a href="https://goo.gl/forms/mKATdB9QuNo7AXVY2" class="usa-button">Request guest access</a>
+[Request guest access](https://goo.gl/forms/mKATdB9QuNo7AXVY2){: .usa-button}
 
 Additonal exceptions, including a small number of close TTS collaborators at GSA, may be added as full Slack members at the discretion of the Technology Director. Examples might include the Chief Information Officer or FAS Commissioner. Ask in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) if you'd like to add someone to this category.
 

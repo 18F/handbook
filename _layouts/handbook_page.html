@@ -2,20 +2,32 @@
 layout: page
 ---
 
-{% include page-outdated.html %}
-{{ content | smartify }}
+<!-- 
+We don't want to mislead users by putting a 'Last modified on' stamp on the
+homepage. All other pages should have it, though.
+--!>
+{% unless page.homepage %}
+<i>Last modified on {{ page.last_modified_at | date: '%B %d, %Y'}}</i>
+{% endunless %}
 
-{% if page.questions %}
+{% include page-outdated.html %} 
+
+{% if page.travel_advisory %} 
+{% include travel-alert.html %} 
+{% endif %} 
+
+{{ content | smartify }} {% if page.questions %}
+
 <h2 id="questions">Questions?</h2>
 <ul>
   {% for contact in page.questions %}
   <li>
     {% if contact contains "@" %}
-      <a href="mailto:{{contact}}">{{contact}}</a>
+    <a href="mailto:{{contact}}">{{contact}}</a>
     {% elsif contact.text %}
-      <a href="{{contact.url}}">{{contact.text}}</a>
+    <a href="{{contact.url}}">{{contact.text}}</a>
     {% else %}
-      <a href="https://gsa-tts.slack.com/messages/{{contact}}/">#{{contact}}</a>
+    <a href="https://gsa-tts.slack.com/messages/{{contact}}/">#{{contact}}</a>
     {% endif %}
   </li>
   {% endfor %}

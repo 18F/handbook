@@ -5,13 +5,13 @@ primary:
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
     children:
       - text: Mission, history, and values
-        url: tts-history/
+        url: about-us/tts-history/
         internal: true
       - text: Diversity, equity & inclusion
-        url: diversity/
+        url: about-us/diversity/
         internal: true
       - text: Code of Conduct
-        url: code-of-conduct/
+        url: about-us/code-of-conduct/
         internal: true
       - text: Org chart
         url: https://docs.google.com/presentation/d/1otRbhoGRN4LfDnWpN6zZ0ymjPpTBW3t79pIiuBREkCY/edit
@@ -23,7 +23,7 @@ primary:
         url: https://docs.google.com/document/d/1CJX97zBukyJcZxS1KIw1hUdMzvor8RX5HhKIZSOn-Ho/edit
         internal: false
       - text: Digital Council
-        url: digital-council/
+        url: about-us/digital-council/
         internal: true
   - text: Getting started
     href: /#getting-started
@@ -85,6 +85,9 @@ primary:
     blurb: |
       Going somewhere? Here's what you need to know.
     children:
+      - text: Updated Travel Guidance for GSA Employees (07/13/2021)
+        url: july-13-travel-guidance/
+        internal: true
       - text: Leave (HR Links)
         url: leave/
         internal: true
@@ -275,8 +278,8 @@ primary:
                 url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
                 internal: false
           - text: Launching software
-            children: 
-              - text: Lifecycle of a Launch 
+            children:
+              - text: Lifecycle of a Launch (ATOs, etc.)
                 url: launching-software/lifecycle/
               - text: Security
                 url: launching-software/security/
@@ -301,10 +304,6 @@ primary:
               - text: Agreements
                 url: agreements/
                 internal: true
-                children:
-                  - text: State and local agreements
-                    url: state-local-agreements/
-                    internal: true
               - text: Technology Portfolio
                 url: tech-portfolio/
                 internal: true
@@ -340,7 +339,7 @@ primary:
           - text: About 18F
             children:
               - text: 18F history and values
-                url: history-and-values/
+                url: 18f-history-and-values/
                 internal: true
               - text: 18F org chart
                 url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
@@ -349,6 +348,9 @@ primary:
             children:
               - text: Time tracking and billing
                 url: tock/#time-tracking-and-billing
+                internal: true
+              - text: High-level project lifecycle
+                url: 18f-project-lifecycle/
                 internal: true
               - text: How we staff projects
                 url: staffing-projects/
@@ -365,6 +367,9 @@ primary:
               - text: Open source policy
                 url: https://github.com/18F/open-source-policy/blob/master/policy.md
                 internal: false
+              - text: State and local agreements
+                url: state-local-agreements/
+                internal: true
           - text: 18F projects
             children:
               - text: 18F business development
@@ -435,14 +440,14 @@ primary:
           - text: About TTS Solutions
             children:
               - text: Overview of TTS Solutions
-                url: office-of-products-and-programs/
+                url: office-of-solutions/
                 internal: true
               - text: Solutions history
                 url: solutions-history/
                 internal: true
               - text: Solutions org chart
-                url: opp-org-chart/
-                internal: true
+                url: solutions-org-chart/
+                internal: false
           - text: Portfolios
             children:
               - text: Data

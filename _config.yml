@@ -6,7 +6,7 @@ description: A collection of guides and policies to help you with your work.
 github_info:
   organization: 18F
   repository: handbook
-  default_branch: master
+  default_branch: main
 
 exclude:
   - Dockerfile
@@ -41,6 +41,8 @@ url: "https://handbook.tts.gsa.gov"
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-last-modified-at
+
 # Google Analytics & DAP tracking code for handbook
 google_analytics_ua: UA-48605964-19
 dap_agency: GSA

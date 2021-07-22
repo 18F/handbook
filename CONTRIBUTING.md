@@ -3,6 +3,8 @@ title: Contributing to the Handbook
 permalink: /contributing/
 ---
 
+If you're not familiar with how to edit Markdown through GitHub, see [Intro to GitHub]({{site.baseurl}}/intro-to-github/) and [digital.gov's Using GitHub for Content Creation](https://digital.gov/resources/an-introduction-github/).
+
 ## Front matter
 
 The Handbook has a special `contacts` [front matter](https://jekyllrb.com/docs/front-matter/) variable for pages:
@@ -21,7 +23,7 @@ It is optional, and can contain one or more Slack channel name, email address, a
 
 - TTS staff should not include information that shouldn't be public.
   - We already get training on this, but here are a few reminders about things we shouldn't include here:
-  - [Sensitive information, as described in our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
+  - [Sensitive information](https://handbook.tts.gsa.gov/sensitive-information/)
   - Comments that can be easily interpreted as [endorsements](https://www.oge.gov/web/oge.nsf/Use%20of%20Government%20Position%20and%20Resources/17593AE8B3A597C685257E96006364E4?opendocument) (or other potential ethical issues)
 - Information that can easily go out of date and is already published somewhere else in a useful format. This includes:
   - People's phone numbers, even if public information (such as their GSA work number). Link to the public [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) or the access-controlled 18F contact spreadsheet instead of including phone numbers in the handbook
@@ -34,6 +36,19 @@ It is optional, and can contain one or more Slack channel name, email address, a
 - We're careful about publishing [information collected during research](https://handbook.tts.gsa.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#g-research](https://gsa-tts.slack.com/archives/g-research) for guidance first
 - Try to avoid "click here" links. If necessary, be sure to follow the [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
 - TTS-wide information should be public by default and link to Google Docs for anything that shouldn't be publicly visible.
+
+## Last-modified-at
+
+At the top of every page, you will see a "Last modified on [DATE]." This date is
+supposed to indicate when a page last underwent _significant_ changes that
+render it up-to-date. By itself, though, the feature is
+automated and thus naive: it simply looks at the last time the corresponding file was touched -- be that a typo fix, moving around content, or even changing the file name.
+
+The main goal of this feature is to indicate when content might be outdated, and
+to proceed with caution. By default, we should prefer to manually set or update the
+`last_modified_at` field in the front matter of a Handbook page if large changes
+are made. We do this
+to avoid giving people false confidence that a page is up-to-date.
 
 ## Fork or branch?
 
@@ -69,15 +84,22 @@ required.
 
 By default, any Markdown file created in the `_pages` directory, regardless of its internal nesting, will have a URL at the top-level. For example, if you create some new content at `_pages/awesome-resources/pizza.md`, the URL will look like `https://handbook.tts.gsa.gov/pizza/`.
 
-If you do in fact want the nesting to appear in the URL, you should create a new directory at the top-level of the project (i.e. at the same level as `_pages`). In this example, you would create a new directory `awesome-resources` and place the new `pizza.md` file inside it.
-
-In short: If you want nesting, make a top-level folder; if you don't, put the Markdown file under `_pages/`.
+If you do in fact want the nesting to appear in the URL, use `permalink` frontmatter to specify the URL.
 
 ### Pull requests (PRs)
 
 Each pull request should be reviewed by at least one other TTS staff member before merging. Once a PR is approved, anyone can merge it (including the original submitter).
 
 If you make a pull request that's best reviewed by a specific person, tag or assign it to that person. It can also help to ping them in Slack to ask for review.
+
+### CODEOWNERS
+
+The TTS Handbook uses the GitHub ["code owners" feature](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners) to automatically add content owners as a reviewer. This means that in most cases, you as a contributor should
+not need to manually add anyone for a review.
+
+If you suspect that the wrong team was added as a reviewer, feel free to open a
+pull request to change the CODEOWNERS file, located at the top-level of the
+project.
 
 ### How to review and merge pull requests
 

@@ -1,5 +1,7 @@
 ---
 title: Infrastructure
+questions:
+  - infrastructure
 ---
 
 ## Overview
@@ -28,7 +30,6 @@ In general:
   - GitHub Pages ([why](https://18f.gsa.gov/2015/05/14/18Fpages/))
   - Heroku and other platform services
   - Your personal AWS account
-- Any questions? Ask in [#infrastructure][slack-infrastructure].
 
 ### Server-side code
 
@@ -100,32 +101,32 @@ Sandbox accounts - both cloud.gov and AWS - are available to all TTS staff for n
 - Sandbox accounts _must_ be used when you are sending internet traffic to a non-production system: tools such as `ngrok` and `localtunnel` are strictly forbidden since they can allow your laptop to be compromised.
 - No sensitive or [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy/) should be stored in sandbox accounts.
 - Any system that becomes publicly routable (ex: for testing) must have a [robots.txt configuration](http://www.robotstxt.org/faq/prevent.html) that prevents indexing by all search engine robots.
+- The sandbox is for testing and demonstration purposes only. Nobody outside the federal government should be given access details for systems running in the sandbox unless authentication is in place.
+- No [sensitive information]({{ site.baseurl }}/sensitive-information/) can be stored in the sandbox accounts.
+- Creating resources that will cost more than $500 per month requires prior agreement from the Tech Portfolio team.
+- All resources must be tagged with a `Project`. Resources without this tag can be deleted at any time.
+- Any website that is publicly routable for more than one day must have a robots.txt configuration that prevents indexing by search engines.
 
 ### Cloud.gov sandbox accounts
 
 Information on cloud.gov sandboxes is available in the
 [Getting Started section of the cloud.gov documentation](https://docs.cloud.gov/getting-started/accounts/).
 
-### AWS sandbox accounts
+### Cloud Service Provider (CSP) sandbox accounts
 
-Anybody in TTS can get an AWS sandbox account. Sandbox users have
-`power user` access, which means they have full privileges to all AWS services
-except Identity and Access Management (IAM).
+Anyone in TTS can get an access to any of the three (3) Cloud Service Provider (CSP) sandbox account(s) that we currently have contractual access to in:
 
-- Request a sandbox account:
-  - [18F](https://github.com/18F/aws-admin/issues/new?template=new_sandbox_user.md&title=sandbox+account+for+[your+email])
-  - [COE](https://docs.google.com/forms/d/e/1FAIpQLSdn8Pjof5xWZSkopkEU6pumQlXGYfU4fMN9efmoDzffm2MW4A/viewform)
-- [Sign in to your sandbox account](https://tts-sandbox.signin.aws.amazon.com/console)
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
+- Microsoft Azure (Azure)
 
-#### Rules
+Sandbox users have `power user` access, which means they have full privileges to all services except for Identity and Access Management (IAM). Program account requests will be isseued `administrator` access.
 
-- The sandbox is for testing and demonstration purposes only. Nobody outside the federal government should be given access details for systems running in the sandbox unless authentication is in place.
-- No [sensitive information](https://github.com/18F/open-source-policy/blob/master/practice.md##protecting-sensitive-information) can be stored in the sandbox accounts.
-- Creating resources that will cost more than $500 per month requires prior agreement from the Tech Portfolio team.
-- All resources must be tagged with a `Project`. Resources without this tag can be deleted at any time.
-- Any website that is publicly routable for more than one day must have a robots.txt configuration that prevents indexing by search engines.
+- [Request an account](https://docs.google.com/forms/d/e/1FAIpQLSfK3jioq5BuZALB9dbWHDHaiwLteK1Aua3TspfWPjlMTBYVJg/viewform)
 
-### Important notes for AWS users
+Once you complete the form above, you will be contacted by a member of the TTS Tech Portfolio for the exchange of credentials. You can reach out to them direct by email `tts-tech-portfolio@gsa.gov` or in slack `#tts-tech-portfolio` [**once you've completed the form**](https://docs.google.com/forms/d/e/1FAIpQLSfK3jioq5BuZALB9dbWHDHaiwLteK1Aua3TspfWPjlMTBYVJg/viewform) to ask any questions or inquiry about the status of a request.
+
+### Important notes for Cloud Service Provider (CSP) users
 
 There are a few special notes on using any "Infrastructure as a Service" in the Federal context.
 
@@ -163,7 +164,16 @@ If you are unfamiliar with how to protect these credentials, please consult with
 
 ## Amazon Web Services
 
-At TTS, we use [Amazon Web Services](https://aws.amazon.com/) (AWS) as our [infrastructure as a service](https://en.wikipedia.org/wiki/Cloud_computing##Infrastructure_as_a_service_.28IaaS.29) (IaaS). We have separate AWS accounts for our production systems and [sandboxes](#sandbox-accounts) for development and testing. If you're used to developing locally, you should feel empowered to do everything you'd like in an AWS [sandbox account](#sandbox-accounts). Note that AWS is currently the **only** IaaS provider we are able to use in TTS right now. You're free to develop purely locally as long as you'd like, but _if you want to get a system online, AWS and cloud.gov are your only options_, of which cloud.gov is preferred.
+At TTS, we use [Amazon Web Services](https://aws.amazon.com/) (AWS) as our
+[infrastructure as a
+service](https://en.wikipedia.org/wiki/Cloud_computing##Infrastructure_as_a_service_.28IaaS.29)
+(IaaS). We have separate AWS accounts for our production systems and
+[sandboxes](#sandbox-accounts) for development and testing. If you're used to
+developing locally, you should feel empowered to do everything you'd like in
+an AWS [sandbox account](#sandbox-accounts). You're free to
+develop purely locally as long as you'd like, but _if you want to get a system
+online, AWS and cloud.gov are your only options_, of which cloud.gov is
+preferred.
 
 In particular, you _cannot_ send traffic from the internet to your local machine - you _must_ use a sandbox account for this purpose.
 
@@ -279,11 +289,11 @@ See also: [Requirements for Federal Websites and Digital Services](https://digit
 
 _something.gov_
 
-TTS owns [a number of second-level domains](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit##gid=824448842). [Information from DotGov on getting a new one.](https://home.dotgov.gov/registration/) Purchases/renewals are done through [micropurchase requests](https://handbook.tts.gsa.gov/purchase-requests/).
+TTS owns [a number of second-level domains](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit##gid=824448842). [Information from DotGov on getting a new one.](https://home.dotgov.gov/registration/) Purchases/renewals are done through [micropurchase requests]({{site.baseurl}}/purchase-requests/).
 
 ### DNS
 
-DNS for domains in TTS is managed one of a few ways—see [this diagram](https://docs.google.com/drawings/d/18POi-tbIqI7vzM2wnGKjOk4eC1fTAsnggGAeRK3Q3rk/edit?ts=5f4fea7a). For those that are managed within TTS, see [the DNS repository](https://github.com/18F/dns).
+DNS for domains in TTS is managed one of a few ways—see [this diagram](https://docs.google.com/drawings/d/18POi-tbIqI7vzM2wnGKjOk4eC1fTAsnggGAeRK3Q3rk/edit?ts=5f4fea7a). For those that are managed within TTS, see [the DNS repository](https://github.com/18F/dns). For domains managed by GSA IT, [put in a DNS ticket in ServiceNow](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=100180fd7813a400ce3ddff91a64941c).
 
 ### DNSSEC
 
@@ -345,7 +355,7 @@ See [the page on monitoring](#monitoring).
 **Alerting**
 
 - **_Someone_ is alerted, somehow, if a monitor test is failing**
-- Flexible targets (for vacation, by component, etc), eg PagerDuty
+- Flexible targets (for vacation, by component, etc)
 - Alerts triggered based on "out of the norm" thresholds
 - Flapping status does not result in excess/bouncing alerts
 
@@ -441,11 +451,11 @@ For a non-static site, you will want to know if exceptions are being thrown with
 
 ### Analytics
 
-[DAP](https://digital.gov/dap/) should be added to all public-facing pages.
+[DAP](https://digital.gov/dap/) should be added to all public-facing pages. [Request access.](https://docs.google.com/forms/d/e/1FAIpQLSc002Xp2hMjH0KxzilzfKG-ei8TzHLK-uady-qQbbAZms7jNQ/viewform)
 
 For custom events, DAP and/or [New Relic](https://docs.newrelic.com/docs/using-new-relic/metrics) can be used.
 
-Ask ##g-analytics if you have questions.
+Ask [#analytics](https://gsa-tts.slack.com/messages/analytics) if you have questions.
 
 **Alert Conditions**
 
@@ -493,7 +503,7 @@ Deploy it with `cf push <app-name>`
 Ways to alert DevOps & project team members:
 
 - **Slack**, though you may not want all errors going to the project's main Slack channel. (See the section below on grouping notification channels.)
-- **SMS**, which is only available through certain services - PagerDuty provides SMS, but New Relic doesn't; instead it has...
+- ~**SMS**, which is only available through certain services~ _Note: no GSA approved SMS options currently exist. Use Slack on mobile instead._
 - **Push Notifications**, for which team members need to have the mobile app installed and registered.
 - **Email**, which in practice isn't as useful since most people aren't immediately alerted by it.
 
@@ -659,7 +669,7 @@ Things you are required to log:
 
 _This list comes from GSA’s [AU-2a](https://nvd.nist.gov/800-53/Rev4/control/au-2##Rev4Statements) Parameter Requirement - see the “Audit and Accountability” doc on [this page](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/it-security-procedural-guides)._
 
-**Do not log [sensitive information](https://github.com/18F/open-source-policy/blob/master/practice.md##protecting-sensitive-information).**
+**Do not log [sensitive information]({{ site.baseurl }}/sensitive-information/).**
 
 ### Other notes
 
@@ -675,8 +685,16 @@ _This list comes from GSA’s [AU-2a](https://nvd.nist.gov/800-53/Rev4/control/a
 
 ## Decomissioning
 
-When taking down a production system, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=decommission.md&title=decommission+%5Bsystem%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/master/.github/ISSUE_TEMPLATE/decommission.md)). Feel free to add/remove tasks as appropriate, add a username after each task to assign it, and/or make corresponding items in your issue tracker. [Here's a more extensive list](https://github.com/18F/myusa/issues/762). The [General Records Schedules 3.x](https://www.archives.gov/records-mgmt/grs.html) are relevant, as well.
+To decide whether a site needs to be decommissioned, use the following decision trees. Is the site required by law/policy?
 
-You are welcome to ask any questions as comments in the issue or [#infrastructure][slack-infrastructure].
+- [Yes](https://docs.google.com/drawings/d/1LxsHCXHBc09u-H6FDD_C4_pj8rtdRKqgXWZixvEbcD4/edit?usp=sharing)
+- [No](https://docs.google.com/drawings/d/1Bi2LTO6ANzcoTd_16tFZq8rL6A3SSXSLS2zgtielGK4/edit?usp=sharing)
+
+When taking down a production system, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=decommission.md&title=decommission+%5Bsystem%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/decommission.md)). Feel free to add/remove tasks as appropriate, add a username after each task to assign it, and/or make corresponding items in your issue tracker.
+
+### See also
+
+- [Candidates for decommissioning](https://docs.google.com/spreadsheets/d/1EGgQpwq8kc43TuTYxtQAhzEnhf_p7m_6T0Q8Dt9mqjo/edit#gid=0)
+- [General Records Schedules (GRS)](https://www.archives.gov/records-mgmt/grs.html)
 
 [slack-infrastructure]: https://gsa-tts.slack.com/messages/C039MHHF8/
