@@ -85,6 +85,9 @@ primary:
     blurb: |
       Going somewhere? Here's what you need to know.
     children:
+      - text: Updated Travel Guidance for GSA Employees (07/13/2021)
+        url: july-13-travel-guidance/
+        internal: true
       - text: Leave (HR Links)
         url: leave/
         internal: true
