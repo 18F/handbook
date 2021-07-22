@@ -14,7 +14,7 @@ You may use your personal Docker Hub account for work. Ask
 the [TTS-wide account](https://hub.docker.com/u/18fgsa).
 
 Alternatively, you can create a Docker Hub Organization for your program and use a [micropurchase
-request]({{ site.baseurl }}/purchase-requests/) for payment. Please start the
+request]({{site.baseurl}}/purchase-requests/) for payment. Please start the
 request in [#infrastructure][slack-infrastructure].
 
 ## For admins
