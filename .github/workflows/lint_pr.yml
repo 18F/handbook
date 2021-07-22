@@ -13,7 +13,6 @@ jobs:
           # Use the branch commit instead of the PR merge commit
           ref: ${{ github.event.pull_request.head.sha }}
 
-
       - name: Replace absolute links to Handbook
         uses: jacobtomlinson/gha-find-replace@0.1.4
         with:
@@ -25,6 +24,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
+          default_author: github_actions
           message: Replace absolute links to Handbook
           push: false
 
@@ -47,6 +47,7 @@ jobs:
         if: failure()
         uses: EndBug/add-and-commit@v7
         with:
+          default_author: github_actions
           message: Format files
 
       - name: Display status should be clean
