@@ -8,6 +8,16 @@ questions:
 
 The hypothesis was simple: the U.S. government could attract talented technologists to the civil service by enticing them with meaty problems and an opportunity for huge impact. The MVP was the Presidential Innovation Fellowship (go say hello to the <a href="https://gsa-tts.slack.com/messages/pifs/">#pifs</a>), which proved you could get people to give up (or take a break from) their jobs in the private sector to serve a tour of duty in the federal government. The next step was to convince people to serve longer than a six-to-12-month fellowship and join a product delivery team.
 
+## Key dates
+
+- 2013: 18F funding approved and hiring begins.
+- 2014: 18F creates [cloud.gov](https://cloud.gov).
+- 2015: 18F creates the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/)
+- 2015: 18F joins [TTS Solutions]({{site.baseurl}}/office-of-solutions).
+- 2016: 18F creates [login.gov](https://login.gov) and [cloud.gov Pages](https://federalist.18f.gov/)
+- 2016: 18F gets procurement authority.
+- 2019: 18F gets assisted acquisition authority.
+
 ## The Presidential Innovation Fellows
 
 In 2012, the White House established the [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) (PIF) program to bring the principles, values, and practices of the innovation economy into government through the most effective agents of change we know: our people. This highly competitive program pairs talented, diverse technologists and innovators with top civil servants and change-makers working at the highest levels of the federal government to tackle some of our nation’s biggest challenges. These teams of government experts and private-sector doers take a user-centric approach to issues at the intersection of people, processes, products, and policy to achieve lasting impact.
