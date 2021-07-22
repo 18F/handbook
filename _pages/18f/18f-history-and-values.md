@@ -15,8 +15,8 @@ The hypothesis was simple: the U.S. government could attract talented technologi
 - 2015: 18F creates the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/)
 - 2015: 18F joins [TTS Solutions]({{site.baseurl}}/office-of-solutions).
 - 2016: 18F creates [login.gov](https://login.gov) and [cloud.gov Pages](https://federalist.18f.gov/)
-- 2016: 18F gets [procurement authority](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/technical-administrative-other-solutions/contact-center-services/usa-contact/delegation-of-procurement-authority).
-- 2019: 18F gets [assisted acquisition authority](https://www.gsa.gov/about-us/regions/welcome-to-the-rocky-mountain-region-8/products-and-services/assisted-acquisition-services).
+- 2016: 18F gets procurement authority.
+- 2019: 18F gets assisted acquisition authority.
 
 ## The Presidential Innovation Fellows
 
