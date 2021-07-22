@@ -1,4 +1,5 @@
 ---
+# This file is present to allow the "Last modified on" feature to build properly. TODO find a better way.
 ---
 
 {%- if site.anchor_js_targets -%}
