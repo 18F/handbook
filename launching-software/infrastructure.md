@@ -170,7 +170,7 @@ service](https://en.wikipedia.org/wiki/Cloud_computing##Infrastructure_as_a_serv
 (IaaS). We have separate AWS accounts for our production systems and
 [sandboxes](#sandbox-accounts) for development and testing. If you're used to
 developing locally, you should feel empowered to do everything you'd like in
-an AWS [sandbox account](#sandbox-accounts).  You're free to
+an AWS [sandbox account](#sandbox-accounts). You're free to
 develop purely locally as long as you'd like, but _if you want to get a system
 online, AWS and cloud.gov are your only options_, of which cloud.gov is
 preferred.
