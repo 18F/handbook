@@ -81,7 +81,7 @@ Groups are a great way to alert people who might not be in a channel about somet
 
 Emoji are an important part of our communication within Slack. You are welcome
 to add custom emoji. Keep in mind that interactions in Slack are covered by our
-[Code of Conduct]({% link _pages/about-us/code-of-conduct.md %}),
+[Code of Conduct]({{site.baseurl}}/about-us/code-of-conduct/),
 including emoji. Please be thoughtful and mindful about emoji submissions
 and ensure they're in line with our values of diversity and inclusion.
 
