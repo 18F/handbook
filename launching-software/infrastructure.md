@@ -676,6 +676,11 @@ _This list comes from GSA’s [AU-2a](https://nvd.nist.gov/800-53/Rev4/control/a
 
 ## Decomissioning
 
+To decide whether a site needs to be decommissioned, use the following decision trees. Is the site required by law/policy?
+
+- [Yes](https://docs.google.com/drawings/d/1LxsHCXHBc09u-H6FDD_C4_pj8rtdRKqgXWZixvEbcD4/edit?usp=sharing)
+- [No](https://docs.google.com/drawings/d/1Bi2LTO6ANzcoTd_16tFZq8rL6A3SSXSLS2zgtielGK4/edit?usp=sharing)
+
 When taking down a production system, [create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=decommission.md&title=decommission+%5Bsystem%5D) ([preview](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/decommission.md)). Feel free to add/remove tasks as appropriate, add a username after each task to assign it, and/or make corresponding items in your issue tracker.
 
 ### See also
