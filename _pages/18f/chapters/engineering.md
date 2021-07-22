@@ -110,7 +110,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### Guilds and working groups
 
-See current [guilds](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/#current-guilds) and [working groups](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/#a-sampling-of-current-working-groups).
+See current [guilds]({{site.baseurl}}/working-groups-and-guilds-101/#current-guilds) and [working groups]({{site.baseurl}}/working-groups-and-guilds-101/#a-sampling-of-current-working-groups).
 
 ### Facilitator groups
 
