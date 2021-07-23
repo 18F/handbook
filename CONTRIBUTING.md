@@ -40,7 +40,9 @@ There is also some information that should **not** be included in the Handbook:
 
 Now, assuming you've identified what you want to contribute -- if you haven't, check out the Handbook's [open issues](https://github.com/18F/handbook/issues) -- let's talk about the mechanism by which you'll contribute: NetlifyCMS or Git.
 
-## Contributing via NetlifyCMS (Experimental)
+## Contributing via NetlifyCMS (New)
+
+_This contribution workflow is new (as of July 2021). If you encounter inconsistencies in the documentation, notice cool or weird things about the tool itself, or have general feedback on the contribution experience, [please do let us know](https://gsa-tts.slack.com/archives/C0DCAMLQH)!_
 
 [NetlifyCMS](https://www.netlifycms.org/) is a Git-based content management system (CMS) that provides a Google Docs-like interface for editing content. In other words, this means that you won't need to know anything about (a) Git, (b) Markdown, or (c) web development to make your contribution.
 
