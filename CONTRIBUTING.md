@@ -1,7 +1,6 @@
 ---
 title: Contributing to the Handbook
 permalink: /contributing/
-last_modified_at: 2021-07-23
 ---
 
 So you want to contribute to the Handbook? Great! We're glad you're here. This project is fully crowd-sourced, and thus its success hinges on whether people like you correct typos, update stale content, or make pages more readable.
@@ -41,9 +40,7 @@ There is also some information that should **not** be included in the Handbook:
 
 Now, assuming you've identified what you want to contribute -- if you haven't, check out the Handbook's [open issues](https://github.com/18F/handbook/issues) -- let's talk about the mechanism by which you'll contribute: NetlifyCMS or Git.
 
-## Contributing via NetlifyCMS (New)
-
-_This contribution workflow is new (as of July 2021). If you encounter inconsistencies in the documentation, notice cool or weird things about the tool itself, or have general feedback on the contribution experience, [please do let us know](https://gsa-tts.slack.com/archives/C0DCAMLQH)!_
+## Contributing via NetlifyCMS (Experimental)
 
 [NetlifyCMS](https://www.netlifycms.org/) is a Git-based content management system (CMS) that provides a Google Docs-like interface for editing content. In other words, this means that you won't need to know anything about (a) Git, (b) Markdown, or (c) web development to make your contribution.
 
@@ -63,7 +60,7 @@ Using the search feature, search by the _title_ of the page you are looking to e
 
 NetlifyCMS lets you edit content in either Rich Text or Markdown, so feel free to use whichever makes you feel more comfortable. When you're done making your changes, click the 'Save' button at the top of your screen. _Note: NetlifyCMS does not offer auto-saving at this time._
 
-Once you save, a [pull request](https://github.com/18F/handbook/pulls) will be opened in the Handbook repository. It should have the 'netlify-cms/draft' tag. Pull requests represent the "official" way that changes are made to the Handbook: NetlifyCMS provides a nice abstraction layer over this sometimes-complicated Git workflow.
+When you save for the first time, a [pull request](https://github.com/18F/handbook/pulls) will be automatically opened. You should change the title and body to make more sense, since it will be pre-filled by NetlifyCMS.
 
 ### Step 4: Update the status of your change from 'Draft' to 'In Review'
 
@@ -73,13 +70,12 @@ You can also change the status by using a Trello-like board found at [https://ha
 
 ### Step 5: See your changes through!
 
-At this point, your changes should be officially marked as ready for review -- great work! You should hear back from certain [content owners](https://github.com/18F/handbook/blob/main/CODEOWNERS) regarding your changes; they should work with you to get your change merged into the main Handbook repository.
+At this point, your changes should be officially marked as ready for review -- great work! You should hear back from certain [content owners](https://github.com/18F/handbook/blob/main/CODEOWNERS) regarding your changes; they should work with you to get your change merged into the main Handbook repository. 
 
 At the time of writing, the review process is primarily handled in GitHub. If you aren't familiar with this tool, that's okay -- see our [Intro to GitHub](https://handbook.tts.gsa.gov/intro-to-github/) for a brief primer. For most people, the important things to know in GitHub are: (a) how to login, (b) how to comment, request changes, or approve pull requests, and (c) how to create [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart).
 
 ### Other benefits
-
-- **Access the build preview directly**: At the top right hand side of NetlifyCMS, click 'View Preview' to see your changes deployed on a live, mock Handbook, courtesy of cloud.gov Pages. Check out the [build preview docs](https://federalist.18f.gov/documentation/previews/) for more information on this feature.
+* **Access the build preview directly**: At the top right hand side of NetlifyCMS, click 'View Preview' to see your changes deployed on a live, mock Handbook, courtesy of cloud.gov Pages. Check out the [build preview docs](https://federalist.18f.gov/documentation/previews/) for more information on this feature.
 
 ## Contributing via Git
 
@@ -122,14 +118,7 @@ The main goal of this feature is to indicate when content might be outdated, and
 to proceed with caution. By default, we should prefer to manually set or update the
 `last_modified_at` field in the front matter of a Handbook page if large changes
 are made. We do this
-to avoid giving people false confidence that a page is up-to-date. Example:
-
-```
----
-title: Contributing to the Handbook
-last_modified_at: 2021-07-23
----
-```
+to avoid giving people false confidence that a page is up-to-date.
 
 ### Fork or branch?
 
