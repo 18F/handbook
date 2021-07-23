@@ -1,6 +1,7 @@
 ---
 title: Contributing to the Handbook
 permalink: /contributing/
+last_modified_at: 2021-07-23
 ---
 
 So you want to contribute to the Handbook? Great! We're glad you're here. This project is fully crowd-sourced, and thus its success hinges on whether people like you correct typos, update stale content, or make pages more readable.
@@ -119,7 +120,14 @@ The main goal of this feature is to indicate when content might be outdated, and
 to proceed with caution. By default, we should prefer to manually set or update the
 `last_modified_at` field in the front matter of a Handbook page if large changes
 are made. We do this
-to avoid giving people false confidence that a page is up-to-date.
+to avoid giving people false confidence that a page is up-to-date. Example:
+
+```
+---
+title: Contributing to the Handbook
+last_modified_at: 2021-07-23
+---
+```
 
 ### Fork or branch?
 
