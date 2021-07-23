@@ -68,12 +68,13 @@ You can also change the status by using a Trello-like board found at [https://ha
 
 ### Step 5: See your changes through!
 
-At this point, your changes should be officially marked as ready for review -- great work! You should hear back from certain [content owners](https://github.com/18F/handbook/blob/main/CODEOWNERS) regarding your changes; they should work with you to get your change merged into the main Handbook repository. 
+At this point, your changes should be officially marked as ready for review -- great work! You should hear back from certain [content owners](https://github.com/18F/handbook/blob/main/CODEOWNERS) regarding your changes; they should work with you to get your change merged into the main Handbook repository.
 
 At the time of writing, the review process is primarily handled in GitHub. If you aren't familiar with this tool, that's okay -- see our [Intro to GitHub](https://handbook.tts.gsa.gov/intro-to-github/) for a brief primer. For most people, the important things to know in GitHub are: (a) how to login, (b) how to comment, request changes, or approve pull requests, and (c) how to create [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart).
 
 ### Other benefits
-* **Access the build preview directly**: At the top right hand side of NetlifyCMS, click 'View Preview' to see your changes deployed on a live, mock Handbook, courtesy of cloud.gov Pages. Check out the [build preview docs](https://federalist.18f.gov/documentation/previews/) for more information on this feature.
+
+- **Access the build preview directly**: At the top right hand side of NetlifyCMS, click 'View Preview' to see your changes deployed on a live, mock Handbook, courtesy of cloud.gov Pages. Check out the [build preview docs](https://federalist.18f.gov/documentation/previews/) for more information on this feature.
 
 ## Contributing via Git
 
