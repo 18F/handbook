@@ -471,7 +471,7 @@ primary:
       - text: Centers of Excellence (CoE)
         children:
           - text: Overview of CoE
-            url: centers-of-excellence/
+            url: centers-of-excellence/about/
             internal: true
           - text: CoE Website
             url: https://coe.gsa.gov/

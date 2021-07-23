@@ -2,6 +2,8 @@
 title: IT Modernization Centers of Excellence
 questions:
   - centers-of-excellence
+redirect_from:
+  - /centers-of-excellence/
 ---
 
 ## Our Story
