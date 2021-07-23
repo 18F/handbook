@@ -60,6 +60,8 @@ Using the search feature, search by the _title_ of the page you are looking to e
 
 NetlifyCMS lets you edit content in either Rich Text or Markdown, so feel free to use whichever makes you feel more comfortable. When you're done making your changes, click the 'Save' button at the top of your screen. _Note: NetlifyCMS does not offer auto-saving at this time._
 
+Once you save, a [pull request](https://github.com/18F/handbook/pulls) will be opened in the Handbook repository. It should have the 'netlify-cms/draft' tag. Pull requests represent the "official" way that changes are made to the Handbook: NetlifyCMS provides a nice abstraction layer over this sometimes-complicated Git workflow.
+
 ### Step 4: Update the status of your change from 'Draft' to 'In Review'
 
 We've enabled the "editorial workflow" feature of NetlifyCMS, which allows content editors to more easily track the status of proposed changes. When you first click save, your changes will have 'Status: Draft' attached. Once you feel that your changes are ready for others' review, use the dropdown to change the status to 'In review'.
