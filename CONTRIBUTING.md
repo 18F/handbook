@@ -57,11 +57,15 @@ To access NetlifyCMS for the Handbook, navigate to [https://handbook.tts.gsa.gov
 
 Using the search feature, search by the _title_ of the page you are looking to edit. It should come up in the results; click it to open the editor.
 
+![Arrow pointing to the Netlify search bar]({{site.baseurl}}/images/netlifycms-step2.png)
+
 ### Step 3: Make your changes and save
 
 NetlifyCMS lets you edit content in either Rich Text or Markdown, so feel free to use whichever makes you feel more comfortable. When you're done making your changes, click the 'Save' button at the top of your screen. _Note: NetlifyCMS does not offer auto-saving at this time._
 
 When you save for the first time, a [pull request](https://github.com/18F/handbook/pulls) will be automatically opened. You should change the title and body to make more sense, since it will be pre-filled by NetlifyCMS.
+
+![Arrow pointing to the Netlify save button]({{site.baseurl}}/images/netlifycms-step3.png)
 
 ### Step 4: Update the status of your change from 'Draft' to 'In Review'
 
@@ -69,11 +73,15 @@ We've enabled the "editorial workflow" feature of NetlifyCMS, which allows conte
 
 You can also change the status by using a Trello-like board found at [https://handbook.tts.gsa.gov/admin/#/workflow](https://handbook.tts.gsa.gov/admin/#/workflow). To change the status, simply drag the card associated with your changes from the 'Drafts' column to the 'In Review' column.
 
+![Arrow pointing to the 'In review' status]({{site.baseurl}}/images/netlifycms-step4.png)
+
 ### Step 5: See your changes through!
 
 At this point, your changes should be officially marked as ready for review -- great work! You should hear back from certain [content owners](https://github.com/18F/handbook/blob/main/CODEOWNERS) regarding your changes; they should work with you to get your change merged into the main Handbook repository.
 
 At the time of writing, the review process is primarily handled in GitHub. If you aren't familiar with this tool, that's okay -- see our [Intro to GitHub](https://handbook.tts.gsa.gov/intro-to-github/) for a brief primer. For most people, the important things to know in GitHub are: (a) how to login, (b) how to comment, request changes, or approve pull requests, and (c) how to create [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart).
+
+![Screenshot of the GitHub pull request]({{site.baseurl}}/images/netlifycms-step5.png)
 
 ### Other benefits
 
