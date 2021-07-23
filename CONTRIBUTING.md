@@ -58,11 +58,22 @@ Using the search feature, search by the _title_ of the page you are looking to e
 
 ### Step 3: Make your changes and save
 
+NetlifyCMS lets you edit content in either Rich Text or Markdown, so feel free to use whichever makes you feel more comfortable. When you're done making your changes, click the 'Save' button at the top of your screen. _Note: NetlifyCMS does not offer auto-saving at this time._
+
 ### Step 4: Update the status of your change from 'Draft' to 'In Review'
 
-[TODO have someone review your changes, this should be added automagically]
+We've enabled the "editorial workflow" feature of NetlifyCMS, which allows content editors to more easily track the status of proposed changes. When you first click save, your changes will have 'Status: Draft' attached. Once you feel that your changes are ready for others' review, use the dropdown to change the status to 'In review'.
+
+You can also change the status by using a Trello-like board found at [https://handbook.tts.gsa.gov/admin/#/workflow](https://handbook.tts.gsa.gov/admin/#/workflow). To change the status, simply drag the card associated with your changes from the 'Drafts' column to the 'In Review' column.
 
 ### Step 5: See your changes through!
+
+At this point, your changes should be officially marked as ready for review -- great work! You should hear back from certain [content owners](https://github.com/18F/handbook/blob/main/CODEOWNERS) regarding your changes; they should work with you to get your change merged into the main Handbook repository. 
+
+At the time of writing, the review process is primarily handled in GitHub. If you aren't familiar with this tool, that's okay -- see our [Intro to GitHub](https://handbook.tts.gsa.gov/intro-to-github/) for a brief primer. For most people, the important things to know in GitHub are: (a) how to login, (b) how to comment, request changes, or approve pull requests, and (c) how to create [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart).
+
+### Other benefits
+* **Access the build preview directly**: At the top right hand side of NetlifyCMS, click 'View Preview' to see your changes deployed on a live, mock Handbook, courtesy of cloud.gov Pages. Check out the [build preview docs](https://federalist.18f.gov/documentation/previews/) for more information on this feature.
 
 ## Contributing via Git
 
