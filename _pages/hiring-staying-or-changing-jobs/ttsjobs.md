@@ -45,6 +45,12 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [Strategic Partnerships Market Development Director Detail](https://docs.google.com/document/d/17YrispA5FGyxwKhnp8Sjq4UzYw_5_8Q0aMsLrSDBPP8/edit#) - open Wednesday, July 14 until Wednesday July 28
 
+
+### Open to all federal employees
+
+- [GOVERNMENT WIDE: OA Procurement Analyst](https://www.usajobs.gov/GetJob/ViewDetails/608723400) - open Monday, July 26, 2021 through Monday, August 9, 2021.
+
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
