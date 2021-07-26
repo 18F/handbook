@@ -2,6 +2,8 @@
 title: Innovation Portfolio
 questions:
   - innovation-portfolio
+redirect_from:
+  - /innovation-portfolio/
 ---
 
 The Innovation Portfolio (IP) operates within GSA as part of the Technology Transformation Services (TTS) in the Office of Solutions (TTS Solutions). As a portfolio nested within an office, IP builds from the base missions of TTS and Solutions, as well as GSA overall.
