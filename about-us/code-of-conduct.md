@@ -32,7 +32,7 @@ It would be impossible to list everything staff can do to create a more welcomin
 - Listen carefully and actively.
 - Ask questions, and seek to understand your partners&#39; context.
 - Encourage other people to listen as much as they speak.
-- Treat other people&#39;s identities and cultures with respect. Make an effort to say people&#39;s names correctly and refer to them by their chosen pronouns.
+- Treat other people&#39;s identities and cultures with respect. Make an effort to say people&#39;s names correctly and refer to them by their stated pronouns.
 
 ## Unacceptable Behavior
 
