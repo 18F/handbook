@@ -463,7 +463,7 @@ primary:
                 url: https://www.fedramp.gov/
                 internal: false
               - text: Technology
-                url: office-of-solutions/tech-portfolio
+                url: office-of-solutions/tech-portfolio/
                 internal: true
               - text: 10x
                 url: https://10x.gsa.gov
