@@ -169,7 +169,7 @@ primary:
         url: resume/
         internal: true
       - text: Referring a person
-        url: talent/#referring-a-person
+        url: office-of-operations/talent/#referring-a-person
         internal: true
   - text: General information and resources
     href: /#general-information-and-resources
