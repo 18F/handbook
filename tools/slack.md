@@ -8,7 +8,7 @@ questions:
 
 To get started, **sign in at [gsa-tts.slack.com](https://gsa-tts.slack.com)**. See the [official documentation](https://slack.com/help/articles/218080037-Getting-started-for-new-members) for how to use Slack generally, and the following sub-pages for information about Slack at TTS:
 
-- [Getting started & guidelines](getting-started/)
+- [Getting started](getting-started/)
 - [Guidelines](guidelines/)
 - [User management](user-management/)
 - [Integrations (apps, bots)](integrations/)
