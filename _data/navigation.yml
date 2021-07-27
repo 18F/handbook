@@ -331,6 +331,9 @@ primary:
           - text: Overview of OA
             url: office-of-acquisition/
             internal: true
+          - text: Roles and Responsibilities
+            url: office-of-acquisition/roles-and-responsibilities
+            internal: true
           - text: Contractors
             url: contractors/
             internal: true
