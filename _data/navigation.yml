@@ -329,7 +329,7 @@ primary:
       - text: TTS Office of Acquisition
         children:
           - text: Overview of OA
-            url: oa/
+            url: office-of-acquisition/
             internal: true
           - text: Contractors
             url: contractors/

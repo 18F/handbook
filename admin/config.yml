@@ -46,7 +46,7 @@ collections:
     - name: "acquisition"
       label: "Office of Acquisition"
       label_singular: "Acquisition page"
-      folder: "oa/"
+      folder: "office-of-acquisition/"
       create: true
       fields: 
         - {label: "Title", name: "title", widget: "string"}
