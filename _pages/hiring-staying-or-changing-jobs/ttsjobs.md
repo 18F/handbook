@@ -35,7 +35,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Director](https://www.usajobs.gov/GetJob/ViewDetails/607780900) - open Monday, July 2, 2021 through Monday, August 2, 2021 at 11:59 EDT
+- [18F Director](https://www.usajobs.gov/GetJob/ViewDetails/607780900) - open Monday, July 2, 2021 through Monday, August 2, 2021 at 11:59pm EDT
 
 ### Internal only opportunities
 
