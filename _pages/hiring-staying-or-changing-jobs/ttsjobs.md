@@ -29,7 +29,7 @@ This page serves as a central listing for:
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
-If you know an awesome person for a TTS role or just know a great person that you'd like to recommend in general, please check out the [referring a person]({{site.baseurl}}/talent/#referring-a-person) process.
+If you know an awesome person for a TTS role or just know a great person that you'd like to recommend in general, please check out the [referring a person]({{site.baseurl}}/office-of-operations/talent/#referring-a-person) process.
 
 ## Announcements
 
