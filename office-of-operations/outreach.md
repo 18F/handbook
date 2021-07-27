@@ -1,7 +1,7 @@
 ---
 title: TTS Outreach
 redirect_from:
-  - /outreach
+  - /outreach/
 ---
 
 TTS Outreach is responsible for the TTS brand with audiences both internal and external to the government. It exists to drive demand for TTS services in support of the overall mission to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public.
