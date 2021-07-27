@@ -216,7 +216,7 @@ Here are some recommendations for how to level up our partners' skills:
 
 #### Provide a training or learning materials
 
-- Use or adapt Greg Walker's [Slack training](https://gsa-tts.slack.com/files/U0KHZ7BE1/F82812ZJ6/Notes_from_Slack_training).
+- Use or adapt Greg Walker's [Slack training](https://app.slack.com/docs/T025AQGAN/FQ46XKBMZ?origin_team=T025AQGAN).
 - There are some useful Github-related resources listed in [this Slack thread](https://gsa-tts.slack.com/archives/CHZLJBWCV/p1559759830000500) or [this Slack thread](https://gsa-tts.slack.com/archives/C04KL9ZN2/p1571357280118500).
 
 #### Learn by doing/watching/failing
