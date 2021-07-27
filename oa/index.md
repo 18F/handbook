@@ -2,8 +2,6 @@
 title: Office of Acquisition
 questions:
   - tts-oa
-redirect_from:
-  - /oa/
 ---
 
 Welcome to TTS Office of Acquisition (OA) team page!
