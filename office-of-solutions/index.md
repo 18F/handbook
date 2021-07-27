@@ -2,7 +2,6 @@
 title: Office of Solutions (SOL)
 redirect_from:
   - /office-of-products-and-programs/
-  - /office-of-solutions/
 ---
 
 Welcome to SOL’s team page!

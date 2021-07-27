@@ -304,9 +304,6 @@ primary:
               - text: Agreements
                 url: agreements/
                 internal: true
-              - text: Technology Portfolio
-                url: tech-portfolio/
-                internal: true
           - text: Talent team
             children:
               - text: Talent
@@ -440,13 +437,13 @@ primary:
           - text: About TTS Solutions
             children:
               - text: Overview of TTS Solutions
-                url: solutions/about/
+                url: office-of-solutions/
                 internal: true
               - text: Solutions history
-                url: solutions/history/
+                url: office-of-solutions/history/
                 internal: true
               - text: Solutions org chart
-                url: solutions/org-chart/
+                url: office-of-solutions/org-chart/
                 internal: false
           - text: Portfolios
             children:
@@ -454,10 +451,10 @@ primary:
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#DSP
                 internal: false
               - text: Innovation
-                url: solutions/innovation-portfolio/
+                url: office-of-solutions/innovation-portfolio/
                 internal: true
               - text: Public Experience
-                url: solutions/public-experience-portfolio/
+                url: office-of-solutions/public-experience-portfolio/
                 internal: true
               - text: Smarter IT
                 url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SmarterITDelivery
@@ -466,7 +463,7 @@ primary:
                 url: https://www.fedramp.gov/
                 internal: false
               - text: Technology
-                url: solutions/tech-portfolio
+                url: office-of-solutions/tech-portfolio
                 internal: false
               - text: 10x
                 url: https://10x.gsa.gov
