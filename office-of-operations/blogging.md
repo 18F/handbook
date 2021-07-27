@@ -6,6 +6,8 @@ tag:
 questions:
   - blog
   - outreach
+redirect_from:
+  - /blogging/
 ---
 
 This guide helps TTS employees through the blogging process and assists them in properly framing their post so that it’s concise, readable, and achieves its goals. If you have any questions, ask them in [#blog](https://gsa-tts.slack.com/archives/C02QNKTNK) or by email to [tts-outreach@gsa.gov](mailto:tts-outreach@gsa.gov).

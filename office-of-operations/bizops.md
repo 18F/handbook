@@ -1,5 +1,7 @@
 ---
 title: Business Operations Division
+redirect_from:
+  - /bizops/
 ---
 
 The Business Operations Division leads the day to day operations of the organization and delivers on the TTS strategy and
