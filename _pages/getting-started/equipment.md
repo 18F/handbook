@@ -52,7 +52,7 @@ GSA IT does not currently have a Mac Loaner Program, but can provide loaners for
 1. Provide a user name on the device. Example: `3PAOtester01`.
 1. Help desk will create a shipping label and mail out loaner to the receiving party.
 
-If GSA IT doesn't have any availble inventory to issue a loaner, please [contact the Tech Portfolio]({{site.baseurl}}/tech-portfolio/#questions) and they will work with you to determine a suitable alternative.
+If GSA IT doesn't have any availble inventory to issue a loaner, please [contact the Tech Portfolio]({{site.baseurl}}/tech-portfolio/) and they will work with you to determine a suitable alternative.
 
 ### Admin rights
 
