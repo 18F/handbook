@@ -1,5 +1,5 @@
 ---
-title: Slack rules
+title: Getting started with Slack
 questions:
   - admins-slack
 ---
@@ -16,7 +16,7 @@ questions:
 
 ## Usage
 
-Slack is required for all TTS staff. Some things you'll want to remember, especially if you're new to Slack:
+Slack is used by all TTS staff. Some things you'll want to remember, especially if you're new to Slack:
 
 - **Abide by the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** This includes use of avatars, emoji, files, and links. If you see anyone violating our Code of Conduct, see the reporting section.
 - [**Assume everything you share/do in Slack will be made public, and attributed back to you.**](../records/)
