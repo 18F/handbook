@@ -52,7 +52,6 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
- 
     - name: "launching-software"
       label: "Launching software"
       label_singular: "Launching software page"
