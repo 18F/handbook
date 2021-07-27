@@ -464,7 +464,7 @@ primary:
                 internal: false
               - text: Technology
                 url: office-of-solutions/tech-portfolio
-                internal: false
+                internal: true
               - text: 10x
                 url: https://10x.gsa.gov
                 internal: false
