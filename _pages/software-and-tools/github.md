@@ -110,7 +110,7 @@ Contractors or external government collaborators should only be added to teams w
 
 ### Archiving
 
-As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), we [archive](https://help.github.com/articles/archiving-repositories/) repositories to deprecate them. In short, that means we are no longer maintaining them, including keeping dependencies up-to-date.
+As discussed in the [18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md), we [archive repositories](https://help.github.com/articles/archiving-repositories/) to deprecate them. In short, that means we are no longer maintaining them, including keeping dependencies up-to-date.
 
 Repositories created as part of an engagement with a partner should be transferred to the partner agency, forked back to [one of our organizations](#organizations), and then archived. See the [handoff to partner agencies](#handoff-to-partner-agencies) section for more information.
 
