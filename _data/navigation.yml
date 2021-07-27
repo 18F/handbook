@@ -512,7 +512,7 @@ primary:
             url: tools/teams/
             internal: true
           - text: Slack (chat client)
-            url: slack/
+            url: tools/slack/
             internal: true
           - text: Zoom (video conferencing)
             url: zoom/

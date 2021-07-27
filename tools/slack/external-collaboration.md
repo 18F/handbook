@@ -55,7 +55,7 @@ Use [**Slack Connect**](https://slack.com/help/articles/115004151203-Guide-to-sh
 - The history shows up in searches of their Slack workspace
 - It saves TTS money
 
-The contents of shared channels are treated the same as normal channels — see [rules](../rules/) and [records](../records/).
+The contents of shared channels are treated the same as normal channels — see [rules](../getting-started/) and [records](../records/).
 
 ## The public
 
