@@ -2,6 +2,8 @@
 title: Slack guidelines
 questions:
   - admins-slack
+redirect_from:
+  - /tools/slack/rules/
 ---
 
 [_Back to Slack page_](../)
