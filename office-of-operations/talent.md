@@ -1,5 +1,7 @@
 ---
 title: Talent
+redirect_from:
+  - /talent/
 ---
 
 TTS Talent attracts the most passionate, talented individuals from across the public and private sectors, offering them unique professional development opportunities, top-notch customer service, and fulfilling, impactful work that transforms how the public interacts with the government.

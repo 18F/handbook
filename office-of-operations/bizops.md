@@ -1,5 +1,7 @@
 ---
 title: Business Operations Division
+redirect_from:
+  - /bizops/
 ---
 
 The Business Operations Division leads the day to day operations of the organization and delivers on the TTS strategy and
@@ -59,7 +61,7 @@ incredible candidate experience from the first time a candidate sees a job posti
 ### Talent Areas of Focus
 
 - [Hiring]({{site.baseurl}}/hiring/)
-  - [Refer someone]({{site.baseurl}}/talent/#referring-a-person)
+  - [Refer someone]({{site.baseurl}}/office-of-operations/talent/#referring-a-person)
 - [Promotions]({{site.baseurl}}/promotions/)
 - [Internal Competitions]({{site.baseurl}}/ttsjobs/)
 - [Onboarding]({{site.baseurl}}/tts-classes/)

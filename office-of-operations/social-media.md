@@ -3,6 +3,8 @@ title: Social media
 questions:
   - outreach
   - tts-outreach@gsa.gov
+redirect_from:
+  - /social-media/
 ---
 
 _Learn how TTS uses social media._

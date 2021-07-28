@@ -169,7 +169,7 @@ primary:
         url: resume/
         internal: true
       - text: Referring a person
-        url: talent/#referring-a-person
+        url: office-of-operations/talent/#referring-a-person
         internal: true
   - text: General information and resources
     href: /#general-information-and-resources
@@ -299,7 +299,7 @@ primary:
           - text: Business Operations
             children:
               - text: Overview of Business Operations
-                url: bizops/
+                url: office-of-operations/bizops/
                 internal: true
               - text: Agreements
                 url: agreements/
@@ -307,7 +307,7 @@ primary:
           - text: Talent team
             children:
               - text: Talent
-                url: talent/
+                url: office-of-operations/talent/
                 internal: true
               - text: Top Secret/Sensitive Compartmented Information (TS/SCI) Clearance
                 url: top-secret/
@@ -315,13 +315,13 @@ primary:
           - text: Outreach
             children:
               - text: Outreach
-                url: outreach/
+                url: office-of-operations/outreach/
                 internal: true
               - text: Social media
-                url: social-media/
+                url: office-of-operations/social-media/
                 internal: true
               - text: Blogging
-                url: blogging/
+                url: office-of-operations/blogging/
                 internal: true
       - text: TTS Office of Acquisition
         children:

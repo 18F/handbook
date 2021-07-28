@@ -14,7 +14,7 @@ See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-
 
 ## Channels
 
-- [#news](https://gsa-tts.slack.com/messages/news/) - [TTS-wide announcements]({{site.baseurl}}/outreach/#how-to-make-tts-wide-announcements)
+- [#news](https://gsa-tts.slack.com/messages/news/) - [TTS-wide announcements]({{site.baseurl}}/office-of-operations/outreach/#how-to-make-tts-wide-announcements)
 - Teams
   - 18F - [#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
   - [Solutions](https://gsa-tts.slack.com/messages/solutions/)

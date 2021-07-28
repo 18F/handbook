@@ -10,6 +10,8 @@ tag:
   - conference
   - conferences
   - guide
+redirect_from:
+  - /fas-speaker-guide/
 ---
 
 _This guide was created with content from the GSA's Office of Strategic Communications (OSC) [FAS Speaker Guide](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit?usp=sharing)._
