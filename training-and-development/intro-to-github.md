@@ -2,6 +2,8 @@
 title: Intro to GitHub
 tags:
   - github
+redirect_from:
+  - /intro-to-github/
 ---
 
 _This section provides a brief overview of GitHub. There are different sections provided for different functions in Github. Use the sections that are relevant to the work you will be doing._

@@ -4,6 +4,8 @@ tags:
   - development
   - training & development
   - training and development
+redirect_from:
+  - /details-professional-development/
 ---
 
 A detail is a temporary assignment from one position within the federal government to another, with the expectation that you will return to your official position upon completion.

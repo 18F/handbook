@@ -11,6 +11,8 @@ tags:
 questions:
   - people-ops
   - TTS-PeopleOps@gsa.gov
+redirect_from:
+  - /idp/
 ---
 
 An Individual Development Plan (IDPs) is a tool created in [Online University (OLU)](https://gsaolu.gsa.gov/) to help GSA employees enhance their professional skills so that they can better meet the evolving challenges of their job.
