@@ -70,11 +70,31 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "operations"
+      label: "Office of Operations"
+      label_singular: "Operations page"
+      nested: { depth: 4 }
+      folder: "office-of-operations/"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
     - name: "performance-management"
       label: "Performance management"
       label_singular: "Performance management page"
       nested: { depth: 4 }
       folder: "performance-management/"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "solutions"
+      label: "Office of Solutions"
+      label_singular: "Solutions page"
+      nested: { depth: 4 }
+      folder: "office-of-solutions/"
       create: true
       fields: 
         - {label: "Title", name: "title", widget: "string"}
