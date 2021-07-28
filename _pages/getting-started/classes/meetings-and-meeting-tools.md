@@ -3,11 +3,12 @@ title: Meetings and meeting tools
 questions:
   - it-issues
 ---
+
 Here are some of the tools TTS uses to facilitate meetings:
 
-* For scheduling, use [Google Calendar]({{site.baseurl}}/google-calendar/)
-* For notes, use [Google Docs]({{site.baseurl}}/google-drive/)
-* See also: [collaboration tools]({{site.baseurl}}/collaboration-tools/)
+- For scheduling, use [Google Calendar]({{site.baseurl}}/google-calendar/)
+- For notes, use [Google Docs]({{site.baseurl}}/google-drive/)
+- See also: [collaboration tools]({{site.baseurl}}/collaboration-tools/)
 
 ## Videoconferencing
 
@@ -23,8 +24,8 @@ The ones with dial-in options can be used without video (say, if video is blocke
 
 ### Common barriers to using these tools with partners
 
-* **IF** partners don’t have access to video/cameras, **THEN** use audio only with screen-sharing.
-* **IF** blocked by firewall/security issues, **THEN** see if they have access to a different tool. See [using partners’ tools]({{site.baseurl}}/collaboration-tools/#using-partners-tools).
+- **IF** partners don’t have access to video/cameras, **THEN** use audio only with screen-sharing.
+- **IF** blocked by firewall/security issues, **THEN** see if they have access to a different tool. See [using partners’ tools]({{site.baseurl}}/collaboration-tools/#using-partners-tools).
 
 ### Connectivity issues
 
@@ -32,12 +33,13 @@ If you are having connectivity issues when videoconferencing, try:
 
 1. Adjusting video quality settings
 
-   * [Meet](https://support.google.com/a/users/answer/9302964#adjust-video-quality)
-   * [Zoom](https://support.zoom.us/hc/en-us/articles/201362623-Changing-settings-in-the-desktop-client-or-mobile-app)
+   - [Meet](https://support.google.com/a/users/answer/9302964#adjust-video-quality)
+   - [Zoom](https://support.zoom.us/hc/en-us/articles/201362623-Changing-settings-in-the-desktop-client-or-mobile-app)
+
 2. Turning off video
 3. Dialing in
 4. Switching to a different tool
 
 ## Compliance with GSA policies
 
-Our agency maintains a formal [meeting, conference, and event policy](https://www.gsa.gov/portal/mediaId/205471/fileName/OAS_57851_Conference_and_Event_Management_(Signed_on_January_28__2015).action). The most applicable part of this policy for TTS is the approval requirement for internal meetings that *require the travel of more than six employees or will cost more than $10,000.* For these meetings, approval of both the Commissioner of the Technology Transformation Service and the Deputy Administrator of GSA via the [Salesforce Event Tracker](https://gsa.my.salesforce.com/a1b/o) system. For further information and help getting your request submitted, go to the [\#training-conferences](https://gsa-tts.slack.com/messages/training-conferences) Slack channel.
+Our agency maintains a formal [meeting, conference, and event policy](<https://www.gsa.gov/portal/mediaId/205471/fileName/OAS_57851_Conference_and_Event_Management_(Signed_on_January_28__2015).action>). The most applicable part of this policy for TTS is the approval requirement for internal meetings that _require the travel of more than six employees or will cost more than $10,000._ For these meetings, approval of both the Commissioner of the Technology Transformation Service and the Deputy Administrator of GSA via the [Salesforce Event Tracker](https://gsa.my.salesforce.com/a1b/o) system. For further information and help getting your request submitted, go to the [\#training-conferences](https://gsa-tts.slack.com/messages/training-conferences) Slack channel.
