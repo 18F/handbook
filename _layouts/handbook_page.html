@@ -5,11 +5,11 @@ layout: page
 <!-- 
 We don't want to mislead users by putting a 'Last modified on' stamp on the
 homepage. All other pages should have it, though.
+
+Moreover, if the last_changed_at property for a page is set, then use it.
+Otherwise, rely on the automatically-generated last_modified_at property.
 --!>
 {% unless page.homepage %}
-<!-->
-If the page has the last_changed_at property manually set, then use it.
---!>
 {% if page.last_changed_at %}
 <i>Last modified on {{ page.last_changed_at | date: '%B %d, %Y'}}</i>
 {% else %}
