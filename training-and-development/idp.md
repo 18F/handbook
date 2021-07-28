@@ -40,7 +40,7 @@ An Individual Development Plan (IDPs) is a tool created in [Online University (O
 
 An IDP is no longer required for requests, but an SF-182 is required for most conference, event, and training requests that have a cost.
 
-For more information on the SF-182 process, head over to the [Conferences, events, and training handbook page]({{site.baseurl}}/conferences-events-training/#creating-an-sf-182-required-for-most-conference-event-and-training-requests-that-have-a-cost).
+For more information on the SF-182 process, head over to the [Conferences, events, and training handbook page]({{site.baseurl}}/training-and-development/conferences-events-training/#creating-an-sf-182-required-for-most-conference-event-and-training-requests-that-have-a-cost).
 
 ## More resources
 
