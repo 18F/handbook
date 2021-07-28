@@ -2,6 +2,7 @@
 theme: uswds-jekyll
 title: TTS Handbook
 description: The Technology Transformation Services Handbook is an open, crowd-sourced, accessible, and living resource that aims to provide the information our team needs to do their work.
+timezone: America/New_York
 
 github_info:
   organization: 18F

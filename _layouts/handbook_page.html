@@ -7,7 +7,14 @@ We don't want to mislead users by putting a 'Last modified on' stamp on the
 homepage. All other pages should have it, though.
 --!>
 {% unless page.homepage %}
+<!-->
+If the page has the last_changed_at property manually set, then use it.
+--!>
+{% if page.last_changed_at %}
+<i>Last modified on {{ page.last_changed_at | date: '%B %d, %Y'}}</i>
+{% else %}
 <i>Last modified on {{ page.last_modified_at | date: '%B %d, %Y'}}</i>
+{% endif %}
 {% endunless %}
 
 {% include page-outdated.html %} 
