@@ -20,7 +20,7 @@ You can access your email from <https://mail.google.com> or <https://email.gsa.g
 
   ![addressbar]({{site.baseurl}}/images/chrome_address_bar.png)
 
-  You can read more about Chrome's protocol handlers at [The Complete Guide to Google Chrome Handlers](https://www.ashout.com/complete-guide-to-google-chrome-handlers/)
+  You can read more about Chrome's protocol handlers at [The Complete Guide to Google Chrome Handlers](https://www.ashout.com/complete-guide-to-google-chrome-handlers/).
 
 - **If you go by a different name**
 
