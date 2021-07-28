@@ -326,7 +326,10 @@ primary:
       - text: TTS Office of Acquisition
         children:
           - text: Overview of OA
-            url: oa/
+            url: office-of-acquisition/
+            internal: true
+          - text: Roles and Responsibilities
+            url: office-of-acquisition/roles-and-responsibilities
             internal: true
           - text: Contractors
             url: contractors/

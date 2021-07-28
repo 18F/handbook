@@ -43,6 +43,15 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "acquisition"
+      label: "Office of Acquisition"
+      label_singular: "Acquisition page"
+      folder: "office-of-acquisition/"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
     - name: "centers-of-excellence"
       label: "Centers of Excellence"
       label_singular: "CoE page"
@@ -52,7 +61,6 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
- 
     - name: "launching-software"
       label: "Launching software"
       label_singular: "Launching software page"

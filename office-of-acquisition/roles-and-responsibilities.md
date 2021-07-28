@@ -2,6 +2,8 @@
 title: TTS Office of Acquisition Team Roles & Responsibilities
 questions:
   - tts-oa
+redirect_from:
+  - /tts-office-of-acquisition-team-roles-and-responsibilities/
 ---
 
 Members of the TTS Office of Acquisition can serve in a variety of different roles. This document is designed to provide information on what to expect from each role within TTS’s Office of Acquisition team. Not all of these positions will be included on each procurement.

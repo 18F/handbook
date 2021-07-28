@@ -2,6 +2,8 @@
 title: Management Reviews of Procurement Actions
 questions:
   - tts-oa
+redirect_from:
+  - /management-reviews-of-procurement-actions/
 ---
 
 STANDARD OPERATING PROCEDURE: TC-18-CS1-001

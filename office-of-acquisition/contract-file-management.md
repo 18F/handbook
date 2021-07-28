@@ -2,6 +2,8 @@
 title: Contract File Management
 questions:
   - tts-oa
+redirect_from:
+  - /contract-file-management/
 ---
 
 STANDARD OPERATING PROCEDURE: TC-17-CS4-001
