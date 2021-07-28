@@ -2,7 +2,9 @@
 title: TTS Technology Portfolio
 redirect_from:
   - /infrastructure/
+  - /tech-portfolio/
 questions:
+  - tts-tech-portfolio
   - infrastructure
   - devops@gsa.gov
 ---

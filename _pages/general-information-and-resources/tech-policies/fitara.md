@@ -70,4 +70,4 @@ TTS issued policy effective February 28, 2017, implementing the policy and proce
 
 #### Still have questions?
 
-[Ask the Tech Portfolio.]({{site.baseurl}}/tech-portfolio/#questions)
+[Ask the Tech Portfolio.]({{site.baseurl}}/office-of-solutions/tech-portfolio/#questions)

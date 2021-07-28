@@ -2,6 +2,7 @@
 title: A Brief History of TTS Solutions
 redirect_from:
   - /opp-history/
+  - /solutions-history/
 questions:
   - solutions
 ---

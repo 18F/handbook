@@ -1,5 +1,7 @@
 ---
 title: Public Experience Portfolio (USAGov)
+redirect_from:
+  - /public-experience-portfolio/
 ---
 
 ## Our Mission
