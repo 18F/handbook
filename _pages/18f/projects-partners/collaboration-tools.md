@@ -49,20 +49,7 @@ Here are some common barriers to using Slack with partners and workarounds to tr
 
 ### Video conferencing
 
-Video conferencing tools enable staff all over the country to video chat and screenshare in remote meetings. We've found that video calls help teams stay connected and are easier to manage than conference calls for large groups. [Options.]({{site.baseurl}}/meetings-and-meeting-tools/#videoconferencing)
-
-<details markdown="block">
-<summary>Compliance and records considerations</summary>
-
-- [Zoom for Government has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/zoom-for-government)
-- [Google G Suite has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/google-g-suite)
-- Recordings of meetings are records and should be treated as such.
-</details>
-
-Here are some common barriers to using these tools with partners and some workarounds to try:
-
-- **IF** partners don't have access to video/cameras, **THEN** use audio only with screen-sharing.
-- **IF** blocked by firewall/security issues, **THEN** see if they have access to a different tool. See [using partners' tools](#using-partners-tools).
+See [meetings and meeting tools]({{site.baseurl}}/meetings-and-meeting-tools/#videoconferencing).
 
 ### Sharing files
 
