@@ -15,7 +15,7 @@ You can access your email from <https://mail.google.com> or <https://email.gsa.g
 - **Enable clickable `mailto:` links in Chrome**:
 
   1. Navigate to your inbox, https://mail.google.com/mail/u/0/#inbox, and click on the interlocking diamonds icon on the right in your address bar.
-  2. In the dialog, _Allow mail.google.com to open all email links_
+  2. In the dialog, _Allow mail.google.com to open all email links._
   3. Then click _Done_, as show below:
 
   ![addressbar]({{site.baseurl}}/images/chrome_address_bar.png)
