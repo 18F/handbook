@@ -1,15 +1,13 @@
-# This file represents the ownership schema for the TTS Handbook. At the moment,
-# only Markdown files are included, but other file types may be added in the
-# future.
-# TODO how should GitHub teams be created for ownership?
+# This file, in addition to specifying code ownership, represents the 
+# content ownership schema for the TTS Handbook. Teams "own" various pages 
+# in the Handbook, and thus they should be the ones to approve changes to 
+# their content.
 
 # Any changes to ownership should be approved by the Handbook owners.
 CODEOWNERS                                        @18F/handbook-owners
 
-# Every pull request to the Handbook should be seen by a member of the Tech
-# Portfolio. If it is a small change, then an approval from Tech Portfolio is
-# sufficient for merging. If the change is more structural, then an approval is
-# _required_ from the owning team, if applicable.
+# Every change that doesn't have a designated code owner should, by default,
+# be reviewed by one of the Handbook owners.
 *                                                 @18F/handbook-owners
 
 ##################################################
