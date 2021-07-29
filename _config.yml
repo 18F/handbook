@@ -41,7 +41,6 @@ url: "https://handbook.tts.gsa.gov"
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-last-modified-at
 
 # Google Analytics & DAP tracking code for handbook
 google_analytics_ua: UA-48605964-19
