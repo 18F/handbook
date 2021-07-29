@@ -99,6 +99,6 @@ For Windows, see [these instructions](https://insite.gsa.gov/employee-resources/
 Access to general office supplies varies based on your location — see our [office guides]({{site.baseurl}}/#tts-locations). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building). See also:
 
 - [Software]({{site.baseurl}}/software/)
-- [Computer peripherals]({{site.baseurl}}/equipment/#peripherals)
+- [Computer peripherals]({{site.baseurl}}/getting-started/equipment/#peripherals)
 
 If you need office supplies that aren’t available in your office, software, or need to make any other request for TTS to purchase, read on [here]({{site.baseurl}}/purchase-requests) for what to do next.

@@ -62,11 +62,11 @@ See the [**procedures to request admin rights**](https://docs.google.com/documen
 
 #### Prompts
 
-If you are getting a prompt to upgrade desktop software (`<software> wants to make changes`), try reinstalling the given piece of software through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service). If not available there or if not related to updating software, [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
+If you are getting a prompt to upgrade desktop software (`<software> wants to make changes`), try reinstalling the given piece of software through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service). If not available there or if not related to updating software, [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/gsa-internal-tools/#it-service-desk).
 
 ### XCode command line tools
 
-XCode command line tools can be installed or upgraded through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service). If already installed and up to date, it won't show up. Note this doesn't install the XCode application.
+XCode command line tools can be installed or upgraded through [Self Service]({{site.baseurl}}/getting-started/gsa-internal-tools/#self-service). If already installed and up to date, it won't show up. Note this doesn't install the XCode application.
 
 ## Phone
 
@@ -82,7 +82,7 @@ TTS employees are issued an Apple iPhone. The TTS Talent Team will already have 
 
 - After GSA IT provisions your phone, set up two-factor verification:
   - To get started, email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
-  - Once you have access to [HR Links]({{site.baseurl}}/gsa-internal-tools/#hr-links), you can update your contact information there. You'll find it under **Navigator > Self Service > Personal Information > Phone Number Change (USF)**; make sure to set the phone type as "Business Mobile" so it correctly populates GCIMS and works for 2FA.
+  - Once you have access to [HR Links]({{site.baseurl}}/getting-started/tts-classes/gsa-internal-tools/#hr-links), you can update your contact information there. You'll find it under **Navigator > Self Service > Personal Information > Phone Number Change (USF)**; make sure to set the phone type as "Business Mobile" so it correctly populates GCIMS and works for 2FA.
   - You can learn more about using your phone for two-factor authentication in our [Slack]({{site.baseurl}}/tools/slack), [GitHub]({{site.baseurl}}/github), and [Gmail]({{site.baseurl}}/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
 ### Tips
