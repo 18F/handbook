@@ -2,6 +2,8 @@
 title: Accessibility
 questions:
   - g-accessibility
+redirect_from:
+  - /accessibility/
 ---
 
 The federal government is accountable for making all of its products 508 compliant, which means everything we make (or buy) needs to be accessible to all users, regardless of their abilities or disabilities. This usually means making sure our products can be used with screen readers and alternate input devices, and that they’re logically easy to follow.

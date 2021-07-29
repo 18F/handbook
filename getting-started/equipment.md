@@ -3,6 +3,8 @@ title: Equipment
 questions:
   - equipment
   - tts-equipment@gsa.gov
+redirect_from:
+  - /equipment/
 ---
 
 GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Operations Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
@@ -60,11 +62,11 @@ See the [**procedures to request admin rights**](https://docs.google.com/documen
 
 #### Prompts
 
-If you are getting a prompt to upgrade desktop software (`<software> wants to make changes`), try reinstalling the given piece of software through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service). If not available there or if not related to updating software, [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
+If you are getting a prompt to upgrade desktop software (`<software> wants to make changes`), try reinstalling the given piece of software through [Self Service]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#self-service). If not available there or if not related to updating software, [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 
 ### XCode command line tools
 
-XCode command line tools can be installed or upgraded through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service). If already installed and up to date, it won't show up. Note this doesn't install the XCode application.
+XCode command line tools can be installed or upgraded through [Self Service]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#self-service). If already installed and up to date, it won't show up. Note this doesn't install the XCode application.
 
 ## Phone
 
@@ -80,7 +82,7 @@ TTS employees are issued an Apple iPhone. The TTS Talent Team will already have 
 
 - After GSA IT provisions your phone, set up two-factor verification:
   - To get started, email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile.
-  - Once you have access to [HR Links]({{site.baseurl}}/gsa-internal-tools/#hr-links), you can update your contact information there. You'll find it under **Navigator > Self Service > Personal Information > Phone Number Change (USF)**; make sure to set the phone type as "Business Mobile" so it correctly populates GCIMS and works for 2FA.
+  - Once you have access to [HR Links]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#hr-links), you can update your contact information there. You'll find it under **Navigator > Self Service > Personal Information > Phone Number Change (USF)**; make sure to set the phone type as "Business Mobile" so it correctly populates GCIMS and works for 2FA.
   - You can learn more about using your phone for two-factor authentication in our [Slack]({{site.baseurl}}/tools/slack), [GitHub]({{site.baseurl}}/github), and [Gmail]({{site.baseurl}}/gmail) guides. For two-factor authentication with this applications, you can use SMS, [Authy](https://www.authy.com/), or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
 ### Tips
@@ -88,14 +90,15 @@ TTS employees are issued an Apple iPhone. The TTS Talent Team will already have 
 - **You can use your phone to access your email.** You should be prompted to sign in with your ENT username and password. Note that the GSA IT Service Desk does not support this connection, so please do not ask them about it as they will reject your request.
 - **[You can tether to your laptop to iPhone](https://support.apple.com/en-us/HT204023)** for internet access when you're on the go.
 - If you can't send email with your new work iPhone, create a new email and check the From field. If it's a jumble of letters and numbers `@secure.mass360.com`, tap on it to change it to your `@gsa.gov` email address. Then go **Settings > Mail > Default Account > GSA Account** to switch the default address.
-- If you stop getting email on your phone and can't log into your account, [contact the Service Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk).
+- If you stop getting email on your phone and can't log into your account, [contact the Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 - To reduce waste, GSA IT will [disable mobile service for inactive accounts](https://insite.gsa.gov/portal/content/663074). The consumed minutes is the metric used to determine activity, so if you only use the phone for data, you'll still need to make an occasional call on your mobile phone to prevent the account from going inactive.
-- If you need help with your phone, [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
+- If you need help with your phone, [contact the GSA IT Service
+  Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 - For information on which mobile phones are available on GSA's current contract, employee discounts, voicemail setup, commonly used apps to install, mobile security, traveling with your smartphone, the GSA smartphone replacement process, and more, see [Mobile Devices](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/mobile-devices-phones-tablets).
 
 ## Software
 
-See the [software](../software/) page.
+See the [software]({{site.baseurl}}/software/) page.
 
 ## Peripherals
 
@@ -124,7 +127,7 @@ To purchase this type of equipment, attach a doctor's note. If you have question
 
 ## Repairs
 
-For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
+For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 
 ## Lost or stolen equipment
 
@@ -147,4 +150,4 @@ If your equipment is returned to you, it may have been tampered with and should 
 
 ## Requirements for passwords
 
-Read the guide on [setting and managing passwords](../password-requirements/).
+Read the guide on [setting and managing passwords]({{site.baseurl}}/password-requirements/).

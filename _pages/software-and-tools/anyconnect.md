@@ -10,4 +10,4 @@ To speed things up a bit, use a `GSA Access Card Login` (PIV login) configuratio
 
 #### Still have questions?
 
-[Contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}) or ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)
+[Contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk) or ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)

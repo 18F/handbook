@@ -34,25 +34,25 @@ primary:
       Here's what you probably want to know in your first weeks at TTS.
     children:
       - text: Welcome
-        url: welcome-letter/
+        url: getting-started/welcome-letter/
         internal: true
       - text: Getting Started at TTS
         url: getting-started/
         internal: true
       - text: TTS Classes for Onboarding
-        url: tts-classes/
+        url: getting-started/classes/
         internal: true
       - text: Logging in &amp; Networks
-        url: how-to-log-in/
+        url: getting-started/how-to-log-in/
         internal: true
       - text: Equipment
-        url: equipment/
+        url: getting-started/equipment/
         internal: true
       - text: Benefits
-        url: benefits/
+        url: getting-started/classes/benefits/
         internal: true
       - text: Travel 101
-        url: travel-101/
+        url: getting-started/classes/travel-101/
         internal: true
       - text: TTS Supervisor Guide
         url: https://docs.google.com/document/d/1QAivrwzf-FX2IN20XsZVeMsmXkCvZ5oE0Z9O68a3PeM/edit?ts=5ebd541a#heading=h.pxc6vhgwjmms

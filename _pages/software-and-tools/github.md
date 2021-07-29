@@ -13,7 +13,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 ## Setup
 
-GitHub is a web application, and you may be able to do all of your work within the [github.com](https://github.com) website. Optionally, you may also install [GitHub Desktop](https://desktop.github.com/) through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service).
+GitHub is a web application, and you may be able to do all of your work within the [github.com](https://github.com) website. Optionally, you may also install [GitHub Desktop](https://desktop.github.com/) through [Self Service]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#self-service).
 
 If you don't have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention]({{site.baseurl}}/records-management) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email.
 

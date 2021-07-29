@@ -25,7 +25,7 @@ tags:
 
 This page provides instructions for entering leave requests (also known as absence requests) in <a href="https://corporateapps.gsa.gov/hr-links/">HR Links</a> and information on the various types of leave.
 
-You can also see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express]({{site.baseurl}}/gsa-internal-tools/#employee-express).
+You can also see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#employee-express).
 
 ## Submitting leave in HR Links
 
@@ -289,7 +289,7 @@ Billable TTS employees taking planned leave should follow guidance to [Tock when
 
 [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock]({{ site.baseurl }}/tock), which is TTS' own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
 
-For more information on leave, see the [Benefits class](../benefits#leave) and the [GSA Tools and Equipment class](../gsa-internal-tools).
+For more information on leave, see the [Benefits class]({{site.baseurl}}/getting-started/classes/benefits/) and the [GSA Tools and Equipment class]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/).
 
 ## Transferring leave from another federal agency
 

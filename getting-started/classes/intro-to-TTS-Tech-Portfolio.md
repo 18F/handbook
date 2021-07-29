@@ -2,6 +2,8 @@
 title: Intro to TTS Tech Portfolio
 outdated: true
 redirect_to: /office-of-solutions/tech-portfolio/
+redirect_from:
+  - /intro-to-tts-tech-portfolio/
 ---
 
 This page provides an overview of the TTS Tech Portfolio team (formally known as the "Infrastructure" team).

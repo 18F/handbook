@@ -21,7 +21,7 @@ The following calendars are used for internal communication:
 
 - [18F Events](https://calendar.google.com/calendar/embed?src=gsa.gov_3rapmucstu32ma18da84el20ug%40group.calendar.google.com): Team-wide events, start dates, standups, and so on.
 - 18F Interviews: New hire interviews.
-- [18F Out of office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com): In addition to <em>officially</em> requesting time off in [HR Links]({{ site.baseurl }}/gsa-internal-tools/#hr-links), please also add an event on the Google calendar "18F Out of Office" and invite yourself, so we all know when you’re gone.
+- [18F Out of office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com): In addition to <em>officially</em> requesting time off in [HR Links]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#hr-links), please also add an event on the Google calendar "18F Out of Office" and invite yourself, so we all know when you’re gone.
 
 **Solutions also uses these shared calendars:**
 

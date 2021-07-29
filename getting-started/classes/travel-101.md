@@ -1,6 +1,8 @@
 ---
 title: TTS Travel 101
 travel_advisory: true
+redirect_from:
+  - /travel-101/
 ---
 
 ### Initial setup for travel

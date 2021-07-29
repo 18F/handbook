@@ -6,6 +6,7 @@ tags:
   - tts classes
 redirect_from:
   - /onboarding-schedule/
+  - /tts-classes/
 ---
 
 We’ve put together a curriculum of classes we encourage you to take during your [first 90 days]({{site.baseurl}}/getting-started/).
@@ -18,16 +19,16 @@ These classes will expose you to a variety of aspects of our organization, intro
 
 ## Curriculum
 
-This section provides an overview of each of the classes, broken into topics, followed by [a calendar]({{site.baseurl}}/tts-classes/#calendar) showing when classes are scheduled during each two-week cycle.
+This section provides an overview of each of the classes, broken into topics, followed by [a calendar]({{site.baseurl}}/getting-started/classes/#calendar) showing when classes are scheduled during each two-week cycle.
 
 ### Topics
 
-- [Our Values and Principles at TTS]({{site.baseurl}}/tts-classes/#our-values-and-principles-at-tts)
-- [Working in the Government]({{site.baseurl}}/tts-classes/#working-in-the-government)
-- [Background and Operations at TTS]({{site.baseurl}}/tts-classes/#background-and-operations-at-tts)
-- [Divisions of TTS]({{site.baseurl}}/tts-classes/#divisions-of-tts)
-- [Online Learning University (OLU) Mandatory Training]({{site.baseurl}}/tts-classes/#online-learning-university-olu-mandatory-training)
-- [Methods, Tidbits, and Case Studies]({{site.baseurl}}/tts-classes/#methods-tidbits-and-case-studies)
+- [Our Values and Principles at TTS]({{site.baseurl}}/getting-started/classes/#our-values-and-principles-at-tts)
+- [Working in the Government]({{site.baseurl}}/getting-started/classes/#working-in-the-government)
+- [Background and Operations at TTS]({{site.baseurl}}/getting-started/classes/#background-and-operations-at-tts)
+- [Divisions of TTS]({{site.baseurl}}/getting-started/classes/#divisions-of-tts)
+- [Online Learning University (OLU) Mandatory Training]({{site.baseurl}}/getting-started/classes/#online-learning-university-olu-mandatory-training)
+- [Methods, Tidbits, and Case Studies]({{site.baseurl}}/getting-started/classes/#methods-tidbits-and-case-studies)
 
 ### Class Formats
 

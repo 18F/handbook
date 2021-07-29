@@ -3,6 +3,8 @@ title: Welcome to TTS
 tags:
   - welcome
   - letter
+redirect_from:
+  - /welcome-letter/
 ---
 
 You’ve just joined a remarkable group of people doing inspiring work.
