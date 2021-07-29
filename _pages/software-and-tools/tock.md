@@ -14,7 +14,7 @@ questions:
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
 - **Out of Office - #670:** Vacation time, federal holidays, or sick time
 - **18F Project work - project ID varies:** The specific projects you're working on.
-- **(Coming Soon!) 18F Engagement Management - project ID varies:** This code is used for non-primary project team members (i.e. staffing leads, supervisors, etc.) who are participating in staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, etc.
+- **18F Engagement Management - project ID varies:** This code is used for non-primary project team members for any support given to the project, including staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, meeting to share information and lessons learned from other projects, etc.
 
 **Cloud.gov**
 
