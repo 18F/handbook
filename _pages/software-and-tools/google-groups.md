@@ -43,5 +43,4 @@ To allow email from any non-members on the web, go to your [Google Group][my-gro
 - While you can receive emails via the Google Group, be aware that your response will come from your main email account. If you're an admin for the group, however, you can select the group address when you are composing a response.
 - You can subscribe to Google Groups with the following RSS feed URL: `https://groups.google.com/forum/feed/<GROUP_NAME>/msgs/rss.xml`
 
-
 [my-groups]: https://groups.google.com/my-groups
