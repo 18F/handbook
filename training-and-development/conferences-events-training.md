@@ -72,8 +72,9 @@ The automated email that you will receive outlines the step(s) below that you wi
 2. Once you have generated the SF-182, you will need to enter the routing approval queue.
    - Your **supervisor’s name will auto-populate** in the first approver field. Please verify who the system chose by selecting “Show All” next to “Manager Level 1” in the approvers column.
      - If the supervisor needs to be modified, you will have to email [HRlinks@gsa.gov](mailto:HRlinks@gsa.gov) to edit this locked field on the SF-182.
-   - Next, search and insert **Steven J Williams** for the “Budget Verifier/Appropriator” column.
-   - Finally, you will add **Djemila McCray** as your “Purchaser/Purchase Card Holder” and then submit the SF-182 for approval.
+   - For **Budget Verifier/Appropriator**, click 'Select User for Approval' then search for and select **stevenj.williams@gsa.gov**
+   - For **Purchaser/Purchase Card Holder**, click 'Select User for Approval' then search for and select **djemila.mccray@gsa.gov**
+   - Submit the SF-182 for approval.
 3. Once approved, save a PDF copy of your SF-182.
    - Click the “Printable Version” link at the top of the SF-182, then click “Print this request” to save as a PDF.
 4. Email [tts-events@gsa.gov](mailto:tts-events@gsa.gov) with your SF-182 PDF attached.
