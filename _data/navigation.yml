@@ -60,25 +60,25 @@ primary:
       Classes, coaching and ongoing professional development
     children:
       - text: Coaching, mentoring and professional development
-        url: development-and-training/
+        url: training-and-development/
         internal: true
       - text: Conferences and events
-        url: conferences-events-training/
+        url: training-and-development/conferences-events-training/
         internal: true
       - text: Detailing for professional growth
-        url: details-professional-development/
+        url: training-and-development/details-professional-development/
         internal: true
       - text: GitHub 101
-        url: intro-to-github/
+        url: training-and-development/intro-to-github/
         internal: true
       - text: Individual development plans
-        url: idp/
+        url: training-and-development/idp/
         internal: true
       - text: Online Learning University (OLU)
-        url: olu/
+        url: training-and-development/olu/
         internal: true
       - text: Working groups, Guilds, Communities of Practice and mailing lists
-        url: working-groups-and-guilds-101/
+        url: training-and-development/working-groups-and-guilds-101/
         internal: true
   - text: Travel and leave
     href: /#travel-and-leave

@@ -8,6 +8,8 @@ tags:
   - development and training
   - training & development
   - training and development
+redirect_from:
+  - /development-and-training/
 ---
 
 There are many development and training opportunities within GSA that are available to TTS employees.

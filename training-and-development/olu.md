@@ -4,6 +4,8 @@ tags:
   - classes
   - training
   - mandatory
+redirect_from:
+  - /olu/
 ---
 
 The GSA [Online University (OLU)](https://gsaolu.gsa.gov/) is the home for mandatory trainings, as well as a repository of recommended and optional training opportunities, for GSA employees.

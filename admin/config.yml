@@ -90,3 +90,13 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "training-and-development"
+      label: "Training and development"
+      label_singular: "Training and development page"
+      folder: "training-and-development/"
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+ 

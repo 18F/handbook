@@ -2,6 +2,7 @@
 title: Working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
+  - /working-groups-and-guilds-101/
 ---
 
 TTS has a collection of communities to help develop best practices, provide training, explore new ideas,and help solve thorny issues.
