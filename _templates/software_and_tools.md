@@ -1,3 +1,10 @@
+---
+title: Software or tool name
+questions:
+  -  #infrastructure
+# -  #tool (sometimes a software or tool may have its own channel)
+---
+
 ## Purpose
 
 What do we use this tool for at TTS?
