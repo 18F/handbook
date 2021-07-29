@@ -4,7 +4,7 @@ questions:
   - it-issues
 ---
 
-We use Google Groups to manage team and interest-based email distribution lists and listservs. A list of listservs and groups TTS uses is [here]({{site.baseurl}}/working-groups-and-guilds-101/).
+We use Google Groups to manage team and interest-based email distribution lists and listservs. A list of listservs and groups TTS uses is [here]({{site.baseurl}}/working-groups-and-guilds-101/). Digital.gov also maintains a list of [government Communities of Practice](https://digital.gov/communities/).
 
 ## Create a Google Group
 
@@ -12,14 +12,35 @@ See [the instructions in the GSA Knowledge Base](https://gsa.servicenowservices.
 
 ## Manage a Google Group
 
-To find the groups that you are in and manage any groups where you are an admin, visit [My Groups](https://groups.google.com/a/gsa.gov/forum/#!myforums).
+To find the groups that you are in and manage any groups where you are an admin, visit [My Groups][my-groups].
+
+## How are GSA Google Groups different than regular Google Groups?
+
+GSA Google Groups work a little differently than regular Google Groups.
+
+People outside GSA can't access GSA Google Groups via the Google Groups website, but can still receive email if added to the group directly. Similarly, you can't access public Google Groups via the Google Groups website with your GSA email, but you can still receive email if added to the group directly.
+
+If you're using the group with non-GSA folks, you're probably better off using a [listserv instead](https://listserv.gsa.gov/). If a non-GSA public group already exists, it might be better to join that group instead.
+
+## How do I configure my GSA Google Group for non-GSA users?
+
+To adjust group permissions so non-GSA people can join your Google Group, click on your [Google Group][my-groups], then click "Group settings" on the left navigation. Enable or select these options:
+
+- People outside the organization can be members (ON)
+- Allow email posting
+
+To invite non-GSA folks to your group, use **add** instead of **invite**. You will need to manage their settings on their behalf e.g. to receive daily digests.
+
+## How can the group receive email from anyone on the web?
+
+To allow email from any non-members on the web, go to your [Google Group][my-groups] and select "Group settings" on the left navigation. Enable these settings:
+
+- Who can post (Anyone on the web)
+- Allow email posting
 
 ## Tips
 
-- You can't access public Google groups via the Google Groups website, but group owners can directly add your address to send and receive public group emails.
-
 - While you can receive emails via the Google Group, be aware that your response will come from your main email account. If you're an admin for the group, however, you can select the group address when you are composing a response.
+- You can subscribe to Google Groups with the following RSS feed URL: `https://groups.google.com/forum/feed/<GROUP_NAME>/msgs/rss.xml`
 
-- People outside GSA can't access GSA Google groups via the Google Groups website, but email still works depending on the permissions. To adjust those permissions so non-GSA people can email your listserv, click on your listserv, then the "Settings" gear. Then "Group Settings." On the left menu of that screen, go to "Permissions" then "Basic Permissions." Click the dropdown box labeled "Post" and select "Public." Save your changes.
-
-You can subscribe to Google Groups with the following RSS feed URL: `https://groups.google.com/forum/feed/<GROUP_NAME>/msgs/rss.xml`
+[my-groups]: https://groups.google.com/my-groups
