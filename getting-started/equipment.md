@@ -62,11 +62,11 @@ See the [**procedures to request admin rights**](https://docs.google.com/documen
 
 #### Prompts
 
-If you are getting a prompt to upgrade desktop software (`<software> wants to make changes`), try reinstalling the given piece of software through [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service). If not available there or if not related to updating software, [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/gsa-internal-tools/#it-service-desk).
+If you are getting a prompt to upgrade desktop software (`<software> wants to make changes`), try reinstalling the given piece of software through [Self Service]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#self-service). If not available there or if not related to updating software, [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 
 ### XCode command line tools
 
-XCode command line tools can be installed or upgraded through [Self Service]({{site.baseurl}}/getting-started/gsa-internal-tools/#self-service). If already installed and up to date, it won't show up. Note this doesn't install the XCode application.
+XCode command line tools can be installed or upgraded through [Self Service]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#self-service). If already installed and up to date, it won't show up. Note this doesn't install the XCode application.
 
 ## Phone
 
@@ -127,7 +127,7 @@ To purchase this type of equipment, attach a doctor's note. If you have question
 
 ## Repairs
 
-For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{ "/gsa-internal-tools/#it-service-desk" | relative_url }}).
+For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 
 ## Lost or stolen equipment
 

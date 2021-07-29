@@ -128,5 +128,5 @@ And yes, you should totally feel free to dye your hair in rainbow colors and roc
 
 - Join the [#nyc](https://gsa-tts.slack.com/messages/nyc/) channel in Slack.
 - Ask to be added to the [TTS NYC Google Group](https://groups.google.com/a/gsa.gov/g/TTS-nyc).
-- If you are an NYC resident, confirm that [local tax](https://www.tax.ny.gov/pit/file/tax_tables.htm) is being withheld from [your paycheck]({{site.baseurl}}/gsa-internal-tools/#employee-express).
+- If you are an NYC resident, confirm that [local tax](https://www.tax.ny.gov/pit/file/tax_tables.htm) is being withheld from [your paycheck]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#employee-express).
   - If not, contact kc-payroll.finance@gsa.gov
