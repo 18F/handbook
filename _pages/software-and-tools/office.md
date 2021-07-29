@@ -15,4 +15,4 @@ If you only need Office temporarily, you can access it right away through [VDI](
 
 ## Questions?
 
-Ask the [Service Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk).
+Ask the [Service Desk]({{site.baseurl}}/getting-started/gsa-internal-tools/#it-service-desk).

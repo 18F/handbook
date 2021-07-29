@@ -97,7 +97,7 @@ TTS employees are issued an Apple iPhone. The TTS Talent Team will already have 
 
 ## Software
 
-See the [software](../software/) page.
+See the [software]({{site.baseurl}}/software/) page.
 
 ## Peripherals
 
@@ -149,4 +149,4 @@ If your equipment is returned to you, it may have been tampered with and should 
 
 ## Requirements for passwords
 
-Read the guide on [setting and managing passwords](../password-requirements/).
+Read the guide on [setting and managing passwords]({{site.baseurl}}/password-requirements/).

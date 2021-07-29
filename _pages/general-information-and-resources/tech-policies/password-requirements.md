@@ -12,7 +12,7 @@ As you set up your TTS accounts and devices, we have three requirements for maki
 
 ### 1. Use a password manager
 
-There's a secret to dealing with passwords: use a password manager to store your passwords. This way, you only need to memorize a few strong passwords: your master password for the password manager, your laptop password and phone passcode, and maybe a few others (such as your iCloud password if that's [your recovery method for forgetting your laptop password]({{site.baseurl}}/equipment/#laptop)).
+There's a secret to dealing with passwords: use a password manager to store your passwords. This way, you only need to memorize a few strong passwords: your master password for the password manager, your laptop password and phone passcode, and maybe a few others (such as your iCloud password if that's [your recovery method for forgetting your laptop password]({{site.baseurl}}/getting-started/equipment/#laptop)).
 
 Password managers approved for work at GSA:
 

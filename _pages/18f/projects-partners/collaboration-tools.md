@@ -49,7 +49,7 @@ Here are some common barriers to using Slack with partners and workarounds to tr
 
 ### Video conferencing
 
-See [meetings and meeting tools]({{site.baseurl}}/meetings-and-meeting-tools/#videoconferencing).
+See [meetings and meeting tools]({{site.baseurl}}/getting-started/meetings-and-meeting-tools/#videoconferencing).
 
 ### Sharing files
 

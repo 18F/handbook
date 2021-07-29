@@ -67,11 +67,11 @@ If you get the folding kind of reader, it will appear to block the second USB-C 
 
 ### Issues
 
-If the card is lost, follow [these instructions]({{site.baseurl}}/equipment/#lost-or-stolen-equipment).
+If the card is lost, follow [these instructions]({{site.baseurl}}/getting-started/equipment/#lost-or-stolen-equipment).
 
 #### Card reader unreliable
 
-Everyone should have two readers (so they have a backup) --- [request a backup and/or replacement]({{site.baseurl}}/equipment/#peripherals) if you don't.
+Everyone should have two readers (so they have a backup) --- [request a backup and/or replacement]({{site.baseurl}}/getting-started/equipment/#peripherals) if you don't.
 
 #### "SmartCard certificate is not trusted" error
 
@@ -79,4 +79,4 @@ If this error message appears after a period of working, functional PIV login an
 
 #### Forgot your card
 
-Please [contact the Help Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk) and they will assist you by temporarily enabling your computer to use a username and password. This can be done remotely, as long as you are connected to the internet.
+Please [contact the Help Desk]({{site.baseurl}}/getting-started/gsa-internal-tools/#it-service-desk) and they will assist you by temporarily enabling your computer to use a username and password. This can be done remotely, as long as you are connected to the internet.
