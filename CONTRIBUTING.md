@@ -1,7 +1,6 @@
 ---
 title: Contributing to the Handbook
 permalink: /contributing/
-last_modified_at: 2021-07-23
 ---
 
 So you want to contribute to the Handbook? Great! We're glad you're here. This project is fully crowd-sourced, and thus its success hinges on whether people like you correct typos, update stale content, or make pages more readable.
