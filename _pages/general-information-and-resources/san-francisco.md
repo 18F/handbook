@@ -148,7 +148,7 @@ If you're a visitor arriving outside business hours, you'll need to arrange for 
 
 ### Book rooms for meetings?
 
-The SF office has small team rooms. You can book other conference rooms using [BookIt!]({{site.baseurl}}/getting-started/gsa-internal-tools/#bookit) Recommended rooms include Yuma and Carson City, because they are videoconference-friendly.
+The SF office has small team rooms. You can book other conference rooms using [BookIt!]({{site.baseurl}}/getting-started/tts-classes/gsa-internal-tools/#bookit) Recommended rooms include Yuma and Carson City, because they are videoconference-friendly.
 
 Wireless works well in the beautiful courtyard, so work outside for a change!
 

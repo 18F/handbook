@@ -48,7 +48,7 @@ In order to use video relay services in combination with video meeting tools lik
 1.  The individual’s Supervisor should [submit a software request](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b) on behalf of the individual. Individuals can also submit their own request, but it will then immediately get routed to their supervisor for approval.
     1. Pending the individual’s specific communication needs, in the software request Comments field, note that GSA IT should contact the individual for setup instructions by email, and not by phone.
 2.  Install the VRS software app. GSA IT will contact the individual for setup and installation.
-    1. Download Z5 app for mobile and/or desktop, which is GSA-approved. If Z5 cannot be downloaded or installed, [contact GSA IT]({{site.baseurl}}/gsa-internal-tools/#it-service-desk) to make it available in [Self Service]({{site.baseurl}}/gsa-internal-tools/#self-service).
+    1. Download Z5 app for mobile and/or desktop, which is GSA-approved. If Z5 cannot be downloaded or installed, [contact GSA IT]({{site.baseurl}}/getting-started/tts-classes/gsa-internal-tools/#it-service-desk) to make it available in [Self Service]({{site.baseurl}}/getting-started/tts-classes/gsa-internal-tools/#self-service).
     2. Create an account at Z5’s [Registration page](https://www.zvrs.com/registration/) and follow their instructions.
     3. After creating an account, you may need to wait for few days for the account to be activated. Also, a Z5 enterprise account manager may reach out to you to provide support, answer questions and verify contact info.
 
