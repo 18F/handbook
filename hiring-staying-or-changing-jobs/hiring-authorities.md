@@ -8,6 +8,8 @@ tags:
 questions:
   - hiring
   - joinTTS@gsa.gov
+redirect_from:
+  - /hiring-authorities/
 ---
 
 There are several different hiring paths within the federal government. We have a side-by-side comparison chart of [Hiring Methods](https://docs.google.com/spreadsheets/d/1ysL0lcrXzpvgCmiz6lhAZlggEVbMPr727hR1V6gs7Jk/edit#gid=0) we use at TTS. Below is a brief overview.

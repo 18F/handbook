@@ -2,6 +2,8 @@
 title: Term extensions
 questions:
   - people-ops
+redirect_from:
+  - /term-extensions/
 ---
 
 Many TTS employees are hired on term appointments for a maximum of four or eight years. However, term appointments need to be renewed every two years.
