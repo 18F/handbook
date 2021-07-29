@@ -64,4 +64,4 @@ To learn how to connect to the GSA network on campus and remotely, take a look a
 
 #### Still have questions?
 
-Ask the [Service Desk]({{site.baseurl}}/gsa-internal-tools/#it-service-desk).
+Ask the [Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).

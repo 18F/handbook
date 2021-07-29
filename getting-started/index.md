@@ -20,7 +20,7 @@ communicate at all. This can be very frustrating, even for new employees who hav
 federal agencies!
 
 To help you get past that frustration and contributing as quickly as possible,
-we try to cover all the bases in [your TTS Classes for Onboarding]({{site.baseurl}}/tts-classes/).
+we try to cover all the bases in [your TTS Classes for Onboarding]({{site.baseurl}}/getting-started/classes/).
 But we also recognize those are a firehose of information and a lot of stuff won't make much sense right now.
 
 So, here's a guide to help you focus your onboarding efforts and work through some technical tasks that
@@ -31,7 +31,7 @@ Pretty soon you'll be the veteran around here, helping someone else learn these 
 ## Getting started
 
 Within your first week or two you should be working through your onboarding checklist,
-[TTS Classes for Onboarding]({{site.baseurl}}/tts-classes/) and any
+[TTS Classes for Onboarding]({{site.baseurl}}/getting-started/classes/) and any
 [OLU training](https://gsaolu.gsa.gov) that's been assigned. If you're not, go take a look at those first.
 
 As you try to understand [TTS and what it's about]({{site.baseurl}}/tts-history/),

@@ -79,4 +79,4 @@ If this error message appears after a period of working, functional PIV login an
 
 #### Forgot your card
 
-Please [contact the Help Desk]({{site.baseurl}}/getting-started/gsa-internal-tools/#it-service-desk) and they will assist you by temporarily enabling your computer to use a username and password. This can be done remotely, as long as you are connected to the internet.
+Please [contact the Help Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk) and they will assist you by temporarily enabling your computer to use a username and password. This can be done remotely, as long as you are connected to the internet.
