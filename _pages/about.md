@@ -2,7 +2,6 @@
 title: About the TTS Handbook
 questions:
   - tts-handbook
-last_modified_at: 2021-07-27
 ---
 
 {% capture alert_content %}

@@ -1,7 +1,6 @@
 ---
 title: Contributing to the Handbook
 permalink: /contributing/
-last_modified_at: 2021-07-23
 ---
 
 So you want to contribute to the Handbook? Great! We're glad you're here. This project is fully crowd-sourced, and thus its success hinges on whether people like you correct typos, update stale content, or make pages more readable.
@@ -116,26 +115,6 @@ Markdown files. If code is pushed to GitHub and is not well-formatted via
 Prettier, it will automatically be fixed by a bot; you have the option to run
 Prettier locally before pushing to avoid this extra commit, but it is not
 required.
-
-### Last-modified-at
-
-At the top of every page, you will see a "Last modified on \[DATE]." This date is
-supposed to indicate when a page last underwent _significant_ changes that
-render it up-to-date. By itself, though, the feature is
-automated and thus naive: it simply looks at the last time the corresponding file was touched -- be that a typo fix, moving around content, or even changing the file name.
-
-The main goal of this feature is to indicate when content might be outdated, and
-to proceed with caution. By default, we should prefer to manually set or update the
-`last_modified_at` field in the front matter of a Handbook page if large changes
-are made. We do this
-to avoid giving people false confidence that a page is up-to-date. Example:
-
-```
----
-title: Contributing to the Handbook
-last_modified_at: 2021-07-23
----
-```
 
 ### Fork or branch?
 
