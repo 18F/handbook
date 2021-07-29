@@ -1,5 +1,7 @@
 ---
 title: Benefits
+redirect_from:
+  - /benefits/
 ---
 
 **If you're looking for specific benefits sites, see the [benefits links page]({{site.baseurl}}/benefits-links/).**

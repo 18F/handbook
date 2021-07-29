@@ -3,6 +3,8 @@ title: GSA internal tools
 questions:
   - people-ops
   - it-issues
+redirect_from:
+  - /gsa-internal-tools/
 ---
 
 _This post provides information on how to work with GSA's web tools and your GSA-issued equipment._

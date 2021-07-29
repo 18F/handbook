@@ -1,5 +1,7 @@
 ---
 title: PIV card
+redirect_from:
+  - /piv/
 ---
 
 _a.k.a. your "Smart Card" or "GSA badge"._

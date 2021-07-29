@@ -7,6 +7,8 @@ tags:
   - login
   - access
   - networks
+redirect_from:
+  - /how-to-log-in/
 ---
 
 This content provides best practices for logging into your various government accounts and apps.

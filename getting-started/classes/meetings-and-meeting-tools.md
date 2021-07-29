@@ -2,6 +2,8 @@
 title: Meetings and meeting tools
 questions:
   - it-issues
+redirect_from:
+  - /meetings-and-meeting-tools/
 ---
 
 Here are some of the tools TTS uses to facilitate meetings:

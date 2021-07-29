@@ -6,6 +6,7 @@ tags:
   - tts classes
 redirect_from:
   - /onboarding-schedule/
+  - /tts-classes/
 ---
 
 We’ve put together a curriculum of classes we encourage you to take during your [first 90 days]({{site.baseurl}}/getting-started/).
