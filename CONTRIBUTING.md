@@ -38,6 +38,14 @@ There is also some information that should **not** be included in the Handbook:
   - Information that is already well-covered on GSA InSite - link there instead of reproducing it
   - Specific TTS org chart info (such as lists of names of supervisors and facilitators). Link to the [TTS org chart](https://handbook.tts.gsa.gov/tts-org-chart/), the internal [18F org chart](https://handbook.tts.gsa.gov/org-chart/), or the internal [Office of Solutions org chart](https://handbook.tts.gsa.gov/opp-org-chart/) instead
 
+{% capture alert_content %}
+If you plan on creating a new Handbook page, first check out the [page
+templates](https://github.com/18F/handbook/tree/main/_templates). If the type of
+content you're creating -- for example, if you're documenting a new tool -- has
+a template, then please use it to write your new page.
+{% endcapture %}
+{% include alert.html heading="Creating a new page?" content=alert_content %}
+
 Now, assuming you've identified what you want to contribute -- if you haven't, check out the Handbook's [open issues](https://github.com/18F/handbook/issues) -- let's talk about the mechanism by which you'll contribute: NetlifyCMS or Git.
 
 ## Contributing via NetlifyCMS (Experimental)
