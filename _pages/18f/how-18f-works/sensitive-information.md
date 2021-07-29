@@ -61,13 +61,13 @@ process]({{site.baseurl}}/security-incidents/).
 
 See [reporting other incidents]({{site.baseurl}}/security-incidents/#reporting-other-incidents).
 
-## Tools
-
-TTS offers a few different tools for protecting sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
-
-### Code
+## Protecting TTS Systems
 
 Preventing the leak/exposure of secrets and sensitive information must always be our top priority. The [Engineering Guide](https://engineering.18f.gov/workflow/) has information on the best practices for protecting sensitive information in code and TTS systems.
+
+## Tools
+
+TTS offers a variety of tools for protecting sensitive information. As you learned in your Security Awareness and Privacy training in [GSA Online University (OLU)](https://gsaolu.gsa.gov), only share sensitive information with the people who absolutely need it and are authorized to see it.
 
 ### Google Drive
 
