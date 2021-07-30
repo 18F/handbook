@@ -33,8 +33,8 @@ There is no one way to craft a detail opportunity. However, it may be helpful to
 
 There is paperwork and approvals needed in order to go on detail. There are Handbook pages for the 3 most common scenarios:
 
-- [Details within TTS]({{site.baseurl}}/assignee-detail/#posting-an-internal-role)
+- [Details within TTS]({{site.baseurl}}/hiring-staying-or-changing-jobs/assignee-detail/#posting-an-internal-role)
 - [Details within GSA]({{site.baseurl}}/gsa-details/)
-- [Details to/from another agency]({{site.baseurl}}/external-details/#going-on-an-external-detail)
+- [Details to/from another agency]({{site.baseurl}}/hiring-staying-or-changing-jobs/external-details/#going-on-an-external-detail)
 
 GSA also has a policy on [Details to the Legislative Branch](https://www.gsa.gov/cdnstatic/HRM_9334.2_Detail_of_Employees_%28Posted_Version_-_Signed_on_-_7-8-2016%29_%23CC033627_%28Revised_3-7-2017%29.pdf).
