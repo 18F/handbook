@@ -5,6 +5,8 @@ questions:
   - tts-travel@gsa.gov
   - text: Book office hours
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
+redirect_from:
+  - /first-time-travel-get-in-concur-pre-olu/
 ---
 
 [TTS Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
@@ -34,7 +36,7 @@ Until you can [get a GSA travel card]({{site.baseurl}}/first-time-travel-travel-
 
 5. **Travel!** Be sure to keep your receipts. [Read more about travel]({{site.baseurl}}/travel-guide-2-travel).
 
-   [_What happens if my flight gets cancelled_]({{site.baseurl}}/first-time-travel-get-in-concur-pre-olu/#what-happens-if-my-flight-gets-cancelled)
+   [_What happens if my flight gets cancelled_]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur-pre-olu/#what-happens-if-my-flight-gets-cancelled)
 
 6. After you return, **create a voucher for reimbursement**:
 

@@ -1,5 +1,7 @@
 ---
 title: Updated Travel Guidance for GSA Employees (07/13/2021)
+redirect_from:
+  - /july-13-travel-guidance/
 ---
 
 GSA continues to adjust to the changing COVID-19 pandemic status. Effective immediately as of July 13, any requests for travel must be mission critical, time sensitive and required to perform essential duties. The employee’s authorizing official (AO) is responsible for making the determination if travel requests meet that threshold. Of note:

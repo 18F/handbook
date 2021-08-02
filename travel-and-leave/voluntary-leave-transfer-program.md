@@ -5,6 +5,8 @@ tags:
   - donation
   - transfer
   - leave
+redirect_from:
+  - /voluntary-leave-transfer-program/
 ---
 
 This page provides instructions for enrolling in and donating to the Voluntary Leave Transfer Program (VLTP). Please reference the [OPM VLTP page](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) for more information.
