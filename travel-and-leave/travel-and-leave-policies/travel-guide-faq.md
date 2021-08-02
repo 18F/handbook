@@ -82,7 +82,7 @@ If any part of the fare that you chose is nonrefundable, or exceeds the [City Pa
 6. Scroll to the bottom of this page and click **Next**. This message will pop up, prompting you to book a hotel.
    <img src="/images/travel/10-trip-details-bottom.png" class="travel-guide-hide" alt="pending reservation warning">
 
-By choosing **"I will book a hotel now."** you will be allowed to book your hotel directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile).
+By choosing **"I will book a hotel now."** you will be allowed to book your hotel directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-complete-concur-profile).
 
 ### Book lodging
 
@@ -277,7 +277,7 @@ Another common situation which arises when splitting travel across multiple proj
 
 #### How can I get my travel approved to attend a training, conference, speaking event, or other "IRL" or large team gathering\*?
 
-Instead of obtaining an email of approval, you must follow the [event request process]({{site.baseurl}}/conferences-events-training/). You may [book your travel]({{site.baseurl}}/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
+Instead of obtaining an email of approval, you must follow the [event request process]({{site.baseurl}}/conferences-events-training/). You may [book your travel]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
 <br>
 However, if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason, you must secure an email from your [authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) approving of the revised itinerary.
 

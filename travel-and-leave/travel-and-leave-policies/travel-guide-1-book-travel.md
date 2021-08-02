@@ -32,10 +32,10 @@ _If you don't yet have a travel card and book through AdTrav, hotels will be cha
 
 Once you have finalized your reservations, there are still a few more steps to follow through on.
 
-- [Completing trip information]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-complete-your-trip-information), including relevant details about your trip.
-- [Justify any rental car use or personal vehicle mileage claims]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-justify-rental-cars-and-personal-vehicle-mileage), when applicable.
-- [Stamp and submit authorization]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval), ensuring your authorization is in SUBMIT TO APPROVER status.
-- If you haven't done so already, [secure written approval from your authorizing official]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval) and send it to tts-travelauths@gsa.gov so the TTS travel team can likewise approve your trip in the system.
+- [Completing trip information]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-complete-your-trip-information), including relevant details about your trip.
+- [Justify any rental car use or personal vehicle mileage claims]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-justify-rental-cars-and-personal-vehicle-mileage), when applicable.
+- [Stamp and submit authorization]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval), ensuring your authorization is in SUBMIT TO APPROVER status.
+- If you haven't done so already, [secure written approval from your authorizing official]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval) and send it to tts-travelauths@gsa.gov so the TTS travel team can likewise approve your trip in the system.
 
 Ensure all of the above steps are completed no later than 3:30 PM ET the last business day before travel to give the travel team sufficient time to review. After-hours or emergency travel requests may be made in coordination with your supervisor and AdTrav via the process outlined [here]({{site.baseurl}}/travel-guide-b-after-hours-emergency-travel-authorizations).<br>
 <br>
