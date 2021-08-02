@@ -63,7 +63,7 @@ See [reporting other incidents]({{site.baseurl}}/security-incidents/#reporting-o
 
 ## Protecting TTS Systems
 
-Preventing the leak/exposure of secrets and sensitive information must always be our top priority. The [Engineering Guide](https://engineering.18f.gov/workflow/) has information on the best practices for protecting sensitive information in code and TTS systems.
+Preventing the leak/exposure of secrets and sensitive information must always be our top priority. The [Engineering Guide](https://engineering.18f.gov/workflow/#security-requirement) has information on the best practices for protecting sensitive information in code and TTS systems.
 
 ## Tools
 
