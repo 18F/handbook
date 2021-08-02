@@ -6,7 +6,7 @@ questions:
   - text: Book office hours
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
-  - /travel-guide-faq/
+  - /travel-and-leave/travel-and-leave-policies/travel-guide-faq/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
@@ -279,7 +279,7 @@ Another common situation which arises when splitting travel across multiple proj
 
 Instead of obtaining an email of approval, you must follow the [event request process]({{site.baseurl}}/conferences-events-training/). You may [book your travel]({{site.baseurl}}/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
 <br>
-However, if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason, you must secure an email from your [authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) approving of the revised itinerary.
+However, if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason, you must secure an email from your [authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) approving of the revised itinerary.
 
 \*The threshold for a large team gathering is over 6 employees traveling for an internal management meeting (not day-to-day business) and/or more than $10,000 in estimated travel expenses for the group. Requests for approval of these events is typically handled by the organizer of the meeting.
 

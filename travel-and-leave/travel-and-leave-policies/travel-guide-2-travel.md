@@ -11,7 +11,7 @@ redirect_from:
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
 [Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
-[FAQ]({{site.baseurl}}/travel-guide-faq) <br>
+[FAQ]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq) <br>
 [Back to Step 1: Book Travel]({{site.baseurl}}/travel-guide-1-book-travel) <br>
 [Jump to Step 3: Reimbursement]({{site.baseurl}}/travel-guide-3-reimbursement)
 
@@ -53,7 +53,7 @@ Note that if your travel extends past midnight, you get the full meal allowance 
 
 #### M&IE and use of the GSA travel card
 
-While use of the GSA travel card is required for all travel expenses when practicable, using the GSA travel card to pay for M&IE requires some additional administrative work when submitting a voucher after returning from your trip. [Here's]({{site.baseurl}}/travel-guide-faq/#how-should-i-claim-meals-paid-on-the-travel-card) what you should be aware of when completing your voucher-- should you use the GSA travel card for meals and incidental expenses, keeping receipts for your personal use may be helpful. Feel free to book [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/) for a walkthrough on what to keep in mind when paying for meals while traveling.
+While use of the GSA travel card is required for all travel expenses when practicable, using the GSA travel card to pay for M&IE requires some additional administrative work when submitting a voucher after returning from your trip. [Here's]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-should-i-claim-meals-paid-on-the-travel-card) what you should be aware of when completing your voucher-- should you use the GSA travel card for meals and incidental expenses, keeping receipts for your personal use may be helpful. Feel free to book [travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/) for a walkthrough on what to keep in mind when paying for meals while traveling.
 
 ### Other necessary expenses
 
