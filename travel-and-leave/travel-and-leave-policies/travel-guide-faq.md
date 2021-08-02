@@ -6,7 +6,7 @@ questions:
   - text: Book office hours
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
-  - /travel-and-leave/travel-and-leave-policies/travel-guide-faq/
+  - /travel-guide-faq/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
