@@ -361,7 +361,7 @@ Expenses can be edited by clicking the pencil button and then making changes on 
 
 Make sure you correctly indicate what was paid on the travel card vs personal means of payment to avoid [issues with reimbursement](#issues-with-reimbursement).
 
-- Use **IBA** for anything paid for on the travel card. Not seeing this option? [Add your travel card to your Concur profile]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-complete-concur-profile)
+- Use **IBA** for anything paid for on the travel card. Not seeing this option? [Add your travel card to your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile)
 - Use **CASH** for anything paid for using cash or a personal card.
 - **CBA** is only used for air and rail expenses paid through Concur directly.
 
@@ -487,7 +487,7 @@ For mileage claims over $75, instead of attaching a receipt, attach a screenshot
 
 #### I recieved a bill for an outstanding balance on my travel card. Should I pay it?
 
-A: First, verify that your most recent voucher was paid to the travel card account. Go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **View Summary**. In the voucher view, navigate down to the **Totals and travel advances** section and verify the amount on the **Pay to Charge Card** line. This amount should match with a payment made to the travel card in your travel card statement. [Links + Instructions for viewing online statements here]({{site.baseurl}}/first-time-travel-travel-card/#4-receive-and-activate-your-card-in-7-10-business-days) If it does, and there is still a remaining balance, it is likely that you used the travel card to pay for something that was either claimed as **CASH** on the voucher, or not claimed at all.
+A: First, verify that your most recent voucher was paid to the travel card account. Go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **View Summary**. In the voucher view, navigate down to the **Totals and travel advances** section and verify the amount on the **Pay to Charge Card** line. This amount should match with a payment made to the travel card in your travel card statement. [Links + Instructions for viewing online statements here]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-travel-card/#4-receive-and-activate-your-card-in-7-10-business-days) If it does, and there is still a remaining balance, it is likely that you used the travel card to pay for something that was either claimed as **CASH** on the voucher, or not claimed at all.
 
 If you discover a valid charge to your travel card that you need to be reimbursed for after your voucher is initially approved, you may create an [amended voucher](#how-do-i-amend-my-voucher-after-it-is-approved).
 
