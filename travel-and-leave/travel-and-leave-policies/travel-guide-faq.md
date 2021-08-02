@@ -237,7 +237,7 @@ Once your authorization is approved and ticketed, you might want to take a look 
 You must formally request your authorizing official's approval\* via email and forward it to tts-travelauths@gsa.gov, unless you are traveling to a training, conference, speaking event, or other "IRL" or large team gathering, in which case you must follow [the event request process instead](#how-can-i-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-irl-or-large-team-gathering). **[Who is my authorizing official?](#who-is-my-authorizing-official-and-what-is-my-budget)**
 <br>
 <br>
-The body of the email must include the following: [See an individual template here]({{site.baseurl}}/travel-guide-email-templates/#email-template-for-individual-travel) and [a group template here]({{site.baseurl}}/travel-guide-email-templates/#email-template-for-group-travel)
+The body of the email must include the following: [See an individual template here]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-email-templates/#email-template-for-individual-travel) and [a group template here]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-email-templates/#email-template-for-group-travel)
 
 - Names of individuals traveling [What if this changes?](#what-if-who-is-traveling-changes)
 - Start and end dates of travel [What if I am extending travel for personal reasons?](#what-if-i-am-extending-travel-for-personal-reasons)

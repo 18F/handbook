@@ -11,7 +11,7 @@ redirect_from:
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
 [Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
-[FAQ]({{site.baseurl}}/travel-guide-faq) <br>
+[FAQ]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq) <br>
 [Jump to Step 2: What to Consider While Traveling]({{site.baseurl}}/travel-guide-2-travel)
 
 Sometimes, travel plans change. Fortunately, Concur, AdTrav, your carriers, your authorizing officials, and the TTS travel team are ready for that!
@@ -52,7 +52,7 @@ If you are amending your trip before your flight has been ticketed (~72 hours be
 
 #### Changes made prior to an authorization's approval in Concur
 
-If your authorization has not yet been approved, you can make all of your changes in Concur by going to your Concur homepage and locating your itinerary, which should be the very first trip you see below in the "RECENT TRIPS" section. Once you open this link, you should see all of the parts of your itinerary listed below, with options to change flights, hotels, and rental cars directly in Concur. Make your changes, and depending on the sorts of changes you are making (read more about this [here](#amended-authorizations-and-re-approvals), attach an updated approval email from your authorizing official. Continue to [submit your revised authorization for approval]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
+If your authorization has not yet been approved, you can make all of your changes in Concur by going to your Concur homepage and locating your itinerary, which should be the very first trip you see below in the "RECENT TRIPS" section. Once you open this link, you should see all of the parts of your itinerary listed below, with options to change flights, hotels, and rental cars directly in Concur. Make your changes, and depending on the sorts of changes you are making (read more about this [here](#amended-authorizations-and-re-approvals), attach an updated approval email from your authorizing official. Continue to [submit your revised authorization for approval]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
 
 #### Manually amending an authorization in Concur
 
@@ -68,7 +68,7 @@ Go to the **General** tab, in the **Travel Dates** section at the very bottom. T
 
 See regular guide
 
-**Finished with your changes?** Go ahead and [submit your amended authorization for approval]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
+**Finished with your changes?** Go ahead and [submit your amended authorization for approval]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
 
 ### Amended authorizations and re-approvals
 
@@ -86,20 +86,20 @@ Congratulations! No further action is required. Make the changes to your itinera
 
 1. If your change involves adding dates outside of what was originally approved, or travel to or from a location that was not originally approved:
 
-Both and updated [approval email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval) and [amended authorization](#amended-authorizations) in Concur are required.
+Both and updated [approval email from your authorizing official]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval) and [amended authorization](#amended-authorizations) in Concur are required.
 
 2. If your new flight is above the city pair rate or nonrefundable:
 
-An [amended authorization](#amended-authorizations) in Concur will be generated for you in AdTrav and must be submitted. Unless the travel is an emergency and you are at the airport, you must also obtain an updated [approval email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval).
+An [amended authorization](#amended-authorizations) in Concur will be generated for you in AdTrav and must be submitted. Unless the travel is an emergency and you are at the airport, you must also obtain an updated [approval email from your authorizing official]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval).
 
 3. If the increases in cost of your trip exceed 120% of what was approved, or your direct rental car costs were $10 or more over the authorized amount:
 
-An updated [approval email from your authorizing official]({{site.baseurl}}/travel-guide-faq/#how-to-secure-authorizing-official-approval) is required. In the case of exceeding the [maximum per diem rate for the location](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-lookup), approval must come from the Assistant Commissioner level.
+An updated [approval email from your authorizing official]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval) is required. In the case of exceeding the [maximum per diem rate for the location](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-lookup), approval must come from the Assistant Commissioner level.
 
 #### Amended Authorizations
 
-If you changed your travel plans via **Concur**, an amended authorization which includes all changes should be generated for you. If you have any trouble with this, reach out to the Business Applications Service desk at (866) 450-6588 for assistance. Once all of your changes are reflected, continue on with [submitting your amended authorization for approval]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
+If you changed your travel plans via **Concur**, an amended authorization which includes all changes should be generated for you. If you have any trouble with this, reach out to the Business Applications Service desk at (866) 450-6588 for assistance. Once all of your changes are reflected, continue on with [submitting your amended authorization for approval]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
 
-If you changed your travel plans via **AdTrav**, an amended authorization was likely automatically generated for you, though this can take up to an hour after your call with them, so be patient! Once the amendment is generated, you can see it by navigating to the **Authorizations** tab and selecting your trip. Verify that all of the right changes have been made (and reach out to the Business Applications Service desk at (866) 450-6588 if you need any help), and then continue on with [submitting your amended authorization for approval]({{site.baseurl}}/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
+If you changed your travel plans via **AdTrav**, an amended authorization was likely automatically generated for you, though this can take up to an hour after your call with them, so be patient! Once the amendment is generated, you can see it by navigating to the **Authorizations** tab and selecting your trip. Verify that all of the right changes have been made (and reach out to the Business Applications Service desk at (866) 450-6588 if you need any help), and then continue on with [submitting your amended authorization for approval]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval).
 
 If you changed your travel plans outside of Concur or AdTrav but still need to amend your authorization based on the guidance above, go ahead and [manually amend your authorization](#manually-amending-an-authorization-in-concur).

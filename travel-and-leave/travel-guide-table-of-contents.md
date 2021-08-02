@@ -10,7 +10,7 @@ redirect_from:
   - /travel-guide-table-of-contents/
 ---
 
-- [Travel 101]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-101/)
+- [Travel 101]({{site.baseurl}}/travel-101/)
 - First Time Travel Guide
   - [1 - Get access to Concur]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur)
   - [2 - Get a GSA Travel Card]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-travel-card)
