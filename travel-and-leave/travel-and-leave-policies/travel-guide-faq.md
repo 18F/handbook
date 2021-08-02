@@ -361,7 +361,7 @@ Expenses can be edited by clicking the pencil button and then making changes on 
 
 Make sure you correctly indicate what was paid on the travel card vs personal means of payment to avoid [issues with reimbursement](#issues-with-reimbursement).
 
-- Use **IBA** for anything paid for on the travel card. Not seeing this option? [Add your travel card to your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile)
+- Use **IBA** for anything paid for on the travel card. Not seeing this option? [Add your travel card to your Concur profile]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-complete-concur-profile)
 - Use **CASH** for anything paid for using cash or a personal card.
 - **CBA** is only used for air and rail expenses paid through Concur directly.
 
