@@ -63,7 +63,14 @@ See [reporting other incidents]({{site.baseurl}}/security-incidents/#reporting-o
 
 ## Protecting TTS Systems
 
-Preventing the leak/exposure of secrets and sensitive information must always be our top priority. The [Engineering Guide](https://engineering.18f.gov/workflow/#security-requirement) has information on the best practices for protecting sensitive information in code and TTS systems.
+Preventing the leak/exposure of secrets and sensitive information must always be our top priority. We follow these best practices for protecting sensitive information in code and TTS systems:
+
+- [Install Caulking](https://github.com/cloud-gov/caulking).
+  It's easy to accidentally push secrets to GitHub. Caulking checks for many common types of API tokens
+  and other sensitive information before you commit, allowing you to remove sensitive data before
+  accidentally publishing it. (This repo assumes MacOS with Homebrew installed.)
+- **Do not store sensitive information in GitHub**, including environment variables, private configuration data, or sensitive information about the public (including but not limited to PII). In the event that such variables or configuration data is pushed to a GitHub repository accidentally, even momentarily, consider it compromised and revoke or change the credentials immediately. Do not delete the commit itself. Then immediately follow the directions on the [incident response handbook page]({{site.baseurl}}/security-incidents). If you're unsure how to protect this information, consult with Infrastructure on GitHub or in the [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) channel in Slack. Some projects use [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to the [Engineering Guide's guidance](https://engineering.18f.gov/workflow/) on protecting information in Git and GitHub.
+- [Build Pipeline Security](https://sprocketfox.io/xssfox/2021/01/18/pipeline/) is a helpful resource for protecting sensitive information in CI/CD.
 
 ## Tools
 
