@@ -8,6 +8,8 @@ tags:
 questions:
   - people-ops
   - PeopleOperations@gsa.gov
+redirect_from:
+  - /assignee-detail/
 ---
 
 All opportunities within TTS, including details, must be openly shared and competed within the organization. Although internal hiring processes are shorter than external hiring, internal actions still require need, effort and intentionality. We recommend Hiring Managers read this Handbook page in its entirety before working on their internal posting, as it contains important information about approvals.

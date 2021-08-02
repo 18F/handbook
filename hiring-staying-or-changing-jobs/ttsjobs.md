@@ -17,6 +17,8 @@ tags:
   - staffing plan
   - Staffing Plan
   - staffing plans
+redirect_from:
+  - /ttsjobs/
 ---
 
 This page serves as a central listing for:

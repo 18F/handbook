@@ -142,34 +142,34 @@ primary:
       changing jobs at TTS, or leaving TTS.
     children:
       - text: TTS Hiring Overview
-        url: hiring/
+        url: hiring-staying-or-changing-jobs/hiring/
         internal: true
       - text: TTSJobs
-        url: ttsjobs/
+        url: hiring-staying-or-changing-jobs/ttsjobs/
         internal: true
       - text: Term extensions
-        url: term-extensions/
+        url: hiring-staying-or-changing-jobs/term-extensions/
         internal: true
       - text: Internal hiring and internal TTS details
-        url: assignee-detail/
+        url: hiring-staying-or-changing-jobs/assignee-detail/
         internal: true
       - text: Details within GSA
-        url: gsa-details/
+        url: hiring-staying-or-changing-jobs/gsa-details/
         internal: true
       - text: Details with other agencies
-        url: external-details/
+        url: hiring-staying-or-changing-jobs/external-details/
         internal: true
       - text: Promotions
-        url: promotions/
+        url: hiring-staying-or-changing-jobs/promotions/
         internal: true
       - text: Leaving TTS
-        url: leaving-tts/
+        url: hiring-staying-or-changing-jobs/leaving-tts/
         internal: true
       - text: Hiring authorities
-        url: hiring-authorities/
+        url: hiring-staying-or-changing-jobs/hiring-authorities/
         internal: true
       - text: Federal resume guide
-        url: resume/
+        url: hiring-staying-or-changing-jobs/resume/
         internal: true
       - text: Referring a person
         url: office-of-operations/talent/#referring-a-person

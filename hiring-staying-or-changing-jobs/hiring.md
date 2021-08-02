@@ -6,6 +6,8 @@ tags:
 questions:
   - hiring
   - joinTTS@gsa.gov
+redirect_from:
+  - /hiring/
 ---
 
 This page contains links to all TTS hiring resources.

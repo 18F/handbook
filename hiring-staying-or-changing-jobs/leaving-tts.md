@@ -5,6 +5,8 @@ tags:
   - quitting
   - resign
   - terming out
+redirect_from:
+  - /leaving-tts/
 ---
 
 This guide covers the offboarding policy and process.

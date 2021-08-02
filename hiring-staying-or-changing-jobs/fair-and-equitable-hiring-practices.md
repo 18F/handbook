@@ -7,6 +7,8 @@ tags:
 questions:
   - hiring
   - joinTTS@gsa.gov
+redirect_from:
+  - /fair-and-equitable-hiring-practices/
 ---
 
 Remember that we all have different lived experiences, beliefs and assumptions that play a role in how we make decisions. This is particularly important to be aware of when it comes to hiring as these may potentially impact our ability to be fair and equitable and ultimately select the best possible candidate for the job.

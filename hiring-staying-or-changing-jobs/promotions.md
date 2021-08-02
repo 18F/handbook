@@ -16,6 +16,8 @@ tags:
 questions:
   - hiring
   - joinTTS@gsa.gov
+redirect_from:
+  - /promotions/
 ---
 
 This page provides an overview of the Merit Promotion process for both Competitive Service (Career) and Excepted Service positions.

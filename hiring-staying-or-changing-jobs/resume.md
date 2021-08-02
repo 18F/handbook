@@ -4,6 +4,8 @@ tags:
   - resume
 questions:
   - joinTTS@gsa.gov
+redirect_from:
+  - /resume/
 ---
 
 This page provides an overview with examples of how to write a federal government resume, which have content and formatting that differ from most private sector resumes.
