@@ -36,7 +36,7 @@ Until you can [get a GSA travel card]({{site.baseurl}}/first-time-travel-travel-
 
 5. **Travel!** Be sure to keep your receipts. [Read more about travel]({{site.baseurl}}/travel-guide-2-travel).
 
-   [_What happens if my flight gets cancelled_]({{site.baseurl}}/first-time-travel-get-in-concur-pre-olu/#what-happens-if-my-flight-gets-cancelled)
+   [_What happens if my flight gets cancelled_]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur-pre-olu/#what-happens-if-my-flight-gets-cancelled)
 
 6. After you return, **create a voucher for reimbursement**:
 

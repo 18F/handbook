@@ -89,7 +89,7 @@ You **must** bill for the below activities because these are direct costs. This 
 
 You must not bill for the following activities because these are indirect costs and are not inherently valuable to any one single partner. As a result, we distribute the costs for these amongst all our partners via our hourly rate. Recording these as billable would mean we're billing for them twice.
 
-- [Out of office (Award leave, sick leave, PTO)](../leave/#time-tracking)
+- [Out of office (Award leave, sick leave, PTO)]({{site.baseurl}}/travel-and-leave/leave/#time-tracking)
 - Conferences, trainings and meetings that are not in service of project work
 - OLU trainings that are not in service of project work
 - Internal organization meetings (Team Coffees, TTS Town Hall)

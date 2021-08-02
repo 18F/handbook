@@ -32,11 +32,11 @@ If you are thinking about moving, please get approval from your Supervisor via e
 
 If you need to move or submit a new full-time telework arrangement, follow the guidance for your situation:
 
-- [A full-time telework employee who is moving to a new full-time telework location]({{site.baseurl}}/moving/#a-full-time-telework-arrangement-is-needed)
-- [A full-time telework employee who is moving to one of our offices (DC, CHI, NYC or SFO)]({{site.baseurl}}/moving/#effective-date)
-- [An office employee who is moving to a full-time telework location]({{site.baseurl}}/moving/#a-full-time-telework-arrangement-is-needed)
-- [An office employee who is moving to a different office]({{site.baseurl}}/moving/#effective-date)
-- [An office employee whose home address is changing but not their work location]({{site.baseurl}}/moving/#change-your-address)
+- [A full-time telework employee who is moving to a new full-time telework location]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/moving/#a-full-time-telework-arrangement-is-needed)
+- [A full-time telework employee who is moving to one of our offices (DC, CHI, NYC or SFO)]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/moving/#effective-date)
+- [An office employee who is moving to a full-time telework location]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/moving/#a-full-time-telework-arrangement-is-needed)
+- [An office employee who is moving to a different office]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/moving/#effective-date)
+- [An office employee whose home address is changing but not their work location]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/moving/#change-your-address)
 
 _Please note that full approval can take a significant period of time and is not guaranteed, so we highly recommend that you don't finalize plans to move until receiving full approval._
 

@@ -22,7 +22,7 @@ There are [three national security clearance levels](https://en.wikipedia.org/wi
 
 ## Your clearance status
 
-Find out your clearance status in [HRLinks]({{site.baseurl}}/leave/#logging-into-hr-links)
+Find out your clearance status in [HRLinks]({{site.baseurl}}/travel-and-leave/leave/#logging-into-hr-links)
 
 1. Click on the **Navigator** icon in the top right hand corner
 2. Click on "Click View/Update My Personal Info" icon
