@@ -21,6 +21,8 @@ tags:
   - parental
   - parent
   - parental leave
+redirect_from:
+  - /leave/
 ---
 
 This page provides instructions for entering leave requests (also known as absence requests) in <a href="https://corporateapps.gsa.gov/hr-links/">HR Links</a> and information on the various types of leave.

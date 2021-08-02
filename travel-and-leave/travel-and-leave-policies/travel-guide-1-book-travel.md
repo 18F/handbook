@@ -5,6 +5,8 @@ questions:
   - tts-travel@gsa.gov
   - text: Book office hours
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
+redirect_from:
+  - /travel-guide-1-book-travel/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101) <br>

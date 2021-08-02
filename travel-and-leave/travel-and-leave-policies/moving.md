@@ -16,6 +16,8 @@ tags:
   - FTTWA
   - FTWA
   - FTT
+redirect_from:
+  - /moving/
 ---
 
 Full-time Telework Arrangements are required for TTS employees who do not work at least 2 days a pay period in one of the TTS Offices (DC, Chicago, NYC, or San Francisco) or, in rare cases, an approved GSA office. The instructions below will help guide you through how to initiate the moving process, determining if/when you need a full-time telework arrangement (FTTA), how to fill out the analysis tool and get the necessary signatures, and then how to submit it in HR Links for Supervisor approval.

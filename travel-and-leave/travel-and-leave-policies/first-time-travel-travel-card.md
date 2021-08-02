@@ -2,6 +2,8 @@
 title: First-Time Travel Get a Travel Card
 questions:
   - ronnail.rawls@gsa.gov
+redirect_from:
+  - /first-time-travel-travel-card/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>

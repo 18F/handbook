@@ -6,6 +6,8 @@ questions:
   - text: Book office hours
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 travel_advisory: true
+redirect_from:
+  - /travel-guide-table-of-contents/
 ---
 
 - [Travel 101]({{site.baseurl}}/travel-101/)

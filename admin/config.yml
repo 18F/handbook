@@ -130,4 +130,14 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
- 
+    - name: "travel-and-leave"
+      label: "Travel and leave"
+      label_singular: "Travel and leave page"
+      folder: "travel-and-leave/"
+      nested: { depth: 4 }
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
