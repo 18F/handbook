@@ -75,7 +75,7 @@ When you leave TTS, you are responsible for returning all TTS-issued equipment. 
 
 ## Offboarding process
 
-A member of the People Ops Team will `Duplicate` the `Template` in the [Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1IlFY5AAvTyuS7yDHk5_odJGHYZDU_MN9HNGKJ2zXwi0/edit#gid=0) to make a new checklist once **leavingTTS@gsa.gov** has been notified that a team member is leaving. If the checklist hasn't been created, please email [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov) or ping #people-ops for help. More detail for certain tasks is below. Note that, per GSA policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at GSA.
+A member of the People Ops Team will `Duplicate` the `Template` in the [Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1rp8n78tFHqyvvHzsYuBo_XE3Jg1LwOuOX-R9TMRnZI8/edit#gid=1916685737) to make a new checklist once **leavingTTS@gsa.gov** has been notified that a team member is leaving. If the checklist hasn't been created, please email [leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov) or ping #people-ops for help. More detail for certain tasks is below. Note that, per GSA policy, the "technical offboardings" (access to any work system) need to happen within 24 hours of the person ending their work at GSA.
 
 ### Supervisor
 
