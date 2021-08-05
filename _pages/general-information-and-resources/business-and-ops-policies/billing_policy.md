@@ -1,4 +1,4 @@
 ---
 title: Billing policy
-redirect_to: {{site.baseurl}}/tock/#time-tracking-and-billing
+redirect_to: /tock/#time-tracking-and-billing
 ---
