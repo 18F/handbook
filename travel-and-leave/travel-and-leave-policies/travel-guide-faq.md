@@ -5,6 +5,8 @@ questions:
   - tts-travel@gsa.gov
   - text: Book office hours
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
+redirect_from:
+  - /travel-guide-faq/
 ---
 
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
@@ -80,7 +82,7 @@ If any part of the fare that you chose is nonrefundable, or exceeds the [City Pa
 6. Scroll to the bottom of this page and click **Next**. This message will pop up, prompting you to book a hotel.
    <img src="/images/travel/10-trip-details-bottom.png" class="travel-guide-hide" alt="pending reservation warning">
 
-By choosing **"I will book a hotel now."** you will be allowed to book your hotel directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile]({{site.baseurl}}/first-time-travel-complete-concur-profile).
+By choosing **"I will book a hotel now."** you will be allowed to book your hotel directly in Concur. Before doing so, please ensure that [your travel card is saved in your Concur profile]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-complete-concur-profile).
 
 ### Book lodging
 
@@ -235,7 +237,7 @@ Once your authorization is approved and ticketed, you might want to take a look 
 You must formally request your authorizing official's approval\* via email and forward it to tts-travelauths@gsa.gov, unless you are traveling to a training, conference, speaking event, or other "IRL" or large team gathering, in which case you must follow [the event request process instead](#how-can-i-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-irl-or-large-team-gathering). **[Who is my authorizing official?](#who-is-my-authorizing-official-and-what-is-my-budget)**
 <br>
 <br>
-The body of the email must include the following: [See an individual template here]({{site.baseurl}}/travel-guide-email-templates/#email-template-for-individual-travel) and [a group template here]({{site.baseurl}}/travel-guide-email-templates/#email-template-for-group-travel)
+The body of the email must include the following: [See an individual template here]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-email-templates/#email-template-for-individual-travel) and [a group template here]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-email-templates/#email-template-for-group-travel)
 
 - Names of individuals traveling [What if this changes?](#what-if-who-is-traveling-changes)
 - Start and end dates of travel [What if I am extending travel for personal reasons?](#what-if-i-am-extending-travel-for-personal-reasons)
@@ -275,9 +277,9 @@ Another common situation which arises when splitting travel across multiple proj
 
 #### How can I get my travel approved to attend a training, conference, speaking event, or other "IRL" or large team gathering\*?
 
-Instead of obtaining an email of approval, you must follow the [event request process]({{site.baseurl}}/conferences-events-training/). You may [book your travel]({{site.baseurl}}/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
+Instead of obtaining an email of approval, you must follow the [event request process]({{site.baseurl}}/conferences-events-training/). You may [book your travel]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-1-book-travel/#brief-overview-of-booking-travel) in the meantime.<br>
 <br>
-However, if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason, you must secure an email from your [authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) approving of the revised itinerary.
+However, if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason, you must secure an email from your [authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget) approving of the revised itinerary.
 
 \*The threshold for a large team gathering is over 6 employees traveling for an internal management meeting (not day-to-day business) and/or more than $10,000 in estimated travel expenses for the group. Requests for approval of these events is typically handled by the organizer of the meeting.
 
@@ -485,7 +487,7 @@ For mileage claims over $75, instead of attaching a receipt, attach a screenshot
 
 #### I recieved a bill for an outstanding balance on my travel card. Should I pay it?
 
-A: First, verify that your most recent voucher was paid to the travel card account. Go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **View Summary**. In the voucher view, navigate down to the **Totals and travel advances** section and verify the amount on the **Pay to Charge Card** line. This amount should match with a payment made to the travel card in your travel card statement. [Links + Instructions for viewing online statements here]({{site.baseurl}}/first-time-travel-travel-card/#4-receive-and-activate-your-card-in-7-10-business-days) If it does, and there is still a remaining balance, it is likely that you used the travel card to pay for something that was either claimed as **CASH** on the voucher, or not claimed at all.
+A: First, verify that your most recent voucher was paid to the travel card account. Go to the **Vouchers** tab of Concur, then click on the voucher number you want to view and choose **View Summary**. In the voucher view, navigate down to the **Totals and travel advances** section and verify the amount on the **Pay to Charge Card** line. This amount should match with a payment made to the travel card in your travel card statement. [Links + Instructions for viewing online statements here]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/first-time-travel-travel-card/#4-receive-and-activate-your-card-in-7-10-business-days) If it does, and there is still a remaining balance, it is likely that you used the travel card to pay for something that was either claimed as **CASH** on the voucher, or not claimed at all.
 
 If you discover a valid charge to your travel card that you need to be reimbursed for after your voucher is initially approved, you may create an [amended voucher](#how-do-i-amend-my-voucher-after-it-is-approved).
 

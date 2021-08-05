@@ -4,6 +4,8 @@ tags:
   - travel
   - away from office
   - remote work
+redirect_from:
+  - /working-while-traveling/
 ---
 
 When you're working from an atypical location in another time zone or attending a conference, it is helpful to communicate

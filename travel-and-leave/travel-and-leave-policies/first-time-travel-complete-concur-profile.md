@@ -5,6 +5,8 @@ questions:
   - tts-travel@gsa.gov
   - text: Book office hours
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
+redirect_from:
+  - /first-time-travel-complete-concur-profile/
 ---
 
 [TTS Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>

@@ -54,7 +54,7 @@ This document outlines TTS' Vulnerability Disclosure triage process, and provide
 
 In order to respond quickly to reports submitted by the public (aka reporter), the TTS Tech Portfolio will monitor incoming reports and initiate response accordingly.
 
-This role has been designated **TTS Team** and monitors reports received from the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov), [through this reporting form](https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform) or the Vulnerability Disclosure platform.
+This role has been designated **TTS Team** and monitors reports received from the public via emails to [`tts-vulnerability-reports@gsa.gov`](mailto:tts-vulnerability-reports@gsa.gov) or the [through our Bug Bounty program](https://hackerone.com/tts).
 
 **If the report comes in through the VDP Platform...**
 The TTS Team will then validate that the appropriate team is [assigned](https://docs.hackerone.com/programs/report-actions.html#assign-a-report) to the report and that it is showing up in their [inbox](https://docs.hackerone.com/programs/inbox.html). Each team within [scope](https://hackerone.com/tts?type=team) has their own inbox and will only receive reports that have been assigned to them.

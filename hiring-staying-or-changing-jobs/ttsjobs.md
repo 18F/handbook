@@ -17,6 +17,8 @@ tags:
   - staffing plan
   - Staffing Plan
   - staffing plans
+redirect_from:
+  - /ttsjobs/
 ---
 
 This page serves as a central listing for:
@@ -35,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Director](https://www.usajobs.gov/GetJob/ViewDetails/607780900) - open Monday, July 2, 2021 through Monday, August 2, 2021 at 11:59pm EDT
+We will share open positions as they are available.
 
 ### Internal only opportunities
 
@@ -43,11 +45,9 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 - [GSA WIDE: TTS Talent Acquisition Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 
-- [Strategic Partnerships Market Development Director Detail](https://docs.google.com/document/d/17YrispA5FGyxwKhnp8Sjq4UzYw_5_8Q0aMsLrSDBPP8/edit#) - open Wednesday, July 14 until Wednesday July 28
-
 ### Open to all federal employees
 
-- [GOVERNMENT WIDE: OA Procurement Analyst](https://www.usajobs.gov/GetJob/ViewDetails/608723400) - open Monday, July 26, 2021 through Monday, August 9, 2021.
+- [GOVERNMENT WIDE: OA Procurement Analyst](https://www.usajobs.gov/GetJob/ViewDetails/608754800) - open Monday, July 26, 2021 through Monday, August 9, 2021.
 
 ## Opportunities with partners
 

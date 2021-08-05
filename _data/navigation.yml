@@ -89,25 +89,25 @@ primary:
       Going somewhere? Here's what you need to know.
     children:
       - text: Updated Travel Guidance for GSA Employees (07/13/2021)
-        url: july-13-travel-guidance/
+        url: travel-and-leave/july-13-travel-guidance/
         internal: true
       - text: Leave (HR Links)
-        url: leave/
+        url: travel-and-leave/leave/
         internal: true
       - text: Covid leave guidance
         url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
         internal: false
       - text: Out of office expectations
-        url: leave/#leave-checklist
+        url: travel-and-leave/leave/#leave-checklist
         internal: true
       - text: Paid Parental Leave
-        url: leave/#federal-employee-paid-leave-act-paid-parental-leave
+        url: travel-and-leave/leave/#federal-employee-paid-leave-act-paid-parental-leave
         internal: true
       - text: Travel guide (table of contents)
-        url: travel-guide-table-of-contents/
+        url: travel-and-leave/travel-guide-table-of-contents/
         internal: true
       - text: Voluntary Leave Transfer Program (VLTP)
-        url: voluntary-leave-transfer-program/
+        url: travel-and-leave/voluntary-leave-transfer-program/
         internal: true
   - text: Performance management
     href: /#performance-management
@@ -142,34 +142,34 @@ primary:
       changing jobs at TTS, or leaving TTS.
     children:
       - text: TTS Hiring Overview
-        url: hiring/
+        url: hiring-staying-or-changing-jobs/hiring/
         internal: true
       - text: TTSJobs
-        url: ttsjobs/
+        url: hiring-staying-or-changing-jobs/ttsjobs/
         internal: true
       - text: Term extensions
-        url: term-extensions/
+        url: hiring-staying-or-changing-jobs/term-extensions/
         internal: true
       - text: Internal hiring and internal TTS details
-        url: assignee-detail/
+        url: hiring-staying-or-changing-jobs/assignee-detail/
         internal: true
       - text: Details within GSA
-        url: gsa-details/
+        url: hiring-staying-or-changing-jobs/gsa-details/
         internal: true
       - text: Details with other agencies
-        url: external-details/
+        url: hiring-staying-or-changing-jobs/external-details/
         internal: true
       - text: Promotions
-        url: promotions/
+        url: hiring-staying-or-changing-jobs/promotions/
         internal: true
       - text: Leaving TTS
-        url: leaving-tts/
+        url: hiring-staying-or-changing-jobs/leaving-tts/
         internal: true
       - text: Hiring authorities
-        url: hiring-authorities/
+        url: hiring-staying-or-changing-jobs/hiring-authorities/
         internal: true
       - text: Federal resume guide
-        url: resume/
+        url: hiring-staying-or-changing-jobs/resume/
         internal: true
       - text: Referring a person
         url: office-of-operations/talent/#referring-a-person

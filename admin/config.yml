@@ -72,6 +72,18 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "hiring-staying-or-changing-jobs"
+      label: "Hiring, staying, or changing jobs"
+      label_singular: "Hiring, staying, or changing jobs page"
+      nested: { depth: 4 }
+      folder: "hiring-staying-or-changing-jobs/"
+      create: true
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+ 
     - name: "launching-software"
       label: "Launching software"
       label_singular: "Launching software page"
@@ -130,4 +142,14 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
- 
+    - name: "travel-and-leave"
+      label: "Travel and leave"
+      label_singular: "Travel and leave page"
+      folder: "travel-and-leave/"
+      nested: { depth: 4 }
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}

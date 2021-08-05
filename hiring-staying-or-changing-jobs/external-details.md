@@ -8,6 +8,8 @@ tags:
 questions:
   - people-ops
   - PeopleOperations@gsa.gov
+redirect_from:
+  - /external-details/
 ---
 
 _This section is about details to or from another agency. If you are looking for [intra-TTS]({{site.baseurl}}/assignee-detail) or [intra-GSA]({{site.baseurl}}/gsa-details) details, please review those respective Handbook pages._
