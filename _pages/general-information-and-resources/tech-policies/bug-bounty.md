@@ -27,7 +27,7 @@ Once Triaged, the report will be assigned to your group (H1 term for team) for
 you to confirm. You can ask H1 staff or the researcher for any
 clarification, or help if you're having trouble reproducing the issue.
 
-Once confirmed, you can [award the bounty](). You don't need to wait until the
+Once confirmed, you can [award the bounty](#how-do-i-award-the-bounty). You don't need to wait until the
 issue is resolved to award.
 
 When the fix has been released to production, you can close the report as
@@ -88,6 +88,6 @@ comment". Select "Close report" > "Resolved".
 
 The Vulnerability Disclosure Lead is an [assigned member of the Tech Portfolio](https://github.com/18F/tts-tech-portfolio/blob/main/how_we_work/roles.md).
 
-### For admins
+## For admins
 
 Invite the user from the [user management admin screen](https://hackerone.com/tts/team_members).
