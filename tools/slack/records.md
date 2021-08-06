@@ -2,8 +2,6 @@
 title: Slack records
 questions:
   - admins-slack
-redirect_from:
-  - /records/
 ---
 
 [_Back to Slack page_](../)

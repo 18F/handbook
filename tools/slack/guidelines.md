@@ -4,7 +4,6 @@ questions:
   - admins-slack
 redirect_from:
   - /tools/slack/rules/
-  - /tools/slack/guidelines/
 ---
 
 [_Back to Slack page_](../)

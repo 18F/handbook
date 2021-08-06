@@ -2,7 +2,6 @@
 title: Slack
 redirect_from:
   - /slack/
-  - /tools/slack/
 questions:
   - admins-slack
 ---

@@ -2,8 +2,6 @@
 title: Slack integrations
 questions:
   - admins-slack
-redirect_from:
-  - /tools/slack/integrations/
 ---
 
 [_Back to Slack page_](../)
