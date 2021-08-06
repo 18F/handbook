@@ -8,6 +8,8 @@ tags:
 questions:
   - people-ops
   - TTS-PeopleOps@gsa.gov
+redirect_from:
+  - /top-secret/
 ---
 
 Most TTS employees hold moderate risk Public Trust positions. However, for certain projects, partners need TTS employees to have access to classified national security information. These employees need to be granted security clearance eligibility (a.k.a a security clearance) to be able to view this information. This page covers the basics like clearance levels, your clearance status, your clearance obligations, and clearance upgrade requests.

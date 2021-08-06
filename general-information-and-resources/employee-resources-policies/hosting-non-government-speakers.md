@@ -3,6 +3,8 @@ title: Guidance on hosting non-government speakers
 questions:
   - training-conferences
   - outreach
+redirect_from:
+  - /hosting-non-government-speakers/
 ---
 
 TTS teams, [Guilds]({{site.baseurl}}/working-groups-and-guilds-101/), and [Working Groups]({{site.baseurl}}/working-groups-and-guilds-101/) have the opportunity to invite individuals outside of the government to speak to our teams. Guest speakers provide a unique opportunity for federal employees to learn from industry professionals on modern practices. Hearing new perspectives provide employees not only with different points-of-view, but also with knowledge they can apply in their careers at TTS.

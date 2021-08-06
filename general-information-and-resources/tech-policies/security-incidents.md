@@ -1,5 +1,7 @@
 ---
 title: Security incidents
+redirect_from:
+  - /security-incidents/
 ---
 
 Something went "bump" in the night (or the day)? This document explains what to do when responding to a security incident. See [What is an incident?](#what-is-an-incident) if you need help determining whether something counts as an incident.

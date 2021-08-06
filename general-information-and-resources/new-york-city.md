@@ -1,5 +1,7 @@
 ---
 title: New York City
+redirect_from:
+  - /new-york-city/
 ---
 
 <div class="table-wrapper">

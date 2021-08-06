@@ -2,6 +2,8 @@
 title: Records management
 questions:
   - legalstuff
+redirect_from:
+  - /records-management/
 ---
 
 Records are written words, video recordings, etc. that are attributable back to you. This page outlines how to properly treat federal records.

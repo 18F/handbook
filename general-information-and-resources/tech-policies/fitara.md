@@ -4,6 +4,8 @@ tags:
   - fitara
   - Acquisition
   - act
+redirect_from:
+  - /fitara/
 ---
 
 _The objective of FITARA policy is to improve the management of IT within an agency._

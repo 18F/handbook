@@ -1,5 +1,7 @@
 ---
 title: General contacts
+redirect_from:
+  - /general-contacts/
 ---
 
 An incomplete list of contacts around government you may find useful.

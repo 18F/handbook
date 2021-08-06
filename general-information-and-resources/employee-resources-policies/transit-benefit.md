@@ -8,6 +8,8 @@ tags:
   - public
 questions:
   - co-transit-subsidy@gsa.gov
+redirect_from:
+  - /transit-benefit/
 ---
 
 This page outlines how to sign up for and how to cancel the transit benefit.

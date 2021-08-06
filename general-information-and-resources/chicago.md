@@ -1,5 +1,7 @@
 ---
 title: Chicago
+redirect_from:
+  - /chicago/
 ---
 
 <div class="table-wrapper">
