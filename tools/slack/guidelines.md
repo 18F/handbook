@@ -104,7 +104,7 @@ published to [#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY).
 If you'd like to help review emoji, reach out to
 [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S). The
 complete details of how this process works are covered under the [Slack admin
-documentation]({{site.baseurl}}/software-and-tools/slack/user-management/#custom-emoji).
+documentation]({{site.baseurl}}/tools/slack/user-management/#custom-emoji).
 
 ## Connectivity issues
 
