@@ -72,6 +72,18 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "general-information-and-resources"
+      label: "General information and resources"
+      label_singular: "General info page"
+      nested: { depth: 4 }
+      folder: "general-information-and-resources/"
+      create: true
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+ 
     - name: "hiring-staying-or-changing-jobs"
       label: "Hiring, staying, or changing jobs"
       label_singular: "Hiring, staying, or changing jobs page"

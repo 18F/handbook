@@ -2,6 +2,8 @@
 title: Requirements for Passwords
 questions:
   - it-issues
+redirect_from:
+  - /password-requirements/
 ---
 
 Follow the steps below to create and maintain secure passwords.

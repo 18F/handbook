@@ -1,5 +1,7 @@
 ---
 title: San Francisco
+redirect_from:
+  - /san-francisco/
 ---
 
 <div class="table-wrapper">

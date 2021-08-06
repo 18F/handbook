@@ -3,6 +3,8 @@ title: TTS Bug Bounty Program
 questions:
   - bug-bounty
   - bug-bounty-partners
+redirect_from:
+  - /bug-bounty/
 ---
 
 TTS administers a [Bug Bounty Program](https://hackerone.com/tts) for the public

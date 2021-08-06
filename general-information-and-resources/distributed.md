@@ -1,5 +1,7 @@
 ---
 title: Distributed
+redirect_from:
+  - /distributed/
 ---
 
 <div class="table-wrapper">
