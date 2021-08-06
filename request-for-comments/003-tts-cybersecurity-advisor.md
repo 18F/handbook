@@ -7,7 +7,6 @@ final_approver: V. David Zvenyach
 state: final
 responses_due: 2021-07-30
 date_approved: 2021-08-05
-
 ---
 
 # RFC 003 - TTS Senior Cybersecurity Advisor
@@ -44,7 +43,7 @@ From @mzia:
 Adding a Senior Cybersecurity Advisor to the TTS Front Office is beneficial for the following reasons:
 
 1. **Cybersecurity point of contact at TTS.** The Senior Cybersecurity Advisor will assist in bridging our communications throughout GSA in regards to security and privacy in our organization. For example, they will work with both the Information Security and Privacy Offices at GSA to continue the existing collaboration we have with these offices. This will not exclude the ability for individual teams to interact with these offices.
-1. **Creates and delegates TTS-wide services that will enhance cybersecurity.** The Senior Cybersecurity Advisor will lead the effort in cybersecurity services and best practices that will create a better cybersecurity ecosystem at TTS, as well as ensuring teams have uninterrupted access to security and privacy tools and services they need. 
+1. **Creates and delegates TTS-wide services that will enhance cybersecurity.** The Senior Cybersecurity Advisor will lead the effort in cybersecurity services and best practices that will create a better cybersecurity ecosystem at TTS, as well as ensuring teams have uninterrupted access to security and privacy tools and services they need.
 1. **Collaborate and advise on cybersecurity hiring needs at TTS.** The Senior Cybersecurity Advisor will work transparently with TTS leadership, Talent and our various programs to determine any hiring and staffing needs for TTS. This will be in collaboration with our ISO and Privacy offices.
 1. **Communicates and consults with various programs and guilds on cybersecurity.** Work closely with the TTS-wide program leads and the Security and Compliance Guild to continuously share information between programs and concerns and maintain a holistic view of the security needs of TTS.
 1. **Identifies and shares cybersecurity training opportunities for TTS.**. Identifies opportunities for training within TTS, which could encompass career-track training for those interested, and broadly applicable training for the folks in the trenches, like incident response.

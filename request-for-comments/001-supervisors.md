@@ -13,7 +13,7 @@ date_approved: 2021-07-20
 
 ## The problem / situation / context
 
-TTS does not have a consistent practice about whether supervisory roles should be permanent or term positions.[1] Roughly half of supervisors in TTS are on term appointments, and half are on career appointments. Currently, whenever a new supervisory role is established, or a supervisory role needs to be filled, TTS Talent must determine anew whether that role should be permanent. 
+TTS does not have a consistent practice about whether supervisory roles should be permanent or term positions.[1] Roughly half of supervisors in TTS are on term appointments, and half are on career appointments. Currently, whenever a new supervisory role is established, or a supervisory role needs to be filled, TTS Talent must determine anew whether that role should be permanent.
 
 Supervisors play a crucial role in TTS's success. They provide direction for the organization and teams they lead. They provide career guidance, mentorship, and support to those whom they supervise and their peers. They make choices daily that affect our partners and the public.
 
@@ -41,13 +41,13 @@ Although there will be exceptions (e.g., a political appointment or the establis
 
 ## Equity and Inclusion
 
-Creating a permanent supervisory cohort presents two unique risks and several advantages for diversity, equity, inclusion, and accessibility (DEIA) goals. 
+Creating a permanent supervisory cohort presents two unique risks and several advantages for diversity, equity, inclusion, and accessibility (DEIA) goals.
 
 First, if we hire permanent supervisors and fail to evaluate their commitment to DEIA, it can embed a culture that does not embrace DEIA goals. Second, permanence limits the number of opportunities for career growth for _all_ individuals in the organization, which creates a premium on leadership development.
 
 Nevertheless, a permanent supervisory cohort also presents unique opportunities for DEIA goals. First, if we are intentional about evaluating and measuring supervisors' commitment to DEIA, we are more likely to embed DEIA goals across the entire organization. Second, by investing in training for a permanent supervisory cohort, we can level up TTS's commitment to currently undersupported efforts (e.g., reasonable accommodations or sponsorship). Third, by reducing the _churn_ associated with supervisory roles, there is greater opportunity to clarify career progression opportunities, which benefits all TTS employees but minimizes inequity associated with a lack of transparency or accountability.
 
-Ultimately, a permanent supervisory cohort presents risks and opportunities that must be intentionally managed and considered to promote DEIA goals. 
+Ultimately, a permanent supervisory cohort presents risks and opportunities that must be intentionally managed and considered to promote DEIA goals.
 
 ## Premortem / Review
 
