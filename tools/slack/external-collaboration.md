@@ -2,8 +2,6 @@
 title: External collaboration through Slack
 questions:
   - admins-slack
-redirect_from:
-  - /tools/slack/external-collaboration/
 ---
 
 [_Back to Slack page_](../)
