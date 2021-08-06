@@ -142,10 +142,10 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
-    - name: "travel-and-leave"
-      label: "Travel and leave"
-      label_singular: "Travel and leave page"
-      folder: "travel-and-leave/"
+    - name: "tools"
+      label: "Tools"
+      label_singular: "Tools page"
+      folder: "tools/"
       nested: { depth: 4 }
       meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
       create: true
@@ -153,10 +153,10 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
-    - name: "tools"
-      label: "Tools"
-      label_singular: "Tools page"
-      folder: "tools/"
+    - name: "travel-and-leave"
+      label: "Travel and leave"
+      label_singular: "Travel and leave page"
+      folder: "travel-and-leave/"
       nested: { depth: 4 }
       meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
       create: true
