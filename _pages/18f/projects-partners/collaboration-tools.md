@@ -22,9 +22,9 @@ For each tool mentioned below, we include links to:
 
 ### Instant messaging
 
-**[Slack]({{site.baseurl}}/tools/slack/)** is an instant messaging tool that uses themed chat rooms (called channels) to help teams quickly communicate on a daily basis, in an open, collaborative way. The 18F team will create a channel for your project in our Slack workspace, which you can access from your web browser. It may be useful to read about [what managers need to know about social tools](https://hbr.org/2017/11/what-managers-need-to-know-about-social-tools) when getting started.
+**[Slack]({{site.baseurl}}/software-and-tools/slack/)** is an instant messaging tool that uses themed chat rooms (called channels) to help teams quickly communicate on a daily basis, in an open, collaborative way. The 18F team will create a channel for your project in our Slack workspace, which you can access from your web browser. It may be useful to read about [what managers need to know about social tools](https://hbr.org/2017/11/what-managers-need-to-know-about-social-tools) when getting started.
 
-- [Slack Handbook pages]({{site.baseurl}}/tools/slack/)
+- [Slack Handbook pages]({{site.baseurl}}/software-and-tools/slack/)
 - [Slack @ TTS – Internal Guide](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp)
 
 <details markdown="block">
@@ -219,7 +219,7 @@ Here are some recommendations for how to level up our partners' skills:
 
 - **Important!** Don't wait until the end of a project to think about this!
 - If the partner is using 18F tools during the project, the team should **advise the partner on how to gain access to their own versions** of those tools or comparable alternatives.
-- The TTS Handbook details processes for offboarding partners off our own tools, like Slack ([account removal]({{site.baseurl}}/tools/slack/user-management/#offboarding) and [exporting]({{site.baseurl}}/tools/slack/records/#exporting-channel-contents)), [Github]({{site.baseurl}}/github/#rules), and Google Drive. The Account Manager will facilitate this offboarding, including providing ample warning to the partner.
+- The TTS Handbook details processes for offboarding partners off our own tools, like Slack ([account removal]({{site.baseurl}}/tools/slack/user-management/#offboarding) and [exporting]({{site.baseurl}}/tools/slack/records/#exporting-channel-contents)), [Github]({{site.baseurl}}/software-and-tools/github/#rules), and Google Drive. The Account Manager will facilitate this offboarding, including providing ample warning to the partner.
 - If the team has been using the partner's collaboration tools, be sure to capture any documents or artifacts before we lose access.
 
 ## Using partners' tools

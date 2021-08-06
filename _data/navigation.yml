@@ -350,7 +350,7 @@ primary:
           - text: How we work
             children:
               - text: Time tracking and billing
-                url: tock/#time-tracking-and-billing
+                url: software-and-tools/tock/#time-tracking-and-billing
                 internal: true
               - text: High-level project lifecycle
                 url: 18f-project-lifecycle/
