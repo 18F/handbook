@@ -139,6 +139,7 @@ collections:
       label: "Tools"
       label_singular: "Tools page"
       nested: { depth: 4 }
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
       folder: "tools/"
       create: true
       fields: 
