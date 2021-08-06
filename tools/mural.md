@@ -2,6 +2,7 @@
 title: Mural
 redirect_from:
   - /murally/
+  - /tools/mural/
 questions:
   - admins-mural
 ---

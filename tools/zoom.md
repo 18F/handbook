@@ -2,6 +2,8 @@
 title: Zoom
 questions:
   - webmeetings@gsa.gov
+redirect_from:
+  - /zoom/
 ---
 
 GSA offers [Zoom for Government](https://zoomgov.com/).

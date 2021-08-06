@@ -2,6 +2,8 @@
 title: Sketch
 questions:
   - sketch
+redirect_from:
+  - /sketch/
 ---
 
 You can get started with a trial version [immediately](https://www.sketch.com/). Upgrade to the full version whenever you get the license. Visit [#sketch](https://gsa-tts.slack.com/messages/sketch) on Slack for help and sharing tips.

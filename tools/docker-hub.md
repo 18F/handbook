@@ -2,6 +2,8 @@
 title: Docker Hub
 questions:
   - infrastructure
+redirect_from:
+  - /docker-hub/
 ---
 
 [Docker Hub](https://hub.docker.com/) is a cloud-based container registry for

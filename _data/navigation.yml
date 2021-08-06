@@ -350,7 +350,7 @@ primary:
           - text: How we work
             children:
               - text: Time tracking and billing
-                url: tock/#time-tracking-and-billing
+                url: tools/tock/#time-tracking-and-billing
                 internal: true
               - text: High-level project lifecycle
                 url: 18f-project-lifecycle/
@@ -487,8 +487,8 @@ primary:
           - text: PIF Website
             url: https://presidentialinnovationfellows.gov/
             internal: false
-  - text: Software and tools
-    href: /#software-and-tools
+  - text: Tools
+    href: /#tools
     blurb: |
       A by-no-means complete sampling of commonly used tools around TTS.
     children:

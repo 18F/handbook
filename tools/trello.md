@@ -2,6 +2,8 @@
 title: Trello
 questions:
   - admins-trello
+redirect_from:
+  - /trello/
 ---
 
 [Trello](https://trello.com/) is a collaborative task and project-management tool. TTS has a number of [Workspaces](https://help.trello.com/article/927-what-are-teams) under the `GSA IT - IDT` Enterprise account.

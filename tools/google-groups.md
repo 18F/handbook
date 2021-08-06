@@ -2,6 +2,8 @@
 title: Google Groups
 questions:
   - it-issues
+redirect_from:
+  - /google-groups/
 ---
 
 We use Google Groups to manage team and interest-based email distribution lists and listservs. A list of listservs and groups TTS uses is [here]({{site.baseurl}}/working-groups-and-guilds-101/). Digital.gov also maintains a list of [government Communities of Practice](https://digital.gov/communities/).

@@ -1,5 +1,7 @@
 ---
 title: Microsoft Office
+redirect_from:
+  - /office/
 ---
 
 At TTS, [Google Docs/Sheets/Slides]({{site.baseurl}}/google-drive/) is our preferred tool for documents/spreadsheets/presentations, since it has built-in records retention, collaboration, sharing, importing and exporting of Office files, etc.

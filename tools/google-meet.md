@@ -5,6 +5,7 @@ tags:
   - sound
 redirect_from:
   - /google-hangouts/
+  - /google-meet/
 questions:
   - it-issues
 ---
@@ -31,7 +32,7 @@ You can change your avatar across Google Apps even though Google+ profile editin
 
 ## Tips
 
-- You can [add a Meet]({{site.baseurl}}/google-calendar/#tips) to Google Calendar invites.
+- You can [add a Meet]({{site.baseurl}}/tools/google-calendar/#tips) to Google Calendar invites.
 - All Google Meet meetings include telephone dial-in instructions by default. If someone is unable to join using their computer, you can have them dial in or you can call their phone from the Meet.
 - You can start a Google Hangout from Slack by typing `/hangout`.
 - You can make and receive free domestic phone calls from within Gmail or Google Hangouts. Just create a new number with your GSA account at google.com/voice

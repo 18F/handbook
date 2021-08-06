@@ -1,5 +1,7 @@
 ---
 title: InVision
+redirect_from:
+  - /invision/
 ---
 
 [18F Design]({{site.baseurl}}/design/) uses [InVision](https://www.invisionapp.com/) for prototyping and group online critique. Using InVision at GSA comes with one specific rule: we cannot use any cloud-syncing features. Please don't use InVision Cloud or InVision Sync.

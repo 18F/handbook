@@ -2,6 +2,8 @@
 title: Text editors
 questions:
   - questions
+redirect_from:
+  - /text-editors/
 ---
 
 We use text editors to write documentation in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and to develop code.

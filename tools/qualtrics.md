@@ -1,5 +1,7 @@
 ---
 title: Qualtrics
+redirect_from:
+  - /qualtrics/
 ---
 
 Qualtrics is GSA’s enterprise survey management tool and is the only approved application for external feedback collection projects.

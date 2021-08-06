@@ -5,6 +5,8 @@ tag:
 questions:
   - admins-github
   - dev
+redirect_from:
+  - /github/
 ---
 
 GitHub is a closed-source platform for [open-source](https://github.com/18F/open-source-policy) communities. It allows us to collaborate on documentation and code, both internally and with a broader audience. If you're not familiar with how to use GitHub, see the [introduction]({{site.baseurl}}/intro-to-github/).

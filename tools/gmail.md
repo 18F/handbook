@@ -1,5 +1,7 @@
 ---
 title: Gmail
+redirect_from:
+  - /gmail/
 ---
 
 We use Gmail for email.

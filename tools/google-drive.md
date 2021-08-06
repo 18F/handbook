@@ -2,6 +2,7 @@
 title: Google Drive
 redirect_from:
   - /google-docs/
+  - /google-drive/
 questions:
   - it-issues
 ---

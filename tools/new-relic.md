@@ -2,6 +2,8 @@
 title: New Relic
 questions:
   - admins-newrelic
+redirect_from:
+  - /new-relic/
 ---
 
 [New Relic](https://newrelic.com/) is a cloud-based application performance

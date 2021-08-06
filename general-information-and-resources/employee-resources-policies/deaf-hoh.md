@@ -39,7 +39,7 @@ To access remote interpreting or captioning services:
 1.  Find the service you want to use on the [FedRelay site](https://www.federalrelay.us/federal-relay-services)
 2.  Follow the instructions specific to that service
 3.  When prompted for a Federal Agency Bureau (AB) Code, they are listed in numerical order. GSA is number 4700
-4.  Provide the interpreter or service with TTS’s [Glossary]({{site.baseurl}}/glossary/) of terms and [list of tools]({{site.baseurl}}/#software-and-tools) we reference frequently
+4.  Provide the interpreter or service with TTS’s [Glossary]({{site.baseurl}}/glossary/) of terms and [list of tools]({{site.baseurl}}/#tools) we reference frequently
 
 ### Video relay services (VRS)
 

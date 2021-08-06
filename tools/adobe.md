@@ -1,5 +1,7 @@
 ---
 title: Adobe Acrobat and Creative Cloud (CC)
+redirect_from:
+  - /adobe/
 ---
 
 Visual designers often need [Creative Cloud (CC)](https://www.adobe.com/creativecloud.html) for access to high-powered vector control in Illustrator, image editing in Photoshop, print layout in InDesign, or video-editing tools. You can request either:

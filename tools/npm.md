@@ -2,6 +2,8 @@
 title: npm
 questions:
   - javascript
+redirect_from:
+  - /npm/
 ---
 
 [npm](https://www.npmjs.com/) is a package manager and cloud-based registry for

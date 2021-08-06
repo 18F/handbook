@@ -1,5 +1,7 @@
 ---
 title: Google Calendar
+redirect_from:
+  - /google-calendar/
 ---
 
 Google Calendar is an online calendar that provides us with a single point of reference for scheduling time.

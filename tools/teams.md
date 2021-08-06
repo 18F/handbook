@@ -2,6 +2,8 @@
 title: Microsoft Teams
 questions:
   - infrastructure
+redirect_from:
+  - /tools/teams/
 ---
 
 [![How to access Teams](https://docs.google.com/drawings/d/e/2PACX-1vRUfwfLa4y4Fc4EqymMzJk4cECAdffFyi6_rbmzstYlunQ0mJ60L_IG2PfpJEYJ-Wyz1cr7z6N6rlMG/pub?w=890&h=1047)](https://docs.google.com/drawings/d/1umlAP1Tr2C8NHHdd8JsJgEY3cZJbbY_d2aWXkoAknds/edit)

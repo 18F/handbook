@@ -4,6 +4,8 @@ tags:
   - calendars
 questions:
   - it-issues
+redirect_from:
+  - /sharedcalendars/
 ---
 
 If you’re running a project with a partner, gaining ready visibility into team member calendars can make life (or at least scheduling meetings) a bit easier so you know when people may be available to meet.

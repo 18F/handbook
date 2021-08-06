@@ -1,5 +1,7 @@
 ---
 title: Federalist
+redirect_from:
+  - /federalist/
 ---
 
 We use [Federalist](https://federalist.18f.gov) to build websites.
