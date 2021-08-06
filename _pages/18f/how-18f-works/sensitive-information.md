@@ -59,7 +59,7 @@ process]({{site.baseurl}}/security-incidents/).
 
 ## What to do if you find or expose sensitive information
 
-See [reporting other incidents]({{site.baseurl}}/security-incidents/#reporting-other-incidents).
+See [reporting other incidents]({{site.baseurl}}/general-information-and-resources/tech-policies/security-incidents/#reporting-other-incidents).
 
 ## Protecting TTS Systems
 

@@ -22,7 +22,7 @@ These instructions are pulled from the [InSite page](https://insite.gsa.gov/empl
    - Alternatively, if you don't want to launch the virtual desktop, and would rather launch individual apps through Citrix (such as Chrome or Internet Explorer), you can go to [anywhere.gsa.gov](https://anywhere.gsa.gov/)
 1. Go to [otp.gsa.gov](https://otp.gsa.gov) and enter your ENT info to get the Tokencode
    - You can also obtain a Tokencode by installing SecureAuth OTP on your
-     phone, as described in the [Get a one-time password?]({{site.baseurl}}/distributed/#get-a-one-time-password)
+     phone, as described in the [Get a one-time password?]({{site.baseurl}}/general-information-and-resources/distributed/#get-a-one-time-password)
      handbook section
 1. Enter your ENT info and the Tokencode back into Citrix login-in screen
 

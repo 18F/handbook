@@ -68,7 +68,7 @@ Teams adapt the length, format, and cadence of meetings to fit their needs, but 
 
 ### Making remote collaboration successful
 
-Collaboration at 18F depends on navigating the tools and norms of distributed work. We’re an organization of full-time [teleworkers]({{site.baseurl}}/telework/#if-you-work-a-full-time-telework-schedule-often-called-virtual-or-remote-you) because it’s how we attract and hire folks with the skills we need. Having a distributed team also increases our geographic diversity and forces us to maintain healthy, intentional communication.
+Collaboration at 18F depends on navigating the tools and norms of distributed work. We’re an organization of full-time [teleworkers]({{site.baseurl}}/general-information-and-resources/employee-resource-policies/telework/#if-you-work-a-full-time-telework-schedule-often-called-virtual-or-remote-you) because it’s how we attract and hire folks with the skills we need. Having a distributed team also increases our geographic diversity and forces us to maintain healthy, intentional communication.
 
 In many federal agencies, remote work has a reputation for impeding collaboration, so it’s incumbent on us to demonstrate that a distributed team can be an asset, not a liability.
 
