@@ -3,7 +3,7 @@ title: Eventbrite
 questions:
   - event-management
 redirect_from:
-  - /eventbrite/
+  - /tools/eventbrite/
 ---
 
 TTS uses [Eventbrite](https://www.eventbrite.com/) to manage registrations for events we host.

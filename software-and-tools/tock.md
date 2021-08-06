@@ -158,7 +158,7 @@ In short, we need to know if our scoping is accurate. We'd rather be over budget
 
 ### Tocking for Out of Office Time
 
-You cannot request paid time off in Tock (see the [Leave](../leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly Tock. Staff should Tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to Tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office.
+You cannot request paid time off in Tock (see the [Leave]({{site.baseurl}}/travel-and-leave/leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly Tock. Staff should Tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to Tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office.
 
 If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your Tock hours for you during your out of office period. Example:
 

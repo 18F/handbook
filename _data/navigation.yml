@@ -515,10 +515,10 @@ primary:
             url: meetings-and-meeting-tools/
             internal: true
           - text: Microsoft Teams
-            url: tools/teams/
+            url: software-and-tools/teams/
             internal: true
           - text: Slack (chat client)
-            url: tools/slack/
+            url: software-and-tools/slack/
             internal: true
           - text: Zoom (video conferencing)
             url: zoom/
@@ -543,7 +543,7 @@ primary:
             url: adobe/
             internal: true
           - text: Airtable
-            url: tools/airtable/
+            url: software-and-tools/airtable/
             internal: true
           - text: Analytics
             url: analytics/
@@ -552,7 +552,7 @@ primary:
             url: digital-signatures/
             internal: true
           - text: Eventbrite
-            url: tools/eventbrite/
+            url: software-and-tools/eventbrite/
             internal: true
           - text: GitHub (code repos and versioning)
             url: github/
@@ -564,7 +564,7 @@ primary:
             url: invision/
             internal: true
           - text: Mural (collaborative whiteboard tool)
-            url: tools/mural/
+            url: software-and-tools/mural/
             internal: true
           - text: Qualtrics (survey management tool)
             url: qualtrics/
@@ -573,7 +573,7 @@ primary:
             url: https://before-you-ship.18f.gov/security/scanning/
             internal: false
           - text: Smartsheet
-            url: tools/smartsheet/
+            url: software-and-tools/smartsheet/
             internal: true
           - text: Sketch
             url: sketch/

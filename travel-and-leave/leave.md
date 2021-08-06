@@ -33,7 +33,7 @@ You can also see your remaining leave balances in HR Links (shows up to the righ
 
 ### Logging into HR Links
 
-You must be on the GSA wireless network or on the Windows virtual desktop (accessible through Citrix Workspace or Cisco AnyConnect) to log into HR Links. For instructions on accessing your virtual desktop through Citrix Workspace, go [here]({{site.baseurl}}/virtual-desktop). For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).
+You must be on the GSA wireless network or on the Windows virtual desktop (accessible through Citrix Workspace or Cisco AnyConnect) to log into HR Links. For instructions on accessing your virtual desktop through Citrix Workspace, go [here]({{site.baseurl}}/software-and-tools/virtual-desktop). For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).
 
 1. Open your web browser (Safari is preferred for HR Links)
 1. Go to [HR Links](https://corporateapps.gsa.gov/hr-links/) or find it under "Tools" on the [InSite home page](https://insite.gsa.gov)
@@ -103,7 +103,7 @@ Before taking leave, be sure to:
 - Consider reminding yourself to update your status on return. You can tell Slackbot `/remind me to “Update my OOO reminder per {{site.baseurl}}/leave/#returning-from-leave” on [date you return]`
 
 - 18F team members should also:
-  - Submit [correct Tock entries]({{site.baseurl}}/tock/#tocking-for-out-of-office-time)
+  - Submit [correct Tock entries]({{site.baseurl}}/software-and-tools/tock/#tocking-for-out-of-office-time)
   - Update your Slack username and profile (ex: `@username | OOO until 7/12 | she`)
   - Create an event on the [18F Out of Office Calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com) (TTS Ops uses it to support on-time Tocking)
   - Decline, cancel, or reschedule any meetings you'll miss
@@ -287,7 +287,7 @@ Adjusting work schedules for religious observances is handled differently than l
 
 ## Time tracking
 
-Billable TTS employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
+Billable TTS employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/software-and-tools/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
 
 [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock]({{ site.baseurl }}/tock), which is TTS' own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
 

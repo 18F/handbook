@@ -236,7 +236,7 @@ TTS strives to thoughtfully and intentionally represent the broad American popul
 
 To that end, we strongly encourage reading over the [Diversity, equity, and inclusion]({{site.baseurl}}/diversity) materials in the handbook, and consider joining the #diversity and #accessibility guilds.
 
-We also strive to be intentional when interacting with one another and with partners. One useful tip to start with today is to [fill out your Slack profile]({{site.baseurl}}/tools/slack/getting-started/#profile).
+We also strive to be intentional when interacting with one another and with partners. One useful tip to start with today is to [fill out your Slack profile]({{site.baseurl}}/software-and-tools/slack/getting-started/#profile).
 
 ## Terming out
 

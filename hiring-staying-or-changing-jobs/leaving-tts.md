@@ -58,7 +58,7 @@ If you have any questions, please email the GSA HR Benefits Contact found in the
 
 - Make sure that you aren't the superuser, sole owner, approver, admin, etc. for Tock, important calendars, Google Groups, critical documents, or processes.
   - Move Google Drive files to shared folders, when appropriate.
-  - [Invision instructions]({{site.baseurl}}/invision/#offboarding)
+  - [Invision instructions]({{site.baseurl}}/software-and-tools/invision/#offboarding)
 - Move all calendar invites off your calendar. Nothing worse than an orphaned meeting!
 - Log your final Tock hours.
 - Make a list of the approved software that you downloaded or were issued (not necessary to note the pre-installed software).
