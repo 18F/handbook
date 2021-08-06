@@ -74,8 +74,14 @@ Behavior](<https://www.gsa.gov/directive/gsa-information-technology-(it)-general
 Non-sexual](<https://www.gsa.gov/directive/general-services-administration-(gsa)-policy-statement-on-harassment,-including-sexual-and-non-sexual->),
 [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct/), and ethics
 rules. TTS staff should review emoji requests with these rules in mind.
+
 Submitters should be thoughtful and mindful about emoji submissions, and try to
 ensure they're in line with our values of diversity and inclusion.
+
+**Emoji of TTS members' faces, pets, and the like**: Before submitting emoji of
+TTS members' faces, pets, etc., submitters should ask for consent before submitting.
+For these emoji, approvers **MUST** ask for explicit consent from the person
+whose image is being used.
 
 If you'd like to help review emoji requests, please reach out to
 [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S).
