@@ -139,6 +139,7 @@ collections:
       label: "Tools"
       label_singular: "Tools page"
       nested: { depth: 4 }
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
       folder: "tools/"
       create: true
       fields: 
@@ -149,17 +150,6 @@ collections:
       label: "Training and development"
       label_singular: "Training and development page"
       folder: "training-and-development/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "tools"
-      label: "Tools"
-      label_singular: "Tools page"
-      folder: "tools/"
-      nested: { depth: 4 }
-      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
       create: true
       fields: 
         - {label: "Title", name: "title", widget: "string"}
