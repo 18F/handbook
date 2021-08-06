@@ -2,7 +2,6 @@
 title: Slack user management
 redirect_from:
   - /slack-admin/
-  - /tools/slack/user-management/
 questions:
   - admins-slack
 ---
@@ -53,7 +52,7 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
 ## Custom emoji
 
 [All custom emoji must be reviewed](https://github.com/18f/tts-tech-portfolio/issues/1077) by TTS staff.
-You can add new emoji through [the emoji request process]({{site.baseurl}}/software-and-tools/slack/guidelines/#custom-emoji).
+You can add new emoji through [the emoji request process]({{site.baseurl}}/tools/slack/guidelines/#custom-emoji).
 The overall process looks like this.
 
 1. Users request new emoji from [#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY)

@@ -76,7 +76,7 @@ See a list of other popular channels in the [Slack @ TTS](https://docs.google.co
 
 ## Groups
 
-Slack Groups allow you to direct messages to a specific list of people in a more precise way than [an **@-channel** or **@-here**](../getting-started/#channel-and-here). Any full member can [view, create, and edit Slack groups](https://get.slack.help/hc/en-us/articles/212906697-User-Groups) at will.
+Slack Groups allow you to direct messages to a specific list of people in a more precise way than [an **@-channel** or **@-here**]({{site.baseurl}}/tools/slack/getting-started/#channel-and-here). Any full member can [view, create, and edit Slack groups](https://get.slack.help/hc/en-us/articles/212906697-User-Groups) at will.
 
 Groups are a great way to alert people who might not be in a channel about something that needs their attention or make sure urgent incidents are directed to the right people and not an entire channel. For example, you can ping **@github-admins** in #admins-github if you have an urgent issue instead of using an **@channel** or use **@federalist-team** to alert that group of a conversation in another channel that we should see immediately.
 
