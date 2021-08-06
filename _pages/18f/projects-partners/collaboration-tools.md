@@ -219,7 +219,7 @@ Here are some recommendations for how to level up our partners' skills:
 
 - **Important!** Don't wait until the end of a project to think about this!
 - If the partner is using 18F tools during the project, the team should **advise the partner on how to gain access to their own versions** of those tools or comparable alternatives.
-- The TTS Handbook details processes for offboarding partners off our own tools, like Slack ([account removal]({{site.baseurl}}/tools/slack/user-management/#offboarding) and [exporting]({{site.baseurl}}/tools/slack/records/#exporting-channel-contents)), [Github]({{site.baseurl}}/software-and-tools/github/#rules), and Google Drive. The Account Manager will facilitate this offboarding, including providing ample warning to the partner.
+- The TTS Handbook details processes for offboarding partners off our own tools, like Slack ([account removal]({{site.baseurl}}/tools/slack/user-management/#offboarding) and [exporting]({{site.baseurl}}/software-and-tools/slack/records/#exporting-channel-contents)), [Github]({{site.baseurl}}/software-and-tools/github/#rules), and Google Drive. The Account Manager will facilitate this offboarding, including providing ample warning to the partner.
 - If the team has been using the partner's collaboration tools, be sure to capture any documents or artifacts before we lose access.
 
 ## Using partners' tools
