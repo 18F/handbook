@@ -1,5 +1,7 @@
 ---
 title: Washington, D.C.
+redirect_from:
+  - /washington-dc/
 ---
 
 <div class="table-wrapper">

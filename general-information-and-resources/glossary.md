@@ -7,6 +7,8 @@ tags:
   - Words
 questions:
   - questions
+redirect_from:
+  - /glossary/
 ---
 
 - **[18F](https://18f.gsa.gov/)** - 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships. 18F is an office within TTS.
@@ -136,7 +138,7 @@ questions:
 
 - **UX** - User experience. The overall experience that people have when they use a product or service. UX also refers to the field of user experience _design_, which focuses on building things with a focus on who the user is and what they want to do, rather than just what it should look like.
 
-- **VPN** - Virtual Private Network is a way to pretend that you're on the GSA network when you're not in a GSA building, which also makes your Internet connection more secure. It's required for access to some GSA sites. See [Citrix](../virtual-desktop/) or [AnyConnect](../anyconnect/).
+- **VPN** - Virtual Private Network is a way to pretend that you're on the GSA network when you're not in a GSA building, which also makes your Internet connection more secure. It's required for access to some GSA sites. See [Citrix]({{site.baseurl}}/virtual-desktop/) or [AnyConnect]({{site.baseurl}}/anyconnect/).
 
 - **Waterfall development** - An approach to software development projects based on upfront planning and linear, sequential execution.
 

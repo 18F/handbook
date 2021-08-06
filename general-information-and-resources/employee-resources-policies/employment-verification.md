@@ -12,6 +12,8 @@ tags:
   - mortgage
   - salary
   - income
+redirect_from:
+  - /employment-verification/
 ---
 
 Providing verification of GSA employment and salary.

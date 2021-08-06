@@ -1,5 +1,7 @@
 ---
 title: 18F Corrective Action Plan for the October 2016 GSA Inspector General Evaluation of 18F
+redirect_from:
+  - /igcap-october2016/
 ---
 
 ## Background

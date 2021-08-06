@@ -10,4 +10,6 @@ tags:
 questions:
   - people-ops
   - TTS-PeopleOps@gsa.gov
+redirect_from:
+  - /overtime-and-comp-time/
 ---

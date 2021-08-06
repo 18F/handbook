@@ -8,6 +8,8 @@ tags:
 questions:
   - people-ops
   - TTS-PeopleOps@gsa.gov
+redirect_from:
+  - /telework/
 ---
 
 A core belief of TTS is, “Work is what we do, not where we are.” The goal of this TTS telework guidance is not to recreate or augment GSA policy but to answer the top telework questions and provide clarity around how often TTS employees can telework.

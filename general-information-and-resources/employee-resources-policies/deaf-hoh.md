@@ -3,6 +3,8 @@ title: Resources for Deaf and Hard of Hearing individuals in TTS
 questions:
   - g-accessibility
   - g-diversity
+redirect_from:
+  - /deaf-hoh/
 ---
 
 Tools, services, points of contact, and tips for navigating the resources available to individuals and teams.

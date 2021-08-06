@@ -3,6 +3,8 @@ title: Public disclosures of vulnerabilities
 questions:
   - bug-bounty
   - vuln-disclosure
+redirect_from:
+  - /responding-to-public-disclosure-vulnerabilities/
 ---
 
 _For reporting vulnerabilities, submit your report through the [TTS Bug Bounty Program](https://hackerone.com/tts)._

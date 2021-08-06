@@ -8,6 +8,8 @@ tags:
 questions:
   - people-ops
   - hrlinks@gsa.gov
+redirect_from:
+  - /telework-agreement-new-ft/
 ---
 
 This is a short How-To guide for new employees in full time telework positions to quickly and easily submit your Telework Agreement through HR Links. In most, if not all cases, new employees that are “Virtual” in the final job offer have had initial telework documentation completed by their supervisors or the talent team. The Telework Agreement is still needed, but with those pre-approvals in place, the following steps should work for you.
