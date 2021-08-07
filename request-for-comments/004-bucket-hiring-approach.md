@@ -1,16 +1,7 @@
 ---
-title: Cross-TTS Hiring at Scale
-author: V. David Zvenyach
-rfc_id: 004
-date_proposed: 2021-07-23
-designated_skeptic:
-final_approver: VDZ
-state: final
+title: RFC 004 - Cross-TTS Hiring at Scale
 date_approved: 2021-08-03
-responses_due: 2021-07-30
 ---
-
-# RFC 004 - Cross-TTS Hiring at Scale
 
 ## The problem / situation / context
 

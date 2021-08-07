@@ -1,15 +1,7 @@
 ---
-title: TTS Supervisors should be permanent
-author: V. David Zvenyach
-rfc_id: 001
-date_proposed: 2021-07-09
-designated_skeptic: N/A
-final_approver: V. David Zvenyach
-state: final
+title: RFC 001 - TTS Supervisors should be permanent
 date_approved: 2021-07-20
 ---
-
-# RFC 001 — TTS Supervisors should be permanent
 
 ## The problem / situation / context
 

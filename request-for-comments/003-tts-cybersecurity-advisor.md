@@ -1,15 +1,7 @@
 ---
-title: TTS Senior Cybersecurity Advisor
-author: Julia Elman
-rfc_id: 003
-date_proposed: 2021-07-23
-final_approver: V. David Zvenyach
-state: final
-responses_due: 2021-07-30
+title: RFC 003 - TTS Senior Cybersecurity Advisor
 date_approved: 2021-08-05
 ---
-
-# RFC 003 - TTS Senior Cybersecurity Advisor
 
 ## The problem / situation / context
 
