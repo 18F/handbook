@@ -1,5 +1,6 @@
 ---
 title: Office of Solutions (SOL)
+permalink: /office-of-solutions/
 redirect_from:
   - /office-of-products-and-programs/
 ---

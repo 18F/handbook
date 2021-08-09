@@ -1,5 +1,6 @@
 ---
 title: Development and training
+permalink: /training-and-development/
 tags:
   - classes
   - training

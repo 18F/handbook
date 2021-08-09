@@ -15,7 +15,7 @@ The hypothesis was simple: the U.S. government could attract talented technologi
 - 2013: 18F funding approved and hiring begins.
 - 2014: 18F creates [cloud.gov](https://cloud.gov).
 - 2015: 18F creates the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/)
-- 2015: 18F joins [TTS Solutions]({{site.baseurl}}/office-of-solutions).
+- 2015: 18F joins [TTS Solutions]({{site.baseurl}}/office-of-solutions/).
 - 2016: 18F creates [login.gov](https://login.gov) and [cloud.gov Pages](https://federalist.18f.gov/)
 - 2016: 18F gets procurement authority.
 - 2019: 18F gets assisted acquisition authority.

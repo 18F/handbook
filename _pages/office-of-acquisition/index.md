@@ -1,5 +1,6 @@
 ---
 title: Office of Acquisition
+permalink: /office-of-acquisition/
 questions:
   - tts-oa
 redirect_from:
