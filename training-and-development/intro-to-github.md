@@ -20,7 +20,7 @@ The remainder of this post will help you familiarize yourself with GitHub, get s
 * [GitHub]({{site.baseurl}}/github/) - A detailed guide on how we use GitHub at TTS.
 * [GitHub for Beginners](https://www.youtube.com/watch?v=uNa9GOtM6NE&t=1s) - Intended for beginners, this video class is led by Will Slack. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18) and course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
 * [How to use GitHub, the terminal, and the 18F site](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) - This tutorial from Melody Kramer and Greg Boone walks you through using GitHub to contribute to our blog. It's intended for beginners, but includes tips for intermediate GitHub users, too.
-* [“Git what?” Extolling Github’s virtues to non-coders](https://medium.com/nyc-planning-digital/git-what-extolling-githubs-virtues-to-non-coders-6cc11f1a5fd2) - In this article, learn from a high level view how GitHub works. It’s a great article for those of you worried about how complicated GitHub can be and explains what it’s like for non-coders.
+* [“Git what?” Extolling GitHub’s virtues to non-coders](https://medium.com/nyc-planning-digital/git-what-extolling-githubs-virtues-to-non-coders-6cc11f1a5fd2) - In this article, learn from a high level view how GitHub works. It’s a great article for those of you worried about how complicated GitHub can be and explains what it’s like for non-coders.
 * [GitHub for Non-Coders](https://brennan.io/2015/08/07/github-noncoders/) - This blog branches off from the previous article. It goes into more detail about how GitHub can be used by non-coders. Share this with any team members who are hesitant about how GitHub can be used by them.
 * GitHub has a handy document that explains the typical [GitHub Workflow](https://guides.github.com/introduction/flow/).
 
@@ -39,7 +39,7 @@ The following resources will help you with learning GitHub. They are organized b
 
 Once you're a member of the 18F organization, you'll have access to many of our repos. You'll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
 
-Repositories are where everything is stored in GitHub. Understanding what a repository is will help you understand where your information is stored in GitHub and who can access it. [Github Docs - About repositories](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-repositories) starts you out on understanding repositories.
+Repositories are where everything is stored in GitHub. Understanding what a repository is will help you understand where your information is stored in GitHub and who can access it. [GitHub Docs - About repositories](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-repositories) starts you out on understanding repositories.
 
 ### 2. Project Management
 
