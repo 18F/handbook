@@ -5,11 +5,12 @@ tags:
 redirect_from:
   - /intro-to-github/
 ---
-*This section provides a brief overview of GitHub. There are different sections provided for different functions in GitHub. Use the sections that are relevant to the work you will be doing.*
+
+_This section provides a brief overview of GitHub. There are different sections provided for different functions in GitHub. Use the sections that are relevant to the work you will be doing._
 
 [GitHub](https://github.com) is a publicly accessible place to share and collaborate on (primarily) open source software projects. GitHub interacts with a program on your computer called Git that tracks every change ever made in a software project.
 
-[Git and GitHub]({{site.baseurl}}/github/) are the standard tools for revision control at TTS. We use GitHub to author blog posts, manage documentation, and comment on one another's work. In fact, it's very likely you'll interact with GitHub in *some* way, even if you're not writing code.
+[Git and GitHub]({{site.baseurl}}/github/) are the standard tools for revision control at TTS. We use GitHub to author blog posts, manage documentation, and comment on one another's work. In fact, it's very likely you'll interact with GitHub in _some_ way, even if you're not writing code.
 
 We recommend you get familiar with the basics. If you're new to GitHub and feel confused at first, that's normal. Try a few guides, review our documentation, and ask your teammates for help.
 
@@ -17,12 +18,12 @@ The remainder of this post will help you familiarize yourself with GitHub, get s
 
 ### Introduction
 
-* [GitHub]({{site.baseurl}}/github/) - A detailed guide on how we use GitHub at TTS.
-* [GitHub for Beginners](https://www.youtube.com/watch?v=uNa9GOtM6NE&t=1s) - Intended for beginners, this video class is led by Will Slack. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18) and course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
-* [How to use GitHub, the terminal, and the 18F site](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) - This tutorial from Melody Kramer and Greg Boone walks you through using GitHub to contribute to our blog. It's intended for beginners, but includes tips for intermediate GitHub users, too.
-* [“Git what?” Extolling GitHub’s virtues to non-coders](https://medium.com/nyc-planning-digital/git-what-extolling-githubs-virtues-to-non-coders-6cc11f1a5fd2) - In this article, learn from a high level view how GitHub works. It’s a great article for those of you worried about how complicated GitHub can be and explains what it’s like for non-coders.
-* [GitHub for Non-Coders](https://brennan.io/2015/08/07/github-noncoders/) - This blog branches off from the previous article. It goes into more detail about how GitHub can be used by non-coders. Share this with any team members who are hesitant about how GitHub can be used by them.
-* GitHub has a handy document that explains the typical [GitHub Workflow](https://guides.github.com/introduction/flow/).
+- [GitHub]({{site.baseurl}}/github/) - A detailed guide on how we use GitHub at TTS.
+- [GitHub for Beginners](https://www.youtube.com/watch?v=uNa9GOtM6NE&t=1s) - Intended for beginners, this video class is led by Will Slack. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18) and course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
+- [How to use GitHub, the terminal, and the 18F site](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) - This tutorial from Melody Kramer and Greg Boone walks you through using GitHub to contribute to our blog. It's intended for beginners, but includes tips for intermediate GitHub users, too.
+- [“Git what?” Extolling GitHub’s virtues to non-coders](https://medium.com/nyc-planning-digital/git-what-extolling-githubs-virtues-to-non-coders-6cc11f1a5fd2) - In this article, learn from a high level view how GitHub works. It’s a great article for those of you worried about how complicated GitHub can be and explains what it’s like for non-coders.
+- [GitHub for Non-Coders](https://brennan.io/2015/08/07/github-noncoders/) - This blog branches off from the previous article. It goes into more detail about how GitHub can be used by non-coders. Share this with any team members who are hesitant about how GitHub can be used by them.
+- GitHub has a handy document that explains the typical [GitHub Workflow](https://guides.github.com/introduction/flow/).
 
 ### Set up your account
 
@@ -34,8 +35,8 @@ The following resources will help you with learning GitHub. They are organized b
 
 ### 1. Repository Basics
 
-* **Repo** is short for repository, or a project on GitHub. Anybody at TTS can create repos in the 18F organization and you should *always* create new projects as 18F, not as yourself. You can create new repos in GitHub by clicking the + next to your profile picture. Then, choose New Repository and change the owner to 18F.
-* The **license** on every repo must be Creative Commons 0, or CC0. That's shorthand for Public Domain. TTS is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don't trademark our logo.) There are a few exceptions to that rule, so check with [\#admins-github](https://gsa-tts.slack.com/archives/admins-github) and [\#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before putting any license *other* than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/).
+- **Repo** is short for repository, or a project on GitHub. Anybody at TTS can create repos in the 18F organization and you should _always_ create new projects as 18F, not as yourself. You can create new repos in GitHub by clicking the + next to your profile picture. Then, choose New Repository and change the owner to 18F.
+- The **license** on every repo must be Creative Commons 0, or CC0. That's shorthand for Public Domain. TTS is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don't trademark our logo.) There are a few exceptions to that rule, so check with [\#admins-github](https://gsa-tts.slack.com/archives/admins-github) and [\#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/).
 
 Once you're a member of the 18F organization, you'll have access to many of our repos. You'll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
 
@@ -63,8 +64,8 @@ There are a few exceptions to this, but generally speaking, you will submit any 
 
 A few clarifying definitions:
 
-* A **fork** is a copy of the main project that is fully separate from 18F's. You might be asked to fork a repo and work off your own copy, or you might be asked to commit directly to your team's original repo. This is the kind of thing you should ask your teammates about — don't make assumptions!
-* There are a few exceptions to this, but generally speaking, you will submit any changes to a project through a pull request. A **pull request,** or **PR,** is a way of saying "here are some changes I'd like to contribute " and letting the repo's owner decide whether to accept (or merge) them or give feedback. Sometimes your pull request will go from your fork to the main project, sometimes from a *branch.* Again, make sure you understand your team's Git workflow. On [\#18f-site](<>), nobody forks and everybody works off of branches; we submit pull requests to the staging branch.
+- A **fork** is a copy of the main project that is fully separate from 18F's. You might be asked to fork a repo and work off your own copy, or you might be asked to commit directly to your team's original repo. This is the kind of thing you should ask your teammates about — don't make assumptions!
+- There are a few exceptions to this, but generally speaking, you will submit any changes to a project through a pull request. A **pull request,** or **PR,** is a way of saying "here are some changes I'd like to contribute " and letting the repo's owner decide whether to accept (or merge) them or give feedback. Sometimes your pull request will go from your fork to the main project, sometimes from a _branch._ Again, make sure you understand your team's Git workflow. On [\#18f-site](), nobody forks and everybody works off of branches; we submit pull requests to the staging branch.
 
 ### 4. Mastering Markdown
 
