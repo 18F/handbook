@@ -13,7 +13,7 @@ redirect_from:
 
 Generally speaking, there are two ways that 18F can work with a partner on a procurement - an _Acquisition Consulting Engagement_ and an _Assisted Acquisition Engagement_.
 
-Note - some common terms used in discussing acquisitions can be found in [this primer]({{site.baseurl}}/working-on-an-acquisition-engagement/#acquisition-glossary) on what it means to be staffed to an 18F procurement project.
+Note - some common terms used in discussing acquisitions can be found in [this primer]({{site.baseurl}}/18f/projects-partners/working-on-an-acquisition-engagement/#acquisition-glossary) on what it means to be staffed to an 18F procurement project.
 
 ## Acquisition Consulting Engagement
 
