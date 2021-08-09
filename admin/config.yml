@@ -166,3 +166,14 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "18f"
+      label: "18F"
+      label_singular: "18F page"
+      folder: "18f/"
+      nested: { depth: 4 }
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}

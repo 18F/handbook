@@ -101,7 +101,7 @@ There is [a coffee shop on the 64th floor](https://forfivecoffee.com/). You need
 
 ### Spare keyboards and mice
 
-There are supply rooms with pens, sticky notes, etc. If you need something ordered, see the [purchase requests]({{site.baseurl}}/purchase-requests/#office-supplies) page.
+There are supply rooms with pens, sticky notes, etc. If you need something ordered, see the [purchase requests]({{site.baseurl}}/general-information-and-resources/purchase-requests/#office-supplies) page.
 
 ## Transit subsidy
 

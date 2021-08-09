@@ -51,7 +51,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
 - [**Do not store sensitive information in
-  GitHub**]({{site.baseurl}}/sensitive-information/#protecting-tts-systems).
+  GitHub**]({{site.baseurl}}/general-information-and-resources/sensitive-information/#protecting-tts-systems).
 - **Ask TTS Tech Portfolio before integrating a service with GitHub.** Many websites offer the option to "Sign in with GitHub" and may further request permission to access your "personal user data." Providing this level of access can not only share your public or private email address, but it can also grant the ability to access TTS private repositories. For this reason, we ask that all organization members refrain from authorizing integrations and request any desired integrations through an TTS Tech Portfolio issue.
 
 - **Ask TTS Tech Portfolio before creating private repositories.** We pay GitHub for the ability to create private repositories and need to bill clients for repositories created on their behalf. Before you do anything, drop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github) and explain what you'd like to do and why. Be sure to include a link in your repo README to a document that explains why it is private. (See the **Exceptions** section of the [18F Open Source policy](https://18f.gsa.gov/open-source-policy/).)

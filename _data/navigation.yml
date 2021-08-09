@@ -404,7 +404,7 @@ primary:
                     url: acquisition-engagement-types/
                     internal: true
                   - text: Acquisition engagement glossary
-                    url: working-on-an-acquisition-engagement/#acquisition-glossary
+                    url: 18f/projects-partners/working-on-an-acquisition-engagement/#acquisition-glossary
                     internal: true
               - text: Microrequests (labs)
                 url: microrequests/

@@ -20,7 +20,7 @@ Slack is used by all TTS staff. Some things you'll want to remember, especially 
 
 - **Abide by the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** This includes use of avatars, emoji, files, and links. If you see anyone violating our Code of Conduct, see the reporting section.
 - [**Assume everything you share/do in Slack will be made public, and attributed back to you.**](../records/)
-- **Do not post any [sensitive information]({{site.baseurl}}/sensitive-information/).** See the [list of alternatives]({{site.baseurl}}/sensitive-information/#tools).
+- **Do not post any [sensitive information]({{site.baseurl}}/sensitive-information/).** See the [list of alternatives]({{site.baseurl}}/general-information-and-resources/sensitive-information/#tools).
 
 ## Channel names
 
