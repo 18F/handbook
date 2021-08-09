@@ -18,8 +18,7 @@ collections:
       files:
         - label: "Contributing"
           name: "contributing"
-          file: "CONTRIBUTING.md"
-          fields: 
+          file: "CONTRIBUTING.md" fields: 
             - {label: "Title", name: "title", widget: "string"}
             - {label: "Questions", name: "questions", widget: "list"}
             - {label: "Body", name: "body", widget: "markdown"}
@@ -159,6 +158,17 @@ collections:
       label: "Travel and leave"
       label_singular: "Travel and leave page"
       folder: "travel-and-leave/"
+      nested: { depth: 4 }
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+      create: true
+      fields: 
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Questions", name: "questions", widget: "list"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "18f"
+      label: "18F"
+      label_singular: "18F page"
+      folder: "18f/"
       nested: { depth: 4 }
       meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
       create: true
