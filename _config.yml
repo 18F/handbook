@@ -36,7 +36,7 @@ permalink: pretty
 collections:
   pages:
     output: true
-    permalink: /:name/
+    permalink: /:path/
 
 url: "https://handbook.tts.gsa.gov"
 plugins:
