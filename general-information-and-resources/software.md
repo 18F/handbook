@@ -15,7 +15,8 @@ If you need to purchase more expensive software, see [procurements over $10,000]
 
 ## Get access to software we already have
 
-[**Search the IT Standards list.**]({{site.baseurl}}/software/search/)
+[**Search the IT Standards
+list.**]({{site.baseurl}}/general-information-and-resources/software/search/)
 
 If the software you are looking for is in the [TTS inventory](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), send an email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) requesting a license for the software you need. The TTS Saas Project Manager will contact you within 1-2 business days.
 

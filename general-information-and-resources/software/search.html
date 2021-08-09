@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_from:
+  - /software/search/
 ---
 
 {% capture my_include %}{% include software-search-intro.md %}{% endcapture %}
@@ -20,7 +22,7 @@ layout: page
   </form>
 </section>
 <section>
-  <table id="software-search-results" class="usa-table" style="display: none;">
+  <table id="software-search-results" class="usa-table" style="display: none">
     <caption role="alert">
       Search results
     </caption>
@@ -36,7 +38,7 @@ layout: page
     </thead>
     <tbody></tbody>
   </table>
-  <div id="no-results" class="usa-alert usa-alert--info" style="display: none;">
+  <div id="no-results" class="usa-alert usa-alert--info" style="display: none">
     <div class="usa-alert__body">
       <h3 class="usa-alert__heading">No results</h3>
     </div>
