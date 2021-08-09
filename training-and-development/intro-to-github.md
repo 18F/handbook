@@ -54,7 +54,7 @@ If you’re trying to learn how to become an expert in issues, this article, [Ma
 
 [Digital.gov: An Introduction to GitHub](https://digital.gov/resources/an-introduction-github/) is a video that includes a lot of the GitHub basics you could want. It’s about a 30 minute video that shows you how to manage and publish website content. **This is particularly useful if you are contributing to [Federalist](https://federalist.18f.gov/) sites.**
 
-Pull requests are important for editing content and making changes in Github. [Github Docs - About pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) explains what a pull request is and how it works. Make sure you are making a pull request from a [branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch) and not directly in Master.
+Pull requests are important for editing content and making changes in GitHub. [Github Docs - About pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) explains what a pull request is and how it works. Make sure you are making a pull request from a [branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch) and not directly in Master.
 
 [Introduction to GitHub for Newcomers](https://www.youtube.com/watch?v=uNa9GOtM6NE) is a longer video that will teach you how to file issues and issue pull requests.
 
@@ -69,11 +69,11 @@ A few clarifying definitions:
 
 ### 4. Mastering Markdown
 
-Markdown is how you will format and edit content in Github. [Github Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/) will teach you the basics of markdown. Look for the eye icon and text that says “Preview changes” and you’ll be able to see what the markdown will look like once it is displayed. If you notice that your text is not converting to the styles, go back to the file and make sure it ends with the .md file extension.
+Markdown is how you will format and edit content in GitHub. [Github Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/) will teach you the basics of markdown. Look for the eye icon and text that says “Preview changes” and you’ll be able to see what the markdown will look like once it is displayed. If you notice that your text is not converting to the styles, go back to the file and make sure it ends with the .md file extension.
 
-### 5. Practice in Github
+### 5. Practice in GitHub
 
-When you’re ready to start practicing with Github, the [TTS Handbook repository](https://github.com/18F/handbook) is a good place to start. If you see something in the handbook that is out of date or there is at typo that needs to be fixed, you can create a pull request and make the changes. At least one review is required for it to be merged into the handbook, so someone will check your work. If you need help, you can ask in the #tts-handbook Slack channel.
+When you’re ready to start practicing with GitHub, the [TTS Handbook repository](https://github.com/18F/handbook) is a good place to start. If you see something in the handbook that is out of date or there is at typo that needs to be fixed, you can create a pull request and make the changes. At least one review is required for it to be merged into the handbook, so someone will check your work. If you need help, you can ask in the #tts-handbook Slack channel.
 
 ### 6. Working with GitHub
 
@@ -81,7 +81,7 @@ If you're working with an agency, you'll need to find ways to collaborate with t
 
 You can use GitHub for almost anything, but consider the resources available to agency partners or other stakeholders before deciding to use it. Are your agency partners used to using GitHub? Will they need to create accounts and jump through hoops? Can they even access it from their agency computers? These are the kinds of things we consider when deciding if GitHub is the right thing to use.
 
-TTS sometimes adds contractors and agency partners to the 18F organization on Github. We sometimes use forks to collaborate with contractors. Sometimes we do both. Again, check with your team on how to do this.
+TTS sometimes adds contractors and agency partners to the 18F organization on GitHub. We sometimes use forks to collaborate with contractors. Sometimes we do both. Again, check with your team on how to do this.
 
 Most projects/repositories have a `CONTRIBUTING.md` file in their root directory that explains how the team invites people to contribute to the project. They might prefer chats over pull requests, for example.
 
@@ -93,12 +93,12 @@ Final pro tip: If your project wants issues formatted in a specific way, you can
 
 ### 7. Transferring a repository
 
-Often during the course of working with and transitioning projects to partners, an `18F`-owned Github repository will need to be transferred to the ownership of the partner. A "Transfer" is the recommended approach since it will include Issues, Pull Requests, and other Github metadata and history that won't be captured by just cloning the `git` repository which only contains the code.
+Often during the course of working with and transitioning projects to partners, an `18F`-owned GitHub repository will need to be transferred to the ownership of the partner. A "Transfer" is the recommended approach since it will include Issues, Pull Requests, and other GitHub metadata and history that won't be captured by just cloning the `git` repository which only contains the code.
 
-#### Transferring to another organization on Github.com
+#### Transferring to another organization on GitHub.com
 
-This is a simple process that can be initiated in the Github user interface, but requires a user with `ownership` permissions to the Github repository in question (a higher level of access than `admin`). For help transferring a repository, please send a message to [\#admins-github](https://gsa-tts.slack.com/archives/admins-github). More details can be found on [Github](https://help.github.com/en/articles/transferring-a-repository).
+This is a simple process that can be initiated in the GitHub user interface, but requires a user with `ownership` permissions to the GitHub repository in question (a higher level of access than `admin`). For help transferring a repository, please send a message to [\#admins-github](https://gsa-tts.slack.com/archives/admins-github). More details can be found on [Github](https://help.github.com/en/articles/transferring-a-repository).
 
-#### Transferring to Github Enterprise
+#### Transferring to GitHub Enterprise
 
-Unfortunately, transferring repositories from Github.com to Github Enterprise cannot be done via the Github user interface and requires a process that relies on the Github API. Access to the migration [API](https://developer.github.com/v3/migrations/orgs/) will require `ownership` permissions to the repository in question on both sides of the transfer. Please coordinate with [\#admins-github](https://gsa-tts.slack.com/archives/admins-github) and partner administrators to facilitate this type of transfer. See [Github](https://help.github.com/enterprise/2.2/admin/articles/moving-a-repository-from-github-com-to-github-enterprise) for more details.
+Unfortunately, transferring repositories from GitHub.com to GitHub Enterprise cannot be done via the GitHub user interface and requires a process that relies on the GitHub API. Access to the migration [API](https://developer.github.com/v3/migrations/orgs/) will require `ownership` permissions to the repository in question on both sides of the transfer. Please coordinate with [\#admins-github](https://gsa-tts.slack.com/archives/admins-github) and partner administrators to facilitate this type of transfer. See [Github](https://help.github.com/enterprise/2.2/admin/articles/moving-a-repository-from-github-com-to-github-enterprise) for more details.
