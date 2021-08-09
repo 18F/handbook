@@ -11,7 +11,7 @@ redirect_from:
 
 <!--StartFragment-->
 
-The roots of the Technology Transformation Services reach back to 1966 and a nationwide network of 26 Federal Information Centers that people could visit in person for answers to government questions. Over the next four decades, those information centers would add numerous responsibilities and change names a number of times before becoming what is now known as Solutions, [after a few iterations](https://handbook.tts.gsa.gov/office-of-solutions/history/).
+The roots of the Technology Transformation Services reach back to 1966 and a nationwide network of 26 Federal Information Centers that people could visit in person for answers to government questions. Over the next four decades, those information centers would add numerous responsibilities and change names a number of times before becoming what is now known as Solutions, [after a few iterations]({{site.baseurl}}/office-of-solutions/history/).
 
 <!--EndFragment-->
 
