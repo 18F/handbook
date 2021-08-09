@@ -3,6 +3,7 @@ title: TTS mission, history, and values
 redirect_from:
   - /tts-history/
 ---
+
 **Mission:** Design and deliver a digital government with and for the American public.
 
 **Vision:** Trusted modern government experiences for all.
@@ -31,20 +32,21 @@ TTS has grown in the years since and now contains a number of offices and teams,
 
 <!--EndFragment-->
 
-* **18F** enables and empowers government agencies to design, develop, buy, and deploy human-centered technological solutions faster and with reduced risk. By working side-by-side and coaching on design and procurement best practices, we guide our partner agencies while we build successful projects together and prepare them to continue their modernization efforts into the future.
+- **18F** enables and empowers government agencies to design, develop, buy, and deploy human-centered technological solutions faster and with reduced risk. By working side-by-side and coaching on design and procurement best practices, we guide our partner agencies while we build successful projects together and prepare them to continue their modernization efforts into the future.
 
-  * **Business Operations** leads the day to day operations of the organization and delivers on the TTS strategy and operational plans.
-* Outreach is responsible for the TTS marketing and outreach strategy and execution with the public and federal audiences like our employees and agency partners. Outreach drives awareness, understanding, and demand for TTS services. Our team ensures that the TTS mission is clear in all we do: to design and deliver a digital government with and for the American public.
-* Presidential Innovation Fellows (PIF) unites our nation's brightest technologists, designers, and strategists with federal agencies as yearlong entrepreneurs in residence. With our agency partners, our fellows co-create stronger public services using data science, design, engineering, product, and systems thinking. Read about our program, people, and projects in the [PIF Impact Report](https://pif.gov/impact).
-* Solutions helps agencies improve delivery of information and services to the public. Responsible for operations, evolution, and scaling of mature products and services such as USA.gov, Data.gov, Challenge.gov and the Digital Analytics Program.
-* Strategic Partnerships
-* The Centers of Excellence (CoEs) accelerates IT modernization across the government to improve the public experience and increase operational efficiency. Our dynamic team of subject matter experts speed up acquisition, discovery, and implementation to facilitate the adoption of modern technology by executive agencies.implements IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation.
+  - **Business Operations** leads the day to day operations of the organization and delivers on the TTS strategy and operational plans.
+
+- Outreach is responsible for the TTS marketing and outreach strategy and execution with the public and federal audiences like our employees and agency partners. Outreach drives awareness, understanding, and demand for TTS services. Our team ensures that the TTS mission is clear in all we do: to design and deliver a digital government with and for the American public.
+- Presidential Innovation Fellows (PIF) unites our nation's brightest technologists, designers, and strategists with federal agencies as yearlong entrepreneurs in residence. With our agency partners, our fellows co-create stronger public services using data science, design, engineering, product, and systems thinking. Read about our program, people, and projects in the [PIF Impact Report](https://pif.gov/impact).
+- Solutions helps agencies improve delivery of information and services to the public. Responsible for operations, evolution, and scaling of mature products and services such as USA.gov, Data.gov, Challenge.gov and the Digital Analytics Program.
+- Strategic Partnerships
+- The Centers of Excellence (CoEs) accelerates IT modernization across the government to improve the public experience and increase operational efficiency. Our dynamic team of subject matter experts speed up acquisition, discovery, and implementation to facilitate the adoption of modern technology by executive agencies.implements IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation.
 
 <!--EndFragment-->Our values
 
-* **Inclusion**\
+- **Inclusion**\
    We put people first and celebrate what brings us together and makes each of us unique to meet the public’s needs.
-* **Integrity**\
+- **Integrity**\
    We are present, transparent, and honest to enable accessible and trustworthy innovation.
-* **Impact**\
+- **Impact**\
    We grow together and create lasting change for the good of the public and public servants.
