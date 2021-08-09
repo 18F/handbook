@@ -97,7 +97,7 @@ In both cases, you're collaboratively trying to reach a final version.
 [The TTS Engineering Practices Guide has some great guidance](https://engineering.18f.gov/code-review/#tips-for-a-successful-review)
 on how to be a good code review partner, but the main thing to remember is simply to be kind. We're all trying to improve things.
 
-And remember: you can be fearless in your pull requests. If you ever manage to break something in Github it can easily be changed back to how it was --- that's the beauty of version control.
+And remember: you can be fearless in your pull requests. If you ever manage to break something in GitHub it can easily be changed back to how it was --- that's the beauty of version control.
 If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack.com/app_redirect?channel=tts-handbook) Slack channel and someone will quickly help you.
 
 ### Setting up your Mac for success

@@ -109,7 +109,7 @@ _(these are from your Acq Chapter friends)_
 
 - **Engage with security early and often.** We’ve learned that security is one of the sticking points for delivering government products. If you are not an expert in security, bring somebody who is.
 
-- **Post it everywhere.** We post on e-buy, FBO.gov, and Github.
+- **Post it everywhere.** We post on e-buy, FBO.gov, and GitHub.
 
 #### Work with (not for) the vendors
 

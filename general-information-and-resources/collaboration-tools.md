@@ -131,7 +131,7 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 **[GitHub]({{site.baseurl}}/github/)** is an online code storage and collaboration platform. 18F will create a repository (commonly called a repo) for the project and use it to store both documents and code. By default, 18F's work with your team on GitHub will be visible to the public. Your 18F team can tell you more about the benefits of working in the open. Teams may also use GitHub, as well as browser add-ons that complement it, to collaboratively track project tasks.
 
 - [Github handbook page]({{site.baseurl}}/github/)
-- Github @ TTS – Internal Guide _(coming soon)_
+- GitHub @ TTS – Internal Guide _(coming soon)_
 
 <details markdown="block">
 <summary>Compliance and records considerations</summary>
@@ -206,7 +206,7 @@ Here are some recommendations for how to level up our partners' skills:
 #### Provide a training or learning materials
 
 - Use or adapt Greg Walker's [Slack training](https://app.slack.com/docs/T025AQGAN/FQ46XKBMZ?origin_team=T025AQGAN).
-- There are some useful Github-related resources listed in [this Slack thread](https://gsa-tts.slack.com/archives/CHZLJBWCV/p1559759830000500) or [this Slack thread](https://gsa-tts.slack.com/archives/C04KL9ZN2/p1571357280118500).
+- There are some useful GitHub-related resources listed in [this Slack thread](https://gsa-tts.slack.com/archives/CHZLJBWCV/p1559759830000500) or [this Slack thread](https://gsa-tts.slack.com/archives/C04KL9ZN2/p1571357280118500).
 
 #### Learn by doing/watching/failing
 
