@@ -18,7 +18,7 @@ collections:
       files:
         - label: "Contributing"
           name: "contributing"
-          file: "CONTRIBUTING.md" 
+          file: "CONTRIBUTING.md"
           fields: 
             - {label: "Title", name: "title", widget: "string"}
             - {label: "Questions", name: "questions", widget: "list"}
