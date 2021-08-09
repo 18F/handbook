@@ -37,7 +37,7 @@ All software in use at GSA needs to be approved through the IT Standards process
 - Free and open source development packages
   - In general, open source development libraries are exempt from IT Standards review.
   - See the [CIO GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>) (section 2c) for more details.
-- [Tools from partner agencies]({{site.baseurl}}/collaboration-tools/#using-partners-tools)
+- [Tools from partner agencies]({{site.baseurl}}/general-information-and-resources/collaboration-tools/#using-partners-tools)
 
 ## Purchase new software
 

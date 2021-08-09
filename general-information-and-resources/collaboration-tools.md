@@ -232,7 +232,7 @@ Per the [IT Standards policy](<https://www.gsa.gov/directive/gsa-information-te
 
 In other words, it is generally fine to use a tool authorized and maintained by a partner agency. If you're not sure, ask.
 
-That said, only [approved software]({{site.baseurl}}/software/#approvals) can be installed on GSA machines. This often means using web-based versions, where possible.
+That said, only [approved software]({{site.baseurl}}/general-information-and-resources/software/#approvals) can be installed on GSA machines. This often means using web-based versions, where possible.
 
 ## See also
 

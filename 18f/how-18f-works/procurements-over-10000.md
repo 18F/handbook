@@ -16,7 +16,7 @@ Buying something over $10,000 means that the Office of Acquisition (OA) needs to
 - Things you should know before submitting the Intake Form:
   - We will need funding for the buy in the form of a PR or a [memo](https://docs.google.com/document/d/1tayJSTcge_jUEM7BWQvX2Tw_oexv6XhecTkJsawGknw/edit) stating funds are available.
   - Start thinking about who should be the Contracting Officer Representative (COR) on the project, someone to help manage the buy. They will need to be [FAC-COR](https://docs.google.com/document/d/1HzbEv6yQn6pWYl1MDImeLW6ShedcRsekSCBe54Nsnc8/edit#heading=h.aizxbe137goh) certified.
-  - If your request is for a software, please note that it is your responsibility to you get an Authority to Operate (ATO) or Fedramp Authorization. GSA IT asks technical and security questions, and you are probably the best POC to answer them. The steps to find or get an ATO is outlined in [TTS Handbook-Software-ATO]({{ site.baseurl }}/software/#step-4-obtain-ato--fitara-approval) section.
+  - If your request is for a software, please note that it is your responsibility to you get an Authority to Operate (ATO) or Fedramp Authorization. GSA IT asks technical and security questions, and you are probably the best POC to answer them. The steps to find or get an ATO is outlined in [TTS Handbook-Software-ATO]({{site.baseurl}}/general-information-and-resources/software/#step-4-obtain-ato--fitara-approval) section.
 
 ### 2. Intro meeting
 

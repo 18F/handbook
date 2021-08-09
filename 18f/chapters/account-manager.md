@@ -37,7 +37,7 @@ Once an agreement has been submitted to the IAA process, the AM works with other
 
 ### Project kickoff
 
-Once the agreement is executed and staffed, a Tock line is created (by the account manager reaching out to the tock team) and billable work can begin. The AM schedules and prepares an [internal kickoff](https://docs.google.com/document/d/1DtM5FqxGdP54Mt5aWD6VqzgRLfgOBvZo8vtpuLuaFz4/edit) with the entire 18F project team, and introduces the partner to the [18F project lead]({{site.baseurl}}/leading-projects/). This marks the beginning of billable work on the project, and signals the moment that primary ownership of the project work is handed off to the staffed team.
+Once the agreement is executed and staffed, a Tock line is created (by the account manager reaching out to the tock team) and billable work can begin. The AM schedules and prepares an [internal kickoff](https://docs.google.com/document/d/1DtM5FqxGdP54Mt5aWD6VqzgRLfgOBvZo8vtpuLuaFz4/edit) with the entire 18F project team, and introduces the partner to the [18F project lead]({{site.baseurl}}/18f/projects-partners/leading-projects/). This marks the beginning of billable work on the project, and signals the moment that primary ownership of the project work is handed off to the staffed team.
 
 ### In-flight projects
 

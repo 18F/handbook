@@ -5,7 +5,7 @@ tags:
 questions:
   - design
 redirect_from:
-  - design
+  - /design/
 ---
 
 The Design team at 18F provides design services in our projects and to the organization, including:

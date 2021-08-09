@@ -80,7 +80,7 @@ TTS offers a variety of tools for protecting sensitive information. As you learn
 
 ### Google Drive
 
-You can use [GSA Google Drive](../google-drive/) to share sensitive files, spreadsheets, and documents. This includes personally identifiable information (PII) of either federal staff or the public, but it _does not_ include classified information of any kind. If you're handling PII, be absolutely sure you are only sharing Drive files with GSA staff and that those staff members have a direct need for the information.
+You can use [GSA Google Drive]({{site.baseurl}}/tools/google-drive/) to share sensitive files, spreadsheets, and documents. This includes personally identifiable information (PII) of either federal staff or the public, but it _does not_ include classified information of any kind. If you're handling PII, be absolutely sure you are only sharing Drive files with GSA staff and that those staff members have a direct need for the information.
 
 ### OMB MAX
 
