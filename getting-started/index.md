@@ -67,7 +67,7 @@ You don't need to have any specific expertise to join a guild or working group:
 just join their Slack channel and start attending their standing meetings.
 If you need an invite, post a message in the Slack channel or DM whoever organizes the group (who's often listed in a pinned post in that Slack channel).
 
-If you need support, can't find it here in the Handbook, and don't know where to start, [#questions](https://gsa-tts.slack.com/messages/questions/) is a good Slack channel to drop into if you think multiple people could direct you. But you can absolutely turn to your supervisor and/or lead/functional lead. For 18F folks, there's a bit more detail over here in [Support]({{site.baseurl}}/leading-projects/#how-do-project-leads-and-team-members-get-support), much of which may also apply to other parts of TTS.
+If you need support, can't find it here in the Handbook, and don't know where to start, [#questions](https://gsa-tts.slack.com/messages/questions/) is a good Slack channel to drop into if you think multiple people could direct you. But you can absolutely turn to your supervisor and/or lead/functional lead. For 18F folks, there's a bit more detail over here in [Support]({{site.baseurl}}/18f/projects-partners/leading-projects/#how-do-project-leads-and-team-members-get-support), much of which may also apply to other parts of TTS.
 
 ## Technical considerations
 

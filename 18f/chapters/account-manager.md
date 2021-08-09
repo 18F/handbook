@@ -109,4 +109,4 @@ If you’re worried about your project, bring up any concerns or blockers with y
 
 - [How staffing works](https://github.com/18F/staffing)
 - [Staffing skills decoder](https://docs.google.com/document/d/1PzQGM1QrJ6bzIkzKUDd2oUWks3_9_j-jjbvhzdrTOuY/edit?folder=14Et2Gni7q8VhqsKljbMQHtMFlnxlE80d#)
-- [Choosing a project lead]({{site.baseurl}}/leading-projects/#how-do-we-decide-who-leads-each-project)
+- [Choosing a project lead]({{site.baseurl}}/18f/projects-partners/leading-projects/#how-do-we-decide-who-leads-each-project)

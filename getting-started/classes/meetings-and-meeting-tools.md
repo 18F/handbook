@@ -27,7 +27,7 @@ The ones with dial-in options can be used without video (say, if video is blocke
 ### Common barriers to using these tools with partners
 
 - **IF** partners don’t have access to video/cameras, **THEN** use audio only with screen-sharing.
-- **IF** blocked by firewall/security issues, **THEN** see if they have access to a different tool. See [using partners’ tools]({{site.baseurl}}/collaboration-tools/#using-partners-tools).
+- **IF** blocked by firewall/security issues, **THEN** see if they have access to a different tool. See [using partners’ tools]({{site.baseurl}}/general-information-and-resources/collaboration-tools/#using-partners-tools).
 
 ### Connectivity issues
 

@@ -99,7 +99,7 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Drawing lines on a screen
 
-Unless otherwise specified, **see [Software](../software/#get-access-to-software-we-already-have) to get a license** for any of these.
+Unless otherwise specified, **see [Software]({{site.baseurl}}/general-information-and-resources/software/#get-access-to-software-we-already-have) to get a license** for any of these.
 
 - **Figma** Talk with your supervisor to request a license
 - [**Sketch**]({{site.baseurl}}/sketch/)
