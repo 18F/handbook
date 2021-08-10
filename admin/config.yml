@@ -23,6 +23,13 @@ collections:
             - {label: "Title", name: "title", widget: "string"}
             - {label: "Questions", name: "questions", widget: "list"}
             - {label: "Body", name: "body", widget: "markdown"}
+        - label: "Request for Comments"
+          name: "request-for-comments"
+          file: "request-for-comments/index.md"
+          fields: 
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Questions", name: "questions", widget: "list"}
+            - {label: "Body", name: "body", widget: "markdown"}
     - name: "_pages"
       label: "Pages"
       label_singular: "page"

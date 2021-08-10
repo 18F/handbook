@@ -16,6 +16,9 @@ primary:
       - text: Org chart
         url: https://docs.google.com/presentation/d/1otRbhoGRN4LfDnWpN6zZ0ymjPpTBW3t79pIiuBREkCY/edit
         internal: false
+      - text: Request for Comments
+        url: request-for-comments/
+        internal: true
       - text: Staff directory
         url: https://docs.google.com/spreadsheets/d/1pt68FCytthwhwBiXzrC78mCl4G_pG8QtyzlyfsyGsP4/edit#gid=655713658
         internal: false
