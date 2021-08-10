@@ -20,7 +20,7 @@ exclude:
   - vendor
   - _templates
 
-source: src
+source: content
 
 scripts:
   - assets/uswds/js/uswds.min.js
