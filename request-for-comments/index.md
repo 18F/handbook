@@ -11,8 +11,8 @@ approved. They are listed in reverse chronological order.
 
 ## RFC History
 
-* [RFC 003 - TTS Senior Cybersecurity Advisor]({{site.baseurl}}/request-for-comments/003-tts-cybersecurity-advisor/)
+- [RFC 003 - TTS Senior Cybersecurity Advisor]({{site.baseurl}}/request-for-comments/003-tts-cybersecurity-advisor/)
 
-* [RFC 004 - Cross-TTS Hiring at Scale]({{site.baseurl}}/request-for-comments/004-bucket-hiring-approach/)
+- [RFC 004 - Cross-TTS Hiring at Scale]({{site.baseurl}}/request-for-comments/004-bucket-hiring-approach/)
 
-* [RFC 001 - TTS Supervisors should be permanent]({{site.baseurl}}/request-for-comments/001-supervisors/)
+- [RFC 001 - TTS Supervisors should be permanent]({{site.baseurl}}/request-for-comments/001-supervisors/)
