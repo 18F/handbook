@@ -20,6 +20,8 @@ exclude:
   - vendor
   - _templates
 
+source: src
+
 scripts:
   - assets/uswds/js/uswds.min.js
   - javascripts/jquery-3.6.0.min.js
