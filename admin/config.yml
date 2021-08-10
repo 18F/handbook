@@ -5,7 +5,6 @@ backend:
   auth_endpoint: external/auth/github
   preview_context: federalist/build
   branch: main
-  open_authoring: true
 
 media_folder: images/
 public_folder: /images/uploads
@@ -13,16 +12,6 @@ publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 
 collections:
-    - label: "Other"
-      name: "other"
-      files:
-        - label: "Contributing"
-          name: "contributing"
-          file: "CONTRIBUTING.md"
-          fields: 
-            - {label: "Title", name: "title", widget: "string"}
-            - {label: "Questions", name: "questions", widget: "list"}
-            - {label: "Body", name: "body", widget: "markdown"}
     - name: "_pages"
       label: "Pages"
       label_singular: "page"
@@ -30,149 +19,6 @@ collections:
       folder: "_pages/"
       create: true
       meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "about-us"
-      label: "About us"
-      label_singular: "About us page"
-      folder: "about-us/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "acquisition"
-      label: "Office of Acquisition"
-      label_singular: "Acquisition page"
-      folder: "office-of-acquisition/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "centers-of-excellence"
-      label: "Centers of Excellence"
-      label_singular: "CoE page"
-      folder: "centers-of-excellence/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "getting-started"
-      label: "Getting started"
-      label_singular: "Getting started page"
-      nested: { depth: 4 }
-      folder: "getting-started/"
-      create: true
-      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "general-information-and-resources"
-      label: "General information and resources"
-      label_singular: "General info page"
-      nested: { depth: 4 }
-      folder: "general-information-and-resources/"
-      create: true
-      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
- 
-    - name: "hiring-staying-or-changing-jobs"
-      label: "Hiring, staying, or changing jobs"
-      label_singular: "Hiring, staying, or changing jobs page"
-      nested: { depth: 4 }
-      folder: "hiring-staying-or-changing-jobs/"
-      create: true
-      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
- 
-    - name: "launching-software"
-      label: "Launching software"
-      label_singular: "Launching software page"
-      folder: "launching-software/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "operations"
-      label: "Office of Operations"
-      label_singular: "Operations page"
-      nested: { depth: 4 }
-      folder: "office-of-operations/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "performance-management"
-      label: "Performance management"
-      label_singular: "Performance management page"
-      nested: { depth: 4 }
-      folder: "performance-management/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "solutions"
-      label: "Office of Solutions"
-      label_singular: "Solutions page"
-      nested: { depth: 4 }
-      folder: "office-of-solutions/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "tools"
-      label: "Tools"
-      label_singular: "Tools page"
-      nested: { depth: 4 }
-      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-      folder: "tools/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "training-and-development"
-      label: "Training and development"
-      label_singular: "Training and development page"
-      folder: "training-and-development/"
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "travel-and-leave"
-      label: "Travel and leave"
-      label_singular: "Travel and leave page"
-      folder: "travel-and-leave/"
-      nested: { depth: 4 }
-      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-      create: true
-      fields: 
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Questions", name: "questions", widget: "list"}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "18f"
-      label: "18F"
-      label_singular: "18F page"
-      folder: "18f/"
-      nested: { depth: 4 }
-      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-      create: true
       fields: 
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
