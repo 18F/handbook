@@ -47,7 +47,7 @@ We will share open positions as they are available.
 
 ### Open to all federal employees
 
-- [GOVERNMENT WIDE: OA Procurement Analyst](https://www.usajobs.gov/GetJob/ViewDetails/608754800) - open Monday, July 26, 2021 through Monday, August 9, 2021.
+We will share open positions as they are available.
 
 ## Opportunities with partners
 

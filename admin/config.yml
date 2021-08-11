@@ -23,3 +23,14 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Questions", name: "questions", widget: "list"}
         - {label: "Body", name: "body", widget: "markdown"}
+    - name: "other"
+      label: "Other"
+      files:
+        - label: "Contributing"
+          name: "contributing"
+          file: "CONTRIBUTING.md"
+          fields: 
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Questions", name: "questions", widget: "list"}
+            - {label: "Body", name: "body", widget: "markdown"}
+ 
