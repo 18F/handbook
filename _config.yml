@@ -32,11 +32,14 @@ defaults:
     values:
       layout: "handbook_page"
 
+# We have a Jekyll collection for Markdown content to simplify the NetlifyCMS
+# configuration. We considered using Jekyll's `source` option at one point but
+# decided against it for this reason.
 permalink: pretty
 collections:
   pages:
     output: true
-    permalink: /:name/
+    permalink: /:path/
 
 url: "https://handbook.tts.gsa.gov"
 plugins:

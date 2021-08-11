@@ -42,7 +42,8 @@ information.
 in source code repositories. Instead, use [alternative secret
 management](#tools) approaches and solutions.
 
-**Privacy** information, like PII, has [its own guidance]({% link launching-software/privacy.md %}).
+**Privacy** information, like PII, has [its own
+guidance]({{site.baseurl}}/launching-software/privacy).
 
 **Other** sensitive information, like IP addresses, subnets, and AWS account
 IDs, may be kept in a _private_ repository.

@@ -1,5 +1,6 @@
 ---
 title: "Getting started at TTS: Your first 90 days"
+permalink: /getting-started/
 redirect_from:
   - /slack/rules/
 tags:

@@ -1,5 +1,6 @@
 ---
 title: IT Modernization Centers of Excellence
+permalink: /centers-of-excellence/
 questions:
   - centers-of-excellence
 ---

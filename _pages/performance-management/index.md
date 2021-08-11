@@ -1,5 +1,6 @@
 ---
 title: Performance Management Overview
+permalink: /performance-management/
 tags:
   - Performance
   - Performance
