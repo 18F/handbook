@@ -7,8 +7,8 @@ primary:
       - text: Mission, history, and values
         url: about-us/tts-history/
         internal: true
-      - text: Diversity, equity & inclusion
-        url: about-us/diversity/
+      - text: Diversity, equity, inclusion, and accessibility
+        url: about-us/deia/
         internal: true
       - text: Code of Conduct
         url: about-us/code-of-conduct/
@@ -19,9 +19,6 @@ primary:
       - text: Request for Comments
         url: request-for-comments/
         internal: true
-      - text: Staff directory
-        url: https://docs.google.com/spreadsheets/d/1pt68FCytthwhwBiXzrC78mCl4G_pG8QtyzlyfsyGsP4/edit#gid=655713658
-        internal: false
       - text: Strategy
         url: https://docs.google.com/presentation/d/10Y39kVm6Wrl-V1D55msMwt1yWdkCOWJBcPqnqhg-NMA/edit
         internal: false
@@ -183,6 +180,9 @@ primary:
       - children:
           - text: Who we are
             children:
+              - text: Staff directory
+                url: https://docs.google.com/spreadsheets/d/1pt68FCytthwhwBiXzrC78mCl4G_pG8QtyzlyfsyGsP4/edit#gid=655713658
+                internal: false
               - text: General contacts
                 url: general-contacts/
                 internal: true
@@ -191,6 +191,14 @@ primary:
                 internal: true
               - text: Records management
                 url: records-management/
+                internal: true
+          - text: Diversity, equity, inclusion, and accessibility
+            children:
+              - text: DEIA Resources
+                url: general-information-and-resources/deia-resources/
+                internal: true
+              - text: Inclusive Behaviors
+                url: general-information-and-resources/inclusive-behaviors/
                 internal: true
           - text: TTS locations
             children:
