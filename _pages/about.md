@@ -22,3 +22,5 @@ The Handook should always aim to be:
 - **Crowd-sourced**: Anyone should be able to contribute. Contributors should not need to know web development or version control, and they should not have to be affiliated with TTS.
 - **Accessible**: Handbook content ought to be written in plain language and be searchable.
 - **Living**: Content is expected to change over time. Specifically, it should be kept up-to-date with TTS’s processes and policies.
+
+We wrote a [blog post](https://18f.gsa.gov/2021/07/27/the_tts_handbook_a_21st-century_approach_to_internal_documentation/) about the Handbook's principles and history -- check it out if you're interested!
