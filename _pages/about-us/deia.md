@@ -14,7 +14,7 @@ questions:
 >
 > \- **Dave Zvenyach, TTS Director**
 
-At TTS, [our mission](https://handbook.tts.gsa.gov/tts-history/) is to design and deliver a digital government with and for the American public. To ensure that the products we build and services we offer truly serve everyone, we center our work on **diversity, equity, inclusion,** and **accessibility** (also known as **DEIA**). In particular, we align our efforts with recent Executive Orders on [DEIA in the federal workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) and [advancing racial equity through government services](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
+At TTS, [our mission]({{site.baseurl}}/tts-history/) is to design and deliver a digital government with and for the American public. To ensure that the products we build and services we offer truly serve everyone, we center our work on **diversity, equity, inclusion,** and **accessibility** (also known as **DEIA**). In particular, we align our efforts with recent Executive Orders on [DEIA in the federal workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) and [advancing racial equity through government services](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
 
 ## Our approach to DEIA
 
@@ -33,7 +33,7 @@ TTS plays a key role in developing the government’s digital products and servi
 - Coordinating with GSA’s Senior Advisor for Diversity, Equity, Inclusion, and Accessibility.
 - Investing in DEIA with dedicated funding and support ($500k budget allocated as of FY21)
 
-In addition, our [Talent team](https://handbook.tts.gsa.gov/office-of-operations/talent/) prioritizes diversity and equity in the hiring process. TTS Talent efforts include:
+In addition, our [Talent team]({{site.baseurl}}/office-of-operations/talent/) prioritizes diversity and equity in the hiring process. TTS Talent efforts include:
 
 - Creating fair and equitable interview guides.
 - Training SMEs and interviewers to be fair and equitable and to reduce bias in the process.
@@ -48,7 +48,7 @@ _Our examples_: Special opportunities and awards, promotions and pay, performanc
 Some of our efforts to center equity include:
 
 - **Space and grace:** A grassroots effort for mental health and wellbeing at work. This includes [flexible work schedules](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/alternative-flexible-work-schedules/), administrative paid leave, mental health breaks, and intentional tips for balancing the intersection of work and our world.
-- **Engage all new employees** with a [DEIA onboarding class](https://handbook.tts.gsa.gov/getting-started/classes/#classes)  to share resources, guilds, and affinity groups available to foster belonging at TTS.
+- **Engage all new employees** with a [DEIA onboarding class]({{site.baseurl}}/getting-started/classes/#classes)  to share resources, guilds, and affinity groups available to foster belonging at TTS.
 - **Creating transparency and accountability** in career progression and professional development, ensuring that every employee has growth opportunities while they are here.
 - **Strengthen supervisor knowledge and support:** Supervisors desire more time to nurture and grow direct reports, as well as resources for courageous conversations and conflict resolution. The Diversity Guild offers DEIA programming during monthly all-supervisors meetings. Recently, we’ve covered [reasonable accommodations](https://www.opm.gov/policy-data-oversight/disability-employment/reasonable-accommodations/), anti-harassment, demystifying HR, and the unique strengths Veterans bring into the workplace.
 
@@ -56,7 +56,7 @@ Some of our efforts to center equity include:
 
 _Our definition_: Inclusion and belonging focus on the culture of the workplace environment
 
-_Our examples_: Project design and research, meetings, decision making, team values, [Code of Conduct](https://handbook.tts.gsa.gov/about-us/code-of-conduct/)
+_Our examples_: Project design and research, meetings, decision making, team values, [Code of Conduct]({{site.baseurl}}/about-us/code-of-conduct/)
 
 We foster inclusion both internally and externally:
 
@@ -83,23 +83,23 @@ We maintain a [list of inclusive behaviors]({{site.baseurl}}/general-information
 
 ## DEIA Guilds
 
-TTS has two [Guilds](https://handbook.tts.gsa.gov/training-and-development/working-groups-and-guilds-101/#guilds) that support our DEIA efforts: Diversity Guild and Accessibility Guild.
+TTS has two [Guilds]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#guilds) that support our DEIA efforts: Diversity Guild and Accessibility Guild.
 
 ### Diversity Guild
 
-Founded in 2014, the Diversity Guild exists to advance TTS’s diversity, equity, and inclusion goals. Its purpose as [a guild](https://handbook.tts.gsa.gov/working-groups-and-guilds-101/#guilds) is to help make TTS a great place to work for people of all backgrounds. The Diversity Guild has active support from senior leadership and budget to achieve these goals. The group also provides insight on how TTS currently integrates DEI and could better integrate DEI principles at every point: from recruitment, interviewing, and onboarding, all the way to terming out, leaving the organization, or even returning to TTS. It seeks to advance DEIA in a variety of grassroots ways.
+Founded in 2014, the Diversity Guild exists to advance TTS’s diversity, equity, and inclusion goals. Its purpose as [a guild]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#guilds) is to help make TTS a great place to work for people of all backgrounds. The Diversity Guild has active support from senior leadership and budget to achieve these goals. The group also provides insight on how TTS currently integrates DEI and could better integrate DEI principles at every point: from recruitment, interviewing, and onboarding, all the way to terming out, leaving the organization, or even returning to TTS. It seeks to advance DEIA in a variety of grassroots ways.
 
 **1. DEIA Reps:** Volunteers  across TTS that help teams create a diverse, equitable, inclusive, and welcoming TTS. The DEIA reps inform decision-making on both the team and organizational levels, and collaborate on projects around hiring and retention; programming; and storytelling and communication. TTS staff can become DEIA reps by reaching out to their team lead, current DEIA rep, or the Diversity Guild leads. For more information, see the DEIA rep [internal listing](https://docs.google.com/document/d/1g7bpwFBfpHMy0guu5nUaF0HhBLvu42pF0nCiBdb92M4/edit).
 
 **2. Programming:** The Diversity Guild schedules regular programming to engage employees across TTS. Additionally, it holds weekly sessions (“Office Hours) focused on a variety of DEIA topics - for example,  LGBTQ+ Inclusion at Work and in Tech; the Civic Design Framework; and De-Stigmatizing Mental Health at Work. Office Hours are held every Friday at 12:30-1pm EST. The meetings show up on the [TTS Working Groups and Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com). If you would like to be added to the invites directly, please message one of the Diversity Guild co-leads.
 
-**3. Resources:** The Diversity Guild maintains a [list of resources](https://handbook.tts.gsa.gov/diversity/#resources), and it regularly shares articles, talks, and events with TTS staff via its Slack channel. Join our Slack channel, [\#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/). (And please read the [Guidelines for the #G-Diversity Channel](https://docs.google.com/document/d/1IP0GERswH8t5nQxH0VyYPidj5TrkNtfJEmaPz3_y-go/edit).)
+**3. Resources:** The Diversity Guild maintains a [list of resources]({{site.baseurl}}/general-information-and-resources/deia-resources/), and it regularly shares articles, talks, and events with TTS staff via its Slack channel. Join our Slack channel, [\#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/). (And please read the [Guidelines for the #G-Diversity Channel](https://docs.google.com/document/d/1IP0GERswH8t5nQxH0VyYPidj5TrkNtfJEmaPz3_y-go/edit).)
 
 ### Accessibility Guild
 
 Our Accessibility Guild aims to empower TTS staff to center accessibility in their work. In particular, this guild’s mission is to help TTS procure and develop accessible products to provide an excellent user experience for everyone. This includes thinking about accessibility in every step of a project: vendor management and procurement, inclusive usability testing, universal design principles in visual design and prototypes and software engineering best practices. The guild provides training and awareness to make accessibility everyone’s responsibility.
 
-For more information, see the [Accessibility Handbook page](https://handbook.tts.gsa.gov/accessibility/), [Accessibility Guide](https://accessibility.18f.gov/), or join the [\#g-accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q) Slack channel.
+For more information, see the [Accessibility Handbook page]({{site.baseurl}}/accessibility/), [Accessibility Guide](https://accessibility.18f.gov/), or join the [\#g-accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q) Slack channel.
 
 ## How we learn
 
