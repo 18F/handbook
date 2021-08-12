@@ -2,13 +2,9 @@
 layout: page
 ---
 
-{% include page-outdated.html %} 
-
-{% if page.travel_advisory %} 
-{% include travel-alert.html %} 
-{% endif %} 
-
-{{ content | smartify }} {% if page.questions %}
+{% include page-outdated.html %} {% if page.travel_advisory %} {% include
+travel-alert.html %} {% endif %} {{ content | smartify }} {% if page.questions
+%}
 
 <h2 id="questions">Questions?</h2>
 <ul>
