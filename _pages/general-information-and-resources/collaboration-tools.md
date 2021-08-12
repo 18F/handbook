@@ -33,6 +33,7 @@ For each tool mentioned below, we include links to:
 
 - Slack is ATO'd for use in GSA, and has a FedRAMP Agency Authorization at the [LI-SaaS impact level](https://tailored.fedramp.gov/). Slack operates within the AWS public cloud.
 - All communication in Slack are considered records and conform to GSA's record management policy.
+</details>
 
 Here are some common barriers to using Slack with partners and workarounds to try:
 
@@ -45,6 +46,7 @@ Here are some common barriers to using Slack with partners and workarounds to tr
 - **Skype:** Skype provides instant messaging and video teleconferencing capabilities within a partner network.
 - **Google Hangouts Chat:** Google Hangouts Chat is the instant messaging service within the Google G Suite, and typically integrated with Gmail, Calendar, Drive, and Sites.
 - **[Microsoft Teams]({{site.baseurl}}/tools/teams/)**
+</details>
 
 ### Video conferencing
 
@@ -58,6 +60,7 @@ See [meetings and meeting tools]({{site.baseurl}}/getting-started/classes/meetin
 <summary>Compliance and records considerations</summary>
 
 - [Google G Suite has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/google-g-suite) Moderate Impact authorized since January 2016. Agencies using the service include GSA, DOE, DHS, and others.
+</details>
 
 Here are some common barriers to using Drive with partners and some workarounds to try:
 
@@ -71,6 +74,7 @@ Here are some common barriers to using Drive with partners and some workarounds 
 - **[Max.gov](https://portal.max.gov/portal/home):** a government-wide suite of advanced collaboration, information sharing, data collection, publishing, business intelligence, and authentication tools and services used to facilitate cross-government collaboration and knowledge management.
 - **[DOD SAFE](https://safe.apps.mil)**, (Secure Access File Exchange): SAFE is a service to exchange unclassified files that are too large to share via email. SAFE can handle files up to 8.0 GB.
 - **[Intelink's](https://www.intelink.gov/my.policy):** IntelDocs, allows users to share unclassified files. The service has a file size limit of 100MB and folder limit of 1GB.
+</details>
 
 ### Tracking project tasks
 
@@ -81,6 +85,7 @@ Here are some common barriers to using Drive with partners and some workarounds 
 
 - GSA Tech Portfolio is working on a FedRAMP application as of January 2020. Members of TTS can use it and will be notified if anything changes.
 - Trello boards should be considered records.
+</details>
 
 <details markdown="block">
 <summary>Trello alternatives</summary>
