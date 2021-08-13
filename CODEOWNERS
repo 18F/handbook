@@ -1,61 +1,84 @@
+##########################################################################
 # This file, in addition to specifying code ownership, represents the 
 # content ownership schema for the TTS Handbook. Teams "own" various pages 
 # in the Handbook, and thus they should be the ones to approve changes to 
 # their content.
+#
+# The format for ownership assignments goes like:
+# <FILES>                                                                 @18F/<TEAM>
+#
+# Where <FILES> represents a pattern to match one or more files and <TEAM>
+# represents a team within the 18F GitHub organization that "owns" <FILES>. 
+# A list of the teams can be found [here](https://github.com/orgs/18F/teams).
+###########################################################################
 
 # Any changes to ownership should be approved by the Handbook owners.
-CODEOWNERS                                        @18F/handbook-owners
+CODEOWNERS                                                                @18F/handbook-owners
 
 # Every change that doesn't have a designated code owner should, by default,
 # be reviewed by one of the Handbook owners.
-*                                                 @18F/handbook-owners
+*                                                                         @18F/handbook-owners
 
-##################################################
+###########################################################################
 # TTS Offices
-##################################################
-## 18F
-#_pages/18f/*                                     @18F/team-18f
-
-## Centers of Excellence (CoE)
-#_pages/centers-of-excellence/*                   @18F/team-coe
+###########################################################################
+## Office of Operations
+_pages/office-of-operations/outreach.md                                   @18F/outreach
+_pages/office-of-operations/blogging.md                                   @18F/outreach
+_pages/office-of-operations/talent.md                                     @18F/team-talent
 
 ## Office of Acquisition
-#_pages/acquisition/*                             @18F/team-acquisition
+_pages/office-of-acquisition/*                                            @18F/tts-office-of-acqusition
 
-## Office of Operations
-_pages/operations/outreach.md                     @18F/outreach
-_pages/operations/blogging.md                     @18F/outreach
-
-_pages/operations/talent.md                       @18F/team-talent
+## 18F
+_pages/18f/*                                                              @18F/18f-handbook-owners
 
 ## Solutions
-#_pages/solutions/*                               @18F/solutions-handbook-reviewers
+_pages/office-of-solutions/*                                              @18F/solutions-handbook-owners
 
-##################################################
+## Centers of Excellence (CoE)
+_pages/centers-of-excellence/*                                            @18F/coes
+
+###########################################################################
 # Guilds, working groups, and councils
-##################################################
-_pages/about-us/diversity.md                      @18F/guild-deia
-_pages/about-us/code-of-conduct.md                @18F/guild-deia
-#_pages/about-us/digital-council.md               TODO
+###########################################################################
+_pages/about-us/diversity.md                                              @18F/guild-deia
+_pages/about-us/code-of-conduct.md                                        @18F/guild-deia
+_pages/general-information-and-resources/deia-resources.md                @18F/guild-deia
+_pages/general-information-and-resources/inclusive-behaviors.md           @18F/guild-deia
+_pages/about-us/digital-council.md                                        @18F/digital-council
 
-##################################################
+###########################################################################
+# Classes
+###########################################################################
+_pages/getting-started/classes/accessibility.md                           @18F/guild-accessibility
+_pages/getting-started/classes/intro-to-TTS-Tech-Portfolio.md             @18F/tts-tech-portfolio
+_pages/getting-started/classes/meetings-and-meeting-tools.md              @18F/tts-tech-portfolio
+_pages/getting-started/classes/gsa-internal-tools.md                      @18F/tts-tech-portfolio
+_pages/getting-started/classes/travel-101.md                              @18F/people-ops
+_pages/getting-started/classes/benefits.md                                @18F/people-ops
+_pages/getting-started/classes/writing-lab.md                             @18F/guild-content
+
+###########################################################################
 # People Ops
-##################################################
-#performance-management/*                         @18F/people-ops
-#_pages/getting-started/*                         @18F/people-ops
-#_pages/travel-and-leave/*                        @18F/people-ops
-_pages/hiring-staying-or-changing-jobs/*          @18F/team-talent
-#_pages/training-and-development/*                @18F/people-ops
+###########################################################################
+_pages/performance-management/*                                           @18F/people-ops
+_pages/getting-started/*                                                  @18F/people-ops
+_pages/travel-and-leave/*                                                 @18F/people-ops
+_pages/hiring-staying-or-changing-jobs/*                                  @18F/team-talent
+_pages/training-and-development/*                                         @18F/people-ops
 
-##################################################
+###########################################################################
 # General information and policies
-##################################################
-_pages/about-us/*                                 @18F/handbook-owners
-_pages/general-information-and-resources/*        @18f/handbook-owners
+###########################################################################
+_pages/about-us/*                                                         @18F/handbook-owners
+_pages/general-information-and-resources/employee-resources-policies      @18f/people-ops
+_pages/general-information-and-resources/tech-policies                    @18f/tts-tech-portfolio
+_pages/general-information-and-resources/*                                @18f/handbook-owners
 
-##################################################
+###########################################################################
 # Tech Portfolio
-##################################################
-launching-software/*                              @18F/tts-tech-portfolio
-_pages/redirects/*                                @18F/tts-tech-portfolio
-_pages/software-and-tools/*                       @18F/tts-tech-portfolio
+###########################################################################
+_pages/launching-software/*                                               @18F/tts-tech-portfolio
+_pages/tools/*                                                            @18F/tts-tech-portfolio
+_pages/training-and-development/intro-to-github.md                        @18F/tts-tech-portfolio
