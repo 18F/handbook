@@ -96,6 +96,7 @@ Here are some common barriers to using Drive with partners and some workarounds 
 - **Microsoft Azure Devops Boards:** Bundled with Azure, but not within [FedRAMP services in scope](https://docs.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope).
 - **[Smartsheet]({{site.baseurl}}/tools/smartsheet/)**
 - **[ZenHub:](https://www.zenhub.com/)** Works within GitHub and provides higher-level scoping and linking (e.g., epics and dependencies). Unfortunately, [we cannot expand use at GSA](https://github.com/18F/tts-tech-portfolio/issues/1040).
+</details>
 
 Here are some common barriers to using Trello with partners and some workarounds to try:
 
@@ -110,6 +111,7 @@ Here are some common barriers to using Trello with partners and some workarounds
 <summary>Compliance and records considerations</summary>
 
 - [Google G Suite has a FedRAMP Agency ATO](https://marketplace.fedramp.gov/#/product/google-g-suite) Moderate Impact authorized since January 2016. Agencies using the service include GSA, DOE, DHS, and others.
+</details>
 
 Here are some common barriers to using Google Calendar and some workarounds to try:
 
@@ -124,11 +126,13 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 
 - GitHub is ATO'd for use in GSA and has [a FedRAMP Agency Authorization at the LI-SaaS impact level](https://marketplace.fedramp.gov/#/product/github-enterprise-cloud). GitHub operates their own data centers.
 - All communication in GitHub is considered a record and conforms to GSA's record management policy.
+</details>
 
 <details markdown="block">
 <summary>Additional documentation support</summary>
 
 - **[Github Wiki](https://help.github.com/articles/about-github-wikis/)** is a section of GitHub that some teams use to store supporting documents. Each GitHub repository has its own wiki, and anyone on your team can edit the wiki. A wiki is a good place to store documents that the team will refer back to throughout a project such as design principles, research results, or a project roadmap.
+</details>
 
 ### Remote Whiteboarding
 
@@ -141,6 +145,7 @@ Here are some common barriers to using Google Calendar and some workarounds to t
 - Mural generally wouldn't be used to store “records” but instead to organize information for discussion purposes. GSA Records Officer has determined that “this product likely creates a number of record types. However, the specific types of records created will depend on the context in which this product is used.” As such, be sure to export and archive information from Mural periodically.
 - Truly low-impact: Mural shouldn't be used to store anything confidential or authoritative. Instead, use it for ephemeral organization of information and production visualizations. Non-GSA participants are invited to use the service anonymously.
 - **IF** all the participants are on a Google Meet (or at least have Google/[GACA](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/gsa-affiliated-customer-account-gaca) accounts), **THEN** try [Google Jamboard](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/jamboard-digital-whiteboard).
+</details>
 
 ### Feedback Collection
 
