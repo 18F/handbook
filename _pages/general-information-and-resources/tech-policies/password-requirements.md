@@ -5,7 +5,6 @@ questions:
 redirect_from:
   - /password-requirements/
 ---
-
 Follow the steps below to create and maintain secure passwords.
 
 ## Requirements for passwords
@@ -18,9 +17,12 @@ There's a secret to dealing with passwords: use a password manager to store your
 
 Password managers approved for work at GSA:
 
-- [**KeePassXC**](https://keepassxc.org/) (Windows/Apple/Linux) - KeePassXC is a free download and open source. The password database is stored locally on your computer, though it's recommended that you [sync it to Google Drive]({{site.baseurl}}/tools/google-drive/#local-editing).
-- Google Sheets is approved as a password management solution.
-- This [ServiceNow KeePass Install KB article](https://gsa.servicenowservices.com/sp/?id=kb_article&sys_id=74524c55dbe067043068fd0d0f961969) describes the process to install KeePassXC on a MAC computer
+- KeePassXC
+- Google Sheets
+
+We recommend using [KeePassXC](https://keepassxc.org/)  which is open source and runs on Windows, MacOS and Linux. You can install KeePassXC from the GSA Self-Service app.
+
+The KeePassXC password database is stored locally on your computer, though we recommended that you [sync it to Google Drive]({{site.baseurl}}/tools/google-drive/#local-editing).
 
 ### 2. Use unique passwords
 
@@ -42,9 +44,9 @@ Even if you use a password manager, you'll still need to memorize a few unique p
 
 This opens up a few risks: A person could try to guess your password based on information about you, or a computer program could try to find your password by "brute forcing" it (making a zillion guesses based on common types and patterns of passwords). To limit these risks:
 
-- Use passwords that are hard to guess even for people who know you -- not your birthday, university, pet's name, favorite TV show, or similar.
-- Use passwords that probably nobody else uses. For some interesting examples of common passwords, check out [this list](https://web.archive.org/web/20151005001104/https://stricture-group.com/files/adobe-top100.txt) based on a real Adobe account dump; you can see dictionary words, names of favorite people/pets/characters/teams, words related to the service, and simple patterns of numbers and letters.
-- Use longer passwords rather than shorter passwords, since that makes "brute forcing" harder.
+* Use passwords that are hard to guess even for people who know you -- not your birthday, university, pet's name, favorite TV show, or similar.
+* Use passwords that probably nobody else uses. For some interesting examples of common passwords, check out [this list](https://web.archive.org/web/20151005001104/https://stricture-group.com/files/adobe-top100.txt) based on a real Adobe account dump; you can see dictionary words, names of favorite people/pets/characters/teams, words related to the service, and simple patterns of numbers and letters.
+* Use longer passwords rather than shorter passwords, since that makes "brute forcing" harder.
 
 [This XKCD comic](https://xkcd.com/936/) explains a common password pattern and one strategy for making stronger passwords:
 
