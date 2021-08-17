@@ -70,7 +70,7 @@ Using the search feature, search by the _title_ of the page you are looking to e
 
 NetlifyCMS lets you edit content in either Rich Text or Markdown, so feel free to use whichever makes you feel more comfortable. When you're done making your changes, click the 'Save' button at the top of your screen. _Note: NetlifyCMS does not offer auto-saving at this time._
 
-When you save for the first time, a [pull request](https://github.com/18F/handbook/pulls) will be automatically opened. 
+When you save for the first time, a [pull request](https://github.com/18F/handbook/pulls) will be automatically opened.
 
 **Action Item: You should change the title and body of the pull request to make more sense, since it will be pre-filled by NetlifyCMS.**
 
