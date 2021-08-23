@@ -24,7 +24,7 @@ BEFORE YOU BEGIN: _did your dates of travel change such that they are in any way
 
 - Any travel that involves a flight, Amtrak, or is otherwise over 12 hours in duration is considered a **[Voucher From Authorization]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-voucher-from-authorization)**.
 - For any local travel choose the **[Local voucher]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher)** option. Ensure that [an email from your authorizing official]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval) approving the expenses you intend to get reimbursed has been sent to tts-travelauths@gsa.gov.
-- For any other reimbursement, like expenses unrelated to travel such as professional liability insurance or training materials, choose the **[Miscellaneous voucher]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher)** option. 
+- For any other reimbursement, like expenses unrelated to travel such as professional liability insurance or training materials, choose the **[Miscellaneous voucher]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher)** option.
 
 Once the voucher is created, the next step is to enter and edit expenses in the **Expenses and Receipts** tab of the voucher. [Find out how to add, edit, and delete expenses]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-add-edit-or-delete-expenses)
 
