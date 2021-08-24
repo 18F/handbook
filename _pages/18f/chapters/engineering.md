@@ -5,6 +5,7 @@ questions:
 redirect_from:
   - /engineering/
 ---
+
 18F Engineering is responsible for delivering high quality, robust, open source software. We also evangelize best practices relating to software testing, scalability, operations, security, and agile development.
 
 Collectively, we’re experienced in a wide variety of technologies including Python, Ruby, server and client-side JavaScript, Go, C, relational and schema-less databases, ETL pipelines, version control, testing frameworks, machine learning, and more.
@@ -13,7 +14,7 @@ Collectively, we’re experienced in a wide variety of technologies including Py
 
 Our [Engineering Best Practices guide](https://github.com/18F/development-guide#18f-development-guide) has details about Git, code reviews, and more. You might also enjoy the [open source](https://18f.gsa.gov/tags/open-source/) archives on the blog.
 
-- - -
+---
 
 # Joining the Engineering team
 
@@ -21,7 +22,7 @@ Welcome to the 18F Engineering team — we’re happy you’re here! We’ve com
 
 ## First week
 
-You might not have much assigned work during your first few weeks here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project *still* hasn’t landed, the Engineering team has a long list of internal projects that aren’t funded but that will help us work better together. Talk to your faciltator (more on that below) to learn more.
+You might not have much assigned work during your first few weeks here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the Engineering team has a long list of internal projects that aren’t funded but that will help us work better together. Talk to your faciltator (more on that below) to learn more.
 
 ## Who we are
 
@@ -29,16 +30,16 @@ Members of the Engineering team come from all over: major technology companies, 
 
 ### Structure
 
-As per [the org chart]({{site.baseurl}}/org-chart), 18F Engineering is itself composed of smaller, “engineering teams,” each organized by a **facilitator.** While most engineers at 18F work in cross-functional *project* teams, the facilitator engineering teams serve as small communities of practice to encourage cross-pollination that might not otherwise occur in a large, distributed team.
+As per [the org chart]({{site.baseurl}}/org-chart), 18F Engineering is itself composed of smaller, “engineering teams,” each organized by a **facilitator.** While most engineers at 18F work in cross-functional _project_ teams, the facilitator engineering teams serve as small communities of practice to encourage cross-pollination that might not otherwise occur in a large, distributed team.
 
 Facilitator teams occasionally meet to:
 
-* Workshop tech talks (in preparation for a wider team talk or speaking engagement)
-* Demo projects
-* Collaboratively solve architecture/programming problems
-* Improve 18F’s hiring (group resume review, interview practice)
-* Engage in discussions and feedback sessions
-* Introduce members to one another!
+- Workshop tech talks (in preparation for a wider team talk or speaking engagement)
+- Demo projects
+- Collaboratively solve architecture/programming problems
+- Improve 18F’s hiring (group resume review, interview practice)
+- Engage in discussions and feedback sessions
+- Introduce members to one another!
 
 [These activities](https://docs.google.com/document/u/1/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit) are largely meant to increase cohesion across Engineering.
 
@@ -95,9 +96,9 @@ Are you already a member of 18F and interested in moving into the Engineering Ch
 
 Most of the Engineering team works on a mix of partner agency projects and internal initiatives. As you’d guess, everyone’s weeks look a little different. That said, there are recurring weekly meetings and commitments we all have on our calendars.
 
-* **Monthly tech talks.** See the 18F Events Calendar or [sign up for a talk](https://github.com/18F/tech-talks/blob/master/Queue.md).
-* **Once a week (ideally): meet with your facilitator.** Once a week or less frequently, depending on your preference, you’ll have a short check-in with your facilitator at a time that’s convenient for both of you.
-* **Once a week (ideally): meet with your Engineering team.** Once a week, you’ll meet with your (roughly) eight-person team to conduct [various activities](https://docs.google.com/document/u/1/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit) designed to bring your team together and share knowledge.
+- **Monthly tech talks.** See the 18F Events Calendar or [sign up for a talk](https://github.com/18F/tech-talks/blob/master/Queue.md).
+- **Once a week (ideally): meet with your facilitator.** Once a week or less frequently, depending on your preference, you’ll have a short check-in with your facilitator at a time that’s convenient for both of you.
+- **Once a week (ideally): meet with your Engineering team.** Once a week, you’ll meet with your (roughly) eight-person team to conduct [various activities](https://docs.google.com/document/u/1/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit) designed to bring your team together and share knowledge.
 
 ## Engineering on Slack
 
@@ -119,8 +120,8 @@ See current [guilds]({{site.baseurl}}/training-and-development/working-groups-an
 
 ## Mailing lists
 
-* [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [\#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership). Someone there will get you set up.
-* [18f-eng-leadership@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18f-eng-leadership). This is a good way to write to the entire engineering leadership team at once.
+- [18F-dev@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev). All new engineering chapter members should be added by their facilitator. If for some reason you didn't get automatically added, give a shout in [\#eng-leadership](https://gsa-tts.slack.com/messages/eng-leadership). Someone there will get you set up.
+- [18f-eng-leadership@gsa.gov](https://groups.google.com/a/gsa.gov/forum/#!forum/18f-eng-leadership). This is a good way to write to the entire engineering leadership team at once.
 
 ## Before you use a new tool...
 
