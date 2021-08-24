@@ -45,7 +45,7 @@ We will share open positions as they are available.
 
 - [GSA WIDE: TTS Talent Acquisition Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 
-- [TTS WIDE: USWDS Strategist Detail](https://docs.google.com/document/d/1H7mzeaLfBQ0fzh47iJoTA0fn0qwbG4WohU4dbfj2Dgs/edit#) - open Monday, August 23rd until Friday, September 3rd
+- [TTS WIDE: USWDS Strategist Detail](https://docs.google.com/document/d/1H7mzeaLfBQ0fzh47iJoTA0fn0qwbG4WohU4dbfj2Dgs/edit#) - open Monday, August 23rd until Friday, September 17th
 
 ### Open to all federal employees
 
