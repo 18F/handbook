@@ -189,6 +189,36 @@ If you want very basic and cheap object storage, AWS provides the [Simple Storag
 
 These are just the concepts necessary for initial on-boarding. AWS has an [extensive list](https://aws.amazon.com/products/) of other services.
 
+### Common controls
+
+The [Tech Portfolio]({{site.baseurl}}/office-of-solutions/tech-portfolio/)
+manages TTS AWS accounts in order to implement a baseline of security compliance
+controls for you so that there are fewer controls for you to implement.
+
+#### Password policy
+
+This implements [several
+controls](https://github.com/GSA/grace-iam#security-compliance) for you. When
+changing your password, keep these in mind since AWS will not remind you what is
+required of your password.
+
+- minimum 16 characters
+- at least one lowercase letter
+- at least one uppercase letter
+- at least one number
+- at least one symbol
+- must be different than previous 24 passwords
+- passwords expire after 90 days
+
+#### Require MFA
+
+This implements [several
+controls](https://github.com/GSA/grace-iam#security-compliance) for you.
+Accounts are created with a `humans` IAM group that enforces MFA. Make sure to
+add your human users to this group in order to get the compliance benefits. In
+the future, we will [automate this as part of IAM user
+provisioning](https://github.com/18F/aws-admin/issues/171).
+
 ### Building systems that will be deployed directly to AWS
 
 Although cloud.gov is strongly preferred as the production environment for the systems we build, there are some systems that will need to run on AWS. **See [the GSA approval status and caveats for using different AWS services](https://docs.google.com/spreadsheets/d/1kJrPqu10x80LaGQ_oXFDuoPkBdnaXrXTQVF_uJ14-ok/edit##gid=0)**.
