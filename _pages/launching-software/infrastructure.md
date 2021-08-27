@@ -516,6 +516,7 @@ You will want to know if your site goes down. Options (as of 1/20):
 Projects can supplement their uptime/ping services together with a status, by embedded it as an `<iframe></iframe>` on their own sub-domain. This allows the team to provide one place for their customers to go for the system's about how you are responsing to the outage and/or annoucements of degraded services or maintainace periods.
 
 ##### Static site (JAMstack) alternatives:
+
 to manage the domain/build and using some JAMstack/static site like https://github.com/netlify/netlify-statuskit or https://github.com/cstate/cstate.
 
 [Deploy it to Cloud.gov](https://gist.github.com/adborden/55bdc968251a3745ff2f7befbcf71148)
