@@ -14,7 +14,7 @@ Google Drive is a cloud storage and file backup system. We use Google Drive to k
 ## Permissions and sharing
 
 - Everything in Google Drive can be FOIA’ed.
-- You can share files with the entire TTS team by adding <mailto:tts@gsa.gov>, <mailto:opp-team@gsa.gov>, or <mailto:18f-team@gsa.gov> in the Share menu.
+- You can share files with the entire TTS team by adding [tts@gsa.gov](mailto:tts@gsa.gov), [opp-team@gsa.gov](mailto:opp-team@gsa.gov), or [18f-team@gsa.gov](mailto:18f-team@gsa.gov) in the Share menu.
 - You can share files with any GSA employee — but don't default to sharing with _all_ of GSA. GSA will change your permissions if they are too open, and files that contain sensitive information will also be blocked via [Cloudlock](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/cloudlock).
 - Disable the notification email if you don’t wish to bring it to the team’s attention right away.
 - You can create and share whole folders; new files in a folder auto-inherit the sharing settings.
@@ -61,7 +61,9 @@ If you're using a non-Google service and it requests access to your GSA Google D
 
 ## Local editing
 
-[Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en) can be used for local editing of files on Drive, though offline editing is not yet supported for Macs at GSA. [InSite page.](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-drive-and-shared-drive?term=drive%20file%20stream#Drive%20File%20Stream)
+The [Google Drive](https://support.google.com/drive/answer/7329379?hl=en) (formerly Drive File Stream) app can be used for local editing of files on Drive. [InSite page.](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-drive-and-shared-drive?term=drive%20file%20stream#Drive%20File%20Stream)
+
+If you get a "can't load" error, try [clearing the cache](https://remarkablemark.medium.com/how-to-clear-google-drive-cache-abf9efc6089e).
 
 ## API keys
 
