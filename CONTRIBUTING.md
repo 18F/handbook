@@ -70,7 +70,9 @@ Using the search feature, search by the _title_ of the page you are looking to e
 
 NetlifyCMS lets you edit content in either Rich Text or Markdown, so feel free to use whichever makes you feel more comfortable. When you're done making your changes, click the 'Save' button at the top of your screen. _Note: NetlifyCMS does not offer auto-saving at this time._
 
-When you save for the first time, a [pull request](https://github.com/18F/handbook/pulls) will be automatically opened. You should change the title and body to make more sense, since it will be pre-filled by NetlifyCMS.
+When you save for the first time, a [pull request](https://github.com/18F/handbook/pulls) will be automatically opened.
+
+**Action Item: You should change the title and body of the pull request to make more sense, since it will be pre-filled by NetlifyCMS.**
 
 ![Arrow pointing to the Netlify save button]({{site.baseurl}}/images/netlifycms-step3.png)
 
@@ -141,9 +143,7 @@ Thank you so much for your contributions! :tada:
 
 ### File/folder structure
 
-By default, any Markdown file created in the `_pages` directory, regardless of its internal nesting, will have a URL at the top-level. For example, if you create some new content at `_pages/awesome-resources/pizza.md`, the URL will look like `https://handbook.tts.gsa.gov/pizza/`.
-
-If you do in fact want the nesting to appear in the URL, use `permalink` frontmatter to specify the URL.
+New files should be created in the `_pages` directory and in the sub-directory that makes the most sense for your content. For example, a new page on an 18F process should go in the `_pages/18f` directory.
 
 ### Pull requests (PRs)
 
@@ -153,12 +153,9 @@ If you make a pull request that's best reviewed by a specific person, tag or ass
 
 ### CODEOWNERS
 
-The TTS Handbook uses the GitHub ["code owners" feature](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners) to automatically add content owners as a reviewer. This means that in most cases, you as a contributor should
-not need to manually add anyone for a review.
+The TTS Handbook uses the GitHub ["code owners" feature](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners) to automatically add content owners as a reviewer. This means that in most cases, you as a contributor should not need to manually add anyone for a review.
 
-If you suspect that the wrong team was added as a reviewer, feel free to open a
-pull request to change the CODEOWNERS file, located at the top-level of the
-project.
+If you suspect that the wrong team was added as a reviewer, feel free to open a pull request to change the CODEOWNERS file, located at the top level of the project.
 
 ### How to review and merge pull requests
 
@@ -167,6 +164,10 @@ Any TTS staff member can review a pull request. If it's not your area of experti
 A note to submitters: If you need multiple people to see your PR before it's merged, please add a comment letting reviewers know!
 
 If you're not sure, ask for a second opinion in #tts-handbook first.
+
+**If you're reviewing a pull request made using NetlifyCMS**
+
+Pull requests made using NetlifyCMS should only be reviewed when the label is changed from `netlify-cms/draft` to `netlify-cms/pending_review` or `netlify-cms/pending_publish`.
 
 ### Using repo specific labels
 
