@@ -25,8 +25,7 @@ Here are some [examples of sensitive information](https://github.com/18F/aws-adm
 * non-public security vulnerabilities
 * roles, policies, and group membership
 * Personally Identifiable Information (PII)
-
-  * See `Releasability of GSA Individual Employee Information` in the [GSA Data Release Policy](https://www.gsa.gov/directive/gsa-data-release-policy) (commonly referred to as "business card PII") for exceptions
+   * See `Releasability of GSA Individual Employee Information` in the [GSA Data Release Policy](https://www.gsa.gov/directive/gsa-data-release-policy) (commonly referred to as "business card PII") for exceptions
 * payment card industry (PCI) information
 * Controlled Unclassified Information (CUI)
 * Federal Tax Information (FTI)
