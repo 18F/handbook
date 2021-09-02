@@ -47,6 +47,8 @@ We will share open positions as they are available.
 
 - [TTS WIDE: USWDS Strategist Detail](https://docs.google.com/document/d/1H7mzeaLfBQ0fzh47iJoTA0fn0qwbG4WohU4dbfj2Dgs/edit#) - open Monday, August 23rd until Friday, September 17th
 
+- [TTS WIDE: PIF Acting Deputy Director Detail](https://docs.google.com/document/d/18xUoExvJBiEzNryy-GpsU_2Zuy-razL7L22s4vgkev0/edit#) - open Thursday, September 2nd until Monday, September 13th
+
 ### Open to all federal employees
 
 We will share open positions as they are available.
