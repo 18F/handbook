@@ -20,7 +20,7 @@ redirect_from:
   - /conferences-events-training/
 ---
 
-TTS encourages all staff to attend conferences, speak at events, and focus on professional development and training opportunities. Check out the [TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646) to see what conferences and trainings your colleagues have attended.
+TTS encourages all staff to attend conferences, speak at events, and focus on professional development and training opportunities. Check out the [TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646) to see what conferences and trainings your colleagues have attended. If you're looking for guidelines around speaking at events (in either a personal or professional capacity), see [here]({{site.baseurl}}/office-of-operations/fas-speaker-guide/).
 
 Any media requests (like news or podcast interviews) are a separate process — please forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov) and CC [your team's Outreach liaison]({{site.baseurl}}/office-of-operations/outreach/#team).
 
