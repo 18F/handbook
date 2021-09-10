@@ -26,6 +26,7 @@ Here are some [examples of sensitive information](https://github.com/18F/aws-adm
 - non-public security vulnerabilities
 - roles, policies, and group membership
 - Personally Identifiable Information (PII)
+  - See `Releasability of GSA Individual Employee Information` in the [GSA Data Release Policy](https://www.gsa.gov/directive/gsa-data-release-policy) (commonly referred to as "business card PII") for exceptions
 - payment card industry (PCI) information
 - Controlled Unclassified Information (CUI)
 - Federal Tax Information (FTI)
@@ -53,7 +54,7 @@ belongs to those is not attached to the information. This helps deter spear
 phishing. You may store this information in a _private_ repository.
 
 If you aren't sure whether something is sensitive information, ask
-[#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) for advice
+[\#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) for advice
 _first_. Please don't include the potentially sensitive information in Slack.
 
 If you inadvertently come into the possession of classified information (Secret,
@@ -72,7 +73,7 @@ Preventing the leak/exposure of secrets and sensitive information must always be
   It's easy to accidentally push secrets to GitHub. Caulking checks for many common types of API tokens
   and other sensitive information before you commit, allowing you to remove sensitive data before
   accidentally publishing it. (This repo assumes MacOS with Homebrew installed.)
-- **Do not store sensitive information in GitHub**, including environment variables, private configuration data, or sensitive information about the public (including but not limited to PII). In the event that such variables or configuration data is pushed to a GitHub repository accidentally, even momentarily, consider it compromised and revoke or change the credentials immediately. Do not delete the commit itself. Then immediately follow the directions on the [incident response handbook page]({{site.baseurl}}/security-incidents). If you're unsure how to protect this information, consult with Infrastructure on GitHub or in the [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) channel in Slack. Some projects use [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to the [Engineering Guide's guidance](https://engineering.18f.gov/workflow/) on protecting information in Git and GitHub.
+- **Do not store sensitive information in GitHub**, including environment variables, private configuration data, or sensitive information about the public (including but not limited to PII). In the event that such variables or configuration data is pushed to a GitHub repository accidentally, even momentarily, consider it compromised and revoke or change the credentials immediately. Do not delete the commit itself. Then immediately follow the directions on the [incident response handbook page]({{site.baseurl}}/security-incidents). If you're unsure how to protect this information, consult with Infrastructure on GitHub or in the [\#admins-github](https://gsa-tts.slack.com/messages/admins-github/) channel in Slack. Some projects use [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to the [Engineering Guide's guidance](https://engineering.18f.gov/workflow/) on protecting information in Git and GitHub.
 - [Build Pipeline Security](https://sprocketfox.io/xssfox/2021/01/18/pipeline/) is a helpful resource for protecting sensitive information in CI/CD.
 
 ## Tools
@@ -103,6 +104,7 @@ Follow the linked instructions to password-protect a:
 
 - [PDF](https://support.apple.com/guide/preview/password-protect-a-pdf-prvw587dd90f/mac)
 - [ZIP](https://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can be a folder full of files)
+
   - [Information from GSA IT](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/how-to-create-fipscompliant-zip-files)
 
 Send the encrypted file and password to the recipient separately, with the latter ideally through something ephemeral like a phone call.
