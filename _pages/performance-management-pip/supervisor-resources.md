@@ -67,7 +67,7 @@ When an employee joins TTS or changes supervisors within TTS, it is important th
 
 ### Performance improvement and performance action plans
 
-At any point during the year, if an employee's performance in one or more critical element(s) or sub-elements is considered less than Level 3, Fully Successful, the employee should be notified right away.    
+At any point during the year, if an employee's performance in one or more critical element(s) or sub-elements is considered less than Level 3, Fully Successful, the employee should be notified right away.
 
 Reach out to our [Workforce Relations partner](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) via email or Slack for guidance.
 
