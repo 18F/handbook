@@ -46,7 +46,7 @@ Internal postings are created using the following templates:
 
 ## Posting an Internal Role
 
-When the templates are ready for review, the Hiring Manager sends and email with the announcement, the application form, and interview guide to Talent at [jointts@gsa.gov](mailto:jointts@gsa.gov). A Talent team member will review with 48 hours and may possibly suggest edits.  Once materials have been approved by Talent, they will add the posting to [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack and the [TTSJobs handbook page]({{site.baseurl}}/ttsjobs/).
+When the templates are ready for review, the Hiring Manager sends and email with the announcement, the application form, and interview guide to Talent at [jointts@gsa.gov](mailto:jointts@gsa.gov). A Talent team member will review with 48 hours and may possibly suggest edits. Once materials have been approved by Talent, they will add the posting to [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack and the [TTSJobs handbook page]({{site.baseurl}}/ttsjobs/).
 
 ## Internal Interviews
 
