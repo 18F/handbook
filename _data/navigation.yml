@@ -109,6 +109,17 @@ primary:
       - text: Voluntary Leave Transfer Program (VLTP)
         url: travel-and-leave/voluntary-leave-transfer-program/
         internal: true
+  - text: Career Progression Framework
+    href: /#career-progression-framework
+    blurb: |
+      Learn about every role we have at TTS, including the knowledge, skills, and abilities needed for success at each career stage.
+    children:
+      - text: Career Progression Framework (CPF) project description and overview
+        url: career-progression-framework/overview/
+        internal: true
+      - text: TTS Career Progression Frameworks
+        url: https://drive.google.com/drive/folders/12E7VbV7YhRfBp5fRdcjfpdVSLPPCyKHe
+        internal: false
   - text: Performance management
     href: /#performance-management
     blurb: |
