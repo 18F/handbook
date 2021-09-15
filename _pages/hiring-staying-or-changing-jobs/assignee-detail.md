@@ -41,16 +41,17 @@ Internal postings are created using the following templates:
 - [TTSJobs Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit)
 - [TTSJobs Application & Nomination Form Template](https://docs.google.com/forms/d/1C8OVwj-yvuHicDwPbtFTLxPLn8zZA6WK6HC-0uIzHwk/edit)
 - [TTS Interview Guide Template](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit)
+
   - Best practices for developing an interview guide are available in the [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit#).
   - An interview guide for the role may already exist if the role was previously posted; the Talent Team can check.
 
 ## Posting an Internal Role
 
-When the templates are ready for review, the Hiring Manager sends and email with the announcement, the application form, and interview guide to Talent at [jointts@gsa.gov](mailto:jointts@gsa.gov). A Talent team member will review with 48 hours and may possibly suggest edits. Once materials have been approved by Talent, they will add the posting to [#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack and the [TTSJobs handbook page]({{site.baseurl}}/ttsjobs/).
+When the templates are ready for review, the Hiring Manager sends and email with the announcement, the application form, and interview guide to Talent at [jointts@gsa.gov](mailto:jointts@gsa.gov). A Talent team member will review with 48 hours and may possibly suggest edits. Once materials have been approved by Talent, they will add the posting to [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack and the [TTSJobs handbook page]({{site.baseurl}}/ttsjobs/).
 
 ## Internal Interviews
 
-Hiring Managers select an interview panel and schedule interviews, the same as would happen for an external hire. Best practices are available in the [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit).
+Hiring Managers select an interview panel and schedule interviews, the same as would happen for an external hire. All candidates must receive a copy of the interview questions prior to their interview. Best practices are available in the [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit).
 
 Internal reference checks are optional. Refer to the [Reference Check template](https://docs.google.com/document/d/1QL6711NSv3nsIlN_3Rc7DFk8Apubyy8ugQHAAEWRWgc/edit) for guidance.
 
@@ -61,6 +62,7 @@ For HR to approve a candidate, they must meet the following qualifications:
 - Be on their current position description for at least 90 days
 - Be at the same GS level as the PD or have at least one year of specialized experience at the next grade below.
 - If an applicant is changing GS levels or if they will be moving to a different PD, they will need to provide an updated resume.
+
   - Applicants for supervisory roles must demonstrate past people management experience in their resume. This can include team lead experience, supervisory experience, or other types of people leadership.
 
 Please double-check with candidates before you interview them that they meet the three qualifications listed above.
@@ -71,6 +73,7 @@ _This paragraph is for internal detail opportunities only._ When the Hiring Mana
 
 - If the current supervisor will allow their employee to leave the team. Supervisors are not obligated to say yes.
 - If yes, what the desired detail start date will be. The start date must be the first day of a [payroll period](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars).
+
   - The selected candidate may be on a project and have to finish out or reassign their work. Hiring Managers should not assume a start date is feasible until they’ve reached an agreement with the current supervisor.
   - Current supervisors make the final decision about when an employee can start with their new team.
     The Hiring Manager forwards the supervisor’s approval to Talent at [jointts@gsa.gov](mailto:jointts@gsa.gov).
