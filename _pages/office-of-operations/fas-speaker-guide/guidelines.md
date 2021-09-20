@@ -91,10 +91,6 @@ to add custom emoji. Keep in mind that interactions in Slack are covered by our
 including emoji. Please be thoughtful and mindful about emoji submissions
 and ensure they're in line with our values of diversity and inclusion.
 
-Before requesting emoji featuring TTS members' faces, family, pets, etc., please
-**request consent** from those featured. Emoji reviewers are required to check
-that consent was obtained.
-
 To create custom emoji:
 
 1. Open [\#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY) in Slack

@@ -79,19 +79,8 @@ Behavior](<https://www.gsa.gov/directive/gsa-information-technology-(it)-general
 Non-sexual](<https://www.gsa.gov/directive/general-services-administration-(gsa)-policy-statement-on-harassment,-including-sexual-and-non-sexual->),
 [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct/), and ethics
 rules. TTS staff should review emoji requests with these rules in mind.
-
 Submitters should be thoughtful and mindful about emoji submissions, and try to
 ensure they're in line with our values of diversity and inclusion. Inclusion Bot will automatically flag emoji submissions where the emoji name may contain exclusionary language as a quick aid to reviewers.
-
-**Emoji of TTS members' faces, family, pets, etc**: When reviewing, emoji approvers
-**MUST** ask for clear, affirmative consent from the person whose image is being used.
-Ideally, submitters will check before requesting, but it's the approver's
-responsibility to verify.
-
-**Emoji of TTS members' faces, family, pets, etc**: When reviewing, emoji approvers
-**MUST** ask for clear, affirmative consent from the person whose image is being used.
-Ideally, submitters will check before requesting, but it's the approver's
-responsibility to verify.
 
 If you'd like to help review emoji requests, please reach out to
 [\#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S).
