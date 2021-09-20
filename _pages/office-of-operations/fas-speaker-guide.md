@@ -194,10 +194,10 @@ Therefore:
 
   The waived registration fee is only for the day you speak. If you plan on attending additional days of the conference, GSA needs to pay the difference between the full and waived registration fees, or determine if the additional waived amount, if provided as a gift, is acceptable under the widely attended gathering determination exception to the gift rules.
 
-  **Travel Fees:** 
+  **Travel Fees:**
   If an offer for non-federal source travel payment is extended, to speak at or attend an event (i.e., full/partial registration, transportation, meals, lodging), then the Event Tracker request must also include the invite, including documentation of the offer listing each item the source will provided, including the cost of each item as well as a statement that all the items are  provided in-kind, along with a completed Request for Acceptance of Payment from Non-Federal Sources Worksheet (if going on TDY to attend the event).
 
-  **Food Fees:** 
+  **Food Fees:**
   You can have lunch or dinner at the event, as long as it complies with one of the exceptions or exclusions under the Standards of Ethical Conduct or has been accepted by the agency as a  non-federal source travel payment. Under the exclusions to the Standards of Ethical Conduct, the term gift does not include anything paid for by the government as well as anything for which market value is paid by the employee. See [5 C.F.R. 2635.203(b)(7) and (b)(10).](https://www.ecfr.gov/cgi-bin/text-idx?SID=15f72e4d810efa219bcaba2ac04325d2&node=5:3.0.10.10.9.2.50.3&rgn=div8)
 
   For local speaking events, under the speaking and similar engagements exclusion free attendance includes waiver of all or part of the fee for an event or the provision of food, refreshments, entertainment, instruction or materials furnished to all attendees as an integral part of the event. It does not include travel expenses, lodgings, or entertainment collateral to the event. It does not include meals taken other than in a group setting with all other attendees, unless the employee is a presenter at the event and is invited to a separate meal for participating presenters that is hosted by the sponsor of the event. See [5 C.F.R. 2635.203(g).](https://www.ecfr.gov/cgi-bin/text-idx?node=sp5.3.2635.b&rgn=div6)
