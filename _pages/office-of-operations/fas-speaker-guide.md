@@ -14,7 +14,7 @@ redirect_from:
   - /fas-speaker-guide/
 ---
 
-⭐ If this is a press request (newspaper, TV station, radio station, podcast, or blog) forward the request to press@gsa.gov. OSC will handle responding, coordinating, and gaining the necessary approvals.
+**If this is a press request (newspaper, TV station, radio station, podcast, or blog) forward the request to press@gsa.gov. OSC will handle responding, coordinating, and gaining the necessary approvals.**
 
 Speaking externally is a privilege, as you are representing GSA and your fellow TTSers. There is an approval process. GSA’s Office of Strategic Communications (OSC) and TTS Outreach must approve your participation, talking points, and presentation materials before you can participate in any external events.
 
@@ -73,7 +73,7 @@ If you have been formally invited to participate in a speaking engagement, you m
 - Will you be speaking in your personal capacity?
 - Is this event scheduled for less than 15 days from now?
 
-⭐ If you answer yes to any of the questions above, stop here and contact your direct supervisor or TTS Outreach.
+**If you answer yes to any of the questions above, stop here and contact your direct supervisor or TTS Outreach.**
 
 </details>
 
