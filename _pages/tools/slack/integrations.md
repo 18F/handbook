@@ -8,8 +8,8 @@ questions:
 
 We have a few different Slack Apps and bots you'll see in Slack:
 
-- [Charlie](https://app.slack.com/client/T025AQGAN/D01NBG7T3PF): our [Slack app](https://api.slack.com/). Knows all kinds of tricks! Check out [its repo on GitHub](https://github.com/18F/charlie) to learn more.
-- [coffeemate](https://gsa-tts.slack.com/team/charlie): send a message with `coffee me` in a public channel or direct message [@Charlie](https://app.slack.com/client/T025AQGAN/D01NBG7T3PF) with `coffee me` to set up a virtual coffee/tea with a random coworker.
+- [Charlie](https://gsa-tts.slack.com/app_redirect?app=A01NPS5DRND): our [Slack app](https://api.slack.com/). Knows all kinds of tricks! Check out [its repo on GitHub](https://github.com/18F/charlie) to learn more.
+- [coffeemate](https://gsa-tts.slack.com/app_redirect?app=A01NPS5DRND): send a message with `coffee me` in a public channel or direct message [@Charlie](https://gsa-tts.slack.com/app_redirect?app=A01NPS5DRND) with `coffee me` to set up a virtual coffee/tea with a random coworker.
 - [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [request new emoji]({{site.baseurl}}/tools/slack/guidelines#custom-emoji). **Do not include private or sensitive information in Slackbot automatic responses.**
 - [TTS Inspector](https://github.com/18F/tts-tech-portfolio/tree/main/inspector): Our auditing bot
 
