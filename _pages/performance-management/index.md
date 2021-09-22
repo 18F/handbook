@@ -53,21 +53,26 @@ Depending on your overall performance rating, you may be eligible for an Individ
 
 ### Selecting award preference in HR Links
 
-- **Monetary award:** If you are elegible for a performance award, this is the default option in HR Links. No action is needed in HR Links **unless you specified award time off for the prior review cycle**
+- **Monetary award:** If you are eligible for a performance award, this is the default option in HR Links. No action is needed in HR Links **unless you specified award time off for the prior review cycle**
+
   - To change from **LEAVE** to **CASH**, you need to change your “Time Off Award Preference” to **“Inactive”** and you must then use the **“Save”** button.
   - **_Note:_** These [instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf) show where to make the change in HR Links, but they are missing the critical "Inactive" and "Save" steps.
-- **Award leave:** If you are elegible for a performance award and would like to select award time off in lieu of a monetary award, please follow [these instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf).
+
+- **Award leave:** If you are eligible for a performance award and would like to select award time off in lieu of a monetary award, please follow [these instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf).
 
 ## Training
 
 - Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids. Courses include, but is not limited to the following:
+
   - Performance Management Overview – Refresher and introduction of the performance management program.
   - Performance Planning Cascading Goals – Learn the importance of cascading goals to align with organizational performance to support organizational success.
   - Performance Planning Establishing SMART Performance Plans – Learn the importance of writing measurable plans to support organizational outcomes.
   - Self-Assessments – Learn to write effective self-assessment to support the promotion of accomplishments.
   - Planning an Effective Appraisal - “Newly added” Learn what is needed and to how to prepare for an appraisal.
   - Awards – Learn about the available awards within GSA.
+
 - HR Links [Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems). Courses include, but is not limited to the following:
+
   - Create & Submit a Performance plan
   - Acknowledge a Performance plan
   - Mid-Year Self-Assessment
