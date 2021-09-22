@@ -44,6 +44,7 @@ We will share open positions as they are available.
 - [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
 - [GSA WIDE: TTS Talent Acquisition Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 - [TTS WIDE: Identity Strategist Detail](https://docs.google.com/document/d/1LPjX3dp5sZ58W3uyywspGIDENCMu4qSfzlASBCAl7xQ/edit#heading=h.ug9ig2kgf0mm) - open Friday, September 17th until Monday, September 27th
+- [TTS WIDE: 10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit) - open Wednesday, September 22nd until Tuesday, October 5th
 
 ### Open to all federal employees
 
