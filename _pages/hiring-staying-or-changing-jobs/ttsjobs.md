@@ -37,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-We will share open positions as they are available.
+- [18F Chapter Directors](https://www.usajobs.gov/GetJob/ViewDetails/614743700) - open Wednesday, September 22nd until Wednesday, October 6th
 
 ### Internal only opportunities
 
