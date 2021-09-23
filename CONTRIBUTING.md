@@ -23,6 +23,7 @@ Before you make your contribution, there are a few things to remember:
 - We're careful about publishing [information collected during research](https://handbook.tts.gsa.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [\#g-research](https://gsa-tts.slack.com/archives/g-research) for guidance first
 - Try to avoid "click here" links. If necessary, be sure to follow the [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
 - TTS-wide information should be public by default and link to Google Docs for anything that shouldn't be publicly visible.
+- We follow the structure outlined in the [18F Content Guide](https://content-guide.18f.gov/our-approach/structure-the-content/)
 
 There is also some information that should **not** be included in the Handbook:
 
@@ -58,7 +59,7 @@ Note: The following steps specifically cover **editing an existing page**.
 
 ### Step 1: Access NetlifyCMS
 
-To access NetlifyCMS for the Handbook, navigate to [https://handbook.tts.gsa.gov/admin/](https://handbook.tts.gsa.gov/admin/). If you haven't made a contribution before, NetlifyCMS will prompt you to login with GitHub. If you don't have a GitHub account, [create one](https://github.com/signup).
+To access NetlifyCMS for the Handbook, navigate to <https://handbook.tts.gsa.gov/admin/>. If you haven't made a contribution before, NetlifyCMS will prompt you to login with GitHub. If you don't have a GitHub account, [create one](https://github.com/signup).
 
 ### Step 2: Find the page you'd like to edit
 
@@ -80,7 +81,7 @@ When you save for the first time, a [pull request](https://github.com/18F/handbo
 
 We've enabled the "editorial workflow" feature of NetlifyCMS, which allows content editors to more easily track the status of proposed changes. When you first click save, your changes will have 'Status: Draft' attached. Once you feel that your changes are ready for others' review, use the dropdown to change the status to 'In review'.
 
-You can also change the status by using a Trello-like board found at [https://handbook.tts.gsa.gov/admin/#/workflow](https://handbook.tts.gsa.gov/admin/#/workflow). To change the status, simply drag the card associated with your changes from the 'Drafts' column to the 'In Review' column.
+You can also change the status by using a Trello-like board found at <https://handbook.tts.gsa.gov/admin/#/workflow>. To change the status, simply drag the card associated with your changes from the 'Drafts' column to the 'In Review' column.
 
 ![Arrow pointing to the 'In review' status]({{site.baseurl}}/images/netlifycms-step4.png)
 
