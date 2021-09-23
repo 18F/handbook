@@ -40,5 +40,3 @@ When someone [leaves TTS]({{site.baseurl}}/leaving-tts/), an admin will [deactiv
 ### Reclaim member seats
 
 We have limited member seats available. Members who have been inactive for more than 90 days should be converted to guests. From the [Members page](https://app.mural.co/t/gsa6/settings/members), select the Members tab and sort by Last Access Date. For any active members that are past the inactive threshold, click the gear icon (hover over their row), and select "Convert to guest". Select "Become owner of their murals and rooms".
-
-test
