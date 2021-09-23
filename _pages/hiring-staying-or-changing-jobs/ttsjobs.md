@@ -45,6 +45,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 - [GSA WIDE: TTS Talent Acquisition Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
 - [TTS WIDE: Identity Strategist Detail](https://docs.google.com/document/d/1LPjX3dp5sZ58W3uyywspGIDENCMu4qSfzlASBCAl7xQ/edit#heading=h.ug9ig2kgf0mm) - open Friday, September 17th until Monday, September 27th
 - [TTS WIDE: 10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit) - open Wednesday, September 22nd until Tuesday, October 5th
+- [TTS WIDE: PIF Account Operations Detail](https://docs.google.com/document/d/1fGHywZ54yJakW5Gsf-QU2u1wf0y7HEiWQEfqHPBVnUo/edit) - open Thursday, September 23rd until Thursday, September 28th
+- [TTS WIDE: PIF Operations Detail](https://docs.google.com/document/d/1OPDTtnX7vnALBu8Bey-Qd6oQFKP8GAaTaq_PXQOBVwA/edit#) - open Thursday, September 23rd until Thursday, September 28th
 
 ### Open to all federal employees
 
