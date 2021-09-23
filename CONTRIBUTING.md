@@ -2,6 +2,7 @@
 title: Contributing to the Handbook
 permalink: /contributing/
 ---
+
 So you want to contribute to the Handbook? Great! We're glad you're here. This project is fully crowd-sourced, and thus its success hinges on whether people like you correct typos, update stale content, or make pages more readable.
 
 ## Introduction
@@ -18,24 +19,25 @@ For long or important chunks of writing, consider asking the [18F Writing Lab](h
 
 Before you make your contribution, there are a few things to remember:
 
-* This handbook website and repository are public
-* We're careful about publishing [information collected during research](https://handbook.tts.gsa.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [\#g-research](https://gsa-tts.slack.com/archives/g-research) for guidance first
-* Try to avoid "click here" links. If necessary, be sure to follow the [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
-* TTS-wide information should be public by default and link to Google Docs for anything that shouldn't be publicly visible.
-* We follow the structure outlined in the [18F Content Guide](https://content-guide.18f.gov/our-approach/structure-the-content/) 
+- This handbook website and repository are public
+- We're careful about publishing [information collected during research](https://handbook.tts.gsa.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [\#g-research](https://gsa-tts.slack.com/archives/g-research) for guidance first
+- Try to avoid "click here" links. If necessary, be sure to follow the [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
+- TTS-wide information should be public by default and link to Google Docs for anything that shouldn't be publicly visible.
+- We follow the structure outlined in the [18F Content Guide](https://content-guide.18f.gov/our-approach/structure-the-content/)
 
 There is also some information that should **not** be included in the Handbook:
 
-* TTS staff should not include information that shouldn't be public.
+- TTS staff should not include information that shouldn't be public.
 
-  * We already get training on this, but here are a few reminders about things we shouldn't include here:
-  * [Sensitive information](https://handbook.tts.gsa.gov/sensitive-information/)
-  * Comments that can be easily interpreted as [endorsements](https://www.oge.gov/web/oge.nsf/Use%20of%20Government%20Position%20and%20Resources/17593AE8B3A597C685257E96006364E4?opendocument) (or other potential ethical issues)
-* Information that can easily go out of date and is already published somewhere else in a useful format. This includes:
+  - We already get training on this, but here are a few reminders about things we shouldn't include here:
+  - [Sensitive information](https://handbook.tts.gsa.gov/sensitive-information/)
+  - Comments that can be easily interpreted as [endorsements](https://www.oge.gov/web/oge.nsf/Use%20of%20Government%20Position%20and%20Resources/17593AE8B3A597C685257E96006364E4?opendocument) (or other potential ethical issues)
 
-  * People's phone numbers, even if public information (such as their GSA work number). Link to the public [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) or the access-controlled 18F contact spreadsheet instead of including phone numbers in the handbook
-  * Information that is already well-covered on GSA InSite - link there instead of reproducing it
-  * Specific TTS org chart info (such as lists of names of supervisors and facilitators). Link to the [TTS org chart](https://handbook.tts.gsa.gov/tts-org-chart/), the internal [18F org chart](https://handbook.tts.gsa.gov/org-chart/), or the internal [Office of Solutions org chart](https://handbook.tts.gsa.gov/opp-org-chart/) instead
+- Information that can easily go out of date and is already published somewhere else in a useful format. This includes:
+
+  - People's phone numbers, even if public information (such as their GSA work number). Link to the public [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) or the access-controlled 18F contact spreadsheet instead of including phone numbers in the handbook
+  - Information that is already well-covered on GSA InSite - link there instead of reproducing it
+  - Specific TTS org chart info (such as lists of names of supervisors and facilitators). Link to the [TTS org chart](https://handbook.tts.gsa.gov/tts-org-chart/), the internal [18F org chart](https://handbook.tts.gsa.gov/org-chart/), or the internal [Office of Solutions org chart](https://handbook.tts.gsa.gov/opp-org-chart/) instead
 
 {% capture alert_content %}
 If you plan on creating a new Handbook page, first check out the [page
@@ -61,13 +63,13 @@ To access NetlifyCMS for the Handbook, navigate to <https://handbook.tts.gsa.gov
 
 ### Step 2: Find the page you'd like to edit
 
-Using the search feature, search by the *title* of the page you are looking to edit. It should come up in the results; click it to open the editor.
+Using the search feature, search by the _title_ of the page you are looking to edit. It should come up in the results; click it to open the editor.
 
 ![Arrow pointing to the Netlify search bar]({{site.baseurl}}/images/netlifycms-step2.png)
 
 ### Step 3: Make your changes and save
 
-NetlifyCMS lets you edit content in either Rich Text or Markdown, so feel free to use whichever makes you feel more comfortable. When you're done making your changes, click the 'Save' button at the top of your screen. *Note: NetlifyCMS does not offer auto-saving at this time.*
+NetlifyCMS lets you edit content in either Rich Text or Markdown, so feel free to use whichever makes you feel more comfortable. When you're done making your changes, click the 'Save' button at the top of your screen. _Note: NetlifyCMS does not offer auto-saving at this time._
 
 When you save for the first time, a [pull request](https://github.com/18F/handbook/pulls) will be automatically opened.
 
@@ -93,7 +95,7 @@ At the time of writing, the review process is primarily handled in GitHub. If yo
 
 ### Other benefits
 
-* **Access the build preview directly**: At the top right hand side of NetlifyCMS, click 'View Preview' to see your changes deployed on a live, mock Handbook, courtesy of cloud.gov Pages. Check out the [build preview docs](https://federalist.18f.gov/documentation/previews/) for more information on this feature.
+- **Access the build preview directly**: At the top right hand side of NetlifyCMS, click 'View Preview' to see your changes deployed on a live, mock Handbook, courtesy of cloud.gov Pages. Check out the [build preview docs](https://federalist.18f.gov/documentation/previews/) for more information on this feature.
 
 ## Contributing via Git
 
@@ -129,12 +131,12 @@ required.
 
 Forking and branching are two ways of submitting pull requests to edit the Handbook.
 
-If you are using the ***GitHub website built-in editing features***, you do not have to choose: GitHub will make the correct choice for you.
+If you are using the **_GitHub website built-in editing features_**, you do not have to choose: GitHub will make the correct choice for you.
 
 If you are using your Terminal / local git to edit:
 
-* **TTS teammates**: Please use ***branching*** to submit pull requests. Federalist Preview sites will only be built from a branch, and continuous integration can only succeed for PRs created from branches.
-* **External contributors**: Please use ***forking*** to submit pull requests, since non-TTS contributors do not have write access. Unfortunately, we won't be able to run Federalist Preview sites for your pull request; please build and serve the site locally to test instead.
+- **TTS teammates**: Please use **_branching_** to submit pull requests. Federalist Preview sites will only be built from a branch, and continuous integration can only succeed for PRs created from branches.
+- **External contributors**: Please use **_forking_** to submit pull requests, since non-TTS contributors do not have write access. Unfortunately, we won't be able to run Federalist Preview sites for your pull request; please build and serve the site locally to test instead.
 
 If you have any questions, feel free to ask in [\#tts-handbook](https://gsa-tts.slack.com/messages/tts-handbook).
 
@@ -170,14 +172,14 @@ Pull requests made using NetlifyCMS should only be reviewed when the label is ch
 
 ### Using repo specific labels
 
-* *do not merge yet:* Delay merging this pull request until the label has been removed
-* *help wanted:* Need additional assistance
-* *In progress:* Currently being worked on
-* *info is incorrect/outdated:* The current information that is there needs tending to
-* *new content needed:* There is information that is not present that should exist
-* *<2 hours:* Easy peazy, lemon squeezy
-* *2-4 hours:* Hold my callz
-* *\>4 hours:* Ooph, its a doozy!
+- _do not merge yet:_ Delay merging this pull request until the label has been removed
+- _help wanted:_ Need additional assistance
+- _In progress:_ Currently being worked on
+- _info is incorrect/outdated:_ The current information that is there needs tending to
+- _new content needed:_ There is information that is not present that should exist
+- _<2 hours:_ Easy peazy, lemon squeezy
+- _2-4 hours:_ Hold my callz
+- _\>4 hours:_ Ooph, its a doozy!
 
 ## Content and accessibility
 
