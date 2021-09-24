@@ -47,9 +47,9 @@ A GSA employee is eligible to be rated by their official Supervisor if they have
 
 For employees who need a new performance plan to be established **after June 1**, their supervisor should partner with our [Workforce Relations partner](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) for guidance.
 
-Employees who start **after September 1** are not eligible to participate in the upcoming end-of-year performance review cycle.  The employee's supervisor should partner with TTS PeopleOps for guidance.
+Employees who start **after September 1** are not eligible to participate in the upcoming end-of-year performance review cycle. The employee's supervisor should partner with TTS PeopleOps for guidance.
 
-**PLEASE NOTE:**  New performance plans should be established within 30 days of an employee entering a role.  
+**PLEASE NOTE:** New performance plans should be established within 30 days of an employee entering a role.
 
 ### Who is eligible for the end of year performance bonus?
 
