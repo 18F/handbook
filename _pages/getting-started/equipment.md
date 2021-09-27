@@ -29,6 +29,8 @@ Your laptop will come preloaded with the latest, GSA-approved/supported Mac oper
 
 **Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
+**GSA IT manages software updates.** You should not install updates or major version upgrades yourself. You are responsible for applying updates and restarting only when a GSA notification appears on your device.
+
 ### Bring Your Own Device (BYOD)
 
 [GSA has implemented a BYOD policy](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/mobile-devices-phones-tablets) that allows users to connect their non-GSA procured mobile devices, which have been previously approved by IT security, to GSA resources in a native fashion, utilizing the GSA network. Please note, only approved smartphones and tablets can be connected to the GSA network. Personal laptops cannot be connected directly to the GSA network at any GSA facility. For more information, please reference Section 4.2 of the [IT Security Procedural Guide](https://www.gsa.gov/cdnstatic/Securing_Mobile_Devices_and_Applications_%5BCIO_IT_Security_12-67_Rev_4%5D_01-26-2018.pdf#page=11).
@@ -79,6 +81,8 @@ TTS employees are issued an Apple iPhone. The TTS Talent Team will already have 
 - Change the phone's passcode. The new code should be known only to you.
 
 - **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
+
+- **You are responsible for applying software updates.** When you receive a notification that an update is available, you should apply the update as soon as possible.
 
 - After GSA IT provisions your phone, set up two-factor verification:
   - If you don't have access to [HR Links]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#hr-links), email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GSA Credential and Identity Management System (GCIMS) profile.
