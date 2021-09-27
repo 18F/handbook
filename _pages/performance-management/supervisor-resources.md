@@ -67,11 +67,11 @@ When an employee joins TTS or changes supervisors within TTS, it is important th
 
 ### Performance improvement and performance action plans
 
-Performance not at Level 3 in any Critical Element needs to be addressed formally. While this can be issued at any time, an employee who will be rated at Level 1 or 2 on any Critical Element on a Performance Plan _must be issued_ either a Performance Improvement Plan (PIP) for a Level 1 rating or a Performance Action Plan (PAP) for a Level 2 rating.
+At any point during the year, if an employee's performance in one or more critical element(s) or sub-element(s) is considered less than Level 3, Fully Successful, the employee should be notified right away.
 
-**_NOTE: To issue a Level 1 or 2 rating on a Critical Element, those performance levels must be defined and established on the performance plan for at least 120 days_**
+Reach out to our [Workforce Relations partner](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) via email or Slack for guidance.
 
-To initiate either plan, email our [Employee Relations contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) in the Office of Human Resources Management. She will work directly with you to create the PIP/PAP for your team member; supporting documentation will need to be submitted to her for review when creating the PIP/PAP.
+Please also reference the [Supervisor Checklist for Addressing Poor Performance](https://insite.gsa.gov/cdnstatic/insite/SupervisorChecklistforAddressingPoorPerformance.docx) on the [Performance Management Resources](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-resources) InSite page.
 
 ### Verifying your direct reports
 
