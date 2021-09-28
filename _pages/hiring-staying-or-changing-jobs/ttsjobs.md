@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -37,16 +36,16 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [18F Chapter Directors](https://www.usajobs.gov/GetJob/ViewDetails/614743700) - open Wednesday, September 22nd until Wednesday, October 6th
+* [18F Chapter Directors](https://www.usajobs.gov/GetJob/ViewDetails/614743700) - open Wednesday, September 22nd until Wednesday, October 6th
+* [](https://www.usajobs.gov/GetJob/ViewDetails/614743700)[Centers of Excellence Director](https://join.tts.gsa.gov/join/coe-director/) - open Monday, September 27th until Monday, October 11th
 
 ### Internal only opportunities
 
-- [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
-- [GSA WIDE: TTS Talent Acquisition Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
-- [TTS WIDE: Identity Strategist Detail](https://docs.google.com/document/d/1LPjX3dp5sZ58W3uyywspGIDENCMu4qSfzlASBCAl7xQ/edit#heading=h.ug9ig2kgf0mm) - open Friday, September 17th until Monday, September 27th
-- [TTS WIDE: 10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit) - open Wednesday, September 22nd until Tuesday, October 5th
-- [TTS WIDE: PIF Account Operations Detail](https://docs.google.com/document/d/1fGHywZ54yJakW5Gsf-QU2u1wf0y7HEiWQEfqHPBVnUo/edit) - open Thursday, September 23rd until Thursday, September 30th
-- [TTS WIDE: PIF Operations Detail](https://docs.google.com/document/d/1OPDTtnX7vnALBu8Bey-Qd6oQFKP8GAaTaq_PXQOBVwA/edit#) - open Thursday, September 23rd until Thursday, September 30th
+* [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
+* [GSA WIDE: TTS Talent Acquisition Coordinator](https://docs.google.com/document/d/1OR_lwuhM5UsdbTSvNmoRQlmO0Vb0f4nKpKmgYws9KeM/edit#) - open Thursday, April 29th until filled
+* [TTS WIDE: 10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit) - open Wednesday, September 22nd until Tuesday, October 5th
+* [TTS WIDE: PIF Account Operations Detail](https://docs.google.com/document/d/1fGHywZ54yJakW5Gsf-QU2u1wf0y7HEiWQEfqHPBVnUo/edit) - open Thursday, September 23rd until Thursday, September 30th
+* [TTS WIDE: PIF Operations Detail](https://docs.google.com/document/d/1OPDTtnX7vnALBu8Bey-Qd6oQFKP8GAaTaq_PXQOBVwA/edit#) - open Thursday, September 23rd until Thursday, September 30th
 
 ### Open to all federal employees
 
@@ -62,7 +61,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
