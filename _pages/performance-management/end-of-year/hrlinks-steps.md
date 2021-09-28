@@ -178,7 +178,7 @@ It is critical that all FY20 performance plan evaluations are acknowledged by em
 
 ## Closing out an interim performance plan (the plan will not factor into the end of year performance award)
 
-If a TTS employees has two performance plans of record, both plans need to be closed out; however, only the most recent plan will factor into the end of year performance award if the other plan is closed out properly. Supervisors should discuss both plans with their direct reports and provide ratings that are as accurate as possible because both plans will still be visible in the employee's record. The step-by-step instructions below show how to rate and submit the "old" plan properly. 
+If a TTS employees has two performance plans of record, both plans need to be closed out; however, only the most recent plan will factor into the end of year performance award if the other plan is closed out properly. Supervisors should discuss both plans with their direct reports and provide ratings that are as accurate as possible because both plans will still be visible in the employee's record. The step-by-step instructions below show how to rate and submit the "old" plan properly.
 
 - Step-by-step instructions:
   - No action required by employee
