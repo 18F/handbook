@@ -30,20 +30,16 @@ TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offi
 ## What Success Looks Like
 
 - **Enjoying Work**  
-We make it possible for the public and public servants to enjoy working with government technology and technologists.
-
+  We make it possible for the public and public servants to enjoy working with government technology and technologists.
 
 - **Looking Ahead**  
-We use technology to help solve the government’s biggest challenges of our time, and look ahead to the challenges of tomorrow.
-
+  We use technology to help solve the government’s biggest challenges of our time, and look ahead to the challenges of tomorrow.
 
 - **Mindfulness**  
-We design and operate from a foundation of diversity, equity, inclusion, accessibility, justice, and belonging in all things we do.
-
+  We design and operate from a foundation of diversity, equity, inclusion, accessibility, justice, and belonging in all things we do.
 
 - **Continuous Improvement**  
-TTS is a place where people feel psychologically safe, can make a positive impact on society, and are better for their time spent here.
-
+  TTS is a place where people feel psychologically safe, can make a positive impact on society, and are better for their time spent here.
 
 ## Our values
 
