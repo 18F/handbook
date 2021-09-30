@@ -166,7 +166,7 @@ Submitting a participant review in HR Links is the same process for all nominate
 
 ## Confirming that performance plans have been established
 
-It is critical that all FY20 performance plan evaluations are acknowledged by employees before November 16 and all FY21 performance plans are acknowledged by employees before November 30. The status of employee performance management can be checked in the _Team Performance Supervisor dashboard_:
+It is critical that all FY21 performance plan evaluations are acknowledged and all FY22 performance plans are acknowledged (established) by employees before November 15. The status of employee performance management can be checked in the _Team Performance Supervisor dashboard_:
 
 - Step-by-step instructions:
 
