@@ -106,7 +106,7 @@ For instances when a direct report is not assigned to their first line superviso
 
 - **_NOTE: If the employee has submitted a self-assessment in HR Links, the second line supervisor should email or print a copy for the first line supervisor to review prior to the 1:1 meeting._**
 
-1. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management/end-of-year/hrlinks-steps/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 conversation.
+2. The second line supervisor can [nominate the first line supervisor as a participant reviewer]({{site.baseurl}}/performance-management/end-of-year/hrlinks-steps/#nominating-participant-reviewers) so that the first line supervisor can submit an evaluation for their direct report in HR Links after the 1:1 conversation.
 
 - **_NOTE: The nominated supervisor's feedback is not automatically included as a comment in the employees performance review. HR Links creates a separate document, so it is recommended that the second line supervisor cuts and paste the feedback into the summary comments._**
 
