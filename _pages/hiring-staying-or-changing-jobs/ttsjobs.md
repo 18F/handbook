@@ -46,6 +46,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 - [TTS WIDE: 10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit) - open Wednesday, September 22nd until Tuesday, October 5th
 - [TTS WIDE: PIF Account Operations Detail](https://docs.google.com/document/d/1fGHywZ54yJakW5Gsf-QU2u1wf0y7HEiWQEfqHPBVnUo/edit) - open Thursday, September 23rd until Thursday, September 30th
 - [TTS WIDE: PIF Operations Detail](https://docs.google.com/document/d/1OPDTtnX7vnALBu8Bey-Qd6oQFKP8GAaTaq_PXQOBVwA/edit#) - open Thursday, September 23rd until Thursday, September 30th
+- [GSA WIDE: PeopleOps Program Analyst](https://docs.google.com/document/d/1wmNCxqbzg1ET8HeMvfo7Xeoj9YlIyeUkMv41amC1X1E/edit) - open Friday, October 1rst until Friday, October 10th
 
 ### Open to all federal employees
 
