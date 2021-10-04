@@ -164,7 +164,7 @@ Submitting a participant review in HR Links is the same process for all nominate
 - HR Links in-depth guide (with screenshots):
   - [Employee (Section 3, Topic 3.4)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
 
-## Confirming that performance plans have been established
+## Confirming that performance plans have been acknowledged
 
 It is critical that all FY21 performance plan evaluations are acknowledged and all FY22 performance plans are acknowledged (established) by employees before November 15. The status of employee performance management can be checked in the _Team Performance Supervisor dashboard_:
 
