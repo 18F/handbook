@@ -34,7 +34,7 @@ This page contains important dates for the mid year and end of year performance 
 | October 1, 2021      | Internal ask for employees to begin their self-assessment                                  |
 | October 22, 2021     | Self-assessment submittal due date                                                         |
 | October 23, 2021     | Audit of Employee self-assessment completion                                               |
-| Oct 23 - Nov 6, 2021 | Supervisors hold 1:1 performance review meetings with their direct reports                 |
-| November 9, 2021     | TTS Internal ask due date to close out FY21 performance plans if not completed during 1:1s |
-| November 16, 2021    | Official GSA end of year close out due date for FY21 performance plans in HR Links         |
+| Oct 25 - Nov 5, 2021 | Supervisors hold 1:1 performance review meetings with their direct reports                 |
+| November 8, 2021     | TTS Internal ask due date to close out FY21 performance plans if not completed during 1:1s |
+| November 15, 2021    | Official GSA end of year close out due date for FY21 performance plans in HR Links         |
 | December 7, 2021     | FY20 Performance Awards will be issued                                                     |
