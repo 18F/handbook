@@ -11,7 +11,8 @@ questions:
 redirect_from:
   - /telework-agreement-new-ft/
 ---
-In most, if not all cases, new employees that are “Virtual” in the final job offer have had *initial* telework documentation completed by their supervisors or the talent team. **The Telework Agreement is still needed and required by GSA**, but with those pre-approvals in place, the following steps should be fairly simple and work for you.
+
+In most, if not all cases, new employees that are “Virtual” in the final job offer have had _initial_ telework documentation completed by their supervisors or the talent team. **The Telework Agreement is still needed and required by GSA**, but with those pre-approvals in place, the following steps should be fairly simple and work for you.
 
 Shortly after starting with TTS, you should receive an email with attachments from TTS PeopleOps. One of these documents is the completed Full-Time Telework Agreement (**FTTA**), also known as **Form 3703**. This document needs to be uploaded to HR Links as part of the process described below.
 
@@ -21,16 +22,15 @@ In the same email with your completed FTTA, there should be a PDF with instructi
 
 Some clarifying points for this process are listed below.
 
-* Your full-time telework address is your **full home address**.
+- Your full-time telework address is your **full home address**.
 
-* When asked for Agency Worksite, use the main TTS address:
-**1800 F Street NW, Washington DC 20405**
+- When asked for Agency Worksite, use the main TTS address:
+  **1800 F Street NW, Washington DC 20405**
 
-* When asked for your approval date, **enter your start date**
+- When asked for your approval date, **enter your start date**
 
-* Unless you are within 50 miles of TTS in D.C., the answer to whether you live within commuting distance of the official worksite/duty station is **NO**.
+- Unless you are within 50 miles of TTS in D.C., the answer to whether you live within commuting distance of the official worksite/duty station is **NO**.
 
-* The document to upload to the HR Links Telework Agreement form is the completed FTTA (3703) document, referenced above. That email comes from TTS PeopleOps.
+- The document to upload to the HR Links Telework Agreement form is the completed FTTA (3703) document, referenced above. That email comes from TTS PeopleOps.
 
-* You do **NOT** need to fill out the specific details about the Telework Analysis Tool at the end of the process. Those fields can be left blank.
-
+- You do **NOT** need to fill out the specific details about the Telework Analysis Tool at the end of the process. Those fields can be left blank.
