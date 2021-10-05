@@ -15,9 +15,9 @@ questions:
 
 This page contains additional resources and trainings for employees who are going through the performance management process. Visit the Quick Links section of the [Performance Management Overview]({{site.baseurl}}/performance-management/) page for the Performance Management Employee Checklist.
 
-## [Employee performance management checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538)
+## Employee performance management checklist
 
-- Use the [Employee performance management checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) (please make a copy!) to guide you through the end of FY19 performance review process
+- Use the [Employee performance management checklist](https://docs.google.com/spreadsheets/d/1nhV-jGGygdNgKfYJEamKAVux5eBW5rf5Lj1maXFUt08/edit#gid=48334538) (please make a copy!) to guide you through the end of year performance review process
   - _NOTE: Items highlighted in green are particularly important steps_
 
 ## Performance review training sessions
