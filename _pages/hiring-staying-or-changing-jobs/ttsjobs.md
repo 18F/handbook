@@ -20,13 +20,14 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
+
 This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion Process
-* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and local government agencies
+- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+- Hiring actions using the Excepted Service version of the Merit Promotion Process
+- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+- Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -36,14 +37,14 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-* [18F Chapter Directors](https://www.usajobs.gov/GetJob/ViewDetails/614743700) - open Wednesday, September 22nd until Wednesday, October 6th
-* [](https://www.usajobs.gov/GetJob/ViewDetails/614743700)[Centers of Excellence Director](https://join.tts.gsa.gov/join/coe-director/) - open Monday, September 27th until Monday, October 11th
+- [18F Chapter Directors](https://www.usajobs.gov/GetJob/ViewDetails/614743700) - open Wednesday, September 22nd until Wednesday, October 6th
+- [](https://www.usajobs.gov/GetJob/ViewDetails/614743700)[Centers of Excellence Director](https://join.tts.gsa.gov/join/coe-director/) - open Monday, September 27th until Monday, October 11th
 
 ### Internal only opportunities
 
-* [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
-* [TTS WIDE: 10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit) - open Wednesday, September 22nd until Tuesday, October 5th
-* [GSA WIDE: PeopleOps Program Analyst](https://docs.google.com/document/d/1wmNCxqbzg1ET8HeMvfo7Xeoj9YlIyeUkMv41amC1X1E/edit) - open Friday, October 1st until Friday, October 8th
+- [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
+- [TTS WIDE: 10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit) - open Wednesday, September 22nd until Tuesday, October 5th
+- [GSA WIDE: PeopleOps Program Analyst](https://docs.google.com/document/d/1wmNCxqbzg1ET8HeMvfo7Xeoj9YlIyeUkMv41amC1X1E/edit) - open Friday, October 1st until Friday, October 8th
 
 ### Open to all federal employees
 
@@ -59,7 +60,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
-- - -
+---
 
 ### Still have questions?
 
