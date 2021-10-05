@@ -19,6 +19,7 @@ This page contains additional resources and trainings for supervisors who are go
 
 - Use the [Supervisor performance management checklist](https://docs.google.com/spreadsheets/d/1FkdV6FNOxDAZLuFBYJKK-3hgVE5lvIVQ31PKe3dZ628/edit#gid=884911250) to guide you through end of year performance reviews and to help establish performance plans for the new fiscal year.
   - _NOTE: Items highlighted in green are particularly important steps_
+  - _Duplicate the "Direct Report Name" tab for each of your direct reports_
 
 ## Performance review training sessions
 
