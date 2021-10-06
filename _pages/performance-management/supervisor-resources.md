@@ -30,9 +30,12 @@ This page contains additional resources and trainings for supervisors who are go
 
 ## Union requirements for end of year performance reviews
 
-- **AFGE Union members & NFFE Union members:** There are the two requirements for Bargin Unit Employees under the current contract
-  - A justification for a summary rating other than Level 3 must be completed in writing and made a part of the employee's performance appraisal file. Each employee will be given a copy of the rating and any related documentation.
-  - The employee's written comments about the final performance plan and the actual signed performance plan, which are placed in the supervisory performance file, will be provided to the employee prior to being placed in the file. Any documents used during the mid-year, interim, or final appraisal, placed in the supervisory performance file, will be shown to the employee at the time of the discussion, and the supervisor will notify the employee that he/she will be provided copies upon request.
+### AFGE Union members & NFFE Union members
+
+There are two requirements for Bargaining Unit Employees under the current contract:
+
+1. A justification for a summary **rating other than Level 3** must be completed in writing and made a part of the employee's performance appraisal file. Each employee will be given a copy of the rating and any related documentation.
+2. The employee's written comments about the final performance plan and the actual signed performance plan, which are placed in the supervisory performance file, will be provided to the employee prior to being placed in the file. Any documents used during the mid-year, interim, or final appraisal, placed in the supervisory performance file, will be shown to the employee at the time of the discussion; the supervisor will notify the employee that he/she will be provided copies upon request.
 
 Please reach out to our [Workforce Relations partner](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) via email or Slack if you have additional questions or concerns.
 
