@@ -45,6 +45,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 - [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
 - [TTS WIDE: 10x Project Coordinator Detail](https://docs.google.com/document/d/1vhbr6pTH11NwZrClCpQODb6ifuhZHNbFxbhYLyxqzGs/edit) - open Wednesday, September 22nd until Tuesday, October 5th
 - [GSA WIDE: PeopleOps Program Analyst](https://docs.google.com/document/d/1wmNCxqbzg1ET8HeMvfo7Xeoj9YlIyeUkMv41amC1X1E/edit) - open Friday, October 1st until Friday, October 8th
+- [GSA WIDE: Forms.gov Technical Lead Detail](https://docs.google.com/document/d/1YQHLH8B0MUFrZMbETau-_gSMHjzPi8uGhbykIVnCJ5U/edit#heading=h.ug9ig2kgf0mm) - open Thursday, October 7th until Thursday, October 21st
 
 ### Open to all federal employees
 
