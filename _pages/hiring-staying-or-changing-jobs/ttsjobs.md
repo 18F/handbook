@@ -38,7 +38,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 ### Open
 
 - [18F Chapter Directors](https://www.usajobs.gov/GetJob/ViewDetails/614743700) - open Wednesday, September 22nd until Wednesday, October 6th
-- [](https://www.usajobs.gov/GetJob/ViewDetails/614743700)[Centers of Excellence Director](https://join.tts.gsa.gov/join/coe-director/) - open Monday, September 27th until Monday, October 11th
+- [](https://www.usajobs.gov/GetJob/ViewDetails/614743700)[Centers of Excellence Director](https://join.tts.gsa.gov/join/coe-director/) - open Monday, September 27th until Tuesday, October 12th
 
 ### Internal only opportunities
 
