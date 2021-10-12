@@ -80,7 +80,7 @@ _This paragraph is for internal detail opportunities only._ When the Hiring Mana
 
 ## Internal Final Qualification
 
-The Hiring Manager needs to provide the selected candidate's resume to TTS Talent for reassigments or to PeopleOps for details. Talent or PeopleOops will work with GSA HR to confirm that the selected candidate meets the qualifications outlined in the posting (i.e. GS level, required experience in the PD), based on their resume. Hiring managers and current supervisors should not announce any selection information until HR has given final approval. The hiring manager will be notified of approval from Talent or PeopleOps.
+The Hiring Manager needs to provide the selected candidate's resume to TTS Talent for reassigments or to PeopleOps for details. Talent or PeopleOps will work with GSA HR to confirm that the selected candidate meets the qualifications outlined in the posting (i.e. GS level, required experience in the PD), based on their resume. Hiring managers and current supervisors should not announce any selection information until HR has given final approval. The hiring manager will be notified of approval from Talent or PeopleOps.
 
 ## Notifying TTS People Operations for Detail Opportunities
 
