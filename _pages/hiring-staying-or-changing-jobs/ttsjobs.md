@@ -20,13 +20,14 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
+
 This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion Process
-* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and local government agencies
+- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+- Hiring actions using the Excepted Service version of the Merit Promotion Process
+- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+- Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -36,12 +37,12 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-* [](https://www.usajobs.gov/GetJob/ViewDetails/614743700)[Centers of Excellence Director](https://join.tts.gsa.gov/join/coe-director/) - open Monday, September 27th until Tuesday, October 12th
+- [](https://www.usajobs.gov/GetJob/ViewDetails/614743700)[Centers of Excellence Director](https://join.tts.gsa.gov/join/coe-director/) - open Monday, September 27th until Tuesday, October 12th
 
 ### Internal only opportunities
 
-* [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
-* [GSA WIDE: Forms.gov Technical Lead Detail](https://docs.google.com/document/d/1YQHLH8B0MUFrZMbETau-_gSMHjzPi8uGhbykIVnCJ5U/edit#heading=h.ug9ig2kgf0mm) - open Thursday, October 7th until Thursday, October 21st
+- [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
+- [GSA WIDE: Forms.gov Technical Lead Detail](https://docs.google.com/document/d/1YQHLH8B0MUFrZMbETau-_gSMHjzPi8uGhbykIVnCJ5U/edit#heading=h.ug9ig2kgf0mm) - open Thursday, October 7th until Thursday, October 21st
 
 ### Open to all federal employees
 
@@ -57,7 +58,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
-- - -
+---
 
 ### Still have questions?
 
