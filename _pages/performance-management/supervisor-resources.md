@@ -25,7 +25,7 @@ This page contains additional resources and trainings for supervisors who are go
 
   - [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
      - Presentation and On-demand Videos
-  - [Career progression framework](https://handbook.tts.gsa.gov/#career-progression-framework)
+  - [Career progression framework]({{site.baseurl}}/#career-progression-framework)
   - FY22 performance plans (Coming Soon)
 
 ## Union requirements for end of year performance reviews
