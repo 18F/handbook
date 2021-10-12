@@ -27,6 +27,7 @@ This page contains additional resources and trainings for supervisors who are go
   - Presentation and On-demand Videos
 - [Career progression framework]({{site.baseurl}}/#career-progression-framework)
 - FY22 performance plans (Coming Soon)
+- [Performance rating level definitions & examples](https://docs.google.com/document/d/1a5fEmORdBkA6MBVeB7BzvXCHRXg1XLfDr4kngwczFAg/edit?usp=sharing)
 
 ## Union requirements for end of year performance reviews
 
