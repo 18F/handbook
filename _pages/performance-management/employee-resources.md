@@ -22,10 +22,10 @@ This page contains additional resources and trainings for employees who are goin
 
 ## Performance review training sessions
 
-- Content coming soon
-  - FY21 end-of-year performance close-out overview
-  - Career progression framework
-  - FY22 performance plans
+  - [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
+     - Presentation and On-demand Videos
+  - [Career progression framework](https://handbook.tts.gsa.gov/#career-progression-framework)
+  - FY22 performance plans (Coming Soon)
 
 ## Guidance
 
