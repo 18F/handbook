@@ -84,10 +84,10 @@ The Hiring Manager needs to provide the selected candidate's resume to TTS Talen
 
 ## Notifying TTS People Operations for Detail Opportunities
 
-Once Talent or PeopleOps has confirmed HR approval, email [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and [Finance](mailto:18F-Finance-CS@gsa.gov) with the following information for detail opportunities:
+Once Talent or PeopleOps has confirmed HR approval, email [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) with the following information for detail opportunities:
 
 - Employee Name
-- Office Symbol the employee is being detailed or transferred to.
+- Office Symbol the employee is being detailed or transferred to
 - For details: if it is a reimbursable or non-reimbursable detail (i.e. who is paying the detailee’s salary)
 - The name of the new supervisor
 - The Position Description number. If it is a detail without a PD, use "Detail to Unclassified Duties" and provide a list of duties that the selected employee will be expected to perform.
@@ -100,7 +100,7 @@ Once Talent or PeopleOps has confirmed HR approval, email [JoinTTS@gsa.gov](mail
 - Employee Name
 - The name of the new supervisor (if applicable)
 - The Position Description number for the new reassignment.
-- Link to the copleted Internal Candidate Pool spreadsheet
+- Link to the completed Internal Candidate Pool spreadsheet
 - Effective date for reassignment (Note, this has to take place on a pay period)
 
 ## Notifying Internal Candidates
