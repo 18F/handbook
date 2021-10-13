@@ -37,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [](https://www.usajobs.gov/GetJob/ViewDetails/614743700)[Centers of Excellence Director](https://join.tts.gsa.gov/join/coe-director/) - open Monday, September 27th until Tuesday, October 12th
+We will share open positions as they are available.
 
 ### Internal only opportunities
 
