@@ -25,6 +25,7 @@ This page contains additional resources and trainings for employees who are goin
 - [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
   - Presentation and On-demand Videos
 - [Career progression framework]({{site.baseurl}}/#career-progression-framework)
+  - [CPF Overview Video](https://docs.google.com/spreadsheets/d/1pGf-blfHbCf5b6ojGEoFH_F6XBFp3Oa87WkdhmjT9qU/edit#gid=177553586)
 - FY22 performance plans (Coming Soon)
 
 ## Guidance
