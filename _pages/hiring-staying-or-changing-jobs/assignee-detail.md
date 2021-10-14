@@ -58,7 +58,7 @@ Once you are ready to move forward with your opportunity, you can use the templa
 
 ## Job Posting
 
-When the templates are ready for review, the Hiring Manager sends an email with the announcement, the application form, and interview guide to Talent at jointts@gsa.gov. A Talent team member will review within 48 hours and may possibly suggest edits. Once materials have been approved by Talent, they will add the posting to [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack and the [TTSJobs handbook page](https://handbook.tts.gsa.gov/ttsjobs/). 
+When the templates are ready for review, the Hiring Manager sends an email with the announcement, the application form, and interview guide to Talent at jointts@gsa.gov. A Talent team member will review within 48 hours and may possibly suggest edits. Once materials have been approved by Talent, they will add the posting to [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack and the [TTSJobs handbook page]({{site.baseurl}}/ttsjobs/). 
 
 Hiring Managers can find tips on advertising and promoting their internal opportunities in the [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit#bookmark=id.rmgryyopbn7r).
 
