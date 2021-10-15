@@ -100,7 +100,9 @@ If modifications need to be made to an existing performance plan, a plan can be 
 
 This process allows supervisors and employees to [solicit feedback](https://drive.google.com/open?id=1O3G3fa2ezbz_SUqBRT3OZRt0QPrLapl6) from other supervisors or colleagues regarding their Performance Plan. HR Links allows both employees and supervisors to nominate and track participant reviews; however, only supervisors can officially submit a nomination. If an employee nominates another employee for feedback on their performance, the nomination is submitted to the supervisor for approval.
 
-Once nominated, participant reviewers receive a notification alerting them of the evaluation request. The employee's supervisor is required to review and approve all feedback from participant reviews. _NOTE: A participant reviewer will only be able to see the employee appraisal information that they provided._
+Once nominated, participant reviewers receive a notification alerting them of the evaluation request. The employee's supervisor is required to review and approve all feedback from participant reviews. 
+
+_NOTE: A participant reviewer will need to [“Accept” or “Decline”](https://docs.google.com/document/d/13VNcGwXrT6Esse2mfpGjJ-DZFbX8f_iqAaJlhpwuSCk/edit?usp=sharing) to provide feedback, if nominated, and will only be able to see the employee appraisal information that they provided._
 
 - Step-by-step instructions:
 
