@@ -26,7 +26,9 @@ This page contains additional resources and trainings for employees who are goin
   - Presentation and On-demand Videos
 - [Career progression framework]({{site.baseurl}}/#career-progression-framework)
   - [CPF Overview Video](https://docs.google.com/spreadsheets/d/1pGf-blfHbCf5b6ojGEoFH_F6XBFp3Oa87WkdhmjT9qU/edit#gid=177553586)
-- FY22 performance plans (Coming Soon)
+- FY22 performance plan framework
+  - [Presentation and On-demand Videos](https://docs.google.com/presentation/d/1N-Fn9MgQs-eI9D8m_VuBQONWy00OWTU8KOLBK_ivX4c/edit?usp=sharing)
+  - [Diagram of the FY22 Framework](https://docs.google.com/presentation/d/1N1zegrsmeul9IIwXW2V6eE1RRU20aCOKpcT9Z1XFy-M/edit?usp=sharing)
 
 ## Guidance
 
