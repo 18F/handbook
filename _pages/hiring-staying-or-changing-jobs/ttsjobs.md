@@ -58,6 +58,7 @@ We will share open positions as they are available.
 - [CoE Client Services Supervisor](https://docs.google.com/document/d/1qpv1uIqrEPoa8T0TrHP4JbkbQvj8liGpQTyqR1de3pg)
 - [PIF Supervisors](https://docs.google.com/document/d/1qaWHy9K-FnNkfNS78CW7KsX9KKrWClbUX0NSNKUjrLc)
 - [ARP Portfolio Lead](https://docs.google.com/document/d/1TmTF8ZxKkez4CikIb00rDhSrtx_cjOx6MYI7xAWeMI0)
+- [USDC Director](https://docs.google.com/document/d/1M1oGAT304n2eCA4ObJhqbIOlPyNP-9OHFj-ulLaj9mA)
 - and more to come!
 
 ## Opportunities with partners
