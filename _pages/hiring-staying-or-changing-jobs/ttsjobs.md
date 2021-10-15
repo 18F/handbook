@@ -56,7 +56,7 @@ We will share open positions as they are available.
 - [CoE Customer Experience & Contact Center Supervisor](https://docs.google.com/document/d/1kicYARQGbqruFXtIi7FfWhc6Spi8GNTCw4-NQ9pEiWs)
 - [CoE Cloud & Infrastructure Supervisor](https://docs.google.com/document/d/1c3z_5-6NstjpSi5NfSTqnNEFCVK1QExjHytopSATFFw)
 - [CoE Client Services Supervisor](https://docs.google.com/document/d/1qpv1uIqrEPoa8T0TrHP4JbkbQvj8liGpQTyqR1de3pg)
-- [PIF Technical Portfolio Lead and Strategic Events & Community Manager](https://docs.google.com/document/d/1qaWHy9K-FnNkfNS78CW7KsX9KKrWClbUX0NSNKUjrLc)
+- [PIF Supervisors](https://docs.google.com/document/d/1qaWHy9K-FnNkfNS78CW7KsX9KKrWClbUX0NSNKUjrLc)
 - and more to come!
 
 ## Opportunities with partners
