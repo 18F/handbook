@@ -49,6 +49,7 @@ We will share open positions as they are available.
 We will share open positions as they are available.
 
 ### Coming soon
+
 - [Cloud.gov Director](https://docs.google.com/document/d/1Px83r2CxMyxBeKZa8Ffiecbx8U6rB5tAGizDBLr5kBI)
 - [18F Design Supervisors](https://docs.google.com/document/d/1tM91kmMX0VXkYNWDvXQ4PV8GAgMy5rP7-PVhF3sZdFQ)
 - [18F Product Supervisors](https://docs.google.com/document/d/1q1wf2dQoPt9BTowhbuI6QpyzPP3NGkuaal5Uf0B7f-o)
