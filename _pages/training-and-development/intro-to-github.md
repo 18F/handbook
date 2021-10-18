@@ -54,7 +54,7 @@ If you’re trying to learn how to become an expert in issues, this article, [Ma
 
 [Digital.gov: An Introduction to GitHub](https://digital.gov/resources/an-introduction-github/) is a video that includes a lot of the GitHub basics you could want. It’s about a 30 minute video that shows you how to manage and publish website content. **This is particularly useful if you are contributing to [Federalist](https://federalist.18f.gov/) sites.**
 
-Pull requests are important for editing content and making changes in GitHub. [Github Docs - About pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) explains what a pull request is and how it works. Make sure you are making a pull request from a [branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch) and not directly in Master.
+Pull requests are important for editing content and making changes in GitHub. [Github Docs - About pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) explains what a pull request is and how it works. Make sure you are making a pull request from a [branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch) and not directly in `master` or `main`.
 
 [Introduction to GitHub for Newcomers](https://www.youtube.com/watch?v=uNa9GOtM6NE) is a longer video that will teach you how to file issues and issue pull requests.
 
