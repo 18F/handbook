@@ -5,13 +5,13 @@ redirect_from:
   - /working-groups-and-guilds-101/
 ---
 
-TTS has a collection of communities to help develop best practices, provide training, explore new ideas,and help solve thorny issues.
+TTS has a collection of communities to help develop best practices, provide training, explore new ideas, and help solve thorny issues.
 
 These volunteer groups decide how and where to focus their efforts and conversations, in coordination with TTS leadership. Anyone may participate in any of these groups.
 
 ## Working groups
 
-A working group is a group of people working together to investigate a particular problem and achieve specified goals. They are usually self-organized, and are expected to short-lived and spin up or down depending on organizational needs. The best possible outcome for a working group is to no longer be needed, because it has solved the problem it was formed to solve.
+A working group is a group of people working together to investigate a particular problem and achieve specified goals. They are usually self-organized, and are expected to be short-lived and spin up or down depending on organizational needs. The best possible outcome for a working group is to no longer be needed, because it has solved the problem it was formed to solve.
 
 Working groups are usually started by a handful group of people who recognize a problem, then recruit like-minded souls willing to help find a solution. Usually, but not always, the problem is localized to just one part of TTS. Once solved, the working group winds down.
 
