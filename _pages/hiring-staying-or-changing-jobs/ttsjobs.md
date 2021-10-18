@@ -53,6 +53,7 @@ We will share open positions as they are available.
 - [Cloud.gov Director](https://docs.google.com/document/d/1Px83r2CxMyxBeKZa8Ffiecbx8U6rB5tAGizDBLr5kBI)
 - [18F Design Supervisors](https://docs.google.com/document/d/1tM91kmMX0VXkYNWDvXQ4PV8GAgMy5rP7-PVhF3sZdFQ)
 - [18F Product Supervisors](https://docs.google.com/document/d/1q1wf2dQoPt9BTowhbuI6QpyzPP3NGkuaal5Uf0B7f-o)
+- [18F Engineering Supervisors](https://docs.google.com/document/d/19KmoksP-2OQ7PrK8VBv55Z395H1B1Z-z1XxphNdfMak/edit#)
 - [CoE Customer Experience & Contact Center Supervisor](https://docs.google.com/document/d/1kicYARQGbqruFXtIi7FfWhc6Spi8GNTCw4-NQ9pEiWs)
 - [CoE Cloud & Infrastructure Supervisor](https://docs.google.com/document/d/1c3z_5-6NstjpSi5NfSTqnNEFCVK1QExjHytopSATFFw)
 - [CoE Client Services Supervisor](https://docs.google.com/document/d/1qpv1uIqrEPoa8T0TrHP4JbkbQvj8liGpQTyqR1de3pg)
