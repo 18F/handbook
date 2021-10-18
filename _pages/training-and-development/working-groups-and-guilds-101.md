@@ -112,7 +112,7 @@ Remember, you're asking for a substantial commitment of organizational resources
         </td>
         <td>
           Ben Peterson - 18F<br>
-          Scott Weiss - PIF
+          Dave Luetger - 18F
         </td>
       </tr>
       <tr>
@@ -133,8 +133,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://gsa-tts.slack.com/messages/g-diversity">#g-diversity</a>
         </td>
         <td>
-          Aileen McGraw - PIF<br>
-          Jessyka Castillo - SOL
+          Patrick Kigongo - 18F<br>
+          Jon Roberts - 18F
         </td>
       </tr>
       <tr>
@@ -239,7 +239,7 @@ Current 18F Collectives (and Leads) include:
       </tr>
       <tr>
         <th class="col-grouplet">Consulting</th>
-        <td>Ann Morey & Amanda Costello</td>
+        <td>Amanda Costello</td>
         <td>
           <a href="https://gsa-tts.slack.com/messages/c-consulting">#c-consulting</a>
         </td>
