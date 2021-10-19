@@ -17,6 +17,10 @@ redirect_from:
 
 - **508** - The federal regulation that requires government IT projects be accessible to people with disabilities.
 
+- **A-11** - A type of document published by the OMB that tells federal agencies how to make budget requests.
+
+- **a11y** - A [numeronym](https://en.wikipedia.org/wiki/Numeronym) that stands for "accessibility."
+
 - **Agile** - A software development methodology based on collaboration, iteration, feedback, and constant improvement.
 
 - **API** - Application programming interface. Think of them as a way for computers to interact, either internally or between one another. If you wanted to make a website that shows the current temperature wherever you are, your code talks to one API to get your location, then another to find out the weather in that area.
@@ -47,7 +51,13 @@ redirect_from:
 
 * **Confidentiality** - means: secrets. Personal information (PII) — names, phone numbers, social security numbers, etc — is one kind of secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that confidential information may have been leaked outside TTS, you should open an incident.
 
-- **CRM** - Customer relationship management software, which can help organizations track contacts and interactions with customers.
+- **COOP** - Continuity of Operations Plan, a plan for emergency situations like natural disasters.
+
+- **CRM** - Customer Relationship Management software, which can help organizations track contacts and interactions with customers.
+
+- **CUI** - Controlled Unclassified Information.
+
+- **CX** - Customer Experience.
 
 - **Dev** - Someone who does software development. A "coder."
 
@@ -63,6 +73,8 @@ redirect_from:
   - Logging on to `gsa-wireless`
 
 - **FAS** - The [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service) is a GSA office dedicated to helping federal agencies buy products and services. TTS is part of FAS.
+
+- **FOIA** - Freedom of Information Act, a law which allows the public to see government records.
 
 - **Front end developer** - The people who work on the parts of the site that you see, making the page look the way it's supposed to, have buttons in the right places, etc. They write HTML, CSS, and usually JavaScript.
 
@@ -88,13 +100,19 @@ redirect_from:
 
 - **MOU** - Memorandum of understanding.
 
+- **NEO** - New Employee Orientation
+
 - **OAuth** - Open Authorization. An open standard for authentication and authorization, which allows a user's account information to be used by third-party services without exposing their password.
+
+- **OCE** - GSA's Office of Customer Experience
 
 - **OGC** - Office of General Counsel, aka GSA's legal team.
 
 - **OKR** - Objectives and Key Results. A system for setting individual and organizational goals with clear ways to measure success.
 
 - **OLU** - On-Line University, where our agency's mandatory training classes are hosted.
+
+- **OMB** - Office of Management and Budget, an office of the White House that administers the federal budget and spending by federal agencies.
 
 - **Open source software** - Software that does not charge users a purchase or licensing fee for modifying or redistributing the source code. Anyone can study, change, or distribute the code for any purpose.
 
@@ -110,7 +128,7 @@ redirect_from:
 
 - **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs innovators with top civil servants in the highest levels of the federal government to tackle some of the biggest challenges. PIF is an office within TTS.
 
-- **PII** - personally identifiable information.
+- **PII** - Personally Identifiable Information.
 
 - **PRA** - The Paperwork Reduction Act, enacted in 1980, aims to reduce the burden of federally imposed paperwork for U.S. businessess and the public.
 
@@ -141,6 +159,8 @@ redirect_from:
 - **VPN** - Virtual Private Network is a way to pretend that you're on the GSA network when you're not in a GSA building, which also makes your Internet connection more secure. It's required for access to some GSA sites. See [Citrix]({{site.baseurl}}/virtual-desktop/) or [AnyConnect]({{site.baseurl}}/anyconnect/).
 
 - **Waterfall development** - An approach to software development projects based on upfront planning and linear, sequential execution.
+
+- **WCAG** - Web Content Accessibility Guidelines for web developers and designers to build inclusive software.
 
 ## More
 
