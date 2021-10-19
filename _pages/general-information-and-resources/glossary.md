@@ -96,15 +96,17 @@ redirect_from:
 
 - **IaaS** - Infrastructure as a Service. A service that provides on-demand computing services such as storage. This is the foundation on which organizations can build and maintain cloud services.
 
+- **IaC** - Infrastructure as Code. A technique allowing a software engineer to write code that defines IT infrastructure, like, defintions of servers needed by a project. The code can be read by a machine that then provisions the needed server.
+
 * **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
 
 - **MOU** - Memorandum of understanding.
 
-- **NEO** - New Employee Orientation
+- **NEO** - New Employee Orientation.
 
 - **OAuth** - Open Authorization. An open standard for authentication and authorization, which allows a user's account information to be used by third-party services without exposing their password.
 
-- **OCE** - GSA's Office of Customer Experience
+- **OCE** - GSA's Office of Customer Experience.
 
 - **OGC** - Office of General Counsel, aka GSA's legal team.
 
@@ -129,6 +131,8 @@ redirect_from:
 - **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs innovators with top civil servants in the highest levels of the federal government to tackle some of the biggest challenges. PIF is an office within TTS.
 
 - **PII** - Personally Identifiable Information.
+
+- **PMO** - Project (or Program) Management Office, a temporary office to focus on a special funding project.
 
 - **PRA** - The Paperwork Reduction Act, enacted in 1980, aims to reduce the burden of federally imposed paperwork for U.S. businessess and the public.
 
