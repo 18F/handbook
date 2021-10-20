@@ -74,6 +74,8 @@ redirect_from:
 
 - **FAS** - The [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service) is a GSA office dedicated to helping federal agencies buy products and services. TTS is part of FAS.
 
+- **FISMA** - Federal Information Security Management Act, a framework of various levels of information security.
+
 - **FOIA** - Freedom of Information Act, a law which allows the public to see government records.
 
 - **Front end developer** - The people who work on the parts of the site that you see, making the page look the way it's supposed to, have buttons in the right places, etc. They write HTML, CSS, and usually JavaScript.
@@ -155,6 +157,8 @@ redirect_from:
 - **SOP** - Standard Operating Procedure. Step-by-step instructions to help employees carry out routine operations efficiently and uniformly while maintaining compliance.
 
 - **SOW** - Statement of work. Document that defines project-specific activities, deliverables, and timelines for a vendor providing services to the client. May be part of an IAA.
+
+- **SSP** - System Security Plan.
 
 - **TTS** - The [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) aim to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public. This is the TTS Handbook, and you're probably reading it because you're an employee of TTS. TTS is part of FAS, which is part of GSA.
 
