@@ -11,6 +11,8 @@ redirect_from:
   - /glossary/
 ---
 
+- **10X** - A way for federal employees across the government to pitch an idea that would solve a problem. The ideas are evaluated by TTS.
+
 - **[18F](https://18f.gsa.gov/)** - 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships. 18F is an office within TTS.
 
 - **2FA** - Two-factor authentication: entering a second, temporary code in addition to a username and password. 2FA provides added security when logging in to programs, like GitHub, remotely.
@@ -93,6 +95,8 @@ redirect_from:
 - **GSA** - The [General Services Administration](https://www.gsa.gov/) is an independent agency whose mission is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across government. TTS is part of FAS, which is part of GSA.
 
 - **HCD** - Human-Centered Design, developing software (and other systems) with a consistent focus on the users' perspective and needs
+
+- **HISP** - High Impact Service Providers. [Particular parts of the government](https://www.performance.gov/cx/#hisps) that make a big impact on the public because of their importance and scale.
 
 - **HR Links** - [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's system for HR actions, including requesting leave and managing performance review documents.
 
