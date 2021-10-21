@@ -10,8 +10,8 @@ This process has four major steps and can take up to 3-6 weeks to complete. Here
 <details>
 <Summary>Step 1: Join the TTS Speaker’s Bureau</summary>
 
- 
-If you want to represent TTS at an external event in your official capacity, you will need to be part of the TTS Speaker’s Bureau. In order to join the TTS Speaker’s Bureau you will need to 
+If you want to represent TTS at an external event in your official capacity, you will need to be part of the TTS Speaker’s Bureau. In order to join the TTS Speaker’s Bureau you will need to
+
 <ul>
 <li> Create a headshot and bio in the [GSA template](https://docs.google.com/document/d/1QLbn7nwH_kUS3PRVGQcHbu5MPEwdtf_NTAd6WuBoJFQ/edit),[examples of bios](https://docs.google.com/spreadsheets/d/1QUeodBn_hkCiUfxb8xIsMXxoyxXAorpK3B6ujLQ45ZQ/edit#gid=0)</li>
 <li> Complete the Join the [TTS Speaker’s Bureau form](https://app.smartsheetgov.com/b/form/ad363ff473f347cdabdde6dbf6b0b973)</li>
@@ -141,9 +141,10 @@ Permission for GSA visual information producers to document GSA presenters at ev
 Find much more information in GSA’s visual information policy.
 
 **Endorsements and Promotions**
-GSA is responsible for providing neutral and unbiased advice. It is essential that we remain fair and unbiased in all that we do and say. As such, we avoid endorsing, or demonstrating favoritism, to any single one of the following:  
- - Vendors - Brand-name products - Service providers - Industry associations/groups - Media outlets
-Therefore: - GSA SMEs cannot speak about brand-name products or companies. - GSA will not provide quotes to event hosts for press outreach or marketing materials. - GSA has to carefully consider if accepting an invitation to an event sponsored by a single vendor will be seen as endorsing that vendor.
+GSA is responsible for providing neutral and unbiased advice. It is essential that we remain fair and unbiased in all that we do and say. As such, we avoid endorsing, or demonstrating favoritism, to any single one of the following:
+
+- Vendors - Brand-name products - Service providers - Industry associations/groups - Media outlets
+  Therefore: - GSA SMEs cannot speak about brand-name products or companies. - GSA will not provide quotes to event hosts for press outreach or marketing materials. - GSA has to carefully consider if accepting an invitation to an event sponsored by a single vendor will be seen as endorsing that vendor.
 
 **Content and Copyrights **
 All material (slides, presentations, handouts, etc.) presented by GSA are public domain, and GSA will not create special or exclusive content for an event that is not available to the public through other channels. As such, event hosts (companies or association/trade groups) may not retain the rights to GSA content nor may they profit off the sale of that content.  
