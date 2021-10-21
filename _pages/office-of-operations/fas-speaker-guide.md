@@ -37,7 +37,7 @@ This process has five major steps and can take up to 3-6 weeks to complete. Here
 
 Once you submit a request, you will receive an automated email confirmation. That email will also ping TTS leadership to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from
 
-- TTS (your manager, Outreach Director, and Assistance Commissioner(?)),
+- TTS (your manager, Outreach Director, and Assistance Commissioner),
 - Federal Acquisition Services (FAS), and
 - Office of Strategic Communications (OSC)
 
