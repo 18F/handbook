@@ -1,16 +1,3 @@
----
-title: External Speaking Request Playbook
-tag:
-  - attend
-  - attending
-  - speaking
-  - speaker
-  - events
-  - event
-  - conference
-  - conferences
-  - guide
-
 **If this is a press request (newspaper, TV station, radio station, podcast, or blog) forward the request to [press@gsa.gov](press@gsa.gov) and do not respond directly. OSC will handle responding, coordinating, and gaining the necessary approvals.** 
 
 We want you to share your expertise and represent TTS/GSA, and we want the approval process to be as seamless, transparent, and speedy as possible. We understand this process is complex. If you have questions or want additional information, please reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](tts-events@gsa.gov). We also have a help [slide](https://docs.google.com/presentation/d/1k8DazgKibsgN5e3kyfghGeAEAqDET251-sV71UrkGNk/edit?usp=sharing) and [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUtoczVQMkFlT2FSfGRlZmF1bHR8OTE5Y2UyMDBjYzlhMWY4NjkxNThkMmI5ZGI4ZWMzMmM).
@@ -21,10 +8,13 @@ This playbook contains the most recently updated speaking guidelines. It’s the
 This process has four major steps and can take up to 3-6 weeks to complete. Here is a breakdown of the 4 major steps. 
 
 <details>
-<Summary> **Step 1: Join the TTS Speaker’s Bureau** </summary>
+<Summary>Step 1: Join the TTS Speaker’s Bureau</summary>
 If you want to represent TTS at an external event in your official capacity, you will need to be part of the TTS Speaker’s Bureau. In order to join the TTS Speaker’s Bureau you will need to 
-- Create a headshot and bio in the [GSA template](https://docs.google.com/document/d/1QLbn7nwH_kUS3PRVGQcHbu5MPEwdtf_NTAd6WuBoJFQ/edit)([examples of bios](https://docs.google.com/spreadsheets/d/1QUeodBn_hkCiUfxb8xIsMXxoyxXAorpK3B6ujLQ45ZQ/edit#gid=0)
-- Complete the Join the [TTS Speaker’s Bureau form](https://app.smartsheetgov.com/b/form/ad363ff473f347cdabdde6dbf6b0b973). </details>
+<ul>
+<li>Create a headshot and bio in the [GSA template](https://docs.google.com/document/d/1QLbn7nwH_kUS3PRVGQcHbu5MPEwdtf_NTAd6WuBoJFQ/edit)([examples of bios](https://docs.google.com/spreadsheets/d/1QUeodBn_hkCiUfxb8xIsMXxoyxXAorpK3B6ujLQ45ZQ/edit#gid=0)</li>
+<li>Complete the Join the [TTS Speaker’s Bureau form](https://app.smartsheetgov.com/b/form/ad363ff473f347cdabdde6dbf6b0b973).</li>
+</ul>
+</details>
  
 <details>
 <Summary> **Step 2: Decide if you should be speaking**</summary>
