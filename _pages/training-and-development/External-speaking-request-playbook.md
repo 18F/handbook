@@ -10,7 +10,8 @@ tag:
   - event
   - conference
   - conferences
-  - guide---
+  - guide
+---
  
 **If this is a press request (newspaper, TV station, radio station, podcast, or blog) forward the request to [press@gsa.gov](press@gsa.gov) and do not respond directly. OSC will handle responding, coordinating, and gaining the necessary approvals.**
 
