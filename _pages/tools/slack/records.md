@@ -32,3 +32,9 @@ There is not an easy way to export the contents of a single channel, for partner
 1. Repeat
 
 These, of course, will be images, so they unfortunately won't be searchable.
+
+If you'd like the text to be searchable
+1. Open up Google Keep
+1. Insert the image
+1. Click on the 3 stacked dots
+1. Select "Grab Image text"
