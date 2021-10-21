@@ -12,7 +12,7 @@ tag:
   - conferences
   - guide
 ---
- 
+
 **If this is a press request (newspaper, TV station, radio station, podcast, or blog) forward the request to [press@gsa.gov](press@gsa.gov) and do not respond directly. OSC will handle responding, coordinating, and gaining the necessary approvals.**
 
 We want you to share your expertise and represent TTS/GSA, and we want the approval process to be as seamless, transparent, and speedy as possible. We understand this process is complex. If you have questions or want additional information, please reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](tts-events@gsa.gov). We also have a help [slide](https://docs.google.com/presentation/d/1k8DazgKibsgN5e3kyfghGeAEAqDET251-sV71UrkGNk/edit?usp=sharing) and [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUtoczVQMkFlT2FSfGRlZmF1bHR8OTE5Y2UyMDBjYzlhMWY4NjkxNThkMmI5ZGI4ZWMzMmM).
@@ -25,8 +25,8 @@ This process has four major steps and can take up to 3-6 weeks to complete. Here
 <details>
 <Summary>Step 1: Join the TTS Speaker’s Bureau</summary>
 
- 
-If you want to represent TTS at an external event in your official capacity, you will need to be part of the TTS Speaker’s Bureau. In order to join the TTS Speaker’s Bureau you will need to 
+If you want to represent TTS at an external event in your official capacity, you will need to be part of the TTS Speaker’s Bureau. In order to join the TTS Speaker’s Bureau you will need to
+
 <ul>
 <li> Create a headshot and bio in the [GSA template](https://docs.google.com/document/d/1QLbn7nwH_kUS3PRVGQcHbu5MPEwdtf_NTAd6WuBoJFQ/edit)
  [Examples of bios](https://docs.google.com/spreadsheets/d/1QUeodBn_hkCiUfxb8xIsMXxoyxXAorpK3B6ujLQ45ZQ/edit#gid=0)</li>
@@ -135,7 +135,7 @@ Things to Consider While Developing Your Presentation
 When receiving an invitation to speak, you need to decide if you want to do the event in your professional or personal capacity: The FAS Speaker Guide | Version 1.0
 
 | Professional capacity                                                                                            | Personal capacity guidelines:                                                                                                                                                                                                                                     |
-|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | You’ll participate as a TTS employee and discuss the work you do on behalf of GSA and our partners.              | There is a general prohibition on receiving compensation for personal capacity speaking on a subject that relates to your official duties. Free/waived attendance or registration fee is not compensation.                                                        |
 | You’ll be using GSA funds to travel to the event or pay for conference fees.                                     | You can accept travel and event-related expenses from the sponsor or organizer, but would also need to take leave to attend.                                                                                                                                      |
 | You’ll prepare during your work time and use GSA equipment                                                       | You can use title/position in conjunction with your speaking activities, but only if provided as one of a number of other biographical details. Bottom line is that it should be clear that you are not representing GSA when speaking in your personal capacity. |
@@ -145,12 +145,13 @@ When receiving an invitation to speak, you need to decide if you want to do the 
 | You’ll refrain from discussing any official work you do at TTS/GSA or with our partners.                         |                                                                                                                                                                                                                                                                   |
 | You’ll use your personal leave or participate after work hours.                                                  |                                                                                                                                                                                                                                                                   |
 | You’ll prepare on your own time and use your own equipment                                                       |                                                                                                                                                                                                                                                                   |
+
 **GSA’s Logo**
 GSA's Logo Policy does not authorize vendors of any kind to use the GSA Star Mark logo. The GSA Advantage, GSA Contract, and GSA Schedule logos are the only logos approved for use by GSA contractors. When in doubt, ask the Outreach team!
 
 **Recording and sharing materials**
 In general, all material that GSA presents is in the public domain, and government employees can be photographed or recorded doing official activities on official time without permission. As long as the event coordinator is not trying to: retain the rights to the content, put the recording behind a paywall that is not accessible to the public, or use the recording for monetary gain, then you can give them permission to record and post.
- 
+
 **Release Form**
 GSA speakers are not permitted to sign speaker consent release forms that have not been reviewed/approved by OGC. You must use the GSA approved response letter and have it reviewed by OGC.
 
@@ -160,7 +161,8 @@ Permission for GSA visual information producers to document GSA presenters at ev
 Find much more information in GSA’s visual information policy.
 
 **Endorsements and Promotions**
-GSA is responsible for providing neutral and unbiased advice. It is essential that we remain fair and unbiased in all that we do and say. As such, we avoid endorsing, or demonstrating favoritism, to any single one of the following:  
+GSA is responsible for providing neutral and unbiased advice. It is essential that we remain fair and unbiased in all that we do and say. As such, we avoid endorsing, or demonstrating favoritism, to any single one of the following:
+
 <ul>
 <li> Vendors</li>
 <li> Brand-name products</li>
@@ -183,6 +185,7 @@ Therefore:
 **Event Promotion**
 In general, it is okay to pre-plan or post live to social media while you are at an event. From an official GSA account, tweets or retweets from a group highlighting a GSA principal’s appearance on a program (TV, radio, podcast, webinar, etc.) or at an event are fine.
 Be careful to limit your tweet or retweet to only sharing facts rather than encouraging people or GSA employees to attend a conference. For example:
+
 <ul>
 <li> Don't: @USGSA's Sally Smith is speaking at this event - make sure to sign up and go!</li>
 <li> Do: @USGSA's Sally Smith is speaking about GSA priorities @GovMediaAtoZ.</li>
@@ -196,6 +199,7 @@ Also, avoid making any personalized statements as they would be considered an en
  Find much more information at GSA’s social media center.
 
 **Waived Conference, Travel, and Food Fees**
+
 <ul>
 <li> Conference Fees: Under the speaking and similar engagements exclusion to the gift rules, when an employee is assigned to participate as a speaker on behalf of the agency, the employee's acceptance of an offer of free attendance at the event on the day of the employee's presentation is permissible when provided by the sponsor of the event. The employee's participation in the event on that day is viewed as a customary and necessary part of the employee's assignment and does not involve a gift to the employee or to the agency. See 5 C.F.R. 2635.203(b)(8).</li>
 <li> The waived registration fee is only for the day you speak. If you plan on attending additional days of the conference, GSA needs to pay the difference between the full and waived registration fees, or determine if the additional waived amount, if provided as a gift, is acceptable under the widely attended gathering determination exception to the gift rules.</li>
