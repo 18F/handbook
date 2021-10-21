@@ -12,7 +12,6 @@ Slack is a chat client that provides us with a centralized way to communicate wi
 
 See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.ho6etfp5g3pp) guide to learn about our unique uses, bots and channels.
 
-
 ## Frequently-used emoji
 
 | Emoji                    | Meaning                                                                                                                                                   | Backstory                                                                                                                                                                 |
