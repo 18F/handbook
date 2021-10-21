@@ -9,9 +9,8 @@ This process has four major steps and can take up to 3-6 weeks to complete. Here
 
 <details>
 <Summary>Step 1: Join the TTS Speaker’s Bureau</summary>
----
-***
-___
+
+ 
 If you want to represent TTS at an external event in your official capacity, you will need to be part of the TTS Speaker’s Bureau. In order to join the TTS Speaker’s Bureau you will need to 
 <ul>
 <li>Create a headshot and bio in the [GSA template](https://docs.google.com/document/d/1QLbn7nwH_kUS3PRVGQcHbu5MPEwdtf_NTAd6WuBoJFQ/edit)([examples of bios](https://docs.google.com/spreadsheets/d/1QUeodBn_hkCiUfxb8xIsMXxoyxXAorpK3B6ujLQ45ZQ/edit#gid=0)</li>
