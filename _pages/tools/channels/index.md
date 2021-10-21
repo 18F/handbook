@@ -1,10 +1,11 @@
 ---
 title: Channels
 ---
-
 ## Channels
 
-- [\#tts-email-crosspost](https://gsa-tts.slack.com/messages/tts-email-crosspost/) - [TTS-wide announcements]({{site.baseurl}}/office-of-operations/outreach/#how-to-make-tts-wide-announcements)
+- [#tts-email-crosspost](https://gsa-tts.slack.com/messages/tts-email-crosspost/) - TTS-wide announcements from e-mails
+- [#news](https://gsa-tts.slack.com/messages/news/) - [Updates from Outreach]({{site.baseurl}}/office-of-operations/outreach/#how-to-make-tts-wide-announcements)
+
 - Teams
 
   - 18F - [\#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
