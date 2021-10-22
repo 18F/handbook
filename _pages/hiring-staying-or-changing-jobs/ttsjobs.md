@@ -43,7 +43,7 @@ We will share open positions as they are available.
 
 - [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
 - [GSA WIDE: Forms.gov Technical Lead Detail](https://docs.google.com/document/d/1YQHLH8B0MUFrZMbETau-_gSMHjzPi8uGhbykIVnCJ5U/edit#heading=h.ug9ig2kgf0mm) - open Thursday, October 7th until Thursday, October 28th
-- [GSA WIDE: Max.gov Engagement Lead Detail](https://docs.google.com/document/d/1XJ5ZvWndqRrw5ue-RDyaF0MaLlZI7zWBWsHyKV9YROo/edit?usp=sharing) - open Friday, October 22nd until Friday, Nov 5th)
+- [GSA WIDE: Max.gov Engagement Lead Detail](https://docs.google.com/document/d/1XJ5ZvWndqRrw5ue-RDyaF0MaLlZI7zWBWsHyKV9YROo/edit?usp=sharing) - open Friday, October 22nd until Friday, Nov 5th
 
 ### Open to all federal employees
 
