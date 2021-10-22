@@ -39,69 +39,79 @@ If you want to represent TTS at an external event in your official capacity, you
 
 If you have been formally invited to participate in a speaking engagement, you need to think through the following questions.
 
-- Will you be speaking in your personal capacity? For additional information on representing GSA in a processional capacity versus a processional capacity please see professional vs personal capacity in the additional information section.
-- Do you have time?
-- Does the event fit fully within your realm of expertise? Is there someone else at TTS that may be a better fit for this speaking opportunity?
-- Have you reviewed the Event Justification Examples?
-- Does the event reflect TTS and your team’s larger mission?
-- Are you clear how speaking on this topic to this audience in this forum advances TTS and your team?
-
+<ul>
+<li>Will you be speaking in your personal capacity? For additional information on representing GSA in a processional capacity versus a processional capacity please see professional vs personal capacity in the additional information section.</li>
+<li>Do you have time?</li>
+<li>Does the event fit fully within your realm of expertise? Is there someone else at TTS that may be a better fit for this speaking opportunity?</li>
+<li>Have you reviewed the Event Justification Examples?</li>
+<li>Does the event reflect TTS and your team’s larger mission?</li>
+<li>Are you clear how speaking on this topic to this audience in this forum advances TTS and your team?</li>
+</ul>
 Critical questions that you need to address before submitting a speaker event request.
 
-- Are you submitting a proposal for an event or conference?
-- Is a colleague better suited to speaking on this topic?
-- Are there any sensitivities that may preclude you from speaking publicly?
-- Is this event not inclusive or representative of our TTS diversity?
-- Is this event scheduled for less than 15 days from now?
-- If you answer yes to any of these questions, stop here and contact your direct supervisor or TTS Outreach.</details>
+<ul>
+<li>Are you submitting a proposal for an event or conference?</li>
+<li>Is a colleague better suited to speaking on this topic?</li>
+<li>Are there any sensitivities that may preclude you from speaking publicly?</li>
+<li>Is this event not inclusive or representative of our TTS diversity?</li>
+<li>Is this event scheduled for less than 15 days from now?</li>
+<li>If you answer yes to any of these questions, stop here and contact your direct supervisor or TTS Outreach.</li>
+</ul>
+</details>
 
 <details>
 <Summary>Step 3: Gather information and submit your request</summary>
-
-- Request that your external event point of contact complete the [TTS Speaker Request Form](https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf) to ensure you have all of the critical information for the approval process and return to you, ccing[speakers@gsa.gov](speakers@gsa.gov)
-
+<br>
+Request that your external event point of contact complete the [TTS Speaker Request Form](https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf) to ensure you have all of the critical information for the approval process and return to you, ccing[speakers@gsa.gov](speakers@gsa.gov)
+<br>
 <strong>Gather Information</strong>
-
-- Prepare your talking points. _Talking points are required for you to get approval to represent your GSA at a speaking engagement._
-  - Use the [TTS-wide Talking Points Template](https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit) to create talking points.
-  - Have a brief intro prepared for your engagement, along with a few lines about your role at GSA. For guidance, see the above Talking Points Template.
-  - Once you’ve drafted your talking points, submit them to your direct supervisor. And if you will be speaking about a specific engagement, submit your drafted talking points to the engagement lead.
-  - Review the TTS Internal/External Virtual Events Guidance and know how to answer Project Specific/TTS/GSA-specific questions, including those outside your direct area of expertise or the topic at hand.
-  - Gather feedback from your peers prior submitting your Talking Points.
-- Complete and submit the [TTS Events’ Speaking, Conferences and Training Google form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) to TTS Events.
-  **To fill out this form, you will need:**
+<br>
+1. Prepare your talking points. _Talking points are required for you to get approval to represent your GSA at a speaking engagement._
+  <ul>
+    <li>Use the [TTS-wide Talking Points Template](https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit) to create talking points.    </li>
+    <li>Have a brief intro prepared for your engagement, along with a few lines about your role at GSA. For guidance, see the above Talking Points Template.</li
+    <li>Once you’ve drafted your talking points, submit them to your direct supervisor. And if you will be speaking about a specific engagement, submit your drafted talking points to the engagement lead.</li>
+     <li>Review the TTS Internal/External Virtual Events Guidance and know how to answer Project Specific/TTS/GSA-specific questions, including those outside your direct area of expertise or the topic at hand.</li>
+     <li>Gather feedback from your peers prior submitting your Talking Points.</li> </ul>
+2. Complete and submit the [TTS Events’ Speaking, Conferences and Training Google form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) to TTS Events.
+ <strong>To fill out this form, you will need:</strong.
 - [ ] A description of the audience
 - [ ] A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA]
 - [ ] To know if the press is invited
 - [ ] To know if your event/panel will be pre-recorded
 - [ ] To explain why your participation is beneficial
 - [ ] Complete Talking Points
-
+<br>
 <strong>Submit Your Speaker Request</strong>
 Once you submit a request, you will receive an automated email confirmation. That email will also ping your supervisor to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from
 
-- TTS (your manager, Outreach Director, and Head of Service/Staff Office (HSSO)
-- Federal Acquisition Services (FAS), and
-- Office of Strategic Communications (OSC)
-
-Approval Timeline
+<ul>
+<li>TTS (your manager, Outreach Director, and Head of Service/Staff Office (HSSO)</li>
+<li>Federal Acquisition Services (FAS), and</li>
+<li>Office of Strategic Communications (OSC)</li>
+</ul>
+  <strong>Approval Timeline</strong>
 Most approvals will take 2-3 weeks to complete. Requests submitted with less than a week lead time are not likely to be approved--please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.  
-Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS Outreach know if you run into an issue.
-You should not promote your participation until final approval has been given by GSA.
-
+<ul>
+<li>Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS Outreach know if you run into an issue.</li>
+<li>You should not promote your participation until final approval has been given by GSA.</li>
+</ul>
 You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](tts-events@gsa.gov).</details>
 
 <details>
 <Summary>Step 4: Prepare for your talk</summary>
 As your speaking engagement is moving through the approval process, take some time to consider the following topics.
-- Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS know if you run into an issue.
-- You should not promote your participation until final approval has been given by GSA.
-- If your talking points change at any point in the process, you are responsible for notifying the TTS Outreach Director.
-
+<ul>
+<li>Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS know if you run into an issue.</li>
+<li>You should not promote your participation until final approval has been given by GSA.</li>
+<li>If your talking points change at any point in the process, you are responsible for notifying the TTS Outreach Director.</li>
+</ul>
 Preparation:
 
-- Watch the [OSC recording on developing messages](https://drive.google.com/file/d/1bjtYRnoIVFUIhDlm7ujjGp_JkkOH_I9p/view).
-- If you are using slides, use this [TTS Slide Deck template](https://docs.google.com/presentation/d/1_R4EuC9Eiec0DQhSP5PDe5rdMeIijrTt0nhp8jghWaE/edit#slide=id.p) for your presentation or your Business Unit’s specific template.
+<ul>
+<li>Watch the [OSC recording on developing messages](https://drive.google.com/file/d/1bjtYRnoIVFUIhDlm7ujjGp_JkkOH_I9p/view).</li>
+<li>If you are using slides, use this [TTS Slide Deck template] </li>(https://docs.google.com/presentation/d/1_R4EuC9Eiec0DQhSP5PDe5rdMeIijrTt0nhp8jghWaE/edit#slide=id.p)for your presentation or your Business Unit’s specific template.
+  </ul>
   - [TTS Template](https://docs.google.com/presentation/d/1_R4EuC9Eiec0DQhSP5PDe5rdMeIijrTt0nhp8jghWaE/edit#slide=id.p
   - [18F Template](https://docs.google.com/presentation/u/0/?ftv=1&folder=1lSgEu1_-pUOT1E98mH3L5EKfu4FFsaqB&tgif=d)
   - [Centers of Excellence Template](https://docs.google.com/presentation/d/1BOEDWJoKbLJCL5Y7nDq5ts8aAAV-FOVk7TH-hXAEBwY/edit?usp=sharing_eil_dm&ts=61421833)
@@ -117,16 +127,18 @@ Preparation:
 
 Things to Consider While Developing Your Presentation
 
-- Is your presentation engaging?
-- Are you simply reading bullets or language from the slide, or are you adding information that’s available only by listening to your presentation?
-- Can you ask questions of the audience, either verbally, or through polls?
-- Do you use different formats (images, flow charts, graphics, charts, bullets, etc) to keep attention?
-- Have you planned for the unexpected? Ensure your computer is fully charged
-- Determine if you can log in from your phone if an issue arises with your computer
-- Be prepared to dial in as opposed to using computer audio if needed
-- If you need notes, have a print out or have them pulled up on your phone so they’re easily accessible
-- Think about your outfit, certain colors and patterns can create a moire effect which can impact people's perception and ability to digest the video. If possible, avoid stripes or busy patterns and stick with solid colors.
-- Be conscious of lighting. For optimal lighting and video quality, presenters want to be lit from the front and not the back, so make sure your light (whether artificial or natural) is adjusted accordingly. A single light source is ideal.</details>
+<ul>
+<li>Is your presentation engaging?</li>
+<li>Are you simply reading bullets or language from the slide, or are you adding information that’s available only by listening to your presentation?</li>
+<li>Can you ask questions of the audience, either verbally, or through polls?</li>
+<li>Do you use different formats (images, flow charts, graphics, charts, bullets, etc) to keep attention?</li>
+<li>Have you planned for the unexpected? Ensure your computer is fully charged.</li>
+<li>Determine if you can log in from your phone if an issue arises with your computer.</li>
+<li>Be prepared to dial in as opposed to using computer audio if needed.</li>
+<li>If you need notes, have a print out or have them pulled up on your phone so they’re easily accessible.</li>
+<li>Think about your outfit, certain colors and patterns can create a moire effect which can impact people's perception and ability to digest the video. If possible, avoid stripes or busy patterns and stick with solid colors.</li>
+<li>Be conscious of lighting. For optimal lighting and video quality, presenters want to be lit from the front and not the back, so make sure your light (whether artificial or natural) is adjusted accordingly. A single light source is ideal.</li>
+  </ul></details>
 
 <details>
 <Summary>Additional Information</summary>
@@ -134,17 +146,60 @@ Things to Consider While Developing Your Presentation
 <strong>Professional vs personal capacity</strong>
 When receiving an invitation to speak, you need to decide if you want to do the event in your professional or personal capacity: The FAS Speaker Guide | Version 1.0
 
-| Professional capacity                                                                                            | Personal capacity guidelines:                                                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| You’ll participate as a TTS employee and discuss the work you do on behalf of GSA and our partners.              | There is a general prohibition on receiving compensation for personal capacity speaking on a subject that relates to your official duties. Free/waived attendance or registration fee is not compensation.                                                        |
-| You’ll be using GSA funds to travel to the event or pay for conference fees.                                     | You can accept travel and event-related expenses from the sponsor or organizer, but would also need to take leave to attend.                                                                                                                                      |
-| You’ll prepare during your work time and use GSA equipment                                                       | You can use title/position in conjunction with your speaking activities, but only if provided as one of a number of other biographical details. Bottom line is that it should be clear that you are not representing GSA when speaking in your personal capacity. |
-| Personal capacity                                                                                                | You can include your office/team in your bio that is included on the conference website, but you cannot be listed in the agenda as “Sally Smith, TTS/GSA.”                                                                                                        |
-| You didn’t receive the invitation because of your position at TTS, but because of your expertise in the subject. |                                                                                                                                                                                                                                                                   |
-| You won’t be representing TTS/GSA.                                                                               |                                                                                                                                                                                                                                                                   |
-| You’ll refrain from discussing any official work you do at TTS/GSA or with our partners.                         |                                                                                                                                                                                                                                                                   |
-| You’ll use your personal leave or participate after work hours.                                                  |                                                                                                                                                                                                                                                                   |
-| You’ll prepare on your own time and use your own equipment                                                       |                                                                                                                                                                                                                                                                   |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Professional capacity<br></th>
+    <th class="tg-0pky">Personal capacity guidelines:</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">You’ll participate as a TTS employee and discuss the work you do on behalf of GSA and our partners.<br></td>
+    <td class="tg-0pky">There is a general prohibition on receiving compensation for personal capacity speaking on a subject that relates to your official duties. Free/waived attendance or registration fee is not compensation.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">You’ll be using GSA funds to travel to the event or pay for conference fees.</td>
+    <td class="tg-0pky">You can accept travel and event-related expenses from the sponsor or organizer, but would also need to take leave to attend.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">You’ll prepare during your work time and use GSA equipment</td>
+    <td class="tg-0pky">You can use title/position in conjunction with your speaking activities, but only if provided as one of a number of other biographical details. Bottom line is that it should be clear that you are not representing GSA when speaking in your personal capacity.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Personal capacity</td>
+    <td class="tg-0pky">You can include your office/team in your bio that is included on the conference website, but you cannot be listed in the agenda as “Sally Smith, TTS/GSA.”</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">You didn’t receive the invitation because of your position at TTS, but because of your expertise in the subject.</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">You won’t be representing TTS/GSA.</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">You’ll refrain from discussing any official work you do at TTS/GSA or with our partners.</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">You’ll use your personal leave or participate after work hours.</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">You’ll prepare on your own time and use your own equipment</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 
 <strong>GSA’s Logo</strong>
 GSA's Logo Policy does not authorize vendors of any kind to use the GSA Star Mark logo. The GSA Advantage, GSA Contract, and GSA Schedule logos are the only logos approved for use by GSA contractors. When in doubt, ask the Outreach team!
