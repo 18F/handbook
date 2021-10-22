@@ -142,15 +142,21 @@ redirect_from:
 
 - **PMO** - Project (or Program) Management Office, a temporary office to focus on a special funding project.
 
+- **PR** - Pull Request. When a software developer makes a change to some code, they then create a PR to request that their code be accepted into the project's repo.
+
 - **PRA** - The Paperwork Reduction Act, enacted in 1980, aims to reduce the burden of federally imposed paperwork for U.S. businessess and the public.
 
 - **Product Manager** - Product managers ensure that the right product is built at the right time and for the right people. They establish a product vision and help their teams translate that vision into reality by creating and maintaining product roadmaps, deeply understanding users, technology, and business context, and prioritizing design and development tasks accordingly.
 
 - **Repo** - Repository. A place to store code or data in a central location (such as GitHub).
 
+- **RfQ** - Request for Quotation. Soliciting bids from vendors, then assessing those vendors and bids.
+
 - **SaaS** - Software as a Service. Individuals or agencies subscribe to an application, and then access it over the internet. Most online applications, such as Salesforce and Google Drive, fall into this category. Need to purchase a SaaS product? [Here's how to get software]({{site.baseurl}}/software/).
 
 - **Scrum master** - The facilitator for an agile development team.
+
+- **Ship** - To produce and distribute code or some other product of work. Also, the *Weekly Ship* newsletter about a particular project, telling what the that team shipped that week.
 
 - **SME** - Subject Matter Expert. Specialist with expertise in a particular discipline or subject matter.
 
