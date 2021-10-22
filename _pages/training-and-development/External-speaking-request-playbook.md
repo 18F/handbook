@@ -28,9 +28,9 @@ This process has four major steps and can take up to 3-6 weeks to complete. Here
 If you want to represent TTS at an external event in your official capacity, you will need to be part of the TTS Speaker’s Bureau. In order to join the TTS Speaker’s Bureau you will need to
 
 <ul>
-<li> Create a headshot and bio in the [GSA template](https://docs.google.com/document/d/1QLbn7nwH_kUS3PRVGQcHbu5MPEwdtf_NTAd6WuBoJFQ/edit)
- [Examples of bios](https://docs.google.com/spreadsheets/d/1QUeodBn_hkCiUfxb8xIsMXxoyxXAorpK3B6ujLQ45ZQ/edit#gid=0)</li>
-<li> Complete the Join the [TTS Speaker’s Bureau form](https://app.smartsheetgov.com/b/form/ad363ff473f347cdabdde6dbf6b0b973)</li>
+<li> Create a headshot and bio in the <a href="https://docs.google.com/document/d/1QLbn7nwH_kUS3PRVGQcHbu5MPEwdtf_NTAd6WuBoJFQ/edit">GSA template</a>. <a href="https://docs.google.com/spreadsheets/d/1QUeodBn_hkCiUfxb8xIsMXxoyxXAorpK3B6ujLQ45ZQ/edit#gid=0">Examples of bios</a>
+</li>
+<li> Complete the Join the <a href="https://app.smartsheetgov.com/b/form/ad363ff473f347cdabdde6dbf6b0b973">TTS Speaker’s Bureau form</a></li>
 </ul>
 </details>
  
@@ -60,7 +60,7 @@ Critical questions that you need to address before submitting a speaker event re
 
 - Request that your external event point of contact complete the [TTS Speaker Request Form](https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf) to ensure you have all of the critical information for the approval process and return to you, ccing[speakers@gsa.gov](speakers@gsa.gov)
 
-**Gather Information**
+<strong>Gather Information</strong> 
 
 - Prepare your talking points. _Talking points are required for you to get approval to represent your GSA at a speaking engagement._
   - Use the [TTS-wide Talking Points Template](https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit) to create talking points.
@@ -77,7 +77,7 @@ Critical questions that you need to address before submitting a speaker event re
 - [ ] To explain why your participation is beneficial
 - [ ] Complete Talking Points
 
-**Submit Your Speaker Request**
+<strong>Submit Your Speaker Request</strong>
 Once you submit a request, you will receive an automated email confirmation. That email will also ping your supervisor to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from
 
 - TTS (your manager, Outreach Director, and Head of Service/Staff Office (HSSO)
@@ -131,7 +131,7 @@ Things to Consider While Developing Your Presentation
 <details>
 <Summary>Additional Information</summary>
 
-**Professional vs personal capacity**
+<strong>Professional vs personal capacity</strong>
 When receiving an invitation to speak, you need to decide if you want to do the event in your professional or personal capacity: The FAS Speaker Guide | Version 1.0
 
 | Professional capacity                                                                                            | Personal capacity guidelines:                                                                                                                                                                                                                                     |
@@ -146,21 +146,21 @@ When receiving an invitation to speak, you need to decide if you want to do the 
 | You’ll use your personal leave or participate after work hours.                                                  |                                                                                                                                                                                                                                                                   |
 | You’ll prepare on your own time and use your own equipment                                                       |                                                                                                                                                                                                                                                                   |
 
-**GSA’s Logo**
+<strong>GSA’s Logo</strong>
 GSA's Logo Policy does not authorize vendors of any kind to use the GSA Star Mark logo. The GSA Advantage, GSA Contract, and GSA Schedule logos are the only logos approved for use by GSA contractors. When in doubt, ask the Outreach team!
 
-**Recording and sharing materials**
+<strong>Recording and sharing materials</strong>
 In general, all material that GSA presents is in the public domain, and government employees can be photographed or recorded doing official activities on official time without permission. As long as the event coordinator is not trying to: retain the rights to the content, put the recording behind a paywall that is not accessible to the public, or use the recording for monetary gain, then you can give them permission to record and post.
 
-**Release Form**
+<strong>Release Forms</strong>
 GSA speakers are not permitted to sign speaker consent release forms that have not been reviewed/approved by OGC. You must use the GSA approved response letter and have it reviewed by OGC.
 
-**Photography and Recording**
+<strong>Photography and Recording</strong>
 Yes, federal employees are allowed to be photographed or recorded (audio/video) while performing their official duties. Approved attendance or speaking at a conference is considered an official duty. Release forms are not required for federal employees who are documented while performing their official duties.
 Permission for GSA visual information producers to document GSA presenters at events not hosted by GSA must be granted by event organizers prior to any still, video, or audio recording.
 Find much more information in GSA’s visual information policy.
 
-**Endorsements and Promotions**
+<strong>Endorsements and Promotions</strong>
 GSA is responsible for providing neutral and unbiased advice. It is essential that we remain fair and unbiased in all that we do and say. As such, we avoid endorsing, or demonstrating favoritism, to any single one of the following:
 
 <ul>
