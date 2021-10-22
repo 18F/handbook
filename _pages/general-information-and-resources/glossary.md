@@ -156,7 +156,7 @@ redirect_from:
 
 - **Scrum master** - The facilitator for an agile development team.
 
-- **Ship** - To produce and distribute code or some other product of work. Also, the *Weekly Ship* newsletter about a particular project, telling what the that team shipped that week.
+- **Ship** - To produce and distribute code or some other product of work. Also, the _Weekly Ship_ newsletter about a particular project, telling what the that team shipped that week.
 
 - **SME** - Subject Matter Expert. Specialist with expertise in a particular discipline or subject matter.
 
