@@ -62,11 +62,9 @@ Critical questions that you need to address before submitting a speaker event re
 <details>
 <Summary> Step 3: Gather information and submit your request</summary>
 Request that your external event point of contact complete the <a href="https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf">TTS Speaker Request Form</a> to ensure you have all of the critical information for the approval process and return to you, ccing <a href="speakers@gsa.gov">speakers@gsa.gov</a>.
-<p><strong>Gather Information</strong></p>
+<br><strong>Gather Information</strong>
 1. Prepare your talking points.<i>Talking points are required for you to get approval to represent your GSA at a speaking engagement.</i>
-<ul>
-  test
-  </details>
+</details>
 
 <p> 1. Prepare your talking points.<i>Talking points are required for you to get approval to represent your GSA at a speaking engagement.</i>
 <ul>
