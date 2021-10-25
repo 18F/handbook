@@ -62,16 +62,16 @@ Critical questions that you need to address before submitting a speaker event re
 Request that your external event point of contact complete the <a href="https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf">TTS Speaker Request Form</a> to ensure you have all of the critical information for the approval process and return to you, ccing <a href="speakers@gsa.gov">speakers@gsa.gov</a>.
 <br>
 <strong>Gather Information</strong>
-1. Prepare your talking points.<i>Talking points are required for you to get approval to represent your GSA at a speaking engagement.</i>
-  <ul>
-  <li>Use the <a href="https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit">TTS-wide Talking Points Template</a> to create talking points.</li>
-  <li>Have a brief intro prepared for your engagement, along with a few lines about your role at GSA. For guidance, see the above Talking Points Template.</li
-  <li>Once you’ve drafted your talking points, submit them to your direct supervisor. And if you will be speaking about a specific engagement, submit your drafted talking points to the engagement lead.</li>
-  <li>Review the TTS Internal/External Virtual Events Guidance and know how to answer Project Specific/TTS/GSA-specific questions, including those outside your direct area of expertise or the topic at hand.</li>
-  <li>Gather feedback from your peers prior submitting your Talking Points.</li> 
-  </ul>
-2. Complete and submit the<a href="https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform">TTS Events’ Speaking, Conferences and Training Google form</a> to TTS Events.
-<strong>To fill out this form, you will need:</strong>
+  1. Prepare your talking points.<i>Talking points are required for you to get approval to represent your GSA at a speaking engagement.</i>
+<ul>
+<li>Use the <a href="https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit">TTS-wide Talking Points Template</a> to create talking points.</li>
+<li>Have a brief intro prepared for your engagement, along with a few lines about your role at GSA. For guidance, see the above Talking Points Template.</li
+<li>Once you’ve drafted your talking points, submit them to your direct supervisor. And if you will be speaking about a specific engagement, submit your drafted talking points to the engagement lead.</li>
+<li>Review the TTS Internal/External Virtual Events Guidance and know how to answer Project Specific/TTS/GSA-specific questions, including those outside your direct area of expertise or the topic at hand.</li>
+<li>Gather feedback from your peers prior submitting your Talking Points.</li></ul>
+<br>
+  2. Complete and submit the<a href="https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform">TTS Events’ Speaking, Conferences, and Training Google Form</a> to TTS Events.
+  <strong>To fill out this form, you will need:</strong>
  <ul>
   <li>A description of the audience</li>
   <li>A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA</li>
@@ -80,7 +80,8 @@ Request that your external event point of contact complete the <a href="https://
   <li>To explain why your participation is beneficial</li>
   <li>Complete Talking Point</li>
  </ul>
-Once you submit a request, you will receive an automated email confirmation.That email will also ping your supervisor to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from
+  <br>
+  Once you submit a request, you will receive an automated email confirmation.That email will also ping your supervisor to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from
   <ul>
   <li>TTS (your manager, Outreach Director, and Head of Service/Staff Office (HSSO)</li>
   <li>Federal Acquisition Services (FAS), and</li>
@@ -88,11 +89,10 @@ Once you submit a request, you will receive an automated email confirmation.That
   </ul>
 <br>
 <strong>Approval Timeline</strong>
-Most approvals will take 2-3 weeks to complete. Requests submitted with less than a week lead time are not likely to be approved--please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.
-
+  Most approvals will take 2-3 weeks to complete. Requests submitted with less than a week lead time are not likely to be approved--please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.
 <ul>
 <li>Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS Outreach know if you run into an issue.</li>
 <li>You should not promote your participation until final approval has been given by GSA.</li>
 </ul>
-You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](tts-events@gsa.gov).
+You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at <a href="tts-events@gsa.gov">Ttts-events@gsa.gov</a>.
 </details>
