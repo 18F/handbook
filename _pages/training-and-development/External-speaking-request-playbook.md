@@ -74,6 +74,7 @@ Request that your external event point of contact complete the <a href="https://
 2. Complete and submit the<a href="https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform">TTS Events’ Speaking, Conferences and Training Google form</a> to TTS Events.
 
 <strong>To fill out this form, you will need:</strong>
+
  <ul>
   <li>A description of the audience</li>
   <li>A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA</li>
@@ -90,10 +91,10 @@ Once you submit a request, you will receive an automated email confirmation.That
 </details>
 
 <strong>Approval Timeline</strong>
-Most approvals will take 2-3 weeks to complete. Requests submitted with less than a week lead time are not likely to be approved--please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.  
+Most approvals will take 2-3 weeks to complete. Requests submitted with less than a week lead time are not likely to be approved--please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.
+
 <ul>
 <li>Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS Outreach know if you run into an issue.</li>
 <li>You should not promote your participation until final approval has been given by GSA.</li>
 </ul>
 You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](tts-events@gsa.gov).
-
