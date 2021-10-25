@@ -68,8 +68,6 @@ Request that your external event point of contact complete the <a href="https://
   test
   </details>
 
-
-
 <p> 1. Prepare your talking points.<i>Talking points are required for you to get approval to represent your GSA at a speaking engagement.</i>
 <ul>
 <li>Use the <a href="https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit">TTS-wide Talking Points Template</a> to create talking points.</li>
