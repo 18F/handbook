@@ -96,6 +96,7 @@ Once you submit a request, you will receive an automated email confirmation.That
 <li>You should not promote your participation until final approval has been given by GSA.</li>
 </ul>
 You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at <a href="tts-events@gsa.gov">Ttts-events@gsa.gov</a>.</p>
+</details>
 <details>
 <summary>Step 4: Prepare for your talk</summary>
 As your speaking engagement is moving through the approval process, take some time to consider the following topics.
