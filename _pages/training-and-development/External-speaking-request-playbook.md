@@ -58,6 +58,7 @@ Critical questions that you need to address before submitting a speaker event re
 <li>If you answer yes to any of these questions, stop here and contact your direct supervisor or TTS Outreach.</li>
 </ul>
 </details>
+
 <details>
 <summary>Step 3: Gather information and submit your request</summary>
 <br>
@@ -97,6 +98,7 @@ Most approvals will take 2-3 weeks to complete. Requests submitted with less tha
 </ul>
 You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](tts-events@gsa.gov).
 </details>
+
 <details>
 <Summary>Step 4: Prepare for your talk</summary>
 As your speaking engagement is moving through the approval process, take some time to consider the following topics.
@@ -140,6 +142,7 @@ Things to Consider While Developing Your Presentation
 <li>Be conscious of lighting. For optimal lighting and video quality, presenters want to be lit from the front and not the back, so make sure your light (whether artificial or natural) is adjusted accordingly. A single light source is ideal.</li>
 </ul>
 </details>
+
 <details>
 <Summary>Additional Information</summary>
 <strong>Professional vs personal capacity</strong>
