@@ -58,8 +58,7 @@ Critical questions that you need to address before submitting a speaker event re
 <li>If you answer yes to any of these questions, stop here and contact your direct supervisor or TTS Outreach.</li>
 </ul>
 </details>
-</detials>
-<summary>Step 3: Gather information and submit your request</summary>
+<details><summary>Step 3: Gather information and submit your request</summary>
 Request that your external event point of contact complete the <a href="https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf">TTS Speaker Request Form</a> to ensure you have all of the critical information for the approval process and return to you, ccing <a href="speakers@gsa.gov">speakers@gsa.gov</a>.
 <br>
 <strong>Gather Information</strong>
@@ -72,9 +71,7 @@ Request that your external event point of contact complete the <a href="https://
   <li>Gather feedback from your peers prior submitting your Talking Points.</li> 
   </ul>
 2. Complete and submit the<a href="https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform">TTS Events’ Speaking, Conferences and Training Google form</a> to TTS Events.
-
 <strong>To fill out this form, you will need:</strong>
-
  <ul>
   <li>A description of the audience</li>
   <li>A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA</li>
@@ -82,14 +79,14 @@ Request that your external event point of contact complete the <a href="https://
   <li>To know if your event/panel will be pre-recorded</li>
   <li>To explain why your participation is beneficial</li>
   <li>Complete Talking Point</li>
+ </ul>
 Once you submit a request, you will receive an automated email confirmation.That email will also ping your supervisor to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from
   <ul>
   <li>TTS (your manager, Outreach Director, and Head of Service/Staff Office (HSSO)</li>
   <li>Federal Acquisition Services (FAS), and</li>
   <li>Office of Strategic Communications (OSC)</li>
   </ul>
-</details>
-
+<br>
 <strong>Approval Timeline</strong>
 Most approvals will take 2-3 weeks to complete. Requests submitted with less than a week lead time are not likely to be approved--please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.
 
@@ -98,3 +95,4 @@ Most approvals will take 2-3 weeks to complete. Requests submitted with less tha
 <li>You should not promote your participation until final approval has been given by GSA.</li>
 </ul>
 You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](tts-events@gsa.gov).
+</details>
