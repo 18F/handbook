@@ -59,40 +59,28 @@ Critical questions that you need to address before submitting a speaker event re
 </ul>
 </details>
 <details>
-<Summary>Step 3: Gather information and submit your request</summary>
+<summary>Step 3: Gather information and submit your request</summary>
 <br>
-Request that your external event point of contact complete the [TTS Speaker Request Form](https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf) to ensure you have all of the critical information for the approval process and return to you, ccing[speakers@gsa.gov](speakers@gsa.gov)
+Request that your external event point of contact complete the<a href="https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf">TTS Speaker Request Form</a> to ensure you have all of the critical information for the approval process and return to you, ccing<a href="speakers@gsa.gov">speakers@gsa.gov</a>.
 <br>
 <strong>Gather Information</strong>
 <br>
 1. Prepare your talking points. <i>Talking points are required for you to get approval to represent your GSA at a speaking engagement.</i>
 <ul>
-<li>Use the [TTS-wide Talking Points Template](https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit) to create talking points.</li>
+<li>Use the <a href="https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit">TTS-wide Talking Points Template</a> to create talking points.</li>
 <li>Have a brief intro prepared for your engagement, along with a few lines about your role at GSA. For guidance, see the above Talking Points Template.</li
 <li>Once you’ve drafted your talking points, submit them to your direct supervisor. And if you will be speaking about a specific engagement, submit your drafted talking points to the engagement lead.</li>
 <li>Review the TTS Internal/External Virtual Events Guidance and know how to answer Project Specific/TTS/GSA-specific questions, including those outside your direct area of expertise or the topic at hand.</li>
 <li>Gather feedback from your peers prior submitting your Talking Points.</li> 
 </ul>
-2. Complete and submit the [TTS Events’ Speaking, Conferences and Training Google form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) to TTS Events.
-  <strong>To fill out this form, you will need:</strong>
-<div>
-<input type="checkbox" name="A description of the audience" value="A description of the audience value" checked>
-</div>
-<div>
-<input type="checkbox" name="A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA]" value="A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA]" checked>
-</div>
-<div>
-<input type="checkbox" name="To know if the press is invited" value="To know if the press is invited" checked>
-</div>
-<div>
-<input type="checkbox" name="To know if your event/panel will be pre-recorded" value="To know if your event/panel will be pre-recorded" checked>
-</div>
-<div>
-<input type="checkbox" name="To explain why your participation is beneficial" value="To explain why your participation is beneficial" checked>
-</div>
-<div>
-<input type="checkbox" name="Complete Talking Points" value="Complete Talking Points" checked>
-</div>
+2. Complete and submit the<a href="https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform">TTS Events’ Speaking, Conferences and Training Google form</a> to TTS Events.
+<strong>To fill out this form, you will need:</strong>
+<input type="checkbox"name="A description of the audience" value="A description of the audience value"checked>
+<input type="checkbox"name="A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA]"value="A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA]"checked>
+<input type="checkbox"name="To know if the press is invited" value="To know if the press is invited"checked>
+<input type="checkbox"name="To know if your event/panel will be pre-recorded" value="To know if your event/panel will be pre-recorded"checked>
+<input type="checkbox" ame="To explain why your participation is beneficial" value="To explain why your participation is beneficial"checked>
+<input type="checkbox"name="Complete Talking Points" value="Complete Talking Points"checked>
 <br>
 <strong>Submit Your Speaker Request</strong>
 Once you submit a request, you will receive an automated email confirmation. That email will also ping your supervisor to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from
