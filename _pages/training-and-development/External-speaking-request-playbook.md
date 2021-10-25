@@ -69,8 +69,7 @@ Request that your external event point of contact complete the <a href="https://
 <li>Have a brief intro prepared for your engagement, along with a few lines about your role at GSA. For guidance, see the above Talking Points Template.</li
 <li>Once you’ve drafted your talking points, submit them to your direct supervisor. And if you will be speaking about a specific engagement, submit your drafted talking points to the engagement lead.</li>
 <li>Review the TTS Internal/External Virtual Events Guidance and know how to answer Project Specific/TTS/GSA-specific questions, including those outside your direct area of expertise or the topic at hand.</li>
-<li>Gather feedback from your peers prior submitting your Talking Points.</li></ul>
-</p>
+<li>Gather feedback from your peers prior submitting your Talking Points.</li>
 <p> <strong>Submit Your Request</strong> </p>
 2. Complete and submit the<a href="https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform">TTS Events’ Speaking, Conferences, and Training Google Form</a> to TTS Events.
 <strong>To fill out this form, you will need:</strong>
