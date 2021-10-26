@@ -14,6 +14,18 @@ See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-
 
 ## Frequently-used emoji
 
+Emojis can contain a lot of community-specific meaning, so please don't hesitate to ask someone what they meant by an emoji. Also, for clarity, we strongly encourage not replacing words with emoji. Instead, use emoji as accents in your messages. For example, instead of saying:
+
+> I saw the :rocket: and it was :amaze:
+
+say:
+
+> I saw the rocket launch :rocket: and it was amazing :amaze:
+
+That makes it easier for people to understand what you mean since we do not necessarily all have a shared understanding of the emoji.
+
+Here are some emoji that are commonly used across TTS as shorthand, often added as reactions to messages:
+
 | Emoji                    | Meaning                                                                                                                                                   | Backstory                                                                                                                                                                 |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `:100:`                  | "This comment is 100% correct" or "I agree 100%"                                                                                                          |                                                                                                                                                                           |
