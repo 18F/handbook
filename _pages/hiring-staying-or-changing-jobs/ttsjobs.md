@@ -41,9 +41,9 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-- [GSA WIDE: 18F Account Manager Detail](https://docs.google.com/document/d/1cKAzdQNoqwSwxQJrVCCAqjrgJBSAmbNmvNA5q46bC1s/edit) - open Friday, March 26th until filled
 - [GSA WIDE: Forms.gov Technical Lead Detail](https://docs.google.com/document/d/1YQHLH8B0MUFrZMbETau-_gSMHjzPi8uGhbykIVnCJ5U/edit#heading=h.ug9ig2kgf0mm) - open Thursday, October 7th until Thursday, October 28th
 - [GSA WIDE: Max.gov Engagement Lead Detail](https://docs.google.com/document/d/1XJ5ZvWndqRrw5ue-RDyaF0MaLlZI7zWBWsHyKV9YROo/edit?usp=sharing) - open Friday, October 22nd until Friday, Nov 5th
+- [GSA WIDE: American Rescue Plan (ARP) Project Coordinator Detail](https://docs.google.com/document/d/1NUXetv6Z_pmlS_5WKVP1-YPTaK0IfLod08bBPorZnIw/edit#) - open Wednesday, October 27th until Wed, November 10th
 
 ### Open to all federal employees
 
