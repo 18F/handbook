@@ -11,7 +11,7 @@ redirect_from:
   - /glossary/
 ---
 
-- **10X** - A way for federal employees across the government to pitch an idea that would solve a problem. The ideas are evaluated by TTS.
+- **[10X](https://10x.gsa.gov/)** - A way for federal employees across the government to pitch an idea that would solve a problem. The ideas are evaluated by TTS.
 
 - **[18F](https://18f.gsa.gov/)** - 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships. 18F is an office within TTS.
 
@@ -62,6 +62,8 @@ redirect_from:
 - **COOP** - Continuity of Operations Plan, a plan for emergency situations like natural disasters.
 
 - **CRM** - Customer Relationship Management software, which can help organizations track contacts and interactions with customers.
+
+- **CRM** - Customer Responsibility Matrix. A list of required security controls detailing who is responsible for each. It guidance on (for example) which controls a customer can [inherit from cloud.gov](https://cloud.gov/docs/overview/fedramp-tracker/#how-you-can-use-this-p-ato).
 
 - **CUI** - Controlled Unclassified Information.
 
