@@ -11,15 +11,25 @@ redirect_from:
   - /glossary/
 ---
 
+- **[10X](https://10x.gsa.gov/)** - A way for federal employees across the government to pitch an idea that would solve a problem. The ideas are evaluated by TTS.
+
 - **[18F](https://18f.gsa.gov/)** - 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. They also aim to strengthen government technology practices in ways that last beyond their formal partnerships. 18F is an office within TTS.
 
 - **2FA** - Two-factor authentication: entering a second, temporary code in addition to a username and password. 2FA provides added security when logging in to programs, like GitHub, remotely.
 
 - **508** - The federal regulation that requires government IT projects be accessible to people with disabilities.
 
+- **A-11** - A type of document published by the OMB that tells federal agencies how to make budget requests.
+
+- **a11y** - A [numeronym](https://en.wikipedia.org/wiki/Numeronym) that stands for "accessibility."
+
+- **ACQ** - Acquisitions. A discipline across the federal government responsible for purchases, and a chapter within 18f
+
 - **Agile** - A software development methodology based on collaboration, iteration, feedback, and constant improvement.
 
 - **API** - Application programming interface. Think of them as a way for computers to interact, either internally or between one another. If you wanted to make a website that shows the current temperature wherever you are, your code talks to one API to get your location, then another to find out the weather in that area.
+
+- **ASF** - Acquisition Services Fund. One source of TTS funding.
 
 - **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Learn more about ATOs in the [Before You Ship guide](https://before-you-ship.18f.gov/ato/).
 
@@ -35,6 +45,8 @@ redirect_from:
   - Gather all of the information for search to work
   - Trigger emails being sent
 
+- **CI/CD** - Continuous Integration/Continuous Deployment. Automated software testing (CI) practiced along with automated deployment of frequent, small changes to software (CD).
+
 - **Clients and Markets** - Clients and Markets is a division within TTS that provides consulting services to government agencies. The TTS communications team is also part of the division. The following offices and teams are part of Clients and Markets: 18F, Centers of Excellence, Client Development, Outreach, and Presidential Innovation Fellows.
 
 - **CMS** - Content Management System. Software for creating, managing, and publishing content.
@@ -47,13 +59,25 @@ redirect_from:
 
 * **Confidentiality** - means: secrets. Personal information (PII) — names, phone numbers, social security numbers, etc — is one kind of secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that confidential information may have been leaked outside TTS, you should open an incident.
 
-- **CRM** - Customer relationship management software, which can help organizations track contacts and interactions with customers.
+- **COOP** - Continuity of Operations Plan, a plan for emergency situations like natural disasters.
+
+- **CRM** - Customer Relationship Management software, which can help organizations track contacts and interactions with customers.
+
+- **CRM** - Customer Responsibility Matrix. A list of required security controls detailing who is responsible for each. It guidance on (for example) which controls a customer can [inherit from cloud.gov](https://cloud.gov/docs/overview/fedramp-tracker/#how-you-can-use-this-p-ato).
+
+- **CUI** - Controlled Unclassified Information.
+
+- **CX** - Customer Experience.
+
+- **DAP** - Digital Analytics Program. A GSA service that provides a web analytics tool and training on how to use it.
 
 - **Dev** - Someone who does software development. A "coder."
 
 - **[Digital Gov](https://digital.gov/)** - A platform to help those in agencies working on providing digital services and information for the public. Posts information on what government is doing in digital, general digital news, trends and issues on implementing digital for the public.
 
 - **Dogfooding** - To "[eat your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)." For our purposes, this means using the things we build.
+
+- **E&I** - Experiment & Iterate. Produce code or detailed research iteratively for a fixed length of time.
 
 - **ENT** - Your username and password (which are called "credentials") for doing things like:
 
@@ -63,6 +87,10 @@ redirect_from:
   - Logging on to `gsa-wireless`
 
 - **FAS** - The [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service) is a GSA office dedicated to helping federal agencies buy products and services. TTS is part of FAS.
+
+- **FISMA** - Federal Information Security Management Act, a framework of various levels of information security.
+
+- **FOIA** - Freedom of Information Act, a law which allows the public to see government records.
 
 - **Front end developer** - The people who work on the parts of the site that you see, making the page look the way it's supposed to, have buttons in the right places, etc. They write HTML, CSS, and usually JavaScript.
 
@@ -78,23 +106,37 @@ redirect_from:
 
 - **GSA** - The [General Services Administration](https://www.gsa.gov/) is an independent agency whose mission is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across government. TTS is part of FAS, which is part of GSA.
 
+- **HCD** - Human-Centered Design, developing software (and other systems) with a consistent focus on the users' perspective and needs
+
+- **HISP** - High Impact Service Providers. [Particular parts of the government](https://www.performance.gov/cx/#hisps) that make a big impact on the public because of their importance and scale.
+
 - **HR Links** - [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's system for HR actions, including requesting leave and managing performance review documents.
 
 - **IAA** - Interagency agreement: a contract between federal agencies.
 
 - **IaaS** - Infrastructure as a Service. A service that provides on-demand computing services such as storage. This is the foundation on which organizations can build and maintain cloud services.
 
+- **IaC** - Infrastructure as Code. A technique allowing a software engineer to write code that defines IT infrastructure, like, definitions of servers needed by a project. The code can be read by a machine that then provisions the needed server.
+
 * **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
+
+- **MVP** - Minimum Viable Product.
 
 - **MOU** - Memorandum of understanding.
 
+- **NEO** - New Employee Orientation.
+
 - **OAuth** - Open Authorization. An open standard for authentication and authorization, which allows a user's account information to be used by third-party services without exposing their password.
+
+- **OCE** - GSA's Office of Customer Experience.
 
 - **OGC** - Office of General Counsel, aka GSA's legal team.
 
 - **OKR** - Objectives and Key Results. A system for setting individual and organizational goals with clear ways to measure success.
 
 - **OLU** - On-Line University, where our agency's mandatory training classes are hosted.
+
+- **OMB** - Office of Management and Budget, an office of the White House that administers the federal budget and spending by federal agencies.
 
 - **Open source software** - Software that does not charge users a purchase or licensing fee for modifying or redistributing the source code. Anyone can study, change, or distribute the code for any purpose.
 
@@ -110,17 +152,27 @@ redirect_from:
 
 - **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs innovators with top civil servants in the highest levels of the federal government to tackle some of the biggest challenges. PIF is an office within TTS.
 
-- **PII** - personally identifiable information.
+- **PII** - Personally Identifiable Information.
 
-- **PRA** - The Paperwork Reduction Act, enacted in 1980, aims to reduce the burden of federally imposed paperwork for U.S. businessess and the public.
+- **PMO** - Project (or Program) Management Office, a temporary office to focus on a special funding project.
+
+- **PoP** - Period of Performance. Time window for an IAA.
+
+- **PR** - Pull Request. When a software developer makes a change to some code, they then create a PR to request that their code be accepted into the project's repo.
+
+- **PRA** - The Paperwork Reduction Act, enacted in 1980, aims to reduce the burden of federally imposed paperwork for U.S. businesses and the public.
 
 - **Product Manager** - Product managers ensure that the right product is built at the right time and for the right people. They establish a product vision and help their teams translate that vision into reality by creating and maintaining product roadmaps, deeply understanding users, technology, and business context, and prioritizing design and development tasks accordingly.
 
 - **Repo** - Repository. A place to store code or data in a central location (such as GitHub).
 
+- **RfQ** - Request for Quotation. Soliciting bids from vendors, then assessing those vendors and bids.
+
 - **SaaS** - Software as a Service. Individuals or agencies subscribe to an application, and then access it over the internet. Most online applications, such as Salesforce and Google Drive, fall into this category. Need to purchase a SaaS product? [Here's how to get software]({{site.baseurl}}/software/).
 
 - **Scrum master** - The facilitator for an agile development team.
+
+- **Ship** - To produce and distribute code or some other product of work. Also, the _Weekly Ship_ newsletter about a particular project, telling what the that team shipped that week.
 
 - **SME** - Subject Matter Expert. Specialist with expertise in a particular discipline or subject matter.
 
@@ -132,6 +184,8 @@ redirect_from:
 
 - **SOW** - Statement of work. Document that defines project-specific activities, deliverables, and timelines for a vendor providing services to the client. May be part of an IAA.
 
+- **SSP** - System Security Plan.
+
 - **TTS** - The [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) aim to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public. This is the TTS Handbook, and you're probably reading it because you're an employee of TTS. TTS is part of FAS, which is part of GSA.
 
 - **USDS** - The [United States Digital Service](https://www.usds.gov/) is a startup at The White House, using design and technology to deliver better services to the American people.
@@ -141,6 +195,8 @@ redirect_from:
 - **VPN** - Virtual Private Network is a way to pretend that you're on the GSA network when you're not in a GSA building, which also makes your Internet connection more secure. It's required for access to some GSA sites. See [Citrix]({{site.baseurl}}/virtual-desktop/) or [AnyConnect]({{site.baseurl}}/anyconnect/).
 
 - **Waterfall development** - An approach to software development projects based on upfront planning and linear, sequential execution.
+
+- **WCAG** - Web Content Accessibility Guidelines for web developers and designers to build inclusive software.
 
 ## More
 
