@@ -67,7 +67,6 @@ We will share open positions as they are available.
 - [10X Director](https://docs.google.com/document/d/1sNhhg5ZnuTqGIT2pb0xTk-JGRw7SOzV9KnqLT5oyNXA)
 - [Benefits Studio Lead](https://docs.google.com/document/d/1VbfiSHGWOyBqVsCiPBTbF3xFFCdAiaxewo_ucDtUtvI)
 - Market Development & Partnerships Division Director (coming soon)
-- and more to come!
 
 ## Opportunities with partners
 
