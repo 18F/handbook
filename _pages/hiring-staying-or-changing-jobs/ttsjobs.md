@@ -65,7 +65,8 @@ We will share open positions as they are available.
 - [Smarter IT Portfolio Director](https://docs.google.com/document/d/11nNHD6_bQH3G--p29gegOhtlATCON7b5I5TvgNXFX00)
 - [TTS Technology Portfolio Director](https://docs.google.com/document/d/116LzdO-pHVjKYQ8uYytAA_0eO2LdYJ8HuHiQ3VfqaQI)
 - [10X Director](https://docs.google.com/document/d/1sNhhg5ZnuTqGIT2pb0xTk-JGRw7SOzV9KnqLT5oyNXA)
-- and more to come!
+- [Benefits Studio Lead](https://docs.google.com/document/d/1VbfiSHGWOyBqVsCiPBTbF3xFFCdAiaxewo_ucDtUtvI)
+- Market Development & Partnerships Division Director (coming soon)
 
 ## Opportunities with partners
 
