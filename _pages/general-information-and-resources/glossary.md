@@ -23,9 +23,13 @@ redirect_from:
 
 - **a11y** - A [numeronym](https://en.wikipedia.org/wiki/Numeronym) that stands for "accessibility."
 
+- **ACQ** - Acquisitions. A discipline across the federal government responsible for purchases, and a chapter within 18f
+
 - **Agile** - A software development methodology based on collaboration, iteration, feedback, and constant improvement.
 
 - **API** - Application programming interface. Think of them as a way for computers to interact, either internally or between one another. If you wanted to make a website that shows the current temperature wherever you are, your code talks to one API to get your location, then another to find out the weather in that area.
+
+- **ASF** - Acquisition Services Fund. One source of TTS funding.
 
 - **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Learn more about ATOs in the [Before You Ship guide](https://before-you-ship.18f.gov/ato/).
 
@@ -40,6 +44,8 @@ redirect_from:
   - Generate shopping recommendations
   - Gather all of the information for search to work
   - Trigger emails being sent
+
+- **CI/CD** - Continuous Integration/Continuous Deployment. Automated software testing (CI) practiced along with automated deployment of frequent, small changes to software (CD).
 
 - **Clients and Markets** - Clients and Markets is a division within TTS that provides consulting services to government agencies. The TTS communications team is also part of the division. The following offices and teams are part of Clients and Markets: 18F, Centers of Excellence, Client Development, Outreach, and Presidential Innovation Fellows.
 
@@ -61,11 +67,15 @@ redirect_from:
 
 - **CX** - Customer Experience.
 
+- **DAP** - Digital Analytics Program. A GSA service that provides a web analytics tool and training on how to use it.
+
 - **Dev** - Someone who does software development. A "coder."
 
 - **[Digital Gov](https://digital.gov/)** - A platform to help those in agencies working on providing digital services and information for the public. Posts information on what government is doing in digital, general digital news, trends and issues on implementing digital for the public.
 
 - **Dogfooding** - To "[eat your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)." For our purposes, this means using the things we build.
+
+- **E&I** - Experiment & Iterate. Produce code or detailed research iteratively for a fixed length of time.
 
 - **ENT** - Your username and password (which are called "credentials") for doing things like:
 
@@ -108,6 +118,8 @@ redirect_from:
 
 * **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
 
+- **MVP** - Minimum Viable Product.
+
 - **MOU** - Memorandum of understanding.
 
 - **NEO** - New Employee Orientation.
@@ -141,6 +153,8 @@ redirect_from:
 - **PII** - Personally Identifiable Information.
 
 - **PMO** - Project (or Program) Management Office, a temporary office to focus on a special funding project.
+
+- **PoP** - Period of Performance. Time window for an IAA.
 
 - **PR** - Pull Request. When a software developer makes a change to some code, they then create a PR to request that their code be accepted into the project's repo.
 
