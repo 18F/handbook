@@ -159,6 +159,17 @@ Remember, you're asking for a substantial commitment of organizational resources
           Peter Burkholder - SOL
         </td>
       </tr>
+      <tr>
+        <th id="techtalks">Tech Talks</th>
+        <td class="col-description">
+          Our goal is to provide a place to learn about new and interesting technical knowledge from other TTS individuals.<br />
+          <a href="https://gsa-tts.slack.com/messages/tech-talks">#tech-talks</a>
+        </td>
+        <td>
+          Sarah Withee - 18F<br>
+          Julia Allen - 18F
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
