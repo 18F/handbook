@@ -60,6 +60,7 @@ We will share open positions as they are available.
 - [CoE Cloud & Infrastructure Supervisor](https://docs.google.com/document/d/1c3z_5-6NstjpSi5NfSTqnNEFCVK1QExjHytopSATFFw)
 - [CoE Client Services Supervisor](https://docs.google.com/document/d/1qpv1uIqrEPoa8T0TrHP4JbkbQvj8liGpQTyqR1de3pg)
 - [PIF Supervisors](https://docs.google.com/document/d/1qaWHy9K-FnNkfNS78CW7KsX9KKrWClbUX0NSNKUjrLc)
+- [Login.gov Supervisors](https://docs.google.com/document/d/1vIXcBCUH1dY8vTavijM34jc_7WwgekXON0oy5EEEK6Q)
 - [ARP Portfolio Lead](https://docs.google.com/document/d/1TmTF8ZxKkez4CikIb00rDhSrtx_cjOx6MYI7xAWeMI0)
 - [USDC Director](https://docs.google.com/document/d/1M1oGAT304n2eCA4ObJhqbIOlPyNP-9OHFj-ulLaj9mA)
 - [Smarter IT Portfolio Director](https://docs.google.com/document/d/11nNHD6_bQH3G--p29gegOhtlATCON7b5I5TvgNXFX00)
