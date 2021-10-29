@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -41,9 +40,9 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-- [GSA WIDE: Forms.gov Technical Lead Detail](https://docs.google.com/document/d/1YQHLH8B0MUFrZMbETau-_gSMHjzPi8uGhbykIVnCJ5U/edit#heading=h.ug9ig2kgf0mm) - open Thursday, October 7th until Thursday, October 28th
-- [GSA WIDE: Max.gov Engagement Lead Detail](https://docs.google.com/document/d/1XJ5ZvWndqRrw5ue-RDyaF0MaLlZI7zWBWsHyKV9YROo/edit?usp=sharing) - open Friday, October 22nd until Friday, Nov 5th
-- [GSA WIDE: American Rescue Plan (ARP) Project Coordinator Detail](https://docs.google.com/document/d/1NUXetv6Z_pmlS_5WKVP1-YPTaK0IfLod08bBPorZnIw/edit#) - open Wednesday, October 27th until Wed, November 10th
+* [GSA WIDE: Forms.gov Technical Lead Detail](https://docs.google.com/document/d/1YQHLH8B0MUFrZMbETau-_gSMHjzPi8uGhbykIVnCJ5U/edit#heading=h.ug9ig2kgf0mm) - open Thursday, October 7th until Thursday, October 28th
+* [GSA WIDE: Max.gov Engagement Lead Detail](https://docs.google.com/document/d/1XJ5ZvWndqRrw5ue-RDyaF0MaLlZI7zWBWsHyKV9YROo/edit?usp=sharing) - open Friday, October 22nd until Friday, Nov 5th
+* [GSA WIDE: American Rescue Plan (ARP) Project Coordinator Detail](https://docs.google.com/document/d/1NUXetv6Z_pmlS_5WKVP1-YPTaK0IfLod08bBPorZnIw/edit#) - open Wednesday, October 27th until Wed, November 10th
 
 ### Open to all federal employees
 
@@ -51,22 +50,23 @@ We will share open positions as they are available.
 
 ### Coming soon
 
-- [Cloud.gov Director](https://docs.google.com/document/d/1Px83r2CxMyxBeKZa8Ffiecbx8U6rB5tAGizDBLr5kBI)
-- [18F Design Supervisors](https://docs.google.com/document/d/1tM91kmMX0VXkYNWDvXQ4PV8GAgMy5rP7-PVhF3sZdFQ)
-- [18F Product Supervisors](https://docs.google.com/document/d/1q1wf2dQoPt9BTowhbuI6QpyzPP3NGkuaal5Uf0B7f-o)
-- [18F Engineering Supervisors](https://docs.google.com/document/d/19KmoksP-2OQ7PrK8VBv55Z395H1B1Z-z1XxphNdfMak)
-- [18F Account Management Supervisors](https://docs.google.com/document/d/1zc-rnwiceAXIvR_3Odx9os8tUFWN5YEdrsKrtJ_coLk)
-- [CoE Customer Experience & Contact Center Supervisor](https://docs.google.com/document/d/1kicYARQGbqruFXtIi7FfWhc6Spi8GNTCw4-NQ9pEiWs)
-- [CoE Cloud & Infrastructure Supervisor](https://docs.google.com/document/d/1c3z_5-6NstjpSi5NfSTqnNEFCVK1QExjHytopSATFFw)
-- [CoE Client Services Supervisor](https://docs.google.com/document/d/1qpv1uIqrEPoa8T0TrHP4JbkbQvj8liGpQTyqR1de3pg)
-- [PIF Supervisors](https://docs.google.com/document/d/1qaWHy9K-FnNkfNS78CW7KsX9KKrWClbUX0NSNKUjrLc)
-- [ARP Portfolio Lead](https://docs.google.com/document/d/1TmTF8ZxKkez4CikIb00rDhSrtx_cjOx6MYI7xAWeMI0)
-- [USDC Director](https://docs.google.com/document/d/1M1oGAT304n2eCA4ObJhqbIOlPyNP-9OHFj-ulLaj9mA)
-- [Smarter IT Portfolio Director](https://docs.google.com/document/d/11nNHD6_bQH3G--p29gegOhtlATCON7b5I5TvgNXFX00)
-- [TTS Technology Portfolio Director](https://docs.google.com/document/d/116LzdO-pHVjKYQ8uYytAA_0eO2LdYJ8HuHiQ3VfqaQI)
-- [10X Director](https://docs.google.com/document/d/1sNhhg5ZnuTqGIT2pb0xTk-JGRw7SOzV9KnqLT5oyNXA)
-- [Benefits Studio Lead](https://docs.google.com/document/d/1VbfiSHGWOyBqVsCiPBTbF3xFFCdAiaxewo_ucDtUtvI)
-- Market Development & Partnerships Division Director (coming soon)
+* [Cloud.gov Director](https://docs.google.com/document/d/1Px83r2CxMyxBeKZa8Ffiecbx8U6rB5tAGizDBLr5kBI)
+* [18F Design Supervisors](https://docs.google.com/document/d/1tM91kmMX0VXkYNWDvXQ4PV8GAgMy5rP7-PVhF3sZdFQ)
+* [18F Product Supervisors](https://docs.google.com/document/d/1q1wf2dQoPt9BTowhbuI6QpyzPP3NGkuaal5Uf0B7f-o)
+* [18F Engineering Supervisors](https://docs.google.com/document/d/19KmoksP-2OQ7PrK8VBv55Z395H1B1Z-z1XxphNdfMak)
+* [18F Account Management Supervisors](https://docs.google.com/document/d/1zc-rnwiceAXIvR_3Odx9os8tUFWN5YEdrsKrtJ_coLk)
+* [CoE Customer Experience & Contact Center Supervisor](https://docs.google.com/document/d/1kicYARQGbqruFXtIi7FfWhc6Spi8GNTCw4-NQ9pEiWs)
+* [CoE Cloud & Infrastructure Supervisor](https://docs.google.com/document/d/1c3z_5-6NstjpSi5NfSTqnNEFCVK1QExjHytopSATFFw)
+* [CoE Client Services Supervisor](https://docs.google.com/document/d/1qpv1uIqrEPoa8T0TrHP4JbkbQvj8liGpQTyqR1de3pg)
+* [PIF Supervisors](https://docs.google.com/document/d/1qaWHy9K-FnNkfNS78CW7KsX9KKrWClbUX0NSNKUjrLc)
+* [Login.gov Supervisors](https://docs.google.com/document/d/1vIXcBCUH1dY8vTavijM34jc_7WwgekXON0oy5EEEK6Q)
+* [ARP Portfolio Lead](https://docs.google.com/document/d/1TmTF8ZxKkez4CikIb00rDhSrtx_cjOx6MYI7xAWeMI0)
+* [USDC Director](https://docs.google.com/document/d/1M1oGAT304n2eCA4ObJhqbIOlPyNP-9OHFj-ulLaj9mA)
+* [Smarter IT Portfolio Director](https://docs.google.com/document/d/11nNHD6_bQH3G--p29gegOhtlATCON7b5I5TvgNXFX00)
+* [TTS Technology Portfolio Director](https://docs.google.com/document/d/116LzdO-pHVjKYQ8uYytAA_0eO2LdYJ8HuHiQ3VfqaQI)
+* [10X Director](https://docs.google.com/document/d/1sNhhg5ZnuTqGIT2pb0xTk-JGRw7SOzV9KnqLT5oyNXA)
+* [Benefits Studio Lead](https://docs.google.com/document/d/1VbfiSHGWOyBqVsCiPBTbF3xFFCdAiaxewo_ucDtUtvI)
+* Market Development & Partnerships Division Director (coming soon)
 
 ## Opportunities with partners
 
@@ -78,7 +78,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
