@@ -251,6 +251,13 @@ Current 18F Collectives (and Leads) include:
           <a href="https://gsa-tts.slack.com/messages/agile">#agile</a>
         </td>
       </tr>
+      <tr>
+        <th class="col-grouplet">Tech Talks</th>
+        <td>Sarah Withee & Julia Allen</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/tech-talks">#tech-talks</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
