@@ -10,11 +10,9 @@ redirect_from:
 
 Collectively, we’re experienced in a wide variety of technologies including Python, Ruby, server and client-side JavaScript, Go, C, relational and schema-less databases, ETL pipelines, version control, testing frameworks, machine learning, and more.
 
-### Documentation
+## Documentation
 
-Our [Engineering Best Practices guide](https://github.com/18F/development-guide#18f-development-guide) has details about Git, code reviews, and more. You might also enjoy the [open source](https://18f.gsa.gov/tags/open-source/) archives on the blog.
-
----
+Our [Engineering Best Practices guide](https://engineering.18f.gov) ([git repo](https://github.com/18F/development-guide#18f-development-guide)) has details about our approach, tools, languages, and more. You might also enjoy the [open source](https://18f.gsa.gov/tags/open-source/) archives on the blog.
 
 # Joining the Engineering team
 
