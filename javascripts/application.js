@@ -88,14 +88,10 @@ $(document).ready(function() {
           "</ul>" +
         "</nav>";
 
+      // support inline-nav css with a class in the <body> tag
       $('body').addClass('with-inline-navigation');
-      var $table = $(".usa-layout-docs-main_content h1:first-child+.table-wrapper");
-      if ($table.length > 0){
-        $table.after(inlineNavigation);
-      } else {
-        $("main > p").first().after(inlineNavigation);
-      }
-
+      // add inlineNavigation after the first <h1></h1>
+      $("main > p").first().before(inlineNavigation);
     }
 
   }
