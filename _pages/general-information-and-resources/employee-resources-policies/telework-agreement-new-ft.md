@@ -12,53 +12,25 @@ redirect_from:
   - /telework-agreement-new-ft/
 ---
 
-This is a short How-To guide for new employees in full time telework positions to quickly and easily submit your Telework Agreement through HR Links. In most, if not all cases, new employees that are “Virtual” in the final job offer have had initial telework documentation completed by their supervisors or the talent team. The Telework Agreement is still needed, but with those pre-approvals in place, the following steps should work for you.
+In most, if not all cases, new employees that are “Virtual” in the final job offer have had _initial_ telework documentation completed by their supervisors or the talent team. **The Telework Agreement is still needed and required by GSA**, but with those pre-approvals in place, the following steps should be fairly simple and work for you.
 
-Note: This process is different from the vendor-supplied how-to PDF, as the form sections and fields are _not quite the same_ as what that document states.
+Shortly after starting with TTS, you should receive an email with attachments from TTS PeopleOps. One of these documents is the completed Full-Time Telework Agreement (**FTTA**), also known as **Form 3703**. This document needs to be uploaded to HR Links as part of the process described below.
 
-## HR Links - Start a Telework Agreement
+**Note: you may receive your completed FTTA well in advance of gaining access to HR Links (HR Links access typically happens early in week 2 of employment), so you may need to search back in your inbox to find your FTTA.**
 
-1. Log in to [HR Links](https://hrlinks.gsa.gov/)
-2. Find the GSA Regular Telework Agreement via either:
+In the same email with your completed FTTA, there should be a PDF with instructions on how to complete the Full-Time Telework Agreement on HR Links. After you have access to HR Links, **follow the instructions emailed to you in the PDF attachment**.
 
-- on your HR Links Home Page
-- or, by following this path: Navigator > Self-Service > Personal Information > GSA Regular Telework
+Some clarifying points for this process are listed below.
 
-3. On the GSA Telework Agreement page, select the “Add a New Value” tab to get started.
+- Your full-time telework address is your **full home address**.
 
-**Note:** If you’re joining as a new, full-time telework (remote) employee, the Talent Team will have already completed and approved the GSA Form 3703 Full-Time Telework Arrangement Analysis Tool, so you can ignore the instructions abut filling that form out.
+- When asked for Agency Worksite, use the main TTS address:
+  **1800 F Street NW, Washington DC 20405**
 
-## Part A. Full-Time Telework Arrangement Data
+- When asked for your approval date, **enter your start date**
 
-Fill out the form using the following information for Part A:
+- Unless you are within 50 miles of TTS in D.C., the answer to whether you live within commuting distance of the official worksite/duty station is **NO**.
 
-1. 1st “Select” dropdown: **Full Time Telework**
-2. 2nd “Select” dropdown: **New Arrangement**
-3. 3rd “Select” dropdown: **Long-Term Arrangement**
+- The document to upload to the HR Links Telework Agreement form is the completed FTTA (3703) document, referenced above. That email comes from TTS PeopleOps.
 
-<img src="{{site.baseurl}}/images/hrlinks/ft-telework-1.png" alt="Screenshot of Part A form selections" />
-
-## Part B. Employment Data
-
-1. Official full-time telework worksite address: **Enter your full home address** (or the place you'll be working remotely from) here.
-2. Official worksite/duty statin is within the commuting area of agency worksite: **No**
-
-## Part C. Position Data
-
-1. Agency Worksite: **1800 F St. NW, Washington, DC, 20405**
-
-<img src="{{site.baseurl}}/images/hrlinks/ft-telework-2.png" alt="Screenshot of Parts B, C, and D of form selections" />
-
-## Part D. Documentation
-
-1. Employee has completed and supervisor has approved... : **Yes**
-2. The FT Telework Analysis Tool has been completed and approved: **Yes**
-3. Analysis Tool Approval Date: **Enter your start date**
-4. You may skip all the other fields in this section.
-
-## Employee Signature
-
-1. Employee Full-Time Telework Agreement Certification: **Y** (Note: Only put a Y here.)
-2. Save/Submit the form.
-
-<img src="{{site.baseurl}}/images/hrlinks/ft-telework-3.png" alt="Screenshot of Employee Signature form section" />
+- You do **NOT** need to fill out the specific details about the Telework Analysis Tool at the end of the process. Those fields can be left blank.
