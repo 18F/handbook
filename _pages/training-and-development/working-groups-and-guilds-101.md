@@ -4,6 +4,9 @@ redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
 ---
+<style type="text/css">
+	td {padding: 8px;}
+</style>
 
 TTS has a collection of communities to help develop best practices, provide training, explore new ideas, and help solve thorny issues.
 
@@ -57,8 +60,6 @@ The [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed
 ## Guilds
 
 Guilds are long-running groups sponsored by the TTS Chief of Staff, and as such are expected to coordinate practices and solve problems across TTS. Because they are cross-TTS structures, their leadership should come from more than one part of TTS and they should provide clear value to a broad cross-section of TTS through training and promotion of best practices in their subject area.
-
-18F provides non-billable hours to guild leads to help them meet those expectations.
 
 Guild Slack channels have a `g-` before the name. Just as with working groups, you do not need permission to participate. Just jump right in.
 
@@ -116,14 +117,12 @@ Remember, you're asking for a substantial commitment of organizational resources
         </td>
       </tr>
       <tr>
-        <th class="col-grouplet" id="devops">Devops</th>
+        <th class="col-grouplet" id="consulting">Consulting</th>
         <td class="col-description">
-          Our mission is to ensure great devops for our projects. <br />
-          <a href="https://gsa-tts.slack.com/messages/g-devops">#g-devops</a>
+          Develop and support the practice of consulting at TTS<br /> <a href="https://gsa-tts.slack.com/archives/CDVJ9U4K1">#c-consulting</a>
         </td>
         <td>
-          Peter Burkholder - SOL<br>
-          Brian Fox - 18F
+          Matt Cloyd - 18F
         </td>
       </tr>
       <tr>
@@ -191,7 +190,7 @@ We also avoid giving an unfair advantage to someone involved in a bid in progres
 
 ## 18F Collectives
 
-18F has developed Collectives, with "Collective Leads" guiding them. These collectives are an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization.
+18F has developed Collectives, with "Collective Leads" guiding them. These collectives started as an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization. They remain a way for us to experiment with whether a group serves a sustained need.
 
 A collective is a group of people that share or are motivated by at least one common issue or interest, or work together to achieve a common objective.
 
@@ -218,7 +217,7 @@ Current 18F Collectives (and Leads) include:
       </tr>
       <tr>
         <th class="col-grouplet">Project Leadership</th>
-        <td>Brian Fox</td>
+        <td>Edwin Torres & Emily Theis</td>
         <td>
           <a href="https://gsa-tts.slack.com/messages/c-18f-project-leadership">#c-18f-project-leadership</a>
         </td>
@@ -235,13 +234,6 @@ Current 18F Collectives (and Leads) include:
         <td>Princess Ojiaku & Peter Rowland</td>
         <td>
           <a href="https://gsa-tts.slack.com/messages/c-data">#c-data</a>
-        </td>
-      </tr>
-      <tr>
-        <th class="col-grouplet">Consulting</th>
-        <td>Amanda Costello</td>
-        <td>
-          <a href="https://gsa-tts.slack.com/messages/c-consulting">#c-consulting</a>
         </td>
       </tr>
       <tr>
