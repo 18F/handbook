@@ -46,6 +46,7 @@ Please note that incidents need to be reported within one hour of being identifi
    - Do not delete any potential evidence or modify the evidence without instruction from the GSA's Incident Response (IR) team.
 1. Check the system's specific Incident Response Plan
    - For [cloud.gov](https://cloud.gov/) platform operations/security, start [following the additional checklist here](https://cloud.gov/docs/ops/security-ir-checklist/).
+   - For [Login.gov](https://login.gov/) operations/security, start [following the additional checklist here](https://handbook.login.gov/articles/incident-response-checklist.html).
 1. Following notification to GSA, the GSA's Incident Response (IR) team will contact you requesting more information. Example questions that will be asked:
    1. What systems do these secrets allow access to?
    2. How long were the secrets available on the exposed system?
@@ -98,5 +99,5 @@ The soundness/fitness of purpose of our systems or information. So if a backup w
 - Questions? Ask in the [#g-security-compliance](https://gsa-tts.slack.com/messages/g-security-compliance) Slack channel
 - You can use this link to <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">quickly send an email to IT Service Desk, GSA IR Team & TTS Tech Portfolio</a> at the same time.
 - cloud.gov: [cloud.gov support team](mailto:cloud-gov-support@gsa.gov) or [#cg-incidents](https://gsa-tts.slack.com/messages/incident-response) Slack channel
-- cloud.gov: [#login-incidents](https://gsa-tts.slack.com/messages/incident-response) Slack channel
+- Login.gov: [#login-situation](https://gsa-tts.slack.com/archives/C5QUGUANN)
 - Need to find the Information System Security Officer (ISSO) or Information System Security Manager (ISSM) for a specific system? See the [directory of contacts for GSA systems](https://ea.gsa.gov/#!/FISMA_POC). You'll need to be [on the GSA network]({{site.baseurl}}/getting-started/how-to-log-in/#connecting-to-gsa-networks) to access the directory.)
