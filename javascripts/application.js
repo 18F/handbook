@@ -91,7 +91,7 @@ $(document).ready(function() {
       // support inline-nav css with a class in the <body> tag
       $('body').addClass('with-inline-navigation');
       // add inlineNavigation after the first <h1></h1>
-      $("main > p").first().before(inlineNavigation);
+      $("main h2").first().before(inlineNavigation);
     }
 
   }
