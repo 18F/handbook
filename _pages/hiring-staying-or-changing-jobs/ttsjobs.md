@@ -65,6 +65,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 - [GSA WIDE: Max.gov Engagement Lead Detail](https://docs.google.com/document/d/1XJ5ZvWndqRrw5ue-RDyaF0MaLlZI7zWBWsHyKV9YROo/edit?usp=sharing) - open Friday, October 22nd until Friday, Nov 5th
 - [GSA WIDE: American Rescue Plan (ARP) Project Coordinator Detail](https://docs.google.com/document/d/1NUXetv6Z_pmlS_5WKVP1-YPTaK0IfLod08bBPorZnIw/edit#) - open Wednesday, October 27th until Wed, November 10th
 - [TTS WIDE: TTS Leadership DEI&A Representative Detail](https://docs.google.com/document/d/1tJQSywrjZRfjgDVOf6cCH_MqVVjFIf-okym9Yk3_asU/edit#) - open Monday, November 1st until Friday, November 12th
+- [TTS WIDE: Various positions 10x](https://docs.google.com/document/d/1Qj35ard4yww_86Ikw23FhIUgEGyiECDb074ZrFj3uDU/edit#) - open Monday, November 8 until Tuesday November 16th
 
 ### Open to all federal employees
 
