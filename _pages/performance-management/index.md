@@ -55,7 +55,7 @@ Employees who start **after September 1** are not eligible to participate in the
 
 Depending on your overall performance rating, you may be eligible for an Individual Performance Award (IPA). The cash/time off awards for Level 5, Level 4 and Level 3 summary ratings will be announced by GSA near the end of the calendar year when all performance reviews are complete.
 
-### Selecting award preference in HR Links 
+### Selecting award preference in HR Links
 
 If you are eligible for an end-of-year individual performance award (cash or time-off), **please make a selection no later than November 15th.** If you would like to keep the same selection type as FY20, no further action is needed.
 
