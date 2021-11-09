@@ -4,7 +4,7 @@ questions:
   - admins-slack
 ---
 
-[_Back to Slack page_](../)
+_[Back to Slack page](../)_
 
 ## Profile
 
@@ -19,21 +19,22 @@ questions:
 Slack is used by all TTS staff. Some things you'll want to remember, especially if you're new to Slack:
 
 - **Abide by the [TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** This includes use of avatars, emoji, files, and links. If you see anyone violating our Code of Conduct, see the reporting section.
-- [**Assume everything you share/do in Slack will be made public, and attributed back to you.**](../records/)
+- **[Assume everything you share/do in Slack will be made public, and attributed back to you.](../records/)**
 - **Do not post any [sensitive information]({{site.baseurl}}/sensitive-information/).** See the [list of alternatives]({{site.baseurl}}/general-information-and-resources/sensitive-information/#tools).
 
 ## Channel names
 
 Here's what various prefixes and suffixes mean:
 
-| prefix/suffix | description                                                                                                                                                                                                                                                                |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `admins-`     | Administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to [request invites to Slack](../user-management/), expunge a particularly offensive/off-topic message, change the name of a channel, and so on. |
-| `-partner`    | Channels that include [partners]({{site.baseurl}}/tools/slack/external-collaboration/#partners) from other agencies.                                                                                                                                                       |
-| `-public`     | [Channels that include members of the public.]({{site.baseurl}}/tools/slack/external-collaboration/#the-public)                                                                                                                                                            |
-| `wg-`         | [Working groups]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#working-groups)                                                                                                                                                                  |
-| `g-`          | [Guilds]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#guilds)                                                                                                                                                                                  |
-| `c-`          | [18F Collectives]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#18f-collectives)                                                                                                                                                                |
+| prefix/suffix | description                                                                                                                                                                                                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `admins-`     | Administrators for various tools. [\#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to [request invites to Slack](../user-management/), expunge a particularly offensive/off-topic message, change the name of a channel, and so on. |
+| `-partner`    | Channels that include [partners]({{site.baseurl}}/tools/slack/external-collaboration/#partners) from other agencies.                                                                                                                                                        |
+| `-public`     | [Channels that include members of the public.]({{site.baseurl}}/tools/slack/external-collaboration/#the-public)                                                                                                                                                             |
+| `-shared`     | Channels that are linked with another Slack org.                                                                                                                                                                                                                            |
+| `wg-`         | [Working groups]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#working-groups)                                                                                                                                                                   |
+| `g-`          | [Guilds]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#guilds)                                                                                                                                                                                   |
+| `c-`          | [18F Collectives]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#18f-collectives)                                                                                                                                                                 |
 
 Feel free to join any of these channels even if you are not actively part of the group and are just interested.
 
