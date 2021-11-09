@@ -57,9 +57,9 @@ Employees who occupy eligible positions as of September 30, 2021, and who receiv
 
 Subject to the availability of funds, OCFO and OHRM plan to distribute IPAs as follows:
 
-- Level 5 summary ratings: Up to 3.85% of adjusted basic pay, or up to 80 hours of time off, subject to budget availability.
-- Level 4 summary ratings: Up to 2.1% of adjusted basic pay, or up to 44 hours of time off subject to budget availability.
-- "High 3" summary ratings: Up to 0.385% of adjusted basic pay, or up to 8 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5.
+- **Level 5 summary ratings:** Up to 3.85% of adjusted basic pay, or up to 80 hours of time off, subject to budget availability.
+- **Level 4 summary ratings:** Up to 2.1% of adjusted basic pay, or up to 44 hours of time off subject to budget availability.
+- **"High 3" summary ratings:** Up to 0.385% of adjusted basic pay, or up to 8 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5.
 
 The final award percentages for Level 5, Level 4 and Level 3 summary ratings will be determined when all performance reviews are complete. In the event the above targets for the Level 3, Level 4 and Level 5 summary ratings cannot be met due to budget constraints, the percentage payouts for awards will be decreased proportionally.
 
