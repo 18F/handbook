@@ -28,10 +28,6 @@ FedRelay offers six services in English and Spanish, which are described in deta
 - Relay conference captioning
 - Video relay
 
-### Assistive technology
-
-Individuals can get access to other assistive technology resources through the Department of Defense's [Computer Accommodation Program (CAP)](https://www.cap.mil/Default.aspx). GSA’s Equal Employment Opportunity program in the Office of Civil Rights can help get access to these tools.
-
 ## Accessing remote services
 
 To access remote interpreting or captioning services:
