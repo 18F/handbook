@@ -40,25 +40,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 - [Centers of Excellence - Modernization Lead (IT Specialist)](https://join.tts.gsa.gov/join/coe-modernization-lead/) - open Friday, October 29th until Monday, November 15th
 - [Technology Transformation Services Engineer (IT Specialist)](https://join.tts.gsa.gov/join/tts-engineer/) - open Friday, October 29th until Monday, November 15th
 - [Technology Transformation Services Product Manager/Project Manager (IT Specialist)](https://join.tts.gsa.gov/join/tts-product-project-manager/) - open Friday, October 29th until Monday, November 15th
-- [Technology Transformation Services Supervisor](https://www.usajobs.gov/GetJob/ViewDetails/620091400) - Open Tuesday, November 2nd until Monday, November 8th
-  - Positions being filled through this announcement include the following:
-    - [Cloud.gov Director](https://docs.google.com/document/d/1Px83r2CxMyxBeKZa8Ffiecbx8U6rB5tAGizDBLr5kBI)
-    - [18F Design Supervisors](https://docs.google.com/document/d/1tM91kmMX0VXkYNWDvXQ4PV8GAgMy5rP7-PVhF3sZdFQ)
-    - [18F Product Supervisors](https://docs.google.com/document/d/1q1wf2dQoPt9BTowhbuI6QpyzPP3NGkuaal5Uf0B7f-o)
-    - [18F Engineering Supervisors](https://docs.google.com/document/d/19KmoksP-2OQ7PrK8VBv55Z395H1B1Z-z1XxphNdfMak)
-    - [18F Account Management Supervisors](https://docs.google.com/document/d/1zc-rnwiceAXIvR_3Odx9os8tUFWN5YEdrsKrtJ_coLk)
-    - [CoE Customer Experience & Contact Center Supervisor](https://docs.google.com/document/d/1kicYARQGbqruFXtIi7FfWhc6Spi8GNTCw4-NQ9pEiWs)
-    - [CoE Cloud & Infrastructure Supervisor](https://docs.google.com/document/d/1c3z_5-6NstjpSi5NfSTqnNEFCVK1QExjHytopSATFFw)
-    - [CoE Client Services Supervisor](https://docs.google.com/document/d/1qpv1uIqrEPoa8T0TrHP4JbkbQvj8liGpQTyqR1de3pg)
-    - [PIF Supervisors](https://docs.google.com/document/d/1qaWHy9K-FnNkfNS78CW7KsX9KKrWClbUX0NSNKUjrLc)
-    - [Login.gov Supervisors](https://docs.google.com/document/d/1vIXcBCUH1dY8vTavijM34jc_7WwgekXON0oy5EEEK6Q)
-    - [ARP Portfolio Lead](https://docs.google.com/document/d/1TmTF8ZxKkez4CikIb00rDhSrtx_cjOx6MYI7xAWeMI0)
-    - [USDC Director](https://docs.google.com/document/d/1M1oGAT304n2eCA4ObJhqbIOlPyNP-9OHFj-ulLaj9mA)
-    - [Smarter IT Portfolio Director](https://docs.google.com/document/d/11nNHD6_bQH3G--p29gegOhtlATCON7b5I5TvgNXFX00)
-    - [TTS Technology Portfolio Director](https://docs.google.com/document/d/116LzdO-pHVjKYQ8uYytAA_0eO2LdYJ8HuHiQ3VfqaQI)
-    - [10X Director](https://docs.google.com/document/d/1sNhhg5ZnuTqGIT2pb0xTk-JGRw7SOzV9KnqLT5oyNXA)
-    - [Benefits Studio Lead](https://docs.google.com/document/d/1VbfiSHGWOyBqVsCiPBTbF3xFFCdAiaxewo_ucDtUtvI)
-    - [Market Development & Partnerships Division Director](https://docs.google.com/document/d/1rN91RImfC8JthabP6fWUDLxiS9ii035ISNJ7EeEqj00)
+- [U.S. Digital Corps Fellows](https://digitalcorps.gsa.gov/apply/) - open Monday, November 8th until 11:59pm ET on November 15th or at 11:59pm ET on the day that 300 applications in that track are received, whichever comes first
 
 ### Internal only opportunities
 
@@ -69,10 +51,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 ### Open to all federal employees
 
 We will share open positions as they are available.
-
-### Coming soon
-
-- [U.S. Digital Corps Fellows](https://digitalcorps.gsa.gov/apply/)
 
 ## Opportunities with partners
 
