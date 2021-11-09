@@ -13,13 +13,13 @@ tag:
   - guide
 ---
 
-**If this is a press request (newspaper, TV station, radio station, podcast, or blog) forward the request to [press@gsa.gov](press@gsa.gov) and do not respond directly. OSC will handle responding, coordinating, and gaining the necessary approvals.**
+**If this is a press request (newspaper, TV station, radio station, podcast, or blog) forward the request to [press@gsa.gov](mailto:press@gsa.gov) and do not respond directly. OSC will handle responding, coordinating, and gaining the necessary approvals.**
 
-We want you to share your expertise and represent TTS/GSA, and we want the approval process to be as seamless, transparent, and speedy as possible. We understand this process is complex. If you have questions or want additional information, please reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](tts-events@gsa.gov). We also have a help [slide](https://docs.google.com/presentation/d/1k8DazgKibsgN5e3kyfghGeAEAqDET251-sV71UrkGNk/edit?usp=sharing) and [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUtoczVQMkFlT2FSfGRlZmF1bHR8OTE5Y2UyMDBjYzlhMWY4NjkxNThkMmI5ZGI4ZWMzMmM).
+We want you to share your expertise and represent TTS/GSA, and we want the approval process to be as seamless, transparent, and speedy as possible. We understand this process is complex. If you have questions or want additional information, please reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](mailto:tts-events@gsa.gov). We also have a help [slide](https://docs.google.com/presentation/d/1k8DazgKibsgN5e3kyfghGeAEAqDET251-sV71UrkGNk/edit?usp=sharing) and [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUtoczVQMkFlT2FSfGRlZmF1bHR8OTE5Y2UyMDBjYzlhMWY4NjkxNThkMmI5ZGI4ZWMzMmM).
 
 Speaking externally in your official capacity is a privilege, as you are representing GSA and your fellow TTSers. There is an approval process. GSA’s Office of Strategic Communications (OSC) and TTS Outreach must approve your participation, talking points, and presentation materials before you can participate in any external events.
 
-This playbook contains the most recently updated speaking guidelines. It’s the best place to start whenever you have the opportunity to speak. If it's your first engagement or if you haven't been on the speaking circuit for a while, schedule a run-through with [TTS Outreach](tts-outreach@gsa.gov) once your request has been approved.
+This playbook contains the most recently updated speaking guidelines. It’s the best place to start whenever you have the opportunity to speak. If it's your first engagement or if you haven't been on the speaking circuit for a while, schedule a run-through with [TTS Outreach](mailto:tts-outreach@gsa.gov) once your request has been approved.
 This process has four major steps and can take up to 3-6 weeks to complete. Here is a breakdown of the 4 major steps.
 
 <details>
@@ -61,7 +61,7 @@ Critical questions that you need to address before submitting a speaker event re
 
 <details>
 <Summary> Step 3: Gather information and submit your request</summary>
-Request that your external event point of contact complete the <a href="https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf">TTS Speaker Request Form</a> to ensure you have all of the critical information for the approval process and return to you, ccing <a href="speakers@gsa.gov">speakers@gsa.gov</a>.
+Request that your external event point of contact complete the <a href="https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf">TTS Speaker Request Form</a> to ensure you have all of the critical information for the approval process and return to you, ccing <a href="mailto:speakers@gsa.gov">speakers@gsa.gov</a>.
 <br>
 
 Gather Information
@@ -101,7 +101,7 @@ Once you submit a request, you will receive an automated email confirmation.That
 <li>Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS Outreach know if you run into an issue.</li>
 <li>You should not promote your participation until final approval has been given by GSA.</li>
 </ul>
-You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at <a href="tts-events@gsa.gov">Ttts-events@gsa.gov</a>.</p>
+You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at <a href="mailto:tts-events@gsa.gov">tts-events@gsa.gov</a>.</p>
 </details>
 <details>
 <summary>Step 4: Prepare for your talk</summary>
