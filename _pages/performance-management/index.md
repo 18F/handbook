@@ -51,9 +51,19 @@ Employees who start **after September 1** are not eligible to participate in the
 
 **PLEASE NOTE:** New performance plans should be established within 30 days of an employee entering a role.
 
-### Who is eligible for the end of year performance bonus?
+### Who is eligible for the end of year performance bonus? 
 
-Depending on your overall performance rating, you may be eligible for an Individual Performance Award (IPA). The cash/time off awards for Level 5, Level 4 and Level 3 summary ratings will be announced by GSA near the end of the calendar year when all performance reviews are complete.
+Employees who occupy eligible positions as of September 30, 2021, and who receive an eligible rating of record, will receive an Individual Performance Award (IPA). “Ratings of Record (Annual)” should be completed in HR Links by November 15, or that employee may not receive their award timely. 
+
+Subject to the availability of funds, OCFO and OHRM plan to distribute IPAs as follows:
+
+  - Level 5 summary ratings: Up to 3.85% of adjusted basic pay, or up to 80 hours of time off, subject to budget availability.
+  - Level 4 summary ratings: Up to 2.1% of adjusted basic pay, or up to 44 hours of time off subject to budget availability.
+  - "High 3" summary ratings: Up to 0.385% of adjusted basic pay, or up to 8 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5.
+ 
+The final award percentages for Level 5, Level 4 and Level 3 summary ratings will be determined when all performance reviews are complete.  In the event the above targets for the Level 3, Level 4 and Level 5 summary ratings cannot be met due to budget constraints, the percentage payouts for awards will be decreased proportionally.
+
+IPAs are targeted to be paid out in December 2021, as in previous years. However, the IPA payout date depends upon the status of the Continuing Resolution and FY22 funding.  
 
 ### Selecting award preference in HR Links
 
