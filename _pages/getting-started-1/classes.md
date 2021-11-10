@@ -8,6 +8,7 @@ redirect_from:
   - /onboarding-schedule/
   - /tts-classes/
 ---
+
 We’ve put together a curriculum of classes we encourage you to take during your [first 90 days]({{site.baseurl}}/getting-started/).
 
 These classes will expose you to a variety of aspects of our organization, introduce you to the people involved, and create opportunities to ask questions.
@@ -22,27 +23,27 @@ This section provides an overview of each of the classes, broken into topics, fo
 
 ### Topics
 
-* [Our Values and Principles at TTS]({{site.baseurl}}/getting-started/classes/#our-values-and-principles-at-tts)
-* [Working in the Government]({{site.baseurl}}/getting-started/classes/#working-in-the-government)
-* [Background and Operations at TTS]({{site.baseurl}}/getting-started/classes/#background-and-operations-at-tts)
-* [Divisions of TTS]({{site.baseurl}}/getting-started/classes/#divisions-of-tts)
-* [Online Learning University (OLU) Mandatory Training]({{site.baseurl}}/getting-started/classes/#online-learning-university-olu-mandatory-training)
-* [Methods, Tidbits, and Case Studies]({{site.baseurl}}/getting-started/classes/#methods-tidbits-and-case-studies)
+- [Our Values and Principles at TTS]({{site.baseurl}}/getting-started/classes/#our-values-and-principles-at-tts)
+- [Working in the Government]({{site.baseurl}}/getting-started/classes/#working-in-the-government)
+- [Background and Operations at TTS]({{site.baseurl}}/getting-started/classes/#background-and-operations-at-tts)
+- [Divisions of TTS]({{site.baseurl}}/getting-started/classes/#divisions-of-tts)
+- [Online Learning University (OLU) Mandatory Training]({{site.baseurl}}/getting-started/classes/#online-learning-university-olu-mandatory-training)
+- [Methods, Tidbits, and Case Studies]({{site.baseurl}}/getting-started/classes/#methods-tidbits-and-case-studies)
 
 ### Class Formats
 
 Curricula like this can feel a bit overwhelming and exhausting, so we have varied the class format in order to best suit the content and your schedule. The formats include:
 
-* **Video Conference** – (sometimes with a presentation) – TTS leads will talk you through the content and ask questions. *Turning on your camera is highly encouraged but not required.*
-* **Self-guided Doc / Video** – You will be directed to a handbook page, a document, deck, or video to review on your own. *No quiz or test after – we swear.* We set up calendar invites for these, only as reminders — nothing more.
-* **Slack** – Hosted in the #TTS-Classes slack channel at a scheduled time, a lead will post messages overviewing a topic and resources and make space for questions. *Emoji reactions are welcome.*
-* **Coffee (Beta)** – A hybrid of a video conference and slack class, a lead will overview and casually discuss a topic via video conference. A summary and links are shared in the #TTS-Classes slack channel for posterity. *Turning on your camera is highly encouraged but not required.*
+- **Video Conference** – (sometimes with a presentation) – TTS leads will talk you through the content and ask questions. _Turning on your camera is highly encouraged but not required._
+- **Self-guided Doc / Video** – You will be directed to a handbook page, a document, deck, or video to review on your own. _No quiz or test after – we swear._ We set up calendar invites for these, only as reminders — nothing more.
+- **Slack** – Hosted in the #TTS-Classes slack channel at a scheduled time, a lead will post messages overviewing a topic and resources and make space for questions. _Emoji reactions are welcome._
+- **Coffee (Beta)** – A hybrid of a video conference and slack class, a lead will overview and casually discuss a topic via video conference. A summary and links are shared in the #TTS-Classes slack channel for posterity. _Turning on your camera is highly encouraged but not required._
 
 ### Guidance to help you prioritize:
 
-* **Required (and in bold)** - Critical for your onboarding and employment
-* Recommended - Suggested for better understanding TTS
-* As Needed – Additional and valuable context depending on your interests or office
+- **Required (and in bold)** - Critical for your onboarding and employment
+- Recommended - Suggested for better understanding TTS
+- As Needed – Additional and valuable context depending on your interests or office
 
 ## Classes
 
@@ -116,5 +117,5 @@ Check out the [TTS Classes Schedule in Google Calendar](https://calendar.google.
 
 If you have any questions about the class schedule
 
-* Your #newhire channel or #newcomers
-* Ask your onboarding buddy
+- Your #newhire channel or #newcomers
+- Ask your onboarding buddy
