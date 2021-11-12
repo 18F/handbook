@@ -20,7 +20,7 @@ redirect_from:
 
 **Cloud.gov**
 
-- Tock your usual 40 hours to the cloud.gov P&L (#955) generally unless you’re doing billable work for something in 18F.  More specific Tock instructions for Cloud team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
+- cloud.gov is not currently using Tock to record regular work. An exception is billable work performed for 18F.  More specific Tock instructions for Cloud team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
 
 **Centers of Excellence**
 
