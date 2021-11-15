@@ -19,7 +19,7 @@ The **project health tracker** provides insight into some of the common areas wh
 1. Your **Account Manager** (AM) has seen a broad range of projects at 18F and can provide useful calibration and insight into 18F standards. Your AM also understands the context of your project and your team, and knows the players at the partner agency.
 2. Your **Supervisor** or **Facilitator/Lead** knows a great deal about your discipline or domain, and they know you and your professional goals. They can be a great person to bounce ideas off of and offer a second opinion on an approach to your project work.
 3. **Guilds, crit groups, and chapter/portfolio meetings** - these are all great avenues for soliciting peer feedback and troubleshooting challenges on your project.
-4. The **[#c-consulting channel](https://gsa-tts.slack.com/archives/CDVJ9U4K1) and office hours** - get peer feedback on topics related to consulting.
+4. The **[Consulting Guild (#g-consulting)](https://gsa-tts.slack.com/archives/C02GTJ5DT9A)** - get first-line project support from experienced TTS consultants.
 5. The **[#c-18f-project-leadership channel](https://gsa-tts.slack.com/archives/C01JFUE1Y58)** is another great source for peer feedback and troubleshooting for project leads and those interested in becoming project leads.
 
 18F doesn’t really have “typical” projects; each of our consulting engagements is tailored to the partner, their needs, and their constraints. We encourage team members to bring their unique skills, experiences, and perspectives to each project.

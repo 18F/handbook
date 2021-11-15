@@ -70,10 +70,10 @@ On a consulting engagement, you may often find yourself operating on the edges o
 
 Everyone at 18F who works with partners can consider themselves “in consulting.” This means there’s a lot of value to be found in project or chapter discussions across the whole organization. Don’t hesitate to join Slack channels or attend meetings that will help you broaden your experience with 18F projects. The below resources will offer a lot of context for the partner-facing and organizational challenges of consulting projects:
 
+- The [Consulting Guild (#g-consulting)](https://gsa-tts.slack.com/archives/C02GTJ5DT9A) provides opportunities for developing consulting skills like education workshops and pairing sessions, as well as support for partner engagements.
 - [#path-analysis](https://app.slack.com/client/T025AQGAN/C3J7P5MMK) (archived, but still has valuable history)
 - [Project Artifacts repo](https://github.com/18F/path-analysis)
 - [#c-project-resources](https://app.slack.com/client/T025AQGAN/CHZLJBWCV)
-- [#c-consulting](https://app.slack.com/client/T025AQGAN/CDVJ9U4K1) (and its regular meeting)
 
 ### Technical support
 
