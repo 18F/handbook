@@ -35,4 +35,4 @@ We want to help them work in new ways and succeed beyond our time together. In c
 - [Collaborating: we don't do this work alone](https://docs.google.com/presentation/d/1Lm4YbE4yfvn5qfMy7oGNCd1w4pUhMl_I-_EVSQWNFPQ/edit#): overview of 18F's approach to collaborating with partners
 - [Introduction to Consulting Foundations](https://docs.google.com/document/d/1it5-GDhOVk3g6mRfW_6_WaiOJzAfylA3umQebmlBDqs/edit#): in-depth exploration of the animating values of good consultants and a framework for thinking about consulting work
 - [Consulting engineering guide]({{site.baseurl}}/consulting-engineering-guide/): overview of consulting from an engineer's viewpoint
-- [#c-consulting](https://slack.com/app_redirect?channel=c-consulting): an 18F community of practice focused on improving our skills as consultants
+- The [Consulting Guild (#g-consulting)](https://gsa-tts.slack.com/archives/C02GTJ5DT9A): a TTS-wide Guild dedicated to supporting and developing the practice of consulting across TTS

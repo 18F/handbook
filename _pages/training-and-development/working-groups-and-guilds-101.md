@@ -29,13 +29,13 @@ Most working groups will create a Slack channel to coordinate efforts. These cha
   <table class="table-existing-grouplets">
     <tbody>
       <tr>
-        <th class="col-grouplet" id="consulting">TTS Hiring</th>
+        <th class="col-grouplet" id="tts-hiring">TTS Hiring</th>
         <td class="col-description">Improving hiring practices and materials for all of TTS.<br />
           <a href="https://gsa-tts.slack.com/archives/CEHSLF4LB">#wg-tts-hiring</a>
         </td>
       </tr>
       <tr>
-        <th class="col-grouplet" id="consulting">Project Impact</th>
+        <th class="col-grouplet" id="project-impact">Project Impact</th>
         <td class="col-description">Design and test a project/initiative impact assessment that teams would be able to complete at the end of an engagement or between large phases on a project.<br />
           <a href="https://gsa-tts.slack.com/archives/CQLRCVA4Q">#wg-project-health</a>
         </td>
@@ -96,6 +96,15 @@ Remember, you're asking for a substantial commitment of organizational resources
         </td>
       </tr>
       <tr>
+        <th class="col-grouplet" id="consulting">Consulting</th>
+        <td class="col-description">
+          Develop and support the practice of consulting at TTS<br /> <a href="https://gsa-tts.slack.com/archives/C02GTJ5DT9A">#g-consulting</a>
+        </td>
+        <td>
+          Matt Cloyd - 18F
+        </td>
+      </tr>
+      <tr>
         <th class="col-grouplet" id="content">Content</th>
         <td class="col-description">
           We promote concise, elegant, user-centered writing. We plan for the creation, publication, and governance of useful, usable content. <br />
@@ -104,26 +113,6 @@ Remember, you're asking for a substantial commitment of organizational resources
         <td>
           Jeff Durland - 18F<br>
           Ryan Johnson - 18F
-        </td>
-      </tr>
-      <tr>
-        <th id="design-research">Research</th>
-        <td class="col-description">
-          We envision a world where government agencies use research to shape their decision making processes. <br />
-          <a href="https://github.com/18F/g-research/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
-        </td>
-        <td>
-          Ben Peterson - 18F<br>
-          Dave Luetger - 18F
-        </td>
-      </tr>
-      <tr>
-        <th class="col-grouplet" id="consulting">Consulting</th>
-        <td class="col-description">
-          Develop and support the practice of consulting at TTS<br /> <a href="https://gsa-tts.slack.com/archives/CDVJ9U4K1">#c-consulting</a>
-        </td>
-        <td>
-          Matt Cloyd - 18F
         </td>
       </tr>
       <tr>
@@ -146,6 +135,17 @@ Remember, you're asking for a substantial commitment of organizational resources
         <td>
           Davida Marion - 18F<br>
           Eleni Chappen - 18F
+        </td>
+      </tr>
+      <tr>
+        <th id="design-research">Research</th>
+        <td class="col-description">
+          We envision a world where government agencies use research to shape their decision making processes. <br />
+          <a href="https://github.com/18F/g-research/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
+        </td>
+        <td>
+          Ben Peterson - 18F<br>
+          Dave Luetger - 18F
         </td>
       </tr>
       <tr>

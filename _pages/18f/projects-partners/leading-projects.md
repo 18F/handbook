@@ -144,9 +144,10 @@ Your first lines of support are the folks you have 1:1s with weekly: the project
 - If you need documentation, look to this handbook and our [guides](https://18f.gsa.gov/guides/).
 - If you need support in a specific skill set, help with deliverables, or would like to have someone facilitate a session, get help by using [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW).
 - If your project is part of a portfolio, the portfolio director and your colleagues in the portfolio can be a great resource.
-- If you need advice or coaching, look to the chapters ([#product](https://gsa-tts.slack.com/archives/C02ABDXUN), [#design](https://gsa-tts.slack.com/archives/C02AUUQ8R), [#acquisition](https://gsa-tts.slack.com/archives/C054NH1FW), and [#dev](https://gsa-tts.slack.com/archives/C02CD5VUQ) as well as our [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/). Each of them have a corresponding Slack channel you can jump into any time. There's also:
+- If you need advice or coaching, look to the chapters ([#product](https://gsa-tts.slack.com/archives/C02ABDXUN), [#design](https://gsa-tts.slack.com/archives/C02AUUQ8R), [#acquisition](https://gsa-tts.slack.com/archives/C054NH1FW), and [#dev](https://gsa-tts.slack.com/archives/C02CD5VUQ) as well as our [guilds and working groups]({{site.baseurl}}/working-groups-and-guilds-101/). Each of them have a corresponding Slack channel you can jump into any time.
+- The [Consulting Guild (#g-consulting)](https://gsa-tts.slack.com/archives/C02GTJ5DT9A) may be able to pair you with another TTS consultant to provide support, including but not limited to observing meetings with the partner and providing feedback and advice. Request help in the [#g-consulting](https://gsa-tts.slack.com/archives/C02GTJ5DT9A) channel.
+- There's also:
   - [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5)
-  - [#c-consulting](https://gsa-tts.slack.com/archives/CDVJ9U4K1)
   - [#c-project-resources](https://gsa-tts.slack.com/archives/CHZLJBWCV)
   - [#c-18f-project-leadership](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
 
