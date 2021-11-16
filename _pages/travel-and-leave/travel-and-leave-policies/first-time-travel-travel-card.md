@@ -34,7 +34,7 @@ _Est. time: 60 minutes_
 
 _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
-1. Download the [Supervisory Travel Card Approval Form](https://insite.gsa.gov/cdnstatic/Supervisory%20Travel%20Card%20Approval%20Form%20-%20GSA7662-19.pdf) and fill out the following fields.
+1. Download the [Supervisory Travel Card Approval Form](https://insite.gsa.gov/node/159350) and fill out the following fields.
 
 - **Employee Name:** Your name
 - **Region/Central Office:** Central Office, regardless of your actual location
