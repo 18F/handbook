@@ -37,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-We will share open positions as they become available. 
+We will share open positions as they become available.
 
 ### Internal only opportunities
 
