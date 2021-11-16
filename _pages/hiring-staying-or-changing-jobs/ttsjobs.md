@@ -37,16 +37,13 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-- [Centers of Excellence - Modernization Lead (IT Specialist)](https://join.tts.gsa.gov/join/coe-modernization-lead/) - open Friday, October 29th until Monday, November 15th
-- [Technology Transformation Services Engineer (IT Specialist)](https://join.tts.gsa.gov/join/tts-engineer/) - open Friday, October 29th until Monday, November 15th
-- [Technology Transformation Services Product Manager/Project Manager (IT Specialist)](https://join.tts.gsa.gov/join/tts-product-project-manager/) - open Friday, October 29th until Monday, November 15th
-- [U.S. Digital Corps Fellows](https://digitalcorps.gsa.gov/apply/) - open Monday, November 8th until 11:59pm ET on November 15th or at 11:59pm ET on the day that 300 applications in that track are received, whichever comes first
+We will share open positions as they become available. 
 
 ### Internal only opportunities
 
 - [GSA WIDE: American Rescue Plan (ARP) Project Coordinator Detail](https://docs.google.com/document/d/1NUXetv6Z_pmlS_5WKVP1-YPTaK0IfLod08bBPorZnIw/edit#) - open Wednesday, October 27th until Friday, November 19th
-- [TTS WIDE: TTS Leadership DEI&A Representative Detail](https://docs.google.com/document/d/1tJQSywrjZRfjgDVOf6cCH_MqVVjFIf-okym9Yk3_asU/edit#) - open Monday, November 1st until Friday, November 12th
-- [TTS WIDE: Various positions 10x](https://docs.google.com/document/d/1Qj35ard4yww_86Ikw23FhIUgEGyiECDb074ZrFj3uDU/edit#) - open Monday, November 8 until Tuesday November 16th
+- [TTS WIDE: TTS Leadership DEI&A Representative Detail](https://docs.google.com/document/d/1tJQSywrjZRfjgDVOf6cCH_MqVVjFIf-okym9Yk3_asU/edit#) - open Monday, November 1st until Friday, November 26th
+- [TTS WIDE: Various positions 10x](https://docs.google.com/document/d/1Qj35ard4yww_86Ikw23FhIUgEGyiECDb074ZrFj3uDU/edit#) - open Monday, November 8th until Tuesday November 16th
 
 ### Open to all federal employees
 
