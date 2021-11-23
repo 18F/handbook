@@ -27,6 +27,20 @@ TTS is part of GSA's Federal Acquisition Service (FAS) and contains several offi
 - **Presidential Innovation Fellows (PIF)** is a fellowship that embeds talented, diverse technologists and innovators within federal agencies as yearlong entrerpreneurs in residence. Together with agency leaders, PIFs improve the way our government designs, develops, and delivers services for the public.
 - **Office of Acquisition** drives smarter technology procurement through technical procurement consultations, new procurement vehicle creation, and the development of experimental procurement platforms and methodologies.
 
+## What Success Looks Like
+
+- **Enjoying Work**  
+  We make it possible for the public and public servants to enjoy working with government technology and technologists.
+
+- **Looking Ahead**  
+  We use technology to help solve the government’s biggest challenges of our time, and look ahead to the challenges of tomorrow.
+
+- **Mindfulness**  
+  We design and operate from a foundation of diversity, equity, inclusion, accessibility, justice, and belonging in all things we do.
+
+- **Continuous Improvement**  
+  TTS is a place where people feel psychologically safe, can make a positive impact on society, and are better for their time spent here.
+
 ## Our values
 
 - **Inclusion**  
