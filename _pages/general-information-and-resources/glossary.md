@@ -120,6 +120,8 @@ redirect_from:
 
 * **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
 
+- **JAB** - Joint Authorization Board. The primary governing body for FedRAMP; can grant [provisional authorizations](https://www.fedramp.gov/jab-authorization/).
+
 - **MVP** - Minimum Viable Product.
 
 - **MOU** - Memorandum of understanding.
@@ -155,6 +157,8 @@ redirect_from:
 - **PII** - Personally Identifiable Information.
 
 - **PMO** - Project (or Program) Management Office, a temporary office to focus on a special funding project.
+
+- **POAM** - Plan of Action and Milestones, also POA&M. A document created as part of the ATO process that specifies any weaknesses in a system’s security and/or compliance that should be addressed, and a plan and milestones for how that will be done.
 
 - **PoP** - Period of Performance. Time window for an IAA.
 
