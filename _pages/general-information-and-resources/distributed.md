@@ -56,10 +56,6 @@ To get a one time password (OTP, required for logging in to some systems), you c
 - Setup a [SecureAuth OTP Application](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology/secureauth).
 - Visit [otp.gsa.gov](https://otp.gsa.gov).
 
-### Listen to and participate in the weekly Tuesday all-hands meeting?
-
-We use a videocall for our all-hands meetings. Instructions are in the calendar event details.
-
 ### Visit another GSA building?
 
 Your badge should work in other GSA buildings. <a href="https://gsa-tts.slack.com/messages/@kathryn/">Kathryn Connolly</a> can submit paperwork to get permission for you to enter the NYC, Chicago, or D.C. buildings, which will take a few days. After you receive an email confirmation, visit the security office in that new building to activate your card.
@@ -92,7 +88,6 @@ From Peter Karman and Becky Sweger:
 
 ## Keeping in touch
 
-- **Log into the weekly all-hands meeting a few minutes early.** It's a good chance to see faces and chat before the meeting starts.
 - **Over communicate.** Working remote means you can't rely on your physical presence to communicate to everyone else whether or not you're "at work." For 18F team members, use the [18F Out of Office (OOO) calendar](https://www.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com&ctz=America/New_York) if you're assigned to an office and working remotely or if you're working in a different place than usual. On phone calls, don't be afraid to jump in and tell people if you can't hear.
 - **Schedule (virtual) coffee with other TTSers.** People who work out of GSA offices will do this from time to time, and you should, too. Ask people out to virtual coffee/tea and get to know each other!
 
