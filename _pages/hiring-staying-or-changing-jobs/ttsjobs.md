@@ -41,7 +41,6 @@ We will share open positions as they become available.
 
 ### Internal only opportunities
 
-- [GSA WIDE: American Rescue Plan (ARP) Project Coordinator Detail](https://docs.google.com/document/d/1NUXetv6Z_pmlS_5WKVP1-YPTaK0IfLod08bBPorZnIw/edit#) - open Wednesday, October 27th until Friday, November 19th
 - [TTS WIDE: TTS Leadership DEI&A Representative Detail](https://docs.google.com/document/d/1tJQSywrjZRfjgDVOf6cCH_MqVVjFIf-okym9Yk3_asU/edit#) - open Monday, November 1st until Friday, November 26th
 
 ### Open to all federal employees
