@@ -41,6 +41,8 @@ We will share open positions as they become available.
 
 ### Internal only opportunities
 
+We will share open opportunities as they become available.
+
 ### Open to all federal employees
 
 We will share open positions as they are available.
