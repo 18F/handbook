@@ -124,7 +124,7 @@ redirect_from:
 
 - **IaC** - Infrastructure as Code. A technique allowing a software engineer to write code that defines IT infrastructure, like, definitions of servers needed by a project. The code can be read by a machine that then provisions the needed server.
 
-- **Integrity** - means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
+- **Integrity** - means the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
 
 - **ISSO** - Information System Security Officer.
 
@@ -196,7 +196,7 @@ redirect_from:
 
 - **SES** - Senior Executive Service. 
 
-- **Ship** - To produce and distribute code or some other product of work. Also, the _Weekly Ship_ newsletter about a particular project, telling what the that team shipped that week.
+- **Ship** - To produce and distribute code or some other product of work. Also, the _Weekly Ship_ newsletter about a particular project, telling what that team shipped that week.
 
 - **SME** - Subject Matter Expert. Specialist with expertise in a particular discipline or subject matter.
 
