@@ -194,7 +194,7 @@ redirect_from:
 
 - **Scrum master** - The facilitator for an agile development team.
 
-- **SES** - Senior Executive Service. 
+- **SES** - Senior Executive Service.
 
 - **Ship** - To produce and distribute code or some other product of work. Also, the _Weekly Ship_ newsletter about a particular project, telling what that team shipped that week.
 
