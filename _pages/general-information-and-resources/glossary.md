@@ -31,6 +31,8 @@ redirect_from:
 
 - **ASF** - Acquisition Services Fund. One source of TTS funding.
 
+- **AT** - Assistive Technology. Includes accessibility software.
+
 - **ATO** - Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Learn more about ATOs in the [Before You Ship guide](https://before-you-ship.18f.gov/ato/).
 
 - **Availability** means the availability of the services we provide. If an app goes down or something we expect to be running stops running, those are availability issues. This only refers to production systems (it's fine if your demo app crashes), and only to unexpected downtime. If you decide to shut something down temporarily for maintenance — go for it, not an incident.
@@ -45,6 +47,8 @@ redirect_from:
   - Gather all of the information for search to work
   - Trigger emails being sent
 
+- **BOC** - Budget Object Code. Used for accounting.
+
 - **CI/CD** - Continuous Integration/Continuous Deployment. Automated software testing (CI) practiced along with automated deployment of frequent, small changes to software (CD).
 
 - **Clients and Markets** - Clients and Markets is a division within TTS that provides consulting services to government agencies. The TTS communications team is also part of the division. The following offices and teams are part of Clients and Markets: 18F, Centers of Excellence, Client Development, Outreach, and Presidential Innovation Fellows.
@@ -57,7 +61,7 @@ redirect_from:
 
 - **Color of money** - Slang for the legal parameters around how federal money for goods or services can be spent. This usually comes up in the context of inter-agency agreements with other federal agencies. The different “colors” of money include multi-year, no year, or one year money.
 
-* **Confidentiality** - means: secrets. Personal information (PII) — names, phone numbers, social security numbers, etc — is one kind of secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that confidential information may have been leaked outside TTS, you should open an incident.
+- **Confidentiality** - means: secrets. Personal information (PII) — names, phone numbers, social security numbers, etc — is one kind of secret, but so are your passwords, service credentials, internal non-public documents, etc. Any time you suspect that confidential information may have been leaked outside TTS, you should open an incident.
 
 - **COOP** - Continuity of Operations Plan, a plan for emergency situations like natural disasters.
 
@@ -72,6 +76,8 @@ redirect_from:
 - **DAP** - Digital Analytics Program. A GSA service that provides a web analytics tool and training on how to use it.
 
 - **Dev** - Someone who does software development. A "coder."
+
+- **DevOps** - Development and Operations. Practices or people who work on or seek to improve software delivery using (for example) CI/CD.
 
 - **[Digital Gov](https://digital.gov/)** - A platform to help those in agencies working on providing digital services and information for the public. Posts information on what government is doing in digital, general digital news, trends and issues on implementing digital for the public.
 
@@ -118,7 +124,11 @@ redirect_from:
 
 - **IaC** - Infrastructure as Code. A technique allowing a software engineer to write code that defines IT infrastructure, like, definitions of servers needed by a project. The code can be read by a machine that then provisions the needed server.
 
-* **Integrity** means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
+- **Integrity** - means the the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
+
+- **ISSO** - Information System Security Officer.
+
+- **IV&V** - Independent Verification and Validation.
 
 - **JAB** - Joint Authorization Board. The primary governing body for FedRAMP; can grant [provisional authorizations](https://www.fedramp.gov/jab-authorization/).
 
@@ -127,6 +137,8 @@ redirect_from:
 - **MOU** - Memorandum of understanding.
 
 - **NEO** - New Employee Orientation.
+
+- **OA** - Office of Acquisition.
 
 - **OAuth** - Open Authorization. An open standard for authentication and authorization, which allows a user's account information to be used by third-party services without exposing their password.
 
@@ -160,11 +172,17 @@ redirect_from:
 
 - **POAM** - Plan of Action and Milestones, also POA&M. A document created as part of the ATO process that specifies any weaknesses in a system’s security and/or compliance that should be addressed, and a plan and milestones for how that will be done.
 
+- **PoC** - Proof of Concept. An exercise to test the real-world potential of an idea.
+
+- **PoC** - Point of Contact.
+
 - **PoP** - Period of Performance. Time window for an IAA.
 
 - **PR** - Pull Request. When a software developer makes a change to some code, they then create a PR to request that their code be accepted into the project's repo.
 
 - **PRA** - The Paperwork Reduction Act, enacted in 1980, aims to reduce the burden of federally imposed paperwork for U.S. businesses and the public.
+
+- **PMA** - President's Management Agenda.
 
 - **Product Manager** - Product managers ensure that the right product is built at the right time and for the right people. They establish a product vision and help their teams translate that vision into reality by creating and maintaining product roadmaps, deeply understanding users, technology, and business context, and prioritizing design and development tasks accordingly.
 
@@ -175,6 +193,8 @@ redirect_from:
 - **SaaS** - Software as a Service. Individuals or agencies subscribe to an application, and then access it over the internet. Most online applications, such as Salesforce and Google Drive, fall into this category. Need to purchase a SaaS product? [Here's how to get software]({{site.baseurl}}/software/).
 
 - **Scrum master** - The facilitator for an agile development team.
+
+- **SES** - Senior Executive Service. 
 
 - **Ship** - To produce and distribute code or some other product of work. Also, the _Weekly Ship_ newsletter about a particular project, telling what the that team shipped that week.
 
@@ -190,6 +210,8 @@ redirect_from:
 
 - **SSP** - System Security Plan.
 
+- **TK** - To Come, misspelled. Placeholder text used in draft documents.
+
 - **TTS** - The [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) aim to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public. This is the TTS Handbook, and you're probably reading it because you're an employee of TTS. TTS is part of FAS, which is part of GSA.
 
 - **USDS** - The [United States Digital Service](https://www.usds.gov/) is a startup at The White House, using design and technology to deliver better services to the American people.
@@ -202,8 +224,11 @@ redirect_from:
 
 - **WCAG** - Web Content Accessibility Guidelines for web developers and designers to build inclusive software.
 
+- **WiP** - Work in Progress.
+
 ## More
 
 - [This Ars Technica article](https://arstechnica.com/uncategorized/2012/03/cracking-the-cloud-an-amazon-web-services-primer/) is a good primer on Amazon Web Services jargon.
 - [Here's an additional library of government acronyms](https://github.com/unitedstates/acronym).
+- [This is Login.gov's glossary](https://handbook.login.gov/articles/glossary.html)
 - [This is GitHub's glossary](https://help.github.com/articles/github-glossary/)
