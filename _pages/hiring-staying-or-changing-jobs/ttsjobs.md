@@ -41,7 +41,7 @@ We will share open positions as they become available.
 
 ### Internal only opportunities
 
-We will share open opportunities as they become available.
+TTS WIDE: [TTS Leadership DEI&A Representative](https://docs.google.com/document/d/1tJQSywrjZRfjgDVOf6cCH_MqVVjFIf-okym9Yk3_asU/edit) - open Monday, December 6th through Friday, December 17th
 
 ### Open to all federal employees
 
