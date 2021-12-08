@@ -25,7 +25,7 @@ redirect_from:
   - /leave/
 ---
 
-This page provides instructions for entering leave requests (also known as absence requests) in [HR Links](hrlinks.gsa.gov) and information on the various types of leave.
+This page provides instructions for entering leave requests (also known as absence requests) in [HR Links](https://corporateapps.gsa.gov/hr-links/) and information on the various types of leave.
 
 You can also see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#employee-express).
 
@@ -182,7 +182,7 @@ Paid Parental Leave (PPL) provides that an employee may substitute 12 administra
 
 1. [Paid Parental Leave Request form](https://drive.google.com/file/d/1fKcnu4idW2BTpdb9GIXw8rlYySHoGzRf/view)
 2. [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view), and
-3. On the Self-Service tile in [HR Links](https://hrlinks.gsa.gov/), run a TRC report for FMLA for the prior calendar year
+3. On the Self-Service tile in [HR Links](https://corporateapps.gsa.gov/hr-links/), run a TRC report for FMLA for the prior calendar year
    - For assistance on running the report, reach out to tts-peopleops@gsa.gov
 4. [Supporting documentation](https://drive.google.com/file/d/1bVEm_VjfW6w0jZZZxnhysOemURVv43Bd/view) to show childbirth, adoption, foster care.
    - In the event of a childbirth(s), supporting documentation can be provided afterward
