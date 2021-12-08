@@ -183,9 +183,9 @@ Paid Parental Leave (PPL) provides that an employee may substitute 12 administra
 1. [Paid Parental Leave Request form](https://drive.google.com/file/d/1fKcnu4idW2BTpdb9GIXw8rlYySHoGzRf/view)
 2. [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view), and
 3. On the Self-Service tile in [HR Links](hrlinks.gsa.gov), run a TRC report for FMLA for the prior calendar year
-   * For assistance on running the report, reach out to tts-peopleops@gsa.gov
+   - For assistance on running the report, reach out to tts-peopleops@gsa.gov
 4. [Supporting documentation](https://drive.google.com/file/d/1bVEm_VjfW6w0jZZZxnhysOemURVv43Bd/view) to show childbirth, adoption, foster care.
-   * In the event of a childbirth(s), supporting documentation can be provided afterward
+   - In the event of a childbirth(s), supporting documentation can be provided afterward
 
 **NOTE:** PDF forms above should be downloaded and opened in Adobe Acrobat before filling out and saving
 
