@@ -174,23 +174,30 @@ Once approvals are received, please submit a copy of the email thread to [TTS-pe
 ### Federal Employee Paid Leave Act (Paid Parental Leave)
 
 The Federal Employee Paid Leave Act (FEPLA) gives workers access to up to 12 weeks of paid time off for the birth, adoption or placement of a new child.
-Paid Parental Leave (PPL) provides that an employee may substitute 12 administrative workweeks (480 hours) of paid parental leave for Family and Medical Leave Act leave. Employees need to fill out the:
+Paid Parental Leave (PPL) provides that an employee may substitute 12 administrative workweeks (480 hours) of paid parental leave for Family and Medical Leave Act leave.
+
+## Items that Employee needs to fill out and gather to request PPL:
 
 1. [Paid Parental Leave Request form](https://drive.google.com/file/d/1fKcnu4idW2BTpdb9GIXw8rlYySHoGzRf/view)
 2. [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view), and
-3. Either a completed [WH-380-E](https://drive.google.com/file/d/1B1OINFkmxroMlgS-WVwyuf6wsBx7aRF8/view), or a medical certificate from their provider
+3. On the Self-Service tile in [HR Links](hrlinks.gsa.gov), run a TRC report for FMLA for the prior calendar year
+  - For assistance on running the report, reach out to tts-peopleops@gsa.gov
+4. [Supporting documentation](https://drive.google.com/file/d/1bVEm_VjfW6w0jZZZxnhysOemURVv43Bd/view) to show childbirth, adoption, foster care.
+  - In the event of a childbirth(s), supporting documentation can be provided afterward
 
-The three forms should be returned to the [Leave Policies HR specialist for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit). That Specialist can coordinate with the supervisor and recommend approval or not of the PPL.
+**NOTE:** PDF forms above should be downloaded and opened in Adobe Acrobat before filling out and saving
 
-**Please note:** HR Links now has temporary Paid Parental Leave (PPL) Codes in the system that are effective as of 10/1/2020 for amendments. As a reminder, employees need to be approved for PPL by their servicing ER specialist before using PPL. Once approved, an employee will select Other Paid Absence in Absence Type and select one of the three following reason codes:
+Return the first three items above to the [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who supports TTS. That Specialist can coordinate with the supervisor and recommend approval or not of the PPL.
 
-- Paid Parental Leave Adoption
-- Paid Parental Leave Child
-- Paid Parental Leave Foster
+As a reminder, employees need to be approved for PPL by their servicing [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) before using PPL.
 
-Once the PPL codes are available in HR Links, HR will notify the employee. Their timekeeper and the employee/supervisor can amend the time cards retroactively to apply Paid Parental Leave to the employee's time card(s), and they will be credited for the leave they have taken under PPL-FMLA. FMLA **must** be in the initial leave category requested, or else PPL **cannot** be retroactively applied to this leave.
+## Documentation
+
+## Entering Paid Parental Leave in HR Links
 
 **_An employee is only entitled to up to 12 workweeks of unpaid leave during any 12-month period. If they previously used FMLA leave during the same 12 month period, this needs to be subtracted from the 480 hour entitlement._**
+
+This [HR Links guide](https://corporateapps.gsa.gov/files/Paid-Parental-Leave-Employee-Job-Aid.pdf) has instructions on how to enter paid parental leave requests.
 
 Annual Leave + Sick Leave: Employees are entitled to use their earned annual and sick leave for parental/maternity leave reasons. This would be _regular_ Annual Leave and _regular_ Sick Leave. Please note, though, that if these _regular_ leave options are used (without the FMLA extension), the PPL **cannot** be retroactively applied towards the parental/maternity leave.
 
