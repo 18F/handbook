@@ -8,6 +8,7 @@ tags:
 redirect_from:
   - /voluntary-leave-transfer-program/
 ---
+
 This page provides instructions for enrolling in and donating to the Voluntary Leave Transfer Program (VLTP). Please reference the [OPM VLTP page](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) for more information.
 
 Under the VLTP, an employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave.
@@ -23,13 +24,15 @@ AND
 OR
 
 3. A medical condition of an employee or family member of the employee is likely to require the employee's absence from duty for a prolonged period of time and to result in a substantial loss of income to the employee because of the unavailability of paid leave.
+
 - A "substantial loss of income" is an absence (or expected absence) from duty without available paid leave for at least 24 work hours for a full-time employee
 
 ## Enrolling in VLTP to receive donated hours
 
 1. Employee requesting donated hours completes the VLTP application [OPM Form 630](https://www.opm.gov/forms/pdf_fill/opm630.pdf) and emails it to the [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who supports TTS along with supporting medical documentation (i.e. doctor’s note)
+
 - Immediate supervisor or authorized representative can fill out the form on behalf of the employee
-- **_NOTE:_** When filled out in the browser, the form can only be saved by clicking the "Save Form" button at the bottom of the PDF.  It is recommended that you download the form instead, open it in Adobe Acrobat, and "Save As" a copy once it's been filled out.
+- **_NOTE:_** When filled out in the browser, the form can only be saved by clicking the "Save Form" button at the bottom of the PDF. It is recommended that you download the form instead, open it in Adobe Acrobat, and "Save As" a copy once it's been filled out.
 
 2. The Workforce Relations HR Specialist will provide the applicant's OPM Form 630 to the immediate supervisor for review
 
