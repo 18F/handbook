@@ -185,7 +185,7 @@ Paid Parental Leave (PPL) provides that an employee may substitute 12 administra
 3. On the Self-Service tile in [HR Links](https://corporateapps.gsa.gov/hr-links/), run a TRC report for FMLA for the prior calendar year
    - For assistance on running the report, reach out to tts-peopleops@gsa.gov
 4. [Supporting documentation](https://drive.google.com/file/d/1bVEm_VjfW6w0jZZZxnhysOemURVv43Bd/view) to show childbirth, adoption, foster care.
-   - In the event of a childbirth(s), supporting documentation can be provided afterward
+   - In the event of a childbirth(s) or placement, employee can provide date of birth/placement to the [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) for provisional approval with supporting documentation (outlined above) to follow
 
 **NOTE:** PDF forms above should be downloaded and opened in Adobe Acrobat before filling out and saving
 
