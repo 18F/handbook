@@ -15,15 +15,15 @@ Under the VLTP, an employee may donate annual leave directly to another employee
 
 ## Eligibility for VLTP
 
-1. To be eligible for VLTP, employee must have exhausted all leave balances (annual, sick, award) and have an anticipated negative balance of at least 24 leave hours
+To be eligible for VLTP, employee must have exhausted all leave balances (annual, sick, award) and have an anticipated negative balance of at least 24 leave hours
 
 AND
 
-2. Employee has experienced a medical emergency.
+A) Employee has experienced a medical emergency.
 
 OR
 
-3. A medical condition of an employee or family member of the employee is likely to require the employee's absence from duty for a prolonged period of time and to result in a substantial loss of income to the employee because of the unavailability of paid leave.
+B) A medical condition of an employee or family member of the employee is likely to require the employee's absence from duty for a prolonged period of time and to result in a substantial loss of income to the employee because of the unavailability of paid leave.
 
 - A "substantial loss of income" is an absence (or expected absence) from duty without available paid leave for at least 24 work hours for a full-time employee
 
