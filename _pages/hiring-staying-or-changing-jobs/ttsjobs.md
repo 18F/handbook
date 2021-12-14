@@ -43,6 +43,8 @@ We will share open positions as they become available.
 
 TTS WIDE: [TTS Leadership DEI&A Representative](https://docs.google.com/document/d/1tJQSywrjZRfjgDVOf6cCH_MqVVjFIf-okym9Yk3_asU/edit) - open Monday, December 6th through Friday, December 17th
 
+TTS WIDE: [TTS Talent Onboarding Detail](https://docs.google.com/document/d/1zk0NAtJlSsmoeRnwKGBaaa0v_E-NW4tuMrO8jbmdbj4/edit?usp=sharing) - open Tuesday, December 14th through Tuesday, December 21st
+
 ### Open to all federal employees
 
 We will share open positions as they are available.
