@@ -5,7 +5,7 @@ tags:
   - hrlinks
   - hr links
   - hr links
-  - aloha
+
   - vacation
   - funeral
   - death
@@ -80,9 +80,8 @@ It’s simple, but slightly counter-intuitive. Here’s how:
 - AWS schedules are automatically factored into HR Links timekeeping
 - ETAMS/reconciliation is no longer needed because time off requests and time cards are linked in HR Links
 - Leave Without Pay (LWOP) can be requested in HR Links
-- Court leave can be requested in HR Links; this was not a feature in Aloha
+- Court leave can be requested in HR Links;
 - Clicking Absence/OT history shows all requests
-- Aloha is now in read-only mode; your time off history can be found there
 - HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. [Federalretirement.net](https://www.federalretirement.net/leave-record.htm) has an easy to use spreadsheet that employees may use as a back up to HRLinks.
 
 ## Leave
@@ -280,7 +279,7 @@ In cases of serious disability or ailment, and when the exigencies of the situat
 
 - Authorized absence without charge to leave or pay
 - Must be officially requested to serve in a judicial proceeding to which the Federal, a state, or local government is party
-- Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/); this option was not previously available in Aloha.
+- Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/);
 
 ## Administrative leave
 

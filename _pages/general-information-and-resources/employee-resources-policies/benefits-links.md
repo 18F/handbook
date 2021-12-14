@@ -1,7 +1,6 @@
 ---
 title: Benefits links and resources
 tags:
-  - aloha
   - vacation
   - leave
   - loan
