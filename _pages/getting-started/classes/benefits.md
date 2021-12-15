@@ -16,17 +16,23 @@ Follow [these instructions](https://docs.google.com/presentation/d/151w2MOgtbisk
 
 ### Current employees
 
-Email [cpc.employeedocuments@gsa.gov](mailto:cpc.employeedocuments@gsa.gov) when you're submitting documents due to a change in life event (such as getting married or having a child).
+If you are revising benefits due to a change in life event (for example, getting married or having a child), you have from 30 days before the event to 60 days after the event to make changes. Outside of this window, you will need to wait for the annual open enrollment period to adjust your benefits. Some life event changes require documentation, such as a marriage license. You may start the form and return to it once you have the required documentation.
 
-You can find these documents by logging onto HR Links and selecting the following:
+#### Healthcare plan
 
-- Benefits Library icon
-- Forms Center
-- Select "Health Benefits Enrollment"
-  - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissible Changes."
-- Once you click "Submit," the documents get sent to the cpc benefits team where they can review and process these actions
+Log into HR Links and navigate to the Life Event section:
 
-_NOTE:_ When filling out your benefit forms, you can use digital signatures on enrollment forms, including a copied-and-pasted version of your handwritten signature. The only benefit documents that **cannot be submitted** with digital signatures are [beneficiary forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part).
+- Compass (upper right hand corner)
+- Navigator
+- Self Service
+- Benefits
+- Life Event
+
+From there, you will be asked to select a life event. You will be walked through the process to upload documents, add beneficiaries (family members on your insurance), and change plans.
+
+#### Dental and vision plan
+
+You may change your dental and vision plan and beneficiaries by logging into your BENEFEDS account online or by calling 1-877-888-3337.
 
 ## Benefits contacts
 
