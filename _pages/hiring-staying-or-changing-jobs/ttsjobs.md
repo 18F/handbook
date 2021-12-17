@@ -20,13 +20,14 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
+
 This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion Process
-* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and local government agencies
+- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+- Hiring actions using the Excepted Service version of the Merit Promotion Process
+- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+- Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -46,14 +47,14 @@ TTS WIDE: [TTS Talent Onboarding Detail](https://docs.google.com/document/d/1zk0
 
 GSA WIDE: [TTS Program Analyst ](https://www.usajobs.gov/job/627581800)- open Friday, December 17th through Monday, January 3rd
 
-* The following teams are hiring for the TTS Program Analyst position. Please see more information below:[](https://docs.google.com/document/d/18YUf-mSObwwq3vMGhCEI7s30_gGS_YXBsYG9r34ifOo/edit)
+- The following teams are hiring for the TTS Program Analyst position. Please see more information below:[](https://docs.google.com/document/d/18YUf-mSObwwq3vMGhCEI7s30_gGS_YXBsYG9r34ifOo/edit)
 
-  * [Biz Ops](https://docs.google.com/document/d/18YUf-mSObwwq3vMGhCEI7s30_gGS_YXBsYG9r34ifOo/edit)
-  * [PeopleOps](https://docs.google.com/document/d/1DOT7vRBG2ZYUCnfPdkc065qS-oLWAK_c1NveWsKsQ9k/edit)
-  * [Talent](https://docs.google.com/document/d/1rMyoeB7tU-OhELUPhCV6tGjsxthQLQy4nu1ptjdqIOU/edit)
-  * [FedRAMP](https://docs.google.com/document/d/1WWgs5y6U0lyzQshLVNy6lIw1ifEo7smy1Ojrc_DnhC8/edit)
-  * [USAGov](https://docs.google.com/document/d/1bAShuvGBFOCdtGg82kON2vBblOWhuvyCr58QNrflUMA/edit)
-  * [ARP](https://docs.google.com/document/d/1wLTwyWauzPFMcu8yVM9UWZsZwWS1E4YU7mBei-WUmQA/edit)
+  - [Biz Ops](https://docs.google.com/document/d/18YUf-mSObwwq3vMGhCEI7s30_gGS_YXBsYG9r34ifOo/edit)
+  - [PeopleOps](https://docs.google.com/document/d/1DOT7vRBG2ZYUCnfPdkc065qS-oLWAK_c1NveWsKsQ9k/edit)
+  - [Talent](https://docs.google.com/document/d/1rMyoeB7tU-OhELUPhCV6tGjsxthQLQy4nu1ptjdqIOU/edit)
+  - [FedRAMP](https://docs.google.com/document/d/1WWgs5y6U0lyzQshLVNy6lIw1ifEo7smy1Ojrc_DnhC8/edit)
+  - [USAGov](https://docs.google.com/document/d/1bAShuvGBFOCdtGg82kON2vBblOWhuvyCr58QNrflUMA/edit)
+  - [ARP](https://docs.google.com/document/d/1wLTwyWauzPFMcu8yVM9UWZsZwWS1E4YU7mBei-WUmQA/edit)
 
 ### Open to all federal employees
 
@@ -69,7 +70,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
-- - -
+---
 
 ### Still have questions?
 
