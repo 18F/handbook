@@ -41,7 +41,7 @@ We will share open positions as they become available.
 
 ### Internal only opportunities
 
-GSA WIDE: [TTS Program Analyst ](https://www.usajobs.gov/job/627581800)- open Friday, December 17th through Monday, January 3rd
+GSA WIDE: [TTS Program Analyst (Merit Promotion)](https://www.usajobs.gov/job/627581800)- open Friday, December 17th through Monday, January 3rd
 
 - The following teams are hiring for the TTS Program Analyst position. Please see more information below:
 
