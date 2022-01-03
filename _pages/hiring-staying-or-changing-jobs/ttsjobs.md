@@ -54,8 +54,6 @@ We will share open positions as they become available.
 
 TTS WIDE: [Cloud.gov Product Manager Detail](https://docs.google.com/document/d/1uKCtmbsN-lkvHKU9jeMpkxYL6muAxitMwKICgM04fTE/edit)- open Monday, January 3rd through Monday, January 10th
 
-
-
 ### Open to all federal employees
 
 We will share open positions as they are available.
