@@ -37,10 +37,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-We will share open positions as they become available.
-
-### Internal only opportunities
-
 GSA WIDE: [TTS Program Analyst (Merit Promotion)](https://www.usajobs.gov/job/627581800)- open Friday, December 17th through Monday, January 3rd
 
 - The following teams are hiring for the TTS Program Analyst position. Please see more information below:
@@ -51,6 +47,14 @@ GSA WIDE: [TTS Program Analyst (Merit Promotion)](https://www.usajobs.gov/job/62
   - [FedRAMP](https://docs.google.com/document/d/1WWgs5y6U0lyzQshLVNy6lIw1ifEo7smy1Ojrc_DnhC8/edit)
   - [USAGov](https://docs.google.com/document/d/1bAShuvGBFOCdtGg82kON2vBblOWhuvyCr58QNrflUMA/edit)
   - [ARP](https://docs.google.com/document/d/1wLTwyWauzPFMcu8yVM9UWZsZwWS1E4YU7mBei-WUmQA/edit)
+
+We will share open positions as they become available.
+
+### Internal only opportunities
+
+TTS WIDE: [Cloud.gov Product Manager Detail](https://docs.google.com/document/d/1uKCtmbsN-lkvHKU9jeMpkxYL6muAxitMwKICgM04fTE/edit)- open Monday, January 3rd through Monday, January 10th
+
+TTS WIDE: [Cloud.gov Pages Engineer Detail](https://docs.google.com/document/d/1aJHTZusdIKxBpOQiXQrS8LLRjoH524YjwPXDrBs77Yo/edit#)- open Monday, January 3rd through Monday, January 10th
 
 ### Open to all federal employees
 
