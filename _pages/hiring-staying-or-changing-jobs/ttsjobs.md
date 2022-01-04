@@ -37,18 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Open
 
-GSA WIDE: [TTS Program Analyst (Merit Promotion)](https://www.usajobs.gov/job/627581800)- open Friday, December 17th through Monday, January 3rd
-
-- The following teams are hiring for the TTS Program Analyst position. Please see more information below:
-
-  - [Biz Ops](https://docs.google.com/document/d/18YUf-mSObwwq3vMGhCEI7s30_gGS_YXBsYG9r34ifOo/edit)
-  - [PeopleOps](https://docs.google.com/document/d/1DOT7vRBG2ZYUCnfPdkc065qS-oLWAK_c1NveWsKsQ9k/edit)
-  - [Talent](https://docs.google.com/document/d/1rMyoeB7tU-OhELUPhCV6tGjsxthQLQy4nu1ptjdqIOU/edit)
-  - [FedRAMP](https://docs.google.com/document/d/1WWgs5y6U0lyzQshLVNy6lIw1ifEo7smy1Ojrc_DnhC8/edit)
-  - [USAGov](https://docs.google.com/document/d/1bAShuvGBFOCdtGg82kON2vBblOWhuvyCr58QNrflUMA/edit)
-  - [ARP](https://docs.google.com/document/d/1wLTwyWauzPFMcu8yVM9UWZsZwWS1E4YU7mBei-WUmQA/edit)
-
-We will share open positions as they become available.
+We will share open positions as they are available.
 
 ### Internal only opportunities
 
