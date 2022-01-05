@@ -45,6 +45,8 @@ TTS WIDE: [Cloud.gov Product Manager Detail](https://docs.google.com/document/d/
 
 TTS WIDE: [Cloud.gov Pages Engineer Detail](https://docs.google.com/document/d/1aJHTZusdIKxBpOQiXQrS8LLRjoH524YjwPXDrBs77Yo/edit#)- open Monday, January 3rd through Monday, January 10th
 
+TTS WIDE: [TTS Chief Product Office Detail](https://docs.google.com/document/d/19TmWxPtiwK2gACHzXG5LbSWhNz0G2P6bkcaDBK32SS4/edit#)- open Wednesday, January 5th through Friday, January 14th
+
 ### Open to all federal employees
 
 We will share open positions as they are available.
