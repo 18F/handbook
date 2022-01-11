@@ -155,7 +155,7 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://gsa-tts.slack.com/messages/g-security-compliance">#g-security-compliance</a>
         </td>
         <td>
-          Alyssa Feola - Tech Portfolio<br>
+          Sue Frederick - TTS<br>
           Peter Burkholder - SOL
         </td>
       </tr>
