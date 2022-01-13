@@ -45,6 +45,8 @@ TTS WIDE: [TTS Chief Product Officer Detail](https://docs.google.com/document/d/
 
 TTS WIDE: [Director of Partnerships Detail in the TTS Strategic Partnerships Division](https://docs.google.com/document/d/14PuYTVh92q6xeu-Qtq5gWQPw40dctmXwtVH4cOTSn58/edit?usp=sharing)- open Monday, January 10th through Monday, January 24th
 
+GSA WIDE: [CX EO Implementation Detail](https://docs.google.com/document/d/1We7Laq7SoSs0WftmJ86HjwkQFfVacOFI1MyLyHrKkls/edit)- open Thursday, January 13th through Friday, January 21st
+
 ### Open to all federal employees
 
 We will share open positions as they are available.
