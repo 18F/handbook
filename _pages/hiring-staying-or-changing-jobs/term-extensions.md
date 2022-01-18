@@ -25,7 +25,7 @@ Term renewals are not automatic. They require a lot of thought and deliberation 
      - Type of work employee does, how billable they are, are they currently on a project, and will they remain billable?
      - If not billable, what work are they doing and why is it necessary?
 
-***PLEASE NOTE:*** The standard term length breakdown for an 8 year appointment is 3+3+2. 
+**_PLEASE NOTE:_** The standard term length breakdown for an 8 year appointment is 3+3+2.
 
 4. TTS PeopleOps will send the list of renewal requests to the TTS Front Office for approval.
 
