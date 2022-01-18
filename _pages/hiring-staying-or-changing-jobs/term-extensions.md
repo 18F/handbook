@@ -14,16 +14,18 @@ If you don’t know when your term ends, you can find your Not To Exceed (NTE) d
 
 Term renewals are not automatic. They require a lot of thought and deliberation &ndash; and a fair bit of bureacratic process, too.
 
-1. 6-7 months before an employee's term ends, TTS PeopleOps will reach out to the Supervisor of the employee and the Director of that office with a list of staff whose 2-year terms are about to end.
+1. 6-7 months before an employee's term ends, TTS PeopleOps will reach out to the Supervisor of the employee and the Director of that office with a list of staff whose terms are about to end.
 
 2. Supervisors and Directors will consider the individual's performance, organizational priorities, position needs, and other factors to determine their recommendation. They will also confirm that the employee would like to be renewed. Renewals require mutual consent between the individual and the organization to continue.
 
 3. Directors will provide their recommendation to TTS PeopleOps, along with the following info:
 
-   - How long will the employee's term be renewed for? (6 months, 1 year, or 2 years)
+   - How long will the employee's term be renewed for? (6 months, 1 year, 2 years, or 3 years)
    - Justification
      - Type of work employee does, how billable they are, are they currently on a project, and will they remain billable?
      - If not billable, what work are they doing and why is it necessary?
+
+**_PLEASE NOTE:_** The standard term length breakdown for an 8 year appointment is 3+3+2.
 
 4. TTS PeopleOps will send the list of renewal requests to the TTS Front Office for approval.
 
