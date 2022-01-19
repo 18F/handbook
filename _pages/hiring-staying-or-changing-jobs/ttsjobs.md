@@ -41,7 +41,6 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-TTS WIDE: [TTS Chief Product Officer Detail](https://docs.google.com/document/d/19TmWxPtiwK2gACHzXG5LbSWhNz0G2P6bkcaDBK32SS4/edit#)- open Wednesday, January 5th through Tuesday, January 18th
 
 TTS WIDE: [Director of Partnerships Detail in the TTS Strategic Partnerships Division](https://docs.google.com/document/d/14PuYTVh92q6xeu-Qtq5gWQPw40dctmXwtVH4cOTSn58/edit?usp=sharing)- open Monday, January 10th through Monday, January 24th
 
