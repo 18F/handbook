@@ -49,9 +49,13 @@ redirect_from:
 
 - **BOC** - Budget Object Code. Used for accounting.
 
+- **CALC** - Contract-Awarded Labor Category.
+
 - **CI/CD** - Continuous Integration/Continuous Deployment. Automated software testing (CI) practiced along with automated deployment of frequent, small changes to software (CD).
 
 - **Clients and Markets** - Clients and Markets is a division within TTS that provides consulting services to government agencies. The TTS communications team is also part of the division. The following offices and teams are part of Clients and Markets: 18F, Centers of Excellence, Client Development, Outreach, and Presidential Innovation Fellows.
+
+- **CO** - Contracting Officer. A part of acquisitions.
 
 - **CMS** - Content Management System. Software for creating, managing, and publishing content.
 
@@ -124,6 +128,8 @@ redirect_from:
 
 - **IaC** - Infrastructure as Code. A technique allowing a software engineer to write code that defines IT infrastructure, like, definitions of servers needed by a project. The code can be read by a machine that then provisions the needed server.
 
+- **IGCE** - Independent Government Cost Estimate. Based upon SOW.
+
 - **Integrity** - means the soundness/fitness of purpose of our systems or information. So if a backup was lost, or an app stopped logging for a while, or some documents got deleted, those are integrity issues. Sometimes these can indicate deeper incidents (like an attacker deleting logs to cover their tracks), so it's important to report these.
 
 - **ISSO** - Information System Security Officer.
@@ -146,6 +152,8 @@ redirect_from:
 
 - **OGC** - Office of General Counsel, aka GSA's legal team.
 
+- **OCIO** - Office of the Chief Information Officer, which performs security accreditation.
+
 - **OKR** - Objectives and Key Results. A system for setting individual and organizational goals with clear ways to measure success.
 
 - **OLU** - On-Line University, where our agency's mandatory training classes are hosted.
@@ -158,11 +166,15 @@ redirect_from:
 
 - **OTP** - One-time password. (If you're in Atlanta, this might refer to "outside the perimeter," as opposed to ITP (inside the perimeter).)
 
+- **PA** - Path Analysis.
+
 - **PaaS** - Platform as a Service. An online application that manages a number of the behind-the-scenes tasks for you when you maintain a website or other online service. There are many PaaS options, but TTS has created [cloud.gov](https://cloud.gov) specifically to meet the security and regulatory needs of federal agencies.
 
 - **PBS** - The [Public Buildings Service](https://www.gsa.gov/about-us/organization/public-buildings-service) is the landlord for the civilian federal government. It is the other major service provided by the GSA besides FAS.
 
 - **PD** - Position Description: description of the roles, responsibilities, qualifications, and expectations of an employee in a given position. Often called a job description.
+
+- **PIA** - Privacy Impact Assessment.
 
 - **PIF** - The [Presidential Innovation Fellows program](https://presidentialinnovationfellows.gov/) pairs innovators with top civil servants in the highest levels of the federal government to tackle some of the biggest challenges. PIF is an office within TTS.
 
@@ -180,11 +192,15 @@ redirect_from:
 
 - **PR** - Pull Request. When a software developer makes a change to some code, they then create a PR to request that their code be accepted into the project's repo.
 
+- **Proc** - Procurement.
+
 - **PRA** - The Paperwork Reduction Act, enacted in 1980, aims to reduce the burden of federally imposed paperwork for U.S. businesses and the public.
 
 - **PMA** - President's Management Agenda.
 
 - **Product Manager** - Product managers ensure that the right product is built at the right time and for the right people. They establish a product vision and help their teams translate that vision into reality by creating and maintaining product roadmaps, deeply understanding users, technology, and business context, and prioritizing design and development tasks accordingly.
+
+- **QASP** - Quality Assurance Surveillance Plan. Often pronounced to rhyme with "wasp."
 
 - **Repo** - Repository. A place to store code or data in a central location (such as GitHub).
 
