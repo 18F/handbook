@@ -152,7 +152,7 @@ redirect_from:
 
 - **OGC** - Office of General Counsel, aka GSA's legal team.
 
-- **OCIO** - Office of the Chief Information Officer, which performs security accreditation.
+- **OCIO** - Office of the Chief Information Officer.
 
 - **OKR** - Objectives and Key Results. A system for setting individual and organizational goals with clear ways to measure success.
 
@@ -166,7 +166,7 @@ redirect_from:
 
 - **OTP** - One-time password. (If you're in Atlanta, this might refer to "outside the perimeter," as opposed to ITP (inside the perimeter).)
 
-- **PA** - Path Analysis.
+- **PA** - [Path Analysis](https://18f.gsa.gov/how-we-work/#path-analysis).
 
 - **PaaS** - Platform as a Service. An online application that manages a number of the behind-the-scenes tasks for you when you maintain a website or other online service. There are many PaaS options, but TTS has created [cloud.gov](https://cloud.gov) specifically to meet the security and regulatory needs of federal agencies.
 
