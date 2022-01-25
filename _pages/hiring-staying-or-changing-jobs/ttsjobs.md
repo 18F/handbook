@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -41,9 +40,7 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-TTS WIDE: [Director of Partnerships Detail in the TTS Strategic Partnerships Division](https://docs.google.com/document/d/14PuYTVh92q6xeu-Qtq5gWQPw40dctmXwtVH4cOTSn58/edit?usp=sharing)- open Monday, January 10th through Monday, January 24th
-
-GSA WIDE: [CX EO Implementation Detail](https://docs.google.com/document/d/1We7Laq7SoSs0WftmJ86HjwkQFfVacOFI1MyLyHrKkls/edit)- open Thursday, January 13th through Friday, January 21st
+We will share internal opportunities as they are available. 
 
 ### Open to all federal employees
 
@@ -59,7 +56,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
