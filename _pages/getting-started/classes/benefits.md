@@ -59,30 +59,31 @@ Organizations across the United States offer a number of discounts to federal em
 
 ## Employee Assistance Program
 
-The [Employee Assistance Program (EAP)](http://www.foh4you.com/) is a free support resource available to all GSA federal employees. The EAP offers sessions with licenced or credentialed counselors on a variety of topics: 
+The [Employee Assistance Program (EAP)](http://www.foh4you.com/) is a free support resource available to all GSA federal employees. The EAP offers sessions with licenced or credentialed counselors on a variety of topics:
 
-- Grief 
-- Work-related stress 
-- Drug or alcohol addiction 
-- Mental health 
+- Grief
+- Work-related stress
+- Drug or alcohol addiction
+- Mental health
 - Legal issues
 - Financial issues
-- Emotional well-being 
+- Emotional well-being
 
 You can receive six free sessions for you or family members living in your household, including college students who are away. EAP counselors can provide referrals for assistance beyond the six sessions, based on your needs, insurance coverage, location, and financial resources.
 
-To access the EAP, you can call them 24/7 at ​​1-800-222-0364 or 888-262-7848 (TTY). You can also find more information at the [EAP website](http://www.foh4you.com/) and the [EAP Fact Sheet](https://drive.google.com/file/d/1P6KQ63uPROXZzNw76gi9W2VqMQxlbr1w/view). 
+To access the EAP, you can call them 24/7 at ​​1-800-222-0364 or 888-262-7848 (TTY). You can also find more information at the [EAP website](http://www.foh4you.com/) and the [EAP Fact Sheet](https://drive.google.com/file/d/1P6KQ63uPROXZzNw76gi9W2VqMQxlbr1w/view).
 
-### WorkLife4You 
+### WorkLife4You
 
 The EAP’s [WorkLife4You](https://www.worklife4you.com/index.html) program provides additional support and resources.
 
-Through Worklife4You, you can get assistance with 
+Through Worklife4You, you can get assistance with
+
 - Emergency back-up care, for children and adults
 - Education and career development
 - Health and wellness
 
-The emergency back-up care is available at very low costs - review the [Emergency Backup Dependent Care flyer](https://drive.google.com/file/d/1rO1Zu0-fCk0oQTYeCGrHEjUTeV4luH4Z/view) for more details. TTS teammates have shared their experiences with back-up care in the [#parents](https://gsa-tts.slack.com/archives/C02KQM2N7/p1461602923000114) Slack channel.  
+The emergency back-up care is available at very low costs - review the [Emergency Backup Dependent Care flyer](https://drive.google.com/file/d/1rO1Zu0-fCk0oQTYeCGrHEjUTeV4luH4Z/view) for more details. TTS teammates have shared their experiences with back-up care in the [#parents](https://gsa-tts.slack.com/archives/C02KQM2N7/p1461602923000114) Slack channel.
 
 WorkLife4You programs can be accessed via the EAP phone line: 1-800-222-0364 or 888-262-7848 (TTY). You can also register via the [WorkLife4You website](https://www.worklife4you.com/index.html). More information - including the registration code - is available on the [WorkLife4You Fact Sheet](https://drive.google.com/file/d/10LRzsiG705VDKVtdlJhp0Bo1uoz6NRay/view).
 
@@ -91,23 +92,24 @@ WorkLife4You programs can be accessed via the EAP phone line: 1-800-222-0364 or 
 Supervisors can leverage the EAP to help support their team:
 
 - Managing crises
-- Identifying if/when someone is in trouble 
+- Identifying if/when someone is in trouble
 - Managing change
-- Referring your team members to the EAP 
+- Referring your team members to the EAP
 - Managing stress
-- Effective communication 
+- Effective communication
 
-The [EAP Supervisor Toolkit](https://drive.google.com/file/d/1a19DiKRIpg4lvQ_Awo7UDpHLiA1kdtwV/view) is an additional on-demand leadership resource that helps supervisors with coaching and mentoring. Supervisors can access webinars, leadership presentations, EAP orientations, and training opportunities. The EAP Supervisor Toolkit offers best practices for: 
+The [EAP Supervisor Toolkit](https://drive.google.com/file/d/1a19DiKRIpg4lvQ_Awo7UDpHLiA1kdtwV/view) is an additional on-demand leadership resource that helps supervisors with coaching and mentoring. Supervisors can access webinars, leadership presentations, EAP orientations, and training opportunities. The EAP Supervisor Toolkit offers best practices for:
 
-- Encouraging your team to use EAP 
-- Navigating difficult conversions 
-- Providing support throughout organizational changes, such as workplace grief 
+- Encouraging your team to use EAP
+- Navigating difficult conversions
+- Providing support throughout organizational changes, such as workplace grief
 - Team engagement and productivity
 
-To access the EAP, you can call them 24/7 at ​​1-800-222-0364 or 888-262-7848 (TTY). You can also find more information and online leadership presentations on the [EAP website](http://www.foh4you.com/) and refer to the [EAP Supervisor Guide](https://drive.google.com/file/d/1uYJ3cWUc3HLUUm5f7baFt_uUpz_-CyIG/view) for additional support.  
+To access the EAP, you can call them 24/7 at ​​1-800-222-0364 or 888-262-7848 (TTY). You can also find more information and online leadership presentations on the [EAP website](http://www.foh4you.com/) and refer to the [EAP Supervisor Guide](https://drive.google.com/file/d/1uYJ3cWUc3HLUUm5f7baFt_uUpz_-CyIG/view) for additional support.
 
-###  EAP orientation and wellness sessions
-Throughout the year, you can attend an EAP Orientation as well as free health & wellness sessions. Visit the [EAP InSite Page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/worklife-programs/employee-assistance-program) for current dates, times, and links. 
+### EAP orientation and wellness sessions
+
+Throughout the year, you can attend an EAP Orientation as well as free health & wellness sessions. Visit the [EAP InSite Page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/worklife-programs/employee-assistance-program) for current dates, times, and links.
 
 ## Flexible spending accounts
 
