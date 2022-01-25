@@ -125,6 +125,16 @@ An employee may use annual leave for vacations, rest and relaxation, and persona
 
 The maximum annual leave that can be carried over is 240 hours, and if you've transferred to TTS from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM's Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
+#### Use or Lose
+
+Use or Lose is the number of Annual Leave hours you would forfeit at the end of the leave year, if you do not use any of your Annual Leave hours between now and then. As noted above, there is a 240 hour limit on the number of hours you can carry over from one leave year to the next.
+
+For example: You look in HRLinks and see "182 Hours (96 Hours Use or Lose)." Today, January 25th, 2022, you have 182 hours of Annual Leave available. If you continued to accrue Annual Leave for the rest of the year, and you did not use any of those hours, you would forfeit 96 hours of Annual Leave at the end of the year. You would be 96 hours over the 240 cap.
+
+182 current hours + 154 more hours accrued throughout the year = 336 hours.
+
+336 hours - 240 hour cap = 96 Use or Lose hours that would be forfeited.
+
 ### Sick leave
 
 All federal employees, no matter how long they have worked, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if you've transferred to TTS from another federal agency, your accrued sick leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued sick leave.) More information is available on [OPM's Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
