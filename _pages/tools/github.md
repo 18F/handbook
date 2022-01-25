@@ -47,6 +47,12 @@ You may need access to [other GitHub organizations](#organizations), depending o
 
 Go to the [18F people page](https://github.com/orgs/18F/people). Click where it says **private** next to your name. Change that to **public**.
 
+### 6. Authorize CircleCI
+
+We use CircleCI for many of our applications to build and test our code in GitHub. In order for your pull requests to trigger the CircleCI release checks, you'll need to authorize CircleCI to access your GitHub profile.
+
+On the [CircleCI website](https://circleci.com/), **log in** with your **GitHub profile** and you'll be prompted to grant access to CircleCI. Once you grant access your pull requests will trigger the release checks properly. If you've already opened a pull request before authorizing CircleCI, any new commit to your open pull request will trigger the release check.
+
 ## Rules
 
 - **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).** If you see anyone violating our Code of Conduct, see the reporting section.
