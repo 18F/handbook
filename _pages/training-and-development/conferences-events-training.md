@@ -24,6 +24,13 @@ TTS encourages all staff to attend conferences, speak at events, and focus on pr
 
 Any media requests (like news or podcast interviews) are a separate process — please forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov) and CC [your team's Outreach liaison]({{site.baseurl}}/office-of-operations/outreach/#team).
 
+At TTS, the work of diversity, equity, inclusion, and accessibility (DEIA) is a collective effort: every employee makes a difference. DEIA should be a part of everything we do. When creating, hosting, or participating in an event, we ask that you consider the [TTS Inclusive Event Pillars](https://docs.google.com/document/d/1-w6I46qJCsZsLJOavNPPSxDCY8klKSQz4DidOwRzpZ4/edit).
+
+These inclusive event pillars are designed to help TTS:
+
+- Create intentionally inclusive events
+- Share our expectation that TTS employees thoughtfully consider what speaking engagements they accept
+
 ## Getting approval for a conference, event, or training
 
 1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) to initiate the request process. **_Here is [guidance on writing an event justification](https://docs.google.com/document/d/13BCETwANCx9JRPgFbRibqRGthIvf4XQ-WTYD0P30PWg/edit?usp=sharing)._** Upon completing it, you and your supervisor will get an automated email, which confirms the details you entered and provides all of the actions that you will need to complete for the request. Your supervisor may want to discuss the request with you before proceeding with further approvals.
