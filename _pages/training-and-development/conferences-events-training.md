@@ -24,12 +24,12 @@ TTS encourages all staff to attend conferences, speak at events, and focus on pr
 
 Any media requests (like news or podcast interviews) are a separate process — please forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov) and CC [your team's Outreach liaison]({{site.baseurl}}/office-of-operations/outreach/#team).
 
-At TTS, the work of diversity, equity, inclusion, and accessibility (DEIA) is a collective effort: every employee makes a difference. DEIA should be a part of everything we do. When creating, hosting, or participating in an event, we ask that you consider the [TTS Inclusive Event Pillars](https://docs.google.com/document/d/1-w6I46qJCsZsLJOavNPPSxDCY8klKSQz4DidOwRzpZ4/edit). 
+At TTS, the work of diversity, equity, inclusion, and accessibility (DEIA) is a collective effort: every employee makes a difference. DEIA should be a part of everything we do. When creating, hosting, or participating in an event, we ask that you consider the [TTS Inclusive Event Pillars](https://docs.google.com/document/d/1-w6I46qJCsZsLJOavNPPSxDCY8klKSQz4DidOwRzpZ4/edit).
 
 These inclusive event pillars are designed to help TTS:
+
 - Create intentionally inclusive events
 - Share our expectation that TTS employees thoughtfully consider what speaking engagements they accept
-
 
 ## Getting approval for a conference, event, or training
 
