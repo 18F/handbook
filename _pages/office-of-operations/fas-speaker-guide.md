@@ -18,7 +18,7 @@ _This guide was created with content from the GSA's Office of Strategic Communic
 
 ## Receiving invitations
 
-Below is the process you'll need to follow when receving an interview or speaking request, even if you're not interested in participating.
+Below is the process you'll need to follow when receiving an interview or speaking request, even if you're not interested in participating.
 
 ### Media interview requests
 
