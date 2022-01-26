@@ -47,11 +47,11 @@ If the team identifies that new or different skills are needed on the project te
 
 Project leads are not expected to do all of the project management tasks themselves, but they are responsible to make sure tasks are addressed and equitably distributed. Teams are more resilient and equitable when administrative tasks like scheduling meetings or taking notes are shared. It can help to proactively set up systems to rotate this work (for example: a schedule for who will send weekly ship emails each week).
 
-### Project coordination checklist
+## Project coordination checklist
 
 For most 18F projects, these tasks, when completed, help ensure successful projects and healthy teams. Typically, **the team will share the load on doing this work** — it’s the role of the project lead to ensure these things are happening.
 
-#### Beginning of Project
+### Beginning of Project
 
 - Facilitate creation of a [team charter](https://docs.google.com/document/d/1Sv88PKdsfd0riLpfF1kB2oNn7f330eXcgXuG2ZSVoAs/edit), including how decisions will be made and how the team will navigate disagreement
 - Identify stakeholder accessibility needs for project work (in collaboration tools and deliverables)
@@ -61,7 +61,7 @@ For most 18F projects, these tasks, when completed, help ensure successful proje
 - Facilitate identification of how administrative tasks will be rotated
 - Create and maintain a [Project Readme](https://docs.google.com/document/d/1_vL462nws0l1WXMTyTdWcmU2GyjHzF88dHvnLIvYeq4/edit?usp=sharing) in the project’s Drive folder (Account Manager will establish project folder)
 
-#### Ongoing
+### Ongoing
 
 - Foster a safe and inclusive environment (entire team’s responsibility)
 - Identify the team’s approach to stakeholder management (who on the team is the primary contact, cadence, tools, ceremonies for communicating with stakeholders)
@@ -85,10 +85,29 @@ For most 18F projects, these tasks, when completed, help ensure successful proje
 - [Get support](#how-do-project-leads-and-team-members-get-support) in cases where team has trouble resolving disagreement or with other project issues
 - Participate in the Project Leadership Collective! Read the [PLC wiki](https://github.com/18F/Project-Leadership-Collective/wiki/Project-Leadership-Collective) and [join the PLC conversation — #c-18f-project-leadership](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
 
-#### End of project
-
-- Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ)
-- Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) so everyone on the project team can fully participate.
+### Ending a project
+Tailor your approach based on the project and partner’s needs. Historically, the most common types of 18F project endings are some combination of the following: 
+- **Package up**
+  - Develop a roadmap that documents specific actionable steps for partner.
+  - Recommendations should stand alone and not be dependent on continued 18F involvement. 
+  - Capture top risks, assumptions, and learning goals for the future.
+  - Tidy up and index research documents and artifacts.
+- **Hand off** to a vendor, new partner hires, or other TTS groups
+  - For vendor handoff, 18F can support shaping an acquisition or doing initial market research (if the SOW and timeline allows)
+  - If the partner needs to hire in-house support, 18F can help write role descriptions and set up interview guides.
+  - Make connections to other TTS entities (PIF, CoE, Solutions) to support projects 
+  - If the team who will own the work going forward is around during the project, do as much overlapping, pairing, and handoff work during the project as possible – don’t wait until the last week. 
+- **Get more 18F**
+  - Scope a full-time project extension, adding weeks to the original scope
+  - Shape a slower off-ramp (also called “slow burn” or “phone a friend”), where 18F support fades away (may not be possible in weekly billing model implemented as of 2021).
+- **Make connections/ensure long term support**
+  - Connect partners with their peers, peer mentors, or [communities of practice](https://digital.gov/communities/)
+  - Connect the partner to other government working groups, councils, or professionals across agencies who work on related problems.
+  - Recommend government or technical trainings, or recording materials from Digital.gov’s Communities of Practice.
+- In the case of [projects in distress, review alternative solutions: pivot, pause or stop the engagement](https://handbook.tts.gsa.gov/18f/projects-partners/projects-in-distress/).
+- Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW)
+  so everyone on the project team can fully participate.
+- Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ).
 
 ## Why you might want to lead a project
 
