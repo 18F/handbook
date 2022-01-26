@@ -24,7 +24,7 @@ Once you have [validated the path to production](https://docs.google.com/documen
 
 #### Step 0
 
-As soon as you begin developing an [alpha](https://18f.gsa.gov/dashboard/stages/#alpha), [create your ATO checklist](#ato-checklist) to set up a tracking mechanism for your ATO. You can ask questions in your checklist thread to understand the specific considerations for your system. At this time it is also good to ensure your system is eligible for [pre-assessment](#conditions-for-pre-assessment) authorization for user testing purposes.
+As soon as you begin developing an alpha, [create your ATO checklist](#ato-checklist) to set up a tracking mechanism for your ATO. You can ask questions in your checklist thread to understand the specific considerations for your system. At this time it is also good to ensure your system is eligible for [pre-assessment](#conditions-for-pre-assessment) authorization for user testing purposes.
 
 #### Step 1
 
