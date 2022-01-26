@@ -9,7 +9,6 @@ redirect_from:
   - /tts-classes/
 questions: []
 ---
-
 We’ve put together a curriculum of classes we encourage you to take during your [first 90 days]({{site.baseurl}}/getting-started/).
 
 These classes will expose you to a variety of aspects of our organization, introduce you to the people involved, and create opportunities to ask questions.
@@ -24,27 +23,27 @@ This section provides an overview of each of the classes, broken into topics, fo
 
 ### Topics
 
-- [Our Values and Principles at TTS]({{site.baseurl}}/getting-started/classes/#our-values-and-principles-at-tts)
-- [Working in the Government]({{site.baseurl}}/getting-started/classes/#working-in-the-government)
-- [Background and Operations at TTS]({{site.baseurl}}/getting-started/classes/#background-and-operations-at-tts)
-- [Divisions of TTS]({{site.baseurl}}/getting-started/classes/#divisions-of-tts)
-- [Online Learning University (OLU) Mandatory Training]({{site.baseurl}}/getting-started/classes/#online-learning-university-olu-mandatory-training)
-- [Methods, Tidbits, and Case Studies]({{site.baseurl}}/getting-started/classes/#methods-tidbits-and-case-studies)
+* [Our Values and Principles at TTS]({{site.baseurl}}/getting-started/classes/#our-values-and-principles-at-tts)
+* [Working in the Government]({{site.baseurl}}/getting-started/classes/#working-in-the-government)
+* [Background and Operations at TTS]({{site.baseurl}}/getting-started/classes/#background-and-operations-at-tts)
+* [Divisions of TTS]({{site.baseurl}}/getting-started/classes/#divisions-of-tts)
+* [Online Learning University (OLU) Mandatory Training]({{site.baseurl}}/getting-started/classes/#online-learning-university-olu-mandatory-training)
+* [Methods, Tidbits, and Case Studies]({{site.baseurl}}/getting-started/classes/#methods-tidbits-and-case-studies)
 
 ### Class Formats
 
 Curricula like this can feel a bit overwhelming and exhausting, so we have varied the class format in order to best suit the content and your schedule. The formats include:
 
-- **Video Conference** – (sometimes with a presentation) – TTS leads will talk you through the content and ask questions. _Turning on your camera is highly encouraged but not required._
-- **Self-guided Doc / Video** – You will be directed to a handbook page, a document, deck, or video to review on your own. _No quiz or test after – we swear._ We set up calendar invites for these, only as reminders — nothing more.
-- **Slack** – Hosted in the #TTS-Classes slack channel at a scheduled time, a lead will post messages overviewing a topic and resources and make space for questions. _Emoji reactions are welcome._
-- **Coffee (Beta)** – A hybrid of a video conference and slack class, a lead will overview and casually discuss a topic via video conference. A summary and links are shared in the #TTS-Classes slack channel for posterity. _Turning on your camera is highly encouraged but not required._
+* **Video Conference** – (sometimes with a presentation) – TTS leads will talk you through the content and ask questions. *Turning on your camera is highly encouraged but not required.*
+* **Self-guided Doc / Video** – You will be directed to a handbook page, a document, deck, or video to review on your own. *No quiz or test after – we swear.* We set up calendar invites for these, only as reminders — nothing more.
+* **Slack** – Hosted in the #TTS-Classes slack channel at a scheduled time, a lead will post messages overviewing a topic and resources and make space for questions. *Emoji reactions are welcome.*
+* **Coffee (Beta)** – A hybrid of a video conference and slack class, a lead will overview and casually discuss a topic via video conference. A summary and links are shared in the #TTS-Classes slack channel for posterity. *Turning on your camera is highly encouraged but not required.*
 
 ### Guidance to help you prioritize:
 
-- **Required (and in bold)** - Critical for your onboarding and employment
-- Recommended - Suggested for better understanding TTS
-- As Needed – Additional and valuable context depending on your interests or office
+* **Required (and in bold)** - Critical for your onboarding and employment
+* Recommended - Suggested for better understanding TTS
+* As Needed – Additional and valuable context depending on your interests or office
 
 ## Classes
 
@@ -53,29 +52,29 @@ Curricula like this can feel a bit overwhelming and exhausting, so we have varie
 | Name                                | Description                                                                                                                                                                                                              | Format           | Guidance     |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------ |
 | **Intro to the Diversity Guild**    | Introduction to the Diversity Guild (#g-diversity) [Intro to the Diversity Guild deck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit#slide=id.g86f01f88a5_1_0)                | Video Conference | **Required** |
-| Accessibility 101                   | Introduction to accessibility as it relates to our work, hosted by the Accessibility Guild (#g-accessibility)                                                                                                            | Video Conference | Recommended  |
+| Accessibility 101                   | Introduction to accessibility as it relates to our work, hosted by the Accessibility Guild (#g-accessibility)                                                                                                            | Video Conference | Required     |
 | Human-Centered Design (HCD) & Agile | Discussion of our core values: Human-Centered Design (HCD) and Agile, and how they impact our day-to-day work [HCD & Agile script](https://docs.google.com/document/d/1B2epdYJPdVDvxQ3aYh1R7He7UaGrKsul3oJXK0z3Fv0/edit) | Coffee           | Recommended  |
-| Working Groups and Guilds           | Introduction to Working Groups and Guilds, how to join, and ways to get involved [Working Groups and Guilds page]({{site.baseurl}}/working-groups-and-guilds-101/)                                                       | Slack            | Recommended  |
+| Working Groups and Guilds           | Introduction to Working Groups and Guilds, how to join, and ways to get involved [Working Groups and Guilds page]({{site.baseurl}}/working-groups-and-guilds-101/)                                                       | Self-guided      | Recommended  |
 
 ### Working in the Government
 
 | Name                                             | Description                                                                                                                                                                         | Format            | Guidance    |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------- |
-| **Hatch Act, FOIA, Ethics, and Code of Conduct** | An overview of important governance compliance topics                                                                                                                               | Slack             | Recommended |
+| **Hatch Act, FOIA, Ethics, and Code of Conduct** | An overview of important governance compliance topics                                                                                                                               | Self-guided       | Recommended |
 | **Hatch Act Training**                           | [A training](https://insite.gsa.gov/about-us/agency-news/feature-stories/hatch-act-training-video-now-available) from OSC’s Hatch Act Unit. Must be on the GSA network to watch it. | Self-guided video | As needed   |
 
 ### Background and Operations at TTS
 
-| Name                      | Description                                                                                                                                                                                                                                                                                                                                     | Format           | Guidance     |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| **Day 2 @ TTS**           | Organizational information and account set-up [Day 2 @ TTS deck](https://docs.google.com/presentation/d/16RLmVDueUUJ4NFgc4hYBWCQoeufIQrRVK11x1EaJFNg/edit#slide=id.p)                                                                                                                                                                           | Video Conference | **Required** |
-| **Tech Portfolio @ TTS**  | Introduction to the Tech Portfolio team, important compliance topics, and technology best practices at TTS [Tech Portfolio @ TTS page]({{site.baseurl}}/tech-portfolio/)<br/><br/>[Mandatory – take this quiz upon completion](https://docs.google.com/forms/d/e/1FAIpQLSeyTWbNU8_cdeBJVZXQG-aY8ciqgZVVvUopU9XOkCpQSUmiJA/viewform?usp=sf_link) | Self-guided      | **Required** |
-| Travel 101                | Intro to setting up a travel account, booking travel, and getting reimbursed [Travel 101 page]({{site.baseurl}}/travel-101/)                                                                                                                                                                                                                    | Self-guided      | Recommended  |
-| Tock 101                  | Overview of the Tock system and how to track work time [Tock 101 page]({{site.baseurl}}/tock/)                                                                                                                                                                                                                                                  | Slack            | Recommended  |
-| Handbook 101              | Overview of how to navigate the handbook and make updates (create pull requests) [TTS Handbook]({{site.baseurl}})                                                                                                                                                                                                                               | Video Conference | Recommended  |
-| GSA Tools and Equipment   | Overview of the tools, requests, and support for:<br/>[GSA Operational Tools page]({{site.baseurl}}/gsa-internal-tools/)<br/>[Equipment page]({{site.baseurl}}/equipment/)                                                                                                                                                                      | Self-guided      | Recommended  |
-| Collaboration Tools @ TTS | Overview of the tools we typically use for project work across [TTS Collaboration Tools @ TTS page]({{site.baseurl}}/collaboration-tools/)                                                                                                                                                                                                      | Self-guided      | As Needed    |
-| DocuSign Training         | Overview of how to use DocuSign [DocuSign Training deck](https://docs.google.com/presentation/d/1ZbilFPz29utR4GUu3sHfMR_yeu3NYT6rnRr_vFLaJf4/edit?usp=sharing)                                                                                                                                                                                  | Self-guided      | As Needed    |
+| Name                      | Description                                                                                                                                                                                                                                                                                           | Format           | Guidance     |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------ |
+| **Day 2 @ TTS**           | Organizational information and account set-up [Day 2 @ TTS deck](https://docs.google.com/presentation/d/16RLmVDueUUJ4NFgc4hYBWCQoeufIQrRVK11x1EaJFNg/edit#slide=id.p)                                                                                                                                 | Video Conference | **Required** |
+| **Tech Portfolio @ TTS**  | Introduction to the Tech Portfolio team, important compliance topics, and technology best practices at TTS [Tech Portfolio @ TTS page]({{site.baseurl}}/tech-portfolio/)<br/><br/>[](https://docs.google.com/forms/d/e/1FAIpQLSeyTWbNU8_cdeBJVZXQG-aY8ciqgZVVvUopU9XOkCpQSUmiJA/viewform?usp=sf_link) | Self-guided      | **Required** |
+| Travel 101                | Intro to setting up a travel account, booking travel, and getting reimbursed [Travel 101 page]({{site.baseurl}}/travel-101/)                                                                                                                                                                          | Self-guided      | Recommended  |
+| Tock 101                  | Overview of the Tock system and how to track work time [Tock 101 page]({{site.baseurl}}/tock/)                                                                                                                                                                                                        | Self-guided      | Recommended  |
+| Handbook 101              | Overview of how to navigate the handbook and make updates (create pull requests) [TTS Handbook]({{site.baseurl}})                                                                                                                                                                                     | Video Conference | Recommended  |
+| GSA Tools and Equipment   | Overview of the tools, requests, and support for:<br/>[GSA Operational Tools page]({{site.baseurl}}/gsa-internal-tools/)<br/>[Equipment page]({{site.baseurl}}/equipment/)                                                                                                                            | Self-guided      | Recommended  |
+| Collaboration Tools @ TTS | Overview of the tools we typically use for project work across [TTS Collaboration Tools @ TTS page]({{site.baseurl}}/collaboration-tools/)                                                                                                                                                            | Self-guided      | As Needed    |
+| DocuSign Training         | Overview of how to use DocuSign [DocuSign Training deck](https://docs.google.com/presentation/d/1ZbilFPz29utR4GUu3sHfMR_yeu3NYT6rnRr_vFLaJf4/edit?usp=sharing)                                                                                                                                        | Self-guided      | As Needed    |
 
 ### Divisions of TTS
 
@@ -118,5 +117,5 @@ Check out the [TTS Classes Schedule in Google Calendar](https://calendar.google.
 
 If you have any questions about the class schedule
 
-- Your #newhire channel or #newcomers
-- Ask your onboarding buddy
+* Your #newhire channel or #newcomers
+* Ask your onboarding buddy
