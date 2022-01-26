@@ -24,8 +24,10 @@ Speaking externally in your official capacity is a privilege, as you are represe
 This playbook contains the most recently updated speaking guidelines. It’s the best place to start whenever you have the opportunity to speak. If it's your first engagement or if you haven't been on the speaking circuit for a while, schedule a run-through with [TTS Outreach](mailto:tts-outreach@gsa.gov) once your request has been approved.
 This process has four major steps and can take up to 3-6 weeks to complete. Here is a breakdown of the 4 major steps.
 
+### Steps
+
 <div class="usa-accordion">
-<h2 class="usa-accordion__heading">    
+<h4 class="usa-accordion__heading">    
 <button
       class="usa-accordion__button"
       aria-expanded="false"
@@ -33,7 +35,7 @@ This process has four major steps and can take up to 3-6 weeks to complete. Here
     >
     Step 1: Join the TTS Speaker’s Bureau
     </button>
-  </h2>
+  </h4>
 
 <div id="a1" class="usa-accordion__content usa-prose">
 If you want to represent TTS at an external event in your official capacity, you will need to be part of the TTS Speaker’s Bureau. In order to join the TTS Speaker’s Bureau you will need to
@@ -45,7 +47,7 @@ If you want to represent TTS at an external event in your official capacity, you
 </ul>
 </div>
  
-<h2 class="usa-accordion__heading">    
+<h4 class="usa-accordion__heading">    
 <button
       class="usa-accordion__button"
       aria-expanded="false"
@@ -53,7 +55,7 @@ If you want to represent TTS at an external event in your official capacity, you
     >
     Step 2: Decide if you should be speaking
     </button>
-  </h2>
+  </h4>
 
 <div id="a2" class="usa-accordion__content usa-prose">
 If you have been formally invited to participate in a speaking engagement, you need to think through the following questions.
@@ -78,22 +80,22 @@ If you have been formally invited to participate in a speaking engagement, you n
 </ul>
 </div>
 
-<h2 class="usa-accordion__heading">    
+<h4 class="usa-accordion__heading">    
 <button
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="a3"
     >
     Step 3: Gather information and submit your request
-    </button>
-  </h2>
+</button>
+</h4>
 
 <div id="a3" class="usa-accordion__content usa-prose">
 Request that your external event point of contact complete the <a href="https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf">TTS Speaker Request Form</a> to ensure you have all of the critical information for the approval process and return to you, ccing <a href="mailto:speakers@gsa.gov">speakers@gsa.gov</a>.
 
-<h3>Gather information</h3>
+<h5>Gather information</h5>
 
-<h4>1. Prepare your talking points.</h4>
+<h6>1. Prepare your talking points.</h6>
 <p>Talking points are required for you to get approval to represent your GSA at a speaking engagement.</p>
 <ul>
   <li>Use the <a href="https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit">TTS-wide Talking Points Template</a> to create talking points.</li>
@@ -102,9 +104,10 @@ Request that your external event point of contact complete the <a href="https://
   <li>Review the TTS Internal/External Virtual Events Guidance and know how to answer Project Specific/TTS/GSA-specific questions, including those outside your direct area of expertise or the topic at hand.</li>
   <li>Gather feedback from your peers prior submitting your Talking Points.</li>
 </ul>
-<h4>2. Submit your request</h4>
+<h6>2. Submit your request</h6>
 <p>Complete and submit the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform">TTS Events’ Speaking, Conferences, and Training Google Form</a> to TTS Events.</p>
-<strong>To fill out this form, you will need:</strong>
+
+<p><strong>To fill out this form, you will need:</strong></p>
  <ul>
   <li>A description of the audience</li>
   <li>A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA</li>
@@ -120,7 +123,7 @@ Once you <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JD
   <li>Office of Strategic Communications (OSC)</li>
   </ul>
 
-<h3>Approval timeline</h3>
+<h5>Approval timeline</h5>
 <p>Most approvals will take 2-3 weeks to complete. Requests submitted with less than a week lead time are not likely to be approved--please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.
 <ul>
 <li>Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS Outreach know if you run into an issue.</li>
@@ -128,7 +131,7 @@ Once you <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JD
 </ul>
 You can track the status of your request here with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at <a href="mailto:tts-events@gsa.gov">tts-events@gsa.gov</a>.</p>
 </div>
-<h2 class="usa-accordion__heading">    
+<h4 class="usa-accordion__heading">    
 <button
       class="usa-accordion__button"
       aria-expanded="false"
@@ -136,14 +139,14 @@ You can track the status of your request here with the request number in the sub
     >
     Step 4: Prepare for your talk
     </button>
-  </h2>
+  </h4>
 <div id="a4" class="usa-accordion__content usa-prose" markdown=1>
 - As your speaking engagement is moving through the approval process, take some time to consider the following topics.
 - Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS know if you run into an issue.
 - You should not promote your participation until final approval has been given by GSA.
 If your talking points change at any point in the process, you are responsible for notifying the TTS Outreach Director.
   
-### Preparation
+##### Preparation
 - Watch the [OSC recording on developing messages](https://drive.google.com/file/d/1bjtYRnoIVFUIhDlm7ujjGp_JkkOH_I9p/view). 
 - If you are using slides, use this [TTS slide deck template](https://docs.google.com/presentation/d/1_R4EuC9Eiec0DQhSP5PDe5rdMeIijrTt0nhp8jghWaE/edit#slide=id.p) for your presentation or your Business Unit’s specific template.
 
@@ -188,7 +191,7 @@ If your talking points change at any point in the process, you are responsible f
 - Recording and sharing materials: In general, all material that GSA presents is in the public domain, and government employees can be photographed or recorded doing official activities on official time without permission. As long as the event coordinator is not trying to: retain the rights to the content, put the recording behind a paywall that is not accessible to the public, or use the recording for monetary gain, then you can give them permission to record and post. 
 </div>
 
-<h2 class="usa-accordion__heading">    
+<h4 class="usa-accordion__heading">    
 <button
       class="usa-accordion__button"
       aria-expanded="false"
@@ -196,43 +199,43 @@ If your talking points change at any point in the process, you are responsible f
     >
     <span class="usa-tag">Coming soon</span> Step 5: Provide feedback on the event
     </button>
-  </h2>
+  </h4>
 <div id="a5" class="usa-accordion__content usa-prose" markdown=1> 
   Coming soon
 </div>
 </div>
 
-## Additional information
-### Professional vs. personal capacity
+### Additional information
+#### Professional vs. personal capacity
 When receiving an invitation to speak, you need to decide if you want to do the event in your professional or personal capacity: [The FAS Speaker Guide | Version 1.0](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit).
 
-#### Professional capacity
+##### Professional capacity
 You’ll participate as a TTS employee and discuss the work you do on behalf of GSA and our partners.
 You’ll be using GSA funds to travel to the event or pay for conference fees.
 You’ll prepare during your work time and use GSA equipment
 
-#### Personal capacity
+##### Personal capacity
 You didn’t receive the invitation because of your position at TTS, but because of your expertise in the subject.
 You won’t be representing TTS/GSA.
 You’ll refrain from discussing any official work you do at TTS/GSA or with our partners.
 You’ll use your personal leave or participate after work hours.
 You’ll prepare on your own time and use your own equipment.
 
-##### Personal capacity guidelines:
+###### Personal capacity guidelines:
 - There is a general prohibition on receiving compensation for personal capacity speaking on a subject that relates to your official duties. Free/waived attendance or registration fee is not compensation.
 - You can accept travel and event-related expenses from the sponsor or organizer, but would also need to take leave to attend.
 - You can use title/position in conjunction with your speaking activities, but only if provided as one of a number of other biographical details. Bottom line is that it should be clear that you are not representing GSA when speaking in your personal capacity.
 - You can include your office/team in your bio that is included on the conference website, but you cannot be listed in the agenda as “Sally Smith, TTS/GSA.”
 
-### Release forms
+#### Release forms
 GSA speakers are not permitted to sign speaker consent release forms that have not been reviewed/approved by OGC.  You must use the GSA approved response letter and have it reviewed by OGC.
 
-### Photography and recording
+#### Photography and recording
 Yes, federal employees are allowed to be photographed or recorded (audio/video) while performing their official duties. Approved attendance or speaking at a conference is considered an official duty. Release forms are not required for federal employees who are documented while performing their official duties.
 Permission for GSA visual information producers to document GSA presenters at events not hosted by GSA must be granted by event organizers prior to any still, video, or audio recording.
 Find much more information in GSA’s visual information policy.
 
-### Endorsements and promotions
+#### Endorsements and promotions
 GSA is responsible for providing neutral and unbiased advice. It is essential that we remain fair and unbiased in all that we do and say. As such, we avoid endorsing, or demonstrating favoritism, to any single one of the following:  
 - Vendors
 - Brand-name products
@@ -245,11 +248,11 @@ Therefore:
 - GSA will not provide quotes to event hosts for press outreach or marketing materials.
 - GSA has to carefully consider if accepting an invitation to an event sponsored by a single vendor will be seen as endorsing that vendor. 
 
-### Content and copyrights 
+#### Content and copyrights 
 All material (slides, presentations, handouts, etc.) presented by GSA are public domain, and GSA will not create special or exclusive content for an event that is not available to the public through other channels. As such, event hosts (companies or association/trade groups) may not retain the rights to GSA content nor may they profit off the sale of that content.  
 For example, recording a presentation for archival purposes, or for later viewing, is permissible. Putting that recording behind a paywall, or selling a DVD on which it is included, is not. GSA will provide consent to be recorded or photographed only if that recording will not be used for monetary gain by the event host. 
 
-### Event promotion
+#### Event promotion
 In general, it is okay to pre-plan or post live to social media while you are at an event. From an official GSA account, tweets or retweets from a group highlighting a GSA principal’s appearance on a program (TV, radio, podcast, webinar, etc.) or at an event are fine.
 Be careful to limit your tweet or retweet to only sharing facts rather than encouraging people or GSA employees to attend a conference. For example:  
 
@@ -263,7 +266,7 @@ Also, avoid making any personalized statements as they would be considered an en
 
 Find much more information at GSA’s social media center.
 
-### Waived conference, travel, and food fees
+#### Waived conference, travel, and food fees
 **Conference fees:** Under the speaking and similar engagements exclusion to the gift rules, when an employee is assigned to participate as a speaker on behalf of the agency, the employee's acceptance of an offer of free attendance at the event on the day of the employee's presentation is permissible when provided by the sponsor of the event. The employee's participation in the event on that day is viewed as a customary and necessary part of the employee's assignment and does not involve a gift to the employee or to the agency.  See 5 C.F.R. 2635.203(b)(8). 
 
 **The waived registration fee is only for the day you speak.** If you plan on attending additional days of the conference, GSA needs to pay the difference between the full and waived registration fees, or determine if the additional waived amount, if provided as a gift, is acceptable under the widely attended gathering determination exception to the gift rules.
