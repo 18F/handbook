@@ -88,23 +88,23 @@ For most 18F projects, these tasks, when completed, help ensure successful proje
 ### Ending a project
 Tailor your approach based on the project and partner’s needs. Historically, the most common types of 18F project endings are some combination of the following: 
 - **Package up**
-  - Develop a roadmap that documents specific actionable steps for partner.
-  - Recommendations should stand alone and not be dependent on continued 18F involvement. 
-  - Capture top risks, assumptions, and learning goals for the future.
-  - Tidy up and index research documents and artifacts.
+  - Develop a roadmap that documents specific actionable steps for the partner
+  - Recommendations should stand alone and not be dependent on continued 18F involvement
+  - Capture top risks, assumptions, and learning goals for the future
+  - Tidy up and index research documents and artifacts
 - **Hand off** to a vendor, new partner hires, or other TTS groups
   - For vendor handoff, 18F can support shaping an acquisition or doing initial market research (if the SOW and timeline allows)
-  - If the partner needs to hire in-house support, 18F can help write role descriptions and set up interview guides.
-  - Make connections to other TTS entities (PIF, CoE, Solutions) to support projects 
-  - If the team who will own the work going forward is around during the project, do as much overlapping, pairing, and handoff work during the project as possible – don’t wait until the last week. 
+  - If the partner needs to hire in-house support, 18F can help write role descriptions and set up interview guides
+  - Make connections to other TTS entities (PIF, CoE, Solutions) to support projects
+  - If the team who will own the work going forward is around during the project, do as much overlapping, pairing, and handoff work during the project as possible – don’t wait until the last week
 - **Get more 18F**
   - Scope a full-time project extension, adding weeks to the original scope
-  - Shape a slower off-ramp (also called “slow burn” or “phone a friend”), where 18F support fades away (may not be possible in weekly billing model implemented as of 2021).
+  - Shape a slower off-ramp (also called “slow burn” or “phone a friend”), where 18F support fades away (may not be possible in the weekly billing model implemented as of 2021)
 - **Make connections/ensure long term support**
   - Connect partners with their peers, peer mentors, or [communities of practice](https://digital.gov/communities/)
-  - Connect the partner to other government working groups, councils, or professionals across agencies who work on related problems.
-  - Recommend government or technical trainings, or recording materials from Digital.gov’s Communities of Practice.
-- In the case of [projects in distress, review alternative solutions: pivot, pause or stop the engagement](https://handbook.tts.gsa.gov/18f/projects-partners/projects-in-distress/).
+  - Connect the partner to other government working groups, councils, or professionals across agencies who work on related problems
+  - Recommend government or technical trainings, or recording materials from Digital.gov’s Communities of Practice
+- In the case of [projects in distress, review alternative solutions: pivot, pause or stop the engagement](https://handbook.tts.gsa.gov/18f/projects-partners/projects-in-distress/)
 - Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW)
   so everyone on the project team can fully participate.
 - Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ).
