@@ -26,11 +26,11 @@ This process has four major steps and can take up to 3-6 weeks to complete. Here
 
 ### Steps
 
-<div class="usa-accordion">
+<div class="usa-accordion" markdown=1>
 <h4 class="usa-accordion__heading">    
 <button
       class="usa-accordion__button"
-      aria-expanded="false"
+      aria-expanded="true"
       aria-controls="a1"
     >
     Step 1: Join the TTS Speaker’s Bureau
@@ -58,7 +58,7 @@ If you want to represent TTS at an external event in your official capacity, you
   </h4>
 
 <div id="a2" class="usa-accordion__content usa-prose">
-If you have been formally invited to participate in a speaking engagement, you need to think through the following questions.
+<p>If you have been formally invited to participate in a speaking engagement, you need to think through the following questions.</p>
 
 <ul>
   <li>Will you be speaking in your personal capacity? For additional information on representing GSA in a processional capacity versus a processional capacity please see professional vs personal capacity in the additional information section.</li>
@@ -110,7 +110,7 @@ Request that your external event point of contact complete the <a href="https://
 <p><strong>To fill out this form, you will need:</strong></p>
  <ul>
   <li>A description of the audience</li>
-  <li>A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA</li>
+  <li>A copy of your event invite [create a PDF and upload to Google Drive; make it accessible to all of GSA]</li>
   <li>To know if the press is invited</li>
   <li>To know if your event/panel will be pre-recorded</li>
   <li>To explain why your participation is beneficial</li>
@@ -172,8 +172,8 @@ If your talking points change at any point in the process, you are responsible f
 </table>
 
 - Is your presentation accessible? Do you verbally describe the images on your slides?
-  - How to Make Your Presentations Accessible to All
-  - How to make Accessible PDF from Google
+  - [How to Make Your Presentations Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
+  - [How to make Accessible PDF from Google](https://docs.google.com/presentation/d/1KGgwKaBGrx0lAglTV-E_xlERdkf9CZ765gqsx3VMUhg/edit#slide=id.gd9c453428_0_16)
 
 - Is your presentation engaging?
   - Are you simply reading bullets or language from the slide, or are you adding information that’s available only by listening to your presentation?
@@ -228,12 +228,12 @@ You’ll prepare on your own time and use your own equipment.
 - You can include your office/team in your bio that is included on the conference website, but you cannot be listed in the agenda as “Sally Smith, TTS/GSA.”
 
 #### Release forms
-GSA speakers are not permitted to sign speaker consent release forms that have not been reviewed/approved by OGC.  You must use the GSA approved response letter and have it reviewed by OGC.
+GSA speakers are not permitted to sign speaker consent release forms that have not been reviewed/approved by OGC.  You must use the [GSA approved response letter](https://drive.google.com/drive/folders/1JADYMHT4hzf8tQE8WQCBrj8-ztbQrqnS) and have it reviewed by OGC.
 
 #### Photography and recording
 Yes, federal employees are allowed to be photographed or recorded (audio/video) while performing their official duties. Approved attendance or speaking at a conference is considered an official duty. Release forms are not required for federal employees who are documented while performing their official duties.
 Permission for GSA visual information producers to document GSA presenters at events not hosted by GSA must be granted by event organizers prior to any still, video, or audio recording.
-Find much more information in GSA’s visual information policy.
+Find much more information in [GSA’s visual information policy](https://insite.gsa.gov/directives-library/gsa-visual-information-program-18083-osc).
 
 #### Endorsements and promotions
 GSA is responsible for providing neutral and unbiased advice. It is essential that we remain fair and unbiased in all that we do and say. As such, we avoid endorsing, or demonstrating favoritism, to any single one of the following:  
@@ -264,17 +264,17 @@ Also, avoid making any personalized statements as they would be considered an en
 - Don't: This is my favorite fed IT event of the year! @USGSA's Sally Smith speech on GSA priorities @GovMediaAtoZ
 - Do: The GSA Administrator is speaking tomorrow: @USGSA's Sally Smith speech on GSA priorities @GovMediaAtoZ
 
-Find much more information at GSA’s social media center.
+Find much more information at [GSA’s social media center](https://insite.gsa.gov/topics/communications/social-media).
 
 #### Waived conference, travel, and food fees
-**Conference fees:** Under the speaking and similar engagements exclusion to the gift rules, when an employee is assigned to participate as a speaker on behalf of the agency, the employee's acceptance of an offer of free attendance at the event on the day of the employee's presentation is permissible when provided by the sponsor of the event. The employee's participation in the event on that day is viewed as a customary and necessary part of the employee's assignment and does not involve a gift to the employee or to the agency.  See 5 C.F.R. 2635.203(b)(8). 
+**Conference fees:** Under the speaking and similar engagements exclusion to the gift rules, when an employee is assigned to participate as a speaker on behalf of the agency, the employee's acceptance of an offer of free attendance at the event on the day of the employee's presentation is permissible when provided by the sponsor of the event. The employee's participation in the event on that day is viewed as a customary and necessary part of the employee's assignment and does not involve a gift to the employee or to the agency. [See 5 C.F.R. 2635.203(b)(8)](https://www.ecfr.gov/cgi-bin/text-idx?SID=15f72e4d810efa219bcaba2ac04325d2&node=5:3.0.10.10.9.2.50.3&rgn=div8). 
 
 **The waived registration fee is only for the day you speak.** If you plan on attending additional days of the conference, GSA needs to pay the difference between the full and waived registration fees, or determine if the additional waived amount, if provided as a gift, is acceptable under the widely attended gathering determination exception to the gift rules.
 
-**Travel fees:** If an offer for non-federal source travel payment is extended, to speak at or attend an event (i.e., full/partial registration, transportation, meals, lodging), then the Event Tracker request must also include the invite, including documentation of the offer listing each item the source will provided, including the cost of each item as well as a statement that all the items are  provided in-kind, along with a completed Request for Acceptance of Payment from Non-Federal Sources Worksheet (if going on TDY to attend the event).
+**Travel fees:** If an offer for non-federal source travel payment is extended to speak at or attend an event (e.g., full/partial registration, transportation, meals, lodging), then the [Event Tracker](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) request must also include the invite, including documentation of the offer listing each item the source will provided, including the cost of each item as well as a statement that all the items are  provided in-kind, along with a completed Request for Acceptance of Payment from Non-Federal Sources Worksheet (if going on TDY to attend the event).
 
-**Food fees:** You can have lunch or dinner at the event, as long as it complies with one of the exceptions or exclusions under the Standards of Ethical Conduct or has been accepted by the agency as a  non-federal source travel payment. Under the exclusions to the Standards of Ethical Conduct, the term gift does not include anything paid for by the government as well as anything for which market value is paid by the employee. See 5 C.F.R. 2635.203(b)(7) and (b)(10).
+**Food fees:** You can have lunch or dinner at the event, as long as it complies with one of the exceptions or exclusions under the Standards of Ethical Conduct or has been accepted by the agency as a  non-federal source travel payment. Under the exclusions to the Standards of Ethical Conduct, the term gift does not include anything paid for by the government as well as anything for which market value is paid by the employee. See [5 C.F.R. 2635.203(b)(7) and (b)(10)](https://www.ecfr.gov/cgi-bin/text-idx?SID=15f72e4d810efa219bcaba2ac04325d2&node=5:3.0.10.10.9.2.50.3&rgn=div8).
 
-For local speaking events, under the speaking and similar engagements exclusion free attendance includes waiver of all or part of the fee for an event or the provision of food, refreshments, entertainment, instruction or materials furnished to all attendees as an integral part of the event. It does not include travel expenses, lodgings, or entertainment collateral to the event. It does not include meals taken other than in a group setting with all other attendees, unless the employee is a presenter at the event and is invited to a separate meal for participating presenters that is hosted by the sponsor of the event. See 5 C.F.R. 2635.203(g).
+For local speaking events, under the speaking and similar engagements exclusion free attendance includes waiver of all or part of the fee for an event or the provision of food, refreshments, entertainment, instruction or materials furnished to all attendees as an integral part of the event. It does not include travel expenses, lodgings, or entertainment collateral to the event. It does not include meals taken other than in a group setting with all other attendees, unless the employee is a presenter at the event and is invited to a separate meal for participating presenters that is hosted by the sponsor of the event. [See 5 C.F.R. 2635.203(g)](https://www.ecfr.gov/cgi-bin/text-idx?SID=15f72e4d810efa219bcaba2ac04325d2&node=5:3.0.10.10.9.2.50.3&rgn=div8).
 
 For a travel speaking event, if a non-federal source offers to pay for a meal, the agency must accept the offered item under the non-federal source travel payment statute, 31 U.S.C. 1353, before travel begins. The item must be provided in-kind (no reimbursement or money provided to the employee) and accepted by the agency as a non-federal source travel payment.
