@@ -45,7 +45,7 @@ We will share open positions as they are available.
 
 ### Open to all federal employees
 
-We will share internal opportunities as they are available.
+We will share federal opportunities as they are available.
 
 ## Opportunities with partners
 
