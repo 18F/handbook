@@ -41,11 +41,11 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-We will share internal opportunities as they are available.
+[Strategic Partnerships Director of Market Intelligence Detail](https://docs.google.com/document/d/19tu96mSLBAtlZdqthok6R1zVVZMzqe_3haE0EhrIuho/edit?usp=sharing)
 
 ### Open to all federal employees
 
-We will share open positions as they are available.
+We will share internal opportunities as they are available.
 
 ## Opportunities with partners
 
