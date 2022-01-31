@@ -41,7 +41,7 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-[Strategic Partnerships Director of Market Intelligence Detail](https://docs.google.com/document/d/19tu96mSLBAtlZdqthok6R1zVVZMzqe_3haE0EhrIuho/edit?usp=sharing)
+[Strategic Partnerships Director of Market Intelligence Detail](https://docs.google.com/document/d/19tu96mSLBAtlZdqthok6R1zVVZMzqe_3haE0EhrIuho/edit?usp=sharing) Open Jan 31 - Feb 14
 
 ### Open to all federal employees
 
