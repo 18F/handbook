@@ -45,7 +45,7 @@ TTS WIDE: [Strategic Partnerships Director of Market Intelligence Detail](https:
 
 ### Open to all federal employees
 
-We will share internal opportunities as they are available.
+We will share federal opportunities as they are available.
 
 ## Opportunities with partners
 
