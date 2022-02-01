@@ -41,7 +41,7 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-[Strategic Partnerships Director of Market Intelligence Detail](https://docs.google.com/document/d/19tu96mSLBAtlZdqthok6R1zVVZMzqe_3haE0EhrIuho/edit?usp=sharing) Open Jan 31 - Feb 14
+TTS WIDE: [Strategic Partnerships Director of Market Intelligence Detail](https://docs.google.com/document/d/19tu96mSLBAtlZdqthok6R1zVVZMzqe_3haE0EhrIuho/edit?usp=sharing) -open Monday, Jan 31st through Monday, Feb 14th
 
 ### Open to all federal employees
 
