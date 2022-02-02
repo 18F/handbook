@@ -31,7 +31,7 @@ Once triaged, the report will be assigned to GSA SecOps to investigate.
 GSA SecOps will work with you to evaluate the vulnerability and guide
 your response.
 
-Once confirmed, GSA SecOps can award the bounty.  There is no need to wait until the
+Once confirmed, GSA SecOps can award the bounty. There is no need to wait until the
 issue is resolved to award.
 
 When the fix has been released to production and confirmed, GSA SecOps can mark the report as
@@ -43,4 +43,3 @@ We encourage programs to disclose reports and redact any [sensitive information]
 
 Use [#bug-bounty-partners](https://gsa-tts.slack.com/archives/C5JQCD9PH) for
 general Bug Bounty related questions for GSA SecOps and HackerOne.
-
