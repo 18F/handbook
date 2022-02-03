@@ -35,17 +35,13 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ## Announcements
 
-### Open
+### Opportunities open to the public
 
 We will share open positions as they are available.
 
 ### Internal only opportunities
 
 TTS WIDE: [Strategic Partnerships Director of Market Intelligence Detail](https://docs.google.com/document/d/19tu96mSLBAtlZdqthok6R1zVVZMzqe_3haE0EhrIuho/edit?usp=sharing) -open Monday, Jan 31st through Monday, Feb 14th
-
-### Open to all federal employees
-
-We will share federal opportunities as they are available.
 
 ## Opportunities with partners
 
