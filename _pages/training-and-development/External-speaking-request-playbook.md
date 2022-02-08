@@ -211,7 +211,7 @@ As your speaking engagement is moving through the approval process, take some ti
         aria-expanded="true"
         aria-controls="b1"
       >
-      Professional vs. personal capacity
+      Professional vs personal capacity
       </button>
     </h3>
 
