@@ -203,8 +203,21 @@ As your speaking engagement is moving through the approval process, take some ti
 </div>
 
 ## Additional information
-### Professional vs. personal capacity
-When receiving an invitation to speak, you need to decide if you want to do the event in your professional or personal capacity: [The FAS Speaker Guide | Version 1.0](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit).
+
+<div class="usa-accordion" markdown=1>
+  <h3 class="usa-accordion__heading">    
+  <button
+        class="usa-accordion__button"
+        aria-expanded="true"
+        aria-controls="b1"
+      >
+      Professional vs. personal capacity
+      </button>
+    </h3>
+
+<div id="b1" class="usa-accordion__content usa-prose" markdown=1>
+
+When receiving an invitation to speak, you need to decide if you want to do the event in your professional or personal capacity: [The FAS Speaker Guide – Version 1.0](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit).
 
 #### Professional capacity
 You’ll participate as a TTS employee and discuss the work you do on behalf of GSA and our partners.
@@ -223,16 +236,55 @@ You’ll prepare on your own time and use your own equipment.
 - You can accept travel and event-related expenses from the sponsor or organizer, but would also need to take leave to attend.
 - You can use title/position in conjunction with your speaking activities, but only if provided as one of a number of other biographical details. Bottom line is that it should be clear that you are not representing GSA when speaking in your personal capacity.
 - You can include your office/team in your bio that is included on the conference website, but you cannot be listed in the agenda as “Sally Smith, TTS/GSA.”
+</div>
 
-### Release forms
-GSA speakers are not permitted to sign speaker consent release forms that have not been reviewed/approved by OGC.  You must use the [GSA approved response letter](https://drive.google.com/drive/folders/1JADYMHT4hzf8tQE8WQCBrj8-ztbQrqnS) and have it reviewed by OGC.
+  <h3 class="usa-accordion__heading">    
+  <button
+        class="usa-accordion__button"
+        aria-expanded="true"
+        aria-controls="b2"
+      >
+      Release forms
+      </button>
+    </h3>
 
-### Photography and recording
+<div id="b2" class="usa-accordion__content usa-prose" markdown=1>
+
+  GSA speakers are not permitted to sign speaker consent release forms that have not been reviewed/approved by OGC.  You must use the [GSA approved response letter](https://drive.google.com/drive/folders/1JADYMHT4hzf8tQE8WQCBrj8-ztbQrqnS) and have it reviewed by OGC.
+
+</div>
+
+  <h3 class="usa-accordion__heading">    
+  <button
+        class="usa-accordion__button"
+        aria-expanded="true"
+        aria-controls="b3"
+      >
+      Photography and recording
+      </button>
+    </h3>
+
+<div id="b3" class="usa-accordion__content usa-prose" markdown=1>
+
 Yes, federal employees are allowed to be photographed or recorded (audio/video) while performing their official duties. Approved attendance or speaking at a conference is considered an official duty. Release forms are not required for federal employees who are documented while performing their official duties.
+
 Permission for GSA visual information producers to document GSA presenters at events not hosted by GSA must be granted by event organizers prior to any still, video, or audio recording.
 Find much more information in [GSA’s visual information policy](https://insite.gsa.gov/directives-library/gsa-visual-information-program-18083-osc).
 
-### Endorsements and promotions
+</div>
+
+  <h3 class="usa-accordion__heading">    
+  <button
+        class="usa-accordion__button"
+        aria-expanded="true"
+        aria-controls="b4"
+      >
+      Endorsements and promotions
+      </button>
+    </h3>
+
+<div id="b4" class="usa-accordion__content usa-prose" markdown=1>
+
 GSA is responsible for providing neutral and unbiased advice. It is essential that we remain fair and unbiased in all that we do and say. As such, we avoid endorsing, or demonstrating favoritism, to any single one of the following:  
 - Vendors
 - Brand-name products
@@ -243,13 +295,40 @@ GSA is responsible for providing neutral and unbiased advice. It is essential th
 Therefore: 
 - GSA SMEs cannot speak about brand-name products or companies.
 - GSA will not provide quotes to event hosts for press outreach or marketing materials.
-- GSA has to carefully consider if accepting an invitation to an event sponsored by a single vendor will be seen as endorsing that vendor. 
+- GSA has to carefully consider if accepting an invitation to an event sponsored by a single vendor will be seen as endorsing that vendor.
 
-### Content and copyrights 
+</div>
+
+  <h3 class="usa-accordion__heading">    
+  <button
+        class="usa-accordion__button"
+        aria-expanded="true"
+        aria-controls="b5"
+      >
+      Content and copyrights
+      </button>
+    </h3>
+
+<div id="b5" class="usa-accordion__content usa-prose" markdown=1>
+
 All material (slides, presentations, handouts, etc.) presented by GSA are public domain, and GSA will not create special or exclusive content for an event that is not available to the public through other channels. As such, event hosts (companies or association/trade groups) may not retain the rights to GSA content nor may they profit off the sale of that content.  
+
 For example, recording a presentation for archival purposes, or for later viewing, is permissible. Putting that recording behind a paywall, or selling a DVD on which it is included, is not. GSA will provide consent to be recorded or photographed only if that recording will not be used for monetary gain by the event host. 
 
-### Event promotion
+</div>
+
+  <h3 class="usa-accordion__heading">    
+  <button
+        class="usa-accordion__button"
+        aria-expanded="true"
+        aria-controls="b6"
+      >
+      Event promotion
+      </button>
+    </h3>
+
+<div id="b6" class="usa-accordion__content usa-prose" markdown=1>
+
 In general, it is okay to pre-plan or post live to social media while you are at an event. From an official GSA account, tweets or retweets from a group highlighting a GSA principal’s appearance on a program (TV, radio, podcast, webinar, etc.) or at an event are fine.
 Be careful to limit your tweet or retweet to only sharing facts rather than encouraging people or GSA employees to attend a conference. For example:  
 
@@ -263,15 +342,34 @@ Also, avoid making any personalized statements as they would be considered an en
 
 Find much more information at [GSA’s social media center](https://insite.gsa.gov/topics/communications/social-media).
 
-### Waived conference, travel, and food fees
-**Conference fees:** Under the speaking and similar engagements exclusion to the gift rules, when an employee is assigned to participate as a speaker on behalf of the agency, the employee's acceptance of an offer of free attendance at the event on the day of the employee's presentation is permissible when provided by the sponsor of the event. The employee's participation in the event on that day is viewed as a customary and necessary part of the employee's assignment and does not involve a gift to the employee or to the agency. See [5 C.F.R. 2635.203(b)(8)](https://www.ecfr.gov/current/title-5/chapter-XVI/subchapter-B/part-2635/subpart-B/section-2635.203#p-2635.203(b)(8)).
+</div>
+
+  <h3 class="usa-accordion__heading">    
+  <button
+        class="usa-accordion__button"
+        aria-expanded="true"
+        aria-controls="b7"
+      >
+      Waived conference, travel, and food fees
+      </button>
+    </h3>
+
+<div id="b7" class="usa-accordion__content usa-prose" markdown=1>
+
+#### Conference fees
+Under the speaking and similar engagements exclusion to the gift rules, when an employee is assigned to participate as a speaker on behalf of the agency, the employee's acceptance of an offer of free attendance at the event on the day of the employee's presentation is permissible when provided by the sponsor of the event. The employee's participation in the event on that day is viewed as a customary and necessary part of the employee's assignment and does not involve a gift to the employee or to the agency. See [5 C.F.R. 2635.203(b)(8)](https://www.ecfr.gov/current/title-5/chapter-XVI/subchapter-B/part-2635/subpart-B/section-2635.203#p-2635.203(b)(8)).
 
 **The waived registration fee is only for the day you speak.** If you plan on attending additional days of the conference, GSA needs to pay the difference between the full and waived registration fees, or determine if the additional waived amount, if provided as a gift, is acceptable under the widely attended gathering determination exception to the gift rules.
 
-**Travel fees:** If an offer for non-federal source travel payment is extended to speak at or attend an event (e.g., full/partial registration, transportation, meals, lodging), then the [Event Tracker](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) request must also include the invite, including documentation of the offer listing each item the source will provided, including the cost of each item as well as a statement that all the items are  provided in-kind, along with a completed Request for Acceptance of Payment from Non-Federal Sources Worksheet (if going on TDY to attend the event).
+#### Travel fees 
+If an offer for non-federal source travel payment is extended to speak at or attend an event (e.g., full/partial registration, transportation, meals, lodging), then the [Event Tracker](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) request must also include the invite, including documentation of the offer listing each item the source will provided, including the cost of each item as well as a statement that all the items are  provided in-kind, along with a completed Request for Acceptance of Payment from Non-Federal Sources Worksheet (if going on TDY to attend the event).
 
-**Food fees:** You can have lunch or dinner at the event, as long as it complies with one of the exceptions or exclusions under the Standards of Ethical Conduct or has been accepted by the agency as a  non-federal source travel payment. Under the exclusions to the Standards of Ethical Conduct, the term gift does not include anything paid for by the government as well as anything for which market value is paid by the employee. See [5 C.F.R. 2635.203(b)(7)](https://www.ecfr.gov/current/title-5/chapter-XVI/subchapter-B/part-2635/subpart-B/section-2635.203#p-2635.203(b)(7)) and [(b)(10)](https://www.ecfr.gov/current/title-5/chapter-XVI/subchapter-B/part-2635/subpart-B/section-2635.203#p-2635.203(b)(10)).
+#### Food fees 
+You can have lunch or dinner at the event, as long as it complies with one of the exceptions or exclusions under the Standards of Ethical Conduct or has been accepted by the agency as a  non-federal source travel payment. Under the exclusions to the Standards of Ethical Conduct, the term gift does not include anything paid for by the government as well as anything for which market value is paid by the employee. See [5 C.F.R. 2635.203(b)(7)](https://www.ecfr.gov/current/title-5/chapter-XVI/subchapter-B/part-2635/subpart-B/section-2635.203#p-2635.203(b)(7)) and [(b)(10)](https://www.ecfr.gov/current/title-5/chapter-XVI/subchapter-B/part-2635/subpart-B/section-2635.203#p-2635.203(b)(10)).
 
 For local speaking events, under the speaking and similar engagements exclusion free attendance includes waiver of all or part of the fee for an event or the provision of food, refreshments, entertainment, instruction or materials furnished to all attendees as an integral part of the event. It does not include travel expenses, lodgings, or entertainment collateral to the event. It does not include meals taken other than in a group setting with all other attendees, unless the employee is a presenter at the event and is invited to a separate meal for participating presenters that is hosted by the sponsor of the event. See [5 C.F.R. 2635.203(g)](https://www.ecfr.gov/current/title-5/chapter-XVI/subchapter-B/part-2635/subpart-B/section-2635.203#p-2635.203(g)).
 
 For a travel speaking event, if a non-federal source offers to pay for a meal, the agency must accept the offered item under the non-federal source travel payment statute, [31 U.S.C. 1353](https://www.govinfo.gov/content/pkg/USCODE-2012-title31/pdf/USCODE-2012-title31-subtitleII-chap13-subchapIII-sec1353.pdf), before travel begins. The item must be provided in-kind (no reimbursement or money provided to the employee) and accepted by the agency as a non-federal source travel payment.
+
+</div>
+</div>
