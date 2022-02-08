@@ -56,7 +56,7 @@ If you want to represent TTS at an external event in your official capacity, you
 <div id="a2" class="usa-accordion__content usa-prose" markdown=1>
 If you have been formally invited to participate in a speaking engagement, you need to think through the following questions.
 
-- Will you be speaking in your personal capacity? For additional information on representing GSA in a professional capacity versus a personal capacity, please see [professional vs personal capacity](#professional-vs-personal-capacity) in the additional information section.
+- Will you be speaking in your personal capacity? For additional information on representing GSA in a professional capacity versus a personal capacity, please see [professional vs. personal capacity](#additional-information) in the additional information section.
 - Do you have time?
 - Does the event fit fully within your realm of expertise? Is there someone else at TTS that may be a better fit for this speaking opportunity?
 - Have you reviewed the Event Justification Examples?
@@ -211,7 +211,7 @@ As your speaking engagement is moving through the approval process, take some ti
         aria-expanded="true"
         aria-controls="b1"
       >
-      Professional vs personal capacity
+      Professional vs. personal capacity
       </button>
     </h3>
 
