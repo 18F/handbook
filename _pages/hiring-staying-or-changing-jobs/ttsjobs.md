@@ -49,8 +49,6 @@ TTS WIDE: [18F Acting Deputy Director](https://docs.google.com/document/d/1vT8O1
 
 GSA WIDE: [18F Acting Director of Operations](https://docs.google.com/document/d/1UYDnTDAs0J2NS2W7rZ93joI0VhsfaD5LoZv2Vd9gaws/edit) -open Friday, Feb 11th through Monday, Feb 28th
 
-
-
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
