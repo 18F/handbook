@@ -8,6 +8,7 @@ questions:
 redirect_from:
   - /travel-guide-email-templates/
 ---
+
 [TTS Travel 101]({{site.baseurl}}/travel-101) <br>
 [TTS Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
 [FAQ]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq) <br>
@@ -17,7 +18,7 @@ redirect_from:
 
 Authorizing official approval is secured via the [event request process]({{site.baseurl}}/conferences-events-training), so you are all set as long as your travel is booked in Concur and is in SUBMIT TO APPROVER status. <br>
 <br>
-*However, an email of approval is still required if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason.*
+_However, an email of approval is still required if you will be [extending your trip at your own expense]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons), [flying to or from points that are not either your duty station or location of the event]({{site.baseurl}}/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home), or combining your event travel with travel for some other reason._
 
 #### Email Template for Individual Travel:
 
@@ -35,7 +36,7 @@ Many thanks,
 
 \[ requestor_name ]
 
-- - -
+---
 
 #### Email Template for Group Travel:
 
@@ -45,7 +46,7 @@ Many thanks,
 
 Below is the travel cost break out for \[ work to be performed ] for \[ Budget name or Tock project name and ID# ]. The estimated total cost is \[ total cost ], with the cost for each team member broken out below. Please reply with your approval, or with any subsequent questions or clarifications you may have.
 
-[ Include the [completed travel expenses estimator](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) *pasted* here, or another format of your choice, as long as origins, destinations, dates of travel, and estimated cost are clearly identified for each person traveling ]
+[ Include the [completed travel expenses estimator](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) _pasted_ here, or another format of your choice, as long as origins, destinations, dates of travel, and estimated cost are clearly identified for each person traveling ]
 
 Many thanks,
 
