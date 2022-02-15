@@ -133,6 +133,8 @@ To purchase this type of equipment, attach a doctor's note. If you have question
 
 For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 
+If your ticket gets stuck, follow [the escalation instructions]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
+
 ## Lost or stolen equipment
 
 If TTS-issued equipment is lost or stolen, follow these mandatory steps. Employees must follow the GSA procedures for lost or stolen equipment or missing PIV cards, and alert TTS in [#equipment](https://gsa-tts.slack.com/messages/equipment):
