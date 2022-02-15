@@ -27,7 +27,7 @@ TTS engages in events to recruit and build awareness about TTS products and serv
 2. **Speakers from underrepresented groups are invited to speak on their subject matter expertise.** Frequently, folks from underrepresented groups are invited to speak about their identities, rather than their area of technical expertise. Speakers may opt to share their lived experiences - but it should not be an expectation.
 3. **If there is an identity-based topic, the featured speakers have that identity.** A good mindset is the disability rights slogan “nothing about us, without us.”
 4. **There is a code of conduct with an incident response plan.** Event organizers should clearly state what is expected of attendees and speakers, and how they will respond when problems arise. Link to the [TTS Code of Conduct]({{site.baseurl}}/about-us/code-of-conduct/).
-5. **The event space is accessible - both virtual and physical spaces. **Accessible events offer: closed captioning, American Sign Language interpretation, reserved front row seating for people who need to sit closer to the stage, and wheelchair accessible spaces. Social events should have places to sit down throughout the space.
+5. **The event space is accessible - both virtual and physical spaces.** Accessible events offer: closed captioning, American Sign Language interpretation, reserved front row seating for people who need to sit closer to the stage, and wheelchair accessible spaces. Social events should have places to sit down throughout the space.
 6. **Participants have a place to share their pronouns.** For in-person events, include a space on name tags. For virtual, share instructions on how a person can modify their display name to include pronouns.
 
    ### If you are invited to speak at an event where attendees pay to attend:
@@ -37,9 +37,9 @@ TTS engages in events to recruit and build awareness about TTS products and serv
 9. **What if I’ve been invited to speak, and the event is not inclusive?**
    Depending on both the event circumstances and your identities, you could:
 
-- Suggest the name of someone else who might be able to speak on the topic and/or join you in speaking.
-- Recommend that the organizers modify the event - for example, if they cannot find an accessible venue, could the event be moved to a virtual setting?
-- Decline the invitation, stating the reasons why.
+   - Suggest the name of someone else who might be able to speak on the topic and/or join you in speaking.
+   - Recommend that the organizers modify the event - for example, if they cannot find an accessible venue, could the event be moved to a virtual setting?
+   - Decline the invitation, stating the reasons why.
 
 Ultimately, the choice for accepting or declining an invitation rests with the TTS employee who has been invited to speak. We hope our external engagements reflect what we strive for within our organization.
 
