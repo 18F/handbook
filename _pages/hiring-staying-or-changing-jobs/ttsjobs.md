@@ -41,8 +41,6 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-TTS WIDE: [Strategic Partnerships Director of Market Intelligence Detail](https://docs.google.com/document/d/19tu96mSLBAtlZdqthok6R1zVVZMzqe_3haE0EhrIuho/edit?usp=sharing) -open Monday, Jan 31st through Monday, Feb 14th
-
 TTS WIDE: [18F Senior Advisor for State, Local, Tribal Governments, and Territories 50%](https://docs.google.com/document/d/1xTDD_hBSH1R_xYwndL1eHeRu0X2GJMvafbbRyhHam34/edit#) -open Friday, Feb 11th through Monday, Feb 28th
 
 TTS WIDE: [18F Acting Deputy Director](https://docs.google.com/document/d/1vT8O1Bhhro_9oocYTEZj7-hLXuRhqsgxVzhjGhWXIOY/edit#) -open Friday, Feb 11th through Monday, Feb 28th
