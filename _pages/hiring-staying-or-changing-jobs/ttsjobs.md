@@ -45,7 +45,7 @@ TTS WIDE: [18F Senior Advisor for State, Local, Tribal Governments, and Territor
 
 TTS WIDE: [18F Acting Deputy Director](https://docs.google.com/document/d/1vT8O1Bhhro_9oocYTEZj7-hLXuRhqsgxVzhjGhWXIOY/edit#) -open Friday, Feb 11th through Monday, Feb 28th
 
-TTS WIDE: [Login.gov TMF Delivery Manager](https://docs.google.com/document/d/1JhrJdAdW1FOq6PrHtECmmbEAkiSnMqpFRzQC4Z0CE6U/edit#heading=h.88jtsj70nmjp) -open Monday, Feb 14th through Monday, Feb 21st
+TTS WIDE: [Login.gov TMF Delivery Manager](https://docs.google.com/document/d/1JhrJdAdW1FOq6PrHtECmmbEAkiSnMqpFRzQC4Z0CE6U/edit#heading=h.88jtsj70nmjp) -open Monday, Feb 14th through Monday, Feb 22nd
 
 GSA WIDE: [18F Acting Director of Operations](https://docs.google.com/document/d/1UYDnTDAs0J2NS2W7rZ93joI0VhsfaD5LoZv2Vd9gaws/edit) -open Friday, Feb 11th through Monday, Feb 28th
 
