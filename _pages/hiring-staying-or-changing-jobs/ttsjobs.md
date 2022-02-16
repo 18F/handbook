@@ -51,6 +51,8 @@ GSA WIDE: [18F Acting Director of Operations](https://docs.google.com/document/d
 
 TTS WIDE: [U.S. Digital Corps Detail - Learning & Development Program Support Lead](https://docs.google.com/document/d/14sTBsZ8qLt1pBu5WbVlSgytQV0wQj2Qp_9sCQEyGKKo/edit#) - open Monday, Feb 14th through Tuesday, Feb 22nd
 
+TTS WIDE: [Login.gov Customer Support Manager Detail](https://docs.google.com/document/d/15uUxk3WoJk6D2mwr2rEgb07YdLZ1Wb6eO78588IeMWo/edit#) - open Thursday, Feb 17th through Monday, Feb 28th
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
