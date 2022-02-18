@@ -53,6 +53,8 @@ TTS WIDE: [U.S. Digital Corps Detail - Learning & Development Program Support Le
 
 TTS WIDE: [Login.gov Customer Support Manager Detail](https://docs.google.com/document/d/15uUxk3WoJk6D2mwr2rEgb07YdLZ1Wb6eO78588IeMWo/edit#) - open Thursday, Feb 17th through Monday, Feb 28th
 
+GSA WIDE Office of the Deputy Administrator: [GSA Service Delivery Team: Engineer and Acquisition Strategist](https://docs.google.com/document/d/1OuxwKRAIHelRoCQOM8-8MITYFQUtqpu_Ov7cobQ0B24/edit#) - open Friday, February 18th through Wednesday, March 2nd
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
