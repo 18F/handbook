@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -49,7 +48,7 @@ TTS WIDE: [Login.gov TMF Delivery Manager](https://docs.google.com/document/d/1J
 
 GSA WIDE: [18F Acting Director of Operations](https://docs.google.com/document/d/1UYDnTDAs0J2NS2W7rZ93joI0VhsfaD5LoZv2Vd9gaws/edit) -open Friday, Feb 11th through Monday, Feb 28th
 
-TTS WIDE: [U.S. Digital Corps Detail - Learning & Development Program Support Lead](https://docs.google.com/document/d/14sTBsZ8qLt1pBu5WbVlSgytQV0wQj2Qp_9sCQEyGKKo/edit#) - open Monday, Feb 14th through Tuesday, Feb 22nd
+TTS WIDE: [U.S. Digital Corps Detail - Learning & Development Program Support Lead](https://docs.google.com/document/d/14sTBsZ8qLt1pBu5WbVlSgytQV0wQj2Qp_9sCQEyGKKo/edit#) - open Monday, Feb 14th through Friday, Feb 25th
 
 TTS WIDE: [Login.gov Customer Support Manager Detail](https://docs.google.com/document/d/15uUxk3WoJk6D2mwr2rEgb07YdLZ1Wb6eO78588IeMWo/edit#) - open Thursday, Feb 17th through Monday, Feb 28th
 
@@ -65,7 +64,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
