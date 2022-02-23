@@ -104,7 +104,7 @@ Tailor your approach based on the project and partner’s needs. Historically, t
   - Connect partners with their peers, peer mentors, or [communities of practice](https://digital.gov/communities/)
   - Connect the partner to other government working groups, councils, or professionals across agencies who work on related problems
   - Recommend government or technical trainings, or recording materials from Digital.gov’s Communities of Practice
-- In the case of [projects in distress, review alternative solutions: pivot, pause or stop the engagement](https://handbook.tts.gsa.gov/18f/projects-partners/projects-in-distress/)
+- In the case of [projects in distress, review alternative solutions: pivot, pause or stop the engagement]({{site.baseurl}}/18f/projects-partners/projects-in-distress/)
 - Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW)
   so everyone on the project team can fully participate.
 - Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ).
