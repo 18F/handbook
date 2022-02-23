@@ -35,17 +35,23 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ## Announcements
 
-### Open
+### Opportunities open to the public
 
 We will share open positions as they are available.
 
 ### Internal only opportunities
 
-We will share internal opportunities as they are available.
+GSA WIDE: [18F Acting Director of Operations](https://docs.google.com/document/d/1UYDnTDAs0J2NS2W7rZ93joI0VhsfaD5LoZv2Vd9gaws/edit) - open Friday, Feb 11th through Monday, Feb 28th
 
-### Open to all federal employees
+GSA WIDE: Office of the Deputy Administrator: [GSA Service Delivery Team: Engineer and Acquisition Strategist](https://docs.google.com/document/d/1OuxwKRAIHelRoCQOM8-8MITYFQUtqpu_Ov7cobQ0B24/edit#) - open Friday, February 18th through Wednesday, March 2nd
 
-We will share open positions as they are available.
+TTS WIDE: [U.S. Digital Corps Detail - Learning & Development Program Support Lead](https://docs.google.com/document/d/14sTBsZ8qLt1pBu5WbVlSgytQV0wQj2Qp_9sCQEyGKKo/edit#) - open Monday, Feb 14th through Friday, Feb 25th
+
+TTS WIDE: [18F Senior Advisor for State, Local, Tribal Governments, and Territories 50%](https://docs.google.com/document/d/1xTDD_hBSH1R_xYwndL1eHeRu0X2GJMvafbbRyhHam34/edit#) - open Friday, Feb 11th through Monday, Feb 28th
+
+TTS WIDE: [18F Acting Deputy Director](https://docs.google.com/document/d/1vT8O1Bhhro_9oocYTEZj7-hLXuRhqsgxVzhjGhWXIOY/edit#) - open Friday, Feb 11th through Monday, Feb 28th
+
+TTS WIDE: [Login.gov Customer Support Manager Detail](https://docs.google.com/document/d/15uUxk3WoJk6D2mwr2rEgb07YdLZ1Wb6eO78588IeMWo/edit#) - open Thursday, Feb 17th through Monday, Feb 28th
 
 ## Opportunities with partners
 

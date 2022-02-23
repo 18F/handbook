@@ -257,8 +257,8 @@ If your travel is **nonbillable**, and coming from your team's budget, your auth
 
 If your travel is **billable** you will need to get approval from the director of the team who oversees the type of project you are working on:
 
-- 18F Custom Partner Solutions: Alex Bisker
-- 10x : Nico Papafil
+- 18F: Ashley Owens
+- 10x: Nico Papafil
 - cloud.gov: Carlo Costino
 - login.gov: Alex Dalessio
 - Centers of Excellence: Bob DeLuca or Brian Whittaker
