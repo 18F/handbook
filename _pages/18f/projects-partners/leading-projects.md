@@ -86,7 +86,9 @@ For most 18F projects, these tasks, when completed, help ensure successful proje
 - Participate in the Project Leadership Collective! Read the [PLC wiki](https://github.com/18F/Project-Leadership-Collective/wiki/Project-Leadership-Collective) and [join the PLC conversation — #c-18f-project-leadership](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
 
 ### Ending a project
-Tailor your approach based on the project and partner’s needs. Historically, the most common types of 18F project endings are some combination of the following: 
+
+Tailor your approach based on the project and partner’s needs. Historically, the most common types of 18F project endings are some combination of the following:
+
 - **Package up**
   - Develop a roadmap that documents specific actionable steps for the partner
   - Recommendations should stand alone and not be dependent on continued 18F involvement
