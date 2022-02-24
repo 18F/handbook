@@ -49,7 +49,7 @@ More information for each of these steps can be found below.
 Once you are ready to move forward with your opportunity, you can use the templates below to create your internal posting:
 
 - [TTSJobs Announcement Template](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit)
-- [TTSJobs Application Form Template](https://docs.google.com/forms/d/1kpsTvpfCBox7ksQtX9VjQQdjkflPGCdKIZK-a9nUDPU/edit) OR [](https://docs.google.com/forms/d/1C8OVwj-yvuHicDwPbtFTLxPLn8zZA6WK6HC-0uIzHwk/edit)[TTSJobs Application & Nomination Form Template](https://docs.google.com/forms/d/1C8OVwj-yvuHicDwPbtFTLxPLn8zZA6WK6HC-0uIzHwk/edit)
+- [TTSJobs Application Form Template](https://docs.google.com/forms/d/1OBVfR1KP6-O3kb2nSuCekz22SYnt_XzZX3eYJP1xVF0/edit) OR [TTSJobs Application & Nomination Form Template](https://docs.google.com/forms/d/1C8OVwj-yvuHicDwPbtFTLxPLn8zZA6WK6HC-0uIzHwk/edit)
 
   - Using an Application & Nomination Form is a great way to improve your candidate pool. It does however mean that you will need to follow up with nominated candidates directly to discuss the opportunity and see if they would like to formally apply, so please keep this in mind.
 
