@@ -142,7 +142,7 @@ Using the the [Quick Start](https://github.com/zaproxy/zap-core-help/wiki/HelpAd
 
 ### Scanning
 
-1. [Set up ZAP as a proxy.](https://github.com/zaproxy/zap-core-help/wiki/HelpStartProxies)
+1. [Set up ZAP as a proxy.](https://www.zaproxy.org/docs/desktop/start/proxies/)
    - Unfortunately, the "Plug-n-Hack" extension mentioned on the Quick Start page is [currently non-functional](https://github.com/zaproxy/zaproxy/issues/2069).
    - If the browser gives you a certificate error (e.g. `"This site uses HTTP Strict Transport Security (HSTS) to specify that Firefox may only connect to it securely."`), you will need to install ZAP's root certificate.
      - In ZAP, go to `Tools`->`Options`->`Dynamic SSL Certificate` and click the `Save` button to save the certificate to your computer.
