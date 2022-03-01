@@ -51,8 +51,6 @@ TTS WIDE: [18F Senior Advisor for State, Local, Tribal Governments, and Territor
 
 TTS WIDE: [18F Acting Deputy Director](https://docs.google.com/document/d/1vT8O1Bhhro_9oocYTEZj7-hLXuRhqsgxVzhjGhWXIOY/edit#) - open Friday, Feb 11th through Monday, Feb 28th
 
-TTS WIDE: [Login.gov Customer Support Manager Detail](https://docs.google.com/document/d/15uUxk3WoJk6D2mwr2rEgb07YdLZ1Wb6eO78588IeMWo/edit#) - open Thursday, Feb 17th through Monday, Feb 28th
-
 TTS WIDE: [Login.gov Acting Director Detail](https://docs.google.com/document/d/1TCJ5PgnySvt-hoqLlIrptkWRndziK31EMvOEJQwaIVs/edit#) - open Monday, Feb 28th through Monday, March 7th
 
 ## Opportunities with partners
