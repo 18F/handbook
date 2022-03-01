@@ -45,6 +45,8 @@ GSA WIDE: Office of the Deputy Administrator: [GSA Service Delivery Team: Engine
 
 TTS WIDE: [Login.gov Acting Director Detail](https://docs.google.com/document/d/1TCJ5PgnySvt-hoqLlIrptkWRndziK31EMvOEJQwaIVs/edit#) - open Monday, Feb 28th through Monday, March 7th
 
+TTS WIDE: [Login.gov Integration Engineer Detail (5 vacancies)](https://docs.google.com/document/d/1xcCxgdFa4PJQxV3iNB7V-8b_ZkILFPebnbXBqJ8KcUY/edit?usp=sharing) - open Tuesday, March 1st through Tuesday, March 8th
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
