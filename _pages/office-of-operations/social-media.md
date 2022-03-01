@@ -9,7 +9,7 @@ redirect_from:
 
 _Learn how TTS uses social media._
 
-As GSA employees, we all need to follow the [GSA Social Media Policy](https://www.gsa.gov/portal/content/180607) when posting on social media; this policy includes guidance for both official TTS social media accounts and personal use of social media. If you'd like to engage in a discussion or comment thread in your professional capacity as a GSA employee, please let the TTS Outreach team know beforehand so they can provide guidance. When posting on social media, always keep in mind the Hatch Act, FOIA, Ethics, and Code of Conduct.
+As GSA employees, we all need to follow the [GSA Social Media Policy](https://www.gsa.gov/directive/gsa-social-media-policy) when posting on social media; this policy includes guidance for both official TTS social media accounts and personal use of social media. If you'd like to engage in a discussion or comment thread in your professional capacity as a GSA employee, please let the TTS Outreach team know beforehand so they can provide guidance. When posting on social media, always keep in mind the Hatch Act, FOIA, Ethics, and Code of Conduct.
 
 If you’d like an official TTS or GSA account to tweet something or respond to a tweet let us know in [#tweet-this](https://gsa-tts.slack.com/messages/tweet-this). To see a list of the official TTS social media channels check out the [U.S. Digital Registry](https://usdigitalregistry.digitalgov.gov).
 
