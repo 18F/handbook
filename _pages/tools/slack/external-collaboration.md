@@ -21,7 +21,6 @@ Partners may include:
 - Vendors _under contract_ (not just a Terms of Service) with TTS
 - Vendors with GSA who are working on a project with TTS, for which we have a Memorandum of Understanding (MOU)
 
-
 Note this does _not_ include:
 
 - The general public, for which we have [dedicated channels](#the-public)
@@ -46,7 +45,7 @@ There are two options for sharing channels with partners who use Slack.
 
 - [**Multi-workspace channels**](https://slack.com/help/articles/115001399587-Create-multi-workspace-channels-on-Enterprise-Grid) can be used between [workspaces in the GSA Slack Enterprise Grid](https://gsa.enterprise.slack.com/).
 
-- Use [**Slack Connect**](https://slack.com/help/articles/115004151203-Guide-to-sharing-channels-with-external-organizations) to share channels with partners outside of GSA. 
+- Use [**Slack Connect**](https://slack.com/help/articles/115004151203-Guide-to-sharing-channels-with-external-organizations) to share channels with partners outside of GSA.
 
 Slack Connect is preferred over adding partners as guests.
 
@@ -76,10 +75,8 @@ See [the instructions for creating a new public channel](https://github.com/18F/
 
 ### Archive a Slack channel
 
-When a Slack channel is no longer needed (e.g., a partner project has ended), the channel should be archived. For Slack Connect channels (indicated by a double diamond icon next to the channel name), make a request in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) to archive the channel. Channels that aren't Slack Connect can be archived by any member of the channel. View [instructions for archiving a Slack channel](https://slack.com/help/articles/213185307-Archive-or-delete-a-channel).  
+When a Slack channel is no longer needed (e.g., a partner project has ended), the channel should be archived. For Slack Connect channels (indicated by a double diamond icon next to the channel name), make a request in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) to archive the channel. Channels that aren't Slack Connect can be archived by any member of the channel. View [instructions for archiving a Slack channel](https://slack.com/help/articles/213185307-Archive-or-delete-a-channel).
 
 ## Usage of other Slack workspaces
 
 You may be invited to other Slack workspaces operated by government entities, or entities under contract to the government. You're allowed to join those workspaces as necessary for your work. You should join those workspaces with your **GSA email address**. If you're invited to Slack workspaces [in your personal capacity]({{site.baseurl}}/office-of-operations/fas-speaker-guide/#professional-vs-personal-capacity), you must join those workspaces with a personal email address.
-
-
