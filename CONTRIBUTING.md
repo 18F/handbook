@@ -61,7 +61,7 @@ Note: The following steps specifically cover **editing an existing page**.
 
 To access NetlifyCMS for the Handbook, navigate to <https://handbook.tts.gsa.gov/admin/>. If you haven't made a contribution before, NetlifyCMS will prompt you to login with GitHub. If you don't have a GitHub account, [create one](https://github.com/signup).
 
-Because the Handbook is built and served by [Federalist](https://federalist.18f.gov/), you'll also need to [request access to Federalist]({{site.baseurl}}//tools/federalist/) before you can use NetlifyCMS. Federalist uses GitHub for authentication, so you'll need a GitHub account before requesting access to Federalist.
+Because the Handbook is built and served by [Federalist](https://federalist.18f.gov/), you'll also need to [request access to Federalist]({{site.baseurl}}/tools/federalist/) before you can use NetlifyCMS. Federalist uses GitHub for authentication, so you'll need a GitHub account before requesting access to Federalist.
 
 ### Step 2: Find the page you'd like to edit
 
