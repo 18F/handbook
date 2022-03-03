@@ -13,67 +13,68 @@ If you need to purchase more expensive software, see [procurements over $10,000]
 
 {% include software-warning.html %}
 
-## Get access to software we already have
 
-[**Search the IT Standards
-list.**]({{site.baseurl}}/general-information-and-resources/software/search/)
+Almost all software in use at GSA needs to be approved through the [GSA IT Standards process](https://sites.google.com/a/gsa.gov/it_standards/it-standards). There are a few exceptions:
+- Software-as-a-Service (SaaS). Where federal information is *not* being stored by the third party.
+- Open source software (e.g. dependencies and libraries) if it meets the following criteria:
+  - When it is used as a component within a TTS system and is assessed as part of its System Security Plan (SSP), and is thereby covered by its Authorization to Operate (ATO).
+  - Free and open source development packages (e.g. brew, npm packages, ruby gems, python, or other dependencies, etc.)
+  - In general, open source development libraries are exempt from IT Standards review. See [GSA’s IT Standards review process](https://sites.google.com/a/gsa.gov/it_standards/software-approvals#h.eubg8a2e9b5) for more details.
 
-If the software you are looking for is in the [TTS inventory](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0), send an email to [tts-software@gsa.gov](mailto:tts-software@gsa.gov) requesting a license for the software you need. The TTS Saas Project Manager will contact you within 1-2 business days.
+If the software you are looking for is not one of the above, you will need to determine if it is already approved for use at GSA, or if there is a similar software product already approved that offers the same functionality. 
 
-If TTS does not have licenses, GSA might. In order to check the GSA IT Catalog:
+Please note: In the past, the Tech Portfolio team had a major role in procuring software for programs, but the team is no longer able to provide this service due to staff shortage. 
 
-1. First, check if the approved software is in the Self Service catalog app from your Macbook
-1. If the tool is not in the Self Service catalog, [Start a Software request](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
-1. Scroll toward the bottom of the page to where it says “Enter Software Name Here”.
-1. In the dropdown menu, start to type the name of the software you need.
+It is ultimately the program’s responsibility to work with the software vendor to determine whether or not they will comply with the IT Security requirements set by GSA prior to requesting software. Getting a vendor's upfront commitment to work with our Security team in “good faith and in a timely manner” will be critical to the approval process.   
 
-If the name pops up, it means GSA has already purchased it. If your software is in the Catalog, fill out the rest of the form to request a license.
+Search the GSA IT Standards list in the [GSA Enterprise Architecture Analytics and Reporting (GEAR)](https://ea.gsa.gov/#!/itstandards) (requires VPN) to check if software is approved for use at GSA. You can also search for similar software already approved in GEAR if it meets most of your needs. 
 
-_Note: If you're looking for MS Office, see [this page]({{site.baseurl}}/office/)._
+## Software already approved in [GEAR](https://ea.gsa.gov/#!/itstandards)
 
-## Approvals
+Review the following if the software has been listed as approved in GEAR.
 
-All software in use at GSA needs to be approved through the IT Standards process. There are a few exceptions:
+#### For Desktop software
 
-- Free and open source development packages
-  - In general, open source development libraries are exempt from IT Standards review.
-  - See the [CIO GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>) (section 2c) for more details.
-- [Tools from partner agencies]({{site.baseurl}}/general-information-and-resources/collaboration-tools/#using-partners-tools)
+Step 1 - Search for the software in the [TTS Handbook](https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=tts-handbook) to see if there are instructions or guidance already available for installing the software.  
 
-## Purchase new software
+Step 2 - Search the GSA Self Service Application pre-installed on your Government issued device. 
+  - If the software you are looking for is available in the Self Service Application, then you can directly install it yourself. 
 
-Here at TTS, we want to stay current and take advantage of as many emerging technologies as possible. We believe that getting the software you need to do your job should not be difficult, time-consuming or stressful. If the software is not in the [TTS inventory](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0) or GSA IT Catalog (or if there are no licenses available), the TTS Tech Portfolio will work with you to meet your needs as best as possible.
+Step 3 - If it is not located in the TTS Handbook or the GSA Self Service application, submit a service desk request to have it installed: [Start a Software request here](https://sites.google.com/a/gsa.gov/it_standards/software-approvals)
 
-### Step 1: Submit TTS Software Request
+Note: If you're looking for MS Office, see the [Microsoft Office page]({{site.baseurl}}/office/).
 
-Use the [TTS Tech Portfolio Software Request Form](https://forms.gle/w3MqKNMmLj1vbpWv8) to get a _New Software (consult)_. When jusifying your needs, ensure that you provide as much detail as possible.
+#### For Software-as-a-Service (SaaS)
 
-Once the form has been submitted, it will be added to the exisiting queue of software requests. Please be patient and wait for the TTS Software Concierge to reach out to you.
+If the software is already approved, there is no guarantee that licenses are available for your use/deployment. If GSA does not have any available licenses for this software, you and your supervisor will receive an email informing you that this software will need to be purchased before it can be used.
 
-### Step 2: Meet with TTS Software Concierge
+If you cannot find the software you are looking for on that list and you believe it is approved/in use at GSA, or if you would like to inquire about alternative software that is approved that may have the functionality you are looking for, please contact the IT Service Desk itservicedesk@gsa.gov for assistance.
 
-The TTS Software Concierge will review the request submitted and will contact you in order to ask further questions regarding your specific needs. This meeting is intended to gather further information, propose possible alternatives, and to determine the best approach to meet your needs.
+Also reach out in #infrastructure in Slack or by emailing tts-software@gsa.gov for more information about getting access to SaaS products currently in use across TTS.
 
-### Step 3: Analysis
 
-After the initial meeting has been conducted, the Software Concierge will work with you to:
+## Software not yet approved or listed in GEAR
 
-- Reach out to other parts of TTS to find out if others are experiencing the same problem
-- Explore GEAR and the TTS inventory to see what options are already available
-- Look at pricing
-- Determine what kind of ATO would be needed/acquisition would need to happen if the current tools don’t meet the need
+#### Step 1: Submit the software for an IT Standards review
+If the software is not already approved, submit a [Software Review Request (SRR)](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=e32824291bd234d47adac808624bcb44&sysparm_category=bd9a5672f8087000ce3de67bda527122&catalog_id=-1) to have it reviewed by GSA IT.
 
-Please be patient as the Software Concierge conducts their analysis. You may be asked to participate in a follow-up meeting to discuss any new concerns and/or possible alternatives that may be discovered.
+If your request is for a new technology/software that is not yet approved for use in GSA, please also review the guidance provided in [GSA’s IT Standards review process](https://sites.google.com/a/gsa.gov/it_standards/it-standards).
 
-## Step 4: Obtain ATO & FITARA Approval
+Once all analysis has been completed, you will receive an email from ServiceNow regarding your request. You will receive justification for why your request for the tool was granted an Authorization to Operate (ATO) or not. Once an ATO has been granted, the tool will be listed in GEAR.
 
-Once all analysis has been completed, the Software Conceirge will contact you to discuss the outcome of your software request. Justification will be provided if either your request will be moved forward or not.
+#### Step 2: Submit the TTS Micropurchase Request
+If there will be a cost associated with the software you are submitting for IT Standards review, you will need to also [submit a Micropurchase request](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform), ideally at the same time. 
 
-An IT Standard and [FITARA]({{site.baseurl}}/fitara/) request will be submitted to have the tool approved for use.
+The Micropurchase team reviews the status of all requests and will coordinate directly with the IT Standard’s team. The [Federal Information Technology Acquisition Reform Act (FITARA)]({{site.baseurl}}/general-information-and-resources/tech-policies/fitara/) review will also start during the Micropurchase request process. 
 
-Once the ATO has been granted, the tool will be listed in GEAR and you will then be able to conduct the procurement for the required licenses.
 
-## Useful links & policies
+## Considerations
+
+- Vendor compliance and cooperation with GSA-IT staff is needed in order to grant the necessary ATO. If the vendor chooses not to provide required material or information requested by GSA-IT, the tool cannot be approved for use within GSA.
+- When a LiSaaS Authorization to Operate (ATO) is granted, it is limited to one year only. If the software requester wishes to continue using the software beyond one year, the software requester must ensure the vendor will work towards getting FedRAMP authorization. If the vendor does not wish to pursue FedRAMP authorization, or if the software does not receive FedRAMP authorization, the tool will no longer be approved for use within GSA.
+
+
+## Links & policies
 
 - [Chrome extensions](https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions)
 - [GitHub integrations]({{site.baseurl}}/tools/github/#rules)
