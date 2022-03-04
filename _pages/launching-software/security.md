@@ -178,7 +178,7 @@ Using the the [Quick Start](https://www.zaproxy.org/getting-started/) is a good 
 
 ![spider results]({{site.baseurl}}/images/before-you-ship/spider_results.png)
 
-  As configured, the Spider does not follow links to other domains or subdomains. If your project uses either (for example, you use S3 for assets, or the api is at a different sub domain), you will want to click <img class="inline" src="{{site.baseurl}}/images/before-you-ship/zap_options.png" alt="small options icon"/> and update the options to include the domains & subdomains within the scope. There is a guide available for those options [here](https://www.zaproxy.org/docs/desktop/addons/ajax-spider/scandialog/).
+  As configured, the Spider does not follow links to other domains or subdomains. If your project uses either (for example, you use S3 for assets, or the api is at a different sub domain), you will want to click <img class="inline" src="{{site.baseurl}}/images/before-you-ship/zap_options.png" alt="small options icon"/> and update the options to include the domains & subdomains within the scope. There is a guide available for those options [here](https://www.zaproxy.org/docs/desktop/ui/dialogs/options/spider/).
 
 **Alerts**
 
