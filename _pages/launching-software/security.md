@@ -138,16 +138,16 @@ We gave an introduction to ZAP talk as part of our engineering tech talks series
 
 Slides and additional information available [here](https://github.com/18F/tech-talks/tree/master/vuln-scanning).
 
-Using the the [Quick Start](https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsQuickstartQuickstart) is a good way to get a basic idea of what ZAP does.
+Using the the [Quick Start](https://www.zaproxy.org/docs/desktop/addons/quick-start/) is a good way to get a basic idea of what ZAP does.
 
 ### Scanning
 
-1. [Set up ZAP as a proxy.](https://github.com/zaproxy/zap-core-help/wiki/HelpStartProxies)
+1. [Set up ZAP as a proxy.](https://www.zaproxy.org/docs/desktop/start/proxies/)
    - Unfortunately, the "Plug-n-Hack" extension mentioned on the Quick Start page is [currently non-functional](https://github.com/zaproxy/zaproxy/issues/2069).
    - If the browser gives you a certificate error (e.g. `"This site uses HTTP Strict Transport Security (HSTS) to specify that Firefox may only connect to it securely."`), you will need to install ZAP's root certificate.
      - In ZAP, go to `Tools`->`Options`->`Dynamic SSL Certificate` and click the `Save` button to save the certificate to your computer.
      - You will then need to install the certificate. For Firefox, go to `Preferences`->`Advanced`>`Certificates`->`View Certificates`->`Import` to import the certificate you saved from ZAP.
-     - For additional information see ZAP's [documentation on Dynamic SSL Certificates](https://github.com/zaproxy/zap-core-help/wiki/HelpUiDialogsOptionsDynsslcert).
+     - For additional information see ZAP's [documentation on Dynamic SSL Certificates](https://www.zaproxy.org/docs/desktop/ui/dialogs/options/dynsslcert/).
 1. Seed the scanner.
    1. Navigate through the various types of pages/interactions on your site, including signing in. You should see domain name(s) start to show up under the `Sites` list.
    1. For each of the domains in the `Sites` list that you control (i.e. not `https://fonts.googleapis.com`):
@@ -161,7 +161,7 @@ Using the the [Quick Start](https://github.com/zaproxy/zap-core-help/wiki/HelpAd
    1. In the `Select Node` window, click `Default Context`, the `Select`.
    1. Click `Start Scan`.
    1. You should see the `Spider` table fill up with results, but the domains you don't control should say `OUT_OF_CONTEXT`.
-1. If your site uses AJAX, run the [AJAX Spider](https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsSpiderAjaxConcepts).
+1. If your site uses AJAX, run the [AJAX Spider](https://www.zaproxy.org/docs/desktop/addons/ajax-spider/).
 1. Run the actual scan.
    1. In the menu bar, click `Tools`->`Active Scan...`.
    1. In the `Active Scan` window, follow the same `Starting point` steps as above.
@@ -178,7 +178,7 @@ Using the the [Quick Start](https://github.com/zaproxy/zap-core-help/wiki/HelpAd
 
 ![spider results]({{site.baseurl}}/images/before-you-ship/spider_results.png)
 
-As configured, the Spider does not follow links to other domains or subdomains. If your project uses either (for example, you use S3 for assets, or the api is at a different sub domain), you will want to click <img class="inline" src="{{site.baseurl}}/images/before-you-ship/zap_options.png" alt="small options icon"/> and update the options to include the domains & subdomains within the scope. There is a guide available for those options [here](https://github.com/zaproxy/zap-core-help/wiki/HelpUiDialogsOptionsSpider).
+  As configured, the Spider does not follow links to other domains or subdomains. If your project uses either (for example, you use S3 for assets, or the api is at a different sub domain), you will want to click <img class="inline" src="{{site.baseurl}}/images/before-you-ship/zap_options.png" alt="small options icon"/> and update the options to include the domains & subdomains within the scope. There is a guide available for those options [here](https://www.zaproxy.org/docs/desktop/ui/dialogs/options/spider/).
 
 **Alerts**
 
@@ -196,13 +196,13 @@ If you're running the attack against a local server you may see some alerts that
 
 ["Fuzzing"](https://en.wikipedia.org/wiki/Fuzz_testing) refers to feeding a large amount of random (and/or potentially malicious) data to an application with the intention of finding vulnerabilities related to poor error handling or incomplete input validation. Typically, fuzzing is used on query parameters and form fields.
 
-Any request in ZAP can be fuzzed. Simply right click on it, select Attack -> Fuzzer. Read more about ZAP's Fuzzing capabilities [here](https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsFuzzConcepts).
+Any request in ZAP can be fuzzed. Simply right click on it, select Attack -> Fuzzer. Read more about ZAP's Fuzzing capabilities [here](https://www.zaproxy.org/docs/desktop/addons/fuzzer/).
 
 ### More Information
 
 The lead engineer for OWASP ZAP, Simon Bennetts, has recorded a number of [useful YouTube videos](https://www.youtube.com/channel/UCD3gULJ53AgTHniwATxwdgg), and that's probably the best place to start learning ZAP.
 
-The [ZAP User Guide](https://github.com/zaproxy/zap-core-help/wiki) is phenomenal. If you run into an issue, this should be the first place you check.
+The [ZAP User Guide](https://www.zaproxy.org/docs/desktop/) is phenomenal. If you run into an issue, this should be the first place you check.
 
 The [OWASP Vulnerable Web Applications Directory](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Main) has a great list of (intentionally) vulnerable targets that are useful for testing the capability of ZAP.
 
