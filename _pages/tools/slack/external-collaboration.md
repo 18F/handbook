@@ -8,8 +8,8 @@ questions:
 
 Collaboration with people outside of TTS falls into one of two categories:
 
-- [Partners](#partners)
-- [The public](#the-public)
+- [Working with partners on Slack](#working-with-partners-on-slack)
+- [The public](#collaborating-with-the-public-on-slack)
 
 We use different setups for each.
 
@@ -23,7 +23,7 @@ Partners may include:
 
 Note this does _not_ include:
 
-- The general public, for which we have [dedicated channels](#the-public)
+- The general public, for which we have [dedicated channels](#collaborating-with-the-public-on-slack)
 - Other feds we're not working with directly
 
 Contractors' level of access will be determined by the Contracting Officer (CO). By default, **contractors who are "embedded" in TTS (working on TTS projects most or full-time) can be added as full members using their GSA emails. Other collaborators should be added as single or multi-channel guests** as appropriate. See [contractors]({{site.baseurl}}/contractors/) for general information. [Request guest access through GSA IT](https://gsa.servicenowservices.com/sp?id=sc_category&sys_id=f9874e76db5003400dc9ff621f96190d&catalog_id=e0d08b13c3330100c8b837659bba8fb4).
