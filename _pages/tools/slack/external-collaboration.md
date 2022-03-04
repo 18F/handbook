@@ -13,7 +13,7 @@ Collaboration with people outside of TTS falls into one of two categories:
 
 We use different setups for each.
 
-## Partners
+## Working with partners on Slack
 
 Partners may include:
 
@@ -28,7 +28,7 @@ Note this does _not_ include:
 
 Contractors' level of access will be determined by the Contracting Officer (CO). By default, **contractors who are "embedded" in TTS (working on TTS projects most or full-time) can be added as full members using their GSA emails. Other collaborators should be added as single or multi-channel guests** as appropriate. See [contractors]({{site.baseurl}}/contractors/) for general information. [Request guest access through GSA IT](https://gsa.servicenowservices.com/sp?id=sc_category&sys_id=f9874e76db5003400dc9ff621f96190d&catalog_id=e0d08b13c3330100c8b837659bba8fb4).
 
-TTS collaborators within GSA may be added as full Slack members at the discretion of the TTS director. Examples might include the Chief Information Officer or FAS Commissioner. Ask in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) if you'd like to add someone to this category.
+TTS collaborators within GSA may be added as full Slack members. Examples might include the Chief Information Officer or FAS Commissioner. If you'd like to add someone to this category ask the TTS @tech-portfolio before making this request in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack).
 
 ### Dedicated channels
 
@@ -57,7 +57,7 @@ Slack Connect is preferred over adding partners as guests.
 
 The contents of shared channels are treated the same as other channels. See [rules](../getting-started/) and [records](../records/).
 
-## The public
+## Collaborating with the public on Slack
 
 TTS has specific channels in Slack that the public can join. These channels end with `-public`. (Note: In Slack's parlance, all channels in a workspace are either `public`, allowing any full member to find/join, or `private`. However, when we say "public channels" on this page, we mean channels open to all members of the public.)
 
@@ -73,10 +73,10 @@ To invite people to a public Slack channel, send them to [chat.18f.gov](https://
 
 See [the instructions for creating a new public channel](https://github.com/18F/chat#adding-new-public-channels).
 
-### Archive a Slack channel
+## Archive a Slack channel
 
 When a Slack channel is no longer needed (e.g., a partner project has ended), the channel should be archived. For Slack Connect channels (indicated by a double diamond icon next to the channel name), make a request in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack) to archive the channel. Channels that aren't Slack Connect can be archived by any member of the channel. View [instructions for archiving a Slack channel](https://slack.com/help/articles/213185307-Archive-or-delete-a-channel).
 
-## Usage of other Slack workspaces
+## Use of other Slack workspaces
 
 You may be invited to other Slack workspaces operated by government entities, or entities under contract to the government. You're allowed to join those workspaces as necessary for your work. You should join those workspaces with your **GSA email address**. If you're invited to Slack workspaces [in your personal capacity]({{site.baseurl}}/office-of-operations/fas-speaker-guide/#professional-vs-personal-capacity), you must join those workspaces with a personal email address.
