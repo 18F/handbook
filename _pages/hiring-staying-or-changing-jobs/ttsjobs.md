@@ -41,11 +41,11 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-GSA WIDE: Office of the Deputy Administrator: [GSA Service Delivery Team: Engineer and Acquisition Strategist](https://docs.google.com/document/d/1OuxwKRAIHelRoCQOM8-8MITYFQUtqpu_Ov7cobQ0B24/edit#) - open Friday, February 18th through Wednesday, March 2nd
-
 TTS WIDE: [Login.gov Acting Director Detail](https://docs.google.com/document/d/1TCJ5PgnySvt-hoqLlIrptkWRndziK31EMvOEJQwaIVs/edit#) - open Monday, Feb 28th through Monday, March 7th
 
 TTS WIDE: [Login.gov Integration Engineer Detail (5 vacancies)](https://docs.google.com/document/d/1xcCxgdFa4PJQxV3iNB7V-8b_ZkILFPebnbXBqJ8KcUY/edit?usp=sharing) - open Tuesday, March 1st through Tuesday, March 8th
+
+TTS WIDE: [10x Director Detail](https://docs.google.com/document/d/1-YjeQ1L8hQX-RAdi1ouTvsgcsPRobzaQyZjmgvcW-C0/edit#heading=h.88jtsj70nmjp) - open Friday, March 4th through Friday, March 11th
 
 ## Opportunities with partners
 
