@@ -20,13 +20,14 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
+
 This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion Process
-* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and local government agencies
+- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+- Hiring actions using the Excepted Service version of the Merit Promotion Process
+- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+- Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -44,7 +45,7 @@ TTS WIDE: [Login.gov Acting Director Detail](https://docs.google.com/document/d/
 
 TTS WIDE: [Login.gov Integration Engineer Detail (5 vacancies)](https://docs.google.com/document/d/1xcCxgdFa4PJQxV3iNB7V-8b_ZkILFPebnbXBqJ8KcUY/edit?usp=sharing) - open Tuesday, March 1st through Tuesday, March 8th
 
-TTS WIDE: [10x Director Detail](https://docs.google.com/document/d/1-YjeQ1L8hQX-RAdi1ouTvsgcsPRobzaQyZjmgvcW-C0/edit#heading=h.88jtsj70nmjp) - open Friday, March 4th through Friday, March 11th 
+TTS WIDE: [10x Director Detail](https://docs.google.com/document/d/1-YjeQ1L8hQX-RAdi1ouTvsgcsPRobzaQyZjmgvcW-C0/edit#heading=h.88jtsj70nmjp) - open Friday, March 4th through Friday, March 11th
 
 ## Opportunities with partners
 
@@ -56,7 +57,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
-- - -
+---
 
 ### Still have questions?
 
