@@ -88,11 +88,6 @@ ensure they're in line with our values of diversity and inclusion. Inclusion Bot
 Ideally, submitters will check before requesting, but it's the approver's
 responsibility to verify.
 
-**Emoji of TTS members' faces, family, pets, etc**: When reviewing, emoji approvers
-**MUST** ask for clear, affirmative consent from the person whose image is being used.
-Ideally, submitters will check before requesting, but it's the approver's
-responsibility to verify.
-
 If you'd like to help review emoji requests, please reach out to
 [\#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S).
 

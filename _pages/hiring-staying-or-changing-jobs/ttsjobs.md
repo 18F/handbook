@@ -41,15 +41,9 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-TTS WIDE: [18F Senior Advisor for State, Local, Tribal Governments, and Territories 50%](https://docs.google.com/document/d/1xTDD_hBSH1R_xYwndL1eHeRu0X2GJMvafbbRyhHam34/edit#) -open Friday, Feb 11th through Monday, Feb 28th
+TTS WIDE: [Login.gov Integration Engineer Detail (5 vacancies)](https://docs.google.com/document/d/1xcCxgdFa4PJQxV3iNB7V-8b_ZkILFPebnbXBqJ8KcUY/edit?usp=sharing) - open Tuesday, March 1st through Tuesday, March 8th
 
-TTS WIDE: [18F Acting Deputy Director](https://docs.google.com/document/d/1vT8O1Bhhro_9oocYTEZj7-hLXuRhqsgxVzhjGhWXIOY/edit#) -open Friday, Feb 11th through Monday, Feb 28th
-
-TTS WIDE: [Login.gov TMF Delivery Manager](https://docs.google.com/document/d/1JhrJdAdW1FOq6PrHtECmmbEAkiSnMqpFRzQC4Z0CE6U/edit#heading=h.88jtsj70nmjp) -open Monday, Feb 14th through Monday, Feb 22nd
-
-GSA WIDE: [18F Acting Director of Operations](https://docs.google.com/document/d/1UYDnTDAs0J2NS2W7rZ93joI0VhsfaD5LoZv2Vd9gaws/edit) -open Friday, Feb 11th through Monday, Feb 28th
-
-TTS WIDE: [U.S. Digital Corps Detail - Learning & Development Program Support Lead](https://docs.google.com/document/d/14sTBsZ8qLt1pBu5WbVlSgytQV0wQj2Qp_9sCQEyGKKo/edit#) - open Monday, Feb 14th through Tuesday, Feb 22nd
+TTS WIDE: [10x Director Detail](https://docs.google.com/document/d/1-YjeQ1L8hQX-RAdi1ouTvsgcsPRobzaQyZjmgvcW-C0/edit#heading=h.88jtsj70nmjp) - open Friday, March 4th through Friday, March 11th
 
 ## Opportunities with partners
 
