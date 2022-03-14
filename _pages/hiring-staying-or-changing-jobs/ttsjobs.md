@@ -41,8 +41,6 @@ We will share open positions as they are available.
 
 ### Internal only opportunities
 
-TTS WIDE: [10x Director Detail](https://docs.google.com/document/d/1-YjeQ1L8hQX-RAdi1ouTvsgcsPRobzaQyZjmgvcW-C0/edit#heading=h.88jtsj70nmjp) - open Friday, March 4th through Friday, March 11th
-
 TTS WIDE: [](https://docs.google.com/document/d/1-YjeQ1L8hQX-RAdi1ouTvsgcsPRobzaQyZjmgvcW-C0/edit#heading=h.88jtsj70nmjp)[Cloud.gov Business Support Specialist Detail ](https://docs.google.com/document/d/1atzUFuqPAq9zGp0Vx3G6xS4LQJ26mJt2ZgvieZ3wsXQ/edit#)- open Wednesday, March 9th through Thursday, March 17th
 
 ## Opportunities with partners
