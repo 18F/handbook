@@ -43,6 +43,8 @@ We will share open positions as they are available.
 
 TTS WIDE: [](https://docs.google.com/document/d/1-YjeQ1L8hQX-RAdi1ouTvsgcsPRobzaQyZjmgvcW-C0/edit#heading=h.88jtsj70nmjp)[Cloud.gov Business Support Specialist Detail ](https://docs.google.com/document/d/1atzUFuqPAq9zGp0Vx3G6xS4LQJ26mJt2ZgvieZ3wsXQ/edit#)- open Wednesday, March 9th through Thursday, March 17th
 
+GSA WIDE: [TTS Deputy Director Detail](https://docs.google.com/document/d/1XgC_zg8A3xR42xlnGnmJZn42L4qPIRWxjyVQhWtrsM8/edit#) open Tuesday, March 15th through Wednesday, March 23rd
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
