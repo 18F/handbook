@@ -25,9 +25,9 @@ redirect_from:
   - /leave/
 ---
 
-This page provides instructions for entering leave requests (also known as absence requests) in [HR Links](https://corporateapps.gsa.gov/hr-links/) and information on the various types of leave.
+This page provides instructions for entering leave requests (also known as absence requests) in [HR Links](https://corporateapps.gsa.gov/hr-links/) and information on the various types of leave. The [leave overview chart](https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit#gid=0) also provides a high level comparison.
 
-You can also see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#employee-express).
+You can see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#employee-express).
 
 ## Submitting leave in HR Links
 
