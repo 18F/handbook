@@ -45,6 +45,8 @@ TTS WIDE: [](https://docs.google.com/document/d/1-YjeQ1L8hQX-RAdi1ouTvsgcsPRobza
 
 GSA WIDE: [TTS Deputy Director Detail](https://docs.google.com/document/d/1XgC_zg8A3xR42xlnGnmJZn42L4qPIRWxjyVQhWtrsM8/edit#) open Tuesday, March 15th through Wednesday, March 23rd
 
+GSA WIDE: [Forms Service Lead Detail](https://docs.google.com/document/d/1UryP2Vg8B_rmIZ6-RiWbdKenplZemE63Ish7mAqYyFg/edit?usp=sharing) open Friday, March 18th through Friday, March 25th
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
