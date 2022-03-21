@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-TTS WIDE: [Cloud.gov Business Support Specialist Detail ](https://docs.google.com/document/d/1atzUFuqPAq9zGp0Vx3G6xS4LQJ26mJt2ZgvieZ3wsXQ/edit?usp=sharing)open Monday, March 21st through Tuesday March 22nd
+TTS WIDE: [Cloud.gov Business Support Specialist Detail ](https://docs.google.com/document/d/1atzUFuqPAq9zGp0Vx3G6xS4LQJ26mJt2ZgvieZ3wsXQ/edit?usp=sharing)open Monday, March 21st through Wednesday, March 23rd
 
 GSA WIDE: [TTS Deputy Director Detail](https://docs.google.com/document/d/1XgC_zg8A3xR42xlnGnmJZn42L4qPIRWxjyVQhWtrsM8/edit#) open Tuesday, March 15th through Wednesday, March 23rd
 
