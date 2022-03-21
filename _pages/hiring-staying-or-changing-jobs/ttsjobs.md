@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -40,8 +39,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 We will share open positions as they are available.
 
 ### Internal only opportunities
-
-TTS WIDE: [](https://docs.google.com/document/d/1-YjeQ1L8hQX-RAdi1ouTvsgcsPRobzaQyZjmgvcW-C0/edit#heading=h.88jtsj70nmjp)[Cloud.gov Business Support Specialist Detail ](https://docs.google.com/document/d/1atzUFuqPAq9zGp0Vx3G6xS4LQJ26mJt2ZgvieZ3wsXQ/edit#)- open Wednesday, March 9th through Friday, March 18th
 
 GSA WIDE: [TTS Deputy Director Detail](https://docs.google.com/document/d/1XgC_zg8A3xR42xlnGnmJZn42L4qPIRWxjyVQhWtrsM8/edit#) open Tuesday, March 15th through Wednesday, March 23rd
 
@@ -57,7 +54,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
