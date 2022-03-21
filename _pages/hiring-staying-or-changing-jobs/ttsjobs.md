@@ -37,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Opportunities open to the public
 
-We will share open positions as they are available.
+[Login.gov - Director](https://join.tts.gsa.gov/join/login-director/) (Open Monday, March 21st through Monday, April 4th at 11:59pm Eastern)
 
 ### Internal only opportunities
 
