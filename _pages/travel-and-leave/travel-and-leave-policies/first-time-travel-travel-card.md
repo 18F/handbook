@@ -5,6 +5,7 @@ questions:
 redirect_from:
   - /first-time-travel-travel-card/
 ---
+
 [TTS Travel 101]({{site.baseurl}}/travel-101/) <br>
 [Travel Guide Table of Contents]({{site.baseurl}}/travel-guide-table-of-contents) <br>
 [Back to Get in Concur]({{site.baseurl}}/first-time-travel-get-in-concur) <br>
@@ -16,7 +17,7 @@ While new employees may travel without one, it is required that everyone at TTS 
 
 ### 1. Complete card training
 
-*Est. time: 60 minutes*
+_Est. time: 60 minutes_
 
 1. Head over to GSA's [OLU](https://gsaolu.gsa.gov).
 2. Click on the Home button, and then choose "Learning" from the dropdown.
@@ -27,19 +28,19 @@ While new employees may travel without one, it is required that everyone at TTS 
 7. Select "GSA Travel Card Curricula", and then Start course.
 8. Once completed, download your certificates of completion for both trainings by returning to the "Learning" page and clicking on the "View All" button under "Learning History". You should see your completed travel card and TDY trainings on the list, and there will be an icon to generate a print preview, which you can save, at the right.
 
-***NOTE***: Save your certificates as `FIRSTNAME_LASTNAME-TravelCardTrainingCert.pdf` and `FIRSTNAME_LASTNAME-TDYTrainingCert.pdf` for ease of processing later on.
+**_NOTE_**: Save your certificates as `FIRSTNAME_LASTNAME-TravelCardTrainingCert.pdf` and `FIRSTNAME_LASTNAME-TDYTrainingCert.pdf` for ease of processing later on.
 
 ### 2. Fill out the Supervisory Travel Card Approval
 
-*Estimated time: 10 minutes plus wait time for your supervisor’s signature*
+_Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
 1. Download the [Supervisory Travel Card Approval Form](https://insite.gsa.gov/node/159350) and fill out the following fields.
 
-* **Employee Name:** Your name
-* **Region/Central Office:** Central Office, regardless of your actual location
-* **Service/Staff Office:** Q - Federal Acquisition Service
-* **Supervisor Name:** The name of your functional supervisor
-* **Supervisor Title:** Your functional supervisor’s title
+- **Employee Name:** Your name
+- **Region/Central Office:** Central Office, regardless of your actual location
+- **Service/Staff Office:** Q - Federal Acquisition Service
+- **Supervisor Name:** The name of your functional supervisor
+- **Supervisor Title:** Your functional supervisor’s title
 
 2. Save this file with the entered information, and forward it to your functional supervisor (as entered in the form) requesting that they enter their Digital Signature in the bottom field. Once they have returned the form to you with their Digital Signature, proceed to Step 3 below.
 
@@ -47,9 +48,9 @@ While new employees may travel without one, it is required that everyone at TTS 
 
 The following files should be sent, as attachments, in an email to [ronnail.rawls@gsa.gov](mailto:ronnail.rawls@gsa.gov):
 
-* TravelCard training certificate: `FIRSTNAME_LASTNAME-TravelCardTrainingCert.pdf`
-* TDY training certificate: `FIRSTNAME_LASTNAME-TDYTrainingCert.pdf`
-* Supervisory Travel Card Approval form: `FIRSTNAME_LASTNAME-TravelCardApproval.pdf`
+- TravelCard training certificate: `FIRSTNAME_LASTNAME-TravelCardTrainingCert.pdf`
+- TDY training certificate: `FIRSTNAME_LASTNAME-TDYTrainingCert.pdf`
+- Supervisory Travel Card Approval form: `FIRSTNAME_LASTNAME-TravelCardApproval.pdf`
 
 This may take 1-2 business days to process.
 
