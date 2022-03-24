@@ -25,7 +25,7 @@ _Est. time: 60 minutes_
 4. Search for "travel training".
 5. Select "Temporary Duty (TDY) Travel Training", and then Start course.
 6. Once completed there is a second training to take. Return to the "Find Learning" search box and search for "travel card".
-7. Select "GSA Travel Card Training", and then Start course.
+7. Select "GSA Travel Card Curricula", and then Start course.
 8. Once completed, download your certificates of completion for both trainings by returning to the "Learning" page and clicking on the "View All" button under "Learning History". You should see your completed travel card and TDY trainings on the list, and there will be an icon to generate a print preview, which you can save, at the right.
 
 **_NOTE_**: Save your certificates as `FIRSTNAME_LASTNAME-TravelCardTrainingCert.pdf` and `FIRSTNAME_LASTNAME-TDYTrainingCert.pdf` for ease of processing later on.
@@ -65,11 +65,11 @@ Once you receive your new GSA SmartPay 3 travel card, call U.S. Bank at 888-994-
 Then, follow these steps to register your account and create your U.S. Bank Access Online user ID:
 
 1. Go to https://access.usbank.com.
-1. Select the Register Online hyperlink at the bottom of the screen.
-1. Enter GSASP3 in the Organization Short Name field.
-1. Enter the 16-digit number located on your new purchase card (without spaces or dashes) in the Account Number field.
-1. Enter the month and year your account expires in the Account Expiration Date section. This will be listed on your new travel card as well.
-1. Select the Register This Account button to complete the registration process for your card and follow the prompts to create your user ID and password.
+2. Select the Register Online hyperlink at the bottom of the screen.
+3. Enter GSASP3 in the Organization Short Name field.
+4. Enter the 16-digit number located on your new purchase card (without spaces or dashes) in the Account Number field.
+5. Enter the month and year your account expires in the Account Expiration Date section. This will be listed on your new travel card as well.
+6. Select the Register This Account button to complete the registration process for your card and follow the prompts to create your user ID and password.
 
 After you have registered and signed into the U.S. Bank Access Online website with your new account, you can sign up for account alerts and notifications under My Personal Information.
 
