@@ -7,7 +7,7 @@ questions:
 
 An inclusive culture is built one interaction at a time, and language is the
 foundation. Inclusion Bot is one of the tools we use to help us live
-[our values]({{site.baseurl}}/tts-history/#our-values) here in TTS.
+[our values]({{site.baseurl}}/about-us/tts-history/#our-values) here in TTS.
 
 To quote Rachel Cohen-Rottenberg: “If a culture’s language is full of pejorative
 metaphors about a group of people, that culture is not going to see those people
