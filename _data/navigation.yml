@@ -211,6 +211,9 @@ primary:
               - text: Inclusive Behaviors
                 url: general-information-and-resources/inclusive-behaviors/
                 internal: true
+              - text: Inclusion Bot
+                url: general-information-and-resources/inclusion-bot/
+                internal: true
           - text: TTS locations
             children:
               - text: Distributed
