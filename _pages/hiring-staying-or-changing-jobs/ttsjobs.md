@@ -43,7 +43,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-GSA WIDE: [Forms Service Lead Detail](https://docs.google.com/document/d/1UryP2Vg8B_rmIZ6-RiWbdKenplZemE63Ish7mAqYyFg/edit?usp=sharing) open Friday, March 18th through Friday, March 25th
+GSA WIDE: [Forms Service Lead Detail](https://docs.google.com/document/d/1UryP2Vg8B_rmIZ6-RiWbdKenplZemE63Ish7mAqYyFg/edit?usp=sharing) open Friday, March 18th through Monday, April 4th
 
 ## Opportunities with partners
 
