@@ -56,11 +56,11 @@ Once you are ready to move forward with your opportunity, you can use the templa
 - [TTS Interview Guide Template](https://docs.google.com/document/d/1GCVgMUBS-Hi7STLdWO6Ci47LXbYCz85U2kpVA71AZLc/edit)
 
   - Best practices for developing an interview guide are available in the [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit#).
-  - An interview guide for the role may already exist if the role was previously posted; the Talent Team can check.
+  - Talent maintains an [Interview Question Bank](https://docs.google.com/spreadsheets/d/17ZHgw-xCPgpnnmf_7zsfURcHMJR1OQRECZDV7MJxEw0/edit#gid=84788186). Feel free to use it. An interview guide for the role may already exist if the role was previously posted; the Talent Team can check.
 
 ## Job Posting
 
-When the templates are ready for review, the Hiring Manager sends an email with the announcement, the application form, and interview guide to Talent at jointts@gsa.gov. A Talent team member will review within 48 hours and may possibly suggest edits. Once materials have been approved by Talent, they will add the posting to [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack and the [TTSJobs handbook page]({{site.baseurl}}/ttsjobs/).
+When all the templates are ready for review, the Hiring Manager sends an email with the announcement, the application form, and interview guide to Talent at jointts@gsa.gov. A Talent team member will do their best to review the materials within 48 hours and may possibly suggest edits. Once materials have been approved by Talent, they will add the posting to [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) on Slack and the [TTSJobs handbook page]({{site.baseurl}}/ttsjobs/).
 
 Hiring Managers can find tips on advertising and promoting their internal opportunities in the [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit#bookmark=id.rmgryyopbn7r).
 
