@@ -43,7 +43,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-TTS WIDE: [18F Acting Director Detail](https://docs.google.com/document/d/1RoZlhL0ZdyPbn11rdXcE6GDGb3pXYOuhKaJEiC3JrUA/edit#heading=h.h91fwyiygl4s) open Wednesday, March 29th through Wednesday, April 6th
+TTS WIDE: [18F Acting Director Detail](https://docs.google.com/document/d/1RoZlhL0ZdyPbn11rdXcE6GDGb3pXYOuhKaJEiC3JrUA/edit#heading=h.h91fwyiygl4s) open Wednesday, March 30th through Wednesday, April 6th
 
 GSA WIDE: [Forms Service Lead Detail](https://docs.google.com/document/d/1UryP2Vg8B_rmIZ6-RiWbdKenplZemE63Ish7mAqYyFg/edit?usp=sharing) open Friday, March 18th through Monday, April 4th
 
