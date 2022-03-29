@@ -39,7 +39,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [Login.gov - Director](https://join.tts.gsa.gov/join/login-director/) open Monday, March 21st through Monday, April 4th
 
-[Office of Acquisition Oversight Branch Chief](https://join.tts.gsa.gov/join/oa-oversight-branch-chief/) open Tuesday, March 22nd through Tuesday, March 29th
+[Office of Acquisition Oversight Branch Chief](https://join.tts.gsa.gov/join/oa-oversight-branch-chief/) open Tuesday, March 22nd through Friday, April 1st
 
 ### Internal only opportunities
 
