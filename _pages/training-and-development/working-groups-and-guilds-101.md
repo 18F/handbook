@@ -77,7 +77,7 @@ Remember, you're asking for a substantial commitment of organizational resources
 - What does the guild intend to do? What are the expected deliverables?
 - If there are groups working on similar problems, how does the proposed guild differ?
 
-### Current Guilds
+### Current guilds
 
 <div class="table-wrapper">
   <table class="table-existing-grouplets">
@@ -111,8 +111,7 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://content-guide.18f.gov/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-content">#g-content</a>
         </td>
         <td>
-          Jeff Durland - 18F<br>
-          Ryan Johnson - 18F
+          Michelle Rago - 18F
         </td>
       </tr>
       <tr>
