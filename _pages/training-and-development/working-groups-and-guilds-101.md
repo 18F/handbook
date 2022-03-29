@@ -77,7 +77,7 @@ Remember, you're asking for a substantial commitment of organizational resources
 - What does the guild intend to do? What are the expected deliverables?
 - If there are groups working on similar problems, how does the proposed guild differ?
 
-### Current Guilds
+### Current guilds
 
 <div class="table-wrapper">
   <table class="table-existing-grouplets">
