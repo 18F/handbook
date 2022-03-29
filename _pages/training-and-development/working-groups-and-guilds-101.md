@@ -111,8 +111,7 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://content-guide.18f.gov/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-content">#g-content</a>
         </td>
         <td>
-          Jeff Durland - 18F<br>
-          Ryan Johnson - 18F
+          Michelle Rago - 18F
         </td>
       </tr>
       <tr>
