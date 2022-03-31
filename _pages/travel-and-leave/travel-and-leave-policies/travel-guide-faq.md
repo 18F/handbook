@@ -19,9 +19,7 @@ redirect_from:
 #### Enter your Destination, then Origin
 
 1. Go to Concur at [travel.gsa.gov](https://travel.gsa.gov)
-
 2. In the shortcuts menu on the upper left hand corner, select **Travel - New Booking**
-
 3. Click on the **Air/Rail** icon (this should be already selected). If you need to travel by train only, choose the **Rail** icon instead.
 
 **\*Note:** If you need to travel by both air and rail, call AdTrav at (877) 472-6716 and they will make your reservations for you. An hour after your call, skip ahead to [this step](#completing-trip-information) to submit your AdTrav reservation for approval.
@@ -33,10 +31,8 @@ redirect_from:
 
 6. When selecting your location it will auto-populate ‘TDY Per Diem Location’. This is the Per Diem allowance amount for that location.
    <img src="/images/travel/3-autofil-per-diem.png" class="travel-guide-hide" alt="auto-fill of Per Diem Location">
-
 7. Choose your departure city and airport
    <img src="/images/travel/4-choose-origin-city.png" class="travel-guide-hide" alt="choosing origin city">
-
 8. Click **Search** to move onto the next screen.
 
 #### How to Choose a Flight
@@ -46,11 +42,8 @@ When choosing flights, you may notice they fall into four different categories:
 <img src="/images/travel/5-view-select-flights.png" class="travel-guide-hide" alt="Concur flight selection screen">
 
 - **Govt. Contract Discounted:** the preferred option. In general, these fares are only available 15 or more days in advance, so try to book your travel as early as possible.
-
 - **Govt. Contract:** the standard option, based on the [city pair rate](https://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter), the agreed upon rate for government flights between two cities. These are preferred if no govt. contract discounted fares are available.
-
 - **Non-contract Government:** these fares are also acceptable to book if the timing is more advantageous. All these fares are within the City Pair rate and are fully refundable. No additional approvals are required to book a non-contract government fare.
-
 - **Lowest published:** while these fares may come at a lower cost than the contract options, they also come at increased risk to the government because many of these fares are nonrefundable. Any flight that is nonrefundable must be explicitly approved by the authorizing official before the TTS travel team can approve. If you think that choosing a "Lowest published" nonrefundable fare is your best option, skip ahead to [securing your approval email now](#how-to-secure-authorizing-official-approval), and then come back to book later. You'll want to ensure you secure the approval before you book because these fares expire quickly, often before authorizing official and travel team approval can be reasonably obtained.
 
 **\*Note about flights with policy violations:**
@@ -63,17 +56,14 @@ If any part of the fare that you chose is nonrefundable, or exceeds the [City Pa
 
 1. Select **View Fares** to view additional itinerary details
    <img src="/images/travel/6-view-fares.png" class="travel-guide-hide" alt="viewing fares">
-
 2. Select the lowest cost, most compliant fare available by clicking on the blue button at right with the price. This will take you onto the confirmation page.
 
 <img src="/images/travel/7-flight-details.png" class="travel-guide-hide" alt="selecting a flight">
 
 3. **Review and Reserve Flight:** Review your flight itinerary, passenger information, frequent flyer information.
    <img src="/images/travel/8-passenger-info.png" class="travel-guide-hide" alt="reviewing the flight">
-
 4. Click **Reserve Flight and Continue.** _Note that your itinerary will not be confirmed until you actually submit your authorization for approval-- don't stop here!_
    <img src="/images/travel/8a-reserve-flight.png" class="travel-guide-hide" alt="reserving the flight">
-
 5. This will take you to the **Trip Overview**. This page also lists your current reservations.
 
 **\*Note:** the deadline on the confirmation page. Ensure that you have approval from the TTS Travel Team before this date. Your tickets are booked, but are not purchased until one of them approves.
@@ -98,13 +88,9 @@ By choosing **"I will book a hotel now."** you will be allowed to book your hote
 \*If you didn't need to book flights or rail, you can go to the **Travel** tab of Concur and make your reservations selecting the "hotel only" option.
 
 2. Enter check-in and check-out dates, location, any preferred hotels, and then click next.
-
 3. Confirm the per diem location and click next. The maximum lodging rate and M&IE allowance is indicated below.
-
 4. Choose a hotel from the list of search results. Unless you have approval otherwise, or intend to pay for the difference in price personally, sure that you pick a hotel with a nightly rate **equal to or less than the government maximum for the area listed [here](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-lookup).** In the side bar you can filter your search results to only those under the Per diem rate by checking **Hide hotels over Per Diem limit ($XXX.00)**.
-
 5. Click on **View Rooms**, to view a detailed list of rooms within the hotel and select the room by clicking on the listed price at right.
-
 6. **Review and Reserve Hotel** On the review screen:
 
    - Select your hotel room preferences
@@ -113,7 +99,6 @@ By choosing **"I will book a hotel now."** you will be allowed to book your hote
    - Click on **Reserve Hotel and Continue**
 
 7. You will now be taken back to your trip itinerary. Note that the hotel has been added to the flight.
-
 8. Scroll down and click **Next** and [complete your trip information](#completing-trip-information), or if needed, continue on to [reserve a rental car](#booking-a-rental-car).
 
 #### Can I book outside of Concur?
@@ -121,9 +106,7 @@ By choosing **"I will book a hotel now."** you will be allowed to book your hote
 Unless there are extenuating circumstances, you should use Concur for all reservations (flights, hotels, and rental cars). If you choose to book a hotel outside of Concur, include a justification that corresponds with one of the following (from the Federal Travel Regulation):
 
 1. When you are attending a conference where the conference sponsor has negotiated with one or more lodging facilities to set aside a specific number of rooms for conference attendees and to ensure that a set aside room is available to you, you are required to book lodging directly with the lodging facility.
-
 2. When your travel is to a remote location and it is not possible to book lodging accommodations through the TMS or ETS (Concur).
-
 3. When such travel arrangements are so complex and circumstance will not allow you to book your travel through an online self-service booking tool (Concur).
 
 If you need to book a hotel outside of Concur, check if booking comes with any nonrefundable fees. If it does, make sure that you get your authorizing official to approve the approximate amount of what is nonrefundable and send the email to tts-travelauths@gsa.gov. **Nonrefundable hotel fees that are not pre-approved are the traveler’s liability.** Should booking a hotel in Concur or via AdTrav not be possible, [Fedrooms](https://fedrooms.com) offers hotels within government maximum rates that have flexible cancellation policies.
@@ -139,7 +122,6 @@ When you are finished booking your hotel, proceed on to [complete trip informati
 ### How to Book A Rental Car in Concur
 
 1. From the itinerary page, choose "Car" under "Add to your Itinerary" and then select the trip leg when prompted.
-
 2. Indicate pick-up and drop-off dates, location(s), car type, and preferred vendor(s).
 
 **\*Note** GSA employees are required to use the lowest cost compact car unless approved for a larger vehicle based on meeting one or more of the justifications listed in [FTR §301-10.450(c)](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#i1205588).
@@ -207,7 +189,6 @@ Examples:
 In most cases, you can proceed straight on to [stamping and submitting for travel team approval at this point](#how-to-stamp-and-submit-for-travel-team-approval). However, since "common carrier" transit (e.g. public transit, flights, trains, buses, shuttles, taxis, etc) or a [government car](https://docs.google.com/document/d/19D9YBPELZav3Y-gNUxEVS4wBbV89iUTUeirH46rE378/edit#) are the preferred modes of transit for official GSA travel, additional justification is required if you intend to incur the following expenses:
 
 - **Rental Cars:** You must [add a comment](#how-should-i-claim-local-transportation-expenses) on the "Expenses and Receipts" page justifying the use of a rental car as advantageous to the government (considering both cost and time) compared to common carrier transit or a government car.
-
 - **Mileage:** You must [add this in as an expense](#adding-expenses) on the "Expenses and Receipts" page and then [justify the mileage claim as advantageous to the govenment](#how-should-i-claim-local-transportation-expenses) (considering both cost and time) compared to common carrier transit, government car, and rental car. Mileage from your home to the airport (plus associated parking fees or round-trip travel in case of a drop-off) need only be justified as advantageous compared to taxi and public transit, as it is understood that obtaining a government car or rental car is impractical over such a short distance.
 
 ### How to Stamp and Submit for Travel Team Approval
@@ -215,13 +196,9 @@ In most cases, you can proceed straight on to [stamping and submitting for trave
 Following this step will ensure your authorization or voucher is in SUBMIT TO APPROVER status, which is required for your request to be reviewed, approved, and ticketed. Before you submit, you can review [this Checklist](https://goo.gl/AWbT7Q) to ensure you've addressed all potential issues that can result in your request getting rejected or returned for correction.
 
 1. Click **Document Actions -> Submit Document** (in the upper right hand corner of your authorization)
-
 2. You will be taken to a document history page. If your **“Status to Apply”** is **“Submit to Approver”**, then click **Stamp and Submit Document** at either the top or the bottom of the page and continue. If not, please correct any other failures.
-
 3. The next page will show you your **pre-audit results**. These will let you know if anything might be awry, which is represented by either a _FAIL_ or a _HARDFAIL_. Many of these are not a cause for concern as long as you secure approvals in the right way. For a more detailed guide on what to do for each _FAIL_ or _HARDFAIL_, read on [here](https://docs.google.com/document/d/1zD020XAXRIpuXPKgY0zadLBNJmBaRj_29-DhClrkZAo/edit). As long as you don't have any hardfails, you are clear to **Continue Stamping the Document**
-
 4. If you successfully stamped the document, you be taken to a page with the button **Close Post Stamping Document Closure Screen**. It doesn’t look like it, but when you see that button, you are done! Your authorization has been submitted. You don’t even have to click the button again (but you can if you want).
-
 5. In the case of authorizations, your travel will be approved by the TTS travel team once you have [secured approval from your authorizing official](#how-to-secure-authorizing-official-approval). Ensure this is complete by 3:30 PM Eastern, else your travel will not be approved until the next business day. If you require approval after business hours, see the guide for after-hours and emergency travel [here]({{site.baseurl}}/travel-guide-b-after-hours-emergency-travel-authorizations).
 
 \*For vouchers, your travel will be approved within 3-5 business days.
@@ -311,7 +288,7 @@ Teleworking from locations outside the U.S. while on personal travel is not allo
 
 In the case of individual or small group travel, you may estimate your expenses based on the total amount of your authorization in Concur, plus an reasonable allowance for any additional expenses such as taxis, parking, and baggage fees.
 
-For larger group travel, it is recommended to use this [travel expenses estimator template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0) which automatically calculates most airfare and per diems.
+For larger group travel, it is recommended to use this [travel expenses estimator template](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=983623718) which automatically calculates most airfare and per diems.
 
 ## Questions about reimbursement
 
@@ -320,9 +297,7 @@ For larger group travel, it is recommended to use this [travel expenses estimato
 After selecting **Voucher from authorization**, you will be led through creating a voucher from your authorization that you got approved prior to traveling.
 
 - Under Document Search, you’ll see a list of your “open” authorizations (i.e. your authorizations that don’t have vouchers yet).
-
 - Hit the pencil button to select the authorization you’d like to be reimbursed for. You will be moved onto the next step, [Reviewing and completing trip information](#completing-trip-information) on the **Document Information** screen.
-
 - **TIP**: If you can't figure out which authorization is your recent trip by name, look at the departure date column.
 
 Once you've selected your authorization and continue, you'll be taken to the **Document Information** page. This should all be autopopulated, so unless some of the details of your trip changed, no further action is required here and you may continue on to **Create Document** and start [adding your expenses](#how-to-add-edit-or-delete-expenses). More guidance on what receipts or justifications are required can be found [here](#when-are-receipts-or-further-justifications-required-to-claim-expenses)
@@ -338,11 +313,8 @@ However, in some cases, Concur will generate an amendement in error. If you susp
 Upon selecting the **Local voucher** option, you will be taken to a blank **Document Information** page. Here's what you need to include for each field:
 
 - **Trip Name** This should follow [the same naming conventions you would use for a travel authorization](#how-to-complete-your-trip-information). Ensure you have [an email from your authorizing official](#how-to-secure-authorizing-official-approval) approving all of the expenses you'd like to claim sent to tts-travelauths@gsa.gov.
-
 - **Type code** and **Trip purpose** If the voucher is for local travel (taxis, mileage, etc.), choose **Local travel**. For any other sort of reimbursement, choose **Misc voucher**.
-
 - **Document detail** Enter a brief description of what the reimbursement is for here.
-
 - Click on **Create Document**
 
 Proceed on to [entering your expenses](#how-to-add-edit-or-delete-expenses). Note that any local transit over $25 requires a receipt, and all expenses claimed on a miscellaneous voucher require receipts.
@@ -410,7 +382,6 @@ The following expenses don't require receipts, but do require brief descriptions
 ##### How should I claim meals and incidental expenses?
 
 - **The allowance for Meals and Incidental Expenses (M&IE) is a flat rate given to a traveler regardless of what they actually spent.** No receipts or justification is needed to receive M&IE.
-
 - **For example**: Consider a trip taken between 9/16 and 9/18. M&IE is $69 per day in DC, and is 75% of $69 ($51.75) on the first and last days of a trip. We see that the three days of M&IE has been added automatically.
 
 ##### How should I claim meals paid on the travel card?
@@ -418,9 +389,7 @@ The following expenses don't require receipts, but do require brief descriptions
 When meals are paid on the travel card, there are a few different ways of documenting it:
 
 - One can create a new M&IE expense with expense method **IBA** in the amount spent on meals per day. The amount of M&IE reimbursed to your personal account will be automatically reduced accordingly (you will see negative charges appear that correspond with this). If you document all expenses correctly, your travel card bill will be paid off exactly.
-
 - One can change the payment method of M&IE expenses to **IBA** so that all reimbursement is routed to the travel card. If the entire allowance was not used, any amount left over will show up as a positive balance. You may call the customer service number on the back of the card and request that a check be mailed for that remaining amount.
-
 - One can leave the payment method of M&IE expenses as the default, **CASH**. After the voucher is processed, there will be an outstanding balance remaining. This will need to be paid-- call the customer service number on the back of the card for more details on making a payment.
 
 ##### How can I remove extra days at personal expense from my authorization or voucher?
@@ -428,15 +397,10 @@ When meals are paid on the travel card, there are a few different ways of docume
 If you were authorized to extend your trip at your own expense and need to delete M&IE, there are some special instructions that you should follow:
 
 1. Edit your first _full_ day of travel at your own expense by clicking on the pencil icon.
-
 2. Click on the **View Per Diem Conditions**. You should see a menu expand below.
-
 3. Choose **M&IE Override**, then **Override by amount**, and **0**.
-
 4. Check **On leave**. Use **Other leave**, **8 hours**.
-
 5. If you are requesting leave for multiple days, return to the top and enter in the last _full_ day you are traveling at personal expense.
-
 6. Save. Your M&IE should show as zero for the day. If it didn't work, just go ahead an add in a comment about the days you would like to zero out in the comments field, and the travel team will take that into account when they review your voucher for approval.
 
 #### How should I claim hotels and lodging taxes?
@@ -450,13 +414,9 @@ Then, [correct the lodging expenses](#editing-expenses) so they reflect the actu
 Finally, [add a new expense for lodging taxes in](#adding-expenses), keeping in mind the following:
 
 - **Create Expenses Through:** Enter the last night you were checked into the hotel, and each night’s lodging tax will be copied through.
-
 - **Expense Date:** The night that you checked in.
-
 - **Expense Description:** Lodging Tax
-
 - **Cost:** Tax per night (tax can also be reported as a lump sum, though lodging itself must be broken out per night)
-
 - **Payment Method:** Travel card -> **IBA**, and other form of payment -> **CASH**
 
 Don't forget to **Save!**
