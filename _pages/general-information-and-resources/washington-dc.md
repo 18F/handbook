@@ -35,7 +35,7 @@ redirect_from:
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           TTS is located on the third floor, first wing.
+           TTS is located on the ground floor, first wing.
         </td>
       </tr>
       <tr>
