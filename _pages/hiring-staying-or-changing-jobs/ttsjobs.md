@@ -45,7 +45,7 @@ TTS WIDE: [18F Acting Director Detail](https://docs.google.com/document/d/1RoZlh
 
 TTS WIDE: [18F Acting Director of Design Detail](https://docs.google.com/document/d/1jPUmUkd4jmhlkZQefat4E4-ANhaJvzeclB-nmEry0QU/edit#) open Wednesday, March 30th through Wednesday, April 6th
 
-GSA WIDE: [Forms Service Lead Detail](https://docs.google.com/document/d/1UryP2Vg8B_rmIZ6-RiWbdKenplZemE63Ish7mAqYyFg/edit?usp=sharing) open Friday, March 18th through Monday, April 4th
+GSA WIDE: [Forms Service Lead Detail](https://docs.google.com/document/d/1UryP2Vg8B_rmIZ6-RiWbdKenplZemE63Ish7mAqYyFg/edit?usp=sharing) open Friday, March 18th through Monday, April 11th
 
 ## Opportunities with partners
 
