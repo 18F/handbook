@@ -76,7 +76,7 @@ For most 18F projects, these tasks, when completed, help ensure successful proje
   - Meet with account manager
   - Monitor project burn doc with account manager
   - Compile and post a Weekly Ship; send to partner and post in [#the-shipping-news](https://gsa-tts.slack.com/archives/C4HGPF9QA)
-- Every two weeks: Conduct an internal team retrospective & complete [Project Health Assessment](https://airtable.com/shrvaV9rDyifdSUbA) with team
+- Every two weeks: Conduct an internal team retrospective
 - Ensure midpoint and other higher-profile presentations are rehearsed or otherwise well prepared
 - Work with account manager and staffing team when project team identifies a need for a shift in staffing
 - Onboard new team members to the project, as needed, including revisiting team charter with full team
