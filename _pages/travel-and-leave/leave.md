@@ -169,9 +169,9 @@ For additional information, please reference the [Disabled Veteran Fact Sheet on
 
 Employees can request "Weather and safety leave" in HR Links for things like:
 
-* Weather-related damage to a home that makes occupying the home unsafe
-* Loss of power at home (which makes the home not an approved location under agency telework policies)
-* Employees not being prepared for teleworking when the conditions could not be anticipated (tornado or earthquake).
+- Weather-related damage to a home that makes occupying the home unsafe
+- Loss of power at home (which makes the home not an approved location under agency telework policies)
+- Employees not being prepared for teleworking when the conditions could not be anticipated (tornado or earthquake).
 
 It is expected that if possible, you'll communicate with your manager if you're unexpectedly unable to work. It's strongly recommended that supervisors and direct reports exchange mobile numbers in case you don't have internet access on your computer, but are able to use your phone.
 
