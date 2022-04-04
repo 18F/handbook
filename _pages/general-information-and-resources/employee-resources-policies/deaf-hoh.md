@@ -19,22 +19,20 @@ In order to provide accessible telecommunications services for Deaf/HoH and spee
 
 The general public who are Deaf/HoH or those having speech disabilities can also use this service to conduct business with federal agencies.
 
-
-
 ## Accessing remote services
 
 To access remote interpreting or captioning services:
 
 1. Send an email 3 business days prior to the meeting to [BISCOORD@BISWORLD.COM](mailto:BISCOORD@BISWORLD.COM) with the following information:
-     a. **Requestors Name:**
-     b. **Event Title:**
-     c. **Event Point of contact:**
-     d. **Phone number and pin for conference line:**
-     e. **Event date:**
-     f. **Start and Endtime (include timezone):**
-     g. **Names of the speakers / panelist / participants** that are going to present on the event:
-     h. **Prepartion materials**  (acronyms, agenda, PowerPoint, documents) anything that will help the Writer/Captioner to prepare for the call:
-     i. *Optional information to provide:* What platform the event will be on and URL of the event.
+   a. **Requestors Name:**
+   b. **Event Title:**
+   c. **Event Point of contact:**
+   d. **Phone number and pin for conference line:**
+   e. **Event date:**
+   f. **Start and Endtime (include timezone):**
+   g. **Names of the speakers / panelist / participants** that are going to present on the event:
+   h. **Prepartion materials** (acronyms, agenda, PowerPoint, documents) anything that will help the Writer/Captioner to prepare for the call:
+   i. _Optional information to provide:_ What platform the event will be on and URL of the event.
 2. Confirmation information will be emailed to the Requestor’s Name with the captioning URL.
 
 ### Video relay services (VRS)
