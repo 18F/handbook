@@ -13,29 +13,27 @@ Tools, services, points of contact, and tips for navigating the resources availa
 
 Once GSA has established that a person is Deaf and/or is Hard of Hearing (HoH), they should not have to provide additional medical documentation for assistive technologies or services related to that disability—only any other reasonable accommodations that they might need. If you receive a request for medical documentation, consult GSA’s [Office of Civil Rights](https://www.gsa.gov/about-us/organization/office-of-civil-rights-overview) to determine whether that request is appropriate.
 
-### Federal Relay Services (FedRelay)
+### CART
 
-In order to provide accessible telecommunications services for Deaf/HoH and speech-disabled employees, GSA has a [contract with FedRelay](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services/federal-relay-fedrelay) (with a very high contract ceiling) for these shared services. These services are not free, they are billed to a task order (a request for services from within an established contract) that GSA pays for and should only be used when needed to accommodate the individual. There is no cost to program offices (like 18F, OPP, PIF, etc.) for using these services, and FedRelay services do not require medical documentation.
+In order to provide accessible telecommunications services for Deaf/HoH and speech-disabled employees, GSA has a contract with CART provider for these shared services. These services are not free, they are billed to a task order (a request for services from within an established contract) that GSA pays for and should only be used when needed to accommodate the individual. There is no cost to program offices (like 18F, OPP, PIF, etc.) for using these services, and CART services do not require medical documentation. Visit [Live Captioning InSite](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/virtual-and-online-meetings/closed-captioning) page for further details.
 
 The general public who are Deaf/HoH or those having speech disabilities can also use this service to conduct business with federal agencies.
-
-FedRelay offers six services in English and Spanish, which are described in detail on [GSA’s FedRelay page](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services/federal-relay-fedrelay):
-
-- Text telephone (TTY)/ASCII
-- Speech to speech
-- Captioned telephone
-- IP Relay (a web-based version of TTY/ASCII service)
-- Relay conference captioning
-- Video relay
 
 ## Accessing remote services
 
 To access remote interpreting or captioning services:
 
-1.  Find the service you want to use on the [FedRelay site](https://www.federalrelay.us/federal-relay-services)
-2.  Follow the instructions specific to that service
-3.  When prompted for a Federal Agency Bureau (AB) Code, they are listed in numerical order. GSA is number 4700
-4.  Provide the interpreter or service with TTS’s [Glossary]({{site.baseurl}}/glossary/) of terms and [list of tools]({{site.baseurl}}/#tools) we reference frequently
+1. Send an email 3 business days prior to the meeting to [BISCOORD@BISWORLD.COM](mailto:BISCOORD@BISWORLD.COM) with the following information:
+   a. **Requestors Name:**
+   b. **Event Title:**
+   c. **Event Point of contact:**
+   d. **Phone number and pin for conference line:**
+   e. **Event date:**
+   f. **Start and Endtime (include timezone):**
+   g. **Names of the speakers / panelist / participants** that are going to present on the event:
+   h. **Prepartion materials** (acronyms, agenda, PowerPoint, documents) anything that will help the Writer/Captioner to prepare for the call:
+   i. _Optional information to provide:_ What platform the event will be on and URL of the event.
+2. Confirmation information will be emailed to the Requestor’s Name with the captioning URL.
 
 ### Video relay services (VRS)
 
