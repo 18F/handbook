@@ -40,7 +40,7 @@ Until you can [get a GSA travel card]({{site.baseurl}}/first-time-travel-travel-
 
 6. After you return, **create a voucher for reimbursement**:
 
-   You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in [GSA's Online University (OLU)](https://gsaolu.gsa.gov/), you can apply for access to Concur by completing the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing) and sending it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
+   You can apply to be reimbursed for your travel expenses as soon as your return from your trip and have full access to Concur. Once you have completed the IT Security Awareness and Privacy Act trainings in [GSA's Online University (OLU)](https://gsaolu.gsa.gov/), you can apply for access to Concur by completing the [CGE Access Request Form](https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request) and sending it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
 
    Once you get access, you can follow [these instructions for how to complete a voucher]({{site.baseurl}}/travel-guide-3-reimbursement). Feel free to [book travel office hours here](https://sites.google.com/a/gsa.gov/tts-office-hours/) any time should you need any assistance.
 
