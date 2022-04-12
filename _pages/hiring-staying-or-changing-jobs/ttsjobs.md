@@ -41,7 +41,11 @@ We will share open positions as they become available
 
 ### Internal only opportunities
 
-GSA WIDE: [Forms Service Lead Detail](https://docs.google.com/document/d/1UryP2Vg8B_rmIZ6-RiWbdKenplZemE63Ish7mAqYyFg/edit?usp=sharing) open Friday, March 18th through Monday, April 11th
+GSA WIDE: [Forms Service Lead Detail](https://docs.google.com/document/d/1UryP2Vg8B_rmIZ6-RiWbdKenplZemE63Ish7mAqYyFg/edit?usp=sharing) open Friday, March 18th through Monday, April 25th
+
+TTS WIDE: [Benefits Studio Detail: Various Roles](https://docs.google.com/document/d/1qL3VyAcZkc9gVqr2FO27pWoz7-YG5RqrTcIKXOTgdL8/edit) open Tuesday, April 12th through Tuesday, April 26th
+
+TTS WIDE: [Benefits Studio Reassignment: Various Roles](https://docs.google.com/document/d/15P_mUupnm-11F1b_a6xzs4Sw-PmWomq8huM1TPLC98E/edit#heading=h.cb1k1qyk7ic2) open Tuesday, April 12th through Tuesday, April 26th
 
 ## Opportunities with partners
 
