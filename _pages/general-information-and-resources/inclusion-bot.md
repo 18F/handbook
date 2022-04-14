@@ -20,7 +20,7 @@ lets the speaker know and offers some suggested alternatives:
 
 <figure>
   <img src="{{site.baseurl}}/images/inclusion-bot-1.png" alt="Slack screenshot. Inclusion bot responds with a message only the user can see: Hello! Our inclusive TTS culture is built one interaction at a time, and inclusive language is the foundation. This bot helps us practice our inclusive values here in TTS. Some of your message could be unintentionally non-inclusive. Here are some alternatives that might work better. Instead of saying 'dumb,' how about 'foolish?' Instead of saying 'guys,' how about 'yall?'">
-  <figcaption>Inclusion Bot responding to the words "dumb" and "foolish."</figcaption>
+  <figcaption>Inclusion Bot responding to the words "dumb" and "guys."</figcaption>
 </figure>
 
 The bot's message includes a button users can click to get more information
