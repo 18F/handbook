@@ -264,12 +264,6 @@ Digital.gov [hosts the Communities of Practice](https://digital.gov/communities/
 
 There are a number of groups that are good for collaborating across government. If any of these topics interest you, consider joining---even if you prefer to lurk. (Consider [filtering messages like these](https://support.google.com/mail/answer/6579?hl=en) so they appear in their own Gmail label.)
 
-#### Digital Service
-
-**About:** This listserv is used for cross-team announcements and conversation between USDS HQ, agency digital service teams, 18F etc.
-
-**To join:** Email listserv@listserv.gsa.gov with no subject and `subscribe digitalservice` in the body.
-
 #### GSA Press Clips
 
 **About:** This is an internal GSA google group we set up to bring together the various press clips that are sent out by the Communications office.
