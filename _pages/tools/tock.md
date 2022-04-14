@@ -59,7 +59,7 @@ Billable Tock projects can only be created by TTS Operations staff and only afte
 - A 2-3 sentence description of the project.
 - The name of the lead for the project.
 
-Account managers can request the creation of a project in [#tock](https://gsa-tts.slack.com/messages/tock).
+Account managers can request the creation of a project in [\#tock](https://gsa-tts.slack.com/messages/tock).
 
 ## Time tracking and billing
 
@@ -68,12 +68,17 @@ Account managers can request the creation of a project in [#tock](https://gsa-tt
 You **must** bill for the below activities because these are direct costs. This means they are directly bringing value to the partner agency you are working for. We have a legal obligation to bill for them. They include:
 
 - Work that enables project delivery, such as:
+
   - Any activity that develops skills or knowledge necessary to perform work on an assigned project
+
     - Examples: guild meetings, guild work, working groups and communities, project related skill development like reading, studying, online searches, or fixing an issue on your project - basically if it applies to your project's work you should bill it
+
   - 1:1 with supervisor/facilitator (both individual and supervisor/facilitator should bill to the project)
   - Critique groups
   - When coordinating staffing for projects with a signed IAA, bill to the project you're staffing
+
 - Project delivery work, such as:
+
   - Discipline-specific work for a project, i.e. Engineering, Design, Product, or Strategy work
   - Project team meetings (stand-ups, grooming, planning, retro, and anything else!)
   - 1:1s with project team members
@@ -117,17 +122,17 @@ However, time within those activities spent discussing a billable project may al
 
 Not sure whether work you’re doing is billable? If it’s not explicitly an indirect cost, it’s project work.
 
-Effective July 6, 2020 for 18F:
+Effective October 8, 2021 for 18F:
 
-So for most people in a given 40-hour week, the expectation is to bill at least 36 hours to project work. But what about holidays or leave time? Then you’ll need to spend 90% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
+So for most people in a given 40-hour week, the expectation is to bill at least 32 hours to project work. But what about holidays or leave time? Then you’ll need to spend 80% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
 
 | Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed) |
 | --------- | -------------------------------------- | --------------------------------- |
-| 5 days    | 36 hours (90% of 40 hours)             | 4 hours                           |
-| 4 days    | 29 hours (90% of 32 hours)             | 3 hours                           |
-| 3 days    | 21.5 hours (90% of 24 hours)           | 2.5 hours                         |
-| 2 days    | 14.5 hours (90% of 16 hours)           | 1.5 hours                         |
-| 1 days    | 7 hours (90% of 8 hours)               | 1 hours                           |
+| 5 days    | 32 hours (80% of 40 hours)             | 8 hours                           |
+| 4 days    | 25.5 hours (80% of 32 hours)           | 6.5 hours                         |
+| 3 days    | 19 hours (80% of 24 hours)             | 5 hours                           |
+| 2 days    | 13 hours (80% of 16 hours)             | 3 hours                           |
+| 1 days    | 6.5 hours (80% of 8 hours)             | 1.5 hours                         |
 
 ### Issues hitting your billable hour target
 
@@ -178,4 +183,4 @@ Tock likely doesn't have your start date listed correctly. To fix this:
 
 ### How do I change a reporting period I already filled out?
 
-Submit a Tock change request using [this form](https://docs.google.com/forms/d/1EpVTxXgRNgYfoSA2J8Oi-csjhFKqFm5DT542vIlahpU/viewform?edit_requested=true). You can also ping us in [#tock](https://gsa-tts.slack.com/messages/tock) and we'll help you out.
+Submit a Tock change request using [this form](https://docs.google.com/forms/d/1EpVTxXgRNgYfoSA2J8Oi-csjhFKqFm5DT542vIlahpU/viewform?edit_requested=true). You can also ping us in [\#tock](https://gsa-tts.slack.com/messages/tock) and we'll help you out.
