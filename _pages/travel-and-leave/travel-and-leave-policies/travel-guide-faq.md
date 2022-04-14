@@ -234,11 +234,11 @@ If your travel is **nonbillable**, and coming from your team's budget, your auth
 
 If your travel is **billable** you will need to get approval from the director of the team who oversees the type of project you are working on:
 
-- 18F: Ashley Owens
+- 18F: Cristina Brydges will be the POC until the SES Detailee is selected.
 - 10x: Nico Papafil
-- cloud.gov: Carlo Costino
-- login.gov: Alex Dalessio
-- Centers of Excellence: Bob DeLuca or Brian Whittaker
+- cloud.gov: Shea Bennett
+- login.gov: Ashley Mahan will be the POC until the Director is selected.
+- Centers of Excellence: Acting Director Jenny Rostami.
 
 #### What if I am traveling for multiple projects?
 
