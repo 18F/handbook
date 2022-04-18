@@ -13,9 +13,9 @@ To quote Rachel Cohen-Rottenberg: “If a culture’s language is full of pejora
 metaphors about a group of people, that culture is not going to see those people
 as fully entitled to the same inclusion as people in a more favored group.”
 
-Inclusion Bot is integrated into the TTS Slack and passively listens for [words
+Inclusion Bot is integrated into the TTS Slack and passively listens for words
 or phrases that have racist, sexist, ableist, or otherwise exclusionary or
-discriminatory histories or backgrounds](https://github.com/18F/charlie/blob/main/InclusionBot.md#ableist). When it hears those words, it quietly
+discriminatory histories or backgrounds ([see full list here](https://github.com/18F/charlie/blob/main/InclusionBot.md#ableist)). When it hears those words, it quietly
 lets the speaker know and offers some suggested alternatives:
 
 <figure>
