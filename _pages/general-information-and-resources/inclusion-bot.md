@@ -15,7 +15,7 @@ as fully entitled to the same inclusion as people in a more favored group.”
 
 Inclusion Bot is integrated into the TTS Slack and passively listens for words
 or phrases that have racist, sexist, ableist, or otherwise exclusionary or
-discriminatory histories or backgrounds. When it hears those words, it quietly
+discriminatory histories or backgrounds ([see full list here](https://github.com/18F/charlie/blob/main/InclusionBot.md#ableist)). When it hears those words, it quietly
 lets the speaker know and offers some suggested alternatives:
 
 <figure>
@@ -46,5 +46,5 @@ values of inclusion and respect. If someone is using disrespectful language
 intentionally or is otherwise creating a hostile working environment, that
 should be escalated to a supervisor.
 
-Inclusion Bot is one of the features of our general-purpose Slack bot called
-[Charlie, source code on GitHub](https://github.com/18f/charlie#inclusion-bot).
+[Inclusion Bot](https://github.com/18F/charlie/blob/main/InclusionBot.md) is one of the features of our general-purpose Slack bot called
+[Charlie, source code on GitHub](https://github.com/18f/charlie#inclusion-bot). A full list of language that Inclusion Bot listens for can be found [here](https://github.com/18F/charlie/blob/main/InclusionBot.md#ableist).
