@@ -91,8 +91,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
         </td>
         <td>
-          Claire Annan - 18F<br>
-          Pia Zaragoza - PIF
+          Jia Gu - 18F<br>
+          Justen Proctor - OA
         </td>
       </tr>
       <tr>
@@ -132,7 +132,7 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://github.com/18F/development-guide">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/C02CD5VUQ">#dev</a>
         </td>
         <td>
-          Davida Marion - 18F<br>
+          Sven Aas - U.S. Digital Corps<br>
           Eleni Chappen - 18F
         </td>
       </tr>
@@ -143,8 +143,8 @@ Remember, you're asking for a substantial commitment of organizational resources
           <a href="https://github.com/18F/g-research/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
         </td>
         <td>
-          Ben Peterson - 18F<br>
-          Dave Luetger - 18F
+          Becky Slogeris - PIF<br>
+          Megan Moser - 18F
         </td>
       </tr>
       <tr>
