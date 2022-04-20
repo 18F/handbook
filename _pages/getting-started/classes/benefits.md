@@ -237,13 +237,31 @@ using a digital signature. But if you use a digital signature, **it must be hand
 7. Login to [DocuSign](https://sign.gsa.gov).
 8. Click "Start" and then "Send an Envelope".
 9. Under "Add Documents to the Envelope", click the "Upload" button and select your partially completed PSLF application. Once the document is uploaded, you should a pop-up message like "We found form fields for public-service-application-for-forgiveness.pdf."
+
+    ![Screenshot of DocuSign interface to upload a document with pop-up that says "We found form fields for public-service-application-for-forgiveness.pdf."]({{site.baseurl}}/images/pslf/pslf-upload-document.png)
+
 10. Under "Add Recipients to the Envelope", add Vivian Carrasco, vivian.carrasco@gsa.gov as the recipient of the envelope
 11. On the recipient box for Vivian, click `Customize -> Advanced Settings`
+
+    ![Screenshot of DocuSign interface to add a recipient to an envelope with Vivian Carrasco, vivian.carrasco@gsa.gov set as the recipient]({{site.baseurl}}/images/pslf/pslf-add-recipient-settings.png)
+
 12. For the "Signing settings" in the "Advanced Settings" area, choose "Draw a new signature for each signature or initial field"
+
+    ![Screenshot of DocuSign interface to add a recipient to an envelope with the "Draw a new signature for each signature or initial field" selected in the Signing Settings drop-down menu]({{site.baseurl}}/images/pslf/pslf-add-recipient-signing-settings.png)
+
 13. Optionally, customize the email message. Suggested message content: "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!".
+
+    ![Screenshot of DocuSign interface to customize email message with the message customized as "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!"]({{site.baseurl}}/images/pslf/pslf-document-customize-email-message.png)
+
 14. Click "Next" at the bottom right corner of the screen.
 15. On the next page, a "Manage PDF form field data" pop-up form will appear. Select the "Assign to:" option and then select "Vivian Carrasco" from the drop-down menu. Then click the "Confirm" button in the pop-up.
+
+    ![Screenshot of DocuSign interface to manage PDF form field data with the "Assign to" radio button selected and "Vivian Carrasco" selected in the drop-down menu]({{site.baseurl}}/images/pslf/pslf-document-manage-form-data.png)
+
 16. Scroll to Section 4 of the document and drag the "Signature" field option from the left sidebar next to the line that says "Authorized Official's Signature".
+
+    ![Screenshot of DocuSign interface showing how to add a signature field for "Authorized Official's Signature" in Section 4 of the document by dragging the "Signature" field from the left sidebar to that line in the document]({{site.baseurl}}/images/pslf/pslf-document-add-signature.png)
+
 17. Click the "Send" buttom at the bottom right corner of the screen to send your document for signing.
 18. Once you receive an email confirming that your document has been signed, download the signed document
 19. Follow the guidance on the [Student Aid PSLF webpage to submit your application](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-application).
