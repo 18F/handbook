@@ -233,7 +233,7 @@ using a digital signature. But if you use a digital signature, **it must be hand
     - **Employment Status:** Check "Full-Time"
     - **Hours Per Week (Average):** 40
     - **Is your employer a governmental organization?:** Check "Yes"
-6. **Do not** fill out Section 4. This section will be completed by a GSA HR representative as detailed below.
+6. **Do not fill out Section 4**. This section will be completed by a GSA HR representative as detailed below.
 6. Save your updated PDF.
 7. Login to [DocuSign](https://sign.gsa.gov).
 8. Click "Start" and then "Send an Envelope".
