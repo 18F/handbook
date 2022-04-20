@@ -225,7 +225,8 @@ To fill out your PSLF application and obtain employer verification:
 using a digital signature. But if you use a digital signature, **it must be hand-drawn**. Adobe Reader provides the ability [to sign documents with hand-drawn signatures](https://helpx.adobe.com/reader/using/sign-pdfs.html).
 5. Enter the following information in Section 3:
     - **Employer Name:** General Services Administration
-    - **Federal Employer Identification Number (FEIN):** 1800 F St. NW, Washington, D.C. 20405
+    - **Federal Employer Identification Number (FEIN):** 44-0553234
+    - **Employer Address:** 1800 F St. NW, Washington, D.C. 20405
     - **Employer Website:** www.gsa.gov
     - **Employment Begin Date:** Whenever your posting officially began. You can find this date in [HRLinks](https://hrlinks.gsa.gov) under `Employee Personal Info -> View/Update Personal Info -> Personal Information -> Employee Information`.
     - **Employment End Date:** Check "Still Employed"
@@ -243,11 +244,11 @@ using a digital signature. But if you use a digital signature, **it must be hand
 10. Under "Add Recipients to the Envelope", add Vivian Carrasco, vivian.carrasco@gsa.gov as the recipient of the envelope
 11. On the recipient box for Vivian, click `Customize -> Advanced Settings`
 
-    ![Screenshot of DocuSign interface to add a recipient to an envelope with Vivian Carrasco, vivian.carrasco@gsa.gov set as the recipient]({{site.baseurl}}/images/pslf/pslf-add-recipient-settings.png)
+    ![Screenshot of DocuSign interface to add a recipient to an envelope with Vivian Carrasco, vivian.carrasco@gsa.gov set as the recipient]({{site.baseurl}}/images/pslf/pslf-document-add-recipient-settings.png)
 
 12. For the "Signing settings" in the "Advanced Settings" area, choose "Draw a new signature for each signature or initial field"
 
-    ![Screenshot of DocuSign interface to add a recipient to an envelope with the "Draw a new signature for each signature or initial field" selected in the Signing Settings drop-down menu]({{site.baseurl}}/images/pslf/pslf-add-recipient-signing-settings.png)
+    ![Screenshot of DocuSign interface to add a recipient to an envelope with the "Draw a new signature for each signature or initial field" selected in the Signing Settings drop-down menu]({{site.baseurl}}/images/pslf/pslf-document-add-recipient-signing-settings.png)
 
 13. Optionally, customize the email message. Suggested message content: "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!".
 
