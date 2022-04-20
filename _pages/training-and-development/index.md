@@ -29,6 +29,9 @@ The [Online University (OLU)](https://gsaolu.gsa.gov/) isn't just for mandatory 
 
 TTS also maintains a [curated list of free courses on OLU](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing) that are open to all TTS employees on a first-come, first-served basis. This list is updated weekly, and most of these trainings are virtual to make it accessible to everyone. If you need help or have OLU questions, contact [GSAOLUSupport@mail.eskillz.com](mailto:GSAOLUSupport@mail.eskillz.com).
 
+### Guilds, Communities of practice, and working groups
+TS has a [collection of communities]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/) to help develop best practices, provide training, explore new ideas, and help solve thorny issues. Most meet regularly and hold discussion related to a central theme.
+
 ### Supervisor training
 
 GSA InSite has compiled a list of [supervisor trainings](https://insite.gsa.gov/topics/training-and-development/supervisor-resources/new-supervisors) which offers helpful information and resources for new supervisors including links to the mandatory trainings.
