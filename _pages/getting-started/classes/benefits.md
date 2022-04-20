@@ -210,6 +210,19 @@ Note that the gross income in your paycheck is a little less than your annual in
 
 This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an article that explains this: [Why your paychecks don't always add up](https://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/).
 
+## Public Service Loan Forgiveness (PSLF)
+
+Public Service Loan Forgiveness (PSLF) is a government program that offers forgiveness of federal student loans under certain conditions. Further information on the program and whether you qualify for PSLF can be found on [the PSLF webpage](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service).
+
+As a GSA employee, you are eligible for PSLF (assuming you satisfy the other conditions). 
+
+To submit your PSLF application:
+
+1. Download the application PDF from the [PSLF application page](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-application)
+2. Fill out your personal information on page 1 of the application.
+3. Add your signature to the bottom of page 1. **IMPORTANT:** You can sign the document in pen/ink or
+using a digital signature. But if you use a digital signature, it must be hand-drawn
+
 ## Retirement
 
 ### FERS (Federal Employees Retirement System)
