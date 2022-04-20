@@ -3,7 +3,6 @@ title: Talent
 redirect_from:
   - /talent/
 ---
-
 TTS Talent attracts the most passionate, talented individuals from across the public and private sectors, offering them unique professional development opportunities, top-notch customer service, and fulfilling, impactful work that transforms how the public interacts with the government.
 
 While the name might be misleading, the Talent Team is primarily focused on talent acquisition/hiring and onboarding, whereas the People Ops team is focused on assisting current employees with issues related to benefits, performance management, and learning and development opportunities.
@@ -20,14 +19,14 @@ We are a team that works collaboratively, transparently and vulnerably. Where ev
 
 ### Team Values
 
-- Attentiveness
-- Inclusion
-- Empathy
-- User-Centric, Iterative and Agile
-- Measureable & data driven
-- Transparency
-- Collaboration
-- Strategic Thinking
+* Attentiveness
+* Inclusion
+* Empathy
+* User-Centric, Iterative and Agile
+* Measureable & data driven
+* Transparency
+* Collaboration
+* Strategic Thinking
 
 ### FY2021 Key Objectives
 
@@ -48,9 +47,9 @@ Once you have submitted a referral, a talent team member will reach out and invi
 
 We accept varying levels of leads including:
 
-- Referrals: You know them really well (e.g. someone you worked closely with or a good friend)
-- Warm Leads: You kind-of know them (e.g. someone you worked with but not directly)
-- Cold Leads: You barely know them at all (e.g. someone you heard speak at a conference or wrote a memorable blog post)
+* Referrals: You know them really well (e.g. someone you worked closely with or a good friend)
+* Warm Leads: You kind-of know them (e.g. someone you worked with but not directly)
+* Cold Leads: You barely know them at all (e.g. someone you heard speak at a conference or wrote a memorable blog post)
 
 Submit leads and referrals using the [Referral Submission Form](https://goo.gl/forms/I6cOnRNdh21aP5e63). [More information on the referral program.](https://docs.google.com/document/d/1GY57s0tXahSwTaLzHEuR6falwQcNh7nbCnRnLoQppdQ/edit) Leads and referrals are welcome any time, not just during times when positions are open.
 
@@ -68,21 +67,22 @@ Internal candidates can find opportunities via #tts-jobs in Slack or in the Hand
 
 There are many ways to stay connected to what Talent is working on including those below:
 
-- Slack: We share a Weekly Ship message every Monday in #hiring, highlighting some of the things we are focused on for the week as well as Talent-related announcements.
-- Email: We send a Weekly Snapshot email every Tuesday to all of TTS, sharing the open internal, external and upcoming positions that we are hiring for.
-- Office Hours: We host bi-weekly office hours that provide a 1:1 opportunity for people to speak with a Talent team member. You can sign-up here for a [15 minute slot](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5IUExwSFZMRGV6fGRlZmF1bHR8NWMxMmNkNzU4NGRmYjFmOTc1OTgxZDRmZDE4YzU4MDI)
-- Talent Team Show & Tell Presentations: We host an hour-long presentation each quarter showcasing some of the initiatives we have been working on and diving a little more deeply into Talent topics of interest. We generally also have time for Q&A at the end of the presentation. These presentations are recorded. You can access previous recordings below.
+* Slack: We share a Weekly Ship message every Monday in #hiring, highlighting some of the things we are focused on for the week as well as Talent-related announcements.
+* Email: We send a Weekly Snapshot email every Tuesday to all of TTS, sharing the open internal, external and upcoming positions that we are hiring for.
+* Talent Team Show & Tell Presentations: We host an hour-long presentation each quarter showcasing some of the initiatives we have been working on and diving a little more deeply into Talent topics of interest. We generally also have time for Q&A at the end of the presentation. These presentations are recorded. You can access previous recordings below.
 
 ## Talent Team Show & Tell recordings
 
-- **[October 22, 2020 recording](https://drive.google.com/file/d/1P3kX4guHfD_9_aLkUeT0_S0lyzBfjoaD/view) and [transcript](https://drive.google.com/file/d/1Ct3BiHG6cbofG86DmCj3k705vbC7iQmc/view?usp=sharing)** - Agenda topics: Referrals & information sessions, Hiring Manager guide, Job Boards and Strategic Outreach and Ethnicity/Race & Gender Data
-- **[March 11, 2021 recording](https://gsa.enterprise.slack.com/files/U01JDKCRW12/F01QT31M7CN/zoom_0.mp4) and [transcript](https://drive.google.com/file/d/1KFiZwI99ZB6CJp7z2ZepwO_zhOyeNUDv/view?usp=sharing)** - Agenda topics: Partnering for Results (highlighting PIF's DE&I efforts) , Diversity-Focused Events & Job Boards, Info Sessions, Internal Competitions and Candidate Experience Surveys
-- **[June 28, 2021 recording](https://drive.google.com/file/d/18oA2v4_OlWbafLqUF_qzzh4SxMQgQRqH/view) and [transcript](https://drive.google.com/file/d/1Ct3BiHG6cbofG86DmCj3k705vbC7iQmc/view?usp=sharing)** - Agenda topics: SES Hiring Process, Diversity- Focused Events & Job Boards, Talent Team Hiring and General Info Sessions
-- **[December 16, 2021 recording](https://docs.google.com/document/d/1vvWR44ZeizAuX22O6z4saqFwejuem43p_Y9kkDVlXAw/edit)** - Agenda topics: New Team Members, FY21 DEI Job Board and Event Retro, JoinTTS site update, Kudos, Future Info, Show & Tell with Omar
+* **[October 22, 2020 recording](https://drive.google.com/file/d/1P3kX4guHfD_9_aLkUeT0_S0lyzBfjoaD/view) and [transcript](https://drive.google.com/file/d/1Ct3BiHG6cbofG86DmCj3k705vbC7iQmc/view?usp=sharing)** - Agenda topics: Referrals & information sessions, Hiring Manager guide, Job Boards and Strategic Outreach and Ethnicity/Race & Gender Data
+* **[March 11, 2021 recording](https://gsa.enterprise.slack.com/files/U01JDKCRW12/F01QT31M7CN/zoom_0.mp4) and [transcript](https://drive.google.com/file/d/1KFiZwI99ZB6CJp7z2ZepwO_zhOyeNUDv/view?usp=sharing)** - Agenda topics: Partnering for Results (highlighting PIF's DE&I efforts) , Diversity-Focused Events & Job Boards, Info Sessions, Internal Competitions and Candidate Experience Surveys
+* **[June 28, 2021 recording](https://drive.google.com/file/d/18oA2v4_OlWbafLqUF_qzzh4SxMQgQRqH/view) and [transcript](https://drive.google.com/file/d/1Ct3BiHG6cbofG86DmCj3k705vbC7iQmc/view?usp=sharing)** - Agenda topics: SES Hiring Process, Diversity- Focused Events & Job Boards, Talent Team Hiring and General Info Sessions
+* **[December 16, 2021 recording](https://docs.google.com/document/d/1vvWR44ZeizAuX22O6z4saqFwejuem43p_Y9kkDVlXAw/edit)** - Agenda topics: New Team Members, FY21 DEI Job Board and Event Retro, JoinTTS site update, Kudos, Future Info, Show & Tell with Omar
 
 ## How to get in touch
 
-- Slack:
-  - [#hiring](https://gsa-tts.slack.com/messages/hiring/)
-- Email:
-  - [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team. Also use this email if you'd like to submit an internal competition announcement for our review and for all hiring and onboarding related questions.
+* Slack:
+
+  * [\#hiring](https://gsa-tts.slack.com/messages/hiring/)
+* Email:
+
+  * [jointts@gsa.gov](mailto:jointts@gsa.gov) - for applicants, candidates, or other interested parties to contact the Talent Team. Also use this email if you'd like to submit an internal competition announcement for our review and for all hiring and onboarding related questions.
