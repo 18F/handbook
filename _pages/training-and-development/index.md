@@ -19,6 +19,8 @@ Supervisors are responsible for guiding their employees to developmental opportu
 
 In the Office of Human Resources Management (OHRM), GSA's Talent Development Division offers a number of different training, developmental, and coaching options. Here are training benefits available to all GSA employees.
 
+[Guide on requesting use of your training budget to attend conferences, trainings or buy professional development books.]({{site.baseurl}}/conferences-events-training/)
+
 ## Free training and development opportunities
 
 ### Online University (OLU) trainings
@@ -75,4 +77,3 @@ The [Virtual Lunch & Learn Series](https://insite.gsa.gov/employee-resources/tra
 - Join the GSA [Training & Development Chatter group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9t0000000H1uQ)
   to stay up-to-date on all the training and development opportunities
 - [Training & Development InSite page](https://insite.gsa.gov/employee-resources/training-and-development/)
-- [Conferences, events, and other professional development trainings]({{site.baseurl}}/conferences-events-training/)
