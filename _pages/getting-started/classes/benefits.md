@@ -216,12 +216,38 @@ Public Service Loan Forgiveness (PSLF) is a government program that offers forgi
 
 As a GSA employee, you are eligible for PSLF (assuming you satisfy the other conditions). 
 
-To submit your PSLF application:
+To fill out your PSLF application and obtain employer verification:
 
 1. Download the application PDF from the [PSLF application page](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-application)
-2. Fill out your personal information on page 1 of the application.
-3. Add your signature to the bottom of page 1. **IMPORTANT:** You can sign the document in pen/ink or
-using a digital signature. But if you use a digital signature, it must be hand-drawn
+2. Fill out your Section 1 of the application with your personal information.
+3. Check the appropriate box in Section 2 depending on whether you think you currently qualify for PSLF or not. 
+4. Add your signature to the bottom of page 1. **IMPORTANT:** You can sign the document in pen/ink or
+using a digital signature. But if you use a digital signature, **it must be hand-drawn**. Adobe Reader provides the ability [to sign documents with hand-drawn signatures](https://helpx.adobe.com/reader/using/sign-pdfs.html).
+5. Enter the following information in Section 3:
+    - **Employer Name:** General Services Administration
+    - **Federal Employer Identification Number (FEIN):** 1800 F St. NW, Washington, D.C. 20405
+    - **Employer Website:** www.gsa.gov
+    - **Employment Begin Date:** Whenever your posting officially began. You can find this date in [HRLinks](https://hrlinks.gsa.gov) under `Employee Personal Info -> View/Update Personal Info -> Personal Information -> Employee Information`.
+    - **Employment End Date:** Check "Still Employed"
+    - **Employment Status:** Check "Full-Time"
+    - **Hours Per Week (Average):** 40
+    - **Is your employer a governmental organization?:** Check "Yes"
+6. **Do not** fill out Section 4. This section will be completed by a GSA HR representative as detailed below.
+6. Save your updated PDF.
+7. Login to [DocuSign](https://sign.gsa.gov).
+8. Click "Start" and then "Send an Envelope".
+9. Under "Add Documents to the Envelope", click the "Upload" button and select your partially completed PSLF application. Once the document is uploaded, you should a pop-up message like "We found form fields for public-service-application-for-forgiveness.pdf."
+10. Under "Add Recipients to the Envelope", add Vivian Carrasco, vivian.carrasco@gsa.gov as the recipient of the envelope
+11. On the recipient box for Vivian, click `Customize -> Advanced Settings`
+12. For the "Signing settings" in the "Advanced Settings" area, choose "Draw a new signature for each signature or initial field"
+13. Optionally, customize the email message. Suggested message content: "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!".
+14. Click "Next" at the bottom right corner of the screen.
+15. On the next page, a "Manage PDF form field data" pop-up form will appear. Select the "Assign to:" option and then select "Vivian Carrasco" from the drop-down menu. Then click the "Confirm" button in the pop-up.
+16. Scroll to Section 4 of the document and drag the "Signature" field option from the left sidebar next to the line that says "Authorized Official's Signature".
+17. Click the "Send" buttom at the bottom right corner of the screen to send your document for signing.
+18. Once you receive an email confirming that your document has been signed, download the signed document
+19. Follow the guidance on the [Student Aid PSLF webpage to submit your application](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-application).
+
 
 ## Retirement
 
