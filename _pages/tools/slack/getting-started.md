@@ -10,10 +10,10 @@ _[Back to Slack page](../)_
 
 **[Fill in your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are.
 
-- **Display name**: You can use your name or a short handle like `@example` or `@first.last`
+- **Display name**: You can use your name or a short handle like  `@example (they)` or `@first.last (they/them)`
+    - Your [pronouns](https://pronoun.is/) are optional but strongly encouraged. Having these visible helps TTS be gender inclusive. They're not required because we want to ensure people who might change their pronouns don’t feel pressure to have an answer at all times.
 - **What I do**: Include your team here (required)
 - **Location**: Where you are (required)
-- **Pronouns**: Your [pronouns](https://pronoun.is/) are optional but strongly encouraged. Having these visible helps TTS be gender inclusive. They're not required because we want to ensure people who might change their pronouns don’t feel pressure to have an answer at all times.
 - For people with GSA emails, the `Full name` and `Phone number` are overwritten with [your information from GCIMS]({{site.baseurl}}/changing-your-name/) every time you sign in, so don't bother changing those.
 
 ## Usage
