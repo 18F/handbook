@@ -37,7 +37,7 @@ There are also a few specialized guides to be aware of for the following situati
 
 The TTS travel team is comprised of the following individuals. Please send your questions to them through the above-mentioned channels and not through individual emails or Slack DMs.
 
-- Matt Ryan (primary, in training, TTS Operations)
-- Ethan Heppner (backup, TTS Operations)
+- Djemila McCray (primary, People Operations)
+- Steven Williams (backup, People Operations)
 
 \*_Please direct technical questions about Concur to the Business Applications Service Desk at (866) 450-6588 (press 2) or businessapps@gsa.gov. Questions about the [travel card application]({{site.baseurl}}/first-time-travel-travel-card/) should be routed to ronnail.rawls@gsa.gov._
