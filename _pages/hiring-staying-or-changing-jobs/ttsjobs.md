@@ -37,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Opportunities open to the public
 
-We will share open positions as they become available
+[TTS Diversity, Equity, Inclusion, & Accessibility Technology Advisor](https://join.tts.gsa.gov/join/DEIA-Technology-Advisor/) - open Monday, April 25th through Monday, May 9th
 
 ### Internal only opportunities
 
