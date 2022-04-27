@@ -117,8 +117,8 @@ To create custom emoji:
 
 ![Request new emoji form]({{site.baseurl}}/images/slack-and-social-media/request-new-emoji-form.png)
 
-As part of [2160.2B CIO CHGE 3 GSA Electronic Messaging and Related
-Services](https://www.gsa.gov/directive/gsa-electronic-messaging-and-related-services-),
+As part of [2160.2B CIO CHGE 4 GSA Electronic Messaging and Related
+Services](https://www.gsa.gov/cdnstatic/Directives/CC044995_Directive_CIO%2021602B%20CHGE%204,%20GSA%20Electronic%20Messaging%20and%20Related%20Services.pdf),
 new emoji must be reviewed before use. Once approved, your new emoji will be
 published to [\#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY).
 
