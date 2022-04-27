@@ -41,9 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-TTS WIDE: [Benefits Studio Detail: Various Roles](https://docs.google.com/document/d/1qL3VyAcZkc9gVqr2FO27pWoz7-YG5RqrTcIKXOTgdL8/edit) open Tuesday, April 12th through Tuesday, April 26th
-
-TTS WIDE: [Benefits Studio Reassignment: Various Roles](https://docs.google.com/document/d/15P_mUupnm-11F1b_a6xzs4Sw-PmWomq8huM1TPLC98E/edit#heading=h.cb1k1qyk7ic2) open Tuesday, April 12th through Tuesday, April 26th
+We will share opportunities as they become available.
 
 ## Opportunities with partners
 
