@@ -31,7 +31,7 @@ TTS also maintains a [curated list of free courses on OLU](https://docs.google.c
 
 ### Guilds, Communities of practice, and working groups
 
-TS has a [collection of communities]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/) to help develop best practices, provide training, explore new ideas, and help solve thorny issues. Most meet regularly and hold discussion related to a central theme.
+TTS has a [collection of communities]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/) to help develop best practices, provide training, explore new ideas, and help solve thorny issues. Most meet regularly and hold discussion related to a central theme.
 
 ### Supervisor training
 
