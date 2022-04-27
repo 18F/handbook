@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -41,9 +40,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-TTS WIDE: [Benefits Studio Detail: Various Roles](https://docs.google.com/document/d/1qL3VyAcZkc9gVqr2FO27pWoz7-YG5RqrTcIKXOTgdL8/edit) open Tuesday, April 12th through Tuesday, April 26th
-
-TTS WIDE: [Benefits Studio Reassignment: Various Roles](https://docs.google.com/document/d/15P_mUupnm-11F1b_a6xzs4Sw-PmWomq8huM1TPLC98E/edit#heading=h.cb1k1qyk7ic2) open Tuesday, April 12th through Tuesday, April 26th
+We will share opportunities as they become available.
 
 ## Opportunities with partners
 
@@ -55,7 +52,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
