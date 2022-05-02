@@ -39,6 +39,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [TTS Diversity, Equity, Inclusion, & Accessibility Technology Advisor](https://join.tts.gsa.gov/join/DEIA-Technology-Advisor/) - open Monday, April 25th through Monday, May 9th
 
+[U.S. Digital Corps - Director](https://join.tts.gsa.gov/join/usdc-director/) - open Monday, May 2nd through Monday, May 9th
+
 ### Internal only opportunities
 
 We will share opportunities as they become available.
