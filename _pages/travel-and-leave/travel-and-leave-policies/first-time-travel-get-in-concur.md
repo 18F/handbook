@@ -31,7 +31,7 @@ While you wait for the ID number to be generated and sent to you via email (whic
 
 2. Take the 2019 GSA Mandatory Cyber Security and Privacy Training in [OLU](https://gsaolu.gsa.gov). This can take several hours. Follow the instructions [here]({{site.baseurl}}/training-and-development/olu/#help-with-olu) if you need help.
 
-3. Complete the [CGE Access Request Form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_EbM3ZRaHRqRHFWSzA/view?usp=sharing), minus the EFT enrollment form. Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well! \*_Not sure about a particular field? Get help by reading the_ [_FAQ below_](#frequently-asked-questions)
+3. Complete the [CGE Access Request Form](https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request), minus the EFT enrollment form. Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well! \*_Not sure about a particular field? Get help by reading the_ [_FAQ below_](#frequently-asked-questions)
 
 4. Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). _Do not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only email it to tts-travel@gsa.gov. Your account will be set up before [the next travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/), which you can also book any time if you have questions.
 
