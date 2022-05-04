@@ -19,7 +19,7 @@ You will want to complete your Concur profile to pay for hotels listed in Concur
 
 It will make booking hotels in Concur easier, and allow you to personally redeem miles and/or points earned while on government travel.
 
-1. Log into Concur [travel.gsa.gov](https://travel.gsa.gov/).
+1. On VPN, log into Concur [travel.gsa.gov](https://travel.gsa.gov/). (Concur does work off VPN as well, but you'll have to go through the password reset process for access.)
 2. In the _I want to..._ menu select **Edit my profile**
 3. Update your **Your Information > Personal Information**
 4. If you have already received your card in the mail, add your GSA Credit card to **Your Information > Credit Cards**. **If you skipped this step because you had to travel before getting a Travel Card, return to it when your card arrives.** You’ll be glad you did.
