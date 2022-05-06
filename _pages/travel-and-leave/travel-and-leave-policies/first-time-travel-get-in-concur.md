@@ -29,7 +29,7 @@ In case the travel finance team is unable to locate your payroll banking informa
 
 While you wait for the ID number to be generated and sent to you via email (which can take up to 1 business day), you may get started on [applying for the GSA travel card]({{site.baseurl}}/first-time-travel-travel-card).
 
-2. Take the 2019 GSA Mandatory Cyber Security and Privacy Training in [OLU](https://gsaolu.gsa.gov). This can take several hours. Follow the instructions [here]({{site.baseurl}}/training-and-development/olu/#help-with-olu) if you need help.
+2. Ensure you have completed the mandatory security and privacy training required of all GSA staff, assigned to you in OLU (https://gsaolu.gsa.gov). Follow the instructions [here]({{site.baseurl}}/training-and-development/olu/#help-with-olu) if you need help.
 
 3. Complete the [CGE Access Request Form](https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request), minus the EFT enrollment form. Either an electronic or ink signature is fine. Don't forget to get your supervisor's signature as well! \*_Not sure about a particular field? Get help by reading the_ [_FAQ below_](#frequently-asked-questions)
 
