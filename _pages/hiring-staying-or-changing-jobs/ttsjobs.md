@@ -41,6 +41,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [U.S. Digital Corps - Director](https://join.tts.gsa.gov/join/usdc-director/) - open Monday, May 2nd through Monday, May 9th
 
+[TTS Talent Acquisition Partner](https://join.tts.gsa.gov/join/talent-acquisition-partner/) - open Monday, May 9th through Monday, May 16th
+
 ### Internal only opportunities
 
 [TTS Outreach Deputy Director Detail](https://docs.google.com/document/d/1D7hS8dZjXO_4bRYz22rzcfqNoXex-O2WWufN808o-hc/edit#heading=h.24n8tbl6yszs) - open Monday, May 2nd through Friday, May 13th
