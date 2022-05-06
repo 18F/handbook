@@ -23,7 +23,7 @@ _GSA OLU training material sometimes has trouble with certain browsers. We recom
 - Annual Ethics Training
 - Controlled Unclassified Information
 - COOP Awareness Training
-- 2019 GSA Mandatory Cyber Security and Privacy Training
+- GSA 2021 Security and Privacy Awareness Training
 - Employee Accountability for GSA Personal Property
 - Insider Threat Awareness & Reporting
 - Occupational Health and Safety
