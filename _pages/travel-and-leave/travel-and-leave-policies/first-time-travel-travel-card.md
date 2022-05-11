@@ -77,12 +77,10 @@ After you have registered and signed into the U.S. Bank Access Online website wi
 
 You need a PIN to complete chip enabled transactions.
 
-1. Go to https://access.usbank.com. Do not log in
+1. Go to https://access.usbank.com. Do not log in.
 2. Select the Change Your PIN hyperlink at the bottom of the screen.
 3. Enter your card number, expiration date and the last four digits of the phone associated with your card.
 4. You'll receive two emails, one with a unique reset link and one with a temporary PIN. Select the unique link and follow the prompts to reset your PIN, including entering the temporary PIN from the second email.
-
-Once you receive your new GSA SmartPay 3 travel card, call U.S. Bank at 888-994-6722 to confirm your account and create your personal identification number (PIN). Be sure to remember your PIN. It will be required to complete chip enabled transactions.
 
 [Visit the GSA SmartPay 3 purchase card page on InSite for more information](https://insite.gsa.gov/topics/acquisition-purchases-and-payments/gsa-purchase-card/preparing-and-implementing-gsa-smartpay-3-sp3).
 
