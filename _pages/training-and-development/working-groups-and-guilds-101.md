@@ -155,7 +155,7 @@ Remember, you're asking for a substantial commitment of organizational resources
         </td>
         <td>
           Sue Frederick - TTS<br>
-          Peter Burkholder - SOL
+          Alyssa Feola - SOL
         </td>
       </tr>
     </tbody>
