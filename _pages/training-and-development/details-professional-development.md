@@ -37,4 +37,4 @@ There is paperwork and approvals needed in order to go on detail. There are Hand
 - [Details within GSA]({{site.baseurl}}/gsa-details/)
 - [Details to/from another agency]({{site.baseurl}}/hiring-staying-or-changing-jobs/external-details/#going-on-an-external-detail)
 
-GSA also has a policy on [Details to the Legislative Branch](https://www.gsa.gov/cdnstatic/HRM_9334.2_Detail_of_Employees_%28Posted_Version_-_Signed_on_-_7-8-2016%29_%23CC033627_%28Revised_3-7-2017%29.pdf).
+GSA also has a policy on [Details to the Legislative Branch](https://www.gsa.gov/cdnstatic/HRM_9334.2_Detail_of_Employees_(Posted_Version_-_Signed_on_-_7-8-2016)_%23CC033627_(Revised_3-7-2017).pdf).
