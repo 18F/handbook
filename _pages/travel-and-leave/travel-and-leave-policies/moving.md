@@ -104,7 +104,7 @@ If you’re changing regions, your pay will likely change. Look up your new pay 
 
    - **_Do not proceed to Step 2 until you have confirmed with TTS People Ops that you are moving within the same city and your pay will not be changing_**
 
-2. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. **_For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/corporateapps/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf).\_**
+2. Change your home address in [HR Links](https://hrlinks.gsa.gov/homepage/login-simple.html). This will notify payroll, OPM, and TSP of your new address. **_For the step-by-step process with images, follow the [HR Links Guide](https://corporateapps.gsa.gov/corporateapps/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf)._**
    - After logging into HR Links, ensure you see Employee Self-Service at the top (if you have multiple options, select this one).
    - In the upper right corner of your HR Links screen is a compass icon. That is your NavBar. Click that.
    - Select Navigator > Self Service > Personal Information > Address Change
