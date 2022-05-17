@@ -8,7 +8,7 @@ TTS does our best to make everyone feel welcome. During the onboarding process, 
 
 ## Changing your name across GSA
 
-You can change your name by following these steps:
+Follow these steps to update your name if your *legal* name changes/does not match GSA systems:
 
 1. Log in to the [GSA network or a VPN]({{ site.baseurl }}/how-to-log-in/)
 1. Follow [these steps](https://corporateapps.gsa.gov/files/HR-Links-Guide_-Changing-Your-Name_Final-Oct-2020docx.pdf).
@@ -16,3 +16,16 @@ You can change your name by following these steps:
 1. Once your name has been updated in GCIMS via HRLinks, you can submit a GSA IT Help Desk to update your google account.
 
 If you have trouble with this process, [contact HRLinks support](https://corporateapps.gsa.gov/hr-links/hr-links-support/).
+
+
+## Adding a preferred name
+
+Follow these steps to update your *preferred* first name if it does not match your legal name (e.g. your legal name is Michael but you go by Mike):
+
+
+1. Log in to the [GSA network or a VPN]({{ site.baseurl }}/how-to-log-in/)
+1. Log in to [GCIMS](https://gcims.gsa.gov)
+1. Click on `GCIMS Self Service` on the left
+1. Click on `Work Contact Information` close to the middle of the page
+1. Enter your the name you go by in the Preferred Name field
+1. Click `Update and return`
