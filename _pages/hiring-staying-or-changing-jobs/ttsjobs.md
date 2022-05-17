@@ -37,6 +37,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Opportunities open to the public
 
+We will add additional opportunities as they become available.
+
 ### Internal only opportunities
 
 [TTS Outreach Deputy Director Detail](https://docs.google.com/document/d/1D7hS8dZjXO_4bRYz22rzcfqNoXex-O2WWufN808o-hc/edit#heading=h.24n8tbl6yszs) - open Monday, May 2nd through Friday, May 13th
