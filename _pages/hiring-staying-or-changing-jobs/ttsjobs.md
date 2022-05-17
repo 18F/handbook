@@ -37,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Opportunities open to the public
 
-We will add additional opportunities as they become available.
+[Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/) - open Tuesday, May 17th through Friday, June 24
 
 ### Internal only opportunities
 
