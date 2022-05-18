@@ -8,7 +8,7 @@ TTS does our best to make everyone feel welcome. During the onboarding process, 
 
 ## Changing your name across GSA
 
-Follow these steps to update your name if your _legal_ name changes/does not match GSA systems:
+Follow these steps if your name in GSA systems does not match your name as it appears on identity documents (e.g. passport, marriage certificate, state-issued ID card):
 
 1. Log in to the [GSA network or a VPN]({{ site.baseurl }}/how-to-log-in/)
 1. Follow [these steps](https://corporateapps.gsa.gov/files/HR-Links-Guide_-Changing-Your-Name_Final-Oct-2020docx.pdf).
@@ -19,7 +19,7 @@ If you have trouble with this process, [contact HRLinks support](https://corpora
 
 ## Adding a preferred name
 
-Follow these steps to update your _preferred_ first name if it does not match your legal name (e.g. your legal name is Michael but you go by Mike):
+Follow these steps to add or update your _preferred_ first name, for example GSA systems refer to you as Michael but you go by Mike:
 
 1. Log in to the [GSA network or a VPN]({{ site.baseurl }}/how-to-log-in/)
 1. Log in to [GCIMS](https://gcims.gsa.gov)
