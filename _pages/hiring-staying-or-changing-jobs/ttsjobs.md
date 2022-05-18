@@ -41,8 +41,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-[TTS Outreach Deputy Director Detail](https://docs.google.com/document/d/1D7hS8dZjXO_4bRYz22rzcfqNoXex-O2WWufN808o-hc/edit#heading=h.24n8tbl6yszs) - open Monday, May 2nd through Friday, May 13th
-
 [TTS Accelerator Division Supervisor Detail ](https://docs.google.com/document/d/1OkM5YtHedTBSlt9NWzhdhV3eoB1jpGt8uOXdOQr0A8E/edit?usp=sharing)- open Monday, May 16th through Friday, May 27th
 
 ## Opportunities with partners
