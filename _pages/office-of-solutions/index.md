@@ -35,7 +35,6 @@ We offer cross-government products and programs that help agencies deliver moder
 - [Digital.gov](https://digital.gov/): a website that provides resources for agencies to create digital services
 - [DigitalGov University (DGU)](https://digital.gov/digitalgov-university/): hosts trainings and other events about agencies’ digital efforts.
 - [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/): provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services
-- [Go.USA.gov](https://go.usa.gov/): a URL shortening service for government agencies
 - [Login.gov](https://login.gov): offers the public secure and private online access to participating government programs
 - [Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/): a compatibility testing service that agencies can use to test their websites for mobile-friendliness
 - [Search.gov](https://search.gov/): a service that powers search boxes on agency websites
