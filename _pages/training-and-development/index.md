@@ -19,6 +19,8 @@ Supervisors are responsible for guiding their employees to developmental opportu
 
 In the Office of Human Resources Management (OHRM), GSA's Talent Development Division offers a number of different training, developmental, and coaching options. Here are training benefits available to all GSA employees.
 
+[Guide on requesting use of your training budget to attend conferences, trainings or buy professional development books.]({{site.baseurl}}/conferences-events-training/)
+
 ## Free training and development opportunities
 
 ### Online University (OLU) trainings
@@ -26,6 +28,10 @@ In the Office of Human Resources Management (OHRM), GSA's Talent Development Div
 The [Online University (OLU)](https://gsaolu.gsa.gov/) isn't just for mandatory trainings. It also offers over 2,000 personal development courses including: project management, coaching skills, finance, giving feedback, professional effectiveness and makes available a large selection of online books covering a wide range of subjects.
 
 TTS also maintains a [curated list of free courses on OLU](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing) that are open to all TTS employees on a first-come, first-served basis. This list is updated weekly, and most of these trainings are virtual to make it accessible to everyone. If you need help or have OLU questions, contact [GSAOLUSupport@mail.eskillz.com](mailto:GSAOLUSupport@mail.eskillz.com).
+
+### Guilds, Communities of practice, and working groups
+
+TTS has a [collection of communities]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/) to help develop best practices, provide training, explore new ideas, and help solve thorny issues. Most meet regularly and hold discussion related to a central theme.
 
 ### Supervisor training
 
@@ -75,4 +81,3 @@ The [Virtual Lunch & Learn Series](https://insite.gsa.gov/employee-resources/tra
 - Join the GSA [Training & Development Chatter group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9t0000000H1uQ)
   to stay up-to-date on all the training and development opportunities
 - [Training & Development InSite page](https://insite.gsa.gov/employee-resources/training-and-development/)
-- [Conferences, events, and other professional development trainings]({{site.baseurl}}/conferences-events-training/)
