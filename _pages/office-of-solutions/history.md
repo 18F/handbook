@@ -45,7 +45,7 @@ In 2001 we added [Kids.gov](https://web.archive.org/web/20160327075216/https://k
 
 Starting in 2002, we managed WebContent.gov, a one-stop resource for government web professionals who needed information about requirements, best practices, usability, and new technologies. Its training program, Web Manager University, offered practical training for managers of federal, state, and local government websites. These two services are the predecessors of today’s [Digital.gov](https://digital.gov/) and [Digital.gov University](https://digital.gov/digitalgov-university/).
 
-The home of the U.S. government’s open data, [Data.gov](https://www.data.gov/), launched in 2009, as did [Go.USA.gov](https://go.usa.gov/), a URL shortening service for government agencies.
+The home of the U.S. government’s open data, [Data.gov](https://www.data.gov/), launched in 2009, as did Go.USA.gov, a URL shortening service for government agencies (update: the Go.USA.gov application was decommissioned in September 2022).
 
 ## 2010 - 2015: Hitting 40 and Looking Beyond the Web
 
