@@ -116,7 +116,7 @@ To request creation of a custom emoji:
 3. Click on the Shortcuts button to the left of the message field (blue lightning bolt icon), select "Request new emoji"
 4. Fill out the form (name and direct URL of the image within Slack) and click submit
 
-![Request new emoji form](/images/uploads/request-new-emoji-form.png)
+![Request new emoji form]({{site.baseurl}}/images/uploads/request-new-emoji-form.png)
 
 As part of [2160.2B CIO CHGE 4 GSA Electronic Messaging and Related
 Services](https://www.gsa.gov/cdnstatic/Directives/CC044995_Directive_CIO%2021602B%20CHGE%204,%20GSA%20Electronic%20Messaging%20and%20Related%20Services.pdf), new emoji must be reviewed before use. Once approved, your new emoji will be
