@@ -22,9 +22,6 @@ primary:
       - text: Strategy
         url: https://docs.google.com/presentation/d/10Y39kVm6Wrl-V1D55msMwt1yWdkCOWJBcPqnqhg-NMA/edit
         internal: false
-      - text: FY20 Accomplishments
-        url: https://docs.google.com/document/d/1CJX97zBukyJcZxS1KIw1hUdMzvor8RX5HhKIZSOn-Ho/edit
-        internal: false
       - text: Digital Council
         url: about-us/digital-council/
         internal: true
@@ -88,9 +85,6 @@ primary:
     blurb: |
       Going somewhere? Here's what you need to know.
     children:
-      - text: Updated Travel Guidance for GSA Employees (07/13/2021)
-        url: travel-and-leave/july-13-travel-guidance/
-        internal: true
       - text: Leave (HR Links)
         url: travel-and-leave/leave/
         internal: true
