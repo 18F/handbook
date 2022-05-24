@@ -104,7 +104,7 @@ Add your notes about the conference or training to the [TTS Training Database](h
 
 ## Buying books
 
-You can also use your training budget to buy books for self-guided study. Approval for books follows the same process as approvals for trainings. You'll need to fill out [the training request form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) using the names of the books you want to buy.
+You can also use your training budget to buy books for self-guided study. Approval for books follows the same process as approvals for trainings. You'll need to fill out [the training request form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) using the names of the books you want to buy. You may want to first check your local library system to see what books, newspapers, subscriptions, and other resources are available there. 
 
 ## Hosting non-government speakers
 
