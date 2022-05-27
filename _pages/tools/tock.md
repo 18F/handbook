@@ -142,7 +142,7 @@ If you still find that you don't have enough work to bill to the hour expectatio
 
 ### Working more than the minimum hours
 
-Working more than 36 billable hours is just fine! 36 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
+Working more than 32 billable hours is just fine! 32 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
 
 - Before you work those extra hours, talk to your Account Manager and supervisor to figure out if and how much over 40 you can work. The Account Manager will need to check and then adjust the project's financial accounting.
 - Get your supervisor's approval in writing
