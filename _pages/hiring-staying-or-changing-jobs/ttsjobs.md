@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-[TTS Accelerator Division Supervisor Detail ](https://docs.google.com/document/d/1OkM5YtHedTBSlt9NWzhdhV3eoB1jpGt8uOXdOQr0A8E/edit?usp=sharing)- open Monday, May 16th through Friday, May 27th
+We will share open positions as they become available
 
 ## Opportunities with partners
 
