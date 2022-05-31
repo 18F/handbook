@@ -126,14 +126,7 @@ Each program office is responsible for the cost of these services.
 
 ### Planning for accessible events
 
-GSA maintains a very useful InSite page on [planning for accessible events](https://insite.gsa.gov/topics/information-technology/508-accessibility/planning-for-accessible-events-at-gsa) to help employees prepare their everyday activities to be more inclusive and be in conformance with Section 508 requirements for digital media. It’s worth VPNing in for, and includes guidance on:
-
-- Choosing an accessible location
-- Facility considerations
-- Event registration preparation
-- Accommodations for Blind or Low Vision individuals
-- Accommodations for Deaf or Hard of Hearing individuals
-- Preparations for the presenter
+GSA maintains a very useful InSite page on [hosting accessible meetings](https://insite.gsa.gov/employee-resources/information-technology/508-accessibility/hosting-accessible-meetings). It’s worth VPNing in for and includes actions to take before, during, and after your meeting.
 
 ## Who to contact
 
