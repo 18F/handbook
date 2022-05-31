@@ -137,7 +137,7 @@ If you are using the **_GitHub website built-in editing features_**, you do not 
 
 If you are using your Terminal / local git to edit:
 
-- **TTS teammates**: Please use **_branching_** to submit pull requests. Federalist Preview sites will only be built from a branch, and continuous integration can only succeed for PRs created from branches.
+- **TTS teammates**: Please use **_branching_** to submit pull requests. Federalist Preview sites will only be built from a branch, and continuous integration can only succeed for PRs created from branches. If you are a TTS teammate and don't get an option to build a branch, request access to the [18F Staff team](https://github.com/orgs/18F/teams/18f-staff/) on #admins-github
 - **External contributors**: Please use **_forking_** to submit pull requests, since non-TTS contributors do not have write access. Unfortunately, we won't be able to run Federalist Preview sites for your pull request; please build and serve the site locally to test instead.
 
 If you have any questions, feel free to ask in [\#tts-handbook](https://gsa-tts.slack.com/messages/tts-handbook).
