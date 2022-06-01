@@ -42,7 +42,7 @@ For leave policies (including annual, sick, advance leave requests, leave withou
 
 Slack channel for TTS staff to discuss GSA benefits:
 
-- [#people-ops](https://gsa-tts.slack.com/messages/people-ops)
+- [\#people-ops](https://gsa-tts.slack.com/messages/people-ops)
 
 ## Credit union
 
@@ -83,7 +83,7 @@ Through Worklife4You, you can get assistance with
 - Education and career development
 - Health and wellness
 
-The emergency back-up care is available at very low costs - review the [Emergency Backup Dependent Care flyer](https://drive.google.com/file/d/1rO1Zu0-fCk0oQTYeCGrHEjUTeV4luH4Z/view) for more details. TTS teammates have shared their experiences with back-up care in the [#parents](https://gsa-tts.slack.com/archives/C02KQM2N7/p1461602923000114) Slack channel.
+The emergency back-up care is available at very low costs - review the [Emergency Backup Dependent Care flyer](https://drive.google.com/file/d/1rO1Zu0-fCk0oQTYeCGrHEjUTeV4luH4Z/view) for more details. TTS teammates have shared their experiences with back-up care in the [\#parents](https://gsa-tts.slack.com/archives/C02KQM2N7/p1461602923000114) Slack channel.
 
 WorkLife4You programs can be accessed via the EAP phone line: 1-800-222-0364 or 888-262-7848 (TTY). You can also register via the [WorkLife4You website](https://www.worklife4you.com/index.html). More information - including the registration code - is available on the [WorkLife4You Fact Sheet](https://drive.google.com/file/d/10LRzsiG705VDKVtdlJhp0Bo1uoz6NRay/view).
 
@@ -120,9 +120,7 @@ Common reimbursements include gym memberships (with a doctor's note), over-the-c
 There are three kinds of FSA:
 
 - **Health Care Flexible Spending Accounts** are used to pay for qualified medical costs and health care expenses not covered by your Federal Employees Health Benefits
-
 - **Limited Expense Health Care Flexible Spending Account (LEXHCFSA)** is only available to employees who enroll in a FEHB program or under a High Deductible Health Plan (HDHP) with a Health Savings Account (HSA). Expenses are limited to dental and vision care services and products that meet the IRS definition of medical care.
-
 - **Dependent Care Flexible Spending Accounts** are used to pay for eligible dependent care expenses such as child care for children under age 13 or children who are physically or mentally incapable of self-care. In some cases, they're also used to pay for elder care.
 
 Flexible Spending Accounts run on a calendar year and enrollment into the program is closed on October 1 of each year. New and newly eligible employees who wish to [enroll in this program](https://www.fsafeds.com/GEM) must do so within 60 days of their start date and prior to October 1. If you miss this deadline, you must wait until Open Season (mid-November) to enroll for the following calendar year.
@@ -138,9 +136,7 @@ The [Federal Employees Health Benefits (FEHB)](https://www.opm.gov/healthcare-in
 Eligible employees may choose from:
 
 - Fee-for-Service plans and their Preferred Provider Organizations (PPOs);
-
 - Health Maintenance Organizations (HMOs) for those who live within the geographic area serviced by the plan; and
-
 - Consumer-Drive and High-Deductible health plans that offer catastrophic risk protection with higher deductibles, health savings and reimbursement accounts, and lower premiums.
 
 The Office of Personnel Management lists the [plans available in each state](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/).
@@ -152,7 +148,9 @@ To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollme
 - Select the Benefits Library icon
 - Click on the Forms Center
 - Select "Health Benefits Election Form"
+
   - a list of event codes can be found by going to the side bar and clicking the second to last bookmark titled "Tables of Permissable Changes..."
+
 - Once you click "Submit" the documents get sent to the cpc benefits team where they can review and process these actions.
 
 The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Contact the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name.
@@ -176,12 +174,16 @@ If you have an eye appointment but have yet to receive your card(s), you can loo
 If you're having difficulty resolving an issue or getting clarification from your insurer, follow these steps:
 
 1. Email [FEHB@opm.gov](mailto:FEHB@opm.gov) and make sure to include:
+
    - Name of the insurer
    - Issue that you need resolved
    - What outcome you would like
    - A huge thanks to the team that wrangles these complaints
+
 2. They forward the issue to the company and use the complaint to see if there's a pattern of abuse by the company
+
    - The company fixes the issue at this point
+
 3. If you do not hear back within a reasonable timeframe, follow up with FEHB@opm.gov
 
 ## Leave
@@ -218,16 +220,19 @@ This is because about every 11 years or so there are 27 pay periods rather than 
 
 Public Service Loan Forgiveness (PSLF) is a government program that offers forgiveness of federal student loans under certain conditions. Further information on the program and whether you qualify for PSLF can be found on [the PSLF webpage](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service).
 
+**_Please Note:_** The Department of Education recommends that you submit the PSLF form annually or when you change employers. It will make it much easier once you are ready to apply for forgiveness after 10 years of employment in public service! If you do not submit the PSLF form with your employment certification annually, then at the time you apply for forgiveness, you will be required to submit employment certification for each employer you worked for while making the required 120 qualifying monthly payments.
+
 As a GSA employee, you are eligible for PSLF (assuming you satisfy the other conditions).
 
 To fill out your PSLF application and obtain employer verification:
 
 1. Download the application PDF from the [PSLF application page](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-application)
-1. Fill out your Section 1 of the application with your personal information.
-1. Check the appropriate box in Section 2 depending on whether you think you currently qualify for PSLF or not.
-1. Add your signature to the bottom of page 1. **IMPORTANT:** You can sign the document in pen/ink or
+2. Fill out your Section 1 of the application with your personal information.
+3. Check the appropriate box in Section 2 depending on whether you think you currently qualify for PSLF or not.
+4. Add your signature to the bottom of page 1. **IMPORTANT:** You can sign the document in pen/ink or
    using a digital signature. But if you use a digital signature, **it must be hand-drawn**. Adobe Reader provides the ability [to sign documents with hand-drawn signatures](https://helpx.adobe.com/reader/using/sign-pdfs.html).
-1. Enter the following information in Section 3:
+5. Enter the following information in Section 3:
+
    - **Employer Name:** General Services Administration
    - **Federal Employer Identification Number (FEIN):** 44-0553234
    - **Employer Address:** 1800 F St. NW, Washington, D.C. 20405
@@ -237,39 +242,40 @@ To fill out your PSLF application and obtain employer verification:
    - **Employment Status:** Check "Full-Time"
    - **Hours Per Week (Average):** 40
    - **Is your employer a governmental organization?:** Check "Yes"
-1. **Do not fill out Section 4**. This section will be completed by a GSA HR representative as detailed below.
-1. Save your updated PDF.
-1. Login to [DocuSign](https://sign.gsa.gov).
-1. Click "Start" and then "Send an Envelope".
-1. Under `Add Documents to the Envelope`, click the "Upload" button and select your partially completed PSLF application. Once the document is uploaded, you should a pop-up message like "We found form fields for public-service-application-for-forgiveness.pdf."
 
-   ![Screenshot of DocuSign interface to upload a document with pop-up that says "We found form fields for public-service-application-for-forgiveness.pdf."]({{site.baseurl}}/images/pslf/pslf-upload-document.png)
+6. **Do not fill out Section 4**. This section will be completed by a GSA HR representative as detailed below.
+7. Save your updated PDF.
+8. Login to [DocuSign](https://sign.gsa.gov).
+9. Click "Start" and then "Send an Envelope".
+10. Under `Add Documents to the Envelope`, click the "Upload" button and select your partially completed PSLF application. Once the document is uploaded, you should a pop-up message like "We found form fields for public-service-application-for-forgiveness.pdf."
 
-1. Under `Add Recipients to the Envelope`, add Vivian Carrasco, vivian.carrasco@gsa.gov as the recipient of the envelope
-1. On the recipient box for Vivian, click `Customize -> Advanced Settings`
+    ![Screenshot of DocuSign interface to upload a document with pop-up that says "We found form fields for public-service-application-for-forgiveness.pdf."]({{site.baseurl}}/images/pslf/pslf-upload-document.png)
 
-   ![Screenshot of DocuSign interface to add a recipient to an envelope with Vivian Carrasco, vivian.carrasco@gsa.gov set as the recipient]({{site.baseurl}}/images/pslf/pslf-document-add-recipient-settings.png)
+11. Under `Add Recipients to the Envelope`, add Vivian Carrasco, vivian.carrasco@gsa.gov as the recipient of the envelope
+12. On the recipient box for Vivian, click `Customize -> Advanced Settings`
 
-1. For the "Signing settings" in the "Advanced Settings" area, choose "Draw a new signature for each signature or initial field"
+    ![Screenshot of DocuSign interface to add a recipient to an envelope with Vivian Carrasco, vivian.carrasco@gsa.gov set as the recipient]({{site.baseurl}}/images/pslf/pslf-document-add-recipient-settings.png)
 
-   ![Screenshot of DocuSign interface to add a recipient to an envelope with the "Draw a new signature for each signature or initial field" selected in the Signing Settings drop-down menu]({{site.baseurl}}/images/pslf/pslf-document-add-recipient-signing-settings.png)
+13. For the "Signing settings" in the "Advanced Settings" area, choose "Draw a new signature for each signature or initial field"
 
-1. Optionally, customize the email message. Suggested message content: "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!".
+    ![Screenshot of DocuSign interface to add a recipient to an envelope with the "Draw a new signature for each signature or initial field" selected in the Signing Settings drop-down menu]({{site.baseurl}}/images/pslf/pslf-document-add-recipient-signing-settings.png)
 
-   ![Screenshot of DocuSign interface to customize email message with the message customized as "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!"]({{site.baseurl}}/images/pslf/pslf-document-customize-email-message.png)
+14. Optionally, customize the email message. Suggested message content: "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!".
 
-1. Click "Next" at the bottom right corner of the screen.
-1. On the next page, a "Manage PDF form field data" pop-up form will appear. Select the "Assign to:" option and then select "Vivian Carrasco" from the drop-down menu. Then click the "Confirm" button in the pop-up.
+    ![Screenshot of DocuSign interface to customize email message with the message customized as "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!"]({{site.baseurl}}/images/pslf/pslf-document-customize-email-message.png)
 
-   ![Screenshot of DocuSign interface to manage PDF form field data with the "Assign to" radio button selected and "Vivian Carrasco" selected in the drop-down menu]({{site.baseurl}}/images/pslf/pslf-document-manage-form-data.png)
+15. Click "Next" at the bottom right corner of the screen.
+16. On the next page, a "Manage PDF form field data" pop-up form will appear. Select the "Assign to:" option and then select "Vivian Carrasco" from the drop-down menu. Then click the "Confirm" button in the pop-up.
 
-1. Scroll to Section 4 of the document and drag the "Signature" field option from the left sidebar next to the line that says "Authorized Official's Signature".
+    ![Screenshot of DocuSign interface to manage PDF form field data with the "Assign to" radio button selected and "Vivian Carrasco" selected in the drop-down menu]({{site.baseurl}}/images/pslf/pslf-document-manage-form-data.png)
 
-   ![Screenshot of DocuSign interface showing how to add a signature field for "Authorized Official's Signature" in Section 4 of the document by dragging the "Signature" field from the left sidebar to that line in the document]({{site.baseurl}}/images/pslf/pslf-document-add-signature.png)
+17. Scroll to Section 4 of the document and drag the "Signature" field option from the left sidebar next to the line that says "Authorized Official's Signature".
 
-1. Click the "Send" buttom at the bottom right corner of the screen to send your document for signing.
-1. Once you receive an email confirming that your document has been signed, download the signed document.
-1. Follow the guidance on the [Student Aid PSLF webpage to submit your application](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-application).
+    ![Screenshot of DocuSign interface showing how to add a signature field for "Authorized Official's Signature" in Section 4 of the document by dragging the "Signature" field from the left sidebar to that line in the document]({{site.baseurl}}/images/pslf/pslf-document-add-signature.png)
+
+18. Click the "Send" buttom at the bottom right corner of the screen to send your document for signing.
+19. Once you receive an email confirming that your document has been signed, download the signed document.
+20. Follow the guidance on the [Student Aid PSLF webpage to submit your application](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-application).
 
 ## Retirement
 
@@ -288,8 +294,8 @@ As an example, if you served in the Peace Corps for 2 years and buy back your se
 The calculations for FERS retirement can be complex, and there is paperwork to complete. We recommend carefully reviewing all information and talking to HR personnel as needed. Visit the following websites, Slack channels, and email the GSA HR Benefits contact listed in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document.
 
 - [AmeriCorps VISTA](https://www.vistacampus.gov/resources/federal-jobs-and-noncompetitive-eligibility)
-- [Military service](https://www.dfas.mil/civilianemployees/militaryservice/militaryservicedeposits.html) and [#vets](https://gsa-tts.slack.com/messages/vets)
-- [Peace Corps](https://www.peacecorps.gov/returned-volunteers/support-services/federal-retirement/) and [#rpcvs](https://gsa-tts.slack.com/messages/rpcvs)
+- [Military service](https://www.dfas.mil/civilianemployees/militaryservice/militaryservicedeposits.html) and [\#vets](https://gsa-tts.slack.com/messages/vets)
+- [Peace Corps](https://www.peacecorps.gov/returned-volunteers/support-services/federal-retirement/) and [\#rpcvs](https://gsa-tts.slack.com/messages/rpcvs)
 
 ### TSP (Thrift Savings Plan)
 
@@ -300,8 +306,8 @@ To start, change, or stop your contributions, you'll need to fill out [Form TSP-
 You can also update TSP directly in [HR Links]({{site.baseurl}}/travel-and-leave/leave/#logging-into-hr-links) by following this [visual guide](https://corporateapps.gsa.gov/corporateapps/files/Updating-TSP-Traditional-or-Roth.pdf) or these steps:
 
 1. After you sign into HR Links, click "Benefits Summary"
-1. Click on the **TSP** tile/row to view and edit your contribution amounts
-1. Click **Save**
+2. Click on the **TSP** tile/row to view and edit your contribution amounts
+3. Click **Save**
 
 If you ever move, you can update your address for TSP by emailing it to both the [Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the [GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the TSP office of your new address.
 
