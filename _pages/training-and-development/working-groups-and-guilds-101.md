@@ -107,7 +107,7 @@ Remember, you're asking for a substantial commitment of organizational resources
       <tr>
         <th class="col-grouplet" id="content">Content</th>
         <td class="col-description">
-          We promote concise, elegant, user-centered writing. We plan for the creation, publication, and governance of useful, usable content. <br />
+          We promote concise, elegant, user-centered content.<br />
           <a href="https://content-guide.18f.gov/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-content">#g-content</a>
         </td>
         <td>
