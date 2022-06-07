@@ -1,6 +1,6 @@
 ---
 title: TTS Travel 101
-travel_advisory: true
+travel_advisory: false
 redirect_from:
   - /travel-101/
 ---
