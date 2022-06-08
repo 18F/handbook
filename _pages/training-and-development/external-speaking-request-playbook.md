@@ -115,7 +115,7 @@ Complete and submit the [TTS Events’ Speaking, Conferences, and Training Googl
 
 Once you [submit a request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform), you will receive an automated email confirmation. That email will also ping your supervisor to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from:
 
-- TTS (your manager, Outreach Director, and Head of Service/Staff Office (HSSO)
+- TTS (your manager, Outreach Director, and Head of Service/Staff Office (HSSO))
 - Federal Acquisition Services (FAS), and
 - Office of Strategic Communications (OSC)
 
