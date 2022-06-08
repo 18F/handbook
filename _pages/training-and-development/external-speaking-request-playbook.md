@@ -63,14 +63,14 @@ If you have been formally invited to participate in a speaking engagement, you n
 - Does the event reflect TTS and your team’s larger mission?
 - Are you clear how speaking on this topic to this audience in this forum advances TTS and your team?
 
-**Critical questions** that you need to address before submitting a speaker event request. If you answer yes to any of the following questions, stop here and contact your direct supervisor or [TTS Outreach](tts-outreach@gsa.gov).
+**Critical questions** that you need to address before submitting a speaker event request. If you answer yes to any of the following questions, stop here and contact your direct supervisor or [TTS Outreach]((mailto:tts-outreach@gsa.gov).
 
 - Are you submitting a proposal for an event or conference?
 - Is a colleague better suited to speaking on this topic?
 - Are there any sensitivities that may preclude you from speaking publicly?
 - Is this event not inclusive or representative of our TTS diversity?
 - Is this event scheduled for less than 15 days from now?
-- If you answer yes to any of these questions, stop here and contact your direct supervisor or [TTS Outreach](tts-outreach@gsa.gov).
+- If you answer yes to any of these questions, stop here and contact your direct supervisor or [TTS Outreach](mailto:tts-outreach@gsa.gov).
 </div>
 
 <h3 class="usa-accordion__heading">    
@@ -121,7 +121,7 @@ Once you [submit a request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwz
 
 Most approvals will take 2–3 weeks to complete. Some approvals can take up to 3-6 weeks to complete depending on the approvals necessary. Requests submitted with less than a week lead time are not likely to be approved–please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.
 
-- Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let [TTS Outreach](tts-outreach@gsa.gov) know if you run into an issue.
+- Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let [TTS Outreach]((mailto:tts-outreach@gsa.gov) know if you run into an issue.
 - You should not promote your participation until final approval has been given by GSA.
 
 You can track the [status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](mailto:tts-events@gsa.gov).
