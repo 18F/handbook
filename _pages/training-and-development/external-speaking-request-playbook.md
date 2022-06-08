@@ -246,17 +246,17 @@ You’ll prepare on your own time and use your own equipment.
 - You can accept travel and event-related expenses from the sponsor or organizer, but would also need to take leave to attend.
 - You can use title/position in conjunction with your speaking activities, but only if provided as one of a number of other biographical details. Bottom line is that it should be clear that you are not representing GSA when speaking in your personal capacity.
 - You can include your office/team in your bio that is included on the conference website, but you cannot be listed in the agenda as “Sally Smith, TTS/GSA.”
-  </div>
+</div>
 
-    <h3 class="usa-accordion__heading">    
-    <button
-          class="usa-accordion__button"
-          aria-expanded="true"
-          aria-controls="b2"
-        >
-        Release forms
-        </button>
-      </h3>
+<h3 class="usa-accordion__heading">    
+<button
+      class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="b2"
+    >
+    Release forms
+    </button>
+  </h3>
 
 <div id="b2" class="usa-accordion__content usa-prose" markdown=1>
 
