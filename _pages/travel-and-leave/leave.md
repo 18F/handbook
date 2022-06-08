@@ -142,7 +142,7 @@ All federal employees, no matter how long they have worked, accrue four hours of
 ### Award leave
 
 Award Leave is offered for End of Year Performance Awards and Special Act Awards. 
-- If you are eligible for an [End of Year Performance Award](https://handbook.tts.gsa.gov/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus), you can [opt-in via HRLinks](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf) to receive Award Leave in lieu of a monetary award.
+- If you are eligible for an [End of Year Performance Award]({{site.baseurl}}/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus), you can [opt-in via HRLinks](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf) to receive Award Leave in lieu of a monetary award.
 - If you are receiving a TTS Special Act Award, you will be notified and asked for your preference of Award Leave or a monetary award.
 You can receive a maximum of 80 hours of Award Leave in a single fiscal year. If you receive an award after hitting the 80 hour cap, your award will be monetary. 
 
