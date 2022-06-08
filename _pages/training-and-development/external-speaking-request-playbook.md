@@ -63,7 +63,7 @@ If you have been formally invited to participate in a speaking engagement, you n
 - Does the event reflect TTS and your team’s larger mission?
 - Are you clear how speaking on this topic to this audience in this forum advances TTS and your team?
 
-**Critical questions** that you need to address before submitting a speaker event request. If you answer yes to any of the following questions, stop here and contact your direct supervisor or [TTS Outreach]((mailto:tts-outreach@gsa.gov).
+**Critical questions** that you need to address before submitting a speaker event request. If you answer yes to any of the following questions, stop here and contact your direct supervisor or [TTS Outreach](mailto:tts-outreach@gsa.gov).
 
 - Are you submitting a proposal for an event or conference?
 - Is a colleague better suited to speaking on this topic?
