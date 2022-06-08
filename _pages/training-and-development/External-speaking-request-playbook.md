@@ -16,9 +16,9 @@ tag:
 **If this is a press request (newspaper, TV station, radio station, podcast, or blog) forward the request to [press@gsa.gov](mailto:press@gsa.gov) and do not respond directly. OSC will handle responding, coordinating, and gaining the necessary approvals.**
 
 ## Share your expertise
-We want you to share your expertise and represent TTS/GSA, and we want the approval process to be as seamless, transparent, and speedy as possible. We understand this process is complex. If you have questions or want additional information, please reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](mailto:tts-events@gsa.gov). We also have a help [slide](https://docs.google.com/presentation/d/1k8DazgKibsgN5e3kyfghGeAEAqDET251-sV71UrkGNk/edit?usp=sharing) and [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUtoczVQMkFlT2FSfGRlZmF1bHR8OTE5Y2UyMDBjYzlhMWY4NjkxNThkMmI5ZGI4ZWMzMmM).
+We want you to share your expertise and represent TTS/GSA, and we want the approval process to be as seamless, transparent, and speedy as possible. We understand this process is complex. If you have questions or want additional information, please reach out to [#trainings-conferences](https://gsa-tts.slack.com/archives/C02APU5RT) in Slack or via email at [tts-events@gsa.gov](mailto:tts-events@gsa.gov). We also have a help [slide](https://docs.google.com/presentation/d/1k8DazgKibsgN5e3kyfghGeAEAqDET251-sV71UrkGNk/edit?usp=sharing) and [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUtoczVQMkFlT2FSfGRlZmF1bHR8OTE5Y2UyMDBjYzlhMWY4NjkxNThkMmI5ZGI4ZWMzMmM).
 
-Speaking externally in your official capacity is a privilege, as you are representing GSA and your fellow TTSers. There is an approval process. GSA’s Office of Strategic Communications (OSC) and TTS Outreach must approve your participation, talking points, and presentation materials before you can participate in any external events.
+Speaking externally in your official capacity is a privilege, as you are representing GSA and your fellow TTSers. There is an approval process. GSA’s Office of Strategic Communications (OSC) and TTS Outreach must approve your participation, talking points, and presentation materials before you can participate in any external eventsin an official capacity. For additional information on representing GSA in an official vs. personal, please see official vs. personal section.
 
 This playbook contains the most recently updated speaking guidelines. It’s the best place to start whenever you have the opportunity to speak. If it's your first engagement or if you haven't been on the speaking circuit for a while, schedule a run-through with [TTS Outreach](mailto:tts-outreach@gsa.gov) once your request has been approved.
 This process has four major steps and can take up to 3-6 weeks to complete. Here is a breakdown of the four major steps.
@@ -40,7 +40,7 @@ This process has four major steps and can take up to 3-6 weeks to complete. Here
 If you want to represent TTS at an external event in your official capacity, you will need to be part of the TTS Speaker’s Bureau. In order to join the TTS Speaker’s Bureau you will need to
 
 - Create a headshot and bio in the [GSA template](https://docs.google.com/document/d/1QLbn7nwH_kUS3PRVGQcHbu5MPEwdtf_NTAd6WuBoJFQ/edit). [Examples of bios](https://docs.google.com/spreadsheets/d/1QUeodBn_hkCiUfxb8xIsMXxoyxXAorpK3B6ujLQ45ZQ/edit#gid=0)
-- Complete the Join the [TTS Speaker’s Bureau form](https://app.smartsheetgov.com/b/form/ad363ff473f347cdabdde6dbf6b0b973)
+- Complete the Join the [TTS Speaker’s Bureau form](https://docs.google.com/forms/d/e/1FAIpQLSfPHm4_tHVst3xXaAfVuY-ggDnpo2fryhMtIvk59HitRjy7Vg/viewform?usp=sf_link)
 </div>
  
 <h3 class="usa-accordion__heading">    
@@ -56,21 +56,21 @@ If you want to represent TTS at an external event in your official capacity, you
 <div id="a2" class="usa-accordion__content usa-prose" markdown=1>
 If you have been formally invited to participate in a speaking engagement, you need to think through the following questions.
 
-- Will you be speaking in your personal capacity? For additional information on representing GSA in a professional capacity versus a personal capacity, please see [professional vs. personal capacity](#additional-information) in the additional information section.
+- Will you be speaking in your personal capacity? For additional information on representing GSA in a official capacity versus a personal capacity, please see [Official vs. personal capacity](#additional-information) in the additional information section.
 - Do you have time?
 - Does the event fit fully within your realm of expertise? Is there someone else at TTS that may be a better fit for this speaking opportunity?
-- Have you reviewed the Event Justification Examples?
+- Have you reviewed the [Event Justification Example](https://docs.google.com/document/d/13BCETwANCx9JRPgFbRibqRGthIvf4XQ-WTYD0P30PWg/edit#)?
 - Does the event reflect TTS and your team’s larger mission?
 - Are you clear how speaking on this topic to this audience in this forum advances TTS and your team?
 
-**Critical questions** that you need to address before submitting a speaker event request. If you answer yes to any of the following questions, stop here and contact your direct supervisor or TTS Outreach.
+**Critical questions** that you need to address before submitting a speaker event request. If you answer yes to any of the following questions, stop here and contact your direct supervisor or [TTS Outreach](tts-outreach@gsa.gov).
 
 - Are you submitting a proposal for an event or conference?
 - Is a colleague better suited to speaking on this topic?
 - Are there any sensitivities that may preclude you from speaking publicly?
 - Is this event not inclusive or representative of our TTS diversity?
 - Is this event scheduled for less than 15 days from now?
-- If you answer yes to any of these questions, stop here and contact your direct supervisor or TTS Outreach.
+- If you answer yes to any of these questions, stop here and contact your direct supervisor or [TTS Outreach](tts-outreach@gsa.gov).
 </div>
 
 <h3 class="usa-accordion__heading">    
@@ -91,17 +91,17 @@ Request that your external event point of contact complete the [TTS Speaker Requ
 
 ##### 1. Prepare your talking points
 
-Talking points are required for you to get approval to represent your GSA at a speaking engagement.
+Talking points are required for you to get approval to represent GSA at a speaking engagement.
 
 - Use the [TTS-wide Talking Points Template](https://docs.google.com/document/d/1vsqMqtcZSSq_IhpFhtUnnNH70hcHGVaWnxhSpe_s054/edit) to create talking points.
 - Have a brief intro prepared for your engagement, along with a few lines about your role at GSA. For guidance, see the above Talking Points Template.
 - Once you’ve drafted your talking points, submit them to your direct supervisor. And if you will be speaking about a specific engagement, submit your drafted talking points to the engagement lead.
-- Review the TTS Internal/External Virtual Events Guidance and know how to answer Project Specific/TTS/GSA-specific questions, including those outside your direct area of expertise or the topic at hand.
+- Review the [TTS Internal/External Virtual Events Guidance](https://docs.google.com/document/d/1YrDs9PA8HkfLkhSfOfyJnLjAYcTkV6_vHlU7HBoyi0k/edit) and know how to answer Project Specific/TTS/GSA-specific questions, including those outside your direct area of expertise or the topic at hand.
 - Gather feedback from your peers prior submitting your Talking Points.
 
 ##### 2. Submit your request
 
-Complete and submit the [TTS Events’ Speaking, Conferences, and Training Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform") to TTS Events.
+Complete and submit the [TTS Events’ Speaking, Conferences, and Training Google Form]( https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform) to TTS Events.
 
 **To fill out this form, you will need:**
 - A description of the audience
@@ -111,7 +111,7 @@ Complete and submit the [TTS Events’ Speaking, Conferences, and Training Googl
 - To explain why your participation is beneficial
 - Complete Talking Point
 
-Once you [submit a request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform), you will receive an automated email confirmation.That email will also ping your supervisor to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from:
+Once you [submit a request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform), you will receive an automated email confirmation. That email will also ping your supervisor to approve your request, so it can move up the approval chain. TTS Events will move your request through the GSA approval process, gaining approval from:
 
 - TTS (your manager, Outreach Director, and Head of Service/Staff Office (HSSO)
 - Federal Acquisition Services (FAS), and
@@ -119,9 +119,9 @@ Once you [submit a request](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwz
 
 #### Approval timeline
 
-Most approvals will take 2–3 weeks to complete. Requests submitted with less than a week lead time are not likely to be approved–please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.
+Most approvals will take 2–3 weeks to complete. Some approvals can take up to 3-6 weeks to complete depending on the approvals necessary. Requests submitted with less than a week lead time are not likely to be approved–please check in with your designated Outreach/Events lead before submitting an approval with less than a week lead time.
 
-- Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let TTS Outreach know if you run into an issue.
+- Until you have been fully approved, the event organizers cannot name you in their marketing materials. Let [TTS Outreach](tts-outreach@gsa.gov) know if you run into an issue.
 - You should not promote your participation until final approval has been given by GSA.
 
 You can track the [status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0) with the request number in the subject line of the automated email or reach out to #trainings-conferences in Slack or via email at [tts-events@gsa.gov](mailto:tts-events@gsa.gov).
@@ -145,7 +145,7 @@ As your speaking engagement is moving through the approval process, take some ti
   
 #### Preparation
 - Watch the [OSC recording on developing messages](https://drive.google.com/file/d/1bjtYRnoIVFUIhDlm7ujjGp_JkkOH_I9p/view). 
-- If you are using slides, use this [TTS slide deck template](https://docs.google.com/presentation/d/1_R4EuC9Eiec0DQhSP5PDe5rdMeIijrTt0nhp8jghWaE/edit#slide=id.p) for your presentation or your Business Unit’s specific template.
+- If you are using slides, use this [TTS slide deck template](https://docs.google.com/presentation/d/1WY_7t6Y5ShNilKCjGaUxrcdn6pYnBgqq_VHB0i8UMec/edit#slide=id.gd889e0d6dc_0_249) for your presentation or your Business Unit’s specific template.
 
 <table class="usa-table usa-table--borderless">
   <tr>
@@ -211,15 +211,15 @@ As your speaking engagement is moving through the approval process, take some ti
         aria-expanded="true"
         aria-controls="b1"
       >
-      Professional vs. personal capacity
+      Official vs. personal capacity
       </button>
     </h3>
 
 <div id="b1" class="usa-accordion__content usa-prose" markdown=1>
 
-When receiving an invitation to speak, you need to decide if you want to do the event in your professional or personal capacity: [The FAS Speaker Guide – Version 1.0](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit).
+When receiving an invitation to speak, you need to decide if you want to do the event in your official or personal capacity: [The FAS Speaker Guide – Version 1.0](https://docs.google.com/document/d/1axPskD_BkYxBDZPGPM7uAGpAQopRWtDGwYdI4Wp6woM/edit).
 
-#### Professional capacity
+#### Official capacity
 You’ll participate as a TTS employee and discuss the work you do on behalf of GSA and our partners.
 You’ll be using GSA funds to travel to the event or pay for conference fees.
 You’ll prepare during your work time and use GSA equipment
