@@ -141,23 +141,24 @@ All federal employees, no matter how long they have worked, accrue four hours of
 
 ### Award leave
 
-Award Leave is offered for End of Year Performance Awards and Special Act Awards. 
+Award Leave is offered for End of Year Performance Awards and Special Act Awards.
+
 - If you are eligible for an [End of Year Performance Award]({{site.baseurl}}/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus), you can [opt-in via HRLinks](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf) to receive Award Leave in lieu of a monetary award.
 - If you are receiving a TTS Special Act Award, you will be notified and asked for your preference of Award Leave or a monetary award.
-You can receive a maximum of 80 hours of Award Leave in a single fiscal year. If you receive an award after hitting the 80 hour cap, your award will be monetary. 
+  You can receive a maximum of 80 hours of Award Leave in a single fiscal year. If you receive an award after hitting the 80 hour cap, your award will be monetary.
 
 Award Leave expires one year after it is issued. Expired Award Leave cannot be recovered - please monitor your leave balances and consider using Award Leave first. If you leave TTS, Award Leave is not paid out.
 
 #### Checking your Award Leave dates:
+
 - Log-in to HRLinks
 - From the Employee Self-Service homepage, click on the Print SF-50 tile.
-- You'll see a list of SF-50 documents. 
-- In the Action Reason column, look for Time Off Award or Special Act Time Off Award. 
-- Find the date in the Effective Date column. 
-- Your award leave will expire one year after the listed effective date. 
+- You'll see a list of SF-50 documents.
+- In the Action Reason column, look for Time Off Award or Special Act Time Off Award.
+- Find the date in the Effective Date column.
+- Your award leave will expire one year after the listed effective date.
 
 You may receive an automated email reminder from HRLinks 3 months before your leave expires, even if you have already used it.
-
 
 ### Funeral leave
 
