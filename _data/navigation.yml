@@ -66,8 +66,11 @@ primary:
         url: training-and-development/conferences-events-training/
         internal: true
       - text: Detailing for professional growth
-        url: training-and-development/details-professional-development/
+        url: training-and-development/details-professional-development/        
         internal: true
+      - text: External speaking requests
+        url: training-and-development/external-speaking-request-playbook/
+        internal: true        
       - text: GitHub 101
         url: training-and-development/intro-to-github/
         internal: true
