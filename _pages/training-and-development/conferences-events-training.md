@@ -112,4 +112,4 @@ You can also use your training budget to buy books for self-guided study. Approv
 
 ## External speaking requests
 
-Review the [External speaking requests playbook]({{site.baseurl}}/training-and-development/external-speaking-request-playbook).
+Review the [External speaking request playbook]({{site.baseurl}}/training-and-development/external-speaking-request-playbook).
