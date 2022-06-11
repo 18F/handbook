@@ -39,8 +39,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/) - open Tuesday, May 17th through Friday, June 24th
 
-[U.S. Digital Corps Fellow Experience Supervisor](https://join.tts.gsa.gov/join/usdc-fellow-experience-supervisor/) - open Friday, June 2nd through Friday, June 10th
-
 ### Internal only opportunities
 
 TTS WIDE: [Login.gov TMF Delivery Manager Detail](https://docs.google.com/document/d/1_QV0sBgJsPoh_Ly4DoUmxbsC5Nr1YWocbQZ-ACJPpxw/edit?usp=sharing) - open Thursday, June 2nd through Friday, June 10th
