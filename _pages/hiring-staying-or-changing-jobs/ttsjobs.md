@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-TTS WIDE: [Login.gov TMF Delivery Manager Detail](https://docs.google.com/document/d/1_QV0sBgJsPoh_Ly4DoUmxbsC5Nr1YWocbQZ-ACJPpxw/edit?usp=sharing) - open Thursday, June 2nd through Friday, June 10th
+We will share open positions as they become available.
 
 ## Opportunities with partners
 
