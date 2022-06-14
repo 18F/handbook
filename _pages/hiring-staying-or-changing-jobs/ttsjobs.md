@@ -43,9 +43,9 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-[18F Acting Deputy Director detail](https://docs.google.com/document/d/1vT8O1Bhhro_9oocYTEZj7-hLXuRhqsgxVzhjGhWXIOY/edit) - open Monday, June 13th through Wednesday, June 22th
+[18F Acting Deputy Director detail](https://docs.google.com/document/d/1vT8O1Bhhro_9oocYTEZj7-hLXuRhqsgxVzhjGhWXIOY/edit) - open Monday, June 13th through Wednesday, June 22nd
 
-[18F Acting Director of Operations detail](https://docs.google.com/document/d/17jH_RQIqb26jSKI1YGFkWz4Xlv9SAv17szPJDC-rZR4/edit) - open Monday, June 13th through Wednesday, June 22th
+[18F Acting Director of Operations detail](https://docs.google.com/document/d/17jH_RQIqb26jSKI1YGFkWz4Xlv9SAv17szPJDC-rZR4/edit) - open Monday, June 13th through Wednesday, June 22nd
 
 ## Opportunities with partners
 
