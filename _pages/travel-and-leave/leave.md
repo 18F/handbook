@@ -295,6 +295,7 @@ In cases of serious disability or ailment, and when the exigencies of the situat
 ### Additional advanced leave resources
 
 - [Fact Sheet: Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)
+- [Insite: Advanced Leave](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/leave/types-of-paid-leave?term=#Advanced)
 
 ## Court leave (including jury duty)
 
