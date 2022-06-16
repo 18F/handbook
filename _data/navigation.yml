@@ -509,6 +509,11 @@ primary:
           - text: PIF Website
             url: https://presidentialinnovationfellows.gov/
             internal: false
+      - text: U.S. Digital Corps (USDC)
+        children:
+          - text: USDC Website
+            url: https://digitalcorps.gsa.gov/
+            internal: false
   - text: Tools
     href: /#tools
     blurb: |
