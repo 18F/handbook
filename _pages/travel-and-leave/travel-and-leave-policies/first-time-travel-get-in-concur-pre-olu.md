@@ -24,7 +24,7 @@ If you're traveling for TTS during your first two weeks (normally for orientatio
 
 Your access to the EFT form linked above may be restricted, so you should have received it as an attachment in your welcome email-- feel free to reach out to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) if you never got it. The EFT form is needed so that the reimbursement for your hotels, meals, and other expenses can be reimbursed (GSA only pays for your flight or Amtrak tickets upfront).
 
-2. Once you receive your employee ID (should be in the format _E000xxxxx_), forward it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), along with your **Full Name** as it appears on ID and **Phone Number** as per TSA requirements.
+2. Once you receive your travel vendor ID (should be in the format _E000xxxxx_), forward it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), along with your **Full Name** as it appears on ID and **Phone Number** as per TSA requirements.
 
 3. **Book travel**: A member of the TTS travel team will reach out to you within two business days once you’ve sent in the above information, confirming that you've been set up in the Concur system. You may then call AdTrav at (877) 472-6716 to make your reservations at your convenience.
 
