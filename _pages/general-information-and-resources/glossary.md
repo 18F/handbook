@@ -25,7 +25,7 @@ redirect_from:
 
 - **ACQ** - Acquisitions. A discipline across the federal government responsible for purchases, and a chapter within 18f
 
-- **ADR** - Architecture Decision Record. A written record of choices made by people involved in the creation of software. There is [an article about ADRs](https://18f.gsa.gov/2021/07/06/architecture_decision_records_helpful_now_invaluable_later/) on the 18F blog. 
+- **ADR** - Architecture Decision Record. A written record of choices made by people involved in the creation of software. There is [an article about ADRs](https://18f.gsa.gov/2021/07/06/architecture_decision_records_helpful_now_invaluable_later/) on the 18F blog.
 
 - **Agile** - A software development methodology based on collaboration, iteration, feedback, and constant improvement.
 
