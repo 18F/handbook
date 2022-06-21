@@ -25,6 +25,8 @@ redirect_from:
 
 - **ACQ** - Acquisitions. A discipline across the federal government responsible for purchases, and a chapter within 18f
 
+- **ADR** - Architecture Decision Record. A written record of choices made by people involved in the creation of software. There is [an article about ADRs](https://18f.gsa.gov/2021/07/06/architecture_decision_records_helpful_now_invaluable_later/) on the 18F blog. 
+
 - **Agile** - A software development methodology based on collaboration, iteration, feedback, and constant improvement.
 
 - **API** - Application programming interface. Think of them as a way for computers to interact, either internally or between one another. If you wanted to make a website that shows the current temperature wherever you are, your code talks to one API to get your location, then another to find out the weather in that area.
