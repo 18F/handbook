@@ -5,19 +5,20 @@ questions:
 redirect_from:
   - /18f-history-and-values/
 ---
+
 18F stands on the shoulders of giants! These teams paved the way for our existence: the Consumer Financial Protection Bureau, the Office of Personnel Management Lab (focused on user experience, user research, and human-centered design in government), the Sunlight Foundation, Code for America, the [Office of Products and Programs](https://www.gsa.gov/portal/content/124174) (our sister org, which has been around for a decade and runs things like USA.gov), the U.S. CTO’s office, and the Presidential Innovation Fellowship.
 
-The hypothesis was simple: the U.S. government could attract talented technologists to the civil service by enticing them with meaty problems and an opportunity for huge impact.  The MVP was the Presidential Innovation Fellowship (go say hello to the <a href="https://gsa-tts.slack.com/messages/pifs/">#pifs</a>), which proved you could get people to give up (or take a break from) their jobs in the private sector to serve a tour of duty in the federal government. The next step was to convince people to serve longer than a six-to-12-month fellowship and join a product delivery team.
+The hypothesis was simple: the U.S. government could attract talented technologists to the civil service by enticing them with meaty problems and an opportunity for huge impact. The MVP was the Presidential Innovation Fellowship (go say hello to the <a href="https://gsa-tts.slack.com/messages/pifs/">#pifs</a>), which proved you could get people to give up (or take a break from) their jobs in the private sector to serve a tour of duty in the federal government. The next step was to convince people to serve longer than a six-to-12-month fellowship and join a product delivery team.
 
 ## Key dates
 
-* 2013: 18F funding approved and hiring begins.
-* 2014: 18F creates [cloud.gov](https://cloud.gov).
-* 2015: 18F creates the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/)
-* 2015: 18F joins [TTS Solutions]({{site.baseurl}}/office-of-solutions/).
-* 2016: 18F creates [login.gov](https://login.gov) and [cloud.gov Pages](https://federalist.18f.gov/)
-* 2016: 18F gets procurement authority.
-* 2019: 18F gets assisted acquisition authority.
+- 2013: 18F funding approved and hiring begins.
+- 2014: 18F creates [cloud.gov](https://cloud.gov).
+- 2015: 18F creates the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/)
+- 2015: 18F joins [TTS Solutions]({{site.baseurl}}/office-of-solutions/).
+- 2016: 18F creates [login.gov](https://login.gov) and [cloud.gov Pages](https://federalist.18f.gov/)
+- 2016: 18F gets procurement authority.
+- 2019: 18F gets assisted acquisition authority.
 
 ## The Presidential Innovation Fellows
 
@@ -61,11 +62,11 @@ With our mission and approach established, we rolled up our sleeves and got to w
 
 Like Lean Startup, we favor experimentation, customer feedback, analytics, and iterative design over a sequential “waterfall” model. If startups and companies like General Electric can do it, why not the U.S. government? Our goal with this approach is twofold: build user-centered digital services; and prove that building technology in an agile manner is possible in government at scale. In order to transform how the U.S. government builds and buys digital services, there are several core principles that provide a framework for our team.
 
-* **Be the change.** We intend to lead by example, by instruction, and with hands-on assistance.
-* **Think like a designer.** We believe that user-centered design can fundamentally change the experience the public has with government. We build only what people really need, nothing more. User needs are the driver for all decisions — not stakeholder or government needs.
-* **Data-informed.** We use metrics and analytics to augment our user research. We measure everything, including ourselves. 18F does more than make websites; we enable the discovery of information. Whenever possible, we think “API first” and lead with data.
-* **Leverage Agile methodologies.** Agile and lean methodologies drive our work. We believe in delivering early and often. We build something small; learn by validating with real people; and “rinse and repeat.” Quick feedback loops with stakeholders mean big failures never happen.
-* **Open by default.** We are open by default: both what we make and how we work. We’re [coding and designing in the open](https://github.com/18f); we use and build open source code by default; and we’re evangelizing our methods and practices across the federal government.
+- **Be the change.** We intend to lead by example, by instruction, and with hands-on assistance.
+- **Think like a designer.** We believe that user-centered design can fundamentally change the experience the public has with government. We build only what people really need, nothing more. User needs are the driver for all decisions — not stakeholder or government needs.
+- **Data-informed.** We use metrics and analytics to augment our user research. We measure everything, including ourselves. 18F does more than make websites; we enable the discovery of information. Whenever possible, we think “API first” and lead with data.
+- **Leverage Agile methodologies.** Agile and lean methodologies drive our work. We believe in delivering early and often. We build something small; learn by validating with real people; and “rinse and repeat.” Quick feedback loops with stakeholders mean big failures never happen.
+- **Open by default.** We are open by default: both what we make and how we work. We’re [coding and designing in the open](https://github.com/18f); we use and build open source code by default; and we’re evangelizing our methods and practices across the federal government.
 
 ## Hacking bureaucracy
 
@@ -79,13 +80,13 @@ When the founding team first started work, we decided to start with two initial 
 
 Historically, hiring and software deployment practices inside the federal government have posed significant challenges for agile and user-centered software development practices. These processes need to take weeks, not months. 18F is approaching hiring and software deployment in the same agile, open, user-centered way that we approach all of our projects:
 
-* Find innovators inside government who have solved similar problems
-* Engage stakeholders and users early and often
-* Set up a minimum viable product (MVP) to get started quickly
-* Give real users the process/solution from the beginning
-* Learn and iterate our approach
-* Stay aligned with the rules of the bureaucracy
-* Formalize the process/solution for reuse
+- Find innovators inside government who have solved similar problems
+- Engage stakeholders and users early and often
+- Set up a minimum viable product (MVP) to get started quickly
+- Give real users the process/solution from the beginning
+- Learn and iterate our approach
+- Stay aligned with the rules of the bureaucracy
+- Formalize the process/solution for reuse
 
 Those first few bullets are very much in line with lean and agile development methodologies. For successful product development, you need a stakeholder, a client, or a prototypical user for which you can: create an MVP; get real people using it; gather feedback; and iterate the next version. The last two bullets are somewhat unique to being lean inside a very large organization. We’ve learned two things that helped us get traction fast:
 
