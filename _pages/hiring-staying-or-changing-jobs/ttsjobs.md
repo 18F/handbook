@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -43,10 +42,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-[18F Acting Deputy Director detail](https://docs.google.com/document/d/1vT8O1Bhhro_9oocYTEZj7-hLXuRhqsgxVzhjGhWXIOY/edit) - open Monday, June 13th through Wednesday, June 22nd
-
-[18F Acting Director of Operations detail](https://docs.google.com/document/d/17jH_RQIqb26jSKI1YGFkWz4Xlv9SAv17szPJDC-rZR4/edit) - open Monday, June 13th through Wednesday, June 22nd
-
 [Vote.gov Director Detail](https://docs.google.com/document/d/147eO_zIEXvKyzxQTfzZxIkRHPottYZ63FaAn_loGUNE/edit) - open Wednesday, June 15th through Tuesday, July 5th
 
 ## Opportunities with partners
@@ -59,7 +54,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
