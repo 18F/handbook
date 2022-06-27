@@ -45,6 +45,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [Vote.gov Director Detail](https://docs.google.com/document/d/147eO_zIEXvKyzxQTfzZxIkRHPottYZ63FaAn_loGUNE/edit) - open Wednesday, June 15th through Tuesday, July 5th
 
+[CoE Deputy Director Reassignment](https://docs.google.com/document/d/1xOcNytrVZqhXCjqSaV4AylQjWQZOhHAs0xqIW5Irl6E/edit#heading=h.h91fwyiygl4s) - open Monday, June 27th through Monday, July 11th
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
