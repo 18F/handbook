@@ -1,209 +1,124 @@
 ---
-title: Lifecycle of a Launch
+title: Software Security Requirements
 ---
+Every federal information system must go through NIST's [Risk Management Framework](../steps/) before it can be used to process federal information. This process culminates in a signed Authority to Operate (ATO) being issued. Because the ATO process is a complex, multi-step process which will constrain the design and implementation of your system, you should start thinking about how it applies to your system *before* you begin designing and implementing it.
 
-## ATOs
+For a full list, see the [NIST Glossary](https://csrc.nist.gov/Glossary).
 
-[Learn about ATOs](https://atos.open-control.org/){: .usa-button}
+## Roles
 
-### Timeline
+Roles in ATO processes typically include:
 
-ATO Sprints are staffed cross-divisionally by the GSA Office of the Chief Information Security Officer (OCISO) and TTS.
+* **Assessor**: Responsible for checking the compliance of systems; sit in an agency's Security team. Validates and verifies that the documented controls (see [Step 3](../steps/#step-3-implement-security-controls)) actually work, using the assessment cases (see [Step 4](../steps/#step-4-assess-security-controls)).
+* **Authorizing Official (AO)**: Responsible for overall impact categorization and risk acceptance. The AO is ultimately responsible for determining if the risk of operating the system is acceptable, and if so, issuing an Authority to Operate (ATO) for that system. They often Designate this responsibility to one or more other people.
+* **Information System Security Officer (ISSO)**: Supports the information security system, consults on control selection, organizes scanning process. Reports to the Information System Security Manager (ISSM).
+* **Penetration tester(s)**: Conducts the penetration test after terms are agreed to as documented in the Rules of Engagement (RoE).
+* **Program team** : Those who are trying to build/launch the system.
+* **System Owner** The system owner is usually the product lead or tech lead of the project team. They will be named in the ATO documents and are the main contact during the evaluation process that leads up to an ATO.
 
-There are a few factors that will determine how long it takes a project to get an ATO. These map to [the checklist](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md), so might be helpful to open that up in another window and follow along.
+The long version: [NIST SP 800-37 Appendix D](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf#page=133)
 
-- Everything in [Phase 1](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-1-ato-sprint-prerequisites) needs to be done before the project can enter the ATO Sprint. That responsibility is on the project team and the respective Infrastructure Lead. Completing Phase 1 could take 40 hours of work.
-- Your Infrastructure Lead conducts the documentation review of [Phase 2](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-2-documentation-review). Projects are scheduled for [Phase 3](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint) by the Infrastructure Leads as a group.
-- [Phase 3](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint) should take two weeks, assuming the previous Phases were done thoroughly.
+## FISMA
 
-**The ATO Sprinting Team makes no _guarantees_ regarding the timeline of ATOs.**
+In the Federal government, the principal law governing the security of information systems is the **Federal Information Security Management Act (FISMA)**. 
 
-### Steps
+One of the goals of the Federal Information Security Management Act of 2002 (FISMA) is to “provide a comprehensive framework for ensuring the effectiveness of information security controls over information resources that support Federal operations and assets.” The National Institute of Standards and Technology (NIST) was tasked with designing and implementing this framework: the result is NIST’s Risk Management Framework (RMF). All federal information and information systems (except classified information and national security systems) are subject to NIST’s RMF. There's [an introduction to the RMF on NIST's website](http://csrc.nist.gov/groups/SMA/fisma/framework.html). A more comprehensive guide, including how to apply the framework, references to the various relevant publications, and definitions of roles and responsibilities, is found in NIST's [Special Publication 800-37](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r1.pdf).
 
-Once you have [validated the path to production](https://docs.google.com/document/d/14nCznE0ofUxrQL50EokkLOS2_UPQyor7-W9OHjXH2XY/edit), see this TTS-specific information beyond the [**general steps**](https://atos.open-control.org/steps/):
+"The ATO process", as it's commonly called here in TTS, is formally defined in the National Institute of Standards & Technology (NIST)'s [Risk Management Framework (RMF)](https://csrc.nist.gov/projects/risk-management/risk-management-framework-(RMF)-Overview):
 
-#### Step 0
+![NIST Risk Management Framework diagram](https://csrc.nist.gov/CSRC/media/Projects/Risk-Management/images-media/OrgRMF_v3.png)
 
-As soon as you begin developing an alpha, [create your ATO checklist](#ato-checklist) to set up a tracking mechanism for your ATO. You can ask questions in your checklist thread to understand the specific considerations for your system. At this time it is also good to ensure your system is eligible for [pre-assessment](#conditions-for-pre-assessment) authorization for user testing purposes.
+The steps in the process are as follows:
 
-#### Step 1
+## Step 1: Categorize Information System
 
-Work with your Infrastructure Lead to [categorize](#system-categorization) your system's impact levels, using the [ATO Levels](https://atos.open-control.org/categorization/) guide. GSA provides a "lightweight" ATO process designed for pilot systems running on GSA authorized infrastructure, for which fewer controls are in scope.
+The information systems' owner, working with the AO, categorizes the system based on the potential impact on the organization if the information system, or the information within it, is jeopardized. The system will end up with a category of *low*, *moderate* or *high*, based on criteria described [here](../categorization/).
 
-#### Step 2
+If your system will be providing novel or risky functions, or handling extremely sensitive data, do this as early as possible.
 
-[General info](https://atos.open-control.org/steps/#step-2-select-security-controls)
+## Step 2: Select Security Controls
 
-#### Step 3
+"Controls" are individual security requirements laid out by the National Institute of Standards and Technology (NIST). NIST's encyclopedic [Special Publication 800-53](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf) (currently on revision 4) is the definitive guide to security and privacy controls for federal information systems.
 
-[General info](https://atos.open-control.org/steps/#step-3-implement-security-controls)
+Your AO determines which controls need to be implemented. This is generally based on the following:
 
-Work together with your Infrastructure Lead on this step. The documentation generated by similar TTS projects can be helpful at this stage. Consult the checklist for examples. SSP templates are available for both GSA LATOs and FedRAMP ATOs.
+* *The impact level of the system* (low, moderate or high). SP 800-53 provides a "baseline" set of controls for each level. The higher the level, the more controls or control enhancements are in scope. For systems running on cloud infrastructure, you should consult [FedRAMP's security control documentation](https://www.fedramp.gov/resources/documents-2016/).
+* *Which controls are already taken care of by your infrastructure*. If you're running in the cloud, many controls are taken care of at the infrastructure or platform layer. If your provider has received a FedRAMP P-ATO, it will provide a document called a *customer responsibility matrix* (CRM) or *control implementation summary* (CIS) listing the residual or hybrid controls that are the responsibility (or partial responsibility) of the applications running on the infrastructure or platform.
+* *What type of ATO you want to receive*. The options will be specific to the organization doing the authorizing.
+* *Tailoring*. The information system owner, working with the AO and the agency's information security team, can then add, remove or modify controls to achieve cost-effective, risk-based security, based on the agency's mission or business need.
 
-#### Step 4
+This step should happen as an integral part of any system design activities. The team should also develop a monitoring strategy to ensure that security controls continue to be effective once the system receives its authority to operate.
 
-[General info](https://atos.open-control.org/steps/#step-4-assess-security-controls)
+## Step 3: Implement Security Controls
 
-The first step in doing so is to run the [security scans]({{site.baseurl}}/launching-software/security/#scanning). This is a preliminary assessment, final assessment will be done in collaboration with GSA OCISO. You are encouraged to run scans yourself, so that there aren't big surprises during the ATO Sprint.
+As part of system development work, controls are implemented. The implementation is documented in the SSP.
 
-In parallel, you will collaborate with a GSA OCISO assessor to verify all the controls in the SSP. The exact tests are given by this [assessment case template](https://docs.google.com/spreadsheets/d/1xYv9PHk6P1ePHSQcJWXSAYbAvmxzSsDOZrdS285DKYY/edit?ts=58eba80c#gid=1541480683).
+This step is essentially "state how your system meets each of the regulations". Using a FedRAMP'ed or GSA based Platform as a Service (PaaS) provides a significant amount of inheritable controls, so the primary focus can your application's custom code and configuration. This custom code and configuration is known as the "attack surface". The final version of this document is called the System Security Plan.
 
-Your Infrastructure Lead will work with you to schedule and prioritize your system assessment. Once assessment starts, the first step is that the AO will review all the items in your ATO checklist including all the documents you generated.
+Fill out the documentation. The full list of data and functions in and of the system (in government parlance "mission based information types" and "delivery mechanisms") must be itemized in structured data. While the data types are obviously arbitrary and custom to each system we produce, the government has a formalized data set of mission functions that should be mapped to the system via [NIST 800-60](http://csrc.nist.gov/groups/SMA/fisma/categorization.html). 
 
-Then, for most systems, a team with members from the project team, your AO, your Infrastructure Lead, and the GSA OCISO will convene for at least a week and begin to follow the [Lightweight Security Authorization Guide](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/it-security-procedural-guides).
+## Step 4: Assess Security Controls
 
-Folks from OCISO will conduct a penetration test on the system. Any penetration test findings deemed serious enough to prevent an ATO will need to be fixed right away to unblock the ATO process. They will also review the SSP document and test the control narratives. This testing and review process will take 1-2 weeks and should be the top priority for the project team at the time.
+In other words, "verify that your system is secure".
 
-#### Step 5
+Before your system can go live with government information, your control implementation must be tested. Testing is often performed by the system team working together with the agency's information security team, based on a security assessment plan. The security assessment plan will depend upon the type of ATO. FedRAMP has a [Security Assessment Framework](https://www.fedramp.gov/resources/documents-2016/) for FedRAMP ATOs.
 
-[General info](https://atos.open-control.org/steps/#step-5-authorize-information-system)
+There will usually be a penetration test conducted on the system. Any penetration test findings deemed serious enough to prevent an ATO will need to be fixed right away to unblock the ATO process. They will also review the SSP document and test the control narratives. This testing and review process will take 1-2 weeks and should be the top priority for the project team at the time.
 
-#### Step 6
+The results of the assessment are documented in a *security assessment report* (SAR). Depending on the findings of the security assessment, remediation work may have to take place before the system receives its ATO. Other problems that are less critical can be remediated at a later date: these are listed in a document called a *plan of action and milestones* (POAM or POA&M).
 
-[General info](https://atos.open-control.org/steps/#step-6-monitor-security-controls)
+## Step 5: Authorize Information System
+
+The SSP, SAR and POAM together form a *security authorization package* (FedRAMP requires a further document: a continuous monitoring strategy). The Authorizing Official will make a risk-based decision whether to grant an ATO based on the information in this package. This decision, made in consultation with other key stakeholders such as the CISO, balances security considerations with the mission and operational needs of the agency.
+
+Once all of the materials are prepared and testing is done and the system is considered "ready" by the Authorizing Official, they will sign the ATO memo. If an ATO is granted, an *authorization decision document* is issued and signed by the AO which lists the conditions under which the ATO will remain valid, including the ATO's expiry date.
+
+## Step 6: Monitor Security Controls
+
+Once a system receives an ATO, it must be assessed at regular intervals to ensure the effectiveness of the control implementation. Any changes to the system's security boundary or its environment should also be assessed to determine their impact.
 
 There are several ways to ensure that your system remains compliant:
 
-- Act on any security notifications from your [static analysis]({{site.baseurl}}/launching-software/security/#static-analysis).
-- Perform and act on findings from [dynamic scanning]({{site.baseurl}}/launching-software/security/#dynamic-scanning).
-- [Re-certify your Privacy Threshold Analysis (PTA).]({{site.baseurl}}/launching-software/privacy/#re-certification)
+* Perform regular, automated security scans on your system, and act on the findings in a timely manner.
+* Keep your System Security Plan (and any other architecture/security-related documentation) up-to-date.
 
-### Re-authorization
 
-Beyond the [**general information**](https://atos.open-control.org/overview/#re-authorization):
 
-If you're planning a change that you think may require re-authorization, please [open an issue in the TTS Tech Portfolio repository](https://github.com/18F/tts-tech-portfolio/issues/new?title=ATO+re-authorization+for+%3Cproject%3E?) to explain your planned change, so they can evaluate it.
+## Re-authorization
 
-If your systems needs re-authorization, follow the usual steps for getting an ATO, starting with [the checklist](#ato-checklist). You should be able to reuse most of your existing ATO materials, assuming they have been kept up-to-date.
+Your system may need to be reassessed and re-authorized if your application team is planning to make substantive changes, such as changes to:
 
-See also: **site redesign [Concept form](https://forms.gle/mdHCktKLso8UFxMz9) and [process](https://docs.google.com/document/d/1P7kuv4avE0y1z7TRERC-gpaLc18jFhqefY-SbkdHbVQ/edit)**.
+* Encryption methodologies
+* Administrative functionality within the application
+* The kinds of information you store (for example, [personally identifiable information (PII)](../categorization/#pii))
+* The external services used or how/what data flows to/from them
+* Anything that will requires an update to the System Security Plan, system diagram, etc.
 
-### ATO renewal
+Example changes that do *not* require re-authorization, as long as they don't include the above:
 
-Beyond the [**general information**](https://atos.open-control.org/overview/#ato-renewal), follow the usual steps for getting an ATO, starting with [the checklist](#ato-checklist).
+* Features
+* Bug fixes
+* Interface changes
+* Documentation updates
 
-## ATO Checklist
+The Authorizing Official determines whether a system needs re-authorization. If you're planning a change that you think may require re-authorization, contact them.
 
-[Create your ATO checklist](https://github.com/18F/tts-tech-portfolio/issues/new?template=ato.md&title=ATO+for+%5Bsystem%5D+-+due+%5Bdate%5D){: .usa-button}
+If it needs re-authorization, follow the usual steps for getting an ATO. You should be able to reuse most of your existing ATO materials, assuming they have been kept up-to-date.
 
-([preview](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#readme))
+## ATO renewal
 
-The ATO checklist helps you track progress towards a successful launch throughout your project. It is a formatted issue on GitHub, and is the canonical source of information for your path to launch.
+Many ATOs are issued with a time limit, often this expiration is between one and three years. When an ATO nears expiration, you'll need the ATO to be renewed. Follow the usual steps for getting an ATO. You should be able to reuse most of your existing ATO materials, assuming they have been kept up-to-date.
 
-Make sure to replace the placeholders (the things in `[square brackets]`). Feel free to add a username after each task to assign it, and/or make corresponding items in your issue tracker. Unless otherwise specified, all tasks are the responsibility of the project team.
 
-You are welcome to ask any questions as comments in the issue or [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure).
 
-## Types of ATO
+## Definitions
 
-There are several different methods in obtaining a GSA Authorization as described in the policy IT Security Procedural Guide: Managing Enterprise Risk CIO-IT Security-06-30 in [Insite](https://insite.gsa.gov/cdnstatic/insite/Managing_Enterprise_Risk_%5BCIO_IT_Security_06-30_Rev_16%5D_10-03-2019docx.pdf)
-
-- GSA Standard A&A Process
-- Lightweight Security Authorization Process
-- GSA Salesforce Platform Process
-- Security Reviews for Low Impact Software as a Service Process
-- FedRAMP Process
-- GSA Moderate Impact Software as a Service (MiSaaS) Security Authorization Process
-- GSA Subsystem Process
-- GSA Information System Continuous Monitoring Program
-
-In most cases, the types of ATO that will be pursued for TTS custom software systems are the _GSA Lightweight ATO (LATO)_. The GSA LATO process is described in a guide on [Insite](https://insite.gsa.gov/topics/information-technology/security-and-privacy/it-security/it-security-procedural-guides) (search for "Lightweight Security Authorization Guide" on that page). Systems that are under development must fulfill the requirements for [pre-assessment for internal government use](#conditions-for-pre-assessment).
-
-## System categorization
-
-[General info](https://atos.open-control.org/steps/#step-1-categorize-information-system)
-
-The GSA LATO is designed for **Low** and **Moderate** _impact_ [level](https://atos.open-control.org/categorization/) systems built using agile methods that run on top of cloud infrastructure which has already received an ATO (such as AWS, Azure, and [cloud.gov](https://cloud.gov)).
-
-## Control selection
-
-The GSA LATO is "lightweight" because it represents a tailored subset of the hundreds of controls in NIST Special Publication (SP) 800-53.
-
-## System authorization
-
-The GSA LATO **Low** _risk_ system ATOs are valid for 3 years. he GSA LATO **Moderate** _risk_ system ATOs are valid for 1 year. The Authorizing Official (AO) and Chief Information Security Officer (CISO) may sometimes grant a 90-day ATO, on a case by case basis. The default expectation is to avoid 90-day ATOs whenever possible, since they make more work for everyone.
-
-### Conditions for pre-assessment
-
-_Previously known as "pre-authorization"._
-
-First, read [GSA's guidelines for staging sites](https://insite.gsa.gov/employee-resources/communications/digital-website-communication/policies-and-guidelines/guidelines-for-gsas-digital-presence/digital-presence-guidelines-security).
-
-You may operate without further authorization, based on our approved pre-existing security authorization, if all of the following conditions are met:
-
-- The system is deployed to [cloud.gov](https://cloud.gov) or [TTS-managed infrastructure-as-a-service (IaaS)](https://before-you-ship.18f.gov/infrastructure/#infrastructure-as-a-service-iaas).
-- The system does _not_:
-  - interact with or change the state of any production Federal information system, whether it is operated by TTS or our Federal partners
-  - collect or store any sensitive [personally identifiable information (PII)]({{site.baseurl}}/launching-software/privacy/)
-  - is not the canonical source of any "production" data
-- The system is _only_ available to:
-  - staff of the General Services Administration
-  - other Federal staff / agencies, by one of:
-    - IP CIDR block
-    - some kind of auth mechanism
-      - HTTP Basic Auth (one set of credentials shared amonst the team is fine)
-      - OAuth ([cloud.gov authentication](https://docs.cloud.gov/apps/leveraging-authentication/), or [GitHub authentication](https://developer.github.com/v3/oauth/) limited to a particular organization)
-      - etc.
-
-For systems where _all_ of the information in the system is already publicly available and is non-confidential, the last step can be skipped once you have begun your ATO assesment with GSA IT.
-
-## System Security Plan
-
-As described in [the NIST guide](http://csrc.nist.gov/publications/nistpubs/800-18-Rev1/sp800-18-Rev1-final.pdf#page=7):
-
-> The purpose of the system security plan is to provide an overview of the security requirements of the system and describe the controls in place or planned for meeting those requirements.
-
-At TTS, the system security plan (SSP) is a long Google Doc.
-
-[Tips](https://atos.open-control.org/tips/#system-security-plans-ssps){: .usa-button}
-
-## Diagrams
-
-[General info](https://atos.open-control.org/tips/#systemnetwork-diagrams){: .usa-button}
-
-### Examples within TTS
-
-- A simple application running on cloud.gov: [FBI Crime Data Explorer](https://docs.google.com/drawings/d/1nwclBJQfbuzsnGOqe88VukQl3uiH1Jfa4c0FT1Cq43I/edit)
-- A more complex application running on cloud.gov: [CALC](https://docs.google.com/drawings/d/1k1wykk5PbLKSNJj8FyZbIlpX0D8r1q3-w-uRK_WWt9g/edit)
-- Another complex application running on cloud.gov: [data.gov](https://github.com/GSA/datagov-compliance/blob/2e07827/datagov-components-scratchpad.md#boundary-traversal) (drawn with [PlantUML](https://plantuml.com/))
-- [A complex application not running on cloud.gov](https://docs.google.com/drawings/d/10cH-OUB1NWzCI0v9LPzm7AXCfrHXNkDgnae-7hcUFu8/edit)
-- [cloud.gov itself](https://diagrams.fr.cloud.gov/) (drawn with [Mermaid](http://mermaid-js.github.io/mermaid/))
-
-### Tools
-
-The following have been used / are available for use in TTS:
-
-- Google Drawings
-- [Mermaid](http://mermaid-js.github.io/mermaid/)
-- [OmniGraffle]({{site.baseurl}}/18f/chapters/design/#drawing-lines-on-a-screen)
-- [PlantUML](https://plantuml.com/)
-- [Visio]({{site.baseurl}}/18f/chapters/design/#drawing-lines-on-a-screen)
-
-## FedRAMP packages
-
-Often you'll be building on top of services that have FedRAMP authorizations. When writing your SSP, you'll need to mark certain controls as "inherited", based on the Customer Responsibility Matrices (CRMs) of the Cloud Service Providers (CSPs).
-
-- For cloud.gov, you can download the CRM from [their website](https://cloud.gov/docs/overview/fedramp-tracker/#how-you-can-use-this-p-ato).
-- For others, you'll need to [put in a package request](https://app.docusign.com/templates/details/434e60cc-fbd1-4708-9373-aef41439ff05).
-
-## RSA Archer
-
-[RSA Archer](https://www.rsa.com/en-us/products/integrated-risk-management) is the canonical home for system compliance info at GSA. System Owners and Authorizing Officials should automatically have access, but additional read-only access can be [requested for "support staff"](https://docs.google.com/forms/d/e/1FAIpQLSccaOu1DpvnjQjw481iNsLDLEZp0hq3tovZv0xPjYNwnAbnlA/viewform).
-
-## Signing in
-
-1. [Get on the GSA network](https://handbook.18f.gov/how-to-log-in/#connecting-to-gsa-networks)
-1. Visit [archer.gsa.gov](https://archer.gsa.gov)
-1. Sign in with your ENT credentials
-1. Check your email for the one-time password
-
-Contact ispcompliance@gsa.gov for any issues.
-
-## Tips
-
-- Is your project accessible and [Section 508](https://before-you-ship.18f.gov/laws/508/) compliant? The team will need to incorporate this throughout the project, but you'll also need to set up a review at least two weeks before launch.
-- How good is your code test coverage? Before shipping, you should have codecov badges on your GitHub repo READMEs and coverage should be above 90 percent (green). (This is not a perfect measure for code quality, but a helpful check.) The testing working group recommends reviewing your status early and often. _Ask #wg-testing if you have questions._
-- Are your APIs up to the [API Standards](https://github.com/18f/api-standards)? _Ask the [#api](https://gsa-tts.slack.com/archives/C6YGE5U74) if you have questions._
-- Make sure you have all the social media metadata and preview images.
-
-[More](https://atos.open-control.org/tips/){: .usa-button}
+* **Assessment:** The step of the ATO process (and RMF) where the system and package are reviewed by a third party.
+* **ATO package:** The SSP and other documentation needed to get an ATO.
+* **Authority to Operate (ATO):** The approval for a government system to be run in production, and the compliance process for getting there.
+* **Compliance:** Ensuring that a system meets minimum security requirements.
+* **Information system** means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information ([44 U.S.C. § 3502](https://www.law.cornell.edu/uscode/text/44/3502#8)).
+* **POAM:** Plan of Action and Milestones. They are the TODOs following an assessment, which are usually low-risk security findings that need to be addressed.
+* **RMF:** The [NIST Risk Management Framework (RMF)](https://csrc.nist.gov/projects/risk-management/risk-management-framework-(RMF)-Overview), which is what most ATO processes are based on.
+* **Security:** The sum of processes and features safeguarding systems and data.
+* **System Security Plan (SSP):** The primary document in an ATO package, the bulk of which contains the [NIST 800-53 security controls](https://nvd.nist.gov/800-53/Rev4). "The purpose...is to provide an overview of the security requirements of the system and describe the controls in place or planned for meeting those requirements." ([NIST SP 800-18](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-18r1.pdf#page=7))
