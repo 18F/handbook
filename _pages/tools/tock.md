@@ -61,7 +61,7 @@ Billable Tock projects can only be created by TTS Operations staff and only afte
 
 Account managers can request the creation of a project in [\#tock](https://gsa-tts.slack.com/messages/tock).
 
-## Time tracking and billing
+## 18F time tracking and billing
 
 ### What activities do I record billable hours for?
 
@@ -105,12 +105,20 @@ You must not bill for the following activities because these are indirect costs 
 - Performance reviews
 - New hire onboarding
 
-### Weekly Billable Hour Expectations
+### Weekly billable hour expectations
 
-For 18F, if you’re an individual contributor or a lead, you’re expected to spend at least 90% of your time on billable project work. That leaves up to 10% of your time to be spent on non-billable work.
+If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. That leaves up to 20% of your time to be spent on non-billable work. So for most people in a given 40-hour week, the expectation is to bill at least 32 hours to project work. But what about holidays or leave time? Then you’ll need to spend 80% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
 
-- Directors and supervisors have different billability expectations.
-- Guilds are given 4 hours of non-billable time weekly to support its leaders. If your guild is lead by co-leads, it is up to you to decide how you’d like to split that time between yourselves. If you anticipate any change to your billing levels for a project, please discuss with your project’s account manager.
+| Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed) |
+| --------- | -------------------------------------- | --------------------------------- |
+| 5 days    | 32 hours (80% of 40 hours)             | 8 hours                           |
+| 4 days    | 25.5 hours (80% of 32 hours)           | 6.5 hours                         |
+| 3 days    | 19 hours (80% of 24 hours)             | 5 hours                           |
+| 2 days    | 13 hours (80% of 16 hours)             | 3 hours                           |
+| 1 days    | 6.5 hours (80% of 8 hours)             | 1.5 hours                         |
+
+
+**Caveats:** Directors and supervisors have different billability expectations. Guilds are given 4 hours of non-billable time weekly to support its leaders. If your guild is lead by co-leads, it is up to you to decide how you’d like to split that time between yourselves. If you anticipate any change to your billing levels for a project, please discuss with your project’s account manager.
 
 There are a few types of non-billable work, used to manage the running of the organization: GSA-mandated non-billable work, 18F business development, hiring and non-billable work.
 
@@ -121,18 +129,6 @@ GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU tr
 However, time within those activities spent discussing a billable project may also be billable. For example, if you're in a 1:1 or guild meeting working through a difficult project issue, that's billable.
 
 Not sure whether work you’re doing is billable? If it’s not explicitly an indirect cost, it’s project work.
-
-Effective October 8, 2021 for 18F:
-
-So for most people in a given 40-hour week, the expectation is to bill at least 32 hours to project work. But what about holidays or leave time? Then you’ll need to spend 80% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
-
-| Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed) |
-| --------- | -------------------------------------- | --------------------------------- |
-| 5 days    | 32 hours (80% of 40 hours)             | 8 hours                           |
-| 4 days    | 25.5 hours (80% of 32 hours)           | 6.5 hours                         |
-| 3 days    | 19 hours (80% of 24 hours)             | 5 hours                           |
-| 2 days    | 13 hours (80% of 16 hours)             | 3 hours                           |
-| 1 days    | 6.5 hours (80% of 8 hours)             | 1.5 hours                         |
 
 ### Issues hitting your billable hour target
 
