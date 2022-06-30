@@ -117,7 +117,6 @@ If you’re an individual contributor or a lead, you’re expected to spend at l
 | 2 days    | 13 hours (80% of 16 hours)             | 3 hours                           |
 | 1 days    | 6.5 hours (80% of 8 hours)             | 1.5 hours                         |
 
-
 **Caveats:** Directors and supervisors have different billability expectations. Guilds are given 4 hours of non-billable time weekly to support its leaders. If your guild is lead by co-leads, it is up to you to decide how you’d like to split that time between yourselves. If you anticipate any change to your billing levels for a project, please discuss with your project’s account manager.
 
 There are a few types of non-billable work, used to manage the running of the organization: GSA-mandated non-billable work, 18F business development, hiring and non-billable work.
