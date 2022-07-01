@@ -105,12 +105,27 @@ You must not bill for the following activities because these are indirect costs 
 - Performance reviews
 - New hire onboarding
 
-### Weekly Billable Hour Expectations
+### Tocking for Out of Office time
 
-For 18F, if you’re an individual contributor or a lead, you’re expected to spend at least 90% of your time on billable project work. That leaves up to 10% of your time to be spent on non-billable work.
+You cannot request paid time off in Tock (see the [Leave]({{site.baseurl}}/travel-and-leave/leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly Tock. Staff should Tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to Tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office.
 
-- Directors and supervisors have different billability expectations.
-- Guilds are given 4 hours of non-billable time weekly to support its leaders. If your guild is lead by co-leads, it is up to you to decide how you’d like to split that time between yourselves. If you anticipate any change to your billing levels for a project, please discuss with your project’s account manager.
+If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your Tock hours for you during your out of office period. Example:
+
+“I will be out of the office from Monday September 16th through Monday September 23rd: could you enter 40 hours for me to #670 for the 16th-20th time period?”
+
+## 18F billable hour expectations
+
+If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. That leaves up to 20% of your time to be spent on non-billable work. So for most people in a given 40-hour week, the expectation is to bill at least 32 hours to project work. But what about holidays or leave time? Then you’ll need to spend 80% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
+
+| Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed) |
+| --------- | -------------------------------------- | --------------------------------- |
+| 5 days    | 32 hours (80% of 40 hours)             | 8 hours                           |
+| 4 days    | 25.5 hours (80% of 32 hours)           | 6.5 hours                         |
+| 3 days    | 19 hours (80% of 24 hours)             | 5 hours                           |
+| 2 days    | 13 hours (80% of 16 hours)             | 3 hours                           |
+| 1 days    | 6.5 hours (80% of 8 hours)             | 1.5 hours                         |
+
+**Caveats:** Directors and supervisors have different billability expectations. Guilds are given 4 hours of non-billable time weekly to support its leaders. If your guild is lead by co-leads, it is up to you to decide how you’d like to split that time between yourselves. If you anticipate any change to your billing levels for a project, please discuss with your project’s account manager.
 
 There are a few types of non-billable work, used to manage the running of the organization: GSA-mandated non-billable work, 18F business development, hiring and non-billable work.
 
@@ -121,18 +136,6 @@ GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU tr
 However, time within those activities spent discussing a billable project may also be billable. For example, if you're in a 1:1 or guild meeting working through a difficult project issue, that's billable.
 
 Not sure whether work you’re doing is billable? If it’s not explicitly an indirect cost, it’s project work.
-
-Effective October 8, 2021 for 18F:
-
-So for most people in a given 40-hour week, the expectation is to bill at least 32 hours to project work. But what about holidays or leave time? Then you’ll need to spend 80% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
-
-| Work week | Billable time (minimum hours expected) | Non-billable time (not to exceed) |
-| --------- | -------------------------------------- | --------------------------------- |
-| 5 days    | 32 hours (80% of 40 hours)             | 8 hours                           |
-| 4 days    | 25.5 hours (80% of 32 hours)           | 6.5 hours                         |
-| 3 days    | 19 hours (80% of 24 hours)             | 5 hours                           |
-| 2 days    | 13 hours (80% of 16 hours)             | 3 hours                           |
-| 1 days    | 6.5 hours (80% of 8 hours)             | 1.5 hours                         |
 
 ### Issues hitting your billable hour target
 
@@ -160,14 +163,6 @@ Also, please don’t “save” hours or avoid billing for time you’ve actuall
 - Account Managers closely monitor project burns on a weekly basis and communicate that to Project Leads and Product Managers.
 
 In short, we need to know if our scoping is accurate. We'd rather be over budget and have our teams delivering value than be under budget and hiding how many hours it truly takes to deliver on our engagements.
-
-### Tocking for Out of Office Time
-
-You cannot request paid time off in Tock (see the [Leave]({{site.baseurl}}/travel-and-leave/leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly Tock. Staff should Tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to Tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office.
-
-If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your Tock hours for you during your out of office period. Example:
-
-“I will be out of the office from Monday September 16th through Monday September 23rd: could you enter 40 hours for me to #670 for the 16th-20th time period?”
 
 ## FAQ
 
