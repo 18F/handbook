@@ -61,7 +61,7 @@ Billable Tock projects can only be created by TTS Operations staff and only afte
 
 Account managers can request the creation of a project in [\#tock](https://gsa-tts.slack.com/messages/tock).
 
-## 18F time tracking and billing
+## Time tracking and billing
 
 ### What activities do I record billable hours for?
 
@@ -105,7 +105,15 @@ You must not bill for the following activities because these are indirect costs 
 - Performance reviews
 - New hire onboarding
 
-### Weekly billable hour expectations
+### Tocking for Out of Office time
+
+You cannot request paid time off in Tock (see the [Leave]({{site.baseurl}}/travel-and-leave/leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly Tock. Staff should Tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to Tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office.
+
+If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your Tock hours for you during your out of office period. Example:
+
+“I will be out of the office from Monday September 16th through Monday September 23rd: could you enter 40 hours for me to #670 for the 16th-20th time period?”
+
+## 18F billable hour expectations
 
 If you’re an individual contributor or a lead, you’re expected to spend at least 80% of your time on billable project work. That leaves up to 20% of your time to be spent on non-billable work. So for most people in a given 40-hour week, the expectation is to bill at least 32 hours to project work. But what about holidays or leave time? Then you’ll need to spend 80% of the time you’re working that week on billable work. Here’s what that looks like if you’re out of the office for a few days:
 
@@ -155,14 +163,6 @@ Also, please don’t “save” hours or avoid billing for time you’ve actuall
 - Account Managers closely monitor project burns on a weekly basis and communicate that to Project Leads and Product Managers.
 
 In short, we need to know if our scoping is accurate. We'd rather be over budget and have our teams delivering value than be under budget and hiding how many hours it truly takes to deliver on our engagements.
-
-### Tocking for Out of Office Time
-
-You cannot request paid time off in Tock (see the [Leave]({{site.baseurl}}/travel-and-leave/leave/) page for guidance on requesting paid time off using HR Links). But you do need to record out of office time as part of your weekly Tock. Staff should Tock any out of office time (federal holidays, sick leave, annual leave, family leave, etc) to Tock line #670, Out of Office. This is so we can understand that you weren’t billing to a project for those hours because you were out of the office.
-
-If you are going to be out of the office for an extended period of time, head to the #tock channel in slack before you leave and ask that the team submit your Tock hours for you during your out of office period. Example:
-
-“I will be out of the office from Monday September 16th through Monday September 23rd: could you enter 40 hours for me to #670 for the 16th-20th time period?”
 
 ## FAQ
 
