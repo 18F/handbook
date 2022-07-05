@@ -386,8 +386,8 @@ primary:
               - text: One-on-ones
                 url: one-on-ones/
                 internal: true
-              - text: Performance Plan (FY19)
-                url: 18f-performance-plan/
+              - text: Performance Plan (FY22)
+                url: https://docs.google.com/document/d/1456ZSIOf6Pp6rcNCdKd82dwXOYv1sARxAwbVytxRXls/edit#
                 internal: true
               - text: Open source policy
                 url: https://github.com/18F/open-source-policy/blob/master/policy.md
