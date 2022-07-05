@@ -388,7 +388,7 @@ primary:
                 internal: true
               - text: Performance Plan (FY22)
                 url: https://docs.google.com/document/d/1456ZSIOf6Pp6rcNCdKd82dwXOYv1sARxAwbVytxRXls
-                internal: true
+                internal: false
               - text: Open source policy
                 url: https://github.com/18F/open-source-policy/blob/master/policy.md
                 internal: false
