@@ -26,11 +26,9 @@ A detail is a temporary assignment to a different position or a different organi
 - The detailee, the TTS supervisor, the Business Unit Director, and the Assistant Commissioner agree, as well as the employee’s permanent supervisor.
 - The employee is detailed at the same GS level they currently occupy. If the detailee has gone up in GS level (called a temporary promotion), their detail must end at 120 days, due to federal policy and bargaining unit (union) contracts around temporary promotions.
 
-
 ## Internal Role Approval Process
 
-Hiring Managers must receive advanced approval from the TTS leadership team to compete a detail or a reassignment. Submit your request for consideration by close of business on Thursday and it will be reviewed in the TTS leadership team meeting on Monday. If you submit your request after close of business on Thursday, it will not be reviewed until the following Monday. 
-
+Hiring Managers must receive advanced approval from the TTS leadership team to compete a detail or a reassignment. Submit your request for consideration by close of business on Thursday and it will be reviewed in the TTS leadership team meeting on Monday. If you submit your request after close of business on Thursday, it will not be reviewed until the following Monday.
 
 ## Internal Posting Process
 
