@@ -16,8 +16,7 @@ All opportunities within TTS, including details and reassignments, should be ope
 
 ## Identifying an Internal Hiring Need
 
-Hiring Managers work with the head of their Business Unit to determine if a vacancy needs to be filled. Review the [hiring needs section](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit#bookmark=id.7wigkxq4jm1i) of the Hiring Manager Guide to learn more.
-
+Please review the [hiring needs section](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit#bookmark=id.7wigkxq4jm1i) of the Hiring Manager Guide to learn more about identifying a hiring need.
 Internal hiring is done for two types of hiring processes: reassignment (transferring from one part of TTS or GSA to another part of TTS) and details.
 
 A reassignment is a lateral transfer to a new TTS office at the same GS level.
@@ -29,11 +28,11 @@ A detail is a temporary assignment to a different position or a different organi
 
 ## Internal Role Approval Process
 
-Internal roles do not need to be prioritized through Talent’s [formal prioritization process](https://docs.google.com/document/d/1V-7IyFIlLifgRg89TNKTS5oisOF-QdAZsWYCy7ot7AA/edit). Before you send your document to [JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) for review, you need to confirm with your BU lead that you have the funding to pay for the detail or the reassignment.
+Hiring Managers must receive advanced approval from the TTS leadership team to compete a detail or a reassignment. Submit your request for consideration by close of business on Thursday and it will be reviewed in the TTS leadership team meeting on Monday. If you submit your request after close of business on Thursday, it will not be reviewed until the following Monday.
 
 ## Internal Posting Process
 
-After your internal opportunity has been approved by the Head of your BU, you can begin the internal posting process. The steps of this process include:
+After your internal opportunity has been approved by the TTS Leadership Team, you can begin the internal posting process. The steps of this process include:
 
 1. Job prep
 2. Job posting
