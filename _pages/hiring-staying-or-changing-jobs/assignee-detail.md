@@ -28,7 +28,7 @@ A detail is a temporary assignment to a different position or a different organi
 
 ## Internal Role Approval Process
 
-Hiring Managers must receive advanced approval from the TTS leadership team to compete a detail or a reassignment. [Submit your request for consideration](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit) by close of business on Thursday and it will be reviewed in the TTS leadership team meeting on Monday. If you submit your request after close of business on Thursday, it will not be reviewed until the following Monday. 
+Hiring Managers must receive advanced approval from the TTS leadership team to compete a detail or a reassignment. [Submit your request for consideration](https://docs.google.com/document/d/1YIliZcF8dhqs4GzBAKYj5niqdgcN4tggTTDl3zeIOO8/edit) by close of business on Thursday and it will be reviewed in the TTS leadership team meeting on Monday. If you submit your request after close of business on Thursday, it will not be reviewed until the following Monday.
 
 ## Internal Posting Process
 
