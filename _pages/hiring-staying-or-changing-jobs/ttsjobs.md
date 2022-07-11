@@ -37,8 +37,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Opportunities open to the public
 
-[Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/) - open Tuesday, May 17th through Friday, July 8th
-
 [TTS Designer ](https://join.tts.gsa.gov/join/tts-designer/)- open Tuesday, June 14th, 2022 through Tuesday, June 13, 2023. This posting will be open for 1 year or until all selections have been made which may occur prior to the closing date.
 
 ### Internal only opportunities
