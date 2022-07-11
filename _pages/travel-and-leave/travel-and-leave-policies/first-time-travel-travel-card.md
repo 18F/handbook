@@ -25,7 +25,7 @@ _Est. time: 60 minutes_
 4. Search for "travel training".
 5. Select "Temporary Duty (TDY) Travel Training", and then Start course.
 6. Once completed there is a second training to take. Return to the "Find Learning" search box and search for "travel card".
-7. Select "GSA Travel Card Curricula", and then Start course.
+7. Select "GSA Travel Card Training", and then Start course.
 8. Once completed, download your certificates of completion for both trainings by returning to the "Learning" page and clicking on the "View All" button under "Learning History". You should see your completed travel card and TDY trainings on the list, and there will be an icon to generate a print preview, which you can save, at the right.
 
 **_NOTE_**: Save your certificates as `FIRSTNAME_LASTNAME-TravelCardTrainingCert.pdf` and `FIRSTNAME_LASTNAME-TDYTrainingCert.pdf` for ease of processing later on.
