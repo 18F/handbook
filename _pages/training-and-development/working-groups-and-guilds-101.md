@@ -217,7 +217,7 @@ Current 18F Collectives (and Leads) include:
       </tr>
       <tr>
         <th class="col-grouplet">Project Leadership</th>
-        <td>Edwin Torres & Emily Theis</td>
+        <td>Edwin Torres & Logan McDonald</td>
         <td>
           <a href="https://gsa-tts.slack.com/messages/c-18f-project-leadership">#c-18f-project-leadership</a>
         </td>
