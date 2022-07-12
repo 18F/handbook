@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-[CoE Deputy Director Reassignment](https://docs.google.com/document/d/1xOcNytrVZqhXCjqSaV4AylQjWQZOhHAs0xqIW5Irl6E/edit#heading=h.h91fwyiygl4s) - open Monday, June 27th through Monday, July 11th
+We will list additional opportunities as they become available
 
 ## Opportunities with partners
 
