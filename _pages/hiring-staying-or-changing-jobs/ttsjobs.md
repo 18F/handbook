@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-No opportunities at this time [](https://docs.google.com/document/d/1xOcNytrVZqhXCjqSaV4AylQjWQZOhHAs0xqIW5Irl6E/edit#heading=h.h91fwyiygl4s)
+We will list additional opportunities as they become available
 
 ## Opportunities with partners
 
