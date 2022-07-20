@@ -105,7 +105,7 @@ Your badge should get you in. If you're having trouble, call one of the points o
 
 ### Get my fingerprints and badge?
 
-Fingerprinting and the photo for your badge take place immediately after security in room 1033. Badge pickup is on the first floor, in the library. After pickup, you'll need to get it activated in the basement.
+Fingerprinting and the photo for your badge take place in room 1217. Badge pickup is in the same room 1217. After pickup, you'll need to get it activated for the turnstiles in G151.  Go across the main lobby to wing 1, down the elevator and turn right.  It looks like you are about to walk out of the building, but the room is just beyond that door.
 
 ### Attend GSA and TTS orientation
 
@@ -147,23 +147,23 @@ If you're expecting a large group, or if the group includes non-US citizens, you
 
 ### Reserve parking for government business?
 
-In order to reserve parking for a meeting with a government colleague, email 1800FTenantSupport@gsa.gov with the driver's name, date, time, agency, and (if it's not a government vehicle) vehicle info. 2-3 business days is preferable but requests can be accommodated on less notice. Spots are located in the East Courtyard. Access the East Courtyard of the building via on E Street: it's the first right turn into the building, between Which Wich and Greenberry's.
+In order to reserve parking for a meeting with a government colleague, email [Tenant Support](mailto:1800Ftenantsupport@gsa.gov) with the driver's name, date, time, agency, and (if it's not a government vehicle) vehicle info. 2-3 business days is preferable but requests can be accommodated on less notice. Spots are located in the East Courtyard. Access the East Courtyard of the building via on E Street: it's the first right turn into the building, between Which Wich and Greenberry's.
 
 ### Register for building badge swipe access as a non-GSA federal employee?
 
-Federal employees who work for agencies other than GSA can register their PIV cards to open doors and turnstiles at 1800 F by visiting the GSA security office. OMA Security is located in the basement in **room B338**. Office hours are Monday--Thursday from 7:00am--3:30pm. This is particularly useful for biking as it will allow your PIV card to open the courtyard doors from the parking lot.
+Federal employees who work for agencies other than GSA can register their PIV cards to open doors and turnstiles at 1800 F by visiting the GSA security office. OMA Security is located on the ground floor in **room G151**. Office hours are Monday--Thursday from 7:00am--3:30pm. This is particularly useful for biking as it will allow your PIV card to open the courtyard doors from the parking lot.
 
 ### Request a basement locker?
 
-Fitness center users and bicyclists who want to request a locker in the basement wing 3 should contact 1800FTenantSupport@gsa.gov.
+Fitness center users and bicyclists who want to request a locker in the basement wing 3 should email [Tenant Support](mailto:1800Ftenantsupport@gsa.gov).
 
 ### Access a printer?
 
-Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#heading=h.ovrvnlkhtpwh) for more details.
+Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#heading=h.ovrvnlkhtpwh) or on [GSA's instructions on InSite](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/equipment-and-hardware/install-a-network-printer) for other regions for more details.
 
 ### Get on the wireless?
 
-The guest wireless network in the building is GSA Guest. The password changes monthly. To obtain the current password, type "GSA Wireless" into any room on Slack and the current password will pop up.
+The guest wireless network in the building is GSA Guest. The password changes monthly. To obtain the current password, type "GSA Wireless" or "guest wifi" into any room on Slack and the current password will pop up.
 
 Non-guest wireless access is available using gsa-wireless and authenticating using your ENT username (`ENT\username`) and password.
 
@@ -191,7 +191,7 @@ Melvin Moreira in GSA IT has all of the spare Mac equipment. You can email him t
 
 ### Lockers
 
-If you work in DC and do not have a locker assigned to you, email 1800ftenantsupport@gsa.gov to request a locker on the 3rd floor, wing one.
+If you work in DC and do not have a locker assigned to you, email [Tenant Support](mailto:1800Ftenantsupport@gsa.gov) to request a locker.  You can request them by floor and wing or use the location label off of a locker cluster.
 
 ### Snacks
 
@@ -217,7 +217,7 @@ Here are some [local child care facilities](https://www.gsa.gov/portal/content/1
 
 ### Gym, lockers, locker rooms
 
-The gym is located in the basement. Make sure you bring your badge with you, as you'll need it to get back into the second wing. The easiest way to get there is by taking the old elevators at the F Street entrance down to the basement, walking slightly north, and then cutting across the parking lot (where the bike room entrance is) into the third wing hallway. The gym is on your left when you walk in, and the men's and women's locker rooms are down the long hallway to your right. If you want a locker, you can reach out to Tenant Support to reserve one by [emailing Tenant Support](mailto:1800Ftenantsupport@gsa.gov).
+The gym is located in the basement. Make sure you bring your badge with you, as you'll need it to get back into the second wing. The easiest way to get there is by taking the old elevators at the F Street entrance down to the basement, walking slightly north, and then cutting across the parking lot (where the bike room entrance is) into the third wing hallway. The gym is on your left when you walk in, and the men's and women's locker rooms are down the long hallway to your right. If you want a locker, you can reserve one by [emailing Tenant Support](mailto:1800Ftenantsupport@gsa.gov).
 
 ### Rooftop
 
@@ -230,18 +230,18 @@ See the instructions for [enrolling or cancelling your transit subsidy benefit](
 ### Helpful contacts
 
 - Fire/Ambulance: 911
-- [Tenant Support](https://insite.gsa.gov/portal/category/533226), including a business hours phone number (such as for reporting facility problems) and an after-hours emergency number.
-- [Lost and Found](https://insite.gsa.gov/portal/content/615450)
+- [Tenant Support](https://insite.gsa.gov/locations/central-office/central-office-building-info-and-tenant-support), including a business hours phone number (such as for reporting facility problems) and an after-hours emergency number.
+- [Lost and Found](https://insite.gsa.gov/locations/central-office/amenities-and-services/central-office-lost-and-found)
 - [Health Unit](https://insite.gsa.gov/locations/central-office/amenities-and-services/central-office-employee-health-services)
 - [OEO Assignments](https://docs.google.com/spreadsheets/d/1-7o3MIakF6OAMPyYqjfQyit8iBBbpXw6U6IxhhdNGRQ/edit#gid=673464213) (wing monitors, floor warden, etc.)
 
 ### Health center
 
-There is a [health center](https://insite.gsa.gov/portal/content/615454) on the first floor. They offer flu shots and have basic medicine.
+There is a [health center](https://insite.gsa.gov/locations/central-office/amenities-and-services/central-office-employee-health-services) on the first floor. They offer flu shots and have basic medicine.
 
 ## Food and coffee
 
-[Google Map](https://www.google.com/maps/d/u/0/edit?mid=zMY1nJmKeGBU.kU147P2SgCmA) with lots of food and drink options.
+[Google Map](https://www.google.com/maps/d/viewer?mid=1DOVBNOw61Gsj-KkAoYg5LygqgA0&ll=38.900919400000085%2C-77.04941510000002&z=13) with lots of food and drink options.
 
 ## Weather
 
