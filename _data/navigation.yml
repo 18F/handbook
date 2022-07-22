@@ -289,13 +289,9 @@ primary:
               - text: Resources for Deaf and Hard of Hearing individuals
                 url: deaf-hoh/
                 internal: true
-              - text: Telework guidance
-                url: telework/
+              - text: Moving and changing your address
+                url: moving/
                 internal: true
-                children:
-                  - text: Virtual work and moving
-                    url: moving/
-                    internal: true
               - text: Transit benefit
                 url: transit-benefit/
                 internal: true
