@@ -105,7 +105,7 @@ Your badge should get you in. If you're having trouble, call one of the points o
 
 ### Get my fingerprints and badge?
 
-Fingerprinting and the photo for your badge take place in room 1217. Badge pickup is in the same room 1217. After pickup, you'll need to get it activated for the turnstiles in G151.  Go across the main lobby to wing 1, down the elevator and turn right.  It looks like you are about to walk out of the building, but the room is just beyond that door.
+Fingerprinting and the photo for your badge take place in room 1217. Badge pickup is in the same room 1217. After pickup, you'll need to get it activated for the turnstiles in G151. Go across the main lobby to wing 1, down the elevator and turn right. It looks like you are about to walk out of the building, but the room is just beyond that door.
 
 ### Attend GSA and TTS orientation
 
@@ -191,7 +191,7 @@ Melvin Moreira in GSA IT has all of the spare Mac equipment. You can email him t
 
 ### Lockers
 
-If you work in DC and do not have a locker assigned to you, email [Tenant Support](mailto:1800Ftenantsupport@gsa.gov) to request a locker.  You can request them by floor and wing or use the location label off of a locker cluster.
+If you work in DC and do not have a locker assigned to you, email [Tenant Support](mailto:1800Ftenantsupport@gsa.gov) to request a locker. You can request them by floor and wing or use the location label off of a locker cluster.
 
 ### Snacks
 
