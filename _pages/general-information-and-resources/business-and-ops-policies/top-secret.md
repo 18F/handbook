@@ -53,7 +53,7 @@ If you are a TTS employee and need to request TS/SCI clearance:
 
 - [GSA Position Risk Determination Survey](https://goo.gl/nC9D5S)
 
-  - On Question #7, refer to pages 4-10 of the [Federal Cybersecurity Coding Structure](https://goo.gl/633NXj)
+  - On Question #7, refer to pages 4-10 of the [Federal Cybersecurity Coding Structure](https://www.nist.gov/file/394236)
     - Choose up to 3 codes which describe the type of cybersecurity work assigned to the position, and list them in descending order by majority of work time.
 
 - Supervisor must write up a Justification explaining why this clearance is necessary
