@@ -35,11 +35,13 @@ If you plan to permanently move or relocate for longer than 120 days, email [TTS
 - The effective date for your move. The effective date needs to be the start of a pay period. You can find pay period dates via [GSA’s Payroll Calendar page](https://www.gsa.gov/buy-through-us/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars).
 - Whether you are a Remote Worker (you always work from home) or a Routine Teleworker (onsite flexible: you go into an office two times or more per pay period). If you don’t know your status, tell us that.
 
-After receiving your information, PeopleOps will provide step-by-step guidance on how to proceed. Below are a few key things to know.
+After receiving your information, PeopleOps will provide step-by-step guidance on how to proceed. They may need to process a Personnel Action Request (PAR) for you, depending on your unique situation, which can take a few weeks. Below are a few key things to know.
 
 ## Updating your address & notifying benefits companies
 
-PeopleOps will advise when you should change your home address in HR Links; you can follow this [step-by-step guide](https://corporateapps.gsa.gov/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf) to make that change. This will notify GSA Payroll, any federal health insurance companies, OPM, and TSP of your new address.
+PeopleOps will advise when you should change your home address in HR Links; you can follow this [step-by-step guide](https://corporateapps.gsa.gov/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf) to make that change. 
+
+You cannot manually change your address with your federal health insurance companies, OPM, or TSP: they will receive your new address from GSA, once all move-related paperwork and steps are complete.
 
 ## Changes in pay
 
