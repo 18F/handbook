@@ -39,7 +39,7 @@ After receiving your information, PeopleOps will provide step-by-step guidance o
 
 ## Updating your address & notifying benefits companies
 
-PeopleOps will advise when you should change your home address in HR Links; you can follow this [step-by-step guide](https://corporateapps.gsa.gov/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf) to make that change. 
+PeopleOps will advise when you should change your home address in HR Links; you can follow this [step-by-step guide](https://corporateapps.gsa.gov/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf) to make that change.
 
 You cannot manually change your address with your federal health insurance companies, OPM, or TSP: they will receive your new address from GSA, once all move-related paperwork and steps are complete.
 
