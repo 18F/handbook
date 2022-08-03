@@ -16,9 +16,9 @@ The role of the account manager changes over the course of each project. For exa
 
 ### Pre-agreement
 
-As soon as the business development team identifies a viable lead, they invite an account manager to qualification calls. Account managers help vet the work and begin establishing a relationship with the potential partner, allowing for a single point of contact throughout the agreements process and beyond.
+Account managers help vet the work and begin establishing a relationship with the potential partner, allowing for a single point of contact throughout the agreements process and beyond.
 
-Once the subject matter experts (SMEs) and business development team agree that 18F can take on the project, the AM takes over the partner relationship and begins preparing the agreement. This means **lots** of conversations with the partner, in which the AM works to set the partner’s expectations and understand as much as possible about their organization before an 18F team begins work.
+In consultation with the scoping team, the AM takes over the partner relationship and begins preparing the agreement. This means **lots** of conversations with the partner, in which the AM works to set the partner’s expectations and understand as much as possible about their organization before an 18F team begins work.
 
 During discussion(s) with the partner, the AM will:
 
@@ -30,10 +30,7 @@ During discussion(s) with the partner, the AM will:
 - Gather and synthesize information about measures that matter so the 18F team has more context about the partner environment (including the partner's relationship with IT/security, procurement shop, any current vendors, our ability to access systems/data, and relevant oversight/governance bodies)
 - Align on expectations for working with 18F (including reviewing roles, responsibilities, time expectations, and how we're different from other vendors).
 
-The AM then works with the partner to draft the statement of work (SOW). Once there’s agreement on the SOW, the AM submits the partner’s information to the TTS agreements team so they can prepare the IAA package and route it to the partner for signature.
-
-To submit a project to the agreement process, the AM must include the SOW, cost estimator, and a complete partner prep survey in the [IAA request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdRQerRDxl4hPX_zTQJcY9fR9i0z3LI3dLQiKE0uyJ5fF666g/viewform).
-Once an agreement has been submitted to the IAA process, the AM works with other SMEs to identify project staffing needs and submit a staffing issue to the [Staffing Repo](https://github.com/18F/staffing). Projects are not staffed until the agreement has been _fully executed_ and it can take _up to 8 weeks_ to staff a project after it’s been executed.
+The AM then works with the partner to draft the statement of work (SOW). Once there’s agreement on the SOW, the Account Manager should ask the partner to complete the [prep survey](https://airtable.com/shrzQith6pnfzdBUv) to the TTS agreements team so they can prepare the IAA package and route it to the partner for signature. The AM must also share the SOW and cost estimator with the Agreement’s Team. Once an agreement has been submitted to the IAA process, the AM continues working with the scoping team to identify project staffing needs and submit a staffing issue to the [Staffing Repo](https://github.com/18F/staffing). Projects are not staffed until the agreement has been _fully executed_ and it can take _up to 8 weeks_ to staff a project after it’s been executed.
 
 ### Project kickoff
 
