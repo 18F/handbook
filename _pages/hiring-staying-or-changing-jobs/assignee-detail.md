@@ -101,8 +101,7 @@ Once you have submitted your candidate pool sheet and internal approval for your
 - The Position Description number. If it is a detail without a PD, use “Detail to Unclassified Duties” and provide a list of duties that the selected employee will be expected to perform.
 - Effective date and length of the detail (for example: 120 days)
 
-Personnel details may require a detail agreement in the form of an Memorandum of Understanding (MOU) or Interagency Agreement (IAA) depending on the offices involved and their respective funding sources. Detail agreements can take 4-6 weeks to process and should be signed before work begins. Please ask in #reassignments-and-details if you are unclear if an agreement is needed for the proposed detail. 
-
+Personnel details may require a detail agreement in the form of an Memorandum of Understanding (MOU) or Interagency Agreement (IAA) depending on the offices involved and their respective funding sources. Detail agreements can take 4-6 weeks to process and should be signed before work begins. Please ask in #reassignments-and-details if you are unclear if an agreement is needed for the proposed detail.
 
 ## Notifying TTS People Operations for Permanent Reassignment Processing
 
