@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-We will list additional opportunities as they become available
+[18F Account Manager Reassignment ](https://docs.google.com/document/d/1Pief-knr_OH16qmBaQuFgyHkNNELxBOED5yyCPXlwg0/edit)- open Friday, August 5th through Wednesday, August 17th
 
 ## Opportunities with partners
 
