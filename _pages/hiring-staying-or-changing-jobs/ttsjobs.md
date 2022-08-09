@@ -43,6 +43,12 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [18F Account Manager Reassignment ](https://docs.google.com/document/d/1Pief-knr_OH16qmBaQuFgyHkNNELxBOED5yyCPXlwg0/edit)- open Friday, August 5th through Wednesday, August 17th
 
+<!--StartFragment-->
+
+[Digital Analytics Program Manager Detail](https://docs.google.com/document/d/1YlII1qn6BVO_8ggt1QH68OnL9Akanige-W8jbMLiIpA/edit) - open Tuesday, August 9th through Tuesday, August 16th
+
+<!--EndFragment-->
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
