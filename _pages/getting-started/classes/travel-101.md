@@ -4,12 +4,14 @@ travel_advisory: false
 redirect_from:
   - /travel-101/
 ---
+
 ### Travel Quick Guides
-* [First time traveler's guide](https://docs.google.com/document/d/1lypAS1eu1zjjrVdX4Y2ybmUvE805myhYp3Rpc6HuyIg/edit#heading=h.zfenwhrn0rqm)
-* [Employee travel refresher](https://docs.google.com/document/d/1R7VFiopXQ0PXd6k4m_wDYqmT8BxjBnpA6pFWGF_ukEA/edit#heading=h.v68bd1k1fg44)
-* [Employee travel checklist](https://docs.google.com/document/d/1K5KTzGaN9jZsd9sU3914dQ0OcqmVDsoUj9n6JQtHoWY/edit)
-* [Travel estimator](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=983623718)
-* [Supervisor's guide for approving employee travel](https://docs.google.com/document/d/1_srMzZZ_vhFeLJXM6SxGtHUpU3OlYv8Sp-2xlnJkoY4/edit#)
+
+- [First time traveler's guide](https://docs.google.com/document/d/1lypAS1eu1zjjrVdX4Y2ybmUvE805myhYp3Rpc6HuyIg/edit#heading=h.zfenwhrn0rqm)
+- [Employee travel refresher](https://docs.google.com/document/d/1R7VFiopXQ0PXd6k4m_wDYqmT8BxjBnpA6pFWGF_ukEA/edit#heading=h.v68bd1k1fg44)
+- [Employee travel checklist](https://docs.google.com/document/d/1K5KTzGaN9jZsd9sU3914dQ0OcqmVDsoUj9n6JQtHoWY/edit)
+- [Travel estimator](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=983623718)
+- [Supervisor's guide for approving employee travel](https://docs.google.com/document/d/1_srMzZZ_vhFeLJXM6SxGtHUpU3OlYv8Sp-2xlnJkoY4/edit#)
 
 ### Initial setup for travel
 
