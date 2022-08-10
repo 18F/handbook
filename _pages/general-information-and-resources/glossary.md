@@ -51,6 +51,8 @@ redirect_from:
 
 - **BOC** - Budget Object Code. Used for accounting.
 
+- **BPR** - Business Process Reengineering. This is when an organization designs new workflows to update or replace existing workflows.
+
 - **CALC** - Contract-Awarded Labor Category.
 
 - **CI/CD** - Continuous Integration/Continuous Deployment. Automated software testing (CI) practiced along with automated deployment of frequent, small changes to software (CD).
