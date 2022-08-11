@@ -264,8 +264,8 @@ To fill out your PSLF application and obtain employer verification:
 
     ![Screenshot of DocuSign interface to customize email message with the message customized as "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!"]({{site.baseurl}}/images/pslf/pslf-document-customize-email-message.png)
 
-1. Click "Next" at the bottom right corner of the screen.
-1. On the next page, a "Manage PDF form field data" pop-up form will appear. Select the "Assign to:" option and then select the name of your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) from the drop-down menu. Then click the "Confirm" button in the pop-up.
+15. Click "Next" at the bottom right corner of the screen.
+16. On the next page, a "Manage PDF form field data" pop-up form will appear. Select the "Assign to:" option and then select the name of your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) from the drop-down menu. Then click the "Confirm" button in the pop-up.
 
    ![Screenshot of DocuSign interface to manage PDF form field data with the "Assign to" radio button selected and a drop-down menu with names appearing]({{site.baseurl}}/images/pslf/pslf-document-manage-form-data.png)
 
