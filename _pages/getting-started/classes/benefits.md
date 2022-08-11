@@ -251,8 +251,8 @@ To fill out your PSLF application and obtain employer verification:
 
     ![Screenshot of DocuSign interface to upload a document with pop-up that says "We found form fields for public-service-application-for-forgiveness.pdf."]({{site.baseurl}}/images/pslf/pslf-upload-document.png)
 
-1. Under `Add Recipients to the Envelope`, add your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) as the recipient of the envelope
-1. On the recipient box for your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit), click `Customize -> Advanced Settings`
+11. Under `Add Recipients to the Envelope`, add your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) as the recipient of the envelope
+12. On the recipient box for your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit), click `Customize -> Advanced Settings`
 
    ![Screenshot of DocuSign interface to add a recipient to an envelope]({{site.baseurl}}/images/pslf/pslf-document-add-recipient-settings.png)
 
