@@ -251,10 +251,10 @@ To fill out your PSLF application and obtain employer verification:
 
     ![Screenshot of DocuSign interface to upload a document with pop-up that says "We found form fields for public-service-application-for-forgiveness.pdf."]({{site.baseurl}}/images/pslf/pslf-upload-document.png)
 
-11. Under `Add Recipients to the Envelope`, add Vivian Carrasco, vivian.carrasco@gsa.gov as the recipient of the envelope
-12. On the recipient box for Vivian, click `Customize -> Advanced Settings`
+1. Under `Add Recipients to the Envelope`, add your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) as the recipient of the envelope
+1. On the recipient box for your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit), click `Customize -> Advanced Settings`
 
-    ![Screenshot of DocuSign interface to add a recipient to an envelope with Vivian Carrasco, vivian.carrasco@gsa.gov set as the recipient]({{site.baseurl}}/images/pslf/pslf-document-add-recipient-settings.png)
+   ![Screenshot of DocuSign interface to add a recipient to an envelope]({{site.baseurl}}/images/pslf/pslf-document-add-recipient-settings.png)
 
 13. For the "Signing settings" in the "Advanced Settings" area, choose "Draw a new signature for each signature or initial field"
 
@@ -264,10 +264,10 @@ To fill out your PSLF application and obtain employer verification:
 
     ![Screenshot of DocuSign interface to customize email message with the message customized as "Hello, can you please complete section 4 of my Public Service Loan Forgiveness (PSLF) application and add your digital signature? Thanks!"]({{site.baseurl}}/images/pslf/pslf-document-customize-email-message.png)
 
-15. Click "Next" at the bottom right corner of the screen.
-16. On the next page, a "Manage PDF form field data" pop-up form will appear. Select the "Assign to:" option and then select "Vivian Carrasco" from the drop-down menu. Then click the "Confirm" button in the pop-up.
+1. Click "Next" at the bottom right corner of the screen.
+1. On the next page, a "Manage PDF form field data" pop-up form will appear. Select the "Assign to:" option and then select the name of your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) from the drop-down menu. Then click the "Confirm" button in the pop-up.
 
-    ![Screenshot of DocuSign interface to manage PDF form field data with the "Assign to" radio button selected and "Vivian Carrasco" selected in the drop-down menu]({{site.baseurl}}/images/pslf/pslf-document-manage-form-data.png)
+   ![Screenshot of DocuSign interface to manage PDF form field data with the "Assign to" radio button selected and a drop-down menu with names appearing]({{site.baseurl}}/images/pslf/pslf-document-manage-form-data.png)
 
 17. Scroll to Section 4 of the document and drag the "Signature" field option from the left sidebar next to the line that says "Authorized Official's Signature".
 
