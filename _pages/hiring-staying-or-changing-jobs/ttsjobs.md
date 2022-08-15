@@ -47,7 +47,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [Digital Analytics Program Manager Detail](https://docs.google.com/document/d/1YlII1qn6BVO_8ggt1QH68OnL9Akanige-W8jbMLiIpA/edit) - open Tuesday, August 9th through Tuesday, August 16th
 
-[Outreach Lead Detail](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs) - open Monday, August 15th through Friday, August 26th
+[TTS Outreach Lead Detail](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs) - open Monday, August 15th through Friday, August 26th
 
 <!--EndFragment-->
 
