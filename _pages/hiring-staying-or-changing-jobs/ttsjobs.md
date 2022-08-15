@@ -49,7 +49,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [Outreach Lead Detail](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs) - open Monday, August 15th through Friday, August 26th
 
-[](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs)<!--EndFragment-->
+<!--EndFragment-->
 
 ## Opportunities with partners
 
