@@ -49,6 +49,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 <!--EndFragment-->
 
+[TTS Outreach Lead](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs) - open Monday, August 15th through Friday, August 26th
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
