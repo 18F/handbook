@@ -53,7 +53,7 @@ For most 18F projects, these tasks, when completed, help ensure successful proje
 
 ### Beginning of Project
 
-- Facilitate creation of a [team charter](https://docs.google.com/document/d/1Sv88PKdsfd0riLpfF1kB2oNn7f330eXcgXuG2ZSVoAs/edit), including how decisions will be made and how the team will navigate disagreement
+- Facilitate creation of a [team charter](https://docs.google.com/document/d/1N_EtkfGGdvyIfsxblSjKo5m4UI82mAkPNmyMcoZhS2g/edit?usp=sharing), including how decisions will be made and how the team will navigate disagreement
 - Identify stakeholder accessibility needs for project work (in collaboration tools and deliverables)
   - If artifacts (e.g. RFQs, final reports, decks) should be durable over time, consider budgeting time to make them accessible (use [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) if the team doesn't have this ability)
 - Ensure sprint planning, review, and other recurring meetings are scheduled
@@ -79,7 +79,7 @@ For most 18F projects, these tasks, when completed, help ensure successful proje
 - Every two weeks: Conduct an internal team retrospective
 - Ensure midpoint and other higher-profile presentations are rehearsed or otherwise well prepared
 - Work with account manager and staffing team when project team identifies a need for a shift in staffing
-- Onboard new team members to the project, as needed, including revisiting team charter with full team
+- Onboard new team members to the project, as needed, including revisiting [team charter](https://docs.google.com/document/d/1N_EtkfGGdvyIfsxblSjKo5m4UI82mAkPNmyMcoZhS2g/edit?usp=sharing) with full team
 - Periodically: Check in on equitable distribution of administrative tasks among team members: re-balance as necessary
 - Add to and organize the project’s Drive folder
 - [Get support](#how-do-project-leads-and-team-members-get-support) in cases where team has trouble resolving disagreement or with other project issues

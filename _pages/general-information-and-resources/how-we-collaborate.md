@@ -20,7 +20,7 @@ Each time a new team forms—or anytime someone joins an existing team—is a ch
 
 - **Use introductions to set the tone.** Take a moment at the beginning of each meeting to make sure everyone’s met, and (if not) introduce the team and welcome new attendees. In introductions, include your name, pronouns, and role. Location can also be nice, if only to know what time it is for everyone.
 - **Get to know each other!** If you’re working with someone new, set up a virtual coffee or tea to learn about their life, background, and strengths. A little investment in the relationship often pays off later as you collaborate.
-- **Establish team norms** for communication, working hours, feedback, and decision-making. A [team charter](https://docs.google.com/document/d/1J8MqOA-JkLKzSFTVxeXDQub7ZTsWuNq5nOZ_ACICdig/edit#) can help facilitate this conversation.
+- **Establish team norms** for communication, working hours, feedback, and decision-making. A [team charter](https://docs.google.com/document/d/1N_EtkfGGdvyIfsxblSjKo5m4UI82mAkPNmyMcoZhS2g/edit?usp=sharing) can help facilitate this conversation.
 - **Talk about roles and expectations.** Knowing who’s [leading the project]({{site.baseurl}}/leading-projects/) and what each team member expects to contribute can help everyone feel comfortable owning their work and asking for what they need from others.
 
 ### Make space for each other’s voices
