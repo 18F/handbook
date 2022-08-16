@@ -39,6 +39,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [TTS Designer ](https://join.tts.gsa.gov/join/tts-designer/)- open Tuesday, June 14th, 2022 through Tuesday, June 13, 2023. This posting will be open for 1 year or until all selections have been made which may occur prior to the closing date.
 
+[TTS Deputy Director](https://join.tts.gsa.gov/join/tts-deputy-director/) - open Monday, August 15, 2022 through Monday, September 12th
+
 ### Internal only opportunities
 
 [18F Account Manager Reassignment ](https://docs.google.com/document/d/1Pief-knr_OH16qmBaQuFgyHkNNELxBOED5yyCPXlwg0/edit)- open Friday, August 5th through Wednesday, August 17th
