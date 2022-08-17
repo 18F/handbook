@@ -45,12 +45,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [18F Account Manager Reassignment ](https://docs.google.com/document/d/1Pief-knr_OH16qmBaQuFgyHkNNELxBOED5yyCPXlwg0/edit)- open Friday, August 5th through Wednesday, August 17th
 
-<!--StartFragment-->
-
-[Digital Analytics Program Manager Detail](https://docs.google.com/document/d/1YlII1qn6BVO_8ggt1QH68OnL9Akanige-W8jbMLiIpA/edit) - open Tuesday, August 9th through Tuesday, August 16th
-
-<!--EndFragment-->
-
 [TTS Outreach Lead](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs) - open Monday, August 15th through Friday, August 26th
 
 ## Opportunities with partners
