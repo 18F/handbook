@@ -127,7 +127,7 @@ The maximum annual leave that can be carried over is 240 hours, and if you've tr
 
 #### Use or Lose
 
-Use or Lose is the number of Annual Leave hours you would forfeit at the end of the leave year, if you do not use any of your Annual Leave hours between now and then. As noted above, there is a 240 hour limit on the number of hours you can carry over from one leave year to the next.
+Use or Lose is the number of Annual Leave hours you would forfeit at the end of the [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/), if you do not use any of your Annual Leave hours between now and then. As noted above, there is a 240 hour limit on the number of hours you can carry over from one leave year to the next.
 
 For example: You look in HRLinks and see "182 Hours (96 Hours Use or Lose)." Today, January 25th, 2022, you have 182 hours of Annual Leave available. If you continued to accrue Annual Leave for the rest of the year, and you did not use any of those hours, you would forfeit 96 hours of Annual Leave at the end of the year. You would be 96 hours over the 240 cap.
 
@@ -299,7 +299,7 @@ If the system is down, you can submit donation requests directly to Lakita River
 
 ### Advanced annual leave
 
-An employee may only take advanced annual leave in the amount they will earn back by the end of the current leave year, and the advanced leave may not exceed 80 hours.
+An employee may only take advanced annual leave in the amount they will earn back by the end of the current [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/), and the advanced leave may not exceed 80 hours.
 
 Please note: You may receive an exception in HRLinks that "temporary appointment employees cannot be advanced annual leave." Policy allows the approval of advance leave for employees on limited appointments, but the amount of advance leave approved must not exceed the NTE or end of the leave year. The system will always give you an exception message when your leave balance is in the negative. When your supervisor goes into the system to approve your time, it is their responsibility to make a remark in the comment box noting their approval of advance leave.
 
