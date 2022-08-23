@@ -41,7 +41,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [TTS Deputy Director](https://join.tts.gsa.gov/join/tts-deputy-director/) - open Monday, August 15, 2022 through Monday, September 12th
 
-[Program Analyst Merit Promotion GS 9/11/12](https://www.usajobs.gov/job/672762400) - open Tuesday, August 23, 2022 through Tuesday, September 5, 2022. Various teams are hiring for this opportunity and the opportunities are listed in the job announcement. As a merit promotion opportunity, only competitive career federal employees are eligible for application.
+[Program Analyst Merit Promotion GS 9/11/12](https://www.usajobs.gov/job/672762400) - open Tuesday, August 23, 2022 through Tuesday, September 6, 2022. Various teams are hiring for this opportunity and the opportunities are listed in the job announcement. As a merit promotion opportunity, only competitive career federal employees are eligible for application.
 
 ### Internal only opportunities
 
