@@ -137,7 +137,7 @@ The following are reasons when ending a project early may make sense:
 
 ### Who makes the decision?
 
-Teams should make a recommendation to the Director of Account Management, who are both accountable for both project impact goals and business goals and will make the ultimate decision. 18F’s facilitates change in our partner organizations, and our work, even in the best of circumstances, is difficult. Because we do not have control over many of our partners’ circumstances or decision-making capabilities, stopping prematurely isn’t a negative reflection of the team’s efforts, skills, or capabilities.
+Teams should make a recommendation to the Director of Account Management, who is accountable for both project impact goals and business goals and will make the ultimate decision. Change in our partner organizations and our work, even in the best of circumstances, is difficult. Because we do not have control over many of our partners’ circumstances or decision-making capabilities, stopping prematurely isn’t a negative reflection of the team’s efforts, skills, or capabilities.
 
 ## Ending an engagement responsibly
 
