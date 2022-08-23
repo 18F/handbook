@@ -18,7 +18,7 @@ The **project health tracker** provides insight into some of the common areas wh
 
 1. Your **Account Manager** (AM) has seen a broad range of projects at 18F and can provide useful calibration and insight into 18F standards. Your AM also understands the context of your project and your team, and knows the players at the partner agency.
 2. Your **Supervisor** or **Facilitator/Lead** knows a great deal about your discipline or domain, and they know you and your professional goals. They can be a great person to bounce ideas off of and offer a second opinion on an approach to your project work.
-3. **Guilds, crit groups, and chapter/portfolio meetings** - these are all great avenues for soliciting peer feedback and troubleshooting challenges on your project.
+3. **Guilds, crit groups, and chapter** - these are all great avenues for soliciting peer feedback and troubleshooting challenges on your project.
 4. The **[Consulting Guild (#g-consulting)](https://gsa-tts.slack.com/archives/C02GTJ5DT9A)** - get first-line project support from experienced TTS consultants.
 5. The **[#c-18f-project-leadership channel](https://gsa-tts.slack.com/archives/C01JFUE1Y58)** is another great source for peer feedback and troubleshooting for project leads and those interested in becoming project leads.
 
@@ -31,7 +31,7 @@ Teams may find this [pivot, pause, stop mural template](https://app.mural.co/t/g
 ### Sources for partner leadership and support for the team
 
 1. Your **Account Manager** is your first stop for helping to align your team with your partner’s goals and needs. Partners will sometimes share candid feedback with AMs, because they may see them as a neutral resource. Your AM is in a better position to help you strategize around alignment approaches, or even to take the lead on difficult conversations with the partner.
-2. **Portfolio Directors** or the **Director of Account Management** can be an escalation path for teams or for partners, and can provide the support teams may need to have difficult conversations with partners.
+2. The **Director of Account Management** can be an escalation path for teams or for partners, and can provide the support teams may need to have difficult conversations with partners.
 3. The **Deputy** and **Executive Director** can provide another layer of top cover. This is especially useful when executive level stakeholders are dissatisfied.
 
 ### Staffing changes
@@ -64,7 +64,7 @@ As soon as you realize, go back as far as you need to and then do what it takes 
 
 You can also take the opportunity to reconsider your staffing, to ensure you have all the requisite skills on the team to address the project’s needs.
 
-Remember, there is no “one size fits all” pivot, but it becomes easier to navigate this often difficult and stressful situation by including your partner, team members, and those involved with the project, including the Account Manager, Portfolio Director, and even supervisors.
+Remember, there is no “one size fits all” pivot, but it becomes easier to navigate this often difficult and stressful situation by including your partner, team members, and those involved with the project, including the Account Manager and supervisors.
 
 ## Project Pauses (up to two weeks)
 
@@ -103,7 +103,7 @@ Before stopping, work with your partner to define a plan to restart. That restar
 - Staffing plan for ramping down or rolling off, including timeline, and what, if any, billing will continue to happen during the work stoppage.
 - Clean up existing documentation about the team’s work products, decisions, and plans, and provide the incoming team with a “spin-up checklist” that will help them get oriented to the project and be able to get started with minimized re-start time.
 
-The AM should brief 18F senior leadership (ED/DED, Director of Ops, Portfolio or Domain leadership if appropriate, and AM staff at minimum) on this stop/restart plan before sharing with the partner.
+The AM should brief 18F senior leadership on this stop/restart plan before sharing with the partner.
 
 ### External impact of stopping work
 
@@ -137,7 +137,7 @@ The following are reasons when ending a project early may make sense:
 
 ### Who makes the decision?
 
-Teams should make a recommendation to the Portfolio Director, if applicable, or the Director of Account Management, who are both accountable for both project impact goals and business goals and will make the ultimate decision. 18F’s facilitates change in our partner organizations, and our work, even in the best of circumstances, is difficult. Because we do not have control over many of our partners’ circumstances or decision-making capabilities, stopping prematurely isn’t a negative reflection of the team’s efforts, skills, or capabilities.
+Teams should make a recommendation to the Director of Account Management, who is accountable for both project impact goals and business goals and will make the ultimate decision. Change in our partner organizations and our work, even in the best of circumstances, is difficult. Because we do not have control over many of our partners’ circumstances or decision-making capabilities, stopping prematurely isn’t a negative reflection of the team’s efforts, skills, or capabilities.
 
 ## Ending an engagement responsibly
 
