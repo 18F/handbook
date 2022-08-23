@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -41,7 +40,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [TTS Deputy Director](https://join.tts.gsa.gov/join/tts-deputy-director/) - open Monday, August 15, 2022 through Monday, September 12th
 
-[Program Analyst Merit Promotion GS 9/11/12](https://www.usajobs.gov/job/672762400) - open Tuesday, August 23, 2022 through Tuesday, September 5, 2022. Various teams are hiring for this opportunity and the opportunities are listed in the job announcement. As a merit promotion opportunity, only competitive career federal employees are eligible for application.
+[Program Analyst Merit Promotion GS 9/11/12](https://www.usajobs.gov/job/672762400) - open Tuesday, August 23, 2022 through Tuesday, September 6, 2022. Various teams are hiring for this opportunity and the opportunities are listed in the job announcement. As a merit promotion opportunity, only competitive career federal employees are eligible for application.
 
 ### Internal only opportunities
 
@@ -61,7 +60,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
