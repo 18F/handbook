@@ -11,7 +11,7 @@ redirect_from:
 
 ## Our history
 
-The roots of the Technology Transformation Services reach back to 1966 and a nationwide network of 26 Federal Information Centers that people could visit in person for answers to government questions. Over the next four decades, those information centers would add numerous responsibilities and change names a number of times before becoming the [Office of Products and Programs (OPP)]({{site.baseurl}}/office-of-products-and-programs/).
+The roots of the Technology Transformation Services reach back to 1966 and a nationwide network of 26 Federal Information Centers that people could visit in person for answers to government questions. Over the next four decades, those information centers would add numerous responsibilities and change names a number of times before becoming the [Office of Solutions]({{site.baseurl}}/office-of-solutions/).
 
 While OPP was paving the way for government shared services and open data, there was a growing need to bring new technology talent into the government. In 2012, the White House created the [Presidential Innovation Fellows (PIF)](https://presidentialinnovationfellows.gov/) program to bring technologists in for short tours of duty in government. The next year, the PIF program found a permanent home at GSA and a group of PIFs started thinking about how they could extend their impact on government. In December 2013, eight PIFs left the fellowship to become GSA employees and created a lean startup inside government.
 
