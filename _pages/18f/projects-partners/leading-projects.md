@@ -109,7 +109,7 @@ Tailor your approach based on the project and partner’s needs. Historically, t
 - In the case of [projects in distress, review alternative solutions: pivot, pause or stop the engagement]({{site.baseurl}}/18f/projects-partners/projects-in-distress/)
 - Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW)
   so everyone on the project team can fully participate.
-- Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ).
+- Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrg8FScJQSJlXwtv).
 
 ## Why you might want to lead a project
 
