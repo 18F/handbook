@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -45,8 +44,6 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-[Digital Analytics Program Manager](https://docs.google.com/document/d/1YlII1qn6BVO_8ggt1QH68OnL9Akanige-W8jbMLiIpA/edit) - open Tuesday, August 9th through Wednesday, August 24th
-
 [TTS Outreach Lead](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs) - open Monday, August 15th through Friday, August 26th
 
 [18F Acting Supervisor Detail -](https://docs.google.com/document/d/1szDOFGc95mK0d_19Qly-TPqSZ1UqxUuiZT2qpWEcRhc/edit?usp=sharing) open Thursday, August 18th through Thursday, September 1st
@@ -61,7 +58,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
