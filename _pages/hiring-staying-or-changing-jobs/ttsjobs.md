@@ -45,9 +45,9 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Internal only opportunities
 
-[TTS Outreach Lead](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs) - open Monday, August 15th through Friday, August 26th
-
 [18F Acting Supervisor Detail -](https://docs.google.com/document/d/1szDOFGc95mK0d_19Qly-TPqSZ1UqxUuiZT2qpWEcRhc/edit?usp=sharing) open Thursday, August 18th through Thursday, September 1st
+
+[TTS Outreach Lead](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs) - open Monday, August 15th through Friday, September 2nd
 
 ## Opportunities with partners
 
