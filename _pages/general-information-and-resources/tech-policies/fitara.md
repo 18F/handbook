@@ -37,7 +37,7 @@ For all TTS acquisitions, it is critical to obtain FITARA approval prior to rele
 
 ## Approval Process
 
-Now, how to get that approval? Please send a message within the **tts-fitara-reviews** Slack channel in order to initiate the process. A representative will work with you to ensure the FITARA review is conducted and routed to the GSA-CIO for final approval. Once you have received a signed and approved FTIARA form, please file this within your records and proceed with remaining procurement/acquisition activities.
+Now, how to get that approval? Please send a message within the [#tts-fitara-reviews](https://gsa-tts.slack.com/archives/CPS0S92DT) Slack channel in order to initiate the process. A representative will work with you to ensure the FITARA review is conducted and routed to the GSA-CIO for final approval. Once you have received a signed and approved FTIARA form, please file this within your records and proceed with remaining procurement/acquisition activities.
 
 ## OMB guidance
 
