@@ -45,7 +45,7 @@ The Office of Management and Budget (OMB) has drafted guidance to implement FITA
 
 ## OCIO guidance
 
-When necessary, consult with your oganization's FITARA representative accordingly for further guidance or visit the **tts-fitara-reviews** Slack channel and post your questions there.
+When necessary, consult with your oganization's FITARA representative accordingly for further guidance or visit the [#tts-fitara-reviews](https://gsa-tts.slack.com/archives/CPS0S92DT) Slack channel and post your questions there.
 
 ## TTS guidance
 
