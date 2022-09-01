@@ -27,14 +27,11 @@ Please include the following information:
 - your **personal email** so that if, or when, you wish to request your FERS refund contributions HR can correspond with you after your departure with status/updates on this request.
 - If you plan on taking time off during your last weeks, please also include those dates so that offboarding meetings can be scheduled accordingly. Please see the next section for more information.
 
+Once you’ve sent your official letter of notice we will assume your departure is public knowledge, so if you would like to tell folks yourself, please handle those notifications ahead of time.
+
 #### Taking time off prior to your last day at TTS
 
-Per GSA policy, you can:
-
-- Take leave prior to your final day, and work your full final day at TTS.
-- If you work the majority of your final pay period, you can take leave for part of your final day.
-
-Once you’ve sent your official letter of notice we will assume your departure is public knowledge, so if you would like to tell folks yourself, please handle those notifications ahead of time.
+Your final day at TTS must be worked in full unless you have worked the majority of your final pay period; then you are eligible to take leave for part of your final day.
 
 ### 2. Provide summary reviews for direct reports (Supervisors only)
 
