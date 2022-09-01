@@ -25,8 +25,14 @@ Please include the following information:
 - your **security clearance level** if it is above Public Trust (i.e. Secret or TS/SCI) so that a debriefing meeting can be scheduled, if necessary, with Security.
 - your **home address**. This will ensure that GSA HR enters the correct information on your final SF-50 so that you can receive all of your documents on time and to the correct address.
 - your **personal email** so that if, or when, you wish to request your FERS refund contributions HR can correspond with you after your departure with status/updates on this request.
+- If you plan on taking time off during your last weeks, please also include those dates so that offboarding meetings can be scheduled accordingly. Please see the next section for more information.
 
-_Note: If you plan on taking time off during your last week, please also include those dates so that offboarding meetings can be scheduled accordingly._
+#### Taking time off prior to your last day at TTS
+
+Per GSA policy, you can:
+
+- Take leave prior to your final day, and work your full final day at TTS.
+- If you work the majority of your final pay period, you can take leave for part of your final day.
 
 Once you’ve sent your official letter of notice we will assume your departure is public knowledge, so if you would like to tell folks yourself, please handle those notifications ahead of time.
 
@@ -67,7 +73,7 @@ If you have any questions, please email the GSA HR Benefits Contact found in the
 
 ### 6. Complete the clearance checklist
 
-Keith Wilson from the TTS People Ops Team ([#people-ops](https://gsa-tts.slack.com/messages/people-ops) will set time with you to complete the [GSA Pre-exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist).
+Keith Wilson from the PeopleOps Team ([#people-ops](https://gsa-tts.slack.com/messages/people-ops)) will set time with you to complete the [GSA Pre-exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist).
 
 ### 7. Return your equipment
 
