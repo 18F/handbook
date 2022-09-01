@@ -47,6 +47,8 @@ To learn more about the GSA coaching program offerings and how to get connected 
 
 GSA has a mentoring program that facilitates small group discussions on a number of topics. For an overview of the different types of current and upcoming programs offered, visit the [mentoring program page on InSite](https://insite.gsa.gov/topics/training-and-development/mentoring-program). There is also a [mentoring resource library](https://insite.gsa.gov/topics/training-and-development/mentoring-program/mentoring-resource-library) that includes some helpful mentorship guides, assessments, templates, and more.
 
+If you are interested in becoming a mentor, there is a list of [external organizations who are seeking mentors](https://docs.google.com/spreadsheets/d/1uJIsJh7n9tKAmziLxhP3roKhYidun6Zx4V8g1n-xjEs/edit).
+
 ## Leadership development
 
 ### Treasury Executive Institute (TEI) training
