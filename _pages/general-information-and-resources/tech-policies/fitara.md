@@ -64,7 +64,7 @@ TTS issued policy effective February 28, 2017, implementing the policy and proce
 > If the external contract or agreement does not involve a GSA-owned platform and/or GSA does not own the ATO, no approval from GSA IT is required.
 >
 > 3.0 Applicability
-> This policy applies to all TTS Offices unless otherwise amended or revoked.
+> This policy applies to all TTS Offices, unless otherwise amended or revoked.
 
 ---
 
