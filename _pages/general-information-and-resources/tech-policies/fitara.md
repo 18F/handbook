@@ -29,7 +29,7 @@ The objective of FITARA is to improve the management of IT within an agency and 
 
 ## What requires FITARA review?
 
-Want to know if your software request requires FITARA? That’s easy, almost all of them do! According to the CTO, at GSA we require FITARA approval for every single purchase you make.
+Want to know if your software request requires FITARA? That’s easy, almost all of them do! According to the CTO, at GSA we require FITARA approval for every single IT purchase/investment you make.
 
 For all TTS acquisitions, it is critical to obtain FITARA approval prior to releasing the solicitation and when exercising option years on existing contracts. Note: For Non-[OA (Office of Acquisitions)]({{site.baseurl}}/oa/) acquisitions, when the acquisition plan and Statement of Work (SOW) have been finalized, please send an email to devops@gsa.gov. [The TTS Tech Portfolio]({{site.baseurl}}/tech-portfolio/) will conduct their initial review of the acquisition and initiate the FITARA review with the CTO office.
 
@@ -37,9 +37,7 @@ For all TTS acquisitions, it is critical to obtain FITARA approval prior to rele
 
 ## Approval Process
 
-Now, how to get that approval? Enter the software on the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA (Resources including guides and templates are provided in the last column of the board). The CTO will reply with their approval to route to the CIO. You will need to enter the information into a PDF template and route it to the CIO via DocuSign. Once they complete the package, you have FITARA approval. Upload the PDF from DocuSign into the agreement folder, contract file, or purchase record.
-
-If you are curious where your software is in terms of review, check out the [CIO’s trello board](https://trello.com/b/KklMfNO0/gsa-it-fitara) on FITARA.
+Now, how to get that approval? Please send a message within the [#tts-fitara-reviews](https://gsa-tts.slack.com/archives/CPS0S92DT) Slack channel in order to initiate the process. A representative will work with you to ensure the FITARA review is conducted and routed to the GSA-CIO for final approval. Once you have received a signed and approved FTIARA form, please file this within your records and proceed with remaining procurement/acquisition activities.
 
 ## OMB guidance
 
@@ -47,7 +45,7 @@ The Office of Management and Budget (OMB) has drafted guidance to implement FITA
 
 ## OCIO guidance
 
-Reference the [FITARA Rules Matrix](https://docs.google.com/spreadsheets/d/1v0gnWT1V9SBaiwI3Mu-oiVk2-u26No7OTPJCTNJwZvo/edit?ts=5fbd1e3a#gid=912065849). Note: this matrix does not represent all possible scenarios. When necessary, consult with your oganization's FITARA representative accordingly for further guidance.
+When necessary, consult with your oganization's FITARA representative accordingly for further guidance or visit the [#tts-fitara-reviews](https://gsa-tts.slack.com/archives/CPS0S92DT) Slack channel and post your questions there.
 
 ## TTS guidance
 
@@ -66,7 +64,7 @@ TTS issued policy effective February 28, 2017, implementing the policy and proce
 > If the external contract or agreement does not involve a GSA-owned platform and/or GSA does not own the ATO, no approval from GSA IT is required.
 >
 > 3.0 Applicability
-> This policy applies to all TTS Offices unless otherwise amended or revoked.
+> This policy applies to all TTS Offices, unless otherwise amended or revoked.
 
 ---
 
