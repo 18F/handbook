@@ -31,7 +31,9 @@ Once you’ve sent your official letter of notice we will assume your departure 
 
 #### Taking time off prior to your last day at TTS
 
-Your final day at TTS must be worked in full unless you have worked the majority of your final pay period; then you are eligible to take leave for part of your final day.
+If you are leaving the federal government, your final day at TTS must be worked in full, unless you have worked the majority of your final pay period; then you are eligible to take leave for part of your final day.
+
+If you are taking a new role within the federal government, the above restrictions do not apply.
 
 ### 2. Provide summary reviews for direct reports (Supervisors only)
 
