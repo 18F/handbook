@@ -37,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Opportunities open to the public
 
-[TTS Deputy Director](https://join.tts.gsa.gov/join/tts-deputy-director/) - open Monday, August 15, 2022 through Monday, September 12th
+[TTS Deputy Director](https://join.tts.gsa.gov/join/tts-deputy-director/) - open Monday, August 15, 2022 through Monday, September 26th
 
 ### Internal only opportunities
 
