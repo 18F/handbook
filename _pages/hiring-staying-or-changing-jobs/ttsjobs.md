@@ -45,7 +45,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit?usp=sharing)-Open Tuesday, September 13th through Sunday, September 25th
 
-[Federal Audit Clearinghouse reassignment](https://docs.google.com/document/d/1bYOQhzNNVureZmH0yLeaTTqVSDxbklqFYwAm2_E_tEc/edit?usp=sharing)-Open Tuesday, September 13th through Sunday, September 25th
+[Federal Audit Clearinghouse System Architect reassignment](https://docs.google.com/document/d/1bYOQhzNNVureZmH0yLeaTTqVSDxbklqFYwAm2_E_tEc/edit?usp=sharing)-Open Tuesday, September 13th through Sunday, September 25th
 
 ## Opportunities with partners
 
