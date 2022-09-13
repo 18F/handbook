@@ -43,6 +43,10 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [Acting 18F Director of Engineering Detail-](https://docs.google.com/document/d/1jNpeoD5EF4VAXYUaq-x1Q6X8sSY0LrnibaHA71e4t7o/edit?usp=sharing)open Thursday, September 8th through Friday, September 16th
 
+[eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit?usp=sharing)-Open Tuesday, September 13th through Sunday, September 25th
+
+[Federal Audit Clearinghouse reassignment](https://docs.google.com/document/d/1bYOQhzNNVureZmH0yLeaTTqVSDxbklqFYwAm2_E_tEc/edit?usp=sharing)-Open Tuesday, September 13th through Sunday, September 25th
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
