@@ -20,14 +20,13 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion Process
-- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and local government agencies
+* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+* Hiring actions using the Excepted Service version of the Merit Promotion Process
+* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -43,6 +42,12 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [Acting 18F Director of Engineering Detail-](https://docs.google.com/document/d/1jNpeoD5EF4VAXYUaq-x1Q6X8sSY0LrnibaHA71e4t7o/edit?usp=sharing)open Thursday, September 8th through Friday, September 16th
 
+[eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit?usp=sharing)-Open Tuesday, September 13th through Sunday, September 25th
+
+[Federal Audit Clearinghouse reassignment](https://docs.google.com/document/d/1bYOQhzNNVureZmH0yLeaTTqVSDxbklqFYwAm2_E_tEc/edit?usp=sharing)-Open Tuesday, September 13th through Sunday, September 25th
+
+
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
@@ -53,7 +58,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
