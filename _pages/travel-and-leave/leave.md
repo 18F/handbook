@@ -29,7 +29,7 @@ This page provides instructions for entering leave requests (also known as absen
 
 You can see your Annual, Award, and Sick Leave balances in HR Links and on your paystub in [Employee Express]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#employee-express).
 
-GSA’s [Time and Leave Administration policy](https://insite.gsa.gov/directives-library/-time-and-leave-administration-policy-60101a-hrm) establishes agency-wide policy, procedures, and requirements for all employees.  Additional fact sheet links are provided throughout this page, with the corresponding type of leave.
+GSA’s [Time and Leave Administration policy](https://insite.gsa.gov/directives-library/-time-and-leave-administration-policy-60101a-hrm) establishes agency-wide policy, procedures, and requirements for all employees. Additional fact sheet links are provided throughout this page, with the corresponding type of leave.
 
 ## Your overall responsibilities
 
@@ -37,13 +37,13 @@ You must report to work or have an approved leave request in HR Links, every sch
 
 You should submit leave requests at least three business days in advance, and make timely edits if your plans change.
 
-For unplanned leave - such as a sudden illness or a family emergency - do what you can to contact your supervisor, and they can help manage the rest on your behalf. 
+For unplanned leave - such as a sudden illness or a family emergency - do what you can to contact your supervisor, and they can help manage the rest on your behalf.
 
 Some types of leave require supporting documentation: it is your responsibility to submit all necessary documents and check that you’ve received approval. Various scenarios are documented below, along with contact information for help.
 
 ## Supervisor responsibilities
 
-Supervisors have primary responsibility for administering leave policies and regulations. 
+Supervisors have primary responsibility for administering leave policies and regulations.
 
 They are accountable for the timesheet data submitted to GSA payroll each pay period: they are certifying that their direct reports’ work time and absences are recorded and reported accurately. This information is critical, as it affects pay and leave balances.
 Supervisors should be reviewing and approving/denying leave requests on a regular and timely basis. They also need to review and approve timesheets every two weeks, as the pay period closes.
@@ -53,6 +53,7 @@ In TTS, supervisors receive support from PeopleOps, who serve as the organizatio
 If someone is unexpectedly OOO and cannot request leave in HR Links, supervisors can [enter a leave request on their behalf](https://corporateapps.gsa.gov/files/Create-an-Absence-Request-Supervisor.pdf).
 
 If a supervisor is going out of office, their supervisor will typically handle HR Links tasks while they are gone: approving timesheets & leave requests, etc. However, a supervisor may run into a time where they want to delegate tasks to someone else (example: their direct supervisor is also OOO or that role is vacant). Here are three step-by-step guides for a supervisor to delegate approval responsibilities:
+
 1. [Fact Sheet: Should I do a delegation? What can I delegate?](https://docs.google.com/document/d/1Nxsl0pAg9sman4ntrQlBNPqcvFGaXrSJagV7HG-f27c/edit)
 1. [How do I create a delegation?](https://corporateapps.gsa.gov/files/Set-a-Delegation-Supervisor.pdf)
 1. [How does the other person ("the proxy") accept a delegation?](https://corporateapps.gsa.gov/files/Accept-a-Delegation-Proxy.pdf)
@@ -74,7 +75,7 @@ You'll need to log in to [HR Links](https://corporateapps.gsa.gov/hr-links/) in 
 1. Click on **Comments/History** and then enter **Comments**
 1. Click **Submit**
 
-You’ll receive emails after submitting the request, and after it is approved. 
+You’ll receive emails after submitting the request, and after it is approved.
 
 ### Entering additional time
 
@@ -87,7 +88,7 @@ You’ll receive emails after submitting the request, and after it is approved.
 1. Enter **Comments**
 1. Click **Submit**
 
-You’ll receive emails after submitting the request, and after it is approved. 
+You’ll receive emails after submitting the request, and after it is approved.
 
 ### Editing and canceling a leave request
 
@@ -96,7 +97,7 @@ You’ll receive emails after submitting the request, and after it is approved.
 3. In the **Absence Request History** list, go to the request you want to edit, and click **View/Edit** or **Cancel**.
 4. Make your desired changes and click **Submit**
 
-You’ll receive an email after you cancel/edit a request. 
+You’ll receive an email after you cancel/edit a request.
 
 Note: Canceling a request can create an error in HR Links, if the dates of the canceled request overlap with another leave request. If you run into issues after you’ve canceled a request, reach out to [#people-ops](https://gsa-tts.slack.com/archives/C047LSLTU).
 
