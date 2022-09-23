@@ -25,64 +25,87 @@ redirect_from:
   - /leave/
 ---
 
-This page provides instructions for entering leave requests (also known as absence requests) in [HR Links](https://corporateapps.gsa.gov/hr-links/) and information on the various types of leave. The [leave overview chart](https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit#gid=0) also provides a high level comparison.
+This page provides instructions for entering leave requests (also known as absence requests) in [HR Links](https://corporateapps.gsa.gov/hr-links/) and information on the various types of leave. The [leave overview chart](https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit#gid=0) also provides a high level, visual comparison.
 
-You can see your remaining leave balances in HR Links (shows up to the right while making a vacation request) and in your leave balance on your paystub in [Employee Express]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#employee-express).
+You can see your Annual, Award, and Sick Leave balances in HR Links and on your paystub in [Employee Express]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#employee-express).
+
+GSA’s [Time and Leave Administration policy](https://insite.gsa.gov/directives-library/-time-and-leave-administration-policy-60101a-hrm) establishes agency-wide policy, procedures, and requirements for all employees. Additional fact sheet links are provided throughout this page, with the corresponding type of leave.
+
+## Your overall responsibilities
+
+You must report to work or have an approved leave request in HR Links, every scheduled work day.
+
+You should submit leave requests at least three business days in advance, and make timely edits if your plans change.
+
+For unplanned leave - such as a sudden illness or a family emergency - do what you can to contact your supervisor, and they can help manage the rest on your behalf.
+
+Some types of leave require supporting documentation: it is your responsibility to submit all necessary documents and check that you’ve received approval. Various scenarios are documented below, along with contact information for help.
+
+## Supervisor responsibilities
+
+Supervisors have primary responsibility for administering leave policies and regulations.
+
+They are accountable for the timesheet data submitted to GSA payroll each pay period: they are certifying that their direct reports’ work time and absences are recorded and reported accurately. This information is critical, as it affects pay and leave balances.
+Supervisors should be reviewing and approving/denying leave requests on a regular and timely basis. They also need to review and approve timesheets every two weeks, as the pay period closes.
+
+In TTS, supervisors receive support from PeopleOps, who serve as the organization’s timekeepers, and our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit), who answers policy questions and will help process certain types of leave requests. However, supervisors are expected to be knowledgeable about time and leave policy, and to keep PeopleOps informed of any decisions/approvals made that would affect time and leave records.
+
+If someone is unexpectedly OOO and cannot request leave in HR Links, supervisors can [enter a leave request on their behalf](https://corporateapps.gsa.gov/files/Create-an-Absence-Request-Supervisor.pdf).
+
+If a supervisor is going out of office, their supervisor will typically handle HR Links tasks while they are gone: approving timesheets & leave requests, etc. However, a supervisor may run into a time where they want to delegate tasks to someone else (example: their direct supervisor is also OOO or that role is vacant). Here are three step-by-step guides for a supervisor to delegate approval responsibilities:
+
+1. [Fact Sheet: Should I do a delegation? What can I delegate?](https://docs.google.com/document/d/1Nxsl0pAg9sman4ntrQlBNPqcvFGaXrSJagV7HG-f27c/edit)
+1. [How do I create a delegation?](https://corporateapps.gsa.gov/files/Set-a-Delegation-Supervisor.pdf)
+1. [How does the other person ("the proxy") accept a delegation?](https://corporateapps.gsa.gov/files/Accept-a-Delegation-Proxy.pdf)
 
 ## Submitting leave in HR Links
 
 ### Logging into HR Links
 
-You must be on the GSA wireless network or on the Windows virtual desktop (accessible through Citrix Workspace or Cisco AnyConnect) to log into HR Links. For instructions on accessing your virtual desktop through Citrix Workspace, go [here]({{site.baseurl}}/tools/virtual-desktop). For instructions on accessing your virtual desktop through Cisco AnyConnect, go [here]({{site.baseurl}}/anyconnect).
-
-1. Open your web browser (Safari is preferred for HR Links)
-1. Go to [HR Links](https://corporateapps.gsa.gov/hr-links/) or find it under "Tools" on the [InSite home page](https://insite.gsa.gov)
-1. Click **login** icon (a new tab will open)
-1. Click on **GSA and GSA CABS**
+You'll need to log in to [HR Links](https://corporateapps.gsa.gov/hr-links/) in order to submit a leave request. HR Links can only be accessed via VPN ([Citrix Workspace]({{site.baseurl}}/tools/virtual-desktop) and [Cisco AnyConnect]({{site.baseurl}}/anyconnect)) or on the wireless network at one of GSA’s offices.
 
 ### Entering a leave request
 
-1. Click on the **Employee Time** tile
+1. Go to the **Employee Time Requests** tile
 1. Click **Absence Requests**
 1. Select **Request Absence**
-1. Choose **Absence Name** then **Request**
-1. Click **Absence Type** and choose type
+1. Search for the appropriate **Absence Type** then click **Request**
 1. Enter **Start Date** and **End Date**
 1. Select **Full Days** or **Partial Days**
 1. Click on **Comments/History** and then enter **Comments**
 1. Click **Submit**
 
-**_Note:_** _When your leave request is approved, you’ll receive a “The absence request has been approved…” email_
+You’ll receive emails after submitting the request, and after it is approved.
 
 ### Entering additional time
 
-1. Click on the **Employee Time Requests** tile
-1. Select **Additional Time Requests**
-1. Click time request type (**Overtime**, **Comp Time**, or **Credit Time**)
-1. Select **Additional Time Type**
+1. Go to the **Employee Time Requests** tile
+1. Click **Additional Time Requests**
+1. Click the appropriate time request (**Overtime**, **Comp Time**, or **Credit Time**)
+1. Select a **Reason** (Only needed for overtime requests)
 1. Enter **Start Date** and **End Date**
 1. Enter **Requested Hours**
 1. Enter **Comments**
 1. Click **Submit**
 
-### Modifying a leave request
+You’ll receive emails after submitting the request, and after it is approved.
 
-It’s simple, but slightly counter-intuitive. Here’s how:
+### Editing and canceling a leave request
 
-1. _Cancel_ the initial request you’re trying to edit.
-2. _Edit_ the _canceled_ request.
-3. Resubmit the canceled-and-edited request.
+1. Go to the **Employee Time Requests** tile
+2. Click **Absence Requests**
+3. In the **Absence Request History** list, go to the request you want to edit, and click **View/Edit** or **Cancel**.
+4. Make your desired changes and click **Submit**
+
+You’ll receive an email after you cancel/edit a request.
+
+Note: Canceling a request can create an error in HR Links, if the dates of the canceled request overlap with another leave request. If you run into issues after you’ve canceled a request, reach out to [#people-ops](https://gsa-tts.slack.com/archives/C047LSLTU).
 
 ### HR Links tips
 
-- If you're having issues with logging into HR Links while using Google Chrome, please use these [instructions to clear your site cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing)
-- Partial day requests cannot be made in the middle of a multi-day request; more than one request will need to be made
-- AWS schedules are automatically factored into HR Links timekeeping
-- ETAMS/reconciliation is no longer needed because time off requests and time cards are linked in HR Links
-- Leave Without Pay (LWOP) can be requested in HR Links
-- Court leave can be requested in HR Links;
-- Clicking Absence/OT history shows all requests
-- HRLinks does not always reflect accurate leave balances, it is recommended to track your leave outside of the official record in addition to submitting your leave in HRLinks. [Federalretirement.net](https://www.federalretirement.net/leave-record.htm) has an easy to use spreadsheet that employees may use as a back up to HRLinks.
+- Partial day requests cannot be made in the middle of a multi-day request; more than one leave request will need to be submitted.
+- AWS schedules are automatically factored into HR Links. For example: you won’t be able to request leave on your designated AWS “off day” because you aren’t scheduled to work that day.
+- If you’re having issues logging into HR Links while using Google Chrome, please use these [instructions to clear your cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
 
 ## Leave
 
