@@ -7,21 +7,19 @@ redirect_from:
   - /equipment/
 ---
 
-GSA issues every TTS employee a badge, laptop, and phone. Your laptop should be ready before your first day, but your phone may not be. 
+GSA issues every TTS employee a badge, laptop, and phone. Your laptop should be ready before your first day, but your phone may not be.
 
 The Onboarding Team submits your new hire account request, which includes your badge, phone, and laptop. Your laptop and phone will be shipped to your home address on file.
 
-
 ## Distributed employees
 
-Badges are shipped to your local GSA office. You will receive an email once your badge is available for pick-up. At that point, you will be prompted to make an appointment. Send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) if you have any questions regarding your badge. 
-
+Badges are shipped to your local GSA office. You will receive an email once your badge is available for pick-up. At that point, you will be prompted to make an appointment. Send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) if you have any questions regarding your badge.
 
 ## Laptop
 
-Your supervisor will determine if you need a MacBook Pro or PC laptop. In the past, most TTS employees have been issued an Apple MacBook Pro computer, but recently due to supply chain shortages as well as a few other factors, TTS does not have the current inventory to give each new hire a MacBook at this time. 
+Your supervisor will determine if you need a MacBook Pro or PC laptop. In the past, most TTS employees have been issued an Apple MacBook Pro computer, but recently due to supply chain shortages as well as a few other factors, TTS does not have the current inventory to give each new hire a MacBook at this time.
 
-The Onboarding Team will send you information (including your laptop tracking number) prior to your first day.  
+The Onboarding Team will send you information (including your laptop tracking number) prior to your first day.
 
 See [information about using PIV card readers with GSA-issued MacBooks]({{site.baseurl}}/piv/).
 
@@ -31,7 +29,7 @@ Your MacBook will come preloaded with the latest, GSA-approved/supported operati
 
 ### Rules
 
-**Lock your computer before leaving it.** Press the **Control + Shift + Power** keys on newer MacBooks or **Control + Shift + Eject** on older MacBooks with optical drives. If you use Alfred, you can open Alfred and type lock.
+**Lock your computer before leaving it.** Press the **Control + Shift + Power** keys on newer MacBooks or **Control + Shift + Eject** on older MacBooks with optical drives.
 
 **Encrypt all portable media that will connect to any TTS system.** You can apply FileVault encryption to removable USB drives and external hard drives by right-clicking the drive on your desktop and clicking **Encrypt**. You must choose a strong password you can remember, as your drive will require the password to mount and retrieve data once encrypted.
 
@@ -82,7 +80,6 @@ XCode command line tools can be installed or upgraded through [Self Service]({{s
 
 All TTS employees are issued an Apple iPhone. Prior to joining, the TTS Onboarding Team will submit a ticket via the GSA IT Service Desk for new hires to receive a work phone. It will be shipped via UPS and require signature upon delivery. It will arrive within your first few weeks. There will be instructions, along with a phone number for you to call, for assistance with activating your iPhone.
 
-
 ### Rules
 
 - GSA IT will ask for your Apple ID and password. **Do not send your personal Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA email address, or set one up for yourself and use Google Hangouts to send them your password. (Never share passwords over email.)
@@ -115,7 +112,7 @@ See the [software]({{site.baseurl}}/software/) page.
 
 ## Peripherals
 
-Upon request and subject to availability, GSA IT will provide peripheral equipment to any GSA employees who requests it. To request peripheral equipment, please submit an [IT ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=4c1a24391b1349107adac808624bcb50&sysparm_category=0d89b52fdb1e33400dc9ff621f9619a5) for a remote workers home kit. The kit typically includes: a monitor, keyboard, mouse, headset, and hub to provide additional connectivity.  
+Upon request and subject to availability, GSA IT will provide peripheral equipment to any GSA employees who requests it. To request peripheral equipment, please submit an [IT ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=4c1a24391b1349107adac808624bcb50&sysparm_category=0d89b52fdb1e33400dc9ff621f9619a5) for a remote workers home kit. The kit typically includes: a monitor, keyboard, mouse, headset, and hub to provide additional connectivity.
 
 Please note, GSA IT does not provide wireless peripherals. Wireless peripherals can be purchased by the business unit, but only upon TTS leadership approval.
 
@@ -140,8 +137,7 @@ To purchase this type of equipment, attach a doctor's note. If you have question
 
 ## Repairs
 
-For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).  If you have a GSA-issued MacBook, please note that in your IT ticket. 
-
+For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk). If you have a GSA-issued MacBook, please note that in your IT ticket.
 
 If your ticket gets stuck, follow [the escalation instructions]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 
