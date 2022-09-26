@@ -104,7 +104,7 @@ Note: Canceling a request can create an error in HR Links, if the dates of the c
 ### HR Links tips
 
 - Partial day requests cannot be made in the middle of a multi-day request; more than one leave request will need to be submitted.
-- AWS schedules are automatically factored into HR Links. For example: you won’t be able to request leave on your designated AWS “off day” because you aren’t scheduled to work that day.
+- [AWS schedules](https://insite.gsa.gov/topics/hr-pay-and-leave/worklife-programs/alternative-work-schedules) are automatically factored into HR Links. For example: you won’t be able to request leave on your designated AWS “off day” because you aren’t scheduled to work that day.
 - If you’re having issues logging into HR Links while using Google Chrome, please use these [instructions to clear your cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
 
 ## Leave
