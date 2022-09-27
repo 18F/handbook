@@ -108,16 +108,19 @@ Note: Canceling a request can create an error in HR Links, if the dates of the c
 - If you’re having issues logging into HR Links while using Google Chrome, please use these [instructions to clear your cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
 
 ## Leave checklist
+
 Before taking leave, be sure to:
+
 - [Submit a leave request through HR Links]({{site.baseurl}}/travel-and-leave/leave/#submitting-leave-in-hr-links). Discuss the dates with your supervisor, as needed.
 - Mark your out of office time on your calendar and any applicable team or project calendars.
   - [Google Calendar has an OOO setting](https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop&oco=0) that can auto-reject current and future meetings.
 - Decline, cancel, or reschedule any meetings you’ll miss.
 - Tell team members or partners via Slack or email, and make sure your work is covered.
   - Notify your Engagement Manager, Account Manager, and project lead, if applicable.
-- Set up an email autoresponder as appropriate. This should include both when you’ll be back and a point of contact/team email for while you’re out. 
+- Set up an email autoresponder as appropriate. This should include both when you’ll be back and a point of contact/team email for while you’re out.
   - For example: `I am out of the office on Wednesday January 2nd and will respond to your request when I return on Thursday the 3rd. If you need immediate assistance please email [email address] and your request will be directed to the appropriate party.`
 - Update your Slack status to indicate that you are OOO.
+
   - You can also [set up a Slackbot reminder](https://slack.com/help/articles/208423427-Set-a-reminder) to prompt you to turn off OOO statuses when you return: `/remind me to “Update my OOO reminder” on [date you return]`
 
 - 18F team members should also:
@@ -166,7 +169,7 @@ Award leave is offered for End of Year Performance Awards and Special Act Awards
 
 - If you are eligible for an [End of Year Performance Award]({{site.baseurl}}/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus), you can [opt-in via HRLinks](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf) to receive Award Leave in lieu of a monetary award.
 - If you are receiving a TTS Special Act Award, you will be notified and asked for your preference of award leave or a monetary award.
- 
+
 You can receive a maximum of 80 hours of award leave in a single fiscal year. If you receive a Special Act Award after hitting the 80 hour cap, your award will be monetary.
 
 Award leave expires one year after it is issued. Expired award leave cannot be recovered - please monitor your leave balances and consider using award leave first. If you leave TTS, award leave is not paid out.
@@ -183,6 +186,7 @@ Award leave expires one year after it is issued. Expired award leave cannot be r
 You may receive an automated email reminder from HR Links 3 months before your leave expires, even if you have already used it.
 
 OPM Policy:
+
 - [Time-Off Awards](https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/rewarding/time-off-awards/)
 
 ### Sick leave
@@ -194,6 +198,7 @@ You can use sick leave for your physical and mental health needs. You can also u
 If a family member has a serious health concern and you need to take more than 13 days for their care, you can apply for FMLA. If approved for FMLA, you can use up to 12 weeks of sick leave to care for your family member. However, FMLA is also used for Paid Parental Leave (PPL). Any amount of FMLA taken is subtracted from the total available to you for the next 12 months. You need to be a federal employee for at least 12 months in order to be entitled to FMLA. We **highly recommend** you discuss FMLA, your unique leave needs, and potential leave options with our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 
 OPM Fact Sheets:
+
 - [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
 - [Definitions of family member and immediate relative](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
 
@@ -204,26 +209,30 @@ You can use up to 13 days (104 hours) per year of your sick leave for bereavemen
 You can receive 3 days (24 hours) of funeral leave to plan or attend services of an immediate relative who has suffered a combat-related death. Additionally, veterans can take funeral leave to participate in a funeral ceremony for a member of the Armed Forces.
 
 OPM Fact Sheets:
+
 - [Leave for funerals and bereavement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-for-funerals-and-bereavement/)
 
 ### Parental bereavement leave
+
 You can receive two weeks (80 hours) of parental bereavement leave for the passing of your child. Contact our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) for assistance.
 
 OPM Policy:
+
 - [Parental Bereavement Leave Memorandum](https://chcoc.gov/content/parental-bereavement-leave)
 
 ### Military leave
 
-You can receive 15 Military Leave days each year for active duty, active duty training, and inactive duty training in the National Guard or as a Reservist. You can carry over a maximum of 15 days into the next fiscal year. 
+You can receive 15 Military Leave days each year for active duty, active duty training, and inactive duty training in the National Guard or as a Reservist. You can carry over a maximum of 15 days into the next fiscal year.
 
-Military Leave will not appear in HR Links until *after* you have requested it for the first time. For a two-week annual training or any other first-use of your 15 paid days, request the leave using `Code 50 - Regular Military Leave`. You and your supervisor won’t see an available leave balance, and HR Links will show an error, but your timecard will process and the leave balance adjustment will be made by Payroll. 
+Military Leave will not appear in HR Links until _after_ you have requested it for the first time. For a two-week annual training or any other first-use of your 15 paid days, request the leave using `Code 50 - Regular Military Leave`. You and your supervisor won’t see an available leave balance, and HR Links will show an error, but your timecard will process and the leave balance adjustment will be made by Payroll.
 
 #### Going on active duty
+
 If you are called to active duty, no matter the length of time, contact the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name. They can help with GSA’s [Checklist for Employees Entering Extended Active Duty](https://www.gsa.gov/forms-library/civilian-employees-entering-extended-active-duty-checklist).
 
 OPM Fact Sheet:
-- [Military Leave Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/military-leave/)
 
+- [Military Leave Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/military-leave/)
 
 ### Disabled veteran leave (DVL)
 
@@ -232,11 +241,13 @@ If you are a veteran with a service-connected disability rating of 30 percent or
 DVL is a one-time benefit: you have a single, 12-month eligibility period, beginning on the first day of your federal employment, in which to use the leave. After that period, it is forfeited with no opportunity to carry over hours.
 
 OPM Fact Sheet:
+
 - [Disabled Veteran Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/disabled-veteran-leave/)
 
 ### Weather and safety leave
 
 You can receive ad hoc “Weather and Safety Leave” if you are prevented from safely working because of an unexpected event such as:
+
 - Weather-related damage to your home that makes occupying the home unsafe
 - Loss of power at home (which makes your home not an approved location under agency telework policies)
 - Not being prepared for teleworking when the conditions could not be anticipated (tornado or earthquake)
@@ -248,6 +259,7 @@ If a supervisor doesn’t hear from you, and suspects you are facing a weather/s
 This leave is entered in HR Links under Administrative Leave `Code 094 - Weather & Safety`. You should include a reason in the `Comments/History` section: for example, `Cook County evacuation order of 9/10/20`. Supervisors can enter the request if you are unable to access HR Links.
 
 ### EAP referrals
+
 The [Employee Assistance Program (EAP)]({{site.baseurl}}/getting-started/classes/benefits/#employee-assistance-program) is a free support resource available to all GSA federal employees. The EAP offers sessions with licensed or credentialed counselors on a variety of topics, including stress, grief, financial issues, addiction, and more.
 
 Supervisors who believe their direct report could benefit from the EAP can make a referral and allow up to 4 hours of work time to be used for pursuing EAP assistance. Supervisors can make informal referrals (verbal), and formal referrals (written, associated with job performance or conduct issues). The EAP publishes a [Supervisor’s Guide](https://drive.google.com/file/d/1uYJ3cWUc3HLUUm5f7baFt_uUpz_-CyIG/view) with detailed information.
