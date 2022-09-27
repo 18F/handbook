@@ -37,7 +37,7 @@ If you plan to permanently move or relocate for longer than 120 days, email [TTS
 
 After receiving your information, PeopleOps will provide step-by-step guidance on how to proceed.
 
-They may need to process a Personnel Action Request (PAR) for you, depending on your unique situation, which can take a few weeks. If you move to a new city or state, you will need to complete a new [Remote Work Analysis Tool](https://drive.google.com/file/d/1iTpdAzn5Jqi4DDk6o-C-hki7Fp-daK3R/view). PeopleOps will provide instructions.
+They may need to process a Personnel Action Request (PAR) for you, depending on your unique situation, which can take a few weeks. If your pay is changing as a result of your move, you will need to complete a new [Remote Work Analysis Tool](https://drive.google.com/file/d/1iTpdAzn5Jqi4DDk6o-C-hki7Fp-daK3R/view). PeopleOps will provide instructions.
 
 Below are a few key things to know.
 
