@@ -268,36 +268,39 @@ Supervisors who believe their direct report could benefit from the EAP can make 
 
 ### Unpaid leave
 
-Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds like. You can request unpaid leave of less than four weeks at any time. 
+Unpaid leave, also called Leave Without Pay (LWOP), is exactly what it sounds like. You can request unpaid leave of less than four weeks at any time.
 
 To take a leave of absence without pay, you’ll need justification and supervisory oversight. For longer periods, you'll also need 2nd level supervisory approval:
+
 - To request 80 hours or less of LWOP, you must get written approval from your immediate supervisor.
-- To request over 80 hours of LWOP,  you must get written approval from your immediate supervisor and Business Unit Director.
+- To request over 80 hours of LWOP, you must get written approval from your immediate supervisor and Business Unit Director.
 
 Once approvals are received, please submit a copy of the email thread to [TTS-peopleops@gsa.gov](mailto:tts-peopleops@gsa.gov).
 
 OPM Fact Sheet:
+
 - [Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status) on Federal Benefits and Programs](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/)
 
 ### Paid Parental Leave
 
-You are entitled to 12 weeks of paid time off for the birth, adoption or placement of a new child. Paid Parental Leave (PPL) substitutes *paid* parental leave for *unpaid* Family and Medical Leave Act (FMLA) leave. You need to be approved for PPL before being able to use it (see steps below).
+You are entitled to 12 weeks of paid time off for the birth, adoption or placement of a new child. Paid Parental Leave (PPL) substitutes _paid_ parental leave for _unpaid_ Family and Medical Leave Act (FMLA) leave. You need to be approved for PPL before being able to use it (see steps below).
 
 You do not need to take all 12 weeks at once; you can space the leave out for up to one year after your child’s birth or placement. This is called intermittent PPL, and it requires supervisor agreement.
 
-Please note: you can only receive 12 workweeks of FMLA-related leave during any 12 month period. If you previously used FMLA within the past 12 months of your parental leave period, those hours would be subtracted from the 12 weeks. 
+Please note: you can only receive 12 workweeks of FMLA-related leave during any 12 month period. If you previously used FMLA within the past 12 months of your parental leave period, those hours would be subtracted from the 12 weeks.
 
-You also need to have been a federal employee for 12 months in order to access Paid Parental Leave.  If you are a new federal employee, check out the  [recommendations for those who have less than 1 year of federal service](https://docs.google.com/document/d/1I82lrWKkJX_t7DocCYkbZSLFpHLLP_HlwXWLgzzLFXk/edit#).
+You also need to have been a federal employee for 12 months in order to access Paid Parental Leave. If you are a new federal employee, check out the [recommendations for those who have less than 1 year of federal service](https://docs.google.com/document/d/1I82lrWKkJX_t7DocCYkbZSLFpHLLP_HlwXWLgzzLFXk/edit#).
 
-You will need to sign an agreement, stating that you will return to work for at least 12 weeks after your final day on PPL. 
+You will need to sign an agreement, stating that you will return to work for at least 12 weeks after your final day on PPL.
+
 - The 12 week agreement is in place regardless of how many weeks of PPL you take.
-- If you take PPL intermittently, the 12 week period still begins after your *final* day of PPL, even if you have been working in between periods of PPL.
+- If you take PPL intermittently, the 12 week period still begins after your _final_ day of PPL, even if you have been working in between periods of PPL.
 
-#### Combining paid parental leave, annual leave, and sick leave 
+#### Combining paid parental leave, annual leave, and sick leave
 
-You can use annual and sick leave for parental leave reasons. This would be *regular* annual leave and *regular* sick leave. Please note, though, that if these *regular* leave options are used without completing the PPL paperwork, the PPL cannot be retroactively applied. 
+You can use annual and sick leave for parental leave reasons. This would be _regular_ annual leave and _regular_ sick leave. Please note, though, that if these _regular_ leave options are used without completing the PPL paperwork, the PPL cannot be retroactively applied.
 
-We **highly recommend** you talk with our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) about recommended ways to combine leave types. 
+We **highly recommend** you talk with our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) about recommended ways to combine leave types.
 
 #### Forms and steps for requesting paid parental leave
 
@@ -307,7 +310,7 @@ Reminder: PDF forms should be downloaded and opened in Adobe Acrobat before you 
 
 1. Complete the [Paid Parental Leave Request form](https://drive.google.com/file/d/1tcdKHQ-m9-B5IltlMP7SP83FdFtvHZCB/view?usp=sharing)
 1. Complete the [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view)
-1. Pull a timesheet report. 
+1. Pull a timesheet report.
 
 Return the three items above to the [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who supports TTS.
 
@@ -315,13 +318,14 @@ Our Workforce Relations HR Specialist reviews and can provide provisional approv
 
 ##### After birth/placement:
 
-1. Send a message (email, text, call, or Slack) to our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit), letting them know the date of birth/placement. 
+1. Send a message (email, text, call, or Slack) to our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit), letting them know the date of birth/placement.
 2. Send supporting documentation to show childbirth, adoption, or foster placement to our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
+
 - For births: get a medical note from a doctor with:
-    - Date of birth
-    - Diagnosis 
-    - Prognosis
-    - Duration - The duration of time for care (how long will parent and/or child need medical care? 6 weeks? 8 weeks?)
+  - Date of birth
+  - Diagnosis
+  - Prognosis
+  - Duration - The duration of time for care (how long will parent and/or child need medical care? 6 weeks? 8 weeks?)
 - Note: This medical note will be used as a supporting document for PPL as well as Advanced Sick Leave and/or VLTP.
 
 - For placements:
@@ -335,7 +339,7 @@ Once you are approved for PPL, you will see a new leave option in HR Links calle
 
 ### Family and Medical Leave Act
 
-The Family and Medical Leave Act (FMLA) entitles you to take up to 12 weeks of *unpaid* leave per 12 month period for the following:
+The Family and Medical Leave Act (FMLA) entitles you to take up to 12 weeks of _unpaid_ leave per 12 month period for the following:
 
 - The birth or care of a child
 - An adoption or foster care placement of a childe
@@ -343,9 +347,10 @@ The Family and Medical Leave Act (FMLA) entitles you to take up to 12 weeks of *
 - Your serious health condition
 - Handling issues (“[exigencies](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/family-and-medical-leave-qualifying-exigency-leave/#:~:text=Qualifying%20exigencies%20arise%20when%20the,order%20to%20covered%20active%20duty)”) that arise when your spouse, child, or parent is on active duty in the Armed Forces.
 
-You can take up to 26 weeks of unpaid FMLA to care for an ill servicemember or veteran, if you are their spouse, child, parent, or next of kin. This is sometimes called [Military Caregiver Leave](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/whdfs28mb.pdf). 
+You can take up to 26 weeks of unpaid FMLA to care for an ill servicemember or veteran, if you are their spouse, child, parent, or next of kin. This is sometimes called [Military Caregiver Leave](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/whdfs28mb.pdf).
 
-Going on FMLA enables you to access Paid Parental Leave (PPL) and to use more of your accrued Sick Leave hours to care for a seriously ill relative (see [Sick Leave]({{site.baseurl}}/travel-and-leave/leave/#sick-leave) section above). But, each time you use FMLA, it counts toward the 12 week allotment. Additionally, the 12 month period is rolling (i.e. it is not based on a calendar year; it is 12 months from when you go into FMLA status). 
+Going on FMLA enables you to access Paid Parental Leave (PPL) and to use more of your accrued Sick Leave hours to care for a seriously ill relative (see [Sick Leave]({{site.baseurl}}/travel-and-leave/leave/#sick-leave) section above). But, each time you use FMLA, it counts toward the 12 week allotment. Additionally, the 12 month period is rolling (i.e. it is not based on a calendar year; it is 12 months from when you go into FMLA status).
+
 - For example: you went on FMLA for 4 weeks in March 2022 to care for a seriously ill family member, and you used your accrued Sick Leave in order to be paid during those 4 weeks. You will only have 8 weeks of FMLA available until March 2023.
 
 We **highly recommend** you discuss your unique leave needs and potential options with our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
@@ -353,6 +358,7 @@ We **highly recommend** you discuss your unique leave needs and potential option
 You can take FMLA if you have been an employee of the federal government for at least 12 months. If you are a former member of the military and/or a military service academy, you can receive credit for your time.
 
 Department of Labor Resource:
+
 - [Family and Medical Leave Act](https://www.dol.gov/agencies/whd/fmla).
 
 ## Donating leave
@@ -428,18 +434,20 @@ Annual Leave and Sick Balances can take up to 3 pay periods to transfer to GSA d
 
 ## Pulling a time sheet report
 
-There are several types of leave that may require you to pull a timesheet report. 
+There are several types of leave that may require you to pull a timesheet report.
 
 Method 1:
-Within the Self-Service view in HR Links, select the **Employee Reports** tile. 
-  - Select **Time Sheet Reports**
-  - Enter the dates for the prior calendar year and select **Run** 
-  - A new tab with a downloadable PDF will open
-   
-Method 2: 
-If you do not have the **Employee Reports** tile, you can navigate to the report as follows: 
-  - Select the compass icon in the top right of the navigation bar
-  - Select **Navigator** > **Self Service** > **Time Sheet Report**
-  - Follow the remaining steps listed above
-  
+Within the Self-Service view in HR Links, select the **Employee Reports** tile.
+
+- Select **Time Sheet Reports**
+- Enter the dates for the prior calendar year and select **Run**
+- A new tab with a downloadable PDF will open
+
+Method 2:
+If you do not have the **Employee Reports** tile, you can navigate to the report as follows:
+
+- Select the compass icon in the top right of the navigation bar
+- Select **Navigator** > **Self Service** > **Time Sheet Report**
+- Follow the remaining steps listed above
+
 For assistance on running a report, reach out to [TTS-peopleops@gsa.gov](mailto:tts-peopleops@gsa.gov).
