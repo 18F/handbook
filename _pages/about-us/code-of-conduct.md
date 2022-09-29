@@ -4,15 +4,6 @@ redirect_from:
   - /code-of-conduct/
 ---
 
-
-
-
-
-
-
-
-
-
 ## Introduction
 
 TTS is committed to building a safe, welcoming, harassment-free culture for everyone. We do not merely want a work environment that is free from hostility; we want one that is actively welcoming and inclusive. We want our team and our workplace culture to reflect and celebrate the diversity of the communities we serve.
