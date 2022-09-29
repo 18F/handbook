@@ -361,76 +361,118 @@ Department of Labor Resource:
 
 - [Family and Medical Leave Act](https://www.dol.gov/agencies/whd/fmla).
 
-## Donating leave
+## Donating leave and receiving donated leave
 
-Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) (VLTP), a covered employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave. If you wish to donate annual leave, you will need to use MAX.gov to access the [VLTP](https://vltp.gsa.gov/) system following the steps below:
-
-If your gsa.gov email address is not registered with MAX.gov, you will need to register at the OMB MAX.gov homepage:
-
-- Select the "Register Now" button at the top right of that homepage and follow [these instructions](https://corporateapps.gsa.gov/wordpress/wp-content/uploads/2019/08/VLTP_AccessLogin_2019.pdf) to register your PIV card and enable login (or use the email option if you don't yet have a PIV card reader)
-- Go to [https://vltp.gsa.gov/](https://vltp.gsa.gov/) and follow the instructions below for registered users
-
-If you are a registered MAX.gov user:
-
-- Go to [https://vltp.gsa.gov/](https://vltp.gsa.gov/) and log in using your PIV card or GSA email with 2-factor authentication
-- You will be taken to the GSA Payroll System VLTP page
-- Click the button on the bottom to “Donate Annual Leave Hours To A Shared Leave Recipient”
-- Follow the system prompts to donate leave (select "General Services Administration" as the agency and "0 - Central Office" as the region)
-
-If you have any questions, please email our [Leave Policies contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) in the Office of Human Resources Management. Also, don’t hesitate to ask in #parental-leave in Slack.
-
-If the system gives you an error, try submitting through the [Citrix VDI]({{site.baseurl}}/tools/virtual-desktop/#logging-into-the-citrix-vdi) using Internet Explorer.
-
-If the system is down, you can submit donation requests directly to Lakita Rivero (lakita.rivero@gsa.gov).
+Under the Voluntary Leave Transfer Program (VLTP), you can donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave. Review the [VLTP Handbook page]({{site.baseurl}}/travel-and-leave/voluntary-leave-transfer-program/) for instructions.
 
 ## Advanced leave
 
 ### Advanced annual leave
 
-An employee may only take advanced annual leave in the amount they will earn back by the end of the current [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/), and the advanced leave may not exceed 80 hours.
+You can only take advanced annual leave in the amount that you would earn back by the end of the current [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/), and you cannot request more than 80 hours.
 
-Please note: You may receive an exception in HRLinks that "temporary appointment employees cannot be advanced annual leave." Policy allows the approval of advance leave for employees on limited appointments, but the amount of advance leave approved must not exceed the NTE or end of the leave year. The system will always give you an exception message when your leave balance is in the negative. When your supervisor goes into the system to approve your time, it is their responsibility to make a remark in the comment box noting their approval of advance leave.
+For example: It is June 19th, 2022, and the [2022 Leave Year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/) ends on December 31st. You earn 6 annual leave hours per pay period and there are 14 pay periods left until December 31st. You will earn 84 more annual leave hours (13 pay periods x 6 hours per pay period). Therefore, you can request the 80 maximum advanced annual leave hours.
+
+#### Requesting advanced annual leave in HR Links
+You will enter your annual leave requests like normal: there is not a special category.  HR Links will display an error message on your timesheet. When your supervisor goes into the system to approve your timesheet, it is their responsibility to make a remark in the comment box noting their approval of advance leave.
+
+Please note: if you are a term employee, you may see an error in HR Links that “temporary appointment employees cannot be advanced annual leave.” You *are* allowed to have advanced leave; however, you cannot borrow more leave than you would earn by the end of your term.
+
+OPM Fact Sheets:
+- [Leave Year Beginning and Ending Dates](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/)
+- [Advanced Annual Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-annual-leave/)
+
+Timesheet error example:
 
 ![Screenshot reflecting negative leave balance exception]({{site.baseurl}}/images/leave/Advanced Leave timesheet exception.png)
 
-You can find Leave Year beginning and end dates in this Office of Personnel Management (OPM) [fact sheet](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/).
-
 ### Advanced sick leave
 
-In cases of serious disability or ailment, and when the exigencies of the situation so require, an employee may take advanced sick leave in an amount not to exceed 30 work days (240 hours). This advance may be granted whether or not the employee has any annual leave to their credit except where an application for disability retirement has been submitted to the Office of Personnel Management.
+You can request up to 240 hours of advanced sick leave. If you are a term employee, you can request up to the total amount that you’ll earn during the rest of your term.
 
-**For employees** **serving under a limited appointment (term appointments) or one which will be terminated on a specified date, they may be advanced sick leave up to the total amount of sick leave which would otherwise be earned during the term of that appointment.**
+For example:  You have one year left on your term, which equals to 26 pay periods. You earn 4 sick leave hours per pay period. You will earn 104 more sick leave hours (26 pay periods x 4 hours per pay period). Therefore, you can request up to 104 advanced sick leave hours. 
 
-### Additional advanced leave resources
+#### Advanced sick leave approval
+To get approval for advanced sick leave, you will need to submit the following paperwork and get signatures from your supervisor and their supervisor. Your supervisors should keep signed copies for their records:
 
-- [Fact Sheet: Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)
-- [Insite: Advanced Leave](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/leave/types-of-paid-leave?term=#Advanced)
+1. [Advanced Sick Leave Request signature form](https://docs.google.com/document/d/1zxQN5c4ZRMcxN7u5hcM3LFEURZLuoHLIBwGOKEzldqk/edit#) 
+2. An original medical certification signed by the physician or practitioner
+3. A copy of your timesheet report for the current and previous year
+4. A written explanation of the circumstances which have caused your sick leave to be exhausted
 
-## Court leave (including jury duty)
+#### Entering advanced sick leave in HR Links
+You will enter your sick leave requests like normal: there is not a special category.  HR Links will display an error message on your timesheet. When your supervisor goes into the system to approve your timesheet, it is their responsibility to make a remark in the comment box noting their approval of advanced leave.
 
-- Authorized absence without charge to leave or pay
-- Must be officially requested to serve in a judicial proceeding to which the Federal, a state, or local government is party
-- Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/);
+Please note: if you are a term employee, you may see an error in HR Links that “temporary appointment employees cannot be advanced sick leave.” You *are* allowed to have advanced leave.
 
-## Administrative leave
+OPM and GSA Fact Sheets:
+- [Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)
+- [GSA InSite: Advanced Leave](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/leave/types-of-paid-leave?term=#Advanced)
 
-There are several other types of short-term leave available for reasons such as voting or blood donation. A more complete list of administrative leave reasons can be found [on Insite](https://insite.gsa.gov/topics/hr-pay-and-leave/pay-and-leave/leave/types-of-paid-leave#Other%20Types)
+## Court leave (jury duty)
+
+When you are called to jury duty, your absence is marked as Court Leave and does not count against any of your other leave balances.
+
+You would also request court leave if you are asked to serve as a witness in a judicial proceeding to which the Federal government, a state government, or a local government is a party.
+
+To report Court Leave, follow the typical steps for [Entering a leave request in HR Links]({{site.baseurl}}/travel-and-leave/leave/#entering-a-leave-request).
+
+OPM Fact Sheet:
+- [Court Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/court-leave/)
+
+## Voting and poll volunteering
+
+You can receive Administrative Leave in order to vote, register to vote, and/or participate in early voting. 
+
+You can receive up to 4 hours for each election event. This includes primaries and caucuses, at the federal, state, local (i.e., county and municipal), tribal, and territorial level. 
+
+You should only enter the number of hours actually used, i.e. if you need less than 4, enter the appropriate amount in HR Links.
+
+You are also able to receive 4 hours of Administrative Leave per leave year to serve as a non-partisan poll worker or to participate in non-partisan observer activities. You can volunteer in an election at any level, as listed above. This leave is in addition to any administrative leave you use to vote.
+
+OPM Memorandum:
+- [Executive Order on Promoting Access to Voting](https://chcoc.gov/content/executive-order-promoting-access-voting)
+
+## Blood, bone marrow, and organ donation
+
+You can access up to 7 days of Administrative Leave during a calendar year to serve as a bone marrow donor, and up to 30 days serve as an organ donor.
+
+You can also be granted up to 4 hours of Administrative Leave for blood donation.
+
+OPM Fact Sheets:
+- [Administrative Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/administrative-leave/)
+- [Bone Marrow or Organ Donor Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/bone-marrow-or-organ-donor-leave/)
 
 ## Religious observance
 
-Adjusting work schedules for religious observances is handled differently than leave. If you need to miss regular work hours for religious observance, you should notify your supervisor in writing in advance of the time you'll need to miss, along with the schedule of the time you will work outside of normal hours to compensate. For details, please see the relevant [OPM policy](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/).
+You can request an adjustment to your work schedule for religious observances, instead of taking leave. Document your request to your supervisor, via email, in advance of the time you’ll need to miss, along with the schedule of the time you will work outside of normal hours to compensate. 
+
+### Religious comp time in HR Links
+You will need to document the extra hours you’re working in HR Links, and then enter a leave request for the dates when you use the hours earned.
+
+#### Entering the religious comp time hours you are working outside of your normal schedule
+1. Go to the **Employee Time Requests** tile
+1. Select **Additional Time Requests**
+1. Select **Request Comp Time**
+1. Under the **Additional Time Type** dropdown, select **Religions Comp Earned**
+1. Enter in the date(s) and hour(s) when you will be working extra time. 
+1. Click **Submit**
+
+#### Requesting leave in order to use the hours that you’ve banked
+Follow the typical steps for [Entering a leave request in HR Links]({{site.baseurl}}/travel-and-leave/leave/#entering-a-leave-request). Under the search for Absence Type, select `047 - Religious Comp Used`. 
+
+OPM Fact Sheet:
+- [Adjustment of Work Schedules for Religious Observances](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/)
 
 ## Time tracking
 
-Billable TTS employees taking planned leave should follow guidance to [Tock when on leave]({{ site.baseurl }}/tools/tock/#tocking-for-out-of-office-time). For unplanned leave such as sudden illness or family emergency, do what you can to contact your supervisor, and they can help manage the rest on your behalf.
+Billable TTS employees taking leave should follow the Handbook guidance on [how to Tock when on leave]({{ site.baseurl }}/tools/tock/#tocking-for-out-of-office-time).
 
-[HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's out of office request system and is separate from [Tock]({{ site.baseurl }}/tock), which is TTS' own timekeeping system. If you're taking time off, you'll need to make sure you're accounted for in both systems.
-
-For more information on leave, see the [Benefits class]({{site.baseurl}}/getting-started/classes/benefits/) and the [GSA Tools and Equipment class]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/).
+Reminder: HR Links is separate from Tock. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
 
 ## Transferring leave from another federal agency
 
-Annual Leave and Sick Balances can take up to 3 pay periods to transfer to GSA depending on the speed of your previous payroll provider. If you have your final Earnings and Leave Statement available from your previous agency, you can send a copy to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) to expedite the process.
+Annual leave and sick leave balances can take a *significant* amount of time to transfer to GSA, depending on the speed of your previous payroll provider. If you have your final Earnings and Leave Statement (pay stub) from your previous agency, you can send a copy to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) to expedite the process.
 
 ## Pulling a time sheet report
 
