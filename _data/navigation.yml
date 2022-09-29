@@ -98,7 +98,7 @@ primary:
         url: travel-and-leave/leave/#leave-checklist
         internal: true
       - text: Paid Parental Leave
-        url: travel-and-leave/leave/#federal-employee-paid-leave-act-paid-parental-leave
+        url: travel-and-leave/leave/#paid-parental-leave
         internal: true
       - text: Travel guide (table of contents)
         url: travel-and-leave/travel-guide-table-of-contents/
