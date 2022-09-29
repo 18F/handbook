@@ -21,12 +21,12 @@ jobs:
           include: "\\.md"
           exclude: "\\.git/|(README|CONTRIBUTING)\\.md"
 
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          default_author: github_actions
-          message: Replace absolute links to Handbook
-          push: false
+      # - name: Commit changes
+      #   uses: EndBug/add-and-commit@v7
+      #   with:
+      #     default_author: github_actions
+      #     message: Replace absolute links to Handbook
+      #     push: false
 
       - uses: actions/setup-node@v1
         with:
@@ -36,26 +36,28 @@ jobs:
         run: npm install
 
       - name: Format sources files
-        run: |
-          npm run lint
-          git add "*.md"
+        run: npm run lint
+        # run: |
+        #   npm run lint
+        #   git add "*.md"
 
-      - name: Check that all the code is formatted.
-        run: git diff --exit-code --cached
+      # - name: Check that all the code is formatted.
+      #   run: git diff --exit-code --cached
 
       - name: Commit changes
-        if: failure()
+        # if: failure()
+        id: commit
         uses: EndBug/add-and-commit@v7
         with:
           default_author: github_actions
-          message: Format files
+          message: format files
 
-      - name: Display status should be clean
-        if: success()
-        run: git status
+      # - name: Display status should be clean
+      #   if: success()
+      #   run: git status
 
       - uses: actions/github-script@0.3.0
-        if: failure()
+        if: ${{ steps.commit.outputs.committed == 'true' }} # failure()
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
