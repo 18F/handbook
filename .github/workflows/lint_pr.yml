@@ -13,15 +13,22 @@ jobs:
       - uses: actions/setup-ruby@e932e7af67fc4a8fc77bd86b744acd4e42fe3543
         with:
           ruby-version: 2.7
+      - uses: actions/cache@d1255ad9362389eac595a9ae406b8e8cb3331f16
+        id: depcache
+        with:
+          path: vendor/bundle
+          key: dependencies-${{ runner.os }}-${{ hashFiles('Gemfile.lock') }}-v1
       - name: install dependencies
-        run: bundle install --jobs=4 --retry=3
+        run: |
+          bundle config set path vendor/bundle
+          bundle install --jobs=4 --retry=3
       - name: check for proper internal links
         run: |
           ! (grep -Erl "\(/|href=['\"]/" _pages && echo "ERROR: Internal links must be prefixed with {{site.baseurl}} to work correctly with Federalist Previews. Fix the above pages.")
       - name: build the site
         run: bundle exec jekyll build
       - name: run Ruby tests
-        run: bundle exec ruby test/sites.rb
+        run: bundle exec ruby test/site.rb
       - name: check for broken links
         run: bundle exec htmlproofer ./_site htmlproofer --disable-external
         
