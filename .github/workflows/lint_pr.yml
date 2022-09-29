@@ -14,7 +14,7 @@ jobs:
         with:
           ruby-version: 2.7
       - name: install dependencies
-        run: bundle install --jobs=4 --retry=3 --path vendor/bundle
+        run: bundle install --jobs=4 --retry=3
       - name: check for proper internal links
         run: |
           ! (grep -Erl "\(/|href=['\"]/" _pages && echo "ERROR: Internal links must be prefixed with {{site.baseurl}} to work correctly with Federalist Previews. Fix the above pages.")
