@@ -6,7 +6,7 @@ jobs:
   check-links:
     name: veryify links
     runs-on: ubuntu-latest
-    environment:
+    env:
       LANG: C.UTF-8
     steps:
       - uses: actions/checkout@v2
