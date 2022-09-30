@@ -37,19 +37,13 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Opportunities open to the public
 
-[TTS Designer ](https://join.tts.gsa.gov/join/tts-designer/)- open Tuesday, June 14th, 2022 through Tuesday, June 13, 2023. This posting will be open for 1 year or until all selections have been made which may occur prior to the closing date.
+[TTS Designer (GS14/15)](https://join.tts.gsa.gov/join/tts-designer/) - open Thursday, September 22nd, 2022 through Thursday, September 21st, 2023 or until all selections have been made
+
+[18F Acquisition Strategist](https://docs.google.com/document/d/1XLVCJb_yqrjKWMTgqyF6JrooFWAZp3E2mAGtaiXbuKU/edit?usp=sharing) - GSA wide DHA posting is open until 2/15/2023 however for this vacancy the hiring manager will request a list of applicants that have applied between 9/29/2022 through 10/11/2022.
 
 ### Internal only opportunities
 
-[18F Account Manager Reassignment ](https://docs.google.com/document/d/1Pief-knr_OH16qmBaQuFgyHkNNELxBOED5yyCPXlwg0/edit)- open Friday, August 5th through Wednesday, August 17th
-
-<!--StartFragment-->
-
-[Digital Analytics Program Manager Detail](https://docs.google.com/document/d/1YlII1qn6BVO_8ggt1QH68OnL9Akanige-W8jbMLiIpA/edit) - open Tuesday, August 9th through Tuesday, August 16th
-
-<!--EndFragment-->
-
-[TTS Outreach Lead](https://docs.google.com/document/d/1LVxVH0PBMy02AZVEGbN7xU0cL4xPWGMm6J8ZtpVxNRE/edit#heading=h.24n8tbl6yszs) - open Monday, August 15th through Friday, August 26th
+[eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit?usp=sharing)-Open Tuesday, September 13th through Tuesday, October 25th
 
 ## Opportunities with partners
 

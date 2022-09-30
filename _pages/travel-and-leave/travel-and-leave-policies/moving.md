@@ -35,7 +35,11 @@ If you plan to permanently move or relocate for longer than 120 days, email [TTS
 - The effective date for your move. The effective date needs to be the start of a pay period. You can find pay period dates via [GSA’s Payroll Calendar page](https://www.gsa.gov/buy-through-us/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars).
 - Whether you are a Remote Worker (you always work from home) or a Routine Teleworker (onsite flexible: you go into an office two times or more per pay period). If you don’t know your status, tell us that.
 
-After receiving your information, PeopleOps will provide step-by-step guidance on how to proceed. They may need to process a Personnel Action Request (PAR) for you, depending on your unique situation, which can take a few weeks. Below are a few key things to know.
+After receiving your information, PeopleOps will provide step-by-step guidance on how to proceed.
+
+They may need to process a Personnel Action Request (PAR) for you, depending on your unique situation, which can take a few weeks. If your pay is changing as a result of your move, you will need to complete a new [Remote Work Analysis Tool](https://drive.google.com/file/d/1iTpdAzn5Jqi4DDk6o-C-hki7Fp-daK3R/view). PeopleOps will provide instructions.
+
+Below are a few key things to know.
 
 ## Updating your address & notifying benefits companies
 

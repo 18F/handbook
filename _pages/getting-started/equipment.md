@@ -7,21 +7,25 @@ redirect_from:
   - /equipment/
 ---
 
-GSA issues every TTS employee a badge, laptop, and phone. Your MacBook should be ready before your first day, but your phone may not be. The Operations Team submits phone requests to IT on your behalf, and you'll receive a confirmation email within a few weeks when your phone is ready for pickup.
+GSA issues every TTS employee a badge, laptop, and phone. Your laptop should be ready before your first day, but your phone may not be.
 
-This page is generally about Macs. If you have a Windows device, see [InSite](https://insite.gsa.gov/) / [Service Now](https://gsa.servicenowservices.com/) for more information.
+The Onboarding Team submits your new hire account request, which includes your badge, phone, and laptop. Your laptop and phone will be shipped to your home address on file.
 
 ## Distributed employees
 
-Badges are shipped to your local GSA office. You will receive an email once your badge has been shipped. At that point, you can make an appointment to pick it up. Your badge may be available during your orientation -- send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) to save yourself a trip. You may also ask your orientation leader to show you where to pick it up.
+Badges are shipped to your local GSA badging office. You will receive an email once your badge is available for pick-up. At that point, you will be prompted to make an appointment. Send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) if you have any questions regarding your badge.
 
 ## Laptop
 
-Most TTS employees are issued an Apple MacBook Air/Pro computer. Note that this is not the norm for GSA. See [information about using PIV card readers]({{site.baseurl}}/piv/).
+Your supervisor will determine if you need a MacBook Pro or PC laptop. In the past, most TTS employees have been issued an Apple MacBook Pro computer, but recently due to supply chain shortages as well as a few other factors, TTS does not have the current inventory to give each new hire a MacBook at this time.
 
-### Operating System
+The Onboarding Team will send you information (including your laptop tracking number) prior to your first day.
 
-Your laptop will come preloaded with the latest, GSA-approved/supported Mac operating system. Please wait to do any operating system upgrades (including patches) until notified by GSA IT.
+See [information about using PIV card readers with GSA-issued MacBooks]({{site.baseurl}}/piv/).
+
+### MacBook Operating System
+
+Your MacBook will come preloaded with the latest, GSA-approved/supported operating system. Please wait to do any operating system upgrades (including patches) until notified by GSA IT.
 
 ### Rules
 
@@ -60,11 +64,13 @@ If GSA IT doesn't have any availble inventory to issue a loaner, please [contact
 
 ### Admin rights
 
-See the [**procedures to request admin rights**](https://docs.google.com/document/d/1xepZsh83lxPDykrb1NXoeHxj8m78qsdW-9KqzO_CHOQ/edit).
+For new hires receiving a MacBook, the onboarding team will submit a request for Mac admin rights for all new hires who require them, per supervisor request.
+
+For current TTS employees, see the [**procedures to request admin rights**](https://docs.google.com/document/d/1xepZsh83lxPDykrb1NXoeHxj8m78qsdW-9KqzO_CHOQ/edit).
 
 #### Prompts
 
-If you are getting a prompt to upgrade desktop software (`<software> wants to make changes`), try reinstalling the given piece of software through [Self Service]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#self-service). If not available there or if not related to updating software, [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
+If you are getting a prompt to upgrade desktop software (`<software> wants to make changes`), try reinstalling the given piece of software through [Self Service]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#self-service). If the software is not available there, please [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 
 ### XCode command line tools
 
@@ -72,7 +78,7 @@ XCode command line tools can be installed or upgraded through [Self Service]({{s
 
 ## Phone
 
-TTS employees are issued an Apple iPhone. The TTS Talent Team will already have submitted a request to GSA IT for your work phone before you join TTS. Within a few weeks of starting at TTS, you should receive a confirmation email letting you know that your phone is ready for pickup. If you work in an office besides D.C. or are remote, please contact the [Talent Team](mailto:tts-talentteam@gsa.gov) when you receive this email and a team member have your phone mailed to you.
+All TTS employees are issued an Apple iPhone. Prior to joining, the TTS Onboarding Team will submit a ticket via the GSA IT Service Desk for new hires to receive a work phone. It will be shipped via UPS and require signature upon delivery. It will arrive within your first few weeks. There will be instructions, along with a phone number for you to call, for assistance with activating your iPhone.
 
 ### Rules
 
@@ -106,19 +112,19 @@ See the [software]({{site.baseurl}}/software/) page.
 
 ## Peripherals
 
-If you are based in an office, you can check out mice, keyboards, and trackpads to assist you in your work. They are already available, so there is no need to make a purchase request. Ask in the Slack channel corresponding to your office.
+Upon request and subject to availability, GSA IT will provide peripheral equipment to any GSA employees who requests it. To request peripheral equipment, please submit an [IT ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=4c1a24391b1349107adac808624bcb50&sysparm_category=0d89b52fdb1e33400dc9ff621f9619a5) for a remote workers home kit. The kit typically includes: a monitor, keyboard, mouse, headset, and hub to provide additional connectivity.
 
-GSA IT will provide peripherals such as: Wired keyboard, Wired mouse, and monitors ONLY if the users are using them in the office. Note: GSA IT does not provide wireless peripherals. Wireless peripherals can be purchased by the business unit.
+Please note, GSA IT does not provide wireless peripherals. Wireless peripherals can be purchased by the business unit, but only upon TTS leadership approval.
 
-In order to obtain standard issued hardware, the requestor must contact the IT Service Desk or open a ServiceNow ticket. For non-standard IT equipment, requestors must complete and submit an [Exception Waiver](https://insite.gsa.gov/employee-resources/information-technology/it-assistance-and-help-desk/service-catalog/exception-waiver-request-process-for-nonstandard-equipment-and-macintosh?term=exception%20waiver) for review and approval.
+If your business unit is willing to pay for peripherals beyond what is included as part of GSA's remote workers home kit, you will need to submit a [micropurchase request]({{site.baseurl}}/purchase-requests/) which will be reviewed by a TTS purchase card holder. Please note that you will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form.
 
-GSA IT will NOT provide peripherals to telework users that are using them at home or at a remote location. However, the users can purchase that on their own or provided by the business unit. There are no specific brands that GSA recommends.
-
-If you need wireless peripherals for the office or your business unit is willing to pay for peripherals, submit a [micropurchase request]({{site.baseurl}}/purchase-requests/) and it will be reviewed by the TTS purchase card holder. Please note that you will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form.
+In order to obtain standard issued hardware, the requestor must contact the IT Service Desk or open a [ServiceNow ticket](https://gsa.servicenowservices.com/). For non-standard IT equipment, requestors must complete and submit an [Exception Waiver](https://insite.gsa.gov/employee-resources/information-technology/it-assistance-and-help-desk/service-catalog/exception-waiver-request-process-for-nonstandard-equipment-and-macintosh?term=exception%20waiver) for review and approval.
 
 ### Printers
 
-If you need to setup a printer follow the instructions [here](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology?term=printer%20driver#Print).
+A separate justification process is required for printer requests. If you believe you have a business justification for a home printer, please discuss with your supervisor. This request will require approval from your supervisor and the head of your division. To submit a waiver for a printer, please complete a [Non-Standard Equipment Request](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=ed419ee8dbd2e7000dc9ff621f9619c6) via the GSA IT Service Desk.
+
+If you need to setup a printer while in the office, follow the instructions [here](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology?term=printer%20driver#Print).
 
 ## Equipment to accommodate disability
 
@@ -131,7 +137,7 @@ To purchase this type of equipment, attach a doctor's note. If you have question
 
 ## Repairs
 
-For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
+For issues with any GSA-provided hardware (such as laptops or phones), [contact the GSA IT Service Desk]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk). If you have a GSA-issued MacBook, please note that in your IT ticket.
 
 If your ticket gets stuck, follow [the escalation instructions]({{site.baseurl}}/getting-started/classes/gsa-internal-tools/#it-service-desk).
 

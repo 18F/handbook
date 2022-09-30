@@ -53,7 +53,7 @@ For most 18F projects, these tasks, when completed, help ensure successful proje
 
 ### Beginning of Project
 
-- Facilitate creation of a [team charter](https://docs.google.com/document/d/1Sv88PKdsfd0riLpfF1kB2oNn7f330eXcgXuG2ZSVoAs/edit), including how decisions will be made and how the team will navigate disagreement
+- Facilitate creation of a [team charter](https://docs.google.com/document/d/1N_EtkfGGdvyIfsxblSjKo5m4UI82mAkPNmyMcoZhS2g/edit?usp=sharing), including how decisions will be made and how the team will navigate disagreement
 - Identify stakeholder accessibility needs for project work (in collaboration tools and deliverables)
   - If artifacts (e.g. RFQs, final reports, decks) should be durable over time, consider budgeting time to make them accessible (use [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) if the team doesn't have this ability)
 - Ensure sprint planning, review, and other recurring meetings are scheduled
@@ -79,7 +79,7 @@ For most 18F projects, these tasks, when completed, help ensure successful proje
 - Every two weeks: Conduct an internal team retrospective
 - Ensure midpoint and other higher-profile presentations are rehearsed or otherwise well prepared
 - Work with account manager and staffing team when project team identifies a need for a shift in staffing
-- Onboard new team members to the project, as needed, including revisiting team charter with full team
+- Onboard new team members to the project, as needed, including revisiting [team charter](https://docs.google.com/document/d/1N_EtkfGGdvyIfsxblSjKo5m4UI82mAkPNmyMcoZhS2g/edit?usp=sharing) with full team
 - Periodically: Check in on equitable distribution of administrative tasks among team members: re-balance as necessary
 - Add to and organize the project’s Drive folder
 - [Get support](#how-do-project-leads-and-team-members-get-support) in cases where team has trouble resolving disagreement or with other project issues
@@ -109,7 +109,7 @@ Tailor your approach based on the project and partner’s needs. Historically, t
 - In the case of [projects in distress, review alternative solutions: pivot, pause or stop the engagement]({{site.baseurl}}/18f/projects-partners/projects-in-distress/)
 - Conduct, document, and post a Project Reflection at the end of the project (or every 3-4 months for longer projects). Request a facilitator from outside the project in [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW)
   so everyone on the project team can fully participate.
-- Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrEP5QMoxFTrCiTJ).
+- Share re-usable or example tools, presentations, docs, etc. via the [Project Resource Library submission form](https://airtable.com/shrg8FScJQSJlXwtv).
 
 ## Why you might want to lead a project
 
