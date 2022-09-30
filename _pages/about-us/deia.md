@@ -9,10 +9,6 @@ questions:
   - g-accessibility
 ---
 
-
-
-
-
 > Diversity, equity, inclusion, and accessibility are the fabric of a healthy
 > democracy and innovation.
 >
