@@ -1,11 +1,47 @@
-name: Format Pull Request via Prettier
-# Source: https://github.com/dylanirlbeck/tailwind-ppx/blob/master/.github/workflows/lint_pr.yml
+name: pull request
 
 on: [pull_request]
 
 jobs:
+  check-links:
+    name: veryify links
+    runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-ruby@e932e7af67fc4a8fc77bd86b744acd4e42fe3543
+        with:
+          ruby-version: 2.7
+
+      - uses: actions/cache@d1255ad9362389eac595a9ae406b8e8cb3331f16
+        id: depcache
+        with:
+          path: vendor/bundle
+          key: dependencies-${{ runner.os }}-${{ hashFiles('Gemfile.lock') }}-v1
+
+      - name: install dependencies
+        run: |
+          bundle config set path vendor/bundle
+          bundle install --jobs=4 --retry=3
+
+      - name: check for proper internal links
+        run: |
+          ! (grep -Erl "\(/|href=['\"]/" _pages && echo "ERROR: Internal links must be prefixed with {{site.baseurl}} to work correctly with Federalist Previews. Fix the above pages.")
+
+      - name: build the site
+        run: bundle exec jekyll build
+
+      - name: run Ruby tests
+        run: bundle exec ruby test/site.rb
+
+      - name: check for broken links
+        run: bundle exec htmlproofer ./_site htmlproofer --disable-external
+
   lint:
-    name: Format code
+    needs: [check-links]
+    name: format code
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -13,20 +49,13 @@ jobs:
           # Use the branch commit instead of the PR merge commit
           ref: ${{ github.event.pull_request.head.sha }}
 
-      - name: Replace absolute links to Handbook
+      - name: replace absolute links to Handbook
         uses: jacobtomlinson/gha-find-replace@0.1.4
         with:
           find: "\\]\\(https?://handbook\\.tts\\.gsa\\.gov"
           replace: "]({{site.baseurl}}"
           include: "\\.md"
           exclude: "\\.git/|(README|CONTRIBUTING)\\.md"
-
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          default_author: github_actions
-          message: Replace absolute links to Handbook
-          push: false
 
       - uses: actions/setup-node@v1
         with:
@@ -35,27 +64,19 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Format sources files
-        run: |
-          npm run lint
-          git add "*.md"
+      - name: format markdown
+        run: npm run lint
 
-      - name: Check that all the code is formatted.
-        run: git diff --exit-code --cached
-
-      - name: Commit changes
-        if: failure()
+      - name: commit changes, if necessary
+        id: commit
         uses: EndBug/add-and-commit@v7
         with:
           default_author: github_actions
-          message: Format files
+          message: format files
 
-      - name: Display status should be clean
-        if: success()
-        run: git status
-
-      - uses: actions/github-script@0.3.0
-        if: failure()
+      - name: leave a comment, if necessary
+        uses: actions/github-script@0.3.0
+        if: steps.commit.outputs.committed == 'true'
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
