@@ -14,21 +14,35 @@ See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-
 
 ## Channels
 
-- [\#news](https://gsa-tts.slack.com/messages/news/) - [TTS-wide announcements]({{site.baseurl}}/office-of-operations/outreach/#how-to-make-tts-wide-announcements)
+- [#welcome-to-tts](https://gsa-tts.slack.com/archives/C025AQGBC) - [How to make TTS-wide announcements]({{site.baseurl}}/office-of-operations/outreach/#how-to-make-tts-wide-announcements)
 - Teams
 
-  - 18F - [\#news-18f](https://gsa-tts.slack.com/messages/news-18f/) for all 18F-level announcements
-  - [Solutions](https://gsa-tts.slack.com/messages/solutions/)
-  - [PIFs](https://gsa-tts.slack.com/messages/pifs/)
-  - [Office of Acquisition](https://gsa-tts.slack.com/messages/tts-oa/)
+  - [#10x](https://gsa-tts.slack.com/archives/C2RDJ3SGP)
+  - [#18f-news](https://gsa-tts.slack.com/archives/C7K4ELC3E) for 18F-level announcements <br /> [#18f](https://gsa-tts.slack.com/archives/C0XUF8XL1) for 18F chat
+  - [#centers-of-excellence](https://gsa-tts.slack.com/archives/C5HNZUCJ3)
+  - [#digital-corps](https://gsa-tts.slack.com/archives/C02383G5M8R)
+  - [#login](https://gsa-tts.slack.com/archives/C5AUR5XUK)
+  - [#max-gov](https://gsa-tts.slack.com/archives/C018T9HSWFK)
+  - [#outreach](https://gsa-tts.slack.com/archives/C03CPV8KK)
+  - [#people-ops](https://gsa-tts.slack.com/archives/C047LSLTU)
+  - [#pifs](https://gsa-tts.slack.com/archives/C02MPFNHQ) Presidential Innovation Fellows
+  - [#public-benefits](https://gsa-tts.slack.com/archives/C79SPEB7S)
+  - [#solutions](https://gsa-tts.slack.com/archives/C1ZPQUJNA)
+  - [#strategic-partnerships](https://gsa-tts.slack.com/archives/C0185RZN9RP)
+  - [#tts-oa](https://gsa-tts.slack.com/archives/CD4F3TGB1) Office of Acquisition
+  - [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S)
+  - [#vote-gov](https://gsa-tts.slack.com/archives/C146DQMG9)
+
 
 - Locations
 
-  - [chitown](https://gsa-tts.slack.com/messages/chitown/)
-  - [dc](https://gsa-tts.slack.com/messages/dc/)
-  - [nyc](https://gsa-tts.slack.com/messages/nyc/)
-  - [sf](https://gsa-tts.slack.com/messages/sf/)
-  - [distributed](https://gsa-tts.slack.com/messages/distributed/)
+  - [#chitown](https://gsa-tts.slack.com/archives/C02MF8HLY)
+  - [#dc](https://gsa-tts.slack.com/archives/C02AJ3H3K)
+  - [#mass-bay](https://gsa-tts.slack.com/archives/C2674JFU0)
+  - [#nyc](https://gsa-tts.slack.com/archives/C02QMCW2V)
+  - [#philadelphia](https://gsa-tts.slack.com/archives/C02HKVCS8)
+  - [#sf](https://gsa-tts.slack.com/archives/C02AJ3W15)
+  - [#distributed](https://gsa-tts.slack.com/archives/C048U16QP)
 
 See a list of other popular channels in the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.b0dsxkh3r8wi) guide.
 
@@ -84,6 +98,8 @@ Here are some emoji that are commonly used across TTS as shorthand, often added 
 - **Use [snippets](https://slack.com/help/articles/204145658-Create-a-snippet) or [posts](https://slack.com/help/articles/203950418-Use-posts-in-Slack) to share large chunks of text.**
 - **[Change your theme.](https://slack.com/help/articles/205166337-Change-your-Slack-theme)** Use the following colors for the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) custom theme: `#112E51`, `#205493`, `#0071BC`, `#FFFFFF`,`#323A45`, `#FFFFFF`, `#4AA564`, `#981B1E`
 - **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
+
+There are some additional tips and screenshots in these [Slack training notes](https://gsa.enterprise.slack.com/files/T025AQGAN/FQ46XKBMZ?origin_team=T025AQGAN) from Greg Walker (3/23/2022).
 
 ## Additional shortcuts
 
