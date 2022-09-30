@@ -13,7 +13,7 @@ The Onboarding Team submits your new hire account request, which includes your b
 
 ## Distributed employees
 
-Badges are shipped to your local GSA office. You will receive an email once your badge is available for pick-up. At that point, you will be prompted to make an appointment. Send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) if you have any questions regarding your badge.
+Badges are shipped to your local GSA badging office. You will receive an email once your badge is available for pick-up. At that point, you will be prompted to make an appointment. Send an email to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) if you have any questions regarding your badge.
 
 ## Laptop
 
