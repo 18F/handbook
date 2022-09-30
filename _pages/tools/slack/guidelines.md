@@ -21,16 +21,21 @@ See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-
   - [#18f-news](https://gsa-tts.slack.com/archives/C7K4ELC3E) for 18F-level announcements <br /> [#18f](https://gsa-tts.slack.com/archives/C0XUF8XL1) for 18F chat
   - [#centers-of-excellence](https://gsa-tts.slack.com/archives/C5HNZUCJ3)
   - [#digital-corps](https://gsa-tts.slack.com/archives/C02383G5M8R)
+  - [#digitalgov](https://gsa-tts.slack.com/archives/C3XKGT62K)
   - [#login](https://gsa-tts.slack.com/archives/C5AUR5XUK)
   - [#max-gov](https://gsa-tts.slack.com/archives/C018T9HSWFK)
   - [#outreach](https://gsa-tts.slack.com/archives/C03CPV8KK)
   - [#people-ops](https://gsa-tts.slack.com/archives/C047LSLTU)
   - [#pifs](https://gsa-tts.slack.com/archives/C02MPFNHQ) Presidential Innovation Fellows
   - [#public-benefits](https://gsa-tts.slack.com/archives/C79SPEB7S)
+  - [#px-general-talk](https://gsa-tts.slack.com/archives/C2KAE7MHU) Public Experience Portfolio
+  - [#search](https://gsa-tts.slack.com/archives/C33CZQG2D)
+  - [#sol-data-analytics](https://gsa-tts.slack.com/archives/C2LPUBTE1)
   - [#solutions](https://gsa-tts.slack.com/archives/C1ZPQUJNA)
   - [#strategic-partnerships](https://gsa-tts.slack.com/archives/C0185RZN9RP)
   - [#tts-oa](https://gsa-tts.slack.com/archives/CD4F3TGB1) Office of Acquisition
   - [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S)
+  - [#uswds](https://gsa-tts.slack.com/archives/C050HRGN7)
   - [#vote-gov](https://gsa-tts.slack.com/archives/C146DQMG9)
 
 - Locations

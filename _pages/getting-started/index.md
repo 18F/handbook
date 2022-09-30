@@ -36,11 +36,12 @@ Within your first week or two you should be working through your onboarding chec
 [OLU training](https://gsaolu.gsa.gov) that's been assigned. If you're not, go take a look at those first.
 
 As you try to understand [TTS and what it's about]({{site.baseurl}}/tts-history/),
-you may want to take a look at the
-[TTS organizational chart](https://docs.google.com/presentation/d/12hw9CcHjpN4hEJAURC9G32BTgoKylT65cE53DYkZbP4/edit#slide=id.g60910ccefb_0_113). 
-Org charts for each office are available in Google drive, too.
-Here's the [18F org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?ts=5c8b93f9#slide=id.g54b7f7db38_18_0),
-and here's one for [Solutions](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit#slide=id.g36a90c50d9_0_5).
+you may want to take a look at these org charts:
+
+- [TTS organizational chart](https://docs.google.com/presentation/d/1yXywmOStNyqx1RdFpkdyl32WY8TmHyQwPFUJSkf1WJc/edit#slide=id.g12f4f09f9e8_0_162)
+- [Login org chart](https://docs.google.com/spreadsheets/d/1tiTR2ohdl0NIsrF4gJjNipEZ0z0oq1pOFWYjHg8Tbi0/edit?usp=sharing)
+- [Solutions org chart](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit#slide=id.g36a90c50d9_0_5) 
+- [18F org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?ts=5c8b93f9#slide=id.g54b7f7db38_18_0)
 
 You'll probably spend quite a bit of time with [the TTS Handbook]({{site.baseurl}}/) --- you're reading it now!
 The TTS Handbook isn't at all like most organizational handbooks.
@@ -131,19 +132,16 @@ They're also complex topics, and you'll find a lot of people working on them.
 For an easy introduction into these topics, we suggest you start with
 [this lightweight primer](https://docs.google.com/presentation/d/1vXZDhEONp-h-zmyCt9wpwscoANouVK4fg5br6Ynzlpk/edit#slide=id.g54fbd835cd_0_25),
 especially if you haven't worked on information security before. Read the ["Security incidents" page]({{site.baseurl}}/security-incidents/) to learn how to respond if you spot suspicious activity or an incident.
-If you're looking to go into greater detail,
-18F's [Before You Ship](https://before-you-ship.18f.gov/) guide is definitive and should answer any questions you have,
-but it can also be a little overwhelming.
+If you're looking to go into greater detail, read the [Handbook section on launching software]({{site.baseurl}}/#launching-software).
 If you ever need a quick answer, clarification or just general Security and Compliance help, reach out to the TTS Tech Portfolio in [#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S).
 
-If you hear "ATO" or "Authority to Operate" and are wondering what that's about,
-[Before You Ship](https://before-you-ship.18f.gov/) and the Security and Compliance
-leads can help you out there, too.
+If you hear "ATO" or "Authority to Operate" and are wondering what that's about, the [Handbook section on launching software]({{site.baseurl}}/#launching-software) and the [Security and Compliance
+Guild](https://gsa-tts.slack.com/archives/CG8SNAEQM) can help you out.
 
 You may also be wondering about security clearances. It's not something you need to worry about now.
 If you are in 18F and staffed to a project that needs clearance,
 your account manager and staffing rep should make sure that any clearance needs are taken into account.
-Still, it's never a bad idea to ask if you're wondering.
+Still, it's never a bad idea to ask if you're wondering. 
 
 ## TTS Products and Platforms
 
