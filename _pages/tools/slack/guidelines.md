@@ -33,7 +33,6 @@ See the [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-
   - [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S)
   - [#vote-gov](https://gsa-tts.slack.com/archives/C146DQMG9)
 
-
 - Locations
 
   - [#chitown](https://gsa-tts.slack.com/archives/C02MF8HLY)
