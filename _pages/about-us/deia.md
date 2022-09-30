@@ -12,7 +12,7 @@ questions:
 > Diversity, equity, inclusion, and accessibility are the fabric of a healthy
 > democracy and innovation.
 >
-> \- **Dave Zvenyach, TTS Director**
+> \- **Dave Zvenyach, former TTS Director**
 
 At TTS, [our mission]({{site.baseurl}}/tts-history/) is to design and deliver a digital government with and for the American public. To ensure that the products we build and services we offer truly serve everyone, we center our work on **diversity, equity, inclusion,** and **accessibility** (also known as **DEIA**). In particular, we align our efforts with recent Executive Orders on [DEIA in the federal workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) and [advancing racial equity through government services](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
 
