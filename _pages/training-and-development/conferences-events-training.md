@@ -31,6 +31,8 @@ These inclusive event pillars are designed to help TTS:
 - Create intentionally inclusive events
 - Share our expectation that TTS employees thoughtfully consider what speaking engagements they accept
 
+For 18F, you can view the [18F FY23 Training plan](https://docs.google.com/document/d/1P36Q_RF_78SRLcKcz3O3nuA6Nw-Y6MfRR7NB290M5qI/edit). The plan includes strategic development priorities for team-wide trainings and notes on the process for allocating 18F training funds.
+
 ## Getting approval for a conference, event, or training
 
 1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) to initiate the request process. **_Here is [guidance on writing an event justification](https://docs.google.com/document/d/13BCETwANCx9JRPgFbRibqRGthIvf4XQ-WTYD0P30PWg/edit?usp=sharing)._** Upon completing it, you and your supervisor will get an automated email, which confirms the details you entered and provides all of the actions that you will need to complete for the request. Your supervisor may want to discuss the request with you before proceeding with further approvals.
