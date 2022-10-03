@@ -56,7 +56,7 @@ Employees who occupy eligible positions as of September 30, 2022, and who receiv
 
 ### Selecting award preference in HR Links
 
-If you are eligible for an end-of-year individual performance award (cash or time-off), **please make a selection no later than November 15th.** If you would like to keep the same selection type as FY20, no further action is needed.
+If you are eligible for an end-of-year individual performance award (cash or time-off), **please make a selection no later than November 15th.** If you would like to keep the same selection type as FY21, no further action is needed.
 
 * **Monetary award:** This is the default option in HR Links. No action is needed in HR Links **unless you specified award time off for the prior review cycle**
 
