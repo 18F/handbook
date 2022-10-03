@@ -54,16 +54,6 @@ Employees who start **after September 1** are not eligible to participate in the
 
 Employees who occupy eligible positions as of September 30, 2022, and who receive an eligible rating of record, may receive an Individual Performance Award (IPA). This section will be updated accordingly, once GSA provides guidance on IPAs.
 
-Subject to the availability of funds, OCFO and OHRM plan to distribute IPAs as follows:
-
-* **Level 5 summary ratings:** Up to 3.85% of adjusted basic pay, or up to 80 hours of time off, subject to budget availability.
-* **Level 4 summary ratings:** Up to 2.1% of adjusted basic pay, or up to 44 hours of time off subject to budget availability.
-* **"High 3" summary ratings:** Up to 0.385% of adjusted basic pay, or up to 8 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5.
-
-The final award percentages for Level 5, Level 4 and Level 3 summary ratings will be determined when all performance reviews are complete. In the event the above targets for the Level 3, Level 4 and Level 5 summary ratings cannot be met due to budget constraints, the percentage payouts for awards will be decreased proportionally. Summary ratings are not an average score — [they are assigned as defined on InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-appraising).
-
-IPAs are targeted to be paid out in December 2022, as in previous years. However, the IPA payout date depends upon the status of the Continuing Resolution and FY22 funding.
-
 ### Selecting award preference in HR Links
 
 If you are eligible for an end-of-year individual performance award (cash or time-off), **please make a selection no later than November 15th.** If you would like to keep the same selection type as FY20, no further action is needed.
