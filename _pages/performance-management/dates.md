@@ -30,11 +30,11 @@ This page contains important dates for the mid year and end of year performance 
 
 | Date                 | Item                                                                                       |
 | -------------------- | ------------------------------------------------------------------------------------------ |
-| September 30, 2022   | End of FY21 performance cycle                                                              |
+| September 30, 2022   | End of FY22 performance cycle                                                              |
 | October 1, 2022      | Internal ask for employees to begin their self-assessment                                  |
-| October 22, 2022     | Self-assessment submittal due date                                                         |
-| October 23, 2022     | Audit of Employee self-assessment completion                                               |
-| Oct 25 - Nov 5, 2022 | Supervisors hold 1:1 performance review meetings with their direct reports                 |
-| November 8, 2022     | TTS Internal ask due date to close out FY21 performance plans if not completed during 1:1s |
-| November 15, 2022    | Official GSA end of year close out due date for FY21 performance plans in HR Links         |
-| December 10, 2022    | FY21 Performance Awards will be issued (Budget permitting)                                 |
+| October 19, 2022     | Self-assessment submittal due date                                                         |
+| October 21, 2022     | Audit of Employee self-assessment completion                                               |
+| Oct 24 - Nov 4, 2022 | Supervisors hold 1:1 performance review meetings with their direct reports                 |
+| November 9, 2022     | TTS Internal ask due date to close out FY22 performance plans if not completed during 1:1s |
+| November 14, 2022    | Official GSA end of year close out due date for FY22 performance plans in HR Links         |
+| December 10, 2022    | FY22 Performance Awards will be issued (Budget permitting)                                 |
