@@ -23,6 +23,8 @@ This page contains additional resources and trainings for supervisors who are go
 
 ## Performance review training sessions
 
+The resources below are still applicable to the FY22 performance managment closeout and FY23 performance plan establishment process.
+
 - [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
   - Presentation and On-demand Videos
 - [Career progression framework]({{site.baseurl}}/#career-progression-framework)
@@ -153,11 +155,11 @@ A supervisor may need to approve an employee performance plan or employee evalua
 
 ### Leveraging diversity performance measure
 
-All FY22 **supervisory performance plans** must include the “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit#heading=h.7ki5n23m5zhy).
+All **supervisory performance plans** must include the “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit#heading=h.7ki5n23m5zhy).
 
 ### Acquisition Critical Element
 
-All CORs on active delegation must have the new Acquisition Critical Element on their FY22 Performance Plan. For guidance on adding this critical element to performance plans [click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
+All CORs on active delegation must have the new Acquisition Critical Element on their Performance Plan. For guidance on adding this critical element to performance plans [click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
 
 ## Additional training
 
@@ -181,7 +183,7 @@ Courses include, but is not limited to the following:
 - Complete a Mid-Year Progress Review
 - Submit Employee Evaluation
 
-### [OLU Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03)
+### [OLU Performance Management Program](https://gsa.csod.com/ui/lms-learning-details/app/curriculum/50856f17-4166-4c3c-a9e5-b3ffb444cfbd)
 
 Courses include, but is not limited to the following:
 
