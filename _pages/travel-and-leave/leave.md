@@ -77,19 +77,6 @@ You'll need to log in to [HR Links](https://corporateapps.gsa.gov/hr-links/) in 
 
 You’ll receive emails after submitting the request, and after it is approved.
 
-### Entering additional time
-
-1. Go to the **Employee Time Requests** tile
-1. Click **Additional Time Requests**
-1. Click the appropriate time request (**Overtime**, **Comp Time**, or **Credit Time**)
-1. Select a **Reason** (Only needed for overtime requests)
-1. Enter **Start Date** and **End Date**
-1. Enter **Requested Hours**
-1. Enter **Comments**
-1. Click **Submit**
-
-You’ll receive emails after submitting the request, and after it is approved.
-
 ### Editing and canceling a leave request
 
 1. Go to the **Employee Time Requests** tile
