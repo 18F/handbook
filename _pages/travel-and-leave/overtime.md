@@ -57,9 +57,13 @@ You need to enter your overtime, comp time, or credit hours into HRLinks. Your s
 - Enter **Comments**
 - Click **Submit**
 
+You’ll receive emails after submitting the request, and after it is approved.
+
 ## Using the comp time and/or credit hours you’ve earned
 
-You will submit a [leave request]({{site.baseurl}}/travel-and-leave/leave/#entering-a-leave-request), just like you do for other types of leave.
+You will submit a [leave request]({{site.baseurl}}/travel-and-leave/leave/#entering-a-leave-request), just like you do for other types of leave. When searching in HR Links for the leave type to request, the codes and leave names are:
+-  `041	- Comp Time Used`
+-  `037 - Credit Hours Used`
 
 ## OPM Resources
 
