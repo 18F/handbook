@@ -211,7 +211,7 @@ OPM Policy:
 
 You can receive 15 Military Leave days each year for active duty, active duty training, and inactive duty training in the National Guard or as a Reservist. You can carry over a maximum of 15 days into the next fiscal year.
 
-Military Leave will not appear in HR Links until _after_ you have requested it for the first time. For a two-week annual training or any other first-use of your 15 paid days, request the leave using `Code 50 - Regular Military Leave`. You and your supervisor won’t see an available leave balance, and HR Links will show an error, but your timecard will process and the leave balance adjustment will be made by Payroll.
+Military Leave will not appear in HR Links until _after_ you have requested it for the first time. For a two-week annual training or any other first-use of your 15 paid days, request the leave using `Code 51 - Regular Military`. You and your supervisor won’t see an available leave balance, and HR Links will show an error, but your timecard will process and the leave balance adjustment will be made by Payroll.
 
 #### Going on active duty
 
