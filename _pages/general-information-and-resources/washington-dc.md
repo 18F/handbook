@@ -91,7 +91,7 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21 fo
 
 ### Once inside GSA
 
-TTS is located on floor three, wing one. When entering from the F Street entrance, go left once you pass through security. Walk down the hallway to the set of elevators or stairs. Take the elevators or stairs up to floor three. Once out of the elevators, take a right turn. If you use the stairs, take a left turn out of the stairwell.
+TTS is located on the ground floor, in the wing one. When entering from the F Street entrance, go left once you pass through security. Walk down the hallway to the set of elevators or stairs. Take the elevators or stairs down to ground floor. Once you are on ground floor, be sure to head to the wing one (Red wing on the map). Our office spaces are located in the range of G120s and G130s.
 
 ## How do I...
 
