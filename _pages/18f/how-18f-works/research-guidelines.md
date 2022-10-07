@@ -54,13 +54,14 @@ In addition to paying participants, there are other ways to recognize the value 
 
 ### What authorization and approvals do I need? 
 
-**TTS User Research Participant Compensation Justification Checklist:** Each project team must document their need to compensate user research participants by creating a justification for user research [(template)](https://docs.google.com/document/d/15SxB0JCi-OvTD2lLokkuixb9sWuu1i2v-K8wGhPqcno/edit). Teams can use this [sample justification](https://docs.google.com/document/d/1dNxmqlvtTwFbVBnypsVqA4rU2aNS1oXA1k4tmWLSwUw/edit#heading=h.qgqf6gne4pg0) for reference. Teams do not need to submit this justification, but they must keep a copy in the [user research compensation justifications folder](https://drive.google.com/drive/folders/0AGmTTInlTCCQUk9PVA). 
+**TTS User Research Participant Compensation Justification Checklist:** Each project team must document their need to compensate user research participants by creating a justification for user research [template](https://docs.google.com/document/d/15SxB0JCi-OvTD2lLokkuixb9sWuu1i2v-K8wGhPqcno/edit). Teams can use this [sample justification](https://docs.google.com/document/d/1dNxmqlvtTwFbVBnypsVqA4rU2aNS1oXA1k4tmWLSwUw/edit#heading=h.qgqf6gne4pg0) for reference. Teams do not need to submit this justification, but they must keep a copy in the [user research compensation justifications folder](https://drive.google.com/drive/folders/0AGmTTInlTCCQUk9PVA). 
 
 The justification answers the following questions: 
-Does this work directly advance GSA’s or the client’s statutory mission and objectives?
-Does the benefit to the government outweigh the benefit to the individual?
-Has the agency attempted to accomplish its goals through means other than paid user research?
-Interagency Agreement (IAA) Attachment B - User Research Compensation Authorization: Additionally, this approved attachment [(template)](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY)) must be part of your project’s IAA (if you have one). If it is not, work with your account manager to get it signed by an authorized official at the partner agency. 
+- Does this work directly advance GSA’s or the client’s statutory mission and objectives?
+- Does the benefit to the government outweigh the benefit to the individual?
+- Has the agency attempted to accomplish its goals through means other than paid user research?
+
+**Interagency Agreement (IAA) Attachment B - User Research Compensation Authorization:** Additionally, this approved attachment [template](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY)) must be part of your project’s IAA (if you have one). If it is not, work with your account manager to get it signed by an authorized official at the partner agency. 
 
 The partner’s OGC will need to provide TTS a concurrence that “the benefit accruing to [the requesting agency] in obtaining this feedback outweighs the personal nature of this expense. [The requesting agency] has also determined that the feedback from this user research will directly advance the statutory mission and objectives of [the requesting agency]."
 
@@ -68,7 +69,26 @@ The partner’s OGC will need to provide TTS a concurrence that “the benefit a
 
 While TTS is working to standardized base rates, the IAA [Attachment B - User Research Compensation Authorization](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY) sets a rate of $70 an hour for moderated research sessions. From 2020 research on third-party recruiters, the median range was between $50 to $70 per person per hour (this does not account for recruiting expenses an organization might incur). Recruitment and support averaged about $125 per participant, which means that the total cost for a moderated session would be about $195 per person. 
 
-In 2022, TTS considers $70/hour as a starting point for compensation. Teams should consider the factors of equity and complexity of the research when determining compensation for user research on their project. Review additional considerations (internal use). 
+In 2022, TTS considers $70/hour as a starting point for compensation. Teams should consider factors of equity and complexity of the research when determining compensation for user research on their project.
+
+### How do I actually distribute the compensation to research participants? ###
+
+There are a few different ways to distribute compensation to research participants.
+
+**Pay participants via gift card:** Compensation can be distributed to participants via digital/e-gift or physical gift cards through [GiftBit](https://www.giftbit.com/). Gift cards can be purchased by submitting a [purchase card request](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform). The total amount of the purchase must be under $10,000 per project. 
+
+For more information, see [how do I complete a micropurchase request?](https://handbook.tts.gsa.gov/office-of-acquisition/#how-do-i-complete-a-micropurchase) in the handbook.
+
+**Use user-testing.com:** Teams can also use usertesting.com, if that’s applicable. TTS currently has a no cost agreement for that service (with help from a third party vendor) [per instructions](https://docs.google.com/document/d/1zJuzKW1txg73ukZlFF37vp5RRhf-iR0r2QZzs0-MXY8/edit).
+
+### Step-by-step checklist for compensating participants ###
+
+Follow these steps when you are ready to begin the compensation process.
+
+1. Complete the [TTS User Research Participant Compensation Justification Checklist](https://docs.google.com/document/d/15SxB0JCi-OvTD2lLokkuixb9sWuu1i2v-K8wGhPqcno/edit). Save it in your project folder, and save a copy in the u[ser research compensation justifications folder](https://drive.google.com/drive/folders/0AGmTTInlTCCQUk9PVA). 
+2. If working with a partner agency, confirm the IAA includes [Attachment B - User Research Compensation Authorization](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY). 
+
+For gift card purchases, see [instructions](https://docs.google.com/document/d/1QBBwldQDgqxCgDeHMivHhDjOyo2oBfGn8_DaXe9HnXk/edit?usp=sharing) ($10,000 or less)
 
 ## Managing Personally Identifiable Information (PII)
 
