@@ -17,11 +17,11 @@ The guidance below is only a high level overview. You and/or your supervisor can
 
 ## Overtime and Comp Time
 
-Overtime and comp time can be approved by your supervisor, no matter what type of [work schedule](https://docs.google.com/document/d/1mz2QNcy5GDITEZ1FFKG_gRlyPRTygYLiGsYWPJ6zXjA/edit#) you have.
+Overtime and comp time can be approved by your supervisor no matter what type of [work schedule](https://docs.google.com/document/d/1mz2QNcy5GDITEZ1FFKG_gRlyPRTygYLiGsYWPJ6zXjA/edit#) you have.
 
 Overtime is when you are paid for extra hours that you work, whereas comp time is when you receive hours of leave instead of pay.
 
-You should use your accrued comp time before using Annual Leave. However, if the end of the leave year is approaching, your supervisor can approve your Annual Leave requests first, if you are in danger of losing Annual Leave because of “[Use or Lose]({{site.baseurl}}/travel-and-leave/leave/#annual-leave).”
+You should use your accrued comp time before using Annual Leave. However, if the end of the leave year is approaching, your supervisor can approve your Annual Leave requests first if you are in danger of losing Annual Leave because of “[Use or Lose]({{site.baseurl}}/travel-and-leave/leave/#annual-leave).”
 
 Comp time expires one year (26 pay periods) after it is earned. When you reach the expiration date:
 
