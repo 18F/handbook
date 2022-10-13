@@ -23,7 +23,7 @@ Overtime is when you are paid for extra hours that you work, whereas comp time i
 
 You should use your accrued comp time before using Annual Leave. However, if the end of the leave year is approaching, your supervisor can approve your Annual Leave requests first if you are in danger of losing Annual Leave because of “[Use or Lose]({{site.baseurl}}/travel-and-leave/leave/#annual-leave).”
 
-Comp time expires one year (26 pay periods) after it is earned. When you reach the expiration date:
+Comp time expires one year (26 pay periods) after it is earned. When you reach the expiration date, what happens depends on whether you are an [exempt or non-exempt employee](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fs17a_overview.pdf):
 
 - If you are exempt: you will forfeit the leave.
 - If you are non-exempt: you will be paid out the hours (at the overtime pay rate that was in effect when you earned the hours).
