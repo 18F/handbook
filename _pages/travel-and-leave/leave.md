@@ -77,19 +77,6 @@ You'll need to log in to [HR Links](https://corporateapps.gsa.gov/hr-links/) in 
 
 You’ll receive emails after submitting the request, and after it is approved.
 
-### Entering additional time
-
-1. Go to the **Employee Time Requests** tile
-1. Click **Additional Time Requests**
-1. Click the appropriate time request (**Overtime**, **Comp Time**, or **Credit Time**)
-1. Select a **Reason** (Only needed for overtime requests)
-1. Enter **Start Date** and **End Date**
-1. Enter **Requested Hours**
-1. Enter **Comments**
-1. Click **Submit**
-
-You’ll receive emails after submitting the request, and after it is approved.
-
 ### Editing and canceling a leave request
 
 1. Go to the **Employee Time Requests** tile
@@ -224,7 +211,7 @@ OPM Policy:
 
 You can receive 15 Military Leave days each year for active duty, active duty training, and inactive duty training in the National Guard or as a Reservist. You can carry over a maximum of 15 days into the next fiscal year.
 
-Military Leave will not appear in HR Links until _after_ you have requested it for the first time. For a two-week annual training or any other first-use of your 15 paid days, request the leave using `Code 50 - Regular Military Leave`. You and your supervisor won’t see an available leave balance, and HR Links will show an error, but your timecard will process and the leave balance adjustment will be made by Payroll.
+Military Leave will not appear in HR Links until _after_ you have requested it for the first time. For a two-week annual training or any other first-use of your 15 paid days, request the leave using `Code 51 - Regular Military`. You and your supervisor won’t see an available leave balance, and HR Links will show an error, but your timecard will process and the leave balance adjustment will be made by Payroll.
 
 #### Going on active duty
 
