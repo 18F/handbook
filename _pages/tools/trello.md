@@ -69,4 +69,4 @@ If you get a `Manually Banned Apps Policy` email from [Cloudlock](https://insite
 - [Add general users to boards as guests](https://help.trello.com/article/1236-board-guests); don't add them as members of the Workspace(s).
 - All Workspaces used for work at TTS should exist under the `GSA IT - IDT` Enterprise instance.
 
-[#tts-trello](https://gsa-tts.slack.com/archives/C055J0BL0)
+[#gsa-trello-admins](https://gsa-tts.slack.com/archives/C0318A6RWRJ)
