@@ -33,6 +33,13 @@ The resources below are still applicable to the FY22 performance managment close
   - [Presentation and On-demand Videos](https://docs.google.com/presentation/d/1N-Fn9MgQs-eI9D8m_VuBQONWy00OWTU8KOLBK_ivX4c/edit?usp=sharing)
   - [Diagram of the FY22 Framework](https://docs.google.com/presentation/d/1N1zegrsmeul9IIwXW2V6eE1RRU20aCOKpcT9Z1XFy-M/edit?usp=sharing)
 - [Performance rating level definitions & examples](https://docs.google.com/document/d/1a5fEmORdBkA6MBVeB7BzvXCHRXg1XLfDr4kngwczFAg/edit?usp=sharing)
+- Equitable Performance Reviews presentation
+  - [On-demand Video](https://drive.google.com/file/d/1SX7Nkd3ZYvcYOdnydH8E50JJb-V1DclL/view?usp=sharing) 
+  - [Slidedeck](https://docs.google.com/presentation/d/1V2F0fre4UlyqBzsDYOL2MdF-Ae-YW02N7gwHC6jnpb4/edit#slide=id.p)
+- Workforce Relations Performance Management presentation
+  - [On-demand Video](https://drive.google.com/file/d/1OUfdFCmAT-4ksm0G20FtIre_oDtAmPHq/view)
+  - [Slidedeck](https://docs.google.com/presentation/d/1Ii-ooyCeOSV5LeYWZEjn2047eVC0i9KNVexjaB5QjEk/edit#slide=id.p1)
+- [Caption transcript of the Equitable Performance Reviews and Performance Management presentations](https://drive.google.com/file/d/19A7O838v0fDMwM35BfgaAhgQn5gW18uW/view)
 
 ## Union requirements for end of year performance reviews
 
