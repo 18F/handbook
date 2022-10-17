@@ -273,8 +273,8 @@ primary:
               - text: Employment verification
                 url: employment-verification/
                 internal: true
-              - text: Overtime and comp time
-                url: overtime-and-comp-time/
+              - text: Overtime, comp time, and credit hours
+                url: travel-and-leave/overtime/
                 internal: true
               - text: Purchase requests
                 url: purchase-requests/
