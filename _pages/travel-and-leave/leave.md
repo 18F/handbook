@@ -138,7 +138,7 @@ You may use annual leave for any reason. Annual leave accrues based on how long 
 - Between 3 and 15 years: 6 hours per pay period
 - 15+ years: 8 hours per pay period
 
-You can carry over a maximum of 240 annual leave hours, from one [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/) to the next. If you’ve transferred to TTS from another federal agency, your accrued annual leave will transfer with you.
+You can carry over a maximum of 240 annual leave hours, from one [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/) to the next. If you’ve [transferred to TTS from another federal agency]({{site.baseurl}}/travel-and-leave/leave/#transferring-leave-from-another-federal-agency), your accrued annual leave will transfer with you.
 
 #### Use or Lose
 
@@ -178,7 +178,7 @@ OPM Policy:
 
 ### Sick leave
 
-All federal employees, no matter how long they have worked in government, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if you've transferred to TTS from another federal agency, your accrued sick leave will transfer with you.
+All federal employees, no matter how long they have worked in government, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if [you've transferred to TTS from another federal agency]({{site.baseurl}}/travel-and-leave/leave/#transferring-leave-from-another-federal-agency), your accrued sick leave will transfer with you.
 
 You can use sick leave for your physical and mental health needs. You can also use up to 13 days of sick leave per year for family health needs and bereavement.
 
@@ -297,7 +297,7 @@ Reminder: PDF forms should be downloaded and opened in Adobe Acrobat before you 
 
 1. Complete the [Paid Parental Leave Request form](https://drive.google.com/file/d/1tcdKHQ-m9-B5IltlMP7SP83FdFtvHZCB/view?usp=sharing)
 1. Complete the [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view)
-1. Pull a timesheet report.
+1. [Pull a timesheet report]({{site.baseurl}}/travel-and-leave/leave/#pulling-a-time-sheet-report).
 
 Return the three items above to the [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who supports TTS.
 
@@ -387,7 +387,7 @@ To get approval for advanced sick leave, you will need to submit the following p
 
 1. [Advanced Sick Leave Request signature form](https://docs.google.com/document/d/1zxQN5c4ZRMcxN7u5hcM3LFEURZLuoHLIBwGOKEzldqk/edit#)
 2. An original medical certification signed by the physician or practitioner
-3. A copy of your timesheet report for the current and previous year
+3. A copy of your [timesheet report for the current and previous year]({{site.baseurl}}/travel-and-leave/leave/#pulling-a-time-sheet-report)
 4. A written explanation of the circumstances which have caused your sick leave to be exhausted
 
 #### Entering advanced sick leave in HR Links
