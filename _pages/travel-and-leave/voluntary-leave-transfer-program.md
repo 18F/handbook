@@ -56,7 +56,7 @@ If you have any questions, please email our [Workforce Relations HR Specialist](
 
 3. Send Form 630 and supporting documentation to your supervisor.
 4. Your supervisor completes their portion of Form 630. They need to fill out Sections 12, 13, and 17.
-5. Your supervisor emails Form 360 and the supporting medication documentation to our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
+5. Your supervisor emails Form 630 and the supporting medication documentation to our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 6. Our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) will review the application, and notify you and your supervisor if your request is approved (within 10 business days). They will provide you with a reason if the request is not approved, and what, if anything, can be done to resubmit.
 7. Your supervisor follows the announcement guidance below to send out an email TTS-wide.
 
