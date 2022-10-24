@@ -39,7 +39,7 @@ As you try to understand [TTS and what it's about]({{site.baseurl}}/tts-history/
 you may want to take a look at these org charts:
 
 - [TTS organizational chart](https://docs.google.com/presentation/d/1yXywmOStNyqx1RdFpkdyl32WY8TmHyQwPFUJSkf1WJc/edit?usp=sharing)
-- [Solutions org chart](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit?usp=sharing)
+- [Solutions org chart](https://docs.google.com/presentation/d/1ZwGf43skvRo-ZkY4i9jLMDZXWtqarHqtfWsNClku7n8/edit?usp=sharing)
 - [Login org chart](https://docs.google.com/spreadsheets/d/1tiTR2ohdl0NIsrF4gJjNipEZ0z0oq1pOFWYjHg8Tbi0/edit?usp=sharing)
 - [18F org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?ts=5c8b93f9#slide=id.g54b7f7db38_18_0)
 
