@@ -185,9 +185,9 @@ There is a fridge inside the room and one outside the room, in the health clinic
 
 If you need batteries for your keyboard or trackpad, there is a consolidated supply closet on the first floor of the building, in the 200 wing.
 
-### Spare keyboards and mice
+### Request keyboards and mice
 
-Melvin Moreira in GSA IT has all of the spare Mac equipment. You can email him to confirm that he is in the office. He sits on the ground floor, wing zero, in room G035.
+Submit a Service Catalog ticket to IT Help Desk. Be sure to mention in the ticket that you have Mac laptop. Once your ticket has been approved, you can go and pick up at G200 (ground floor, second wing). Be sure to have your ticket number ready for them.
 
 ### Lockers
 
