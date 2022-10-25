@@ -1,17 +1,17 @@
 <ol>
-  {% for item in include.nav %}
+  {% for item in nav %}
     <li>
       {% if item.children %}
-        <h{{ include.level }} id="{{ item.text | slugify }}">
-          {% include nav-link.html child=item %}
-        </h{{ include.level }}>
+        <h{{ level }} id="{{ item.text | slugify }}">
+          {% include "nav-link.html" child:item %}
+        </h{{ level }}>
         {% if item.blurb %}
           <p>{{ item.blurb }}</p>
         {% endif %}
-        {% assign next_level = include.level | plus: 1 %}
-        {% include nav.html level=next_level nav=item.children %}
+        {% assign next_level = level | plus: 1 %}
+        {% include "nav.html" level:next_level nav:item.children %}
       {% else %}
-          {% include nav-link.html child=item %}
+          {% include "nav-link.html" child:item %}
       {% endif %}
     </li>
   {% endfor %}

@@ -1,17 +1,12 @@
 {% comment %}
-
 https://designsystem.digital.gov/components/alert/
-
 level: the severity of the alert (default info)
 heading: heading of the alert
 content: markdown body of the alert
-
 {% endcomment %}
-<div class="usa-alert usa-alert--{{ include.level | default: 'info' }}">
+<div class="usa-alert usa-alert--{{ level | default: 'info' }}">
   <div class="usa-alert__body">
-    <h3 class="usa-alert__heading">{{ include.heading | escape }}</h3>
-    <div class="usa-alert__text">
-      {{ include.content | markdownify }}
-    </div>
+    <h3 class="usa-alert__heading">{{ heading | escape }}</h3>
+    <div class="usa-alert__text">{{content}}</div>
   </div>
 </div>

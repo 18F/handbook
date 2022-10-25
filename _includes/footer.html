@@ -1,0 +1,51 @@
+<footer class="usa-footer usa-footer--slim" role="contentinfo">
+  <div class="usa-footer__primary-section">
+    <div class="usa-footer__primary-container grid-row">
+      <div>
+        <nav class="usa-footer__nav" aria-label="footer navigation">
+          <ul class="grid-row grid-gap">
+            <li class="mobile=lg:grid-col-6 desktop:grid-col-auto usa-footer__primary-content">
+              <a href="https://github.com/18F/handbook/issues/new">File an issue</a>
+            </li>
+            <li class="mobile=lg:grid-col-6 desktop:grid-col-auto usa-footer__primary-content">
+              <a href="{% page "/contributing" %}">Contributing</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  <div class="usa-footer__secondary-section">
+    <div class="grid-container">
+      <div class="usa-footer-contact-links usa-width-one-half align-right">
+
+      {% comment %}
+      We don't want to use NetlifyCMS for the index page because it doesn't make
+      sense. If we're on that page, use the GitHub edit functionality.
+      {% endcomment %}
+
+      {% if page.inputPath == './pages/index.html' %}
+        <small>
+          <a
+            href="https://github.com/18f/handbook/edit/main/pages/index.html"
+            class="usa-sidenav-edit"
+            target="_blank">
+            Edit this page
+          </a>
+        </small>
+      {% else %}
+        <small>
+          <a
+            href="{% page "/admin" %}/#/collections/pages/entries{{ page.filePathStem }}"
+            class="usa-sidenav-edit"
+            target="_blank">
+            Edit this page
+          </a>
+        </small>
+      {% endif %}
+
+      </div>
+    </div>
+   </div>
+</footer>

@@ -1,0 +1,70 @@
+.with-inline-navigation {
+  .usa-layout-docs__main,
+  main {
+    position: relative;
+    overflow: visible;
+  }
+
+  .inline-navigation {
+    @include typeset("body", "xs", 4);
+    background: none;
+    padding: units(2);
+    border: units(1px) solid color("gray-5");
+    border-radius: radius("lg");
+    margin: 0 auto units(2);
+    box-shadow: 0 0 0 units(2px) color("gray-2");
+    width: 90%;
+
+    h1 {
+      @include u-font("heading", "xs");
+      letter-spacing: 0;
+      margin: 0;
+      margin-bottom: units(1);
+      text-align: left;
+    }
+
+    ul {
+      margin: 0 0 units(-0.5) 0;
+      padding: 0;
+    }
+
+    ul li {
+      list-style-type: none;
+      margin: 0 0 2px -2px;
+    }
+
+    ul li.h3 {
+      margin-left: units(1.5);
+    }
+    ul li.h4 {
+      margin-left: units(3);
+    }
+    ul li.h5 {
+      margin-left: units(5);
+    }
+
+    li a {
+      padding: units(0.5);
+      display: block;
+      line-height: lh("body", 2);
+      text-decoration: none;
+      border-radius: radius("sm");
+    }
+
+    li a:hover {
+      text-decoration: underline;
+    }
+
+    li.is-active a {
+      background: #297f00;
+      color: white;
+      text-decoration: none;
+    }
+
+    @media screen and (min-width: 895px) {
+      position: absolute;
+      right: 0;
+      width: 256px;
+    }
+  }
+}

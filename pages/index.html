@@ -1,0 +1,16 @@
+---
+permalink: /
+homepage: true
+title: TTS Handbook
+---
+
+<p>
+  {{ site.description }}
+  <a href="{% page "/about/" %}">Read more about the Handbook.</a>
+</p>
+{% include "most-visited.html" %}
+<div class="layout-table-of-contents">
+  <div class="wrapper usa-prose">
+    {% render "nav.html", level:1 nav:navigation.primary %}
+  </div>
+</div>

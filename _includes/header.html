@@ -1,0 +1,21 @@
+<header class="usa-header usa-header--extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text">
+        <a href="{{ '/' | url }}" title="Home" aria-label="Home">{{ site.title }}</a>
+      </em>
+    </div>
+  </div>
+  <nav
+    id="menu-navigation"
+    aria-label="Menu navigation"
+    role="navigation"
+    class="usa-nav"
+  >
+    <div class="usa-nav__inner">
+      <div class="usa-nav__secondary">
+        {% include "searchgov/form.html" searchgov: site.searchgov %}
+      </div>
+    </div>
+  </nav>
+</header>

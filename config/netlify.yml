@@ -1,0 +1,45 @@
+##
+## Uncomment when doing local development on Netlify CMS
+## Run `npx netlify-cms-proxy-server` to start working locally
+## In another terminal, start the app with `npm start`
+## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+##
+# backend:
+#   name: git-gateway
+# local_backend: true
+
+backend:
+  name: github
+  repo: 18f/handbook
+  base_url: https://handbook.tts.gsa.gov
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+  branch: main
+
+media_folder: /_img/
+public_folder: /_img/uploads
+publish_mode: editorial_workflow
+logo_url: https://cloud.gov/assets/pages-logo-blue-fe15a8f2f0843bc703e0e02acc3efd34bd968f2a5686ec74d8b05119f578c77fa12eb90bf9043bbd2f25432e97700c03c66a61832cdfce4ec667ad5623c1f6e4.svg
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    label_singular: "page"
+    nested: { depth: 4 }
+    folder: "pages/"
+    create: true
+    meta: { path: { widget: string, label: "Path", index_file: "index" } }
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Questions", name: "questions", widget: "list" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "other"
+    label: "Other"
+    files:
+      - label: "Contributing"
+        name: "contributing"
+        file: "CONTRIBUTING.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Questions", name: "questions", widget: "list" }
+          - { label: "Body", name: "body", widget: "markdown" }

@@ -1,9 +1,60 @@
 {
-  "private": true,
-  "devDependencies": {
-    "prettier": "2.3.1"
-  },
+  "name": "tts-handbook",
+  "version": "3.0",
+  "description": "The TTS Handbook",
   "scripts": {
-    "lint": "prettier --write \"**/*.md\""
+    "build": "npm run assets:build && npx @11ty/eleventy",
+    "assets:autoprefix": "postcss _site/assets/styles/*.css -r --use autoprefixer",
+    "assets:build": "node ./config/buildAssets && npm run assets:autoprefix",
+    "assets:clean": "rimraf _site/assets",
+    "assets:refresh": "npm run assets:clean && npm run assets:build",
+    "assets:watch": "chokidar 'js/**' 'styles/**' -c 'npm run assets:refresh' --polling",
+    "clean": "rimraf _site",
+    "dev": "npm run clean && npm-run-all -p dev:assets dev:serve",
+    "dev:clean": "npm run clean && npm run dev",
+    "dev:assets": "npm run assets:refresh && npm run assets:watch",
+    "dev:debug": "DEBUG=* npx @11ty/eleventy --serve --watch",
+    "dev:serve": "npx @11ty/eleventy --serve --watch",
+    "dev:cms": "npx netlify-cms-proxy-server",
+    "federalist": "npm run build && npm test",
+    "lint": "prettier -w .",
+    "serve": "npx @11ty/eleventy --serve",
+    "start": "npx @11ty/eleventy --serve",
+    "test": "npm run test:prefixed-links && npm run test:internal-links && npm run test:html-validation",
+    "test:html-validation": "html-validate _site/**/*.html",
+    "test:internal-links": "node check-links.js",
+    "test:prefixed-links": "! (grep -Erl \"\\(/|href=['\\\"]/\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-img": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "autoprefixer": "^10.4.2",
+    "cheerio": "^1.0.0-rc.12",
+    "chokidar-cli": "^3.0.0",
+    "eleventy-plugin-svg-sprite": "^1.2.2",
+    "esbuild": "^0.14.25",
+    "esbuild-sass-plugin": "^2.2.4",
+    "html-validate": "^7.7.1",
+    "js-yaml": "^4.1.0",
+    "luxon": "^3.0.4",
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.4.1",
+    "netlify-cms-proxy-server": "^1.3.23",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.4.8",
+    "postcss-cli": "^10.0.0",
+    "prettier": "^2.7.1",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "@uswds/uswds": "^3.2.0",
+    "netlify-cms": "^2.10.192"
+  },
+  "prettier": {
+    "proseWrap": "always"
   }
 }

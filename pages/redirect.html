@@ -1,0 +1,46 @@
+---js
+{
+  pagination: {
+    data: "collections.all",
+    size: 1,
+    alias: "redirect",
+    before: function (data) {
+      const all = data.reduce((redirects, page) => {
+        if (Array.isArray(page.data.redirect_from)) {
+          for (let url of page.data.redirect_from) {
+            redirects.push({ to: page.url, from: url });
+          }
+        } else if (typeof page.data.redirect_from === 'string') {
+          redirects.push({ to: page.url, from: page.data.redirect_from });
+        }
+        return redirects;
+      }, []);
+
+      return all.filter(({ to, from })=> to !== from);
+    },
+    addAllPagesToCollections: false,
+  },
+  layout: "layouts/pure",
+  permalink: "{{ redirect.from }}/index.html",
+  eleventyExcludeFromCollections: true,
+}
+---
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting&hellip;</title>
+    <link rel="canonical" href="{% page redirect.to %}" />
+    <script>
+      location = "{% page redirect.to %}";
+    </script>
+    <meta name="rel-path" content="{{ redirect.to }}" />
+    <meta http-equiv="refresh" content="0; url={% page redirect.to %}" />
+    <meta name="robots" content="noindex" />
+  </head>
+  <body>
+    <h1>Redirecting&hellip;</h1>
+    <a href="{% page redirect.to %}">Click here if you are not redirected.</a>
+  </body>
+</html>
