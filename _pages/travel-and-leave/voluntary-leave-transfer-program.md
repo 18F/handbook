@@ -49,10 +49,10 @@ If you have any questions, please email our [Workforce Relations HR Specialist](
 1. Complete your portion of the VLTP application, [OPM Form 630](https://www.opm.gov/forms/pdf_fill/opm630.pdf). You'll need to fill out Sections 1 -11, 14, 16a and 16b. Your supervisor can help you fill out the form, if needed.
 2. Gather supporting medical documentation. The medical documentation must include the following:
 
-  * Nature of medical emergency
-  * Prognosis of the medical condition
-  * Duration of the medical condition
-  * The medical documentation must be signed by your physician or other practitioner.
+- Nature of medical emergency
+- Prognosis of the medical condition
+- Duration of the medical condition
+- The medical documentation must be signed by your physician or other practitioner.
 
 3. Send Form 630 and supporting documentation to your supervisor.
 4. Your supervisor completes their portion of Form 630. They need to fill out Sections 12, 13, and 17.
