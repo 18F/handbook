@@ -65,7 +65,7 @@ Buying something over $10,000 means that the Office of Acquisition (OA) needs to
 
 - We assign a COR, most likely from the customer’s team, to aid in the post-award contract management through a COR delegation letter.
 
-- We have [guides and resources](https://drive.google.com/drive/folders/0BxTwA-UymFarOTZBRVFLYkdvcFU) to help the COR with fulfilling their responsibilities.
+- We have [guides and resources](https://drive.google.com/drive/folders/1tSIiw6Jgfpx1OATIBKSXhQf90st1raeQ) to help the COR with fulfilling their responsibilities.
 
 ### Contract modifications
 
