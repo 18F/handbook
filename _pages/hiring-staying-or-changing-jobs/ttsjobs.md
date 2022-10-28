@@ -45,6 +45,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [C﻿loud.gov Engineering Supervisor Detail](https://docs.google.com/document/d/1CyEJR3drLRzatriFAWqVzrY4OJ1p21P89cPnMb3RmMU/edit?usp=sharing)- Open Tuesday, October 25th through Tuesday, November 8th
 
+[e﻿Rulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit) Open Friday, October 28th through Tuesday, February 28th
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
