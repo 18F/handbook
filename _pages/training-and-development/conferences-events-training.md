@@ -121,7 +121,6 @@ supervisor approving the purchase. If the book is being used in a training,
 then there are further tasks to be completed with form SF-182 as detailed in
 that initial response email.
 
-
 ## Hosting non-government speakers
 
 [More information.]({{site.baseurl}}/hosting-non-government-speakers/)
