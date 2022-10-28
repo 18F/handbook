@@ -101,7 +101,25 @@ Add your notes about the conference or training to the [TTS Training Database](h
 
 ## Buying books
 
-You can also use your training budget to buy books for self-guided study. Approval for books follows the same process as approvals for trainings. You'll need to fill out [the training request form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) using the names of the books you want to buy. You may want to first check your local library system to see what books, newspapers, subscriptions, and other resources are available there.
+You can also use your training budget to buy books for self-guided study. You
+may want to first check your local library system to see what books,
+newspapers, subscriptions, and other resources are available there. Approval
+for books uses a similar process as approval for trainings, but many of the
+forms are not designed for book purchases and need to be repurposed.
+
+Start with [the training request
+form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link).
+That form has annotations for how to use it for book purchases. Briefly, the
+book title is used for the name of the event and the current date is used for
+all of the date fields. On the second page of the form under the "Anything
+else" question, enter the website where the book can be purchased.
+
+When you have submitted that form, you and your supervisor will receive an
+email with further instructions. In the case where the book is not being used
+for training, the only thing that needs to be done is an email from your
+supervisor approving the purchase. If the book is being used in a training,
+then there are further tasks to be completed with form SF-182 as detailed in
+that initial response email.
 
 ## Hosting non-government speakers
 
