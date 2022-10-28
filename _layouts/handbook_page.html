@@ -19,7 +19,7 @@ layout: page
     {% elsif contact.text %}
     <a href="{{contact.url}}">{{contact.text}}</a>
     {% else %}
-    <a href="https://gsa-tts.slack.com/messages/{{contact}}/">#{{contact}}</a>
+    <a href="https://gsa-tts.slack.com/channels/{{contact}}/">#{{contact}}</a>
     {% endif %}
   </li>
   {% endfor %}
