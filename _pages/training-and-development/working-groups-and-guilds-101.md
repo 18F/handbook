@@ -13,6 +13,33 @@ TTS has a collection of communities to help develop best practices, provide trai
 
 These volunteer groups decide how and where to focus their efforts and conversations, in coordination with TTS leadership. Anyone may participate in any of these groups.
 
+## Affinity Groups
+
+Affinity groups are spaces where employees of similar identities can talk freely amongst themselves. Depending on the group, it may be open or invite-only.
+
+Be respectful of space! If you do not identify with these groups, show your allyship by giving space for people in these groups to talk freely amongst themselves. The Diversity Guild is still the place to ask questions, show your support, share resources, learn, listen, and bring up important topics.
+
+The Diversity Guild celebrates and encourages all kinds of diversity, so if you feel like there is a need for a certain kind of group, start your own Slack channel or ask for help from the Diversity Guild to plug and promote it.
+
+The open groups, which are available to all TTS staff, are:
+
+- [\#LGBTQQIAAP](https://gsa-tts.slack.com/archives/C0CJ11XDY) —  is for anyone who identifies as lesbian, gay, bisexual, transgender, queer, questioning, intersex, asexual, or pansexual.
+- [\#Aging parents](https://gsa-tts.slack.com/archives/CLWMLQWER) — is support for people with aging parents.
+- [\#Parents](https://gsa-tts.slack.com/archives/C02KQM2N7) — is for parents... and friends of parents.
+- [\#Women](https://gsa-tts.slack.com/archives/C1WHWP18F) — is an intersectional TTS employee resource group for womxn that provides a safe place to share their experiences and support one another.
+- [\#Self-care](https://gsa-tts.slack.com/archives/C83SUA673) — is for sharing tips for taking care of yourself with a focus on mental health.
+- [\#vets](https://gsa-tts.slack.com/archives/C7QQYRB62) - is for Veterans and colleagues with a Veteran affinity.
+- [\#neurodiversity](https://gsa-tts.slack.com/archives/C01TB9GTX5Z) - is a place to share and discuss lived experiences of neurodiversity.
+
+There are some groups that are invite-only. For an invitation to these groups, please see [this Slack post](https://app.slack.com/docs/T025AQGAN/F016UD0P6SC?origin_team=T025AQGAN&origin_channel=D011CRNGF71), which includes contact people for each invite-only group. The invite-only groups are:
+
+- **Latinx** — A space for people who identify as Latinx, Hispanic, Chicanx, Boricua, Cubano, etc.
+- **Asian and Pacific Islanders** — A place for Asian and Pacific Islander TTS staff members to hang out and talk.
+- **Working While Black** — A space for Black TTS staff members.
+- **Shalom Jews** — A space for TTS employees that consider themselves Jewish, Jew-ish, Jew-curious, culturally Jewish, or anything else!
+- **People with Disabilities (PwD)** — Private channel for anyone who identifies themselves as disabled.
+- **Not Your Dude** — Private channel for cis women, trans women, trans men, non-binary people, and those who are otherwise marginalized (i.e., non-hegemonic masculine folks).
+
 ## Working groups
 
 A working group is a group of people working together to investigate a particular problem and achieve specified goals. They are usually self-organized, and are expected to be short-lived and spin up or down depending on organizational needs. The best possible outcome for a working group is to no longer be needed, because it has solved the problem it was formed to solve.
