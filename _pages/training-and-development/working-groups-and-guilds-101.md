@@ -11,7 +11,7 @@ redirect_from:
 
 TTS has a collection of communities to help develop best practices, provide training, explore new ideas, and help solve thorny issues.
 
-These volunteer groups decide how and where to focus their efforts and conversations, in coordination with TTS leadership. Anyone may participate in any of these groups.
+These volunteer groups decide how and where to focus their efforts and conversations, in coordination with TTS leadership.
 
 ## Affinity Groups
 
