@@ -9,9 +9,9 @@ questions:
   - g-accessibility
 ---
 
-At TTS, [our mission]({{site.baseurl}}/tts-history/) is to design and deliver a digital government with and for the American public. 
+At TTS, [our mission]({{site.baseurl}}/tts-history/) is to design and deliver a digital government with and for the American public.
 
-To ensure that the products we build and services we offer truly serve everyone, we center our work on diversity, equity, inclusion, and accessibility (also known as DEIA). 
+To ensure that the products we build and services we offer truly serve everyone, we center our work on diversity, equity, inclusion, and accessibility (also known as DEIA).
 
 In particular, we align our efforts with recent Executive Orders on [DEIA in the federal workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) and [advancing racial equity through government services](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
 
@@ -23,7 +23,7 @@ We believe that diversity is vital to a successful organization and that we must
 
 _Our definition_: Diversity is the presence of different identities, perspectives, and experiences. Does our team reflect the diversity of our country?
 
-_Our efforts_: 
+_Our efforts_:
 
 - Internally publishing [demographic data](https://docs.google.com/spreadsheets/u/0/d/1eYqMhVBRvjCjnJpq_51h_MgLcXZQNN8wacWQC9XdzMw/edit) on a quarterly basis. For those outside of TTS, [FedScope](https://www.fedscope.opm.gov/) is the most detailed public-facing website for federal employee demographic data.
 - Partnering with organizations that focus on recruitment and hiring for underrepresented groups.
@@ -35,7 +35,8 @@ _Our efforts_:
 
 _Our definition_: Equity implores us to examine the impacts of the structures and systems that govern our policies, processes, and decision-making. Are outcomes and opportunities different, depending on someone’s identities?
 
-_Our efforts_: 
+_Our efforts_:
+
 - Holding quarterly feedback sessions between affinity groups and the TTS Executive Director.
 - Providing [unconscious bias training]({{site.baseurl}}/getting-started/classes/) to all new employees during onboarding.
 - Leading regular [information sessions](https://join.tts.gsa.gov/) for candidates that focus on demystifying the federal hiring process.
@@ -47,7 +48,7 @@ _Our efforts_:
 
 _Our definition_: Inclusion and belonging focus on our workplace environment. Do our colleagues feel included, valued, welcomed, and respected?
 
-_Our efforts_: 
+_Our efforts_:
 
 - Conducting an annual Inclusion and Belonging Survey.
 - Delivering a [DEIA onboarding class]({{site.baseurl}}/getting-started/classes/) to all new employees.
@@ -64,7 +65,7 @@ _Our examples_:
 - Training for best practices and manual testing, along with developing and procuring accessible software, supporting the [Section 508](https://www.section508.gov/content/about-us) team and their responsibilities.
 - Maintaining an [Accessibility for Teams guide](https://accessibility.digital.gov/), equipping people across disciplines with the skills needed to successfully run an accessibility audit.
 - Sharing our learnings by publishing [writing guides](https://accessibility.18f.gov/), [holding talks](https://www.youtube.com/watch?v=CL6lOwJEMGQ), [writing blogs](https://digital.gov/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/), and speaking at conferences.
-- Ensuring our products and services satisfy all the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) (WCAG) 2.0 AA.  We offer a [checklist](https://accessibility.18f.gov/checklist/) to make sure we’re meeting all the guidelines.
+- Ensuring our products and services satisfy all the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) (WCAG) 2.0 AA. We offer a [checklist](https://accessibility.18f.gov/checklist/) to make sure we’re meeting all the guidelines.
 - Promoting inclusive design by including people of all abilities in user experience testing. This means adopting a “Solve for one, extend to many” methodology.
 - Ensuring all new supervisors meet with our GSA reasonable accommodation coordinator.
 
@@ -82,7 +83,7 @@ TTS has two [Guilds]({{site.baseurl}}/training-and-development/working-groups-an
 
 ### Diversity Guild
 
-Founded in 2014, the Diversity Guild advances TTS’s diversity, equity, and inclusion goals. Its purpose is to help make TTS a great place to work for people of all backgrounds. 
+Founded in 2014, the Diversity Guild advances TTS’s diversity, equity, and inclusion goals. Its purpose is to help make TTS a great place to work for people of all backgrounds.
 
 #### Getting involved
 
@@ -91,7 +92,7 @@ There are a number of ways you can get involved or support the Guild’s grassro
 1. Attend Guild programming: The Diversity Guild Co-Leads host weekly sessions (“Office Hours) focused on a variety of DEIA topics. Office Hours are held every Friday at 12:30-1pm EST. The meetings show up on the [TTS Working Groups and Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com). If you would like to be added to the invites directly, message one of the [Diversity Guild Co-Leads]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-guilds).
 2. Join the (Slack) conversation. TTSers regularly share articles, ask questions, and celebrate milestones via the [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/) Slack channel. To promote a healthy and respectful environment, there are [special guidelines for #g-diversity](https://docs.google.com/document/d/1IP0GERswH8t5nQxH0VyYPidj5TrkNtfJEmaPz3_y-go/edit).
 3. Reach out with questions: the [Diversity Guild Co-Leads]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-guilds) are available to chat with you.
-4. Become a DEI representative (Rep): These are volunteers  across TTS that help teams create a diverse, equitable, inclusive, and welcoming TTS. While everyone on a team has a responsibility to advocate for diversity, equity, and inclusion, the DEI rep role is to make sure that DEI concerns are always on the table for their team. And, they use their team-specific knowledge to inform Guild efforts and initiatives which are typically focused organization-wide. TTS staff can become DEI reps by reaching out to their team lead, current DEIA rep, or the Diversity Guild leads. For more information, see the [DEIA rep internal listing](https://docs.google.com/document/d/1g7bpwFBfpHMy0guu5nUaF0HhBLvu42pF0nCiBdb92M4/edit).
+4. Become a DEI representative (Rep): These are volunteers across TTS that help teams create a diverse, equitable, inclusive, and welcoming TTS. While everyone on a team has a responsibility to advocate for diversity, equity, and inclusion, the DEI rep role is to make sure that DEI concerns are always on the table for their team. And, they use their team-specific knowledge to inform Guild efforts and initiatives which are typically focused organization-wide. TTS staff can become DEI reps by reaching out to their team lead, current DEIA rep, or the Diversity Guild leads. For more information, see the [DEIA rep internal listing](https://docs.google.com/document/d/1g7bpwFBfpHMy0guu5nUaF0HhBLvu42pF0nCiBdb92M4/edit).
 
 ### Accessibility Guild
 
