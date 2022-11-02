@@ -110,7 +110,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ### Guilds and working groups
 
-See current [guilds]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-guilds) and [working groups]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#a-sampling-of-current-working-groups).
+See current [guilds]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-guilds) and [working groups]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-working-groups).
 
 ### Facilitator groups
 
