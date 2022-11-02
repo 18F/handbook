@@ -12,6 +12,7 @@ redirect_from:
 TTS has a collection of communities that connect employees based on shared interests or identities.
 
 These groups are a valued part of TTS (and in some cases, across government!). They:
+
 - Foster belonging through relationship-building
 - Provide learning and training opportunities
 - Help employees apply best practices and solve thorny issues.
@@ -19,7 +20,7 @@ These groups are a valued part of TTS (and in some cases, across government!). T
 
 ## Affinity Groups in TTS
 
-Affinity groups are spaces where employees of similar identities can talk freely amongst themselves and come together based on shared identities. 
+Affinity groups are spaces where employees of similar identities can talk freely amongst themselves and come together based on shared identities.
 
 Some groups are available by invitation-only. If you do not share that identity, show your allyship by respecting those private gatherings and giving space for people to gather and talk freely amongst themselves. The Diversity Guild is always available as a place to ask questions and show your suppor
 
@@ -91,7 +92,7 @@ Guilds seek to implement long-term, positive change within TTS. They offer train
 
 Guilds are typically long-running and are sponsored by the TTS Chief of Staff.
 
-Guild Slack channels have a `g-` before the name. Like working groups, you do not need permission to participate: just jump right in. 
+Guild Slack channels have a `g-` before the name. Like working groups, you do not need permission to participate: just jump right in.
 
 Guild meeting times can also be found on the [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com).
 
@@ -252,10 +253,9 @@ Digital.gov [hosts the Communities of Practice](https://digital.gov/communities/
 
 ## Organizing external (non-gov) speakers
 
-At times, TTS groups may invite external speakers through their personal networks.  When inviting non-government employees, the event organizer must be careful not to endorse any publication, product or service. This would give the appearance of preferential treatment, about which the government has strict policies. Speakers should also be kindly reminded not to endorse their product by saying where it can be purchased or by offering discounts to government employees.
+At times, TTS groups may invite external speakers through their personal networks. When inviting non-government employees, the event organizer must be careful not to endorse any publication, product or service. This would give the appearance of preferential treatment, about which the government has strict policies. Speakers should also be kindly reminded not to endorse their product by saying where it can be purchased or by offering discounts to government employees.
 
 Here is a correct versus incorrect way to announce a guest speaker for an upcoming event.
-
 
 Do say:
 
