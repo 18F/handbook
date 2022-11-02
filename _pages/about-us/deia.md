@@ -79,7 +79,7 @@ As an organization, TTS is committed to learning from its DEIA efforts. We striv
 
 ## DEIA Guilds
 
-TTS has two [Guilds]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#guilds) that support our DEIA efforts: Diversity Guild and Accessibility Guild.
+TTS has two [Guilds]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#guilds-at-tts) that support our DEIA efforts: Diversity Guild and Accessibility Guild.
 
 ### Diversity Guild
 
