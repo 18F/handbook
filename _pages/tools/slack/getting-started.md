@@ -12,6 +12,7 @@ _[Back to Slack page](../)_
 
 - **Display name**: You can use your name or a short handle like `@example (they)` or `@first.last (they/them)`
   - Your [pronouns](https://pronoun.is/) are optional but strongly encouraged. Having these visible helps TTS be gender inclusive. They're not required because we want to ensure people who might change their pronouns don’t feel pressure to have an answer at all times.
+  - There is a field where you can describe your name pronunciation, and even an option to record yourself saying your name. You are not required to provide this information, though it can help your teammates address you correctly.
 - **What I do**: Include your team here (required)
 - **Location**: Where you are (required)
 - For people with GSA emails, the `Full name` and `Phone number` are overwritten with [your information from GCIMS]({{site.baseurl}}/changing-your-name/) every time you sign in, so don't bother changing those.
