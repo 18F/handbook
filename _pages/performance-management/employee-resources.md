@@ -26,7 +26,7 @@ The resources below are still applicable to the FY22 performance managment close
 
 - [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
   - Presentation and On-demand Videos
-- [Career progression framework]({{site.baseurl}}/#career-progression-framework)
+- [Career progression framework]({{site.baseurl}}/career-progression-framework/overview)
   - [CPF Overview Video](https://drive.google.com/file/d/1octLMWua6MVO4aJKdyvKVEo4uHayhHOe/view?usp=sharing)
 - FY22 performance plan framework
   - [Presentation and On-demand Videos](https://docs.google.com/presentation/d/1N-Fn9MgQs-eI9D8m_VuBQONWy00OWTU8KOLBK_ivX4c/edit?usp=sharing)
