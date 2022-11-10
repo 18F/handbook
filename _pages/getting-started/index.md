@@ -132,11 +132,11 @@ They're also complex topics, and you'll find a lot of people working on them.
 For an easy introduction into these topics, we suggest you start with
 [this lightweight primer](https://docs.google.com/presentation/d/1vXZDhEONp-h-zmyCt9wpwscoANouVK4fg5br6Ynzlpk/edit#slide=id.g54fbd835cd_0_25),
 especially if you haven't worked on information security before. Read the ["Security incidents" page]({{site.baseurl}}/security-incidents/) to learn how to respond if you spot suspicious activity or an incident.
-If you're looking to go into greater detail, the [Handbook section on launching software]({{site.baseurl}}/#launching-software) is definitive and will answer many of your questions.
+If you're looking to go into greater detail, read the [Handbook section on launching software]({{site.baseurl}}/#launching-software).
 If you ever need a quick answer, clarification or just general Security and Compliance help, reach out to the TTS Tech Portfolio in [#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S).
 
-If you hear "ATO" or "Authority to Operate" and are wondering what that's about,
-the [Handbook section on launching software]({{site.baseurl}}/#launching-software) and the [Security and Compliance Guild](https://gsa-tts.slack.com/archives/CG8SNAEQM) can help you out there, too.
+If you hear "ATO" or "Authority to Operate" and are wondering what that's about, the [Handbook section on launching software]({{site.baseurl}}/#launching-software) and the [Security and Compliance
+Guild](https://gsa-tts.slack.com/archives/CG8SNAEQM) can help you out.
 
 You may also be wondering about security clearances. It's not something you need to worry about now.
 If you're in 18F and staffed to a project that needs clearance,
