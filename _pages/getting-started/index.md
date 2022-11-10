@@ -38,9 +38,9 @@ Within your first week or two you should be working through your onboarding chec
 As you try to understand [TTS and what it's about]({{site.baseurl}}/tts-history/),
 you may want to take a look at these org charts:
 
-- [TTS organizational chart](https://docs.google.com/presentation/d/1yXywmOStNyqx1RdFpkdyl32WY8TmHyQwPFUJSkf1WJc/edit#slide=id.g12f4f09f9e8_0_162)
+- [TTS organizational chart](https://docs.google.com/presentation/d/1yXywmOStNyqx1RdFpkdyl32WY8TmHyQwPFUJSkf1WJc/edit?usp=sharing)
+- [Solutions org chart](https://docs.google.com/presentation/d/1ZwGf43skvRo-ZkY4i9jLMDZXWtqarHqtfWsNClku7n8/edit?usp=sharing)
 - [Login org chart](https://docs.google.com/spreadsheets/d/1tiTR2ohdl0NIsrF4gJjNipEZ0z0oq1pOFWYjHg8Tbi0/edit?usp=sharing)
-- [Solutions org chart](https://docs.google.com/presentation/d/10Qfq1AaQh74q76Pik99kQedvshLBo0qLWZGsH-nrV0w/edit#slide=id.g36a90c50d9_0_5) 
 - [18F org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?ts=5c8b93f9#slide=id.g54b7f7db38_18_0)
 
 You'll probably spend quite a bit of time with [the TTS Handbook]({{site.baseurl}}/) --- you're reading it now!
@@ -100,7 +100,7 @@ In both cases, you're collaboratively trying to reach a final version.
 on how to be a good code review partner, but the main thing to remember is simply to be kind. We're all trying to improve things.
 
 And remember: you can be fearless in your pull requests. If you ever manage to break something in GitHub it can easily be changed back to how it was --- that's the beauty of version control.
-If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack.com/app_redirect?channel=tts-handbook) Slack channel and someone will quickly help you.
+If you get stuck, you can just wave in the [#tts-handbook](https://gsa-tts.slack.com/archives/C0DCAMLQH) Slack channel and someone will quickly help you.
 
 ### Setting up your Mac for success
 
@@ -139,17 +139,17 @@ If you hear "ATO" or "Authority to Operate" and are wondering what that's about,
 Guild](https://gsa-tts.slack.com/archives/CG8SNAEQM) can help you out.
 
 You may also be wondering about security clearances. It's not something you need to worry about now.
-If you are in 18F and staffed to a project that needs clearance,
+If you're in 18F and staffed to a project that needs clearance,
 your account manager and staffing rep should make sure that any clearance needs are taken into account.
-Still, it's never a bad idea to ask if you're wondering. 
+Still, it's never a bad idea to ask if you're wondering.
 
 ## TTS Products and Platforms
 
 TTS offers many [products and platforms](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit) to federal agencies, and we are strong proponents of using those products and platforms ourselves, too. Here are three TTS offerings that you will likely interact with early on (and often) during your tenure here.
 
-### Federalist
+### Cloud.gov Pages (was Federalist)
 
-It won't take long at TTS until you hear someone talking --- usually emphatically and ecstatically --- about [Federalist](https://federalist.18f.gov/), which is a really easy way to get a .gov site up and running. If you're already familiar with static site generators, then Federalist will already be pretty clear to you. If you're not, that's okay. It takes care of the hardest bits, and [each step you need to take is well-documented](https://federalist.18f.gov/documentation/). There's even [a handy video to help you get started](https://www.youtube.com/watch?v=OdhZz7udd1o). If you ever get stuck, give a wave in [#federalist](https://gsa-tts.slack.com/messages/C04823NMA) or [#federalist-support](https://gsa-tts.slack.com/messages/C1NUUGTT5) and they'll get you back on track.
+It won't take long at TTS until you hear someone talking --- usually emphatically and ecstatically --- about [Cloud.gov Pages](https://cloud.gov/pages/), which is a really easy way to get a .gov site up and running. If you're already familiar with static site generators, then Pages will already be pretty clear to you. If you're not, that's okay. It takes care of the hardest bits, and [each step you need to take is well-documented](https://cloud.gov/pages/documentation/). There's even [a handy video to help you get started](https://www.youtube.com/watch?v=OdhZz7udd1o). If you ever get stuck, give a wave in [#federalist](https://gsa-tts.slack.com/messages/C04823NMA) or [#federalist-support](https://gsa-tts.slack.com/messages/C1NUUGTT5) and they'll get you back on track.
 
 ### Cloud.gov
 
@@ -157,7 +157,7 @@ Just as Federalist makes creating .gov sites as easy as possible, [Cloud.gov ](h
 
 ### USWDS
 
-USWDS --- the [United States Web Design System](https://designsystem.digital.gov/) --- is a frontend framework designed to make it easy to build accessible, mobile-friendly government websites. They've worked through hundreds of issues related to accessibility, usability, and the overall user experience. Your project can leverage that effort nearly instantly. To try out the USWDS on a test site, you can use the [templates provided by Federalist](https://federalist.18f.gov/documentation/templates/).
+USWDS --- the [United States Web Design System](https://designsystem.digital.gov/) --- is a frontend framework designed to make it easy to build accessible, mobile-friendly government websites. They've worked through hundreds of issues related to accessibility, usability, and the overall user experience. Your project can leverage that effort nearly instantly. To try out the USWDS on a test site, you can use the [templates provided by Pages](https://cloud.gov/pages/documentation/templates/).
 
 Those are just three of the products TTS is working on, but [there are many more](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit).
 
@@ -176,11 +176,11 @@ You're going to hear a lot about acquisitions and procurement. For a quick dive,
 
 - [Post-award management](https://docs.google.com/presentation/d/1pBm3jTlkvPJyOX3KtbjZVcFkKrEwCyqJ9jdOXh0PPuA/edit#slide=id.g57d5603040_0_23)
 
-After that, dive into the relevant handbook pages --- [this is a good starting point]({{site.baseurl}}/working-on-an-acquisition-engagement/) -- or ask any questions you may have in [#acquisition](https://gsa-tts.slack.com/messages/C054NH1FW). If you want to go really deep there are [free courses available](https://www.fai.gov/certification/contracting-fac-c) from the Federal Acquisition Institute.
+After that, dive into the relevant handbook pages --- [this is a good starting point]({{site.baseurl}}/working-on-an-acquisition-engagement/) -- or ask any questions you may have in [#acquisition](https://gsa-tts.slack.com/messages/C054NH1FW). If you want to go really deep there are [free courses available](https://www.fai.gov/training/find-and-register-for-courses) from the Federal Acquisition Institute.
 
 ## Government budgeting
 
-Government budgets have a big impact on what TTS works on and when. You may hear terms like "one year money" or "no year money" or "the color of money" tossed around and wonder what people are talking about. Here's [a slide deck intro](https://docs.google.com/presentation/d/1UHCn895oezfhmAULtTaQZ3Yk2_yGU1eyInfQzmvh1Po/edit).
+Government budgets have a big impact on what TTS works on and when. You may hear terms like "one-year money" or "no-year money" or "the color of money" tossed around and wonder what people are talking about. Here's [a slide deck intro](https://docs.google.com/presentation/d/1UHCn895oezfhmAULtTaQZ3Yk2_yGU1eyInfQzmvh1Po/edit).
 
 Most of TTS is funded from the [Acquisition Services Fund](https://www.law.cornell.edu/uscode/text/40/321) (ASF). This fund does not receive annual appropriations from Congress, but instead collects fees from the government agencies the fund serves. 18F, PIF, and Centers of Excellence are "cost-recoverable," meaning that we must replace the money we use from the ASF. So we take money from the fund to operate it, then replenish it by charging our clients for our time.
 
@@ -192,9 +192,9 @@ For more details on the federal budget process, government shutdowns, our fundin
 
 ### Billability
 
-You will hear about "billability" in TTS, and if you are in 18F, it will be a regular conversation. In order to recover costs, the ASF-funded offices need to bill their clients. Because 18F rotates projects frequently, billing is on-going and tracked through Tock. Your project commitments should be captured by the [#18f-staffing](https://gsa-tts.slack.com/messages/18f-staffing/) team in the [staffing GitHub repo](https://github.com/18f/staffing/issues).
+In order to recover costs, the ASF-funded offices need to bill their clients. Because 18F rotates projects frequently, billing is ongoing and tracked through Tock. Your project commitments should be captured by the [#18f-staffing](https://gsa-tts.slack.com/messages/18f-staffing/) team in the [staffing GitHub repo](https://github.com/18f/staffing/issues).
 
-Not everything 18F does is a billable project, and that's okay. Most people are expected to bill a minimum of 32 hours a week, leaving up to 8 hours for things that aren't related to a partner or a project. This "non-billable" work is often the glue that holds the organization together: guilds, working groups, internal tools and documentation.
+Not everything 18F does is a billable project, and that's okay. Most people are expected to average 4 days/week working toward project outcomes. Other time is spent on things that aren't related to a partner or a project. This "non-billable" work is often the glue that holds the organization together: guilds, working groups, internal tools and documentation.
 
 You can learn more about billing expectations and time tracking in the [Tock Handbook pages]({{site.baseurl}}/tock/).
 
@@ -204,7 +204,7 @@ Almost all 18F projects are considered either a Path Analysis (PA) or an Experim
 
 The short version is that a PA is a short, exploratory engagement in which we help the partner define the problem and look at some potential solutions. For more information and resources, take a look in the [Project Artifacts repo](https://github.com/18F/project-artifacts/blob/master/approach.md).
 
-In a follow-up E&I engagement we, well, experiment and iterate on the findings from the PA. For both types of engagements we have refined an ever-larger set of reusable resources that you can learn more about in the [#project-resources](https://gsa-tts.slack.com/messages/CHZLJBWCV) Slack channel and [Project Resources drive](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361).
+In a follow-up E&I engagement we, well, experiment and iterate on the findings from the PA. For both types of engagements we have refined an ever-larger set of reusable resources that you can learn more about in the [#project-resources](https://gsa-tts.slack.com/messages/CHZLJBWCV) Slack channel and [18F Resources Library in AirTable](https://airtable.com/shrZDkbAFlqkpxY8G).
 
 [Staffing projects at 18F](https://github.com/18F/staffing/blob/master/README.md) might first appear intimidating, but there is [a lot of thought behind it](https://docs.google.com/document/d/1lm7WgfW2u7sMvgcmyxfmbh61cg21fBqvIvzBkXuGfZQ/edit). And yes, we do apply agile thinking to everything, including staffing.
 
@@ -241,7 +241,7 @@ We also strive to be intentional when interacting with one another and with part
 
 Your teammates terming out is a reality at TTS, where many people are term-limited. Since you just started you may feel like that won't affect you for a long time. That is, unfortunately, not the case.
 
-Because roughly 25% of 18F staff term out each year, and PIFs are typically on one year appointments, it may be a very short time until you will be asked to be a subject matter expert, or join leadership. You'll have to be comfortable trying new things. Jump in and pick something up, even if you're not sure you have enough experience or context. Pull as much information as you can out of veterans before they leave, and if you see something that isn't written down yet, write it down. Before you know it, you'll be the veteran. Start preparing for that from day one.
+PIFs are typically on one-year appointments, and Digital Corps Fellows on 2-year appointments. 18F terms are typically now as long as 8 years. It may be a very short time until you will be asked to be a subject matter expert, or join leadership. You'll have to be comfortable trying new things. Jump in and pick something up, even if you're not sure you have enough experience or context. Pull as much information as you can out of veterans before they leave, and if you see something that isn't written down yet, write it down. Before you know it, you'll be the veteran. Start preparing for that from day one.
 
 That's typical TTS operations and culture in a nutshell. At some point, surprisingly soon, you'll have internalized most of these things. That's a great time to come back and read this again for the bits you missed or forgot about. Not long after that, you'll be helping a newcomer understand these things.
 

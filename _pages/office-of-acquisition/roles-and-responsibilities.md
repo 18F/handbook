@@ -34,7 +34,7 @@ The acquisition contracting lead primarily serves on the consulting team as the 
 
 ## Contracting Officer Representative (COR)
 
-The COR serves as the contracting officer’s “eyes and ears.” They monitor contractor performance to ensure the contract’s articulated outcomes are being achieved. A COR is responsible for attaining and maintaining required [FAC-COR](https://www.fai.gov/drupal/certification/fac-cor) certifications. Resources and guides to help the COR fulfill their duties can be found [here](https://drive.google.com/drive/folders/0BxTwA-UymFarOTZBRVFLYkdvcFU). The employee can serve as either a term appointee or career employee of GSA. Post award responsibilities may include but are not limited to:
+The COR serves as the contracting officer’s “eyes and ears.” They monitor contractor performance to ensure the contract’s articulated outcomes are being achieved. A COR is responsible for attaining and maintaining required [FAC-COR](https://www.fai.gov/drupal/certification/fac-cor) certifications. Resources and guides to help the COR fulfill their duties can be found [here](https://drive.google.com/drive/folders/1tSIiw6Jgfpx1OATIBKSXhQf90st1raeQ). The employee can serve as either a term appointee or career employee of GSA. Post award responsibilities may include but are not limited to:
 
 - Understanding the terms of a contract and ensuring that the contractor and federal government meet their contractual obligations.
 - Maintaining an open line of communication between the federal government and the contractor.

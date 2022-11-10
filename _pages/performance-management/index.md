@@ -39,7 +39,7 @@ This page contains performance management quicklinks, important dates, and guida
 | [Online Learning University (OLU) Non-supervisor](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dITEM%5fDETAILS%26componentID%3dGSA%2dHRLINKS%2dPERF%2dMGMT%2dEMPLOYEE%26componentTypeID%3dWBT%26revisionDate%3d1533096000000%26fromSF%3dY&company=GSAHCM03)                                                                                                                          | Performance management trainings (Non-supervisory employees)                                                  |
 | [Online Learning University (OLU) Supervisor](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fhcm03.ns2cloud.com%2Fsf%2Flearning%3FdestUrl%3Dhttps%253a%252f%252fgsa%252dhcm03%252ens2cloud%252ecom%252flearning%252fuser%252fdeeplink%255fredirect%252ejsp%253flinkId%253dITEM%255fDETAILS%2526componentID%253dHR%252bLinks%25253A%252bPerformance%252bManageme%2526componentTypeID%253dWBT%2526revisionDate%253d1533096000000%2526fromSF%253dY%26company%3DGSAHCM03) | Performance management trainings (Supervisory employees)                                                      |
 | [Employee Performance Management](https://insite.gsa.gov/topics/hr-pay-and-leave/employee-performance-management)                                                                                                                                                                                                                                                                                                                                                                         | InSite performance management resources                                                                       |
-| [HR Links: Time Off Award Preference](https://corporateapps.gsa.gov/corporateapps/files/TimeOffAwardPreference_JobAid.pdf)                                                                                                                                                                                                                                                                                                                                                                | Instructions for selecting time off awards in lieu of cash                                                    |
+| [HR Links: Time Off Award Preference](https://corporateapps.gsa.gov/files/TimeOffAwardPreference.pdf)                                                                                                                                                                                                                                                                                                                                                                                     | Instructions for selecting time off awards in lieu of cash                                                    |
 
 ## Who participates in the end of year performance review?
 
@@ -53,7 +53,7 @@ Employees who start **after September 1** are not eligible to participate in the
 
 ### Who is eligible for the end of year performance bonus?
 
-Employees who occupy eligible positions as of September 30, 2021, and who receive an eligible rating of record, will receive an Individual Performance Award (IPA). “Ratings of Record (Annual)” should be completed in HR Links by November 15, or that employee may not receive their award timely.
+Employees who occupy eligible positions as of September 30, 2022, and who receive an eligible rating of record, will receive an Individual Performance Award (IPA). “Ratings of Record (Annual)” should be completed in HR Links by November 14, or that employee may not receive their award timely.
 
 Subject to the availability of funds, OCFO and OHRM plan to distribute IPAs as follows:
 
@@ -61,20 +61,20 @@ Subject to the availability of funds, OCFO and OHRM plan to distribute IPAs as f
 - **Level 4 summary ratings:** Up to 2.1% of adjusted basic pay, or up to 44 hours of time off subject to budget availability.
 - **"High 3" summary ratings:** Up to 0.385% of adjusted basic pay, or up to 8 hours of time off subject to budget availability for employees who receive a Level 3 summary rating with one or more critical elements weighted 15% or greater, rated at Level 4 or Level 5.
 
-The final award percentages for Level 5, Level 4 and Level 3 summary ratings will be determined when all performance reviews are complete. In the event the above targets for the Level 3, Level 4 and Level 5 summary ratings cannot be met due to budget constraints, the percentage payouts for awards will be decreased proportionally. Summary ratings are not an average score — [they are assigned as defined on InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-appraising).
+The final award percentages for Level 5, Level 4 and Level 3 summary ratings will be determined **when all performance reviews are complete**. In the event the above targets for the Level 3, Level 4 and Level 5 summary ratings cannot be met due to budget constraints, the percentage payouts for awards will be decreased proportionally. Summary ratings are not an average score — [they are assigned as defined on InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-appraising).
 
-IPAs are targeted to be paid out in December 2021, as in previous years. However, the IPA payout date depends upon the status of the Continuing Resolution and FY22 funding.
+IPAs are targeted to be **paid out in December 2022**, as in previous years. However, the IPA payout date depends upon the status of the Continuing Resolution and FY22 funding.
 
 ### Selecting award preference in HR Links
 
-If you are eligible for an end-of-year individual performance award (cash or time-off), **please make a selection no later than November 15th.** If you would like to keep the same selection type as FY20, no further action is needed.
+If you are eligible for an end-of-year individual performance award (cash or time-off), **please make a selection no later than November 15th.** If you would like to keep the same selection type as FY21, no further action is needed.
 
 - **Monetary award:** This is the default option in HR Links. No action is needed in HR Links **unless you specified award time off for the prior review cycle**
 
   - To change from **LEAVE** to **CASH**, you need to change your “Time Off Award Preference” to **“Inactive”** and you must then use the **“Save”** button.
-  - **_Note:_** These [instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf) show where to make the change in HR Links, but they are missing the critical "Inactive" and "Save" steps.
+  - **_Note:_** These [instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference.pdf) show where to make the change in HR Links
 
-- **Award leave:** If you would like to select award time off in lieu of a monetary award, please follow [these instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf).
+- **Award leave:** If you would like to select award time off in lieu of a monetary award, please follow [these instructions](https://corporateapps.gsa.gov/files/TimeOffAwardPreference.pdf).
 
 ## Training
 

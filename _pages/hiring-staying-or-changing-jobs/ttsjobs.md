@@ -37,13 +37,13 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Opportunities open to the public
 
-[TTS Designer (GS14/15)](https://join.tts.gsa.gov/join/tts-designer/) - open Thursday, September 22nd, 2022 through Thursday, September 21st, 2023 or until all selections have been made
+[TTS Designer (GS13)](https://join.tts.gsa.gov/join/tts-designer13/) - open Friday, October 7th, 2022 through Friday, October 6th, 2023 or until all selections have been made
 
-[18F Acquisition Strategist](https://docs.google.com/document/d/1XLVCJb_yqrjKWMTgqyF6JrooFWAZp3E2mAGtaiXbuKU/edit?usp=sharing) - GSA wide DHA posting is open until 2/15/2023 however for this vacancy the hiring manager will request a list of applicants that have applied between 9/29/2022 through 10/11/2022.
+[TTS Designer (GS14/15)](https://join.tts.gsa.gov/join/tts-designer/) - open Thursday, September 22nd, 2022 through Thursday, September 21st, 2023 or until all selections have been made
 
 ### Internal only opportunities
 
-[eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit?usp=sharing)-Open Tuesday, September 13th through Tuesday, October 25th
+[e﻿Rulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit) Open Friday, October 28th through Tuesday, February 28th
 
 ## Opportunities with partners
 

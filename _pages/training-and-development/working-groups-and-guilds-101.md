@@ -1,5 +1,5 @@
 ---
-title: Working groups, guilds, and other communities
+title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
@@ -9,47 +9,75 @@ redirect_from:
 	td {padding: 8px;}
 </style>
 
-TTS has a collection of communities to help develop best practices, provide training, explore new ideas, and help solve thorny issues.
+TTS has a collection of communities that connect employees based on shared interests or identities.
 
-These volunteer groups decide how and where to focus their efforts and conversations, in coordination with TTS leadership. Anyone may participate in any of these groups.
+These groups are a valued part of TTS (and in some cases, across government!). They:
 
-## Working groups
+- Foster belonging through relationship-building
+- Provide learning and training opportunities
+- Help employees apply best practices and solve thorny issues.
+- Encourage exposure to new thoughts and ideas.
 
-A working group is a group of people working together to investigate a particular problem and achieve specified goals. They are usually self-organized, and are expected to be short-lived and spin up or down depending on organizational needs. The best possible outcome for a working group is to no longer be needed, because it has solved the problem it was formed to solve.
+## Affinity Groups in TTS
 
-Working groups are usually started by a handful group of people who recognize a problem, then recruit like-minded souls willing to help find a solution. Usually, but not always, the problem is localized to just one part of TTS. Once solved, the working group winds down.
+Affinity groups are spaces where employees of similar identities can talk freely amongst themselves and come together based on shared identities.
 
-Because working groups are typically trying to solve a problem _right now_ starting a working group is relatively simple: Just be able to articulate the problem you want to solve, then have a chat with your org leadership. Typically, that will be your Chief of Staff or Deputy Director, depending on which part of TTS you're in. They'll want to talk to you about whether it's a problem the organization is willing to commit resources to solving right now, and may connect you with other people already working on similar issues.
+Some groups are available by invitation-only. If you do not share that identity, show your allyship by respecting those private gatherings and giving space for people to gather and talk freely amongst themselves. The Diversity Guild is always available as a place to ask questions and show your suppor
 
-Most working groups will create a Slack channel to coordinate efforts. These channels should have a `wg-` prefix. Feel free to jump into any of these channels you see to participate or ask questions.
+The open groups, which are available to all TTS staff, are:
 
-### A sampling of current working groups
+- [\#LGBTQQIAAP](https://gsa-tts.slack.com/archives/C0CJ11XDY) —  is for anyone who identifies as lesbian, gay, bisexual, transgender, queer, questioning, intersex, asexual, or pansexual.
+- [\#Aging parents](https://gsa-tts.slack.com/archives/CLWMLQWER) — is support for people with aging parents.
+- [\#Parents](https://gsa-tts.slack.com/archives/C02KQM2N7) — is for parents... and friends of parents.
+- [\#Women](https://gsa-tts.slack.com/archives/C1WHWP18F) — is an intersectional TTS employee resource group for womxn that provides a safe place to share their experiences and support one another.
+- [\#Self-care](https://gsa-tts.slack.com/archives/C83SUA673) — is for sharing tips for taking care of yourself with a focus on mental health.
+- [\#vets](https://gsa-tts.slack.com/archives/C7QQYRB62) - is for Veterans and colleagues with a Veteran affinity.
+- [\#neurodiversity](https://gsa-tts.slack.com/archives/C01TB9GTX5Z) - is a place to share and discuss lived experiences of neurodiversity.
+
+The invite-only affinity groups are:
+
+- **Latinx** — A space for people who identify as Latinx, Hispanic, Chicanx, Boricua, Cubano, etc.
+- **Asian and Pacific Islanders** — A place for Asian and Pacific Islander TTS staff members to hang out and talk.
+- **Working While Black** — A space for Black TTS staff members.
+- **Shalom Jews** — A space for TTS employees that consider themselves Jewish, Jew-ish, Jew-curious, culturally Jewish, or anything else!
+- **People with Disabilities (PwD)** — Private channel for anyone who identifies themselves as disabled.
+- **Not Your Dude** — Private channel for cis women, trans women, trans men, non-binary people, and those who are otherwise marginalized (i.e., non-hegemonic masculine folks).
+
+For an invitation to these groups, please see [this Slack post](https://app.slack.com/docs/T025AQGAN/F016UD0P6SC?origin_team=T025AQGAN&origin_channel=D011CRNGF71), which includes contact people for each invite-only group.
+
+## Working groups in TTS
+
+A working group brings TTS employees together to investigate a particular problem and achieve specific goals. They are usually self-organized and spin up or down, depending on organizational needs. Some working groups are short-lived, because the group has solved a problem it was formed for.
+
+Working groups typically create Slack channels to coordinate efforts, and the channels have a `wg-` prefix. Feel free to jump into any of these channels to participate or ask questions.
+
+### Current working groups
 
 <div class="table-wrapper">
   <table class="table-existing-grouplets">
     <tbody>
       <tr>
-        <th class="col-grouplet" id="tts-hiring">TTS Hiring</th>
+        <th class="col-grouplet" id="services">Government careers</th>
+        <td class="col-description">A place to share federal job and detail postings that may interest your colleagues.<br />
+          <a href="https://gsa-tts.slack.com/archives/C0KMRN10W">#wg-gov-career</a>
+        </td>
+      </tr>
+      <tr>
+        <th class="col-grouplet" id="tts-hiring">Hiring</th>
         <td class="col-description">Improving hiring practices and materials for all of TTS.<br />
           <a href="https://gsa-tts.slack.com/archives/CEHSLF4LB">#wg-tts-hiring</a>
         </td>
       </tr>
       <tr>
-        <th class="col-grouplet" id="project-impact">Project Impact</th>
-        <td class="col-description">Design and test a project/initiative impact assessment that teams would be able to complete at the end of an engagement or between large phases on a project.<br />
-          <a href="https://gsa-tts.slack.com/archives/CQLRCVA4Q">#wg-project-health</a>
-        </td>
-      </tr>
-       <tr>
-        <th class="col-grouplet" id="onboarding">Onboarding</th>
+        <th class="col-grouplet" id="project-impact">Onboarding</th>
         <td class="col-description">Improving the first 7, 30 and 90 days for new TTS members.<br />
           <a href="https://gsa-tts.slack.com/archives/C02E3TK0U">#wg-onboarding</a>
         </td>
       </tr>
-      <tr>
-        <th class="col-grouplet" id="services">18F Service Offerings</th>
-        <td class="col-description">Design and test 1-3 new meaningful service offerings that match partner needs and align with our expertise.<br />
-          <a href="https://gsa-tts.slack.com/archives/C02E3TK0U">#wg-service-offerings</a>
+       <tr>
+        <th class="col-grouplet" id="onboarding">User Research Compensation</th>
+        <td class="col-description">Operationalizing user research compensation at TTS.<br />
+          <a href="https://gsa-tts.slack.com/archives/C0136J3LNP2">#wg-user-research-compensation</a>
         </td>
       </tr>
     </tbody>
@@ -58,24 +86,15 @@ Most working groups will create a Slack channel to coordinate efforts. These cha
 
 The [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com) can help you find working group meeting times.
 
-## Guilds
+## Guilds in TTS
 
-Guilds are long-running groups sponsored by the TTS Chief of Staff, and as such are expected to coordinate practices and solve problems across TTS. Because they are cross-TTS structures, their leadership should come from more than one part of TTS and they should provide clear value to a broad cross-section of TTS through training and promotion of best practices in their subject area.
+Guilds seek to implement long-term, positive change within TTS. They offer training and promotion of best practices in their subject area.
 
-Guild Slack channels have a `g-` before the name. Just as with working groups, you do not need permission to participate. Just jump right in.
+Guilds are typically long-running and are sponsored by the TTS Chief of Staff.
 
-The open Slack channel for guild leaders & other practice leaders who wish to join is `#guild-practice-leads`
+Guild Slack channels have a `g-` before the name. Like working groups, you do not need permission to participate: just jump right in.
 
 Guild meeting times can also be found on the [TTS Working Groups & Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com).
-
-Because guilds are intended to work across TTS, and because they require substantial and ongoing organizational support and investment, they are coordinated by a group made up of leadership from across TTS. If you'd like to create a new guild, you should start by having a talk with your Chief of Staff, Chief of Practices or Deputy Director (again, depending on which part of TTS you're in) and they'll take it to the group for consideration.
-
-Remember, you're asking for a substantial commitment of organizational resources. At a minimum, they'll want to know:
-
-- How will this guild be beneficial to all of TTS? How does it provide organizational value?
-- Who do you expect to start and lead the guild, and what parts of TTS are they coming from?
-- What does the guild intend to do? What are the expected deliverables?
-- If there are groups working on similar problems, how does the proposed guild differ?
 
 ### Current guilds
 
@@ -174,45 +193,31 @@ Typically guilds follow a lightweight leadership selection process:
 1. A panel of one-three people made up of guild leadership, other guild members and/or leadership from other guilds conduct brief (no more than 30 minute) interviews of candidates and makes a selection.
 1. A current guild leader announces the new leader, who takes up the position immediately.
 
-### Organizing guild speakers
+## Collectives in 18F
 
-At times, guilds may invite speakers that are subject matter experts in providing digital services or best practices that can help improve the lives of the public and public servants. We may reach out to them through our personal network, including non-government employees. In such a case, we make sure not to endorse their publication, product or service, as a GSA employee. This would give the appearance of preferential treatment, about which government has strict policies.
+A collective is a group of 18F staff that share or are motivated by at least one common issue or interest and work together to achieve a common objective.
 
-Do say:
+Collectives started as an experiment in how 18F can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization. They remain a way for 18F to experiment with whether a group serves a sustained need.
 
-> This Friday, the Accessibility Guild welcomes Jane Doe, who will present how research frameworks can help implement Inclusive Design in our digital projects...
+Collectives organize in Slack channels beginning with a `c-` prefix. You can join any that you find interesting.
 
-Don't say:
-
-> This Friday, the Accessibility Guild welcomes Jane Doe, author of my favorite book _ABCD Framework for Inclusive Design_. Everyone should read it!
-
-We also avoid giving an unfair advantage to someone involved in a bid in progress with GSA. To avoid any ethical or legal conflict, please check with the [Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview) before booking a speaker. We kindly remind our speakers not to endorse their product by saying where it can be purchased or by offering discounts to government employees.
-
-## 18F Collectives
-
-18F has developed Collectives, with "Collective Leads" guiding them. These collectives started as an experiment in how we can support important practices and focus areas long-term within the tight constraints of a cost-recoverable organization. They remain a way for us to experiment with whether a group serves a sustained need.
-
-A collective is a group of people that share or are motivated by at least one common issue or interest, or work together to achieve a common objective.
-
-These collectives should all have Slack channels with a `c-` prefix. Since their channels are one of their best ways of promoting best practices, you're encouraged to join any you find interesting.
-
-Current 18F Collectives (and Leads) include:
+Current 18F Collectives:
 
 <div class="table-wrapper">
   <table class="table-existing-grouplets">
     <tbody>
       <tr>
+        <th class="col-grouplet">Data</th>
+        <td>Princess Ojiaku & Peter Rowland</td>
+        <td>
+          <a href="https://gsa-tts.slack.com/messages/c-data">#c-data</a>
+        </td>
+      </tr>
+      <tr>
         <th class="col-grouplet">Ethics in Tech</th>
         <td>Matt Henry & Tiffany Andrews</td>
         <td>
           <a href="https://gsa-tts.slack.com/messages/c-ethics-in-tech">#c-ethics-in-tech</a>
-        </td>
-      </tr>
-      <tr>
-        <th class="col-grouplet">Project Resources</th>
-        <td>Nina Mak & Malaika Carpenter</td>
-        <td>
-          <a href="https://gsa-tts.slack.com/messages/c-project-resources">#c-project-resources</a>
         </td>
       </tr>
       <tr>
@@ -223,24 +228,10 @@ Current 18F Collectives (and Leads) include:
         </td>
       </tr>
       <tr>
-        <th class="col-grouplet">Partners Network</th>
-        <td>Skippy Williams & Ben Peterson</td>
+        <th class="col-grouplet">Project Resources</th>
+        <td>Nina Mak & Malaika Carpenter</td>
         <td>
-          <a href="https://gsa-tts.slack.com/messages/c-partners-network">#c-partners-network</a>
-        </td>
-      </tr>
-      <tr>
-        <th class="col-grouplet">Data</th>
-        <td>Princess Ojiaku & Peter Rowland</td>
-        <td>
-          <a href="https://gsa-tts.slack.com/messages/c-data">#c-data</a>
-        </td>
-      </tr>
-      <tr>
-        <th class="col-grouplet">Agile</th>
-        <td>Julia Allen & Alex Bielen</td>
-        <td>
-          <a href="https://gsa-tts.slack.com/messages/agile">#agile</a>
+          <a href="https://gsa-tts.slack.com/messages/c-project-resources">#c-project-resources</a>
         </td>
       </tr>
       <tr>
@@ -254,18 +245,24 @@ Current 18F Collectives (and Leads) include:
   </table>
 </div>
 
-## Communities of Practice
+## Communities of Practice across government
 
 A Community of Practice (CoP) provides for government-wide knowledge-sharing. They attract members from across government agencies, and provide a good opportunity for Guilds to connect with others in government and influence best practices beyond TTS.
 
 Digital.gov [hosts the Communities of Practice](https://digital.gov/communities/).
 
-## Listservs, Google Groups and mailing lists
+## Organizing external (non-gov) speakers
 
-There are a number of groups that are good for collaborating across government. If any of these topics interest you, consider joining---even if you prefer to lurk. (Consider [filtering messages like these](https://support.google.com/mail/answer/6579?hl=en) so they appear in their own Gmail label.)
+At times, TTS groups may invite external speakers through their personal networks. When inviting non-government employees, the event organizer must be careful not to endorse any publication, product or service. This would give the appearance of preferential treatment, about which the government has strict policies. Speakers should also be kindly reminded not to endorse their product by saying where it can be purchased or by offering discounts to government employees.
 
-#### GSA Press Clips
+Here is a correct versus incorrect way to announce a guest speaker for an upcoming event.
 
-**About:** This is an internal GSA google group we set up to bring together the various press clips that are sent out by the Communications office.
+Do say:
 
-**To join:** [Apply via Google Groups](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-clips).
+> This Friday, the Accessibility Guild welcomes Jane Doe, who will present how research frameworks can help implement Inclusive Design in our digital projects...
+
+Don't say:
+
+> This Friday, the Accessibility Guild welcomes Jane Doe, author of my favorite book _ABCD Framework for Inclusive Design_. Everyone should read it!
+
+We also avoid giving an unfair advantage to someone involved in a bid in progress with GSA. To avoid any ethical or legal conflict, please check with the [Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview) before booking a speaker.

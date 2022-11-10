@@ -41,10 +41,8 @@ In most cases, supervisors should own the creation of performance plans for dire
 
 ## Updating a performance plan
 
-After copying (cloning) a prior year performance plan, updates to the critical elements will likely be needed to align with current fiscal year goals. This section provides resources, including prior year examples, for updating performance plans.
+After creating or copying (cloning) a prior year performance plan, updates to the critical elements, specifics measures and/or rating expectation levels will likely be needed to align with current fiscal year goals. This section provides resources, including prior year examples, for updating performance plans.
 
-- [FY21 TTS Performance Plan Framework](https://docs.google.com/document/d/1Hxj17-hm9GaAKRRZRPA0_f1RPqswIlmuN6yQknWgba8/edit)
-  - Includes the three tiers of critical elements and suggested percentage weights
 - [FY20 Performance Plan Critical Elements Examples](https://docs.google.com/document/d/1stzNzIYVqSUX8bo7Zy798L9lU8tR78CyEYIypmBrm-M/edit?usp=sharing)
   - Provides prior year examples of performance plans for Business Units across TTS
 - [FY21 Business Unit Critical Elements Builder](https://docs.google.com/spreadsheets/d/1mWpN4mSYUaFxYUP8QmcQPMUwVzki-0-0vz1R70-uNkQ/edit#gid=612468956)
@@ -168,7 +166,7 @@ Submitting a participant review in HR Links is the same process for all nominate
 
 ## Confirming that performance plans have been acknowledged
 
-It is critical that all FY21 performance plan evaluations are acknowledged and all FY22 performance plans are acknowledged (established) by employees before November 15. The status of employee performance management can be checked in the _Team Performance Supervisor dashboard_:
+It is critical that all performance plan evaluations are acknowledged and all new fiscal year performance plans are acknowledged (established) by employees by GSA deadline. The status of employee performance management can be checked in the _Team Performance Supervisor dashboard_:
 
 - Step-by-step instructions:
 

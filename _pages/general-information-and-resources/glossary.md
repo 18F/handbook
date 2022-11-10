@@ -206,6 +206,8 @@ redirect_from:
 
 - **QASP** - Quality Assurance Surveillance Plan. Often pronounced to rhyme with "wasp."
 
+- **README** - A README file contains information about a software development project. It describes the project, the code, and how someone can contribute. TTS has adapted this model for team building, encouraging employees to develop their own [personal READMEs](https://docs.google.com/document/d/10-Shya-zEZ8-xyvkhIythiRHVkVizzt8WvQXHzcBCA0/edit), which can be added to an [organization-wide index](https://docs.google.com/document/d/1U5Eq3AD7XIP72I0GKr-mMm017s485KLyRfEaSB5yL5A/edit#).
+
 - **Repo** - Repository. A place to store code or data in a central location (such as GitHub).
 
 - **RfQ** - Request for Quotation. Soliciting bids from vendors, then assessing those vendors and bids.

@@ -23,14 +23,23 @@ This page contains additional resources and trainings for supervisors who are go
 
 ## Performance review training sessions
 
+The resources below are still applicable to the FY22 performance managment closeout and FY23 performance plan establishment process.
+
 - [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
   - Presentation and On-demand Videos
-- [Career progression framework]({{site.baseurl}}/#career-progression-framework)
+- [Career progression framework]({{site.baseurl}}/career-progression-framework/overview/)
   - [CPF Overview Video](https://drive.google.com/file/d/1octLMWua6MVO4aJKdyvKVEo4uHayhHOe/view?usp=sharing)
 - FY22 performance plan framework
   - [Presentation and On-demand Videos](https://docs.google.com/presentation/d/1N-Fn9MgQs-eI9D8m_VuBQONWy00OWTU8KOLBK_ivX4c/edit?usp=sharing)
   - [Diagram of the FY22 Framework](https://docs.google.com/presentation/d/1N1zegrsmeul9IIwXW2V6eE1RRU20aCOKpcT9Z1XFy-M/edit?usp=sharing)
 - [Performance rating level definitions & examples](https://docs.google.com/document/d/1a5fEmORdBkA6MBVeB7BzvXCHRXg1XLfDr4kngwczFAg/edit?usp=sharing)
+- Equitable Performance Reviews presentation
+  - [On-demand Video](https://drive.google.com/file/d/1SX7Nkd3ZYvcYOdnydH8E50JJb-V1DclL/view?usp=sharing)
+  - [Slidedeck](https://docs.google.com/presentation/d/1V2F0fre4UlyqBzsDYOL2MdF-Ae-YW02N7gwHC6jnpb4/edit#slide=id.p)
+- Workforce Relations Performance Management presentation
+  - [On-demand Video](https://drive.google.com/file/d/1OUfdFCmAT-4ksm0G20FtIre_oDtAmPHq/view)
+  - [Slidedeck](https://docs.google.com/presentation/d/1Ii-ooyCeOSV5LeYWZEjn2047eVC0i9KNVexjaB5QjEk/edit#slide=id.p1)
+- [Caption transcript of the Equitable Performance Reviews and Performance Management presentations](https://drive.google.com/file/d/19A7O838v0fDMwM35BfgaAhgQn5gW18uW/view)
 
 ## Union requirements for end of year performance reviews
 
@@ -153,24 +162,22 @@ A supervisor may need to approve an employee performance plan or employee evalua
 
 ### Leveraging diversity performance measure
 
-All FY22 **supervisory performance plans** must include the “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit#heading=h.7ki5n23m5zhy).
+All **supervisory performance plans** must include the “Leveraging Diversity” measure. For guidance on adding this to supervisory plans [click here](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit#heading=h.7ki5n23m5zhy).
 
 ### Acquisition Critical Element
 
-All CORs on active delegation must have the new Acquisition Critical Element on their FY22 Performance Plan. For guidance on adding this critical element to performance plans [click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
+All CORs on active delegation must have the new Acquisition Critical Element on their Performance Plan. For guidance on adding this critical element to performance plans [click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
 
 ## Additional training
 
 ### Supervisors’ Lounge Question and Answer Sessions
 
-| Date             | Time               | Session                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ---------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| October 6, 2021  | 1-3:00 p.m. EST    | [Performance Management Training for Supervisors/Managers](https://gsa-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentTypeID=ILT&componentID=OHRM-PERFORM_MGMT_TRNG_SUP%2FMGR&revisionDate=1597664820000&catalogCurrencyCode=USD&returnLink=%2Flearning%2Fuser%2Fcatalogsearch%2FcatalogSearchDispatchAction.do%3FsearchType%3DfilteredSearch%26keywords%3D&backto=%2Flearning%2Fuser%2Fcatalogsearch%2FcatalogSearchDispatchAction.do%3FsearchType%3DfilteredSearch%26keywords%3D)     |
-| October 13, 2021 | 2-3:00 p.m. EST    | [End of Year Close Out & Performance Planning Training & HR Links](https://gsa-hcm03.ns2cloud.com/learning/user/deeplink.do?OWASP_CSRFTOKEN=AIJN-FUK4-XZAG-6TJB-6FPH-64H1-MUSP-8LCM&linkId=REGISTRATION&fromSF=Y&scheduleID=525244)                                                                                                                                                                                                                                                                          |
-| October 14, 2021 | 1-3:00 p.m. EST    | [Performance Management Training for Supervisors and Managers](https://gsa-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentTypeID=ILT&componentID=OHRM-PERFORM_MGMT_TRNG_SUP%2FMGR&revisionDate=1597664820000&catalogCurrencyCode=USD&returnLink=%2Flearning%2Fuser%2Fcatalogsearch%2FcatalogSearchDispatchAction.do%3FsearchType%3DfilteredSearch%26keywords%3D&backto=%2Flearning%2Fuser%2Fcatalogsearch%2FcatalogSearchDispatchAction.do%3FsearchType%3DfilteredSearch%26keywords%3D) |
-| October 21, 2021 | 1-3:00 p.m. EST    | [Performance Management Training for Supervisors and Managers](https://gsa-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentTypeID=ILT&componentID=OHRM-PERFORM_MGMT_TRNG_SUP%2FMGR&revisionDate=1597664820000&catalogCurrencyCode=USD&returnLink=%2Flearning%2Fuser%2Fcatalogsearch%2FcatalogSearchDispatchAction.do%3FsearchType%3DfilteredSearch%26keywords%3D&backto=%2Flearning%2Fuser%2Fcatalogsearch%2FcatalogSearchDispatchAction.do%3FsearchType%3DfilteredSearch%26keywords%3D) |
-| October 26, 2021 | 1:30-2:30 p.m. EST | [End of Year Close Out & Performance Planning Training & HR Links](https://gsa-hcm03.ns2cloud.com/learning/user/deeplink.do?OWASP_CSRFTOKEN=AIJN-FUK4-XZAG-6TJB-6FPH-64H1-MUSP-8LCM&linkId=REGISTRATION&fromSF=Y&scheduleID=525245)                                                                                                                                                                                                                                                                          |
-| October 27, 2021 | 1-3:00 p.m. EST    | [Performance Management Training for Supervisors and Managers](https://gsa-hcm03.ns2cloud.com/learning/user/common/viewItemDetails.do?componentTypeID=ILT&componentID=OHRM-PERFORM_MGMT_TRNG_SUP%2FMGR&revisionDate=1597664820000&catalogCurrencyCode=USD&returnLink=%2Flearning%2Fuser%2Fcatalogsearch%2FcatalogSearchDispatchAction.do%3FsearchType%3DfilteredSearch%26keywords%3D&backto=%2Flearning%2Fuser%2Fcatalogsearch%2FcatalogSearchDispatchAction.do%3FsearchType%3DfilteredSearch%26keywords%3D) |
+| Date             | Time            | Session                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ---------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| October 12, 2022 | 1-2:00 p.m. EST | [End of Year Close Out and Performance Planning with HR Links](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS91aS9sbXMtbGVhcm5pbmctZGV0YWlscy9hcHAvZXZlbnQvZmM5MDQ1NzItZTNmZS00ZWVlLWEwMmYtYTY5YjUyZTQzYzU5In0.ytvVHRR13he5hA8DCtITe9K-r5AgYOTiv7E5tlFVpp8/s/642947709/br/144733177607-l)                                                                                                        |
+| October 13, 2022 | 1-2:30 p.m. EST | [Performance Management Training for Supervisors/Managers](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS9zYW1sZGVmYXVsdC5hc3B4P291aWQ9MSZyZXR1cm51cmw9JTI1MmZEZWVwTGluayUyNTJmUHJvY2Vzc1JlZGlyZWN0LmFzcHglMjUzZm1vZHVsZSUyNTNkbGF1bmNodHJhaW5pbmclMjUyNmxvJTI1M2QxZTU3ZTRlYy05ODIyLTRhODctYmZjZC1jODM3NzU3NDI4MTUifQ.YZRDTwsCL1r69R9o8UdjqhceB81EwIHtuFTb-mStWdo/s/642947709/br/144733177607-l) |
+| October 25, 2022 | 1-2:00 p.m. EST | [End of Year Close Out and Performance Planning with HR Links](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMTYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS91aS9sbXMtbGVhcm5pbmctZGV0YWlscy9hcHAvZXZlbnQvZmM5MDQ1NzItZTNmZS00ZWVlLWEwMmYtYTY5YjUyZTQzYzU5In0.Fw9OuCE5nA-w6bsDvL6_RIWKi66wzqmWOpoO12e239k/s/642947709/br/144733177607-l)                                                                                                        |
+| October 26, 2022 | 1-2:30 p.m. EST | [Performance Management Training for Supervisors/Managers](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMTcsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS9zYW1sZGVmYXVsdC5hc3B4P291aWQ9MSZyZXR1cm51cmw9JTI1MmZEZWVwTGluayUyNTJmUHJvY2Vzc1JlZGlyZWN0LmFzcHglMjUzZm1vZHVsZSUyNTNkbGF1bmNodHJhaW5pbmclMjUyNmxvJTI1M2QxZTU3ZTRlYy05ODIyLTRhODctYmZjZC1jODM3NzU3NDI4MTUifQ.Gb6pRW-pQAtkowPXquFMfzJ7N3esTNV85DTfS0ce_bo/s/642947709/br/144733177607-l) |
 
 ### [HR Links Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems)
 
@@ -181,7 +188,7 @@ Courses include, but is not limited to the following:
 - Complete a Mid-Year Progress Review
 - Submit Employee Evaluation
 
-### [OLU Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03)
+### [OLU Performance Management Program](https://gsa.csod.com/ui/lms-learning-details/app/curriculum/50856f17-4166-4c3c-a9e5-b3ffb444cfbd)
 
 Courses include, but is not limited to the following:
 

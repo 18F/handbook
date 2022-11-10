@@ -91,7 +91,7 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21 fo
 
 ### Once inside GSA
 
-TTS is located on floor three, wing one. When entering from the F Street entrance, go left once you pass through security. Walk down the hallway to the set of elevators or stairs. Take the elevators or stairs up to floor three. Once out of the elevators, take a right turn. If you use the stairs, take a left turn out of the stairwell.
+TTS is located on the ground floor, in the wing one. When entering from the F Street entrance, go left once you pass through security. Walk down the hallway to the set of elevators or stairs. Take the elevators or stairs down to ground floor. Once you are on ground floor, be sure to head to the wing one (Red wing on the map). Our office spaces are located in the range of G120s and G130s.
 
 ## How do I...
 
@@ -185,9 +185,9 @@ There is a fridge inside the room and one outside the room, in the health clinic
 
 If you need batteries for your keyboard or trackpad, there is a consolidated supply closet on the first floor of the building, in the 200 wing.
 
-### Spare keyboards and mice
+### Request keyboards and mice
 
-Melvin Moreira in GSA IT has all of the spare Mac equipment. You can email him to confirm that he is in the office. He sits on the ground floor, wing zero, in room G035.
+Submit a Service Catalog ticket to IT Help Desk. Be sure to mention in the ticket that you have Mac laptop. Once your ticket has been approved, you can go and pick up at G200 (ground floor, second wing). Be sure to have your ticket number ready for them.
 
 ### Lockers
 

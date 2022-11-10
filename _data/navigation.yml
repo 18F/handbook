@@ -16,12 +16,6 @@ primary:
       - text: Org chart
         url: https://docs.google.com/presentation/d/1otRbhoGRN4LfDnWpN6zZ0ymjPpTBW3t79pIiuBREkCY/edit
         internal: false
-      - text: Request for Comments
-        url: request-for-comments/
-        internal: true
-      - text: Strategy
-        url: https://docs.google.com/presentation/d/10Y39kVm6Wrl-V1D55msMwt1yWdkCOWJBcPqnqhg-NMA/edit
-        internal: false
       - text: Digital Council
         url: about-us/digital-council/
         internal: true
@@ -51,9 +45,6 @@ primary:
       - text: Travel 101
         url: getting-started/classes/travel-101/
         internal: true
-      - text: TTS Supervisor Guide
-        url: https://docs.google.com/document/u/0/d/14bSqkCzfxvf5lI7k_LwSK8MLDnImqjrQFTXrtTcwcEY/edit
-        internal: false
   - text: Training &amp; Development
     href: /#training-amp-development
     blurb: |
@@ -80,9 +71,15 @@ primary:
       - text: Online Learning University (OLU)
         url: training-and-development/olu/
         internal: true
-      - text: Working groups, Guilds, Communities of Practice and mailing lists
+      - text: Affinity groups, working groups, guilds, and communities of practice
         url: training-and-development/working-groups-and-guilds-101/
         internal: true
+      - text: Career Progression Framework (CPF) project description and overview
+        url: career-progression-framework/overview/
+        internal: true
+      - text: TTS Career Progression Frameworks
+        url: https://drive.google.com/drive/folders/12E7VbV7YhRfBp5fRdcjfpdVSLPPCyKHe
+        internal: false
   - text: Travel and leave
     href: /#travel-and-leave
     blurb: |
@@ -91,14 +88,11 @@ primary:
       - text: Leave (HR Links)
         url: travel-and-leave/leave/
         internal: true
-      - text: Covid leave guidance
-        url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
-        internal: false
       - text: Out of office expectations
         url: travel-and-leave/leave/#leave-checklist
         internal: true
       - text: Paid Parental Leave
-        url: travel-and-leave/leave/#federal-employee-paid-leave-act-paid-parental-leave
+        url: travel-and-leave/leave/#paid-parental-leave
         internal: true
       - text: Travel guide (table of contents)
         url: travel-and-leave/travel-guide-table-of-contents/
@@ -106,16 +100,16 @@ primary:
       - text: Voluntary Leave Transfer Program (VLTP)
         url: travel-and-leave/voluntary-leave-transfer-program/
         internal: true
-  - text: Career Progression Framework
-    href: /#career-progression-framework
+  - text: Supervisor Resources
+    href: /#supervisor-resources
     blurb: |
-      Learn about every role we have at TTS, including the knowledge, skills, and abilities needed for success at each career stage.
+      Tools and tips for supervisors.
     children:
-      - text: Career Progression Framework (CPF) project description and overview
-        url: career-progression-framework/overview/
-        internal: true
-      - text: TTS Career Progression Frameworks
-        url: https://drive.google.com/drive/folders/12E7VbV7YhRfBp5fRdcjfpdVSLPPCyKHe
+      - text: New Supervisor Playbook
+        url: https://docs.google.com/document/d/1Y2RvRh2xdlZDUX2wr9kRJ_z0XwPz-F7Kjw3kLD0SfCg/edit
+        internal: false
+      - text: TTS Supervisor Guide
+        url: https://docs.google.com/document/u/0/d/14bSqkCzfxvf5lI7k_LwSK8MLDnImqjrQFTXrtTcwcEY/edit
         internal: false
   - text: Performance management
     href: /#performance-management
@@ -273,8 +267,8 @@ primary:
               - text: Employment verification
                 url: employment-verification/
                 internal: true
-              - text: Overtime and comp time
-                url: overtime-and-comp-time/
+              - text: Overtime, comp time, and credit hours
+                url: travel-and-leave/overtime/
                 internal: true
               - text: Purchase requests
                 url: purchase-requests/

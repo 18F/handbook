@@ -48,6 +48,7 @@ jobs:
         with:
           # Use the branch commit instead of the PR merge commit
           ref: ${{ github.event.pull_request.head.sha }}
+          token: ${{ secrets.FORMATTER_GITHUB_TOKEN }}
 
       - name: replace absolute links to Handbook
         uses: jacobtomlinson/gha-find-replace@0.1.4

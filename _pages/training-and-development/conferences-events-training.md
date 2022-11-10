@@ -31,6 +31,8 @@ These inclusive event pillars are designed to help TTS:
 - Create intentionally inclusive events
 - Share our expectation that TTS employees thoughtfully consider what speaking engagements they accept
 
+For 18F, you can view the [18F FY23 Training plan](https://docs.google.com/document/d/1P36Q_RF_78SRLcKcz3O3nuA6Nw-Y6MfRR7NB290M5qI/edit). The plan includes strategic development priorities for team-wide trainings and notes on the process for allocating 18F training funds.
+
 ## Getting approval for a conference, event, or training
 
 1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) to initiate the request process. **_Here is [guidance on writing an event justification](https://docs.google.com/document/d/13BCETwANCx9JRPgFbRibqRGthIvf4XQ-WTYD0P30PWg/edit?usp=sharing)._** Upon completing it, you and your supervisor will get an automated email, which confirms the details you entered and provides all of the actions that you will need to complete for the request. Your supervisor may want to discuss the request with you before proceeding with further approvals.
@@ -74,19 +76,14 @@ The automated email that you will receive outlines the step(s) below that you wi
 
 ### Creating an SF-182 (required for most conference, event, and training requests that have a cost)
 
-1. You must [generate a Standard Form 182 (SF-182)](https://corporateapps.gsa.gov/files/SF-182-Job-Aid.pdf) in [Online University (OLU)](https://gsaolu.gsa.gov/), and fill-in the required fields with the most relevant responses corresponding to your request type.
-   - It is optional, but recommended, that you [update your Individual Development Plan (IDP)](https://corporateapps.gsa.gov/files/IDP-Job-Aid-for-Employees.pdf) in [OLU](https://gsaolu.gsa.gov/) to account for the requested activity.
-2. Once you have generated the SF-182, you will need to enter the routing approval queue.
-   - Your **supervisor’s name will auto-populate** in the first approver field. Please verify who the system chose by selecting “Show All” next to “Manager Level 1” in the approvers column.
-     - If the supervisor needs to be modified, you will have to email [HRlinks@gsa.gov](mailto:HRlinks@gsa.gov) to edit this locked field on the SF-182.
-   - For **Budget Verifier/Appropriator**, click 'Select User for Approval' then search for and select **stevenj.williams@gsa.gov**
-   - For **Purchaser/Purchase Card Holder**, click 'Select User for Approval' then search for and select **djemila.mccray@gsa.gov**
-   - Submit the SF-182 for approval.
-3. Once approved, save a PDF copy of your SF-182.
-   - Click the “Printable Version” link at the top of the SF-182, then click “Print this request” to save as a PDF.
-4. Email [tts-events@gsa.gov](mailto:tts-events@gsa.gov) with your SF-182 PDF attached.
-5. The Training & Events Lead (Keith Wilson) will provide a final review within 2 business days of receiving the SF-182 and any other required information that's applicable.
-6. Within 2 business days of the Training & Events Lead's approval, a TTS purchase card holder will complete the payment of your registration and the TTS travel team will approve your travel in Concur, if applicable.
+1. You must generate a Standard Form 182 (SF-182)in [Online University (OLU)](https://gsaolu.gsa.gov/), and fill-in the required fields with the most relevant responses corresponding to your request type.
+   - This [OLU Job Aid](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corporateapps.gsa.gov/files/GSA_JobAid_EndUser_SF182.pdf) has instructions on how to Create, Submit, PDF, and Verify an SF-182.
+2. Your supervisor’s name will auto-populate. If the default supervisor needs to be modified, please email TTS-Events@gsa.gov for assistance.
+3. After submitting the SF-182 for approval, you will receive an email notification when the SF-182 is approved.
+4. Once your SF-182 is approved, save a PDF copy by following the 'Create A PDF' instructions on page 5 of the [OLU Job Aid](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corporateapps.gsa.gov/files/GSA_JobAid_EndUser_SF182.pdf).
+5. Email [tts-events@gsa.gov](mailto:tts-events@gsa.gov) with your SF-182 PDF attached.
+6. The Training & Events Lead (Keith Wilson) will provide a final review within 2 business days of receiving the SF-182 and any other required information that's applicable.
+7. Within 2 business days of the Training & Events Lead's approval, a TTS purchase card holder will complete the payment of your registration and the TTS travel team will approve your travel in Concur, if applicable.
 
 ### Booking travel
 
@@ -104,7 +101,25 @@ Add your notes about the conference or training to the [TTS Training Database](h
 
 ## Buying books
 
-You can also use your training budget to buy books for self-guided study. Approval for books follows the same process as approvals for trainings. You'll need to fill out [the training request form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link) using the names of the books you want to buy. You may want to first check your local library system to see what books, newspapers, subscriptions, and other resources are available there.
+You can also use your training budget to buy books for self-guided study. You
+may want to first check your local library system to see what books,
+newspapers, subscriptions, and other resources are available there. Approval
+for books uses a similar process as approval for trainings, but many of the
+forms are not designed for book purchases and need to be repurposed.
+
+Start with [the training request
+form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link).
+That form has annotations for how to use it for book purchases. Briefly, the
+book title is used for the name of the event and the current date is used for
+all of the date fields. On the second page of the form under the "Anything
+else" question, enter the website where the book can be purchased.
+
+When you have submitted that form, you and your supervisor will receive an
+email with further instructions. In the case where the book is not being used
+for training, the only thing that needs to be done is an email from your
+supervisor approving the purchase. If the book is being used in a training,
+then there are further tasks to be completed with form SF-182 as detailed in
+that initial response email.
 
 ## Hosting non-government speakers
 

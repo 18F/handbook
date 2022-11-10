@@ -22,9 +22,11 @@ This page contains additional resources and trainings for employees who are goin
 
 ## Performance review training sessions
 
+The resources below are still applicable to the FY22 performance managment closeout and FY23 performance plan establishment process.
+
 - [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
   - Presentation and On-demand Videos
-- [Career progression framework]({{site.baseurl}}/#career-progression-framework)
+- [Career progression framework]({{site.baseurl}}/career-progression-framework/overview)
   - [CPF Overview Video](https://drive.google.com/file/d/1octLMWua6MVO4aJKdyvKVEo4uHayhHOe/view?usp=sharing)
 - FY22 performance plan framework
   - [Presentation and On-demand Videos](https://docs.google.com/presentation/d/1N-Fn9MgQs-eI9D8m_VuBQONWy00OWTU8KOLBK_ivX4c/edit?usp=sharing)
@@ -62,11 +64,11 @@ This information can be shared with your Supervisor during your mid-year and end
 
 ### Acquisition Critical Element
 
-All CORs on active delegation must have the new Acquisition Critical Element on their FY21 Performance Plan. For guidance on adding this critical element to performance plans [click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
+All CORs on active delegation must have the new Acquisition Critical Element on their Performance Plan. For guidance on adding this critical element to performance plans [click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
 
 ## Training
 
-- Online [Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03) to support performance management of both organizations and employees including tools and job aids. Courses include, but is not limited to the following:
+- Online [Performance Management Program](https://gsa.csod.com/ui/lms-learning-details/app/curriculum/50856f17-4166-4c3c-a9e5-b3ffb444cfbd) to support performance management of both organizations and employees including tools and job aids. Courses include, but is not limited to the following:
   - Performance Management Overview – Refresher and introduction of the performance management program.
   - Performance Planning Cascading Goals – Learn the importance of cascading goals to align with organizational performance to support organizational success.
   - Performance Planning Establishing SMART Performance Plans – Learn the importance of writing measurable plans to support organizational outcomes.
@@ -80,7 +82,7 @@ All CORs on active delegation must have the new Acquisition Critical Element on 
   - Acknowledge a Mid-Year Progress Review
   - Acknowledge an Evaluation
 
-### [OLU Performance Management Program](https://hcm03.ns2cloud.com/sf/learning?destUrl=https%3a%2f%2fgsa%2dhcm03%2ens2cloud%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dGSA%2dPERFORMANCE%5fMANAGEMENT%26fromSF%3dY&company=GSAHCM03)
+### [OLU Performance Management Program](https://gsa.csod.com/ui/lms-learning-details/app/curriculum/50856f17-4166-4c3c-a9e5-b3ffb444cfbd)
 
 Courses include, but is not limited to the following:
 
