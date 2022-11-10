@@ -5,7 +5,6 @@ tags:
   - hrlinks
   - hr links
   - hr links
-
   - vacation
   - funeral
   - death
@@ -154,7 +153,7 @@ For example: You look in HRLinks and see "182 Hours (96 Hours Use or Lose)." Tod
 
 Award leave is offered for End of Year Performance Awards and Special Act Awards.
 
-- If you are eligible for an [End of Year Performance Award]({{site.baseurl}}/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus), you can [opt-in via HRLinks](https://corporateapps.gsa.gov/files/TimeOffAwardPreference_JobAid-October-2020.pdf) to receive Award Leave in lieu of a monetary award.
+- If you are eligible for an [End of Year Performance Award]({{site.baseurl}}/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus), you can [opt-in via HRLinks](https://corporateapps.gsa.gov/files/TimeOffAwardPreference.pdf) to receive Award Leave in lieu of a monetary award.
 - If you are receiving a TTS Special Act Award, you will be notified and asked for your preference of award leave or a monetary award.
 
 You can receive a maximum of 80 hours of award leave in a single fiscal year. If you receive a Special Act Award after hitting the 80 hour cap, your award will be monetary.
