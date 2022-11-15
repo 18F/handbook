@@ -41,6 +41,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [TTS Designer (GS14/15)](https://join.tts.gsa.gov/join/tts-designer/) - open Thursday, September 22nd, 2022 through Thursday, September 21st, 2023 or until all selections have been made
 
+[U﻿SDC Director (GS15)](https://join.tts.gsa.gov/join/usdc-director/) - open Thursday, November 11th, 2022 through Monday, November 21st, 2022
+
 ### Internal only opportunities
 
 [e﻿Rulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit) Open Friday, October 28th through Tuesday, February 28th
