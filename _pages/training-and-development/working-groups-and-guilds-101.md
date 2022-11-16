@@ -105,7 +105,7 @@ Guild meeting times can also be found on the [TTS Working Groups & Guilds Calend
         <th class="col-grouplet" id="accessibility">Accessibility</th>
         <td class="col-description">
           We help TTS develop good, accessible products from the start of production in order to provide an excellent user experience for everyone. <br />
-          <a href="https://accessibility.18f.gov/">Homepage</a>
+          <a href="https://accessibility.18f.gov/">18F Accessibility Guide</a>
           &bull;
           <a href="https://gsa-tts.slack.com/messages/g-accessibility/">#g-accessibility</a>
         </td>
@@ -127,7 +127,7 @@ Guild meeting times can also be found on the [TTS Working Groups & Guilds Calend
         <th class="col-grouplet" id="content">Content</th>
         <td class="col-description">
           We promote concise, elegant, user-centered content.<br />
-          <a href="https://content-guide.18f.gov/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-content">#g-content</a>
+          <a href="https://content-guide.18f.gov/">18F Content Guide</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-content">#g-content</a>
         </td>
         <td>
           Michelle Rago - 18F
@@ -140,15 +140,15 @@ Guild meeting times can also be found on the [TTS Working Groups & Guilds Calend
           <a href="https://gsa-tts.slack.com/messages/g-diversity">#g-diversity</a>
         </td>
         <td>
-          Patrick Kigongo - 18F<br>
-          Jon Roberts - 18F
+          Pia Scott - Solutions<br />
+          Magdaline Derosena - 18F
         </td>
       </tr>
       <tr>
         <th id="engineering">Engineering Practices</th>
         <td class="col-description">
           Promoting smart and scalable engineering practices across the frontend and backend. <br />
-          <a href="https://github.com/18F/development-guide">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/C02CD5VUQ">#dev</a>
+          <a href="https://github.com/18F/development-guide">Eng Guide repo</a> &bull; <a href="https://gsa-tts.slack.com/messages/C02CD5VUQ">#dev</a>
         </td>
         <td>
           Sven Aas - U.S. Digital Corps<br>
@@ -159,11 +159,12 @@ Guild meeting times can also be found on the [TTS Working Groups & Guilds Calend
         <th id="design-research">Research</th>
         <td class="col-description">
           We envision a world where government agencies use research to shape their decision making processes. <br />
-          <a href="https://github.com/18F/g-research/">Homepage</a> &bull; <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
+          <a href="https://gsa-tts.slack.com/messages/g-research">#g-research</a>
         </td>
         <td>
-          Becky Slogeris - PIF<br>
-          Megan Moser - 18F
+          Becky Slogeris - PIF<br />
+          Dave Luetger - 18F <br />
+          Megan Moser - CoE
         </td>
       </tr>
       <tr>
@@ -173,8 +174,7 @@ Guild meeting times can also be found on the [TTS Working Groups & Guilds Calend
           <a href="https://gsa-tts.slack.com/messages/g-security-compliance">#g-security-compliance</a>
         </td>
         <td>
-          Sue Frederick - TTS<br>
-          Alyssa Feola - SOL
+          Sue Frederick - TTS
         </td>
       </tr>
     </tbody>
@@ -229,7 +229,7 @@ Current 18F Collectives:
       </tr>
       <tr>
         <th class="col-grouplet">Project Resources</th>
-        <td>Nina Mak & Malaika Carpenter</td>
+        <td>Vacant</td>
         <td>
           <a href="https://gsa-tts.slack.com/messages/c-project-resources">#c-project-resources</a>
         </td>
