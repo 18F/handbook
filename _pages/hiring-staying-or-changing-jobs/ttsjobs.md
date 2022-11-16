@@ -20,13 +20,14 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
+
 This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion Process
-* Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and local government agencies
+- TTS Internal competitions (e.g. directors, supervisors) and developmental opportunities (e.g. details, leads) within TTS
+- Hiring actions using the Excepted Service version of the Merit Promotion Process
+- Links to USAJobs Announcements for hiring actions using the Competitive Service (Career) Merit Promotion Process
+- Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page, please join the [\#tts-jobs](https://gsa-tts.slack.com/messages/tts-jobs/) (for TTS opportunities) and [\#wg-govcareer](https://gsa-tts.slack.com/messages/wg-govcareer) (for opportunities with other federal agencies) Slack channels.
 
@@ -36,7 +37,7 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 ### Opportunities open to the public
 
-[T﻿ESTESTESTJAEELFJA](https://join.tts.gsa.gov/join/tts-designer13/)DKFLJDASKFLJADS;FLKDASJFIWEA;RJEAFJDSA TEST 
+[T﻿ESTESTESTJAEELFJA](https://join.tts.gsa.gov/join/tts-designer13/)DKFLJDASKFLJADS;FLKDASJFIWEA;RJEAFJDSA TEST
 
 [TTS Designer (GS13)](https://join.tts.gsa.gov/join/tts-designer13/) - open Friday, October 7th, 2022 through Friday, October 6th, 2023 or until all selections have been made
 
@@ -58,7 +59,7 @@ Be sure to stay informed of current job postings relevant to technology transfor
 
 **Various Federal Agencies**
 
-- - -
+---
 
 ### Still have questions?
 
