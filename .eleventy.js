@@ -14,6 +14,7 @@ const {
   slackChannelLinkShortcode,
   uswdsIconShortcode,
 } = require("./config/shortcodes");
+const { headingLinks } = require("./config/headingLinks");
 
 module.exports = function (config) {
   // Set pathPrefix for site
@@ -110,12 +111,7 @@ module.exports = function (config) {
   let markdownLibrary = markdownIt({
     html: true,
   }).use(markdownItAnchor, {
-    permalink: markdownItAnchor.permalink.ariaHidden({
-      placement: "after",
-      class: "direct-link",
-      symbol: "#",
-      level: [1, 2, 3, 4],
-    }),
+    permalink: headingLinks, // use our custom heading links
     slugify: config.getFilter("slugify"),
   });
   config.setLibrary("md", markdownLibrary);

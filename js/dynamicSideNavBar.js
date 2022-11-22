@@ -25,7 +25,18 @@ document.addEventListener("DOMContentLoaded", () => {
       nav.appendChild(list);
 
       for (const heading of headings) {
-        const title = heading.innerText.replace(/\s*#$/, "");
+        // Remove any heading permalink content. Our 11ty build adds permalinks
+        // to all headers in the main body of content. Those links are just a
+        // link 🔗 icon. Those icons should NOT show up in the floating
+        // navigation sidebar, so... we'll just throw them away.
+        //
+        // But do that on a clone because we don't mess up the real DOM.
+        const clone = heading.cloneNode(true);
+        for (const child of clone.querySelectorAll(".heading-permalink")) {
+          child.remove();
+        }
+
+        const title = clone.innerText;
         const id = heading.getAttribute("id");
 
         const item = document.createElement("li");
