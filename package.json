@@ -1,6 +1,6 @@
 {
   "name": "tts-handbook",
-  "version": "3.0",
+  "version": "3.0.0",
   "description": "The TTS Handbook",
   "scripts": {
     "build": "npm run assets:build && npx @11ty/eleventy",

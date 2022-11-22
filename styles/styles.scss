@@ -17,24 +17,3 @@
     width: 100%;
   }
 }
-
-// More sensible positioning of the search.gov bar
-header.usa-header {
-  position: relative;
-  .usa-logo__text {
-    font-size: 1.46rem;
-  }
-
-  nav.usa-nav {
-    position: initial;
-
-    .usa-nav__inner {
-      position: initial;
-
-      .usa-nav__secondary {
-        top: 0;
-        bottom: initial;
-      }
-    }
-  }
-}
