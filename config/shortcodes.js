@@ -8,6 +8,10 @@ async function imageWithClassShortcode(imagePath, cssClass, altText) {
   const metadata = await Image(imagePath, {
     formats: [fileType],
     outputDir: "./_site/assets/images/",
+    filenameFormat: (id, src, width, format, options) => {
+      const basename = path.basename(src, `.${format}`);
+      return `${basename}.${id}.${format}`;
+    },
   });
 
   const data = metadata[fileType]?.[0] ?? metadata.jpeg[0];
