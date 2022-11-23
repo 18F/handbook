@@ -15,6 +15,7 @@ const {
   uswdsIconShortcode,
 } = require("./config/shortcodes");
 const { headingLinks } = require("./config/headingLinks");
+const postbuild = require("./config/postbuild");
 
 module.exports = function (config) {
   // Set pathPrefix for site
@@ -147,6 +148,10 @@ module.exports = function (config) {
 
   config.addLiquidShortcode("page", (link) => path.join(pathPrefix, link));
 
+  config.on("eleventy.after", async () => {
+    await postbuild();
+  });
+
   return {
     // Control which files Eleventy will process
     // e.g.: *.md, *.njk, *.html, *.liquid
@@ -161,16 +166,6 @@ module.exports = function (config) {
     // Other template engines are available
     // See https://www.11ty.dev/docs/languages/ for other engines.
     htmlTemplateEngine: "liquid",
-
-    // -----------------------------------------------------------------
-    // If your site deploys to a subdirectory, change `pathPrefix`.
-    // Don’t worry about leading and trailing slashes, we normalize these.
-
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for link URLs (it does not affect your file structure)
-    // Best paired with the `url` filter: https://www.11ty.dev/docs/filters/url/
-
-    // You can also pass this in on the command line using `--pathprefix`
 
     // Optional (default is shown)
     pathPrefix: pathPrefix,

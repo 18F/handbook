@@ -1,12 +1,24 @@
-document.addEventListener("DOMContentLoaded", () => {
-  // The .layout-table-of-contents element only exists on the front page, and we
-  // don't want the sidenav on the front page. So if the element does NOT exist,
-  // add the sidenav!
-  if (!document.querySelector(".layout-table-of-contents")) {
+const buildSidenavs = async (path, dom, verbose = false) => {
+  const {
+    window: { document },
+  } = dom;
+
+  const log = verbose
+    ? (path) => {
+        console.log(`[side nav] processing ${path}`);
+      }
+    : () => {};
+
+  const isFrontPage = !!document.querySelector(".layout-table-of-contents");
+  const hasNav = !!document.querySelector("nav.inline-navigation");
+
+  if (!isFrontPage && !hasNav) {
     // Only traverse down to h3 so the table of contents is not unwieldy
     const headings = document.querySelectorAll("main > h2, main > h3");
 
     if (headings.length) {
+      log(path);
+
       const body = document.querySelector("body");
       body.setAttribute(
         "class",
@@ -18,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nav.setAttribute("class", "inline-navigation");
 
       const h1 = document.createElement("h1");
-      h1.innerText = "On this page:";
+      h1.textContent = "On this page:";
       nav.appendChild(h1);
 
       const list = document.createElement("ul");
@@ -36,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
           child.remove();
         }
 
-        const title = clone.innerText;
+        const title = clone.textContent.trim();
         const id = heading.getAttribute("id");
 
         const item = document.createElement("li");
@@ -45,12 +57,18 @@ document.addEventListener("DOMContentLoaded", () => {
         list.appendChild(item);
       }
 
-      const title = document.querySelector("main > h1[page-title]");
+      const title = document.querySelector("main > h1[data-page-title]");
       if (title) {
         title.insertAdjacentElement("afterend", nav);
       } else {
         document.querySelector("main").insertAdjacentElement("afterbegin", nav);
       }
+
+      return true;
     }
   }
-});
+
+  return false;
+};
+
+module.exports = buildSidenavs;
