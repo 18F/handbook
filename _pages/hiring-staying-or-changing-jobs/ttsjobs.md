@@ -45,6 +45,8 @@ If you know an awesome person for a TTS role or just know a great person that yo
 
 [e﻿Rulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit) Open Friday, October 28th through Tuesday, February 28th
 
+[18F Account Manager](https://docs.google.com/document/d/1tdqMHihMNR03eVpHQpa4AkLVMMZmoagKKZy2MMze1YU/edit#) Open Wednesday, November 23rd through Wednesday, December 28th
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
