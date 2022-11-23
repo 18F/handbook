@@ -44,7 +44,9 @@ Fortunately, we have made a lot of progress in developing approved processes for
 
 In general, if you are conducting research with members of the public, you should compensate them for their time and expertise. Offering compensation is critical to reaching the people most in need of government services. It helps ensure that we are gathering feedback and input from diverse audiences to develop and improve our products and services. It makes it easier to recruit participants, especially from underserved communities, and helps build trust. Without providing incentives and compensation, we are likely to hear only from the people who can afford to volunteer their time.
 
-However, there are exceptions when it comes to financial compensation. Federal government employees, paid NGO staff, and private company employees being interviewed or participating in research activities as part of their paid duties are typically not eligible for compensation. Additionally, state, local, tribal and territory government employees are likely not eligible. You should work directly with your participants to understand any restrictions on financial compensation or other relevant rules and regulations. 
+### Who is not eligible for compensation? 
+
+There are exceptions when it comes to financial compensation. Federal government employees, paid NGO staff, and private company employees being interviewed or participating in research activities as part of their paid duties are typically not eligible for compensation. Additionally, state, local, tribal and territory government employees are likely not eligible. You should work directly with your participants to understand any restrictions on financial compensation or other relevant rules and regulations. 
 
 In addition to paying participants, there are other ways to recognize the value of participants’ knowledge and experience. These can include:
 - Opportunity to provide feedback on design over time
