@@ -12,7 +12,7 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 
 ### New hires
 
-Follow [these instructions](https://docs.google.com/document/d/1vA6FRVqUnI-Z9XCgx9p6nZ7FS8cmpj7X42_hbiZfLAY/edit#heading=h.gjdgxs) to submit your [benefits forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form). You can email your GSA HR Benefits contact listed in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document if you have any questions.
+Follow [these instructions](https://docs.google.com/document/d/1vA6FRVqUnI-Z9XCgx9p6nZ7FS8cmpj7X42_hbiZfLAY/edit#heading=h.gjdgxs) to make your benefits selections in [HR Links](https://hrlinks.gsa.gov/). You can email your GSA HR Benefits contact listed in the [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) document if you have any questions.
 
 ### Current employees
 
