@@ -1,0 +1,69 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: node:16
+    steps:
+      - checkout
+      - run:
+          name: install dependencies
+          command: npm install
+      - run:
+          name: build
+          command: npm run build
+      - persist_to_workspace:
+          root: .
+          paths:
+            - node_modules
+            - _site
+
+  validate html:
+    docker:
+      - image: node:16
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: validate HTML
+          command: npm run test:html-validation
+
+  validate internal links:
+    docker:
+      - image: node:16
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: validate internal links
+          command: npm run test:internal-links
+
+  validate links use helper:
+    docker:
+      - image: node:16
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: validate internal links use the {% page %} helper
+          command: npm run test:prefixed-links
+
+workflows:
+  version: 2
+  test the built static content:
+    jobs:
+      - build
+      - validate html:
+          name: validate HTML
+          requires:
+            - build
+      - validate internal links:
+          name: validate internal links
+          requires:
+            - build
+      - validate links use helper:
+          name: validate internal links use the {% page %} helper
+          requires:
+            - build
