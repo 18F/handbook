@@ -127,6 +127,10 @@ If you are leaving the federal government, your final day at TTS must be worked 
 
 If you are taking a new role within the federal government, the above restrictions do not apply.
 
+### Notifying GSA of international travel (for security clearance holders)
+
+If you are travelling internationally and hold a security clearance, you are required to notify GSA. Follow the [guidance on international travel for clearance holders](https://insite.gsa.gov/services-and-offices/staff-offices/office-of-mission-assurance/divisions-program-offices/personnel-security-division/foreign-travel-information-page) that is on InSite. This notification is optional if you do not hold a clearance.
+
 ## Types of leave
 
 ### Annual leave
