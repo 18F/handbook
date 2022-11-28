@@ -5,26 +5,27 @@ questions:
 redirect_from:
   - /tock/
 ---
+
 ## Quick reference
 
 **18F staff should only enter time in the following categories:**
 
-* **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F.
-* **18F Business Ops - #1195:** Time specifically spent working on 18F business development efforts.
-* **18F Hiring / Onboarding - #1241:** Time specifically spent working on 18F hiring (such as preparing interview guides, reading resumes, interviews and debriefs) or onboarding (such as new employee onboarding classes, acting as an onboarding buddy, or completing paperwork related to new hires).
-* **18F / External Detail - #1280:** Time spent on external details, not including projects which have other, more specific tock lines established.
-* **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
-* **Out of Office - #670:** Vacation time, federal holidays, sick time, and administrative leave (including early dismissals).
-* **18F Project work - project ID varies:** The specific projects you're working on.
-* **18F Engagement Management - project ID varies:** This code is used for non-primary project team members for any support given to the project, including staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, meeting to share information and lessons learned from other projects, etc.
+- **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F.
+- **18F Business Ops - #1195:** Time specifically spent working on 18F business development efforts.
+- **18F Hiring / Onboarding - #1241:** Time specifically spent working on 18F hiring (such as preparing interview guides, reading resumes, interviews and debriefs) or onboarding (such as new employee onboarding classes, acting as an onboarding buddy, or completing paperwork related to new hires).
+- **18F / External Detail - #1280:** Time spent on external details, not including projects which have other, more specific tock lines established.
+- **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
+- **Out of Office - #670:** Vacation time, federal holidays, sick time, and administrative leave (including early dismissals).
+- **18F Project work - project ID varies:** The specific projects you're working on.
+- **18F Engagement Management - project ID varies:** This code is used for non-primary project team members for any support given to the project, including staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, meeting to share information and lessons learned from other projects, etc.
 
 **Cloud.gov**
 
-* cloud.gov is not currently using Tock to record regular work. An exception is billable work performed for 18F.  More specific Tock instructions for Cloud team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
+- cloud.gov is not currently using Tock to record regular work. An exception is billable work performed for 18F.  More specific Tock instructions for Cloud team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
 
 **Centers of Excellence**
 
-* **COE /Non-Billable Hours (Line #1145):** Time spent working on non-project work for COE.
+- **COE /Non-Billable Hours (Line #1145):** Time spent working on non-project work for COE.
 
 ## What is Tock, and why do we use it?
 
@@ -44,8 +45,8 @@ Timecards for the current week should be available no later than Monday at 9AM P
 
 Tock is a different tool than HR Links and is used for a different purpose:
 
-* Tock is an internal TTS tool that tracks our billable hours on projects; we often use that data to bill our agency partners.
-* HR Links is a GSA-level tool that records how much and what kind of leave (sick, annual, family) an employee takes during a given two-week pay period.
+- Tock is an internal TTS tool that tracks our billable hours on projects; we often use that data to bill our agency partners.
+- HR Links is a GSA-level tool that records how much and what kind of leave (sick, annual, family) an employee takes during a given two-week pay period.
 
 It can be confusing because out of office time IS tracked in Tock. But that’s only so we can understand that you weren’t billing to a project because you were out of the office. Leave can only be officially requested via HR Links.
 
@@ -55,9 +56,9 @@ Supervisors approve and submit HR Links timesheets every two weeks (during the w
 
 Billable Tock projects can only be created by TTS Operations staff and only after an agreement has been signed. TTS Operations staff will create the project using the following information provided from the account manager responsible for the project:
 
-* A title, with the organization and client name as the leading part of the title.
-* A 2-3 sentence description of the project.
-* The name of the lead for the project.
+- A title, with the organization and client name as the leading part of the title.
+- A 2-3 sentence description of the project.
+- The name of the lead for the project.
 
 Account managers can request the creation of a project in [\#tock](https://gsa-tts.slack.com/messages/tock).
 
@@ -67,41 +68,43 @@ Account managers can request the creation of a project in [\#tock](https://gsa-t
 
 You **must** bill for the below activities because these are direct costs. This means they are directly bringing value to the partner agency you are working for. We have a legal obligation to bill for them. They include:
 
-* Work that enables project delivery, such as:
+- Work that enables project delivery, such as:
 
-  * Any activity that develops skills or knowledge necessary to perform work on an assigned project
+  - Any activity that develops skills or knowledge necessary to perform work on an assigned project
 
-    * Examples: guild meetings, guild work, working groups and communities, project related skill development like reading, studying, online searches, or fixing an issue on your project - basically if it applies to your project's work you should bill it
-  * 1:1 with supervisor/facilitator (both individual and supervisor/facilitator should bill to the project)
-  * Critique groups
-  * When coordinating staffing for projects with a signed IAA, bill to the project you're staffing
-* Project delivery work, such as:
+    - Examples: guild meetings, guild work, working groups and communities, project related skill development like reading, studying, online searches, or fixing an issue on your project - basically if it applies to your project's work you should bill it
 
-  * Discipline-specific work for a project, i.e. Engineering, Design, Product, or Strategy work
-  * Project team meetings (stand-ups, grooming, planning, retro, and anything else!)
-  * 1:1s with project team members
-  * Client meetings
-  * Travel to client meetings, as well as time spent arranging travel and getting reimbursement
-  * Time reading Slack channels about the project
-  * Time reading emails about a project
-  * Time thinking/brainstorming about project work, even if not in front of your computer
-  * Time talking about your project at team meetings, or publicly
-  * Time writing about your project on the blog
-  * Time onboarding to a project, which includes reading documentation and learning about the agency
-  * Time offboarding from a project. This includes post-mortems, writing documentation, and organizing your working files so that other people could pick it up later and continue your work
-  * Business development and IAA work (for continuing projects only)
-  * Conferences, training and meetings that are in service of project work
+  - 1:1 with supervisor/facilitator (both individual and supervisor/facilitator should bill to the project)
+  - Critique groups
+  - When coordinating staffing for projects with a signed IAA, bill to the project you're staffing
+
+- Project delivery work, such as:
+
+  - Discipline-specific work for a project, i.e. Engineering, Design, Product, or Strategy work
+  - Project team meetings (stand-ups, grooming, planning, retro, and anything else!)
+  - 1:1s with project team members
+  - Client meetings
+  - Travel to client meetings, as well as time spent arranging travel and getting reimbursement
+  - Time reading Slack channels about the project
+  - Time reading emails about a project
+  - Time thinking/brainstorming about project work, even if not in front of your computer
+  - Time talking about your project at team meetings, or publicly
+  - Time writing about your project on the blog
+  - Time onboarding to a project, which includes reading documentation and learning about the agency
+  - Time offboarding from a project. This includes post-mortems, writing documentation, and organizing your working files so that other people could pick it up later and continue your work
+  - Business development and IAA work (for continuing projects only)
+  - Conferences, training and meetings that are in service of project work
 
 You must not bill for the following activities because these are indirect costs and are not inherently valuable to any one single partner. As a result, we distribute the costs for these amongst all our partners via our hourly rate. Recording these as billable would mean we're billing for them twice.
 
-* [Out of office (Award leave, sick leave, PTO)]({{site.baseurl}}/travel-and-leave/leave/#time-tracking)
-* Conferences, trainings and meetings that are not in service of project work
-* OLU trainings that are not in service of project work
-* Internal organization meetings (Team Coffees, TTS Town Hall)
-* Business development for new projects (on non-live projects). Developing continuation work plan is okay to bill)
-* Hiring activities, including interviews, resume reviews, stand-ups
-* Performance reviews
-* New hire onboarding
+- [Out of office (Award leave, sick leave, PTO)]({{site.baseurl}}/travel-and-leave/leave/#time-tracking)
+- Conferences, trainings and meetings that are not in service of project work
+- OLU trainings that are not in service of project work
+- Internal organization meetings (Team Coffees, TTS Town Hall)
+- Business development for new projects (on non-live projects). Developing continuation work plan is okay to bill)
+- Hiring activities, including interviews, resume reviews, stand-ups
+- Performance reviews
+- New hire onboarding
 
 ### Tocking for Out of Office time
 
@@ -145,20 +148,20 @@ If you still find that you don't have enough work to bill to the hour expectatio
 
 Working more than 32 billable hours is just fine! 32 is the minimum. However, we can't work more than 40 total hours without being compensated for that time. If you find yourself needing to work more than 40 hours, here are the steps to take:
 
-* Before you work those extra hours, talk to your Account Manager and supervisor to figure out if and how much over 40 you can work. The Account Manager will need to check and then adjust the project's financial accounting.
-* Get your supervisor's approval in writing
-* Request overtime in #tock. The Tock admin will adjust the Tock setting to allow for 40+ hours to be recorded
-* Work your week!
-* Log total hours in Tock
-* Log total hours in HR Links. This is where your comp time will be recorded and from where you'll use it for future leave. In HR Links, you'll also need to navigate to `Request Absence/OT` and make a `Comp time earned` request for the extra hours you worked.
+- Before you work those extra hours, talk to your Account Manager and supervisor to figure out if and how much over 40 you can work. The Account Manager will need to check and then adjust the project's financial accounting.
+- Get your supervisor's approval in writing
+- Request overtime in #tock. The Tock admin will adjust the Tock setting to allow for 40+ hours to be recorded
+- Work your week!
+- Log total hours in Tock
+- Log total hours in HR Links. This is where your comp time will be recorded and from where you'll use it for future leave. In HR Links, you'll also need to navigate to `Request Absence/OT` and make a `Comp time earned` request for the extra hours you worked.
 
 No matter how many hours you work, it is crucial that you accurately report those hours in Tock and receive compensation for that time. Knowing the actual amount of time you work helps us better scope and estimate costs and rates.
 
 Also, please don’t “save” hours or avoid billing for time you’ve actually worked. In addition to hurting our capacity to improve our project scoping assumptions, it is illegal not to bill for time actually spent working for partners. There are several mechanisms and processes in place to make sure projects don’t go over budget:
 
-* When creating new project budgets, we include enough funds to allow for full capacity for each person for the duration of the project.
-* We build in a risk reserve to each project to ensure we have extra hours for needs that arise during the project.
-* Account Managers closely monitor project burns on a weekly basis and communicate that to Project Leads and Product Managers.
+- When creating new project budgets, we include enough funds to allow for full capacity for each person for the duration of the project.
+- We build in a risk reserve to each project to ensure we have extra hours for needs that arise during the project.
+- Account Managers closely monitor project burns on a weekly basis and communicate that to Project Leads and Product Managers.
 
 In short, we need to know if our scoping is accurate. We'd rather be over budget and have our teams delivering value than be under budget and hiding how many hours it truly takes to deliver on our engagements.
 
